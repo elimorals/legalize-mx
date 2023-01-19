@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-de-los-derechos-humanos-antes-101"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-29"
-last_updated: "2021-05-20"
+last_updated: "2023-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-25"
 
 LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 29 de junio de 1992.
 
@@ -553,11 +553,11 @@ Las organizaciones no gubernamentales legalmente constituidas podrán acudir ant
 
 La queja sólo podrá presentarse dentro del plazo de un año, a partir de que se hubiera iniciado la ejecución de los hechos que se estimen violatorios, o de que el quejoso hubiese tenido conocimiento de los mismos. En casos excepcionales, y tratándose de infracciones graves a los derechos humanos, la Comisión Nacional podrá ampliar dicho plazo mediante una resolución razonada. No contará plazo alguno cuando se trate de hechos que por su gravedad puedan ser considerados violaciones de lesa humanidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE ENERO DE 2023)</small>
 
 ###### ARTICULO 27.
 
-La instancia respectiva deberá presentarse de forma oral, por escrito o por lenguaje de señas mexicanas y podrá formularse por cualquier medio de comunicación eléctrica, electrónica o telefónica y a través de mecanismos accesibles para personas con discapacidad. No se admitirán comunicaciones anónimas, por lo que toda queja o reclamación deberá ratificarse dentro de los tres días siguientes a su presentación, si el quejoso no se identifica y la suscribe en un primer momento.
+La instancia respectiva deberá presentarse de forma oral, por escrito o por lenguaje de señas mexicanas y podrá formularse por cualquier medio de comunicación eléctrica, electrónica o telefónica y a través de mecanismos accesibles para personas con discapacidad. No se admitirán comunicaciones anónimas, por lo que toda queja o reclamación deberá ratificarse dentro de los cinco días siguientes a su presentación, si el quejoso no se identifica y la suscribe en un primer momento.
 
 Cuando los quejosos o denunciantes se encuentren recluidos en un centro de detención o reclusorio, sus escritos deberán ser trasmitidos a la Comisión Nacional sin demora alguna por los encargados de dichos centros o reclusorios o aquéllos podrán entregarse directamente a los Visitadores Generales o adjuntos.
 
@@ -1140,3 +1140,9 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 19 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 27 DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
