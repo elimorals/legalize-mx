@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2022-09-30"
+last_updated: "2023-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE ENERO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -56,11 +56,15 @@ LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO
 
 DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2023)</small>
 
 ###### Artículo 1.
 
-Las disposiciones contenidas en este ordenamiento son de orden público e interés general y tienen por objeto regular el funcionamiento de los establecimientos mercantiles de la Ciudad de México.
+Las disposiciones contenidas en este ordenamiento son de orden público e interés general y tienen por objeto regular la apertura y el funcionamiento de los establecimientos mercantiles de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+No serán objeto de regulación de la presente Ley, los locales destinados a la actividad industrial.
 
 ###### Artículo 2.
 
@@ -70,13 +74,51 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Administración Pública: El conjunto de dependencias y órganos que integran la administración centralizada, desconcentrada y paraestatal de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+I bis. Actividad complementaria: actividades adicionales, afines al giro principal manifestado en el Aviso ingresado al Sistema;
+
 II. Aforo: Es el número de personas que pueden ingresar y permanecer en un establecimiento mercantil. En el reglamento de la ley se establecerán los procedimientos, términos y formas para determinar número máximo de personas, atendiendo la necesidad de garantizar la seguridad;
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-III. Centro Comercial: Cualquier inmueble dentro de la Ciudad de México, que independientemente del uso que le corresponda por los programas delegacionales de desarrollo urbano, alberga un número determinado de establecimientos mercantiles (ya sea temporales o permanentes), que se dedican a la intermediación y comercialización de bienes y servicios; en donde cada establecimiento en lo individual, debe contar con los avisos o permisos que correspondan, que avale su funcionamiento según su naturaleza.
+III. Centro o Plaza Comercial: Cualquier inmueble dentro de la Ciudad de México, que independientemente del uso que le corresponda por los programas delegacionales de desarrollo urbano, alberga un número determinado de establecimientos mercantiles (ya sea temporales o permanentes), que se dedican a la intermediación y comercialización de bienes y servicios; en donde cada establecimiento en lo individual, debe contar con los avisos o permisos que correspondan, que avale su funcionamiento según su naturaleza.
 
-IV. Clausura: El acto administrativo a través del cual la autoridad, como consecuencia del incumplimiento de la normatividad correspondiente, ordena suspender o impedir las actividades o funcionamiento de un establecimiento mercantil mediante la colocación de sellos en el local correspondiente, pudiendo ser de carácter temporal o permanente, parcial o total;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE ENERO DE 2023)</small>
+
+IV. Aviso: trámite administrativo mediante el cual las personas físicas o morales por conducto de su representante legal, a través del Sistema manifiestan bajo protesta de decir verdad que cumplen con los requisitos previstos en la Ley, para los siguientes avisos:
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+a) Apertura de un establecimiento mercantil con giro de bajo impacto;
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+b) Apertura de un establecimiento mercantil con giro de impacto vecinal y su revalidación;
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+c) Modificación del domicilio de establecimiento mercantil con motivo de cambio de nomenclatura;
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+d) Colocación de enseres y su revalidación;
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+e) Cambio de giro mercantil;
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+f) Cierre de actividades;
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+g) Traspaso del establecimiento mercantil; y
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+h) Modificaciones del establecimiento o giro.
 
 V. Clausura Permanente: El acto administrativo a través del cual la autoridad, como consecuencia del incumplimiento grave o reiterado a la normatividad correspondiente, ordena suspender las actividades o funcionamiento de un establecimiento mercantil de forma inmediata;
 
@@ -86,7 +128,9 @@ VII. Clausura Temporal: El acto administrativo a través del cual la autoridad, 
 
 VIII. Delegaciones: Los órganos político administrativos en cada una de las demarcaciones territoriales en que se divide el Distrito Federal;
 
-IX. Dependiente: Toda aquella persona que desempeñe constantemente las gestiones propias del funcionamiento del establecimiento mercantil en ausencia del titular, a nombre y cuenta de éste y/o encargado del debido funcionamiento del establecimiento mercantil;
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+
+IX. Alcaldías: órganos político administrativos en cada una de las demarcaciones territoriales en que se divide la Ciudad de México;
 
 X. Enseres en vía pública: Aquellos objetos necesarios para la prestación del servicio de los establecimientos mercantiles, como sombrillas, mesas, sillas o cualquier instalación desmontable que estén colocados en la vía pública pero que no se hallen sujetos o fijos a ésta;
 
@@ -114,6 +158,10 @@ XVII. Instituto: El Instituto de Verificación Administrativa de la Ciudad de M�
 
 XVIII. Ley: La Ley de Establecimientos Mercantiles de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+XVIII bis. Padrón: relación de establecimientos mercantiles en el territorio de la Ciudad de México;
+
 > <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
 XIX. Programa Interno de Protección Civil: Instrumento de planeación y operación, circunscrito al ámbito de una dependencia, entidad, establecimiento, empresa, institución u organismo del sector público, privado o social que tiene como propósito reducir los riesgos previamente identificados y definir acciones preventivas y de respuesta para estar en condiciones de evitar o atender la eventualidad de alguna emergencia o desastre;
@@ -126,13 +174,13 @@ XX. Secretaría de Desarrollo Económico: La Secretaría de Desarrollo Económic
 
 XXI. Secretaría de Gobierno: La Secretaría de Gobierno de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-XXII. Sistema: El sistema informático que establezca la Secretaria de Desarrollo Económico, a través del cual los particulares presentarán los Avisos y Solicitudes de Permisos a que se refiere esta Ley;
+XXII. Sistema: Sistema Electrónico de Avisos y Permisos de Establecimientos Mercantiles a cargo de la Secretaría de Desarrollo Económico de la Ciudad de México, mediante el cual, las personas Titulares de los establecimientos mercantiles, presentan los Avisos y las Solicitudes de Permisos o Autorizaciones a que hace referencia esta Ley;
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-XXIII. Solicitud de Permiso: Acto a través del cual una persona física o moral por medio del Sistema inicia ante la Alcaldía el trámite para operar un giro con impacto vecinal o impacto zonal;
+XXIII. Solicitud de Permiso: acto a través del cual una persona física o moral solicita, por medio del Sistema, ante la Alcaldía el trámite para operar un giro con impacto zonal;
 
 XXIV. Suspensión Temporal de Actividades: El acto a través del cual la autoridad, como consecuencia de un incumplimiento a la normatividad correspondiente, ordena suspender las actividades de forma inmediata de un establecimiento mercantil en tanto se subsana el incumplimiento;
 
@@ -146,15 +194,17 @@ XXVII. Traspaso: La transmisión que el Titular haga de los derechos consignados
 
 XXVIII. Verificación: El acto administrativo por medio del cual, la autoridad, a través de los servidores públicos autorizados para tales efectos, comprueba el cumplimiento de las disposiciones jurídicas aplicables para el funcionamiento de los establecimientos mercantiles.
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
 
 ###### Artículo 3.
 
-Para efectos de la presente Ley, es supletoria la Ley de Procedimiento Administrativo de la Ciudad de México, además los titulares y dependientes de los establecimientos mercantiles, así como los servidores públicos de la Administración Pública Local deberán acatar las disposiciones jurídicas en las materias ambiental, protección civil, salud, desarrollo urbano, protección a la salud de los no fumadores y demás que les resulten aplicables.
+Para efectos de la presente Ley es supletoria la Ley de Procedimiento Administrativo de la Ciudad de México.
 
-## TITULO II
+Las personas titulares y dependientes de los establecimientos mercantiles, así como las personas servidoras públicas de la Administración Pública Local deberán acatar las disposiciones jurídicas en las materias ambiental, protección civil, desarrollo urbano y protección a la salud de los no fumadores.
 
-DE LAS ATRIBUCIONES.
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE ENERO DE 2023)</small>
+
+## TITULO II. DE LAS FACULTADES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -194,6 +244,26 @@ XII. A través de las dependencias competentes, creará programas de estímulos 
 
 XIII. Fomentar que los giros mercantiles de impacto zonal otorguen tarifas preferenciales en estacionamientos a sus clientes; y
 
+(NOTA 1: EL 31 DE MARZO DE 2025 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 252/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII BIS DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+(NOTA 2: EL 31 DE MARZO DE 2025 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 253/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII BIS DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+(NOTA 3: EL 31 DE MARZO DE 2025 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 254/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII BIS DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+(NOTA 4: EL 1 DE ABRIL DE 2025 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 255/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII BIS DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE ABRIL DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+(NOTA 5: EL 1 DE ABRIL DE 2025 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 256/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII BIS DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE ABRIL DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+XIII bis. IMPLEMENTAR LAS MEDIDAS QUE SE CONSIDEREN NECESARIAS PARA ATENDER EMERGENCIAS, CASOS FORTUITOS O DE FUERZA MAYOR, RESPECTO A LA APERTURA Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS MERCANTILES Y, EN SU CASO, AMPLIAR LA VIGENCIA DE LOS AVISOS O PERMISOS;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+XIII ter. Implementar, por sí o a través de las áreas correspondientes, el uso de tecnologías de la información y comunicación que permitan la innovación, al incorporar la política de mejora regulatoria mediante herramientas digitales que brinden a la ciudadanía el acceso a trámites y servicios de calidad, de manera pronta, eficaz, transparente y confidencial; y
+
 XIV. Las demás que le confieran la Ley y otras disposiciones aplicables.
 
 ###### Artículo 5.
@@ -210,9 +280,41 @@ II. Ordenar, mediante acuerdo general que deberá publicar previamente en la Gac
 
 III. Vigilar que el contenido del padrón de establecimientos mercantiles, incluya de forma detallada y pormenorizada por lo menos los siguientes rubros:
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
 
-Nombre del establecimiento mercantil, dirección, nombre del dueño o representante legal, fecha de apertura, tipo de permiso, horario permitido, y si se permite o no la venta de bebidas alcohólicas, resultado y fecha de las últimas tres verificaciones y nombre del verificador. La integración del Padrón y su debida actualización compete a las Alcaldías, en coordinación con la Secretaría de Desarrollo Económico;
+a) Nombre del establecimiento mercantil;
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+b) Domicilio;
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+c) Nombre del dueño o representante legal;
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+d) Fecha de apertura;
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+e) Tipo de permiso;
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+f) Horario permitido;
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+g) En su caso, permiso para la venta de bebidas alcohólicas;
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+h) En su caso, resultado y fecha de las últimas tres verificaciones, así como los nombres de los verificadores
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 19 DE ENERO DE 2023)</small>
+
+La integración, y actualización del Padrón compete a las Alcaldías.
 
 > <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -224,33 +326,39 @@ V. Las demás que señalen la Ley y otras disposiciones aplicables.
 
 Corresponde a la Secretaría de Desarrollo Económico:
 
-I. Implementar el Sistema en el cual se ingresarán los Avisos y Permisos para el funcionamiento de los establecimientos mercantiles a que se refiere esta Ley. Este Sistema será diseñado conforme a lo siguiente:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.O. 19 DE ENERO DE 2023)</small>
 
-a) A cada establecimiento mercantil corresponderá una clave única e irrepetible, que será utilizada por el titular para el efecto de manifestar las modificaciones y traspasos que se efectúen en los términos de esta ley;
+I. Administrar el Sistema, Este Sistema tendrá las siguientes características:
 
-b) El Sistema generará los acuses de recibo una vez que el solicitante realice las manifestaciones correspondientes al trámite de que se trate;
+a) A cada establecimiento mercantil se le asignará de manera automática una clave única e irrepetible que será utilizada por la persona titular para realizar los trámites correspondientes a las modificaciones, revalidaciones y traspasos que se efectúen en los términos de esta Ley;
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+b) (DEROGADO, G.O. 19 DE ENERO DE 2023)
 
-c) Los acuses de recibo contendrán una serie alfanumérica única e irrepetible que permita identificar la Alcaldía a que corresponde la ubicación del establecimiento mercantil, la clasificación de impacto zonal, vecinal o bajo impacto del giro y la fecha de ingreso del Aviso o Permiso;
+c) Los acuses generados automáticamente por el Sistema contendrán una serie alfanumérica única e irrepetible, que permita identificar la Demarcación Territorial a que corresponde la ubicación del establecimiento mercantil, la clasificación del giro (establecimientos mercantiles de bajo impacto, impacto vecinal o impacto zonal y la fecha de ingreso del Aviso o Solicitud de Permiso);
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+d) La Secretaría de Gobierno, la Secretaría de Desarrollo Económico y el Instituto tendrán acceso al Sistema, de conformidad con sus respectivas atribuciones y competencias. Las Alcaldías tendrán acceso al Sistema respecto de los trámites que correspondan a los establecimientos mercantiles asentados en la demarcación territorial correspondiente;
 
-d) La Secretaría de Gobierno, la Secretaría de Desarrollo Económico y el Instituto tendrán acceso total al Sistema y las Alcaldías: respecto a lo que corresponda de los establecimientos mercantiles asentados en la demarcación correspondiente;
+e) (DEROGADO, G.O. 19 DE ENERO DE 2023)
 
-e) Contará con un control de acceso a la información del propio Sistema; y
+f) Comprenderá un apartado para la información relativa a visitas de verificación administrativa, medidas de seguridad, sanciones y demás actos que conforme a esta Ley corresponda resolver a las Alcaldías y al Instituto, de acuerdo con su respectiva competencia.
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+g) El Sistema emitirá automáticamente los Acuses de los Avisos, Permisos y Autorizaciones, mediante los formatos que la Secretaría determine.
 
-f) Comprenderá un apartado para la información relativa a visitas de verificación, medidas de seguridad, sanciones y demás actos que conforme a esta Ley corresponda resolver a las Alcaldías y al Instituto de acuerdo a su competencia.
+Bajo ninguna circunstancia, los movimientos realizados al estatus de los trámites posteriores a su ingreso, que hayan sido notificados a los interesados, serán responsabilidad de la Secretaría. El otorgamiento de los permisos y autorizaciones de funcionamiento serán competencia exclusiva de las Alcaldías.
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
 
-II. Emitir las autorizaciones de acceso al Sistema a los servidores públicos acreditados por la Secretaría de Gobierno, la propia Secretaría de Desarrollo Económico, las Alcaldías y el Instituto en el ámbito de su competencia. La autorización estará conformada por una serie alfanumérica única e irrepetible y sólo con la misma podrá accederse al Sistema. Las dependencias que por razón de su competencia deban acceder al Sistema, solicitarán autorización de acceso en los términos de este artículo;
+I bis. En coordinación con la Consejería Jurídica y de Servicios Legales de la Ciudad de México, emitir opinión fundada para la interpretación de las disposiciones establecidas y relacionadas con la presente Ley;
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-III. La Secretaría de Desarrollo Económico en coordinación con las Alcaldías implementará los mecanismos en el Sistema, para que a través de este se otorguen los permisos señalados en la presente ley.
+II. Emitir las autorizaciones de acceso al Sistema a las personas servidoras públicas acreditadas por la Secretaría de Gobierno, la propia Secretaría de Desarrollo Económico, las Alcaldías y el Instituto, en el ámbito de su competencia. Las áreas que por razón de su competencia deban acceder al Sistema solicitarán autorización de acceso en los términos de este artículo; y
+
+III. (DEROGADA, G.O. 19 DE ENERO DE 2023)
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+IV. Las demás que señalen la Ley y otras disposiciones aplicables.
 
 ###### Artículo 7.
 
@@ -270,9 +378,9 @@ II. Ejecutar las medidas de seguridad y las sanciones administrativas ordenadas 
 
 Corresponde a las Alcaldías:
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-I. Elaborar, digitalizar y mantener actualizado el padrón de los establecimientos mercantiles que operen en sus demarcaciones, el cual, deberá publicarse en el portal de Internet de la Alcaldía;
+I. Elaborar y actualizar el padrón de los establecimientos mercantiles que operen en sus demarcaciones, el cual deberá publicarse en el portal de Internet de la Alcaldía;
 
 II. Ordenar visitas de verificación a establecimientos mercantiles que operen en su demarcación;
 
@@ -284,15 +392,17 @@ IV. Determinar y ordenar las medidas de seguridad e imponer las sanciones previs
 
 V. Informar de manera oficial y pública del resultado de las verificaciones realizadas sobre el funcionamiento de establecimientos mercantiles asentados en la demarcación correspondiente de acuerdo a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México y a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-VI. Otorgar o negar por medio del sistema los permisos a que hace referencia esta Ley, en un término no mayor a cinco días hábiles, en caso contrario podrán funcionar de manera inmediata, exceptuando de lo anterior a los giros de impacto zonal en los que operará la negativa ficta.
+VI. Otorgar o negar, por medio del Sistema, los permisos a que hace referencia esta Ley, en un término no mayor a cinco días hábiles. En caso contrario podrán funcionar de manera inmediata, exceptuando de lo anterior a los giros de impacto zonal en los que operará la negativa ficta.
 
-> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-Los establecimientos con giro de impacto zonal que tengan un aforo superior a cien personas, deberán contar con programa interno de protección civil, previo a la Solicitud de Permiso al Sistema.
+VII. Integrar expedientes electrónicos de los Avisos y Solicitudes de Permisos presentados en el Sistema.
 
-VII. Integrar los expedientes con todos los documentos manifestados en los Avisos o Solicitudes de Permisos ingresados en el Sistema, y que se encuentren en el ámbito de su competencia; y
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+En los trámites que se señalan en el presente artículo no podrán exigirse requisitos adicionales a los establecidos, y;
 
 VIII. Las demás que les señalen la Ley y otras disposiciones aplicables.
 
@@ -322,15 +432,27 @@ Apartado A:
 
 I. Destinar el local exclusivamente para el giro manifestado en el Aviso o Permiso según sea el caso;
 
-II. Tener en el establecimiento mercantil el original o copia certificada del Aviso o Permiso; asimismo cuando sea necesario para el funcionamiento del establecimiento mercantil original o copia de la póliza de la compañía de seguros con la cual se encuentra asegurado y del seguro de responsabilidad civil.
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
 
-En todo caso, será responsable el titular por negligencia o incumplimiento en la prestación del servicio, salvo causa de fuerza mayor o caso fortuito;
+En caso de realizar actividades complementarias, éstas deberán ser estrictamente compatibles con el giro principal.
 
-III. Revalidar el Aviso o Permiso en los plazos que señala esta Ley;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE ENERO DE 2023)</small>
 
-IV. Permitir el acceso al establecimiento mercantil al personal autorizado por el Instituto para que realicen las funciones de verificación.
+II. Tener en el establecimiento mercantil el Permiso o Aviso que sea generado por el Sistema, impreso y firmado en la última hoja por la persona titular del establecimiento mercantil o cuando se trate de persona moral, por su representante legal.
 
-Los integrantes de corporaciones policíacas que se encuentren cumpliendo una comisión legalmente ordenada, podrán tener acceso únicamente el tiempo necesario para llevar a cabo dicha comisión; en caso de atender la denuncia del titular del Establecimiento Mercantil o de su dependiente, cuando exista el señalamiento de que alguien esté incumpliendo alguna disposición legal aplicable. Los integrantes de las corporaciones policíacas que presten el auxilio, remitirán de inmediato al infractor al juez cívico competente;
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 19 DE ENERO DE 2023)</small>
+
+Asimismo, cuando sea necesario para el funcionamiento del establecimiento mercantil, deberán tener el original o copia de la póliza de la compañía de seguros con la cual se encuentra asegurado y del seguro de responsabilidad civil. En todo caso, será responsable el titular por negligencia o incumplimiento en la prestación del servicio, salvo causa de fuerza mayor o caso fortuito;
+
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+
+III. Revalidar los Avisos o Permisos solo en los casos y plazos que establezca esta Ley;
+
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+
+IV. Permitir el acceso al establecimiento mercantil al personal autorizado por el Instituto para que, en el ámbito de su competencia, realice las funciones de verificación. Dicho personal deberá estar debidamente identificado y mostrar la orden de verificación correspondiente.
+
+Los integrantes de corporaciones policíacas que se encuentren cumpliendo una comisión legalmente ordenada, podrán tener acceso únicamente el tiempo necesario para llevar a cabo dicha comisión; en caso de atender la denuncia del titular del Establecimiento Mercantil o de su dependiente, cuando exista el señalamiento de que alguien esté incumpliendo alguna disposición legal aplicable. Los integrantes de las corporaciones policíacas que presten el auxilio, remitirán de inmediato al infractor al Juzgado Cívico competente;
 
 V. Cumplir con los horarios de funcionamiento que fije la Ley y no permitir que los clientes permanezcan en su interior después del horario autorizado;
 
@@ -342,9 +464,9 @@ VII. Evitar aglomeraciones en la entrada principal, salidas y salidas de emergen
 
 Las salidas de emergencia deberán estar debidamente señaladas al interior de los establecimientos mercantiles, y cuando las características del mismo lo permitan deberán ser distintas al acceso principal de conformidad con la normativa en gestión integral de riesgos y protección civil;
 
-> <small>(REFORMADA, G.O. 4 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-VIII. Todo Perro de Asistencia, Perros de Servicio, Perros Guía, Perro de Señal, Perro de Servicio para niños del Espectro Autista, Perro de Alerta Médica; y cualquier otra categoría que pueda surgir para el auxilio y salvaguarda humana, tendrá acceso libre e irrestricto al Espacio Público, establecimientos mercantiles, instalaciones y transportes individuales o colectivos, sean de carácter público o privado, siempre que vaya acompañado de la persona a la que asiste.
+VIII. Permitir el libre acceso al establecimiento mercantil a los perros de asistencia. El establecimiento mercantil no podrá establecer condición alguna o costos por la entrada o estancia de dicho animal;
 
 > <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2022)</small>
 
@@ -356,25 +478,25 @@ IX. Exhibir y/o señalar en un lugar visible al público y con carácter de legi
 
 a) El horario en el que se prestarán los servicios ofrecidos;
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
 
-b) Un croquis que ubique claramente las rutas de evacuación, en los términos previstos en la normatividad en gestión integral de riesgos y protección civil;
+b) Un croquis que ubique claramente las rutas de evacuación, sólo cuando así lo disponga la normatividad en gestión integral de riesgos y protección civil;
 
-c) La prohibición de fumar en el establecimiento mercantil, así como las sanciones aplicables al infractor, en su caso solicitar a quienes se encuentren fumando en el establecimiento a que se abstengan de hacerlo.
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
 
-En caso de negativa exhortarlo a que abandone el establecimiento, y ante una segunda negativa solicitar el auxilio de Seguridad Pública;
+c) La prohibición de fumar en el establecimiento; y
 
 > <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
 
 d) La capacidad de aforo manifestada en el Aviso o Solicitud de Permiso.
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-X. En caso de reunir a más de 50 personas, entre clientes y empleados, contar con personal capacitado y botiquín de primeros auxilios de conformidad a la normatividad en gestión integral de riesgos y protección civil;
+X. En caso de reunir a más de 100 personas entre clientes y empleados y contar con una superficie mayor a 250 metros cuadrados, o en los demás casos que establezca la normatividad de la materia, deberá contar con Programa Interno de Protección Civil, de conformidad con lo dispuesto en la Ley de Gestión Integral de Riesgos y Protección Civil y su Reglamento;
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-XI. Contar en su caso y cuando así se requiera con un programa interno de protección civil, de conformidad con la normativa en gestión integral de riesgos y protección civil; dicho programa deberá ser revalidado cada dos años.
+XI. El Programa Interno al que se refiere la fracción anterior deberá ser registrado y validado en los términos de la normativa en materia de gestión integral de riesgos y protección civil;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE MARZO DE 2021)</small>
 
@@ -384,7 +506,9 @@ a) (DEROGADO, G.O. 2 DE MARZO DE 2021)
 
 b) (DEROGADO, G.O. 2 DE MARZO DE 2021)
 
-c) Colocar en un lugar visible al interior del establecimiento, los teléfonos de las autoridades de seguridad pública, protección civil y bomberos;
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
+
+c) Exhibir el número de emergencia 911;
 
 d) Colocar en un lugar visible, la señalización de las acciones a seguir en caso de emergencias, cuando menos en lo referente a los casos de sismos e incendios;
 
@@ -402,19 +526,25 @@ a) Tengan una superficie menor a 100 metros cuadrados;
 
 b) Se encuentren en inmuebles catalogados por el Instituto Nacional de Antropología Historia y/o el Instituto Nacional de Bellas Artes;
 
-c) Se localicen en calles peatonales;
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
+
+c) Se localicen con frente a calles peatonales;
 
 d) Cuando por virtud de certificado de uso de suelo por derechos adquiridos no estén obligados a contar con estos cajones; y
 
 e) Los establecimientos mercantiles a los que se refiere la fracción V del artículo 35 de la presente Ley.
 
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+XV. No generar ruido al exterior que afecte el derecho de terceros. La omisión a esta fracción se atenderá conforme a la Ley de Cultura Cívica y la Ley Ambiental de Protección a la Tierra, ambas vigentes en la Ciudad de México.
+
 Apartado B:
 
 Además de lo señalado en el Apartado A, los titulares de los establecimientos mercantiles de giros de impacto vecinal e impacto zonal respectivamente, deberán:
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-I. Exhibir en un lugar visible al público y con caracteres legibles: Información de la ubicación y números telefónicos de los sitios de taxis debidamente autorizados por la Secretaría de Movilidad de la Ciudad de México.
+I. Exhibir en lugar visible los números de sitios de taxis debidamente autorizados por la Secretaría de Movilidad de la Ciudad de México y prestar apoyo a quienes requieran la información o no se encuentren en condiciones de solicitar dichos servicios;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE MARZO DE 2017)</small>
 
@@ -430,21 +560,21 @@ b) El número telefónico y la página electrónica que establezcan las Alcaldí
 
 c) La leyenda que establezca lo siguiente:
 
-En este establecimiento NO DISCRIMINAMOS.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 19 DE ENERO DE 2023, PÁGINA 5. SE ADVIERTE QUE LOS ANTERIORES PÁRRAFOS SEGUNDO Y TERCERO DEL INCISO C) QUEDARON INMERSOS EN UN SOLO PÁRRAFO.]</small>
 
-En la CDMX se prohíbe negar, excluir o distinguir el acceso o prestación del servicio a cualquier persona o colectivo social por su origen étnico, nacional, raza, lengua, sexo, género, edad, discapacidad, condición jurídica, social o económica, identidad indígena, identidad de género, apariencia física, condiciones de salud, religión, formas de pensar, orientación o preferencia sexual, por tener tatuajes o cualquier otra razón que tenga como propósito impedir el goce y ejercicio de los derechos humanos.
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+“En este establecimiento NO DISCRIMINAMOS. En la CDMX se prohíbe negar, excluir o distinguir el acceso o prestación del servicio a cualquier persona o colectivo social por su origen étnico, nacional, raza, lengua, sexo, género, edad, discapacidad, condición jurídica, social o económica, identidad indígena, identidad de género, apariencia física, condiciones de salud, religión, formas de pensar, orientación o preferencia sexual, por tener tatuajes o cualquier otra razón que tenga como propósito impedir el goce y ejercicio de los derechos humanos.”
 
-Acompañará a la leyenda de la que se hace mención en el párrafo inmediato anterior el número telefónico de Locatel y los logotipos del Gobierno de la Ciudad de México y del Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México;
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
+
+Acompañará a la leyenda de la que se hace mención en el párrafo inmediato anterior el número telefónico de LOCATEL y los logotipos del Gobierno de la Ciudad de México y del Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México, y
 
 d) Que no existe consumo mínimo ni la modalidad de barra libre;
 
 III. Permitir el acceso a las instalaciones a todo usuario que lo solicite, respetando el orden de llegada, con excepción de aquellos que cuenten con una membresía, sin discriminación alguna, salvo los casos de personas en evidente estado de ebriedad, bajo el influjo de estupefacientes o que porten armas;
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
-
-IV. Posterior al ingreso de su Solicitud de Permiso presentar en un término no mayor de 30 días naturales en la Ventanilla Única de la Alcaldía correspondiente, original y copia para cotejo e integración de su expediente de los documentos enunciados en el Sistema;
+IV. (DEROGADA, G.O. 19 DE ENERO DE 2023)
 
 V. Instalar aislantes de sonido para no generar ruido, por encima de niveles permitidos por esta ley y normatividad ambiental, que afecte el derecho de terceros;
 
@@ -536,47 +666,163 @@ DE LA COLOCACIÓN DE ENSERES E INSTALACIONES EN VÍA PÚBLICA.
 
 Los titulares de los establecimientos mercantiles cuyo giro preponderante sea la venta de alimentos preparados y/o bebidas podrán colocar en la vía pública enseres e instalaciones que sean necesarios para la prestación de sus servicios, previo aviso que ingresen al Sistema y el pago de los derechos que estable (sic) el Código Fiscal de la Ciudad de México.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2023)</small>
+
 ###### Artículo 15.
 
-La colocación de los enseres e instalaciones a que se refiere el artículo anterior, procederá cuando se reúnan las siguientes condiciones:
+Para la colocación de enseres a que se refiere el artículo anterior, se deberá cumplir con lo siguiente:
 
-I. Que sean contiguos al establecimiento mercantil y desmontables, sin que se encuentren sujetos o fijos a la vía pública;
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-II. Que para el paso de peatones se deje una anchura libre de por lo menos dos metros, entre la instalación de los enseres y el arroyo vehicular;
+I. El espacio donde se pretendan colocar dichos enseres deberá ser contiguo al establecimiento mercantil, frente a la fachada de la entrada principal. En ningún caso podrá ocupar fachadas contiguas de otros predios. Los enseres no podrán estar sujetos o fijos a la vía pública;
 
-III. Que no ocupen la superficie de rodamiento para la circulación vehicular, ni áreas verdes, e impida u obstruya elementos de accesibilidad para personas de discapacidad;
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-IV. Que su instalación no impida la operación de comercios preexistentes;
+II. Cuando se coloquen enseres sobre la banqueta, deberá respetarse el paso peatonal por una anchura sin obstáculos, de por lo menos dos metros entre la instalación de los enseres y el arroyo vehicular;
 
-V. Que los enseres o instalaciones no se utilicen para preparar o elaborar bebidas o alimentos;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.O. 19 DE ENERO DE 2023)</small>
 
-VI. Que no se instalen en zonas preponderantemente destinadas al uso habitacional; y
+III. No podrán colocarse enseres en los siguientes espacios:
 
-VII. En ningún caso los enseres podrán abarcar una superficie mayor al 50% de la superficie total del establecimiento mercantil.
+a) Arroyo vehicular de vías primarias;
+
+b) Arroyo vehicular que cuente con ciclovía contigua a la banqueta;
+
+c) Áreas verdes;
+
+d) Zonas que impidan u obstruyan elementos de accesibilidad para personas con discapacidad;
+
+e) Zonas prohibidas para estacionarse;
+
+f) Zonas de parquímetro no autorizada (sic);
+
+g) Vías de acceso controlado;
+
+h) Carriles exclusivos para la circulación de transporte público;
+
+i) Bahías de ascenso y descenso;
+
+j) Recepción de valet parking;
+
+k) Sitios de carga y descarga;
+
+l) Camellones; e
+
+m) Infraestructura y equipamiento urbano.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.O. 19 DE ENERO DE 2023)</small>
+
+III bis. Cuando los enseres se coloquen sobre el arroyo vehicular de vías secundarias:
+
+a) Únicamente se podrá utilizar el carril contiguo a la banqueta de la fachada del establecimiento mercantil; y
+
+b) Colocar barreras físicas desmontables y señalética colocadas dentro de los límites del cordón de establecimiento para garantizar la protección de las personas usuarias.
+
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+
+IV. La colocación de enseres no deberá impedir la operación de comercios preexistentes ni acceso de otros establecimientos mercantiles;
+
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+
+V. Los enseres no deberán utilizarse para la preparación y/o elaboración de bebidas ni alimentos;
+
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+
+VI. No se instalarán en zonas preponderantemente destinadas al uso habitacional;
+
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+
+VII. En ningún caso los enseres podrán exceder el 75% del aforo al interior, previsto en su aviso o permiso de funcionamiento;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.O. 19 DE ENERO DE 2023)</small>
+
+VIII. Las personas titulares de los establecimientos mercantiles que cuenten con Aviso para la colocación de enseres deberán observar estrictamente las siguientes medidas:
+
+a) Dejar descubiertos, permanentemente, al menos 2 lados de la zona de enseres cuando se utilicen cortinas, carpas o similares;
+
+b) Colocar los enseres a una distancia de 1.5 metros entre comensales;
+
+c) Mantener limpios y en buen estado los enseres, así como los espacios de la vía pública en donde se coloquen, corriendo a su costa y cargo los trabajos de limpieza y reparación por daños causados a la vía pública y;
+
+d) En los casos que así proceda, contar con la autorización y/o permisos emitidos por el Instituto Nacional de Antropología e Historia u otra autoridad competente; así como observar la normativa aplicable en caso de inmuebles que estén en colindancia con patrimonio Cultural Material de la Ciudad de México; y
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+IX. Las demás que se establezcan en la normativa aplicable.
 
 > <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 La Alcaldía ordenará el retiro inmediato de los enseres en los casos que se constate a través de visita de verificación, que su colocación o instalación contraviene lo dispuesto por la Ley. El retiro lo hará el titular y ante su negativa u omisión, lo ordenará la Alcaldía a costa de aquél en los términos de la Ley de Procedimiento Administrativo de la Ciudad de México.
 
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+###### Artículo 15 Bis.
+
+Los establecimientos mercantiles que no cuenten con fachada principal a la banqueta no podrán colocar enseres en (sic) vía pública.
+
+Los centros comerciales, plazas e inmuebles que albergan varios establecimientos mercantiles en su interior, no podrán colocar enseres en (sic) vía pública.
+
+Adicionalmente a lo antes establecido, queda estrictamente prohibido en la zona de enseres lo siguiente:
+
+I. Colocarlos en banquetas que se encuentren en esquinas frente a la fachada de un establecimiento mercantil. La colocación podrá realizarse dejando al menos 5 metros a partir de la esquina de la banqueta de donde se encuentre la intersección;
+
+II. Colocar bocinas, pantallas o cualquier emisión electrónica de música, así como objetos distintos a los necesarios para la prestación del servicio, como sombrillas, mesas o sillas;
+
+III. Colocar tablas u otros objetos para simular mesas en árboles, jardineras o infraestructura y equipamiento urbano;
+
+IV. Reproducir, por cualquier medio, la música viva, grabada o videograbada contratada o provista;
+
+V. Colocar plataformas, delimitadores, macetas, señalética o barreras de protección sobre banquetas; y
+
+VI. Toda prohibición establecida en la presente Ley y demás normativa aplicable.
+
+Para efectos de lo establecido en los artículos 15 y 15 bis, previa visita de verificación administrativa llevada a cabo por las Alcaldías, éstas ordenarán el retiro inmediato de los enseres en los casos que se constate que su colocación contraviene lo dispuesto por esta Ley y demás normativa aplicable. El retiro lo hará la persona titular del establecimiento mercantil y ante su negativa u omisión, lo ordenará la Alcaldía a costa de aquél en los términos de la Ley de Procedimiento Administrativo de la Ciudad de México
+
+La Secretaría de Seguridad Ciudadana de la Ciudad de México, podrá retirar de la vía pública, conforme a las disposiciones aplicables, los objetos que indebidamente obstaculicen la movilidad, pongan en peligro o constituyan un riesgo para las personas y sus bienes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2023)</small>
+
 ###### Artículo 16.
 
-Para la colocación de enseres e instalaciones a que se refiere el artículo 14 de la Ley, el Sistema comprenderá los campos necesarios para que los particulares proporcionen la siguiente información:
+Para la colocación de enseres e instalaciones a que se refiere el artículo 14 de la Ley, los particulares deberán tramitar su Aviso de colocación de enseres en la vía pública a través del Sistema, para lo cual deberán registrar la siguiente información:
 
-I. Nombre o razón social del solicitante, así como domicilio para oír y recibir notificaciones;
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+
+I. Nombre de la persona titular o representante legal del establecimiento mercantil, así como domicilio para oír y recibir notificaciones;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+I bis. Clave Única de Establecimiento del Sistema Electrónico de Avisos y Permisos de Establecimientos Mercantiles (SIAPEM);
 
 II. Denominación o nombre comercial del establecimiento mercantil y ubicación del mismo;
 
-III. Datos del Aviso;
+III. (DEROGADA, G.O. 19 DE ENERO DE 2023)
 
-IV. Descripción de las condiciones en que se colocarán los enseres e instalaciones, así como la superficie que ocuparán en la vía pública; y
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-V. Monto del pago de derechos efectuado y datos de la oficina receptora.
+IV. Descripción de las condiciones en que se colocarán los enseres e instalaciones, así como la superficie que ocuparán en la vía pública;
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+V. (DEROGADA, G.O. 19 DE ENERO DE 2023)
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+VI. Número de folio del recibo de pago de derechos; y
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+VII. Manifestar, por medio del Sistema, su aceptación y conocimiento de que la Jefatura de Gobierno podrá determinar la modificación de las zonas autorizadas para la colocación de enseres en (sic) vía pública, por causas de movilidad, interés social, protección civil, seguridad o cualquier otra que se determine.
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+El Aviso deberá colocarse en un lugar visible de la zona de enseres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2023)</small>
 
 ###### Artículo 17.
 
-El Aviso para la colocación en la vía pública de los enseres o instalaciones que menciona el artículo anterior, tendrá vigencia de un año y podrá ser revalidado por períodos iguales con la sola manifestación que el titular ingrese al Sistema de que las condiciones no han variado y el pago de derechos que establezca el Código Fiscal de la Ciudad de México.
+El Aviso para la colocación en la vía pública de los enseres o instalaciones que menciona el artículo anterior, tendrá vigencia de un año y podrá ser revalidado por períodos iguales con la sola manifestación de que las condiciones no han variado, que el titular o representante legal del establecimiento mercantil ingrese al Sistema, así como el pago de derechos que establezca el Código Fiscal de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 En caso de vencimiento del Aviso o de violación a lo dispuesto por esta Ley, el titular estará obligado a retirar los enseres o instalaciones por su propia cuenta. De lo contrario, la Alcaldía ordenará el retiro, corriendo a cargo del titular los gastos de ejecución de los trabajos en términos de la Ley de Procedimiento Administrativo de la Ciudad de México.
 
@@ -630,13 +876,27 @@ III. Establecimientos de Hospedaje;
 
 IV. Clubes Privados; y
 
-V. Salas de cine con o sin venta de bebidas alcohólicas, teatros y auditorios.
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-Los Establecimientos mercantiles mencionados en los incisos anteriores, además de lo señalado en la Ley, podrán realizar eventos, exposiciones, actividades culturales, manifestaciones artísticas de carácter escénico, cinematográfico, literario o debate, en cuyo caso se prohíbe la venta o distribución de bebidas alcohólicas a menores de edad.
+V. Salas de cine y autocinemas con o sin venta de bebidas alcohólicas, teatros y auditorios.
+
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
+
+Los Establecimientos mercantiles mencionados en los incisos anteriores, además de lo señalado en la Ley, podrán realizar como actividad complementaria eventos, exposiciones, actividades culturales, manifestaciones lúdicas, artísticas de carácter escénico, cinematográfico, literario o debate, en cuyo caso se prohíbe la venta o distribución de bebidas alcohólicas a menores de edad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2023)</small>
 
 ###### Artículo 20.
 
-Los Salones de Fiesta tendrán como actividad única la renta de espacio a particulares para la celebración de eventos y fiestas privadas, sin que en ningún caso se pueda llevar a cabo la venta al menudeo de alimentos o bebidas, incluidas las alcohólicas, o el cobro de una cantidad por admisión individual. Esta disposición aplica a los jardines que sean utilizados para los mismos fines.
+Los Salones de Fiesta tendrán como actividad la renta de espacio a particulares para la celebración de eventos y fiestas privadas, sin que durante el evento se pueda llevar a cabo la venta al menudeo de alimentos o bebidas, incluidas las alcohólicas.
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+Asimismo, podrán destinar como actividad complementaria la venta al menudeo de alimentos, siempre y cuando éstos no interfieran con su giro principal o no se cambie definitivamente el giro principal, excepto tratándose de salones y jardines para fiestas infantiles.
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+No podrán llevar a cabo el cobro de cuota por admisión individual.
 
 La separación de áreas aisladas para fumadores no es aplicable a los giros a que se refiere este artículo.
 
@@ -644,11 +904,17 @@ Los establecimientos mercantiles con giro de estacionamientos, lavado de autos o
 
 Los domicilios particulares no podrán ser utilizados o arrendados para el fin expresado en el párrafo anterior.
 
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+Estas disposiciones aplican a los jardines que sean utilizados para los mismos fines.
+
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
+
 ###### Artículo 21.
 
-Los Restaurantes tendrán como giro principal la venta de alimentos preparados y de manera complementaria la venta de bebidas alcohólicas.
+Los Restaurantes tendrán como giro principal la venta de alimentos preparados y, de manera complementaria, la venta de bebidas alcohólicas. En ninguna circunstancia implicará que presten servicios propios de un giro de impacto zonal sin el permiso correspondiente.
 
-Además, podrán preferentemente prestar el servicio de música viva y grabada o videograbada, así como el servicio de televisión y en ningún caso se permitirá servir bebidas alcohólicas a las personas que no cuenten con lugar propio.
+Además, podrán preferentemente prestar el servicio de música viva y grabada o videograbada, así como el servicio de televisión y en ningún caso se permitirá servir bebidas alcohólicas a las personas que no cuenten con mesa o lugar asignado.
 
 ###### Artículo 22.
 
@@ -678,7 +944,15 @@ X. Los que se establecen para el giro de restaurante en términos del primer pá
 
 XI. Los que se establecen para los giros en términos del artículo siguiente, sujetándose a las condiciones que para este giro establece la presente Ley y demás normatividad aplicable y sin que deba presentarse nuevo Aviso.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE ENERO DE 2023)</small>
+
+Las actividades complementarias deberán de ajustar su horario a las disposiciones que para cada giro se encuentren señaladas en el presente ordenamiento, salvo las actividades señaladas en la fracción I que serán permanentes.
+
 Los giros complementarios deberán de ajustar su horario a las disposiciones que para cada giro se encuentren señaladas en el presente ordenamiento, salvo las actividades señaladas en la fracción I que serán permanentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE ENERO DE 2023)</small>
+
+Los establecimientos mercantiles que presten el servicio de hospedaje, podrán destinar un porcentaje de sus habitaciones para fumadores, que no podrá ser mayor al 25% del total. Esta disposición no es aplicable a la actividad complementaria de la fracción VI del presente artículo, por lo que en ese supuesto se estará a lo establecido en el artículo 20.
 
 En campos para Casas Móviles, Casas de Huéspedes, Hostales y Albergues no podrán venderse bebidas alcohólicas.
 
@@ -744,9 +1018,11 @@ horas y hasta la última
 
 función.
 
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
+
 e) Salas de Cine Permanente A partir de las 14:00
 
-horas y hasta la última
+y Autocinemas horas y hasta la última
 
 función.
 
@@ -770,9 +1046,11 @@ Los establecimientos mercantiles de impacto zonal no podrán tener la modalidad 
 
 DE LOS GIROS DE IMPACTO ZONAL.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2023)</small>
+
 ###### Artículo 26.
 
-Son considerados de Impacto Zonal los establecimientos mercantiles cuyo giro principal sea la venta y/o distribución de bebidas alcohólicas en envase abierto y/o al copeo, para su consumo en el interior, distinto a los giros mercantiles señalados en el articulo 19.
+Los establecimientos mercantiles de Impacto Zonal cuyo giro principal sea la venta y/o distribución de bebidas alcohólicas en envase abierto y/o al copeo, para su consumo en el interior, deberán cumplir con las obligaciones contenidas en los artículos 10 y 13 de la presente Ley.
 
 Estos establecimientos deberán cumplir con las obligaciones contenidas en los artículos 10 y 13 de la presente Ley.
 
@@ -784,7 +1062,9 @@ Queda prohibida la entrada a menores de edad a todos los establecimientos mercan
 
 Se entiende por tardeada la celebración o fiesta que se lleve a cabo al interior de los establecimientos mercantiles a que se refiere este capítulo en un horario de doce a veinte horas.
 
-Los establecimientos mercantiles de Impacto Zonal no podrán ubicarse a menos de trescientos metros de los centros educativos, así como en donde los Programas de Desarrollo Urbano del Distrito Federal establezcan uso habitacional H (habitacional).
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
+
+Los establecimientos mercantiles de Impacto Zonal no podrán ubicarse a menos de trescientos metros de los centros educativos, así como en donde los Programas de Desarrollo Urbano establezcan uso habitacional H (habitacional).
 
 ###### Artículo 27.
 
@@ -813,6 +1093,10 @@ V. Esta obligado a contratar elementos de seguridad acreditados por la Secretar�
 ###### Artículo 27 Bis.
 
 Son de impacto zonal los establecimientos mercantiles cuyo giro principal sea la realización de juegos con apuestas y sorteos, que cuenten con permiso de la Secretaría de Gobernación.
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+Además, son considerados de impacto zonal: estadios, bares, cantinas, antros, discotecas, casinos, espacios de diversión nocturnos, cabarets, cervecerías, chelerías o peñas, así como establecimientos dedicados al entretenimiento para adultos y/o con bailes eróticos, y en general los distintos a bajo impacto o impacto vecinal.
 
 Estos establecimientos deberán cumplir con las obligaciones contenidas en el apartado A y en las fracciones I, III, IV, VI, IX y X del apartado B del Artículo 10, así como las del artículo 13 de esta Ley, y obtener el visto bueno de la Secretaría de Gobierno.
 
@@ -866,55 +1150,135 @@ En los establecimientos mercantiles que funcionan como salas de cine y cuyo ruid
 
 Los procedimientos de medición se realizarán conforme a lo que se establezca en el Reglamento de Verificación Administrativa, con base en la Norma Oficial Mexicana correspondiente.
 
-### CAPITULO IV
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE ENERO DE 2023)</small>
 
-REQUISITOS PARA OBTENER PERMISO EN LOS GIROS DE IMPACTO VECINAL Y ZONAL.
+### CAPITULO IV. APERTURA DE ESTABLECIMIENTOS MERCANTILES DE IMPACTO VECINAL E IMPACTO ZONAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2023)</small>
 
 ###### Artículo 31.
 
-En la Solicitud de Permiso que se ingrese al Sistema para el funcionamiento de los giros a que se refieren los Capítulos I y II, los interesados proporcionarán la siguiente información:
+Las personas titulares de establecimientos mercantiles que presenten por medio del Sistema un Aviso de Funcionamiento para Establecimiento Mercantil de Impacto Vecinal, proporcionarán la siguiente información:
 
-I. Nombre o razón social del solicitante, así como domicilio para oír y recibir notificaciones y dirección de correo electrónico para los efectos de esta Ley. En caso de que el solicitante sea persona física expresará los datos de la credencial para votar con fotografía;
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE ENERO DE 2023)</small>
 
-II. Denominación o nombre comercial del establecimiento mercantil y ubicación del mismo;
+I. Datos del Interesado: nombre o razón social del solicitante, así como domicilio para oír y recibir notificaciones y dirección de correo electrónico. En caso de que el solicitante sea persona física, proporcionará los datos de la credencial para votar con fotografía.
 
-III. (DEROGADA, G.O. 14 DE FEBRERO DE 2012)
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
 
-IV. Si el solicitante es extranjero, los datos de la autorización expedida por la Secretaría de Gobernación, conforme a la cual se le permita llevar a cabo la actividad de que se trate;
+Tratándose de personas morales, datos de su Representante Legal, datos del acta constitutiva registrada o con registro en trámite y documento con el que acredite su personalidad.
 
-V. Ubicación y superficie total del local donde pretende establecerse el giro mercantil;
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
+
+Cuando el solicitante sea extranjero, los datos de la autorización expedida por la Secretaría de Gobernación, conforme a la cual se le permite llevar a cabo la actividad de que se trate;
+
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+
+II. Denominación o nombre comercial del establecimiento mercantil;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE ENERO DE 2023)</small>
+
+III. En su caso, nombres de las personas autorizadas para oír y recibir notificaciones y documentos, así como para realizar los trámites y gestiones;
+
+IV. (DEROGADA, G.O. 19 DE ENERO DE 2023)
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+IV bis. Documento con el que se acredite la posesión o propiedad del inmueble;
+
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+
+V. Ubicación y superficie total del Establecimiento Mercantil;
 
 VI. Giro mercantil que se pretende operar;
 
-VII. Datos de la constancia o certificado en el que se señale que el uso de suelo es permitido para el giro que se pretende operar;
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
+VII. Certificado de Zonificación de uso del suelo para el giro que se pretende operar;
 
-VIII. Que cuenta con los cajones de estacionamiento de conformidad con la fracción XIV del apartado A del artículo 10 de esta Ley;
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-IX. La capacidad de aforo de conformidad con lo establecido en la fracción II del artículo 2 de la presente Ley;
+VIII. Número de cajones de estacionamiento requeridos para su ubicación, de conformidad con la normatividad vigente en la materia;
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-X. Dar cuenta del Programa Interno de Protección Civil, según corresponda, de conformidad con la normatividad en materia de gestión integral de riesgos y protección civil;
+IX. Capacidad de aforo;
 
-XI. Para el caso de establecimientos de impacto zonal además deberán manifestar que cumple con lo siguiente:
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-a) Que cuenta con Sistema de Seguridad a que hacen referencia los artículos 10 y 13.
+X. Visto Bueno de Seguridad y Operación, de conformidad con el Reglamento de Construcciones vigente para la Ciudad de México;
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
-Una vez cubiertos los requisitos señalados en el presente artículo, la Alcaldía hará del conocimiento al solicitante el monto a cubrir por los derechos correspondientes, pagados los derechos se otorgará el permiso.
+XI. Constancias de no Adeudos de Predial y Agua;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE FEBRERO DE 2012)</small>
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+XII. Pago de derechos efectuado y datos de la oficina receptora.
+
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
+
+Una vez cubiertos los requisitos señalados en el presente artículo, el Aviso se tendrá por presentado y el Titular del Establecimiento estará en condiciones de aperturar y deberá cumplir con las disposiciones de protección civil.
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+###### Artículo 31 Bis.
+
+Los titulares de establecimientos mercantiles que presenten por medio del Sistema una Solicitud de Permiso para el Funcionamiento de Establecimiento Mercantil de Impacto zonal, proporcionarán la siguiente información:
+
+I. Datos del Interesado: Nombre o razón social del solicitante, así como domicilio para oír y recibir notificaciones y dirección de correo electrónico. En caso de que el solicitante sea persona física proporcionará los datos de la credencial para votar con fotografía.
+
+Tratándose de personas morales, datos de su Representante Legal, datos del acta constitutiva registrada o con registro en trámite y documento con el que acredite su personalidad.
+
+Cuando el solicitante sea extranjero, los datos de la autorización expedida por la Secretaría de Gobernación, conforme a la cual se le permite llevar a cabo la actividad de que se trate;
+
+II. En su caso, nombre de las personas autorizadas para oír y recibir notificaciones y documentos, así como para realizar los trámites y gestiones;
+
+III. Documento con el que se acredite la posesión o propiedad del inmueble;
+
+IV. Denominación o nombre comercial del establecimiento mercantil;
+
+V. Ubicación y superficie total del Establecimiento Mercantil;
+
+VI. Giro mercantil que se pretende operar;
+
+VII. Capacidad de aforo;
+
+VIII. Número de cajones de estacionamiento requeridos para su ubicación de conformidad con la normatividad vigente en la materia;
+
+IX. Certificado de Zonificación para el giro que se pretende operar;
+
+X. Constancias de no Adeudos de Predial y Agua;
+
+XI. Visto Bueno de Seguridad y Operación, de conformidad con el Reglamento de Construcciones vigente para la Ciudad de México; y
+
+XII. Datos de la aprobación del Sistema de Seguridad, y nombre y cargo del servidor público que la emitió.
+
+Una vez cubiertos los requisitos señalados en el presente artículo, la Alcaldía indicará en el Sistema si es procedente o no el Permiso, y notificará al interesado en un término de 5 días hábiles; en caso de ser procedente, el interesado deberá cubrir los derechos correspondientes y una vez acreditado el pago, se otorgará el Permiso.
+
+En caso de ser otorgado el Permiso, el Titular del Establecimiento estará en condiciones de aperturar y cumplir con las disposiciones de protección civil.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], G.O. 19 DE ENERO DE 2023)</small>
 
 ###### Artículo 32.
 
-El Permiso se revalidará cada dos años tratándose de giros de Impacto Zonal y cada tres años tratándose de giros de Impacto Vecinal, debiendo ingresar al Sistema la solicitud correspondiente, proporcionando la siguiente información:
+El Permiso para giros de Impacto Zonal se revalidará cada dos años y tratándose de giros de Impacto Vecinal se presentará un Aviso de revalidación cada 3 años, en ambos casos se deberá ingresar al Sistema la siguiente información:
 
-I. Que las condiciones originales para el funcionamiento del establecimiento no han variado; y
+I. Clave única del establecimiento; y
 
-II. Monto del pago de derechos efectuado y datos de la oficina receptora de dicho pago.
+II. Pago de derechos efectuado y datos de la oficina receptora.
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+Lo anterior, en el entendido que el Aviso y el Permiso se deberán presentar por medio del sistema, manifestando bajo protesta de decir verdad que las condiciones originales para el funcionamiento no han variado.
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+En el caso de la revalidación de impacto zonal, la autorización, prevención o rechazo se notificarán para que el interesado las reciba en la Ventanilla Única.
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+En ambos casos, el Aviso o Solicitud de revalidación deberá presentarse o solicitarse 15 días hábiles previos al vencimiento del Permiso o Aviso correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE FEBRERO DE 2012)</small>
 
@@ -1292,9 +1656,11 @@ II. El personal encargado de prestar el servicio a que se refiere el párrafo an
 
 III. Queda prohibido prestar este servicio estacionando los vehículos, motocicletas o bicicletas en la vía pública o banquetas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2023)</small>
+
 ###### Artículo 54.
 
-Los establecimientos mercantiles cuyo giro principal sea el alquiler de mesas de billar o líneas para boliche, podrán ejercer los siguientes giros complementarios:
+Los establecimientos mercantiles cuyo giro principal sea el alquiler de mesas de billar o líneas para boliche, podrán ejercer las siguientes actividades complementarias:
 
 a) Venta de alimentos preparados y bebidas no alcohólicas;
 
@@ -1400,23 +1766,23 @@ Cuando se detecte la expedición o venta de bebidas alcohólicas en contravenci�
 
 El aseguramiento de bebidas se llevará a cabo con el traslado de las mismas al sitio de almacenaje destinado por la Autoridad, previo inventario del aseguramiento, del cual se entregará copia de manera inmediata al titular del establecimiento o evento de que se trate.
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
 
 ###### Artículo 64.
 
-Se sancionará con el equivalente de 25 a 125 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 Apartado A fracciones VIII y IX inciso a); 10 apartado B fracciones I y IX; 11 fracción VIII; 23 fracciones I, II, III, IV, VI y VII; 28 párrafo primero, segundo, cuarto y quinto; 40 fracciones II y III; 42 fracciones I y II; 43 fracciones II, IV, V, VI, VII y VIII; 45; 56 fracciones IV, V, VI y VIII, y 57 de la presente Ley.
+Se sancionará con el equivalente de 25 a 125 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones VIII, IX inciso a) y XV, y; 10 apartado B fracción I; 11 fracción VIII; 15 fracciones I, II y IV; 23 fracciones I, II, III, IV, VI y VII; 28 párrafo primero, segundo, cuarto y quinto; 40 fracciones II y III; 42 fracciones I y II; 43 fracciones II, IV, V, VI, VII y VIII; 45; 56 fracciones IV, V, VI y VIII, y 57 de la presente Ley.
 
-> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
 
 ###### Artículo 65.
 
-Se sancionará con el equivalente de 126 a 350 veces la Unidad de Medida y Actualización diaria vigente de la Ciudad de México, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones III, VII párrafo primero, fracción VIII bis, IX incisos b) y c), X; 10 apartado B fracciones II, III y VII; 11 fracciones III, IV, y VII, 12; 15; 21; 22; fracción II; 23 fracción V; 33; 34; 37; 39; 40, fracciones I, IV, V, VI; 42 fracciones III, IV, V, 43 fracciones I y III; 46; 47 fracciones I, II, III, 48 fracciones III, VI, VII, X, 50; 53; 54; 56 fracciones II, III y VII.
+Se sancionará con el equivalente de 126 a 350 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones III, VII párrafo primero, fracción VIII bis, IX incisos b) y c), X, y; 10 apartado B fracciones II, III y VII; 11 fracciones III, IV, y VII, 12; 15 fracciones III y VI; 21; 22; fracción II; 23 fracción V; 33; 34; 37; 39; 40, fracciones I, IV, V, VI; 42 fracciones III, IV, V, 43 fracciones I y III; 46; 47 fracciones I, II, III, 48 fracciones III, VI, VII, X, 50; 53; 54; 56 fracciones II, III y VII.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2023)</small>
 
 ###### Artículo 66.
 
-Se sancionará con el equivalente de 351 a 2500 veces la Unidad de Medida y Actualización diaria vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones I, II, IV, V, VI, VII párrafo segundo, VIII bis, XI, XII, XIII y XIV; 10 apartado B fracciones II inciso b), IV, V, VI y VIII; 11 fracciones I, II, V, VI, IX, X; 13; 18; 20; 22 fracción XI segundo y tercer párrafo; 23; 24; 25 párrafo tercero; 26 párrafo cuarto; 27; 28 párrafo tercero; 29; 30; 32; 35; 36; 41; 45; 47 fracción IV y V; 48 fracciones I, II, V, VIII y IX; 49 párrafo segundo; 52; 55; 56 fracción I y 58 de esta Ley.
+Se sancionará con el equivalente de 351 a 2500 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones I, II, IV, V, VI, VII párrafo segundo, XI, XII, XIII y XIV; 10 apartado B fracciones V, VI y VIII; 11 fracciones I, II, V, VI, IX, X; 13; 18; 20; 22 fracción XI segundo y tercer párrafo; 24; 25 párrafo tercero; 26 párrafo cuarto; 27; 28 párrafo tercero; 29; 30; 32; 35; 36; 41; 45; 47 fracción IV y V; 48 fracciones I, II, V, VIII y IX; 49 párrafo segundo; 52; 55; 56 fracción I y 58 de esta Ley.
 
 > <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1847,3 +2213,19 @@ G.O. 30 DE SEPTIEMBRE DE 2022.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 19 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Agencia Digital de Innovación Pública tendrá un plazo máximo de 180 días naturales para implementar las modificaciones en el Sistema relacionadas con la presente reforma. Mientras tanto, se continuará con la presentación de dichos trámites en la forma en la que hasta ahora se gestionan.
+
+CUARTO. La Secretaría de Desarrollo Económico deberá emprender un Programa de difusión masiva y permanente entre los organismos y empresas relacionadas con los giros de impacto vecinal relacionadas con los Avisos.
+
+QUINTO. En tanto se implementan los cambios en el Sistema, los Titulares de los Establecimientos Mercantiles de Impacto Vecinal ingresarán en la misma plataforma, en el entendido que el Permiso se entenderá como Aviso por las Alcaldías.
+
+SEXTO. Los establecimientos mercantiles que a la entrada en vigor del presente Decreto cuenten con Permiso de Funcionamiento para giro de impacto vecinal vigente, seguirán funcionando conforme al mismo hasta la revalidación correspondiente en términos del presente Decreto.
