@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ingresos-del-municipio-de-puebla-para-el-ejercicio-16249
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-21"
-last_updated: "2023-01-04"
+last_updated: "2023-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY DE INGRESOS DEL MUNICIPIO DE PUEBLA PARA EL EJERCICIO FISCAL 2023
 
 TEXTO ORIGINAL.
 
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 4 DE ENERO DE 2023 NO APLICA AL ARTÍCULO 57 DE ESTE ORDENAMIENTO PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2022.]</small>
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 19 DE ENERO DE 2023 NO APLICA AL ARTÍCULO 57 DE ESTE ORDENAMIENTO PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2022.]</small>
 
 Ley publicada en la Sección Tercera del Número 15 del Periódico Oficial del Estado de Puebla, el miércoles 21 de diciembre de 2022.
 
