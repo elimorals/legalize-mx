@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2019-12-27"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -427,9 +427,9 @@ II.- No proporcione la información que la autoridad fiscal le solicite, su cont
 
 III.- Se imposibilite, por cualquier medio, el conocimiento de las operaciones de los servicios objeto de este impuesto.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
 
-ART. 33. El ingreso que perciba el Estado proveniente del impuesto a que se refiere este capítulo, se destinará exclusivamente a acciones directas de promoción y difusión del Sector Turismo en la Entidad, a través de la Secretaría de Turismo, con un Consejo Consultivo que se creará para tal fin, en el que participarán autoridades gubernamentales y empresarios del sector turístico.
+ART. 33. El ingreso que perciba el Estado proveniente del impuesto a que se refiere este capítulo, el 90% se destinará para la promoción turística en todo el Estado, del cual el 60% se destinará al Municipio en donde se genere la recaudación y el 30% a la promoción turística del resto de los Municipios del Estado a través de la Secretaría de Turismo, con un Consejo Consultivo que se creará para tal fin, en el que participarán autoridades gubernamentales y empresarios del sector turístico y el 10% restante será destinado a la Secretaría de Administración y Finanzas del Estado, para gastos de administración y recaudación del impuesto.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1935,7 +1935,9 @@ Para efectos del presente artículo, se entiende por vehículos utilitarios todo
 
 ART. 49.- Para la aplicación de las multas por violaciones a la Ley de Movilidad Sustentable del Estado de Sinaloa, se atenderá a lo dispuesto por dicha Ley.
 
-El pago de los derechos a que se refiere este capítulo deberá efectuarse en las fechas y dentro de los plazos establecidos, por la Ley de Movilidad Sustentable del Estado de Sinaloa. Cuando dicha Ley no precise fecha para el pago de los derechos, tratándose de los previstos en la fracción III inciso A) del artículo anterior, deberán cubrirse dentro de los siguientes quince días a la fecha en que se adquiera el vehículo de que se trate. Los demás deberán efectuarse a más tardar el día treinta y uno de marzo de cada año. El pago fuera de los plazos establecidos en este párrafo, ocasionará la aplicación de las sanciones previstas en el Código Fiscal del Estado.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
+
+El pago de los derechos a que se refiere este capítulo deberá efectuarse en las fechas y dentro de los plazos establecidos por la Ley de Movilidad Sustentable del Estado. Cuando dicha Ley no precise fecha para el pago de los derechos, tratándose de los previstos en la fracción III inciso A) del artículo anterior, deberán cubrirse dentro de los siguientes quince días a la fecha en que se adquiera el vehículo de que se trate y respecto a los previstos en la fracción III inciso D), a más tardar el día de la fecha de su vencimiento. Los demás deberán efectuarse a más tardar el día treinta y uno de marzo de cada año. El pago fuera de los plazos establecidos en este párrafo, ocasionará la aplicación de las sanciones previstas en el Código Fiscal del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2629,9 +2631,9 @@ ART. 57.- No se causarán derechos de registro por la certificación que se pong
 
 ART. 58.- Los Oficiales Registradores, al solicitárseles un servicio de su competencia, formularán por triplicado una liquidación de los derechos causados, en las formas establecidas para tal efecto cuyo original y duplicado entregarán al contribuyente para que efectúe el pago en la Oficina Recaudadora o Institución autorizada correspondiente. Efectuado el pago, el interesado exhibirá al Oficial Registrador el recibo oficial para que tome nota en el triplicado de la liquidación que conservará en su poder. Sin estos requisitos no se hará la inscripción o servicio solicitado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
 
-ART. 59.- De los ingresos percibidos en el cobro de los derechos a que se refiere este Capítulo, el Oficial Registrador participará en la proporción que al efecto señale la Secretaría de Hacienda Pública y Tesorería del Estado. Los oficiales registradores asegurarán un servicio rápido y eficaz y cobrarán quincenalmente la participación que les corresponda, la que les será pagada por la Oficina Recaudadora correspondiente, previa liquidación y haciéndoles los descuentos respectivos.
+ART. 59.- De los ingresos percibidos en el cobro de los derechos a que se refiere este Capítulo, el Oficial Registrador participará en la proporción que al efecto señale la Secretaría de Administración y Finanzas del Estado. Los oficiales registradores asegurarán un servicio rápido y eficaz y cobrarán quincenalmente la participación que les corresponda, la que les será pagada por la Oficina Recaudadora correspondiente, previa liquidación y haciéndoles los descuentos respectivos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -3277,6 +3279,36 @@ ART. 78 BIS-11.- El servicio que el Estado preste a nombre de terceros, así com
 
 ART. 78 BIS-12.- Cuando por el pago de los derechos contenidos en este Título, se determine una cuota en fracciones de centavos, se ajustará ésta a la unidad inmediata siguiente si se trata de fracciones de cincuenta centavos o superior y, cuando la fracción sea inferior a cincuenta centavos, el ajuste se hará a la unidad inmediata anterior.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE ENERO DE 2023)</small>
+
+### CAPÍTULO XVII. POR INSCRIPCIÓN EN EL REGISTRO ESTATAL DE AGENTES INMOBILIARIOS
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2023)</small>
+
+ART. 78 BIS-13. El servicio de expedición de licencia como agente inmobiliario, prestado por la Secretaría General de Gobierno, causará los derechos conforme a lo siguiente:
+
+TARIFA
+
+CONCEPTO VECES EL VALOR DE LA
+
+UNIDAD DE MEDIDA Y
+
+ACTUALIZACION
+
+a) Por inscripción en el Registro Estatal
+
+de Agentes inmobiliarios y expedición de
+
+licencia como asesor inmobiliario. 30.00
+
+b) Por revalidación de licencia como
+
+asesor inmobiliario. 30.00
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+## TITULO TERCERO. DE LOS PRODUCTOS
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO UNICO
@@ -3315,7 +3347,7 @@ ART. 85.- Igualmente ingresarán como productos los ingresos obtenidos de otras 
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-## TITULO TERCERO. DE LOS PRODUCTOS
+## TITULO CUARTO. DE LOS APROVECHAMIENTOS
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3429,7 +3461,7 @@ ART. 109.- La devolución de los depósitos por cauciones, se harán en los caso
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-## TITULO CUARTO. DE LOS APROVECHAMIENTOS
+## TITULO QUINTO. DE LAS PARTICIPACIONES
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3441,7 +3473,7 @@ ART. 110.- La percepción de las participaciones se regirá por las Leyes y conv
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-## TITULO QUINTO. DE LAS PARTICIPACIONES
+## TITULO SEXTO. TASAS ADICIONALES
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3477,10 +3509,6 @@ ART. 113.- El gravamen a que se refiere este capítulo se pagará al cubrirse el
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-## TITULO SEXTO. TASAS ADICIONALES
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
 ### CAPITULO II. ADICIONAL MUNICIPAL
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
@@ -3502,54 +3530,6 @@ ART. 116.- Cuando un impuesto del Estado sea condonado totalmente, y en forma ge
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ART. 117.- La recaudación del gravamen adicional municipal y demás participaciones municipales en impuestos estatales, estará a cargo de las Oficinas Recaudadoras del Servicio de Administración Tributaria del Estado de Sinaloa y será entregada a las respectivas Tesorerías Municipales, con comprobación correspondiente, mediante liquidación mensual formulada por la Secretaría de Administración y Finanzas.
-
-### CAPITULO XXI. Impuesto a la Industria Arrocera
-
-ART. 265.- Es objeto de este impuesto el arroz palay que entre a proceso industrial para producir arroces morenos, blancos o cualquier otro producto derivado.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 266.- Son causantes del impuesto las personas físicas o jurídicas que realicen él o los procesos industriales de transformación de arroz palay, cuando el producto elaborado sea propiedad de quienes efectúen dicho proceso de elaboración.
-
-ART. 267.- En (sic) impuesto se causará con una cuota de $ 67.00 por tonelada de arroz palay que entre a proceso de elaboración.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-El peso de arroz palay que servirá de base para el pago de este Impuesto será el tonelaje que se reciba en la planta y de acuerdo con las tolerancias y deducciones que autoricen los convenios celebrados entre la Secretaría de Hacienda Pública y Tesorería y los industriales arroceros.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 268.- El Impuesto se determinará por períodos quincenales que abarquen del primero al quince y del dieciséis al día último de cada mes, debiendo enterarse en la Oficina Recaudadora correspondiente a la jurisdicción donde se encuentre ubicada la planta o plantas industriales del causante, dentro de los quince días hábiles siguientes al de vencimiento de cada uno de dichos períodos, utilizandos (sic) las formas de declaración que para tal efecto autorice la Secretaría de Hacienda Pública y Tesorería.
-
-Para estos pagos quincenales se tomará como base de conversión un 68% de rendimientos del palay, en arroces blancos, haciéndose el ajuste por la conversión real de la temporada en la última declaración de este impuesto.
-
-Cuando un mismo causante opera más de una planta industrial las declaraciones o pagos correspondiente a cada período se harán en forma separada por cada una de las plantas.
-
-ART. 269.- Además de lo establecido en los artículos precedentes de este Capítulo, los causantes de este impuesto están obligados a:
-
-I.- Presentar avisos de iniciación de producción, dentro de los cinco días hábiles siguientes a la fecha de iniciación de cada ciclo productivo;
-
-II.- Presentar aviso de terminación de producción, dentro de los cinco días hábiles siguientes a la terminación de cada ciclo productivo;
-
-III.- Presentar una declaración sobre los resultados de producción correspondientes a cada ciclo productivo. Esta declaración deberá presentarse dentro de los 5 días hábiles siguientes a la terminación de cada ciclo productivo;
-
-IV.- Llevar registro de entradas, salidas y existencias de arroz palay, así como de producción, entradas y salidas, ventas y existencias de arroz moreno y arroces blancos;
-
-V.- Proporcionar a las Autoridades Fiscales todos los datos, libros, y documentos que les soliciten;
-
-(REFORMADO, P.O. 24 DE AGOSTO DE 1990
-
-VI.- Recibir las visitas de inspección e investigación, así como proporcionar a los inspectores y auditores los datos e informes que les soliciten;
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-Los avisos, declaraciones y registros se formularán en las formas y de acuerdo con los instructivos que autorice la Secretaría de Hacienda Pública y Tesorería.
-
-ART. 270.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la operación de venta que efectúe el molino arrocero, de aquellos productos por los cuales ya hubiera pagado el impuesto contenido en ese Capítulo.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 270 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ## TRANSITORIOS
 
@@ -4428,3 +4408,17 @@ P.O. 27 DE DICIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 374 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA LOS ARTÍCULOS 33, 49 PÁRRAFO SEGUNDO, Y 59 DE LA LEY DE HACIENDA, Y ARTÍCULO 353 DE LA LEY DE MOVILIDAD SUSTENTABLE, AMBAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
+
+P.O. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 384 DEL H. CONGRESO DEL ESTADO.- SE ADICIONA EL CAPÍTULO XVII DENOMINADO "POR INSCRIPCIÓN EN EL REGISTRO ESTATAL DE AGENTES INMOBILIARIOS", AL TÍTULO SEGUNDO DENOMINADO "DE LOS DERECHOS" CON SU ARTÍCULO 78 BIS-13 A LA LEY DE HACIENDA DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
