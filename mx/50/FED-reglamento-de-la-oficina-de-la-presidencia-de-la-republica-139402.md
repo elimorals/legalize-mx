@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-oficina-de-la-presidencia-de-la-republica-1394
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-12-09"
-last_updated: "2019-12-09"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139402&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-12-06"
 
 REGLAMENTO DE LA OFICINA DE LA PRESIDENCIA DE LA REPÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ENERO DE 2023.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 9 de diciembre de 2019.
 
@@ -61,7 +61,7 @@ I. Jefatura de la Oficina de la Presidencia;
 
 II. Secretaría Particular del Presidente;
 
-III. Secretaría Técnica del Consejo de Seguridad Nacional;
+III. (DEROGADA, D.O.F. 20 DE ENERO DE 2023)
 
 IV. Secretaría Técnica del Gabinete;
 
@@ -75,7 +75,7 @@ VIII. Coordinación de Asesores del Presidente;
 
 IX. Coordinación de Estrategia Digital Nacional, y
 
-X. Coordinación de Memoria Histórica y Cultural de México.
+X. (DEROGADA, D.O.F. 20 DE ENERO DE 2023)
 
 ###### Artículo 4.
 
@@ -349,9 +349,7 @@ La Coordinación de Archivos de la Oficina de la Presidencia ejercerá las atrib
 
 ###### Artículo 24.
 
-Al frente de la Secretaría Técnica del Consejo de Seguridad Nacional habrá una persona titular, quien ejercerá las atribuciones que le otorga la Ley de Seguridad Nacional y aquellas funciones que le encomiende el Presidente.
-
-La persona titular de la Secretaría Técnica del Consejo de Seguridad Nacional será nombrada y removida libremente por el Presidente, y contará con un equipo técnico especializado, de conformidad con la suficiencia presupuestal y demás disposiciones jurídicas aplicables.
+(DEROGADO, D.O.F. 20 DE ENERO DE 2023)
 
 ###### Artículo 25.
 
@@ -635,31 +633,7 @@ XVII. Las demás que le confieran otros ordenamientos aplicables y aquellas func
 
 ###### Artículo 37.
 
-La Coordinación de Memoria Histórica y Cultural de México tiene las atribuciones siguientes:
-
-I. Desarrollar y fomentar el derecho a la memoria;
-
-II. Desarrollar las estrategias para difundir, proyectar y garantizar el derecho a la memoria de la Nación a nivel nacional e internacional;
-
-III. Impulsar acciones para la preservación, conservación, restauración y protección del patrimonio resguardado por entes nacionales y regionales, públicos y privados, en coordinación con las instancias correspondientes;
-
-IV. Diseñar, desarrollar e implementar el Gran Repositorio de Memoria Histórica y Cultural de México, cuyo principal objetivo es poner a disposición del público la información histórica y cultural del país, estableciendo las bases para su conservación en formatos digitales interoperables;
-
-V. Colaborar con las unidades administrativas competentes de las dependencias y entidades de la Administración Pública Federal en la revisión de la ejecución de los proyectos y convenios específicos que doten de infraestructura a los archivos históricos nacionales y regionales, preserven el patrimonio histórico y cultural de México y sirvan para alimentar el Gran Repositorio de Memoria Histórica y Cultural de México;
-
-VI. Coadyuvar con las unidades administrativas competentes de las dependencias y entidades de la Administración Pública Federal, en las actividades sustantivas en torno a las conmemoraciones cívicas;
-
-VII. Impulsar acciones de divulgación para la educación cívica por medio del Gran Repositorio de Memoria Histórica y Cultural de México;
-
-VIII. Concertar acciones de cooperación con instituciones públicas y privadas, nacionales e internacionales, y la sociedad en general, con la finalidad de impulsar la memoria histórica y cultural de México;
-
-IX. Coadyuvar con instituciones públicas y privadas para la digitalización de sus archivos con el objetivo de que formen parte del Gran Repositorio de Memoria Histórica y Cultural de México;
-
-X. Convocar al intercambio y colaboración de acciones encaminadas a la integración del patrimonio histórico y cultural de México, en formato digital;
-
-XI. Coordinar acciones y, en su caso, suscribir convenios de colaboración con órganos constitucionales autónomos, gobiernos de las entidades federativas y municipios, poderes Legislativo y Judicial de la Federación y de las entidades federativas, instituciones privadas, públicas, nacionales e internacionales y con la sociedad en general, cuya finalidad sea la de impulsar el ejercicio del derecho a la memoria, y
-
-XII. Las demás que le confieran otros ordenamientos aplicables y aquellas funciones que le encomiende el Presidente.
+(DEROGADO, D.O.F. 20 DE ENERO DE 2023)
 
 ### CAPÍTULO SEXTO. DEL ÓRGANO INTERNO DE CONTROL
 
@@ -686,3 +660,13 @@ QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del pre
 SEXTO. Cuando, en términos del último párrafo del artículo 38 de este Reglamento, el auxilio que proporcione la Oficina de la Presidencia al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
 
 Dado en la Residencia Oficial del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de diciembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+D.O.F. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA OFICINA DE LA PRESIDENCIA DE LA REPÚBLICA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO.- El Secretario Técnico del Consejo de Seguridad Nacional dependerá directamente del Presidente de la República; él y su equipo de apoyo técnico especializado estarán adscritos administrativamente a la Secretaría de Seguridad y Protección Ciudadana.
