@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-coordinacion-fiscal-del-estado-de-sinaloa-6461"
 country: "mx"
 rank: "ley"
 publication_date: "1990-01-15"
-last_updated: "2019-12-25"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 15 de enero de 1990.
 
@@ -105,7 +105,9 @@ ARTICULO 3 BIS A.- El Fondo Estatal a que se refiere el artículo 3° Bis de est
 
 > <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. DE 25 DE DICIEMBRE DE 2019, PÁGINA 29.]</small>
 
-La recaudación a que se refiere este artículo, será la que obtengan anualmente los municipios en los términos que establezca la Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales, en base a las cifras certificadas por la Auditoría Superior del Estado conforme a las Reglas de Validación de Ingresos Propios y Cuotas por Servicio de Agua Potable autorizadas por la mencionada Comisión Permanente y aprobadas por la Convención Fiscal de los Ayuntamientos del Estado.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
+
+Las cifras sobre la recaudación a que se refiere este artículo, serán proporcionadas y certificadas por la Auditoría Superior del Estado, con base en la recaudación que obtengan anualmente los municipios y su conformación estará sujeta a los términos que se establezcan en las Reglas de Validación de Ingresos Propios y Cuotas por Servicio de Agua Potable.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -123,7 +125,13 @@ ARTICULO 3 BIS D.- Los municipios recibirán el 100% del Fondo de Fomento Munici
 
 > <small>[N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 181 A LA 183.]</small>
 
-La fórmula anterior no será aplicable en el evento de que en el año de cálculo la recaudación federal participable sea inferior a la observada en el año 2015. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al coeficiente efectivo que cada municipio haya recibido de dicho Fondo en el año 2015." (sic)
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
+
+La fórmula anterior no será aplicable en el evento de que (sic) en el año de cálculo la recaudación del fondo de fomento municipal sea inferior a la obtenida en el año 2015. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al coeficiente efectivo que cada municipio haya recibido de dicho Fondo en el año 2015.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2023)</small>
+
+ARTICULO 3 BIS E.- La recaudación derivada del artículo 114 de la Ley de Hacienda del Estado de Sinaloa, relacionada a la tasa adicional del 20%, se distribuirá en su totalidad entre los municipios en base a lo recaudado por cada municipio y formarán parte de las participaciones estatales que el estado distribuye entre los municipios.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -133,23 +141,43 @@ El Fondo Municipal de Participaciones se distribuirá conforme a la fórmula sig
 
 > <small>[N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 183 A LA 188.]</small>
 
-La recaudación a que se refieren las anteriores fórmulas, será la que obtengan anualmente los municipios en los términos que establezca la Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales, en base a las cifras certificadas por la Auditoría Superior del Estado conforme a las Reglas de Validación de Ingresos Propios y Cuotas por Servicio de Agua Potable autorizadas por la mencionada Comisión Permanente y aprobadas por la Convención Fiscal de los Ayuntamientos del Estado.
+> <small>[N. DE E. VÉASE REFORMA A LAS FÓRMULAS EN EL P.O. DE 20 DE ENERO DE 2023, PÁGINAS DE LA 56 A LA 58.]</small>
 
-Los coeficientes de participación que conforme a las bases anteriores resulten, se revisarán y modificarán anualmente. En tanto que dichos factores no se actualicen se seguirán aplicando provisionalmente los que correspondan al año inmediato anterior.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
+
+Las cifras sobre la recaudación a que se refiere este artículo, serán proporcionadas y certificadas por la Auditoría Superior del Estado, con base en la recaudación que obtengan anualmente los municipios y su conformación estará sujeta a los términos que se establezcan en las Reglas de Validación de Ingresos Propios y Cuotas por Servicio de Agua Potable.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
+
+Los coeficientes de distribución de participaciones que conforme a las bases anteriores resulten, se revisarán y modificarán anualmente. En tanto que dichos factores no se actualicen se seguirán aplicando provisionalmente los que correspondan al año inmediato anterior.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2023)</small>
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Administración y Finanzas, podrá otorgar anticipos o adelantos de participaciones a los Municipios a cuenta de las participaciones federales y podrán ser descontados en el mismo mes. Los anticipos o adelantos de participaciones estarán sujetos a la disponibilidad de recursos financieros del Estado, dependerán a su vez del análisis del entorno económico momentáneo y para la determinación de los montos a anticipar se considerará la estimación de las participaciones de los municipios y su capacidad de respuesta para afrontar el retorno de dicho anticipo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2023)</small>
+
+ARTICULO 4 BIS.- Los municipios recibirán el 22% de las participaciones de Gasolina y Diésel que corresponda al Estado derivadas de la recaudación que obtenga la Secretaría de Hacienda y Crédito Público por concepto de las cuotas previstas en el Artículo 2°-A, fracción II de la Ley del Impuesto Especial Sobre Producción y Servicios, asimismo, el 22% del rezago de los Incentivos de gasolina recaudado por el estado derivado del Convenio de colaboración administrativa en materia fiscal federal, los cuales se distribuirán mediante el siguiente mecanismo:
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+I. El 70% en proporción directa al número de habitantes que tenga cada municipio en relación al total estatal, de conformidad con lo establecido en el penúltimo párrafo del Artículo 4°-A de la Ley de Coordinación Fiscal, siendo la fuente oficial, la última información de población de los municipios que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
-
-ARTICULO 4 BIS.- Los municipios recibirán el 22% de la participación que corresponda al Estado derivada de la recaudación que obtenga la Secretaría de Hacienda y Crédito Público por concepto de las cuotas previstas en el Artículo 2°-A, fracción II de la Ley del Impuesto Especial Sobre Producción y Servicios, el cual se distribuirá mediante el siguiente mecanismo:
-
-I. El 70% en proporción directa al número de habitantes que tenga cada municipio en relación al total estatal, de conformidad con lo establecido en el penúltimo párrafo del Artículo 4°-A de la Ley de Coordinación Fiscal.
 
 II. El 20% en función a la tasa de crecimiento de la recaudación de los ingresos propios municipales, sin tomar en cuenta la recaudación de Impuesto Predial para predios rústicos, de acuerdo a la siguiente fórmula:
 
 > <small>[N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 189 A LA 190.]</small>
 
-La recaudación a que se refiere este artículo, será la que obtengan anualmente los municipios en los términos que establezca la Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales, en base a las cifras certificadas por la Auditoría Superior del Estado, conforme a las Reglas de Validación de Ingresos Propios y Cuotas por Servicio de Agua Potable autorizadas por la mencionada Comisión Permanente y aprobadas por la Convención Fiscal de los Ayuntamientos del Estado.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
+
+Las cifras sobre la recaudación a que se refiere la fracción II de este artículo, serán proporcionadas y certificadas por la Auditoría Superior del Estado, con base en la recaudación que obtengan anualmente los municipios y su conformación estará sujeta a los términos que se establezcan en las Reglas de Validación de Ingresos Propios y Cuotas por Servicio de Agua Potable.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 III. El 10% restante, se distribuirá en proporción inversa a las participaciones que tenga cada municipio, éstas son el resultado de la suma de las participaciones a que se refieren las fracciones I y II de este artículo en el ejercicio de que se trate.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 Los coeficientes de participación que conforme a las bases anteriores resulten, se revisarán y modificarán anualmente. En tanto que dichos factores no se actualicen se seguirán aplicando provisionalmente los que correspondan al año inmediato anterior.
 
@@ -157,7 +185,9 @@ Los coeficientes de participación que conforme a las bases anteriores resulten,
 
 ARTICULO 4 BIS 1.- Las participaciones a que se refiere el artículo 3-B de la Ley de Coordinación Fiscal, serán distribuidas de conformidad con los montos por Municipio y por Órgano que se reciba por parte de la Secretaría de Hacienda y Crédito Público y que ésta informe a la Secretaría de Administración y Finanzas del Gobierno del Estado de Sinaloa.
 
-Cuando la Secretaría de Hacienda y Crédito Público realice deducciones correspondientes a periodos anteriores, el Estado efectuará la deducción correspondiente al Municipio de que se trate, de ser insuficiente el ingreso del Municipio, el saldo se descontará de las ministraciones siguientes.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
+
+Cuando la Secretaría de Hacienda y Crédito Público realice devoluciones a contribuciones del impuesto sobre la renta correspondiente a la participación enterada al Estado, referida en el artículo 3-B de la Ley de Coordinación Fiscal, y efectúe al Estado la deducción correspondiente, el Estado efectuará la deducción correspondiente al o los Municipios de que se trate y de ser insuficiente las participaciones del Municipio en periodo, el saldo se descontará de las ministraciones siguientes hasta liquidar el adeudo.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
@@ -165,7 +195,11 @@ ARTICULO 4 BIS 2.- Del Fondo de Estabilización de los Ingresos de las Entidades
 
 > <small>[N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 25 DE DICIEMBRE DE 2019, PÁGINAS DE LA 30 A LA 34.]</small>
 
-La recaudación a que se refieren las anteriores fórmulas, será la que obtengan los Municipios en los términos que establezca la Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales, en base a las cifras certificadas por la Auditoría Superior del Estado conforme a las Reglas de Validación de Ingresos Propios y Cuotas por Servicio de Agua Potable autorizadas por la mencionada Comisión Permanente y aprobadas por la Convención Fiscal de los Ayuntamientos del Estado.
+> <small>[N. DE E. VÉASE REFORMA A LAS FÓRMULAS EN EL P.O. DE 20 DE ENERO DE 2023, PÁGINAS DE LA 61 A LA 64.]</small>
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
+
+Las cifras sobre la recaudación a que se refieren las anteriores fórmulas, serán proporcionadas y certificadas por la Auditoría Superior del Estado, con base en la recaudación que obtengan anualmente los municipios y su conformación estará sujeta a los términos que se establezcan en las Reglas de Validación de Ingresos Propios y Cuotas por Servicio de Agua Potable.
 
 Los coeficientes de participación que conforme a las bases anteriores resulten, se revisarán y modificarán anualmente. En tanto que dichos factores no se actualicen se seguirán aplicando provisionalmente los que correspondan al año inmediato anterior al en que el Estado reciba dicho Fondo.
 
@@ -175,17 +209,41 @@ ARTICULO 4 BIS 3.- Los Municipios recibirán el 100% de los recursos que el Esta
 
 > <small>[N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 25 DE DICIEMBRE DE 2019, PÁGINAS DE LA 35 A LA 37.]</small>
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2023)</small>
+
+ARTICULO 4 BIS 4.- Las fórmulas que distribuyen los conceptos que integran el Fondo Municipal de Participaciones y el Fondo de Fomento Municipal no serán aplicables en el evento de que (sic) en el mes que se calculen, el monto de uno o más conceptos sea inferior a los obtenidos en el 2015. En dicho supuesto la distribución del o los conceptos de que se trate se realizarán en relación con la cantidad efectiva obtenida en el mes que se calcula y de acuerdo con el o los coeficientes definitivos que cada municipio haya recibido de dicho concepto en el 2015, respectivamente.
+
+Las cifras como base de referencia para el año 2015 serán las presentadas en el anexo A del manual de distribución de participaciones federales y estatales publicado en el Periódico Oficial "El Estado de Sinaloa" el 05 de junio de 2019.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2023)</small>
+
+ARTICULO 4 BIS 5.- Las cifras de recaudación que obtengan anualmente los Municipios en materia de impuesto predial, cuotas por servicio de agua potable e ingresos propios, deberán ser certificadas y validadas por la Auditoría Superior del Estado, con base en las Reglas de Validación de Ingresos Propios y Cuotas por Servicio de Agua Potable y servirán como fuente oficial para el cálculo de la distribución de participaciones federales y estatales, y respecto a la información sobre la población de los Municipios, servirá como fuente oficial las cifras del Instituto Nacional de Estadística y Geografía.
+
+Para el cálculo de los coeficientes definitivos de participaciones federales y estatales, se considerarán los ajustes realizados por el Comité de Vigilancia del Sistema de Participaciones a nivel nacional.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2023)</small>
+
+ARTICULO 4 BIS 6.- Los municipios recibirán el 20% de la recaudación que obtenga el Estado procedente del rezago del impuesto de la tenencia o uso de vehículos federal, y se distribuirá entre los municipios de acuerdo al coeficiente efectivo que resulte del Fondo Municipal de participaciones y se deberán realizar los ajustes mencionados en el tercer párrafo del artículo 5 de esta Ley.
+
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 5.
 
 Las participaciones federales que correspondan a los municipios de los Fondos que establece esta Ley, se calcularán y pagarán por cada ejercicio fiscal, en los términos establecidos en los artículos 6° y 7° de la Ley de Coordinación Fiscal.
 
-La Secretaría de Administración y Finanzas, una vez identificada la asignación mensual y cuatrimestral que le corresponda a la entidad de los Fondos previstos en la Ley de Coordinación Fiscal, de la misma manera afectará la participación que corresponda a cada municipio.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
 
-Los coeficientes de participaciones federales y estatales a municipios se determinarán anualmente, a más tardar dentro de los ocho meses siguientes al cierre de cada ejercicio fiscal, una vez aprobadas las cuentas públicas municipales por el H. Congreso del Estado, con lo cual se efectuarán los ajustes de las participaciones pagadas a partir de enero, con el coeficiente preliminar o del año anterior, para el mismo efecto durante el mes de mayo se podrá realizar un cálculo estimado de coeficientes, siempre que la Auditoría Superior del Estado certifique la información de recaudación de ingresos propios y derechos de agua del año anterior, con lo cual se llevará a cabo un primer ajuste preliminar del pago de participaciones federales y estatales del periodo enero-abril del año en curso.
+La Secretaría de Administración y Finanzas, una vez identificada la asignación mensual y cuatrimestral que le corresponda a la entidad de los Fondos previstos en la Ley de Coordinación Fiscal, de la misma manera ajustará la participación que corresponda a cada municipio.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
+
+Los coeficientes de participaciones federales y estatales a municipios se determinarán anualmente de forma definitiva para el ejercicio que se trate, a más tardar dentro de los ocho meses siguientes al cierre de cada ejercicio fiscal, una vez aprobadas las cuentas públicas municipales por el H. Congreso del Estado, lo cual dará lugar al ajuste definitivo de las participaciones pagadas a partir de enero, y que fueron calculadas con el coeficiente preliminar o del año anterior, para el mismo efecto durante el mes de mayo se podrá realizar un cálculo provisional de coeficientes, siempre que la Auditoría Superior del Estado certifique la información de recaudación de ingresos propios y cuotas por servicio de agua potable del año anterior, con lo cual se llevará a cabo un ajuste preliminar del pago de participaciones federales y estatales del periodo enero abril del año en curso.
 
 En caso de que transcurridos los ocho meses siguientes al cierre del ejercicio, el Congreso del Estado no haya aprobado la cuenta pública municipal se utilizará como base la certificación que emita la Auditoría Superior del Estado, de los ingresos propios que haya tenido en el ejercicio inmediato anterior del Municipio de que se trate.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2023)</small>
+
+ARTICULO 5 BIS.- Los municipios recibirán el 20% de la recaudación que corresponda al Estado procedente de los contribuyentes que tributen en los términos del artículo 126 de la Ley del Impuesto sobre la Renta, derivada de la enajenación de bienes inmuebles, y se distribuirá entre los municipios de acuerdo al coeficiente efectivo que resulte del Fondo Municipal de participaciones y se deberán realizar los ajustes mencionados en el tercer párrafo del artículo 5 de esta Ley.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -668,3 +726,17 @@ Artículo Cuarto. Dentro de los 30 días siguientes a la entrada en vigor del pr
 Artículo Quinto. Las obligaciones derivadas de la Ley de Hacienda del Estado de Sinaloa, originadas durante el ejercicio fiscal 2019, deberán cumplirse en las formas y plazos establecidos conforme a las disposiciones vigentes de dicha Ley en ese ejercicio fiscal 2019.
 
 Artículo Sexto. En un plazo no mayor de 180 días contados a partir de la entrada en vigor del presente Decreto, se deberá crear el Padrón de Certificados Electrónicos de Servidores Públicos.
+
+P.O. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 375 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. La Auditoría Superior del Estado de Sinaloa será la responsable de proporcionar a la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado, toda la información necesaria como base para el cálculo de la distribución de participaciones para los municipios de nueva creación ElDorado (sic) y Juan José Ríos, de los años de 2020 a 2023 y su conformación estará sujeta a los términos que se establezcan en las Reglas de Validación de Ingresos Propios y Cuotas por Servicio de Agua Potable.
+
+Asimismo, proporcionará la información referente a las participaciones federales para cada fondo que se tomará como base del año 2015, para el cálculo de la distribución del Fondo Municipal de Participaciones y del Fondo de Fomento Municipal en términos de esta Ley.
+
+TERCERO. Las cifras sobre la población de los municipios de nueva creación serán las últimas publicadas por el Instituto Nacional de Estadística y Geografía.
+
+CUARTO. Para la distribución de las participaciones y Aportaciones que correspondan a la Hacienda Pública Municipal, se consideran inclusive, las fracciones de peso, no obstante lo anterior, a partir del ejercicio fiscal 2023 para efectuar su pago, el monto correspondiente se ajustará para que las que contengan cantidades que incluyan de O a 49 centavos se ajusten a la unidad del peso inmediata anterior y las que contengan cantidades de 50 a 99 centavos, se ajusten a la unidad del peso inmediata superior.
