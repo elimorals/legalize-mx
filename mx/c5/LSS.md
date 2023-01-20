@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2022-11-16"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ENERO DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -96,7 +96,9 @@ X. Responsables o responsable solidario: para los efectos de las aportaciones de
 
 XI. Asegurados o asegurado: el trabajador o sujeto de aseguramiento inscrito ante el Instituto, en los términos de la Ley;
 
-XII. Beneficiarios: el cónyuge del asegurado o pensionado y a falta de éste, la concubina o el concubinario en su caso, así como los ascendientes y descendientes del asegurado o pensionado señalados en la Ley;
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
+
+XII. Beneficiarios: la o el cónyuge del asegurado o asegurada o del pensionado o pensionada y a falta de éstos, a la concubina o el concubinario en su caso, a quien haya suscrito una unión civil con el asegurado o asegurada o el pensionado o pensionada, cualquiera que fuere su sexo, así como los ascendientes y descendientes de la o el asegurado o de la o el pensionado señalados en la ley;
 
 XIII. Derechohabientes o derechohabiente: el asegurado, el pensionado y los beneficiarios de ambos, que en los términos de la Ley tengan vigente su derecho a recibir las prestaciones del Instituto;
 
@@ -110,13 +112,23 @@ XVI. Cédulas o cédula de determinación: el medio magnético, digital, electr�
 
 XVII. Cédulas o cédula de liquidación: el medio magnético, digital, electrónico o de cualquier otra naturaleza, o bien el documento impreso, mediante el cual el Instituto, en ejercicio de sus facultades como organismo fiscal autónomo, determina en cantidad líquida los créditos fiscales a su favor previstos en la Ley;
 
-> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
 
-XVIII. Salarios o salario: la retribución que la Ley Federal del Trabajo define como tal, y
+XVIII. Salarios o salario: la retribución que la Ley Federal del Trabajo define como tal;
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
 
-XIX. Trabajador eventual del campo: persona física que es contratada para labores de siembra, deshije, cosecha, recolección, preparación de productos para su primera enajenación y otras de análoga naturaleza agrícola, ganadera, forestal o mixta, a cielo abierto o en invernadero. Puede ser contratada por uno o más patrones durante un año, por períodos que en ningún caso podrán ser superiores a veintisiete semanas por cada patrón. En caso de rebasar dicho período por patrón será considerado trabajador permanente. Para calcular las semanas laboradas y determinar la forma de cotización se estará a lo previsto en la ley y en el reglamento respectivo.
+XIX. Trabajador eventual del campo: persona física que es contratada para labores de siembra, deshije, cosecha, recolección, preparación de productos para su primera enajenación y otras de análoga naturaleza agrícola, ganadera, forestal o mixta, a cielo abierto o en invernadero. Puede ser contratada por uno o más patrones durante un año, por períodos que en ningún caso podrán ser superiores a veintisiete semanas por cada patrón. En caso de rebasar dicho período por patrón será considerado trabajador permanente. Para calcular las semanas laboradas y determinar la forma de cotización se estará a lo previsto en la ley y en el reglamento respectivo;
+
+> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2023)</small>
+
+XX. Unión civil: es el acto jurídico bilateral que se constituye cuando las personas físicas de diferente o del mismo sexo, mayores de edad y con capacidad jurídica plena, establecen un hogar común con voluntad de permanencia y ayuda mutua, por el que se deriven obligaciones alimentarias, de sucesión o semejantes y que esté reconocido en la legislación de los estados, cualquiera que sea la denominación que adquiera, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2023)</small>
+
+XXI. Servicio de guardería: derecho de las madres y padres trabajadores asegurados, viudas y viudos o divorciados con la custodia de sus hijos, durante su jornada laboral.
+
+Por lo que respecta a los matrimonios celebrados entre personas del mismo sexo, esta ley reconoce tales uniones con los mismos derechos y obligaciones que los celebrados entre hombre y mujer.
 
 ###### Artículo 6.
 
@@ -856,7 +868,9 @@ I. El pago de una cantidad igual a sesenta días de salario mínimo general que 
 
 Este pago se hará a la persona preferentemente familiar del asegurado, que presente copia del acta de defunción y la cuenta original de los gastos de funeral;
 
-II. A la viuda del asegurado se le otorgará una pensión equivalente al cuarenta por ciento de la que hubiese correspondido a aquél, tratándose de incapacidad permanente total. La misma pensión corresponde al viudo o concubinario que hubiera dependido económicamente de la asegurada. El importe de esta prestación no podrá ser inferior a la cuantía mínima que corresponda a la pensión de viudez del seguro de invalidez y vida;
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
+
+II. A la viuda o viudo de la o el asegurado, a la concubina o concubinario que le sobreviva o a quien haya suscrito una unión civil con la o el asegurado, se le otorgará una pensión equivalente al cuarenta por ciento de la que hubiese correspondido a aquél, tratándose de incapacidad permanente total. El importe de esta prestación no podrá ser inferior a la cuantía mínima que corresponda a la pensión de viudez del seguro de invalidez y vida;
 
 III. A cada uno de los huérfanos que lo sean de padre o madre, que se encuentren totalmente incapacitados, se les otorgará una pensión equivalente al veinte por ciento de la que hubiese correspondido al asegurado tratándose de incapacidad permanente total. Esta pensión se extinguirá cuando el huérfano recupere su capacidad para el trabajo;
 
@@ -876,21 +890,27 @@ Al término de las pensiones de orfandad establecidas en este artículo, se otor
 
 A las personas señaladas en las fracciones II y VI de este artículo, así como a los ascendientes pensionados en los términos del artículo 66, se les otorgará un aguinaldo anual equivalente a quince días del importe de la pensión que perciban.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2023)</small>
+
 ###### Artículo 65.
 
-Sólo a falta de esposa tendrá derecho a recibir la pensión señalada en la fracción II del artículo anterior, la mujer con quien el asegurado vivió como si fuera su marido durante los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hubieran permanecido libres de matrimonio durante el concubinato. Si al morir el asegurado tenía varias concubinas, ninguna de ellas gozará de pensión.
+Sólo a falta de la o el cónyuge, tendrá derecho a recibir la pensión señalada en la fracción II del artículo anterior, la persona con quien la o el asegurado vivió como si fueran matrimonio durante los cinco años que precedieron inmediatamente a su muerte o con quien procreó o registró hijos, siempre que ambos hubieran permanecido libres de matrimonio durante el concubinato o la persona con quien suscribió una unión civil. Si al morir la o el asegurado tenía varias o varios concubinas o concubinarios ninguno de ellos gozará la pensión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2023)</small>
 
 ###### Artículo 66.
 
-El total de las pensiones atribuidas a las personas señaladas en los artículos anteriores, en caso de fallecimiento del asegurado, no excederá de la que correspondería a éste si hubiese sufrido incapacidad permanente total. En caso de exceso, se reducirán proporcionalmente cada una de las pensiones.
+El total de las pensiones atribuidas a las personas señaladas en los artículos anteriores, en caso de fallecimiento de la o el asegurado, no excederá de la que correspondería a éste sí hubiese sufrido incapacidad permanente total. En caso de exceso, se reducirán proporcionalmente cada una de las pensiones.
 
 Cuando se extinga el derecho de alguno de los pensionados se hará nueva distribución de las pensiones que queden vigentes, entre los restantes, sin que se rebasen las cuotas parciales ni el monto total de dichas pensiones.
 
-A falta de viuda o viudo, huérfanos, concubina o concubinario con derecho a pensión, a cada uno de los ascendientes que dependían económicamente del trabajador fallecido, se le pensionará con una cantidad igual al veinte por ciento de la pensión que hubiese correspondido al asegurado, en el caso de incapacidad permanente total.
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+A falta de viuda o viudo, huérfanos, concubina o concubinario con derecho a pensión, o de quien haya suscrito una unión civil, a cada uno de los ascendientes que dependían económicamente del trabajador fallecido, se le pensionará con una cantidad igual al veinte por ciento de la pensión que hubiese correspondido al asegurado, en el caso de incapacidad permanente total.
 
-Tratándose de la viuda o concubina o, en su caso, del viudo o concubinario, la pensión se pagará mientras no contraigan nupcias o entren en concubinato. Al contraer matrimonio, cualquiera de los beneficiarios mencionados recibirá una suma global equivalente a tres anualidades de la pensión otorgada. En esta última situación, la aseguradora respectiva deberá devolver al Instituto el fondo de reserva de las obligaciones futuras pendientes de cubrir, previo descuento de la suma global que se otorgue.
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2023)</small>
+
+Tratándose de la viuda o del viudo, o de la concubina o concubinario, o de quien haya suscrito una unión civil y que sobreviva, la pensión se pagará mientras éstos no contraigan matrimonio o suscriban una unión civil o vivan en concubinato. Al contraer matrimonio o al suscribir alguna unión civil, cualquiera de los beneficiarios mencionados recibirá una suma global equivalente a tres anualidades de la pensión otorgada. En esta última situación, la aseguradora respectiva deberá devolver al Instituto el fondo de reserva de las obligaciones futuras pendientes de cubrir, previo descuento de la suma global que se otorgue.
 
 ###### Artículo 67.
 
@@ -902,9 +922,11 @@ Cuando se reúnan dos o más incapacidades parciales, el asegurado o sus benefic
 
 La cuantía de las pensiones por incapacidad permanente será actualizada anualmente en el mes de febrero, conforme al Indice Nacional de Precios al Consumidor correspondiente al año calendario anterior.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2023)</small>
+
 ###### Artículo 69.
 
-Las pensiones de viudez, orfandad y ascendientes del asegurado por riesgos de trabajo serán revisadas e incrementadas en la proporción que corresponda, en términos de lo dispuesto en el artículo anterior.
+Las pensiones de viudez, orfandad y ascendientes del asegurado o asegurada por riesgos de trabajo serán revisadas e incrementadas en la proporción que corresponda, en términos de lo dispuesto en el artículo anterior.
 
 #### SECCION QUINTA. DEL REGIMEN FINANCIERO
 
@@ -1094,9 +1116,13 @@ III. Colaborar en el ámbito de sus empresas a la adopción y difusión de las n
 
 Quedan amparados por este seguro:
 
-I. El asegurado;
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
 
-II. El pensionado por:
+I. El asegurado o asegurada;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 20 DE ENERO DE 2023)</small>
+
+II. El pensionado o pensionada por:
 
 a) Incapacidad permanente total o parcial;
 
@@ -1106,13 +1132,13 @@ c) Cesantía en edad avanzada y vejez, y
 
 d) Viudez, orfandad o ascendencia;
 
-III. La esposa del asegurado o, a falta de ésta, la mujer con quien ha hecho vida marital durante los cinco años anteriores a la enfermedad, o con la que haya procreado hijos, siempre que ambos permanezcan libres de matrimonio. Si el asegurado tiene varias concubinas ninguna de ellas tendrá derecho a la protección.
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
 
-Del mismo derecho gozará el esposo de la asegurada o, a falta de éste el concubinario, siempre que hubiera dependido económicamente de la asegurada, y reúnan, en su caso, los requisitos del párrafo anterior;
+III. La o el cónyuge del asegurado o asegurada o, a falta de éstos, la concubina o el concubinario con quien ha hecho vida marital durante los cinco años anteriores a la enfermedad, con quien ha procreado o registrado hijos, siempre que ambos permanezcan libres de matrimonio, unión civil o concubinato, o la persona con quien haya suscrito una unión civil con el asegurado o asegurada. Si la o el asegurado tiene varias o varios concubinas o concubinarios ninguno de ellos tendrá derecho a la protección;
 
-IV. La esposa del pensionado en los términos de los incisos a), b) y c) de la fracción II, a falta de esposa, la concubina si se reúnen los requisitos de la fracción III.
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
 
-Del mismo derecho gozará el esposo de la pensionada o a falta de éste el concubinario, si reúne los requisitos de la fracción III;
+IV. La esposa o esposo del pensionado o pensionada en los términos de los incisos a), b) y c) de la fracción II, a falta de esposa o esposo, a la concubina o el concubinario si reúnen los requisitos de la fracción III, o a quien haya suscrito una unión civil con el asegurado o asegurada;
 
 V. Los hijos menores de dieciséis años del asegurado y de los pensionados, en los términos consignados en las fracciones anteriores;
 
@@ -1478,9 +1504,11 @@ Cuando el asegurado al que se le haya determinado invalidez que le dé derecho a
 
 #### SECCION TERCERA. DEL RAMO DE VIDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2023)</small>
+
 ###### Artículo 127.
 
-Cuando ocurra la muerte del asegurado o del pensionado por invalidez, el Instituto otorgará a sus beneficiarios, conforme a lo dispuesto en el presente capítulo, las siguientes prestaciones:
+Cuando ocurra la muerte de la o el asegurado o del pensionado por invalidez, el Instituto otorgará a sus beneficiarios, conforme a lo dispuesto en el presente capítulo, las siguientes prestaciones:
 
 I. Pensión de viudez;
 
@@ -1488,13 +1516,19 @@ II. Pensión de orfandad;
 
 III. Pensión a ascendientes;
 
-IV. Ayuda asistencial a la pensionada por viudez, en los casos en que lo requiera, de acuerdo con el dictamen médico que al efecto se formule, y
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
+
+IV. Ayuda asistencial al pensionado o a la pensionada por viudez, en los casos en que lo requiera, de acuerdo con el dictamen médico que al efecto se formule, y
 
 V. Asistencia médica, en los términos del capítulo IV de este Título.
 
-En caso de fallecimiento de un asegurado, las pensiones a que se refieren las fracciones I, II y III de este artículo se otorgarán por la institución de seguros que elijan los beneficiarios para la contratación de su renta vitalicia. A tal efecto, se deberán integrar un monto constitutivo en la aseguradora elegida, el cual deberá ser suficiente para cubrir la pensión, las ayudas asistenciales y las demás prestaciones de carácter económico previstas en este capítulo. Para ello, el Instituto Mexicano del Seguro Social otorgará una suma asegurada que, adicionada a los recursos acumulados en la cuenta individual del trabajador fallecido, deberá ser suficiente para integrar el monto constitutivo con cargo al cual se pagará la pensión, las ayudas asistenciales y las demás prestaciones de carácter económico previstas en este capítulo, por la institución de seguros.
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2023)</small>
 
-Cuando el trabajador fallecido haya tenido un saldo acumulado en su cuenta individual que sea mayor al necesario para integrar el monto constitutivo para contratar una renta que sea superior a la pensión a que tengan derecho sus beneficiarios, en los términos de este capítulo, estos podrán retirar la suma excedente en una sola exhibición de la cuenta individual del trabajador fallecido, o contratar una renta por una suma mayor.
+En caso de fallecimiento de un asegurado o de una asegurada, las pensiones a que se refieren las fracciones I, II y III de este artículo se otorgarán por la institución de seguros que elijan los beneficiarios para la contratación de su renta vitalicia. A tal efecto, se deberán (sic) integrar un monto constitutivo en la aseguradora elegida, el cual deberá ser suficiente para cubrir la pensión, las ayudas asistenciales y las demás prestaciones de carácter económico previstas en este capítulo. Para ello, el Instituto Mexicano del Seguro Social otorgará una suma asegurada que, adicionada a los recursos acumulados en la cuenta individual del trabajador fallecido, deberá ser suficiente para integrar el monto constitutivo con cargo al cual se pagará la pensión, las ayudas asistenciales y las demás prestaciones de carácter económico previstas en este capítulo, por la institución de seguros.
+
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2023)</small>
+
+Cuando el trabajador o la trabajadora fallecidos, hayan tenido un saldo acumulado en su cuenta individual que sea mayor al necesario para integrar el monto constitutivo para contratar una renta que sea superior a la pensión a que tengan derecho sus beneficiarios, en los términos de este capítulo, estos podrán retirar la suma excedente en una sola exhibición de la cuenta individual del trabajador o trabajadora fallecidos, o contratar una renta por una suma mayor.
 
 La renta vitalicia se sujetará a lo dispuesto en el artículo 159 fracción IV de esta Ley.
 
@@ -1514,11 +1548,11 @@ También tendrán derecho a pensión los beneficiarios de un asegurado fallecido
 
 Si el asegurado disfrutaba de una pensión de incapacidad permanente total y fallece por causa distinta a un riesgo de trabajo, sin cumplir el requisito del párrafo anterior sus beneficiarios tendrán derecho a pensión, si la que gozó el fallecido no tuvo una duración mayor de cinco años.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2023)</small>
+
 ###### Artículo 130.
 
-Tendrá derecho a la pensión de viudez la que fue esposa del asegurado o pensionado por invalidez. A falta de esposa, tendrá derecho a recibir la pensión, la mujer con quien el asegurado o pensionado por invalidez vivió como si fuera su marido, durante los cinco años que precedieron inmediatamente a la muerte de aquél, o con la que hubiera tenido hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato. Si al morir el asegurado o pensionado por invalidez tenía varias concubinas, ninguna de ellas tendrá derecho a recibir la pensión.
-
-La misma pensión le corresponderá al viudo o concubinario que dependiera económicamente de la trabajadora asegurada o pensionada por invalidez.
+Tendrá derecho a la pensión de viudez la o el que fuera cónyuge de la o el asegurado o la o el pensionado por invalidez. A falta de cónyuge, tendrán derecho a recibir la pensión la concubina o el concubinario de la o el asegurado o pensionado por invalidez, que haya vivido durante al menos los cinco años que precedieron inmediatamente a la muerte de aquél, o la persona con la que hubiera tenido hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, o la persona que hubiera suscrito una unión civil con la o el asegurado o la o el pensionado. Si al morir el asegurado o pensionado por invalidez tenía varias o varios concubinas o concubinarios, ninguno de ellos tendrá derecho a recibir la pensión.
 
 ###### Artículo 131.
 
@@ -1562,11 +1596,11 @@ El derecho al goce de la pensión de orfandad comenzará desde el día del falle
 
 Con la última mensualidad se otorgará al huérfano un pago finiquito equivalente a tres mensualidades de su pensión.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2023)</small>
 
 ###### Artículo 137.
 
-Si no existieran viuda, viudo, huérfanos ni concubina o concubinario con derecho a pensión, ésta se otorgará a cada uno de los ascendientes que dependían económicamente del asegurado o pensionado por invalidez fallecido, por una cantidad igual al veinte por ciento de la pensión que el asegurado estuviese gozando al fallecer, o de la que le hubiera correspondido suponiendo realizado el estado de invalidez.
+Si no existieran viuda, viudo, huérfanos, ni concubina o concubinario con derecho a pensión, o quien haya suscrito una unión civil y que le sobreviva, ésta se otorgará a cada uno de los ascendientes que dependían económicamente de la o el asegurado o pensionado por invalidez fallecido, por una cantidad igual al veinte por ciento de la pensión que el asegurado o asegurada estuviese gozando al fallecer, o de la que le hubiera correspondido suponiendo realizado el estado de invalidez.
 
 > <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2019)</small>
 
@@ -1576,17 +1610,25 @@ Si un pensionado desaparece de su domicilio por más de un mes sin que se tengan
 
 #### SECCION CUARTA. DE LAS ASIGNACIONES FAMILIARES Y AYUDA ASISTENCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2023)</small>
+
 ###### Artículo 138.
 
-Las asignaciones familiares consisten en una ayuda por concepto de carga familiar y se concederá a los beneficiarios del pensionado por invalidez, de acuerdo con las reglas siguientes:
+Las asignaciones familiares consisten en una ayuda por concepto de carga familiar y se concederá a los beneficiarios del pensionado o pensionada por invalidez, de acuerdo con las reglas siguientes:
 
-I. Para la esposa o concubina del pensionado, el quince por ciento de la cuantía de la pensión;
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
+
+I. Para la o el cónyuge, o para quien hubiere mantenido relación de concubinato, o a quien haya suscrito una unión civil, el quince por ciento de la cuantía de la pensión;
 
 II. Para cada uno de los hijos menores de dieciséis años del pensionado, el diez por ciento de la cuantía de la pensión;
 
-III. Si el pensionado no tuviera ni esposa o concubina, ni hijos menores de dieciséis años se concederá una asignación del diez por ciento para cada uno de los padres del pensionado si dependieran económicamente de él;
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
 
-IV. Si el pensionado no tuviera ni esposa o concubina, ni hijos, ni ascendientes que dependan económicamente de él, se le concederá una ayuda asistencial equivalente al quince por ciento de la cuantía de la pensión que le corresponda, y
+III. Si el pensionado o pensionada no tuviera cónyuge o no mantuviere relación de concubinato o no haya suscrito una unión civil, ni tuviera hijos menores de dieciséis años, se concederá una asignación del diez por ciento para cada uno de los padres de la o el pensionado si dependieran económicamente de él o de ella;
+
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
+
+IV. Si el pensionado o pensionada no estuviera casado civilmente o no mantuviere relación de concubinato o no tuviera suscrita una unión civil, ni tuviera hijos, ni ascendientes que dependan económicamente de él o ella, se le concederá una ayuda asistencial equivalente al quince por ciento de la cuantía de la pensión que le corresponda, y
 
 V. Si el pensionado sólo tuviera un ascendiente con derecho al disfrute de asignación familiar, se le concederá una ayuda asistencial equivalente al diez por ciento de la cuantía de la pensión que deba disfrutar.
 
@@ -1609,6 +1651,10 @@ Los pensionados por retiro, cesantía en edad avanzada y vejez recibirán, inclu
 ###### Artículo 140.
 
 El Instituto concederá ayuda asistencial al pensionado por invalidez, con excepción de los casos comprendidos en las fracciones IV y V del artículo 138, así como a los viudos o viudas pensionados, cuando su estado físico requiera ineludiblemente, que lo asista otra persona de manera permanente o continua. Con base en el dictamen médico que al efecto se formule, la ayuda asistencial consistirá en el aumento hasta del veinte por ciento de la pensión de invalidez o viudez que esté disfrutando el pensionado.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 2023)</small>
+
+Igual derecho que las viudas o viudos pensionados, corresponderá a quienes hayan suscrito una unión civil y que le sobrevivan.
 
 > <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2019)</small>
 
@@ -1876,11 +1922,11 @@ El asegurado que elija la opción prevista en la fracción II o ambas podrá, en
 
 #### SECCION CUARTA. DE LA AYUDA PARA GASTOS DE MATRIMONIO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2023)</small>
 
 ###### Artículo 165.
 
-El asegurado tiene derecho a retirar, como ayuda para gastos de matrimonio, una cantidad equivalente a treinta Unidades de Medida y Actualización, proveniente de la cuota social que aporte el Estado en los términos de la fracción IV del artículo 168 de esta Ley para los trabajadores que reciban ésta, y con las aportaciones patronales a la Subcuenta de Retiro, Cesantía en Edad Avanzada y Vejez para los trabajadores que no reciban cuota social en sus cuentas individuales, conforme a los siguientes requisitos:
+La o el asegurado tiene derecho a retirar, como ayuda para gastos de matrimonio o unión civil, y proveniente de la cuota social aportada por el gobierno federal en su cuenta individual, una cantidad equivalente a treinta días de salario mínimo general, conforme a los siguientes requisitos:
 
 I. Que tenga acreditado un mínimo de ciento cincuenta semanas de cotización en el seguro de retiro, cesantía en edad avanzada y vejez, en la fecha de celebración del matrimonio;
 
@@ -1892,11 +1938,15 @@ II. Que compruebe con documentos fehacientes la muerte de la persona que registr
 
 III. Que cualquiera de los cónyuges no haya sido registrado con anterioridad en el Instituto con esa calidad.
 
-Este derecho se ejercerá por una sola vez y el asegurado no tendrá derecho por posteriores matrimonios.
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2023)</small>
+
+Este derecho se ejercerá por una sola vez y el asegurado o asegurada no tendrá derecho por posteriores matrimonios o uniones civiles.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2023)</small>
 
 ###### Artículo 166.
 
-El asegurado que deje de pertenecer al régimen obligatorio conservará sus derechos a la ayuda para gastos de matrimonio, si lo contrae dentro de noventa días hábiles contados a partir de la fecha de su baja.
+El asegurado o asegurada que deje de pertenecer al régimen obligatorio conservará sus derechos a la ayuda para gastos de matrimonio o de unión civil, si los firma dentro de noventa días hábiles contados a partir de la fecha de su baja.
 
 El asegurado que suministre datos falsos en relación a su estado civil, pierde todo derecho a la ayuda para gastos de matrimonio.
 
@@ -4713,3 +4763,13 @@ Segundo. Las reformas y adiciones a la Ley del Seguro Social publicadas en el Di
 Tercero. El Instituto Mexicano del Seguro Social deberá realizar las modificaciones para la debida operación del contenido de la presente reforma, para lo cual contará con un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
 Cuarto. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
+
+D.O.F. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL, Y DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO".]
+
+Primero. El presente Decreto entrará en vigor seis meses después de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, adecuarán las disposiciones reglamentarias, normativas, administrativas y demás disposiciones de su régimen interno que correspondan, conforme al presente Decreto, dentro de los 180 días naturales siguientes a su entrada en vigor.
+
+Tercero. Se autoriza al Instituto Mexicano del Seguro Social y al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a solicitar los recursos financieros necesarios que garanticen el cumplimiento del presente Decreto.
