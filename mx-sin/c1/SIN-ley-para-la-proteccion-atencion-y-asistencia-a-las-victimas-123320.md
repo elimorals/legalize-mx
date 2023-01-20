@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-la-proteccion-atencion-y-asistencia-a-las-victimas-123
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-08"
-last_updated: "2021-10-29"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
 
 Ley publicada en la Segunda Sección al Número 114 del Periódico Oficial del Estado de Sinaloa, el viernes 8 de septiembre de 2017.
 
@@ -307,9 +307,9 @@ VII. Las demás atribuciones establecidas en la Ley General, la presente Ley y d
 
 Corresponde al Secretario General de Gobierno:
 
-I. Presidir la Comisión Interinstitucional en las ausencias del Titular del Poder Ejecutivo del Estado;
+I. (DEROGADA, P.O. 20 DE ENERO DE 2023)
 
-II. Vigilar el cumplimiento de la Ley General, la presente Ley, así como demás normas que se expidan con motivo de entrada su vigor;
+II. (DEROGADA, P.O. 20 DE ENERO DE 2023)
 
 III. Fortalecer la coordinación entre los Poderes del Estado y los Ayuntamientos e impulsar convenios tendentes a la prevención de los delitos previstos en la Ley General;
 
@@ -429,9 +429,21 @@ III. Celebrar convenios con instituciones académicas para la capacitación de l
 
 IV. Desarrollar mecanismos para coadyuvar a la protección y atención antes, durante y después de las diligencias y actuaciones ministeriales y judiciales en las que participen todas las mujeres víctimas, ofendidas de los delitos previstos en la Ley General;
 
-V. Llevar un registro de las organizaciones civiles que cuenten con modelos para la atención de las mujeres víctimas; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-VI. Las demás que se establezcan en la Ley General, la presente Ley y demás normas aplicables.
+V. Llevar un registro de las organizaciones civiles que cuenten con modelos para la atención de las mujeres víctimas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2023)</small>
+
+VI. Presidir la Comisión Interinstitucional en las ausencias del Titular del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+VII. Vigilar el cumplimiento de la Ley General, la presente Ley, así como demás normas que se expidan con motivo de entrada su vigor, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VI], P.O. 20 DE ENERO DE 2023)</small>
+
+VIII. Las demás que se establezcan en la Ley General, la presente Ley y demás normas aplicables.
 
 ###### Artículo 23.
 
@@ -784,3 +796,15 @@ SÉPTIMO. Los recursos humanos y materiales asignados al Centro de Justicia para
 OCTAVO. Quedarán a salvo los derechos de las y los trabajadores de las instituciones que absorbe la Secretaría de las Mujeres, para efectos de su Seguridad y Previsión Social.
 
 NOVENO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 376 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan al presente Decreto.
