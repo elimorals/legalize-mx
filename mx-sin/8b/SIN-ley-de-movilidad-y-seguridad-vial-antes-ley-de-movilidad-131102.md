@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-movilidad-y-seguridad-vial-antes-ley-de-movilidad-131102
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-10"
-last_updated: "2021-09-24"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "SIN"
 
 LEY DE MOVILIDAD SUSTENTABLE DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
 
 Ley publicada en la Segunda Sección del No. 125 del Periódico Oficial del Estado de Sinaloa, el miércoles 10 de octubre de 2018.
 
-El Ciudadano LIC. QUIRINO ORDAZ COPPEL, Gobernador Constitucional del Estado Libre y Soberano de Sinaloau, a sus habitantes hace saber:
+El Ciudadano LIC. QUIRINO ORDAZ COPPEL, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
 
 Que por el H. Congreso del mismo se le ha comunicado lo siguiente:
 
@@ -3573,9 +3573,11 @@ V. De remolque.
 
 Las placas de demostración se proporcionarán exclusivamente a las personas que se dediquen a la fabricación o compra y venta de vehículos automotores sujetos a registro, quienes se hacen responsables de su correcto uso. El procedimiento para su expedición, será establecido en el reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
+
 ###### Artículo 353.
 
-Las placas de circulación servirán como identificación del vehículo, y serán permanentes. Las tarjetas de circulación y calcomanía deberán revalidarse anualmente dentro de los tres primeros meses del año calendario para el que son expedidas. En caso de traslación de la propiedad por cualquier medio previsto en la legislación, el interesado deberá tramitar el cambio de propietario en un plazo no mayor de quince días posteriores a la fecha de traslación.
+Las placas de circulación servirán como identificación del vehículo, y serán permanentes. Las tarjetas de circulación y calcomanía tendrán vigencia de un año y deberán revalidarse a más tardar el día de la fecha de su vencimiento. En caso de traslación de la propiedad por cualquier medio previsto en la legislación, el interesado deberá tramitar el cambio de propietario en un plazo no mayor de quince días posteriores a la fecha de traslación.
 
 ###### Artículo 354.
 
@@ -4406,3 +4408,11 @@ Dentro de los 60 días naturales siguientes a la entrada en vigor del presente D
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 374 QUE REFORMA LOS ARTÍCULOS 33, 49 PÁRRAFO SEGUNDO, Y 59 DE LA LEY DE HACIENDA, Y ARTÍCULO 353 DE LA LEY DE MOVILIDAD SUSTENTABLE, AMBAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
