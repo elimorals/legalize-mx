@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2022-11-08"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -35,7 +35,7 @@ La Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[...]
 
 ÚNICO. Se EXPIDE la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de San Luis Potosí, para quedar como sigue
 
@@ -823,7 +823,9 @@ II. Establecer un área específica especializada en la atención de delitos que
 
 III. Proporcionar a la víctima orientación jurídica; e informarla de los derechos que a su favor establece la Constitución Política de los Estados Unidos Mexicanos y la legislación estatal, así como de manera integral sobre las instituciones públicas o privadas encargadas de su atención;
 
-IV. Dictar las medidas necesarias para que las mujeres víctimas de violencia reciban atención médica y psicológica de urgencia; debiendo, en su caso, dar la atención especializada cuando se trate de mujeres víctimas de violencia que se encuentren embarazadas, con alguna discapacidad o que sean menores de edad, migrantes indígenas, o en cualquiera otra condición que requiera atención especializada;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+IV. Dictar las medidas necesarias para que las mujeres víctimas de violencia reciban atención médica y psicológica de urgencia; debiendo, en su caso, dar la atención especializada cuando se trate de mujeres víctimas de violencia que se encuentren embarazadas, con alguna discapacidad o que sean menores de edad, migrantes, indígenas, transgénero o en cualquiera otra condición que requiera atención especializada;
 
 V. Informar en caso de considerarlo necesario, a las mujeres víctimas de violencia, sobre la posibilidad de obtener protección en un refugio o enlace de los mismos;
 
@@ -1094,6 +1096,8 @@ ARTÍCULO 36 SEPTIES. Las órdenes de protección podrán solicitarse en el Esta
 Para efectos del párrafo anterior, las autoridades administrativas, la Fiscalía General del Estado, y el Poder Judicial del Estado, celebrarán convenios de colaboración con las entidades públicas, para garantizar la efectiva protección de las mujeres y las niñas conforme a los principios rectores de las órdenes de protección.
 
 Durante los primeros seis días posteriores a la implementación de las órdenes, la autoridad que la emitió mantendrá contacto directo con la mujer víctima de violencia cada veinticuatro horas. A partir del séptimo día se establecerá un plan de seguimiento personalizado, de acuerdo a las circunstancias, la valoración del riesgo, y el avance en la carpeta de investigación.
+
+> <small>[N. DE E. EL PRESENTE ARTÍCULO FUE REFORMADO POR EL PUNTO ÚNICO DEL DECRETO 0397 DE 14 DE OCTUBRE DE 2022; POSTERIORMENTE EL 20 DE ENERO DE 2023 FUE REFORMADO ESTE ARTÍCULO MEDIANTE DECRETO 0674 QUEDANDO DE ESTA MANERA: “ARTÍCULO 37. … I a IV. … Tratándose de mujeres embarazadas, con alguna discapacidad, niñas, niños y adolescentes, mujeres migrantes, indígenas o integrantes de un grupo étnico, transgénero o en cualquiera otra situación de vulnerabilidad o desventaja que requiera atención especializada, se deberán de tomar inmediatamente las medidas conducentes para asegurar su integridad física y psicológica.”; POR LO QUE, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE ESAS FECHAS.]</small>
 
 > <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
@@ -1383,9 +1387,17 @@ IX. En los casos de violencia familiar, las mujeres que tengan hijas o hijos pod
 
 X. Ser asistidas, tratándose de mujeres indígenas, gratuitamente en todo tiempo por intérprete, defensor público, asesor jurídico, y/o abogado victimal, que tengan conocimiento de su lengua y cultura;
 
-XI. Ser asistidas, tratándose de mujeres con discapacidad, gratuitamente en todo tiempo, por defensores de oficio, peritos especializados, apoyo de intérpretes en lengua de señas mexicana, en términos de la Ley para la Inclusión de las Personas con Discapacidad para el Estado y Municipios de San Luis Potosí, y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-XII. La víctima no será obligada a participar en mecanismos de mediación o conciliación con su agresor.
+XI. Ser asistidas, tratándose de mujeres con discapacidad, gratuitamente en todo tiempo, por defensores de oficio, peritos especializados, apoyo de intérpretes en lengua de señas mexicana, en términos de la Ley para la Inclusión de las Personas con Discapacidad para el Estado y Municipios de San Luis Potosí;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+XII. La víctima no será obligada a participar en mecanismos de mediación o conciliación con su agresor, y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+XIII. Tratándose de mujeres transgénero tendrán derecho a que se reconozca su identidad de género, y a ser llamadas con el nombre de su preferencia, sin importar si éstos no son coincidentes con sus documentos de identidad.
 
 ###### ARTÍCULO 48.
 
@@ -1632,3 +1644,11 @@ P.O. 8 DE NOVIEMBRE DE 2022.
 PRIMERO. El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0674.- SE REFORMAN LOS ARTÍCULOS 30 EN SU FRACCIÓN IV, 37 EN SU PÁRRAFO ÚLTIMO Y 47 EN SUS FRACCIONES XI Y XII; Y ADICIONA AL ARTÍCULO 47, LA FRACCIÓN XIII, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
