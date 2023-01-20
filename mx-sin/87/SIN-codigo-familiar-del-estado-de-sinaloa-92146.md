@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2022-09-23"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -7313,11 +7313,19 @@ La constancia a que hace referencia este artículo deberá ser expedida en un pl
 
 La inscripción de los deudores alimentarios morosos en el Registro tendrá los siguientes efectos:
 
-l. Constituir prueba en el delito de incumplimiento de obligaciones de asistencia familiar;
+I. Constituir prueba en el delito de incumplimiento de obligaciones de asistencia familiar;
 
-II. Inscribir en el Registro Público de la Propiedad y del Comercio, la constancia respectiva en los folios reales de que sea propietario el deudor alimentario moroso; y,
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-III. Garantizar la preferencia en el pago de deudas alimentarias en términos del artículo 216 del presente Código.
+II. Inscribir en el Registro Público de la Propiedad y del Comercio, la constancia respectiva en los folios reales de que sea propietario el deudor alimentario moroso;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+III. Garantizar la preferencia en el pago de deudas alimentarias en términos del artículo 216 del presente Código; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+IV. Impedir que durante el tiempo que una persona aparezca en el registro como deudor alimentario moroso, pueda ser aspirante a acceder a una precandidatura o candidatura para ocupar un cargo de elección popular del orden local, salvo que exhiba documentación con la que se acredite judicialmente el cumplimiento de las obligaciones en mora.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -7566,3 +7574,9 @@ P.O. 23 DE SEPTIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 379 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA Y DE LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
