@@ -4,7 +4,7 @@ identifier: "SIN-ley-del-sistema-de-medios-de-impugnacion-en-materia-109154"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-17"
-last_updated: "2022-09-23"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "SIN"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Sinaloa, el viernes 17 de julio de 2015.
 
@@ -1327,9 +1327,9 @@ XI. Considere que se violó su derecho de participación ciudadana por actos u o
 
 XII. Habiendo transcurrido el plazo señalado en la Ley Orgánica del Congreso del Estado de Sinaloa, no se hubiere emitido el dictamen que corresponda a iniciativa de ley o decreto, presentada por el ciudadano, de conformidad con las disposiciones de la Ley de Participación Ciudadana para el Estado de Sinaloa y en ejercicio del derecho previsto en la fracción V del artículo 45 de la Constitución;
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-XII Bis. Considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa y en la Ley de Instituciones y Procedimientos Electorales; y,
+XII Bis. Considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa, en el Código Familiar del Estado de Sinaloa y en la Ley de Instituciones y Procedimientos Electorales del Estado de Sinaloa; y
 
 XIII. Cualquier otro acto u omisión, emanado de autoridad electoral u órgano partidario de carácter local, que afecte los derechos fundamentales de carácter político-electoral del ciudadano.
 
@@ -1349,9 +1349,17 @@ Las sentencias que resuelvan de fondo el juicio para la protección de los derec
 
 I. Confirmar el acto o resolución impugnado;
 
-II. Revocar o modificar el acto o resolución impugnado y restituir al promovente en el uso y goce del derecho político que le haya sido violado; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-III. Ordenar a las autoridades legislativas la emisión de dictámenes que correspondan a iniciativas ciudadanas, siempre que hubiere vencido el plazo de ley.
+II. Revocar o modificar el acto o resolución impugnado y restituir al promovente en el uso y goce del derecho político que le haya sido violado;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+III. Ordenar a las autoridades legislativas la emisión de dictámenes que correspondan a iniciativas ciudadanas, siempre que hubiere vencido el plazo de ley; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+IV. En los supuestos señalados en la fracción XII Bis del artículo 128 de esta ley, establecer que dicha conducta amerita la pérdida de la presunción de un modo honesto de vivir, por lo que el responsable pierde elegibilidad para acceder a un cargo de elección popular.
 
 ###### Artículo 131.
 
@@ -1836,3 +1844,9 @@ A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los M
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 379 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA Y DE LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
