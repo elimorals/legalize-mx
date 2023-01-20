@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2021-11-22"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LISSSTE"
 ---
 # LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ENERO DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
@@ -162,7 +164,9 @@ XI. Entidades Federativas, a los estados de la República y el Distrito Federal;
 
 XII. Familiares derechohabientes a:
 
-a) El cónyuge, o a falta de éste, el varón o la mujer con quien, la Trabajadora o la Pensionada con relación al primero, o el Trabajador o el Pensionado, con relación a la segunda, ha vivido como si fuera su cónyuge durante los cinco años anteriores o con quien tuviese uno o más hijos(as), siempre que ambos permanezcan libres de matrimonio. Si el Trabajador o el Pensionado, tiene varias concubinas o concubinarios, según sea el caso, ninguno de estos dos últimos sujetos tendrá derecho a los seguros, prestaciones y servicios previstos en esta Ley;
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2023)</small>
+
+a) La o el cónyuge del Trabajador o el Pensionado, o falta de éstos, la concubina o concubinario que haya vivido como si fuera su cónyuge durante los cinco años anteriores o con quien tuviese uno o más hijos (as), siempre que ambos permanezcan libres de matrimonio o de unión civil, o la persona con quien haya suscrito una unión civil. Si la o el Trabajador o la o el Pensionado tiene varias concubinas o concubinarios, ninguno de éstos últimos sujetos tendrá derecho a los seguros, prestaciones y servicios previstos en esta Ley;
 
 b) Los hijos del Trabajador menores de dieciocho años;
 
@@ -208,9 +212,21 @@ XXVI. Seguro de Sobrevivencia, aquel que contratarán los Pensionados por, retir
 
 XXVII. Subcuenta, cualquiera de las Subcuentas de retiro, cesantía en edad avanzada y vejez, del Fondo de la Vivienda, de ahorro solidario, de aportaciones complementarias de retiro, de aportaciones voluntarias y de ahorro a largo plazo que integran la Cuenta Individual;
 
-XXVIII. Sueldo Básico, el definido en el artículo 17 de esta Ley, y
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
 
-XXIX. Trabajador, las personas a las que se refiere el artículo 1o. de esta Ley que presten sus servicios en las Dependencias o Entidades, mediante designación legal o nombramiento, o por estar incluidas en las listas de raya de los Trabajadores temporales, incluidas aquéllas que presten sus servicios mediante contrato personal sujeto a la legislación común, que perciban sus emolumentos exclusivamente con cargo a la partida de honorarios por contrato, o que estén incluidos en las listas de raya, siempre y cuando hayan laborado una jornada completa de acuerdo con las condiciones generales de trabajo y el contrato sea por un periodo mínimo de un año.
+XXVIII. Sueldo Básico, el definido en el artículo 17 de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
+
+XXIX. Trabajador, las personas a las que se refiere el artículo 1o. de esta Ley que presten sus servicios en las Dependencias o Entidades, mediante designación legal o nombramiento, o por estar incluidas en las listas de raya de los Trabajadores temporales, incluidas las que presten sus servicios mediante contrato personal sujeto a la legislación común, que perciban sus emolumentos exclusivamente con cargo a la partida de honorarios por contrato, o que estén incluidos en las listas de raya, siempre y cuando hayan laborado una jornada completa de acuerdo con las condiciones generales de trabajo y el contrato sea por un periodo mínimo de un año, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2023)</small>
+
+XXX. Unión civil, es el acto jurídico bilateral que se constituye cuando las personas físicas de diferente o del mismo sexo, mayores de edad y con capacidad jurídica plena, establecen un hogar común con voluntad de permanencia y ayuda mutua, por el que se deriven obligaciones alimentarias, de sucesión o semejantes y que esté reconocido en la legislación de las entidades federativas, como los pactos civiles de solidaridad y las sociedades de convivencia.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 2023)</small>
+
+Por lo que respecta a los matrimonios celebrados entre personas del mismo sexo, esta Ley reconoce tales uniones con los mismos derechos y obligaciones que los celebrados entre hombre y mujer.
 
 ###### Artículo 7.
 
@@ -554,9 +570,11 @@ Para la hospitalización o intervención quirúrgica se requiere el consentimien
 
 Se suspenderá el pago del subsidio en caso de incumplimiento a la orden del Instituto de someterse el enfermo a hospitalización, o cuando se interrumpa el tratamiento sin la autorización debida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2023)</small>
+
 ###### Artículo 39.
 
-La mujer Trabajadora, la pensionada, la cónyuge del Trabajador o del Pensionado o, en su caso, la concubina de uno u otro, y la hija del Trabajador o Pensionado, soltera, menor de dieciocho años que dependa económicamente de éstos, según las condiciones del artículo siguiente, tendrán derecho a:
+La mujer Trabajadora, la pensionada, la cónyuge, la concubina o, en su caso, la mujer con quien la o el Trabajador o la o el Pensionado haya suscrito una unión civil, así como la hija de la o el Trabajador o de la o el Pensionado, soltera, menor de dieciocho años que dependa económicamente de éstos, según las condiciones del artículo siguiente, tendrán derecho a:
 
 I. Asistencia obstétrica necesaria a partir del día en que el Instituto certifique el estado de embarazo. La certificación señalará la fecha probable del parto para los efectos del artículo 28 de la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del artículo 123 Constitucional;
 
@@ -570,17 +588,23 @@ III. Durante el período de lactancia tendrán derecho a decidir entre contar co
 
 IV. Con cargo al seguro de salud, una canastilla de maternidad, al nacer el hijo, cuyo costo será señalado periódicamente por el Instituto, mediante acuerdo de la Junta Directiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2023)</small>
+
 ###### Artículo 40.
 
-Para que la Trabajadora, Pensionada, cónyuge o hija menor de dieciocho años y soltera, o en su caso, la concubina, tengan derecho a las prestaciones que establece el artículo previo, será necesario que, durante los seis meses anteriores al parto, se hayan mantenido vigentes sus derechos o los del Trabajador o Pensionado del que se deriven estas prestaciones.
+Para que la Trabajadora, Pensionada, cónyuge, concubina o la mujer con quien la o el Trabajador o la o el Pensionado haya suscrito una unión civil, así como la hija menor de dieciocho años y soltera, según sea el caso, tengan derecho a las prestaciones que establece el artículo previo, será necesario que, durante los seis meses anteriores al parto, se hayan mantenido vigentes sus derechos o los de la o el Trabajador o la o el Pensionado del que se deriven estas prestaciones.
 
 En el caso de que la Trabajadora no cumpla con el requisito de seis meses de antigüedad, la Dependencia o Entidad de su adscripción, cubrirá el costo del servicio de acuerdo con el tabulador que autorice la Junta Directiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2023)</small>
+
 ###### Artículo 41.
 
-También tendrán derecho a los servicios del seguro de salud en caso de enfermedad, los Familiares Derechohabientes del Trabajador o del Pensionado que en seguida se enumeran:
+También tendrán derecho a los servicios del seguro de salud en caso de enfermedad, los Familiares Derechohabientes de la Trabajadora o del Trabajador o de la Pensionada o del Pensionado que enseguida se enumeran:
 
-I. El cónyuge, o a falta de éste, el varón o la mujer con quien, la Trabajadora o la Pensionada con relación al primero, o el Trabajador o el Pensionado, con relación a la segunda, ha vivido como si fuera su cónyuge durante los cinco años anteriores a la enfermedad o con quien tuviese uno o más hijos(as), siempre que ambos permanezcan libres de matrimonio. Si el Trabajador o Pensionado tiene varias concubinas o concubinarios, según sea el caso, ninguno de estos dos últimos sujetos tendrá derecho a recibir la prestación;
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
+
+I. La o el cónyuge del Trabajador o Pensionado, o a falta de éstos la concubina o concubinario que haya vivido como si fuera su cónyuge durante los cinco años anteriores a la enfermedad o con quien tuviese uno o más hijos (as), siempre que ambos permanezcan libres de matrimonio o de unión civil, o la persona que haya suscrito una unión civil con la o el Trabajador o Pensionado. Si la o el Trabajador o la o el Pensionado, tiene varias concubinas o concubinarios, ninguno de ellos tendrá derecho a recibir la prestación;
 
 II. Los hijos menores de dieciocho años de ambos o de sólo uno de los cónyuges, siempre que dependan económicamente de alguno de ellos;
 
@@ -862,9 +886,11 @@ b) Contratar Rentas por una cuantía mayor.
 
 La seguridad y salud en el trabajo, en las Dependencias y Entidades, se normará por la legislación aplicable, así como por las disposiciones que en esta materia se fijen en las Condiciones Generales de Trabajo o los Contratos Colectivos que rijan la relación laboral en las Dependencias y Entidades.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2023)</small>
+
 ###### Artículo 70.
 
-Para la división de la Pensión derivada de este Capítulo, entre los familiares del Trabajador, así como en cuanto a la asignación de la Pensión para el viudo, concubinario, hijos, ascendientes, o quien, en su caso, tenga derecho a la ministración de alimentos, se estará a lo previsto en la sección de Pensión por causa de muerte del seguro de invalidez y vida.
+Para la división de la Pensión derivada de este Capítulo, entre los familiares de la o el Trabajador, así como en cuanto la asignación de la Pensión para el viudo o viuda, o en su caso para la concubina o concubinario, o para quien haya suscrito una unión civil y que sobreviva, hijos, ascendientes, o quien, en su caso, tenga derecho a la ministración de alimentos, se estará a lo previsto en la sección de Pensión por causa de muerte del seguro de invalidez y vida.
 
 ###### Artículo 71.
 
@@ -1420,9 +1446,15 @@ Si el Trabajador no fuere restituido a su empleo o no se le asignara otro en los
 
 #### Sección III. Pensión por Causa de Muerte
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2023)</small>
+
 ###### Artículo 129.
 
-La muerte del Trabajador por causas ajenas al servicio, cualquiera que sea su edad, y siempre que hubiere cotizado al Instituto por tres años o más, dará origen a las Pensiones de viudez, concubinato, orfandad o ascendencia en su caso, según lo prevenido por esta Ley.
+La muerte de la o el Trabajador por causas ajenas al servicio, cualquiera que sea su edad, y siempre que hubiere cotizado al Instituto por tres años o más, dará origen a las Pensiones de viudez, concubinato, orfandad o ascendencia en su caso, según lo prevenido en esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 2023)</small>
+
+Respecto de las pensiones de viudez a que se refiere el presente artículo, estas considerarán tanto a la viuda o viudo como a quienes hubieran suscrito una unión civil con la o el trabajador.
 
 En este caso, las Pensiones se otorgarán por la Aseguradora que elijan los Familiares Derechohabientes para la contratación de su Seguro de Pensión. A tal efecto, se deberá integrar un Monto Constitutivo en la Aseguradora elegida, el cual deberá ser suficiente para cubrir la Pensión y las demás prestaciones de carácter económico previstas en este Capítulo. Para ello, el Instituto cubrirá el Monto Constitutivo con cargo al cual se pagará la Pensión y las demás prestaciones de carácter económico previstas en este Capítulo, por la Aseguradora.
 
@@ -1438,13 +1470,19 @@ El derecho al pago de la Pensión por causa de muerte se iniciará a partir del 
 
 El orden para gozar de las Pensiones a que se refiere este artículo por los Familiares Derechohabientes será el siguiente:
 
-I. El cónyuge supérstite sólo si no hay hijos o en concurrencia con éstos si los hay y son menores de dieciocho años o que no sean menores de dieciocho años pero estén incapacitados o imposibilitados parcial o totalmente para trabajar; o bien hasta veinticinco años previa comprobación de que están realizando estudios de nivel medio o superior de cualquier rama del conocimiento en planteles oficiales o reconocidos y que no tengan trabajo;
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
 
-II. A falta de cónyuge, la concubina o concubinario solo o en concurrencia con los hijos o éstos solos cuando reúnan las condiciones señaladas en la fracción anterior, siempre que la concubina hubiere tenido hijos con el Trabajador o Pensionado o el concubinario con la Trabajadora o Pensionada, o vivido en su compañía durante los cinco años que precedieron a su muerte y ambos hayan permanecido libres de matrimonio durante el concubinato. Si al morir el Trabajador o Pensionado tuviere varias concubinas o la Trabajadora o Pensionada tuviere varios concubinarios, ninguno tendrá derecho a Pensión.
+I. La o el cónyuge, o quien haya suscrito una unión civil que le sobreviva, sólo si no hay hijos o en concurrencia con éstos si los hay y son menores de dieciocho años o que no sean menores de dieciocho años que vivan con discapacidad o imposibilitados parcial o totalmente para trabajar; o bien hasta veinticinco años previa comprobación de que están realizando estudios de nivel medio o superior de cualquier rama del conocimiento en planteles oficiales o reconocidos y que no tengan trabajo;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 20 DE ENERO DE 2023)</small>
+
+II. A falta de cónyuge, la concubina o concubinario o quien haya suscrito una unión civil que le sobreviva, solo o en concurrencia con los hijos, o éstos solos cuando reúnan las condiciones señaladas en la fracción anterior, siempre que la concubina o el concubinario hubieren tenido hijos con la o el trabajador o con la o el pensionado o vivido en su compañía durante los cinco años que precedieron a su muerte y ambos hayan permanecido libres de matrimonio o de unión civil durante el concubinato. Si al morir la o el Trabajador o la o el Pensionado tuviere varias concubinas o varios concubinarios ninguno tendrá derecho a Pensión.
 
 Para efectos de esta Ley, para considerarse como tales los concubinos deberán acreditar haber vivido en común con el Trabajador en forma constante y permanente por un periodo mínimo de cinco años que precedan inmediatamente a la generación de la Pensión o haber tenido por lo menos un hijo en común;
 
-III. A falta de cónyuge, hijos, concubina o concubinario la Pensión se entregará a la madre o padre conjunta o separadamente y a falta de éstos a los demás ascendientes, en caso de que hubiesen dependido económicamente del Trabajador o Pensionado;
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
+
+III. A falta de cónyuge, o de hijos, o en su caso de concubina o concubinario, o de quien haya suscrito una unión civil que le sobreviva, la Pensión se entregará a la madre o padre conjunta o separadamente y a falta de estos a los demás ascendientes, en caso de que hubiesen dependido económicamente de la o el Trabajador o de la o el Pensionado.
 
 IV. La cantidad total a que tengan derecho los deudos señalados en cada una de las fracciones, se dividirá por partes iguales entre ellos. Cuando fuesen varios los beneficiarios de una Pensión y alguno de ellos perdiese el derecho, la parte que le corresponda será repartida proporcionalmente entre los restantes, y
 
@@ -1458,9 +1496,13 @@ Los Familiares Derechohabientes del Trabajador o Pensionado fallecido, en el ord
 
 Si otorgada una Pensión aparecen otros familiares con derecho a la misma, se les hará extensiva, pero percibirán su parte a partir de la fecha en que sea recibida la solicitud en el Instituto, sin que puedan reclamar el pago de las cantidades cobradas por los primeros beneficiarios. A efecto de lo anterior, el Instituto deberá solicitar por escrito a la Aseguradora con la que se hubiere contratado el Seguro de Pensión, que se incluya a los beneficiarios supervenientes en el pago de la Pensión.
 
-En caso de que dos o más interesados reclamen derecho a Pensión como cónyuges supérstites del Trabajador o Pensionado, exhibiendo su respectiva documentación se suspenderá el trámite del beneficio hasta que se defina judicialmente la situación, sin perjuicio de continuarlo por lo que respecta a los hijos, reservándose una parte de la cuota a quien acredite su derecho como cónyuge supérstite.
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2023)</small>
 
-Cuando un solicitante, ostentándose como cónyuge supérstite del Trabajador o Pensionado reclame un beneficio que ya se haya concedido a otra persona por el mismo concepto, sólo se revocará el anteriormente otorgado, si existe sentencia ejecutoriada en la que se declare la nulidad del matrimonio que sirvió de base para la concesión de la Pensión. Si el segundo solicitante reúne los requisitos que esta Ley establece, se le concederá Pensión, la cual percibirá a partir de la fecha en que se reciba la solicitud en el Instituto, sin que tenga derecho a reclamar al Instituto las cantidades cobradas por el primer beneficiario.
+En caso de que dos o más interesados reclamen derecho a Pensión como cónyuges o con quienes hayan suscrito una unión civil, la o el Trabajador o la o el Pensionado, exhibiendo su respectiva documentación se suspenderá el trámite del beneficio hasta que se defina judicialmente la situación, sin perjuicio de continuarlo por lo que respecta a los hijos, reservándose una parte de la cuota a quien acredite su derecho en la calidad que lo reclame.
+
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2023)</small>
+
+Cuando un solicitante, ostentándose como cónyuge supérstite de la o el Trabajador o de la o el Pensionado, o como quien haya suscrito una unión civil con la o el Trabajador o con la o el Pensionado reclame un beneficio que ya se haya concedido a otra persona por el mismo concepto, solo se revocará el anteriormente otorgado, si existe sentencia ejecutoriada en la que se declare la nulidad del matrimonio o de la unión civil, según el caso, que sirvió de base para la concesión de la Pensión. Si el segundo solicitante reúne los requisitos que esta Ley establece, se le concederá Pensión, la cual percibirá a partir de la fecha en que se reciba la solicitud en el Instituto, sin que tenga derecho a reclamar al Instituto las cantidades cobradas por el primer beneficiario.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2011)</small>
 
@@ -1468,29 +1510,35 @@ Cuando un solicitante, ostentándose como cónyuge supérstite del Trabajador o 
 
 Si el Pensionado por orfandad llegare a los dieciocho años y no pudiere mantenerse por su propio trabajo debido a una enfermedad duradera o discapacidad por deficiencias físicas, mentales, intelectuales o sensoriales, el pago de la Pensión por orfandad se prorrogará por el tiempo que subsista su inhabilitación, previa comprobación anual mediante dictamen médico emitido por el propio Instituto para efecto de determinar su estado de invalidez, haciéndose acreedor, en caso contrario, a la suspensión de la Pensión; asimismo continuarán disfrutando de la Pensión los hijos solteros hasta los veinticinco años de edad, previa comprobación de que están realizando estudios de nivel medio o superior en planteles oficiales o reconocidos y que no tengan un trabajo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2023)</small>
+
 ###### Artículo 135.
 
-Los derechos a percibir Pensión se pierden para los Familiares Derechohabientes del Trabajador o Pensionado por alguna de las siguientes causas:
+Los derechos a percibir Pensión se pierden para los Familiares Derechohabientes de la o el Trabajador o de la o el Pensionado, por alguna de las siguientes causas:
 
 I. Llegar a cumplir dieciocho años de edad los hijos e hijas del Trabajador o Pensionado, salvo lo dispuesto en el artículo anterior, siempre que no estén incapacitados legalmente o imposibilitados físicamente para trabajar;
 
-II. Porque la mujer o el varón Pensionado contraigan nupcias o llegasen a vivir en concubinato. Al contraer matrimonio la viuda, viudo, concubina o concubinario, recibirán como única y última prestación el importe de seis meses de la Pensión que venían disfrutando.
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
 
-La divorciada o divorciado no tendrán derecho a la Pensión de quien haya sido su cónyuge, a menos que a la muerte del causante, éste estuviese ministrándole alimentos por condena judicial y siempre que no existan viuda o viudo, hijos, concubina o concubinario y ascendientes con derecho a la misma. Cuando la divorciada o divorciado disfrutasen de la Pensión en los términos de este artículo, perderán dicho derecho si contraen nuevas nupcias, o si viviesen en concubinato, y
+II. Porque la o el Pensionado contraigan matrimonio, llegasen a vivir en concubinato o suscriban una unión civil. Al contraer matrimonio, vivir en concubinato o suscribir una unión civil, la viuda, viudo, concubina o concubinario o quien haya suscrito una unión civil y le sobreviva, recibirán como única y última prestación el importe de seis meses de la Pensión que venían disfrutando.
+
+La divorciada o divorciado, o las o los legalmente separados de alguna unión civil, no tendrán derecho a la Pensión de quien haya sido su cónyuge o de quien hubiese suscrito una unión civil, a menos que a la muerte del causante, éste estuviese ministrándole alimentos por condena judicial y siempre que no exista viuda o viudo, concubina o concubinario, sobreviviente de alguna unión civil, hijos y ascendientes con derecho a la misma. Cuando la divorciada o divorciado, o los legalmente separados de alguna unión civil disfrutasen de la Pensión en los términos de este artículo, perderán dicho derecho si contraen nuevo matrimonio o suscriben otra unión civil o si viviesen en concubinato, y
 
 III. Por fallecimiento.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2023)</small>
+
 ###### Artículo 136.
 
-No tendrá derecho a Pensión el cónyuge supérstite, en los siguientes casos:
+No tendrá derecho a Pensión la o el cónyuge, o quienes hayan suscrito unión civil que sobrevivan, en los siguientes casos:
 
-I. Cuando la muerte del Trabajador o Pensionado acaeciera antes de cumplir seis meses de matrimonio;
+I. Cuando la muerte de la o el Trabajador o de la o el Pensionado acaeciera antes de cumplir seis meses de matrimonio o de haber suscrito una unión civil;
 
-II. Cuando hubiese contraído matrimonio con el Trabajador después de haber cumplido éste los cincuenta y cinco años de edad, a menos que a la fecha de la muerte haya transcurrido un año desde la celebración del matrimonio, y
+II. Cuando hubiese contraído matrimonio o suscrito una unión civil con la o el Trabajador después de haber cumplido éstos los cincuenta y cinco años de edad, a menos que a la fecha de la muerte haya transcurrido un año desde la celebración del matrimonio o unión civil, y
 
-III. Cuando al contraer matrimonio el Pensionado recibía una Pensión de riesgos del trabajo o invalidez, a menos de que a la fecha de la muerte haya transcurrido un año desde la celebración del matrimonio.
+III. Cuando al contraer matrimonio o suscribir una unión civil, la o el Pensionado recibía una Pensión de riesgos del trabajo o invalidez, a menos de que a la fecha de la muerte haya transcurrido un año desde la celebración del matrimonio o la unión civil.
 
-Las limitaciones que establece este artículo no regirán cuando al morir el Trabajador o Pensionado, el cónyuge compruebe tener hijos con él.
+Las limitaciones que establece este artículo no regirán cuando al morir la o el Trabajador o la o el Pensionado, la o el cónyuge o quien haya suscrito una unión civil y le sobreviva compruebe tener hijos con ella o él.
 
 ###### Artículo 137.
 
@@ -2594,8 +2642,6 @@ Las obligaciones que en favor del Instituto señala la presente Ley, prescribir�
 
 El derecho del Trabajador y, en su caso, de los beneficiarios, a recibir los recursos de su Cuenta Individual del seguro de retiro, cesantía en edad avanzada y vejez en los términos de la presente Ley, prescribe en favor del Instituto a los diez años de que sean exigibles.
 
-D.O.F. 20 DE MAYO DE 2021.
-
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
 ###### Artículo 252.
@@ -3162,6 +3208,44 @@ Segundo. Corresponderá a las autoridades encargadas de las presentes disposicio
 
 D.O.F. 24 DE MARZO DE 2016.
 
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 167 Y 179 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Junta Directiva del Instituto incluirá en las reglas operativas que al efecto emita, los términos, modalidades, proporciones y condiciones bajo las cuales se otorgue el segundo crédito previsto en los artículos 167 y 179 de esta Ley, estableciendo criterios de equidad y de prelación que garanticen el ejercicio de este derecho por parte de los Trabajadores que aún no lo ejerzan. Asimismo, aprobará las modificaciones que en su caso correspondan a los programas de crédito y de financiamiento vigentes.
+
+D.O.F. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY FEDERAL DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS, Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO; DE LA LEY DE INSTITUCIONES DE CRÉDITO Y DE LA LEY AGRARIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
+
+TERCERO. Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
+
+D.O.F. 4 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL, DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO Y DE LA LEY FEDERAL DEL TRABAJO".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los recursos para el ejercicio 2019 se obtendrán de los apartados precisados en el presente Decreto y posteriormente los recursos que se requieran deberán ser garantizados, etiquetados y provisionados con anterioridad por la Secretaría de Hacienda y Crédito Público en los Presupuestos de Egresos de la Federación de los ejercicios que correspondan, y en el entendido de que la implementación de tal programa no impactará de forma alguna las cuotas obrero-patronales recabadas por los Institutos de Seguridad Social del Gobierno Federal.
+
+D.O.F. 16 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en un plazo de 120 días siguientes a la entrada en vigor del presente Decreto, deberá expedir las reglas conforme a las cuales se otorgarán los créditos a que se refiere el artículo 42, fracción II, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+Tercero. La Comisión Ejecutiva del Fondo de la Vivienda, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en un plazo de 120 días siguientes a la entrada en vigor del presente Decreto, deberá expedir las condiciones conforme a las cuales se otorgarán los créditos a que se refiere el artículo 169, fracción I, inciso d), de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+Cuarto. Dentro de los 120 días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Hacienda y Crédito Público, a través de la Comisión Nacional Bancaria y de Valores, deberá emitir las modificaciones a las disposiciones de carácter general que sean necesarias para instrumentar las reformas previstas en el mismo.
+
+D.O.F. 20 DE MAYO DE 2021.
+
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE LA FISCALÍA GENERAL DE LA REPÚBLICA, SE ABROGA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE LA REPÚBLICA Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE DISTINTOS ORDENAMIENTOS LEGALES”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.
@@ -3228,42 +3312,6 @@ Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría Genera
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 167 Y 179 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
-
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- La Junta Directiva del Instituto incluirá en las reglas operativas que al efecto emita, los términos, modalidades, proporciones y condiciones bajo las cuales se otorgue el segundo crédito previsto en los artículos 167 y 179 de esta Ley, estableciendo criterios de equidad y de prelación que garanticen el ejercicio de este derecho por parte de los Trabajadores que aún no lo ejerzan. Asimismo, aprobará las modificaciones que en su caso correspondan a los programas de crédito y de financiamiento vigentes.
-
-D.O.F. 22 DE JUNIO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY FEDERAL DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS, Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO; DE LA LEY DE INSTITUCIONES DE CRÉDITO Y DE LA LEY AGRARIA”.]
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
-
-TERCERO. Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
-
-D.O.F. 4 DE JUNIO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL, DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO Y DE LA LEY FEDERAL DEL TRABAJO".]
-
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- Los recursos para el ejercicio 2019 se obtendrán de los apartados precisados en el presente Decreto y posteriormente los recursos que se requieran deberán ser garantizados, etiquetados y provisionados con anterioridad por la Secretaría de Hacienda y Crédito Público en los Presupuestos de Egresos de la Federación de los ejercicios que correspondan, y en el entendido de que la implementación de tal programa no impactará de forma alguna las cuotas obrero-patronales recabadas por los Institutos de Seguridad Social del Gobierno Federal.
-
-D.O.F. 16 DE DICIEMBRE DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
-
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. El Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en un plazo de 120 días siguientes a la entrada en vigor del presente Decreto, deberá expedir las reglas conforme a las cuales se otorgarán los créditos a que se refiere el artículo 42, fracción II, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
-
-Tercero. La Comisión Ejecutiva del Fondo de la Vivienda, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en un plazo de 120 días siguientes a la entrada en vigor del presente Decreto, deberá expedir las condiciones conforme a las cuales se otorgarán los créditos a que se refiere el artículo 169, fracción I, inciso d), de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
-
-Cuarto. Dentro de los 120 días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Hacienda y Crédito Público, a través de la Comisión Nacional Bancaria y de Valores, deberá emitir las modificaciones a las disposiciones de carácter general que sean necesarias para instrumentar las reformas previstas en el mismo.
-
 D.O.F. 22 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL Y DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS”.]
@@ -3271,3 +3319,13 @@ D.O.F. 22 DE NOVIEMBRE DE 2021.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. El Ejecutivo Federal, en un plazo de ciento ochenta días, a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo dispuesto en el presente Decreto.
+
+D.O.F. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL, Y DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+Primero. El presente Decreto entrará en vigor seis meses después de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, adecuarán las disposiciones reglamentarias, normativas, administrativas y demás disposiciones de su régimen interno que correspondan, conforme al presente Decreto, dentro de los 180 días naturales siguientes a su entrada en vigor.
+
+Tercero. Se autoriza al Instituto Mexicano del Seguro Social y al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a solicitar los recursos financieros necesarios que garanticen el cumplimiento del presente Decreto.
