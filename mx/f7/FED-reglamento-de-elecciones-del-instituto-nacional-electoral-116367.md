@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2022-10-17"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 17 DE OCTUBRE DE 2022, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 20 DE ENERO DE 2023, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ENERO DE 2023.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -441,29 +441,41 @@ d) Proporcionar información pública a los ciudadanos que la soliciten, y
 
 e) Verificar el adecuado funcionamiento de la oficina.
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE ENERO DE 2023)</small>
 
-### CAPÍTULO IV.. DESIGNACIÓN DE FUNCIONARIOS DE LOS OPL
+### CAPÍTULO IV.. Estructura ocupacional mínima para la coordinación INE y OPL y designación de personas funcionarias de los OPL
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
-
 ###### Artículo 19.
 
-1. Los criterios y procedimientos que se establecen en este Capítulo, son aplicables para los OPL en la designación de los funcionarios electorales siguientes, sin menoscabo de las atribuciones que tienen consagradas dichos organismos públicos en el artículo 116, fracción IV, inciso c) de la Constitución Federal:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 20 DE ENERO DE 2023)</small>
+
+1. Los criterios y, en su caso, los procedimientos que se establecen en este Capítulo, son aplicables para los OPL respecto de la definición de su estructura ejecutiva mínima para la coordinación INE y OPL y para la designación de las personas funcionarias electorales siguientes, sin menoscabo de las atribuciones que tienen consagradas dichos organismos públicos en el artículo 116, fracción IV, inciso c) de la Constitución Federal:
+
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 a) Los consejeros electorales de los consejos distritales y municipales de las entidades federativas, con independencia de la denominación que se asigne a dichas demarcaciones territoriales en cada legislación local;
 
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+
 b) El Secretario Ejecutivo o quien ejerza sus funciones, con independencia de su denominación en cada legislación local, y
+
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 c) Los servidores públicos titulares de las áreas ejecutivas de dirección.
 
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+
 2. Las áreas ejecutivas de dirección comprenden las direcciones ejecutivas, unidades técnicas y sus equivalentes, que integran la estructura orgánica de los OPL.
 
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+
 3. Por unidad técnica se deberá entender, con independencia del nombre que tenga asignado, las áreas que ejerzan funciones jurídicas, de comunicación social, informática, secretariado técnico, oficialía electoral, transparencia, acceso a la información pública y protección de datos personales, planeación o metodologías organizativas, diseño editorial, vinculación con el Instituto o cualquier otra función análoga a las anteriores.
+
+> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 4. Lo dispuesto en este Capítulo no es aplicable en la designación de servidores públicos que, en términos del Estatuto, deban integrar el Servicio Profesional Electoral Nacional.
 
@@ -573,43 +585,63 @@ f) Conocimiento de la materia electoral.
 
 2. Todos los documentos relacionados con el procedimiento de designación de consejeros electorales distritales y municipales de los OPL serán públicos, garantizando en todo momento la protección de datos personales de los aspirantes.
 
-> <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE ENERO DE 2023)</small>
 
-#### SECCIÓN TERCERA. Procedimiento de designación del Secretario Ejecutivo y de los Titulares de las Áreas Ejecutivas de Dirección y Unidades Técnicas de los OPL
+#### SECCIÓN TERCERA
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+Estructura ocupacional mínima para la coordinación INE y OPL y procedimiento de designación de la persona titular de la Secretaría Ejecutiva y de las personas Titulares de las Áreas Ejecutivas de Dirección y Unidades Técnicas de los OPL
+
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2023)</small>
 
 ###### Artículo 24.
 
-1. Para la designación de cada uno de los funcionarios a que se refiere este apartado, el Consejero Presidente del OPL correspondiente, deberá presentar al Órgano Superior de Dirección propuesta de la persona que ocupará el cargo, la cual deberá cumplir, al menos, los siguientes requisitos:
+1. Para la debida coordinación con el Instituto, en la preparación y desarrollo de los procesos electorales locales en el ejercicio de la función electoral, los OPL, sin perjuicio de lo que se establezca en la legislación aplicable o en la reglamentación interior y que considere una estructura más amplia, deberán contar con personal técnico y una estructura ocupacional mínima de Direcciones o Áreas Ejecutivas, cuyas titularidades sean designadas por el Órgano Superior de Dirección, y que tengan a su cargo, respectivamente, el desempeño de las actividades propias de:
 
-a) Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+a) Organización Electoral;
 
-b) Estar inscrito en el Registro Federal de Electores y contar con credencial para votar vigente;
+b) Educación Cívica y/o Capacitación Electoral;
+
+c) Jurídico y/o Contencioso Electoral;
+
+d) Administración;
+
+e) Informática;
+
+f) Prerrogativas y Partidos Políticos; e
+
+g) Igualdad de Género y No Discriminación.
+
+En caso de que la legislación local correspondiente contemple una Junta General Ejecutiva en el OPL respectivo, ésta estará integrada por las áreas ejecutivas y unidades técnicas, conforme a lo establecido en la respectiva legislación local.
+
+2. Para la designación de cada una de las personas funcionarias a que se refiere este apartado, la Presidencia del Consejo del OPL correspondiente, deberá presentar al Órgano Superior de Dirección propuesta de la persona que ocupará el cargo, la cual deberá cumplir, al menos, los siguientes requisitos:
+
+a) Ser persona ciudadana mexicana y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+b) Estar inscrita en el Registro Federal de Electores y contar con credencial para votar vigente;
 
 c) Tener más de treinta años de edad al día de la designación;
 
 d) Poseer al día de la designación, título profesional de nivel licenciatura, con antigüedad mínima de cinco años y contar con conocimientos y experiencia para el desempeño de las funciones propias del cargo;
 
-e) Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+e) Gozar de buena reputación y no haber sido persona condenada por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
 
-f) No haber sido registrado como candidato a cargo alguno de elección popular en los últimos cuatro años anteriores a la designación;
+f) No haber sido persona registrada por una candidatura a cargo alguno de elección popular en los últimos cuatro años anteriores a la designación;
 
-g) No estar inhabilitado para ejercer cargos públicos en cualquier institución pública federal o local;
+g) No estar inhabilitada para ejercer cargos públicos en cualquier institución pública federal o local;
 
 h) No desempeñar al momento de la designación, ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación, y
 
-i) No ser Secretario de Estado, ni Fiscal General de la República, Procurador de Justicia de alguna entidad federativa, Subsecretario u Oficial Mayor en la administración pública federal o estatal, Jefe de Gobierno de la Ciudad de México, Gobernador, Secretario de Gobierno, o cargos similares u homólogos en la estructura de cada entidad federativa, ni ser Presidente Municipal, Síndico o Regidor o titular de alguna dependencia de los ayuntamientos o alcaldías, a menos que, en cualquiera de los casos anteriores, se separe de su encargo con cuatro años de anticipación al día de su nombramiento.
+i) No ser Secretaria o Secretario de Estado, ni Fiscal General de la República, Procuradora o Procurador de Justicia de alguna entidad federativa, Subsecretaria o Subsecretario u Oficial Mayor en la administración pública federal o estatal, Jefa o Jefe de Gobierno de la Ciudad de México, Gobernadora o Gobernador, Secretaria o Secretario de Gobierno, o cargos similares u homólogos en la estructura de cada entidad federativa, ni ser Presidenta o Presidente Municipal, Síndica o Síndico o Regidora o Regidor o titular de alguna dependencia de los ayuntamientos o alcaldías, a menos que, en cualquiera de los casos anteriores, se separe de su encargo con cuatro años de anticipación al día de su nombramiento.
 
-2. Cuando las legislaciones locales señalen requisitos adicionales, éstos también deberán aplicarse.
+3. Cuando las legislaciones locales señalen requisitos adicionales, éstos también deberán aplicarse.
 
-3. La propuesta que haga el Consejero Presidente, estará sujeta a la valoración curricular, entrevista y consideración de los criterios que garanticen imparcialidad y profesionalismo de los aspirantes, en los mismos términos que son aplicables a los consejeros electorales de los consejos distritales y municipales.
+4. La propuesta que haga la Presidencia del Consejo, estará sujeta a la valoración curricular, entrevista y consideración de los criterios que garanticen imparcialidad y profesionalismo de las personas aspirantes, en los mismos términos que son aplicables a las y los consejeros electorales de los consejos distritales y municipales.
 
-4. Las designaciones del secretario ejecutivo y de los titulares de las áreas ejecutivas de dirección y unidades técnicas, deberán ser aprobadas por al menos con el voto de cinco consejeros electorales del Órgano Superior de Dirección.
+5. Las designaciones de la titularidad de la Secretaría Ejecutiva y de las titularidades de las áreas ejecutivas de dirección y unidades técnicas, deberán ser aprobadas por al menos con el voto de cinco consejeras y/o consejeros electorales del Órgano Superior de Dirección.
 
-5. En caso que no se aprobara la propuesta de designación de un servidor público, el Consejero Presidente deberá presentar una nueva propuesta dentro de los treinta días siguientes. De persistir tal situación, el Presidente podrá nombrar un encargado de despacho, el cual durará en el cargo hasta un plazo no mayor a un año, lapso en el cual podrá ser designado conforme al procedimiento establecido en el presente artículo. El encargado de despacho no podrá ser la persona rechazada.
+6. En caso que no se aprobara la propuesta de designación de una persona servidora pública, la Presidencia del Consejo deberá presentar una nueva propuesta dentro de los treinta días siguientes. De persistir tal situación, la o el Presidente podrá nombrar una encargaduría de despacho, quien durará en el cargo hasta un plazo no mayor a un año, lapso en el cual podrá ser designada conforme al procedimiento establecido en el presente artículo. La persona encargada de despacho no podrá ser la persona rechazada.
 
-6. Cuando la integración del Órgano Superior de Dirección sea renovada, los nuevos consejeros electorales podrán ratificar o remover a los funcionarios que se encuentren ocupando los cargos señalados en el numeral 4 de este artículo, en un plazo no mayor a sesenta días hábiles.
+7. Cuando la integración del Órgano Superior de Dirección sea renovada, las y los nuevos consejeros electorales podrán ratificar o remover a las personas funcionarias que se encuentren ocupando los cargos señalados en el numeral 1 de este artículo, en un plazo no mayor a sesenta días hábiles.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -9675,4 +9707,116 @@ Página DOF
 
 www.dof.gob.mx/2022/INE/CGext202209_07_ap_12.pdf
 
-#### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
+D.O.F. 20 DE ENERO DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LAS MODIFICACIONES AL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE ESTRUCTURA DE LOS ORGANISMOS PÚBLICOS LOCALES", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO. Se aprueban las modificaciones del Reglamento de Elecciones del Instituto Nacional Electoral, para quedar en los términos siguientes:
+
+Reglamento de Elecciones
+
+[…]
+
+# LIBRO SEGUNDO. AUTORIDADES ELECTORALES
+
+## TÍTULO I.. Órganos Electorales
+
+[…]
+
+### CAPÍTULO IV.. Estructura ocupacional mínima para la coordinación INE y OPL y designación de personas funcionarias de los OPL
+
+#### SECCIÓN PRIMERA. Disposiciones Generales
+
+###### Artículo 19.
+
+1. Los criterios y, en su caso, los procedimientos que se establecen en este Capítulo, son aplicables para los OPL respecto de la definición de su estructura ejecutiva mínima para la coordinación INE y OPL y para la designación de las personas funcionarias electorales siguientes, sin menoscabo de las atribuciones que tienen consagradas dichos organismos públicos en el artículo 116, fracción IV, inciso c) de la Constitución Federal:
+
+[…]
+
+#### SECCIÓN TERCERA
+
+Estructura ocupacional mínima para la coordinación INE y OPL y procedimiento de designación de la persona titular de la Secretaría Ejecutiva y de las personas Titulares de las Áreas Ejecutivas de Dirección y Unidades Técnicas de los OPL
+
+###### Artículo 24.
+
+1. Para la debida coordinación con el Instituto, en la preparación y desarrollo de los procesos electorales locales en el ejercicio de la función electoral, los OPL, sin perjuicio de lo que se establezca en la legislación aplicable o en la reglamentación interior y que considere una estructura más amplia, deberán contar con personal técnico y una estructura ocupacional mínima de Direcciones o Áreas Ejecutivas, cuyas titularidades sean designadas por el Órgano Superior de Dirección, y que tengan a su cargo, respectivamente, el desempeño de las actividades propias de:
+
+a) Organización Electoral;
+
+b) Educación Cívica y/o Capacitación Electoral;
+
+c) Jurídico y/o Contencioso Electoral;
+
+d) Administración;
+
+e) Informática;
+
+f) Prerrogativas y Partidos Políticos; e
+
+g) Igualdad de Género y No Discriminación.
+
+En caso de que la legislación local correspondiente contemple una Junta General Ejecutiva en el OPL respectivo, ésta estará integrada por las áreas ejecutivas y unidades técnicas, conforme a lo establecido en la respectiva legislación local.
+
+2. Para la designación de cada una de las personas funcionarias a que se refiere este apartado, la Presidencia del Consejo del OPL correspondiente, deberá presentar al Órgano Superior de Dirección propuesta de la persona que ocupará el cargo, la cual deberá cumplir, al menos, los siguientes requisitos:
+
+a) Ser persona ciudadana mexicana y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+b) Estar inscrita en el Registro Federal de Electores y contar con credencial para votar vigente;
+
+c) Tener más de treinta años de edad al día de la designación;
+
+d) Poseer al día de la designación, título profesional de nivel licenciatura, con antigüedad mínima de cinco años y contar con conocimientos y experiencia para el desempeño de las funciones propias del cargo;
+
+e) Gozar de buena reputación y no haber sido persona condenada por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+
+f) No haber sido persona registrada por una candidatura a cargo alguno de elección popular en los últimos cuatro años anteriores a la designación;
+
+g) No estar inhabilitada para ejercer cargos públicos en cualquier institución pública federal o local;
+
+h) No desempeñar al momento de la designación, ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación, y
+
+i) No ser Secretaria o Secretario de Estado, ni Fiscal General de la República, Procuradora o Procurador de Justicia de alguna entidad federativa, Subsecretaria o Subsecretario u Oficial Mayor en la administración pública federal o estatal, Jefa o Jefe de Gobierno de la Ciudad de México, Gobernadora o Gobernador, Secretaria o Secretario de Gobierno, o cargos similares u homólogos en la estructura de cada entidad federativa, ni ser Presidenta o Presidente Municipal, Síndica o Síndico o Regidora o Regidor o titular de alguna dependencia de los ayuntamientos o alcaldías, a menos que, en cualquiera de los casos anteriores, se separe de su encargo con cuatro años de anticipación al día de su nombramiento.
+
+3. Cuando las legislaciones locales señalen requisitos adicionales, éstos también deberán aplicarse.
+
+4. La propuesta que haga la Presidencia del Consejo, estará sujeta a la valoración curricular, entrevista y consideración de los criterios que garanticen imparcialidad y profesionalismo de las personas aspirantes, en los mismos términos que son aplicables a las y los consejeros electorales de los consejos distritales y municipales.
+
+5. Las designaciones de la titularidad de la Secretaría Ejecutiva y de las titularidades de las áreas ejecutivas de dirección y unidades técnicas, deberán ser aprobadas por al menos con el voto de cinco consejeras y/o consejeros electorales del Órgano Superior de Dirección.
+
+6. En caso que no se aprobara la propuesta de designación de una persona servidora pública, la Presidencia del Consejo deberá presentar una nueva propuesta dentro de los treinta días siguientes. De persistir tal situación, la o el Presidente podrá nombrar una encargaduría de despacho, quien durará en el cargo hasta un plazo no mayor a un año, lapso en el cual podrá ser designada conforme al procedimiento establecido en el presente artículo. La persona encargada de despacho no podrá ser la persona rechazada.
+
+7. Cuando la integración del Órgano Superior de Dirección sea renovada, las y los nuevos consejeros electorales podrán ratificar o remover a las personas funcionarias que se encuentren ocupando los cargos señalados en el numeral 1 de este artículo, en un plazo no mayor a sesenta días hábiles.
+
+[…]
+
+SEGUNDO. Se instruye a la Secretaría Ejecutiva para que a través de la UTVOPL, informe su contenido a las presidencias de los Órganos Superiores de Dirección de los OPL de las entidades federativas.
+
+TERCERO. Se instruye a la Secretaría Ejecutiva para que a través de la UTVOPL coordine los trabajos necesarios para que se cumpla con el presente Acuerdo y se dé seguimiento a las modificaciones que los OPL realicen a su estructura en términos de la reforma al Reglamento.
+
+De las modificaciones correspondientes de estructura que realicen los máximos órganos de dirección de los OPL, se informará al Consejo General de este Instituto previo conocimiento de la CVOPL, la cual podrá pronunciarse sobre las dudas que surjan a dichos organismos sobre el alcance e implementación de la reforma que se aprueba.
+
+CUARTO. El presente Acuerdo y las modificaciones al Reglamento entrarán en vigor al día siguiente de su aprobación por parte del Consejo General.
+
+QUINTO. Publíquese el presente Acuerdo en la Gaceta Electoral, en NormaINE y en el portal de Internet del Instituto, así como en el DOF.
+
+## ARTÍCULOS TRANSITORIOS
+
+PRIMERO. Los OPL deberán tomar las determinaciones correspondientes y contar con la estructura ocupacional mínima establecida a través del presente Acuerdo, a más tardar, el 31 de agosto de 2023, tomando en consideración que, de conformidad con el artículo 40, numeral 2 de la LGIPE, el inicio del proceso electoral concurrente 2023-2024, dará inicio en la primera semana del mes de septiembre de 2023.
+
+SEGUNDO. Los OPL deberán informar al Instituto, a través de la UTVOPL, una vez que realicen las determinaciones correspondientes para el cumplimiento del presente Acuerdo.
+
+El presente Acuerdo fue aprobado en sesión ordinaria del Consejo General celebrada el 29 de noviembre de 2022, por ocho votos a favor de las y los Consejeros Electorales, Doctora Adriana Margarita Favela Herrera, Maestro José Martín Fernando Faz Mora, Doctor Ciro Murayama Rendón, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, y tres votos en contra de las Consejeras y el Consejero Electorales, Norma Irene De La Cruz Magaña, Doctor Uuc-kib Espadas Ancona y Carla Astrid Humphrey Jordán.
+
+El Consejero Presidente del Consejo General, Dr. Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Lic. Edmundo Jacobo Molina.- Rúbrica.
+
+El Acuerdo y el Voto Particular que emite la Consejera Electoral, Norma Irene De La Cruz Magaña pueden ser consultados en las siguientes direcciones electrónicas:
+
+Página INE:
+
+https://www.ine.mx/sesion-ordinaria-del-consejo-general-29-de-noviembre-de-2022/
+
+Página DOF
+
+www.dof.gob.mx/2022/INE/CGord202211_29_ap_4.pdf
