@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6761
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-11"
-last_updated: "2021-10-29"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 11 de marzo de 2009.
 
@@ -41,9 +41,11 @@ LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SINALOA
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y de observancia general en el Estado de Sinaloa y tiene por objeto regular y garantizar la igualdad entre mujeres y hombres, proponer los lineamientos y mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo acciones afirmativas a favor de la mujer.
+La presente Ley es de orden público e interés social y de observancia general en el Estado de Sinaloa y tiene por objeto regular y garantizar la igualdad de oportunidades y de trato entre mujeres y hombres, proponer los lineamientos y mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo acciones afirmativas a favor de la mujer tales como la paridad de género, el empoderamiento de las mujeres, y la lucha contra toda discriminación basada en el sexo.
 
 ###### Artículo 2.
 
@@ -53,11 +55,15 @@ I. La igualdad de trato y de oportunidades;
 
 II. La no discriminación;
 
-III. La equidad de género;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+III. La equidad;
 
 IV. La perspectiva de género;
 
-V. Los instrumentos internacionales aplicables en la materia; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+V. Los contenidos en instrumentos internacionales aplicables en la materia; y
 
 VI. Los demás contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Sinaloa.
 
@@ -65,27 +71,41 @@ VI. Los demás contenidos en la Constitución Política de los Estados Unidos Me
 
 Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en territorio estatal, que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión o capacidades diferentes, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta Ley tutela.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2023)</small>
+
+La trasgresión a los principios y programas que la misma prevé será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
+
 ###### Artículo 4.
 
 El presente ordenamiento deberá interpretarse de acuerdo a los principios consagrados en la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales en materia de derechos humanos, ratificados por el Estado Mexicano.
 
 En caso de que se presenten diferentes interpretaciones, se deberá preferir aquella que proteja con mayor eficacia a las personas o grupos que sean afectados por conductas discriminatorias e inequitativas.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
+
 ###### Artículo 5.
 
-Para los efectos de esta Ley se entenderá por:
+Para efectos de esta Ley se entenderá por
 
-I. Acciones afirmativas. Es el conjunto de medidas de carácter temporal, correctivo, compensatorio o de promoción, encaminadas a acelerar la igualdad de hecho entre mujeres y hombres, aplicables en tanto subsista la desigualdad de trato y oportunidades de las mujeres respecto a los hombres;
+I. Acciones afirmativas.- Es el conjunto de medidas de carácter temporal, correctivo, compensatorio o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres, aplicables en tanto subsista la desigualdad de trato y oportunidades de las mujeres respecto a los hombres;
 
-II. Equidad de género. Concepto que refiere al principio conforme al cual hombres y mujeres acceden con justicia e igualdad al uso, control y beneficios de los bienes y servicios de la sociedad, incluyendo aquéllos socialmente valorados, oportunidades y recompensas, con la finalidad de lograr la participación equitativa de las mujeres en la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
+II. Discriminación.- Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
 
-III. Perspectiva de género. Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género;
+III. Discriminación contra la Mujer.- Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
-IV. Transversalidad. Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
+IV. Igualdad de Género.- Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, saludable, cultural y familiar;
 
-V. Sistema Estatal. Sistema Estatal para la Igualdad entre Mujeres y Hombres; y
+V. Igualdad Sustantiva.- Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
-VI. Programa Estatal. Programa Estatal para la Igualdad entre Mujeres y Hombres.
+VI. Perspectiva de género.- Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
+
+VII. Transversalidad.- Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
+
+VIII. Sistema Estatal.- Sistema Estatal para la Igualdad entre Mujeres y Hombres;
+
+IX. Secretaría.- Secretaría de las Mujeres; y
+
+X. Programa Estatal.- Programa Estatal para la Igualdad entre Mujeres y Hombres.
 
 ###### Artículo 6.
 
@@ -199,9 +219,19 @@ I. Implementar la política municipal en materia de igualdad entre mujeres y hom
 
 II. Coadyuvar con el Gobierno Federal y con el Gobierno Estatal en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
 
-III. Diseñar, formular y aplicar campañas de concientización que promuevan los valores y contenidos de la presente ley; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-IV. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales.
+III. Diseñar, formular y aplicar campañas de concientización que promuevan los valores y contenidos de la presente ley.
+
+El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+IV. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+V. Proponer al Gobierno Estatal, sus necesidades presupuestarias para la ejecución de los programas de igualdad.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE OCTUBRE DE 2021)</small>
 
@@ -221,17 +251,59 @@ La política estatal en materia de igualdad entre mujeres y hombres deberá esta
 
 Para el desarrollo e implementación de las políticas públicas en materia de igualdad, el Ejecutivo del Estado deberá de considerar los siguientes lineamientos:
 
-I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-II. Asegurar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad entre mujeres y hombres;
+I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida, económico, político, saludable, social y cultural;
 
-III. Fomentar la participación y representación política equilibrada entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+II. Asegurar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad y la paridad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+III. Fomentar la participación y representación política paritaria entre mujeres y hombres;
 
 IV. Promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
 
-V. Promover la igualdad entre mujeres y hombres en la vida civil; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-VI. Promover la eliminación de estereotipos establecidos en función del sexo.
+V. Promover la igualdad entre mujeres y hombres en la vida civil;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+VI. Promover la eliminación de estereotipos establecidos en función del sexo;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+VII. Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+VIII. El establecimiento de medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+IX. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+X. En el sistema educativo, la inclusión entre sus fines de la formación en el respeto de los derechos y libertades y de la igualdad entre mujeres y hombres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia; así como la inclusión dentro de sus principios de calidad, de la eliminación de los obstáculos que dificultan la igualdad efectiva entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+XI. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+XII. Promover que en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal, así como en los medios masivos de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+XIII. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas, así como en la vida deportiva; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+XIV. Fomentar el desarrollo, participación y reconocimiento de las mujeres en la ciencia y la tecnología, así como el desarrollo de investigadoras profesionales.
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE POLÍTICA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -307,17 +379,31 @@ La Secretaría de las Mujeres, se coordinará con las instancias federales para 
 
 El Sistema Estatal tiene los siguientes objetivos:
 
-I. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-II. Coadyuvar a la modificación de estereotipos que discriminan y fomentan la violencia de género; y
+I. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación, sin distinción de ningún tipo, en los términos del último párrafo del artículo lo. de la Constitución Política de los Estados Unidos Mexicanos;
 
-III. Promover el desarrollo de programas y servicios que fomenten la igualdad entre mujeres y hombres.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+II. Coadyuvar a la modificación de estereotipos que discriminan y fomentan la violencia de género;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+III. Promover el desarrollo de programas y servicios que fomenten la igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+IV. Contribuir al adelanto de las mujeres; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+V. Dar seguimiento a la implementación del principio constitucional de paridad de género; y en tal virtud deberá presentar un informe anual de los avances en la materia.
 
 ###### Artículo 24.
 
 El Sistema Estatal se conformará por las y los titulares de:
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE ENERO DE 2023)</small>
 
 I. El Ejecutivo del Estado, a través de la Secretaría de las Mujeres, quien lo presidirá;
 
@@ -325,11 +411,15 @@ I. El Ejecutivo del Estado, a través de la Secretaría de las Mujeres, quien lo
 
 II. La Secretaría de Administración y Finanzas;
 
-III. La Secretaría de Desarrollo Social y Sustentable;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+III. La Secretaría de Bienestar y Desarrollo Sustentable;
 
 IV. La Secretaría de Seguridad Pública;
 
-V. La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+V. Fiscalía General del Estado;
 
 VI. La Secretaría de Educación Pública y Cultura;
 
@@ -339,9 +429,9 @@ VII. La Secretaría de Salud;
 
 VIII. Secretaría Ejecutiva;
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-IX. Presidente de la Comisión de Equidad, Género y Familia del Poder Legislativo;
+IX. La persona que ostente la Presidencia de la Comisión Permanente de Igualdad de Género y Familia;
 
 X. Presidente de la Comisión Estatal de Derechos Humanos del Estado;
 
@@ -379,7 +469,9 @@ La concertación de acciones entre el Estado y el sector privado, en materia de 
 
 I. Definición de las responsabilidades que asuman las y los integrantes de los sectores social y privado; y
 
-II. Determinación de las acciones de orientación, estímulo y apoyo que dichos sectores llevarán a cabo en coordinación con las instituciones correspondientes.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+II. Determinación de las acciones de orientación, estímulo y apoyo que dichos sectores llevarán a cabo en coordinación con las instituciones correspondientes, tales como programas de liderazgo y crecimiento, capacitación continua, políticas de igualdad salarial, políticas de diversidad en los equipos, promoción para participar en direcciones, programas de maternidad y paternidad, foros dirigidos a mujeres, diagnósticos de oportunidades, flexibilidad de horarios para facilitar la conciliación familiar, entre otros.
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2010)</small>
 
@@ -387,21 +479,21 @@ Lo anterior, con sujeción a las demás leyes y ordenamientos que resulten aplic
 
 ### CAPÍTULO CUARTO. DEL PROGRAMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2023)</small>
 
 ###### Artículo 28.
 
-El Programa Estatal será propuesto por la Secretaría de las Mujeres y tomará en cuenta las necesidades del Estado y los Municipios, así como las particularidades de desigualdad generadas en ciertas regiones de la entidad; deberá ser coherente con el Plan Estatal de Desarrollo, así como con los programas sectoriales, institucionales y especiales a que se refiere la Ley de Planeación del Estado.
+El Programa Estatal será propuesto por la Secretaría de las Mujeres y tomará en cuenta las necesidades del Estado y los Municipios, así como las particularidades de desigualdad en cada región de la entidad; deberá ser coherente con el Plan Estatal de Desarrollo, así como con los programas sectoriales, institucionales y especiales a que se refiere la Ley de Planeación para el Estado.
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2010)</small>
 
 El programa que se elabore deberá ser con visión de mediano y largo alcance, indicará los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta los criterios e instrumentos de la Política Estatal de Igualdad en congruencia con los programas nacionales.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
 
 ###### Artículo 29.
 
-La Secretaría de las Mujeres deberá revisar el Programa Estatal cada año, a fin de que se incluya en el informe anual que el Ejecutivo Estatal rinde al Congreso del Estado y la sociedad en general, sobre la situación que guarda la administración pública.
+La Secretaría de las Mujeres deberá revisar el Programa Estatal cada año, e informar el estado que guarda la ejecución del Programa, así como las demás acciones relativas al cumplimiento de lo establecido en la presente Ley, a fin de que se incluya en el informe anual que el Ejecutivo Estatal rinde al Congreso del Estado y la sociedad en general, sobre la situación que guarda la administración pública.
 
 ## TÍTULO IV. DE LOS OBJETIVOS Y ACCIONES DE LA POLÍTICA ESTATAL DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -417,21 +509,35 @@ La Política Estatal a que se refiere el Título III de la presente Ley, definid
 
 Los objetivos y acciones de esta ley estarán orientados a garantizar el derecho de participar a las mujeres y hombres en el desarrollo económico del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2023)</small>
+
 ###### Artículo 32.
 
-Son objetivos de la Política Estatal en materia de Igualdad:
+Será objetivo de la Política Estatal el fortalecimiento de la igualdad en materia de:
 
 I. Establecimiento y empleo de fondos para la promoción de la igualdad en el trabajo y los procesos productivos;
 
-II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-III. Impulsar liderazgos igualitarios.
+II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+III. Impulsar liderazgos igualitarios;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+IV. Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+V. Promover la igualdad de oportunidades entre mujeres y hombres en el uso y aprovechamiento de los derechos reales de propiedad, así como el uso, goce y disfrute de la tierra, su participación en el desarrollo rural y en sus beneficios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2023)</small>
 
 ###### Artículo 33.
 
-Para los efectos de lo previsto en el artículo anterior, las instancias de gobierno, incluyendo a los organismos descentralizados, desarrollaran las siguientes acciones:
+Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes garantizarán el principio de igualdad sustantiva entre mujeres y hombres en el ámbito del empleo, así como el derecho fundamental a la no discriminación de aquellas en las ofertas laborales, en la formación y promoción profesional, en las condiciones de trabajo, incluidas las retributivas, y en la afiliación y participación en las organizaciones sindicales, empresariales o en cualquier organización cuyos miembros ejerzan una profesión concreta, para lo cual desarrollarán las siguientes acciones:
 
 I. Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo;
 
@@ -453,15 +559,39 @@ VIII. Evitar la segregación de las personas por razón de su sexo, del mercado 
 
 IX. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación del personal en la administración pública;
 
-X. Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia.
+X. Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
 
-### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA EQUILIBRADA DE LAS MUJERES Y LOS HOMBRES
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia. Para la expedición del certificado a empresas se observará lo siguiente:
+
+a. La existencia y aplicación de un código de ética que prohíba la discriminación de género y establezca sanciones internas por su incumplimiento.
+
+b. La integración de la plantilla laboral cuando ésta se componga de al menos el cuarenta por ciento de un mismo género, y el diez por ciento del total corresponda a mujeres que ocupen puestos directivos.
+
+c. La aplicación de procesos igualitarios en la selección del personal, contemplando desde la publicación de sus vacantes hasta el ingreso del personal.
+
+d. Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+XII. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+XIII. Promover la participación de mujeres rurales en programas sectoriales en materia agraria.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ENERO DE 2023)</small>
+
+### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA PARITARIA DE LAS MUJERES Y LOS HOMBRES
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
 
 ###### Artículo 34.
 
-La Política Estatal propondrá los mecanismos de operación adecuados para la participación equitativa entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas.
+La Política Estatal propondrá los mecanismos de operación adecuados para la participación paritaria entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas.
 
 ###### Artículo 35.
 
@@ -471,11 +601,25 @@ I. Favorecer el trabajo parlamentario con la perspectiva de género;
 
 II. Garantizar que la educación en todos sus niveles se realice en el marco de la igualdad entre mujeres y hombres y se cree conciencia de la necesidad de eliminar toda forma de discriminación;
 
-III. Fomentar la participación equitativa de mujeres y hombres en altos cargos públicos;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-IV. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil; y
+III. Fomentar la participación paritaria de mujeres y hombres en altos cargos públicos;
 
-V. Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes Ejecutivo, Legislativo y Judicial.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+IV. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+V. Fomentar la participación paritaria y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes Ejecutivo, Legislativo y Judicial;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+VI. Evaluar por medio del área competente de la Comisión Estatal de los Derechos Humanos, la participación paritaria entre mujeres y hombres en los cargos de elección popular; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+VII. Promover la participación y representación paritaria entre mujeres y hombres dentro de las estructuras de los partidos políticos.
 
 ### CAPÍTULO CUARTO. DE LA IGUALDAD DE ACCESO Y EL PLENO DISFRUTE DE LOS DERECHOS SOCIALES PARA LAS MUJERES Y LOS HOMBRES
 
@@ -485,15 +629,25 @@ Con el fin de promover la igualdad en el acceso a los derechos sociales y el ple
 
 I. Mejorar el conocimiento y la aplicación de la legislación existente en el ámbito del desarrollo social;
 
-II. Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-III. Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género.
+II. Supervisar la integración de la perspectiva de género al concebir, aplicar y evaluar las políticas y actividades públicas, privadas y sociales que impactan la cotidianeidad;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+III. Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+IV. Modificar los patrones socioculturales de conducta de hombres y mujeres con miras a alcanzar la eliminación de los prejuicios y las prácticas consuetudinarias y de cualquier otra índole que estén basados en la idea de la inferioridad o superioridad de cualquiera de los sexos o en funciones estereotipadas de hombres y mujeres.
 
 ###### Artículo 37.
 
 Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
 
-I. Garantizar el seguimiento y la evaluación de la aplicación de la legislación existente;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+I. Garantizar el seguimiento y la evaluación de la aplicación de la legislación existente, en armonización con instrumentos internacionales;
 
 II. Promover el conocimiento de la legislación y la jurisprudencia sobre la materia en la sociedad;
 
@@ -503,7 +657,13 @@ IV. Integrar el principio de igualdad en el ámbito de la protección social;
 
 V. Impulsar acciones que aseguren la igualdad de acceso de mujeres y de hombres a la alimentación, la educación y la salud; y
 
-VI. Promover campañas de concientización para mujeres y hombres sobre su participación equitativa en la atención de las personas dependientes de ellos.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+VI. Promover campañas estatales permanentes de concientización para mujeres y hombres sobre su participación equitativa en la atención de las personas dependientes de ellos.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VI, P.O. 20 DE ENERO DE 2023]</small>
+
+El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas.
 
 ### CAPÍTULO QUINTO. DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN LA VIDA CIVIL
 
@@ -533,9 +693,17 @@ IV. Reforzar la cooperación y los intercambios de información sobre los derech
 
 V. Impulsar reformas legislativas y políticas públicas para prevenir, atender, sancionar y erradicar cualquier manifestación de discriminación, en los ámbitos público y privado;
 
-VI. Establecer los mecanismos para la atención de las víctimas en todos los tipos de violencia contra las mujeres; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-VII. Fomentar las investigaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+VI. Establecer los mecanismos para la atención de las víctimas en todos los tipos de violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+VII. Fomentar las investigaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+VIII. Impulsar la capacitación a las autoridades encargadas de la procuración y administración de justicia en materia de igualdad entre mujeres y hombres.
 
 ### CAPÍTULO SEXTO. DE LA ELIMINACIÓN DE ESTEREOTIPOS ESTABLECIDOS EN FUNCIÓN DEL SEXO
 
@@ -549,9 +717,25 @@ Para los efectos de lo previsto en el artículo anterior, las autoridades corres
 
 I. Promover acciones que contribuyan a erradicar toda discriminación basada en estereotipos de género;
 
-II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-III. Vigilar la integración de una perspectiva de género en todas las políticas públicas.
+II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+III. Vigilar la integración de una perspectiva de género en todas las políticas públicas;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+V. Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+VI. Vigilar que el contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta Ley esté desprovisto de estereotipos establecidos en función del sexo de las personas.
 
 ### CAPÍTULO SÉPTIMO. DEL DERECHO A LA INFORMACIÓN Y LA PARTICIPACIÓN SOCIAL EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -583,7 +767,9 @@ El seguimiento y evaluación de la Política Estatal en Materia de Fomento a la 
 
 La Observancia en materia de igualdad entre Mujeres y Hombres consistirá en:
 
-I. Formular y promover medidas y actividades que ponga en marcha la administración pública en materia de igualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+I. Recibir información sobre medidas y actividades que ponga en marcha la administración pública en materia de igualdad entre mujeres y hombres;
 
 II. Evaluar el impacto en la sociedad de las políticas y medidas que afecten a las mujeres y hombres en materia de igualdad;
 
@@ -680,3 +866,9 @@ SÉPTIMO. Los recursos humanos y materiales asignados al Centro de Justicia para
 OCTAVO. Quedarán a salvo los derechos de las y los trabajadores de las instituciones que absorbe la Secretaría de las Mujeres, para efectos de su Seguridad y Previsión Social.
 
 NOVENO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 377 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
