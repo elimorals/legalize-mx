@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1000
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-01"
-last_updated: "2022-10-27"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE ENERO DE 2023.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de abril de 2014.
 
@@ -401,6 +401,10 @@ j) La Comisión Ejecutiva Estatal de Atención a Víctimas.
 
 k) La Consejería Jurídica.
 
+> <small>(ADICIONADO, D.O. 20 DE ENERO DE 2023)</small>
+
+l) Secretaría de Investigación, Innovación y Educación Superior.
+
 II. El Poder Judicial del Estado de Yucatán.
 
 III. Los ayuntamientos a través de los organismos o dependencias municipales encargados de la protección de los derechos humanos de las mujeres.
@@ -559,11 +563,33 @@ III. Elaborar y difundir materiales educativos para la prevención y atención d
 
 IV. Promover cursos y talleres de prevención y atención de la violencia contra las mujeres para los docentes y padres de familia.
 
-> <small>(ADICIONADA, D.O. 23 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, D.O. 20 DE ENERO DE 2023)</small>
 
-V. Formular y aplicar programas y protocolos que permitan la prevención, detección, atención y erradicación temprana de los problemas de violencia contra las mujeres en los centros educativos públicos y privados, haciendo énfasis en la violencia digital.
+V. Promover la elaboración e implementación de los lineamientos a que se refiere el artículo 10 de la Ley de Educación de Yucatán.
 
-VI. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 20 DE ENERO DE 2023)</small>
+
+VI. Promover que las autoridades escolares de educación básica, a través de directivas, personal administrativo, técnico y docente, vigilen que en los centros escolares se apliquen los protocolos vigentes, colaborar en los procesos de investigación, resguardar la información de manera confidencial y promover la denuncia ante un acto delictivo, para lo cual, podrán asesorarse de las autoridades competentes.
+
+VII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 20 DE ENERO DE 2023)</small>
+
+###### Artículo 16 Bis.
+
+Secretaria de Investigación, Innovación y Educación Superior.
+
+La Secretaria de Investigación, Innovación y Educación Superior, en el ámbito de su competencia, tendrá las atribuciones siguientes:
+
+I. Procurar la difusión de contenidos informativos en materia de violencia contra las mujeres, igualdad y no discriminación, estereotipos de género, educación sexual y pleno respeto a los derechos humanos.
+
+II. Impulsar grupos de apoyo para víctimas de violencia contra las mujeres en las instituciones educativas, mismas que podrán brindar orientación legal y atención psicológica y emocional, y que deberán estar integradas, cuando menos, por una persona representante de la comunidad estudiantil, una persona representante del personal docente, la rectora, rector, director o directora de la Institución y una persona especialista en el área de psicología, con el fin de contar con información sobre sus derechos y las vías para acceder a la atención oportuna e informada.
+
+III. Promover la elaboración e implementación de los lineamientos con enfoque de género, que permitan la prevención, atención, y erradicación de cualquier tipo de violencia contra las mujeres, incluyendo las conductas que atenten contra la imagen personal, los cuales contendrán las acciones para la difusión de una cultura de paz, y respeto de los derechos humanos, así como los mecanismos para el acompañamiento de la víctima, frente a los casos de violencia contra las mujeres.
+
+IV. Promover que las instituciones de educación superior, a través de directores, personal administrativo técnico y docente, vigilen que en los centros escolares se apliquen los protocolos vigentes en materia de violencia contra las mujeres, para lo cual, podrán asesorarse de las autoridades competentes.
+
+V. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 17.
 
@@ -882,6 +908,10 @@ X. El Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado de
 XI. El Instituto Electoral y de Participación Ciudadana de Yucatán.
 
 XII. Tres organizaciones de la sociedad civil, debidamente constituidas conforme a la legislación aplicable y con actividad acreditada en temas de violencia contra las mujeres, que serán designados por medio de convocatoria, y durarán cuatro años en el cargo.
+
+> <small>(ADICIONADA, D.O. 20 DE ENERO DE 2023)</small>
+
+XIII. Secretaría de Investigación, Innovación y Educación Superior.
 
 > <small>(REFORMADO, D.O. 4 DE MARZO DE 2016)</small>
 
@@ -1824,3 +1854,13 @@ Artículo primero. Este decreto entrará en vigor el día siguiente al de su pub
 Cláusula derogatoria
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este decreto.
+
+D.O. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 601/2023 POR EL QUE SE MODIFICA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, EN MATERIA DE PROTOCOLOS DE ACTUACIÓN POR VIOLENCIA CONTRA LAS MUJERES EN EL ÁMBITO EDUCATIVO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La Secretaría de Educación del Gobierno del Estado y la Secretaría de Investigación, Innovación y Educación Superior de Yucatán contarán con un plazo de 180 días hábiles a partir de la publicación del presente Decreto, para la elaboración e implementación del protocolo y de los grupos de Apoyo para Víctimas de Violencia contra las mujeres.
+
+Artículo Tercero.- La Secretaría de Educación del Gobierno del Estado y la Secretaría de Investigación, Innovación y Educación Superior de Yucatán, se ajustarán al presupuesto aprobado por esta Soberanía para el cumplimiento de los fines establecidos en este Decreto.
