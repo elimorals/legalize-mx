@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5686
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-30"
-last_updated: "2022-09-23"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
 
 Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
 
@@ -173,7 +173,9 @@ Los tipos de violencia contra las mujeres son:
 
 I. Violencia psicológica.- Es cualquier tipo acto u omisión que dañe la estabilidad psicológica, que puede consistir en; negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso el suicidio;
 
-II. Violencia física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que puede provocar o no lesiones ya sean internas, externas o ambas;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+II. Violencia física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma, objeto, ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra sustancia que, en determinadas condiciones, pueda provocar o no lesiones ya sean internas, externas, o ambas;
 
 III. Violencia patrimonial.- Es cualquier acto u omisión que afecte la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y pueda abarcar los daños a los bienes comunes o propios de la víctima;
 
@@ -329,9 +331,11 @@ El Estado y los Ayuntamientos, promoverán las acciones conducentes para preveni
 
 ### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2023)</small>
+
 ###### Artículo 22.
 
-La violencia feminicida es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en el ámbito público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad y culminar en homicidio y otras formas de muerte violenta de mujeres, con perturbación social en un territorio determinado o la existencia de un agravio que impida el ejercicio pleno de los derechos humanos de las mujeres.
+La violencia feminicida es la forma extrema de violencia de género contra las mujeres, las adolescentes y las niñas, producto de la violación de sus derechos humanos y del ejercicio abusivo del poder, tanto en los ámbitos público y privado, que puede conllevar impunidad social y del Estado. Se manifiesta a través de conductas de odio y discriminación que ponen en riesgo sus vidas o culminan en muertes violentas como el feminicidio, el suicidio y el homicidio, u otras formas de muertes evitables y en conductas que afectan gravemente la integridad, la seguridad, la libertad personal y el libre desarrollo de las mujeres, las adolescentes y las niñas.
 
 Este tipo de violencia, será prevenida por el Gobierno del Estado y los Ayuntamientos mediante un programa permanente de promoción al respeto de todos los derechos de la (sic) mujeres.
 
@@ -1384,5 +1388,13 @@ P.O. 23 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 259 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, CÓDIGO FAMILIAR Y CÓDIGO PENAL, TODAS DEL ESTADO DE SINALOA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 382 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, AMBOS ORDENAMIENTOS PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
