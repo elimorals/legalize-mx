@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-instituciones-y-procedimientos-electorales-del-109151"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-15"
-last_updated: "2022-09-23"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 15 de julio de 2015.
 
@@ -219,13 +219,21 @@ VII. No ser Secretario o Secretaria Ejecutiva del Instituto, salvo que se separe
 
 VIII. No ser Consejera o Consejero Presidente o Consejera o Consejero Electoral en el Consejo General del Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-IX. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y
+IX. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-X. No estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género.
+X. No estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género, por delitos contra la familia o por delitos contra la libertad sexual y su normal desarrollo, ni tener acreditada la comisión de violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+XI. No aparecer inscrito en el Registro de Deudores Alimentarios Morosos del Estado de Sinaloa durante el tiempo en que una persona aparezca en el registro para acceder a una precandidatura o candidatura para ocupar un cargo de elección popular, salvo que exhiba la documentación con la que haya acreditado judicialmente el cumplimiento de las obligaciones en mora. En caso de reincidencia en el incumplimiento de las obligaciones alimentarias, se estará a lo que estipula el artículo 1202 fracción IV del Código Familiar del Estado de Sinaloa.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XI]</small>
+
+No podrán ser electas para estos cargos de elección popular, como propietarias o suplentes, las personas que habiendo obtenido su registro como precandidatas o candidatas tengan acreditada la comisión de violencia política contra las mujeres en razón de género ante las autoridades competentes, ni aquellas personas que habiendo ejercido algún cargo de elección popular o dentro del servicio público tengan acreditada la comisión de violencia política contra las mujeres en razón de género.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
@@ -279,9 +287,25 @@ VIII. No ser Magistrado Electoral o Secretario del Tribunal Electoral, salvo que
 
 IX. No ser Secretario Ejecutivo del Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
-X. No ser Consejero Presidente o Consejero Electoral en el Consejo General del Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y,
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-XI. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate.
+X. No ser Consejero o Consejera Presidente o Consejero o Consejera Electoral del Consejo General del Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+XI. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+XII. No estar condenada o condenado, por delitos contra la familia o por delitos contra la libertad sexual y su normal desarrollo, ni tener acreditada la comisión de violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+XIII. No aparecer inscrito en el Registro de Deudores Alimentarios Morosos del Estado de Sinaloa al momento en que se solicite el registro de su candidatura, salvo que exhiba a la autoridad electoral competente, la documentación con la que hayan acreditado judicialmente el cumplimiento de las obligaciones en mora. En caso de reincidencia en el incumplimiento de las obligaciones alimentarias, se estará a lo que estipula el artículo 1202 fracción IV del Código Familiar del Estado de Sinaloa.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XIII]</small>
+
+No podrán ser electas para este cargo las personas quienes habiendo obtenido su registro como candidatas a algún cargo de elección popular hayan tenido acreditada la comisión de violencia política contra las mujeres en razón de género ante las autoridades competentes, o que habiendo ejercido algún cargo de elección popular o dentro del servicio público se acredite que hayan cometido violencia política contra las mujeres en razón de género.
 
 ###### Artículo 14.
 
@@ -339,9 +363,25 @@ VI. No ser Magistrado Electoral o Secretario del Tribunal Electoral, salvo que s
 
 VII. No ser Secretario Ejecutivo del Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
-VIII. No ser Consejero Presidente o Consejero Electoral en el Consejo General del Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y,
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-IX. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate.
+VIII. No ser Consejero o Consejera Presidente o Consejero o Consejera Electoral del Consejo General del Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
+
+IX. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+X. No estar condenada o condenado por delitos contra la familia o por delitos contra la libertad sexual y su normal desarrollo, ni tener acreditada la comisión de violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2023)</small>
+
+XI. No aparecer en el Registro de Deudores Alimentarios Morosos del Estado de Sinaloa al tiempo en que se solicite el registro de su candidatura, salvo que exhiba la documentación con la que haya acreditado judicialmente el cumplimiento de las obligaciones en mora. En caso de reincidencia en el incumplimiento de las obligaciones alimentarias, se estará a lo que estipula el artículo 1202 fracción IV del Código Familiar del Estado de Sinaloa.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XI]</small>
+
+No podrán ser electas para este cargo las personas quienes habiendo obtenido su registro como candidatas a algún cargo de elección popular hayan tenido acreditada la comisión de violencia política contra las mujeres en razón de género ante las autoridades competentes, o que habiendo ejercido algún cargo de elección popular o dentro del servicio público se acredite que hayan cometido violencia política contra las mujeres en razón de género.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2017)</small>
 
@@ -2849,7 +2889,9 @@ Los Consejos Distritales y Municipales, comunicarán de inmediato al Consejo Gen
 
 Al concluir el plazo para el registro de las candidaturas a la Gubernatura, Diputaciones y Presidencia Municipal, Síndico Procurador y Regidurías por el sistema de mayoría relativa, así como el de las listas municipales de Regidurías por el principio de representación proporcional, los Consejos Distritales y Municipales remitirán de inmediato al Consejo General los expedientes de las solicitudes de registro que hubieren recibido, conservando copia certificada en sus archivos.
 
-Una vez que se encuentren los expedientes en su poder, el Consejo General, por conducto de la Comisión de Organización y Vigilancia Electoral, revisará las solicitudes de registro para verificar que cumplen los requisitos de elegibilidad para los cargos que se traten. Si de la revisión resulta el incumplimiento de tales requisitos, el Consejo General lo notificará de inmediato a los partidos políticos o coaliciones que corresponda, para que en un plazo de setenta y dos horas realicen la sustitución de candidatos que se requiera para ajustarse a lo dispuesto en esta ley, apercibiéndoles de que en caso de incumplimiento se harán acreedores a una amonestación pública.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
+
+Una vez que se encuentren los expedientes en su poder, el Consejo General, por conducto de la Comisión de Organización y Vigilancia Electoral, revisará las solicitudes de registro para verificar que cumplen los requisitos de elegibilidad para los cargos que se traten, corroborando que la persona o personas que solicitan la candidatura no tengan sanción impuesta por las autoridades competentes por cometer violencia política contra las mujeres en razón de género, ser agresor sexual o deudor alimentario moroso, debiendo las autoridades estatales facilitar la información para tales efectos. Si de la revisión resulta el incumplimiento de tales requisitos, el Consejo General lo notificará de inmediato a los partidos políticos o coaliciones que corresponda, para que en un plazo de setenta y dos horas realicen la sustitución de candidatos que se requiera para ajustarse a lo dispuesto en esta ley, apercibiéndoles de que en caso de incumplimiento se harán acreedores a una amonestación pública.
 
 A más tardar tres días antes al del inicio de las campañas, el Consejo General sesionará para aprobar el registro de candidaturas a Diputaciones y Presidente Municipal, Síndico Procurador y Regidurías por el sistema de mayoría relativa correspondientes a los partidos políticos y coaliciones cuyas solicitudes se encuentren ajustadas a la ley, así como a aquellos que habiendo sido requeridos atendieron adecuadamente el requerimiento. Si resultara que uno o más partidos políticos o coaliciones no dieron cumplimiento a lo requerido conforme a este artículo, en la misma sesión se aplicará la amonestación pública y se les requerirá nuevamente para que en un plazo improrrogable de veinticuatro horas realicen las sustituciones que se requieran.
 
@@ -4874,3 +4916,9 @@ A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los M
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 379 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA Y DE LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
