@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2022-12-30"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE ENERO DE 2023.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -1660,6 +1660,14 @@ Para los efectos del párrafo anterior, deberá de existir la disponibilidad y l
 > <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2019)</small>
 
 Para los efectos del primer párrafo, se entenderá por discapacidad lo dispuesto por el artículo 2, fracciones IX, X, XI, XII, XIII, de (sic) Ley General para la Inclusión de las Personas con Discapacidad.
+
+> <small>(ADICIONADO, D.O. 20 DE ENERO DE 2023)</small>
+
+En la conformación de la administración pública centralizada y paramunicipal, se atenderá el principio de paridad de género horizontal, a fin de que se integren igual número de mujeres y de hombres como titulares de las dependencias y entidades paramunicipales.
+
+> <small>(ADICIONADO, D.O. 20 DE ENERO DE 2023)</small>
+
+Si el número de dependencias y entidades paramunicipales fuere impar, se preferirá que la titularidad de la mayoría recaiga sobre mujeres.
 
 ###### Artículo 81.
 
@@ -3788,3 +3796,15 @@ Artículo Primero. El presente decreto entrará en vigor el día de su publicaci
 Cláusula derogatoria.
 
 Artículo Segundo.- Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 602/2023 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE PARIDAD HORIZONTAL”.]
+
+Entrada en vigor
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación Tácita
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
