@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2022-09-23"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -156,6 +156,10 @@ El Presidente Municipal, en su calidad de alcalde de la comuna, será el órgano
 ###### Artículo 17.
 
 El Presidente Municipal, Síndico Procurador y Regidores de los Ayuntamientos, de elección popular directa, durarán en su cargo tres años y podrán ser electos consecutivamente para los mismos cargos para un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Quienes por elección indirecta, por nombramiento o designación de parte de alguna autoridad, desempeñen las funciones propias de dichos cargos, independientemente de la denominación que se les dé, podrán ser electos para el período inmediato.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2023)</small>
+
+No podrán postularse para los cargos de presidente municipal, sindicaturas de procuración y regidurías de los Ayuntamientos, quienes aparezcan inscritos en el Registro de Deudores Morosos Alimentarios en los términos señalados en el Código Familiar del Estado de Sinaloa, y quienes tengan acreditada la comisión de violencia política contra las mujeres en razón de género ante las autoridades competentes o hayan sido condenados o condenadas mediante resolución firme por delitos contra la familia o por delitos contra la libertad sexual y su normal desarrollo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
 
@@ -2084,3 +2088,9 @@ A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los M
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 379 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA Y DE LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
