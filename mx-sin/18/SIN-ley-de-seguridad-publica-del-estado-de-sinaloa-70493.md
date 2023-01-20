@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2022-09-23"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -1337,11 +1337,11 @@ IX. Las demás que le confieran la presente Ley, el reglamento respectivo y aque
 
 ### Capítulo IV. Del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
 
 ###### Artículo 68.
 
-El Secretariado Ejecutivo es el órgano operativo del Sistema Estatal y gozará de autonomía técnica y de gestión, cuyo titular se denominará Secretario Ejecutivo, quien para el cumplimiento de sus atribuciones contará con los Centros Estatales de Información; de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana; de Evaluación y Control de Confianza y de Comando, Control, Comunicaciones, Cómputo e Inteligencia. El Titular del Ejecutivo Estatal expedirá el Reglamento del Secretariado, que establecerá sus atribuciones, así como la articulación del Secretariado y de los Centros.
+El Secretariado Ejecutivo es el órgano operativo del Sistema Estatal y gozará de autonomía técnica y de gestión, cuyo titular se denominará Secretario Ejecutivo, quien para el cumplimiento de sus atribuciones contará con los Centros Estatales de Información; de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana y de Evaluación y Control de Confianza. El Titular del Ejecutivo Estatal expedirá el Reglamento del Secretariado, que establecerá sus atribuciones, así como la articulación del Secretariado y de los Centros.
 
 ###### Artículo 69.
 
@@ -2117,17 +2117,17 @@ La base estatal de datos se actualizará permanentemente, en los plazos y con la
 
 ### Capítulo X. De la Coordinación Operativa de la Información para la Seguridad Pública
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
 
 ###### Artículo 126.
 
-Le corresponde al Secretariado Ejecutivo a través del Centro de Comando, Control, Comunicaciones, Cómputo e Inteligencia, coordinar la operación de la información de seguridad pública con el objeto de facilitar el despliegue y la atención oportuna de acciones que en el ámbito de sus atribuciones y competencias realizan las instituciones policiales del Estado y de los Municipios, en los términos que establece este ordenamiento.
+El Centro de Comando, Control, Comunicaciones, Cómputo e Inteligencia, con dependencia técnica y administrativa de la Secretaría de Seguridad Pública, coordinará la operación de la información de seguridad pública con el objeto de facilitar el despliegue y la atención oportuna de acciones que en el ámbito de sus atribuciones y competencias, realizan las instituciones policiales del Estado y de los Municipios, en los términos que establece este ordenamiento.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2023)</small>
 
 ###### Artículo 127.
 
-El Secretariado Ejecutivo por conducto del Centro de Comando, Control, Comunicaciones, Cómputo e Inteligencia, adoptará las medidas pertinentes para efecto de instalar, actualizar y mantener una infraestructura tecnológica moderna y sofisticada que permita el procesamiento útil y ágil del suministro, intercambio y sistematización de la información de seguridad pública referida en la presente Ley.
+La Secretaría por conducto del Centro de Comando, Control, Comunicaciones, Cómputo e Inteligencia, adoptará las medidas pertinentes para efecto de instalar, actualizar y mantener una infraestructura tecnológica moderna y sofisticada que permita el procesamiento útil y ágil del suministro, intercambio y sistematización de la información de seguridad pública referida en la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -2157,9 +2157,9 @@ IV. Los mecanismos de video-vigilancia por circuito cerrado de televisión y de 
 
 V. El desarrollo e implementación de herramientas tecnológicas aplicadas a la seguridad pública; y,
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2023)</small>
 
-VI. Los registros que en los términos de ésta y otras leyes resguarda el Secretariado Ejecutivo.
+VI. Los registros que en los términos de ésta y otras leyes resguarda la Secretaría.
 
 ## TÍTULO QUINTO. DE LA PREVENCIÓN DEL DELITO Y LA PARTICIPACIÓN DE LA COMUNIDAD
 
@@ -4188,3 +4188,23 @@ A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los M
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 381 QUE REFORMA LOS ARTÍCULOS 68, 126, 127 Y 129, FRACCIÓN VI, DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, el Ejecutivo Estatal, deberá emitir las disposiciones reglamentarias correspondientes y realizar las acciones necesarias para su debida observancia.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos humanos y materiales asignados al Centro de Comando, Control, Comunicaciones, Cómputo e Inteligencia serán integrados a la Secretaría de Seguridad Pública en términos de las disposiciones aplicables.
