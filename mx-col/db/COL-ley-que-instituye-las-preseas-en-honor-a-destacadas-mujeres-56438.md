@@ -4,7 +4,7 @@ identifier: "COL-ley-que-instituye-las-preseas-en-honor-a-destacadas-mujeres-564
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-21"
-last_updated: "2017-11-25"
+last_updated: "2023-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE INSTITUYE LAS PRESEAS EN HONOR A DESTACADAS MUJERES EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 21 de julio de 2007.
 
@@ -53,11 +53,11 @@ Es de aprobarse y se aprueba la Ley que Instituye las Preseas en Honor a Destaca
 
 LEY QUE INSTITUYE LAS PRESEAS EN HONOR A DESTACADAS MUJERES EN EL ESTADO DE COLIMA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2023)</small>
 
-###### ARTÍCULO 1°.
+###### ARTÍCULO 1º.
 
-El Congreso del Estado, en reconocimiento a su trayectoria y merito ejemplar como mujeres destacadas en el ámbito político, social y cultural colimense, instituye las Preseas:
+El Congreso del Estado, en reconocimiento a su trayectoria y mérito ejemplar como mujeres destacadas en el ámbito político, social, cultural y deportivo colimense, instituye las Preseas:
 
 I. La Presea "Rafaela Suárez", será otorgada (sic) aquellas mujeres colimenses, que tengan una trayectoria destacada en la investigación histórica o en cualquiera de las Disciplinas Artísticas como pintura, teatro, danza, etc.;
 
@@ -77,13 +77,17 @@ VI. La Presea "Concepción Barbosa de Anguiano", se otorgará a aquellas mujeres
 
 VII. La presea "Griselda Álvarez Ponce de León", se otorgará a mujeres colimenses que se hayan distinguido en las Letras y la Literatura;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2023)</small>
 
-VIII. La Presea "Amalia Gaytán de Aguilar", se otorgará a aquellas mujeres destacadas por su iniciativa y logro empresarial en el Estado; y
+VIII. La Presea "Amalia Gaytán de Aguilar", se otorgará a aquellas mujeres destacadas por su iniciativa y logro empresarial en el Estado;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2023)</small>
 
-IX. La Presea "Sara Martínez Pizano" se otorgará a aquellas mujeres que viven en zonas rurales, y que destacan por impulsar el desarrollo rural, fomentando el crecimiento e inclusión social, y que promueven la participación democrática en la vida política, social y cultural, de mujeres que habiten en zonas rurales.
+IX. La Presea "Sara Martínez Pizano" se otorgará a aquellas mujeres que viven en zonas rurales, y que destacan por impulsar el desarrollo rural, fomentando el crecimiento e inclusión social, y que promueven la participación democrática en la vida política, social y cultural, de mujeres que habiten en zonas rurales; y
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2023)</small>
+
+X. La Presea “Rosa Elena Gudiño Gaytán” se otorgará a aquellas mujeres destacadas en el ámbito deportivo.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
@@ -192,3 +196,9 @@ P.O. 25 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 369 POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 1°; EL ARTÍCULO 2°; EL ARTÍCULO 3°; LAS FRACCIONES I, III Y IV DEL ARTÍCULO 4°; EL ARTÍCULO 5°; EL ARTÍCULO 7°; Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 4°; TODOS DE LA LEY QUE INSTITUYE LAS PRESEAS EN HONOR A DESTACADAS MUJERES EN EL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 240.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 1°, SUS FRACCIONES VIII Y IX, ASÍ COMO SE ADICIONA UNA FRACCIÓN, PASANDO A SER ESTA LA X, A LA LEY QUE INSTITUYE LAS PRESEAS EN HONOR A DESTACADAS MUJERES EN EL ESTADO DE COLIMA.”]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
