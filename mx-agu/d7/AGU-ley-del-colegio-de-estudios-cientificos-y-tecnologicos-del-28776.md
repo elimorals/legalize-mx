@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-colegio-de-estudios-cientificos-y-tecnologicos-del-2877
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-03"
-last_updated: "2007-07-09"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 3 de julio de 1994.
 
@@ -139,7 +139,9 @@ III.- Estudiar y, en su caso, aprobar o modificar los proyectos de planes y prog
 
 IV.- Expedir los Reglamentos, Estatutos, Acuerdos y demás disposiciones de su competencia;
 
-V.- Aprobar los programas y los presupuestos del Colegio, y sus respectivas modificaciones, que presente el Director General, sujetándose a lo dispuesto en la Ley de Planeación del Estado, al Presupuesto de Egresos del Estado, Ley de Adquisiciones, Ley de Obras Públicas, Ley para el Control de las Entidades Paraestatales, Ley de Responsabilidades de los Servidores Públicos del Estado, así como en la contabilidad gubernamental y gasto público estatal, en el Plan Estatal de Desarrollo, en los lineamientos que fije la Contraloría General del Estado, y en su caso, en las asignaciones de gasto y financiamiento autorizadas;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
+V.- Aprobar los programas y los presupuestos del Colegio, y sus respectivas modificaciones, que presente el Director General, sujetándose a lo dispuesto en la Ley de Planeación para el Desarrollo del Estado, al Presupuesto de Egresos del Estado, la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado, la Ley de Adquisiciones, Arrendamientos y Servicios del Estado, la Ley de Obras Públicas y Servicios Relacionados para el Estado, la Ley para el Control de las Entidades Paraestatales del Estado, la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado, así como en la contabilidad gubernamental y gasto público estatal, en el Plan Estatal de Desarrollo, en los lineamientos que fije la Contraloría del Estado, y en su caso, en las asignaciones de gasto y financiamiento autorizadas;
 
 VI.- Aprobar anualmente, previo informe del Comisario Público y del dictamen del auditor externo, los estados financieros;
 
@@ -386,3 +388,11 @@ En virtud de las reformas de la presente Ley, la Junta Directiva del Organismo, 
 ###### ARTÍCULO TERCERO.
 
 Para la conformación del patronato, la junta directiva del organismo contará con un plazo de 120 días contados a partir de la entrada en vigencia del presente Decreto.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
