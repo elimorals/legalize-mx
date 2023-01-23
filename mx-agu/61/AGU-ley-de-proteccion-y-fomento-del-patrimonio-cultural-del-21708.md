@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-y-fomento-del-patrimonio-cultural-del-21708"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-02"
-last_updated: "2021-06-28"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 2 de julio de 2001.
 
@@ -989,9 +989,11 @@ En todo caso el infractor deberá reparar el daño causado a la zona, espacio o 
 
 Cuando el infractor sea un director responsable de la obra de conservación o un perito en la materia debidamente registrado podrá ser inhabilitado como tal de manera temporal o definitiva.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
 ###### ARTICULO 102.
 
-Los funcionarios públicos que valiéndose de su cargo obtengan un beneficio indebido de un bien, zona o espacio descrito como patrimonio cultural, además de las sanciones que impone el presente capítulo, quedarán sujetos a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Los funcionarios públicos que valiéndose de su cargo obtengan un beneficio indebido de un bien, zona o espacio descrito como patrimonio cultural, además de las sanciones que impone el presente capitulo, quedarán sujetos a lo dispuesto por la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 ### CAPITULO II. Del Recurso de Revisión
 
@@ -1088,3 +1090,11 @@ P.O. 28 DE JUNIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al dio siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
