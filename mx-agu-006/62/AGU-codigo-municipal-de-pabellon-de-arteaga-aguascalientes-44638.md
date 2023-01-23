@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2022-12-19"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGUASCALIENTES
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE FEBRERO DE 2023 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -3617,15 +3619,15 @@ XXXVIII.- Establecer y coordinar los sistemas y procesos informáticos que habr�
 
 XXXIX.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ENERO DE 2023)</small>
 
-#### SECCIÓN CUARTA. De la Dirección Jurídica
+#### SECCIÓN CUARTA. De la Dirección General de Asuntos Jurídicos
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 216 BIS], P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
 ###### ARTICULO 216.
 
-Corresponde a la Dirección Jurídica:
+Corresponde a la Dirección General de Asuntos Jurídicos:
 
 I.- Asesorar jurídicamente al Presidente Municipal, al Secretario del Ayuntamiento y a los demás directores y funcionarios de la Administración Pública Municipal;
 
@@ -3646,6 +3648,10 @@ VIII.- Tramitar la publicación en el Periódico Oficial del Estado de los acuer
 IX.- Participar en la elaboración y supervisar jurídicamente el contenido de los convenios, contratos y demás instrumentos jurídicos y administrativos relativos a la coordinación con la administración pública federal, el Estado, otros municipios o con los particulares; y
 
 X.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+ARTICULO 216 BIS (SIC).- Para garantizar la uniformidad y congruencia de la acción jurídica de la administración municipal y todas las áreas jurídicas que la conforman, así como la expedites en la atención de los asuntos y la economía en el uso de los recursos, todas las áreas de la administración pública municipal, centralizada o paramunicipal que dentro de su estructura cuenten con una instancia jurídica, esta se subordinarán (sic) jerárquica y administrativamente en su función técnica, operativa y administrativa directamente a los lineamientos y criterios que determine la Dirección General de Asuntos Jurídicos, a través de los mecanismos adecuados para el logro de los fines previstos en este artículo. Este mismo criterio aplicará para los servicios jurídicos especializados que llegaren a contratarse por parte de la administración municipal, los cuales serán valorados por esta Dirección, la Secretaría del Ayuntamiento y por conducto del Presidente Municipal.
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -29792,3 +29798,9 @@ P.O. 19 DE DICIEMBRE DE 2022.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Dentro del plazo de dos meses contados a partir de la entrada en vigor del presente Decreto se procederá a integrar el proceso de selección para el otorgamiento de los primeros estímulos previstos en el presente Decreto.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA AL ARTÍCULO 216 Y SE ADICIONA EL ARTÍCULO 216 BIS, DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
