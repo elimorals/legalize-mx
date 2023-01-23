@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-instituto-aguascalentense-de-las-mujeres-22736"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-19"
-last_updated: "2022-10-31"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA EL INSTITUTO AGUASCALENTENSE DE LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 19 de noviembre de 2001.
 
@@ -799,11 +799,11 @@ El personal del Instituto estará incorporado en los términos de la Ley de Segu
 
 ### CAPITULO DECIMO. De las Responsabilidades
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
 ###### ARTICULO 40.
 
-Los servidores públicos que presten sus servicios en el Instituto responderán administrativamente por el incumplimiento a las obligaciones contenidas en esta Ley, teniéndose a lo establecido por la Ley de Responsabilidades de los Servidores Públicos para el Estado de Aguascalientes.
+Los servidores públicos que presten sus servicios en el Instituto responderán administrativamente por el incumplimiento a las obligaciones contenidas en esta Ley, ateniéndose a lo establecido por la Ley General de Responsabilidades Administrativas y por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2003)</small>
 
@@ -946,3 +946,11 @@ El presente decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Se concede a partir de la entrada en vigor del presente Decreto un término de 60 días hábiles, a efecto de que el Instituto Aguascalentense de las Mujeres realice las modificaciones a su Reglamento Interior, en las cuales deberá incluir la definición de “Casa de Medio Camino”.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
