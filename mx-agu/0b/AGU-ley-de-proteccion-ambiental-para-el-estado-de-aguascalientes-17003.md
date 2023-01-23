@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2022-07-18"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -3803,11 +3803,11 @@ Igualmente la autoridad ambiental proporcionará los dictámenes técnicos o per
 
 ### CAPÍTULO VI. Responsabilidad de los Servidores Públicos
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 224.
 
-Al servidor público que incumpla con las obligaciones que le imponen ésta Ley, sus reglamentos, los programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas, las normas oficiales mexicanas y los demás ordenamientos aplicables y relacionados con la materia ambiental; así como al que contravenga, desacate o actúe fuera de los plazos y términos que los ordenamientos jurídicos y administrativos citados señalan, se les impondrá una multa de 100 a 500 veces el valor diario de la unidad de medida y actualización, cuyo monto dependerá de la gravedad de la falta y será sometido a los procedimientos y a las consecuencias jurídicas que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, sin perjuicio de las acciones y sanciones penales y civiles que pudieran derivarse de su actuar contrario a derecho.
+Al servidor público que incumpla con las obligaciones que le imponen ésta Ley, sus reglamentos, los programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas, las normas oficiales mexicanas y los demás ordenamientos aplicables y relacionados con la materia ambiental; así como al que contravenga, desacate o actúe fuera de los plazos y términos que los ordenamientos jurídicos y administrativos citados señalan, se les impondrá una multa de 100 a 500 veces el valor diario de la unidad de medida y actualización, cuyo monto dependerá de la gravedad de la falta y será sometido a los procedimientos y a las consecuencias jurídicas que establece la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, sin perjuicio de las acciones y sanciones penales y civiles que pudieran derivarse de su actuar contrario a derecho.
 
 TRANSITORIOS:
 
@@ -4078,3 +4078,11 @@ P.O. 18 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 158.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 150 Y LA FRACCIÓN II DEL ARTÍCULO 151, ASÍ MISMO SE ADICIONAN EL ARTÍCULO 149 BIS Y LA FRACCIÓN III DEL ARTÍCULO 151 A LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES".]
 
 ÚNICO. - La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
