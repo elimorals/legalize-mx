@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2022-09-30"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -1545,11 +1545,15 @@ IV.- Faltar al cumplimiento de las obligaciones que le imponga esta Ley o su Reg
 
 V.- Rendir informes que contengan hechos falsos;
 
-VI.- No cumplir, en su caso, con lo señalado por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
+VI.- No cumplir, en su caso, con lo señalado por la Ley General de Responsabilidades Administrativas y por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
 ###### ARTICULO 159.
 
-La infracción a lo establecido en esta Ley por parte de los funcionarios y empleados del Organismo, será sancionada de acuerdo a lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+La infracción a lo establecido en esta Ley por parte de los funcionarios y empleados del Organismo, será sancionada de acuerdo a lo establecido por la Ley General de Responsabilidades Administrativas y por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 ###### ARTICULO 160.
 
@@ -1567,11 +1571,11 @@ Los Notarios Públicos que autoricen escrituras en las que intervengan instituci
 
 Los Notarios Públicos que no envíen al Organismo dentro del término de treinta días naturales contados a partir de su celebración aviso de testimonio de las escrituras a que se refiere el Artículo 78 de esta Ley, podrán ser sancionados por el Gobernador del Estado a través del Secretario General de Gobierno, con una amonestación y en caso de reincidencia con una multa de hasta treinta veces el valor diario de la unidad de medida y actualización.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
 ###### ARTICULO 163.
 
-Los jueces que no rindan al Organismo o el Instituto de la Beneficencia Pública del Estado de Aguascalientes, según corresponda, los informes que establezca esta Ley, no cumplan con las disposiciones de la misma, cuando conozcan de un juicio sucesorio en el que de alguna manera intervenga la beneficencia privada o pública, serán sancionados de acuerdo con lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+Los jueces que no rindan al Organismo los informes que establezca esta Ley, no cumplan con las disposiciones de la misma, cuando conozcan de un juicio sucesorio en el que de alguna manera intervenga la beneficencia privada o pública, serán sancionados de acuerdo con lo establecido por la Ley General de Responsabilidades Administrativas y por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 ###### ARTICULO 164.
 
@@ -1832,3 +1836,11 @@ En un plazo no mayor a 120 días siguientes a la entrada en vigor del presente D
 ###### ARTÍCULO QUINTO.
 
 Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
