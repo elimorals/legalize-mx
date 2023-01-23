@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-video-vigilancia-del-estado-de-aguascalientes-68994"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-22"
-last_updated: "2022-07-04"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE VIDEO VIGILANCIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2009.
 
@@ -491,7 +491,9 @@ II. El Secretario Técnico podrá realizar las diligencias y actividades que est
 
 III. Integrado el expediente se presentará en sesión del Comité, el cual acordará remitir el mismo acompañado de la solicitud de sanción al superior jerárquico u órgano facultado para imponer sanciones al responsable.
 
-IV. La imposición de las sanciones se realizará en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
+IV. La imposición de las sanciones se realizará en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 ### CAPÍTULO XI. Medios de Defensa
 
@@ -598,6 +600,14 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 4 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 150.- SE REFORMAN LOS ARTÍCULOS 1° PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 2°, 8° FRACCIONES I, II, XI Y XII, 34 PÁRRAFO PRIMERO Y 42 PÁRRAFO SEGUNDO, Y SE ADICIONAN UN PÁRRAFO CUARTO AL ARTÍCULO 1°, UN PÁRRAFO SEGUNDO A LA FRACCIÓN I Y LAS FRACCIONES XIII, XIV Y XV AL ARTÍCULO 8° DE LA LEY DE VIDEO VIGILANCIA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS".]
 
 ###### ARTÍCULO ÚNICO.
 
