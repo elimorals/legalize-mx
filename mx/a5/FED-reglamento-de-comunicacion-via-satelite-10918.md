@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-comunicacion-via-satelite-10918"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-08-01"
-last_updated: "1997-08-01"
+last_updated: "2023-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10918&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1997-07-30"
 ---
 # REGLAMENTO DE COMUNICACION VIA SATELITE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES EMITE LAS DISPOSICIONES REGULATORIAS EN MATERIA DE COMUNICACIÓN VÍA SATÉLITE, PUBLICADO EN EL D.O.F. DE 23 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO SUSTITUIDO.]</small>
+
 REGLAMENTO DE COMUNICACION VIA SATELITE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ENERO DE 2023 (SUSTITUIDO).
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 1o. de agosto de 1997.
 
@@ -564,3 +566,31 @@ Tercero. Las concesiones, permisos y autorizaciones otorgados con anterioridad a
 Cuarto. Las solicitudes de concesión presentadas con anterioridad a la entrada en vigor del presente Reglamento, se tramitarán de conformidad con el mismo, para lo cual los solicitantes contarán con un plazo de 90 días hábiles para presentar la documentación complementaria de que se trate.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de julio de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES EMITE LAS DISPOSICIONES REGULATORIAS EN MATERIA DE COMUNICACIÓN VÍA SATÉLITE”.]
+
+Primero.- Las Disposiciones Regulatorias en materia de Comunicación Vía Satélite entrarán en vigor a los treinta días hábiles siguientes de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En términos del Artículo TERCERO Transitorio del DECRETO por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión, con la entrada en vigor de las Disposiciones Regulatorias en materia de Comunicación Vía Satélite, se sustituye el Reglamento de Comunicación Vía Satélite, el cual dejará de aplicarse.
+
+Tercero.- Los Concesionarios de Recursos Orbitales deberán presentar, en caso de no haberlo hecho, el Plan de Reemplazo conforme a lo dispuesto en el Título Tercero, Capítulo II, Sección I, de las Disposiciones Regulatorias en materia de Comunicación Vía Satélite, en el plazo de 60 días hábiles contados a partir del día siguiente a la entrada en vigor de las mismas. El incumplimiento en la presentación del Plan de Reemplazo a que se refiere el presente artículo transitorio será causal de revocación en términos de lo previsto en el artículo 303, fracción XX de la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+No obstante, si durante la sustanciación y hasta antes de emitir la Resolución del procedimiento de Revocación, el Concesionario de Recursos Orbitales acredita que le fue autorizado por el Instituto el Plan de Reemplazo, tal circunstancia podrá ser valorada al momento de emitir la resolución correspondiente.
+
+Cuarto.- Los Concesionarios de Recursos Orbitales y los Autorizados de Aterrizaje de Señales deberán presentar, en caso de no haberlo hecho, el Plan de Contingencia conforme a lo dispuesto en el Título Tercero, Capítulo I, Sección III de las Disposiciones Regulatorias en materia de Comunicación Vía Satélite, en el plazo de 60 días hábiles contados a partir del día siguiente a la entrada en vigor de las mismas. El incumplimiento a lo indicado en este transitorio será sancionable, en términos de lo previsto en el Título Decimoquinto de la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+Quinto.- Los Concesionarios de Recursos Orbitales deberán presentar, dentro de los 60 días hábiles siguientes a la entrada en vigor de las Disposiciones Regulatorias en materia de Comunicación Vía Satélite, información y documentación de la que se desprenda el estatus actual de la Vida Útil Nominal de sus Satélites y la fecha estimada del fin de la misma. El incumplimiento a lo indicado en este transitorio será sancionable, en términos de lo previsto en el Título Decimoquinto de la Ley Federal de Telecomunicaciones y Radiodifusión
+
+Sexto.- Las personas titulares de Autorizaciones de Aterrizaje de Señales otorgadas cuando el Expediente Satelital se encontraba en Coordinación contarán con un periodo de 90 días hábiles contados a partir de la entrada en vigor de las Disposiciones Regulatorias en materia de Comunicación Vía Satélite, para dar aviso al Instituto si dicho Expediente Satelital cumplió con la Notificación ante la Unión Internacional de Telecomunicaciones o el estatus que guarda el mismo.
+
+Séptimo.- El Instituto deberá realizar las modificaciones a los Lineamientos Generales para el otorgamiento de las concesiones a que se refiere el Título Cuarto de la Ley Federal de Telecomunicaciones y Radiodifusión, incluyendo la derogación de la sección relativa a la obtención de Recurso Orbital a petición de parte interesada y a las Reglas de carácter general que establecen los plazos y requisitos para el otorgamiento de las autorizaciones en materia de telecomunicaciones establecidas en la Ley Federal de Telecomunicaciones y Radiodifusión, dentro de un plazo de hasta dos años siguientes contados a partir de la fecha de publicación de las Disposiciones Regulatorias en materia de Comunicación Vía Satélite en el Diario Oficial de la Federación. Mientras no se emitan dichas modificaciones, prevalecerá lo señalado en las Disposiciones Regulatorias en materia de Comunicación Vía Satélite a partir de la entrada en vigor de éstas.
+
+Octavo.- A las asignaciones de Recursos Orbitales asociadas a Sistemas Satelitales Nacionales, otorgadas al amparo de la abrogada Ley Federal de Telecomunicaciones, le serán aplicables, a partir de su entrada en vigor, las Disposiciones Regulatorias en materia de Comunicación Vía Satélite que se emiten. Dichos títulos habilitantes se mantendrán en los mismos términos y condiciones en los que fueron otorgados, en lo que no se opongan a las disposiciones vigentes, hasta su terminación.
+
+Noveno.- A las concesiones para explotar los derechos de emisión y recepción de señales de Bandas de Frecuencias asociadas a Sistemas Satelitales Extranjeros que cubran y puedan prestar servicios en el territorio nacional, otorgados al amparo de la abrogada Ley Federal de Telecomunicaciones, le serán aplicables, a partir de su entrada en vigor, las Disposiciones Regulatorias en materia de Comunicación Vía Satélite que se emiten y, en general, las disposiciones vigentes que regulan las autorizaciones previstas en el artículo 170, fracción IV de la Ley Federal de Telecomunicaciones y Radiodifusión. Dichos títulos habilitantes se mantendrán en los mismos términos y condiciones en los que fueron otorgados, en lo que no se opongan a las disposiciones vigentes, hasta su terminación.
+
+Décimo.- A los permisos para instalar, operar o explotar Estaciones Terrenas Transmisoras, otorgados al amparo de la abrogada Ley Federal de Telecomunicaciones, le serán aplicables, a partir de su entrada en vigor, las Disposiciones Regulatorias en materia de Comunicación Vía Satélite que se emiten y, en general, las disposiciones vigentes que regulan las autorizaciones previstas en el artículo 170, fracción II de la Ley Federal de Telecomunicaciones y Radiodifusión. Dichos títulos habilitantes se mantendrán en los mismos términos y condiciones en los que fueron otorgados, en lo que no se opongan a las disposiciones vigentes, hasta su terminación.
