@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidad-patrimonial-del-estado-de-74857"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-10"
-last_updated: "2022-10-17"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 10 de mayo de 2010.
 
@@ -309,19 +309,23 @@ El plazo de prescripción previsto en este Artículo, se interrumpirá al inicia
 
 ### CAPÍTULO VIII. Del Derecho del Estado de Repetir Contra los Servidores Públicos
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
 ###### Artículo 34.
 
-Los entes públicos podrán repetir de los servidores públicos el pago de la indemnización cubierta a los particulares en los términos de la presente Ley cuando, previa substanciación de los procedimientos de responsabilidad administrativa disciplinaria o resarcitoria, previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes. El monto que se le exija al servidor público por este concepto formará parte de la sanción económica que se le aplique.
+Los entes públicos podrán repetir de los servidores públicos el pago de la indemnización cubierta a los particulares en los términos de la presente Ley cuando, previa substanciación de los procedimientos de responsabilidad administrativa disciplinaria previstas en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes. El monto que se le exija al servidor público por este concepto formará parte de la sanción económica que se le aplique.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
 ###### Artículo 35.
 
-Los servidores públicos podrán impugnar las resoluciones administrativas por las cuales se les imponga la obligación de resarcir los daños y perjuicios que hayan pagado los entes públicos estatales con motivo de las reclamaciones de indemnización respectivas, por medio del recurso previsto en la Ley de Responsabilidades de los Servidores Públicos o ante la Sala Administrativa.
+Los servidores públicos podrán impugnar las resoluciones administrativas por las cuales se les imponga la obligación de resarcir los daños y perjuicios que hayan pagado los entes públicos estatales con motivo de las reclamaciones de indemnización respectivas, conforme a lo previsto en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
 ###### Artículo 36.
 
-Las cantidades que se obtengan con motivo de las sanciones económicas que las autoridades competentes impongan a los servidores públicos, en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos, se aplicarán, según corresponda, al monto de los recursos previstos para cubrir las obligaciones indemnizatorias derivadas de la responsabilidad patrimonial del Estado.
+Las cantidades que se obtengan con motivo de las sanciones económicas que las autoridades competentes impongan a los servidores públicos, en términos de lo dispuesto por la Ley General de Responsabilidades Administrativas y por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, se aplicarán, según corresponda, al monto de los recursos previstos para cubrir las obligaciones indemnizatorias derivadas de la responsabilidad patrimonial del Estado.
 
 ...
 
@@ -457,15 +461,13 @@ P.O. 17 DE OCTUBRE DE 2022.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS SIMILARES 44/2015 Y 52/2014 QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE COAHUILA DE ZARAGOZA Y DURANGO, CON RESIDENCIA EN LAS CIUDADES DE TORREÓN Y DURANGO, RESPECTIVAMENTE; ASÍ COMO EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO; PARA HOMOLOGAR LA JURISDICCIÓN TERRITORIAL DE DICHOS CENTROS CON LOS CIRCUITOS JUDICIALES DEL PODER JUDICIAL DE LA FEDERACIÓN, QUE COMPRENDEN DICHOS ESTADOS”.]
+P.O. 23 DE ENERO DE 2023.
 
-PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS.”]
 
-SEGUNDO. Los asuntos que se encuentren ingresados en el Centro de Justicia Penal Federal en el Estado de Durango con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento de dicho Centro.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
-
-D.O.F. 30 DE MARZO DE 2016.
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 15/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO DEL CENTRO AUXILIAR DE LA CUARTA REGIÓN, CON RESIDENCIA EN XALAPA, VERACRUZ Y SU TRANSFORMACIÓN EN EL JUZGADO DÉCIMO OCTAVO DE DISTRITO EN LA REFERIDA ENTIDAD FEDERATIVA Y SEDE, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, Y FECHA DE INICIO DE FUNCIONES; Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA RESIDENCIA INDICADOS".]
 
