@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2023-01-09"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1349,59 +1349,33 @@ Presidencia del Sistema D.I.F. Municipal.
 
 Coordinación Operativa General de Voluntariado.
 
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
 VI.- DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA:
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
-
 Departamento Jurídico.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
 
 Departamento de Comunicación Social.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
-
 Departamento de Trabajo Social y Atención a personas con discapacidad.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
+Coordinación Operativa de Peritaje de Trabajo Social
 
 Dirección Administrativa.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
-
 Departamento de Recursos Materiales.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
 
 Departamento de Recursos Humanos.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
-
 Dirección de Programas Institucionales.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
 
 Departamento de Servicios Médicos.
 
-> <small>(DEROGADO, P.O. 21 DE FEBRERO DE 2022)</small>
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
-
 Dirección de Desarrollo Familiar Comunitario.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
 
 Departamento de Atención a Adultos Mayores.
 
-> <small>(DEROGADO, P.O. 17 DE JULIO DE 2017)</small>
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
-
 Departamento de Desarrollo Infantil.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2022)</small>
 
 Coordinación de CEDECOS.
 
@@ -6319,7 +6293,9 @@ Son obligaciones de la autoridad municipal en el servicio de panteones, independ
 
 I. Ordenar el traslado de restos humanos, cuando el panteón sea desafectado del servicio a que está destinado.
 
-II. Exhumar o autorizar en su caso el depósito en el osario común, o la incineración de los restos humanos que hayan cumplido cinco años en la sepultura y los deudos no hayan gestionado la renovación contractual.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
+II. Exhumar o autorizar en su caso el depósito en osario, o la incineración de los cadáveres o restos humanos, cuyos deudos lo soliciten o no hayan gestionado la renovación contractual, ajustándose a los plazos establecidos en el artículo 463 de este Código.
 
 III. Retirar o derrumbar con cargo al propietario los monumentos o cualquier otra construcción que no se encuentre dentro del alineamiento que debe tener la fosa o cripta.
 
@@ -6415,11 +6391,11 @@ Los restos humanos remitidos a los panteones de interés social para su inhumaci
 
 Los cadáveres deberán embalsamarse, inhumarse, incinerarse o cremarse dentro de las cuarenta y ocho horas posteriores al fallecimiento, salvo autorización de la autoridad sanitaria, disposición del Ministerio Público o de la autoridad judicial.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 463.
 
-Ninguna exhumación podrá verificarse antes de transcurrido seis años mínimo de haber sido inhumado para las personas mayores de quince años de edad y cinco años para las personas menores de quince años de edad al momento de su fallecimiento. salvo en los casos que señale el presente Código, o por orden de la autoridad judicial, en asuntos de su competencia.
+Ninguna exhumación podrá verificarse antes de transcurrido seis años mínimo de haber sido inhumado para las personas mayores de quince años de edad y cinco años para las personas menores de quince años de edad al momento de su fallecimiento, salvo que exista autorización de la autoridad sanitaria o por orden de autoridad judicial o del Ministerio Público.
 
 ###### ARTÍCULO 464.
 
@@ -13203,19 +13179,19 @@ Los laboratorios que manejen productos dañinos al contacto de la piel deberán 
 
 Para los efectos de este libro, se entiende por cementerio el lugar destinado a la inhumación, exhumación, reinhumación y cremación de cadáveres, restos humanos, restos humanos áridos o cremados.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 828.
 
-Clasificación.
+Los cementerios se clasifican en:
 
-I. Cementerio Horizontal: Aquél en donde los cadáveres, restos humanos y restos humanos áridos o cremados se depositan bajo la tierra;
+I. Horizontal: Aquél en donde los cadáveres, restos humanos y restos humanos áridos o cremados se depositan bajo la tierra. Éstos pueden ser:
 
-Cementerio Horizontal Tradicional:
+a) Horizontal Tradicional: Aquéllos en los que para cada lote o fosa se podrá autorizar la construcción de un monumento funerario o mausoleo de material por encima de la superficie del lote o fosa; o
 
-Aquellos en los que para cada lote o fosa se podrá autorizar la construcción de un monumento funerario o mausoleo de material por encima de la superficie del lote;
+b) Horizontal tipo Americano: Aquéllos en los que la superficie del lote o fosa está cubierta por una capa de tierra vegetal y pasto; y
 
-Cementerio Horizontal tipo Americano: Aquellos en los que la superficie del lote o fosa esta cubierta por una capa de tierra vegetal y pasto; y
-
-II.- Cementerio Vertical: Aquel constituido por uno o más edificios con gavetas superpuestas e instalaciones para el depósito de cadáveres, restos humanos y restos humanos áridos o cremados, construidos por encima de la superficie del terreno natural.
+II. Vertical: Aquél constituido por uno o más edificios con gavetas superpuestas e instalaciones para el depósito de cadáveres, restos humanos y restos humanos áridos o cremados, construidos por encima de la superficie del terreno natural.
 
 ###### ARTÍCULO 829.
 
@@ -13233,37 +13209,23 @@ En los Cementerios se podrán instalar Hornos Crematorios construidos de acuerdo
 
 En los cementerios debe aparecer la distribución de lotes o fosas para sepulturas, con nomenclatura definida, sencilla y clara de las calles y numeración de lotes.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 832.
 
-Dimensiones Mínimas de los Lotes:
+Las dimensiones mínimas de los lotes de los cementerios, son:
 
-I.- Cementerio Horizontal:
+I.- Tratándose de Horizontales:
 
-Cementerio Horizontal Tradicional.
-
-Adultos Infantes
-
-Largo = 2.50 mt. Largo = 1.50 mt.
-
-Ancho = 1.00 mt. Ancho = 1.00 mt.
+a) Horizontales tradicionales: Para adultos un largo de 2.5 metros y un ancho de 1 metro. Para infantes un largo de 1.5 metros y un ancho de 1 metro.
 
 La separación mínima entre lotes contiguos u opuestos será de treinta centímetros.
 
-Cementerio Horizontal Americano.
-
-Largo = 2.50 mt.
-
-Ancho = 1.00 mt.
+b) Horizontales Americanos: En todo caso, un largo de 2.5 metros y un ancho de 1 metro.
 
 Se aceptará la construcción de muros medianeros con elementos prefabricados de concreto armado en espesor no menor de diez centímetros en gavetas contiguas u opuestas.
 
-II. Cementerio Vertical: Dimensiones mínimas interiores:}
-
-Largo = 2.30 mt.
-
-Ancho = 0.90 mt.
-
-Alto = 0.80 mt.
+II. Tratándose de Verticales, las dimensiones mínimas interiores son de 2.3 metros de largo, 90 centímetros de ancho y 80 centímetros de alto.
 
 Las losas de las gavetas deberán estar a un mismo nivel por la cara superior interna y en la cara inferior interna tendrán un desnivel cuya pendiente no sea menor al dos por ciento hacia el fondo, con el objeto de que los líquidos que pudieran escurrir se canalicen por un drenaje que al efecto debe construirse hacia el subsuelo, en donde habrá una fosa séptica que lo reciba. Toda esta área deberá estar constructivamente sellada en forma hermética.
 
@@ -13290,6 +13252,14 @@ Para el tipo de panteón horizontal tradicional, sólo se autorizará la constru
 ###### ARTÍCULO 837.
 
 Las criptas serán de materiales impermeables y las tapas tendrán un cierre hermético. Sobre estas criptas podrán autorizarse nichos para restos, siempre que su construcción sea hermética y de materiales impermeables, quedando los nichos sobre el nivel del terreno.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+En cualquier fosa o gaveta se podrá autorizar el depósito de restos humanos cremados.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+Si para la colocación de los restos humanos cremados se requiere una exhumación, ésta se realizará sólo cuando haya transcurrido el tiempo referido en el artículo 463 de este Código.
 
 ###### ARTÍCULO 838.
 
@@ -24579,6 +24549,8 @@ SEPTIMO.– La Secretaría de Finanzas y la Secretaría de Administración, en e
 
 OCTAVO.– Las referencias hechas al Departamento de Salud Mental de la Dirección General del Sistema para el Desarrollo Integral de la Familia, en las disposiciones reglamentarias, administrativas, contractuales y demás instrumentos legales, se entenderán realizadas al Instituto Municipal de Salud Mental.
 
+...
+
 P.O. 21 DE FEBRERO DE 2022.
 
 > <small>[N. DE E. TRANSITORIOS POR EL QUE SE “REFORMA A LAS FRACCIONES XVII, XVIII Y XIX DEL ARTÍCULO 111 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]</small>
@@ -24708,5 +24680,17 @@ DECIMO TERCERO: La Secretaría de Administración, dentro de los noventa días h
 P.O. 9 DE ENERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DE LAS “REFORMAS Y ADICIONES A LOS ARTÍCULOS 108 Y 112 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO.- Las presentes reformas y adiciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 98 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO: La presente reforma iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DE LAS "REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL Y AL REGLAMENTO DE PANTEONES DEL MUNICIPIO DE AGUASCALIENTES, EN MATERIA DE DEPÓSITO DE RESTOS HUMANOS EN FOSAS, GAVETAS Y NICHOS".]
 
 ÚNICO.- Las presentes reformas y adiciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
