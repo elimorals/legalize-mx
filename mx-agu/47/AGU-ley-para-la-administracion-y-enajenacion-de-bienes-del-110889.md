@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-administracion-y-enajenacion-de-bienes-del-110889"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2015-12-31"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY PARA LA ADMINISTRACION Y ENAJENACION DE BIENES DEL SECTOR PUBLICO PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO PARA EL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, DEL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EN LA MISMA FECHA EN QUE INICIE SU VIGENCIA EL DECRETO QUE EMITA EL PODER EJECUTIVO A FIN DE CREAR EL ÓRGANO ESTATAL DE ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el jueves 31 de diciembre de 2015.
 
@@ -481,7 +481,9 @@ Para los efectos de las Fracciones II y III del presente Artículo, el OEAE llev
 
 Cualquier procedimiento de enajenación o acto que se realice en contra de lo dispuesto en este Capítulo será nulo de pleno derecho.
 
-Los servidores públicos que participen en la realización de los procedimientos de enajenación previstos en esta Ley, serán responsables por la inobservancia de las disposiciones establecidas en la misma, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, sin perjuicio de la responsabilidad penal que corresponda conforme a las leyes.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
+Los servidores públicos que participen en la realización de los procedimientos de enajenación previstos en esta Ley, serán responsables por la inobservancia de las disposiciones establecidas en la misma, en términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, sin perjuicio de la responsabilidad penal que corresponda conforme a las leyes.
 
 #### SECCIÓN TERCERA. De la Donación o Asignación
 
@@ -610,3 +612,13 @@ Dip. María de Lourdes Dávila Castañeda,
 SEGUNDA SECRETARIA.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 29 de diciembre de 2015.- Carlos Lozano de la Torre.- Rúbrica.- El Secretario General de Gobierno, Sergio Javier Reynoso Talamantes.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
