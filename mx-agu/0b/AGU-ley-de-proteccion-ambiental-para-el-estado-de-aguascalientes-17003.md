@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2022-07-18"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -3803,11 +3803,11 @@ Igualmente la autoridad ambiental proporcionará los dictámenes técnicos o per
 
 ### CAPÍTULO VI. Responsabilidad de los Servidores Públicos
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 224.
 
-Al servidor público que incumpla con las obligaciones que le imponen ésta Ley, sus reglamentos, los programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas, las normas oficiales mexicanas y los demás ordenamientos aplicables y relacionados con la materia ambiental; así como al que contravenga, desacate o actúe fuera de los plazos y términos que los ordenamientos jurídicos y administrativos citados señalan, se les impondrá una multa de 100 a 500 veces el valor diario de la unidad de medida y actualización, cuyo monto dependerá de la gravedad de la falta y será sometido a los procedimientos y a las consecuencias jurídicas que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, sin perjuicio de las acciones y sanciones penales y civiles que pudieran derivarse de su actuar contrario a derecho.
+Al servidor público que incumpla con las obligaciones que le imponen ésta Ley, sus reglamentos, los programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas, las normas oficiales mexicanas y los demás ordenamientos aplicables y relacionados con la materia ambiental; así como al que contravenga, desacate o actúe fuera de los plazos y términos que los ordenamientos jurídicos y administrativos citados señalan, se les impondrá una multa de 100 a 500 veces el valor diario de la unidad de medida y actualización, cuyo monto dependerá de la gravedad de la falta y será sometido a los procedimientos y a las consecuencias jurídicas que establece la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, sin perjuicio de las acciones y sanciones penales y civiles que pudieran derivarse de su actuar contrario a derecho.
 
 TRANSITORIOS:
 
@@ -4079,27 +4079,13 @@ P.O. 18 DE JULIO DE 2022.
 
 ÚNICO. - La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 19/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO SÉPTIMO DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS ÓRGANOS JURISDICCIONALES DE LA MATERIA, ENTIDAD Y SEDE MENCIONADAS".]
+P.O. 23 DE ENERO DE 2023.
 
-PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS".]
 
-SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. Se modifica el punto SEGUNDO, apartado III. TERCER CIRCUITO, número 3, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. ...
-
-III. TERCER CIRCUITO: ...
-
-1. a 2. …
-
-3. Treinta y un juzgados de Distrito especializados: siete de amparo en materia penal, ocho en materias administrativa y de trabajo, siete en materia civil, todos con residencia en el municipio de Zapopan; y nueve de procesos penales federales con residencia en Puente Grande.
-
-4. …".
-
-CUARTO. Se modifica el rol de guardias para la recepción de asuntos en días y horas inhábiles de los Juzgados de Distrito de Amparo en Materia Penal en el Estado de Jalisco a partir del dieciocho de julio de dos mil dieciséis, para quedar como sigue: del dieciocho al veinticinco de julio de dos mil dieciséis, estará de guardia el Juzgado Séptimo de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con sede en Zapopan; del veinticinco de julio al uno de agosto de dos mil dieciséis, estará de guardia el Juzgado Primero de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con sede en Zapopan; del uno al ocho de agosto de dos mil dieciséis, estará de guardia el Juzgado Segundo de Distrito de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con sede en Zapopan; del ocho al quince de agosto de dos mil dieciséis, estará de guardia el Juzgado Tercero de Distrito en de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con sede en Zapopan; del quince al veintidós de agosto de dos mil dieciséis, estará de guardia el Juzgado Cuarto de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con sede en Zapopan; del veintidós al veintinueve de agosto de dos mil dieciséis, estará de guardia el Juzgado Quinto de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con sede en Zapopan; del veintinueve de agosto al cinco de septiembre de dos mil dieciséis, estará de guardia el Juzgado Sexto de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Zapopan; del cinco al doce de septiembre de dos mil dieciséis, estará de guardia el Juzgado Séptimo de Distrito de Amparo en Materia Penal en el Estado de Jalisco, con residencia en Zapopan y así sucesivamente.
-
-D.O.F. 13 DE JUNIO DE 2016.
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 29/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, FECHA DE INICIO DE FUNCIONES Y DOMICILIO DE DOS TRIBUNALES COLEGIADOS EN MATERIAS CIVIL Y DE TRABAJO DEL DECIMOQUINTO CIRCUITO CON RESIDENCIA EN TIJUANA, BAJA CALIFORNIA; A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS MENCIONADOS ÓRGANOS COLEGIADOS, ASÍ COMO LA CREACIÓN DE SU OFICINA DE CORRESPONDENCIA COMÚN Y A LA NUEVA COMPETENCIA QUE TENDRÁN LOS SEIS TRIBUNALES COLEGIADOS DEL DECIMOQUINTO CIRCUITO CON RESIDENCIA EN MEXICALI”.]
 
