@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2022-11-07"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -2345,9 +2345,9 @@ XVII. Ordenar la aprehensión de un individuo cuando no se comprueben plenamente
 
 XVIII. No otorgar, cuando se solicite, la libertad caucional, si procede legalmente, sin fundar y motivar adecuadamente su negativa;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
-XIX. Obligar a un inculpado a declarar, usando la incomunicación, la intimidación, la tortura o tratos crueles, inhumanos o degradantes; así como utilizar violencia física o moral que inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por este Código o por la Ley de Responsabilidades de los Servidores Públicos del Estado;
+XIX. Obligar a un inculpado a declarar, usando la incomunicación, la intimidación, la tortura o tratos crueles, inhumanos o degradantes; así como utilizar violencia física o moral que inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por este Código o por la Ley General de Responsabilidades Administrativas;
 
 XX. Prolongar la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motive el procedimiento;
 
@@ -3081,11 +3081,13 @@ En todo caso, se deberá ordenar la publicación en el Periódico Oficial del Es
 
 Ejercicio de otras vías. La indemnización que se otorgue en términos del Artículo anterior, no será impedimento para que quien la reciba pueda ejercer otras acciones ante los tribunales competentes por la vía que corresponda.
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 205.
 
-Obligación indemnizatoria. El Estado pagará la indemnización regulada en este título haciendo uso, preferentemente, del Fondo para la Indemnización de Sentenciados Absueltos; una vez pagada la indemnización, el Poder Ejecutivo, a través de la vía civil correspondiente, podrá exigir la cantidad erogada a los particulares que hayan contribuido al error judicial; tratándose de servidores públicos que hayan intervenido por el ejercicio de sus funciones, se estará a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, en materia de responsabilidad administrativa resarcitoria.
+Obligación indemnizatoria. El Estado pagará la indemnización regulada en este título haciendo uso, preferentemente, del Fondo para la Indemnización de Sentenciados Absueltos; una vez pagada la indemnización, el Poder Ejecutivo, a través de la vía civil correspondiente, podrá exigir la cantidad erogada a los particulares que hayan contribuido al error judicial; tratándose de servidores públicos que hayan intervenido por el ejercicio de sus funciones, se estará a lo dispuesto en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 El Fondo para la Indemnización de Sentenciados Absueltos, únicamente podrá ser destinado a lo establecido por este título y estará integrado por:
 
@@ -3099,7 +3101,11 @@ IV. Lo recuperado por el Estado en términos del primer párrafo del presente Ar
 
 V. Los demás ingresos que por ley le sean asignados.
 
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
 La Secretaría de Finanzas del Estado, constituirá este Fondo y lo pondrá a disposición del Supremo Tribunal de Justicia del Estado, a fin de que entregue las indemnizaciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 En ningún caso, la Secretaría de Finanzas del Estado podrá disponer del capital mediante el que se constituya el Fondo, mismo que se deberá invertir en valores gubernamentales de renta fija del más alto rendimiento, a fin de que se incremente con los intereses que se acumulen.
 
@@ -3668,6 +3674,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 7 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 221.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS".]
 
 ###### ARTÍCULO ÚNICO.
 
