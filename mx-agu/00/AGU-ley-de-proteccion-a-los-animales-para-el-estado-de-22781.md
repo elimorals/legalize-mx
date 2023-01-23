@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-a-los-animales-para-el-estado-de-22781"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2022-07-18"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de noviembre de 2001.
 
@@ -547,9 +547,9 @@ XIX.- Las operaciones de embarco y desembarco deberán hacerse utilizando los in
 
 XX.- Ninguna revisión sanitaria o de policía será motivo para ocasionar sufrimiento a los animales.
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
-Quienes violen esta disposición, o cualquier otra de las establecidas en la presente Ley, además de las sanciones establecidas en la misma, serán responsables en términos de la Ley de Responsabilidades de los Servidores Públicos.
+Quienes violen esta disposición, o cualquier otra de las establecidas en la presente Ley, además de las sanciones establecidas en la misma, serán responsables en términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
@@ -1698,3 +1698,11 @@ P.O. 18 DE JULIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
