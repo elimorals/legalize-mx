@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-y-erradicar-la-discriminacion-del-estado-8746
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-23"
-last_updated: "2022-05-09"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de abril de 2012.
 
@@ -301,9 +301,11 @@ La Comisión Estatal de Derechos Humanos, independientemente de sus funciones, e
 
 Cuando los hechos denunciados mediante queja no sean competencia de la Comisión Estatal de Derechos Humanos, se proporcionará al interesado la orientación para que acuda a la autoridad y ante el servidor público que deba conocer del asunto.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 21.
 
-La Comisión Estatal de Derechos Humanos, para el caso de autoridades y servidores públicos del Estado y municipios donde se haya demostrado la existencia de la conducta discriminatoria denunciada, formulará la recomendación que corresponda y procederá a presentar las quejas o denuncias ante las autoridades que resulten competentes, de acuerdo a lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado, para los efectos de instauración de los procedimientos de responsabilidad e imposición de las sanciones respectivas. Las recomendaciones formuladas por la Comisión Estatal de Derechos Humanos constituirán la base de su acción.
+La Comisión Estatal de Derechos Humanos, para el caso de autoridades y servidores públicos del Estado y municipios donde se haya demostrado la existencia de la conducta discriminatoria denunciada, formulará la recomendación que corresponda y procederá a presentar las quejas o denuncias ante las autoridades que resulten competentes, de acuerdo a lo establecido por la Ley General de Responsabilidades Administrativas y por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, para los efectos de instauración de los procedimientos de responsabilidad e imposición de las sanciones respectivas. Las recomendaciones formuladas por la Comisión Estatal de Derechos Humanos constituirán la base de su acción.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -462,3 +464,11 @@ Una vez cubiertos los extremos legales que establece el Artículo 94 de la Const
 ###### ARTÍCULO SEGUNDO.
 
 El Artículo Segundo del presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
