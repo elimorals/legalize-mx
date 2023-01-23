@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2022-11-07"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -127,29 +127,57 @@ Queda prohibida cualquier práctica de discriminación y exclusión en la presta
 
 La Política Estatal de Desarrollo Social, se sujetará a los siguientes principios:
 
-I. LIBERTAD: Capacidad de las personas para elegir los medios para su desarrollo personal así como para participar en el desarrollo social;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2023)</small>
 
-II. JUSTICIA DISTRIBUTIVA: Garantiza que toda persona reciba de manera equitativa los beneficios del desarrollo conforme a sus méritos, sus necesidades y posibilidades;
+I. DIGNIDAD HUMANA: Principio rector supremo y sustento de los derechos humanos, en el que se reconoce a toda persona la libertad y la igualdad en derechos, y es el fundamento, objetivo y base de las acciones de la política de desarrollo social;
 
-III. SOLIDARIDAD: Colaboración entre personas, grupos sociales y órdenes de gobierno, de manera corresponsable para el mejoramiento de la calidad de vida de la sociedad;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
-IV. INTEGRALIDAD: Articulación y complementariedad de programas y acciones que conjunten los diferentes beneficios sociales, en el marco de la Política Estatal de Desarrollo Social;
+II. INTEGRALIDAD: Articulación y complementariedad de programas y acciones que conjunten los diferentes beneficios sociales, en el marco de la Política Estatal y Nacional de Desarrollo Social;
 
-V. PARTICIPACIÓN SOCIAL: Derecho de las personas y Organizaciones a intervenir e integrarse, individual o colectivamente, en la formulación y evaluación de las políticas, programas y acciones del desarrollo social;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2023)</small>
 
-VI. SUSTENTABILIDAD: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
+III. INTERÉS SUPERIOR DE LA NIÑEZ: De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de los Derechos de Niñas, Niños y Adolescentes y en los tratados internacionales aplicables de los que el Estado Mexicano sea parte;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
-VII. RESPETO A LA DIVERSIDAD: Reconocimiento en términos de origen étnico, género, edad, personas con alguna discapacidad, condición social, condiciones de salud, religión, ideología, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+IV. JUSTICIA DISTRIBUTIVA: Garantiza que toda persona reciba de manera equitativa los beneficios del desarrollo conforme a sus méritos, sus necesidades, sus posibilidades y las de las demás personas;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
-VIII. TRANSPARENCIA: La información relativa al desarrollo social es pública en los términos de las leyes de la materia. El Estado garantizará que la información gubernamental sea objetiva, oportuna, sistemática y veraz; y
+V. LIBERTAD: Capacidad de las personas para elegir los medios para su desarrollo personal, así como para participar en el desarrollo social;
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
-IX. PERSPECTIVA DE GÉNERO: Garantizar la equidad e igualdad de género en el diseño y ejecución de las políticas públicas de desarrollo social, desde una visión científica, analítica, política y compensatoria sobre las mujeres y los hombres, que elimine las causas de la opresión, la desigualdad, la injusticia y la jerarquización de las personas.
+VI. PARTICIPACIÓN SOCIAL: Derecho de las personas y organizaciones a intervenir e integrarse, individual o colectivamente, en la formulación y evaluación de las políticas, programas y acciones del desarrollo social;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
+VII. PERSPECTIVA DE GÉNERO: Garantizar la equidad e igualdad de género en el diseño y ejecución de las políticas públicas de desarrollo social, desde una visión científica, analítica, política y compensatoria sobre las mujeres y los hombres, que elimine las causas de la opresión, la desigualdad, la injusticia y la jerarquización de las personas basada en el género;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
+VIII. RESPETO A LA DIVERSIDAD: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, ideología, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2023)</small>
+
+IX. SUBSIDIARIEDAD: Proceso en el que el Gobierno reconoce, protege, apoya y ayuda individual y colectivamente a las personas para su desarrollo integral, brindándoles lo necesario por un tiempo determinado y equilibrado para que puedan ser capaces de atender sus necesidades básicas por sí mismas, con el propósito de superar la desigualdad social;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE ENERO DE 2023)</small>
+
+X. SUSTENTABILIDAD: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE ENERO DE 2023)</small>
+
+XI. SOLIDARIDAD: Colaboración entre personas, grupos sociales y órdenes de gobierno, de manera corresponsable para el mejoramiento de la calidad de vida de la sociedad;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE ENERO DE 2023)</small>
+
+XII. TRANSPARENCIA: La información relativa al desarrollo social es pública en los términos de las leyes de la materia. El Estado garantizará que la información gubernamental sea objetiva, oportuna, sistemática y veraz; y
+
+> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2023)</small>
+
+XIII. UNIVERSALIDAD: El reconocimiento de todas las personas como titulares de los derechos sociales y sujetos del desarrollo social.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
 
@@ -399,11 +427,13 @@ El Gobierno del Estado en un plazo máximo de noventa días, a partir de la apro
 
 La distribución que se haga de los recursos federales a Municipios para el desarrollo social será publicada en el Periódico Oficial del Estado, en un plazo máximo de treinta días, a partir de que se obtengan recursos extraordinarios de la Federación.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2023)</small>
 
 ###### Artículo 29.
 
-Toda publicidad de los programas de desarrollo social deberá incluir la siguiente leyenda: "Este programa es público ajeno a cualquier partido político, queda prohibido su uso para fines políticos, quien haga uso indebido de los recursos de este programa deberá ser denunciado y sancionado ante las autoridades conforme a lo que dispone la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes”.
+Toda publicidad de los programas de desarrollo social deberá incluir la siguiente leyenda: “Este programa es público ajeno a cualquier partido político, queda prohibido su uso para fines políticos, quien haga uso indebido de los recursos de este programa deberá ser denunciado y sancionado ante las autoridades conforme a lo que dispone la Ley de Responsabilidades Administrativas del Estado de Aguascalientes”.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 Asimismo, toda publicidad e información relativa a los programas de desarrollo social federales, estatales o municipales atenderá a los términos y plazos fijados por la normatividad electoral federal y local.
 
@@ -1063,9 +1093,9 @@ El beneficiario, organización o unidad familiar que contravenga las disposicion
 
 Los recursos destinados al desarrollo social y combate a la pobreza no podrán ser utilizados para fines de proselitismo político, u otro fin distintos a los establecidos.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
-El servidor público estatal o municipal, que valiéndose de su función o en ejercicio de ésta, condicione los apoyos, haga proselitismo a favor de un partido político y, en general contravenga las disposiciones de esta Ley, será sancionado de acuerdo a lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, y se le aplicará lo que al respecto dicte la Ley General en Materia de Delitos Electorales.
+El servidor público estatal o municipal, que valiéndose de su función o en ejercicio de ésta, condicione los apoyos, haga proselitismo a favor de un partido político y, en general contravenga las disposiciones de esta Ley, será sancionado de acuerdo a lo dispuesto en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, y se le aplicará lo que al respecto dicte la Ley General en Materia de Delitos Electorales.
 
 En caso de ser servidor público federal, se deberá informar al órgano de control interno competente.
 
@@ -1296,3 +1326,19 @@ P.O. 7 DE NOVIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 258.- SE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVESOS ORDENAMIENTOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
