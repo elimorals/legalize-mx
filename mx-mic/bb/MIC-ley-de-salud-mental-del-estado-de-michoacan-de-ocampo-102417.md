@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-mental-del-estado-de-michoacan-de-ocampo-102417"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2021-07-22"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -127,7 +127,9 @@ XXII. Segundo nivel de atención: Atención hospitalaria y ambulatoria otorgada 
 
 XXIII. Titular de la Secretaría: Secretario de Salud del Estado de Michoacán;
 
-XXIV. Trastorno Mental: Afectación de la salud mental de una persona caracterizado por un comportamiento y un grupo de síntomas identificables en la práctica clínica que en la mayoría de los casos se acompaña de malestar e interfieren en la actividad cotidiana del individuo y su entorno;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
+XXIV. Trastorno mental: Trastornos mentales, del comportamiento y del neurodesarrollo, síndromes que se caracterizan por una alteración clínicamente significativa en la cognición, la regulación emocional o el comportamiento de un individuo que refleja una disfunción en los procesos psicológicos, biológicos o del desarrollo que subyacen al funcionamiento mental y comportamental. Estas perturbaciones están generalmente asociadas con malestar o deterioro significativos a nivel personal, familiar, social, educativo, ocupacional o en otras áreas importantes del funcionamiento;
 
 XXV. Tratamiento: Diseño, planeación, instrumentación y conducción de estrategias médicas, farmacológicas y psicológicas encaminadas a restaurar, mejorar o mantener la calidad de vida de la persona que presenta algún trastorno mental;
 
@@ -301,11 +303,15 @@ II. Motivar a la comunidad a la realización de acciones y proyectos relacionado
 
 III. Apoyar y asesorar a Grupos en la comunidad cuyas acciones favorezcan la salud mental;
 
-IV. Fortalecer las acciones comunitarias que aseguren los factores de protección hacia los pacientes con enfermedad mental;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
+IV. Fortalecer las acciones comunitarias que aseguren los factores de protección hacia los pacientes con trastornos mentales;
 
 V. Promover la participación de observadores externos para vigilar el pleno respeto de los derechos humanos de las personas con trastornos mentales y del comportamiento que son atendidas en los establecimientos de la Red Estatal de Salud Mental;
 
-VI. Diseñar y llevar a cabo campañas que reduzcan los factores de riesgo de desarrollar enfermedades mentales;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
+VI. Diseñar y llevar a cabo campañas que reduzcan los factores de riesgo de desarrollar trastornos mentales;
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
 
@@ -451,7 +457,9 @@ III. La reinserción de las personas con trastornos mentales y del comportamient
 
 El Gobierno del Estado, a través de la Secretaría, determinará en los programas de salud mental de aquellos trastornos mentales que requieran una atención prioritaria; para tal efecto deberá considerar lo siguiente:
 
-I. Acciones para la promoción, prevención, diagnóstico oportuno, tratamiento y rehabilitación de las enfermedades mentales, particularizando cada una de ellas;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
+I. Acciones para la promoción, prevención, diagnóstico oportuno, tratamiento y rehabilitación de los trastornos mentales, particularizando cada uno de ellos;
 
 II. Mecanismos de coordinación con el Gobierno Federal, organismos sociales y privados para atender eficazmente los trastornos mentales, priorizando en todo momento, la promoción y prevención;
 
@@ -659,9 +667,11 @@ b. En cuanto las condiciones de la persona usuaria lo permitan, deberá ser info
 
 III. El ingreso por orden de autoridad se llevará a cabo cuando lo solicite la instancia legal competente, siempre y cuando sea con fines terapéuticos y el paciente lo amerite de acuerdo al examen médico psiquiátrico, ajustándose a los principios establecidos en la presente ley y con base en los principios de derechos humanos.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
 ###### Artículo 61.
 
-El Gobierno del Estado a través de la Secretaría de Seguridad Pública garantizará que las personas que padezcan trastornos mentales, y que estén sujetos a procedimientos penales o condenatorios cuenten con un espacio adecuado para su tratamiento y rehabilitación. Para ello, contará con áreas destinadas a tal propósito a fin de proporcionar manejo médico y rehabilitación acorde a la enfermedad mental que presenta. En ningún caso, las unidades de la Secretaría de Salud funcionarán como reclusorios de personas con procesos legales.
+El Gobierno del Estado a través de la Secretaría de Seguridad Pública garantizará que las personas que padezcan trastornos mentales, y que estén sujetos a procedimientos penales o condenatorios cuenten con un espacio adecuado para su tratamiento y rehabilitación. Para ello, contará con áreas destinadas a tal propósito a fin de proporcionar manejo médico y rehabilitación acorde al trastorno mental que presenta. En ningún caso, las unidades de la Secretaría de Salud funcionarán como reclusorios de personas con procesos legales.
 
 ###### Artículo 62.
 
@@ -681,7 +691,9 @@ II. Evitar su aislamiento, permitiendo la visita de sus familiares o persona que
 
 III. Garantizar la confidencialidad de los datos de los pacientes;
 
-IV. Contar con personal necesario, capacitado y especializado para proporcionar de manera eficiente atención integral médico-psiquiátrica de las personas con algún trastorno mental de acuerdo con la enfermedad específica que padezcan y el grado de avance que contengan;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
+IV. Contar con personal necesario, capacitado y especializado para proporcionar de manera eficiente atención integral médico-psiquiátrica a las personas con algún trastorno mental de acuerdo con el diagnóstico específico y el grado de avance;
 
 V. Especificar el tipo de tratamiento que se les proporcionará; y,
 
@@ -751,9 +763,11 @@ III. Abasto suficiente de los medicamentos para tratamiento de las personas usua
 
 En las Unidades Médicas de los Centros de Integración para Adolescentes, se realizarán valoraciones psiquiátricas para la detección oportuna de patologías psiquiátricas y se brindará el tratamiento farmacológico o psicoterapéutico que el menor requiera.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
 ###### Artículo 76.
 
-La valoración psiquiátrica, se llevará a cabo para identificar la multiplicidad de factores que pueden influir como agentes etiológicos de la enfermedad mental, destacando los factores orgánicos y psicológicos, así como la manera en que el entorno familiar, social y cultural influyeron en la situación actual del usuario.
+La valoración psiquiátrica, se llevará a cabo para identificar la multiplicidad de factores que pueden influir como agentes etiológicos del trastorno mental, destacando los factores orgánicos y psicológicos, así como la manera en que el entorno familiar, social y cultural influyeron en la situación actual del usuario.
 
 ###### Artículo 77.
 
@@ -852,3 +866,9 @@ PRIMERO. La presente Reforma de Ley entrará en vigor al día siguiente de su pu
 SEGUNDO. El Titular del Poder Ejecutivo tendrá un plazo de sesenta días naturales para las modificaciones al Reglamento de la presente Ley.
 
 TERCERO. La Secretaría de Salud en el Estado, deberá de garantizar la presentación del servicio de salud mental en los centros de salud locales de primer nivel en el Estado, lo cual deberá realizar de forma progresiva, debiendo contemplar el recurso necesario en la Ley de Ingresos y Presupuesto de Egresos para el ejercicio fiscal 2022 y los sucesivos ejercicios fiscales, para la infraestructura y personal necesario.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 301.- PRIMERO.- SE REFORMA LA FRACCIÓN XXIV DEL ARTÍCULO 4°; LAS FRACCIONES IV Y VI DEL ARTÍCULO 15; LA FRACCIÓN I DEL ARTÍCULO 37; EL ARTÍCULO 61; LA FRACCIÓN IV DEL ARTÍCULO 64; Y, EL ARTÍCULO 76 DE LA LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
