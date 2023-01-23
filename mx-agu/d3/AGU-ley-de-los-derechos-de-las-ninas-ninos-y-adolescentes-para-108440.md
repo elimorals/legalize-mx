@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2023-01-17"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -119,9 +119,11 @@ VIII. Certificado de Idoneidad: El documento expedido por el Sistema Nacional DI
 
 VIII Bis. Ciberbullying: Forma de Violencia por medio de las tecnologías digitales que puede ocurrir en las redes sociales, plataformas de mensajería, plataformas de juegos y teléfonos móviles.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
-IX. Crianza Positiva: Comportamiento de las madres, padres y de quienes ejerzan la patria potestad, guarda y custodia o bien la tutela, con base en el interés superior de la niñez, que promueve la atención, el desarrollo de capacidades y la no violencia, ofreciendo el reconocimiento y orientación necesaria sin dejar de contemplar el establecimiento de los límites relativos a la disciplina, los cuales permitan el pleno desarrollo de las niñas, niños y adolescentes;
+IX. Crianza Positiva: Comportamiento de las madres, padres y de quienes ejerzan la patria potestad, guarda y custodia o bien la tutela, con base en el interés superior de la niñez, que promueve la atención, el desarrollo de capacidades y la no violencia, ofreciendo el reconocimiento y orientación necesaria sin dejar de contemplar el establecimiento de los límites relativos a la disciplina, los cuales permitan el pleno desarrollo de las niñas, niños y adolescentes; evitando la violencia vicaria a que se hace referencia la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Aguascalientes.
+
+Dicha violencia es una forma de maltrato infantil que puede involucrar el visualizar y presenciar por parte de las niñas, niños y adolescentes, agresiones impuestas por uno de los progenitores hacia otro o por el padecimiento de agresiones directas como método para causarle un perjuicio a la pareja por sí o por interpósita persona, amenazando con dañar o generando daño físico, psicológico, emocional, patrimonial o de cualquier otra índole a un descendente, ascendente o dependiente económico de la víctima.
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
@@ -2083,6 +2085,8 @@ XVI. Las demás que les confieran otras disposiciones aplicables.
 
 ### CAPÍTULO ÚNICO. De las Infracciones y Sanciones Administrativas
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
 ###### Artículo 124.
 
 La Comisión Estatal de Derechos Humanos del Estado de Aguascalientes, deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
@@ -2101,7 +2105,7 @@ Los Sistemas Local y Municipales contarán con órganos consultivos de apoyo, en
 
 ###### Artículo 127.
 
-Los servidores públicos estatales o municipales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de las autoridades estatales o municipales, los centros de asistencia social, las instituciones asistenciales de naturaleza privada y el personal o los profesionales al servicio de éstas que intervengan en procedimientos de adopción y así como aquellos quienes ejercen la patria potestad, tutela o guardia o custodia de niñas o acogimiento de niños o adolescentes, por el incumplimiento de las obligaciones establecidas en esta Ley y la comisión de infracciones establecidas en la misma, serán sujetos a las sanciones administrativas que se establecen en este Título, sin perjuicio de las responsabilidades en que incurran conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, la legislación civil y penal del Estado de Aguascalientes o cualquier otra disposición legal que resulte aplicable.
+Los servidores públicos estatales o municipales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de las autoridades estatales o municipales, los centros de asistencia social, las instituciones asistenciales de naturaleza privada y el personal o los profesionales al servicio de éstas que intervengan en procedimientos de adopción y así como aquellos quienes ejercen la patria potestad, tutela o guardia o custodia de niñas o acogimiento de niños o adolescentes, por el incumplimiento de las obligaciones establecidas en esta Ley y la comisión de infracciones establecidas en la misma, serán sujetos a las sanciones administrativas que se establecen en este Título, sin perjuicio de las responsabilidades en que incurran conforme a lo dispuesto en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, la legislación civil y penal del Estado de Aguascalientes o cualquier otra disposición legal que resulte aplicable.
 
 ###### Artículo 128.
 
@@ -2558,3 +2562,19 @@ P.O. 17 DE ENERO DE 2023.
 ###### ARTÍCULO ÚNICO
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 261.- SE REFORMAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES; Y, LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
