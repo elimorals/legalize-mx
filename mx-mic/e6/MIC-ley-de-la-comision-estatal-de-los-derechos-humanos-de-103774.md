@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-comision-estatal-de-los-derechos-humanos-de-103774"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-21"
-last_updated: "2021-07-22"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 21 de noviembre de 2014.
 
@@ -197,9 +197,9 @@ XII. Coordinar su actividad con la Comisión Nacional de los Derechos Humanos en
 
 XIII. Celebrar convenios y acuerdos en materia de Derechos Humanos con los gobiernos municipales;
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
-XIV. Vigilar el respeto a los Derechos Humanos de las personas que se encuentran en orfanatos, asilos, hospicios, instituciones y organismos asistenciales, hospitales psiquiátricos, así como de aquellas que están privadas de su libertad, en los establecimientos destinados a la detención preventiva, internamiento o reinserción social que se ubiquen en la entidad; a través de la realización de visitas cuando menos una vez al año, así como del establecimiento de otros mecanismos que le permitan dar cumplimiento a esta disposición;
+XIV. Vigilar el respeto a los Derechos Humanos de las personas que se encuentran en orfanatos, asilos, hospicios, instituciones y organismos asistenciales, hospitales psiquiátricos, así como de aquellas que están privadas de su libertad, en los establecimientos destinados a la detención preventiva, internamiento o reinserción social que se ubiquen en la entidad; a través de la realización de visitas cuando menos dos veces al año, así como del establecimiento de otros mecanismos que le permitan dar cumplimiento a esta disposición;
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
 
@@ -1590,3 +1590,9 @@ Asimismo y con la finalidad de dar claridad y certeza en relación a la prestaci
 TERCERO. A partir de la publicación del presente Decreto, la Junta de Asistencia Privada, en un plazo no mayor a sesenta días naturales, rendirá un informe por escrito ante la Comisión de Derechos Humanos del Congreso del Estado, en donde se precisen las necesidades en materia de recursos humanos y económicos, de las estancias, casas hogar, albergues y centros de atención integral.
 
 CUARTO. Hágase del conocimiento de la Comisión Estatal de los Derechos Humanos, el contenido del presente Decreto en la parte que la implica, por medio de su Presidente o Encargado de Despacho, según corresponda.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 301 POR EL QUE "SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
