@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-juventud-del-estado-de-aguascalientes-113815"
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-04"
-last_updated: "2021-05-10"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2016.
 
@@ -425,9 +425,11 @@ Los Ayuntamientos deberán incluir en sus Planes de Desarrollo Municipal y en su
 
 Cualquier persona que realice un acto u omisión que afecte derechos de los Jóvenes, tendrá responsabilidad civil o penal, según corresponda.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 16.
 
-El servidor público que en el ejercicio de sus funciones afecte derechos de los Jóvenes, será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, sin perjuicio de la responsabilidad penal o civil en que pueda incurrir.
+El servidor público que en el ejercicio de sus funciones afecte derechos de los Jóvenes, será sancionado en términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, sin perjuicio de la responsabilidad penal o civil en que pueda incurrir.
 
 T R A N S I T O R I O
 
@@ -526,3 +528,11 @@ P.O. 10 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 548.- SE REFORMA EL ARTÍCULO 2°; 9°, FRACCIONES VIII, XIII Y XIV; Y SE ADICIONA UNA FRACCIÓN XV AL ARTÍCULO 9°, DE LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
