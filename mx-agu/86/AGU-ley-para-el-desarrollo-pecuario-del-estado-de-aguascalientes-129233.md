@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-desarrollo-pecuario-del-estado-de-aguascalientes-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-20"
-last_updated: "2018-06-20"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 
@@ -1699,9 +1699,11 @@ II. La factura o documento legal que acredite la adquisición de los apiarios; y
 
 III. La guía de tránsito que ampare el traslado de los apiarios del lugar de origen al de su ubicación.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
 ###### Artículo 176.
 
-En los casos de compraventa de colmenas y productos avícolas marcados, el comprador colocará su marca a un lado de la del vendedor, sin borrar ésta.
+En los casos de compraventa de colmenas y productos apícolas marcados, el comprador colocará su marca un lado de la del vendedor, sin borrar ésta.
 
 ###### Artículo 177.
 
@@ -1727,13 +1729,17 @@ Las autoridades del Estado podrán tomar en cualquier tiempo todas las medidas y
 
 #### SECCIÓN TERCERA. De la Comercialización Apícola
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
 ###### Artículo 182.
 
-Las autoridades apoyarán a los productores para que se integren en los procesos de industrialización y comercialización de sus productos y subproductos brindándoles la asesoría y capacitación necesarias.
+Las autoridades apoyarán a los productores para que se integren en los procesos de industrialización, comercialización e internacionalización de sus productos y subproductos brindándoles la asesoría y capacitación necesarias.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
 ###### Artículo 183.
 
-Las autoridades del Estado apoyarán a los productores en la gestión que realicen ante la Federación a fin de que se incluya a la apicultura en los programas de fomento de los procesos de producción, comercialización e industrialización de sus productos.
+Las autoridades del Estado apoyarán a los productores en la gestión que realicen ante la Federación a fin de que se incluya a la apicultura en los programas de fomento de los procesos de producción, comercialización, industrialización e internacionalización de sus productos.
 
 ###### Artículo 184.
 
@@ -1950,3 +1956,13 @@ Ma. Estela Cortés Meléndez,
 DIPUTADA SEGUNDA SECRETARIA.
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 18 de junio de 2018.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Ricardo Enrique Morán Faz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 248.- SE REFORMA LA LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
