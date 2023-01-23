@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1170
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2022-12-09"
+last_updated: "2023-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
 
@@ -1647,7 +1647,9 @@ Se considerará reincidente al infractor que incurra más de una vez en conducta
 
 Las responsabilidades de Servidores Públicos que resulten de los procedimientos administrativos correspondientes derivados de la violación a lo dispuesto por el Artículo 83 de esta Ley, son independientes de las del orden civil, penal o de cualquier otro tipo que se puedan derivar de los mismos hechos.
 
-Dichas responsabilidades se determinarán, en forma autónoma, a través de los procedimientos previstos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y las sanciones que, en su caso, se impongan por las autoridades competentes, también se ejecutarán de manera independiente.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
+Dichas responsabilidades se determinarán, en forma autónoma, a través de los procedimientos previstos en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y las sanciones que, en su caso, se impongan por las autoridades competentes, también se ejecutarán de manera independiente.
 
 Para tales efectos, el ITEA podrá denunciar ante las autoridades competentes cualquier acto u omisión violatoria de esta Ley y aportar las pruebas que consideren pertinentes, en los términos de las leyes aplicables.
 
@@ -1709,7 +1711,9 @@ III. Tres años las infracciones muy graves.
 
 Los plazos comenzarán a contarse desde el día en que se tenga conocimiento de la infracción, y se interrumpirá el plazo de caducidad al momento de que se inicie el procedimiento sancionador.
 
-Respecto a servidores públicos, la potestad de imponer y ejecutar las sanciones se sujetará a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
+Respecto a servidores públicos, la potestad de imponer y ejecutar las sanciones se sujetará a lo establecido en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 Tratándose de sanciones económicas, la prescripción estará a lo dispuesto en el Código Fiscal del Estado de Aguascalientes.
 
@@ -1942,6 +1946,14 @@ Aquellos Consejeros que hayan tomado protesta por 7 años de encargo, concluirá
 P.O. 9 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 226.- SE REFORMA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES; SE ADICIONA EL ARTÍCULO 25 BIS A LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES; Y, SE REFORMA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS”.]
 
 ###### ARTÍCULO ÚNICO.
 
