@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2022-12-09"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -927,7 +927,9 @@ La recomendación será pública y no vinculatoria para la Autoridad Responsable
 
 La Autoridad Responsable, dentro de los diez días naturales contados a partir de que le sea notificada una recomendación, deberá responder a la Comisión si la acepta o no.
 
-La Comisión informará a la autoridad competente la omisión de la Autoridad Responsable de responder en el plazo referido en el párrafo anterior, a fin de que se impongan las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
+La Comisión informará a la autoridad competente la omisión de la Autoridad Responsable de responder en el plazo referido en el párrafo anterior, a fin de que se impongan las sanciones previstas en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 ###### ARTÍCULO 69.
 
@@ -1031,9 +1033,11 @@ Ninguna autoridad podrá negar este acceso, incluso si se trata de documentos re
 
 ### CAPÍTULO II. De las Infracciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 84.
 
-Cuando los Servidores Públicos estatales o municipales no envíen la documentación requerida por la Comisión; omitan responder una recomendación; no funden, motiven o hagan pública su determinación de no aceptar o cumplir las recomendaciones; funden o motiven deficientemente su determinación de no aceptar o cumplir una recomendación; no comparezcan ante el Congreso del Estado a explicar el motivo de tal negativa; o realicen cualquier otra actuación u omisión que entorpezca las funciones de la Comisión, se les sancionará en términos de los dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y, en su caso, la normatividad penal del Estado.
+Cuando los Servidores Públicos estatales o municipales no envíen la documentación requerida por la Comisión; omitan responder una recomendación; no funden, motiven o hagan pública su determinación de no aceptar o cumplir las recomendaciones; funden o motiven deficientemente su determinación de no aceptar o cumplir una recomendación; no comparezcan ante el Congreso del Estado a explicar el motivo de tal negativa; o realicen cualquier otra actuación u omisión que entorpezca las funciones de la Comisión, se les sancionará en términos de los (sic) dispuesto por la Ley General de Responsabilidades Administrativas y por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y, en su caso, la normatividad penal del Estado.
 
 Para efectos de lo dispuesto por el párrafo anterior, la Comisión dará aviso al titular de la dependencia donde labore el Servidor Público, al órgano de control competente o al Ministerio Público, según corresponda.
 
@@ -1294,6 +1298,14 @@ Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que
 P.O. 9 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 226.- SE REFORMA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES; SE ADICIONA EL ARTÍCULO 25 BIS A LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES; Y, SE REFORMA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS".]
 
 ###### ARTÍCULO ÚNICO.
 
