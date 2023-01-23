@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2022-05-30"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -165,13 +165,17 @@ XVIII. La invisibilización de la participación de las mujeres en la construcci
 
 XIX. La difusión o publicación a través de cualquier medio tecnológico, de imágenes o grabaciones con contenido erótico o sexual, o que sin tener expresamente este contenido, se use o manipule con estos fines, sin autorización de quien sufre la afectación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
-XX. La Captura, Producción, Manipulación o Alteración de Imágenes o grabaciones, con la finalidad de llevar a cabo las acciones señaladas en la fracción anterior, o de acosar, hostigar, intimidar o amenazar a mujeres por cualquier medio; y
+XX. La Captura, Producción, Manipulación o Alteración de Imágenes o grabaciones, con la finalidad de llevar a cabo las acciones señaladas en la fracción anterior, o de acosar, hostigar, intimidar o amenazar a mujeres por cualquier medio;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2023)</small>
 
-XXI. Todas aquellas que de alguna forma denigren la dignidad de la mujer.
+XXI. Violencia vicaria; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE ENERO DE 2023)</small>
+
+XXII. Todas aquellas que de alguna forma denigren la dignidad de la mujer
 
 ###### Artículo 4°.
 
@@ -291,13 +295,17 @@ VII. Violencia en el tránsito por espacios públicos: es todo acto de hostigami
 
 VIII. Violencia Política en contra de las Mujeres en razón de Género: Es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo, en los términos precisados en el Código Electoral para el Estado de Aguascalientes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
-IX. Violencia Digital: Es la que se produce cuando una persona provoca, realiza o amenaza con realizar cualquier tipo de violencia contra una o más mujeres, utilizando cualquier medio tecnológico, vulnerando principalmente su dignidad, libertad y desarrollo psicosexual; y
+IX. Violencia Digital: Es la que se produce cuando una persona provoca, realiza o amenaza con realizar cualquier tipo de violencia contra una o más mujeres, utilizando cualquier medio tecnológico, vulnerando principalmente su dignidad, libertad y desarrollo psicosexual;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2023)</small>
 
-X. Cualesquiera otras formas análogas que por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
+X. Violencia Vicaria: Es aquella que se realiza contra una mujer a través de un acto u omisión que genere afectación o daño físico, psicológico, emocional, patrimonial o de cualquier otra índole por medio de amenazas o violencia ejercida a un descendente, ascendente o dependiente económico de la víctima; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE ENERO DE 2023)</small>
+
+XI. Cualesquiera otras formas análogas que, por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 9°.
 
@@ -322,6 +330,12 @@ V. En espacios públicos.
 ###### Artículo 10.
 
 La violencia de género contra las mujeres en el ámbito doméstico, es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar o unidad doméstica, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho con la víctima.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+Artículo 10 BIS.- La violencia vicaria.
+
+Tipo de violencia que comete la persona que mantenga o haya mantenido una relación de matrimonio, concubinato, afectiva o sentimental con la víctima; incluye toda aquella conducta realizada de manera consciente para generar un daño a un descendente, ascendente o dependiente económico de la víctima, ejerciéndose de forma indirecta hacia esta.
 
 ###### Artículo 11.
 
@@ -511,9 +525,9 @@ Las órdenes de protección contenidas en las Fracciones I a VI son de emergenci
 
 En todo caso, serán consideradas de emergencia las órdenes de protección que se tramiten con motivo de violencia sexual y cuando la víctima de cualquier tipo de violencia sea menor de dieciocho años, y todas aquellas que a criterio de la autoridad se consideren de emergencia, por lo que deberán expedirse por el Ministerio Público, los jueces mixtos, jueces cívicos, jueces de lo penal, civil y familiar, dentro de las ocho horas siguientes al conocimiento de los hechos que las generan.
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
-A quien omita aplicar o incumpla una orden de protección, se le impondrán las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes o en la Legislación correspondiente.
+A quien omita aplicar o incumpla una orden de protección, se le impondrán las sanciones previstas en la Ley General de Responsabilidades Administrativas, en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes o en la Legislación correspondiente.
 
 > <small>(ADICIONADO, P.O. 21 DE MARZO DE 2022)</small>
 
@@ -1720,3 +1734,19 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los noventa días naturales siguientes al inicio de vigencia del presente Decreto, deberán realizarse las adecuaciones conducentes al Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 261.- SE REFORMAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES; Y, LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
