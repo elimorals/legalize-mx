@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente-29297"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-10"
-last_updated: "2022-10-17"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de marzo de 2003.
 
@@ -439,9 +439,9 @@ El acceso a los documentos y las solicitudes de información deberán estar debi
 
 Cuando no sea posible proporcionar los informes o copias certificadas solicitadas por la Procuraduría, el hecho deberá acreditarse por escrito haciendo constar las razones que tuviesen para ello las autoridades respectivas, anexando en su caso, las probanzas acreditables.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
-Los servidores públicos que incumplan con lo previsto en el presente Artículo, incurrirán en responsabilidad administrativa y se harán acreedores a las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Los servidores públicos que incumplan con lo previsto en el presente Artículo, incurrirán en responsabilidad administrativa y se harán acreedores a las sanciones previstas en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -742,3 +742,11 @@ El presente Decreto entrará en vigor a los seis meses posteriores de su publica
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
