@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-contencioso-administrativo-para-el-28565"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-19"
-last_updated: "2022-10-17"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 19 de septiembre de 1999.
 
@@ -913,7 +913,9 @@ Cuando la autoridad demandada persista en su actitud, la Sala deberá solicitar 
 
 Si no se da cumplimiento a la resolución, no obstante los requerimientos anteriores, la Sala podrá decretar la destitución del servidor público responsable, excepto que goce de fuero constitucional.
 
-Cuando la autoridad demandada goce de fuero constitucional, la Sala formulará la excitativa de declaración de procedencia, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado, ante la Legislatura Local.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
+Cuando la autoridad demandada goce de fuero constitucional, la Sala formulará la excitativa de declaración de procedencia, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, ante la Legislatura Local.
 
 Si la ejecución consiste en la realización de un acto material, la Sala podrá realizarlo, en rebeldía de la demandada.
 
@@ -1418,3 +1420,11 @@ El presente Decreto entrará en vigor a los seis meses posteriores de su publica
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
