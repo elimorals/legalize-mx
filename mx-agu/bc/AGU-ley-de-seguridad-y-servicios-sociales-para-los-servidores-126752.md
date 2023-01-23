@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-12675
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2022-09-30"
+last_updated: "2023-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
 
 Ley publicada en la Primera Sección del Número 9 al Periódico Oficial del Estado de Aguascalientes, el lunes 26 de febrero de 2018.
 
@@ -2003,11 +2003,15 @@ El importe del Préstamo Hipotecario no excederá de 1000 veces el valor mensual
 
 Asimismo, el Servidor Público deberá demostrar capacidad de pago con los recibos de nómina emitidos por la Entidad Pública Patronal a la que se encuentre adscrito, así como con las constancias correspondientes a los demás ingresos comprobados por alguna actividad económica adicional del solicitante o de su cónyuge. En estos casos, el Instituto podrá solicitar cualquier elemento adicional para cerciorarse de la capacidad de pago del acreditado.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2023)</small>
 
 ###### Artículo 165.
 
-El Préstamo Hipotecario no deberá pasar del ochenta y cinco por ciento del valor comercial que sea fijado sobre el inmueble, por los peritos acreditados ante el Instituto en los términos que determinen las disposiciones reglamentarias aplicables.
+El Préstamo Hipotecario no podrá rebasar el noventa por ciento del valor comercial fijado al inmueble según el avalúo practicado por un perito acreditado ante el Instituto, o bien del precio pactado para la compraventa. Cuando exista disparidad entre uno y otro, el porcentaje se calculará en relación con el que resulte menor.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+Cuando el préstamo se solicite para la adquisición de casa habitación o departamento y el importe de la operación total; esto es, incluyendo el valor de la cosa, el pago de los impuestos, gastos de escrituración y seguros contratados, conforme al valor del avalúo o el precio de la compraventa, según lo que resulte menor, no exceda de doscientas sesenta veces el valor mensual de la unidad de medida y actualización, el crédito podrá cubrir hasta el noventa y cinco por ciento del importe.
 
 ###### Artículo 166.
 
@@ -2082,6 +2086,12 @@ I. Las aportaciones que deberán realizar las Entidades Públicas Patronales;
 II. Las aportaciones que haga el propio Instituto al fondo, según su presupuesto anual autorizado por la Junta Directiva; y
 
 III. Los rendimientos que se obtengan de las Inversiones de los recursos a que se refieren las Fracciones anteriores.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+###### Artículo 178 Bis.
+
+Con el fin de dar mayores facilidades para la adquisicón de los créditos a que se refiere esta sección, anualmente la Junta Directiva emitirá los lineamientos generales a fin de adoptar las medidas necesarias para garantizar la competitividad y accesibilidad en la adquisición de vivienda. Por tanto, a la vista de razones justificadas, podrá incluso asumir acciones excepcionales para flexibilizar las bases contenidas en los artículos que anteceden, siempre que se trate de medidas generales que contribuyan a garantizar de forma óptima los derechos de los trabajadores al servicio del Estado.
 
 ###### Artículo 179.
 
@@ -2742,3 +2752,13 @@ Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decret
 ###### ARTÍCULO TERCERO.
 
 La Junta Directiva del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, deberá expedir o realizar las adecuaciones a los Reglamentos derivados de la Ley y concretará las adecuaciones orgánicas necesarias para la implementación de los cambios previstos, a más tardar 60 días después a la entrada en vigor del presente Decreto.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 279.- SE REFORMA LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. El Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado (sic) Aguascalientes, deberá realizar las adecuaciones que resulten necesarias para armonizar sus disposiciones reglamentarias de conformidad con la presente reforma, así como con la realizada mediante el Decreto 185 expedido por la presente Legislatura, dentro del plazo de noventa días contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Tercero. Hasta en tanto se realizan las adecuaciones a que se refiere el artículo anterior, las referencias contenidas en las disposiciones reglamentarias aplicables a la Dirección de Prestaciones Económicas, se entenderán hechas a la Dirección de Prestaciones, Afiliación y Medicina prevista en la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado (sic) Aguascalientes.
