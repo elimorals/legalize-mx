@@ -4,7 +4,7 @@ identifier: "VER-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-149225
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-04-08"
-last_updated: "2023-01-20"
+last_updated: "2023-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # ESTATUTO ORGANICO DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ENERO DE 2023 EN EL G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE ENERO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 24 DE ENERO DE 2023.]</small>
 
 Estatuto publicado en el Número Extraordinario Número 140 en la Gaceta Oficial del Estado de Veracruz, el jueves 8 de abril de 2021.
 
@@ -679,9 +679,9 @@ Para el desahogo de los asuntos de su competencia, quien funja como titular del 
 
 I. Organizar la celebración de convenios, foros, seminarios, cursos, concursos o cualquier algún otro de naturaleza análoga que se lleven a cabo en el marco de las atribuciones de la Secretaría Ejecutiva;
 
-> <small>(REFORMADA, G.O. 20 DE ENERO DE 2023)</small>
+(REFORMADA, G.O. 20 DE ENERO DE 2023) (F. DE E., G.O. 24 DE ENERO DE 2023)
 
-II. Dar seguimiento a la ejecución de acuerdos o convenios que celebren los entes que integran el Sistema Estatal Anticorrupción, a excepción de que expresamente se designe dicha responsabilidad al titular de otra área administrativa;
+II. Dar seguimiento a la ejecución de acuerdos o convenios que celebre la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, a excepción de que expresamente se designe dicha responsabilidad al titular de otra área administrativa;
 
 > <small>(REFORMADA, G.O. 20 DE ENERO DE 2023)</small>
 
