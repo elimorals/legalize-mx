@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-106724
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-19"
-last_updated: "2022-12-12"
+last_updated: "2023-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 19 de marzo de 2015.
 
@@ -110,6 +110,10 @@ XX Bis. Cerveza artesanal: bebida fermentada elaborada principalmente con malta 
 XXI. Cine: establecimiento que se dedica a la proyección de, películas o cortometrajes; eventos especiales; o cualquier otro tipo de producción afín, con propósito de explotación comercial, en el que cuentan con salas con equipamiento e infraestructura, servicio de restaurante completo, donde se venden bebidas alcohólicas para su consumo inmediato y en el interior del mismo;
 
 XXII. Clasificación: denominación que se asigna a cada uno de los establecimientos a que alude esta Ley, de acuerdo a su modalidad;
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2023)</small>
+
+XXII Bis. Conductor designado: persona libre del consumo de alcohol, designada para conducir un vehículo con el propósito de transportar a una u otras personas que hayan consumido bebidas alcohólicas;
 
 XXIII. Depósitos: establecimientos comerciales dedicados a la venta de cerveza de baja graduación, en envase cerrado o por caja, para llevar;
 
@@ -589,9 +593,15 @@ XIV. Evitar las promociones como la denominada “barra libre” o a precio meno
 
 XV. Informar, capacitar, y hacer cumplir a los empleados y encargados del establecimiento sobre las disposiciones del presente Ordenamiento;
 
-XVI. Incluir en la venta de botella cerrada para consumo inmediato, por lo menos, el triple del contenido de la misma de bebidas no alcohólicas con las que se pueda mezclar, además del hielo, y
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2023)</small>
 
-XVII. Las demás que señalen esta Ley y otras disposiciones aplicables, sean federales, estatales o municipales.
+XVI. Incluir en la venta de botella cerrada para consumo inmediato, por lo menos, el triple del contenido de la misma de bebidas no alcohólicas con las que se pueda mezclar, además del hielo;
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2023)</small>
+
+XVII. Impulsar la práctica del conductor designado, ofreciendo, en la medida de sus posibilidades, beneficios para quien asuma ese rol, y
+
+XVIII. Las demás que señalen esta Ley y otras disposiciones aplicables, sean federales, estatales o municipales.
 
 ###### ARTÍCULO 33.
 
@@ -928,3 +938,11 @@ P.O. 12 DE DICIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0676.- SE REFORMA EL ARTÍCULO 32 EN SU FRACCIÓN XVI; Y ADICIONA A LOS ARTÍCULOS 2º LA FRACCIÓN XXII BIS Y 32 UNA FRACCIÓN, ÉSTA COMO XVII, DE LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
