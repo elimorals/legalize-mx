@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2022-12-27"
+last_updated: "2023-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -789,9 +789,11 @@ Para garantizar este derecho, se establece como edad legal para contraer matrimo
 
 ### CAPÍTULO VIII. DEL DERECHO DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA Y A LA INTEGRIDAD PERSONAL
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 42.
 
-Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones para favorecer su bienestar y el libre desarrollo de su personalidad.
+Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia, a recibir protección, orientación, educación cuidado y crianza de la madre, el padre, otros familiares o de quienes ejerzan la patria potestad, tutela, o guarda y custodia; a fin de que se resguarde su integridad personal para lograr las mejores condiciones y favorecer su bienestar y el libre desarrollo de su personalidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1071,9 +1073,13 @@ XV. Establecer mecanismos para su expresión y participación, conforme a su eda
 
 XVI. Contribuir a garantizar su permanencia y conclusión de la educación obligatoria y para abatir el ausentismo, abandono y deserción escolares;
 
-XVII. Administrar la disciplina escolar de modo compatible con la dignidad humana, impidiendo la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a la dignidad humana o atenten contra su vida o integridad física o mental;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2023)</small>
 
-XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
+XVII. Administrar la disciplina escolar de modo compatible con la dignidad humana, prohibiendo la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a la dignidad humana o atenten contra su vida, su integridad física o mental, incluyendo la imposición del castigo corporal, el trato humillante o degradante;
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2023)</small>
+
+XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad de las niñas, niños y adolescentes, especialmente el castigo corporal y los tratos humillantes y degradantes;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1511,9 +1517,11 @@ I. Tener y conservar su patria potestad, tutela o guarda y custodia;
 
 II. Ser el principal responsable respecto de su desarrollo integral que estén bajo su cuidado; y ser reconocido y tomado en cuenta como tales por las autoridades y la sociedad;
 
-III. Fijar las normas que guíen el proceso formativo y positivo para su desarrollo integral;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2023)</small>
 
-IV. Dirigir su proceso educativo de acuerdo a sus propias convicciones morales y religiosas;
+III. Fijar las normas que guíen el proceso formativo y positivo para su desarrollo integral, así como la promoción de disciplinas o métodos educativos no violentos, crianza positiva, educación y fomento de la participación de la sociedad en la concientización acerca del castigo corporal y sus consecuencias;
+
+IV. (DEROGADA, P.O. 24 DE ENERO DE 2023)
 
 V. Mantener comunicación de forma oportuna;
 
@@ -1545,11 +1553,17 @@ I. Que quienes ejerzan la patria potestad, tutela o guarda y custodia, los cuide
 
 II. Que las autoridades migratorias verifiquen la existencia de la autorización de quienes ejerzan la patria potestad, tutela o, en su caso, del órgano jurisdiccional competente, que permita la entrada y salida de niñas, niños o adolescentes del territorio nacional, conforme a las disposiciones aplicables;
 
-III. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstengan de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas, y
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+III. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstengan de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso, explotación, así como el castigo corporal, y humillante, en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas;
 
-IV. Queda prohibido que quienes tengan trato con niñas, niños y adolescentes ejerzan cualquier tipo de violencia en su contra, en particular el castigo corporal y humillante.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2023)</small>
+
+IV. Queda prohibido que quienes tengan trato con niñas, niños y adolescentes ejerzan cualquier tipo de violencia en su contra, en particular el castigo corporal y humillante, y
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2023)</small>
+
+V. Que promuevan, coordinen, elaboren, y ejecuten, políticas públicas de prevención y erradicación del castigo corporal, y humillante. Garantizando el acceso público y gratuito a programas de atención, contención y asistencia a los niños, niñas y adolescentes que hayan sido víctimas de castigo físico o corporal en todas sus formas.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -2696,5 +2710,13 @@ P.O. 27 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0568.- SE REFORMA EL ARTÍCULO 30 TER EN SU PÁRRAFO TERCERO; Y ADICIONA AL MISMO ARTÍCULO 30 TER UN PÁRRAFO, ESTE COMO CUARTO, POR LO QUE ACTUALES, CUARTO, Y QUINTO, PASAN A SER PÁRRAFOS, QUINTO, Y SEXTO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0675.- SE REFORMAN LOS ARTÍCULOS 12 Y 293 EN SUS FRACCIONES V Y VI; Y ADICIONA (SIC) LOS ARTÍCULOS 268 BIS Y 268 TER Y AL ARTÍCULO 293, LA FRACCIÓN VII, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 42, 53 EN SUS FRACCIONES XVII Y XVIII, 93 EN SU FRACCIÓN III Y 94 EN SUS FRACCIONES III Y IV; ADICIONA AL ARTÍCULO 94, LA FRACCIÓN V; Y DEROGA DEL ARTÍCULO 93, LA FRACCIÓN IV, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
