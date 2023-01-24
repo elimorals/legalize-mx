@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-examen-profesional-de-los-primeros-14708"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-23"
-last_updated: "1999-08-23"
+last_updated: "2023-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14708&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1999-08-17"
 ---
 # REGLAMENTO PARA EL EXAMEN PROFESIONAL DE LOS PRIMEROS MAESTRES PASANTES EGRESADOS DE LA ESCUELA DE ENFERMERIA DE LA ARMADA DE MEXICO
 
-REGLAMENTO PARA EL EXAMEN PROFESIONAL DE LOS PRIMEROS MAESTRES PASANTES EGRESADOS DE LA ESCUELA DE ENFERMERIA DE LA ARMADA DE MEXICO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO PARA EL EXAMEN PROFESIONAL DE LOS PRIMEROS MAESTRES PASANTES DE LA LICENCIATURA EN ENFERMERÍA NAVAL, PUBLICADO EN EL D.O.F. DE 24 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO PARA EL EXAMEN PROFESIONAL DE LOS PRIMEROS MAESTRES PASANTES EGRESADOS DE LA ESCUELA DE ENFERMERÍA DE LA ARMADA DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2023 (DEROGADO).
 
 Reglamento publicado en Sección Primera del Diario Oficial de la Federación, el lunes 23 de agosto de 1999.
 
@@ -462,3 +464,17 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se abroga el Reglamento para las Prácticas y Examen Profesional de los Guardiamarinas, publicado en el Diario Oficial de la Federación el 3 de julio de 1978.
 
 Dado en la Residencia Oficial del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de agosto de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO PARA EL EXAMEN PROFESIONAL DE LOS PRIMEROS MAESTRES PASANTES DE LA LICENCIATURA EN ENFERMERÍA NAVAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan el artículo tercero del Decreto por el que se expiden los Reglamentos para el Examen Profesional de los Egresados de Diversas Escuelas de la Armada de México, publicado el 23 de agosto de 1999 en el Diario Oficial de la Federación, así como todas aquellas disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO. Los trámites que se encuentren pendientes de resolución al momento de la entrada en vigor del presente Decreto, se resolverán conforme a las disposiciones vigentes al momento de su presentación.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado a la Secretaría de Marina, por lo que no requerirá recursos adicionales para el ejercicio fiscal que se trate.
