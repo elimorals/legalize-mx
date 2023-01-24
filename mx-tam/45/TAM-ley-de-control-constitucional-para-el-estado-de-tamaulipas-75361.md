@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-control-constitucional-para-el-estado-de-tamaulipas-7536
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-30"
-last_updated: "2021-07-14"
+last_updated: "2023-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE CONTROL CONSTITUCIONAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2023 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 30 de marzo de 2010.
 
@@ -744,3 +744,19 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 65-530 MEDIANTE EL CUAL SE ABROGA LA LEY DE CONTROL CONSTITUCIONAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos (acciones de inconstitucionalidad y controversias constitucionales) iniciados, se remitirán a la Suprema Corte de Justicia de la Nación para su conocimiento hasta en tanto se aprueben las nuevas disposiciones en la materia.
