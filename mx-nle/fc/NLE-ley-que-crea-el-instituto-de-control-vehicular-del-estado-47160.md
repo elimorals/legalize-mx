@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2023-01-13"
+last_updated: "2023-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -72,6 +72,10 @@ VI. Exigir el cumplimiento de las obligaciones relacionadas al control vehicular
 VII. Recaudar, fiscalizar y administrar las contribuciones, productos y aprovechamientos que se generen por la prestación de los servicios que formen parte de su objeto, así como celebrar con toda clase de autoridades y terceros los convenios que estime necesarios para la realización de estas tareas;
 
 VIII. Auxiliar al Estado y sus municipios, en la recaudación y fiscalización de las contribuciones federales, estatales y municipales en los términos de los convenios que tengan celebrados en materia vehicular;
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2023)</small>
+
+VIII Bis. Proponer al Ejecutivo del Estado, los estímulos fiscales aplicables a los contribuyentes que cuenten con vehículos eléctricos o híbridos, a efecto de que este pueda contemplarlos en la propuesta de Ley de ingresos de cada ejercicio fiscal.
 
 IX. Dictar las bases y normas relativas a la generación, captación, procesamiento y divulgación de la información relacionada con el control vehicular, así como realizar estudios, elaborar estadística, y en general, aprovechar y difundir la información pública contenida en los registros que administre;
 
@@ -886,3 +890,9 @@ P.O. 13 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 295. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO; Y SE REFORMA LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN, EN SU ARTÍCULO 1, PRIMER PÁRRAFO, Y LA ADICIÓN DE UN ARTÍCULO VIGÉSIMO TERCERO TRANSITORIO".]
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de enero del año 2023.
+
+P.O. 24 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 277. SE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 3 DE LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
