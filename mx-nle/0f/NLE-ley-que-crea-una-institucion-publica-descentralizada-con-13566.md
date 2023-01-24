@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-una-institucion-publica-descentralizada-con-13566"
 country: "mx"
 rank: "ley"
 publication_date: "1956-05-09"
-last_updated: "2022-10-21"
+last_updated: "2023-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA UNA INSTITUCIÓN PÚBLICA DESCENTRALIZADA CON PERSONALIDAD JURÍDICA PROPIA Y CON DOMICILIO EN LA CIUDAD DE MONTERREY QUE SE DENOMINA "SERVICIOS DE AGUA Y DRENAJE DE MONTERREY"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 9 de mayo de 1956.
 
@@ -99,9 +99,17 @@ IV. Conocer y resolver de los asuntos de carácter administrativo y laboral rela
 
 V. Presentar al Consejo de Administración de la Institución, a más tardar en el mes de octubre de cada año, los presupuestos de ingresos y egresos para el año siguiente, así como el programa de trabajo y financiamientos requeridos para el mismo periodo;
 
-VI. Presentar al Consejo de Administración los estados financieros y el informe de actividades del ejercicio anterior, dentro de los dos primeros meses del año; y,
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2023)</small>
 
-VII. Las demás que le confieran el Consejo de Administración, ésta y las demás leyes y reglamentos vigentes en el Estado.
+VI. Presentar al Consejo de Administración los estados financieros y el informe de actividades del ejercicio anterior, dentro de los dos primeros meses del año;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2023)</small>
+
+VII. En caso de que se emita una declaratoria de emergencia por sequía, proponer al Consejo de Administración la realización de acciones complementarias para hacer frente a la misma; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE ENERO DE 2023)</small>
+
+VIII. Las demás que le confieran el Consejo de Administración, ésta y las demás leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 6o.
 
@@ -322,3 +330,9 @@ P.O 21 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 243. SE ADICIONA UN ARTÍCULO 26 BIS A LA LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEÓN; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 17 DE LA LEY QUE CREA UNA INSTITUCIÓN PÚBLICA DESCENTRALIZADA CON PERSONALIDAD JURÍDICA PROPIA Y CON DOMICILIO EN LA CIUDAD DE MONTERREY QUE SE DENOMINARÁ “SERVICIOS DE AGUA Y DRENAJE DE MONTERREY”.]
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 275. SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 5 BIS Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 5 BIS, DE LA LEY QUE CREA UNA INSTITUCIÓN PÚBLICA DESCENTRALIZADA CON PERSONALIDAD JURÍDICA PROPIA Y CON DOMICILIO EN LA CIUDAD DE MONTERREY QUE SE DENOMINARÁ “SERVICIOS DE AGUA Y DRENAJE DE MONTERREY”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
