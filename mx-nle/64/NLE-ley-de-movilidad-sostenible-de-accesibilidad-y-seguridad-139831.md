@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-movilidad-sostenible-de-accesibilidad-y-seguridad-139831
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-08"
-last_updated: "2022-11-25"
+last_updated: "2023-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de enero de 2020.
 
@@ -1461,9 +1461,17 @@ VII. Presentar ante el Instituto los vehículos a revisión físico mecánico el
 
 VIII. Proporcionar al Instituto la información que corresponda la información (sic), informes, documentos técnicos o estadísticos que se le solicite para conocer y evaluar la forma de prestación del servicio;
 
-IX. Portar de manera visible en el vehículo del servicio público y especial de transporte, la Constancia de inscripción al Registro Público Vehicular, así como las placas de circulación correspondientes, o en su caso, el permiso para circular sin las mismas; y
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2023)</small>
 
-X. Contar con terminales para la salida y llegada de sus vehículos, así como lugares para el estacionamiento, pernocta y mantenimiento, fuera de la vía pública.
+IX. Portar de manera visible en el vehículo del servicio público y especial de transporte, la Constancia de inscripción al Registro Público Vehicular, así como las placas de circulación correspondiente, o en su caso, el permiso para circular sin las mismas;
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2023)</small>
+
+X. Contar con terminales para la salida y llegada de sus vehículos, así como lugares para el estacionamiento, pernocta y mantenimiento, fuera de la vía pública; y
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2023)</small>
+
+XI. Contar con asientos específicamente designados para el uso preferente de mujeres embarazadas, personas con discapacidad, y adultos mayores.
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2020)</small>
 
@@ -3182,3 +3190,11 @@ P.O. 25 DE NOVIEMBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Gobierno del Estado y los Municipios tendrán un plazo de noventa días hábiles contados a partir de la vigencia del presente Decreto para adecuar sus Reglamentos.
+
+P.O. 24 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 276. SE REFORMAN LAS FRACCIONES IX Y X, DEL ARTÍCULO 75, Y SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 75, TODOS DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los responsables del SETRA contarán con un plazo de un año contado a partir de la entrada en vigor del presente Decreto para adecuar sus unidades a los lineamientos que establece el presente Decreto.
