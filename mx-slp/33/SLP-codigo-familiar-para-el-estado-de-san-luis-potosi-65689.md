@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2022-12-02"
+last_updated: "2023-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2023.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -125,11 +125,13 @@ Las y los menores de edad miembros de la familia, tienen el derecho esencial de 
 
 Para efectos de salvaguarda de ese derecho, en caso de separación, los padres están obligados a evitar conductas de alienación parental, que se define como la manipulación o inducción que un progenitor realiza hacia su hijo, mediante la desaprobación o crítica tendiente a producir en el menor, rechazo, rencor, odio, miedo o desprecio hacia el otro progenitor.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2023)</small>
 
 ###### ARTICULO 12.
 
-Las y los miembros de la familia están obligados a evitar toda conducta de violencia familiar que tenga por efecto causar un daño a otra persona. La violencia familiar se define como el uso de la fuerza física o moral, o las omisiones que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica, sexual, o las tres, y que produzca o no lesiones.
+Las y los miembros de la familia están obligados a evitar toda conducta de violencia familiar, que tenga por efecto causar un daño a otro integrante de la misma.
+
+La violencia familiar se define como el uso de la fuerza física o moral, o las omisiones que ejerza una persona integrante de la familia en contra de otra persona de la misma, así como cualquier acto que tenga como objetivo provocar dolor, molestia o humillación, incluyendo el castigo corporal y el trato humillante, o las omisiones graves que atenten contra su integridad física, psíquica y emocional independientemente de que pueda producir o no lesiones.
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
@@ -1849,6 +1851,14 @@ El Ministerio Público vigilará que se cumpla con esta disposición.
 
 La patria potestad es el conjunto de derechos y deberes reconocidos y otorgados por la ley a la madre y al padre, o abuelos por ambas líneas en relación a sus hijas, hijos, o nietas, o nietos, para cuidarlos, protegerlos y educarlos, debiendo imperar el respeto y la consideración mutuos, cualquiera que sea su estado y condición, hasta antes de alcanzar la mayoría de edad, así como la obligación de observar una conducta que sirva a éstos de buen ejemplo. La patria potestad se ejerce, además, sobre los bienes de quienes estén sujetos a ella.
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2023)</small>
+
+ARTICULO 268 BIS. Las personas integrantes de la familia, en particular niñas, niños y adolescentes, tienen derecho a que los demás miembros les respeten su dignidad e integridad personal; a recibir afecto y buen trato; a ser protegido; ser educado, y criado con métodos no violentos, basados en la crianza positiva, el amor, el diálogo y el respeto. Al efecto, contará con la asistencia y protección de las instituciones públicas estatales de acuerdo con las leyes.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2023)</small>
+
+ARTICULO 268 TER. Se prohíbe que la madre, el padre, otros familiares, o quienes ejerzan la patria potestad, tutela, guarda, o custodia, impongan como método correctivo o disciplinario, el castigo corporal; humillante; o cualquier tipo de práctica que lesione la integridad personal de la niña, niño, o adolescente, de conformidad con lo dispuesto en el artículo 92 de la Ley de Derechos de Niñas, Niños y Adolescentes de San Luis Potosí.
+
 ###### ARTICULO 269.
 
 Quienes estén sujetos a la patria potestad tendrán derecho a vivir con el ascendiente que tenga su custodia, a convivir con sus ascendientes, aún en el caso de que éstos no vivan juntos, por lo que la autoridad judicial deberá tomar siempre las medidas necesarias para proteger los derechos de convivencia.
@@ -2039,9 +2049,27 @@ III. Por la desatención de manera intencional y sin causa justificada, de las o
 
 IV. Cuando por resolución judicial se hubiere suspendido el ejercicio de la patria potestad por más de una vez;
 
-V. Por la comisión del, o los actos ejecutados por quien ejerce la patria potestad que pueda corromper a la o el menor, o
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2023)</small>
 
-VI. Por padecer, quien ejerza la patria potestad, enajenación mental incurable, previa declaración de estado de interdicción.
+V. Por la comisión del, o los actos ejecutados por quien ejerce la patria potestad que pueda corromper a la o el menor;
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2023)</small>
+
+VI. Por padecer, quien ejerza la patria potestad, enajenación mental incurable, previa declaración de estado de interdicción, y
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2023)</small>
+
+VII. Por la imposición de:
+
+a) Castigos corporales o físicos, por cualquier medio y en cualquiera de sus manifestaciones;
+
+b) Agresiones.
+
+c) Tortura.
+
+d) Tratos crueles, inhumanos, degradantes, violentos, abusivos o humillantes, o
+
+e) Todo tipo de práctica que lesione la integridad personal de los niños, niñas y adolescentes.
 
 ###### ARTICULO 294.
 
@@ -3766,5 +3794,13 @@ P.O. 2 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0542.- SE REFORMAN LOS ARTÍCULOS 9°, 13 Y 91; Y ADICIONA AL ARTÍCULO 92 EL PÁRRAFO CUARTO, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 205 EN SU PÁRRAFO ÚLTIMO Y 205 BIS EN SUS FRACCIONES IV Y V, Y EN LA PARTE ESPECIAL EN EL TÍTULO SEXTO LA DENOMINACIÓN DEL CAPÍTULO VI; Y ADICIONA AL ARTÍCULO 205 BIS LA FRACCIÓN VI Y EN LA PARTE ESPECIAL EN EL TÍTULO SEXTO EL CAPÍTULO VII “INCESTO”, CON EL ARTÍCULO 207 BIS, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0675.- SE REFORMAN LOS ARTÍCULOS 12 Y 293 EN SUS FRACCIONES V Y VI; Y ADICIONA LOS ARTÍCULOS 268 BIS Y 268 TER Y AL ARTÍCULO 293, LA FRACCIÓN VII, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 42, 53 EN SUS FRACCIONES XVII Y XVIII, 93 EN SU FRACCIÓN III Y 94 EN SUS FRACCIONES III Y IV; ADICIONA AL ARTÍCULO 94, LA FRACCIÓN V; Y DEROGA DEL ARTÍCULO 93, LA FRACCIÓN IV, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
