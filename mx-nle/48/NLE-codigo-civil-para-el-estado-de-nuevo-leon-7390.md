@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2023-01-18"
+last_updated: "2023-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -15117,13 +15117,21 @@ Los asociados solo podrán ser excluidos de la sociedad por las causas que seña
 
 Los asociados que voluntariamente se separen o que fueren excluídos, perderán todo derecho al haber social.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2023)</small>
+
 ###### Art. 2576.
 
-Los socios tienen derecho de vigilar que las cuotas se dediquen al fin que se propone la asociación y con ese objeto pueden examinar los libros de contabilidad y demás papeles de ésta.
+Los asociados tienen derecho de vigilar que las cuotas se dediquen al fin que se propone la asociación y con ese objeto pueden examinar los libros de contabilidad y demás papeles de ésta.
+
+Respecto del cobro de cuotas, aportaciones ordinarias, extraordinarias y multas, de los asociados de asociaciones civiles, se realizará por la vía procesal de la legislación aplicable, anexando la certificación contable que contenga la cantidad líquida del adeudo, elaborada por contador público con cédula profesional expedida por la Secretaría de Educación, nombrado por quien tenga a su cargo la Administración o Dirección de la persona moral; siempre y cuando existan tres cuotas ordinarias insolutas o una aportación extraordinaria o multa sin pagar.
+
+No se despachará ejecución por las cuotas y aportaciones no vencidas al momento de presentar la demanda; pero eso no impedirá que, al dictarse la sentencia definitiva, se condene al asociado moroso al pago de estas.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2023)</small>
 
 ###### Art. 2577.
 
-La calidad de socio es intransferible.
+La calidad de asociado es intransferible.
 
 ###### Art. 2578.
 
@@ -17862,3 +17870,9 @@ TERCERO.- La Secretaría de salud dispondrá de 30 días hábiles posteriores a 
 CUARTO.- La constancia señalada en la fracción VIII del artículo 94, se comenzará a solicitar a partir de los 90 días hábiles posteriores a la entrada en vigor del presente Decreto.
 
 QUINTO.- Toda referencia al apellido paterno y apellido materno, deberá entenderse como primer apellido y segundo apellido.
+
+P.O. 25 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 329. SE REFORMAN LOS ARTÍCULOS 2576 Y 2577 DEL CÓDIGO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
