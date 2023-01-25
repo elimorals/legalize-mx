@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2021-05-21"
+last_updated: "2023-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -651,15 +651,27 @@ Los servidores públicos adscritos a las tesorerías municipales brindarán a lo
 
 El impuesto predial podrá ser pagado total o parcialmente en dinero o en especie, siempre y cuando el bien o bienes entregados al Municipio con el objetivo de saldar el adeudo de dicho impuesto, tenga como finalidad el fomento a la protección del medio ambiente mediante materiales que puedan ser reciclados o reusados, de conformidad con el listado de materiales que establezca cada Municipio y que deberán publicar en el Periódico Oficial del Estado de Nuevo León.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2023)</small>
 
 ###### ARTICULO 21 Bis 12-C.
 
-Los Municipios, en el ámbito de sus posibilidades, establecerán programas de recaudación fiscal del impuesto predial con la finalidad de fomentar la cultura del medio ambiente, mediante mecanismos de reciclaje o reúso de los materiales que estime la autoridad.
+Los Municipios, en el ámbito de sus posibilidades, establecerán programas de recaudación fiscal del impuesto predial con la finalidad de fomentar la cultura del medio ambiente, mediante mecanismos de reciclaje o reúso de materiales, así como por el uso de Ecotecnologías.
 
-Las personas físicas que acrediten ser propietarias de inmuebles de uso habitacional, tendrán derecho a la reducción del Impuesto Predial:
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2023)</small>
 
-I) De hasta 10% a los que realicen la naturación del techo de su vivienda, siempre y cuando el sistema de naturación ocupe tres cuartas partes del total de la superficie del techo y cumpla con lo dispuesto en el reglamento municipal correspondiente.
+Las personas físicas que acrediten ser propietarias de inmuebles de uso habitacional tendrán derecho a un descuento en el impuesto predial, el cual será establecido por cada Administración Municipal, bajo las reglas de operación que determine.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2023)</small>
+
+Los descuentos serán aplicables a las personas que:
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2023)</small>
+
+I. Realicen la naturación de cualquier superficie horizontal o vertical, individual o agrupada de su vivienda, siempre y cuando el sistema de naturación ocupe tres cuartas partes del total de la misma y cumpla con lo dispuesto en el reglamento municipal correspondiente; y
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
+
+II. Acrediten la utilización de calentadores solares, sistemas de captación, filtración y uso de aguas pluviales y paneles solares.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
@@ -4010,3 +4022,13 @@ P.O. 21 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 501. SE REFORMA EL ARTÍCULO 65 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 307. SE REFORMA (SIC) LOS PÁRRAFOS PRIMERO, SEGUNDO Y LA FRACCIÓN I, Y SE ADICIONA UN PÁRRAFO TERCERO Y LA FRACCIÓN II DEL ARTÍCULO 21 BIS 12-C DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN.”]
+
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero de 2023.
+
+SEGUNDO.- Los Ayuntamientos de los Municipios en un plazo no mayor a los 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán ajustar sus reglamentos y demás ordenamientos aplicables a las disposiciones del presente Decreto.
+
+TERCERO.- Envíese al Ejecutivo para su publicación en el Periódico Oficial del Estado.
