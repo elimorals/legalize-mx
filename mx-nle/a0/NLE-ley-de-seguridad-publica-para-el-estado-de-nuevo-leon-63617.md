@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2022-06-10"
+last_updated: "2023-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -1640,6 +1640,10 @@ VIII. Los Titulares de las Instituciones Policiales Municipales.
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 Al Titular del Poder Ejecutivo del Estado le compete proteger la seguridad de las personas, sus bienes y derechos; así como mantener la paz, la tranquilidad y el orden público en todo el Estado, por conducto de las Dependencias que conforme a la Ley Orgánica de la Administración Pública del Estado deban ejercer esa atribución.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2023)</small>
+
+Las autoridades competentes del Estado podrán solicitar a los concesionarios de telefonía móvil la difusión de los boletines o alertas que emitan para la búsqueda y localización de las personas desaparecidas o no localizadas, con base en los convenios de colaboración que para tal efecto se celebren.
 
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
@@ -3922,3 +3926,11 @@ P.O. 10 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 128. SE ADICIONAN LOS ARTÍCULOS 32 BIS 2 Y 32 BIS 3 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 314. SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 122 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
