@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-derecho-a-la-alimentacion-adecuada-y-combate-contra-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2022-03-28"
+last_updated: "2023-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124575&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL DERECHO A LA ALIMENTACIÓN ADECUADA Y COMBATE CONTRA EL DESPERDICIO DE ALIMENTOS PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2023.
 
 Ley publicada en la Sección Cuarta al Número 142 del Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -111,9 +111,17 @@ XIV. Secretaría de Salud: La Secretaría de Salud del Estado de Nuevo León;
 
 XV. Secretaría de Desarrollo Agropecuario: La Secretaría de Desarrollo Agropecuario del Estado de Nuevo León;
 
-XVI. Seguridad alimentaria: Situación que se da cuando todas las personas tienen, en todo momento, acceso físico, social y económico a suficientes alimentos inocuos y nutritivos para satisfacer sus necesidades alimenticias y sus preferencias en cuanto a los alimentos a fin de llevar una vida activa y sana, de acuerdo con los criterios del Consejo de Evaluación de la Política de Desarrollo Social y la Organización de la Naciones Unidas para la Alimentación y la Agricultura; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2023)</small>
 
-XVII. Voluntario: Persona que sin fines de retribución o lucro y de manera altruista desempeña una labor dentro de los Bancos de Alimentos.
+XVI. Seguridad alimentaria: Situación que se da cuando todas las personas tienen, en todo momento, acceso físico, social y económico a suficientes alimentos inocuos y nutritivos para satisfacer sus necesidades alimenticias y sus preferencias en cuanto a los alimentos a fin de llevar una vida activa y sana, de acuerdo con los criterios del Consejo de Evaluación de la Política de Desarrollo Social y la Organización de la (sic) Naciones Unidas para la Alimentación y la Agricultura;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2023)</small>
+
+XVII. Voluntario: Persona que sin fines de retribución o lucro y de manera altruista desempeña una labor dentro de los Bancos de Alimentos; y
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
+
+XVIII. Comunidades rurales: Población que habita en un área rural con actividades económicas preponderantemente primarias, áreas conurbadas y áreas urbanas que realicen primordialmente actividades agropecuarias, forestales, de acuacultura o de transformación agroindustrial.
 
 ### CAPITULO II. DE LAS COMPETENCIAS COMPETENCIA (SIC) DE LAS AUTORIDADES
 
@@ -193,7 +201,9 @@ VIII. Brindar orientación alimentaria en términos de la Norma Oficial Mexicana
 
 IX. Divulgar la información a los beneficiarios sobre el contenido nutrimental de los alimentos, sugerencias de consumo o modo de preparación, así como las condiciones adecuadas de conservación;
 
-X. Determinar si proceden los apoyos, siendo prioritario apoyar a las personas en situación de pobreza extrema, de tal manera que además se garantice el apoyo a las personas que se encuentren en vulnerabilidad o pobreza;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2023)</small>
+
+X. Determinar si proceden los apoyos, siendo prioritario apoyar a las personas en situación de pobreza extrema, de tal manera que además se garantice el apoyo a las personas que se encuentren en vulnerabilidad o pobreza, así como destinar al menos un 20% del alimento a la población de las comunidades rurales del Estado;
 
 XI. Suscribir, en su caso, los convenios señalados en el artículo 9 de la presente Ley;
 
@@ -269,9 +279,17 @@ Corresponde a la Secretaría de Desarrollo Agropecuario del Estado, de conformid
 
 I. Difundir entre los productores del sector agropecuario sobre los beneficios de esta Ley, y su aplicación;
 
-II. Llevar a cabo la revisión de la inocuidad de los alimentos que quieran ser donados por productores del sector agropecuario; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2023)</small>
 
-III. Recibir los avisos de no operatividad de recolección de cultivos de las Entidades Alimentarias del ramo agrícola, a fin de ser canalizados para su donación.
+II. Llevar a cabo la revisión de la inocuidad de los alimentos que quieran ser donados por productores del sector agropecuario;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2023)</small>
+
+III. Recibir los avisos de no operatividad de recolección de cultivos de las Entidades Alimentarias del ramo agrícola, a fin de ser canalizados para su donación; y
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
+
+IV. Coadyuvar con la autoridad competente a fin de facilitar el traslado y entrega del apoyo asignado, según la fracción X del artículo 12 de la presente Ley.
 
 ### CAPITULO VII. DE LOS BENEFICIARIOS
 
@@ -436,3 +454,9 @@ P.O. 28 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 104. SE REFORMA LAS FRACCIONES XI Y XIII DEL ARTÍCULO 6, LOS ARTÍCULOS 7, 8, 11, LA FRACCIÓN XV DEL ARTÍCULO 12, LA DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO SEGUNDO, ASÍ COMO LOS ARTÍCULOS 13, 27, 28 Y 29, DE IGUAL FORMA SE REFORMA POR ADICIÓN UN ARTÍCULO 25 BIS, TODOS DE LA LEY DEL DERECHO A LA ALIMENTACIÓN ADECUADA Y COMBATE CONTRA EL DESPERDICIO DE ALIMENTOS PARA EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 282. SE REFORMAN LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 6; LA FRACCIÓN X DEL ARTÍCULO 12; LAS FRACCIONES II Y III DEL ARTÍCULO 15; POR ADICIÓN LA FRACCIÓN XVIII AL ARTÍCULO 6; Y LA FRACCIÓN IV AL ARTÍCULO 15, TODOS DE LA LEY DEL DERECHO A LA ALIMENTACIÓN ADECUADA Y COMBATE CONTRA EL DESPERDICIO DE ALIMENTOS PARA EL ESTADO DE NUEVO LEÓN."]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
