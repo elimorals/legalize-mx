@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-y-bienestar-animal-para-la-116690"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-28"
-last_updated: "2023-01-11"
+last_updated: "2023-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 28 de septiembre de 2016.
 
@@ -1431,15 +1431,15 @@ III. Los datos que permitan identificar al presunto infractor y el lugar donde s
 
 IV. Las pruebas que en su caso ofrezca el denunciante.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2023)</small>
 
-La denuncia deberá ser ratificada de manera presencial, por escrito, vía telefónica o vía electrónica dentro de los tres días siguientes a su presentación, proporcionando el denunciante todos los datos necesarios a la autoridad competente para dar certeza del hecho y de la identidad del denunciante.
+La denuncia deberá ser ratificada de manera presencial, por escrito, vía telefónica o vía electrónica dentro de los tres días siguientes a su presentación, proporcionando el denunciante todos los datos necesarios a la autoridad competente para dar certeza del hecho y de la identidad del denunciante. Con el fin de facilitar y propiciar la captación de denuncias ciudadanas la autoridad competente deberá habilitar en su portal de internet un mecanismo para la recepción y seguimiento de denuncias.
 
 Si el denunciante solicita a la autoridad guardar secreto respecto de su identidad, por razones de seguridad o interés particular, aquella quedará obligada a reservar la información personal del denunciante.
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2023)</small>
 
-En caso de que la denuncia no cumpla con los requisitos establecidos en este artículo, será desechada.
+En caso de que la denuncia no cumpla con los requisitos establecidos en este artículo, será desechada, al menos que se trate de denuncias ciudadanas anónimas, mismas que serán recibidas conforme a los mecanismos que la autoridad competente habilite y que podrá tomarlas en cuenta solamente para realizar visitas de inspección, por lo que su ratificación no será necesaria.
 
 ###### Artículo 102.
 
@@ -2118,3 +2118,11 @@ P.O. 11 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 327. SE MODIFICAN LAS FRACCIONES IV Y VI DEL ARTÍCULO 29, FRACCIÓN VIII DEL ARTÍCULO 30, FRACCIÓN VI DEL ARTÍCULO 34; Y SE DEROGAN LAS FRACCIONES XXI Y IV DE LOS ARTÍCULOS 3 Y 30, RESPECTIVAMENTE, TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN".]
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 326. SE REFORMAN LOS PÁRRAFOS SEGUNDO Y CUARTO DEL ARTÍCULO 101 DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Procuraduría Estatal de Medio Ambiente de Nuevo León tendrá un plazo de 90 días a partir de la entrada en vigor del presente Decreto, para instaurar los mecanismos necesarios para que los ciudadanos puedan llevar a cabo las Denuncias Anónimas.
