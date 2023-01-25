@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2022-12-07"
+last_updated: "2023-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -581,7 +581,7 @@ Una vez instalado, el Cabildo se ocupará de desahogar el orden del día, que in
 
 I.- Designar a los Titulares de las Dependencias de la Administración Pública Municipal, así como a la Titular de la Dirección de la Instancia de la Mujer con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal, el Titular de la Seguridad Pública Municipal, los cuales serán nombrados por el Presidente; en ambos casos las designaciones tendrán que ajustarse al principio de paridad, en una proporción que no exceda el cincuenta por ciento para un mismo género. Por lo que respecta al Contralor Municipal, dicho nombramiento se sujetará a la ratificación de las dos terceras partes del Cabildo. En todo momento, el Ayuntamiento verificará que la remuneración autorizada a dichos servidores públicos no rebase los montos establecidos en la fracción V del artículo 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del estado de Morelos.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 9 DE MARZO DE 2022)</small>
+REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE ENERO DE 2023)
 
 II.- El número y denominación de las Comisiones, será determinado por los integrantes del Ayuntamiento, pero en todo caso deberán considerar las siguientes materias:
 
@@ -673,17 +673,21 @@ u) Asuntos de la Juventud;
 
 v) Transparencia, y Protección de Datos Personales, Rendición de Cuentas, Combate a la corrupción, y Archivos;
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2023)</small>
 
-w) Ciencia, Tecnología e Innovación; y,
+w) Ciencia, Tecnología e Innovación;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2023)</small>
 
-x) Participación Ciudadana.
+x) Participación Ciudadana;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2023)</small>
 
-y) Atención a personas con discapacidad,
+y) Atención a personas con discapacidad, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ENERO DE 2023)</small>
+
+z) Atención a la Diversidad Sexual.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -734,6 +738,10 @@ Para el pleno desarrollo de sus funciones ambas instancias se procurarán que cu
 > <small>(ADICIONADO, P.O. 9 DE MARZO DE 2022)</small>
 
 Artículo 24 ter.- Los ayuntamientos deberán crear una instancia de atención a las personas con discapacidad, la que tendrá la obligación de implementar las políticas públicas, programas y acciones para este sector social, en cada uno de los municipios, deberán ser encabezadas preferentemente, por personas con alguna condición de discapacidad como una medida de inclusión en los ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2023)</small>
+
+Artículo 24 Quinquies (sic).- Los ayuntamientos deberán crear una Dirección de Atención a la Diversidad Sexual, la que tendrá la obligación de implementar las políticas públicas para las poblaciones de la diversidad sexual en cada uno de los municipios, deberán ser encabezadas preferentemente, por personas de la diversidad sexual como una medida de inclusión en los ayuntamientos.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
 
@@ -1120,6 +1128,10 @@ LXX (SIC). Resolver en relación a la admisión y trámite de Iniciativas Popula
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2022)</small>
 
 LXXI. Promover los derechos humanos y diseñar e implementar políticas públicas, acciones y programas para la población de personas con discapacidad, con el objetivo de promover a su favor la Igualdad y prevenir discriminación en su contra.
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
+
+LXXI (SIC). Promover los derechos humanos y diseñar e implementar políticas públicas para la población de la diversidad sexual, con el objetivo de prevenir la violencia y discriminación en su contra.
 
 ###### Artículo 39.
 
@@ -1729,11 +1741,45 @@ k).- Un Cronista Municipal podrá ser removido del Concejo cuando incurra en vio
 
 ### CAPÍTULO I. ESTRUCTURA ADMINISTRATIVA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2023)</small>
 
 ###### Artículo 75.
 
-Cada municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con una Secretaría del Ayuntamiento; una dependencia de atención de asuntos jurídicos; una dependencia encargada de la administración de servicios internos; recursos humanos, garantizando el respeto de los derechos de los trabajadores en activo, de los pensionados, de los elementos de seguridad pública, así como de los beneficiarios de todos estos, asimismo, garantizará el control, y resguardo del archivo documental laboral y del padrón de servidores públicos y pensionistas; materiales y técnicos del municipio, una dependencia encargada de la prestación de servicios públicos municipales, una dependencia encargada de la protección ambiental y desarrollo sustentable, una dependencia encargada de la ejecución de la administración de obras públicas, de atención de asuntos migratorios y religiosos, otra de seguridad pública, tránsito municipal, un concejo de cronistas municipal, un (sic) área de información pública y protección de datos personales, una Dirección de la Instancia de la Mujer; cuando menos una Oficialia del Registro Civil, una Contraloría Municipal y una Dirección de la Instancia de Atención a Personas con Discapacidad.
+Cada municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con:
+
+a) Una Secretaría del Ayuntamiento;
+
+b) Una Tesorería;
+
+c) Una dependencia de atención de asuntos jurídicos;
+
+d) Una dependencia encargada de la administración de servicios internos;
+
+e) Recursos humanos, garantizando el respeto de los derechos de los trabajadores en activo, de los pensionados, de los elementos de seguridad pública, así como de los beneficiarios de todos éstos, asimismo, garantizará el control y resguardo del archivo documental laboral y del padrón de servidores públicos tanto del ayuntamiento como de los organismos públicos descentralizados municipales, así como de los pensionistas; materiales y técnicos del municipio;
+
+f) Una dependencia encargada de la prestación de servicios públicos municipales;
+
+g) Una dependencia encargada de la protección ambiental y desarrollo sustentable;
+
+h) Una dependencia encargada de la ejecución y administración de obras públicas;
+
+i) Una de atención de asuntos migratorios y religiosos;
+
+j) Una de seguridad pública y tránsito municipal;
+
+k) Un cronista municipal;
+
+l) Un área de información pública y protección de datos personales;
+
+m) Una Dirección de la Instancia de la mujer;
+
+n) Una Dirección de Atención a la Diversidad sexual;
+
+o) Cuando menos una Oficialía del Registro Civil;
+
+p) Una Contraloría Municipal, y
+
+q) Una Dirección de la Instancia de Atención a Personas con Discapacidad.
 
 ### CAPÍTULO II. DE LA SECRETARÍA MUNICIPAL
 
@@ -4570,3 +4616,17 @@ SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicaci
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente decreto.
 
 CUARTA. Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 25 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS SESENTA Y SEIS POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, EN MATERIA DE NO DISCRIMINACIÓN A LA DIVERSIDAD SEXUAL".]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- La designación de la persona a cargo de la Instancia de Atención a la Diversidad Sexual en las administraciones municipales actuales, será preferentemente de un trabajador en activo del ayuntamiento de que se trate, con el propósito de que no tenga un impacto presupuestal en sus finanzas.
+
+CUARTA.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
+
+QUINTA.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
