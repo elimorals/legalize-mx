@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2023-01-13"
+last_updated: "2023-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -4523,6 +4523,10 @@ VII. Copias certificadas de planos a color 5 cuotas
 
 En caso de reproducción en fotografías, cintas de video, dispositivos de archivos electrónicos o magnéticos, registros digitales, sonoros, visuales, holográficos y, en general, todos aquellos medios o soportes derivados de los avances de la ciencia y la tecnología en que obre la información que se requiera, serán proporcionados por el interesado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ENERO DE 2023)</small>
+
+Las copias certificadas en formato digital, expedidas por el Poder Judicial del Estado, quedarán exentas del pago de derechos.
+
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 En todos los casos, con excepción del Poder Judicial del Estado y de las solicitudes tramitadas en los términos que establece la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, por búsqueda y localización de documentos, archivos, y expedientes y demás información solicitada, generará 1 cuota, sin perjuicio del derecho que corresponda por las copias expedidas.
@@ -5526,3 +5530,9 @@ P.O. 13 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 295. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO; Y SE REFORMA LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN, EN SU ARTÍCULO 1, PRIMER PÁRRAFO, Y LA ADICIÓN DE UN ARTÍCULO VIGÉSIMO TERCERO TRANSITORIO”.]
 
 ÚNICO.– El presente Decreto entrará en vigor el 01 de enero del año 2023.
+
+P.O. 25 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 284. SE REFORMA EL ARTÍCULO 277 BIS DE LA LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
