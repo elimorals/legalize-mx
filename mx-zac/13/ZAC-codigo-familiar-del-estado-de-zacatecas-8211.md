@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2023-01-11"
+last_updated: "2023-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2023.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -161,15 +161,67 @@ Los extranjeros casados o que contraigan matrimonio o vivan en concubinato, domi
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2023)</small>
 
 ###### ARTICULO 9.
 
-El Registro Civil es la institución de carácter público y de interés social, a través de la cual el Estado garantiza el derecho a la identidad e inscribe y da publicidad a los actos constitutivos o modificativos del estado civil de las personas físicas o individuales en lo que corresponde a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en el territorio del Estado; así como la inscripción de las sentencias ejecutorias que ordenen la rectificación de los asientos, declaren la ausencia, la presunción de muerte o la pérdida de la capacidad para administrar bienes, y los demás actos que así lo exijan las leyes.
+El Registro Civil es la institución de carácter público y de interés social, por la cual el Estado inscribe y da publicidad a los actos constitutivos o modificativos del estado civil de las personas físicas o individuales en lo que corresponde a:
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
 
-El Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios Morosos del Estado de Zacatecas, en el que se inscribirá a las personas que hayan dejado de cumplir sus obligaciones alimentarias ordenadas por los jueces familiares y tribunales o establecidas por convenio judicial.
+I. Nacimiento;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
+
+II. Reconocimiento de hijos;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
+
+III. Adopción;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
+
+IV. Matrimonio;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
+
+V. Divorcio;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
+
+VI. Tutela;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
+
+VII. Emancipación;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
+
+VIII. Concubinato;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
+
+IX. Defunción de los mexicanos y extranjeros residentes en el territorio del Estado;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
+
+X. Levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, previa la anotación correspondiente en el acta primigenia;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
+
+XI. La inscripción de las sentencias ejecutorias que ordenen la rectificación de los asientos, declaren la ausencia, la presunción de muerte o la pérdida de la capacidad para administrar bienes;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
+
+XII. Las sentencias que ordenen el levantamiento de una nueva acta por la reasignación para la concordancia con la identidad sexo-genérica autopercibida, y
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
+
+XIII. Los demás actos que así lo exijan las leyes.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2023)</small>
+
+El Registro Civil tendrá a su cargo, además, el Registro de Deudores Alimentarios Morosos del Estado de Zacatecas, en el que se inscribirá a las personas que hayan dejado de cumplir sus obligaciones alimentarias ordenadas por los jueces familiares y tribunales o establecidas por convenio judicial.
 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
 
@@ -182,6 +234,54 @@ Se entiende por identidad al conjunto de características o elementos que distin
 ARTICULO 9 TER.- El registro expedirá una constancia donde informe si un deudor alimentario se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
 
 El Oficial del Registro Civil, una vez hecha la inscripción a que se refiere el párrafo anterior, formulará solicitud al Registro Público de la Propiedad a efecto de que se anote la constancia en los folios reales de que sea propietario el deudor alimentario moroso.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2023)</small>
+
+ARTICULO 9 QUÁTER.- Se entenderá por identidad de género la convicción personal e interna, tal como cada persona se percibe a sí misma, la cual puede corresponder o no al sexo asignado en el acta primigenia. En ningún caso será requisito acreditar intervención quirúrgica alguna, terapias u otro diagnóstico o procedimiento para el reconocimiento de la identidad de género. Los efectos de la nueva acta de nacimiento para identidad de género realizados serán oponibles a terceros desde de (sic) su levantamiento.
+
+Los derechos y obligaciones contraídas con anterioridad al proceso administrativo para el reconocimiento de identidad de género y a la expedición de la nueva acta, no se modificarán ni extinguirán con la nueva identidad jurídica de la persona, incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2023)</small>
+
+ARTICULO 9 QUINTUS.- Pueden pedir el levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género, previa la anotación correspondiente en su acta de nacimiento primigenia, las personas que requieran el reconocimiento de su identidad de género. El reconocimiento respectivo se llevará a cabo ante las instancias y las autoridades correspondientes del Registro Civil de los Municipios del Estado cumpliendo todas las formalidades que exige el presente Código.
+
+Para realizar el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, las personas interesadas deberán presentar:
+
+I. Solicitud debidamente requisitada;
+
+II. Copia certificada del acta de nacimiento primigenia para efecto de que se haga la reserva correspondiente;
+
+III. Original y copia fotostática de su identificación oficial, y
+
+IV. Comprobante de domicilio.
+
+El levantamiento se realizará en el Registro Civil del Municipio en donde nació o está registrado y se procederá, de inmediato, a hacer la anotación y la reserva correspondiente.
+
+El acta de nacimiento primigenia quedará reservada y no se publicará ni expedirá constancia alguna, salvo mandamiento judicial o petición ministerial.
+
+Una vez cumplido el trámite, se enviarán los oficios con la información, en calidad de reservada, a las dependencias, entidades y entes públicos de los tres órdenes de gobierno competentes, para los efectos legales procedentes.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2023)</small>
+
+ARTICULO 9 SEXIES.- Además de lo señalado en el artículo anterior, para el levantamiento del acta correspondiente, se deberá cumplir con los siguientes requisitos:
+
+I. Ser de nacionalidad mexicana;
+
+II. Tener al menos 18 años de edad cumplidos, y
+
+III. Desahogar en el Registro Civil, la comparecencia correspondiente y manifestar lo siguiente:
+
+a. El nombre completo y los datos registrales asentados en el acta primigenia, y
+
+b. El nombre solicitado sin apellidos y, en su caso, el género solicitado.
+
+Posterior a la realización de la comparecencia, el oficial del Registro Civil expedirá y entregará al solicitante su nueva acta de nacimiento que contenga el reconocimiento de su nueva identidad de género.
+
+Asimismo, se remitirá a la Dirección de Registro Civil del Estado de Zacatecas para que se realice la reserva del acta primigenia, se homologue la Clave Única (sic) Registro de Población ante (sic) Registro Nacional de Población (RENAPO) y demás trámites que sean necesarios.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2023)</small>
+
+ARTICULO 9 SEPTIES.- Lo establecido en los artículos 9 Quintus y 9 Sexies, también podrá realizarse en la Dirección de Registro Civil del Estado, dependiente de la Coordinación General Jurídica y, posteriormente, lo remitirá a la Oficialía del Registro Civil del Municipio de que se trate, en el cual se procederá de inmediato a hacer la anotación y la reserva correspondiente, así como a cumplir con las disposiciones previstas en este Código.
 
 ###### ARTICULO 10.
 
@@ -5326,3 +5426,13 @@ P.O. 11 DE ENERO DE 2023.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 25 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 268.- REFORMAS Y ADICIONES AL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor 60 días posteriores a su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. El Ejecutivo del Estado tendrá un plazo de 60 días, contado a partir de la entrada en vigor del presente Decreto, para adecuar sus reglamentos en la materia.
+
+Artículo tercero. Se derogan las disposiciones que contravengan el presente Decreto.
