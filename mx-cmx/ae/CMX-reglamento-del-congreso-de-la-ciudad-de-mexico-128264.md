@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2022-01-26"
+last_updated: "2023-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ENERO DE 2023.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -292,7 +292,9 @@ d) Socias, socios o empresas de las que la o el Diputado formen o hayan formado 
 
 XIV. Adecuar todas sus conductas a los ordenamientos respectivos y evitar que los recursos económicos, humanos, materiales y telemáticos de que disponga para el ejercicio de su cargo, se destinen a otros fines;
 
-XV. Mantener un vínculo permanente con sus representadas o representados y atender los intereses de las y los ciudadanos, promover y gestionar la solución de los problemas y necesidades colectivas ante las autoridades competentes a través de un Módulo Legislativo de Atención y Quejas Ciudadana en el distrito o circunscripción para el que haya sido electo;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2023)</small>
+
+XV. Mantener un vínculo permanente con sus representadas o representados y atender los intereses de las y los ciudadanos, promover y gestionar la solución de los problemas y necesidades colectivas ante las autoridades competentes a través de un Módulo Legislativo de Atención y Quejas Ciudadanas en el distrito o circunscripción para el que haya sido electo;
 
 XVI. Presentar un Informe anual sobre el desempeño de sus labores, ante las y los ciudadanos de su distrito o circunscripción, del cual deberá enviar a la Junta y con una copia a la Conferencia, para su publicación en la Gaceta, mismo que deberá cubrir por lo menos lo siguiente:
 
@@ -1090,17 +1092,21 @@ En caso de que el turno sea remitido a dos Comisiones, la primera Comisión a qu
 
 El turno para efectos de dictamen, procederá para enviar a la o las Comisiones Ordinarias las iniciativas, las proposiciones con punto de acuerdo y otros documentos que, de acuerdo a la ley, requieran de la elaboración de un dictamen u opinión.
 
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2023)</small>
+
 ###### Artículo 87.
 
-El turno para efectos de opinión, procede para solicitar a las Comisiones Ordinarias, Especiales, que coadyuven en la elaboración del dictamen, con las que hayan recibido el turno de las iniciativas, y las proposiciones con punto de acuerdo.
+El turno para efectos de opinión, procede para solicitarla a las Comisiones Ordinarias o Especiales, para coadyuvar en la elaboración de un dictamen, con aquella o aquellas comisiones dictaminadoras de las iniciativas y proposiciones con punto de acuerdo.
 
-La Comisión a la que corresponda opinar, deberá remitir su parecer a la Comisión dictaminadora, en un plazo máximo de veinte días, a partir de la recepción formal del asunto. La opinión deberá ser aprobada por mayoría absoluta de la Comisión que la emite. Si vencido el plazo no se hubiese formulado la opinión, se entenderá que la comisión respectiva declina realizarla.
+La Comisión a la que corresponda opinar, debe remitir su parecer a la Comisión dictaminadora, en un plazo máximo de veinte días, a partir de la recepción formal del asunto. La opinión debe ser aprobada por mayoría absoluta de la Comisión que la emite.
 
-En el caso de la Iniciativa preferente, la Comisión deberá remitir su parecer a la dictaminadora, en un plazo máximo de siete días naturales, de lo contrario se entenderá su declinación.
+En el caso de la Iniciativa preferente, la Comisión debe remitir su parecer a la dictaminadora, en un plazo máximo de siete días naturales.
+
+Vencidos los plazos a los que se refieren los párrafos anteriores, si no se hubiese formulado y remitido la opinión, la comisión o comisiones encargadas de la elaboración del dictamen podrán emitirlo, haciendo constar dicha circunstancia.
 
 Las opiniones contribuyen a formar el criterio para la elaboración de los dictámenes de la o las Comisiones, pero en ningún caso serán vinculatorias.
 
-En los dictámenes, las Comisiones deben incluir en el dictamen la opinión y anexar copia de la misma para su publicación.
+En los dictámenes, las Comisiones deben incluir en el dictamen la opinión, anexar copia de la misma para su publicación y hacer constar su valoración.
 
 ###### Artículo 88.
 
@@ -1496,6 +1502,10 @@ Las proposiciones serán anunciadas por la o el Presidente al Pleno y las turnar
 
 El Pleno resolverá en votación económica en términos del artículo 101, las proposiciones que se consideren de urgente u obvia resolución.
 
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2023)</small>
+
+En caso de que concluya la sesión del Pleno o de la Comisión Permanente sin que se hayan desahogado o turnado las proposiciones con punto de acuerdo, la Presidencia las inscribirá para la próxima Sesión, salvo que la o el Diputado proponente decida retirar el asunto.
+
 ###### Artículo 121.
 
 La Agenda política será presentada al inicio de cada periodo ordinario del año legislativo que inicia ante el Pleno, será en una solo (sic) sesión dentro de las tres primeras y se integrará hasta por dos temas de interés general y sólo tendrán una finalidad deliberativa en la sesión correspondiente. Una o un integrante de cada Grupo, en orden creciente, de acuerdo a su representatividad en Congreso podrá fijar su postura al respecto de acuerdo a lo siguiente:
@@ -1552,7 +1562,13 @@ Si se aceptasen las observaciones o si fuese confirmado por las dos terceras (si
 
 Las leyes y decretos que expida el Congreso para su debida aplicación y observancia serán publicados en la Gaceta Oficial. Para tal efecto, la o el Coordinador de Servicios Parlamentarios, enviará a la Gaceta referida, el decreto en físico y de forma electrónica de dichos documentos. La copia impresa será certificada en el costado exterior de todas sus fojas mediante la rúbrica de la o el Presidente de la Mesa Directiva y de una o un Secretario de la misma.
 
-Las leyes y decretos que apruebe éste Congreso, para su mayor difusión igualmente se publicarán en el Diario Oficial de la Federación bajo el procedimiento previamente descrito. Las leyes y decretos que se promulguen por ministerio de ley, en los términos del artículo anterior, se publicarán en la Gaceta Oficial, al día siguiente de su recepción en la Consejería Jurídica y de Servicios Legales.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2023)</small>
+
+Las leyes y decretos que se promulguen por ministerio de ley, en los términos del artículo anterior, se publicarán en la Gaceta Oficial, al día siguiente de su recepción en la Consejería Jurídica y de Servicios Legales.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2023)</small>
+
+El Pleno cuando lo estime conveniente, podrá ordenar la publicación en el Diario Oficial de la Federación de las leyes y decretos que apruebe.
 
 ###### Artículo 127.
 
@@ -1674,13 +1690,19 @@ La o el Secretario referirá las reservas una a una y la o el Presidente solicit
 
 Las proposiciones consideradas de urgente u obvia resolución por el Pleno se discutirán, en un solo acto, de la siguiente forma:
 
-I. A través de una lista de las y los oradores, hasta dos a favor y dos en contra, quienes podrán hablar hasta por cinco minutos, siempre y cuando existan oradores en contra, de lo contrario se procederá inmediatamente a la votación económica;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2023)</small>
 
-II. Cuando concluyan las intervenciones de las y los oradores, la o el Presidente preguntará al Pleno, quien resolverá a través de una votación económica;
+I. A través de una lista de personas oradoras, hasta dos a favor y dos en contra, quienes podrán hablar hasta por cinco minutos, siempre y cuando existan personas oradoras en contra, de lo contrario se procederá inmediatamente a la votación económica;
+
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2023)</small>
+
+II. Cuando concluyan las intervenciones de las personas oradoras, la Presidencia preguntará al Pleno, quien resolverá a través de una votación económica;
 
 III. Las proposiciones se votarán sucesivamente, de acuerdo con el turno que tengan en el orden del día, inmediatamente después de terminadas las discusiones previstas, y
 
-IV. La o el Diputado que haya presentado la proposición solo el proponente podrá sugerir alguna modificación, siempre que la presenten durante su discusión, por escrito y firmada.
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2023)</small>
+
+IV. Cualquier Diputada o Diputado podrá sugerir alguna modificación a la proposición, siempre que la presenten durante su discusión, por escrito y firmada; la cual podrá ser aceptada o rechazada por la o el promovente.
 
 #### Sección Cuarta. De las Mociones
 
@@ -2180,6 +2202,10 @@ Los dictámenes que emitan las Comisiones durante los recesos serán listados en
 
 En el caso de los dictámenes de proposiciones con punto de acuerdo que emitan las Comisiones podrán presentarse para su discusión y, en su caso, aprobación ante la Comisión Permanente.
 
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2023)</small>
+
+Las Comisiones podrán solicitar la prórroga a la que se refiere el artículo 260 del presente ordenamiento aún en los periodos de receso del Pleno, ante la Comisión Permanente.
+
 #### Sección Segunda. De las Comisiones
 
 ###### Artículo 192.
@@ -2206,9 +2232,9 @@ Cualquier Diputada o Diputado podrá solicitar copia de las versiones estenográ
 
 Las Comisiones que conozcan de una iniciativa preferente durante el primer periodo de sesiones del primer año de la legislatura, deberán instalarse como tiempo máximo en la segunda sesión ordinaria de la legislatura.
 
-Dentro de la última semana de cada receso, las Comisiones deberán presentar a la Junta, un informe por escrito de las actividades desarrolladas durante el receso y un listado de los asuntos dictaminados, así como las iniciativas y actividades pendientes o en proceso de Dictamen.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 26 DE ENERO DE 2023)</small>
 
-Los informes servirán para programar los trabajos de los periodos de sesiones.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 26 DE ENERO DE 2023)</small>
 
 ###### Artículo 195.
 
@@ -3106,11 +3132,15 @@ IV. De las y los ciudadanos.
 
 #### Sección Segunda. Del Plazo para emitir Dictamen
 
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2023)</small>
+
 ###### Artículo 260.
 
-Todo asunto turnado a Comisión deberá ser resuelto por esta, dentro de un término máximo de cuarenta y cinco días, a partir de la recepción formal del asunto, con las salvedades que este reglamento establecen (sic).
+Todo asunto turnado a una o más Comisiones lo deberán resolver, dentro de un término de cuarenta y cinco días hábiles, a partir de la recepción formal del asunto, con las salvedades que este Reglamento establece.
 
-El dictamen se presentará para discusión al Pleno en un plazo no mayor a cuarenta y cinco días naturales, contados a partir de la fecha en que haya sido recibido por la o las Comisiones, salvo prórroga debidamente fundamentada que apruebe el Pleno a petición de la dictaminadora, por un término adicional de la misma duración. Si transcurrido el plazo y/o prórroga correspondiente no ha sido presentado para su discusión y aprobación en el Pleno, la iniciativa, proposición, opinión o asunto en cuestión será archivado y se dará por concluido el trámite.
+El dictamen se presentará para su discusión ante el Pleno, en el plazo referido en el párrafo anterior, salvo prórroga debidamente fundamentada que apruebe el Pleno o la Comisión Permanente a petición de la o las dictaminadoras, por un término adicional de la misma duración.
+
+Los asuntos no resueltos en los términos referidos en este artículo se tendrán por concluidos; sin perjuicio que la o las Comisiones puedan retomar su estudio y resolución cuando lo autoricen sus miembros a través de la emisión del dictamen correspondiente.
 
 ###### Artículo 261.
 
@@ -3128,13 +3158,15 @@ En caso de que la o el Presidente autorice la ampliación de turno de un asunto 
 
 El plazo máximo al que hace referencia este artículo no se aplicará, en el caso de asuntos que, en términos de la normatividad aplicable, cuenten con un plazo específico para su discusión, análisis, resolución y aprobación.
 
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2023)</small>
+
 ###### Artículo 262.
 
-La Comisión que considere conveniente prorrogar la decisión del asunto turnado, deberá hacer la solicitud por escrito debidamente fundada y motivada a la o el Presidente de la Mesa Directiva, dentro del término para dictaminar, establecido en segundo párrafo del artículo anterior.
+La Comisión que considere conveniente prorrogar la decisión del asunto turnado, deberá hacer la solicitud por escrito debidamente fundada y motivada a la Presidencia de la Mesa Directiva, dentro del término para dictaminar.
 
-La Mesa Directiva pondrá a consideración del Pleno la resolución de las solicitudes de prórroga, considerando las circunstancias y argumentos de la petición. En caso de otorgarse, la Comisión tendrán hasta cuarenta y cinco días naturales o en caso de dictamen hábiles más, contados a partir del día siguiente en que se hubiese cumplido el término y no podrá haber más de una prórroga.
+La Mesa Directiva pondrá a consideración del Pleno o de la Comisión Permanente la resolución de las solicitudes de prórroga, considerando las circunstancias y argumentos de la petición. En caso de otorgarse, la Comisión o Comisiones tendrán hasta cuarenta y cinco días hábiles más, contados a partir del día siguiente en que se hubiese cumplido el término y no podrá haber más de una prórroga.
 
-La solicitud que realice la comisión, así como el acuerdo por el que la Mesa Directiva Pleno resuelva, serán publicados en la Gaceta. En las solicitudes de prórroga no procederán tratándose de iniciativas con trámite preferente.
+La solicitud que realice la Comisión o Comisiones, así como la resolución del Pleno o de la Comisión Permanente, serán publicados en la Gaceta Parlamentaria. Las solicitudes de prórroga no procederán tratándose de iniciativas con trámite preferente.
 
 ###### Artículo 263.
 
@@ -3532,9 +3564,11 @@ V. Impulsar que la biblioteca del Congreso sea un espacio de producción de cono
 
 VI. Promover el estudio de los temas referentes a la Ciudad de México y auspiciar la consulta bibliográfica de la población sobre dichos temas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2023)</small>
+
 ###### Artículo 306.
 
-Corresponde al Comité de Atención, Orientación y Quejas Ciudadanas, atender y tramitar las demandas o peticiones individuales o colectivas referentes a un problema concreto y particular, así como dar seguimiento a aquellas gestiones o peticiones realizadas por el Pleno, de conformidad con las siguientes atribuciones:
+Corresponde al Comité de Atención, Orientación y Quejas Ciudadanas y Asuntos Interinstitucionales, atender y tramitar las demandas o peticiones individuales o colectivas referentes a un problema concreto y particular gestionadas ante las autoridades competentes, así como dar seguimiento a aquellas gestiones o peticiones realizadas por el Pleno, de conformidad con las siguientes atribuciones:
 
 I. Actuar de forma conjunta con las Comisiones correspondientes, para la solución de los problemas que se le presenten;
 
@@ -3544,7 +3578,9 @@ III. Emitir opinión a las autoridades de la administración pública local en l
 
 IV. Informar, semestralmente y por escrito, a la Junta sobre las peticiones y quejas presentadas por las y los ciudadanos y del trámite que les dio a las mismas;
 
-V. Instalar, instrumentar e integrar de manera pluripartidista, Módulos de Atención, Orientación y Quejas Ciudadanas en lugares en donde se consideren estratégicos, los cuales estarán bajo la dirección del Comité;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2023)</small>
+
+V. Instalar, instrumentar e integrar de manera pluripartidista, Módulos Legislativos de Atención y Quejas Ciudadanas en lugares en donde se consideren estratégicos, los cuales estarán bajo la dirección del Comité;
 
 VI. Proponer la celebración de convenios entre el Congreso y las autoridades de la administración pública local para la instalación de los módulos a que se refiere la fracción anterior;
 
@@ -3930,9 +3966,11 @@ Solamente se discutirán y votarán los artículos observados, modificados o adi
 
 #### Sección Primera. De la Gestión Social
 
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2023)</small>
+
 ###### Artículo 337.
 
-La gestión social es la acción a través de la cual el Congreso, por medio del Pleno, del Comité de Atención, Orientación y Quejas Ciudadanas, de los Módulos de Atención, Orientación y Quejas Ciudadanas o alguno de las o los Diputados, demanda de la autoridad administrativa competente la realización, continuación o suspensión de una o más acciones públicas relacionada con los intereses de la colectividad o con los derechos de las y los habitantes de la Ciudad de México. La atención, orientación y asesoría de las demandas ciudadanas, así como las gestiones correspondientes, serán gratuitas.
+La gestión social es la acción a través de la cual el Congreso, por medio del Pleno, del Comité de Atención, Orientación y Quejas Ciudadanas y Asuntos Interinstitucionales, de los Módulos Legislativos de Atención y Quejas Ciudadanas o alguno de las o los Diputados, demanda de la autoridad administrativa competente la realización, continuación o suspensión de una o más acciones públicas relacionada con los intereses de la colectividad o con los derechos de las y los habitantes de la Ciudad de México. La atención, orientación y asesoría de las demandas ciudadanas, así como las gestiones correspondientes, serán gratuitas.
 
 ###### Artículo 338.
 
@@ -3940,15 +3978,21 @@ Las peticiones y quejas formuladas por las y los habitantes de la Ciudad ante el
 
 Toda petición o queja que las y los particulares presentan al Congreso, deberá hacerse por escrito y contener los datos que hagan posible la identificación de la o el peticionario, a fin de que se le informe oportunamente sobre los trámites y resoluciones de que se objetó su petición, y
 
-Las peticiones o quejas se presentarán ante la Oficialía de Partes o directamente al Comité de Atención, Orientación y Quejas Ciudadanas y los Módulos, quienes si puede satisfacerlas, las tramitarán de inmediato y haciéndoselo saber por escrito a la o el peticionario. Cuando el Comité o los Módulos no puedan satisfacer la petición, la turnarán a la Comisión correspondiente.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2023)</small>
+
+Las peticiones o quejas se presentarán ante la Oficialía de Partes o directamente al Comité de Atención, Orientación y Quejas Ciudadanas y Asuntos Interinstitucionales y los Módulos, quienes si pueden satisfacerlas, las tramitarán de inmediato y haciéndoselo saber por escrito a la o el peticionario. Cuando el Comité o los Módulos no puedan satisfacer la petición, la turnarán a la Comisión correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2023)</small>
 
 ###### Artículo 339.
 
-El Comité de Atención, Orientación y Quejas Ciudadanas, así como la o las Comisiones a las que se turnen las peticiones o quejas, deberán acordar la acción correspondiente en un plazo máximo de quince días.
+El Comité de Atención, Orientación y Quejas Ciudadanas y Asuntos Interinstitucionales, así como la o las Comisiones a las que se turnen las peticiones o quejas, deberán acordar la acción correspondiente en un plazo máximo de quince días.
 
 La o las Comisiones estudiarán la petición o queja y, cuando la atención de la misma requiera su presentación al Pleno, elaborará la propuesta correspondiente.
 
-La o las Comisiones, una vez realizadas las gestiones, informarán al Comité de Atención, Orientación y Quejas Ciudadanas, de las acciones que se llevaron a cabo, para su control y seguimiento.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2023)</small>
+
+La o las Comisiones, una vez realizadas las gestiones, informarán al Comité de Atención, Orientación y Quejas Ciudadanas y Asuntos Interinstitucionales, de las acciones que se llevaron a cabo, para su control y seguimiento.
 
 ###### Artículo 340.
 
@@ -5024,7 +5068,9 @@ La entrega del reconocimiento señalado en el artículo 372 del presente reglame
 
 El diploma consiste en el reconocimiento realizado a aquellas personas que participaron en las actividades realizadas a través del Pleno y deberán ser firmados por alguna o algún integrante de la Mesa Directiva o de la Junta.
 
-La constancia consiste en el reconocimiento realizado a aquellas personas que participaron en las actividades realizadas a través de las Comisiones, Comités, los Módulos de Atención Orientación y Quejas Ciudadanas o las Unidades Administrativas. La firma que avalará la constancia será la de alguna o algún integrante de la Junta Directiva, la o el Diputado al que corresponda el Módulo de Atención, la o el Titular de la Unidad Administrativa o bien por alguna o algún integrante del Congreso según sea el caso.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2023)</small>
+
+La constancia consiste en el reconocimiento realizado a aquellas personas que participaron en las actividades realizadas a través de las Comisiones, Comités, los Módulos Legislativos de Atención y Quejas Ciudadanas o las Unidades Administrativas. La firma que avalará la constancia será la de alguna o algún integrante de la Junta Directiva, la o el Diputado al que corresponda el Módulo Legislativo de Atención y Quejas Ciudadanas, la o el Titular de la Unidad Administrativa o bien por alguna o algún integrante del Congreso según sea el caso.
 
 ###### Artículo 453.
 
@@ -6297,3 +6343,21 @@ PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por
 SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. La convocatoria al Parlamento de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes se emitirá una vez que se haya constituido el Sistema de Registro y Documentación de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes previsto en los artículos 59, apartado L, numeral 3 de la Constitución Política de la Ciudad de México y 9 de la Ley de Derechos de los Pueblos y Barrios Originarios y Comunidades Indígenas Residentes en la Ciudad de México.
+
+G.O. 26 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 3; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 32; SE REFORMAN LAS FRACCIONES II Y XVII (SEGUNDA) PARA QUEDAR COMO FRACCIÓN XVIII DEL ARTÍCULO 66; SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 72, TODOS DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO. SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 7; SE REFORMA EL ARTÍCULO 87; SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 120; SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 126; SE REFORMAN LAS FRACCIONES I, II, Y IV DEL ARTÍCULO 140; SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 191; SE DEROGAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 194; SE REFORMA EL PÁRRAFO PRIMERO Y LA FRACCIÓN V DEL ARTÍCULO 306; SE REFORMA EL ARTÍCULO 337; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 338; SE REFORMAN LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 339; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 452, TODOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 26 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 260 Y 262 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
