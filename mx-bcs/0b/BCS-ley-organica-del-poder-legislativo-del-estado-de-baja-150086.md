@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2022-12-27"
+last_updated: "2023-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "BCS"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ABRIL DE 2023 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ENERO DE 2023.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -501,7 +499,9 @@ I.- DE PUNTOS CONSTITUCIONALES Y DE JUSTICIA.
 
 II.- DE ASUNTOS POLITICOS.
 
-III.- DE DERECHOS HUMANOS Y DE ASUNTOS INDÍGENAS.
+> <small>(REFORMADA, B.O. 26 DE ENERO DE 2023)</small>
+
+III.- DE DERECHOS HUMANOS, DE ASUNTOS INDÍGENAS Y AFROMEXICANOS.
 
 IV.- DE ASUNTOS AGROPECUARIOS, FORESTALES Y MINEROS.
 
@@ -517,7 +517,9 @@ IX.- DE LA SALUD, LA FAMILIA Y LA ASISTENCIA PÚBLICA.
 
 X.- DE ASUNTOS EDUCATIVOS.
 
-XI.- DE ECOLOGIA.
+> <small>(REFORMADA, B.O. 26 DE ENERO DE 2023)</small>
+
+XI.- DE ECOLOGIA Y MEDIO AMBIENTE.
 
 XII.- DE ASUNTOS FISCALES Y ADMINISTRATIVOS.
 
@@ -557,7 +559,9 @@ XXIX.- DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES.
 
 XXX.- DE PROTECCIÓN CIVIL.
 
-XXXI.- DE INFRAESTRUCTURA.
+> <small>(REFORMADA, B.O. 26 DE ENERO DE 2023)</small>
+
+XXXI.- DE DESARROLLO URBANO, INFRAESTRUCTURA Y OBRA PÚBLICA.
 
 XXXII.- DE LA JUVENTUD.
 
@@ -595,13 +599,19 @@ f).- Los que se refieran a licencias, renuncias o demás faltas absolutas del Go
 
 g).- Las demás que le señalen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
-III.- DE DERECHOS HUMANOS Y DE ASUNTOS INDÍGENAS:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 26 DE ENERO DE 2023)</small>
 
-a).- El conocimiento de los asuntos relacionados con la salvaguarda de los Derechos Humanos, las Garantías Individuales, el principio de Legalidad, la preservación del estado de derecho y el reconocimiento a los Derechos Indígenas.
+III.- DE DERECHOS HUMANOS, DE ASUNTOS INDÍGENAS Y AFROMEXICANOS:
+
+> <small>(REFORMADO, B.O. 26 DE ENERO DE 2023)</small>
+
+a).- El conocimiento de los asuntos relacionados con la salvaguarda de los Derechos Humanos, las Garantías Individuales, el principio de Legalidad, la preservación del estado de derecho y el reconocimiento a los Derechos Indígenas y Afromexicanos.
 
 b).- Servir de instancia receptora de quejas y denuncias presentadas acerca de violaciones a estos derechos y dar seguimiento a las acciones que las autoridades directamente involucradas realicen en la investigación, reparación y sanción procedente;
 
-c).- Establecer coordinación con instituciones y organismo públicos y privados nacionales, para promover el respeto a los Derechos Humanos y el reconocimiento a los Derechos Indígenas; y
+> <small>(REFORMADO, B.O. 26 DE ENERO DE 2023)</small>
+
+c).- Establecer coordinación con instituciones y organismo públicos y privados nacionales, para promover el respeto a los Derechos Humanos y el reconocimiento a los Derechos Indígenas y Afromexicanos; y
 
 d).- Las demás que le encomiende la Mesa Directiva y la Junta de Gobierno y Coordinación Política.
 
@@ -681,7 +691,9 @@ a).- Lo que corresponda a Educación en todos sus niveles.
 
 b).- Las demás que establezcan la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
-XI.- DE ECOLOGIA:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 26 DE ENERO DE 2023)</small>
+
+XI.- DE ECOLOGIA Y MEDIO AMBIENTE:
 
 a).- Lo que se refiera a la preservación del medio ambiente, de los ecosistemas, de los recursos naturales, protección de la flora y la fauna y en general lo relacionado con la prevención y control de la contaminación y la declaratoria de reservas ecológicas en la entidad.
 
@@ -955,13 +967,31 @@ a).- Lo relativo a la normatividad, así como todo lo relacionado con la problem
 
 b).- La prevención y atención a la problemática de las viviendas en zonas de alto riesgo.
 
-XXXI.- DE INFRAESTRUCTURA.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 26 DE ENERO DE 2023)</small>
 
-a).- Todo lo relativo a regulación en materia de infraestructura y equipamiento urbano;
+XXXI.- DE DESARROLLO URBANO, INFRAESTRUCTURA Y OBRA PÚBLICA.
+
+> <small>(REFORMADO, B.O. 26 DE ENERO DE 2023)</small>
+
+a).- Todo lo relativo a regulación en materia de asentamientos humanos, desarrollo urbano, infraestructura, equipamiento urbano, vivienda, obra pública y ordenamiento territorial;
 
 b).- Lo relacionado con la infraestructura, turística, de educación y obras hidráulicas; y
 
-c).- Las demás que establezcan la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 26 DE ENERO DE 2023)</small>
+
+c).- Lo relacionado con la legislación en materia de desarrollo urbano, asentamientos humanos y vivienda;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 26 DE ENERO DE 2023)</small>
+
+d).- Las bases que regulen el uso, aprovechamiento y expropiación de lotes baldíos, en municipios de la entidad;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 26 DE ENERO DE 2023)</small>
+
+e).- La Promoción para que se mejoren los programas Federales, Estatales y Municipales de vivienda y;
+
+> <small>(REFORMADO, B.O. 26 DE ENERO DE 2023)</small>
+
+f).- Las demás que establezcan la Mesa Directiva del Congreso.
 
 XXXII.- DE LA JUVENTUD:
 
@@ -1217,7 +1247,7 @@ XV.- Emitir conjuntamente, según corresponda, con la Dirección de Finanzas y c
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE DICIEMBRE DE 2022)</small>
 
-XVI.- Recibir las denuncias y quejas en contra de los servidores públicos del Congreso del Estado por hechos probablemente constitutivos de faltas administrativas o de particulares por conductas sancionables en términos de la ley de la materia;
+XVI.- Recibir las denuncias y quejas en contra de los servidores públicos del Congreso del Estado por hechos probablemente constitutivos de faltas administrativas o de particulares por conductas sancionables en términos de lo ley de la materia;
 
 > <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
 
@@ -1771,11 +1801,11 @@ Tratándose de iniciativas que a juicio de la Comisión requieran de mayor estud
 
 Cuando la naturaleza del asunto lo permita, podrán conjuntarse dos o más iniciativas en un mismo dictamen.
 
+> <small>(REFORMADO, B.O. 26 DE ENERO DE 2023)</small>
+
 Artículo 116
 
-Los dictámenes deberán contener una exposición clara y precisa del negocio a que se refieren y concluir sometiendo a la consideración del Congreso, el proyecto de ley, decreto o puntos de acuerdo, según corresponda.
-
-Las Comisiones que creyeren pertinente proponer algo al Congreso en materias pertenecientes a su ramo, podrán también ampliar su dictamen a materias relacionadas, aun cuando no sea objeto expreso de la iniciativa.
+Todo dictamen se elaborará con perspectiva de género y estará debidamente fundado y motivado mediante una exposición clara y precisa del negocio a que se refieren, deberá incluir las modificaciones que en su caso se hayan realizado y concluir sometiendo a la consideración del Congreso, el Proyecto de Ley, Decreto o Punto de Acuerdo, según corresponda. Las Comisiones que creyeren pertinente proponer algo al Congreso en materias pertenecientes a su ramo, podrán también ampliar su dictamen a materias relacionadas, aun cuando no sea objeto expreso de la iniciativa.
 
 Artículo 117
 
@@ -2712,3 +2742,11 @@ B.O. 27 DE DICIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO. El Congreso del Estado deberá aprobar el Reglamento Interno de la Controlaría del Poder Legislativo a que hace referencia el último párrafo del artículo 71 del presente decreto en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del mismo.
+
+B.O. 26 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2904 SE REFORMAN LAS FRACCIONES III, XI Y XXXI DE LOS ARTÍCULOS 45 Y III, XI Y XXXI DEL ARTÍCULO 46, Y EL ARTÍCULO 116 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Quienes integran actualmente la Comisión de Infraestructura mantendrán su integración en la Comisión de Desarrollo Urbano, Infraestructura y Obra Pública.
