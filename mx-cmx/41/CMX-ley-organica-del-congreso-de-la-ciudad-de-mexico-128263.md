@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2022-06-15"
+last_updated: "2023-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ENERO DE 2023.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -70,7 +70,9 @@ Las y los Diputados integrantes del Congreso de la Ciudad de México podrán ser
 
 El Congreso de la Ciudad de México funcionara en Pleno, Comisiones y Comités, sus sesiones serán públicas y tendrá la organización y funcionamiento que establece la Constitución Política de la Ciudad de México, esta ley, así como el Reglamento del Congreso de la Ciudad de México y los acuerdos que se expidan dentro de este órgano legislativo.
 
-Para la entada en vigor de las reformas y adiciones a la presente ley y su reglamento no será necesario que la persona titular de la Jefatura de Gobierno realice su promulgación, ni podrán ser objeto de veto u observaciones.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2023)</small>
+
+Para la entada en vigor de las reformas y adiciones a la presente ley y su reglamento no será necesario que la persona titular de la Jefatura de Gobierno realice su promulgación, ni podrán ser objeto de veto u observaciones; en todo caso deberán ser publicadas en la Gaceta Oficial.
 
 ###### Artículo 4.
 
@@ -902,7 +904,9 @@ VII. Conceder el uso de la palabra, dirigir los debates, discusiones y deliberac
 
 VIII. Convocar a las reuniones de la Mesa Directiva, a las de la Conferencia para la Dirección y Programación de los Trabajos Legislativos y cumplir las resoluciones que le correspondan;
 
-IX. Cumplimentar que los acuerdos, decretos y leyes emanados del Congreso sean publicados en la Gaceta Oficial, en un término no mayor de diez días, así como en el Diario Oficial de la Federación;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2023)</small>
+
+IX. Cumplimentar que los acuerdos, decretos y leyes emanados del Congreso sean publicados en la Gaceta Oficial, en un término no mayor de diez días;
 
 X. Designar Comisiones entre las y los Diputados para representar al Congreso en los casos que sea procedente;
 
@@ -1370,9 +1374,9 @@ Son atribuciones de la Comisión Permanente:
 
 I. Aprobar a solicitud de la Junta los cambios en la integración de las Comisiones y Comités, durante los recesos del Congreso;
 
-II. Aprobar las prórrogas que le soliciten las Comisiones dictaminadoras y rectificación de turnos de los asuntos que sean de su competencia;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2023)</small>
 
-Con la excepción de los que tengan que ver con iniciativas de ley.
+II. Aprobar las prórrogas que le soliciten las Comisiones dictaminadoras y rectificación de turnos de los asuntos que sean de su competencia;
 
 III. Autorizar, en su caso, viajes al extranjero de la o el Jefe de Gobierno;
 
@@ -1404,7 +1408,9 @@ XVI. Ratificar los nombramientos que haga la Junta, del encargado del despacho e
 
 XVII. Recibir y dar cuenta con comunicaciones de las y los Diputados, las Comisiones, los Comités y cualquier otro órgano dentro del Congreso, así como las remitidas por autoridades federales, estatales y municipales, y de los Órganos Autónomos locales y federales;
 
-XVII. (SIC) Recibir, discutir y en su caso, aprobar las proposiciones y acuerdos presentados por las y los Diputados;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2023)</small>
+
+XVIII. Recibir, discutir y en su caso, aprobar las proposiciones y acuerdos presentados por las y los Diputados; así como recibir y turnar las iniciativas de ley o decreto presentadas por las y los Diputados;
 
 XIX. Ser órgano deliberativo del Congreso;
 
@@ -1487,6 +1493,10 @@ VIII. Realizar las actividades y acuerdos que se deriven de la presente ley, del
 IX. Para el caso de las labores de dictaminación y las resoluciones en materia de planeación urbana y ordenamiento territorial, tomarán en cuenta y valorarán los indicadores del Sistema Integral de Información, Diagnóstico, Monitoreo y Evaluación del Desarrollo Urbano.
 
 X. Presentar al Pleno los dictámenes e informes, resultados de sus trabajos e investigaciones y demás documentos relativos a los asuntos que les son turnados.
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2023)</small>
+
+XI. Estudiar e integrar las iniciativas o proposiciones resultantes de los parlamentos a su cargo, para su presentación ante el Pleno para el inicio del proceso legislativo previsto en esta Ley y el Reglamento.
 
 Se considerará carga de trabajo cuando una Comisión haya emitido cuando menos quince dictámenes en un año legislativo.
 
@@ -2887,3 +2897,11 @@ G.O. 15 DE JUNIO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su difusión.
+
+G.O. 26 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 3; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 32; SE REFORMAN LAS FRACCIONES II Y XVII (SEGUNDA) PARA QUEDAR COMO FRACCIÓN XVIII DEL ARTÍCULO 66; SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 72, TODOS DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO. SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 7; SE REFORMA EL ARTÍCULO 87; SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 120; SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 126; SE REFORMAN LAS FRACCIONES I, II, Y IV DEL ARTÍCULO 140; SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 191; SE DEROGAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 194; SE REFORMA EL PÁRRAFO PRIMERO Y LA FRACCIÓN V DEL ARTÍCULO 306; SE REFORMA EL ARTÍCULO 337; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 338; SE REFORMAN LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 339; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 452, TODOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
