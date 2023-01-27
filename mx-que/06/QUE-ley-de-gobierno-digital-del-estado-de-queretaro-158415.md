@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-gobierno-digital-del-estado-de-queretaro-158415"
 country: "mx"
 rank: "ley"
 publication_date: "2022-05-20"
-last_updated: "2022-05-20"
+last_updated: "2023-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE GOBIERNO DIGITAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
 
 Ley publicada en el Número 37 del Periódico Oficial del Estado de Querétaro, el viernes 20 de mayo de 2022.
 
@@ -157,7 +157,9 @@ La Comisión estará conformada por los siguientes integrantes:
 
 I. Un Presidente, que será el Titular del Poder Ejecutivo del Estado;
 
-II. Un Secretario Técnico, que será designado por el Titular de la Secretaría; y
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
+
+II. Un Secretario Técnico, que será el Subsecretario de Tecnologías de la Información, adscrito a la Secretaría; y
 
 III. Vocales que serán:
 
@@ -169,7 +171,9 @@ c. El Secretario de Gobierno del Poder Ejecutivo;
 
 d. El Secretario Particular del titular del Poder Ejecutivo;
 
-e. El Director de Tecnologías de la Información de la Secretaría;
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2023)</small>
+
+e. El Director de Gobierno Digital e Innovación, adscrito a la Secretaría;
 
 f. La persona titular de la Comisión Estatal de Mejora Regulatoria del Estado de Querétaro; y
 
@@ -660,3 +664,15 @@ Rúbrica
 María Guadalupe Murguía Gutiérrez
 
 Secretaria de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 38 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO Y REFORMA DIVERSAS DISPOSICIONES EN MATERIA DE TECNOLOGÍAS DE LA INFORMACIÓN".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
