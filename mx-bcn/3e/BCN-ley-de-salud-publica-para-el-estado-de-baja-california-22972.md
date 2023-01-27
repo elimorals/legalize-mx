@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2022-12-30"
+last_updated: "2023-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -517,33 +517,41 @@ IV.- La salud mental;
 
 V.- La educación para la salud y la promoción del saneamiento básico;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ENERO DE 2023)</small>
 
-VI.- La promoción de un estilo de vida saludable,
+VI.- La educación menstrual, la cual refiere a que todas las niñas, jóvenes, mujeres y personas menstruantes dispongan de la información y educación menstrual objetiva y clara. Además, de contar con condiciones sociales y culturales propicias para vivir una menstruación sin estigmas ni tabúes;
 
-VII.- La asistencia social a los grupos más vulnerables;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2023)</small>
 
-VIII.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
+VII.- La promoción de un estilo de vida saludable;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2023)</small>
 
-IX.- La prevención y control de las enfermedades bucodentales, visuales y auditivas.
+VIII.- La asistencia social a los grupos más vulnerables;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2023)</small>
 
-X.- La disponibilidad de medicamentos y otros insumos esenciales para la salud;
+IX.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
 
-XI.- La atención médica geriátrica a personas mayores de 65 años de edad;
+X.- La prevención y el control de las enfermedades buco dentales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
 
-XII.- La prevención, detección, tratamiento y rehabilitación de neoplasias, y
+XI.- La disponibilidad de medicamentos y otros insumos esenciales para la salud, incluyendo productos de gestión menstrual;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2023)</small>
 
-XIII.- Los demás que establezca esta Ley y otros ordenamientos jurídicos.
+XII.- La atención médica geriátrica a personas mayores de 65 años de edad;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
+
+XIII.- La prevención, detección, tratamiento y rehabilitación de neoplasias; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2023)</small>
+
+XIV.- Los demás que establezca esta Ley y otros ordenamientos jurídicos.
 
 Las Autoridades Sanitarias del Estado, de conformidad con las disposiciones legales aplicables vigilarán que las instituciones que presten servicios de salud en la Entidad, apliquen el cuadro básico de insumos del Sector Salud.
 
@@ -1427,9 +1435,17 @@ II.- Nutrición, orientación alimentaria y activación física;
 
 III.- Control de los efectos nocivos del ambiente en la salud, en donde las Autoridades Sanitarias participarán coordinadamente con las Autoridades competentes en la materia;
 
-IV.- Salud ocupacional; y
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
 
-V.- Fomento sanitario.
+IV.- Salud ocupacional;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
+
+V. Fomento sanitario; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ENERO DE 2023)</small>
+
+VI. Educación menstrual.
 
 ###### ARTÍCULO 69.
 
@@ -2581,11 +2597,35 @@ ARTÍCULO 148 TER 3.- En los establecimientos en que se realizan tatuajes, micro
 
 Los responsables deberán contar con el material mínimo que prevé la Norma Oficial Mexicana y el Reglamento de Control Sanitario de Productos y Servicios.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE ENERO DE 2023)</small>
+
+#### SECCIÓN XIII. MENSTRUACIÓN DIGNA
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2023)</small>
+
+ARTÍCULO 148 TER 4.- Con la finalidad de establecer las condiciones que permitan preservar la salud de las niñas, adolescentes, mujeres y personas menstruantes se reconocen los siguientes derechos:
+
+I. Informarse sobre los ciclos menstruales que les permita vivir una menstruación digna;
+
+II.- Detectar condiciones no normales en su estado de salud y prevenir padecimientos graves;
+
+III.- Conocer productos de gestión menstrual; y,
+
+IV.- Acceso gratuito a productos de gestión menstrual, de conformidad con las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2023)</small>
+
+ARTÍCULO 148 TER 5.- La Secretaría de Salud del Estado deberá considerar al menos las siguientes acciones:
+
+I. Implementar un Programa de Educación Menstrual Digna.
+
+II. Desarrollar campañas de promoción a la educación menstrual en escuelas de nivel básico y medio superior y en cualquier centro que se requiera.
+
+III. Garantizar el acceso gratuito a los productos de gestión menstrual para niñas, jóvenes, mujeres y personas menstruantes.
+
+IV. Coadyuvar en coordinación con la dependencia estatal responsable del ramo de igualdad de género, su incorporación de manera estratégica y transversal en el apoyo, desarrollo, vigilancia y promoción del Programa de Educación Menstrual Digna, como parte del acceso universal a la salud de la mujer y persona menstruante, de conformidad con la Ley General de Salud.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2022)</small>
-
-#### SECCION I. DE LAS AUTORIZACIONES
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ### CAPITULO DECIMO PRIMERO. DE LA AUTORIDAD COMPETENTE EN MATERIA DE PROTECCIÓN CONTRA RIESGOS SANITARIOS
 
@@ -2693,9 +2733,9 @@ La persona Titular del Instituto de Servicios de Salud Pública del Estado de Ba
 
 ### CAPITULO DECIMO SEGUNDO. DE LAS AUTORIZACIONES, REVOCACIONES Y CERTIFICADOS
 
-#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
+#### SECCION I. DE LAS AUTORIZACIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 151.
 
@@ -2777,7 +2817,9 @@ Requieren de tarjeta de control sanitario las personas que realicen actividades 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-#### SECCION III. DE LOS CERTIFICADOS
+#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 157.
 
@@ -2840,6 +2882,8 @@ El Instituto de Servicios de Salud Pública del Estado de Baja California una ve
 ###### ARTÍCULO 163.
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, de prohibición de venta, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
+
+#### SECCION III. DE LOS CERTIFICADOS
 
 ###### ARTÍCULO 164.
 
@@ -3864,3 +3908,11 @@ PRIMERO. El presente Decreto de reforma entrará en vigor al día siguiente de s
 SEGUNDO. El Poder Ejecutivo del Estado y, en su caso, los Ayuntamientos, dentro de los tres meses siguientes al inicio de la vigencia de las presente reformas, emitirán las disposiciones administrativas que sean necesarias para su debida observancia.
 
 TERCERO. Las menciones que se hagan en otros ordenamientos a la Comisión Estatal para la Protección Contra Riesgos Sanitarios, se entenderán referidas al Instituto de Servicios de Salud Pública del Estado de Baja California y a la unidad administrativa de este último que se determine en su Reglamento Interno.
+
+P.O. 27 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 198 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 45, 65 Y 104 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 73 TER".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El suministro gratuito de productos de gestión menstrual se sujetará a la disponibilidad presupuestaria de la Secretaría de Salud del Estado y con base a las disposiciones normativas aplicables en términos de la Ley General de Salud.
