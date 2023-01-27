@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-agrario-de-carrera-en-la-9227
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-02-15"
-last_updated: "2013-02-15"
+last_updated: "2023-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92276&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-02-07"
 ---
 # ESTATUTO DEL SERVICIO PROFESIONAL AGRARIO DE CARRERA EN LA PROCURADURIA AGRARIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO DEL SERVICIO PROFESIONAL AGRARIO DE CARRERA EN LA PROCURADURÍA AGRARIA, PUBLICADO EN EL D.O.F. DE 27 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO DEL SERVICIO PROFESIONAL AGRARIO DE CARRERA EN LA PROCURADURÍA AGRARIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2023 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -894,3 +896,45 @@ Dado en las oficinas que ocupa la Procuraduría Agraria, sita en Motolinía núm
 Atentamente
 
 El Procurador Agrario, Cruz López Aguilar.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE ENERO DE 2023.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL “AVISO MEDIANTE EL CUAL SE DA A CONOCER EL ESTATUTO DEL SERVICIO PROFESIONAL AGRARIO DE CARRERA EN LA PROCURADURÍA AGRARIA”.]</small>
+
+ÚNICO.- Se da a conocer a las autoridades, personas servidoras públicas y público en general, para todos los efectos legales y administrativos a que haya lugar, que el Estatuto del Servicio Profesional Agrario de Carrera en la Procuraduría Agraria, podrá consultarse en la liga electrónica del Diario Oficial de la Federación referida en el presente aviso:
+
+Nombre del Liga electrónica en el
+
+Instrumento Diario Oficial de la
+
+Jurídico Federación
+
+Estatuto del
+
+Servicio
+
+Profesional
+
+Agrario de
+
+Carrera en la
+
+Procuraduría
+
+Agraria www.dof.gob.mx/2023/SEDATU/ESTATUTOSPACPA.pdf
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO DEL SERVICIO PROFESIONAL AGRARIO DE CARRERA EN LA PROCURADURÍA AGRARIA”.]
+
+PRIMERO. - El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. - Se abroga el Estatuto del Servicio Profesional Agrario publicado en el Diario Oficial de la Federación el 15 de febrero de 2013, así como todas las disposiciones que se opongan al presente ordenamiento.
+
+TERCERO. - La Comisión deberá emitir la normatividad derivada del presente Estatuto en un término de 180 días a partir de su vigencia.
+
+CUARTO. - A la entrada en vigor del presente Estatuto, serán servidores (as) profesionales agrarios (as) de carrera aquellos que aún continúen laborando en la Procuraduría y que hayan obtenido su nombramiento y permanencia en términos del Estatuto del Servicio Profesional Agrario de Carrera que antecede publicado en el Diario Oficial de la Federación el 15 de febrero de 2013; al efecto, el Secretario Técnico elaborará las constancias respectivas con base en los datos que obren en sus archivos, informando previamente de ello a la Comisión, quien en su caso aprobará dichos documentos.
+
+Los demás servidores (as) públicos (as) de confianza serán considerados Servidor (a) Profesional Agrario (a) de Libre Designación, hasta que la Comisión en su caso, emita las constancias de su pertenencia al SPAC como Servidor Agrario de Carrera.
+
+Los/las servidores (as) profesionales agrarios (as) de libre designación bajo el Estatuto del Servicio Profesional Agrario de Carrera que antecede publicado en el Diario Oficial de la Federación el 15 de febrero de 2013, y que hayan obtenido su nombramiento en el puesto actual y permanencia en términos del Estatuto del Servicio Profesional Agrario de Carrera publicado en el Diario Oficial de la Federación el 14 de septiembre de 1994; al efecto, el Secretario Técnico elaborará las constancias respectivas con base en los Datos que obren en sus archivos, informando previamente de ello a la Comisión, quien en su caso aprobará dichos documentos.
