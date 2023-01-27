@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2022-11-01"
+last_updated: "2023-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -95,7 +95,9 @@ Para tal efecto realizarán entre otras, las siguientes acciones:
 
 I. ESTABLECER POLÍTICAS INCLUYENTES, TRANSVERSALES Y CON PERSPECTIVA DE GÉNERO, PARA OTORGAR BECAS, APOYOS Y ESTÍMULOS ECONÓMICOS QUE PRIORICEN A LOS EDUCANDOS DE EXCELENCIA ACADÉMICA O CON ALGUNA DISCAPACIDAD Y ESTUDIANTES DESTACADOS EN LA CULTURA, DEPORTE O QUE ENFRENTEN CONDICIONES SOCIOECONÓMICAS QUE LES IMPIDAN EJERCER SU DERECHO A LA EDUCACIÓN BÁSICA Y MEDIA SUPERIOR;
 
-II. Establecer de acuerdo con la suficiencia presupuestal, programas de entrega gratuita de uniformes y útiles escolares, calzado y anteojos para estudiantes de educación básica, que funcionará de acuerdo a las normas y lineamientos de operación que la autoridad educativa estatal, municipal y los organismos descentralizados emitan, en el ámbito de su competencia; de igual manera, el Ejecutivo deberá cuidar que no exista discriminación o interrupción del servicio educativo para aquellos que no puedan o no cuenten con los recursos para adquirir uniformes. Ninguna alumna ni alumno podrá ser condicionado por su vestimenta;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
+
+II. Establecer de acuerdo con la suficiencia presupuestal, programas de entrega gratuita de uniformes y útiles escolares, calzado, anteojos y productos sanitarios de gestión menstrual para las niñas, mujeres y personas menstruantes, estudiantes de educación básica, que funcionará de acuerdo a las normas y lineamientos de operación que la autoridad educativa estatal, municipal y los organismos descentralizados emitan, en el ámbito de su competencia; de igual manera, el Ejecutivo deberá cuidar que no exista discriminación o interrupción del servicio educativo para aquellos que no puedan o no cuenten con los recursos para adquirir uniformes. Ninguna alumna ni alumno podrá ser condicionado por su vestimenta;
 
 III. Proporcionar apoyos a educandos cuya madre, padre o tutor haya fallecido o sufrido algún accidente que le ocasione invalidez o incapacidad permanente;
 
@@ -593,7 +595,9 @@ III. Propiciar la manifestación de habilidades motrices a partir de la práctic
 
 IV. Propiciar en el educando la confianza y seguridad en sí mismo, mediante la realización de actividades físicas que permitan la posibilidad de control y manejo del cuerpo en diferentes situaciones;
 
-V. Promover la formación y estimular la adquisición de hábitos, de ejercicio diario de la higiene, alimentación, descanso y conservación del medio ambiente con la práctica de actividades complementarias que condicionan su efectiva repercusión en la salud individual y colectiva;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
+
+V. Promover la formación y estimular la adquisición de hábitos, de ejercicio diario, de la higiene, de higiene durante el periodo menstrual, la compatibilidad del deporte y ejercicio durante la menstruación, alimentación, descanso y conservación del medio ambiente con la práctica de actividades complementarias que condicionan su efectiva repercusión en la salud individual y colectiva;
 
 VI. Fomentar la manifestación de actividades positivas, individuales y grupales, así como la adquisición de valores a partir de aquellas actividades que utilicen al movimiento como una forma de expresión;
 
@@ -811,7 +815,9 @@ VI. Tener permanentemente un docente frente a (sic) grupo que contribuya al logr
 
 VII. Participar de los procesos que se deriven en los planteles educativos como centros de aprendizaje comunitario;
 
-VIII. Recibir becas y demás apoyos económicos priorizando a los educandos que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
+
+VIII. Recibir becas, productos higiénicos de gestión menstrual como toallas sanitarias, compresas de tela, tampones, copas menstruales y demás apoyos económicos priorizando a los educandos que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
 
 IX. Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas, y
 
@@ -886,6 +892,12 @@ Los psicólogos y demás personal que se contrate para desempeñarse en las áre
 ###### Artículo 73 Bis.
 
 Con la finalidad de preservar la salud y estabilidad psicoemocional de niñas, niños y adolescentes en nivel básico y medio superior, la Secretaría de Educación en coordinación con la Secretaría de Salud del Estado, en el marco de sus respectivas competencias, promoverán la implementación de acciones, programas o protocolos de actuación tendientes a prevenir, detectar, identificar y canalizar necesidades especiales en niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2023)</small>
+
+###### Artículo 73 Ter.
+
+Con la finalidad de promover la salud y estabilidad psicoemocional de niñas y adolescentes en nivel básico y media superior, la Secretaría de Educación en coordinación con la Secretaría de Salud del Estado, en el marco de sus respectivas competencias, promoverán la implementación de acciones, programas o protocolos de actuación tendientes a potenciar acciones para dignificar y normalizar el proceso de menstruación de niñas, mujeres y personas menstruantes, tendiente a evitar ausentismo.
 
 ###### Artículo 74.
 
@@ -1171,9 +1183,11 @@ La autoridad educativa estatal, incluirá en el proyecto de presupuesto que some
 
 Las madres y padres de familia o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2023)</small>
+
 ###### Artículo 104.
 
-Las autoridades educativas estatal y municipal desarrollarán actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+Las autoridades educativas estatal y municipal desarrollarán actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, y desde una perspectiva de género e inclusiva se fomentará la educación menstrual, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
 
 ###### Artículo 105.
 
@@ -1696,3 +1710,13 @@ P.O. 1 DE NOVIEMBRE DE 2022.
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO. En un plazo de ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la autoridad educativa deberá armonizar los lineamientos y protocolos respectivos a la seguridad escolar.
+
+P.O. 27 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 198 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 45, 65 Y 104 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 73 TER”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El suministro gratuito de productos de gestión menstrual se sujetará a la disponibilidad presupuestaria que se determine para tales fines.
+
+El Poder Ejecutivo del Estado emitirá las disposiciones reglamentarias correspondientes, así como las normas que determinen el control y uso racional de los productos a que se refiere este artículo.
