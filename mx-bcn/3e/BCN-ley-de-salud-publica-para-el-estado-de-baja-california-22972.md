@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2022-12-30"
+last_updated: "2023-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,287 +21,621 @@ state: "BCN"
 ---
 # LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
+LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
 
-Al margen un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
+Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
-MARIANO GONZALEZ ZARUR, Gobernador del Estado a sus habitantes sabed:
+ALEJANDRO GONZALEZ ALCOCER
 
-Que por conducto de la Secretaría Parlamentaría del Honorable Congreso del Estado con esta fecha se me ha comunicado lo siguiente:
+GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, A SUS HABITANTES SABED:
 
-EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, A NOMBRE DEL PUEBLO DECRETA.
+QUE LA H. LEGISLATURA DEL ESTADO, ME HA DIRIGIDO PARA SU PUBLICACION, EL ORDENAMIENTO LEGAL QUE SIGUE:
 
-DECRETO No. 161
+LA H. XVI LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 27, FRACCION I DE LA CONSTITUCION POLITICA LOCAL, EXPIDE LA SIGUIENTE:
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 58, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2014, CUANDO LAS LEYES, REGLAMENTOS O CUALQUIER ORDENAMIENTO DE OBSERVANCIA GENERAL VIGENTE EN EL ESTADO DE TLAXCALA SE REFIERAN AL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TLAXCALA, SE ENTENDERÁ QUE SE REFIEREN AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL CINCO DE MARZO DE DOS MIL CATORCE, CONFORME A LAS REGLAS DE VIGENCIA ESTABLECIDAS EN EL ARTÍCULO TRANSITORIO ANTERIOR Y A LA DECLARATORIA EXPEDIDA POR EL CONGRESO DEL ESTADO CON FECHA VEINTIDÓS DE OCTUBRE DE DOS MIL CATORCE Y PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE FECHA VEINTITRÉS DE OCTUBRE DEL AÑO EN CURSO.</small>
+LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-# LIBRO PRIMERO. DISPOSICIONES GENERALES
+###### ARTÍCULO 1.
 
-## TÍTULO PRELIMINAR
+La presente Ley es de orden público, interés social y de aplicación en el Estado de Baja California y tiene por objeto:
 
-### CAPÍTULO ÚNICO. DE LOS PRINCIPIOS Y GARANTÍAS PENALES
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-###### Artículo 1.
+I.- Regular el derecho a la protección de la salud de las personas en los términos del artículo 4º de la Constitución Política de los Estados Unidos Mexicanos y 106 de la Constitución Local, las bases y modalidades para el acceso a los servicios de salud proporcionados por las dependencias y entidades del Ejecutivo del Estado; entendiéndose a la salud como un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades; y
 
-Principio de legalidad.
+II.- Fijar los lineamientos conforme a los cuales el Ejecutivo del Estado y los Ayuntamientos ejercerán las atribuciones en la prestación de los servicios de salubridad general a que se refiere el artículo 13 apartado B de la Ley General de Salud.
 
-A nadie se le impondrá pena o medida de seguridad, sino por la realización de una acción u omisión expresamente prevista como delito en una ley vigente al tiempo de su realización, siempre y cuando concurran los presupuestos que para cada una de ellas señale la ley y la pena o la medida de seguridad se encuentren igualmente establecidas en ésta.
+###### ARTÍCULO 2.
 
-###### Artículo 2.
+Son Autoridades Sanitarias del Estado encargadas de la observancia y aplicación de esta Ley:
 
-Principio de tipicidad y retroactividad.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-No podrá imponerse pena o medida de seguridad, si no se acredita la existencia de los elementos de la descripción legal del delito de que se trate.
+I.- La persona Titular del Poder Ejecutivo del Estado;
 
-Queda prohibida la aplicación retroactiva, analógica o por mayoría de razón, de la ley penal en perjuicio de persona alguna.
+II.- La Secretaría de Salud del Estado; y
 
-La ley penal sólo tendrá efecto retroactivo si favorece al imputado, acusado o sentenciado cualquiera que sea la etapa del procedimiento, incluyendo la ejecución de la sanción. En caso de duda, se aplicará la ley más favorable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-###### Artículo 3.
+III.- El Instituto de Servicios de Salud Pública del Estado de Baja California;
 
-Prohibición de la responsabilidad objetiva.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Para que la acción o la omisión sean penalmente relevantes, deben realizarse en forma dolosa o culposa.
+IV.- Los Ayuntamientos, en los términos de los acuerdos que celebren con la persona titular del Poder Ejecutivo del Estado, de conformidad con esta Ley y demás disposiciones aplicables;
 
-###### Artículo 4.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Principio del bien jurídico y de la antijuridicidad material.
+La Secretaría de Salud ejercerá las atribuciones de regulación, control y fomento sanitarios, conforme a la presente Ley, a los Acuerdos celebrados con la Federación en la materia y a los demás ordenamientos aplicables que le correspondan, a través del organismo público descentralizado denominado Instituto de Servicios de Salud Pública del Estado de Baja California, el cual será autoridad sanitaria con atribuciones en los términos de esta Ley, su Reglamento Interno y demás disposiciones aplicables.
 
-Para que la acción o la omisión sean consideradas delictivas, se requiere que lesionen o pongan en peligro, sin causa justa, al bien jurídico tutelado por la ley penal.
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-###### Artículo 5.
+Son auxiliares de las autoridades sanitarias, las dependencias y los servidores públicos adscritos a los Poderes del Estado y a los Municipios.
 
-Principio de culpabilidad.
+###### ARTÍCULO 3.
 
-No podrá aplicarse pena alguna, si la acción o la omisión no han sido realizadas culpablemente. La medida de la pena estará en relación directa con el grado de culpabilidad del sujeto respecto del hecho cometido, así como de la gravedad de éste.
+El derecho a la protección de la salud, tiene las siguientes finalidades:
 
-Igualmente se requerirá la acreditación de la culpabilidad del sujeto para la aplicación de una medida de seguridad, si ésta se impone accesoriamente a la pena y su duración estará en relación directa con el grado de aquélla. Para la imposición de las otras medidas penales será necesaria la existencia, al menos, de un hecho antijurídico, siempre que de acuerdo con las condiciones personales del autor, hubiera necesidad de su aplicación en atención a los fines de prevención del delito que con aquéllas pudieran alcanzarse.
+I.- El bienestar físico y mental del ser humano, para contribuir al ejercicio pleno de sus capacidades;
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+II.- La prolongación y el mejoramiento de la calidad de la vida humana;
 
-No podrá restringirse ninguna garantía o derecho de la persona imputada, ni imponerse consecuencia jurídica alguna del delito, con base en la peligrosidad del agente o en los rasgos de su personalidad.
+III.- La protección y el acrecentamiento de los valores que coadyuven a la creación, conservación y disfrute de las condiciones de salud que contribuyan al desarrollo social;
 
-### CAPÍTULO I. APLICACIÓN ESPACIAL
+IV.- La extensión de actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
 
-###### Artículo 6.
+V.- El disfrute de servicios de salud y de asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
 
-Principio de jurisdiccionalidad.
+VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud; y
 
-Sólo podrán imponerse penas o medidas de seguridad por resolución de autoridad judicial competente, mediante procedimiento seguido ante los tribunales previamente establecidos.
+VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+###### ARTÍCULO 4.
 
-###### Artículo 6 Bis.
+Corresponde a la Secretaría de Salud del Estado en materia de salubridad general, promover, organizar, supervisar, y evaluar la prestación de los siguientes servicios o programas:
 
-Principios de proporcionalidad y presunción de inocencia.
+I.- La atención médica, preferentemente en beneficio de grupos vulnerables;
 
-Para la imposición de cualquier consecuencia jurídica será necesaria la existencia, al menos, de una conducta típica antijurídica y culpable, siempre que de acuerdo con las circunstancias personales del sujeto activo, hubiera merecimiento, necesidad racional e idoneidad de su aplicación en atención a los fines de prevención especial del delito y de reinserción social que con aquéllas pudieran alcanzarse.
+II.- La atención materno-infantil;
 
-Todo acusado será tenido como inocente mientras no se pruebe que se cometió el delito que se le imputa y que él lo perpetró.
+III.- La planificación familiar;
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+IV.- La salud mental;
 
-###### Artículo 6 Ter.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-Aplicación del Código.
+V.- La salud visual;
 
-Al presente Código le son aplicables enunciativamente los principios establecidos en los artículos 1, 13, 14, 16, 17, 18, 19, 20, 21, 22 y 38 de la Constitución Política de los Estados Unidos Mexicanos, las normas relativas a los derechos humanos y tratados internacionales, de los que el Estado mexicano sea parte, y las previstas en este Código.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-Queda prohibido todo acto u omisión, en cualquier fase del procedimiento, que vulnere la dignidad humana de la víctima o de la persona imputada. La infracción a este principio será sancionada con arreglo al ordenamiento jurídico aplicable.
+VI.- La salud auditiva;
 
-## TÍTULO PRIMERO. LA LEY PENAL
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-###### Artículo 7.
+VII.- La vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, como coadyuvante del departamento de profesiones;
 
-Principio de territorialidad.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-Este código se aplicará en el Estado de Tlaxcala por los delitos del fuero común en los casos que sean de la competencia de sus tribunales.
+VIII.- La promoción de la formación de recursos humanos para la salud;
 
-###### Artículo 8.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-Aplicación extraterritorial de la ley penal.
+IX.- La coordinación de la investigación para la salud y el control de ésta en los seres humanos;
 
-Igualmente, el presente código se aplicará, por los delitos cometidos en alguna entidad federativa, en los casos siguientes:
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-I. Por los delitos que produzcan efectos dentro del territorio del Estado;
+X.- La información relativa a las condiciones, recursos y servicios de salud en el Estado;
 
-II. Por los delitos cuya ejecución se inicie fuera del territorio del Estado, si se consuman dentro del mismo, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-III. Por los delitos permanentes o continuados y se sigan cometiendo dentro del territorio del Estado.
+XI.- La educación para la salud;
 
-En los casos comprendidos en las fracciones II y III de este artículo se aplicará el código cuando el imputado se encuentre en el territorio del mismo o no se haya ejercitado en su contra acción penal en otra entidad federativa cuyos tribunales sean competentes, por disposiciones análogas a las de este código, para conocer del delito.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-###### Artículo 9.
+XII.- La orientación y vigilancia de la nutrición, colocando énfasis en las instituciones educativas públicas y privadas de los niveles básico y media superior del Estado;
 
-Validez temporal.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-Es aplicable la ley penal vigente en el momento de la realización del hecho punible.
+XIII.- Coadyuvar con las Autoridades competentes en la prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
-### CAPÍTULO II. APLICACIÓN TEMPORAL
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-###### Artículo 10.
+XIV.- La salud ocupacional y el saneamiento básico;
 
-Excepción de ley más favorable.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-Cuando entre la comisión del delito y la extinción de la pena o medida de seguridad correspondiente, entrare en vigor otra ley aplicable al caso, se estará a lo dispuesto en la ley más favorable al imputado, acusado o sentenciado, con excepción de los delitos permanentes y continuados.
+XV.- La prevención y el control de enfermedades transmisibles;
 
-La autoridad que esté conociendo o haya conocido del procedimiento penal, aplicará de oficio la ley más favorable.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-Si después de cometido el delito y antes de que se dicte la sentencia que deba pronunciarse o ésta se haya dictado y no haya causado ejecutoria se promulgan una o más leyes que disminuyan la pena o la sustituyan por otra que sea menos grave, se aplicará la nueva ley.
+XVI.- La prevención y el control de enfermedades no transmisibles y accidentes;
 
-Si una nueva ley deja de considerar una conducta como delito, se sobreseerán los procedimientos y cesarán los efectos de las sentencias, en sus respectivos casos.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-En caso de haberse cubierto la reparación del daño no habrá lugar a solicitar la devolución de la misma.
+XVII.- La prevención de la discapacidad y rehabilitación de los discapacitados;
 
-###### Artículo 11.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-Validez personal y edad penal.
+XVIII.- La asistencia social en su aspecto sanitario y de atención médica; así como la prevención, atención y erradicación de plagas que afectan la salud de la población;
 
-Las disposiciones de este código se aplicarán a todas las personas a partir de los dieciocho años de edad.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+XIX.- El programa contra el alcoholismo;
 
-A las personas menores de dieciocho años (sic) edad que realicen una conducta activa u omisiva prevista en algún tipo penal, se les aplicarán las disposiciones contenidas en las leyes correspondientes, por los órganos especializados destinados a ello y según las normas de procedimiento que las mismas establezcan.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-Este código se aplicará, por igual a todos los responsables de los delitos, sean nacionales o extranjeros, con la salvedad, por lo que hace a estos últimos, de las excepciones reconocidas en los tratados celebrados por el Estado Mexicano con otras naciones y en el derecho de reciprocidad.
+XX.- El programa contra la ludopatía;
 
-###### Artículo 12.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-Principio de especialidad, consunción y subsidiariedad.
+XXI.- El programa contra la drogadicción;
 
-Cuando una misma materia aparezca regulada por diversas disposiciones que resulten incompatibles entre sí, según las circunstancias del caso, el juzgador atenderá a los siguientes criterios:
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
 
-I. La especial prevalecerá sobre la general;
+XXII.- El programa contra el tabaquismo;
 
-II. La de mayor protección al bien jurídico absorberá a la de menor alcance, o
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-III. La principal excluirá a la subsidiaria.
+XXIII.- La prevención, orientación, control y vigilancia en materia de nutrición, sobrepeso, obesidad, diabetes y otros trastornos de la conducta alimentaria, así como las enfermedades cardiovasculares.
 
-###### Artículo 13.
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
 
-Aplicación supletoria del código penal.
+XXIV.- La orientación médica o prevención del farmacodependiente o consumidor, respectivamente, cuando reciba del Ministerio Público, el reporte de no ejercicio de la acción penal;
 
-Cuando se cometa un delito no previsto por este código, pero sí en una ley especial del Estado, se aplicará esta última y sólo en lo no previsto por la misma se aplicarán las disposiciones de este ordenamiento.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-## TÍTULO SEGUNDO. EL DELITO
+XXV.- El programa de prevención, atención y control del VIH/SIDA, e infecciones de transmisión sexual;
 
-###### Artículo 14.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
-Definición legal de Delito.
+XXVI.- La atención médica geriátrica a las personas adultas mayores de 65 años de edad;
 
-Delito es el acto u omisión que sancionan las leyes penales.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
 
-###### Artículo 15.
+XXVII.- El programa para la atención médica de la Insuficiencia Renal;
 
-Omisión impropia o comisión por omisión.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-En los delitos de resultado material será atribuible el resultado típico producido a quien omita impedirlo, si éste tenía el deber jurídico de evitarlo, si:
+XXVIII.- Elaborar, dar seguimiento y hacer público, los estudios epidemiológicos relacionados con la calidad del aire;
 
-I. Es garante del bien jurídico, por:
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-a) Aceptar efectivamente su custodia;
+XXIX.- El programa para la atención médica de neoplasias;
 
-b) Formar parte voluntariamente de una comunidad que afronta peligros de la naturaleza;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-c) Generar el peligro para el bien jurídico con una actividad precedente culposa, o
+XXX.- Los cuidados paliativos; y,
 
-d) Hallarse en una efectiva y concreta posición de custodia de la vida, la salud o integridad corporal de algún miembro de su familia o sobre quien se ejerza la tutela.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-II. De acuerdo con las circunstancias podía evitarlo, y
+XXXI.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica del Poder Ejecutivo del Estado de Baja California, de esta Ley y demás ordenamientos aplicables.
 
-III. Su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo.
+###### ARTÍCULO 5.
 
-### CAPÍTULO III. APLICACIÓN PERSONAL DE LA LEY
+Para los efectos de esta Ley es materia de salubridad local, el control sanitario de:
+
+I.- Establecimientos dedicados al expendio de alimentos y bebidas alcohólicas y no alcohólicas;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+II.- Funerarias, Panteones y cadáveres de seres humanos;
+
+III.- Limpieza Pública;
+
+IV.- Agua potable para uso y consumo humano y alcantarillado sanitario;
+
+V.- Albercas y baños públicos;
+
+VI.- Centros de reunión y espectáculos;
+
+VII.- Establecimientos de hospedaje;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+VIII.- Establecimientos dedicados al Embellecimiento Físico y Medicina Estética;
+
+IX.- (DEROGADA, P.O. 24 DE OCTUBRE DE 2014)
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+
+X.- Centros de rehabilitación y reintegración de personas con problemas de alcoholismo y drogadicción;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+
+XI.- Centros de Readaptación Social así como aquellos en que se atienda a los menores infractores;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+
+XII.- La venta de alimentos en la vía pública;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+
+XIII.- Los responsables de la operación y funcionamiento de fuentes de radicación de uso médico, sus auxiliares técnicos y los asesores especializados en seguridad radiológica;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+
+XIV.- Mercados y centros de abasto;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+
+XV.- Construcciones para centros de reunión pública, comercios y esparcimiento;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+
+XVI.- Rastros;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+
+XVII.- Transporte público de carga de productos alimenticios;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+XVIII. Los centros de desarrollo infantil y Estancias Infantiles Familiares;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2020)</small>
+
+XIX. Los establecimientos en que se realicen tatuajes, micropigmentaciones y perforaciones, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
+
+XX. Los demás establecimientos y servicios similares y aquellos que determinen otras disposiciones aplicables.
+
+### CAPITULO SEGUNDO. DEL SISTEMA ESTATAL DE SALUD
+
+###### ARTÍCULO 6.
+
+El Sistema Estatal de Salud está constituido por las dependencias y entidades de la Administración Pública del Estado y Municipios, por las personas físicas o morales de los sectores social y privado, que presten servicios de salud, así como por los mecanismos de coordinación de acciones establecidos para dar cumplimiento al derecho a la protección de la salud.
+
+El Sistema Estatal de Salud, con la intervención que corresponda al Comité de Planeación para el Desarrollo del Estado, definirá los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud en el Estado, de conformidad con lo dispuesto por esta Ley y las disposiciones aplicables.
+
+###### ARTÍCULO 7.
+
+El Sistema Estatal de Salud tiene los siguientes objetivos:
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2022)</small>
+
+I.- Proporcionar servicios de salud a toda la población del Estado, adoptando todas las medidas necesarias, hasta el máximo de los recursos que disponga para lograr progresivamente su plena efectividad y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios y a los factores que condicionen y causen daños a la salud, o signifiquen riesgos para la misma, con especial interés en la implementación e impulso de las acciones de atención integrada de carácter preventivo, acorde a la edad, sexo y factores de riesgo de las personas;
+
+II.- Contribuir al adecuado desarrollo demográfico del Estado;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+
+III.- Colaborar al bienestar de la población, mediante servicios de asistencia social, principalmente a menores en estado de abandono, farmacodependientes en situación de calle, ancianos desamparados, discapacitados y en las comunidades indígenas, fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
+
+IV.- Impulsar el desarrollo del individuo, de la familia y de la comunidad, así como la integración social y el crecimiento físico y mental de la niñez;
+
+V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que propicien el desarrollo satisfactorio de la vida;
+
+VI.- Impulsar un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
+
+VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionadas con la salud y con el uso de los servicios que se presten para su protección; y
+
+VIII.- Promover el fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2016)</small>
+
+IX.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2016)</small>
+
+X.- Promover el desarrollo de los servicios de salud con base en la integración de las tecnologías de la información y las Comunicaciones para ampliar la cobertura y mejorar la calidad de atención a la salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2016)</small>
+
+XI.- Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2016)</small>
+
+XII.- Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria.
+
+###### ARTÍCULO 8.
+
+La Secretaría de Salud del Estado promoverá la participación, en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
+
+###### ARTÍCULO 9.
+
+La concertación de acciones de las Autoridades Sanitarias del Estado con los integrantes de los sectores sociales y privado, se realizará mediante convenios, los cuales se ajustarán a las siguientes bases:
+
+I.- Definición de las responsabilidades que asuman los integrantes de los sectores sociales y privado;
+
+II.- Determinación en su caso de la orientación, estímulo y apoyo que llevarán a cabo las autoridades sanitarias;
+
+III.- Especificación del carácter operativo de la concertación de acciones; con reserva de las funciones de Autoridad de la Secretaría de Salud del Estado o de las Autoridades Municipales en su caso; y
+
+IV.- Expresión de que las acciones no persiguen fines económicos o de lucro, y las demás estipulaciones que de común acuerdo establezcan las partes.
+
+### CAPITULO TERCERO. DE LA COMPETENCIA
+
+###### ARTÍCULO 10.
+
+La competencia de las Autoridades Sanitarias del Estado en la planeación, regulación, organización y funcionamiento del Sistema Estatal de Salud, se regirá por las disposiciones de esta Ley y demás normas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### ARTÍCULO 11.
+
+Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Salud:
+
+I.- Coordinar el Sistema Estatal de Salud y coadyuvar a la consolidación y funcionamiento del Sistema Nacional de Salud;
+
+II.- Elaborar el programa de salud para el Estado, tomando en cuenta las prioridades y los servicios del Sistema Nacional y Estatal de Salud;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+II BIS.- Promover que las instituciones del Sistema Estatal de Salud implementen programas cuyo objeto consista en brindar atención médica integrada de carácter preventivo, acorde a la edad, sexo y factores de riesgo de las personas;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+
+III.- Promover y coadyuvar en la gestión de las certificaciones ante el Consejo de Salubridad General, cuando así lo haya solicitado el Director de alguno de los Hospitales del Sector Público, así como organizar, supervisar, evaluar y operar en su caso, la prestación de los servicios de salud a que se refiere el artículo 4º de esta Ley;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+IV.- Efectuar el control sanitario de los establecimientos y servicios a que se refiere el artículo 5 de la presente Ley a través del Instituto de Servicios de Salud Pública del Estado de Baja California, en términos del artículo 2 de la misma Ley;
+
+V.- Promover, orientar y apoyar las acciones en materia de salubridad local a cargo de los Municipios, con sujeción a la política nacional y estatal de salud y a los acuerdos que se suscriban;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+VI.- Cumplir y hacer cumplir las normas oficiales mexicanas en la materia, cuando su aplicación corresponda a las autoridades locales;
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+VII.- Coordinarse con la Secretaría de Salud Federal para la ejecución en el Estado, del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, reconociendo a esta como un problema de salud pública;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+VIII.- Promover y llevar a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos, así como las acciones para su detección temprana en el individuo, de conformidad con los términos establecidos por el programa nacional para la prevención y tratamiento de la farmacodependencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+IX.- Proporcionar información y brindar la atención médica y los tratamientos que requieren las personas que consumen estupefacientes y psicotrópicos; conforme a los términos establecidos por el programa nacional para la prevención y tratamiento de la farmacodependencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+X.- Fomentar la participación de los sectores tanto público, social y privado en la prevención y tratamiento y apoyo a las personas que padecen alguna adicción o se encuentran en riesgo de padecerla;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XI.- La prevención del Consumo de narcóticos y la atención a las adicciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XII.- Citar al farmacodependiente o consumidor a efecto de proporcionarle orientación y conminarlo a tomar parte en los programas contra la farmacodependencia o en aquellos preventivos en la materia, una vez que el centro o institución especializado en tratamiento, atención y rehabilitación de farmacodependientes haya recibido de la Secretaria de Salud del Estado el reporte de no ejercicio de la acción penal;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
+
+XIII.- Ejecutar permanentemente una campaña estatal de donación altruista de sangre, componentes sanguíneos y células troncales o progenitoras, que garantice su abasto al servicio de salud, en la que se deberá cuidar que la donación se rija por los principios de altruismo, ausencia de ánimo de lucro y factibilidad, y de acuerdo a las bases y modalidades establecidas en el Sistema Nacional de Salud;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
+
+XIV.- Realizar las acciones que sean necesarias a fin de contar con ambulancias equipadas para trasladar a aquellas personas que requieran atención médica de urgencia y se encuentren en zonas marginadas. Estas ambulancias deberán de ubicarse en puntos estratégicos para una mejor cobertura y reducción de los tiempos de traslado; y
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+XV.- Promover e impulsar programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y la activación física;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XVI.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica del Poder Ejecutivo del Estado de Baja California, de esta Ley y demás ordenamientos aplicables.
+
+###### ARTÍCULO 12.
+
+Corresponde a los Municipios:
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+I.- Asumir en el ámbito de su competencia, los servicios de salud a que se refieren los Artículos 4° y 5° de este Ordenamiento; en los términos de los acuerdos de coordinación que suscriban con el Gobernador del Estado;
+
+II.- Administrar los establecimientos asistenciales y de salud que descentralice en su favor el Ejecutivo del Estado en los términos de las leyes aplicables y de los acuerdos que al efecto se celebren;
+
+III.- Formular y desarrollar programas municipales de salud, en el marco del Sistema Nacional de Salud, del Sistema Estatal de Salud y de acuerdo con los principios y objetivos de los Planes Nacional, Estatal y Municipales de Desarrollo;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
+
+IV.- Formular acciones de orientación que permitan establecer en la sociedad una cultura de donación de órganos, de sangre, componentes sanguíneos y células troncales o progenitoras, de acuerdo a las bases y modalidades establecidas en el Sistema Nacional de Salud;
+
+V.- Vigilar y hacer cumplir en la esfera de su competencia, la Ley General de Salud, la presente Ley y demás disposiciones legales aplicables; y
+
+VI.- Las demás que sean necesarias para hacer efectivas las atribuciones anteriores y las que se deriven de esta Ley.
+
+###### ARTÍCULO 13.
+
+El Ejecutivo del Estado podrá celebrar con la Federación, los acuerdos de coordinación necesarios para asumir la prestación de los servicios de Salubridad General concurrente, bajo las bases y modalidades que en los mismos se convenga.
+
+###### ARTÍCULO 14.
+
+La Secretaría de Salud del Estado de conformidad con las disposiciones aplicables, aportará los recursos humanos, materiales y financieros que sean necesarios para la operación de los servicios de Salubridad General, que queden comprendidos en los acuerdos de coordinación que al efecto se celebren con la Federación o con los Municipios.
+
+Los recursos que aporten las partes quedarán expresamente afectos a los fines del acuerdo respectivo y sujetos al régimen legal que les corresponda. La gestión de los mismos quedará a cargo de la estructura administrativa que coordinadamente determinen las partes.
+
+###### ARTÍCULO 15.
+
+Los acuerdos de coordinación que se celebren con los Municipios, se sujetarán a las siguientes bases:
+
+I.- Indicarán el o los servicios de Salubridad General que constituyan el objeto de la coordinación;
+
+II.- Determinarán las funciones que corresponda desarrollar a las partes, señalando las obligaciones que las mismas asuman;
+
+III.- Describirán los bienes y recursos que se aporten, con la especificación del régimen a que quedarán sujetos;
+
+IV.- Indicarán las medidas legales o administrativas que serán promovidas y observadas;
+
+V.- Establecerán su duración y causas de terminación anticipada;
+
+VI.- Indicarán el procedimiento para la resolución de las controversias que en su caso se susciten con relación a su cumplimiento y ejecución, atendiendo a las disposiciones aplicables; y
+
+VII.- Contendrán las demás estipulaciones que se consideren necesarias para la mejor prestación de los servicios.
+
+### CAPITULO CUARTO. DE LOS SERVICIOS DE SALUD
 
 #### SECCION I. DISPOSICIONES COMUNES
 
-###### Artículo 16.
+###### ARTÍCULO 16.
 
-Delito instantáneo, permanente o continuo y continuado.
+Para los efectos de esta Ley, se entiende por servicios de salud todas aquellas acciones realizadas en beneficio del individuo y de la sociedad en general, dirigidas a proteger, promover y restaurar la salud de la persona y de la colectividad.
 
-El delito atendiendo a su momento de consumación, puede ser:
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+ARTÍCULO 16 BIS.- El Sistema Estatal de Salud deberá implementar el uso del expediente clínico electrónico en las instituciones que lo conforman, atendiendo a la legislación vigente y a las Normas Oficiales Mexicanas.
 
-I. Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos los elementos de la descripción legal;
+###### ARTÍCULO 17.
 
-II. Permanente o continuo, cuando la consumación se prolongó de una manera ininterrumpida durante un lapso mayor o menor de tiempo, y
+Los servicios de salud se clasifican en tres tipos:
 
-III. Continuado, cuando con unidad de propósito delictivo y pluralidad de conducta se viola el mismo precepto legal, y el sujeto pasivo sea el mismo.
+I.- De atención médica;
 
-###### Artículo 17.
+II.- De salud pública; y
 
-Clasificación de los delitos.
+III.- De asistencia social.
 
-Los delitos pueden ser:
+###### ARTÍCULO 18.
 
-I. Dolosos, y
+Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
 
-II. Culposos.
+###### ARTÍCULO 19.
 
-###### Artículo 18.
+Para los efectos del derecho a la protección de la salud, se consideran servicios básicos de salud los referentes a:
 
-Dolo y culpa.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-El delito es doloso cuando se causa un resultado querido o aceptado, o cuando el resultado es consecuencia necesaria de la acción u omisión.
+I.- La atención médica integral que comprende la atención médica integrada de carácter preventivo, acciones curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias.
 
-El delito es culposo cuando se causa el resultado por negligencia, imprevisión, imprudencia, impericia, falta de aptitud, de reflexión o de cuidado.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2016)</small>
 
-###### Artículo 19.
+Para efectos de esta fracción la atención médica de carácter preventivo consiste en realizar todas las acciones de prevención y promoción para la protección de la salud, de acuerdo a la edad, sexo y determinantes físicos y psíquicos de las personas, realizadas preferentemente en una sola consulta, así mismo comprenderá la atención pre hospitalaria, la cual, se entenderá como la otorgada al paciente cuya condición clínica se considera que pone en peligro la vida, un órgano o su función, con el fin de lograr la limitación del daño y su estabilización orgánico-funcional, desde los primeros auxilios hasta la llegada y entrega a un establecimiento para la atención médica con servicio de urgencias, así como durante el traslado entre diferentes establecimientos a bordo de una ambulancia.
 
-Tentativa.
+II.- La atención materno infantil;
 
-Existe tentativa punible, cuando la resolución de cometer un delito se exterioriza realizando, en parte o totalmente, los actos ejecutivos que deberían producir el resultado u omitiendo los que deberían evitarlo, si por causas ajenas a la voluntad del sujeto activo no se llega a la consumación, pero se pone en peligro el bien jurídico tutelado.
+III.- La planificación familiar;
+
+IV.- La salud mental;
+
+V.- La educación para la salud y la promoción del saneamiento básico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ENERO DE 2023)</small>
+
+VI.- La educación menstrual, la cual refiere a que todas las niñas, jóvenes, mujeres y personas menstruantes dispongan de la información y educación menstrual objetiva y clara. Además, de contar con condiciones sociales y culturales propicias para vivir una menstruación sin estigmas ni tabúes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2023)</small>
+
+VII.- La promoción de un estilo de vida saludable;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2023)</small>
+
+VIII.- La asistencia social a los grupos más vulnerables;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2023)</small>
+
+IX.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
+
+X.- La prevención y el control de las enfermedades buco dentales;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
+
+XI.- La disponibilidad de medicamentos y otros insumos esenciales para la salud, incluyendo productos de gestión menstrual;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2023)</small>
+
+XII.- La atención médica geriátrica a personas mayores de 65 años de edad;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
+
+XIII.- La prevención, detección, tratamiento y rehabilitación de neoplasias; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2023)</small>
+
+XIV.- Los demás que establezca esta Ley y otros ordenamientos jurídicos.
+
+Las Autoridades Sanitarias del Estado, de conformidad con las disposiciones legales aplicables vigilarán que las instituciones que presten servicios de salud en la Entidad, apliquen el cuadro básico de insumos del Sector Salud.
 
 #### SECCION II. DE LA ATENCION MEDICA
 
-###### Artículo 20.
+###### ARTÍCULO 20.
 
-Desistimiento y arrepentimiento.
+Para los efectos de esta Ley la atención médica es el conjunto de servicios que se proporcionan al individuo, con el fin de proteger, promover y restaurar su salud.
 
-Si el sujeto se desiste voluntariamente o de propio impulso de la ejecución o impide la consumación del delito, no se impondrá pena o medida de seguridad alguna por lo que a éste se refiere, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2016)</small>
 
-###### Artículo 21.
+Para efectos del párrafo anterior los prestadores de servicios de salud podrán apoyarse en las Guías de Práctica Clínica y los medios electrónicos de acuerdo con las Normas Oficiales Mexicanas que expida la autoridad correspondiente.
 
-Formas de autoría y participación.
+###### ARTÍCULO 21.
 
-Son responsables del delito, quienes:
+Las actividades de atención médica se clasifican en:
 
-I. Lo realicen por sí;
+I.- Preventivas, que incluyen las de promoción general y las de protección específica;
 
-II. Concierten o preparen su realización;
+II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno; y
 
-III. Lo realicen conjuntamente con otro u otros autores;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
-IV. Lo lleven a cabo sirviéndose de otro como instrumento;
+III.- De rehabilitación, que incluyen acciones tendientes a corregir las discapacidades físicas o mentales, o de enfermedad por adicción a los narcóticos.
 
-V. Determinen dolosamente al autor a cometerlo;
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-VI. Dolosamente presten ayuda o auxilio al autor para su comisión, y
-
-VII. Con posterioridad a su ejecución, auxilien al autor por acuerdo anterior al delito.
-
-Quienes únicamente intervengan en la planeación o preparación del delito, así como quienes determinen a otro o le presten ayuda o auxilio, sólo responderán si el hecho antijurídico del autor alcanza al menos el grado de tentativa del delito que se quiso cometer.
-
-La instigación y la complicidad a que se refieren las fracciones V y VI, respectivamente, sólo son admisibles en los delitos dolosos.
-
-Para las hipótesis previstas en las fracciones VI y VII se impondrá la punibilidad de la complicidad prevista en el artículo 80 de este código.
+IV. Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario.
 
 #### SECCION III. DE LA ATENCION MATERNO-INFANTIL
 
 (REPUBLICADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)
 
-###### Artículo 22.
+###### ARTÍCULO 22.
 
-Prohibición de penas trascendentales.
+La atención materno infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-Estando prohibidas las penas trascendentales, la responsabilidad penal no debe pasar de la persona o bienes del autor y los partícipes.
+I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna y su salud visual;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+III.- La detección temprana de la sordera y su tratamiento, en todos sus grados, desde los primeros días del nacimiento;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+IV.- Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de los niños en las escuelas públicas y privadas;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+V.- Los menores de hasta seis meses de edad, entregados en las Instituciones Públicas de Salud del Estado y Albergues del Sistema Estatal para el Desarrollo Integral de la Familia, se les proporcionará atención pre-hospitalaria o de urgencia según sea el caso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2022)</small>
+
+V Bis.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida.
+
+Las autoridades sanitarias fomentarán la instalación de salas de lactancia en los centros de trabajo del sector público y privado.
+
+En los centros de trabajo del sector privado la instalación de salas de lactancia se sujetará a las disposiciones laborales y demás aplicables.
+
+En los establecimientos de cualquier giro comercial o de servicios se procurará contar, por lo menos, con una sala de lactancia.
+
+Las salas de lactancia son los espacios dotados de privacidad, dignos, higiénicos y cálidos en los cuales las madres pueden amamantar, extraer su leche y conservarla, en términos de la normatividad que al efecto se expida.
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+VI.- La realización del tamiz neonatal ampliado; y
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+
+VII.- La atención de los menores de 6 años, para que reciban la adecuada estimulación temprana de acuerdo con las normas técnicas que para tal efecto expida la Autoridad Federal competente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE JULIO DE 2015)</small>
+
+En una situación de urgencia médica, las Instituciones Públicas de Salud prestarán de manera inmediata los servicios sanitarios y la atención médica necesaria a las mujeres en estado de gravidez, cualquiera que sea la etapa de la gestación, y que por su estado grave de salud se encuentre en riesgo su vida y la del producto de la concepción; esto sin discernir o distinguir la calidad de la usuaria; es decir, sea (sic) o no usuarias de servicios a población general, derecho habientes, aseguradas o beneficiarias, o que estén o no bajo el Sistema de Protección Social en Salud.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE JULIO DE 2015)</small>
+
+Cualquier omisión a lo anterior será sancionada en los términos que establezcan las leyes civiles, penales y administrativas.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 #### SECCION III-BIS. DE LA ENTREGA DE MENORES DE HASTA SEIS MESES DE EDAD, POR PARTE DEL PADRE O MADRE
 
@@ -333,393 +667,363 @@ c.- Huellas digitales del menor, y
 
 d.- El número aproximado de semanas de edad del menor
 
-###### Artículo 23.
+###### ARTÍCULO 23.
 
-Culpabilidad del instigador.
+En la organización y operación de los servicios de salud destinados a la atención materno infantil, las Autoridades Sanitarias del Estado establecerán:
 
-Los instigadores serán responsables únicamente de los actos de instigación cuando se tenga el dominio del hecho, pero no de los demás que ejecute el instigado, a no ser que éstos fueran racionalmente previsibles o consecuencia inmediata y necesaria del acto instigado.
+I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de padecimientos de sus integrantes;
 
-###### Artículo 24.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-Culpabilidad en los tipos complementados privilegiados y agravados.
+II.- Acciones de orientación y vigilancia institucional, y en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
 
-Las circunstancias modificativas o calificativas del delito aprovechan o perjudican a todos los imputados o acusados que tuvieren conocimiento de ellas en el momento de su intervención o debieran preverlas racionalmente.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-Las circunstancias personales de alguno o algunos de los imputados o acusados que sean modificativas o calificativas del delito o constituyan un elemento de éste, aprovecharán o perjudicarán únicamente a aquellos en quienes concurran.
+III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de cinco años;
 
-###### Artículo 25.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-Delito emergente.
+IV.- Programas permanentes dirigidos principalmente a las mujeres embarazadas o madres de recién nacidos, con el fin de proporcionarles información suficiente y comprensible sobre las ventajas de la leche materna, así como la instrucción necesaria para el aprendizaje de las técnicas de la lactancia materna; y,
 
-Si varias personas convienen en ejecutar un delito determinado y alguna o algunas de ellas cometen un delito distinto al acordado, todos serán responsables de éste, según su propia culpabilidad siempre que concurran las circunstancias siguientes:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-I. Que el nuevo delito sea una consecuencia necesaria del primeramente convenido o sirva de medio para cometerlo, y
+V.- Al menos un banco de leche humana en alguno de sus establecimientos de salud que cuente con servicios neonatales.
 
-II. Que el nuevo delito debiera ser previsto racionalmente por los que convinieron en ejecutar el primero.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-No responderán del nuevo delito quienes hubieran tratado de impedir su ejecución.
+La Secretaría de Salud, emitirá los criterios de operación del banco de leche humana, y de manera progresiva, deberá prever su funcionamiento, en por lo menos tres municipios del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+El Instituto de Servicios de Salud Pública del Estado, deberá proporcionar los recursos materiales y humanos necesarios para el funcionamiento de los bancos de leche humana, que en su caso se instalen.
+
+###### ARTÍCULO 24.
+
+Las Autoridades Sanitarias, Educativas y Laborales del Estado en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
+
+I.- Los programas para padres destinados a promover la atención materno infantil;
+
+II.- Las actividades recreativas, de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2006)</small>
+
+III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+
+IV.- La supervisión de la calidad nutricional de los alimentos y bebidas que se proporcionan o venden a los niños y adolescentes en las instituciones educativas de los niveles básico y media superior de conformidad a lo dispuesto en las Normas Oficiales Mexicanas, a fin de evitar aquellos, que a criterio de la propia Secretaría de Salud del Estado, causen daño a la salud ya sea por su contenido o por las prácticas de higiene y sanidad en su preparación, de conformidad con los lineamientos que en la materia se expidan; y,
+
+V.- Las demás que coadyuven a la protección de la salud materno-infantil.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 25.
+
+En materia de salud escolar, corresponde a la Secretaría de Salud del Estado y autoridades educativas, observar las normas oficiales mexicanas para proteger la salud del educando y de la comunidad escolar.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+Corresponde a la Secretaría de Salud del Estado, emitir los lineamientos y recomendaciones en materia de nutrición escolar, así como hacerlos llegar de forma oficial a las autoridades e instituciones educativas para su implementación.
+
+La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre la Secretaría de Salud del Estado y las Autoridades Educativas competentes.
 
 #### SECCION IV. DE LA PLANIFICACION FAMILIAR
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2021)</small>
 
-###### Artículo 26.
+###### ARTÍCULO 26.
 
-Autoría indeterminada.
+La atención a la salud sexual, reproductiva y de planificación familiar es prioritaria en Baja California. Los servicios que se presten en esta materia constituyen un medio eficaz para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad y con perspectiva de género.
 
-Cuando varios sujetos, sin concierto alguno, intervengan en la comisión de un delito y no pueda precisarse el daño que cada quien produjo, para su punibilidad se estará a lo previsto en el artículo 81 de este código.
+Deberá incluirse información objetiva, de calidad, veraz, oportuna, laica y libre de estereotipos, donde también se ofrezca orientación educativa a adolescentes y jóvenes.
 
-###### Artículo 27.
+También, se ofrecerá la asistencia médica a la mujer que decida interrumpir su embarazo, en los términos de esta Ley y de las disposiciones legales aplicables.
 
-Responsabilidad de las personas morales.
+###### ARTÍCULO 27.
 
-Para los efectos de este código, sólo pueden ser penalmente responsables las personas físicas; sin embargo, cuando un miembro o representante de una persona moral, con excepción de las Entidades del Estado, cometa algún delito con los medios que para tal objeto la misma entidad le proporciona de modo que resulte cometido a nombre, bajo el amparo o en beneficio de ésta, la autoridad judicial impondrá en la sentencia con audiencia e intervención de representante legal, las consecuencias previstas por este código para las personas jurídicas colectivas, sin perjuicio de la responsabilidad en que hubieren incurrido las personas físicas.
+Los servicios de planificación familiar comprenden:
 
-###### Artículo 28.
+I.- Programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual, con base en los contenidos y estrategias que establezcan los Consejos Nacional y Estatal de Población;
 
-Causas de exclusión del delito.
+II.- La atención y seguimiento de los aceptantes o usuarios de servicios de planificación familiar;
 
-El delito se excluye cuando exista:
+III.- La asesoría para la prestación de servicios de planificación familiar a cargo de los sectores público, social y privado y la supervisión y evaluación de las autoridades sanitarias conforme las políticas establecidas por los Consejos Nacional y Estatal de población;
 
-I. Ausencia de conducta: La actividad o la inactividad se realice sin intervención de la voluntad del sujeto activo;
+IV.- El apoyo y fomento de la investigación en materia de anticoncepción, infertilidad humana, planificación familiar y biología de la reproducción humana; y
 
-II. Atipicidad: Falte alguno de los elementos que integran la descripción legal del delito de que se trate;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2019)</small>
 
-III. Consentimiento del titular: Se actúe con el consentimiento del titular del bien jurídico afectado o del legitimado legalmente para otorgarlo, siempre y cuando se cumplan los siguientes requisitos:
+V.- La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar; y
 
-a) Que se trate de un bien jurídico disponible;
+(REFORMADA [N. DE E. ADICIONADA), P.O. 1 DE FEBRERO DE 2019)
 
-b) Que el titular del bien jurídico, o quien esté legitimado para consentir, tenga la capacidad jurídica para disponer libremente del bien, e
+VI.- La implementación de programas y campañas de prevención del Embarazo en adolescentes, en los Centros Escolares en coordinación con la Secretaría de Educación y Bienestar Social.
 
-c) Que el consentimiento sea expreso o tácito y no medie algún vicio del consentimiento.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2019)</small>
 
-Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento.
+###### ARTÍCULO 28.
 
-IV. Legítima defensa: Se repela una agresión real, ilegítima, actual o inminente, protegiendo bienes jurídicos propios o ajenos, de la cual resulte un peligro inmediato, siempre que no haya podido ser fácilmente evitada, exista necesidad racional del medio empleado para repelerla, no mediara provocación suficiente por parte del que se defiende o que el daño que iba a causar el agresor no hubiese podido ser fácilmente reparado después por medios legales.
-
-Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
-
-V. Estado de necesidad: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
-
-VI. Cumplimiento de un deber o ejercicio de un derecho: La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional de la conducta empleada para cumplirlo o ejercerlo;
-
-VII. Inimputabilidad y acción libre en su causa: Al momento de realizar el hecho típico, el sujeto activo no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el sujeto hubiese provocado voluntariamente su trastorno mental, en cuyo caso responderá por el resultado típico producido en tal situación;
-
-Cuando la capacidad a que se refiere el párrafo anterior se encuentre considerablemente disminuida, se estará a lo dispuesto en el artículo 66 de este código.
-
-VIII. Error de tipo y error de prohibición: Se realice la acción o la omisión bajo un error invencible, respecto de:
-
-a) Alguno de los elementos que integran la descripción legal del delito de que se trate, o
-
-b) La ilicitud de la conducta, ya sea porque el sujeto desconozca la existencia de la ley o el alcance de la misma o porque crea que está justificada su conducta.
-
-Si los errores a que se refieren los incisos anteriores son vencibles, se estará a lo dispuesto en el artículo 88 de este código.
-
-IX. Inexigibilidad de otra conducta: En atención a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto una conducta diversa a la que realizó, en virtud de no haberse podido conducir conforme a derecho.
-
-Las causas que excluyen el delito se resolverán de oficio, en cualquier estado del proceso.
-
-Si en los casos de las fracciones IV, V y VI de este artículo el sujeto se excediere, se estará a lo previsto en el artículo 89 de este código.
+La Secretaría de Salud del Estado coadyuvará con la federación para instrumentar y operar las acciones del programa nacional de planificación familiar que se formule conforme a la Ley General de Población, así como de las Estrategias Nacionales para la Prevención del Embarazo en Adolescentes.
 
 #### SECCION V. DE LA SALUD MENTAL
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-###### Artículo 29.
+###### ARTÍCULO 29.
 
-Concurso ideal y real.
+La prevención de las enfermedades mentales tiene carácter prioritario; se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales y de las discapacidades que estas generan, así como otros aspectos relacionados con la salud mental.
 
-Hay concurso ideal, cuando con una sola acción o una sola omisión se cometen varios delitos.
+###### ARTÍCULO 30.
 
-Hay concurso real, cuando con pluralidad de acciones u omisiones se cometen varios delitos.
+Para la promoción de la salud mental, la Secretaría de Salud del Estado y las instituciones de salud públicas y privadas en coordinación con las Autoridades competentes, fomentarán y apoyarán:
 
-En caso de concurso de delitos se estará a lo dispuesto en el artículo 86 de este código.
+I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
 
-No hay concurso cuando se trate de un delito continuado o permanente.
+II.- La difusión de las orientaciones para la promoción de la salud mental preferentemente al núcleo familiar;
 
-Tampoco existe concurso de delitos:
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
 
-I. Si las disposiciones legales violadas por el imputado o acusado son incompatibles entre sí. En este caso se aplicará la disposición que señale pena más grave;
+III.- La realización de programas para la prevención del uso inadecuado de estupefacientes, psicotrópicos, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia;
 
-II. Si uno o varios delitos constituyen un grado o grados de otro, o medio de ejecución. En este caso se aplicará la disposición que castigue este último, y
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2013)</small>
 
-III. Si un delito constituye un elemento de otro delito o una circunstancia agravante de su penalidad. En este caso se aplicará la disposición que castigue este último delito.
+IV.- El que por medio del Instituto de Psiquiatría del Estado de Baja California, se brinde el tratamiento psicológico necesario a los internos dentro de los centros de rehabilitación que se encuentren dentro del padrón a cargo de la Secretaría de Salud del Estado, a efecto de alejarlos del alcoholismo y la drogadicción; y
 
-###### Artículo 30.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-Hay reincidencia, siempre que el sancionado por sentencia dictada por cualquier Tribunal de la República o del extranjero, en los casos señalados en esta ley, cometa un nuevo delito, si no ha transcurrido, desde que cause ejecutoria dicho fallo, un término igual a la de la prescripción de la pena, salvo las excepciones fijadas por la ley.
+V.- La realización de programas para la prevención del suicidio a causa de trastornos mentales y del comportamiento, preferentemente en niñas, niños y adolescentes;
 
-###### Artículo 31.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-Si el reincidente en el mismo género de infracción comete un nuevo delito será considerado como delincuente habitual, siempre que las tres infracciones se hayan cometido en un período que no exceda de diez años.
+VI.- La realización de campañas permanentes de información y difusión de la Línea Telefónica de ayuda psicológica y de intervención en crisis, a fin de que la población reciba, en el menor tiempo posible, la atención que requiera, en tanto es posible canalizar a las personas a un servicio de atención permanente; y
 
-###### Artículo 32.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-Las disposiciones del presente Capítulo serán aplicables aún en el caso de tentativa, pero no a los delitos contra el Estado cualquiera que sea el grado de su ejecución.
+VII.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
-###### Artículo 33.
+###### ARTÍCULO 31.
 
-No se aplicarán los artículos anteriores tratándose de delitos políticos.
+La atención de las enfermedades mentales comprende:
 
-## TÍTULO TERCERO. PENAS Y MEDIDAS DE SEGURIDAD Y CONSECUENCIAS JURÍDICAS ACCESORIAS PARA LAS PERSONAS MORALES
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
-###### Artículo 34.
+I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos crónicos, deficientes mentales, alcohólicos y personas enfermas que usen habitualmente estupefacientes o substancias psicotrópicas, o alguna droga; y
 
-Catálogo de penas.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
-Las penas son:
+II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento hospitalario o ambulatorio y rehabilitación de enfermos mentales, donde se incluirán los programas de talleres protegidos.
 
-I. Prisión;
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
-II. Tratamiento en libertad de imputables;
+III.- Los talleres protegidos de rehabilitación psiquiátrica, tienen como objetivo fomentar la integración psicológica, social y laboral del paciente psiquiátrico promoviendo el desarrollo de capacidades remanentes.
 
-III. Tratamiento en semilibertad;
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-IV. Sanción pecuniaria;
+ARTÍCULO 31 BIS.- La persona con trastornos mentales y del comportamiento tendrá los siguientes derechos:
 
-V. Trabajo en favor de la comunidad;
+I.- Derecho a la mejor atención disponible en materia de salud mental y acorde con sus antecedentes culturales, lo que incluye el trato sin discriminación y con respeto a la dignidad de la persona, en establecimiento de la red del Sistema Nacional de Salud;
 
-VI. Trabajo obligatorio para la reparación del daño;
+II.- Derecho a contar con un representante que cuide en todo momento sus intereses. Para esto, la autoridad judicial deberá de cuidar que no exista conflicto de intereses por parte del representante;
 
-VII. Confinamiento;
+III.- Derecho al consentimiento informado de la persona o su representante, en relación al tratamiento a recibir. Esto solo se exceptuará en el caso de internamiento involuntario, cuando se trate de un caso urgente o cuando se compruebe que el tratamiento es el más indicado para atender las necesidades del paciente;
 
-VIII. Decomiso de los instrumentos, objetos y productos del delito, y
+IV.- Derecho a que les sean impuestas únicamente las restricciones necesarias para garantizar su protección y la de terceros. En todo caso, se deberá procurar que el internamiento sea lo menos restrictivo posible y a que el tratamiento a recibir sea lo menos alterador posible;
 
-IX. Suspensión, privación e inhabilitación de derechos y funciones.
+V.- Derecho a que el tratamiento que reciba este basado en un plan prescrito individualmente con el historial clínico, revisando periódicamente y modificando llegado el caso;
+
+VI.- Derecho a no ser sometido a tratamientos irreversibles o que modifiquen la integridad de la persona;
+
+VII.- Derecho a ser tratado y atendido en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares o amigos, y
+
+VIII.- Derecho a la confidencialidad de la información psiquiátrica sobre su persona.
+
+###### ARTÍCULO 32.
+
+El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se ajustará a principios éticos y sociales, además de los requisitos científicos y legales que determinen las normas oficiales mexicanas en la materia y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+Tratándose de internamiento voluntario, la persona con trastornos mentales tendrá derecho al consentimiento informado, otorgado por escrito por el mismo paciente, su representante o tutor, en relación al tratamiento a recibir, sólo se exceptuará en el caso de internamiento involuntario.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+El internamiento involuntario, se presenta en el caso de usuarios con trastornos mentales severos, que demandan atención urgente o representen un peligro grave o inmediato para sí mismos o para los demás. Requiere la indicación de un médico psiquiatra y la solicitud de un familiar responsable, tutor o representante legal, ambas por escrito. En caso de extrema necesidad, los enfermos mentales en situación de calle o abandono, pueden ingresar asistidos por personal de la secretaría de salud por indicación escrita del médico psiquiatra a cargo del servicio de admisión de la unidad hospitalaria. En cuanto las condiciones del usuario lo permitan, deberá ser informado de su situación de internamiento involuntario, para que en su caso, su condición cambie a la de internamiento voluntario.
+
+###### ARTÍCULO 33.
+
+Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las Autoridades Educativas estatales y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales; para tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
+ARTÍCULO 33 BIS.- Para efectos del Artículo anterior, la Secretaría de Educación y Bienestar Social, fomentará la coordinación con la Secretaría de Salud Pública del Estado, para la implementación de acciones en los centros escolares de educación básica y media superior en el Sistema Estatal, que tengan como objeto:
+
+a).- Facilitar el acceso a los servicios médicos de salud mental y bienestar social de los educandos que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
+
+b).- Capacitar al personal especializado en psicología para la rápida y oportuna atención de los educandos en materia de la identificación de posible trastorno mental que presenten los educandos, para en su caso sean canalizados para la instancia que corresponda, su atención, y
+
+c).- Divulgar material informativo básico en materia de salud a los padres de familia o tutores con la finalidad de identificar algún tipo de trastorno en los alumnos y aplicar las medidas preventivas al respecto.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 34.
+
+El Ejecutivo del Estado y los Municipios promoverán la creación y operarán en su caso, centros de estancia prolongada en los que se pueda ingresar para su protección y rehabilitación a pacientes con enfermedad mental por tiempo definido o indefinido, atendiendo enunciativamente a las circunstancias siguientes:
+
+I.- Personas con enfermedad mental que se encuentran en situación de calle por abandono social;
+
+II.- Personas con enfermedad mental que sean internados a petición de la autoridad o sus familiares, para participar en un programa específico de rehabilitación y habiéndose justificado la necesidad del mismo en ambos casos; y
+
+III.- Personas con enfermedad mental que requieran de custodia para protección de ellos mismos y de terceros.
+
+Para cumplir lo anterior se seguirá el procedimiento establecido por el artículo 32 de esta Ley.
 
 #### SECCION VI. DE LA ASISTENCIA SOCIAL
 
-###### Artículo 35.
+###### ARTÍCULO 35.
 
-Catálogo de medidas de seguridad.
+Para los efectos de esta Ley, se entiende por asistencia social el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
 
-Son medidas de seguridad:
+La prestación de servicios de asistencia social será regulada por los ordenamientos legales aplicables en la materia, debiendo intervenir las Autoridades Sanitarias en aquellos asuntos relacionados con los servicios de salud.
 
-I. Vigilancia de la autoridad;
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE JULIO DE 2016)</small>
 
-II. Tratamiento de inimputables o imputables disminuidos;
+###### ARTÍCULO 36.
 
-III. Tratamiento de deshabituación o desintoxicación, y
+Los integrantes del Sistema Estatal de Salud, deberán dar atención preferente e inmediata a menores, farmacodependiente en situación de calle o abandono, personas con capacidades diferentes y ancianos sometidos en cualquier forma de maltrato que pongan en peligro su salud física o mental.
 
-IV. Prohibición de ir a una circunscripción territorial determinada o de residir en ella.
+De igual forma en los municipios del Estado en los que existan pueblos y comunidades indígenas, procurarán conforme a la disponibilidad presupuestal contar por lo menos con un médico, enfermera o traductor en el centro de salud que las atienda, que hable la lengua indígena predominante del lugar, y cuente con los conocimientos sobre la cultura y costumbres indígenas, para la atención de su población.
 
-###### Artículo 36.
+Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático de los individuos.
 
-Las consecuencias jurídicas para las personas morales son:
-
-I. Suspensión;
-
-II. Disolución;
-
-III. Prohibición de realizar determinadas operaciones;
-
-IV. Remoción, y
-
-V. Intervención.
+En estos casos, las instituciones de salud del Estado, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores, farmacodependiente en situación de calle o abandono, personas con capacidades diferentes y ancianos, sin perjuicio de dar intervención a las Autoridades competentes
 
 #### SECCION VII. DE LOS PRESTADORES DE SERVICIOS DE SALUD
 
-###### Artículo 37.
+###### ARTÍCULO 37.
 
-Imposición de las penas, medidas de seguridad y consecuencias jurídicas de las personas morales.
+Para los efectos de esta Ley, los servicios de salud, atendiendo a los prestadores de los mismos, se clasifican en:
 
-Las penas, las medidas de seguridad y las consecuencias jurídicas para las personas morales, se entienden impuestas en los términos y con las modalidades señaladas por este código y por la autoridad ejecutora de las sanciones penales en el Estado y serán ejecutadas por las autoridades competentes con los propósitos previstos por el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, ajustándose a la resolución judicial respectiva.
+I.- Servicios públicos dirigidos a la población en general;
 
-## TÍTULO CUARTO. DE LAS PENAS
+II.- Servicios a derechohabientes;
 
-###### Artículo 38.
+III.- Servicios sociales y privados; y
 
-Concepto y duración.
+IV.- Otros que se presten de conformidad con lo que establezcan las Autoridades Sanitarias.
 
-La prisión consiste en la privación de la libertad personal. Su duración no será menor de tres meses ni mayor de setenta años, y sólo podrá imponerse una pena adicional al límite máximo cuando se cometa un nuevo delito en reclusión. Su ejecución se llevará a cabo en los establecimientos que al efecto designe la autoridad ejecutora de las sanciones penales en el Estado, conforme a la legislación correspondiente, en la resolución judicial respectiva o en los convenios celebrados con la Federación u otras Entidades Federativas.
+###### ARTÍCULO 38.
 
-En toda pena de prisión que se imponga en una sentencia, se computará el tiempo de la detención.
+Son servicios públicos dirigidos a la población en general, los que se presten en establecimientos públicos de salud a los habitantes del Estado que así lo requieran, regidos por criterios de universalidad y de gratuidad fundada en las condiciones socioeconómicas de los usuarios.
 
-Si se trata de dos o más penas de prisión impuestas en sentencias diferentes, aquéllas se cumplirán invariablemente de manera sucesiva, sin que la suma de ellas sea mayor de setenta años.
+Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud, se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando carezcan de recursos económicos, atendiendo en su caso a los estudios socioeconómicos que se realicen.
 
-Tratándose del delito de homicidio doloso en perjuicio de mujeres o menores de edad, deberá imponerse pena por cada delito cometido, aún y cuando con ello se exceda el máximo de la pena de prisión.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2013)</small>
 
-Cuando varios delitos dolosos sean cometidos por miembros de corporaciones policíacas, autoridades ministeriales, judiciales o de ejecución de penas y medidas judiciales, en cualquier grado de participación, deberá imponérseles la pena que corresponda para cada uno de ellos, pudiendo aumentarse a la suma total de la pena impuesta, de una a dos terceras partes de aquélla, aun cuando con ello se exceda el máximo de la pena de prisión.
+Los servicios públicos de salud que otorguen los establecimientos públicos pertenecientes a la Secretaría de Salud Pública del Estado tratándose del otorgamiento de medicamentos que formen parte del cuadro básico de medicinas, por medio de recetas a través de sus farmacias serán de manera gratuita, tratándose de medicamentos que integran el cuadro básico y en el caso de desabasto, los establecimientos públicos tendrán la obligación de subrogarlos a favor de los usuarios en instituciones públicas o privadas.
 
-###### Artículo 39.
+###### ARTÍCULO 39.
 
-Concepto y duración.
+Son servicios a derecho habientes, los proporcionados por instituciones públicas del Estado y sus Municipios.
 
-El tratamiento en libertad de imputables, consiste en la aplicación, según el caso, de las medidas laborales, educativas, de salud o de cualquier otra índole autorizadas por la ley, orientadas a la reinserción del sentenciado y bajo la supervisión de la autoridad ejecutora.
+Estos servicios comprenderán la atención médica, la atención materno infantil, la planificación familiar, la salud mental, la promoción de la formación de recursos humanos, la salud ocupacional y la prevención y control de enfermedades no transmisibles y accidentes.
 
-Esta pena podrá imponerse como pena autónoma o sustitutiva de la prisión, sin que su duración pueda exceder de la correspondiente a la pena de prisión sustituida.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2013)</small>
 
-El tratamiento en libertad de imputables podrá imponerse conjuntamente con las medidas de seguridad tendientes a la deshabituación o desintoxicación del sentenciado, cuando así se requiera.
+Los servicios públicos de salud que otorguen los establecimientos públicos pertenecientes a la Secretaría de Salud Pública del Estado a los derechohabientes, tratándose del otorgamiento de medicamentos, que formen parte del cuadro básico de medicinas, por medio de recetas a través de sus farmacias, será conforme lo establece la normatividad respectiva y en el caso de desabasto las Instituciones Públicas tendrán la obligación de subrogarlos a favor de los derechohabientes en instituciones públicas o privadas.
 
-En todo caso pena y medida deberán garantizar la dignidad y la libertad de conciencia del sentenciado.
+###### ARTÍCULO 40.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+Son servicios privados, los que presten personas físicas o morales en las condiciones que convengan con los usuarios y sujetas a los ordenamientos legales civiles y mercantiles, sin perjuicio de los requisitos y obligaciones que establezcan otras disposiciones aplicables.
 
-Esta medida no se concederá a los sentenciados por los delitos considerados como graves en el artículo 434 del presente Código ni en los delitos que ameritan prisión preventiva oficiosa en términos del Código Nacional de Procedimientos Penales.
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-###### Artículo 40.
-
-Concepto y duración.
-
-La semilibertad implica alternación de períodos de privación de la libertad y de tratamiento en libertad, con fines laborales, educativos o de salud, que conduzcan a la resocialización del sentenciado y se aplicará según las circunstancias del caso en cualquiera de las formas siguientes:
-
-I. Externación durante la semana de trabajo o educativa con internamiento de fin de semana;
-
-II. Salida de fin de semana, con internamiento durante el resto de ésta;
-
-III. Salida diurna con internamiento nocturno;
-
-IV. Salida nocturna con internamiento diurno, y
-
-V. Cualquier otra forma compatible con las actividades a desarrollar por el sentenciado en el exterior.
-
-Podrá imponerse como pena autónoma o como sustitutiva de la pena de prisión, en cuyo caso la duración no podrá exceder de la correspondiente a la pena de prisión sustituida.
-
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-Esta medida no se concederá a los sentenciados por los delitos considerados como graves en el artículo 434 del presente Código ni en los delitos que ameritan prisión preventiva oficiosa en términos del Código Nacional de Procedimientos Penales.
+ARTÍCULO 40 BIS.- La construcción, mantenimiento, operación y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, en cualquiera de sus modalidades podrán aplicar las tecnologías factibles y ambientalmente adecuadas para promover mayor autosuficiencia, sustentabilidad y salud ambiental, además, se sujetará a las normas oficiales mexicanas expedidas para tal efecto, sin perjuicio de la intervención que corresponda a otras autoridades.
 
 #### SECCION VIII. DE LOS USUARIOS DE LOS SERVICIOS DE SALUD Y LA PARTICIPACION CIUDADANA
 
-###### Artículo 41.
+###### ARTÍCULO 41.
 
-Sanción pecuniaria.
+Para los efectos de esta Ley, se consideran usuarios de servicios de salud a las personas que solicitan, requieren y obtienen dichos servicios de los sectores público, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables.
 
-La sanción pecuniaria comprende la multa y la reparación del daño.
+###### ARTÍCULO 42.
 
-###### Artículo 42.
+Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de calidad idónea, y a recibir atención profesional y éticamente responsable, así como trato respetuoso y digno de los profesionales, técnicos y auxiliares.
 
-De la multa.
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
 
-La multa consiste en el pago de una cantidad de dinero al Estado, la cual se aplicará en beneficio del Fondo de Protección a las Victimas de los Delitos y Ayuda a los Indigentes Procesados en el Estado de Tlaxcala, que se fijará por días de salario mínimo y podrá ser de dieciocho a cinco mil cuarenta veces el importe de éste.
+ARTÍCULO 42 BIS.- Queda prohibido ofrecer o recibir como premio o gratificación, algún beneficio económico o en especie, a cambio de canalizar o enviar a los usuarios en forma directa, a través de sus familiares o de un tercero, a un servicio médico, de laboratorio, clínicos u otros auxiliares de diagnóstico y/o tratamiento.
 
-Para la imposición de la multa y para determinar la prisión aplicable, si es el caso, se atenderá al salario mínimo general, vigente en la fecha y en el lugar donde se cometió el delito. Tratándose de delito continuado, se atenderá al salario vigente en el momento comisivo de la última conducta; si es permanente, al del momento en que cesó su comisión.
+Cuando alguna de las conductas señaladas en el párrafo anterior, sea realizada por un servidor público del sector salud será considerada como una falta grave.
 
-###### Artículo 43.
+###### ARTÍCULO 43.
 
-Sustitución de la multa.
+Los usuarios deberán ajustarse a la reglamentación interna de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
 
-Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial podrá sustituirla total o parcialmente por trabajo en favor de la comunidad. Cada tres horas de trabajo saldarán un día de multa.
+###### ARTÍCULO 44.
 
-Cuando no sea posible o conveniente la sustitución de la multa por trabajo en favor de la comunidad, la autoridad judicial podrá decretar la libertad bajo vigilancia, cuya duración no excederá del número de días sustituido, sin que este plazo sea mayor al de la prescripción.
+La Secretaría de Salud del Estado en el ámbito de su competencia, establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de salud a la población en general que sean proporcionados por instituciones de salud del Estado o de los Municipios.
 
-Dado el caso de que los supuestos de los párrafos anteriores no se cumplan, la autoridad judicial determinará la efectividad de la multa; en este caso la misma adquirirá el carácter de crédito fiscal.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-###### Artículo 44.
+###### ARTÍCULO 45.
 
-Ejecución de la sanción.
+Las Autoridades Sanitarias del Estado y las propias instituciones públicas de salud, establecerán procedimientos de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran y los perfiles profesionales del campo de la salud que soliciten, así como mecanismos para que presenten sus denuncias, quejas, reclamaciones y sugerencias respecto de la prestación de los servicios de salud y a la falta de probidad, en su caso, de los servidores públicos.
 
-La autoridad ejecutora iniciará el procedimiento económico coactivo, dentro de los cinco días siguientes a la recepción de la sentencia; sin embargo, en atención a las características del caso, la autoridad judicial podrá fijar plazos razonables para el pago de la multa en exhibiciones parciales.
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
 
-Si el sentenciado omite sin causa justificada cubrir el importe de la multa en el plazo que se haya fijado, la autoridad competente la exigirá mediante el procedimiento económico coactivo, que será entregada al Fondo de Protección a las Victimas de los Delitos y Ayuda a los Indigentes Procesados en el Estado de Tlaxcala.
+ARTÍCULO 45 BIS.- Es una obligación de los prestadores de servicios de salud el informar de forma suficiente, oportuna y veraz a los usuarios con respecto a su salud, sobre los riesgos y alternativas de los procedimientos, diagnósticos terapéuticos y quirúrgicos que se considere oportuno indicar o aplicar, para que los usuarios puedan decidir de manera libre sobre la aplicación de los mismos.
 
-En cualquier momento podrá cubrirse el importe de la multa, descontándose de ésta la parte proporcional a las jornadas de trabajo prestadas en favor de la comunidad.
+En el caso de urgencia o que el usuario se encuentre en estado de incapacidad transitoria o permanente, la autorización para proceder será otorgada por el familiar que lo acompañe o su representante legal; en caso de no ser posible lo anterior, el prestador de servicios de salud procederá de inmediato para preservar la vida y la salud del usuario, dejando constancia en el expediente clínico.
 
-###### Artículo 45.
+Los usuarios de los servicios de salud en general, contarán con facilidades para acceder a una segunda opinión.
 
-De la reparación del daño.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2022)</small>
 
-La reparación del daño comprende, según la naturaleza del delito de que se trate:
+Todo usuario de servicio de salud tiene derecho a conocer de la experiencia del prestador del servicio de salud; de su reputación y tiempo en el ejercicio profesional.
 
-I. El restablecimiento de las cosas al estado en que se encontraban antes de cometerse el delito;
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2016)</small>
 
-II. La restitución de la cosa obtenida por el delito, incluyendo sus frutos y accesorios y, si no fuese posible, el pago de su valor actualizado. Si se trata de bienes fungibles, la autoridad judicial podrá condenar a la entrega de un objeto igual al que fuese materia de delito sin necesidad de recurrir a prueba pericial;
+###### ARTÍCULO 46.
 
-III. El resarcimiento de los perjuicios ocasionados;
+Las instituciones públicas y privadas, y particulares que tengan conocimiento de alguna persona que requiera la prestación urgente de servicios de salud, deberán proporcionar inmediatamente la atención médica pre-hospitalaria, sin perjuicio de su posterior remisión a otras instituciones.
 
-IV. El pago de salarios o percepciones correspondientes, cuando por lesiones se cause incapacidad para trabajar en oficio, arte o profesión, en los términos de la Ley Federal del Trabajo;
+El personal encargado de proporcionar la atención médica pre-hospitalaria, deberá de cumplir con los parámetros que para tal efecto dispongan las normas oficiales mexicanas y lo previsto en el artículo 79 de la Ley General de Salud.
 
-V. La reparación del daño moral sufrido por la víctima o las personas con derecho a la reparación, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud psíquica y física de la víctima, y
+###### ARTÍCULO 47.
 
-VI. Tratándose de los delitos de violencia familiar y lesiones que sean con violencia de género, la reparación del daño a la víctima u ofendida incluirá:
+La comunidad podrá participar en los servicios de salud de los sectores público, social y privado a través de las siguientes acciones:
 
-a) Las hipótesis a que se refieren las fracciones anteriores;
+I.- Promoción de hábitos de conducta que contribuyan a proteger la salud, a solucionar problemas de salud, a participar en programas de promoción y mejoramiento de la salud y de prevención de enfermedades y accidentes;
 
-b) El restablecimiento de su honor, mediante disculpa pública, a través de los mecanismos que señale la autoridad judicial;
+II.- Incorporación como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social, participando en determinadas actividades de operación de los servicios de salud, bajo la dirección y control de las autoridades correspondientes;
 
-c) La reparación por la afectación en su entorno laboral, educativo y psicológico, a fin de lograr su restablecimiento; ante la imposibilidad de éste, la indemnización correspondiente, e
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
-d) El pago de los gastos indispensables para su subsistencia y, si los hubiere, de los hijos menores de edad o discapacitados, cuando como consecuencia del delito sufrido, se haya visto imposibilitada para desarrollarse en el ámbito laboral; lo anterior, por el tiempo que determine la autoridad judicial, atendiendo a su grado de estudios, edad y estado de salud.
+III.- Informar sobre la existencia de personas que requieran de servicios de salud, cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas, o se encuentren en estado de abandono o indigencia;
 
-Se entiende como daño moral el sufrimiento que el delito origine a una persona, ya sea en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración o aspecto físico. Así como la dolencia mental de cualquier clase que requiera asistencia o terapia psicológica o psiquiátrica.
+IV.- Formulación de sugerencias para mejorar los servicios de salud;
 
-###### Artículo 46.
+V.- Informar a las Autoridades Sanitarias del Estado acerca de efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos;
 
-Fijación de la reparación del daño.
+VI.- Comunicar a las Autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud; y
 
-El monto de la reparación será fijado por la autoridad judicial, según el daño que sea preciso reparar, de acuerdo con las pruebas obtenidas durante el proceso.
+VII.- Otras actividades que coadyuven a la protección de la salud.
 
-La reparación del daño moral será fijada al prudente arbitrio de la autoridad judicial tomando en consideración la afectación moral sufrida por la víctima además de lo previsto en los artículos 71 y 73 de este código.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-###### Artículo 47.
+###### ARTÍCULO 48.
 
-Preferencia de la reparación del daño.
+La Secretaría de Salud del Estado y demás instituciones de salud en la Entidad, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, en la prevención de enfermedades y accidentes, y en la rehabilitación de personas con discapacidad, así como en los cuidados paliativos.
 
-La obligación de pagar la reparación del daño es preferente al pago de cualquiera otra sanción pecuniaria u obligación contraída con posterioridad a la comisión del delito, salvo las referentes a alimentos y salarios.
+###### ARTÍCULO 49.
 
-En todo proceso penal el Ministerio Público estará obligado a solicitar, en su caso, la condena en lo relativo a la reparación del daño y probar su monto y la autoridad judicial a resolver lo conducente.
+Para los efectos del artículo anterior, las Autoridades Sanitarias del Estado promoverán en las Delegaciones Municipales, ejidos y comunidades rurales, la constitución de Comités de Salud, los cuales tendrán como objetivo participar en el mejoramiento y vigilancia de los servicios de salud en sus localidades.
 
-###### Artículo 48.
+###### ARTÍCULO 50.
 
-Reparación del daño por vía civil.
+Se concede acción popular para denunciar ante las Autoridades Sanitarias del Estado todo hecho, acto u omisión que represente un riesgo o provoque un daño a la salud de la población, bastando para darle curso el señalamiento de los datos que permitan localizar la causa del riesgo.
 
-Quien se considere con derecho a la reparación del daño, que no pueda obtener ante la autoridad judicial en virtud del no ejercicio de la acción por parte del Ministerio Público, sobreseimiento o sentencia absolutoria, podrá recurrir a la vía civil en los términos de la legislación correspondiente.
-
-###### Artículo 49.
-
-Derecho a la reparación del daño.
-
-En orden de preferencia tiene derecho a la reparación del daño:
-
-I. La víctima:
-
-a) El directamente afectado por el delito;
-
-b) Las agrupaciones, en los delitos que afectan intereses colectivos o difusos, siempre que su objeto se vincule directamente con esos intereses, o
-
-c) Las comunidades indígenas, en los hechos punibles que impliquen discriminación o genocidio respecto de sus miembros o generen regresión demográfica, depredación de su hábitat, contaminación ambiental, explotación económica o alienación cultural.
-
-II. En caso de muerte de la víctima, los ofendidos con el presente orden de prelación:
-
-a) El cónyuge, concubinario o concubina o la persona que hubiere vivido de forma permanente con la víctima durante, por lo menos, dos años anteriores al hecho;
-
-b) Los dependientes económicos;
-
-c) Los descendientes consanguíneos o civiles;
-
-d) Los ascendientes consanguíneos o civiles, o
-
-e) Los parientes colaterales, consanguíneos o civiles, hasta el segundo grado.
-
-> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-III. Los demás que determine la legislación aplicable en materia de víctimas.
-
-###### Artículo 50.
-
-Obligados a reparar el daño.
-
-El autor de un delito está obligado a reparar los daños que, con su comisión, haya causado.
-
-Si hubiese varios activos, la obligación de la reparación del daño es solidaria.
-
-Para obtener el pago de la reparación del daño material y moral, no será necesario acreditar la capacidad económica del obligado.
-
-Independientemente de lo previsto anteriormente, están obligados a la reparación del daño:
-
-I. Los tutores, curadores o custodios, por los hechos señalados en la ley como delitos cometidos por los inimputables que estén bajo su autoridad;
-
-II. Los patrones, por los delitos que cometan sus trabajadores, con motivo y en desempeño de sus servicios;
-
-III. Las sociedades, asociaciones y agrupaciones, por los delitos que sus integrantes o representantes legales cometan en el ejercicio y con motivo de sus funciones y en cualquier caso, si la comisión del ilícito les hubiere significado un ingreso patrimonial, pero en este supuesto su obligación se limitará al importe del beneficio obtenido. Se exceptúa de esta regla a la sociedad conyugal, y
-
-IV. El Estado y los municipios responderán solidariamente por los delitos que cometan sus servidores públicos, con motivo del ejercicio de sus funciones.
-
-> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-V. Los demás que determine la legislación aplicable en materia de víctimas.
-
-Queda a salvo el derecho del Estado y los municipios para ejercitar las acciones correspondientes contra el servidor público responsable.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2005)</small>
 
 #### SECCION IX. DE LA PREVENCION Y EL CONTROL DE LAS ENFERMEDADES BUCODENTALES, AUDITIVAS Y VISUALES
 
@@ -979,537 +1283,393 @@ Las instituciones de salud, deberán disponer permanentemente de personal médic
 
 El incumplimiento de las obligaciones establecidas en el presente capítulo, podrán dar lugar a responsabilidades de carácter civil, administrativa o penal, según corresponda.
 
-### CAPÍTULO IV. CONCURSO APARENTE DE NORMAS
+### CAPITULO QUINTO. DE LOS RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
 #### SECCION I. DE LOS PROFESIONALES, TECNICOS Y AUXILIARES
 
-###### Artículo 51.
+###### ARTÍCULO 51.
 
-Supletoriedad de la Ley Federal del Trabajo.
+El ejercicio de las profesiones, actividades técnicas y auxiliares y de las especialidades para la salud, estará sujeto a:
 
-Si se trata de delitos que afecten la vida o la integridad corporal, el monto de la reparación del daño no podrá ser menor ni exceder el doble del que resulte de aplicar las disposiciones relativas de la Ley Federal del Trabajo.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-###### Artículo 52.
+I.- La Ley de Ejercicio de las Profesiones para el Estado de Baja California;
 
-Plazos para la reparación del daño.
+II.- Las bases de coordinación que conforme a la Ley se definan entre las Autoridades Educativas y Sanitarias del Estado;
 
-De acuerdo con el monto de los daños o perjuicios y de la situación económica del sentenciado, la autoridad judicial podrá fijar plazos para su pago, que en conjunto no excederán de un año, pudiendo para ello exigir garantía si lo considera conveniente.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-En los casos a que se refiere la fracción IV del artículo 50 de este código, el Estado y los municipios proveerán lo necesario para el pago inmediato de la reparación del daño. El pago se hará preferentemente en una sola exhibición.
+III.- La certificación y recertificaciones del Colegio de Profesionales respectivo o de la Asociación correspondiente en su caso; y,
 
-###### Artículo 53.
+IV.- Los acuerdos que al efecto se suscriban entre el Ejecutivo del Estado y la Federación.
 
-Aplicación de la medida cautelar consistente en garantía económica.
+###### ARTÍCULO 52.
 
-Cuando el imputado, acusado o sentenciado se sustraiga a la acción de la justicia, las garantías económicas relacionadas con la libertad provisional se entregarán directamente a la víctima u ofendido.
+Para el ejercicio de actividades profesionales en el campo de la salud, especialidades o ramas de la medicina, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos o autorizados por instituciones educativas y obtenido su registro ante el Departamento de Profesiones.
 
-En caso de que éstos no se encuentren identificados o no comparezcan dentro del plazo de tres meses, previa notificación, el importe se aplicará al Fondo de Protección a las Victimas de los Delitos y Ayuda a los Indigentes Procesados en el Estado de Tlaxcala.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2022)</small>
 
-###### Artículo 54.
+Las certificaciones y recertificaciones necesarias para el ejercicio de actividades profesionales en el campo de la salud, se estará a lo que establezca la Ley General de la materia y demás disposiciones aplicables.
 
-Otro destino de la reparación del daño.
+###### ARTÍCULO 53.
 
-Si la víctima u ofendido renuncian o no cobran la reparación del daño dentro del plazo de tres meses, o no se encuentran identificados, el importe de ésta se entregará al Fondo de Protección a las Victimas de los Delitos y Ayuda a los Indigentes Procesados en el Estado de Tlaxcala.
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la salud o ramas de la medicina, se requiere que los diplomas, constancias o reconocimientos, hayan sido legalmente expedidos o autorizados por las instituciones educativas y registrados ante la Secretaría de Salud del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-###### Artículo 55.
+###### ARTÍCULO 54.
 
-Exigibilidad de la reparación del daño.
+La Secretaría de Educación del Poder Ejecutivo del Estado, por conducto de su Departamento de Profesiones, proporcionará a las Autoridades Sanitarias del Estado cuando así lo soliciten, relación de aquellas personas que tengan registro de cédulas profesionales, especialidades, certificaciones o recertificaciones o títulos que acrediten sus estudios de medicina.
 
-La reparación del daño, se exigirá de oficio por el Ministerio Público, con el que podrán coadyuvar la víctima y ofendido, sus derechohabientes o sus representantes en los términos que prevenga el Código Nacional de Procedimientos Penales.
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
 
-Sin perjuicio de lo anterior, la víctima también puede exigir directamente la reparación del daño.
+La Secretaría de Salud, tomando en cuenta la información que le proporcione el Departamento de Profesiones del Estado, difundirá en su portal de Internet una lista de los profesionales de la salud que cuenten con autorización para ejercer en la Entidad, atendiendo a sus especialidades o títulos que acrediten sus estudios de medicina.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
 
-La reparación del daño que deba exigirse a terceros, tendrá el carácter de responsabilidad civil y se tramitará en forma de incidente, en los términos que fije el Código Nacional de Procedimientos Penales.
+La lista a que se refiere el párrafo anterior, deberá actualizarse de manera permanente de acuerdo con la información que al efecto proporcione el Departamento de Profesiones del Estado.
 
-Cuando sean varios las víctimas u ofendidos y no resulte posible satisfacer los derechos de todos, se cubrirán proporcionalmente los daños.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-###### Artículo 56.
+Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud del Estado un directorio electrónico con acceso al público que contenga los nombres, datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos y certificado o recertificación de especialización vigente, además de proporcionar el nombre y datos de la Institución y/o Instituciones educativas que avalen su ejercicio profesional.
 
-Obligación mancomunada y solidaria.
+###### ARTÍCULO 55.
 
-Cuando sean varios los responsables del delito, éstos están obligados mancomunada y solidariamente a cubrir el importe de la reparación del daño.
+Quienes ejerzan en el servicio de salud privado, actividades profesionales, técnicas y auxiliares, así como las especialidades a que se refiere este Capítulo, deberán poner a la vista del público en los establecimientos correspondientes, un anuncio que indique la institución que les expidió el diploma, certificado, título o cédula profesional y su correspondiente número de registro ante las Autoridades Educativas y de Salud.
+
+El número de registro deberá consignarse en los documentos y papelería utilizada en el ejercicio de sus actividades.
+
+###### ARTÍCULO 56.
+
+La Secretaría de Salud del Estado coadyuvará con el Departamento de Profesiones de la Secretaría de Educación y Bienestar Social, en la vigilancia del ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos.
 
 #### SECCION II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
-###### Artículo 57.
+###### ARTÍCULO 57.
 
-Concepto y duración.
+Todos los pasantes de las profesiones para la salud y sus ramas deberán prestar el servicio social en los términos de las disposiciones legales aplicables en materia educativa y las de esta Ley.
 
-El trabajo en favor de la comunidad consiste en la prestación de servicios no remunerados en instituciones públicas, educativas, de asistencia social, o en instituciones privadas asistenciales y se desarrollará en forma que no vulnere los derechos humanos del sentenciado, en jornadas de trabajo dentro de los períodos distintos al horario normal de sus labores, sin que exceda de la jornada extraordinaria que determine la Ley Federal del Trabajo y bajo la orientación y vigilancia de la autoridad ejecutora.
+###### ARTÍCULO 58.
 
-Podrá imponerse como pena autónoma o como sustitutiva de la pena de prisión o multa. Cada día de multa podrá sustituirse por una jornada de trabajo en favor de la comunidad.
+Los aspectos docentes de la prestación del servicio social se regirán por lo que establezcan las instituciones de educación superior, de conformidad con las atribuciones que les otorgan las disposiciones que rigen su organización y funcionamiento y lo que determinen las Autoridades Educativas competentes.
 
-La extensión de la jornada de trabajo será fijada por la autoridad ejecutora, tomando en cuenta las circunstancias del caso.
+La operación de los programas de servicio social en los establecimientos de salud en el Estado, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las Autoridades Sanitarias.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+###### ARTÍCULO 59.
 
-Este beneficio no se concederá a los sentenciados por los delitos considerados como graves en el artículo 434 del presente Código ni en los delitos que ameritan prisión preventiva oficiosa en términos del Código Nacional de Procedimientos Penales.
+Para la eficaz prestación del servicio social de pasantes de las profesiones para la salud, se establecerán mecanismos de coordinación entre las Autoridades de Salud, Educativas, instituciones de educación superior y con el sector social y privado en su caso.
 
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2020)</small>
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-###### Artículo 57 Bis.
+Las autoridades Sanitarias del Estado; así como las Dependencias y Entidades Públicas del Sistema Estatal de Salud; considerarán en los Convenios Específicos de Coordinación y en los Programas Educativos y Operativos de Servicio Social, para los pasantes de las diversas profesiones de la salud en formación adscritos al Sector Salud del Estado; apoyos sociales de carácter económicos y otras prestaciones consistentes en becas decorosas y remunerativas, alimentación, uniformes, áreas de estancia y descanso, servicios médicos, así como transporte a efecto de que realicen sus labores profesionales al servicio de la salud pública en condiciones dignas.
 
-Tratándose de persona perteneciente a una comunidad étnica indígena, la autoridad ejecutora respetando la libre determinación, tomará en cuenta los usos y costumbres de la comunidad correspondiente; con base en ello determinará el trabajo a desempeñar, atendiendo en todo momento su condición étnica, preferentemente el trabajo deberá ser en la comunidad del sentenciado.
+###### ARTÍCULO 60.
 
-###### Artículo 58.
+La prestación del servicio social de los pasantes de las profesiones para la salud, se realizará preferentemente en unidades de primer nivel de atención y prioritariamente en áreas de menor desarrollo económico y social.
 
-Concepto y duración.
+###### ARTÍCULO 61.
 
-El trabajo obligatorio como pena tiene como objeto la reparación del daño a la víctima, ofendido o quien tenga derecho a la reparación del daño. Tendrá lugar como sanción sustitutiva a la privativa de libertad, cuando el sentenciado acredite que con su empleo podrá cubrir el importe decretado por la autoridad judicial, en la forma y términos establecidos en la ley.
-
-### CAPÍTULO VII. CONFINAMIENTO
-
-###### Artículo 59.
-
-Concepto y duración.
-
-El confinamiento consiste en la obligación de residir en determinada circunscripción territorial y no salir de ella. La autoridad judicial hará la designación de la circunscripción y fijará el término de su duración, que no excederá de cinco años conciliando las exigencias de la tranquilidad pública y de la víctima, ofendido, o quien tenga derecho a la reparación del daño, con las circunstancias personales del sentenciado.
-
-### CAPÍTULO VIII. DECOMISO, DESTRUCCIÓN Y APLICACIÓN DE LOS INSTRUMENTOS Y OBJETOS RELACIONADOS CON EL DELITO
-
-###### Artículo 60.
-
-Bienes susceptibles de decomiso.
-
-El decomiso consiste en la pérdida de la propiedad o posesión de los instrumentos del delito, así como las cosas que sean objeto o producto de él si son de uso prohibido; si son de uso lícito, se decomisarán cuando el delito sea doloso y si pertenecieran a un tercero se decomisarán siempre que éste tenga conocimiento de su utilización para la realización del delito.
-
-Tratándose de armas, en todo caso serán decomisadas.
-
-Si los instrumentos o cosas decomisadas son sustancias nocivas o peligrosas, se destruirán a juicio de la autoridad que esté conociendo, pero ésta, cuando lo estime conveniente, podrá determinar su conservación para fines de docencia o investigación, si se trata de material pornográfico se ordenará su inmediata destrucción. Respecto de los demás instrumentos o cosas decomisadas, el Estado determinará su destino según su utilidad.
-
-Los objetos o valores que se encuentren a disposición de las autoridades investigadoras o de las jurisdiccionales, que no hayan sido decomisados y que no sean recogidos por quienes tengan derecho a ello en un lapso de noventa días naturales, contados a partir de la notificación al interesado, se enajenarán en subasta pública y el producto de la venta se aplicará a quien tenga derecho a recibirlo. Si el notificado no se presenta dentro de los cuatro meses siguientes a la fecha de la notificación, el producto se destinará al Estado, previas las deducciones de los gastos ocasionados.
-
-La notificación a que se refiere el párrafo anterior se hará personalmente si se conoce el nombre y domicilio del interesado; en caso contrario, la notificación se hará por edictos publicados por tres veces de siete en siete días en el periódico que determine la autoridad correspondiente.
-
-En el caso de bienes que se encuentren a disposición de las autoridades investigadora o jurisdiccional que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho al mismo, por un lapso de cuatro meses a partir de la notificación que se le haga en los términos del párrafo anterior, transcurrido el cual, el producto se aplicará al Estado.
-
-Los productos, rendimientos o beneficios obtenidos por los sujetos activos o por otras personas, como resultado de su conducta ilícita serán decomisados y se destinarán en los términos del presente artículo.
-
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-En lo no previsto en el presente Código en materia de decomiso, se estará a lo establecido en la Legislación correspondiente.
-
-### CAPÍTULO IX. SUSPENSIÓN, PRIVACIÓN E INHABILITACIÓN DE DERECHOS Y FUNCIONES
-
-###### Artículo 61.
-
-Concepto de estas sanciones.
-
-La suspensión consiste en la pérdida temporal de derechos y funciones y puede ser de dos clases:
-
-I. La que por ministerio de ley es consecuencia necesaria de otra pena, y
-
-II. La que se impone como pena independiente.
-
-En el primer caso, la suspensión comienza y concluye con la pena de que es consecuencia.
-
-En el segundo caso, si se impone con otra pena privativa de libertad, comenzará al quedar compurgada ésta. Si la suspensión no va acompañada de prisión, empezará a contar desde que cause ejecutoria la sentencia.
-
-En caso de que el sentenciado se vea beneficiado con condena condicional, la suspensión comenzará a contarse a partir de la fecha en que cause ejecutoria la sentencia.
-
-La prisión suspende o interrumpe los derechos políticos y de tutela, curatela, apoderado, defensor, albacea, perito, depositario o interventor judicial, síndico o interventor en quiebra, árbitro, arbitrador o representante de ausentes.
-
-En todo caso, una vez que causa ejecutoria la sentencia el órgano jurisdiccional comunicará al Instituto Federal Electoral y al Instituto Electoral de Tlaxcala, la suspensión de derechos políticos impuestos al sentenciado, a fin de que surta los efectos correspondientes.
-
-La privación es la pérdida definitiva de derechos y funciones y surtirá sus efectos desde el momento en que cause ejecutoria la sentencia.
-
-La inhabilitación consiste en la incapacidad temporal o definitiva para obtener y ejercer derechos, funciones o empleo.
-
-Son aplicables a la inhabilitación las disposiciones contenidas en este artículo.
-
-### CAPÍTULO X. DESTITUCIÓN
+Las Autoridades Sanitarias del Estado, con la participación de las instituciones de educación superior, colegios de profesionistas de la salud o asociaciones civiles, según se requiera, elaborarán programas de servicio social para los profesionales de la salud, en beneficio de grupos vulnerables, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
 #### SECCION III. DE LA FORMACION, CAPACITACION Y ACTUALIZACION DE PERSONAL
 
-###### Artículo 62.
+###### ARTÍCULO 62.
 
-Concepto de la sanción.
+Las Autoridades Educativas Estatales, en coordinación con las Autoridades Sanitarias del Estado y con la participación de las instituciones de educación superior y colegios de profesionistas de la salud, recomendarán normas y criterios para la formación de recursos humanos para la salud.
 
-La destitución consiste en la separación del cargo, función o empleo cuando el sentenciado tenga el carácter de servidor público en los casos que prevengan las leyes correspondientes.
+Las Autoridades Sanitarias del Estado, sin perjuicio de la competencia que sobre la materia corresponda a las Autoridades Educativas; en coordinación con ellas y con la participación de las instituciones de salud, establecerán normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
 
-## TÍTULO QUINTO. DE LAS MEDIDAS DE SEGURIDAD
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE AGOSTO DE 2016)</small>
 
-### CAPÍTULO I. VIGILANCIA DE LA AUTORIDAD
+En los casos de enfermedades declaradas como Emergencia Epidemiológica, las Autoridades Sanitarias, en conjunto con las Autoridades Educativas establecerán capacitaciones y actualizaciones permanentes de los recursos humanos para la salud, hasta que la misma enfermedad ya no sea catalogada como emergencia.
 
-###### Artículo 63.
+###### ARTÍCULO 63.
 
-Concepto, aplicación y duración.
+Corresponde a las Autoridades Sanitarias del Estado, sin perjuicio de las atribuciones de las Autoridades Educativas en la materia, de los Colegios de Profesionales de la salud o asociaciones correspondientes en su caso:
 
-La vigilancia de la autoridad tendrá los siguientes caracteres:
+I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado en materia de salud;
 
-I. La que se impone por disposición expresa de la ley;
+II.- Apoyar la creación de centros de capacitación y actualización de recursos humanos para la salud;
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+III.- Otorgar facilidades para la enseñanza y adiestramiento dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros; y
 
-II. La que se podrá imponer, discrecionalmente a los responsables de los delitos considerados como graves en el artículo 434 del presente Código ni en los delitos que ameritan prisión preventiva oficiosa en términos del Código Nacional de Procedimientos Penales, y
+IV.- Promover la participación de profesionales, técnicos y auxiliares de la salud en actividades docentes.
 
-III. Aquellos casos en que la autoridad judicial lo considere conveniente.
+###### ARTÍCULO 64.
 
-En el primer caso la duración de la vigilancia será señalada en la sentencia; en el segundo, la vigilancia comenzará a partir del momento en que el sentenciado extinga la pena de prisión, respecto del tercer caso, se estará al criterio del órgano judicial; lo señalado por las fracciones I y II de este artículo, no podrá exceder de un lapso de cinco años.
+La Secretaría de Salud del Estado sugerirá a las Autoridades e instituciones educativas en coordinación con Colegios de Profesionales relacionados con la salud cuando así lo soliciten:
 
-### CAPÍTULO II. TRATAMIENTO DE INIMPUTABLES O DE IMPUTABLES DISMINUIDOS
+I.- El señalamiento de los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos; y
 
-###### Artículo 64.
+II.- El perfil de los profesionales para la salud en sus etapas de formación y desarrollo.
 
-Medidas para inimputables.
+###### ARTÍCULO 65.
 
-En caso de que la inimputabilidad a que se refiere la fracción VII del artículo 28 de este código sea permanente, la autoridad judicial dispondrá la medida de tratamiento aplicable, ya sea en internamiento o en libertad, previo el procedimiento penal respectivo. En el primer caso, el inimputable será internado en la institución correspondiente para su tratamiento durante el tiempo que se estime necesario para su cuidado y control, sin rebasar el previsto en el artículo 38 de este código.
+La Secretaría de Salud del Estado y las Autoridades Educativas estatales, en sus respectivos ámbitos de competencia, impulsarán y fomentarán la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud.
 
-Si se trata de trastorno mental transitorio se aplicará la medida a que se refiere el párrafo anterior si lo requiere, en caso contrario, se le pondrá en absoluta libertad.
+###### ARTÍCULO 66.
 
-Para la imposición de la medida a que se refiere este capítulo, se requerirá que la conducta del sujeto no se encuentre justificada.
+Los aspectos docentes del internado de pregrado y de las residencias de especialización, se regirán por lo que establezcan las instituciones de educación superior, debiendo contribuir al logro de los objetivos de los Sistemas Nacional y Estatal de Salud, de conformidad con las atribuciones que les otorguen las disposiciones que rigen su organización y funcionamiento y lo que determinen las Autoridades Educativas competentes.
 
-En caso de personas con desarrollo intelectual retardado o trastorno mental, la medida de seguridad tendrá carácter terapéutico en lugar adecuado para su aplicación.
+La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las Autoridades Sanitarias competentes.
 
-Queda prohibido aplicar la medida de seguridad en instituciones de reclusión preventiva o de ejecución de sanciones penales, o sus anexos.
+Los profesionales egresados de las instituciones de educación superior del Estado de Baja California, tendrán preferencia, en igualdad de condiciones, para ocupar las plazas de internado en pregrado, servicio social y residencias de posgrado.
 
-###### Artículo 65.
+### CAPITULO SEXTO. DE LA PROMOCION DE LA SALUD
 
-Custodia de inimputables.
+###### ARTÍCULO 67.
 
-La autoridad competente podrá entregar al inimputable a sus familiares o a las personas que conforme a la ley tengan la obligación de hacerse cargo de él, siempre y cuando reparen el daño, se obliguen a tomar las medidas adecuadas para el tratamiento y vigilancia del inimputable y garanticen a satisfacción de la autoridad judicial, el cumplimiento de las obligaciones contraídas.
+La promoción de la salud tiene por objeto crear, conservar y mejorar las condiciones deseables de salud para toda la población y propiciar en el individuo las actitudes, valores y conductas adecuadas para motivar su participación en beneficio de la salud individual y colectiva.
 
-Esta medida podrá revocarse cuando se deje de cumplir con las obligaciones contraídas.
+###### ARTÍCULO 68.
 
-###### Artículo 66.
+La promoción de la salud comprende:
 
-Tratamiento para imputables disminuidos.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
-Si la capacidad del autor sólo se encuentra considerablemente disminuida, por desarrollo intelectual retardado o por trastorno mental, a juicio de la autoridad judicial se le impondrá de una cuarta parte de la mínima hasta la mitad de la máxima de las penas aplicables para el delito cometido o las medidas de seguridad correspondientes, o bien ambas, tomando en cuenta el grado de afectación, conforme al dictamen pericial correspondiente.
+I.- Educación para la salud, y prevención contra las adicciones;
 
-### CAPÍTULO V. LEYES ESPECIALES
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-###### Artículo 67.
+II.- Nutrición, orientación alimentaria y activación física;
 
-Duración del tratamiento.
+III.- Control de los efectos nocivos del ambiente en la salud, en donde las Autoridades Sanitarias participarán coordinadamente con las Autoridades competentes en la materia;
 
-La duración del tratamiento para el inimputable, en ningún caso excederá del máximo de la pena privativa de libertad que se aplicaría por ese mismo delito a sujetos imputables.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
 
-Concluido el tiempo del tratamiento, la autoridad competente entregará al inimputable a sus familiares para que se hagan cargo de él o a las autoridades de salud o institución asistencial, para que procedan conforme a las leyes aplicables.
+IV.- Salud ocupacional;
 
-### CAPÍTULO III. TRATAMIENTO DE DESHABITUACIÓN O DESINTOXICACIÓN
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
 
-###### Artículo 68.
+V. Fomento sanitario; y,
 
-Aplicación y alcances.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ENERO DE 2023)</small>
 
-Cuando el sujeto haya sido sentenciado por un delito cuya comisión haya sido determinada por la adicción en el uso de bebidas alcohólicas, estupefacientes, psicotrópicos o sustancias que produzcan efectos similares, independientemente de la pena que corresponda, se le aplicará tratamiento de deshabituación o desintoxicación, el cual no podrá exceder del término de la pena impuesta por el delito cometido, ni ser inferior a un año.
+VI. Educación menstrual.
 
-### CAPÍTULO IV. PROHIBICIÓN DE IR A UNA CIRCUNSCRIPCIÓN TERRITORIAL DETERMINADA O DE RESIDIR EN ELLA
+###### ARTÍCULO 69.
 
-###### Artículo 69.
+La educación para la salud tiene por objeto:
 
-Concepto y duración.
+I.- Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes, y protegerla de los riesgos que pongan en peligro su salud;
 
-La autoridad judicial, tomando en cuenta las circunstancias del delito y las propias del sentenciado, podrá disponer que éste no vaya a una circunscripción territorial determinada o que no resida en ella, esta prohibición no excederá de cinco años.
+II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-### CAPÍTULO V. SUSPENSIÓN, DISOLUCIÓN, PROHIBICIÓN DE REALIZAR DETERMINADAS OPERACIONES, REMOCIÓN E INTERVENCIÓN DE PERSONAS MORALES
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
-###### Artículo 70.
+III.- Orientar y capacitar a la población y al sector educativo preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de auto medicación, prevención de la farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, cuidados paliativos, prevención y rehabilitación de la discapacidad, detección oportuna de enfermedades, así como en la prestación de los primeros auxilios.
 
-Definición y duración.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-Las consecuencias jurídicas que se podrán imponer a las personas morales son las siguientes:
+###### ARTÍCULO 70.
 
-I. Suspensión: Consiste en la cesación de la actividad de la persona moral durante el tiempo que determine la autoridad judicial, la cual no podrá exceder de dos años;
+Las Autoridades Sanitarias del Estado propondrán y desarrollarán programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población, principalmente del Sector Educativo. La Secretaría de Salud del Estado procurará que estos programas sean difundidos en medios masivos de comunicación social que actúen en el ámbito del Estado. Así mismo, la Secretaría de Salud implementará los referidos programas en todos los tipos y modalidades de educación que se impartan en el Estado.
 
-II. Disolución: Consiste en la conclusión definitiva de toda actividad social de la persona moral, además de la imposibilidad de constituir una nueva sociedad con el mismo objeto social e integrantes;
+> <small>(REFORMADO P.O. 19 DE OCTUBRE DE 2012)</small>
 
-III. Prohibición de realizar determinados negocios u operaciones: Se refiere exclusivamente a los que determine la autoridad judicial, que deberán tener relación directa con el delito cometido y podrá ser hasta por cinco años;
+###### ARTÍCULO 71.
 
-IV. Remoción: Consiste en la sustitución de los administradores por uno designado por la autoridad judicial, durante un período máximo de tres años, y
+La Secretaría de Salud del Estado formulará y desarrollará programas de nutrición y de orientación alimentaria, con el objeto de encaminar a los ciudadanos a una sana alimentación y nutrición para su desarrollo físico, psicológico y social, promoviendo la participación en los mismos de los organismos cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los sectores sociales y privados.
 
-V. Intervención: Consiste en la vigilancia de las funciones que realizan los órganos de representación de la persona moral, hasta por tres años.
+###### ARTÍCULO 72.
 
-## TÍTULO SEXTO. APLICACIÓN DE PENAS Y MEDIDAS DE SEGURIDAD
+Las Autoridades Sanitarias del Estado se coordinarán con la Dirección General de Ecología y las unidades equivalentes en los Municipios, en la realización de actividades tendientes a la protección de la salud humana ante los riesgos y daños derivados de las condiciones del ambiente.
 
-### CAPÍTULO I. REGLAS GENERALES
+Así mismo mantendrán vigilancia y control permanente y sistemático de los riesgos y daños que para la salud de la población origine la contaminación del ambiente y proponer las medidas correctivas conducentes.
 
-###### Artículo 71.
+De igual forma vigilarán la calidad del agua para uso y consumo humano, así como la seguridad radiológica para el uso y aprovechamiento de fuentes de radiación, sin perjuicio de la intervención que corresponda a otras Autoridades competentes.
 
-Imposición de sanciones.
-
-Dentro de los límites fijados por la ley, la autoridad judicial impondrá las sanciones establecidas para cada delito, teniendo en cuenta las circunstancias exteriores de ejecución y las peculiares del sentenciado, en los términos que establece este código.
-
-Cuando se trate de punibilidad alternativa, en la que se contemple pena de prisión, la autoridad judicial podrá imponerla motivando su resolución.
-
-###### Artículo 72.
-
-Fijación de la pena en delito consumado.
-
-En los casos en que este código disponga penas en proporción a las previstas para el delito doloso consumado, la punibilidad aplicable será para todos los efectos legales, la que resulte de la elevación o disminución, según corresponda, de los términos mínimo y máximo de la pena prevista por aquél. Cuando se trate de prisión, la pena mínima nunca será menor de tres meses.
-
-Cuando se prevea la disminución o el aumento de una pena con referencia a otra, se fijará con relación a los términos mínimo y máximo de la punibilidad que sirva de referencia.
-
-En estos casos, la autoridad judicial individualizará la pena tomando como base el nuevo marco de referencia que resulte del aumento o disminución.
-
-En ningún caso se podrán rebasar los extremos previstos en este código.
-
-Lo previsto en el párrafo anterior no es aplicable para la reparación del daño.
-
-### CAPÍTULO I. FORMAS DE COMISIÓN
+### CAPITULO SEPTIMO. DE LA PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
 #### SECCION I. DE LAS ENFERMEDADES TRANSMISIBLES
 
-###### Artículo 73.
+###### ARTÍCULO 73.
 
-Criterios de individualización de las penas y medidas de seguridad.
+Las Autoridades Sanitarias del Estado, participarán en la elaboración de los programas o campañas para el control y erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la salubridad general del Estado. Asimismo realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
 
-La autoridad judicial, al dictar sentencia condenatoria, determinará la pena y medida de seguridad establecida para cada delito y las individualizará dentro de los límites señalados, con base en la gravedad del delito, el grado de culpabilidad del sujeto activo y el bien jurídico dañado, tomando en cuenta:
+I.- Cólera, fiebre tifoidea, paratifoidea, shigelósis, amibiasis, hepatitis vírales y otras enfermedades infecciosas del aparato digestivo;
 
-I. La naturaleza de la acción u omisión;
+II.- Influenza epidémica, otras infecciones agudas del aparato respiratorio, infecciones meningocóccicas y enfermedades causadas por estreptococos;
 
-II. Los medios empleados para ejecutar la acción u omisión;
+III.- Tuberculosis;
 
-III. La magnitud del daño causado al bien jurídico o del peligro en que éste fue colocado;
+IV.- Difteria, tosferina, tétanos, sarampión, poliomielitis, rubéola y parotiditis infecciosa;
 
-IV. Las circunstancias de tiempo, lugar, modo y ocasión del hecho realizado;
+V.- Rabia, peste, brucelosis y otras zoonosis. En estos casos coordinarán sus actividades con la Secretaría de Fomento Agropecuario;
 
-V. La forma y grado de intervención penal del sujeto activo en la comisión del delito;
+VI.- Fiebre amarilla, dengue y otras enfermedades virales transmitidas por artrópodos;
 
-VI. Los vínculos de parentesco, amistad o relación entre el activo y el pasivo, así como su calidad y la de la víctima u ofendido;
+VII.- Paludismo, tifo, fiebre recurrente transmitida por piojo, otras rickettsiosis, leishmaniasis, tripanosomiasis, y oncocercosis;
 
-VII. Las condiciones fisiológicas y psíquicas específicas en que se encontraba el activo en el momento de la comisión del delito;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2009)</small>
 
-VIII. Las circunstancias del sujeto activo y pasivo antes y durante la comisión del delito, que sean relevantes para individualizar la sanción;
+VIII.- Sífilis, infecciones gonocóccicas, virus del papiloma humano y otras enfermedades de transmisión sexual;
 
-IX. El comportamiento posterior del acusado con relación al delito cometido;
+IX.- Lepra y mal del pinto;
 
-X. Las demás circunstancias especiales del sujeto activo, que sean relevantes para determinar la posibilidad que tuvo de haber ajustado su conducta a las exigencias de la norma, y
+X.- Micosis profundas;
 
-XI. Los motivos que lo impulsaron o determinaron a cometer el delito.
+XI.- Helmintiasis intestinales y extraintestinales;
 
-Para la adecuada aplicación de las penas y medidas de seguridad, la autoridad judicial deberá tomar conocimiento directo del sujeto, de la víctima y de las circunstancias del hecho y, en su caso, los dictámenes periciales tendientes a conocer la personalidad del sujeto y los demás elementos conducentes.
+XII.- Toxoplasmosis;
 
-###### Artículo 74.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Otras circunstancias de individualización.
+XIII.- Síndrome de inmunodeficiencia adquirida/VIH; y
 
-Además de las circunstancias señaladas en el artículo anterior, entre otras, se tomarán en consideración:
+XIV.- Las demás que determinen las disposiciones aplicables.
 
-I. Para agravar el grado de punibilidad del sentenciado, salvo cuando estén previstas en la ley como elementos o calificativas del delito de que se trate:
+###### ARTÍCULO 74.
 
-a) Cometer el delito con el auxilio de otras personas. Particularmente si se trata de personas menores de edad, con discapacidad o que no tengan la capacidad de comprender el significado del hecho;
+Es obligatoria la notificación a la Autoridad Sanitaria del Estado más cercana, de las siguientes enfermedades y en los términos que a continuación se especifican:
 
-b) Cometer el delito con motivo de una catástrofe pública o desgracia privada que hubiera sufrido la víctima u ofendido;
+I.- Inmediatamente, en los casos individuales de enfermedades objeto del Reglamento Sanitario Internacional, fiebre amarilla, peste y cólera;
 
-c) Haber ocasionado el delito consecuencias sociales graves o haber puesto en peligro o afectado a un grupo o sector de la población, e
+II.- Inmediatamente, en los casos de cualquier enfermedad que se presente en forma de brote o epidemia;
 
-d) La utilización para la comisión del delito, de habilidades o conocimientos obtenidos por haber pertenecido a un cuerpo de seguridad pública o privada;
+III.- En un plazo no mayor de veinticuatro horas en los casos individuales de enfermedades objeto de vigilancia internacional, poliomielitis, meningitis meningocóccicas, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos humanos de encefalitis equina venezolana;
 
-II. Para disminuir el grado de punibilidad del sentenciado, salvo cuando hayan sido consideradas como circunstancias atenuantes del delito, entre otras, se tomarán en cuenta las siguientes:
+IV.- En un plazo no mayor de veinticuatro horas, de los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no infectada; y
 
-a) Los estudios sociológicos, económicos, psicológicos y psiquiátricos que se relacionen con la conducta y el bien jurídico dañado;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-b) Haber tratado espontánea e inmediatamente después de cometido el delito, de disminuir sus consecuencias, prestar auxilio a la víctima, o reparar el daño causado;
+V.- Será obligatoria la notificación inmediata a la Autoridad Sanitaria más cercana de los casos en que se detecte la presencia del virus de la inmunodeficiencia humana (VIH) o de anticuerpos a dicho virus, en alguna persona, actuando con absoluta confidencialidad y respeto al derecho de privacidad de quienes lo hayan adquirido y diagnosticado.
 
-c) Presentarse espontáneamente a las autoridades para facilitar su enjuiciamiento, salvo que esta conducta revele cinismo;
+###### ARTÍCULO 75.
 
-d) Haberse demostrado plenamente que se causó un resultado mayor al querido o aceptado;
+Las personas que ejerzan la medicina o que realicen actividades afines, darán aviso a las Autoridades Sanitarias del Estado de los casos de enfermedades transmisibles, posteriormente a su diagnóstico o sospecha diagnóstica.
 
-e) Facilitar el enjuiciamiento, reconociendo judicialmente su autoría o participación;
+###### ARTÍCULO 76.
 
-f) Proporcionar datos verídicos para la identificación o localización de otros autores o partícipes del delito, siempre que esto no haya sido ya demostrado con pruebas o datos previamente recabados;
+Están obligados a dar aviso, en los términos de los artículos de esta Ley, los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fábricas, talleres, asilos, jefes de oficinas, establecimientos comerciales o de cualquier otra índole y en general, toda persona que por circunstancias ordinarias o accidentales tenga conocimiento de alguno de los casos de enfermedades a que se refiere esta Ley.
 
-g) Haber reparado espontáneamente el daño hasta antes de la sentencia o haber intentado repararlo en su totalidad, e
+###### ARTÍCULO 77.
 
-h) Ser mayor de setenta años.
+Las medidas que se requieran para la prevención y el control de las enfermedades que enumera el artículo 73 de esta Ley, deberán ser observadas por los particulares. El ejercicio de esta acción comprenderá una o más de las siguientes medidas, según el caso de que se trate:
 
-###### Artículo 75.
+I.- La confirmación de la enfermedad por los medios clínicos disponibles;
 
-Igualdad ante la ley.
+II.- El aislamiento, por el tiempo estrictamente necesario, de los enfermos, de los sospechosos de padecer la enfermedad y de los portadores de gérmenes de la misma, así como la limitación de sus actividades cuando así se amerite por razones epidemiológicas;
 
-Al individualizar las sanciones, la autoridad judicial no deberá fundar sus determinaciones sobre la base del origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+III.- La observación, en el grado que se requiera, de los contactos humanos y animales;
 
-###### Artículo 76.
+IV.- La aplicación de sueros, vacunas y otros recursos preventivos y terapéuticos;
 
-Circunstancias particulares de la víctima u ofendido.
+V.- La descontaminación microbiana o parasitaria, desinfección de zonas, habitaciones, ropas, utensilios y otros objetos expuestos a la contaminación;
 
-No es imputable al acusado el aumento de gravedad proveniente de circunstancias particulares de la víctima u ofendido, si las ignoraba inculpablemente al cometer el delito.
+VI.- La destrucción o control de vectores y reservorios y de fuentes de infección naturales o artificiales, cuando representen peligro para la salud;
 
-###### Artículo 77.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-Circunstancias personales y subjetivas.
+VII.- La inspección de pasajeros que puedan ser portadores de gérmenes, así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos;
 
-El aumento o la disminución de la pena, fundados en las relaciones personales o en las circunstancias subjetivas del autor de un delito, no son aplicables a los demás sujetos que intervinieron en aquél.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
 
-Son aplicables las que se funden en circunstancias objetivas, si los demás sujetos tienen conocimiento de ellas.
+VIII.- La prevención de la rickettsiosis, mediante la fumigación y desparasitación de los animales que se encuentren bajo su responsabilidad o cuidado; y
 
-###### Artículo 78.
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2016)</small>
 
-Racionalidad de la pena.
+IX.- Las demás que determinen las disposiciones aplicables.
 
-La autoridad judicial, de oficio o a petición de parte, podrá prescindir de la imposición de la pena privativa o restrictiva de la libertad o sustituirla por una menos grave o por una medida de seguridad, cuando la imposición resulte notoriamente innecesaria e irracional, en razón de que el sujeto activo:
+###### ARTÍCULO 78.
 
-I. Con motivo del delito cometido, haya sufrido consecuencias graves en su persona;
+Las Autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de esta Ley, las que expida el Consejo de Salubridad General y las normas oficiales mexicanas que se emitan sobre la materia.
 
-II. Presente senilidad avanzada;
+###### ARTÍCULO 79.
 
-III. Padezca enfermedad grave e incurable avanzada o precario estado de salud. En estos casos, la autoridad judicial tomará en cuenta el resultado de los dictámenes periciales médicos y asentará con precisión, en la sentencia, las razones de su determinación.
+Los profesionales, técnicos y auxiliares de la salud, al tener conocimiento de un caso de enfermedad transmisible, tomarán las medidas necesarias de acuerdo con la naturaleza y características del padecimiento, aplicando los recursos a su alcance para proteger la salud individual y colectiva.
 
-Se exceptúa la reparación del daño y la sanción económica, por lo que no se podrá prescindir de su imposición, o
+###### ARTÍCULO 80.
 
-IV. Haya cometido el delito durante el lapso en que sufriere en su persona una prolongada violencia de género producida por la víctima, que pusiere en serio peligro la integridad física del sujeto activo.
+Los trabajadores de la salud del Estado, de los Municipios o de instituciones autorizadas por las Autoridades Sanitarias del Estado, por necesidades técnicas de los programas específicos de prevención y control de enfermedades y por situaciones que pongan en peligro la salud de la población, podrán acceder al interior de todo tipo de local o casa habitación para el cumplimiento de actividades encomendadas a su responsabilidad, para cuyo fin deberán estar debidamente acreditados por alguna de las Autoridades Sanitarias competentes.
 
-### CAPÍTULO II. PUNIBILIDAD DE LA TENTATIVA
+###### ARTÍCULO 81.
 
-###### Artículo 79.
+Las Autoridades Sanitarias del Estado quedan facultadas para utilizar como elementos auxiliares en la lucha contra las epidemias, todos los recursos médicos y de asistencia social de los sectores público, social y privado existentes en las regiones afectadas y en las colindantes, de acuerdo con las disposiciones de esta Ley, los Reglamentos o acuerdos aplicables.
 
-Punibilidad de la tentativa.
+###### ARTÍCULO 82.
 
-La punibilidad aplicable a la tentativa, será de entre una tercera parte de la mínima y dos terceras partes de la máxima, previstas para el correspondiente delito doloso consumado que el sujeto activo quiso realizar.
+Las Autoridades Sanitarias del Estado señalarán el tipo de enfermos o portadores de gérmenes que podrán ser excluidos de los sitios de reunión, como hoteles, restaurantes, fábricas, talleres, centros de readaptación social, oficinas, escuelas, dormitorios, habitaciones colectivas, centros de espectáculos, deportivos y similares.
 
-En la aplicación de las penas o medidas de seguridad a que se refiere este artículo, la autoridad judicial tendrá en cuenta, además de lo previsto en el artículo 71 de este código, el mayor o menor grado de aproximación a la consumación del delito y la magnitud del peligro en que se puso al bien jurídico protegido.
+###### ARTÍCULO 83.
 
-### CAPÍTULO III. CASOS DE COMPLICIDAD, AUXILIO EN CUMPLIMIENTO DE PROMESA ANTERIOR Y AUTORÍA INDETERMINADA
+El aislamiento de las personas que padezcan enfermedades transmisibles se llevará a cabo en sitios adecuados, a juicio de la autoridad sanitaria.
 
-###### Artículo 80.
+###### ARTÍCULO 84.
 
-Punibilidad de la complicidad.
+Las Autoridades Sanitarias del Estado podrán ordenar, por causas de epidemia, la clausura temporal de cualquier establecimiento o centro de reunión.
 
-Para los casos a que se refieren las fracciones VI y VII del artículo 21 de este código, la penalidad será de las tres cuartas partes del mínimo y del máximo de las penas o medidas de seguridad previstas para el delito cometido, de acuerdo con la modalidad respectiva.
+###### ARTÍCULO 85.
 
-###### Artículo 81.
+El transporte de enfermos de afecciones transmisibles deberá efectuarse en vehículos acondicionados al efecto; a falta de éstos, podrán utilizarse los que autorice la Autoridad Sanitaria. Los mismos podrán usarse posteriormente para otros fines, previa la aplicación de las medidas que procedan.
 
-Punibilidad de la autoría indeterminada.
+###### ARTÍCULO 86.
 
-Para el caso previsto en el artículo 26 de este código, la penalidad será de las tres cuartas partes del mínimo a las tres cuartas partes del máximo de las penas o medidas de seguridad correspondientes para el delito cometido, según su modalidad.
+Las Autoridades Sanitarias del Estado determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPÍTULO IV. PUNIBILIDAD DE LOS DELITOS CULPOSOS
+###### ARTÍCULO 87.
 
-###### Artículo 82.
+El Gobierno del Estado, a través de la Secretaría de Salud del Estado y las Autoridades Municipales, llevarán a cabo una campaña permanente en contra de la hidrofobia. Al efecto los Ayuntamientos con la asesoría y el apoyo técnico de esa Secretaría, crearán centros antirrábicos en sus respectivas jurisdicciones, dedicados a la vacunación preventiva de los animales domésticos, para lo cual deberán formular la reglamentación que contenga el funcionamiento de estos centros, procedimientos para captura y sacrificio de los animales capturados, así como las sanciones y prohibiciones de los particulares.
 
-Punibilidad del delito culposo.
+###### ARTÍCULO 88.
 
-En los casos de delitos culposos, se impondrán de tres meses a cinco años de prisión, multa de dieciocho hasta trescientos sesenta días de salario y suspensión hasta por cinco años o privación definitiva de derechos para ejercer profesión u oficio, salvo lo que disponen las fracciones I y II de este artículo.
-
-En el caso de homicidio culposo la pena será de dos a cinco años de prisión y multa de noventa y tres a trescientos sesenta días de salario.
-
-En relación a estos delitos, se tendrá en cuenta lo siguiente:
-
-I. Cuando a consecuencia de la conducta culposa de quien conduzca vehículos de transporte de pasajeros, escolar o de carga, de servicio público o privado, con autorización, permiso o licencia concedida por las autoridades competentes o sin cualquiera de ellas, se cause homicidio a dos o más personas, la sanción será de cuatro a ocho años de prisión, multa de doscientos ochenta y ocho hasta quinientos setenta y seis días de salario, destitución del empleo, cargo o comisión e inhabilitación para obtener otros de igual naturaleza;
-
-II. Cuando por culpa y con motivo de tránsito de vehículos se cometa homicidio y el sujeto activo conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, se le impondrá de cinco a diez años de prisión y multa de doscientos ochenta y ocho hasta setecientos veinte días de salario;
-
-III. Cuando por culpa y con motivo de tránsito de vehículos únicamente se cometa el delito de daños y el monto de éste exceda de doscientas cincuenta veces el salario mínimo se le aplicará al culpable la pena de prisión a que se refiere el primer párrafo de este artículo o una multa de dieciocho hasta trescientos sesenta días de salario, y
-
-IV. La calificación de la gravedad de la culpa queda al prudente arbitrio de la autoridad judicial, quien deberá tomar en consideración los criterios de individualización de sanciones a que se refiere este código y las especiales siguientes:
-
-a) La mayor o menor facilidad de prever y evitar el daño que resultó;
-
-b) Si para ello bastaban una reflexión o atención ordinaria y conocimiento comunes en algún arte o ciencia;
-
-c) Si tuvo tiempo para obrar con la reflexión y cuidado necesarios, e
-
-d) El estado del equipo, vías y demás condiciones de funcionamiento mecánico; tratándose de infracciones cometidas en los servicios de empresas transportadoras y en general por conductores de vehículos.
-
-###### Artículo 83.
-
-Regla especial.
-
-En los casos a que se refiere el primer párrafo del artículo anterior, las penas por delito culposo, con excepción de la reparación del daño, no excederá de las tres cuartas partes de las que corresponderían si el delito de que se trata fuese doloso.
-
-Siempre que al delito doloso corresponda sanción alternativa que incluya una pena no privativa de libertad, aprovechará esa situación al autor por culpa.
-
-###### Artículo 84.
-
-Punibilidad especial para el delito de daños.
-
-Cuando por culpa se ocasione únicamente el delito de daños que no sea mayor del equivalente a doscientos cincuenta veces el salario mínimo, se sancionará con multa hasta por el valor del daño causado más la reparación de éste.
-
-###### Artículo 85.
-
-Excusa absolutoria.
-
-No se impondrá pena ni medida de seguridad alguna a quien por culpa ocasione lesiones u homicidio a su ascendiente, descendiente, hermano, cónyuge, concubina o concubinario, adoptante y adoptado, o persona con la que esté unida por amor o amistad, siempre y cuando el imputado no se encuentre al momento de cometer el delito, en estado de ebriedad o bajo los efectos de estupefacientes, psicotrópicos, sustancias volátiles inhalables o cualquier otra que produzca efectos análogos y que haya sido administrada sin prescripción médica o sin la intención de provocar la alteración de la personalidad, con los resultados descritos.
-
-### CAPÍTULO V. PUNIBILIDAD EN EL CASO DE CONCURSO DE DELITOS Y DELITO CONTINUADO
-
-###### Artículo 86.
-
-Sanción en concurso de delitos.
-
-En caso de concurso ideal, se impondrán las sanciones correspondientes al delito que merezca la mayor penalidad, las cuales podrán aumentarse sin rebasar la mitad del máximo de la duración de las penas correspondientes de los delitos restantes, si las sanciones aplicables son de la misma naturaleza; cuando sean de diversa naturaleza podrán imponerse las penas correspondientes a los restantes delitos. En ningún caso, la pena aplicable podrá exceder de setenta años.
-
-En caso de concurso real, se impondrá la pena del delito que merezca la mayor, la cual podrá aumentarse con las penas que la ley contempla para cada uno de los delitos restantes, sin que exceda del máximo de setenta años.
-
-###### Artículo 87.
-
-Punibilidad del delito continuado.
-
-En caso de delito continuado, se aumentarán en una mitad las penas que la ley prevea para el delito cometido.
-
-### CAPÍTULO VI. ERROR VENCIBLE EN LAS CAUSAS DE LICITUD
-
-###### Artículo 88.
-
-Punibilidad en el caso de error vencible.
-
-En caso de que sea vencible el error a que se refiere el inciso a), fracción VIII del artículo 28 de este código, la penalidad será la del delito culposo, si el hecho de que se trata admite dicha forma de realización. Si el error vencible es el previsto en el inciso b) de la misma fracción, la penalidad será de una tercera parte del delito que se trate.
-
-### CAPÍTULO VII. PUNIBILIDAD PARA EL EXCESO EN LAS CAUSAS DE LICITUD
+Las Autoridades Sanitarias del Estado mantendrán campañas permanentes a fin de orientar a la población, en la necesidad de vacunar y mantener bajo control los animales domésticos. Igualmente orientarán a la población sobre los diferentes sistemas para esterilizar a los animales domésticos, en forma voluntaria o en su caso obligatoria.
 
 #### SECCION II. DE LAS ENFERMEDADES NO TRANSMISIBLES
 
-###### Artículo 89.
+###### ARTÍCULO 89.
 
-Punibilidad en el caso de exceso.
+Las Autoridades Sanitarias del Estado en sus respectivos ámbitos de competencia, realizarán actividades de prevención y control de las enfermedades no transmisibles que las propias autoridades determinen.
 
-Al que incurra en exceso, en los casos previstos en las fracciones IV, V y VI del artículo 28 de este código, se le impondrá la cuarta parte de las penas o medidas de seguridad, correspondientes al delito de que se trate.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPÍTULO VIII. SUSTITUCIÓN DE PENAS
+Se reconoce a las adicciones como una enfermedad para ser tratada institucionalmente como un problema de salud pública.
 
-###### Artículo 90.
+###### ARTÍCULO 90.
 
-Sustitución de la prisión.
+La acción de prevención y control de las enfermedades no transmisibles comprenderá una o más de las siguientes medidas, según el caso de que se trate:
 
-Cuando se trate de infractores primarios, que hayan observado buena conducta con anterioridad al delito, tengan modo honesto de vivir y no se hayan sustraído a la acción de la justicia durante el procedimiento, la pena de prisión cuya duración no exceda de dos años, podrá ser conmutada por el Juez de Control o el Tribunal de Juicio Oral por veinte a doscientos días multa.
+I.- La detección oportuna de las enfermedades no transmisibles y la evaluación del riesgo de contraerlas;
 
-Dichas cantidades se aplicarán en beneficio del Fondo de Administración de Justicia del Poder Judicial del Estado.
+II.- La divulgación de medidas higiénicas para el control de los padecimientos;
 
-En caso de insolvencia se sustituirá por trabajo en favor de la comunidad.
+III.- La prevención específica en cada caso y la vigilancia de su cumplimiento;
 
-Las sanciones impuestas por delitos contra el Estado podrán ser conmutadas por:
+IV.- La realización de estudios epidemiológicos; y
 
-I. La de prisión, por confinamiento, que será de igual duración que aquélla, y
+V.- Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
 
-II. La de confinamiento por multa de veinte a doscientos días de salario.
+###### ARTÍCULO 91.
 
-Quedará sin efecto la sustitución, a que se refieren las fracciones anteriores, si el sentenciado no paga la multa y la reparación del daño dentro del término que se le fije, que no podrá ser mayor de un mes.
-
-###### Artículo 91.
-
-Sustitución de la multa.
-
-La multa podrá ser sustituida por trabajo en favor de la comunidad.
+Los profesionales, técnicos y auxiliares de la salud rendirán los informes que la Autoridad Sanitaria del Estado requiera acerca de las enfermedades no transmisibles, en los términos de las disposiciones aplicables.
 
 #### SECCION III. DE LOS ACCIDENTES
 
-###### Artículo 92.
+###### ARTÍCULO 92.
 
-Condiciones para la sustitución.
+Para los efectos de esta Ley, se entiende por accidente el hecho súbito que ocasione daños a la salud y que se produzca por la concurrencia de condiciones potencialmente previsibles.
 
-La sustitución de la sanción privativa de libertad procederá cuando se cubra la reparación del daño, pudiendo la autoridad judicial fijar plazos para ello, de acuerdo a la situación económica del sentenciado.
+###### ARTÍCULO 93.
 
-La sustitución de la pena de prisión no podrá aplicarse por la autoridad judicial cuando se trate de un sujeto al que anteriormente se le hubiere condenado en sentencia ejecutoriada por delito doloso que se investigue de oficio, así como cuando se trate de una trasgresión en perjuicio de la hacienda pública.
+La acción en materia de prevención y control de accidentes comprende:
 
-###### Artículo 93.
+I.- El conocimiento de las causas más usuales que generan accidentes;
 
-Revocación de la sustitución.
+II.- La adopción de medidas para prevenir accidentes;
 
-La autoridad judicial podrá dejar sin efecto la sustitución y ordenar que se ejecute la pena de prisión impuesta cuando:
+III.- El desarrollo de la investigación para la prevención de los mismos;
 
-I. El sentenciado no cumpla con las condiciones que le fueran señaladas; salvo que la autoridad judicial estime conveniente apercibirlo, en cuyo caso, se fijará garantía para asegurar el cumplimiento de las condiciones, o
+IV.- El fomento dentro de los programas de educación para la salud, de orientación a la población para la prevención de accidentes;
 
-II. Al sentenciado se le condene en otro proceso por delito doloso; si el nuevo delito carece de trascendencia social o es culposo, la autoridad judicial resolverá si debe aplicarse la pena sustituida.
+V.- La atención de los padecimientos que se produzcan como consecuencia de ellos; y
 
-En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta el tiempo durante el cual el sentenciado hubiera cumplido la pena sustitutiva.
+VI.- La promoción de la participación de la comunidad en la prevención de accidentes.
 
-### CAPÍTULO II. TENTATIVA
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPITULO SEPTIMO BIS. DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN SITUACIÓN TERMINAL
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 #### SECCION I. DISPOSICIONES COMUNES
 
@@ -1717,161 +1877,159 @@ ARTÍCULO 93 BIS 22.- Las Autoridades Sanitarias comunicaran a las autoridades e
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-### CAPÍTULO III. AUTORÍA Y PARTICIPACIÓN
+### CAPITULO OCTAVO. DE LA PREVENCIÓN Y REHABILITACIÓN DE PERSONAS CON DISCAPACIDAD
 
-###### Artículo 94.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
-Obligación del fiador en la sustitución.
+###### ARTÍCULO 94.
 
-La obligación del fiador concluirá al extinguirse la pena impuesta, en caso de habérsele nombrado para el cumplimiento de los deberes inherentes a la sustitución de penas.
+Para los efectos de esta Ley, se entiende por discapacidad como toda restricción o ausencia de la capacidad para realizar una actividad en la forma o dentro del margen que se considera normal para un ser humano en función de su edad, sexo, o factores sociales y culturales, debido a la consecuencia de una insuficiencia somática, psicológica o social.
 
-Cuando el fiador tenga motivos para no continuar en su desempeño, los expondrá a la autoridad judicial a fin de que ésta, si los estima fundados, prevenga al sentenciado para que presente nuevo fiador dentro del plazo que se le fije, apercibido de que de no hacerlo se le hará efectiva la pena.
+###### ARTÍCULO 95.
 
-En este último caso, se estará a lo dispuesto en el artículo anterior.
+Las Autoridades Sanitarias y Educativas del Estado en el ámbito de sus respectivas competencias, colaborarán en la atención rehabilitatoria de personas que requieran de asistencia social, en la realización de estudios e investigaciones en materia de discapacidades, así como en programas de rehabilitación y educación especial.
 
-En caso de muerte o insolvencia del fiador, el sentenciado deberá poner el hecho en conocimiento de la autoridad judicial, para los efectos que se expresan en el párrafo que precede.
+Asimismo vigilarán que los lugares públicos y centros de reunión de cualquier índole, contemplen áreas especiales para las personas discapacitadas, así como el que otorguen todo tipo de facilidades para las mismas.
 
-### CAPÍTULO IX. SUSPENSIÓN CONDICIONAL DE LA CONDENA
+###### ARTÍCULO 96.
 
-###### Artículo 95.
+La atención en materia de prevención de discapacidades y su rehabilitación comprende:
 
-Alcance.
+I.- La investigación de las causas de la discapacidad y de los factores que la condicionan;
 
-La suspensión condicional de la condena comprenderá la pena de prisión y la multa.
+II.- La promoción de la participación de la comunidad en la prevención y control de las causas y factores condicionantes de la discapacidad;
 
-###### Artículo 96.
+III.- La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que puedan causar discapacidad;
 
-Requisitos de la suspensión.
+IV.- La orientación educativa en materia de rehabilitación a la colectividad en general, y en particular a las familias que cuenten con algún discapacitado, promoviendo al efecto la solidaridad social;
 
-El Juez de Control o el Tribunal Penal Oral, en su caso, al dictar sentencia condenatoria, suspenderá motivadamente la ejecución de las penas, a petición de parte o de oficio, si concurren los requisitos siguientes:
+V.- La atención integral de los discapacitados, incluyendo la adaptación de prótesis, órtesis y ayudas funcionales que requieran;
 
-I. Que el sentenciado sea un infractor primario;
+VI.- La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de los discapacitados; y
 
-II. Que tenga modo honesto de vivir y haya observado buena conducta con anterioridad al delito, probada por hechos positivos;
+VII.- La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
 
-III. Que durante el proceso no se haya sustraído a la acción de la justicia;
+###### ARTÍCULO 97.
 
-IV. Que la duración de la pena de prisión no exceda de tres años, y
+Las Autoridades Sanitarias del Estado en sus respectivos ámbitos de competencia, promoverán el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
 
-V. Que haya pagado o cubierto la reparación del daño.
+###### ARTÍCULO 98.
 
-###### Artículo 97.
+Las Autoridades Sanitarias del Estado tendrán entre sus objetivos, operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de discapacidad y participar en programas de rehabilitación y educación especial.
 
-Plazo.
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
 
-El plazo de suspensión de la ejecución de la pena será de dos a cinco años que fijarán los tribunales a su prudente arbitrio, atendidas las circunstancias objetivas del delito y subjetivas del sentenciado.
+ARTÍCULO 98 BIS.- La Secretaría de Salud del Estado, llevará la operación y actualización de un Registro Estatal de Parálisis Cerebral Pediátrica, con el objeto de:
 
-###### Artículo 98.
+I.- Determinar la incidencia de la parálisis cerebral infantil;
 
-Obligaciones del beneficiado.
+II.- Conocer los factores condicionantes o causales de parálisis cerebral infantil;
 
-El beneficiado con la suspensión condicional, estará obligado a:
+III.- Dar seguimiento al desarrollo de la parálisis cerebral infantil;
 
-I. Observar buena conducta durante el término de suspensión;
+IV.- Planificar, acercar, evaluar y mejorar la atención médica, así como los servicios (sic) asistencia social que se deban otorgar; y
 
-II. Presentarse mensualmente ante las autoridades encargadas de la ejecución de penas y medidas de seguridad, las que le otorgarán el salvoconducto respectivo;
+V.- Recabar cualquier otra información que se estime necesaria para la prevención y rehabilitación de la parálisis cerebral infantil.
 
-III. Quedar sujeto a la vigilancia de la autoridad;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2012)</small>
 
-IV. Presentarse ante las autoridades judiciales o ante las encargadas de la ejecución de penas y medidas de seguridad cuantas veces sea requerido para ello;
-
-V. Comunicar a las autoridades del órgano ejecutor de penas sus cambios de domicilio, y
-
-VI. No ausentarse del Estado sin previo permiso de las autoridades encargadas de la ejecución de penas y medidas de seguridad.
-
-### CAPÍTULO IV. CAUSAS QUE EXCLUYEN EL DELITO
+### CAPITULO NOVENO. DE LAS ADICCIONES Y DE LOS PROGRAMAS PERMANENTES DE SALUD
 
 #### SECCION I. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
-###### Artículo 99.
+###### ARTÍCULO 99.
 
-Revocación de la suspensión.
+Las Autoridades Sanitarias del Estado, reconocen a las adicciones como un problema de salud pública, para lo cual, se coordinarán entre sí y con las Autoridades Federales en la ejecución de programas contra el alcoholismo y el abuso de bebidas alcohólicas; y sin perjuicio del cumplimiento de la Ley de la materia, realizarán las siguientes acciones:
 
-El incumplimiento a cualquiera de estas obligaciones será motivo de revocación de la suspensión condicional de la pena.
+I.- Prevención y tratamiento del alcoholismo y en su caso, rehabilitación de los alcohólicos;
 
-###### Artículo 100.
+II.- Educativas sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva; y
 
-Otorgamiento de garantía.
+III.- Fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
 
-A fin de lograr el cumplimiento de todas estas obligaciones, el beneficiado con la suspensión condicional otorgará ante el Juez de Control o Tribunal Penal Oral, una garantía que éstos o el Tribunal Superior de Justicia señalarán tomando en consideración las posibilidades económicas del sentenciado, la pena impuesta, la naturaleza del delito y las circunstancias de su comisión.
+###### ARTÍCULO 100.
 
-Dichas cantidades se aplicarán en beneficio del Fondo de Administración de Justicia del Poder Judicial del Estado.
+Para obtener la información que oriente las acciones contra el alcoholismo y el abuso de bebidas alcohólicas, las Autoridades Sanitarias del Estado, en coordinación con otras dependencias y entidades públicas realizarán actividades de investigación en los siguientes aspectos:
 
-###### Artículo 101.
+I.- Causas del alcoholismo y acciones para controlarlas;
 
-Conocimiento de las obligaciones.
+II.- Efectos de la publicidad en la incidencia del alcoholismo y en los problemas relacionados con el consumo de bebidas alcohólicas;
 
-A los sentenciados a quienes se conceda el beneficio de la suspensión condicional, se les harán saber las obligaciones que adquieren en los términos del artículo 98 de este código, lo que se asentará en diligencia formal, sin que la falta de ésta impida en su caso, la aplicación de lo prevenido en los mismos.
+III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
+
+IV.- Efectos del abuso de bebidas alcohólicas en el ambiente familiar, social, deportivo, de espectáculos, laboral y educativo.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2019)</small>
+
+###### ARTÍCULO 101.
+
+En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alcohólicas a menores de edad, a la persona que infrinja esta norma se le sancionará en términos de lo dispuesto por la normatividad aplicable.
 
 #### SECCION II. DEL PROGRAMA CONTRA EL TABAQUISMO
 
-###### Artículo 102.
+###### ARTÍCULO 102.
 
-Condiciones a cumplir por el beneficiado.
+Las Autoridades Sanitarias del Estado, sin detrimento de la observancia de las normas que resulten aplicables, se coordinarán con las Autoridades Federales en la ejecución del programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
 
-Las autoridades encargadas de la ejecución de penas y medidas de seguridad, señalarán las demás condiciones que el beneficiado debe cumplir durante el término de la suspensión.
+I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo; y
 
-###### Artículo 103.
+II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos.
 
-Extinción de la pena suspendida.
+###### ARTÍCULO 103.
 
-Si transcurrido el término de la suspensión y el sentenciado no ha cometido un nuevo delito se extinguirá la pena suspendida y en caso contrario se ejecutará.
+Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta los siguientes aspectos:
 
-###### Artículo 104.
+I.- La investigación de las causas del tabaquismo y de las acciones para controlarlas;
 
-Derecho a recurrir.
+II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes; y
 
-El sentenciado que considere que al dictarse el fallo definitivo, en el que no hubo pronunciamiento sobre la conmutación o suspensión condicional de la condena reunía las condiciones fijadas para su obtención y que está en aptitud de cumplir con los requisitos para su otorgamiento, podrá promover el recurso respectivo ante la autoridad judicial.
+III.- Los efectos de la publicidad en la incidencia del tabaquismo y en los problemas relacionados con el consumo de tabaco.
 
-## TÍTULO SÉPTIMO. EXTINCIÓN DE LA PRETENSIÓN PUNITIVA Y DE LA POTESTAD DE EJECUTAR LAS PENAS Y MEDIDAS DE SEGURIDAD
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
-### CAPÍTULO I. REGLAS GENERALES
+###### ARTÍCULO 104.
+
+Queda estrictamente prohibido vender tabaco en cualquiera de sus presentaciones a personas menores de dieciocho años de edad. Los empleados o dueños de establecimientos comerciales que vendan productos derivados del tabaco deberán verificar que el comprador sea mayor de edad, mediante la exhibición de un medio de identificación oficial que contenga foto y fecha de nacimiento del comprador.
+
+Los establecimientos comerciales que vendan productos derivados del tabaco, deberán fijar anuncios en el área de caja, que hagan del conocimiento al consumidor la prohibición de venta de tabaco a personas menores de dieciocho años de edad y que al momento de comprar estos productos, el comprador deberá exhibir un medio de identificación oficial para demostrar su mayoría de edad.
+
+A quienes infrinjan lo dispuesto en este artículo, se le sancionará en términos de la normatividad aplicable.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 #### SECCION III. DE LA PREVENCION, ATENCION Y COMBATE A LA FARMACODEPENDENCIA
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-###### Artículo 105.
+###### ARTÍCULO 105.
 
-Causas de extinción.
+La Secretaría de Salud del Estado se coordinará con la Secretaría de Salud Federal para la ejecución en la entidad del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, el cual establecerá los procedimientos y criterios para la prevención, tratamiento y control de las adicciones y será de observancia obligatoria para los prestadores de Servicios de Salud del Sistema Nacional de Salud en Baja California, así como en los establecimientos de los sectores público, privado y social que realicen actividades preventivas de tratamiento y de control de las adicciones y la farmacodependencia.
 
-La pretensión punitiva y la potestad para ejecutar las penas y medidas de seguridad, se extinguen por:
+Para el tratamiento de los farmacodependientes la Secretaría de Salud de Baja California gestionará los recursos necesarios y creará junto con la Federación, centros especializados en tratamiento, atención y rehabilitación con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libertad de decisión del farmacodependiente. La ubicación de los centros estará basada en estudios rigurosos del impacto de las adicciones en cada municipio del Estado.
 
-I. Cumplimiento de la pena o medida de seguridad;
+La Secretaría de Salud del Estado creará un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen.
 
-II. Muerte del imputado, acusado o sentenciado;
+Asimismo, celebrará convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características y posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
 
-III. Reconocimiento de la inocencia del sentenciado;
+###### ARTÍCULO 106.
 
-IV. Perdón de la víctima u ofendido en los delitos de querella o por cualquier otro acto equivalente;
+La Secretaría de Salud del Estado y los Municipios, para evitar y prevenir el consumo de substancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
 
-V. Rehabilitación;
+I.- Determinarán y ejercerán medios de control en los expendios de substancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces;
 
-VI. Conclusión del tratamiento de inimputables;
+II.- Establecerán sistemas de vigilancia o de control en los establecimientos destinados al expendio y uso de dichas substancias, para evitar el empleo indebido de las mismas;
 
-VII. Indulto;
+III.- Brindarán la atención que se requiera a las personas que realicen o hayan realizado el consumo de inhalantes;
 
-VIII. Amnistía;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-IX. Prescripción;
+IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, dirigidas principalmente a niñas, niños y adolescentes, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes.
 
-X. Supresión del tipo penal;
+A los establecimientos, así como a los responsables de los mismos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que disponga la Secretaría de Salud del Estado y los Municipios, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
 
-XI. Existencia de una sentencia anterior dictada en proceso seguido por los mismos hechos, y
-
-XII. Las demás que se establezcan en la ley.
-
-###### Artículo 106.
-
-Procedencia de la extinción.
-
-La resolución sobre la extinción punitiva se dictará de oficio o a solicitud de parte.
-
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-Las penas y medidas de seguridad ya impuestas, que deban extinguirse por alguno de los supuestos a que se refieren las fracciones III y VIII del artículo anterior, serán impugnables en términos de lo que disponga el Código Nacional de Procedimientos Penales.
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE AGOSTO DE 2009)</small>
 
 #### SECCION IV. DEL PROGRAMA CONTRA ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
 
@@ -1923,433 +2081,293 @@ VIII.- Desarrollar acciones para detectar y atender oportunamente los casos de V
 
 IX.- Las demás acciones, políticas y estrategias que determinen las autoridades competentes.
 
-### CAPÍTULO V. CONCURSO DE DELITOS
+### CAPITULO DECIMO. DE LA SALUBRIDAD LOCAL
 
 #### SECCION I. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-###### Artículo 107.
+###### ARTÍCULO 107.
 
-Alcances de la extinción.
+La Secretaría de Salud del Estado, ejercerá el control sanitario de las materias a que se refiere el Artículo 5º de este Ordenamiento.
 
-La extinción que se produzca en los términos del artículo 105 de este código no abarca el decomiso de instrumentos, objetos y productos del delito.
+###### ARTÍCULO 108.
 
-### CAPÍTULO II. CUMPLIMIENTO DE LA PENA O MEDIDA DE SEGURIDAD
+El control sanitario comprende la autorización, vigilancia y la aplicación de sanciones y medidas de seguridad en la materia de salubridad local a que alude el Artículo anterior.
 
-###### Artículo 108.
+###### ARTÍCULO 109.
 
-Efectos del cumplimiento.
+La Secretaría de Salud del Estado formulará las políticas a que quedará sujeto el control sanitario en la materia de salubridad local, cuando no exista una norma oficial aplicable, las que deberán ser publicadas en el Periódico Oficial del Gobierno del Estado.
 
-La potestad para ejecutar la pena o la medida de seguridad impuesta, se extingue por cumplimiento de las mismas o de las penas por las que se hubiesen sustituido o conmutado.
+###### ARTÍCULO 110.
 
-Asimismo, la sanción que se hubiese suspendido se extinguirá por el cumplimiento de los requisitos establecidos para el otorgamiento de la suspensión, en los términos y dentro de los plazos legalmente aplicables.
+Los establecimientos y servicios a que se refiere el Artículo 5o. de esta Ley, requerirán para iniciar sus actividades cumplir con los requisitos que determine esta Ley, los Reglamentos, normas oficiales mexicanas y demás disposiciones que resulten aplicables.
 
-### CAPÍTULO III. MUERTE DEL IMPUTADO, ACUSADO O SENTENCIADO
+###### ARTÍCULO 111.
 
-###### Artículo 109.
-
-Extinción por muerte.
-
-La muerte del imputado o acusado extingue la pretensión punitiva; la del sentenciado, las penas o las medidas de seguridad impuestas, a excepción del decomiso de instrumentos, objetos y productos del delito y la reparación del daño.
-
-### CAPÍTULO IV. RECONOCIMIENTO DE INOCENCIA
-
-###### Artículo 110.
-
-Pérdida del efecto de la sentencia.
-
-Cualquiera que sea la pena o la medida de seguridad impuesta en sentencia que cause ejecutoria, procederá la anulación de ésta, cuando se pruebe que el sentenciado es inocente del delito por el que se le juzgó.
-
-El reconocimiento de inocencia produce la extinción de las penas o medidas de seguridad impuestas y de todos sus efectos.
-
-El reconocimiento de inocencia del sentenciado extingue la obligación de reparar el daño.
-
-### CAPÍTULO V. PERDÓN QUE OTORGA LA VÍCTIMA U OFENDIDO
-
-###### Artículo 111.
-
-Extinción por perdón de la víctima u ofendido.
-
-El perdón otorgado por la víctima u ofendido, extingue la pretensión punitiva o la potestad de ejecutar las sanciones y medidas de seguridad, respecto de los delitos que se investigan por querella.
-
-Extingue la pretensión punitiva el perdón otorgado en cualquier estado del procedimiento y hasta antes de que cause ejecutoria la sentencia definitiva.
-
-Extingue la potestad de ejecutar las sanciones y medidas de seguridad, el perdón otorgado en forma posterior a que haya causado ejecutoria la sentencia definitiva.
-
-Ésta deberá proceder de inmediato a decretar la extinción de la potestad de ejecutar las penas y medidas de seguridad.
-
-Una vez otorgado el perdón, éste no podrá revocarse.
-
-El perdón sólo beneficia a favor de quién se otorga.
-
-Cuando sean varias las víctimas, cada una puede ejercer separadamente la facultad de perdonar.
-
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2016)</small>
-
-Para el otorgamiento del perdón, la víctima u ofendido deberá estar asistido por el asesor jurídico de atención a víctimas respectivo, quien le explicará las consecuencias de dicho acto, previstas en el Código Nacional de Procedimientos Penales.
-
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2016)</small>
-
-###### Artículo 111 Bis.
-
-Delitos que se investigan por querella.
-
-Es necesaria la querella y sin ella no podrá procederse contra los responsables, cuando se trate de los siguientes delitos:
-
-I. Lesiones, previstas en la fracción I del artículo 232, 234 ó 236;
-
-II. Allanamiento de morada, despacho, oficina o establecimiento mercantil, previsto en los artículos 274, 275 ó 276;
-
-III. Amenazas, previsto en el artículo 279;
-
-IV. Procreación asistida e inseminación artificial, previsto en los artículos 296, 297 ó 298;
-
-V. Omisión de auxilio a lesionados, previsto en el artículo 305;
-
-VI. Contra la seguridad en los medios informáticos, previsto en los artículos 316 ó 317;
-
-VII. Robo, previsto en los artículos 323 fracción I, 325, 326 ó 327;
-
-VIII. Abuso de confianza, previsto en el artículo 335 fracción I;
-
-IX. Fraude, previsto en el artículo 338 fracción I y VI ó 339, siempre y cuando el monto de lo defraudado sea el previsto en el artículo 338 fracción I;
-
-X. Insolvencia fraudulenta en perjuicio de acreedores, previsto en el artículo 343;
-
-XI. Despojo, previsto en el artículo 346;
-
-XII. Daños, previsto en el artículo 348;
-
-XIII. Incumplimiento de la obligación alimentaria, previsto en los artículos 368, 369 ó 371;
-
-XIV. Falsificación o alteración y uso indebido de documento, previsto en el artículo 405; y
-
-XV. Delitos contra el trabajo y la previsión social, previsto en los artículos 410 ó 411.
-
-### CAPÍTULO VI. REHABILITACIÓN
+Todo cambio de propietario, de razón o denominación social o domicilio de un establecimiento, deberá ser comunicado a la Autoridad que otorgó la autorización sanitaria o a quien se le haya dado el aviso de funcionamiento, en un plazo no mayor de treinta días a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
 
 #### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
 
-###### Artículo 112.
+###### ARTÍCULO 112.
 
-Objeto de la rehabilitación.
+Para los efectos de esta Ley, se entiende por:
 
-La rehabilitación tiene por objeto reintegrar al sentenciado en el goce de los derechos, funciones o empleo de cuyo ejercicio se le hubiere suspendido o inhabilitado en virtud de sentencia firme.
+I.- Alimento: cualquier substancia o producto, sólido o semisólido, natural o transformado, que proporcione al organismo elementos para su nutrición;
 
-### CAPÍTULO VII. CONCLUSIÓN DEL TRATAMIENTO DE INIMPUTABLES
+II.- Bebida no alcohólica: cualquier líquido, natural o transformado, que proporcione al organismo elementos para su nutrición;
 
-###### Artículo 113.
+III.- Suplementos alimenticios: productos formulados a base de hierbas, extractos vegetales, alimentos tradicionales, deshidratados o concentrados de frutas, adicionados o no, de vitaminas o minerales, que se puedan presentar en forma farmacéutica y cuya finalidad de uso sea incrementar la ingesta dietética total, complementaria o suplir alguno de sus componentes;
 
-Extinción de las medidas de tratamiento.
+IV.- Expendio: Tienda de ventas al por menor de bebidas alcohólicas; y
 
-La potestad para la ejecución de las medidas de tratamiento a inimputables, se considerará extinguida si se acredita que el sujeto ya no requiere tratamiento.
+V.- Establecimiento: Local donde se desarrolla una actividad comercial en la cual se expenden bebidas alcohólicas en envase cerrado.
 
-Si el inimputable sujeto a una medida de seguridad se encontrare prófugo y posteriormente fuere detenido, la potestad para la ejecución de dicha medida se considerará extinguida, si se acredita que las condiciones personales del sujeto que dieron origen a su imposición, ya han cesado.
+###### ARTÍCULO 113.
 
-### CAPÍTULO VIII. INDULTO
+La regulación y control de los establecimientos dedicados al expendio o suministro al público de alimentos y bebidas no alcohólicas y los vendedores ambulantes, se dará conforme a lo que disponga esta Ley y la normatividad que les sea aplicable.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2018)</small>
 
 #### SECCION III. DE LAS FUNERARIAS, PANTEONES Y CADAVERES
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-###### Artículo 114.
+###### ARTÍCULO 114.
 
-Efectos y procedencia del indulto.
+Corresponde a los Municipios atender el funcionamiento, conservación y operación de panteones.
 
-El indulto extingue la potestad de ejecutar las penas y las medidas de seguridad impuestas en sentencia ejecutoria, salvo el decomiso de instrumentos, objetos y productos relacionados con el delito, la reparación del daño y la inhabilitación para ejercer una profesión o alguno de los derechos civiles o políticos o para desempeñar algún cargo o empleo.
+La prestación de los servicios de panteones sólo podrá ser concesionado cuando se reúnan los requisitos y condiciones que se determinen en los Reglamentos Municipales.
 
-Es facultad discrecional del Titular del Ejecutivo conceder el indulto.
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
 
-### CAPÍTULO IX. AMNISTÍA
+ARTÍCULO 114 BIS.- Para los efectos de esta ley se considera:
 
-###### Artículo 115.
+I.- Panteón: Lugar donde los cadáveres y restos humanos son enterrados; y
 
-Extinción por amnistía.
+II.- Funeraria: Establecimiento dedicado a la venta de ataúdes que presta los servicios de traslado, preparación, velación, inhumación, incineración y exhumación de cadáveres y restos humanos, así como los trámites inherentes a ello, ante las autoridades competentes.
 
-La amnistía extingue la pretensión punitiva o la potestad de ejecutar las penas y medidas de seguridad impuestas, en los términos de la ley que se dictare concediéndola, con excepción de la reparación del daño, el decomiso de los instrumentos con que se cometió el delito y de las cosas que sean objeto o producto de éste.
+###### ARTÍCULO 115.
 
-### CAPÍTULO X. CADUCIDAD Y PRESCRIPCIÓN
+La administración y funcionamiento de los panteones, estarán sujetos a la Ley General de Salud, a lo dispuesto en esta Ley y a los reglamentos municipales.
 
-###### Artículo 116.
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
 
-Efectos y características de la prescripción.
+Los cadáveres no pueden ser objeto de propiedad y siempre serán tratados con respeto, dignidad y consideración; asimismo los cadáveres se clasifican en relación a su identidad de la siguiente manera:
 
-La prescripción es personal y extingue la pretensión punitiva y la potestad de ejecutar las penas y las medidas de seguridad y para ello bastará el transcurso del tiempo señalado por la ley.
+I.- De personas conocidas, y
 
-Los delitos de homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo previsto en el artículo 328 fracciones I y II de este código, los cometidos con medios violentos como armas y explosivos; la tentativa punible de los delitos mencionados, son imprescriptibles.
+II.- De personas desconocidas.
 
-> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
 
-En todos aquellos delitos que impliquen cualquier tipo de violencia sexual cometidos en contra de víctimas que al momento de la comisión del hecho punible hayan sido niñas, niños o adolescentes, la pretensión punitiva y la potestad de ejecutar las penas y las medidas de seguridad, son imprescriptibles.
+Los cadáveres no reclamados dentro de las setenta y dos horas posteriores a la pérdida de la vida y aquellos de los que se ignore su identidad serán considerados como de personas desconocidas.
 
-###### Artículo 117.
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
 
-Prescripción de oficio o a petición de parte.
+La inhumación o incineración de cadáveres sólo podrá realizarse con la autorización del oficial del Registro Civil que corresponda, quien exigirá la presentación del certificado de defunción; lo anterior sin perjuicio de las disposiciones legales aplicables.
 
-La resolución en torno de la prescripción se dictará de oficio o a petición de parte.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2011)</small>
 
-###### Artículo 118.
+###### ARTÍCULO 116.
 
-Duplicación de los plazos para la prescripción.
+Los cadáveres deberán preferentemente incinerarse, inhumarse o embalsamarse dentro de las cuarenta y ocho horas siguientes a la muerte, salvo autorización específica de la Autoridad Sanitaria competente, por disposición del Ministerio Público o de la Autoridad Judicial.
 
-Los plazos para que opere la prescripción se duplicarán respecto de quienes se encuentren fuera del territorio del Estado, si por esta circunstancia no es posible concluir la investigación, el proceso o la ejecución de la sentencia.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2018)</small>
 
-###### Artículo 119.
+Tratándose de cadáveres que no son reclamados por familiares o personas autorizadas, la Autoridad Sanitaria competente, por disposición del Ministerio Público o de la Autoridad Judicial, una vez establecida y registrada la causa determinante de la muerte dispondrá de cinco días, para liberar el cadáver que corresponda e iniciar los procedimientos jurídicos administrativos y técnicos que permitan la ficha de identificación registrada en el banco de datos para su utilización posterior, procediendo a la inhumación con el apoyo de bolsas herméticas capaces de mantener los restos humanos.
 
-Plazos para la prescripción de la pretensión punitiva.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
 
-Los plazos para la prescripción de la pretensión punitiva serán continuos; en ellos se considerará el delito con sus modalidades y se contarán a partir de:
+Los responsables de las funerarias o panteones darán aviso a la Autoridad Sanitaria del lugar o si en este no lo hubiera a la del lugar más próximo, de los casos en que se haya violado esta disposición, para que previa investigación se sancione a los que resulten responsables de la demora.
 
-I. El momento en que se consumó el delito, si es instantáneo;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-II. El momento en que cesó la consumación, si el delito es permanente;
+ARTÍCULO 116 BIS.- La Secretaría de Salud del Estado a través del Instituto de Servicios de Salud Pública del Estado de Baja California ejercerá el control sanitario de los establecimientos que se dediquen a la prestación de servicios funerarios; asimismo, verificará que la prestación del servicio, locales y el equipo con que se preste el mismo reúna las condiciones sanitarias exigibles en los términos de esta Ley y los reglamentos correspondientes.
 
-III. El día en que se realizó la última conducta, si el delito es continuado;
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
-IV. El momento en que se realizó el último acto de ejecución o se omitió la conducta debida, si se trata de tentativa, y
+ARTÍCULO 116 TER.- El control, supervisión y vigilancia sanitaria comprenderá las siguientes
 
-V. El día en que el Ministerio Público haya recibido el oficio correspondiente, en los casos en que se hubiere librado orden de reaprehensión o presentación, respecto del procesado que se haya sustraído de la acción de la justicia.
+I.- Supervisar e inspeccionar las actividades desarrolladas por las funerarias;
+
+II.- Crear el registro y padrón de las funerarias el cual contendrá los datos de las personas físicas y morales propietarias del establecimiento, ubicación, superficie del terreno, información del responsable de la operatividad, datos generales de la Licencia Sanitaria vigente y el historial de revalidaciones, así como de los demás permisos y autorizaciones que emitan las autoridades competentes para prestar el servicio;
+
+III.- Acreditar a las funerarias que cumplan con los requisitos previstos en esta Ley y las demás disposiciones aplicables;
+
+IV.- Implementar un sistema para que las funerarias acreditadas puedan retirar los cadáveres de seres humanos del lugar del fallecimiento;
+
+V.- Supervisar que las funerarias cumplan con las condiciones sanitarias y los requerimientos mínimos que deberán reunir las instalaciones de las funerarias para la prestación del servicio y los vehículos para el traslado de cadáveres de seres humanos;
+
+VI.- Supervisar que las funerarias cumplan con la destrucción de ataúdes luego de una cremación a fin de evitar el rehusó de los mismos;
+
+VII.- Supervisar las condiciones en que se realiza la cremación, embalsamiento, inhumación o exhumación de cadáveres humanos;
+
+VIII.- Procurar la homologación de tramites de las funerarias;
+
+IX.- La observación a la obligación que tiene el prestador del servicio de exhibir a la vista del público la tarifa de los servicios ofrecidos al consumidor; y
+
+X.- Las demás que se señalen en esta Ley, en su reglamento y demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 116 QUATER.- El incumplimiento a lo previsto en el artículo anterior y las demás disposiciones aplicables, dará lugar a que la Secretaría de Salud del Estado a través del Instituto de Servicios de Salud Pública del Estado de Baja California aplique las medidas de seguridad o sanciones a que refiere esta Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+
+En el caso de que la Autoridad de Salud Local observe incumplimiento a la fracción IX del artículo anterior, solo levantara el acta correspondiente y dará vista a las Autoridades Federales de Salud y de Protección al Consumidor para los efectos legales correspondientes.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
+###### ARTÍCULO 117.
+
+La Autoridad Sanitaria Federal, determinará el plazo mínimo que deben permanecer los restos en las fosas. Mientras el plazo señalado no concluya, sólo podrán efectuarse las exhumaciones que aprueben las autoridades sanitarias y las ordenadas por las judiciales o por el Ministerio Público, previo el cumplimiento de los requisitos sanitarios correspondientes.
+
+###### ARTÍCULO 118.
+
+El traslado de cadáveres dentro de la entidad, sólo podrá hacerse mediante la autorización de la Secretaría de Salud, cumpliendo con los requisitos que a juicio de la misma dependencia deban cumplirse.
+
+###### ARTÍCULO 119.
+
+Para establecer un nuevo panteón, se necesita licencia expedida por el Ayuntamiento correspondiente.
+
+El funcionamiento de los panteones, estará sujeto a la Ley General de Salud, a lo dispuesto en esta Ley, a los Reglamentos Municipales correspondientes y a la normatividad aplicable.
 
 #### SECCION IV. DE LA LIMPIEZA PUBLICA
 
-###### Artículo 120.
+###### ARTÍCULO 120.
 
-Plazos para la prescripción de la potestad para ejecutar penas y medidas de seguridad.
+Para los efectos de esta Ley, se entiende por servicio de limpieza pública, el de recolección y tratamiento y disposición final de basura a cargo de los Ayuntamientos, los que estarán obligados a implementar este servicio de una manera regular y eficiente.
 
-Los plazos para la prescripción de la potestad para ejecutar las penas y las medidas de seguridad, serán continuos y correrán desde el día siguiente a aquél en que el sentenciado se sustraiga de la acción de la justicia, si las penas o las medidas de seguridad fueren privativas o restrictivas de la libertad. Tratándose de otras, desde la fecha en que cause ejecutoria la sentencia.
+###### ARTÍCULO 121.
 
-###### Artículo 121.
+La basura deberá ser manejada en su destino final como relleno sanitario o destruirse por otros procedimientos, excepto cuando tenga empleo útil, siempre que no signifique un peligro para la salud, en los términos de las disposiciones legales y reglamentarias aplicables.
 
-Caducidad en los delitos de querella.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-El derecho a querellarse por un delito que sólo pueda investigarse a petición de la víctima u ofendido caducará en un año, contado desde el día en que quienes puedan formular la querella tengan conocimiento del delito y en tres años fuera de esta circunstancia.
+###### ARTÍCULO 122.
 
-Una vez cumplido el requisito de procedibilidad dentro del plazo antes mencionado, la prescripción seguirá corriendo según las reglas para los delitos que se investigan de oficio.
-
-###### Artículo 122.
-
-Prescripción según el tipo de pena.
-
-La pretensión punitiva respecto de delitos que se investigan de oficio prescribirá:
-
-I. En un plazo igual al término medio aritmético de la pena privativa de la libertad, incluidas las modalidades del delito cometido, pero en ningún caso será menor de tres años.
-
-Esta regla se aplicará cuando la pena privativa de la libertad esté señalada en forma conjunta o alterna con otra diversa, y
-
-II. En un año, si el delito se sanciona con pena no privativa de la libertad.
+El manejo, recolección, transporte, tratamiento y disposición final de basura se realizará en los términos que señalen la Ley de Protección al Ambiente para el Estado de Baja California, sus reglamentos y demás disposiciones que resulten aplicables.
 
 #### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
 
-###### Artículo 123.
+###### ARTÍCULO 123.
 
-Prescripción en caso de concurso de delitos.
+Los Ayuntamientos procurarán de conformidad con las disposiciones aplicables, que las poblaciones tengan servicio regular de aprovisionamiento y distribución de agua potable para uso y consumo humano.
 
-En los casos de concurso ideal de delitos, la pretensión punitiva prescribirá conforme a las reglas para el delito que merezca la pena mayor.
+###### ARTÍCULO 124.
 
-En los casos de concurso real de delitos, los plazos para la prescripción punitiva empezarán a correr simultáneamente y prescribirán separadamente para cada uno de los delitos.
+Los proyectos de abastecimiento de agua potable deberán ser sometidos a la consideración de la Autoridad Sanitaria Municipal para la aprobación del sistema adoptado y para el análisis minucioso de las aguas.
 
-###### Artículo 124.
+###### ARTÍCULO 125.
 
-Necesidad de resolución o declaración previa.
+La Autoridad Municipal realizará análisis periódicos de la potabilidad de las aguas, conforme a esta Ley y demás disposiciones aplicables.
 
-Cuando para ejercitar o continuar la pretensión punitiva sea necesaria una resolución previa de autoridad jurisdiccional, la prescripción comenzará a correr desde que se dicte la sentencia irrevocable.
+###### ARTÍCULO 126.
 
-Si para deducir la pretensión punitiva la ley exigiere previa declaración o resolución de alguna autoridad, las gestiones que con ese fin se practiquen dentro de los términos señalados en el artículo 122 de este código, suspenderán la prescripción.
+En las poblaciones sin sistema de agua potable para uso y consumo humano, no podrán utilizarse para la bebida el agua de ningún pozo ni aljibe que no estén situados a una distancia conveniente de retretes, alcantarillas, estercoleros o depósitos de inmundicias, que puedan contaminarlos, conforme a las normas oficiales mexicanas.
 
-###### Artículo 125.
+###### ARTÍCULO 127.
 
-Interrupción de la prescripción.
+Todas las poblaciones del Estado deberán contar con sistemas para el desagüe rápido e higiénico de sus desechos, preferentemente por medio de alcantarillado o fosas sépticas.
 
-La prescripción de la pretensión punitiva se interrumpe con la aprehensión del imputado o su comparecencia ante la autoridad judicial, si en virtud de la misma queda a su disposición.
+###### ARTÍCULO 128.
 
-El plazo de prescripción volverá a correr, a partir del día en que el imputado se sustraiga de la acción de la justicia, si se encuentra privado de libertad. Fuera de esta circunstancia, volverá a correr en un plazo igual al de la medida cautelar impuesta; si la misma no estuviera determinada en tiempo, será en un plazo de cuatro meses. Si no se hubiese decretado medida cautelar, el plazo volverá a correr a partir de su última comparecencia ante la autoridad que procesalmente lo tuviera a su disposición.
+En las poblaciones donde no haya sistema de alcantarillado se estará a lo dispuesto por esta Ley y demás disposiciones aplicables.
 
-###### Artículo 126.
+###### ARTÍCULO 129.
 
-Suspensión de la prescripción.
+Los proyectos para la implantación de sistemas de alcantarillado deberán ser estudiados, aprobados e inspeccionados por la Autoridad Municipal.
 
-El cómputo de la prescripción se suspenderá:
+###### ARTÍCULO 130.
 
-I. Durante el trámite de extradición internacional o con entidades federativas o el distrito federal;
+No podrá suprimirse la dotación de servicios de agua potable y avenamiento de las casas habitación. Las Autoridades Sanitarias intervendrán cuando se viole esta disposición restableciendo dichos servicios.
 
-II. Cuando se toma un criterio de oportunidad; por la suspensión del proceso a prueba; y por formas alternativas de justicia, cuando estas medidas no extingan la acción penal;
+###### ARTÍCULO 131.
 
-III. Por la declaración formal de que el imputado se ha sustraído a la acción de la justicia. En este caso, el término de la suspensión no podrá exceder de un tiempo igual al de la prescripción de la acción; sobrevenido éste, continuará corriendo ese plazo, y
+Queda prohibida la descarga de aguas residuales o de contaminantes en cualquier cuerpo superficial o subterráneo, cuyas aguas se destinen a uso o consumo humano. Asimismo queda prohibido que los desechos o líquidos que conduzcan los caños, sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
-IV. Cuando la realización de la audiencia de debate se suspenda por causas atribuibles a la defensa, con el propósito de obstaculizar el normal desarrollo de aquella, según declaración que efectuará la autoridad judicial en resolución fundada.
-
-Desaparecida la causa de la suspensión, el plazo de la prescripción continuará su curso.
-
-###### Artículo 127.
-
-Lapso de prescripción de la potestad de ejecutar las penas.
-
-Salvo disposición legal en contrario, la potestad para ejecutar la pena privativa de libertad o medida de seguridad, prescribirá en un tiempo igual al fijado en la condena, pero no podrá ser inferior a tres años.
-
-La potestad para ejecutar la pena de multa prescribirá en un año. Para las demás sanciones prescribirá en un plazo igual al que deberían durar éstas, sin que pueda ser inferior a dos años.
-
-La potestad para ejecutar las penas que no tengan temporalidad prescribirá en dos años y la de la reparación del daño en un tiempo igual al de la pena privativa de libertad impuesta.
-
-Los plazos serán contados a partir de la fecha en que cause ejecutoria la resolución.
-
-###### Artículo 128.
-
-Extinción en parte de la sanción.
-
-Cuando el sentenciado hubiere extinguido ya una parte de su sanción, se necesitará para la prescripción tanto tiempo como el que falte de la condena.
-
-###### Artículo 129.
-
-Interrupción de la prescripción en penas o medidas de seguridad.
-
-La prescripción de la potestad para ejecutar la pena o medida privativa de la libertad, sólo se interrumpe con la aprehensión del sentenciado, aunque se ejecute por otro delito diverso o por la formal solicitud de entrega que el Ministerio Público haga al de otra entidad federativa, en que aquél se encuentre detenido, en cuyo caso subsistirá la interrupción hasta en tanto la autoridad requerida niegue dicha entrega o desaparezca la situación legal del detenido que motive aplazar su cumplimiento.
-
-La prescripción de la potestad de las demás sanciones se interrumpirá por cualquier acto de autoridad competente para hacerlas efectivas.
-
-También se interrumpirá la prescripción de las penas pecuniarias, por las promociones que la víctima o persona a cuyo favor se haya decretado dicha reparación, haga ante la autoridad correspondiente y por las actuaciones que esa autoridad realice para ejecutarlas, así como por el inicio de juicio ejecutivo ante autoridad civil usando como título la sentencia condenatoria correspondiente.
-
-###### Artículo 130.
-
-Autoridad competente para resolver la extinción.
-
-La extinción de la pretensión punitiva será resuelta por el titular del Ministerio Público durante la etapa de investigación o por el órgano jurisdiccional en cualquier etapa del proceso.
-
-La declaración de extinción de la potestad de ejecutar las penas y medidas de seguridad corresponde al órgano jurisdiccional.
-
-###### Artículo 131.
-
-Plazos para la prescripción de la pretensión punitiva.
-
-Si durante la ejecución de las penas o medidas de seguridad se advierte que se había extinguido la pretensión punitiva o la potestad de ejecutarlas, tales circunstancias se plantearán ante la autoridad judicial de ejecución, de conformidad con la ley de la materia.
-
-### CAPÍTULO XI. SUPRESIÓN DEL TIPO PENAL
+Los usuarios que aprovechen en su servicio aguas que posteriormente serán utilizadas para uso o consumo humano, están obligados a darles el tratamiento correspondiente a fin de evitar riesgos para la salud humana, de conformidad con las disposiciones aplicables.
 
 #### SECCION VI. DE LAS ALBERCAS Y BAÑOS PUBLICOS
 
-###### Artículo 132.
+###### ARTÍCULO 132.
 
-Extinción por supresión del tipo penal.
+Sin detrimento de los requisitos y disposiciones previstas en la Ley de Edificaciones y sus Reglamentos, es obligación de los propietarios o administradores de albercas y baños públicos, mantener comunicación y acceso a la vía pública, o áreas y espacios abiertos en tratándose de aquellos que funcionen como anexos a clubes, centros sociales, deportivos o escolares.
 
-Cuando la ley suprima un tipo penal se extinguirá la potestad punitiva respectiva o la de ejecutar las penas o medidas de seguridad impuestas, se pondrá en absoluta e inmediata libertad al imputado o al sentenciado y cesarán de derecho todos los efectos del procedimiento penal o de la sentencia.
+###### ARTÍCULO 133.
 
-### CAPÍTULO XII. EXISTENCIA DE UNA SENTENCIA ANTERIOR DICTADA EN PROCESO SEGUIDO POR LOS MISMOS HECHOS
+Las albercas públicas deberán contar con personal capacitado y un sistema de vigilancia para el rescate y prestación de primeros auxilios, para aquellos usuarios que resulten accidentados.
 
-###### Artículo 133.
+Igualmente y con el objeto de prestar los primeros auxilios, contarán con botiquín que reúna los medicamentos y materiales de curación necesarios y autorizados por la Autoridad Sanitaria del Estado o la Autoridad competente, el que se ubicará en lugar visible y apropiado para esta finalidad.
 
-Principio de non bis in ídem.
+###### ARTÍCULO 134.
 
-Nadie puede ser juzgado dos veces por los mismos hechos, ya sea que en el juicio se le absuelva o se le condene.
+Las albercas y baños públicos deberán ser verificados por las Autoridades Sanitarias correspondientes con la periodicidad necesaria para prevenir enfermedades.
 
-Cuando existan en contra de la misma persona y por la misma conducta:
+###### ARTÍCULO 135.
 
-I. Dos procedimientos distintos, se archivará o sobreseerá de oficio el que se haya iniciado en segundo término;
+Para los efectos de esta Ley, se entiende por baño público, el establecimiento destinado a utilizar el agua para el aseo corporal, deporte o uso medicinal bajo la forma de baño y al que pueda concurrir el público, quedan incluidos los lugares llamados vapor y de aire caliente.
 
-II. Una sentencia y un procedimiento distinto, se archivará o se sobreseerá de oficio el procedimiento distinto, o
+###### ARTÍCULO 136.
 
-III. Dos sentencias, dictadas en procesos distintos, se hará la declaratoria de nulidad de la sentencia que corresponda al proceso que se inició en segundo término y se extinguirán sus efectos.
+Para abrir los servicios al público, los establecimientos señalados en el artículo anterior, deberá obtenerse la licencia expedida por la Autoridad Sanitaria del Estado.
 
-# LIBRO SEGUNDO. DE LOS DELITOS
+###### ARTÍCULO 137.
 
-## TÍTULO PRIMERO. DELITOS CONTRA LA SEGURIDAD DEL ESTADO
-
-### CAPÍTULO I. TERRORISMO
-
-###### Artículo 134.
-
-Al que utilizando sustancias tóxicas, armas químicas, biológicas o similares, material radioactivo o instrumentos que emitan radiaciones, explosivos o armas de fuego o por incendio, inundación o por cualquier otro medio violento, realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor o terror, en la población o en grupo o sector de ella, para perturbar la paz pública o tratar de menoscabar la autoridad del Estado o presionar a éste para que tome una determinación, se le impondrá de tres a treinta años de prisión y multa de doscientos dieciséis a dos mil ciento sesenta días de salario y suspensión de derechos políticos hasta por ocho años.
-
-Al que teniendo conocimiento de las actividades de un terrorista y su identidad no lo haga saber a las autoridades, se le impondrá de uno a seis años de prisión y multa de setenta y dos a cuatrocientos treinta y dos días de salario.
-
-###### Artículo 135.
-
-A quien administre dinero o bienes relacionados con terroristas se le impondrán de cinco a veinticinco años de prisión y multa de hasta seiscientos días de salario.
-
-###### Artículo 136.
-
-Se considera terrorista y se sancionará como tal a quien haga señales de voces de alarma o provoque estruendos por los medios idóneos, simulando la posible existencia de alguno de los actos considerados por el delito de terrorismo, con el fin de suscitar tumultos, desórdenes, alarma o zozobra aun cuando éstos no se produzcan.
-
-### CAPÍTULO II. SABOTAJE
-
-###### Artículo 137.
-
-Se impondrá de dos a quince años de prisión y multa de ciento cuarenta y cuatro a mil ochenta días de salario y suspensión de derechos políticos hasta por cuatro años al que con el fin de trastornar gravemente la vida económica o cultural del Estado o para alterar la capacidad de éste para asegurar el orden público, dañe, destruya o entorpezca:
-
-I. Servicios Públicos o centros de producción o distribución de bienes y servicios básicos;
-
-II. Elementos fundamentales de instituciones de docencia o investigación;
-
-III. Recursos esenciales que el Estado destine para el mantenimiento del orden público, y
-
-IV. Vías de comunicación del Estado.
-
-Al que teniendo conocimiento de las actividades de un saboteador y su identidad no lo haga saber a las autoridades, se le impondrá de seis meses a tres años de prisión y multa de treinta y seis a doscientos dieciséis días de salario.
-
-### CAPÍTULO III. REBELIÓN
+La actividad de los establecimientos señalados en la presente sección está sujeta a lo dispuesto por esta Ley y la normatividad aplicable.
 
 #### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
 
-###### Artículo 138.
+###### ARTÍCULO 138.
 
-Se impondrá de dos a diez años de prisión y multa de ciento cuarenta y cuatro a setecientos veinte días de salario y la suspensión o la privación de sus derechos políticos hasta por tres años, a los que no siendo militares en ejercicio, con violencia y uso de armas, traten de:
+Para los efectos de esta Ley, se entiende por centros de reunión, todas aquellas edificaciones destinadas al agrupamiento de personas con fines recreativos, sociales, deportivos o culturales.
 
-I. Abolir o reformar la Constitución Política del Estado o las Instituciones que de ella emanen;
+###### ARTÍCULO 139.
 
-II. Impedir la integración y funcionamiento de estas Instituciones o su libre ejercicio, y
-
-III. Separar de sus cargos al Gobernador del Estado, al Secretario de Gobierno, al Procurador General de Justicia, a los Diputados de la Legislatura Local y a los Magistrados del Poder Judicial del Estado.
-
-Se impondrá de seis a doce años de prisión y multa de treinta y seis a ochocientos sesenta y cuatro días de salario, a los autores intelectuales, a quiénes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros, para cometer el delito de rebelión.
-
-###### Artículo 139.
-
-Se impondrá de dos a quince años de prisión y multa de ciento cuarenta y cuatro a mil ochenta días de salario, al que residiendo en territorio ocupado por el Gobierno bajo la protección y garantía de éste, proporcione voluntariamente a los rebeldes, hombres para el servicio de las armas, municiones, dinero, víveres, medios de transporte o de comunicación o impida que las fuerzas de seguridad pública del gobierno reciban esos auxilios.
-
-La prisión será de dos a cinco años y multa de ciento cuarenta y cuatro a trescientos sesenta días de salario, si residiere en territorio ocupado por los rebeldes.
-
-Se impondrá de dos a quince años de prisión y multa de ciento cuarenta y cuatro a mil ochenta días de salario, a los servidores públicos del Estado y municipios, de organismos auxiliares estatales o municipales y de fideicomisos públicos, que teniendo por razón de su cargo documentos de interés estratégico, los proporcionen a los rebeldes.
+La Autoridad Sanitaria competente una vez terminada la edificación del centro de reunión y antes de abrirse al público hará la inspección sanitaria y declaración correspondiente. Asimismo, podrá en cualquier momento ordenar la clausura de los centros públicos de reunión que no reúnan las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran, en los términos de esta Ley. Dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
 
 #### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
 
-###### Artículo 140.
+###### ARTÍCULO 140.
 
-Se impondrá de uno a seis años de prisión y multa de setenta y dos a cuatrocientos treinta y dos días de salario:
+Para los efectos de esta Ley, se entiende por establecimientos de hospedaje, los moteles, hoteles, casas de asistencia y cualquier otro establecimiento similar que se destine al albergue de personas mediante una retribución.
 
-I. A los que no siendo militares, en cualquier forma o por cualquier medio inciten a una rebelión;
+Para la construcción o acondicionamiento de este tipo de establecimientos se requiere de autorización sanitaria.
 
-II. A los que, estando bajo la protección y garantía del gobierno, oculten o auxilien a los espías, exploradores o a los rebeldes, sabiendo que lo son;
+###### ARTÍCULO 141.
 
-III. Al que, rotas las hostilidades y estando en las mismas condiciones, proporcione información concerniente a las operaciones militares u otros que le sean útiles, y
+La Autoridad Sanitaria del Estado realizará las inspecciones sanitarias que conforme a esta Ley y otras disposiciones aplicables le correspondan.
 
-IV. Al que voluntariamente acepte un empleo, cargo o comisión, en el lugar ocupado por los rebeldes.
-
-###### Artículo 141.
-
-Se impondrá de quince a cincuenta años de prisión y multa de mil ochenta a tres mil seiscientos días de salario, a los servidores públicos, así como a los rebeldes, que después del combate, priven de la vida a los prisioneros.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ENERO DE 2012)</small>
 
 #### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS AL EMBELLECIMIENTO FISICO Y MEDICINA ESTETICA
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
 
-###### Artículo 142.
+###### ARTÍCULO 142.
 
-No se impondrá pena a los que depongan las armas antes de ser tomados prisioneros si no hubiesen cometido algún otro delito además del de rebelión.
+Se entiende por tratamientos del área de Medicina Estética, como aquellos actos que no sean quirúrgicos y que no requieren de anestesia general ni regional y que tienden a mejorar el aspecto y la condición de salud de los pacientes; los cuales se conforman por terapias médicas y cosméticas que mejoran la apariencia, la salud y la autoestima del paciente, enmarcándose en maniobras terapéuticas diferentes al campo invasivo quirúrgico propio de la cirugía plástica y estética, y de otras ramas de la medicina.
 
-### CAPÍTULO IV. SEDICIÓN
+###### ARTÍCULO 143.
 
-###### Artículo 143.
+(DEROGADO, P.O. 24 DE OCTUBRE DE 2014)
 
-Se impondrá de seis meses a ocho años de prisión y multa de treinta y seis a quinientos setenta y seis días de salario y la suspensión o la privación de sus derechos políticos hasta por dos años, a los que reunidos tumultuariamente, sin uso de las armas, impidan o ataquen en forma violenta a la autoridad o ataquen para impedir el libre ejercicio de sus funciones, con algunos de los propósitos a que se refiere el artículo 138 de este código.
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
 
-Se impondrá de dos a doce años de prisión y multa de ciento cuarenta y cuatro a ochocientos sesenta y cuatro días de salario, a los autores intelectuales, a quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer este delito.
+###### ARTÍCULO 144.
 
-### CAPÍTULO V. CONSPIRACIÓN
+Los procedimientos de embellecimiento físico del cuerpo humano son aquellos que se utilizan para modificar las características externas y superficiales, mediante la aplicación de substancias, preparados de uso externo, productos cosméticos de uso tópico, así como utensilios, herramientas, equipo y aparatología sin implicaciones médicas, en su caso, y que son destinados a incrementar la belleza del cuerpo humano o a mejorar su apariencia física y en los que no haya intervención quirúrgica o la aplicación de cualquier procedimiento de atención médica.
 
-###### Artículo 144.
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
 
-Siempre que dos o más personas resuelvan cometer alguno de los delitos de que tratan los capítulos tercero, cuarto y sexto de este título y acuerden los medios para producirlos, se les impondrá de uno a siete años de prisión y multa de setenta y dos a quinientos cuatro días de salario y suspensión de sus derechos políticos hasta por dos años.
+ARTÍCULO 144 BIS.- Los establecimientos en los que se lleven a cabo los procedimientos reseñados en el artículo anterior, tales como peluquerías, salones de belleza y masaje, estéticas, centro de arreglo estético de uñas de manos y pies, de tratamientos capilares, faciales y corporales de belleza al público y similares, que no requieran de intervención médica en cualquiera de sus prácticas sólo darán aviso de su funcionamiento a las autoridades sanitarias competentes en el estado y quedaran sujetas al reglamento correspondiente al municipio en el que se localicen.
 
-### CAPÍTULO VI. MOTÍN
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
+
+ARTÍCULO 144 TER.- Los establecimientos señalados en el artículo anterior, tienen prohibido realizar en sus instalaciones cualquier tipo de tratamientos o procedimientos invasivos como implantaciones, infiltraciones de sustancias o empleo de aparatos relacionados con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara o del cuerpo humano que requieran de intervención médica.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 #### SECCIÓN IX BIS. EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
 
@@ -2391,61 +2409,165 @@ ARTÍCULO 144 OCTIES.- El incumplimiento a lo previsto en el artículo anterior,
 
 #### SECCION X. DE LOS TRANSPORTES DE CARGA
 
-###### Artículo 145.
+###### ARTÍCULO 145.
 
-Se impondrá de seis meses a siete años de prisión y multa de treinta y seis a quinientos cuatro días de salario y la suspensión o la privación de sus derechos políticos hasta por dos años, a quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una ley se reúnan tumultuariamente y perturben el orden público o amenacen a la autoridad para intimidarla u obligarla a tomar alguna determinación, con empleo de violencia.
+Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo destinado al traslado de carga con artículos perecederos, sea cual fuere su medio de propulsión.
 
-Se impondrá de uno a diez años de prisión y multa de setenta y dos a setecientos veinte días de salario, a los autores intelectuales, a quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer este delito.
+###### ARTÍCULO 146.
 
-### CAPÍTULO VII. FALSIFICACIÓN, COMERCIO Y USO DE UNIFORMES, INSIGNIAS, MATERIAL Y ACCESORIOS DE LAS CORPORACIONES DE SEGURIDAD PÚBLICA
+Los transportes de carga señalados en el artículo anterior que circulen por el territorio estatal, deberán contar con la autorización sanitaria expedida por la Autoridad Sanitaria correspondiente, una vez cubiertos los requisitos que marca esta Ley y otras disposiciones aplicables.
 
-###### Artículo 146.
-
-Se impondrá de tres a ocho años de prisión y multa de doscientos dieciséis a quinientos setenta y seis días de salario, a quien:
-
-I. Falsifique o comercie uniformes, insignias, distintivos o identificaciones de las instituciones o corporaciones policíacas, de procuración de justicia o militares, sin contar con la autorización legal para ello;
-
-II. Independientemente de las penas previstas en otras leyes, utilice indebidamente armamento, material balístico, accesorios y equipo destinado a la seguridad pública;
-
-III. Siendo miembro de alguna empresa, corporación o establecimiento autorizado por la ley para prestar servicios de seguridad privada utilice armamento, material balístico, uniformes, insignias, identificaciones, equipo, material y accesorios que puedan confundirse con los autorizados a los miembros de corporaciones de seguridad publica procuración de justicia, y
-
-IV. Sin autorización acceda o utilice las radiofrecuencias, bases de datos o archivos o cualquier medio de comunicación, resguardo de información o sistemas codificados dependientes de o al servicio de las corporaciones de seguridad pública, procuración de justicia o de los centros de prisión preventiva o de ejecución de penas.
-
-Cuando el sujeto activo tenga el carácter de servidor público la pena de prisión será aumentada en una mitad y además será separado de su cargo e inhabilitación del servicio público por el término de diez años.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2018)</small>
-
-## TÍTULO SEGUNDO. DELITOS POR HECHOS DE CORRUPCIÓN
-
-### CAPÍTULO I. INTIMIDACIÓN
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 #### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL Y ESTANCIAS INFANTILES FAMILIARES
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
 
-###### Artículo 147.
+###### ARTÍCULO 147.
 
-Se le impondrán de dos a nueve años de prisión y de treinta a cien días de multa a la o el servidor público que:
+Se entiende por Centros de Desarrollo Infantil, el establecimiento donde se brinda cuidado temporal, alimentación y que en su caso brinden educación inicial, a menores en edad lactante, maternal y preescolar, y menores con discapacidad, cualquiera que sea su denominación.
 
-I. Por sí o por interpósita persona, utilizando la violencia inhiba o intimide a cualquier persona, para evitar que ésta o un tercero denuncie, formule querella o aporte información o pruebas relativas a la probable comisión de un delito o sobre la posible comisión de algún servidor público en una conducta sancionada por la legislación penal o por la Ley de Responsabilidades de los Servidores Públicos para el Estado de Tlaxcala, y
+Es Estancia Infantil Familiar, la casa habitación en la que el propietario o posesionario del inmueble habita y de manera personal brinda cuidado temporal y alimentación a menores en edad lactante y hasta de seis años.
 
-II. Por sí o por interpósita persona, ejerza represalia contra persona que ha formulado denuncia o querella o aportado información o pruebas sobre la probable comisión de un delito o sobre la posible comisión de algún servidor público en una conducta sancionada por la legislación penal o por la Ley de Responsabilidades de los Servidores Públicos para el Estado de Tlaxcala o ejerza cualquier represalia contra persona ligada por vínculo afectivo o de negocios con el denunciante, querellante o informante.
+El ingreso de niñas y niños a los servicios de los Centros de Desarrollo Infantil y Estancias Infantiles Familiares, se hará de conformidad con los requisitos previstos en las disposiciones normativas aplicables a cada caso y no se podrá condicionar por discapacidad, origen étnico, religión, preferencias sexuales o situación económica de los menores, padres, madres o tutores legales.
 
-### CAPÍTULO II. ENRIQUECIMIENTO ILÍCITO
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+ARTÍCULO 147 BIS 1.- La Secretaría de Salud para otorgar autorización sanitaria para el funcionamiento de un Centro de Desarrollo Infantil, deberá comprobar que el solicitante satisface los requisitos siguientes:
 
-###### Artículo 148.
+I.- Tener autorización del uso de suelo del inmueble expedido por la autoridad municipal competente;
 
-Se sancionará a quien, con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando la o el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño.
+II.- Contar con título de propiedad o documento que acredite la legal posesión del inmueble;
 
-Para efectos del párrafo anterior, se computarán entre los bienes que adquieran las y los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que la o el servidor público acredite que estos los obtuvieron por sí mismos.
+III.- Tener planos arquitectónicos y de instalaciones del inmueble, precisando las relativas a la seguridad de las personas, la prevención, control de incendios y la evacuación de los ocupantes, autorizado por la autoridad municipal competente;
 
-No se considerará enriquecimiento ilícito cuando el aumento del patrimonio sea producto de una conducta que encuadre en otra hipótesis del presente Título. En este caso se aplicará la hipótesis y la sanción correspondiente, sin que dé lugar al concurso de delitos.
+IV.- Contar con certificado o documento de aprobación de los dispositivos o sistemas de seguridad y prevención de Incendios del inmueble expedido por la autoridad municipal competente;
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+V.- Contar con autorización del cupo máximo de personas en el inmueble, expedida por la Autoridad Municipal Competente;
+
+VI.- Tener autorización de ocupación del inmueble, expedida por la Autoridad Municipal Competente;
+
+VII.- Contar con reglamento interno, manuales técnicos administrativos y programa general de trabajo, y
+
+VIII.- Los demás requisitos que determine el reglamento.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 2.- La Secretaría de Salud para otorgar autorización sanitaria para el funcionamiento de una Estancia Infantil Familiar, deberá comprobar que el solicitante satisface los requisitos siguientes:
+
+I.- Contar con título de propiedad o documento que acredite la legal posesión del inmueble;
+
+II.- Contar con certificado o documento de aprobación de los dispositivos o sistemas de seguridad y prevención de Incendios del inmueble expedido por la autoridad municipal competente;
+
+III.- Contar con estudios mínimos de primaria;
+
+IV.- Identificación Oficial;
+
+V.- Registro Federal de Contribuyentes;
+
+VI.- Constancia de nomenclatura del inmueble expedida por la autoridad municipal, y
+
+VII.- Constancia de capacitación del solicitante en Control de la Nutrición, Crecimiento y Desarrollo del Niño expedida por la Secretaría de Salud del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 3.- La autorización sanitaria para operar una Estancia Infantil Familiar deberá especificar la ocupación máxima de personas en el inmueble autorizado.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 4.- La Secretaría de Salud deberá resolver la solicitud de autorización sanitaria para un Centro de Desarrollo Infantil o Estancia Infantil Familiar dentro del plazo de treinta días hábiles contados a partir del día siguiente de su presentación.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 5.- La autorización sanitaria deberá ser revalidada cada dos años por el interesado de acuerdo al procedimiento previsto en el reglamento.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 6.- El proceso de revalidación tiene como objeto confirmar la autorización otorgada por la Secretaría de Salud para operar un Centro de Desarrollo Infantil o Estancia Infantil Familiar, en razón de que se cumplen con los requisitos que la ley, reglamentos, normas oficiales mexicanas y demás disposiciones aplicables requieren para su funcionamiento.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 7.- La Secretaría de Salud, deberá publicar anualmente un listado de los Centros de Desarrollo Infantil y Estancias Infantiles Familiares autorizados en el Periódico Oficial del Estado y en un diario de circulación en el Estado para el conocimiento general de la población.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 8.- La Secretaría de Salud, creará un padrón de los Centros de Desarrollo Infantil y Estancias Infantiles Familiares, a efecto de mantener el registro y la adecuada supervisión de cada uno de ellos.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 9.- Los Centros de Desarrollo Infantil y Estancias Infantiles Familiares, durante su funcionamiento están obligados a cumplir con las leyes, reglamentos y demás disposiciones aplicables vigentes en el Estado y las normas oficiales mexicanas.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 10.- La Secretaría de Salud, deberá elaborar programas de capacitación para el personal de los Centros de Desarrollo Infantil y Estancias Infantiles Familiares con el fin de mejorar la calidad de la prestación de sus servicios; e impartirlos por lo menos una vez al año a solicitud expresa de los interesados previo el pago de los derechos correspondientes.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 11.- La Secretaría de Salud, mediante visitas sanitarias a los Centros de Desarrollo Infantil y Estancias Infantiles Familiares, deberá verificar que la construcción, equipamiento, sistemas de seguridad y prevención de siniestros, espacios y características arquitectónicas, servicios hidráulicos, eléctricos, sanitarios, de gas, de personal, alimentación y demás especiales, cumplen con la ley, reglamentos y normas oficiales mexicanas.
+
+La Secretaría de Salud para el desahogo de las visitas sanitarias, podrá solicitar el auxilio de peritos de las dependencias y entidades de las autoridades públicas estatales y municipales para verificar el cumplimiento de los aspectos señaladas (sic) en el párrafo que antecede.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 147 BIS 12.- Las Autoridades Educativas del Estado deberán dar aviso por escrito a la Secretaría de Salud, cuando en las visitas de inspección que realicen a los centros escolares, tengan conocimiento que funcionan centros de desarrollo infantil sin contar con la autorización sanitaria correspondiente o incumplen con los requisitos que la ley y las normas oficiales mexicanas les imponen para su debido funcionamiento. La anterior obligación resulta aplicable a las demás autoridades estatales y municipales en el ámbito de su competencia.
+
+La falta de cumplimiento a esta obligación será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, sin perjuicio de la responsabilidad penal en que pudieran incurrir.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 148.
+
+Los centros de desarrollo infantil y Estancias Infantiles Familiares, serán objeto de visitas por parte de la Autoridad Sanitaria correspondiente de manera ordinaria en forma trimestral, pudiéndose practicar visitas extraordinarias cuando por cualquier causa se consideren necesarias, debiéndose desarrollar en los términos de esta Ley y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 148 BIS.- La Secretaría de Salud contará con un órgano de consulta para la formulación de acciones entre el sector público y privado para el mejor funcionamiento de los Centros de Desarrollo Infantil y de las Estancias Infantiles Familiares.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 148 BIS 1.- Este órgano de consulta se denominará Consejo Consultivo para los Centros de Desarrollo Infantil y Estancias Infantiles Familiares en el Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 148 BIS 2.- El Consejo se integrará de la siguiente forma:
+
+I.- El Secretario de Salud del Estado, quién será el Presidente;
+
+II.- El Secretario de Educación y Bienestar Social del Estado;
+
+III.- El Secretario de Desarrollo Social del Estado;
+
+IV.- Un representante de cada uno de los Municipios del Estado;
+
+V.- Dos representantes del Colegio de Médicos uno con especialidad en Pediatría y otro en Nutriología;
+
+VI.- Un representante de los Centros de Desarrollo Infantil;
+
+VII.- Un representante de las Estancias Infantiles Familiares, y
+
+VIII.- El Presidente de la Comisión de Salud del Congreso del Estado.
+
+Cada miembro propietario designará un suplente, quien asistirá a las sesiones del Consejo en ausencia del primero, con todas las facultades y derechos que a éste corresponda, los Consejeros propietarios y suplentes, serán a título honorífico.
+
+El Consejo contará con un Secretario Técnico designado por el Presidente.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 148 BIS 3.- La Secretaría de Salud aprobará y expedirá las normas internas para la organización y funcionamiento del Consejo Consultivo para los Centros de Desarrollo Infantil y Estancias Infantiles Familiares en el Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 148 BIS 4.- El Consejo tendrá las atribuciones siguientes:
+
+I.- Fungir como órgano de consulta y opinión en materia de funcionamiento de los Centros de Desarrollo Infantil y de las Estancias Infantiles Familiares;
+
+II.- Proponer acciones, programas y demás para fomentar y estimular la calidad de los servicios que se ofrecen en los Centros de Desarrollo Infantiles y Estancias Infantiles Familiares;
+
+III.- Conformar grupos de trabajo para la realización y seguimiento de tareas específicas en la materia de su competencia, y
+
+IV.- Las demás que le establezca el Reglamento Interno.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE OCTUBRE DE 2020)</small>
 
 #### SECCION XII. DE LOS ESTABLECIMIENTOS DEDICADOS A REALIZAR TATUAJES, MICROPIGMENTACIONES Y PERFORACIONES
 
@@ -2475,3175 +2597,1115 @@ ARTÍCULO 148 TER 3.- En los establecimientos en que se realizan tatuajes, micro
 
 Los responsables deberán contar con el material mínimo que prevé la Norma Oficial Mexicana y el Reglamento de Control Sanitario de Productos y Servicios.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE ENERO DE 2023)</small>
+
+#### SECCIÓN XIII. MENSTRUACIÓN DIGNA
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2023)</small>
+
+ARTÍCULO 148 TER 4.- Con la finalidad de establecer las condiciones que permitan preservar la salud de las niñas, adolescentes, mujeres y personas menstruantes se reconocen los siguientes derechos:
+
+I. Informarse sobre los ciclos menstruales que les permita vivir una menstruación digna;
+
+II.- Detectar condiciones no normales en su estado de salud y prevenir padecimientos graves;
+
+III.- Conocer productos de gestión menstrual; y,
+
+IV.- Acceso gratuito a productos de gestión menstrual, de conformidad con las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2023)</small>
+
+ARTÍCULO 148 TER 5.- La Secretaría de Salud del Estado deberá considerar al menos las siguientes acciones:
+
+I. Implementar un Programa de Educación Menstrual Digna.
+
+II. Desarrollar campañas de promoción a la educación menstrual en escuelas de nivel básico y medio superior y en cualquier centro que se requiera.
+
+III. Garantizar el acceso gratuito a los productos de gestión menstrual para niñas, jóvenes, mujeres y personas menstruantes.
+
+IV. Coadyuvar en coordinación con la dependencia estatal responsable del ramo de igualdad de género, su incorporación de manera estratégica y transversal en el apoyo, desarrollo, vigilancia y promoción del Programa de Educación Menstrual Digna, como parte del acceso universal a la salud de la mujer y persona menstruante, de conformidad con la Ley General de Salud.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+### CAPITULO DECIMO PRIMERO. DE LA AUTORIDAD COMPETENTE EN MATERIA DE PROTECCIÓN CONTRA RIESGOS SANITARIOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 149.
+
+Las atribuciones de regulación, control, fomento y vigilancia sanitaria que correspondan a la Secretaría de Salud del Estado en materia de salubridad local, serán ejercidas a través del Instituto de Servicios de Salud Pública del Estado de Baja California, en términos de su Reglamento Interno y serán las siguientes:
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+I. Ejercer la regulación, control, vigilancia y fomento sanitarios de los productos, actividades, establecimientos y servicios, así como evaluar, expedir o revocar las autorizaciones y emitir los actos de autoridad, en apego a las disposiciones previstas en la Ley General de Salud, la presente Ley, reglamentos, acuerdos específicos, Normas Oficiales Mexicanas, y demás normativa aplicable;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+II. Elaborar y proponer, las normas técnicas locales para la regulación, control y fomento sanitario, así como someterlas a consideración del Secretario de Salud para su aprobación, aplicación y publicación en su caso;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+III. Proponer y coordinar la política estatal de protección contra riesgos sanitarios;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IV. Representar al Estado en el Sistema Federal Sanitario;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+V. Coordinar las acciones para la prestación de los servicios de salud a la comunidad en materia de su competencia, así como para el destino de los recursos previstos para tal efecto de conformidad con las disposiciones aplicables y en términos de los acuerdos de colaboración y coordinación;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VI. Identificar, analizar, evaluar, regular, controlar, fomentar y difundir las condiciones y requisitos para la prevención y manejo de los riesgos sanitarios en el estado;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VII. Realizar y en su caso coordinar la integración de diagnósticos situacionales, investigaciones, evaluaciones de riesgo en materia de regulación, control y fomento sanitario en coordinación con otras autoridades competentes, e instituciones de investigación o académicas;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VIII. Expedir certificados oficiales de la condición sanitaria de procesos, productos, métodos, instalaciones, servicios o actividades relacionadas con las materias de su competencia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IX. Emitir, revalidar, prorrogar o revocar las autorizaciones sanitarias en las materias de su competencia, en los términos de la Ley General de Salud, la presente Ley, sus reglamentos, las Normas Oficiales Mexicanas, las normas técnicas locales y demás disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+X. Resolver y ejecutar los procedimientos administrativos que correspondan conforme a la presente Ley y demás normativa aplicable;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XI. Aplicar estrategias de investigación, evaluación y seguimiento de riesgos sanitarios, conjuntamente o en coadyuvancia con otras autoridades competentes;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XII. Vigilar e imponer sanciones administrativas por el incumplimiento de disposiciones de esta Ley, la Ley General, Normas Oficiales Mexicanas y demás ordenamientos aplicables, así como determinar medidas de seguridad, preventivas y correctivas, en el ámbito de su competencia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIII. Ejercer las acciones de control, regulación y fomento sanitario correspondientes, para prevenir y reducir los riesgos sanitarios derivados de la exposición de la población a factores químicos, físicos y biológicos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIV. Participar, en coordinación con las unidades administrativas correspondientes de la Secretaría en la instrumentación de las acciones de prevención y control de enfermedades, así como de vigilancia epidemiológica, cuando éstas se relacionen con los riesgos sanitarios derivados de los procesos, productos, métodos, instalaciones, servicios o actividades en las materias de su competencia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XV. Efectuar la identificación, evaluación y control de los riesgos a la salud en las materias de su competencia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVI. Proponer la política de protección contra riesgos sanitarios en la entidad, así como su instrumentación en materia de salubridad local, regulación, control y fomento sanitario que le correspondan al Estado;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVII. Hacer del conocimiento de las autoridades competentes, la opinión sobre la publicidad de las actividades, productos y servicios a los que se refiere esta ley y sus reglamentos, que se difunda en el Estado;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XVIII. Planear, organizar y controlar los recursos humanos, materiales y financieros que le sean asignados, de conformidad a las disposiciones aplicables;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIX. Suscribir convenios y acuerdos de colaboración para el cumplimiento de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XX. Realizar por conducto del personal autorizado las visitas de inspección, vigilancia y verificación de cumplimiento de esta Ley, la Ley General de Salud, Normas Oficiales Mexicanas y demás ordenamientos aplicables en materia sanitaria, en los domicilios de los establecimientos comerciales o instituciones públicas, pudiendo utilizar para este fin el sistema de videograbación;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXI. Coordinarse, en su caso, con las autoridades responsables de regular y verificar las condiciones de seguridad y protección civil, para la ejecución de las acciones de regulación, control, fomento y vigilancia sanitaria a su cargo, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXII. Las demás que señalen las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 150.
+
+La persona Titular del Instituto de Servicios de Salud Pública del Estado de Baja California será designada y removida por la persona titular del Poder Ejecutivo del Estado a propuesta del Secretario de Salud. Tendrá las atribuciones en los términos establecidos en esta Ley, el Decreto de Creación, su Reglamento Interno y demás disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+### CAPITULO DECIMO SEGUNDO. DE LAS AUTORIZACIONES, REVOCACIONES Y CERTIFICADOS
 
 #### SECCION I. DE LAS AUTORIZACIONES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 151.
+
+La autorización sanitaria es el acto administrativo mediante el cual la Secretaría de Salud del Estado por conducto del Instituto de Servicios de Salud Pública del Estado de Baja California permite a una persona física o moral, la realización de actividades relacionadas con la salud humana, con los requisitos y modalidades que determine esta Ley, Normas Oficiales Mexicanas y demás disposiciones aplicables.
+
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO VI. REINCIDENCIA Y HABITUALIDAD
+###### ARTÍCULO 152.
 
-###### Artículo 149.
+Las autorizaciones sanitarias serán expedidas cuando el solicitante cumpla con los requisitos que señalen las normas aplicables y cubierto en su caso, las contribuciones previstas en la Ley de Ingresos del Estado y serán otorgadas por tiempo determinado, pudiendo ser revalidadas.
 
-Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
+La revalidación de una autorización deberá solicitarse ante la autoridad sanitaria que lo (sic) haya otorgado, dentro de los treinta días naturales anteriores a su vencimiento. Solo procederá la revalidación de una autorización cuando se acredite que el interesado puede desarrollar las actividades relacionadas con la salud humana que corresponda.
 
-Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar.
+Los obligados a contar con autorización sanitaria deberán mostrarla al visitador sanitario, cuando así sean requeridos en el cumplimiento de sus funciones.
 
-Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2020)</small>
 
-Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de dos años a catorce años de prisión y multa de cien a ciento cincuenta días multa.
+###### ARTÍCULO 153.
 
-###### Artículo 150.
+Requieren de licencia sanitaria:
 
-(DEROGADO, P.O. 12 DE ABRIL DE 2018)
+I.- Los establecimientos dedicados al expendio de alimentos, bebidas alcohólicas y no alcohólicas;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2018)</small>
+II.- Los establecimientos que presten servicios de asistencia social;
 
-### CAPÍTULO III. EJERCICIO ILÍCITO Y ABUSIVO DE SERVICIO PÚBLICO
+III.- Los rastros;
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+IV.- Las albercas y los baños públicos;
 
-### CAPÍTULO ÚNICO. REGLAS GENERALES
+V.- Los centros de reunión y espectáculos;
+
+VI.- Los establecimientos dedicados a la prestación de servicios estéticos como peluquerías, salas de belleza o masaje;
+
+VII.- Los establecimientos de hospedaje;
+
+VIII.- Las funerarias;
+
+IX.- Los transportes de carga de alimentos y perecederos;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2020)</small>
+
+X.- Los Centros de Desarrollo Infantil y Estancias Infantiles Familiares;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2020)</small>
+
+XI.- Los establecimientos en que se realicen tatuajes, micropigmentaciones y perforaciones en personas, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE OCTUBRE DE 2020)</small>
+
+XII.- Los demás que se señalen en esta Ley y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE OCTUBRE DE 2020)</small>
+
+Cuando los establecimientos a que se refiere este artículo cambien su ubicación, requerirán nueva licencia sanitaria.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE OCTUBRE DE 2020)</small>
+
+Los derechos que se generen por la aplicación de esta Ley, se regirán por lo que disponga la Ley de Ingresos del Estado, la legislación fiscal y los acuerdos de coordinación que celebren en la materia el Ejecutivo Federal y las Autoridades Sanitarias del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 154.
+
+Para el caso de los establecimientos que presten servicios de asistencia social, únicamente la Secretaría de Salud del Estado por conducto del Instituto de Servicios de Salud Pública del Estado de Baja California podrá expedir la licencia sanitaria que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 155.
+
+El Instituto de Servicios de Salud Pública del Estado de Baja California, no otorgará autorización sanitaria, si las personas interesadas no han obtenido previamente de los Ayuntamientos el permiso de uso de suelo, construcción, reconstrucción, modificación, acondicionamiento, de seguridad y prevención de siniestros, de capacidad máxima, de ocupación del inmueble y demás a que se refieren los reglamentos municipales.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+La construcción y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, en cualquiera de sus modalidades, se sujetará a las Normas Oficiales Mexicanas y demás disposiciones aplicables.
+
+###### ARTÍCULO 156.
+
+Requieren de tarjeta de control sanitario las personas que realicen actividades mediante las cuales se pueda propagar alguna enfermedad transmisible, en los casos y bajo condiciones que establezcan las disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 #### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
 
-> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-###### Artículo 151.
+###### ARTÍCULO 157.
 
-Comete el delito de ejercicio ilícito de servicio público, la o el servidor público que:
+El Instituto de Servicios de Salud Pública del Estado de Baja California podrá revocar las autorizaciones sanitarias que haya otorgado, en los casos siguientes:
 
-I. Ejerza las funciones de un empleo, cargo o comisión, sin haber tomado posesión legítima, o sin satisfacer todos los requisitos legales;
+I.- Cuando por causas supervenientes, se compruebe que el ejercicio de las actividades que se hubieren autorizado constituya un riesgo o daño para la salud;
 
-II. Continúe ejerciendo las funciones de un empleo, cargo o comisión después de saber que se ha revocado su nombramiento o que se le ha suspendido o destituido;
+II.- Cuando el ejercicio de la actividad exceda de los límites fijados en la autorización;
 
-III. Teniendo conocimiento por razón de su empleo, cargo o comisión de que pueden resultar gravemente afectados el patrimonio o los intereses de alguna dependencia o entidad de la administración pública estatal o municipal centralizada así como de sus organismos descentralizados, empresas de participación estatal, asociaciones y sociedades asimiladas a éstas y fideicomisos públicos, de órganos constitucionales autónomos, del Congreso del Estado o del Poder Judicial, o los tribunales administrativos y laborales del Estado, por cualquier acto u omisión y no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-IV. Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
+III.- Por incumplimiento grave a las disposiciones de esta Ley, Normas Oficiales Mexicanas, Reglamentos y demás disposiciones generales aplicables;
 
-V. Por sí o por interpósita persona, cuando legalmente le sean requeridos, rinda informes en los que manifieste hechos o circunstancias falsas o niegue la verdad en todo o en parte sobre los mismos, y
+IV.- Por reiterada renuencia a acatar las órdenes que dicte la Autoridad Sanitaria, en los términos de esta Ley y demás disposiciones aplicables;
 
-VI. Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas, o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado.
+V.- Cuando se dejen de reunir las condiciones o requisitos bajo los cuales se hayan otorgado;
 
-A la o el que cometa alguno de los delitos a que se refieren las fracciones I y II de este artículo, se le impondrán de uno a tres años de prisión y de treinta a cien días multa.
+VI.- Porque se dé un uso distinto a la autorización;
 
-A la o el infractor de las fracciones III, IV, V y VI se le impondrán de dos a siete años de prisión y de treinta a ciento cincuenta días multa.
+VII.- Cuando resulten falsos los datos o documentos proporcionados por el interesado, que sirvieron de base para otorgar la autorización sanitaria;
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+VIII.- Cuando lo solicite el interesado; y
 
-###### Artículo 152.
+IX.- En los demás casos que conforme a la Ley determine la autoridad sanitaria.
 
-Comete el delito de ejercicio abusivo de funciones:
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-I. La o el servidor público que en el desempeño de su empleo, cargo o comisión, ilícitamente otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que la o el servidor público o las personas antes referidas formen parte, y
+###### ARTÍCULO 158.
 
-II. La o el servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones, y que no sea del conocimiento público, haga por sí, o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido a la o el servidor público o a alguna de las personas mencionadas en la primera fracción.
+En los casos a que se refiere el artículo anterior, el Instituto de Servicios de Salud Pública del Estado de Baja California, citará a la persona interesada a una audiencia para que éste ofrezca pruebas y alegue lo que a su derecho convenga.
 
-A quien cometa el delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
+En el citatorio, que se entregará personalmente a la persona interesada, se le hará saber la causa que motive el procedimiento, el lugar, día y hora de celebración de la audiencia, el derecho que tiene para ofrecer pruebas y alegar lo que a su interés convenga, así como el apercibimiento de que, si no comparece sin justa causa, la resolución se dictará tomando en cuenta sólo las constancias del expediente.
 
-Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
+La audiencia se celebrará dentro de un plazo no menor de cinco días hábiles, contados a partir del día siguiente al de la notificación. Para tal efecto se habilitarán salas multidisciplinarias con tecnología de videograbación.
 
-Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y de cien a ciento cincuenta días multa.
+En los casos en que el Instituto de Servicios de Salud Pública del Estado de Baja California no pueda realizar la notificación en forma personal, ésta se practicará a través del Periódico Oficial del Estado, mediante dos publicaciones, con una semana de intervalo entre una y otra. En este caso el plazo a que se refiere el párrafo anterior, empezará a contar a partir del día siguiente a la última publicación.
 
-###### Artículo 153.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-(DEROGADO, P.O. 12 DE ABRIL DE 2018)
+###### ARTÍCULO 159.
 
-###### Artículo 154.
+En la substanciación del procedimiento del procedimiento (sic) de revocación de autorizaciones sanitarias, el interesado podrá ofrecer las pruebas que a su derecho convengan, con excepción de la confesional.
 
-(DEROGADO, P.O. 12 DE ABRIL DE 2018)
+###### ARTÍCULO 160.
 
-###### Artículo 155.
+La audiencia se celebrará el día y hora señalados, con o sin la asistencia del interesado. En este último caso, se deberá dar cuenta con la copia del citatorio que se hubiere girado al interesado y con la constancia que acredite que le fue efectivamente entregado o con los ejemplares del Periódico Oficial del Estado en que aparezca la publicación del último citatorio.
 
-(DEROGADO, P.O. 12 DE ABRIL DE 2018)
+###### ARTÍCULO 161.
 
-###### Artículo 156.
+La celebración de la audiencia podrá diferirse por una sola vez, cuando lo solicite el interesado por una causa debidamente justificada y por un término que no exceda de cinco días hábiles.
 
-(DEROGADO, P.O. 12 DE ABRIL DE 2018)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2018)</small>
+###### ARTÍCULO 162.
 
-### CAPÍTULO IV. ABUSO DE AUTORIDAD
+El Instituto de Servicios de Salud Pública del Estado de Baja California una vez substanciado el procedimiento a que se refieren los artículos anteriores y no existiendo diligencia pendiente de desahogo, procederá dentro de los diez días hábiles siguientes, a dictar por escrito, la resolución que proceda, la cual será notificada en forma personal o por correo certificado con acuse de recibo al interesado o a su representante legal.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 163.
+
+La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, de prohibición de venta, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
 #### SECCION III. DE LOS CERTIFICADOS
 
-###### Artículo 157.
+###### ARTÍCULO 164.
 
-Cometen el delito de abuso de autoridad las y los servidores públicos que incurran en alguna de las conductas siguientes:
+Para los efectos de esta Ley, se entiende por certificado la constancia expedida en los términos que establezcan las Autoridades Sanitarias del Estado, para la comprobación o información de determinados hechos.
 
-I. Cuando para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
+###### ARTÍCULO 165.
 
-II. Cuando ejerciendo sus funciones o con motivo de ellas hiciere violencia a una persona sin causa legítima o la vejare o la insultare;
+Para fines sanitarios, sólo los médicos debidamente registrados ante el Departamento de Profesiones de la Secretaría de Educación y Bienestar Social, extenderán los siguientes certificados:
 
-III. Cuando indebidamente retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarles o impida la presentación o el curso de una solicitud;
+I.- De salud;
 
-IV. Cuando estando encargado de administrar justicia, bajo cualquier pretexto, aunque sea el de obscuridad o silencio de la ley, se niegue injustificadamente a despachar un negocio pendiente ante ella o él, dentro de los términos establecidos por la ley;
+II.- Prenupciales;
 
-V. Cuando la o el encargado o elemento de una fuerza pública, requerido legalmente por una autoridad competente para que le preste auxilio se niegue a dárselo o retrase el mismo injustificadamente. La misma previsión se aplicará tratándose de peritos;
+III.- De enfermedad;
 
-VI. Cuando estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de reinserción social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos que, sin los requisitos legales, reciba como presa, detenida, arrestada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida, si lo estuviere; o no cumpla la orden de libertad girada por la autoridad competente;
+IV.- De incapacidad;
 
-VII. Cuando teniendo conocimiento de una privación ilegal de la libertad no la denunciase inmediatamente a la autoridad competente o no la haga cesar, también inmediatamente, si esto estuviere en sus atribuciones;
+V.- De defunción;
 
-VIII. Cuando haga que se le entreguen fondos, valores u otra cosa que no se le haya confiado a ella o él y se los apropie o disponga de ellos indebidamente;
+VI.- De muerte fetal; y
 
-IX. Obtenga, exija o solicite sin derecho alguno o causa legítima, para sí o para cualquier otra persona, parte del sueldo o remuneración de uno o más de sus subalternos, dádivas u otros bienes o servicios;
+VII.- Los demás que determinen las disposiciones aplicables.
 
-X. Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos, o contratos de prestación de servicios profesionales o mercantiles o de cualquier otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se les nombró, o no se cumplirá el contrato otorgado;
+###### ARTÍCULO 166.
 
-XI. Cuando autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, o para participar en adquisiciones, arrendamientos, servicios u obras públicas, siempre que lo haga con conocimiento de tal situación;
+El certificado médico prenupcial será requerido por las Autoridades del Registro Civil a quienes pretendan contraer matrimonio, sin excepción alguna.
 
-XII. Cuando otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación;
+###### ARTÍCULO 167.
 
-XIII. Omitir el registro de la detención correspondiente o dilatar injustificadamente la puesta a disposición del detenido a la autoridad correspondiente, y
+Los certificados de defunción y de muerte fetal, serán expedidos una vez comprobado el fallecimiento y determinadas sus causas por profesionales de la medicina o personas autorizadas por la Secretaría de Salud del Estado.
 
-XIV. Incumplir con la obligación de impedir la ejecución de las conductas de privación de la libertad.
+Los certificados a que se refiere este Capítulo se extenderán por las Autoridades Sanitarias estatales en los modelos aprobados por la Secretaría de Salud del Estado.
 
-A quien cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a V y X a XII, se le impondrá de uno a ocho años de prisión y de cincuenta hasta cien días multa. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII.
+Las Autoridades Judiciales o Administrativas, sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
-A quien cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIII Y XIV, se le impondrá de dos a nueve años de prisión y de setenta hasta ciento cincuenta días multa.
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-###### Artículo 158.
+### CAPITULO DECIMO TERCERO. DE LA VIGILANCIA SANITARIA
 
-(DEROGADO, P.O. 12 DE ABRIL DE 2018)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-### CAPÍTULO V. COALICIÓN DE SERVIDORES PÚBLICOS
+###### ARTÍCULO 168.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+Corresponde al Instituto de Servicios de Salud Pública del Estado de Baja California, la vigilancia y verificación del cumplimiento de las disposiciones contenidas en esta Ley, la Ley General de la materia, Normas Oficiales Mexicanas y demás ordenamientos aplicables en materia sanitaria.
 
-###### Artículo 159.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-A las y los servidores públicos que, con el fin de impedir o suspender las funciones legislativas, administrativas o jurisdiccionales, se coaliguen y tomen medidas contrarias a una ley, reglamento o disposición de carácter general, impidan su aplicación, ejecución o dimitan de sus puestos, se les impondrá prisión de dos años a siete años y multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
+###### ARTÍCULO 169.
 
-No cometen este delito las y los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o hagan uso del derecho de huelga.
+Las demás dependencias y entidades públicas coadyuvarán a la vigilancia del cumplimiento de las normas sanitarias y, cuando encontraren irregularidades que a su juicio constituyan violaciones a las mismas, lo harán del conocimiento del Instituto de Servicios de Salud Pública del Estado de Baja California.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2018)</small>
+###### ARTÍCULO 170.
 
-### CAPÍTULO VI. USO ILÍCITO DE ATRIBUCIONES Y FACULTADES
+El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, serán objeto de orientación y educación de los infractores con independencia de que se apliquen si procedieren, las medidas de seguridad y sanciones correspondientes.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-###### Artículo 160.
+###### ARTÍCULO 171.
 
-Comete el delito de uso ilícito de atribuciones y facultades:
+La vigilancia sanitaria se realizará a través de visitas sanitarias a cargo del personal expresamente autorizado por el Instituto de Servicios de Salud Pública del Estado de Baja California, quienes deberán realizar las diligencias de conformidad con esta Ley, su Reglamento Interno y demás disposiciones aplicables.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2018)</small>
+###### ARTÍCULO 172.
 
-I. La o el servidor público que ilícitamente:
+Las visitas sanitarias podrán ser ordinarias y extraordinarias; las primeras se efectuarán en días y horas hábiles, debiendo entenderse por ello, los días y horas de funcionamiento habitual de los establecimientos industriales, comerciales o de servicio, y las segundas en cualquier tiempo.
 
-a) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes del patrimonio del Estado;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-b) Otorgue permisos, licencias o autorizaciones de contenido económico;
+###### ARTÍCULO 173.
 
-c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales y sobre precios y tarifas de los bienes y servicios producidos o prestados por la administración pública del Estado, e
+Para practicar visitas sanitarias, la persona visitadora deberá estar provista de orden escrita, con firma autógrafa expedida por la autoridad sanitaria competente, en la que se deberá precisar el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
 
-d) Otorgue, realice o contrate obras públicas, deuda, adquisiciones, arrendamientos, enajenaciones de bienes o servicios o colocaciones de fondos y valores con recursos económicos públicos.
+La orden de visita sanitaria deberá ser exhibida a la persona con quien se entienda la diligencia, a quien se le entregará una copia, y tendrá por objeto vigilar el debido cumplimiento de las disposiciones sanitarias.
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-II. La o el servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona:
+La persona visitadora podrá utilizar tecnologías de videograbación durante la visita de (sic) sanitaria.
 
-a) Niegue el otorgamiento o contratación de las operaciones a que hacen referencia la presente fracción, existiendo todos los requisitos establecidos en la normatividad aplicable para su otorgamiento, o
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-b) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación;
+###### ARTÍCULO 174.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+La persona visitadora en el ejercicio de sus funciones tendrán (sic) libre acceso a los edificios, establecimientos comerciales, industriales, de servicio y en general a todos los lugares sujetos a la observancia y cumplimiento de esta Ley.
 
-III. Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que se hace referencia en la fracción anterior o sea parte en las mismas, y
+Las personas propietarias, responsables, encargadas u ocupantes de establecimientos o conductores de los transportes objeto de la visita, estarán obligadas a permitir el acceso y a dar facilidades e informes a la persona visitadora para el desarrollo de la visita sanitaria, así como permitir el uso de tecnologías para la videograbación durante la misma.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-IV. La o el servidor público que teniendo a su cargo fondos públicos, les dé una aplicación pública distinta de aquella a que estuvieren destinados o haga un pago ilegal.
+###### ARTÍCULO 175.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2018)</small>
+En la diligencia de visita sanitaria se observarán las siguientes reglas:
 
-Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o el servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+I.- Al iniciar, la persona visitadora deberá exhibir la credencial vigente, expedida por el Instituto de Servicios de Salud Pública del Estado de Baja California, que lo acredite legalmente para desempeñar dicha función, así como la orden expresa a que se refiere el artículo 173 de esta Ley, de la que deberá dejar copia a la persona propietaria, responsable, encargada u ocupante del establecimiento o conductor del vehículo, comunicándole en el mismo acto que el tratamiento de sus datos personales que se recaben serán protegidos de acuerdo a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Baja California. Estas circunstancias se deberán anotar en el acta correspondiente;
 
-A quien cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión y de treinta a ciento cincuenta Unidades de Medida y Actualización.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+II.- Posterior a la presentación y comentario del objeto de la visita, se deberá requerir a la persona propietaria, responsable, encargada u ocupante del establecimiento, o conductor del transporte, que proponga dos testigos quienes deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia de la persona visitada, los designará el visitador que practique la visita de verificación sanitaria. Esta circunstancia se hará constar en el acta;
 
-###### Artículo 161.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Al particular que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio del estado, con la finalidad de obtener un beneficio para sí o para un tercero:
+III.- En el acta que se levante con motivo de la visita sanitaria, se harán constar el día, mes y año en que se inicie o concluya la diligencia, nombre, denominación o razón social del visitado, domicilio del lugar en que se practique la diligencia, nombre y cargo de la persona con quien se entendió la diligencia, nombre y domicilio de las personas que fungieron como testigos, datos relativos a la actuación, las deficiencias o anomalías sanitarias observadas, el número y tipo de muestras tomadas, o en su caso, las medidas de seguridad que se ejecuten;
 
-I. Genere y utilice información falsa o alterada, respecto de los rendimientos o beneficios que obtenga, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-II. Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
+IV.- Al concluir la visita sanitaria, se dará oportunidad a la persona propietaria, responsable, encargada u ocupante del establecimiento o conductor del transporte, de manifestar lo que a su derecho convenga, asentando su dicho y recabando su firma en el acta, de la cual se le entregará una copia. La negativa a firmar el acta o a recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez ni la diligencia practicada; y
 
-A quien cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y de treinta a cien días de multa.
+V.- La recolección de muestra se efectuará conforme a lo señalado en la Ley General de Salud; el procedimiento de muestreo no impide que la Autoridad Sanitaria correspondiente ejecute las medidas de seguridad sanitaria que procedan.
 
-### CAPÍTULO VII. NEGACIÓN DEL SERVICIO PÚBLICO
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-###### Artículo 162.
+Cuando el procedimiento sea realizado por los ayuntamientos, estos actuarán dentro de la competencia que la Ley General de Salud, esta Ley y los convenios respetivos establezcan.
 
-(DEROGADO, P.O. 12 DE ABRIL DE 2018)
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO VIII. TRÁFICO DE INFLUENCIA
+### CAPITULO DECIMO CUARTO. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-###### Artículo 163.
+###### ARTÍCULO 176.
 
-Comete el delito de tráfico de influencias:
+Se consideran medidas de seguridad sanitaria las disposiciones que dicte el Instituto de Servicios de Salud Pública del Estado de Baja California, de conformidad con los preceptos de esta Ley, la Constitución Política de los Estados Unidos Mexicanos en sus artículos 14 y 16, la Ley General de Salud y demás disposiciones aplicables, tendientes a proteger la salud de la población. Las medidas de seguridad, en casos inaplazables, en casos inminentes, próximos, graves e inmediatos riesgos sanitarios serán de inmediata ejecución y se aplicarán sin perjuicio de las sanciones que en su caso correspondieren.
 
-I. La o el servidor público que por sí o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión;
+###### ARTÍCULO 177.
 
-II. Cualquier persona que promueva la conducta ilícita del servidor público o se preste a la promoción o gestión a que hace referencia la fracción anterior;
+Son competentes para ordenar o ejecutar medidas de seguridad, las Autoridades Sanitarias previstas en el artículo 2° de esta Ley, en los ámbitos de sus respectivas competencias.
 
-III. La o el servidor público que por sí, o por interpósita persona indebidamente, solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, y
+###### ARTÍCULO 178.
 
-IV. Al particular que, sin estar autorizado legalmente para intervenir en un negocio público, afirme tener influencia ante las y los servidores públicos facultados para tomar decisiones dentro de dichos negocios, e intervenga ante ellos para promover la resolución ilícita de los mismos, a cambio de obtener un beneficio para sí o para otro.
+Son medidas de seguridad sanitaria las siguientes:
 
-A la o el que cometa el delito de tráfico de influencias, se le impondrán de dos años a seis años de prisión y de treinta a cien días multa.
+I.- Aislamiento.- Se entiende por aislamiento la separación de personas infectadas, durante el periodo de transmisibilidad, en lugares y condiciones que eviten el peligro de contagio.
 
-### CAPÍTULO IX. COHECHO
+El aislamiento se ordenará por escrito, por la Secretaría de Salud del Estado o por la Autoridad Sanitaria que ésta determine, previo dictamen médico y durará el tiempo estrictamente necesario para que desaparezca el peligro;
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+II.- Cuarentena.- Se entiende por cuarentena la limitación a la libertad de tránsito de personas sanas que hubieren estado expuestas a una enfermedad transmisible, por el tiempo estrictamente necesario para controlar el riesgo de contagio;
 
-###### Artículo 164.
+La cuarentena se ordenará por escrito, por la Secretaría de Salud o la Autoridad Sanitaria que ésta determine, previo dictamen médico y consistirá en que las personas expuestas no abandonen determinado sitio o se restrinja su asistencia a determinados lugares;
 
-Cometen el delito de cohecho:
+III.- Observación personal.- Consiste en la estrecha supervisión sanitaria de los presuntos portadores, sin limitar su libertad de tránsito, con el fin de facilitar la rápida identificación de la infección o enfermedad transmisible;
 
-I. La o el servidor público que, por sí, o por interpósita persona solicite o reciba ilícitamente para sí o para otro, dinero o cualquier beneficio, o acepte una promesa, para hacer o dejar de realizar un acto propio de sus funciones inherentes a su empleo, cargo o comisión;
+IV.- Vacunación de personas.- Procederá cuando las personas expuestas a contraer enfermedades transmisibles, no hayan sido vacunadas conforme a lo establecido en el artículo 144 de la Ley General de Salud por causas de epidemia grave, peligro de invasión en la entidad, o con motivo de enfermedades previstas en éste artículo y cuando así se requiera de acuerdo a otras disposiciones aplicables;
 
-II. La o el que dé, prometa o entregue cualquier beneficio a alguna de las personas que se mencionan en el artículo 167 de este Código, para que haga u omita un acto relacionado con sus funciones, a su empleo, cargo o comisión, y
+V.- Vacunación de animales.- Se procederá a la vacunación de animales, cuando éstos puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación en su caso, con las dependencias encargadas de la sanidad animal;
 
-III. La o el servidor público que, en el ejercicio de sus funciones o atribuciones, gestione o solicite:
+VI.- Destrucción o control de insectos u otra fauna transmisora y nociva.- Cuando se requiera ejecutar las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando éstos constituyan un peligro grave para la salud de las personas, en coordinación en su caso con las Autoridades encargadas de la sanidad animal;
 
-a) La asignación de recursos a favor de un ente público, exigiendo u obteniendo, para sí o para un tercero, una comisión, dádiva o contraprestación, en dinero o en especie, distinta a la que le corresponde por el ejercicio de su encargo, e
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
 
-b) El otorgamiento de contratos de obra pública o de servicios a favor de determinadas personas físicas o morales.
+VII.- Suspensión de trabajos o servicios, la que será temporal.- Cuando sea inaplazable, si de continuar algunos trabajos o servicios, se ponga en inminente, próximo y grave peligro la salud de las personas; la suspensión de trabajos o servicios será temporal, será total o parcial y se aplicará por el tiempo estrictamente necesario para corregir las graves irregularidades que pongan en peligro la salud de las personas.
 
-Se aplicará la misma pena a cualquier persona que gestione, solicite a nombre o en representación de un servidor público las asignaciones de recursos u otorgamiento de contratos a que se refieren los incisos a) y b) de este artículo.
+Se ejecutarán las acciones necesarias que permitan asegurar la referida suspensión. Ésta será levantada a instancias del interesado o por la propia Autoridad que la ordenó, cuando cese la causa por la cual fue decretada.
 
-Al que comete el delito de cohecho se le impondrán las siguientes sanciones:
+Durante la suspensión se podrá permitir el acceso de las personas que tengan encomendada la corrección de las irregularidades que la motivaron;
 
-Cuando la cantidad o el valor de la dádiva, de los bienes o la promesa no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
+VIII.- Aseguramiento y destrucción de objetos, productos o substancias.- El aseguramiento y destrucción de objetos, productos o substancias, procederá cuando se presuma que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales que se establezcan en esta Ley y otras disposiciones aplicables. La Autoridad Sanitaria competente podrá retenerlos o dejarlos en depósito hasta en tanto se determine, previo dictamen de laboratorio acreditado, cuál será su destino.
 
-Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos a catorce años de prisión y de cien a ciento cincuenta días multa.
+Si el dictamen indicara que el bien asegurado no es nocivo pero carece de los requisitos esenciales establecidos en esta Ley y demás disposiciones aplicables, la Autoridad Sanitaria correspondiente concederá al interesado un plazo hasta de treinta días naturales para que tramite el cumplimiento de los requisitos omitidos. Si dentro de este plazo el interesado no realizara el trámite indicado o no gestionara la recuperación acreditando el cumplimiento de lo ordenado por la Autoridad Sanitaria, se entenderá que la materia del aseguramiento causa abandono y quedará a disposición de la Autoridad Sanitaria que ordeno el aseguramiento para su aprovechamiento lícito.
 
-En ningún caso se devolverá a las y los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
+Si del dictamen resultara que el bien asegurado es nocivo, la Autoridad Sanitaria competente, dentro del plazo establecido en el anterior párrafo y previa la observancia de la garantía de audiencia, podrá determinar que el bien asegurado sea sometido a un tratamiento que haga posible su legal aprovechamiento por el interesado, o será destruido si no pudiere tener un uso lícito por parte de la Autoridad.
 
-### CAPÍTULO X. PECULADO
+Los productos perecederos asegurados que se descompongan cuando este en poder de la Autoridad Sanitaria, así como los objetos, productos o substancias que se encuentren en evidente estado de descomposición, adulteración o contaminación que no los hagan aptos para su consumo, serán destruidos de inmediato por la Autoridad Sanitaria que los aseguro, la que levantará un acta circunstanciada de la destrucción.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+Los productos perecederos que no se reclamen por los interesados dentro de las veinticuatro horas de que hayan sido asegurados, quedarán a disposición de la Autoridad Sanitaria que ordeno el aseguramiento la que los entregará para su aprovechamiento, de preferencia a instituciones de asistencia social públicas o privadas.
 
-###### Artículo 165.
+IX.- Desocupación o desalojo de casas, edificios, establecimientos y en general, de cualquier predio.- Se ordenará previa la observancia de la garantía de audiencia y de dictamen pericial, cuando a juicio de las Autoridades Sanitarias competentes, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas previa la garantía de audiencia y del dictamen pericial; y
 
-Comete el delito de peculado:
+X.- Las demás de carácter sanitario que determine la Secretaría de Salud del Estado tendientes a evitar se causen o continúen causando riesgos o daños a la salud.
 
-I. Toda servidora o servidor público que para su beneficio o el de una tercera persona física o moral, distraiga de su objeto, dinero, valores, fincas o cualquier otra cosa perteneciente al Estado o Municipio, a organismos descentralizados, o a un particular, si, por razón de su cargo los hubiere recibido en administración, en depósito, en posesión o por otra causa;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-II. La o el servidor público que ilícitamente utilice fondos públicos u otorgue alguno de los actos a que se refiere el artículo de uso ilícito de atribuciones y facultades con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero, o a fin de denigrar a cualquier persona;
+### CAPITULO DECIMO QUINTO. DE LAS SANCIONES ADMINISTRATIVAS
 
-III. Cualquier persona que solicite o acepte realizar las promociones o denigraciones a que se refiere la fracción anterior, a cambio de fondos públicos o del disfrute de los beneficios derivados de los actos a que se refiere el artículo de uso ilícito de atribuciones y facultades, y
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-IV. Cualquier persona que sin tener el carácter de servidor público y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos estatales o municipales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
+###### ARTÍCULO 179.
 
-Al que cometa el delito de peculado se le impondrán las siguientes sanciones:
+Las violaciones a los preceptos de esta Ley, Normas Oficiales Mexicanas, reglamentos y demás disposiciones aplicables, serán sancionadas administrativamente por el Instituto de Servicios de Salud Pública del Estado de Baja California, y demás autoridades sanitarias en su ámbito de competencia, sin perjuicio de las sanciones que correspondan cuando sean constitutivas de delitos.
 
-Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
+###### ARTÍCULO 180.
 
-Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a catorce años de prisión y de cien a ciento cincuenta días multa.
+Las sanciones administrativas podrán ser:
 
-### CAPÍTULO XI. CONCUSIÓN
+I.- Amonestación con apercibimiento;
 
-###### Artículo 166.
+II.- Multa;
 
-Comete el delito de concusión el servidor público que con tal carácter exija por sí o por interpósita persona a título de impuesto o contribución, derecho y cooperación, recargo, renta, rédito, salario o emolumento, dinero, valores, servicios o cualquier otra cosa no debida o en mayor cantidad de la que señala la ley.
+III.- Clausura temporal o definitiva, que podrá ser parcial o total; y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2018)</small>
+IV.- Arresto hasta por treinta y seis horas.
 
-Al que cometa el delito de concusión se le impondrán las siguientes sanciones:
+###### ARTÍCULO 181.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+Al imponer una sanción, la Autoridad Sanitaria competente, fundará y motivará la resolución, tomando en cuenta:
 
-Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de quinientos días de Unidades de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien días de multa.
+I.- Los daños que se hayan producido o puedan producirse en la salud de las personas;
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+II.- La gravedad de la infracción;
 
-Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos días de Unidades de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y multa de cien a ciento cincuenta días de multa.
+III.- Las condiciones socioeconómicas del infractor; y
 
-### CAPÍTULO XII. DISPOSICIONES GENERALES
+IV.- La calidad de reincidente del infractor.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
-###### Artículo 167.
+###### ARTÍCULO 182.
 
-Para los efectos de este Título, es servidor público toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal, en los poderes legislativo, y judicial, y en la administración municipal, incluyendo las entidades paraestatales y paramunicipales, así como los organismos constitucionales autónomos, y los tribunales administrativos, y laborales del Estado.
+Se sancionará con multa de veinte y hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente, por violación a las disposiciones contenidas en esta Ley o a sus Reglamentos.
 
-Se impondrán las mismas sanciones del delito de que se trate a cualquier persona que sin ser servidor público participe en alguno de los delitos previstos en este Título.
+###### ARTÍCULO 183.
 
-De manera adicional a dichas sanciones, se impondrá a los responsables de su comisión, la pena de destitución y la inhabilitación para desempeñar empleo, cargo o comisión públicos, así como para participar en adquisiciones, arrendamientos, servicios u obras públicas, concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado por un plazo de uno a veinte años, atendiendo a los siguientes criterios:
+En caso de reincidencia se duplicará el monto de la multa. Para los efectos de este Capítulo se entiende por reincidencia, que el infractor cometa la misma violación a las disposiciones de esta Ley o sus Reglamentos dos o más veces dentro del período de un año natural.
 
-I. Por un plazo de uno hasta diez años cuando no exista daño o perjuicio o cuando el monto de la afectación o beneficio obtenido por la comisión del delito no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización, y
+###### ARTÍCULO 184.
 
-II. Por un plazo de diez a veinte años si dicho monto excede el límite señalado en la fracción anterior.
+La aplicación de las sanciones será sin perjuicio de que se dicten las medidas de seguridad sanitaria que procedan, hasta en tanto se subsanen las irregularidades. Impuesta una multa, se comunicará a la Autoridad Fiscal correspondiente, para que la haga efectiva a través de su procedimiento económico coactivo.
 
-Para efectos de lo anterior, la o el juez deberá considerar, en caso de que la o el responsable tenga el carácter de servidor público, además de lo previsto en el artículo 168 de este Código, los elementos del empleo, cargo o comisión que desempeñaba cuando incurrió en el delito.
+Cuando la Autoridad Fiscal haga efectiva la multa, deberá dar aviso a la Autoridad que impuso la sanción.
 
-Cuando la o el responsable tenga el carácter de particular, la o el juez deberá imponer la sanción de inhabilitación para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, considerando, en su caso, lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-I. Los daños y perjuicios patrimoniales causados por los actos u omisiones;
+###### ARTÍCULO 185.
 
-II. Las circunstancias socioeconómicas del responsable;
+Procederá la clausura temporal o definitiva, parcial o total según la gravedad de la infracción y las características de la actividad o establecimiento, en los casos siguientes:
 
-III. Las condiciones exteriores y los medios de ejecución, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-IV. El monto del beneficio que haya obtenido la o el responsable.
+I.- Cuando requerido por el Instituto de Servicios de Salud Pública del Estado de Baja California, la persona propietaria, responsable, encargada u ocupante de un establecimiento se niegue a cumplir con las indicaciones que legalmente le hubiere hecho la Autoridad para evitar riesgos en la salud de las personas;
 
-Cuando los delitos a que se refieren los artículos 148, 151, 160, 163, 164 y 165 del presente Código sean cometidos por servidores públicos electos popularmente o cuyo nombramiento esté sujeto a ratificación por parte del Congreso del Estado, las penas previstas serán aumentadas hasta en un tercio.
+II.- Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de esta Ley y de las disposiciones que de ella emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la Autoridad Sanitaria correspondiente;
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+III.- Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, por motivo de suspensión de trabajos o servicios, o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud; y
 
-### CAPÍTULO I. PRISIÓN
+IV.- Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población, o constituyan un peligro grave para la salud.
 
-###### Artículo 168.
+###### ARTÍCULO 186.
 
-Para la individualización de las sanciones previstas en este Título, la o el juez tomará en cuenta, en su caso, el nivel jerárquico de la o el servidor público y el grado de responsabilidad del encargo, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
+En los casos de clausura definitiva, quedarán sin efecto las autorizaciones que en su caso se hubieren otorgado para el funcionamiento de un establecimiento, local, fábrica o edificio de que se trate.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+###### ARTÍCULO 187.
 
-###### Artículo 169.
+Se sancionará con arresto hasta por treinta y seis horas:
 
-Cuando los delitos a que se refieren los artículos 147, 157 y 164 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, las penas previstas serán aumentadas hasta en una mitad.
+I.- A la persona que interfiera o se oponga al ejercicio de las funciones de la Autoridad Sanitaria del Estado; y
 
-###### Artículo 170.
+II.- A la persona que en rebeldía se niegue a cumplir los requerimientos y disposiciones de la Autoridad Sanitaria competente, provocando con ello un peligro a la salud de las personas.
 
-(DEROGADO, P.O. 12 DE ABRIL DE 2018)
+Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las sanciones a que se refiere este Capítulo.
 
-## TÍTULO TERCERO. DELITOS CONTRA EL SERVICIO PÚBLICO COMETIDOS POR PARTICULARES
+Impuesto el arresto, se comunicará la resolución a la Autoridad correspondiente para que la ejecute.
 
-### CAPÍTULO I. USURPACIÓN DE FUNCIONES PÚBLICAS, PROMOCIÓN DE CONDUCTAS ILÍCITAS, COHECHO Y DISTRACCIÓN DE RECURSOS PÚBLICOS
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-###### Artículo 171.
+### CAPITULO DECIMO SEXTO. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
-Al que sin ser servidor público se atribuya ese carácter y ejerza alguna de las funciones de tal, se le impondrán de seis meses a cuatro años de prisión y multa de treinta y seis a doscientos ochenta y ocho días de salario.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Cuando el sujeto activo se atribuya en vías de hecho la condición de miembro de una corporación policíaca o militar sin serlo, la punibilidad será de tres a ocho años de prisión y multa de doscientos dieciséis a quinientos setenta y seis días de salario.
+###### ARTÍCULO 188.
 
-###### Artículo 172.
+El ejercicio de las medidas de seguridad y sanciones previstas en esta Ley y demás disposiciones aplicables, por parte del Instituto de Servicios de Salud Pública del Estado de Baja California, y demás autoridades sanitarias dentro de su ámbito de competencia, se sujetará a los criterios siguientes:
 
-Al particular que en nombre de un servidor público solicite dinero, valores, servicios o cualquier otra dádiva o promueva una conducta ilícita de un servidor público o se preste para que éste o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a la responsabilidad inherente a su empleo, cargo o comisión, se le impondrán de tres a ocho años de prisión y multa de doscientos dieciséis a quinientos setenta y seis días de salario.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
 
-###### Artículo 173.
+I.- Invariablemente se fundará y motivará en los términos de los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
-Al particular que le ofrezca dinero o cualquier otra dádiva u otorgue promesa a un servidor público o a interpósita persona, para que dicho servidor haga u omita un acto relacionado con sus funciones, se le impondrán las siguientes penas:
+II.- Se tomarán en cuenta las necesidades sociales, municipales, estatales, y en general, los derechos e intereses de la sociedad; y
 
-I. De tres meses a tres años de prisión o multa de dieciocho a doscientos dieciséis días de salario o ambas penas, cuando el beneficio obtenido o la cantidad o el valor de la dádiva o promesa, no excedan del equivalente de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito o no sean cuantificables, y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
 
-II. De tres a ocho años de prisión y multa de doscientos dieciséis a quinientos setenta y seis días de salario, cuando el beneficio obtenido o la cantidad o el valor de la dádiva o promesa exceda de noventa veces el salario mínimo diario general.
+III.- Se considerará la trascendencia del asunto de que se trate, los riesgos que entrañe para la salud y la conveniencia de suprimir prácticas que en cualquier forma pongan en grave e inminente peligro la salud de las personas.
 
-La autoridad judicial podrá imponer al particular una tercera parte de las penas señaladas en el párrafo anterior o eximirlo de las mismas, cuando hubiese actuado para beneficiar a alguna persona con la que lo ligue un vínculo familiar, de dependencia o cuando haya denunciado espontáneamente el delito cometido.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
-###### Artículo 174.
+La resolución que se adopte se hará saber por escrito al interesado dentro del plazo de cuatro meses. En los casos de haber sido declarada Emergencia Epidemiológica, el plazo no podrá ser mayor a un mes.
 
-Al particular que estando obligado legalmente a la custodia, depósito o administración de bienes muebles o inmuebles pertenecientes al erario público o a la aplicación de recursos públicos, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó, se le impondrán de seis meses a tres años de prisión y multa de treinta y seis a doscientos dieciséis días de salario.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-###### Artículo 175.
+###### ARTÍCULO 189.
 
-Se le impondrán la mitad de las penas previstas para el delito de enriquecimiento ilícito, al que haga figurar como suyos, bienes que un servidor público adquiera o haya adquirido en contravención de lo dispuesto en la legislación sobre responsabilidades de los servidores públicos.
+El Instituto de Servicios de Salud Pública del Estado de Baja California, o en su caso la autoridad competente, con base en los resultados de la visita sanitaria, dictarán las medidas para corregir las irregularidades que se hubieren encontrado, notificándolas a la persona interesada y dándole un plazo adecuado para su realización. En los casos de haber sido declarada emergencia epidemiológica, el plazo no podrá ser mayor a quince días.
 
-### CAPÍTULO II. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-### CAPÍTULO II. TRATAMIENTO EN LIBERTAD DE IMPUTABLES
+###### ARTÍCULO 190.
 
-###### Artículo 176.
+El Instituto de Servicios de Salud Pública del Estado de Baja California, y demás autoridades sanitarias dentro de su ámbito de competencia, harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
 
-Se impondrá de tres meses a un año de prisión y multa de dieciocho a setenta y dos días de salario, al que sin causa legítima rehusare prestar un servicio de interés público a que la ley lo obligue o desobedeciere un mandato legítimo de la autoridad.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+###### ARTÍCULO 191.
 
-###### Artículo 177.
+Levantada un acta de visita, se le dará copia a la persona interesada o a la persona con quién se haya entendido la diligencia, notificándole en ese acto que cuenta con un plazo de quince días para comparecer ante el Instituto de Servicios de Salud Pública del Estado de Baja California, o la autoridad sanitaria correspondiente a manifestar lo que a su derecho convenga y ofrecer las pruebas que estime pertinentes, en relación con los hechos asentados en la misma.
 
-Se impondrá multa de veinte a cien días de salario, al que debiendo ser examinado por la autoridad, sin que le aprovechen las excepciones constitucionales ni las establecidas por este código o el Código Nacional de Procedimientos Penales, se niegue a otorgar la protesta de ley o a declarar.
+En la comparecencia que realice la persona interesada deberá señalar el domicilio para oír y recibir todo tipo de notificaciones aún las de carácter personal, en caso contrario las subsecuentes notificaciones incluso las de carácter personal se formularán en el lugar de la visita. La citación a la persona interesada se hará en el momento de la diligencia si éste participa en ella, o por conducto de la persona representante legal, responsable, encargada del establecimiento, ocupante del establecimiento o conductor del transporte, con quien se haya entendido.
 
-###### Artículo 178.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Se le impondrá de un año a dos años de prisión y multa de setenta y dos a ciento cuarenta y cuatro días de salario, al que por medio de la violencia se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones en forma legal o resista el cumplimiento de un mandato que satisfaga todos los requisitos legales.
+###### ARTÍCULO 192.
 
-### CAPÍTULO III. TRATAMIENTO EN SEMILIBERTAD
+El cómputo de los plazos que señale el Instituto de Servicios de Salud Pública del Estado de Baja California, o la autoridad sanitaria competente para el cumplimiento de sus disposiciones, se hará entendiendo los días naturales, con las excepciones que esta Ley establezca.
 
-###### Artículo 179.
+###### ARTÍCULO 193.
 
-Las penas serán de uno a cinco años de prisión y multa de setenta y dos a trescientos sesenta días de salario, cuando la desobediencia o resistencia sea a un mandato judicial o al cumplimiento de una sentencia.
+Una vez oído al presunto infractor o a su representante legal y desahogadas las pruebas ofrecidas y admitidas, se procederá dentro de los cinco días siguientes, a dictar por escrito, la resolución que proceda, la cual será notificada en forma personal o por correo certificado con acuse de recibo al interesado o a su representante legal.
 
-###### Artículo 180.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Cuando la ley autorice el empleo de medios de apremio para hacer efectivos los mandatos de la autoridad, la consumación de los delitos de desobediencia y resistencia de particulares, se producirá en el momento en que se agote el empleo de tales medios de apremio.
+###### ARTÍCULO 194.
 
-### CAPÍTULO III. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJOS PÚBLICOS
+En caso de que la presunta persona infractora no compareciera dentro del plazo fijado en el artículo 191 de esta Ley, se procederá a dictar en rebeldía la resolución definitiva y a notificarla personalmente o por correo certificado con acuse de recibo.
 
-###### Artículo 181.
+###### ARTÍCULO 195.
 
-Al que con actos materiales trate de impedir la ejecución de una obra o un trabajo público, programa o cualquier otro tipo de beneficios colectivos ordenados o autorizados legalmente por la autoridad competente, se le impondrá de tres a seis meses de prisión y multa de dieciocho a doscientos ochenta y ocho días de salario.
+En los casos de suspensión de trabajos o de servicios, de clausura temporal o definitiva, parcial o total, el personal comisionado para su ejecución procederá a levantar acta circunstanciada de la diligencia, siguiendo para ello los lineamientos generales establecidos para las visitas sanitarias.
 
-Cuando el delito se cometa por dos o más personas de común acuerdo, se impondrá de seis meses a dos años de prisión y multa de treinta y seis a ciento cuarenta y cuatro días de salario, si sólo se hiciere una simple oposición material sin violencia.
+###### ARTÍCULO 196.
 
-En caso de existir violencia, la pena será de uno a cuatro años de prisión y multa de setenta y dos a doscientos ochenta y ocho días de salario, sin perjuicio de las penas aplicables al delito que resulte cometido.
+Cuando del contenido de un acta de visita sanitaria se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-Se impondrá de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos días de salario, a los autores intelectuales o a quiénes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros, para cometer el delito de oposición a la ejecución de obras o trabajos públicos.
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO IV. QUEBRANTAMIENTO DE SELLOS
+### CAPITULO DECIMO SEPTIMO. DEL RECURSO DE INCONFORMIDAD
 
-###### Artículo 182.
+###### ARTÍCULO 197.
 
-Al que quebrante, los sellos puestos por orden de la autoridad competente, se le impondrán de dos a cinco años de prisión y multa de ciento cuarenta y cuatro a trescientos sesenta días de salario.
+Contra actos y resoluciones de las Autoridades Sanitarias del Estado, que con motivo de la aplicación de esta Ley den fin a una instancia o resuelvan un asunto, los interesados podrán interponer el recurso de inconformidad.
 
-Se sancionará con las mismas penas, al titular, propietario o responsable de un establecimiento mercantil o de la construcción de obra que se encuentre en estado de clausura, que realice actos de comercio, construcción o prestación de un servicio, aun cuando los sellos permanezcan intactos.
+###### ARTÍCULO 198.
 
-### CAPÍTULO V. ULTRAJES A LA AUTORIDAD
+El recurso de inconformidad deberá interponerse por escrito ante la Autoridad administrativa que hubiera dictado la resolución o acto impugnado, dentro de los quince días hábiles, contados a partir del día siguiente al de la fecha en que se hubiere notificado la resolución o acto que se recurra.
 
-###### Artículo 183.
+###### ARTÍCULO 199.
 
-Al que ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá de tres meses a un año de prisión y multa de dieciocho a setenta y dos días salario.
+En el escrito se precisará el nombre y domicilio de quien promueva, los hechos objeto del recurso, la fecha en que, bajo protesta de decir verdad, manifieste el recurrente que tuvo conocimiento de la resolución recurrida, los agravios que, directa o indirectamente, a juicio del recurrente, le cause la resolución o acto impugnado, la mención de la Autoridad que haya dictado la resolución, ordenado o ejecutado el acto y el ofrecimiento de las pruebas que el inconforme se proponga rendir.
 
-### CAPÍTULO VI. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+Al escrito deberán acompañarse los siguientes documentos:
 
-###### Artículo 184.
+I.- Los que acrediten la personalidad del promovente, siempre que no sea el directamente afectado y cuando dicha personalidad no hubiera sido reconocida con anterioridad por las autoridades sanitarias correspondientes, en la instancia o expediente que concluyó con la resolución impugnada;
 
-Al que para hacer efectivo un derecho o pretendido derecho, que deba ejercitar, empleare violencia, se le impondrá de tres meses a un año de prisión o multa de dieciocho a setenta y dos días de salario.
+II.- Los documentos que el recurrente ofrezca como pruebas y que tengan relación inmediata y directa con la resolución o acto impugnado; y
 
-### CAPÍTULO VII. COACCIÓN
+III.- Original o copia de la resolución o acto impugnado.
 
-###### Artículo 185.
+###### ARTÍCULO 200.
 
-Se impondrá de seis meses a un año de prisión y multa de treinta y seis a setenta y dos días de salario, a quien coaccione a la autoridad por medio de la violencia, para obligarla a que ejecute un acto oficial, sin los requisitos legales u otro que no esté en sus atribuciones.
+Al recibir el recurso, la unidad respectiva verificará si éste es procedente, y si fue interpuesto en tiempo debe admitirlo o, en su caso, requerir al promovente para que lo aclare, concediéndole al efecto un término de cinco días hábiles.
 
-### CAPÍTULO VIII. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
+En el caso que la unidad citada considere, previo estudio de los antecedentes respectivos, que procede su desechamiento, emitirá resolución en tal sentido.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2020)</small>
+###### ARTÍCULO 201.
 
-###### Artículo 186.
+En la substanciación del recurso sólo se admitirán las pruebas que se hayan ofrecido en la instancia o expediente que concluyó con la resolución o acto impugnado y las supervenientes, excepto la confesional y testimonial a cargo de las Autoridades Sanitarias del Estado.
 
-Al que cometa un delito en contra de un servidor público o agente de la autoridad en el ejercicio de sus funciones o con motivo de ellas, además de las penas que correspondan por el delito cometido, se le impondrá de uno a tres años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+Las pruebas se admitirán por la unidad administrativa competente y se dispondrá para su desahogo de un término de veinte días hábiles contados a partir de la fecha en que hayan sido admitidas.
 
-Cuando las conductas a que se refiere este artículo, sean cometidas en contra de cualquier servidor público, que en términos de la Ley de la materia, participe en la prestación de servicios de salud, ya sea que forme parte de las dependencias y entidades que constituyen el Sistema Estatal de Salud o de los Municipios, durante el período que comprenda alguna epidemia, riesgo o emergencia sanitaria, la pena de prisión deberá aumentarse tres años más, además de la que le corresponda por el delito cometido. En este supuesto el delito se investigará de oficio.
+###### ARTÍCULO 202.
 
-## TÍTULO CUARTO. DELITOS CONTRA LA ADECUADA IMPARTICIÓN, PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA COMETIDOS POR SERVIDORES PÚBLICOS
+A solicitud de los particulares que se consideren afectados por alguna resolución o acto de las Autoridades Sanitarias del Estado, éstas los orientarán sobre el derecho que tienen de recurrir la resolución o acto de que se trate, y sobre la tramitación del recurso.
 
-### CAPÍTULO I. DELITOS COMETIDOS EN CONTRA DE LA ADECUADA IMPARTICIÓN DE JUSTICIA
+###### ARTÍCULO 203.
 
-###### Artículo 187.
+La interposición del recurso suspenderá la ejecución de las sanciones pecuniarias, si el infractor garantiza el interés fiscal.
 
-Son delitos de los servidores públicos cometidos contra la adecuada impartición de justicia:
+Tratándose de otro tipo de actos o resoluciones, la interposición del recurso suspenderá su ejecución, siempre y cuando se satisfagan los siguientes requisitos:
 
-I. Conocer de los asuntos para los cuales tengan impedimento legal o abstenerse sin justificación alguna de conocer de los que le correspondan, sin tener impedimento legal para ello y obra dolosamente;
+I.- Que lo solicite el recurrente;
 
-II. Litigar por sí o por interpósita persona, cuando la ley les prohíba el ejercicio de su profesión;
+II.- Que no se siga perjuicio al interés social, ni se contravengan disposiciones de orden público; y
 
-III. Dirigir o asesorar a las personas que ante ellos litiguen;
+III.- Que fueren de difícil reparación los daños y perjuicios que se causen al recurrente, con la ejecución del acto o resolución combatida.
 
-IV. Retardar o entorpecer indebidamente la Administración de Justicia;
+###### ARTÍCULO 204.
 
-V. Impida u obstaculice a cualquier persona mediante actos u omisiones, la presentación de peticiones, escritos o promociones;
+En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
 
-VI. Omitir, acordar o no resolver dentro de los términos legales sin causa justificada, los asuntos de su conocimiento;
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VII. Sacar, en los casos en que la ley no lo autorice expresamente, los expedientes de la respectiva oficina y tratar fuera de ella los asuntos que tramiten;
+### CAPITULO DECIMO OCTAVO. DE LA PRESCRIPCION
 
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
+###### ARTÍCULO 205.
 
-VIII. Advertir a la o el demandado, ilícitamente, respecto de la providencia de embargo decretada en su contra;
+El ejercicio de la facultad para imponer las sanciones administrativas previstas en la presente Ley, prescribirá en el término de cinco años.
 
-IX. Adquiera a su favor algún bien objeto de remate en cuyo juicio hubiere intervenido. La misma sanción se impondrá a quien, como intermediario de un servidor público, adquiera algún bien objeto del remate en cuyo juicio haya intervenido aquel;
+###### ARTÍCULO 206.
 
-X. Dictar un auto o resolución, con violación de algún precepto imperativo de la ley o manifiestamente contrario a las constancias de autos o cuando se obre indebidamente y no por simple error de opinión;
+Los términos para la prescripción serán continuos y se contarán desde el día en que se cometió la falta o infracción administrativa, si fuere consumada, o desde que cesó, si fuere continua.
 
-XI. Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan a alguien una ventaja indebida;
+###### ARTÍCULO 207.
 
-XII. Admitir recursos notoriamente improcedentes, conceder términos o prórrogas indebidos;
+Cuando el presunto infractor impugnare los actos de la Autoridad Sanitaria competente, se interrumpirá la prescripción, hasta en tanto la resolución definitiva que se dicte no admita ulterior recurso.
 
-XIII. Dar por probado un hecho que legalmente no lo esté en los autos o tener como no aprobado uno que, conforme a la ley, deba reputarse debidamente justificado;
+###### ARTÍCULO 208.
 
-XIV. Desempeñar algún otro empleo oficial o un puesto o cargo particular que la ley les prohíba;
+Los interesados podrán hacer valer la prescripción, por vía de excepción. La Autoridad deberá declararla de oficio.
 
-XV. Ordenar o practicar cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
+A R T I C U L O S T R A N S I T O R I O S:
 
-XVI. Admitir o nombrar un depositario o entregar a éste los bienes secuestrados, sin el cumplimiento de los requisitos legales correspondientes;
+PRIMERO.- La presente Ley entrará en vigencia al día siguiente de su publicación el Periódico Oficial del Estado.
 
-XVII. Nombre síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido o a persona que tenga con el funcionario relación de parentesco, estrecha amistad o esté ligada con él por negocios de interés común, y
+SEGUNDO.- Se abroga la Ley de Salud Pública para el Estado de Baja California publicada en el Periódico Oficial el 10 de octubre de 1986, así como las reformas y adiciones subsecuentes formuladas hasta la entrada en vigor de la presente Ley.
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2002)</small>
 
-XVIII. Al que, en los actos propios de su cargo, atribuyere a una persona un nombre a sabiendas que no le pertenece y con perjuicio de alguien.
+TERCERO.- Los Ayuntamientos emitirán la normatividad reglamentaria de acuerdo a su competencia dentro de los trescientos sesenta y cinco días naturales siguientes a la entrada en vigor de esta Ley.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+CUARTO.- Las Autoridades competentes del Ejecutivo del Estado seguirán ejerciendo sus atribuciones en materia de agua potable para uso y consumo humano y alcantarillado sanitario, hasta en tanto éstas se transfieran por disposición legal a los Municipios.
 
-Se impondrá de tres a ocho años de prisión y de treinta a mil cien días de multa, a los imputados de los delitos previstos en las fracciones I a la VIII de este artículo.
+DADO en el Salón de Sesiones "Lic. Benito Juárez García" del Honorable Poder Legislativo, en la Ciudad de Mexicali, Baja California a los veinte días del mes de septiembre de dos mil uno.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
+DIP. SERGIO AVITIA NALDA.
 
-Se impondrá de cuatro a diez años de prisión y de cien a ciento cincuenta días de multa, a los imputados de los delitos previstos en las fracciones IX a la XVIII de este artículo.
+P R E S I D E N T E.
 
-### CAPÍTULO II. DELITOS COMETIDOS EN PERJUICIO DE LA PROCURACIÓN DE JUSTICIA
+DIP. GILBERTO FLORES MUÑOZ.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2018)</small>
+S E C R E T A R I O.
 
-### CAPÍTULO IV. SANCIÓN PECUNIARIA
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCION I DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO, MANDO SE IMPRIMA Y PUBLIQUE.
 
-###### Artículo 188.
+MEXICALI, BAJA CALIFORNIA, A LOS OCHO DIAS DEL MES DE OCTUBRE DEL AÑO DOS MIL UNO.
 
-Se impondrán de cuatro a diez años de prisión y de cien a ciento cincuenta días de multa, al servidor público que:
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 
-I. Prive de su libertad personal a cualquier persona durante la etapa de investigación fuera de los casos señalados por la ley o lo retenga por más tiempo del previsto en la Constitución Política de los Estados Unidos Mexicanos;
+LIC. ALEJANDRO GONZALEZ ALCOCER.
 
-II. Obligue al imputado, acusado o sentenciado a declarar;
+EL SECRETARIO GENERAL DE GOBIERNO.
 
-III. Ejerza la acción penal cuando no preceda denuncia o querella;
+C.P. JORGE RAMOS.
 
-IV. Realice una aprehensión sin poner al imputado a disposición de la autoridad judicial sin dilación alguna, en el término señalado por la Constitución Política de los Estados Unidos Mexicanos;
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-V. Se abstenga indebidamente de ejercer la acción penal que corresponda, de una persona que se encuentre detenida a su disposición como probable autor o participe de algún delito o de ejercitar en todo caso la acción penal, cuando sea procedente conforme a la Constitución y a las leyes de la materia;
+P.O. 5 DE JULIO DE 2002.
 
-VI. No otorgue caución durante la etapa de investigación, si procede legalmente o, en su caso, no fije caución al imputado detenido en flagrancia que garantice su comparecencia ante autoridad judicial, cuando no pretenda que se decreten otras medidas cautelares;
+ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
-VII. Practique cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
+P.O. 14 DE MARZO DE 2003.
 
-VIII. Fabrique, altere o simule elementos de prueba para incriminar o exculpar a otro, o
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-IX. Retarde deliberadamente el ejercicio de la acción penal.
+SEGUNDO.- El Ejecutivo del Estado por conducto de la Secretaría de Salud, elaborará el "Programa Estatal de Prevención y Control de la salud bucodental del preescolar" dentro de un término no mayor a seis meses, contados a partir de la entrada en vigor de esta reforma, para dicho efecto tomará en cuenta los programas ya existentes, adecuando su contenido.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+TERCERO.- La Secretaría de Salud del Estado conjuntamente con la Secretaría de Educación y Bienestar Social del Estado, y escuchando la opinión de las Asociaciones de Odontólogos debidamente registrados en el Departamento de Profesiones del Estado, definirán el contenido que deba establecerse en la "Cartilla Estatal de Salud Bucal" dentro de un plazo no mayor a seis meses, contados a partir de la entrada en vigor de esta reforma.
 
-X. Perturbe el lugar de los hechos relacionado con un hecho delictivo o el procedimiento de cadena de custodia.
+P.O. 12 DE AGOSTO DE 2005.
 
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-XI. Oculte a la o el imputado el nombre de quien lo acusa, salvo en los casos previstos en la ley, no darle a conocer el delito que se le atribuye o no realizar el descubrimiento probatorio.
+SEGUNDO.- El Ejecutivo del Estado por conducto de la Secretaría de Salud del Estado, promoverá la creación de Programas de Salud Bucodental, auditiva y visual, dentro de un término no mayor a seis meses, contados a partir de la entrada en vigor de estas reformas, para dicho efecto tomará en cuanta los programas ya existentes, adecuando su contenido.
 
-### CAPÍTULO III. TORTURA
+P.O. 19 DE MAYO DE 2006.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2020)</small>
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-###### Artículo 189.
+SEGUNDO.- El Congreso del Estado deberá realizar las adecuaciones presupuestales necesarias a fin de destinar los recursos económicos suficientes para el cumplimiento de la presente reforma.
 
-En delitos de tortura, se observará lo previsto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+TERCERO.- Para el debido a (sic) cumplimiento de la presente reforma, y en caso de no existir Norma Oficial Mexicana aplicable al propósito de la misma, se emplearán los criterios o lineamientos que en materia de nutrición sean aplicables, o al efecto se expidan por la propia Secretaría de Salud del Estado.
 
-###### Artículo 190.
+CUARTO.- La Secretaría de Salud del Estado deberá remitir los lineamientos y criterios al Sistema Estatal de Educación y Bienestar Social para su conocimiento.
 
-(DEROGADO, P.O. 25 DE AGOSTO DE 2020)
+P.O. 19 DE OCTUBRE DE 2007.
 
-###### Artículo 191.
-
-(DEROGADO, P.O. 25 DE AGOSTO DE 2020)
-
-###### Artículo 192.
-
-(DEROGADO, P.O. 25 DE AGOSTO DE 2020)
-
-### CAPÍTULO IV. DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2018)</small>
-
-###### Artículo 193.
-
-Se impondrán de cuatro a diez años de prisión y de cien a ciento cincuenta días de multa, al servidor público que:
-
-I. Ordene la aprehensión de cualquier persona por delito que no se encuentre sancionado con pena privativa de libertad o no preceda denuncia o querella;
-
-II. Obligue al imputado, acusado o sentenciado a declarar;
-
-III. Ordene la práctica de cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
-
-IV. No resuelva sobre la vinculación a proceso del imputado, dentro del plazo señalado en la Constitución Política de los Estados Unidos Mexicanos;
-
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-V. Prolongue injustificadamente la prisión preventiva, por más tiempo del que como máximo fija la Constitución Política de los Estados Unidos Mexicanos y el Código Nacional de Procedimientos Penales;
-
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
-
-VI. Demore injustificadamente el cumplimiento de la resolución judicial en la que se ordena poner en libertad a un detenido;
-
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
-
-VII. Inicie un proceso penal contra un servidor público con fuero;
-
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
-
-VIII. Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o en casos en que no preceda denuncia, acusación o querella; o realizar la aprehensión sin poner al detenido a disposición del juez;
-
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
-
-IX. Dar a conocer a quien no tenga derecho, documentos, constancias o información que obren en una carpeta de investigación o en un proceso penal y que, por disposición de la ley o resolución de la autoridad judicial, sean reservados o confidenciales, y
-
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2018)</small>
-
-X. Desviar u obstaculizar la investigación del hecho delictuoso de que se trate o favorecer que la o el imputado se sustraiga a la acción de la justicia.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
-
-###### Artículo 194.
-
-Se impondrán de cuatro a diez años de prisión y de cien a ciento cincuenta días de multa, al servidor público que por sí o por interpósita persona durante el desarrollo de un proceso utilice la violencia contra una persona, para evitar que ésta o un tercero aporte pruebas relativas a la comisión de un delito.
-
-### CAPÍTULO V. OMISIÓN DE INFORMES MÉDICOS FORENSES
-
-###### Artículo 195.
-
-Se impondrá de uno a tres años de prisión y multa de setenta y dos a doscientos dieciséis días de salario, al personal médico que habiendo prestado atención a un lesionado, no comunique de inmediato a la autoridad correspondiente:
-
-I. La identidad del lesionado;
-
-II. El lugar, estado y circunstancias en las que lo halló;
-
-III. La naturaleza de las lesiones que presenta y sus causas probables;
-
-IV. La atención médica que le proporcionó, o
-
-V. El lugar preciso en que queda a disposición de la autoridad.
-
-###### Artículo 196.
-
-Las mismas penas establecidas en el artículo anterior, se impondrán al médico que, habiendo otorgado responsiva de la atención de un lesionado, no proporcione a la autoridad correspondiente:
-
-I. El cambio del lugar en el que se atiende al lesionado;
-
-II. El informe acerca de la agravación que hubiere sobrevenido y sus causas;
-
-III. La historia clínica respectiva;
-
-IV. El certificado definitivo con la indicación del tiempo que tardó la curación o de las consecuencias que dejó la lesión, o
-
-V. El certificado de defunción, en su caso.
-
-### CAPÍTULO V. TRABAJO EN FAVOR DE LA COMUNIDAD
-
-###### Artículo 197.
-
-Se impondrán de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario, al profesional en medicina, pasante, director, administrador o personal administrativo o de seguridad de un centro hospitalario o de salud que obstaculice o impida la investigación de un delito.
-
-###### Artículo 198.
-
-Se impondrá de seis meses a un año de prisión y multa de treinta y seis a setenta y dos días de salario, al profesional en medicina, técnico o práctico que con motivo de su profesión o actividad, tenga conocimiento del estado de abandono de un recién nacido, persona menor de edad o que no tenga la capacidad de comprender el significado del hecho o adulto mayor y omita dar aviso inmediato a la Procuraduría de la Defensa del Menor, la Mujer y la Familia del Sistema para el Desarrollo Integral de la Familia o a la autoridad que exista en el lugar, quedando bajo la responsabilidad de esta última el informar a la autoridad competente.
-
-### CAPÍTULO VI. DELITOS COMETIDOS EN EL ÁMBITO DE LA EJECUCIÓN PENAL
-
-###### Artículo 199.
-
-Se impondrán de tres meses a seis años de prisión y multa de dieciocho a cuatrocientos treinta y dos días de salario, a quien por sí o por interpósita persona:
-
-I. Exija cuotas o contribuciones a los encargados o empleados de lugares de reclusión o internamiento, a los internos o a sus familiares, a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado o para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen;
-
-II. Otorgue deliberadamente privilegios a los internos;
-
-III. Permita ilegalmente la salida de personas privadas de su libertad como procesadas o sentenciadas para que temporalmente permanezcan fuera de las prisiones, o
-
-IV. Permita o introduzca objetos de los prohibidos en el reglamento interior de los centros de reclusión o internamiento.
-
-### CAPÍTULO VII. EVASIÓN DE PRESOS
-
-###### Artículo 200.
-
-A quien indebidamente ponga en libertad o favorezca la evasión de una persona que se encuentre legalmente privada de aquélla, se le impondrán de tres meses a siete años de prisión y multa de dieciocho a quinientos cuatro días de salario.
-
-###### Artículo 201.
-
-A quien favorezca al mismo tiempo o en un sólo acto, la evasión de dos o más personas privadas legalmente de su libertad personal, se le impondrán de cuatro a doce años de prisión y multa de doscientos ochenta y ocho a ochocientos sesenta y cuatro días de salario.
-
-Si el que favoreció la evasión prestara sus servicios en el centro de reinserción o del lugar de su internamiento o fuera custodio de los evadidos, además quedará destituido de su empleo y se le inhabilitará para obtener otro similar durante un plazo de dos a ocho años.
-
-###### Artículo 202.
-
-Las penas previstas en los artículos anteriores se aumentarán hasta en una mitad, cuando:
-
-I. Para favorecer la evasión, se haga uso de la violencia en las personas o de la fuerza en las cosas, o
-
-II. El que ponga en libertad o favorezca la evasión, siendo un servidor público en funciones de custodia.
-
-###### Artículo 203.
-
-Si la reaprehensión del evadido se logra por gestiones del responsable de la evasión, la pena aplicable será de tres meses a un año de prisión y multa de treinta y seis a setenta y dos días de salario.
-
-###### Artículo 204.
-
-Al sujeto activo no se le impondrá pena o medida de seguridad alguna, salvo que exista acuerdo con otro u otros privados de su libertad personal y se evada alguno de ellos o ejerza violencia, en cuyo caso se le impondrá de seis meses a un año de prisión y multa de treinta y seis a setenta y dos días de salario.
-
-Cuando un particular cometa o participe en alguno de los delitos previsto en este capítulo, se le impondrá la mitad de las penas establecidas.
-
-### CAPÍTULO VIII. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LA LIBERTAD Y MEDIDAS DE SEGURIDAD
-
-### CAPÍTULO VI. TRABAJO OBLIGATORIO PARA LA REPARACIÓN DEL DAÑO
-
-###### Artículo 205.
-
-Al sentenciado a confinamiento que salga del lugar que se haya fijado para su residencia antes de extinguirla, se le impondrá prisión por el tiempo que le falte para extinguir el confinamiento.
-
-###### Artículo 206.
-
-Se impondrán de seis meses a un año de prisión y multa de treinta y seis a setenta y dos días de salario, al que favorezca el quebrantamiento de la pena o medida de seguridad.
-
-###### Artículo 207.
-
-Si se trata de un servidor público que tenga a su cargo el cumplimiento de la pena o medida, la pena de prisión será de uno a tres años de prisión y multa de dieciocho días de salario, así como la destitución del cargo o comisión y cualquier otro servicio público e inhabilitación para ocupar otro de igual naturaleza por tres años.
-
-###### Artículo 208.
-
-Se impondrán tres meses de prisión y multa de dieciocho días de salario:
-
-I. Al imputado sometido a la vigilancia de la autoridad que no ministre a ésta los informes que se le pidan sobre su conducta, y
-
-II. A aquél a quien se hubiere prohibido ir a determinado lugar o residir en él, si violare la prohibición.
-
-###### Artículo 209.
-
-Se impondrá de dieciocho a cuatrocientos treinta días de salario al condenado suspendido o inhabilitado en su profesión u oficio o suspendido o inhabilitado para ejercer, que quebrante su condena.
-
-## TÍTULO QUINTO. DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA COMETIDOS POR PARTICULARES
-
-### CAPÍTULO I. FRAUDE PROCESAL
-
-###### Artículo 210.
-
-Al que simule un acto jurídico, un acto o escrito judicial o altere elementos de prueba y los presente en juicio, o realice cualquier otro acto tendiente a inducir a error a la autoridad judicial o administrativa, con el fin de obtener sentencia, resolución o acto administrativo favorable a sus intereses, y obtenga un beneficio indebido para sí o para otro, se le impondrán de seis meses a seis años de prisión y multa de treinta y seis a cuatrocientos treinta y dos días de salario.
-
-Si el beneficio es de carácter económico, se impondrán las penas previstas para el delito de fraude.
-
-Si el delito lo comete un Licenciado en Derecho, además de las penas señaladas, se le suspenderá en el ejercicio profesional, por un término igual al de la prisión impuesta.
-
-### CAPÍTULO II. FALSEDAD ANTE AUTORIDADES
-
-###### Artículo 211.
-
-Se impondrán de seis meses a cinco años de prisión y multa de treinta y seis a trescientos sesenta días de salario, a quien al declarar ante cualquier autoridad en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad en relación con los hechos que motivan la intervención de ésta.
-
-###### Artículo 212.
-
-Se impondrán las mismas penas del artículo anterior al que al ser examinado por la autoridad judicial como testigo, faltare a la verdad en relación al hecho que se trata de averiguar ya sea afirmando, negando u ocultando la existencia de alguna circunstancia que pueda servir de prueba sobre la verdad o falsedad del hecho principal o que aumente o disminuya la gravedad.
-
-La pena será de tres a quince años de prisión y multa de doscientos dieciséis a mil ochenta días de salario, para el testigo que fuere examinado en juicio penal, cuando al sentenciado se le haya impuesto una pena mayor de tres años de prisión y el testimonio falso haya servido de base para la condena.
-
-###### Artículo 213.
-
-Al que examinado como perito o interprete por la autoridad judicial o administrativa dolosamente falte a la verdad en su dictamen o traducción, se le impondrán de seis meses a cinco años de prisión y multa de treinta y seis a trescientos sesenta días de salario, así como suspensión para desempeñar profesión u oficio, empleo, cargo o comisión públicos hasta por dos años.
-
-###### Artículo 214.
-
-Al que aporte testigos falsos conociendo esta circunstancia o logre que un testigo, perito, intérprete o traductor falte a la verdad o la oculte al ser examinado por la autoridad pública en el ejercicio de sus funciones, se le impondrán de seis meses a cinco años de prisión y multa de treinta y seis a trescientos sesenta días de salario.
-
-###### Artículo 215.
-
-Además de las penas a que se refiere el artículo 213 de este código, se suspenderá hasta por tres años en el ejercicio de profesión, ciencia, arte u oficio al perito, intérprete o traductor que se conduzca falsamente u oculte la verdad, al desempeñar sus funciones.
-
-###### Artículo 216.
-
-Se impondrán las penas a que se refiere el artículo 213 de este código al que soborne, obligue, comprometa o intimide a un testigo, perito o intérprete, para que se conduzca con falsedad en juicio.
-
-### CAPÍTULO III. VARIACIÓN DEL NOMBRE, DOMICILIO O NACIONALIDAD
-
-###### Artículo 217.
-
-Se impondrán de tres meses a un año de prisión y multa de dieciocho a setenta y dos días de salario:
-
-I. Al que oculte su nombre o apellido y adopte otro, al declarar ante la autoridad;
-
-II. Al que para eludir la práctica de una diligencia judicial o una notificación o citación de una autoridad, oculte su domicilio o niegue de cualquier modo el verdadero, y
-
-III. Al que ante la autoridad, diere una nacionalidad falsa o que sin derecho para ello se haga pasar como mexicano o extranjero en cualquier documento público.
-
-### CAPÍTULO IV. SIMULACIÓN DE PRUEBAS
-
-###### Artículo 218.
-
-Al que con el propósito de inculpar a alguien como responsable de un delito ante la autoridad judicial, simule en su contra la existencia de pruebas, se le impondrán de uno a cinco años de prisión y multa de setenta y dos a trescientos sesenta días de salario.
-
-### CAPÍTULO V. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
-
-###### Artículo 219.
-
-Se impondrán de uno a cinco años de prisión y multa de setenta dos a trescientos sesenta días de salario, así como suspensión para ejercer la abogacía o profesión, hasta por dos años a quien:
-
-I. Abandone una defensa o un negocio, sin motivo justificado y en perjuicio de quien patrocina o lo haga sin que quién deba sustituirlo comparezca;
-
-II. Asista o ayude a dos o más contendientes o partes con intereses opuestos en un mismo negocio o negocios conexos o acepte el patrocinio de alguno y admita después el de la parte contraria en un mismo negocio;
-
-III. A sabiendas, alegue hechos falsos o se apoye en leyes o criterios jurisprudenciales inexistentes;
-
-IV. Promueva cualquier incidente, recurso o medio de impugnación notoriamente improcedente, que entorpezca el juicio o motive su dilación, provocando con ello un perjuicio a las partes;
-
-V. Como representante de la víctima o el ofendido, se concrete a aceptar el cargo sin realizar gestiones, trámites o promociones relativas a su representación.
-
-VI. Como defensor de un imputado, acusado o sentenciado se concrete a aceptar el cargo, sin promover pruebas ni diligencias, y
-
-VII. Teniendo a su cargo la custodia de documentos los extravíe por negligencia inexcusable.
-
-### CAPÍTULO VI. ENCUBRIMIENTO POR FAVORECIMIENTO
-
-###### Artículo 220.
-
-Se impondrán de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro días de salario, a quien después de la ejecución de un delito y sin haber participado en éste:
-
-I. Ayude en cualquier forma al sujeto activo a eludir las investigaciones de la autoridad competente o a sustraerse a la acción de ésta;
-
-II. Oculte o favorezca el ocultamiento del autor o participe del delito,
-
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-III. Oculte, altere, inutilice, destruya, remueva o haga desaparecer los indicios, instrumentos, productos u otros objetos del delito o perturbe el lugar de los hechos relacionado con un hecho delictivo o el procedimiento de cadena de custodia;
-
-IV. Oculte o asegure el instrumento, el objeto, producto o provecho del delito;
-
-V. Al que requerido por la autoridad, no proporcione la información de que disponga para la investigación del delito o para la detención o aprehensión del sujeto activo, o
-
-VI. No procure por los medios lícitos que tenga a su alcance y sin riesgo para su persona, impedir la consumación de los delitos que se sabe van a cometerse o se están cometiendo, salvo que tenga obligación de afrontar el riesgo, en cuyo caso se estará a lo previsto en este artículo o en otras normas aplicables.
-
-###### Artículo 221.
-
-Se impondrán de uno a tres años de prisión y multa de setenta y dos a doscientos dieciséis días de salario, así como la suspensión del derecho de ejercicio de la profesión de un mes a un año al médico, cirujano, partero, enfermero o cualquier otro profesionista sanitario que omitiera denunciar a la autoridad correspondiente los delitos de que hubiere tenido conocimiento con motivo del ejercicio de su profesión.
-
-###### Artículo 222.
-
-Se impondrán de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro días de salario y destitución de su empleo, cargo o comisión, al servidor público a quien se le haya hecho ofrecimiento o promesa de dinero o de cualquier otra dádiva, con el propósito de realizar cohecho y que no lo haga del conocimiento del Ministerio Público.
-
-###### Artículo 223.
-
-Estarán exentos de las penas impuestas a los encubridores, quien oculte al autor de un hecho calificado por la ley como delito o impida que se investigue, siempre que el sujeto tenga la calidad de defensor, ascendiente o descendiente consanguíneo en línea recta o colateral hasta el cuarto grado, por adopción, por afinidad hasta el segundo grado, cónyuge, concubina o concubinario o persona ligada con el sujeto activo por amor, respeto, gratitud o estrecha amistad.
-
-## TÍTULO SEXTO. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
-
-### CAPÍTULO I. HOMICIDIO
-
-###### Artículo 224.
-
-Comete el delito de homicidio el que priva de la vida a otro. Se entenderá la pérdida de la vida en los términos de la Ley General de Salud.
-
-###### Artículo 225.
-
-Se tendrá como mortal una lesión, cuando la muerte se deba a alteraciones causadas por la lesión en el órgano u órganos interesados o alguna de sus consecuencias inmediatas o complicación determinada inevitablemente por la misma lesión.
-
-###### Artículo 226.
-
-A quien prive de la vida a otra persona, se le impondrá de doce a veinte años de prisión y multa de ochocientos sesenta a mil cuatrocientos cuarenta días de salario.
-
-###### Artículo 227.
-
-Al que prive de la vida a otro en riña se le impondrá la mitad o cinco sextos de las penas que le puedan corresponder según se trate de provocado o provocador.
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
-
-###### Artículo 228.
-
-A quien cometa homicidio calificado se le impondrá de veinte a cincuenta años de prisión y multa de mil cuatrocientos cuarenta a tres mil seiscientas Unidades de Medida y Actualización.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2018)</small>
-
-Salvo que se trate del supuesto previsto en la fracción X del artículo 239, en el que se aplicará la penalidad contenida en el cuarto párrafo del artículo 230.
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE AGOSTO DE 2020)</small>
-
-###### Artículo 229.
-
-Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
-
-> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2020)</small>
-
-I. Que el sujeto activo lo cometa por odio o aversión hacia las mujeres;
-
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2017)</small>
-
-II. La víctima presente signos de violencia sexual de cualquier tipo;
-
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
-
-III. A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida;
-
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2017)</small>
-
-IV. Existan antecedentes o datos de cualquier tipo de violencia en el ámbito familiar, laboral o escolar, del sujeto activo en contra de la víctima;
-
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2017)</small>
-
-V. Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
-
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
-
-VI. Existan datos que establezcan por cualquier medio, incluyendo los electrónicos que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo contra la víctima;
-
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2017)</small>
-
-VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida, y
-
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
-
-VIII. El cuerpo de la víctima sea expuesto, exhibido, depositado o arrojado en un lugar público.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2020)</small>
-
-A quien cometa el delito de feminicidio se le impondrán de cuarenta a sesenta años de prisión y multa de dos mil a cinco mil días de salario.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2020)</small>
-
-Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter patrimonial y sucesorio.
-
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2017)</small>
-
-En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
-
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2017)</small>
-
-Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2020)</small>
-
-Se presumirá que existió una relación sentimental entre el sujeto activo y la víctima cuando esta sea o haya sido concubina, amasia o novia del sujeto activo o que hayan tenido una relación de hecho por la que vivieron juntos, así como por el hecho de mantener relaciones sexuales de manera reiterada.
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2020)</small>
-
-La pena se agravará hasta en una tercera parte, cuando la víctima sea menor de edad, se encontrare en estado de gravidez, sea persona discapacitada o adulta mayor, así como en los casos en que el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición.
-
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2017)</small>
-
-###### Artículo 229 Bis.
-
-Si entre el activo y la víctima existió una relación sentimental, afectiva, de confianza o de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, y se acredita cualquiera de los supuestos establecidos en el artículo anterior, se impondrán de cuarenta a setenta años de prisión y multa de dos mil ciento setenta a cuatro mil seiscientos veinte días de salario.
-
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-###### Artículo 229 Ter.
-
-Además de las sanciones descritas en el artículo anterior, el sujeto activo será condenado a la pérdida de los derechos que le asistieran con relación a los bienes o patrimonio de la víctima, al momento de cometer el delito; así como los que hubiera tenido respecto a su persona, si no se consumare, quedando en tentativa.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2018)</small>
-
-###### Artículo 230.
-
-A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, o concubinario u otra relación de pareja permanente, con conocimiento de esa relación, se le impondrá prisión de veinticinco a cincuenta años y multa de mil ochocientos a tres mil seiscientas Unidades de Medida y Actualización.
-
-Si faltare el conocimiento de la relación, se estará a la punibilidad prevista para el homicidio simple intencional.
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
-
-Si en la comisión de este delito concurre alguna circunstancia agravante de las previstas en el artículo 239 de este código, se impondrán de treinta a sesenta años de prisión, y multa de dos mil ciento sesenta a cuatro mil seiscientos veinte Unidades de Medida y Actualización.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2018)</small>
-
-En el caso de que el delito se cometa en términos de la fracción X, del artículo 239, no aplicará la penalidad del párrafo anterior, sino que se impondrán de cincuenta a setenta años de prisión, y multa de dos mil ciento sesenta a cuatro mil seiscientos veinte Unidades de Medida y Actualización.
-
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2017)</small>
-
-###### Artículo 230 Bis.
-
-A quien prive de la vida a una mujer, sea su cónyuge, concubina o haya mantenido con ella alguna otra relación de pareja permanente, con conocimiento de esa relación, se le considerara feminicidio y se estará a lo dispuesto en el artículo 229 de este código.
-
-Si faltare el conocimiento de la relación, se estará a la punibilidad prevista para el homicidio simple intencional.
-
-###### Artículo 231.
-
-Cuando la víctima del delito de homicidio sea menor de doce años o discapacitado, se impondrán de treinta a sesenta años de prisión y multa de dos mil ciento sesenta a cuatro mil seiscientos veinte días de salario.
-
-### CAPÍTULO II. LESIONES
-
-###### Artículo 232.
-
-A quien cause a otro un daño o alteración en su salud, se le impondrán:
-
-I. De tres a seis meses de prisión o multa de dieciocho a treinta y seis días de salario o ambas penas, si las lesiones tardan en sanar hasta quince días;
-
-II. De seis meses a dos años de prisión y multa de treinta y seis a ciento cuarenta y cuatro días de salario, cuando tarden en sanar más de quince días y menos de sesenta;
-
-III. De dos a tres años seis meses de prisión y multa de ciento cuarenta y cuatro a doscientos dieciséis días de salario, si tardan en sanar más de sesenta días;
-
-IV. De cuatro a seis años de prisión y multa de doscientos ochenta y ocho a cuatrocientos treinta y dos días de salario, cuando pongan en peligro la vida;
-
-V. De dos a ocho años de prisión y multa de ciento cuarenta y cuatro a quinientos setenta y seis días de salario, cuando dejen cicatriz perpetua y notable en la cara o en un pabellón auricular;
-
-VI. De tres a nueve años de prisión y multa de doscientos dieciséis a seiscientos cuarenta y ocho días de salario, cuando disminuyan alguna facultad o el normal funcionamiento de un órgano o de un miembro, y
-
-VII. De tres a diez años de prisión y multa de doscientos dieciséis a setecientos veinte días de salario, si producen la pérdida de cualquier función orgánica, de un miembro, de un órgano o de una facultad o causen una enfermedad incurable o una deformidad incorregible.
-
-###### Artículo 233.
-
-Se impondrá, sin perjuicio de las penas señaladas en el artículo anterior, de uno a dos años de prisión y multa de setenta y dos a ciento cuarenta y cuatro días de salario, cuando la lesión haya sido producida por disparo de arma de fuego o cualquier otro objeto o instrumento punzocortante o punzo penetrante.
-
-###### Artículo 234.
-
-A quien cause lesiones a un ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado u otra relación de pareja permanente, con conocimiento de esa relación, se le aumentará en una mitad la pena que corresponda, según las lesiones inferidas.
-
-###### Artículo 235.
-
-Cuando las lesiones se infieran con crueldad o frecuencia a un menor de edad o a un discapacitado, sujetos a la patria potestad, tutela o custodia del sujeto activo, la pena se incrementará con dos terceras partes a la que le corresponda, según las lesiones inferidas.
-
-En ambos casos, a solicitud del Ministerio Público se decretará la suspensión o pérdida de los derechos que tenga el sujeto activo en relación con la víctima, por un tiempo hasta de cinco años.
-
-###### Artículo 236.
-
-Si las lesiones fueren cometidas en riña, se impondrán la mitad o cinco sextos de las penas que le puedan corresponder, según se trate de provocado o provocador.
-
-###### Artículo 237.
-
-Cuando las lesiones sean calificadas, la pena se incrementará en dos terceras partes.
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2020)</small>
-
-###### Artículo 237 Bis.
-
-Al que cometa el delito de lesiones a una mujer en razón de su género, causando daño o alteración en la salud, que les (sic) deje huella material en el cuerpo se le impondrán (sic) una pena de quince a veinte años de prisión.
-
-Existen razones de género, cuando se presentan cualquiera de los siguientes supuestos:
-
-I. Que las lesiones sean infamantes, degradantes o una mutilación, o
-
-II. Que previo a la lesión infringida existan datos que establezcan que se han cometido amenazas, acoso o violencia del sujeto activo contra la víctima y que ella haya sido incomunicada. Si entre el sujeto activo y la víctima existió una relación sentimental, afectiva, de confianza, de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, se le impondrá de veinte a veinticinco años de prisión.
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2020)</small>
-
-###### Artículo 237 Ter.
-
-Las penas previstas en el artículo anterior se aumentarán en dos tercios en los siguientes casos:
-
-I. Cuando las lesiones sean provocadas mediante el empleo de ácido o substancias corrosivas;
-
-II. Cuando la alteración o daño resulte una enfermedad incurable, o
-
-III. La inutilización permanente o la pérdida de cualquier órgano, extremidad o función orgánica, o en su caso cuando la alteración o daño pongan en peligro la vida de la mujer.
-
-### CAPÍTULO III. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
-
-###### Artículo 238.
-
-La riña es la contienda de obra que se acepta de manera tácita o expresa entre dos o más personas con el ánimo de dañarse recíprocamente.
-
-###### Artículo 239.
-
-El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña, estado de alteración voluntaria o brutal ferocidad o en perjuicio de servidores públicos que se encarguen de la procuración o administración de justicia.
-
-I. Existe premeditación: Cuando se comete el delito después de haber reflexionado sobre su ejecución;
-
-II. Existe ventaja: Cuando el sujeto activo de la conducta no corra riesgo alguno de resultar muerto o lesionado y tenga plena conciencia sobre su superioridad;
-
-III. Existe traición: Cuando el sujeto activo realiza el hecho quebrantando la fe o seguridad que expresamente se le había prometido a la víctima o las mismas que en forma tácita debía éste esperar de aquél por las relaciones de confianza real y actual que existen entre ambos;
-
-IV. Existe alevosía: Cuando el sujeto activo realiza el hecho sorprendiendo intencionalmente a alguien de improviso o empleando acechanza u otro medio que no le dé lugar a defenderse ni evitar el mal que se le quiera hacer;
-
-V. Existe retribución: Cuando el sujeto activo lo cometa por pago o prestación prometida o dada;
-
-VI. Por el medio empleado: Cuando se causen por inundación, incendio, minas, bombas o explosivos o bien por envenenamiento, asfixia, tormento o por medio de cualquier otra sustancia nociva para la salud;
-
-VII. Existe saña: Cuando el sujeto activo actúe con crueldad o con fines depravados;
-
-VIII. Existe estado de alteración voluntaria: Cuando el sujeto activo lo comete en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras sustancias que produzcan efectos similares y sin que para ello medie prescripción médica;
-
-IX. Existe brutal ferocidad: Cuando el sujeto activo lo comete sin ningún motivo o que teniendo dominada la situación, sigue agrediendo a la víctima, y
-
-X. Cuando dolosamente se cometa en contra de servidores públicos de las instituciones policiales, de procuración y administración de justicia, si se encuentran en el ejercicio de sus funciones o con motivo de las mismas, siempre que se estén cumpliendo con arreglo a la ley.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE AGOSTO DE 2018)</small>
-
-###### Artículo 240.
-
-(DEROGADO, P.O. 28 DE NOVIEMBRE DE 2014)
-
-### CAPÍTULO IV. ABORTO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-###### Artículo 241.
-
-El aborto es la expulsión del producto de la preñez antes del tiempo en que el feto puede vivir.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-###### Artículo 242.
-
-Se impondrá de quince días a dos meses de prisión y multa de dieciocho a treinta y seis días de salario, a la madre que voluntariamente procure el aborto o consienta en que otro la haga abortar.
-
-La misma sanción se aplicará al que haga abortar a una mujer a solicitud de ésta, con tal que no se trate de un abortador de oficio o de persona ya condenada por ese delito, pues en tal caso la sanción será de dos a tres años de prisión.
-
-Cuando faltare el consentimiento de la mujer, la prisión será en todo caso de tres a siete años, y si mediare violencia física o moral de seis a diez años.
-
-Si el aborto lo causare un médico, cirujano, comadrón o partera, además de las sanciones que le correspondan conforme a este artículo, se le suspenderá de uno a tres años en el ejercicio de su profesión.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2015)</small>
-
-###### Artículo 243.
-
-No ameritará responsabilidad la interrupción del embarazo en los supuestos siguientes:
-
-I. Se produzca por conducta culposa de la mujer embarazada;
-
-II. El embarazo sea resultado del delito de violación;
-
-III. El embarazo sea resultado de una inseminación artificial no consentida;
-
-IV. Cuando la mujer embarazada esté en peligro de muerte o de sufrir un daño grave a su salud, a juicio del médico que le asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora; y
-
-V. Cuando a juicio de dos médicos especialistas en la materia, quienes deberán dictaminar de forma separada e independiente, exista prueba suficiente para diagnosticar que el producto de la concepción presente alteraciones genéticas o congénitas graves, siempre y cuando se cuente con el consentimiento de la madre y el padre, en su caso.
-
-En todas las hipótesis previstas en este artículo, los médicos especialistas tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos, así como de los apoyos y alternativas existentes, para que pueda tomar la decisión de manera libre, informada y responsable.
-
-El médico que practique la interrupción del embarazo conforme a los supuestos a que se refiere este artículo, deberá rendir un informe pormenorizado ante la Secretaría de Salud del Estado, al que adjuntará los dictámenes médicos correspondientes, dentro de las cuarenta y ocho horas posteriores al concluir los procedimientos respectivos. La Secretaría de Salud del Estado llevará un registro de las interrupciones del embarazo que se realicen, para lo cual formará un expediente por cada práctica, a partir del informe que al efecto se le remita.
-
-El tratamiento de los expedientes formados por tal razón se regirá por lo previsto en la Ley de Acceso a la Información Pública para el Estado de Tlaxcala.
-
-### CAPÍTULO V. AYUDA O INDUCCIÓN AL SUICIDIO
-
-###### Artículo 244.
-
-A quien ayude a otro para que se prive de la vida, se le impondrá prisión de uno a cinco años y multa de setenta y dos a trescientos sesenta días de salario si el suicidio se consuma.
-
-###### Artículo 245.
-
-Si el sujeto activo prestare el auxilio hasta el punto de ejecutar él mismo la muerte, la pena aplicable será de cuatro a diez años de prisión y multa de doscientos ochenta y ocho a setecientos veinte días de salario.
-
-###### Artículo 246.
-
-A quien induzca a otro para que se prive de la vida, se le impondrá prisión de tres a ocho años y multa de doscientos dieciséis a quinientos setenta y seis días de salario si el suicidio se consuma.
-
-###### Artículo 247.
-
-Si el suicidio no se consuma por causas ajenas a la voluntad del que induce o ayuda, pero sí se causan lesiones, se impondrán las dos terceras partes de las penas anteriores, sin que exceda de la que corresponda a las lesiones de que se trate. Si no se causan éstas, la pena será de una cuarta parte de las señaladas en este artículo.
-
-###### Artículo 248.
-
-Si la persona a quien se induce o ayuda al suicidio fuere menor de edad o no tuviere capacidad de comprender el significado del hecho, se impondrán al homicida o inductor las penas señaladas al homicidio o lesiones calificadas, según corresponda.
-
-## TÍTULO SÉPTIMO. DELITOS CONTRA LA LIBERTAD Y SEGURIDAD PERSONAL
-
-### CAPÍTULO I. DESAPARICIÓN FORZADA DE PERSONAS
-
-(NOTA: EL 24 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS RETROACTIVOS A LA ENTRADA EN VIGOR DE LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-###### Artículo 249.
-
-Al servidor público que con motivo de sus atribuciones, prive de su libertad personal y mantenga oculta a una o varias personas o bien autorice, apoye o consienta que otros lo hagan sin reconocer la existencia de tal privación o niegue información sobre su paradero, impidiendo con ello el ejercicio de los recursos legales y las garantías procesales procedentes, se le sancionará con prisión de diez a treinta años y multa de setecientos veinte a dos mil ciento sesenta días de salario, destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión hasta por diez años.
-
-Las mismas penas se impondrán al particular que por orden, autorización o con el apoyo de un servidor público participe en los actos descritos en el párrafo anterior.
-
-Las penas previstas en los párrafos precedentes se disminuirán en una tercera parte, cuando el sujeto activo suministre información que permita esclarecer los hechos y en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
-
-### CAPÍTULO II. TRÁFICO DE MENORES
-
-###### Artículo 250.
-
-Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la guarda o custodia de un menor, aunque ésta no haya sido declarada, lo entregue ilegalmente a un tercero para su custodia definitiva, a cambio de un beneficio, se le impondrán de dos a nueve años de prisión y multa de ciento cuarenta y cuatro a seiscientos cuarenta y ocho días de salario.
-
-###### Artículo 251.
-
-Las mismas penas se impondrán a los que ejerciendo la patria potestad, guarda o custodia, a cambio de un beneficio económico, otorguen el consentimiento al tercero que reciba al menor; o al que, sin intervención de intermediario, incurra en la conducta señalada en el artículo anterior.
-
-###### Artículo 252.
-
-Cuando en la comisión del delito no exista el consentimiento a que se refiere el artículo 250 de este código, las penas se aumentarán en un tanto más de la prevista en aquél.
-
-###### Artículo 253.
-
-Si se acredita que quien recibió al menor lo hizo por móviles piadosos y para incorporarlo a su núcleo familiar otorgándole los beneficios propios de tal incorporación, se le impondrá una pena de nueve meses a tres años tres meses de prisión y multa de cincuenta y cuatro a doscientos treinta y cuatro días de salario.
-
-###### Artículo 254.
-
-Si el menor es trasladado fuera del territorio del Estado, las penas se incrementarán en un tercio.
-
-###### Artículo 255.
-
-Además de las penas señaladas en los artículos anteriores, se perderán los derechos que tengan en relación con el menor, incluidos los de carácter sucesorio.
-
-###### Artículo 256.
-
-Si espontáneamente se devuelve al menor dentro de las veinticuatro horas siguientes a la comisión del delito, se impondrá una tercera parte de las penas previstas en los artículos anteriores.
-
-###### Artículo 257.
-
-A los sujetos activos que proporcionen datos con los que se logre la recuperación de la víctima, se les reducirá la pena de prisión en una mitad.
-
-### CAPÍTULO III. PRIVACIÓN DE LA LIBERTAD PERSONAL
-
-###### Artículo 258.
-
-Se impondrá de dos a cuatro años de prisión y multa de ciento cuarenta y cuatro a doscientos ochenta y ocho días de salario, al particular que prive a otro de su libertad, sin el propósito de obtener un lucro, causar un daño o perjuicio.
-
-###### Artículo 259.
-
-La pena de prisión se aumentará en una mitad, cuando la privación de la libertad se realice con violencia, la víctima sea menor de doce años o mayor de sesenta años o discapacitado.
-
-###### Artículo 260.
-
-Cuando la privación de la libertad se lleve a cabo únicamente para cometer los delitos de extorsión o robo, la pena será de cinco a veinte años de prisión y multa de trescientos sesenta a mil cuatrocientos cuarenta días de salario, independientemente de las demás penas que resulten.
-
-### CAPÍTULO IV. RETENCIÓN O SUSTRACCIÓN DE MENORES O INCAPACES
-
-###### Artículo 261.
-
-A quien sin tener el carácter de ascendiente, descendiente, pariente colateral o afín hasta el cuarto grado o de tutela de una persona menor de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, lo retenga sin el consentimiento de quien ejerza su custodia legítima o su guarda, se le impondrá prisión de uno a cinco años y multa de setenta y dos a trescientos sesenta días de salario.
-
-###### Artículo 262.
-
-A quien bajo los mismos supuestos del artículo anterior lo sustraiga de su custodia legítima o su guarda, se le impondrá de cinco a quince años de prisión y multa de trescientos sesenta a mil ochenta días de salario.
-
-###### Artículo 263.
-
-Si la retención o sustracción se realiza en contra de una persona menor de doce años de edad, se le aplicará de cinco a quince años de prisión y multa de setecientos veinte a tres mil seiscientos días de salario.
-
-###### Artículo 264.
-
-Si el sujeto activo es familiar del menor o del incapaz, pero no ejerce la patria potestad o la tutela sobre éste o mediante resolución judicial no ejerce la guarda o custodia, se aumentaran en una mitad las penas previstas en el artículo 261 de este código.
-
-###### Artículo 265.
-
-Cuando el sujeto activo devuelva espontáneamente al menor o al incapaz, dentro de las veinticuatro horas siguientes a la comisión del delito, se le impondrá una tercera parte de las penas antes señaladas.
-
-### CAPÍTULO V. PRIVACIÓN DE LA LIBERTAD CON FINES SEXUALES
-
-###### Artículo 266.
-
-A quien prive a otro de su libertad personal, con el propósito de realizar un acto sexual, se le impondrá de uno a cinco años de prisión y multa de setenta y dos a trescientos sesenta días de salario.
-
-###### Artículo 267.
-
-Si dentro de las veinticuatro horas siguientes, el sujeto activo pone en libertad a la víctima, sin haber practicado el acto sexual, la pena será de seis meses a tres años de prisión y multa de treinta y seis a doscientos dieciséis días de salario.
-
-### CAPÍTULO VI. EXTORSIÓN
-
-###### Artículo 268.
-
-Se impondrá de dos a ocho años de prisión y multa de ciento cuarenta y cuatro a quinientos setenta y seis días de salario, al que sin derecho, por cualquier medio, obligue a otro a dar, hacer, tolerar o dejar de hacer algo, con ánimo de lucro para sí o para otro o causando un perjuicio patrimonial, moral o psicológico, en contra de una persona o personas.
-
-###### Artículo 269.
-
-Las penas previstas en el artículo anterior, se aumentarán en dos terceras partes y además, se impondrá la destitución del empleo, cargo o comisión públicos, inhabilitación de uno a cinco años para ejercer cargos o comisiones públicas y en su caso, la suspensión del derecho para ejercer actividades en corporaciones de seguridad privada, cuando el delito se realice por servidor público o quien sea o haya sido miembro de alguna corporación de seguridad pública o privada.
-
-###### Artículo 270.
-
-Además de las penas señaladas en el artículo 268 de este código, se impondrá de cuatro a diez años de prisión y multa de doscientos ochenta y ocho a setecientos veinte días de salario, cuando en la comisión del delito:
-
-I. Intervenga una o más personas armadas o portando instrumentos peligrosos;
-
-II. Se emplee violencia;
-
-III. Se cometa por vía telefónica, cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza, que se efectúe por hilos, radioelectricidad, medios ópticos, físicos, vía satelital u otros sistemas electromagnéticos;
-
-IV. Si el sujeto activo del delito de extorsión, se encuentra privado de su libertad personal, y
-
-V. Si es cometido en contra de un menor de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, o bien en una persona mayor de sesenta años.
-
-### CAPÍTULO VII. ASALTO
-
-###### Artículo 271.
-
-Al que en despoblado o en paraje solitario haga uso de la violencia sobre una persona con el propósito de causar un mal, obtener un lucro o de exigir su consentimiento para cualquier fin y cualesquiera que sean los medios y el grado de violencia que se emplee e independientemente de cualquier delito que resulte cometido, se le impondrán prisión de dos a seis años y multa de ciento cuarenta a cuatrocientos treinta y dos días de salario.
-
-###### Artículo 272.
-
-Si en la comisión del delito, intervienen dos o más personas, se impondrá de tres a ocho años de prisión y multa de doscientos dieciséis a quinientos setenta y seis días de salario.
-
-###### Artículo 273.
-
-La pena será de diez a treinta años de prisión y multa de setecientos veinte a dos mil ciento sesenta días de salario, para el que en caminos o carreteras haga uso de la violencia en contra de los ocupantes de un vehículo, ya sea de transporte público o particular. Si los sujetos activos atacaren una población se aplicarán de quince a veinte de prisión y multa de mil ochenta a mil cuatrocientos cuarenta días de salario, a los que dirijan la ejecución de la conducta típica y de veinte a treinta años de prisión y multa de mil cuatros cientos cuarenta a dos mil ciento sesenta días de salario a los demás.
-
-### CAPÍTULO VIII. ALLANAMIENTO DE MORADA, DESPACHO, OFICINA O ESTABLECIMIENTO MERCANTIL
-
-###### Artículo 274.
-
-Se impondrá de seis meses a cinco años de prisión y multa de treinta y seis a trescientos sesenta días de salario, al que, sin motivo justificado, sin orden de autoridad competente y fuera de los casos en que la ley lo permita, se introduzca sin permiso de la persona autorizada para darlo, a un departamento, vivienda, aposento o dependencia de una casa habitada.
-
-###### Artículo 275.
-
-Se impondrán de cuatro a seis años de prisión y multa de doscientos ochenta y ocho a cuatrocientos treinta y dos días de salario cuando el delito:
-
-I. Se cometa por dos o más personas;
-
-II. Se cometa por servidor público en ejercicio de sus funciones o con motivo de ellas, y
-
-III. Se haga uso de la violencia.
-
-###### Artículo 276.
-
-Las mismas penas previstas en los artículos anteriores se impondrán, a quién se introduzca sin orden de autoridad competente o sin permiso de la persona autorizada para ello, en el domicilio de una persona moral pública o privada, despacho profesional, establecimiento mercantil o local abierto al público fuera del horario laboral que corresponda.
-
-### CAPÍTULO IX. REVELACIÓN DE SECRETOS
-
-###### Artículo 277.
-
-Se aplicará de seis meses a cuatro años de prisión y multa de treinta y seis a doscientos ochenta y ocho días de salario, a quien sin justa causa y con perjuicio de otro, revele algún secreto, intimidad personal o comunicación reservada, que conoció con motivo de su función o ejercicio profesional o de su relación con la víctima o sus familiares.
-
-Si para la comisión del delito, el sujeto activo se valió de su profesión, cargo u oficio, se le aplicará, además, suspensión de un mes a un año en su ejercicio.
-
-###### Artículo 278.
-
-Se aplicará de uno a cinco años de prisión y multa de setenta y dos a trescientos sesenta días de salario, a quien sin consentimiento de otro y para conocer algún secreto, intimidad personal o comunicación reservada:
-
-I. Se apodere de documentos u objetos de cualquier clase;
-
-II. Reproduzca dichos documentos u objetos, y
-
-III. Utilice medios técnicos para escuchar, observar, transmitir, grabar o reproducir la imagen o el sonido.
-
-### CAPÍTULO X. AMENAZAS
-
-###### Artículo 279.
-
-Se aplicará de tres meses a un año de prisión y multa de dieciocho a setenta y dos días de salario:
-
-I. Al que de cualquier modo amenace a otro con causarle un mal en su persona, en sus bienes, en su honor o en sus derechos o en la persona, honor, bienes o derechos de alguien con quien esté ligado con algún vínculo, y
-
-II. Al que por medio de amenazas de cualquier género trate de impedir que otro ejecute lo que tiene derecho a hacer.
-
-###### Artículo 280.
-
-Si el sujeto activo cumple su amenaza se acumularán la sanción de ésta y la del delito que resulte.
-
-###### Artículo 281.
-
-Si el sujeto activo consigue lo que se propone, se observarán las reglas siguientes:
-
-I. Si lo que exigió y recibió fue dinero o algún documento o cosa estimable en dinero, se le aplicarán las penas del robo con violencia, y
-
-II. Si exigió que el sujeto pasivo cometiera un delito, se acumulará a las penas del delito de amenazas, la que corresponda por su participación en el delito o delitos que resulten.
-
-### CAPÍTULO XI. USURPACIÓN DE IDENTIDAD
-
-###### Artículo 282.
-
-Al que por cualquier medio usurpe, con fines ilícitos, la identidad de otra persona, u otorgue su consentimiento para llevar a cabo la usurpación en su identidad, se le impondrá una pena de dos a seis años de prisión y multa de cuatrocientos a seiscientos días de salario.
-
-Se aumentaran en una mitad las penas previstas en el párrafo anterior, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito establecido en el presente artículo.
-
-### CAPÍTULO XII. SECUESTRO
-
-###### Artículo 283.
-
-En lo referente a los delitos en materia de secuestro, se estará a lo previsto en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2015)</small>
-
-### CAPÍTULO XIII. REQUERIMIENTO EXTRAJUDICIAL ILÍCITO DE PAGO
-
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2015)</small>
-
-###### Artículo 283 Bis.
-
-Comete el delito de requerimiento extrajudicial ilícito de pago quien alegando ser acreedor de una deuda patrimonial, u obrar a nombre o en representación de éste, exija el pago o cumplimiento de la misma, haciendo uso de violencia física o psicológica en el pretendido deudor, en cualquier otro obligado, o en quienes se encuentren unidos a aquel o a éste por lazos de parentesco o afectivos.
-
-También se comete en (sic) delito indicado, aunque no se ejerza violencia física o psicológica en contra de las personas señaladas en el párrafo anterior, si en los demás términos del mismo se exige el pago o cumplimiento de una deuda patrimonial publicando o divulgando el adeudo o la situación financiera del deudor o, en general, realizando actos que afecten la fama pública de éste.
-
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2015)</small>
-
-###### Artículo 283 Ter.
-
-A quien cometa el delito de requerimiento extrajudicial ilícito de pago se le impondrán de seis meses a dos años de prisión y multa de ciento ochenta a trescientos setenta días de salario mínimo vigente en la región.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE AGOSTO DE 2020)</small>
-
-### CAPÍTULO XIV. DISPARO DE ARMA DE FUEGO
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2020)</small>
-
-###### Artículo 283 Quater.
-
-Al que, sin causa justificada, realice disparo de arma de fuego, se le impondrá de dos a cinco años de prisión y multa de ciento ochenta a trescientos sesenta días de salario, sin perjuicio de las penas que pudieren corresponderle por la comisión de otros delitos.
-
-Para efectos del presente artículo, se entenderá por causa justificada, todas aquellas circunstancias en las que se ponga en riesgo la vida, la integridad física o el patrimonio, propio o de cualquier otra persona.
-
-## TÍTULO OCTAVO. TRATA DE PERSONAS
-
-### CAPÍTULO I. DELITO DE TRATA DE PERSONAS
-
-###### Artículo 284.
-
-En lo referente a los delitos en materia de trata de personas, se estará a lo previsto en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
-
-## TÍTULO NOVENO. DELITOS CONTRA LA LIBERTAD Y LA SEGURIDAD SEXUAL Y EL NORMAL DESARROLLO PSICOSEXUAL
-
-### CAPÍTULO I. VIOLACIÓN
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
-
-###### Artículo 285.
-
-A quien por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de veinte a veinticinco años y multa de quinientos setenta y seis a mil ocho Unidades de Medida y Actualización.
-
-###### Artículo 286.
-
-Se entiende por cópula, la introducción del pene por vía vaginal, anal o bucal.
-
-###### Artículo 287.
-
-(DEROGADO, P.O. 30 DE AGOSTO DE 2018)
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
-
-###### Artículo 288.
-
-Se sancionará con prisión de veinte a veinticinco años y multa de quinientos setenta y seis a mil ocho Unidades de Medida y Actualización a quien introduzca por vía vaginal o anal cualquier elemento, instrumento o cualquier parte del cuerpo humano, distinto al pene, por medio de la violencia física o moral o sin el consentimiento de la víctima.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2018)</small>
-
-Lo anterior, con independencia del sexo del ofendido.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2018)</small>
-
-###### Artículo 289.
-
-Se aplicarán de veinticinco a treinta años de prisión y multa de setecientos veinte a mil ochenta Unidades de Medida y Actualización, a quien:
-
-I. Realice cópula con persona menor de catorce años de edad;
-
-II. Realice cópula con persona que no tenga la capacidad de comprender el significado del hecho;
-
-III. Realice cópula con persona que por cualquier causa no pueda resistirla, o
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
-
-IV. Realice cópula con persona que se encuentre bajo su cuidado o custodia;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
-
-V. Realice cópula en los términos de los artículos 285 o 288, con la intervención de dos o más personas;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
-
-VI. Realice cópula en los términos de los artículos 285 o 288, con una persona sobre quien mantenga una relación de autoridad, o se aproveche de los medios o circunstancias del empleo, cargo o profesión que ejerce;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
-
-VII. Realice cópula en los términos de los artículos 285 o 288, con una persona con la que convive con motivo de su familiaridad, o de su actividad docente;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
-
-VIII. Realice cópula en los términos de los artículos 285 o 288, con quien sea o haya sido su cónyuge, concubina o pareja permanente, o
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
-
-IX. Introduzca por vía anal o vaginal cualquier elemento, instrumento o cualquier parte del cuerpo humano distinto del pene, con independencia del sexo de la víctima, en cualquiera de los supuestos anteriores.
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
-
-Si se ejerciera violencia, las penas previstas se aumentarán en un tercio.
-
-### CAPÍTULO II. ABUSO SEXUAL
-
-###### Artículo 290.
-
-Al que sin el consentimiento de una persona, ejecute en ella o la haga ejecutar uno o varios actos de naturaleza sexual, sin el propósito de llegar a la cópula, se le impondrá prisión de uno a tres años y multa de setenta y dos a doscientos dieciséis días de salario.
-
-Si se hiciera uso de violencia física o moral, la pena será de tres a cinco años de prisión y multa de doscientos dieciséis a trescientos sesenta días de salario.
-
-###### Artículo 291.
-
-Al que ejecute un acto sexual, sin el propósito de llegar a la cópula, en una persona menor de doce años o en persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirla o la obligue a ejecutarla, se le impondrán de cuatro a seis años de prisión y multa doscientos ochenta y ocho a cuatrocientos treinta y dos días de salario.
-
-###### Artículo 292.
-
-Las penas previstas para los delitos de violación y de abuso sexual, se aumentarán en dos terceras partes, cuando fueren cometidos:
-
-I. Con intervención directa o inmediata de dos o más personas;
-
-II. Por ascendiente contra su descendiente, éste contra aquél, el hermano contra su colateral, el tutor contra su pupilo, el padrastro o la madrastra contra su hijastro, éste contra cualquiera de ellos, concubinario o amasio de la madre o del padre contra cualquiera de los hijos de éstos o los hijos contra aquéllos. Además de las penas señaladas, el culpable perderá la patria potestad o la tutela, en los casos en que la ejerciere sobre la víctima, así como los derechos sucesorios;
-
-III. Por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de las penas referidas, el sentenciado será destituido del cargo o empleo o suspendido por el término hasta de cinco años en el ejercicio de dicha profesión;
-
-IV. Por la persona que tenga a la víctima bajo su custodia, guarda o educación o aproveche la confianza en ella depositada;
-
-V. Fuere cometido al encontrarse la víctima a bordo de un vehículo de servicio público, y
-
-VI. Fuere cometido en despoblado o en lugar solitario.
-
-### CAPÍTULO III. ESTUPRO
-
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2017)</small>
-
-###### Artículo 293.
-
-Se impondrá de seis meses a cuatro años de prisión y multa de treinta y seis a doscientos ochenta y ocho días de salario:
-
-I. A quien tenga cópula con una persona mayor de catorce años y menor de dieciocho, obteniendo su consentimiento por medio de la seducción y el engaño; y
-
-II. A quien introduzca por vía oral, vaginal o anal cualquier parte del cuerpo humano distinto al pene, o cualquier elemento o instrumento, a una persona mayor de catorce años y menos de dieciocho, obteniendo su consentimiento por la seducción y el engaño.
-
-Se procederá contra el inculpado del estupro por querella de la parte ofendida, de sus padres o, a falta de éstos, de sus representantes legítimos.
-
-### CAPÍTULO IV. HOSTIGAMIENTO SEXUAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2017)</small>
-
-###### Artículo 294.
-
-A quien acose o asedie a una persona con fines sexuales, a pesar de su oposición manifiesta y amenace con causarle un mal relacionado respecto a la actividad que los vincule, se le impondrá de seis meses a tres años de prisión y multa de treinta y seis a doscientos dieciséis días de salario.
-
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2016)</small>
-
-La pena prevista para el delito de hostigamiento sexual, se aumentarán en dos terceras partes, cuando el sujeto pasivo del delito sea menor de doce años.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
-
-Si el sujeto activo es servidor público y se aprovechare de esa circunstancia, además de las penas previstas en el artículo anterior, se le destituirá de su cargo.
-
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2017)</small>
-
-### CAPÍTULO IV BIS. ACOSO SEXUAL
-
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2017)</small>
-
-###### Artículo 294 Bis.
-
-Comete el delito de acoso sexual, a quien con fines de lujuria asedie a persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente, para la víctima.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
-
-Comete también el delito de acoso sexual quien con fines de lujuria asedie a cualquier persona, sin su consentimiento, en instalaciones o vehículos destinados al transporte público de pasajeros.
-
-En estos casos se impondrán penas de un año a cuatro años de prisión y de cien a trescientos días de multa. Si el pasivo del delito fuera menor de edad o persona que no tenga la capacidad para comprender el significado del hecho o de resistirlo, la pena se incrementará en un tercio.
-
-###### Artículo 295.
-
-(DEROGADO, P.O. 24 DE DICIEMBRE DE 2019)
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2019)</small>
-
-### CAPÍTULO V. VIOLACIÓN A LA INTIMIDAD SEXUAL
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
-
-###### Artículo 295 Bis.
-
-Comete el delito de violación a la intimidad sexual quien por cualquier medio divulgue, difunda, comparta, distribuya, publique o comercialice imágenes, audios o videos de una persona desnuda parcial o totalmente, de contenido íntimo o erótico sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima.
-
-A quien cometa este delito, se le impondrá una pena de tres a cinco años de prisión y multa de doscientas a quinientas veces el valor de la Unidad de Medida y Actualización.
-
-La pena se incrementará hasta en una mitad cuando:
-
-I. El delito sea cometido por el cónyuge o por persona con la que esté, o haya estado unida a la víctima por alguna relación de afectividad, aún sin convivencia;
-
-II. Cuando el sujeto activo mantenga una relación laboral, familiar o de amistad con la víctima;
-
-III. Se cometa contra una persona en situación de vulnerabilidad social o de origen étnico;
-
-IV. Se cometa en contra de una persona que por su situación de discapacidad no comprenda el significado del hecho, y
-
-V. Cuando se cometa contra menores de edad.
-
-Este delito se perseguirá por querella, salvo que se trate de personas en situación de discapacidad que no comprendan el significado del hecho o menores de edad.
-
-Para los efectos de las disposiciones señaladas en este artículo, la autoridad investigadora ordenará el retiro inmediato de la publicación que se realizó sin consentimiento de la víctima, al administrador o titular de la plataforma digital, medio de comunicación, red social o cualquier otro medio que la contenga.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MAYO DE 2021)</small>
-
-### CAPÍTULO VI. VIOLACION A LA IDENTIDAD SEXUAL
-
-> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
-
-###### Artículo 295 Ter.
-
-Se le impondrá a quien obligue a otro a recibir una terapia de conversión sexual de dos a cuatro años de prisión. Se aplicará lo mismo para quien imparta dicha terapia sin el consentimiento de la persona a la que se le aplica. Este delito se perseguirá por querella.
-
-Se entiende por terapias de conversión sexual, aquellas prácticas en las que se emplea violencia física, moral o psicoemocional, mediante tratos crueles, inhumanos o degradantes que atenten contra la dignidad humana, consistentes en sesiones psicológicas, psiquiátricas, métodos o tratamientos que tengan por objeto anular, obstaculizar, modificar o menoscabar la expresión o identidad de género, así como la orientación sexual de la persona.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MAYO DE 2021)</small>
-
-### CAPÍTULO VII. PEDERASTIA
-
-> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
-
-###### Artículo 295 Quáter.
-
-Comete el delito de Pederastia quien se aproveche de la confianza, subordinación o superioridad que tiene sobre un menor de dieciocho años, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica y ejecute, obligue, induzca o convenza a ejecutar cualquier acto sexual, con o sin su consentimiento. Por lo que se le impondrán de quince a veinte años de prisión y de setecientos cincuenta a dos mil doscientos cincuenta veces la Unidad de Medida y Actualización.
-
-La misma pena se aplicará a quien cometa la conducta descrita del párrafo anterior, en contra de la persona que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
-
-Si el agente hace uso de violencia física, u obliga a la víctima a consumir, o le suministra sin su consentimiento, drogas, estupefacientes, psicotrópicos o cualquier otra sustancia tóxica que imposibilite su defensión de manera total, parcial, momentánea o permanente, las penas se aumentarán en una mitad más.
-
-El autor del delito podrá ser sujeto a tratamiento médico integral el tiempo que se requiera, mismo que no podrá exceder el tiempo que dure la pena de prisión impuesta.
-
-Además de las anteriores penas, el autor del delito perderá, en su caso, la patria potestad, la tutela, la curatela, la adopción, el derecho de alimentos y el derecho que pudiera tener respecto de los bienes de la víctima, en términos de la legislación civil.
-
-Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de la pena de prisión antes señalada, será inhabilitado, destituido o suspendido, de su empleo público o profesión por un término igual a la pena impuesta.
-
-## TÍTULO DÉCIMO. PROCREACIÓN ASISTIDA, INSEMINACIÓN ARTIFICIAL Y MANIPULACIÓN GENÉTICA
-
-### CAPÍTULO I. PROCREACIÓN ASISTIDA E INSEMINACIÓN ARTIFICIAL
-
-###### Artículo 296.
-
-A quien disponga de óvulos o esperma para fines distintos a los autorizados por sus donantes, se le impondrá de tres a seis años de prisión y multa de doscientos dieciséis a cuatrocientos treinta y dos días de salario.
-
-###### Artículo 297.
-
-A quien sin consentimiento de una mujer mayor de dieciocho años o aún con el consentimiento de una menor de edad o de quién no tenga la capacidad para comprender el significado del hecho o para resistirlo, realice en ella inseminación artificial, se le impondrán de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos días de salario.
-
-###### Artículo 298.
-
-Se impondrá de cuatro a siete años de prisión y multa de doscientos ochenta y ocho a quinientos cuatro días de salario, a quien implante a una mujer un óvulo fecundado, cuando hubiere utilizado para ello un óvulo o esperma de donante no autorizado, sin el consentimiento expreso de la paciente o del donante o con el consentimiento de menor de edad o de incapaz para comprender el significado del hecho o para resistirlo.
-
-Si del delito resulta un embarazo, la pena aplicable será de cinco a catorce años de prisión y multa de trescientos sesenta a mil ocho días de salario.
-
-###### Artículo 299.
-
-Además de las penas previstas, se impondrá suspensión para ejercer la profesión y, en caso de servidores públicos, además inhabilitación para el desempeño del empleo, cargo o comisión públicos, por un tiempo igual al de la pena de prisión impuesta, así como la destitución del empleo, cargo o comisión público.
-
-###### Artículo 300.
-
-Si resultan hijos a consecuencia de la comisión de alguno de los delitos previstos en el presente capítulo, la reparación del daño comprenderá además, el pago de alimentos para éstos, para la madre y el padre, en los términos que fija la legislación familiar, civil y tratados internacionales en su caso.
-
-### CAPÍTULO II. MANIPULACIÓN GENÉTICA
-
-###### Artículo 301.
-
-Se impondrán de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos días de salario, suspensión e inhabilitación por igual término al de la pena de prisión impuesta para desempeñar cargo, empleo o comisión públicos, profesión u oficio, a los que:
-
-I. Con finalidad distinta a la eliminación o disminución de enfermedades graves o taras, manipulen genes humanos de manera que se altere el genotipo;
-
-II. Fecunden óvulos humanos con cualquier fin distinto al de la procreación humana, y
-
-III. Realicen procedimientos de ingeniería genética con fines ilícitos.
-
-## TÍTULO DÉCIMO PRIMERO. DELITOS DE PELIGRO CONTRA LAS PERSONAS
-
-### CAPÍTULO I. PELIGRO DE CONTAGIO
-
-###### Artículo 302.
-
-Al que sabiendo que padece una enfermedad grave en periodo infectante, ponga en peligro de contagio la salud de otro, por cualquier medio transmisible, se le impondrán de tres a cinco años de prisión y multa de doscientos dieciséis a trescientos sesenta días de salario, sin perjuicio de que la autoridad judicial determine su cuidado o vigilancia en un establecimiento adecuado hasta que cese el periodo infectante.
-
-En caso de que se trate de una enfermedad incurable, se le impondrá una pena de tres a diez años de prisión y multa de doscientos dieciséis a setecientos veinte días de salario.
-
-### CAPÍTULO II. OMISIÓN DE CUIDADO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2020)</small>
-
-###### Artículo 303.
-
-Se impondrá de dos a seis años de prisión y multa de setenta y (sic) doscientos cincuenta días de salario, al que abandone, maltrate, abuse, aísle, desaloje o explote a una persona incapaz de valerse por sí misma, enferma, incluyendo a personas adultas mayores y/o con discapacidad, teniendo la obligación de cuidarla y con quien tenga parentesco consanguíneo en línea recta, o colateral hasta el cuarto grado, adoptante o adoptada; independientemente de las penas que correspondan por cualquier otro delito.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE AGOSTO DE 2020)</small>
-
-Si el sujeto activo ejerce la patria potestad o tutela del pasivo, se le sancionará además con la privación del ejercicio de los derechos derivados de la patria potestad o de la tutela, subsistiendo la obligación de proporcionar alimentos al pasivo.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE AGOSTO DE 2020)</small>
-
-Si el sujeto activo fuere descendiente de la víctima, se le privará del derecho de heredar respecto a la persona abandonada.
-
-### CAPÍTULO III. OMISIÓN DE AUXILIO
-
-###### Artículo 304.
-
-Se impondrá de tres a seis meses de prisión y multa de dieciocho a treinta y seis días de salario, al que omita auxiliar a una persona que por cualquier circunstancia, estuviese amenazada de un peligro, cuando pudiera hacerlo sin riesgo alguno o al que no estando en condiciones de llevarlo a cabo no diere inmediato aviso a la autoridad.
-
-### CAPÍTULO IV. OMISIÓN DE AUXILIO A LESIONADOS
-
-###### Artículo 305.
-
-A quien después de lesionar a una persona, culposa o fortuitamente, no le preste auxilio o no solicite la asistencia que requiere pudiendo hacerlo, se le impondrá de tres a seis meses de prisión y multa de dieciocho a treinta y seis días de salario.
-
-### CAPÍTULO V. EXPOSICIÓN DE INCAPACES O MENORES DE EDAD
-
-###### Artículo 306.
-
-Al que exponga en una institución o ante cualquier otra persona a un incapaz de valerse por sí mismo, respecto del cual tenga la obligación de cuidar o se encuentre legalmente a su cargo, se le impondrá de tres meses a un año de prisión y multa de dieciocho a setenta y dos días de salario.
-
-###### Artículo 307.
-
-Los ascendientes o tutores que entreguen en una casa de expósitos a un menor de doce años o incapaz de valerse por sí mismo que esté bajo su potestad o custodia, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
-
-###### Artículo 308.
-
-No se impondrá pena alguna a los padres que entreguen a su hijo o hijos a otras personas para su cuidado, manutención y educación por ignorancia, extrema pobreza o por otras razones que así lo justifiquen.
-
-## TÍTULO DÉCIMO SEGUNDO. DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO
-
-### CAPÍTULO ÚNICO. NARCOMENUDEO
-
-###### Artículo 309.
-
-Para los efectos de este capítulo, son punibles las conductas que se relacionan con los estupefacientes, psicotrópicos y demás sustancias previstos en el Capítulo VII del Título Octavo de la Ley General de Salud y que se cometan en el territorio del Estado en su modalidad de narcomenudeo, con las penas, procedimientos, supuestos y parámetros establecidos en los artículos del 473 a 482 del referido ordenamiento legal federal y no existan elementos suficientes para presumir delincuencia organizada.
-
-## TÍTULO DÉCIMO TERCERO. DELITOS CONTRA LA SEGURIDAD DE LA COMUNIDAD
-
-### CAPÍTULO I. CONTRA LA SEGURIDAD DE LA COMUNIDAD
-
-###### Artículo 310.
-
-Comete el delito contra la seguridad de la comunidad, quien sin causa justificada:
-
-I. Posea o porte en su persona, en su domicilio, propiedades, en el automotor en el que se encuentre o se le relacione con éste, en su negocio o en el lugar donde se le prive de su libertad personal, uno o más aparatos o equipos de comunicación de cualquier tipo y se utilicen con fines ilícitos, que hubieren sido contratados con documentación falsa, alterada o con cualquier otro medio ilícito, o de terceros sin su conocimiento o utilizados sin la autorización de éstos o que por su origen, a la autoridad le resulte imposible conocer la identidad real del usuario del aparato o equipo de comunicación;
-
-II. Posea o porte en su persona, en su domicilio, propiedades, en el automotor en que se encuentre o se le relacione con éste o en el lugar dónde se le prive de su libertad personal, uno o varios equipos o artefactos que permitan la intervención, escucha o transmisión de datos con respecto a canales de comunicación oficiales o de comunicaciones privadas sin la autorización de quien pueda otorgarla;
-
-III. Posea, se desplace o se le relacione con las anteriores actividades, en su domicilio o en el lugar donde se le prive de su libertad personal, uno o varios automotores robados o cuya propiedad se pretenda acreditar con documentación falsa o alterada o con cualquier otro medio ilícito;
-
-IV. Posea o porte en su persona, en su domicilio, propiedades o en el automotor en que se encuentre o se le relacione con éste o en el lugar donde se le prive de su libertad personal, una o varias identificaciones alteradas o apócrifas que contengan datos falsos;
-
-V. Adquiera, tenga calidad de arrendatario o use uno o varios inmuebles con fines ilícitos, cuando para contratarlos hubiere presentado identificación alterada o falsa o utilice la identidad de otra persona real o inexistente;
-
-VI. Posea o porte, en su persona o en su domicilio, propiedades o en el automotor en que se encuentre o se le relacione con éste o en el lugar donde se le prive de su libertad personal, uno o más de los siguientes objetos: Prendas de vestir, insignias, distintivos, equipos o condecoraciones correspondientes a instituciones policiales o militares de cualquier índole o que simulen la apariencia de los oficiales;
-
-VII. Posea o porte en su persona o en su domicilio, propiedades o en el automotor en que se encuentre o de cualquier manera se le vincule con éste o en el lugar donde se le prive de su libertad personal, documentos, uno o varios escritos o mensajes elaborados por cualquier medio que tenga relación, conforme a las reglas de participación con grupos o actividades delictivas, y
-
-VIII. Posea o porte en su persona o en su domicilio o en el automotor en que se encuentre o de cualquier manera se le relacione con éste o en el lugar donde se le prive de su libertad personal, uno o varios accesorios u objetos que porten los automotores oficiales de instituciones policiales, de tránsito, militares de cualquier índole o utilicen los colores, insignias, diseño o logotipos para igualar la apariencia de los oficiales.
-
-Al responsable del delito contra la seguridad de la comunidad, se le impondrán de seis a quince años de prisión y multa de cuatrocientos treinta y dos a mil ochenta días de salario.
-
-Las anteriores penas se aumentarán hasta en una mitad, cuando en la ejecución del delito se utilice uno o varios menores de edad o cuando el sujeto activo sea un servidor público vinculado a la seguridad pública, al ejército o a la armada o haya tenido tal carácter en los cinco años anteriores a la ejecución de la conducta típica o haya utilizado vehículos automotores con vidrios polarizados.
-
-### CAPÍTULO II. PORTACIÓN, FABRICACIÓN E IMPORTACIÓN DE OBJETOS APTOS PARA AGREDIR
-
-###### Artículo 311.
-
-A quien porte, fabrique, importe o acopie sin un fin lícito instrumentos que puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales o recreativas, atendiendo a las referencias de tiempo, modo y lugar, se le impondrá prisión de tres meses a tres años o multa de dieciocho a doscientos dieciséis días de salario.
-
-Los servidores públicos podrán portar las armas necesarias para el ejercicio de su cargo, sujetándose a la reglamentación de las leyes respectivas.
-
-### CAPÍTULO III. PANDILLA Y ASOCIACIÓN DELICTUOSA
-
-###### Artículo 312.
-
-Cuando se cometa algún delito por pandilla, se impondrá una mitad más de las penas que correspondan por el o los delitos cometidos, a los que intervengan en su comisión.
-
-###### Artículo 313.
-
-Se entiende que hay pandilla, cuando el delito se comete en común por tres o más personas, que se reúnen ocasional o habitualmente, sin estar organizados con fines delictuosos.
-
-Cuando el miembro de la pandilla sea o haya sido servidor público de alguna corporación policíaca, se aumentará en dos terceras partes de las penas que le corresponda por el o los delitos cometidos y se impondrá además, destitución del empleo, cargo o comisión e inhabilitación de uno a cinco años para desempeñar otro.
-
-###### Artículo 314.
-
-Se impondrá prisión de cuatro a ocho años y multa de doscientos ochenta y ocho a quinientos setenta y seis días de salario al que forme parte de una asociación o banda de tres o más personas con el propósito de delinquir.
-
-###### Artículo 315.
-
-Si el miembro de la asociación delictuosa es o ha sido servidor público o autoridad encargada de la función de seguridad pública, de conformidad con lo previsto en la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, o miembro de una empresa de seguridad privada, y por virtud del ejercicio de las funciones a él encomendadas se facilitó la comisión del o los ilícitos a que se refieren los artículos anteriores, las penas se aumentarán en una mitad y se impondrá además, en su caso, la destitución del empleo, cargo o comisión e inhabilitación por un tiempo igual al señalado como prisión para desempeñar otro, en cuyo caso se computará a partir de que se haya cumplido con la pena.
-
-Cuando los miembros de una pandilla o asociación delictuosa utilicen para delinquir a menores de edad o incapaces, las penas a que se refieren los artículos anteriores se aumentarán en una cuarta parte.
-
-Se presumirá que existe asociación delictuosa cuando las mismas tres o más personas tengan alguna forma de autoría o participación conjunta en dos o más delitos.
-
-## TÍTULO DÉCIMO CUARTO. DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMÁTICOS
-
-### CAPÍTULO ÚNICO. CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMÁTICOS
-
-###### Artículo 316.
-
-Se aplicará prisión de tres meses a tres años y multa de dieciocho a doscientos dieciséis días de salario, a quien:
-
-I. Sin autorización para acceder a un sistema informático y con perjuicio de otro, conozca, copie, imprima, use, revele, transmita o se apodere de datos o información reservados, contenidos en el mismo, o
-
-II. Con autorización para acceder a un sistema informático y con perjuicio de otro, obtenga, sustraiga, divulgue o se apropie de datos o información reservados en él contenidos.
-
-Si la conducta que en uno u otro caso se realice es con el ánimo de alterar, dañar, borrar, destruir o de cualquier otra manera provocar la pérdida de datos o información contenidos en el sistema, la sanción será de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos días de salario.
-
-###### Artículo 317.
-
-Las penas previstas en el artículo anterior, se incrementarán en una mitad más:
-
-I. Si el sujeto activo actuó con fines de lucro, o
-
-II. Si el sujeto activo accedió al sistema informático valiéndose de información privilegiada que le fue confiada en razón de su empleo o cargo, o como responsable de su custodia, seguridad o mantenimiento.
-
-###### Artículo 318.
-
-Se aplicará prisión de seis meses a seis años y multa de treinta y seis a cuatrocientos treinta y dos días de salario, al que:
-
-I. Sin autorización, acceda, por cualquier medio a un sistema informático, de una entidad pública, para conocer, copiar, imprimir, usar, revelar, transmitir o apropiarse de sus datos o información propios o relacionados con la institución, o
-
-II. Con autorización para acceder al sistema informático de una entidad pública indebidamente copie, transmita, imprima, obtenga, sustraiga, utilice divulgue o se apropie de datos o información propios o relacionados con la institución.
-
-Si la conducta que en uno u otro caso se realiza, tiene la intención dolosa de alterar, dañar, borrar, destruir, o de cualquier otra forma provocar la pérdida de los datos o información contenidos en el sistema informático de la entidad pública, la sanción será de tres a ocho años de prisión y multa de doscientos dieciséis a quinientos sesenta y seis días de salario.
-
-Si el sujeto activo del delito es servidor público, se le sancionará, además, con la destitución del empleo, cargo o comisión e inhabilitación para ejercer otro hasta por seis años.
-
-###### Artículo 319.
-
-Las penas previstas en el artículo anterior se incrementarán en una mitad más:
-
-I. Si el sujeto activo obró valiéndose de alguna de las hipótesis previstas en el artículo 317 de este código;
-
-II. Si el hecho constitutivo de delito fue cometido contra un dato o sistemas informáticos concernientes al régimen financiero de las entidades públicas o por funcionarios o empleados que estén a su servicio, y
-
-III. Si la conducta afectó un sistema o dato referente a la salud, administración de justicia, procuración de justicia, seguridad pública o a la prestación de cualquier otro servicio público.
-
-###### Artículo 320.
-
-Para los fines del presente capítulo, se entiende por:
-
-I. Sistema informático: todo dispositivo o grupo de elementos relacionados que, conforme o no a un programa, realiza el tratamiento automatizado de datos para generar, enviar, recibir, recuperar, procesar o almacenar información de cualquier forma o por cualquier medio, y
-
-II. Dato informático o información: toda representación de hechos, manifestaciones o conceptos, contenidos en un formato que puede ser tratado por un sistema informático.
-
-## TÍTULO DÉCIMO QUINTO. DELITOS CONTRA EL PATRIMONIO
-
-### CAPÍTULO I. ROBO
-
-###### Artículo 321.
-
-Comete el delito de robo el que sin consentimiento de quien legalmente pueda otorgarlo, se apodere de una cosa mueble ajena.
-
-###### Artículo 322.
-
-Se tendrá por consumado el robo desde el momento en que el sujeto activo tiene en su poder la cosa, aun cuando después la abandone o lo desapoderen de ella.
-
-###### Artículo 323.
-
-A quien cometa el delito de robo, se le impondrán las siguientes sanciones:
-
-I. De seis meses a dos años de prisión y multa de treinta y seis a ciento cuarenta y cuatro días de salario, cuando el valor de lo robado no exceda de veinticinco veces el salario mínimo;
-
-II. De uno a cuatro años de prisión y multa de setenta y dos a doscientos ochenta y ocho días de salario, cuando el valor de lo robado exceda de veinticinco pero no de noventa veces el salario mínimo;
-
-III. De dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos días de salario, cuando el valor de lo robado exceda de noventa pero no de seiscientas veces el salario mínimo;
-
-IV. De cuatro a ocho años de prisión y multa de doscientos ochenta y ocho a quinientos setenta y seis días de salario, cuando el valor de lo robado exceda de seiscientas pero no de tres mil quinientas veces el salario mínimo, y
-
-V. De seis a doce años de prisión y multa de cuatrocientos treinta y dos a ochocientos sesenta y cuatro días de salario, cuando el valor de lo robado exceda de tres mil quinientas veces el salario mínimo.
-
-###### Artículo 324.
-
-Para estimar la cuantía del robo se atenderá al valor comercial de la cosa robada al momento del apoderamiento, pero si por alguna circunstancia no fuera estimable en dinero o si por su naturaleza no fuera posible fijar su valor, se aplicarán de seis meses a cinco años de prisión y multa de treinta y seis a trescientos sesenta días de salario;
-
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2015)</small>
-
-###### Artículo 324 Bis.
-
-Además de las penas que correspondan conforme al artículo 323 de este Código, se impondrán de seis meses a tres años de prisión y multa de treinta y seis a ciento cuarenta días de salario mínimo vigente en la región, cuando el robo se cometa por medio de vales o cualquier dispositivo en forma de tarjeta plástica, que tenga como finalidad usarse para el canje de dinero en efectivo, bienes o servicios.
-
-###### Artículo 325.
-
-En los casos de tentativa de robo, cuando no fuera posible determinar el monto, la sanción será de seis meses a un año de prisión o multa de treinta y seis a ciento cuarenta y cuatro días de salario.
-
-###### Artículo 326.
-
-Se impondrán las mismas sanciones previstas en el artículo anterior, a quien sin consentimiento de la persona que legalmente pueda otorgarlo, aproveche energía eléctrica o cualquier otro fluido.
-
-###### Artículo 327.
-
-A quien se apodere de una cosa ajena sin consentimiento de quien legalmente pueda otorgarlo y acredite que dicho apoderamiento se ha realizado con ánimo de uso y no de dominio, se le impondrá de seis meses a dos años de prisión o multa de treinta y seis a ciento cuarenta y cuatro días de salario.
-
-Como reparación del daño, pagará a la víctima u ofendido el doble del alquiler, arrendamiento o interés de la cosa usada, conforme a los valores de mercado.
-
-###### Artículo 328.
-
-Las sanciones señaladas en el artículo 323 de este código se aumentarán de tres a diez años de prisión y multa de doscientos dieciséis a setecientos veinte días de salario, cuando el robo se cometa:
-
-I. Con violencia contra la víctima o persona distinta que se halle en compañía de ella o cuando el sujeto activo la ejerza después de consumado el robo para proporcionarse la fuga o defender lo robado o mediante la portación o el uso de armas;
-
-II. En lugar cerrado, en edificio, vivienda, aposento o cuartos que estén habitados o destinados para habitación, comprendiendo no sólo los que están fijos en la tierra, sino también los móviles sea cual fuere el material del que estén construidos;
-
-III. Cuando se cometa, estando la víctima en un vehículo particular o de transporte público;
-
-IV. Aprovechando la consternación que una desgracia privada cause a la víctima o a su familia o las condiciones de confusión que se produzcan por catástrofe o desorden público;
-
-V. Valiéndose de identificaciones falsas o supuestas órdenes provenientes de alguna autoridad;
-
-VI. En contra de una oficina bancaria, recaudatoria u otra en que se conserven caudales o en contra de las personas que los custodien, manejen o transporten o en local comercial abierto al público;
-
-VII. Tratándose de expedientes o de documentos de protocolo, oficina o archivos públicos; de documentos que contengan obligación o liberación o transmisión de deberes que obren en expediente judicial con afectación de alguna función pública;
-
-VIII. Respecto de vehículos automotores o partes de éstos;
-
-IX. Respecto de objetos que se encuentran en el interior de los vehículos automotores cuando el valor de lo robado exceda de noventa días de salario mínimo, y
-
-X. Recaiga sobre bienes de instituciones educativas, culturales o científicas.
-
-###### Artículo 329.
-
-Además de las sanciones que correspondan conforme a los artículos anteriores, se impondrán de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario, en los siguientes casos:
-
-I. Cuando lo cometa un dependiente o un empleado doméstico contra su patrón o algún miembro de la familia de éste en cualquier parte que lo cometa;
-
-II. Cuando un huésped o comensal o alguno de su familia o de los empleados domésticos que lo acompañen, lo cometa en la casa donde reciban hospedaje, acogida o agasajo;
-
-III. Cuando lo cometa el anfitrión o alguno de sus familiares en la casa del primero, contra su huésped o empleados domésticos o contra cualquier otro invitado o acompañante de éste;
-
-IV. Cuando lo cometan los trabajadores encargados de empresas o establecimientos comerciales en los lugares en que presten sus servicios al público o en los bienes de los huéspedes o clientes;
-
-V. Cuando se cometa por los obreros, artesanos o discípulos, en la casa, taller o escuela en que habitualmente trabajen o en la habitación, oficina, bodega u otros sitios a los que tengan libre entrada por el carácter indicado;
-
-VI. Cuando el robo se efectúe por dos o más personas, y
-
-VII. Cuando en el robo se utilice a menores de edad.
-
-###### Artículo 330.
-
-Se impondrán de seis a doce años de prisión y multa de cuatrocientos treinta y dos a ochocientos sesenta y cuatro días de salario a quien aun sin haber intervenido en el robo de uno o más vehículos automotores, y que realice una o más de las siguientes conductas:
-
-I. Desmantele uno o más vehículos automotores que posea ilegalmente o comercialice conjunta o separadamente sus partes o las utilice en otros vehículos sin que acredite la legítima procedencia de éstas, o las adquiera, detente, posea, custodie, enajene o transmita de cualquier manera a sabiendas de su origen ilícito;
-
-II. Enajene, trafique, permute o realice cualquier transacción del traslado de dominio de uno o más vehículos automotores a sabiendas de su procedencia ilícita;
-
-III. Altere, modifique, elabore o reproduzca, de cualquier manera, la documentación que acredite la propiedad o los datos de identificación o la documentación que acredite el pago de la tenencia, de uno o más vehículos automotores, sin la autorización de la autoridad competente para hacerlo;
-
-IV. Detente, posea o custodie instrumentos para la alteración, modificación, elaboración o reproducción, de documentación que acredite la propiedad o los datos de identificación o la documentación que acredite el pago de las contribuciones de un vehículo automotor, o bien, elabore o posea documentación y elementos de identificación falsos, de uno o más vehículos automotores, con el propósito de su comercialización ilícita;
-
-V. Detente, posea, custodie, traslade o adquiera uno o más vehículos automotores con conocimiento de que son de procedencia ilícita o que, por su forma de adquisición, se advierta su origen ilegal;
-
-VI. Detente o posea algún vehículo que haya sido robado, salvo adquisición de buena fe, y
-
-VII. Utilice uno o más vehículos automotores robados en la comisión de otro u otros delitos dolosos.
-
-Se aumentará hasta en una mitad de la pena de prisión impuesta, si quien comete las conductas mencionadas en las fracciones anteriores, es servidor público con funciones de prevención, persecución, sanción del delito o ejecución de penas, y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos hasta por un periodo igual al de la pena privativa de libertad impuesta.
-
-Se aplicará la mitad de las penas que correspondan, a quien de acuerdo con las circunstancias en que adquiera o reciba, debió suponer la procedencia ilegítima de los vehículos.
-
-### CAPÍTULO II. ROBO DE GANADO
-
-###### Artículo 331.
-
-Comete el delito de robo de ganado quien se apodera de una o más cabezas de ganado, ajeno total o parcialmente, sin derecho y sin consentimiento de quien legalmente puede disponer de aquéllas.
-
-###### Artículo 332.
-
-El robo de ganado vacuno, caballar o mular se sancionará conforme a las siguientes reglas:
-
-I. Si fuera una cabeza, se aplicará prisión de dos a cinco años y multa de ciento cuarenta y cuatro a trescientos sesenta días de salario;
-
-II. Si excediera de una pero no de diez cabezas, se aplicará prisión de cuatro a nueve años y multa de doscientos ochenta y ocho a seiscientos cuarenta y ocho días de salario, y
-
-III. Cuando el número de cabezas fuera mayor de diez, se aplicará prisión de seis a quince años y multa de cuatrocientos treinta y dos a mil ochenta días de salario.
-
-###### Artículo 333.
-
-El robo de ganado asnal, ovino, caprino o porcino, se sancionará conforme a las siguientes reglas:
-
-I. Si fueran de una a diez cabezas, se aplicará prisión de uno a cinco años y multa de setenta y dos a trescientos sesenta días de salario, y
-
-II. Si excedieran de diez cabezas, se aplicará prisión de tres a ocho años y multa de doscientos dieciséis a quinientos setenta y seis días de salario.
-
-###### Artículo 334.
-
-Las mismas sanciones a que se refieren los artículos anteriores, se aplicarán a quienes realicen conductas consistentes en:
-
-I. Herrar, modificar o destruir los fierros, marcas o señales que sirvan para identificar la propiedad de semovientes, sin el consentimiento de quien deba otorgarlo;
-
-II. Transportar dolosamente ganado robado;
-
-III. Expedir certificados falsos para obtener guías, simulando ventas, o los utilice o haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello o haga uso de certificados para cualquier negociación sobre ganado o pieles ajenas;
-
-IV. Extraer los dispositivos electrónicos de identificación, y
-
-V. Al que se apodere de una o más cabezas de ganado propio que se halle en poder de otro, en virtud de una relación contractual o por mandato de autoridad.
-
-> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 28 DE NOVIEMBRE DE 2014, PÁGINA 2.</small>
-
-> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-VI. A quien sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, compre, venda, cambie o transporte ganado robado, carne o pieles u otros derivados de igual procedencia productos del robo de ganado, y
-
-> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 28 DE NOVIEMBRE DE 2014, PÁGINA 2.</small>
-
-> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-VII. A las autoridades que intervengan en la indebida legalización de documentos u operaciones conociendo la ilegitima procedencia del ganado.
-
-Iguales sanciones se aplicarán:
-
-I. A quien sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, compre, venda, cambie o transporte ganado robado, carne o pieles u otros derivados de igual procedencia productos del robo de ganado, y
-
-II. A las autoridades que intervengan en la indebida legalización de documentos u operaciones conociendo la ilegítima procedencia del ganado.
-
-### CAPÍTULO III. ABUSO DE CONFIANZA
-
-###### Artículo 335.
-
-Comete el delito de abuso de confianza quien, con perjuicio de alguien, disponga para sí o para otro, de cualquier cosa mueble ajena, de la que se le haya transmitido la tenencia pero no el dominio; y se le impondrán las siguientes sanciones:
-
-I. Prisión de tres meses a un año y multa de dieciocho a setenta y dos días de salario, cuando el monto de lo dispuesto no exceda de doscientas veces el salario mínimo;
-
-II. Prisión de uno a seis años y multa de setenta y dos a cuatrocientos treinta y dos días de salario, si el monto excede de doscientos pero no de dos mil veces el salario mínimo, y
-
-III. Prisión de seis a doce años y multa de cuatrocientos treinta y dos a ochocientos sesenta y cuatro días de salario, si el monto es mayor de dos mil veces el salario.
-
-###### Artículo 336.
-
-Además de las penas señaladas en el artículo anterior, se aumentarán en una tercera parte a quién:
-
-I. Disponga o sustraiga una cosa de su propiedad, si le ha sido embargada y la tiene en su poder con el carácter de depositario judicial o bien si la hubiere dado en prenda y la conserve, en su poder como depositario sujeto a un contrato celebrado con alguna persona física o moral en perjuicio de ésta;
-
-II. Teniendo el carácter de depositario judicial, disponga o sustraiga para sí o para otro, la cosa objeto del depósito, y
-
-III. Se le haya dado la cosa en guarda y custodia y no la devuelve a pesar de ser requerido formalmente por quien tiene derecho o no la entregue a la autoridad para que ésta disponga de la misma conforme a la ley.
-
-###### Artículo 337.
-
-Se impondrán de dos a ocho años de prisión y multa de ciento cuarenta y cuatro a quinientos setenta y seis días de salario, a quien disponga indebidamente o se niegue sin justificación a entregar un vehículo recibido en depósito de autoridad competente o, bien, éste se encuentre relacionado con delitos por tránsito de vehículos, habiendo sido requerido por autoridad que conozca o siga conociendo del caso.
-
-### CAPÍTULO IV. FRAUDE
-
-###### Artículo 338.
-
-A quien por medio del engaño o aprovechando el error en que otro se halle, se haga ilícitamente de alguna cosa u obtenga un lucro indebido en beneficio propio o de un tercero, se le impondrán:
-
-I. De seis meses a dos años de prisión y multa de treinta y seis a ciento cuarenta y cuatro días de salario, cuando el valor de lo defraudado no exceda de quince veces el salario mínimo;
-
-II. De uno a cuatro años de prisión y multa de setenta y dos a doscientos ochenta y ocho días de salario, cuando el valor de lo defraudado exceda de quince, pero no de noventa veces el salario mínimo;
-
-III. De dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos días de salario, cuando el valor de lo defraudado exceda de noventa, pero no de seiscientas veces el salario mínimo;
-
-IV. De cuatro a ocho años de prisión y multa de doscientos ochenta y ocho a quinientos setenta y seis días de salario, cuando el valor de lo defraudado exceda de seiscientos, pero no de tres mil quinientas veces el salario mínimo, y
-
-V. De seis a doce años de prisión y multa de cuatrocientos treinta dos a ochocientos sesenta y cuatro días de salario, cuando el valor de lo defraudado exceda de tres mil quinientas veces el salario mínimo.
-
-> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2016)</small>
-
-VI. De seis a diez años de prisión y multa de mil noventa y cinco a tres mil seiscientos cincuenta días de salario mínimo vigente en la región. Cuando se esté ante el supuesto establecido por la fracción XIV del artículo 339 de este código. Las autoridades tendrán la obligación de realizar las inspecciones periódicas a establecimientos de esta naturaleza en el ámbito de su competencia.
-
-Cuando el delito se cometa en contra de dos o más personas, se impondrán, además, las dos terceras partes de las sanciones previstas en las fracciones anteriores.
-
-###### Artículo 339.
-
-Se impondrán las sanciones previstas en el artículo anterior, a quien:
-
-I. Por título oneroso enajene alguna cosa de la que no tiene derecho a disponer o la arriende, hipoteque, empeñe o grave de cualquier otro modo, si ha recibido el precio, el alquiler, la cantidad en que la gravó, parte de ellos o un lucro equivalente;
-
-II. Obtenga de otro una cantidad de dinero o cualquier otro lucro, como consecuencia directa e inmediata del otorgamiento o endoso a nombre propio o de otro, de un documento nominativo, a la orden o al portador, contra una persona supuesta o que el otorgante o endosante sabe que no ha de pagarlo;
-
-III. Venda a dos personas una misma cosa, sea mueble o inmueble, y reciba el precio de la primera, de la segunda enajenación o de ambas, o parte de él, o cualquier otro lucro, con perjuicio del primero o del segundo comprador;
-
-IV. Al que se haga servir alguna cosa o admita un servicio en cualquier establecimiento comercial y no pague el importe;
-
-V. En carácter de fabricante, comerciante, empresario, contratista o constructor de una obra, suministre o emplee en ésta materiales o realice construcciones de calidad o cantidad inferior a las convenidas, o mano de obra inferior a la estipulada, si ha recibido el precio convenido o parte de él;
-
-VI. Como intermediarios en operaciones de traslación de dominio de bienes inmuebles o de gravámenes reales sobre éstos que obtengan dinero, títulos o valores por el importe de su precio a cuenta de él o para constituir ese gravamen, si no los destinaren al objeto de la operación concertada por su disposición en provecho propio o de otro.
-
-Para los efectos de este delito se entenderá que un intermediario no ha dado su destino o ha dispuesto del dinero, títulos o valores obtenidos por el importe del precio o a cuenta del inmueble objeto de la traslación de dominio o del gravamen real, si no realiza su depósito en cualquier institución facultada para ello dentro de los treinta días siguientes a su recepción en favor de su propietario o poseedor, a menos que lo hubiese entregado dentro de ese término al vendedor o al deudor del gravamen real o devuelto al comprador o al acreedor del mismo gravamen.
-
-El depósito se entregará por la institución de que se trate a su propietario o al comprador;
-
-VII. Por sí, o por interpósita persona, sin el previo permiso de las autoridades administrativas competentes o sin satisfacer los requisitos señalados en el permiso obtenido, fraccione o divida en lotes un terreno urbano o rústico, con o sin construcciones, propio o ajeno y transfiera o prometa transferir la propiedad, la posesión o cualquier otro derecho sobre alguno de esos lotes;
-
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2015)</small>
-
-VIII. Venda, intercambie o haga efectivos vales o cualquier dispositivo en forma de tarjeta plástica, que tenga como finalidad usarse para el canje de dinero en efectivo, bienes o servicios, con conocimiento de que son falsos;
-
-IX. Al que por sorteos, rifas, loterías, promesas de venta o por cualquier otro medio, se quede con todo o parte de las cantidades respectivas, sin entregar la mercancía u objeto ofrecidos;
-
-X. Al que obtenga un lucro mediante la explotación de la superstición o la ignorancia de una persona por medio de supuesta evocación de espíritus, supuestas adivinaciones o supuestas curaciones;
-
-XI. Al que venda o traspase una negociación sin dar aviso fehaciente a sus acreedores y sin que el nuevo adquiriente se comprometa a responder de los créditos. Cuando la enajenación sea hecha por una persona moral, serán penalmente responsables los que autoricen aquella y los directivos, administradores o mandatarios que la efectúen;
-
-XII. Al que libre un cheque dentro del territorio del Estado, de cuenta bancaria y que sea rechazado por la institución librada, en los términos de la legislación aplicable, por no tener el librador cuenta en la institución respectiva o por carecer éste de fondos suficientes para el pago, o que valiéndose de cualquier medio evite su pago.
-
-No se procederá contra el librador cuando el libramiento hubiese tenido como fin el cubrir una deuda contraída con anterioridad, y
-
-XIII. Al que reciba mercancía a crédito y suscriba por ella cualquier título de crédito, siempre y cuando haya dispuesto de tal mercancía en todo o en parte.
-
-Si el responsable regresa la mercancía, en las condiciones que la haya recibido dentro de los quince días siguientes al vencimiento de la fecha para el cumplimiento de la obligación, sólo se le impondrá multa hasta de trescientos días de salario mínimo vigente en la región.
-
-> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2016)</small>
-
-XIV. El que altere por cualquier medio los medidores de algún fluido o las indicaciones registradas en esos aparatos para aprovecharse indebidamente de ellos en perjuicio del proveedor o consumidor, igual sanción se aplicará a quien ordene la alteración.
-
-###### Artículo 340.
-
-Se equipara al delito de fraude y se sancionará con prisión de dos a ocho años y multa de ciento cuarenta y cuatro a quinientos setenta y seis días de salario, al que valiéndose del cargo que ocupe como servidor público o en cualquiera agrupación de carácter sindical, social, o de sus relaciones con funcionarios o dirigentes de dichos organismos, obtenga dinero, valores, dádivas, obsequios o cualquier otro beneficio, a cambio de prometer o proporcionar un trabajo, un ascenso o aumento de salario en los mismos.
-
-###### Artículo 341.
-
-Al que alcance un lucro indebido para sí o para otro, valiéndose de alguna manipulación informática, alteración de programas sistematizados, del empleo no autorizado de datos o artificio semejante, se le impondrá prisión de tres meses a tres años y multa de dieciocho a doscientos dieciséis días de salario
-
-### CAPÍTULO V. ADMINISTRACIÓN FRAUDULENTA
-
-###### Artículo 342.
-
-A quien por cualquier motivo, teniendo a su cargo la administración, de hecho o de derecho, de bienes de ajenos, con ánimo de lucro, perjudique al titular de éstos, alterando las cuentas o condiciones de los contratos, haciendo aparecer operaciones o gastos inexistentes o exagerando los reales, ocultando o reteniendo valores o empleándolos indebidamente, o a sabiendas, realice operaciones perjudiciales al patrimonio del titular en beneficio propio o de un tercero, se le impondrán las penas previstas para el delito de fraude.
-
-### CAPÍTULO VI. INSOLVENCIA FRAUDULENTA EN PERJUICIO DE ACREEDORES
-
-###### Artículo 343.
-
-A quien se coloque en estado de insolvencia, con el objeto de eludir las obligaciones a su cargo con respecto a sus acreedores, se le impondrán de seis meses a cuatro años de prisión y multa de treinta y seis a doscientos ochenta y ocho días de salario.
-
-### CAPÍTULO VII. USURA
-
-###### Artículo 344.
-
-Al que obtenga de otra persona ventajas usurarias por medio de contratos o convenios, en los cuales se estipulen réditos o lucros superiores a los usuales en el mercado y que excedan del sesenta por ciento del valor real que el sujeto pasivo haya recibido con motivo de la transacción de la que derive la ganancia, o pretenda hacer o haga efectivos dichos instrumentos; se le impondrán de uno a nueve años de prisión y multa de setenta y de dos a seiscientos cuarenta y ocho días de salario.
-
-###### Artículo 345.
-
-Además de las penas anteriores, la prisión se aumentará de seis meses a cuatro años y multa de treinta y seis a doscientos ochenta y ocho días de salario:
-
-I. A quien pretenda hacer o haga efectivos los instrumentos a que se refiere el artículo anterior, alterados o no;
-
-II. A quien realice en forma permanente o por más de tres veces cualesquiera de las transacciones descritas y omita consignarlas en registros contables, y
-
-III. A quien disimule o encubra el interés o lucro mediante títulos de crédito o cualquier otro documento, si no media otra causa que justifique su existencia.
-
-Para los efectos de los artículos que anteceden se entenderá que las comisiones, réditos y lucros son usurarios si su importe global, anualizado, excede de sesenta por ciento del valor real que el sujeto pasivo haya recibido con motivo de la transacción de la que derive la ganancia. Para valorar este porcentaje se aplicará, en su caso, la legislación supletoria que corresponda.
-
-### CAPÍTULO VIII. DESPOJO
-
-###### Artículo 346.
-
-Se impondrá de tres meses a cinco años de prisión y multa de dieciocho a trescientos sesenta días de salario, a quien por medio de la violencia sobre las personas o sin el consentimiento de quien legalmente pueda otorgarlo o por engaño:
-
-I. Ocupe un inmueble ajeno o haga uso de él o de un derecho real que no le pertenezca;
-
-II. Ocupe un inmueble de su propiedad, en los casos que la ley no le permita por hallarse en poder de otras personas o ejerza actos de dominio que lesionen derechos legítimos del ocupante, y
-
-III. Al que en términos de las fracciones anteriores, distraiga sin derecho el curso de las aguas.
-
-Se impondrán de seis a doce años de prisión y multa de cuatrocientos treinta y dos a ochocientos sesenta y cuatro días de salario, a los autores intelectuales, a quienes dirijan la invasión y a quienes instiguen a la ocupación de la cosa, cuando el despojo se realice por dos o más personas. Si al realizarse el despojo se cometen otros delitos, aún sin la participación física de los autores intelectuales, de quienes dirijan la invasión e instigadores, se considerará a éstos, imputados de los delitos cometidos.
-
-###### Artículo 347.
-
-Las anteriores penas serán aplicables aunque el derecho a la posesión sea dudoso o esté sujeto a litigio.
-
-### CAPÍTULO X. DAÑOS
-
-###### Artículo 348.
-
-A quien destruya o deteriore una cosa ajena o una propia en perjuicio de otro, se le impondrán las siguientes penas:
-
-I. Multa de dieciocho a ciento cuarenta y cuatro días de salario, cuando el valor de los daños no exceda de cincuenta veces el salario mínimo;
-
-II. Prisión de seis meses a tres años y multa de treinta y seis a doscientos dieciséis días de salario, cuando el valor de los daños exceda de cincuenta pero no de quinientas veces el salario mínimo;
-
-III. Prisión de tres a seis años y multa de doscientos dieciséis a cuatrocientos treinta y dos días de salario, cuando el valor de los daños exceda de quinientas pero no de cinco mil veces el salario mínimo, y
-
-IV. Prisión de seis a doce años y multa de cuatrocientos treinta y dos a ochocientos sesenta y cuatro días de salario, si el valor de los daños excede de cinco mil salarios mínimos.
-
-Para estimar la cuantía de los daños se atenderá al valor comercial de la cosa dañada, al momento de producirse el hecho, pero si por alguna circunstancia no fuera estimable en dinero o si por su naturaleza no fuera posible fijar su valor, se aplicarán de seis meses a cinco años de prisión y multa de treinta y seis a trescientos sesenta días de salario.
-
-###### Artículo 349.
-
-Se impondrá prisión de cinco a diez años y multa de trescientos sesenta a setecientos veinte días de salario, si la destrucción o el deterioro, se causare por medio de inundación, incendio, bombas o explosivos.
-
-Se impondrá de cinco a diez años de prisión y multa de trescientos sesenta a setecientos veinte días de salario, al que ponga en peligro o cause daños a bienes de valor científico, artístico, cultural, de servicio público, bosques, selvas, pastos o cultivos de cualquier género.
-
-Se impondrá de cinco a diez años de prisión y multa de trescientos sesenta a setecientos veinte días de salario, al que destruya o cause daños a las magueyeras con objeto de obtener cualquier provecho económico; pero si faltara esta circunstancia y las pencas destruidas o dañadas no fuesen más de tres, se impondrá la pena de seis meses a tres años de prisión y multa de treinta y seis a doscientos dieciséis días de salario.
-
-###### Artículo 350.
-
-Si los daños se cometen mediante pintas de signos o grabados, mensajes o dibujos sobre bienes muebles o inmuebles ajenos o propios, que no estén bajo la posesión legal de quien está facultado para otorgarlo conforme a la ley, se aplicarán a su autor las penas del artículo 348 de este código.
-
-Si este delito se comete en bienes de dominio público o que por su valor histórico o arquitectónico se le declaró como parte del acervo cultural del estado o de los municipios, la pena antes señalada se aumentará hasta en una mitad más.
-
-###### Artículo 351.
-
-Las penas señaladas en este capítulo se aumentarán hasta en una mitad más, cuando los daños en los bienes se causen con motivo u ocasión de un espectáculo deportivo, profesional, taurino, artístico u otros similares en que tiene lugar o en sus inmediaciones, antes, durante o después de su desarrollo.
-
-### CAPÍTULO XI. ENCUBRIMIENTO POR RECEPTACIÓN
-
-###### Artículo 352.
-
-Al que con ánimo de lucro, después de la ejecución de un delito y sin haber participado en éste, adquiera, reciba u oculte el producto de aquél a sabiendas de estas circunstancias o al que ayude a otro para los mismos fines se le aplicará de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos días de salario.
-
-###### Artículo 353.
-
-Además de las sanciones que correspondan conforme al artículo anterior, la prisión se aumentará de seis meses a tres años, cuando quien adquiera o reciba la cosa se dedique en forma permanente o habitual a la compraventa de objetos, accesorios, partes o cosas producto del delito.
-
-## TÍTULO DÉCIMO SEXTO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
-
-### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
-
-###### Artículo 354.
-
-A quien por sí o por interpósita persona, adquiera, enajene, administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera, dentro del territorio del Estado, recursos, derechos o bienes de cualquier naturaleza que procedan o representen el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar, encubrir, evitar localizar el destino o propiedad de dichos recursos, derechos o bienes o alentar alguna actividad ilícita, se le impondrán de cinco a quince años de prisión y multa de trescientos sesenta a mil ochenta días de salario.
-
-Las penas previstas en el párrafo anterior serán aumentadas en una mitad cuando el delito se cometa por servidor público; además, se impondrá a dicho servidor público, destitución e inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta.
-
-Para efectos de este artículo se entiende que proceden o representan el producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, sobre los que se acredite su ilegítima procedencia o exista certeza de que provienen directa o indirectamente de la comisión de algún delito o representan las ganancias derivadas de éste.
-
-## TÍTULO DÉCIMO SÉPTIMO. DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD
-
-### CAPÍTULO I
-
-DELITOS CONTRA LA FORMACIÓN DE LAS PERSONAS MENORES DE EDAD Y PROTECCIÓN INTEGRAL DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2018)</small>
-
-###### Artículo 355.
-
-Al que por cualquier medio procure, propicie, posibilite, promueva, induzca o facilite el que una persona menor de edad o quien no tenga la capacidad para comprender el significado del hecho, realice actos de exhibicionismo corporal, lascivos o sexuales, consumo de drogas o enervantes, así como bebidas embriagantes, prácticas sexuales, formar parte de una asociación delictuosa o a cometer hechos que la ley señala como delitos, se le impondrán de dos a ocho años de prisión y multa de ciento cuarenta y cuatro a quinientos setenta y seis días de salario.
-
-###### Artículo 356.
-
-A quien permita directa o indirectamente el acceso de una persona menor de edad a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, se le impondrá prisión de uno a tres años y multa de setenta y dos a doscientos dieciséis días de salario.
-
-Las mismas penas se impondrán al que ejecutare o hiciere ejecutar a otra persona actos de exhibición obscena ante personas menores de edad o que no tengan la capacidad para comprender el significado del hecho.
-
-###### Artículo 357.
-
-Se impondrán de dos a cinco años de prisión y multa de ciento cuarenta y cuatro a trescientos sesenta días de salario, a quien:
-
-I. Emplee directa o indirectamente los servicios de un menor en un lugar nocivo para su sana formación psicosocial, y
-
-II. Acepte que su menor hijo o persona que tenga bajo su guarda y custodia, preste sus servicios en lugar nocivo para su sana formación psicosocial.
-
-Para efectos de este artículo, se considera como empleado al menor que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumento o gratuitamente preste sus servicios en tales lugares.
-
-###### Artículo 358.
-
-Las penas que señalan los artículos anteriores, se duplicarán cuando el culpable tenga parentesco por consanguinidad, por afinidad o civil o habite ocasional o permanentemente en el mismo domicilio con la víctima aunque no existiera parentesco alguno, o sea ministro de culto religioso, maestro o cualquier persona que preste sus servicios en instituciones educativas, guarderías e instituciones similares, así como por el tutor o curador.
-
-Además, perderá la patria potestad respecto de todos sus descendientes, el derecho a alimentos que le correspondieran por su relación con la víctima y el derecho que pudiera tener respecto a los bienes de ésta.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE AGOSTO DE 2020)</small>
-
-### CAPÍTULO I BIS. MALTRATO CONTRA PERSONAS MENORES DE EDAD
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2020)</small>
-
-###### Artículo 358 Bis.
-
-A quien por cualquier medio o forma lleve a cabo omisiones o conductas de agresión física, psicológica, económica, patrimonial o sexual, en contra de una persona menor de edad que esté sujeta a su patria potestad, custodia, tutela, curatela, vigilancia, educación, enseñanza o cuidado, se le impondrán de seis meses a cinco años de prisión y multa de ochenta y seis a trescientos treinta y ocho días de salario.
-
-Asimismo, se le sujetará a tratamiento psicológico especializado, independientemente de las penas que correspondan por cualquier otro delito.
-
-La educación o formación de la persona menor de edad no será en ningún caso justificación corno forma de maltrato.
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2020)</small>
-
-###### Artículo 358 Ter.
-
-Se incrementará en una tercera parte la pena correspondiente a este delito, cuando:
-
-I. El sujeto pasivo tenga una discapacidad, y
-
-II. El sujeto activo utilice contra el menor de edad algún arma, instrumento u objeto punzocortante.
-
-### CAPÍTULO II. PROVOCACIÓN DE UN DELITO Y APOLOGÍA DE ESTE O DE ALGÚN VICIO
-
-###### Artículo 359.
-
-Se impondrá de tres a seis meses de prisión y multa de dieciocho a treinta y seis días de salario, al que provoque públicamente a cometer un delito o haga la apología de éste o de algún vicio, si el delito no se ejecutare.
-
-En caso contrario, se impondrá la pena que le corresponda como instigador del delito cometido.
-
-### CAPÍTULO III. ULTRAJES A LA MORAL PÚBLICA
-
-###### Artículo 360.
-
-Se impondrá de seis meses a cinco años de prisión y multa de treinta y seis a trescientos sesenta días de salario:
-
-I. Al que fabrique, produzca o publique libros, escritos, imágenes u otros objetos obscenos y al que los exponga, distribuya o haga circular públicamente, y
-
-II. Al que ejecute o haga ejecutar por otro, en público exhibiciones obscenas.
-
-### CAPÍTULO IV. DISPOSICIONES COMUNES
-
-###### Artículo 361.
-
-Si en la comisión de los delitos previstos en este título el sujeto se valiese de la función pública o privada, la profesión u oficio que desempeña, aprovechándose de los medios o circunstancias que ellos le proporcionan, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro o se le suspenderá del ejercicio de la profesión u oficio por un tiempo igual al de la pena de prisión impuesta.
-
-###### Artículo 362.
-
-Las penas que se señalan en este título se aumentarán en una mitad, cuando el delito sea cometido por una asociación delictuosa.
-
-## TÍTULO DÉCIMO OCTAVO. DELITOS CONTRA LA FILIACIÓN Y LA INSTITUCIÓN DEL MATRIMONIO
-
-### CAPÍTULO I. DELITOS CONTRA EL ESTADO CIVIL
-
-###### Artículo 363.
-
-Se impondrán de seis meses a seis años de prisión y multa de treinta y seis a cuatrocientos treinta y dos días de salario, al que con el fin de alterar el estado civil incurra en alguna de las conductas siguientes:
-
-I. Presente a registrar a una persona, asumiendo la filiación que no le corresponda;
-
-II. Presente a registrar a una persona por segunda vez, con la filiación que le corresponde, con la finalidad de cambiar el nombre sin alterar los apellidos;
-
-III. Inscriba o haga registrar el nacimiento de una persona, sin que esto hubiese ocurrido;
-
-IV. Omita presentar para el registro del nacimiento a una persona, teniendo dicha obligación, con el propósito de hacerle perder los derechos derivados de su filiación;
-
-V. Declare falsamente el fallecimiento de una persona en el acta respectiva;
-
-VI. Presente a registrar a una persona, atribuyendo a terceros la paternidad que no le corresponda;
-
-VII. Usurpe el estado civil o la filiación de otro, con el fin de adquirir derechos de familia que no le correspondan;
-
-VIII. Sustituya a un menor por otro o cometa ocultación de aquél para perjudicarlo en sus derechos de familia, y
-
-IX. Inscriba o haga registrar un divorcio o nulidad de matrimonio inexistentes o que aún no hubiesen sido declarados por sentencia que haya causado ejecutoria.
-
-La autoridad judicial podrá prescindir de la pena si el sujeto activo actúa por motivos nobles o humanitarios, en el caso a que se refiere la fracción I de este artículo.
-
-###### Artículo 364.
-
-Además de las penas señaladas en el artículo anterior, el autor o los autores, perderán los derechos que tengan con respecto a la víctima u ofendido, incluidos los de carácter sucesorio.
-
-###### Artículo 365.
-
-Se impondrá de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro días de salario, a quién contraiga o autorice matrimonio con conocimiento de la existencia de un impedimento o sin que hayan transcurrido los términos suspensivos para contraer matrimonio que señala la legislación civil.
-
-### CAPÍTULO II. BIGAMIA
-
-###### Artículo 366.
-
-Se impondrá de tres meses a cuatro años de prisión y multa de dieciocho a doscientos ochenta y ocho días de salario, al que estando unido en matrimonio no disuelto ni declarado nulo, contraiga otro matrimonio, con las formalidades legales.
-
-Igual pena se impondrá al otro contrayente si obrare con conocimiento del vínculo anterior.
-
-###### Artículo 367.
-
-Se impondrán hasta la mitad de las penas previstas en el artículo anterior, a los testigos y a las personas que intervengan en la celebración del nuevo matrimonio, a sabiendas de la vigencia legal del anterior.
-
-Iguales penas se impondrán a quienes ejerzan la patria potestad o la tutela que, a sabiendas de la existencia de ese impedimento, dieron su consentimiento para la celebración del nuevo matrimonio.
-
-## TÍTULO DÉCIMO NOVENO. DELITOS CONTRA LA FAMILIA
-
-### CAPÍTULO I. INCUMPLIMIENTO DE LA OBLIGACIÓN ALIMENTARIA
-
-###### Artículo 368.
-
-A quién incumpla con su obligación de suministrar alimentos a las personas que tienen derecho a recibirlos conforme al Código Civil, se le impondrá de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos días de salario. En todos los casos, se condenará al pago como reparación del daño de las cantidades no suministradas oportunamente y se podrá decretar suspensión hasta por un año de los derechos de familia.
-
-Para los efectos de este artículo, se tendrá por consumado el delito aun cuando el o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero.
-
-Cuando no sean comprobables el salario o los ingresos del deudor alimentario, para efectos de cubrir los alimentos o la reparación del daño, se determinarán con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años.
-
-###### Artículo 369.
-
-A quien renuncie a su empleo o solicite licencia sin goce de sueldo y sea éste el único medio de obtener ingresos o se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrán de uno a tres años de prisión y multa de setenta y dos a doscientos dieciséis días de salario, suspensión de los derechos de familia y pago, como reparación del daño, de las cantidades no suministradas oportunamente.
-
-###### Artículo 370.
-
-Se impondrá de uno a tres años de prisión y multa de setenta y dos a doscientos dieciséis días de salario a aquellas personas que obligadas a informar acerca de los ingresos de quienes deban cumplir con todas las obligaciones señaladas en los artículos anteriores, incumplan con la orden judicial de hacerlo o haciéndolo no lo hagan de manera íntegra o dentro del término ordenado por la autoridad judicial u omitan realizar de inmediato el descuento ordenado.
-
-Para el caso de que la persona legitimada para ello otorgue el perdón, sólo procederá si el sujeto activo paga todas las cantidades que hubiere dejado de proporcionar por concepto de alimentos.
-
-###### Artículo 371.
-
-Si la omisión en el cumplimiento de las obligaciones alimentarias, ocurre en desacato de una resolución judicial, las sanciones se incrementarán en una mitad.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JULIO DE 2017)</small>
-
-### CAPÍTULO II. VIOLENCIA FAMILIAR Y DE GÉNERO
-
-###### Artículo 372.
-
-A quien ejerza algún acto abusivo de poder u omisión intencional, dirigido a dominar, controlar o agredir de manera física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, sobre alguna persona a la que esté o haya estado unida, por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, tutela o curatela, concubinato o bien, que haya tenido o tenga alguna relación afectiva o sentimental de hecho, se le impondrán de seis meses a cuatro años de prisión y multa de treinta y seis a doscientos ochenta y ocho días de salario y perderá el derecho de pensión alimenticia y en su caso, prohibición de acudir o residir en lugar determinado.
-
-Asimismo se le sujetará a tratamiento psicológico especializado, independientemente de las penas que correspondan por cualquier otro delito.
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 25 DE AGOSTO DE 2020)</small>
-
-Si la víctima de violencia familiar fuera una mujer en estado de gravidez, se aumentará la pena que corresponda hasta en una tercera parte en su mínimo y en su máximo, independientemente de las penas que correspondan por cualquier otro delito.
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2020)</small>
-
-Si la víctima de violencia familiar fuera un incapaz, adulto mayor o integrante de una comunidad o pueblo indígena, las sanciones previstas en este artículo se duplicarán, independientemente de las penas que correspondan por cualquier otro delito.
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2020)</small>
-
-Cuando la agresión sea contra una persona menor de edad, se observará lo previsto en el artículo 358 Bis de este Código.
-
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2017)</small>
-
-###### Artículo 372 Bis.
-
-A quien ejerza cualquier acto de violencia en contra de una mujer, se le impondrán se (sic) seis meses a cuatro años de prisión, y multa de treinta y seis a doscientos ochenta y ocho días de salario.
-
-Por violencia contra la mujer, se estará a lo dispuesto en la Ley que Garantiza el Acceso a las Mujeres a una vida libre de Violencia en el Estado de Tlaxcala.
-
-###### Artículo 373.
-
-En cualquier momento, el Ministerio Público podrá solicitar a la autoridad judicial, la aplicación de medidas de protección para la víctima y esta última resolverá sin dilación.
-
-### CAPÍTULO III. INCESTO
-
-###### Artículo 374.
-
-La cópula entre ascendientes y descendientes consanguíneos en línea recta o entre hermanos se sancionará con prisión de uno a seis años y multa de setenta y dos a cuatrocientos treinta y dos días de salario.
-
-## TÍTULO VIGÉSIMO. DELITOS CONTRA LA DIGNIDAD DE LAS PERSONAS
-
-### CAPÍTULO ÚNICO. DISCRIMINACIÓN
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2020)</small>
-
-###### Artículo 375.
-
-Se impondrán de uno a tres años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, al que por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas:
-
-I. Provoque o incite al odio o a la violencia;
-
-II. Veje, injurie o excluya a alguna persona o grupo de personas;
-
-III. Niegue o restrinja derechos laborales en el acceso a un puesto, cargo o comisión, y
-
-IV. Niegue a una persona un servicio o una prestación a la que tenga derecho. Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general.
-
-Iguales penas se impondrá al servidor público que niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
-
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2020)</small>
-
-Cuando las conductas a que se refiere este artículo sean cometidas en contra de cualquier persona que en términos de la Ley de la materia, participe o se dedique a la prestación de servicios de salud, durante el período que comprenda alguna epidemia, riesgo o emergencia sanitaria, la pena de prisión se incrementará en una mitad y la multa hasta cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
-
-## TÍTULO VIGÉSIMO PRIMERO. DELITOS CONTRA EL RESPETO A LOS CADÁVERES O RESTOS HUMANOS
-
-### CAPÍTULO ÚNICO. VIOLACIÓN A LAS LEYES DE INHUMACIÓN Y EXHUMACIÓN
-
-###### Artículo 376.
-
-Se impondrá de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro días de salario, al que robe, oculte, destruya o sepulte un cadáver, un feto o restos humanos y al que exhume un cadáver, sin los requisitos que exige la ley.
-
-La misma pena se impondrá a la persona de alguna institución, clínica, sanatorio u hospital público o privado, que retenga un cadáver para realizar estudios de carácter científico, sin previa autorización del Ministerio Público, de la autoridad judicial y de los familiares o los deudos.
-
-###### Artículo 377.
-
-Se impondrá de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario a quién:
-
-I. Al que viole un túmulo, un sepulcro, una sepultura o féretro;
-
-II. Al que comercie o trafique con un cadáver, restos o despojos humanos, y
-
-III. Al que profane un cadáver o restos humanos con actos de vilipendio, mutilación, brutalidad o necrofilia.
-
-Si los actos de necrofilia consisten en la introducción del miembro viril por vía anal o vaginal, se impondrá de cuatro a ocho años de prisión y multa de doscientos ochenta y ocho a quinientos setenta y seis días de salario.
-
-## TÍTULO VIGÉSIMO SEGUNDO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESIÓN
-
-### CAPÍTULO I. RESPONSABILIDAD PROFESIONAL Y TÉCNICA
-
-###### Artículo 378.
-
-Los profesionistas, artistas o técnicos y sus auxiliares, serán responsables de los delitos que cometan en el ejercicio de sus actividades, en los términos siguientes y sin perjuicio de las prevenciones contenidas en las normas sobre ejercicio profesional.
-
-Además de las sanciones fijadas para los delitos que resulten consumados, se les impondrá de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro días de salario, así como suspensión de un mes a dos años en el ejercicio de la profesión o definitiva en caso de reiteración y estarán obligados a la reparación del daño por sus propios actos y los de sus auxiliares, cuando éstos actúen de acuerdo con las instrucciones de aquellos.
-
-### CAPÍTULO II. USURPACIÓN DE PROFESIÓN
-
-###### Artículo 379.
-
-A quien se atribuya el carácter de profesionista u ostente algún posgrado o especialidad, sin haber cursado los estudios para obtener el título o certificación expedida por autoridades u organismos legalmente facultados para ello y ofrezca o desempeñe sus servicios bajo ese carácter, se le impondrá de seis meses a cuatro años de prisión y multa de treinta y seis a doscientos ochenta y ocho días de salario.
-
-### CAPÍTULO III. ABANDONO, NEGACIÓN Y PRÁCTICA INDEBIDA DEL SERVICIO MÉDICO
-
-###### Artículo 380.
-
-Se impondrán de uno a tres años de prisión y multa de setenta y dos a doscientos dieciséis días de salario y suspensión para ejercer la profesión de un mes a un año, al médico en ejercicio que:
-
-I. Estando en presencia de un lesionado o habiendo sido requerido para atender a éste, no lo atienda o no solicite el auxilio a la institución adecuada, o
-
-II. Se niegue a prestar asistencia a un enfermo cuando éste corra peligro de muerte o de una enfermedad o daño más grave y, por las circunstancias y urgencia del caso, no pueda recurrir a otro médico ni a un servicio de salud.
-
-###### Artículo 381.
-
-Al médico que habiéndose hecho cargo de la atención de un lesionado, deje de prestar el tratamiento sin dar aviso inmediato a la autoridad competente, o no cumpla con las obligaciones que le impone la legislación de la materia, se le impondrá de uno a cuatro años de prisión y multa de setenta y dos a doscientos ochenta y ocho días de salario; así como suspensión para ejercer la profesión de uno a tres años.
-
-###### Artículo 382.
-
-Se impondrá de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos días de salario; así como suspensión para ejercer la profesión de uno a tres años, al profesional de la medicina que:
-
-I. Realice una operación quirúrgica innecesaria;
-
-II. Simule la práctica de una intervención quirúrgica;
-
-III. Sin autorización del paciente o de la persona que ante la imposibilidad o incapacidad de aquél pueda legítimamente otorgarla, salvo en casos de urgencia, realice una operación quirúrgica que por su naturaleza ponga en peligro la vida del enfermo o cause la pérdida de un miembro o afecte la integridad de una función vital, o
-
-IV. Practique esterilización con fines de infecundidad, sin la voluntad del paciente o ejerza presión para que éste la admita.
-
-### CAPÍTULO IV. RESPONSABILIDAD DE DIRECTORES, ENCARGADOS, ADMINISTRADORES O EMPLEADOS DE CENTROS DE SALUD Y AGENCIAS FUNERARIAS
-
-###### Artículo 383.
-
-Se impondrán de uno a cinco años de prisión y multa de setenta y dos a trescientos sesenta días de salario y suspensión de un mes a dos años para ejercer la profesión a los directores, encargados, administradores o empleados de cualquier lugar donde se preste atención médica que:
-
-I. Se niegue a prestar asistencia a un enfermo cuando éste corra peligro de muerte o de una enfermedad o daño más grave y, por las circunstancias y urgencia del caso, no pueda recurrir a otra institución de salud;
-
-II. Impidan la salida de un paciente, aduciendo adeudos de cualquier índole;
-
-III. Impidan la entrega de un recién nacido, por el mismo motivo a que se refiere la parte final de la fracción anterior, y
-
-IV. Retarden o nieguen la entrega de un cadáver, excepto cuando se requiera orden de autoridad competente.
-
-La misma pena se impondrá a los directores, encargados, administradores o empleados de agencias funerarias que retarden o nieguen indebidamente la entrega de un cadáver.
-
-### CAPÍTULO V. PRESCRIPCIÓN O SUMINISTRO DE MEDICINAS NOCIVAS O INAPROPIADAS
-
-###### Artículo 384.
-
-Al médico o enfermero que prescriba o suministre un medicamento evidentemente inapropiado en perjuicio de la salud del paciente, se le impondrán de seis meses a tres años de prisión y multa de treinta y seis a doscientos dieciséis días de salario y suspensión para ejercer la profesión u oficio por un año.
-
-###### Artículo 385.
-
-A los encargados, empleados o dependientes de una farmacia, que al surtir una receta sustituyan la medicina específicamente señalada por otra que ponga en peligro la salud o cause daño o sea evidentemente inapropiada al padecimiento para el que se prescribió, se les impondrán de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro días de salario.
-
-### CAPÍTULO VI. RESPONSABILIDAD DE LOS DIRECTORES RESPONSABLES DE OBRA O CORRESPONSABLES
-
-###### Artículo 386.
-
-Al Director Responsable de Obra y a quien la ejecute en su nombre que permita del desarrollo de dicha obra, sin apego a la licencia, autorización, permiso, registro o conforme a las disposiciones aplicables, se le impondrá de tres meses a un año de prisión y multa de doscientos a cuatrocientos días de salario, así como suspensión para desempeñar profesión u oficio hasta por un periodo igual a la pena de prisión impuesta.
-
-## TÍTULO VIGÉSIMO TERCERO. DELITOS CONTRA LA SEGURIDAD DE LAS VÍAS Y MEDIOS DE COMUNICACIÓN Y DE TRANSPORTE
-
-### CAPÍTULO I. ATAQUES A LAS VÍAS Y MEDIOS DE COMUNICACIÓN Y DE TRANSPORTE
-
-###### Artículo 387.
-
-Para los efectos de este capítulo, se entiende por vía pública los bienes de uso común que por razón del servicio se destinen al libre tránsito de vehículos.
-
-###### Artículo 388.
-
-Se impondrá de uno a cinco años de prisión y multa de setenta y dos a trescientos sesenta días de salario, al que por cualquier medio altere o destruya alguna vía de comunicación o transporte público, que no sean de jurisdicción federal, modifique o inutilice las señales correspondientes interrumpiendo o dificultando los servicios.
-
-###### Artículo 389.
-
-Se impondrá de tres a seis meses de prisión y multa de dieciocho a treinta y seis días de salario, al que dolosamente ponga en movimiento un medio o vehículo de transporte, provocando un desplazamiento sin control, si no resultare daño alguno; si se causare daño, se impondrá además la pena correspondiente por el delito que resulte.
-
-###### Artículo 390.
-
-Se impondrá de seis meses a tres años de prisión y multa de treinta y seis a doscientos dieciséis días de salario, al que dolosamente obstaculice una vía de comunicación o la prestación de un servicio público de comunicación o transporte.
-
-###### Artículo 391.
-
-Se impondrá de quince a treinta años de prisión y multa de mil ochenta a dos mil ciento sesenta días de salario al que, para la ejecución de los hechos de que hablan los respectivos artículos anteriores, se valga de explosivos.
-
-Si alguno de los hechos a que se refieren los artículos de este capítulo, se ejecuta por medio de violencia, la pena se aumentara en dos tercios.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE AGOSTO DE 2020)</small>
-
-### CAPÍTULO I BIS. DELITOS CONTRA LOS SERVICIOS DE EMERGENCIA
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2020)</small>
-
-###### Artículo 391 Bis.
-
-Se le impondrá prisión de tres meses a dos años y multa de cincuenta a trescientos días de salario, al que dolosamente utilizando internet o cualquier otro medio de comunicación telefónico o electrónico, proporcione datos o información de hechos falsos a instituciones que presten servicios de emergencia, de protección civil, de seguridad pública, de emergencias médicas, de bomberos, y que provoque la movilización y presencia de elementos de dichas instituciones.
-
-Las mismas penas se aplicarán a la persona que dolosamente permita o facilite los medios para realizar una llamada o aviso falso a los servicios de emergencia.
-
-En caso de reincidencia se le impondrá hasta el doble de las sanciones establecidas.
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2020)</small>
-
-###### ARTICULO 391 Ter.
-
-En delitos contra los servicios de emergencia cometidos por adolescentes, se observará lo previsto en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
-
-Las conductas señaladas en el presente Capítulo, se perseguirán de oficio.
-
-### CAPÍTULO II. VIOLACIÓN DE LA COMUNICACIÓN PRIVADA
-
-###### Artículo 392.
-
-Se impondrá de seis meses a un año de prisión y multa de treinta y seis a setenta y dos días de salario, al que dolosamente abra o intercepte una comunicación escrita que no esté dirigida a él.
-
-Esta disposición no comprende la correspondencia que circule por estafeta, los telegramas y radiogramas, respecto de los cuales se observará lo dispuesto por la legislación federal sobre la materia.
-
-###### Artículo 393.
-
-No se impondrá pena a los que obren ejerciendo la patria potestad, la tutela o la custodia y abran o intercepten las comunicaciones escritas dirigidas a los menores o a las personas que se hallen bajo su tutela o guarda, los cónyuges o concubinos entre sí y las que establezcan las leyes respectivas.
-
-###### Artículo 394.
-
-Se impondrá de tres meses a un año de prisión y multa de dieciocho a setenta y dos días de salario, al empleado de un telégrafo, teléfono o estación inalámbrica que perteneciere al Estado, que conscientemente dejare de transmitir un mensaje que se le entregue con ese objeto o de comunicar al destinatario, el que recibiere de otra oficina.
-
-###### Artículo 395.
-
-A quien intervenga comunicaciones privadas sin mandato de autoridad judicial competente, se le impondrán de seis meses a dos años de prisión y multa de treinta y seis a ciento cuarenta y cuatro días de salario.
-
-A quien revele, divulgue, utilice indebidamente o en perjuicio de otro, información o imágenes obtenidas en una intervención de comunicación privada, se le impondrán de tres a doce años de prisión y multa de doscientos dieciséis a ochocientos sesenta y cuatro días de salario.
-
-### CAPÍTULO III. DELITO CONTRA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE
-
-###### Artículo 396.
-
-A quien posea, conduzca o preste servicio público de transporte de pasajeros, carga o mixto, sin concesión, permiso o autorización del Gobierno del Estado, se le impondrá de dos a siete años de prisión y multa de ochocientos ochenta y dos a mil doscientos treinta días de salario mínimo, además de suspensión de la licencia de manejo de automovilista y/o de chofer de servicio público hasta por un término igual al de la pena de prisión impuesta, según corresponda.
-
-Las mismas penas se impondrán al propietario del medio de transporte, que realice, contrate o permita la prestación de dicho servicio.
-
-Si el delito fuera cometido o interviniera en cualquier forma el representante, socio o líder de una organización, empresa o sindicato concesionaria o permisionaria de un servicio público de transporte, las penas se aumentaran de una a dos terceras partes de las que le correspondan por el delito cometido, además, se impondrá la suspensión de los derechos para prestar el servicio público que se le haya otorgado por la autoridad estatal.
-
-Quien conduzca un vehículo que preste servicio público de transporte con una sola placa, deberá acreditar que el número de la misma coincide con el del engomado correspondiente. Si no coinciden, no cuenta con el engomado o circula sin ambas placas, se aplicará la pena prevista en el párrafo primero, se le impondrá de uno a tres años de prisión y multa de ochocientos ochenta y dos a mil doscientos treinta días de salario mínimo.
-
-###### Artículo 397.
-
-Las penas aplicables a que se refiere el artículo anterior, se aumentarán de una a dos terceras partes a quien obtenga y/o utilice indebidamente cualquier documento, tarjeta o placa de circulación y engomado que corresponda al que identifique las unidades que presten el servicio público de transporte.
-
-## TÍTULO VIGÉSIMO CUARTO. DELITOS CONTRA LA FE PÚBLICA
-
-### CAPÍTULO I. FALSIFICACIÓN O ALTERACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO
-
-###### Artículo 398.
-
-Se impondrán de dos a ocho años de prisión y multa de ciento cuarenta y cuatro a quinientos setenta y seis días de salario, al que:
-
-I. Falsifique o altere acciones, obligaciones u otros documentos de crédito público del Gobierno del Estado o de sus municipios, o cupones de interés o de dividendos de esos títulos, o
-
-II. Introduzca al territorio del Estado o ponga en circulación en él, obligaciones u otros documentos de crédito público o cupones de interés o de dividendos de esos títulos, falsificados o alterados.
-
-###### Artículo 399.
-
-Se impondrán de tres a nueve años de prisión y multa de doscientos dieciséis a seiscientos cuarenta y ocho días de salario, al que sin consentimiento de quien esté facultado para ello:
-
-I. Produzca, imprima, enajene, distribuya, altere o falsifique tarjetas, títulos o documentos utilizados para el pago de bienes o servicios o para disposición de efectivo;
-
-II. Adquiera, utilice, posea o detente tarjetas, títulos o documentos para el pago de bienes y servicios, a sabiendas de que son alterados o falsificados;
-
-III. Adquiera, utilice, posea o detente, tarjetas, títulos o documentos auténticos para el pago de bienes o servicios, sin consentimiento de quien esté facultado para ello;
-
-IV. Altere los medios de identificación electrónica de tarjetas, títulos o documentos para el pago de bienes o servicios;
-
-V. Acceda a los equipos electromagnéticos de las instituciones emisoras de tarjetas, títulos o documentos para el pago de bienes o servicios, o para disposición de efectivo;
-
-VI. Adquiera, utilice o posea equipos electromagnéticos o electrónicos para sustraer la información contenida en la cinta o banda magnética de tarjetas, títulos o documentos, para el pago de bienes o servicios o para disposición de efectivo, así como a quien posea o utilice la información sustraída, de esta forma, o
-
-VII. Utilice indebidamente información confidencial o reservada de la institución o persona que legalmente esté facultada para emitir tarjetas, títulos o documentos utilizados para el pago de bienes o servicios o de los titulares de dichos instrumentos o documentos.
-
-Si el sujeto activo es empleado o dependiente de la víctima u ofendido, las penas se aumentarán en una mitad.
-
-### CAPÍTULO II. FALSIFICACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
-
-###### Artículo 400.
-
-Se impondrán de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario, a quien con el fin de obtener un beneficio o causar un daño:
-
-I. Falsifique o altere sellos, marcas, llaves, estampillas, troqueles, cuños, matrices, planchas, contraseñas, boletos, fichas o punzones particulares, o
-
-II. Use o enajene los objetos falsificados o alterados señalados en la fracción anterior.
-
-Las penas se aumentarán en una mitad, cuando el objeto falsificado o alterado sea oficial.
-
-### CAPÍTULO III. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
-
-###### Artículo 401.
-
-Al que elabore o altere sin permiso de la autoridad competente una placa, el engomado, la tarjeta de circulación o los demás documentos oficiales que se expiden para identificar vehículos automotores o remolques, se le impondrán de cuatro a ocho años de prisión y multa de doscientos ochenta y ocho a quinientos setenta y seis días de salario.
-
-Las mismas penas se impondrán al que posea, utilice, adquiera o enajene, cualquiera de los objetos a que se refiere el párrafo anterior, con conocimiento de que son falsificados o que fueron obtenidos indebidamente.
-
-### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
-
-###### Artículo 402.
-
-Al que para obtener un beneficio o causar un daño, falsifique o altere un documento público se le impondrán de uno a cinco años de prisión y multa de setenta y dos a trescientos sesenta días de salario y de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario, tratándose de documentos privados.
-
-Las mismas penas se impondrán al que, con los fines a que se refiere el párrafo anterior, haga uso de un documento falso o alterado o haga uso indebido de un documento original, expedido a favor de otro, como si hubiere sido expedido a su nombre o aproveche indebidamente una firma o rúbrica en blanco.
-
-La punibilidad será de dos a siete años de prisión y multa de ciento cuarenta y cuatro a quinientos cuatro días de salario, si el documento es una credencial o medio de identificación de los autorizados oficialmente para los miembros del Ministerio Público o las corporaciones policíacas.
-
-###### Artículo 403.
-
-Las penas previstas en el artículo anterior se incrementarán en una mitad, cuando:
-
-I. El delito sea cometido por un servidor público en ejercicio de sus funciones o con motivo de ellas, en cuyo caso se impondrá a éste, además, destitución e inhabilitación para ocupar otro empleo, cargo o comisión públicos de seis meses a tres años, o
-
-II. La falsificación sirva como medio para el comercio de vehículos robados o de sus partes o componentes.
-
-###### Artículo 404.
-
-Se impondrán de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario:
-
-I. Al funcionario o empleado que, por engaño o por sorpresa, hiciere que alguien firme un documento público, que no habría firmado sabiendo su contenido;
-
-II. Al notario, fedatario o cualquier otro servidor público que en ejercicio de sus atribuciones o funciones o con motivo de ellas, expida una certificación de hechos que no sean ciertos, de fe de lo que no consta en autos, registros, protocolos o documentos;
-
-III. Al que para eximirse de un servicio debido legalmente o de una obligación impuesta por la ley, exhiba una certificación de enfermedad o impedimento que no padece;
-
-IV. Al médico que certifique falsamente que una persona tiene una enfermedad u otro impedimento bastante para dispensarla de prestar un servicio que exige la ley o de cumplir una obligación que ésta impone o para adquirir algún derecho, o
-
-V. Al perito traductor o paleógrafo que plasme hechos falsos o altere la verdad al traducir o descifrar un documento.
-
-###### Artículo 405.
-
-Se impondrán de uno a tres años de prisión y multa de setenta y dos a doscientos dieciséis días de salario, al que para obtener un beneficio o causar un daño, indebidamente produzca o edite, por cualquier medio técnico, imágenes, textos o voces, total o parcialmente.
-
-## TÍTULO VIGÉSIMO QUINTO. DELITOS CONTRA LA ECONOMÍA PÚBLICA ESTATAL
-
-### CAPÍTULO I. DELITOS CONTRA EL CONSUMO
-
-###### Artículo 406.
-
-Se impondrá de tres meses a cinco años de prisión y multa de dieciocho a trescientos sesenta días de salario, a los comerciantes o industriales que, por cualquier medio, alteren en su cantidad o calidad las mercancías o productos de venta al público o les atribuyan cualidades que no tengan.
-
-###### Artículo 407.
-
-Se impondrá de dos a nueve años de prisión y multa de ciento cuarenta y cuatro a seiscientos cuarenta y ocho días de salario, al que dolosamente venda, adquiera, posea o trafique con semillas, fertilizantes, plaguicidas, implementos u otros materiales destinados a la producción agropecuaria, que se hayan entregado a los productores por alguna entidad o dependencia pública a precio subsidiado.
-
-###### Artículo 408.
-
-Se impondrá de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario, si el que entregue los insumos o materiales referidos fuere el productor que los recibió de las instituciones oficiales. Se harán acreedores a la misma sanción, los funcionarios o empleados de alguna entidad o dependencia pública estatal que entreguen estos insumos a quiénes no tengan derecho a recibirlos.
-
-###### Artículo 409.
-
-Se impondrá de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario:
-
-I. Al que elabore o comercie con comestibles, bebidas o medicinas de tal modo que puedan causar daños a la salud, porque los productos estén alterados, adulterados, contaminados o falsificados o que tratándose de medicinas carezcan de las propiedades curativas que se les atribuyen, y
-
-II. Al que oculte, sustraiga, venda o compre efectos que la autoridad competente haya mandado destruir por ser nocivos a la salud.
-
-### CAPÍTULO II. DELITOS CONTRA EL TRABAJO Y LA PREVISIÓN SOCIAL
-
-###### Artículo 410.
-
-Se impondrá de tres meses a un año de prisión y y (sic) multa de dieciocho a setenta y dos días de salario, al patrón que habitualmente y violando la Ley Federal del Trabajo:
-
-I. Pague los salarios a los trabajadores en mercancías, vales, fichas, tarjetas o en moneda que no sea de curso legal;
-
-II. Retenga, en todo o en parte, los salarios de los trabajadores en concepto de multa o por cualquier otro que no esté autorizado legalmente;
-
-III. Pague los salarios de los trabajadores en tabernas, cantinas, prostíbulos o en cualquier otro lugar de vicio, excepto que se trate de empleados de esos lugares;
-
-IV. Obligue a sus trabajadores a realizar jornadas sin descanso, que excedan de ocho horas en las labores diurnas y de siete en las nocturnas;
-
-V. Imponga labores insalubres o peligrosas y trabajos nocturnos injustificados a las mujeres y a los jóvenes menores de dieciocho años;
-
-VI. No pague a sus trabajadores el salario mínimo que les corresponda;
-
-VII. No participe de las utilidades a sus trabajadores, una vez que éstas están legalmente comprobadas, y
-
-VIII. No proporcione a sus trabajadores la capacitación y adiestramiento, una vez agotados los requerimientos de su implementación.
-
-###### Artículo 411.
-
-Se impondrá de uno a cinco años de prisión y multa de setenta y dos a trescientos sesenta días de salario, al patrón que con el solo propósito de eludir el cumplimiento de las obligaciones que le impone la Ley Federal del Trabajo, impute indebidamente a uno o más de sus trabajadores, la comisión de un delito o falta.
-
-## TÍTULO VIGÉSIMO SEXTO. DE LOS DELITOS CONTRA EL MEDIO AMBIENTE
-
-### CAPÍTULO ÚNICO. DELITOS CONTRA EL AMBIENTE
-
-###### Artículo 412.
-
-Se le impondrán de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos días de salario, al que deteriore áreas naturales protegidas de jurisdicción estatal o el ecosistema del suelo de conservación.
-
-Las penas anteriores se duplicarán, si el deterioro es ocasionado por personas cuya actividad es la exploración, explotación o manejo de minerales o de cualquier depósito del subsuelo.
-
-###### Artículo 413.
-
-Se le impondrán de tres a nueve años de prisión y multa de doscientos dieciséis a seiscientos cuarenta y ocho días de salario, a quien trafique con una o más especies o subespecies forestales, silvestres de flora o fauna terrestre o acuática en peligro de extinción, amenazadas o sujetas a protección especial.
-
-###### Artículo 414.
-
-Se impondrán de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos días de salario, al que:
-
-I. Genere o descargue materia o energía, en cualquier cantidad, estado físico o forma, que al incorporarse, acumularse o actuar en los seres vivos, en la atmósfera, agua, suelo, subsuelo o cualquier elemento natural, afecte negativamente su composición o condición natural;
-
-II. Contamine o destruya la calidad del suelo, áreas verdes en suelo urbano, humedales, áreas naturales protegidas, suelos de conservación o en cualquier cuerpo de agua;
-
-III. Emita gases, humos, vapores o polvos de origen antropogénico que dañen a la salud humana, fauna, flora, recursos naturales, ecosistemas o la atmósfera;
-
-IV. Descargue, deposite o infiltre aguas residuales sin su previo tratamiento, líquidos químicos o bioquímicos;
-
-V. Descargue o deposite desechos u otras sustancias o materiales contaminantes, residuos sólidos o industriales en los suelos de conservación, áreas naturales protegidas, barrancas, áreas verdes en suelo urbano o en cualquier cuerpo de agua, que dañen la salud humana, flora, fauna, recursos naturales o los ecosistemas, y
-
-VI. Genere emisiones de energía térmica o lumínica, olores, ruidos o vibraciones que dañen la salud pública, flora, fauna o los ecosistemas.
-
-###### Artículo 415.
-
-Se le impondrán de tres a nueve años de prisión y multa de doscientos dieciséis a seiscientos cuarenta y ocho días de salario, al que:
-
-I. Desmonte o destruya la vegetación natural; corte, arranque, derribe o tale árboles, realice aprovechamiento de recursos forestales o haga cambios de uso de suelo en suelos de conservación, áreas naturales protegidas o áreas verdes en suelo urbano, y
-
-II. Ocasione incendios en bosques, parques, áreas forestales, áreas naturales protegidas, suelos de conservación, barrancas y áreas verdes en suelo urbano.
-
-###### Artículo 416.
-
-Se impondrán de tres a ocho años de prisión y multa de doscientos dieciséis a quinientos setenta y seis días de salario, a los empresarios o industriales o sus administradores, que a sabiendas:
-
-I. Omitan el empleo de los equipos anticontaminantes en empresas, industrias o fuentes móviles, que generen contaminantes;
-
-II. No instalen o no utilicen adecuadamente las plantas de tratamiento de aguas residuales y no reutilicen las aguas tratadas, y
-
-III. No manejen adecuadamente los residuos producidos o residuos industriales no peligrosos.
-
-Estas penas se impondrán con independencia de las que resulten aplicables a las personas jurídicas colectivas.
-
-###### Artículo 417.
-
-Se le impondrán de tres a nueve años de prisión y multa de doscientos dieciséis a seiscientos cuarenta y ocho días de salario, a quien realice o permita mediante acciones u omisión la ocupación o invasión de:
-
-I. Un área natural protegida o área de valor ambiental de competencia del Estado de Tlaxcala, de conformidad con las disposiciones jurídicas aplicables;
-
-II. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del Estado aplicables, así como lo establecido en el Programa o Programas de Desarrollo Urbano aplicables;
-
-III. Una barranca, o
-
-IV. Un área verde en suelo urbano.
-
-Las penas previstas en este artículo se aumentarán en una mitad cuando la ocupación o invasión se realice con violencia, así como a quien instigue, promueva, dirija o incite la comisión de las conductas anteriores.
-
-###### Artículo 418.
-
-Se impondrá de dos a diez años de prisión y multa de ciento cuarenta y cuatro a setecientos veinte días de salario:
-
-I. Al que al amparo de una autorización forestal expedida legalmente, la ejecute con violación de sus términos, excediéndose en sus alcances o contrariando las disposiciones técnicas o legales del caso;
-
-II. Al que obtenga una autorización de explotación forestal valiéndose de actos simulados, proporcionando datos falsos a la autoridad respectiva u ocultando los verdaderos, así como el cedente o cesionario de esa autorización, y
-
-III. Al que obtenga o traspase una autorización de explotación forestal o la ejecute contraviniendo o violando las prohibiciones consignadas en la ley de la materia y los decretos de veda del Ejecutivo Federal, causando daño a la riqueza forestal del Estado de Tlaxcala.
-
-###### Artículo 419.
-
-Se impondrá de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro días de salario, al que no exhiba la documentación correspondiente de una explotación forestal o del transporte de sus productos o no justifique la legal adquisición de esos productos o presente una documentación irregular al personal oficial del Estado que la requiera.
-
-###### Artículo 420.
-
-Se decomisarán en beneficio del Estado los productos explotados, transportados o adquiridos ilegalmente, así como los instrumentos de explotación y medio de transporte.
-
-###### Artículo 421.
-
-Para los efectos del presente capítulo, la reparación del daño incluirá además:
-
-I. La realización de las acciones necesarias para restablecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados al estado en que se encontraban antes de realizarse el delito, y
-
-II. La suspensión, modificación o demolición de las construcciones, obras o actividades, que hubieren dado lugar al delito ambiental respectivo.
-
-###### Artículo 422.
-
-Tratándose de estos delitos, el trabajo en favor de la comunidad, consistirá en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
-
-###### Artículo 423.
-
-En caso de concurso de delitos, en lo referente a la reparación del daño, tiene preferencia la derivada del delito ambiental, sobre el daño patrimonial, con excepción de la reparación del daño a la salud, a la vida o a la integridad de las personas.
-
-###### Artículo 424.
-
-Cuando en la comisión de un delito previsto en este capítulo, intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena de prisión se aumentará en una mitad y se le inhabilitará para ocupar cargo, empleo o comisión, por el mismo término de la pena privativa de libertad.
-
-## TÍTULO VIGÉSIMO SÉPTIMO. DE LOS DELITOS CONTRA EL SISTEMA ELECTORAL
-
-### CAPÍTULO ÚNICO. DELITOS ELECTORALES
-
-###### Artículo 425.
-
-Para efectos de este Título, se entiende por:
-
-I. Funcionarios Electorales. Los ciudadanos que en términos de la legislación electoral integran los órganos que cumplen funciones electorales;
-
-II. Funcionarios Partidistas. Los dirigentes de los Partidos Políticos, sus candidatos y los ciudadanos, a quienes en el curso del proceso electoral se les otorguen representación para actuar ante los órganos electorales en términos de la legislación estatal electoral;
-
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
-
-III. Documentos públicos electorales. A las boletas electorales, actas de la jornada electoral de cada una de las elecciones, expedientes de casilla, y en general, todos los documentos y actas expedidas en el ejercicio de sus funciones por los consejos del Instituto Tlaxcalteca de Elecciones;
-
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
-
-IV. Materiales electorales. a los elementos físicos, tales como urnas, mamparas, elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral;
-
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
-
-V. Organizadores de actos de campaña: las personas que dirijan, coordinen, instrumenten o participen en la organización de las reuniones públicas, asambleas, marchas y en general los actos en que las personas candidatas o voceras de los partidos políticos se dirigen al electorado para promover sus candidaturas, y
-
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
-
-VI. Violencia política contra las mujeres en razón de género: en términos de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia en el Estado de Tlaxcala, es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
-
-Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
-
-###### Artículo 426.
-
-Se impondrán de seis meses a tres años de prisión y multa de treinta y seis a doscientos dieciséis días de salario, a quien:
-
-I. Vote estando impedido por la ley;
-
-II. Vote más de una vez;
-
-III. Vote o pretenda votar con una credencial de elector de la que no sea titular;
-
-IV. Dentro de los tres días anteriores al de la jornada electoral y en la propia jornada, realice actos de propaganda política en favor de partido político, coalición o candidato alguno;
-
-V. Ejerza violencia sobre los funcionarios electorales, representantes de partidos políticos o electores;
-
-VI. Solicite votos por paga, promesa de dinero u otra recompensa durante las campañas electorales o jornada electoral;
-
-VII. Recoja en cualquier tiempo, sin causa prevista por la ley, credenciales para votar de los ciudadanos;
-
-VIII. Altere, borre o destruya propaganda electoral de los partidos políticos, coaliciones o candidatos;
-
-IX. Ejerza presión sobre los electores que se encuentren bajo su subordinación laboral y los induzca a votar por determinado partido político, coalición o candidato;
-
-X. Ejerza presión sobre los electores y los induzca a votar por determinado partido político, coalición o candidato, mediante cohecho, soborno o presión intimidatoria de causarle un daño a su persona, patrimonio o familia;
-
-XI. El día de la jornada electoral organice la reunión o el transporte de votantes con la finalidad de influir en el sentido de su voto, por un determinado partido político, coalición o candidato, y
-
-XII. Haga proselitismo el día de la jornada electoral en el lugar en que se encuentren instaladas las casillas o en el que se encuentren formados los votantes.
-
-###### Artículo 427.
-
-Se impondrán de seis meses a tres años de prisión y multa de treinta y seis a doscientos dieciséis días de salario, al funcionario electoral que:
-
-I. Injustificadamente se niegue a reconocer la personalidad de los representantes de los partidos políticos, coaliciones o candidatos;
-
-II. Dolosamente, altere, falsifique, sustituya, destruya o haga uso de archivos computarizados que contengan cualquiera de los documentos públicos electorales;
-
-III. Instale, abra o cierre una casilla dolosamente, fuera de los tiempos y formas previstos por la legislación estatal electoral;
-
-IV. Injustificadamente no entregue o impida la entrega oportuna de documentos públicos electorales o material relacionado con la jornada electoral;
-
-V. Injustificadamente impida recibir el voto de los electores que tengan derecho a sufragar;
-
-VI. Obstruya dolosamente el desarrollo de la jornada electoral;
-
-VII. Ejerza presión, sobre los electores y los obligue a votar por un determinado partido político, coalición o candidato, y
-
-VIII. Expulse de la casilla sin causa justificada a los representantes de algún partido político o coalición debidamente acreditados ante la mesa directiva de casilla.
-
-###### Artículo 428.
-
-Se impondrán de seis meses a tres años de prisión y multa de treinta y seis a doscientos dieciséis días de salario, al servidor público que:
-
-I. Se niegue a prestar el servicio público al que está obligado conforme la legislación estatal electoral, y demás ordenamientos legales aplicables;
-
-II. Ordene expresamente a sus subordinados o los induzca haciendo uso de su autoridad o jerarquía a emitir su voto en favor de un partido político, coalición o candidato;
-
-III. Ordene expresamente a sus subordinados abstenerse del ejercicio del derecho al voto;
-
-IV. Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, como son vehículos, inmuebles y equipos, al apoyo de un partido político, coalición o candidato, o proporcione ese apoyo a través de sus subordinados utilizando el tiempo correspondiente a sus labores, y
-
-V. Condicione la prestación de un servicio público, el cumplimiento de programas asistenciales o la realización de obras públicas, para la emisión del sufragio a favor de un partido político, coalición o candidato, o bien induzca a su abstención.
-
-###### Artículo 429.
-
-Se impondrán de seis meses a tres años de prisión y multa de treinta y seis a doscientos dieciséis días de salario, al funcionario partidista que:
-
-I. Ejerza presión sobre los electores y los induzca a votar por un partido político, coalición o candidato determinado en la casilla o en el lugar en donde los electores se encuentren formados;
-
-II. Realice actos proselitistas mientras cumple sus funciones durante la jornada electoral en las mesas directivas de casilla;
-
-III. Sustraiga, destruya, altere dolosamente documentos públicos electorales;
-
-IV. Ejerza violencia sobre los funcionarios electorales y obstaculice el desarrollo de la jornada electoral;
-
-V. Divulgue noticias en torno al desarrollo de la jornada electoral o respecto de los resultados oficiales, con objeto de alterar el orden, y
-
-VI. Impida injustificadamente la instalación de una casilla.
-
-###### Artículo 430.
-
-Se impondrán de seis meses a tres años de prisión y multa de treinta y seis a doscientos dieciséis días de salario, al candidato, que rebase ostensiblemente el tope de campaña establecido para la contienda de que se trate.
-
-###### Artículo 431.
-
-Se impondrán de seis meses a tres años de prisión y multa de treinta y seis a doscientos dieciséis días de salario, a los ministros de cualquier culto religioso, que por cualquier medio induzcan al electorado a votar en favor o fomente la abstención en contra de determinado partido político, coalición o candidato.
-
-###### Artículo 432.
-
-Se impondrán de seis meses a tres años de prisión y multa de treinta y seis a doscientos dieciséis días de salario, a los ciudadanos mexicanos y a los extranjeros que teniendo el carácter de observadores, incurran en alguno de los actos siguientes:
-
-I. Participen o interfieran en un proceso electoral sin acreditar su carácter, conforme a la legislación estatal electoral o presenten documentación apócrifa;
-
-II. Hagan proselitismo por cualquier medio, o se manifiesten a favor de algún partido político, coalición o candidato, y
-
-III. Propalen dolosamente noticias de los avances y resultados de la jornada electoral que desoriente a los ciudadanos e incidan en ellos.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
-
-###### Artículo 432 Bis.
-
-Comete el delito de violencia política contra las mujeres en razón de género quien por sí o interpósita persona:
-
-I. Ejerza cualquier tipo de violencia, en términos de ley, contra una mujer en razón de género, que afecte el ejercicio de sus derechos político - electorales, o el desempeño de un cargo público;
-
-II. Restrinja o anule el derecho al voto libre y secreto de una mujer;
-
-III. Amenace o intimide a una mujer, directa o indirectamente, con el objeto de inducirla u obligarla a presentar su renuncia a una precandidatura o candidatura de elección popular;
-
-IV. Amenace o intimide a una mujer, directa o indirectamente, con el objeto de inducirla u obligarla a presentar su renuncia al cargo para el que haya sido electa o designada;
-
-V. Impida, por cualquier medio, que las mujeres electas o designadas a cualquier cargo público; rindan protesta; ejerzan libremente su cargo, así como las funciones inherentes al mismo,
-
-VI. Ejerza cualquier tipo de violencia, con la finalidad de obligar a una o varias mujeres a suscribir documentos o avalar decisiones contrarias a su voluntad, en el ejercicio de sus derechos políticos y electorales.
-
-VII. Limite o niegue a una mujer el otorgamiento, ejercicio de recursos o prerrogativas, en términos de ley, para el desempeño de sus funciones, empleo, cargo, comisión, o con la finalidad de limitar el ejercicio de sus derechos políticos y electorales;
-
-VIII. Publique o divulgue imágenes, mensajes o información privada de una mujer, que no tenga relación con su vida pública, utilizando estereotipos de género que limiten o menoscaben el ejercicio de sus derechos políticos y electorales,
-
-IX. Limite o niegue que una mujer reciba la remuneración por el desempeño de sus funciones, empleo, cargo o comisión.
-
-X. Proporcione información incompleta o datos falsos a las autoridades administrativas o jurisdiccionales en materia electoral, con la finalidad de impedir el ejercicio de los derechos políticos y electorales de las mujeres;
-
-XI. Impida, por cualquier medio, que una mujer asista a las sesiones ordinarias o extraordinarias, así como a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo;
-
-XII. Impida a una mujer su derecho a voz y voto, en el ejercicio del cargo;
-
-XIII. Discrimine a una mujer embarazada, con la finalidad de evitar el ejercicio de sus derechos políticos y electorales, impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad, o de cualquier otra contemplada en la normatividad, y
-
-XIV. Realice o distribuya propaganda político electoral que degrade o denigre a una mujer, basándose en estereotipos de género, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales.
-
-Se impondrán penas de multa, a razón de 200 a 300 veces el valor de la Unidad de Medida y Actualización, y de prisión, de cuatro a seis años, a quien cometa las conductas señaladas en las fracciones I, II, III, IV, V y VI del presente artículo.
-
-Se impondrán penas de multa, a razón de 100 a 200 veces el valor de la Unidad de Medida y Actualización, y de prisión, de dos a cuatro años, a quien cometa las conductas señaladas en las fracciones VII, VIII y IX del presente artículo.
-
-Se impondrán penas de multa, a razón de 50 a 100 veces el valor de la Unidad de Medida y Actualización, y de prisión, de uno a dos años, a quien cometa las conductas señaladas en las fracciones X, XI, XII, XIII y XIV del presente artículo.
-
-Cuando las conductas señaladas en este artículo, fueren realizadas por servidora o servidor público, persona funcionaria electoral, funcionaria partidista, aspirante a candidata independiente, precandidata o candidata, o con su consentimiento, la pena se aumentará en un tercio. Cuando dichas conductas fueren cometidas contra una mujer perteneciente a un pueblo o comunidad indígena, la pena se incrementará en una mitad.
-
-###### Artículo 433.
-
-Por la comisión de cualquiera de los delitos comprendidos en este capítulo, se impondrá además de la pena señalada, la suspensión de derechos políticos por el tiempo que dure la sanción.
-
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-###### Artículo 434.
-
-De los delitos señalados en el presente ordenamiento, se consideran como delitos graves o que ameritan prisión preventiva oficiosa los siguientes:
-
-I. Homicidio doloso y su tentativa previsto en los artículos 19, 79, 224 a 228, 230 y 231;
-
-II. Rebelión previsto en los artículos 138 a 141;
-
-III. Evasión de Presos previsto en los artículos 200 y 201;
-
-IV. Terrorismo previsto en los artículos 134 a 136;
-
-V. Peligro de Contagio contenido en el artículo 302;
-
-VI. Delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho que señalan los artículos 355 a 357;
-
-VII. Trata de Personas previsto en el artículo 284;
-
-VIII. Violación y su tentativa previsto en los artículos 19, 79, 285 a 289;
-
-IX. Retención o Sustracción de Menores o Incapaces contenido en el artículo 261;
-
-X. Asalto contenido en los artículos 271 a 273;
-
-XI. Secuestro y su tentativa previsto en el artículo 283;
-
-XII. Lesiones previsto en los artículos 232 fracción VII y 237 a excepción de los supuestos previstos en las fracciones I a VI del artículo 232;
-
-XIII. Ayuda o Inducción al Suicidio previsto en los artículos 244 a 246 y 248;
-
-XIV. Aborto contenido en el párrafo tercero del artículo 242;
-
-XV. Feminicidio previsto en los artículos 229, 229 bis y 229 ter;
-
-XVI. Extorsión previsto en los artículos 268 al 270;
-
-XVII. Robo Calificado previsto en los artículos 328, 329 fracción VI y 330;
-
-XVIII. Robo de Ganado previsto en los artículos 331 al 334, y
-
-XIX. Daños previstos en los artículos 349 y 350 párrafo segundo.
-
-## TRANSITORIOS
-
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+DECRETO No. 374
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Código deberá publicarse en el Periódico Oficial del Gobierno del Estado de Tlaxcala y entrará en vigor el día treinta y uno de diciembre de dos mil catorce en todo el territorio del Estado de Tlaxcala, salvo en lo que se refiere a los Delitos contra la Salud en su modalidad de Narcomenudeo previstos en el artículo 309 de este ordenamiento, el cual entrará en vigor el día treinta y uno de diciembre de dos mil quince.
-
-Una vez que entre en vigor el presente Código, sé abrogará el Código Penal para el Estado Libre y Soberano de Tlaxcala, contenido en el Decreto número 108, publicado en el Periódico Oficial del Gobierno del Estado, Tomo LXXIV, Número 1, de fecha dos de enero de mil novecientos ochenta.
+Esta Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno de Baja California.
 
 ###### ARTÍCULO SEGUNDO.
 
-En los delitos cometidos con anterioridad a la vigencia del presente código, si los responsables tenían derecho a la libertad provisional bajo caución, seguirán gozando de dicho beneficio.
+El Ejecutivo del Estado expedirá las disposiciones reglamentarias correspondientes para la aplicación de la reforma a la presente Ley, dentro de los noventa días siguientes a la publicación de este Decreto.
+
+P.O. 19 DE OCTUBRE DE 2007.
+
+DECRETO No. 433
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan la presente reforma.
+
+TERCERO. El Poder Ejecutivo del Estado deberá elaborar el reglamento interno del Centro de Trasplantes y Procuración de Órganos y Tejidos en un término de noventa días.
+
+P.O. 16 DE MAYO DE 2008.
+
+Único.- La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 2009.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE AGOSTO DE 2009.
+
+ÚNICO: El presente Decreto entrará en vigor el día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- Las presentes reformas entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los centros de desarrollo infantil, estancias, guarderías o lugares en donde se presten estos servicios, cualquiera que sea su denominación, contarán con un plazo de un año a partir de la publicación de las presentes reformas, para regularizar su funcionamiento de conformidad con las nuevas disposiciones en la materia.
+
+TERCERO.- La Secretaría de Salud dentro del plazo de 180 días contados a partir de la entrada en vigor de las presentes reformas, expedirá el reglamento interno e instalará el Consejo Consultivo para los Centros de Desarrollo Infantil y Estancias Infantiles Familiares en el Estado.
+
+P.O. 28 DE DICIEMBRE DE 2009.
+
+Único.- La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir del 21 de agosto del 2012.
+
+SEGUNDO.- Las autoridades locales desde el momento en que se publique este Decreto realizarán las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo, a efecto de que asuman las mismas a partir de la entrada en vigor del presente Decreto.
+
+P.O. 1 DE JULIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Salud del Estado, contará hasta con 60 días naturales contados a partir de la entrada en vigor del presente Decreto para adecuar su reglamento interno.
+
+P.O. 2 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El Ejecutivo Estatal por conducto de la Secretaría de Salud deberá emitir las disposiciones reglamentarias para el cumplimiento con el objetivo de la reforma.
+
+SEGUNDO.- El Ejecutivo deberá hacer las adecuaciones presupuestales necesarias para el ejercicio fiscal siguiente, para dar cumplimiento con el objetivo de la reforma.
+
+TERCERO.- La presente reforma entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2011.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Titular del Poder Ejecutivo comunicará al sector Salud, y difundirá a través de los medios de comunicación a la comunidad en general, el objeto de la presente reforma.
+
+P.O. 23 DE DICIEMBRE DE 2011.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ENERO DE 2012.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ABRIL DE 2012.
+
+DECRETO No. 186, POR EL QUE SE APRUEBA LA REFORMA A LA FRACCIÓN XXV Y LA CREACIÓN DE LA FRACCIÓN XXVI AL ARTÍCULO 4, LA REFORMA A LA FRACCIÓN XIII DEL ARTÍCULO 73, LA REFORMA A LA FRACCIÓN V DEL ARTÍCULO 74, LA ADICIÓN A LA DENOMINACIÓN DEL CAPÍTULO NOVENO, LA CREACIÓN DE LA SECCIÓN V CORRESPONDIENTE AL CAPÍTULO NOVENO, ASÍ COMO LA CREACIÓN DEL ARTÍCULO 106 QUÁTER, TODOS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+Primero.- Las presentes reformas entrará (sic) en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Ejecutivo del Estado, contará con un plazo de 180 días, contados a partir de la publicación del presente Decreto, para realizar las adecuaciones reglamentarias, administrativas y presupuestales que correspondan.
+
+P.O. 20 DE ABRIL DE 2012.
+
+DECRETO No. 187 POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 32 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA, QUE ADICIONA EL PÁRRAFO SEGUNDO Y TERCERO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado en un término no mayor de 60 días contados a partir de la entrada en vigor del presente Decreto, deberá modificar los Reglamentos respectivos derivados de la Ley de Salud Pública del Estado de Baja California.
+
+P.O. 15 DE JUNIO DE 2012.
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JUNIO DE 2012.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2012.
+
+DECRETO No. 268, POR EL QUE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 7, 11, 21, 31, 36, 47, 68, 89 Y 99, TODOS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado, Órgano de difusión del Poder Ejecutivo del Estado Libre y Soberano de Baja California.
+
+P.O. 21 DE SEPTIEMBRE DE 2012.
+
+DECRETO No. 265, POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 50 TER; LA FRACCIÓN VI DEL ARTÍCULO 50 TER 2; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 50 TER 3, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 50 TER 5, SE ADICIONAN LOS ARTÍCULOS 50 TER 6, 50 TER 7 Y 50 TER 8 TODOS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado expedirá el Reglamento de la Ley de Salud Pública para el Estado de Baja California en materia de Trasplantes en un plazo que no excederá 90 días naturales a partir de la entrada en vigor del presente Decreto.
+
+TERCERO.- Los establecimientos a que se refiere el artículo 50 TER 6 de la Ley de Salud Pública para el Estado de Baja California y el Centro de Trasplantes y Procuración de Órganos y Tejidos, contarán con un plazo de 90 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones correspondientes para su cumplimiento.
+
+CUARTO.- El Centro de Trasplantes y Procuración de Órganos y Tejidos y los restablecimientos que se hacen referencia en el punto anterior, tendrán un plazo de hasta doce meses a partir de la entrada en vigor del presente Decreto, para contar con un Coordinador Hospitalario de Donación de Órganos y Tejidos para Trasplantes. Dicho plazo se determinará de conformidad con las disposiciones reglamentarias que para tal efecto emitan el ejecutivo Estatal.
+
+QUINTO.- Las acciones que, en su caso, deban efectuar las dependencias y entidades de la Administración Pública Estatal, para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos del Estado.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+DECRETO No. 300, POR EL QUE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 4 EN SU FRACCIÓN XII, 24 EN SU FRACCIÓN IV Y 71 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE OCTUBRE DE 2012.
+
+DECRETO No. 301, POR EL QUE APRUEBA LA REFORMA A LOS ARTÍCULOS 69 Y 70 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2012.
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A la entrada en vigor del presente decreto, el Titular del Ejecutivo Estatal a través de la Secretaría de Planeación y Finanzas, contará hasta con 90 días naturales para hacer los ajustes presupuestales y ejecutar la campaña permanente de donación altruista de sangre. En el mismo plazo emitirá el reglamento correspondiente para el funcionamiento del Banco Estatal de Sangre.
+
+TERCERO.- Para los efectos de la organización y funcionamiento del Banco Estatal de Sangre, las erogaciones que deban realizarse para ese fin, se sujetaran a los recursos aprobados en el presupuesto de egresos asignado a la Secretaría de Planeación y Finanzas para el ejercicio fiscal 2013.
+
+P.O. 28 DE DICIEMBRE DE 2012.
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor en el momento en que cobre vigencia el nuevo Código Penal y de Procedimientos Penales para el Estado Libre y Soberano de Tlaxcala, en los términos del Artículo Primero Transitorio del Decreto Número 175, publicado en el Periódico Oficial del Gobierno del Estado el día 29 de mayo de 2013.
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 28 DE NOVIEMBRE DE 2014.
+P.O. 11 DE ENERO DE 2013.
 
-DECRETO No. 54 POR EL QUE SE REFORMA EL ARTÍCULO 229, SE ADICIONAN LOS ARTÍCULOS 229 BIS Y 229 TER Y SE DEROGA EL NUMERAL 240 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA, CONTENIDO EN EL DECRETO NÚMERO 161 EMITIDO POR EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL TREINTA Y UNO DE MAYO DEL AÑO DOS MIL TRECE.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala, a excepción de la reforma al artículo 93 del Código de Procedimientos Penales para el Estado Libre y Soberano de Tlaxcala, publicado en el Periódico Oficial del Gobierno del Estado el dos de enero de mil novecientos ochenta, la cual entrará en vigor el día treinta y uno de diciembre de dos mil catorce de manera simultánea con el nuevo Código Penal para el Estado Libre y Soberano de Tlaxcala publicado en el Periódico Oficial del Gobierno del Estado el treinta y uno de mayo de dos mil trece.
-
-###### ARTÍCULO SEGUNDO.
-
-Cuando las leyes, reglamentos o cualquier ordenamiento de observancia general vigente en el Estado de Tlaxcala se refieran al Código de Procedimientos Penales del Estado de Tlaxcala, se entenderá que se refieren al Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación del cinco de marzo de dos mil catorce, conforme a las reglas de vigencia establecidas en el artículo transitorio anterior y a la Declaratoria expedida por el Congreso del Estado con fecha veintidós de octubre de dos mil catorce y publicada en el Periódico Oficial del Gobierno del Estado de fecha veintitrés de octubre del año en curso.
-
-P.O. 24 DE ABRIL DE 2015.
+DECRETO No. 393 POR EL QUE SE APRUEBA LA ADICIÓN DE UNA FRACCIÓN IV RECORRIÉNDOSE LA SUBSECUENTE PARA PASAR A SER FRACCIÓN V DEL ARTÍCULO 30 DE LA LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de la publicación en el Periódico Oficial del Estado de Baja California.
 
-P.O. 18 DE JUNIO DE 2015.
+P.O. 11 DE ENERO DE 2013.
+
+DECRETO No. 396 POR EL QUE SE APRUEBA LA REFORMA DE LA FRACCIÓN V, Y LA ADICIÓN DE LA FRACCIÓN VI AL ARTÍCULO 22 DE LA LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO: La presente reforma entrará en vigor el primero de enero de 2013.
+
+SEGUNDO: A partir del ejercicio fiscal de 2013, se programarán los recursos necesarios en los presupuestos de egresos correspondientes a fin de garantizar el debido cumplimiento de la presente reforma.
+
+P.O. 18 DE ENERO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE ABRIL DE 2013.
+
+DECRETO No. 434, POR EL QUE SE APRUEBA LA REFORMA QUE ADICIONA UN ARTÍCULO 98 BIS A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ABRIL DE 2013.
+
+DECRETO No. 437, POR EL QUE SE APRUEBA LA REFORMA QUE ADICIONA UN ARTÍCULO 45 BIS A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de la publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE ABRIL DE 2013.
+
+DECRETO No. 433, POR EL QUE SE APRUEBA LA ADICIÓN DEL ARTÍCULO 16 BIS A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ABRIL DE 2013.
+
+DECRETO No. 436, POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 4 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Salud para el Estado de Baja California tendrá un plazo de 90 días para determinar las reglas de operación bajo las cuales se realizarán dichos estudios.
+
+P.O. 12 DE ABRIL DE 2013.
+
+DECRETO No. 438, POR EL QUE SE APRUEBA LA REFORMA QUE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 54 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor, simultáneamente al Código Penal para el Estado Libre y Soberano de Tlaxcala, contenido en el Decreto número 161, publicado en el Periódico Oficial del Gobierno del Estado, el día treinta y uno de mayo del año dos mil trece.
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 28 DE NOVIEMBRE DE 2014.
+P.O. 18 DE OCTUBRE DE 2013.
 
-DECRETO No. 58 POR EL QUE SE REFORMAN LA FRACCIÓN I DEL ARTICULO 16; EL PÁRRAFO SEXTO DEL ARTICULO 39; PÁRRAFO ULTIMO DEL ARTICULO 40; LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTICULO 55; EL PÁRRAFO ULTIMO DEL ARTICULO 57; LA FRACCIÓN II DEL ARTÍCULO 63; EL PÁRRAFO TERCERO DEL ARTICULO 106; 177, LA FRACCIÓN V DEL ARTÍCULO 193, LA FRACCIÓN III DEL ARTÍCULO 220 Y ARTÍCULO PRIMERO TRANSITORIO Y SE ADICIONAN UN PÁRRAFO CUARTO AL ARTÍCULO 5; LOS ARTÍCULOS 6 BIS Y 6 TER; UN PÁRRAFO SEGUNDO RECORRIÉNDOSE EL SUBSECUENTE AL ARTÍCULO 11; UNA FRACCIÓN III AL ARTÍCULO 49; UNA FRACCIÓN V AL ARTÍCULO 50; UN PÁRRAFO NOVENO AL ARTÍCULO 60; UNA FRACCIÓN X AL ARTÍCULO 188; LAS FRACCIONES VI Y VII AL ARTÍCULO 334, Y UN ARTICULO 434, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA, EXPEDIDO MEDIANTE DECRETO NÚMERO 161, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, NUMERO 2 EXTRAORDINARIO, SEGUNDA ÉPOCA, TOMO XCII, DE FECHA TREINTA Y UNO DE MAYO DE DOS MIL TRECE.
+DECRETO NÚMERO 574, POR EL QUE SE APRUEBA LA REFORMA A LAS FRACCIONES XXVIII, XXIX Y LA ADICIÓN DE LA FRACCIÓN XXX AL ARTÍCULO 4, Y LA ADICIÓN DE UNA SECCIÓN XIV, DENOMINADA "DEL PROGRAMA PARA LA ATENCIÓN MÉDICA DE NEOPLASIAS" ASÍ COMO DEL ARTÍCULO 50 SEPTIES A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir del ejercicio fiscal de 2014, se preverán los recursos necesarios en los presupuestos de egresos correspondientes, a fin de garantizar la implementación del programa a que se refiere la presente reforma.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+DECRETO NÚMERO 577, POR EL QUE SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 29, 50 QUARTER 1 Y 94, ASÍ COMO LA MODIFICACIÓN A LA DENOMINACIÓN DEL CAPÍTULO OCTAVO DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2013.
+
+DECRETO NÚMERO 578, POR EL QUE SE APRUEBA LA REFORMA QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 59 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Túrnese a la Secretaría de Salud del Estado, a fin de que realice el estudio financiero y económico respectivo que soporte el gasto público para el apoyo económico y en especie a los pasantes de la profesión de la salud en formación, adscritos al sector salud, a fin de que sea considerado en el Ejercicio Presupuestario del año 2014 de esa Dependencia.
+
+P.O. 25 DE OCTUBRE DE 2013.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+Se preverán los recursos necesarios en el Presupuesto de Egresos 2014, a fin de garantizar la implementación de los programas a que se refiere la presente reforma.
 
-P.O. 19 DE MAYO DE 2016.
+P.O. 17 DE OCTUBRE DE 2014.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 223.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 20.- SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA".]
+P.O. 24 DE OCTUBRE DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2014.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 2015.
+
+DECRETO No. 300, POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 11 FRACCIÓN XIII Y 12 FRACCIÓN IV DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 2015.
+
+DECRETO No. 301, POR EL QUE SE APRUEBA LA INICIATIVA POR EL QUE SE REFORMA EL ARTÍCULO 22 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo del Estado deberán (sic) realizar las reformas a los Reglamentos correspondientes, teniendo un plazo de 90 días naturales a partir de la publicación del presente Decreto.
+
+P.O. 31 DE JULIO DE 2015.
+
+DECRETO NÚMERO 302, POR EL QUE SE APRUEBA LA REFORMA Y ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 147 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO: La presente reforma entrará en vigor a los 120 días siguientes a su publicación en el Periódico Oficial.
+
+SEGUNDO: El Ejecutivo del Estado y los Ayuntamientos tendrán un plazo de noventa días contados a partir de la entrada en vigor de la presente Ley, para adecuar su normatividad en el ámbito de su competencia.
+
+TERCERO: El Poder Ejecutivo del Estado de Baja California, deberá realizar las Políticas Públicas que se estimen necesarias, a efecto de que los Centros de Desarrollo infantil se cuente (sic) con personal técnico capacitado, así como equipo y medidas requeridas en los Centros de Desarrollo Infantil, para la inclusión de menores con discapacidad cualquiera que sea su denominación.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+DECRETO No. 316, POR EL QUE SE APRUEBAN LAS REFORMAS A LA FRACCIÓN XXX Y SE ADICIONA UNA FRACCIÓN XXXI, AMBAS DEL ARTÍCULO 4, EL ARTÍCULO 48, Y ARTÍCULO 69 FRACCIÓN III, ASÍ COMO LA ADICIÓN DEL CAPÍTULO SÉPTIMO BIS DENOMINADO "DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN SITUACIÓN TERMINAL" CON IV SECCIONES, TODOS DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+DECRETO No. 317, POR EL QUE SE APRUEBA LA REFORMA AL PÁRRAFO SEGUNDO DEL ARTÍCULO 26 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2015.
+
+ÚNICO.- EI presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 497 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 19 Y 46 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas, entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JULIO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 498 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LAS FRACCIONES VII Y VIII, ASÍ COMO LA ADICIÓN DE LA FRACCIÓN IX AL ARTÍCULO 77 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-P.O. 12 DE JULIO DE 2017.
+P.O. 15 DE JULIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 131.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA, DE LA LEY ORGÁNICA DE LA INSTITUCIÓN DEL MINISTERIO PÚBLICO DEL ESTADO DE TLAXCALA Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 499 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XV, ADICIONA UNA FRACCIÓN XVI AL ARTÍCULO 11 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO No. 154.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA Y LA LEY MUNICIPAL DEL ESTADO DE TLAXCALA”.]
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-###### ARTÍCULO PRIMERO.
+P.O. 15 DE JULIO DE 2016.
 
-El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 495 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN III DEL ARTÍCULO 7 Y LA ADICIÓN AL ARTÍCULO 36 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
-###### ARTÍCULO SEGUNDO.
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-Se derogan las disposiciones que se opongan al contenido de este Decreto.
+P.O. 5 DE AGOSTO DE 2016.
 
-P.O. 24 DE DICIEMBRE DE 2019.
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 525 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 7, 11, 68 Y 69 TODOS DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 187.- POR EL QUE SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TLAXCALA; Y DE LA LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA”.]
+ÚNICO: Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-###### ARTÍCULO PRIMERO.
+P.O. 5 DE AGOSTO DE 2016.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 526 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 33 BIS A LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
 
-###### ARTÍCULO SEGUNDO.
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+P.O. 5 DE AGOSTO DE 2016.
 
-P.O. 27 DE ABRIL DE 2020.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 527 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 62, 188, 189 Y 191 TODOS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
-> <small>[N. DE E. DECRETO NO. 204.- POR EL QUE SE REFORMAN EL ARTÍCULO 186 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 375, SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 375; TODOS DE CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]</small>
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-###### ARTÍCULO PRIMERO.
+P.O. 5 DE AGOSTO DE 2016.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 528 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LAS FRACCIONES V Y VI Y LA ADICIÓN DE LA FRACCIÓN VII AL ARTÍCULO 22, DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
 
-###### ARTÍCULO SEGUNDO.
+ÚNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
-
-P.O. 17 DE AGOSTO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO No. 209.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTIDOS POLÍTICOS, DEL CÓDIGO PENAL, DE LA LEY ORGÁNICA DE LA INSTITUCIÓN DEL MINISTERIO PÚBLICO Y DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL, TODAS DEL ESTADO DE TLAXCALA”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan las disposiciones que se opongan al contenido de este Decreto.
-
-P.O. 25 DE AGOSTO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 212.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TLAXCALA".]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 10 DE MAYO DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 331.- SE ADICIONAN UN PÁRRAFO CUARTO AL ARTÍCULO 116, EL CAPÍTULO VI DENOMINADO "VIOLACIÓN A LA IDENTIDAD SEXUAL", CON SU RESPECTIVO ARTÍCULO 295 TER, Y EL CAPÍTULO VII DENOMINADO "PEDERASTIA", CON SU RESPECTIVO ARTÍCULO 295 QUÁTER, AMBOS AL TÍTULO NOVENO "DELITOS CONTRA LA LIBERTAD Y LA SEGURIDAD SEXUAL Y EL NORMAL DESARROLLO PSICOSEXUAL'', TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
-
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
-
-Segundo. Quedan derogadas todas las normas que se opongan al presente Decreto.
+P.O. 21 DE OCTUBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 622 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 31 BIS A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
@@ -5715,15 +3777,17 @@ P.O. 30 DE NOVIEMBRE DE 2018.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en vigor, se tomará el valor publicado en el Diario Oficial de la Federación por el INEGI. El valor de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor referido en el párrafo anterior por 30.4. Por su parte, el valor anual será el producto de multiplicar el valor inicial mensual por 12.
 
 ###### ARTÍCULO TERCERO.
 
-La modificación o reubicación de cualquier tipo penal a que se refiere este decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 1 DE FEBRERO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 288 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 26, 27 Y 28 TODOS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
@@ -5741,111 +3805,31 @@ P.O. 6 DE DICIEMBRE DE 2019.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+La presente reformas entrarán (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Las reformas y adiciones previstas en el artículo primero del presente Decreto, entrarán en vigor una vez que esté instalado y entre en funciones el Tribunal de Justicia Administrativa.
+Dentro de los sesenta días naturales contados a partir de la entrada en vigor de la presente reforma, el Titular de la Comisión Estatal de Protección Contra Riesgos Sanitarios remitirá al Gobernador del Estado la propuesta de reglamento interno para su validación y publicación en su caso.
 
 ###### ARTÍCULO TERCERO.
 
-El Tribunal de Justicia Administrativa deberá crearse en un plazo no mayor a ciento ochenta días naturales a partir de la publicación del presente Decreto.
+Dentro de los sesenta días naturales contados a partir de la entrada en vigor de la presente reforma, el Instituto de Servicios de Salud Pública de Baja California (ISESALUD), remitirá al Gobernador del Estado la propuesta de modificación a su reglamento interno por lo que hace la Subdirección General para la Protección Contra Riesgos Sanitarios para armonizarlo con la presente reforma.
 
 ###### ARTÍCULO CUARTO.
 
-Para la instalación y funcionamiento de la Fiscalía Especializada en Personas Desaparecidas y No Localizadas se estará a lo dispuesto en el Reglamento de la Ley Orgánica de la Institución del Ministerio Público del Estado de Tlaxcala.
+La Secretaria de Salud, así como el Instituto de Servicios de Salud Pública de Baja California (ISESALUD), dentro de los sesenta días naturales contados a partir de la entrada en vigor de la presente reforma, realizarán las acciones administrativas necesarias para que el patrimonio, recursos y personal asignados actualmente a la Subdirección General para la Protección Contra Riesgos Sanitarios dependiente del Instituto de Servicios de Salud Pública de Baja California (ISESALUD), sea asignado a la Comisión Estatal de Protección Contra Riesgos Sanitarios.
+
+Para lograr lo anterior se conformará una comisión técnica, que será integrada por la Secretaria de Salud, el Instituto de Servicios de Salud Pública de Baja California (ISESALUD) Comisión Estatal de Protección Contra Riesgos Sanitarios, Secretaria de Hacienda, Oficialía Mayor y la Secretaria General de Gobierno.
 
 ###### ARTÍCULO QUINTO.
 
-A partir de la entrada en vigor de las reformas y adiciones a la Ley Orgánica de la Institución del Ministerio Público del Estado de Tlaxcala, el Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias correspondientes.
+Las obligaciones y compromisos que el Ejecutivo Estatal y la Secretaria de Salud, hayan adquirido mediante acuerdos, convenios de colaboración o de trasferencia de recursos, con la federación en materia sanitaria, en el cual el Instituto de Servicios de Salud Pública de Baja California (ISESALUD) tenga participación, para el Ejercicio Fiscal 2019, continuará hasta su conclusión, con la participación de la Comisión Estatal de Protección Contra Riesgos Sanitarios.
 
 ###### ARTÍCULO SEXTO.
 
-Se instruye al Procurador General de Justicia del Estado a efecto de que instrumente las medidas necesarias para dar debido cumplimiento al presente Decreto.
+Entrada en vigor la presente reforma y designado el Titular de la Comisión Estatal de Protección Contra Riesgos Sanitarios, por el Gobernador del Estado, la Secretaria de Salud del Estado harán del conocimiento de la Secretaria de Salud Federal, así como de la creación normativa y operativa de la Comisión Estatal de Protección Contra Riesgos Sanitarios, en Baja California, para efecto de que sea considerada para la suscripción de acuerdos, convenios de colaboración o de trasferencia de recursos, con la federación en materia sanitaria para el Ejercicio Fiscal 2020.
 
-###### ARTÍCULO SÉPTIMO.
-
-En un plazo de sesenta días naturales posteriores a la entrada en vigor del presente Decreto, el Procurador General de Justicia del Estado deberá nombrar a los titulares de la Fiscalía Especializada en Combate a la Corrupción, de la Fiscalía Especializada para la Investigación y Persecución de los Delitos en Materia de Trata de Personas, y de la Fiscalía Especializada en Personas Desaparecidas y No Localizadas.
-
-###### ARTÍCULO OCTAVO.
-
-La Subprocuraduría, departamentos y unidades administrativas que tengan conocimiento de investigaciones en procesos relacionados con hechos que la ley considera como delitos en materia de corrupción las remitirá a la Fiscalía Especializada en Combate a la Corrupción para su conocimiento y atención.
-
-###### ARTÍCULO NOVENO.
-
-La instancia del Gobierno del Estado encargada de la aprobación del Presupuesto de Egresos del Poder Ejecutivo, realizará las acciones necesarias para proveer de recursos a la Fiscalía Especializada en Combate a la Corrupción. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
-
-###### ARTÍCULO DÉCIMO.
-
-A partir de la entrada en vigor de este Decreto, para el caso en que las reformas contenidas en el mismo, contemplen una descripción legal de una conducta delictiva que en los artículos reformados se contemplaban como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
-
-I. En los casos de hechos que constituyan alguno de los delitos reformados por el presente Decreto, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la traslación del tipo que resulte;
-
-II. En las investigaciones iniciadas, en los que aún no se ejercite la acción penal, el Ministerio Público ejercerá ésta de conformidad con la traslación del tipo que resulte;
-
-III. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
-
-IV. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, la o el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades, y
-
-V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
-
-Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
-
-###### ARTÍCULO DÉCIMO PRIMERO.
-
-Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
-
-P.O. 30 DE AGOSTO DE 2018.
-
-###### ARTÍCULO TERCERO.
-
-Las indagatorias penales y/o carpetas de investigaciones que se inicien y los procesos penales que se instruyan con motivo de hechos probablemente constitutivos de delito, ocurridos previamente a la entrada en vigor del presente Decreto se regirán por las disposiciones del Código Penal para el Estado Libre y Soberano de Tlaxcala vigentes en el momento en que acontecieron.
-
-P.O. 12 DE ABRIL DE 2018.
-
-###### ARTÍCULO CUARTO.
-
-Se derogan los artículos 2, 6, 13 y 14 de la Ley para Prevenir y Sancionar la Tortura para el Estado de Tlaxcala, publicada, mediante Decreto número 68, en el Periódico Oficial del Gobierno del Estado de Tlaxcala, Tomo LXXXII, Segunda Época, No. Extraordinario, de fecha 11 de diciembre del 2003.
-
-###### ARTÍCULO QUINTO.
-
-Se abroga la Ley para Prevenir y Sancionar la Usura en el Estado de Tlaxcala, publicada, mediante Decreto número 233, en el Periódico Oficial del Gobierno del Estado, Tomo LXXIX, Segunda Época, No. 43, Segunda Sección, de fecha 25 de octubre de 1995.
-
-###### ARTÍCULO SEXTO.
-
-Las disposiciones contenidas en el Título Vigésimo Séptimo de este código, denominado "DE LOS DELITOS CONTRA EL SISTEMA ELECTORAL", entrarán en vigor a partir del mes de enero del año 2014.
-
-###### ARTÍCULO SÉPTIMO.
-
-Las disposiciones relativas a la ejecución de penas, medidas de seguridad, medidas cautelares y las condiciones impuestas en la suspensión del proceso a prueba, respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor del presente decreto, serán ejercidas por los Jueces de Ejecución, sin perjuicio de la coordinación que deban mantener con las dependencias del Ejecutivo competentes en materia de reinserción social, ejecución de penas y medidas de seguridad.
-
-AL EJECUTIVO PARA QUE LO SANCIONE Y MANDE PUBLICAR
-
-Dado en la sala de sesiones del Palacio Juárez, recinto oficial del Poder Legislativo del Estado Libre y Soberano de Tlaxcala, en la ciudad de Tlaxcala de Xicohténcatl, a los catorce días del mes de mayo del año dos mil trece.
-
-C. MARIO HERNÁNDEZ RAMÍREZ.- DIP. PRESIDENTE.- Rúbrica.- C. ARMANDO RAFAEL LÓPEZ DE ITA.- DIP. SECRETARIO.- Rúbrica.- C. FORTUNATO MACÍAS LIMA.- DIP. SECRETARIO.- Rúbrica.
-
-Al calce un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
-
-Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los veintinueve días del mes de mayo de 2013.
-
-EL GOBERNADOR DEL ESTADO
-
-MARIANO GONZALEZ ZARUR
-
-Rúbrica y sello
-
-EL SECRETARIO DE GOBIERNO
-
-MIGUEL MOCTEZUMA DOMÍNGUEZ
-
-Rúbrica y sello
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 5 DE DICIEMBRE DE 2013.
+P.O. 15 DE MAYO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 68 MEDIANTE EL CUAL SE APRUEBAN LASREFORMASA (SIC) LOS ARTÍCULOS 2, 149, 150 Y 153 DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
 
@@ -5914,3 +3898,21 @@ P.O. 17 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 142 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 45, 45 BIS, 51, 52 Y 54 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 194 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 4, 11, 51, 116 BIS, 116 QUÁTER, 122, 149, 150, 151, 154, 155, 157, 158, 162, 168, 169, 171, 173, 174, 175, 176, 179, 185, 188, 189, 190, 191, 192 Y 194, COMO TAMBIÉN EL CAMBIO DE DENOMINACIÓN DEL CAPÍTULO DÉCIMO PRIMERO, DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente Decreto de reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Poder Ejecutivo del Estado y, en su caso, los Ayuntamientos, dentro de los tres meses siguientes al inicio de la vigencia de las presente reformas, emitirán las disposiciones administrativas que sean necesarias para su debida observancia.
+
+TERCERO. Las menciones que se hagan en otros ordenamientos a la Comisión Estatal para la Protección Contra Riesgos Sanitarios, se entenderán referidas al Instituto de Servicios de Salud Pública del Estado de Baja California y a la unidad administrativa de este último que se determine en su Reglamento Interno.
+
+P.O. 27 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 198 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 45, 65 Y 104 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 73 TER".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El suministro gratuito de productos de gestión menstrual se sujetará a la disponibilidad presupuestaria de la Secretaría de Salud del Estado y con base a las disposiciones normativas aplicables en términos de la Ley General de Salud.
