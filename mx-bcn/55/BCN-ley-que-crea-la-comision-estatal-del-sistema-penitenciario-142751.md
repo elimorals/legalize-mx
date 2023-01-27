@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-la-comision-estatal-del-sistema-penitenciario-1427
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-30"
-last_updated: "2021-12-31"
+last_updated: "2023-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE CREA LA COMISIÓN ESTATAL DEL SISTEMA PENITENCIARIO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
 
 Ley publicada en el Número 58 del Periódico Oficial del Estado de Baja California, el jueves 30 de abril de 2020.
 
@@ -99,7 +99,9 @@ VI. Organizar las instalaciones de los Centros de Reinserción Social y de los C
 
 VII. Procurar la reinserción social efectiva mediante los distintos programas institucionales;
 
-VIII. Garantizar condiciones de internamiento dignas y seguras acordes al género de las personas privadas de su libertad, conforme a la legislación aplicable;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
+
+VIII. Garantizar condiciones de internamiento dignas y seguras acordes al género de las personas privadas de su libertad, asegurando en todo momento a las mujeres y personas menstruantes el acceso a los productos de gestión menstrual, conforme a la legislación aplicable;
 
 IX. Gestionar la custodia penitenciaria;
 
@@ -451,6 +453,10 @@ VI. Las demás que señalen en la Ley, su Reglamento y demás disposiciones apli
 
 La Comisión para lograr el acceso a servicios y acceso a productos básicos de las mujeres y los hombres privados de la libertad, contará con unidades de abastecimiento que en todo momento procurará cumplir con las necesidades acordes a cada género, mismas que para su debida administración, control y vigilancia, podrá operar mediante fideicomiso o el instrumento jurídico que determine la Junta de Gobierno.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE ENERO DE 2023)</small>
+
+Los Centros de Reinserción Social para mujeres deberán garantizar el acceso gratuito a productos de gestión menstrual para las mujeres y personas menstruantes privadas de la libertad.
+
 ###### Artículo 22.
 
 Cuando la Comisión deje de cumplir con su objetivo o su funcionamiento no resulte conveniente para la economía estatal o el interés público la Secretaría de Hacienda, atendiendo la opinión de la dependencia coordinadora de sector, propondrá al Ejecutivo del Estado su extinción, de conformidad con la Ley de Entidades Paraestatales del Estado de Baja California y demás disposiciones aplicables.
@@ -500,3 +506,11 @@ P.O. 31 DE DICIEMBRE DE 2021.
 PRIMERO. Las presentes reformas entrarán en vigor el primero de enero de 2022.
 
 SEGUNDO. Dentro de un plazo de treinta días contados a partir de la entrada en vigor de las presentes reformas, deberá emitirse el Acuerdo de Sectorización que determine como cabeza de sector de la Comisión Estatal del Sistema Penitenciario de Baja California, a la Secretaría de Seguridad Ciudadana.
+
+P.O. 27 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 198 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 45, 65 Y 104 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 73 TER”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El suministro gratuito de productos de gestión menstrual se sujetará a la disponibilidad presupuestaria de la Comisión Estatal del Sistema Penitenciario de Baja California y con base a las disposiciones normativas aplicables en términos de la Ley General de Salud.
