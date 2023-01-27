@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-las-personas-con-discapacidad-en-el-estado-de-baja-771
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-15"
-last_updated: "2022-12-02"
+last_updated: "2023-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
 
@@ -69,9 +69,9 @@ VI. La accesibilidad;
 
 VII. La participación e inclusión, plenas y efectivas en la sociedad;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
 
-VIII.- La aceptación de las personas con discapacidad como parte de la diversidad y la condición humana;
+VIII. La aceptación y respeto de las personas con discapacidad como parte de la diversidad y la condición humana;
 
 > <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -329,9 +329,9 @@ ARTÍCULO 6 TER.- Las personas con discapacidad tienen capacidad jurídica en ig
 
 ARTÍCULO 6 QUARTER.- Las autoridades estatales y municipales competentes, proporcionarán a las personas con discapacidad el apoyo que puedan necesitar en el ejercicio de su capacidad jurídica.
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2023)</small>
 
-ARTÍCULO 6 QUINQUIES.- La Procuraduría y la Defensoría Pública del Estado en ejercicio de sus competencias, apoyarán jurídicamente a las niñas, niños y adolescentes y en general a las personas con discapacidad que así lo requieran, a efecto de que puedan ejercer su capacidad jurídica a través de sus representantes, en términos de la legislación de la materia.
+ARTÍCULO 6 QUINQUIES.- La Fiscalía General del Estado y la Defensoría Pública del Estado en ejercicio de sus competencias, apoyarán jurídicamente a las niñas, niños y adolescentes y en general a las personas con discapacidad que así lo requieran, a efecto de que puedan ejercer su capacidad jurídica a través de sus representantes, en términos de la legislación de la materia.
 
 > <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
 
@@ -1157,9 +1157,11 @@ Los acuerdos del consejo se tomarán por mayoría de votos de los miembros prese
 
 El Consejo sesionará ordinariamente, por lo menos cada dos meses y extraordinariamente en cualquier tiempo a solicitud de su Presidente o de la mayoría de sus miembros, teniendo la obligación de informar a todos los miembros del Consejo sobre el contenido de las sesiones.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 45.
 
-El Consejo determinara las ciudades sede para sesionar, tomando en cuenta el principio de equidad y empleando las instalaciones que para tal efecto proporcione la secretaría de desarrollo social.
+El Consejo determinará las ciudades sede para sesionar, tomando en cuenta el principio de equidad y empleando las instalaciones que para tal efecto proporcione la Secretaría de Bienestar.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -1244,6 +1246,8 @@ ARTÍCULO 53 BIS.- El Consejo se apoyará del Subcomité Especial de Asistencia 
 > <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
 
 ARTÍCULO 62 BIS.- Las autoridades señaladas en las fracciones I, II, III y IV del artículo 7 de esta Ley, contarán con al menos un módulo de atención y orientación para personas con discapacidad, en aquellas ciudades donde tengan presencia de servicios y que corresponda a su jurisdicción. Dicho módulo contará con el personal humano debidamente capacitado en Lengua de Señas Mexicanas y en el contenido de la presente Ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 54.
 
@@ -1335,23 +1339,43 @@ El incumplimiento de lo dispuesto con relación al libre acceso de personas con 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-### CAPÍTULO ÚNICO. DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO PRIMERO. DE LOS SERVIDORES PÚBLICOS
 
-> <small>[N. DE E. ANTES ARTÍCULO 54, P.O. 15 DE JULIO DE 2016.]</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2023)</small>
 
-## TÍTULO CUARTO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
+## TÍTULO CUARTO. DE LA RESPONSABILIDAD Y SANCIONES DE LOS SERVIDORES PÚBLICOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2023)</small>
+
+### CAPÍTULO SEGUNDO. SANCIONES DE LOS SERVIDORES PÚBLICOS
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 63.
 
-Los servidores públicos de las Dependencias y Entidades mencionados en el artículo 7 fracción I de la presente Ley, deberán de tratar con respeto, dignidad, diligencia, imparcialidad a las personas con discapacidad que acudan a solicitar la intervención en virtud de las funciones establecidas en la presente Ley. Así mismo, deberán de ejercitar los Planes, Programas y Presupuestos realizados conforme a la Ley de Presupuesto aplicable.
+Las y los servidores públicos de las Dependencias y Entidades mencionados en el artículo 7 de la presente Ley, deberán de tratar con respeto, dignidad, diligencia e imparcialidad a las personas con discapacidad que acudan a solicitar la intervención en virtud de las funciones establecidas en la presente Ley. Así mismo, deberán de ejercitar los Planes, Programas y Presupuestos realizados conforme a la Ley de Presupuesto aplicable.
 
-De igual forma las dependencias y entidades a que se refiere el párrafo anterior y que proporcionen servicios al público, destinarán una ventanilla de atención preferente para las personas con discapacidad.
+De igual forma las dependencias y entidades a que se refiere la presente Ley y que proporcionen servicios al público en general, destinarán una ventanilla de atención preferente para las personas con discapacidad.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 64.
 
-El incumplimiento a lo establecido en el artículo que antecede, la Persona con discapacidad podrá acudir a la Secretaría de la Honestidad y la Función Pública, a interponer el procedimiento Disciplinario Administrativo, en los términos de la Ley de Responsabilidades Administrativas del Estado de Baja California.
+Ante el incumplimiento a lo establecido en la presente Ley, la persona con discapacidad podrá acudir a la Secretaría de la Honestidad y la Función Pública, o bien ante el órgano interno de control que corresponda, a interponer el procedimiento disciplinario que corresponda, en los términos de la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE ENERO DE 2023)</small>
+
+###### ARTÍCULO 65.
+
+Las sanciones administrativas que imponga la Sindicatura, la Secretaría de la Honestidad y Función Pública, los Órganos Internos de Control, el Tribunal Superior de Justicia, el Consejo de la Judicatura del Estado, el Tribunal Estatal de Justicia Administrativa a los Servidores Públicos derivado de los procedimientos por la comisión de faltas administrativas graves, consistirán en:
+
+I. Suspensión del empleo, cargo o comisión.
+
+II. Destitución del empleo, cargo o comisión.
+
+III. Sanción económica.
+
+IV. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
 ## TRANSITORIOS
 
@@ -1488,3 +1512,9 @@ P.O. 2 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 172 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 38 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 200 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 6 QUINQUIES, 45, 63 Y 64; LA DENOMINACIÓN DEL TÍTULO CUARTO; LA DENOMINACIÓN DEL CAPÍTULO PRIMERO DEL TÍTULO CUARTO; LA ADICIÓN DE UN CAPÍTULO SEGUNDO DENOMINADO SANCIONES DE LOS SERVIDORES PÚBLICOS AL TÍTULO CUARTO, COMO TAMBIÉN LA ADICIÓN DE UN ARTÍCULO 65, TODOS DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA"]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
