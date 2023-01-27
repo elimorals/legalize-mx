@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2022-03-25"
+last_updated: "2023-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -791,6 +791,12 @@ Corresponderá a la Secretaría del Trabajo y Previsión Social el formular y ej
 
 Corresponderá a la Secretaría de Salud el implementar en la política de salud del estado, los principios de equidad y no discriminación entre mujeres y hombres, favoreciendo la prevención de la violencia de género, garantizando que en todas sus dependencias, cuando se trate de la atención a las víctimas, se aplique la NOM 190-SSA1-1999: Prestación de servicios de salud; Criterios para la atención médica de violencia familiar.
 
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2023)</small>
+
+###### Artículo 41 Bis.
+
+Corresponderá a la Secretaría de Salud del Estado garantizar el acceso gratuito a productos de gestión menstrual.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 42.
@@ -1218,3 +1224,11 @@ P.O. 25 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 87 POR EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 184-BIS Y 184-TER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO EL CAMBIO DE DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO CUARTO CORRESPONDIENTE AL LIBRO SEGUNDO, DEL MISMO ORDENAMIENTO”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO CUARTO DEL “DECRETO No. 198 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 45, 65 Y 104 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 73 TER”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El suministro gratuito de productos de gestión menstrual se sujetará a la disponibilidad presupuestaria de la Secretaría de Salud del Estado y con base a las disposiciones normativas aplicables en términos de la Ley General de Salud.
