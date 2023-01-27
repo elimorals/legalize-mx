@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2022-12-22"
+last_updated: "2023-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "QUE"
 
 [NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LAS DISPOSICIONES REFORMADAS POR EL DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MARZO DE 2023 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -1481,7 +1483,9 @@ XV. Las demás facultades y obligaciones que le señalen las leyes y reglamentos
 
 La Secretaría de Planeación y Participación Ciudadana tendrá las atribuciones siguientes:
 
-I. Elaborar, con la participación de las dependencias y organismos del Poder Ejecutivo del Estado, el Plan Estatal de Desarrollo y las proyecciones a largo plazo; así como coordinar y coadyuvar con las dependencias y organismos del Poder ejecutivo en la elaboración de sus programas;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
+
+I. Elaborar con la participación de las dependencias y entidades del Poder Ejecutivo del Estado, el Plan Estatal de Desarrollo y las proyecciones a largo plazo; proponiendo objetivos y realizando diagnósticos a los mismos;
 
 II. Estudiar y formular los proyectos de leyes, decretos, reglamentos y demás disposiciones relativas en materia de planeación, programación y evaluación;
 
@@ -1489,7 +1493,9 @@ III. Prestar a los municipios, cuando así lo soliciten, la asesoría y el apoyo
 
 IV. Informar a la Jefatura de Gabinete el seguimiento de las políticas públicas de las dependencias, conforme a los objetivos establecidos en el Plan Estatal de Desarrollo, en los programas y demás instrumentos jurídicos;
 
-V. Diseñar y proponer en coordinación con las dependencias y entidades, la creación, modificación o extinción de las políticas públicas estatales;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
+
+V. Diseñar y proponer, en coordinación con las dependencias y entidades del Poder Ejecutivo del Estado, la creación, modificación, mejoras, diagnóstico o extinción de las políticas públicas estatales;
 
 VI. Integrar la información referente a los avances en el cumplimiento de los objetivos planteados en el Plan Estatal de Desarrollo, en los programas y planes anuales, así como de los proyectos prioritarios;
 
@@ -1499,7 +1505,9 @@ VIII. Integrar los informes anuales del Gobernador del Estado;
 
 IX. Integrar la estadística estatal;
 
-X. Promover la vinculación de los ciudadanos con los ejercicios de planeación en el Estado;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
+
+X. Promover la participación y vinculación de la ciudadanía en los ejercicios de planeación, diseño, valoración y seguimiento de políticas públicas en el Estado; así como en la construcción del Plan Estatal de Desarrollo, en las proyecciones a largo plazo y en los programas;
 
 XI. Compilar, sistematizar, analizar y procesar las propuestas ciudadanas en la construcción del Plan Estatal de Desarrollo, en las proyecciones a largo plazo, en los programas y en el diseño de políticas públicas;
 
@@ -1507,9 +1515,25 @@ XII. Diseñar, ejecutar y evaluar las políticas públicas en materia de Mejora 
 
 XIII. Coordinar con la Jefatura de Gabinete, el sistema de indicadores de gestión de las dependencias;
 
-XIV. Suscribir convenios con instituciones públicas y privadas para la consecución de sus fines; y
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
 
-XV. Las demás establecidas en otras disposiciones jurídicas aplicables.
+XIV. Suscribir convenios con instituciones públicas y privadas para la consecución de sus fines;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ENERO DE 2023)</small>
+
+XV. Coordinar y coadyuvar con las dependencias y entidades del Poder Ejecutivo del Estado en la elaboración de sus programas y su vinculación al Plan Estatal de Desarrollo; así como identificar y proponer aspectos susceptibles de mejora o la implementación de nuevos programas;
+
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2023)</small>
+
+XVI. Promover la vinculación de los ciudadanos con las dependencias y entidades del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2023)</small>
+
+XVII. Propiciar e institucionalizar un diálogo permanente con los ciudadanos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2023)</small>
+
+XVIII. Las demás establecidas en otras disposiciones jurídicas aplicables.
 
 ## TRANSITORIOS
 
@@ -2779,9 +2803,13 @@ P.O. 22 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO Y DE LA LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO”.]
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-La presente Ley entrará en vigor el 1 de enero de 2023, bajo las modalidades previstas en los artículos subsecuentes.
+La presente Ley entrará en vigor el 1 de enero de 2023, bajo las modalidades previstas en ésta disposición y los artículos subsecuentes.
+
+Las disposiciones referentes a las reformas y adiciones a las fracciones XXXIV y XXXIII del artículo 22 de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y las reformas a las fracciones XIII del artículo 54 y VII del artículo 55 de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, entrarán en vigor 6 seis meses después de la fecha indicada en el párrafo que antecede.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -2801,19 +2829,15 @@ Los retenedores a que se refiere el artículo 44, párrafo tercero, de la Ley de
 
 ###### ARTÍCULO QUINTO.
 
-Las dependencias y entidades del Poder Ejecutivo del Estado de Querétaro que ya cuenten en su estructura orgánica con Unidades Informáticas o equivalentes en materia de tecnologías de la información, deberán adecuar sus Reglamentos o normatividad correspondiente a efecto de dar cumplimiento a esta Ley, en un plazo de 60 días naturales contados a partir de la entrada en vigor de la presente Ley.
-
-En tanto no se expidan dichas disposiciones jurídicas se seguirán aplicando en lo conducente las disposiciones normativas correspondientes de las dependencias y entidades del Poder Ejecutivo del Estado de Querétaro, en lo (sic) contravengan a la presente Ley.
+(DEROGADO, P.O. 27 DE ENERO DE 2023)
 
 ###### ARTÍCULO SEXTO.
 
-A partir de la entrada en vigor de la presente Ley, las dependencias y entidades del Poder Ejecutivo en cuya estructura orgánica no se contemple la existencia de Unidades Informáticas o equivalentes en materia de tecnologías de la información observarán las disposiciones que emita la Secretaría de Finanzas del Poder Ejecutivo, a través de la Subsecretaría de Tecnologías de la Información, para la implementación de las reformas y adiciones aprobadas respecto de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y de la Ley de la Administración Pública Paraestatal del Estado de Querétaro.
+(DEROGADO, P.O. 27 DE ENERO DE 2023)
 
 ###### ARTÍCULO SÉPTIMO.
 
-Corresponderá a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro, la creación, nombramiento y remoción de Unidades Informáticas o equivalentes en las dependencias y entidades del Poder Ejecutivo del Estado de Querétaro, en los términos previstos en la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, con motivo de la entrada en vigor de la presente Ley.
-
-Por tanto, las entidades y dependencias del Poder Ejecutivo distintas de la Secretaría de Finanzas no podrán crear plazas o contratar vía honorarios o prestación de servicios a personas físicas o morales para llevar a cabo funciones en materia de tecnologías de la información, así como la adquisición, arrendamiento, comodato, depósito o por alguna otra figura jurídica, sistemas informáticos o servicios relacionados con éstos, equipo de cómputo, servidores o bienes muebles relacionados.
+(DEROGADO, P.O. 27 DE ENERO DE 2023)
 
 ###### ARTÍCULO OCTAVO.
 
@@ -2835,7 +2859,7 @@ Para efectos del impuesto de entretenimientos públicos municipales previsto en 
 
 ###### ARTÍCULO DÉCIMO.
 
-Para efectos de lo establecido en el artículo 88, párrafo tercero de la Ley de Hacienda de los Municipios del Estado de Querétaro quedarán exceptuados los inmuebles propiedad de la Federación, Estado y Municipios.
+(DEROGADO, P.O. 27 DE ENERO DE 2023)
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
@@ -2982,3 +3006,13 @@ XXXI. Los aprovechamientos generados por la Secretaría de Seguridad Ciudadana p
 XXXII. Para los Asentamientos en proceso de regularización con la Comisión de Regularización de la Tenencia de la Tierra (CORETT), actualmente Instituto Nacional del Suelo Sustentable (INSUS), con el Instituto de la Vivienda del Estado de Querétaro (IVEQ) o la Secretaría de Desarrollo Social del Estado de Querétaro (SEDESOQ), o cualquier otro programa de regularización del Estado o de los Municipios en dicha materia podrán contar con estímulos fiscales previa validación de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
 
 ARTÍCULO DECIMO (SIC). Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 27 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 38 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO Y REFORMA DIVERSAS DISPOSICIONES EN MATERIA DE TECNOLOGÍAS DE LA INFORMACIÓN".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
