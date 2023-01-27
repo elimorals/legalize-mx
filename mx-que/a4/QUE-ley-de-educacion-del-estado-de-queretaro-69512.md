@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2022-04-01"
+last_updated: "2023-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -985,6 +985,10 @@ Quienes participen voluntariamente brindando asesoría en tareas relativas a est
 
 A efecto de asegurar el servicio del avance tecnológico denominado Internet, las autoridades competentes deberán dotar del equipo de cómputo necesario y el servicio de internet a las escuelas de nivel básico del Estado.
 
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2023)</small>
+
+La Secretaría en el ámbito de su competencia podrá promover la capacitación de los docentes en el uso y aprovechamiento de plataformas digitales y de las tecnologías de la información, aplicando un enfoque educativo que permita favorecer a sus alumnos en sus habilidades tecnológicas.
+
 ### Capítulo Segundo. De los planes y programas de estudio
 
 ###### Artículo 39.
@@ -1882,3 +1886,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se deroga cualquier disposición de igual o menor jerarquía que se oponga a la presente Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+P.O. 27 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 38 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO, Y REFORMA DIVERSAS DISPOSICIONES EN MATERIA DE TECNOLOGÍAS DE LA INFORMACIÓN”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
