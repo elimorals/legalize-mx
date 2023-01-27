@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asistencia-social-para-el-estado-de-baja-california-2661
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2022-11-11"
+last_updated: "2023-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2005.
 
@@ -139,9 +139,13 @@ XV.- El fomento de acciones de paternidad responsable, que propicien la preserva
 
 XVI.- EI establecimiento de actividades educativas, culturales y deportivas, cuyo objeto sea el de generar e inculcar en el niño y joven de escasos recursos, las herramientas necesarias para prevenir las conductas antisociales así como para brindarles oportunidades de participar en actividades que fomentan la sana competitividad y el desarrollo personal del individuo;
 
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ENERO DE 2023)</small>
 
-XVII.- Los análogos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de la familia.
+XVII.- Garantizar acceso a productos de gestión menstrual; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2023)</small>
+
+XVIII.- Los análogos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de la familia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2011)</small>
 
@@ -1542,3 +1546,11 @@ P.O. 11 DE NOVIEMBRE DE 2022.
 > <small>[N. DE E. TRANSITORIO “DECRETO NO. 158 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA”.]</small>
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 198 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 45, 65 Y 104 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 73 TER”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El suministro gratuito de productos de gestión menstrual se sujetará a la disponibilidad presupuestaria de la Secretaría de Bienestar y con base a las disposiciones normativas aplicables en términos de la Ley General de Salud.
