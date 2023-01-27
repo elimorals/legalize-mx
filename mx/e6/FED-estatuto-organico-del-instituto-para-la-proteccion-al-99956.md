@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-la-proteccion-al-99956"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-03-27"
-last_updated: "2022-06-30"
+last_updated: "2023-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99956&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-03-19"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2023.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de marzo de 2014.
 
@@ -887,9 +887,9 @@ XIV. (DEROGADA, D.O.F. 6 DE OCTUBRE DE 2020)
 
 XV. Realizar, en coordinación con la Dirección General Jurídica de Protección al Ahorro, los actos necesarios para la administración y enajenación de Bienes, y de los bienes de las Instituciones en liquidación o liquidación judicial, cuando éstos no se lleven a cabo por terceros especializados o terceros apoderados por el Instituto;
 
-> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2023)</small>
 
-XVI. Supervisar, contando con la participación de las unidades administrativas competentes, los procesos de concurso mercantil, liquidación y/o liquidación judicial de Instituciones, así como el desempeño del apoderado liquidador, apoderado liquidador judicial o apoderado síndico, tratándose de procesos conducidos a través de terceros apoderados por el Instituto;
+XVI. Supervisar, contando con la participación de las unidades administrativas competentes, los procesos de concurso mercantil, liquidación y/o liquidación judicial de Instituciones, así como el desempeño del apoderado liquidador, apoderado liquidador judicial o apoderado síndico, tratándose de procesos conducidos a través de terceros apoderados por el Instituto, con base en los informes periódicos y en los planes de trabajo que se establezcan, así como a través de las auditorías que, en su caso, se practiquen;
 
 > <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
@@ -1647,15 +1647,15 @@ Las reglas, disposiciones, resoluciones o acuerdos que conforme a la Ley o la Le
 
 ## TÍTULO TERCERO. Del Control y Evaluación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 36.
 
-El Instituto cuenta con un Órgano Interno de Control, integrado por su titular y los titulares de áreas de auditoría, quejas, y responsabilidades, quienes tendrán el carácter de autoridad y serán designados en términos de la Ley Orgánica de la Administración Pública Federal.
+El Instituto cuenta con un Órgano Interno de Control, integrado por su titular y las personas titulares de las áreas de Auditoría Interna, de Desarrollo y Mejora de la Gestión Pública, Quejas, Denuncias e Investigaciones y Responsabilidades, quienes tendrán el carácter de autoridad y serán designados en términos de la Ley Orgánica de la Administración Pública Federal.
 
-> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2023)</small>
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en el Reglamento Interior de la Secretaría de la Función Pública y los demás ordenamientos legales y administrativos aplicables.
+Las personas servidoras públicas a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en el Reglamento Interior de la Secretaría de la Función Pública y los demás ordenamientos legales y administrativos aplicables.
 
 > <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2020)</small>
 
@@ -1760,3 +1760,13 @@ CUARTO.- Las referencias hechas y las atribuciones que se otorgan en lineamiento
 QUINTO.- Las unidades administrativas a que se refiere el presente Acuerdo deberán realizar las modificaciones que correspondan en las disposiciones y documentos aplicables a su adscripción y funcionamiento.
 
 SEXTO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente Acuerdo.
+
+D.O.F. 27 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las unidades administrativas a que se refiere el presente Acuerdo deberán realizar a la brevedad las modificaciones que correspondan en las disposiciones y documentos aplicables a su adscripción y funcionamiento.
+
+TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente Acuerdo.
