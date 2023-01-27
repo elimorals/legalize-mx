@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2022-09-02"
+last_updated: "2023-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -751,9 +751,11 @@ Tratándose del Juzgado de Primera Instancia Especializado para Adolescentes ade
 
 En el Partido Judicial de Ensenada, habrá cuando menos cuatro Juzgados de Primera Instancia Civil, cuatro Juzgados de Primera Instancia Penal; distribuidos de la siguiente manera: Uno Civil y uno Penal en San Quintín. Además contará con un Juzgado de Paz, dos Juzgados de Primera Instancia de lo Familiar y un Juzgado de Primera Instancia Especializado para Adolescentes.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2023)</small>
+
 ###### ARTICULO 57.
 
-En el Partido Judicial de Tecate, habrá cuando menos un Juzgado Mixto de Primera Instancia, en el ramo o ramos que determine el Pleno del Consejo de la Judicatura y un Mixto de Paz.
+En el Partido Judicial de Tecate habrá cuando menos un Juzgado de Primera Instancia de lo Familiar, un Juzgado Mixto de Primera Instancia en el ramo o ramos que determine el Pleno del Consejo de la Judicatura y un Mixto de Paz.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
 
@@ -3890,3 +3892,9 @@ QUINTO. Las Centrales de Actuario, comenzarán a funcionar en el orden y fechas 
 SEXTO. El Consejo de la Judicatura deberá expedir el Reglamento de las Centrales de Actuarios, dentro de un término de 60 días posteriores a la entrada en vigor de la presente reforma.
 
 SÉPTIMO. Las presentes reformas no afectarán los derechos adquiridos y demás prestaciones reconocidas a los trabajadores con anterioridad al presente Decreto.
+
+P.O. 27 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 199 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 57 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
