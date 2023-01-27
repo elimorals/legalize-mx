@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-administrativas-del-estado-de-136748"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-07"
-last_updated: "2021-12-24"
+last_updated: "2023-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
 
 Ley Publicada en la Sección Tercera al Número 70 del Periódico Oficial del Estado de Nuevo León, el viernes 7 de junio de 2019.
 
@@ -877,9 +877,9 @@ A juicio del Tribunal, podrán ser impuestas al infractor una o más de las sanc
 
 La suspensión del empleo, cargo o comisión que se imponga podrá ser de treinta a noventa días naturales.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2023)</small>
 
-En caso de que se determine la inhabilitación temporal, y no se hayan causado daños o perjuicios, ni exista beneficio o lucro alguno, la sanción a imponer será de tres meses a un año de inhabilitación. DICHA SANCIÓN SERÁ DE UNO HASTA DIEZ AÑOS SI EL MONTO DE LA AFECTACIÓN DE LA FALTA ADMINISTRATIVA GRAVE NO EXCEDE DE MIL QUINIENTAS VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.
+En caso de que se determine la inhabilitación temporal, y no se hayan causado daños o perjuicios, ni exista beneficio o lucro alguno, la sanción a imponer será de tres meses a un año de inhabilitación. Dicha sanción será de uno hasta diez años si el monto de la afectación de la falta administrativa grave no excede de doscientas veces el valor diario de la Unidad de Medida y Actualización, y de diez a veinte años si dicho monto excede de dicho límite.
 
 (NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1995,7 +1995,7 @@ Las resoluciones definitivas que emita el Tribunal, podrán ser impugnadas por l
 
 (NOTA: EL 5 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 114/2024, DECLARÓ FUNDADA LA OMISIÓN LEGISLATIVA ATRIBUIDA AL CONGRESO DEL ESTADO DE NUEVO LEÓN, ATINENTE A NO ADECUAR EL ARTÍCULO 221 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN A LO ESTABLECIDO EN EL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO DE REFORMAS CONSTITUCIONALES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTISIETE DE MAYO DE DOS MIL QUINCE, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDIÓ LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, PUBLICADO EN EL MISMO MEDIO DE DIFUSIÓN EL DIECIOCHO DE JULIO DE DOS MIL DIECISÉIS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 ###### Artículo 221.
 
@@ -2128,3 +2128,9 @@ P.O. 24 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 022. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN”.]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 316. SE REFORMA EL ARTÍCULO 78 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
