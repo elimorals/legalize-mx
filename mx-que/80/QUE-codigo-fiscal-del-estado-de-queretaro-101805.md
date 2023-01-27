@@ -4,7 +4,7 @@ identifier: "QUE-codigo-fiscal-del-estado-de-queretaro-101805"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-21"
-last_updated: "2022-12-22"
+last_updated: "2023-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "QUE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MARZO DE 2023 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el lunes 21 de julio de 2014.
 
@@ -911,7 +909,9 @@ La Secretaría de Finanzas dará a conocer mediante publicación en el Periódic
 
 Los Poderes Ejecutivo, Legislativo y Judicial del Estado; los entes autónomos, los Ayuntamientos de los Municipios del Estado y las Entidades de la Administración Pública Paraestatal, ya sean estatales o municipales, previamente a realizar la contratación de adquisiciones, arrendamientos, servicios u obra pública con personas físicas, morales o entes jurídicos, deberán solicitar la opinión de cumplimiento de obligaciones fiscales estatales que emitirá la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
 
-Asimismo, los sujetos antes señalados en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con proveedores que:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE ENERO DE 2023)</small>
+
+Los sujetos señalados en el párrafo anterior, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con proveedores y contratistas que:
 
 I. Tengan a su cargo créditos fiscales firmes o exigibles, determinados, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código.
 
@@ -935,9 +935,15 @@ Los proveedores a quienes se adjudique el contrato, para poder subcontratar, deb
 
 Los contribuyentes que requieran obtener la opinión de cumplimiento de obligaciones fiscales estatales para realizar alguna operación comercial o de servicios, para obtener subsidios y estímulos, para realizar algún trámite fiscal estatal, así como para las contrataciones por adquisición de bienes, arrendamiento, prestación de servicio y obra pública que vayan a realizar con los sujetos señalados en el primer párrafo de este artículo, deberán hacerlo mediante el procedimiento que establezca la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro, mediante las reglas de carácter general establecidas para este fin.
 
-Para estos efectos, en los contratos de adquisiciones, arrendamientos, servicios u obra pública se establecerá cláusula de retención, respecto de las contraprestaciones a favor de los contratistas o proveedores, a efecto de garantizar el pago de las contribuciones estatales.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2023)</small>
+
+En los contratos de adquisiciones, arrendamientos, servicios u obra pública podrá pactarse una cláusula de retención, en la que el proveedor o contratista en el supuesto de que tenga a su cargo créditos fiscales exigibles, respecto de contribuciones estatales, al momento en que deba recibir la contraprestación correspondiente al contrato, reconoce la procedencia preferente del pago del crédito fiscal, por lo que una vez cubierto el adeudo de las contribuciones omitidas y sus accesorios, se procederá con la entrega de las contraprestaciones establecidas en el contrato. Los pagos de los créditos fiscales realizados en términos del presente párrafo, serán tomados a cuenta del importe del precio o contraprestación establecida en el contrato suscrito con el contratista o proveedor.
 
 Para efectos del otorgamiento de subsidios o estímulos establecidos en los ordenamientos aplicables en el Estado de Querétaro, las dependencias y entidades competentes deberán solicitar como requisito la constancia de situación fiscal estatal que acredite haber dado cumplimiento a sus obligaciones fiscales estatales o, en su caso, constancia de la autoridad competente de que se encuentran en vías de cumplimiento.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2023)</small>
+
+Tratándose del octavo párrafo de este artículo, las autoridades fiscales estatales podrán requerir la información de los contratistas y proveedores con los que se hubiesen celebrado las contrataciones, a fin de estar en aptitud de comunicar a las dependencias y entidades la procedencia de la aplicación de la cláusula de retención.
 
 ###### Artículo 58.
 
@@ -4311,9 +4317,13 @@ P.O. 22 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO Y DE LA LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO".]
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-La presente Ley entrará en vigor el 1 de enero de 2023, bajo las modalidades previstas en los artículos subsecuentes.
+La presente Ley entrará en vigor el 1 de enero de 2023, bajo las modalidades previstas en ésta disposición y los artículos subsecuentes.
+
+Las disposiciones referentes a las reformas y adiciones a las fracciones XXXIV y XXXIII del artículo 22 de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y las reformas a las fracciones XIII del artículo 54 y VII del artículo 55 de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, entrarán en vigor 6 seis meses después de la fecha indicada en el párrafo que antecede.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -4333,19 +4343,15 @@ Los retenedores a que se refiere el artículo 44, párrafo tercero, de la Ley de
 
 ###### ARTÍCULO QUINTO.
 
-Las dependencias y entidades del Poder Ejecutivo del Estado de Querétaro que ya cuenten en su estructura orgánica con Unidades Informáticas o equivalentes en materia de tecnologías de la información, deberán adecuar sus Reglamentos o normatividad correspondiente a efecto de dar cumplimiento a esta Ley, en un plazo de 60 días naturales contados a partir de la entrada en vigor de la presente Ley.
-
-En tanto no se expidan dichas disposiciones jurídicas se seguirán aplicando en lo conducente las disposiciones normativas correspondientes de las dependencias y entidades del Poder Ejecutivo del Estado de Querétaro, en lo (sic) contravengan a la presente Ley.
+(DEROGADO, P.O. 27 DE ENERO DE 2023)
 
 ###### ARTÍCULO SEXTO.
 
-A partir de la entrada en vigor de la presente Ley, las dependencias y entidades del Poder Ejecutivo en cuya estructura orgánica no se contemple la existencia de Unidades Informáticas o equivalentes en materia de tecnologías de la información observarán las disposiciones que emita la Secretaría de Finanzas del Poder Ejecutivo, a través de la Subsecretaría de Tecnologías de la Información, para la implementación de las reformas y adiciones aprobadas respecto de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y de la Ley de la Administración Pública Paraestatal del Estado de Querétaro.
+(DEROGADO, P.O. 27 DE ENERO DE 2023)
 
 ###### ARTÍCULO SÉPTIMO.
 
-Corresponderá a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro, la creación, nombramiento y remoción de Unidades Informáticas o equivalentes en las dependencias y entidades del Poder Ejecutivo del Estado de Querétaro, en los términos previstos en la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, con motivo de la entrada en vigor de la presente Ley.
-
-Por tanto, las entidades y dependencias del Poder Ejecutivo distintas de la Secretaría de Finanzas no podrán crear plazas o contratar vía honorarios o prestación de servicios a personas físicas o morales para llevar a cabo funciones en materia de tecnologías de la información, así como la adquisición, arrendamiento, comodato, depósito o por alguna otra figura jurídica, sistemas informáticos o servicios relacionados con éstos, equipo de cómputo, servidores o bienes muebles relacionados.
+(DEROGADO, P.O. 27 DE ENERO DE 2023)
 
 ###### ARTÍCULO OCTAVO.
 
@@ -4367,7 +4373,7 @@ Para efectos del impuesto de entretenimientos públicos municipales previsto en 
 
 ###### ARTÍCULO DÉCIMO.
 
-Para efectos de lo establecido en el artículo 88, párrafo tercero de la Ley de Hacienda de los Municipios del Estado de Querétaro quedarán exceptuados los inmuebles propiedad de la Federación, Estado y Municipios.
+(DEROGADO, P.O. 27 DE ENERO DE 2023)
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
@@ -4514,3 +4520,13 @@ XXXI. Los aprovechamientos generados por la Secretaría de Seguridad Ciudadana p
 XXXII. Para los Asentamientos en proceso de regularización con la Comisión de Regularización de la Tenencia de la Tierra (CORETT), actualmente Instituto Nacional del Suelo Sustentable (INSUS), con el Instituto de la Vivienda del Estado de Querétaro (IVEQ) o la Secretaría de Desarrollo Social del Estado de Querétaro (SEDESOQ), o cualquier otro programa de regularización del Estado o de los Municipios en dicha materia podrán contar con estímulos fiscales previa validación de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
 
 ARTÍCULO DECIMO (SIC). Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 27 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 38 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO Y REFORMA DIVERSAS DISPOSICIONES EN MATERIA DE TECNOLOGÍAS DE LA INFORMACIÓN”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
