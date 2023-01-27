@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-adquisiciones-enajenaciones-arrendamientos-y-69095"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2022-12-22"
+last_updated: "2023-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,9 @@ state: "QUE"
 
 [NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE ELTEXTO DE LAS DISPOSICIONES REFORMADAS POR EL DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MARZO DE 2023 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -82,6 +80,10 @@ VII. Proveedor: las personas físicas o morales que realicen cualquier operació
 VIII. Servicios de administración financiera y tributaria: aquellos que comprendan los servicios o adquisición relativos a la recepción de los ingresos y dispersión de pagos que le correspondan al Estado; el traslado, administración, control, registro y custodia de valores, así como de formas valoradas; la elaboración de diagnósticos, estudios, consultorías, asesorías, capacitación y evaluación, en las materias hacendaria, financiera; de contabilidad gubernamental, planeación, de políticas públicas, tributarias y política fiscal; los servicios que se contraten con instituciones del sistema financiero mexicano, servicios digitales, plataformas e infraestructura tecnológica en materia tributaria, contable, financiera y fiscal; los de calificación crediticia y aquellos que propicien el fortalecimiento hacendario y recaudatorio y de la transparencia y la rendición de cuentas.
 
 Así como, aquellos que comprendan la contratación de servicios relativos a proyectos en materia de tecnologías de la información y gobierno digital, el desarrollo y adquisición de aplicaciones digitales, plataformas, servicios web, licenciamientos, soporte y mantenimiento a los servicios informáticos y comunicaciones, programas, sistemas y aplicaciones, siempre y cuando éstas estén contempladas en el Programa Estratégico de Gobierno Digital del Estado, con excepción de aquellos casos en los que la adquisición de equipos o contratación de servicios corresponda al rubro de seguridad pública;
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2023)</small>
+
+Para efectos de esta fracción, será responsabilidad de la dependencia contratante, vigilar y realizar las acciones que se requieran para garantizar la patrimonialización de las adquisiciones contempladas en la presente.
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -341,13 +343,19 @@ Tratándose de la adquisición de bienes y servicios en materia de seguridad, ad
 
 En los casos de las contrataciones consolidadas a las que se refiere el párrafo anterior, no se requerirá la autorización por parte de los comités de adquisiciones señalados en el artículo 19 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2023)</small>
 
 ###### Artículo 22 Quáter.
 
-Para el caso del Poder Ejecutivo del Estado de Querétaro, tratándose de la adquisición de bienes y servicios en materia de equipos y aparatos de uso informático, redes, cómputo, comunicaciones y telecomunicaciones, procesamiento y almacenamiento de datos, software informático, así como el mantenimiento de los mismos, se podrán acordar las contrataciones a través de contratos abiertos, celebrados por conducto de la unidad administrativa de tecnologías encargada de normar las acciones, el uso y aprovechamiento de tecnologías en cada ente público y los lineamientos que para tal efecto se emitan.
+Para el caso del Poder Ejecutivo del Estado de Querétaro, tratándose de la adquisición de bienes y servicios en materia de equipos y aparatos de uso informático, redes, cómputo, comunicaciones y telecomunicaciones, procesamiento y almacenamiento de datos, software informático, así como el mantenimiento de los mismos, se podrán acordar las contrataciones a través de contratos abiertos.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 Para efectos del párrafo anterior, se autorizará la contratación abierta por parte de los comités de adquisiciones señalados en el artículo 19 de esta Ley, por lo que se requerirá que se encuentre prevista la partida presupuestal correspondiente.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2023)</small>
+
+Las adquisiciones señaladas en el primer párrafo de este artículo, se ejecutarán de conformidad con los lineamientos que emita la Comisión Estatal de Gobierno Digital y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 23.
 
@@ -2103,9 +2111,13 @@ P.O. 22 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO Y DE LA LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO".]
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-La presente Ley entrará en vigor el 1 de enero de 2023, bajo las modalidades previstas en los artículos subsecuentes.
+La presente Ley entrará en vigor el 1 de enero de 2023, bajo las modalidades previstas en ésta disposición y los artículos subsecuentes.
+
+Las disposiciones referentes a las reformas y adiciones a las fracciones XXXIV y XXXIII del artículo 22 de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y las reformas a las fracciones XIII del artículo 54 y VII del artículo 55 de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, entrarán en vigor 6 seis meses después de la fecha indicada en el párrafo que antecede.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -2125,19 +2137,15 @@ Los retenedores a que se refiere el artículo 44, párrafo tercero, de la Ley de
 
 ###### ARTÍCULO QUINTO.
 
-Las dependencias y entidades del Poder Ejecutivo del Estado de Querétaro que ya cuenten en su estructura orgánica con Unidades Informáticas o equivalentes en materia de tecnologías de la información, deberán adecuar sus Reglamentos o normatividad correspondiente a efecto de dar cumplimiento a esta Ley, en un plazo de 60 días naturales contados a partir de la entrada en vigor de la presente Ley.
-
-En tanto no se expidan dichas disposiciones jurídicas se seguirán aplicando en lo conducente las disposiciones normativas correspondientes de las dependencias y entidades del Poder Ejecutivo del Estado de Querétaro, en lo (sic) contravengan a la presente Ley.
+(DEROGADO, P.O. 27 DE ENERO DE 2023)
 
 ###### ARTÍCULO SEXTO.
 
-A partir de la entrada en vigor de la presente Ley, las dependencias y entidades del Poder Ejecutivo en cuya estructura orgánica no se contemple la existencia de Unidades Informáticas o equivalentes en materia de tecnologías de la información observarán las disposiciones que emita la Secretaría de Finanzas del Poder Ejecutivo, a través de la Subsecretaría de Tecnologías de la Información, para la implementación de las reformas y adiciones aprobadas respecto de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y de la Ley de la Administración Pública Paraestatal del Estado de Querétaro.
+(DEROGADO, P.O. 27 DE ENERO DE 2023)
 
 ###### ARTÍCULO SÉPTIMO.
 
-Corresponderá a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro, la creación, nombramiento y remoción de Unidades Informáticas o equivalentes en las dependencias y entidades del Poder Ejecutivo del Estado de Querétaro, en los términos previstos en la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, con motivo de la entrada en vigor de la presente Ley.
-
-Por tanto, las entidades y dependencias del Poder Ejecutivo distintas de la Secretaría de Finanzas no podrán crear plazas o contratar vía honorarios o prestación de servicios a personas físicas o morales para llevar a cabo funciones en materia de tecnologías de la información, así como la adquisición, arrendamiento, comodato, depósito o por alguna otra figura jurídica, sistemas informáticos o servicios relacionados con éstos, equipo de cómputo, servidores o bienes muebles relacionados.
+(DEROGADO, P.O. 27 DE ENERO DE 2023)
 
 ###### ARTÍCULO OCTAVO.
 
@@ -2159,7 +2167,7 @@ Para efectos del impuesto de entretenimientos públicos municipales previsto en 
 
 ###### ARTÍCULO DÉCIMO.
 
-Para efectos de lo establecido en el artículo 88, párrafo tercero de la Ley de Hacienda de los Municipios del Estado de Querétaro quedarán exceptuados los inmuebles propiedad de la Federación, Estado y Municipios.
+(DEROGADO, P.O. 27 DE ENERO DE 2023)
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
@@ -2306,3 +2314,13 @@ XXXI. Los aprovechamientos generados por la Secretaría de Seguridad Ciudadana p
 XXXII. Para los Asentamientos en proceso de regularización con la Comisión de Regularización de la Tenencia de la Tierra (CORETT), actualmente Instituto Nacional del Suelo Sustentable (INSUS), con el Instituto de la Vivienda del Estado de Querétaro (IVEQ) o la Secretaría de Desarrollo Social del Estado de Querétaro (SEDESOQ), o cualquier otro programa de regularización del Estado o de los Municipios en dicha materia podrán contar con estímulos fiscales previa validación de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
 
 ARTÍCULO DECIMO (SIC). Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 27 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 38 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO Y REFORMA DIVERSAS DISPOSICIONES EN MATERIA DE TECNOLOGÍAS DE LA INFORMACIÓN”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
