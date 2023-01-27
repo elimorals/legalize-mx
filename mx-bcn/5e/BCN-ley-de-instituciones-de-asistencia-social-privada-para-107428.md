@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-de-asistencia-social-privada-para-107428"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2021-09-14"
+last_updated: "2023-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -275,9 +275,11 @@ III. La actualización del padrón del personal directivo, administrativo y volu
 
 ### CAPÍTULO PRIMERO. DE LAS INSTALACIONES
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2023)</small>
+
 ###### Artículo 18.
 
-Los inmuebles que sean destinados como establecimientos de las Instituciones de Asistencia Social Privada deberán contar con los servicios indispensables para proporcionar a los ingresados el bienestar, la comodidad, seguridad e higiene necesarias conforme a su edad.
+Los inmuebles que sean destinados como establecimientos de las Instituciones de Asistencia Social Privada deberán contar con los servicios indispensables para proporcionar a los ingresados el bienestar, la comodidad, seguridad y gestión necesarias conforme a su edad, incluyendo productos de gestión menstrual.
 
 ###### Artículo 19.
 
@@ -544,3 +546,9 @@ P.O. 14 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 291 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 36 DE LA LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO QUINTO DEL “DECRETO NO. 198 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 45, 65 Y 104 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 73 TER”.]
+
+ÚNICO. EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
