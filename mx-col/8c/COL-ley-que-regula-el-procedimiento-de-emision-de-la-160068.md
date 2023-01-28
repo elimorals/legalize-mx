@@ -4,7 +4,7 @@ identifier: "COL-ley-que-regula-el-procedimiento-de-emision-de-la-160068"
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-10"
-last_updated: "2022-09-10"
+last_updated: "2023-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE REGULA EL PROCEDIMIENTO DE EMISIÓN DE LA DECLARATORIA DE AUSENCIA POR DESAPARICIÓN EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2023.
 
 Ley publicada en el Suplemento Núm. 6 al Núm 64 del Periódico Oficial del Estado de Colima, el sábado 10 de septiembre de 2022.
 
@@ -499,6 +499,10 @@ PRIMERO. Esta Ley entrara´ en vigor a los treinta días siguientes de su public
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2023)</small>
+
+TERCERO. Para la aplicación de la presente Ley, se regirá conforme a las reglas generales de oralidad, las cuales se encuentran previstas en el Código Civil para el Estado de Colima, el Código de Procedimientos Civiles para el Estado de Colima y demás normativas aplicables en la materia.
+
 La Gobernadora del Estado de Colima dispondrá se publique, circule y observe.
 
 Dado en el Recinto Oficial del Poder Legislativo del Estado de Colima, a los 18 dieciocho días del mes de agosto de 2022 dos mil veintidós.
@@ -540,3 +544,13 @@ LA SECRETARIA GENERAL DE GOBIERNO
 MA GUADALUPE SOLÍS RAMÍREZ
 
 Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 239.- POR EL QUE SE ADICIONA EL ARTÍCULO TERCERO TRANSITORIO A LA LEY QUE REGULA EL PROCEDIMIENTO DE EMISIÓN DE LA DECLARATORIA DE AUSENCIA POR DESAPARICIÓN EN EL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial “El Estado de Colima”.
