@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-21398"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-19"
-last_updated: "2021-12-11"
+last_updated: "2023-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 11 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 28 DE ENERO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 19 de junio de 1998.
 
@@ -295,11 +295,11 @@ Los pueblos y comunidades indígenas y afromexicanas tienen derecho a practicar 
 
 El Estado de Oaxaca reconoce la existencia de sistemas normativos internos de los pueblos y comunidades indígenas y afromexicano, con características propias y específicas en cada pueblo, comunidad y municipio del Estado, basados en sus tradiciones ancestrales y que se han transmitido oralmente por generaciones, enriqueciéndose y adaptándose con el paso del tiempo a diversas circunstancias. Por tanto, en el Estado dichos sistemas se consideran actualmente vigentes y en uso.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2023)</small>
 
 ###### Artículo 29.
 
-El Estado de Oaxaca reconoce la validez de las normas internas de los pueblos y comunidades indígenas y afromexicanas en el ámbito de las relaciones familiares, de la vida civil, de la organización de la vida comunitaria, y en general, de la prevención y solución de conflictos al interior de cada comunidad, siempre que no vulneren los derechos humanos.
+El Estado de Oaxaca reconoce la validez de las normas internas de los pueblos y comunidades indígenas y afromexicanas en el ámbito de las relaciones familiares, de la vida civil, de la organización de la vida comunitaria, organización sociopolítica y en general de la prevención y solución de conflictos al interior de cada comunidad, siempre que no vulneren los derechos humanos; garantizando una cultura de participación ciudadana, compromiso con la democracia, tolerancia, interculturalidad e igualdad de género a través de acciones, planes y programas de formación política y liderazgo, que faciliten la integración de las mujeres a las actividades políticas de la comunidad, el Municipio y el Estado.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
@@ -732,3 +732,13 @@ TERCERO.- El Titular del Poder Ejecutivo del Estado de Oaxaca dispondrá que el 
 CUARTO.- Los Poderes del Estado y los Órganos Autónomos del Estado de Oaxaca, armonizarán su marco normativo con lo establecido en la presente Ley.
 
 QUINTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 778.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 29, DE LA LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANO DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
