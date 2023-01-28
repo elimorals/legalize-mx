@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2023-01-07"
+last_updated: "2023-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -135,9 +135,13 @@ XXII. Programa Estatal, al Programa Estatal de Seguridad Pública;
 
 XXIII. Programa Rector, al Programa Rector de Profesionalización;
 
-XXIV. Secretaría, a la Secretaría de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2023)</small>
 
-XXV. Secretario, al Titular de la Secretaría de Seguridad Pública del Estado;
+XXIV. Secretaría, Secretaría de Seguridad y Protección Ciudadana;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2023)</small>
+
+XXV. Secretario, al Titular de la Secretaría de Seguridad y Protección Ciudadana;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -275,7 +279,9 @@ I. El Gobernador del Estado, quien lo presidirá;
 
 II. El Secretario General de Gobierno;
 
-III. El Secretario de Seguridad Pública;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2023)</small>
+
+III. El Secretario de Seguridad y Protección Ciudadana;
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2022)</small>
 
@@ -867,7 +873,9 @@ VI. Participar en el Consejo Estatal y presidir los Consejos Regionales;
 
 VII. Representar al Gobierno del Estado en el Sistema Nacional de Seguridad Pública y en las Comisiones de Seguridad Pública que se establezcan con los estados colindantes;
 
-VIII. Nombrar y remover a los Subsecretarios, Oficial Mayor y Directores Generales de la Secretaría, así como a los titulares de los órganos administrativos desconcentrados en los casos que legalmente proceda, así como a los representantes de la Secretaría de Seguridad Pública en comisiones, Municipios, Entidades Federativas y Organismos Estatales, Nacionales e Internacionales;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2023)</small>
+
+VIII. Nombrar y remover a los Subsecretarios, Oficial Mayor y Directores Generales de la Secretaría, así como a los titulares de los órganos administrativos desconcentrados en los casos que legalmente proceda, así como a los representantes de la Secretaría de Seguridad y Protección Ciudadana en comisiones, Municipios, Entidades Federativas y Organismos Estatales, Nacionales e Internacionales;
 
 IX. Expedir los acuerdos, manuales de organización, de procedimientos y de servicios al público y demás disposiciones normativas internas, en el ámbito de su competencia, que considere necesarias para cumplir con los fines de la Secretaría y, en su caso, ordenar su publicación;
 
@@ -2885,6 +2893,8 @@ El Secretario, por sí o a través del servidor público en el que delegue dicha
 
 ### CAPÍTULO III. DEL REGISTRO ADMINISTRATIVO DE DETENCIONES
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2023)</small>
+
 ###### Artículo 160.
 
 La facultad de certificación podrá delegarse en el servidor público que se designe para el suministro, actualización y consulta de la información contenida en las bases de datos.
@@ -2909,7 +2919,7 @@ La certificación de información inscrita que se ofrezca en juicios o procedimi
 
 ###### Artículo 164.
 
-Se establece el Registro Administrativo de Detenciones a cargo de la Dirección General de Información y Análisis de la Secretaría de Seguridad Pública, que se interrelacionará con sus áreas semejantes de la Federación, de Entidades Federativas y de los Municipios, de conformidad con los convenios que se suscriban en el marco del Sistema Nacional y Estatal de Seguridad Pública.
+Se establece el Registro Administrativo de Detenciones a cargo de la Dirección General de Información y Análisis de la Secretaría de Seguridad y Protección Ciudadana, que se interrelacionará con sus áreas semejantes de la Federación, de Entidades Federativas y de los Municipios, de conformidad con los convenios que se suscriban en el marco del Sistema Nacional y Estatal de Seguridad Pública.
 
 ### CAPÍTULO IV. DE LA ESTADÍSTICA DE SEGURIDAD PÚBLICA
 
@@ -3562,3 +3572,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 28 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 781.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 7 FRACCIONES XXIV Y XXV; 16 FRACCIÓN III; 45 FRACCIÓN VIII Y 164 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
