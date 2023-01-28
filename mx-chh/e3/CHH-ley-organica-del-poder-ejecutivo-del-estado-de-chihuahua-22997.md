@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2022-12-17"
+last_updated: "2023-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2023.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -111,9 +111,9 @@ Las dependencias y entidades de la Administración Pública Estatal tendrán ór
 
 Los órganos internos de control se integrarán en los términos previstos en las leyes y reglamentos respectivos y contarán con las facultades que estos determinen; mismos que dependerán jerárquica y funcionalmente de la Secretaría de la Función Pública del Estado.
 
-> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2023)</small>
 
-La Secretaría de la Función Pública tendrá un Órgano Interno de Control, cuya titularidad será designada por la persona titular del Poder Ejecutivo del Estado, de quien dependerá jerárquica y funcionalmente. Quien ocupe la titularidad del Órgano Interno de Control designará y removerá a sus integrantes.
+La Secretaría de la Función Pública tendrá un Órgano Interno de Control, que dependerá jerárquica y funcionalmente de la propia Secretaría en los términos que señale su Reglamento Interior. La persona titular de este Órgano será nombrada y removida libremente por la persona titular del Poder Ejecutivo del Estado. Quien ocupe la titularidad de este Órgano Interno de Control designará y removerá a sus integrantes, previo acuerdo con la persona titular de la Secretaría.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -1285,9 +1285,9 @@ X.- Recibir y tramitar quejas y denuncias que se formulen en contra de personas 
 
 XI.- Definir la política de gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Estatal, procurando que la información sea oportuna, veraz, confiable y pertinente. Asimismo, establecer las acciones que propicien la transparencia en la gestión pública, la rendición de cuentas y el acceso de particulares a información de calidad. Así como coordinar, dar seguimiento y evaluar las acciones que en la materia realicen las demás dependencias y entidades de la Administración Pública Estatal.
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2023)</small>
 
-XII.- Designar y remover a las personas titulares e integrantes de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal; así como emitir los criterios y lineamientos generales que deben atender estas para cumplir con las actividades inherentes al cargo.
+XII.- Designar y remover a las personas titulares e integrantes de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal, con excepción del Órgano Interno de Control de la propia Secretaría, cuyo nombramiento se realizará conforme a lo previsto en el tercer párrafo del artículo 4 de esta Ley; así como emitir los criterios y lineamientos generales que deben atender estas para cumplir con las actividades inherentes al cargo.
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
@@ -3702,3 +3702,11 @@ DECIMOCTAVO.- Los asuntos que se encuentren en trámite a la entrada en vigor de
 DECIMONOVENO.- El Poder Ejecutivo contará con un término de 180 días naturales a partir de la entrada en vigor del presente Decreto, para presentar las reformas legales, reglamentarias y administrativas necesarias para adecuar el marco jurídico estatal, a efecto de poder estar en aptitud de dar viabilidad programática y orgánica al presente Decreto.
 
 VIGÉSIMO.- Las facultades y compromisos derivados de convenios o acuerdos celebrados con dependencias o entidades de la Administración Pública Federal, Estatal o Municipal serán asumidos por el área competente de conformidad con el presente Decreto.
+
+P.O. 28 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLEY/0496/2023 IV P.E., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4, TERCER PÁRRAFO; Y 34, FRACCIÓN XII; AMBOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
