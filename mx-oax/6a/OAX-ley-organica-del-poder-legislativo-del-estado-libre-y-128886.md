@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2022-12-19"
+last_updated: "2023-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2023.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -985,7 +985,9 @@ Cuando por la naturaleza de la iniciativa o asunto turnado, sea necesario sesion
 
 Las comisiones permanentes, tendrán las obligaciones siguientes:
 
-I. Resolver todos los asuntos que le sean turnados, en un plazo no mayor a treinta días hábiles;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2023)</small>
+
+I. Resolver todos los asuntos que le sean turnados, en un plazo no mayor a treinta días hábiles; tratándose de los informes anuales de los órganos autónomos, las comisiones permanentes contarán con un plazo de 15 días hábiles contados a partir de la fecha de recepción, para emitir el dictamen respectivo, teniendo como base para dictaminar, el programa operativo anual de cada Órgano Autónomo, pudiendo prorrogar el plazo hasta por 15 días más, cuando la naturaleza del caso lo requiera.
 
 II. Elaborar su programa de trabajo;
 
@@ -1321,29 +1323,23 @@ XIII. Las demás que deriven de esta Ley, su Reglamento y demás normatividad ap
 
 ### CAPÍTULO QUINTO. DE LOS CENTROS DE ESTUDIOS DEL CONGRESO
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 102.
 
 El Congreso contará con los siguientes centros de estudios:
 
 I. El Centro de Estudios Económicos y Finanzas Públicas, como organismo de apoyo y consulta, que tendrá como objeto desarrollar investigaciones, análisis, opiniones y evaluaciones en materia económica, hacendaría, presupuestal y finanzas;
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
-
-Para cumplir con sus funciones, el Centro de Estudios Económicos y Finanzas Publicas, podrán solicitar información o documentación a dependencias y entidades de la administración pública estatal, poderes públicos, órganos constitucionales autónomos y de cualquier otro ejecutor del gasto público estatal;
+Para cumplir con sus funciones, el Centro de Estudios Económicos y Finanzas Públicas, podrán solicitar información o documentación a dependencias y entidades de la administración pública estatal, poderes públicos, órganos constitucionales autónomos y de cualquier otro ejecutor del gasto público estatal;
 
 II. El Centro de Estudios Jurídicos e Investigación Parlamentaria, tendrá el propósito de desarrollar estudios sobre temas jurídicos y parlamentarios, así como apoyar a los órganos de gobierno y áreas administrativas del Congreso en sus actividades de organización y capacitación legislativa;
 
-III. El Centro de Estudios Sociales y de Opinión Pública, tendrá como objeto realizar investigaciones y estudios de opinión sobre el estado que guardan las políticas públicas en Oaxaca, así como impulsar la cooperación institucional con sectores académicos, de la sociedad civil y los poderes públicos para el diseño de proyectos e iniciativas de ley en materia de desarrollo social, gobernabilidad y participación ciudadana.
+III. El Centro de Estudios Sociales y de Opinión Pública, tendrá como objeto realizar investigaciones y estudios de opinión sobre el estado que guardan las políticas públicas en Oaxaca, así como impulsar la cooperación institucional con sectores académicos, de la sociedad civil y los poderes públicos para el diseño de proyectos e iniciativas de ley en materia de desarrollo social, gobernabilidad y participación ciudadana;
 
 IV. El Centro de Estudios de las Mujeres y Paridad de Género, tendrá como objeto evaluar las políticas públicas y programas del gobierno estatal y municipal para atender a las mujeres, así como desarrollar y divulgar estudios con perspectiva de género.
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2020)</small>
-
-V. El Centro de Estudios, Asesoría y Capacitación Municipal en materia de Prevención de Actos de Corrupción, tendrá como finalidad impulsar acciones de asesoría, capacitación e investigación permanente para la prevención de actos de corrupción en los Municipios del Estado de Oaxaca, estableciendo vínculos, sinergias y coordinación con todas las Dependencias del Sistema Estatal de Combate a la Corrupción.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2020)</small>
-
-Los Centros de Estudios establecidos en éste artículo estarán adscritos a la Jucopo, con excepción del Centro de Estudios, Asesoría y Capacitación Municipal en materia de Prevención de Actos de Corrupción, que estará adscrito a la Comisión Permanente de Vigilancia del Sistema Estatal de Combate a la Corrupción.
+V. El Centro de Estudios, Asesoría y Capacitación Municipal en materia de Prevención de Actos de Corrupción, tendrá como finalidad impulsar acciones de asesoría, capacitación e investigación permanente para la prevención de actos de corrupción en los Municipios del Estado de Oaxaca,
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1613,7 +1609,7 @@ TERCERO. La Sexagésima Cuarta Legislatura del Honorable Congreso del Estado de 
 
 P.O. 24 DE AGOSTO DE 2021.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2580.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES IX Y XII, Y SE ADICIONAN (SIC) UN SEGUNDO PÁRRAFO A LA FRACCIÓN V Y LA FRACCIÓN XIII RECORRIÉNDOSE LA SUBSECUENTE, TODAS DEL ARTÍCULO 89 DE LA LEY ÓRGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 55 RECORRIÉNDOSE LA SUBSECUENTE; UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, Y UN TERCER PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 61, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2580.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES IX Y XII, Y SE ADICIONAN (SIC) UN SEGUNDO PÁRRAFO A LA FRACCIÓN V Y LA FRACCIÓN XIII RECORRIÉNDOSE LA SUBSECUENTE, TODAS DEL ARTÍCULO 89 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 55 RECORRIÉNDOSE LA SUBSECUENTE; UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, Y UN TERCER PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 61, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
@@ -1658,6 +1654,18 @@ CUARTO. Quedan derogadas todas las disposiciones de igual o menor jerarquías qu
 P.O. 19 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 749.- MEDIANTE EL CUAL SE REFORMAN I AS FRACCIONES XIX Y XXIII DEL ARTÍCULO 3, Y EL ARTICULO 110, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE ENERO DE 2023.
+
+> <small>[N. DE E. EL “DECRETO NÚM. 772.- MEDIANTE EL CUAL SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 102, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.]</small>
+
+P.O. 28 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 773.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 66, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 38 Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 64, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
 
