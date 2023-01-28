@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2022-12-15"
+last_updated: "2023-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2023.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -209,9 +209,13 @@ Para la protección integral deberán coordinarse y complementarse entre sí, la
 
 VII. No discriminación: Debiéndose estar a lo dispuesto por el artículo 1°, párrafo quinto de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los cuales México sea parte y las leyes federales y locales tendientes a prevenir y erradicar la discriminación negativa.
 
-> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2023)</small>
 
-VIII. El Pro Persona.
+VIII: El Pro Persona: Para garantizar la aplicación de la norma más benéfica a la persona, y
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2023)</small>
+
+IX. Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
 ### CAPÍTULO III. DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
@@ -303,9 +307,13 @@ e) Participar en la vida educativa, cívica, cultural, deportiva y recreativa de
 
 f) Conocer sus derechos y participar en el ámbito familiar y comunitario.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2023)</small>
 
-g) Recibir capacitación necesaria sobre el uso de las nuevas tecnologías de la información y comunicación
+g) Recibir capacitación necesaria sobre el uso de las nuevas tecnologías de la información y comunicación, y
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2023)</small>
+
+h) A la información, plural, oportuna y accesible, la cual será garantizada por el Estado.
 
 VII. Al trabajo, que comprende:
 
@@ -331,7 +339,19 @@ b) El acceso a todos los programas sociales y gubernamentales orientados a la co
 
 c) Tener acceso y facilidades de desplazamiento en los espacios laborales, comerciales, oficiales, recreativos, culturales y de transporte, en los términos de las disposiciones legales y reglamentarias de la materia.
 
-IX. Disfrutar plenamente de todos los derechos y prerrogativas consignadas en esta Ley o cualquier disposición legal o reglamentaria aplicable.
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2023)</small>
+
+IX. De la denuncia popular: Toda persona, grupo social, organizaciones no gubernamentales, asociaciones o sociedades, podrán denunciar ante los órganos competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías que establece la presente Ley, o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con las personas adultas mayores.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 28 DE ENERO DE 2023)</small>
+
+X. Al acceso a los servicios, que incluye:
+
+a) Tener una atención preferente en las instituciones y/o establecimientos públicos y privados que presta (sic) servicios al público, quienes deberán implementar medidas para facilitar el uso y/o acceso adecuado.
+
+b) Contar con asientos preferentes en las instituciones y/o establecimientos públicos y privados que prestan servicios al público, así como en los servicios de transporte de pasajeros.
+
+XI. Disfrutar plenamente de todos los derechos y prerrogativas consignadas en esta Ley o cualquier disposición legal o reglamentaria aplicable.
 
 ## TÍTULO SEGUNDO
 
@@ -950,3 +970,13 @@ P.O. 15 DE DICIEMBRE DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 780.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 8; SE REFORMA EL INCISO G) Y SE ADICIONA EL INCISO H) A LA FRACCIÓN VI, LA FRACCIÓN IX Y X RECORRIENDOSE LA SUBSECUENTE DEL ARTÍCULO 9 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones de igual o menor rango que contravengan el contenido del presente Decreto.
