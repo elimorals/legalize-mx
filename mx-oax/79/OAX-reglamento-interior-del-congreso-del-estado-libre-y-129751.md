@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2022-12-19"
+last_updated: "2023-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2023.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -509,9 +509,11 @@ El Presidente de cada Comisión, podrá solicitar de cualquier oficina o archivo
 
 Cuando cualquier dependencia o entidad de las señaladas en el párrafo que antecede, sea omisa en proporcionar los datos solicitados dentro del plazo de cinco días hábiles posteriores a la solicitud, la Presidencia de la Comisión se dirigirá oficialmente en queja al Titular de la Instancia o al Gobernador del Estado, según sea el caso, para que se inicie el procedimiento de responsabilidad respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 38.
 
-Las comisiones deberán presentar sus dictámenes con proyecto de ley o decreto ante el Pleno, a más tardar, treinta días hábiles posteriores a la recepción del expediente de las mismas.
+Las comisiones deberán presentar sus dictámenes con proyecto de ley o decreto ante el Pleno, a más tardar, treinta días hábiles posteriores a la recepción del expediente de las mismas; en el caso de los dictámenes a que hace referencia el artículo 59, fracción LXVI de la Constitución local, se dictaminarán de acuerdo a los plazos previstos en el artículo 66 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Oaxaca.
 
 En caso de no poder dictaminar en el plazo establecido, la Comisión lo manifestará por escrito a la Presidencia de la Mesa Directiva, expresando el motivo de la demora y solicitando un nuevo plazo, mismo que no podrá exceder de un término igual al concedido para la dictaminación.
 
@@ -1443,9 +1445,9 @@ I. Minutas Federales;
 
 II. Proyectos de Ley o Decretos;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2023)</small>
 
-III. Observaciones hechas por el Titular del Poder Ejecutivo a proyectos de ley o decreto,
+III. Observaciones hechas por el Titular del Poder Ejecutivo a proyectos de ley o decreto;
 
 IV. Cuenta Pública;
 
@@ -1454,6 +1456,10 @@ V. Proposiciones con punto de acuerdo;
 VI. Ratificaciones de servidores públicos o nombramientos de integrantes de órganos constitucionales autónomos, y;
 
 VII. Solicitudes de permiso en términos de lo dispuesto por el artículo 81 de la Constitución Local.
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2023)</small>
+
+VIII. Los informes anuales de actividades que presenten los titulares de los Órganos Autónomos.
 
 ###### ARTÍCULO 65.
 
@@ -3118,6 +3124,14 @@ SEGUNDO. Publíquese en la Gaceta Parlamentaria y en el Periódico Oficial del G
 P.O. 19 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 750.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 66, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 773.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 66, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 38 Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 64, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
 
