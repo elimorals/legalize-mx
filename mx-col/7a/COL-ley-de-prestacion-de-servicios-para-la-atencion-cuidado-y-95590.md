@@ -4,7 +4,7 @@ identifier: "COL-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-95590
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-03"
-last_updated: "2019-08-31"
+last_updated: "2023-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2023.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 3 de agosto de 2013.
 
@@ -197,9 +197,21 @@ VII. A la no discriminación;
 
 VIII. A recibir servicios de calidad y con calidez, por parte de personal apto, suficiente y que cuente con formación o capacidades desde un enfoque de los derechos de la niñez;
 
-IX. A participar, ser consultado, expresar libremente sus ideas y opiniones sobre los asuntos que les atañen y a que dichas opiniones sean tomadas en cuenta; y
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2023)</small>
 
-X. A establecer los mecanismos para fomentar entre la niñez una cultura de protección civil y autoprotección.
+IX. A participar, ser consultado, expresar libremente sus ideas y opiniones sobre los asuntos que les atañen y que dichas opiniones sean tomadas en cuenta;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2023)</small>
+
+X. A establecer los mecanismos para fomentar entre la niñez una cultura de protección civil y autoprotección; y
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2023)</small>
+
+XI. A implementar los mecanismos de participación de los padres, tutores o de quienes ejerzan la patria potestad o custodia de niñas y niños, respecto de su educación y atención.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2023)</small>
+
+ARTÍCULO 15 BIS.- Los Centros de Atención Infantil, en materia de salud, deberán cooperar en el ejercicio de las acciones para combatir las enfermedades transmisibles, adoptando las medidas que las autoridades sanitarias dicten y, en su caso, establezcan medidas especiales que estimen necesarias y que sean compatibles con las emitidas por la autoridad.
 
 ###### ARTÍCULO 16.
 
@@ -847,6 +859,26 @@ En caso de incumplimiento de la previsión anterior, el o la encargada del Centr
 
 El usuario podrá solicitar la intervención de la autoridad correspondiente para reportar cualquier irregularidad, incumplimiento a la normatividad o algún factor que pueda constituir un riesgo en los Centros de Atención Infantil.
 
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2023)</small>
+
+ARTÍCULO 88 BIS.- Los usuarios tienen, además, las siguientes obligaciones:
+
+I.- Estar al pendiente del desarrollo de la niña o niño y conocer las políticas del Centro de Atención Infantil que eligieron;
+
+II.- Participar de manera activa, en los programas de capacitación, educativos y de integración familiar del menor, impartidos por el Centro de Atención Infantil;
+
+III.- Informar al personal del Centro de Atención Infantil, de cambios de números de teléfono, de domicilio, del centro de trabajo, así como cualquier otro dato relacionado con las personas autorizadas para recoger a las niñas o niños;
+
+IV.- Presentar a la niña o niño con sus artículos de uso personal en la cantidad y con las características que le señale el personal del Centro de Atención Infantil;
+
+V.- Denunciar ante las autoridades competentes cualquier falta que ponga en riesgo la integridad física de las niñas y niños dentro del Centro de Atención Infantil; y
+
+VI.- Las demás que señalen los reglamentos internos de los Centros de Atención Infantil.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2023)</small>
+
+ARTÍCULO 88 TER.- En caso de incumplimiento de las obligaciones de los usuarios, señaladas en los artículos anteriores, los prestadores de servicios podrán tomar las medidas administrativas que establezca su reglamento interno.
+
 ### CAPÍTULO XII. DE LAS CAUSAS DE SUSPENSIÓN DEL SERVICIO
 
 ###### ARTÍCULO 89.
@@ -1126,3 +1158,15 @@ P.O. 31 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 129 POR EL QUE SE REFORMAN LOS ARTÍCULOS 10, 111 Y 112, DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 238.- POR EL QUE SE REFORMAN LAS FRACCIONES IX Y X DEL ARTÍCULO 15; Y SE ADICIONAN LA FRACCIÓN XI DEL ARTÍCULO 15; LOS ARTÍCULOS 15 BIS, 88 BIS Y 88 TER DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y normativas que se opongan al presente Decreto.
