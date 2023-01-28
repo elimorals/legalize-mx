@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "2021-12-04"
+last_updated: "2023-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 28 de diciembre de 1963.
 
@@ -513,9 +513,11 @@ j).- Por supresión de plazas por el H. Congreso del Estado.
 
 VI.- Por cometer actos de hostigamiento o acoso sexual contra cualquier persona en el establecimiento o lugar de trabajo.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2023)</small>
+
 ###### ARTICULO 40.
 
-Si el empleado reclama la revocación de su nombramiento y aquella resulta injustificada, tendrá derecho a que se le reinstale en su empleo o a que se le indemnice con tres meses de sueldo. En uno y otro caso, se le abonarán los sueldos dejados de percibir. El Estado se librará de la obligación de reinstalar cubriendo la segunda de las prestaciones indicadas.
+Si el empleado reclama la revocación de su nombramiento y aquella resulta injustificada, tendrá derecho a que se le reinstale en su empleo o a que se le indemnice con tres mese (sic) de sueldo. En uno y otro caso, se le abonarán los sueldos dejados de percibir, computados desde la fecha de revocación de su nombramiento hasta por un periodo máximo de doce meses. El Estado se librará de la obligación de reinstalar cubriendo la segunda de las prestaciones indicadas.
 
 ## TITULO TERCERO.
 
@@ -1162,3 +1164,13 @@ P.O. 4 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 774.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 40, DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
