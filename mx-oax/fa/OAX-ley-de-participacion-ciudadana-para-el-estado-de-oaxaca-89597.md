@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-participacion-ciudadana-para-el-estado-de-oaxaca-89597"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2021-12-04"
+last_updated: "2023-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el viernes 17 de agosto del 2012.
 
@@ -359,73 +359,43 @@ Todas las resoluciones de procedencia o improcedencia deberán estar debidamente
 
 El Instituto instrumentará una campaña de información previa a la celebración del referéndum, bajo las mismas reglas aplicables al plebiscito, establecidas en el artículo 20 de esta Ley.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE ENERO DE 2023)</small>
+
 ### CAPÍTULO CUARTO.
 
 DE LA REVOCACIÓN DE MANDATO.
 
 ###### ARTÍCULO 28.
 
-La revocación de mandato es el mecanismo de consulta a la ciudadanía del Estado, a fin de que este se pronuncie mediante sufragio libre, directo, secreto y universal, sobre la destitución del cargo público del Gobernador del Estado con anterioridad a la terminación del periodo para el cual fue electo.
-
-La revocación de mandato es una figura independiente del juicio político a que podrá sujetarse al Gobernador del Estado.
+(DEROGADO, P.O. 30 DE ENERO DE 2023)
 
 ###### ARTÍCULO 29.
 
-Procede la revocación de mandato del Gobernador del Estado cuando se presenten los supuestos y se cumplan los requisitos que a continuación se enuncian:
-
-I. Se formule la solicitud por escrito y la suscriban cuando menos veinte por ciento de los ciudadanos oaxaqueños inscritos en la lista nominal de electores del Estado, ante el Instituto Estatal Electoral y de Participación Ciudadana;
-
-II. Haya transcurrido al menos la mitad del mandato del Gobernador del Estado;
-
-III. Se expresen los fundamentos y las razones que llevan a solicitar la revocación del mandato por violaciones graves a la Constitución Estatal;
-
-IV. Se expresen los fundamentos y las razones que llevan a solicitar la revocación del mandato por acciones atribuibles directamente al Gobernador del Estado que puedan ser consideradas como delitos de lesa humanidad; y
-
-V. Se presente la solicitud en la forma y términos que marque esta Ley ante el Instituto.
+(DEROGADO, P.O. 30 DE ENERO DE 2023)
 
 ###### ARTÍCULO 30.
 
-Toda solicitud de revocación de mandato del Gobernador del Estado deberá presentarse por escrito ante el Consejo General del Instituto y deberá contener por lo menos:
-
-I. Exposición de los motivos, razones y fundamentos por los cuales se considera que el Gobernador del Estado debe ser sometido a la revocación de mandato, de conformidad con el artículo anterior;
-
-II. La relación que contenga los nombres y los folios de las credenciales de elector, así como las firmas originales de los solicitantes, que corresponda al porcentaje establecido en la Constitución Estatal y la presente Ley; y
-
-III. Los solicitantes deberán señalar un representante común para oír y recibir toda clase de notificaciones. Para todos los efectos legales se entenderá que el representante designado podrá realizar todos los actos necesarios para tramitar el procedimiento.
-
-En el supuesto de que se omita señalar al representante común, se tomará al primer ciudadano que aparezca en la lista, con ese carácter.
-
-En los casos en que la solicitud omita el requisito establecido en las fracciones I y II el Instituto requerirá al representante para que en un plazo no mayor a cinco días hábiles se presente lo omitido, apercibiéndolos que de no cumplir, se tendrá por desechada.
+(DEROGADO, P.O. 30 DE ENERO DE 2023)
 
 ###### ARTÍCULO 31.
 
-El Instituto certificará el cumplimiento de los requisitos de la solicitud. El Instituto únicamente podrá argumentar la improcedencia de la solicitud de revocación de mandato del Gobernador del Estado, si la solicitud incumple con los requisitos establecidos en los artículos 29 y 30 de esta Ley.
-
-Una vez que el Instituto certifique que se han cubierto los requisitos previstos en la Constitución Estatal y esta Ley, dará vista al Congreso del Estado.
+(DEROGADO, P.O. 30 DE ENERO DE 2023)
 
 ###### ARTÍCULO 32.
 
-El Congreso del Estado solventará el juicio de procedencia para la revocación de mandato en observancia de las reglas previstas en el artículo 118 de la Constitución Estatal y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, y deberá al menos:
-
-I. Requerir al representante común de los solicitantes que aporte las pruebas de las que se derive directa y objetivamente la responsabilidad del Gobernador del Estado por las violaciones graves a la Constitución Estatal, y que motivan la solicitud de revocación, o bien por las acciones de éste que pudieran considerarse como delitos de lesa humanidad; y
-
-II. Dar vista al Gobernador del Estado para que ofrezca pruebas y formule alegatos.
+(DEROGADO, P.O. 30 DE ENERO DE 2023)
 
 ###### ARTÍCULO 33.
 
-Una vez desahogado el juicio de procedencia para la revocación del mandato, el Congreso del Estado, con el voto aprobatorio de las dos terceras partes de los diputados presentes, dará vista al Instituto, para los efectos de que organice la consulta a la ciudadanía del Estado.
-
-Para que el resultado de la votación sea válido y de pleno derecho, es indispensable que el número de electores que participe en la consulta sea superior al que participó en la (sic) elecciones en la (sic) cuales fue electo el Gobernador y que el número de votos a favor de la Revocación del Mandato sea superior al que obtuvo el Gobernador del estado en esa votación.
+(DEROGADO, P.O. 30 DE ENERO DE 2023)
 
 ###### ARTÍCULO 34.
 
-El mecanismo de revocación de mandato procederá solamente una vez en el periodo para el que fue electo el Gobernador.
-
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
+(DEROGADO, P.O. 30 DE ENERO DE 2023)
 
 ###### ARTÍCULO 35.
 
-En caso de que el mandato del Ejecutivo sea revocado, se estará a lo dispuesto en el artículo 72 de la Constitución Estatal. Debiendo el Instituto dar vista al Congreso del Estado, así como al Tribunal Electoral del Estado (sic) Oaxaca para efectos de que formule la declaratoria prevista en el artículo 111, apartado A, fracción V de la Constitución estatal.
+(DEROGADO, P.O. 30 DE ENERO DE 2023)
 
 ### CAPÍTULO QUINTO.
 
@@ -633,25 +603,33 @@ DE LAS ATRIBUCIONES DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADAN
 
 El Instituto tendrá a su cargo la organización, desarrollo y cómputo de los siguientes mecanismos de participación ciudadana:
 
-I. El plebiscito;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2023)</small>
 
-II. El referéndum; y
+I. El plebiscito; y,
 
-III. La revocación de mandato.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2023)</small>
+
+II. El referéndum;
+
+III. (DEROGADA, P.O. 30 DE ENERO DE 2023)
 
 El Instituto está obligado a implementar programas de capacitación, educación, asesoría, evaluación del desempeño y comunicación en la materia de esta Ley con las diversas autoridades, grupos ciudadanos y demás personas interesadas en los términos que esta ley establece.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 64.
 
-El Instituto es el responsable de organizar y desarrollar en forma directa el proceso de plebiscito, referéndum y revocación de mandato.
+El Instituto es el responsable de organizar y desarrollar en forma directa el proceso de plebiscito y referéndum.
 
 ###### ARTÍCULO 65.
 
 El Consejo General del Instituto deberá proponer dentro del presupuesto de egresos del Instituto Estatal Electoral y de Participación Ciudadana, una partida etiquetada para la realización de los procesos de participación ciudadana a que se refiere esta Ley, para su inclusión en el proyecto de presupuesto de egresos del Estado de Oaxaca.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 66.
 
-Una vez declarada la procedencia o improcedencia del plebiscito, referéndum o revocación de mandato por el Consejo General del Instituto, se hará la notificación de la resolución a las partes interesadas y ésta deberá contener:
+Una vez declarada la procedencia o improcedencia del plebiscito o referéndum por el Consejo General del Instituto, se hará la notificación de la resolución a las partes interesadas y ésta deberá contener:
 
 I. Mención precisa y detallada del acto o norma objeto del proceso respectivo;
 
@@ -665,9 +643,11 @@ IV. Nombre y firma de los consejeros que resuelven.
 
 Si vencido el plazo de 10 días el Consejo General del Instituto no emite ni notifica la resolución correspondiente, los consejeros responsables de dicha omisión serán sancionados conforme a la ley correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 68.
 
-Una vez presentada la solicitud de plebiscito, referéndum o revocación de mandato ante el Consejo General del Instituto, éste contará con 15 días hábiles para determinar la procedencia o improcedencia de la solicitud de conformidad con la presente Ley.
+Una vez presentada la solicitud de plebiscito o referéndum ante el Consejo General del Instituto, éste contará con 15 días hábiles para determinar la procedencia o improcedencia de la solicitud de conformidad con la presente Ley.
 
 De ser procedente la solicitud, el Instituto iniciará la organización del proceso de consulta, expidiendo previamente la convocatoria, que se deberá emitir cuando menos 90 días naturales anteriores a la fecha de la realización de la consulta de que se trate.
 
@@ -695,23 +675,31 @@ b) Su impacto en el desarrollo sustentable.
 
 c) La premura o urgencia de resolver el asunto.
 
-Toda controversia de procedimiento del referéndum, plebiscito y revocación de mandato será resuelta por el Tribunal Electoral de conformidad con la materia.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2023)</small>
 
-A falta de norma expresa en el procedimiento de referéndum, plebiscito o revocación de mandato, se aplicarán en lo conducente las disposiciones relativas a la normatividad electoral del Estado.
+Toda controversia de procedimiento del referéndum y plebiscito será resuelta por el Tribunal Electoral de conformidad con la materia.
 
-### CAPÍTULO TERCERO.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2023)</small>
 
-DE LAS CONVOCATORIAS PARA LA CELEBRACIÓN DEL PLEBISCITO, REFERÉNDUM Y REVOCACIÓN DE MANDATO.
+A falta de norma expresa en el procedimiento de referéndum o plebiscito, se aplicarán en lo conducente las disposiciones relativas a la normatividad electoral del Estado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2023)</small>
+
+### CAPÍTULO TERCERO.. DE LAS CONVOCATORIAS PARA LA CELEBRACIÓN DEL PLEBISCITO Y REFERÉNDUM
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 70.
 
-El Consejo General del Instituto acordará y declarará la procedencia o improcedencia de la solicitud de plebiscito, referéndum o revocación de mandato.
+El Consejo General del Instituto acordará y declarará la procedencia o improcedencia de la solicitud de plebiscito o referéndum.
 
 En los casos de procedencia de la solicitud se proveerá lo relativo a la expedición de la convocatoria y se ordenará su publicación en el Periódico Oficial del Gobierno del Estado y contendrá:
 
 I. Lugar y fecha de la emisión de la convocatoria;
 
-II. El acto que se somete a plebiscito, las disposiciones legales sujetas a referéndum, o el señalamiento de que se trata de un procedimiento de revocación de mandato al Gobernador;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2023)</small>
+
+II. El acto que se somete a plebiscito o las disposiciones legales sujetas a referéndum;
 
 III. Declaración fundada y motivada de procedencia de la consulta pública;
 
@@ -733,11 +721,13 @@ I. Preferentemente, en el proceso electoral local inmediato posterior, cuando la
 
 II. Dentro de los siguientes seis meses a la resolución del Instituto en la que certifique el cumplimiento de los requisitos legales, a condición de que el Presupuesto de Egresos correspondiente establezca una partida para su promoción y realización.
 
-En el caso de la revocación de mandato será aplicable la fracción II de este artículo.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE ENERO DE 2023)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 72.
 
-Para la instrumentación de la consulta de plebiscito, referéndum o revocación de mandato, el Instituto podrá auxiliarse de las instituciones de educación superior e investigación.
+Para la instrumentación de la consulta de plebiscito o referéndum, el Instituto podrá auxiliarse de las instituciones de educación superior e investigación.
 
 Será obligación del Ejecutivo del Estado y de los Ayuntamientos facilitar al Instituto la instrumentación de la consulta.
 
@@ -781,11 +771,13 @@ IV. La declaratoria firme de validez por el Instituto Estatal Electoral y de Par
 
 ###### ARTÍCULO 78.
 
-Para que sea vinculatorio el resultado de la revocación del mandato se requiere, además de cumplir con los requisitos establecidos en las fracciones I, III y IV del artículo anterior, que el número de electores que participe en la consulta para la revocación de mandato sea superior al que participó en las elecciones en las cuales fue electo el Gobernador y que el número de votos en favor de la revocación del mandato sea superior al que obtuvo el Gobernador del Estado en esa votación.
+(DEROGADO, P.O. 30 DE ENERO DE 2023)
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 79.
 
-El resultado del plebiscito, referéndum o revocación de mandato será publicado por el Instituto en su sitio electrónico, en el Periódico Oficial del Gobierno del Estado y por lo menos en uno de los medios de comunicación impresos de mayor circulación en la entidad.
+El resultado del plebiscito o referéndum será publicado por el Instituto en su sitio electrónico, en el Periódico Oficial del Gobierno del Estado y por lo menos en uno de los medios de comunicación impresos de mayor circulación en la entidad.
 
 ### CAPÍTULO QUINTO.
 
@@ -801,19 +793,7 @@ Los actos, resoluciones, declaratorias y omisiones de las autoridades y que inte
 
 ###### ARTÍCULO 82.
 
-La certificación que el Instituto realice sobre la revocación de mandato del Gobernador del Estado podrá ser recurrida de acuerdo con lo siguiente:
-
-I. Ante el propio Consejo General del Instituto cuando el recurrente advierta un error de cálculo en el tiempo establecido en la fracción II del artículo 29 de esta Ley;
-
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
-
-II. Ante el Tribunal Electoral del Estado de Oaxaca cuando el recurrente considere mal apreciados los requisitos relativos a las fracciones I y IV del artículo 29 de esta Ley; y
-
-III. Ante la Sala Constitucional del Tribunal Superior de Justicia cuando el recurrente considere mal apreciados los requisitos relativos las fracciones III y V del artículo 29 de esta Ley.
-
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2020)</small>
-
-Respecto al plebiscito y referéndum será competente el Tribunal Electoral del Estado de Oaxaca.
+(DEROGADO, P.O. 30 DE ENERO DE 2023)
 
 ###### ARTÍCULO 83.
 
@@ -922,3 +902,15 @@ P.O. 4 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 782.- MEDIANTE EL CUAL SE EXPIDE LA LEY DE REVOCACIÓN DE MANDATO PARA EL ESTADO DE OAXACA; SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el siguiente decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones normativas que se opongan a las nuevas disposiciones normativas de la Ley de Revocación de Mandato para el Estado de Oaxaca y de la Ley de Participación Ciudadana para el Estado de Oaxaca.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto serán cubiertas con los presupuestos asignados y subsecuentes.
