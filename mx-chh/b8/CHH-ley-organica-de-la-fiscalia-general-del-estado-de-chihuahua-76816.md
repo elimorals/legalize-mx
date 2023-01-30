@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2021-12-18"
+last_updated: "2023-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2023.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -189,29 +189,7 @@ H. En materia de Desaparición Forzada de Personas: Las previstas para las Entid
 
 I. En materia de Delitos Electorales: la prevención, investigación y persecución de los delitos establecidos, cuando no sea competente la Federación, y prestar el auxilio que se requiera por la autoridad, conforme a lo dispuesto en la Ley General en Materia de Delitos Electorales.
 
-> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-J. Diseñar, coordinar y evaluar la política estatal del Sistema Penitenciario. Dicha política se llevará a cabo mediante un órgano administrativo desconcentrado, el cual tendrá las atribuciones siguientes:
-
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-I. Desarrollar el procedimiento de ejecución de sanciones penales, así como organizar y dirigir los programas a liberados, sentenciados o procesados.
-
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-II. Desarrollar programas de atención integral y de seguimiento requeridos para la ejecución de medidas de adolescentes en conflicto con la ley penal, en términos de la legislación de la materia.
-
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-III. Vigilar el adecuado funcionamiento de los establecimientos penitenciarios, así como el de los centros especializados de internamiento para adolescentes y demás instituciones similares.
-
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-IV. Desarrollar la política criminal para la aplicación de las medidas de seguridad a las personas imputables adultas que estén sometidas a un procedimiento especial.
-
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-V. Participar, conforme a los convenios respectivos, en el traslado de las personas internas de los centros de reinserción social en el Estado.
+J. (DEROGADO, P.O. 30 DE ENERO DE 2023)
 
 ### CAPÍTULO II. De la Organización
 
@@ -301,9 +279,7 @@ III. La Dirección de Innovación y Desarrollo Tecnológico.
 
 IV. La Unidad de Análisis Financiero.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-V. La Dirección del Instituto Estatal de Seguridad Pública.
+V. (DEROGADA, P.O. 30 DE ENERO DE 2023)
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
@@ -331,9 +307,7 @@ IV. El Centro Estatal de Mecanismos Alternativos de Solución de Controversias e
 
 V. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2021)
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
-
-VI. Prevención y Reinserción Social.
+VI. (DEROGADA, P.O. 30 DE ENERO DE 2023)
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
@@ -467,7 +441,9 @@ La Fiscalía Especializada en Control, Análisis y Evaluación, estará a cargo 
 
 I. Vigilar el manejo eficiente y eficaz de los recursos humanos y materiales, así como para la mejora continua de la Fiscalía General;
 
-II. Organizar, dirigir y supervisar el Instituto Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza y el Centro de Atención Integral de la Salud;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2023)</small>
+
+II. Organizar, dirigir y supervisar el Centro Estatal de Evaluación y Control de Confianza y el Centro de Atención Integral de la Salud;
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
@@ -2008,3 +1984,51 @@ Las y los servidores públicos que pasen a formar parte de otra área o dependen
 ###### ARTÍCULO UNDÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO LXVII/RFLEY/0503/2023 V P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se transfieren a la Secretaría de Seguridad Pública los recursos humanos, materiales y financieros en materia penitenciaria, así como los del Instituto Estatal de Seguridad Pública, que formen parte de la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+La Fiscalía General del Estado y la Secretaría de Seguridad Pública realizarán los trámites de entrega recepción para formalizar la transmisión de los documentos, archivos y bienes, de acuerdo con los ajustes del presente Decreto, de conformidad con las disposiciones en la materia.
+
+###### ARTÍCULO CUARTO.
+
+Las y los servidores públicos adscritos a la Fiscalía General del Estado que sean transferidos a la Secretaría de Seguridad Pública como consecuencia del presente Decreto, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Se faculta al Ejecutivo del Estado para realizar las transferencias y ajustes presupuestales necesarios para el funcionamiento y operación del Sistema Penitenciario y del Instituto Estatal de Seguridad Pública, reasignados en virtud del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Las funciones, facultades, derechos y obligaciones relativos al Sistema Penitenciario y al Instituto Estatal de Seguridad Pública, establecidos a cargo de la Fiscalía General del Estado en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos, serán asumidos por la Secretaría de Seguridad Pública.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Fiscalía General del Estado, se entenderá citada la Secretaría de Seguridad Pública, siempre que sea relativa a las atribuciones que se transfieren en virtud del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+En términos del artículo anterior, la Secretaría de Seguridad Pública deberá, en un término no mayor a 180 días a partir de la entrada en vigor del presente Decreto, adecuar el marco normativo aplicable en coordinación con las dependencias competentes de la Administración Pública.
+
+###### ARTÍCULO NOVENO.
+
+Los estudios validados por el Instituto Estatal de Seguridad Pública, así como los Acuerdos de Reconocimiento de Validez Oficial de Estudios, continuarán su vigencia hasta en tanto se realicen las modificaciones ante la instancia correspondiente.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El titular de la Secretaría de Seguridad tendrá la facultad de rotar los mandos y mandos medios según lo considere necesario para el cumplimiento del objeto de la presente Ley.
