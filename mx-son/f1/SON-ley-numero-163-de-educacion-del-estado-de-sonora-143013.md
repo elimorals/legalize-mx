@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-163-de-educacion-del-estado-de-sonora-143013"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2023-01-16"
+last_updated: "2023-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 163 DE EDUCACIÓN DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ENERO DE 2023.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 15 de mayo de 2020.
 
@@ -161,7 +161,9 @@ II.- Propiciar un diálogo continuo entre las humanidades, las diversas expresio
 
 III.- Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
 
-IV.- Combatir las causas de discriminación y violencia en las diferentes regiones del Estado de Sonora, especialmente la que se ejerce contra la niñez y las mujeres; y
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 2023)</small>
+
+IV.- Combatir las causas de discriminación y violencia en las diferentes regiones del Estado de Sonora, especialmente la que se ejerce contra la niñez y las mujeres; poniendo especial atención, en aquellas que incidan en la deserción escolar de niñas y adolescentes; como lo es, la discriminación originada por la falta de información sobre la menstruación y del acceso a insumos de gestión menstrual.
 
 V.- Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos.
 
@@ -321,13 +323,17 @@ XLI.- Inculcar el valor del respeto y protección de la vida animal;
 
 XLII.- Inculcar y fortalecer la cultura del cuidado del agua y su uso responsable;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 2023)</small>
 
-XLIII.- Promover la vinculación de las Instituciones de Educación Superior con su entorno social a fin de propiciar el desarrollo de éste y el mejoramiento en la calidad de vida de sus habitantes; y
+XLIII.- Promover la vinculación de las Instituciones de Educación Superior con su entorno social a fin de propiciar el desarrollo de éste y el mejoramiento en la calidad de vida de sus habitantes;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 30 DE ENERO DE 2023)</small>
 
-XLIV.- Todos aquellos que contribuyan al bienestar y desarrollo del país y del Estado de Sonora.
+XLIV.- Promover hábitos saludables e higiénicos de gestión menstrual y, de contribuir a que se garantice el derecho de las niñas y adolescentes a no ser discriminadas en razón a su período menstrual; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 30 DE ENERO DE 2023)</small>
+
+XLV.- Todos aquellos que contribuyan al bienestar y desarrollo del país y del Estado de Sonora.
 
 Criterios de la Educación
 
@@ -1121,7 +1127,9 @@ VIII.- La promoción de estilos de vida saludables, la educación para la salud,
 
 IX.- El fomento de la igualdad de género para la construcción de una sociedad justa e igualitaria;
 
-X.- La educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual;
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 2023)</small>
+
+X.- La educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la salud menstrual, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual;
 
 XI.- La educación socioemocional;
 
@@ -1827,9 +1835,9 @@ Para tal efecto realizarán entre otras, las siguientes acciones:
 
 I.- Establecer políticas incluyentes, transversales y con perspectiva de género, para otorgar becas y demás apoyos económicos que prioricen a los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación;
 
-> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 2023)</small>
 
-II.- Establecer, de acuerdo con la suficiencia presupuestal, programas de entrega gratuita de uniformes y útiles escolares, calzado y anteojos para estudiantes de educación básica. En la entrega de uniformes se atenderá la estrategia de falda opcional que marca la presente ley;
+II.- Establecer, de acuerdo con la suficiencia presupuestal, programas de entrega gratuita de uniformes y útiles escolares, calzado y anteojos para estudiantes de educación básica; así como de productos de higiene menstrual y de espacios sanitarios necesarios para garantizar la gestión menstrual digna de las niñas y adolescentes;
 
 III.- Proporcionar apoyos a educandos cuya madre, padre o tutor haya fallecido o sufrido algún accidente que le ocasione invalidez o incapacidad permanente;
 
@@ -2031,7 +2039,9 @@ IV.- Propiciar la colaboración de los docentes, madres y padres de familia o tu
 
 V.- Conocer de las acciones educativas y de prevención que realicen las autoridades para que los educandos, conozcan y detecten la posible comisión de hechos delictivos que les puedan perjudicar;
 
-VI.- Sensibilizar a la comunidad, mediante la divulgación de material que prevenga la comisión de delitos en agravio de los educandos. Así como también, de elementos que procuren la defensa de los derechos de las víctimas de tales delitos;
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 2023)</small>
+
+VI.- Sensibilizar a la comunidad, mediante la divulgación de material que prevenga la comisión de delitos en agravio de los educandos. Así como también, de elementos que procuren la defensa de los derechos de las víctimas de tales delitos; además, deberán enfocarse esfuerzos para prevenir la discriminación, propiciar espacios de respeto y libres de violencia;
 
 VII.- Estimular, promover y apoyar actividades extraescolares que complementen y respalden la formación de los educandos;
 
@@ -2908,3 +2918,11 @@ Los municipios, en coordinación con la Secretaría de Educación y Cultura, y l
 ###### ARTÍCULO CUARTO.
 
 Los alumnos que tengan iniciado el trámite para acreditar su servicio social con anterioridad a la entrada en vigor del presente decreto, no estarán obligados a cumplir con el requisito adicional para la acreditación del servicio social previsto en el artículo 135 Bis de la Ley de Educación del Estado de Sonora.
+
+B.O. 30 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 89, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
