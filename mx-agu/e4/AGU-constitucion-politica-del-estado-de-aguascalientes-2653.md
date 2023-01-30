@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2023-01-23"
+last_updated: "2023-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -162,6 +162,10 @@ Las autoridades adoptarán las medidas necesarias para garantizar el ejercicio d
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
 
 Toda persona tiene derecho a ser protegida por el Estado y sus Municipios ante desastres naturales o emergencias sanitarias. El Estado y sus Municipios serán responsables de llevar a cabo políticas públicas de prevención, atención y de cuidado inmediato.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2023)</small>
+
+El Estado promoverá el desarrollo integral de las personas jóvenes, a través de políticas públicas con enfoque multidisciplinario y transversal, que propicien su inclusión en el ámbito político, social, económico y cultural de la Entidad.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1923,9 +1927,9 @@ Para los efectos de las responsabilidades a que alude este Capítulo se reputar�
 
 Todos los servidores públicos son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a las leyes federales, a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado y de los Municipios, de los delitos del orden común que cometan durante el tiempo de su encargo, así como en actividades administrativas irregulares, en que incurran en el ejercicio de sus cargos, y estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial, de intereses y fiscal ante las autoridades competentes, en los términos que determine la ley.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2023)</small>
 
-La Ley de Responsabilidades de los Servidores Públicos del Estado determinará sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones, las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas, además de las que señalen las leyes.
+La Ley de Responsabilidades Administrativas del Estado de Aguascalientes determinará sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones, las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas, además de las que señalen las leyes.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
@@ -1945,7 +1949,9 @@ Serán sujetos de Juicio Político el Gobernador, los Diputados a la Legislatura
 
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular denuncia ante el Congreso del Estado por conductas que impliquen una responsabilidad política de los sujetos a que se refiere este artículo, y previo trámite que señale la Ley de Responsabilidades de los Servidores Públicos, el Congreso por el voto de las dos terceras partes de sus miembros determinará si es culpable, en cuyo caso será destituido del cargo e inhabilitado para desempeñar una función, cargo o comisión dentro del servicio público.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2023)</small>
+
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular denuncia ante el Congreso del Estado por conductas que impliquen una responsabilidad política de los sujetos a que se refiere este artículo, y previo trámite que señale la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, el Congreso por el voto de las dos terceras partes de sus miembros determinará si es culpable, en cuyo caso será destituido del cargo e inhabilitado para desempeñar una función, cargo o comisión dentro del servicio público.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -3640,3 +3646,19 @@ P.O. 23 DE ENERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 227.- SE ADICIONA UN PÁRRAFO DÉCIMO SEXTO AL ARTÍCULO 4º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 228.- SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 73 Y EL PÁRRAFO QUINTO DEL ARTÍCULO 74 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
