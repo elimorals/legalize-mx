@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2022-07-06"
+last_updated: "2023-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2023.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -123,9 +123,9 @@ XIV. Constitución: La Constitución Política de los Estados Unidos Mexicanos.
 
 XV. Constitución local: La Constitución Política del Estado Libre y Soberano de Chihuahua.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2023)</small>
 
-XVI. Instituto: El Instituto Estatal de Seguridad Pública dependiente de la Fiscalía General del Estado, encargado de la formación y actualización especializada de aspirantes e integrantes del Desarrollo Profesional Ministerial, Pericial y, respecto a la formación policial, en concordancia con las atribuciones de la Secretaría de Seguridad Pública.
+XVI. Instituto: El Instituto Estatal de Seguridad Pública dependiente de la Secretaría de Seguridad Pública, encargado de la formación y actualización especializada de aspirantes e integrantes del Desarrollo Profesional Ministerial y Pericial, en concordancia con las atribuciones de la Fiscalía General del Estado; así como respecto a la formación policial.
 
 XVII. Fiscalía Especializada en Control: La Fiscalía Especializada en Control, Análisis y Evaluación de la Fiscalía General del Estado.
 
@@ -829,9 +829,9 @@ d) Para integrantes de la División de Operaciones Rurales, educación básica.
 
 e) Para el resto de la Policía, deberán contar con educación media superior.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2023)</small>
 
-La Fiscalía General del Estado, por conducto del Instituto Estatal de Seguridad Pública, gestionará y llevará a cabo las acciones necesarias para que las y los integrantes de la División de Operaciones Rurales acrediten grados académicos superiores al que tenían a su ingreso.
+La Secretaría, por conducto del Instituto Estatal de Seguridad Pública, gestionará y llevará a cabo las acciones necesarias para que las y los integrantes de la División de Operaciones Rurales acrediten grados académicos superiores al que tenían a su ingreso.
 
 IV. En su caso, tener acreditado el Servicio Militar Nacional.
 
@@ -2011,9 +2011,9 @@ IV. Escala Básica
 
 a) Policía
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2023)</small>
 
-Las categorías de Comisarios, Inspectores y Oficiales, esta última únicamente en su jerarquía de Subinspector, señaladas en las fracciones I, II y III, inciso a) de este artículo, serán de libre designación por parte de la persona titular de la Fiscalía General del Estado, y las categorías de Oficiales en su jerarquía de Oficial y Suboficial y la de Escala Básica, descritas en las fracciones III, incisos b) y c), y IV, inciso a) de este numeral, formarán parte del Servicio Profesional de Carrera.
+Las categorías de Comisarios, Inspectores y Oficiales, esta última únicamente en su jerarquía de Subinspector, señaladas en las fracciones I, II y III, inciso a) de este artículo, serán de libre designación por parte de la persona titular de la Secretaría, y las categorías de Oficiales en su jerarquía de Oficial y Suboficial y la de Escala Básica, descritas en las fracciones III, incisos b) y c), y IV, inciso a) de este numeral, formarán parte del Servicio Profesional de Carrera.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -3043,11 +3043,11 @@ El Registro de Información Penitenciaria es la base de datos que contiene, admi
 
 La base de datos del Registro de Información Penitenciaria deberá contener, cuando menos, el reporte de la ficha de identificación personal de cada interno, con fotografía, huellas decadactilares, registro de ADN, estudios técnicos interdisciplinarios, datos de procesos penales y demás información necesaria para la integración del Registro.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2023)</small>
 
 ###### Artículo 240.
 
-El Registro de Información Penitenciaria será administrado por la Fiscalía General y desarrollará las siguientes funciones:
+El Registro de Información Penitenciaria será administrado por la Secretaría y desarrollará las siguientes funciones:
 
 I. Almacenar, concentrar, conservar y mantener actualizada la información relativa a procesados y sentenciados a que se refiere el artículo anterior, incluyendo características criminales, medios de identificación, recursos y modos de operación.
 
@@ -3055,15 +3055,15 @@ II. Enviar de manera permanente al Sistema Único de Información Criminal, la i
 
 III. Diseñar e instrumentar la estadística penitenciaria relativa a los procesados y sentenciados, por razón del fuero, género, ingresos y egresos, delito, origen étnico, lugar de nacimiento, municipio y estado a que pertenezcan, lugar en que sucedieron los hechos por los que fue procesado o sentenciado y niveles de escolaridad, entre otros.
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2023)</small>
 
-IV. Las demás que le establezcan otras disposiciones legales o la persona titular de la Fiscalía General.
+IV. Las demás que le establezcan otras disposiciones legales o la persona titular de la Secretaría.
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2023)</small>
 
 ###### Artículo 241.
 
-La persona titular de la Fiscalía General dictará los acuerdos, criterios y lineamientos necesarios para el desarrollo, administración, ingreso, suministro y consulta de información del Registro de Información Penitenciaria.
+La persona titular de la Secretaría dictará los acuerdos, criterios y lineamientos necesarios para el desarrollo, administración, ingreso, suministro y consulta de información del Registro de Información Penitenciaria.
 
 ###### Artículo 242.
 
@@ -4162,3 +4162,51 @@ P.O. 6 DE JULIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVII/RFLEY/0503/2023 V P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se transfieren a la Secretaría de Seguridad Pública los recursos humanos, materiales y financieros en materia penitenciaria, así como los del Instituto Estatal de Seguridad Pública, que formen parte de la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+La Fiscalía General del Estado y la Secretaría de Seguridad Pública realizarán los trámites de entrega recepción para formalizar la transmisión de los documentos, archivos y bienes, de acuerdo con los ajustes del presente Decreto, de conformidad con las disposiciones en la materia.
+
+###### ARTÍCULO CUARTO.
+
+Las y los servidores públicos adscritos a la Fiscalía General del Estado que sean transferidos a la Secretaría de Seguridad Pública como consecuencia del presente Decreto, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Se faculta al Ejecutivo del Estado para realizar las transferencias y ajustes presupuestales necesarios para el funcionamiento y operación del Sistema Penitenciario y del Instituto Estatal de Seguridad Pública, reasignados en virtud del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Las funciones, facultades, derechos y obligaciones relativos al Sistema Penitenciario y al Instituto Estatal de Seguridad Pública, establecidos a cargo de la Fiscalía General del Estado en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos, serán asumidos por la Secretaría de Seguridad Pública.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Fiscalía General del Estado, se entenderá citada la Secretaría de Seguridad Pública, siempre que sea relativa a las atribuciones que se transfieren en virtud del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+En términos del artículo anterior, la Secretaría de Seguridad Pública deberá, en un término no mayor a 180 días a partir de la entrada en vigor del presente Decreto, adecuar el marco normativo aplicable en coordinación con las dependencias competentes de la Administración Pública.
+
+###### ARTÍCULO NOVENO.
+
+Los estudios validados por el Instituto Estatal de Seguridad Pública, así como los Acuerdos de Reconocimiento de Validez Oficial de Estudios, continuarán su vigencia hasta en tanto se realicen las modificaciones ante la instancia correspondiente.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El titular de la Secretaría de Seguridad tendrá la facultad de rotar los mandos y mandos medios según lo considere necesario para el cumplimiento del objeto de la presente Ley.
