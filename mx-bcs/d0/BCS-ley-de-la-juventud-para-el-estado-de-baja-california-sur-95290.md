@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-la-juventud-para-el-estado-de-baja-california-sur-95290"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-31"
-last_updated: "2019-12-16"
+last_updated: "2023-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2023.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 31 de julio de 2013.
 
@@ -1205,23 +1205,29 @@ VII.- Las demás que le confieran esta ley u otras disposiciones aplicables.
 
 ### CAPÍTULO CUARTO. DEL PATRIMONIO DEL INSTITUTO
 
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 92.
 
 El patrimonio del instituto se constituirá por:
 
-I.- Las aportaciones, bienes muebles e inmuebles y demás ingresos que los gobiernos federal y estatal le otorguen o destinen;
+I.- Las aportaciones, bienes muebles e inmuebles y demás ingresos quelos (sic) gobiernos federal y estatal le otorguen o destinen;
 
-II.- El subsidio que anualmente le señale el Presupuesto de Egresos del Gobierno del Estado;
+II.- El subsidio que anualmente le señale el Presupuesto de Egresos delGobierno (sic) del Estado;
 
-III.- Las aportaciones, legados, donaciones y demás liberalidades que reciba de las personas de los sectores público, social y privado; y
+III.- Las aportaciones, legados, donaciones y demás liberalidades quereciba (sic) de las personas de los sectores público, social y privado; y
 
 IV.- Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus bienes, operaciones, actividades o eventos que realice.
 
 ### CAPÍTULO QUINTO. DE LA TARJETA CARNET JOVEN
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 31 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 93.
 
 El carnet es un instrumento de participación, apoyo y atención a la juventud de la entidad, para la obtención de descuentos y beneficios económicos en la adquisición de bienes y servicios públicos y privados.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 31 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 94.
 
@@ -1233,15 +1239,15 @@ Lo relativo al funcionamiento y operación del carnet será regulado por el regl
 
 ### CAPÍTULO SEXTO. DE LA MEDALLA AL MÉRITO ESTATAL DE LA JUVENTUD
 
-> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
+(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 92 (SIC)], B.O. 31 DE ENERO DE 2023)
 
-###### ARTÍCULO 92.
+###### ARTÍCULO 95.
 
-(SIC) Se instituye la Medalla al Mérito Estatal de La Juventud, que en forma anual y única otorgará el Instituto Sudcaliforniano de la Juventud a favor de quien o quienes se estime con los merecimientos por su destacada participación y se haya distinguido por su aporte en las actividades Académicas; Artísticas y Culturales; Cultura Emprendedora, Innovación, ciencia y Tecnología; Grupos Vulnerables y su Inclusión.
+Se instituye la Medalla al Mérito Estatal de La Juventud, que en forma anual y única otorgará el Instituto Sudcaliforniano de la Juventud a favor de quien o quienes se estime con los merecimientos por su destacada participación y se haya distinguido por su aporte en las actividades Académicas; Artísticas y Culturales; Cultura Emprendedora, Innovación, ciencia y Tecnología; Grupos Vulnerables y su Inclusión.
 
-> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2023)</small>
 
-###### ARTÍCULO 93.
+###### ARTÍCULO 96.
 
 Para el otorgamiento de cada distinción a que se refiere el artículo anterior se consideran los siguientes criterios:
 
@@ -1253,29 +1259,29 @@ Cultura Emprendedora: Liderazgo emprendedor que debe traducirse en habilidad par
 
 Innovación, Ciencia y Tecnología: Acciones que contribuyan a fomentar y generar la investigación científica; creación e innovación tecnológica; investigaciones básicas en las ciencias naturales, sociales y las humanidades, fortaleciendo los espacios de expresión de su creatividad e inventiva.
 
-Grupos Vulnerables y su Inclusión: Jóvenes o asociaciones juveniles, que a través de sus actividades promuevan y fomenten el respeto, promoción y protección de los derechos humanos de los grupos vulnerables.
+Grupos Vulnerables y su Inclusión: Jóvenes o asociaciones juveniles, que a través de sus actividades promuevan y fomenten el respeto, promoción y protección de los derechos humanos de los gruposvulnerables (sic).
 
-> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2023)</small>
 
-###### ARTÍCULO 94.
+###### ARTÍCULO 97.
 
-El Instituto Sudcaliforniano de la Juventud emitirá anualmente convocatoria en coordinación con la Secretaría de Educación Pública del Gobierno del Estado y la Secretaría del Trabajo y Previsión Social, en la que se expresarán los términos y requisitos que deberán cubrir, las personas propuestas a recibir este galardón. La convocatoria se publicará en la primera quincena de junio de cada año y el galardón se entregará el 12 de agosto.
+El Instituto Sudcaliforniano de la Juventud emitirá anualmente convocatoria en coordinación con la Secretaría de Educación Pública del Gobierno del Estado y la Secretaría del Trabajo, Bienestar y Desarrollo Social, en la que se expresarán los términos y requisitos que deberán cubrir, las personas propuestas a recibir este galardón. La convocatoria se publicará en la primera quincena de junio de cada año y el galardón se entregará el 12 de agosto.
 
-> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 95], B.O. 31 DE ENERO DE 2023)</small>
 
-###### ARTÍCULO 95.
+###### ARTÍCULO 98.
 
 Para ser candidato a la Medalla al Mérito Estatal de La Juventud, se requiere tener entre 12 y 29 años de edad a la fecha de registro de su candidatura, y estar radicado en el Estado de Baja California Sur, con una residencia mínima de tres años.
 
-> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2023)</small>
 
-###### ARTÍCULO 96.
+###### ARTÍCULO 99.
 
-Cualquier ciudadano o asociación de ciudadanos puede proponer un candidato o candidata para ser considerado a ser galardonado con esta presea, cumpliendo los requisitos exigidos en la presente Ley y en la convocatoria respectiva, en donde los premios a distribuirse habrán de considerarse en una competición de 2 categorías: 12 a 20 años y 21 a 29 años.
+Cualquier ciudadano o asociación de ciudadanos puede proponer un candidato o candidata para ser considerado a ser galardonado con esta presea, cumpliendo los requisitos exigidos en la presente Ley y enla (sic) convocatoria respectiva, en donde los premios a distribuirse habrán de considerarse en una competición de 2 categorías: 12 a 20 años y 21 a 29 años.
 
-> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2023)</small>
 
-###### ARTÍCULO 97.
+###### ARTÍCULO 100.
 
 De las propuestas recibidas, el Instituto Sudcaliforniano de la Juventud integrará un jurado calificador quien designará a los galardonados.
 
@@ -1283,55 +1289,55 @@ El jurado Calificador se integrará de la siguiente manera:
 
 a) Dos representantes de la Secretaría de Educación Pública;
 
-b) Dos representantes de la Secretaría del Trabajo y Previsión Social;
+b) Dos representantes de la Secretaría del Trabajo, Bienestar y Desarrollo Social;
 
-c) Dos representantes del instituto Sudcaliforniano de la Juventud; y
+c) Dos representantes del instituto Sudcalifornfano de /a Juventud; y
 
-d) El Presidente de la Comisión Permanente de la Juventud en el Congreso del Estado.
+d) El Presidente de la Comisión Permanente de la Juventud en elCongreso (sic) del Estado.
 
-> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 98], B.O. 31 DE ENERO DE 2023)</small>
 
-###### ARTÍCULO 98.
+###### ARTÍCULO 101.
 
 La Medalla al Mérito Estatal de La Juventud consistirá en presea chapada en oro, de 10 centímetros de diámetro y 3 milímetros de espesor, con un peso de 50 gramos.
 
 Dicha medalla tendrá al frente, en el lado superior derecho una inscripción que dice: "Medalla al Mérito Estatal de La Juventud", siguiendo el borde circular, en el espacio central, llevará el escudo del Estado de Baja California Sur y en el reverso, el escudo del H. Congreso del Estado de Baja California Sur y una leyenda en el espacio del centro que diga "PREMIO A LA DISTINCIÓN" de que se trate.
 
-> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
-
-###### ARTÍCULO 99.
-
-Esta medalla estará pendiente de una placa con el nombre del ganador o ganadora inscrito y el año de su otorgamiento.
-
-> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
-
-###### ARTÍCULO 100.
-
-La Medalla al Mérito Estatal de La Juventud se entregará conjuntamente con un diploma donde se consignarán los motivos del otorgamiento de esa presea.
-
-> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
-
-###### ARTÍCULO 101.
-
-La Medalla al Mérito Estatal de La Juventud será entregada en evento Público realizado para el mismo que contara con la presencia de los tres Poderes del Estado.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 99], B.O. 31 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 102.
 
-Las relaciones laborales entre el Instituto y sus trabajadores se regirán por la Ley de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur.
+Esta medalla estará pendiente de una placa con el nombre del ganador o ganadora inscrito y el año de su otorgamiento.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 100], B.O. 31 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 103.
 
-Las autoridades, servidores públicos y empleados considerados en la presente ley que incumplan con la misma, serán sujetos de responsabilidad, de conformidad con la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur.
+La Medalla al Mérito Estatal de La Juventud se entregará conjuntamente con un diploma donde se consignarán los motivos del otorgamiento de esa presea.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO ANTES ARTÍCULO 101], B.O. 31 DE ENERO DE 2023)</small>
+
+###### ARTÍCULO 104.
+
+La Medalla al Mérito Estatal de La Juventud será entregada en evento Público realizado para el mismo que contará con la presencia de los tres Poderes del Estado.
 
 ## TÍTULO SEXTO. DEL RÉGIMEN DE TRABAJO, RESPONSABILIDADES Y SANCIONES
 
 ### CAPÍTULO PRIMERO. RÉGIMEN DE TRABAJO
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 95], B.O. 16 DE DICIEMBRE DE 2019)
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTÍCULO 102], B.O. 31 DE ENERO DE 2023)</small>
+
+###### ARTÍCULO 105.
+
+Las relaciones laborales entre el Instituto y sus trabajadores se regirán por la Ley de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur.
 
 ### CAPÍTULO SEGUNDO. RESPONSABILIDADES Y SANCIONES
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 96], B.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO ANTES ARTÍCULO 103], B.O. 31 DE ENERO DE 2023)</small>
+
+###### ARTÍCULO 106.
+
+Las autoridades, servidores públicos y empleados considerados en la presente ley que incumplan con la misma, serán sujetos de responsabilidad, de conformidad con la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja (sic)
 
 ## TRANSITORIOS
 
@@ -1400,3 +1406,9 @@ B.O. 16 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2686 SE ADICIONA UN “CAPITULO SEXTO” DENOMINADO “DE LA MEDALLA AL MÉRITO ESTATAL DE LA JUVENTUD” AL “TITULO QUINTO” DENOMINADO “DEL INSTITUTO SUDCALIFORNIANO DE LA JUVENTUD”, CON LOS ARTÍCULOS 92, 93, 94, 95, 96, 97, 98, 99, 100 Y 101 RECORRIÉNDOSE LOS ARTÍCULOS SUBSECUENTES A LA LEY DE LA JUVENTUD PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2898 SE REFORMAN LOS ARTÍCULO 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103 Y ADICIONAN LOS ARTÍCULOS 104, 105 Y 106 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
