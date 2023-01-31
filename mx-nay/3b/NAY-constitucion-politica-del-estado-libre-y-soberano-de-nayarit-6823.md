@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2022-12-01"
+last_updated: "2023-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -391,6 +391,14 @@ La etapa de juicio oral se celebrará ante un Juez o Tribunal que no haya conoci
 
 XVIII. Toda persona tiene derecho a que se le administre justicia por los juzgadores nombrados en términos de ley.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
+
+Para contribuir a garantizar el acceso a la justicia de forma ágil y oportuna, el Poder Judicial del Estado, el Tribunal de Justicia Administrativa y el Tribunal Estatal Electoral, utilizarán las tecnologías de la información y la comunicación para la implementación de la justicia en línea, a efecto de tramitar los procedimientos jurisdiccionales de su competencia por esta vía.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
+
+Las Leyes de la materia establecerán los supuestos que por su naturaleza permitan su realización a través de esta modalidad.
+
 > <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2019)</small>
 
 XIX. En los juicios o procedimientos seguidos en forma de juicio, se deberá respetar la igualdad entre las partes, el debido proceso, así como los derechos que garanticen la audiencia y defensa en el ámbito de una tutela judicial efectiva. Además, cuando no se transgredan tales principios y garantías, los órganos de jurisdicción deberán privilegiar la solución del conflicto de fondo sobre los meros formalismos procedimentales.
@@ -525,6 +533,40 @@ II. Asociarse individual y libremente para participar en forma pacífica en los 
 
 III. Las y los nayaritas serán preferidos a los que no lo sean, observando el principio de paridad de género y en igualdad de circunstancias, para toda clase de concesiones, empleos, cargos o comisiones del Gobierno.
 
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2023)</small>
+
+IV. Participar en los procesos de revocación de mandato.
+
+El que se refiere a la revocación de Mandato del Gobernador, se llevará a cabo conforme a lo siguiente:
+
+1. Será convocado por el Instituto Estatal Electoral a petición de las ciudadanas y ciudadanos, en un número equivalente, al menos, al tres por ciento de los inscritos en la lista nominal de electores del Estado, siempre y cuando en la solicitud correspondan a por lo menos once municipios y que representen, como mínimo, el tres por ciento de la lista nominal de electores de cada uno de los municipios.
+
+El Instituto Estatal Electoral, dentro de los siguientes treinta días a que se reciba la solicitud, verificará el requisito establecido en el párrafo anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato.
+
+2. Se podrá solicitar en una sola ocasión y durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional del Gobernador.
+
+Las ciudadanas y ciudadanos podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en el párrafo anterior. El Instituto Estatal Electoral emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas.
+
+3. Se realizará mediante votación libre, directa y secreta de ciudadanas y ciudadanos inscritos en la lista nominal, el domingo siguiente a los noventa días posteriores a la convocatoria y en fecha no coincidente con las jornadas electorales locales o federales.
+
+4. Para que el proceso de revocación de mandato sea válido, deberá haber una participación de, por lo menos, el cuarenta por ciento de las personas inscritas en la lista nominal de electores del Estado. La revocación de mandato sólo procederá por mayoría absoluta.
+
+5. El Instituto Estatal Electoral, tendrá a su cargo, en forma directa, la organización, desarrollo y cómputo de la votación. Emitirá los resultados de los procesos de revocación de mandato del titular del Poder Ejecutivo Estatal, los cuales podrán ser impugnados ante el Tribunal Estatal Electoral, en los términos de lo dispuesto por el Apartado D del artículo 135, de este ordenamiento.
+
+6. El Instituto Estatal Electoral, realizará el cómputo final del proceso de revocación de mandato, una vez resueltas las impugnaciones que se hubieren interpuesto ante el Tribunal Estatal Electoral. En su caso, se emitirá la declaratoria de revocación y se sujetará a lo dispuesto en el artículo 64, de este ordenamiento.
+
+7. Queda prohibido el uso de recursos públicos para la recolección de firmas, así como con fines de promoción y propaganda relacionados con los procesos de revocación de mandato.
+
+El Instituto Estatal Electoral, promoverá la participación ciudadana y será la única instancia a cargo de la difusión de los mismos. La promoción será objetiva, imparcial y con fines informativos.
+
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de las ciudadanas y ciudadanos.
+
+Durante el tiempo que comprenda el proceso de revocación de mandato, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno.
+
+Los poderes públicos, los ayuntamientos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de gobierno estatal o municipal, sólo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil.
+
+8. El Congreso del Estado emitirá la Ley reglamentaria.
+
 ###### Art. 18.
 
 Son obligaciones del ciudadano nayarita:
@@ -533,11 +575,9 @@ I. Las mismas que en esta Constitución se determinan a los vecinos nayaritas.
 
 II. Alistarse en la Guardia Nacional.
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 2 DEL DECRETO NÚMERO 23, P.O. 30 DE MARZO DE 1919, SE SUPRIME UNA PORCIÓN NORMATIVA A LA FRACCIÓN III DEL ARTÍCULO 18 QUE DICE: “CON LA CONDICIÓN ESTABLECIDA EN LA FRACCIÓN I DEL ARTÍCULO ANTERIOR, POR LO QUE RESPECTA A LAS ELECCIONES LOCALES”.</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 1919)</small>
-
-III. Votar en las elecciones populares en el Distrito Electoral que le corresponda.
+III. Votar en las elecciones populares en el Distrito Electoral que le corresponda; así como en los procesos de revocación de mandato, en los términos que señale la ley.
 
 IV. Desempeñar los cargos de elección popular de la Federación y del Estado.
 
@@ -1253,6 +1293,10 @@ VII. No estar inscrita o inscrito en el Registro de Deudores Alimentarios Moroso
 
 El Gobernador será electo popular y directamente cada seis años, empezará a ejercer sus funciones el diecinueve de Septiembre posterior a la elección, protestando ante el Congreso del Estado y en ningún caso, ni por motivo alguno, podrá ser reelecto.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
+
+El cargo de Gobernador del Estado puede ser revocado en los términos establecidos en esta Constitución.
+
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2021)</small>
 
 ###### Art. 64.
@@ -1266,6 +1310,10 @@ Para el nombramiento de Gobernador interino o sustituto no será aplicable lo es
 En las faltas temporales y en las absolutas, en tanto se nombra al Gobernador interino y se verifica la elección y se presente el nuevo electo o en su caso se nombre al sustituto, lo que deberá ocurrir en un término no mayor a sesenta días, entrará en el ejercicio del Poder Ejecutivo provisionalmente, la persona titular de la Secretaría General de Gobierno del Estado.
 
 Quien ocupe provisionalmente la gubernatura no podrá remover o designar a los titulares de las dependencias y entidades de la administración pública sin autorización previa del Congreso del Estado. Asimismo, entregará al Congreso del Estado un informe de labores en un plazo no mayor a diez días, contados a partir del momento en que termine su encargo.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
+
+En caso de haberse revocado el mandato del Gobernador del Estado, asumirá provisionalmente la titularidad del Poder Ejecutivo quien ocupe la Presidencia de la Comisión de Gobierno del Congreso del Estado; dentro de los treinta días siguientes, el Congreso nombrará a quien concluirá el período constitucional conforme a lo previsto en el párrafo segundo del presente artículo.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -3019,13 +3067,19 @@ El Instituto Estatal Electoral será autoridad en la materia electoral y de part
 
 La fiscalización de las finanzas de los partidos políticos y candidatos independientes estará a cargo del Instituto Nacional Electoral en los términos de ley.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
+
+Para los procesos de revocación de mandato, en los términos del artículo 17 de este ordenamiento, el Instituto Estatal Electoral, deberá realizar aquellas funciones que correspondan para su debida implementación.
+
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
 Apartado D.- Del Tribunal Estatal Electoral y el Sistema de Medios de Impugnación.
 
 Habrá un Tribunal Electoral autónomo, de carácter permanente con personalidad jurídica y patrimonio propios, independiente en sus decisiones que será la máxima autoridad jurisdiccional en la materia, con la jurisdicción y competencia que determinen esta Constitución y la ley. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento en los términos que disponga la ley.
 
-Al Tribunal le corresponde garantizar los actos y resoluciones electorales, en los términos que disponen esta Constitución y la ley; actuará con autonomía e independencia en sus decisiones y serán definitivas en el ámbito de su competencia. Sus determinaciones se sustentarán en los principios rectores de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
+
+Al Tribunal le corresponde garantizar los actos y resoluciones electorales, así como en materia de revocación de mandato, en los términos que disponen esta Constitución y la ley; actuará con autonomía e independencia en sus decisiones y serán definitivas en el ámbito de su competencia. Sus determinaciones se sustentarán en los principios rectores de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
@@ -3056,6 +3110,10 @@ En caso de nulidad de la elección, se convocará a una elección extraordinaria
 En el manejo de recursos económicos, materiales y humanos, los servidores en la entidad, independientemente del cargo y nivel de gobierno, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos, precandidatos, aspirantes o candidatos.
 
 Las leyes correspondientes tipificarán los delitos en materia electoral y determinarán las sanciones que por ellos se impongan.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
+
+Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, incluidos los relativos a los procesos de revocación de mandato, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, de revocación de mandato, y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -4544,3 +4602,15 @@ Si en el plazo de un año contado a partir de la entrada en vigor del presente D
 QUINTO.- Para efectos de la nueva integración del Tribunal de Justicia Administrativa, la reforma contenida en el presente Decreto cobrará vigencia una vez que por cualquier causa se generen ausencias o vacantes definitivas en Magistraturas Numerarias, así como una vez realizados los ajustes y reformas indispensables en la Ley Orgánica del Tribunal de Justicia Administrativa.
 
 SEXTO.- Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit remítase el presente Decreto a los veinte Ayuntamientos de la entidad.
+
+P.O. 31 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE REVOCACIÓN DE MANDATO Y JUICIOS EN LÍNEA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se establece un periodo de quince meses, contados a partir de la entrada en vigor del presente Decreto, para que el Poder Judicial del Estado, el Tribunal de Justicia Administrativa y el Tribunal Estatal Electoral, realicen de manera paulatina la armonización de los ordenamientos normativos en su ámbito competencial, así como para que implementen las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación de las políticas y acciones en materia de justicia en línea, de conformidad con lo establecido en el presente Decreto.
+
+TERCERO. El Honorable Congreso del Estado de Nayarit, deberá expedir la regulación dentro del marco jurídico local, para la correcta aplicación de la revocación de mandato, dentro del plazo de 180 días hábiles, posterior a la entrada en vigor de la presente reforma.
+
+CUARTO. Para los efectos del artículo 131, párrafo primero, de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
