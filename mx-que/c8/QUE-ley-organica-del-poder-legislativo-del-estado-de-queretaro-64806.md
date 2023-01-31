@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2022-03-18"
+last_updated: "2023-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -309,7 +309,9 @@ IV. Ocurrir en el lugar donde habitualmente radique el diputado, algún desastre
 
 V. Atender, con el carácter de diputado, compromisos oficiales de naturaleza legislativa, de representación de la Legislatura, de Comisiones, de Grupo o Fracción Legislativa que por su naturaleza tengan prioridad u otros asuntos de carácter personal justificados.
 
-Las ausencias injustificadas serán comunicadas a la Dirección de Servicios Financieros, para los descuentos que correspondan.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2023)</small>
+
+Las ausencias injustificadas serán comunicadas a la Tesorería, para los descuentos que correspondan, en su caso.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -541,9 +543,15 @@ c) Acuerdo: La resolución expedida por el Poder Legislativo, en materia de su a
 
 (Cómputo de los plazos) Los plazos a que se refiere esta ley, se computarán por días hábiles, salvo disposición expresa en contrario.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2023)</small>
 
-La recepción de documentos se realizará por la Oficialía de Partes en días y horas hábiles, que se comprenderán de lunes a viernes, de las 9:00 a las 16:00 horas. Los que se presenten para trámite Legislativo, deberán ser exhibidos de manera impresa y en archivo electrónico, en formato de procesador de textos editable; no obstante, la Presidencia de la Legislatura podrá habilitar días, horas y formatos distintos a los señalados cuando con ello se logre una comunicación adecuada en el envío y recepción de documentos que por su importancia requieran de trámite distinto. Los documentos que no fueren recibidos en Oficialía de Partes o bajo las excepciones de la presente Ley se tendrán por no presentados ante el Poder Legislativo.
+La recepción de documentos se realizará por la Oficialía de Partes en días y horas hábiles, que se comprenderán de lunes a viernes, de las 9:00 a las 15:00 horas. Los que se presenten para trámite Legislativo, deberán ser exhibidos de manera impresa y en archivo electrónico, en formato de procesador de textos editable o enviados de forma electrónica desde el correo institucional asignado al autor del documento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE ENERO DE 2023)</small>
+
+La Presidencia o la Secretaría de Servicios Parlamentarios de la Legislatura podrá habilitar días, horas y formatos distintos a los señalados cuando con ello se logre una comunicación adecuada en el envío y recepción de documentos que, por su importancia requieran de trámite distinto. Los documentos que no fueren recibidos en Oficialía de Partes o bajo las excepciones de la presente Ley se tendrán por no presentados ante el Poder Legislativo.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 31 DE ENERO DE 2023)</small>
 
 Serán inhábiles los periodos vacacionales autorizados por la Mesa Directiva, así como los días de descanso obligatorios señalados por las leyes de la materia, los convenios sindicales y los autorizados por la Mesa Directiva.
 
@@ -1489,11 +1497,13 @@ En el caso de las fracciones legislativas, se entenderá que la coordinación co
 
 (Recursos asignables y rendición de cuentas) Los Grupos y Fracciones Legislativas gozarán de los recursos que determine el presupuesto, en forma proporcional al número de integrantes que los constituyan.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2023)</small>
 
-El ejercicio de los recursos por cada Grupo o Fracción Legislativos se realizará de acuerdo con el presupuesto aprobado y cada uno a través de su coordinador presentará en forma mensual a la Dirección de Servicios Financieros, la comprobación sobre la aplicación de los mismos, en los términos que acuerde la Junta de Coordinación Política. Las cantidades no comprobadas serán reintegradas a la citada dependencia y será impedimento para la liberación de los recursos subsecuentes.
+El ejercicio de los recursos por cada Grupo o Fracción Legislativos se realizará de acuerdo con el presupuesto aprobado y cada uno a través de su coordinador presentará en forma mensual a la Tesorería, la comprobación sobre la aplicación de los mismos, en los términos que acuerde la Junta de Coordinación Política. Las cantidades no comprobadas serán reintegradas a la citada dependencia y será impedimento para la liberación de los recursos subsecuentes.
 
-Las relaciones contractuales entre las personas que no hayan sido contratadas por la Dirección de Servicios Administrativos y que presten servicios a los Grupos o Fracciones Legislativas, son responsabilidad de éstos, por lo que no causarán, en ningún momento, perjuicio a la Legislatura.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2023)</small>
+
+Las relaciones contractuales entre las personas que no hayan sido contratadas por la Oficialía Mayor y que presten servicios a los Grupos o Fracciones Legislativas, son responsabilidad de éstos, por lo que no causarán, en ningún momento, perjuicio a la Legislatura.
 
 ###### Artículo 118.
 
@@ -1749,17 +1759,25 @@ VII. Ejercer las demás facultades que le señalen la presente Ley, la Mesa Dire
 
 (Auxilio de los Secretarios) Al solicitar el apoyo de los Secretarios, la Presidencia de la Legislatura procurará alternar equitativamente los asuntos en que participen.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2023)</small>
 
 ###### Artículo 133.
 
-(Fe pública) Los Secretarios podrán certificar documentos generados por la Legislatura, sus órganos o dependencias, cuando éstos obren en original en sus archivos. La certificación hecha por el Secretario, no avala su contenido.
+(Fe pública) Los Secretarios o en su caso, el titular de la Secretaría de Servicios Parlamentarios, podrán certificar documentos generados por la Legislatura, sus órganos o dependencias, cuando éstos obren en original en sus archivos. La certificación hecha por éstos, no avala su contenido.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 Asimismo, podrán certificar documentos que obre en original o en copia certificada expedida por autoridad competente, si estos se encuentran en los archivos del Poder Legislativo, debiendo asentarse la leyenda: "Esta certificación sólo tiene validez oficial para trámites del Poder Legislativo del Estado de Querétaro".
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 Se podrán expedir constancias relativas a los cargos y nombramientos aprobados por la Legislatura y sobre la existencia de documentos que obren en los archivos del Poder Legislativo.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 En ausencia de los Secretarios propietarios, los suplentes podrán ejercer las facultades que otorga este artículo, o bien por acuerdo de la Mesa Directiva delegar dicha facultad al Secretario de Servicios Parlamentarios.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 El uso de firma electrónica únicamente se podrá utilizar mediante el sistema informático que mediante acuerdo apruebe la Mesa Directiva, y que deberá garantizar la veracidad, seguridad y control de los documentos que se expidan bajo ese contexto.
 
@@ -1825,7 +1843,9 @@ I. Adoptar la toma de decisiones concertadas en los ámbitos y materias que sean
 
 II. Proponer acuerdos al Pleno de la Legislatura sobre iniciativas presentadas, decisiones de gobierno interno, declaraciones institucionales de la Legislatura y cualquier decisión que sea de su competencia;
 
-III. Elaborar, con apoyo del Director de Servicios Administrativos y el Director de Servicios Financieros, el proyecto del presupuesto de ingresos y egresos del Poder Legislativo, así como las políticas y lineamientos relativos a la aplicación de los recursos asignados;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
+
+III. Elaborar, con apoyo de la Oficialía Mayor y la Tesorería, el proyecto del Presupuesto de Ingresos y Egresos del Poder Legislativo, así como las políticas y lineamientos relativos a la aplicación de los recursos asignados;
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -2041,9 +2061,11 @@ XVIII. Movilidad sustentable y tránsito. Tiene a su cargo asuntos relacionados 
 
 XIX. Participación Ciudadana. Tiene a su cargo la atención de los asuntos relacionados con la participación e incidencia de los ciudadanos en los asuntos y decisiones de interés público, los procesos de formación de ciudadanía y el fortalecimiento de la cultura democrática;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE ENERO DE 2023)</small>
 
-XX. Planeación y Presupuesto. Tiene a su cargo la atención de asuntos en materia de legislación fiscal y tributaria, el estudio y dictamen de iniciativas de leyes de ingresos y presupuesto de egresos del Gobierno del Estado de Querétaro en términos de las disposiciones vigentes; así como la modificación presupuestal de los recursos de la Legislatura, conforme políticas y lineamientos relativos al empleo de los recursos asignados.
+XX. Planeación y Presupuesto. Tiene a su cargo la atención de asuntos en materia de legislación fiscal y tributaria, el estudio y dictamen de iniciativas de leyes de ingresos y presupuesto de egresos del Gobierno del Estado de Querétaro en términos de las disposiciones vigentes; también es competente para la modificación presupuestal de los recursos de la Legislatura, y para emitir políticas y lineamientos relativos al empleo de los recursos asignados.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 Le corresponde además conocer de asuntos en materia de desincorporación de bienes del dominio público, endeudamiento, celebración de contratos y actos jurídicos en materia hacendaria de las entidades públicas que requieran autorización de la Legislatura;
 
@@ -2145,11 +2167,11 @@ El Presidente tendrá voto de calidad en caso de empate en la votación de los a
 
 En caso de circunstancias extraordinarias que impidan llevar a cabo una sesión presencial, ésta podrá llevarse a cabo de forma virtual, previo Acuerdo emitido por la Presidencia de la Mesa Directiva.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2023)</small>
 
 ###### Artículo 152.
 
-(Tiempo de la convocatoria) La convocatoria a sesiones de las Comisiones, será expedida por su Presidente y remitida a sus integrantes por escrito o a través de medios electrónicos, al menos con un día de anticipación a la fecha en que haya de celebrarse la sesión y con aviso a Servicios Parlamentarios, Servicios Administrativos, Comunicación Social e Investigación y Estadística Legislativa para que brinden el apoyo necesario en el ámbito de sus responsabilidades.
+(Tiempo de la convocatoria) La convocatoria a sesiones de las Comisiones, será expedida por su Presidente y remitida a sus integrantes por escrito o a través de medios electrónicos, al menos con un día de anticipación a la fecha en que haya de celebrarse la sesión y con aviso a la Secretaría de Servicios Parlamentarios, Oficialía Mayor, Dirección de Comunicación Social y Dirección de Investigación y Estadística Legislativa, para que brinden el apoyo necesario en el ámbito de sus responsabilidades.
 
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 2019)</small>
 
@@ -2257,13 +2279,13 @@ El personal externo de apoyo a los trabajos de las comisiones serán responsabil
 
 I. La Secretaría de Servicios Parlamentarios;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
 
-II. La Dirección de Servicios Administrativos;
+II. La Oficialía Mayor;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
 
-III. La Dirección de Servicios Financieros;
+III. La Tesorería;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2289,9 +2311,13 @@ Para los efectos de la presente ley se podrán referir a las dependencias por la
 
 I. Secretaría de Servicios Parlamentarios;
 
-II. Servicios Administrativos;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
 
-III. Servicios Financieros;
+II. Oficialía Mayor;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
+
+III. La Tesorería
 
 IV. Contraloría Interna;
 
@@ -2319,7 +2345,9 @@ Cuando la ausencia sea temporal hasta por 15 días hábiles, el Presidente de la
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, con residencia en el Estado de cuando menos tres años anteriores al día de la designación;
 
-II. Poseer título profesional de nivel licenciatura, afín a las funciones del cargo, expedido al menos tres años antes del día de la designación; y
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
+
+II. Poseer estudios afines a las funciones del cargo;
 
 III. No estar inhabilitado para ejercer algún cargo público por resolución firme dictada en procedimiento de responsabilidad administrativa.
 
@@ -2341,25 +2369,33 @@ Para la función legislativa, se contará con el apoyo institucional del persona
 
 (Estructura administrativa) Las dependencias tendrán la estructura administrativa que dispone la presente ley, en caso de modificación, la que les determine la Presidencia de la Junta de Coordinación Política y la Comisión de Planeación y Presupuesto, atendiendo a la disponibilidad presupuestal.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2023)</small>
+
 ###### Artículo 169.
 
-(Medidas internas) Los titulares de las dependencias del Poder Legislativo, deberán dictar todas las disposiciones administrativas internas que requieran para ordenar, organizar y distribuir el trabajo y responsabilidades del personal que labore en éstas.
+(Medidas internas) Los titulares de las dependencias y unidades del Poder Legislativo, deberán dictar todas las disposiciones administrativas internas que requieran para ordenar, organizar y distribuir el trabajo y responsabilidades del personal que labore en éstas; así como para emitir o atender las medidas de control interno y procesos de auditoría y fiscalización, de acuerdo con sus facultades.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2023)</small>
 
-#### Sección Segunda. Servicios Administrativos
+#### Sección Segunda. Oficialía Mayor
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2023)</small>
 
 ###### Artículo 170.
 
-(Función y ubicación orgánica) La Dirección de Servicios Administrativos es la dependencia encargada de la prestación de los servicios administrativos al Poder Legislativo; orgánicamente se encuentra subordinada a la Mesa Directiva.
+(Función y ubicación orgánica) La Oficialía Mayor es la dependencia encargada de la prestación de los servicios administrativos al Poder Legislativo; orgánicamente se encuentra subordinada a la Mesa Directiva.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2023)</small>
 
 ###### Artículo 171.
 
-(Requisitos) Para ser titular de la Dirección de Servicios Administrativos se requiere poseer título profesional de licenciatura en materia administrativa o jurídica.
+(Requisitos) Para ser titular de la Oficialía Mayor se requiere poseer título profesional de licenciatura en materia administrativa, jurídica o afín.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2023)</small>
 
 ###### Artículo 172.
 
-(Facultades y obligaciones de la Dirección de Servicios Administrativos) Corresponde a la Dirección de Servicios Administrativos:
+(Facultades y obligaciones de la Oficialía Mayor) Corresponde a la Oficialía Mayor:
 
 I. Conducir las relaciones con el personal de la Legislatura y vigilar el cumplimiento de sus derechos y obligaciones laborales;
 
@@ -2373,13 +2409,17 @@ V. Mantener actualizado el registro que conforma el inventario de activos propie
 
 VI. Administrar los recursos humanos y materiales con que cuente la Legislatura para su actividad, según la estructura presupuestal aprobada anualmente;
 
-VII. A través del personal a su cargo, prestar, conducir y controlar los servicios de fotocopiado, mensajería, choferes, suministro de materiales de papelería, vigilancia, limpieza y demás análogos de tipo administrativo para el apoyo de las actividades oficiales de la Legislatura, de sus órganos y dependencias;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
 
-VIII. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2018)
+VII. A través del personal a su cargo, prestar, conducir y controlar los servicios de fotocopiado, mensajería, transporte, suministro de materiales de papelería, vigilancia, limpieza y demás análogos de tipo administrativo para el apoyo de las actividades oficiales de la Legislatura, de sus órganos, dependencias y unidades;
 
-(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018) (F. DE E., P.O. 17 DE OCTUBRE DE 2018)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2023)</small>
 
-IX. Proponer conjuntamente con el Director de Servicios Financieros, a la Junta de Coordinación Política, el proyecto del presupuesto de ingresos y egresos de la Legislatura, debiendo en todo caso cumplir con lo previsto en la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro y demás disposiciones aplicables;
+VIII. Ejercer la representación legal para el ejercicio de sus facultades;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
+
+IX. Proponer, conjuntamente con la Tesorería, a la Junta de Coordinación Política, el proyecto del Presupuesto de Ingresos y Egresos de la Legislatura, debiendo en todo caso cumplir con lo previsto en la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro y demás disposiciones aplicables
 
 X. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y remitirlos a la Contraloría Interna para su conocimiento;
 
@@ -2387,11 +2427,13 @@ XI. Programar y ordenar los trabajos de mantenimiento de los bienes propiedad de
 
 XII. Intervenir en el proceso de entrega-recepción, de acuerdo con las prevenciones de la Ley de la materia;
 
-XIII. Intervenir en los procesos de adquisición o arrendamiento de bienes inmuebles, enajenaciones, licitaciones y contratación de servicios en general, conforme a la Ley de la materia y demás normas aplicables;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+XIII. Intervenir en los procesos de adquisición o arrendamiento de bienes inmuebles; enajenaciones, licitaciones y contratación de servicios en general, así como en adquisiciones para la mejora del edificio que alberga el Recinto Oficial principal en infraestructura o servicios y que no requiera financiamiento de cualquier tipo, que preferentemente sean para darle auto sustentabilidad, atendiendo al presupuesto de egresos de la Legislatura y disponibilidad presupuestal, conforme a la Ley de la materia y demás normas aplicables.
 
-XIV. A través del personal técnico a su cargo, prestar los servicios de mantenimiento y apoyo informático a los órganos y dependencias del Poder Legislativo;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
+
+XIV. A través del personal técnico a su cargo, prestar los servicios de Tecnologías de la Información y Comunicación y de mantenimiento a los órganos, dependencias y unidades del Poder Legislativo;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2405,35 +2447,61 @@ XVII. Tener bajo su responsabilidad, en el ámbito administrativo, el uso de los
 
 XVIII. Coordinar el Sistema de Servicio Profesional de Carrera del Poder Legislativo;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
 
-XIX. Ejercer las facultades y cumplir las obligaciones que señale esta Ley, el Pleno de la Legislatura y las demás normas aplicables; y
+XIX. Ejercer las facultades y cumplir las obligaciones que señale esta Ley, el Pleno de la Legislatura y las demás normas aplicables;
 
-> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
 
-XX. Tener a su cargo un Registro de Antigüedad Laboral que contendrá entre otra información, la relacionada con el sueldo, antigüedad y puesto de los trabajadores del Poder Legislativo. Dicha información podrá ser compartida, mediante solicitud que conste por escrito, con los titulares de las oficialías mayores o sus equivalentes de diversos entes públicos.
+XX. Tener a su cargo un Registro de Antigüedad Laboral que contendrá entre otra información, la relacionada con el sueldo, antigüedad y puesto de los trabajadores del Poder Legislativo. Dicha información podrá ser compartida, mediante solicitud que conste por escrito, con los titulares de las oficialías mayores o sus equivalentes de diversos entes públicos;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2023)</small>
 
-#### Sección Tercera. Servicios Financieros
+XXI. Certificar los documentos que genere o resguarde en los archivos de la Dependencia a su cargo, en ejercicio de sus facultades, para la atención de procesos de fiscalización y auditorías;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2023)</small>
+
+XXII. Proponer la metodología para la elaboración del Plan Estratégico, el Programa Operativo Anual y los planes anuales de trabajo, en el ámbito administrativo, a las Dependencias y Unidades del Poder Legislativo;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2023)</small>
+
+XXIII. Coordinar la elaboración del Manual de Organización Específico y del Manual de Descripción de Puestos, ambos del Poder Legislativo, los cuales serán validados por los titulares de las Dependencias y Unidades, y remitirlos a la Contraloría Interna para su conocimiento; y
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2023)</small>
+
+XXIV. Registrar el cumplimiento de los Indicadores de Resultados que informen los titulares de las Dependencias y Unidades del Poder Legislativo, en ejercicio de sus facultades.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2023)</small>
+
+#### Sección Tercera. Tesorería
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2023)</small>
 
 ###### Artículo 173.
 
-(Función y ubicación orgánica) La Dirección de Servicios Financieros es la dependencia responsable de la ejecución financiera y contable del presupuesto del Poder Legislativo, orgánicamente se encuentra subordinada a la Mesa Directiva.
+(Función y ubicación orgánica) La Tesorería es la dependencia responsable de la ejecución financiera y contable del presupuesto del Poder Legislativo, orgánicamente se encuentra subordinada a la Mesa Directiva.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2023)</small>
 
 ###### Artículo 174.
 
-(Requisitos) Para ser titular de la Dirección de Servicios Financieros se requiere poseer título profesional de licenciatura en materia contable o administrativa.
+(Requisitos) Para ser titular de la Tesorería se requiere poseer título profesional de licenciatura en materia contable o administrativa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2023)</small>
 
 ###### Artículo 175.
 
-(Facultades y obligaciones de la Dirección de Servicios Financieros) Corresponde a la Dirección de Servicios Financieros:
+(Facultades y obligaciones de la Tesorería) Corresponde a la Tesorería:
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 I. Auxiliar a la Junta de Coordinación Política en la elaboración del presupuesto de ingresos y egresos de la Legislatura;
 
-II. Administrar los recursos financieros autorizados, de forma conjunta con el Director de Servicios Administrativos; en caso de ausencia de éste o del Director de Servicios Financieros o de ambos, el Presidente y el Secretario de la Comisión de Planeación y Presupuesto, por causa justificada, podrán librar los documentos de carácter mercantil que se requieran para el cumplimiento de las obligaciones económicas del Poder Legislativo;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
+
+II. Administrar los recursos financieros autorizados, de forma conjunta con la Oficialía Mayor, incluyendo ejercer poder general en términos del artículo 9 de la Ley General de Títulos y Operaciones de Crédito para que, entre otras, esté facultado para otorgar y suscribir títulos de crédito, apertura y cierre de cuentas de cheques, expedición de cheques; delegación y sustitución de firmas autorizadas en las cuentas bancarias y otorgamiento y revocación de poderes en esta materia a servidores públicos del Poder Legislativo.
+
+En caso de ausencia de la persona titular de la Oficialía Mayor o de la persona titular de la Tesorería, o de ambas, el Presidente y el Secretario de la Comisión de Planeación y Presupuesto, por causa justificada, podrán librar los documentos de carácter mercantil que se requieran para el cumplimiento de las obligaciones económicas del Poder Legislativo;
 
 III. Realizar los descuentos correspondientes a los diputados, en caso de inasistencia, retardo o abandono injustificado;
 
@@ -2455,13 +2523,21 @@ XI. Intervenir en el proceso de entrega-recepción, de acuerdo con las prevencio
 
 XII. Ejecutar los acuerdos del Pleno de la Legislatura, en el ámbito de su competencia;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
 
-XIII. Proponer conjuntamente con el Director de Servicios Administrativos, a la Junta de Coordinación Política, el proyecto del presupuesto de ingresos y egresos de la Legislatura, debiendo en todo caso cumplir con lo previsto en los artículos 139, fracción IV del presente ordenamiento y 24, último párrafo, de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro;
+XIII. Proponer, conjuntamente con la Oficialía Mayor, a la Junta de Coordinación Política, el proyecto del Presupuesto de Ingresos y Egresos de la Legislatura, debiendo en todo caso cumplir con lo previsto en los artículos 139, fracción IV del presente ordenamiento y 24, último párrafo, de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro;
 
-XIV. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y remitirlos a la Contraloría Interna para su conocimiento; y
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
 
-XV. Ejercer las facultades y cumplir las obligaciones que señale esta Ley, el Pleno de la Legislatura y las demás normas aplicables.
+XIV. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y remitirlos a la Contraloría Interna para su conocimiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2023)</small>
+
+XV. Certificar documentos que genere o resguarde en los archivos de la Dependencia a su cargo, en ejercicio de sus facultades, para la atención de procesos de fiscalización y auditorías; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE ENERO DE 2023)</small>
+
+XVI. Ejercer las facultades y cumplir las obligaciones que señale esta Ley, el Pleno de la Legislatura y las demás normas aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2479,11 +2555,11 @@ Le corresponde además recibir, organizar y canalizar los documentos que sean re
 
 La Secretaría de Servicios Parlamentarios se encuentra orgánicamente subordinada a la Mesa Directiva de la Legislatura y se constituye como secretaría técnica de la Junta de Coordinación Política.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2023)</small>
 
 ###### Artículo 177.
 
-(Requisitos) Para ser titular de la Secretaría de Servicios Parlamentarios se requiere poseer título profesional de licenciatura en derecho y experiencia de tres años en el ámbito legislativo contados a partir de la expedición del título y acreditar maestría en el ámbito jurídico.
+(Requisitos) Para ser titular de la Secretaría de Servicios Parlamentarios se requiere poseer título profesional de licenciatura en derecho y experiencia de cinco años en el ámbito legislativo contados a partir de la expedición del título.
 
 (REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018) (F. DE E., P.O. 17 DE OCTUBRE DE 2018)
 
@@ -2619,9 +2695,11 @@ La Gaceta Legislativa se remitirá a los diputados a un correo electrónico inst
 
 (Función y ubicación orgánica) La Dirección de Investigación y Estadística Legislativa es la dependencia encargada de fortalecer el trabajo legislativo, mediante la difusión e investigación de los temas que le son afines, así como la formación y capacitación en materia legislativa. Orgánicamente se encuentra subordinada a la Mesa Directiva.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2023)</small>
+
 ###### Artículo 183.
 
-(Requisitos) Para ser titular de la Dirección de Investigación y Estadística Legislativa se requiere poseer título profesional de licenciatura, con conocimientos en el área de investigación y el derecho legislativo, y acreditar maestría en el ámbito jurídico.
+(Requisitos) Para ser titular de la Dirección de Investigación y Estadística Legislativa se requiere poseer conocimientos en el área de investigación y el derecho legislativo, y acreditar experiencia en cargos directivos.
 
 ###### Artículo 184.
 
@@ -2871,9 +2949,9 @@ II. Un Vicepresidente, que será el Presidente o Presidenta de la Comisión de A
 
 III. Un Secretario Técnico, que será el titular de la Secretaría de Servicios Parlamentarios; y
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2023)</small>
 
-IV. Dos vocales, que serán los titulares de la Dirección de Servicios Administrativos y de la Dirección de Servicios Financieros;
+IV. Dos vocales, que serán las personas titulares de la Oficialía Mayor y de la Tesorería;
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2900,6 +2978,62 @@ El titular de la Contraloría Interna será invitado a las sesiones que desahogu
 La Unidad de Transparencia proporcionará todo el apoyo e información para el desahogo y atención de los asuntos que sean competencia del Comité de Transparencia.
 
 La Unidad de Atención Ciudadana estará jerárquicamente subordinada a la Mesa Directiva y le corresponde implementar y ejecutar acciones de atención a la ciudadanía relacionado con el Poder Legislativo.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2023)</small>
+
+## Título Noveno. Del Comité de Tecnologías de la Información y Comunicación
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2023)</small>
+
+### Capítulo Único. Estructura y funcionamiento
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
+
+###### Artículo 203.
+
+(Función general). El Comité de Tecnologías de la Información y Comunicación es el órgano encargado de orientar el uso de las tecnologías de la información para la mejora continua de las actividades legislativas y las administrativas que sirven de apoyo a aquellas.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
+
+###### Artículo 204.
+
+(Estructura). El Comité de Tecnologías de la Información y Comunicación estará integrado de la siguiente forma:
+
+I. Un Presidente, que será el diputado o diputada que Presida en ese momento la Legislatura;
+
+II. Una Secretaría Técnica, que será la persona titular de la Oficialía Mayor; y
+
+III. Tres vocales, que serán las o los titulares de la Secretaría de Servicios Parlamentarios, de la Tesorería y de la Jefatura de Tecnologías de la Información y Comunicaciones.
+
+El Comité de Tecnologías de la Información y Comunicación sesionará de forma ordinaria por lo menos cada 6 meses y de manera extraordinaria cuando así lo requiera por su naturaleza, previa convocatoria que emita su presidencia.
+
+Tendrán derecho a voz y voto todos los integrantes del Comité, sus resoluciones se aprobarán por mayoría de votos, teniendo la presidencia el voto de calidad en caso de empate.
+
+El titular de la Contraloría Interna será invitado a las sesiones que desahogue el Comité y tendrá únicamente derecho a voz.
+
+El Comité podrá invitar a las sesiones a las personas titulares de las demás dependencias y unidades del Poder Legislativo, a integrantes de la comunidad académica o a titulares de las áreas de Tecnologías de la Información y Comunicación de otros entes públicos cuando por la naturaleza de los asuntos a tratar se requiera de una opinión especializada, quienes únicamente tendrán derecho a voz.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
+
+###### Artículo 205.
+
+(Facultades) El Comité de Tecnologías de la Información y Comunicación tendrá las siguientes facultades:
+
+I. Orientar el uso de las Tecnologías de Información y Comunicaciones a la visión estratégica del Poder Legislativo;
+
+II. Autorizar el Programa de Tecnologías de la Información y Comunicaciones del Poder Legislativo;
+
+III. Emitir opinión respecto del Programa Anual de Adquisiciones en materia de Tecnologías de la Información y Comunicación cuando le sea solicitada por el Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Poder Legislativo;
+
+IV. Proponer las políticas en la materia, para la mejora continua de la actividad legislativa, así como los trámites y servicios que se ofrecen a la sociedad;
+
+V. Fomentar el desarrollo de aplicaciones que agilicen los procesos y procedimientos legislativos y administrativos;
+
+VI. Fomentar la automatización de procesos del Poder Legislativo;
+
+VII. Aprobar el Manual en materia de seguridad informática; y
+
+VIII. Las demás que establezcan otras disposiciones jurídicas aplicables y aquellas que sean necesarias para el cumplimiento de sus facultades.
 
 ## TRANSITORIOS
 
@@ -3348,3 +3482,25 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su apr
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 31 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de la aprobación por el Pleno de la Sexagésima Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Al inicio de la vigencia de la presente Ley, los recursos humanos, materiales y financieros con que funciona la Dirección de Servicios Administrativos pasarán a formar parte de la Oficialía Mayor; mismo caso y efectos que para la Tesorería, respecto de la Dirección de Servicios Financieros.
+
+Todas las menciones a la Dirección de Servicios Administrativos o de su titular en decretos, acuerdos, tabuladores, normatividad interna y en documentos oficiales, se entenderá a la Oficialía Mayor.
+
+Todas las menciones a la Dirección de Servicios Financieros o de su titular en decretos, acuerdos, tabuladores, normatividad interna y en documentos oficiales, se entenderá a la Tesorería.
+
+Artículo Cuarto. Al inicio de la vigencia de la presente Ley la Jefatura de Tecnologías de la Información y Comunicación contará por (sic) los recursos humanos y materiales con que funcionaba la Jefatura de Informática y las menciones en tabulador de remuneraciones, normatividad interna y en documentos oficiales se entenderá a aquélla.
+
+Artículo Quinto. La Oficialía Mayor deberá informar al Comité Técnico de Remuneraciones para los Servidores Públicos de los entes públicos del Estado de los ajustes administrativos y presupuestales en su caso.
+
+Artículo Sexto. El Comité de Tecnologías de la Información y Comunicación deberá instalarse y sesionar por primera ocasión dentro del plazo de 6 meses a partir de la vigencia de la presente Ley.
+
+Artículo Séptimo. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
