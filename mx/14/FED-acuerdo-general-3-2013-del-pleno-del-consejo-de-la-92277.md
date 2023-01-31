@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2023-01-16"
+last_updated: "2023-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -355,9 +355,9 @@ XV. DECIMOQUINTO CIRCUITO:
 
 2. Un tribunal colegiado de apelación, con residencia en Tijuana.
 
-> <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 13/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 110/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE ENERO DE 2023)</small>
 
-3. Veinte juzgados de Distrito en el Estado de Baja California, tres de ellos con sede en Ensenada; seis Mixtos; y uno en Materia Mercantil Federal, todos con sede en Mexicali y diez con residencia en Tijuana, estos últimos comprenden tres especializados en Procesos Penales Federales y siete en Materia de Amparo y Juicios Federales.
+3. Diecisiete juzgados de Distrito en el estado de Baja California: dos con residencia en Ensenada; seis mixtos y dos en materia mercantil federal con residencia en Mexicali; y siete mixtos con residencia en Tijuana.
 
 XVI. DECIMOSEXTO CIRCUITO:
 
@@ -403,7 +403,9 @@ XVIII. DECIMOCTAVO CIRCUITO:
 
 XIX. DECIMONOVENO CIRCUITO:
 
-1. Seis tribunales colegiados: cuatro especializados, dos en materias administrativa y civil; y dos en materias penal y de trabajo, todos con residencia en Ciudad Victoria; así como dos con sede en Reynosa, Tamaulipas.
+> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 116/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE ENERO DE 2023)</small>
+
+1. Siete tribunales colegiados de circuito: cinco especializados, dos en materias administrativa y civil, ambos con residencia en Ciudad Victoria; tres en materias penal y de trabajo, dos de ellos con residencia en Ciudad Victoria y uno en Tampico; así como dos mixtos con residencia en Reynosa, Tamaulipas.
 
 > <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 99/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
 
@@ -719,7 +721,9 @@ XVIII. DECIMOCTAVO CIRCUITO: Estado de Morelos.
 
 El tribunal colegiado de apelación también ejercerá jurisdicción para conocer de los juicios de amparo indirecto promovidos en contra de actos del Tribunal Colegiado de Apelación del Vigésimo Primer Circuito, que comprende el Estado de Guerrero, al tratarse del tribunal más cercano a la residencia.
 
-XIX. DECIMONOVENO CIRCUITO: En los tribunales colegiados con sede en Ciudad Victoria, será igual a la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en la citada ciudad y en la de Tampico.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 116/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE ENERO DE 2023)</small>
+
+XIX. DECIMONOVENO CIRCUITO: En los tribunales colegiados con sede en Ciudad Victoria, y el localizado en Tampico, será igual a la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en Ciudad Victoria, Ciudad Madero y en Tampico.
 
 Para los tribunales colegiados con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en Matamoros, Nuevo Laredo y Reynosa.
 
@@ -10426,3 +10430,29 @@ TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas
 CUARTO. Las Direcciones Generales de Tecnologías de la Información, y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos de la Oficina de Correspondencia Común que dará servicio al Tercer Tribunal Colegiado en Materia de Trabajo del Segundo Circuito que inicia funciones.
 
 QUINTO. El personal de la Administración Regional apoyará para el traslado de los asuntos que por turno corresponda conocer al Tercer Tribunal Colegiado en Materia de Trabajo del Segundo Circuito que inicia funciones.
+
+D.O.F. 31 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 110/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL JUZGADO SEGUNDO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN MEXICALI, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA MATERIA INDICADA; AL CAMBIO DE DENOMINACIÓN DEL JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL DEL MISMO DISTRITO Y RESIDENCIA; A LA CREACIÓN E INICIO DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán al Juzgado Segundo de Distrito en Materia Mercantil Federal en el Estado de Baja California, con residencia en Mexicali, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información, y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Juzgado Segundo de Distrito en Materia Mercantil Federal en el Estado de Baja California, con residencia en Mexicali.
+
+D.O.F. 31 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 116/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL TERCER TRIBUNAL COLEGIADO EN MATERIAS PENAL Y DE TRABAJO DEL DECIMONOVENO CIRCUITO, CON RESIDENCIA EN TAMPICO, TAMAULIPAS, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO Y MATERIA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y DE LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al Tercer Tribunal Colegiado en Materias Penal y de Trabajo del Decimonoveno Circuito, con residencia en Tampico, de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información, y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos para la asignación de asuntos al Tercer Tribunal Colegiado en Materias Penal y de Trabajo del Decimonoveno Circuito, con residencia en Tampico.
+
+QUINTO. El personal de la Oficina de Correspondencia Común de los Tribunales Colegiados en Materias Penal y de Trabajo del Decimonoveno Circuito, con sede en Ciudad Victoria, apoyará para el traslado de los asuntos que por turno corresponda conocer al Tercer Tribunal Colegiado en Materias Penal y de Trabajo del Decimonoveno Circuito, con residencia en Tampico.
