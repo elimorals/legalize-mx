@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2023-01-20"
+last_updated: "2023-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 20 DE ENERO DE 2023, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 31 DE ENERO DE 2023, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2023.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -5913,13 +5913,19 @@ e) Podrán acompañar y vigilar, por sus propios medios, el recorrido del mecani
 
 ###### Artículo 336.
 
-1. Las disposiciones del presente Capítulo tienen por objeto establecer las bases y los procedimientos generales para la implementación y operación del Prep. Dichas disposiciones son aplicables para el Instituto y los OPL, en sus respectivos ámbitos de competencia, así como para todas las personas que participen en las etapas de implementación, operación y evaluación de dicho programa.
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
+
+1. Las disposiciones del presente Capítulo tienen por objeto establecer las bases y los procedimientos generales para el diseño, la implementación y operación del PREP. Dichas disposiciones son aplicables para el Instituto y los OPL, en sus respectivos ámbitos de competencia, así como para todas las personas que participen en las etapas de diseño, implementación, operación y evaluación de dicho programa.
 
 2. Tratándose de elecciones extraordinarias, el Consejo General o el Órgano Superior de Dirección del OPL que corresponda, podrán realizar ajustes en procedimientos y plazos para, en su caso, llevar a cabo el PREP. El OPL deberá informar cualquier determinación al Instituto.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
 3. El Consejo General o el Órgano Superior de Dirección del OPL según corresponda, en el caso de elecciones extraordinarias, determinará la integración o no del COTAPREP y, la realización o no de auditorías, para lo cual se deberán tomar en consideración el número de actas a procesar, la complejidad de las condiciones en las que se desarrollará la elección, la suficiencia presupuestaria, entre otras. Cualquier determinación al respecto, deberá estar debidamente justificada y, tratándose de elecciones locales, deberá someterse a consideración de la Comisión competente del Instituto para que determine la procedencia de la decisión. Esta disposición no será aplicable en las elecciones de Presidencia de la República, Gubernaturas de los estados y Jefatura de Gobierno de la Ciudad de México.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE ENERO DE 2023)</small>
+
+4. Para las elecciones de Presidencia de la República, Gubernaturas y Jefatura de Gobierno de la Ciudad de México, tanto ordinarias como extraordinarias, se diseñará, implementará y operará el PREP, se integrará un COTAPREP y se realizará auditoría.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -5931,43 +5937,51 @@ e) Podrán acompañar y vigilar, por sus propios medios, el recorrido del mecani
 
 1. El resultado de la votación emitida en el extranjero será incluido en el PREP conforme a la normativa aplicable en el ámbito federal y en el ámbito local; esto último, en aquellos casos en que la Constitución de la entidad federativa lo contemple.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE ENERO DE 2023)</small>
 
-2. (DEROGADO, D.O.F. 8 DE FEBRERO DE 2022)
+2. Para el caso de cualquier modalidad de votación que se contemple para el proceso electoral del que se trate, los resultados de ésta serán incluidos en el PREP conforme a la normativa aplicable.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### Artículo 338.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-1. El Consejo General y los Órganos Superiores de Dirección de los OPL, en el ámbito de sus respectivas competencias, serán responsables directos de la supervisión a la implementación y operación del PREP.
+1. El Consejo General y los Órganos Superiores de Dirección de los OPL, en el ámbito de sus respectivas competencias, serán responsables directos de supervisar el diseño, la implementación y operación del PREP.
 
-2.Con base en sus atribuciones legales y en función al tipo de elección que se trate, la implementación y operación del PREP será responsabilidad:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2023)</small>
 
-a) Del Instituto, cuando se trate de:
+2. Con base en sus atribuciones legales, y en función al tipo de elección o mecanismo de participación ciudadana de que se trate, el diseño, la implementación y operación del PREP será responsabilidad:
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2023)</small>
+
+a. Del Instituto, cuando se trate de:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 31 DE ENERO DE 2023)</small>
 
 I. Elección de Presidencia de la República;
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 31 DE ENERO DE 2023)</small>
 
 II. Elección de senadurías;
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 31 DE ENERO DE 2023)</small>
 
 III. Elección de diputaciones federales;
 
-IV. Consulta popular, y
+IV. (DEROGADA, D.O.F. 31 DE ENERO DE 2023)
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 31 DE ENERO DE 2023)</small>
 
-V. Otras elecciones que por mandato de autoridad corresponda al Instituto llevar a cabo, y
+V. Otras elecciones que por mandato de autoridad corresponda al Instituto llevar a cabo;
 
-> <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2023)</small>
 
-VI. Asunción de un Proceso Electoral Local o asunción del PREP.
+VI. Asunción de un Proceso Electoral Local o asunción del PREP; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 31 DE ENERO DE 2023)</small>
+
+VII. Mecanismos de participación ciudadana en los que así lo determine el Consejo General.
 
 b) De los OPL, cuando se trate de:
 
@@ -5983,19 +5997,21 @@ III. Elección de integrantes de los ayuntamientos o alcaldías de la Ciudad de 
 
 IV. Otras elecciones que por disposición legal o por mandato de autoridad, corresponda al OPL llevar a cabo.
 
-3. El Instituto y los OPL, en el ámbito de sus competencias, deberán acordar la designación o ratificación de la instancia interna responsable de coordinar el desarrollo de las actividades del PREP, por lo menos nueve meses antes al día de la jornada electoral.
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+3. El Instituto y los OPL, en el ámbito de sus competencias, deberán acordar la designación o ratificación de la instancia interna responsable de coordinar el desarrollo de las actividades del PREP, por lo menos nueve meses antes del día de la Jornada Electoral.
 
-4. La instancia interna deberá elaborar un plan de trabajo para la implementación del PREP, que contemple los requisitos mínimos establecidos por el Instituto, el cual deberá, preferentemente, ser revisado previamente por el COTAPREP.
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+4. La instancia interna deberá elaborar un plan de trabajo para la implementación del PREP, que contemple los requisitos mínimos establecidos por el Instituto, el cual deberá ser revisado previamente en las reuniones formales de trabajo del COTAPREP con las representaciones de los partidos políticos y, en su caso, de las candidaturas independientes, en las cuales podrán participar las y los Consejeros Electorales, o quien los represente.
 
-5. Para la implementación y operación del PREP, el Instituto y los OPL, según corresponda, podrán auxiliarse de terceros conforme a su capacidad técnica y financiera, siempre que los terceros se ajusten a la normatividad aplicable y cumplan con los objetivos del PREP. La vigilancia del cumplimiento de lo anterior estará a cargo del Instituto o los OPL, a través de la instancia interna responsable de coordinar el desarrollo de las actividades del PREP; el Instituto será el encargado de vigilar el cumplimiento de las disposiciones que rigen al PREP, por parte del tercero, tratándose de elecciones federales, consultas populares federales y aquellas elecciones que corresponda al Instituto llevar a cabo. Lo mismo corresponderá a los OPL tratándose de elecciones locales y ejercicios de participación ciudadana locales.
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
+5. Para el diseño, implementación y operación del PREP, el Instituto y los OPL, según corresponda, podrán auxiliarse de terceros conforme a su capacidad técnica y financiera, siempre que los terceros se ajusten a la normatividad aplicable y cumplan con los objetivos del PREP. La vigilancia del cumplimiento de lo anterior estará a cargo del Instituto o los OPL, a través de la instancia interna responsable de coordinar el desarrollo de las actividades del PREP; el Instituto será el encargado de vigilar el cumplimiento de las disposiciones que rigen al PREP, por parte del tercero, tratándose de elecciones federales o mecanismos de participación ciudadana en los que así lo determine el Consejo General y aquellas elecciones que corresponda al Instituto llevar a cabo. Lo mismo corresponderá a los OPL tratándose de elecciones locales y ejercicios de participación ciudadana locales
 
-6. En los instrumentos jurídicos celebrados con terceros para la implementación y operación del PREP, no podrán establecerse condiciones en las que éstos, de manera directa o indirecta, contravengan lo dispuesto en el presente Reglamento y demás disposiciones establecidas por el Instituto, obstaculicen la supervisión del Instituto o de los OPL, interfieran en la realización de la auditoría, o impidan la debida instrumentación del programa; adicionalmente, deben incluirse, en el alcance de la contratación, todos los requisitos técnicos y condiciones que se establecen en el presente Reglamento, siempre que guarden relación con los servicios contratados y los requisitos establecidos por el Instituto. El OPL deberá informar al Instituto sobre el cumplimiento de estas disposiciones.
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
+
+6. En los instrumentos jurídicos celebrados con terceros para el diseño, implementación y operación del PREP, no podrán establecerse condiciones en las que éstos, de manera directa o indirecta, contravengan lo dispuesto en el presente Reglamento y demás disposiciones establecidas por el Instituto, obstaculicen la supervisión del Instituto o de los OPL, interfieran en la realización de la auditoría, o impidan la debida instrumentación del programa; adicionalmente, deben incluirse, en el alcance de la contratación, todos los requisitos técnicos y condiciones que se establecen en el presente Reglamento, siempre que guarden relación con los servicios contratados y los requisitos establecidos por el Instituto. El OPL deberá informar al Instituto sobre el cumplimiento de estas disposiciones.
 
 > <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 2020)</small>
 
@@ -6009,33 +6025,51 @@ IV. Otras elecciones que por disposición legal o por mandato de autoridad, corr
 
 ###### Artículo 339.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 8 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2023)</small>
 
 1. El Consejo General y los Órganos Superiores de Dirección, en el ámbito de sus respectivas competencias, y considerando la elección de que se trate, deberán acordar al menos, lo siguiente:
 
-a) Designación o ratificación de la instancia interna responsable de coordinar el desarrollo de las actividades del PREP, cuando menos nueve meses antes del día de la jornada electoral.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2023)</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+a) La Comisión que dará seguimiento al diseño, implementación y operación del PREP, cuando menos nueve meses antes del día de la jornada electoral.
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 31 DE ENERO DE 2023)</small>
 
-b) La integración del COTAPREP, al menos siete meses antes del día de la Jornada Electoral, en el que se determinen, por lo menos, los siguientes aspectos: la vigencia del Comité, las personas que lo integran y su Secretaría Técnica, una síntesis curricular que demuestre su experiencia, las funciones, atribuciones y cualquier otro supuesto que el presente Reglamento norme al respecto.
+I. Para elecciones ordinarias federales y ordinarias locales concurrentes será la Comisión de Capacitación y Organización Electoral del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 31 DE ENERO DE 2023)</small>
+
+II. Para elecciones extraordinarias federales, será la Comisión que determine el Instituto de acuerdo a la fecha en que se emita la convocatoria correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 31 DE ENERO DE 2023)</small>
+
+III. Para elecciones ordinarias y extraordinarias locales no concurrentes, por parte del Instituto será la Comisión Temporal de Seguimiento de los Procesos Electorales Locales; y, por parte del OPL, la Comisión que determine en función de sus atribuciones, la cual deberá ser preferentemente aquella que también dé seguimiento a los Cómputos. De no ser así, el OPL deberá establecer los mecanismos para que ambas Comisiones puedan estar informadas de los avances en materia de PREP y Cómputos según corresponda.
+
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
+
+b) Designación o ratificación de la instancia interna responsable de coordinar el desarrollo de las actividades del PREP, cuando menos nueve meses antes del día de la Jornada Electoral.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
 c) El proceso técnico operativo, al menos cinco meses antes del día de la Jornada Electoral, que deberá contemplar, el rango mínimo y máximo de CATD y, en su caso de CCV, que podrán instalarse y, al menos, las fases de acopio y digitalización de las actas de escrutinio y cómputo destinadas para el PREP; la captura y verificación de datos; la publicación de datos e imágenes y el empaquetado de las actas destinadas para el PREP, la operación del mecanismo para digitalizar actas desde las casillas, así como determinar las instancias responsables de la toma de decisiones en los casos no previstos.
 
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTE PÁRRAFO ES SIMILAR AL INCISO E).]</small>
+
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
 d) Las sedes en donde se instalarán los CATD, y en su caso los CCV, así como la instrucción para la instalación y habilitación de los mismos, al menos cuatro meses antes del día de la Jornada Electoral, previendo mecanismos de contingencia para su ubicación, instalación, habilitación y operación, en los supuestos de caso fortuito o fuerza mayor.
 
-e) Instruir a los consejos locales, distritales o municipales, según corresponda, para que supervisen las actividades relacionadas con la implementación y operación del PREP en los CATD y, en su caso, en los CCV.
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTE PÁRRAFO ES SIMILAR AL INCISO D).]</small>
+
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
+
+e) Las sedes en donde se instalarán los CATD, y en su caso los CCV, así como la instrucción para la instalación y habilitación de los mismos, al menos cuatro meses antes del día de la Jornada Electoral, previendo mecanismos de continuidad y contingencia para su ubicación, instalación, habilitación y operación, en los supuestos de caso fortuito o fuerza mayor.
 
 f) (DEROGADO, D.O.F. 21 DE JULIO DE 2020)
 
-g) Fecha y hora de inicio de la publicación de los datos, imágenes y bases de datos de los resultados electorales preliminares.
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
+
+g) Instruir a los consejos locales, distritales o municipales, según corresponda, para que sus integrantes, dentro de los que forman parte las representaciones de los partidos políticos y, en su caso, candidaturas independientes, supervisen las actividades relacionadas con el diseño, implementación y operación del PREP en los CATD y, en su caso, en los CCV;
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
@@ -6047,9 +6081,13 @@ i) El número de actualizaciones por hora de los datos; el número mínimo deber
 
 j) Fecha y hora de publicación de la última actualización de datos, imágenes y bases de datos de los resultados electorales preliminares.
 
-2. Previo a la aprobación de los acuerdos a que hace referencia el numeral anterior y que se señalan en el lineamiento 33 del Anexo 13 del presente Reglamento, los Órganos Superiores de Dirección deberán remitirlos al Instituto con la finalidad de que éste brinde asesoría y, emita la opinión y las recomendaciones correspondientes.
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-3. Cualquier modificación a los acuerdos emitidos por los Órganos Superiores de Dirección deberá ser informada al Instituto.
+2. Previo a la aprobación de los acuerdos a que hace referencia el numeral anterior y que se señalan en el numeral 33 del Anexo 13 del presente Reglamento, los Órganos Superiores de Dirección deberán remitirlos al Instituto con la finalidad de que éste brinde asesoría y, emita la opinión y las recomendaciones correspondientes.
+
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
+
+3. Cualquier modificación a los acuerdos emitidos por los Órganos Superiores de Dirección deberá ser informada al Instituto, las versiones preliminares dentro de los cinco (5) días posteriores a su elaboración y, las versiones finales dentro de los cinco (5) días posteriores a su aprobación.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -6061,17 +6099,13 @@ j) Fecha y hora de publicación de la última actualización de datos, imágenes
 
 1. El Instituto y cada OPL deberán integrar, en el ámbito de su competencia, a más tardar siete meses antes de la fecha de la Jornada Electoral respectiva, un Comité Técnico Asesor que brinde asesoría técnica en materia del PREP, cuyos integrantes serán designados por el Consejo General o el Órgano Superior de Dirección, según corresponda. En aquellos casos en los que el Instituto sea el responsable de implementar dos o más PREP, podrá integrar un solo COTAPREP.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
-
-2. El COTAPREP que sea integrado por el OPL se conformará por un mínimo de tres y un máximo de cinco integrantes; el que integre el Instituto estará conformado con un mínimo de tres y un máximo de siete personas, y en ambos casos, serán auxiliados por la o el titular de la instancia interna responsable de coordinar la implementación y operación del PREP, quien fungirá como Secretaría Técnica.
+2. El COTAPREP que sea integrado por el OPL se conformará por un mínimo de tres y un máximo de cinco integrantes; el que integre el Instituto estará conformado con un mínimo de tres y un máximo de siete personas, y en ambos casos, serán auxiliados por la o el titular de la instancia interna responsable de coordinar el diseño, implementación y operación del PREP, quien fungirá como Secretaría Técnica.
 
 ###### Artículo 341.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 8 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2023)</small>
 
 1. Para ser integrante del COTAPREP, las personas aspirantes deberán cumplir, como mínimo, los requisitos siguientes:
 
@@ -6097,15 +6131,13 @@ d) No desempeñar o haber desempeñado cargo de elección popular durante los tr
 
 e) No haber sido designada consejera o consejero electoral del Consejo General o del Órgano Superior de Dirección del OPL, según corresponda, durante el Proceso Electoral en el que pretenda actuar;
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-f) No haberse desempeñado como miembro de dirigencias nacionales, estatales o municipales de partido político alguno en los últimos tres años;
+f) No haberse desempeñado como integrante de dirigencias nacionales, estatales o municipales de partido político alguno en los últimos tres años;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
-
-g) Su participación no debe implicar un conflicto de interés con las personas involucradas en la implementación y operación del PREP; en caso de presentarse, debe hacerlo del conocimiento del Instituto u OPL según corresponda. En esta situación, el Consejo General del Instituto o el Órgano de Dirección Superior del OPL, según corresponda, será el órgano competente para determinar si existe un conflicto de interés que constituya un impedimento para ser integrante del COTAPREP.
+g) Su participación no debe implicar un conflicto de interés con las personas involucradas en el diseño, implementación y operación del PREP; en caso de presentarse, debe hacerlo del conocimiento del Instituto u OPL según corresponda. En esta situación, el Consejo General del Instituto o el Órgano de Dirección Superior del OPL, según corresponda, será el órgano competente para determinar si existe un conflicto de interés que constituya un impedimento para ser integrante del COTAPREP.
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
 
@@ -6145,9 +6177,7 @@ j) No formar parte de algún otro comité o comisión creados por el Instituto o
 
 ###### Artículo 342.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2023)</small>
 
 1. El COTAPREP deberá entrar en funciones con una anticipación mínima de siete meses al día de la Jornada Electoral correspondiente, y tendrá las atribuciones siguientes:
 
@@ -6157,7 +6187,9 @@ a) Realizar análisis, estudios y propuestas, en el desarrollo y optimización d
 
 b) Asesorar los trabajos propios del PREP en materia de tecnologías de la información y comunicaciones, investigación de operaciones, ciencia política, análisis estadístico y/o ciencia de datos, así como en aspectos logísticos y operativos;
 
-c) Asesorar y dar seguimiento a la implementación y operación de los mecanismos para llevar a cabo el Prep;
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
+
+c) Asesorar y dar seguimiento al diseño, implementación y operación de los mecanismos para llevar a cabo el PREP;
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
 
@@ -6173,9 +6205,9 @@ f) Revisar y emitir recomendaciones sobre la forma en que será presentada la in
 
 g) Realizar al menos una sesión ordinaria mensual;
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-h) Realizar reuniones de trabajo con representantes de los partidos políticos y, en su caso, de las candidaturas independientes ante el Consejo General o el Órgano Superior de Dirección del OPL que corresponda, para dar a conocer el plan de trabajo, avances y seguimiento de la implementación y operación del PREP;
+h) Realizar mensualmente reuniones formales de trabajo con las representaciones de los partidos políticos y, en su caso, de las candidaturas independientes ante el Consejo General o el Órgano Superior de Dirección del OPL que corresponda, para dar a conocer el plan de trabajo, avances y seguimiento del diseño, implementación y operación del PREP;
 
 i) Elaborar un informe de actividades, al menos cada dos meses, que deberá ser entregado al Consejo General o al Órgano Superior de Dirección que corresponda;
 
@@ -6185,15 +6217,17 @@ i) Elaborar un informe de actividades, al menos cada dos meses, que deberá ser 
 
 j) Presenciar la ejecución de la o las pruebas para verificar el correcto funcionamiento del sistema informático, todos los simulacros y la operación del PREP, debiendo asistir a algún recinto donde se lleven a cabo, al menos alguna de las fases del proceso técnico operativo;
 
-k) Elaborar un informe final de las actividades desempeñadas durante la vigencia del COTAPREP, que deberá ser entregado al Consejo General o al Órgano Superior de Dirección que corresponda, dentro del mes del día de la jornada electoral, y
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
+
+k) Elaborar un informe final de las actividades desempeñadas durante la vigencia del COTAPREP, que deberá ser entregado al Consejo General o al Órgano Superior de Dirección que corresponda, dentro del mes del día de la Jornada Electoral, y
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
 l) Las demás que sean necesarias para el cumplimiento de sus atribuciones, siempre y cuando se encuentren apegadas a lo que dispone la LGIPE, este Reglamento, sus Anexos 13 y 18.5 y demás normatividad aplicable.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-2. Adicionalmente, el COTAPREP que, en su caso sea integrado por el Instituto, tendrá la función de brindar asesoría y apoyar a éste en sus funciones de seguimiento y asesoría en materia de implementación y operación del PREP en elecciones locales, para lo cual podrán contar con personal de apoyo y, en su caso, el Instituto deberá prever los recursos necesarios.
+2. Adicionalmente, el COTAPREP que, en su caso sea integrado por el Instituto, tendrá la función de brindar asesoría y apoyar a éste en sus funciones de seguimiento y asesoría en materia de diseño, implementación y operación del PREP en elecciones locales, para lo cual podrán contar con personal de apoyo y, en su caso, el Instituto deberá prever los recursos necesarios.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
@@ -6203,15 +6237,13 @@ l) Las demás que sean necesarias para el cumplimiento de sus atribuciones, siem
 
 ###### Artículo 343.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 8 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2023)</small>
 
 1. En las sesiones y reuniones de trabajo de los COTAPREP, serán atribuciones:
 
-> <small>(REFORMADO N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2023)</small>
 
-a) De los integrantes:
+a) De las y los integrantes:
 
 > <small>(REFORMADA, D.O.F. 21 DE JULIO DE 2020)</small>
 
@@ -6271,13 +6303,17 @@ V. Fungir como enlace del Comité ante la Secretaría Ejecutiva o su homólogo e
 
 ###### Artículo 344.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-1. Los COTAPREP deberán realizar una sesión de instalación, la cual se llevará a cabo dentro de los primeros cinco días siguientes a su entrada en funciones o aprobación del acuerdo por el que se determina su integración. En la primera reunión formal de trabajo del COTAPREP se deberá de aprobar el plan de trabajo y el calendario para las sesiones ordinarias y reuniones de trabajo con las representaciones de los partidos políticos y, en su caso, de las candidaturas independientes ante el Consejo General o el Órgano Superior de Dirección del OPL, según el caso.
+1. Los COTAPREP deberán realizar una sesión de instalación, la cual se llevará a cabo dentro de los primeros cinco días siguientes a su entrada en funciones o aprobación del acuerdo por el que se determina su integración, en dicha sesión deberá aprobarse el plan de trabajo y el calendario para las sesiones ordinarias y reuniones formales de trabajo con las representaciones de los partidos políticos y, en su caso, de las candidaturas independientes ante el Consejo General o el Órgano Superior de Dirección del OPL, según el caso.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-2. A las sesiones del COTAPREP podrán acudir, en calidad de invitados con derecho a voz, las y los Consejeros Electorales, o quien los represente; así como los funcionarios de la autoridad administrativa electoral correspondiente y, en su caso, especialistas cuyos conocimientos y experiencia aporten elementos relevantes a los trabajos propios de los comités.
+2. El plan de trabajo y calendario de sesiones ordinarias y reuniones formales de trabajo aprobados por el Comité deberán hacerse del conocimiento de las y los Consejeros Electorales y de las representaciones de los partidos políticos y, en su caso, las candidaturas independientes; derivado de lo anterior, considerando las aportaciones realizadas, los documentos podrán ser modificados en caso de ser necesario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE ENERO DE 2023)</small>
+
+En este sentido, cualquier modificación al plan de trabajo y calendario de sesiones ordinarias y reuniones formales de trabajo aprobados por el Comité de los Organismos Públicos Locales, deberá ser informada al Instituto dentro de los cinco días naturales siguientes a su modificación.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -6285,11 +6321,15 @@ V. Fungir como enlace del Comité ante la Secretaría Ejecutiva o su homólogo e
 
 1. Las sesiones de los Cotaprep podrán ser ordinarias y extraordinarias.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2023)</small>
+
 2. Las sesiones ordinarias serán previamente aprobadas y calendarizadas en el plan de trabajo, debiendo realizarse por lo menos una cada mes, a partir de la entrada en funciones del Comité. En ellas se deberá cumplir al menos con lo siguiente:
 
 a) Presentar un informe de los avances del Prep, y
 
-b) Dar a conocer los avances y seguimiento de los simulacros y la operación del Prep, cuando correspondan.
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
+
+b) Dar a conocer los avances y seguimiento de la o las pruebas de funcionalidad, los simulacros y la operación del PREP, cuando correspondan.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
@@ -6307,21 +6347,27 @@ b) Dar a conocer los avances y seguimiento de los simulacros y la operación del
 
 1. El Instituto y los OPL, en el ámbito de su competencia, deberán implementar un sistema informático para la operación del PREP. El sistema, ya sea propio o desarrollado por terceros, será independiente y responsabilidad de cada una de dichas autoridades; además, deberá contemplar las etapas mínimas del proceso técnico operativo, señaladas en el Anexo 13 de este Reglamento.
 
-2. El Instituto y los OPL deberán establecer un procedimiento de control de cambios del código fuente y de las configuraciones del sistema informático con objeto de llevar un registro de las modificaciones al sistema y de sus correspondientes versiones.
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2023)</small>
+
+2. El Instituto y los OPL deberán establecer un procedimiento de control de cambios del código fuente y de las configuraciones del sistema informático con el objeto de llevar un registro de las modificaciones al sistema y de sus correspondientes versiones.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
 ###### Artículo 347.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2023)</small>
 
 1. El Instituto y los OPL deberán someter su sistema informático a una auditoría técnica para lo cual se deberá designar un ente auditor. El alcance de la auditoría deberá cubrir, como mínimo, los puntos siguientes:
 
 a) Pruebas funcionales de caja negra al sistema informático para evaluar la integridad en el procesamiento de la información y la generación de resultados preliminares.
 
-b) Análisis de vulnerabilidades, considerando al menos pruebas de penetración y revisión de configuraciones a la infraestructura tecnológica del Prep.
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-2. Para la designación del ente auditor se dará preferencia a instituciones académicas o de investigación y deberá efectuarse a más tardar, cuatro meses antes del día de la jornada electoral. El ente auditor deberá contar con experiencia en la aplicación de auditorías con los alcances establecidos en el numeral anterior.
+b) Análisis de vulnerabilidades, considerando al menos pruebas de penetración y revisión de las configuraciones de la infraestructura tecnológica del PREP.
+
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
+
+2. Para la designación del ente auditor se dará preferencia a instituciones académicas o de investigación y deberá efectuarse a más tardar, cuatro meses antes del día de la Jornada Electoral. El ente auditor deberá contar con experiencia en la aplicación de auditorías con los alcances establecidos en el numeral anterior.
 
 3. La instancia interna responsable de coordinar el desarrollo de las actividades del PREP será la encargada de validar el cumplimiento de la experiencia del ente auditor.
 
@@ -6333,9 +6379,9 @@ b) Análisis de vulnerabilidades, considerando al menos pruebas de penetración 
 
 5. Posterior a su designación, el ente auditor deberá entregar al Instituto o al OPL, según corresponda, la aceptación formal de su designación.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-6. El Instituto, a través de la instancia interna, será el encargado de vigilar el cumplimiento por parte del ente auditor, de las disposiciones que rigen al PREP, tratándose de elecciones federales, consultas populares federales y aquellas elecciones o PREP que corresponda al Instituto llevar a cabo. Lo mismo corresponderá a los OPL, a través de la instancia interna, tratándose de elecciones locales y ejercicios de participación ciudadana locales.
+6. El Instituto, a través de la instancia interna, será el encargado de vigilar el cumplimiento por parte del ente auditor, de las disposiciones que rigen al PREP, tratándose de elecciones federales, mecanismos de participación ciudadana y aquellas elecciones o PREP que corresponda al Instituto llevar a cabo. Lo mismo corresponderá a los OPL, a través de la instancia interna, tratándose de elecciones locales y ejercicios de participación ciudadana locales.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -6369,11 +6415,17 @@ b) Análisis de vulnerabilidades, considerando al menos pruebas de penetración 
 
 3. El objeto de los simulacros es replicar la operación del PREP, desarrollando cada una de las fases del proceso técnico operativo en el orden establecido incluyendo, el mecanismo de digitalización de actas desde las casillas. Se deberán realizar como mínimo, tres simulacros durante los tres domingos previos al de la Jornada Electoral en los cuales la publicación deberá iniciar a más tardar a las 12:00 horas (hora local).
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE FEBRERO DE 2022)</small>
+4. Para las elecciones de Presidencia de la República, Gubernaturas de los estados y Jefatura de Gobierno de la Ciudad de México, el diseño de las bases de datos que servirán para el llenado de las Actas de Escrutinio y Cómputo que se utilizarán durante la ejecución de los simulacros, deberá considerar que el resultado total de votos que obtenga cada candidatura sea empate.
 
-4. El diseño de las bases de datos que servirán para el llenado de las Actas de Escrutinio y Cómputo que se utilizarán durante la ejecución de los simulacros, deberá considerar que el resultado total de votos que obtenga cada Partido Político en lo individual, así como el resultado total que obtengan todas las Candidaturas Independientes agrupadas como una sola, sea un empate; es decir, la suma de los votos de todas las Candidaturas Independientes deberá ser igual a los votos de cada Partido Político en lo individual.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE ENERO DE 2023)</small>
+
+5. Para las elecciones de Senadurías, Diputaciones Federales, Diputaciones Locales, Ayuntamientos y otros cargos de elección, el diseño de las bases de datos que servirán para el llenado de las Actas de Escrutinio y Cómputo que se utilizarán durante la ejecución de los simulacros, deberá considerar que el resultado total de votos que obtenga cada Partido Político en lo individual, así como el resultado total que obtengan todas las Candidaturas Independientes agrupadas como una sola, sea un empate; es decir, la suma de los votos de todas las Candidaturas Independientes deberá ser igual a los votos de cada Partido Político en lo individual.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE ENERO DE 2023)</small>
+
+6. Para los cargos de elección distintos al poder ejecutivo federal o local, si derivado de la celebración de algún convenio de coalición o candidatura común, se establece una forma de repartición de votación que no permita presentar el empate para los partidos políticos que hacen parte de dicho convenio o candidatura común, se deberá realizar la distribución para que la suma de los votos de los partidos dentro del convenio o candidatura común, dé como resultado el mismo número de votos que obtiene cada Partido Político que contiende en lo individual.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -6392,6 +6444,10 @@ b) Análisis de vulnerabilidades, considerando al menos pruebas de penetración 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
 3. El Instituto y los OPL, en el ámbito de su competencia, deberán acordar la ubicación de los CATD y, en su caso de los CCV, así como adoptar las medidas correspondientes para adecuar los espacios físicos de las instalaciones. Los criterios para su ubicación se encuentran previstos en el Anexo 13 de este Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE ENERO DE 2023)</small>
+
+4. Las y los integrantes de la Comisión que dé seguimiento al diseño, implementación y operación del PREP, o en su caso, sus representantes, podrán supervisar la instalación y habilitación de los CATD y los CCV, así como las actividades relacionadas con el diseño, implementación y operación del PREP que se ejecuten en dichos centros.
 
 > <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -6481,13 +6537,13 @@ g) Manejo del sistema informático, en el ámbito de competencia que corresponda
 
 1. La publicación de los resultados electorales preliminares deberá realizarse a través del Instituto y los OPL, en el ámbito de sus competencias, o bien, a través de difusores oficiales, que podrán ser las instituciones académicas, públicas o privadas, y medios de comunicación en general.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-2. Los difusores oficiales serán invitados a participar mediante convocatoria o invitación directa, según lo determine el Instituto o los OPL. En los instrumentos jurídicos que, en su caso, sean formalizados para la participación de los difusores oficiales del PREP, se determinarán y detallarán los mecanismos de intercambio de información entre ambas partes. Asimismo, el Instituto y los OPL, según corresponda, deberán publicar en su portal de internet, la lista de difusores oficiales.
+2. Los difusores oficiales serán invitados a participar mediante convocatoria o invitación, según lo determine el Instituto o los OPL. En los instrumentos jurídicos que, en su caso, sean formalizados para la participación de los difusores oficiales del PREP, se determinarán y detallarán los mecanismos de intercambio de información entre ambas partes. Asimismo, el Instituto y los OPL, según corresponda, deberán publicar en su portal de internet, la lista de difusores oficiales.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-3. El Instituto y los OPL, en el ámbito de sus competencias, deberán construir respectivamente, un prototipo navegable de su sitio de publicación que se deberá revisar en el marco de las sesiones del COTAPREP, a más tardar cuatro meses antes del día de la Jornada electoral. Dicho prototipo deberá apegarse a las plantillas base de la interfaz establecidas por el Instituto, observando lo establecido en los Lineamientos del PREP, en lo que refiere a los datos mínimos a publicar.
+3. El Instituto y los OPL, en el ámbito de sus competencias, deberán construir respectivamente, un prototipo navegable de su sitio de publicación que se deberá revisar en el marco de las sesiones del COTAPREP, a más tardar cuatro meses antes del día de la Jornada Electoral. Dicho prototipo deberá apegarse a las plantillas base de la interfaz establecidas por el Instituto, observando lo establecido en los Lineamientos del PREP, en lo que refiere a los datos mínimos a publicar.
 
 4. El inicio y cierre de la publicación de los resultados electorales preliminares dependerá de la elección de que se trate con base en lo siguiente:
 
@@ -6499,9 +6555,9 @@ a) Elecciones federales: la publicación podrá iniciar a partir de las 20:00 ho
 
 b) Elecciones locales: los OPL deberán determinar la hora de inicio de su publicación entre las 18:00 y las 20:00 horas del horario local de la entidad federativa que corresponda, quedando prohibido publicar por cualquier medio los resultados electorales preliminares antes de la hora señalada. El cierre de publicación será en un plazo de veinticuatro horas contadas a partir de la hora de inicio de la publicación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-5. Previo al inicio de la publicación del PREP se podrán procesar Actas PREP que hayan sido digitalizadas a través del mecanismo, procedimiento y uso de herramientas tecnológicas para digitalizar actas desde las casillas, o acopiadas previamente en los CATD.
+5. En los casos en que previo al inicio de la publicación se reciban Actas PREP que hayan sido digitalizadas a través del mecanismo, procedimiento y uso de herramientas tecnológicas para digitalizar actas desde las casillas, o acopiadas previamente en los CATD, éstas deberán ser capturadas y verificadas y, una vez concluidas dichas fases, los respectivos datos deberán estar disponibles en el sitio del PREP a partir de la hora de inicio de la publicación.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
@@ -6531,15 +6587,17 @@ b) Elecciones locales: los OPL deberán determinar la hora de inicio de su publi
 
 ###### Artículo 354.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf]</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2022)</small>
+1. El Instituto dará seguimiento puntual y sistemático a los trabajos de diseño, implementación y operación del PREP que lleven a cabo los OPL. Asimismo, podrá asistir a las sesiones y reuniones de trabajo con derecho a voz de los COTAPREP, acompañar durante la ejecución de la o las pruebas para verificar el correcto funcionamiento del sistema informático, los simulacros y la operación del PREP, tanto de manera presencial como remota. Para garantizar lo anterior, los OPL deberán brindar las facilidades necesarias y atender los requerimientos de información que, en su caso, formule el Instituto.
 
-1. El Instituto dará seguimiento puntual y sistemático a los trabajos de implementación y operación del PREP que lleven a cabo los OPL. Asimismo, podrá asistir a las sesiones y reuniones de trabajo con derecho a voz de los COTAPREP, acompañar durante la ejecución de la o las pruebas para verificar el correcto funcionamiento del sistema informático, los simulacros y la operación del PREP, tanto de manera presencial como remota. Para garantizar lo anterior, los OPL deberán brindar las facilidades necesarias y atender los requerimientos de información que, en su caso, formule el Instituto.
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
 
-2. Los OPL deberán informar al Instituto, a través de la Utvopl, sobre el avance en la implementación y operación del Prep.
+2. Los OPL deberán informar al Instituto, a través de la UTVOPL, sobre el avance en el diseño, implementación y operación del PREP.
 
-3. El Instituto podrá proporcionar a los OPL, asesoría técnica relativa a la implementación y operación del Prep, la cual versará sobre los temas relacionados con la aplicación y cumplimiento de las disposiciones del presente Capítulo, entre otros, los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 31 DE ENERO DE 2023)</small>
+
+3. El Instituto podrá proporcionar a los OPL, asesoría técnica relativa al diseño, implementación y operación del PREP, la cual versará sobre los temas relacionados con la aplicación y cumplimiento de las disposiciones del presente Capítulo, entre otros, los siguientes:
 
 a) Acuerdos que deban emitirse;
 
@@ -6549,11 +6607,15 @@ c) Proceso técnico operativo;
 
 d) Sistema informático, auditoría, elaboración de planes de seguridad y de continuidad;
 
-e) Ejercicios y simulacros;
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
+
+e) Ejercicios, pruebas de funcionalidad y simulacros;
 
 f) Publicación.
 
-4. Cada OPL deberá asegurar su participación en las actividades que el Instituto considere necesarias para abonar al cumplimiento de las labores de implementación y operación del prep.
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2023)</small>
+
+4. Cada OPL deberá asegurar su participación y la de los distintos actores involucrados, en las actividades que el Instituto considere necesarias para abonar al cumplimiento de las labores de diseño, implementación y operación del PREP.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -8063,7 +8125,7 @@ DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al ini
 
 > <small>[N. DE E. VÉASE ANEXO 13 LINEAMIENTOS DEL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES (PREP), EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 90 A LA 101.]</small>
 
-> <small>[N. DE E. VÉASE REFORMA AL ANEXO 13 LINEAMIENTOS DEL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES (PREP), D.O.F. DE 8 DE FEBRERO DE 2022 [N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf], PÁGINAS DE LA 15 A LA 34.]</small>
+> <small>[N. DE E. VÉASE REFORMA AL ANEXO 13 LINEAMIENTOS DEL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES (PREP), D.O.F. DE 8 DE FEBRERO DE 2022 [N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf], PÁGINAS DE LA 15 A LA 34; Y D.O.F. DE 31 DE ENERO DE 2023, PÁGINAS DE LA 176 A LA 205.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 14 CRITERIOS PARA LA RECEPCIÓN DE LOS PAQUETES ELECTORALES EN LAS SEDES DE LOS ÓRGANOS COMPETENTES DEL INSTITUTO NACIONAL ELECTORAL (INSTITUTO) Y DE LOS ORGANISMOS PÚBLICOS LOCALES (OPL), AL TÉRMINO DE LA JORNADA ELECTORAL, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 102 A LA 104.]</small>
 
@@ -8071,7 +8133,7 @@ DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al ini
 
 > <small>[N. DE E. VÉASE ANEXO 16 PROCEDIMIENTO PARA LA DESTRUCCIÓN DE DOCUMENTACIÓN ELECTORAL, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 125 A LA 128.]</small>
 
-> <small>[N. DE E. VÉASE REFORMA AL ANEXO 18.5 ESTRUCTURA DE LOS ARCHIVOS CSV PARA EL TRATAMIENTO DE LA BASE DE DATOS RELATIVA AL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES, D.O.F. DE 8 DE FEBRERO DE 2022 [N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf], PÁGINAS DE LA 35 A LA 93.]</small>
+> <small>[N. DE E. VÉASE REFORMA AL ANEXO 18.5 ESTRUCTURA DE LOS ARCHIVOS CSV PARA EL TRATAMIENTO DE LA BASE DE DATOS RELATIVA AL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES, D.O.F. DE 8 DE FEBRERO DE 2022 [N. DE E. INFORMACIÓN OBTENIDA DE: http://www.dof.gob.mx/2021/INE/CGord202111_17_ap_14.pdf], PÁGINAS DE LA 35 A LA 93; Y D.O.F. DE 31 DE ENERO DE 2023, PÁGINAS DE LA 206 A LA 278.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 19.3 PROCEDIMIENTO Y PROTOCOLO DE SEGURIDAD PARA LA GENERACIÓN, IMPRESIÓN, ENTREGA, DEVOLUCIÓN Y DESTRUCCIÓN DE LAS LISTAS NOMINALES DE ELECTORES PARA SU USO EN LAS JORNADAS ELECTORALES, EN EL D.O.F. DE 23 DE OCTUBRE DE 2020, PÁGINA 441.]</small>
 
@@ -9820,3 +9882,49 @@ https://www.ine.mx/sesion-ordinaria-del-consejo-general-29-de-noviembre-de-2022/
 Página DOF
 
 www.dof.gob.mx/2022/INE/CGord202211_29_ap_4.pdf
+
+D.O.F. 20 DE ENERO DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LAS MODIFICACIONES AL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, EN MATERIA DEL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES (PREP), ASÍ COMO A SU ANEXO 13 RELATIVO A LOS LINEAMIENTOS DEL PREP Y AL ANEXO 18.5 REFERENTE A LA ESTRUCTURA DE LOS ARCHIVOS CSV PARA EL TRATAMIENTO DE LA BASE DE DATOS RELATIVA AL PREP", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO. Se aprueban las modificaciones a los artículos 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 349, 350, 353 y 354 del Reglamento de Elecciones del Instituto Nacional Electoral, para quedar como se muestra en los siguientes términos:
+
+[…]
+
+SEGUNDO. Se aprueban las modificaciones de los siguientes Anexos que forman parte integral del Reglamento de Elecciones del Instituto Nacional Electoral, las cuales se precisan en el Anexo 1 del presente Acuerdo:
+
+Anexo Título del anexo
+
+Anexo 13 Lineamientos del Programa de Resultados
+
+Electorales Preliminares
+
+Anexo 18.5 Estructura de los archivos CSV para el tratamiento
+
+de la base de datos relativa al Programa de
+
+Resultados Electorales Preliminares
+
+TERCERO. El presente Acuerdo y las modificaciones al Reglamento de Elecciones del Instituto Nacional Electoral, al Anexo 13 relativo a los Lineamientos del Programa de Resultados Electorales Preliminares y al Anexo 18.5 correspondiente a la Estructura de los archivos CSV para el tratamiento de la base de datos relativa al Programa de Resultados Electorales Preliminares que forman parte integral del Reglamento, entrarán en vigor al día siguiente de su aprobación por parte de este Consejo General.
+
+CUARTO. Se instruye a la Unidad Técnica de Servicios de Informática, a realizar las gestiones necesarias ante la Dirección de Secretariado y la Dirección Jurídica de este Instituto, para que, en el ámbito de sus respectivas competencias, realicen las modificaciones al articulado en términos de lo previsto en el punto de acuerdo PRIMERO del presente e integren en el compilado de anexos del Reglamento de Elecciones del Instituto Nacional Electoral las modificaciones a los Anexos 13 relativo a los Lineamientos del Programa de Resultados Electorales Preliminares y 18.5 correspondiente a la estructura de los archivos CSV para el tratamiento de la base de datos relativa al Programa de Resultados Electorales Preliminares previstas en el punto de acuerdo SEGUNDO, a fin que se actualice el compilado de Anexos del Reglamento de Elecciones que se encuentra publicado en NormaINE.
+
+QUINTO. Se instruye a la Unidad Técnica de Vinculación con los Organismos Públicos Electorales dar a conocer el contenido del presente Acuerdo a las presidencias de los Órganos Superiores de Dirección de los Organismos Públicos Locales, a fin de que lo informen a las y los integrantes de dichos Órganos y realicen las previsiones correspondientes para los Procesos Electorales Locales 2022-2023.
+
+SEXTO. Publíquese el presente Acuerdo y sus anexos en la Gaceta Electoral, en NormaINE, en el Portal de internet del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
+
+El presente Acuerdo fue aprobado en sesión ordinaria del Consejo General celebrada el 29 de noviembre de 2022, por votación unánime de las y los Consejeros Electorales, Norma Irene De La Cruz Magaña, Doctor Uuc-kib Espadas Ancona, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordán, Doctor Ciro Murayama Rendón, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, no estando presente durante la votación la Consejera Electoral, Doctora Adriana Margarita Favela Herrera.
+
+El Consejero Presidente del Consejo General, Dr. Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Lic. Edmundo Jacobo Molina.- Rúbrica.
+
+El Acuerdo y el Voto Concurrente que emite la Consejera Electoral, Carla Astrid Humphrey Jordán pueden ser consultados en las siguientes direcciones electrónicas:
+
+Página INE:
+
+https://www.ine.mx/sesion-ordinaria-del-consejo-general-29-de-noviembre-de-2022/
+
+Página DOF
+
+www.dof.gob.mx/2022/INE/CGord202211_29_ap_25.pdf
