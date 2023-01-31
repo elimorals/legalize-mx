@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-tribunal-estatal-electoral-de-145705"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-12-22"
-last_updated: "2022-08-31"
+last_updated: "2023-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2023.
 
 Reglamento publicado en la Sección Tercera del Número 115 en el Periódico Oficial del Estado de Nayarit, el martes 22 de diciembre de 2020.
 
@@ -183,25 +183,33 @@ I.- Pleno
 
 3. Secretaría General de Acuerdos
 
-3.1 Secretaria o Secretario
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2023)</small>
+
+3.1 Secretaria o Secretario General de Acuerdos
 
 3.2 Actuaria o Actuario
 
 3.3 Oficialía de partes
 
-> <small>(F. DE E., P.O. 21 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2023)</small>
 
-3.4 Encargado de Archivo
+3.4 Se integrará además con los auxiliares que las necesidades del servicio lo requieran de conformidad con la disponibilidad presupuestal.
 
 4. Dirección de Administración
 
 4.1 Titular de la Dirección de Administración
 
-4.3 (sic) Departamento de Administración
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2023)</small>
+
+4.3. (sic) Jefe (sic) Departamento de Administración
 
 4.4 Área de Comunicación, Informática y Redes
 
 4.5 Auxiliar de Administración.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
+
+4.6 Se integrará además con los auxiliares que las necesidades del servicio lo requieran de conformidad con la disponibilidad presupuestal.
 
 > <small>(F. DE E., P.O. 21 DE ENERO DE 2021)</small>
 
@@ -216,6 +224,10 @@ I.- Pleno
 > <small>(F. DE E., P.O. 21 DE ENERO DE 2021)</small>
 
 5.3 Departamento Substanciador
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
+
+5.4 Se integrará además con los auxiliares que las necesidades del servicio lo requieran de conformidad con la disponibilidad presupuestal.
 
 6. Comités y Comisión
 
@@ -236,6 +248,20 @@ I.- Pleno
 7. Defensoría Pública Electoral.
 
 La estructura del Tribunal que establece el presente reglamento y el demás personal auxiliar que las necesidades del servicio requieran y determine el Pleno, se definirán conforme a la disponibilidad presupuestal, mismos que serán adscritos mediante oficio a las unidades administrativas enumeradas en el presente reglamento, de conformidad a las necesidades de la propia institución. El funcionamiento organizacional y operativo se precisará en el Manual de Organización y de Procedimientos que al efecto se expida.
+
+> <small>(ADICIONADO CON LOS NUMERALES QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2023)</small>
+
+8. Coordinación de Archivos.
+
+8.1 Coordinadora o Coordinador de Archivos.
+
+8.2 Correspondencia.
+
+8.3 Archivo de trámite por área.
+
+8.4 Archivo de concentración.
+
+8.5 Archivo histórico.
 
 ### CAPÍTULO SEGUNDO. PLENO
 
@@ -1123,13 +1149,101 @@ IX. Las demás que se deriven de la naturaleza de sus funciones y de las disposi
 
 En caso de considerar necesario abstenerse de brindar el servicio, la persona titular de la Defensoría Pública Electoral tiene la obligación de redactar documento fundado y motivado, dirigido al solicitante, manifestando las razones por las cuales se abstiene de presentar sus servicios.
 
-### CAPÍTULO PRIMERO. NOTIFICACIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2023)</small>
 
-### CAPÍTULO SEGUNDO. REQUERIMIENTOS
+### CAPÍTULO NOVENO. COORDINACION DE ARCHIVOS
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
+
+###### Artículo 48 Bis.
+
+La Coordinación de Archivos es la unidad administrativa encargada de vigilar, analizar y modificar, en caso de ser necesario, todos los procesos y procedimientos que son realizados por las áreas operativas que integran el Tribunal Estatal Electoral, ello con la finalidad de lograr la preservación física y digital de todo acervo documental producido por dichas áreas, en cumplimiento de lo establecido en la legislación general y estatal en materia de archivo y demás normas aplicables a dicha función y tiene las atribuciones para realizar las actividades que sean necesarias para garantizar el acceso y difusión de esta documentación conforme a lo establecido en los ordenamientos de transparencia local y federal.
+
+La persona titular de la Coordinación de Archivos tendrá el nivel de director o equivalente dentro del Tribunal.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
+
+###### Artículo 48 Ter.
+
+El Sistema Institucional de archivos, deberá integrarse por la Coordinación de Archivos, y las áreas operativas siguientes:
+
+a) De correspondencia;
+
+b) Archivo de trámite, por área o unidad;
+
+c) Archivo de concentración, y
+
+d) Archivo histórico.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2023)</small>
+
+###### Artículo 48 Quater.
+
+La persona titular de la Coordinación de Archivos será designada por el pleno a propuesta de la Presidencia.
+
+I. Para ser titular de la Coordinación de Archivos del tribunal, se requiere:
+
+1. Ser ciudadana o ciudadano mexicano por nacimiento y en pleno ejercicio de sus derechos civiles y políticos.
+
+2. Tener cuando menos treinta años cumplidos el día de la designación;
+
+3. Contar con conocimientos teóricos y técnicos archivísticos necesarios para el desempeño óptimo de sus funciones;
+
+4. Poseer al día del nombramiento título y cedula profesional en la licenciatura en derecho, administración o área afín, expedidos por autoridad o institución legalmente reconocida y tener preferentemente estudios de posgrado; y
+
+5. No haber sido inhabilitada o inhabilitado para desempeñar cargo, empleo o comisión en el sector público, ni removida o removido por causa grave de algún cargo en el sector público.
+
+II. La Coordinación de Archivos tendrá las funciones siguientes:
+
+1. Elaborar, con la colaboración de los responsables de los archivos de trámite, de concentración y en su caso histórico, los instrumentos de control archivístico.
+
+2. Elaborar criterios específicos y recomendaciones en materia de organización y conservación de archivos.
+
+3. Elaborar y someter a consideración del Pleno del Tribunal Estatal Electoral, el programa anual;
+
+4. Coordinar los procesos de valoración y disposición documental que realicen las áreas operativas;
+
+5. Coordinar las actividades destinadas a la modernización y automatización de los procesos archivísticos y a la gestión de documentos electrónicos de las áreas operativas;
+
+6. Brindar asesoría técnica para la operación de los archivos;
+
+7. Elaborar y/o colaborar con programas de capacitación en gestión documental y administración de archivos;
+
+8. Coordinar, con las áreas o unidades administrativas, las políticas de acceso y la conservación de los archivos;
+
+9. Coordinar la operación de los archivos de trámite, concentración y, en su caso, histórico, de acuerdo con la normatividad;
+
+10. Autorizar la transferencia de los archivos cuando un área o unidad del Tribunal Estatal Electoral sea sometida a procesos de fusión, escisión, extinción o cambio de adscripción; o cualquier modificación de conformidad con las disposiciones legales aplicables;
+
+11. Proponer y elaborar instrumentos técnicos y manuales para la organización y procedimientos de los archivos de trámite, concentración y en su caso históricos de (sic) Tribunal, en coordinación con los responsables de los archivos de cada área, para su aprobación por parte del Tribunal;
+
+12. Establecer los procesos de disposición documental y préstamo de expedientes en el Archivo de Concentración;
+
+13. Coadyuvar con la Dirección de Administración del Tribunal para propiciar la incorporación de personal, mobiliario, equipo técnico, de conservación y seguridad e instalaciones apropiadas para los archivos de conformidad con las funciones y servicios que se brinden;
+
+14. Coadyuvar con el Área Técnica de Informática del Tribunal para realizar las adecuaciones y mejoramiento de las tecnologías de la información para los archivos del Tribunal, para la automatización de estos, digitalización de los documentos para la gestión, administración y conservación de los documentos que contempla el archivo.
+
+15. Las que establezcan las disposiciones jurídicas aplicables.
+
+III. En cuanto al área de correspondencia, será ocupada por quien ostente la titularidad de Oficialía de Partes del Tribunal.
+
+IV. Las personas responsables de archivo de trámite por área o unidad serán nombradas por el titular de cada área.
+
+V. Las personas responsables del archivo de concentración y del archivo histórico, serán designadas por el pleno de entre las personas que ocupen un cargo dentro del propio Tribunal. Incluso, podrá designarse una misma persona para cubrir ambas áreas.
+
+En caso de contar con suficiencia presupuestal, en el archivo de concentración y en el archivo histórico se podrán designar personas que ejerzan exclusivamente las atribuciones propias de esas áreas.
+
+VI. El Tribunal contara con un grupo interdisciplinario. La persona titular de la Coordinación de Archivos propiciará la integración y formalización del grupo interdisciplinario y el proceso de elaboración del catálogo de disposición documental, convocará a las reuniones o sesiones de trabajo y llevará el registro y seguimiento de los acuerdos y compromisos tomados.
+
+El tribunal deberá establecer el Sistema Institucional de Archivos, siendo este el conjunto de registros, procesos, procedimientos, criterios, estructuras, herramientas y funciones que desarrolla cada sujeto obligado y sustenta la actividad archivística, de acuerdo con los procesos de gestión documental.
+
+Las funciones de las diversas áreas de archivo, así como del grupo interdisciplinario, se regirán por lo dispuesto en este reglamento, disposiciones reglamentarias emitidas por el Pleno, Ley General de Archivos, Ley de Archivos del estado de Nayarit, acuerdos de la materia emitidos por las autoridades competentes y demás normativa aplicable.
+
+### CAPÍTULO PRIMERO. NOTIFICACIONES
 
 ## TÍTULO TERCERO. DISPOSICIONES PROCESALES
 
-### CAPÍTULO TERCERO. IMPROCEDENCIA Y SOBRESEIMIENTO
+### CAPÍTULO SEGUNDO. REQUERIMIENTOS
 
 ###### Artículo 49.
 
@@ -1149,7 +1263,7 @@ a) Se deberá fijar copia del auto, acuerdo o sentencia, así como de la cédula
 
 b) Los proveídos de referencia permanecerán en los estrados durante un plazo mínimo de cinco días, y se asentará razón del retiro de los mismos.
 
-### CAPÍTULO CUARTO. ACUMULACIÓN, CONEXIDAD Y ESCISIÓN
+### CAPÍTULO TERCERO. IMPROCEDENCIA Y SOBRESEIMIENTO
 
 ###### Artículo 52.
 
@@ -1181,7 +1295,7 @@ f) El cumplimiento de las ejecutorias en las cuales hayan fungido como Ponentes.
 
 Para lograr el oportuno cumplimiento de sus requerimientos y determinaciones en general, la Presidenta o Presidente del Tribunal y, en su caso, la Magistrada o Magistrado Instructor, podrán prevenir sobre la aplicación de cualquiera de los medios de apremio a que se refiere este Reglamento, la Ley Electoral y la Ley de Justicia Electoral.
 
-### CAPÍTULO QUINTO. FORMALIDAD EN LAS ACTUACIONES
+### CAPÍTULO CUARTO. ACUMULACIÓN, CONEXIDAD Y ESCISIÓN
 
 ###### Artículo 54.
 
@@ -1207,7 +1321,7 @@ b) Desahogada o no la vista, si del análisis de la documentación recibida, la 
 
 c) En el caso de que no se hayan recibido las copias certificadas a que se refiere el inciso a), se requerirá a la autoridad o al órgano responsable, para que las remita dentro del plazo de cuarenta y ocho horas contadas a partir del momento de la notificación, bajo el apercibimiento de que, de no hacerlo, se continuará con el procedimiento del juicio o recurso intentado.
 
-### CAPÍTULO SEXTO. CUMPLIMIENTO Y EJECUCIÓN DE SENTENCIAS
+### CAPÍTULO QUINTO. FORMALIDAD EN LAS ACTUACIONES
 
 ###### Artículo 55.
 
@@ -1227,7 +1341,7 @@ La Magistrada o Magistrado que se encuentre sustanciando un medio de impugnació
 
 Dictado el acuerdo de escisión, la Secretaria o Secretario General por acuerdo de la Presidencia, procederá a turnar el expediente del medio de impugnación a la Magistrada o Magistrado que corresponda por razón de turno, quien deberá concluir con la sustanciación y formular el proyecto de sentencia.
 
-### CAPÍTULO SÉPTIMO. REGISTRO DE EXPEDIENTES
+### CAPÍTULO SEXTO. CUMPLIMIENTO Y EJECUCIÓN DE SENTENCIAS
 
 ###### Artículo 58.
 
@@ -1259,7 +1373,7 @@ b) Sólo podrá llevarse a cabo respecto de cuestiones discutidas en el litigio 
 
 c) En forma alguna podrá modificar lo resuelto en el fondo del asunto.
 
-### CAPÍTULO OCTAVO. REGLAS DE TURNO
+### CAPÍTULO SÉPTIMO. REGISTRO DE EXPEDIENTES
 
 ###### Artículo 59.
 
@@ -1291,7 +1405,7 @@ g) Cuando el incidente de incumplimiento resulte fundado, el Pleno otorgará al 
 
 Para efectos de garantizar el debido cumplimiento de las sentencias, la Magistrada o Magistrados que hayan instruido el asunto, podrán requerir el apoyo de otras autoridades, en el ámbito de sus competencias.
 
-### CAPÍTULO NOVENO. REENCAUZAMIENTO
+### CAPÍTULO OCTAVO. REGLAS DE TURNO
 
 ###### Artículo 61.
 
@@ -1379,7 +1493,7 @@ Los expedientes serán depositados en el archivo definitivo, en el orden que les
 
 La consulta o examen de documentos o expedientes del Archivo definitivo por parte interesada, será autorizada y registrada por la Secretaria o Secretario General.
 
-### CAPÍTULO DÉCIMO. SESIONES DEL PLENO
+### CAPÍTULO NOVENO. REENCAUZAMIENTO
 
 ###### Artículo 68.
 
@@ -1389,7 +1503,7 @@ Recibido un medio de impugnación, la Secretaria o Secretario General, previo re
 
 La Presidenta o Presidente turnará de inmediato los asuntos recibidos a la Magistrada o Magistrado instructor observando el orden de presentación y atendiendo a un riguroso orden alfabético del primer apellido; la Presidenta o Presidente podrá reservarse para sí cualquier asunto que considere relevante.
 
-### CAPÍTULO DÉCIMO PRIMERO. IMPEDIMENTOS, EXCUSAS Y RECUSACIÓN
+### CAPÍTULO DÉCIMO. SESIONES DEL PLENO
 
 ###### Artículo 70.
 
@@ -1397,7 +1511,7 @@ Cuando en las demandas de los medios de impugnación se advierta que la parte ac
 
 Tratándose de cuestiones distintas a las ordinarias o de aquellas que requieran el dictado de actuaciones que puedan implicar una modificación importante en el procedimiento del medio de impugnación o competencia del Tribunal, serán sometidas a decisión plenaria.
 
-### CAPÍTULO DÉCIMO SEGUNDO. MEDIOS DE APREMIO Y CORRECCIONES DISCIPLINARIAS
+### CAPÍTULO DÉCIMO PRIMERO. IMPEDIMENTOS, EXCUSAS Y RECUSACIÓN
 
 ###### Artículo 71.
 
@@ -1503,9 +1617,7 @@ d) Insistir en discutir un asunto ya votado.
 
 La Presidenta o Presidente deberá llamar al orden a la Magistrada o Magistrado que en el uso de la palabra profiera ofensas, descalificaciones, falta de respeto contra otra Magistrada o Magistrado, o interrumpa el uso de la palabra, así como comunicar a las o los magistrados cuando deban atenderse otros asuntos urgentes que ocurran en la sesión.
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
+### CAPÍTULO DÉCIMO SEGUNDO. MEDIOS DE APREMIO Y CORRECCIONES DISCIPLINARIAS
 
 ###### Artículo 83.
 
@@ -1528,6 +1640,10 @@ e) Rechazada la excusa, el Pleno, acordará que la Magistrada o Magistrado respe
 ###### Artículo 85.
 
 Si el impedido fuera la Presidenta o Presidente, sólo para este caso será sustituido por la Magistrada o Magistrado que designe el pleno.
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 86.
 
@@ -1624,3 +1740,15 @@ P.O. 31 DE AGOSTO DE 2022.
 ## [N. DE E. TRANSITORIO DE LA "MODIFICACIÓN DEL ARTÍCULO 89 DEL REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL".]
 
 Única. La reforma es aplicable tanto para los Magistrados en activo como para los Magistrados que actualmente gozan del pago del haber de retiro y entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 31 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL".]
+
+Primero. Las reformas y adiciones del Reglamento Interior del Tribunal Estatal Electoral entrarán en vigor al día siguiente de su aprobación.
+
+Segundo. Por única ocasión ocupara la Coordinación de Archivos, quien, al momento de la entrada en vigor de las reformas y adiciones del Reglamento Interior, ejerza el cargo de encargada o encargado del archivo del Tribunal.
+
+Tercero. Se ordena la publicación de las reformas y adiciones en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Cuarto. En un plazo no mayor a 60 días, posteriores a la entrada en vigor de las reformas y adiciones del Reglamento, se deberán emitir las disposiciones normativas que armonicen las atribuciones de las distintas áreas del archivo del Tribunal Estatal Electoral, con lo establecido en la legislación general y estatal de la materia.
