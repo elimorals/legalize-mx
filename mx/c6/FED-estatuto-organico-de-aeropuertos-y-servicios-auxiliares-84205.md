@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-aeropuertos-y-servicios-auxiliares-84205"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-12-23"
-last_updated: "2011-12-23"
+last_updated: "2023-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84205&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-12-20"
 ---
 # ESTATUTO ORGANICO DE AEROPUERTOS Y SERVICIOS AUXILIARES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE AEROPUERTOS Y SERVICIOS AUXILIARES, PUBLICADO EN EL D.O.F. DE 31 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE AEROPUERTOS Y SERVICIOS AUXILIARES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2023 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 23 de diciembre de 2011.
 
@@ -2874,3 +2876,33 @@ TERCERO.- Los asuntos pendientes a la entrada en vigor de este Estatuto Orgánic
 CUARTO.- El presente Estatuto Orgánico, así como las reformas, modificaciones y adiciones al mismo, deberán inscribirse, en su oportunidad, en el Registro Público de Organismos Descentralizados.
 
 México, D.F., a 20 de diciembre de 2011.- La modificación al Estatuto Orgánico fue aprobada por el Consejo de Administración de Aeropuertos y Servicios Auxiliares, en sesión celebrada el día dieciséis de diciembre de dos mil diez, por acuerdo número CA-(DIC-10)-02. El presente Estatuto se encuentra firmado al calce por el Director General, Gilberto López Meyer.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 31 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE AEROPUERTOS Y SERVICIOS AUXILIARES”.]
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor a partir del 1º de febrero de 2023.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de Aeropuertos y Servicios Auxiliares, publicado en el Diario Oficial de la Federación el 23 de diciembre de 2011.
+
+TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Estatuto.
+
+CUARTO.- Para efectos de armonización administrativa e integración jurídica, se realizarán las gestiones de registro y autorización de la estructura orgánica modificada ante la Secretaría de Hacienda y Crédito Público y ante la Secretaría de la Función Pública, en un plazo de 90 días naturales a partir de la entrada en vigor del presente Estatuto Orgánico.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Estatuto, así como las modificaciones a las atribuciones conferidas a la estructura orgánica de Aeropuertos y Servicios Auxiliares, deberán cubrirse con cargo a su presupuesto aprobado para el ejercicio fiscal 2023 y subsecuentes, mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dicho Organismo.
+
+QUINTO.- El Manual de Organización de Aeropuertos y Servicios Auxiliares deberá ser publicado en el Diario Oficial de la Federación en un plazo de 90 días naturales a partir de la entrada en vigor del presente Estatuto.
+
+SEXTO.- La Unidad de Administración y Finanzas de Aeropuertos y Servicios Auxiliares realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades administrativas o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente ordenamiento, de conformidad con las normas aplicables y disponibilidad presupuestaria, en un plazo de 180 días naturales a partir de la entrada en vigor del presente Estatuto Orgánico.
+
+SÉPTIMO.- En un plazo de 365 días naturales a partir de la entrada en vigor del presente Estatuto Orgánico, la Coordinación de Planeación, Comunicación y Desarrollo Estratégico deberá actualizar las normas internas de este Organismo que sean necesarias, en el ámbito de sus atribuciones.
+
+OCTAVO.- Los procesos, procedimientos, actos, actividades, funciones y servicios, serán atendidos y resueltos por las unidades administrativas de Aeropuertos y Servicios Auxiliares a las que se les da la competencia conforme a este Estatuto.
+
+Cuando en otro ordenamiento se haga referencia a la denominación de un área del Estatuto anterior, se entenderá que corresponde al área que conforme al presente Estatuto tenga las funciones conferidas.
+
+NOVENO.- Los asuntos pendientes de iniciar o en trámite a la entrada en vigor del presente Estatuto, que conforme al mismo deban pasar de unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas a las que se les haya atribuido.
+
+DÉCIMO.- El presente Estatuto Orgánico, así como las modificaciones y adiciones al mismo, deberán inscribirse en un plazo de 30 días hábiles a partir de su entrada en vigor, en el Registro Público de Organismos Descentralizados.
