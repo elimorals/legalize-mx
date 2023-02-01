@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2022-12-07"
+last_updated: "2023-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -111,13 +111,13 @@ IV.- Ajustes razonables: A las modificaciones y adaptaciones necesarias y adecua
 
 V.- Castigo corporal: A todo acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, comprendiendo los golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos calientes u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
 
-VI.- Certificado de idoneidad: El documento expedido por el Consejo Técnico a través de la Fiscalía o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
+VI.- Certificado de idoneidad: El documento expedido por el Sistema Estatal DIF por medio de la Procuraduría de Protección o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
 
 VII.- Centro de asistencia social: Al establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas y privadas y asociaciones;
 
-VIII.- Certificado de idoneidad: El documento expedido por el Consejo Técnico a través de la Procuraduría o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
+VIII.- (DEROGADA, P.O. 1 DE FEBRERO DE 2023)
 
 IX.- CONEVAL: Al Consejo Nacional de Evaluación de la Política de Desarrollo Social;
 
@@ -155,9 +155,7 @@ XXIII.- Ley General: La Ley General de los Derechos de Niñas, Niños y Adolesce
 
 XXIV.- Órgano jurisdiccional: A los juzgados o tribunales del Estado;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
-
-XXV.- Fiscalía General: A la Fiscalía General de Justicia del Gobierno del Estado.
+XXV.- (DEROGADA, P.O. 1 DE FEBRERO DE 2023)
 
 XXVI.- Procurador: Al titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes, del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
 
@@ -379,7 +377,9 @@ Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y a
 
 3. Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
 
-4. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a instaurar políticas de fortalecimiento familiar con la finalidad de evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad y en su caso, la tutela.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+4. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a instaurar políticas de fortalecimiento familiar con la finalidad de evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad tutela o guarda y custodia y en su caso, sean atendidos a través de las medidas especiales de protección que dispone el artículo 23 de esta Ley.
 
 ###### ARTÍCULO 21.
 
@@ -397,11 +397,17 @@ Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y a
 
 ###### ARTÍCULO 23.
 
-1. El Sistema DIF Tamaulipas y los Sistemas DIF Municipales, deberán otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
 
-2. Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar. En estos casos, de conformidad con la legislación civil aplicable, el Sistema DIF Tamaulipas o los Sistemas DIF Municipales, según sea el caso, se asegurarán de que niñas, niños y adolescentes:
+1. El Sistema DIF Tamaulipas y los Sistemas DIF Municipales, a través de la Procuraduría de Protección, deberán otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial o se encuentren expósitos o en estado de abandono.
 
-I.- Sean ubicados con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE FEBRERO DE 2023)</small>
+
+2. Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar privilegiando el derecho a vivir en su familia de origen, considerando en su caso, el acogimiento familiar a efecto de que la adopción sea el último recurso. En estos casos, de conformidad con la legislación civil aplicable, el Sistema DIF Tamaulipas o los Sistemas DIF Municipales, así como las autoridades involucradas, según sea el caso, se asegurarán de que niñas, niños y adolescentes:
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
+
+I.- Sean ubicados con su familia de origen, extensa, ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior, y tengan con prontitud resuelta su situación jurídica para acceder a un proceso de adopción expedito, ágil, simple y guiado por su interés superior, aplicándose dicho proceso incluso cuando los adoptantes sean miembros de la familia de origen, siempre que ello sea posible y no sea contrario a su interés superior;
 
 II.- Sean recibidos por una familia de acogida como medida de protección, de carácter temporal, en los casos en los cuales ni los progenitores, ni la familia extensa de niñas, niños y adolescentes pudieran hacerse cargo;
 
@@ -411,11 +417,45 @@ IV.- En el Sistema DIF Tamaulipas deberá registrar, capacitar, evaluar y certif
 
 V.- Sean colocados, dadas las características específicas de cada caso, en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible.
 
-3. Esta medida especial de protección tendrá carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
 
-4. La autoridad competente deberá considerar el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia.
+3. Estas medidas especiales de protección tendrán carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar definitivo.
 
-5. El Sistema DIF Tamaulipas y los Sistemas DIF Municipales en todo momento serán responsables del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+4. El Sistema DIF Tamaulipas y la Procuraduría de Protección deberán mantener estrecha comunicación entre sí, intercambiando información, a efecto de garantizar adecuadamente el interés superior de la niñez y el desarrollo evolutivo de formación de su personalidad, así como materializar su derecho a vivir en familia.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+5. Las autoridades administrativas y jurisdiccionales en el ámbito de sus respectivas competencias, dispondrán lo conducente a efecto de que niñas, niños y adolescentes vean restituido su derecho a vivir en familia y su derecho a recibir formación y protección de quien ejerce la patria potestad, la tutela, guardia o custodia, interpretando de manera sistemática y funcional la normatividad correspondiente, conforme al principio del interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+6. El Sistema DIF Tamaulipas a través de la Procuraduría de Protección, podrá capacitar y evaluar a las Instituciones Asistenciales que operen programas de adopciones y formen parte del el (sic) Consejo Técnico de Adopciones y a los Sistemas DIF Municipales, así como al personal que en éstas labore, para llevar a cabo los procedimientos de adopción y/o acogimiento familiar de acuerdo con el Código Civil para el Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+7. De acuerdo con lo anterior, el Sistema DIF Tamaulipas, por conducto de la Procuraduría de Protección deberá registrar, capacitar, evaluar, certificar y dar seguimiento a las familias que deseen adquirir la calidad de familia de acogida o familia de acogimiento pre-adoptivo, así como de adopción.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+8. Los Sistemas DIF Municipales, así como las Instituciones Asistenciales que operen programas de adopciones y formen parte del Consejo Técnico de Adopciones debidamente certificados podrán realizar lo anterior, con la limitante de certificar; para lo anterior es que tendrán que recurrir a la Procuraduría de Protección con las evaluaciones hechas para que ésta, mediante la valoración previa de las evaluaciones y del procedimiento, otorgue la certificación de idoneidad para acogimiento familiar.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+9. Los certificados de idoneidad deberán ser expedidos, previa valoración técnica, por la Procuraduría de Protección y serán válidos para iniciar el proceso de adopción en cualquier entidad federativa, independientemente de dónde hayan sido expedidos. En todo caso, la Procuraduría de Protección deberá actualizar, confirmar o descartar la información proporcionada en el certificado de idoneidad, atendiendo a los principios y disposiciones establecidos en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+10. El proceso administrativo y jurisdiccional de adopción podrá realizarse en cualquier entidad federativa, con independencia de la ubicación física de la niña, niño o adolescente susceptible de ser adoptado, observando las reglas de competencias previstas en la legislación civil aplicable.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+11. Las autoridades competentes deberán tener en consideración el interés superior de la niñez al determinar la opción que sea más adecuada para restituir su derecho a vivir en familia.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+12. El Sistema DIF Tamaulipas, a través de la Procuraduría de Protección, será la responsable del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el proceso de adopción, sujetándose a lo establecido en el artículo 25 de esta Ley.
 
 ###### ARTÍCULO 24.
 
@@ -425,11 +465,243 @@ I.- Prestar servicios de asesoría y asistencia jurídica a las personas que des
 
 II.- Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir los dictámenes correspondientes, así como formular las recomendaciones pertinentes al órgano jurisdiccional; y
 
-III.- Contar con un sistema de información que permita registrar a las niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el listado de las personas solicitantes de adopción, adopciones concluidas e informar de manera trimestral a la Procuraduría de Protección Federal.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+III.- Contar con un sistema de información y registro, permanentemente actualizado, que incluya niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, solicitantes de adopción y aquellos que cuenten con certificado de idoneidad, adopciones concluidas desagregadas en nacionales e internacionales, así como niñas, niños y adolescentes adoptados, informando de cada actualización a la Procuraduría de Protección Federal. También se llevará un registro de las familias de acogida y de las niñas, niños y adolescentes acogidos por éstas.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+Las instituciones Asistenciales certificadas por la Procuraduría de Protección, podrán realizar lo anterior, con la limitante de emitir el certificado de idoneidad para acogimiento familiar.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 25.
 
-En materia de adopciones, se estará a lo que disponga la Ley General y la Ley de Adopciones para el Estado de Tamaulipas.
+En materia de adopción, todas las autoridades deberán observar lo siguiente:
+
+I.- Garantizar que niñas, niños y adolescentes sean adoptados con pleno respeto de sus derechos, de conformidad con el principio de interés superior de la niñez, y no mediando intereses particulares o colectivos que se contrapongan al mismo;
+
+II.- Asegurar que se escuche y tome en cuenta la opinión de niñas, niños y adolescentes de acuerdo con su edad, desarrollo de su autonomía evolutiva, cognitiva y grado de madurez, en términos de la presente Ley;
+
+III.- Garantizar que se asesore jurídicamente, tanto a quienes consientan la adopción, como a quienes la acepten, a fin de que conozcan los alcances jurídicos, familiares y sociales de la misma;
+
+IV.- Disponer las acciones necesarias para verificar que la adopción no sea motivada por beneficios económicos para quienes participen en ella;
+
+V.- Garantizar que en los procesos de adopción se respeten las normas que los rijan de conformidad con lo dispuesto en esta ley;
+
+VI.- Establecer medidas de protección a fin de evitar presiones indebidas y coacción a las familias de origen para renunciar a la niña, el niño o el adolescente; y
+
+VII.- El Poder Judicial, garantizará que los procedimientos de adopción se lleven de conformidad con esta Ley, la legislación civil y demás aplicable.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### ARTÍCULO 25 Bis.
+
+Toda persona que encontrare una niña, niño o adolescente en estado de indefensión o que hubiere sido puesto en situación de desamparo familiar, deberá presentarlo ante las Procuradurías de Protección, ante el Sistema Nacional DIF o ante el Sistema DIF Tamaulipas, con las prendas, valores o cualesquiera otros objetos encontrados en su persona, y declarará el día, lugar y circunstancias en que lo hubiere hallado.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### ARTÍCULO 25 Ter.
+
+1. Los Centros de Asistencia Social que reciban niñas, niños y adolescentes en situación de indefensión o desamparo familiar sólo lo podrán hacer por disposición de la Procuraduría de Protección correspondiente o de autoridad competente.
+
+2. Serán considerados expósitos las niñas, niños o adolescentes abandonados en cualquier lugar y de quienes se desconoce su identidad y la de sus progenitores; se determinará el carácter de expósito una vez que se agotaron las investigaciones correspondientes por parte de las instituciones que intervengan y hubieren ingresado en cualquier Centro de Asistencia Social; no habiendo logrado su reintegración al seno familiar, la Procuraduría de Protección levantará el acta del menor de edad en condición de expósito para que pueda ser susceptible de adopción, el cual correrá a partir de la fecha en que la niña, niño o adolescente haya sido acogido en un Centro de Asistencia Social y concluirá cuando el Sistema DIF Tamaulipas a través de la Procuraduría de Protección, levante la certificación de haber realizado todas las investigaciones necesarias para conocer su origen, la cual deberá publicarse en los estrados de la dependencia y en los medios públicos con que se cuente.
+
+3. Se investigará el origen de niñas, niños y adolescentes y se realizarán las acciones conducentes que les permitan reintegrarse al núcleo de su familia de origen o extensa, siempre que dicha reintegración no represente un riesgo al interés superior de la niñez. Lo anterior, en coordinación con los Centros de Asistencia Social y con el auxilio de cualquier autoridad que se considere necesaria, sin exponer, exhibir o poner en riego (sic) a la niña, niño o adolescente.
+
+4. Se considera expósito el menor de edad cuyo origen se conoce y que es colocado en una situación de desamparo por quienes conforme a la Ley estén obligados a su custodia, protección y cuidado; así como, cuando esta circunstancia no le represente un riesgo sin importar el lugar donde ocurra, una vez que hayan transcurrido sesenta días naturales sin que se reclamen derechos sobre ellos.
+
+5. También serán considerados abandonados las niñas, niños y adolescentes acogidos en Centros de Asistencia Social una vez que hayan transcurrido sesenta días naturales sin que se reclamen derechos sobre ellos.
+
+6. El lapso a que hace referencia el párrafo anterior correrá a partir de la fecha en que la niña, niño o adolescente haya sido acogido en un Centro de Asistencia Social y concluirá cuando el Sistema DIF Tamaulipas a través de la Procuraduría de Protección, levante la certificación de haber realizado todas las investigaciones necesarias para conocer su origen, la cual deberá publicarse en los estrados de la dependencia y en los medios públicos con que se cuente.
+
+7. Una vez transcurrido dicho término sin obtener información respecto del origen de niñas, niños o adolescentes, o no habiendo logrado su reintegración al seno familiar, la Procuraduría de Protección levantará un acta circunstanciada publicando la certificación referida en el presente artículo y a partir de ese momento las niñas, niños o adolescentes serán susceptibles de adopción.
+
+8. A excepción de los ingresos voluntarios, los Centros de Asistencia Social que reciban niñas, niños y adolescentes en situación de desamparo familiar sólo podrán recibirlos por disposición de la Procuraduría de Protección o de autoridad competente.
+
+9. Se entenderá como ingreso voluntario del menor de edad, el realizado por quienes ejerzan la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### ARTÍCULO 25 Quater.
+
+1. Para los fines de esta ley se prohíbe:
+
+I.- La promesa de adopción durante el proceso de gestación;
+
+II.- La adopción privada, entendida como el acto mediante el cual quienes ejercen la patria potestad, tutela o guarda y custodia, o sus representantes legales, pacten dar en adopción de manera directa a niñas, niños o adolescentes, sin que intervengan las autoridades competentes de conformidad con esta ley;
+
+III.- Que la adopción se realice para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, trabajo infantil o cualquier ilícito. Si una vez concluida judicialmente la adopción se presentare cualquiera de los supuestos referidos, la Procuraduría de Protección deberá presentar denuncia ante el Ministerio Público a fin de que éste promueva la revocación de la adopción y tomará las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes;
+
+IV.- El contacto de los padres biológicos que entregaron en adopción a una niña, un niño o un adolescente, con el adoptante, el adoptado o con cualquier persona involucrada en la adopción; con excepción de los casos en que los adoptantes sean familiares biológicos, de la familia extensa o cuando el adoptado desee conocer sus antecedentes familiares y sea mayor de edad. Las niñas, niños y adolescentes que deseen conocer sus antecedentes familiares deberán contar con el consentimiento de los adoptantes, y siempre que ello atienda al interés superior de la niñez;
+
+V.- La inducción a través de cualquier forma de compensación o pago para influenciar o favorecer la decisión de otorgar a la niña, el niño o el adolescente en adopción;
+
+VI.- La obtención directa o indirecta de beneficios indebidos, materiales o de cualquier índole, por la familia de origen o extensa del adoptado, o por cualquier persona, así como por funcionarios o trabajadores de instituciones públicas o privadas y autoridades involucradas en el proceso de adopción;
+
+VII.- La obtención de lucro o beneficio personal ilícito como resultado de la adopción;
+
+VIII.- El matrimonio o concubinato entre el adoptante y el adoptado o sus descendientes, así como el matrimonio o concubinato entre el adoptado con los familiares del adoptante o sus descendientes;
+
+IX.- Ser adoptado por más de una persona, salvo en caso de que los adoptantes sean cónyuges o concubinos, en cuyo caso se requerirá el consentimiento de ambos;
+
+X.- La adopción por discriminación, entendida como aquella donde se considera a la niña, niño o adolescente como valor supletorio o reivindicatorio; y
+
+XI.- Toda adopción contraria a las disposiciones constitucionales, tratados internacionales ratificados por el Estado mexicano o al interés superior de la niñez y el adecuado desarrollo de su autonomía evolutiva de la personalidad.
+
+2. Las autoridades vigilarán el desarrollo del proceso de adaptación a través del seguimiento que realice la Procuraduría de Protección, mediante los reportes subsecuentes, respetando el derecho de la familia a vivir conforme a sus estándares, costumbres y valores. Las autoridades podrán suspender el proceso de adopción cuando tengan razones para creer que se realiza en contravención de lo establecido por la presente ley.
+
+3. En caso de que el proceso de adopción haya concluido judicialmente, la Procuraduría de Protección tomará las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes en los términos que disponga la ley para los hijos consanguíneos.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 25 Quinques.
+
+1. Pueden ser adoptados niñas, niños y adolescentes que:
+
+I.- No tengan quien ejerza sobre ellas o ellos la patria potestad;
+
+II.- Sean expósitos o abandonados;
+
+III.- Se encuentren en alguno de los supuestos anteriores y acogidos en Centros de Asistencia Social o bajo la tutela del Sistema Nacional DIF, Sistema DIF Tamaulipas y los Sistemas DIF Municipales o de las Procuradurías de Protección; y
+
+IV.- En todo caso se deberá contar con el informe de adoptabilidad.
+
+2. Cuando estén bajo patria potestad o tutela, quien la ejerce manifieste por escrito su consentimiento ante la Procuraduría de Protección, en los casos de proceso de adopción promovidos por ésta.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### ARTÍCULO 25 Sexies.
+
+Los solicitantes deberán acudir a la Procuraduría de Protección, al Sistema Nacional DIF, Sistema DIF Tamaulipas y los Sistemas DIF Municipales, o a las Instituciones Asistenciales que operen programas de adopción y formen parte del el (sic) Consejo Técnico de Adopciones para realizar sus trámites de adopción.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### ARTÍCULO 25 Septies.
+
+1. Una vez reunidos los requisitos e integrado el expediente, la autoridad competente expedirá o ratificará el certificado de idoneidad en los términos de la presente Ley.
+
+2. Las opiniones del el (sic) Consejo Técnico de Adopciones deberán sujetarse a lo establecido en la legislación civil y en la presente Ley. Se emitirán en un plazo no mayor a cuarenta y cinco días naturales, contados a partir de la entrega del expediente de adopción por parte de la Procuraduría de Protección, salvo que no tenga certeza respecto de la documentación que integra el expediente o que no cuente con suficientes elementos; caso en el cual, se reservará emitir la opinión correspondiente y podrá ampliarse el plazo hasta por treinta días naturales más.
+
+3. Para que el trámite de adopción ante el Juez pueda dar inicio, se deberá de contar, por escrito, con la opinión favorable del el (sic) Consejo Técnico de Adopciones.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### ARTÍCULO 25 Octies.
+
+1. Una vez cumplimentado lo referido en el artículo anterior e integrado el expediente de adopción completo, la Procuraduría de Protección realizará la solicitud de adopción ante el Juez que corresponda. Dicha autoridad administrativa, sin necesidad de requerimiento judicial, contará con cinco días hábiles para la entrega de tal expediente al juzgado de la materia.
+
+2. Respecto a las resoluciones de adopción, el juez contará con 15 días hábiles improrrogables, contados a partir del día siguiente de la entrega, por parte de la autoridad administrativa, del expediente de adopción completo.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### ARTÍCULO 25 Nonies.
+
+En igualdad de circunstancias se dará preferencia en la adopción a solicitantes del Estado sobre los de otras entidades federativas y de estos, sobre extranjeros. Asimismo, se dará preferencia a las adopciones nacionales sobre las internacionales.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### ARTÍCULO 25 Decies.
+
+Los Centros de Asistencia Social públicos y privados que tengan bajo su custodia adolescentes que cumplan la mayoría de edad deberán garantizarles los servicios de atención que les permitan una óptima inclusión al entorno social.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 25 Undecies.
+
+1. Para que la adopción pueda tener lugar deberán consentirla, por escrito y ante el juez que conozca del procedimiento, la Procuraduría de Protección correspondiente, el solicitante y, en su caso, el adolescente sujeto de adopción.
+
+2. Para el caso de que los solicitantes sean cónyuges o concubinos, ambos deberán consentir la adopción ante el juez.
+
+3. En el caso de adolescentes con discapacidad, será necesario su consentimiento, siempre y cuando fuese posible la expresión indubitable de su voluntad.
+
+4. Si la Procuraduría de Protección competente no consiente la adopción, deberá expresar la causa, misma que el juez calificará tomando en cuenta el interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 25 Duodecies.
+
+La Procuraduría de Protección y el Sistema DIF Tamaulipas, en el ámbito de sus respectivas competencias, crearán los mecanismos necesarios para que los adoptantes cuenten con un procedimiento único, que permita que el trámite de adopción sea rápido, eficaz y transparente.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 25 Terdecies.
+
+1. En su ámbito de competencia, el Sistema DIF Tamaulipas a través de la Procuraduría de Protección, en coordinación con el Sistema DIF Nacional y la Procuraduría de Protección Federal, dispondrá lo necesario a efecto de homologar los requisitos y procedimientos administrativos de adopción a nivel estatal en congruencia con el Sistema DIF Nacional.
+
+2. En ningún caso se solicitará certificado médico de infertilidad como requisito para adoptar.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 25 Quaterdecies.
+
+1. A fin de acompañar la adaptación de niñas, niños y adolescentes a su nueva familia y entorno, así como conocer la evolución de su desarrollo, el Sistemas (sic) Estatal DIF a través de la Procuraduría de Protección, realizarán un seguimiento de su situación.
+
+2. Entre las medidas de seguimiento deberán estar los reportes realizados por los profesionales de psicología y trabajo social, donde se aprecie la convivencia familiar y el desarrollo cotidiano de niñas, niños y adolescentes, en su entorno, con una periodicidad de seis meses durante tres años contados a partir de que la sentencia judicial de adopción quede firme, pudiendo ampliar el plazo excepcionalmente en caso de ser necesario, con base en el interés superior de la niñez. La intervención que represente el seguimiento será lo menos invasiva posible a efecto de no afectar el entorno familiar.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 25 Quindecies.
+
+En caso de que el adoptante sea extranjero con residencia permanente en el territorio nacional, las autoridades competentes incluirán, como requisito del certificado de idoneidad, la comprobación de la situación migratoria regular en el territorio nacional.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 25 Sexdecies.
+
+La adopción en todo caso será plena e irrevocable, salvo los supuestos establecidos en la legislación civil aplicable.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 25 Septendecies.
+
+El Sistemas (sic) Estatal DIF y la Procuraduría de Protección celebrarán con el Sistema Nacional DIF y la Procuraduría de Protección Federal, los convenios de colaboración que se consideren necesarios para garantizar el derecho a vivir en familia, con sus pares estatales o con las autoridades que se requiera.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 25 Octodecies.
+
+En materia de acogimiento familiar o adopciones, la Procuraduría de Protección podrá auxiliarse de las Instituciones públicas y privadas, trabajando en colaboración con estas, con la finalidad de dar un mejor acompañamiento a la niñez y adolescencia, además de observar las medidas de seguimiento señaladas en el artículo 25 Quaterdecies, y demás disposiciones previstas en esta Ley y en las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 25 Novodecies.
+
+Tratándose de adopción internacional, se atenderá a lo dispuesto en la Ley General, el Código Civil vigente en el Estado, la Ley de Adopciones para el Estado de Tamaulipas, y demás disposiciones jurídica (sic) aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 25 Vicies.
+
+Las personas que ejerzan profesiones de trabajo social, de psicología o carreras afines en las instituciones públicas y privadas que intervengan en procedimientos de acogimiento familiar o de adopción que realicen estudios socioeconómicos, psicológicos e informes psicosociales en materia de acogimiento familiar y adopción, deberán cumplir con los requisitos siguientes:
+
+I.- Contar con título y cédula profesional de licenciatura en trabajo social, psicología o carreras afines;
+
+II.- Acreditar experiencia en temas de desarrollo de la niñez y de la adolescencia, familia, pareja o adopción;
+
+III.- Acreditar experiencia laboral mínima de dos años, en trabajo social o psicología, o en la atención de niñas, niños o adolescentes sujetos de asistencia social o solicitantes de adopción;
+
+IV.- Presentar carta compromiso por parte de la Institución Asistencial o el Sistema DIF Municipal que proponga al profesional de que se trate ante el Sistema DIF Tamaulipas, en los casos de profesionales que busquen ingresar a las Instituciones Asistenciales o Sistemas DIF Municipales;
+
+V.- Contar con la autorización del Sistema DIF Tamaulipas;
+
+VI.- No haber sido condenado por delitos dolosos;
+
+VII.- Presentar constancia de la institución de asistencia privada en la que indique que las personas profesionales en trabajo social o psicología o carreras afines, son personas empleadas asalariadas con remuneración mensual fija; y
+
+VIII.- El Sistema DIF Tamaulipas expedirá las autorizaciones correspondientes y llevarán un registro de las mismas.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 25 Unvicies.
+
+1. Cuando las personas que laboren en las instituciones públicas y privadas contravengan los derechos de niñas, niños y adolescentes o incurran en actos contrarios al interés superior de la niñez, el Sistema DIF Tamaulipas revocará la autorización y registrará la cancelación a que se refiere el artículo anterior.
+
+2. Las personas profesionales a quienes sea revocada la autorización serán inhabilitadas y boletinadas por el Sistema DIF Tamaulipas, a fin de evitar acciones contrarias al interés superior de la niñez. Lo anterior, sin perjuicio de las sanciones previstas en las disposiciones jurídicas aplicables.
+
+3. Para la revocación de las autorizaciones e inhabilitación a que se refiere este artículo, se seguirán las disposiciones en materia de procedimiento administrativo conforme a la legislación aplicable.
+
+4. Cualquier persona podrá presentar una queja ante el Sistema DIF Tamaulipas si considera que se actualizan los supuestos previstos en el primer párrafo de este artículo.
 
 ### CAPÍTULO SÉPTIMO. DEL DERECHO A LA IGUALDAD SUSTANTIVA
 
@@ -1754,3 +2026,15 @@ P.O. 7 DE DICIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-508 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; A LA LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS; Y AL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
