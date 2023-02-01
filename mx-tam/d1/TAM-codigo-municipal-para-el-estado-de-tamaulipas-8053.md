@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2022-11-24"
+last_updated: "2023-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -357,11 +357,11 @@ Cuando por cualquier circunstancia extraordinaria no se verificare la elección 
 
 Los miembros de los Ayuntamientos tienen derecho a que se les conceda licencia hasta por quince días en el período de un año calendario, pero por causa justificada pueden separarse de sus funciones hasta por el tiempo que exista ésta. Por otra parte, no podrán ausentarse en forma continua por un lapso mayor de diez días. Las faltas temporales menores serán sancionadas de acuerdo al Reglamento Interior del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
 
 ###### ARTICULO 34.
 
-Las faltas temporales o definitivas de los integrantes de los Ayuntamientos, serán cubiertas con el suplente respectivo y cuando éste falte también, el Ayuntamiento enviará terna al Congreso para que designe a los substitutos. En los recesos del Congreso la designación se hará por la Diputación Permanente dentro de los treinta días a partir de la recepción de la comunicación.
+Las faltas temporales o definitivas por más de 90 días, de los integrantes de los Ayuntamientos, serán cubiertas con el suplente respectivo y cuando éste falte también, el Ayuntamiento enviará terna al Congreso para que designe a los substitutos. En los recesos del Congreso la designación se hará por la Diputación Permanente dentro de los treinta días a partir de la recepción de la comunicación.
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
 
@@ -975,9 +975,13 @@ XVIII.- Vigilar que se mantenga actualizado el registro de todas las enajenacion
 
 XVIII Bis.- Presentar por escrito, entre los días 3 y 13 de septiembre de cada año, un Informe Anual de Actividades y de Gestión al Ayuntamiento.
 
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2023)</small>
+
+XIX.- Suplir al Presidente Municipal en sus faltas temporales siempre que sean mayores de treinta días y menores de 90 días, en el orden de preferencia que éste determine.
+
 > <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 26 DE OCTUBRE DE 2006)</small>
 
-XIX.- Las demás que le señalen las Leyes, Reglamentos o el Ayuntamiento.
+XX.- Las demás que le señalen las Leyes, Reglamentos o el Ayuntamiento.
 
 (REFORMADO, P.O. 26 DE OCTUBRE DE 2006) (F. DE E., P.O. 31 DE OCTUBRE DE 2006)
 
@@ -6704,3 +6708,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos que no tengan aún designados a sus Cronistas Municipales, deberán expedir las convocatorias públicas para la designación de Cronistas Municipales dentro de los 30 días siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 1 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-507 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 34; Y SE ADICIONA UNA FRACCIÓN XIX RECORRIENDO EN SU ORDEN LA FRACCIÓN SUBSECUENTE PARA SER FRACCIÓN XX AL ARTÍCULO 60, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
