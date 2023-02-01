@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2022-07-06"
+last_updated: "2023-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -3475,17 +3475,27 @@ ACTAS DEL REGISTRO CIVIL. Las actas del Registro Civil se asentarán en formatos
 
 Las actas del Registro Civil sólo pueden asentarse en los formatos a que se refiere este artículo, la infracción de esta regla producirá la nulidad del acta y se castigará con la destitución del Oficial del Registro Civil.
 
-El Registro Civil además resguardará las inscripciones, por medios informativos o aquellos que el avance tecnológico ofrezca en una base de datos en la que se produzcan los datos contenidos en las actas asentadas en las formas del Registro Civil que permitan la conservación de los mismos y la certeza sobre su autenticidad.
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
+Las formas del Registro Civil se expedirán en lenguaje castellano, y podrán extenderse además, si así lo solicitara expresamente el interesado, en la lengua indígena de la que sea hablante, preservando en todo momento los nombres, apellidos ancestrales y tradicionales, conforme a sus sistemas normativos.
 
-Estará a cargo de los oficiales del Registro Civil autorizar los actos del estado civil y llevar por duplicado siete libros que contendrán: actas de nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio y defunción de los mexicanos y extranjeros residentes en el territorio del mismo; así como inscribir las ejecutorias que contengan la Declaración Especial de Ausencia, la presunción de muerte, el divorcio, la tutela, o que se ha perdido o limitado la capacidad legal para administrar bienes siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
 
-El Estado Civil solo se comprueba con las constancias relativas del Registro Civil; ningún otro documento ni medio de prueba es admisible para comprobarlo, salvo los casos expresamente aceptados por la ley.
+El Registro Civil, además resguardará las inscripciones, por medios informativos o aquellos que el avance tecnológico ofrezca en una base de datos en la que se produzcan los datos contenidos en las actas asentadas en las formas del Registro Civil, que permitan la conservación de los mismos y la certeza sobre su autenticidad.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+Estará a cargo de los oficiales del Registro Civil, autorizar los actos del estado civil y llevar por duplicado siete libros que contendrán: actas de nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio y defunción de los mexicanos y extranjeros residentes en el territorio del mismo; así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio, la tutela, o que se ha perdido o limitado la capacidad legal para administrar bienes y las resoluciones que ordenen el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, previa la anotación correspondiente al acta de nacimiento primigenia, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+El estado civil solo se comprueba con las constancias relativas del Registro Civil; ningún otro documento ni medio de prueba es admisible para comprobarlo, salvo los casos expresamente aceptados por la ley.
 
 El Registro Civil podrá emitir constancias parciales que contengan extractos de las actas registrales los cuales harán prueba plena sobre la información que contengan.
 
-La Dirección General del Registro Civil establecerá con el Registro Nacional de Población las normas y procedimientos técnicos para convalidar recíprocamente la información que se derive del estado civil de las personas a fin de otorgarle plena validez y seguridad jurídica a la información generada por la utilización de instrumentos y mecanismos técnicos automatizados.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+La Dirección General del Registro Civil, establecerá con el Registro Nacional de Población las normas y procedimientos técnicos para convalidar recíprocamente la información que se derive del estado civil de las personas a fin de otorgarle plena validez y seguridad jurídica a la información generada por la utilización de instrumentos y mecanismos técnicos automatizados.
 
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2019)</small>
 
@@ -3520,6 +3530,10 @@ Los documentos del apéndice estarán anotados y relacionados con el acta respec
 SOLICITUD DE COPIAS DE LAS ACTAS DEL REGISTRO CIVIL. Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, denominado “Apéndice del Acta”, mismo que forma parte del acta y los oficiales registradores están obligados a expedirlos, excepto en los casos prohibidos por la ley.
 
 Los testimonios de las actas a que se refiere el párrafo anterior, también denominados copias certificadas del libro o del apéndice deberán constar en hoja blanca y contener firma autógrafa y sello oficial.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+Cuando se trate de personas pertenecientes a comunidades indígenas, las copias certificadas podrán expedirse además si´ así lo solicitaran, en la lengua indígena de la que sea hablante el solicitante.
 
 Las constancias parciales podrán ser emitidas en papel valorado o en hoja blanca tamaño carta, impresas de las plataformas gubernamentales del Registro Civil, las cuales deberán contar con los mecanismos de seguridad que den certeza del funcionario que lo certificó y de los actos que ampara, en términos de la normativa vigente.
 
@@ -7020,3 +7034,15 @@ CUARTA. En el caso de la existencia previa de una declaratoria por presunción d
 QUINTA. Las personas titulares del Tribunal Superior de Justicia del Estado de Morelos, el Poder Ejecutivo del Estado de Morelos, así como de los organismos autónomos a los que se refiere esta ley, contarán con un plazo de 180 días para adecuar las disposiciones reglamentarias que correspondan, a efecto de cumplir y armonizarlas con las disposiciones contenidas en la presente ley.
 
 SEXTA. Todas las autoridades que intervienen en la aplicación de la presente ley deberán capacitarse conforme a este procedimiento de Declaración Especial de Ausencia, para garantizar de manera adecuada una protección eficaz del derecho.
+
+P.O. 1 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS DOS POR EL QUE SE ADICIONAN EN EL ARTÍCULO 423 UN PÁRRAFO TERCERO, RECORRIÉNDOSE LOS SUBSECUENTES, Y EN EL ARTÍCULO 428 UN PÁRRAFO TERCERO, RECORRIÉNDOSE LOS SUBSECUENTES, AMBOS DEL CÓDIGO FAMILIAR PARA ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente decreto al titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- En el Poder Ejecutivo Estatal, la Dirección que se encargue del Registro Civil, y en su caso la Secretaría de Gobierno, en términos del artículo 22, fracción XXIII de la Ley Orgánica de la Administración Pública del Estado de Morelos, proveerán la disponibilidad de los traductores y los formatos en las lenguas indígenas de las personas residentes en el estado de Morelos, que soliciten formatos o actas de nacimiento en lengua indígena que ellos hablen.
+
+CUARTA.- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
