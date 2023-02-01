@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-122621
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-07-21"
-last_updated: "2019-06-11"
+last_updated: "2023-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122621&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-06-26"
 ---
 # ESTATUTO ORGANICO DE LA SECRETARIA EJECUTIVA DEL SISTEMA NACIONAL ANTICORRUPCION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA NACIONAL ANTICORRUPCIÓN, PUBLICADO EN EL D.O.F. DE 1 DE FEBRERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA NACIONAL ANTICORRUPCIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE FEBRERO DE 2023 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 21 de julio de 2017.
 
@@ -622,3 +624,41 @@ D.O.F. 11 DE JUNIO DE 2019.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Las presentes reformas al Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Nacional Anticorrupción deberán inscribirse en el Registro Público de Organismos Descentralizados, dentro de los treinta días hábiles siguientes a la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA NACIONAL ANTICORRUPCIÓN”.]
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, publicado en el Diario Oficial de la Federación el 21 de julio de 2017, así como su reforma publicada en el Diario Oficial de la Federación el 11 de junio de 2019.
+
+TERCERO. En cumplimiento a los artículos 15, tercer párrafo, 24 y 25, fracción I, de la Ley Federal de las Entidades Paraestatales, el Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Nacional Anticorrupción deberá inscribirse en el Registro Público de Organismos Descentralizados dentro de los treinta días naturales siguientes a la fecha de su publicación en el Diario Oficial de la Federación.
+
+CUARTO. Todos los actos administrativos, así como referencias hechas con antelación a la entrada en vigor del presente Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Nacional Anticorrupción referentes a la Unidad de Riesgos y Política Pública se entenderán hechas a la Unidad de Política Pública del Sistema Nacional Anticorrupción y las referentes a la Unidad de Servicios Tecnológicos y Plataforma Digital Nacional se entenderán hechas a la Unidad de Plataforma Digital Nacional, para los efectos jurídicos a que haya lugar.
+
+QUINTO. La estructura orgánica prevista en el presente Estatuto Orgánico podrá operar hasta que la Secretaría Ejecutiva cuente con las correspondientes autorizaciones de la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, en los términos de la legislación aplicable y sujeto a disponibilidad presupuestal.
+
+SEXTO. En un plazo no mayor a 60 días naturales a partir de la aprobación del presente Estatuto Orgánico, el Secretario Técnico deberá presentar para su autorización al Órgano de Gobierno de la paraestatal, los perfiles de puesto de las personas servidoras públicas titulares de las siguientes unidades administrativas:
+
+1. Unidad de Plataforma Digital Nacional;
+
+2. Unidad de Política Pública del Sistema Nacional Anticorrupción;
+
+3. Dirección General de Administración y Finanzas;
+
+4. Dirección General de Asuntos Jurídicos;
+
+5. Dirección General de Fomento de la Cultura de la Integridad, y
+
+6. Dirección General de Riesgos e Inteligencia Anticorrupción.
+
+SÉPTIMO. El Secretario Técnico de la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, en un plazo no mayor a 30 días naturales, contados a partir de la aprobación de los perfiles de puesto a que hace alusión el artículo transitorio anterior, deberá proponer al Órgano de Gobierno a las personas titulares de las unidades administrativas cuyo nombramiento sea facultad exclusiva de dicho órgano colegiado, con la finalidad de que la Secretaría Ejecutiva cuente con su estructura orgánica básica completa, para garantizar su óptimo funcionamiento.
+
+OCTAVO. Para el correcto funcionamiento y operación de la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, así como para cumplir con su objeto y desempeñar las atribuciones que le confiere la Ley General del Sistema Nacional Anticorrupción, mientras no sea aprobada la estructura administrativa establecida en el presente Estatuto y esté en operación, las facultades conferidas a las Unidades de la Secretaría Ejecutiva serán ejercidas de la siguiente manera:
+
+I. Las facultades conferidas a la Unidad de Plataforma Digital Nacional serán ejercidas por la persona Titular de la Unidad de Servicios Tecnológicos y Plataforma Digital Nacional y a falta de esta, por la persona servidora pública que determine el Secretario Técnico, quien actuará en suplencia por ausencia en los términos que contempla el presente Estatuto Orgánico;
+
+II. Las facultades conferidas a la Unidad de Política Pública del Sistema Nacional Anticorrupción serán ejercidas por la persona Titular de la Unidad de Riesgos y Política Pública y a falta de esta, por la persona servidora pública que determine el Secretario Técnico, quien actuará en suplencia por ausencia en los términos que contempla el presente Estatuto Orgánico, y
+
+III. Las facultades conferidas a la Dirección General de Administración y Finanzas serán ejercidas por la persona Titular de la Dirección General de Administración y a falta de esta, por la persona servidora pública que determine el Secretario Técnico, quien actuará en suplencia por ausencia en los términos que contempla el presente Estatuto Orgánico.
