@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2023-01-11"
+last_updated: "2023-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -2507,6 +2507,10 @@ IX. Certificación del acta de asamblea o junta de pobladores, en la que conste 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2017)</small>
 
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 134.
 
 La solicitud a que se refiere el presente Título deberá presentarse ante la Mesa Directiva del Congreso del Estado, de la que se dará cuenta al Pleno en la Sesión Ordinaria inmediata siguiente, disponiéndose su turno a las Comisiones Unidas de Gobernación, Gran Jurado y Ética Legislativa y de Pueblos Indígenas, para su análisis y dictamen.
@@ -2528,6 +2532,122 @@ Se dará cumplimiento de manera oportuna a lo dispuesto en los incisos D) y E) d
 ###### Artículo 137.
 
 Una vez satisfechos los requisitos establecidos en el presente Título, se procederá a elaborar el dictamen respectivo, atendiéndose las disposiciones que sobre esta actividad se contienen en el Reglamento para el Congreso del Estado de Morelos.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2023)</small>
+
+## TÍTULO DÉCIMO SEGUNDO. DE LA REMOCIÓN DEL AUDITOR GENERAL DE LA ENTIDAD SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN DEL CONGRESO DEL ESTADO DE MORELOS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2023)</small>
+
+### CAPÍTULO II. DEL PROCEDIMIENTO
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### Artículo 138.
+
+Es facultad del Congreso del Estado la remoción del auditor general de la Entidad Superior de Auditoria y Fiscalización del Congreso del Estado de Morelos, atendiendo lo dispuesto en (sic) último párrafo del artículo 84 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### Artículo 139.
+
+La responsabilidad del auditor general del (sic) Entidad Superior de Auditoria y Fiscalización del Congreso del Estado de Morelos tendrá lugar con motivo de las faltas cometidas en el desempeño de sus funciones lo que podrá ser concomitante con las demás responsabilidades previstas en el artículo 74 de la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### Artículo 140.
+
+En la substanciación del presente procedimiento, en todo aquello que no contravenga las disposiciones de esta ley, serán aplicables supletoriamente las disposiciones del Código Procesal Civil para el Estado Libre y Soberano de Morelos y la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### Artículo 141.
+
+La sustanciación del procedimiento de remoción se llevará a cabo por la comisión calificadora integrada por los coordinadores de los grupos parlamentarios, de conformidad con lo dispuesto por el artículo 4 fracción VI de la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, la cual una vez substanciando el procedimiento presentará al pleno del Congreso el proyecto de resolución.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### Artículo 142.
+
+El procedimiento de remoción dará inicio con la presentación de una queja o denuncia respecto de las faltas o en ejercicio de las facultades del Congreso del Estado, establecidas en el artículo 74 de la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### Artículo 143.
+
+La comisión calificadora podrá decretar como medida precautoria, al inicio del procedimiento y hasta antes de que se dicte la resolución definitiva, la suspensión provisional del cargo de la persona sujeta al procedimiento, cuando:
+
+I. Con su permanencia, se corra el riesgo de afectación para los gobernados y las instituciones; y,
+
+II. Exista la posibilidad de que las evidencias o pruebas puedan ser alteradas, destruidas o modificadas.
+
+La suspensión provisional se decretará mediante acuerdo de la comisión calificadora, en el que funde y motive la causa generadora de la misma.
+
+Al resolverse en definitiva el procedimiento de remoción, la comisión calificadora deberá pronunciarse en torno a la suspensión provisional decretada.
+
+Durante el plazo que se encuentre suspendido el servidor público se le deberá pagar un mínimo vital el cual corresponderá a una tercera parte de su salario y prestaciones.
+
+En el supuesto que el servidor público suspendido temporalmente no resultare responsable de los hechos que se le imputan, se le restituirá en el goce de sus derechos y le cubrirá las percepciones que debió recibir durante el tiempo en (sic) se halló suspendido.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2023)</small>
+
+### CAPÍTULO III. RECURSO DE RECONSIDERACIÓN
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### Artículo 144.
+
+El procedimiento de remoción se desahogará conforme a lo siguiente:
+
+I. La queja o denuncia será presentada al Congreso del Estado o a la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado;
+
+II. La queja o denuncia será turnada por el presidente de la Mesa Directiva del Congreso del Estado o presidente de la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado, con la documentación que le acompaña, a cada uno de los integrantes de la comisión calificadora para la sustanciación del procedimiento de remoción;
+
+III. La comisión calificadora revisara si las conductas denunciadas, se encuentran dentro de las descritas en el artículo 74 de la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, en caso afirmativo, emitirá dentro del término de cinco días hábiles contados a partir de que la recibió, el acuerdo de radicación en el que declara que la queja o denuncia amerita la incoación del procedimiento, en dicho acuerdo se dictarán las medidas cautelares que haya lugar;
+
+IV. La comisión calificadora, dentro de los tres días siguientes a la admisión, procederá a emplazar al denunciado en el domicilio proporcionado para tal efecto o en el domicilio laboral si continúa en funciones, corriéndole traslado con las constancias que integran el expediente;
+
+V. En caso de que el denunciado no pueda ser emplazado en ninguno de los domicilios precisados, se procederá a notificarle por edictos, los cuales se publicarán por tres veces en tres días, en el órgano de difusión oficial del Gobierno del Estado o en uno de los periódicos de mayor circulación en la entidad;
+
+VI. El denunciado dentro de un plazo de diez días hábiles, contados a partir del día siguiente en que surte efectos la notificación realizada en los términos de la fracción anterior, o contados a partir del día siguiente de la última publicación en el caso de notificación por edictos, deberá contestar los hechos que se le imputan. En su contestación, deberá señalar domicilio para oír y recibir notificaciones, designar representante legal que cuente con cédula profesional de licenciado en derecho, personas autorizadas para oír y recibir notificaciones, debiendo además ofrecer sus pruebas;
+
+VII. Si concluido el plazo anterior no comparece por si o por medio de su representante legal, se tendrán por aceptados los hechos y conductas imputadas y se continuara el procedimiento, perdiendo su derecho a contestar los hechos denunciados en su contra y perdiendo su derecho a ofrecer pruebas;
+
+VIII. En caso de existencia de pruebas que requieran diligencia especial para su desahogo, la comisión calificadora procederá a señalar fecha y hora para su desahogo, el cual no excederá de quince días hábiles;
+
+Una vez desahogadas las pruebas en la misma diligencia, la comisión calificadora procederá a declarar abierto el período de alegatos, en el cual el denunciado o su representante legal, los presentarán por escrito o en su caso verbalmente en un tiempo no mayor a treinta minutos;
+
+IX. Cerrado el período de alegatos, en la propia diligencia, la comisión calificadora declarará cerrada la instrucción procediendo en el acto a turnar los autos para su resolución, la cual deberá dictarse en un plazo no mayor a veinte días hábiles contados a partir de la fecha del acuerdo de cierre de instrucción;
+
+X. Concluido el plazo señalado para emitir la resolución en que se contengan las conclusiones de la comisión calificadora, ésta solicitará a la Conferencia para la Programación y Dirección de los Trabajos Parlamentarios, la fecha para que el Congreso conozca del asunto para resolver, en definitiva; y,
+
+XI. En la sesión del pleno, por instrucciones de la Presidencia, se turnará a los diputados el dictamen correspondiente que contenga las conclusiones contenidas de la Comisión calificadora, sometiéndolo por instrucciones de la Presidencia a discusión y votación, debiéndose resolver el asunto por mayoría calificada del número de los diputados presentes en la sesión, resolución que será libre y soberana, en consecuencia, inatacable.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### Artículo 145.
+
+Una vez concluido el plazo para alegar lo haya hecho o no, la denunciada, se presentará al pleno el dictamen correspondiente que conforme a derecho proceda.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### Artículo 146.
+
+El recurso de reconsideración es procedente en contra de la medida precautoria de suspensión provisional del cargo del probable responsable.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### Artículo 147.
+
+El recurso de reconsideración deberá interponerse por escrito ante la comisión calificadora dentro del término de tres días, contados a partir de la fecha en que se hubiesen notificado al interesado la resolución o se hubiese manifestado sabedor del contenido de la misma, por cualquier medio.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### Artículo 148.
+
+Tan pronto como se reciba el recurso, la comisión calificadora elaborará su informe con justificación, el que deberá rendirse dentro del término de tres días; mismo que será turnado a la Junta Política y de Gobierno del Congreso del Estado, la que admitirá el recurso, y podrá suspender la medida decretada, con la única limitante que no se siga perjuicio al interés social ni se contravengan disposiciones de orden público.
+
+La Junta Política y de Gobierno del Congreso del Estado dictará la resolución que corresponda en un término no mayor de quince días de recibido el informe.
 
 ## TRANSITORIOS
 
@@ -3196,3 +3316,13 @@ SEGUNDA.- El presente decreto entrará en vigor el mismo día de su aprobación 
 TERCERA.- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
 
 CUARTA.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 1 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CUARENTA Y CINCO.- POR EL QUE SE ADICIONA EL TÍTULO DÉCIMO SEGUNDO DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, EN MATERIA DE REMOCIÓN DEL AUDITOR GENERAL DE LA ENTIDAD SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN DEL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo del Estado de Morelos, para los fines que indican los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor en el momento de su aprobación por el pleno del Congreso del Estado de Morelos, de conformidad con lo establecido en el segundo párrafo del artículo 38 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por la presente reforma.
