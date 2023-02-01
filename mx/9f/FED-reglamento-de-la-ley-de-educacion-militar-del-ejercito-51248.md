@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-educacion-militar-del-ejercito-51248"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-14"
-last_updated: "2012-01-27"
+last_updated: "2023-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51248&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-08"
 
 REGLAMENTO DE LA LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE FEBRERO DE 2023.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de agosto de 2006.
 
@@ -149,9 +149,27 @@ III. A distancia: cuando realicen sus estudios desde el organismo militar al que
 
 Las demás que establezcan los reglamentos de las Instituciones Educativas.
 
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 16.
 
-Los discentes que causen baja de la Institución Educativa a que pertenezcan, con derecho a reingresar, serán asignados conforme a las necesidades del servicio a las unidades, dependencias o instalaciones militares en áreas afines a los estudios que se encontraban realizando.
+Los discentes que causen baja de la Institución Educativa a la que pertenezcan con derecho a reingresar, serán asignados, conforme a las necesidades del servicio, a las unidades, dependencias o instalaciones militares en áreas afines a los estudios que estaban realizando, para lo cual se debe considerar lo siguiente:
+
+I. El personal de oficiales y de tropa en calidad de discentes que cuenten con un plantel militar y causan baja conservarán el grado que tengan al causar baja, con excepción de los cadetes que causen baja de una escuela de formación de oficiales antes de concluir satisfactoriamente sus estudios, los cuales tendrán el grado siguiente:
+
+a) Primer año como Soldado;
+
+b) Segundo año como Cabo;
+
+c) Tercer año como Sargento Segundo;
+
+d) Cuarto año como Sargento Primero, y
+
+e) Quinto y sexto año, conservarán la jerarquía que en ese momento ostenten;
+
+II. Los discentes de una escuela de formación de oficiales que ostenten o hayan ostentado un grado de la escala jerárquica militar serán puestos a disposición de las direcciones generales que correspondan de la Secretaría, y conservarán dicho grado, a no ser que en virtud de los años de estudios realizados de conformidad con la fracción I de este artículo, tengan derecho a un grado superior, en cuyo caso se les otorgará este último, y
+
+III. El discente debe permanecer en la unidad, dependencia o instalación militar en la que fue asignado, por el tiempo necesario previo a su reingreso.
 
 ### CAPÍTULO III. Docentes
 
@@ -211,13 +229,17 @@ VI. Otros que establezca la Secretaría.
 
 Los Directores de las Instituciones Educativas y Jefes de Curso, deberán comprobar la autenticidad de los documentos que acrediten el nivel académico del personal que solicite causar alta como docente.
 
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 22.
 
-La Dirección y Rectoría emitirá los nombramientos de los docentes civiles, en los cuales se indicarán sus datos personales, la descripción de los servicios, la duración de la jornada de trabajo, el salario y prestaciones, y el lugar de prestación de servicios, apegándose a la normatividad aplicable.
+La Dirección y Rectoría emitirá los nombramientos o, en su caso, suscribirá los contratos que rijan la relación administrativa de la Secretaría con el personal docente civil. Tanto los nombramientos como los contratos señalarán, por lo menos, los datos personales, la descripción de los servicios, la duración de la jornada de trabajo, el salario y el lugar de prestación de servicios, conforme a las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 23.
 
-Los docentes civiles, además de lo señalado en su respectivo nombramiento, tendrán las obligaciones siguientes:
+El personal docente civil, ya sea de base o contratado por servicios profesionales, además de lo señalado en su respectivo nombramiento o contrato debe cumplir con las obligaciones siguientes:
 
 I. Cumplir los objetivos establecidos en los planes y programas de estudio, en el marco de la materia o materias que impartan;
 
@@ -291,13 +313,27 @@ I. Comprobante de los estudios realizados;
 
 II. Cédula profesional;
 
-III. Órdenes de alta o del nombramiento;
+> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+III. Órdenes de alta, nombramiento o contrato de prestación de servicios profesionales;
 
 IV. Constancia de las evaluaciones aplicadas;
 
-V. Constancia de los cursos realizados durante su estancia en las instituciones educativas, y
+> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2023)</small>
 
-VI. Aportaciones hechas al proceso educativo.
+V. Constancia de los cursos realizados durante su estancia en las Instituciones Educativas;
+
+> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+VI. Aportaciones hechas al proceso educativo;
+
+> <small>(ADICIONADA, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+VII. Portafolio de evidencia de las actividades académicas generadas durante el desarrollo de clases, incluyendo los trabajos y recursos realizados de forma individual o grupal, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+VIII. Otras que establezca la Dirección y Rectoría.
 
 ### CAPÍTULO IV. Personal de Apoyo a la Educación
 
@@ -417,9 +453,11 @@ Con fundamento en el Plan General, se elaborará la Directiva de Sistematizació
 
 ### CAPÍTULO VII. Instituciones de Educación Militar
 
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 44.
 
-Las Instituciones Educativas son organismos integrantes del Sistema, que tienen como misión formar, capacitar y actualizar al personal del Ejército y Fuerza Aérea, y se clasifican en Colegios, Escuelas, Centros de Estudios y Unidades-Escuelas.
+Las Instituciones Educativas son organismos integrantes del Sistema que tienen como misión formar, capacitar y actualizar al personal del Ejército y Fuerza Aérea, y se clasifican en Colegios, Escuelas, Centros de Estudios, Unidades-Escuelas e Institutos.
 
 ###### ARTÍCULO 45.
 
@@ -451,19 +489,25 @@ Escuela Superior de Guerra;
 
 Escuela Militar de Ingenieros;
 
-Escuela Médico Militar;
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+Escuela Militar de Medicina;
 
 Escuela Militar de Odontología;
 
 Escuela Militar de Oficiales de Sanidad;
 
-Escuela Militar de Enfermeras;
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+Escuela Militar de Enfermería;
 
 Escuela Militar de Transmisiones;
 
 Escuela Militar de Materiales de Guerra;
 
-Escuela Militar de Clases de las Armas;
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+Escuela Militar de Sargentos;
 
 Escuela Militar de Tropas Especialistas de la Fuerza Aérea;
 
@@ -479,17 +523,35 @@ Escuela Militar de Tiro;
 
 Escuela Militar de los Servicios de Administración e Intendencia;
 
-Escuela Militar de Capacitación de Tropas del Servicio de Ingenieros, y
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
 
-Escuela Militar del Servicio de Transportes.
+Escuela Militar de Capacitación de Tropas del Servicio de Ingenieros;
+
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+Escuela Militar del Servicio de Transportes;
+
+> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+Escuela Militar de Idiomas, y
+
+> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+Escuela de Mando del Ejército y Fuerza Aérea.
 
 III. Centros de Estudios:
 
-Centro de Estudios de Idiomas del Ejército y Fuerza Aérea, y
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+Centro de Capacitación Virtual;
 
 Centro de Estudios del Ejército y Fuerza Aérea:
 
-Escuela Militar de Administración Militar y Pública;
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+Escuela Militar de Administración;
 
 Escuela Militar de Administración de Recursos Humanos;
 
@@ -510,6 +572,12 @@ Escuela Militar de Blindaje;
 Escuela Militar de Ingenieros de Combate, y
 
 Escuela Militar del Servicio de Transmisiones.
+
+> <small>(ADICIONADA [N. DE E. CON SU PÁRRAFO], D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+V. Institutos:
+
+Instituto Mexicano de Estudios Estratégicos en Seguridad y Defensa Nacionales.
 
 > <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
 
@@ -1007,7 +1075,9 @@ I. Representar a la Institución Educativa o Jefatura de Curso;
 
 II. Designar al personal de la Institución Educativa o Jefatura de Curso, que no haya sido nombrado por la Secretaría;
 
-III. Proponer a la Dirección y Rectoría el nombramiento de los docentes civiles y la asignación del personal de docentes militares, para la impartición de las diversas asignaturas.
+> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+III. Proponer a la Dirección y Rectoría el nombramiento o contratación del personal docente civil y la asignación del personal docente militar, para la impartición de las diversas asignaturas;
 
 IV. Disponer las medidas conducentes para el cumplimiento de la normatividad educativa; de los planes y programas de estudio y de apoyo educativo y de trabajo y, en general, de las disposiciones, políticas y directivas que normen la estructura y funcionamiento de la Institución Educativa o Jefatura de Curso respectiva, y
 
@@ -1345,6 +1415,28 @@ IV. Reprobar el examen final o profesional;
 
 V. Observar mala conducta, determinada por el Consejo de Honor de la Institución Educativa;
 
+> <small>(ADICIONADA, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+V Bis. En las escuelas de formación de oficiales:
+
+a) Acumular quinientos puntos de demérito en un ciclo lectivo en términos del reglamento respectivo, o
+
+b) Acumular trescientos puntos de demérito al incurrir en una falta muy grave que afecte la disciplina militar.
+
+Para efectos de este inciso se entiende por faltas muy graves que afecten la disciplina militar, entre otras, las siguientes:
+
+1. Golpear a un discente;
+
+2. Incurrir en acciones que denigren la dignidad militar o atenten contra la integridad física de un discente;
+
+3. Exigir dádivas o cooperaciones, suscribir colectas, o realizar cualquier tipo de actividades de agio, aprovechando su antigüedad, jerarquía o cargo;
+
+4. Resultar positivo al consumo de drogas en un examen toxicológico, y
+
+5. Realizar acciones que desprestigien la imagen de la escuela de formación en donde estudian o de la Secretaría.
+
+Lo anterior, sin perjuicio de la responsabilidad penal que, en su caso, pudiera incurrir el discente;
+
 VI. Adquirir otra nacionalidad;
 
 > <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
@@ -1361,23 +1453,23 @@ IX. Presentar algún padecimiento de los establecidos en el artículo 226 de la 
 
 X. Por motivos de salud, que le impidan cumplir con sus obligaciones académicas y militares, dentro de la Institución Educativa, certificado por dos médicos militares en activo, especialistas en el área del padecimiento de que se trate;
 
-> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2023)</small>
 
-XI. Por actualizarse los supuestos previstos en los artículos 1 y 2 del Reglamento de los Grupos de Militares Procesados y Sentenciados, y
+XI. Con motivo del inicio de un proceso penal en el fuero militar, común o federal, seguido de un auto de sujeción o de vinculación a proceso, y
 
 > <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
 XII. Otras que señalen los Reglamentos de las Instituciones Educativas y Cursos que imparten las jefaturas.
 
-> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
 
-Los discentes que causen baja de las Instituciones Educativas, podrán ser puestos a disposición de la dirección del arma o del servicio que corresponda, atendiendo a los estudios que se encontraban realizando, siempre que exista vacante y se consideren necesarios sus servicios, asignándoles la jerarquía que corresponda.
+Los discentes que causen baja de las Instituciones Educativas podrán ser puestos a disposición de la dirección general del arma o del servicio que corresponda conforme a los estudios que se encontraban realizando, siempre que exista vacante y se consideren necesarios sus servicios. Asimismo, se les asignará el grado que corresponda en términos del artículo 16 de este Reglamento, con excepción de los que causen baja de conformidad con el inciso b) de la fracción V Bis del presente artículo, quienes quedarán con el grado de soldados.
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 141.
 
-A los discentes que se ubiquen en alguna de las causales de baja, contenidas en el artículo 140, fracciones III, IV, V, VI, VII, VIII, IX, X y XII, del presente reglamento o en los de cada Institución Educativa, se les comunicará por escrito, que se inicia el procedimiento para determinar la procedencia o improcedencia de causar baja de la Institución Educativa Militar respectiva, haciéndoles saber los motivos y fundamentos legales para ello y se les concederá un término de quince días naturales que contará a partir del día siguiente al en que les sea notificado, a efecto de que manifiesten lo que a su interés convenga; transcurrido dicho término sin que manifiesten argumento alguno, se les tendrá por conformes con el citado procedimiento.
+A los discentes que se ubiquen en alguna de las causales de baja a que se refiere el artículo 140 del presente Reglamento o en los de cada Institución Educativa, se les comunicará por escrito el procedimiento para determinar la procedencia o improcedencia de causar baja de la Institución Educativa respectiva, así como los motivos y fundamentos jurídicos para ello. Asimismo, se les concederá un término de quince días naturales, contado a partir del día siguiente al que les sea notificado el inicio de dicho procedimiento, a efecto de que manifiesten lo que a su interés convenga. Transcurrido este término sin que manifiesten argumento alguno, se les tendrá por conformes con el citado procedimiento.
 
 > <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2011)</small>
 
@@ -1386,6 +1478,14 @@ A los discentes que se ubiquen en alguna de las causales de baja, contenidas en 
 Iniciados los trámites a que se refiere el artículo anterior, el discente cesará de participar en toda actividad académica; en tanto se dicte la resolución correspondiente.
 
 En caso de que la resolución que se dicte en el procedimiento a que se refiere el artículo 141 de este reglamento, declare que resulta improcedente la baja del discente, éste continuará sus actividades académicas en la Institución Educativa, procediendo a realizar los ajustes para regularizar su situación académica.
+
+> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+Asimismo, una vez que se notifique el inicio del procedimiento de baja, el personal discente que se coloque en esa situación solo podrá graduarse del curso respectivo, si se determina que la causa de baja que lo originó resulta infundada.
+
+> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
+El personal discente que se coloque en la causal de baja prevista en el artículo 140, fracción V Bis, inciso b), del presente Reglamento, será separado de inmediato de la Institución Educativa correspondiente, sin perjuicio del inicio del procedimiento de baja para garantizar su derecho de audiencia en términos del artículo 141 del presente ordenamiento.
 
 ###### ARTÍCULO 143.
 
@@ -1619,9 +1719,13 @@ La Dirección y Rectoría cumplirá las funciones sustantivas de difusión de la
 
 Los proyectos de investigación aprobados serán realizados por el personal del Sistema con los recursos presupuestales que proporcione la Secretaría, de conformidad con la disponibilidad financiera.
 
+> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 170.
 
-La doctrina militar es un conjunto sistematizado de normas que, en congruencia con la política militar, fundamentan la existencia, normatividad jurídica, estructura, educación, adiestramiento y operación del Ejército y Fuerza Aérea, con la finalidad de dar viabilidad a su organización y funcionamiento, para el cumplimiento de sus misiones generales.
+La doctrina militar se define como el conjunto de normas, procedimientos, conceptos, tradiciones y costumbres netamente militares, aprobados, difundidos y aceptados, que guían las conductas individuales y colectivas en los niveles estratégico, operacional y táctico de quienes integran las fuerzas armadas, así como en el cumplimiento de sus misiones, para contribuir así al logro de los objetivos nacionales.
+
+Asimismo, la doctrina militar se conceptualiza como un conjunto sistematizado de conocimiento que abarcan la normatividad, teorías y principios que fundamentan la existencia, estructura, operación y propósito de las fuerzas armadas; que identifican aspectos filosóficos, sociológicos, históricos, educativos y culturales que ayudan a unificar el pensamiento, sentimiento y acción de sus integrantes para la concepción, conducta y proyección de sus responsabilidades; lo anterior en armonía con la política de defensa nacional y seguridad interior para salvaguardar el interés supremo de la nación.
 
 ###### ARTÍCULO 171.
 
@@ -1639,9 +1743,11 @@ Las sanciones para el personal militar se ajustarán a las leyes y reglamentos M
 
 Los docentes civiles que incumplan alguna de las obligaciones a que se refieren los artículos 48 de la Ley y 23 del presente Reglamento, se harán acreedores a una amonestación escrita, signada por el titular de la Institución Educativa o Jefe de Curso, remitiendo copia a su expediente.
 
+> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 174.
 
-Procederá la terminación de los efectos del nombramiento del docente civil cuando acumule cinco amonestaciones escritas por diferente motivos durante el año lectivo.
+La terminación de los efectos del nombramiento o la rescisión del contrato del personal docente civil procederá cuando se coloque en alguna de las hipótesis de cese de la relación laboral previstas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, o en alguna de las causas señaladas en su contrato respectivo.
 
 ###### ARTÍCULO 175.
 
@@ -1668,3 +1774,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las erogaciones que deriven de la aplicación del presente Decreto serán realizadas mediante movimientos compensados, por lo que la Secretaría de la Defensa Nacional, debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 1 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS Y POR EL QUE SE EXPIDE EL REGLAMENTO DEL INSTITUTO MEXICANO DE ESTUDIOS ESTRATÉGICOS EN SEGURIDAD Y DEFENSA NACIONALES”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
+
+TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto.
