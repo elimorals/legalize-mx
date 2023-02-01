@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2022-04-27"
+last_updated: "2023-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -453,13 +453,17 @@ VII.- (DEROGADA, P.O. 8 DE JUNIO DE 2020) (REPUBLICADA SU DEROGACIÓN, P.O. 27 D
 
 VIII.- Violencia mediática en razón de género, toda acción u omisión tendiente a la publicación o difusión de mensajes e imágenes estereotipados y sexistas a través de cualquier medio de comunicación o a través de la instalación y colocación de anuncios que sean visibles desde la vía pública, que de manera directa o indirecta promueva la explotación de mujeres o sus imágenes, injurien, difamen, discriminen, deshonren, humillen o atenten contra la dignidad de las mujeres, así como la utilización de mujeres, adolescentes y niñas en mensajes e imágenes de promoción sexualmente explicita, legitimando la desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres.
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
 
-IX.- Violencia digital.- Es cualquier acto que se presenta a través de las tecnologías de la información y la comunicación, plataformas de internet, redes sociales o correo electrónico, o cualquier otro espacio digitalizado que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño moral a ellas y/o su familia. Se manifiesta mediante al acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras, verdaderas o alteradas, y
+IX.- Violencia digital.- Es cualquier acto que se presenta a través de las tecnologías de la información y la comunicación, plataformas de internet, redes sociales o correo electrónico, o cualquier otro espacio digitalizado que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño moral a ellas y/o su familia. Se manifiesta mediante al (sic) acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras, verdaderas o alteradas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2023)</small>
+
+X.- Violencia vicaria.- Es la violencia psicológica ejercida en contra de la mujer por quien sea o haya sido su cónyuge, concubino o pareja sentimental, quien por sí o por interpósita persona genere violencia sobre cualquier ascendiente o descendiente de la víctima, lo cual le provoca afectaciones o daño psicoemocional; y
 
 > <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2018)</small>
 
-X.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+XI.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -2108,3 +2112,17 @@ P.O. 27 DE ABRIL DE 2022.
 PRIMERA. Remítase el presente decreto al gobernador constitucional del estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CUATRO POR EL QUE SE REFORMAN LAS FRACCIONES IX ASÍ COMO LA X, POR LO QUE EL CONTENIDO DE LA ACTUAL FRACCIÓN X, SE RECORRE, PARA SER LA FRACCIÓN XI DEL ARTÍCULO 20 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente decreto al titular del Poder Ejecutivo del Estado para su publicación de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+ARTÍCULOS (SIC) TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente decreto.
