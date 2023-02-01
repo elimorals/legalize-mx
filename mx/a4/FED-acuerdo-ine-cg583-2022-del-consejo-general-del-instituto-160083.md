@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg583-2022-del-consejo-general-del-instituto-160083
 country: "mx"
 rank: "acuerdo"
 publication_date: "2022-09-13"
-last_updated: "2022-09-13"
+last_updated: "2023-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160083&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2022-07-20"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ORDENA A LOS PARTIDOS POLÍTICOS NACIONALES ADECUAR SUS DOCUMENTOS BÁSICOS, PARA ESTABLECER LOS CRITERIOS MÍNIMOS ORDENADOS POR LA SALA SUPERIOR DEL TEPJF AL EMITIR SENTENCIAS EN LOS JUICIOS DE LA CIUDADANÍA IDENTIFICADOS CON LOS EXPEDIENTES SUP-JDC-91/2022 Y SUP-JDC-434/2022; Y GARANTIZAR ASÍ, LA PARIDAD SUSTANTIVA EN LA POSTULACIÓN DE CANDIDATURAS A LAS GUBERNATURAS A PARTIR DE LOS PRÓXIMOS PROCESOS ELECTORALES LOCALES DE 2023 EN LOS QUE PARTICIPEN, YA SEA DE MANERA INDIVIDUAL, POR COALICIÓN O CANDIDATURA COMÚN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE FEBRERO DE 2023.
 
 Acuerdo publicado en el Número 12 del Diario Oficial de la Federación, el martes 13 de septiembre de 2022.
 
@@ -153,13 +153,15 @@ En razón de los antecedentes, consideraciones y fundamentos señalados, el Cons
 
 ACUERDO
 
-PRIMERO. Se ordena a los PPN adecuar sus Documentos Básicos, para que incluyan los criterios mínimos señalados en las sentencias dictadas por la Sala Superior del TEPJF en los juicios de la ciudadanía identificados con los expedientes SUP-JDC-91/2020 y SUP-JDC-434/2022, en el plazo y conforme a los requisitos señalados en los Considerandos del presente Acuerdo, y garanticen así la paridad sustantiva a partir del próximo proceso electoral para gubernaturas en que participen ya sea de manera individual, en coalición o candidatura común.
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
 
-SEGUNDO. Se requiere a los PPN para que, a más tardar el treinta y uno de octubre de dos mil veintidós, y por conducto del órgano competente, realicen las adecuaciones a fin de incorporar en sus Documentos Básicos los criterios mínimos descritos en el Considerando 19 del presente Acuerdo sobre paridad sustantiva, y los remitan a esta autoridad, a efecto de proceder conforme a lo señalado por el artículo 25, numeral 1, inciso l), de la LGPP.
+PRIMERO. Se ordena a los PPN adecuar sus Documentos Básicos, para que incluyan los criterios mínimos señalados en las sentencias dictadas por la Sala Superior del TEPJF en los juicios de la ciudadanía identificados con los expedientes SUP-JDC-91/2022 y SUP-JDC-434/2022, en el plazo y conforme a los requisitos señalados en los Considerandos del presente Acuerdo, y garanticen así la paridad sustantiva en los procesos electorales para gubernaturas en que participen ya sea de manera individual, en coalición o candidatura común.
 
-Ante la eventualidad de que los PPN no estén en posibilidad de realizar la modificación a sus documentos básicos en la fecha señalada, deberán emitir, a través de su órgano competente, las reglas ordenadas por el presente acuerdo, las cuales deberán ser sometidas a la valoración de este Consejo General a más tardar el treinta y uno de octubre de dos mil veintidós, con la obligación de que en la siguiente asamblea general u órgano equivalente competente que celebren, a la brevedad posible, estas reglas serán incorporadas a los documentos básicos.
+> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
 
-TERCERO. Se requiere a los PPN para que informen al INE a más tardar treinta días antes del inicio de su proceso de selección de candidaturas a gubernaturas en los estados de Coahuila y Estado de México, la entidad donde postularán a una mujer como candidata o, en su caso, si en ambas entidades postularán a mujeres, así mismo, en caso de que aún no hayan sido aprobadas por este Consejo las modificaciones a sus Documentos Básicos, informen en el mismo plazo a esta autoridad sobre los Métodos de Selección de Candidaturas aprobados por su órgano competente para garantizar la paridad sustantiva a través del criterio de competitividad.
+SEGUNDO. Se requiere a los PPN para que, a más tardar el treinta y uno de mayo de dos mil veintitrés, y por conducto del órgano competente, realicen las adecuaciones a fin de incorporar en sus Documentos Básicos los criterios mínimos descritos en el Considerando 19 del Acuerdo INE/CG583/2022 sobre paridad sustantiva, y los remitan a esta autoridad, a efecto de proceder conforme a lo señalado por el artículo 25, numeral 1, inciso l), de la LGPP.
+
+TERCERO. (DEROGADO, D.O.F. 1 DE FEBRERO DE 2023)
 
 CUARTO. Se vincula a los PPN, Revolucionario Institucional, Acción Nacional, Verde Ecologista de México, y Morena, para que, a más tardar el treinta y uno de octubre de dos mil veintidós, y por conducto del órgano competente, realicen las modificaciones a sus Documentos Básicos en cumplimiento a lo ordenado en el Acuerdo INE/CG517/2020, en relación con el Decreto en materia de VPMRG e informen a esta autoridad dentro del plazo contenido en el artículo 25, numeral 1, inciso l), de la LGPP.
 
@@ -176,3 +178,37 @@ El presente Acuerdo fue aprobado en lo general en sesión extraordinaria del Con
 Se aprobó en lo particular lo referente a que en el caso que el partido político no logre hacer la modificación a sus documentos básicos antes del 31 de octubre deberá emitir a través de una instancia facultada para ello las reglas ordenadas en el presente Acuerdo y someterlas a valoración de éste Consejo General, por siete votos a favor de las y los Consejeros Electorales, Doctor Uuc-kib Espadas Ancona, Doctora Adriana Margarita Favela Herrera, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordán, Doctor Ciro Murayama Rendón, Maestro Jaime Rivera Velázquez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, y cuatro votos en contra de las Consejeras y el Consejero Electorales, Maestra Norma Irene De La Cruz Magaña, Maestra Dania Paola Ravel Cuevas, Doctor José Roberto Ruiz Saldaña y Maestra Beatriz Claudia Zavala Pérez
 
 El Consejero Presidente del Consejo General, Dr. Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Lic. Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 1 DE FEBRERO DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE, EN ACATAMIENTO A LA SENTENCIA DICTADA POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL EXPEDIENTE SUP-RAP-220/2022 Y ACUMULADOS, SE MODIFICA EL SIMILAR INE/CG583/2022, EN EL QUE SE ORDENÓ A LOS PARTIDOS POLÍTICOS NACIONALES ADECUAR SUS DOCUMENTOS BÁSICOS, PARA ESTABLECER LOS CRITERIOS MÍNIMOS ORDENADOS POR LA SALA SUPERIOR DEL TEPJF AL EMITIR SENTENCIAS EN LOS JUICIOS DE LA CIUDADANÍA IDENTIFICADOS CON LOS EXPEDIENTES SUP-JDC-91/2022 Y SUP-JDC-434/2022; Y GARANTIZAR ASÍ, LA PARIDAD SUSTANTIVA EN LA POSTULACIÓN DE CANDIDATURAS A LAS GUBERNATURAS A PARTIR DE LOS PRÓXIMOS PROCESOS ELECTORALES LOCALES DE 2023 EN LOS QUE PARTICIPEN, YA SEA DE MANERA INDIVIDUAL, POR COALICIÓN O CANDIDATURA COMÚN".]</small>
+
+PRIMERO. Se declara la modificación del Acuerdo INE/CG583/2022 de este Consejo General, aprobado en su sesión extraordinaria el veinte de julio de dos mi veintidós, en acatamiento a la sentencia emitida en los expedientes SUP-RAP-220/2022 y Acumulados, por la Sala Superior del TEPJF el veintisiete de octubre de dos mil veintidós.
+
+SEGUNDO. En correlación con los efectos ordenados por la Sala Superior del TEPJF, se suprimen el punto TERCERO así como los considerandos 19, párrafos sexto, séptimo, octavo, noveno y décimo; 20, último párrafo; 22; y 24; y se modifican los puntos PRIMERO y SEGUNDO, así como el considerando 20, penúltimo párrafo; todos del Acuerdo INE/CG583/2022, conforme a lo señalado en las consideraciones del presente documento.
+
+Por lo que los puntos del Acuerdo INE/CG583/2022, quedan en los términos siguientes:
+
+PRIMERO. Se ordena a los PPN adecuar sus Documentos Básicos, para que incluyan los criterios mínimos señalados en las sentencias dictadas por la Sala Superior del TEPJF en los juicios de la ciudadanía identificados con los expedientes SUP-JDC-91/2022 y SUP-JDC-434/2022, en el plazo y conforme a los requisitos señalados en los Considerandos del presente Acuerdo, y garanticen así la paridad sustantiva en los procesos electorales para gubernaturas en que participen ya sea de manera individual, en coalición o candidatura común.
+
+SEGUNDO. Se requiere a los PPN para que, a más tardar el treinta y uno de mayo de dos mil veintitrés, y por conducto del órgano competente, realicen las adecuaciones a fin de incorporar en sus Documentos Básicos los criterios mínimos descritos en el Considerando 19 del Acuerdo INE/CG583/2022 sobre paridad sustantiva, y los remitan a esta autoridad, a efecto de proceder conforme a lo señalado por el artículo 25, numeral 1, inciso l), de la LGPP.
+
+TERCERO. (Se suprime)
+
+CUARTO. Se vincula a los PPN, Revolucionario Institucional, Acción Nacional, Verde Ecologista de México, y Morena, para que, a más tardar el treinta y uno de octubre de dos mil veintidós, y por conducto del órgano competente, realicen las modificaciones a sus Documentos Básicos en cumplimiento a lo ordenado en el Acuerdo INE/CG517/2020, en relación con el Decreto en materia de VPMRG e informen a esta autoridad dentro del plazo contenido en el artículo 25, numeral 1, inciso l), de la LGPP.
+
+QUINTO. Infórmese dentro de las siguientes veinticuatro horas a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación sobre el proceso de cumplimiento que se está dando a las sentencias dictadas en los expedientes SUP-JDC-91/2020 y SUP-JDC-434/2022.
+
+SEXTO. Notifíquese por oficio el presente Acuerdo a los PPN para los efectos conducentes.
+
+SÉPTIMO. Se instruye a la UTVOPL, notifique por la vía más expedita a los OPL el presente Acuerdo.
+
+OCTAVO. Publíquese el presente Acuerdo en el DOF.
+
+TERCERO. Notifíquese por oficio el presente Acuerdo a los PPN para los efectos conducentes.
+
+CUARTO. Infórmese dentro de las siguientes cuarenta y ocho horas a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación sobre el cumplimiento a lo establecido en la sentencia dictada en el expediente SUP-RAP-220/2022 y acumulados.
+
+QUINTO. Publíquese el presente Acuerdo en el DOF.
