@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2021-07-28"
+last_updated: "2023-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MOR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE FEBRERO DE 2023 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1127,6 +1129,10 @@ La sanción aplicable a la tentativa será de hasta las dos terceras partes de l
 
 Cuando se trate de delito grave, en el primer caso al que se refiere el segundo párrafo del artículo 17, se podrá aplicar hasta la mitad de la sanción prevista en el párrafo anterior. Si la acción o la omisión realizadas constituyen por sí mismas un delito, conforme al segundo caso mencionado por el mismo párrafo del artículo 17, se aplicará la sanción correspondiente a dicho delito.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+Cuando se trate del delito de feminicidio, en el primer caso al que se refiere el segundo párrafo del artículo 17, se podrá (sic) aplicar hasta dos terceras partes de la sanción máxima establecida para dicho ilícito.
+
 ### CAPITULO VII. CONCURSO Y DELITO CONTINUADO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
@@ -1461,6 +1467,10 @@ En los casos de concurso, se computarán separadamente los plazos para la prescr
 
 ARTICULO 100 BIS.- Cuando se trate de delitos contra la libertad y el normal desarrollo psicosexual contenidos en el Título Séptimo de este Código, cometidos en contra de menores de edad o que o no tuvieren la capacidad de comprender el significado del hecho o resistirlo, la acción penal será imprescriptible.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+ARTICULO 100 TER.- La prescripción en cualquiera de sus modalidades será improcedente para el delito de feminicidio.
+
 ###### ARTICULO 101.
 
 Cuando para la persecución del delito sea necesario que se dicte sentencia en diverso juicio, no comenzará a correr la prescripción sino hasta que exista la correspondiente ejecutoria. En caso de que para la persecución se requiera otra declaración o resolución de autoridad, las gestiones que se hagan para obtenerla interrumpen la prescripción. Esta comenzará a correr cuando se dicten la declaración o resolución, y adquieran firmeza. Sin embargo, se iniciará el curso de la prescripción cuando transcurran tres años, contados a partir del inicio del procedimiento respectivo, sin que la autoridad emita dicha declaración o resolución, salvo que la ley aplicable a éstas prevenga otro plazo.
@@ -1657,9 +1667,13 @@ VIII. De tres a ocho años de prisión y de trescientos a tres mil días-multa, 
 
 IX. De cinco a diez años de prisión y de quinientos a cinco mil días-multa, si causan, por más de un año, la incapacidad mencionada en la fracción VII de este artículo.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
 
-De las lesiones que a una persona cause un animal, será responsable el que con esa intención lo azuce o lo suelte o haga esto último por descuido.
+De las lesiones que a una persona cause un animal, será responsable la persona que con esa intención lo azuce o lo suelte; en caso de que se materialice por descuido, se equiparará a la cuestión culposa.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+Cuando la lesión o las lesiones señaladas en las modalidades establecidas en este artículo se generen en perjuicio de personas menores de edad o en personas con discapacidad, o en agravio hacia la mujer por razón de género, se sancionará hasta con una mitad más a la pena establecida en este artículo.
 
 ###### ARTICULO 122.
 
@@ -1839,7 +1853,7 @@ Si el agente pone en libertad al ofendido, espontáneamente, dentro de los tres 
 
 ### CAPITULO IV. EXTORSION
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
 
 ###### ARTICULO 140.
 
@@ -1875,19 +1889,39 @@ Si el agente pone en libertad al ofendido, espontáneamente, dentro de los tres 
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTICULO 146.
+###### ARTÍCULO 146.
 
-Al que por cualquier medio ilícito ejerza coacción sobre una persona para dar, hacer o dejar de hacer algo, se le impondrá pena de quince a veinte años de prisión y multa de ochocientas a mil Unidades de Medida y Actualización, sin perjuicio de la sanción aplicable para los demás delitos que resulten.
+Al que por cualquier medio ilícito ejerza coacción sobre una persona para que haga, deje de hacer o entregue algo, se le impondrán de quince a veinte años de prisión y multa de un mil a dos mil veces el importe del valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito, sin perjuicio de la sanción aplicable para los demás delitos que resulten.
 
-Para efectos de este artículo también se considerará coacción moral cuando se utilicen juguetes con apariencia de armas de fuego u otros instrumentos que solo puedan ser utilizados para agredir.
+Se aplicará la pena prevista en el párrafo anterior, a quien facilite o utilice su cuenta bancaria para que se le realicen depósitos de dinero producto de la extorsión.
 
-La pena se incrementará hasta en una mitad respecto de las sanciones previstas en este artículo, cuando la extorsión se realice:
+Las penas previstas en el primer párrafo se aumentarán hasta en dos terceras partes, si el delito se comete en alguna de las siguientes circunstancias:
 
-I. Cuando el autor obtenga lo que se propuso;
+I. Si el autor de la extorsión obtiene lo que se propuso;
 
-II. Cuando el sujeto activo sea elemento o haya pertenecido a instituciones de Seguridad Pública, Procuración de Justicia, Administración de justicia y/o militares. En este caso se le inhabilitará para ejercer algún cargo público y se suspenderá en el ejercicio de su profesión hasta por el mismo tiempo de la sanción impuesta, y
+II. Intervenga una o más personas portando armas de fuego, o portando juguetes con apariencia de ser armas de fuego, o en su caso portando objetos o mecanismos con apariencia de armas de fuego, de las que están catalogadas como prohibidas en este código penal;
 
-III. Cuando la víctima sea menor de edad o adulto mayor de 60 años.
+III. Se emplee violencia psicológica o física que ponga en peligro la integridad de la víctima o personas con las que ésa tenga vínculos de parentesco, sentimentales o laborales;
+
+IV. Cuando el sujeto activo se encuentre privado de su libertad bajo cualquier circunstancia en un Centro Penitenciario Estatal o Federal, o a disposición de cualquier autoridad;
+
+V. Cuando en la comisión del delito se utilice la comunicación vía telefónica, o cualquier otro medio de comunicación electrónica o de redes sociales;
+
+VI. Cuando el sujeto activo tenga vínculos de tipo laboral, sentimental, familiar, vecinal, escolar o comercial con la víctima;
+
+VII. Cuando el sujeto activo aceche, vigile a la víctima o cumpla cualquier amenaza proferida para obtener su propósito, entendiéndose aquellos actos que atenten contra la integridad física o emocional de la víctima, sus familiares o en su patrimonio;
+
+VIII. Cuando el sujeto activo sea elemento o haya pertenecido a instituciones de seguridad pública o privada, procuración de justicia, administración de justicia o militares, o se ostente como tal sin serlo. En este caso se le inhabilitará para ejercer algún cargo público y se suspenderá en el ejercicio de su profesión hasta por el mismo tiempo de la sanción impuesta;
+
+IX. Cuando la víctima sea alguna asociación civil, sociedad mercantil o grupo social;
+
+X. Cuando la víctima sea alguna institución pública;
+
+XI. Cuando la víctima se dedique al transporte de pasajeros o de mercancías; y
+
+XII. Cuando la víctima sea menor de edad o adulto mayor de 60 años.
+
+Cuando la víctima sea menor de edad o adulto mayor de 60 años. (sic)
 
 ### CAPITULO VII. ARTICULO 148 BIS.- (DEROGADO, P.O. 10 DE DICIEMBRE DE 2014 Y P.O. 18 DE FEBRERO DE 2015)
 
@@ -5359,16 +5393,6 @@ SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de s
 
 TERCERA. Se derogan las disposiciones de igual o menor grado que se opongan a la presente reforma.
 
-P.O. 5 DE JUNIO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS OCHENTA Y NUEVE.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, EN MATERIA DE PROTECCIÓN A LOS PROFESIONALES, TECNICOS, AUXILIARES Y TRABAJADORES DEL SECTOR SALUD, ANTE CUALQUIER SITUACIÓN DE SALUBRIDAD GENERAL”.]
-
-PRIMERA Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
-
-TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
-
 P.O. 7 DE AGOSTO DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS NOVENTA Y OCHO POR EL QUE SE REFORMA EL NOMBRE DEL TÍTULO SEXTO, DEL LIBRO SEGUNDO, DENOMINADO "DELITOS CONTRA LA INTIMIDAD PERSONAL O FAMILIAR", PARA QUEDAR DE LA SIGUIENTE FORMA: "DELITOS CONTRA LA INTIMIDAD"; SE REFORMA EL ARTÍCULO 150 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS; Y SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 20 DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS".]
@@ -5378,6 +5402,16 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS OCHENTA Y NUEVE.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, EN MATERIA DE PROTECCIÓN A LOS PROFESIONALES, TECNICOS, AUXILIARES Y TRABAJADORES DEL SECTOR SALUD, ANTE CUALQUIER SITUACIÓN DE SALUBRIDAD GENERAL”.]
+
+PRIMERA Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
 (NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE EL QUE EXPIDE LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE MORELOS Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS Y DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DOCE DE AGOSTO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE AGOSTO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
@@ -5464,3 +5498,43 @@ P.O. 28 DE JULIO DE 2021.
 PRIMERO.- Remítase el presente decreto al titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS TREINTA Y CINCO.- POR EL CUAL, SE MODIFICA EL PÁRRAFO SEGUNDO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 121 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente decreto.
+
+P.O. 1 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS TREINTA Y NUEVE POR EL CUAL, SE ADICIONAN, UN TERCER PÁRRAFO DEL ARTÍCULO 67 Y EL ARTÍCULO 100 TER AL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas aquellas disposiciones de igual o menor rango que contravengan el presente decreto.
+
+P.O. 1 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS CUARENTA.- POR EL CUAL, SE REFORMA EL ARTÍCULO 146 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para su publicación de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades estatales y municipales en el ámbito de su competencia difundirán el contenido de este decreto para efectos de inhibir este delito. Salón de plenos del Poder Legislativo, en sesión ordinaria, iniciada el doce, continuada el catorce de diciembre del dos mil veintidós.
