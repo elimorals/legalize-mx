@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-proteccion-frente-al-consumo-de-tabaco-en-el-84195"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2018-09-26"
+last_updated: "2023-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY PARA LA PROTECCION FRENTE AL CONSUMO DE TABACO EN EL ESTADO DE MORELOS -- ANTES LEY DE PROTECCION CONTRA LA EXPOSICION FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS --
 
-LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS
+LEY PARA LA PROTECCIÓN FRENTE AL CONSUMO DE TABACO EN EL ESTADO DE MORELOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -41,7 +41,9 @@ Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la sigui
 
 ÚNICO.- SE EXPIDE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS.
 
-LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2023)</small>
+
+LEY PARA LA PROTECCIÓN FRENTE AL CONSUMO DE TABACO EN EL ESTADO DE MORELOS.
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -54,6 +56,10 @@ La presente Ley es de orden público e interés general y tiene por objeto:
 I. Proteger la salud de la población de los efectos por inhalar el humo generado por la combustión del tabaco, y
 
 II. Establecer mecanismos y acciones tendientes a prevenir y disminuir el consumo de tabaco así como las consecuencias generadas en la salud de la población, derivadas de la exposición frente al humo de tabaco.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2023)</small>
+
+III. Fomentar políticas y acciones necesarias para el manejo de residuos de tabaco con el propósito de prevenir el impacto ambiental negativo en el estado de Morelos.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -85,31 +91,59 @@ I. Área física Cerrada con acceso al público: Todo espacio cubierto por un te
 
 II. Denuncia Ciudadana: Notificación hecha a la autoridad competente por cualquier persona respecto de los hechos de incumplimiento de las disposiciones contenidas en esta Ley, sus reglamentos y demás disposiciones aplicables.
 
-III. Fumador Pasivo: Es el sujeto que, pese a no consumir directamente productos provenientes de las labores del tabaco, aspira las sustancias tóxicas y cancerígenas provenientes de su combustión y propagadas por el humo que desprende la misma.
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2023)</small>
 
-IV. Humo de Tabaco: se refiere a las emisiones de los productos de tabaco originadas por encender o consumir cualquier producto del tabaco y que afecta la salud de la población;
+III. Espacio 100 por ciento libre de humo de tabaco y emisiones: aquella área física con acceso al público, todo lugar de trabajo, de transporte público o espacio de concurrencia colectiva, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco o de nicotina;
 
-V. Ley: Ley de Protección contra la exposición frente al humo de tabaco del Estado de Morelos.
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2023)</small>
 
-VI. No fumadores: a quienes no fuman;
+IV. Espacio de concurrencia colectiva: Todo espacio destinado al acceso público para el desarrollo de actividades deportivas, artísticas, culturales y de entretenimiento, tanto del ámbito público como privado, independientemente si está cubierto por un techo y confinado por paredes o que la estructura sea permanente o temporal;
 
-VII. Municipio: Constituye el órgano político primario y autónomo dentro de la organización del Estado, establecida en una extensión de tierra determinada y en la que se divide al Estado de Morelos, y que se entenderá a esta Ley a través de sus Ayuntamientos;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
 
-VIII. Policía: elemento de la policía adscrito al Gobierno del Estado de Morelos y a sus Municipios.
+V. Fumador Pasivo: es el sujeto que, pese a no consumir directamente productos provenientes de las labores del tabaco, aspira las sustancias tóxicas y cancerígenas provenientes de su combustión y propagadas por el humo que desprende la misma.
 
-IX. Secretaría de Salud: a la Secretaría de Salud del Estado de Morelos;
+VI. Humo de Tabaco: se refiere a las emisiones de los productos de tabaco originadas por encender o consumir cualquier producto del tabaco y que afecta la salud de la población;
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+VII. Ley: ley de Protección contra la exposición frente al humo de tabaco del Estado de Morelos.
+
+VIII. No fumadores: a quienes no fuman;
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+IX. Municipio: constituye el órgano político primario y autónomo dentro de la organización del Estado, establecida en una extensión de tierra determinada y en la que se divide al Estado de Morelos, y que se entenderá a esta Ley a través de sus ayuntamientos;
+
+X. Policía: elemento de la policía adscrito al Gobierno del Estado de Morelos y a sus Municipios.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2023)</small>
+
+XI. Lugar de trabajo: son todos los lugares utilizados por las personas durante su trabajo. Incluye no sólo aquellos donde se realiza el trabajo, sino también todos los lugares conexos y anexos que los trabajadores suelen utilizar en el desempeño de su empleo así como los vehículos que se utilizan mientras se realiza el trabajo;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2023)</small>
+
+XII. Residuo de tabaco: a los restos de tabaco y sus componentes accesorios que no se pueden consumir;
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+XIII. Secretaría de Salud: a la Secretaría de Salud del estado de Morelos;
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
-X. Seguridad Pública: a la Comisión Estatal de Seguridad Pública;
+XIV. Seguridad Pública: a la Comisión Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
+
+XV. Sitios de Concurrencia colectiva: centros deportivos, recreativos, parques, alamedas, jardines y plazas cívicas;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2023)</small>
+
+XVI. Transporte público: aquel vehículo individual o colectivo que circule por tierra, aire o agua utilizado para transportar personas, generalmente con fines comerciales, laborales, escolares u otros, que regularmente se obtiene una remuneración, incluye terminales, estaciones, paradas y otras instalaciones de mobiliario urbano conexo; y,
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
-XI. Sitios de Concurrencia colectiva: centros deportivos, recreativos, parques, alamedas, jardines y plazas cívicas, y
-
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
-
-XII. Zonas exclusivamente para fumar: lugar al aire libre delimitado y designado únicamente para fumar donde no se podrá servir alimentos y bebidas, ni habilitarse, ni utilizarse, como sitio de recreación, mismas que no deberán ser lugar de paso, no se permitirá el acceso a menores y a las mujeres embarazadas se les deberá notificar los riesgos a la salud que conlleva el ingresar a la misma.
+XVII. Zonas exclusivamente para fumar: lugar al aire libre delimitado y designado únicamente para fumar donde no se podrá servir alimentos y bebidas, ni habilitarse, ni utilizarse, como sitio de recreación, mismas que no deberán ser lugar de paso, no se permitirá el acceso a menores y a las mujeres embarazadas se les deberá notificar los riesgos a la salud que conlleva el ingresar a la misma.
 
 ## TÍTULO SEGUNDO. ATRIBUCIONES DE LA AUTORIDAD
 
@@ -129,9 +163,15 @@ IV. Sancionar a los propietarios de los establecimientos mercantiles o empresas 
 
 V. Sancionar a los particulares que, al momento de la visita, hayan sido encontrados consumiendo tabaco en los lugares en que se encuentre prohibido, siempre y cuando con anterioridad se les haya invitado a modificar su conducta y estos se negaron a hacerlo;
 
-VI. Informar a los órganos de control interno de las oficinas o instalaciones que pertenezcan a los Órganos de Gobierno del Estado de Morelos, la violación a la presente Ley de los servidores públicos, a efecto de que se inicien los procedimientos administrativos correspondientes; y
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2023)</small>
 
-VII. Las demás que le otorgue la presente Ley y demás disposiciones jurídicas aplicables.
+VI. Verificar la existencia de lugares de desecho de residuos de tabaco en la vía pública y establecimientos, para su correcta recolección y reciclaje.
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
+
+VII. Informar a los órganos de control interno de las oficinas o instalaciones que pertenezcan a los Órganos de Gobierno del estado de Morelos, la violación a la presente Ley de los servidores públicos, a efecto de que se inicien los procedimientos administrativos correspondientes; y,
+
+VIII. Las demás que le otorgue la presente Ley y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 7.
 
@@ -227,6 +267,14 @@ Tratándose de vehículos de uso particular, únicamente les será aplicable lo 
 
 XIV. En cualquier otro lugar, que en forma expresa determine la Secretaría de Salud, mediante la publicación que ordene respecto del mandato en el Periódico Oficial del Estado de Morelos.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### Artículo 11 Bis.
+
+Queda prohibido desechar los residuos de tabaco en la vía pública, arroyos vehiculares, alcantarillas, parques, jardines o cualquier espacio público o privado, en caso de infringir esta disposición el infractor se hará acreedor a sanción administrativa.
+
+Las autoridades de cada municipio determinarán la sanción que corresponda.
+
 ###### Artículo 12.
 
 Solo los establecimientos mercantiles que cuenten con áreas al aire libre podrán ubicar zonas exclusivamente para fumar, mismas que no podrán ser mayores de una tercera parte de la superficie al aire libre con la que cuente el establecimiento sin considerar estacionamiento, Además deben estar incomunicadas de los lugares donde se prohíbe fumar, no ser paso obligado para las personas, no encontrarse en los accesos o salidas de los espacios 100% libres de humo de tabaco y de los establecimientos, estar identificadas y contar con letreros de advertencia a mujeres embarazadas de los riesgos que corren, ella y el producto al entrar en esta zona. En estos espacios no podrán estar menores de edad.
@@ -260,6 +308,14 @@ Los propietarios, administradores o responsables de un espacio cien por ciento l
 El titular del establecimiento, o su personal, deberá exhortar a quien se encuentre fumando en las áreas prohibidas, a que se abstenga de hacerlo, en caso de negativa, se le invitará a abandonar las instalaciones; si el infractor se resiste a dar cumplimiento al exhorto, el titular o sus dependientes solicitarán el auxilio de algún policía, a efecto de que pongan al infractor a disposición del Juez Cívico competente.
 
 La autoridad estará obligada a proporcionar una clave de reporte que deslinde de la responsabilidad al propietario, poseedor y/o administrador del lugar.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2023)</small>
+
+###### Artículo 15 Bis.
+
+Es obligación de los establecimientos comerciales, locales cerrados, expendios fijos de alimentos y bebidas, bares, discotecas y tiendas de conveniencia donde se expenda la venta al público productos de tabaco, contar con contenedores específicos al exterior del lugar para la recolección y una correcta disposición final de los residuos de cigarro.
+
+Las autoridades de los municipios se encargarán de vigilar la existencia de los contenedores, sancionando al establecimiento que no cumpla con dicha disposición.
 
 ###### Artículo 16.
 
@@ -542,3 +598,15 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para su 
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS OCHO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DEL TABACO DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase al Poder Ejecutivo del estado para que realice la publicación correspondiente en el Periódico Oficial "Tierra y Libertad".
+
+SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA.- Los ayuntamientos contarán con un plazo de 60 días naturales posteriores a la entrada en vigor del presente decreto, para expedir en sus bandos de policía y buen gobierno y en su ley de ingresos del Municipio, las sanciones que señala el segundo párrafo del artículo 15 Bis.
+
+CUARTA.- De conformidad con la disponibilidad presupuestal del Gobierno del estado de Morelos y de los treinta y seis municipios, se ejercerá el gasto de inversión para los contenedores de residuos de tabaco y, en su caso, se incluirán las partidas correspondientes en sus respectivos proyectos de presupuestos de egresos para el ejercicio Fiscal 2023.
