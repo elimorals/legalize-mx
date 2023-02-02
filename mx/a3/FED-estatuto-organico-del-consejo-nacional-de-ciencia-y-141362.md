@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-141362"
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-02-17"
-last_updated: "2022-01-12"
+last_updated: "2023-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141362&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-01-08"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE FEBRERO DE 2023.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 17 de febrero de 2020.
 
@@ -93,11 +93,11 @@ XII. Entidades Coordinadas, a las entidades paraestatales bajo la coordinación 
 
 XIII. Estatuto Orgánico, al Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnología
 
-XIV. Fondo CIBIOGEM, al Fondo para el Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología.
+XIV. (DEROGADA, D.O.F. 2 DE FEBRERO DE 2023)
 
-XV. Fondos del Consejo, a los Fondos CONACYT establecidos en la Ley.
+XV. (DEROGADA, D.O.F. 2 DE FEBRERO DE 2023)
 
-XVI. Fondos de Investigación, a los Fondos de Investigación Científica y Desarrollo Tecnológico establecidos en la Ley.
+XVI. (DEROGADA, D.O.F. 2 DE FEBRERO DE 2023)
 
 XVII. Foro, al Foro Consultivo Científico y Tecnológico.
 
@@ -159,15 +159,21 @@ V. Proponer, mediante instrumentos o definición de políticas ante las autorida
 
 VI. Incrementar la investigación científica, el desarrollo tecnológico y la innovación a través de la integración y asignación de investigadores y tecnólogos a las instituciones públicas y privadas y entidades que realicen investigación, desarrollo tecnológico e innovación.
 
-VII. Canalizar los recursos, a través de sus áreas competentes, a las instituciones, centros, organismos, empresas o personas físicas o jurídicas de los sectores público, social y privado, tendientes al fomento y realización de investigaciones científicas, de desarrollo tecnológico y de innovación, así como a la producción de ingeniería básica y formación de científicos, tecnólogos y recursos humanos de alto nivel, basados en programas y proyectos específicos establecidos en la Ley, en la Ley Orgánica, en la Ley de Bioseguridad y en los convenios que para el efecto celebre el Consejo, sin que ello sea obstáculo para el manejo o incremento de su patrimonio.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+VII. Canalizar los recursos, a través de sus áreas competentes, a las instituciones, centros, organismos, empresas o personas físicas o jurídicas de los sectores público, social y privado, tendientes al fomento y realización de investigaciones científicas, de desarrollo tecnológico y de innovación, así como a la producción de ingeniería básica y formación de alto nivel de personas humanistas, científicas, tecnólogas e innovadoras, basados en programas y proyectos específicos establecidos en la Ley, en la Ley Orgánica, en la Ley de Bioseguridad y en los convenios que para el efecto celebre el Consejo, sin que ello sea obstáculo para el manejo o incremento de su patrimonio.
 
 VIII. Formular y apoyar todas las acciones tendientes a la generación, difusión y aplicación de los conocimientos en ciencia, tecnología e innovación, de conformidad con lo dispuesto por la Ley, la Ley Orgánica, la Ley de Bioseguridad. el presente Estatuto Orgánico y demás disposiciones legales y administrativas aplicables.
 
 IX. Coordinar la formulación e integración del Programa Especial, acorde a lo dispuesto en la Ley, así como su ejecución y evaluación de resultados en su instrumentación.
 
-X. Establecer las disposiciones para la creación y operación de asociaciones estratégicas, alianzas tecnológicas, unidades de vinculación y transferencia de conocimiento, nuevas empresas privadas de base tecnológica y redes regionales de innovación, definiendo mediante los lineamientos respectivos, las estrategias, programas conjuntos, articulación de acciones, recursos humanos y financieros, optimización de infraestructura, generación de intercambios, definición de criterios y estándares de calidad institucional que permitan transferencias y aplicación de conocimientos e innovaciones o el ingreso y la permanencia de los interesados dentro de dichos esquemas.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
-XI. Elaborar y financiar programas de recursos humanos de alto nivel, así como integrar en sus proyectos, los programas que al efecto se ofrezcan para otras instituciones públicas nacionales, organismos internacionales o gobiernos extranjeros, procurando la optimización de recursos y estableciendo esquemas de coordinación, acorde a la normativa que se expida y a las convocatorias y convenios correspondientes.
+X. Establecer las disposiciones para la creación y operación de asociaciones estratégicas, alianzas tecnológicas, unidades de vinculación y transferencia de conocimiento, nuevas empresas de base tecnológica y redes regionales de innovación, definiendo mediante los lineamientos respectivos, las estrategias y programas conjuntos para la articulación de acciones y recursos, la optimización de infraestructura, la generación de intercambios, así como la definición de criterios y estándares de calidad institucional que permitan la transferencia y aplicación de conocimientos e innovaciones o el ingreso y la permanencia de los interesados dentro de dichos esquemas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+XI. Elaborar y financiar programas de formación de alto nivel de personas humanistas, científicas, tecnólogas e innovadoras, así como integrar en sus proyectos, los programas que al efecto se ofrezcan para otras instituciones públicas nacionales, organismos internacionales o gobiernos extranjeros, procurando la optimización de recursos y estableciendo esquemas de coordinación, acorde a la normativa que se expida y a las convocatorias y convenios correspondientes.
 
 Formular, promover y fomentar programas de apoyo a los investigadores mexicanos para motivar su permanencia en territorio nacional o su repatriación para incorporarse a los sectores académico, productivo o de servicios.
 
@@ -177,7 +183,9 @@ XII. Coordinar el SINACPIS en términos de la Ley y demás disposiciones legales
 
 Validar los programas institucionales de las Entidades Coordinadas.
 
-Coordinar la creación y funcionamiento de la Red Nacional de Grupos y Centros de Investigación, con objeto de definir estrategias y programas conjuntos, articular acciones, potenciar recursos humanos y financieros, optimizar infraestructura, propiciar intercambios y concentrar esfuerzos en áreas relevantes para el desarrollo nacional, así como formular estudios y programas orientados a incentivar la investigación, fortalecer y multiplicar grupos de investigadores y fomentar la movilidad entre éstos; proponer la creación de nuevos grupos y centros, así como crear redes en áreas estratégicas del conocimiento.
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+Coordinar la creación y funcionamiento de la Red Nacional de Grupos y Centros de Investigación, con objeto de definir estrategias y programas conjuntos, articular acciones, potenciar recursos, optimizar infraestructura, propiciar intercambios y concentrar esfuerzos en áreas relevantes para el desarrollo nacional, así como formular estudios y programas orientados a incentivar la investigación, fortalecer y multiplicar grupos de investigadores y fomentar la movilidad entre éstos; proponer la creación de nuevos grupos y centros, así como crear redes en áreas estratégicas del conocimiento.
 
 Crear, reconocer, fusionar, liquidar, enajenar, transferir, extinguir o desincorporar centros públicos de investigación, acorde a las disposiciones legales y administrativas aplicables, con base en criterios de oportunidad de desarrollo y vinculación con necesidades y prioridades, tomando en cuenta la opinión del Foro y para efectos presupuestales, la de la SHCP.
 
@@ -197,9 +205,11 @@ XVI. Conducir y operar el SNI, estableciendo sus objetivos, facultades, responsa
 
 XVII. Formular los programas relacionados con la bioseguridad y la biotecnología, en términos de las disposiciones nacionales e internacionales aplicables, así como operar en el ámbito de su competencia, los instrumentos de apoyo establecidos en las mismas.
 
-XVIII. Promover y fomentar, a través de los instrumentos establecidos en la Ley, la Ley Orgánica, la Ley de Bioseguridad, el presente Estatuto y las demás disposiciones legales y administrativas aplicables, la investigación científica, el desarrollo tecnológico y la innovación de las empresas e instituciones y el impulso para la formación de recursos humanos de alto nivel.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
-Promover la vinculación de los recursos humanos en materia de ciencia, tecnología e innovación con los sectores público, social y privado.
+XVIII. Promover y fomentar, a través de los instrumentos establecidos en la Ley, la Ley Orgánica, la Ley de Bioseguridad, el presente Estatuto y las demás disposiciones legales y administrativas aplicables, la investigación científica, el desarrollo tecnológico y la innovación de las empresas e instituciones y el impulso para la formación de alto nivel de personas humanistas, científicas, tecnólogas e innovadoras.
+
+Promover la vinculación de las personas humanistas, científicas, tecnólogas e innovadoras con los sectores público, social y privado.
 
 XIX. Expedir las reglas de operación de los programas sustantivos del Consejo o sus modificaciones, establecidos en el Decreto de Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente, sin necesidad de autorización posterior alguna.
 
@@ -357,7 +367,7 @@ B. Unidades:
 
 a) Unidad de Articulación Sectorial y Regional.
 
-b) Unidad de Planeación, Comunicación y Cooperación Internacional.
+b) (DEROGADO, D.O.F. 2 DE FEBRERO DE 2023)
 
 c) Unidad de Asuntos Jurídicos.
 
@@ -375,9 +385,9 @@ D. Coordinaciones:
 
 a) Coordinación de Apoyos a Becarios e Investigadores
 
-> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
-b) Coordinación de Comunicación.
+b) Coordinación de Comunicación y Cooperación Internacional.
 
 c) Coordinación de Repositorios, Investigación y Prospectiva.
 
@@ -397,15 +407,15 @@ a) Comisión Asesora.
 
 b) Foro Consultivo Científico y Tecnológico.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 9.
 
-Las Unidades Administrativas estarán adscritas a la Dirección General, con excepción de la Coordinación de Apoyos a Becarios e Investigadores y la Coordinación de Comunicación, que estarán adscritas a la Dirección Adjunta de Desarrollo Científico y a la Unidad de Planeación, Comunicación y Cooperación Internacional, respectivamente.
+Las Unidades Administrativas estarán adscritas a la Dirección General, con excepción de la Coordinación de Apoyos a Becarios e Investigadores, que estará adscrita a la Dirección Adjunta de Desarrollo Científico.
 
-> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
-Las Unidades Administrativas, a su vez, estarán integradas de las áreas que abajo se enuncian, cuyas facultades se establecerán en los Manuales de Organización que al efecto se expidan.
+Las Unidades Administrativas, a su vez, estarán integradas de las áreas que abajo se enuncian, cuyas facultades se establecerán en los manuales de organización que al efecto se expidan.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2020)</small>
 
@@ -417,9 +427,33 @@ A. Dirección General
 
 Dirección de Vinculación y Enlace Nacional e Internacional
 
+> <small>(ADICIONADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+Dirección de Planeación y Evaluación
+
+> <small>(ADICIONADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+a) Coordinación de Comunicación y Cooperación Internacional
+
+> <small>(ADICIONADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+Dirección de Comunicación
+
+> <small>(ADICIONADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+Dirección de Difusión Científica
+
+> <small>(ADICIONADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+Dirección de Acceso Universal al Conocimiento
+
+> <small>(ADICIONADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+Dirección de Cooperación Internacional
+
 > <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
 
-a) Coordinación de Repositorios, Investigación y Prospectiva
+b) Coordinación de Repositorios, Investigación y Prospectiva
 
 Dirección de Infraestructura y Soporte Operativo
 
@@ -443,11 +477,17 @@ Dirección de Redes Horizontales del Conocimiento e Infraestructura Científica
 
 a) Coordinación de Apoyos a Becarios e Investigadores
 
-Dirección de Posgrado
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
-Dirección de Becas
+Dirección de Apoyos para la Consolidación de la Comunidad Científica
 
-Dirección de Vocaciones Científicas y SNI
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+Dirección de Becas y Posgrado
+
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+Dirección del Sistema Nacional de Investigadores
 
 Dirección de Análisis Estratégico
 
@@ -481,19 +521,7 @@ Dirección Regional 6 Occidente
 
 Dirección de Articulación de Centros de Investigación
 
-> <small>(REFORMADA [N. DE E. CON SUS DEPENDENCIAS], D.O.F. 2 DE JUNIO DE 2020)</small>
-
-IV. Unidad de Planeación, Comunicación y Cooperación Internacional
-
-Dirección de Planeación y Evaluación
-
-Dirección de Acceso Universal al Conocimiento
-
-Dirección de Cooperación Internacional
-
-a) Coordinación de Comunicación
-
-Dirección de Contenidos, Producción Editorial y Audiovisual
+IV. (DEROGADA, D.O.F. 2 DE FEBRERO DE 2023)
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE JUNIO DE 2020)</small>
 
@@ -509,7 +537,9 @@ VI. Unidad de Administración y Finanzas
 
 Dirección de Administración Presupuestal y Financiera
 
-Dirección de Recursos Humanos
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+Dirección de Personal
 
 Dirección de Recursos Materiales y Servicios Generales
 
@@ -527,11 +557,15 @@ Dirección de Políticas y Normativa
 
 VIII. Órgano Interno de Control
 
-Área de Auditoría Interna (Subcontralor)
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+Área de Auditoría Interna, de Desarrollo y Mejora de la Gestión Pública
 
 Área de Responsabilidades
 
-Área de Quejas
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+Área de Quejas, Denuncias e Investigaciones
 
 ### Capítulo Segundo. Junta de Gobierno
 
@@ -587,9 +621,11 @@ I. Conocer de las disposiciones normativas que en su carácter de organismo desc
 
 II. Emitir los lineamientos que definan la autonomía técnica, operativa y administrativa del Consejo, conforme a las disposiciones jurídicas aplicables.
 
-III. Aprobar los criterios específicos que, en su caso, se requieran para la constitución, administración, operación, modificación o extinción de convenios, contratos de fideicomiso y reglas de operación, relativos a los fondos previstos en la Ley.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
-IV. Aprobar los modelos de convenios de colaboración, contratos de fideicomiso y reglas de operación, para la constitución de los fondos previstos en la Ley.
+III. Aprobar los criterios específicos que, en su caso, se requieran para la extinción de convenios, contratos de fideicomiso y reglas de operación, relativos a los fondos previstos en la Ley.
+
+IV. (DEROGADA, D.O.F. 2 DE FEBRERO DE 2023)
 
 V. Vigilar el ejercicio de recursos públicos de la administración por resultados, así como los criterios de austeridad, racionalidad y disciplina presupuestaria que sean aplicables al Consejo, en términos de lo dispuesto por el Decreto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal correspondiente.
 
@@ -781,7 +817,9 @@ Asistir y participar en las reuniones de órganos de gobierno o cuerpos colegiad
 
 III. Prestar atención y seguimiento a la gestión de la Unidad Administrativa y la estructura orgánica bajo su cargo.
 
-Asimismo, celebrar, otorgar y suscribir toda clase de actos y documentos relacionados con el objeto de la Unidad de Administración y Finanzas.
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+Asimismo, celebrar, otorgar y suscribir toda clase de actos y documentos relacionados con el objeto de la Unidad Administrativa.
 
 IV. Someter a la aprobación del Director General los estudios y proyectos que elaboren las Unidades Administrativas a su cargo.
 
@@ -805,9 +843,11 @@ XI. Someter a la autorización del Director General por conducto de la Unidad de
 
 XII. Establecer, desarrollar y ejecutar las acciones necesarias para la descentralización de los instrumentos de apoyo a la ciencia, tecnología e innovación.
 
-XIII. Participar en el ámbito de su competencia en la creación y operación de los fondos establecidos conforme a la Ley.
+XIII. (DEROGADA, D.O.F. 2 DE FEBRERO DE 2023)
 
-XIV. Instrumentar la planeación, constitución, operación, control, seguimiento administrativo y técnico, y evaluación, de los fondos bajo la responsabilidad del Consejo conforme a la Ley; así como de los Programas presupuestales a su cargo o en los que participe conforme las facultades que en cada uno de ellos se le otorgue.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+XIV. Instrumentar la planeación, constitución, operación, control, seguimiento administrativo y técnico, y evaluación de los Programas presupuestales a su cargo o en los que participe conforme las facultades que en cada uno de ellos se le otorgue.
 
 XV. Expedir las certificaciones de documentos que obren en sus archivos.
 
@@ -845,7 +885,9 @@ Corresponde a la Dirección Adjunta de Desarrollo Científico:
 
 I. Establecer y coordinar políticas de investigación en los distintos ámbitos del conocimiento humanístico y científico, así como evaluar y dar seguimiento a los proyectos que presentan los sujetos de apoyo en respuesta a dichas políticas. Dirigir la atención a las demandas específicas de las dependencias y entidades de la Administración Pública Federal, y coordinar en conjunto con la comunidad científica la identificación de áreas de conocimiento prioritarias en materia científica y humanística.
 
-II. Promover políticas y estrategias para la promoción de vocaciones científicas, la formación y consolidación de la comunidad científica y dirigir la operación de los programas de Posgrado y Becas, así como el Sistema Nacional de Investigadores, en los términos de las disposiciones legales y administrativas aplicables, y proponer a las instancias correspondientes las modificaciones pertinentes para garantizar su pertinencia y viabilidad.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+II. Promover políticas y estrategias para la formación y consolidación de la comunidad científica y dirigir la operación de los programas de Posgrado y Becas, así como el Sistema Nacional de Investigadores, en los términos de las disposiciones legales y administrativas aplicables, y proponer a las instancias correspondientes las modificaciones pertinentes para garantizar su pertinencia y viabilidad.
 
 III. Planear y dirigir políticas de largo plazo en investigación científica de frontera, priorizando los campos de conocimientos en los que el país pueda tener liderazgo e impulsar y dirigir Programas Nacionales Estratégicos de investigación orientada a resolver los problemas nacionales prioritarios a través de la colaboración científica inter-institucional y de grupos de investigación inter y multidisciplinarios en colaboración con los agentes involucrados en el problema y en su eventual solución.
 
@@ -855,25 +897,31 @@ V. Establecer políticas y acciones que apoyen la ampliación, consolidación y 
 
 VI. Establecer en colaboración con la Dirección de Cooperación internacional y en el ámbito de su competencia acuerdos internacionales de colaboración científica.
 
-VII. Establecer con otras Unidades Administrativas la articulación transversal de las demandas de los sectores público, social y privado hacia la solución de problemas nacionales, a través de la consolidación de los Fondos del Consejo.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+VII. Establecer con otras Unidades Administrativas la articulación transversal de las demandas en materia de desarrollo científico de los sectores público, social y privado orientadas a la solución de problemas nacionales.
 
 VIII. Autorizar en el ámbito de su competencia, la definición de los ordenamientos internos necesarios para la operación, el seguimiento y la evaluación de los programas y proyectos de Desarrollo Científico.
 
 IX. Planear en coordinación con las Unidades Administrativas en los ámbitos de sus competencias: la formación y consolidación de la comunidad científica y humanística de alto nivel; la realización de estudios de prospectiva Nacional y de procesos de evaluación de sus programas; y a solicitud expresa, brindar asesoría a las dependencias y entidades de la administración pública federal, así como, a los gobiernos de las entidades federativas, a los municipios y demás organismos del sector público, social y privado; y evaluar la pertinencia de creación de centros de investigación en materia de ciencia.
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
-X. En conjunto con la Unidad de Planeación, Comunicación y Cooperación Internacional impulsar programas de formación de vocaciones científicas y coadyuvar en el desarrollo de programas destinados a la difusión y apropiación social del conocimiento y la promoción de la cultura científica, tecnológica y de innovación.
+X. En conjunto con la Coordinación de Comunicación y Cooperación Internacional contribuir en el desarrollo de programas destinados a la difusión y apropiación social del conocimiento y la promoción de la cultura científica, tecnológica y de innovación.
 
 XI. Establecer y coordinar estrategias de inclusión de las poblaciones sub representadas que garanticen igualdad de oportunidades y equidad de género, en todas las convocatorias y los procesos de evaluación a cargo de la Dirección Adjunta de Desarrollo Científico.
 
-XII. Planear, en conjunto con las demás Unidades Administrativas, los mecanismos para la constitución, operación, control y seguimiento administrativo y técnico y la evaluación de los fondos bajo responsabilidad del Consejo conforme a la Ley; así como los programas presupuestales a su cargo o en los que participe conforme a las facultades que en cada una (sic) de ellos se le otorgue.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+XII. Planear, en conjunto con las demás Unidades Administrativas, los mecanismos para la constitución, operación, control y seguimiento administrativo y técnico y la evaluación de los programas presupuestales a su cargo o en los que participe conforme a las facultades que en cada una (sic) de ellos se le otorgue.
 
 ###### Artículo 23.
 
 Corresponde a la Dirección Adjunta de Desarrollo Tecnológico, Vinculación e Innovación:
 
-I. Instrumentar y dirigir la planeación, constitución, operación, control, seguimiento técnico-administrativo y evaluación de los fondos, programas y proyectos bajo su responsabilidad, conforme a la Ley y priorizando el uso eficiente y eficaz de los recursos de los que dispone directamente el Consejo, siguiendo principios incluyentes, éticos y debidamente fundamentados.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+I. Instrumentar y dirigir la planeación, constitución, operación, control, seguimiento técnico-administrativo y evaluación de los programas y proyectos bajo su responsabilidad, conforme a la Ley y priorizando el uso eficiente y eficaz de los recursos de los que dispone directamente el Consejo, siguiendo principios incluyentes, éticos y debidamente fundamentados.
 
 II. Coordinar la formulación del Plan Nacional para la Innovación, el cual promoverá el desarrollo de la Innovación Abierta, sostenible y enfocada en prioridades nacionales identificadas en los PRONACES, a través del Modelo Pentahélice con el fin de promover el bienestar social, el cuidado al ambiente y el desarrollo sustentable del país.
 
@@ -887,7 +935,9 @@ VI. Promover en coordinación con la Dirección Adjunta de Desarrollo Científic
 
 VII. Establecer políticas y acciones que apoyen la ampliación, consolidación y uso eficiente y eficaz de la infraestructura de desarrollo tecnológico e innovación y evaluar la infraestructura actual del sector que tenga estos fines, y en su caso, promover la creación de nueva infraestructura de desarrollo tecnológico e innovación en temas prioritarias (sic) para el país, en coordinación con la Unidad de Articulación Sectorial y Regional.
 
-VIII. Establecer con otras Unidades Administrativas la articulación transversal de las demandas de los sectores público, social y privado hacia la solución de problemas nacionales y emergentes, a través de la consolidación de los Fondos del Consejo.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+VIII. Establecer con otras Unidades Administrativas la articulación transversal de las demandas en materia de desarrollo tecnológico de los sectores público, social y privado orientadas a la solución de problemas nacionales y emergentes.
 
 IX. Coordinar actividades y formalizar instrumentos y acciones en materia de desarrollo tecnológico e innovación con las dependencias y entidades de la Administración Pública Federal, estatal y municipal, en el ámbito regional, para promover la descentralización y el desarrollo equilibrado de todo el país; así como, la incorporación de personal especializado a estos sectores en coordinación con las instancias competentes del Consejo.
 
@@ -901,7 +951,9 @@ XIII. Identificar e incentivar en colaboración con las instancias pertinentes, 
 
 XIV. Dirigir la formación de alianzas y redes públicas y privadas regionales, nacionales e internacionales, que promuevan proyectos de investigación basados en conocimiento científico listo para evolucionar a sus etapas de desarrollo tecnológico e innovación, que generen soluciones sustentables a prioridades nacionales identificadas en los PRONACES y que se traduzcan en bienestar social y cuidado ambiental.
 
-XV. Implementar en el ámbito de su competencia y de acuerdo con los criterios generales enunciados en la fracción I de este artículo, acuerdos de colaboración y acciones en materia de desarrollo tecnológico y de innovación entre entidades de los sectores académico, público, social y privado, tanto nacionales como internacionales en colaboración con la Unidad de Planeación, Comunicación y Cooperación Internacional.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+XV. Implementar en el ámbito de su competencia y de acuerdo con los criterios generales enunciados en la fracción I de este artículo, acuerdos de colaboración y acciones en materia de desarrollo tecnológico y de innovación entre entidades de los sectores académico, público, social y privado, tanto nacionales como internacionales en colaboración con la Coordinación de Comunicación y Cooperación Internacional.
 
 XVI. Autorizar la realización de diagnósticos y estudios de prospectiva de desarrollo tecnológico e innovación nacionales e internacionales sobre los diferentes sectores del Modelo Pentahélice, colaborando con los comités intersectoriales y las Unidades Administrativas del Consejo que corresponda para implementar las acciones derivadas de los mismos, en cumplimiento de la ley.
 
@@ -919,7 +971,9 @@ II. Articular a nivel regional los programas prioritarios del Consejo que impuls
 
 III. Representar al Consejo como Secretario Técnico de la Conferencia Nacional de Ciencia y Tecnología y coordinar las acciones inherentes a lo establecido en las Bases de Funcionamiento de la misma.
 
-IV. Definir e implementar los mecanismos y criterios para el seguimiento técnico de los proyectos, programas y acciones que reciben o han recibido apoyo de los recursos fiscales o Fondos del Consejo orientados al desarrollo estatal y regional.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+IV. Definir e implementar los mecanismos y criterios para el seguimiento técnico de los proyectos, programas y acciones orientados al desarrollo estatal y regional que reciben o han recibido apoyo del Consejo.
 
 V. Propiciar la colaboración y definir e implementar mecanismos de coordinación entre las Unidades Administrativas del Consejo para que sus programas institucionales y acciones logren los impactos esperados en las diferentes regiones y entidades federativas del país.
 
@@ -955,137 +1009,9 @@ XX. Planear posibles transformaciones de las entidades paraestatales reconocidas
 
 XXI. Consolidar la función del CONACYT como el eje rector del SNCTI para detectar y atender las problemáticas nacionales, regionales y locales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 2 DE JUNIO DE 2020)</small>
-
 ###### Artículo 25.
 
-Corresponde a la Unidad de Planeación, Comunicación y Cooperación Internacional:
-
-I. Coordinar la formulación de la sección referente a humanidades, ciencias, tecnologías e innovación del Plan Nacional de Desarrollo, en coordinación con las Unidades Administrativas.
-
-II. Coordinar la formulación de las políticas nacionales en materia de ciencia, tecnología e innovación, expresándolas en el Programa Especial; además establecer la articulación y planeación del Programa Institucional de Mediano Plazo y del Programa Anual de Trabajo del Consejo.
-
-III. Diseñar estrategias de coordinación intersectorial que permitan el cumplimiento de los objetivos establecidos en el Programa Especial.
-
-IV. Dirigir la elaboración de todos los informes del sector que solicite el Ejecutivo y el Legislativo, incluyendo el de Gobierno, Ejecución del Plan Nacional de Desarrollo, Autoevaluación, de actividades, compromisos e instrucciones presidenciales.
-
-V. Determinar, en coordinación con la Coordinación de Apoyos a Becarios e Investigadores, las necesidades de personal especializado de los sectores de la sociedad, regiones y entidades federativas del país.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-VI. Elaborar anualmente los indicadores de las Actividades Científicas y Tecnológicas, así como la Cuenta Nacional de Ciencia, Tecnología e Innovación.
-
-VII. Publicar anualmente el Informe General del Estado de la Ciencia, la Tecnología y la Innovación en México, y coordinar otros estudios de análisis y prospectiva.
-
-VIII. Establecer las estadísticas, variables de seguimiento e indicadores del sector para medir los resultados de la política de ciencia, tecnología e innovación, según normas internacionales.
-
-IX. Coordinar con las dependencias y entidades estatales de ciencia y tecnología la construcción de series históricas de datos en el sector y la elaboración de sus sistemas de contabilidad del gasto.
-
-X. Coordinar la realización de encuestas para la obtención de información requerida por el Consejo.
-
-XI. Coordinar la participación del Consejo ante el grupo de expertos en indicadores de ciencia y tecnología de la OCDE, ante la Red Iberoamericana de Indicadores de Ciencia y Tecnología y otras instancias internacionales de estadísticas en la materia.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XII. Dirigir la instrumentación, coordinación, ejecución, operación, seguimiento y evaluación anual del Programa Especial.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XIII. Coordinar la implementación y presentación de resultados del Programa Anual de Evaluación del Consejo.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XIV. Coordinar las actividades relacionadas con el diseño, revisión y seguimiento de la Matriz de Indicadores de Resultados de los programas presupuestarios del Consejo.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XV. Establecer y verificar la aplicación y resultados de la metodología, lineamientos e indicadores de evaluación de programas y fondos científicos y tecnológicos.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XVI. Coordinar la alineación de reglas de operación de programas y fondos con la política de ciencia, tecnología e innovación del país, así como con los sistemas de información del Consejo y los programas anuales de evaluación.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XVII. Planear la coordinación del Comité Intersecretarial para la Integración del Presupuesto Federal en materia de ciencia, tecnología e innovación.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XVIII. Conducir y administrar el SINECYT, fijando sus objetivos, funciones y forma de organización dentro de las disposiciones normativas que al efecto se expidan.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XIX. Representar al Consejo en materia de planeación, elaboración de estadísticas e indicadores, así como en los ámbitos en que sea requerido, con el Instituto Nacional de Estadística y Geografía, entre otros.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XX. Planear prioridades y criterios de asignación del gasto en ciencia, tecnología e innovación del Ramo Presupuestal del Consejo, en coordinación con las Unidades Administrativas correspondientes.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XXI. Determinar, en coordinación con la Unidad de Administración y Finanzas, la integración de la propuesta de estructura programática y la elaboración de la exposición de motivos del Presupuesto de Egresos de la Federación a emplear en cada ejercicio presupuestal.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XXII. Establecer vínculos con los proyectos, organismos y editores asociados a las publicaciones científicas periódicas y coordinar acciones para conformar una política de desarrollo en este ámbito a nivel nacional.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XXIII. Integrar y coordinar la implementación del Programa Anual de Evaluación del Consejo, vigilando el cumplimiento de la normativa establecida en la materia para los programas públicos federales, así como para las dependencias y entidades de la administración pública federal.
-
-Diseñar la estrategia de evaluación de los resultados y el impacto de los programas y proyectos gubernamentales de ciencia, tecnología e innovación coordinados por el Consejo.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XXIV. Coordinar las políticas transversales de Acceso Abierto y Ciencia Abierta del Consejo.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XXV. Establecer las líneas estratégicas en materia de cooperación internacional en ciencia y tecnología y determinar las modalidades de cooperación internacional que se implementarán para contribuir a la solución de necesidades y prioridades nacionales.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XXVI. Coordinar las acciones de cooperación internacional del Consejo con la finalidad de mantener una comunicación eficiente con las Unidades Administrativas y la Dirección General.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XXVII. Establecer líneas de negociación para acuerdos, memorándums de entendimiento, convenios, cartas de intención y otros instrumentos con actores internacionales (gubernamentales, multilaterales, universidades, centros de investigación y otros) para establecer los términos y los compromisos de cooperación internacional del Consejo en materia de investigación científica, desarrollo tecnológico, innovación, movilidad y formación especializada de la comunidad académica, científica, tecnológica y de innovación.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XXVIII. Representar al Consejo y al Director General en reuniones bilaterales, multilaterales, foros y organismos científicos y tecnológicos internacionales, cuando se requiera.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XXIX. Diseñar, coordinar, evaluar y dar seguimiento, en el ámbito de su competencia, a los programas de cooperación internacional.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XXX. Planear acciones que impulsen y fortalezcan la presencia y participación de México en materia de ciencia y tecnología en foros internacionales y organismos multilaterales.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XXXI. Coordinar la agenda internacional del Consejo e integrar las comunicaciones y concertación de encuentros en México y el extranjero.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XXXII. Promover compromisos y acciones de cooperación internacional prioritarios para el Consejo y que estén en concordancia con los lineamientos y objetivos de política exterior que se establecen en el Plan Nacional de Desarrollo.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XXXIII. Coordinar las actividades de difusión que promuevan el acceso universal al conocimiento científico, tecnológico y de innovación realizado en el país.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XXXIV. Promover la capacitación en escritura científica.
-
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XXXV. Realizar traducciones y revisar textos en inglés o idiomas extranjeros, así como dictaminar textos y contenidos científicos y de divulgación científica, y las demás actividades que contribuyan a la promoción del acceso universal al conocimiento.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 2 DE JUNIO DE 2020)</small>
-
-XXXVI. Elaborar los lineamientos estratégicos para la difusión de la ciencia.
+(DEROGADO, D.O.F. 2 DE FEBRERO DE 2023)
 
 ###### Artículo 26.
 
@@ -1103,7 +1029,9 @@ IV. Participar en la formulación de los proyectos de creación, modificación o
 
 Además, establecer los lineamientos para la difusión, publicación y sistematización de la normativa del Consejo y del sector que coordina, que deberán contemplar como medio preferente de difusión al SIICYT.
 
-V. Revisar, validar, opinar o dictaminar sobre los aspectos jurídicos de los documentos, instrumentos normativos y demás asuntos que tengan relación con las materias competencia del Consejo, que sean sometidas a su consideración por las Unidades Administrativas, los Fondos del Consejo y los Centros Públicos de Investigación.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+V. Revisar, validar, opinar o dictaminar sobre los aspectos jurídicos de los documentos, instrumentos normativos y demás asuntos que tengan relación con las materias competencia del Consejo, que sean sometidas a su consideración por las Unidades Administrativas y los Centros Públicos de Investigación.
 
 VI. Fungir como enlace institucional, sobre aspectos jurídicos, con los organismos constitucionalmente autónomos, las dependencias y entidades de la Administración Pública Federal, las cámaras del Congreso General, los Congresos locales, y los gobiernos estatales y municipales.
 
@@ -1115,7 +1043,7 @@ Por otro lado, asesorar jurídicamente a las Unidades Administrativas y a las de
 
 VIII. Revisar en sus aspectos jurídicos los proyectos de convenios, contratos y otros instrumentos jurídicos en los que el Consejo sea parte, así como llevar a cabo su registro.
 
-IX. Asesorar jurídicamente a las Unidades Administrativas y demás instancias competentes en los asuntos relacionados con los Fondos del Consejo y los Fondos de Investigación.
+IX. (DEROGADA, D.O.F. 2 DE FEBRERO DE 2023)
 
 X. Validar y registrar los nombramientos que emita la Dirección General y las Unidades Administrativas, así como las autorizaciones que, para representarlos, expidan los titulares de las Unidades Administrativas conforme a este Estatuto Orgánico y las disposiciones aplicables.
 
@@ -1157,7 +1085,9 @@ Corresponde a la Unidad de Administración y Finanzas:
 
 I. Dirigir la administración del patrimonio y los recursos financieros, materiales y humanos del Consejo, así como participar en la coordinación sectorial de las políticas de planeación, programación y presupuestación.
 
-II. Participar, en coordinación con la Unidad de Planeación, Comunicación y Cooperación Internacional, en la integración de la propuesta de estructura programática para cada ejercicio presupuestal.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+II. Participar en la integración de la propuesta de estructura programática para cada ejercicio presupuestal.
 
 III. Fungir como instancia administrativa única para tramitar ante la SHCP las solicitudes y consultas en materia presupuestaria y contable, y ante la Función Pública en materia organizacional y de administración de personal de las entidades del Ramo 38.
 
@@ -1171,11 +1101,15 @@ VII. Dirigir las acciones en materia de adquisiciones y servicios del Consejo.
 
 VIII. Dirigir el control de los archivos institucionales, y los mecanismos para su organización y conservación.
 
-IX. Coordinar la integración de la información financiera y proporcionar soporte operativo a los Fondos.
+IX. (DEROGADA, D.O.F. 2 DE FEBRERO DE 2023)
 
-X. Administrar los fondos institucionales salvo en aquellos en que se faculte a otra Unidad Administrativa.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
-XI. Coordinar, en colaboración con la Unidad de Asuntos Jurídicos, la modificación o extinción de los fondos, en términos de lo dispuesto por la Ley.
+X. Administrar los programas institucionales salvo en aquellos en que se faculte a otra Unidad Administrativa.
+
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+XI. Coordinar, en colaboración con la Unidad de Asuntos Jurídicos, la extinción de los fondos, en términos de lo dispuesto por la normativa aplicable.
 
 XII. Planear y dirigir el cumplimiento del Programa de Seguridad y Vigilancia en las instalaciones del Consejo, así como el Programa de Protección Civil, de conformidad con la normativa y lineamientos aplicables.
 
@@ -1325,111 +1259,141 @@ XXVII. Verificar, desde su desarrollo y hasta su conclusión, que los proyectos 
 
 Corresponde a la Coordinación de Apoyos a Becarios e Investigadores, adscrita a la Dirección Adjunta de Desarrollo Científico:
 
-I. Establecer y coordinar el financiamiento del programa de becas y de apoyos al fomento, formación, desarrollo, consolidación y vinculación de la comunidad científica, así como establecer los términos y suscribir las convocatorias y convenios con instituciones nacionales de los tres niveles de gobierno, organismos internacionales y gobiernos extranjeros, que para tal efecto se emitan. En el caso de los convenios internacionales, en colaboración con la Unidad de Planeación, Comunicación y Cooperación Internacional.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
-II. Establecer políticas y estrategias inclusivas para la implementación de programas de fomento, formación y consolidación de la comunidad científica y de conocimiento, atendiendo a las prioridades institucionales en el nivel local, regional y nacional a través de los instrumentos establecidos en la Ley para beneficio del país.
+I. Establecer y coordinar el financiamiento de programas de becas y de apoyos a la formación, consolidación y vinculación de la comunidad científica, así como establecer los términos y suscribir las convocatorias y convenios con instituciones nacionales de los tres niveles de gobierno, organismos internacionales y gobiernos extranjeros, que para tal efecto se emitan. En el caso de los convenios internacionales, en colaboración con la Coordinación de Comunicación y Cooperación Internacional.
 
-III. Coordinar programas y alianzas estratégicas con instituciones de educación superior y organismos, nacionales e internacionales, que permitan impulsar la formación y el desarrollo de la capacidad científica y tecnológica del país, en el caso de las instituciones y organismos internacionales, en coordinación con la Unidad de Planeación, Comunicación y Cooperación Internacional.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
-IV. Establecer criterios y condiciones para la operación de los instrumentos de apoyo de los programas o subprogramas del Consejo orientados al fomento, formación, desarrollo, consolidación y vinculación de la comunidad científica y de conocimiento, considerando los criterios de inclusión y descentralización, así como la atención a grupos sociales subrepresentados y la formación de servidores públicos.
+II. Establecer políticas y estrategias inclusivas para la implementación de programas de formación y consolidación de la comunidad científica, atendiendo a las prioridades institucionales en el nivel local, regional y nacional a través de los instrumentos establecidos en la Ley para beneficio del país.
 
-V. Establecer, en el ámbito de su competencia, acuerdos de colaboración en materia de formación de la comunidad científica y de conocimiento, tanto nacionales como internacionales, en estos últimos se observarán los principios de reciprocidad y de atención a las prioridades nacionales, en todo caso, con la asistencia de la Unidad de Planeación, Comunicación y Cooperación Internacional.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
-VI. Coordinar las estrategias de promoción y fomento de vocaciones científicas y tecnológicas de niñas, niños y jóvenes mediante programas orientados a potenciar su desarrollo en actividades de investigación y desarrollo científico.
+III. Coordinar programas y alianzas estratégicas con instituciones de educación superior y organismos, nacionales e internacionales, que permitan impulsar la formación y el desarrollo de la capacidad científica y tecnológica del país, en el caso de las instituciones y organismos internacionales, en coordinación con la Coordinación de Comunicación y Cooperación Internacional.
+
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+IV. Establecer criterios y condiciones para la operación de los instrumentos de apoyo de los programas del Consejo orientados a la formación, consolidación y vinculación de la comunidad científica, considerando los criterios de inclusión y descentralización, la atención a grupos sociales subrepresentados y la asignación de los apoyos a las personas beneficiarias de manera directa y sin intermediarios.
+
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+V. Establecer, en el ámbito de su competencia, acuerdos de colaboración en materia de formación de la comunidad científica y de conocimiento, tanto nacionales como internacionales, en estos últimos se observarán los principios de reciprocidad y de atención a las prioridades nacionales, con la asistencia de la Coordinación de Comunicación y Cooperación Internacional.
+
+VI. (DEROGADA, D.O.F. 2 DE FEBRERO DE 2023)
 
 VII. Coordinar estrategias de apoyo para la consolidación de la comunidad científica y de conocimiento para su retención o repatriación, mediante mecanismos de cooperación nacional o internacional para el fortalecimiento de la planta nacional de investigadores y tecnólogos.
 
 VIII. Determinar estrategias de colaboración para promover y apoyar la consolidación integral de académicos e investigadores mexicanos y extranjeros residentes en el país que se incorporen al sector académico, de investigación, y productivo del país, en todas las áreas del conocimiento.
 
-IX. Establecer de manera conjunta con la SEP el Programa Nacional de Posgrados de Calidad en sus distintos niveles y modalidades, así como los mecanismos de coordinación y colaboración necesarios para incrementar la oferta y calidad de los programas, en todas las áreas del conocimiento, de conformidad con lo dispuesto en la Ley.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
-X. Coordinar acciones y colaborar con otras Unidades Administrativas del Consejo para la formación de la comunidad científica en el marco de diversos programas o subprogramas.
+IX. Establecer de manera conjunta con la SEP los mecanismos de coordinación y colaboración necesarios para promover programas de posgrado orientados a la investigación en todas las ciencias y humanidades, así como programas orientados a la profesionalización de las personas en las áreas y temas estratégicos o prioritarios para el desarrollo del país, incluyendo tecnologías e innovación.
 
-XI. Coordinar las acciones en materia de fomento, formación, desarrollo, consolidación y vinculación de la comunidad científica con los sectores integrantes del SNCTI, así como en el marco de los fondos regulados por la Ley y participar, en su caso, en la instrumentación de los diversos apoyos que se otorguen en la materia.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
-XII. Coordinar las acciones de generación de información de los programas del Consejo orientados al fomento, formación, desarrollo, consolidación y vinculación de la comunidad científica, a fin de atender las necesidades de acceso a la información en un marco de integración accesible, confiable, verificable, veraz y oportuna.
+X. Coordinar acciones y colaborar con otras Unidades Administrativas del Consejo para la formación de la comunidad científica en el marco de los programas institucionales.
 
-XIII. Coordinar los estudios de investigación y trabajos de evaluación de los programas a cargo de la Coordinación de Apoyos a Becarios e Investigadores en conjunto con la Unidad de Planeación, Comunicación y Cooperación Internacional.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
-XIV. Resolver los casos no previstos en materia de los apoyos relacionados con el fomento, formación, desarrollo, consolidación y vinculación de la comunidad científica en sus diferentes modalidades.
+XI. Coordinar las acciones en materia de formación, consolidación y vinculación de la comunidad científica con los sectores integrantes del SNCTI, y participar, en su caso, en la instrumentación de los diversos apoyos que se otorguen en la materia.
+
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+XII. Coordinar las acciones de generación de información de los programas del Consejo orientados a la formación, consolidación y vinculación de la comunidad científica, a fin de atender las necesidades de acceso a la información en un marco de integración accesible, confiable, verificable, veraz y oportuna.
+
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+XIII. Coordinar los estudios de investigación y trabajos de evaluación de los programas a cargo de la Coordinación de Apoyos a Becarios e Investigadores.
+
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+XIV. Resolver, con base en la opinión de la Unidad de Asuntos Jurídicos, los casos no previstos en materia de los apoyos relacionados con la formación, consolidación y vinculación de la comunidad científica en sus diferentes modalidades.
 
 XV. Coordinar el proceso de planeación, programación, ejercicio, evaluación, seguimiento y control del presupuesto de los recursos de los programas a cargo de la Coordinación, con base en criterios de honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género; con el propósito de contribuir al cumplimiento de las metas y objetivos institucionales.
 
 XVI. Determinar las estrategias de promoción para la formación de nuevos cuadros de científicos y tecnólogos que demandan las instituciones de educación superior e investigación, así como los centros de investigación y desarrollo tecnológico del país, tanto públicos como privados.
 
-XVII. Coordinar en colaboración con la SEP la evaluación de la calidad académica de los Programas de Posgrado que ofrecen las Instituciones de Educación Superior nacionales, en el marco del Programa Nacional de Posgrados de Calidad (PNPC).
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
-XVIII. Dirigir, en los términos de las disposiciones legales y administrativas aplicables, la conducción de la administración de todos los procesos y modalidades relativos a los apoyos económicos para la consolidación del posgrado nacional y para la formación de recursos humanos, en los términos aplicables de la normatividad que para tal efecto se emita.
+XVII. Operar el Sistema Nacional de Posgrados en términos de la normativa aplicable.
+
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+XVIII. Operar el Programa “Investigadoras e Investigadores por México”, en términos de la normativa aplicable.
 
 XIX. Coordinar los procesos de seguimiento, a través del titular, o mediante la delegación de funciones al personal de su área de adscripción para mantener comunicación con las Instituciones de Educación Superior, con los becarios y exbecarios en el marco del Programa de Becas de Posgrado y de Apoyos a la Calidad del Consejo.
 
-XX. Coordinar el funcionamiento de los Comités de Evaluación requeridos para la operación del PNPC y del Programa de Becas de Posgrado y Apoyos a la Calidad del Consejo.
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
+XX. Operar el SNI, en términos de la normativa aplicable.
 
 XXI. Dirigir la estrategia para el proceso de instrumentación y operación de las convocatorias que deriven del Programa de Becas de Posgrado y Apoyos a la Calidad del Consejo.
 
-XXII. Coordinar con el área que corresponda, la divulgación del PNPC, y del Programa de Becas de Posgrado y Apoyos a la Calidad del Consejo, para potenciar los beneficios derivados de las convocatorias y de los convenios nacionales e internacionales que suscriba el Consejo.
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2020)</small>
+XXII. Coordinar con el área que corresponda, la divulgación del Programa de Becas de Posgrado y Apoyos a la Calidad del Consejo, para potenciar los beneficios derivados de las convocatorias y de los convenios nacionales e internacionales que suscriba el Consejo.
+
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 30.
 
-Corresponde a la Coordinación de Comunicación, adscrita a la Unidad de Planeación, Comunicación y Cooperación Internacional:
+Corresponde a la Coordinación de Comunicación y Cooperación Internacional, adscrita a la Dirección General:
 
-I. Generar los comunicados oficiales, avisos y notas informativas de los hechos y actividades sustanciales de la institución para ser difundidos entre los medios de información, sitio web y redes sociales institucionales.
+I. Dirigir, en coordinación con la Dirección General y en comunicación eficiente con las Unidades Administrativas, las líneas estratégicas en materia de asuntos internacionales sobre humanidades, ciencias, tecnologías e innovación, y determinar las modalidades de cooperación internacional que se implementarán para contribuir a la solución de necesidades y prioridades nacionales.
 
-II. Coordinar la organización de ruedas de prensa institucionales.
+II. Establecer y coordinar colaboraciones, alianzas o vinculaciones, internas y externas, para fortalecer las estrategias de comunicación, difusión científica y cooperación internacional alineadas a las actividades institucionales.
 
-III. Buscar, registrar y sistematizar la información relacionada o en la que se mencione al Consejo en los medios noticiosos, a fin de elaborar síntesis informativas y distribuirlas entre los titulares de las Unidades Administrativas del Consejo.
+III. Coordinar la integración de la información y documentación necesaria para lograr los objetivos institucionales de comunicación social y difusión científica.
 
-IV. Establecer y mantener mecanismos de coordinación con las áreas de comunicación social de otras dependencias de la Administración Pública Federal y de otras instituciones, para la organización de ruedas de prensa y elaboración de comunicados conjuntos.
+IV. Solicitar los requerimientos en materia presupuestal para el cumplimiento del Programa Anual de Comunicación Científica y Tecnológica, así como la gestión de éste ante las instancias correspondientes.
 
-V. Fungir como enlace institucional con la Coordinación General de Comunicación Social y Vocería del Gobierno de la República.
+V. Dirigir el Programa Anual de Comunicación Científica y Tecnológica, incluyendo las campañas sobre los planes, programas y logros institucionales para su difusión en medios informativos electrónicos, impresos, digitales, complementarios, entre otros.
 
-VI. Mantener comunicación y diálogo con los representantes de medios informativos, a fin de atender y gestionar peticiones de información o aclaraciones.
+VI. Autorizar el uso de la imagen institucional con base en el manual de imagen determinado y la señalética institucional, ajustándolas al manual de identidad gráfica del Gobierno de México, así como autorizar y supervisar los distintos diseños de las publicaciones impresas, digitales, en redes sociales, audiovisuales y, en su caso, de elementos identificatorios de programas de televisión.
 
-VII. Gestionar las solicitudes de entrevistas de los representantes de medios informativos, así como pedir autorización de éstas ante las instancias correspondientes.
+VII. Controlar y administrar las distintas redes sociales institucionales, así como la página electrónica oficial del Consejo, y autorizar su contenido y diseño, para visibilizar las acciones en materia de humanidades, ciencias, tecnologías e innovación y dar a conocer a la población mexicana los programas, logros y actividades del Consejo.
 
-VIII. Registrar y mantener actualizado el Directorio de Medios.
+VIII. Autorizar comunicados oficiales, avisos, desmentidos, notas aclaratorias, gaceta institucional y notas informativas sobre las actividades sustanciales del Consejo para ser difundidos tanto en medios de información como en la página electrónica y las redes sociales institucionales. De la misma manera, autorizar la síntesis informativa y los informes de seguimiento en redes sociales y medios informativos de eventos coyunturales que tengan un impacto relevante para el Consejo, para su posterior difusión y manejo interno o externo.
 
-IX. Autorizar, previo acuerdo con la persona titular de la Dirección General, a las personas que integran el servicio público del Consejo para que publiquen o anuncien a la ciudadanía información por escrito o en formato electrónico, incluyendo grabaciones de audio o video, pronuncien discursos, concedan entrevistas o hagan apariciones públicas, en nombre o como representantes del Consejo.
+IX. Planear actividades institucionales como ruedas de prensa, sesiones informativas u otras relacionadas con la comunicación y difusión científica del Consejo.
 
-X. Solicitar información a las distintas Unidades Administrativas del Consejo para elaborar tarjetas informativas de apoyo para las personas que integran el servicio público del Consejo que sean entrevistados (sic), así como asistir a la Dirección General durante el desarrollo de las entrevistas.
+X. Establecer y mantener mecanismos de coordinación con la Vocería del Gobierno de la República, áreas de comunicación social de distintas dependencias de la Administración Pública Federal, otras instituciones y organismos, nacionales e internacionales, para ejecutar los objetivos institucionales en materia de comunicación.
 
-XI. Grabar, conservar y mantener actualizados los archivos temáticos con audios y fotografías derivados de las entrevistas.
+XI. Establecer comunicación y diálogo con los representantes de medios informativos, a fin de atender y gestionar las solicitudes de información, aclaraciones y entrevistas; así como registrar y mantener actualizado el directorio de medios.
 
-XII. Preservar y mantener actualizado el archivo fotográfico de las actividades institucionales realizadas por la Dirección General.
+XII. Autorizar, previo acuerdo con la Dirección General, la participación de las y los funcionarios del Consejo para dar a conocer información por escrito, o en formato electrónico, incluyendo grabaciones de audio o video, discursos, entrevistas o apariciones públicas, en nombre o como representantes del Consejo, así como los materiales o presentaciones que se pudieran utilizar.
 
-XIII. Coordinar la elaboración de las presentaciones para conferencias y eventos en los que participe la Dirección General.
+XIII. Autorizar el levantamiento, conservación, mantenimiento y uso del material fotográfico, videográfico, gráfico y audio de las actividades institucionales realizadas con la Dirección General y otras Unidades Administrativas del Consejo.
 
-XIV. Supervisar la elaboración de contenidos, incluyendo textos, gráficos y audiovisuales, que se requieran para ser publicados en el sitio web y las redes sociales institucionales del Consejo. Así como coordinar directamente la elaboración de dichos contenidos cuando estén relacionados con las actividades de la Dirección General.
+XIV. Supervisar y autorizar la elaboración de contenidos, incluyendo textos, gráficos y audiovisuales, que se requieran para ser publicados en el sitio web y las redes sociales del Consejo. Coordinar la elaboración de dichos contenidos cuando estén relacionados con las actividades de la Dirección General y los documentos programáticos, con base en el Programa Anual de Comunicación Científica y Tecnológica del Consejo, así como las campañas de difusión que apliquen.
 
-XV. Dirigir la elaboración de los materiales gráficos necesarios, la realización de pruebas de pre-producción y la producción de transmisiones en vivo (vía streaming) de conferencias de prensa, sesiones informativas, eventos o talleres en línea que sean solicitados con anticipación por las Unidades Administrativas del Consejo.
+XV. Dirigir y validar la elaboración de los materiales gráficos, la realización de pruebas de pre y posproducción, así como la producción de transmisiones en vivo y videos de conferencias de prensa, sesiones informativas, eventos o talleres en línea solicitados por la Dirección General y las Unidades Administrativas del Consejo.
 
-XVI. Registrar de manera sistematizada, en una parrilla de contenidos, todas las publicaciones realizadas en las redes sociales institucionales.
+XVI. Determinar las acciones de difusión y campañas de las actividades y políticas del Consejo, como las convocatorias, sus distintos procesos y otras acciones solicitadas por la Dirección General y las Unidades Administrativas del Consejo.
 
-XVII. Elaborar informes trimestrales con las notas informativas en las que se mencione al Consejo en los medios de comunicación, así como un registro de las publicaciones realizadas por la Coordinación de Comunicación en las redes sociales institucionales.
+XVII. Coordinar, diseñar, elaborar, editar y producir publicaciones impresas y digitales de difusión científica y avances de las acciones y políticas en humanidades, ciencias, tecnologías e innovación, tal como libros, revistas, boletines, gacetas, e-books, entre otros.
 
-XVIII. Planear, diseñar y elaborar un boletín digital (newsletter) con las noticias, datos y eventos relevantes de la institución para ser distribuida (sic) a través de correos electrónicos.
+XVIII. Expedir, aprobar, y diseñar los lineamientos editoriales para la difusión de las humanidades, ciencias, tecnologías e innovación, en áreas estratégicas del Consejo. Así como calificar y recomendar otras publicaciones generadas al interior del Consejo.
 
-XIX. Elaborar informes de seguimiento de temas coyunturales en redes sociales que tengan un impacto relevante para la institución.
+XIX. Coordinar la dictaminación de textos y contenidos para la difusión científica que promuevan la cultura en humanidades, ciencias, tecnologías e innovación en formato de libros, capítulos, ensayos, revistas y otros tanto digítales como impresos.
 
-XX. Solicitar los requerimientos en materia presupuestal para el cumplimiento del Plan Anual de Comunicación, así como la gestión de este ante las instancias correspondientes.
+XX. Coordinar y dirigir las diferentes etapas de la producción editorial, desde la recepción de propuestas originales y corrección de estilo, hasta la versión definitiva previa a la impresión, el proceso de imprenta, publicación y distribución de los materiales.
 
-XXI. Diseñar e instrumentar el Plan Anual de Comunicación, incluyendo las campañas de difusión con los planes, programas y logros institucionales en los medios de comunicación elegidos (electrónicos, impresos, digitales, complementarios, etc.)
+XXI. Coordinar el diseño, el arte y la formación de los exteriores e interiores de libros y otras publicaciones impresas y digitales. Así como, supervisar y autorizar los procesos de impresión y almacenaje digital de las publicaciones.
 
-XXII. Elaborar las parrillas de programación de contenidos para ser publicados en las redes sociales institucionales, ajustadas en la medida de lo posible con el Plan Anual de Comunicación y las campañas de difusión que apliquen.
+XXII. Determinar estrategias dirigidas a la difusión científica a través de la, escritura, edición y traducción del inglés u otros idiomas extranjeros, en la modalidad de artículos, ensayos, capítulos de libro, libros, revistas o boletines, ponencias, así como la capacitación en escritura de textos académicos.
 
-XXIII. Coordinar el diseño y producción de materiales impresos como libros, revistas, folletos, boletines, carteles, etc., así como libros digitales (ebook) y piezas de diseño gráfico como postales, infografías, imágenes, etc.
+XXIII. Planear y coordinar las actividades y mecanismos que fomenten el acercamiento de la comunidad en humanidades, ciencias, tecnologías e innovación a audiencias no especializadas, y socialicen los resultados de la investigación científica y el desarrollo tecnológico para contribuir a una política efectiva de acceso abierto al conocimiento científico.
 
-XXIV. Diseñar y elaborar el manual de imagen y la señalética institucional, ajustándolas al manual de identidad gráfica del Gobierno de México, así como proponer los diseños de las distintas publicaciones impresas, digitales, en redes sociales, audiovisuales y, en su caso, de elementos identificatorios de programas de tv.
+XXIV. Elaborar los lineamientos para promover la implementación de actividades de acceso universal a las humanidades, ciencias, tecnologías e innovación, desde un enfoque de inclusión de los grupos subrepresentados y el diálogo de saberes, con base en el reconocimiento de la diversidad biocultural del país.
 
-XXV. Mantener, ampliar y gestionar el sitio web del Consejo y los micrositios institucionales, desarrollando bases de datos, libros y otros productos digitales, en los casos que aplique.
+XXV. Determinar y coordinar líneas de negociación para acuerdos con organismos internacionales e instituciones extranjeras, para determinar mecanismos de cooperación internacional en materia de investigación humanística y científica, desarrollo tecnológico e innovación, así como movilidad y formación especializada de la comunidad científica.
 
-XXVI. Dirigir el diseño, producción y publicación de los materiales de difusión de las Convocatorias del Consejo.
+XXVI. Evaluar y coordinar la representación del Consejo y la Dirección General en reuniones bilaterales, multilaterales, foros y organismos científicos y tecnológicos internacionales, cuando así se determine.
 
-XXVII. Mantener y gestionar las distintas redes sociales institucionales.
+XXVII. Planear y autorizar las acciones y la agenda que impulsen y fortalezcan la presencia y participación de México, a través del Consejo, en materia de humanidades, ciencias, tecnologías e innovación a nivel internacional, en espacios relacionados con los asuntos de la política en la materia, así como en foros internacionales y organismos multilaterales para la solución de necesidades y prioridades nacionales.
 
-XXVIII. Diseñar contenidos editoriales y audiovisuales que promuevan las actividades del Consejo y el avance de los objetivos establecidos en el Programa Especial.
+XXVIII. Evaluar y autorizar compromisos y acciones de cooperación internacional prioritarios para el Consejo que estén en concordancia con los lineamientos y objetivos de política exterior que se establecen en el Plan Nacional de Desarrollo y el Programa Especial de Ciencia, Tecnología e Innovación; como la participación del Consejo en organismos internacionales o multilaterales, así como en organizaciones científicas internacionales, con base en su alineación a las prioridades nacionales.
 
 ###### Artículo 31.
 
@@ -1487,13 +1451,17 @@ XXIII. Establecer, procesar, analizar y difundir sistemáticamente la informaci�
 
 #### Sección V. Órgano Interno de Control
 
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 32.
 
-El Consejo contará con un Órgano Interno de Control que será parte de su estructura, al frente del cual estará el Titular de dicho Órgano, designado en términos de lo dispuesto por la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus funciones se auxiliará de los titulares de las áreas de Responsabilidades, Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública y de Quejas nombrados para el efecto.
+El Consejo contará con un Órgano Interno de Control que será parte de su estructura, al frente del cual estará el Titular de dicho Órgano, designado en términos de lo dispuesto por la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus funciones se auxiliará de los titulares de las áreas de Responsabilidades, de Auditoría Interna, de Desarrollo y Mejora de la Gestión Pública, y de Quejas, Denuncias e Investigaciones nombrados para el efecto.
+
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 33.
 
-El Titular del Órgano Interno de Control y los Titulares de las áreas de Responsabilidades, Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública y de Quejas, en el ámbito de sus respectivas competencias, tendrán las facultades que se señalan en el Reglamento Interior de la SFP y en los demás ordenamientos legales y administrativos aplicables.
+El Titular del Órgano Interno de Control y los Titulares de las áreas de Responsabilidades, de Auditoría Interna, de Desarrollo y Mejora de la Gestión Pública, y de Quejas, Denuncias e Investigaciones, en el ámbito de sus respectivas competencias, tendrán las facultades que se señalan en el Reglamento Interior de la SFP y en los demás ordenamientos legales y administrativos aplicables.
 
 ###### Artículo 34.
 
@@ -1792,3 +1760,31 @@ D.O.F. 12 DE ENERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA”.]
 
 ÚNICO: El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Acuerdo.
+
+TERCERO. Todas las referencias que en autorizaciones, nombramientos, documentos y demás disposiciones se hagan a:
+
+I. La Coordinación de Comunicación, se entenderán referidas a la Coordinación de Comunicación y Cooperación Internacional;
+
+II. La Dirección de Contenidos, Producción Editorial y Audiovisual, se entenderán referidas a la Dirección de Difusión Científica;
+
+III. La Dirección de Becas, se entenderán referidas a la Dirección de Becas y Posgrado.
+
+La Dirección de Becas y Posgrado también asumirá las facultades de la Dirección de Posgrado.
+
+IV. La Dirección de Vocaciones Científicas y SNI, se entenderán referidas a la Dirección del Sistema Nacional de Investigadores;
+
+V. La Dirección de Recursos Humanos, se entenderán referidas a la Dirección de Personal;
+
+VI. El Área de Auditoría Interna (Subcontralor), se entenderán referidas al Área de Auditoría Interna, de Desarrollo y Mejora de la Gestión Pública, y
+
+VII. El Área de Quejas, se entenderán referidas al Área de Quejas, Denuncias e Investigaciones.
+
+Lo anterior sin perjuicio de lo que determinen los manuales de organización correspondientes y de conformidad con la normativa aplicable.
