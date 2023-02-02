@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prevencion-de-la-violencia-en-el-entorno-95998"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-17"
-last_updated: "2021-09-09"
+last_updated: "2023-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 17 de septiembre de 2013.
 
@@ -457,6 +457,68 @@ III. Exista desequilibrio de poder entre el agresor y la víctima, a causa de co
 
 IV. Provoque en la víctima un evidente daño emocional, psicológico o físico.
 
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 24 BIS. Los alumnos de una institución educativa tienen derecho a:
+
+I. Que se les respete su integridad física y emocional;
+
+II. No ser excluidos del grupo educativo;
+
+III. Que en caso de conflicto con sus compañeros tengan acceso a métodos de mediación para la resolución del mismo;
+
+IV. Que les sean respetados todos sus derechos como seres humanos;
+
+V. No ser discriminados por ningún motivo;
+
+VI. Estar libres de violencia en las aulas, en las instalaciones educativas, en los lugares aledaños a éstas, en transportes educativos, en redes sociales y en su tránsito hacia y desde la escuela a sus hogares;
+
+VII. Un entorno socioeducativo estable; y
+
+VIII. Los demás que se establezcan en las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 24 TER. Los alumnos de una institución educativa tienen las siguientes obligaciones:
+
+I. Respetar a sus compañeros dentro y fuera de las instalaciones educativas, así como al personal docente y administrativo de la escuela;
+
+II. Respetar la integridad física y emocional, la intimidad, las diferencias por razón de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, y evitar cualquier tipo de discriminación que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de todos los miembros de la comunidad educativa;
+
+III. Respetar a las personas que tengan con sus compañeros lazos afectivos, de amistad o de parentesco;
+
+IV. Respetar las pertenencias y objetos de sus compañeros;
+
+V. Participar en actividades que fomenten la sana convivencia y prevengan la violencia en el entorno escolar;
+
+VI. Denunciar y colaborar con las autoridades escolares respecto de actos de violencia que hayan presenciado o tengan conocimiento;
+
+VII. Acatar el programa interno de prevención y erradicación de la violencia en el entorno escolar;
+
+VIII. Conducirse en las redes sociales con respeto y en observancia de los principios establecidos en esta Ley; y
+
+IX. Las demás que se establezcan en las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 24 QUATER. Los alumnos receptores de violencia en el entorno escolar tendrán los siguientes derechos:
+
+I. A presentar su queja ante la autoridad escolar de su elección de manera pública, privada o anónima a través de cualquier medio, por sí mismo, por sus padres o cualquier persona de su confianza;
+
+II. A que se investigue de manera pronta y eficaz los hechos materia de la queja, entrevistando a todos y cada uno de los involucrados y testigos de los hechos;
+
+III. A que se haga cesar de manera inmediata la violencia de la que fueron objeto;
+
+IV. Recibir de manera inmediata, por parte de profesionales en la materia atención médica, psicológica y jurídica;
+
+V. A ser cambiado de grupo escolar en caso de que lo solicite;
+
+VI. A ser reubicado a diverso plantel que le garantice un ambiente más amigable cuando así lo requieran sus padres o tutores;
+
+VII. A que no se divulgue ni difundan los detalles de los hechos violentos cuando así lo soliciten sus padres; y
+
+VIII. A que se apliquen al agresor de forma inmediata y adecuada las medidas disciplinarias pertinentes conforme al Reglamento correspondiente.
+
 ### CAPÍTULO III. DE LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR
 
 ###### ARTÍCULO 25.
@@ -533,9 +595,29 @@ Cada institución educativa deberá:
 
 I. Proporcionar capacitación sobre los lineamientos para la prevención e intervención en caso de violencia en el entorno escolar a los trabajadores, docentes y voluntarios que tengan contacto directo con los estudiantes;
 
-II. Desarrollar un programa educativo enfocado hacia los estudiantes, para que conozcan y comprendan los lineamientos establecidos en el Programa para la Prevención e Intervención de la Violencia en el entorno Escolar; y
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2023)</small>
 
-III. Realizar una evaluación de la capacitación proporcionada, para definir las deficiencias y programar una nueva para continuar sensibilizando al personal que participe.
+II. Deberán promover la realización de talleres semestrales de capacitación al personal directivo y docente, administrativo y de apoyo, para la prevención y atención de la violencia en el entorno escolar;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2023)</small>
+
+III. Dichos talleres deberán ser impartidos obligatoriamente por un psicólogo o pedagogo asignado al plantel; y
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2023)</small>
+
+IV. La Secretaría supervisará que los talleres se realicen con los estándares de calidad, la metodología y herramientas pedagógicas apropiadas.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 33 BIS. Cada institución educativa, con apoyo del psicólogo y/o del trabajador social, deberá:
+
+I. Desarrollar un programa educativo focalizado a los estudiantes, para que conozcan y comprendan los lineamientos establecidos por los procedimientos o protocolos para la prevención de la violencia en el entorno escolar;
+
+II. Establecer mecanismos eficaces para detectar oportunamente los casos de violencia en el entorno escolar, promoviendo la cultura de la denuncia;
+
+III. Colocar buzones de denuncia anónima, específicamente para asuntos de violencia en el entorno escolar, en lugares visibles; así como dar seguimiento inmediato a las denuncias recibidas en los citados buzones; y
+
+IV. Llevar a cabo una evaluación de la capacitación proporcionada, así como de los mecanismos para detectar los casos de violencia en el entorno escolar. Con base en los resultados anteriores, la institución educativa detectará las deficiencias, y a partir de ellas podrá redefinir las estrategias y elaborar un nuevo programa tendiente a continuar la actividad de formación integral de los alumnos, con base en el respeto irrestricto a los derechos humanos.
 
 ###### ARTÍCULO 34.
 
@@ -847,7 +929,15 @@ El presente Decreto entrará en vigor al (sic) día siguiente al de su publicaci
 
 P.O. 9 DE SEPTIEMBRE DE 2021.
 
-## [N. DE E. TRANSITORIO DEL “LXIV-787 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, FRACCIONES XI Y XII; Y 32; Y SE ADICIONAN LAS FRACCIONES XIII AL ARTÍCULO 3 Y III AL ARTÍCULO 4, RECORRIÉNDOSE LAS ACTUALES III A LA XIV EN SU ORDEN SUBSECUENTE, ASÍ COMO EL CAPÍTULO V BIS AL TÍTULO SEGUNDO DENOMINADO DE LAS BRIGADAS ESCOLARES SOBRE LA PREVENCIÓN DE LA VIOLENCIA ESCOLAR CONFORMADO POR LOS ARTÍCULOS 34 BIS, 34 TER, 34 QUATER, 34, QUINQUIES Y 34 SEXTIES A LA LEY PARA LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE TAMAULIPAS”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-787 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, FRACCIONES XI Y XII; Y 32; Y SE ADICIONAN LAS FRACCIONES XIII AL ARTÍCULO 3 Y III AL ARTÍCULO 4, RECORRIÉNDOSE LAS ACTUALES III A LA XIV EN SU ORDEN SUBSECUENTE, ASÍ COMO EL CAPÍTULO V BIS AL TÍTULO SEGUNDO DENOMINADO DE LAS BRIGADAS ESCOLARES SOBRE LA PREVENCIÓN DE LA VIOLENCIA ESCOLAR CONFORMADO POR LOS ARTÍCULOS 34 BIS, 34 TER, 34 QUATER, 34, QUINQUIES Y 34 SEXTIES A LA LEY PARA LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-510 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II Y III, DEL ARTÍCULO 33; Y SE ADICIONAN LOS ARTÍCULOS 24 BIS; 24 TER; 24 QUATER; UNA FRACCIÓN IV, AL ARTÍCULO 33; Y EL ARTÍCULO 33 BIS, A LA LEY PARA LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
