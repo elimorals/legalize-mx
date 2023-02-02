@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2023-02-01"
+last_updated: "2023-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2023.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -8379,6 +8379,10 @@ ART. 2296.- La hipoteca nunca es tácita ni general; para producir efectos contr
 
 ART. 2297.- La hipoteca puede constituirse por contrato, testamento o declaración unilateral de voluntad, así como por la ley, con el carácter de necesaria, cuando la misma sujeta a alguna persona a prestar esa garantía sobre bienes determinados. En los tres primeros casos la hipoteca se llama voluntaria, y en el último necesaria.
 
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2023)</small>
+
+La hipoteca además puede ser inversa y se constituirá por contrato.
+
 ### CAPITULO II. DE LA HIPOTECA VOLUNTARIA
 
 ART. 2298.- El propietario de un bien inmueble que se halle libre de gravámenes puede, por declaración unilateral de voluntad, constituir una hipoteca en primer lugar, sobre dicho bien, en garantía de obligaciones que no existan aún ni estén sujetas a condición suspensiva. Esta hipoteca estará sujeta a las siguientes reglas:
@@ -8498,6 +8502,82 @@ ART. 2316.- La constitución de la hipoteca, en los casos a que se refieren las 
 ART. 2317.- Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen también el de objetar la suficiencia de la que se ofrezca, y el de pedir, su ampliación cuando los bienes hipotecados se hagan por cualquier motivo insuficiente para garantizar el crédito; en ambos casos resolverá el Juez.
 
 ART. 2318.- Si el responsable de la hipoteca designada en las fracciones II, III y IV del artículo 2315 no tuviere inmuebles, no gozará el acreedor más que del privilegio mencionado en el artículo 1574, fracción I, salvo disposición legal en otro sentido.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 2023)</small>
+
+### CAPITULO III BIS. DE LA HIPOTECA INVERSA
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2023)</small>
+
+ART. 2318 BIS.- Es inversa la hipoteca que se constituye sobre un inmueble, que es la vivienda habitual y propiedad del pensionista para garantizar el capital que se le concede por el pensionario para cubrir sus necesidades económicas de vida, en los términos de este Capítulo.
+
+Para efectos de este Capítulo, se debe entender por pensionista al propietario del bien inmueble hipotecado, y por pensionario al acreedor titular de la hipoteca.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2023)</small>
+
+ART. 2318 TER.- El contrato de hipoteca inversa, es aquel por el cual el pensionario se obliga a pagar periódicamente y en forma vitalicia al pensionista o a su beneficiario que deberá ser su cónyuge, concubina o concubinario de edad igual o superior a los sesenta años de edad, una cantidad de dinero predeterminada, que el pensionista garantizará a través de la hipoteca inversa, en los términos de este Capítulo.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2023)</small>
+
+ART. 2318 QUATER.- Están autorizados para otorgar la hipoteca inversa las instituciones privadas, sociales, las personas físicas y las instituciones públicas, siempre que cuenten con facultades para ello.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2023)</small>
+
+ART. 2318 QUINQUIES.- La determinación de la hipoteca inversa se realizará previo avalúo de Institución debidamente facultada, que considere el valor comercial de mercado del inmueble que deberá actualizarse cada dos años para estar acorde con la plusvalía que el bien adquiera con el tiempo.
+
+El costo de dicho avalúo será cubierto por el pensionario.
+
+En ningún caso el avalúo podrá realizarse por la misma institución que otorgue la hipoteca.
+
+El contrato de hipoteca inversa, además de lo pactado, estará sujeto a lo siguiente:
+
+I.- Que la cantidad pactada entre pensionario y pensionista sea suficiente para que este último cubra sus necesidades básicas, la cual no debe ser menor al setenta por ciento del valor comercial del inmueble establecido en el avalúo;
+
+II.- Que el solicitante o los beneficiarios que él designe sean personas de edad igual o superior a los sesenta años;
+
+III.- El tutor, siempre que se encuentre en los supuestos señalados en el presente capítulo, podrá, con autorización judicial, constituir hipoteca inversa para garantizar un crédito otorgado a favor de su pupilo menor o incapaz;
+
+IV.- Que el pensionista disponga del importe del préstamo conforme a los plazos que correspondan a las disposiciones periódicas mediante las cuales el pensionista accederá al importe objeto de la hipoteca inversa;
+
+V.- Las personas que recibirán los pagos periódicos a que hace referencia el artículo 2318 TER;
+
+VI.- Las condiciones que se establezcan, en su caso, para atender lo dispuesto en el artículo 2318 SEXIES;
+
+VII.- Que la deuda sólo sea exigible por el pensionario y la garantía ejecutable cuando fallezca el pensionista y el beneficiario si lo hubiere, respetando el plazo que le concede la fracción II, del artículo 2318 SEXIES respecto a la amortización de la deuda;
+
+VIII.- El pensionista podrá realizar (sic) pago total o parcial anticipado sin penalización alguna;
+
+IX.- El pensionista habitará vitaliciamente el inmueble hipotecado, no obstante, el pensionista podrá arrendar de manera parcial o total el inmueble hipotecado, siempre y cuando, cuente con la autorización expresa del pensionario y los términos y condiciones del arrendamiento se establezcan en el contrato correspondiente, sin afectar la naturaleza propia de la hipoteca inversa;
+
+X.- Los intereses que se generen por el capital serán solamente sobre las cantidades dispuestas por el pensionista;
+
+XI.- Que en el contrato se incluyan las especificaciones del incremento anual que tendrá la pensión, de acuerdo con las condiciones del mercado y el valor del inmueble; y
+
+XII.- Cuando se acredite una enfermedad grave o accidente que ponga en riesgo la vida del pensionista o su beneficiario, el pensionario garantizará un adelanto al pensionista o a su beneficiario, de al menos el equivalente a seis tantos de las aportaciones preferentemente mensuales convenidas, para efecto de contribuir a satisfacer las necesidades y gastos extraordinarios que esto le origine al pensionista, sin que dicho adelanto pueda exceder de una vez cada dos años.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2023)</small>
+
+ART. 2318 SEXIES.- La amortización del capital se sujetará a las siguientes normas:
+
+I.- Cuando fallezca el pensionista y su beneficiario, en caso de haberlo, sus herederos podrán abonar al pensionario la totalidad del adeudo existente y vencido, sin compensación por la cancelación del gravamen y pago del adeudo; y
+
+II.- En el supuesto de la fracción anterior, los herederos del pensionista podrán optar por no pagar el adeudo existente y vencido. Transcurridos seis meses después del fallecimiento del pensionista sin efectuarse el pago, el pensionario cobrará el adeudo hasta donde alcance el valor del bien hipotecado, pudiendo solicitar su adjudicación a su venta.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2023)</small>
+
+ART. 2318 SEPTIES.- El inmueble hipotecado no podrá ser transmitido por acto inter vivos sin el consentimiento previo del pensionario. El incumplimiento de esta obligación le conferirá el derecho de declarar vencido anticipadamente el total del adeudo y exigible a la fecha, a menos que se constituya la garantía en forma bastante e igual a la anterior en un plazo de seis meses.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2023)</small>
+
+ART. 2318 OCTIES.- Cuando se extinga el capital pactado y los herederos del pensionista decidan no rembolsar los débitos vencidos, con sus intereses, el pensionario podrá obtener recobro hasta donde alcance el bien hipotecado.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2023)</small>
+
+ART. 2318 NONIES.- En caso de incumplimiento del pensionario en las ministraciones pactadas el pensionista estará en condiciones de solicitar la rescisión del contrato y exigir el pago de daños y perjuicios, o en su caso, el pago de la pena pactada. Además, se tendrá la deuda como liquidada y no generará más interés; debiendo el pensionario liberar a su costa el gravamen correspondiente. Para el caso de que se constituya una nueva hipoteca inversa sobre el mismo inmueble, ésta tendrá prelación respecto de la anterior.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2023)</small>
+
+ART. 2318 DECIES.- En lo no previsto de este Código, la hipoteca inversa se regirá por lo dispuesto en la legislación que en cada caso resulte aplicable.
 
 ### CAPITULO IV. DISPOSICIONES COMUNES A LAS DIVERSAS CLASES DE HIPOTECAS
 
@@ -8635,6 +8715,10 @@ ART. 2360.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO P
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)</small>
 
+## TITULO UNICO. DEL REGISTRO PUBLICO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)</small>
+
 ### CAPITULO III. DE LOS EFECTOS DEL REGISTRO
 
 ART. 2361.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
@@ -8654,10 +8738,6 @@ ART. 2367.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO P
 ART. 2368.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
 
 ART. 2369.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)</small>
-
-## TITULO UNICO. DEL REGISTRO PUBLICO
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO DE TAMAULIPAS, P.O. 28 DE FEBRERO DE 2008)</small>
 
@@ -8775,6 +8855,40 @@ II.- Se hará constar en acta formal el resultado del reconocimiento, y si éste
 
 III.- Firmarán el acta, además del notario y los testigos, el juez y los médicos que hayan intervenido en el reconocimiento, asentándose en la parte final del testamento razón expresa de que durante todo el acto conservó el testador perfecta lucidez.
 
+# LIBRO QUINTO. DE LAS SUCESIONES
+
+## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
+
+ART. 2397.- Herencia es la universalidad de los bienes y obligaciones de una persona, que con motivo de su muerte se transmiten a sus sucesores, exceptuándose los que se extinguen con el fallecimiento.
+
+ART. 2398.- La herencia se defiere conforme a la voluntad del autor de la sucesión, o a falta de ella, de acuerdo con las disposiciones de la ley. A la primera se le denomina testamentaria, a la segunda, legítima.
+
+ART. 2399.- El testador puede disponer de todos sus bienes o de parte de ellos. La parte de que no disponga quedará regida por los preceptos de la sucesión legítima.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+
+ART. 2400.- El heredero adquiere a título universal y responde de las cargas de la herencia hasta donde alcance la cuantía de los bienes que heredan.
+
+ART. 2401.- El legatario adquiere a título particular y no tiene más cargas que las que expresamente le imponga el testador, sin perjuicio de su responsabilidad subsidiaria con los herederos
+
+ART. 2402.- Cuando toda herencia se distribuya en legados, los legatarios serán considerados como herederos.
+
+ART. 2403.- Si el autor de la herencia y sus herederos o legatarios perecieron en el mismo desastre o el mismo día, sin que se pueda determinar exactamente quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
+
+ART. 2404.- A la muerte del autor de la sucesión, los herederos adquieren derecho a la masa hereditaria como a un patrimonio común, mientras que no se hace la división.
+
+ART. 2405.- Cada heredero puede disponer del derecho que tiene a la herencia, pero no puede disponer de los bienes que la forman.
+
+ART. 2406.- El heredero o legatario no puede enajenar su parte en la herencia sino después de la muerte de aquel a quien hereda.
+
+ART. 2407.- El legatario adquiere derecho al legado puro y simple, así como al de día cierto, desde el momento de la muerte del testador.
+
+ART. 2408.- Los herederos gozan del derecho del tanto en caso de que alguno de ellos quiera enajenar su derecho hereditario. Al respecto se aplicarán las reglas dispuestas para los copropietarios en los artículos 879 y 880.
+
+ART. 2409.- El derecho establecido en el artículo anterior cesa si la enajenación se hace a un coheredero.
+
+## TITULO SEGUNDO. DE LA SUCESION TESTAMENTARIA
+
 ### CAPITULO III. DE LA CAPACIDAD DE ADQUIRIR POR SUCESION
 
 ART. 2421.- Todos los habitantes del Estado, sea cual fuere su edad, tienen capacidad para adquirir por sucesión, y no pueden ser privados de ella de un modo absoluto; pero con relación a ciertas personas y a determinados bienes pueden perderla según lo dispuesto en este capítulo.
@@ -8866,40 +8980,6 @@ ART. 2446.- La incapacidad no produce el efecto de privar al incapaz de lo que h
 ART. 2447.- No puede producirse acción para declarar la incapacidad, pasados tres años desde que el incapaz esté en posesión de la herencia o legado; salvo que se trate de incapacidad establecida en vista del interés público, las cuales en todo tiempo pueden hacerse valer.
 
 ART. 2448.- Si el que entró en posesión de la herencia y la pierde después por incapacidad, hubiere enajenado o gravado todo o parte de los bienes antes de ser emplazado en el juicio en que se discuta su incapacidad, y aquel con quien contrató hubiere tenido buena fe, el contrato subsistirá; mas el heredero incapaz estará obligado a indemnizar al legítimo, de todos los daños y perjuicios.
-
-# LIBRO QUINTO. DE LAS SUCESIONES
-
-## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
-
-ART. 2397.- Herencia es la universalidad de los bienes y obligaciones de una persona, que con motivo de su muerte se transmiten a sus sucesores, exceptuándose los que se extinguen con el fallecimiento.
-
-ART. 2398.- La herencia se defiere conforme a la voluntad del autor de la sucesión, o a falta de ella, de acuerdo con las disposiciones de la ley. A la primera se le denomina testamentaria, a la segunda, legítima.
-
-ART. 2399.- El testador puede disponer de todos sus bienes o de parte de ellos. La parte de que no disponga quedará regida por los preceptos de la sucesión legítima.
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-ART. 2400.- El heredero adquiere a título universal y responde de las cargas de la herencia hasta donde alcance la cuantía de los bienes que heredan.
-
-ART. 2401.- El legatario adquiere a título particular y no tiene más cargas que las que expresamente le imponga el testador, sin perjuicio de su responsabilidad subsidiaria con los herederos
-
-ART. 2402.- Cuando toda herencia se distribuya en legados, los legatarios serán considerados como herederos.
-
-ART. 2403.- Si el autor de la herencia y sus herederos o legatarios perecieron en el mismo desastre o el mismo día, sin que se pueda determinar exactamente quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
-
-ART. 2404.- A la muerte del autor de la sucesión, los herederos adquieren derecho a la masa hereditaria como a un patrimonio común, mientras que no se hace la división.
-
-ART. 2405.- Cada heredero puede disponer del derecho que tiene a la herencia, pero no puede disponer de los bienes que la forman.
-
-ART. 2406.- El heredero o legatario no puede enajenar su parte en la herencia sino después de la muerte de aquel a quien hereda.
-
-ART. 2407.- El legatario adquiere derecho al legado puro y simple, así como al de día cierto, desde el momento de la muerte del testador.
-
-ART. 2408.- Los herederos gozan del derecho del tanto en caso de que alguno de ellos quiera enajenar su derecho hereditario. Al respecto se aplicarán las reglas dispuestas para los copropietarios en los artículos 879 y 880.
-
-ART. 2409.- El derecho establecido en el artículo anterior cesa si la enajenación se hace a un coheredero.
-
-## TITULO SEGUNDO. DE LA SUCESION TESTAMENTARIA
 
 ### CAPITULO IV. DE LAS CONDICIONES QUE PUEDEN PONERSE EN LOS TESTAMENTOS
 
@@ -9395,6 +9475,8 @@ ART. 2607.- Faltando alguna de las referidas solemnidades, quedará el testament
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
+## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
+
 ### CAPITULO II BIS. TESTAMENTO PUBLICO SIMPLIFICADO
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
@@ -9416,8 +9498,6 @@ V.- Los legatarios recibirán el legado con la obligación de dar alimentos a lo
 VI.- Los legatarios podrán solicitar directamente la entrega del inmueble y no les serán aplicables las disposiciones de los artículos 2767 y 2812 de éste Código; y,
 
 VII.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios se hará en los términos del artículo 769 Bis del Código de Procedimientos Civiles para el Estado de Tamaulipas.
-
-## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
 
 ### CAPITULO III. DEL TESTAMENTO PUBLICO CERRADO
 
@@ -9627,6 +9707,8 @@ ART. 2675.- El adoptado hereda como un hijo, pero no hay derecho de sucesión en
 
 ART. 2676.- Concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos.
 
+## TITULO CUARTO. DE LA SUCESION LEGITIMA
+
 ### CAPITULO III. DE LA SUCESION DE LOS ASCENDIENTES
 
 ART. 2677.- A falta de descendientes y de cónyuge, sucederán el padre y la madre por partes iguales.
@@ -9642,8 +9724,6 @@ Los miembros de cada línea dividirán entre sí por partes iguales la porción 
 ART. 2681.- Concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre ellos.
 
 ART. 2682.- Si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los adoptantes.
-
-## TITULO CUARTO. DE LA SUCESION LEGITIMA
 
 ### CAPITULO IV. DE LA SUCESION DEL CONYUGE
 
@@ -9727,6 +9807,8 @@ ART. 2708.- Una vez nombrado el albacea, él deberá promover la reclamación a 
 
 ART. 2709.- El derecho de reclamar la herencia prescribe en diez años y es transmisible a los herederos.
 
+## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
+
 ### CAPITULO III. DE LA ACEPTACION Y LA REPUDIACION DE LA HERENCIA
 
 ART. 2710.- La aceptación y la repudiación de la herencia son actos voluntarios realizados por aquellos que tienen capacidad jurídica para disponer de sus bienes.
@@ -9788,8 +9870,6 @@ ART. 2734.- En el caso del artículo anterior, la aceptación sólo aprovechará
 ART. 2735.- El que por la repudiación de la herencia debe entrar en ella, podrá impedir que la acepten los acreedores, pagando a éstos los créditos que tienen contra el que la repudió.
 
 ART. 2736.- El que a instancias de un legatario o acreedor hereditario haya sido declarado heredero, será considerado como tal por los demás, sin necesidad de nuevo juicio.
-
-## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
 
 ### CAPITULO IV. DEL ALBACEA
 
@@ -10742,3 +10822,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
+
+P.O. 2 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-511 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 2297 Y UN CAPÍTULO III BIS AL TÍTULO VIGÉSIMO SEGUNDO DEL LIBRO CUARTO DENOMINADO “DE LA HIPOTECA INVERSA”, Y LOS ARTÍCULOS 2318 BIS; 2318 TER; 2318 QUATER; 2318 QUINQUIES; 2318 SEXIES; 2318 SEPTIES; 2318 OCTIES; 2318 NONIES Y 2318 DECIES, AL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
