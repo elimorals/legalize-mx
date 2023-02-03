@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-483-de-instituciones-y-procedimientos-101753"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2020-06-02"
+last_updated: "2023-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el lunes 30 de junio de 2014.
 
@@ -289,13 +289,29 @@ Podrán participar en el proceso electoral correspondiente sin separarse de su c
 
 VIII. En el caso de que se haya tenido la responsabilidad de administrar recursos públicos en los cinco años anteriores a la elección, haber cumplido en tiempo y forma con las obligaciones que establece la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Guerrero, en cuanto a la entrega de informes semestrales y cuentas públicas anuales, según corresponda, en cuyo caso, lo manifestarán bajo protesta de decir verdad;
 
-> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2023)</small>
 
-IX. No estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género; y
+IX. No estar condenada o condenado por los delitos de violencia política contra las mujeres en razón de género, violencia familiar e incumplimiento de la obligación alimentaria;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2020)</small>
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2023)</small>
 
-X. No estar inhabilitado para ocupar un cargo público por resolución ejecutoriada emitida por autoridad competente.
+> <small>[N. DE E. DE LA APLICACIÓN DEL DECRETO NÚMERO 245 DEL P.O. 3 DE FEBRERO DE 2023 SE ADVIERTE QUE ESTE PÁRRAFO CORRESPONDE A LA FRACCIÓN X DEL PRESENTE ARTÍCULO, VÉASE PÁGINAS 23 Y 27]</small>
+
+X. No estar inscrita o inscrito en el Registro Estatal de Deudores Alimentarios Morosos; y
+
+(REUBICADA, P.O. 3 DE FEBRERO DE 2023)
+
+> <small>[N. DE E. DE LA APLICACIÓN DEL DECRETO NÚMERO 245 DEL P.O. 3 DE FEBRERO DE 2023 SE ADVIERTE QUE ESTE PÁRRAFO CORRESPONDE A LA FRACCIÓN X DEL PRESENTE ARTÍCULO, VÉASE PÁGINAS 23 Y 27]</small>
+
+XI. No estar inhabilitado para ocupar un cargo público por resolución ejecutoriada emitida por autoridad competente.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2023)</small>
+
+No estar inscrita o inscrito en el Registro Estatal de Deudores Alimentarios Morosos; y
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2023)</small>
+
+No estar inhabilitado para ocupar un cargo público por resolución ejecutoriada emitida por autoridad competente.
 
 ###### ARTÍCULO 11.
 
@@ -7804,3 +7820,15 @@ SEGUNDO. Remítase al Gobernador Constitucional del Estado de Guerrero, para los
 TERCERO. Comuníquese a las autoridades electorales competentes para su conocimiento y efectos legales conducentes.
 
 CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
+
+P.O. 3 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 245 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358; DE LA LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO; Y DE LA LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. La Coordinación Técnica del Sistema Estatal del Registro Civil, contará con un plazo inexcusable de noventa días a partir de la entrada en vigor del presente decreto, para implementar el Registro Estatal de Deudores Alimentarios Morosos, designar al titular o responsable de su operación y elaborar su reglamento interno.
+
+TERCERO. Una vez que entre en funciones deberá dar trámite inmediato a las resoluciones judiciales que se hayan efectuado durante el periodo existente entre la entrada en vigor de este decreto y la creación del Registro Estatal de Deudores Alimentarios Morosos, así como, para realizar las adecuaciones correspondientes a los ordenamientos legales aplicables para su debido funcionamiento.
+
+CUARTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
