@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-5-2013-del-tribunal-pleno-de-la-94228"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-05-21"
-last_updated: "2017-09-07"
+last_updated: "2023-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94228&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-05-16"
 ---
 # ACUERDO GENERAL NUMERO 5/2013 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [RELATIVO A LA DETERMINACION DE LOS ASUNTOS QUE EL PLENO CONSERVARA PARA SU RESOLUCION, Y EL ENVIO DE LOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO 1/2023, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 3 DE FEBRERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL NÚMERO 5/2013, DE TRECE DE MAYO DE DOS MIL TRECE, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LA DETERMINACIÓN DE LOS ASUNTOS QUE EL PLENO CONSERVARÁ PARA SU RESOLUCIÓN, Y EL ENVÍO DE LOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE FEBRERO DE 2023 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 21 de mayo de 2013.
 
@@ -286,3 +288,15 @@ TERCERO. Los incidentes de cumplimiento sustituto, los recursos de queja y los r
 CUARTO. Lo previsto en este Instrumento Normativo será aplicable respecto de los recursos de inconformidad interpuestos contra las resoluciones emitidas por los Presidentes de los Tribunales Colegiados de Circuito, en las que declaren cumplida una sentencia de amparo directo, declaren que existe imposibilidad material o jurídica para cumplir una sentencia de esa naturaleza u ordenen el archivo definitivo del asunto, así como las que declaren sin materia o infundada la denuncia de repetición del acto reclamado en amparo directo; y respecto de las determinaciones que se adopten sobre la procedencia del cumplimiento sustituto, que se dicten al día siguiente de la aprobación de este Instrumento Normativo.
 
 QUINTO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 5/2013 en dichos medios electrónicos.
+
+D.O.F. 3 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO 1/2023, DE VEINTISÉIS DE ENERO DE DOS MIL VEINTITRÉS, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LA DETERMINACIÓN DE LOS ASUNTOS QUE EL PLENO CONSERVARÁ PARA SU RESOLUCIÓN, Y EL ENVÍO DE LOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General Plenario 5/2013, de trece de mayo de dos mil trece, del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, relativo a la determinación de los asuntos que el Pleno conservará para su resolución, y el envío de los de su competencia originaria a las Salas y a los Tribunales Colegiados de Circuito, así como las demás disposiciones generales y específicas que se opongan a lo previsto en este instrumento normativo.
+
+TERCERO. Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Acuerdo General, la Secretaría General de Acuerdos con el apoyo de la Dirección General de Tecnologías de la Información de este Alto Tribunal deberá concluir las adecuaciones que resulten necesarias al sistema informático de competencia delegada y comunicar mediante Circular las bases de su funcionamiento a los Tribunales Colegiados de Circuito.
+
+CUARTO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito, de los Tribunales Colegiados de Circuito, de los Tribunales Colegiados de Apelación y de los Plenos Regionales.
