@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-495-del-registro-civil-del-estado-de-guerrero-79768"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-04"
-last_updated: "2019-11-08"
+last_updated: "2023-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado en Alcance I, el Martes 4 de enero de 2011.
 
@@ -150,6 +150,10 @@ IV Bis. Anular las actas de nacimiento cuando exista duplicidad de registros ún
 IV Bis 1. Conocer y resolver el procedimiento para la expedición de las constancias de homonimia, previo pago y búsqueda en los archivos electrónicos o documentales, a petición del interesado.
 
 V. Instalar, en coordinación con los Ayuntamientos, un sistema informático que establezca una red que cubra todo el territorio estatal, que a su vez permita la conexión con la red nacional;
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2023)</small>
+
+V Bis. Instalar, operar y actualizar permanentemente el Registro Estatal de Deudores Alimentarios Morosos;
 
 VI. Recabar de las Oficialías del Registro Civil en los municipios, la información y documentación relativa al movimiento mensual de los actos registrales del estado civil de las personas, así como la información al respecto de la asignación de la Clave Única de Registro de Población (CURP) a efecto de remitirlas a la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación, para los efectos legales correspondientes; y
 
@@ -291,9 +295,13 @@ XXII. Autorizar y distribuir a todas las Oficialías del Registro Civil, los for
 
 XXIII. Ordenar previo acuerdo, al Jefe del Archivo Estatal del Registro Civil y a los Oficiales del Registro Civil, la reposición o restauración inmediata de los libros, actas y documentos que se encuentren deteriorados, destruidos o extraviados, conforme a las actas del estado civil de las personas, existentes en los Archivos de las Oficialías o del Archivo Estatal, certificando su autenticidad;
 
-XXIV. Dar cumplimiento a las resoluciones judiciales o administrativas recibidas, que hayan causado ejecutoria y que con arreglo a la ley sean procedentes;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2023)</small>
 
-XXV. Expedir las constancias de inexistencia de registros, de acuerdo a los resultados de las búsquedas realizadas;
+(SIC) Dar cumplimiento a las resoluciones judiciales o administrativas recibidas, que hayan causado ejecutoria y que con arreglo a la ley sean procedentes, así como, a los mandamientos judiciales que ordenen la inscripción de deudores alimentarios, en el Registro Estatal de Deudores Alimentarios Morosos;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2023)</small>
+
+(SIC) Expedir las constancias de inexistencia de registros, de acuerdo a los resultados de las búsquedas realizadas, así como, las constancias de estar o no inscrito en el Registro Estatal de Deudores Alimentarios Morosos;
 
 XXVI. Autorizar los registros extemporáneos de nacimiento y defunción, siempre y cuando se cumpla con los requisitos señalados por la presente Ley y por las leyes aplicables;
 
@@ -1644,3 +1652,15 @@ PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes a
 SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los efectos legales conducentes.
 
 TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 3 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 245 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358; DE LA LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO; Y DE LA LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. La Coordinación Técnica del Sistema Estatal del Registro Civil, contará con un plazo inexcusable de noventa días a partir de la entrada en vigor del presente decreto, para implementar el Registro Estatal de Deudores Alimentarios Morosos, designar al titular o responsable de su operación y elaborar su reglamento interno.
+
+TERCERO. Una vez que entre en funciones deberá dar trámite inmediato a las resoluciones judiciales que se hayan efectuado durante el periodo existente entre la entrada en vigor de este decreto y la creación del Registro Estatal de Deudores Alimentarios Morosos, así como, para realizar las adecuaciones correspondientes a los ordenamientos legales aplicables para su debido funcionamiento.
+
+CUARTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
