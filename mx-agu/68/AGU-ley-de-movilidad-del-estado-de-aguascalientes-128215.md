@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2023-01-23"
+last_updated: "2023-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2023.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -2924,6 +2924,10 @@ Para prestar el servicio de transporte a que se refiere esta Sección, las perso
 Los propietarios de los vehículos particulares deberán registrar, directamente o a través de la empresa de redes de transporte, ante la CMOV, el vehículo con el que realizarán el servicio, así como tramitar la ficha de identificación cuando gestionen el servicio por sí o a través de personas contratadas para tales efectos.
 
 Los vehículos destinados a la prestación del servicio de transporte contratado a través de plataformas tecnológicas administrado por empresas de redes de transporte deberán fijar en un lugar visible el holograma, emblema o distintivo que los identifique con las especificaciones que establezca la CMOV.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2023)</small>
+
+En la prestación del servicio de transporte de personas contratado a través de plataformas tecnológicas administrado por empresas de redes de transporte se prohíbe la utilización de motocicletas, así como de vehículos que no cumplan las características, equipamiento y antigüedad establecidas en la fracción II del artículo 211 de esta Ley.
 
 ###### ARTÍCULO 136.
 
@@ -5920,3 +5924,15 @@ Se derogan las disposiciones jurídicas que se opongan al presente decreto.
 ###### ARTÍCULO TERCERO.
 
 Dentro de los 90 días siguientes a la publicación del presente decreto se deberán realizar las modificaciones correspondientes a los reglamentos del Estado y los Municipios, a efecto de armonizarlos con lo dispuesto por el presente decreto.
+
+P.O. 3 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 290.- SE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 135 DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto se deberán realizar las adecuaciones normativas al Reglamento de la Ley de Movilidad del Estado de Aguascalientes, de conformidad con lo previsto en el presente Decreto.
