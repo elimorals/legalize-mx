@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-161551"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-31"
-last_updated: "2022-12-31"
+last_updated: "2023-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2023.
 
 Ley publicada en la Segunda Sección del Número 72 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el sábado 31 de diciembre de 2022.
 
@@ -162,6 +162,8 @@ Por los servicios que prestan las oficinas del Registro Público de la Propiedad
 Por la prestación de servicios de las autoridades del Instituto Catastral, se causarán y pagarán los derechos correspondientes, aplicando las siguientes tarifas:
 
 > <small>[N. DE E. VÉASE TABLA EN LA SEGUNDA SECCIÓN DEL P.O. DE 31 DE DICIEMBRE DE 2022, PÁGINAS DE LA 13 A LA 16.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA SEGUNDA SECCIÓN DEL P.O. DE 3 DE FEBRERO DE 2023, PÁGINAS 6 Y 7.]</small>
 
 Por cualquier informe o historial catastral que sea solicitado dentro de un procedimiento jurisdiccional a petición de la parte interesada y/o mediante la autoridad judicial se causará el derecho en términos de lo establecido en este Artículo el cual deberá ser cubierto por la parte interesada, a excepción de los derivados de trámites con motivo de juicios laborales en beneficio de los derechos de los trabajadores; los vinculados con el derecho de menores a recibir alimentos; los relacionados con derechos de personas con incapacidad natural y/o legal, y los provenientes de juicios de orden penal. Asimismo están exentos del pago de derechos, la Federación, el Estado, los Municipios, así como los organismos públicos autónomos, a menos que su solicitud o requerimiento no corresponda a sus funciones de derecho público.
 
@@ -627,9 +629,11 @@ Cuando se considere pertinente su otorgamiento, se deberán establecer las activ
 
 En los términos de este artículo queda (sic) excluido de lo anterior los beneficios fiscales que impliquen una condonación o exención total o parcial de impuestos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 50.
 
-Se faculta indistintamente, al Secretario de Finanzas, al Subsecretario de Ingresos, al Director General de Recaudación y al Director General de Auditoría Fiscal para que, en el ámbito de sus respectivas competencias, otorguen descuentos del 10% al 90% por concepto de recargos, aprovechamientos y multas estatales propias o impuestas por otras dependencias, excepto en accesorios de Derechos de control Vehicular.
+Se faculta indistintamente, al Secretario de Finanzas, al Subsecretario de Ingresos, al Director General de Recaudación y al Director General de Auditoría Fiscal para que, en el ámbito de sus respectivas competencias, otorguen descuentos del 10% al 90% por concepto de recargos, aprovechamientos y multas estatales propias o impuestas por otras dependencias.
 
 Cuando los descuentos mencionados, se otorguen sobre recargos y multas derivadas de contribuciones estatales, como resultado del ejercicio de facultades de comprobación, dichos descuentos procederán siempre y cuando el contribuyente lleve a cabo la autocorrección total sobre todos y cada uno de los periodos sujetos a revisión, ya que en caso de no realizarse de esta manera, se procederá a emitir la resolución determinante del crédito fiscal, en cuyo caso se liquidará el importe total de los recargos y las multas, por todos y cada uno de los periodos, sin considerar descuento alguno.
 
@@ -694,3 +698,17 @@ EMANUELLE SÁNCHEZ NÁJERA
 DIPUTADO SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 21 de diciembre de 2022”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE FEBRERO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 291.- SE REFORMAN LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2023; Y, EL PRESUPUESTO DE EGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2023”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto aquellas disposiciones que se opongan al presente Decreto.
