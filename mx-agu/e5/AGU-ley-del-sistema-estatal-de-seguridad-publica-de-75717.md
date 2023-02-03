@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2022-09-30"
+last_updated: "2023-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -129,7 +129,9 @@ Las políticas y programas se efectuarán con base en las leyes y reglamentos ap
 
 Para efectos de esta ley, se entenderá por:
 
-I. Academias: Al Instituto Estatal de Seguridad Pública, y a las instituciones de Formación, Capacitación y Profesionalización policial;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2023)</small>
+
+I. Academias: La Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes, y a las Instituciones de Formación, Capacitación y Profesionalización policial;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1609,9 +1611,11 @@ En ningún caso habrá inamovilidad en los cargos administrativos y de direcció
 
 La selección es el proceso que consiste en elegir, de entre los aspirantes que hayan aprobado el reclutamiento, a quienes cubran el perfil y la formación requeridos para ingresar a las Instituciones Policiales. Dicho proceso comprende el periodo de los cursos de formación o capacitación y concluye con la resolución de las instancias previstas en la ley sobre los aspirantes aceptados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 73.
 
-El ingreso es el procedimiento de integración de los candidatos a la estructura institucional y tendrá verificativo al terminar la etapa de formación inicial o capacitación en el Instituto Estatal de Seguridad Pública, el periodo de prácticas correspondiente y acrediten el cumplimiento de los requisitos previstos en la presente Ley y demás disposiciones aplicables.
+El ingreso es el procedimiento de integración de los candidatos a la estructura institucional y tendrá verificativo al terminar la etapa de formación inicial o capacitación en la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes, el periodo de prácticas correspondiente y acrediten el cumplimiento de los requisitos previstos en la presente Ley y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
 
@@ -1805,7 +1809,9 @@ La Profesionalización es el proceso permanente y progresivo de formación que s
 
 Los planes de estudio para la Profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza aprendizaje que estarán comprendidos en el Programa Rector.
 
-El Instituto Estatal de Seguridad Pública de Aguascalientes será una instancia auxiliar de la Secretaría para lograr la Profesionalización de las Instituciones Policiales. Asimismo coadyuvará en la supervisión y evaluación del personal de las empresas de Seguridad Privada a través de la capacitación y/o certificación del mismo y los costos correrán a cargo de los prestadores del servicio de Seguridad Privada. También podrá auxiliar a los Municipios que así lo soliciten. El ejecutivo expedirá el reglamento que regule dicho Instituto.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2023)</small>
+
+La Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes, será una instancia auxiliar de la Secretaría para lograr la Profesionalización de las Instituciones Policiales. Asimismo, coadyuvará en la supervisión y evaluación del personal de las empresas de Seguridad Privada a través de la capacitación y/o certificación del mismo y los costos correrán a cargo de los prestadores del servicio de Seguridad Privada. También podrá auxiliar a los Municipios que así lo soliciten.
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO VIII], P.O. 23 DE MAYO DE 2016)
 
@@ -1933,7 +1939,9 @@ La Comisión del Servicio Profesional de Carrera Policial de la Secretaría se i
 
 I. El Secretario de Seguridad Pública del Estado, quien la presidirá;
 
-II. El Director General del Instituto Estatal de Seguridad Pública de Aguascalientes;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2023)</small>
+
+II. La persona titular de la Rectoría de La Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes;
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
@@ -2804,3 +2812,77 @@ El Sistema Estatal de Seguridad Pública deberá crear en un término no mayor a
 ###### ARTÍCULO QUINTO.
 
 Con la entrada en vigor del presente decreto, los recursos humanos, materiales y financieros seguirán formando parte de la Secretaría de Seguridad Pública del Estado de Aguascalientes.
+
+P.O. 3 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 293.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Junta de Gobierno de la Universidad deberá quedar instalada dentro del plazo de los treinta días siguientes al de la entrada en vigor del presente decreto y en dicha sesión recibirá la comunicación de la persona quien haya sido designada como Rector.
+
+La Junta de Gobierno deberá aprobar los programas, presupuestos y estructura orgánica de la Universidad, dentro de un plazo de cuarenta y cinco días contados a partir de su instalación.
+
+###### ARTÍCULO TERCERO.
+
+El presente decreto de creación, así como los nombramientos y los demás documentos inherentes a la creación y al inicio de operaciones de la Universidad y que sean objeto de inscripción en el Registro Público de Entidades Paraestatales, deberán cumplir con dicho requisito, a más tardar dentro de treinta días siguientes a los de su emisión.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los treinta días siguientes a la entrada en vigor de este decreto, el Rector deberá promover la inscripción de la Universidad ante el Registro Federal de Contribuyentes del Servicio de Administración Tributaria y dentro de los primeros ciento ochenta días, deberá obtener su registro como institución pública de educación superior y la validación de sus planes y programas de estudio iniciales, ante la unidad administrativa competente de la Secretaría de Educación Pública del Gobierno Federal.
+
+###### ARTÍCULO QUINTO.
+
+Los reglamentos y demás disposiciones normativas de la Universidad, deberán de emitirse en un término de ciento ochenta días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Con la entrada en vigor del presente decreto que crea la Universidad, iniciará el proceso de extinción del Instituto Estatal de Seguridad Pública de Aguascalientes; proceso que concluirá con la celebración de la sesión extraordinaria en la cual se declare la extinción de dicho instituto y se ordene su desincorporación de la Administración Pública del Estado de Aguascalientes y su baja de los distintos registros públicos en los que se encuentre inscrito. Una vez realizado lo anterior se tendrá por abrogada la Ley Orgánica del Instituto Estatal de Seguridad Pública.
+
+En tanto se declara la extinción del Instituto Estatal de Seguridad Pública de Aguascalientes, continuarán vigentes los reglamentos y demás disposiciones de su marco normativo interno, en lo que no se opongan al presente decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Instituto Estatal de Seguridad Pública de Aguascalientes subsistirá únicamente para la conclusión y cierre de sus procesos y programas ya iniciados a la entrada en vigor de este decreto; así como para emitir las constancias, certificados y demás documentos pendientes derivados de sus procesos de formación; para realizar la transferencia de sus recursos, archivos, asuntos, derechos, obligaciones y cargas a la Universidad; para atender sus obligaciones de orden público, que como todo organismo público descentralizado, seguirá teniendo hasta en tanto se declare su extinción y para realizar las acciones que se mencionan en estos transitorios.
+
+###### ARTÍCULO OCTAVO.
+
+La persona titular de la Dirección General del Instituto Estatal de Seguridad Pública de Aguascalientes y, posterior y sucesivamente, quien sea designado como titular de la Rectoría de la Universidad, fungirán como liquidadores del Instituto Estatal de Seguridad Pública de Aguascalientes, quienes se apoyarán para tales efectos, en el personal de la Universidad y en los demás funcionarios de la Administración Pública Estatal, según corresponda.
+
+Dentro de los treinta días siguientes a la entrada en vigor de este decreto, el funcionario que se encargue de la liquidación del Instituto Estatal de Seguridad Pública de Aguascalientes, deberá comunicar al público en general a través del Periódico Oficial del Estado, el inicio del proceso de extinción del Instituto Estatal de Seguridad Pública de Aguascalientes, para los efectos legales a que haya lugar y dentro de los noventa días, deberá levantar un inventario general de todos los recursos, archivos, asuntos, derechos, obligaciones y cargas de dicho instituto, que serán transferidos a la Universidad. Una vez que esté preparado el inventario, el Liquidador deberá someterlo a la aprobación de la Junta de Gobierno del Instituto Estatal de Seguridad Pública de Aguascalientes, con fines de ser transferidos a la Universidad.
+
+Con la designación de la persona titular de la Rectoría de la Universidad, ésta asumirá a su vez, la Dirección General del Instituto Estatal de Seguridad Pública de Aguascalientes y la representación legal del mismo en términos de los artículos 13 de la Ley Orgánica del Instituto Estatal de Seguridad Pública y 15 de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, quedando sin efectos el nombramiento a que se refiere el artículo 11 de dicho ordenamiento y en su caso, realizándose el proceso de entrega y recepción del cargo en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+###### ARTÍCULO NOVENO.
+
+Los recursos humanos, materiales y financieros, así como los archivos, asuntos, derechos, obligaciones y cargas del Instituto Estatal de Seguridad Pública de Aguascalientes, pasarán a formar parte de la Universidad y su transferencia se realizará a través de acuerdos administrativos celebrados por la Secretaría de Finanzas, Secretaría de Administración y la Contraloría del Estado. La Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes tendrá el interés jurídico de los asuntos que reciba transferidos del Instituto Estatal de Seguridad Pública de Aguascalientes.
+
+Con la transferencia de los bienes muebles e inmuebles del Instituto Estatal de Seguridad Pública de Aguascalientes, a favor de la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes, se entenderán transferidos también, los derechos reales que aquel tiene sobre los mismos, a favor de esta última.
+
+Para los efectos de salvaguardar el patrimonio del Instituto Estatal de Seguridad Pública de Aguascalientes y de la hacienda pública estatal, se podrá reservar la transferencia de aquellos asuntos jurídicos o administrativos, que así se considere y por el tiempo y/o hasta el momento procesal o procedimental que sea conveniente; así como también de aquellos procesos y programas ya iniciados a la entrada en vigor de este decreto y que por cualquier disposición jurídica no puedan ser transferidos.
+
+###### ARTÍCULO DÉCIMO.
+
+Al concluir la transferencia de los recursos humanos, materiales y financieros, así como de los archivos, asuntos, derechos, obligaciones y cargas del Instituto Estatal de Seguridad Pública de Aguascalientes a favor de la Universidad, y siempre que no existan asuntos pendientes por transferir de los indicados en el último párrafo del artículo anterior, el funcionario que lleve la dirección general del Instituto Estatal da Seguridad Pública de Aguascalientes, promoverá ante el Presidente de la Junta de Gobierno de este último, la convocatoria para celebrar la sesión extraordinaria en la cual se declare la extinción de dicho instituto y se ordene su desincorporación de la Administración Pública del Estado de Aguascalientes y su baja de los distintos registros públicos en los que se encuentre inscrito.
+
+###### ARTÍCULO DECIMO PRIMERO.
+
+Con la entrada en vigor del presente decreto, el presupuesto asignado al Instituto Estatal de Seguridad Pública de Aguascalientes para el ejercicio fiscal del año 2023 y que se encuentre pendiente por ejercer; será transferido para su ejercicio a la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes, sujeto a la aprobación presupuestal de egresos por parte de la Junta de Gobierno de esta última. La Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes, sufragará los costos de operación del Instituto Estatal de Seguridad Pública de Aguascalientes, durante su proceso de extinción.
+
+Para efecto de lo anterior, el Ejecutivo del Estado de Aguascalientes, a través de la Secretaría de Finanzas, proveerá a la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes, de los recursos necesarios para el inicio la instalación, el inicio de operaciones de la misma y para realizar todas las actividades que estén a su cargo; para lo cual, deberá realizar las adecuaciones y reasignaciones que sean requeridas como consecuencia del presente Decreto, considerando el Presupuesto de Egresos del Estado para el Ejercicio Fiscal del Año 2023 y rindiendo lo relativo en la Cuenta Pública del Ejercicio Fiscal 2023.
+
+###### ARTÍCULO DECIMO SEGUNDO.
+
+Los servidores públicos del Instituto Estatal de Seguridad Pública de Aguascalientes, conservarán sus derechos y antigüedad laboral durante el proceso de transferencia a la estructura orgánica de la Universidad.
+
+###### ARTÍCULO DECIMO TERCERO.
+
+A partir de la publicación del Presente Decreto, todas las menciones realizadas al Instituto Estatal de Seguridad Pública del Estado de Aguascalientes en los demás ordenamientos jurídicos federales y estatales, se entenderán realizadas a la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes.
+
+###### ARTÍCULO DECIMO CUARTO.
+
+Lo no previsto en el presente decreto, será regulado por la Secretaría de Finanzas, Secretaría de Administración y la Contraloría del Estado, de conformidad con las facultades que las leyes les confieren.
