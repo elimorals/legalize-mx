@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-etica-de-la-auditoria-superior-del-estado-de-152738"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-11-23"
-last_updated: "2021-11-23"
+last_updated: "2023-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # CODIGO DE ETICA DE LA AUDITORIA SUPERIOR DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE DAN A CONOCER EL CÓDIGO DE ÉTICA Y EL CÓDIGO DE CONDUCTA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO REVOCADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2023 (REVOCADA).
 
 Código publicado en la Sección Octava del Número 096 del Periódico Oficial del Estado de Nayarit, el martes 23 de noviembre de 2021.
 
@@ -296,3 +298,13 @@ Los servidores públicos de la ASEN deberán de otorgar las mismas oportunidades
 DADO en las oficinas que ocupa esta Auditoria Superior del Estado de Nayarit ubicadas en Av. del Valle #133, Fracc. Ciudad del Valle, Edificio Plaza San Rafael Int. 203, En la Ciudad de Tepic, Nayarit a los 19 días del mes de noviembre del año dos mil veintiuno.
 
 A T E N T A M E N T E. L.C. SALVADOR CABRERA CORNEJO, AUDITOR SUPERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NAYARIT.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DAN A CONOCER EL CÓDIGO DE ÉTICA Y EL CÓDIGO DE CONDUCTA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NAYARIT”.]
+
+PRIMERO.- Los presentes Códigos entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se revocan las disposiciones del Código de Ética y Código de Conducta emitidos el día veintitrés de noviembre del año dos mil veintiuno.
