@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-455-de-proteccion-civil-del-estado-de-guerrero-77439
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-19"
-last_updated: "2016-11-08"
+last_updated: "2023-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 455 DE PROTECCIÓN CIVIL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 19 de noviembre de 2010.
 
@@ -1709,11 +1709,15 @@ En caso de que el infractor no cumpla con la medida de seguridad decretada por l
 
 Procederá la clausura temporal o definitiva, total o parcial de una obra, instalación o establecimiento, cuando quede justificado que sus instalaciones constituyen un riesgo inminente, capaz de causar un siniestro, en perjuicio de la sociedad o del entorno; así mismo se podrá solicitar a la autoridad competente la suspensión o cancelación de cualquier permiso o licencia que se hubiere otorgado.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 133.
 
-Quienes realicen llamadas a la unidad estatal de telecomunicaciones que no constituyan situaciones urgentes o no requieran la intervención de los servicios de emergencia, se les impondrá una multa por la cantidad equivalente de cinco a cien veces el salario mínimo diario vigente, en la zona donde se cometa la infracción.
+Quienes realicen llamadas de broma o falsa a los números de emergencia o al servicio de denuncia anónima que distraigan la prestación de los mismos con fines ociosos, que constituyan falsas alarmas de siniestros o que puedan producir o produzcan temor o pánico colectivos, se le impondrá una multa de 21 a 100 veces la Unidad de Medida y Actualización, vigente; en caso de reincidencia se duplicará la sanción.
 
-Para los efectos de este Artículo, la Seguridad Pública y Protección Civil llevará un registro de las llamadas que se realicen.
+Corresponde a la Secretaría de Seguridad Pública llevar el registro de las llamadas antes señaladas y remitirlo a la Secretaría de Protección Civil para que aplique la sanción correspondiente, quien para la aplicación de la misma deberá tomar en cuenta la gravedad de los daños causados, capacidad socioeconómica, instrucción y reincidencia, para así determinar la individualización de la multa que corresponda.
+
+Tratándose de menores de edad o sujetos a interdicción será responsable quien ostente la patria potestad.
 
 ###### ARTÍCULO 134.
 
@@ -2020,3 +2024,17 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, Licenciado Héctor Astudillo Flores, para su conocimiento y efectos legales procedentes.
+
+P.O. 3 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 425 POR EL QUE SE REFORMA EL ARTÍCULO 133 DE LA LEY NÚMERO 455 DE PROTECCIÓN CIVIL DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los procedimientos iniciados, así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y regularán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+TERCERO. Que a partir de la entrada en vigor de la reforma, la Secretaría de Protección Civil del Gobierno del Estado contará con 120 días hábiles para que genere o elaboré su reglamento en la materia.
+
+CUARTO. Remítase a la Titular del Ejecutivo del Estado, para los efectos de lo dispuesto por la fracción II, del artículo 91 de la Constitución Política del Estado Libre y Soberano de Guerrero, así como su publicación en el Periódico Oficial del Gobierno del Estado, para su conocimiento general y efectos conducentes.
+
+QUINTO. Publíquese en la página web del H. Congreso del Estado, para su conocimiento general y efectos conducentes.
