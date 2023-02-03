@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-al-migrante-del-estado-de-aguascalientes-1604
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-30"
-last_updated: "2023-01-18"
+last_updated: "2023-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE PROTECCION AL MIGRANTE DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL INSTITUTO AGUASCALENTENSE DE LAS PERSONAS MIGRANTES, PUBLICADA EN EL P.O. DE 3 DE FEBRERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN AL MIGRANTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2023 (ABROGADA).
 
 Ley publicada en el Número 56 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -950,3 +952,51 @@ P.O. 18 DE ENERO DE 2023.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 292.- SE EXPIDE LA LEY ORGÁNICA DEL INSTITUTO AGUASCALENTENSE DE LAS PERSONAS MIGRANTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de la publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto queda abrogada la Ley de Protección al Migrante del Estado de Aguascalientes, publicada en la Edición Extraordinaria del Periódico Oficial del Estado de Aguascalientes, Número 56, Tomo XXIII, de fecha 30 de septiembre de 2022, incluyendo todas las reformas que haya sufrido dicho cuerpo normativo, así como todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto Aguascalentense de las Personas Migrantes previsto en la Ley de Protección al Migrante del Estado de Aguascalientes abrogada, continuará en funciones, y se convertirá por ministerio de ley, en el Instituto señalado en la presente.
+
+La persona Titular del Poder Ejecutivo del Estado podrá ratificar al titular de la Secretaría Ejecutiva del Instituto Aguascalentense de las Personas Migrantes.
+
+###### ARTÍCULO CUARTO.
+
+La Junta de Gobierno del Instituto Aguascalentense de las Personas Migrantes, deberá expedir su Reglamento Interior dentro de los ciento veinte días siguientes a la publicación del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado o la persona titular de la Secretaría Ejecutiva del Instituto Aguascalentense de las Personas Migrantes, según corresponda, llevarán a cabo las gestiones necesarias para garantizar el funcionamiento y operación de dicho Organismo Descentralizado.
+
+###### ARTÍCULO SEXTO.
+
+Los Poderes Legislativo y Ejecutivo del Estado de Aguascalientes podrán realizar, en el ámbito de sus competencias, las asignaciones presupuestales que resulten necesarias, a fin de dotar de los recursos humanos, materiales y financieros que permitan el cumplimiento del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se deberá continuar con la inscripción del Instituto Aguascalentense de las Personas Migrantes en los términos que establece la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, ante la instancia correspondiente.
+
+###### ARTÍCULO OCTAVO.
+
+A la entrada en vigor del presente Decreto, en caso de ser necesario, se realizarán las transferencias de personal, de recursos financieros y materiales de una Dependencia a este Organismo Descentralizado, a través de los acuerdos administrativos que según procedan. Los acuerdos administrativos, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado, así como las atribuciones que otras leyes les asignen, serán asumidos por aquella Dependencia y esta Entidad.
+
+Para efecto de lo anterior, la Secretaría de Administración, Secretaría de Finanzas y la Contraloría del Estado, deberán de coordinar y vigilar su cumplimiento.
+
+###### ARTÍCULO NOVENO.
+
+Para el cumplimiento del presente Decreto, se deberán llevar a cabo a través de las autoridades competentes, todos aquello (sic) asuntos, actos y procedimientos necesarios.
+
+###### ARTÍCULO DÉCIMO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto
