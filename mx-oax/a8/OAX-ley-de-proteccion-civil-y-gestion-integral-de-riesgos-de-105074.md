@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-de-105074
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2023-01-05"
+last_updated: "2023-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -205,7 +205,9 @@ LVIII. Programa Municipal: al Programa Municipal de Prevención de Riesgos y Pro
 
 LIX. Programa Nacional: al Programa Nacional de Protección Civil;
 
-LX. Protección Civil: es la acción solidaria y participativa que en consideración tanto de los riesgos de origen natural o antropogénico como de los efectos adversos de los fenómenos perturbadores, prevé la coordinación y concertación de los sectores público, privado y social en el marco del Sistema Nacional y del Sistema Estatal, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable y privilegiando la Gestión Integral de Riesgos y la Continuidad de Operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes, la infraestructura, la planta productiva y el medio ambiente;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2023)</small>
+
+LX. Protección Civil: es la acción solidaria y participativa que en consideración tanto de los riesgos de origen natural o antropogénico como de los efectos adversos de los fenómenos perturbadores, prevé la coordinación y concertación de los sectores público, privado y social en el marco del Sistema Nacional y del Sistema Estatal, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable y privilegiando la Gestión Integral de Riesgos y la Continuidad de Operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad, la alimentación y salud de la población, así como sus bienes, la infraestructura, la planta productiva y el medio ambiente;
 
 LXI. Reconstrucción: la acción transitoria orientada a alcanzar el entorno de normalidad social y económica que prevalecía entre la población antes de sufrir los efectos producidos por un fenómeno perturbador en un determinado espacio o jurisdicción. Este proceso debe buscar en la medida de lo posible la reducción de los riesgos existentes, asegurando la no generación de nuevos riesgos y mejorando para ello las condiciones preexistentes;
 
@@ -237,7 +239,9 @@ LXXIII. Sistema Municipal: al Sistema Municipal de Protección Civil;
 
 LXXIV. Siniestro: situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación, afectando a su población y equipo con posible afectación a instalaciones circundantes;
 
-LXXV. Subprograma de Auxilio: subprograma sustantivo que se refiere al conjunto de actividades destinadas principalmente a rescatar y salvaguardar a la población que se encuentra en peligro. Su instrumento operativo son los planes de emergencia y sus funciones son: alertamiento, evaluación de daños, coordinación de emergencia; seguridad, protección, salvamento y advertencia, servicios estratégicos; equipamiento y bienes; salud; aprovisionamiento; comunicación social; de emergencia; reconstrucción y vuelta a la normalidad;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2023)</small>
+
+LXXV. Subprograma de Auxilio: subprograma sustantivo que se refiere al conjunto de actividades destinadas principalmente a rescatar y salvaguardar a la población que se encuentra en peligro. Su instrumento operativo son los planes de emergencia y sus funciones son: alertamiento, evaluación de daños, coordinación de emergencia; seguridad, protección, salvamento y advertencia, servicios estratégicos; equipamiento y bienes, alimentación, salud; aprovisionamiento; comunicación social; de emergencia; reconstrucción y vuelta a la normalidad;
 
 LXXVI. Subprograma de Prevención: subprograma sustantivo de la Protección Civil, se refiere al conjunto de medidas destinadas a evitar o mitigar el impacto de las calamidades de origen natural o humano sobre la población y sus bienes, los servicios públicos, la planta productiva y la naturaleza. Sus funciones se desarrollan en dos procesos que son: la evaluación y la mitigación de riesgos;
 
@@ -265,9 +269,13 @@ La coordinación y aplicación de esta Ley se hará con respeto absoluto a las a
 
 Para la formulación y conducción de la política de Gestión Integral de Riesgos y Protección Civil así como para la emisión de las normas técnicas complementarias y términos de referencia que prevé esta Ley, las autoridades en materia de protección civil se ajustarán a los lineamientos establecidos en el Plan Estatal de Desarrollo Sustentable correspondiente, y a los siguientes principios rectores:
 
-I. Priorizar la prevención de riesgos y la protección a la vida, la salud, la integridad de las personas y sus bienes.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2023)</small>
 
-II. Inmediatez, equidad, profesionalismo, eficacia y eficiencia en la prestación del auxilio y entrega de recursos a la población en caso de emergencia o desastre;
+I. Priorizar la prevención de riesgos y la protección a la vida, la alimentación, la salud, la integridad de las personas y sus bienes.
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2023)</small>
+
+II. Inmediatez, equidad, profesionalismo, eficacia y eficiencia en la prestación del auxilio y entrega de alimentos y recursos a la población en caso de emergencia o desastre;
 
 III. Subsidiariedad, complementariedad, transversalidad y proporcionalidad en las funciones asignadas a las diversas instancias del gobierno, priorizando el análisis y la gestión prospectiva de los riesgos de desastre por encima de la gestión correctiva, en los principales sectores temáticos del desarrollo estatal;
 
@@ -839,6 +847,10 @@ Vocal E, el Titular de la Secretaría de Salud;
 
 Vocal F, el Titular de la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2023)</small>
+
+Vocal G, la o el Titular de la Secretaría del Bienestar del Estado de Oaxaca
+
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
 1. Un Comisario, que será el Titular de la Secretaría de Honestidad, Transparencia y Función Pública;
@@ -1037,7 +1049,9 @@ XXIV. Regular, operar, actualizar y ampliar el Sistema de Alerta Sísmica para e
 
 XXV. Difundir, mediante los medios idóneos, a las autoridades correspondientes y a la población en general, avisos y boletines informativos en casos de emergencia o desastre así como toda aquella información que permita la generación, desarrollo y consolidación de una cultura fundamentalmente de prevención de riesgos de desastres y protección civil;
 
-XXVI. Coordinar y regular la instalación de refugios temporales para brindar protección y bienestar a las personas afectadas por la emergencia o desastre;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2023)</small>
+
+XXVI. Coordinar y regular la instalación de refugios temporales para brindar protección, alimentación y bienestar a las personas afectadas por la emergencia o desastre.
 
 XXVII. Participar en la evaluación y cuantificación de los daños ocasionados por los desastres generados por fenómenos perturbadores de origen natural o humano, cuando así lo determinen las disposiciones específicas aplicables;
 
@@ -1129,9 +1143,13 @@ LIV. Emitir oficios de trámite y vialidad de los programas internos de protecci
 
 LV.- Expedir nombramientos internos y honoríficos de los delegados regionales de protección civil en el Estado; y
 
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE FEBRERO DE 2023)</small>
 
-LVI. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
+LVI. Promover y coordinar, con la Federación, los Municipios instituciones privadas y el sector social, la constitución de mecanismos tendientes a la obtención y donación de alimentos para ser entregados a las personas afectadas por los desastres naturales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE FEBRERO DE 2023)</small>
+
+LVII. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
@@ -2254,3 +2272,11 @@ OCTAVO. Cuando en diversas disposiciones legales se haga referencia al Servicio 
 NOVENO. Cuando en diversas disposiciones legales se haga referencia a Instituto Oaxaqueño de las Artesanías, se entenderá que se refiere a Instituto para el Fomento y la Protección de las Artesanías.
 
 DÉCIMO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 4 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 786.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
