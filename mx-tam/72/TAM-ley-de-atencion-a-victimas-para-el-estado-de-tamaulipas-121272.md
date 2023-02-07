@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-atencion-a-victimas-para-el-estado-de-tamaulipas-121272"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-08"
-last_updated: "2021-07-14"
+last_updated: "2023-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2023.
 
 Ley publicada en el Anexo al Extraordinario Número 6 del Periódico Oficial del Estado de Tamaulipas, el lunes 8 de mayo de 2017.
 
@@ -1217,9 +1217,17 @@ El Registro Estatal será integrado por las siguientes fuentes:
 
 I. Las solicitudes de ingreso hechas directamente por las víctimas del delito y de violaciones de derechos humanos, a través de su representante legal o de algún familiar o persona de confianza;
 
-II. Las solicitudes de ingreso que presenten cualquiera de las autoridades que tengan contacto con la víctima, en los términos de la presente Ley y su Reglamento; y
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2023)</small>
 
-III. Los registros de víctimas existentes al momento de la entrada en vigor de la presente Ley que se encuentren en cualquier institución o entidad del ámbito estatal o municipal, así como de la Comisión de Derechos Humanos del Estado en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación.
+II. Las solicitudes de ingreso que presenten cualquiera de las autoridades que tengan contacto con la víctima, en los términos de la presente Ley y su Reglamento;
+
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+III. Los registros de víctimas existentes al momento de la entrada en vigor de la presente Ley que se encuentren en cualquier institución o entidad del ámbito estatal o municipal, así como de la Comisión de Derechos Humanos del Estado en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación; y
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+IV. Los registros de niñas, niños y adolescentes en situación de orfandad por feminicidio, que se encuentren en cualquier institución o entidad del ámbito estatal o municipal; así como los registros de la Comisión Estatal de los Derechos Humanos, en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación.
 
 Las entidades e instituciones generadoras y usuarias de la información sobre las víctimas y que posean actualmente registros de víctimas, pondrán a disposición del Registro Estatal la información que generan y administran, de conformidad con lo establecido en las leyes que regulan el manejo de datos personales, para lo cual se suscribirán los respectivos acuerdos de confidencialidad para el uso de la información.
 
@@ -1950,3 +1958,11 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-513 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS Y A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
