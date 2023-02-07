@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-vivienda-social-del-estado-de-guerrero-numero-573-42622"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-14"
-last_updated: "2004-12-14"
+last_updated: "2023-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE VIVIENDA Y SOCIAL DEL ESTADO DE GUERRERO NUMERO 573
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 14 de diciembre de 2004.
 
@@ -85,7 +85,9 @@ XII. Población en Situación de Riesgo: Aquella que habita una vivienda en cond
 
 XIII. Población Vulnerable: La constituida por los adultos mayores y personas discapacitadas, jefas de hogar, madres solteras, población indígena, población con empleo temporal y/o informal de bajos recursos económicos;
 
-XIV. Política de Vivienda: Las medidas de carácter general que establece el Gobierno del Estado de Guerrero para garantizar el derecho a la vivienda;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+XIV. Política Estatal de Vivienda: el conjunto de disposiciones, criterios, lineamientos y medidas de carácter general que se establecen para coordinar acciones de vivienda que realicen las autoridades estatales y municipales, así como su concertación con los sectores privado y social, con la finalidad de cumplir con el mandato constitucional del derecho a la vivienda digna y decorosa;
 
 XV. Proceso Habitacional: La secuencia de actividades u operaciones de financiamiento, planeación, producción, distribución, uso y mejoramiento de las viviendas, así como de los materiales, elementos o componentes que las integran y el equipamiento y los servicios urbanos de la misma;
 
@@ -207,11 +209,15 @@ XVIII. Las demás que le otorgue la presente Ley y las disposiciones legales rel
 
 ### CAPITULO I. DE LOS LINEAMIENTOS GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 10.
 
-Sin menoscabo de lo establecido en la Ley de Desarrollo Urbano del Estado de Guerrero, la política de vivienda en la entidad, se orientará por los siguientes principios y líneas generales:
+La Política Estatal de Vivienda tiene por objetivo cumplir los fines de esta Ley sin menoscabo de lo establecido en la Ley (sic) Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano de Guerrero, se orientará por los siguientes principios y líneas generales siguientes:
 
-I. La congruencia con los Programas de Desarrollo Económico, Social y Urbano del Estado de Guerrero;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+I. La congruencia (sic) el Programa Nacional de Vivienda y con los Programas de Desarrollo Económico, Social y Urbano del Estado de Guerrero;
 
 II. La articulación y congruencia de las acciones de las dependencias y entidades de las Administraciones Públicas Estatal y Municipales, con las de los Sectores Social y Privado, tendientes a la integración del Sistema Estatal de Vivienda para la satisfacción de las necesidades habitacionales en el Estado;
 
@@ -221,11 +227,15 @@ IV. La vigilancia con la participación social, sobre los procesos de construcci
 
 V. La ampliación de la cobertura social de los mecanismos de financiamiento para la vivienda, a fin de que se canalice un mayor volumen de recursos a los trabajadores no asalariados, los marginados de las zonas urbanas, los campesinos y la población de ingresos medios;
 
-VI. La adecuación de las reglas de operación del sector financiero, bancario y constructor de vivienda a las necesidades y circunstancias de cada sector social y económico;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+VI. Promover medidas de mejora regulatoria encaminadas a fortalecer la seguridad jurídica, disminuir los costos de la vivienda y adecuación de las reglas de operación del sector financiero, bancario y constructor de vivienda a las necesidades y circunstancias de cada sector social y económico;
 
 VII. El mejoramiento del inventario habitacional y el padrón de demandantes de vivienda;
 
-VIII. El mejoramiento, organización y estímulo a los procesos de producción, mejoramiento y conservación de la vivienda urbana y rural y la promoción de sistemas constructivos socialmente apropiados;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+VIII. El mejoramiento, organización y estímulo a los procesos de producción, mejoramiento y conservación de la vivienda urbana y rural y la promoción para que la construcción de vivienda respete el entorno ecológico, la preservación, la sustentabilidad y el uso eficiente de los recursos naturales;
 
 IX. El apoyo a la construcción de la infraestructura de servicios para la vivienda, a través de la participación organizada de la comunidad;
 
@@ -237,9 +247,41 @@ XII. El reconocimiento, impulso y apoyo de los procesos habitacionales y de la p
 
 XIII. El destino de recursos a la investigación tecnológica, a la innovación y promoción de sistemas constructivos socialmente apropiados;
 
-XIV. El impulso a la autoconstrucción organizada y al movimiento social cooperativista de vivienda; y
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2023)</small>
 
-XV. La integración de la vivienda a su entorno ecológico y la preservación de los recursos y características del medio ambiente.
+XIV. El impulso a la autoconstrucción organizada y al movimiento social cooperativista de vivienda;
+
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+XV. La integración de la vivienda a su entorno ecológico y la preservación de los recursos y características del medio ambiente;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+XVI. Promover medidas, acciones y estrategias que proporcionen a la población información suficiente para la toma de decisiones sobre las tendencias del desarrollo urbano en su localidad y acerca de las opciones que ofrecen los programas institucionales y el mercado, de acuerdo con sus necesidades, posibilidades y preferencias;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+XVII. Fomentar la calidad de la vivienda y fijar los criterios mínimos de los espacios habitables y auxiliares;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+XVIII. Propiciar que las acciones de vivienda constituyan un factor de sustentabilidad ambiental, ordenación territorial y desarrollo urbano;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+XIX. Promover que los proyectos urbanos, de infraestructura y arquitectónicos de vivienda, así como sus procesos productivos y la utilización de materiales se adecúen a los rasgos culturales y locales para procurar su identidad y diversidad;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+XX. Promover una distribución digna y atención equilibrada de las acciones de vivienda en todo el estado, considerando las necesidades y condiciones locales y regionales, así como los distintos tipos y modalidades del proceso habitacional;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+XXI. Establecer esquemas y mecanismos institucionales de coordinación intergubernamental e interestatal en las zonas urbanas para hacer viable la convivencia en esos espacios que exhiben la diversidad social, política y cultural de la nación, y
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+XXII. Proveer esquemas que permitan la participación de las comunidades de las diversas regiones del Estado, principalmente las situadas en zonas en alta y muy alta marginación, de acuerdo con los indicadores del Consejo Nacional de Evaluación de la Política de Desarrollo Social, con la finalidad del mejoramiento continuo de sus viviendas e infraestructura pública.
 
 ### CAPITULO II. DE LOS PROGRAMAS
 
@@ -253,13 +295,17 @@ II. El Programa Operativo Anual de Vivienda; y
 
 III. Los Programas Municipales de Vivienda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 12.
 
-Los Programas señalados en el artículo anterior, en su ámbito de acción y temporalidad, y en congruencia con lo establecido en la Ley de Desarrollo Urbano del Estado de Guerrero, contendrán:
+Los Programas señalados en el artículo anterior, en su ámbito de acción y temporalidad, y en congruencia con lo establecido en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Guerrero contendrán:
 
 I. El diagnóstico de la situación habitacional en el Estado o Municipios;
 
-II. La política, objetivos, estrategias y lineamientos de acción;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+II. Las políticas públicas, objetivos, estrategias, metas, alcances, impacto urbano, prioridades y lineamientos de acción;
 
 III. Los lineamientos para la programación anual en materia de vivienda, del instituto y de las dependencias y entidades municipales competentes, con el señalamiento de metas y previsión de recursos;
 
@@ -269,19 +315,41 @@ V. Las bases para la coordinación entre la Federación, Estado y los Municipios
 
 VI. Las bases para la concertación con los Sectores Social y Privado;
 
-VII. La ejecución, en su caso, de proyectos estratégicos;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2023)</small>
 
-VIII. El sistema de evaluación;
+VII. La ejecución en su caso, de proyectos estratégicos que consideren la accesibilidad universal y la movilidad;
 
-IX. La congruencia con los Programas Sectoriales de Desarrollo Económico, Desarrollo Social, Desarrollo Urbano y, de Ecología y Medio Ambiente;
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+VIII. El sistema de evaluación, que garantiza la dotación de la infraestructura, y servicios públicos básicos;
+
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+IX. La congruencia con el Programa Nacional de Vivienda, con los Programas de Desarrollo Económico, Desarrollo Social, Desarrollo Urbano y, de Ecología y Medio Ambiente;
 
 X. Las estrategias generales de largo y mediano plazo que comprenderá las acciones básicas, el señalamiento de prioridades y su previsible impacto en el sistema económico y social;
 
 XI. La estrategia e instrumentos financieros;
 
-XII. Las bases de coordinación, mecanismos e instrumentos de participación de la población y de los productores sociales y privados; y
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2023)</small>
 
-XIII. Los demás que señalen el Plan Estatal de Desarrollo y otros ordenamientos legales.
+XII. Las bases de coordinación, mecanismos e instrumentos de participación de la población y de los productores sociales y privados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE FEBRERO DE 2023)</small>
+
+XIII. Las necesidades de suelo y reserva territoriales, así como la forma de atenderlas;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+XIV. La utilización preferente de diseños, sistemas y procedimientos constructivos, que fomenten el arraigo de las familias a su medio, la utilización de materiales locales, la preservación del equilibrio ecológico, la cultura de la sustentabilidad, así como el uso de tecnologías y sistemas constructivos que coadyuven a minimizar los déficits y elevar los niveles de habitabilidad de las viviendas, de salud y bienestar de las familias;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+XV. Los esquemas y mecanismos que fomenten la equidad, inclusión y accesibilidad universal a la vivienda, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE FEBRERO DE 2023)</small>
+
+XVI. Los demás que señalen otros ordenamientos legales en la materia.
 
 ###### Artículo 13.
 
@@ -1226,3 +1294,15 @@ El Secretario General de Gobierno.
 C. MAYOR LUIS LEON APONTE.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 196 POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA SOCIAL DEL ESTADO DE GUERRERO NÚMERO 573”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento, efectos procedentes y publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Publíquese en el Portal Web del H. Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
