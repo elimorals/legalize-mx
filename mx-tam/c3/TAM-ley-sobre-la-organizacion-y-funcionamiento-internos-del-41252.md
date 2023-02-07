@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2023-01-13"
+last_updated: "2023-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -1276,6 +1276,10 @@ d) Cumplir las demás funciones que le confieren esta ley, los ordenamientos rel
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 2. El titular de la Unidad de Servicios Administrativos y Financieros velará por el eficiente funcionamiento de los servicios que le competen; asimismo es el responsable de la integración y consolidación de la información financiera, contable, presupuestal, patrimonial y programática que se remitirá a la Secretaría de Finanzas del Poder Ejecutivo para la conformación del Tomo del Poder legislativo de la Cuenta Pública del Gobierno del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2023)</small>
+
+3. La Unidad de Servicios Administrativos y Financieros, instrumentará una política de “Cero Papel” por la cual se reducirá el uso de papel en los procesos parlamentarios y administrativos del Congreso del Estado, en los que no se requieran datos en papel para garantizar autenticidad, confiabilidad e inalterabilidad de alguna información. Para ello, instrumentará los mecanismos tecnológicos, procesales y de capacitación necesarios hasta lograr reducir el uso de papel en el Congreso. La Junta de Coordinación Política evaluará y validará los resultados de las estrategias adoptadas al inicio de cada periodo de sesiones y se comunicará el resultado al Pleno.
 
 ###### ARTICULO 65.
 
@@ -3802,3 +3806,25 @@ Derivado de la aprobación del presente Decreto, quedan sin efectos los Puntos d
 ###### ARTÍCULO TERCERO.
 
 Una vez aprobado el presente Decreto, el Coordinador del Grupo Parlamentario del partido político que haya obtenido más votos en el Estado, con base en lo previsto en el numeral 2 del artículo 29 de la presente reforma, inmediatamente asumirá la Presidencia de la Junta de Coordinación Política del Congreso del Estado Libre y Soberano de Tamaulipas.
+
+P.O. 7 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-514 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO 3 AL ARTÍCULO 64 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto surtirá efectos a partir de su expedición.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del primer mes de la entrada en vigor del presente Decreto, la Unidad de Servicios Administrativos y Financieros elaborará un programa de trabajo en el que se contemplan los siguientes puntos:
+
+A) Diagnóstico del uso de papel en el Congreso del Estado.
+
+B) Objetivos de disminución en el uso de papel de manera gradual en el Congreso del Estado.
+
+C) Plazos para alcanzar los objetivos de disminución del uso de papel en el Congreso del Estado.
+
+D) Definición de herramientas tecnológicas para alcanzar los objetivos de disminución de uso de papel en el Congreso del Estado.
+
+E) Herramientas para evaluar el cumplimiento de plazos y metas en la disminución del uso de papel en el Congreso del Estado.
