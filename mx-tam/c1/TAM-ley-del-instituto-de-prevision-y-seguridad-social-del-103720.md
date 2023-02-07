@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-instituto-de-prevision-y-seguridad-social-del-103720"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-26"
-last_updated: "2019-08-20"
+last_updated: "2023-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 1 ENERO DE 2015.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2023.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 26 de noviembre de 2014.
 
@@ -479,9 +479,11 @@ Cuando un pensionista reingrese al servicio, no podrá renunciar a la pensión q
 
 Las pensiones a que se refiere la presente Ley, son compatibles con el disfrute de otras pensiones que se reciban con el carácter de trabajador o familiar derechohabiente, mismas cuyo importe mensual en su conjunto no deberá exceder de diez veces el salario mínimo elevado al mes, siempre y cuando cumplan con los requisitos previamente establecidos en la presente ley.
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 38.
 
-La edad y el parentesco de los servidores públicos o los trabajadores y sus familiares derechohabientes, se acreditarán ante el Instituto en los términos de la legislación civil aplicable. La dependencia económica se acreditará mediante informaciones testimoniales que se rindan ante autoridad judicial o administrativa en fecha anterior a la muerte del servidor público o trabajador, o bien con documentación que extiendan las autoridades competentes a satisfacción del Instituto.
+La edad y el parentesco de los servidores públicos o los trabajadores y sus familiares derechohabientes, se acreditarán ante el Instituto en los términos de la legislación civil aplicable.
 
 ###### ARTÍCULO 39.
 
@@ -845,13 +847,17 @@ II.- Cuando hubiese contraído matrimonio con el servidor público, trabajador o
 
 2. Las limitaciones que establece este artículo no regirán cuando el fallecimiento sea consecuencia de un accidente o cuando, al morir el servidor público o trabajador, la viuda compruebe haber procreado hijos con él.
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 76.
 
-El derecho al goce de la pensión por viudez comenzará al día siguiente del fallecimiento del servidor público, trabajador o pensionista que genere derechos de acuerdo con la presente ley, y cesará con la muerte del beneficiario, o cuando la viuda, viudo, concubina o concubinario contrajeran matrimonio o entraran en concubinato. El disfrute de esta pensión no se suspenderá porque aquéllos desempeñen un trabajo remunerado.
+El derecho al goce de la pensión por viudez comenzará al día siguiente del fallecimiento del servidor público, trabajador o pensionista que genere derechos de acuerdo con la presente ley, y cesará con la muerte del beneficiario. El disfrute de esta pensión no se suspenderá porque los beneficiarios desempeñen un trabajo remunerado.
 
 ###### ARTÍCULO 77.
 
-1. La divorciada o el divorciado no tendrán derecho a la pensión por viudez de quien haya sido su cónyuge, a menos que a la muerte del servidor público, trabajador o pensionista, éste estuviese ministrándole alimentos por condena judicial y así se le ordene directamente al Instituto; la pensión será hasta por el mismo porcentaje que se venía disfrutando, siempre que no existan viuda o viudo o concubina con quien haya tenido hijos, o concubinario con derecho a la misma.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2023)</small>
+
+1. La divorciada o el divorciado no tendrán derecho a la pensión por viudez de quien haya sido su cónyuge, a menos que a la muerte del servidor público, trabajador o pensionista, éste estuviese ministrándole alimentos por condena judicial y así se le ordene directamente al Instituto; la pensión será hasta por el mismo porcentaje que se venía disfrutando, siempre que no existan viuda, viudo, concubina o concubinario con quien haya tenido hijos, con derecho a la misma.
 
 2. Cuando la divorciada o el divorciado disfruten de la pensión en los términos de este artículo, perderán dicho derecho si contraen nuevas nupcias, o si viviesen en concubinato.
 
@@ -1972,3 +1978,15 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-512 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 38, 76 Y 77, NUMERAL 1; DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las modificaciones contenidas en el presente Decreto serán aplicables para los beneficiarios derechohabientes del servidor público, trabajador o pensionista que haya fallecido con anterioridad a su publicación en el Periódico Oficial del Estado, siempre que no hayan comenzado con el trámite para el otorgamiento de la pensión por causa de muerte.
