@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-entrega-recepcion-de-la-administracion-publica-para-8419
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2016-06-15"
+last_updated: "2023-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -493,9 +493,11 @@ XV. Deberá solicitársele al servidor Público saliente, que señale un domicil
 
 La intervención de los representantes de la Entidad Superior de Auditoría y Fiscalización que la Ley establezca, la Secretaría de la Contraloría, el Consejo de la Judicatura del Poder Judicial y los demás órganos internos de control, según corresponda a su competencia, se dará directamente en los casos en que exista controversia en cuanto a la interpretación y cumplimiento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 20.
 
-El Acta de Entrega-Recepción se presentará por escrito y los anexos que le correspondan se presentarán preferentemente en medios magnéticos, digitales o electrónicos que serán integrados en cuatro originales para distribuirse entre cada uno de los participantes.
+El acta de Entrega-Recepción se presentará por escrito y los anexos que le correspondan se presentarán debidamente firmados por los servidores públicos que en ella intervienen, preferentemente en medios magnéticos, digitales o electrónicos que serán integrados en cuatro originales para distribuirse entre cada uno de los participantes, quedando un tanto en original bajo el resguardo, a su más estricta responsabilidad del Órgano Interno de Control que corresponda.
 
 ###### Artículo 21.
 
@@ -544,6 +546,12 @@ El Gobernador del Estado y los presidentes municipales en el ámbito de su compe
 Asimismo deberán realizar la entrega-recepción de su despacho al funcionario público entrante o al órgano interno de control administrativo correspondiente, o en su caso al superior jerárquico, los magistrados del Poder Judicial; en el caso de los diputados del Congreso del Estado, por licencia, o por el término de su encargo, la entrega la harán a las áreas correspondientes de las Secretarías: General, de Servicios Legislativos y Parlamentarios y la de Administración y Finanzas, del propio Congreso.
 
 Para el caso de la entrega-recepción global de administración por cambio de legislatura en el Congreso del Estado, se estará al procedimiento establecido en la Ley Orgánica para el Congreso del Estado de Morelos, referente a la Instalación del Congreso por la Comisión Instaladora de la nueva legislatura que deba sucederla, lo anterior con independencia de la aplicación de la presente ley en lo que corresponda.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2023)</small>
+
+###### Artículo 27
+
+Bis.- Las presidentas o presidentes municipales, que hayan sido reelectos en su cargo, al término de su primer periodo de ejercicio, su proceso de entrega recepción consistirá en realizar un informe que contenga de manera general la situación que guarda (sic) los recursos humanos, materiales, financieros, tanto de su despacho, como de la administración, el cual deberá presentarse ante su órgano interno de control.
 
 ###### Artículo 28.
 
@@ -720,3 +728,13 @@ P.O. 15 DE JUNIO DE 2016.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los articules 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 8 DE FEBRERO DE 2023.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO SETECIENTOS.- POR EL QUE SE REFORMA EL ARTÍCULO 20 Y SE ADICIONA UN ARTÍCULO 27-BIS A LA LEY DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS".]</small>
+
+PRIMERA. Remítase el presente decreto al Gobernador Constitucional del Estado, para efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al contenido del presente decreto.
