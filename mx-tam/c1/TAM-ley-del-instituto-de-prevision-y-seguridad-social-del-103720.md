@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-instituto-de-prevision-y-seguridad-social-del-103720"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-26"
-last_updated: "2023-02-07"
+last_updated: "2023-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DEL INSTITUTO DE PREVISION Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 1 ENERO DE 2015.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2023.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 26 de noviembre de 2014.
 
@@ -357,9 +357,17 @@ Ninguna aportación al Fondo del Instituto implica derecho de propiedad sobre su
 
 I.- Las licencias con goce de salario expedidas por las Entidades Públicas, en los términos de su normatividad aplicable;
 
-II.- Las licencias médicas expedidas por la institución de asistencia médica con la que se suscriba convenio para tal efecto, en los términos de su normatividad aplicable; y
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2023)</small>
 
-III.- Cuando el trabajador obtenga laudo favorable ejecutoriado por el tiempo en que estuvo separado del servicio.
+II.- Las licencias médicas expedidas por la institución de asistencia médica con la que se suscriba convenio para tal efecto, en los términos de su normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2023)</small>
+
+III.- Cuando el trabajador obtenga laudo favorable ejecutoriado por el tiempo en que estuvo separado del servicio; y
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2023)</small>
+
+IV.- Las licencias a las que hace referencia el artículo 33 Bis de la Ley del Trabajo de los Servidores Púbicos del Estado de Tamaulipas, las cuales deberán ser expedidas por el Instituto en un plazo no mayor a las veinticuatro horas contadas a partir de la presentación de la solicitud.
 
 2. Tratándose de separación por licencia concedida sin goce de sueldo, los servidores públicos o trabajadores durante el lapso de dicha licencia, podrán computar la antigüedad ante el Fondo de Pensiones, atendiendo lo dispuesto en el punto 8 del presente artículo.
 
@@ -1990,3 +1998,19 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las modificaciones contenidas en el presente Decreto serán aplicables para los beneficiarios derechohabientes del servidor público, trabajador o pensionista que haya fallecido con anterioridad a su publicación en el Periódico Oficial del Estado, siempre que no hayan comenzado con el trámite para el otorgamiento de la pensión por causa de muerte.
+
+P.O. 8 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-515 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS Y DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado de Tamaulipas contará con un periodo de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones al Reglamento de las Condiciones Generales de Trabajo.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto de Previsión y Seguridad Social del Estado de Tamaulipas contará con un periodo de 30 días naturales contados a partir de la entrada en vigor del Reglamento de las Condiciones Generales de Trabajo para expedir los lineamientos que establezcan el procedimiento para garantizar la expedición de las licencias por parte del Instituto.
