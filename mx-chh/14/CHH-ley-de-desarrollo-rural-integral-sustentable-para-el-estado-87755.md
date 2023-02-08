@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-rural-integral-sustentable-para-el-estado-877
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-17"
-last_updated: "2022-10-12"
+last_updated: "2023-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2023.
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 17 de marzo de 2012.
 
@@ -82,6 +82,10 @@ V. Impulsar políticas para la educación, la capacitación, el desarrollo de la
 > <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
 VI. Promover e impulsar programas y acciones que favorezcan a la agricultura, sobre todo la agricultura familiar y autosustentable.
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2023)</small>
+
+VII. Implementar acciones que incentiven, contribuyan y fomenten que los productos que se originan dentro del Estado, sean preferidos en su consumo por la población de la Entidad, para lo cual se deberán establecer vínculos comerciales y estratégicos tendentes a lograr este objetivo.
 
 ###### Artículo 6.
 
@@ -1788,3 +1792,11 @@ P.O. 12 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLEY/0299/2022 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXVII/RFLEY/0335/2022 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 5, LA FRACCIÓN VII, DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
