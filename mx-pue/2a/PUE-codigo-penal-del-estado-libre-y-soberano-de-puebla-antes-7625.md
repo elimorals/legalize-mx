@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2022-12-29"
+last_updated: "2023-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3427,11 +3427,11 @@ Al responsable de un delito de abuso sexual se le impondrán:
 
 I. Prisión de seis a diez años Y MULTA DE DOSCIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN, si el sujeto pasivo es mayor de catorce años y el delito se cometió sin su consentimiento o con su consentimiento viciado;
 
-(NOTA: EL 29 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 180/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE NOVIEMBRE DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 29 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 180/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE NOVIEMBRE DE 2024 DE FEBRERO DE 2023, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2023)</small>
 
-II. Si el sujeto pasivo del delito fuere persona menor de catorce años o se encontrare en otra circunstancia de desigualdad o sumisión de la víctima respecto al victimario que le impida oponer resistencia, estuviere privada de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia, se presumirá la violencia y la sanción será de seis a trece años de prisión Y MULTA DE QUINIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN, se haya ejecutado el delito sin su consentimiento o con consentimiento viciado, debiéndose aumentar hasta en otro tanto igual las sanciones, si el delito fuere cometido con intervención de dos o más personas, y
+II. Si el sujeto pasivo del delito fuere persona menor de catorce años o se encontrare en otra circunstancia de desigualdad o sumisión de la víctima respecto al victimario que le impida oponer resistencia, estuviere privada de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia, o por sumisión de la víctima respecto del victimario por haberle suministrado alcohol, fármacos, narcóticos, sustancia toxica o cualquier otra sustancia y no pudiera oponer resistencia, se presumirá la violencia y la sanción será de seis a trece años de prisión Y MULTA DE QUINIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN, se haya ejecutado el delito sin su consentimiento o con consentimiento viciado, debiéndose aumentar hasta en otro tanto igual las sanciones, si el delito fuere cometido con intervención de dos o más personas, y
 
 (NOTA: EL 29 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 180/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE NOVIEMBRE DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -3549,7 +3549,9 @@ Cuando el delito de violación sea cometido por quien desempeñe un cargo o empl
 
 Se equipara a la violación:
 
-I.- La cópula con persona privada de razón o de sentido, o que por enfermedad o cualquier otra causa, no pudiera resistir;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2023)</small>
+
+I.- La cópula con persona privada de razón o de sentido, o que por enfermedad o cualquier otra causa, no pudiera resistir o por sumisión de la víctima respecto del victimario por haberle suministrado alcohol, fármacos, narcóticos, sustancia toxica o cualquier otra sustancia y no pudiera oponer resistencia;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3639,15 +3641,13 @@ Además, en ambos casos, se sujetará al agresor a un tratamiento integral para 
 
 Si la persona que comete estos delitos fuere servidor público y utilizase los medios o circunstancias que su función le proporciona para ejecutar el hostigamiento o el acoso sexual, además se le sancionará con la destitución e inhabilitación de seis meses a dos años para desempeñar cualquier empleo, cargo o comisión públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 278 Sexies.
 
-Si el sujeto pasivo del delito de hostigamiento sexual es menor de dieciocho años de edad, o estuviere privado de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia a los actos que lo constituyen, se le impondrá al responsable de seis a diez años de prisión y multa de cien a quinientas unidades de medida y actualización.
+Si el sujeto pasivo del delito de hostigamiento sexual es menor de dieciocho años de edad, o estuviere privado de razón o de sentido, o por haberle administrado a la víctima alcohol, fármacos, narcóticos, sustancia toxica o cualquier otra sustancia, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia a los actos que lo constituyen, se le impondrá al responsable de seis a diez años de prisión y multa de cien a quinientas unidades de medida y actualización.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2021)</small>
-
-Si el sujeto pasivo del delito de acoso sexual es menor de dieciocho años de edad, o estuviere privado de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia a los actos que lo constituyen, se le impondrá al responsable de uno a tres años de prisión y multa de cien a quinientas unidades de medida y actualización.
+Si el sujeto pasivo del delito de acoso sexual es menor de dieciocho años de edad, o estuviere privado de razón o de sentido, o por haberle administrado a la víctima alcohol, fármacos, narcóticos, sustancia toxica o cualquier otra sustancia, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia a los actos que lo constituyen, se le impondrá al responsable de uno a tres años de prisión y multa de cien a quinientas unidades de medida y actualización.
 
 > <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
 
@@ -7716,3 +7716,11 @@ P.O. 29 DE DICIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 261, LA FRACCIÓN I DEL ARTÍCULO 272 Y EL ARTÍCULO 278 SEXIES, DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE SUMISIÓN QUÍMICA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
