@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-procedimiento-administrativo-para-el-estado-de-17530"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2017-03-01"
+last_updated: "2023-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2023.
 
 Ley publicada en la Sección Segunda al Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -475,9 +475,11 @@ La resolución que declare la nulidad de un acto administrativo, deberá precisa
 
 ### CAPÍTULO DÉCIMO PRIMERO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 54.
 
-El procedimiento se iniciará a instancia de parte agraviada mediante la presentación de un escrito inicial ante la autoridad emisora del acto administrativo que se impugne, dentro de los treinta días hábiles siguientes a la fecha de la notificación o a aquella en que se haya tenido conocimiento del acto.
+El procedimiento se iniciará de oficio o a instancia de parte agraviada, en cuyo caso, se dará tramite mediante la presentación de un escrito inicial ante la autoridad emisora del acto administrativo que se impugne, dentro de los treinta días hábiles siguientes a la fecha de la notificación o a aquella en que se haya tenido conocimiento del acto.
 
 ###### ARTÍCULO 55.
 
@@ -994,3 +996,13 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 8 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS TRES POR EL QUE SE REFORMA EL ARTÍCULO 54 DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente decreto.
