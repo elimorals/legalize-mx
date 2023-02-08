@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-y-presupuestario-para-el-municipio-de-puebla-1850
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-17"
-last_updated: "2021-12-24"
+last_updated: "2023-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2023.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 17 de diciembre de 1999.
 
@@ -344,6 +344,10 @@ XXVII. Tesorero.- El Titular de la Tesorería del Honorable Ayuntamiento del Mun
 ###### Artículo 2.
 
 Los contribuyentes o terceros interesados afectados por los actos y resoluciones de las autoridades fiscales municipales, así como quienes consideren que les causan agravio las resoluciones emitidas en los términos del artículo 365, 366 y 368 de este ordenamiento, podrán interponer el recurso administrativo de revisión, el cual será substanciado y resuelto por la Dirección Jurídica.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2023)</small>
+
+También procede el recurso administrativo de revisión en contra de los actos de autoridad en materia fiscal derivados de la aplicación del Código Reglamentario para el Municipio de Puebla.
 
 ###### Artículo 3.
 
@@ -755,9 +759,7 @@ III. Los Municipios del Estado de Puebla.
 
 Las personas que de conformidad con las leyes fiscales no estén obligadas a pagar contribuciones, productos u otros ingresos, únicamente tendrán las otras obligaciones fiscales que establezcan en forma expresa las propias leyes.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-En tratándose de bienes inmuebles exentos del pago de contribuciones a la propiedad raíz, los propietarios o poseedores deberán, además, solicitar oportunamente la declaración de exención respectiva de la autoridad fiscal para los efectos de lo dispuesto en el artículo 52 Ter de este Código.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 8 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 30.
 
@@ -1069,13 +1071,15 @@ II. Que el sujeto pasivo acompañe en forma completa los documentos que requiera
 
 III. Que el derecho para solicitar la devolución no se haya extinguido o precluido;
 
-IV. Que no haya créditos fiscales exigibles a su cargo, porque de haberlos, cualquier excedente se aplicará en cuenta;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2023)</small>
 
-V. Que si se trata de ingresos correspondientes a ejercicios fiscales anteriores, exista partida que reporte la erogación en el presupuesto de egresos del Municipio y saldo disponible; y
+IV. Que no haya créditos fiscales exigibles a su cargo, porque de haberlos, cualquier excedente se aplicará en cuenta; y
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2023)</small>
 
-VI. Que se dicte acuerdo escrito del Presidente, cuando su monto exceda de una cantidad equivalente al valor diario de una unidad de medida y actualización, elevado al año.
+V. Que si se trata de ingresos correspondientes a ejercicios fiscales anteriores, exista partida que reporte la erogación en el presupuesto de egresos del Municipio y saldo disponible.
+
+VI. (DEROGADA, P.O. 8 DE FEBRERO DE 2023)
 
 ###### Artículo 48.
 
@@ -1403,7 +1407,7 @@ I. Deberá estar establecida en una disposición materialmente legislativa;
 
 II. No deberá considerar contraprestación alguna;
 
-III. Su aplicación será futura;
+III. (DEROGADA, P.O. 8 DE FEBRERO DE 2023)
 
 IV. Será temporal; y
 
@@ -1653,9 +1657,11 @@ Procederá la cancelación de los créditos fiscales por resultar incosteable su
 
 La cancelación de créditos fiscales en las cuentas públicas, no libera de su pago al sujeto pasivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 63.
 
-Las autoridades fiscales sólo están obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados individualmente, de su resolución favorable se derivan derechos para el particular y en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido por escrito por la autoridad competente para ello.
+Las autoridades fiscales sólo están obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados individualmente, de su resolución favorable se derivan derechos para el particular en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido por escrito por la autoridad competente para ello.
 
 Las resoluciones administrativas de carácter individual o dirigidas a agrupaciones, dictadas en materia de contribuciones municipales que otorguen una autorización o que, siendo favorables a particulares, determinen un tratamiento fiscal especial, surtirán sus efectos en el caso, para el ejercicio fiscal para el cual se hubieren dictado.
 
@@ -2653,9 +2659,9 @@ II. Con prisión de uno a cuatro años y multa del equivalente al valor diario d
 
 Las notificaciones de los actos administrativos se harán:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2023)</small>
 
-I. Personalmente, por correo certificado con acuse de recibo, o por medios electrónicos, con acuse de recibo, siempre que se ostente la firma electrónica avanzada del servidor público competente previa autorización de la Secretaría de Administración del Gobierno del Estado de Puebla, cuando se trate de citatorios, requerimientos, solicitudes de informes, documentos o acuerdos administrativos, que puedan ser recurridos;
+I. Personalmente, por exhorto, por correo certificado con acuse de recibo, o por medios electrónicos, con acuse de recibo, siempre que se ostente la firma electrónica avanzada del servidor público competente previa autorización de la Secretaría de Administración del Gobierno del Estado de Puebla, cuando se trate de citatorios, requerimientos, solicitudes de informes, documentos o acuerdos administrativos, que puedan ser recurridos;
 
 II. Por correo ordinario o por telegrama, cuando se trate de actos distintos a los señalados en la fracción anterior;
 
@@ -2732,6 +2738,14 @@ El mensaje de datos se tendrá por expedido en el lugar donde el firmante tenga 
 Cuando se realicen cualquiera de los actos regulados por este Código a través de un mensaje de datos en hora o día inhábil, se tendrá por realizado en la primera hora hábil del siguiente día hábil y se tendrán por no realizados cuando no contengan un mensaje de datos.
 
 Quienes opten por el uso de los medios electrónicos, estarán obligados a conservar por un plazo mínimo de 5 años los originales de aquellos mensajes de datos que den nacimiento a derechos y obligaciones, a menos que se estipule otro plazo en la Ley que rija el acto o documento que se deba conservar.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2023)</small>
+
+###### Artículo 107 Ter.
+
+En el caso de las notificaciones personales que se deban realizar fuera del territorio del Municipio o del Estado, se podrá solicitar el auxilio del Poder Judicial del Estado para que se realice por medio de exhorto.
+
+Las notificaciones personales que se deban realizar en el extranjero se podrán encomendar por medio de exhorto a la Dependencia federal encargada de las relaciones exteriores del Estado Mexicano.
 
 ###### Artículo 108.
 
@@ -4643,53 +4657,11 @@ La obtención de licencias que autoricen la prestación del servicio de estacion
 
 Forma de pago, la que se establezca en la Ley de Ingresos y/o acuerdo de cabildo.
 
-(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005) (REUBICADO, P.O. 29 DE DICIEMBRE DE 2006)
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 274 Quáter.
 
-Es base gravable de este derecho el número de licencias o refrendos que correspondan a cada uno de los siguientes giros:
-
-I. Miscelánea o ultramarinos con venta de cerveza y bebidas refrescantes con una graduación alcohólica de hasta 6° Gay Lusak en envase cerrado;
-
-II. Miscelánea o ultramarinos con venta de bebidas alcohólicas en envase cerrado;
-
-III. Pulquería;
-
-IV. Cervecería, alimentos con venta de cerveza;
-
-V. Restaurante con venta de bebidas alcohólicas;
-
-VI. Depósito de cerveza;
-
-VII. Vinatería;
-
-VIII. Baños públicos con venta de cerveza;
-
-IX. Billares o boliche con venta de cerveza en botella abierta;
-
-X. Bar, Restaurante-bar;
-
-XI. Cantina;
-
-XII. Salón social con venta de bebidas alcohólicas;
-
-XIII. Hotel, Motel y Auto hotel con servicio de restaurante-bar;
-
-XIV. Discoteca;
-
-XV. Cabaret;
-
-XVI. Vinatería con servicio de 24 horas;
-
-XVII. Tienda de autoservicio departamental con venta de bebidas alcohólicas en envase cerrado;
-
-XVIII. Tienda de autoservicio con venta de bebidas alcohólicas en envase cerrado;
-
-XIX. Tienda de autoservicio con venta de bebidas alcohólicas las 24 horas en envase cerrado; y
-
-XX. Cualquier otro giro que implique enajenación o expendio de bebidas alcohólicas en envase cerrado o abierto, no incluida en los anteriores.
-
-Los giros comerciales contemplados en las tracciones anteriores, quedarán sujetos al horario establecido en los reglamentos, acuerdos que expida el Ayuntamiento, o conforme a los acuerdos de coordinación que celebre con otros gobiernos, a efectos de regular y homologar el funcionamiento y horario de diversos establecimientos comerciales con venta de bebidas alcohólicas o de establecer programas de interés público.
+La base gravable de este derecho son las licencias o refrendos que correspondan a cada uno de los giros que impliquen enajenación o expendio de bebidas alcohólicas en envase cerrado o abierto, previstas en el Capítulo 14 Título II del Código Reglamentario para el Municipio de Puebla.
 
 (ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005) (REUBICADO, P.O. 29 DE DICIEMBRE DE 2006)
 
@@ -7030,3 +7002,11 @@ P.O. 24 DE DICIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado Libre y Soberano de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se oponga al presente Decreto.
+
+P.O. 8 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES IV Y V DEL ARTÍCULO 47, EL PRIMER PÁRRAFO DEL 63, LA FRACCIÓN I DEL 104 Y EL 274 QUÁTER; ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 2 Y EL ARTÍCULO 107 TER; Y DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 29, LA FRACCIÓN VI DEL 47 Y LA FRACCIÓN III DEL 52 TER, TODOS DEL CÓDIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
