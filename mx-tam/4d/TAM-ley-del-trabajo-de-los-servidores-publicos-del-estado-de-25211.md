@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2022-11-09"
+last_updated: "2023-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -469,31 +469,33 @@ XX.- Otorgar permiso, con el debido justificante, con goce íntegro de sueldo a 
 
 XXI.- Otorgar permiso por luto, por un plazo mínimo de 3 días con goce de sueldo a las personas trabajadoras por muerte de algún familiar dentro del primer grado por consanguinidad o afinidad. Estos días serán aquellos inmediatos al deceso.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2023)</small>
 
 ###### ARTICULO 33 Bis.
 
-Para los casos de madres o padres servidores públicos del Estado, cuyos hijos menores de 18 años o mayores de edad que presenten una discapacidad que amerite el cuidado de un familiar hayan sido diagnosticados por la Institución de Salud correspondiente con cáncer de cualquier tipo, podrán gozar de una licencia por cuidados médicos de los hijos para ausentarse de sus labores en caso de que el niño, niña, adolescente o mayor de edad con discapacidad diagnosticado requiera de descanso médico en los periodos críticos de tratamiento o de hospitalización durante el tratamiento médico, de acuerdo a la prescripción del médico tratante, incluyendo, en su caso, el tratamiento destinado al alivio del dolor y los cuidados paliativos por cáncer avanzado.
+Para los casos de madres, padres o personas tutoras servidoras públicas del gobierno del Estado, cuyas hijas o hijos menores de 18 años o mayores de edad que presenten una discapacidad y que hayan sido diagnosticados con cáncer de cualquier tipo por la Institución de Salud estatal o federal, cuando así lo soliciten, gozarán por parte del Instituto de Previsión y Seguridad Social del Estado de Tamaulipas de una licencia por cuidados médicos de las o los hijos para ausentarse de sus labores en caso de que el niño, niña, adolescente o mayor de edad con discapacidad diagnosticado requiera de descanso médico en los periodos críticos de tratamiento o de hospitalización durante el tratamiento médico, de acuerdo a la prescripción de la o el médico tratante, incluyendo, en su caso, el tratamiento destinado al alivio del dolor y los cuidados paliativos por cáncer avanzado.
 
-La Institución de Salud correspondiente podrá expedir a alguno de los padres servidores públicos del Estado, que se sitúe en el supuesto previsto en el párrafo que antecede, una constancia que acredite el padecimiento oncológico y la duración del tratamiento respectivo, a fin de que el patrón o patrones de éstos tengan conocimiento de tal licencia.
+La institución de Salud estatal o federal con la que medie convenio para prestar el servicio médico a las madres, padres o personas tutoras servidoras públicas del gobierno del Estado en términos de la Ley Instituto de Previsión y Seguridad Social del Estado de Tamaulipas, expedirá a las o los sujetos señalados que se sitúen en el supuesto previsto en el párrafo que antecede, una constancia que acredite el padecimiento oncológico y la duración del tratamiento respectivo, a fin de que su jefa o jefe inmediato tenga conocimiento de tal licencia.
 
-La licencia expedida por la Institución de Salud correspondiente al padre o madre trabajador asegurado, tendrá una vigencia de uno y hasta veintiocho días.
+La licencia expedida por el Instituto de Previsión y Seguridad Social del Estado de Tamaulipas al padre, madre o persona tutora servidora pública del gobierno del Estado, tendrá una vigencia de uno y hasta veintiocho días.
 
-Podrán expedirse tantas licencias como sean necesarias durante un periodo máximo de tres años sin que se excedan trescientos sesenta y cuatro días de licencia, mismos que no necesariamente deberán ser continuos.
+Podrán expedirse las licencias que sean necesarias durante un periodo máximo de tres años sin que se excedan trescientos sesenta y cuatro días de licencia, mismos que no necesariamente deberán ser continuos.
 
-Las madres o padres servidores públicos del Estado ubicados en el supuesto establecido en los párrafos que anteceden y que hayan cubierto por lo menos treinta cotizaciones semanales en el periodo de doce meses anteriores a la fecha del diagnóstico por los servicios médicos institucionales, y en caso de no cumplir con este periodo, tener al menos registradas cincuenta y dos semanas de cotización inmediatas previas al inicio de la licencia, gozarán de un subsidio equivalente al sesenta por ciento del último salario diario de cotización registrado por la Institución en que labora.
+Las madres, padres o personas tutoras servidoras públicas del gobierno del Estado ubicados en el supuesto establecido en los párrafos que anteceden y que hayan cubierto por lo menos treinta cotizaciones semanales en el periodo de doce meses anteriores a la fecha del diagnóstico por los servicios médicos institucionales, y en caso de no cumplir con este periodo, tener al menos registradas cincuenta y dos semanas de cotización inmediatas previas al inicio de la licencia, gozarán de un subsidio equivalente al sesenta por ciento del último salario diario de cotización registrado por la Institución en que labora.
 
-La licencia a que se refiere el presente artículo, únicamente podrá otorgarse a petición de parte, ya sea al padre o madre que tenga a su cargo el ejercicio de la patria potestad, la guarda y custodia del menor o al mayor de edad con discapacidad que por su condición amerite el cuidado de un familiar. En ningún caso se podrá otorgar dicha licencia a ambos padres.
+La licencia a que se refiere el presente artículo, únicamente podrá otorgarse a petición de parte, ya sea al padre, madre o persona tutora servidora pública que tenga a su cargo el ejercicio de la patria potestad, la guarda y custodia de la o el menor de edad o la persona mayor de edad con discapacidad que por su condición amerite el cuidado de un familiar. En ningún caso se podrá otorgar dicha licencia a ambos padres.
 
-Las licencias otorgadas a padres o madres servidores públicos del Estado previstas en el presente artículo, cesarán:
+Las licencias otorgadas a padres, madres o personas tutoras servidoras públicas del gobierno del Estado previstas en el presente artículo, cesarán:
 
-I.- Cuando no se requiera de hospitalización o de reposo médico en los periodos críticos del tratamiento;
+I.- Cuando la o el menor de edad o la persona mayor de edad con discapacidad no requiera de hospitalización o de reposo médico en los periodos críticos del tratamiento;
 
-II.- Por ocurrir el fallecimiento del enfermo;
+II.- Por ocurrir el fallecimiento de la o el menor de edad o la persona mayor de edad con discapacidad;
 
-III.- Cuando el menor cumpla 18 años, con excepción de las personas con discapacidad que por su condición ameriten el cuidado de un familiar; y
+III.- Cuando la persona diagnosticada cumpla 18 años, con excepción de las personas con discapacidad que por su condición ameriten el cuidado del padre, madre o persona tutora; y
 
-IV.- Cuando el ascendiente que goza de la licencia, sea contratado por un nuevo patrón.
+IV.- Cuando el padre, madre o persona tutora que goza de la licencia, deje de prestar sus servicios al Gobierno del Estado.
+
+La licencia a que se refiere el presente artículo se deberá expedir por el Instituto de Previsión y Seguridad Social del Estado de Tamaulipas en un plazo no mayor a las veinticuatro horas contadas a partir de la presentación de la solicitud.
 
 ###### ARTICULO 34.
 
@@ -840,6 +842,18 @@ Las remuneraciones o sueldos que perciben los directivos y empleados de la organ
 ###### ARTICULO 71.
 
 (DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2023)</small>
+
+###### ARTICULO 71 Bis.
+
+Los procedimientos de elección de las directivas sindicales deberán salvaguardar el pleno ejercicio del voto personal, libre, directo y secreto de los miembros, así como ajustarse a reglas democráticas y de paridad de género. El periodo de duración de las directivas no podrá ser indefinido o de una temporalidad tal que obstaculice la participación democrática de los afiliados, y tampoco podrá ser lesivo al derecho de votar y ser votado. Las elecciones que incumplan estos requisitos serán nulas.
+
+Lo anterior, será requisito para la validez de la celebración del contrato colectivo, así como de las negociaciones inherentes a la defensa y conquista de derechos de los miembros del sindicato.
+
+Quien encabeza la directiva no podrá reelegirse para el periodo inmediato siguiente.
+
+En todo momento el periodo de la directiva podrá ser revocada por la votación de la mayoría de los miembros del sindicato y se llamará a nueva elección.
 
 ## TITULO OCTAVO. DE LA HUELGA
 
@@ -1664,3 +1678,27 @@ Las estructuras orgánicas internas de la Secretaría de Seguridad Pública para
 ###### ARTÍCULO DÉCIMO TERCERO.
 
 Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+P.O. 8 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-515 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS Y DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado de Tamaulipas contará con un periodo de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones al Reglamento de las Condiciones Generales de Trabajo.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto de Previsión y Seguridad Social del Estado de Tamaulipas contará con un periodo de 30 días naturales contados a partir de la entrada en vigor del Reglamento de las Condiciones Generales de Trabajo para expedir los lineamientos que establezcan el procedimiento para garantizar la expedición de las licencias por parte del Instituto.
+
+P.O. 8 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-516 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 71 BIS A LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
