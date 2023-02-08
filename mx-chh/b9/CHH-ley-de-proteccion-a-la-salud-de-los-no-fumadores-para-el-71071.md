@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-a-la-salud-de-los-no-fumadores-para-el-71071"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-07"
-last_updated: "2017-02-22"
+last_updated: "2023-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 7 de noviembre de 2009.
 
@@ -91,7 +91,9 @@ V. Dueño: El propietario, la persona física o moral a nombre de quien se encue
 
 VI. Escuelas: Los recintos de enseñanza inicial, básica, media superior y superior, para adultos y de formación para el trabajo en el sector público o privado.
 
-VII. Espacios 100% Libres de Humo: Es toda área física, lugar de trabajo o transporte, en los que por razones de orden público e interés social, queda prohibido fumar o tener encendido cualquier producto de tabaco.
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2023)</small>
+
+VII. Espacios 100% Libres de Humo de Tabaco y Emisiones: Es toda área física, lugar de trabajo o transporte público, en los que por razones de orden público e interés social, queda prohibido fumar o tener encendido cualquier producto de tabaco o de nicotina.
 
 VIII. Fumador: La persona que tiene la voluntad y hábito de consumir productos de tabaco, mediante la inhalación por la combustión del mismo, bajo la forma de cigarrillo, puros, otros tabacos labrados y mediante el uso de pipas o instrumento similar.
 
@@ -102,6 +104,10 @@ X. Fumar: Acción y efecto de inhalar y exhalar el humo generado por la combusti
 XI. Ley: La Ley de Protección a la Salud de los No Fumadores para el Estado de Chihuahua.
 
 XII. Lugar Público: Sitio cercado, cerrado o cubierto, destinado a la venta de un producto, a la prestación de un servicio de cualquier naturaleza, a la realización de una obra, trabajo, actividad humana o cualquier otro análogo, sea de una persona de derecho público o privado, en el que puedan concurrir dos o más personas, con un mismo fin o con otro distinto.
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2023)</small>
+
+XII Bis. Lugar de Trabajo: Son todos los utilizados por las personas durante su trabajo. Incluye no solo aquellos donde se realiza, sino también todos los conexos y anexos que los trabajadores suelen utilizar en el desempeño de su empleo, así como los vehículos que se utilizan mientras se realiza el trabajo.
 
 XIII. No Fumadores: Todas aquellas personas que no tienen el hábito de fumar.
 
@@ -122,6 +128,10 @@ XIX. Secretaría: A la Secretaría de Salud de Gobierno del Estado de Chihuahua.
 XX. Tabaco: La planta “Nicotina Tabacum” y sus sucedáneos, en su forma natural o modificada, en las diferentes presentaciones, que se utilicen para ser fumado, chupado, mascado o utilizado como rapé.
 
 XXI. Tabaquismo: Adicción a la nicotina.
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2023)</small>
+
+XXII. Transporte Público: Aquel vehículo individual o colectivo que circule por tierra, aire o agua utilizado para transportar personas, generalmente con fines comerciales, laborales, escolares u otros, que regularmente se obtiene una remuneración, incluye terminales, estaciones, paradas y otras instalaciones de mobiliario urbano conexo.
 
 ### Capítulo II. De la Distribución de Competencias y de las Atribuciones
 
@@ -155,7 +165,13 @@ VIII. Sancionar a los propietarios o titulares de los establecimientos mercantil
 
 IX. Sancionar a los particulares que, al momento de la visita, hayan sido encontrados consumiendo tabaco en los lugares en los que se encuentre prohibido, siempre y cuando se les invite a modificar su conducta y se nieguen a hacerlo, y
 
-X. Ejercer las demás atribuciones que determine la presente Ley y sus disposiciones reglamentarias.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE FEBRERO DE 2023)</small>
+
+X. Fomentar y concientizar acerca de la contaminación provocada por los residuos del tabaco y su debido desechamiento en recipientes destinados a este fin.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE FEBRERO DE 2023)</small>
+
+XI. Ejercer las demás atribuciones que determine la presente Ley y sus disposiciones reglamentarias.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
@@ -199,7 +215,13 @@ IV. Vigilar el cumplimiento de las disposiciones de esta Ley;
 
 V. Suscribir convenios con el Estado para la aplicación de la presente Ley, y
 
-VI. Ejercer las demás atribuciones que determine la presente Ley y sus disposiciones reglamentarias.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE FEBRERO DE 2023)</small>
+
+VI. Fomentar y concientizar acerca de la contaminación provocada por los residuos del tabaco y su debido desechamiento en recipientes destinados a este fin.
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2023)</small>
+
+VII. Ejercer las demás atribuciones que determine la presente Ley y sus disposiciones reglamentarias.
 
 ###### Artículo 7.
 
@@ -223,9 +245,11 @@ VI. Las organizaciones de la sociedad civil.
 
 Las acciones para la ejecución de los programas contra el tabaquismo deberán atender a lo dispuesto en este Capítulo, sin perjuicio de lo que establezcan las demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 9.
 
-La Secretaría, en coordinación con las autoridades federales, estatales, municipales y los sectores social y privado, implementará programas preventivos permanentes contra los efectos nocivos causados por el consumo del tabaco, a fin de fomentar que sus disposiciones sean aplicadas.
+La Secretaría, en coordinación con autoridades federales, estatales, municipales y los sectores social y privado, implementará programas preventivos permanentes contra los efectos nocivos para el ser humano y el medio ambiente, causados por el consumo del tabaco, a fin de fomentar que sus disposiciones sean aplicadas.
 
 ###### Artículo 10.
 
@@ -333,29 +357,41 @@ Se prohíben las siguientes actividades:
 
 I. El comercio, donación, regalo, venta y suministro de productos del tabaco a menores de edad;
 
-II. El comercio, donación, regalo, venta y suministro de productos del tabaco en instituciones educativas públicas y privadas, y
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2023)</small>
+
+II. El comercio, donación, regalo, venta y suministro de productos del tabaco en instituciones educativas públicas y privadas;
 
 III. Emplear a menores de edad en actividades de comercio, producción, distribución, suministro y venta de estos productos.
 
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2023)</small>
+
+IV. Realizar toda forma de publicidad, promoción y patrocinio de los productos elaborados con tabaco, en forma directa o indirecta, a través de cualquier medio de difusión o comunicación que posicione elementos de la marca de estos, que fomente la compra, el consumo o preferencia por parte de la población.
+
 ### Capítulo V. Del Consumo y Protección de la Exposición al Humo de Tabaco
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 18.
 
-Queda prohibido a cualquier persona consumir o tener encendido cualquier producto del tabaco en los espacios 100% libres de humo del tabaco.
+Queda prohibido a cualquier persona consumir o tener encendido cualquier producto del tabaco y nicotina en los espacios 100% libres de humo del tabaco y emisiones, así como en espacios de concurrencia colectiva y en cualquier otro lugar con acceso al público que en forma expresa lo establezca la Secretaría.
 
 En dichos lugares se fijará en el interior y exterior los letreros y señalamientos que establezca la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 19.
 
-En lugares con acceso al público, o en áreas interiores de trabajo, públicas o privadas, incluidas las universidades e instituciones de educación superior, podrán existir zonas exclusivamente para fumar, las cuales deberán ubicarse:
+En lugares con acceso al público en forma libre o restringida, lugares de trabajo, públicos o privados, incluidas las universidades e instituciones de educación superior, podrán existir zonas exclusivamente para fumar, las cuales deberán ubicarse:
 
 I. En espacios al aire libre;
 
 II. En espacios interiores aislados, siempre y cuando dispongan de mecanismos que eviten el traslado de partículas hacia los espacios 100% libres de humo de tabaco y que no sean paso obligado para los no fumadores.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 20.
 
-El propietario, administrador o responsable de un espacio 100% libre de humo del tabaco, está obligado a hacer respetar las disposiciones establecidas en esta Ley.
+El propietario, administrador o responsable de un espacio 100% libre de humo del tabaco y emisiones, está obligado a hacer respetar las disposiciones establecidas en esta Ley.
 
 ###### Artículo 21.
 
@@ -363,9 +399,11 @@ En todos los espacios 100% libres de humo del tabaco y en las zonas exclusivamen
 
 ### Capítulo VI. De los Espacios 100% Libres de Humo del Tabaco
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 22.
 
-Se establecen como espacios 100% libres de humo del tabaco, los siguientes lugares:
+Se establecen como espacios 100% libres de humo del tabaco y emisiones, los siguientes lugares:
 
 I. Oficinas, cubículos, salas de juntas y anexos de dependencias gubernamentales, federales, estatales y municipales;
 
@@ -397,11 +435,11 @@ XIII. En general, en todo lugar cerrado al que tenga acceso el público.
 
 ### Capítulo VII. De las Obligaciones
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 23.
 
-Los propietarios, encargados o responsables de los espacios 100% libres de humo del tabaco, deberán colocar dentro de los mismos, en lugares visibles, letreros o señalamientos que indiquen la prohibición de fumar, debiéndose incluir un número telefónico para facilitar la denuncia por incumplimiento a esta Ley.
+Los propietarios, encargados o responsables de los espacios 100% libres de humo del tabaco y emisiones, deberán colocar dentro de los mismos, en lugares visibles, letreros o señalamientos que indiquen la prohibición de fumar, debiéndose incluir un número telefónico para facilitar las denuncias, quejas y/o sugerencias respecto al incumplimiento a esta Ley.
 
 ###### Artículo 24.
 
@@ -628,3 +666,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 8 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0332/2022 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
