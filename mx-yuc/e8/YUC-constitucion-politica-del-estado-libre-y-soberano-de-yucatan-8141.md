@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2022-12-30"
+last_updated: "2023-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE FEBRERO DE 2023.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -138,6 +138,26 @@ El derecho a la ciudad permite garantizar el ejercicio pleno de los derechos hum
 > <small>(ADICIONADO, D.O. 8 DE AGOSTO DE 2022)</small>
 
 El Estado garantizará el derecho a la ciudad que consiste en el uso y el usufructo pleno y equitativo de los asentamientos humanos, fundado en principios de justicia social, democracia, participación ciudadana, igualdad, sustentabilidad, sostenibilidad, respeto a la diversidad en todas sus formas de expresión, a la naturaleza y al ambiente, de acuerdo a la legislación aplicable.
+
+> <small>(ADICIONADO, D.O. 9 DE FEBRERO DE 2023)</small>
+
+El Estado reconoce el derecho humano a la buena administración pública, conforme a principios de eficacia, eficiencia, generalidad, uniformidad, continuidad, calidad y uso de las tecnologías de la información y comunicación. Todas las instituciones y organismos públicos, en el ámbito de sus competencias y que realicen actos materialmente de administración pública, deben garantizar este derecho.
+
+> <small>(ADICIONADO, D.O. 9 DE FEBRERO DE 2023)</small>
+
+El derecho a la buena administración pública implica que la actuación de las autoridades se realice con dignidad y respeto, así como la prestación de servicios públicos bajo los principios de regularidad, claridad, prontitud, disponibilidad, accesibilidad, asequibilidad, aceptabilidad, adaptabilidad, calidad y participación ciudadana informada, honestidad, incluyente y profesional a fin de garantizar los derechos de las personas y su centralidad.
+
+> <small>(ADICIONADO, D.O. 9 DE FEBRERO DE 2023)</small>
+
+Las autoridades administrativas deberán garantizar la audiencia previa frente a toda resolución que constituya un acto privativo de autoridad. En tales supuestos, resolverán, dentro de un plazo razonable, de un modo imparcial, proporcional y con equidad, observando el debido procedimiento. Además, asegurarán el acceso al expediente administrativo, con respeto a la confidencialidad, reserva y protección de datos personales. El combate a la corrupción, transparencia, acceso a la información y la profesionalización de las personas servidoras públicas son componentes de este derecho. Las autoridades conformarán un sistema de índices de calidad de los servicios públicos basado en criterios técnicos y acorde a los principios señalados en este artículo.
+
+> <small>(ADICIONADO, D.O. 9 DE FEBRERO DE 2023)</small>
+
+De conformidad con lo que dispongan en las normas aplicables, las personas podrán impugnar cualquier acto u omisión de las autoridades que vulnere su derecho a la buena administración pública, para lo cual será suficiente acreditar un interés legítimo. La Ley en la materia establecerá un mecanismo ágil y accesible para reparar de forma oportuna el daño que se derive de las violaciones a este derecho.
+
+> <small>(ADICIONADO, D.O. 9 DE FEBRERO DE 2023)</small>
+
+Los actos o resoluciones administrativas de las autoridades del Estado, que tengan carácter definitivo, podrán ser recurridos ante el Tribunal de Justicia Administrativa del Estado de Yucatán, conforme a lo dispuesto en la ley de la materia.
 
 > <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2005)</small>
 
@@ -5282,3 +5302,19 @@ Artículo Primero. El presente decreto entrará en vigor el día de su publicaci
 Cláusula derogatoria.
 
 Artículo Segundo.- Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 9 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 605/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE RECONOCIMIENTO DEL DERECHO HUMANO A LA BUENA ADMINISTRACIÓN PÚBLICA”.]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Normatividad secundaria
+
+Artículo segundo. El Congreso del Estado contará con 180 días hábiles posteriores a la entrada en vigor de este Decreto, para armonizar y expedir la legislación secundaria correspondiente.
+
+Cláusula derogatoria
+
+Artículo tercero. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
