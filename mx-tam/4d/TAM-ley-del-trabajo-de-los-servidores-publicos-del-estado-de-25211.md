@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2023-02-08"
+last_updated: "2023-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -468,6 +468,10 @@ XX.- Otorgar permiso, con el debido justificante, con goce íntegro de sueldo a 
 > <small>(ADICIONADA, P.O. 14 DE JULIO DE 2021)</small>
 
 XXI.- Otorgar permiso por luto, por un plazo mínimo de 3 días con goce de sueldo a las personas trabajadoras por muerte de algún familiar dentro del primer grado por consanguinidad o afinidad. Estos días serán aquellos inmediatos al deceso.
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2023)</small>
+
+XXII.- Otorgar incapacidad de hasta por tres días con goce íntegro de sueldo, a aquellas mujeres trabajadoras que acrediten con el debido justificante médico que el dolor ocasionado por su periodo menstrual, les impide y/o limita el desempeño de sus actividades laborales.
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2023)</small>
 
@@ -1702,3 +1706,11 @@ P.O. 8 DE FEBRERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-520 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXII AL ARTÍCULO 33 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente Reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
