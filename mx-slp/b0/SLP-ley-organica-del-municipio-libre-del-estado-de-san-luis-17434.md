@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2022-09-28"
+last_updated: "2023-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -383,9 +383,9 @@ Las sesiones de Cabildo serán públicas, permitiéndose el libre acceso al púb
 
 Las sesiones podrán llevarse a cabo previa solicitud de por lo menos una tercera parte de los integrantes del Ayuntamiento, cuando por cualquier motivo el Presidente Municipal se encuentre imposibilitado o se niegue a hacerlo.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2023)</small>
 
-En los ayuntamientos de más de 150,000 habitantes, las sesiones de Cabildo deberán ser trasmitidas en vivo mediante medios electrónicos.
+En todos los ayuntamientos del Estado las sesiones de Cabildo deberán ser trasmitidas en vivo, a través de medios electrónicos.
 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3410,3 +3410,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Los nombramientos de las y los servidores públicos a los que se refiere el artículo 19 de la Ley Orgánica del Municipios Libre del Estado de San Luis Potosí, continuarán vigentes, una vez publicado el presente Decreto
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 9 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0691.- SE REFORMA EL ARTÍCULO 21 EN SU PÁRRAFO PENÚLTIMO, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
