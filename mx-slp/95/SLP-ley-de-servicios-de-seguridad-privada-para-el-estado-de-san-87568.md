@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-servicios-de-seguridad-privada-para-el-estado-de-san-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-03"
-last_updated: "2018-10-02"
+last_updated: "2023-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 3 de abril de 2012.
 
@@ -341,7 +341,9 @@ XI. El equipo de radiocomunicación que tuvieren asignado, y
 
 XII. Los demás actos y constancias que prevean ésta Ley y su Reglamento.
 
-Cuando al personal directivo, administrativo u operativo se le dicte cualquier auto de sujeción a proceso, sentencia condenatoria o absolutoria, la autoridad que conozca del caso respectivo lo notificará de inmediato al Registro. En el caso de que sea dictado un auto de procesamiento con motivo de sus funciones, se procederá de inmediato a la suspensión laboral.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2023)</small>
+
+Cuando al personal directivo, administrativo u operativo se le dicte cualquier auto de sujeción a proceso, sentencia condenatoria o absolutoria, la autoridad que conozca del caso respectivo lo notificará de inmediato al Registro. En el caso de que sea dictado un auto de procesamiento con motivo de sus funciones, se procederá de inmediato a la suspensión laboral. En el caso de que dicho acto esté relacionado con hechos que impliquen violencia contra alguna mujer, se procederá en su caso al retiro del arma de cargo bajo los términos previstos por el artículo 37 fracción XIX de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí.
 
 ###### ARTICULO 28.
 
@@ -672,3 +674,11 @@ P.O. 2 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0684.- SE REFORMA EL ARTÍCULO 99 EN SU PÁRRAFO ÚLTIMO, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 27 EN SU PÁRRAFO ÚLTIMO, DE LA LEY DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
