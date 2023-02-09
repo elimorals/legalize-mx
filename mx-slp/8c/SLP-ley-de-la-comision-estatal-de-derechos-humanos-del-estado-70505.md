@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2022-09-09"
+last_updated: "2023-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -1279,7 +1279,9 @@ La víctima tiene derecho preferente para denunciar ante la Comisión, el acto v
 
 Las personas víctimas y quejosas pueden actuar de modo individual o colectivo. La Comisión no exigirá que los colectivos tengan una forma jurídica definida o acrediten personalidad jurídica, y sólo para efecto de notificación y comunicación expedita, se solicitará al colectivo el nombramiento de una persona-contacto.
 
-Respecto a los afectados por violaciones cuyo paradero se ignore, se encuentren privados de su libertad o que gozando de ella se encuentren por condiciones físicas, mentales, económicas o culturales, impedidos para denunciar por sí mismos los hechos constitutivos de violaciones, éstos se podrán denunciar por sus parientes, vecinos o por cualquier otra persona física o moral que tenga conocimiento de ellos e, inclusive, por menores de edad.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2023)</small>
+
+Respecto a los afectados por violaciones cuyo paradero se ignore, se encuentren privados de su libertad o que gozando de ella se encuentren por condiciones físicas, mentales, económicas o culturales, impedidos para denunciar por sí mismos los hechos constitutivos de violaciones, éstos se podrán denunciar por sus parientes, vecinos o por cualquier otra persona física o moral que tenga conocimiento de ellos e, inclusive, por las niñas, niños y adolescentes.
 
 ###### ARTICULO 85.
 
@@ -1980,3 +1982,11 @@ P.O. 9 DE SEPTIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0686.- SE REFORMA EL ARTÍCULO 84, EN SU PÁRRAFO SEGUNDO, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente Decreto.
