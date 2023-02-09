@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2022-11-22"
+last_updated: "2023-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -1033,15 +1033,21 @@ La convocatoria para la celebración de la asamblea deberá ser emitida por el C
 
 En las comunidades indígenas, los jueces auxiliares serán designados conforme a los sistemas normativos de la comunidad, debiendo la asamblea hacer del conocimiento del Supremo Tribunal de Justicia y del Consejo de la Judicatura, las designaciones correspondientes, para su registro y expedición de nombramiento.
 
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2023)</small>
+
+La convocatoria emitida por el Consejo de la Judicatura deberá garantizar los mecanismos que introducen la paridad de género, en el nombramiento de jueces y juezas auxiliares, así como de sus suplentes en las comunidades del Estado.
+
 ###### ARTICULO 67.
 
 Para ser Juez Auxiliar se requiere ser ciudadano potosino en ejercicio de sus derechos, vecino del lugar, y saber leer y escribir. Este cargo es gratuito y los que lo desempeñen están exentos de cualquier otro cargo concejil.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2023)</small>
 
 ###### ARTICULO 68.
 
-Los jueces auxiliares durarán en su cargo tres años o, en su caso, hasta que se expida el nombramiento del nuevo Juez, pudiendo ser reelectos por una sola ocasión.
+Los jueces y juezas auxiliares durarán en su cargo un año o el tiempo que la asamblea comunitaria determine, de conformidad con los sistemas normativos, usos y costumbres de la comunidad. Del mismo modo, la asamblea determinará con autonomía sobre la reelección de los mismos.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
 Podrán ser suspendidos o removidos por el Consejo de la Judicatura por causa justificada y a solicitud de la asamblea comunitaria, o por causa grave.
 
@@ -2864,5 +2870,13 @@ P.O. 22 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0423.- SE REFORMA EN EL TÍTULO SÉPTIMO LA DENOMINACIÓN DEL ENTONCES CAPÍTULO ÚNICO QUE PASA A SER CAPÍTULO I; Y SE ADICIONA EN LOS ARTÍCULOS 152 Y 165, ASÍ COMO EN EL TÍTULO SÉPTIMO EL CAPÍTULO II “DEL PADRÓN ESTATAL DE PERSONAS DEUDORAS ALIMENTARIAS MOROSAS” Y LOS ARTÍCULOS 167 BIS A 167 SEXTIES, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA Y ADICIONA EL ARTÍCULO 53, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor a los noventa días naturales siguientes a su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0690.- SE REFORMA EL ARTÍCULO 68 EN SU PÁRRAFO PRIMERO; Y ADICIONA AL ARTÍCULO 66 EL PÁRRAFO CUARTO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
