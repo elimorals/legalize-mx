@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2022-12-16"
+last_updated: "2023-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -1801,7 +1801,9 @@ II. Los estímulos, reconocimientos y sanciones a que se haya hecho acreedor el 
 
 III. Cualquier cambio de adscripción, actividad o rango del servidor público, así como las razones que los motivaron.
 
-Cuando a los integrantes de las instituciones de seguridad pública se les dicte cualquier auto de sujeción a proceso, sentencia condenatoria o absolutoria, sanción administrativa o resolución que modifique, confirme o revoque dichos actos, se actualizará inmediatamente en el Registro.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2023)</small>
+
+Cuando a las y los integrantes de las instituciones de seguridad pública se les dicte cualquier auto de sujeción a proceso, sentencia condenatoria o absolutoria, sanción administrativa o resolución que modifique, confirme o revoque dichos actos; el retiro del arma de cargo, en el caso que se haya realizado en los términos previstos por el artículo 37 fracción XIX de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí, se actualizará inmediatamente en el Registro.
 
 ###### ARTICULO 100.
 
@@ -3178,3 +3180,11 @@ P.O. 16 DE DICIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0684.- SE REFORMA EL ARTÍCULO 99 EN SU PÁRRAFO ÚLTIMO, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 27 EN SU PÁRRAFO ÚLTIMO, DE LA LEY DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
