@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2023-01-16"
+last_updated: "2023-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -965,7 +965,9 @@ VIII. Realizar campañas, mediante el uso de las tecnologías de la información
 
 IX. Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de maltrato escolar, asíì (sic) como coordinar campañas de información sobre las mismas, y
 
-X. Elaborar y difundir materiales educativos para la prevención del embarazo en menores de edad, así como relativas al suicidio.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2023)</small>
+
+X. Elaborar y difundir materiales educativos para la prevención del embarazo en niñas, niños y adolescentes, así como relativas al suicidio.
 
 ###### ARTÍCULO 85.
 
@@ -2126,3 +2128,11 @@ P.O. 16 DE ENERO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. La Secretaría de Educación del Gobierno del Estado tendrá noventa días hábiles para realizar las adecuaciones necesarias en su reglamento interno, así como asignar las claves de centro de trabajo a las extensiones de Educación Normal indígena, para dar cumplimiento a las obligaciones establecidas en la presente reforma, de conformidad con su capacidad presupuestaria.
+
+P.O. 9 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0688.- SE REFORMA EL ARTÍCULO 84, EN SU FRACCIÓN X, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
