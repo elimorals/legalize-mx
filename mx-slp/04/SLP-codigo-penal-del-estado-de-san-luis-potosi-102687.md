@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2022-12-12"
+last_updated: "2023-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -3071,7 +3071,7 @@ Se considerará ganado para los efectos de este delito, a las especies: bovina, 
 
 Este delito se sancionará con una pena de dos a diez años de prisión y sanción pecuniaria de doscientos a mil días del valor de la unidad de medida y actualización vigente.
 
-Se equiparará al delito de abigeato y se sancionará con la misma pena que éste, el sacrificio de ganado sin el consentimiento de quien legalmente pueda otorgarlo.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 9 DE FEBRERO DE 2023)</small>
 
 > <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL CONTENIDO DEL ARTÍCULO 238 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL CONTENIDO Y ESTRUCTURA PREVIO A LA REFORMA DE 27 DE MAYO DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 13 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 238. A quien se apodere sin derecho de una o más cabezas de ganado menor, sea porcino, ovino o caprino, se le impondrá una pena de uno a diez años de prisión y sanción pecuniaria de cien a mil días del valor de la unidad de medida y actualización."]</small>
 
@@ -3079,11 +3079,11 @@ Se equiparará al delito de abigeato y se sancionará con la misma pena que ést
 
 (DEROGADO, P.O. 27 DE MAYO DE 2017)
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 239.
 
-Si el abigeato se verifica con violencia, por la noche, por dos o más personas, con horadación de paredes, fractura de puertas, destrucción de las cerraduras de éstas o ruptura de cercas, setos o vallados, o sea cometido por quien tenga una relación laboral, o de parentesco por consanguinidad o afinidad hasta el cuarto grado con el propietario del ganado, se aumentará en una tercera parte la pena que corresponda.
+El delito de abigeato se considerará calificado y se aumentará en una tercera parte la pena que corresponda, cuando sea cometido con violencia, por la noche, por dos o más personas, con horadación de paredes, fractura de puertas, destrucción de las cerraduras de éstas o ruptura de cercas, setos o vallados, o sea cometido por quien tenga una relación laboral, o de parentesco por consanguinidad o afinidad hasta el cuarto grado con el propietario del ganado, así como en los casos que se cometa en perjuicio de pequeños productores.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -3103,9 +3103,11 @@ ARTÍCULO 240 BIS. A quien, sin tomar las medidas indispensables para cerciorars
 
 Al que transporte ganado, carne, pieles u otros derivados obtenidos del abigeato, sin haber tomado las medidas necesarias para cerciorarse de su legítima procedencia, se le impondrá una pena de dos a seis años de prisión y sanción pecuniaria de doscientos a seiscientos días del valor de la unidad de medida y actualización vigente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 242.
 
-También comete el delito de abigeato quien, dolosamente y con el ánimo de apropiación:
+Se equiparán al delito de abigeato las siguientes conductas:
 
 I. Desfigure o borre las marcas de animales vivos o pieles;
 
@@ -3121,17 +3123,25 @@ IV. Contramarque o contraseñe animales ajenos en cualquier parte, sin derecho p
 
 V. Expida certificados falsos para obtener guías que simulen ventas, haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificados o guías falsificados para cualquier negociación sobre ganados o cueros;
 
-> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2023)</small>
 
-VI. Se apodere de una o más colonias de abejas de un apiario sin consentimiento de quien legalmente pueda disponer de ellas, y
+VI. Se apodere de una o más colonias de abejas de un apiario sin consentimiento de quien legalmente pueda disponer de ellas;
 
-> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2023)</small>
 
-VII. Se apodere de una o más colonias de peces en un criadero acuícola sin consentimiento de quien legalmente pueda disponer de ellas.
+VII. Se apodere de una o más colonias de peces en un criadero acuícola sin consentimiento de quien legalmente pueda disponer de ellas, y
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2023)</small>
 
-En estos casos se impondrá una pena de dos a seis años de prisión y sanción pecuniaria de doscientos a seiscientos días del valor de la unidad de medida y actualización vigente.
+VIII. El sacrificio de ganado sin el consentimiento de quien tiene facultades para autorizarlo.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2023)</small>
+
+En los casos de las fracciones I a VII se impondrá una pena de dos a seis años de prisión y sanción pecuniaria de doscientos a seiscientos días del valor de la unidad de medida y actualización vigente.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2023)</small>
+
+Respecto a la fracción VIII se sancionará con una pena de dos a diez años de prisión y sanción pecuniaria de doscientos a mil días del valor de la unidad de medida y actualización vigente.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2018)</small>
 
@@ -5902,5 +5912,13 @@ P.O. 12 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0550.- SE REFORMAN LOS ARTÍCULOS 357 Y 358, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0689.- SE REFORMAN LOS ARTÍCULOS 239 Y, 242 EN SUS PÁRRAFOS PRIMERO Y AHORA ÚLTIMO Y EN SUS FRACCIONES VI Y VII; ADICIONA AL ARTÍCULO 242 LA FRACCIÓN VIII Y EL PÁRRAFO ÚLTIMO; Y DEROGA DEL ARTÍCULO 237 EL PÁRRAFO CUARTO DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
