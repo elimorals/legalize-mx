@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-oic-ine-04-2021-del-organo-interno-de-153698"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-12-27"
-last_updated: "2021-12-27"
+last_updated: "2023-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2021-12-17"
 ---
 # ACUERDO GENERAL OIC-INE/04/2021 DEL ORGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE EMITEN LOS LINEAMIENTOS QUE REGULAN LA PRESENTACION DE LAS DECLARACIONES DE SITUACION PATRIMONIAL Y DE INTERESES, ASI COMO LAS CONSTANCIAS DE PRESENTACION DE DECLARACIONES FISCALES; EL PROCESO DE VERIFICACION DE LA EVOLUCION PATRIMONIAL; Y LA TRANSMISION DE PROPIEDAD U OFRECIMIENTO DE USO DE BIENES EN FORMA GRATUITA A LAS PERSONAS SERVIDORAS PUBLICAS, EN EL INSTITUTO NACIONAL ELECTORAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO DEL ACUERDO Y TRANSITORIO SEGUNDO DE LOS LINEAMIENTOS QUE REGULAN LA VERIFICACIÓN DE EVOLUCIÓN PATRIMONIAL EN EL INSTITUTO NACIONAL ELECTORAL, PUBLICADOS EN EL D.O.F. DE 6 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE EMITEN LOS LINEAMIENTOS QUE REGULAN LA PRESENTACIÓN DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL Y DE INTERESES, ASÍ COMO LAS CONSTANCIAS DE PRESENTACIÓN DE DECLARACIONES FISCALES; EL PROCESO DE VERIFICACIÓN DE LA EVOLUCIÓN PATRIMONIAL; Y LA TRANSMISIÓN DE PROPIEDAD U OFRECIMIENTO DE USO DE BIENES EN FORMA GRATUITA A LAS PERSONAS SERVIDORAS PÚBLICAS, EN EL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE FEBRERO DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 27 de diciembre de 2021.
 
@@ -343,7 +345,9 @@ a) Las personas servidoras públicas sujetas a investigación por faltas adminis
 
 b) Las personas servidoras públicas que voluntariamente soliciten se les practique, siempre y cuando el OIC esté en posibilidad de atender su petición considerando las cargas de trabajo de la DDA.
 
-En el PAT se determinará la cantidad de verificaciones aleatorias de evolución patrimonial que la DDA realizará anualmente, considerando los recursos con que disponga.
+> <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2023)</small>
+
+En el mes de enero de cada año, la DDA propondrá para aprobación de la persona Titular del Órgano Interno de Control la cantidad de verificaciones aleatorias de evolución patrimonial que realizará anualmente, considerando los recursos con que se disponga.
 
 #### Sección II. De la selección aleatoria de las personas sujetas a verificación.
 
@@ -365,19 +369,21 @@ El padrón se agrupará en los segmentos siguientes:
 
 - Grupo 5: Se conformará con las personas servidoras y exservidoras públicas con nivel menor a titular de jefatura de departamento u homólogo; excluyendo a quienes conforman el grupo 3.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS PUNTOS ], D.O.F. 9 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 27.
 
 Las personas sujetas a verificación se seleccionarán aleatoriamente de cada uno de los cinco grupos mencionados en el artículo anterior, en la proporción siguiente:
 
-- Del grupo 1 se seleccionará aleatoriamente el 20% del total de personas sujetas a verificación aleatoria determinado en el PAT.
+- Del grupo 1 se seleccionará aleatoriamente el 20% del total de personas sujetas (sic) verificación aleatoria, determinado de conformidad con el último párrafo del artículo 25 de los presentes lineamientos.
 
-- Del grupo 2 se seleccionará aleatoriamente el 20% del total de personas sujetas a verificación aleatoria determinado en el PAT.
+- Del grupo 2 se seleccionará aleatoriamente el 20% del total de personas sujetas (sic) verificación aleatoria, determinado de conformidad con el último párrafo del artículo 25 de los presentes lineamientos.
 
-- Del grupo 3 se seleccionará aleatoriamente el 20% del total de personas sujetas a verificación aleatoria determinado en el PAT.
+- Del grupo 3 se seleccionará aleatoriamente el 20% del total de personas sujetas (sic) verificación aleatoria, determinado de conformidad con el último párrafo del artículo 25 de los presentes lineamientos.
 
-- Del grupo 4 se seleccionará aleatoriamente el 20% del total de personas sujetas a verificación aleatoria determinado en el PAT.
+- Del grupo 4 se seleccionará aleatoriamente el 20% del total de personas sujetas (sic) verificación aleatoria, determinado de conformidad con el último párrafo del artículo 25 de los presentes lineamientos.
 
-- Del grupo 5 se seleccionará aleatoriamente el 20% del total de personas sujetas a verificación aleatoria determinado en el PAT.
+- Del grupo 5 se seleccionará aleatoriamente el 20% del total de personas sujetas (sic) verificación aleatoria, determinado de conformidad con el último párrafo del artículo 25 de los presentes lineamientos.
 
 La distribución porcentual podrá ser modificada para un ejercicio anual específico, especialmente cuando se trate de años en que se realicen procesos electorales federales, siempre y cuando se justifiquen las razones en un acuerdo general emitido por la persona titular del OIC, a propuesta de la DDA.
 
@@ -684,3 +690,55 @@ Artículo primero.- A partir de la entrada en vigor de los presentes lineamiento
 Artículo segundo.- La obligación prevista en el artículo 10 de estos lineamientos, relacionada con la exhibición de la constancia de presentación de la declaración anual de impuestos, entrará en vigor hasta que la autoridad fiscal expida el formato respectivo y dicha autoridad se encuentre en condiciones de proporcionarla a cualquier persona servidora pública.
 
 Artículo tercero.- La DDA suministrará y mantendrá actualizada la información correspondiente a las personas declarantes del Instituto, en el Sistema de Evolución Patrimonial, de Declaración de Intereses y Constancias de Presentación de Declaración Fiscal de la Plataforma Digital Nacional del SNA, una vez que la Secretaría Ejecutiva del SNA habilite la interconexión del DeclaraINE con dicho sistema de conformidad con las Bases para el funcionamiento de la Plataforma Digital Nacional, publicadas en el Diario Oficial de la Federación el 23 de octubre de 2018, así como los protocolos, estándares, reglamentos, especificaciones técnicas emitidas por la mencionada Secretaría Ejecutiva.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE FEBRERO DE 2023.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON LA REFORMA DE LOS PRESENTES LINEAMIENTOS.]</small>
+
+PRIMERO. Se reforma el último párrafo del artículo 25 y párrafo primero del artículo 27 de los LINEAMIENTOS QUE REGULAN LA PRESENTACIÓN DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL Y DE INTERESES, ASÍ COMO LAS CONSTANCIAS DE PRESENTACIÓN DE DECLARACIONES FISCALES; EL PROCESO DE VERIFICACIÓN DE LA EVOLUCIÓN PATRIMONIAL; Y LA TRANSMISIÓN DE PROPIEDAD U OFRECIMIENTO DE USO DE BIENES EN FORMA GRATUITA A LAS PERSONAS SERVIDORAS PÚBLICAS, EN EL INSTITUTO NACIONAL ELECTORAL, para quedar como sigue:
+
+### CAPÍTULO III. DEL PROCESO DE VERIFICACIÓN DE EVOLUCIÓN PATRIMONIAL.
+
+#### Sección I. De los principios y etapas del proceso de verificación.
+
+###### Artículo 25.
+
+...
+
+a) ...
+
+b) ...
+
+En el mes de enero de cada año, la DDA propondrá para aprobación de la persona Titular del Órgano Interno de Control la cantidad de verificaciones aleatorias de evolución patrimonial que realizará anualmente, considerando los recursos con que se disponga.
+
+#### Sección II. De la selección aleatoria de las personas sujetas a verificación
+
+###### Artículo 27.
+
+Las personas sujetas a verificación se seleccionarán aleatoriamente de cada uno de los cinco grupos mencionados en el artículo anterior, en la proporción siguiente:
+
+- Del grupo 1 se seleccionará aleatoriamente el 20% del total de personas sujetas verificación aleatoria, determinado de conformidad con el último párrafo del artículo 25 de los presentes lineamientos.
+
+- Del grupo 2 se seleccionará aleatoriamente el 20% del total de personas sujetas verificación aleatoria, determinado de conformidad con el último párrafo del artículo 25 de los presentes lineamientos.
+
+- Del grupo 3 se seleccionará aleatoriamente el 20% del total de personas sujetas verificación aleatoria, determinado de conformidad con el último párrafo del artículo 25 de los presentes lineamientos.
+
+- Del grupo 4 se seleccionará aleatoriamente el 20% del total de personas sujetas verificación aleatoria, determinado de conformidad con el último párrafo del artículo 25 de los presentes lineamientos.
+
+- Del grupo 5 se seleccionará aleatoriamente el 20% del total de personas sujetas verificación aleatoria, determinado de conformidad con el último párrafo del artículo 25 de los presentes lineamientos.
+
+...
+
+SEGUNDO. El presente acuerdo entrará en vigor al día siguiente de su aprobación por el Titular del Órgano Interno de Control.
+
+TERCERO. Con fundamento en el artículo 3, numeral 1, inciso g) del Reglamento de Sesiones del Consejo General del Instituto Nacional Electoral, publíquese este acuerdo en la Gaceta Electoral del Instituto Nacional Electoral, en la página de internet del Instituto Nacional Electoral, en la página de intranet en la sección relativa a este Órgano Interno de Control y en los estrados del propio Órgano Interno de Control.
+
+CUARTO. Con fundamento en los artículos 2 y 3, fracción VII, de la Ley del Diario Oficial de la Federación y Gacetas Gubernamentales, por reputarse de interés general, solicítese al Diario Oficial de la Federación la publicación de los puntos resolutivos de este Acuerdo General, así como de las ligas electrónicas que correspondan relacionadas con la Gaceta Electoral del Instituto Nacional Electoral y del propio Diario Oficial de la Federación, donde presenten este Acuerdo íntegro.
+
+QUINTO. Conforme a lo dispuesto por el artículo 82, inciso xx) del Reglamento Interior del Instituto Nacional Electoral, infórmese la expedición del presente acuerdo al Consejo General del propio instituto, por conducto de su Consejero Presidente y comuníquese a la Secretaría Ejecutiva y a la Dirección Ejecutiva de Administración, ambas del Instituto Nacional Electoral, la expedición del presente acuerdo, para los efectos legales y administrativos a que haya lugar.
+
+[...]
+
+En cumplimiento al resolutivo Cuarto de dicho acuerdo se publican los puntos resolutivos del Acuerdo General OIC-INE/02/2023 en el Diario Oficial de la Federación y las ligas donde puede ser consultado en su integridad el acuerdo y su anexo: en la Gaceta Electoral del Instituto Nacional Electoral localizable en la página electrónica https://www.ine.mx/gaceta-electoral-no-65/, asimismo, se encuentra localizable en la siguiente liga electrónica www.dof.gob.mx/2023/INE/ACUERDO_OIC-INE02-2023.pdf
