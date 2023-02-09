@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-persona-joven-para-el-estado-y-municipios-de-san-9004
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2022-12-12"
+last_updated: "2023-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de octubre de 2012.
 
@@ -307,7 +307,9 @@ Las personas jóvenes tienen derecho a contar con una identidad personal, tomand
 
 Las personas jóvenes tienen el derecho a formar parte activa de una familia que promueva relaciones donde primen el afecto, el respeto y la responsabilidad mutua entre sus miembros, y a estar protegidos de todo tipo de maltrato o violencia.
 
-Las personas jóvenes menores de edad tienen derecho a ser oídos en caso de divorcio o separación de sus padres para efectos de atribución de su propia guarda, así como, a que su voluntad sea determinante en caso de adopción.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2023)</small>
+
+Las personas jóvenes, niñas, niños y adolescentes, tienen derecho a ser oídos en caso de divorcio, en sus diferentes modalidades, o separación de sus padres para efectos de atribución de su propia guarda, así como, a que su voluntad sea determinante en caso de adopción.
 
 El Estado, deberá crear políticas, y facilitar las condiciones educativas, económicas, sociales y culturales, que fomenten los valores de la familia, la cohesión y fortaleza de la vida familiar y el sano desarrollo de las personas jóvenes en su seno, a través de políticas públicas y su adecuado financiamiento. Para estos se reconoce la pluralidad en la conformación de las diversos tipos de familia.
 
@@ -1370,3 +1372,11 @@ P.O. 12 DE DICIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0685.- SE REFORMA EL ARTÍCULO 21 EN SU PÁRRAFO SEGUNDO DE LA LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis “.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente Decreto.
