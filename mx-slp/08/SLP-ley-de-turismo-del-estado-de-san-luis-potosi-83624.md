@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2022-06-08"
+last_updated: "2023-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -805,9 +805,15 @@ XV. Mantener en las mejores condiciones de higiene y eficacia los locales, insta
 
 XVI. Proporcionar la información que les soliciten las autoridades competentes, en todo lo relativo a los servicios que presten;
 
-XVII. Cuando presten servicios relacionados con el turismo de aventura o cualquier otra actividad cuya práctica represente algún riesgo para la integridad física de sus usuarios, deberán contar con personal calificado y capacitado, así como proporcionar al usuario el equipo adecuado conforme a las normas oficiales vigentes, y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2023)</small>
 
-XVIII. Las demás que les señalen esta Ley, su Reglamento, y demás leyes aplicables en el Estado.
+XVII. Cuando presten servicios relacionados con el turismo de aventura o cualquier otra actividad cuya práctica represente algún riesgo para la integridad física de sus usuarios, deberán contar con personal calificado y capacitado, así como proporcionar al usuario el equipo adecuado conforme a las normas oficiales vigentes;
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2023)</small>
+
+XVIII. Cumplir con las medidas que en materia de protección civil se determinen por la autoridad competente, y
+
+XIX. Las demás que les señalen esta Ley, su Reglamento, y demás leyes aplicables en el Estado.
 
 ### Capítulo I. De la Promoción y Difusión
 
@@ -1384,3 +1390,11 @@ P.O. 8 DE JUNIO DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0683.- SE REFORMA EL ARTÍCULO 67 EN SU FRACCIÓN XVII Y ADICIONA AL MISMO ARTÍCULO 67 UNA FRACCIÓN, ESTA COMO XVIII, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
