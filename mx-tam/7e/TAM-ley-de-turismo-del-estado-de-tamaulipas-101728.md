@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2022-12-13"
+last_updated: "2023-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -675,6 +675,12 @@ En la Promoción Turística y material promocional que edite la Secretaría, se 
 
 La Secretaría impulsará la actividad turística a través de programas y proyectos que tendrán por objeto el otorgamiento de financiamiento, estímulos e incentivos a los prestadores de servicios turísticos, con la finalidad de fomentar la inversión en infraestructura turística.
 
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 50 BIS.
+
+En caso de declaratoria de desastre natural o de emergencia emitida por la autoridad competente, el Gobierno del Estado, a través de sus dependencias y entidades correspondientes, gestionará el otorgamiento de beneficios y apoyos, de acuerdo a las disposiciones legales aplicables, para los prestadores de servicios turísticos de la zona afectada, debidamente acreditados en los términos de Ley.
+
 ###### ARTÍCULO 51.
 
 1. La Secretaría apoyará a los prestadores de servicios turísticos, ante las instancias respectivas, para que obtengan financiamiento para construir, mejorar o remodelar la infraestructura turística.
@@ -1144,6 +1150,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 13 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-424 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-519 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 50 BIS A LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
