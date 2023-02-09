@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-17-2019-de-la-comision-de-creacion-de-nuevos-13711
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-07-01"
-last_updated: "2019-07-01"
+last_updated: "2023-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137112&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-06-24"
 ---
 # ACUERDO CCNO/17/2019 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA EXCLUSION DE TURNO DE NUEVOS ASUNTOS MERCANTILES NO ORALES, POR TIEMPO INDEFINIDO AL JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN MEXICALI; ASI COMO LA DISTRIBUCION DE COMUNICACIONES OFICIALES Y ASUNTOS EN MATERIA MERCANTIL, RELATIVOS A CONCURSOS MERCANTILES Y ACCIONES COLECTIVAS, ENTRE LOS JUZGADOS DE DISTRITO MIXTOS Y EL JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN MEXICALI]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL ACUERDO CCNO/1/2023 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 9 DE FEBRERO DE 2023, EL PRESENTE ACUERDO HA SIDO ABROGADO.]</small>
+
 ACUERDO CCNO/17/2019 DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXCLUSIÓN DE TURNO DE NUEVOS ASUNTOS MERCANTILES NO ORALES, POR TIEMPO INDEFINIDO AL JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN MEXICALI; ASÍ COMO LA DISTRIBUCIÓN DE COMUNICACIONES OFICIALES Y ASUNTOS EN MATERIA MERCANTIL, RELATIVOS A CONCURSOS MERCANTILES Y ACCIONES COLECTIVAS, ENTRE LOS JUZGADOS DE DISTRITO MIXTOS Y EL JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN MEXICALI
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE FEBRERO DE 2023 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 1 de julio de 2019.
 
@@ -86,3 +88,15 @@ SEGUNDO. Publíquese en el Diario Oficial de la Federación y, para su mayor dif
 TERCERO. Los Juzgados de Distrito en el Estado de Baja California, con residencia en Mexicali y la Oficina de Correspondencia Común que les presta servicio, fijarán avisos en lugar visible con relación a la medida objeto del presente Acuerdo.
 
 LA JUEZA ILEANA MORENO RAMÍREZ, SECRETARIA EJECUTIVA DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/17/2019 de la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal, relativo a la exclusión de turno de nuevos asuntos mercantiles no orales, por tiempo indefinido al Juzgado de Distrito en Materia Mercantil Federal en el Estado de Baja California, con residencia en Mexicali; así como la distribución de comunicaciones oficiales y asuntos en materia mercantil, relativos a concursos mercantiles y acciones colectivas, entre los Juzgados de Distrito Mixtos y el Juzgado de Distrito en Materia Mercantil Federal en el Estado de Baja California, con residencia en Mexicali, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el veinticuatro de junio de dos mil diecinueve, por los señores Consejeros: Presidenta Martha María del Carmen Hernández Álvarez y Jorge Antonio Cruz Ramos.- Ciudad de México, a veinticuatro de junio de dos mil diecinueve.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO CCNO/1/2023 DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA EL DIVERSO ACUERDO CCNO/17/2019, RELATIVO A LA EXCLUSIÓN DE TURNO DE NUEVOS ASUNTOS MERCANTILES NO ORALES POR TIEMPO INDEFINIDO AL JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN MEXICALI; ASÍ COMO LA DISTRIBUCIÓN DE COMUNICACIONES OFICIALES Y ASUNTOS EN MATERIA MERCANTIL, RELATIVOS A CONCURSOS MERCANTILES Y ACCIONES COLECTIVAS, ENTRE LOS JUZGADOS DE DISTRITO MIXTOS Y EL JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN MEXICALI."]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 1 de febrero de 2023.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal, en Intranet e Internet.
+
+TERCERO. La Dirección General de Gestión Judicial, en coordinación con la Dirección General de Tecnologías de la Información, realizarán todos los ajustes y modificaciones necesarios en los Sistemas de Gestión del Poder Judicial de la Federación que correspondan, incluyendo los relativos al sistema SISE-OCC, instalado en la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Baja California, con residencia en Mexicali.
