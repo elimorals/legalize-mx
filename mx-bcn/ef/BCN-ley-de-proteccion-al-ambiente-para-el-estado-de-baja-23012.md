@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2022-09-19"
+last_updated: "2023-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -1821,6 +1821,8 @@ Los establecimientos mercantiles que corresponda, de forma inmediata deberán at
 
 XVII. Las demás que tengan por objeto dar cumplimiento a lo dispuesto en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO, P.O. 10 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 113.
 
 Para prevenir, controlar, reducir o evitar la contaminación de la atmósfera, los municipios, en el ámbito de su circunscripción territorial, tendrán las siguientes facultades:
@@ -1853,17 +1855,45 @@ VI. Establecer y operar sistemas de monitoreo de calidad del aire;
 
 VII. Tomar las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica, en coordinación con la Secretaría;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-VIII. Aplicar las normas oficiales mexicanas y normas ambientales estatales para la protección de la atmósfera, en materias de su competencia; y
+VIII. Aplicar las normas oficiales mexicanas y normas ambientales estatales para la protección de la atmósfera, en materias de su competencia;
 
 > <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
 IX. Requerir la instalación de equipos o sistemas de control de emisiones a quienes realicen actividades que las generen.
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-X.- Requerir y aplicar las sanciones respectivas a los particulares responsables de quemas dentro de la zona urbana.
+X. Requerir y aplicar las sanciones respectivas a los particulares responsables de quemas dentro de la zona urbana;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE FEBRERO DE 2023)</small>
+
+XI. Expedir autorización para la quema en terrenos de uso agropecuario, de conformidad a lo que establecen las normas oficiales mexicanas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE FEBRERO DE 2023)</small>
+
+XII. Vigilar, que los usuarios con autorización para realizar quemas en terrenos de uso agropecuario, cumplan con lo dispuesto por las normas oficiales mexicanas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE FEBRERO DE 2023)</small>
+
+XIII. Tomar las medidas preventivas necesarias para que los usuarios con autorización de quema en terrenos de uso agropecuario, no realicen las quemas de forma simultánea; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE FEBRERO DE 2023)</small>
+
+XIV. Realizar, en coordinación con las autoridades federales y estatales competentes, cursos de capacitación para informar a la población la promoción de técnicas alternativas en la preparación de la tierra de uso agropecuario, así como el contenido de lo regulado por las normas oficiales mexicanas.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 113 BIS.- Los Ayuntamientos, conforme a la periodicidad que señalen sus reglamentos deberán emitir un calendario de quemas agropecuarias.
+
+Para la elaboración del calendario, los Ayuntamientos deberán coordinarse con las autoridades estatales y federales especializadas en materia.
+
+Dicho calendario deberá publicarse en el Periódico Oficial del Estado, y en otros medios de difusión que se consideren convenientes.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 113 TER.- Las quemas agrícolas deberán autorizarse considerando los parámetros climáticos, estacionales, regionales, de preservación del suelo, flora y fauna, así como técnicos para prevenir el riesgo de propagación del fuego y resguardar la salud y seguridad pública.
 
 #### SECCIÓN III. Control de emisiones proveniente de fuentes fijas
 
@@ -3272,3 +3302,11 @@ SEGUNDO.- El Ejecutivo del Estado y los Ayuntamientos emitirán la reglamentaci�
 TERCERO.- El Consejo Estatal de Protección al Ambiente ajustará la reglamentación para la integración, administración y gasto de los fondos ambientales a que se refiere el artículo 39 de la Ley de la materia dentro de los tres meses siguientes al inicio de la vigencia de esta Reforma.
 
 El Consejo procurará que por lo menos durante tres años, el cincuenta por ciento de los recursos que integran los fondos ambientales se destine a los fines previstos en la fracción VIII del artículo 39 de la Ley de Protección al Ambiente para el Estado de Baja California.
+
+P.O. 10 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 202 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 113 Y LA ADICIÓN DE LOS ARTÍCULOS 113 BIS Y 113 TER, DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos, dentro de los noventa días siguientes a la entrada en vigor de las presentes reformas, deberán realizar las adecuaciones reglamentarias pertinentes para su debido cumplimiento.
