@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-competitividad-y-desarrollo-economico-45256
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2022-07-29"
+last_updated: "2023-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2005.
 
@@ -283,9 +283,17 @@ b) De Desarrollo Empresarial. Que consistirá en apoyos directos a las MIPYMES a
 
 4. Acceso al financiamiento;
 
-5. Articulación de los programas, instrumentos, productos, herramientas y acciones para elevar su competitividad, y
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2023)</small>
 
-6. Información estadística, sectorial y económica para la toma de decisiones.
+5. Articulación de los programas, instrumentos, productos, herramientas y acciones para elevar su competitividad;
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2023)</small>
+
+6. Información estadística, sectorial y económica para la toma de decisiones; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE FEBRERO DE 2023)</small>
+
+7. Asesoría y orientación en los actos y trámites para la regularización de las empresas, conforme a los programas de regularización de empresas que para ello emita el Ejecutivo del Estado.
 
 c) De Acceso a Mercados. Que consistirá en la intervención de la Secretaría en coordinación con las instancias competentes, para estimular la participación de Empresas, especialmente de MIPYMES, en los mercados externos, mediante las siguientes acciones:
 
@@ -931,6 +939,8 @@ Las convocatorias para las sesiones podrán notificarse personalmente o bien med
 
 La organización y demás normas de funcionamiento del Comité, se sujetarán a las disposiciones previstas en el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 10 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 40.
 
 El Comité tendrá las siguientes atribuciones:
@@ -953,17 +963,23 @@ VII. Promover el uso de tecnologías de la información para la difusión y gest
 
 VIII. Fomentar y favorecer la celebración de acuerdos interinstitucionales en materia de mejora regulatoria, así como convenios y demás actos jurídicos necesarios para cumplir sus objetivos;
 
-IX. Promover, organizar y participar en foros, seminarios y demás actividades orientadas a impulsar el proceso de mejora regulatoria en el Estado, y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2015)</small>
+IX. Promover, organizar y participar en foros, seminarios y demás actividades orientadas a impulsar el proceso de mejora regulatoria en el Estado;
 
-X. Estudiar, proponer y evaluar en el ámbito estatal, regional y municipal, medidas de apoyo para el desarrollo de la competitividad de las cadenas productivas y de las MIPYMES a través del análisis de las propuestas surgidas del sector público y de los Sectores privado, social y del conocimiento; y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2015)</small>
+X. Estudiar, proponer y evaluar en el ámbito estatal, regional y municipal, medidas de apoyo para el desarrollo de la competitividad de las cadenas productivas y de las MIPYMES a través del análisis de las propuestas surgidas del sector público y de los Sectores privado, social y del conocimiento;
 
-XI. Las demás que establezca el Reglamento y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE JUNIO DE 2015)</small>
+XI. Desarrollará el objeto y funciones establecidas al Consejo Estatal para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, previsto en el Capítulo Quinto de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE FEBRERO DE 2023)</small>
+
+XII. Las demás que establezca el Reglamento y otras disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE FEBRERO DE 2023)</small>
 
 Sin perjuicio de lo anterior, el Comité podrá crear órganos de trabajo para auxiliarse en el cumplimiento de sus atribuciones. El Reglamento establecerá la organización y funcionamiento de los órganos de trabajo del Comité.
 
@@ -1013,27 +1029,47 @@ La veracidad del contenido de la información que se remita al Comité para su i
 
 La Secretaría formulará la política de desarrollo para la competitividad de las MIPYMES, tomando en cuenta la participación de los sectores privado, social y del conocimiento, y considerando los objetivos y políticas del Consejo Nacional para la Competitividad de la Micro, Pequeña y Mediana Empresa.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 10 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 44.
 
 Para la planeación y ejecución de la política de desarrollo para la competitividad de las MIPYMES, la Secretaría en coordinación con las entidades y dependencias estatales que corresponda, deberá atender los siguientes criterios:
 
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2015)</small>
+
 I. Propiciar la participación y toma de decisiones de los Municipios y respetar los lineamientos de la política nacional en la materia;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2015)</small>
 
 II. Procurar esquemas de apoyo a las MIPYMES a través de la concurrencia de recursos de la Federación, del Estado y de los Municipios, así como de los sectores privado, social y del conocimiento;
 
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2015)</small>
+
 III. Enfocar los esfuerzos de acuerdo con las necesidades, el potencial y las vocaciones regionales y municipales;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2015)</small>
 
 IV. Contener objetivos a corto, mediano y largo plazo;
 
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2015)</small>
+
 V. Contener propuestas de mejora y simplificación normativa en materia de desarrollo y apoyo a las MIPYMES;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2015)</small>
 
 VI. Enfocar estrategias y proyectos de modernización, innovación y desarrollo tecnológico para las MIPYMES;
 
-VII. Propiciar nuevos instrumentos de apoyo a las MIPYMES considerando las tendencias internacionales y el comportamiento de las entidades federativas; y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-VIII. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES.
+VII. Propiciar nuevos instrumentos de apoyo a las MIPYMES considerando las tendencias internacionales y el comportamiento de las entidades federativas;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
+
+VIII. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE FEBRERO DE 2023)</small>
+
+IX. Promover que las dependencias y entidades de la Administración Pública Estatal realicen la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública para destinarlas a las MIPYMES de manera gradual, hasta alcanzar un mínimo del 35%, conforme a la reglamentación aplicable.
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2015)</small>
 
@@ -1314,3 +1350,11 @@ P.O. 29 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 118 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 3 DE LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO, ASÍ COMO LA ADICIÓN DE UN CAPÍTULO XIII DENOMINADO DEL INSTITUTO DEL EMPRENDIMIENTO DE BAJA CALIFORNIA Y EN SU INTERIOR LOS ARTÍCULOS DE NUEVA CREACIÓN 49, 50, 51, 52 Y 53”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 203 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 9, 40 Y 44 DE LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para efectos de los programas de regularización de empresas previstos en el presente Decreto, el Ejecutivo del Estado podrá celebrar convenios de colaboración administrativa con los Ayuntamientos para otorgar asesoría y orientación en: cumplimiento de obligaciones en materia tributaria, ambiental, protección civil, del trabajo, entre otras relativas a las empresas.
