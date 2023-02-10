@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-promocion-fomento-y-desarrollo-de-la-industria-7659
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-20"
-last_updated: "2013-02-22"
+last_updated: "2023-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROMOCIÓN, FOMENTO Y DESARROLLO DE LA INDUSTRIA CINEMATOGRÁFICA Y AUDIOVISUAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 203.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el lunes 20 de septiembre de 2010.
 
@@ -41,9 +41,11 @@ LEY PARA LA PROMOCIÓN, FOMENTO Y DESARROLLO DE LA INDUSTRIA CINEMATOGRÁFICA Y 
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en el Estado de Baja California, y tiene por objeto regular las acciones que tiendan a lograr la promoción, fomento y desarrollo de la industria cinematográfica y audiovisual en el Estado.
+Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en el Estado de Baja California, y tiene por objeto el coadyuvar en el desarrollo, promoción y fomento de la industria cinematográfica y audiovisual en la entidad, así como en coordinar acciones orientadas a impulsar la creación de estas obras en el territorio del Estado de Baja California.
 
 ###### Artículo 2.
 
@@ -59,27 +61,53 @@ Para los efectos de la presente Ley se entenderá por:
 
 I.- Área de Rodaje o Locación: Todo espacio público o privado, natural o artificial, donde se realiza parte o alguna obra o producto Cinematográfico o audiovisual.
 
-II.- Consejo: Consejo Consultivo Estatal de Filmaciones.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE FEBRERO DE 2023)</small>
 
-III.- Directorio de Proveedores Especializados: El listado de casas o personas físicas o morales productoras, post-productoras, estudios de filmación, de sonido, de animación y efectos visuales, Gerentes o Gestores de Áreas de Rodaje o Locaciones y demás bienes y servicios creativos y profesionales, que se ofertan a la Industria Cinematográfica y Audiovisual en el Estado, elaborado por la Secretaría y sometido al Consejo para su verificación.
+II.- Comisión: Comisión Estatal de Filmaciones de Baja California creada por Acuerdo del Poder Ejecutivo publicado en el Periódico Oficial del Estado de Baja California en fecha 31 de julio de 1998.
 
-IV.- Estado: Estado Libre y Soberano de Baja California.
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA], P.O. 10 DE FEBRERO DE 2023)</small>
 
-V.- Guía del Productor: El documento oficial emitido por la Secretaría, que informe y explique de manera clara los trámites, autoridades, requisitos, plazos, costos y beneficios de los procedimientos exigidos para filmar en el Estado. Esta Guía, además de contener la información aquí especificada, deberá incluir el Directorio de Proveedores Especializados.
+III.- Consejo: Consejo Consultivo Estatal de Filmaciones.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA], P.O. 10 DE FEBRERO DE 2023)</small>
 
-VI.- Instituto: Instituto de Cultura de Baja California.
+IV.- Directorio de Proveedores Especializados: El listado de casas o personas físicas o morales productoras, post-productoras, estudios de filmación, de sonido, de animación y efectos visuales, Gerentes o Gestores de Áreas de Rodaje o Locaciones y demás bienes y servicios creativos y profesionales, que se ofertan a la Industria Cinematográfica y Audiovisual en el Estado, elaborado por la Secretaría de Turismo y sometido al Consejo para su verificación.
 
-VII.- Ley: Ley para la Promoción, Fomento y Desarrollo de la Industria Cinematográfica y Audiovisual del Estado de Baja California.
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA], P.O. 10 DE FEBRERO DE 2023)</small>
 
-VIII.- Producción: El proceso sistemático que se sigue para la creación de cualquier obra cinematográfica o audiovisual, el cual se divide en las siguientes etapas: Desarrollo, preproducción, producción, post-producción, distribución y mercadotecnia.
+V.- Estado: Estado Libre y Soberano de Baja California.
 
-IX.- Registro de áreas de Rodaje o Locaciones: El inventario elaborado por la Secretaría, que contiene los Bienes del Dominio Público y Privado de la Federación, del Estado y de los Municipios, sitios, bellezas naturales, inmuebles creados exprofeso, eventos, festivales, tradiciones y otras manifestaciones culturales susceptibles de utilizarse en obras o productos cinematográficos o audiovisuales.
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA], P.O. 10 DE FEBRERO DE 2023)</small>
 
-X.- Registro de Productores: La relación de los profesionales del sector Cinematográfico y Audiovisual del Estado, trátese de personas físicas o morales, nacionales o extranjeras, elaborado por la Secretaría.
+VI.- Guía del Productor: El documento oficial emitido por la Secretaría, que informe y explique de manera clara los trámites, autoridades, requisitos, plazos, costos y beneficios de los procedimientos exigidos para filmar en el Estado. Esta Guía, además de contener la información aquí especificada, deberá incluir el Directorio de Proveedores Especializados.
 
-XI.- Secretaría: Secretaría de Turismo del Estado de Baja California.
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA], P.O. 10 DE FEBRERO DE 2023)</small>
+
+VII.- Instituto: Instituto de Cultura de Baja California.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA], P.O. 10 DE FEBRERO DE 2023)</small>
+
+VIII.- Ley: Ley para la Promoción, Fomento y Desarrollo de la Industria Cinematográfica y Audiovisual del Estado de Baja California.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA], P.O. 10 DE FEBRERO DE 2023)</small>
+
+IX.- Producción: El proceso sistemático que se sigue para la creación de cualquier obra cinematográfica o audiovisual, el cual se divide en las siguientes etapas: Desarrollo, preproducción, producción, post-producción, distribución y mercadotecnia.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA], P.O. 10 DE FEBRERO DE 2023)</small>
+
+X.- Registro de áreas de Rodaje o Locaciones: El inventario elaborado por la Secretaría, que contiene los Bienes del Dominio Público y Privado de la Federación, del Estado y de los Municipios, sitios, bellezas naturales, inmuebles creados exprofeso, eventos, festivales, tradiciones y otras manifestaciones culturales susceptibles de utilizarse en obras o productos cinematográficos o audiovisuales.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA], P.O. 10 DE FEBRERO DE 2023)</small>
+
+XI.- Registro de Productores: La relación de los profesionales del sector Cinematográfico y Audiovisual del Estado, trátese de personas físicas o morales, nacionales o extranjeras, elaborado por la Secretaría.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA], P.O. 10 DE FEBRERO DE 2023)</small>
+
+XII.- Secretaría: Secretaría de Economía e Innovación.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE FEBRERO DE 2023)</small>
+
+XIII.- Turismo de Pantalla.- Promoción de un destino o atractivo turístico a través de una obra cinematográfica.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -87,7 +115,9 @@ XI.- Secretaría: Secretaría de Turismo del Estado de Baja California.
 
 Son autoridades encargadas de aplicar la presente Ley:
 
-I.- El Ejecutivo del Estado por conducto de la Secretaría, y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
+
+I.- La persona titular del Poder Ejecutivo del Estado por conducto de la Secretaría;
 
 II.- Los Ayuntamientos.
 
@@ -97,23 +127,33 @@ La Secretaría, conjuntamente con las dependencias, entidades de los ayuntamient
 
 ### CAPÍTULO TERCERO. DE LA PROMOCIÓN, FOMENTO Y DESARROLLO DE LA INDUSTRIA CINEMATOGRÁFICA Y AUDIOVISUAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 7.
 
-En materia de Promoción, Fomento y Desarrollo de la Industria Cinematográfica y Audiovisual en el Estado, le corresponden a la Secretaría las siguientes atribuciones:
+En materia de Promoción, Fomento y Desarrollo de la Industria Cinematográfica y Audiovisual en el Estado, le corresponden a la Secretaría de Turismo las siguientes atribuciones:
 
-I.- Formular y coordinar las acciones y políticas de la Administración Pública orientadas a atender y desarrollar el sector, así como mejorar la infraestructura cinematográfica y audiovisual y los servicios públicos que oferta el Estado a esta industria;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-II.- Difundir y promover a nivel nacional e internacional atractivos turísticos, sitios históricos, bellezas naturales, localidades y ciudades del Estado, a efecto de que dichos lugares sean aprovechados para la producción de proyectos cinematográficos o audiovisuales;
+I.- Impulsar, desde su competencia, acciones y políticas públicas, orientadas a atender y desarrollar el sector turístico, así como mejorar la infraestructura cinematográfica y audiovisual y los servicios públicos que oferta el Estado a esta industria;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
+
+II.- Difundir y promover el turismo de pantalla a nivel nacional e internacional, buscando se enaltezcan los atractivos turísticos, sitios históricos, bellezas naturales, localidades y ciudades del Estado, a efecto de que dichos lugares sean aprovechados y promocionados en la producción de proyectos cinematográficos o audiovisuales;
 
 III.- Promover y gestionar ante autoridades de los tres órdenes de Gobierno y los organismos internacionales, el otorgamiento de apoyos, incentivos, estímulos financieros, materiales operativos, logísticos y técnicos, que contribuyan a desarrollar el sector y a mejorar la infraestructura cinematográfica y audiovisual del Estado;
 
 IV.- Asesorar, apoyar y auxiliar a los productores en la búsqueda de áreas de rodaje o locaciones para su trabajo, así como en las labores de logística necesarios para conseguir los servicios más adecuados que estos requieran;
 
-V.- Desarrollar y llevar a cabo estrategias y programas de sensibilización, concientización y convencimiento sobre la importancia y beneficios de la industria cinematográfica y audiovisual para el Estado, ante autoridades de los tres órdenes de gobierno, la iniciativa privada y la comunidad, con el fin de fomentar y facilitar el desarrollo y crecimiento de esta industria;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
+
+V.- Desarrollar y llevar a cabo estrategias y programas de sensibilización, concientización y convencimiento sobre la importancia y beneficios de la industria cinematográfica y audiovisual para el Estado, ante autoridades de los tres órdenes de gobierno, especialmente las educativas y de investigación científica, la iniciativa privada y la comunidad, con el fin de fomentar y facilitar el desarrollo y crecimiento de esta industria;
 
 VI.- Promover convenios de cooperación y apoyo con autoridades del gobierno relacionadas con la seguridad pública, así como con organismos de la iniciativa privada relacionados con esta materia, con el fin de establecer programas y mecanismos específicos para prevenir y administrar riesgos al nivel de las normatividades o protocolos internacionales, y proporcionar la seguridad necesaria en el desarrollo de las actividades propias de la industria cinematográfica y audiovisual en el Estado;
 
-VII.- Previa la suscripción de los convenios, acuerdos o instrumentos jurídicos pertinentes con las instancias de gobierno que en su caso corresponda, ofrecer un servicio de ventanilla única como instancia de gestión de trámites que soliciten los interesados para el otorgamiento de facilidades, permisos o autorizaciones que establezcan los ordenamientos aplicables, a efecto de que las áreas de rodaje o locaciones en el Estado sean utilizadas como escenarios de filmaciones cinematográficas, programas de televisión, videos, musicales, comerciales, documentales y otras análogas;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
+
+VII.- Previa la suscripción de los convenios, acuerdos o instrumentos jurídicos pertinentes con las instancias de gobierno que en su caso corresponda, ofrecer los servicios de la Comisión con el objetivo de operar como ventanilla única de gestión de trámites que soliciten las personas interesadas en filmar en Baja California, ofreciéndoles múltiples servicios para el otorgamiento de facilidades, logística, atención, permisos, asesorías, enlaces institucionales entre sociedad, gobierno y empresas, y guía respecto a los ordenamientos aplicables, a efecto de que las áreas de rodaje o locaciones en el Estado sean utilizadas como escenarios de filmaciones cinematográficas, programas de televisión, videos, musicales, comerciales, documentales y otras análogas;
 
 VIII.- Elaborar, difundir y mantener actualizados los registros de productores, locaciones y directorios de proveedores especializados, para la consulta del sector, así como la guía del productor, en los términos que establezca el reglamento de esta Ley, y
 
@@ -127,7 +167,9 @@ Las dependencias estatales de la administración pública, dentro de su ámbito 
 
 Corresponde a los Ayuntamientos dentro de su competencia, coadyuvar en el desarrollo y promoción de la industria cinematográfica, por sí o por medio de convenios con la autoridad Estatal o Federal.
 
-Asimismo, cuando los ayuntamientos estimen conveniente, podrán crear oficinas de Gestoría Cinematográfica y Audiovisual, que contribuyan a la promoción de sus atractivos como locación, facilidades de arribo y operación de las producciones.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2023)</small>
+
+Asimismo, cuando los Ayuntamientos estimen conveniente, podrán crear oficinas de Gestoría Cinematográfica y Audiovisual, que contribuyan a la promoción de sus atractivos como locación, facilidades de arribo y operación de las producciones, y que se coordinen dentro de sus competencias con la Comisión.
 
 ###### Artículo 10.
 
@@ -177,7 +219,9 @@ El Consejo tendrá las atribuciones siguientes:
 
 I.- Fungir como órgano de consulta y opinión en materia cinematográfica, videográfica o audiovisual;
 
-II.- Proponer los mecanismos, acciones y estrategias que agilicen los procedimientos administrativos involucrados en la planeación, producción y desarrollo de obras cinematográficas, videográficas o audiovisuales;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
+
+II.- Proponer los mecanismos, acciones y estrategias que agilicen los procedimientos administrativos involucrados en la planeación, producción y desarrollo de obras cinematográficas, videográficas o audiovisuales, buscando crear una campaña estructurada de promoción, nacional e internacional, para la producción de obras cinematográficas y audiovisuales en la entidad;
 
 III.- Fomentar y estimular la calidad de los servicios que se ofrecen a las producciones cinematográficas y audiovisuales;
 
@@ -185,61 +229,101 @@ IV.- Conformar grupos de trabajo para la realización y seguimiento de tareas es
 
 V.- Gestionar recursos públicos y privados, para la realización de acciones en materia de producciones cinematográficas y audiovisuales;
 
-VI.- Coadyuvar, a solicitud de la Secretaría en la elaboración y actualización, así como en la difusión de los Registros de Productores y de Locaciones, los Directorios de Proveedores Especializados y Áreas de Rodaje o Locaciones;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
+
+VI.- Coadyuvar, a solicitud de la Secretaría en la elaboración y actualización, así como en la difusión de los Registros de Productores, de talentos del sector fílmico, de acuerdo al catálogo de capacidades y de Locaciones, los Directorios de Proveedores Especializados y Áreas de Rodaje o Locaciones;
 
 VII.- Aprobar y expedir sus normas de organización y operación interna;
 
-VIII.- Informar periódicamente al Gobernador del Estado de sus actividades, y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-IX.- Proponer la celebración de convenios, contratos, fideicomisos, patronatos, sociedades de participación o cualesquier instrumento jurídico pertinente, que contribuya a lograr la promoción, fomento y desarrollo de la industria cinematográfica y audiovisual en el Estado.
+VIII.- Informar, por los menos de forma semestral a la Persona titular del Poder Ejecutivo del Estado de sus actividades, estrategias y necesidades;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
+
+IX.- Proponer la celebración de convenios, contratos, fideicomisos, patronatos, sociedades de participación o cualesquier instrumento jurídico pertinente, que contribuya a lograr la promoción, fomento y desarrollo de la industria cinematográfica y audiovisual en el Estado; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE FEBRERO DE 2023)</small>
+
+X. Promover la capacitación técnica mediante cursos y talleres, para lograr una mayor profesionalización de personas de la entidad, que, puedan prestar sus servicios en el desarrollo de obras cinematográficas y audiovisuales, a efecto de crear registros de talentos del sector fílmico, de acuerdo al catálogo de capacidades.
 
 ###### Artículo 16.
 
 El Consejo estará integrado por:
 
-I.- El Titular de la Secretaría, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-II.- Un representante de la Secretaría de Desarrollo Económico;
+I.- La persona Titular de la Secretaría, quien fungirá como Presidenta;
 
-III.- Un representante de la Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-IV.- El Diputado Presidente de la Comisión de Turismo del Congreso del Estado;
+II.- Una persona representante de la Secretaría de Turismo;
 
-V.- El Presidente del Cluster de Cinematografía de Baja California;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-VI.- Los encargados o titulares de las Oficinas de Gestoría Cinematográfica y Audiovisual de cada uno de los Municipios del Estado si los hubiese o, en su caso, el representante que designe el Ayuntamiento correspondiente;
+III.- Una persona representante de la Secretaría de Hacienda;
 
-VII.- Un representante de la Escuela de Cinematografía de la Universidad de las Californias;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-VIII.- Un representante de la Facultad de Turismo y Mercadotecnia de la Universidad Autónoma de Baja California;
+IV.- La persona Diputada Presidenta de la Comisión de Turismo del Congreso del Estado;
 
-IX.- El Presidente de la Asociación de Cineastas de Baja California, A.C.;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2013)</small>
+V.- Una persona representante de la Comisión de Desarrollo Económico y Comercio Binacional;
 
-X.- Un representante de los estudios cinematográficos radicados en el Estado,
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2013)</small>
+VI.- Las personas encargadas de las Oficinas de Gestoría Cinematográfica y Audiovisual de cada uno de los Municipios del Estado si los hubiese o, en su caso, el representante que designe el Ayuntamiento y Concejo Fundacional correspondiente;
 
-XI.- Un representante por la Asociación de Hoteles y Moteles de la Costa Oriente del Estado y otro por la Zona Costa del Occidente del Estado; y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2013)</small>
+VII.- Una persona común de centros educativos particulares de educación superior con programas educativos específicos en cinematografía y producción audiovisual;
 
-XII.- Un representante del Instituto.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-Previa aprobación por mayoría simple de sus miembros, podrán formar parte integrante de este Consejo las Instituciones de Educación Superior radicadas en el Estado que impartan carreras especializadas en cinematografía y audiovisuales, así como los representantes de productores, directores, y en general de organismos cuya principal ocupación la constituya la realización de obras cinematográficas o audiovisuales en el Estado o aquellas que pugnen por su desarrollo.
+VIII.- Una persona representante de la Licenciatura en Medios Audiovisuales de la Facultad de Artes de la Universidad Autónoma de Baja California;
 
-Los Consejeros del sector gubernamental serán Consejeros durante el tiempo que estén en su cargo; y los Consejeros ciudadanos durante el tiempo que les defina el organismo que representan. Su participación en el Consejo será de carácter honorifico, por lo que no recibirán ninguna contraprestación económica o material y sus servicios no originarán ninguna relación laboral con la Secretaría o el Consejo.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2013)</small>
+IX.- La persona Presidenta de la Delegación Baja California de la Cámara Nacional de la industria Cinematográfica;
 
-Cada Consejero Propietario del Sector Gubernamental designará a su suplente, quienes podrán asistir a las sesiones del Consejo en ausencia de los primeros, con todas las facultades y derechos que a éstos correspondan. También podrán asistir cuando esté presente el Consejero Propietario, a título de oyentes, sin voz ni voto.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-El Consejo contará con un Secretario Técnico que será designado y removido por la Secretaría.
+X.- Una persona representante de los estudios cinematográficos radicados en el Estado;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
+
+XI.- Una persona representante de la Asociación de Hoteles y Moteles de la Costa Oriente del Estado y otra por la Zona Costa del Occidente del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
+
+XII.- Una persona representante del Instituto; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE FEBRERO DE 2023)</small>
+
+XIII.- Una persona representante de Baja California Hace Cine, AC.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2023)</small>
+
+Previa aprobación por mayoría simple de sus miembros, podrán formar parte integrante de este Consejo las Instituciones de Educación Superior radicadas en el Estado que impartan carreras especializadas en cinematografía y audiovisuales, así como las y los representantes de productores, directores, y en general de organismos cuya principal ocupación la constituya la realización y exhibición de obras cinematográficas o audiovisuales en el Estado o aquel 1as que pugnen por su desarrollo.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2023)</small>
+
+Las personas Consejeras del sector gubernamental serán Consejeras durante el tiempo que estén en su cargo; y las personas Consejeras ciudadanas durante el tiempo que les defina el organismo que representan. Su participación en el Consejo será de carácter honorífico, por lo que no recibirán ninguna contraprestación económica o material y sus servicios no originarán ninguna relación laboral con la Secretaría o el Consejo.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2023)</small>
+
+Cada persona Consejera Propietaria del Sector Gubernamental designará a su suplente, quienes podrán asistir a las sesiones del Consejo en ausencia de los primeros, con todas las facultades y derechos que a éstos correspondan. También podrán asistir cuando esté presente la persona Consejera Propietaria, a título de oyentes, sin voz ni voto.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2023)</small>
+
+El Consejo contará con una persona Secretaria Técnica que será designada y removida por la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 17.
 
-El Presidente tendrá las facultades siguientes, para las cuales se podrá apoyar en el Secretario Técnico:
+La persona Presidenta tendrá las facultades siguientes, para las cuales se podrá apoyar en la persona Secretaria Técnica:
 
 I.- Conducir y organizar el funcionamiento del Consejo;
 
@@ -247,13 +331,19 @@ II.- Definir los asuntos a tratar en las sesiones del Consejo;
 
 III.- Celebrar las reuniones necesarias para la decisión de los asuntos relacionados con el cumplimiento del objeto del Consejo;
 
-IV.- Convocar, por conducto del Secretario Técnico, la realización de sesiones ordinarias y extraordinarias, y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
-V.- Elaborar los informes que se presenten al Gobernador del Estado.
+IV.- Convocar, por conducto de la persona Secretaria Técnica, la realización de sesiones ordinarias y extraordinarias, y,
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
+
+V.- Elaborar los informes que se presenten a la persona titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 18.
 
-El Secretario Técnico tendrá, además de las funciones que le asigne el Presidente en las materias que regula esta Ley, las siguientes facultades:
+La persona Secretaria Técnica tendrá, además de las funciones que le asigne la persona Presidenta en las materias que regula esta Ley, las siguientes facultades:
 
 I.- Elaborar los informes de avance y resultados que se presenten al Consejo;
 
@@ -263,17 +353,21 @@ III.- Ser responsable del seguimiento de los acuerdos del Consejo, de la prepara
 
 IV.- Coordinar los grupos de trabajo designados por el Consejo para el debido cumplimiento de sus objetivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 19.
 
-El Consejo sesionará en forma ordinaria y extraordinaria. Serán sesiones ordinarias las que se fijen en el calendario de sesiones, las cuales serán como mínimo tres veces al año, y extraordinarias las que sean convocadas fuera del mismo, en cualquier tiempo. El calendario de sesiones se aprobará en la primera sesión del año.
+El Consejo sesionará en forma ordinaria y extraordinaria. Serán sesiones ordinarias las que se fijen en el calendario de sesiones, las cuales serán como mínimo tres veces al año, y extraordinarias las que sean convocadas fuera del mismo, en cualquier tiempo. Estas sesiones podrán realizarse de manera presencial o virtual, a través de medios electrónicos, ópticos o de cualquier otra tecnología, que permita el funcionamiento y desarrollo del Consejo.
 
 El quórum legal para sesionar será de la mitad mas uno de sus integrantes, y sus decisiones se tomaran por mayoría de votos de los presentes, en caso de empate quien presida la sesión tendrá el voto de calidad.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 20.
 
-El Presidente del Consejo, de forma particular o a petición de uno de sus miembros, podrá invitar a participar en sus sesiones a autoridades locales y federales, miembros de organizaciones internacionales, especialistas, académicos, intelectuales, profesionales del Sector o sociedades de gestión; a efecto de que enriquezcan los trabajos de este órgano. El Consejo podrá acordar la participación permanente de invitados, cuando considere que su presencia contribuirá a la mejora de los trabajos de este órgano.
+La persona Presidenta del Consejo, de forma particular o a petición de una de las personas miembros, podrá invitar a participar en sus sesiones a autoridades locales y federales, miembros de organizaciones internacionales, especialistas, académicos, intelectuales, profesionales del Sector o sociedades de gestión; a efecto de que enriquezcan los trabajos de este órgano. El Consejo podrá acordar la participación permanente de las personas invitadas, cuando considere que su presencia contribuirá a la mejora de los trabajos de este órgano.
 
-Los invitados o participantes temporales y permanentes, únicamente contarán con derecho de voz.
+Las personas invitadas o participantes temporales y permanentes, únicamente contarán con derecho de voz.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE FEBRERO DE 2013)</small>
 
@@ -312,3 +406,11 @@ P.O. 22 DE FEBRERO DE 2013.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- El Ejecutivo del Estado tendrá un término de noventa días a partir de la entrada en vigor de la presente reforma, para hacer las adecuaciones reglamentarias correspondientes.
+
+P.O. 10 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 204 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 4, 5, 7, 9, 15, 16, 17, 18, 19 Y 20 DE LA LEY DE PROMOCIÓN, FOMENTO Y DESARROLLO DE LA INDUSTRIA CINEMATOGRÁFICA Y AUDIOVISUAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las solicitudes, trámites, y demás actos que en materia de promoción, fomento y desarrollo de la industria cinematográfica y audiovisual en el Estado de Baja California se encuentren en proceso de atenderse o solventarse por la Secretaría de Turismo, se transferirán para su atención, seguimiento y resolución a la Secretaría de Economía e Innovación.
