@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-agencia-de-proteccion-sanitaria-del-137166"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-07-04"
-last_updated: "2019-07-04"
+last_updated: "2023-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137166&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-04-12"
 
 REGLAMENTO DE LA AGENCIA DE PROTECCIÓN SANITARIA DEL GOBIERNO DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE FEBRERO DE 2023.
 
 Reglamento publicado en el Número 127 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 4 de julio de 2019.
 
@@ -718,6 +718,18 @@ Los procedimientos administrativos que realice la Agencia se regirán por los pr
 
 Los procedimientos administrativos, verificaciones y sanciones que realice o aplique la Agencia se apegarán a lo dispuesto por la Ley, la Ley de Procedimiento Administrativo de la Ciudad de México y demás normas aplicables.
 
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2023)</small>
+
+Las visitas de verificación sanitaria para la regulación, vigilancia, control y fomento sanitario que la Agencia lleve a cabo, podrán ser videograbadas mediante cámaras fijas, móviles o de solapa, para lo cual, la orden y el acta de verificación respectiva, harán mención de la utilización de aparatos para la videograbación de la diligencia de carácter sanitario.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2023)</small>
+
+La persona propietaria, responsable, encargada u ocupante del inmueble verificado, deberá brindar al verificador sanitario o personal habilitado para tal efecto, las facilidades necesarias para llevar a cabo la videograbación de la visita de verificación sanitaria y podrá solicitar acceso a ésta, previa acreditación de su interés jurídico ante la Agencia, quien acordará lo conducente en un plazo no mayor a tres días hábiles contados a partir de la recepción de la solicitud.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2023)</small>
+
+La videograbación de la visita de verificación sanitaria, formará parte de los autos que integran el expediente administrativo correspondiente.
+
 ###### Artículo 26.
 
 Las sanciones administrativas y medidas de seguridad que la autoridad sanitaria, a través de la Agencia, podrá aplicar a las personas físicas o morales de los sectores social o privado, así como el sector público por el incumplimiento de las disposiciones de la Ley, el presente Reglamento y demás ordenamientos en la materia, serán las siguientes:
@@ -763,3 +775,13 @@ SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su public
 TERCERO. Se abroga el Reglamento de la Agencia de Protección Sanitaria del Gobierno del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 23 de noviembre de 2010.
 
 Dado en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los doce días del mes de abril del año dos mil diecinueve.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 10 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 25 DEL REGLAMENTO DE LA AGENCIA DE PROTECCIÓN SANITARIA DEL GOBIERNO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
