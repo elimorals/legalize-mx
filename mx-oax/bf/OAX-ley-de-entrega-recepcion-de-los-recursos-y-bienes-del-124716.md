@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-entrega-recepcion-de-los-recursos-y-bienes-del-124716"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-20"
-last_updated: "2021-10-09"
+last_updated: "2023-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS Y BIENES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2023.
 
 Ley publicada en el Extra al Periódico Oficial del Estado de Oaxaca, el viernes 20 de octubre de 2017.
 
@@ -195,21 +195,13 @@ En el caso de la entrega-recepción final, los servidores públicos obligados qu
 
 Los servidores públicos salientes estarán obligados a proporcionar a los servidores públicos entrantes, a los Órganos de Control competentes, la información que requieran y realizar las aclaraciones que les soliciten durante los treinta días hábiles, contados a partir de la firma del acta de entrega-recepción.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 10 DE FEBRERO DE 2023)</small>
 
-Si durante dicho periodo o transcurrido el mismo, las autoridades competentes para ejercer atribuciones de fiscalización, inspección o vigilancia determinan observaciones, realizan solicitudes de aclaración o formulan cualquier tipo de requerimiento relacionado con los procesos de auditoría o de fiscalización en trámite que hubiesen sido reportados en el acta administrativa de entrega-recepción, las Dependencias y Entidades, deberán notificarlo, en la forma y términos que se señalen en el acta respectiva o, en su defecto, de conformidad con la normatividad que resulte aplicable al proceso de entrega-recepción, a los servidores públicos salientes, y requerirlos para que, de estimarlo conveniente, coadyuven en la integración de las respuestas correspondientes.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 10 DE FEBRERO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 10 DE FEBRERO DE 2023)</small>
 
-En la notificación a que se refiere el párrafo anterior se señalarán días y horas hábiles para que dichos servidores públicos salientes tengan acceso a los expedientes correspondientes y, en su caso, apoyen en la formulación de la propuesta de respuesta y coadyuven con los servidores públicos en funciones para atender a los requerimientos de las autoridades que se señalan en el párrafo anterior.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
-
-El procedimiento previsto en los párrafos segundo y tercero será igualmente aplicable para observaciones que se determinen, aclaraciones que se soliciten o requerimientos de información que se formulen, en procedimientos de auditoría o fiscalización que se inicien con posterioridad al acto de entrega-recepción, pero que correspondan a actos u omisiones desplegados de manera directa por el servidor público saliente.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
-
-Lo dispuesto en el presente artículo no exime la obligación de los servidores públicos en funciones y de los entes fiscalizados de proporcionar oportuna y exhaustivamente, a las autoridades competentes para ejercer atribuciones de fiscalización, inspección o vigilancia, en los términos señalados en las leyes en la materia, la información y documentación pertinente, suficiente, competente y relevante para atender los actos de fiscalización y, en su caso, solventar las observaciones que se determinen.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 10 DE FEBRERO DE 2023)</small>
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LOS ÓRGANOS DE CONTROL
 
@@ -489,11 +481,11 @@ En los casos de requerirse aclaraciones, información, documentación o se prese
 
 La verificación y validación física del contenido del acta administrativa de entrega-recepción y sus anexos deberán llevarse a cabo por el servidor público entrante en un término no mayor de treinta días hábiles contados a partir de la firma del acta de entrega-recepción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 32.
 
-En el caso de que el servidor público entrante encuentre irregularidades respecto de los bienes, recursos, documentación e información recibida, deberá informar por escrito al órgano de control, quien deberá requerir al servidor público que entregó los bienes, recursos, documentación e información, quien tendrá acceso, en días y horas hábiles, a la documentación necesaria para que realice las aclaraciones, presentación de bienes, y en general los elementos que considere necesarios para el esclarecimiento de la inconformidad, las que deberá presentar ante el servidor público entrante.
+En el caso de que el servidor público entrante encuentre irregularidades respecto de los bienes, recursos, documentación e información recibida, deberá informar por escrito al órgano de control, quien deberá requerir al servidor público que entregó los bienes, recursos, documentación e información, para que realice las aclaraciones, presentación de bienes, y en general los elementos que considere necesarios para el esclarecimiento de la inconformidad, las que deberá presentar ante el servidor público entrante.
 
 La solicitud a que se refiere el párrafo anterior deberá hacérsele por escrito y notificada en el último domicilio que conozca la autoridad solicitante del servidor público saliente, el requerido deberá comparecer personalmente o por escrito dentro de los quince días hábiles siguientes a la recepción de la notificación a manifestar lo que corresponda.
 
@@ -560,3 +552,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO.- Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 10 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 816.- MEDIANTE EL CUAL SE DEROGAN LOS PÁRRAFOS SEGUNDO AL CUARTO DEL ARTÍCULO 12 Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 32 DE LA LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS Y BIENES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
