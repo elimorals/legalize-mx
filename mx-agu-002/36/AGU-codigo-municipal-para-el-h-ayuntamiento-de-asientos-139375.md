@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-el-h-ayuntamiento-de-asientos-139375"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-14"
-last_updated: "2022-02-14"
+last_updated: "2023-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL PARA ASIENTOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2023.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de octubre de 2019.
 
@@ -1113,19 +1113,15 @@ Los acuerdos del Ayuntamiento se tomarán por mayoría de votos, salvo en el cas
 
 Si fuere el caso, el Secretario certificará, pasados 15 minutos de la hora señalada para la sesión, que no existe quórum legal para los efectos de suspensión de la misma.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 95°.
 
 Las Sesiones del Cabildo serán: Ordinarias, Extraordinarias, Solemnes, por regla general las sesiones tendrán carácter de públicas.
 
-I. Sesiones Ordinarias, son aquellas que convoca el presidente municipal con tal carácter y deberán realizarse el primer lunes de cada mes, y serán para tratar los asuntos ordinarios de gobierno (todo lo concerniente al gobierno del municipio). Las sesiones ordinarias, podrán ser de dos tipos:
+I. Sesiones Ordinarias, son aquellas que convoca el presidente municipal con tal carácter y deberán realizarse el primer lunes de cada mes, y serán para tratar los asuntos ordinarios de gobierno (todo lo concerniente al gobierno del municipio).
 
-a) Sesiones Ordinarias Abiertas, son aquellas en donde puede asistir cualquier público.
-
-b) Sesiones Ordinarias Cerradas, son aquellas en donde por su naturaleza se traten asuntos que deba guardarse debida secrecía.
-
-II. Sesiones Extraordinarias, son aquellas que convoca el presidente municipal, cierto número de regidores, el secretario del ayuntamiento o en su caso el ayuntamiento en pleno para tratar asuntos extraordinarios o calificados de importancia para el municipio, también podrán ser abiertas o cerradas.
+II. Sesiones Extraordinarias, son aquellas que convoca el presidente municipal, cierto número de regidores, el secretario del ayuntamiento o en su caso el ayuntamiento en pleno para tratar asuntos extraordinarios o calificados de importancia para el municipio.
 
 III. Sesiones Solemnes, son aquellas que sean convocadas por el presidente municipal para efectuar un acto solemne o en su caso entregar una distinción.
 
@@ -14792,5 +14788,13 @@ PRIMERO: Se derogan las disposiciones contenidas en el Capítulo V, artículos 1
 ## [N. DE E. TRANSITORIOS DE LA “REFORMA AL ARTÍCULO 224 DEL CÓDIGO MUNICIPAL PARA ASIENTOS”.]
 
 Primero.- Se instruye a la Secretario (sic) del H. Ayuntamiento y Directora General de Gobierno para que de conformidad a las facultades que me confiere el Código Municipal para Asientos, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional de Asientos, la presente reforma.
+
+Segundo.- Las modificaciones al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL ARTÍCULO 95 DEL CÓDIGO MUNICIPAL PARA ASIENTOS".]
+
+Primero.- Se instruye a la Secretario (sic) del H. Ayuntamiento y Directora General de Gobierno para que de conformidad a las facultades que me (sic) confiere el Código Municipal para Asientos, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional de Asientos, la presente reforma.
 
 Segundo.- Las modificaciones al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
