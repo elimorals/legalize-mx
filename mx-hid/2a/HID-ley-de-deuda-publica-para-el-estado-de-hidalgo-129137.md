@@ -4,7 +4,7 @@ identifier: "HID-ley-de-deuda-publica-para-el-estado-de-hidalgo-129137"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-18"
-last_updated: "2018-06-18"
+last_updated: "2023-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2023.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 18 de junio de 2018.
 
@@ -108,6 +108,14 @@ XII. Deuda Pública Municipal: la que contraigan los Municipios como responsable
 XIII. Disponibilidades: los recursos provenientes de los ingresos que durante los ejercicios fiscales anteriores no fueron pagados ni devengados para algún rubro del gasto presupuestado, excluyendo a las Transferencias federales etiquetadas;
 
 XIV. Entes Públicos: los señalados en el Artículo 2 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2023)</small>
+
+XIV Bis. Esquema Global de Financiamiento: Las operaciones de Deuda Pública que autorice el Congreso del Estado, mediante un solo decreto, a los siguientes entes públicos:
+
+a) Al Estado a través de la Secretaría, en favor de sí mismo y en favor de dos o más municipios o de todos los municipios que conforman el Estado, o
+
+b) A dos o más Municipios, en favor de sí mismos o de todos los municipios que conforman el Estado.
 
 XV. Estado: Estado Libre y Soberano de Hidalgo;
 
@@ -209,6 +217,14 @@ II. Analizar y, en su caso, autorizar montos y conceptos de endeudamiento no pre
 
 III. Autorizar a los entes públicos, salvo en los casos de excepción previstos en la Ley, la celebración de operaciones de refinanciamiento y reestructuración de deuda pública;
 
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2023)</small>
+
+III Bis. Autorizar con el voto de las dos terceras partes de sus miembros presentes, Esquemas Globales de Financiamiento incluyendo sus términos y condiciones, mediante un solo decreto a los entes públicos señalados en los incisos a) y b) de la fracción XIV Bis del artículo 3 de la presente Ley.
+
+Para el esquema señalado en el párrafo anterior, los entes públicos podrán utilizar como mecanismo de captación, administración y fuente de pago un fideicomiso público no considerado entidad paraestatal constituido para tales efectos, o contratos de mandato o cualquier otro mecanismo análogo, siendo cada ente público el responsable de las obligaciones y financiamientos constitutivos de Deuda Pública y los costos asociados a la misma que, en su caso, contraigan.
+
+Los Municipios que así lo consideren conveniente, podrán adherirse a los Esquemas Globales de Financiamiento autorizados por el Congreso del Estado, siempre que previamente a la formalización de los contratos cuenten con la aprobación de sus Ayuntamientos.
+
 IV. Solicitar a los entes públicos la documentación e información complementaria que requiera para el análisis de las solicitudes de autorización de financiamiento;
 
 V. Autorizar al Poder Ejecutivo para que, en representación del Estado, se constituya en garante, avalista, deudor solidario, subsidiario o sustituto de los Municipios, las entidades de la administración pública paraestatal o paramunicipal, o los organismos autónomos;
@@ -242,6 +258,10 @@ Son facultades y obligaciones del Poder Ejecutivo del Estado:
 I. Presentar anualmente al Congreso la iniciativa de Ley de Ingresos del Estado, proponiendo en su caso, los montos y conceptos de endeudamiento, directo y contingente, que sean necesarios para el financiamiento del Estado, de los organismos autónomos y de las entidades de la administración pública paraestatal en el ejercicio fiscal correspondiente, incluyendo el plazo, destino y, en su caso, el otorgamiento de garantías y/o el establecimiento de fuentes de pago propuestos para dichos financiamientos;
 
 II. Solicitar al Congreso montos y conceptos de endeudamiento no previstos o adicionales a los autorizados, que sean necesarios para el financiamiento del Estado y, en su caso, organismos autónomos y de las entidades de la administración pública paraestatal, incluyendo el plazo, destino y, en su caso, el otorgamiento de garantías y/o el establecimiento de fuentes de pago propuestos para dichos financiamientos;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2023)</small>
+
+II Bis. Solicitar al Congreso la autorización de Esquemas Globales de Financiamiento, en favor de los entes públicos señalados en los incisos a) y b) de la fracción XIV Bis del artículo 3 de la presente Ley.
 
 III. Informar trimestralmente al Congreso sobre el ejercicio de las partidas correspondientes a los montos de financiamiento autorizado y la situación de la deuda pública estatal, así como al rendir la cuenta pública; y
 
@@ -340,6 +360,20 @@ Son facultades y obligaciones del Municipio, a través del Presidente Municipal 
 I. Contratar financiamientos a su cargo;
 
 II. Negociar, aprobar, celebrar, suscribir y emitir, en el ámbito de su competencia, los actos jurídicos, títulos de crédito, valores y demás instrumentos legales necesarios o convenientes, directa o indirectamente, para la obtención, manejo, operación y gestión de los financiamientos a su cargo;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2023)</small>
+
+II Bis. Presentar con al menos otro Municipio, la propuesta de iniciativa de decreto para que el Congreso del Estado autorice Esquemas Globales de Financiamiento, para lo cual, los Municipios que promuevan la iniciativa de decreto, requerirán previamente la autorización de su Ayuntamiento.
+
+En caso de que el Congreso del Estado apruebe el proyecto de iniciativa y emita el decreto de autorización, cada Municipio que decida adherirse deberá obtener la autorización de su Ayuntamiento.
+
+Previo al proceso de contratación de los Financiamientos u Obligaciones, los municipios, deberán contar con las autorizaciones señaladas en los párrafos anteriores.
+
+Cuando las operaciones que se pretendan formalizar comprometan al Municipio de que se trate por un plazo mayor al término constitucional de la gestión municipal para la que fue electo, la autorización deberá otorgarse con el acuerdo de las dos terceras partes de los miembros del Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2023)</small>
+
+II Ter. Afectar las aportaciones y/o participaciones federales susceptibles, así como los ingresos locales de los que pueda disponer, de conformidad con lo que prevé la legislación aplicable, como fuente y/o garantía de pago de las obligaciones o financiamientos a su cargo que deriven de los Esquemas Globales de Financiamiento; a través de fideicomisos, mandatos o cualquier otro acto jurídico análogo, siendo cada municipio el responsable de las obligaciones y financiamientos constitutivos de Deuda Pública y los costos asociados a la misma que, en su caso, contraigan.
 
 III. Celebrar operaciones de refinanciamiento y reestructuración de los financiamientos a su cargo;
 
@@ -1256,3 +1290,13 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 479 POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
