@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-179254
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-05-22"
-last_updated: "2022-05-25"
+last_updated: "2023-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179254&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-05-05"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE FEBRERO DE 2023.
 
 Estatuto publicado en el Número 15 del Diario Oficial de la Federación, el viernes 22 de mayo de 2020.
 
@@ -1143,6 +1143,8 @@ VI. Impulsar la adopción de roles y responsabilidades que permitan evolucionar 
 
 ### Capítulo XI. De la Subdirección General de Comunicación
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 13 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 71.
 
 Las facultades y funciones de la Subdirección General de Comunicación son:
@@ -1177,13 +1179,17 @@ VII. Aprobar con la Secretaría General y Jurídica el otorgamiento de los permi
 
 VIII. Administrar y operar en coordinación con la Subdirección General de Tecnologías de Información el portal Institucional;
 
-> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2023)</small>
 
-IX. Definir y ejecutar la estrategia de difusión cultural y académica del Infonavit, y
+IX. Definir y ejecutar la estrategia de difusión cultural y académica del Infonavit;
 
-> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2023)</small>
 
-X. Administrar y coordinar el funcionamiento del Museo Nacional de la Vivienda, el Centro de Información Documental-Biblioteca del Infonavit y coordinar las redes de colaboración cultural y académica con instituciones sociales, públicas, privadas y organismos nacionales e internacionales.
+X. Administrar y coordinar el funcionamiento del Museo Nacional de la Vivienda, el Centro de Información Documental-Biblioteca del Infonavit y coordinar las redes de colaboración cultural y académica con instituciones sociales, públicas, privadas y organismos nacionales e internacionales, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE FEBRERO DE 2023)</small>
+
+XI. Gestionar y coordinar a nivel institucional las investigaciones cualitativas y cuantitativas dirigidas a los derechohabientes, los patrones, usuarios y trabajadores del Infonavit, en materia de satisfacción, evaluación, detección de necesidades, opinión y experiencia directa sobre los productos, programas, servicios y aspectos de cultura organizacional del Instituto.
 
 ### Capítulo XII. De la Subdirección General de Tecnologías de Información
 
@@ -1296,3 +1302,9 @@ Primero. Las presentes modificaciones al Estatuto fueron aprobadas en la sesión
 Segundo. Las demás disposiciones del Estatuto Orgánico del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, publicado en el Diario Oficial de la Federación el 22 de mayo de 2020 que no hubiesen sido objeto de cambios en términos del presente Acuerdo permanecerán vigentes.
 
 Tercero. Se ordena su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE APRUEBAN LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES".]
+
+Único. Las presentes modificaciones al Estatuto Orgánico del Instituto del Fondo Nacional de la Vivienda para los Trabajadores entrarán en vigor a partir de su publicación en el Diario Oficial de la Federación.
