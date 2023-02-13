@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2023-01-23"
+last_updated: "2023-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGUASCALIENTES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE FEBRERO DE 2023 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE AGUASCALIENTES EL 13 DE FEBRERO DE 2023.]</small>
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -3649,9 +3649,9 @@ IX.- Participar en la elaboración y supervisar jurídicamente el contenido de l
 
 X.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+(ADICIONADO, P.O. 23 DE ENERO DE 2023) (F. DE E., P.O. 13 DE FEBRERO DE 2023)
 
-ARTICULO 216 BIS (SIC).- Para garantizar la uniformidad y congruencia de la acción jurídica de la administración municipal y todas las áreas jurídicas que la conforman, así como la expedites en la atención de los asuntos y la economía en el uso de los recursos, todas las áreas de la administración pública municipal, centralizada o paramunicipal que dentro de su estructura cuenten con una instancia jurídica, esta se subordinarán (sic) jerárquica y administrativamente en su función técnica, operativa y administrativa directamente a los lineamientos y criterios que determine la Dirección General de Asuntos Jurídicos, a través de los mecanismos adecuados para el logro de los fines previstos en este artículo. Este mismo criterio aplicará para los servicios jurídicos especializados que llegaren a contratarse por parte de la administración municipal, los cuales serán valorados por esta Dirección, la Secretaría del Ayuntamiento y por conducto del Presidente Municipal.
+Para garantizar la uniformidad y congruencia de la acción jurídica de la administración municipal y todas las áreas jurídicas que la conforman, así como la expedites en la atención de los asuntos y la economía en el uso de los recursos, todas las áreas de la administración pública municipal, centralizada o paramunicipal que dentro de su estructura cuenten con una instancia jurídica, esta se subordinarán (sic) jerárquica y administrativamente en su función técnica, operativa y administrativa directamente a los lineamientos y criterios que determine la Dirección General de Asuntos Jurídicos, a través de los mecanismos adecuados para el logro de los fines previstos en este artículo. Este mismo criterio aplicará para los servicios jurídicos especializados que llegaren a contratarse por parte de la administración municipal, los cuales serán valorados por esta Dirección, la Secretaría del Ayuntamiento y por conducto del Presidente Municipal.
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2019)</small>
 
