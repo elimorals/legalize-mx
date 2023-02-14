@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-27"
-last_updated: "2022-06-14"
+last_updated: "2023-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2023.
 
 Ley publicada en el anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 27 de abril de 2016.
 
@@ -501,9 +501,15 @@ XXX.- Designar y remover a los servidores públicos que establezca la ley;
 
 XXXI.- Difundir entre los sujetos obligados y la sociedad en general, los beneficios del manejo de la información pública, así como las responsabilidades de su buen uso y su conservación;
 
-XXXII.- Divulgar vía Internet de manera subsidiaria las obligaciones de Transparencia de los municipios con población menor a 70,000 habitantes, a los municipios que así lo soliciten, y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2023)</small>
 
-XXXIII.- Las demás que les confieran la Ley General, la presente Ley y otras disposiciones aplicables.
+XXXII.- Divulgar vía Internet de manera subsidiaria las obligaciones de Transparencia de los municipios con población menor a 70,000 habitantes, a los municipios que así lo soliciten;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2023)</small>
+
+XXXIII.- Aprobar el Informe anual de actividades que por conducto de quien presida el Instituto, mismo que se presentará ante el Congreso del Estado; y
+
+XXXIV.- Las demás que les confieran la Ley General, la presente Ley y otras disposiciones aplicables.
 
 2. Los Comisionados deberán excusarse en el estudio de los recursos de revisión que les sean turnados, cuando exista conflicto de interés, el cual deberá ser comunicado al Comisionado Presidente para que turne de nueva cuenta el recurso de revisión en términos de ley.
 
@@ -531,7 +537,13 @@ IX.- Convocar a reuniones internas a los comisionados, y a los demás miembros d
 
 X.- Requerir cualquier informe o documento que obre en poder de los sujetos obligados por la ley, para que aporten los documentos que puedan servir para la substanciación o resolución de los expedientes;
 
-XI.- Rendir ante el Pleno del Organismo garante un informe anual, respecto de las actividades de difusión y promoción de la cultura de la transparencia, así como, de la sustanciación de procedimientos previstos en esta ley;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2023)</small>
+
+XI.- Rendir por escrito en el mes de febrero un informe anual ante el Pleno del Organismo garante y ante el Congreso del Estado, respecto de las actividades de difusión y promoción de la cultura de la transparencia, así como, de la sustanciación de procedimientos previstos en esta ley.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2023)</small>
+
+Dicho informe, corresponderá al del ejercicio inmediato anterior y deberá contener cuando menos las estadísticas sobre solicitudes de acceso a la información presentadas ante cada sujeto obligado; recursos de revisión recibidos y resueltos; estado que guardan las denuncias por el incumplimiento de esta Ley; cumplimiento de obligaciones de transparencia; verificaciones; el uso de sus recursos públicos; las acciones desarrolladas y el impacto de su actuación; indicadores de gestión y el comportamiento de los sujetos obligados en el cumplimiento de las normas aplicables;
 
 XII.- Fijar los lineamientos para la selección, capacitación, designación y promoción del personal del Organismo garante;
 
@@ -2650,3 +2662,11 @@ P.O. 14 DE JUNIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-524 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará a (sic) vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
