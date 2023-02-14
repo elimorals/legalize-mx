@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-de-datos-personales-en-posesion-de-122958"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-17"
-last_updated: "2020-11-22"
+last_updated: "2023-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2023.
 
 Ley publicada en el Anexo al Número 99 del Periódico Oficial del Estado de Tamaulipas, el jueves 17 de agosto de 2017.
 
@@ -1293,9 +1293,21 @@ XXV. Administrar, en el ámbito de su respectiva competencia, la Plataforma Naci
 
 XXVI. Interponer acciones de inconstitucionalidad en contra de leyes expedidas por la Legislatura del Estado de Tamaulipas que vulneren el derecho a la protección de datos personales;
 
-XXVII. Divulgar y emitir recomendaciones, estándares y mejores prácticas en las materias reguladas por la presente Ley; y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2023)</small>
 
-XXVIII. Emitir el dictamen con recomendaciones no vinculantes a las evaluaciones de impacto a la protección de datos personales que le sean presentadas.
+XXVII. Divulgar y emitir recomendaciones, estándares y mejores prácticas en las materias reguladas por la presente Ley;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2023)</small>
+
+XXVIII. Emitir el dictamen con recomendaciones no vinculantes a las evaluaciones de impacto a la protección de datos personales que le sean presentadas; y
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2023)</small>
+
+XXIX. Rendir por conducto de quien presida el Instituto un informe anual por escrito en el mes de febrero ante el Pleno del Organismo garante y ante el Congreso del Estado.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXIX]</small>
+
+Dicho informe, corresponderá al del ejercicio inmediato anterior y deberá contener cuando menos la estadística sobre solicitudes de derechos ARCO presentadas ante cada sujeto obligado; estadística sobre recursos de revisión recibidos y resueltos; procedimientos de verificación de esta Ley; las acciones desarrolladas y el impacto de su actuación y el comportamiento de los sujetos obligados en el cumplimiento de las normas aplicables.
 
 ###### Artículo 124.
 
@@ -2146,3 +2158,11 @@ P.O. 22 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-524 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará a (sic) vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
