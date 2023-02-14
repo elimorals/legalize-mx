@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2023-02-01"
+last_updated: "2023-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1369,7 +1369,11 @@ En caso de advertir posibles irregularidades al respecto, deberán ser denunciad
 
 Las irregularidades derivadas de la elaboración del referido padrón se demostraran eficazmente y de ninguna manera afectarán el derecho de las personas a ser beneficiadas con obras de pavimentación o reparación de calles y vialidades.
 
-X.- Las demás previstas en las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2023)</small>
+
+X.- Contar con área directiva encargada de implementar el programa municipal obligatorio de reforestación urbana y con facultades de verificar la observancia normativa y reglamentaria sobre las obligaciones de los desarrolladores inmobiliarios de contar con áreas verdes y jardines suficientes en estos proyectos.
+
+XI.- Las demás previstas en las leyes y reglamentos.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2007)</small>
 
@@ -6712,6 +6716,14 @@ Los Ayuntamientos que no tengan aún designados a sus Cronistas Municipales, deb
 P.O. 1 DE FEBRERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-507 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 34; Y SE ADICIONA UNA FRACCIÓN XIX RECORRIENDO EN SU ORDEN LA FRACCIÓN SUBSECUENTE PARA SER FRACCIÓN XX AL ARTÍCULO 60, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-521 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN X, RECORRIÉNDOSE LA ACTUAL PARA SER XI AL ARTÍCULO 73 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
