@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2023-02-07"
+last_updated: "2023-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -935,7 +935,9 @@ X. Fomentar la convivencia escolar armónica y la generación de mecanismos para
 
 XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos;
 
-XII. Se elaboren protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2023)</small>
+
+XII. Se elaboren protocolos de actuación, prevención y seguridad, sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
 
 XIII. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo Nacional, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado;
 
@@ -955,9 +957,27 @@ XIX. Inculcar en niñas, niños y adolescentes el fomento de hábitos dirigidos 
 
 XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
-XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional; y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2023)</small>
 
-XXII. Establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección correspondiente, los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de los alumnos que cursen educación básica y media superior en los centros educativos.
+XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2023)</small>
+
+XXII. Establecer programas de capacitación en materia de finanzas básicas personales, para fomentar la educación financiera en niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2023)</small>
+
+XXIII. Fomentar la participación de emprendimientos y negocios mediante la creación de programas en los niveles de educación básica y media superior;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2023)</small>
+
+XXIV. Impartir talleres que fortalezcan el control de emociones y el manejo de conflictos ante situaciones de la vida cotidiana en niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2023)</small>
+
+XXV. Establecer programas y convenios con la Secretaría de Salud Estatal, para que, durante las jornadas que realiza en temas nutricionales y combate a la obesidad, se impartan actividades en las instituciones educativas en los niveles de educación básica y media superior, para la mejora de los hábitos alimenticios; y
+
+XXVI. Establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección correspondiente, los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de los alumnos que cursen educación básica y media superior en los centros educativos.
 
 Una vez efectuada dicha notificación será aplicable el procedimiento establecido en el artículo 86 de la presente Ley, y en su caso, la activación de las instancias jurisdiccionales necesarias, a fin de garantizar los derechos de las niñas, niños y adolescentes.
 
@@ -2060,6 +2080,14 @@ Los procesos administrativos y judiciales de adopción que se encuentren en trá
 P.O. 7 DE FEBRERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-513 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS Y A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-522 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
