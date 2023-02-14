@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-organismo-regulador-de-transporte-de-1509
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-09-03"
-last_updated: "2021-09-03"
+last_updated: "2023-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150958&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-09-01"
 
 ESTATUTO ORGÁNICO DEL ORGANISMO REGULADOR DE TRANSPORTE DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2023.
 
 Estatuto publicado en el Número 676 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 3 de septiembre de 2021.
 
@@ -642,6 +642,10 @@ L. Realizar las gestiones necesarias para el pago de recursos al Transporte Púb
 
 LI. Realizar las gestiones para la ejecución de las garantías de sostenimiento de propuestas y cumplimiento de contratos que presenten los proveedores, contratistas y prestadores de servicios en términos de la Ley de Adquisiciones y Ley de Obras de la Ciudad de México; y
 
+> <small>(ADICIONADA, G.O. 14 DE FEBRERO DE 2023)</small>
+
+LI. Bis. Establecer y operar los mecanismos necesarios para coordinar la administración, recaudación y recuperación de los adeudos a favor del Organismo Regulador de Transporte, así como el cobro de la contraprestación por el uso, aprovechamiento y explotación de los espacios otorgados a las personas físicas o morales dentro de los Centros de Transferencia Modal asignados al Organismo.
+
 LII. Las demás que le confiera la Dirección General y las disposiciones legales aplicables que sean para el cumplimiento de su objetivo.
 
 ### CAPÍTULO QUINTO. DEL ÓRGANO DE VIGILANCIA, ÓRGANO INTERNO DE CONTROL Y CONTRALORÍA CIUDADANA
@@ -705,3 +709,13 @@ Ciudad de México a 27, de agosto de 2021
 LICENCIADA NATALIA RIVERA HOYOS
 
 DIRECTORA GENERAL DEL ORGANISMO REGULADOR DE TRANSPORTE
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 14 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN LI BIS DEL ARTÍCULO 25 DE SU ESTATUTO ORGÁNICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. La presente reforma entrará en vigor el día de su publicación.
