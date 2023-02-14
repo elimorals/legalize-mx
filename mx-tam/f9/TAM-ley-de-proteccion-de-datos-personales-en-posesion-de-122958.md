@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-de-datos-personales-en-posesion-de-122958"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-17"
-last_updated: "2020-11-22"
+last_updated: "2023-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2023.
 
 Ley publicada en el Anexo al Número 99 del Periódico Oficial del Estado de Tamaulipas, el jueves 17 de agosto de 2017.
 
@@ -1293,9 +1293,21 @@ XXV. Administrar, en el ámbito de su respectiva competencia, la Plataforma Naci
 
 XXVI. Interponer acciones de inconstitucionalidad en contra de leyes expedidas por la Legislatura del Estado de Tamaulipas que vulneren el derecho a la protección de datos personales;
 
-XXVII. Divulgar y emitir recomendaciones, estándares y mejores prácticas en las materias reguladas por la presente Ley; y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2023)</small>
 
-XXVIII. Emitir el dictamen con recomendaciones no vinculantes a las evaluaciones de impacto a la protección de datos personales que le sean presentadas.
+XXVII. Divulgar y emitir recomendaciones, estándares y mejores prácticas en las materias reguladas por la presente Ley;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2023)</small>
+
+XXVIII. Emitir el dictamen con recomendaciones no vinculantes a las evaluaciones de impacto a la protección de datos personales que le sean presentadas; y
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2023)</small>
+
+XXIX. Rendir por conducto de quien presida el Instituto un informe anual por escrito en el mes de febrero ante el Pleno del Organismo garante y ante el Congreso del Estado.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXIX]</small>
+
+Dicho informe, corresponderá al del ejercicio inmediato anterior y deberá contener cuando menos la estadística sobre solicitudes de derechos ARCO presentadas ante cada sujeto obligado; estadística sobre recursos de revisión recibidos y resueltos; procedimientos de verificación de esta Ley; las acciones desarrolladas y el impacto de su actuación y el comportamiento de los sujetos obligados en el cumplimiento de las normas aplicables.
 
 ###### Artículo 124.
 
@@ -2147,103 +2159,13 @@ P.O. 22 DE NOVIEMBRE DE 2020.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 7/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES PARA ESTABLECER LA ADSCRIPCIÓN DE LOS JUECES DE DISTRITO CON COMPETENCIA EN EJECUCIÓN, EN LOS CENTROS DE JUSTICIA PENAL FEDERAL".]
+P.O. 14 DE FEBRERO DE 2023.
 
-PRIMERO. El presente Acuerdo entrará en vigor el uno de agosto de dos mil diecisiete, con excepción de lo previsto en el párrafo siguiente.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-524 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS”.]
 
-Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que los jueces de Ejecución inicien funciones en la fecha señalada en este artículo.
+###### ARTÍCULO ÚNICO.
 
-SEGUNDO. Los jueces de Distrito con competencia en ejecución conocerán y resolverán los procedimientos de ejecución dentro del nuevo sistema de justicia penal, en la competencia del Centro de Justicia respectivo, tanto de aquellos que se inicien a partir de su adscripción, como de los que se encuentran en trámite en el respectivo Centro.
-
-TERCERO. Se reforman el numeral QUINTO BIS; y la fracción IV Ter del numeral QUINTO TER del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"QUINTO BIS. Centros de Justicia Penal Federal:
-
-I. El Centro de Justicia Penal Federal en el Estado de Aguascalientes con residencia en la ciudad del mismo nombre.
-
-II. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Mexicali.
-
-III. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Tijuana.
-
-IV. El Centro de Justicia Penal Federal en el Estado de Baja California Sur, con residencia en La Paz, Baja California Sur.
-
-V. El Centro de Justicia Penal Federal en el Estado de Campeche, con residencia en la ciudad del mismo nombre.
-
-VI. El Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, Chiapas.
-
-VII. El Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre.
-
-VIII. El Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza, con residencia en Torreón, Coahuila.
-
-IX. El Centro de Justicia Penal Federal en el Estado de Colima, con residencia en la ciudad del mismo nombre.
-
-X. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Norte.
-
-XI. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Oriente.
-
-XII. El Centro de Justicia Penal Federal en la Ciudad de México, con residencia en el reclusorio Sur.
-
-XIII. El Centro de Justicia Penal Federal en el Estado de Durango, con residencia en Durango, Durango.
-
-XIV. El Centro de Justicia Penal Federal en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre.
-
-XV. El Centro de Justicia Penal Federal en el Estado de Guerrero, con residencia en Acapulco, Guerrero.
-
-XVI. El Centro de Justicia Penal Federal en el Estado de Hidalgo, con residencia en Pachuca, Hidalgo.
-
-XVII. El Centro de Justicia Penal Federal en el Estado de Jalisco, con residencia en el complejo penitenciario Puente Grande.
-
-XVIII. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, Estado de México.
-
-XIX. El Centro de Justicia Penal Federal en el Estado de México, con residencia en Almoloya de Juárez (Altiplano).
-
-XX. El Centro de Justicia Penal Federal en el Estado de Michoacán, con residencia en Morelia, Michoacán.
-
-XXI. El Centro de Justicia Penal Federal en el Estado de Morelos, con residencia en Cuernavaca, Morelos.
-
-XXII. El Centro de Justicia Penal Federal en el Estado de Nayarit, con residencia en la ciudad de Tepic, Nayarit, y contará con una sala remota en la Isla María Madre.
-
-XXIII. El Centro de Justicia Penal Federal en el Estado de Nuevo León, con residencia en Cadereyta, Nuevo León.
-
-XXIV. El Centro de Justicia Penal Federal en el Estado de Oaxaca, con residencia en la ciudad del mismo nombre.
-
-XXV. El Centro de Justicia Penal Federal en el Estado de Puebla, con residencia en San Andrés Cholula, Puebla.
-
-XXVI. El Centro de Justicia Penal Federal en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
-
-XXVII. El Centro de Justicia Penal Federal en el Estado de Quintana Roo, con residencia en Cancún, Quintana Roo.
-
-XXVIII. El Centro de Justicia Penal Federal en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre.
-
-XXIX. El Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Culiacán, Sinaloa.
-
-XXX. El Centro de Justicia Penal Federal en el Estado de Sonora, con residencia en Hermosillo, Sonora.
-
-XXXI. El Centro de Justicia Penal Federal en el Estado de Tabasco, con residencia en Villahermosa, Tabasco.
-
-XXXII. El Centro de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Ciudad Victoria.
-
-XXXIII. El Centro de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Reynosa.
-
-XXXIV. El Centro de Justicia Penal Federal en el Estado de Tlaxcala, con residencia en Apizaco, Tlaxcala.
-
-XXXV. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en Coatzacoalcos.
-
-XXXVI. El Centro de Justicia Penal Federal en el Estado de Veracruz, con residencia en la ciudad de Xalapa.
-
-XXXVII. El Centro de Justicia Penal Federal en el Estado de Yucatán, con residencia en Mérida, Yucatán.
-
-XXXVIII. El Centro de Justicia Penal Federal en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre.
-
-QUINTO TER. ...
-
-I. a IV. ...
-
-IV Ter. Centro de Justicia Penal Federal en el Estado de México, con sede en Almoloya de Juárez (Altiplano) cuya jurisdicción territorial comprenderá los municipios de Acambay de Ruíz Castañeda; Almoloya de Alquisiras; Almoloya de Juárez; Almoloya del Río; Amanalco; Amatepec; Atizapán; Atlacomulco; Calimaya; Capulhuac; Coatepec Harinas; Chapultepec; Donato Guerra; El Oro; Ixtapan de la Sal; Ixtapan del Oro; Ixtlahuaca; Jiquipilco; Jocotitlán; Joquicingo; Lerma; Luvianos; Malinalco; Metepec; Mexicaltzingo; Morelos; Naucalpan de Juárez; Ocoyoacac; Ocuilan; Otzoloapan; Otzolotepec; Rayón; San Antonio la Isla; San Felipe del Progreso; San José del Rincón; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Sultepec; Tejupilco; Temascalcingo; Temascaltepec; Temoaya; Tenancingo; Tenango del Valle; Texcaltitlán; Texcalyacac; Tianguistenco; Tlatlaya; Toluca; Tonatico; Valle de Bravo; Villa de Allende; Villa Guerrero; Villa Victoria; Xalatlaco; Xonacatlán; Zacazonapan; Zacualpan; Zinacantepec; Zumpahuacán; Aculco; Chapa de Mota; Huixquilucan; Isidro Fabela; Jilotepec; Jilotzingo y Villa del Carbón; todos ellos del Estado de México.
-
-V. a XIII. ..."
-
-CUARTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+El presente Decreto entrará a (sic) vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 20/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS PRIMERO Y SEGUNDO FEDERALES PENALES ESPECIALIZADOS EN CATEOS, ARRAIGOS E INTERVENCIÓN DE COMUNICACIONES, CON COMPETENCIA EN TODA LA REPÚBLICA Y RESIDENCIA EN LA CIUDAD DE MÉXICO".]
 
