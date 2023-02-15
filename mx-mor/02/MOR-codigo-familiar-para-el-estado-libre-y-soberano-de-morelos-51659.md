@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2023-02-01"
+last_updated: "2023-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -1393,11 +1393,11 @@ REPRESENTACIÓN DEL PATRIMONIO FAMILIAR. Los beneficiarios de los bienes afectos
 
 El representante tendrá también la administración de dichos bienes.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 142.
 
-VALOR MÁXIMO DE BIENES AFECTADOS AL PATRIMONIO DE FAMILIA. El valor máximo de los bienes afectados al patrimonio de familia será la cantidad que resulte de multiplicar por 17,000 el importe de salario mínimo general diario vigente en el Estado, en la época en que se constituya el patrimonio. La revisión y actualización del patrimonio familiar deberá hacerse en un término de tres años.
-
-Los bienes que hayan quedado afectos al patrimonio de familia gozarán de los privilegios que establece este capítulo, aún cuando aumenten de valor por el solo transcurso del tiempo o por mejoras útiles o necesarias.
+CUANTÍA MÁXIMA DE BIENES AFECTOS AL PATRIMONIO DE FAMILIA. La cuantía máxima de los bienes afectos al patrimonio de familia será la cantidad que resulte de multiplicar por 45,000 el valor de la Unidad de Medida y Actualización (UMA), en la época en que se constituya el patrimonio. La revisión y actualización del patrimonio familiar deberá hacerse periódicamente cada 3 años.
 
 ###### ARTÍCULO 143.
 
@@ -2263,9 +2263,11 @@ IMPEDIMENTOS PARA SER TUTOR Y CURADOR. Los cargos de tutor y de curador de un in
 
 No pueden ser nombrados tutores o curadores las personas que sean Jueces de lo Familiar y las que integren los Consejos Locales de Tutela, ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas, en la línea recta, sin limitación de grados, y en la colateral dentro del cuarto grado inclusive.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 258.
 
-OBLIGACIÓN DE NOTIFICAR EL FALLECIMIENTO DEL QUE EJERCE LA PATRIA POTESTAD SOBRE UN INCAPAZ. Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado, los parientes y en general las personas con quien haya vivido están obligados a dar aviso del fallecimiento al Juez de lo Familiar, y de no hacerlo en el plazo de ocho días, se les impondrá por el referido Juez una multa no menor del importe de veinte días del salario mínimo general fijado para el lugar en que tenga su domicilio el incapacitado.
+OBLIGACIÓN DE NOTIFICAR EL FALLECIMIENTO DEL QUE EJERCE LA PATRIA POTESTAD SOBRE UN INCAPAZ. Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado, los parientes y en general las personas con quien haya vivido están obligados a dar aviso del fallecimiento al juez de lo familiar, y de no hacerlo en el plazo de ocho días, se les impondrá por el referido juez una multa del importe de veinte hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales, tienen obligación de dar aviso a los jueces de lo familiar en los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
 
@@ -2697,7 +2699,9 @@ AUTORIZACIÓN JUDICIAL PARA GASTOS EXTRAORDINARIOS HECHOS POR EL TUTOR. Para tod
 
 LICENCIA JUDICIAL PARA TRANSIGIR NEGOCIOS DEL INCAPACITADO. Se requiere aprobación del Juez de lo Familiar para realizar transacciones sobre asuntos del incapaz.
 
-Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de cien días el salario mínimo general vigente en el Estado necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste. Las transacciones hechas en contravención al párrafo anterior serán nulas.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2023)</small>
+
+Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de cien veces el valor diario de la Unidad de Medida y Actualización, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste. Las transacciones hechas en contravención al párrafo anterior serán nulas.
 
 ###### ARTÍCULO 323.
 
@@ -3831,9 +3835,11 @@ NEGATIVA DEL OFICIAL DEL REGISTRO CIVIL CUANDO LOS PRETENDIENTES CAREZCAN DE APT
 
 El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será sancionado por la primera vez, con multa de cien días de salario mínimo general vigente en la región y en caso de reincidencia, con la destitución de su cargo.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 467.
 
-ANOTACIÓN DEL ACTA DE MATRIMONIO EN OTRAS ACTAS. Extendida el acta de matrimonio, se anotará ésta en las de nacimiento, reconocimiento u adopción de los contrayentes, si las hubiere y remitirá el aviso correspondiente al Oficial del Registro Civil del lugar en donde obren los registros. El Oficial del Registro Civil que no de cumplimiento a esta disposición, será sancionado con cien días de salario mínimo general en el Estado.
+ANOTACIÓN DEL ACTA DE MATRIMONIO EN OTRAS ACTAS. Extendida el acta de matrimonio, se anotará ésta en las de nacimiento, reconocimiento u adopción de los contrayentes, si las hubiere y remitirá el aviso correspondiente al oficial del Registro Civil del lugar en donde obren los registros. El oficial del Registro Civil que no dé cumplimiento a esta disposición, será sancionado con hasta cien veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO V. DE LAS ACTAS DE DIVORCIO
 
@@ -3877,15 +3883,21 @@ VII.- El nombre, apellidos, edad, nacionalidad y domicilio del declarante y, en 
 
 VIII.- El nombre, apellidos, número de cédula profesional y domicilio del médico que certifique la defunción.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 473.
 
-PLAZO PARA DAR AVISO DE LA DEFUNCIÓN. Los habitantes de la casa en que ocurra el fallecimiento, los directores y administradores de los establecimientos de reclusión, hospitales, colegios o cualquiera otra casa de comunidad, los huéspedes y encargados de los establecimientos de hospedaje y casas de vecindad, tienen obligación de dar aviso del fallecimiento al Oficial del Registro Civil dentro de las veinticuatro horas siguientes a la muerte, y en caso de incumplimiento se sancionará con multa de cien veces el salario mínimo diario general vigente en la región.
+PLAZO PARA DAR AVISO DE LA DEFUNCIÓN. Los habitantes de la casa en que ocurra el fallecimiento, los directores y administradores de los establecimientos de reclusión, hospitales, colegios o cualquiera otra casa de comunidad, los huéspedes y encargados de los establecimientos de hospedaje y casas de vecindad, tienen obligación de dar aviso del fallecimiento al oficial del Registro Civil dentro de las veinticuatro horas siguientes a la muerte, y en caso de incumplimiento se sancionará con multa de hasta cien veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
 
 El registro extemporáneo de defunción podrá ser tramitado ante el Oficial del Registro Civil, siempre y cuando se solicite en un término de un año, contando a partir de la fecha del fallecimiento.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
+
 Transcurrido este término podrá ser solicitado por la vía administrativa ante la Dirección General del Registro Civil siempre y cuando no exceda el fallecimiento del término de cinco años; después de este término la autorización para la inscripción extemporánea será por la vía judicial.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
 
 En los casos de muerte violenta o que intervenga el Ministerio Público, los plazos a que hace referencia el presente artículo empezarán a correr a partir de la fecha de certificación y no la fecha de la defunción.
 
@@ -3905,9 +3917,11 @@ En el caso de muerte a bordo de un transporte, con el aviso que reciba y datos q
 
 El jefe de cualquier puesto o destacamento militar tiene obligación de dar parte al Oficial del Registro Civil de las defunciones que hayan sucedido en la campaña o en otro acto de servicio, especificándose la filiación de los fallecidos. El Oficial del Registro Civil observará en este caso lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 476.
 
-REMISIÓN DEL ACTA DE DEFUNCIÓN AL OFICIAL DEL DOMICILIO DEL FALLECIDO. Cuando alguna persona falleciere en algún lugar que no sea el de su domicilio, se remitirá al Oficial del Registro Civil de su domicilio, copia certificada del acta de defunción, para que se asiente en el libro respectivo, anotándose la remisión al margen del acta original y el Oficial que la recibe deberá hacer las anotaciones respectivas en el acta de nacimiento y en las demás que estén relacionadas con las mismas. El Oficial del Registro Civil que no dé cumplimiento a esta disposición, será sancionado con cien días de salario mínimo general vigente en el Estado.
+REMISIÓN DEL ACTA DE DEFUNCIÓN AL OFICIAL DEL DOMICILIO DEL FALLECIDO. Cuando alguna persona falleciere en algún lugar que no sea el de su domicilio, se remitirá al oficial del Registro Civil de su domicilio, copia certificada del acta de defunción, para que se asiente en el libro respectivo, anotándose la remisión al margen del acta original y el oficial que la recibe deberá hacer las anotaciones respectivas en el acta de nacimiento y en las demás que estén relacionadas con las mismas. El oficial del Registro Civil que no dé cumplimiento a esta disposición, será sancionado con hasta cien veces el valor diario de la Unidad de Medida y Actualización.
 
 En el caso de traslado de cadáveres, el acta de defunción deberá levantarse por el oficial del Registro Civil que tenga jurisdicción en el lugar o domicilio donde falleció la persona, correspondiendo al oficial del lugar donde se lleve a cabo la sepultura o cremación del cadáver, expedir la autorización de la inhumación o cremación.
 
@@ -4941,9 +4955,11 @@ IDENTIDAD DEL TESTADOR. El notario en cualquier testamento deberá cerciorarse d
 
 IMPOSIBILIDAD DE IDENTIDAD DEL TESTADOR. En el caso del artículo que precede, no tendrá validez el testamento mientras no se verifique la identidad del testador.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 644.
 
-PROHIBICIÓN EN LA REDACCION DE TESTAMENTO. Se prohíbe a los Notarios y a cualesquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos días de salario mínimo general vigente en la región en caso de su infracción a los notarios y de la mitad a los que no lo fueren.
+PROHIBICIÓN EN LA REDACCION DE TESTAMENTO. Se prohíbe a los notarios y a cualesquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización, en caso de su infracción a los notarios y de la mitad a los que no lo fueren.
 
 ###### ARTÍCULO 645.
 
@@ -7046,3 +7062,23 @@ SEGUNDA.- El presente decreto, entrará en vigor a partir del día siguiente de 
 TERCERA.- En el Poder Ejecutivo Estatal, la Dirección que se encargue del Registro Civil, y en su caso la Secretaría de Gobierno, en términos del artículo 22, fracción XXIII de la Ley Orgánica de la Administración Pública del Estado de Morelos, proveerán la disponibilidad de los traductores y los formatos en las lenguas indígenas de las personas residentes en el estado de Morelos, que soliciten formatos o actas de nacimiento en lengua indígena que ellos hablen.
 
 CUARTA.- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+P.O. 15 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS UNO.- POR EL QUE SE REFORMA EL ARTÍCULO 142 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, A FIN DE INCREMENTAR EL MONTO ESTABLECIDO PARA PODER CONSTITUIR EL PATRIMONIO DE FAMILIA EN BENEFICIO DE LAS FAMILIAS MORELENSES”.]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas aquellas disposiciones de igual o menor rango que contravengan el presente decreto.
+
+P.O. 15 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS TREINTA Y SEIS POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MORELOS, A EFECTO DE ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA Y SUSTITUIRLAS POR LAS RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Las autoridades que deban imponer las sanciones a que se refiere este decreto, deberán motivar reforzadamente cada caso, conforme a la fundamentación aplicable.
