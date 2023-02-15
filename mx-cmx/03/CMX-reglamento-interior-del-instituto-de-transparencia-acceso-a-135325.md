@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-transparencia-acceso-a-135
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-04-11"
-last_updated: "2021-04-28"
+last_updated: "2023-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135325&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2019-04-04"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA, PROTECCION DE DATOS PERSONALES Y RENDICION DE CUENTAS DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 28 DE ABRIL DE 2021 EN: https://documentos.infocdmx.org.mx/acuerdos/2021/A121Fr01_2021-T02_Acdo-2021-14-04-0281.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 15 DE FEBRERO DE 2023 EN: https://documentos.infocdmx.org.mx/acuerdos/2023/A121Fr01_2023-T01_Acdo-2022-01-02-0349.pdf]</small>
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE FEBRERO DE 2023.
 
 Reglamento publicado en el Número 70 de la Gaceta Oficial de la Ciudad de México, el jueves 11 de abril de 2019.
 
@@ -176,7 +176,9 @@ XVI. Parlamento abierto: Concepto que refiere a un modelo que mediante una inter
 
 10. Promueve la legislación a favor de políticas de Estado abierto.
 
-XVII. Plataforma Nacional: La Plataforma Nacional de Transparencia a que hacen referencia los artículo (sic) 49 y 50 de la Ley General de Transparencia y Acceso a la Información Pública.
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
+
+XVII. Plataforma Nacional: La Plataforma Nacional de Transparencia a que hacen referencia los artículos 49 y 50 de la Ley General de Transparencia y Acceso a la Información Pública.
 
 XVIII. Pleno: El órgano colegiado directivo, de gobierno y máxima instancia del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, conformado por las Comisionadas y los Comisionados Ciudadanos;
 
@@ -524,11 +526,9 @@ XXX. Expedir copias certificadas o autorizadas de los documentos que obren en lo
 
 XXXI. Dar seguimiento al cumplimiento de las resoluciones derivadas de la interposición de los medios de defensa y procedimientos previstos en la Ley de Transparencia, Ley de Datos Personales y demás normativa aplicable;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
 
-> <small>(ADICIONADA, G.O. 16 DE OCTUBRE DE 2020)</small>
-
-XXXII. Elaborar los acuerdos de trámite, así como de cumplimiento o incumplimiento, relacionados con el seguimiento al cumplimiento de las resoluciones de los medios de impugnación y procedimientos que se sometan al Pleno;
+XXXII. Elaborar los acuerdos de trámite, as (sic) como de cumplimiento o incumplimiento, relacionados con el seguimiento al cumplimiento de las resoluciones de los medios de impugnación y procedimientos que se sometan al Pleno;
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
 
@@ -650,11 +650,9 @@ XXXIX. Notificar las vistas ordenadas por el Pleno a los órganos internos de co
 
 XL. Habilitar días inhábiles en los procedimientos de medidas de apremio y sanciones, cuando así se requiera, de conformidad (sic) lo aprobado por el Pleno;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.infocdmx.org.mx/LTAIPRC-2016-OT/Art121/Fr01/2020/A121Fr01_2020-T04_Acdo-2020-14-10-1672.pdf]</small>
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
 
-> <small>(ADICIONADA, G.O. 19 DE NOVIEMBRE DE 2020)</small>
-
-XLI. Dar seguimiento al trabajo que realice el Pleno a través de las ponencias y unidades administrativas para la elaboración de los criterios y lineamientos de interpretación y aplicación de las leyes y demás disposiciones en las materias de competencia del Instituto, respecto de las resoluciones que emite;
+XLI. Dar seguimiento al trabajo que realice el Pleno a través de las ponencias y unidades administrativas para la elaboración de los criterios y lineamientos de interpretación y aplicación de las leyes y demás disposiciones en las materias de competencia del Instituto, respecto de las resoluciones que emite; y
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.infocdmx.org.mx/LTAIPRC-2016-OT/Art121/Fr01/2020/A121Fr01_2020-T04_Acdo-2020-14-10-1672.pdf]</small>
 
@@ -824,7 +822,9 @@ XXV. Designar a los encargados dentro del Instituto del tratamiento de los siste
 
 XXVI. Presentar un informe al Pleno, a solicitud de la Comisionada Presidenta o del Comisionado Presidente, sobre los avances y, en su caso, resultados de la actividad fiscalizadora que es sujeta el Instituto, por parte del Órgano Interno de Control del mismo, la Auditoría Superior de la Ciudad de México y, las auditorías externas que ordene el propio Instituto;
 
-XXVII. Organizar y conservar sus respectivos documentos en el archivo de trámite, así como enviar los correspondientes al archivo, de conformidad con la normatividad que para tal efecto se emita; y
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
+
+XXVII. Organizar y conservar sus respectivos documentos en el archivo de trámite, así como enviar los correspondientes al archivo, de conformidad con la normatividad que para tal efecto se emita;
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2021/A121Fr01_2021-T02_Acdo-2021-14-04-0281.pdf]</small>
 
@@ -832,11 +832,9 @@ XXVII. Organizar y conservar sus respectivos documentos en el archivo de trámit
 
 XXVIII. Expedir copia certificada de aquellos documentos que obren en los archivos del Órgano Interno de Control;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2021/A121Fr01_2021-T02_Acdo-2021-14-04-0281.pdf]</small>
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
 
-> <small>(ADICIONADA, G.O. 28 DE ABRIL DE 2021)</small>
-
-XXIX. Emitir el Código de Ética del Instituto, y
+XXIX. Emitir el Código de Ética del Instituto; y
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2021/A121Fr01_2021-T02_Acdo-2021-14-04-0281.pdf]</small>
 
@@ -996,11 +994,9 @@ XV. Recibir los expedientes relativos a los incumplimientos a las obligaciones d
 
 XVI. Sustanciar el procedimiento sancionatorio previsto en ley de la materia, así como en los casos en contra de presuntos infractores de sujetos obligados que no cuenten con el carácter de servidores públicos ni sean partidos políticos, y emitir los acuerdos correspondientes y practicar las diligencias o actuaciones necesarias para la determinación, notificación y, en su caso, ejecución de las sanciones impuestas por el Pleno;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
-
-XVII. Requerir a los presuntos infractores, a las autoridades competentes e instituciones financieras, la información y documentación necesaria para sustanciar el procedimiento sancionatorio, así como para determinar la condición económica de los infractores;
+XVII. Requerir a los presuntos infractores, a las autoridades competentes e instituciones financieras, la información y documentación necesaria para sustanciar el procedimiento sancionatorio, as (sic) como para determinar la condición económica de los infractores;
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
 
@@ -1066,11 +1062,9 @@ XXVII. Elaborar el compendio sobre los procedimientos vigentes del Instituto y l
 
 XXVIII. Coadyuvar con las Ponencias y Secretaría Técnica en cuanto al apoyo necesario para la ejecución de las resoluciones que emita el Pleno;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://documentos.infocdmx.org.mx/acuerdos/2020/A121Fr01_2020-T04_Acdo-2020-02-10-1288.pdf]</small>
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADA, G.O. 16 DE OCTUBRE DE 2020)</small>
-
-XXIV (SIC). Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan el Pleno de (sic) Instituto.
+XXIX. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan el Pleno de (sic) Instituto.
 
 ###### Artículo 21.
 
@@ -1160,7 +1154,9 @@ XXIII. Proponer al Pleno, las recomendaciones y observaciones preventivas para d
 
 XXIV. Colaborar con las unidades administrativas del Instituto que correspondan, en el diseño y la promoción de las herramientas tecnológicas que permitan mejorar la calidad y utilidad de la información pública;
 
-XXV. Evaluar la efectividad de la Política de Transparencia Proactiva con base en los criterios emitidos por este Instituto, así como por el Sistema Nacional;
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
+
+XXV. Evaluar la efectividad de la Política de Transparencia Proactiva con base en los criterios emitidos por este Instituto, así como por el Sistema Nacional; y
 
 > <small>(REFORMADA, G.O. 18 DE MAYO DE 2020)</small>
 
@@ -1204,11 +1200,13 @@ XVI. Diseñar y proponer al Pleno las acciones de participación social y ciudad
 
 XIX. Promover e incentivar la transparencia proactiva en los Sujetos Obligados, para generar un conocimiento público útil y tener un mejor acceso a trámites, servicios, optimizando la toma de decisiones de autoridades y ciudadanos;
 
-XX. Promover acciones para fomentar que la información publicada por los Sujetos Obligados sea accesible y de manera focalizada a personas con discapacidad motriz, auditiva, visual, así como personas hablantes en diversas lenguas o idiomas reconocidos; y
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADA, G.O. 18 DE MAYO DE 2020)</small>
+XX. Promover acciones para fomentar que la información publicada por los Sujetos Obligados sea accesible y de manera focalizada a personas con discapacidad motriz, auditiva, visual, así como personas hablantes en diversas lenguas o idiomas reconocidos;
 
-XXI. Presentar al Pleno, de manera posterior a la aprobación del Programa Operativo Anual, el proyecto del Programa Editorial Anual del Instituto que el Comité Editorial desarrollará, así como coordinar su ejecución, difusión y distribución, con la participación y apoyo de la Dirección de Comunicación Social y de las unidades administrativas en sus respectivos ámbitos de competencia, en el que se deberá procurar que todas las publicaciones se desarrollen en formatos abiertos y accesibles;
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
+
+XXI. Presentar al Pleno, de manera posterior a la aprobación del Programa Operativo Anual, el proyecto del Programa Editorial Anual del Instituto que el Comité Editorial desarrollará, así como coordinar su ejecución, difusión y distribución, con la participación y apoyo de la Dirección de Comunicación Social y de las unidades administrativas en sus respectivos ámbitos de competencia, en el que se deberá procurar que todas las publicaciones se desarrollen en formatos abiertos y accesibles; y
 
 XXII. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto.
 
@@ -1252,15 +1250,17 @@ XVII. Planear y ejecutar estrategias de comunicación interna para abonar al des
 
 XVIII. Resolver los requerimientos de diseño y producción de las diversas áreas del Instituto para el desarrollo de eventos institucionales,
 
-XIX. Administrar las cuentas institucionales de redes sociales; y
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
+
+XIX. Administrar las cuentas institucionales de redes sociales;
 
 > <small>(ADICIONADA, G.O. 18 DE MAYO DE 2020)</small>
 
 XX. Conducir la Secretaría Técnica del Comité Editorial, como órgano encargado de desarrollar el Programa Editorial Anual del Instituto, y
 
-> <small>(REFORMADA, G.O. 18 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2023)</small>
 
-XXI. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que disponga el Pleno de (sic) Instituto.
+XXI. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto.
 
 ###### Artículo 25.
 
@@ -1482,9 +1482,39 @@ En caso de ausencia definitiva de alguna o alguno de las Comisionadas o de los C
 
 En caso de ausencia temporal injustificada por un término mayor a tres días hábiles consecutivos de alguna Comisionada o Comisionado Ciudadano, la Comisionada Presidenta o el Comisionado Presidente lo hará del conocimiento del Pleno para que éste tome las providencias que considere pertinentes.
 
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 36.
 
-Las Comisionadas y los Comisionados Ciudadanos, podrán, con la aprobación del Pleno, gozar de licencias para ausentarse de manera justificada por un tiempo máximo de quince días hábiles.
+Las Comisionadas Ciudadanas y los Comisionados Ciudadanos, podrán gozar de licencias con goce de sueldo en los siguientes casos:
+
+l. Por enfermedad, durante el periodo otorgado por (sic) Instituto de Seguridad Social y Servicios Sociales de los Trabajadores del Estado.
+
+II. Por maternidad o paternidad, durante seis semanas anteriores y seis semanas posteriores al parto. La licencia de maternidad deberá tramitarse ante el Instituto de Seguridad Social y Servicios Sociales de los Trabajadores del Estado, una vez emitida se dará aviso al Pleno. La licencia de paternidad será otorgada por el Pleno del Instituto, con base en análisis médicos que asienten las semanas de embarazo.
+
+III. Para el caso de las licencias de maternidad o paternidad la duración de ésta podrá extenderse en aquellos casos, que la normativa de la Ley Federal de los Trabajadores al Servicio del Estado sea más benéfica.
+
+IV. Por maternidad o paternidad por adopción, durante las seis semanas posteriores a la formalización del trámite de adopción del menor.
+
+V. Por maternidad fallecimiento de ascendientes, descendientes, colaterales por consanguineidad en primer grado, cónyuges, concubina o concubinario y por afinidad en matrimonio igualitario. Dicha licencia tendrá una duración de cinco días hábiles, y deberá comprobarse con copia del certificado de defunción o copia certificada del acta de defunción.
+
+VI. Por necesidad de cuidados a ascendientes, descendientes, cónyuges, concubina o concubinario y por afinidad en matrimonio igualitario, por un máximo de quince días naturales, acreditándose la hospitalización de los parientes o con dictamen médico.
+
+Las Comisionadas Ciudadanas y los Comisionados Ciudadanos, podrán gozar licencias sin goce de sueldo, previa aprobación del Pleno de este Órgano Garante, hasta por un periodo de seis meses consecutivos. Para ello la Comisionada Ciudadana o el Comisionado Ciudadano, remitirán la documentación necesaria que acredite el motivo de la Licencia para que sus pares estén en facultad de aprobarla.
+
+[…]
+
+En aquellos casos en que las Comisionadas Ciudadanas y los Comisionados Ciudadanos gocen de licencia con una duración mayor a cinco días hábiles, la substanciación de los asuntos que se encuentren radicados en la ponencia correspondiente, se realizará de la siguiente manera:
+
+1. El turno de los recursos de revisión y las denuncias se realizará a la totalidad de las Ponencias de las Comisionadas Ciudadanas y los Comisionados Ciudadanos.
+
+2. Los asuntos que se encuentran siendo sustanciados, así como lo nuevos que les sean turnados a la Ponencia de la Comisionada Ciudadana o el Comisionado Ciudadano que goce de licencia seguirán siendo tramitádos por dicha Ponencia.
+
+3. Las resoluciones de la Comisionada Ciudadana o el Comisionado Ciudadano que goce de licencia serán presentadas ante el Pleno del Instituto para su respectiva votación, por la Comisionada Ciudadana o el Comisionado Ciudadano que le siga alfabéticamente y en caso de que ésta no coincida con el criterio sostenido por el o la ponente, se continuará con quien le siga en orden alfabético hasta encontrar criterios coincidentes.
+
+En caso de que no hubiese criterios coincidentes, será turnado a la persona comisionada ciudadana que le sigue.
+
+4. Que los asuntos que hiciera suyos la persona Comisionada Ciudadana que por turno corresponda, que sean susceptibles de cumplimiento serán verificados por el personal que integra la Ponencia de la persona Comisionada que esté haciendo uso de la licencia.
 
 ### CAPÍTULO SEXTO. DE LAS REFORMAS AL REGLAMENTO INTERIOR
 
@@ -1581,6 +1611,32 @@ AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO EN EL QUE PODRÁ SER CON
 Se hace del conocimiento de todas las autoridades, entidades, organismos autónomos y público en general, que el Acuerdo mediante el cual se adicionan y modifican diversas disposiciones al Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, relativas a la facultad del Órgano Interno de Control, puede ser consultado en la siguiente dirección electrónica: https://documentos.infocdmx.org.mx/acuerdos/2021/A121Fr01_2021-T02_Acdo-2021-14-04-0281.pdf.
 
 Para los efectos procedentes, se hace saber que conforme a lo dispuesto en el artículo 8, fracciones XXI y XXII del Reglamento de Sesiones del Pleno del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, el responsable de la funcionalidad, visibilidad y permanencia de la citada dirección electrónica es el Secretario Técnico del mencionado Instituto, para lo cual se dejan a disposición de autoridades y público en general los siguientes datos de contacto: teléfono 5636-2120 extensión 108, correo electrónico hugo.zertuche@infocdmx.org.mx.
+
+## TRANSITORIO
+
+ÚNICO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 15 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO EN EL QUE PODRÁ SER CONSULTADO EL ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES REFERENTES AL OTORGAMIENTO DE LICENCIAS TANTO EN EL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, ASÍ COMO EN LA POLÍTICA LABORAL DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente acuerdo y reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se instruye a la Dirección de Administración y Finanzas para que, en el ámbito de su competencia, realice las adecuaciones conducentes a la normativa interna aplicable en el Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México.
+
+TERCERO. Se instruye a la Secretaría Técnica para que, en el ámbito de sus atribuciones, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en la Gaceta Oficial de la Ciudad de México, así como en el portal de Internet del Instituto.
+
+QUINTO (SIC). Conforme a lo dispuesto en los artículos 10, 37, 38, 61 a 64 y 65 fracción X, de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México; 8 de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México; 9, 10, 12, fracciones I, II y XV del Reglamento Interior del Instituto y demás disposiciones aplicables, en todo lo no previsto en el presente Acuerdo se estará a lo que determine el Pleno de este Órgano Garante.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO EN EL QUE PODRÁ SER CONSULTADO EL ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES REFERENTES AL OTORGAMIENTO DE LICENCIAS TANTO EN EL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, ASÍ COMO EN LA POLÍTICA LABORAL DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO.
+
+Se hace del conocimiento de todas las autoridades, entidades, organismos autónomos y público en general, que el Acuerdo mediante el cual se adicionan y modifican diversas disposiciones referentes al otorgamiento de licencias tanto en el Reglamento Interior del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, así como en la Política Laboral del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, puede ser consultado en la siguiente dirección electrónica:
+
+https://documentos.infocdmx.org.mx/acuerdos/2023/A121Fr01_2023-T01_Acdo-2022-01-02-0349.pdf
+
+Para los efectos procedentes, se hace saber que conforme a lo dispuesto en el artículo 8, fracciones XXI y XXII del Reglamento de Sesiones del Pleno del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, el responsable de la funcionalidad, visibilidad y permanencia de la citada dirección electrónica es el Secretario Técnico del mencionado Instituto, para lo cual se dejan a disposición de autoridades y público en general los siguientes datos de contacto: teléfono 55-56-36-21-20 extensión 108, correo electrónico hugo.zertuche@infocdmx.org.mx.
 
 ## TRANSITORIO
 
