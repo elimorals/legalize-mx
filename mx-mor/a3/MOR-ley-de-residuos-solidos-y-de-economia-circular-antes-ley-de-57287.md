@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de-572
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-17"
-last_updated: "2022-08-31"
+last_updated: "2023-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE RESIDUOS SOLIDOS Y DE ECONOMIA CIRCULAR -- ANTES LEY DE RESIDUOS SOLIDOS -- PARA EL ESTADO DE MORELOS
 
-LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE MORELOS
+LEY DE RESIDUOS SÓLIDOS Y DE ECONOMÍA CIRCULAR PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 17 de octubre de 2007.
 
@@ -41,7 +41,9 @@ CONSIDERANDO.
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
-LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE MORELOS.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE FEBRERO DE 2023)</small>
+
+LEY DE RESIDUOS SÓLIDOS Y DE ECONOMÍA CIRCULAR PARA EL ESTADO DE MORELOS.
 
 ## TÍTULO PRIMERO
 
@@ -249,9 +251,93 @@ XXIV. Subproducto: Un subproducto es un producto secundario o incidental, genera
 
 XXV. Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad;
 
-XXVI. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica; y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2023)</small>
 
-XXVII. Vulnerabilidad: Conjunto de condiciones que limitan la capacidad de defensa o de amortiguamiento ante una situación de amenaza y confieren a las poblaciones humanas, ecosistemas y bienes, un alto grado de susceptibilidad a los efectos adversos que puede ocasionar el manejo de los materiales o residuos, que por sus volúmenes y características intrínsecas, sean capaces de provocar daños al ambiente.
+XXVI. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXVII. Vulnerabilidad: Conjunto de condiciones que limitan la capacidad de defensa o de amortiguamiento ante una situación de amenaza y confieren a las poblaciones humanas, ecosistemas y bienes, un alto grado de susceptibilidad a los efectos adversos que puede ocasionar el manejo de los materiales o residuos, que por sus volúmenes y características intrínsecas, sean capaces de provocar daños al ambiente;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXVIII. Biorresiduo: Residuo biodegradable de jardines y parques, residuo alimenticio y de cocina procedente de hogares, restaurantes, servicios de restauración colectiva y establecimientos de venta al por menor, y residuo comparable procedente de plantas de procesado de alimentos;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXIX. Cadena de valor: Aquella que permite la integración de los productos al final de su vida útil, o de las materias primas secundarias para su aprovechamiento o valorización ya sea en el mismo proceso que los generó o en otros, y que puede incluir actividades de segregación, acopio, separación, remanufactura, reacondicionamiento, reciclaje, reutilización, coprocesamiento o termovalorización;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXX. Cero Residuos: Conjunto de políticas, instrumentos y programas dirigidos a promover la valorización y aprovechamiento de los residuos, a efecto de desincentivar que los materiales terminen en un relleno sanitario o en el ambiente;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXI. Ciclo de vida: etapas consecutivas e interrelacionadas por las que pasa la producción de un bien o un producto, desde la adquisición de materia prima o de su generación a partir de recursos naturales, hasta la disposición final;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXII. Consumo sostenible: Patrones de consumo de bienes y servicios, que fomenten la desvinculación del uso excesivo de recursos naturales finitos en beneficio de la esfera individual, social y medioambiental que aumenten la eficiencia de los recursos y promuevan estilos de vida sostenibles;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXIII. Criterios de Economía Circular: Aquellos que fomentan la disminución de la huella de carbono, la huella hídrica o la optimización del aprovechamiento de los materiales, a través del uso eficiente de los recursos naturales y económicos, el consumo y producción sostenibles; la reutilización, reciclaje, compostaje, coprocesamiento u otro tipo de valorización o aprovechamiento;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXIV. Economía Circular: Sistema de producción, distribución y consumo de bienes y servicios, orientado al rediseño y reincorporación de productos y servicios para mantener en la economía el valor y vida útil de los productos, los materiales y los recursos asociados a ellos el mayor tiempo posible, y que se prevenga o minimice la generación de residuos, reincorporándolos nuevamente en procesos productivos cíclicos o biológicos, además de fomentar cambios de hábitos de producción y consumo;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXV. Grupos Informales de Personas Acopiadoras: Conjunto de personas que perciben un ingreso a través de la pepena, recolección, transporte, clasificación, acopio, limpieza y venta de productos y materiales reciclables, que, tanto en la legislación como en la práctica, A están insuficientemente contemplados por sistemas formales o no lo están en absoluto, y que, por tanto, se desempeñan al margen de la formalidad;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXVI. Huella de carbono: Cuantificación de la suma de las emisiones y remociones de gases de efecto invernadero de un producto o servicio, expresadas como C02 equivalente, y basadas en una evaluación del ciclo de vida;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXVII. Huella hídrica: Cuantificación del uso eficiente o el aprovechamiento del agua;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXVIII. Indicadores de la Economía Circular: Métricas de desempeño en un proceso, cadena productiva o en servicios, a fin de cumplir con los Criterios de Economía Circular. Los indicadores son Huella hídrica; Huella de carbono e indicadores de aprovechamiento de materiales;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXIX. Materias primas: Materia extraída de la naturaleza o proveniente de algún proceso previo que se transforma para elaborar materiales o productos;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XL. Materias primas secundarias: Todos aquellos materiales al final de su vida útil, productos no conformes, o subproductos, que son convertidos en materia prima de segundo uso al ser separados, acopiados, y recolectados o recuperados, y se gestionan y/o comercializan para su reutilización, reciclaje, compostaje u otro tipo de valorización o aprovechamiento, y sustituyen o reducen el uso de materias primas vírgenes;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XLI. Organismo Operador: Ente asociativo de carácter público, privado o mixto, con patrimonio y personalidad jurídica propia, creado para el cumplimiento de los principios de esta ley;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XLII. Pepena: Acción de segregar y recuperar los residuos potencialmente aprovechables;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XLIII. Plan de Economía Circular: Herramienta administrativa basada - en la responsabilidad compartida entre el fabricante, distribuidor y usuario de un bien o servicio, que, en colaboración con los diferentes niveles de gobierno plantea acciones y objetivos tendientes a cumplir con los Principios y Criterios de Economía Circular;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XLIV. Procuraduría: A la Procuraduría de Protección al Ambiente del estado de Morelos;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XLV. Reacondicionamiento: Proceso industrial que implica la modificación de un producto para aumentar o restablecer su rendimiento y/o funcionalidad o para cumplir las normas técnicas o los requisitos reglamentarios aplicables, que tenga como resultado que el producto sea plenamente funcional para utilizarlo con un propósito que sea, al menos, originalmente previsto, incluyendo actividades tales como limpieza y sanitización de datos;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XLVI. Recicladores: Personas físicas o morales independientes u organizadas, o instituciones públicas o privadas, que recuperan, separan, acopian, gestionan, transforman y/o comercializan residuos sólidos o materiales susceptibles de ser reciclados o aprovechados; y,
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XLVII. Remanufactura: Proceso industrial que crea un producto a partir de productos usados o piezas usadas donde se realiza al menos un cambio importante en el producto y que puede incluir la incorporación de nuevos componentes.
 
 ### CAPÍTULO II. DE LA COMPETENCIA
 
@@ -331,17 +417,29 @@ XXVI. Establecer y publicar criterios de sustentabilidad para el consumo de prod
 
 XXVII. Promover que los establecimientos mercantiles y unidades económicas que otorguen de manera gratuita u onerosa plásticos de un solo uso cumplan con las disposiciones establecidas en la presente ley;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE FEBRERO DE 2023)</small>
 
 XXVIII. Establecer y fomentar estrategias administrativas y de gestión para la transición paulatina al uso de materiales reutilizables, así como para la prohibición gradual de materiales reutilizables, así como para la prohibición gradual del uso de plásticos de un solo uso en cualquier establecimiento mercantil para prestar sus servicios ubicado en territorio del estado de Morelos;
 
-> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2023)</small>
 
-XXIX. Fomentar el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía en coordinación con los municipios; y,
+XXIX. Promover la investigación y el desarrollo de tecnologías y acciones que permitan prevenir, controlar y reducir la contaminación por la utilización de bolsas de plásticos de uso único, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado al consumidor final;
 
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE FEBRERO DE 2023)</small>
 
-XXX. Promover la investigación y el desarrollo de tecnologías y acciones que permitan prevenir, controlar y reducir la contaminación por la utilización de bolsas de plásticos de uso único, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado al consumidor final.
+XXX. Impulsar la investigación, desarrollo y aplicación de tecnologías, equipos, materiales, sistemas y procesos que fomenten la Economía Circular;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXI. Promover la participación de los sectores privado y social en el diseño e instrumentación de acciones para fomentar la Economía Circular, conforme a los lineamientos de esta Ley, sus reglamentos y las normas estatales correspondientes;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXII. Promover la educación y capacitación continua de personas, grupos u organizaciones de todos los sectores de la sociedad, para fomentar entre la población, una cultura de corresponsabilidad ambiental en el ámbito de la producción y consumo de bienes, bajo el concepto de Economía Circular; y,
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXIII. Formular, establecer y evaluar los sistemas de manejo de Economía Circular del Gobierno Estatal.
 
 ###### ARTÍCULO 9.
 
@@ -407,17 +505,21 @@ XXIII. Promover de acuerdo a su competencia la integración, operación y funcio
 
 XXIV. Organizar e implantar los esquemas administrativos requeridos para recabar el pago por los servicios de recolección, transporte, tratamiento y disposición final de los residuos sólidos que no estén expresamente atribuidos a la federación y la aplicación de los recursos resultantes al fortalecimiento de los sistemas de limpia, así como hacerlos del conocimiento público;
 
-> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2023)</small>
 
-XXV. Controlar los residuos sólidos urbanos y en coordinación con el Ejecutivo Estatal, aprovechar la materia orgánica en procesos de generación de energía.
+XXV. Llevar un registro y control de empresas y particulares concesionarios dedicados a la prestación del servicio de limpia de su competencia;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2023)</small>
 
-XXVI. Llevar un registro y control de empresas y particulares concesionarios dedicados a la prestación del servicio de limpia de su competencia; y,
+XXVI. Establecer el registro de planes de manejo de residuos sólidos urbanos, así como programas para la instalación de sistemas destinados a su recolección, acopio, almacenamiento, transporte, tratamiento, valorización y disposición final, conforme a los lineamientos establecidos en la presente Ley, las Normas Oficiales Mexicanas y las Normas Técnicas Ambientales que al efecto se emitan, en el ámbito de su competencia;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE FEBRERO DE 2023)</small>
 
-XXVII. Establecer el registro de planes de manejo de residuos sólidos urbanos, así como programas para la instalación de sistemas destinados a su recolección, acopio, almacenamiento, transporte, tratamiento, valorización y disposición final, conforme a los lineamientos establecidos en la presente ley, las Normas Oficiales Mexicanas y las Normas Técnicas Ambientales que al efecto se emitan, en el ámbito de su competencia.
+XXVII. Capacitar a los sectores de la población sobre la prevención de la generación, economía circular, gestión y manejo integral de los residuos; y,
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXVIII. Participar y aplicar, en colaboración con el gobierno estatal, instrumentos económicos que incentiven el desarrollo, adopción y despliegue de tecnología y materiales según los principios de la Economía Circular.
 
 ###### ARTÍCULO 10.
 
@@ -1163,31 +1265,59 @@ La regulación del uso del suelo y los programas de ordenamiento ecológico y de
 
 Las acciones en materia de remediación de sitios, previstas en este capítulo, se llevarán a cabo mediante programas estatales y/o municipales, de conformidad con lo que señale el Reglamento, y la Ley General de Equilibrio Ecológico y Protección al Ambiente.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 2023)</small>
+
+## TÍTULO SEGUNDO BIS. DE LA ECONOMÍA CIRCULAR
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 2023)</small>
+
+### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2023)</small>
+
+Artículo 92 bis.- Para los efectos de esta ley y su reglamento, la economía circular tiene por objeto:
+
+I. Regular la gestión integral de los residuos con un enfoque de Economía Circular y ciclo de vida;
+
+II. La valorización de residuos, principio de responsabilidad compartida diferenciada de los distintos sectores;
+
+III. Facilitar la incorporación a la economía estatal de productos de bajo impacto ambiental; y,
+
+IV. Prevenir, reducir, sustituir, limitar o en su caso eliminar el uso de productos comerciales de difícil degradación natural.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2023)</small>
+
+Artículo 92 ter.- Los principios de la Economía Circular son las (sic) siguientes:
+
+I. Preservar el capital natural controlando reservas finitas y equilibrando los flujos de recursos renovables;
+
+II. Optimizar el uso de los recursos en el ciclo de vida;
+
+III. Fomentar la eficacia del sistema, incluyendo la producción limpia y el consumo responsable, para reducir las externalidades de los procesos de utilización de recursos naturales; y,
+
+IV. Buscar sinergias entre los diferentes agentes que intervengan en los procesos.
+
 ## TÍTULO TERCERO. INSPECCIÓN Y VIGILANCIA, INFRACCIONES, SANCIONES, MEDIDAS DE SEGURIDAD E INCONFORMIDADES
 
 ### CAPÍTULO I. DE LA INSPECCIÓN Y VIGILANCIA
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2023)</small>
 
-## TÍTULO CUARTO. RECURSO DE REVISIÓN
+###### Artículo 93.
 
-### CAPÍTULO II. INFRACCIONES Y SANCIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
-
-###### ARTÍCULO 93.
-
-La Secretaría y los Ayuntamientos en el ámbito de su competencia, podrán realizar actos de inspección y vigilancia en materia de residuos sólidos, por conducto del personal autorizado, con el objeto de verificar el cumplimiento de lo dispuesto en esta Ley, en la Ley General de Residuos, las Normas Oficiales Mexicanas aplicables y las demás disposiciones que de ellas se deriven, ajustando su actuación en materia de residuos peligrosos a lo dispuesto en los convenios que para tal efecto suscriba y en su defecto en la Ley General de Residuos.
+La Procuraduría y los ayuntamientos en el ámbito de su competencia, podrán realizar actos de inspección y vigilancia en materia de residuos sólidos, por conducto del personal autorizado, con el objeto de verificar el cumplimiento de lo dispuesto en esta ley, en la Ley General de Residuos, las Normas Oficiales Mexicanas aplicables y las demás disposiciones que de ellas se deriven, ajustando su actuación en materia de residuos peligrosos a lo dispuesto en los convenios que para tal efecto suscriba y en su defecto en la Ley General para la Prevención y Gestión Integral de los Residuos.
 
 ###### ARTÍCULO 94.
 
 Si como resultado de la inspección se detecta la comisión de un delito, se hará la denuncia correspondiente ante la autoridad competente.
 
-### CAPÍTULO III. DE LA RESPONSABILIDAD DEL DAÑO
+### CAPÍTULO II. INFRACCIONES Y SANCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 95.
 
-Las violaciones que las personas físicas o morales, Entidades Públicas y Privadas, cometan a las disposiciones de la presente Ley, a su Reglamento y demás ordenamientos que de ella emanen, constituyen infracciones que serán sancionadas administrativamente por la Secretaría o por la autoridad municipal competente, según corresponda, sin perjuicio de las responsabilidades penales que resulten de conformidad con los ordenamientos aplicables, mismas que serán sancionadas con:
+Las violaciones que las personas físicas o morales, entidades públicas y privadas, cometan a las disposiciones de la presente ley, a su reglamento y demás ordenamientos que de ella emanen, constituyen infracciones que serán sancionadas administrativamente por la Procuraduría o por la autoridad municipal competente, según corresponda, sin perjuicio de las responsabilidades penales que resulten de conformidad con los ordenamientos aplicables, mismas que serán sancionadas con:
 
 I. La amonestación con apercibimiento;
 
@@ -1307,11 +1437,11 @@ Para la imposición de las multas, servirá de base el valor diario de la Unidad
 
 Si una vez concluido el plazo concedido por la autoridad para subsanar la o las infracciones que se hubieren cometido, y resulta que dicha infracción o infracciones aún subsisten, podrá imponerse una multa por cada día que transcurra sin acatar el mandato, sin que el total de las multas exceda del máximo permitido.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 101.
 
-La Secretaría o la autoridad municipal competente, fundamentando y motivando plenamente su decisión, podrá otorgar al infractor, cuando no haya comisión de delitos, la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de regularización o restauración de sitios contaminados con residuos sólidos, siempre y cuando se garanticen las obligaciones del infractor, que no sea reincidente y no se trate de irregularidades que impliquen la existencia de riesgo inminente de daño o deterioro grave de los ecosistemas.
+La Procuraduría o la autoridad municipal competente, fundamentando y motivando plenamente su decisión, podrá otorgar al infractor, cuando no haya comisión de delitos, la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de regularización o restauración de sitios contaminados con residuos sólidos, siempre y cuando se garanticen las obligaciones del infractor, que no sea reincidente y no se trate de irregularidades que impliquen la existencia de riesgo inminente de daño o deterioro grave de los ecosistemas.
 
 Cuando se determine la comisión de dos o más infracciones a que refiere el Artículo 84, se tomará en cuenta la más alta. Cuando en una sola acta de inspección aparezca que se han cometido diversas infracciones, deberán ser sancionadas individualmente. Las actas que se levanten en casos de flagrancia, deberán hacer constar con precisión en ésta tal circunstancia.
 
@@ -1345,9 +1475,7 @@ En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces el 
 
 Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley y en las demás disposiciones que de ella se deriven, se destinarán a la remediación de sitios contaminados que presenten un riesgo inminente al ambiente o a la salud; o en todo caso, a las acciones que para el manejo integral de los residuos, las autoridades competentes establezcan.
 
-### CAPÍTULO IV. MEDIDAS DE SEGURIDAD
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+### CAPÍTULO III. DE LA RESPONSABILIDAD DEL DAÑO
 
 ###### ARTÍCULO 105.
 
@@ -1391,6 +1519,10 @@ V. Los recipientes deberán estar accesibles al público participante en el even
 
 VI. Los Residuos sólidos deberán ser removidos prontamente; y asegurar que se dispongan en forma apropiada los residuos sólidos recolectados.
 
+### CAPÍTULO IV. MEDIDAS DE SEGURIDAD
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+
 ###### ARTÍCULO 111.
 
 Se consideran medidas de seguridad, las disposiciones que dicten la Secretaría o los Ayuntamientos, en el ámbito de su competencia, de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, para proteger el ambiente o la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
@@ -1414,6 +1546,8 @@ V. Las demás que determinen la autoridad competente con el objeto de evitar que
 ###### ARTÍCULO 113.
 
 Cuando la Secretaría imponga las medidas de seguridad previstas en esta Ley, se indicarán, en su caso, las acciones que deberán llevar a cabo para subsanar las irregularidades que las motivaron, así como los plazos para revisarlas, a fin de que una vez satisfechas éstas, se ordene el retiro de las mismas.
+
+## TÍTULO CUARTO. RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 114.
 
@@ -1662,3 +1796,17 @@ SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de 
 TERCERO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se oponga a lo dispuesto en el presente decreto.
 
 CUARTO.- En un plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Gobierno del Estado de Morelos, así como los municipios armonizarán las legislaciones de su competencia en materia de residuos con su contenido.
+
+P.O. 15 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS TREINTA Y CUATRO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES, ASÍ COMO EL NOMBRE DE LA LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano oficial del Gobierno del estado.
+
+TERCERA. El Ejecutivo del estado deberá expedir y modificar los reglamentos correspondientes en un plazo de ciento ochenta días hábiles a partir de la vigencia de la presente ley. Mismo plazo tendrán el resto de autoridades competentes para la emisión de los instrumentos normativos administrativos que correspondan conforme a sus respectivos ámbitos de competencia.
+
+CUARTA. En tanto se expidan las disposiciones reglamentarias que se deriven de la presente ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan.
+
+QUINTA. Los ayuntamientos deberán expedir o en su caso actualizar, los reglamentos correspondientes en un plazo de ciento ochenta días hábiles a partir de la publicación de la presente ley.
