@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-5643
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2022-11-09"
+last_updated: "2023-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -281,13 +281,17 @@ X. Incluir, en los fines del sistema educativo, la formación en el respeto de l
 
 XI. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, los mecanismos para dar atención a las necesidades de mujeres y hombres en materia de salud;
 
-> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2023)</small>
 
-XII. Promover que en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal, así como en los medios masivos de comunicación electrónicos e impresos, se elimine el uso de estereotipos sexistas y discriminatorios y se incorpore un lenguaje incluyente.
+XII. Promover que en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal, así como en los medios masivos de comunicación electrónicos e impresos, se elimine el uso de estereotipos sexistas y discriminatorios y se incorpore un lenguaje incluyente;
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2023)</small>
 
-XIII. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas.
+XIII. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas, y
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XIV. Impulsar el cierre de brechas de género al garantizar el derecho a la vivienda de las mujeres, promoviendo el acceso a la propiedad y a la tenencia de la tierra, así como en el acceso a créditos que les permitan obtener o mejorar su vivienda.
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE POLÍTICA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -401,11 +405,13 @@ Será objetivo de la Política Estatal el fortalecimiento de la igualdad en mate
 
 I. Establecimiento y empleo de fondos para la promoción de la igualdad en el trabajo y los procesos productivos;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2023)</small>
 
-II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica en los ámbitos rural y urbano, que generen oportunidades en el uso y aprovechamiento de las propiedades muebles e inmuebles;
+II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica en los ámbitos rural y urbano, que generen igualdad de oportunidades en el derecho a la propiedad, la tenencia, el uso y aprovechamiento de las propiedades muebles e inmuebles;
 
-III. Impulsar liderazgos igualitarios.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+III. Impulsar liderazgos igualitarios; y
 
 > <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
 
@@ -718,3 +724,13 @@ P.O. 9 DE NOVIEMBRE DE 2022.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 15 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 192 POR EL QUE “SE REFORMAN LAS FRACCIONES XII Y XIII DEL ARTÍCULO 15; LAS FRACCIONES II Y III DEL ARTÍCULO 29 Y, SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 15, DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los sesenta días naturales a la entrada en vigor del presente decreto, el Ejecutivo Estatal deberá armonizar las disposiciones reglamentarias que sean necesarias para su debida implementación.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
