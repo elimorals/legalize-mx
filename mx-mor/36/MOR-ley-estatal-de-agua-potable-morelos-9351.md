@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-agua-potable-morelos-9351"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-26"
-last_updated: "2018-09-26"
+last_updated: "2023-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE AGUA POTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de julio de 1995.
 
@@ -97,7 +97,13 @@ VI.- El servicio al público de conducción, suministro, distribución o transpo
 
 La conservación incluye todo lo relativo a la infiltración, retención y control del agua.
 
-En el saneamiento queda incluido el alcantarillado.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2023)</small>
+
+En el saneamiento queda incluido el alcantarillado; y,
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+VII. Establecer las bases generales para fomentar el uso racional del agua y promover una cultura de austeridad y aprovechamiento eficiente del agua.
 
 > <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
 
@@ -313,13 +319,39 @@ III.- Determinar qué usuarios están obligados a construir y operar plantas de 
 
 IV.- Aplicar las cuotas o tarifas y el pago obligatorio que deberán cubrir las personas que realizan actividades productivas susceptibles de producir contaminación del agua o producir o generar aguas residuales por el servicio de drenaje y alcantarillado que utilizan para hacer sus descargas y para el tratamiento de aguas residuales de origen urbano, que se debe efectuar conforme a la Ley antes de su descarga en ríos, cuencas, vasos y demás depósitos o corrientes de agua, incluyendo las aguas del subsuelo y en general en bienes nacionales; así como las que se señalen por el uso de fosas sépticas y pozos de absorción; la determinación de las cuotas o tarifas y el procedimiento para fijarlas se hará conforme a lo previsto en el Título Cuarto, Capítulo III de esta Ley;
 
-> <small>(F. DE E., P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2023)</small>
 
-V.- Vigilar y promover la aplicación de las disposiciones y normas sobre equilibrio ecológico y protección al ambiente en materia de prevención y control de la contaminación del agua y de los ecosistemas acuáticos; así como la potabilización del agua principalmente para uso doméstico; e
+V.- Vigilar y promover la aplicación de las disposiciones y normas sobre equilibrio ecológico y protección al ambiente en materia de prevención y control de la contaminación del agua y de los ecosistemas acuáticos; así como la potabilización del agua principalmente para uso doméstico;
 
 VI.- Intervenir en la aplicación de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en los términos que ésta dispone.
 
-Los usuarios de los servicios de agua potable y saneamiento a que se refiere la presente Ley, deberán tener el permiso a que se refiere la fracción I, para poder efectuar la descarga de aguas residuales provenientes de actividades productivas, a los sistemas de drenaje o alcantarillado, se exceptúa del permiso al uso doméstico.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2023)</small>
+
+Los usuarios de los servicios de agua potable y saneamiento a que se refiere la presente ley, deberán tener el permiso a que se refiere la fracción I, para poder efectuar la descarga de aguas residuales provenientes de actividades productivas, a los sistemas de drenaje o alcantarillado, se exceptúa del permiso al uso doméstico;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+VII.- Difundir, mediante programas y acciones, los costos y beneficios socioeconómicos y ambientales del cuidado, uso racional y correcto aprovechamiento del agua;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+VIII.- Promover la realización de estudios e investigaciones sobre los beneficios del cuidado y uso racional del agua, en todas sus formas y manifestaciones;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+IX.- Fomentar el uso de la tecnología e infraestructura en el desarrollo de viviendas, fraccionamientos, edificaciones y demás obras que en el Estado permitan cuidar y usar de manera razonable el agua;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+X.- Promover planes y programas en conjunto con las entidades públicas y privadas vinculadas al cuidado y uso razonable del agua;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XI.- Coadyuvar en la creación de una educación y cultura ambiental en torno al cuidado y uso razonable del agua; y,
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XII.- Las demás que determine la ley y demás disposiciones en la materia.
 
 ###### ARTICULO 10.
 
@@ -551,6 +583,26 @@ IV.- Coadyuvar para mejorar la situación financiera del organismo; y
 
 V.- Las demás que le señalen éste u otros ordenamientos.
 
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2023)</small>
+
+ARTICULO 25 BIS.- Para ser director general del organismo operador, deberá contar con los siguientes requisitos:
+
+I. Ser preferentemente ciudadano morelense por nacimiento o por residencia con 3 años comprobados;
+
+II. Estar en pleno ejercicio de sus derechos y no tener impedimento legal alguno;
+
+III. Tener conocimiento y experiencia en materia administrativa;
+
+IV. Contar con certificación técnica expedida por el Instituto Mexicano de Tecnología de Agua;
+
+V. Acreditar 3 años de experiencia en el sector hidráulico, en un sistema u organismo operador o institución para la gestión del manejo del agua; y,
+
+VI. Ser mayor de 25 años de edad.
+
+Para la designación del director general se integrará una terna que enviará el presidente municipal a la Junta de Gobierno.
+
+El director general del organismo durará en su encargo tres años, pudiendo ser ratificado por un periodo más.
+
 ###### ARTICULO 26.
 
 El Director General del organismo operador tendrá las siguientes atribuciones:
@@ -739,9 +791,65 @@ XXI.- Promover la capacitación y adiestramiento del personal de los organismos 
 
 XXII.- Tramitar y resolver los recursos o medios de impugnación que le competan, de acuerdo con lo establecido en la presente Ley;
 
-XXIII.- En el ejercicio de las atribuciones que en el ámbito estatal y sobre la materia que regula este ordenamiento le son conferidas; emitir la normatividad técnica y administrativa, así como las especificaciones bajo las cuales los concesionarios en general deberán cumplir con el título de concesión y las demás obligaciones que les impone esta Ley, vigilando su cumplimiento, y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2023)</small>
 
-XXIV.- Las demás que señalen esta Ley, otras leyes y las que le delegue el Ejecutivo del Estado por mandato expreso.
+XXIII.- En el ejercicio de las atribuciones que en el ámbito estatal y sobre la materia que regula este ordenamiento le son conferidas; emitir la normatividad técnica y administrativa, así como las especificaciones bajo las cuales los concesionarios en general deberán cumplir con el título de concesión y las demás obligaciones que les impone esta ley, vigilando su cumplimiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXIV.- Emitir el dictamen de factibilidad de obra hidráulica, así como operar el registro de obras hidráulicas del estado;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXV.- Diseñar, difundir y ejecutar el programa estatal de fomento a la cultura del cuidado y uso racional del agua;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXVI.- Promover campañas para concientizar sobre el cuidado y uso racional del agua en las entidades públicas y privadas;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXVII.- Promover acciones y proyectos específicos que repercutan en una cultura de cuidado y uso racional del agua acorde con las características de las regiones y municipios del estado, así como coordinar en el ámbito de sus facultades las acciones que para ello lleven a cabo;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXVIII.- Realizar diagnósticos a fin de identificar las condiciones de consumo de agua en el estado y el uso racional de la misma;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXIX.- Implementar políticas estatales relacionadas con el cuidado y uso racional del agua;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXX.- Coordinar el desarrollo de actividades públicas y privadas, para la implementación de campañas de asistencia técnica, capacitación, promoción, difusión y concientización para el cumplimiento del objeto de esta ley;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXI.- Coadyuvar, en el ámbito de su competencia, en la debida observancia de las normas oficiales mexicanas, en materia de cuidado y uso racional del agua;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXII.- Propiciar la elaboración y aplicación de normas técnicas estatales que regulen el ahorro y uso racional del agua;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXIII.- Impulsar la participación de las instituciones de educación superior y asociaciones profesionistas, en la investigación, capacitación y desarrollo de tecnologías en la materia;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXIV.- Promover en las instituciones educativas del estado la realización de cursos, talleres, conferencias y diplomados en materia de cuidado y uso racional del agua, en el marco del día mundial del agua;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXV.- Emitir recomendaciones a las entidades públicas y privadas, cuando sea procedente, para que procuren la aplicación de los criterios de cuidado del agua;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXVI.- Vigilar que la prestación de agua potable y funcionamiento del alcantarillado y saneamiento se realice eficaz y eficientemente de acuerdo con la normatividad establecida; y,
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XXXVII.- Las demás que señalen esta ley, otras leyes y las que le delegue el Ejecutivo del estado por mandato expreso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -972,6 +1080,10 @@ En el mismo escrito, consignarán su compromiso de cumplir estrictamente y en el
 Una vez acreditados los requisitos que señalan las fracciones que preceden, el Ayuntamiento, en su caso, el organismo o la autoridad concedente, previa valoración de la solicitud respectiva, de los documentos anexos y de las circunstancias particulares de la comunidad a la que se pretenda otorgar el servicio, podrá negar o autorizar la concesión solicitada; si ésta resulta procedente, hará la declaratoria de concesión respectiva en favor de la agrupación organizada de usuarios del sector social, misma que deberá publicarse en el Periódico Oficial del Estado de Morelos.
 
 En el caso de negar la procedencia de la solicitud de concesión, la autoridad deberá razonar y fundamentar los motivos que tuvo para ello.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2023)</small>
+
+El ayuntamiento realizará un padrón de los grupos organizados de usuarios del sector social sin fines de lucro, a los que se les haya concesionado sobre las materias del artículo 43 de este ordenamiento, por lo que el ayuntamiento informará cada dos años de dicho padrón a la Comisión Estatal del Agua para un debido control y vigilancia del mismo.
 
 DE LA REPRESENTACION DE LOS GRUPOS ORGANIZADOS DEL SECTOR SOCIAL, EN SU CARACTER DE CONCESIONARIOS
 
@@ -2292,3 +2404,13 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su p
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 15 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS NUEVE.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE AGUA POTABLE”.]
+
+Primero.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
+
+Segundo.- El presente decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Tercero.- En un plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Gobierno del Estado de Morelos, así como los municipios armonizarán las legislaciones de su competencia en materia de agua potable.
