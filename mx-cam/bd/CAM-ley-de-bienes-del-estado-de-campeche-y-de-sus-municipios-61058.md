@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-bienes-del-estado-de-campeche-y-de-sus-municipios-61058"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-04"
-last_updated: "2008-03-04"
+last_updated: "2023-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE BIENES DEL ESTADO DE CAMPECHE Y DE SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2023.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el martes 4 de marzo de 2008.
 
@@ -146,6 +146,14 @@ Salvo lo previsto en el Capítulo Décimo de esta Ley, los bienes propiedad de l
 Cuando otras leyes faculten al Estado o a los Municipios a realizar actos relativos al otorgamiento de uso, aprovechamiento, explotación o al dominio de bienes inmuebles estatales o municipales, conforme a modalidades no previstas por esta Ley, se estará a ellas, aplicando en forma supletoria la presente Ley en todo lo que no se oponga.
 
 Cuando otras disposiciones legales faculten al Estado o a los Municipios a celebrar contratos respecto de los bienes de su propiedad en términos distintos o mediante procedimientos diversos a los previstos en esta Ley, se estará a aquellas, aplicando ésta en forma supletoria en todo lo que no se oponga.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2023)</small>
+
+Cuando otras disposiciones legales faculten al Estado o a los Municipios para celebrar actos o emitir resoluciones administrativas, mediante las cuales incorporen bienes muebles en términos distintos o procedimientos diversos a los previstos en esta Ley, se estará a aquellas, aplicando ésta en forma supletoria en todo lo que no se oponga. Los acuerdos de incorporación, registro, destino y uso se realizarán conforme a las bases que se establezcan para tal efecto en el reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2023)</small>
+
+Los bienes muebles a que se refiere el párrafo anterior, tendrán el carácter previsto por la fracción VI del artículo 17 de la presente Ley, siempre y cuando así se funde y motive en la resolución administrativa que se emita al respecto.
 
 ###### ARTÍCULO 13.
 
@@ -874,3 +882,15 @@ OCTAVO.- Las iniciativas de enajenación de inmuebles, que hayan sido presentada
 Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Francisco de Campeche, Campeche, a los diecinueve días del mes de febrero del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. EN D. RICARDO MEDINA FARFAN. RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 191 POR EL QUE “SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 12 DE LA LEY DE BIENES DEL ESTADO DE CAMPECHE Y DE SUS MUNICIPIOS”.]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. El Ejecutivo del Estado contará con un plazo no mayor a treinta días hábiles, contados a partir de la entrada en vigor del presente decreto, para realizar las adecuaciones al Reglamento de Bienes de la Propiedad del Estado de Campeche en relación con los acuerdos de incorporación, registro, destino y uso.
+
+Artículo Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
