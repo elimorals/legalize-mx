@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-145523"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-04"
-last_updated: "2022-10-31"
+last_updated: "2023-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2023.
 
 Ley publicada en la Sección Segunda al Número 146 del Periódico Oficial del Estado de Sinaloa, el viernes 4 de diciembre de 2020.
 
@@ -429,19 +429,19 @@ IV. Adquirir la formación de valores, habilidades y actitudes, así como apreci
 
 V. Obtener conocimientos objetivos y suficientes adecuados al nivel;
 
-VI.Conocer su sociedad, Estado y país y tomar conciencia de la pertenencia a una comunidad internacional;
+VI. Conocer su sociedad, Estado y país y tomar conciencia de la pertenencia a una comunidad internacional;
 
-VII.Adquirir conciencia ciudadana, inculcándoles los principios, valores y derechos fundamentales del hombre;
+VII. Adquirir conciencia ciudadana, inculcándoles los principios, valores y derechos fundamentales del hombre;
 
 VIII. Obtener las nociones fundamentales de la estructura y manejo del lenguaje y de los instrumentos matemáticos;
 
-IX.Desarrollar un sentimiento humanístico y solidario;
+IX. Desarrollar un sentimiento humanístico y solidario;
 
 X. Satisfacer sus propias necesidades;
 
-XI.Manejar sencillos instrumentos de trabajo;
+XI. Manejar sencillos instrumentos de trabajo;
 
-XII.Acceder a la comprensión y creación de formas diversas de expresión cultural; y
+XII. Acceder a la comprensión y creación de formas diversas de expresión cultural; y
 
 XIII. Prepararse para estudios de educación secundaria.
 
@@ -1030,6 +1030,10 @@ Las tecnologías de la información, comunicación, conocimiento y aprendizaje d
 ###### Artículo 99.
 
 La autoridad educativa estatal, en el ámbito de su competencia, promoverá la formación y capacitación de maestras y maestros para desarrollar las habilidades necesarias en el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital para favorecer el proceso educativo.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2023)</small>
+
+Asimismo, fortalecerán los sistemas de educación a distancia, mediante el aprovechamiento de las multiplataformas digitales, la televisión educativa y las tecnologías antes referidas.
 
 ### Capítulo IV. De la Guía Operativa para la Organización y Funcionamiento de los Servicios de Educación Básica y Media Superior
 
@@ -2276,3 +2280,11 @@ SEGUNDO. Se dejan sin efecto todas las actuaciones realizadas previo al inicio d
 TERCERO. Para efectos de lo dispuesto en el artículo transitorio anterior el Titular del Poder Ejecutivo del Estado deberá emitir las disposiciones reglamentarias correspondientes.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 15 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 385 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 99 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa".
+
+SEGUNDO. El objeto del presente Decreto quedará sujeto a disponibilidad presupuestal.
