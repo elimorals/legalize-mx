@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2023-01-25"
+last_updated: "2023-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -739,9 +739,17 @@ Para el pleno desarrollo de sus funciones ambas instancias se procurarán que cu
 
 Artículo 24 ter.- Los ayuntamientos deberán crear una instancia de atención a las personas con discapacidad, la que tendrá la obligación de implementar las políticas públicas, programas y acciones para este sector social, en cada uno de los municipios, deberán ser encabezadas preferentemente, por personas con alguna condición de discapacidad como una medida de inclusión en los ayuntamientos.
 
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2023)</small>
+
+###### Artículo 24 Quater.
+
+Los 36 municipios del estado de Morelos deberán de crear la Unidad de Derechos Humanos, Búsqueda de Personas y Atención a Víctimas, la cual estará encargada de dirigir las políticas públicas y coadyuvar en las jornadas de búsqueda de personas y atención a víctimas al interior del municipio.
+
 > <small>(ADICIONADO, P.O. 25 DE ENERO DE 2023)</small>
 
-Artículo 24 Quinquies (sic).- Los ayuntamientos deberán crear una Dirección de Atención a la Diversidad Sexual, la que tendrá la obligación de implementar las políticas públicas para las poblaciones de la diversidad sexual en cada uno de los municipios, deberán ser encabezadas preferentemente, por personas de la diversidad sexual como una medida de inclusión en los ayuntamientos.
+###### Artículo 24 Quinquies.
+
+Los ayuntamientos deberán crear una Dirección de Atención a la Diversidad Sexual, la que tendrá la obligación de implementar las políticas públicas para las poblaciones de la diversidad sexual en cada uno de los municipios, deberán ser encabezadas preferentemente, por personas de la diversidad sexual como una medida de inclusión en los ayuntamientos.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
 
@@ -4630,3 +4638,19 @@ TERCERA.- La designación de la persona a cargo de la Instancia de Atención a l
 CUARTA.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
 
 QUINTA.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 15 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS SESENTA Y CINCO POR EL QUE SE ADICIONA EL ARTÍCULO 24 QUATER DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, CON LA FINALIDAD DE QUE LOS 36 MUNICIPIOS IMPLEMENTEN LA UNIDAD DE DERECHOS HUMANOS, BÚSQUEDA DE PERSONAS Y ATENCIÓN A VÍCTIMAS".]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- La Unidad de Derechos Humanos, Búsqueda de Personas y Atención a Víctimas deberá ser constituida en los 36 municipios del estado de Morelos en un plazo no mayor a 10 días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+CUARTA.- Los 36 municipios del estado de Morelos en un plazo no mayor a 60 días naturales contados a partir de la entrada en vigor del presente decreto, deberán emitir el Reglamento de la Unidad de Derechos Humanos, Búsqueda de Personas y Atención a Víctimas.
+
+QUINTA.- Se derogan las disposiciones de igual o menor rango jerárquico que se opongan al presente decreto.
+
+SEXTA.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
