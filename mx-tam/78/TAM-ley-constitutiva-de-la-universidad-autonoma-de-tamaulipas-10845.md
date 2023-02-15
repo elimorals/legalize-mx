@@ -4,7 +4,7 @@ identifier: "TAM-ley-constitutiva-de-la-universidad-autonoma-de-tamaulipas-10845
 country: "mx"
 rank: "ley"
 publication_date: "1956-02-11"
-last_updated: "2017-06-02"
+last_updated: "2023-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTÓNOMA DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el 11 de febrero de 1956.
 
@@ -62,6 +62,14 @@ La Universidad Autónoma de Tamaulipas se integrará con las Facultades, Escuela
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
 
 Así mismo, contará con un Órgano Interno de Control, dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. La naturaleza del mismo, así como los requisitos para ocupar su titularidad, la duración en el cargo y el nivel de éste, se establecerán en el Estatuto Orgánico en frecuencia con las disposiciones constitucionales, así como con las leyes generales y locales aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2023)</small>
+
+La Universidad Autónoma de Tamaulipas contará con la Defensoría de los Derechos de los Universitarios, como órgano autónomo, independiente y de gestión para decidir sobre su funcionamiento y resoluciones, encargado de la promoción, defensa, protección y garantía de los derechos de las y los universitarios; debiéndose regir bajo los principios de independencia, buena fe, objetividad, imparcialidad, legalidad, debida diligencia, confidencialidad, eficiencia, perspectiva de género y de derechos humanos.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2023)</small>
+
+La persona titular de la Defensoría, deberá poseer título profesional de Licenciado en Derecho y acreditar conocimientos en materia de Derechos Humanos y perspectiva de género; durará en su encargo cuatro años, pudiendo ser designada por un periodo adicional; su naturaleza, atribuciones específicas y obligaciones se establecerán en el Estatuto Orgánico de la Universidad Autónoma de Tamaulipas y sus Reglamentos respectivos.
 
 > <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1972)</small>
 
@@ -168,3 +176,11 @@ La Convocatoria para designar a los titulares de los órganos internos de contro
 ###### ARTÍCULO TERCERO.
 
 Comuníquese el presente Decreto a la Universidad Autónoma de Tamaulipas, solicitando con pleno respeto a su autonomía institucional que, a la brevedad, tenga a bien homologar sus ordenamientos jurídicos internos en lo concerniente al Órgano Interno de Control y su titular, tomando en consideración las reformas planteadas en el presente Decreto, para así armonizar sus disposiciones a que haya lugar, en materia de combate a la corrupción.
+
+P.O. 15 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-525 MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO, AL ARTÍCULO TERCERO, DE LA LEY CONSTITUTIVA DE LA UNIVERSIDAD AUTÓNOMA DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
