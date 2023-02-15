@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2022-12-13"
+last_updated: "2023-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -1065,9 +1065,17 @@ II.- Recibir información completa y comprensible a su nivel cultural sobre las 
 
 III.- Decidir de manera libre e informada si el parto se llevará a cabo en forma natural, por intervención quirúrgica o a través de los distintos procedimientos establecidos en la práctica médica. La mujer otorgará su consentimiento por escrito, por sí o través de quien autorice para otorgarlo;
 
-IV.- Determinar la atención que se brindará al parto conforme a su sistema de valores y creencias, con excepción de las determinaciones médicas para evitar situaciones de riesgo a la integridad física de la madre o su vida misma; y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2023)</small>
 
-V.- Decidir libremente sobre la conservación de las células madre de la o él recién nacido, siempre que sea sin fines de lucro.
+IV.- Determinar la atención que se brindará al parto conforme a su sistema de valores y creencias, con excepción de las determinaciones médicas para evitar situaciones de riesgo a la integridad física de la madre o su vida misma;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+V.- Decidir libremente sobre la conservación de las células madre de la o el recién nacido, siempre que sea sin fines de lucro; y
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+VI.- Podrá ser acompañada por la persona de su confianza y elección durante el trabajo de parto, parto y puerperio, incluyendo el procedimiento de cesárea, en las instituciones de salud públicas y privadas, siempre y cuando, la presencia de la persona no implique un riesgo para la paciente, para el recién nacido o para las maniobras a realizar por los especialistas de la salud y cuando las condiciones médicas e infraestructurales así lo permitan.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
 
@@ -3842,6 +3850,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 13 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-427 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-529 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IV Y V; Y SE ADICIONA LA FRACCIÓN VI, AL ARTÍCULO 38 BIS, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
