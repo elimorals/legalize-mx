@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2023-02-01"
+last_updated: "2023-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -1639,6 +1639,10 @@ XI.- La atención de los demás asuntos que en materia de violencia contra las m
 
 XII.- Las demás previstas para el cumplimiento de la ley.
 
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
+
+XIII.- Los municipios que cuenten con alerta de violencia de género contra las mujeres, deberán de elaborar programas municipales que erradiquen dicha violencia, considerando las recomendaciones del grupo interinstitucional y multidisciplinario para el seguimiento respectivo, en base al Plan Estatal de Desarrollo y la ley general, a los cuales se les deberá dar seguimiento, con independencia de la administración municipal de que se trate.
+
 ###### Artículo 61.
 
 Corresponde al Instituto de Desarrollo y Fortalecimiento Municipal:
@@ -2126,3 +2130,15 @@ Remítase el presente decreto al titular del Poder Ejecutivo del Estado para su 
 El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
 
 ARTÍCULOS (SIC) TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente decreto.
+
+P.O. 15 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS SEIS POR EL QUE POR EL QUE (SIC) SE ADICIONA LA FRACCIÓN XIII, AL ARTÍCULO 60 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente decreto al titular del Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial “Tierra y Libertad” órgano oficial de difusión del Gobierno del Estado de Morelos, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
