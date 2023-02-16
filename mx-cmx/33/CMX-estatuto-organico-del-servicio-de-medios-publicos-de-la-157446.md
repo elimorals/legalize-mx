@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-servicio-de-medios-publicos-de-la-157446"
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-04-18"
-last_updated: "2022-04-18"
+last_updated: "2023-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157446&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ ESTATUTO ORGÁNICO DEL SERVICIO DE MEDIOS PÚBLICOS DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
 
-Estatuto publicado en el No. 831 de la Gaceta Oficial de la Ciudad de México, el lunes 18 de abril de 2022.
+Estatuto publicado en el No. 831 de la Gaceta Oficial de la Ciudad de México, el lunes 18 de abril de 2022. (REPUBLICADO EN LA G.O. 16 DE FEBRERO DE 2023).
 
 ALONSO MILLÁN ZEPEDA, Director General del Servicio de Medios Públicos de la Ciudad de México en mi carácter de Secretario Técnico del Órgano de Gobierno del Servicio de Medios Públicos de la Ciudad de México, con fundamento en los artículos 4, 5 y 33 numeral 1 de la Constitución Política de la Ciudad de México; 1, 2, 44, 45, 54 y 74, fracciones, I, IX y XX de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; Décimo Tercero fracción IV del “Decreto por el que se Crea el Organismo Público Descentralizado denominado Servicio de Medios Públicos de la Ciudad de México” publicado en la Gaceta Oficial de la Ciudad de México el 21 de diciembre de 2021; y el Acuerdo número AC-004-03/2022 de la Primera Sesión Ordinaria del Órgano de Gobierno del Servicio de Medios Públicos, celebrada el 25 de marzo de 2022, a través del cuales se aprobó el Estatuto Orgánico del Servicio de Medios Públicos; he tenido a bien dar a conocer el siguiente:
 
