@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-transformacion-industrial-137069"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-06-28"
-last_updated: "2020-12-18"
+last_updated: "2023-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137069&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,11 @@ issue_date: "2019-06-24"
 ---
 # ESTATUTO ORGANICO DE PEMEX TRANSFORMACION INDUSTRIAL
 
-[NOTA 1: INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: www.dof.gob.mx/2020/PEMEX/mod_eoptr_202012.pdf.]
-
-[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.pemex.com/Documents/dof/mod_eoptri_202209.pdf Y www.dof.gob.mx/2022/PEMEX/mod_eoptri_202209.pdf]</small>
 
 ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE FEBRERO DE 2023.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de junio de 2019.
 
@@ -927,6 +925,10 @@ h) Gerencia de Refinería Salina Cruz
 
 i) Gerencia de Refinería Tula
 
+> <small>(ADICIONADO, D.O.F. 16 DE FEBRERO DE 2023)</small>
+
+j) Gerencia de Refinería Olmeca
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE DICIEMBRE DE 2020)</small>
 
 2. Subdirección de Proceso de Gas y Petroquímica Básica
@@ -1179,9 +1181,11 @@ XIV. Participar en el desarrollo de habilidades y competencias del personal téc
 
 XV. Coordinar la ejecución del Sistema de Confiabilidad Operacional, así como asesorar en el uso de los sistemas y herramientas tecnológicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 47.
 
-Las Gerencias de las Refinerías Salamanca, Madero, Cadereyta, Minatitlán, Salina Cruz y Tula tendrán las funciones siguientes:
+Las Gerencias de las Refinerías Salamanca, Madero, Cadereyta, Minatitlán, Salina Cruz, Tula y Olmeca tendrán las funciones siguientes:
 
 I. Administrar y ejecutar los programas de operación, mantenimiento, confiabilidad operacional, técnicos, de calidad, seguridad industrial, salud en el trabajo y protección ambiental y Eficiencia Energética del centro de trabajo;
 
@@ -2725,41 +2729,61 @@ c) Región Sur:
 
 2. Refinería Salina Cruz
 
-3. Complejo Procesador de Gas Cactus
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 16 DE FEBRERO DE 2023)</small>
 
-4. Complejo Procesador de Gas Nuevo Pemex
+3. Refinería Olmeca
 
-5. Complejo Procesador de Gas Ciudad Pemex
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 16 DE FEBRERO DE 2023)</small>
 
-6. Complejo Procesador de Gas La Venta
+4.Complejo Procesador de Gas Cactus
 
-7. Complejo Procesador de Gas Coatzacoalcos
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 16 DE FEBRERO DE 2023)</small>
 
-8. Complejo Petroquímico Morelos
+5.Complejo Procesador de Gas Nuevo Pemex
 
-9. Complejo Petroquímico Cangrejera
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 16 DE FEBRERO DE 2023)</small>
 
-10. Complejo Petroquímico Pajaritos
+6.Complejo Procesador de Gas Ciudad Pemex
 
-> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 16 DE FEBRERO DE 2023)</small>
 
-11. Complejo Petroquímico Cosoleacaque
+7.Complejo Procesador de Gas La Venta
 
-> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 16 DE FEBRERO DE 2023)</small>
 
-12. Complejo Petroquímico Escolin
+8.Complejo Procesador de Gas Coatzacoalcos
 
-> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 16 DE FEBRERO DE 2023)</small>
 
-13. Terminal de Almacenamiento de Amoniaco Salina Cruz
+9.Complejo Petroquímico Morelos
 
-> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 16 DE FEBRERO DE 2023)</small>
 
-14. Terminal de Almacenamiento de Amoniaco Pajaritos
+10.Complejo Petroquímico Cangrejera
 
-> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 16 DE FEBRERO DE 2023)</small>
 
-15. Amonia-Ducto Transismico
+11.Complejo Petroquímico Pajaritos
+
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 16 DE FEBRERO DE 2023)</small>
+
+12.Complejo Petroquímico Cosoleacaque
+
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 16 DE FEBRERO DE 2023)</small>
+
+13.Complejo Petroquímico Escolin
+
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 16 DE FEBRERO DE 2023)</small>
+
+14.Terminal de Almacenamiento de Amoniaco Salina Cruz
+
+> <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 16 DE FEBRERO DE 2023)</small>
+
+15.Terminal de Almacenamiento de Amoniaco Pajaritos
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 16 DE FEBRERO DE 2023)</small>
+
+16.Amonia-Ducto Transístmico
 
 I. Asesorar en el cumplimiento de los planes y programas relativos a la ejecución y mejora continua del sistema de administración de la seguridad industrial, salud en el trabajo y protección ambiental en todas las áreas de la Región de Pemex Transformación Industrial, así como darles seguimiento;
 
@@ -3002,3 +3026,21 @@ El mismo tratamiento corresponderá a las áreas que se crean, incorporan a otra
 DÉCIMO. Los titulares de las áreas de Pemex Transformación Industrial deberán atender a la definición de los casos, criterios, formatos y plazos en los que deba realizarse la entrega de recursos, información y documentación, derivado de la modificación a su estructura orgánica básica y de las modificaciones del presente Estatuto Orgánico, así como participar en los actos de entrega y recepción, con motivo de su entrada en vigor, conforme a la normatividad aplicable.
 
 DÉCIMO PRIMERO. Los derechos laborales de los trabajadores que se transfieran a Pemex Transformación Industrial serán respetados en términos de ley.
+
+D.O.F. 16 DE FEBRERO DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL "AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁ SER CONSULTADA LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL".]</small>
+
+AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁ SER CONSULTADA LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL:
+
+https://www.pemex.com/Documents/dof/mod_eoptri_202209.pdf
+
+www.dof.gob.mx/2022/PEMEX/mod_eoptri_202209.pdf
+
+Ciudad de México, a 05 de octubre de 2022.- Directora Jurídica, Dra. Luz María Zarza Delgado.- Rúbrica.
+
+## [N. DE E. TRANSITORIOS DE LA "MODIFICACIÓN AL ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL".]
+
+PRIMERO. Las presentes modificaciones al Estatuto Orgánico de Pemex Transformación Industrial entrarán en vigor al día siguiente a aquel en que se designe al titular de la Gerencia de Refinería Olmeca.
+
+SEGUNDO. La estructura orgánica básica autorizada se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos.
