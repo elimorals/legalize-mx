@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cultura-fisica-y-deporte-para-el-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2022-08-17"
+last_updated: "2023-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 2 de julio de 2014.
 
@@ -347,9 +347,15 @@ X. Fomentar la difusión de los deportes autóctonos y tradicionales que promuev
 
 XI. Fomentar el acceso a la práctica del deporte para la población en general;
 
-XII. Capacitar a entrenadores; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2023)</small>
 
-XIII. Las demás que señale la Ley General, esta Ley y los demás ordenamientos aplicables.
+XII. Capacitar a entrenadores;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2023)</small>
+
+XIII. Promover, formular y ejecutar políticas para garantizar la participación en igualdad de condiciones entre mujeres y hombres que fomenten actividades físicas y deportivas; y
+
+XIV. Las demás que señale la Ley General, esta Ley y los demás ordenamientos aplicables.
 
 2. La coordinación a que se refiere el presente artículo, se realizará conforme a las facultades concurrentes en los tres ámbitos de gobierno, a través de convenios de coordinación, colaboración y concertación que celebren las autoridades competentes de la Federación, el Estado, y los Municipios entre sí o con instituciones del sector social y privado, de conformidad con los procedimientos y requisitos que estén determinados en la Ley General, la presente Ley y demás normatividad aplicable.
 
@@ -1606,3 +1612,11 @@ P.O. 17 DE AGOSTO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-534 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XII, Y SE ADICIONA LA FRACCIÓN XIII, RECORRIÉNDOSE LA ACTUAL FRACCIÓN XIII PARA SER XIV, AL PÁRRAFO PRIMERO, DEL ARTÍCULO 11, DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
