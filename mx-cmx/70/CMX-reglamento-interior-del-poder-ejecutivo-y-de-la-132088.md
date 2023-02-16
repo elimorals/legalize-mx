@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2023-01-19"
+last_updated: "2023-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE FEBRERO DE 2023.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -624,11 +624,15 @@ Asimismo, se le adscriben los Órganos Desconcentrados denominados Instituto de 
 
 VIII. A la Secretaría de Gestión Integral de Riesgos y Protección Civil:
 
-A) Subsecretaría de Protección Civil, a la que quedan adscritas:
+A) (DEROGADO, G.O. 16 DE FEBRERO DE 2023)
 
-1. Dirección General Táctico Operativa; y
+> <small>(ADICIONADO, G.O. 16 DE FEBRERO DE 2023)</small>
 
-2. Dirección General de Vinculación, Capacitación y Difusión;
+A) BIS. Dirección General Táctico Operativa;
+
+> <small>(ADICIONADO, G.O. 16 DE FEBRERO DE 2023)</small>
+
+A) TER. Dirección General de Vinculación y Capacitación;
 
 B) Dirección General de Resiliencia;
 
@@ -1812,39 +1816,7 @@ XXVIII. Las demás que le sean encomendadas por la persona titular de la Secreta
 
 ###### Artículo 34.
 
-La Subsecretaría de Protección Civil tendrá las siguientes atribuciones:
-
-I. Suplir en sus ausencias a la persona Titular de la Secretaría de Gestión Integral de Riesgo y Protección Civil, en el Secretariado Ejecutivo del Consejo de Protección Civil de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
-
-II. Coordinar y supervisar el desarrollo de proyectos de planes y programas de Gestión Integral de Riesgos y Protección Civil, y su puesta en marcha;
-
-> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
-
-III. Mantener vinculación con las Dependencias, Unidades Administrativas, Alcaldías y Entidades de la Administración Pública, y los sectores privado, social y académico, para la ejecución de los programas de Gestión Integral de Riesgos y Protección Civil;
-
-> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
-
-IV. Coordinar los programas y acciones de Gestión Integral de Riesgos y Protección Civil de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México y Alcaldías, responsables de los Servicios Vitales y Sistemas Estratégicos;
-
-V. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
-
-> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
-
-VI. Proponer a la persona titular de la Secretaría de Gestión Integral de Riesgos y Protección Civil, políticas públicas para establecer acciones de previsión, prevención, mitigación, respuesta y resiliencia táctica operativa en Gestión Integral de Riesgos y Protección Civil;
-
-VII. Certificar los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo;
-
-> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
-
-VIII. Promover la creación de protocolos, procedimientos y acciones tácticas operativas, que permitan prever, prevenir y atender la eventualidad de una emergencia o desastre, tanto natural como antrópica;
-
-IX. Estudiar y evaluar riesgos, peligros y vulnerabilidades, integrando y ampliando los conocimientos de tales acontecimientos en coordinación con las Dependencias responsables;
-
-X. Generar indicadores de gestión para las diversas comisiones y comités del Consejo de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México; y
-
-XI. Las demás que la presente ley, así como otras disposiciones le asignen.
+(DEROGADO, G.O. 16 DE FEBRERO DE 2023)
 
 #### SECCIÓN VIII. DE LA SECRETARÍA DE OBRAS Y SERVICIOS
 
@@ -5234,6 +5206,8 @@ XXI. Las demás que le sean conferidas por la persona titular de la Secretaría 
 
 #### SECCIÓN IX. DE LA SECRETARÍA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 130.
 
 Corresponde a la Dirección General de Responsabilidades Administrativas:
@@ -6912,7 +6886,7 @@ XVI. Las demás que le sean encomendadas por la persona titular de la Secretarí
 
 ###### Artículo 166.
 
-Corresponde a la Dirección General Táctico Operativa:
+Corresponde a la Dirección General Táctica Operativa:
 
 I. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
 
@@ -6924,17 +6898,21 @@ III. Elaborar, operar, evaluar y actualizar la información del Registro Estadí
 
 IV. Recabar, captar y sistematizar la información, para conocer la situación de la Ciudad de México en condiciones normales y de emergencia;
 
-> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2023)</small>
 
-V. Proponer las normas de los establecimientos temporales para el auxilio de los habitantes de la Ciudad de México, en situaciones de emergencia o de desastre;
+V. Proponer las normas técnicas de los establecimientos temporales para el auxilio de los habitantes de la Ciudad de México, en situaciones de emergencia o de desastre;
 
 > <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
 VI. Coordinar los dispositivos de apoyo para atender situaciones de emergencia o desastre;
 
-VII. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE FEBRERO DE 2023)</small>
 
-VIII. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
+VII. Proponer programas y acciones táctico operativas a las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México así como Alcaldías, responsables de los Servicios Vitales y Sistemas Estratégicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE FEBRERO DE 2023)</small>
+
+VIII. Proponer, a la persona titular de la Secretaría de Gestión Integral de Riesgos y Protección Civil, protocolos, procedimientos y acciones tácticas operativas, que permitan prever, prevenir y atender la eventualidad de una emergencia o desastre, de origen natural o antrópico;
 
 IX. Aplicar los planes de emergencia establecidos y coordinar los mecanismos de acción en caso de emergencia o desastre;
 
@@ -6960,7 +6938,9 @@ XV. Proponer planes de emergencia con base en regionalización de riesgo-respues
 
 XVI. Recomendar y evaluar la realización de simulacros en las áreas clasificadas de alto riesgo de ocurrencia de fenómenos naturales o antropogénicos;
 
-XVII. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE FEBRERO DE 2023)</small>
+
+XVII. Proponer a la persona titular de la Secretaría de Gestión Integral de Riesgos y Protección Civil políticas públicas para establecer acciones de previsión, prevención, mitigación, respuesta y resiliencia táctica operativa en Gestión Integral de Riesgos y Protección Civil;
 
 > <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
@@ -6972,9 +6952,11 @@ XIX. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
 
 XX. Las demás que el presente Reglamento así como otras disposiciones le asignen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 167.
 
-Corresponde a la Dirección General de Vinculación, Capacitación y Difusión:
+Corresponde a la Dirección General de Vinculación y Capacitación:
 
 I. Supervisar que la operación y acciones cumplan con los fines de la protección civil;
 
@@ -7010,9 +6992,21 @@ IX. Proponer Normas Técnicas y Términos de Referencia para la Elaboración de 
 
 X. Registrar, vigilar y autorizar el cumplimiento de los Programas Especiales que presenten los respectivos obligados;
 
-> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2023)</small>
 
-XI. Registrar y autorizar a los Responsables Oficiales de Protección Civil; y
+XI. Registrar y autorizar a los Responsables Oficiales de Protección Civil;
+
+> <small>(ADICIONADA, G.O. 16 DE FEBRERO DE 2023)</small>
+
+XI Bis. Proponer planes y programas de Gestión Integral de Riesgos y Protección Civil en su etapa de prevención y mitigación, así como coordinar su puesta en marcha;
+
+> <small>(ADICIONADA, G.O. 16 DE FEBRERO DE 2023)</small>
+
+XI Ter. Mantener vinculación con las Dependencias, Unidades Administrativas, Alcaldías y Entidades de la Administración Pública, y los sectores privado, social y académico, para la elaboración y desarrollo de acciones de prevención y mitigación en los programas de Gestión Integral de Riesgos y Protección Civil; y,
+
+> <small>(ADICIONADA, G.O. 16 DE FEBRERO DE 2023)</small>
+
+XII (SIC) Quáter. Promover y desarrollar programas y acciones para la transversalidad y coordinación interinstitucional en temas de género y derechos humanos en la gestión integral de riesgo de desastres en la Ciudad de México; y,
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 7 DE AGOSTO DE 2019)</small>
 
@@ -7058,11 +7052,13 @@ VIII. Emitir opinión respecto al diseño, implementación y coordinación de po
 
 IX. Promover el posicionamiento de la Ciudad de México en materia de resiliencia;
 
-> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2023)</small>
 
-X. Desarrollar el Sistema de Monitoreo, Reporte y Verificación, el cual fungirá como una herramienta dinámica para evaluar el impacto de la implementación de políticas y acciones de construcción de resiliencia; y
+X. Desarrollar el Sistema de Monitoreo, Reporte y Verificación, el cual fungirá como una herramienta dinámica para evaluar el impacto de la implementación de políticas y acciones de construcción de resiliencia;
 
-XI. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE FEBRERO DE 2023)</small>
+
+XI. Generar indicadores de gestión para las diversas comisiones y comités del Consejo de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México; y,
 
 XII. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
 
@@ -7106,15 +7102,17 @@ X. Certificar los documentos que obren en los expedientes que sean integrados co
 
 XI. Recabar, clasificar y analizar información para evaluar riesgos y daños provenientes de fenómenos de origen natural o antropogénico que puedan ocasionar desastres;
 
-XII. (DEROGADA, G.O. 22 DE JUNIO DE 2021)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE FEBRERO DE 2023)</small>
+
+XII. Estudiar y evaluar riesgos, peligros y vulnerabilidades, integrando y ampliando los conocimientos de tales acontecimientos en coordinación con las Dependencias responsables;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 7 DE AGOSTO DE 2019)</small>
 
 XIII. Proponer Normas Técnicas y Términos de Referencia para la Elaboración de Programas Internos de Protección Civil con enfoque de inclusión e interculturalidad;
 
-> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2023)</small>
 
-XIV. Operar la Plataforma Digital para el ingreso de los Programas Internos de Protección Civil;
+XIV. Operar la Plataforma Digital para el ingreso de los Programas Internos de Protección Civil; y
 
 XV. (DEROGADA, G.O. 22 DE JUNIO DE 2021)
 
@@ -7148,7 +7146,9 @@ VII. Evaluar y dictaminar los convenios y contratos que pretendan suscribir las 
 
 VIII. Responder a las solicitudes, recomendaciones o peticiones de la Comisión Nacional y Local de Derechos Humanos;
 
-IX. (DEROGADA, G.O. 22 DE JUNIO DE 2021)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE FEBRERO DE 2023)</small>
+
+IX. Coordinar la la (sic) Unidad de Transparencia de la Secretaría de Gestión Integral de Riesgos y Protección Civil, conforme a la normativa en materia de transparencia acceso a la información pública y rendición de cuentas, así como de protección de datos personales y demás aplicable;
 
 X. Gestionar las publicaciones en la Gaceta Oficial de la Ciudad de México o Diario Oficial de la Federación, según corresponda y las disposiciones jurídicas que (sic) relativas a la gestión integral de riesgos y protección civil;
 
@@ -15301,3 +15301,11 @@ PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Aquellos actos y procedimientos administrativos, iniciados y/o tramitados por la Dirección General de Inspección y Vigilancia Ambiental, en materia de control, supervisión, verificación, inspección, vigilancia y sanción ambiental en suelo de conservación y áreas naturales protegidas competencia de la Ciudad de México, así como la defensa administrativa y judicial de los mismos, previos a la entrada en vigor del presente Decreto, serán transferidos a la Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural para su trámite, resolución y archivo correspondiente.
+
+G.O. 16 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 7, 34, 166, 167, 168, 169 y 170 DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación
