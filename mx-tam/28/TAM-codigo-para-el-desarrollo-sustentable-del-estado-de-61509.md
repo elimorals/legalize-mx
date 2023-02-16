@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2022-06-14"
+last_updated: "2023-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -2395,9 +2395,19 @@ XXIII. Verificar el cumplimiento de las disposiciones jurídicas y los instrumen
 
 XXIV. Inspeccionar y vigilar el manejo integral de los residuos de manejo especial, así como verificar el cumplimiento de las disposiciones jurídicas contenidas en la Ley General de Residuos, el presente Código y los demás preceptos de su competencia y en los instrumentos que deriven de aquéllos, e imponer las sanciones y medidas de seguridad que resulten aplicables;
 
-XXV. Imponer las sanciones y medidas de seguridad que procedan de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con la Federación y con los Ayuntamientos, conforme a lo dispuesto por este Código; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2023)</small>
 
-XXVI. Las demás que se establezcan en la Ley General de Residuos, este Código y otros ordenamientos aplicables.
+XXV. Imponer las sanciones y medidas de seguridad que procedan de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con la Federación y con los Ayuntamientos, conforme a lo dispuesto por este Código;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2023)</small>
+
+XXVI. Aplicar, en colaboración con la federación, el gobierno estatal y municipal instrumentos económicos que incentiven el desarrollo, adopción y ejecución de tecnologías limpias para la generación de energía eléctrica a partir de los residuos;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2023)</small>
+
+XXVII. Diseñar, promover y fomentar políticas públicas, que permitan el uso de tecnologías limpias para el aprovechamiento de los recursos en la generación de energía eléctrica; y
+
+XXVIII. Las demás que se establezcan en la Ley General de Residuos, este Código y otros ordenamientos aplicables.
 
 ###### ARTICULO 121.
 
@@ -2443,9 +2453,15 @@ XV. Difundir y promover entre la población, las prácticas de separación, reut
 
 XVI. Instalar en la vía pública equipamiento para el depósito por separado de residuos sólidos urbanos, distinguiéndose entre orgánicos e inorgánicos;
 
-XVII. Promover y dar seguimiento a la formulación, implementación y evaluación del sistema de manejo ambiental en las dependencias y entidades de la administración pública municipal; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2023)</small>
 
-XVIII. Las demás que se establezcan en la Ley General de Residuos, este Código y otros ordenamientos que resulten aplicables.
+XVII. Promover y dar seguimiento a la formulación, implementación y evaluación del sistema de manejo ambiental en las dependencias y entidades de la administración pública municipal;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2023)</small>
+
+XVIII. Controlar los residuos sólidos urbanos y, en coordinación con el Estado aprovechar la materia orgánica en procesos de generación de energía; y
+
+XIX. Las demás que se establezcan en la Ley General de Residuos, este Código y otros ordenamientos que resulten aplicables.
 
 ## TITULO TERCERO. INSTRUMENTOS DE LA POLITICA DE PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS
 
@@ -5400,3 +5416,11 @@ P.O. 14 DE JUNIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-533 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 120, FRACCIÓN XXV; Y 121, FRACCIÓN XVII; Y SE ADICIONAN LAS FRACCIONES XXVI Y XXVII, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XXVI PARA PASAR A SER XXVIII DEL ARTÍCULO 120; Y LA FRACCIÓN XVIII, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL PARA SER XIX DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
