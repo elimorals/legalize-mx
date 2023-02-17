@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2023-01-19"
+last_updated: "2023-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2023.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -241,7 +241,13 @@ Tentativa punible
 
 Únicamente es punible el delito cometido en grado de tentativa acabada que haya puesto en peligro al bien jurídico tutelado.
 
-Existe tentativa acabada, cuando la resolución de cometer un delito se exterioriza realizando totalmente los actos ejecutivos de deberían producir el resultado, u omitiendo los que deberían evitarlo, y aquél no se consuma por causas ajenas a la voluntad del agente.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
+
+Existe tentativa acabada, cuando la resolución de cometer un delito se exterioriza realizando totalmente los actos ejecutivos que deberían producir el resultado, u omitiendo los que deberían evitarlo, y aquél no se consuma por causas ajenas a la voluntad del agente.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2023)</small>
+
+Tratándose del delito de feminicidio, también será punible la tentativa cuando la resolución de cometer el delito se exterioriza realizando uno o varios de los actos ejecutivos que producirían el resultado u omitiendo los que deberían evitarlo, si la ejecución se interrumpe por causas ajenas a la voluntad del agente.
 
 ###### Artículo 23.
 
@@ -425,9 +431,9 @@ V. Remoción.
 
 Concepto y duración.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE FEBRERO DE 2023)</small>
 
-La prisión consiste en la privación de la libertad personal. Su duración no será menor de seis meses ni mayor de sesenta años.
+La prisión consiste en la privación de la libertad personal. Su duración no será menor de seis meses ni mayor de sesenta años:
 
 En toda pena de prisión que se imponga se computará el tiempo de la detención.
 
@@ -865,6 +871,16 @@ Punibilidad de la tentativa.
 
 A quien resulte responsable de la comisión de un delito cometido en grado de tentativa se le aplicará de seis meses hasta las dos terceras partes de la pena correspondiente al delito doloso consumado que el sujeto activo quiso realizar.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE FEBRERO DE 2023)</small>
+
+Tratándose de la tentativa del delito de feminicidio, se aplicará la pena de prisión desde la mitad hasta las dos terceras partes de la pena correspondiente al delito consumado.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2023)</small>
+
+Si la víctima se encuentra embarazada y se provoca la pérdida del producto de la concepción, adicionalmente se impondrá al agresor desde la mitad hasta las dos terceras partes de la pena correspondiente al delito consumado.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 17 DE FEBRERO DE 2023)</small>
+
 En la aplicación de las consecuencias jurídicas señaladas en este artículo, el juez tomará en consideración, además de lo previsto en el artículo 65 de este Código, el mayor o menor grado de aproximación a la consumación del delito y la magnitud del peligro al que fue expuesto el bien jurídico.
 
 ### CAPÍTULO IV. PUNIBILIDAD EN LOS CASOS DE CONCURSO DE DELITOS Y DELITO CONTINUADO
@@ -1297,13 +1313,19 @@ Homicidio en razón de parentesco o relación
 
 A quien con conocimiento de la relación que le une con el sujeto pasivo, prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, cónyuge, pareja, concubina o concubinario, se le impondrá de veinte a treinta y cinco años de prisión y suspensión de los derechos que tenga con respecto a la víctima, incluidos los de carácter sucesorio, hasta por el mismo término de la pena impuesta.
 
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2023)</small>
+
+Cuando en el homicidio en razón de parentesco se acredite alguna de las causales establecidas para el delito de feminicidio, se impondrán al sujeto activo, las sanciones y consecuencias jurídicas previstas en este último.
+
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2017)</small>
 
 ###### Artículo 119.
 
 Homicidio de persona menor de edad
 
-A quien dolosamente prive de la vida a una persona menor de dieciocho años de edad, se le aplicará una pena de veinticinco a cincuenta años de prisión.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2023)</small>
+
+A quien dolosamente prive de la vida a una persona menor de dieciocho años de edad, se le aplicará una pena de cuarenta a sesenta años de prisión.
 
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 2017)</small>
 
@@ -1311,7 +1333,9 @@ A quien dolosamente prive de la vida a una persona menor de dieciocho años de e
 
 Feminicidio
 
-El homicidio doloso de una mujer, se consideraraí (sic) feminicidio cuando se actualice alguna de las siguientes circunstancias:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE FEBRERO DE 2023)</small>
+
+Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Para efectos del presente artículo, se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias en contra de una mujer:
 
 > <small>(REFORMADA, P.O. 22 DE ENERO DE 2021)</small>
 
@@ -1323,31 +1347,69 @@ II. Cuando el sujeto activo realice en el cuerpo de la víctima actos de tipo se
 
 III. Cuando la víctima presenta indicios de violencia física reiterada por parte del sujeto activo;
 
-IV. Cuando existan antecedentes de violencia psicológica o abuso sexual del sujeto activo contra la mujer; y,
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2021)</small>
+IV. Cuando existan antecedentes de violencia psicológica o abuso sexual del sujeto activo contra la mujer o existan datos que establezcan que hubo amenazas o acoso relacionados con el hecho delictuoso;
 
-V. Cuando el cuerpo o restos de la víctima sean abandonados en lugar público o en lugar despoblado o solitario, o en un terreno o baldío;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2023)</small>
+
+V. Cuando el cuerpo o restos de la víctima sean abandonados u ocultados en lugar público o despoblado o solitario o en un terreno o baldío;
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2021)</small>
 
 VI. Cuando el sujeto activo exponga frente a terceros el cuerpo o restos de la víctima, personalmente o por cualquier medio de comunicación;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2023)</small>
 
-VII. Cuando el paradero de la víctima sea desconocido o la víctima haya sido incomunicada, previo o posterior a la privación de su vida;
+VII. Cuando el paradero de la víctima sea desconocido o la víctima haya sido incomunicada, previo o posterior a la privación de su vida, cualquiera que sea el tiempo que dure la misma;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2023)</small>
 
-VIII. Cuando existan relaciones asimétricas de poder o situaciones de vulnerabilidad, subordinación o discriminación, desfavorables para la víctima por el hecho de ser mujer, frente al sujeto activo; y,
+VIII. Cuando existan relaciones asimétricas de poder o situaciones de vulnerabilidad, subordinación o discriminación, desfavorables para la víctima por el hecho de ser mujer, frente al sujeto activo o cuando éste aproveche la confianza que existe con la víctima derivada de una relación sentimental, de pareja o de cualquier índole;
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2021)</small>
 
 IX. Cuando exista una o varias razones de género, sobre la base del reconocimiento de la particular situación de desventaja en la cual históricamente se han encontrado las mujeres y bajo la perspectiva de género que deben aplicar las autoridades al caso concreto durante la conducción de investigaciones e integración de carpetas de investigación, servicios periciales y procesos judiciales.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2021)</small>
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2023)</small>
 
-Al hombre o mujer que cometa el delito de feminicidio se le impondrá una pena de veinticinco a cincuenta años de prisión. Cuando se actualicen dos o más circunstancias de las contenidas en este artículo, la pena será de treinta a cincuenta años de prisión. Además, el sujeto activo será privado de manera definitiva de cualquier derecho que tenga con relación a la víctima. El ejercicio de la acción penal y la ejecución de sanciones penales que impongan judicialmente para el delito de feminicidio son imprescriptibles.
+X. La privación de la vida ocurre cuando la víctima se encuentra embarazada. En este caso, si se provoca la pérdida del producto de la concepción, se impondrá al agresor, de manera adicional, una pena de 15 a 35 años de prisión, sin perjuicio de las sanciones que le correspondan por el delito de feminicidio;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2023)</small>
+
+XI. La mujer, al momento de la privación de la vida, ejercía actividades de índole sexual, o es víctima de explotación sexual o trata de personas; y,
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2023)</small>
+
+XII. Se realiza para impedir u obstaculizar el ejercicio de los derechos político-electorales de la víctima.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
+
+Al hombre o mujer que cometa el delito de feminicidio se le impondrá una pena de veinticinco a sesenta años de prisión y multa de quinientos a mil veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2023)</small>
+
+Cuando se actualicen dos o más circunstancias de las contenidas en este artículo, la pena será de cuarenta a sesenta años de prisión y de mil a tres mil veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2023)</small>
+
+Se considerará feminicidio infantil, cuando el homicidio recaiga en una niña o adolescente menor de dieciocho años. En este caso, las penas se aumentarán hasta en una mitad más.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2023)</small>
+
+Las penas previstas en este artículo se incrementarán hasta en una tercera parte si el delito fuere cometido previa suministración de cualquier sustancia que cause la inconciencia de la víctima o disminuya su posibilidad de resistir el delito.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2023)</small>
+
+Además, el sujeto activo será privado de manera definitiva de cualquier derecho que tenga con relación a la víctima, incluidos los de carácter sucesorio. El ejercicio de la acción penal y la ejecución de sanciones penales que impongan judicialmente para el delito de feminicidio son imprescriptibles.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2023)</small>
+
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2023)</small>
+
+Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia se le impondrá pena de prisión de tres a diez años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
 ###### Artículo 121.
 
@@ -1371,7 +1433,9 @@ El homicidio en razón de la preferencia sexual se considerará homicidio califi
 
 Homicidio calificado
 
-A quien cometa el delito de homicidio calificado se le impondrá una pena de veinte a cincuenta años de prisión.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2023)</small>
+
+A quien cometa el delito de homicidio calificado se le impondrá una pena de veinticinco a sesenta años de prisión.
 
 ###### Artículo 123.
 
@@ -4534,3 +4598,11 @@ P.O. 19 DE ENERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 17 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 344 POR EL QUE “SE ACEPTAN PARCIALMENTE LAS OBSERVACIONES REALIZADAS POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO, AL DECRETO LEGISLATIVO NÚMERO 203, DE FECHA 29 DE SEPTIEMBRE DE 2022, MEDIANTE EL CUAL SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22, EL PRIMER PÁRRAFO DEL ARTÍCULO 31, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 71, EL PRIMER PÁRRAFO DEL ARTÍCULO 119, LAS FRACCIONES IV, V, VII, VIII Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 120, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 122; SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 22, EL TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 71, UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 Y LAS FRACCIONES X, XI Y XII ASÍ COMO UN TERCERO, CUARTO, QUINTO, SEXTO Y SÉPTIMO PÁRRAFOS AL ARTÍCULO 120, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los procesos penales que se lleven actualmente, antes de la publicación del presente Decreto, continuarán con su cauce de origen.
