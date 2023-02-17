@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-convivencia-para-las-personas-150562"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-08-10"
-last_updated: "2022-03-09"
+last_updated: "2023-02-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150562&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2021-07-30"
 ---
 # REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PUBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACION SOCIAL CORUÑA JOVENES (CAIS CORUÑA JOVENES)
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL "AVISO POR EL QUE SE DEJAN SIN EFECTOS LOS DIVERSOS POR EL CUAL SE DA A CONOCER EL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL CORUÑA JÓVENES (CAIS CORUÑA JÓVENES), PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE ME´XICO, EL 10 DE AGOSTO DE 2021, ASÍ COMO EL RELATIVO A SU MODIFCACIÓN (SIC), PUBLICADO EN EL MISMO MEDIO DE DIFUSION OFICIAL, EL 28 DE SEPTIEMBRE DE 2021", PUBLICADO EN LA G.O. DE 17 DE FEBRERO DE 2023, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL CORUÑA JÓVENES (CAIS CORUÑA JÓVENES) DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE FEBRERO DE 2023 (SIN EFECTOS).
 
 Reglamento publicado en el Número 658 de la Gaceta Oficial de la Ciudad de México, el martes 10 de agosto de 2021.
 
@@ -561,3 +563,13 @@ CUARTO.- Para el caso de que se presenten casos excepcionales de atención con r
 QUINTO.- En caso de presentarse alguna controversia con motivo de la interpretación, cumplimiento o algún asunto que no se encuentre expresamente previsto en el presente Aviso, será resuelto por la Coordinación General de Inclusión Social de la Secretaría de Inclusión y Bienestar Social de la Ciudad de México.
 
 SEXTO.- A partir de la entrada en vigor del presente Aviso, los servicios sociales que otorga el Centro de Asistencia e Integración Social (CAIS Coruña Jóvenes), serán proporcionados en Calle Sur 65 A, número 3246, Colonia Viaducto Piedad, C.P. 08200, Alcaldía Iztacalco, en la Ciudad de México.
+
+G.O. 17 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DEJAN SIN EFECTOS LOS DIVERSOS POR EL CUAL SE DA A CONOCER EL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL CORUÑA JÓVENES (CAIS CORUÑA JÓVENES), PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE ME´XICO, EL 10 DE AGOSTO DE 2021, ASÍ COMO EL RELATIVO A SU MODIFCACIÓN (SIC), PUBLICADO EN EL MISMO MEDIO DE DIFUSION OFICIAL, EL 28 DE SEPTIEMBRE DE 2021”.]
+
+PRIMERO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su difusión y conocimiento.
+
+SEGUNDO.- El presente Aviso entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- En caso de presentarse alguna controversia con motivo de la interpretación, cumplimiento o algún asunto que no se encuentre expresamente previsto en el presente Aviso, será resuelto por la Coordinación General de Inclusión Social, a través del Instituto de Atención a Poblaciones Prioritarias (IAPP), ambos de la Secretaría de Inclusión y Bienestar Social de la Ciudad de México.
