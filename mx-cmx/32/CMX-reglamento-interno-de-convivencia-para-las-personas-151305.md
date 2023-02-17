@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-convivencia-para-las-personas-151305"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-09-28"
-last_updated: "2021-09-28"
+last_updated: "2023-02-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151305&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2021-09-20"
 ---
 # REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS MAYORES DE EDAD Y PERSONAS SERVIDORAS PUBLICAS DEL ALBERGUE TEMPORAL MUJERES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL AVISO POR EL CUAL SE DEJA SIN EFECTOS EL DIVERSOS (SIC) POR EL QUE SE DA A CONOCER EL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS MAYORES DE EDAD Y PERSONAS SERVIDORAS PÚBLICAS DEL ALBERGUE TEMPORAL MUJERES, PUBLICADO EN LA G.O. DE 17 DE FEBRERO DE 2023, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS MAYORES DE EDAD Y PERSONAS SERVIDORAS PÚBLICAS DEL ALBERGUE TEMPORAL MUJERES DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE FEBRERO DE 2023 (SIN EFECTOS).
 
 Reglamento publicado en el Número 692 de la Gaceta Oficial de la Ciudad de México, el martes 28 de septiembre de 2021.
 
@@ -30,7 +32,7 @@ DRA. ALMUDENA OCEJO ROJO, Secretaria de Inclusión y Bienestar Social de la Ciud
 
 C O N S I D E R A N D O
 
-[…]
+[...]
 
 Que el Albergue Temporal Mujeres se habilita como un espacio de atención interdisciplinaria para personas mujeres mayores de 18 años con antecedentes de vida y en situación de calle, que se encuentren en la fase de Atención, de acuerdo al Modelo de Inclusión Social; por lo que he tenido a bien, expedir el siguiente:
 
@@ -713,3 +715,15 @@ Ciudad de México, 20 de septiembre de 2021.
 DRA. ALMUDENA OCEJO ROJO
 
 SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 17 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DEJA SIN EFECTOS EL DIVERSOS (SIC) POR EL QUE SE DA A CONOCER EL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS MAYORES DE EDAD Y PERSONAS SERVIDORAS PÚBLICAS DEL ALBERGUE TEMPORAL MUJERES”.]
+
+PRIMERO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su difusión y conocimiento.
+
+SEGUNDO.- El presente Aviso entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- En caso de presentarse alguna controversia con motivo de la interpretación, cumplimiento o algún asunto que no se encuentre expresamente previsto en el presente Aviso, será resuelto por la Coordinación General de Inclusión Social, a través del Instituto de Atención a Poblaciones Prioritarias (IAPP), ambos de la Secretaría de Inclusión y Bienestar Social de la Ciudad de México.
