@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2022-12-30"
+last_updated: "2023-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -2277,6 +2277,22 @@ II.- Contar con conexión a los servicios de agua potable, drenaje y energía el
 
 III.- Estar equipada en los términos que señale el Reglamento respectivo.
 
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2023)</small>
+
+ARTICULO 160 QUATER.- Los Fraccionamientos a que se refiere el artículo 160 de esta Ley, podrán autorizarse en la modalidad de acceso controlado, para lo cual, deberán contar con lo siguiente:
+
+I. Barda perimetral completa, cuando las características específicas de los fraccionamientos lo ameriten, con accesos suficientes para el aforo vehicular calculado;
+
+II. Casetas de vigilancia, cámaras de seguridad y dispositivos seguros para efecto de regular el acceso;
+
+III. Asociación Civil de Vecinos o Locatarios con Reglamento Interior, aprobado por la asamblea e inscrito en el Registro Público de la Propiedad y de Comercio; y,
+
+IV. Cumplir con la reglamentación que establezca la Autoridad Municipal correspondiente, de la cual será coadyuvante.
+
+Para los efectos de este artículo, la solicitud de autorización podrá ser presentada por el urbanizador, o bien, por el comité de vecinos del fraccionamiento respectivo.
+
+La autorización a que refiere este artículo será resuelta por la autoridad municipal de conformidad con esta Ley y lo previsto en el reglamento aplicable.
+
 ### CAPITULO TERCERO. De los Procedimientos para Autorizar y Realizar Acciones de Urbanización
 
 ###### ARTICULO 161.
@@ -2491,17 +2507,25 @@ Si transcurrido el plazo a que se refiere el párrafo anterior, el urbanizador n
 
 En tanto no se concluyan las acciones de urbanización y éstas sean recibidas por el Municipio, quedan bajo la responsabilidad del urbanizador para cumplir las obligaciones que se establecen en esta Ley y otros ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE FEBRERO DE 2023)</small>
+
+La infraestructura y servicio señalado en las fracciones I y II del artículo 160 QUATER de esta Ley no podrán ser recibidas por el Municipio, siempre serán responsabilidad del urbanizador, o bien, del comité de vecinos del fraccionamiento respectivo.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### ARTICULO 189.
 
-Terminadas las acciones de urbanización, el interesado solicitará a las dependencias que operarán las redes de servicios y sistemas, para que en un plazo que no exceda de 60 días naturales, realicen el levantamiento de actas de certificación aprobatorias de dichos trabajos, así como a la Secretaría una constancia de cumplimiento de acciones de urbanización.
+Terminadas las acciones de urbanización, la persona interesada solicitará a las dependencias que operarán las redes de servicios y sistemas, para que en un plazo que no exceda de 60 días naturales, realicen el levantamiento de actas de certificación aprobatorias de dichos trabajos, así como a la Secretaría una constancia de cumplimiento de acciones de urbanización.
 
-El interesado podrá insistir ante la misma dependencia para que se resuelva sobre la autorización de su proyecto definitivo de urbanización, en un plazo perentorio de 30 días naturales; agotado el plazo adicional, se aplicará la afirmativa ficta, por lo que bastará que el solicitante exhiba los documentos que acrediten el paso el (sic) tiempo.
+La persona interesada podrá insistir ante la misma dependencia para que se resuelva sobre la autorización de su proyecto definitivo de urbanización, en un plazo perentorio de 30 días naturales; agotado el plazo adicional, se aplicará la afirmativa ficta, por lo que bastará que la persona solicitante exhiba los documentos que acrediten el paso el (sic) tiempo.
 
 Una vez que la acción de urbanización esté concluida y reunidos todos los requisitos y constancias aprobatorias que marca la presente Ley y su Reglamento, se procederá a la entrega de las obras a las autoridades y su correspondiente incorporación o reincorporación urbana.
 
-En caso de que la autoridad competente omita realizar el cumplimiento de acciones de urbanización, una vez que el interesado haya ejercido el derecho de ejercer la afirmativa ficta, este podrá recurrir a interponer recurso ante el Tribunal Contencioso Administrativo para los efectos legales conducentes.
+En caso de que la autoridad competente omita realizar el cumplimiento de acciones de urbanización, una vez que la persona interesada haya ejercido el derecho de ejercer la afirmativa ficta, esta podrá recurrir a interponer (sic) recurso correspondiente ante el Tribunal Estatal de Justicia Administrativa de Baja California.
+
+Cumplidas las acciones de urbanización en todos sus rubros, la o el perito, la persona propietaria o su representante según corresponda, estarán obligados a iniciar el proceso de entrega ante las dependencias correspondientes en un término no mayor a 60 días naturales. Por el incumplimiento de esta obligación se aplicarán las sanciones administrativas a que se refiere el Capítulo II del Título Octavo de esta Ley.
+
+Las dependencias estarán obligadas a dar seguimiento a los procesos de acciones de urbanización terminadas, registrando oficialmente el inicio y conclusión de las mismas, incluida la entrega-recepción del fraccionamiento, ya sea en su totalidad o en partes, según el acuerdo de fraccionamiento en un término no mayor a 60 días naturales de haberse concluido dichas acciones.
 
 ###### ARTICULO 190.
 
@@ -3192,3 +3216,19 @@ P.O. 30 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 197 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA AL ARTÍCULO 4 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 17 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 205 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 189 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 206 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 188 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA ADICIONA (SIC) UN ARTÍCULO 160 QUATER, AL MISMO ORDENAMIENTO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. Una vez entrado en vigor el presente decreto los Ayuntamientos del Estado contarán con 45 días hábiles para modificar y adecuar la reglamentación correspondiente.
+
+TERCERO. Los fraccionamientos, en la modalidad de acceso controlado, que existan desde antes de la entrada en vigor del presente decreto, tendrán un plazo de 180 días hábiles posteriores a la expedición de la reglamentación a que refiere el artículo transitorio anterior para cumplir con el presente Decreto.
