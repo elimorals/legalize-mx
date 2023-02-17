@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2022-12-20"
+last_updated: "2023-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE FEBRERO DE 2023.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -3011,7 +3011,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-TERCERO. Notifíquese a la Secretaría de Administración y Finanzas del Poder Legislativo del Estado Libre y Soberano de México, para que, en un término de noventa días hábiles, después de su entrada en vigor, provea lo necesario para el cumplimiento del presente Decreto.
+> <small>(REFORMADO, G.G. 17 DE FEBRERO DE 2023)</small>
+
+TERCERO.- Notifíquese a la Secretaría de Administración y Finanzas del Poder Legislativo del Estado Libre y Soberano de México, para que, en un término de ciento ochenta días hábiles, después de su entrada en vigor, provea lo necesario para el cumplimiento del presente Decreto.
 
 G.G. 30 DE SEPTIEMBRE DE 2022.
 
@@ -3048,3 +3050,11 @@ G.G. 20 DE DICIEMBRE DE 2022.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 17 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 131.- POR EL QUE SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 85 EXPEDIDO POR LA "LXI" LEGISLATURA POR EL QUE SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
