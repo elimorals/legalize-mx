@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-convivencia-para-las-personas-150558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-08-10"
-last_updated: "2021-09-28"
+last_updated: "2023-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150558&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2021-07-30"
 ---
 # REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PUBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACION SOCIAL AZCAPOTZALCO (CAIS AZCAPOTZALCO)
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL AVISO PUBLICADO EN LA G.O. DE 28 DE SEPTIEMBRE DE 2021, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL SÉPTIMO TRANSITORIO DEL AVISO POR EL CUAL SE DA A CONOCER EL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL AZCAPOTZALCO (CAIS AZCAPOTZALCO), PUBLICADO EN LA G.O. DE 17 DE FEBRERO DE 2023, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
 
 REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL AZCAPOTZALCO (CAIS AZCAPOTZALCO)
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE SEPTIEMBRE DE 2021 (SIN EFECTOS).
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE FEBRERO DE 2023 (SIN EFECTOS).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el martes 10 de agosto de 2021.
 
@@ -42,13 +42,15 @@ AVISO POR EL CUAL SE DA A CONOCER EL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS 
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento Interno de Convivencia es de observancia obligatoria para todas las personas residentes y las personas servidoras públicas que desempeñan sus labores en el CAIS Azcapotzalco y tiene por objeto:
+El presente Reglamento Interno de Convivencia es de interés general y de observancia obligatoria para todos los adolescentes varones residentes y las personas servidoras públicas que desempeñan sus labores en el CAIS Azcapotzalco y tiene por objeto:
 
-a).- Garantizar el derecho de los niños y adolescentes hombres en situación de desamparo que se encuentran en acogimiento de corto o largo plazo en el CAIS Azcapotzalco.
+I. Garantizar los derechos de los adolescentes varones en situación de desamparo que se encuentran en acogimiento de corto o largo plazo en el CAIS Azcapotzalco.
 
-b).- Regular el comportamiento de los niños y adolescentes hombres residentes que reciben acogimiento de corto o largo plazo en el CAIS Azcapotzalco.
+II. Regular el comportamiento de los adolescentes varones residentes que reciben acogimiento de corto o largo plazo en el CAIS Azcapotzalco.
 
 ###### Artículo 2.
 
@@ -492,19 +494,21 @@ Aquellas faltas disciplinarias que se encuentren relacionadas con la probable co
 
 El Egreso Temporal se dará en situaciones en las que el DIF-CDMX solicite la salida del (NA) hombre residente para recibir algún servicio externo. Dicha salida será informada institucionalmente a las autoridades del CAIS por lo menos con cuarenta y ocho (sic) de anticipación en el que se indicará la hora, fecha, y duración de la salida, así como el objetivo de la misma; designando al responsable del (NA) hombre para atender dicha diligencia.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 28.
 
 El egreso definitivo se llevará a cabo en las siguientes circunstancias:
 
-a) Una vez cumplido el acogimiento temporal, el egreso definitivo de los (NA) hombres se realizará a través del DIF-CDMX, quien de manera institucional informará de las acciones programadas para dicho egreso con una previsión de 7 días al cumplimiento del acogimiento temporal.
+a) Una vez cumplido el acogimiento temporal, el egreso definitivo de los adolescentes varones se realizará a través del DIF-CDMX, quien de manera institucional informará de las acciones programadas para dicho egreso con una previsión de siete días al cumplimiento del acogimiento temporal. La comunicación oficial debe incluir hora y fecha del egreso, los datos del adolescente y de la persona a quien se designó para atender tal diligencia.
 
-La comunicación oficial debe incluir hora y fecha del egreso, los datos del (NA) hombre y de la persona a quien se designó para atender tal diligencia.
+b) El día del egreso, el DIF-CDMX se presentará en hora y fecha señalada para recibir al adolescente varón.
 
-El día del egreso, el DIF-CDMX se presentará en hora y fecha señalada para recibir al (NA) hombre. El CAIS hará entrega de la documentación oficial y pertenencias personales.
+c) El CASI Azcapotzalco hará entrega de la documentación oficial y pertenencias personales del adolescente varón residente que corresponda.
 
-b) En los casos en que se haya extendido el acogimiento a largo plazo, el egreso definitivo de los (NA) hombres residentes, se realizará de la misma manera que en la finalización del acogimiento temporal.
+d) En los casos en que se haya extendido el acogimiento a largo plazo, el egreso definitivo de los adolescente hombres residentes, se realizará de la misma manera que en la finalización del acogimiento temporal.
 
-c) En los casos en que algún (NA) hombre residente esté próximo a cumplir la edad para dejar de ser población objetivo del CAIS, se realizará un atento recordatorio al DIF-CDMX para la preparación al egreso definitivo con una anticipación de 60 días para su conocimiento.
+c) En los casos en que algún adolescente hombre residente esté próximo a cumplir la edad para dejar de ser población objetivo del CAIS, se realizará un atento recordatorio al DIF-CDMX para la preparación al egreso definitivo con una anticipación de sesenta días para su conocimiento.
 
 T R A N S I T O R I O S
 
@@ -541,3 +545,21 @@ SEGUNDO.- El presente aviso entrará en vigor el día de su publicación en la G
 TERCERO.- A partir de la entrada en vigor del presente Aviso, los servicios sociales que otorga el Centro de Asistencia e Integración Social Azcapotzalco (CAIS Azcapotzalco), se proporcionarán en el Centro de Asistencia e Integración Social Coruña Jóvenes (CAIS Coruña Jóvenes).
 
 CUARTO.- En caso de presentarse alguna controversia con motivo de la interpretación, cumplimiento o algún asunto que no se encuentre expresamente previsto en el presente Aviso, será resuelto por la Coordinación General de Inclusión Social de la Secretaría de Inclusión y Bienestar Social de la Ciudad de México.
+
+G.O. 17 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE “AVISO POR EL CUAL SE DA A CONOCER EL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL AZCAPOTZALCO (CAIS AZCAPOTZALCO)”.]
+
+PRIMERO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México, para su difusión y conocimiento.
+
+SEGUNDO.- El presente Aviso y su Reglamento Interno de Convivencia, entrará en vigor al día siguiente de su publicación en el medio de difusión oficial de la Ciudad de México.
+
+TERCERO.- Las disposiciones respecto al tiempo de estancia, tipo de atención y demás servicios sociales previstos en el Reglamento Interno de Convivencia para los adolescentes varones residentes del CAIS Azcapotzalco, no tendrán efectos retroactivos para los residentes que ya se encuentren registrados.
+
+CUARTO.- El responsable del CAIS Azcapotzalco, contará con un plazo de 60 días hábiles a partir de la entrada en vigor del presente ordenamiento para que, en coordinación con su equipo multidisciplinario realicen la actualización del Plan de Vida por usuario.
+
+QUINTO. El Responsable del CAIS Azcapotzalco, contará con un plazo de 30 días hábiles a partir de la publicación del presente Reglamento Interno, para elaborar el Manual Específico de Operación del Consejo Técnico.
+
+SEXTO. En caso de presentarse alguna controversia con motivo de la interpretación, cumplimiento o algún asunto que no se encuentre expresamente previsto en el presente Aviso y su Reglamento Interno de Convivencia, será resuelto por la Coordinación General de Inclusión Social, a través del Instituto de Atención a Poblaciones Prioritarias (IAPP), ambos de la Secretaría de Inclusión y Bienestar Social de la Ciudad de México.
+
+SÉPTIMO. Con motivo de la publicacion del presente Aviso, se deja sin efectos el “AVISO POR EL QUE SE DEJA SIN EFECTOS EL REGLAMENTO INTERNO DE CONVIVENCIA PARA PERSONAS RESIDENTES Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL AZCAPOTZALCO (CASI AZCAPOTZALCO), PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, EL 10 DE AGOSTO DE 2021” publicado en la Gaceta Oficial de la Ciudad de México, el 28 de septiembre de 2021, así como todas las demás disposiciones que contravengan el presente Aviso.
