@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2022-12-30"
+last_updated: "2023-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -8987,6 +8987,8 @@ VIII. Las demás que determinen las disposiciones legales y reglamentarias aplic
 
 DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 493.
 
 Este Capítulo tiene por objeto regular los espectáculos taurinos que se realicen en el Municipio de Puebla.
@@ -10115,9 +10117,9 @@ En todo lo no previsto en el presente Capítulo se aplicarán de manera supletor
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-###### Articulo 601.
+###### Artículo 601.
 
-El presente Capítulo tiene por objeto regular la venta, consumo o enajenación de bebidas alcohólicas en los establecimientos a los que se (sic) este Capítulo.
+El presente Capítulo tiene por objeto regular la venta, consumo o enajenación de bebidas alcohólicas en los establecimientos a los que se refiere en el mismo.
 
 ###### Artículo 602.
 
@@ -10127,89 +10129,117 @@ Para los efectos del presente Capítulo se consideran como bebidas alcohólicas 
 
 La venta de bebidas alcohólicas sólo podrá realizarse en los tipos de establecimientos que señale el presente Código Reglamentario.
 
-> <small>(REFORMADO, P. O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
-Los establecimientos a que se refieren las fracciones I, II, VII, XV y XVI del artículo 611 del presente Código que menciona los tipos de establecimientos, no están autorizados para permitir el consumo de bebidas alcohólicas dentro de los mismos; por lo que el consumo de éstas sólo podrá realizarse en los locales o áreas en que operan los establecimientos que señale este Capítulo en las fracciones III, IV, V, VI, VIII, IX, X, XI, XII XIII, XIV, XVII, XVIII y XIX del citado artículo.
+Los establecimientos a que se refieren las fracciones I, II, VII, XV, XVI y XXIV del artículo 611 del presente Código que menciona los tipos de establecimientos, no están autorizados para permitir el consumo de bebidas alcohólicas dentro de los mismos; por lo que el consumo de éstas sólo podrá realizarse en los locales o áreas en que operan los establecimientos que señale este Capítulo en las fracciones III, IV, V, VI, VIII, IX, X, XI, XII XIII, XIV, XVII, XVIII, XIX, XXV y XXVI del citado artículo.
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 604.
 
-Para la apertura y funcionamiento de establecimientos en los que se vendan, enajenen o consuman bebidas alcohólicas, se requiere licencia de funcionamiento expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos, en los términos y condiciones señalados en el Código Fiscal y Presupuestario para el Municipio de Puebla; así como en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal correspondiente, y en el presente Código Reglamentario.
+Para la apertura y funcionamiento de establecimientos en los que se vendan, enajenen o consuman bebidas alcohólicas, se requiere licencia de funcionamiento expedida por la Tesorería Municipal, en los términos y condiciones señalados en el Código Fiscal y Presupuestario para el Municipio de Puebla; así como en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal correspondiente, y en el presente Código Reglamentario.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+Para los diversos trámites considerados en el presente Capítulo, en torno a licencias de funcionamiento, deberán tomarse en cuenta lo siguiente:
+
+I. En aquellos casos en que se establece la Identificación oficial vigente como un requisito, la misma será conforme a las autorizadas por la Miscelánea Fiscal;
+
+II Si el trámite lo lleva a cabo un tercero o se realiza en representación de una persona moral, se deberá acreditar la personalidad en términos del artículo 38, del Código Fiscal y Presupuestario para el Municipio de Puebla;
+
+III. Para el caso de realizar el trámite en línea, la persona solicitante deberá estar inscrita en el Padrón de Usuarios Acreditados del Municipio de Puebla, y
+
+IV. La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos no podrá solicitar requisito adicional alguno a los expresamente mencionados en el presente Capítulo. De lo contrario incurrirá en responsabilidad administrativa.
+
+Para obtener la licencia de funcionamiento, los establecimientos a que se refiere este Capítulo, deberán reunir los siguientes requisitos, de acuerdo a la modalidad que la persona interesada elija:
+
+I. Trámite presencial:
+
+a) Licencia de uso de suelo especifico vigente;
+
+b) Acuse de Apertura de establecimiento o sucursal ante el Servicio de Administración Tributaria y/o Constancia de Situación Fiscal;
+
+c) Identificación oficial vigente del solicitante, y
+
+d) Copia simple del comprobante del pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal correspondiente.
+
+II. Trámite en línea:
+
+a) Licencia de uso de suelo especifico vigente;
+
+b) Acuse de Apertura de establecimiento o sucursal ante el Servicio de Administración Tributaria y/o Constancia de Situación Fiscal, y
+
+c) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 605.
 
-Para el caso de eventos temporales que impliquen el proceso, almacenamiento, enajenación o venta de bebidas alcohólicas en botella abierta o cerrada, a solicitud del interesado y previo pago de los derechos correspondientes. La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos, otorgará una licencia provisional.
+Para el caso de eventos temporales que impliquen el proceso, almacenamiento, enajenación o venta de bebidas alcohólicas en botella abierta o cerrada, a solicitud del interesado y previo pago de los derechos correspondientes, la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos, otorgará una licencia provisional, previo cumplimiento de los siguientes requisitos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2006)</small>
+a) Solicitud por escrito dirigida al Titular del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos, incluyendo: Nombre completo, Domicilio y número de Teléfono de la persona solicitante, así como la dirección del punto de venta, fecha a realizar el evento, tipo de giro de bebida (sic) alcohólicas;
+
+b) Permiso de espectáculos públicos;
+
+c) Carta de Anuencia para venta de bebidas alcohólicas del lugar donde será el evento, y
+
+d) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
+
+Para el caso de Licencia temporal por Degustación de Bebidas Alcohólicas, el trámite se realizará en línea.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 606.
 
 Las licencias de funcionamiento expedidas a favor de personas físicas o morales, sólo podrán ser transferidas si se encuentran funcionando los establecimientos y cumplen con los requisitos establecidos en el presente Capítulo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+Se hará constar el cambio de propietario a que se refiere el párrafo anterior, ante el Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos de la Tesorería Municipal, reuniendo el licenciatario los siguientes documentos, de acuerdo con la modalidad que corresponda.
 
-Se hará constar la transferencia a que se refiere el párrafo anterior, ante el Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos de la Tesorería Municipal, reuniendo el licenciatario los siguientes documentos:
+I. Trámite presencial:
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+a) Licencia de funcionamiento, expedida por la Tesorería Municipal;
 
-a) Formato de transferencia de propietario;
+b) Acuse de Apertura de establecimiento o sucursal ante el Servicio de Administración Tributaria y/o Constancia de Situación Fiscal del nuevo propietario;
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+c) Acuse de Suspensión o cierre de actividades ante el Servicio de Administración Tributaria del anterior propietario o documento que demuestre su situación fiscal actual diferente al establecimiento;
 
-b) Licencia de funcionamiento original, expedida por la Tesorería Municipal;
+d) Identificación oficial vigente de ambos contribuyentes;
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
+e) Cesión de Derechos ratificada y protocolizada ante Notario Público, y
 
-c) Alta de Hacienda del nuevo propietario;
+f) Copia simple del comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
+II. Trámite en línea:
 
-d) Baja de Hacienda del anterior propietario;
+a) Acuse de Apertura de establecimiento o sucursal ante el Servicio de Administración Tributaria y/o Constancia de Situación Fiscal del nuevo propietario;
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
+b) Acuse de Suspensión o cierre de actividades ante el Servicio de Administración Tributaria del anterior propietario o documento que demuestre su situación fiscal actual diferente al establecimiento;
 
-e) Identificación oficial de ambos contribuyentes. Para el caso de realizar el trámite a través de un gestor, éste deberá observar lo establecido en el Artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+c) Cesión de Derechos ratificada y protocolizada ante Notario Público, y
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
+d) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
-f) Acta Constitutiva y Poder Notarial, para personas morales;
-
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
-
-g) Acta de Cesión de Derechos ante Notario Público; y
-
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2006)</small>
-
-h) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 607.
 
-Para realizar el trámite de refrendo anual o solicitar la suspensión o baja de la licencia de funcionamiento ante la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos, los interesados deberán reunir y presentar los siguientes documentos:
+Para realizar el trámite de refrendo anual o solicitar la suspensión o baja de la licencia de funcionamiento ante la Tesorería Municipal a través de la (sic) Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos, las personas interesadas deberán reunir y presentar los siguientes documentos, de acuerdo a la modalidad del trámite:
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA [N. DE E. CON SUS APARTADOS E INCISOS], P.O. 17 DE FEBRERO DE 2023)</small>
 
 I. Para el refrendo de las licencias a que se refiere este Capítulo:
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+A. Trámite presencial:
 
-a) Formato de Refrendo;
+a) Licencia de funcionamiento, expedida por la Tesorería Municipal;
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+b) Identificación oficial vigente, y
 
-b) Licencia de funcionamiento original, expedida por la Tesorería Municipal;
+c) Copia simple del comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
-c) Identificación oficial. Para el caso de realizar el trámite a través de un gestor, éste deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+B. Trámite en línea:
 
-d) Acta Constitutiva y Poder Notarial, para personas morales; y
-
-e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
+a) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -10241,21 +10271,25 @@ a) Licencia de funcionamiento original expedida por la Tesorería Municipal a tr
 
 b) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA [N. DE E. CON SUS APARTADOS E INCISOS], P.O. 17 DE FEBRERO DE 2023)</small>
 
 III. Para la baja de la licencia de funcionamiento:
 
-a) Formato de baja de la licencia de funcionamiento;
+A. Trámite presencial:
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+a) Licencia de funcionamiento expedida por la Tesorería Municipal;
 
-b) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos;
+b) Acuse de Suspensión o cierre de actividades ante el Servicio de Administración Tributaria del anterior propietario o documento que demuestre su situación fiscal actual diferente al establecimiento;
 
-c) Suspensión de actividades presentada ante la Secretaría de Hacienda y Crédito Público;
+c) Identificación oficial vigente, y
 
-d) Identificación oficial o Acta Constitutiva y Poder Notarial. Para el caso de realizar el trámite a través de un gestor, éste deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla; y
+d) Copia simple del comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
-e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
+B. Trámite en línea:
+
+a) Acuse de Suspensión o cierre de actividades ante el Servicio de Administración Tributaria del anterior propietario o documento que demuestre su situación fiscal actual diferente al establecimiento, y
+
+b) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -10321,9 +10355,13 @@ VI. BILLARES CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA ABIERTA.- Establecimie
 
 VII. PULQUERÍA. Establecimiento mercantil que se dedica exclusivamente a la venta de pulque al natural o en cualquiera de sus combinaciones y presentaciones.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 17 DE FEBRERO DE 2023)</small>
 
-VIII. VINATERÍA. Establecimiento mercantil cuya actividad preponderante es la venta de bebidas alcohólicas en botella cerrada, y que de manera accesoria puede vender ultramarinos.
+VIII. VINATERÍA. Establecimiento mercantil cuya actividad preponderante es la venta de bebidas alcohólicas en botella cerrada, en cuya licencia de funcionamiento se podrá especificar cualquiera de las siguientes modalidades para efectos del pago de los derechos correspondientes.
+
+a) Vinatería con venta al menudeo, y que de manera accesoria puede vender ultramarinos.
+
+b) Vinatería con venta al menudeo y mayoreo.
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
@@ -10375,9 +10413,9 @@ XIV. CLUBES DE SERVICIO, SOCIALES Y/O DEPORTIVOS. Local destinado a dar servicio
 
 XV. DESTILACIÓN, ENVASADORA Y BODEGA DE BEBIDAS ALCOHÓLICAS. Establecimiento mercantil en el que se fabrica, envasa y almacena bebidas alcohólicas.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2023)</small>
 
-XVI. TIENDA DE AUTOSERVICIO O DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. Establecimiento mercantil que además de contar con diferentes departamentos, expende bebidas alcohólicas en botella cerrada.
+XVI. TIENDA DE AUTOSERVICIO CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. Establecimiento mercantil que como característica es ser una tienda de conveniencia de artículos de primera necesidad y expende bebidas alcohólicas en botella cerrada, siempre y cuando la superficie del establecimiento sea menor a 2,000 m2.
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
@@ -10397,77 +10435,77 @@ XX. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2006)
 
 XXI. ALIMENTOS EN GENERAL CON VENTA DE CERVEZA EN BOTELLA ABIERTA.- Establecimiento mercantil cuya actividad preponderante es la elaboración y venta de alimentos, los cuales deben reunir las condiciones de seguridad e higiene que determine el Sector Salud y de manera complementaria la venta de cerveza en botella abierta.
 
-XXII. SALÓN DE ESPECTÁCULOS PÚBLICOS CON VENTA DE BEBIDAS ALCOHÓLICAS.- Establecimiento mercantil cuya actividad preponderante es la presentación de ARTISTAS y GRUPOS MUSICALES, quedando estrictamente obligados a cumplir con lo establecido en las disposiciones señaladas en el CAPÍTULO 12 denominado ESPECTÁCULOS PÚBLICOS, y que tiene venta al público de bebidas alcohólicas; y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
+XXII. SALÓN DE ESPECTÁCULOS PÚBLICOS CON VENTA DE BEBIDAS ALCOHÓLICAS.- Establecimiento mercantil cuya actividad preponderante es la presentación de ARTISTAS y GRUPOS MUSICALES, quedando estrictamente obligados a cumplir con lo establecido en las disposiciones señaladas en el CAPÍTULO 12 denominado ESPECTÁCULOS PÚBLICOS, y que tiene venta al público de bebidas alcohólicas;
 
-XXIII. SALA CON JUEGOS DE AZAR Y CASINOS PREVIA APROBACIÓN DE LA AUTORIDAD FEDERAL COMPETENTE Y ANUENCIA DEL CABILDO.- Establecimiento mercantil cuya actividad preponderante son los juegos de azar de tipo manual, mecánico o electrónico y que además podrá ofrecer alimentos preparados así como bebidas alcohólicas a sus clientes.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2023)</small>
+
+XXIII. SALA CON JUEGOS DE AZAR Y CASINOS PREVIA APROBACIÓN DE LA AUTORIDAD FEDERAL COMPETENTE Y ANUENCIA DEL CABILDO.- Establecimiento mercantil cuya actividad preponderante son los juegos de azar de tipo manual, mecánico o electrónico y que además podrá ofrecer alimentos preparados, así como bebidas alcohólicas a sus clientes;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2023)</small>
+
+XXIV. TIENDA DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. Establecimiento mercantil que cuenta con diferentes departamentos o áreas y ofrece una mayor variedad de artículos de diversa naturaleza a los consumidores, además expende bebidas alcohólicas en botella cerrada, siempre y cuando el establecimiento cuente con una superficie mayor a 2,000 m2;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2023)</small>
+
+XXV. CERVECERÍA. Establecimiento mercantil cuya actividad preponderante es la venta de cerveza en botella abierta. Queda estrictamente prohibido tener música en vivo y pista para bailar, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2023)</small>
+
+XXVI. BARBERÍA. Establecimiento mercantil que su actividad preponderante (sic) el corte de cabello y barba, pudiendo realizar degustación de bebidas alcohólicas.
 
 DEL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 612.
 
-Para su funcionamiento, los establecimientos a que se refiere este Capítulo, deberán reunir los siguientes requisitos:
+Para la suspensión de actividades, cambio de propietario, de denominación o domicilio, de giro comercial, aumento o disminución de giro del establecimiento mercantil de los que se regulan en el presente Capitulo se deberá dar aviso a la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos dentro de los cuarenta y cinco días hábiles siguientes al trámite realizado ante el Servicio de Administración Tributaria. Asimismo, las personas interesadas deberán reunir y presentar los siguientes documentos, de acuerdo a la modalidad del trámite:
 
-I. Obtener la apertura de Establecimiento o Alta de Hacienda tramitada ante la Secretaría de Hacienda y Crédito Público;
+I. Por cambio de domicilio del giro comercial:
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+A. Trámite presencial:
 
-II. Obtener Dictamen de Uso de Suelo, expedido por la Unidad Administrativa que resulte competente y cumplir además con las disposiciones que señale el Programa de Desarrollo Urbano de la Ciudad de Puebla, el Capítulo de Construcciones y cualquier otro ordenamiento y/o instrumento de planeación relacionado con la materia;
+a) Licencia de Uso de Suelo Especifico expedido por la Unidad Administrativa competente;
 
-III. Cumplir con todos los requisitos establecidos por el Código Fiscal y Presupuestario para el Municipio de Puebla;
+b) Licencia de funcionamiento expedida por la Tesorería Municipal;
 
-IV. Que la Licencia sea explotada por la persona física o moral a favor de quien se expidió la misma;
+c) Acuse de Cambio de domicilio o de Apertura de establecimiento o sucursal ante el Servicio de Administración Tributaria;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+d) Identificación oficial vigente, y
 
-V. Estar a una distancia mayor de 200 metros de centros educativos, salvo el establecimiento señalado en la fracción XI del artículo 611 del presente Código;
+e) Copia simple del comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
-VI. En los lugares considerados en los programas de desarrollo urbano sectoriales o parciales, se tomará en cuenta la zonificación prevista en ellos;
+B. Trámite en línea:
 
-VII. Estar incomunicados en su interior con habitaciones o cualquier otro local ajeno al establecimiento;
+a) Licencia de Uso de Suelo Especifico expedido por la Unidad Administrativa competente;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+b) Acuse de Cambio de domicilio o de Apertura de establecimiento o sucursal ante el Servicio de Administración Tributaria; y
 
-VIII. Dar aviso a la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos de la suspensión de actividades, cambio de propietario, de denominación o domicilio, de giro comercial, aumento o disminución de giro del establecimiento mercantil dentro de los treinta días hábiles siguientes al trámite realizado ante la Secretaría de Hacienda y Crédito Público.
+c) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2006)</small>
+II. Por cambio de giro comercial:
 
-Para el cambio de domicilio y cambio de giro comercial a que se refiere la fracción anterior, deberán reunirse los siguientes requisitos:
+A. Trámite presencial:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2006)</small>
+a) Licencia de Uso de Suelo Especifico expedido por la Unidad Administrativa competente;
 
-A. Por cambio de domicilio del giro comercial:
+b) Licencia de funcionamiento original expedida por la Tesorería Municipal;
 
-a) Formato de cambio de domicilio del giro comercial;
+c) Identificación oficial vigente;
 
-b) Dictamen de compatibilidad de Uso de Suelo expedido por la Unidad Administrativa competente;
+d) Acuse del Cambio de giro ante el Servicio de Administración Tributaria, y
 
-c) Comprobante del pago de derechos por el Uso de Suelo; y
+e) Copia simple del comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+B. Trámite en línea:
 
-d) Licencia de funcionamiento original expedida por la Tesorería Municipal.
+a) Licencia de Uso de Suelo Especifico expedido por la Unidad Administrativa competente;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2006)</small>
+b) Acuse del Cambio de giro ante el Servicio de Administración Tributaria, y
 
-B. Por cambio de giro comercial:
-
-a) Formato de cambio del giro comercial;
-
-b) Dictamen de Compatibilidad de Uso de Suelo expedido por la Unidad Administrativa competente;
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-c) Licencia de funcionamiento original expedida por la Tesorería Municipal;
-
-d) Aviso en Hacienda de cambio de giro comercial; y
-
-e) Pago de derecho (sic) que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+c) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
@@ -10619,9 +10657,9 @@ II. MISCELÁNEA O ULTRAMARINOS CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERR
 
 III. DEPÓSITO DE CERVEZA. De las 06:00 a las 24:00 horas;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2023)</small>
 
-IV. BODEGA DE ABARROTES Y BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. De las 6:00 a las 19:00 horas;
+IV. BODEGA DE ABARROTES Y BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA 24 horas;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
@@ -10639,67 +10677,75 @@ VII. VINATERÍA.24:00 horas para venta;
 
 VIII. CENTRO BOTANERO. De las 13:00a las 22:00 horas; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2023)</small>
 
-IX. TIENDA DE AUTOSERVICIO O DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. 24:00 horas; y
+IX. TIENDA DE AUTOSERVICIO CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. 24 horas;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 X. ALIMENTOS EN GENERAL CON VENTA DE CERVEZA EN BOTELLA ABIERTA.- De las 08:00 a las 2:00 horas.
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2005)</small>
+XI. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
+
+XII. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
+
+XIII. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
+
+XIV. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
+
+XV. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
+
+XVI. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
+
+XVII. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
+
+XVIII. (DEROGADA, P.O. 1 DE JUNIO DE 2005)
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2023)</small>
+
+XIX. HOTEL, MOTEL, AUTO HOTEL Y HOSTAL CON SERVICIO DE RESTAURANTE BAR. 24 horas;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2023)</small>
+
+XX. DESTILADORA, ENVASADORA Y BODEGA DE BEBIDAS ALCOHOLICAS. 24 horas;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2023)</small>
+
+XXI. TIENDA DEPARTAMENTAL CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA CERRADA. 24 horas, y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2023)</small>
+
+XXII. BARBERÍA. De las 9:00 a las 22:00 horas.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 616 Bis.
 
-En los comercios señalados en el presente artículo queda estrictamente prohibida la venta de bebidas alcohólicas e ingreso de clientes a partir de las 2:00Hrs.
+Los establecimientos a lo que se refiere el presente artículo podrán funcionar con los siguientes horarios:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+I. BILLARES CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA ABIERTA. De las 9:00 a las 02:00;
 
-I. BILLARES CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA ABIERTA;
+II. BOLICHE CON VENTA DE CERVEZA Y BEBIDAS REFRESCANTES CON UNA GRADUACIÓN ALCOHÓLICA DE 6º GL EN ENVASE ABIERTO; De las 9:00 a las 02:00;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+III. SALÓN SOCIAL CON VENTA DE BEBIDAS ALCOHÓLICAS. De las 07:00 a las 02:00;
 
-II. BOLICHE CON VENTA DE CERVEZA Y BEBIDAS REFRESCANTES CON UNA GRADUACIÓN ALCOHÓLICA DE 6º GL EN ENVASE ABIERTO;
+IV. CLUBES DE SERVICIO, SOCIALES Y/O DEPORTIVOS. De las 07:00 a las 02:00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+V. RESTAURANTE BAR. De las 07:00 a las 02:00;
 
-III. SALÓN SOCIAL CON VENTA DE BEBIDAS ALCOHÓLICAS;
+VI. BAR. De las 12:00 a las 02:00;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+VII. DISCOTECA. De las 18:00 a las 02:00;
 
-IV. CLUBES DE SERVICIO, SOCIALES Y/O DEPORTIVOS;
+VIII. CABARET. De las 20:00 a las 02:00;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+IX. CERVECERÍA. De las 12:00 a las 02:00;
 
-V. RESTAURANTE BAR;
+X. SALÓN DE ESPECTÁCULOS PÚBLICOS CON VENTA DE BEBIDAS ALCOHÓLICAS. De las 07:00 a las 02:00, y
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+XI. SALON DE JUEGOS DE AZAR Y CASINOS. De las 07:00 a las 02:00.
 
-VI. BAR;
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
-
-VII. DISCOTECA; y
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
-
-VIII. CABARET;
-
-IX. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2006)
-
-X. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2006)
-
-XI. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2006)
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-XII. SALÓN DE ESPECTÁCULOS PÚBLICOS CON VENTA DE BEBIDAS ALCOHÓLICAS; Y
-
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2019)</small>
-
-XIII. SALA CON JUEGOS DE AZAR Y CASINOS PREVIA APROBACIÓN DE LA AUTORIDAD FEDERAL COMPETENTE Y ANUENCIA DEL CABILDO.
-
-Dichos comercios podrán permitir que sus clientes permanezcan hasta las 3:00 Hrs., sin venta de bebidas alcohólicas, hora en la que cerrarán sus comercios, quedando estrictamente prohibida la permanencia de clientes en el interior de los mismos.
+Los comercios señalados en el presente artículo podrán permitir que sus clientes permanezcan hasta las 3:00 horas, sin venta de bebidas alcohólicas, hora en la que cerrarán sus comercios, quedando estrictamente prohibida la permanencia de clientes en el interior de los mismos.
 
 DE LAS SANCIONES
 
@@ -10941,37 +10987,55 @@ El Aviso de Apertura de Negocio es un trámite administrativo que opera únicame
 
 #### SECCIÓN III. DE LAS LICENCIAS DE FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 629.
 
-Para obtener la licencia de funcionamiento y su actualización, la persona interesada deberá presentar ante la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos los siguientes documentos:
+Para los diversos trámites considerados en el presente Capítulo, en torno a licencias de funcionamiento, deberán tomarse en cuenta las siguientes disposiciones generales:
 
-A. Licencia de funcionamiento:
+I. En aquellos casos en que se establece la Identificación oficial vigente como un requisito, la misma será conforme a las autorizadas por la Miscelánea Fiscal;
 
-I. Formato de empadronamiento;
+II. Si el trámite lo lleva a cabo un tercero o se realiza en representación de una persona moral, se deberá acreditar la personalidad en términos del artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
 
-II. Identificación oficial y comprobante domiciliario; las personas morales además deben exhibir acta constitutiva y poder notarial. Para el caso de realizar el trámite a través de tercero éste deberá observar lo previsto en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+III. Para el caso realizar el trámite en línea, el solicitante deberá estar inscrito en el Padrón de Usuarios Acreditados del Municipio de Puebla.
 
-III. Copia certificada de la Cédula de Identificación Fiscal, expedida por el Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público;
+IV. La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos no podrá solicitar requisito Adicional alguno a los expresamente mencionados en el presente artículo. De lo contrario incurrirá en responsabilidad administrativa.
 
-IV. Autorización de uso de suelo, emitida por la autoridad competente; y
+Para obtener o actualizar la licencia de funcionamiento de los establecimientos a que se refiere este capítulo se deberán reunir los siguientes requisitos, de acuerdo a la modalidad del trámite:
 
-V. Comprobante de pago de derechos que procedan conforme a lo previsto en la Ley de Ingresos del Municipio de Puebla, para el Ejercicio Fiscal vigente.
+I. Licencia de funcionamiento:
 
-B. Actualización de licencia de funcionamiento:
+A. Trámite presencial:
 
-I. Formato de actualización de licencia de funcionamiento;
+a) Licencia de uso de suelo especifico vigente;
 
-II. Licencia de funcionamiento original expedida por la Tesorería Municipal;
+b) Acuse de Apertura de establecimiento o sucursal ante el Servicio de Administración Tributaria y/o Constancia de Situación Fiscal del nuevo propietario;
 
-III. Identificación oficial. Para el caso de realizar el trámite a través de tercero, éste deberá observar lo previsto en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+c) Identificación oficial vigente, y
 
-IV. Acta constitutiva y poder notarial, para personas morales; y
+d) Copia simple del comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
-V. Comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla vigente.
+B. Trámite en línea:
 
-La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes, entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+a) Licencia de uso de suelo especifico vigente;
+
+b) Acuse de Apertura de establecimiento o sucursal ante el Servicio de Administración Tributaria y/o Constancia de Situación Fiscal del nuevo propietario, y
+
+c) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
+
+II. Actualización de licencia de funcionamiento:
+
+A. Trámite presencial:
+
+a) Copia de la licencia de funcionamiento expedida por la Tesorería Municipal;
+
+b) Identificación oficial vigente y
+
+c) Copia simple del comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
+
+B. Trámite en línea:
+
+Copia simple del comprobante de Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
 La actualización de las licencias a que se refiere el presente Capítulo, se realizará siguiendo el calendario que establezca la Tesorería Municipal, con la aprobación del Cabildo.
 
@@ -10991,25 +11055,25 @@ En este caso la persona solicitante deberá proporcionar sus datos personales, l
 
 El pago de derechos que no esté contemplado en el presente artículo estará sujeto a lo dispuesto en el Código Fiscal y Presupuestario para el Municipio de Puebla y la Ley de Ingresos del Municipio de Puebla vigente.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 629 Quater.
 
-Para el caso de los establecimientos cuyo giro comercial sea financiero, afianzadora, arrendadora, aseguradora, banco, cajero automático, casa de bolsa, casa de cambio, transporte de valores y otros servicios financieros, deberán presentar además de lo anterior, copia certificada de la autorización vigente para su constitución y operación, expedida por la Comisión Nacional Bancaria y de Valores.
+Para el caso de los establecimientos cuyo giro comercial sea financiero, afianzadora, arrendadora, aseguradora, banco, cajero automático, casa de bolsa, casa de cambio, transporte de valores y otros servicios financieros, deberán presentar además de lo anterior, la autorización vigente para su constitución y operación expedida por la Comisión Nacional Bancaria y de Valores o Institución que lo regule.
 
-Será aplicable a los establecimientos con giros comerciales de casa de empeño, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, presentar además de lo anterior, copia simple, así como el original para su cotejo del contrato de adhesión o instrumento legal, debidamente registrado ante la Institución competente que regule su actividad.
+Será aplicable a los establecimientos con giros comerciales de casa de empeño, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, presentar además de lo anterior, copia simple, así como el original para su cotejo del contrato de adhesión o instrumento legal.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 629 Quinquies.
 
-Los establecimientos con giro comercial de casa de empeño, así como las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria deberán presentar en el término de cinco días hábiles posteriores al de la aprobación de la solicitud, póliza de seguro otorgada por compañía aseguradora autorizada o en su caso, fianza cuyo monto asegurado sea equivalente al valor diario de 4,000 unidades de medida y actualización, o el suficiente para garantizar los daños y perjuicios que pudieran ocasionarse a los bienes empeñados/otorgados en prenda, misma que en ningún caso podrá ser menor a la cantidad antes estipulada; dicha póliza deberá ser refrendada anualmente, debiendo presentar copia simple de la misma para su constancia.
+Los establecimientos con giro comercial de casa de empeño, así como las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria deberán presentar en el término de cinco días hábiles posteriores al de la aprobación de la solicitud, póliza de seguro otorgada por compañía aseguradora autorizada o en su caso, fianza cuyo monto asegurado sea equivalente al valor diario de 4,000 unidades de medida y actualización, o el suficiente para garantizar los daños y perjuicios que pudieran ocasionarse a los bienes empeñados/otorgados en prenda, misma que en ningún caso podrá ser menor a la cantidad antes estipulada; dicha póliza deberá ser refrendada anualmente, debiendo presentar copia simple de la misma para su constancia; así como el recibo de pago o documento que ampare el pago de dicha póliza.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 629 Sexies.
 
-Para la actualización de la licencia de los establecimientos con giro comercial de casa de empeño, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, además deberán presentar Acta de Visita emitida por la Unidad de Normatividad y Regulación Comercial de la que se desprenda que cuenta con el registro de pignorantes correspondiente al ejercicio fiscal inmediato anterior, cuyo número deberá coincidir con el número de contratos de adhesión expedidos durante el mismo, los cuales se presentarán en copia simple ante la Tesorería Municipal únicamente para su cotejo.
+Para la actualización de la licencia de los establecimientos con giro comercial de casa de empeño, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, además deberán presentar Acta de Visita emitida por la Unidad de Normatividad y Regulación Comercial de la que se desprenda que cuenta con el registro de pignorantes correspondiente al ejercicio fiscal inmediato anterior, cuyo número deberá coincidir con el número de contratos de adhesión expedidos durante el mismo.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 629 BIS], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -11059,69 +11123,97 @@ Asimismo, colocar en lugar visible uno o varios avisos que lleven la leyenda “
 
 Artículo 629 Duodecies.- El Departamento de Licencias y Padrón de Contribuyentes a través de las instancias municipales legalmente establecidas para ello, está obligada a publicar en el sitio web del Ayuntamiento, durante el mes de febrero de cada año, la lista actualizada de las casas de empeño y compra venta de oro, cobre, monedas y metales, que cuentan con la autorización vigente de apertura para ejercer dicha actividad mercantil.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 631], P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
-Artículo 629 Terdecies.- La persona titular de la Licencia a que se refiere este Capítulo, podrá cederla hasta dos veces por cada ejercicio fiscal a cualquier persona que reúna los requisitos inherentes, o cambiar de giro comercial, obligándose aquel, a dar aviso a la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos, bajo los siguientes requisitos:
+Artículo 629 Terdecies.- El titular de la Licencia a que se refiere este Capítulo, podrá cederla hasta dos veces por cada ejercicio fiscal a cualquier persona que reúna los requisitos inherentes, o cambiar de giro comercial, bajo los siguientes requisitos, de acuerdo a la modalidad del trámite:
 
-l (sic). Transferencia o cesión de la licencia de funcionamiento:
+I. Cambio de propietario o cesión de la licencia de funcionamiento
 
-a) Formato de transferencia de la persona propietaria;
+A. Trámite presencial:
 
-b) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes;
+a) Licencia de funcionamiento, expedida por la Tesorería Municipal;
 
-c) Alta de Hacienda de la nueva persona propietaria;
+b) Acuse de Apertura de establecimiento o sucursal ante el Servicio de Administración Tributaria y/o Constancia de Situación Fiscal, del nuevo propietario;
 
-d) Baja de Hacienda de la persona anterior propietaria;
+c) Identificación oficial vigente de ambos contribuyentes;
 
-e) Identificación oficial de ambas personas contribuyentes. Para el caso de realizar el trámite a través de un tercero éste deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+d) Cesión de Derechos ratificada y protocolizada ante Notario Público, y
 
-f) Acta constitutiva y Poder Notarial, para personas morales;
+e) Copia simple del comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
-g) Acta de Cesión de derechos ante Notario Público; y
+B. Trámite en línea:
 
-h) Comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla, para el Ejercicio Fiscal vigente.
+a) Acuse de Apertura de establecimiento o sucursal ante el Servicio de Administración Tributaria y/o Constancia de Situación Fiscal, del nuevo propietario;
+
+b) Cesión de Derechos ratificada y protocolizada ante Notario Público, y
+
+c) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
 II. Cambio de giro comercial:
 
-a) Formato de cambio del giro comercial;
+A. Trámite presencial:
 
-b) Dictamen de Compatibilidad de Uso de Suelo expedido por la Unidad Administrativa competente;
+a) Licencia de Uso de Suelo Especifico expedido por la Unidad Administrativa competente;
 
-c) Licencia de Funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes;
+b) Licencia de Funcionamiento expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes;
 
-d) Aviso en Hacienda de cambio de giro comercial; y
+c) Identificación oficial vigente;
 
-e) Comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla, para el Ejercicio Fiscal vigente.
+d) Acuse de Cambio de giro ante el Servicio de Administración Tributaria, y
 
-La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+e) Copia simple del comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 632], P.O. 30 DE DICIEMBRE DE 2022)</small>
+B. Trámite en línea:
 
-Artículo 629 Quaterdecies.- Las modificaciones que haga la persona titular de la Licencia de Funcionamiento, respecto al cambio de domicilio sólo podrán (sic) hacerlo hasta dos veces por cada ejercicio fiscal o baja del giro comercial ante la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes, para lo cual se acompañará:
+a) Licencia de Uso de Suelo Especifico expedido por la Unidad Administrativa competente;
 
-I. Para cambio de domicilio del giro comercial:
+b) Acuse de Cambio de giro ante el Servicio de Administración Tributaria, y
 
-a) Formato de cambio de domicilio del giro comercial;
+c) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
-b) Dictamen de Compatibilidad de Uso de Suelo expedido por la Unidad Administrativa competente;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
-c) Comprobante del pago de derechos por el Uso de Suelo; y
+Artículo 629 Quaterdecies.- Las modificaciones que haga el titular de la Licencia de Funcionamiento, respecto al cambio de domicilio sólo podrán hacerlo hasta dos veces por cada ejercicio fiscal ante la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes, para lo cual se acompañarán los siguientes documentos, de acuerdo a la modalidad del trámite:
 
-d) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes.
+I. Por cambio de domicilio:
+
+A. Trámite presencial:
+
+a) Licencia de Uso de Suelo Especifico expedido por la Unidad Administrativa competente;
+
+b) Identificación oficial vigente;
+
+c) Licencia de funcionamiento original expedida por la Tesorería Municipal;
+
+d) Acuse de Cambio de Domicilio o de Apertura de establecimiento o sucursal ante el Servicio de Administración Tributaria, y
+
+e) Copia simple del comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
+
+B. Trámite en línea:
+
+a) Licencia de Uso de Suelo Especifico expedido por la Unidad Administrativa competente;
+
+b) Acuse de Cambio de Domicilio o de Apertura de establecimiento o sucursal ante el Servicio de Administración Tributaria, y
+
+c) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
 II. Para la baja de la licencia de funcionamiento:
 
-a) Formato de baja de la licencia de funcionamiento;
+A. Trámite presencial:
 
-b) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes;
+a) Licencia de funcionamiento original vigente expedida por la Tesorería Municipal;
 
-c) Suspensión de actividades presentada ante la Secretaria de Hacienda y Crédito Público;
+b) Acuse de Suspensión o cierre de actividades ante el Servicio de Administración Tributaria o documento que demuestre su situación fiscal actual diferente al establecimiento;
 
-d) Identificación oficial o Acta Constitutiva y Poder Notarial. Para el caso de realizar el trámite a través de un tercero, éste deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla; y
+c) Identificación oficial vigente, y
 
-e) Comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla vigente.
+d) Copia simple del comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
-La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+B. Trámite en línea:
+
+a) Acuse de Suspensión o cierre de actividades ante el Servicio de Administración Tributaria o documento que demuestre su situación fiscal actual diferente al establecimiento, y
+
+b) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla para el Ejercicio Fiscal en curso.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 633 BIS], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -13097,17 +13189,27 @@ Para las obras privadas en inmuebles con categoría 3, 4 y 5 ubicados en el Cent
 
 La/El Director de Desarrollo Urbano y los servidores públicos encargados de la supervisión de obras y el análisis para la emisión de licencias de construcción deberán tener calidad de DRO o Corresponsable. Adicionalmente, todos las/los funcionarios adscritos a la Dirección deberán recibir capacitación especializada en materia de la legislación y los procedimientos administrativos aplicables, conforme a lo establecido en este Capítulo.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 670.
 
 Para obtener la calidad de DRO y registrarse en el padrón respectivo, las y los aspirantes deben cumplir con los siguientes requisitos:
 
+I. Solicitud dirigida a la CAADROC (Original y una copia simple);
+
+II. Copia de cédula profesional de licenciatura afín;
+
+III. Comprobante domiciliario que coincida con el domicilio para notificar;
+
+IV. Acreditar la pertenencia a un Colegio de Profesionistas.
+
+V. Dos fotografías recientes tamaño infantil a color, y
+
+VI. Tomar curso de inducción y aprobarlo con calificación mínima de 80%.
+
+> <small>(DEROGADA, P.O. 17 DE FEBRERO DE 2023)</small>
+
 Tabla Requisitos DRO.
-
-> <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 36.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 11.]</small>
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -17429,41 +17531,17 @@ Notas.
 
 3. Deberá de contar con un estacionamiento por cada 250 metros cuadrados, para la carga y descarga de bienes o insumos.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 956.
 
-El criterio de estacionamientos en edificios principalmente habitacionales (área habitacional mayor que área de uso comercial o de oficinas) se aplicará de acuerdo a la siguiente tabla:
+El criterio para determinar el número de cajones de estacionamiento para viviendas Unifamiliares y Multifamiliar se aplicará de acuerdo a la siguiente tabla:
 
-Tabla 2. Criterios para usos habitacionales.
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE FEBRERO DE 2023, PÁGINAS DE LA 17 A LA 18.]</small>
 
-> <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 120.]</small>
+a) Respecto al punto 2 y punto 5 serán beneficiados con el 50% de cajones de estacionamientos, de acuerdo a lo establecido en el marco normativo del PMDUS vigente.
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 23; P.O. 15 DE NOVIEMBRE DE 2018, PÁGINAS 24 A LA 25.]</small>
-
-Notas:
-
-1. Cuando se trate de ampliaciones a vivienda unifamiliar exclusivamente, no se requerirá el suministro de cajón adicional que corresponde
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE NOVIEMBRE DE 2018)</small>
-
-2. En el caso de espacios de estacionamiento para bicicletas, está podrá reducirse previo estudio de impacto vial, dependiendo el proyecto a desarrollar, tomando en consideración la NTDeIU.
-
-> <small>(REFORMADO [N. DE E. ANTES NOTA 2], P.O. 15 DE NOVIEMBRE DE 2018)</small>
-
-3. Se deberá dejar como mínimo un cajón extra por cada 10 viviendas, de los cuales, dos serán reservados para personas con discapacidad y/o poblaciones en estado de vulnerabilidad;
-
-> <small>[N. DE E. REUBICADO ANTES NOTA 3, P.O. 15 DE NOVIEMBRE DE 2018]</small>
-
-4. Los espacios de estacionamientos para personas con discapacidad deberán contar con un ancho mínimo de 3.60 m x 6.20 m, respetado (sic) los siguientes principios:
-
-a. Señalización: la señal internacional para personas con discapacidad debe ser colocada en un lugar fácilmente visible y además pintada sobre el pavimento del cajón
-
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
-
-b. El cajón de estacionamiento deberá localizarse lo más próximo al acceso del edificio o la vivienda, procurando en todo momento que la persona con discapacidad y/o en estado de vulnerabilidad no camine o se desplace por detrás de otros autos estacionados para poder llegar a lugares especiales para su uso, y
-
-c. Cajones de estacionamiento: deberán destinarse por lo menos dos espacios
+b) Para el caso de Uso Mixto (Vivienda con comercio o servicios) donde prevalezca la vivienda se aplicará los criterios de la tabla, dándole prioridad a la misma.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -18337,29 +18415,21 @@ En caso de que solicite el trámite un representante del propietario o propietar
 
 Los trámites administrativos señalados en el artículo 1033 se gestionarán para predios y obras públicas y privadas, según corresponda.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 1041.
 
-Los requisitos generales para realizar un trámite administrativo en la Dirección serán los siguientes:
+Los requisitos generales para realizar un trámite administrativo ante la Unidad Administrativa designada para tal fin en materia de desarrollo urbano, son:
 
-I. Registrarse en el PUAM en su caso o solicitud en el formato asignado
+I. Registrarse en el PUAM en su caso, o presentar copia de RFC o CURP.
 
-II. Identificación oficial con fotografía vigente;
+II. Formato de Solicitud de Trámite debidamente requisitado. (Deberá encontrarse sellada por las áreas de Supervisión y Director Responsable de Obra, cuando aplique).
 
-III. Título que acredite la propiedad o posesión, y
+III. Copia de identificación con fotografía (INE, Licencia de Manejo, Pasaporte, Cédula Profesional o INAPAM).
 
-IV. En los casos que se requieran permisos federales, estatales o municipales, como requisito previo, se notificará al solicitante y se dará por terminado el trámite dejando a salvo los derechos del interesado para que una vez obtenidos aquellos, acuda nuevamente a la dirección a iniciar la gestión.
+IV. Formato de declaración bajo protesta de decir verdad.
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
-
-V. En caso de predios ubicados en el Centro Histórico, Áreas Patrimoniales y Monumentos, se deberá presentar la factibilidad expedida por la Gerencia, previa autorización otorgada por el INAH para tal efecto.
-
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN V, P.O. 15 DE NOVIEMBRE DE 2018]</small>
-
-La factibilidad emitida por la Gerencia, tendrá los mismos efectos a la prevista en los artículos l056 y 1057 del presente Código, tratándose de inmuebles ubicados en el Centro Histórico, Áreas Patrimoniales y Monumentos; por lo que cualquier autorización que expida la Dirección deberá de apegarse a lo establecido por la misma.
-
-Todos los documentos señalados en el presente artículo deben presentarse en original para su cotejo y copia simple legible, o en su caso, copia digital escaneada en formato PDF resolución de 100 a 150 DPI.
+V. En caso de predios ubicados en el Centro Histórico, Áreas Patrimoniales y Monumentos se deberá presentar la factibilidad expedida por la Gerencia del Centro Histórico o similar.
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -18469,13 +18539,25 @@ El costo de los derechos por el alineamiento y asignación de número oficial, s
 
 Para determinar el alineamiento y asignar un número oficial a un predio, la Dirección debe utilizar las herramientas señaladas en el artículo 1032 del presente apartado. No obstante, en caso de que el predio no se encuentre identificado geográficamente en el SIGM, la Dirección podrá requerir al solicitante, los antecedentes que soporten su identificación geográfica real, para lo cual debe notificárselo por escrito, mencionando las circunstancias del caso, los trámites internos que deberá realizar para lograr la ubicación, así como el tiempo estimado en que se llevará a cabo el análisis, esta solicitud suspende el tiempo establecido en el artículo anterior para la expedición.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 1053.
 
-La constancia de alineamiento y asignación de número oficial, se expedira de conformidad con lo señalado en la siguiente tabla:
+La constancia de alineamiento y asignación de número oficial, se expedirá de conformidad con lo siguiente, adicional a los requisitos generales:
 
-> <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 139.]</small>
+I. Documento que acredite la propiedad o posesión.
+
+a. En caso de que provenga de un juicio, presentar el auto que cause ejecutoria.
+
+En caso que no coincida el nombre y/o apellidos señalados en la identificación oficial y el título de propiedad, se requerirá carta bajo protesta de decir verdad, en la que se establezca que se trata de la misma persona.
+
+El tiempo máximo de resolución, una vez integrado en su totalidad el expediente, será de 3 días hábiles.
+
+La Vigencia de la constancia será en tanto no se modifique el PMDUS.
+
+> <small>(DEROGADA, P.O. 17 DE FEBRERO DE 2023)</small>
+
+Tabla Alineamiento y número oficial.
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -18511,19 +18593,27 @@ Los usos y destinos de suelo permitidos son los que se encuentran determinados e
 
 También se expedirá factibilidad de uso de suelo para escuelas de cualquier nivel y para viviendas hasta cuatro unidades y cambio de régimen.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 1058.
 
-La factibilidad de uso de suelo se expedirá de conformidad con lo señalado en la siguiente tabla:
+Para la obtención de la Factibilidad de Uso de Suelo se requerirá lo siguiente, adicional a los requisitos generales, Copia de la Constancia de Alineamiento y Número Oficial.
+
+En el caso de requerirse para un Centro Educativo, se requerirá:
+
+I. Reporte fotográfico a color, 2 interiores y 2 exteriores, y
+
+II. En caso de encontrarse en Zona de Monumentos presentar opinión técnica favorable emitida por la Gerencia del Centro Histórico y Patrimonio Cultural.
+
+En el caso de tratarse de proyectos de alto impacto, con fundamento en lo establecido en el nivel normativo contenido dentro del PMDUS vigente se requerirá Estudio de Impacto Urbano Territorial elaborado por un especialista en la materia, a cargo del solicitante.
+
+El tiempo máximo de resolución, una vez integrado en su totalidad el expediente, será de 10 días hábiles.
+
+Vigencia de la Factibilidad de Uso de Suelo será en tanto no se modifique el PMDUS.
+
+> <small>(DEROGADA, P.O. 17 DE FEBRERO DE 2023)</small>
 
 Tabla Factibilidad de uso de suelo.
-
-> <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 140.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 26; P.O.15 DE NOVIEMBRE DE 2018, PÁGINA 28]</small>
-
-Nota: En caso de que las obras no acrediten la antigüedad de cinco años, se deberá presentar licencia de uso de suelo y constancia de construcción existente.
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -18539,13 +18629,21 @@ a. Cuando exista duda sobre la relación de un predio específico y la ubicació
 
 b. Para validar la proyección de las vialidades internas de fraccionamientos independientemente de su régimen de propiedad.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 1060.
 
-El dictamen de integración vial se expedirá de conformidad con lo señalado en la siguiente tabla:
+El Dictamen de Integración Vial se expedirá para predios suburbanos o rurales cuya ubicación requiera la traza de una vialidad para su acceso.
 
-> <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 141.]</small>
+Adicional a los requisitos generales se solicitará levantamiento topográfico en coordenadas UTM. Impreso en formato 90x60 y respaldo digital DWG.
+
+El tiempo máximo de respuesta, una vez integrado en su totalidad el expediente, será de 5 días hábiles.
+
+Vigencia del Dictamen de Integración Vial será en tanto no se modifique el PMDUS.
+
+> <small>(DEROGADA, P.O. 17 DE FEBRERO DE 2023)</small>
+
+Tabla Dictamen de integración vial.
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -18777,17 +18875,41 @@ La Dirección expedirá a solicitud de un interesado la Licencia de uso de suelo
 
 La Licencia de uso de suelo contendrá las normas y condiciones bajo las cuales se deberán expedir las licencias de urbanización, licencia de obra mayor o menor, licencia de obra específica, autorización para acciones urbanisticas establecidas en el PMDUS y el presente Capítulo.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 1072.
 
-La Licencia de uso de suelo se expedirá de conformidad con lo señalado en la siguiente tabla:
+Para la obtención de la Licencia de Uso de Suelo se requerirá lo siguiente, adicional a los requisitos generales:
 
-Tabla Licencia de uso de suelo.
+I. Copia de la Constancia de Alineamiento y Número Oficial;
 
-> <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 144.]</small>
+II. Proyecto Arquitectónico (Plantas, cortes y fachadas) con cuadro de áreas;
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 27.]</small>
+III. Reporte fotográfico a color, 2 exteriores y 2 interiores;
+
+IV. Factibilidad de servicios de agua potable, drenaje y alcantarillado para proyectos de alto impacto;
+
+V. Factibilidad de Uso de Suelo para proyectos de alto impacto o incremento de densidad y coeficientes;
+
+VI. Dictamen de Áreas para fraccionamientos y desarrollos en condominio de cualquier tipo;
+
+VII. Factibilidad expedida por la Gerencia del Centro Histórico y Patrimonio Cultural, en caso de estar ubicada el área en el Centro Histórico, Zona de monumentos y áreas patrimoniales, y
+
+VIII. Opinión por Zona de Riesgo emitida por la autoridad municipal competente para los casos donde la ubicación del predio se encuentre en condición de vulnerabilidad indicado en el Atlas de Riesgo;
+
+Para el caso de las Antenas de Comunicaciones se requerirá:
+
+a) Carta de No inconveniente de 10 vecinos inmediatos, en un radio de 50 metros lineales, y
+
+b) Copia de la autorización por el área de Aeronáutica por la Secretaría de Comunicaciones y Transportes, en los casos determinados por la normatividad aplicable.
+
+El tiempo máximo de resolución, una vez integrado en su totalidad el expediente, será de 5 días hábiles.
+
+Vigencia, en tanto no se modifique el PMDUS.
+
+> <small>(DEROGADA, P.O. 17 DE FEBRERO DE 2023)</small>
+
+Tabla Dictamen de integración vial. (sic)
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -18799,17 +18921,43 @@ Licencia de Uso de Suelo Específico.
 
 La Dirección expedirá la Licencia de uso de suelo específico para autorizar establecimientos de los giros determinados en la carta Urbana que forma parte del PMDUS.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 1074.
 
-La licencia de uso de suelo específico se expedirá de conformidad con lo señalado en la siguiente tabla:
+Para la obtención de la Licencia de Uso de Suelo Específico se requerirá lo siguiente, adicional a los requisitos generales:
 
-Tabla uso de suelo específico.
+I. Comprobante de domicilio (recibo de luz, agua, teléfono, gas o internet) o Constancia de Alineamiento y No. Oficial del inmueble del cual se necesita el trámite;
 
-> <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 144.]</small>
+II. Derivada de Número Oficial en caso de ser un local al interior de un proyecto (en caso de que aplique);
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 27 Y EN LA SEGUNDA SECCIÓN DEL P.O. 7 DE SEPTIEMBRE DE 2018, PÁGINA 9.]</small>
+III. Reporte fotográfico a color, 2 interiores y 2 exteriores, y
+
+IV. Resolutivo de Manifiesto de Impacto Ambiental para los proyectos establecidos en el artículo 38, de la Ley para la Protección del Ambiente Natural y del Desarrollo Sustentable del Estado de Puebla, (cuando aplique).
+
+a) En caso de ser Centro Educativo nivel básico, medio, medio superior o superior o de enseñanza:
+
+I. Dictamen Estructural firmado por D.R.O.;
+
+II. Opinión por Zona de Riesgo emitido por la Dirección de Gestión de Riesgos en Materia de Protección Civil u homóloga, y
+
+III. Área de estacionamiento, convenio o contrato certificado ante Notario Público.
+
+b) En caso de construcciones menores a 5 años de antigüedad deberá presentar Constancia de Terminación de Obra o Constancia de Regularización de Obra.
+
+c) En caso de construcciones mayores a 5 años de antigüedad deberá presentar Constancia de Construcción Existente.
+
+d) En el caso de ubicarse en la Zona de Monumentos deberá presentar Opinión Técnica favorable emitida por la Gerencia del Centro Histórico y Patrimonio Cultura o su similar.
+
+e) En caso de ubicarse dentro de la Central de Abastos presentar:
+
+I. Anuencia para el giro comercial emitida por el Consejo General de la Central de Abastos, y
+
+II. Opinión favorable por parte de la Dirección de Mercados de la Secretaría de Economía y Turismo.
+
+f) Para el caso de establecimiento con venta de bebidas alcohólicas en botella abierta o en copeo, estar a una distancia mayor de 200 metros lineales de centros educativos de nivel básico, medio, medio superior y/o superior, medidos a partir del acceso del inmueble y hasta el principal acceso del centro educativo, sobre la traza urbana que describe la acera que comunica ambos inmuebles.
+
+El tiempo máximo de respuesta, una vez integrado en su totalidad el expediente, será de 5 días hábiles
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -18973,17 +19121,49 @@ III. Instalación de cualquier elemento fijado al suelo (por ejemplo: casetas, a
 
 La Dirección expedirá la Licencia de obra mayor respecto a la construcción de un proyecto específico sobre un inmueble determinado, independientemente de su régimen jurídico.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 1091.
 
-El Permiso para la Licencia de obra mayor se expedirá de conformidad con lo señalado en la siguiente tabla:
+Para la obtención de la Licencia de Construcción de Obra Mayor se requerirá lo siguiente, adicional a los requisitos generales:
+
+I. Licencia de Uso de Suelo;
+
+II. Proyecto Arquitectónico completo, Proyecto de Ingenierías (Estructural, Instalaciones Eléctricas, Hidráulicas, Sanitarias, Pluviales, Especiales y Mecánicas) y en su caso de Restauración, planos impresos en formato 90x60 y en DWG (2 juegos) y responsivas, firmados por el DRO y Corresponsables. Para el caso de los proyectos tipo III, deberá firmar el proyectista, así como el constructor responsable de la ejecución de la obra.
+
+III. Memoria Descriptiva y Cálculo Estructural;
+
+IV. Resolutivo Favorable de la Manifestación de Impacto Ambiental para los proyectos establecidos en el artículo 38, de la Ley para la Protección del Ambiente Natural y del Desarrollo Sustentable del Estado de Puebla;
+
+V. Resolutivo favorable de Medidas de Mitigación y Plan de Manejo de Residuos Sólidos de Manejo Especial, emitidos por la autoridad competente, cuando aplique;
+
+VI. Carnet vigente de D.R.O y Corresponsables;
+
+VII. Dictamen de Impacto Vial, para proyectos de alto impacto;
+
+VIII. Factibilidad de Servicios de Agua, Drenaje y Sanitario;
+
+IX. Factibilidad de Servicios de Energía Eléctrica, y
+
+X. Programa Especial de Protección Civil para obras en proceso constructivo.
+
+Para el caso de Estaciones de Gas Licuado de Petróleo para Carburación (Gas LP) y Estación de Servicio de Gas Natural Comprimido (GNC) de llenado rápido y estaciones de servicio duales se estará a lo establecido en la norma oficial mexicana NOM-010-SECRE-2002 y en la NOM-001-SESH-2014.
+
+Para el caso de Fraccionamientos o Desarrollos en Régimen de Propiedad en Condominio de cualquier tipo, el fraccionador o desarrollador determinará, si es el caso, el número de etapas en las cuales ejecutará su proyecto, por lo que, las Constancias de Terminación de Obra se emitirán para cada una de las etapas que se determinaron, iniciando una siguiente etapa posterior a la conclusión total de la etapa que le antecede.
+
+Ambos proyectos estarán a lo dispuesto en la Ley de Fraccionamientos y Acciones Urbanísticas del Estado Libre y Soberano del Estado de Puebla.
+
+El tiempo máximo de resolución, una vez integrado en su totalidad el expediente, será de 15 días hábiles.
+
+La vigencia será en términos del artículo 126 de la Ley de Ordenamiento Territorial del Estado de Puebla que determine la autoridad administrativo urbana.
+
+Para efectos de que se emita Licencia de Construcción de Obra Mayor sin contar con el Resolutivo Favorable del Manifiesto de Impacto Ambiental, se otorga el plazo de 90 días naturales para exhibir la misma. Lo anterior en el entendido de que no podrá iniciarse ejecución de obra, sino hasta que la Dirección de Desarrollo Urbano cuente con la copia exhibida, previo cotejo con el original, del Resolutivo favorable de impacto ambiental emitido por la Secretaría Estatal competente.
+
+Por lo que, una vez transcurrido el plazo señalado, sin que se haya exhibido el Resolutivo aludido, quedará sin efectos automáticamente la Licencia de Obra Mayor condicionada.
+
+> <small>(DEROGADA, P.O. 17 DE FEBRERO DE 2023)</small>
 
 Tabla de obra mayor.
-
-> <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINAS DE LA 149 Y 150.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 27 DE OCTUBRE DE 2017, PÁGINA 29.]</small>
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -19279,19 +19459,35 @@ Si en la diligencia de supervisión se detecta que existe incongruencia entre el
 
 En la constancia de terminación de obra para fraccionamientos, la Dirección manifestará que está de acuerdo con iniciar el procedimiento de municipalización o edificación de conjuntos habitacionales en su caso.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 1120.
 
-El Permiso para la Constancia de terminación de obra se expedirá de conformidad con lo señalado en la siguiente tabla:
+Para la obtención de la Constancia de Terminación de Obra, la licencia de construcción deberá estar vigente y se requerirá lo siguiente, adicional a los requisitos generales:
 
-> <small>[N. DE E. VÉASE TABLA EN LA QUINTA SECCIÓN DEL P.O. 10 DE ABRIL DE 2017, PÁGINA 158.]</small>
+I. Planos arquitectónicos autorizados;
 
-NOTAS.
+II. Constancia de cumplimiento en materia de Protección Civil del Programa Especial de Obra;
 
-1. El tiempo de respuesta es estimado, ya que depende del previo cumplimiento de los requisitos establecidos en el presente Capítulo y las fichas de trámites y servicios validadas por la Contraloría.
+III. Validación de las Medidas de Mitigación establecidas en el Dictamen de Impacto Vial;
 
-2. Las constancias, factibilidades y dictámenes no autorizan la utilización o aprovechamiento del suelo, siendo documentos de carácter meramente indicativo.
+IV. Bitácora de Obra, y
+
+V. Acreditación de la disposición final de los residuos sólidos de manejo especial en el Banco de Tiro autorizado por la Secretaria Estatal competente en materia de Medio Ambiente.
+
+En caso de Obras de Urbanización sujetas a Municipalización deberá presentar:
+
+I. Fianza de Vicios Ocultos por las obras de urbanización por un periodo de 1 año con un valor del 10% del costo total de las propias obras de urbanización.
+
+En caso de que el proyecto autorizado tenga modificaciones superiores al 20% se presentará el proyecto con las modificaciones que se hayan realizado.
+
+En caso de Estaciones de Servicio de Gasolina, Diésel, Gas LP o Gas Natural se presentará la liberación emitida por la Comisión Reguladora de Energía (CRE).
+
+El tiempo máximo de respuesta será de tres días hábiles contados a partir de la visita, siempre y cuando no exista cambio de proyecto mayor al 20%.
+
+> <small>(DEROGADA, P.O. 17 DE FEBRERO DE 2023)</small>
+
+TABLA.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2017)</small>
 
@@ -27639,9 +27835,9 @@ DEL REFRENDO Y DE LA CESIÓN DE DERECHOS
 
 El prestador del servicio refrendará anualmente la licencia de estacionamiento, y podrá ceder sus derechos sobre dicho servicio.
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
-Los interesados deberán presentar ante la Tesorería, dentro de los treinta días anteriores a la fecha de vencimiento de la licencia, su solicitud de revalidación acompañada de una fotocopia en donde conste que la póliza de seguro obligatoria estará vigente durante el año en que prestará el servicio.
+Los interesados deberán presentar ante la Tesorería, dentro de los treinta días anteriores a la fecha de vencimiento de la licencia, su solicitud de revalidación acompañada de una fotocopia en donde conste que la póliza de seguro obligatoria estará vigente durante el año en que prestará el servicio, así como el recibo de pago o documento que ampare el pago de dicha póliza.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
@@ -40488,6 +40684,14 @@ TERCERO. Se derogan todas las disposiciones que se opongan a lo establecido en e
 P.O. 30 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 25 DE DICIEMBRE DE 2022, POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CAPÍTULO 10 “TRÁNSITO MUNICIPAL, MOVILIDAD Y SEGURIDAD VIAL” DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 17 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 31 DE ENERO DE 2023, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE MEJORA REGULATORIA DE LOS CAPÍTULOS 14, “VENTA DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE PUEBLA”; 15 “ESTABLECIMIENTOS DE GIROS COMERCIALES AUTORIZADOS”; 17 “DE LA GESTIÓN DEL SUELO Y CONSTRUCCIONES” Y 24 “DEL SERVICIO PÚBLICO DE ESTACIONAMIENTO”, TODOS DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
 
 PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
