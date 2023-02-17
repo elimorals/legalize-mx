@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-centro-de-mediacion-del-poder-judicial-del-57194
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-21"
-last_updated: "2007-09-21"
+last_updated: "2023-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 REGLAMENTO DEL CENTRO DE MEDIACION DEL PODER JUDICIAL DEL ESTADO DE QUERETARO ARTEAGA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2023 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 21 de septiembre de 2007.
 
@@ -578,3 +578,15 @@ LIC. CARLOS RAFAEL ESCALANTE MUNGUÍA
 SECRETARIO AUXILIAR DE ACUERDOS
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. Publíquese este reglamento en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” y en la página oficial del Poder Judicial del Estado de Querétaro.
+
+Artículo Segundo. Este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Tercero. Se abroga el Reglamento del Centro de Mediación del Poder Judicial del Estado de Querétaro, publicado 21 de septiembre de 2007, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” y se derogan las disposiciones que contravengan lo dispuesto en este Reglamento.
