@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2022-04-16"
+last_updated: "2023-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2023.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -1785,11 +1785,15 @@ V.- A través de Asociaciones Público Privadas.
 
 A falta del convenio a que se refiere la fracción IV del artículo anterior, el ayuntamiento podrá solicitar que el Congreso, mediante estudio técnico, declare que el municipio se encuentra imposibilitado para ejercer una función o prestar un servicio público, a efecto de que el ejecutivo del Estado la ejerza o lo preste.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+ARTICULO 88 BIS.- El saneamiento y limpieza de construcciones deshabitadas, y lotes baldíos comprendidos dentro de las zonas urbana y rural es obligación de sus propietarios o poseedores. Para tal efecto, se prohíbe utilizar los herbicidas altamente tóxicos, así como aquellas sustancias químicas que se encuentran prohibidas en los tratados internacionales donde el Estado Mexicano es parte. Dicha disposición de ser violatoria por parte de estos, se aplicará lo dispuesto en el artículo 123 de esta Ley.
+
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2015)</small>
 
-ARTICULO 88 BIS.- El saneamiento y limpieza de construcciones deshabitadas, y lotes baldíos comprendidos dentro de las zonas urbana y rural es obligación de sus propietarios o poseedores.
-
 Cuando no se cumpla esta disposición, la autoridad municipal correspondiente, notificará por cualquier medio indubitable al propietario o poseedor del inmueble, para requerirle que debe proceder a la limpieza del mismo dentro de un término máximo de ocho días hábiles, apercibiéndolo que en caso de incumplimiento se hará cargo de ello personal autorizado del Ayuntamiento, cubriendo el propietario los derechos de este servicio de acuerdo a la Ley de Hacienda del Municipio de que se trate, sin perjuicio de la aplicación de las multas a que se haga acreedor.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2015)</small>
 
 Los Ayuntamientos deberán establecer y desarrollar en su reglamento correspondiente el procedimiento que establece el párrafo anterior de este artículo, respetando la garantía de audiencia de los ciudadanos requeridos, el derecho de propiedad privada y estableciendo la hipótesis en que se puede notificar personalmente al propietario o poseedor, como cuando se ignore su domicilio, el de su representante, o se encuentre fuera del territorio municipal.
 
@@ -2734,3 +2738,13 @@ P.O. 16 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 77.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 38, 39 Y 56 BIS DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 18 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 241.- POR EL QUE SE ADICIONAN DOS FRACCIONES PASANDO A SER ESTAS LAS XLVI Y LXVII AL ARTÍCULO 3º HACIÉNDOSE EL CORRIMIENTO RESPECTIVO DE LAS SUBSECUENTES FRACCIONES, Y SE REFORMA EL ARTÍCULO 90 PÁRRAFO TERCERO DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO 88 BIS PÁRRAFO PRIMERO DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Los Ayuntamientos del Estado contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, para reformar su reglamentación correspondiente para el saneamiento y limpia de construcciones deshabitadas y lotes baldíos en los términos que establece este decreto.
+
+TERCERO. Los Ayuntamientos del Estado contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, para reformar su reglamentación correspondiente en materia de ecología y/o ambiental en los términos que establece este decreto.
