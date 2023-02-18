@@ -1,0 +1,104 @@
+---
+title: "LEY DE INGRESOS DEL MUNICIPIO DE SANTIAGO APOSTOL, DISTRITO DE OCOTLAN, OAXACA, PARA EL EJERCICIO FISCAL 2023"
+identifier: "OAX-ley-de-ingresos-del-municipio-de-santiago-apostol-distrito-164588"
+country: "mx"
+rank: "ley_de_ingresos"
+publication_date: "2023-02-18"
+last_updated: "2023-02-18"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164588&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-oax"
+scjn_id: "164588"
+scjn_status: "NO VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "7 SEPTIMA SECCION"
+reform_count: "0"
+scjn_last_update: "2023-02-18"
+issue_date: "2023-01-30"
+municipality: "Santiago Apóstol"
+municipality_inegi: "20452"
+state: "OAX"
+---
+# LEY DE INGRESOS DEL MUNICIPIO DE SANTIAGO APOSTOL, DISTRITO DE OCOTLAN, OAXACA, PARA EL EJERCICIO FISCAL 2023
+
+LEY DE INGRESOS DEL MUNICIPIO DE SANTIAGO APÓSTOL, DISTRITO DE OCOTLÁN, OAXACA, PARA EL EJERCICIO FISCAL 2023
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Séptima Sección del Número 7del Periódico Oficial del Estado de Oaxaca, el sábado 18 de febrero de 2023.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+###### Artículo 35.
+
+El pago de los derechos a que se refiere esta sección, debe hacerse previo a la expedición de las certificaciones y constancias y se pagará conforme a las siguientes cuotas:
+
+Concepto Cuota en pesos
+
+(NOTA: EL 11 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 76/2023 Y SUS ACUMULADAS 80/2023 Y 83/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I. COPIAS DE DOCUMENTOS EXISTENTES EN
+
+LOS ARCHIVOS DE LAS OFICINAS MUNICIPALES 5.00
+
+II. Expedición de certificados de residencia, origen,
+
+dependencia económica, de situación fiscal actual o pasada,
+
+de contribuyentes inscritos en la Tesorería
+
+Municipal, de morada conyugal 50.00
+
+III. Certificación de la superficie de un predio 50.00
+
+IV. Constancia de ganado 50.00
+
+(NOTA: EL 11 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 76/2023 Y SUS ACUMULADAS 80/2023 Y 83/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+V. BÚSQUEDA DE DOCUMENTOS EN
+
+ARCHIVO MUNICIPAL 100.00
+
+VI. Constancia de No adeudo municipal 100.00
+
+II. (Sic) Demás certificaciones que las disposiciones legales y
+
+reglamentarias definan a cargo del Ayuntamiento. 100.00
+
+###### Artículo 58.
+
+El Municipio percibe ingresos, por las siguientes fallas administrativas:
+
+Concepto Cuota en pesos
+
+(NOTA: EL 11 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 76/2023 Y SUS ACUMULADAS 80/2023 Y 83/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+l. ESCÁNDALO EN LA VÍA PÚBLICA 500.00
+
+II. Uso de bebidas embriagantes y estupefacientes
+
+en la vía publica 500.00
+
+III. Hacer necesidades fisiológicas en vía publica 500.00
+
+IV. Desperdiciar o tirar el agua potable 400.00
+
+V. Tirar basura y desechos tóxicos en la vía publica 500.00
+
+VI. Quemar basura 500.00
+
+VII. Provocar accidentes automovilísticos 500.00
+
+VIII. Riñas en la vía publica 500.00
+
+IX. Romper banquetas o pavimentos sin permiso 500.00
+
+X. Venta de material pirotécnico sin permiso 500.00
+
+XI. Cierre de vías públicas sin permiso 500.00
+
+XII. Provocar incendios forestales 500.00
+
+XIII. Quemar juegos pirotécnicos sin permiso 500.00
