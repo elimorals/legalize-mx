@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2022-12-31"
+last_updated: "2023-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2023.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -2095,20 +2095,6 @@ Sólo se procederá contra el activo, previa querella de la víctima u ofendido,
 
 ### CAPÍTULO V. VIOLENCIA DIGITAL
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2022)</small>
-
-ARTÍCULO 152 TER. Comete el delito de acoso sexual, al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, será sancionado con seis meses a un año de prisión y multa de cincuenta a cien unidades de medida y actualización.
-
-Solamente será punible el acoso sexual cuando se cause daño o perjuicio.
-
-Solo se procederá contra el activo, previa querella de la víctima u ofendido, y tratándose de menores, por conducto de quienes ejerzan la patria potestad, tutores, representantes de hecho o de derecho y a falta de estos por el Procurador de Protección de Niñas, Niños y Adolescentes.
-
-Al responsable del delito de acoso sexual, cuando el pasivo sea menor de dieciocho años de edad, tenga alguna discapacidad, no tenga capacidad para comprender el significado del hecho o no tenga la capacidad para resistirlo, se le impondrá una pena de un año a un año seis meses de prisión y multa por el importe equivalente de cien a ciento cincuenta días de unidades de medida y actualización y en este caso de (sic) perseguirá de oficio.
-
-Se impondrá de ocho meses a año seis meses de prisión y multa de cien a ciento cincuenta unidades de medida y actualización al responsable de acoso sexual que, haciendo uso de medios de radiodifusión, telecomunicaciones, informáticos o cualquier otro medio de transmisión de datos, requiera o comparta imágenes, audio o video del acoso sexual o solicite un encuentro sexual.
-
-En caso de reincidencia las sanciones previstas en este artículo se incrementarán en una mitad.
-
 ###### ARTÍCULO 149.
 
 Al que sin el consentimiento de una persona y sin el propósito directo o inmediato de llegar a la cópula ejecute en ella un acto erótico sexual o la obligue a ejecutarlo, se le impondrá prisión de dos a ocho años y multa por el importe equivalente de doscientas a trescientas unidades de medida y actualización.
@@ -2181,7 +2167,21 @@ Se impondrá de un año a tres años de prisión y multa de doscientas cincuenta
 
 En caso de que el acosador sea un servidor público además de la pena mencionada se le sancionará con la destitución e inhabilitación por un tiempo igual al de la pena corporal impuesta.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE MAYO DE 2020)</small>
+(REPUBLICADO Y REUBICADO [N. DE E. ANTES EN CAPÍTULO V DE ESTE TÍTULO SEGUNDO], P.O. 18 DE FEBRERO DE 2023)
+
+ARTÍCULO 152 TER. Comete el delito de acoso sexual, al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, será sancionado con seis meses a un año de prisión y multa de cincuenta a cien unidades de medida y actualización.
+
+Solamente será punible el acoso sexual cuando se cause daño o perjuicio.
+
+Solo se procederá contra el activo, previa querella de la víctima u ofendido, y tratándose de menores, por conducto de quienes ejerzan la patria potestad, tutores, representantes de hecho o de derecho y a falta de estos por el Procurador de Protección de Niñas, Niños y Adolescentes.
+
+Al responsable del delito de acoso sexual, cuando el pasivo sea menor de dieciocho años de edad, tenga alguna discapacidad, no tenga capacidad para comprender el significado del hecho o no tenga la capacidad para resistirlo, se le impondrá una pena de un año a un año seis meses de prisión y multa por el importe equivalente de cien a ciento cincuenta días de unidades de medida y actualización y en este caso se perseguirá de oficio.
+
+Se impondrá de ocho meses a año seis meses de prisión y multa de cien a ciento cincuenta unidades de medida y actualización al responsable de acoso sexual que, haciendo uso de medios de radiodifusión, telecomunicaciones, informáticos o cualquier otro medio de transmisión de datos, requiera o comparta imágenes, audio o video del acoso sexual o solicite un encuentro sexual.
+
+En caso de reincidencia las sanciones previstas en este artículo se incrementarán en una mitad.
+
+> <small>(DEROGADO, P.O. 18 DE FEBRERO DE 2023)</small>
 
 ### CAPÍTULO II. REPRODUCCIÓN ASISTIDA INDEBIDA
 
@@ -2283,7 +2283,7 @@ Si el agente espontáneamente pone en libertad a la víctima dentro de los dos d
 
 ### CAPÍTULO I. CORRUPCIÓN DE MENORES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 162.
 
@@ -2311,7 +2311,7 @@ Si el sujeto activo espontáneamente y antes de tres días reintegra al menor o 
 
 ###### ARTÍCULO 164.
 
-Al que obligue, induzca, procure, o facilite, a persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho o no se pueda resistir a éste, a realizar actos de exhibicionismo corporal, a la práctica de la ebriedad, la prostitución o cualquier otras prácticas sexuales, o la corrupción de cualquier naturaleza, se le impondrán de dos a ocho años de prisión, y multa por un importe equivalente de cien a ciento cincuenta unidades de medida y actualización.
+Al que por cualquier medio, incluido el uso de las tecnologías de la información, los medios de comunicación personales digitales y las redes sociales, obligue, induzca, procure, o facilite, a persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho o no se pueda resistir a éste, a realizar actos de exhibicionismo corporal, a la práctica de la ebriedad, la prostitución o cualquier otras prácticas sexuales, o la corrupción de cualquier naturaleza, se le impondrán de dos a ocho años de prisión, y multa por un importe equivalente de cien a ciento cincuenta unidades de medida y actualización.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -3266,6 +3266,10 @@ Al que mediante violencia obligue a otro a hacer, omitir, o tolerar algo, se le 
 ARTÍCULO 224 BIS. Comete el delito de Usurpación de Identidad al que por sí o por interpósita persona, usando cualquier medio lícito o ilícito, se apoderé, apropie, transfiera, utilice o disponga de datos personales sin autorización de su titular o bien suplante la identidad de una persona, con la finalidad de cometer un ilícito o favorecer su comisión.
 
 Se sancionará con prisión de tres meses a siete años y multa de cien a cuatrocientas unidades de medida y actualización, y en su caso la reparación del daño causado a quien cometa el delito de Usurpación de Identidad.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+Se equipara al delito de usurpación de identidad y se impondrán las penas previstas en este artículo, al que por sí o por interpósita persona, a través de internet, las tecnologías de la información, los medios de comunicación, suplante la identidad de una persona, con el propósito de beneficiar o perjudicar a alguien.
 
 Las penas previstas en este artículo se incrementarán en una mitad cuando el autor asuma la identidad de un menor de edad o tenga contacto con una persona menor de dieciséis años, con la finalidad de ejecutar cualquier acto sexual, aunque mediare su consentimiento. Asimismo, se incrementarán las penas en una mitad cuando el autor de dicha conducta sea funcionario público en ejercicio de sus funciones.
 
@@ -4858,3 +4862,23 @@ P.O. 31 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 220.- POR EL QUE SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 124 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 18 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 242.- POR EL QUE SE APRUEBAN LAS OBSERVACIONES REALIZADAS POR LA PERSONA TITULAR DEL PODER EJECUTIVO DEL ESTADO CON EFECTOS DE VETO PARCIAL, AL DECRETO NÚM. 196, APROBADO POR EL PLENO DEL CONGRESO EN LA SESIÓN PÚBLICA ORDINARIA NÚMERO 07 DEL PRIMER PERIODO ORDINARIO DE SESIONES DEL SEGUNDO AÑO DE EJERCICIO CONSTITUCIONAL, CELEBRADA EL DÍA 16 DE NOVIEMBRE DE 2022; SE DEJA SIN EFECTOS EL CITADO DECRETO NÚM. 196, Y SE MODIFICA LA POSICIÓN DEL ARTÍCULO 152 TER PARA SER AGREGADO AL CAPÍTULO IV DENOMINADO HOSTIGAMIENTO SEXUAL, ACOSO LABORAL Y ACOSO SEXUAL, ELIMINÁNDOSE EL CAPÍTULO V DENOMINADO VIOLENCIA DIGITAL; SE REFORMA EL PRIMER PÁRRAFO DEL ARÁBIGO 164; Y SE ADICIONA UN PÁRRAFO AL 224 PASANDO A SER ESTE EL TERCERO Y HACIENDO EL CORRIMIENTO DEL SUBSECUENTE PARA SER EL CUARTO, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el “Periódico Oficial del Estado de Colima”.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NO. 242 QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+Se aprueban las observaciones realizadas por la persona Titular del Poder Ejecutivo del Estado con efectos de Veto Parcial, al Decreto No. 196 específicamente en el artículo 152 QUATER, aprobado por el Pleno del Congreso en la Sesión Pública Ordinaria número 07 del Primer Periodo Ordinario de Sesiones del Segundo Año de Ejercicio Constitucional, celebrada el día 16 de noviembre de 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deja sin efectos el Decreto No. 196, aprobado por el Pleno del Congreso en la Sesión Pública Ordinaria número 07 del Primer Período Ordinario de Sesiones del Segundo Año de Ejercicio Constitucional, celebrada el día 16 de noviembre de 2022.
+
+###### ARTÍCULO TERCERO.
+
+Se modifica la posición del ARTÍCULO 152 TER para ser agregado al Capítulo IV denominado HOSTIGAMIENTO SEXUAL, ACOSO LABORAL Y ACOSO SEXUAL, eliminándose el Capítulo V denominado VIOLENCIA DIGITAL; se reforma el primer párrafo del arábigo 164; y se adiciona un párrafo al 224 pasando a ser este el tercero y haciendo el corrimiento del subsecuente para ser el cuarto, todos del Código Penal para el Estado de Colima, para quedar como sigue: […].
