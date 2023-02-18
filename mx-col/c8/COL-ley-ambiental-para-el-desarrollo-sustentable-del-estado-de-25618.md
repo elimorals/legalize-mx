@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2022-12-31"
+last_updated: "2023-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2023.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -199,127 +199,135 @@ XLIV. Gestión integral: El conjunto articulado e interrelacionado de acciones n
 
 XLV. Hábitat: El sitio específico en ambiente físico, ocupado por un organismo, por una población, por una especie o por comunidades de especies de flora y fauna en un tiempo determinado;
 
-XLVI. Humedales: Las extensiones de marismas, pantanos y tuberas o superficies cubiertas de agua, sean estas de régimen natural o artificial, permanente o temporales, de agua estancada o corriente, dulces o saladas, incluidas las extensiones de agua marina cuya profundidad en marea baja no exceda los 6 metros, incluyendo sus zonas ribereñas o costeras adyacentes;
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2023)</small>
 
-XLVII. Impacto ambiental: La modificación del ambiente ocasionada por la acción del ser humano o de la naturaleza, que genera consecuencias sobre el ambiente;
+XLVI. Herbicida: Es toda sustancia química, que en cualquier estado físico, solas (sic) o formando parte de una mezcla, se utilicen (sic) en la destrucción de hierbas invasoras;
 
-XLVIII. Información ambiental: Cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades ambientales del Estado en materia de aire, agua, suelo, biota y recursos naturales en general, así como de las actividades o medidas que les causen o puedan causar afectación;
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2023)</small>
 
-XLIX. Informe de factibilidad: Documento mediante el cual se dan a conocer los datos generales de una obra o actividad y las características del sitio donde se pretende desarrollar el proyecto, para efectos de determinar si es necesario o no someterlo a la evaluación del impacto ambiental;
+LXVII (SIC). Herbicida altamente tóxico: Aquellos compuestos químicos sintéticos que representan un riesgo para el medio ambiente y el ser humano, debido a que presentan mayor toxicidad, menor biodegradabilidad y mayor persistencia en el ambiente;
 
-L. Indicadores de sustentabilidad: Los parámetros establecidos por la Secretaría que contribuyen a definir la sustentabilidad del desarrollo y, consecuentemente, la intensidad y límites de la aplicación tecnológica, identificar los aspectos relacionados con el desarrollo socioeconómico, la calidad de vida de la población, el balance de los recursos naturales entre las cantidades usadas y aquellas producidas de cada recurso;
+LXVIII (SIC). Humedales: Las extensiones de marismas, pantanos y tuberas o superficies cubiertas de agua, sean estas de régimen natural o artificial, permanente o temporales, de agua estancada o corriente, dulces o saladas, incluidas las extensiones de agua marina cuya profundidad en marea baja no exceda los 6 metros, incluyendo sus zonas ribereñas o costeras adyacentes;
 
-LI. Ley: La Ley Ambiental para el Desarrollo Sustentable del Estado de Colima;
+XLIX. Impacto ambiental: La modificación del ambiente ocasionada por la acción del ser humano o de la naturaleza, que genera consecuencias sobre el ambiente;
 
-LII. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+L. Información ambiental: Cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades ambientales del Estado en materia de aire, agua, suelo, biota y recursos naturales en general, así como de las actividades o medidas que les causen o puedan causar afectación;
 
-LIII. Manejo: El conjunto de actividades que incluyen, tratándose de recursos naturales, la extracción, utilización, explotación, aprovechamiento, administración, preservación, restauración, desarrollo, mantenimiento y vigilancia; o tratándose de materiales o residuos sólidos la recolección, transporte, transferencia, almacenamiento, tratamiento y disposición final;
+LI. Informe de factibilidad: Documento mediante el cual se dan a conocer los datos generales de una obra o actividad y las características del sitio donde se pretende desarrollar el proyecto, para efectos de determinar si es necesario o no someterlo a la evaluación del impacto ambiental;
 
-LIV. Manifiesto de diagnóstico ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo y potencial generado una vez que inició la ejecución u operación de la obra o actividad, así como la forma de atenuarlo o regenerarlo en caso de que sea negativo;
+LII. Indicadores de sustentabilidad: Los parámetros establecidos por la Secretaría que contribuyen a definir la sustentabilidad del desarrollo y, consecuentemente, la intensidad y límites de la aplicación tecnológica, identificar los aspectos relacionados con el desarrollo socioeconómico, la calidad de vida de la población, el balance de los recursos naturales entre las cantidades usadas y aquellas producidas de cada recurso;
 
-LV. Manifiesto de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, previamente a la ejecución de la obra o actividad, el impacto ambiental significativo y potencial que ésta generaría, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+LIII. Ley: La Ley Ambiental para el Desarrollo Sustentable del Estado de Colima;
 
-LVI. Manifiesto de riesgo ambiental: El documento mediante el cual se da a conocer, a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que dichas obras o actividades representen para el equilibrio ecológico o el ambiente, así como las medidas técnicas de seguridad, preventivas y correctivas tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución u operación normal de la obra o actividad de que se trate;
+LIV. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-LVII. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que tengan unidades funcionales de herencia;
+LV. Manejo: El conjunto de actividades que incluyen, tratándose de recursos naturales, la extracción, utilización, explotación, aprovechamiento, administración, preservación, restauración, desarrollo, mantenimiento y vigilancia; o tratándose de materiales o residuos sólidos la recolección, transporte, transferencia, almacenamiento, tratamiento y disposición final;
 
-LVIII. Material riesgoso: Elementos, sustancias, compuestos, residuos o sus mezclas que, independientemente de su estado físico, representen un riesgo potencial para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas así como por su cantidad de almacenamiento o acumulación, de conformidad con lo que disponga esta Ley;
+LVI. Manifiesto de diagnóstico ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo y potencial generado una vez que inició la ejecución u operación de la obra o actividad, así como la forma de atenuarlo o regenerarlo en caso de que sea negativo;
 
-LIX. Mejoramiento del ambiente: El incremento cualitativo y cuantitativo de la calidad del ambiente;
+LVII. Manifiesto de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, previamente a la ejecución de la obra o actividad, el impacto ambiental significativo y potencial que ésta generaría, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
-LX. Minimización: El conjunto de medidas tendientes a evitar la generación de residuos sólidos y aprovechar, tanto sea posible, el valor de aquellos cuya generación no sea posible evitar;
+LVIII. Manifiesto de riesgo ambiental: El documento mediante el cual se da a conocer, a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que dichas obras o actividades representen para el equilibrio ecológico o el ambiente, así como las medidas técnicas de seguridad, preventivas y correctivas tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución u operación normal de la obra o actividad de que se trate;
 
-LXI. Normas técnicas ambientales estatales: El instrumento de política ambiental destinado a establecer los parámetros, límites permisibles, lineamientos, estrategias, requisitos, especificaciones, condiciones y procedimientos que se deberán observar en el uso, disfrute, aprovechamiento, explotación racional, conservación, mejoramiento, protección y desarrollo de actividades económicas, con el fin de preservar la calidad del ambiente y propiciar el aprovechamiento sustentable de los recursos naturales;
+LIX. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que tengan unidades funcionales de herencia;
 
-LXII. Ordenamiento ecológico y territorial: El instrumento de política ambiental para el desarrollo sustentable dirigido a evaluar y programar el uso del suelo, las actividades productivas y el manejo de los recursos naturales en el territorio estatal y las zonas sobre las que el Estado ejerce su soberanía y jurisdicción, para preservar y restaurar el equilibrio ecológico y proteger el ambiente;
+LX. Material riesgoso: Elementos, sustancias, compuestos, residuos o sus mezclas que, independientemente de su estado físico, representen un riesgo potencial para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas así como por su cantidad de almacenamiento o acumulación, de conformidad con lo que disponga esta Ley;
 
-LXIII. Organismo genéticamente modificado: Una planta, animal, hongo, bacteria, virus o alga, al que se le han hecho modificaciones artificiales en su material genético o cromosomas por medio de ingeniería genética;
+LXI. Mejoramiento del ambiente: El incremento cualitativo y cuantitativo de la calidad del ambiente;
 
-LXIV. Pepena: La acción de recoger entre los residuos sólidos aquellos que tengan valor, en cualquier etapa del sistema de manejo;
+LXII. Minimización: El conjunto de medidas tendientes a evitar la generación de residuos sólidos y aprovechar, tanto sea posible, el valor de aquellos cuya generación no sea posible evitar;
 
-LXV. Peritos ambientales: Las personas que prestan servicios profesionales con conocimientos científicos, teóricos y/o prácticos en materias ambientales;
+LXIII. Normas técnicas ambientales estatales: El instrumento de política ambiental destinado a establecer los parámetros, límites permisibles, lineamientos, estrategias, requisitos, especificaciones, condiciones y procedimientos que se deberán observar en el uso, disfrute, aprovechamiento, explotación racional, conservación, mejoramiento, protección y desarrollo de actividades económicas, con el fin de preservar la calidad del ambiente y propiciar el aprovechamiento sustentable de los recursos naturales;
+
+LXIV. Ordenamiento ecológico y territorial: El instrumento de política ambiental para el desarrollo sustentable dirigido a evaluar y programar el uso del suelo, las actividades productivas y el manejo de los recursos naturales en el territorio estatal y las zonas sobre las que el Estado ejerce su soberanía y jurisdicción, para preservar y restaurar el equilibrio ecológico y proteger el ambiente;
+
+LXV. Organismo genéticamente modificado: Una planta, animal, hongo, bacteria, virus o alga, al que se le han hecho modificaciones artificiales en su material genético o cromosomas por medio de ingeniería genética;
+
+LXVI. Pepena: La acción de recoger entre los residuos sólidos aquellos que tengan valor, en cualquier etapa del sistema de manejo;
+
+LXVII. Peritos ambientales: Las personas que prestan servicios profesionales con conocimientos científicos, teóricos y/o prácticos en materias ambientales;
 
 > <small>(ADICIONADA, P.O. 7 DE MAYO DE 2022)</small>
 
-LXVI. Plaguicida: Cualquier sustancia o mezcla de sustancias que se destine a controlar cualquier plaga, incluidos los vectores que transmiten las enfermedades humanas y de animales, las especies no deseadas que causen perjuicio o que interfieran con la producción agropecuaria y forestal, así como las sustancias defoliantes y las desecantes como lo son herbicidas;
+LXVIII. Plaguicida: Cualquier sustancia o mezcla de sustancias que se destine a controlar cualquier plaga, incluidos los vectores que transmiten las enfermedades humanas y de animales, las especies no deseadas que causen perjuicio o que interfieran con la producción agropecuaria y forestal, así como las sustancias defoliantes y las desecantes como lo son herbicidas;
 
 > <small>(ADICIONADA, P.O. 7 DE MAYO DE 2022)</small>
 
-LXVII. Plaguicida altamente peligroso: Aquellos que debido a sus características intrínsecas o particulares representan riesgos o generan afectaciones graves, agudas, subcrónicas, crónicas o irreversibles particularmente para la salud o el medio ambiente, de acuerdo con los sistemas de clasificación internacionalmente aceptados, o por estar previstos en tratados, acuerdos o convenciones internacionales;
+LXIX. Plaguicida altamente peligroso: Aquellos que debido a sus características intrínsecas o particulares representan riesgos o generan afectaciones graves, agudas, subcrónicas, crónicas o irreversibles particularmente para la salud o el medio ambiente, de acuerdo con los sistemas de clasificación internacionalmente aceptados, o por estar previstos en tratados, acuerdos o convenciones internacionales;
 
-LXVIII. Plan de manejo de residuos sólidos: El instrumento de gestión integral de residuos sólidos que contiene el conjunto de acciones, procedimientos y medios dispuestos para facilitar la devolución y acopio de productos de consumo que al desecharse se convierten en residuos sólidos, lograr la minimización de la generación de éstos, así como la máxima valorización posible de materiales y subproductos contenidos en los mismos, bajo criterios de eficiencia ambiental, económica y social;
+LXX. Plan de manejo de residuos sólidos: El instrumento de gestión integral de residuos sólidos que contiene el conjunto de acciones, procedimientos y medios dispuestos para facilitar la devolución y acopio de productos de consumo que al desecharse se convierten en residuos sólidos, lograr la minimización de la generación de éstos, así como la máxima valorización posible de materiales y subproductos contenidos en los mismos, bajo criterios de eficiencia ambiental, económica y social;
 
-LXIX. Preservación: El conjunto de políticas y medidas estrictamente necesarias y fundamentadas en el estudio científico y el desarrollo sustentable, para mantener las condiciones que propician la evolución y continuidad de los ecosistemas, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
+LXXI. Preservación: El conjunto de políticas y medidas estrictamente necesarias y fundamentadas en el estudio científico y el desarrollo sustentable, para mantener las condiciones que propician la evolución y continuidad de los ecosistemas, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
 
-LXX. Prestador de servicios de impacto ambiental: La persona que elabora informes de factibilidad, manifestaciones o estudios de impacto ambiental o de riesgo por cuenta propia o de terceros y que es responsable de la información y del contenido de los mismos;
+LXXII. Prestador de servicios de impacto ambiental: La persona que elabora informes de factibilidad, manifestaciones o estudios de impacto ambiental o de riesgo por cuenta propia o de terceros y que es responsable de la información y del contenido de los mismos;
 
-LXXI. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+LXXIII. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-LXXII. Protección: El conjunto de políticas y medidas para mejorar el ambiente, prevenir y controlar su deterioro;
+LXXIV. Protección: El conjunto de políticas y medidas para mejorar el ambiente, prevenir y controlar su deterioro;
 
-LXXIII. Reciclaje: La transformación de los materiales o subproductos contenidos en los residuos sólidos a través de distintos procesos que permiten restituir su valor económico;
+LXXV. Reciclaje: La transformación de los materiales o subproductos contenidos en los residuos sólidos a través de distintos procesos que permiten restituir su valor económico;
 
-LXXIV. Recolección: La acción de recibir los residuos sólidos de sus generadores y trasladarlos a las instalaciones para su transferencia, tratamiento o disposición final;
+LXXVI. Recolección: La acción de recibir los residuos sólidos de sus generadores y trasladarlos a las instalaciones para su transferencia, tratamiento o disposición final;
 
-LXXV. Recolección selectiva: La acción de recolectar los residuos sólidos de manera separada en residuos sólidos orgánicos, inorgánicos y de manejo especial;
+LXXVII. Recolección selectiva: La acción de recolectar los residuos sólidos de manera separada en residuos sólidos orgánicos, inorgánicos y de manejo especial;
 
-LXXVI. Recurso biológico: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
+LXXVIII. Recurso biológico: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
 
-LXXVII. Recurso genético: El material genético de valor real o potencial;
+LXXIX. Recurso genético: El material genético de valor real o potencial;
 
-LXXVIII. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del ser humano;
+LXXX. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del ser humano;
 
-LXXIX. Región ecológica: La unidad del territorio estatal que comparte características ecológicas comunes;
+LXXXI. Región ecológica: La unidad del territorio estatal que comparte características ecológicas comunes;
 
-LXXX. Relleno sanitario: La obra de infraestructura que aplica métodos de ingeniería para la disposición final de los residuos sólidos, ubicada en sitios adecuados al ordenamiento ecológico y territorial mediante el cual los residuos sólidos se esparcen y compactan al menor volumen práctico posible y se cubren con material natural o sintético para prevenir o reducir la liberación de contaminantes al ambiente, procesos de combustión no controlada, la generación de malos olores, la proliferación de fauna nociva y demás problemas ambientales y sanitarios;
+LXXXII. Relleno sanitario: La obra de infraestructura que aplica métodos de ingeniería para la disposición final de los residuos sólidos, ubicada en sitios adecuados al ordenamiento ecológico y territorial mediante el cual los residuos sólidos se esparcen y compactan al menor volumen práctico posible y se cubren con material natural o sintético para prevenir o reducir la liberación de contaminantes al ambiente, procesos de combustión no controlada, la generación de malos olores, la proliferación de fauna nociva y demás problemas ambientales y sanitarios;
 
-LXXXI. Residuo orgánico: Todo residuo sólido biodegradable;
+LXXXIII. Residuo orgánico: Todo residuo sólido biodegradable;
 
-LXXXII. Residuo inorgánico: Todo residuo sólido que no tenga características de residuo orgánico y que pueda ser susceptible a un proceso de valorización para su reutilización y reciclaje, tales como vidrio, papel, cartón, plásticos, laminados de materiales reciclables, aluminio y metales no peligrosos y demás no considerados como de manejo especial;
+LXXXIV. Residuo inorgánico: Todo residuo sólido que no tenga características de residuo orgánico y que pueda ser susceptible a un proceso de valorización para su reutilización y reciclaje, tales como vidrio, papel, cartón, plásticos, laminados de materiales reciclables, aluminio y metales no peligrosos y demás no considerados como de manejo especial;
 
-LXXXIII. Residuo sólido: Material, producto o subproducto que se descarte o deseche y que sea susceptible de ser aprovechado o requiera sujetarse a métodos de tratamiento o disposición final, que no estén considerados como peligrosos y que se encuentran bajo las categorías de residuos urbanos y residuos de manejo especial a los que esta Ley hace referencia;
+LXXXV. Residuo sólido: Material, producto o subproducto que se descarte o deseche y que sea susceptible de ser aprovechado o requiera sujetarse a métodos de tratamiento o disposición final, que no estén considerados como peligrosos y que se encuentran bajo las categorías de residuos urbanos y residuos de manejo especial a los que esta Ley hace referencia;
 
-LXXXIV. Residuo peligroso: Todo aquel residuo, en cualquier estado físico, que por sus características corrosivas, tóxicas, venenosas, reactivas, explosivas, inflamables o irritantes, representan un peligro para la salud, el equilibrio ecológico o el ambiente;
+LXXXVI. Residuo peligroso: Todo aquel residuo, en cualquier estado físico, que por sus características corrosivas, tóxicas, venenosas, reactivas, explosivas, inflamables o irritantes, representan un peligro para la salud, el equilibrio ecológico o el ambiente;
 
-LXXXV. Restauración: El conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+LXXXVII. Restauración: El conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-LXXXVI. Reutilización: El empleo de un residuo sólido previamente utilizado, sin que medie un proceso de transformación;
+LXXXVIII. Reutilización: El empleo de un residuo sólido previamente utilizado, sin que medie un proceso de transformación;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-LXXXVII. Secretaría: La Secretaría de Infraestructura, Desarrollo Urbano y Movilidad de (sic) Gobierno del Estado;
+LXXXIX. Secretaría: La Secretaría de Infraestructura, Desarrollo Urbano y Movilidad de (sic) Gobierno del Estado;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-LXXXVIII. IMADES: Instituto para el Medio Ambiente y Desarrollo Sustentable del Estado de Colima. Organismo de carácter técnico, de investigación, supervisión, inspección, consultivo y promocional que tiene por objeto la preservación y restauración del equilibrio ecológico, y protección del medio ambiente y aprovechamiento sustentable de los recursos naturales para lograr el desarrollo ambiental en el ámbito estatal;
+XC. IMADES: Instituto para el Medio Ambiente y Desarrollo Sustentable del Estado de Colima. Organismo de carácter técnico, de investigación, supervisión, inspección, consultivo y promocional que tiene por objeto la preservación y restauración del equilibrio ecológico, y protección del medio ambiente y aprovechamiento sustentable de los recursos naturales para lograr el desarrollo ambiental en el ámbito estatal;
 
-LXXXIX. Servicio de limpia: Los sistemas de recolección, transporte, transferencia, tratamiento y disposición final de residuos sólidos;
+XCI. Servicio de limpia: Los sistemas de recolección, transporte, transferencia, tratamiento y disposición final de residuos sólidos;
 
-XC. Servicios ambientales: Los beneficios de interés social que se derivan de la vida silvestre y su hábitat, tales como la regulación climática, la conservación de los ciclos hidrológicos, la fijación de nitrógeno, la formación de suelo, la captura de carbono, el control de la erosión, la polinización de plantas, el control biológico de plagas o la degradación de residuos orgánicos;
+XCII. Servicios ambientales: Los beneficios de interés social que se derivan de la vida silvestre y su hábitat, tales como la regulación climática, la conservación de los ciclos hidrológicos, la fijación de nitrógeno, la formación de suelo, la captura de carbono, el control de la erosión, la polinización de plantas, el control biológico de plagas o la degradación de residuos orgánicos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XCI. Servicios ambientales hidrológicos: son los beneficios directos e indirectos que recibe la población como resultado de la conservación, manejo y gestión responsable de ecosistemas naturales en áreas de importancia hídrica, tales como la provisión de agua, la restauración de sitios degradados en el área de captación hídrica, la recuperación de suelos y de ecosistemas forestales, la protección de la biodiversidad, el cuidado de la belleza natural para la recreación y el ecoturismo, así como la educación y la investigación;
+XCIII. Servicios ambientales hidrológicos: son los beneficios directos e indirectos que recibe la población como resultado de la conservación, manejo y gestión responsable de ecosistemas naturales en áreas de importancia hídrica, tales como la provisión de agua, la restauración de sitios degradados en el área de captación hídrica, la recuperación de suelos y de ecosistemas forestales, la protección de la biodiversidad, el cuidado de la belleza natural para la recreación y el ecoturismo, así como la educación y la investigación;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XCII. Tratamiento: Los procedimientos mecánicos, físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos sólidos y se reduce su volumen o peligrosidad, para su posterior aprovechamiento total o parcial;
+XCIV. Tratamiento: Los procedimientos mecánicos, físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos sólidos y se reduce su volumen o peligrosidad, para su posterior aprovechamiento total o parcial;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XCIII. Unidad de Medida y Actualización: La unidad de medida y actualización vigente en el Estado;
+XCV. Unidad de Medida y Actualización: La unidad de medida y actualización vigente en el Estado;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XCIV. Vocación natural: Las condiciones que presenta un ecosistema para sostener una o varias actividades sin que produzcan desequilibrios ecológicos;
+XCVI. Vocación natural: Las condiciones que presenta un ecosistema para sostener una o varias actividades sin que produzcan desequilibrios ecológicos;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XCV. Cédula de Operación Anual: Es un mecanismo de reporte anual mediante el cual los responsables de las fuentes fijas de competencia estatal dan a conocer a la autoridad ambiental las actualizaciones sobre su operación y deriva de las obligaciones fijadas en la licencia local de funcionamiento; y
+XCVII. Cédula de Operación Anual: Es un mecanismo de reporte anual mediante el cual los responsables de las fuentes fijas de competencia estatal dan a conocer a la autoridad ambiental las actualizaciones sobre su operación y deriva de las obligaciones fijadas en la licencia local de funcionamiento; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XCVI. Licencia Local de Funcionamiento: Es un trámite de regulación obligatoria, mediante el cual las fuentes fijas de competencia estatal que emiten o puedan emitir radiaciones electromagnéticas, olores, humos, ruido, vibraciones, gases o partículas sólidas o líquidas a la atmósfera dan cumplimiento a las obligaciones ambientales establecidas en la Ley.
+XCVIII. Licencia Local de Funcionamiento: Es un trámite de regulación obligatoria, mediante el cual las fuentes fijas de competencia estatal que emiten o puedan emitir radiaciones electromagnéticas, olores, humos, ruido, vibraciones, gases o partículas sólidas o líquidas a la atmósfera dan cumplimiento a las obligaciones ambientales establecidas en la Ley.
 
 ###### ARTÍCULO 4º.
 
@@ -1643,7 +1651,9 @@ Corresponde a los ayuntamientos la preservación, protección, restauración, fo
 
 Los ayuntamientos procurarán el incremento de áreas y espacios verdes municipales en proporción equilibrada con los demás usos de suelo en el ámbito urbano y en sus zonas de influencia e incorporarlas a los programas municipales de ordenamiento ecológico y territorial y de desarrollo urbano.
 
-El mantenimiento, mejoramiento, podas, fomento y conservación de las áreas y espacios verdes municipales deberá realizarse con las técnicas y especies apropiadas, sujetándose a la normatividad que al efecto expida la Secretaría.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+El mantenimiento, mejoramiento, podas, fomento y conservación de las áreas y espacios verdes municipales deberá realizarse con las técnicas y especies apropiadas, sujetándose a la normatividad que al efecto expida la Secretaría. Con el fin de cumplir con dichas obligaciones, se prohíbe emplear o utilizar los herbicidas altamente tóxicos, así como aquellas sustancias químicas que se encuentran prohibidas en los tratados internacionales donde el Estado Mexicano es parte.
 
 ###### ARTÍCULO 91.
 
@@ -3254,3 +3264,13 @@ P.O. 31 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 221.- POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 18 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 241.- POR EL QUE SE ADICIONAN DOS FRACCIONES PASANDO A SER ESTAS LAS XLVI Y LXVII AL ARTÍCULO 3° HACIÉNDOSE EL CORRIMIENTO RESPECTIVO DE LAS SUBSECUENTES FRACCIONES, Y SE REFORMA EL ARTÍCULO 90 PÁRRAFO TERCERO DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO 88 BIS PÁRRAFO PRIMERO DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Los Ayuntamientos del Estado contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, para reformar su reglamentación correspondiente para el saneamiento y limpia de construcciones deshabitadas y lotes baldíos en los términos que establece este decreto.
+
+TERCERO. Los Ayuntamientos del Estado contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, para reformar su reglamentación correspondiente en materia de ecología y/o ambiental en los términos que establece este decreto.
