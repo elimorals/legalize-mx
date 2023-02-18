@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-municipio-de-tamazula-de-gordiano-162944"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-20"
-last_updated: "2022-12-20"
+last_updated: "2023-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL MUNICIPIO DE TAMAZULA DE GORDIANO, JALISCO, PARA EL EJERCICIO FISCAL 2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2023.
 
 Ley publicada en la Sección XCII del Número 7 del Periódico Oficial del Estado de Jalisco, el martes 20 de diciembre de 2022.
 
@@ -61,9 +61,15 @@ QUEDARÁ EXENTA DE PAGO LA BÚSQUEDA QUE SE REALICE CON MOTIVO DE LA EXPEDICIÓN
 
 NO SE PAGARÁN LOS DERECHOS A QUE SE REFIERE LA FRACCIÓN IV, DURANTE LAS CAMPAÑAS DE MATRIMONIOS COLECTIVOS, REGISTROS EXTEMPORÁNEOS O CUANDO SEAN SOLICITADAS POR ALGUNA DE LAS INSTITUCIONES CONTEMPLADAS EN EL ARTÍCULO 3 DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO.
 
-V. Certificados de residencia, así como derechos civiles y políticos, por cada uno: $357.00
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2023)</small>
+
+V. Certificados de residencia, así como derechos civiles y políticos, por cada uno: $157.00
+
+> <small>(REFORMADO [N. DE E. REPUBLICADA], P.O. 18 DE FEBRERO DE 2023)</small>
 
 Cuando la certificación de la constancia requiera verificación física del domicilio, se aplicará, además, el cobro previsto en la fracción II de este artículo, por cada una: $129.00
+
+> <small>(REFORMADO [N. DE E. REPUBLICADA], P.O. 18 DE FEBRERO DE 2023)</small>
 
 Se exceptúa de este cobro, cuando el certificado sea con el fin de obtener becas para Instituciones educativas sean públicas o privadas, así como para constancias de vida o supervivencia para cobro de pensión o cuando el interesado demuestre estar en estado de vulnerabilidad social o se trate de persona con discapacidad.
 
@@ -71,7 +77,15 @@ VI. Constancia de comparecencia de identidad: $250.00
 
 Se exceptúa de este cobro, cuando la constancia sea con el fin de obtener becas para Instituciones educativas sean públicas o privadas, así como para el cobro de pensión o cuando el interesado demuestre estar en estado de vulnerabilidad social o se trate de persona con discapacidad.
 
-VII. Certificados de residencia para fines de naturalización, regularización de situación migratoria y otros fines análogos, por cada uno $361.00
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 18 DE FEBRERO DE 2023)</small>
+
+VII. Certificados de residencia para fines de naturalización, regularización de situación migratoria y otros fines análogos:
+
+a) Constancia de residencia: $326.00
+
+b) Constancia de origen en el extranjero: $1 ,000.00
+
+c) Otros: $300.00
 
 VIII. De la resolución administrativa derivada del trámite del divorcio administrativo $274.00
 
@@ -105,27 +119,51 @@ XIX. Por cada movimiento administrativo, relacionado con el capítulo del agua y
 
 XX. Las certificaciones para constancia de introductores de ganado en los rastros del municipio, causarán un derecho, cada una: $674.00
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2023)</small>
+
 XXI. Por peritaje de Protección Civil y Bomberos, a solicitud de parte:
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2023)</small>
 
 A. De la Capacitación a empresas:
 
-1. Expedición de constancia impresa en formato foliado u oficial a la empresa y/o patrón: $354.74
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+1. Expedición de constancia impresa en formato foliado u oficial a la empresa y/o patrón: $200.00
 
 2. Reexpedición de Constancias impresa en formato foliado u oficial: $276.40
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2023)</small>
+
 B. De la supervisión y dictaminación técnica de factibilidad impresa en formato foliado u oficial de superficies territoriales con probabilidades de peligros naturales o antropogénicos:
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2023)</small>
 
 1. Supervisión de Primer Visita a giro comercial aunado con oficio de factibilidad como negocio operable:
 
-a) Menor a 50 metros o riesgo bajo: $425.86
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2023)</small>
 
-b) De 51 metros a 250 metros: $695.52
+a) Menor a 50 metros cuadrados o riesgo bajo: $150.00
 
-c) De 251 metros a 500 metros: $987.21
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2023)</small>
 
-d) De 501 metros a 1,000 metros: $1,274.22
+b) Menos a 50 metros cuadrados o riesgo medio alto: $220.00
 
-e) Mayor a 1001 metros o alto riesgo: $2,345.90
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+c) De 51 metros a 250 metros cuadrados: $425.00
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+d) De 251 metros a 500 metros cuadrados: $695.00
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+e) De 501 metros a 1,000 metros cuadrados: $987.00
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+f) Mayor a 1001 metros cuadrados o alto riesgo: $1,274.00
 
 C. De los derechos de prestación de servicios de protección civil:
 
@@ -175,9 +213,13 @@ b) Dictamen de riesgo para la instalación de juegos mecánicos en períodos má
 
 4. Por personal asignado a la evaluación de simulacros y entregar certificación por elemento: $108.16
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2023)</small>
+
 D. De los derechos por los servicios prestados por el área de protección civil, se causarán y pagarán conforme a lo siguiente:
 
-1. En las fiestas de carácter social, en general, por evento, por cada elemento comisionado: $380.46
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+1. En las fiestas de carácter social con fines de lucro, en general, por evento, por cada elemento comisionado: $600.00
 
 2. Las empresas particulares con más de 100 personas pagarán mensualmente el equivalente a 2 UMAS diarios por cada guardia integrado a la nómina de la empresa, que esté en servicio.
 
@@ -265,11 +307,19 @@ XL. Por la emisión de la autorización de proyectos de infraestructura vial y d
 
 XLI. Por la emisión de cualquier otro dictamen del área de movilidad y transporte, por cada uno: $1,275.00
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE FEBRERO DE 2023)</small>
+
 XLIV. Por la emisión del dictamen de finca antigua: $2,284.00
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2023)</small>
 
 Los dictámenes, autorizaciones, vistos buenos, a que alude el presente artículo, deberá de acompañarse de la solicitud, constancia de no adeudo de Predial y Agua y el recibo de pago correspondiente.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2023)</small>
+
 Todos los tramites señalados en el presente artículo que se requieran urgentes (entrega en 48 horas), las personas físicas o jurídicas que los soliciten pagarán el doble de los derechos señalados en el artículo precedente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 149.
 
@@ -929,6 +979,8 @@ E. POR VIOLACIONES AL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DE TAMAZULA DE GORD
 
 82.- Por infringir otras disposiciones del Reglamento de Policía y Buen Gobierno de Tamazula de Gordiano, Jalisco, en forma no prevista en los numerales anteriores, de: 10.00 a 500.00 UMA
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE FEBRERO DE 2023)</small>
+
 F. POR VIOLACIONES A LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, Y AL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y CAMBIO CLIMÁTICO DEL MUNICIPIO DE TAMAZULA DE GORDIANO, JALISCO.
 
 1.- Por realizar emisiones de contaminantes y no observar las prevenciones del reglamento municipal:
@@ -1081,7 +1133,47 @@ e) Por no mencionar en el mencionado reporte cuál fue el destino final de los r
 
 48.- Por infringir otras disposiciones no previstas en los numerales anteriores, de: 14.21 a 48.62 UMA
 
-49.- Por infringir otras disposiciones de la Ley Estatal de Equilibrio Ecológico y la Protección al Ambiente, así como del Reglamento de Protección al Medio Ambiente y Cambio Climático del Municipio de Tamazula de Gordiano, Jalisco, en forma no prevista en los numerales anteriores, de: 1.00 a 35,000 UMA
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+49.- Por el mal manejo en el almacenamiento, transporte y uso de agroquímicos y pesticidas: 30.00 a 5,787.15 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+50.- Por la disposición final inadecuada de envases de agroquímicos, pesticidas y desechos plásticos de actividades agrícolas: 30.00 a 5,787.15 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+51.- Por no tener áreas delimitadas a fumadores y no fumadores en los sitios de prestación de servicios públicos y privados: 2.94 a 19.45 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+52.- Por desatender dos citatorias (sic) de manera consecutiva: 10 a 50 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+53.- Cuando el infractor no hubiere cumplido en los plazos y condiciones impuestas (sic) por la autoridad, con las medidas correctivas o de urgente aplicación ordenadas: 10 a 50 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+54.- Por proferir insultos o amenazas al personal adscrito a la Dirección, responsable de realizar las visitas de inspección y demás diligencias: 10 a 50 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+55.- Por violentar una medida de seguridad mediante el uso, operación o disposición de equipos, materiales, bienes afectados por una medida de seguridad o sanción administrativa: 10 a 50 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+56.- Por omitir rendir los informes y avisos que por resolución o acuerdo de la Autoridad le sean requeridos en los plazos establecidos para ello: 10 a 50 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+57.- Por obstaculizar las prácticas de las diligencias ordenadas por la Autoridad: 10 a 50 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+58.- Por infringir otras disposiciones de la Ley Estatal de Equilibrio Ecológico y la Protección al Ambiente, así como del Reglamento de Protección al Medio Ambiente y Cambio Climático del Municipio de Tamazula de Gordiano, Jalisco, en forma no prevista en los numerales anteriores, de: 1.00 a 35,000
+
+UMA
 
 G. POR VIOLACIONES AL REGLAMENTO DE CONSTRUCCIÓN PARA EL MUNICIPIO DE TAMAZULA DE GORDIANO, JALISCO, AL REGLAMENTO DE URBANIZACIÓN DEL MUNICIPIO DE TAMAZULA DE GORDIANO, JALISCO, AL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, AL REGLAMENTO ESTATAL DE ZONIFICACIÓN, ASÍ COMO AL REGLAMENTO PARA LA PROTECCIÓN AL PATRIMONIO EDIFICADO Y MEJORAMIENTO DE LA IMAGEN DEL MUNICIPIO DE TAMAZULA DE GORDIANO.
 
@@ -1223,99 +1315,15 @@ d) Carnes con alteraciones histológicas (tumores, degeneraciones, infiltración
 
 16.- Las demás conductas que violen las disposiciones contenidas en las Normas Oficiales Mexicanas, en las disposiciones federales y estatales y municipales que resulten del ámbito de la competencia municipal, así como el Reglamento de Rastro Municipal, de: 10.47 a 1,000.00 UMA
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
 I. POR VIOLACIONES AL REGLAMENTO DE TRÁNSITO, MOVILIDAD Y TRANSPORTE PARA EL MUNICIPIO DE TAMAZULA DE GORDIANO, JALISCO.
 
-1. Por omitir el pago de la tarifa de estacionómetros, o cualquier otra plataforma de cobro, de: 1.42 a 4.73 UMA
+> <small>[N. DE E. VÉASE NUMERALES EN EL P.O. 18 DE FEBRERO DE 2023, PÁGINAS DE LA 34 A LA 45.]</small>
 
-Cuando el pago se realice dentro de los 5 días hábiles siguientes a la fecha de la infracción, esta tendrá un descuento del 50%.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2023)</small>
 
-2. Por estacionar vehículos invadiendo parte de dos lugares que cuenten con estacionómetros, o cualquier otra plataforma de cobro, de: 4.27 a 21.19 UMA
-
-3. Por estacionar vehículos invadiendo parte de entrada a cochera, o a un estacionamiento sea público o privado, de tal manera que impida o dificulte el acceso a otro vehículo, de: 21.39 a 53.11 UMA
-
-4. Por estacionarse sin derecho en espacios autorizados como exclusivos o en intersección de calles sin respetar la línea amarilla, así como en lugar prohibido por la autoridad correspondiente, de: 17.21 a 69.03 UMA
-
-5. En el caso de los aparatos para controlar el estacionamiento, por introducir objetos diferentes a la moneda correspondiente, por pintar el aparato, además del pago de los daños que sufra el mismo, sin perjuicio de la consignación penal, de: 15.00 a 100.00 UMA
-
-6. Por colocar folio con fecha pasada en el parabrisas con la intención de engañar al vigilante, de: 2.82 a 5.47 UMA
-
-7. Por falsificar, alterar o hacer mal uso de las tarjetas, calcomanías o permisos que se otorguen para el uso de estacionómetros, de: 8.53 a 46.15 UMA
-
-8. Por cambiar el folio de un automóvil a otro de diferente placa, de: 4.62 a 8.23 UMA
-
-9. Por encontrarse el vehículo arriba de la acera o del espacio de servidumbre pública, independientemente de la obstrucción al paso peatonal o la achura de la banqueta, de: 17.21 a 69.03 UMA
-
-10.- Por señalar espacio sin autorización como estacionamiento exclusivo o no, en servidumbre, banqueta o en la vía pública, de: 18.38 a 36.86 UMA
-
-11. Por obstruir el espacio de un estacionamiento cubierto por estacionómetros o cualquier plataforma de cobro, con materiales de obra de construcción, puestos de vendimias, materiales tipo tianguis, por día, de: 7.39 a 48.51 UMA
-
-12. Por colocar materiales u objetos varios en el arroyo de la calle para evitar que se estacionen vehículos, de: 6.82 a 44.44 UMA
-
-13. Por alterar las tarifas autorizadas por el Ayuntamiento en los estacionamientos públicos, de: 41.34 a 65.29 UMA
-
-14. Por dejar de prestar el servicio de estacionamientos públicos en días u horas contenidas en el convenio de concesión, permiso o licencia; salvo en caso fortuito o de fuerza mayor, de: 13.06 a 64.93 UMA
-
-15. Por operar en estacionamiento público sin convenio de concesión, permiso o licencia otorgado por la autoridad municipal, de: 23.58 a 87.50 UMA
-
-16. Por no tener a la vista las tarifas autorizadas por la Comisión Tarifaria de Estacionamientos, de: 2.91 a 5.37 UMA
-
-17. Por no tener vigentes los permisos correspondientes para la utilización de espacios, como estacionamientos exclusivos en la vía pública, de uno a tres tantos del valor del permiso.
-
-18. Por tener señalados más metros de los autorizados para utilizar espacios como estacionamientos exclusivos en la vía pública, por cada metro excedente, de: 5.97 a 17.04 UMA
-
-19. Por retirar sin autorización aparatos de estacionómetros del lugar en que se encuentren enclavados, independientemente del pago de los daños o destino que se les dé a éstos, de: 6.39 a 24.10 UMA
-
-20. Por no tener en un lugar visible para el público, o no mantener en óptimas condiciones la declaración expresa de responsabilidades de los daños que sufran los vehículos bajo custodia en un estacionamiento de servicio público, de: 42.9 a 105.02 UMA
-
-21. Por tener sobrecupo de vehículos en relación con la capacidad de cajones del estacionamiento, registrada y autorizada por la autoridad municipal, por cada vehículo excedente, de: 4.78 a 5.73 UMA
-
-22. Por no tener en el estacionamiento el libro de registro de vehículos pensionados o no estar autorizados por la oficina de estacionamientos, de: 6.26 a 18.84 UMA
-
-23. Por ceder los derechos de la concesión, permiso o licencia de estacionamientos públicos o exclusivos, sin la autorización municipal, de dos a tres tantos del valor de la misma.
-
-24. Por utilizar el estacionamiento exclusivo con fines distintos a lo establecido en el Reglamento de Tránsito, Movilidad y Transporte para el Municipio de Tamazula de Gordiano, Jalisco, por cada metro lineal, de: 5.22 a 14.10 UMA
-
-25. Por operar un estacionamiento público o el servicio de estacionamiento con acomodadores de vehículos sin tener vigente la documentación requerida en el Reglamento, de: 11.95 a 94.41 UMA
-
-26. Por insultar al personal de inspección, supervisión o vigilancia, además del pago de los daños físicos o jurídicos que sufra su propio personal, independientemente de la consignación, de: 24.10 a 88.86 UMA
-
-27. Por obstruir el libre acceso a los estacionómetros para hacer uso de ellos con cualquier objeto u obstáculo, por día, de: 20.51 a 51.23 UMA
-
-28. Por no disponer el establecimiento de espacios para estacionar los vehículos de conformidad con la superficie construida, en la prestación del servicio con acomodadores de vehículos, de: 25.64 a 76.88 UMA
-
-29. Por no contar con los espacios exclusivos requeridos para personas con discapacidad, adultos mayores y mujeres embarazadas, de: 244.12 a 406.85 UMA
-
-30. Por efectuar maniobras de carga y descarga en espacios no destinados para ello, de: 7.31 a 14.48 UMA
-
-31. Por averiar o dañar el sistema de control de estacionamiento o estacionómetros, parcial o totalmente, de: 10.92 a 24.10 UMA
-
-32. Por ocupar espacios para personas con discapacidad, de adultos mayores o mujeres embarazadas sin contar con la acreditación correspondiente ya sea en estacionamientos públicos, en plazas, centros comerciales o vinculados a establecimientos mercantiles o de servicios, tianguis y de carga, de: 102.53 a 187.96 UMA
-
-Cuando el pago se realice dentro de los 5 días hábiles siguientes a la fecha de la infracción, esta tendrá un descuento del 50%.
-
-33. Por no contar con póliza de seguro que cubra robo y daños al vehículo, de: 6.51 a 13.95 UMA
-
-34. Por estacionarse en zonas que afecten la entrada y salida a instituciones de emergencia tales como hospitales, acceso de ambulancias, estaciones de bomberos, vehículos policiales o de protección civil o frente a un hidrante de bomberos, de: 98.59 a 180.73 UMA
-
-35. Por ocupar espacios para personas con discapacidad, adultos mayores o mujeres embarazadas, con acreditación vencida, de: 1.42 a 4.73 UMA
-
-36. Por estacionarse en batería cuando no se encuentre expresamente autorizado, de: 16.39 a 65.74 UMA
-
-37. Por no retirar la empresa o entidad pública operadora de cualquier sistema de bicicleta y/o transporte individual en red en el plazo señalado por el reglamento la bicicleta o vehículo de transporte individual en red estacionado en un lugar no autorizado, de: 3.55 a 7.10 UMA
-
-38. Por estacionarse obstruyendo rampas para personas con discapacidad, o bloquear las banquetas con accesibilidad universal, de: 98.59 a 180.73 UMA Cuando el pago se realice dentro de los 5 días hábiles siguientes a la fecha de infracción, esta tendrá un descuento del 50%.
-
-39. Por estacionarse obstruyendo una ciclovía, o espacio de bicicleta, de: 16.56 a 66.36 UMA
-
-40. Por estacionar motocicletas o cualquier otro vehículo en espacios exclusivos para bicicletas, de: 16.56 a 66.36 UMA
-
-41. Estacionarse en más de una fila en vía pública, de: 17.21 a 69.02 UMA
-
-42.- Por no contar con la autorización correspondiente para el proyecto de señalización vertical u horizontal o no cumplir con los lineamientos estipulados por la dirección para los cierres viales, protección de obra, carga, descarga, ascenso y descenso: 59.17 a 591.76 UMA
-
-43.- Por infringir otras disposiciones no previstas en los numerales anteriores, de: 6.50 a 13.95 UMA
-
-Cuando el pago de las infracciones de los numerales 2, 3, 4, 6, 7, 8, 9, 26, 34, 36, 39, 40 y 41 se realice dentro de los 5 días hábiles siguientes a la fecha de la infracción, esta tendrá un descuento del 20%
+Cuando el pago se realice dentro de los 5 días hábiles siguientes a la fecha de la infracción, en todos los casos, esta tendrá un descuento del 50%.
 
 J. POR VIOLACIONES AL USO Y APROVECHAMIENTO DEL AGUA:
 
@@ -1480,3 +1488,55 @@ L. POR VIOLACIONES EN MATERIA DE CEMENTERIOS PARA EL MUNICIPIO DE TAMAZULA DE GO
 M. POR VIOLACIONES AL REGLAMENTO PARA LA ATENCIÓN, INCLUSIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE TAMAZULA DE GORDIANO, JALISCO, DE: 5.14 a 15.39 UMA
 
 N. CUANDO UN MISMO ACTO U OMISIÓN SEA SANCIONADO POR DIVERSAS LEYES O REGLAMENTOS, SÓLO SE APLICARÁ LA MULTA QUE CORRESPONDA A LA MAYOR.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+Ñ. VIOLACIONES AL REGLAMENTO DE ESTACIONÓMETROS DEL MUNICIPIO DE TAMAZULA DE GORDIANO, JALISCO.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+1. Por omitir el pago de la tarifa de estacionómetros, o cualquier otra plataforma de cobro, de: 1.42 a 4.73 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+2. Por estacionar vehículos invadiendo parte de dos lugares que cuenten con estacionómetros, o cualquier otra plataforma de cobro, de: 4.27 a 21 .19 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+3. Por estacionar vehículos invadiendo parte de (sic) estacionómetro o de entrada a cochera, o a un estacionamiento sea público o privado, de tal manera que impida o dificulte el acceso a otro vehículo, de: 21.39 a 53.11 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+4. Por estacionarse sin derecho en espacios autorizados como exclusivos o en intersección de calles sin respetar la línea amarilla, así como en lugar prohibido por la autoridad correspondiente, de: 17.21 a 9.03 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+5. En el caso de los aparatos para controlar el estacionamiento, por introducir objetos diferentes a la moneda correspondiente, por pintar el aparato, además del pago de los daños que sufra el mismo, sin perjuicio de la consignación penal, de: 15.00 a 100.00 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+6. Por colocar folio con fecha pasada en el parabrisas con la intención de engañar al vigilante, de: 2.82 a 5.47 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+7. Por falsificar, alterar o hacer mal uso de las tarjetas, calcomanías o permisos que se otorguen para el uso de estacionómetros, de: 8.53 a 46.15 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+8. Por cambiar el folio de un automóvil a otro de diferente placa o pasarse de tiempo, de: 4.62 a 8.23 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+9. Por señalar espacio sin autorización como estacionamiento exclusivo o no, en servidumbre, banqueta o en la vía pública, de: 18.38 a 36.86 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+10. Por obstruir el espacio de un estacionamiento cubierto por estacionómetros o cualquier plataforma de cobro, con materiales de obra de construcción, puestos de vendimias, materiales tipo tianguis, por día, de: 7.39 a 48.51 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+11 . Por insultar al personal de inspección, supervisión o vigilancia, además del pago de los daños físicos o jurídicos que sufra su propio personal, independientemente de la consignación, de: 24.10 a 88.86 UMA
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2023)</small>
+
+Cuando el pago se realice dentro de los 5 días hábiles siguientes a la fecha de la infracción, en todos los casos, esta tendrá un descuento del 50%.
