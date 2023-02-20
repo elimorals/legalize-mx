@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2022-12-27"
+last_updated: "2023-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2023.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -831,9 +831,9 @@ Para la designación del titular del organismo descentralizado a que se refiere 
 
 En caso de que el Congreso rechace la totalidad de la terna propuesta, el Gobernador someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador del Estado.
 
-(NOTA: EL 6 DE OCTUBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 138/2021, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2023)</small>
 
-El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado; tener título de licenciado en derecho, registrado ante la Dirección General de Profesiones de la Secretaría de Educación Pública, que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; que goce de buena reputación Y NO HAYA SIDO CONDENADO POR DELITO DOLOSO. Asimismo, deberá cumplir los requisitos que establezca la ley. Desempeñará su encargo por un periodo de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el periodo respectivo. Sólo podrá ser removido por causa grave y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúe en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
+El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado; tener título de licenciado en derecho, registrado ante la Dirección General de Profesiones de la Secretaría de Educación Publica, que no haya ocupado un cargo en algún partido politico, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; que goce de buena reputación y no haya sido condenado por delito doloso y mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia. Asimismo, deberá cumplir los requisitos que establezca la ley. Desempeñará su encargo por un periodo de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el período respectivo. Sólo podrá ser removido por causa grave y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúe en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
 
 (REUBICADO, P.O. 30 DE JUNIO DE 2015)
 
@@ -1510,6 +1510,10 @@ VI.- Tener un modo honesto de vivir.
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2021)</small>
 
 VII.- En caso de ser migrante, acreditar la residencia binacional, en los términos estipulados en la ley.
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2023)</small>
+
+VIII.- No haber sido condenada o condenado mediante resolución firme por delitos de género; por violencia familiar; por delitos cometidos por razones de género y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -2329,9 +2333,9 @@ Las entidades fiscalizables y demás autoridades del Estado, facilitarán los au
 
 Los servidores públicos estatales y municipales, así como, cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica o institución a la que esta Constitución o las leyes del Estado les den el carácter de entidades fiscalizables que reciban o ejerzan recursos públicos estatales o municipales, deberán proporcionar la información, documentación y auxilios que solicite la Auditoría Superior de Fiscalización del Estado de Oaxaca, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2023)</small>
 
-La persona titular de la Auditoría Superior de Fiscalización del Estado de Oaxaca será electa por el Congreso, con el voto de las dos terceras partes de sus miembros. Para ser Auditor se requerirá contar con experiencia de cinco años en materia de control fiscalización, auditoria gubernamental y de responsabilidades. La ley determinara el procedimiento para su elección. Durará en su encargo siete años, pudiendo ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente por las causas graves que la ley señala con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Titulo Séptimo de esta Constitución.
+La persona titular de la Auditoría Superior de Fiscalización del Estado de Oaxaca será electa por el Congreso, con el voto de las dos terceras partes de sus miembros. Para ser Auditor se requerirá contar con experiencia de cinco años en materia de control de fiscalización, auditaría gubernamental y de responsabilidades. La ley determinará el procedimiento para su elección. Durará en su encargo siete años, pudiendo ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente por las causas graves que la ley señala con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Titulo Séptimo de esta Constitución. Así mismo, no podrá ser titular o auditor especial la persona que haya sido condenada mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales; o estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pagó, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
 
@@ -2394,6 +2398,10 @@ VI. No tener parentesco de consanguinidad en los cuatro primeros grados, ni de a
 VII. Separarse del servicio activo con ciento veinte días de anticipación al día de la elección si se trata de miembros del Ejército Nacional, o de las fuerzas de seguridad pública del Estado, y
 
 VIII. Tener un modo honesto de vivir.
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2023)</small>
+
+IX. No haber sido condenada o condenado mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -3045,9 +3053,9 @@ II.- Tener cuando menos treinta y cinco años cumplidos el día de su nombramien
 
 III.- Poseer el día del nombramiento, con antigüedad mínima de diez años, título y cédula profesionales de licenciado en derecho, expedidas por la autoridad o institución legalmente facultada para ello;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2023)</small>
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se trata de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
+IV.- Gozar de buena reputación y no haber sido condenado mediante resolución firme por delitos intencionales o que ameriten pena corporal de más de un año de prisión; pero si se trata de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; así mismo, será requisito el no haber sido condenada o condenado mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancia (sic) que así correspondan, en términos de lo dispuesto en la ley de la materia.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -3325,6 +3333,10 @@ h) Tener un modo honesto de vivir.
 
 i) En los municipios indígenas, además de lo establecido en los incisos anteriores, se requerirá haber cumplido con las obligaciones comunitarias establecidas en sus sistemas normativos.
 
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2023)</small>
+
+j) No haber sido condenada e condenado mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
+
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 Las ciudadanas y ciudadanos comprendidos en los supuestos de los incisos d) y e), podrán ser miembros del ayuntamiento, siempre y cuando se separen del servicio activo o de sus cargos, con setenta días naturales de anticipación a la fecha de la elección.
@@ -3543,7 +3555,9 @@ V. A la Defensoría de los Derechos Humanos del Pueblo de Oaxaca le corresponde 
 
 VI. Las demás que le atribuyan esta Constitución y las leyes.
 
-El titular de la Defensoría será designado por el voto de las dos terceras partes de los integrantes del Congreso del Estado, durará siete años en el cargo, sin posibilidad de reelección, y será sustituido en los términos que determinen las leyes aplicables, las cuales fijarán los requisitos y procedimientos para la postulación de aspirantes, a través de convocatoria pública y consulta abierta, atendiendo a la idoneidad, experiencia y honorabilidad, así como a los principios de pluralidad, equidad de género, apartidismo y no discriminación. No será elegible quien, en los dos últimos años anteriores al día de su designación, haya sido legislador local o federal, se haya desempeñado como servidor público de mando superior de la Federación, del Estado o de los Ayuntamientos, o hubiese ocupado cargo directivo en partido político.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2023)</small>
+
+El titular de la Defensoría será designado por el voto de las dos terceras partes de los integrantes del Congreso del Estado, durará siete años en el cargo sin posibilidad de reelección, y serán sustituidos en los términos que determinen las leyes aplicables, las cuales fijarán los requisitos y procedimientos para la postulación de aspirantes, a través de convocatoria pública y consulta abierta, atendiendo a la idoneidad, experiencia y honorabilidad, así como a los principios de pluralidad, apartidismo y no discriminación. No será elegible quien, en los dos últimos años anteriores al día de su designación, haya sido legislador local o federal, se haya desempeñado como servidor público de mando superior de la Federación, del Estado o de los Ayuntamientos, hubiese ocupado cargo directivo en partido politico, haya sido condenada o condenado mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
 
 Durante el ejercicio de su encargo no podrá ocupar cargo en partidos políticos ni desempeñar otro empleo, cargo o comisión en el servicio público, excepto la docencia o la investigación académica, siempre que no medie remuneración alguna. Sólo podrá ser removido de conformidad con lo dispuesto en esta Constitución y las leyes en la materia.
 
@@ -3615,6 +3629,10 @@ La Ley establecerá las medidas de apremio que podrá imponer el órgano garante
 
 Toda autoridad y servidor público estará obligado a coadyuvar con el organismo garante y sus integrantes para el buen desempeño de sus funciones.
 
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2023)</small>
+
+Para ser integrante del Órgano deberá cumplir el requisito de no haber sido condenada o condenado mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
+
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 2017)</small>
 
 D. DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA
@@ -3627,9 +3645,9 @@ Corresponde al Ministerio Público la persecución, ante los tribunales, de todo
 
 La titularidad del Ministerio Público recae en la o el Fiscal General del Estado de Oaxaca.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2023)</small>
 
-Para ser Fiscal General del Estado de Oaxaca, se requiere: ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles; tener cuando menos treinta y cinco años cumplidos el día de su designación; contar con antigüedad mínima de diez años con título profesional de licenciatura en derecho;·gozar de buena reputación, acreditar las pruebas de control de confianza conforme a las leyes de la materia y no haber sido condenado por delito doloso.
+Para ser Fiscal General del Estado de Oaxaca, se requiere: ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles; tener cuando menos treinta y cinco años cumplidos el día de su designación; contar con antigüedad mínima de diez años con título profesional de licenciatura en derecho; gozar de buena reputación, acreditar las pruebas de control de confianza conforme a las leyes de la materia y no haber sido condenado por delito doloso, ni por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento salarial pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
 
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
 
@@ -3709,7 +3727,9 @@ VIII. Resolver los medios de impugnación que se presenten para controvertir los
 
 IX. Las demás atribuciones que le confieran esta Constitución, y las leyes.
 
-El Tribunal funcionara en pleno, sus resoluciones se tomaran por mayoría de votos y sus sesiones serán públicas. El pleno del tribunal, estará integrado por tres Magistrados quienes elegirán dentro de sus integrantes al Presidente del Tribunal conforme a su Ley Orgánica, duraran en su cargo siete años y serán designados conforme a la Ley General de Instituciones y procedimientos Electorales; percibirán una remuneración conforme a la legislación que establezca el Estado.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2023)</small>
+
+El Tribunal funcionará en pleno, sus resoluciones se tomarán por mayoría de votos y sus sesiones serán públicas. El pleno del tribunal estará integrado por tres magistrados quienes elegirán dentro de sus integrantes al presidente del Tribunal conforme a su Ley Orgánica, durarán en su cargo siete años y serán designados conforme a la Ley General de Instituciones y Procedimientos Electorales; percibirán una remuneración conforme a la legislación que establezca el Estado. No podrán ser designadas (sic) magistrados o magistradas las personas que hayan sido condenadas o condenados mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento correspondiente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
 
 El Tribunal respetará los sistemas normativos indígenas en el marco del pluralismo jurídico.
 
@@ -3727,7 +3747,9 @@ El Consejero Presidente y los consejeros electorales del Instituto serán design
 
 Los consejeros electorales locales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración que no podrá ser superior a la que percibe un Secretario de la Administración Pública Estatal y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la Ley General de Instituciones y Procedimientos Electorales.
 
-Los consejeros electorales locales y demás servidores públicos que establezca la Ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2023)</small>
+
+Los concejeros electorales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo. Así mismo estarán impedidas las personas que hayan sido condenadas o condenados mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
 
 El Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca ejercerá funciones en las siguientes materias:
 
@@ -3806,6 +3828,10 @@ III. Gozar de buena reputación y no haber sido condenado por delito que amerite
 IV. Haber residido en la República Mexicana durante los dos años anteriores al día del nombramiento; y
 
 V. No haber sido Secretario de Despacho, Fiscal General del Estado de Oaxaca o Diputado Local, en el año anterior a su nombramiento.
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2023)</small>
+
+VI. No haber sido condenada o condenado mediante resolución forme (sic) por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de los (sic) dispuesto en la ley de la materia.
 
 Los nombramientos de los Magistrados serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
@@ -6522,3 +6548,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca y la Gaceta Parlamentaria.
 
 TERCERO. El Honorable Congreso del Estado Libre y Soberano de Oaxaca, deberá expedir la Ley Reglamentaria de Revocación de Mandato en un plazo no mayor a sesenta días naturales.
+
+P.O. 20 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 875.- MEDIANTE EL CUAL SE REFORMAN EL PÁRRAFO SEXTO DEL ARTÍCULO 21 BIS; EL PÁRRAFO DÉCIMO SEGUNDO DEL ARTÍCULO 65 BIS; LA FRACCIÓN IV DEL ARTÍCULO 101; EL PÁRRAFO TERCERO DEL APARTADO “A", EL PÁRRAFO CUARTO DEL APARTADO "D" DEL ARTÍCULO 114, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 114 BIS; EL PÁRRAFO QUINTO DEL ARTÍCULO 114 TER; Y SE ADICIONAN: LA FRACCIÓN VIII AL ARTÍCULO 34; LA FRACCION IX AL ARTÍCULO 68; EL INCISO j) A LA FRACCIÓN I DEL ARTÍCULO 113; EL PÁRRAFO DÉCIMO PRIMERO AL APARTADO "C" DEL ARTÍCULO 114; LA FRACCIÓN VI AL INCISO A) DEL ARTÍCULO 114 QUÁTER, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Congreso del Estado tendrá 180 días naturales a partir de la entrada en vigor para reformar las leyes secundarias que correspondan de conformidad con el presente Decreto.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
