@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2023-01-23"
+last_updated: "2023-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -303,9 +303,7 @@ El H. Ayuntamiento del Municipio de Aguascalientes es el órgano colegiado de go
 
 El Presidente Municipal, Regidores y Síndicos integran el H. Ayuntamiento del Municipio de Aguascalientes, durarán en su encargo tres años, salvo el caso de que uno, varios, o la totalidad de sus integrantes, sean elegidos para un periodo más, entrando en funciones el día señalado en la Ley que en materia municipal expida el Poder Legislativo del Estado y en el Código Electoral del Estado; son los encargados de establecer y definir las acciones, criterios y políticas con que deben manejarse los recursos y servicios del Municipio de Aguascalientes.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2017)</small>
-
-Las Cuentas Públicas Municipales se revisarán mensualmente y deberán someterse a consideración del H. Ayuntamiento trimestralmente para su análisis, discusión y en su caso aprobación; a efecto de remitirlas para su fiscalización al Congreso del Estado en términos de las disposiciones jurídicas aplicables.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 13.
 
@@ -1175,17 +1173,23 @@ Al entrar al recinto el Presidente de la República, el Gobernador del Estado o 
 
 En la Sesión de instalación del H. Ayuntamiento y en las Sesiones Solemnes, el Presidente Municipal, los Regidores y Síndicos deberán asistir con vestimenta formal y de color oscuro.
 
-### CAPÍTULO I. De las Dependencias y Unidades Administrativas Municipales
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE FEBRERO DE 2023)</small>
+
+### CAPÍTULO XI DEL TÍTULO PRIMERO. De la Aprobación de las Cuentas Públicas del Municipio
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 96 BIS.- Las Cuentas Públicas Municipales se revisarán mensualmente por la Comisión de Hacienda, y deberán someterse para su análisis, discusión y votación del H. Ayuntamiento trimestralmente.
+
+Se remitirán al Congreso del Estado, a más tardar el día 20 del mes de abril, julio y octubre del año en que se ejerza el presupuesto respectivo, Informe de Avance de Gestión Financiera como parte integrante de las Cuentas Públicas, sobre los resultados físicos y financieros de los programas a su cargo, por los períodos correspondientes al primer, segundo y tercer trimestre del año.
+
+La Cuenta Pública del año anterior, se deberá presentar a más tardar el 28 de febrero de cada año a efecto de remitirlas para su fiscalización al Congreso del Estado en términos de las disposiciones jurídicas aplicables.
+
+Cuando los informes trimestrales de avance de gestión financiera sean sometidos a votación del H. Ayuntamiento, cada Regidor o Síndico podrá formular una reserva en que realice todas las manifestaciones u observaciones que estime convenientes, mismas que deberán de ser presentadas por escrito y corriendo traslado a todos sus integrantes por lo menos veinticuatro horas antes del inicio de la Sesión, mismas que habrán de anexarse al informe que se remita al Congreso del Estado para los términos conducentes.
 
 ## TÍTULO SEGUNDO. DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, DE SUS FUNCIONES Y SUS ATRIBUCIONES
 
-### CAPÍTULO II
-
-De las Funciones y Atribuciones de los Servidores Públicos Municipales.
-
-APARTADO PRIMERO
-
-De la Secretaría Particular
+### CAPÍTULO I. De las Dependencias y Unidades Administrativas Municipales
 
 ###### ARTÍCULO 97.
 
@@ -2079,11 +2083,13 @@ IV.- El servidor público que supla la ausencia, tendrá a su cargo las atribuci
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-### CAPÍTULO I. De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
+### CAPÍTULO II
+
+De las Funciones y Atribuciones de los Servidores Públicos Municipales.
 
 APARTADO PRIMERO
 
-Disposiciones Generales del Trabajo
+De la Secretaría Particular
 
 ###### ARTÍCULO 99.
 
@@ -3467,7 +3473,11 @@ IV. Las demás funciones que se desprendan de la normatividad aplicable, así co
 
 ## TÍTULO TERCERO. DE LA NORMATIVIDAD INTERNA MUNICIPAL
 
-### CAPÍTULO II. Del Servicio Civil de Carrera
+### CAPÍTULO I. De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
+
+APARTADO PRIMERO
+
+Disposiciones Generales del Trabajo
 
 ###### ARTÍCULO 115.
 
@@ -4025,7 +4035,7 @@ Con la finalidad de prevenir, mitigar y afrontar situaciones de emergencia de un
 
 Al término de la vigencia de la Declaratoria de Emergencia, la Secretaría de Finanzas Públicas deberá rendir un informe al Honorable Cabildo con respecto de la ejecución y aplicación del recurso, así como también del estado que guarda el recurso asignado. Dicho informe deberá ser a través de la Comisión Permanente de Hacienda y del Síndico de Hacienda.
 
-### CAPÍTULO III. De la Entrega y Recepción de la Administración Pública Municipal
+### CAPÍTULO II. Del Servicio Civil de Carrera
 
 ###### ARTÍCULO 141.
 
@@ -4099,9 +4109,7 @@ VII. Las demás que señale el Ayuntamiento, que sean necesarias para el cumplim
 
 En la aplicación del presente capítulo, se atenderá en lo conducente lo dispuesto por el estatuto jurídico de los Servidores Públicos al Servicio del Estado y del Municipio de Aguascalientes.
 
-### CAPÍTULO IV. Descentralización y Desconcentración Administrativa
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2008)</small>
+### CAPÍTULO III. De la Entrega y Recepción de la Administración Pública Municipal
 
 ###### ARTÍCULO 146.
 
@@ -4213,13 +4221,9 @@ III. El personal requerido, será dado de alta en la nómina municipal, con carg
 
 BIS.- Tratándose de la fusión, liquidación o extinción de una Dependencia o Entidad de la Administración Pública Municipal, el liquidador remitirá copia del inventario documental del fondo correspondiente al Archivo General Municipal.
 
-### CAPÍTULO V. Del Archivo General Municipal
+### CAPÍTULO IV. Descentralización y Desconcentración Administrativa
 
-APARTADO PRIMERO
-
-Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 162.
 
@@ -4233,7 +4237,13 @@ Para la creación de un órgano administrativo desconcentrado, descentralizado o
 
 Las autoridades municipales por sí o en coordinación podrán para otorgar un mejor servicio a la ciudadanía establecer un sistema de ventanilla única para trámites de licencias, permisos o autorizaciones, o apertura de negocios o industrias, en la cual se entregará toda la documentación y se le dará respuesta a los ciudadanos.
 
-### CAPÍTULO VI. Sobre el Uso y Usufructo de Bienes Muebles, Propiedad Municipal o al Servicio Municipal
+### CAPÍTULO V. Del Archivo General Municipal
+
+APARTADO PRIMERO
+
+Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2010)</small>
 
 ###### ARTÍCULO 164.
 
@@ -4307,11 +4317,7 @@ ARTÍCULO 177 BIS.- (DEROGADO, P.O. 30 DE AGOSTO DE 2010)
 
 (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2012)
 
-### CAPÍTULO VII. De la Dirección de Justicia Municipal
-
-APARTADO PRIMERO
-
-Disposiciones Generales
+### CAPÍTULO VI. Sobre el Uso y Usufructo de Bienes Muebles, Propiedad Municipal o al Servicio Municipal
 
 ###### ARTÍCULO 179.
 
@@ -5243,11 +5249,11 @@ F). TURNO DEL CASO A LA CONTRALORÍA MUNICIPAL, para el fincamiento de responsab
 
 Todo lo no previsto en el presente capítulo, será resuelto por la Comisión.
 
-### CAPÍTULO VIII. De las Faltas de Policía
+### CAPÍTULO VII. De la Dirección de Justicia Municipal
 
 APARTADO PRIMERO
 
-Reglas Generales
+Disposiciones Generales
 
 ###### ARTÍCULO 292.
 
@@ -5477,11 +5483,11 @@ SEXTUS.- (DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
 > <small>(DEROGADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
-### CAPÍTULO IX. De los Centros de Detención Preventiva
+### CAPÍTULO VIII. De las Faltas de Policía
 
 APARTADO PRIMERO
 
-Disposiciones Generales
+Reglas Generales
 
 ###### ARTÍCULO 333.
 
@@ -5717,7 +5723,11 @@ De la Prescripción
 
 > <small>(DEROGADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
-### CAPÍTULO X. De la Junta Municipal de Reclutamiento
+### CAPÍTULO IX. De los Centros de Detención Preventiva
+
+APARTADO PRIMERO
+
+Disposiciones Generales
 
 ###### ARTÍCULO 358.
 
@@ -5989,7 +5999,7 @@ Mantenimiento al Área de Celdas
 
 (DEROGADO, P.O. 30 DE AGOSTO DE 2021)
 
-### CAPITULO I
+### CAPÍTULO X. De la Junta Municipal de Reclutamiento
 
 ###### ARTÍCULO 410.
 
@@ -6117,7 +6127,7 @@ Corresponde a la Secretaría de Servicios Públicos la prestación, por sí o po
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO II. De los Panteones
+### CAPITULO I
 
 ###### ARTÍCULO 417.
 
@@ -6235,9 +6245,7 @@ En caso de violación al precepto indicado, los animales podrán ser asegurados 
 
 (DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
 
-### CAPÍTULO III. De los Parques y Jardines
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+### CAPÍTULO II. De los Panteones
 
 ###### ARTÍCULO 445.
 
@@ -6453,9 +6461,9 @@ Los gastos que originen las inhumaciones, exhumaciones, conservación y traslado
 
 Se aplicarán las sanciones que previene este Código, a las personas que infrinjan cualquiera de las obligaciones que impone este capítulo, independientemente de lo dispuesto en la Legislación Penal, en caso de tratarse de delito.
 
-### CAPITULO IV. Del Manejo de los Residuos Sólidos Municipales
+### CAPÍTULO III. De los Parques y Jardines
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 476.
 
@@ -6553,11 +6561,9 @@ Los criterios diseño, construcción, modificación, manejo, mantenimiento, cons
 
 (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
-### CAPITULO V. Reglamento de Colombofilia y Colombicultura
+### CAPITULO IV. Del Manejo de los Residuos Sólidos Municipales
 
-ARTÍCULO 491 BIS.- (DEROGADO, P.O. 13 DE ENERO DE 2014; P.O. 11 DE ABRIL DE 2016)
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
 
 ###### ARTÍCULO 491
 
@@ -6731,7 +6737,11 @@ En su caso, quienes infrinjan las prohibiciones descritas en el párrafo anterio
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE ENERO DE 2014)</small>
 
-### CAPÍTULO I. Del Permiso Ambiental de Funcionamiento
+### CAPITULO V. Reglamento de Colombofilia y Colombicultura
+
+ARTÍCULO 491 BIS.- (DEROGADO, P.O. 13 DE ENERO DE 2014; P.O. 11 DE ABRIL DE 2016)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2011)</small>
 
 # LIBRO CUARTO. DE LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
 
@@ -6789,7 +6799,7 @@ ARTÍCULO 494 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTE
 
 > <small>(ADICIONADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
 
-### CAPITULO II. De las Areas Naturales Protegidas
+### CAPÍTULO I. Del Permiso Ambiental de Funcionamiento
 
 ###### ARTÍCULO 497.
 
@@ -6809,7 +6819,7 @@ ARTÍCULO 497 QUINQUIES.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
 
-### CAPÍTULO III. De la Prevención y Control de la Contaminación
+### CAPITULO II. De las Areas Naturales Protegidas
 
 ###### ARTÍCULO 499.
 
@@ -6845,7 +6855,7 @@ ARTÍCULO 503 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTE
 
 ARTÍCULO 503 TER.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
-### CAPÍTULO IV. De los Recursos Naturales
+### CAPÍTULO III. De la Prevención y Control de la Contaminación
 
 ###### ARTÍCULO 504.
 
@@ -6965,7 +6975,7 @@ ARTÍCULO 522 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTE
 
 (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
-### CAPÍTULO V. De la Educación Ambiental
+### CAPÍTULO IV. De los Recursos Naturales
 
 ###### ARTÍCULO 532.
 
@@ -6975,7 +6985,7 @@ ARTÍCULO 522 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTE
 
 (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-### CAPÍTULO VI. De la Participación Social y la Coordinación Gubernamental
+### CAPÍTULO V. De la Educación Ambiental
 
 ###### ARTÍCULO 534.
 
@@ -6989,7 +6999,7 @@ ARTÍCULO 522 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTE
 
 (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
 
-### CAPÍTULO VII. De la Denuncia Popular
+### CAPÍTULO VI. De la Participación Social y la Coordinación Gubernamental
 
 ###### ARTÍCULO 537.
 
@@ -7001,9 +7011,7 @@ ARTÍCULO 537 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTE
 
 (DEROGADO, P.O. 14 DE FEBRERO DE 2011)
 
-### CAPITULO I. De la Seguridad Pública
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+### CAPÍTULO VII. De la Denuncia Popular
 
 ###### ARTÍCULO 539.
 
@@ -7043,7 +7051,7 @@ ARTÍCULO 537 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTE
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO II. Estructura Orgánica y Atribuciones
+### CAPITULO I. De la Seguridad Pública
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -7109,7 +7117,7 @@ VII. Estrados para la fijación de acuerdos, avisos y circulares.
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO III. Cargos, Grados y Mandos Jerárquicos
+### CAPÍTULO II. Estructura Orgánica y Atribuciones
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -7535,9 +7543,9 @@ XVII. Las demás que le confiera el Secretario y las disposiciones legales aplic
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO I. Derechos y Obligaciones
+### CAPÍTULO III. Cargos, Grados y Mandos Jerárquicos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 560.
 
@@ -7651,9 +7659,9 @@ Nadie podrá ingresar a la escala jerárquica y sus equivalencias, si no ha sido
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO II. Sanciones y Correctivos Disciplinarios
+### CAPÍTULO I. Derechos y Obligaciones
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 565.
 
@@ -8005,7 +8013,7 @@ Cuando la autoridad competente solicite la intervención de los integrantes oper
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO III. Clasificación de las Faltas
+### CAPÍTULO II. Sanciones y Correctivos Disciplinarios
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8081,9 +8089,9 @@ Si el recurso resulta procedente, quedará sin efecto la sanción o correctivo d
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III. Clasificación de las Faltas
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 577.
 
@@ -8115,9 +8123,9 @@ Las sanciones de amonestación y arresto, a que se refiere este artículo serán
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO II. De los Procesos del Sistema Integral de Desarrollo Policial
+### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 580.
 
@@ -8131,7 +8139,7 @@ El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente 
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO III. De los Ejes que Integran El Sistema Integral de Desarrollo Policial
+### CAPÍTULO II. De los Procesos del Sistema Integral de Desarrollo Policial
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8419,7 +8427,7 @@ Al concluir el servicio el integrante deberá entregar al servidor público desi
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO IV. Del Sistema Complementario de Seguridad Social
+### CAPÍTULO III. De los Ejes que Integran El Sistema Integral de Desarrollo Policial
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8483,7 +8491,7 @@ La imposición de las sanciones derivadas de un procedimiento disciplinario, apl
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO I. De la Comisión de Honor y Justicia
+### CAPÍTULO IV. Del Sistema Complementario de Seguridad Social
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8503,9 +8511,9 @@ En ningún caso, se otorgarán prestaciones Complementarias de Seguridad Social 
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO II. De la Comisión del Servicio Profesional de Carrera Policial
+### CAPÍTULO I. De la Comisión de Honor y Justicia
 
-(REFORMADO, P.O. 8 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 604.
 
@@ -8745,7 +8753,7 @@ Contra las determinaciones dictadas por el Secretario Técnico durante la audien
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO III. De la Comisión de Normatividad Interna
+### CAPÍTULO II. De la Comisión del Servicio Profesional de Carrera Policial
 
 (REFORMADO, P.O. 8 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
 
@@ -8881,7 +8889,9 @@ Contra las determinaciones dictadas por el Presidente a través del Secretario T
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO ÚNICO. De las Obras de Urbanización
+### CAPÍTULO III. De la Comisión de Normatividad Interna
+
+(REFORMADO, P.O. 8 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
 
 ###### ARTÍCULO 616.
 
@@ -9383,7 +9393,7 @@ No deberán usarse los edificios o predios de manera que resulte violatorio de l
 
 El ejecutar o autorizar alguna obra dentro del Municipio sin sujetarse a los preceptos de este Libro, es proceder ilegalmente y motivará las sanciones que para el efecto indique el Título correspondiente.
 
-### CAPÍTULO I. De los Peritos
+### CAPÍTULO ÚNICO. De las Obras de Urbanización
 
 ###### ARTÍCULO 633.
 
@@ -9421,7 +9431,7 @@ ARTÍCULOS (SIC) 635.- La documentación necesaria y requisitos para la autoriza
 
 ## TÍTULO SEGUNDO. DE LOS PERITOS Y DE LAS LICENCIAS DE CONSTRUCCIÓN
 
-### CAPÍTULO II. De las Licencias de Construcción
+### CAPÍTULO I. De los Peritos
 
 ###### ARTÍCULO 636.
 
@@ -9885,7 +9895,7 @@ La Secretaría dará aviso de la suspensión al Colegio de Profesionistas respec
 
 La suspensión se dictará por un lapso de tres meses a tres años o en casos extremos, podrá ser definitiva sin liberar al perito de la obligación de subsanar las irregularidades en que haya incurrido e independientemente de las sanciones administrativas o multas que le fuesen impuestas.
 
-### CAPÍTULO III. De La Autoconstrucción
+### CAPÍTULO II. De las Licencias de Construcción
 
 ###### ARTÍCULO 647.
 
@@ -10045,7 +10055,7 @@ III. Para obras de beneficio social que se realicen en fraccionamientos populare
 
 IV. Cuando la Secretaría lo requiera.
 
-### CAPÍTULO I. De las Licencias de Construcción
+### CAPÍTULO III. De La Autoconstrucción
 
 ###### ARTÍCULO 653.
 
@@ -10087,7 +10097,7 @@ En las zonas que tengan un valor artístico, histórico y/o cultural determinada
 
 ## TÍTULO TERCERO. DE LOS REQUISITOS PARA LICENCIAS DE CONSTRUCCIÓN
 
-### CAPÍTULO II. De los Requisitos para Otorgamiento de Licencia de Construcción para casas Habitación
+### CAPÍTULO I. De las Licencias de Construcción
 
 ###### ARTÍCULO 656.
 
@@ -10109,7 +10119,7 @@ Los propietarios de fincas que se encuentren afectadas en su estructura por disc
 
 Los propietarios de fincas que se encuentra en un conjunto o inmueble sujeto al régimen de propiedad en condominio, para cualquier tipo de obra deberá presentarse un oficio de autorización y los planos del proyecto en dos tantos sellados y firmados por la administración del condominio o asamblea de condóminos legalmente constituida.
 
-### CAPÍTULO III. De los Requisitos para Otorgamiento de Licencias de Construcción de Edificios de Usos Distintos al Habitacional Mayores de Sesenta Metros Cuadrados Construidos
+### CAPÍTULO II. De los Requisitos para Otorgamiento de Licencia de Construcción para casas Habitación
 
 ###### ARTÍCULO 661.
 
@@ -10217,7 +10227,7 @@ VI. Memoria descriptiva indicando las características de los acabados, compleme
 
 VII. Plano y Memoria eléctrica debidamente signado por Perito Especializado en Instalaciones Eléctricas.
 
-### CAPÍTULO IV. De los Requisitos para Otorgamiento de Licencia de Construcción para Estaciones de Servicio o Gasolinerías
+### CAPÍTULO III. De los Requisitos para Otorgamiento de Licencias de Construcción de Edificios de Usos Distintos al Habitacional Mayores de Sesenta Metros Cuadrados Construidos
 
 ###### ARTÍCULO 664.
 
@@ -10291,7 +10301,7 @@ g) Memoria de cálculo referente a instalaciones eléctricas que den cumplimient
 
 h) Dictamen de Impacto Vial, Dictamen de Impacto Urbano, Dictamen de Impacto Ambiental y visto bueno del Subcomité de Transito y Análisis Vial en los casos que la Secretaría considere convenientes.
 
-### CAPÍTULO V. De los Requisitos para Otorgamiento de Licencia para Demolición
+### CAPÍTULO IV. De los Requisitos para Otorgamiento de Licencia de Construcción para Estaciones de Servicio o Gasolinerías
 
 ###### ARTÍCULO 665.
 
@@ -10347,7 +10357,7 @@ f) Plano y memoria de cálculo referente a instalaciones eléctricas que den cum
 
 g) Dictamen de Impacto Vial, Dictamen de Impacto Urbano, Dictamen de Impacto Ambiental y visto bueno del Subcomité de Tránsito y Análisis Vial en los casos que la Secretaría considere convenientes.
 
-### CAPÍTULO VI. De los Requisitos para Otorgamiento de Licencias para Ocupar y Realizar Obras en la Vía Pública
+### CAPÍTULO V. De los Requisitos para Otorgamiento de Licencia para Demolición
 
 ###### ARTÍCULO 666.
 
@@ -10375,7 +10385,7 @@ No se permitirá realizar obras de rebaje o demolición de muros medianeros.
 
 Entiéndase por muros medianeros los que, en común a dos predios colindantes los divide y en ocasiones sostiene techumbres de ambas fincas.
 
-### CAPÍTULO VII. De la Ocupación o Habitabilidad de las Construcciones
+### CAPÍTULO VI. De los Requisitos para Otorgamiento de Licencias para Ocupar y Realizar Obras en la Vía Pública
 
 ###### ARTÍCULO 667.
 
@@ -10437,7 +10447,7 @@ VII. Dos copias de Planos del Proyecto autorizado por las siguientes instancias 
 
 VIII. Al término de la Obra de Urbanización deberá tramitar Constancia de Terminación de Obra, con la consecuente recepción de las instancias municipales correspondientes a la Secretaría de Obras Públicas, la Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes y la Secretaría de Servicios Públicos; sin esta constancia no podrá proceder a la venta de lotes y/o construcción de fincas, para posteriormente municipalizar las obras de urbanización o en su caso constituir el Régimen de Propiedad en Condominio.
 
-### CAPÍTULO I. Generalidades
+### CAPÍTULO VII. De la Ocupación o Habitabilidad de las Construcciones
 
 ###### ARTÍCULO 671.
 
@@ -10463,7 +10473,7 @@ V. Cuando se demuestre que la obra cumple con este Libro y los demás ordenamien
 
 ## TÍTULO CUARTO. PROYECTO ARQUITECTÓNICO
 
-### CAPÍTULO II. Espacios sin Construir
+### CAPÍTULO I. Generalidades
 
 ###### ARTÍCULO 673.
 
@@ -11221,7 +11231,7 @@ Todo lo no contemplado en este libro se observara en lo contenido en la Norma Of
 
 Los edificios de uso público deberán contar con buzones en sus accesos, únicamente para recibir correspondencia, accesibles desde el exterior.
 
-### CAPÍTULO III. Circulaciones en las Construcciones
+### CAPÍTULO II. Espacios sin Construir
 
 ###### ARTÍCULO 679.
 
@@ -11295,7 +11305,7 @@ La separación entre edificios de cualquier uso menores a 12 metros de altura pa
 
 La separación entre edificios de cualquier uso mayores a 12 metros de altura partiendo del nivel de banqueta, entre éstos y cualquier construcción, la separación entre edificios en dirección norte-sur será por lo menos el cincuenta por ciento de la altura promedio de los mismos, en dirección este-oeste será por lo menos del veinte por ciento o lo establecido en el programa de desarrollo urbano vigente.
 
-### CAPÍTULO IV. Accesos y Salidas
+### CAPÍTULO III. Circulaciones en las Construcciones
 
 ###### ARTÍCULO 684.
 
@@ -11365,7 +11375,7 @@ III. Los pavimentos serán antiderrapantes; y
 
 IV. La altura mínima de los barandales, cuando se requieran, será de noventa centímetros.
 
-### CAPÍTULO V. Previsiones Contra Incendio
+### CAPÍTULO IV. Accesos y Salidas
 
 ###### ARTÍCULO 688.
 
@@ -11491,7 +11501,7 @@ III. Cuando comunique con escaleras, entre la puerta y el peralte inmediato, deb
 
 IV. No habrá puertas simuladas ni se colocarán espejos en las puertas.
 
-### CAPÍTULO VI. Instalaciones Hidráulicas y Sanitarias
+### CAPÍTULO V. Previsiones Contra Incendio
 
 ###### ARTÍCULO 693.
 
@@ -11613,7 +11623,7 @@ Las campanas de estufas o fogones excepto en viviendas unifamiliares, estarán p
 
 En los pisos de las áreas de circulaciones generales de edificios, se emplearán únicamente materiales a prueba de fuego.
 
-### CAPÍTULO VII. Instalaciones Eléctricas, Mecánicas y Especiales
+### CAPÍTULO VI. Instalaciones Hidráulicas y Sanitarias
 
 ###### ARTÍCULO 705.
 
@@ -12235,7 +12245,7 @@ Las tuberías de desagüe de los muebles sanitarios deberán de ser de fierro fu
 
 En las edificaciones ubicadas en las calles con red de alcantarillado público el propietario deberá solicitar a la instancia normativa correspondiente la conexión del albañal a la red.
 
-### CAPÍTULO VIII. Visibilidad en Espectáculos
+### CAPÍTULO VII. Instalaciones Eléctricas, Mecánicas y Especiales
 
 ###### ARTÍCULO 718.
 
@@ -12467,7 +12477,7 @@ Pasamanos por Escalón Capacidades
 
 Las instalaciones de calderas, calentadores y aparatos similares, así como la de sus accesorios se harán de manera que no causen riesgos, molestias, contaminen el ambiente ni pongan en peligro a las personas, para lo cual deberá obtenerse la autorización previa de las instancias reguladoras correspondientes.
 
-### CAPÍTULO IX. Edificación para Habitación
+### CAPÍTULO VIII. Visibilidad en Espectáculos
 
 ###### ARTÍCULO 731.
 
@@ -12529,7 +12539,7 @@ d = Distancia al punto base para el trazo de los espectadores ubicados en la fil
 
 El trazo de los niveles de piso se hará como se indica en este capítulo.
 
-### CAPÍTULO X. Edificación para Comercios y Oficinas
+### CAPÍTULO IX. Edificación para Habitación
 
 ###### ARTÍCULO 737.
 
@@ -12609,7 +12619,7 @@ Estos elementos no podrán estar a una distancia horizontal menor de 5.00 metros
 
 Los desechos biológicos de los animales deberán de ser canalizados hacia espacios donde no representen o constituyan fuentes de contaminación.
 
-### CAPÍTULO XI. Edificación para Educación
+### CAPÍTULO X. Edificación para Comercios y Oficinas
 
 ###### ARTÍCULO 749.
 
@@ -12637,7 +12647,7 @@ La superficie mínima para una oficina será de ocho metros cuadrados y su altur
 
 En el proyecto arquitectónico de los edificios comerciales se incluirán las áreas necesarias para letreros, rótulos o cualquier otra clase de anuncios, así como para los anuncios que deban integrarse al propio inmueble, con sujeción a las disposiciones de este Libro.
 
-### CAPÍTULO XII. Edificación para Hospitales o Clínicas
+### CAPÍTULO XI. Edificación para Educación
 
 ###### ARTÍCULO 755.
 
@@ -12671,7 +12681,7 @@ En edificios escolares, la dimensión mínima de los patios que sirvan para dar 
 
 Cada escuela deberá tener un local destinado para servicio médico de emergencia, dotado del equipo e instrumental necesario.
 
-### CAPÍTULO XIII. Edificación Para Industrias
+### CAPÍTULO XII. Edificación para Hospitales o Clínicas
 
 ###### ARTÍCULO 761.
 
@@ -12709,7 +12719,7 @@ En las salas de urgencias los accesos a las mismas, no deberán ser interferidos
 
 Todos los departamentos tendrán servicio de llamado sonoro y luminoso.
 
-### CAPÍTULO XIV. Edificación para Centros de Reunión
+### CAPÍTULO XIII. Edificación Para Industrias
 
 ###### ARTÍCULO 769.
 
@@ -12743,7 +12753,7 @@ De 7,501 m2 a 22,500 m2 75%
 
 De 22,501 m2 en adelante 70%
 
-### CAPÍTULO XV. Edificación para Mercados
+### CAPÍTULO XIV. Edificación para Centros de Reunión
 
 ###### ARTÍCULO 773.
 
@@ -12767,7 +12777,7 @@ Los escenarios, vestidores, cocinas, bodegas, talleres, cuartos de máquinas y c
 
 Habrá una instalación de emergencia con encendido automático, alimentada con acumuladores o baterías, que proporcionará a los salones, vestíbulos y circulaciones una iluminación de emergencia de cinco luxes mínimo en tanto se restablezca la falla.
 
-### CAPÍTULO XVI. Edificación para Salas de Espectáculos
+### CAPÍTULO XV. Edificación para Mercados
 
 ###### ARTÍCULO 778.
 
@@ -12789,7 +12799,7 @@ Los muros de las carnicerías y pescaderías deberán ser lavables, preferenteme
 
 En los tianguis cuando se instalen mantas, deberá conservarse la circulación con una altura mínima de dos metros cincuenta centímetros.
 
-### CAPÍTULO XVII. Edificación para Espectáculos Deportivos
+### CAPÍTULO XVI. Edificación para Salas de Espectáculos
 
 ###### ARTÍCULO 781.
 
@@ -12873,7 +12883,7 @@ Será obligatorio en todas las salas de espectáculos contar con una planta elé
 
 Las salas de espectáculos deberán contar con ventilación artificial adecuada, para que la temperatura del aire tratado, oscile entre los veintitrés y veintisiete grados centígrados; la humedad relativa, entre el treinta por ciento y el sesenta por ciento, sin que sea permisible una concentración de bióxido de carbono mayor de quinientas partes por millón.
 
-### CAPÍTULO XVIII. Edificación para Clubes Deportivos o Sociales
+### CAPÍTULO XVII. Edificación para Espectáculos Deportivos
 
 ###### ARTÍCULO 793.
 
@@ -12905,7 +12915,7 @@ Los edificios para espectáculos deportivos tendrán un local adecuado para serv
 
 Los edificios para espectáculos deportivos deberán tener las instalaciones especiales necesarias para proteger debidamente a los espectadores y jugadores de los riesgos propios del espectáculo que se presente.
 
-### CAPÍTULO XIX. Edificación para Baños Públicos
+### CAPÍTULO XVIII. Edificación para Clubes Deportivos o Sociales
 
 ###### ARTÍCULO 797.
 
@@ -12983,7 +12993,7 @@ VIII. Deberán diferenciarse, mediante el señalamiento adecuado, las zonas de n
 
 Los clubes deportivos tendrán servicio de baños y vestidores, por separado para hombres y para mujeres con pisos antiderrapantes.
 
-### CAPÍTULO XX. Edificación para Templos
+### CAPÍTULO XIX. Edificación para Baños Públicos
 
 ###### ARTÍCULO 800.
 
@@ -13007,7 +13017,7 @@ La superficie mínima para baños individuales será de dos metros cuadrados deb
 
 La instalación de sistemas especiales de vapor o de aire caliente, requerirá autorización de la Secretaría, para lo cual deberá presentarse un diagrama detallado con sus especificaciones y características de operación.
 
-### CAPÍTULO XXI. Ferias con Aparatos Mecánicos
+### CAPÍTULO XX. Edificación para Templos
 
 ###### ARTÍCULO 803.
 
@@ -13021,7 +13031,7 @@ Cuando menos una de las salidas deberá conectarse a la vía pública por medio 
 
 Cuando existan habitaciones anexas al templo, no tendrán conexión dentro con él.
 
-### CAPÍTULO XXII. Estacionamientos y Pensiones
+### CAPÍTULO XXI. Ferias con Aparatos Mecánicos
 
 ###### ARTÍCULO 804.
 
@@ -13039,7 +13049,7 @@ Las ferias con aparatos mecánicos deberán contar, con un lugar previsto con lo
 
 Las áreas destinadas a andadores, deberán estar libres de los estorbos que puedan ocasionar los cables eléctricos o cualquier tipo de cubierta.
 
-### CAPITULO XXIII. Laboratorios
+### CAPÍTULO XXII. Estacionamientos y Pensiones
 
 ###### ARTÍCULO 807.
 
@@ -13167,13 +13177,13 @@ Los requerimientos mínimos en materia de cajones de estacionamiento son los sig
 
 (DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
-### CAPÍTULO XXIV. Cementerios
+### CAPITULO XXIII. Laboratorios
 
 ###### ARTÍCULO 826.
 
 Los laboratorios que manejen productos dañinos al contacto de la piel deberán contar con un número adecuado de regaderas, que se localizarán a una distancia menor de treinta metros del sitio donde se utilicen dichos productos.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO XXIV. Cementerios
 
 ###### ARTÍCULO 827.
 
@@ -13283,7 +13293,7 @@ Los propietarios de monumentos y capillas, están obligados a la conservación d
 
 ## TÍTULO QUINTO. REQUISITOS ESTRUCTURALES
 
-### CAPÍTULO II. Características de las Edificaciones
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 842.
 
@@ -13401,7 +13411,7 @@ a) Subgrupo B.1.- Construcciones de más de veinte metros de altura total o uno 
 
 b) Subgrupo B.2.- Las construcciones restantes pertenecientes a este grupo.
 
-### CAPÍTULO III. Criterios de Diseño y Estados Límite
+### CAPÍTULO II. Características de las Edificaciones
 
 ###### ARTÍCULO 851.
 
@@ -13433,7 +13443,7 @@ Cualquier perforación o alteración de un elemento estructural para alojar duct
 
 No se permitirá que las instalaciones de gas, agua y drenaje crucen juntas constructivas entre edificios, a menos que se provean de conexiones o tramos flexibles especiales.
 
-### CAPÍTULO IV. Acciones, Cargas y Empujes
+### CAPÍTULO III. Criterios de Diseño y Estados Límite
 
 ###### ARTÍCULO 857.
 
@@ -13503,7 +13513,7 @@ Podrán admitirse métodos de análisis con distintos grados de aproximación, s
 
 Los métodos de diseño son los criterios y procedimientos con los que se garantiza que se cumplan los requisitos de seguridad y servicio en una estructura o parte de ésta, una vez que se han definido los sistemas de acciones que obran sobre ella y se han aplicado los métodos de análisis que resulten adecuados para el tipo de estructura de que se trate.
 
-### CAPÍTULO V. Acciones
+### CAPÍTULO IV. Acciones, Cargas y Empujes
 
 ###### ARTÍCULO 866.
 
@@ -13555,7 +13565,7 @@ IV. Lluvia; y
 
 V. Otras acciones tales como explosiones, incendios y otros fenómenos que pueden ocurrir en casos extraordinarios.
 
-### CAPÍTULO VI. Resistencia
+### CAPÍTULO V. Acciones
 
 ###### ARTÍCULO 871.
 
@@ -13589,7 +13599,7 @@ Se incluye dentro de esta categoría la combinación de carga muerta más carga 
 
 II. Acciones Permanentes, Variables y Accidentales.- Dentro de esta categoría se considerarán todas las acciones permanentes que actúen sobre la estructura, las acciones variables que se puedan presentar con su intensidad instantánea y únicamente una acción accidental en cada combinación que se tome en cuenta.
 
-### CAPÍTULO VII. Evaluación de la Seguridad
+### CAPÍTULO VI. Resistencia
 
 ###### ARTÍCULO 873.
 
@@ -13635,7 +13645,7 @@ La resistencia de diseño se considerará igual a la resistencia nominal multipl
 
 La revisión de la seguridad contra estados límite de falla se hará en términos de la resistencia de diseño.
 
-### CAPÍTULO VIII. Cargas Muertas
+### CAPÍTULO VII. Evaluación de la Seguridad
 
 ###### ARTÍCULO 882.
 
@@ -13671,7 +13681,7 @@ En caso de utilizar Códigos distintos a los preferentemente utilizados en este 
 
 Se podrán emplear criterios de diseño diferentes de los especificados en este Libro y en sus Normas Técnicas Complementarias si se justifica, a satisfacción de la Secretaría, que dichos criterios dan lugar a niveles de seguridad iguales o mayores que los establecidos en este capítulo.
 
-### CAPÍTULO IX. Empujes Estáticos de Tierras y Líquidos
+### CAPÍTULO VIII. Cargas Muertas
 
 ###### ARTÍCULO 885.
 
@@ -13693,7 +13703,7 @@ En la estimación de cargas muertas deberá considerarse el peso de las instalac
 
 Los pesos de estos equipos deberán ser calculados de acuerdo a las especificaciones de los fabricantes.
 
-### CAPÍTULO X. Cargas Vivas y otras Acciones Variables
+### CAPÍTULO IX. Empujes Estáticos de Tierras y Líquidos
 
 ###### ARTÍCULO 888.
 
@@ -13727,7 +13737,7 @@ En el diseño de losas de pisos de sótanos y losas de fondo de tanques y depós
 
 Las fuerzas de subpresión deberán tomarse en cuenta en la revisión de la estabilidad total de la estructura de que se trate.
 
-### CAPÍTULO XI. Cargas de Lluvia, Nieve y Granizo
+### CAPÍTULO X. Cargas Vivas y otras Acciones Variables
 
 ###### ARTÍCULO 893.
 
@@ -13861,7 +13871,7 @@ Tratándose de maquinaria de tipo pesado o cuando se tienen sistemas de piso fle
 
 El propietario o poseedor de una edificación deberá solicitar el dictamen de un Perito Responsable de Obra o Perito Especializado según lo establecido por este Libro, cuando se haga cambio de uso de la misma y este cambio produzca cargas muertas o vivas mayores o con una distribución de carga mas desfavorable para la estructura que las originalmente proyectadas y aprobadas conforme a lo previsto en este capítulo.
 
-### CAPÍTULO XII. Diseño por Sismo
+### CAPÍTULO XI. Cargas de Lluvia, Nieve y Granizo
 
 ###### ARTÍCULO 902.
 
@@ -13879,7 +13889,7 @@ Esta carga es de tipo accidental y es adicional a la carga viva como tal, por lo
 
 Los drenajes de cubiertas y azoteas deberán proyectarse de tal manera que garanticen el desalojo eficiente del agua de lluvia o granizo, evitando además en la medida de lo posible la eventual obstrucción de los tubos de bajadas de aguas pluviales.
 
-### CAPÍTULO XIII. Diseño por Viento
+### CAPÍTULO XII. Diseño por Sismo
 
 ###### ARTÍCULO 905.
 
@@ -14043,7 +14053,7 @@ El espacio existente entre las construcciones deberá quedar libre de todo mater
 
 El análisis sísmico de puentes, péndulos invertidos, tanques, chimeneas, silos, tuberías, presas, muros de contención y otras construcciones que no sean edificios en el sentido estricto de la palabra se hará de acuerdo a lo que especifiquen las Normas Técnicas Complementarias correspondientes, y en los aspectos no cubiertos por ellas, dicho análisis se hará de acuerdo a criterios aprobados por la Secretaría.
 
-### CAPÍTULO XIV. Diseño de Cimentaciones
+### CAPÍTULO XIII. Diseño por Viento
 
 ###### ARTÍCULO 924.
 
@@ -14097,7 +14107,7 @@ El procedimiento para realizar dichas modificaciones y el criterio para saber cu
 
 Se revisará la estabilidad de las construcciones ante efectos de viento durante el proceso de construcción o erección. Podrán necesitarse apuntalamientos y construcciones provisionales, especialmente en construcciones de tipo prefabricado.
 
-### CAPÍTULO XV. Construcciones Dañadas
+### CAPÍTULO XIV. Diseño de Cimentaciones
 
 ###### ARTÍCULO 930.
 
@@ -14279,7 +14289,7 @@ De acuerdo a las necesidades del estudio, el Perito Especializado en Geología o
 
 En casos excepcionales, a juicio de la Secretaría, se pedirá al propietario y ocupante de una edificación la realización de nivelaciones periódicas, ya sea por su ubicación, cercanía a alguna falla, grieta, fisuramiento o discontinuidad en el subsuelo, por el tipo de terreno sobre el cual esté desplantada u otras condiciones desfavorables del lugar.
 
-### CAPÍTULO XVI. Obras Provisionales y Modificaciones
+### CAPÍTULO XV. Construcciones Dañadas
 
 ###### ARTÍCULO 954.
 
@@ -14325,7 +14335,7 @@ La Secretaría estará facultada para llevar a cabo una revisión a fondo del pr
 
 Previamente al inicio de las obras de refuerzo de una edificación deberá comprobarse que el edificio dañado cuente con la capacidad de soportar las cargas muertas debidas al peso propio de la estructura, las cargas vivas durante la construcción previstas en este Libro, y el treinta por ciento de las cargas laterales que se obtendrán con las cargas muertas y vivas señaladas anteriormente. Para alcanzar dicha resistencia en la estructura original podrá ser necesario apuntalar o rigidizar temporalmente algunas zonas del edificio.
 
-### CAPÍTULO XVII. Pruebas de Carga
+### CAPÍTULO XVI. Obras Provisionales y Modificaciones
 
 ###### ARTÍCULO 961.
 
@@ -14337,7 +14347,7 @@ Las modificaciones que se pretendan hacer en construcciones ya existentes y que 
 
 Con respecto a la seguridad requerida durante las obras de reacondicionamiento, deberá de observarse lo estipulado en el artículo de seguridad durante las obras.
 
-### CAPÍTULO XVIII. De las Adecuaciones a las Normas Técnicas Complementarias
+### CAPÍTULO XVII. Pruebas de Carga
 
 ###### ARTÍCULO 963.
 
@@ -14411,7 +14421,7 @@ Cuando se requiera evaluar una seguridad de una estructura ante efectos sísmico
 
 Estos procedimientos y criterios deberán ser aprobados previamente por la Secretaría.
 
-### CAPÍTULO I. Generalidades
+### CAPÍTULO XVIII. De las Adecuaciones a las Normas Técnicas Complementarias
 
 ###### ARTÍCULO 974.
 
@@ -14501,7 +14511,7 @@ Por último, por lo que toca a las especificaciones que aparecen en las Normas s
 
 ## TÍTULO SEXTO. EJECUCIÓN DE OBRAS
 
-### CAPÍTULO II. Materiales de Construcción y Obras en la Vía Pública
+### CAPÍTULO I. Generalidades
 
 ###### ARTÍCULO 978.
 
@@ -14571,7 +14581,7 @@ Se tomarán también las precauciones necesarias para impedir el acceso al sitio
 
 En las obras de construcción, deberán proporcionarse a los trabajadores servicios provisionales de agua potable y un sanitario portátil, inodoro o letrina como mínimo, se deberá adicionar uno por cada 25 trabajadores o fracción excedente de 15; y mantenerse permanentemente un botiquín con los medicamentos e instrumentales de curación necesarios para proporcionar primeros auxilios.
 
-### CAPÍTULO III. Tapiales
+### CAPÍTULO II. Materiales de Construcción y Obras en la Vía Pública
 
 ###### ARTÍCULO 990.
 
@@ -14629,7 +14639,7 @@ Cuando se requiera reubicar postes, ya sea de la Comisión Federal de Electricid
 
 Los vehículos que carguen o descarguen materiales para una obra en la vía pública, deberá obtener previamente la autorización correspondiente de la Secretaría. En los casos en que por necesidad de obstrucción de una vialidad exclusivamente en aquellas actividades del proceso constructivo que así lo ameriten, se deberá dar aviso y obtener la autorización de la autoridad de tránsito correspondiente.
 
-### CAPÍTULO IV. Demoliciones
+### CAPÍTULO III. Tapiales
 
 ###### ARTÍCULO 1003.
 
@@ -14669,7 +14679,7 @@ Los constructores y los demoledores de las obras, estarán obligados a conservar
 
 Los rótulos o anuncios sobre los tapiales se sujetarán a las disposiciones del presente Código y en el reglamento respectivo.
 
-### CAPÍTULO V. Mediciones y Trazos
+### CAPÍTULO IV. Demoliciones
 
 ###### ARTÍCULO 1007.
 
@@ -14711,7 +14721,7 @@ La Secretaría podrá ordenar que se suspendan los trabajos cuando no sean tomad
 
 Cualquier demolición en zona decretadas del patrimonio histórico, artístico y arqueológico de la federación, o en el caso de inmuebles catalogados de valor histórico o colindantes con éstos, requerirá previamente a la licencia de demolición, de la autorización correspondiente por parte de las autoridades federales que correspondan y requerirá en todos los casos de Perito Responsable de Obra.
 
-### CAPÍTULO VI. Excavaciones
+### CAPÍTULO V. Mediciones y Trazos
 
 ###### ARTÍCULO 1015.
 
@@ -14731,7 +14741,7 @@ El Perito Responsable de Obra deberá hacer constar que las diferencias no afect
 
 Las separaciones entre construcciones deberán protegerse por medio de tapajuntas o sellos que impidan la penetración de agua, basuras y otros materiales.
 
-### CAPÍTULO VII. Terraplenes y Rellenos
+### CAPÍTULO VI. Excavaciones
 
 ###### ARTÍCULO 1018.
 
@@ -14751,7 +14761,7 @@ Previa autorización de la Secretaría, podrá extraerse agua de un predio media
 
 Las excavaciones estarán protegidas para evitar accidentes de peatones o vehículos con tapiales que ofrezcan la resistencia debida.
 
-### CAPÍTULO VIII. Cimentaciones
+### CAPÍTULO VII. Terraplenes y Rellenos
 
 ###### ARTÍCULO 1022.
 
@@ -14769,7 +14779,7 @@ El grado de compactación recomendado estará en función del uso para el que va
 
 En todo caso, deberán realizarse pruebas de laboratorio en campo para comprobar todo lo anterior en el transcurso de la obra.
 
-### CAPÍTULO IX. Cimbras y Andamios
+### CAPÍTULO VIII. Cimentaciones
 
 ###### ARTÍCULO 1024.
 
@@ -14801,7 +14811,7 @@ Mediante las pruebas de laboratorio indicadas en las Normas Técnicas Complement
 
 Todos los cimientos deberán tener capa impermeabilizante que impida el ascenso de la humedad hacia los muros.
 
-### CAPÍTULO X. Dispositivos para Elevación en las Obras
+### CAPÍTULO IX. Cimbras y Andamios
 
 ###### ARTÍCULO 1031.
 
@@ -14857,7 +14867,7 @@ Para evitar el resbalamiento de los operarios, se clavarán sobre las vigas que 
 
 Las vigas que forman el piso de los andamios y las que forman las rampas, estarán apoyadas por sus extremidades en los puentes, no permitiéndose en ningún caso empalmes intermedios.
 
-### CAPITULO XI. Estructuras de Madera
+### CAPÍTULO X. Dispositivos para Elevación en las Obras
 
 ###### ARTÍCULO 1040.
 
@@ -14889,7 +14899,7 @@ VI. Estar provistas de los medios necesarios para evitar el riesgo de un descens
 
 VII. Los cables que se utilicen para izar o descender materiales o como medio de suspensión, deberán ser de buena calidad, suficientemente resistente y estar exenta de defectos manifiestos.
 
-### CAPÍTULO XII. Mampostería
+### CAPITULO XI. Estructuras de Madera
 
 ###### ARTÍCULO 1044.
 
@@ -14899,7 +14909,7 @@ En estructuras permanentes sólo se empleará madera selecta, de primera o segun
 
 La ejecución de las estructuras de madera deberá ajustarse a las especificaciones de diseño, a las características de las uniones, según su tipo, a los requerimientos para el montaje, a las tolerancias, a las especificaciones sobre contenido de humedad, a los requisitos de protección de la madera, y a los demás conceptos que se fijan en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Madera, de este Libro.
 
-### CAPÍTULO XIII. Concreto Hidráulico Simple y Reforzado
+### CAPÍTULO XII. Mampostería
 
 ###### ARTÍCULO 1046.
 
@@ -14941,7 +14951,7 @@ Para verificar que los elementos de mampostería con funciones estructurales o c
 
 En el caso de los morteros bastará con verificar de manera exhaustiva en obra que se cumpla con los proporcionamientos de sus componentes según se especifique en el proyecto estructural.
 
-### CAPÍTULO XIV. Estructuras Metálicas
+### CAPÍTULO XIII. Concreto Hidráulico Simple y Reforzado
 
 ###### ARTÍCULO 1052.
 
@@ -15019,7 +15029,7 @@ El proceso de curado deberá mantenerse el tiempo que requiera el concreto para 
 
 Los elementos de concreto simple, reforzado o presforzado que se encuentren expuestos a agentes intemperizantes en ambientes dañinos que puedan modificar las dimensiones de las piezas o disminuir los recubrimientos exigidos, deberán protegerse adecuadamente por medio de recubrimientos aditivos o cementos especiales.
 
-### CAPÍTULO XV. Instalaciones
+### CAPÍTULO XIV. Estructuras Metálicas
 
 ###### ARTÍCULO 1066.
 
@@ -15087,7 +15097,7 @@ Para tal efecto, tanto en el diseño estructural como en la construcción de las
 
 2. En el caso de que se trate de de (sic) conexiones entre columnas de concreto y trabes de acero, no bastará con que las vigas queden ahogadas dentro del concreto de la columna, pues de esta manera no se garantiza la transmisión de los esfuerzos debidos a flexión de la trabe a columna. Por tanto se deberán dejar ahogadas en las paredes de la columna, placas que reciban a las vigas o trabes que lleguen al nudo, además de vástagos metálicos que atraviesen el interior de la columna, para transmitir las tensiones que se generen entre una placa y la correspondiente de la cara contraria.
 
-### CAPÍTULO XVI. Fachadas y Recubrimientos
+### CAPÍTULO XV. Instalaciones
 
 ###### ARTÍCULO 1072.
 
@@ -15121,9 +15131,7 @@ Los ductos de vapor y de aire caliente situados en lugares donde tengan acceso p
 
 Para la instalación y funcionamiento de calderas, compresores y líneas o salidas de aire comprimido, deberán sujetarse en su diseño y construcción a los ordenamientos legales aplicables en la materia.
 
-### CAPITULO I. Uso de Predios y Edificaciones
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
+### CAPÍTULO XVI. Fachadas y Recubrimientos
 
 ###### ARTÍCULO 1078.
 
@@ -15181,7 +15189,9 @@ Los elementos aislados, tales como fuentes, esculturas, arcos, columnas, monumen
 
 ## TITULO SÉPTIMO. USO, OPERACIÓN Y MANTENIMIENTO
 
-### CAPÍTULO II. Mantenimiento
+### CAPITULO I. Uso de Predios y Edificaciones
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
 
 ###### ARTÍCULO 1089.
 
@@ -15223,7 +15233,7 @@ II. La ejecución de obras, adaptaciones, instalaciones y otros trabajos que sea
 
 Lo anterior independientemente de las sanciones a que se haga acreedor conforme a este Libro.
 
-### CAPÍTULO III. Medidas de Seguridad
+### CAPÍTULO II. Mantenimiento
 
 ###### ARTÍCULO 1093.
 
@@ -15245,7 +15255,7 @@ Deberá darse mantenimiento a las cercas para garantizar su estabilidad.
 
 Quedan prohibidas instalaciones y construcciones precarias en las zonas de las edificaciones, cualquiera que sea el uso que pretenda dárseles.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III. Medidas de Seguridad
 
 ###### ARTÍCULO 1097.
 
@@ -15275,9 +15285,7 @@ La Secretaría podrá clausurar como medida de seguridad, las obras terminadas o
 
 ## TÍTULO OCTAVO. DE LA REGLAMENTACIÓN PARA LA AUTORIZACIÓN, CONTROL Y VIGILANCIA DE LOS USOS DE SUELO
 
-### CAPÍTULO II. De los Requisitos para Solicitar las Autorizaciones de Constancia de Alineamiento y Compatibilidad Urbanística, Fusión, Subdivisión y Relotificación de Predios
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2022)</small>
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1103.
 
@@ -15485,7 +15493,9 @@ IX. Todas las demás que se señalen en este Código Municipal y otras disposici
 
 X. Controlar y vigilar la zonificación y los usos del suelo que se deriven de los Programas de Desarrollo Urbano Municipales y demás disposiciones jurídicas aplicables.
 
-### CAPÍTULO III. Condiciones para Expedir las Autorizaciones de Alineamiento y Compatibilidad Urbanística y de Fusión, Subdivisión y Relotificación de Predios
+### CAPÍTULO II. De los Requisitos para Solicitar las Autorizaciones de Constancia de Alineamiento y Compatibilidad Urbanística, Fusión, Subdivisión y Relotificación de Predios
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2022)</small>
 
 ###### ARTÍCULO 1109.
 
@@ -15637,7 +15647,7 @@ Una vez presentados los requisitos indicados en el artículo anterior, el solici
 
 La resolución referida en el artículo anterior, deberá dictarse en un término no mayor de diez días hábiles, contados a partir de que la Secretaría, por conducto de la Dirección de Fraccionamientos recibió la solicitud debidamente requisitada; en caso de no emitir la determinación en dicho término se entenderá concedida la autorización solicitada, previa certificación que expida la Secretaría.
 
-### CAPÍTULO IV. Disposiciones por Vialidades
+### CAPÍTULO III. Condiciones para Expedir las Autorizaciones de Alineamiento y Compatibilidad Urbanística y de Fusión, Subdivisión y Relotificación de Predios
 
 ###### ARTÍCULO 1122.
 
@@ -15719,7 +15729,7 @@ f) Que no disminuya el área de donación determinada por el Ayuntamiento.
 
 Sólo se autorizará el 10% de relotificaciones de predios con respecto al total de lotes aprobados originalmente en los fraccionamientos, siempre y cuando no se sature o afecten las instalaciones señaladas en el inciso b) de este artículo y que dicha relotificación no rebase el 12% de lotes previamente autorizados en una manzana.
 
-### CAPÍTULO V. Del Control del Desarrollo Urbano y Disposiciones con Respecto de la Propiedad de los Bienes Inmuebles
+### CAPÍTULO IV. Disposiciones por Vialidades
 
 ###### ARTÍCULO 1125.
 
@@ -15745,7 +15755,7 @@ VII.- ANDADORES: Son aquellos que servirán exclusivamente para el tránsito de 
 
 Todas las vías públicas que se construyan deberán contar con el diseño apropiado para facilitar el acceso y uso para las personas con discapacidad.
 
-### CAPÍTULO VI. De los Usos del Suelo Permitidos, Condicionados o Prohibidos
+### CAPÍTULO V. Del Control del Desarrollo Urbano y Disposiciones con Respecto de la Propiedad de los Bienes Inmuebles
 
 ###### ARTÍCULO 1127.
 
@@ -15823,7 +15833,7 @@ Nadie puede abrir ventanas, vanos o espacios libres que tengan una colindancia d
 
 No se pueden tener ventanas o vanos para asomarse, ni balcones y otros voladizos semejantes, sobre la propiedad del vecino, prolongándose más allá del limite que separa las propiedades respectivas. Tampoco pueden tenerse vistas de costado u oblicuas sobre la misma propiedad, si no hay un metro de distancia.
 
-### CAPÍTULO VII. Disposiciones Particulares de los Usos del Suelo
+### CAPÍTULO VI. De los Usos del Suelo Permitidos, Condicionados o Prohibidos
 
 ###### ARTÍCULO 1144.
 
@@ -15929,7 +15939,7 @@ En el caso de condominios habitacionales de tipo popular e interés social se pe
 
 Ningún condómino tendrá derecho o facultad para bardear, enmallar, cercar o construir sobre áreas de uso común.
 
-### CAPÍTULO VIII. De las Infracciones y Sanciones
+### CAPÍTULO VII. Disposiciones Particulares de los Usos del Suelo
 
 ###### ARTÍCULO 1153.
 
@@ -16005,7 +16015,7 @@ M) No requieren de licencia para su colocación las estructuras que tengan cará
 
 Una vez que el solicitante cumpla con cada uno de los requisitos aplicables, la Secretaria tendrá un plazo de diez días hábiles para resolver el trámite. Sí en dicho plazo la Secretaria no resuelve la solicitud, se entenderá como resuelta en sentido negativo.
 
-### CAPÍTULO IX. Denuncia Popular
+### CAPÍTULO VIII. De las Infracciones y Sanciones
 
 ###### ARTÍCULO 1157.
 
@@ -16023,7 +16033,7 @@ Los gastos generados con motivo de una demolición efectuada por la Secretaría 
 
 La Secretaría requerirá, en todo caso, a la persona que contravenga lo dispuesto en el artículo anterior, para que se ajuste al mismo; en caso de no hacerlo ésta en el plazo que le será previamente fijado, el cual no podrá ser menor a diez días hábiles, se procederá en los términos del numeral que antecede.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO IX. Denuncia Popular
 
 ###### ARTÍCULO 1161.
 
@@ -16045,7 +16055,7 @@ El desahogo del procedimiento referido en este capítulo, no excederá de treint
 
 ## TÍTULO NOVENO. DE LA REGLAMENTACIÓN EN MATERIA DE ANUNCIOS
 
-### CAPÍTULO II. De los Trámites Administrativos y Registros
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1165.
 
@@ -16349,7 +16359,7 @@ No se requiere licencia para la colocación de anuncios adosados cuando no sean 
 
 Cuando se pretenda instalar este tipo de anuncios dentro del Centro Histórico o en las Zonas Especiales consideradas por este Código, el interesado deberá presentar ante la Secretaría un croquis acotado o fotografía, indicando las dimensiones del anuncio y el lugar en que se pretenda colocar, en cuyo caso deberá sujetarse a las restricciones que se establecen en este Código y el Reglamento para el Centro Histórico en correlación a la Ley de Protección y Fomento al Patrimonio Cultural de Aguascalientes para la instalación de anuncios en dichos lugares.
 
-### CAPÍTULO III. Clasificación de los Anuncios
+### CAPÍTULO II. De los Trámites Administrativos y Registros
 
 ###### ARTÍCULO 1200.
 
@@ -16465,7 +16475,7 @@ Los fabricantes, arrendadores y rotulistas de anuncios, tienen la obligación de
 
 Los pagos de licencias, permisos y sanciones, se realizarán en las cajas receptoras de la Secretaría de Finanzas Públicas del Municipio de Aguascalientes.
 
-### CAPÍTULO IV. Requerimientos Técnicos Generales
+### CAPÍTULO III. Clasificación de los Anuncios
 
 ###### ARTÍCULO 1214.
 
@@ -16635,7 +16645,7 @@ X. Proyectados.
 
 Son anuncios especiales, aquellos cuyas características no corresponden a alguno de los clasificados por el Código o por éste Código Municipal o bien los que se adapten a un determinado diseño arquitectónico o se adecuen armoniosamente al entorno circundante en forma única.
 
-### CAPÍTULO V. Anuncios Estructurales
+### CAPÍTULO IV. Requerimientos Técnicos Generales
 
 ###### ARTÍCULO 1223.
 
@@ -16677,7 +16687,7 @@ En caso de incumplimiento de lo preceptuado en el artículo anterior, no se reno
 
 En caso de estructuras iguales para soporte de anuncios iguales, se podrá registrar una sola memoria de cálculo por cada anuncio, debidamente firmada en original por un Perito registrado ante la Secretaría, siempre y cuando las características de suelo sean similares y no se encuentre bajo la influencia de una falla geológica; si las características son distintas, deberá presentarse una memoria de cálculo por cada anuncio.
 
-### CAPÍTULO VI. Anuncios Semiestructurales
+### CAPÍTULO V. Anuncios Estructurales
 
 ###### ARTÍCULO 1232.
 
@@ -16853,7 +16863,7 @@ IV. Los espacios que no se utilicen para la fijación de anuncios, con respecto 
 
 V. La altura máxima de estos anuncios será de 2.50 metros.
 
-### CAPÍTULO VII. Anuncios sin Estructura Soportante
+### CAPÍTULO VI. Anuncios Semiestructurales
 
 ###### ARTÍCULO 1240.
 
@@ -16883,7 +16893,7 @@ III. La distancia mínima de cualquier elemento integrante del anuncio, a cualqu
 
 IV. La altura máxima del anuncio será de 3.00 metros y como superficie máxima deberá tener 12 metros cuadrados, incluyendo todos los elementos del mismo.
 
-### CAPÍTULO VIII. Disposiciones por Zona
+### CAPÍTULO VII. Anuncios sin Estructura Soportante
 
 ###### ARTÍCULO 1242.
 
@@ -17043,7 +17053,7 @@ La responsabilidad de cualquier tipo de daño que se origine con motivo de la ut
 
 La Secretaría, con la opinión del Comité, resolverá los casos que por sus características sean considerados como especiales o que no tengan similitud con los anuncios mencionados en este Código Municipal.
 
-### CAPÍTULO IX. Disposiciones por Vialidades
+### CAPÍTULO VIII. Disposiciones por Zona
 
 ###### ARTÍCULO 1254.
 
@@ -17429,7 +17439,7 @@ Altura del poste
 
 18 m2
 
-### CAPÍTULO X. Medidas de Seguridad, Infracciones y Sanciones
+### CAPÍTULO IX. Disposiciones por Vialidades
 
 ###### ARTÍCULO 1268.
 
@@ -17471,7 +17481,7 @@ Todos los anuncios, excepto los clasificados en este Código Municipal como estr
 
 En las vialidades locales, se permite la instalación de los anuncios que sean conformes al uso del suelo o zona especial donde se ubique la vialidad.
 
-### CAPÍTULO XI. Denuncia Popular
+### CAPÍTULO X. Medidas de Seguridad, Infracciones y Sanciones
 
 ###### ARTÍCULO 1277.
 
@@ -17553,9 +17563,7 @@ En el caso de reincidencia de los fabricantes de anuncios, arrendatarios o rotul
 
 La Secretaría ejercerá la facultad de inspección y verificación en materia de anuncios, observando en todo momento las disposiciones que en esta materia disponga el Código Municipal y la demás legislación aplicable.
 
-### CAPÍTULO I. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+### CAPÍTULO XI. Denuncia Popular
 
 ###### ARTÍCULO 1289.
 
@@ -17583,9 +17591,9 @@ El desahogo del procedimiento referido en este capítulo, no excederá de quince
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO II. De las Autoridades
+### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1293.
 
@@ -17725,9 +17733,9 @@ ARTÍCULO 1297 TER.- Se atenderán todas las quejas ciudadanas y asimismo se tom
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO III. De la Clasificación de los Establecimientos o Lugares para la Venta y/o consumo de Bebidas Alcohólicas
+### CAPÍTULO II. De las Autoridades
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 1298.
 
@@ -18023,7 +18031,7 @@ III. Hacer del conocimiento de la Secretaria de Seguridad Pública Municipal y d
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO IV. De los Horarios
+### CAPÍTULO III. De la Clasificación de los Establecimientos o Lugares para la Venta y/o consumo de Bebidas Alcohólicas
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -18147,7 +18155,7 @@ b) Farmacias, Boticas o Similares.- Establecimientos destinados a la venta de me
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO V. De la Expedición de las Licencias y Permisos para la Venta de Bebidas Alcohólicas, Sustancias o Medicamentos de efecto Psicotrópico o Enervantes
+### CAPÍTULO IV. De los Horarios
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -18349,7 +18357,7 @@ ARTÍCULO 1302 SEPTIES.- La autoridad municipal competente, podrá suspender la 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO VI. De la Pérdida, Extravío o Robo de la Licencia
+### CAPÍTULO V. De la Expedición de las Licencias y Permisos para la Venta de Bebidas Alcohólicas, Sustancias o Medicamentos de efecto Psicotrópico o Enervantes
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -18583,7 +18591,7 @@ ARTÍCULO 1312 BIS.- En todos los establecimientos mercantiles que el Municipio 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO VII. De la Renovación de la Licencia
+### CAPÍTULO VI. De la Pérdida, Extravío o Robo de la Licencia
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -18609,7 +18617,7 @@ Cuando se presuma que los hechos revisten carácter delictivo, se procederá a f
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO VIII. De la Venta Clandestina de Bebidas Alcohólicas
+### CAPÍTULO VII. De la Renovación de la Licencia
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -18641,7 +18649,7 @@ ARTÍCULO 1316 TER.- Una vez presentados todos los requisitos y realizado el pag
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO IX. Del Aseguramiento
+### CAPÍTULO VIII. De la Venta Clandestina de Bebidas Alcohólicas
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -18665,7 +18673,7 @@ ARTÍCULO 1317 TER.- Para efectos de imponer las sanciones del presente capítul
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO X. De las Obligaciones y Prohibiciones
+### CAPÍTULO IX. Del Aseguramiento
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -18739,7 +18747,9 @@ El proceso de destrucción se realizará independientemente de la asistencia de 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO XI. De las Farmacias, Droguerías, Tlapalerías o Similares
+### CAPÍTULO X. De las Obligaciones y Prohibiciones
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1322.
 
@@ -18837,9 +18847,7 @@ XIII. Dar mal uso a los colores y símbolos nacionales así como retratos o esta
 
 > <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO III], P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO XII. De los Hoteles, Moteles, Casas de Huéspedes, Mesones y Otros Establecimientos Similares
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO XI. De las Farmacias, Droguerías, Tlapalerías o Similares
 
 ###### ARTÍCULO 1323.
 
@@ -18943,7 +18951,9 @@ La Secretaría del H. Ayuntamiento y Dirección General de Gobierno, podrá form
 
 > <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO IV], P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO XIII. De los Billares, Boliches, Máquinas de Juegos, Videojuegos, Juegos Electrónicos y Renta de Equipos de Cómputo
+### CAPÍTULO XII. De los Hoteles, Moteles, Casas de Huéspedes, Mesones y Otros Establecimientos Similares
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 1330.
 
@@ -18955,9 +18965,7 @@ La violación a las obligaciones anteriores será materia de sanción en los té
 
 > <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO V], P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO XIV. De las Salas de Cine y los Establecimientos Dedicados a la Venta, Renta y/o Intercambio de Fonogramas o Videogramas
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+### CAPÍTULO XIII. De los Billares, Boliches, Máquinas de Juegos, Videojuegos, Juegos Electrónicos y Renta de Equipos de Cómputo
 
 ###### ARTÍCULO 1331.
 
@@ -19063,7 +19071,9 @@ Los establecimientos dedicados a la renta de equipos de cómputo para Internet o
 
 > <small>(ADICIONADO [N. DE E. REFORMADA Y REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO VI], P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO XV. De los Establecimientos Dedicados a la Renta de Salones Para Fiestas Infantiles, Jardines y Salones Para Fiestas y Banquetes
+### CAPÍTULO XIV. De las Salas de Cine y los Establecimientos Dedicados a la Venta, Renta y/o Intercambio de Fonogramas o Videogramas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 1335.
 
@@ -19115,9 +19125,7 @@ Además, las salas de cine deberán presentar por escrito la Licencia - autoriza
 
 > <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO VII], P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO XVI. De Las Personas que se Dediquen a La Venta de "Revistas y Periódicos en Estanquillos, Kioscos o Locales
-
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+### CAPÍTULO XV. De los Establecimientos Dedicados a la Renta de Salones Para Fiestas Infantiles, Jardines y Salones Para Fiestas y Banquetes
 
 ###### ARTÍCULO 1337.
 
@@ -19125,9 +19133,9 @@ Los establecimientos dedicados a la renta de salones para fiestas infantiles, ja
 
 > <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO VIII], P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO XVII. De la Actividad Musical en Vía Pública
+### CAPÍTULO XVI. De Las Personas que se Dediquen a La Venta de "Revistas y Periódicos en Estanquillos, Kioscos o Locales
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1338.
 
@@ -19135,7 +19143,9 @@ Las personas que se dediquen a la venta de revistas y periódicos en estanquillo
 
 > <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO IX], P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO XVIII. De los Espectáculos Públicos
+### CAPÍTULO XVII. De la Actividad Musical en Vía Pública
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 1339.
 
@@ -19327,7 +19337,7 @@ Será potestativo del propietario de cualquier establecimiento, mientras dure la
 
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE ESPECTÁCULOS Y DIVERSIONES PÚBLICAS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 26 DE AGOSTO DE 2013) (F. DE E., P.O. 2 DE SEPTIEMBRE DE 2013)
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO XVIII. De los Espectáculos Públicos
 
 ###### ARTÍCULO 1348.
 
@@ -19363,7 +19373,7 @@ Será potestativo del propietario de cualquier establecimiento, mientras dure la
 
 ## TÍTULO SEGUNDO. DE LOS MERCADOS, ESTACIONAMIENTOS, COMERCIO Y OTRAS ACTIVIDADES EN LA VÍA PÚBLICA
 
-### CAPÍTULO II. De los Mercados y las Actividades Comerciales
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1356.
 
@@ -19495,7 +19505,7 @@ XVI. Se considera como Zona de Restricción Comercial dentro del Centro Históri
 
 El primer punto inicia rumbo norte entre el INADE y el fraccionamiento cerrado llamado La Mancha, el punto 2 al 10 en línea quebrada al nor-poniente con la Calle Urbanistas junto al INADE, el punto 11 y 12 en línea quebrada al sur-oriente sobre Avenida Tecnológico, el punto 13 subiendo en línea recta al nor-oriente por la Calle Balnearios contiguo al Condominio Misión La Alameda, punto 14 en línea recta rumbo nor-poniente sobre avenida tecnológico contiguo al Ejido Ojocaliente, punto 15 en línea recta entre manzanas rumbo nor-oriente hasta Alameda, punto 16 en línea recta rumbo al nor-oriente sobre Alameda, punto 17 y 18 en quebrada rumbo al nor-poniente sobre Avenida Aguascalientes junto al fraccionamiento Fidel Velázquez, punto 19, 20 y 21 en quebrada entre manzanas rumbo al nor-poniente entre La Pona y el fraccionamiento Lomas de Santa Anita, punto 22 y 23 rumbo al sur-poniente entre manzanas en Bosques de la Alameda III y el condominio Bosques de la Alameda, punto 24 rumbo al nor-poniente sobre Canal Interceptor contiguo al fraccionamiento Nueva Alameda, punto 25 rumbo sur-poniente sobre la calle 1810 por Lomas de Santa Anita, punto 26 rumbo nor-poniente sobre la calle Paileros entre Lomas de Santa Anita y Colonia Del Trabajo, punto 27 sobre la Avenida Siglo XIX rumbo sur poniente entre Lomas de Santa Anita y Colonia Del Trabajo, punto 28, 29, 30 y 31 en quebrada sobre Avenida Convención de 1914 Ote en el Fraccionamiento Santa Anita, punto 32 sobre la calle Albéniz al sur-poniente, punto 33, 34, 35 36, y 37 en quebrada al nor-poniente sobre Heroico Colegio Militar en el fraccionamiento Lomas de Santa Anita, punto 38, 39, 40 y 41 en quebrada al sur-poniente sobre Gabriela Mistral entre fraccionamiento Lomas de Santa Anita y Colonia Gremial, punto 42 rumbo al poniente sobre la Avenida Lic. Manuel Gómez Morín entre fraccionamiento Lomas de Santa Anita y Colonia Gremial, punto 43, 44, 45, 46, 47 en quebrada sobre la calle 28 de Agosto al sur-oriente entre las vías férreas y colonia Gremial, punto 48 rumbo al sur-poniente sobre la calle Decreto 27 de Septiembre entre colonia Gremial y colonia La Purísima, punto 49 rumbo al nor-poniente sobre la calle General Francisco Villa entre la colonia Gremial y Zona Centro, punto 50 rumbo al sur-poniente sobre la calle Independencia de México entre la colonia Gremial y Zona Centro, punto 51 rumbo al nor-poniente sobre la calle Liberato Santacruz a un lado de la colonia Primavera, punto 52 rumbo al sur-poniente sobre la calle Doctor Gerónimo de Orozco colindante a la colonia Primavera, punto 53 rumbo al nor-poniente sobre la calle Gran Avenida entre la colonia Gremial y la colonia La Fe, punto 54, 55 y 56 en quebrada sobre la calle Petróleos Mexicanos rumbo al nor-oriente entre la colonia Gremial y colonia La Fe, punto 57 rumbo al sur-poniente sobre la calle Norberto Gómez Hornedo Ote en la colonia Industrial, punto 58 rumbo al sur-oriente sobre la calle José Bolado en la colonia Industrial, punto 59 rumbo al sur-poniente sobre la calle Saltillo en la colonia Industrial, punto 60 rumbo al sur-poniente sobre la Avenida Independencia en la colonia Industrial, punto 61 rumbo al sur-poniente en Sección entre manzanas entre colonia La Fe y condominio vertical Bugambilias, punto 62 rumbo al nor-poniente sobre la calle General Ignacio Zaragoza en la colonia San Pablo, punto 63 rumbo al poniente sobre la calle Rio Morcinique en la colonia San Pablo, punto 64 con rumbo al nor-poniente sobre la calle Marina Nacional en la colonia San Pablo, punto 65 y 66 en quebrada rumbo al sur-poniente sobre la calle Rio Papaloapan entre la colonia Altavista y San Pablo, punto 67 rumbo al sur-poniente sobre la calle Alberto Davalos en la colonia Del Carmen, punto 68 con rumbo al sur-poniente sobre la calle Alaman en la colonia Altavista, punto 69 y 70 en quebrada rumbo al nor-poniente sobre la calle La Luz en la colonia Del Carmen, punto 71, 72, 73 y 74 en quebrada rumbo al sur-poniente sobre la calle Arroyo de los Arellano en la colonia Miravalle, punto 75 rumbo al sur sobre la Avenida Convención de 1914 PTE en la colonia Miravalle, punto 76 sección entre manzanas rumbo al oriente hacia el fraccionamiento Heliodoro García, punto 77 y 78 en quebrada rumbo al sur-poniente sobre la calle Felipe Ángeles en el fraccionamiento Heliodoro García, punto 79 con rumbo al sur-oriente sobre la calle Guadalupe en el fraccionamiento Heliodoro García, punto 80 y 81 quebrada entre manzanas rumbo al sur-poniente entre la colonia San Marcos y la colonia Gómez, punto 82 con rumbo al sur-oriente sobre la calle General Emiliano Zapata en la colonia San Marcos, punto 83, 84, 85, 86, 87 y 88 en quebrada rumbo al sur-oriente sobre la calle Doctor Pedro de Alba entre la colonia San Marcos, fraccionamiento Modelo, Barrio de San Marcos y fraccionamiento Vivienda Popular, punto 89 rumbo al sur-poniente sobre la calle Rafael Rodríguez Domínguez en el fraccionamiento Vivienda Popular, punto 90 y 91 en quebrada rumbo al sur-poniente sobre la calle Nogal en la colonia Circunvalación Poniente, punto 92, 93, 94 y 95 en quebrada rumbo al sur-oriente sobre la Avenida Lienzo Charro colindante al Perímetro Ferial, punto 96 y 97 en quebrada rumbo al nor-oriente sobre la calle Los Laureles en el fraccionamiento Las Flores, punto 98 y 99 en quebrada rumbo al sur-oriente sobre la calle José F. Elizondo en la colonia Las Flores, punto 100 sección entre manzanas rumbo al sur-oriente entre colonia Obraje y fraccionamiento Santa Elena, punto 101 rumbo al sur-oriente sobre la calle República de Chile en el fraccionamiento Santa Elena, punto 102, 103, 104, 105 y 106 en quebrada entre manzanas rumbo al sur-oriente entre la colonia Obraje y fraccionamiento Santa Elena, punto 107 rumbo al sur-oriente sobre la calle Bogotá en el fraccionamiento Santa Elena, punto 108, 109, 110 y 111 sección entre manzanas rumbo al sur-oriente entre la colonia Obraje y fraccionamiento Las Américas, punto 112 y 113 en quebrada rumbo al poniente sobre la calle Republica de Ecuador en el fraccionamiento Las Américas, punto 114 rumbo al sur-poniente sobre la calle Republica de Brasil en el fraccionamiento Las Américas, punto 115 sección entre manzanas rumbo al oriente entre colonia Obraje y fraccionamiento Las Américas, punto 116 y 117 en quebrada rumbo al nor-oriente sobre la calle Quinta Avenida en la colonia Obraje y fraccionamiento Las Américas, punto 118 rumbo al nor-oriente sobre la calle Republica de Ecuador en el fraccionamiento Las Américas, punto 119 y 120 en quebrada rumbo al sur-poniente sobre la calle República de Argentina entre la colonia Obraje y fraccionamiento Las Américas, punto 121 y 122 sección entre manzanas en quebrada rumbo al oriente e (sic) entre la colonia Obraje y fraccionamiento Las Américas, punto 123, 124 y 125 en quebrada rumbo al nor-oriente sobre la Avenida Mahatma Gandhi en la colonia Obraje, punto 126, 127, 128 y 129 en quebrada rumbo al norte sobre la calle José María Chávez colindante a la colonia Los Cedros, punto 130, 131, 132 y 133 en quebrada rumbo al sur-oriente sobre la Avenida Ayuntamiento entre el Barrio El Encino y Los Cedros, punto 134 rumbo al sur-oriente en intersección entre Avenida Ayuntamiento y Avenida Paseo de la Cruz en el Barrio El Encino, punto 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146 y 147 en quebrada rumbo al sur-oriente sobre la Avenida Ayuntamiento entre la colonia Los Cerdos, el Barrio El Encino, Caminero, Barrio de La Salud y Lindavista, punto 148 con rumbo al poniente sobre Avenida Convención de 1914 Sur en la colonia Caminero y Barrio de La Salud, punto 149, 150, 151, 152, 153 y 154 en quebrada rumbo al sur-oriente en la calle Fuente del Ebro en el fraccionamiento Jardines de Las Fuentes y Barrio de La Salud, punto 155 rumbo al norte sobre Avenida Héroe de Nacozari Sur en el fraccionamiento INFONAVIT Ojo de Agua, punto 156, 157, 158, 159, 160, 161, 162, 163, 164 y 165 con rumbo al nor-oriente en la Avenida Ayuntamiento entre la colonia Ojo de agua y el fraccionamiento INFOVANIT Ojo de Agua, punto 166 con rumbo al sur-oriente en la intersección con vías del tren entre el fraccionamiento Jardines del Sol y la Colonia Ojo de Agua, punto 167, 168, 169, 170 y 171 en quebrada con rumbo al nor-oriente sobre Arroyo del Cedazo en el fraccionamiento Jardines del Sol, punto 172 con rumbo al nor-oriente sobre la Avenida General Mariano Escobedo en la colonia La Cruz, punto 173, 174, 175 y 176 en quebrada rumbo al nor-oriente sobre el Arroyo del Cedazo en el fraccionamiento Misión de Santa Fe, punto 177, 178, 179, 180 y 181 en quebrada rumbo al nor-oriente sobre la Avenida Misioneros en el fraccionamiento Misión de Santa Fe, punto 182 con rumbo al nor-oriente sobre la Avenida Arqueros en el fraccionamiento Vista del Sol III, punto 183, 184, 185 y 186 en quebrada rumbo al nor-oriente sobre la Avenida Misioneros en el fraccionamiento Vista del Sol III, punto 187, 188 y 189 en quebrada con rumbo al sur-oriente en el Arroyo del Cedazo con la empresa Sensata, punto 190, 191, 192 y 193 en quebrada con rumbo al norte sobre el Arroyo del Cedazo contiguo al Parque el Cedazo, punto 194 con rumbo al nor-poniente sobre la Avenida Paseo Ojocaliente en el fraccionamiento Jesús Gomes Portugal, punto 195, 196, 197, 198, 199, 200, 201, 202 y 203 en quebrada con rumbo al poniente sobre la calle Cáncer en el fraccionamiento Jesús Gómez Portugal, punto 204 sección entre manzanas con rumbo al sur-poniente en el fraccionamiento Jesús Gómez Portugal, punto 205, 206, 207, 208 y 209 en quebrada con rumbo al sur-poniente en el Arroyo del Cedazo en el fraccionamiento Jesús Gómez Portugal, punto 210 con rumbo al sur-poniente sobre la Avenida Arqueros entre el condominio vertical Primo Verdad INEGI y el fraccionamiento Jesús Gómez Portugal, punto 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226 y 227 en quebrada con rumbo al sur-oriente sobre el Arroyo del Cedazo en el condominio vertical Primo Verdad INEGI, punto 228, 229 y 230 sección entre manzanas en quebrada con rumbo al sur-poniente en el condominio vertical Primo Verdad INEGI, punto 231 con rumbo al sur-poniente sobre el Arroyo del Cedazo en la colonia Jardines de la Convención 2ª Sección, punto 232 y 233 sección entre manzanas quebrada con rumbo al sur-poniente en la Rinconada los Manantiales, punto 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245 y 246 en quebrada con rumbo al sur-poniente sobre el Arroyo del Cedazo entre Rinconada los Manantiales y colonia Ojo de Agua, punto 247 y 248 sección entre manzanas en quebrada con rumbo al nor-poniente en la colonia Ojo de Agua, punto 249 con rumbo al poniente en la intersección de las vías férreas entre colonia Ojo de Agua y Condominio Horizontal Rinconada del Cedazo, punto 250 y 251 sección entre manzanas en quebrada con rumbo al nor-poniente entre colonia Ojo de Agua y Condominio Horizontal Rinconada del Cedazo, punto 252 con rumbo al nor-poniente sobre la calle Nayarit en el Condominio Horizontal Rinconada del Cedazo, punto 253 sección entre manzanas con rumbo al nor-poniente en la colonia Ojo de Agua, punto 254 con rumbo al nor-poniente sobre la calle Los Díaz en la colonia Ojo de Agua, punto 255, 256, 257, 258, 259, 260, 261 y 262 sección entre manzanas en quebrada con rumbo al nor-poniente en la colonia Ojo de Agua, punto 263 con rumbo al nor-oriente sobre la Avenida Convención de 1914 Sur entre colonia Ojo de Agua y el Barrio de La Salud, punto 264, 265, 266 y 267 en quebrada con rumbo al nor-poniente sobre la calle Delicias en la U. H. IV Centenario, punto 268 con rumbo al norte sobre la Avenida Héroes de Nacozari Sur entre el Barrio de La Salud, U. H. IV Centenario, La Huerta, Gámez, Héroes de Aguascalientes y Lázaro Cárdenas, punto 269 con rumbo al oriente sobre la Avenida Licenciado Adolfo López Mateos OTE entre la Colonia Jardines de la Cruz, Colonia Héroes, Colonia San Luis, Barrio de la Estación y fraccionamiento Bona Gens, punto 270 sección entre manzanas con rumbo al nor-oriente entre el INADE y la Hacienda.
 
-### CAPÍTULO III. De las Autoridades que Reglamentan el Comercio en la Vía Pública
+### CAPÍTULO II. De los Mercados y las Actividades Comerciales
 
 ###### ARTÍCULO 1359.
 
@@ -19693,9 +19703,7 @@ XII. Venta de artículos prohibidos por la Ley.
 
 XIII. Expender bebidas embriagantes. No se considerarán para los efectos de ésta disposición como bebidas embriagantes el aguamiel, jerez y rompope que se utilice para preparar bebidas típicas, atendiendo los usos y la costumbre.
 
-### CAPÍTULO IV. Disposiciones Especiales para los Tianguistas
-
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+### CAPÍTULO III. De las Autoridades que Reglamentan el Comercio en la Vía Pública
 
 ###### ARTÍCULO 1371.
 
@@ -19879,9 +19887,9 @@ IX.- No deberá entorpecer el tránsito ni obstruir la visibilidad del arroyo vi
 
 Por ningún motivo, se otorgará por anticipado ningún permiso, si no se ha cumplido con la solicitud, documentación, procedimiento o dictamen de aprobación.
 
-### CAPÍTULO V. De los Permisos para el Comercio en la Vía Pública
+### CAPÍTULO IV. Disposiciones Especiales para los Tianguistas
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 1374.
 
@@ -20021,7 +20029,7 @@ Para verificar el debido cumplimiento de las disposiciones que señala el presen
 
 El H. Ayuntamiento proporcionará la seguridad en los tianguis a través de la Secretaría de Seguridad Pública.
 
-### CAPÍTULO VI. De la Expedición de Permisos para el Comercio en la Vía Pública
+### CAPÍTULO V. De los Permisos para el Comercio en la Vía Pública
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
@@ -20095,7 +20103,9 @@ IV.- El horario para ejercer la actividad comercial no deberá de exceder de och
 
 V.- Determinación de la Secretaría del H. Ayuntamiento del Municipio de Aguascalientes, sobre la disposición del lugar en donde se ejercerá la actividad comercial.
 
-### CAPÍTULO VII. Derechos y Obligaciones de los Comerciantes en la Vía Pública
+### CAPÍTULO VI. De la Expedición de Permisos para el Comercio en la Vía Pública
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 1385.
 
@@ -20141,7 +20151,7 @@ IV. El pago también podrá ser hasta por todo el año calendario sin que ello l
 
 V. El comerciante queda obligado a exhibir los comprobantes de pago a los verificadores y autoridades municipales acreditadas, que así se lo solicite.
 
-### CAPÍTULO VIII. De los aseadores de calzado y vehículos en la vía pública
+### CAPÍTULO VII. Derechos y Obligaciones de los Comerciantes en la Vía Pública
 
 ###### ARTÍCULO 1388.
 
@@ -20297,9 +20307,7 @@ Los puestos que se instalen en un tianguis, en donde se expenda comida, deberán
 
 Su inobservancia será motivo de infracción y en su caso de clausura, hasta en tanto se cumpla con tales disposiciones y las directrices que se impongan como obligatorias, tanto en materia de seguridad por el uso de combustibles, como de higiene y sanidad, por un máximo de cuarenta y cinco días del año calendario, justificando el motivo de la suspensión.
 
-### CAPÍTULO IX. De los Giros para ejercer el Comercio en la Vía Pública
-
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2019)</small>
+### CAPÍTULO VIII. De los aseadores de calzado y vehículos en la vía pública
 
 ###### ARTÍCULO 1395.
 
@@ -20353,9 +20361,9 @@ El Cabildo determinará y modificará las tarifas a que deberán ajustarse los a
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE AGOSTO DE 2019)</small>
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO IX. De los Giros para ejercer el Comercio en la Vía Pública
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 1401.
 
@@ -20417,7 +20425,7 @@ Los tianguis instalados en las Fiestas Tradicionales del Municipio de Aguascalie
 
 ## TÍTULO PRIMERO. DE LOS FESTEJOS TAURINOS
 
-### CAPITULO II. De la Autoridad
+### CAPÍTULO I. Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
@@ -20497,7 +20505,9 @@ XXXII. Toriles o Chiqueros: Las áreas destinadas para la estancia de las reses 
 
 XXXIII. Trapío: La estampa, integridad, salud y condiciones generales de la res de lidia de acuerdo a su encaste.
 
-### CAPÍTULO III. De las Características de las Plazas de Toros
+### CAPITULO II. De la Autoridad
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 1407.
 
@@ -20711,7 +20721,7 @@ En las plazas de segunda categoría o portátiles, que no cuenten con un local a
 
 Es obligación de la empresa proveer todo lo necesario para el buen funcionamiento de los servicios médicos de plaza.
 
-### CAPÍTULO IV. De las Clases de Espectáculos Taurinos y de los Requisitos para su Organización y Celebración
+### CAPÍTULO III. De las Características de las Plazas de Toros
 
 ###### ARTÍCULO 1417.
 
@@ -20793,7 +20803,7 @@ Habrá suficiente número de taquillas o expendios de boletos, en donde en letre
 
 Las plazas de toros, quedarán sujetas por lo que se refiere a sus condiciones de seguridad y buen aspecto, a la estricta vigilancia de las Secretarías de Desarrollo Urbano, Servicios Públicos y a la Coordinación Municipal de Protección Civil.
 
-### CAPÍTULO V. Derechos y Obligaciones de los Espectadores
+### CAPÍTULO IV. De las Clases de Espectáculos Taurinos y de los Requisitos para su Organización y Celebración
 
 ###### ARTÍCULO 1425.
 
@@ -20953,7 +20963,7 @@ La empresa deberá cuidar todos los utensilios que le corresponda proporcionar y
 
 Las empresas deberán acatar todos los acuerdos y disposiciones que dicten las autoridades encargadas de la aplicación de este Código.
 
-### CAPÍTULO VI. De las Reses de Lidia
+### CAPÍTULO V. Derechos y Obligaciones de los Espectadores
 
 ###### ARTÍCULO 1436.
 
@@ -21003,9 +21013,7 @@ II. Para poder vender el derecho de apartado o abono deberá anunciarse completo
 
 III. Para garantizar las obligaciones que se contraigan con motivo de la celebración de las corridas de una temporada formal con el Municipio, así como el pago de las multas por violaciones a este Código, la empresa por cada temporada serial de corridas, novilladas o festejos, deberá constituir una fianza, misma que será fijada por el Municipio y a favor de la Secretaría de Finanzas Públicas Municipales.
 
-### CAPÍTULO VII. De la Cuadra de Caballos
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+### CAPÍTULO VI. De las Reses de Lidia
 
 ###### ARTÍCULO 1439.
 
@@ -21077,7 +21085,9 @@ Las reses que vayan a lidiarse deberán estar en los corrales de la plaza, cuand
 
 La anterior disposición estará sujeta a las condicionantes que pueda autorizar el Municipio en el supuesto caso que por el número de festejos no existan corrales suficientes.
 
-### CAPÍTULO VIII. De los Actos Previos a la Lidia
+### CAPÍTULO VII. De la Cuadra de Caballos
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 1446.
 
@@ -21115,9 +21125,7 @@ El estribo derecho de la montadura, deberá estar siempre debidamente forrado a 
 
 Los caballos que resulten con heridas graves a juicio de los Veterinarios, en el curso de la lidia, no podrán continuar participando en ella, atendiéndolos de emergencia los veterinarios de plaza, dependientes del Municipio, cuyos emolumentos dependen de ésta misma, acordes a su nombramiento; la empresa proporcionará los materiales de curación para emergencias, los que estarán disponibles desde veinticuatro horas antes del espectáculo, conforme a la solicitud de los veterinarios. La subsecuente atención será por cuenta del propietario de estos animales, y estarán en libertad de asignar quien los atienda. Los que presenten heridas penetrantes de vientre serán inmediatamente apuntillados por orden de los veterinarios.
 
-### CAPÍTULO IX. Del Desarrollo de la Lidia
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2014)</small>
+### CAPÍTULO VIII. De los Actos Previos a la Lidia
 
 ###### ARTÍCULO 1450.
 
@@ -21213,9 +21221,9 @@ Además de las banderillas ordinarias deberá haber doce pares de banderillas ne
 
 Queda prohibido el uso simultáneo de los colores verde, blanco y rojo en el adorno de las banderillas.
 
-### CAPÍTULO X. Del Rejoneo y los Forcados
+### CAPÍTULO IX. Del Desarrollo de la Lidia
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 1460.
 
@@ -21473,7 +21481,9 @@ Se prohíbe la realización de colectas en cualquier lugar de la plaza durante l
 
 Durante la lidia estará prohibida la venta y/o distribución de cualquier mercancía. Entre una res y otra, será permitida la venta de alimentos, golosinas, refrescos, bebidas, hielo, artículos taurinos y otros, así como bebidas alcohólicas previa autorización de la Autoridad Municipal. Toda bebida y alimento deberán ser servidos en envases desechables que no sean de vidrio y por ningún motivo se dejará el envase de los mismos a los consumidores. Los vendedores únicamente circularán por los pasillos o andadores de la plaza. Se permitirá el alquiler de cojines. El acceso, distribución y venta de periódicos, revistas y/o folletos, así como la distribución de volantes y cualquier tipo de propaganda deberá ser autorizada por la empresa sujetándose a lo estipulado por la reglamentación municipal.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO X. Del Rejoneo y los Forcados
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 1490.
 
@@ -21573,7 +21583,7 @@ Las reses para forcados podrán estar sin puntas, embolados o cubrir los cuernos
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO I. Del Ámbito de Aplicaciones y Principios Generales
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 1505.
 
@@ -21587,7 +21597,7 @@ Las reses para forcados podrán estar sin puntas, embolados o cubrir los cuernos
 
 ## TÍTULO PRIMERO. DEL ACTO ADMINISTRATIVO MUNICIPAL
 
-### CAPÍTULO II. De la Nulidad y Eficacia del Acto Administrativo
+### CAPÍTULO I. Del Ámbito de Aplicaciones y Principios Generales
 
 ###### ARTÍCULO 1507.
 
@@ -21619,7 +21629,7 @@ IX. Tratándose de actos administrativos que sean recurribles, deberá de hacer 
 
 Para efectos de lo anterior, se consideran autoridades municipales el H. Ayuntamiento, las secretarías, las direcciones, los departamentos y demás órganos que integren la administración pública municipal.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO II. De la Nulidad y Eficacia del Acto Administrativo
 
 ###### ARTÍCULO 1510.
 
@@ -21645,9 +21655,7 @@ La nulidad será sustanciada conforme a las reglas del procedimiento del recurso
 
 ## TÍTULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPÍTULO II. De la Capacidad de los Interesados
-
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1515.
 
@@ -21711,7 +21719,9 @@ Los interesados de un procedimiento administrativo municipal, en cualquier momen
 
 Los interesados podrán solicitar les sea expedida copia certificada a su costa de los documentos contenidos en algún expediente en el que actúe, salvo lo dispuesto en el artículo anterior.
 
-### CAPÍTULO III. De las Excusas y Recusaciones
+### CAPÍTULO II. De la Capacidad de los Interesados
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1524.
 
@@ -21731,7 +21741,7 @@ Cuando en una solicitud, escrito o comunicación fungieren varios interesados, l
 
 En ningún trámite administrativo se admitirá la gestión de negocios.
 
-### CAPÍTULO IV. De los Términos
+### CAPÍTULO III. De las Excusas y Recusaciones
 
 ###### ARTÍCULO 1527.
 
@@ -21747,7 +21757,7 @@ IV. Tenga relación de servicio, o dependa del servidor por razones laborales.
 
 V. Cualquier otra prevista en el presente Código.
 
-### CAPÍTULO V. De las Notificaciones
+### CAPÍTULO IV. De los Términos
 
 ###### ARTÍCULO 1528.
 
@@ -21779,9 +21789,7 @@ A falta de términos o plazos establecidos en los reglamentos o actos administra
 
 Los términos fijados en días por disposiciones generales, o por autoridades municipales se computarán sólo los días hábiles.
 
-### CAPÍTULO I. Disposiciones Generales
-
-(REUBICADO, P.O. 13 DE ENERO DE 2014)
+### CAPÍTULO V. De las Notificaciones
 
 ###### ARTÍCULO 1535.
 
@@ -21849,9 +21857,9 @@ En caso de que alguna notificación no haya sido realizada de conformidad con el
 
 ## TITULO TERCERO. DEL PROCEDIMIENTO DE VERIFICACION E INSPECCION
 
-### CAPÍTULO II. De la Determinación de Imposición de Sanciones y Medidas de Seguridad
+### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+(REUBICADO, P.O. 13 DE ENERO DE 2014)
 
 ###### ARTÍCULO 1542.
 
@@ -22001,7 +22009,9 @@ Cuando se trate de segunda o posterior verificación, para cerciorarse del cumpl
 
 Los verificadores deberán evitar en todo momento el hostigamiento o actos de molestia innecesaria, limitándose a la vigilancia o en su caso el (sic) procedimiento establecido en este capítulo para el ejercicio de su función.
 
-### CAPÍTULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
+### CAPÍTULO II. De la Determinación de Imposición de Sanciones y Medidas de Seguridad
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1552.
 
@@ -22023,9 +22033,7 @@ En el supuesto de que los verificadores detecten actividades contrarias y violat
 
 En caso de clausura provisional como medida de seguridad, esta podrá prolongarse, hasta que sean cubiertas las sanciones que importen cantidad liquida.
 
-### CAPÍTULO I. De las Sanciones en Materia de Servicios Públicos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
+### CAPÍTULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
 
 ###### ARTÍCULO 1555.
 
@@ -22295,7 +22303,9 @@ Cuando la determinación de imposición de alguna sanción o medidas de segurida
 
 Para toda violación a las normas y disposiciones municipales previstas en el presente Código y cuya individualización no éste prevista en los artículos subsecuentes se aplicará una sanción de uno a tres mil veces el salario mínimo general vigente en el Estado de Aguascalientes, independientemente de la medida de seguridad y arresto atendiendo a la gravedad de la falta que en su caso proceda.
 
-### CAPÍTULO II. De las Sanciones en Materia de Protección Civil
+### CAPÍTULO I. De las Sanciones en Materia de Servicios Públicos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 1574.
 
@@ -22453,7 +22463,7 @@ IV.- Suspensión de actividades y revocación de los permisos, licencias o autor
 
 3.- Los casos de reincidencia, criterios de calificación de la sanción, gravedad de la conducta y demás disposiciones relativas a la imposición de las sanciones administrativas por violación a las disposiciones que en materia de servicios públicos municipales establezca el presente ordenamiento, será facultad exclusiva de la Secretaría de Servicios Públicos y en el caso del servicio de agua potable y alcantarillado, será competencia del organismo municipal rector de dicho servicio.
 
-### CAPÍTULO III. De las Sanciones en Materia de Construcción
+### CAPÍTULO II. De las Sanciones en Materia de Protección Civil
 
 ###### ARTÍCULO 1575.
 
@@ -22471,9 +22481,7 @@ IV.- Suspensión de actividades y revocación de los permisos, licencias o autor
 
 (DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE SEPTIEMBRE DE 2009)
 
-### CAPÍTULO IV. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2013)</small>
+### CAPÍTULO III. De las Sanciones en Materia de Construcción
 
 ###### ARTÍCULO 1579.
 
@@ -22589,7 +22597,9 @@ III. Se hayan emitido por autoridad incompetente, y acatando disposición judici
 
 IV. La revocación de licencia será pronunciada por la autoridad que haya emitido el acto o resolución de que se trate o en su caso, por el superior jerárquico de dicha autoridad.
 
-### CAPÍTULO V. De las Sanciones en Materia de Espectáculos Públicos
+### CAPÍTULO IV. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1587.
 
@@ -22691,7 +22701,7 @@ b) Cuando resulten falsos los datos o documentos proporcionados por el titular d
 
 c) Por incumplimiento grave de las disposiciones de este Código y demás normatividad aplicable.
 
-### CAPÍTULO VI. De las Sanciones en Materia de Espectáculos Taurinos
+### CAPÍTULO V. De las Sanciones en Materia de Espectáculos Públicos
 
 ###### ARTÍCULO 1589.
 
@@ -22743,9 +22753,7 @@ b) A las empresas que operen en lugares al público o de espectáculos que propi
 
 c) No comenzar el espectáculo a la hora señalada o presentar una variedad distinta a la ofrecida al público.
 
-### CAPÍTULO VII. De las Sanciones en Materia de Comercio en la Vía Pública
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+### CAPÍTULO VI. De las Sanciones en Materia de Espectáculos Taurinos
 
 ###### ARTÍCULO 1590.
 
@@ -22783,7 +22791,9 @@ En los casos de suspensión, cancelación de la licencia de funcionamiento de un
 
 Para efectos de la aplicación de sanciones, empresarios y ganaderos son solidariamente responsables de que las reses de lidia cumplan los requisitos establecidos en el libro Octavo del presente Código.
 
-### CAPÍTULO VIII. De las Sanciones en Materia Ambiental
+### CAPÍTULO VII. De las Sanciones en Materia de Comercio en la Vía Pública
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 1594.
 
@@ -22869,7 +22879,7 @@ Se procederá a la reubicación del comerciante, cuando la estructura del puesto
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2016)</small>
 
-### CAPÍTULO I. Del Recurso de Revisión
+### CAPÍTULO VIII. De las Sanciones en Materia Ambiental
 
 ###### ARTÍCULO 1601
 
@@ -22877,7 +22887,7 @@ Se procederá a la reubicación del comerciante, cuando la estructura del puesto
 
 ## TITULO QUINTO. DEL RECURSO
 
-### CAPÍTULO II. De la Suspensión del Acto
+### CAPÍTULO I. Del Recurso de Revisión
 
 ###### ARTÍCULO 1602.
 
@@ -22926,6 +22936,8 @@ V. Modificar u ordenar la modificación del acto impugnado o dictar u ordenar ex
 ###### ARTÍCULO 1606.
 
 La autoridad resolverá en base a las pruebas, que señale el artículo 1604 de este Código, a los agravios expresados, y lo contenido en el expediente que al efecto deberá remitir la autoridad que puso fin al Procedimiento Administrativo.
+
+### CAPÍTULO II. De la Suspensión del Acto
 
 ###### ARTÍCULO 1607.
 
@@ -24549,8 +24561,6 @@ SEPTIMO.– La Secretaría de Finanzas y la Secretaría de Administración, en e
 
 OCTAVO.– Las referencias hechas al Departamento de Salud Mental de la Dirección General del Sistema para el Desarrollo Integral de la Familia, en las disposiciones reglamentarias, administrativas, contractuales y demás instrumentos legales, se entenderán realizadas al Instituto Municipal de Salud Mental.
 
-...
-
 P.O. 21 DE FEBRERO DE 2022.
 
 > <small>[N. DE E. TRANSITORIOS POR EL QUE SE “REFORMA A LAS FRACCIONES XVII, XVIII Y XIX DEL ARTÍCULO 111 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]</small>
@@ -24694,3 +24704,7 @@ P.O. 23 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DE LAS "REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL Y AL REGLAMENTO DE PANTEONES DEL MUNICIPIO DE AGUASCALIENTES, EN MATERIA DE DEPÓSITO DE RESTOS HUMANOS EN FOSAS, GAVETAS Y NICHOS".]
 
 ÚNICO.- Las presentes reformas y adiciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE FEBRERO DE 2023.
+
+> <small>[N. DE E. LA “DEROGACIÓN DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 12, ASÍ COMO LA ADICIÓN DEL CAPÍTULO XI A DENOMINARSE: DE LA APROBACIÓN DE LAS CUENTAS PÚBLICAS, EN CONJUNTO CON EL ARTÍCULO 96 BIS AL TÍTULO PRIMERO DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.]</small>
