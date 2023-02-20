@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-que-regula-la-actividad-del-tribunal-superior-de-120
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-03-28"
-last_updated: "2022-02-17"
+last_updated: "2023-02-20"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120521&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,13 @@ issue_date: "2017-03-07"
 ---
 # REGLAMENTO QUE REGULA LA ACTIVIDAD DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MEXICO, COMO AUXILIAR DE LA SECRETARIA DE FINANZAS DEL GOBIERNO DE LA CIUDAD DE MEXICO EN LA RECAUDACION DE MULTAS JUDICIALES IMPUESTAS POR SUS ORGANOS JURISDICCIONALES
 
-> <small>[N. DE E. ESTE ORDENAMIENTO ES UNA PUBLICACIÓN ACTUALIZADA DE LA PUBLICACIÓN DE LA GACETA OFICIAL NÚMERO 36 DE FECHA 28 DE MARZO DE 2017.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO QUE REGULA LA RECAUDACIÓN DE MULTAS IMPUESTAS POR EL PODER JUDICIAL DE LA CIUDAD DE MÉXICO COMO AUXILIAR DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS DEL GOBIERNO DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. 20 DE FEBRERO DE 2023, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.poderjudicialcdmx.gob.mx/otros/descarga.php?arv=121/DEP/T03-2019/reglamentotsjcdmxauxiliartesoreria.pdf]</small>
+[NOTA 2: INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL PODER JUDICIAL CIUDAD DE MÉXICO EN: https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/CIRCULAR_CJCDMX_35_3033.pdf.]
 
 REGLAMENTO QUE REGULA LA ACTIVIDAD DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO COMO AUXILIAR DE LA SECRETARÍA DE FINANZAS DEL GOBIERNO DE LA CIUDAD DE MÉXICO, EN LA RECAUDACIÓN DE MULTAS JUDICIALES IMPUESTAS POR SUS ÓRGANOS JURISDICCIONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE FEBRERO DE 2023 (SIN EFECTOS).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el martes 28 de marzo de 2017. (REPUBLICADO EN LA G.O. 17 DE FEBRERO DE 2022).
 
@@ -385,3 +385,11 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se abrogan los Acuerdos Generales 5-24/2010 y 27-42/2010, del Pleno del Consejo de la Judicatura de la Ciudad de México, mediante los cuales se creó la Dirección para el Cobro de Multas Judiciales y por el que se establecen las atribuciones y facultades generales de dicha dirección.
 
 TERCERO.- Quedan sin efecto todas las disposiciones administrativas o reglamentarias internas que se opongan al presente Reglamento.”
+
+G.O. 20 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO GENERAL 11-46/2022 POR EL QUE “SE AUTORIZA EL DOCUMENTO DENOMINADO: REGLAMENTO QUE REGULA LA RECAUDACIÓN DE MULTAS IMPUESTAS POR EL PODER JUDICIAL DE LA CIUDAD DE MÉXICO COMO AUXILIAR DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS DEL GOBIERNO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Poder Judicial de la Ciudad de México. Para su mayor difusión, será publicado mediante el enlace electrónico correspondiente en la Gaceta Oficial de la Ciudad de México y en el Portal de Internet del Poder Judicial de la Ciudad de México.
+
+SEGUNDO.- Se deja sin efectos el Acuerdo General 23-10/2017, emitido por el Pleno del Consejo de la Judicatura de la Ciudad de México, en sesión de fecha veintiocho de febrero de dos mil diecisiete, mediante el cual, se aprobó el “Reglamento que regula la actividad del Tribunal Superior de Justicia de la Ciudad de México, como auxiliar de la Secretaría de Finanzas del Gobierno de la Ciudad de México, como auxiliar de la Secretaría de Finanzas del Gobierno de la Ciudad de México en la recaudación de multas judiciales impuestas por sus órganos jurisdiccionales.”, así como todas aquellas disposiciones administrativas internas que se opongan al presente Reglamento.
