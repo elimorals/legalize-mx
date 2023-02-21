@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2023-02-15"
+last_updated: "2023-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -373,13 +373,21 @@ VI.- Impulsar un sistema racional de administración y desarrollo de los recurso
 
 VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2023)</small>
 
-VIII.- En general prestar con eficiencia los servicios de salubridad general y local, así como realizar las acciones de regulación y control sanitario en los términos de esta ley y demás disposiciones aplicables; y
+VIII.- En general prestar con eficiencia los servicios de salubridad general y local, así como realizar las acciones de regulación y control sanitario en los términos de esta ley y demás disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2023)</small>
 
-IX.- Impulsar permanentemente y fortalecer los servicios de salud para la prevención de embarazos en niñas y adolescentes, así como también, emprender acciones para prevenir el contagio de infecciones de transmisión sexual.
+IX.- Impulsar permanentemente y fortalecer los servicios de salud para la prevención de embarazos en niñas y adolescentes, así como también, emprender acciones para prevenir el contagio de infecciones de transmisión sexual;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+X.- Diferenciar el diagnóstico y atención de la diabetes mellitus: tipo 1, tipo 2, gestacional, y diabetes secundaria; y
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+XI.- Impulsar las acciones necesarias tendentes a brindar atención multidisciplinaria oportuna y adecuada a los diferentes tipos de diabetes, así como el derecho a la insulina e insumos de monitoreo de glucosa, lo anterior sujeto a la disponibilidad presupuestal y en apego a las normas, programas, lineamientos o protocolos vigentes, durante las etapas de detección, diagnóstico, tratamiento, control, vigilancia y educación terapéutica.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -1391,13 +1399,37 @@ VI.- Recomendar y promover, en la esfera de su competencia, las dietas y los pro
 
 VII.- Difundir las necesidades nutritivas que deban satisfacer los cuadros básicos de alimentos;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2023)</small>
 
-VIII.- Proveer de los mecanismos necesarios para dar acceso a suplementos alimenticios a grupos vulnerables; y
+VIII.- Proveer de los mecanismos necesarios para dar acceso a suplementos alimenticios a grupos vulnerables;
 
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2023)</small>
 
-IX.- Atender el impacto que tiene en la esfera de la salud la violencia, de conformidad con las disposiciones aplicables.
+IX.- Atender el impacto que tiene en la esfera de la salud la violencia, de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+X.- Coordinar a través de sus órganos auxiliares, las políticas públicas tendentes a garantizar el acceso a los servicios de salud para la atención de personas con diabetes, en sus diferentes tipos; y
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+XI.- Conformar y administrar el Registro Estatal de personas con diabetes en sus diferentes tipos, con el objetivo de contar con información veraz, precisa, oportuna, completa, fidedigna y verificable, procurando la celebración de convenios con las diversas instancias y prestadores de servicios de salud, concentrando la información.
+
+El Registro tendrá una base poblacional y se integrará por lo menos, con la siguiente información:
+
+a). Información de las y los pacientes, que constará de:
+
+1. Datos relacionados con la identidad, historial ocupacional y laboral, observando las disposiciones relativas a la protección de sus datos personales; y
+
+2. Información demográfica;
+
+b) Información respecto del diagnóstico: fecha de diagnóstico de diabetes y tipo de diabetes;
+
+c) Información respecto al tratamiento que se ha aplicado a las y los pacientes y el seguimiento que se ha dado a los mismos de parte del personal médico.
+
+d) La fuente de información utilizada para cada rubro, modalidad de diagnóstico y de tratamiento; y
+
+e) Toda aquella información adicional que determine la Secretaría.
 
 ### CAPITULO V. DE LA SALUD OCUPACIONAL
 
@@ -3862,3 +3894,27 @@ P.O. 15 DE FEBRERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-535 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud para el correcto funcionamiento del Registro Estatal de Personas con Diabetes, en un plazo que no excederá de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, deberá recolectar, registrar, capturar, validar y analizar los datos proporcionados por los prestadores de salud, así como llevar a cabo campañas de difusión, información, orientación y detección.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado podrá realizar las reasignaciones de recursos necesarios, para permitir de manera gradual, paulatina y progresiva garantizar el derecho a la insulina en el presente ejercicio fiscal o, en su caso y para el mismo fin, hará las adecuaciones presupuestales con base en las disposiciones del Presupuesto de Egresos del Estado para el ejercicio fiscal en curso o bien en el ejercicio fiscal 2023.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Salud en un plazo que no excederá de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, deberá implementar programas y guías de atención sobre diabetes en sus diferentes tipos, con relación a la detección, diagnóstico, tratamiento, control y vigilancia.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Educación, en coordinación con la Secretaría de Salud, elaborará la Guía práctica de comunicación para el abordaje de las personas con diabetes, sobre el cuidado y no discriminación de Niñas, Niños y adolescentes con cualquier tipo de diabetes en los planteles escolares, con énfasis en la diabetes tipo 1.
