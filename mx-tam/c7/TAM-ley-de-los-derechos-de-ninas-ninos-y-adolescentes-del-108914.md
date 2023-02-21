@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2023-02-14"
+last_updated: "2023-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -830,6 +830,10 @@ VI.- Establecer las medidas tendientes a prevenir, informar, orientar, atender, 
 VII.- Asegurar la prestación de servicios de atención médica respetuosa, efectiva e integral durante el embarazo, parto y puerperio, así como para sus hijas e hijos, y promover la lactancia materna exclusiva dentro de los primeros seis meses y complementaria hasta los dos años, así como garantizar el acceso a métodos anticonceptivos;
 
 VIII.- Combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación equilibrada, el consumo de agua potable, el fomento del ejercicio físico, e impulsar programas de prevención e información sobre estos temas;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+VIII Bis.- Brindar atención multidisciplinaria a niñas, niños y adolescentes con diabetes, procurando su acceso a la insulina, además de educación terapéutica en diabetes en sus diferentes tipos a pacientes y cuidadores cuando así corresponda, de conformidad con los lineamientos, disposiciones legales e instrumentos internacionales aplicables en la materia;
 
 IX.- Fomentar y ejecutar los programas de vacunación y el control de la niñez y adolescencia sana para vigilar su crecimiento y desarrollo en forma periódica;
 
@@ -2092,3 +2096,27 @@ P.O. 14 DE FEBRERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-535 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud para el correcto funcionamiento del Registro Estatal de Personas con Diabetes, en un plazo que no excederá de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, deberá recolectar, registrar, capturar, validar y analizar los datos proporcionados por los prestadores de salud, así como llevar a cabo campañas de difusión, información, orientación y detección.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado podrá realizar las reasignaciones de recursos necesarios, para permitir de manera gradual, paulatina y progresiva garantizar el derecho a la insulina en el presente ejercicio fiscal o, en su caso y para el mismo fin, hará las adecuaciones presupuestales con base en las disposiciones del Presupuesto de Egresos del Estado para el ejercicio fiscal en curso o bien en el ejercicio fiscal 2023.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Salud en un plazo que no excederá de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, deberá implementar programas y guías de atención sobre diabetes en sus diferentes tipos, con relación a la detección, diagnóstico, tratamiento, control y vigilancia.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Educación, en coordinación con la Secretaría de Salud, elaborará la Guía práctica de comunicación para el abordaje de las personas con diabetes, sobre el cuidado y no discriminación de Niñas, Niños y adolescentes con cualquier tipo de diabetes en los planteles escolares, con énfasis en la diabetes tipo 1.
