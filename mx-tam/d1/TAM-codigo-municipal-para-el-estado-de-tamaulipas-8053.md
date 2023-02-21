@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2023-02-14"
+last_updated: "2023-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -48,6 +48,46 @@ CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 ###### ARTICULO 1o.
 
 El presente Código contiene las normas relativas a la organización, administración, funcionamiento y atribuciones de los Municipios del Estado de Tamaulipas así como las bases de la Justicia Administrativa municipal, con base a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2023)</small>
+
+###### ARTICULO 1o.
+
+BIS.- Son objetivos específicos del presente Código:
+
+I.- Establecer la forma de operación y funcionamiento de los municipios y sus ayuntamientos del Estado de Tamaulipas;
+
+II.- Promover la cultura institucional para la igualdad laboral entre mujeres y hombres;
+
+III.- Establecer las bases normativas para la transversalización de la perspectiva de género en los planes, políticas y acciones del Ayuntamiento;
+
+IV.- Impulsar la igualdad sustantiva y no discriminación al interior como al exterior del Ayuntamiento;
+
+V.- Garantizar los derechos humanos en todo el territorio municipal; y
+
+VI.- Garantizar un enfoque integral, transversal, con perspectiva de derechos humanos, de género e interculturalidad en el diseño y la instrumentación de políticas y programas de gobierno.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2023)</small>
+
+###### ARTICULO 1o.
+
+TER.- Para el cumplimiento de las acciones en materia de género, igualdad sustantiva, no discriminación y violencia contra las mujeres, se aplicarán, de manera supletoria las siguientes leyes:
+
+I.- Ley General para la Igualdad entre Mujeres y Hombres;
+
+II.- Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y su reglamento;
+
+III.- Ley Federal para Prevenir y Eliminar la Discriminación;
+
+IV.- Ley de los Derechos de las Personas con Discapacidad del Estado de Tamaulipas;
+
+V.- Ley para la Igualdad de Género en Tamaulipas;
+
+VI.- Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+VII.- Ley para Prevenir y Erradicar la Discriminación en el Estado de Tamaulipas; y
+
+VIII.- Las demás disposiciones en materia de derechos humanos de las mujeres.
 
 ###### ARTICULO 2o.
 
@@ -227,7 +267,11 @@ VI.- Desempeñar las funciones electorales y censales para las que fueren nombra
 
 VII.- Aceptar y desempeñar los cargos en los organismos que tengan por objeto la colaboración con las Autoridades Municipales.
 
-VIII.- Los demás que determinen las leyes, reglamentos y otras disposiciones normativas.
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+VIII.- Evitar actos de violencia comunitaria contra las mujeres, niñas, niños y adolescentes, y participar en las actividades para la igualdad en todos los ámbitos de la vida, y
+
+IX.- Los demás que determinen las leyes, reglamentos y otras disposiciones normativas.
 
 ###### ARTICULO 20.
 
@@ -238,6 +282,10 @@ Los habitantes del Municipio tendrán los derechos y deberes que dispongan las L
 ###### ARTICULO 21.
 
 Los Ayuntamientos son los órganos de Gobierno Municipal a través de los cuales, el pueblo, en ejercicio de su voluntad política, realiza la autogestión de sus intereses, dentro de los límites del Municipio.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2023)</small>
+
+ARTICULO 21 BIS.- El Ayuntamiento, como órgano deliberante, posterior a la primera sesión ordinaria del mandato constitucional, deberá acordar la integración y funcionamiento de los sistemas que se establecen en las leyes estatales en materia de igualdad de género, discriminación y erradicación de la violencia contra las mujeres.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 1989)</small>
 
@@ -499,21 +547,33 @@ I.- Organizar las oficinas y departamentos encargados de la administración y se
 
 II.- Iniciar leyes o decretos ante el Congreso del Estado para los asuntos de sus respectivas localidades.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE FEBRERO DE 2023)</small>
 
-III. Formular, aprobar, homologar con las leyes estatales o generales con las que se vinculen y mantener actualizados los bandos de policía y buen gobierno, reglamentos y demás disposiciones administrativas de observancia general necesarios para la organización y funcionamiento de la administración y de los servicios municipales a su cargo y en todo caso expedir los reglamentos referentes a espectáculos públicos, pavimentación, limpieza, alumbrado público, rastros, mercados y centrales de abasto, panteones, vías públicas, nomenclatura de calles, parques, paseos, jardines, ornato de calles, inspección y vigilancia de construcciones de particulares, salones de baile, juegos permitidos, comercio ambulante, hospitales, casas de cuna, guarderías infantiles, siempre que no sean materia de competencia de otra autoridad.
+III.- Formular, aprobar, homologar con las leyes estatales o generales con las que se vinculen y mantener actualizados los bandos de policía y buen gobierno, reglamentos y demás disposiciones administrativas de observancia general necesarios para la organización y funcionamiento de la administración y de los servicios municipales a su cargo y en todo caso expedir los reglamentos referentes a espectáculos públicos, pavimentación, limpieza, alumbrado público, rastros, mercados y centrales de abasto, panteones, vías públicas, nomenclatura de calles, parques, paseos, jardines, ornato de calles, inspección y vigilancia de construcciones de particulares, salones de baile, juegos permitidos, comercio ambulante, hospitales, casas de cuna, centros de atención y cuidado infantil, siempre que no sean materia de competencia de otra autoridad.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2022)</small>
 
 Así también deben formular, aprobar, homologar y mantener actualizados los reglamentos con los que obligadamente deben contar en observancia a leyes locales y generales para regular atribuciones que les son conferidas respecto a materias concurrentes en cuanto a su competencia.
 
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2023)</small>
+
+Los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones deberán ser expedidos con perspectiva de derechos humanos, de género e interculturalidad, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y social, bajo los principios de igualdad sustantiva y no discriminación.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2023)</small>
+
+Los reglamentos municipales deberán contemplar las medidas para dar cumplimiento a la transversalización de la perspectiva de género, la igualdad sustantiva y el impacto en el desarrollo municipal.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2023)</small>
+
+Además de lo anterior deberán tomar en cuenta los principios de no discriminación, libertades fundamentales, cultura de legalidad, valores cívicos y bienestar colectivo, al momento de su emisión.
+
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2022)</small>
 
 En tratándose de la expedición de los reglamentos referentes a nomenclatura de calles, estos deberán de basarse en lo establecido en el Manual de Señalización Vial y Dispositivos de Seguridad emitido por la Secretaría de Comunicaciones y Transportes del Gobierno Federal
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2023)</small>
 
-Los bandos y reglamentos sólo podrán entrar en vigor una vez que hayan sido aprobados por la mayoría de los miembros del Ayuntamiento; previa consulta pública que podrá realizarse a través de su página oficial electrónica y su publicación en el Periódico Oficial del Estado.
+Los bandos y reglamentos deberán contener de manera enunciativa, más no limitativa, las medidas para la igualdad sustantiva y no discriminación y sólo podrán entrar en vigor una vez que hayan sido aprobados por la mayoría de los miembros del Ayuntamiento; previa consulta pública, que podrá realizarse a través de su página oficial electrónica y su publicación en el Periódico Oficial del Estado.
 
 Para tal efecto, los Ayuntamientos remitirán los bandos y reglamentos al Ejecutivo Estatal para que ordene su publicación, quien podrá negarla si advierte que en los mismos se contienen disposiciones contrarias a la Constitución General de la República, a la Constitución Política del Estado, o a las Leyes que de ellas emanen. En este caso, el Ejecutivo enviará las observaciones al Congreso para que resuelva y proponga al Ayuntamiento, en su caso, las modificaciones conducentes. Hechas las correcciones se remitirán nuevamente al Ejecutivo para su publicación. Si el Congreso, considera infundados los argumentos del Ejecutivo, lo declarará así y le enviará dichos bandos o reglamentos para su publicación.
 
@@ -573,9 +633,9 @@ XVIII.- Cumplir con las disposiciones de la Ley para la Entrega-Recepción de lo
 
 XIX.- Enviar al Congreso para su estudio y dictamen y, en su caso, aprobación, las bases de contratación de empréstitos que afecten ejercicios fiscales futuros, salvo que el Congreso emita la autorización cuando a su juicio existan circunstancias que así lo requieran o se cuente con los recursos suficientes para el pago de sus obligaciones.
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2023)</small>
 
-XX.- Fomentar las actividades productivas, educativas, culturales y deportivas, así como la investigación científica y tecnológica en los términos de ley;
+XX.- Fomentar actividades productivas, educativas, culturales y deportivas, así como la investigación científica y tecnológica en los términos de ley, además de la edición (sic) libros y otros materiales didácticos distintos a los libros de texto gratuito, con base en temáticas de civilidad, respeto, tolerancia, respeto a los derechos humanos, igualdad sustantiva y no discriminación, así como el impulso de programas de alfabetización, educación para personas adultas mayores, educación para y en el trabajo y la productividad; en igualdad de trato y oportunidades entre mujeres y hombres.
 
 XXI.- Auxiliar a las autoridades federales y estatales en la aplicación de las disposiciones normativas correspondientes, así como en la atención de los servicios públicos encomendados a ellas.
 
@@ -703,7 +763,39 @@ LVIII.- Fomentar internamente el uso estratégico de las tecnologías de la info
 
 Los Ayuntamientos del Estado de Tamaulipas deben considerar este precepto dentro de los objetivos, estrategias y líneas de acción en los Planes de Desarrollo Municipal, así como cumplir con lo establecido en el párrafo tercero del artículo 187 del Capítulo II De la Planeación Municipal.
 
-LIX.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+LIX.- Implementar la política municipal para la igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+LX.- Participar con las autoridades estatales en la conformación y consolidación de los Sistemas Estatales para la Igualdad entre Mujeres y Hombres, así como en el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+LXI.- Elaborar programas de sensibilización y proyectos culturales que promuevan la igualdad sustantiva y no discriminación;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+LXII.- Promover la participación de organismos públicos, privados y de la sociedad civil en acciones para la igualdad sustantiva y no discriminación;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+LXIII.- Implementar la política municipal en materia de igualdad entre mujeres y hombres, así como las acciones orientadas a erradicar la violencia contra las mujeres, niñas, niños y adolescentes, en concordancia con la política nacional y local correspondiente, en coordinación con el Instituto o Instancia Municipal de las Mujeres;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+LXIV.- Apoyar a todas las autoridades del Municipio en la transversalización de la perspectiva de género, así como en las políticas municipales para la igualdad y erradicación de la violencia contra las mujeres, niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+LXV.- Establecer mecanismos para coadyuvar con el Gobierno Estatal en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+LXVI.- Proponer al Ejecutivo Estatal sus necesidades presupuestarias para la ejecución de los programas de igualdad; y
+
+LXVII.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
 
 ###### ARTICULO 50.
 
@@ -872,6 +964,10 @@ XXIII.- Proponer al Ayuntamiento la creación de organismos o empresas paramunic
 > <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 XXIV.- Mandar publicar la convocatoria pública para que los interesados presenten sus candidaturas a ocupar el cargo de Juez del Tribunal de Justicia Administrativa Municipal.
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+XXV.- Proponer al cabildo la integración de las comisiones, debiéndose reflejar la pluralidad, la igualdad sustantiva, así como la mayor participación de las mujeres y evitar la discriminación, en su integración.
 
 ###### ARTICULO 56.
 
@@ -1341,9 +1437,9 @@ ARTICULO 72 QUINQUIES.- Se establece la coordinación institucional entre los ó
 
 El Ayuntamiento, a propuesta del Presidente Municipal, deberá nombrar un Secretario de Desarrollo Urbano y Ecología o, en su caso, un Director de Obras y Servicios Públicos Municipales, quien tendrá las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2023)</small>
 
-I.- Formular, proponer y ejecutar los programas de obras y servicios públicos municipales, debiendo considerar el uso de energías renovables y el aprovechamiento sustentable de la energía.
+I.- Formular, proponer y ejecutar los programas de obras y servicios públicos municipales, debiendo promover la igualdad sustantiva en el acceso a dichos servicios, así como considerar el uso de energías renovables y el aprovechamiento sustentable de la energía.
 
 II.- Participar en la elaboración de los proyectos de planes de desarrollo urbano que afecten al Municipio.
 
@@ -1615,9 +1711,11 @@ Los Ayuntamientos procurarán que en la integración de las Comisiones Consultiv
 
 (DEROGADO, P.O. 12 DE MAYO DE 2004)
 
+> <small>(REFORMADO PRIMERO PÁRRAFO, P.O. 21 DE FEBRERO DE 2023)</small>
+
 ###### ARTICULO 86.
 
-En cada Municipio podrán funcionar los Consejos de Colaboración Vecinal que el Ayuntamiento considere convenientes, tomando como base la división administrativa territorial del Municipio. Los Consejos serán órganos de información, consulta, promoción y gestión social y tendrán las siguientes atribuciones:
+En cada Municipio podrán funcionar los Consejos de Colaboración Vecinal que el Ayuntamiento considere convenientes, procurando que en su integración tengan las mismas oportunidades mujeres y hombres, tomando como base la división administrativa territorial del Municipio. Los Consejos serán órganos de información, consulta, promoción y gestión social y tendrán las siguientes atribuciones:
 
 I.- Coadyuvar para el cumplimiento eficaz de los planes y programas municipales.
 
@@ -1627,7 +1725,11 @@ III.- Dar a conocer a la Autoridad Municipal los problemas que afecten a sus rep
 
 IV.- Participar en la Comisión Consultiva de Desarrollo Urbano.
 
-V.- Las demás que le señale las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+V.- Promover la participación de las mujeres en igualdad de oportunidades con respecto a los hombres; y
+
+VI.- Las demás que le señale (sic) las leyes y reglamentos.
 
 ###### ARTICULO 87.
 
@@ -3003,11 +3105,111 @@ El decreto que expida el Congreso fijará en cada caso las bases de organizació
 
 Las remuneraciones a los integrantes del Comité quedarán a cargo de las dependencias, entidades y organismos que los hubiere designado.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2023)</small>
+
+## TITULO CUARTO BIS. DE LOS INSTITUTOS MUNICIPALES DE LAS MUJERES
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2023)</small>
+
+ARTICULO 198 BIS.- Cada Ayuntamiento deberá crear preferentemente un Instituto Municipal de las Mujeres, que fungirá como un organismo público descentralizado en términos de lo dispuesto en la Ley para la Igualdad de Género en Tamaulipas y la competencia otorgada a los municipios.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2023)</small>
+
+ARTICULO 198 TER.- El objeto general del Instituto es promover, diseñar, coordinar, evaluar e instrumentar las acciones afirmativas y políticas públicas que impulsen la igualdad sustantiva, la no discriminación y la prevención, atención, sanción y eliminación de la violencia contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2023)</small>
+
+ARTICULO 198 QUATER.- El Instituto Municipal de las Mujeres tendrá las siguientes atribuciones:
+
+I.- Impulsar la cultura institucional para la igualdad laboral entre mujeres y hombres en el Ayuntamiento;
+
+II.- Promover un clima laboral adecuado, libre de discriminación y violencia al interior del Ayuntamiento, así como al exterior, en lo que resulte competente;
+
+III.- Promover la corresponsabilidad al interior del Ayuntamiento;
+
+IV.- Impulsar la comunicación incluyente;
+
+V.- Establecer acciones para prevenir, atender, sancionar y erradicar la violencia laboral contra las mujeres, acoso y hostigamiento sexual;
+
+VI.- Coadyuvar en la creación y funcionamiento del Sistema Municipal para la Igualdad Entre Mujeres y Hombres y el Consejo Municipal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia, de conformidad con la normatividad aplicable;
+
+VII.- Promover una cultura de igualdad, libre de discriminación y violencia contra las mujeres, capaz de proporcionar el desarrollo integral y adelanto de las mujeres del Municipio;
+
+VIII.- Crear herramientas para la participación igualitaria de mujeres y hombres en la vida política, social, económica, educativa, cultural y medioambiental del municipio;
+
+IX.- Coadyuvar en la planeación estratégica e implementación de políticas públicas, programas, estrategias y acciones encaminadas al desarrollo integral de las mujeres;
+
+X.- Promover y colaborar en armonización legislativa con perspectiva de género de la Reglamentación Municipal, Planes, Programas y Proyectos realizados por el Ayuntamiento;
+
+XI.- Definir estrategias para la elaboración e implementación de:
+
+a).- Programa Municipal para la Igualdad entre Mujeres y Hombres;
+
+b).- Programa Municipal para Garantizar el Derecho de las Mujeres a una Vida Libre de Violencia;
+
+c).- Programa Municipal de Cultura Institucional para la Igualdad Laboral entre Mujeres y Hombres; y
+
+d).- Programa Municipal para la Igualdad Sustantiva entre Mujeres y Hombres.
+
+XII.- Crear, proponer y coadyuvar en el diseño de implementación de programas, proyectos u otras acciones tendientes a la prevención, atención, sanción y erradicación de la violencia contra las mujeres en el municipio;
+
+XIII.- Coadyuvar en los procedimientos de atención integral y multidisciplinaria de las mujeres en situación de violencia;
+
+XIV.- Elaborar investigaciones, estudios, diagnósticos, indicadores y cualquier otro análisis sobre la situación y posición de las mujeres con respecto a los hombres, incidencia de la violencia contra las mujeres, identificación de las necesidades de las mujeres en el Municipio, y cualquier otra que le permita cumplir con sus objetivos, funciones y atribuciones;
+
+XV.- Impulsar un sistema de información que permita la disposición de datos e indicadores, a los que pueden tener acceso las dependencias en el ejercicio de sus funciones, resguardando los datos personales y su confidencialidad;
+
+XVI.- Coadyuvar con el Comité de Igualdad de Género en la realización de sus atribuciones;
+
+XVII.- Proponer convenios o acuerdos de apoyo y colaboración con organismos públicos, sociales y privados, nacionales e internacionales, uniendo esfuerzos de participación, para el desarrollo de programas y proyectos a favor de la mujer y de la igualdad sustantiva;
+
+XVIII.- Capacitar, en coordinación con las autoridades competentes, al personal del Ayuntamiento en materia de género, igualdad sustantiva, derechos humanos de las mujeres;
+
+XIX.- Promover y desarrollar acciones de capacitación, talleres, conferencias, cursos y cualquier otra herramienta que apoye la sensibilización y concientización de la igualdad sustantiva y no discriminación;
+
+XX.- Fomentar, proponer y fortalecer, en coordinación con las dependencias del sector salud, las campañas de prevención y atención de la salud integral de las mujeres, la educación para la salud, y la salud sexual y reproductiva;
+
+XXI.- Promover la realización de programas de atención de necesidades para las niñas, las jóvenes, las mujeres adultas mayores, las mujeres con discapacidad, mujeres indígenas y mujeres de otros grupos prioritarios o en situación de vulnerabilidad;
+
+XXII.- Impulsar y estimular la capacidad productiva de las mujeres, promoviendo oportunidades de empleo;
+
+XXIII.- Impulsar proyectos productivos que contribuyan a la agencia e independencia económica mujeres en los medios urbano y rural;
+
+XXIV.- Participar, desarrollar y coordinar eventos académicos, sociales y culturales en materia de género, para el intercambio de conocimientos y experiencias;
+
+XXV.- Gestionar recursos ante los organismos públicos y privados de cualquier orden de gobierno, que apoyen en la cumplimentación de los objetivos y atribuciones del Instituto Municipal de las Mujeres;
+
+XXVI.- Ejecutar los objetivos y acciones establecidas en el Plan de Desarrollo Municipal, en lo relativo a las mujeres, la igualdad sustantiva, la discriminación contra mujeres y la violencia contra las mujeres;
+
+XXVII.- Participar en los acuerdos, redes, programas, acciones y otros instrumentos emitidos por los Sistemas Estatales, Nacionales e Internacionales de Acceso de las Mujeres a una vida libre de violencia y para la igualdad entre Mujeres y Hombres;
+
+XXVIII.- Llevar un registro de los acuerdos realizados en el Sistema Estatal para la Igualdad entre Mujeres y Hombres, con relación a las funciones y atribuciones del Ayuntamiento;
+
+XXIX.- Promover que las mujeres participen en los mecanismos de consulta y vigilancia de las políticas, conforme a lo dispuesto en el presente Código; y
+
+XXX.- Las demás que le confieren las leyes estatales y federales, así como los tratados internaciones (sic) ratificados por el Estado Mexicano sobre derechos humanos de las mujeres. Para el ejercicio de sus atribuciones, las instancias podrán realizar programas, estrategias, protocolos, manuales, guías y cualquier otro ordenamiento jurídico, el cual deberá seguir el procedimiento de aprobación respectivo, dentro de su ámbito de competencia.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2023)</small>
+
+ARTICULO 198 QUINQUIES.- El Instituto Municipal de las Mujeres expedirá su reglamento interior para la operación y funcionamiento, de conformidad con las necesidades, intereses y medidas presupuestarias del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2023)</small>
+
+ARTICULO 198 SEXIES.- De manera enunciativa, más no limitativa, el Instituto Municipal de las Mujeres contará con las siguientes áreas:
+
+I.- Directora;
+
+II.- Área Jurídica;
+
+III.- Área de Planeación de Proyectos con Perspectiva de Género;
+
+IV.- Área Administrativa y Cultura Institucional para la Igualdad; y
+
+V.- Área de Recursos Financieros.
+
+El Instituto Municipal de las Mujeres establecerá las atribuciones, funciones y mecanismos de coordinación entre las áreas en su Reglamento Interior.
+
 ## TITULO QUINTO. DE LAS RELACIONES LABORALES ENTRE LOS AYUNTAMIENTOS Y SUS TRABAJADORES
-
-## TITULO SEXTO. DEL ARCHIVO GENERAL DEL MUNICIPIO
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
 ### CAPITULO III. DE LA JORNADA DE TRABAJO, DESCANSO Y VACACIONES
 
@@ -3156,6 +3358,34 @@ ARTICULO 205 BIS.- En observancia a lo establecido por la Ley de los Derechos de
 ###### ARTICULO 206.
 
 Los trabajadores al servicio del Ayuntamiento prestarán sus servicios mediante nombramiento expedido por acuerdo del Ayuntamiento cuando así proceda, o a través del servidor público u órgano facultado para extenderlo. Los trabajadores temporales por obra o por tiempo determinado, o aquellos que presten sus servicios mediante contrato civil, o que estén sujetos al pago de honorarios, quedan exceptuados del régimen establecido en este Título.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2023)</small>
+
+Los nombramientos de personas al servicio público municipal de confianza y de base, sin perjuicio de la normatividad que lo regula, se emitirán atendiendo a la cultura institucional para la igualdad laboral entre mujeres y hombres, para lo cual se considerarán:
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+I.- La eliminación de estereotipos de género;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+II.- Las aptitudes, experiencias y conocimientos libres de discriminación en cualquiera de sus formas;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+III.- La igualdad de oportunidades entre mujeres y hombres en el acceso a los cargos públicos;
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+IV.- La igualdad de remuneración por trabajo de igual valor; y
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+
+V.- Igualdad de derechos en prestaciones;
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2023)</small>
+
+Cualquier otro elemento que contribuya a la selección de personal y nombramientos con perspectiva de género y bajo los principios de igualdad sustantiva y no discriminación.
 
 ###### ARTICULO 207.
 
@@ -3795,9 +4025,9 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
-## TITULO SEPTIMO. DE LAS SANCIONES Y RECURSOS ADMINISTRATIVOS
+## TITULO SEXTO. DEL ARCHIVO GENERAL DEL MUNICIPIO
 
-(REUBICADO, P.O. 20 DE ABRIL DE 2004)
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
 ### CAPÍTULO III. DE SU ORGANIZACION Y FUNCIONES
 
@@ -4035,9 +4265,9 @@ En la prestación de los servicios al público del Archivo General del Municipio
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE ABRIL DE 2004)</small>
 
-## TÍTULO OCTAVO. DE LA JUSTICIA ADMINISTRATIVA MUNICIPAL
+## TITULO SEPTIMO. DE LAS SANCIONES Y RECURSOS ADMINISTRATIVOS
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+(REUBICADO, P.O. 20 DE ABRIL DE 2004)
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -4132,6 +4362,10 @@ IV.- Cuando se trate de pago de multas, se garantice el importe ante la Tesorer�
 V.- Que no se causen daños o perjuicios a terceros, o que se garanticen éstos para el caso de no obtener resolución favorable por el monto que fije discrecionalmente la autoridad administrativa, bajo su responsabilidad.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
+
+## TÍTULO OCTAVO. DE LA JUSTICIA ADMINISTRATIVA MUNICIPAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ### CAPÍTULO TERCERO. DEL JUICIO DE NULIDAD
 
@@ -6728,3 +6962,15 @@ P.O. 14 DE FEBRERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-537 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 49, FRACCIONES III, PÁRRAFOS PRIMERO Y CUARTO Y XX; 73, FRACCIÓN I; Y 86, PÁRRAFO ÚNICO; Y SE ADICIONAN LOS ARTÍCULOS 1o. BIS; 1o. TER; UNA FRACCIÓN VIII, RECORRIÉNDOSE LA ACTUAL PARA SER IX AL ARTÍCULO 19; 21 BIS; PÁRRAFOS TERCERO, CUARTO Y QUINTO RECORRIÉNDOSE LOS ACTUALES EN SU ORDEN NATURAL A LA FRACCIÓN III Y LAS FRACCIONES LIX, LX, LXI, LXII, LXIII, LXIV, LXV, Y LXVI, RECORRIÉNDOSE LA ACTUAL LIX PARA SER LXVII AL ARTÍCULO 49; UNA FRACCIÓN XXV AL ARTÍCULO 55; UNA FRACCIÓN V, RECORRIÉNDOSE LA ACTUAL PARA SER VI AL ARTÍCULO 86; UN TÍTULO CUARTO BIS DENOMINADO “DE LOS INSTITUTOS MUNICIPALES DE LAS MUJERES” CON LOS ARTÍCULOS 198 BIS, 198 TER, 198 QUATER, 198 QUINQUIES, Y 198 SEXIES; Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO CON LAS FRACCIONES I, II, III, IV, Y V, Y UN PÁRRAFO TERCERO AL ARTÍCULO 206, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La creación de los Institutos y Consejos, establecidos en el presente Decreto, se crearán y se establecerán de conformidad con las necesidades y medidas presupuestarias de cada Ayuntamiento.
