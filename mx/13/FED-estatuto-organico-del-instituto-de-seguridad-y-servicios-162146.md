@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-162146
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-01-06"
-last_updated: "2023-01-06"
+last_updated: "2023-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162146&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2022-12-14"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE FEBRERO DE 2023 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO.
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 21 DE FEBRERO DE 2023.]</small>
 
 Estatuto publicado en el Número 6 del Diario Oficial de la Federación, el viernes 6 de enero de 2023.
 
@@ -453,7 +453,9 @@ V. Someter a la Junta Directiva los proyectos de (sic) estatuto orgánico y regl
 
 VI. Expedir los manuales de organización, de procedimientos y de servicios al público, así como las disposiciones y lineamientos normativos distintos a los reglamentos expedidos por el Titular del Ejecutivo Federal, necesarios para la operación del Instituto;
 
-VII. Proponer a la Junta Directiva el nombramiento y, en su caso, la remoción de los servidores públicos de primer nivel del Instituto y nombrar, a propuesta de las Unidades Administrativas y los Órganos Desconcentrados, a los trabajadores de base y de confianza de los siguientes niveles, sin perjuicio de la delegación de facultades para este efecto, y lo establecido en la normatividad aplicable. En caso de que la propuesta no sea aceptada, el Director General podrá realizar el nombramiento correspondiente; así como, remover a los trabajadores de confianza, conforme a lo establecido en la normatividad aplicable.
+> <small>(F. DE E., D.O.F. 21 DE FEBRERO DE 2023)</small>
+
+VII. Proponer a la Junta Directiva el nombramiento y, en su caso, la remoción de los servidores públicos de primer nivel del Instituto y nombrar, a propuesta de las Unidades Administrativas y los Órganos Desconcentrados, a los trabajadores de base y de confianza de los siguientes niveles, sin perjuicio de la delegación de facultades para este efecto, y lo establecido en la normatividad aplicable; así como remover a los trabajadores de confianza, conforme a lo establecido en la normatividad aplicable.
 
 VIII. Resolver, bajo su inmediata y directa responsabilidad, los asuntos urgentes a reserva de informar a la Junta Directiva sobre las acciones realizadas y los resultados obtenidos;
 
@@ -841,9 +843,11 @@ II. Participar en la integración de la estadística, en el diseño de la planea
 
 III. Aplicar las políticas y disposiciones en materia de recursos humanos, financieros y materiales de las áreas adscritas a su Unidad Administrativa de conformidad con la normatividad aplicable en el ámbito de sus respectivas competencias;
 
+> <small>(F. DE E., D.O.F. 21 DE FEBRERO DE 2023)</small>
+
 IV. Proponer al Director General los nombramientos y remociones del personal de sus Unidades Administrativas y Órganos Desconcentrados y, en su caso, autorizar los movimientos de personal, de conformidad con la delegación de funciones, que en su caso proceda, y en términos de la normatividad vigente.
 
-En caso de que la propuesta no sea presentada por los Titulares de las Unidades Administrativas y Órganos Desconcentrados, el Director General podrá realizar el nombramiento correspondiente.
+> <small>(F. DE E., D.O.F. 21 DE FEBRERO DE 2023)</small>
 
 Lo anterior, con excepción de los casos cuya facultad de nombramiento y remoción del personal establecidos en la Ley Orgánica de la Administración Pública Federal y demás disposiciones respectivas, corresponda a otras Dependencias o autoridades federales; y, siempre y cuando no se contravengan otras disposiciones jurídicas aplicables.
 
