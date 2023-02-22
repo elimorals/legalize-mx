@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2023-01-27"
+last_updated: "2023-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -554,6 +554,54 @@ XIII.- La prevención, detección, tratamiento y rehabilitación de neoplasias; 
 XIV.- Los demás que establezca esta Ley y otros ordenamientos jurídicos.
 
 Las Autoridades Sanitarias del Estado, de conformidad con las disposiciones legales aplicables vigilarán que las instituciones que presten servicios de salud en la Entidad, apliquen el cuadro básico de insumos del Sector Salud.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 19 BIS.- Cada una de las instituciones públicas de salud del Estado contará con una Comisión de Vigilancia de Servicios de Salud Pública, órgano colegiado cuyo objeto es identificar las necesidades materiales, humanas y económicas de dichas instituciones, a fin de satisfacer de manera eficaz y oportuna las necesidades de la población que accede a sus servicios.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 19 TER.- La Comisión de Vigilancia de Servicios de Salud Pública tiene las siguientes atribuciones:
+
+I. Inspeccionar las condiciones físicas e infraestructura médica de la institución de salud pública de la que formen parte;
+
+II. Supervisar que la institución de salud pública cuente con el cuadro básico de insumos del sector salud, equipos, tecnología, y en general; los recursos necesarios para brindar atención médica y hospitalaria a los usuarios de los servicios;
+
+III. Vigilar que los servicios de salud sean proporcionados con efectividad, en forma oportuna y con calidad;
+
+IV. Velar que la atención que deban recibir los usuarios del servicio sea profesional y éticamente responsable, así como un trato respetuoso y digno de los profesionales, técnicos y auxiliares de la institución de salud pública;
+
+V. Emitir recomendaciones y proponer acciones para el mejoramiento de los servicios que presta la institución de salud pública;
+
+VI. Gestionar ante las autoridades competentes la solución de las problemáticas que sean de su conocimiento dentro de la institución de salud pública; y,
+
+VII. Verificar el cumplimiento a las recomendaciones realizadas.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 19 QUATER.- La Comisión de Vigilancia de Servicios de Salud Pública se integra por:
+
+I. La persona titular de la Secretaría de Salud del Estado, quien la presidirá y contará con voto de calidad;
+
+II. La persona titular de la Secretaría de Hacienda del Estado;
+
+III. La persona titular de la Oficialía Mayor (sic) Gobierno o de la unidad administrativa equivalente;
+
+IV. La persona titular de la Dirección de la Institución de Salud Pública;
+
+V. Un representante del cuerpo médico de la Institución de Salud Pública;
+
+VI. Un representante del cuerpo de enfermeros de la Institución de Salud Pública;
+
+VII. Un representante del área de trabajo social de la Institución de Salud Pública; y,
+
+VIII. Un representante de los profesionales de la salud que forman parte del Consejo de la CAME.
+
+Los integrantes a que se refieren las fracciones V, VI y VII deberá (sic) encontrarse en servicio activo, y serán designados por los mismos médicos, enfermeros o enfermeras y trabajadores o trabajadoras sociales que laboren dentro de la institución. Tratándose del integrante señalado en la fracción VIII, su designación estará a cargo de entre dichos profesionales de la salud.
+
+Los cargos en la Comisión serán de carácter honorífico, por lo que no percibirán retribución, emolumentos o compensaciones por las actividades que desarrollen.
+
+El funcionamiento de la Comisión de Vigilancia de Servicios de Salud Pública se regirá por los lineamientos que al efecto se emitan.
 
 #### SECCION II. DE LA ATENCION MEDICA
 
@@ -3916,3 +3964,13 @@ P.O. 27 DE ENERO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. El suministro gratuito de productos de gestión menstrual se sujetará a la disponibilidad presupuestaria de la Secretaría de Salud del Estado y con base a las disposiciones normativas aplicables en términos de la Ley General de Salud.
+
+P.O. 22 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N.° 212 MEDIANTE EL CUAL, SE APRUEBA LA REFORMA A LOS ARTÍCULOS 260 Y 269 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA, Y SE ADICIONAN LOS ARTÍCULOS 19 BIS, 19 TER Y 19 QUÁRTER A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Dentro de un plazo de sesenta días a la entrada en vigor de las presentes reformas, la Secretaría de Salud deberá emitir los lineamientos bajo los cuales funcionarán las comisiones que se establezcan dentro de las instituciones de salud pública bajo su responsabilidad.
+
+TERCERO. Cada Comisión de Vigilancia de Servicios de Salud Pública se deberá instalar dentro de los noventa días siguientes a la publicación de las presentes reformas.
