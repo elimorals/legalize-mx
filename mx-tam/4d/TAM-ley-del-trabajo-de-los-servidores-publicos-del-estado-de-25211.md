@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2023-02-09"
+last_updated: "2023-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -398,6 +398,12 @@ VII.-A que se computen en su antigüedad los períodos pre y postnatales; y
 > <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 VIII.- Las mujeres trabajadoras gozarán de un permiso al año, con goce íntegro de su sueldo, para someterse a la realización de exámenes médicos de prevención del cáncer de mama y cervicouterino; para justificar este permiso, se deberá presentar el certificado médico correspondiente expedido por una institución pública o privada de salud.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2023)</small>
+
+###### ARTICULO 32 Ter.
+
+Los hombres trabajadores gozarán de un permiso al año, con goce íntegro de sueldo, para someterse a la realización de exámenes médicos de prevención del cáncer de próstata; para justificar este permiso, se deberá presentar el certificado médico correspondiente expedido por una institución pública o privada de salud.
 
 ## TITULO TERCERO. OBLIGACIONES DEL GOBIERNO DEL ESTADO Y SUS TRABAJADORES
 
@@ -1714,3 +1720,11 @@ P.O. 9 DE FEBRERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 La presente Reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-540 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 32 TER, A LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
