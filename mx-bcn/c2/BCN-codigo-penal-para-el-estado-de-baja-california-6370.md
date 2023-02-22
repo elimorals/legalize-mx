@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2022-10-17"
+last_updated: "2023-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3667,6 +3667,10 @@ Tipo y punibilidad.- Al que sin serlo, se atribuya el carácter de profesionista
 
 Las mismas penas se aplicarán al que sin tener título o autorización para ejercer alguna profesión reglamentada, con objeto de lucrar, se una a profesionistas legalmente autorizados con fines de ejercicio profesional o administre alguna asociación profesional.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE FEBRERO DE 2023)</small>
+
+Se sancionará con las mismas penas que se refiere el primer párrafo y se inhabilitará para ejercer la profesión médica hasta por el mismo tiempo de la pena de prisión que se le imponga a quien lleve a cabo un procedimiento quirúrgico de especialidad médica, sin contar con cédula expedida por la autoridad educativa competente y certificado vigente otorgado por el Consejo de Especialidad Médica correspondiente, reconocido conforme a la Ley General de Salud y que corresponda a la rama médica de la que derive dicho procedimiento.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2007)</small>
 
 ## TITULO CUARTO. DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD
@@ -3891,7 +3895,9 @@ Los delitos contemplados en este Título sólo se perseguirán en su comisión d
 
 Responsabilidad médica y técnica.- Los médicos, cirujanos y demás profesionales similares y auxiliares serán penalmente responsables por los daños que causen en la práctica de su profesión, en los términos siguientes:
 
-I.- Además de las sanciones fijadas para los delitos, que resulten consumados, según sean dolosos o culposos, se les aplicará suspensión de un mes a dos años en el ejercicio de la profesión o definitiva en caso de reincidencia; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2023)</small>
+
+I.- Además de las sanciones fijadas para los delitos, que resulten consumados, según sean dolosos o culposos, se les aplicará suspensión de un mes a cinco años en el ejercicio de la profesión o definitiva en caso de reincidencia.
 
 II.- Estarán obligados a la reparación del daño por sus actos propios y por los de sus ayudantes, enfermeras o practicantes, cuando éstos obren de acuerdo con las instrucciones de aquellos.
 
@@ -6385,13 +6391,11 @@ P.O. 17 DE OCTUBRE DE 2022.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO 976 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+P.O. 22 DE FEBRERO DE 2023.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIO DEL “DECRETO N.° 212 MEDIANTE EL CUAL, SE APRUEBA LA REFORMA A LOS ARTÍCULOS 260 Y 269 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA, Y SE ADICIONAN LOS ARTÍCULO 19 BIS, 19 TER Y 19 QUÁRTER A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
-SEGUNDO. Para efecto de la emisión de las convocatorias, los Ayuntamientos de la entidad contarán con un término de 60 días naturales contados a partir de la toma de protesta de las próximas administraciones municipales.
-
-P.O. 2 DE JULIO DE 2024.
+ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 998 POR EL QUE SE ADICIONAN LAS FRACCIONES XII BIS Y XIII BIS AL ARTÍCULO 119 A LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
