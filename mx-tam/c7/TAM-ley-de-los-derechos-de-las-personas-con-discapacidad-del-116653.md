@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-con-discapacidad-del-116653
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-27"
-last_updated: "2023-01-18"
+last_updated: "2023-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2023.
 
 Ley publicada en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -65,7 +65,13 @@ La creación de las condiciones adecuadas para la plena inclusión al desarrollo
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I.- Accesibilidad: Condición que deben cumplir los entornos, bienes, productos, servicios, los sistemas y las tecnologías de la información y las comunicaciones para garantizar el libre, autónomo y seguro desplazamiento de las personas con discapacidad al entrar, trasladarse, salir, orientarse y comunicarse en los espacios construidos, el mobiliario y equipo, el transporte, la información y las comunicaciones para vivir en forma independiente y participar plenamente en todos los aspectos de la vida en igualdad de condiciones;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2023)</small>
+
+I.- Accesibilidad: Condición que deben cumplir los entornos, bienes, productos, servicios, los sistemas y las tecnologías de la información y las comunicaciones para garantizar el libre, autónomo y seguro desplazamiento de las personas con discapacidad al entrar, trasladarse, salir, orientarse y comunicarse en los espacios construidos, el mobiliario y equipo, el transporte, la información y las comunicaciones para vivir en forma independiente y participar plenamente en todos los aspectos de la vida en igualdad de condiciones; así como una variedad de sistemas accesibles de apoyo para el aprendizaje básico y formal, como estrategias de accesibilidad cognitiva para el aprendizaje de todos y todas por igual;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2023)</small>
+
+I Bis.- Accesibilidad Cognitiva: Característica de los entornos, procesos, actividades, bienes, productos, servicios, objetos o instrumentos, herramientas y dispositivos que permiten la fácil comprensión y la comunicación; es decir, característica que tienen las cosas, los espacios o los textos que hace que los entiendan todas las personas;
 
 II.- Acciones Afirmativas: Cualquier medida más allá de la simple terminación de una práctica discriminatoria, adoptada para corregir o compensar discriminaciones presentes o pasadas o para impedir que la discriminación se reproduzca en el futuro;
 
@@ -151,21 +157,25 @@ XXXVI.- Rehabilitación: El proceso de tipo médico, educativo y social, con la 
 
 XXXVII.- Sensibilización: Es el proceso de concientización dirigido a la sociedad en general, para fomentar actitudes incluyentes y percepciones positivas, con base en el modelo social, de las personas con discapacidad y del respeto a sus derechos y libertades fundamentales;
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2023)</small>
+
+XXXVIII.- Sistema de Escritura Braille: Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas;
+
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2022)</small>
 
-XXXVIII.- Sistema Intersectorial: Sistema Intersectorial de Protección y Gestión Integral de Derechos de las Personas con Discapacidad;
+XXXIX.- Sistema Intersectorial: Sistema Intersectorial de Protección y Gestión Integral de Derechos de las Personas con Discapacidad;
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2022)</small>
 
-XXXIX.- Transversalidad: Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo;
+XL.- Transversalidad: Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo;
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2022)</small>
 
-XL.- Secretaría Ejecutiva: La Secretaria Ejecutiva del Sistema Intersectorial de Protección de los Derechos de las Personas con Discapacidad, por sus siglas SIPRODDIS; y
+XLI.- Secretaría Ejecutiva: La Secretaria Ejecutiva del Sistema Intersectorial de Protección de los Derechos de las Personas con Discapacidad, por sus siglas SIPRODDIS; y
 
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2023)</small>
 
-XLI.- Secretario Ejecutivo: el Secretario Ejecutivo del SIPRODDIS.
+XLII.- Secretario Ejecutivo: el Secretario Ejecutivo de la SIPRODDIS.
 
 ###### ARTÍCULO 4.
 
@@ -219,9 +229,13 @@ Son acciones prioritarias para la inclusión al desarrollo de personas con disca
 
 I.- Las acciones que promuevan y garanticen, en el marco del modelo social, su participación activa, plena y constante en la sociedad;
 
-II.- Los programas de potencial humano que les permitan generar habilidades que compensen o sobrepasen las limitaciones en su condición física;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2023)</small>
 
-III.- El establecimiento de programas permanentes para la implementación de acciones afirmativas en los diferentes entornas (sic) sociales, así como para la inclusión laboral de las personas con alguna discapacidad, en los que se incluya la promoción de estímulos fiscales, la capacitación y la sensibilización del sector empresarial, para una inclusión laboral plena de esta población;
+II.- Los programas de potencial humano que les permitan generar habilidades que compensen o sobrepasen las limitaciones en su condición física, sensorial y cognitiva;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2023)</small>
+
+III.- El establecimiento de programas permanentes para la implementación de las acciones afirmativas, como determinantes para que se logren alcanzar los fines de la educación inclusiva, inclusión social, independencia y calidad de vida; en los diferentes entornos sociales, así como para la inclusión laboral de las personas con alguna discapacidad, en los que se incluya la promoción de estímulos fiscales, la capacitación, concientización y aceptación del sector empresarial, para la plena inclusión de esta población;
 
 IV.- La participación del sector público y privado en la inclusión en actividades productivas, en igualdad de oportunidades y de acuerdo a sus aptitudes;
 
@@ -261,7 +275,9 @@ XX.- Las disposiciones de la presente Ley se aplicarán a todas las partes del E
 
 1. La familia tiene un rol esencial para el logro de las acciones y objetivos establecidos en esta Ley. El Estado instrumentará una estrategia de atención integral a las familias en cuyo seno cohabitan personas con discapacidad; estas acciones atenderán prioritariamente a aquellas familias que presenten condiciones de pobreza extrema y/o ubicadas en comunidades rurales.
 
-2. La intervención pública del Estado abordará las dimensiones de la capacitación integral con programas de potencial humano, capacitación para el trabajo, la instrumentación de acciones afirmativas en materia de asistencia alimentaria, de promoción de salud y atención médica, de otorgamiento de estímulos educativos, de mejoramiento progresivo de las condiciones de la vivienda, de fomento a la cultura y el deporte y todas aquellas que abonen al desarrollo humano progresivo de la familia en la que residen las personas con discapacidad.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2023)</small>
+
+2. La intervención pública del Estado abordará las dimensiones de la capacitación integral con programas de potencial humano, capacitación para el trabajo, la instrumentación de acciones afirmativas permanentes en materia de asistencia alimentaria, de promoción de salud y atención médica, dentro de los cuales ofertará programas específicos de intervención habilitación terapéutica, de otorgamiento de estímulos educativos, de mejoramiento progresivo de las condiciones de la vivienda, de fomento a la cultura y el deporte y todas aquellas que abonen al desarrollo humano progresivo de la familia en la que residen las personas con discapacidad.
 
 ###### ARTÍCULO 7.
 
@@ -1438,6 +1454,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 18 DE ENERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-494 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO, Y LAS FRACCIONES I Y III, DEL ARTÍCULO 34, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-538 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXXVIII; RECORRIÉNDOSE EN SU ORDEN NATURAL LAS SUBSECUENTES, AL ARTÍCULO 3, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-539 MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN I, DEL ARTÍCULO 3; LAS FRACCIONES II Y III, DEL ARTÍCULO 5; Y EL NUMERAL 2, DEL ARTÍCULO 6; Y SE ADICIONA LA FRACCIÓN I BIS, AL ARTÍCULO 3, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
