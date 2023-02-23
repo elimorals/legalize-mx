@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2022-04-21"
+last_updated: "2023-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -128,6 +128,10 @@ V. Involucrar a especialistas, organizaciones y a la sociedad en general, en el 
 VI. Difundir las políticas, programas y proyectos en la materia de su competencia, para promover la socialización de los mismos y la participación social en la consecución de los fines de aquellos;
 
 VII. Orientar y asesorar a los municipios que así lo soliciten, en las materias de su competencia;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+
+VIII. Tramitar y resolver los recursos administrativos de su competencia, así como atender y dar seguimiento a cualquier tipo de proceso judicial, tanto en el orden común como federal en que sean parte;
 
 VIII. Tramitar y resolver los recursos administrativos de su competencia;
 
@@ -281,7 +285,9 @@ V. Fortalecer la planeación y el desarrollo de la agenda institucional de admin
 
 VI. Planear, programar, organizar y evaluar el funcionamiento de sus respectivas áreas;
 
-VII. Formular los proyectos, planes y programas de trabajo de las dependencias y entidades bajo su coordinación o sectorización, incluyendo propuestas inherentes al presupuesto de egresos;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+
+VII. Proponer proyectos, planes y programas de trabajo a las dependencias y entidades bajo su coordinación o sectorización y en su caso podrá realizar observaciones o modificaciones en las propuestas inherentes al anteproyecto de presupuesto de egresos;
 
 VIII. Coadyuvar con la Jefatura de Gabinete, los titulares de las demás Coordinaciones Generales Estratégicas, Secretarías y Entidades, en la formulación de proyectos transversales para eficientar la política pública y la solución de temas de interés común;
 
@@ -293,7 +299,9 @@ XI. Firmar convenios de colaboración y refrendar los acuerdos de su competencia
 
 XII. Coordinar acciones tendientes a vigilar el correcto ejercicio de las facultades a cargo de las dependencias y entidades bajo su coordinación o sectorización;
 
-XIII. Proponer y gestionar la actualización de las disposiciones reglamentarias relacionadas con las actividades de las dependencias y entidades bajo su coordinación o sectorización, para garantizar una mayor eficiencia y eficacia en la función gubernamental y administrativa;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+
+XIII. Coordinar la actualización de las disposiciones reglamentarias por parte de las dependencias y entidades bajo su coordinación o sectorización, para garantizar una mayor eficiencia y eficacia en la función gubernamental y administrativa;
 
 XIV. Participar y coadyuvar en la mejora permanente de los sistemas administrativos;
 
@@ -323,37 +331,53 @@ XVII. Las demás que se prevean en la presente ley, así como los reglamentos co
 
 I. Auxiliar al Gobernador del Estado en el ejercicio de las facultades constitucionales y legales del Poder Ejecutivo del Estado, en las materias que les correspondan de acuerdo a su competencia;
 
-II. Formular proyectos de iniciativas de ley o decreto, proyectos de reglamentos y acuerdos en las materias de su competencia y remitirlos al Gobernador del Estado por conducto de la Secretaría General de Gobierno o a través de la Coordinación General Estratégica a la que estén sectorizadas según corresponda;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+
+II. Formular proyectos de iniciativas de ley o decreto, proyectos de reglamentos y acuerdos en las materias de su competencia y remitirlos al Gobernador del Estado por conducto de la Secretaría General de Gobierno, informando a la Coordinación General Estratégica a la que estén sectorizadas;
 
 III. Refrendar los reglamentos, decretos y acuerdos en las materias de su competencia, que emita el Gobernador del Estado en ejercicio de sus facultades constitucionales, con la firma de su titular. La Secretaría General de Gobierno, deberá refrendar todas las leyes, reglamentos, decretos, acuerdos y demás disposiciones que el Gobernador promulgue o expida.
 
-IV. Participar en la elaboración del proyecto de Presupuesto de Egresos del Gobierno del Estado, respecto a las previsiones presupuestales necesarias en las materias de su competencia, en armonía con la Coordinación General Estratégica a la que se encuentre agrupada, en los términos que establezcan las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+
+IV. Elaborar el ante-proyecto de Presupuesto de Egresos del Gobierno del Estado, respecto a las previsiones presupuestales necesarias en las materias de su competencia, en armonía con la Coordinación General Estratégica a la que se encuentre agrupada, en los términos que establezcan las disposiciones aplicables;
 
 V. Participar conjuntamente con la Coordinación General Estratégica a la que se encuentre agrupada, en la elaboración del plan estatal de desarrollo correspondiente, así como los planes y programas que de éste se deriven, respecto de las materias de su competencia;
 
-VI. Participar en la elaboración y ejecución de los convenios de colaboración y coordinación, en las materias de su competencia, con la supervisión de la coordinación general estratégica a la que se encuentre agrupada, celebrados por el Gobierno del Estado con la federación, las entidades federativas y los municipios, o con particulares;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+
+VI. Elaborar y suscribir los convenios de colaboración y coordinación en las materias de su competencia, con la participación de la Coordinación General Estratégica a la que se encuentre agrupada, celebrados por el Gobierno del Estado con la federación, las entidades federativas y los municipios, o con particulares;
 
 VII. Proponer al Gobernador del Estado, a través de la Coordinación General Estratégica a la que se encuentre agrupada, la celebración de instrumentos de cooperación con las autoridades federales y municipales, o con particulares, en las materias de su competencia;
 
-VIII. Diseñar y proponer, previo acuerdo con la coordinación general estratégica a la que se encuentre agrupada, los manuales de organización, operación, procedimientos y servicios de su competencia;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+
+VIII. Elaborar y proponer los manuales de organización, operación, procedimientos y servicios de la dependencia;
 
 IX. Expedir, a través de su titular, los acuerdos, circulares, instructivos, bases y manuales administrativos conducentes para el buen despacho de las funciones a su cargo;
 
-X. Proponer al Gobernador del Estado, a través de la coordinación general estratégica a la que se encuentre agrupada, las normas, políticas y medidas de las entidades que tenga sectorizadas;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+
+X. Dar seguimiento a los lineamientos y políticas de las entidades que tenga sectorizadas, informando a la Coordinación General Estratégica a la que se encuentre agrupada;
 
 XI. Participar en la elaboración y modificación de los programas institucionales de las entidades que tenga sectorizadas;
 
 XII. Participar en los proyectos que, en las materias de su competencia, el Gobernador del Estado debe someter a la revisión del Congreso del Estado;
 
-XIII. Promover, incentivar y encauzar la participación ciudadana y la intervención de los organismos de la sociedad civil;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+
+XIII. Promover, incentivar y encauzar la participación ciudadana y la intervención de las organizaciones de la sociedad civil;
 
 XIV. Autorizar los nombramientos de los servidores públicos adscritos a su respectiva secretaría y ordenar a quien corresponda la expedición de los mismos en apego a la plantilla de personal autorizada para cada ejercicio fiscal;
 
 XV. Ejercer sus atribuciones auxiliándose de las entidades que se encuentren sectorizadas, en los términos establecidos en las leyes de la materia;
 
-XVI. Proponer al Gobernador del Estado, la extinción y liquidación, fusión o escisión de entidades u organismos, previa opinión del coordinador general estratégico en su caso, siempre que dejen de cumplir sus fines u objeto, su funcionamiento no resulte viable financieramente o su funcionamiento sea innecesario de acuerdo con el interés público que perseguía, debiendo en su caso, por conducto de la Secretaría de Administración, diseñar e implementar las acciones necesarias para su disolución y liquidación;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
 
-XVII. Proponer al Gobernador del Estado por conducto del coordinador general estratégico en su caso, la creación de aquellas entidades que estimen necesarias o convenientes para el correcto y eficaz ejercicio de las atribuciones que tienen conferidas; y
+XVI. Proponer en su caso, al Gobernador del Estado, la extinción y liquidación, fusión o escisión de entidades, previa opinión de la Coordinación General Estratégica a la cual se encuentre agrupada, siempre que dejen de cumplir sus fines u objeto, su funcionamiento no resulte viable financieramente o sea innecesario de acuerdo con el interés público que perseguía, debiendo en su caso, por conducto de la Secretaría de Administración, diseñar e implementar las acciones necesarias para su disolución y liquidación;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+
+XVII. Proponer en su caso, al Gobernador del Estado por conducto de la Coordinación General Estratégica a la cual se encuentre agrupada, la creación de aquellas entidades que estimen necesarias o convenientes para el correcto y eficaz ejercicio de las atribuciones que tienen conferidas; y
 
 XVIII. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
 
@@ -447,7 +471,9 @@ XVIII. Administrar el Registro de Profesionistas y sus colegios en el Estado;
 
 XIX. Llevar el registro de autógrafos para la legalización de las firmas de funcionarios públicos estatales y municipales, así como los servidores públicos con fe pública y notarios;
 
-XX. Administrar el Sistema de Firma Electrónica Certificada;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+
+XX. Administrar el Sistema de Firma Electrónica Avanzada;
 
 XXI. Administrar el Periódico Oficial “El Estado de Jalisco”;
 
@@ -463,7 +489,9 @@ XXVI. Organizar el Servicio Social Profesional en el Estado;
 
 XXVII. Tramitar lo relacionado con los nombramientos, renuncias y licencias de los titulares de las dependencias y entidades de la Administración Pública Estatal;
 
-XXVIII. Hacerse cargo a través de su titular, del despacho del Ciudadano Gobernador del Estado, en el caso previsto en el artículo 43 de la Constitución Política del Estado de Jalisco, pudiendo ejercer en ese periodo, las atribuciones que la propia Constitución local le otorga al Ejecutivo, en las fracciones III, IV, VIII, IX, XII, XIV, XV, XVI y XXIII de su artículo 50, así como las dispuestas por esta Ley Orgánica en su artículo 4;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+
+XXVIII. Hacerse cargo a través de su titular, del despacho del Ciudadano Gobernador del Estado, en el caso previsto en el artículo 43 de la Constitución Política del Estado de Jalisco;
 
 XXIX. Coordinar, supervisar y evaluar el diseño y desarrollo de los sistemas de información de las dependencias y entidades de la Administración Pública Estatal, relacionadas con el ámbito de su competencia;
 
@@ -647,19 +675,27 @@ II. Proponer al titular del Poder Ejecutivo las principales directrices de accio
 
 III. Registrar y administrar los bienes muebles e inmuebles propiedad de la Administración Pública del Estado;
 
-IV. Programar y ejecutar, en coordinación con las demás dependencias, la selección, contratación, capacitación y actualización del personal al servicio del Poder Ejecutivo, así como vigilar que las entidades se sujeten a las políticas en la materia establecidos por éste;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
 
-V. Contar con un registro de los servidores públicos y del personal que preste de alguna manera servicios al Poder Ejecutivo;
+IV. Programar y ejecutar, en coordinación con las dependencias, la selección, contratación, capacitación y actualización de los servidores públicos al servicio del Poder Ejecutivo, así como vigilar que las entidades se sujeten a las políticas en la materia establecidos por éste; excepto personal operativo, que se regirán por su propia normativa.
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+
+V. Contar con un registro de los servidores públicos y del personal que preste servicios por honorarios a las dependencias del Poder Ejecutivo;
 
 VI. Llevar el registro y afiliación en instituciones de seguridad social de todos los servidores públicos del Poder Ejecutivo del Estado;
 
 VII. Obtener y mantener al corriente la información sobre los estudios académicos de los servidores públicos que requieran título o grado y que deban ser nombrados por el Ejecutivo;
 
-VIII. Proponer los lineamientos y políticas de nombramientos, licencias, destituciones, renuncias y jubilaciones de servidores públicos que no se atribuyan expresamente por la ley a otras dependencias;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+
+VIII. Proponer los lineamientos y políticas de nombramientos, licencias, destituciones, renuncias y jubilaciones de los servidores públicos adscritos a las dependencias, que no se atribuyen expresamente por la ley a otras dependencias;
 
 IX. Autorizar las compatibilidades de los servidores públicos, para que puedan desempeñar más de un empleo, conforme a las leyes;
 
-X. Organizar y administrar el Servicio Profesional Civil de Carrera en la administración pública del estado;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+
+X. Administrar el Servicio Profesional Civil de Carrera en la administración pública del estado, así como el Servicio Social Estudiantil, Prácticas Profesionales y Estadías en la administración pública del Poder Ejecutivo.
 
 XI. Registrar y procesar las solicitudes y requisiciones de compras que formulen todas las dependencias, aprobando las cotizaciones respectivas; fincar los pedidos correspondientes y en general, realizar las operaciones de compra requeridas por el Estado, así como firmar los convenios y contratos resultantes, en la forma y términos de las disposiciones que al efecto dicte el titular del Ejecutivo;
 
@@ -887,9 +923,7 @@ XV. Coadyuvar con las Secretarías que tengan injerencia en programas sociales, 
 
 XVI. La Administración y control de las escuelas normales, las de formación, actualización, capacitación y superación profesional docente conforme a las disposiciones de las leyes generales y federales en materia educativa;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
-
-XVII. Coadyuvar, en el ámbito de su competencia, con la Agencia Estatal de Entretenimiento de Jalisco en el cumplimiento de la Ley de Filmaciones del Estado de Jalisco; y
+XVII. (DEROGADA, P.O. 23 DE FEBRERO DE 2023)
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
@@ -1779,7 +1813,9 @@ II. Realizar las tareas relativas a la ingeniería de tránsito y transporte en 
 
 III. Otorgar, negar, modificar o revocar los permisos, subrogaciones y concesiones necesarios para la explotación del servicio de transporte público y de la vialidad en el estado;
 
-IV. Proponer y colaborar con las instancias de planeación y ejecución de obras en el establecimiento de políticas, programas y proyectos relativos a la construcción, mantenimiento, reparación de obras de transporte y vialidad;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+
+IV. Proponer y colaborar con las instancias de planeación y ejecución de obras en el establecimiento de políticas, programas y proyectos relativos a la construcción, mantenimiento, reparación de obras de transporte y vialidad, así como realizar auditorías e inspecciones de seguridad vial;
 
 V. Solicitar a las instancias de planeación en el Estado o de coordinación metropolitana según corresponda, se lleven a cabo los estudios para determinar, con base en ellos, las medidas técnicas y operaciones de todos los medios de transporte en todas sus modalidades, con el objeto de que se complementen e integren armónicamente entre sí y con la de infraestructura vial;
 
@@ -2267,41 +2303,15 @@ II. Las Empresas de Participación Estatal; y
 
 III. Los Fideicomisos Públicos.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 67.
 
-1. El Registro de Entidades Paraestatales del Estado tiene por objeto llevar el control de todas las Entidades que integran la Administración Pública Paraestatal, estará a cargo de la Secretaría de la Hacienda Pública, y contendrá lo siguiente:
-
-I. La ley o decreto de creación y las reformas o modificaciones a dichas leyes o decretos, en su caso;
-
-II. El estatuto orgánico o el instrumento normativo interno y sus reformas o modificaciones;
-
-III. Los nombramientos de los integrantes del órgano de gobierno y sus remociones;
-
-IV. Los nombramientos y sustituciones del Director General o similar y los servidores públicos que ostenten una jerarquía inmediata inferior;
-
-V. Los poderes generales y sus revocaciones;
-
-VI. En su caso, el decreto legislativo o el acuerdo de la Secretaría de la Hacienda Pública, y de la dependencia coordinadora de sector que establezca las bases de la fusión, escisión, extinción o liquidación, de conformidad con las leyes o decretos correspondientes; y
-
-VII. Los demás documentos o actos que establezcan otras disposiciones legales o reglamentarias aplicables.
-
-2. Las Entidades deben inscribir en el Registro de Entidades Paraestatales del Estado sus documentos constitutivos y las modificaciones a los mismos, a través de su titular, dentro de los diez días hábiles siguientes a su constitución o modificación.
-
-3. El Registro de Entidades Paraestatales del Estado tiene fe pública y puede expedir certificaciones de las inscripciones y registros del mismo. La información del Registro es considerada información fundamental.
-
-4. Para acreditar la personalidad y facultades como integrantes de los órganos de gobierno, órganos ejecutivos y apoderados generales de las Entidades se podrá utilizar una certificación de la inscripción de su nombramiento o mandato en el Registro de Entidades Paraestatales del Estado.
+1. Las Entidades para su creación, conformación y organización, se regirán por la Ley de Entidades Paraestatales del Estado de Jalisco, su Ley o Decreto de creación, así como por las disposiciones que emita el Gobernador del Estado o las dependencias competentes.
 
 ###### Artículo 68.
 
-1. Las Entidades se agruparán por sectores definidos, de acuerdo a la afinidad de las materias de las dependencias y las propias entidades, con el objeto de organizarse y coordinarse para el diseño, elaboración, ejecución y evaluación de los programas sectoriales e intersectoriales y la realización de proyectos integrales que requieran la intervención conjunta de varias dependencias y entidades.
-
-2. La dependencia coordinadora de sector tiene las siguientes atribuciones:
-
-I. Realizar visitas y auditorías a las entidades de su sector, para supervisar el adecuado uso y manejo de los recursos públicos, así como el correcto funcionamiento de los sistemas de control y cumplimiento de las responsabilidades de los órganos de gobierno, ejecutivo y de control, sin perjuicio de las facultades que le corresponden a la Contraloría del Estado;
-
-II. Proponer las medidas correctivas y de control que estime necesarias; y
-
-III. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ### Capítulo II. Organismos Públicos Descentralizados
 
@@ -2309,363 +2319,97 @@ III. Las demás que establezcan otras disposiciones legales o reglamentarias apl
 
 ###### Artículo 69.
 
-1. Los Organismos Públicos Descentralizados, en adelante Organismos, son Entidades de la Administración Pública Paraestatal que, como personas jurídicas de derecho público, cuentan con personalidad jurídica y patrimonio propio, tienen por objeto:
-
-I. Realizar actividades correspondientes a las áreas estratégicas o prioritarias del desarrollo;
-
-II. Ejecutar proyectos estratégicos o determinados de la Administración Pública Estatal;
-
-III. Prestar servicios públicos o sociales; o
-
-IV. Obtener y aplicar recursos para fines de asistencia pública, desarrollo e inclusión social y seguridad social.
-
-2. La Universidad de Guadalajara y demás instituciones de educación superior a las que la ley otorgue autonomía, se regirán por sus leyes específicas.
-
-3. Los organismos públicos descentralizados se regirán por su ley orgánica o decreto de creación, y en lo no previsto, por lo dispuesto en esta ley.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ###### Artículo 70.
 
-1. La ley o decreto que cree un Organismo debe establecer:
-
-I. La denominación y domicilio legal del Organismo;
-
-II. El objeto y atribuciones del Organismo;
-
-III. La integración del patrimonio del Organismo;
-
-IV. La integración y atribuciones de la Junta de Gobierno;
-
-V. La designación y atribuciones de su titular;
-
-VI. La integración y atribuciones del órgano de vigilancia;
-
-VII. El régimen laboral aplicable a sus relaciones de trabajo;
-
-VIII. Las previsiones relativas a su sectorización; y
-
-IX. La forma y términos de su extinción y liquidación, en su caso.
-
-2. En la fusión, escisión y extinción de los Organismos deben observarse las mismas formalidades establecidas para su creación.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ###### Artículo 71.
 
-1. Los Organismos se integran por:
-
-I. Una Junta de Gobierno;
-
-II. Un titular;
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
-
-III. Un Órgano Interno de Control; y
-
-IV. La estructura administrativa que establezca su Estatuto Orgánico.
-
-2. El Estatuto Orgánico del Organismo debe regular su organización y funcionamiento internos.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ###### Artículo 72.
 
-1. El patrimonio de los Organismos se integra por:
-
-I. Los bienes inmuebles y muebles que le asigne el Estado;
-
-II. Las aportaciones en numerario, servicios y subsidios que proporcionen el Estado;
-
-III. Las aportaciones que perciba conforme a los convenios o contratos que celebre;
-
-IV. Los productos que obtenga por la prestación de sus servicios, las cantidades y comisiones que obtenga por los servicios que preste, las cuales se determinarán por la Junta de Gobierno, conforme a las disposiciones aplicables;
-
-V. Los bienes y derechos que adquiera por cualquier título;
-
-VI. Los rendimientos que obtenga de la inversión de sus recursos, salvo aquellos que tenga que devolver o reintegrar por mandato legal;
-
-VII. Los recursos que obtengan sus órganos auxiliares por la prestación de sus servicios; y
-
-VIII. Todos los demás bienes o derechos que perciba en el ejercicio de sus atribuciones.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 #### Sección Segunda. Junta de Gobierno
 
 ###### Artículo 73.
 
-1. La Junta de Gobierno es el órgano máximo de decisión de los organismos públicos descentralizados. Se integra por los miembros propietarios con derecho a voz y voto, y sus respectivos suplentes que establezca la normatividad que le dé origen.
-
-2. Son integrantes de la Junta de Gobierno:
-
-I. El titular de la dependencia coordinadora de sector, que lo presidirá cuando el Gobernador no forme parte de la Junta de Gobierno;
-
-II. El titular del organismo, sólo con derecho a voz y hará las funciones de Secretario Técnico de la Junta de Gobierno; y
-
-III. Los demás integrantes que establezca la ley o decreto de creación, o el Estatuto Orgánico, en su caso.
-
-3. Los integrantes con derecho a voto que representen al Estado siempre deben ser mayoría absoluta.
-
-4. Los cargos como integrante de la Junta de Gobierno de un Organismo son honoríficos, y por tanto no remunerados.
-
-5. Corresponderá a los titulares de las dependencias coordinadoras de sector, la coordinación de su Sector, así como vigilar el cumplimiento de las políticas de desarrollo, conocer la operación y evaluación de los resultados de las entidades paraestatales del ramo que les corresponda.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ###### Artículo 74.
 
-1. La Junta de Gobierno tiene las siguientes atribuciones:
-
-I. Fungir como órgano de gobierno del Organismo;
-
-II. Aprobar el Estatuto Orgánico o reglamento interno del Organismo;
-
-III. Aprobar el anteproyecto de Presupuesto de Egresos del Organismo, su plantilla de personal y el clasificador por objeto del gasto;
-
-IV. Aprobar el Plan Institucional y los programas operativos anuales del Organismo, y los demás instrumentos de planeación y programación que le correspondan;
-
-V. Aprobar las políticas generales y definir las prioridades a las que deberá sujetarse el Organismo, de acuerdo con el programa sectorial;
-
-VI. Aprobar las políticas, bases y lineamientos generales para la contratación de servicios, adquisiciones, arrendamientos y otros rubros similares, conforme a la ley;
-
-VII. Aprobar la constitución de órganos auxiliares de apoyo del Organismo no contemplados en la ley o decreto de creación ni en el Estatuto Orgánico o reglamento interno, los que en ningún caso tendrán autonomía administrativa, financiera o presupuestal;
-
-VIII. Aprobar anualmente, previo informe de los órganos de vigilancia, los dictámenes de las auditorías practicadas, los estados financieros del Organismo y autorizar la publicación de los mismos;
-
-IX. Aprobar la suscripción de los actos jurídicos a nombre del Organismo, que afecten su patrimonio, constituyan deuda o trasciendan el periodo constitucional del Gobernador del Estado en turno, sin perjuicio de la autorización que corresponda al Congreso del Estado, en su caso;
-
-X. Aprobar la celebración de los contratos y convenios de los que el Organismo sea parte;
-
-XI. Enviar proyectos de leyes, reglamentos o decretos al Gobernador del Estado, en las materias de su competencia, para su consideración, a través de la dependencia coordinadora de sector;
-
-XII. Recibir y conocer los informes internos que presenten los encargados de los órganos y unidades administrativas del Organismo;
-
-XIII. Conocer de las quejas y denuncias que se presenten en contra del titular del Organismo;
-
-XIV. Nombrar y remover al personal del Organismo, a propuesta de su titular, conforme a las disposiciones legales y reglamentarias aplicables;
-
-XV. Proponer al Gobernador del Estado, por conducto de la Secretaría de la Hacienda Pública, y de las coordinadoras de sector correspondientes, los proyectos de escisión o de convenios de fusión con otras Entidades;
-
-XVI. Proponer a la Secretaría de la Hacienda Pública la constitución de reservas y su aplicación, en caso de excedentes económicos del Organismo;
-
-XVII. Aprobar los informes periódicos que rinda el Director General, con la intervención del órgano de vigilancia;
-
-XVIII. Aprobar las bases para cancelar adeudos a cargo de terceros y a favor del Organismo cuando sea notoria la imposibilidad práctica de su cobro e informar a la Secretaría de la Hacienda Pública;
-
-XIX. Controlar y evaluar la forma en que los objetivos del Organismo sean alcanzados y la manera en que las estrategias básicas sean conducidas;
-
-XX. Atender los informes sobre control y auditoría que le remita el órgano de vigilancia;
-
-XXI. Vigilar la imposición de las medidas correctivas a que haya lugar;
-
-XXII. Implementar las políticas, lineamientos, acuerdos y demás disposiciones emitidas por la dependencia a la que se encuentre sectorizado, así como remitirle la información que le sea requerida; y
-
-XXIII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ###### Artículo 75.
 
-1. La Junta de Gobierno debe reunirse las veces que sea necesario para atender los asuntos de su competencia, con la periodicidad que establezca su Estatuto Orgánico o reglamento interno, cuando menos una vez por trimestre.
-
-2. La Junta de Gobierno requiere de la asistencia de más de la mitad de sus integrantes con derecho a voto para deliberar, tomar acuerdos y ejercer sus atribuciones.
-
-3. La Junta de Gobierno toma acuerdos y ejerce sus atribuciones con el voto de más de la mitad de los integrantes presentes con derecho a voto, salvo los casos específicos en que el Estatuto Orgánico señale una mayoría absoluta o calificada. El presidente de la Junta de Gobierno tiene voto de calidad en caso de empate.
-
-4. La convocatoria a reuniones de la Junta de Gobierno corresponde al titular del organismo, salvo los casos de excepción en que el Estatuto Orgánico o reglamento interno conceda esta facultad a otras personas.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ABRIL DE 2020)</small>
-
-5. En casos fortuitos o de fuerza mayor, que impidan o hagan inconveniente la presencia física de los integrantes de la Junta de Gobierno en un mismo lugar, las sesiones podrán celebrarse a distancia empleando medios telemáticos, electrónicos, ópticos o cualquier otra tecnología, que permita por lo menos:
-
-I. La identificación visual plena de los integrantes de la Junta de Gobierno, aunque deberá privilegiarse, en caso de que exista la posibilidad, el uso de herramientas que permita la identificación mediante el uso de la firma electrónica avanzada;
-
-II. La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos; y
-
-III. Dejar registro audiovisual de la sesión y sus acuerdos.
-
-En estos supuestos, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 #### Sección Tercera. Director General
 
 ###### Artículo 76.
 
-1. La titularidad de los organismos públicos descentralizados recae en una figura a la que genéricamente se le denomina Director General, el cual es designado y removido libremente por el Gobernador del Estado.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ###### Artículo 77.
 
-1. Para ser Director General se requiere:
-
-I. Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos; y
-
-II. Contar con título profesional preferentemente en la materia que se trate o acreditar experiencia en la misma al momento de su designación.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ###### Artículo 78.
 
-1. El Director General tiene las siguientes atribuciones:
-
-I. Fungir como órgano ejecutivo del Organismo;
-
-II. Representar legalmente al Organismo, para lo cual podrán:
-
-a) Celebrar y otorgar toda clase de actos y documentos inherentes a su objeto;
-
-b) Ejercer las más amplias facultades de dominio, administración, pleitos y cobranzas;
-
-c) Formular querellas y otorgar perdón;
-
-d) Ejercitar y desistirse de acciones jurisdiccionales estatales y federales;
-
-e) Comprometer asuntos en arbitraje y celebrar transacciones; y
-
-f) Otorgar, sustituir y revocar poderes generales y especiales con las facultades que les competan;
-
-III. Administrar los recursos financieros, humanos y materiales del Organismo;
-
-IV. Ejecutar los acuerdos de la Junta de Gobierno;
-
-V. Formular el Plan Institucional, los programas operativos anuales y los demás instrumentos de planeación y programación del Organismo y proponerlos a la Junta de Gobierno;
-
-VI. Formular el proyecto de Presupuesto de Egresos del Organismo, junto con su plantilla de personal y el clasificador por objeto del gasto y proponerlos a la Junta de Gobierno;
-
-VII. Proponer para su nombramiento a los funcionarios públicos del nivel inmediato inferior al suyo;
-
-VIII. Establecer las medidas y mecanismos que aseguren la calidad, eficacia y eficiencia en la operación del Organismo;
-
-IX. Diseñar y operar mecanismos de evaluación de la eficiencia y eficacia del desempeño del Organismo y presentar a la Junta de Gobierno un informe semestral de los resultados obtenidos;
-
-X. Establecer y operar los sistemas de control necesarios para alcanzar las metas u objetivos propuestos en los planes y programas;
-
-XI. Recabar, organizar y publicar información estadística sobre el desempeño del Organismo;
-
-XII. Elaborar y presentar a la Junta de Gobierno un informe trimestral del avance en las metas y objetivos de los planes y programas del Organismo y de la gestión financiera y administrativa del mismo, sin perjuicio de los informes especiales que le requiera la Junta de Gobierno en cualquier tiempo;
-
-XIII. Suscribir en su caso, los contratos colectivos e individuales de trabajo del Organismo con sus trabajadores;
-
-XIV. Proponer al presidente de la Junta de Gobierno la celebración de reuniones o sesiones extraordinarias cuando existan asuntos que así lo ameriten;
-
-XV. Definir las políticas de instrumentación de los sistemas de control y evaluación que sean necesarios;
-
-XVI. Tomar las acciones correspondientes para corregir las deficiencias que se detecten y presentar a la Junta de Gobierno informes periódicos sobre el cumplimiento de los objetivos del sistema de control y evaluación, su funcionamiento y programas de mejoramiento; y
-
-XVII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 #### Sección Cuarta. Órgano de Control
 
 ###### Artículo 79.
 
-1. Los órganos de vigilancia de los Organismos se integran por un comisario público propietario y un suplente, designados por la Contraloría del Estado.
-
-2. El órgano de vigilancia depende administrativamente del Director General, pero gozará de autonomía en el ejercicio de sus atribuciones.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ###### Artículo 80.
 
-1. Los comisarios tienen las siguientes atribuciones:
-
-I. Evaluar el desempeño general y por funciones del Organismo;
-
-II. Examinar y evaluar los sistemas, mecanismos y procedimientos de control;
-
-III. Realizar estudios sobre la eficiencia en el ejercicio del gasto corriente y de inversión;
-
-IV. Solicitar la información y efectuar los actos de vigilancia que requieran para el cumplimiento de sus funciones;
-
-V. Apoyar la función directiva y promover el mejoramiento de gestión del organismo;
-
-VI. Efectuar revisiones y auditorías;
-
-VII. Vigilar que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables;
-
-VIII. Presentar a la Junta de Gobierno y al Director General los informes resultantes de las auditorias, exámenes y evaluaciones realizados; y
-
-IX. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
-
-La Junta de Gobierno, el Director General o las demás áreas del Organismo deben proporcionar la información que les soliciten los comisarios y facilitar las diligencias de inspección y vigilancia que realicen.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ### Capítulo III. Empresas de Participación Estatal
 
 ###### Artículo 81.
 
-1. Las Empresas de Participación Estatal son las Entidades de la Administración Pública Paraestatal respecto de las cuales el Estado, directamente o a través de otras Entidades, cuenta con acciones o partes sociales por más del cincuenta por ciento del total.
-
-2. Para que el Estado participe en la constitución de una empresa se requiere que la misma se dedique a actividades preponderantemente económicas, correspondientes a las áreas estratégicas o prioritarias de acuerdo al Plan Estatal de Desarrollo.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ###### Artículo 82.
 
-1. Las Empresas de Participación Estatal pueden ser:
-
-I. Empresas del Estado, cuando el Estado, por sí o a través de otras Entidades, cuente con el cien por ciento de las acciones o partes sociales de la Empresa; y
-
-II. Empresas de Participación Estatal Mayoritaria, cuando el Estado, por sí o a través de otras Entidades, cuente con más de cincuenta y menos del cien por ciento de las acciones o partes sociales de la Empresa.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ###### Artículo 83.
 
-1. A las Empresas del Estado les son aplicables las disposiciones legales y reglamentarias de los Organismos, relativas a su constitución, fusión, escisión, extinción, estructura orgánica, integración, organización, funcionamiento, atribuciones generales y demás aspectos regulados en esta ley, sin perjuicio de lo dispuesto por la legislación civil o mercantil que las regule.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ###### Artículo 84.
 
-1. A las Empresas de Participación Estatal Mayoritaria les son aplicables las disposiciones legales y reglamentarias de los Organismos Públicos Descentralizados, que no contravengan lo dispuesto por la legislación civil o mercantil que las regule.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ###### Artículo 85.
 
-1. Para la constitución de Empresas de Participación Estatal o para la adquisición de acciones o partes sociales de una empresa que como consecuencia de ello se convierta en Empresa de Participación Estatal se requiere autorización del Congreso del Estado.
-
-2. Para la extinción y liquidación de una Empresa del Estado o la enajenación de títulos representativos del capital social de una Empresa de Participación Estatal que represente la pérdida de la participación mayoritaria del Estado, se requiere autorización del Congreso del Estado.
-
-3. La enajenación de títulos representativos del capital social de una Empresa de Participación Estatal, se podrá realizar a través de los procedimientos bursátiles propios del mercado de valores o de las instituciones nacionales de crédito, de acuerdo con la normativa aplicable, o a través de subasta pública, de acuerdo a los lineamientos que establezca la Secretaría de la Hacienda Pública, la cual vigilará el cumplimiento de la normativa aplicables (sic).
-
-4. Los trabajadores organizados de la empresa tienen preferencia para adquirir los títulos representativos del capital del Estado, en igualdad de condiciones, cuando con ello no se contravenga la ley o los estatutos correspondientes.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ###### Artículo 86.
 
-1. Las utilidades o excedentes financieros percibidos con la operación de una Empresa de Participación Estatal se reinvertirán en la actividad económica a que se dedique, salvo que el Congreso del Estado autorice su destino para inversión pública productiva o pago de deuda pública.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ### Capítulo IV. Fideicomisos Públicos
 
 ###### Artículo 87.
 
-1. Los Fideicomisos Públicos son Entidades de la Administración Pública Paraestatal, constituidos por la Administración Pública mediante la celebración de un contrato de fideicomiso, organizados de manera análoga a los Organismos Públicos Descentralizados, que tienen como propósito auxiliar al Estado mediante la realización de actividades prioritarias.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ###### Artículo 88.
 
-1. Atendiendo a la forma de su administración, los fideicomisos públicos se clasificarán como:
-
-a) Fideicomisos sin estructura, los cuales serán aquellos que carezcan de una estructura administrativa propia para su operación, sin perjuicio de que cuenten con un comité técnico;
-
-b) Fideicomisos con estructura, los cuales serán aquellos que cuenten con una estructura administrativa interna propia para su operación, además de un comité técnico.
-
-2. A los Fideicomisos Públicos que cuenten con estructura, les son aplicables las disposiciones legales y reglamentarias de los Organismos Públicos Descentralizados, relativas a la integración, atribuciones y funcionamiento de los comités técnicos y directores generales, que no contravenga lo dispuesto por la legislación mercantil.
-
-3. La Secretaría de la Hacienda Pública será el fideicomitente único de la Administración Pública Centralizada.
-
-4. Los Organismos Públicos Descentralizados y Empresas de Participación Estatal podrán actuar como fideicomitentes contando para ello con la autorización expresa de la Secretaría de la Hacienda Pública. De igual forma, para la constitución de fideicomisos secundarios por parte de los Fideicomisos Públicos Estatales se deberá contar con la correspondiente autorización de la referida Secretaría.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ###### Artículo 89.
 
-1. Además de lo dispuesto en el presente capítulo, los Fideicomisos Públicos se regirán por las siguientes bases:
-
-I. En los Fideicomisos Públicos siempre debe existir un Comité Técnico, y preferentemente un Director General;
-
-II. En los contratos respectivos deberán precisarse:
-
-a) Los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos;
-
-b) Las limitaciones que establezca o que se deriven de derechos de terceros;
-
-c) Los derechos que el fideicomitente se reserve y las facultades que fije en su caso al comité técnico;
-
-d) Las atribuciones especiales adicionales a las correspondientes como órgano de gobierno, que determine el Gobernador del Estado para el Comité Técnico, con la precisión de los asuntos que requieren aprobación del mismo, para el ejercicio de acciones y derechos que correspondan al fiduciario, entendidas dichas atribuciones como limitaciones para la institución fiduciaria; y
-
-e) La reserva del Gobierno Estatal de la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo los fideicomisos constituidos por mandato de la ley o que la naturaleza de sus fines no lo permita;
-
-III. Las obligaciones establecidas en esta ley a cargo de las instituciones que funjan como fiduciarias en los fideicomisos que constituya la Administración Pública, en lo que no se oponga a la legislación federal aplicable, siempre serán asumidas por éstas de manera convencional en los instrumentos en que se formalice la operación, y cuando el instrumento carezca de este requisito, el Gobernador del Estado se abstendrá de celebrar el contrato, salvo autorización especial del Congreso del Estado;
-
-IV. En los contratos se establecerá que las instituciones fiduciarias deberán:
-
-a) Someter a la consideración de la dependencia coordinadora de sector, los proyectos de estructura administrativa o las modificaciones que se requieran, a través del delegado fiduciario general;
-
-b) Abstenerse de cumplir las resoluciones que el Comité Técnico emita en exceso de las facultades expresamente fijadas por el fideicomitente o en violación a las cláusulas del contrato de fideicomiso, y en su caso deberá responder de los daños y perjuicios causados, al ejecutar actos en acatamiento de dichas resoluciones o en violación del contrato; y
-
-V. Cuando por la naturaleza o especialización de los fideicomisos, la institución fiduciaria requiera informes y controles especiales, en acuerdo con la dependencia coordinadora de sector, instruirán al delegado fiduciario para:
-
-a) Someter a la consideración de la fiduciaria los actos, contratos y convenios de los que resulten derechos y obligaciones para el fideicomiso o la fiduciaria;
-
-b) Consultar con anticipación a la fiduciaria los asuntos a tratarse en el Comité Técnico;
-
-c) Informar a la fiduciaria y al Comité Técnico sobre la ejecución de los acuerdos del último;
-
-d) Presentar a la fiduciaria la información contable requerida para precisar la situación financiera del fideicomiso; y
-
-e) Cumplir las demás instrucciones acordadas por (sic) dependencia coordinadora de sector y la fiduciaria.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
 
 ## TRANSITORIOS
 
@@ -2871,11 +2615,15 @@ SÉPTIMO. El mando, coordinación y control de la Policía Vial conferidos a la 
 
 OCTAVO. Las órdenes emitidas para practicar visitas de inspección a notarías públicas, así como las visitas en práctica que hasta antes de la entrada en vigor del presente Decreto estaban siendo substanciadas por la Procuraduría Social, continuarán siendo desahogadas por la Secretaría General de Gobierno hasta su conclusión.
 
-Los procedimientos de oficio o queja administrativa en contra de notarios públicos, así como cualquier trámite o procedimiento de responsabilidad notarial presentados con posterioridad a la reforma aprobada mediante decreto legislativo 26929/LXI/18, así como cualquier trámite o procedimiento vinculado a la función notarial que se hubiesen recepcionado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose ante la Secretaría General de Gobierno. Los trámites y procedimientos vinculados a la función notarial que se presenten de forma posterior a la entrada en vigor del presente Decreto, serán substanciados por la Consejería Jurídica del Poder Ejecutivo del Estado hasta su conclusión.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2023)</small>
+
+Los procedimientos de oficio o queja administrativa en contra de notarios públicos, así como cualquier trámite o procedimiento de responsabilidad notarial o vinculado a la función notarial, serán substanciados por la Consejería Jurídica del Poder Ejecutivo del Estado hasta su conclusión.
 
 La Secretaría General de Gobierno dará el trámite que conforme a la Ley del Notariado del Estado de Jalisco, corresponda, a las actas levantadas con motivo de las visitas de inspección a notarías públicas que se hubiesen ordenado o practicado por la Procuraduría Social antes de la entrada en vigor del presente decreto.
 
-Para el ejercicio de las anteriores facultades, la Secretaría General de Gobierno se auxiliará de la Subsecretaría General de Gobierno o de la persona que éste designe directamente o bien, conforme lo disponga el Reglamento de la citada secretaría.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+
+Para el ejercicio de las anteriores facultades en materia de visitaduría notarial, la Secretaría General de Gobierno se auxiliará de la Subsecretaría General de Gobierno o de la persona que éste designe directamente o bien, conforme lo disponga el Reglamento de la citada Secretaría.
 
 NOVENO. A partir de la entrada en vigor del presente Decreto, los asuntos, procedimientos, juicios y recursos en trámite, en los que la Subsecretaría de Asuntos Jurídicos y la Dirección General Jurídica, ambas de la Secretaría General de Gobierno, sean parte o hayan sido señaladas como autoridades responsables, continuarán siendo atendidos por la Consejería Jurídica del Poder Ejecutivo del Estado, quien tendrá a su cargo la representación jurídica en los mismos, toda vez que dicha Consejería sustituye a las citadas Subsecretaría y Dirección.
 
@@ -3228,3 +2976,25 @@ P.O. 21 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28771/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LEY ESTATAL PARA LA IGUALDAD ENTRE LAS MUJERES Y HOMBRES; LEY ORGÁNICA DEL PODER EJECUTIVO; LEY ORGÁNICA DEL PODER JUDICIAL; Y LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO Y SUS MUNICIPIOS, TODAS LEYES DEL ESTADO DE JALISCO, EN MATERIA DE IGUALDAD SALARIAL, NO DISCRIMINACIÓN Y VIOLENCIA LABORAL CONTRA LAS MUJERES”.]
 
 ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Jalisco"
+
+P.O. 23 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29153/LXIII/23 DEL CONGRESO DEL ESTADO DE JALISCO, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO; EXPIDE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO 27213/LXII/18”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+Segundo. En lo correspondiente a los Fideicomisos a que se refiere la Ley de Entidades Paraestatales que se expide, se dictarán desde luego las disposiciones relativas para que, en su caso, los Comités Técnicos se ajusten a la integración y funcionamiento que en dicha Ley se señala respecto a los órganos de gobierno y se designarán en los casos en que proceda a sus Órganos Internos de Control por la Contraloría del Estado.
+
+Tercero. El Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para la armonización del marco jurídico estatal, con especial atención en los decretos de creación y leyes orgánicas de las Entidades objeto del presente ordenamiento.
+
+Cuarto. La persona titular de la Dirección General o quienes realicen funciones similares en las Entidades existentes a la vigencia de esta Ley, deberán bajo su responsabilidad, inscribirlas en el Registro en un plazo de 15 días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+Quinto. Se deberá adecuar el contenido de las disposiciones reglamentarias de las Entidades a lo dispuesto en la presente ley, para lo cual contarán con un período no mayor a 80 días naturales contados a partir de la entrada en vigor del presente Decreto, para presentar el proyecto correspondiente ante el Ejecutivo del Estado.
+
+Sexto. La Secretaría de la Hacienda Pública del Estado deberá publicar en su portal de transparencia, en un término no mayor a 60 días naturales contados a partir de la entrada en vigencia del presente decreto, la relación de las Entidades que conformen la Administración Pública Paraestatal, así como el agrupamiento de Dependencias y sectorización de Entidades vigente (sic), debiendo mantenerlos actualizados.
+
+Séptimo. Las Entidades contarán con un plazo de 180 días naturales, contados a partir de la entrada en vigor de este decreto, para actualizar los productos, derechos, cantidades y comisiones que obtenga por los servicios que presten, debiendo publicarlas dentro de ese plazo en el periódico oficial “El Estado de Jalisco”. Lo anterior no será aplicable en los casos que existan disposiciones especiales para la expedición y vigencia de los conceptos que cobre alguna Entidad.
+
+Octavo. La Subsecretaría General de Gobierno tendrá un plazo de 15 días hábiles, contados a partir del mismo día del inicio de vigencia de este decreto, para transferir a la Consejería Jurídica del Poder Ejecutivo del Estado, todos los procedimientos de responsabilidad notarial a que se refieren el párrafo segundo el artículo Octavo transitorio del decreto 27213/LXII/18 así como el párrafo segundo del artículo Quinto transitorio del decreto 27218/LXII/18, que se reforman a través del presente decreto.
+
+Durante el lapso establecido en el párrafo anterior, estarán suspendidos los términos y plazos en todos los procedimientos de responsabilidad notarial materia de dicha transferencia.
