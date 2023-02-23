@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2022-11-12"
+last_updated: "2023-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -3177,7 +3177,9 @@ CUARTO. Todas las atribuciones previstas en cualquier ordenamiento que refiera o
 
 QUINTO. Las órdenes emitidas para practicar visitas de inspección a notarías públicas, así como las visitas en práctica que hasta antes de la entrada en vigor del presente decreto estaban siendo substanciadas por la Procuraduría Social, continuarán siendo desahogadas por la Secretaría General de Gobierno hasta su conclusión.
 
-Por su parte, los procedimientos de queja, así como cualquier trámite o procedimiento vinculado a la función notarial, que hasta antes de la entrada en vigor del presente Decreto estaban siendo substanciados por la Secretaría General de Gobierno, continuarán siendo tramitados por dicha Secretaría; y los trámites y procedimientos vinculados a la función notarial que den inicio de forma posterior a la entrada en vigor del presente decreto serán substanciados por la Consejería Jurídica del Poder Ejecutivo del Estado hasta su conclusión.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2023)</small>
+
+Los procedimientos de oficio o queja administrativa en contra de notarios públicos, así como cualquier trámite o procedimiento de responsabilidad notarial o vinculado a la función notarial, serán substanciados por la Consejería Jurídica del Poder Ejecutivo del Estado hasta su conclusión.
 
 P.O. 23 DE NOVIEMBRE DE 2019.
 
@@ -3214,3 +3216,25 @@ P.O. 12 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. La Dirección del Archivo de Instrumentos Públicos deberá realizar ante la Contraloría del Estado la correspondiente acta de entrega - recepción a la Dirección del Archivo Histórico del Estado, de conformidad con lo que señala la Ley de Entrega Recepción del Estado de Jalisco y sus Municipios, el artículo 30 fracción X de la Ley de Archivos del Estado de Jalisco y sus Municipios, y demás normas aplicables en materia de archivos de los documentos denominados como "Tierras y Aguas", "Libros de Gobierno de la Audiencia de Guadalajara", y los archivos de "Escribanos Públicos", en un plazo no mayor a 180 días a partir de la entrada en vigor del presente decreto.
+
+P.O. 23 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29153/LXIII/23 DEL CONGRESO DEL ESTADO DE JALISCO, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO; EXPIDE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO 27213/LXII/18".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. En lo correspondiente a los Fideicomisos a que se refiere la Ley de Entidades Paraestatales que se expide, se dictarán desde luego las disposiciones relativas para que, en su caso, los Comités Técnicos se ajusten a la integración y funcionamiento que en dicha Ley se señala respecto a los órganos de gobierno y se designarán en los casos en que proceda a sus Órganos Internos de Control por la Contraloría del Estado.
+
+Tercero. El Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para la armonización del marco jurídico estatal, con especial atención en los decretos de creación y leyes orgánicas de las Entidades objeto del presente ordenamiento.
+
+Cuarto. La persona titular de la Dirección General o quienes realicen funciones similares en las Entidades existentes a la vigencia de esta Ley, deberán bajo su responsabilidad, inscribirlas en el Registro en un plazo de 15 días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+Quinto. Se deberá adecuar el contenido de las disposiciones reglamentarias de las Entidades a lo dispuesto en la presente ley, para lo cual contarán con un periodo no mayor a 80 días naturales contados a partir de la entrada en vigor del presente Decreto, para presentar el proyecto correspondiente ante el Ejecutivo del Estado.
+
+Sexto. La Secretaria de la Hacienda Pública del Estado deberá publicar en su portal de transparencia, en un término no mayor a 60 días naturales contados a partir de la entrada en vigencia del presente decreto, la relación de las Entidades que conformen la Administración Pública Paraestatal, así como el agrupamiento de Dependencias y sectorización de Entidades vigente, debiendo mantenerlos actualizados.
+
+Séptimo. Las Entidades contarán con un plazo de 180 días naturales, contados a partir de la entrada en vigor de este decreto, para actualizar los productos, derechos, cantidades y comisiones que obtenga por los servicios que presten, debiendo publicarlas dentro de ese plazo en el periódico oficial "El Estado de Jalisco". Lo anterior no será aplicable en los casos que existan disposiciones especiales para la expedición y vigencia de los conceptos que cobre alguna Entidad.
+
+Octavo. La Subsecretaría General de Gobierno tendrá un plazo de 15 días hábiles, contados a partir del mismo día del inicio de vigencia de este decreto, para transferir a la Consejería Jurídica del Poder Ejecutivo del Estado, todos los procedimientos de responsabilidad notarial a que se refieren el párrafo segundo el (sic) artículo Octavo transitorio del decreto 27213/LXII/18 así como el párrafo segundo del artículo Quinto transitorio del decreto 27218/LXII/18, que se reforman a través del presente decreto.
+
+Durante el lapso establecido en el párrafo anterior, estarán suspendidos los términos y plazos en todos los procedimientos de responsabilidad notarial materia de dicha transferencia.
