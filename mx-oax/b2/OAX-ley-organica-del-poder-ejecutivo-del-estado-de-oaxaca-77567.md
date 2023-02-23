@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2022-11-30"
+last_updated: "2023-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "OAX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE MAYO DE 2023 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -1335,11 +1333,9 @@ XXIII. Fomentar políticas públicas orientadas a la distribución y abasto de p
 
 XXIV. Coordinar la difusión de programas y acciones para el bienestar y el desarrollo social;
 
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
 
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XXV. Promover los servicios gratuitos de atención itinerante en materia de desarrollo social a través del Organismo Descentralizado creado para tal fin;
+XXV. Implementar los servicios gratuitos de atención itinerante en materia de desarrollo social;
 
 > <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
 
@@ -4048,3 +4044,13 @@ SÉPTIMO. La Secretaría de Administración en coordinación con la Secretaría 
 OCTAVO. La Creación del Instituto de Planeación para el Bienestar no representa impacto presupuestal adicional alguno, toda vez que utilizará para su funcionamiento los recursos asignados a la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca.
 
 NOVENO. El titular del Poder Ejecutivo del Estado de Oaxaca deberá expedir las disposiciones reglamentarias que deriven del presente Decreto, en el plazo de ciento ochenta días hábiles contados a partir de la fecha de su entrada en vigor.
+
+P.O. 23 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 874.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXV DEL ARTÍCULO 42 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, para los efectos correspondientes.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. El titular del Poder Ejecutivo del Estado de Oaxaca deberá expedir las disposiciones reglamentarias que deriven del presente Decreto, en el plazo de ciento ochenta días hábiles contados a partir de la fecha de su entrada en vigor.
