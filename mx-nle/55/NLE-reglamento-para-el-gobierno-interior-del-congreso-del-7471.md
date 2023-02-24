@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2022-06-10"
+last_updated: "2023-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2023.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -1733,9 +1733,35 @@ X.- Mantener informados a los titulares de los Órganos del Congreso sobre los c
 
 XI.- Coordinar sus actividades con los demás órganos del Congreso para proveer los requerimientos de adquisiciones y servicios con agilidad y oportunidad.
 
-### CAPITULO I. DE LAS SESIONES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+### CAPITULO IX. DE LA UNIDAD DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+###### Artículo 71 Bis.
+
+La Unidad de Género tiene la responsabilidad de promover la cultura de la igualdad entre hombres y mujeres, asimismo, institucionalizar y lograr una efectiva transversalización de la perspectiva de género en el H. Congreso del Estado de Nuevo León, por lo que cuenta con las siguientes funciones:
+
+I. Coordinar la elaboración del programa interinstitucional para la igualdad entre Mujeres y Hombres del H. Congreso del Estado.
+
+II. Generar diagnósticos con perspectiva de género que permitan identificar las brechas de desigualdad de género que se presentan en la cultura organizacional del Congreso.
+
+III. Dirigir y coordinar la formulación, operación, seguimiento evaluación de acciones para mejorar las condiciones laborales entre mujeres y hombres, estableciendo en su caso, acciones afirmativas tendientes a acelerar la igualdad sustantiva.
+
+IV. Concertar acuerdos con los órganos técnicos y de apoyo responsables en el Congreso para ejecutar las políticas, acciones y programas de competencia establecidos en el Programa Interinstucional (sic) para la Igualdad entre Mujeres y Hombres.
+
+V. Coadyuvar con los órganos técnicos y de apoyo responsables en el Congreso para promover la producción de información de su competencia con perspectiva de Género.
+
+VI. Actuar como órgano de consulta y asesoría del Congreso en materia de Equidad e Igualdad de Género entre mujeres y hombre cuando así lo requieran.
+
+VII. Emitir informes de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas ejecutadas por el Congreso en cumplimiento al Programa Interinstitucional para la Igualdad entre Mujeres y Hombres.
+
+VIII. Divulgar al interior del Congreso la información relacionada con la perspectiva de género y su transversalización.
+
+IX. Contribuir de forma permanente en la formación y especialización del personal de todos los niveles en materia de perspectiva de género, igualdad sustantiva, así como la prevención y erradicación de la violencia política contra las mujeres en razón de género.
+
+X. La (sic) demás que se acuerden para impulsar la incorporación de la perspectiva de Género en el Congreso.
 
 ###### Artículo 72.
 
@@ -1763,7 +1789,9 @@ XI.- Coordinar sus actividades con los demás órganos del Congreso para proveer
 
 ## TITULO QUINTO. DEL PROCESO LEGISLATIVO
 
-### CAPITULO II. DE LA INICIATIVA Y LOS PUNTOS DE ACUERDO
+### CAPITULO I. DE LAS SESIONES
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 78.
 
@@ -1953,9 +1981,7 @@ Para la Apertura o Clausura de los Períodos Ordinarios el Presidente instalará
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MARZO DE 2017)</small>
 
-### CAPITULO III. DE LAS DELIBERACIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2006)</small>
+### CAPITULO II. DE LA INICIATIVA Y LOS PUNTOS DE ACUERDO
 
 ###### Artículo 102.
 
@@ -2139,9 +2165,9 @@ Las resoluciones del Congreso que tengan carácter de Decreto, Ley o Acuerdo, se
 
 Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Estado".
 
-### CAPITULO IV. DE LAS VOTACIONES
+### CAPITULO III. DE LAS DELIBERACIONES
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2006)</small>
 
 ###### Artículo 126.
 
@@ -2237,7 +2263,9 @@ Los Titulares de las Dependencias del Ejecutivo no podrán hacer proposiciones n
 
 Todas las Iniciativas o indicaciones del Ejecutivo deberán dirigirse a la Legislatura por medio de oficio.
 
-### CAPITULO V. DEL ACUERDO LEGISLATIVO
+### CAPITULO IV. DE LAS VOTACIONES
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 135.
 
@@ -2311,9 +2339,7 @@ El Presidente de la Asamblea tendrá siempre voto de calidad en caso de empate.
 
 Llegado el momento de la votación el Presidente lo anunciará a la Asamblea y ordenará a los Diputados que se hallen fuera del Salón de Sesiones y dentro del Recinto concurran a votar. Durante ese acto, ninguno de los Diputados podrá salir del Recinto, ni excusarse de participar en la votación a menos que con anterioridad alguno de ellos hubiese manifestado tener interés personal en el asunto.
 
-### CAPITULO V BIS. DEL SALÓN DE SESIONES
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+### CAPITULO V. DEL ACUERDO LEGISLATIVO
 
 ###### Artículo 143.
 
@@ -2337,9 +2363,9 @@ Cuando se concerte un Acuerdo Legislativo unánimemente para presentar un Proyec
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO VI. DEL CEREMONIAL
+### CAPITULO V BIS. DEL SALÓN DE SESIONES
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 145 Bis.
 
@@ -2403,7 +2429,9 @@ La Oficialía Mayor del Congreso del Estado llevará el registro de las inscripc
 
 La Oficial Mayor del Congreso vigilará que se garantice en el Salón de Sesiones, así como en las instalaciones y servicios del Congreso del Estado, las medidas pertinentes para asegurar el acceso universal de las personas con discapacidad, en términos de la Ley para la Protección de los Derechos de las Personas con Discapacidad, la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León y las Normas Oficiales Mexicanas en materia de Accesibilidad Universal, así como cualquier otra disposición legal aplicable.
 
-### CAPITULO VII. DE LOS ASISTENTES A LAS SESIONES
+### CAPITULO VI. DEL CEREMONIAL
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 146.
 
@@ -2457,9 +2485,7 @@ En ningún caso podrán establecerse diálogos entre Diputados, ni entre éstos 
 
 A las sesiones solemnes, los Diputados concurrirán con traje oscuro.
 
-### CAPÍTULO VIII. DE LOS INSTRUMENTOS DE DIFUSIÓN
-
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+### CAPITULO VII. DE LOS ASISTENTES A LAS SESIONES
 
 ###### Artículo 155.
 
@@ -2495,9 +2521,9 @@ El Presidente de la Directiva tendrá bajo sus órdenes al personal de guardia p
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
 
-### CAPITULO UNICO. DE LA DIPUTACION PERMANENTE
+### CAPÍTULO VIII. DE LOS INSTRUMENTOS DE DIFUSIÓN
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 159 Bis.
 
@@ -2533,9 +2559,9 @@ El Sistema de Información Legislativa permitirá buscar y desagregar la informa
 
 ## TITULO SEXTO
 
-### CAPÍTULO UNICO. CONVOCATORIAS Y PROCESOS DE SELECCIÓN Y DESIGNACIONACIONES PÚBLICAS
+### CAPITULO UNICO. DE LA DIPUTACION PERMANENTE
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 160.
 
@@ -2572,6 +2598,10 @@ La Diputación Permanente cesará en sus funciones al momento de elegir a la Dir
 ## TÍTULO SÉPTIMO
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2020)</small>
+
+### CAPÍTULO UNICO. CONVOCATORIAS Y PROCESOS DE SELECCIÓN Y DESIGNACIONACIONES PÚBLICAS
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 165.
 
@@ -3008,3 +3038,13 @@ P.O. 10 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 161. SE ADICIONA UN TITULO DÉCIMO, DENOMINADO “DE LA ACCESIBILIDAD UNIVERSAL EN EL CONGRESO DEL ESTADO” CON (SIC) QUE CONTIENE LOS ARTÍCULOS 96 Y 97, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN XXVII DEL ARTÍCULO 65 Y SE ADICIONA UN ARTÍCULO 145 BIS 8 AL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 24 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 336. SE REFORMA EL INCISO D) DE LA FRACCIÓN I EN EL ARTÍCULO 79; LAS FRACCIONES II, III Y IV DEL ARTÍCULO 80 Y 81; SE ADICIONA UN INCISO E) EN LA FRACCIÓN II DEL ARTÍCULO 50; UN INCISO E) EN LA FRACCIÓN I EN EL ARTÍCULO 89, UNA FRACCIÓN V EN EL ARTÍCULO 80; TODOS LOS ANTERIORES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y SE ADICIONA UN ARTÍCULO 71 BIS AL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Unidad de Género deberá instalarse a más tardar treinta días naturales siguientes, contados a partir del día de la siguiente publicación del presente Decreto.
+
+TERCERO.- Anualmente se asignará una partida específica en la ley de Egresos del Estado de Nuevo León, para que la Unidad de Género cumpla sus funciones."
