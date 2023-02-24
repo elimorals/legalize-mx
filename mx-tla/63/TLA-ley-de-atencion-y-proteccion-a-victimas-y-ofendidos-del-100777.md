@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-atencion-y-proteccion-a-victimas-y-ofendidos-del-100777"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-03"
-last_updated: "2014-11-28"
+last_updated: "2023-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO PARA EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2023.
 
 Ley publicada en el No. Extraordinario del Periódico Oficial del Estado de Tlaxcala, el sábado 3 de mayo del 2014.
 
@@ -83,6 +83,10 @@ La calidad de víctima no se encuentra sujeta a que se identifique, aprehenda, e
 
 Para los efectos de esta Ley, se consideran víctimas aquellas personas físicas que hayan sufrido directa o indirectamente algún daño o menoscabo económico, físico, mental, emocional o en general, cualquier riesgo o lesión a sus bienes jurídicos o derechos, como consecuencia de la comisión de un delito o violaciones a sus derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales, la Constitución Política del Estado Libre y Soberano de Tlaxcala, legislación penal vigente y demás normatividad aplicable, derivada de una averiguación previa, un procedimiento penal, o administrativo, o en su caso de una carpeta de investigación.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+En concordancia con lo previsto en el párrafo anterior, de forma enunciativa y no limitativa, se consideran victimas indirectas las niñas, los niños y adolescentes hijos de mujeres víctimas de feminicidio, homicidio doloso o ayuda o inducción al suicidio previsto y sancionado en el artículo 246 Bis del Código Penal del Estado.
+
 También se consideran víctimas los grupos, comunidades u organizaciones sociales que hubieren sido afectadas en sus derechos, intereses o bienes jurídicos colectivos como resultado de la comisión de un delito o la violación de sus derechos humanos.
 
 La calidad de víctima se adquiere con la acreditación del daño o menoscabo de los derechos en los términos establecidos en la presente Ley, con independencia de que se identifique, aprehenda, o condene al responsable del daño o bien de que la víctima participe en algún procedimiento judicial o administrativo derivado de aquel.
@@ -112,6 +116,10 @@ d) Los organismos internacionales de protección de derechos humanos a los que M
 El reconocimiento de la calidad de víctima tendrá como efecto que esta pueda acceder a los recursos del Fondo y a la reparación integral de conformidad con lo previsto en la presente Ley, el Reglamento y demás disposiciones correlativas.
 
 La Comisión Ejecutiva deberá estudiar el caso y, de ser procedente, dar el reconocimiento formal de la condición de víctima. A dicho efecto deberá tener en cuenta los informes de la autoridad competente, de los que se desprendan las situaciones para determinar que la persona que lo ha solicitado, podrá adquirir la condición de víctima.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+Tratándose de menores de edad, hijas e hijos de mujeres víctimas de feminicidio, homicidio doloso o ayuda o inducción al suicidio, previsto en el artículo 246 Bis del Código Penal del Estado, la calidad de víctima se presumirá, bastando para ello que se pruebe la filiación.
 
 ###### Artículo 5.
 
@@ -309,6 +317,10 @@ XXII. A no ser discriminadas ni limitadas en sus derechos;
 
 XXIII. A recibir tratamiento especializado que le permita su rehabilitación física y psicológica con la finalidad de lograr su reintegración a la sociedad;
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+Con relación a las hijas y los hijos, menores de edad, de mujeres víctimas de feminicidio, homicidio doloso o ayuda o inducción al suicidio, previsto el artículo 246 Bis del Código Penal del Estado, el tratamiento a que se refiere esta fracción se otorgará de forma inmediata, gratuita y oficiosa. Las autoridades, en el ámbito de sus competencias, implementarán las medidas necesarias para dar cumplimiento eficaz a esta disposición;
+
 XXIV. A acceder a los mecanismos de justicia disponibles para determinar la responsabilidad en la comisión del delito o de la violación de los derechos humanos;
 
 XXV. A tomar decisiones informadas sobre las vías de acceso a la justicia o mecanismos alternativos;
@@ -337,7 +349,9 @@ XXXIV. Los demás señalados por la Constitución Federal, las normas internacio
 
 Las víctimas recibirán ayuda provisional, oportuna y rápida de acuerdo a las necesidades inmediatas que tenga relación directa con el hecho victimizante para atender y garantizar la satisfacción de sus necesidades proveyendo artículos de primera necesidad, atención médica y psicológica de emergencia y alojamiento transitorio en condiciones dignas y seguras, a partir del momento de la comisión del delito o de la violación de los derechos o en el momento en que las autoridades tengan conocimiento del delito o de la violación de derechos. Las medidas de ayuda se brindarán garantizando siempre un enfoque transversal de género y diferencial, y durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de necesidad inmediata.
 
-Las víctimas de delitos o de violaciones de derechos contra la libertad y la integridad, recibirán ayuda médica y psicológica especializada de emergencia en los términos de la presente ley.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+Las víctimas de delitos o de violaciones de derechos contra la libertad y la integridad, recibirán atención médica y psicológica especializada de emergencia en los términos de la presente Ley. Igual atención se brindará a las hijas y los hijos menores de edad de mujeres víctimas de los delitos de feminicidio, homicidio doloso o ayuda o inducción al suicidio, previsto en el artículo 246 Bis del Código Penal del Estado, así como a las mujeres víctimas directas de cualquiera de esos delitos, cuando se cometan en grado de tentativa.
 
 Los servidores públicos deberán brindar información clara, precisa y accesible a las víctimas y sus familiares, sobre cada una de las garantías, mecanismos y procedimientos que permiten el acceso oportuno, rápido y efectivo a las medidas de ayuda contempladas en la presente Ley.
 
@@ -355,6 +369,14 @@ Durante la fase de investigación de los delitos y los procedimientos penales, l
 
 I. Acceder a una investigación pronta y efectiva que lleve al esclarecimiento de los hechos, conocimiento de la verdad, al enjuiciamiento de los responsables, la determinación de sanciones y la reparación integral del daño sufrido;
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+En caso de que los hechos que se investiguen se relacionen con la muerte violenta de una mujer, o bien, con los supuestos previstos en el artículo 246 Bis del Código Penal Local, las autoridades deben investigar con base en una perspectiva de género, y explorar todas las líneas de investigación posibles, incluyendo el hecho de que la mujer haya sido víctima de violencia de género dentro de los tres años previos al momento de los hechos.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+Las hijas y los hijos, menores de edad de la mujer fallecida, conforme a lo establecido en el párrafo anterior, serán considerados víctimas y tendrán los derechos establecidos en la ley, incluyendo los específicos que se prevén para los descendientes de mujeres víctimas de feminicidio u homicidio doloso.
+
 II. Intervenir como acusador coadyuvante y que le sean recibidos todos los datos y elementos de prueba con los que cuenten, tanto en la investigación como en el proceso y a que se desahoguen las diligencias correspondientes;
 
 III. Intervenir en el juicio, ejerciendo en él todos sus derechos e interponer los recursos que procedan en los términos que prevean las leyes aplicables;
@@ -369,7 +391,9 @@ VII. A solicitar la reapertura de la investigación cuando verse sobre el proced
 
 VIII. Impugnar ante el juez de control las omisiones del Ministerio Público en la investigación de los delitos, así como en las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño;
 
-IX. A que se adopten las medidas necesarias para proteger su identidad, intimidad y datos personales, cuando se trate de menores de edad, tratándose de delitos de violación, trata de personas, secuestro o delincuencia organizada; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
+
+IX. A que se adopten las medidas necesarias para proteger su identidad, intimidad y datos personales; cuando sean menores de edad, tratándose de delitos de violación, trata de personas, secuestro o delincuencia organizada, o cuando sean hijas o hijos de mujeres víctimas de los delitos de feminicidio, homicidio doloso o ayuda o inducción al suicidio, previsto en el artículo 246 del Código Penal del Estado; y cuando, a juicio del juzgador, sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa;
 
 X. Solicitar se dicten medidas cautelares y las providencias necesarias para proteger su vida, integridad física y moral, bienes, posesiones o derechos, incluyendo los de familiares directos y de los testigos en su favor, contra todo acto de intimidación y represalia, o bien, cuando existan datos suficientes que demuestren que éstos pudieran ser afectados por los probables responsables del delito o por terceros implicados;
 
@@ -395,7 +419,9 @@ XX. Recibir gratuitamente la asistencia de un intérprete o traductor cuando no 
 
 XXI. Ser asistidos por personal de apoyo, incluidos especialistas y familiares del menor de edad o incapaz en cualquier acto procesal al que sean llamados, tomándose las medidas necesarias para salvaguardar su dignidad, seguridad e identidad,
 
-XXII. En el caso de que la víctima sea un niño o niña, estos se harán acompañar en todo momento por sus padres o tutor, a falta de estos por personas de su confianza, y
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
+
+XXII. En el caso de que la víctima sea un niño o niña, éstos se harán acompañar en todo momento por sus padres, persona que ejerza la patria potestad o tutor, a falta de estos por personas de su confianza, y
 
 XXIII. Los demás que establezcan la presente ley y otras disposiciones aplicables.
 
@@ -509,17 +535,21 @@ Las medidas de protección tienen por objeto la salvaguarda de la integridad fí
 
 I. Traslado temporal a lugar distinto al de su residencia o al de la comisión del delito, asegurando en todo momento su resguardo;
 
-II. Reubicación de residencia, trabajo o centro de estudios;
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2023)</small>
 
-III. Custodia policial personal, en tránsito o domiciliaria;
+II. La tramitación inmediata, ante la autoridad competente, del procedimiento tendente a brindar custodia provisional, a cargo de persona idónea, tratándose de hijas o hijos menores de edad de mujeres víctimas de feminicidio, homicidio doloso o ayuda o inducción al suicidio, previsto en el artículo 246 Bis del Código Penal Local, en los casos en que el fallecimiento de la madre deje a sus descendientes desprovistos de quién la ejerza, a instancia de parte, o por intervención de la autoridad que conozca de tal circunstancia;
 
-IV. Acondicionamiento de vivienda para la instalación de sistemas de seguridad;
+III. Reubicación de residencia, trabajo o centro de estudios;
 
-V. En los casos que se justifiquen y previo acuerdo de las autoridades competentes, autorización para el cambio de identidad;
+IV. Custodia policial personal, en tránsito o domiciliaria;
 
-VI. Acceso a métodos que imposibiliten la identificación visual o auditiva de la persona en las diligencias en que participe; así como a medios tecnológicos que permitan la participación de la víctima o el ofendido en las mismas a la distancia, y
+V. Acondicionamiento de vivienda para la instalación de sistemas de seguridad;
 
-VII. Las demás que establezcan esta Ley y otras disposiciones aplicables.
+VI. En los casos que se justifiquen y previo acuerdo de las autoridades competentes, autorización para el cambio de identidad;
+
+VII. Acceso a métodos que imposibiliten la identificación visual o auditiva de la persona en las diligencias en que participe; así como a medios tecnológicos que permitan la participación de la víctima o el ofendido en las mismas a la distancia, y
+
+VIII. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 27.
 
@@ -617,6 +647,12 @@ Cuando se lleve a cabo la investigación de un delito ante el Ministerio Públic
 
 Las autoridades encargadas de la aplicación de esta Ley procurarán prestar los servicios de protección y atención a las víctimas y ofendidos por medio de dependencias, entidades y organismos del sector público y asistencia social en el Estado, y solo en caso de que exista imposibilidad para ello, podrán canalizarse a instituciones privadas.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+###### Artículo 34 Bis.
+
+En la implementación de las medidas previstas en los artículos 27 apartado A, fracción I, y apartado B, fracciones I, II, III y IV, 30 y 31 de esta Ley, se otorgará preferencia a las hijas y los hijos menores de edad de mujeres víctimas de los de los delitos de feminicidio, homicidio doloso o ayuda o inducción al suicidio, previsto en el artículo 246 Bis del Código Penal del Estado.
+
 ### CAPÍTULO IV. ACCESO DE LAS VÍCTIMAS Y OFENDIDOS A LAS MEDIDAS DE ATENCIÓN Y PROTECCIÓN
 
 ###### Artículo 35.
@@ -643,9 +679,23 @@ Una vez integrado el expediente correspondiente, el Ministerio Público deberá 
 
 Asimismo la Comisión Ejecutiva deberá informar de inmediato a las dependencias, entidades y organismos del Sistema y, en su caso, al Fondo, para que en la esfera de su competencia, brinden los beneficios autorizados sin demora alguna.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+###### Artículo 38 Bis.
+
+No será necesario el cumplimiento de lo establecido en los artículos 36, 37 y 38 de esta Ley cuando la implementación de las medidas inherentes deba realizarse de forma urgente, inmediata o de oficio y así se disponga expresamente en este ordenamiento.
+
 ###### Artículo 39.
 
 La suspensión de los beneficios otorgados de conformidad con la presente Ley procederá cuando cese la situación de necesidad que les dio origen, o se detecte falsedad en la información verbal o documental que dieron lugar al beneficio, sin perjuicio de las responsabilidades a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+###### Artículo 39 Bis.
+
+El Estado de vulnerabilidad que se refiere el artículo 35 y los requisitos señalados en el diverso 36, ambos de esta Ley, se presumirán por cuanto hace a las hijas y los hijos de mujeres víctimas de los delitos de feminicidio, homicidio doloso o ayuda o inducción al suicidio, previsto en el artículo 246 Bis del Código Penal del Estado.
+
+El Ministerio Público o la Comisión Ejecutiva suplirán la falta de solicitud de acceso a las medidas de protección y atención a favor de las personas indicadas en el párrafo anterior, debiendo proceder en consecuencia de manera oficiosa.
 
 ### CAPÍTULO V. EL SISTEMA DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS DEL ESTADO DE TLAXCALA
 
@@ -1910,3 +1960,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Cuando las leyes, reglamentos o cualquier ordenamiento de observancia general vigente en el Estado de Tlaxcala se refieran al Código de Procedimientos Penales del Estado de Tlaxcala, se entenderá que se refieren al Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación del cinco de marzo de dos mil catorce, conforme a las reglas de vigencia establecidas en el artículo transitorio anterior y a la Declaratoria expedida por el Congreso del Estado con fecha veintidós de octubre de dos mil catorce y publicada en el Periódico Oficial del Gobierno del Estado de fecha veintitrés de octubre del año en curso.
+
+P.O. 24 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 209.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONESDE (SIC) LA LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO PARA EL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
