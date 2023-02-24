@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2022-12-30"
+last_updated: "2023-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2023.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -2885,6 +2885,12 @@ En el caso de que el delito se cometa en términos de la fracción X, del artíc
 
 Cuando la víctima del delito de homicidio sea menor de doce años o discapacitado, se impondrán de treinta a sesenta años de prisión y multa de dos mil ciento sesenta a cuatro mil seiscientas veinte veces el valor de la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+###### Artículo 231 Bis.
+
+Las penas previstas en los artículos 229 párrafos segundo y séptimo, 229 Bis y 231 de este Código se incrementarán en un tercio cuando los delitos de feminicidio u homicidio doloso de alguna mujer se hubiere simulado como suicidio.
+
 ### CAPÍTULO II. LESIONES
 
 ###### Artículo 232.
@@ -5734,6 +5740,18 @@ P.O. 30 DE DICIEMBRE DE 2022.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 209.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO PARA EL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
 
 ###### ARTÍCULO SEGUNDO.
 
