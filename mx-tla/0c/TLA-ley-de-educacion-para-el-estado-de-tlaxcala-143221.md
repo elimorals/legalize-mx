@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-educacion-para-el-estado-de-tlaxcala-143221"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-26"
-last_updated: "2022-03-31"
+last_updated: "2023-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 26 de mayo de 2020.
 
@@ -137,9 +137,17 @@ a) Atenderá las capacidades, circunstancias, necesidades, estilos y ritmos de a
 
 b) Eliminará las distintas barreras al aprendizaje y a la participación que enfrentan cada uno de los educandos, para lo cual las Autoridades Educativas, en el ámbito de su competencia, adoptarán medidas en favor de la accesibilidad y los ajustes razonables;
 
-c) De acuerdo a la capacidad presupuestaria del Estado, proveerá de los recursos técnicos-pedagógicos y materiales necesarios para los servicios educativos, e
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2023)</small>
 
-d) Establecerá la educación especial disponible para todos los tipos, niveles, modalidades y opciones educativas, la cual se proporcionará en condiciones necesarias, a partir de la decisión y previa valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y, en su caso, por una condición de salud;
+c) De acuerdo a la capacidad presupuestaria del Estado, proveerá de los recursos técnicos-pedagógicos y materiales necesarios para los servicios educativos;
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+d) Establecerá la educación especial disponible para todos los tipos, niveles, modalidades y opciones educativas, la cual se proporcionará en condiciones necesarias, a partir de la decisión y previa valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y, en su caso, por una condición de salud, e
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+e) Implementará, fomentará e impulsará como obligatorio el aprendizaje de Lengua de Señas Mexicana, a docentes, directivos, personal de apoyo y en general a toda persona vinculada directamente con la educación.
 
 III. Pública, al ser impartida y administrada por el Estado, por lo que:
 
@@ -207,9 +215,17 @@ XV. Atender de manera especial, las escuelas en que, por estar en localidades ai
 
 XVI. Desarrollarán, bajo el principio de equidad e inclusión, programas de capacitación, formación continua, asesoría y apoyo, a maestras y maestros para la implementación de ajustes razonables, que les permitan minimizar o eliminar las barreras para el aprendizaje y la participación de los educandos;
 
-XVII. Promoverán centros de atención infantil y centros de atención comunitaria y demás planteles que apoyen en forma continua el aprendizaje y el aprovechamiento de los educandos, y
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
 
-XVIII. Otorgarán apoyos pedagógicos a grupos específicos, para mejorar el aprovechamiento escolar de los educandos.
+XVII. Promoverán centros de atención infantil y centros de atención comunitaria y demás planteles que apoyen en forma continua el aprendizaje y el aprovechamiento de los educandos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2023)</small>
+
+XVIII. Implementará, fomentará e impulsará como obligatorio el aprendizaje de Lengua de Señas Mexicana, a docentes, directivos, personal de apoyo y en general a toda persona vinculada directamente con la educación, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE FEBRERO DE 2023)</small>
+
+XIX. Otorgarán apoyos pedagógicos a grupos específicos, para mejorar el aprovechamiento escolar de los educandos.
 
 ###### Artículo 12.
 
@@ -341,9 +357,17 @@ XII. Fomentar en el estudio, el conocimiento y respeto de la Constitución Feder
 
 XIII. Fomentar entre los educandos el uso adecuado de las tecnologías de la información y la comunicación, como herramienta de apoyo para mejorar su aprendizaje. Asimismo, crear conciencia para prevenir la comisión de delitos en materia de tecnologías y cibernéticos, advirtiendo de los riesgos por el uso de internet; Respecto de los educandos de los niveles de educación básica de primaria y secundaria, quedará prohibido el uso de dispositivos móviles de comunicación durante el tiempo que se imparten las horas efectivas de clases, con la finalidad de no contar con distracciones y aprovechar la transmisión de conocimientos;
 
-XIV. Fomentar en los docentes, madres y padres de familia la trasmisión de los buenos hábitos en el uso de las tecnologías de la información y comunicación, en los lugares y tiempos adecuados, y
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
 
-XV. Todos aquellos que contribuyan al bienestar y desarrollo del Estado y del país.
+XIV. Fomentar en los docentes, madres y padres de familia la trasmisión de los buenos hábitos en el uso de las tecnologías de la información y comunicación, en los lugares y tiempos adecuados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2023)</small>
+
+XV. Fomentar e inculcar el respeto por la diversidad humana entre educandos, docentes, madres y padres de familia, tutores, directivos, personal de apoyo y de servicios, autoridades y sociedad en general, así como la prestación de los servicios educativos con perspectiva de discapacidad, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE FEBRERO DE 2023)</small>
+
+XVI. Todos aquellos que contribuyan al bienestar y desarrollo del Estado y del país.
 
 ### Capítulo III. De los Criterios de la Educación
 
@@ -497,7 +521,9 @@ IV. El fomento de la investigación, la ciencia, la tecnología y la innovación
 
 V. El conocimiento y, en su caso, el aprendizaje de lenguas indígenas de nuestro país y de nuestro Estado, la importancia de la pluralidad lingüística de la Nación y el respeto a los derechos lingüísticos de los pueblos indígenas;
 
-VI. El aprendizaje de las lenguas extranjeras;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
+
+VI. El aprendizaje de Lengua de Señas Mexicana y de las lenguas extranjeras;
 
 VII. El fomento de la activación física, la práctica del deporte y la educación física;
 
@@ -777,35 +803,103 @@ El fomento de la investigación, la ciencia, las humanidades, la tecnología y l
 
 ### Capítulo VI. De la Educación Indígena
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE TLAXCALA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 62.
 
-Es responsabilidad de las Autoridades Educativas en el ámbito de sus competencias garantizar el ejercicio de los derechos educativos, culturales y lingüísticos a todas las personas, pueblos y comunidades indígenas, migrantes y jornaleros agrícolas. De igual manera facilitará el conocimiento aprendizaje, reconocimiento, valoración, preservación y desarrollo tanto de la tradición oral y escritura indígena, así como de las lenguas indígenas, costumbres, recursos y formas específicas de organización de los pueblos, así como de las lenguas indígenas de la entidad, como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.
+El Estado de Tlaxcala de conformidad con su Constitución Local reconoce a sus pueblos y comunidades indígenas, garantizándoles el derecho a preservar su forma de vida y elevar el bienestar social de sus integrantes, para lo cual en materia educativa, las autoridades estatales y municipales, deberán proteger y promover el desarrollo de sus lenguas, cultura, religión, educación bilingüe, usos, costumbres, tradiciones, prácticas democráticas, patrimonio étnico, artesanal y formas específicas de organización social.
 
-La educación indígena debe atender las necesidades educativas de las personas, pueblos y comunidades indígenas con pertinencia cultural y lingüística; además deberá basarse en el respeto, promoción y preservación del patrimonio histórico y de nuestras culturas en el Estado.
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE TLAXCALA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+###### Artículo 62 Bis.
+
+El Estado y los municipios garantizarán el ejercicio de los derechos educativos, culturales y lingüísticos a todas las personas, pueblos y comunidades indígenas o afromexicanas, migrantes y jornaleros agrícolas.
+
+Asimismo, contribuirán al conocimiento, aprendizaje, reconocimiento, valoración, preservación y desarrollo tanto de la tradición oral y escrita indígena, como de las lenguas indígenas locales, como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.
+
+La educación indígena debe atender las necesidades educativas de las personas, pueblos y comunidades indígenas con pertinencia cultural y lingüística; además de basarse en el respeto, promoción y preservación del patrimonio histórico y de nuestras culturas.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+###### Artículo 62 Ter.
+
+Las personas indígenas o de descendencia afromexicana, en materia de educación tienen los derechos siguientes:
+
+I. Acceder a todos los servicios educativos que imparte el Estado, a una educación bilingüe e intercultural y a que estos servicios sean recibidos en las mismas oportunidades de equidad, calidad y pertinencia que el resto de la población;
+
+II. Participar en la elaboración de los planes y programas de estudio de los diferentes niveles educativos con la finalidad de incluir en ellos aspectos que permitan la conservación y desarrollo de su cultura y lengua indígena;
+
+III. Recibir la educación impartida en sus distintos niveles, en su lengua étnica, por docentes bilingües;
+
+IV. Acceder a todos los programas y planes encaminados al desarrollo cultural del Estado;
+
+V. Acceder a programas gubernamentales diseñados para la difusión y conservación de sus tradiciones y costumbres;
+
+VI. Participar en la práctica de juegos, deportes y expresiones artísticas que formen parte de los programas educativos, y
+
+VII. Las demás que señale esta Ley y los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+###### Artículo 62 Quáter.
+
+La educación indígena en el Estado tendrá un enfoque intercultural bilingüe y contribuirá a la conservación y desarrollo de nuestras características locales, responder a las necesidades básicas de los educandos de las comunidades indígenas atendiendo a sus características sociales, culturales y lingüísticas; así como facilitar al educando su integración y la posibilidad de desarrollar plenamente sus capacidades y habilidades para aprender y construir.
+
+En este sentido, deberá considerar la formación de personas conocedoras de su propia realidad sociocultural, con las competencias que le permitan desenvolverse en cualquier ámbito social, integrarse a la vida productiva y acceder a todos los niveles educativos, en condiciones de igualdad.
+
+La Autoridad Educativa promoverá la participación de educandos, docentes, directivos y de las autoridades, organizaciones y personas de las comunidades indígenas, tanto en la definición de los propósitos y contenidos educativos, como en el desarrollo de los procesos que se realicen para su implementación.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+###### Artículo 62 Quinquies.
+
+La educación indígena tendrá las finalidades siguientes:
+
+I. Atender la diversidad cultural y lingüística;
+
+II. Promover la convivencia intercultural el respeto y derecho a la diversidad;
+
+III. Promover mediante la implementación de enfoques didácticos globalizadores, la apropiación de aprendizajes socialmente significativos, que permitan a los educandos indígenas mejorar su proceso de enseñanza y aprendizaje;
+
+IV. Impulsar y fortalecer el uso y enseñanza de la lengua materna u originaria de las comunidades indígenas o afrodescendientes y del español como parte de los programas educativos correspondientes;
+
+V. Integrar en los planes y programas de estudio los conocimientos y saberes comunitarios como contenidos educativos, para impulsar el desarrollo y respeto de los valores socioculturales de las comunidades indígenas o afrodescendientes, y
+
+VI. Incorporar el uso de los medios electrónicos de comunicación y de las tecnologías disponibles para enriquecer los procesos de enseñanza y aprendizaje en las comunidades indígenas o afrodescendientes.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+###### Artículo 62 Sexies.
+
+La Autoridad Educativa proporcionará los recursos e implementará programas para la producción, traducción y difusión de materiales y contenidos necesarios para la impartición de la educación indígena apegados a las características sociolingüísticas de los educandos indígenas, que garanticen el acceso, permanencia y egreso de los mismos.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 63.
 
-La Autoridad Educativa consultará de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, cada vez que prevea medidas en materia educativa, relacionadas con los pueblos y comunidades indígenas, respetando su autodeterminación en los términos del artículo 2o. de la Constitución Federal.
+Las Autoridades Educativas consultarán de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales internacionales, nacionales y locales en la materia, cada vez que prevea medidas en materia educativa, relacionadas con los pueblos y comunidades indígenas o afromexicanas, respetando su autodeterminación en los términos del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
 
-Para efectos de dar cumplimiento a lo dispuesto en este Capítulo, las Autoridades Educativas realizarán lo siguiente:
+La Autoridad Educativa deberá establecer los mecanismos de coordinación y colaboración con la Secretaría, el Instituto Nacional de los Pueblos Indígenas y el Instituto Nacional de Lenguas Indígenas, que permitan el reconocimiento e implementación en el Estado de Tlaxcala de la educación indígena en todos sus tipos y niveles, así como para la elaboración de planes y programas de estudio y materiales educativos dirigidos a pueblos y comunidades indígenas.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+###### Artículo 63 Bis.
+
+Las Autoridades Educativas para dar cumplimiento a lo dispuesto en este Capítulo, realizarán lo siguiente:
 
 I. Fortalecer las escuelas de educación indígena, los centros educativos integrales y albergues escolares indígenas, en especial en lo concerniente a la infraestructura escolar, los servicios básicos y la conectividad;
 
-II. Desarrollar programas educativos que reconozcan la herencia cultural de los pueblos indígenas y comunidades indígenas, y promover la valoración de distintas formas de producir, interpretar y transmitir el conocimiento, las culturas, saberes, lenguajes y tecnologías;
+II. Desarrollar programas educativos que reconozcan la herencia cultural de los pueblos indígenas y comunidades indígenas o afromexicanas, y promover la valoración de distintas formas de producir, interpretar y transmitir el conocimiento, las culturas, saberes, lenguajes y tecnologías;
 
-III. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, entre ellos libros de texto gratuitos, en las diversas lenguas del territorio del Estado;
+III. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, entre ellos libros de texto gratuitos, en las diversas lenguas del territorio de Estado;
 
 IV. Fortalecer las instituciones públicas de formación docente, en especial las normales bilingües interculturales, la adscripción de los docentes en las localidades y regiones lingüísticas a las que pertenecen, así como impulsar programas de formación, actualización y certificación de maestras y maestros en las lenguas de las regiones correspondientes;
 
-V. Tomar en consideración, en la elaboración de los planes y programas de estudio, los sistemas de conocimientos de los pueblos y comunidades indígenas, para favorecer la recuperación cotidiana de las diferentes expresiones y prácticas culturales de cada pueblo en la vida escolar;
+V. Tomar en consideración, en la elaboración de los planes y programas de estudio, los sistemas de conocimientos de los pueblos y comunidades indígenas y afromexicanas, para favorecer la recuperación cotidiana de las diferentes expresiones y prácticas culturales de cada pueblo en la vida escolar;
 
 VI. Crear mecanismos y estrategias para incentivar el acceso, permanencia, tránsito, formación y desarrollo de los educandos con un enfoque intercultural y plurilingüe, y
 
-VII. Establecer esquemas de coordinación entre las diferentes instancias de gobierno para asegurar que existan programas de movilidad e intercambio, nacional e internacional, dando especial apoyo a estudiantes de los pueblos y comunidades indígenas, en un marco de inclusión y enriquecimiento de las diferentes culturas.
+VII. Establecer esquemas de coordinación entre las diferentes instancias de gobierno para asegurar que existan programas de movilidad e intercambio, nacional e internacional, dando especial apoyo a estudiantes de los pueblos y comunidades indígenas o afromexicanas, en un marco de inclusión y enriquecimiento de las diferentes culturas.
 
 ### Capítulo VII. De la Educación Humanista
 
@@ -825,61 +919,93 @@ Se adoptarán medidas para que, dentro de la orientación integral del educando,
 
 ### Capítulo VIII. De la Educación Inclusiva
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE TLAXCALA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 66.
 
-La educación inclusiva es el conjunto de acciones dirigidas a identificar, prevenir y reducir las barreras que aminoran el acceso, permanencia, participación y aprendizaje de todos los estudiantes para eliminar prácticas de discriminación, exclusión y segregación.
+La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos, al eliminar prácticas de discriminación, exclusión y segregación.
 
-La educación inclusiva se basa en la valoración de la diversidad, adaptando el sistema para responder con equidad a los intereses, habilidades, necesidades, características, estilos y capacidades de aprendizaje de todos y cada uno de los estudiantes.
+La educación inclusiva se basa en la valoración de la diversidad, adaptando el sistema para responder con equidad a los intereses habilidades, necesidades, características, intereses, capacidades, habilidades y estilos de aprendizaje de todos y cada uno de los educandos.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE TLAXCALA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+La educación en el Estado será inclusiva, fomentando en todo momento la capacitación docente y la realización de planes, así como programas de estudio inclusivos y acorde con la diversidad humana de los educandos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 67.
 
-Las Autoridades Educativas asegurarán la educación inclusiva en todos los tipos y niveles, favoreciendo el aprendizaje de todos los estudiantes, con énfasis en los que están excluidos, marginados o en riesgo de estarlo, por lo cual buscarán:
+El Estado y los municipios, en el ámbito de su competencia, asegurarán la educación inclusiva en todos los tipos y niveles, con el fin de favorecer el aprendizaje de todos los educandos, con énfasis en los que están excluidos, marginados o en riesgo de estarlo, para lo cual buscará:
 
 I. Favorecer el máximo logro de aprendizaje de los educandos con respeto a su dignidad, derechos humanos y libertades fundamentales, reforzando su autoestima y aprecio por la diversidad humana;
 
-II. Brindar atención educativa interdisciplinaria que propicie la integración de individuos con discapacidad a los planteles de educación básica regular;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
 
-III. Desarrollar al máximo la personalidad, los talentos, la creatividad y la inteligencia de los educandos con aptitudes sobresalientes;
+II. Brindar atención educativa interdisciplinaria que propicie la integración de individuos con discapacidad a los planteles de educación en todos sus niveles;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
+
+III. Desarrollar al máximo la personalidad, los talentos, la creatividad y la inteligencia de los educandos;
 
 IV. Favorecer la plena participación de los educandos, su educación y facilitar la continuidad de sus estudios en la educación obligatoria;
 
-V. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Estatal por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual o de género, así como por sus características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje, entre otras, procurando la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
 
-VI. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación;
+V. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Estatal por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual o de género, así como por sus características, necesidades, intereses, discapacidades, habilidades y estilos de aprendizaje, o cualquiera otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades humanas;
 
-VII. Orientar a los padres o tutores, a los maestros y al personal de escuelas de educación básica y media superior que integran y enseñan a alumnos con necesidades educativas especiales;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
 
-VIII. Para la atención educativa de los alumnos con capacidades y aptitudes sobresalientes, la Autoridad Educativa, con base en sus facultades y la disponibilidad presupuestal, establecerá los lineamientos para los métodos pedagógicos y mecanismos de acreditación y certificación necesarios en los niveles de educación media básica, educación normal, así como la media superior y superior en el ámbito de su competencia, y
+VI. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación, así como contar con infraestructuras accesibles a todos los tipos de discapacidad;
 
-IX. La educación especial deberá incorporar los principios de inclusión e igualdad sustantiva.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
 
-Las instituciones de educación superior autónomas por ley, podrán establecer convenios con la Autoridad Educativa a fin de homologar criterios para la atención, evaluación, acreditación y certificación dirigidos a alumnos con capacidad y aptitudes sobresalientes.
+VII. Proporcionar, asesoría, capacitación y orientación a los padres o tutores, a los maestros y al personal de escuelas de educación básica y media superior que integran el Sistema Educativo Estatal, que permita a los educandos con discapacidad lograr el pleno desarrollo de sus capacidades y aptitudes, debiendo capacitarse a los docentes de manera continua y al menos de forma semestral, con el objetivo de lograr que todas las personas con discapacidad puedan ser incluidas en el Sistema Educativo Estatal;
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE TLAXCALA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
+
+VIII. Establecer en coordinación con la Secretaría, los lineamientos, métodos pedagógicos y mecanismos de acreditación y certificación en los niveles de educación básica, media superior, educación normal y superior, para la atención educativa de los alumnos con capacidades y aptitudes sobresalientes;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
+
+IX. Incorporar los principios de inclusión e igualdad sustantiva en la Educación Especial, para lo cual entre otras acciones se promoverá la incorporación de profesores sombra en todos los niveles educativos con la finalidad de que los educandos con discapacidad, particularmente intelectual, puedan formar parte de la educación convencional, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2023)</small>
+
+X. Satisfacer las necesidades de todas las personas que por sus condiciones enfrenten barreras para acceder a los servicios de educación, destinando los recursos que se requieran, en función de su disponibilidad presupuestal.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+Las universidades e instituciones de educación superior a las que la ley otorgue autonomía, podrán establecer convenios con la Autoridad Educativa a fin de homologar criterios para la atención, evaluación, acreditación y certificación de educandos con capacidad y aptitudes sobresalientes.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 68.
 
-Las Autoridades Educativas promoverán y proporcionarán a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad, así como la continuidad de sus estudios en los niveles de educación media superior y superior.
+El Estado y los municipios proporcionarán a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad, así como la continuidad de sus estudios, incluyendo los niveles de educación media superior y superior.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE TLAXCALA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 69.
 
-Conforme a la presente Ley, se garantizará el derecho a la educación a los educandos en circunstancias especiales o que enfrenten problemas para el aprendizaje y la participación.
+El Estado a través de la Autoridad Educativa, garantizará en todo momento el derecho a la educación de los educandos con discapacidad, con condiciones especiales o que enfrenten barreras para el aprendizaje y la participación plena, en igualdad de condiciones en educación y en la sociedad.
 
-La Autoridad Educativa, en el ámbito de su competencia y de conformidad a los criterios orientadores para la prestación de los servicios de educación especial que emita la Secretaría, para atender de manera adecuada a los educandos con capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos, en un contexto educativo incluyente, que se debe basar en los principios de respeto, equidad, no discriminación, igualdad sustantiva y con perspectiva de género, por lo que se realizará lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE FEBRERO DE 2023)</small>
 
-I. Impartir educación especial de acuerdo a las condiciones que sean necesarias, previo análisis, valoración y decisión por parte de los educandos, madres y padres de familia o tutores, personal docente y capacitado, derivado de una condición de salud que garantice el derecho a la educación de los educandos que enfrentan barreras para el aprendizaje y la participación;
+En cumplimiento a esta obligación, de conformidad con las disposiciones y lineamientos que para la prestación de los servicios de educación especial emita la Secretaría, para la atención integral de los educandos con discapacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos, la Autoridad Educativa, en el ámbito de su competencia y en un contexto educativo incluyente, basado en los principios de respeto, equidad, no discriminación, igualdad sustantiva y con perspectiva de género, realizará lo siguiente:
 
-II. Procurar establecer formatos accesibles que ayuden a prestar educación especial, cuidando, en la medida de lo posible, la incorporación a los servicios educativos, sin que se cancele su posibilidad de acceder al servicio escolarizado;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
 
-III. Ofrecer y prestar educación especial que apoye a los educandos que tengan alguna discapacidad o aptitudes sobresalientes en los niveles de educación obligatoria;
+I. Impartir educación especial bajo las condiciones que resulten necesarias, previo análisis, valoración y decisión por parte de los educandos, madres y padres de familia o tutores, personal docente y capacitado, en atención a una determinada condición de salud, que permita garantizar el derecho a la educación a los educandos que enfrentan barreras para el aprendizaje y la participación, derivadas de esta circunstancia;
 
-IV. Formar un sistema que diagnostique tempranamente y con atención especializada la eliminación de barreras para el aprendizaje y la participación de los estudiantes;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
+
+II. Diseñar y establecer formatos accesibles para impartir educación especial, procurando en la medida de lo posible su incorporación a todos los servicios educativos, sin que esto cancele su posibilidad de acceder al servicio escolarizado;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
+
+III. Proporcionar educación especial para apoyar a los educandos con alguna discapacidad o bien con aptitudes sobresalientes, en los niveles de educación obligatoria;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
+
+IV. Establecer un sistema de diagnóstico temprano y atención especializada para la eliminación de barreras para el aprendizaje y la participación que enfrentan los educandos con discapacidad o bien con aptitudes sobresalientes;
 
 V. Fortalecer y garantizar la formación de todo el personal docente en el Estado para que contribuyan a identificar y eliminar las barreras de aprendizaje y la participación, así como se presten los apoyos que los educandos requieran;
 
@@ -887,17 +1013,21 @@ VI. Garantizar la satisfacción de las necesidades básicas de aprendizaje de lo
 
 VII. Impulsar actitudes, prácticas y políticas incluyentes para eliminar las barreras del aprendizaje en todos los actores sociales involucrados en educación.
 
-La Autoridad Educativa se sujetará a los lineamientos que emita la Secretaría en los cuales se determinen los criterios orientadores para la prestación de los servicios de educación especial a los que se refiere el presente artículo y se cumpla con el principio de inclusión.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2023)</small>
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE TLAXCALA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+La educación especial en todo caso deberá ser a elección del educando o, en su defecto, de los padres de familia o tutores legales del menor y bajo ninguna circunstancia se negará el acceso a la educación convencional a ninguna persona con discapacidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 70.
 
-Para garantizar la educación inclusiva y para personas con discapacidad, la Autoridad Educativa ofrecerá las medidas pertinentes, entre ellas:
+Las autoridades educativas para garantizar la educación inclusiva, en el ámbito de su competencia, implementarán las medidas pertinentes, las que de manera enunciativa y no limitativa consistirán en lo siguiente:
 
 I. Facilitar el aprendizaje del sistema Braille, otros modos, medios y formatos de comunicación aumentativos o alternativos y habilidades de orientación y de movilidad, así como la tutoría y el apoyo necesario;
 
-II. Facilitar la adquisición y el aprendizaje de la Lengua de Señas dependiendo de las capacidades del educando y la enseñanza del español para las personas sordas;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
+
+II. Facilitar la adquisición y el aprendizaje de la Lengua de Señas Mexicana dependiendo de las capacidades del educando y la enseñanza del español para las personas sordas;
 
 III. Asegurar que los educandos ciegos, sordos o sordociegos reciban educación en los lenguajes, los modos y medios de comunicación más apropiados, a las necesidades de cada persona y en entornos que les permitan alcanzar su máximo desarrollo académico, productivo y social;
 
@@ -905,11 +1035,25 @@ IV. Asegurar que se realicen ajustes razonables para las personas con discapacid
 
 V. Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades.
 
-(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE TLAXCALA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+###### Artículo 70 Bis.
+
+La Autoridad Educativa, implementará las acciones necesarias para llevar a cabo la acreditación, promoción y certificación del personal que participe en la impartición de educación especial, con base en los lineamientos que para tal efecto emita la Secretaría.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+###### Artículo 70 Ter.
+
+La Autoridad Educativa para la identificación y atención educativa de los educandos con aptitudes sobresalientes, con base en la disponibilidad presupuestal, observará los lineamientos para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación emita la Secretaría, aplicables a los tipos de educación básica, educación media superior y superior.
+
+Las universidades e instituciones de educación superior a las que la ley otorgue autonomía, podrán celebrar los convenios e instrumentos pertinentes con la autoridad educativa federal y local, a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a educandos con aptitudes sobresalientes.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 71.
 
-Con base al Sistema Educativo Estatal, se atenderán las disposiciones en materia de accesibilidad señaladas en la presente Ley, la Ley para Personas con Discapacidad del Estado de Tlaxcala, la Ley para Prevenir y Erradicar la Discriminación en el Estado de Tlaxcala y en las demás normas aplicables.
+Las instituciones educativas del sector público y privado que esta Ley considera como integrantes del Sistema Educativo Estatal, atenderán las diversas disposiciones que en materia de accesibilidad establece la Ley General para la Inclusión de las Personas con Discapacidad, la Ley Federal para Prevenir y Eliminar la Discriminación, sus leyes correlativas en el Estado de Tlaxcala, la Ley de Protección, Fomento y Desarrollo a la Cultura Indígena para el Estado de Tlaxcala y las demás disposiciones aplicables.
 
 ### Capítulo IX. De la Educación para Personas Adultas
 
@@ -2288,3 +2432,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 205.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
