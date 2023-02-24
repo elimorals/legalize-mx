@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2022-06-10"
+last_updated: "2023-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,215 +21,23 @@ state: "NLE"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2023.
 
-Ley publicada en el Periódico Oficial del estado de Tamaulipas, el jueves 1º, de septiembre de 2011
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
-EGIDIO TORRE CANTÚ, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+EL CIUDADANO LIC. SOCRATES C. RIZZO GARCIA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
 
-Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
-Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+DECRETO NUM. 80
 
-LA SEXAGÉSIMA PRIMERA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 58 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-D E C R E T O NO. LXI-66
+## TITULO PRIMERO. DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-MEDIANTE EL CUAL SE EXPIDE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS.
-
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
-
-###### ARTÍCULO 1.
-
-La presente Ley es de orden público e interés social y tiene por objeto regular, fomentar y administrar el aprovechamiento de los recursos pesqueros y acuícolas en el ámbito de competencia del Estado de Tamaulipas, con el fin de propiciar el desarrollo integral y sustentable de la pesca y la acuacultura; así como establecer las bases para el ejercicio de las atribuciones que, en términos de la Ley General de Pesca y Acuacultura Sustentables y su Reglamento, le competen al Estado y sus municipios bajo el principio de concurrencia previsto en la Constitución Política de los Estados Unidos Mexicanos.
-
-###### ARTÍCULO 2.
-
-Se consideran de utilidad pública:
-
-I. El fomento y desarrollo sustentable de la pesca y la acuacultura;
-
-II. La planeación y el ordenamiento de las actividades pesquera y acuícola; y
-
-III. La sanidad e inocuidad pesquera y acuícola.
-
-###### ARTÍCULO 3.
-
-Para los efectos de la presente ley se entenderá por:
-
-I. Acuacultura: Es el conjunto de actividades dirigidas a la reproducción controlada, crecimiento, engorda o ganancia de biomasa de especies de la fauna y flora acuáticas, en cualquiera de sus estadios biológicos, realizadas en instalaciones ubicadas en aguas dulces, marinas o salobres, por medio de técnicas de cría o cultivo, que sean susceptibles de explotación comercial, ornamental o recreativa;
-
-II. Acuacultura comercial: La que se realiza con el propósito primordial de obtener un beneficio económico;
-
-III. Acuacultura de fomento: La que tiene como propósito el estudio y la investigación científica, así como la experimentación orientada al desarrollo de biotecnologías o a la incorporación de algún tipo de innovación tecnológica, así como la adopción o transferencia de tecnología, en alguna etapa del cultivo de especies de la flora y fauna, cuyo medio de vida total o parcial sea el agua;
-
-IV. Acuacultura didáctica: La que realizan instituciones públicas o privadas de educación e investigación, o personas físicas dedicadas a actividades científicas y técnicas en la materia, teniendo como objetivo la formación, capacitación, enseñanza y actualización de los recursos humanos en materia de acuacultura;
-
-V. Agua dulce continental: Los cuerpos de agua permanentes que se encuentran en el interior del territorio del Estado, con excepción de las aguas continentales que abarquen dos o más entidades federativas, las que pasen de una a otra, y las transfronterizas sujetas a la jurisdicción federal, de conformidad con el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
-
-VI. Arte de pesca: El instrumento, equipo o estructura con que se realiza la captura o extracción de recursos pesqueros y acuícolas;
-
-VII. Aviso de cosecha: El documento en el que los acuacultores reportan a la Secretaría la producción anual de la o las especies sujetas a cultivo en sus establecimientos o granjas acuícolas;
-
-VIII. Aviso de producción: Es el documento en el que se reporta a la Secretaría, la producción obtenida en laboratorios acuícolas o granjas destinadas a la reproducción y venta de alevines, crías o reproductores;
-
-IX. Aviso de arribo: El documento en el que se reporta a la Secretaría los volúmenes de captura obtenidos por especie durante una jornada o viaje de pesca;
-
-X. Aviso de recolección: Es el documento en el que se reporta el número de organismos recolectados del medio natural, al amparo de un permiso otorgado por la Secretaría;
-
-XI. Certificado de sanidad acuícola: El documento expedido por la autoridad competente, los organismos autorizados o los laboratorios acreditados, para hacer constar que las especies acuícolas o las instalaciones en las que se producen cumplen con las disposiciones jurídicas aplicables y se encuentran libres de agentes patógenos causantes de enfermedades;
-
-XII. Comité de Sanidad: El Comité de Sanidad Acuícola del Estado de Tamaulipas;
-
-XIII. Concesión: Derecho otorgado por la Secretaría para realizar actividades de acuacultura o de pesca comercial, en terrenos, fondos o aguas del dominio público estatal o de uso común ubicadas en zonas de jurisdicción estatal;
-
-XIV. Concesionario: La persona física o moral en ejercicio de los derechos y obligaciones conferidas por la Secretaría mediante una concesión para la realización de actividades pesqueras o acuícolas en terrenos, fondos o aguas del dominio público estatal o de uso común ubicadas en zonas de jurisdicción estatal, con vencimiento determinado y con la obligación de ejecutar un programa de repoblamiento de la especie explotada y de rehabilitación del terreno o cuerpo de agua utilizado;
-
-XV. Consejo: El Consejo Estatal de Pesca y Acuacultura Sustentables de Tamaulipas, constituido conforme a esta ley;
-
-XVI. Constancia de verificación sanitaria: El documento expedido por la Secretaría u organismo autorizado por ésta, mediante el cual se hace constar que los recursos pesqueros o acuícolas destinados a la explotación acuícola o las instalaciones en que se producen, cumplen con las disposiciones establecidas en esta ley, su reglamento y los planes de manejo aplicables en materia de sanidad y que, por tanto, se encuentran libres de agentes patógenos causantes de enfermedades;
-
-XVII. Cuarentena: La medida sanitaria consistente en el aislamiento, observación y restricción de movilización de recursos pesqueros o acuícolas por la probabilidad razonable o la presencia probada de alguna plaga o enfermedad controlable o de alto riesgo, para determinar su calidad sanitaria, en apego a las normas oficiales mexicanas u otras regulaciones que emita el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
-
-XVIII. COTASAG: La Comisión Tamaulipeca de Apoyo a la Sanidad Agrícola y Ganadera;
-
-XIX. Enfermedades de alto riesgo: Aquéllas cuyo tratamiento tiene un alto índice de dificultad y una escasa posibilidad de éxito, o que no tienen tratamiento conocido en el tiempo de su aparición, o tienen una alta capacidad de difusión y contagio;
-
-XX. Enfermedades controlables: Aquéllas susceptibles de tratamiento con posibilidades razonables de éxito;
-
-XXI. Esfuerzo pesquero: El número de pescadores, embarcaciones y artes de pesca que son aplicados en la captura o extracción de una o varias especies en una zona y periodos determinados;
-
-XXII. Fideicomiso: El Fideicomiso Fondo de Fomento Agropecuario del Estado de Tamaulipas, FOFAET;
-
-XXIII. Granja o unidad de producción acuícola: El conjunto de instalaciones y activos productivos dedicados a la acuacultura, por una persona física o moral en un predio y/o cuerpo de agua específico;
-
-XXIV. Guía de pesca: El documento expedido por la SAGARPA o autoridad competente, que ampara la movilización o internación en el territorio estatal de recursos pesqueros o acuícolas vivos, frescos, enhielados o congelados;
-
-XXV. Inocuidad: Es la condición de calidad sanitaria de los productos pesqueros y acuícolas que garantiza su consumo sin efectos dañinos en la salud de los consumidores;
-
-XXVI. Laboratorio de producción: El conjunto permanente de instalaciones donde se proporcionan servicios de procreación y mejoramiento genético de recursos acuícolas, que para efectos de la presente ley se considera como parte de la acuacultura;
-
-XXVII. Laboratorio de diagnóstico: El conjunto permanente de instalaciones donde se proporcionan servicios de diagnóstico y monitoreo en materia de sanidad e inocuidad pesquera y acuícola, que para efectos de la presente ley se considera como parte de la acuacultura;
-
-XXVIII. Ley: La Ley de Pesca y Acuacultura Sustentables del Estado de Tamaulipas;
-
-XXIX. Ley General: La Ley General de Pesca y Acuacultura Sustentables;
-
-XXX. Ordenamiento acuícola: El proceso que se implementa para definir y vigilar el desarrollo equilibrado y sustentable de la actividad acuícola en el Estado, así como el conjunto de disposiciones que lo regulan, con base en el conocimiento actualizado de sus componentes biológicos, biotecnológicos, ambientales, económicos y sociales, en forma congruente con el ordenamiento territorial;
-
-XXXI. Ordenamiento pesquero: El conjunto de instrumentos orientados a regular y administrar las actividades pesqueras en el Estado, induciendo el aprovechamiento sustentable de los recursos pesqueros con base en su disponibilidad, comportamiento histórico de producción y la potencialidad del desarrollo de la actividad y capacidad pesquera, en forma congruente con el potencial ecológico del territorio;
-
-XXXII. Ordenamiento territorial: La determinación geográfica regional con vocación para la explotación de los recursos pesqueros o acuícolas de manera sustentable;
-
-XXXIII. Parque Acuícola: Desarrollo tecnológico-industrial, planeado y construido para la integración operacional de un conjunto de granjas o unidades de producción acuícola, con el objetivo de aprovechar de manera eficiente y sustentable los servicios, la tecnología y los recursos disponibles, para operar con ventajas competitivas y generar economía de escala;
-
-XXXIV. Permisionario: La persona física o moral en ejercicio de los derechos y obligaciones establecidas en un permiso por la Secretaría, para la realización de actividades pesqueras o acuícolas en terrenos, fondos o aguas de propiedad privada, ubicadas en zonas de jurisdicción estatal, con vencimiento determinado y con la obligación de ejecutar un programa de repoblamiento de la especie explotada y de rehabilitación del terreno o cuerpo de agua utilizado;
-
-XXXV. Permiso: El derecho otorgado por la Secretaría para realizar actividades de acuacultura o de pesca comercial en terrenos, fondos o aguas de propiedad privada;
-
-XXXVI. Pesca: El acto de extraer, recolectar o capturar, por cualquier método o procedimiento, especies biológicas o elementos biogénicos cuyo medio de vida total, parcial o temporal, sea el agua;
-
-XXXVII. Pesca comercial: La captura o extracción de recursos pesqueros que se efectúa con propósitos de beneficio económico;
-
-XXXVIII. Pesca deportivo-recreativa: La captura o extracción de recursos pesqueros que se practica con fines de esparcimiento o recreación;
-
-XXXIX. Pesca didáctica: La captura o extracción de recursos pesqueros que realizan las instituciones de educación reconocidas oficialmente, para llevar a cabo sus programas de capacitación y enseñanza, así como las personas físicas que desarrollen programas de enseñanza en esa materia;
-
-XL. Pesca de fomento: La captura o extracción de recursos pesqueros que se realiza con fines de investigación, exploración, experimentación, conservación y evaluación de dichos recursos, así como para la creación, mantenimiento y reposición de colecciones científicas y desarrollo de nuevas tecnologías;
-
-XLI. Pesca incidental: La captura o extracción de recursos pesqueros distintos a los autorizados en el permiso respectivo;
-
-XLII. Pesquería: Conjunto de sistemas de producción pesquera, que comprenden en todo o en parte las fases sucesivas de la actividad pesquera como actividad económica, y que pueden comprender la captura, el manejo y el procesamiento de un recurso o grupo de recursos afines y cuyos medios de producción, estructura organizativa y relaciones de producción ocurren en un ámbito geográfico y temporal definido;
-
-XLIII. Pesquería sobreexplotada: Es la pesquería que se encuentra explotada por encima de su límite de recuperación;
-
-XLIV. Plan de manejo acuícola: El instrumento rector de planeación y regulación, de observancia obligatoria, en el que se establecen las estrategias, acciones y disposiciones técnicas para la administración de las actividades acuícolas;
-
-XLV. Plan de manejo pesquero: El instrumento rector de planeación y regulación, de observancia obligatoria, en el que se establecen las estrategias, acciones y diversas disposiciones técnicas para la administración de las actividades pesqueras;
-
-XLVI. Punto de abastecimiento: El espacio de ubicación de la infraestructura acuícola que tiene por objeto captar agua para abastecer a una o varias granjas o unidades de producción acuícolas;
-
-XLVII. Punto de descarga: El espacio de ubicación de la infraestructura acuícola que tiene por objeto drenar el agua que ha sido utilizada por una o varias granjas o unidades de producción acuícolas;
-
-XLVIII. Puntos de verificación: Los lugares establecidos por la Secretaría para realizar verificaciones sanitarias de recursos pesqueros o acuícolas;
-
-XLIX. Recursos acuícolas: La flora y la fauna acuáticas que se utiliza u obtiene mediante la práctica de la acuacultura, o que es susceptible de cultivo, sus productos y subproductos;
-
-L. Recursos pesqueros: La flora y la fauna acuáticas en su hábitat natural u obtenidas del mismo mediante la extracción, captura o recolección, sus productos y subproductos;
-
-LI. Registro: El Registro Estatal de Pesca y Acuacultura;
-
-LII. Repoblación: El acto de introducir organismos acuáticos vivos nativos, en cualquiera de los estadíos de su ciclo de vida, en cuerpos de agua dulce continental, con fines de mantener, recuperar o incrementar las poblaciones naturales de recursos pesqueros y acuícolas;
-
-LIII. Riesgo sanitario: La probabilidad de introducir, establecer o diseminar una enfermedad en los recursos pesqueros o acuícolas;
-
-LIV. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2016)
-
-LV. Sanidad acuícola: El conjunto de acciones, procedimientos, prácticas y medidas que tienen por objeto la prevención, diagnóstico, control y erradicación de los parásitos, agentes patogénicos o las enfermedades que afectan o pueden afectar a los recursos acuícolas y a la acuacultura;
-
-LVI. Sanitización: La aplicación de sustancias químicas a los recursos pesqueros o acuícolas, así como a las instalaciones, equipos y transporte en los que dichos recursos se encuentren o movilicen, con el fin de evitar el desarrollo de microorganismos causantes de enfermedades o reducir el número de éstos cuando se advierta un riesgo sanitario;
-
-LVII. SAGARPA: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación de la administración pública federal;
-
-LVIII. Secretaría: La Secretaría de Desarrollo Rural del Gobierno del Estado de Tamaulipas;
-
-LIX. SENASICA: El Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
-
-LX. Sistema Estatal: El Sistema Estatal de Información Pesquera y Acuícola de Tamaulipas;
-
-LXI. Unidad de Esfuerzo Pesquero: Una embarcación o un arte o equipo de pesca o él o los pescadores que constituyen los medios necesarios para realizar la actividad pesquera;
-
-LXII. Unidad de Manejo Acuícola: Conjunto de granjas o unidades de producción acuícola, organizadas para implementar y ejecutar esquemas integrales de administración de infraestructura y recursos susceptibles de uso común, para el aprovechamiento y funcionamiento de los mismos en equilibrio con el medio ambiente, así como para preservar la sanidad, viabilidad y sustentabilidad de la actividad;
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-LXIII. Unidad de Medida y Actualización: Es la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en esta ley;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-LXIV. Veda: Es el acto administrativo por el que se prohíbe llevar a cabo la pesca en un período o zona específica, establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos naturales de reproducción y reclutamiento de una especie de los recursos pesqueros o acuícolas, o su inocuidad derivada de contingencias ambientales o desastres; y
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-LXV. Verificación Sanitaria: Las acciones que lleva a cabo la Secretaría para constatar que los recursos pesqueros o acuícolas y las instalaciones, equipos y transportes en los que se producen, capturan o movilicen, cumplen con las disposiciones legales aplicables en materia de sanidad, inocuidad y calidad.
-
-###### ARTÍCULO 4.
-
-Son objetivos de esta ley.
-
-I. Establecer y definir los principios para ordenar, fomentar y regular el manejo integral y el aprovechamiento sustentable de la pesca y la acuacultura en el Estado, considerando los aspectos sociales, tecnológicos, productivos, biológicos y ambientales;
-
-II. Promover el mejoramiento de la calidad de vida de los pescadores y acuacultores del Estado, a través de los programas que se instrumenten para el sector pesquero y acuícola;
-
-III. Establecer las bases para la ordenación, conservación, protección, repoblación y el aprovechamiento sustentable de los recursos pesqueros y acuícolas, así como coadyuvar con las autoridades competentes en la protección y rehabilitación de los ecosistemas en que se encuentran dichos recursos;
-
-IV. Planear y regular la actividad pesquera y acuícola en medios o ambientes seleccionados, controlados, naturales o artificiales, ya sea que realicen el ciclo biológico parcial o completo;
-
-V. Procurar el derecho al aprovechamiento preferente de los recursos pesqueros y acuícolas de los lugares que ocupen y habiten las familias, comunidades o pueblos arraigados en el Estado, en los términos de la presente ley;
-
-VI. Establecer las bases y los mecanismos de coordinación con las dependencias y organismos de la administración pública federal y municipal, para el mejor cumplimiento del objeto de esta ley;
-
-VII. Establecer las bases de participación de los agentes de las cadenas productivas pesqueras y acuícolas en el Estado;
-
-VIII. Apoyar y dirigir la investigación científica y tecnológica en materia de acuacultura y pesca, así como facilitar la transferencia de tecnología y el desarrollo de capacidades;
-
-IX. Establecer las bases para integrar, operar y mantener actualizado el Sistema Estatal de Información de Pesca y Acuacultura y el Registro Estatal de Pesca y Acuacultura;
-
-X. Determinar los mecanismos de coordinación para la participación del Estado, los municipios y las autoridades competentes, en las acciones de inspección y vigilancia en materia de pesca y acuacultura;
-
-XI. Planear, regular y administrar las actividades de pesca y acuacultura en los cuerpos de agua dulce continental ubicados dentro del territorio del Estado, así como en terrenos del dominio público o de propiedad privada, de conformidad con lo dispuesto en la Ley General; y
-
-XII. Establecer las bases para celebrar con el gobierno federal los convenios y acuerdos de coordinación y colaboración, con el fin de asumir las funciones previstas en la Ley General.
-
-###### ARTÍCULO 5.
-
-1. En todo lo no previsto en esta ley y su reglamento se aplicarán, en lo conducente y de manera supletoria, la Ley Orgánica de la Administración Pública del Estado, la Ley de Transparencia y Acceso a la Información Pública del Estado, el Código Civil para el Estado y el Código de Procedimientos Civiles del Estado.
-
-2. A falta de disposiciones jurídicas se aplicarán los principios generales del derecho.
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 1o.
 
@@ -307,767 +115,741 @@ El Congreso sesionará con la concurrencia de más de la mitad de sus integrante
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-###### ARTÍCULO 10.
+###### Artículo 10.
 
-1. Los convenios y acuerdos que el Estado celebre para la concurrencia y coordinación con los municipios o de las dependencias o entidades del Gobierno federal, deberán sujetarse a las siguientes disposiciones:
+Los Diputados gozan de una libertad absoluta para hablar, en consecuencia, son inviolables por sus opiniones manifestadas en el desempeño de su cargo, sobre las cuales en ningún tiempo pueden ser reconvenidos o juzgados por autoridad alguna. Dicha libertad incluye las expresiones verbales, escritas o en cualquier otra forma que sean manifestadas en el ejercicio del encargo, las que realicen en actos legislativos o en cualquiera de las actuaciones como legisladores y en proclamaciones.
 
-I. Definirán su objeto con precisión, las materias y facultades que se asumirán, las cuales deberán ser acordes con la política estatal de pesca y acuacultura sustentables;
+Tendrán la obligación de asistir a las sesiones, integrarse a las Comisiones, Comités y demás actividades legislativas que les encomiende el Pleno del Congreso; así como acatar las disposiciones del Código de Ética para Diputados, que para tal efecto se emita.
 
-II. Establecerán las responsabilidades y la participación de cada una de las partes, los bienes y recursos aportados por cada una, su destino y su forma de administración;
+Los Diputados son responsables por los delitos que cometan durante el tiempo de su encargo y por las faltas administrativas en que incurran en el tiempo de su ejercicio en los términos de la legislación aplicable.
 
-III. Se celebrarán por interés común de las partes, cuando garanticen que cuentan con los recursos humanos capacitados y la estructura institucional específica para atender las funciones y cumplir con las responsabilidades que asumirían;
+###### Artículo 11.
 
-IV. Determinarán el órgano u órganos que llevarán a cabo las acciones que resulten de los convenios o acuerdos de coordinación, y definirán los procedimientos informativos correspondientes para vigilar el cumplimiento de los objetivos; y
+El Recinto del Congreso es inviolable. Toda fuerza pública está impedida de tener acceso al mismo, salvo en las circunstancias en que el Presidente del Congreso lo determine, en cuyo caso la fuerza pública estará bajo su mando.
 
-V. Señalaran, la vigencia del instrumento, sus formas de modificación y terminación y, en su caso, la duración de sus prórrogas.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-2. Los convenios y acuerdos de coordinación, así como sus modificaciones, deberán publicarse en el Periódico Oficial del Estado.
+El Presidente del Congreso podrá solicitar el apoyo de la fuerza pública o solicitar el cumplimiento de la Ley para salvaguardar la integridad física de los Diputados, personal y los asistentes a las sesiones, así como la inviolabilidad del Recinto Legislativo y las instalaciones del Congreso.
 
-###### ARTÍCULO 11.
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
 
-1. En la planeación estatal del desarrollo se deberá incorporar la política estatal de pesca y acuacultura que se establezca de conformidad con esta ley y las demás disposiciones en la materia.
+Se entiende por recinto legislativo el espacio en donde los Diputados llevan a cabo las sesiones del pleno y por instalaciones las áreas en donde se ubican las oficinas y espacios para cumplir con su función legislativa.
 
-2. En la planeación y realización de las acciones a cargo de las dependencias y entidades de la administración pública estatal, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran al Estado para regular, promover, orientar y, en general, inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política estatal de pesca y acuacultura que establezcan el Plan Estatal de Desarrollo y los programas que de él se deriven.
+###### Artículo 12.
 
-3. Las medidas, programas e instrumentos económicos relativos al desarrollo de la actividad pesquera y acuícola deberán prever la canalización efectiva y suficiente de apoyos para fomentar las actividades pesquera y acuícola y asegurar su eficacia y transparencia en apego a las disposiciones jurídicas aplicables.
+Ninguna autoridad podrá ejercer mandamiento judicial o administrativo sobre los bienes asignados al Congreso.
 
-###### ARTÍCULO 12.
+Tampoco podrá cumplimentarse mandamiento judicial o administrativo sobre los bienes de los Diputados en el interior de las instalaciones del Congreso.
 
-En la formulación y conducción de la política estatal y municipal de pesca y acuacultura, el Estado y los municipios observarán los siguientes principios:
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 1997)</small>
 
-I. El Estado reconoce que la pesca y la acuacultura son actividades que fortalecen la economía y cohesión social, y son prioridad en la planeación del desarrollo y la gestión integral de los recursos naturales;
+### CAPITULO II. DEL COLEGIO ELECTORAL
 
-II. La pesca y la acuacultura deberán orientarse a la producción de alimentos para consumo humano directo, para el abastecimiento de proteínas de alta calidad y de bajo costo para los habitantes del Estado;
+###### Artículo 13.
 
-III. El aprovechamiento de los recursos pesqueros y acuícolas, su conservación, restauración y la protección de los ecosistemas en los que se encuentren deberá ser compatible con su capacidad natural de recuperación y disponibilidad;
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-IV. La investigación científica y tecnológica será una herramienta fundamental para definir e implementar políticas, instrumentos, mecanismos, medidas y decisiones relativas a la conservación, restauración, protección y aprovechamiento sustentable de los recursos pesqueros y acuícolas;
+###### Artículo 14.
 
-V. La acuacultura deberá desarrollarse como una actividad productiva que permita la diversificación pesquera, ofrezca opciones de empleo en el medio rural, incremente la producción pesquera y la oferta de alimentos que mejoren la dieta de la población del Estado, así como la generación de divisas;
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-VI. El ordenamiento de la pesca y la acuacultura deberá hacerse a través de programas que incluyan la definición de sitios para su realización, su tecnificación, diversificación, buscando nuevas tecnologías que reduzcan los impactos ambientales y que permitan ampliar el número de especies nativas que se cultiven;
+###### Artículo 15.
 
-VII. El uso de artes y métodos de pesca selectivos y de menor impacto ambiental, a fin de conservar y mantener la disponibilidad de los recursos pesqueros, la estructura de las poblaciones, la restauración de los ecosistemas costeros y acuáticos, así como la calidad de los productos de la pesca;
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-VIII. En la conservación y protección de los recursos pesqueros y los ecosistemas en los que se encuentran, deberá adoptarse el enfoque precautorio que incluya la definición de límites de captura y esfuerzos aplicables, así como la evaluación y monitoreo del impacto de la actividad pesquera sobre la sustentabilidad de las poblaciones a largo plazo;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 1997)</small>
 
-IX. La participación, consenso y compromiso de los productores y sus comunidades, en la corresponsabilidad de aprovechar de forma integral y sustentable los recursos pesqueros y acuícolas; y
+### CAPITULO III. LA COMISION INSTALADORA DEL COLEGIO ELECTORAL
 
-X. Los procedimientos administrativos para el otorgamiento de permisos para realizar actividades pesqueras y acuícolas, así como en las medidas para el control del esfuerzo pesquero, deberán hacerse con transparencia para que sean eficaces e incorporen mecanismos de control accesibles a los productores.
+###### Artículo 16.
 
-### CAPÍTULO I. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-###### ARTÍCULO 6.
+###### Artículo 17.
 
-Para la aplicación de la presente ley, el Estado y los municipios ejercerán sus atribuciones en materia de pesca y acuacultura sustentables de manera concurrente y de conformidad con la distribución de competencias establecida en esta ley, en la Ley General y en otros ordenamientos legales aplicables.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-###### ARTÍCULO 7.
+###### Artículo 18.
 
-1. Las atribuciones que esta ley le otorga al Estado se ejercerán por el Ejecutivo Estatal a través de la Secretaría, salvo las que directamente le correspondan al Gobernador por disposición expresa de la Constitución Política del Estado o de la Ley Orgánica de la Administración Pública del Estado de Tamaulipas. Los municipios ejercerán sus atribuciones por conducto de los órganos que los Ayuntamientos determinen en los ordenamientos respectivos.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-2. Cuando por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública del Estado u otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias u organismos del Ejecutivo Estatal, la Secretaría ejercerá sus atribuciones en coordinación con las mismas mediante la suscripción de los instrumentos jurídicos correspondientes.
+### CAPITULO IV. DE LA CALIFICACION DE ELECCIONES
 
-###### ARTÍCULO 8.
+###### Artículo 19.
 
-1. Competen al Estado las siguientes atribuciones:
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-l. Diseñar, coordinar y ejecutar la política, los instrumentos y los programas estatales para la pesca y la acuacultura, en concordancia con la política nacional de pesca y acuacultura sustentables;
+###### Artículo 20.
 
-II. Elaborar, ejecutar y evaluar el Programa Estatal de Desarrollo Pesquero y Acuícola, así como los programas e instrumentos que se deriven del mismo, vinculándolos con los programas nacionales, sectoriales y regionales, así como con el Plan Estatal de Desarrollo y los Programas que de él se deriven;
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-III. Administrar las actividades de pesca y acuacultura en el marco de la presente ley y su reglamento, así como, en su caso, del convenio específico signado con la SAGARPA;
+###### Artículo 21.
 
-IV. Celebrar convenios o acuerdos de coordinación con el Gobierno Federal en materia de pesca y acuacultura;
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-V. Ejercer las funciones que le transfiera la Federación, conforme a lo previsto en la Ley General;
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
 
-VI. Fomentar y promover las actividades pesqueras y acuícolas, primarias y de postproducción, así como el desarrollo integral de quienes participan en dichas actividades;
+###### Artículo 22.
 
-VII. Promover la creación y operación de esquemas y mecanismos de financiamiento adecuados para el desarrollo integral de la actividad pesquera y acuícola, así como participar en la operación del Fondo Mexicano para el Desarrollo Pesquero y Acuícola, en los términos de la Ley General;
+En el año de la Elección de Diputados Locales, la Diputación Permanente además de sus funciones, será el enlace con la siguiente Legislatura. El Congreso del Estado comunicará a la Comisión Estatal Electoral, la designación de la Diputación Permanente.
 
-VIII. Promover, en coordinación con las dependencias y entidades competentes, el consumo de una mayor variedad de productos pesqueros y acuícolas, con énfasis en las especies que produce el Estado, destacando sus beneficios y valor nutritivo;
+En el año de la elección del Titular del Poder Ejecutivo, el Pleno del Congreso, o en su caso la Diputación Permanente, dará a conocer en todo el Estado la Declaración de Gobernador Electo, de acuerdo a lo dispuesto por la fracción XV del Artículo 63 de la Constitución Política del Estado; misma que se mandará publicar en el Periódico Oficial del Estado y en los periódicos de mayor circulación en la entidad.
 
-IX. Integrar el Consejo Estatal de Pesca y Acuacultura para promover la participación de los productores e industrializadores en la administración y manejo de los recursos pesqueros y acuícolas;
+###### Artículo 23.
 
-X. Participar con las dependencias y entidades competentes de la administración pública federal en la formulación, e implementación de los programas de ordenamiento territorial, así como pesquero y acuícola;
+(DEROGADO, P.O. 1 DE JUNIO DE 1994)
 
-XI. Promover y participar, de conformidad con la Ley Federal sobre Metrología y Normalización y otras disposiciones aplicables, con las dependencias competentes de la administración pública federal en la elaboración, modificación, actualización y ejecución de normas oficiales mexicanas a favor del desarrollo integral y sustentable de la pesca y la acuacultura;
+###### Artículo 24.
 
-XII. Proponer y formular planes de manejo pesquero y acuícola, en coordinación con las dependencias competentes de la administración pública y organizaciones no gubernamentales y de conformidad con las normas oficiales mexicanas y otras disposiciones aplicables; publicarlos en el Periódico Oficial del Estado, promover su aplicación, seguimiento y evaluación;
+(DEROGADO, P.O. 1 DE JUNIO DE 1994)
 
-XIII. Otorgar y administrar los permisos para las actividades de pesca y acuacultura, así como las autorizaciones, constancias, certificaciones y demás documentos previstos en esta ley, su reglamento o en el marco del convenio específico signado con la SAGARPA;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2014)</small>
 
-XIV. Formular y ejercer la política local de inspección y vigilancia pesquera y acuícola en el marco de la presente ley o del convenio específico signado con la SAGARPA en estas materias;
+### CAPITULO V. DE LA CONSTITUCIÓN DE LA LEGISLATURA
 
-XV. Ejercer, de manera directa o en concurrencia con los municipios, las facultades y atribuciones conferidas por esta ley en los cuerpos de agua dulce continental, así como en las granjas acuícolas e instalaciones dedicadas a la producción de insumos biológicos o biogénicos para la acuacultura que se ubiquen dentro del territorio y jurisdicción del Estado;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
-XVI. Aplicar medidas de sanidad, inocuidad y calidad acuícola y pesquera, de conformidad con las Normas Oficiales Mexicanas, con las disposiciones de esta ley y su reglamento, así como en el marco del convenio específico signado con la SAGARPA en estas materias;
+###### Artículo 25.
 
-XVII. Promover, directamente o en coordinación con las autoridades educativas, la investigación aplicada, el desarrollo e innovación tecnológicos de la pesca y la acuacultura, así como servicios de asesoría y capacitación;
+Una vez calificadas las elecciones de Diputados Electos con arreglo a la Constitución Política del Estado y a la Ley Electoral del Estado, y recibidas por los interesados las constancias respectivas expedidas por la autoridad electoral, la Diputación Permanente citará a los Diputados Electos para que se presenten al Recinto del Congreso, el día 31 de agosto del año de la elección a fin de (sic) se constituya la Legislatura.
 
-XVIII. Establecer, operar y mantener actualizado el Registro Estatal de Pesca y Acuacultura, así como el Sistema Estatal de Información Pesquera y Acuícola, vincularlos al Sistema Nacional de Información Pesquera y Acuícola para actualizar la Carta Nacional Pesquera y la Carta Nacional Acuícola, así como integrar la información estadística local en coordinación con las autoridades federales competentes;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
-XIX. Participar con las dependencias competentes de la Administración Pública Federal en la determinación de especies acuáticas sujetas a protección especial, amenazadas o en peligro de extinción; y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
-XX. Las demás que le confieran esta ley y los ordenamientos aplicables a la materia de la misma.
+###### Artículo 26.
 
-###### ARTÍCULO 13.
+La Legislatura se constituirá con la mayoría de los Diputados Electos, bajo la Presidencia del Diputado que haya obtenido el mayor número de votos o en su defecto en el orden progresivo del número de votos, en dicha sesión se rendirá la protesta de ley, se hará la declaratoria de constitución de la Legislatura y también en dicha sesión se elegirá a la Directiva que fungirá durante el primer año de ejercicio constitucional.
 
-La Secretaría formulará el Programa Estatal de Desarrollo Pesquero y Acuícola en congruencia con el Plan Estatal de Desarrollo y el Programa Nacional correspondiente, y comprenderá, entre otros, los aspectos siguientes:
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
 
-I. Los objetivos que orientarán las acciones de planeación y programación del desarrollo de las actividades pesquera y acuícola en el Estado;
+###### Artículo 27.
 
-II. Las políticas para el desarrollo integral y sustentable de las actividades pesquera y acuícola;
+(DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
-III. Las políticas para el mantenimiento de la sanidad y calidad de las actividades pesquera y acuícola en el Estado;
+###### Artículo 28.
 
-IV. Los lineamientos y acciones para fomentar la investigación y desarrollo tecnológico de las actividades pesquera y acuícola, y la difusión de sus resultados;
+(DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
-V. Las acciones para impulsar el aprovechamiento de la pesca y la acuacultura de especies nativas;
+###### Artículo 29.
 
-VI. Las zonas susceptibles de ser utilizadas para el establecimiento y desarrollo de las actividades pesqueras y acuícolas;
+(DEROGADO, P.O. 25 DE JUNIO DE 2014)
 
-VII. La valoración del potencial de las actividades pesquera y acuícola en el Estado;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-VIII. Los programas de ordenamiento pesquero y acuícola;
+###### Artículo 30.
 
-IX. Las acciones para promover y apoyar el desarrollo de la pesca y la acuacultura;
+El mismo día 31 de agosto del año de la elección, los Diputados Electos celebrarán sesión en el Recinto del Congreso, en la que todos, rendirán su protesta. A ese respecto, todos de pie, el Diputado que hubiere obtenido el mayor número de votos o en su ausencia quien corresponda rendirá su protesta al cargo, para lo cual dirá: “PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN, Y LAS LEYES QUE DE ELLAS EMANEN Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO ME HA CONFERIDO. SI NO LO HICIERE ASÍ, QUE LA NACIÓN Y EL ESTADO ME LO DEMANDEN”.
 
-X. El mejoramiento, ampliación y construcción de centros de acopio, plantas de proceso y centrales de distribución de productos pesqueros y acuícolas; y
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-XI. Los instrumentos y acciones integrales de inspección y vigilancia para el cumplimiento de la presente ley.
+###### Artículo 31.
 
-###### ARTÍCULO 14.
+Luego de rendir protesta el Diputado Electo que hubiere obtenido el mayor número de votos o en su ausencia quien corresponda, tomará protesta a los demás Diputados Electos, para lo cual dirá: "¿PROTESTÁIS GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA DEL ESTADO DE NUEVO LEÓN Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO OS HA CONFERIDO?". Los Diputados Electos contestarán: "SI PROTESTO", y quien les toma la protesta contestará: "SI NO LO HICIEREIS ASÍ QUE LA NACIÓN Y EL ESTADO OS LO DEMANDEN.
 
-1. Se crea el Consejo Estatal de Pesca y Acuacultura como una instancia de coordinación y concertación con los sectores público, social y privado para proponer políticas, programas, proyectos e instrumentos de carácter estatal tendientes al apoyo, fomento, productividad, regulación y control de las actividades pesquera y acuícola, así como para incrementar la competitividad del sector.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-2. El Consejo Estatal podrá emitir opiniones a la SAGARPA u otras dependencias y entidades federales respecto del aprovechamiento de los recursos pesqueros y acuícolas en Tamaulipas.
+###### Artículo 32.
 
-###### ARTÍCULO 15.
+Cuando uno o más de los Diputados Electos se presentaren después de la protesta a que se refiere el artículo anterior, deberán rendirla a su vez en los términos indicados, sin cuyo requisito no podrán tomar posesión de su cargo. Dicha protesta deberá tomarse en la sesión del Pleno del Congreso más próxima, por el Presidente de la Directiva.
 
-1. El Consejo Estatal de Pesca y Acuacultura estará integrado por:
+## TITULO SEGUNDO
 
-I. Un Presidente, que será el titular del Poder Ejecutivo del Estado;
+### CAPITULO UNICO. DE LA APERTURA DE SESIONES
 
-II. Un Vicepresidente, que será el titular de la Secretaría, quien fungirá como suplente en ausencia del Presidente;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-III. Un Secretario Ejecutivo, que será el Subsecretario de Pesca y Acuacultura; y
+###### Artículo 33.
 
-IV. Cinco vocales, que a invitación del Presidente serán:
+El día 31 de agosto del año de la elección, se procederá por escrutinio secreto a la elección de la Directiva del Congreso que se compondrá de un Presidente, dos Vicepresidentes y dos Secretarios, quienes entrarán en desempeño de sus funciones a partir del día 1º de septiembre.
 
-a) Un representante de la pesca ribereña;
+(REFORMADO, P.O. 25 DE JUNIO DE 2014) (F. DE E., P.O. 7 DE JULIO DE 2014)
 
-b) Un representante de la pesca de altamar;
+###### Artículo 34.
 
-c) Un representante de la acuacultura;
+La Directiva comunicará la Constitución de la Legislatura y la conformación de la Directiva del Congreso, a los Poderes Ejecutivo y Judicial independientemente de que se haga por medio de oficio, así como a las demás autoridades.
 
-d) Un representante de una institución de educación superior o de investigación en materia de pesca o acuacultura; y
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
-e) Un representante de la industria de la transformación pesquera y acuícola.
+###### Artículo 35.
 
-2. A excepción del Presidente, cada miembro propietario designará un suplente quien asistirá a las sesiones del Consejo en ausencia del primero, con todas las facultades y derechos que a este corresponda.
+Con la elección de la Directiva a que se refiere el Artículo 33 de esta Ley, el nuevo Congreso se tendrá por legalmente constituido a partir del día 1º de septiembre, fecha en que se formulará el Decreto correspondiente.
 
-3. Los integrantes del Consejo Estatal que lo sean por razón de su cargo, permanecerán como consejeros mientras dure el mismo. Los demás consejeros permanecerán hasta que sean sustituidos, renuncien o les resulte imposible su desempeño. Todos los consejeros desempeñarán su encargo de manera honoraria.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
-### CAPÍTULO II. DE LA CONCURRENCIA Y COORDINACIÓN
+###### Artículo 36.
 
-###### ARTÍCULO 9.
+El día 1º de septiembre de cada tres años, a las 11:00 horas, se reunirán los Diputados en el Recinto Oficial en Sesión Solemne en la que una vez que tome posesión la Directiva de la nueva Legislatura, el Presidente hará la declaración solemne de apertura, pronunciando las siguientes palabras en voz alta: ("La (número) Legislatura del H. Congreso del Estado, abre hoy 1º de septiembre de (año), el Primer Período Ordinario de Sesiones correspondiente al Primer Año de Ejercicio Constitucional").
 
-Corresponden a los municipios en el ámbito de su competencia y de conformidad con lo dispuesto en esta ley y las leyes en la materia, las siguientes atribuciones:
+La misma declaratoria se hará en la apertura del segundo y tercer año.
 
-I. Participar de conformidad con los acuerdos y convenios que celebren con el Estado, en el diseño y aplicación de la política y los programas municipales para la pesca y la acuacultura, vinculándolos con los programas nacionales, regionales y estatales;
+Si se tratara del período de excepción a que se refiere el segundo párrafo del artículo 55 de la Constitución Política del Estado se hará constar esta circunstancia.
 
-II. Concurrir, de conformidad con los acuerdos y convenios que celebren con las dependencias y entidades competentes, en la inspección y vigilancia pesquera y acuícola en sus jurisdicciones, así como en las acciones de sanidad acuícola en los términos de esta ley y de la Ley General;
+> <small>(ADICIONADO, P. O. 21 DE NOVIEMBRE DE 1994)</small>
 
-III. Promover la ejecución de obras de infraestructura pesquera y acuícola de uso común, de introducción de servicios básicos en las comunidades o asentamientos de pescadores, así como de construcción y mantenimiento de centros de procesamiento y comercialización de productos pesqueros;
+En esta Sesión se harán los honores a nuestra Enseña Patria y se entonará el Himno Nacional.
 
-IV. Promover mecanismos de participación social en el manejo y conservación de los recursos pesqueros y acuícolas; y
+###### Artículo 37.
 
-V. Coadyuvar con el Estado en la organización y desarrollo de exposiciones, ferias y demás actividades de promoción y difusión para el sector pesquero y acuícola.
+Si por falta del quórum establecido en el Artículo 56 de la Constitución Política del Estado, el Congreso no queda instalado para la fecha indicada en el Artículo anterior, de conformidad con el Artículo 67 Constitucional, la Legislatura cuyo ejercicio termina, continuará en funciones hasta que deje instalada a la nueva.
 
-###### ARTÍCULO 16.
+###### Artículo 38.
 
-El Consejo Estatal funcionará en los términos que establezcan el reglamento de esta ley.
+Cuando se trate de iniciación de Período Extraordinario de Sesiones se hará la declaratoria conforme a tales circunstancias.
 
-###### ARTÍCULO 17.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-La Secretaría, en coordinación con las dependencias y entidades de la administración pública estatal competentes y, en lo que corresponda, con los municipios, ejecutará de manera prioritaria las acciones de fomento pesquero y acuícola establecidas en el Programa Estatal de Desarrollo Pesquero y Acuícola, y para tal efecto deberá:
+###### Artículo 39.
 
-I. Promover la investigación y la innovación tecnológica en pesca y acuacultura, para apoyar a las personas y organizaciones que se dediquen a estas actividades;
+En las sesiones solemnes del Congreso se harán los honores a nuestra Enseña Patria y se entonará el Himno Nacional.
 
-II. Fomentar servicios de asesoría y capacitación a los acuacultores y pescadores, para la aplicación de la tecnología o procesos innovadores que genere la investigación científica y tecnológica;
+En la Sesión Solemne en la que el Gobernador Constitucional del Estado haya de rendir el Informe a que se refiere el Artículo 57 de la Constitución Política del Estado, serán invitados los Magistrados del Tribunal Superior de Justicia, el Presidente Municipal de Monterrey, la Primera Autoridad Militar en el Estado y demás personas que se estime conveniente como invitados de honor.
 
-III. Formular y ejecutar estrategias estatales de apoyo financiero para el desarrollo de la pesca y la acuacultura;
+En estas sesiones, los representantes de los tres Poderes del Gobierno del Estado se ubicarán en el nivel superior del estrado.
 
-IV. Operar y administrar, directamente o mediante convenio con las personas físicas o morales que se determine, los centros acuícolas de propiedad o en uso y administración por el Estado, con el propósito de generar tecnología y mano de obra calificada para el cultivo de especies acuáticas marinas y de agua dulce; impulsar la investigación y el mejoramiento genético; aplicar medidas de cuarentena para introducción de especies exóticas o importadas, y realizar repoblación de embalses;
+La Directiva podrá girar invitaciones a otras autoridades y ciudadanos para que asistan a estas sesiones.
 
-V. Operar y administrar, directamente o mediante convenio con las personas físicas o morales que se determine, los centros de recepción y proceso de productos pesqueros así como las embarcaciones y equipos de dragado de propiedad o en uso y administración por el Estado, con el propósito de coadyuvar en la aplicación de buenas prácticas de manejo y manufactura para mejoramiento de la calidad e inocuidad de los productos pesqueros; aplicar programas de investigación, monitoreo y prospección pesquera; y realizar dragado, desasolve (sic) o saneamiento de cuerpos de agua y canales de navegación;
+## TITULO TERCERO
 
-VI. Planear y promover la construcción de parques acuícolas, centros acuícolas y laboratorios dedicados a la producción de organismos destinados al ornato, al cultivo y la repoblación de las especies acuáticas;
+### CAPITULO I. DE LOS GRUPOS LEGISLATIVOS
 
-VII. Apoyar la construcción, mejora y equipamiento de embarcaciones y de artes de pesca selectiva y ambientalmente seguras, mediante la ejecución de programas de sustitución y modernización de las mismas;
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
 
-VIII. Coadyuvar con las autoridades competentes en la construcción de infraestructura portuaria pesquera, así como en el mejoramiento de la infraestructura existente;
+###### Artículo 40.
 
-IX. Colaborar con las instituciones dedicadas a la investigación científica y tecnológica en pesca y acuacultura;
+Podrán Constituir un Grupo Legislativo los Diputados que pertenezcan a un mismo Partido Político o aquellos que sean considerados como Diputados Independientes, para actuar de forma orgánica y coordinada en los trabajos del Congreso.
 
-X. Formular y ejecutar los programas estatales de fomento y difusión de la acuacultura, de la comercialización y consumo de productos pesqueros y acuícolas, tendientes a dar valor agregado a los productos generados por la pesca y la acuacultura;
+Los Diputados no podrán pertenecer a dos o más Grupos Legislativos; los que pertenezcan a un mismo partido o los que sean considerados Independientes, en ningún caso pueden constituir uno o más Grupos Legislativos separados.
 
-XI. Promover la organización de los productores y demás agentes relacionados con el sector, a través de mecanismos de coordinación y concertación;
+Serán considerados como Diputados Independientes aquellos que hayan participado en el proceso electoral como Candidatos Independientes o aquellos que dejen de pertenecer al partido político que los postuló y se declaren independientes.
 
-XII. Participar en la realización de obras de rehabilitación ambiental en sistemas lagunarios y boca-barras en coordinación con las autoridades competentes;
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
 
-XIII. Promover, ante las instancias competentes, la aplicación de estímulos fiscales, económicos y de apoyo financiero, necesarios para el desarrollo productivo y competitivo de la pesca y la acuacultura;
+###### Artículo 41.
 
-XIV. Impulsar acciones para la formación de recursos humanos que se vincule con organizaciones de productores, que participen en las cadenas productivas acuícolas y pesqueras, considerando a las instituciones educativas relacionadas con el sector;
+Todos los Grupos Legislativos, con las excepciones previstas en esta Ley, y en el Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León, gozarán de idénticos derechos y obligaciones.
 
-XV. Favorecer la creación de figuras organizativas para la promoción comercial, en los mercados nacional e internacional, de los productos pesqueros y acuícolas de la entidad;
+###### Artículo 42.
 
-XVI. Establecer acciones conjuntas para el fortalecimiento de las redes de valor, en coordinación con los diversos comités sistema-producto acuícolas y pesqueros; y
+Los Grupos Legislativos son organismos coadyuvantes del proceso legislativo y tienden a lograr la participación de los Diputados en las actividades legislativas y a contribuir y orientar la formación de criterios comunes en las deliberaciones y discusiones que se lleven a cabo, por los integrantes del Congreso en las Sesiones correspondientes.
 
-XVII. Instrumentar un programa estatal para la reproducción de especies de interés comercial o deportivo, con fines de repoblamiento de los principales embalses.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2014)</small>
 
-###### ARTÍCULO 18.
+###### Artículo 43.
 
-En materia de pesca deportivo-recreativa, la Secretaría coadyuvará para su desarrollo en forma armónica con las demás modalidades de la pesca, para lo cual, en coordinación con las dependencias y entidades competentes, los municipios y las organizaciones interesadas:
+Para crear un Grupo Legislativo es requisito esencial que lo integren Diputados de igual afiliación partidista o ser Diputado Independiente. Se tendrán por legalmente constituidos cuando presenten a la Directiva del Congreso los documentos siguientes:
 
-I. Promoverá las gestiones para la construcción de infraestructura propia para esta actividad;
+I.- Acta en la que conste la decisión de los Diputados de constituirse en Grupo, especificando el nombre del mismo y agregando la lista de los integrantes.
 
-II. Coadyuvará en la vigilancia de las medidas de conservación y protección necesarias;
+II.- Nombre y firma del Diputado que resulte designado como Coordinador del Grupo Legislativo.
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+En los casos en que un partido esté representado por un solo diputado, éste podrá integrar un Grupo Legislativo.
 
-III. Participará con las dependencias competentes y en coordinación con el Instituto Tamaulipeco del Deporte, en la realización de torneos de pesca deportivo-recreativa;
+###### Artículo 44.
 
-IV. Fomentará la práctica de capturar y liberar; y
+Los Grupos Legislativos en la segunda sesión del Primer Período Ordinario de Sesiones del primer año de ejercicio constitucional, harán entrega de la documentación a la que se refiere el artículo anterior. El Presidente hará en su caso la declaratoria de quedar constituído el Grupo de que se trate.
 
-V. Promoverá la celebración de convenios con organizaciones, prestadores de servicios y particulares para facilitar la distribución de los permisos que se requieran para la pesca deportivo-recreativa, mediante el pago de los derechos correspondientes.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-### CAPÍTULO I. DE LA POLÍTICA Y LA PLANEACIÓN
+###### Artículo 45.
 
-###### ARTÍCULO 19.
+Corresponde a los Coordinadores de los Grupos Legislativos:
 
-1. Para fomentar la integración competitiva del sector acuícola y pesquero en concordancia con lo dispuesto en la política estatal de pesca y acuacultura sustentables, la Secretaría gestionará y destinará recursos suficientes para garantizar el cumplimiento del Programa Estatal de Desarrollo Pesquero y Acuícola, provenientes de:
+I.- Ser integrantes de la Comisión de Coordinación y Régimen Interno; y
 
-I. Las dependencias o entidades de la administración pública federal, estatal o municipal, para el desarrollo de acciones convenidas o en concurrencia;
+II.- Realizar tareas de coordinación y concertación con los Órganos de Dirección y de Trabajo de la Legislatura.
 
-II. El Fondo Mexicano para el Desarrollo Pesquero y Acuícola PROMAR;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 1999)</small>
 
-III. Los organismos no gubernamentales o instituciones de financiamiento, públicas o privadas, interesadas en el desarrollo del sector pesquero y acuícola de Tamaulipas; y
+###### Artículo 46.
 
-IV. La Hacienda Pública del Estado, derivado de los servicios, permisos, concesiones, sanciones que celebre la Secretaría, conforme a lo dispuesto en esta ley, así como los demás que determine el Ejecutivo del Estado.
+Los integrantes de la Legislatura podrán formar nuevos Grupos Legislativos bajo las siguientes condiciones:
 
-2. Los recursos obtenidos serán depositados en el Fideicomiso para su ejercicio de acuerdo a los programas autorizados.
+I.- Cuando un Partido Político cambie de denominación;
 
-###### ARTÍCULO 20.
+II.- Cuando se disuelva un Grupo Legislativo; y
 
-Para el desarrollo equilibrado y sustentable de la pesca y la acuacultura en el Estado, la Secretaría realizará los ordenamientos pesquero y acuícola en el contexto de la política estatal de pesca y acuacultura y el Programa Estatal de Desarrollo Pesquero y Acuícola.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2014)</small>
 
-###### ARTÍCULO 21.
+III.- Cuando uno o más integrantes dejen de pertenecer a algún Partido Político y constituyan un Grupo Legislativo de Diputados Independientes, siempre y cuando éste no se haya integrado anteriormente.
 
-Para los efectos de la presente ley, los ordenamientos pesqueros y acuícola se integran con:
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
 
-I. El ordenamiento territorial de las actividades pesqueras y acuícola;
+Sólo podrán formar Grupos Legislativos los Diputados cuyos partidos hayan participado en la elección y los Diputados Independientes. Aquellos que no se inscriban o dejen de pertenecer a un Grupo Legislativo, sin integrarse a otro existente, serán considerados como Diputados sin partido y tendrán las mismas consideraciones y prerrogativas que los demás Legisladores y se les apoyará de igual manera para que puedan desempeñar sus funciones.
 
-II. Los planes de manejo pesquero; y
+###### Artículo 47.
 
-III. Los planes de manejo acuícola.
+Los Diputados que integran un Grupo Legislativo tomarán asiento en las curules que correspondan al Grupo de que forme parte.
 
-###### ARTÍCULO 22.
+###### Artículo 48.
 
-1. Los ordenamientos territoriales pesquero y acuícola señalarán las zonas o demarcaciones geográficas del Estado que, por sus características o condiciones, son viables para el desarrollo de dichas actividades.
+Los Grupos Legislativos dispondrán de locales adecuados en las instalaciones del Congreso, así como Asesores, Personal y elementos materiales necesarios para el cumplimiento de sus funciones de acuerdo con las posibilidades financieras del Congreso.
 
-2. Por cada zona o demarcación, se establecerá un plan de manejo pesquero o acuícola, según corresponda, cuyo cumplimiento será obligatorio.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-###### ARTÍCULO 23.
+###### Artículo 49.
 
-Los planes de manejo pesquero y acuícola son instrumentos de regulación de dichas actividades, en los que se establecerán las especies a explotar, los métodos de captura, los periodos de veda, la infraestructura a utilizar, los métodos de aplicación de medidas de sanidad y, en general, las disposiciones técnicas para el óptimo aprovechamiento de los recursos pesqueros y acuícolas.
+Del presupuesto aprobado para la función legislativa se destinarán partidas de gastos para ser dispuestas por cada Grupo Legislativo proporcionalmente al número de Diputados que los integran y de acuerdo a la legislación y reglamentación aplicable y a los lineamientos que emita el Comité de Administración.
 
-###### ARTÍCULO 24.
+Los Grupos Legislativos tendrán el derecho para administrar por sí mismos los recursos financieros que les sean asignados para el cumplimiento de la función legislativa.
 
-1. La Secretaría, en coordinación con las dependencias y entidades competentes, elaborará los ordenamientos territoriales pesquero y acuícola a que se refiere esta Ley, debiendo publicarlos en el Periódico Oficial del Estado, previo análisis y aprobación por el Consejo.
+La aplicación de los recursos financieros deberá justificarse cumpliendo siempre con las disposiciones administrativas internas de control del gasto que dicte la Tesorería del Congreso.
 
-2. Los ordenamientos señalados en el párrafo anterior podrán modificarse por causas científicas, tecnológicas y medio ambiente o atendiendo a la sustentabilidad de los recursos pesqueros o acuícolas. Dichas modificaciones deberán publicarse en el Periódico Oficial del Estado, previo análisis y aprobación por el Consejo.
+## TITULO CUARTO
 
-### CAPÍTULO II. DEL CONSEJO ESTATAL DE PESCA Y ACUACULTURA
+### CAPITULO I. ORGANIZACION DEL CONGRESO
 
-###### ARTÍCULO 25.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-La pesca comercial, de fomento, didáctica y deportivo-recreativa, excepto la que se realice desde tierra, así como de acuacultura comercial, de fomento, didáctica y demás actividades enunciadas en la Ley General, que se realicen en los cuerpos de agua de jurisdicción federal señalados en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, deberán sujetarse a la obtención de las concesiones o permisos correspondientes, de conformidad con lo dispuesto en la Ley General o, en su caso, a los convenios o acuerdos de coordinación o colaboración que la Secretaría suscriba para tal efecto con la Federación.
+###### Artículo 50.
 
-###### ARTÍCULO 26.
+Para la realización de sus atribuciones, el Congreso del Estado cuenta con los siguientes órganos:
 
-La captura incidental en las pesquerías que se realizan en el Estado se regulará conforme a lo dispuesto por la Ley General.
+I.- Legislativos:
 
-###### ARTÍCULO 27.
+a) De Decisión:
 
-1. La Secretaría podrá otorgar concesiones o permisos para la realización de las actividades de pesca y acuacultura previstas en el artículo 28 de esta ley, en los cuerpos de agua dulce continental y dentro del territorio y zonas de jurisdicción del Estado, a personas físicas o morales de nacionalidad mexicana, previo el cumplimiento de los requisitos que se establezcan en esta ley, en el reglamento de la misma y conforme a lo dispuesto en los programas de ordenamiento y planes de manejo pesquero y acuícola, según corresponda.
+1. Pleno del Congreso; y
 
-2. No se requiere permiso de la Secretaría para la pesca realizada por los residentes aledaños y destinada para su consumo doméstico.
+2. Diputación Permanente;
 
-3. Las personas que practiquen la pesca deportivo-recreativa en agua dulce continental desde tierra, no requerirán permiso y estarán obligados a utilizar las artes de pesca y respetar las tallas mínimas y límites de captura que establezca el reglamento de esta ley o los planes de manejo pesquero correspondientes.
+b) De Dirección:
 
-###### ARTÍCULO 28.
+1. Directiva; y
 
-1. Se podrá otorgar concesión para la pesca comercial y la acuacultura comercial, cuando éstas se realicen en terrenos, fondos o aguas del dominio público estatal o de uso común ubicadas en zonas de jurisdicción estatal.
+2. Comisión de Coordinación y Régimen Interno;
 
-2. Se requiere obtener un permiso para realizar actividades de pesca comercial, de fomento, didáctica y deportivo-recreativa; de acuacultura comercial, de fomento y didáctica; de introducción y repoblación de especies vivas; de instalación y operación de laboratorios de diagnóstico y de reproducción y de recolección de reproductores u otros recursos pesqueros y acuícolas del medio natural, cuando ésta se realice en terrenos, fondos o aguas de propiedad privada.
+c) De Trabajo Legislativo:
 
-3. Las concesiones y permisos se otorgarán en función de la evaluación de los resultados que arrojen los estudios técnicos y económicos, así como de la cuantía y recuperación de la inversión.
+1. Comisiones; y
 
-4. El otorgamiento de concesiones y permisos, quedará sujeto a las modalidades que dicte el interés público, condicionado siempre a la disponibilidad y preservación del recurso de que se trate. La Secretaría basará sus decisiones en criterios de equidad social y en la información científica disponible del recurso pesquero. Asimismo, se otorgarán preferentemente a los habitantes de las comunidades locales, siempre y cuando utilicen artes de pesca autorizadas.
+2. Comités;
 
-5. La Secretaría inscribirá en el Registro las concesiones y los permisos que se otorguen en los términos de la presente ley.
+II.- De Soporte Técnico:
 
-###### ARTÍCULO 29.
+a) Oficialía Mayor;
 
-Para el otorgamiento de una concesión de un recurso pesquero por área, especie o grupo de especies para la pesca comercial, la Secretaría procederá conforme a lo siguiente:
+b) Tesorería;
 
-I. Evaluará la capacidad técnica, administrativa y financiera del solicitante;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2020)</small>
 
-II. Evaluará la trayectoria previa del solicitante en cuanto a cumplimiento de normas oficiales y otras disposiciones aplicables incluyendo las de protección del medio ambiente;
+c) Contraloría Interna;
 
-III. Priorizará las solicitudes de habitantes de las comunidades locales y las que tengan un impacto benéfico en lo económico y social en la región;
+d) Centro de Estudios Legislativos;
 
-IV. Solicitará opinión técnica al Consejo; y
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
 
-V. Una vez dictada la resolución, la Secretaría, en su caso, publicará la concesión en el Periódico Oficial del Estado, a costa del solicitante.
+e) Unidad de género
 
-###### ARTÍCULO 30.
+III.- De Apoyo:
 
-1. Los solicitantes de concesiones deberán acreditar la legal disposición de los bienes, equipos e inmuebles, en su caso, que utilizarán para cumplir con el objeto de la solicitud.
+a) Dirección de Comunicación Social;
 
-2. La solicitud de concesión deberá contener la información siguiente:
+b) Dirección de Informática;
 
-I. Estudio técnico que comprenderá por lo menos los siguientes aspectos:
+c) Coordinación de Seguridad; y
 
-a) Identificación plena del solicitante y del recurso pesquero que se pretenda capturar;
+d) Unidad de Adquisiciones.
 
-b) Caracterización de la región geográfica donde pretenda llevar a cabo la actividad;
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2014)</small>
 
-c) Definición específica y descripción detallada del proyecto, con la información que se prevea en el reglamento de esta ley;
+IV. Órgano Auxiliar del Congreso:
 
-d) Descripción de la tecnología y métodos a utilizarse en las actividades de pesca, incluyendo descripción de las características tecnológicas de la embarcación, equipos y artes de pesca con las cuales se pretende llevar a cabo la actividad; y
+a) Auditoría Superior del Estado.
 
-e) Las medidas sanitarias y técnicas de manejo.
+###### Artículo 51.
 
-II. La duración por la que pretenda sea otorgada;
+La organización y funcionamiento del Congreso por lo que corresponde a Debates, Sesiones, Iniciativas, Votaciones, Ceremonial, Procedimientos para expedición de Leyes, Decretos y Acuerdos y demás atribuciones del proceso legislativo previstas en las leyes correspondientes, se regulará por el Reglamento para el Gobierno Interior del Congreso.
 
-III. Acreditar, en su caso, inscripción en el Registro o copia de la solicitud, si se encuentra en trámite;
+### CAPITULO II. DE LA DIRECTIVA
 
-IV. Programa de repoblamiento de la especie explotada y propuesta de manejo de la pesquería o recurso en los términos que señale el reglamento;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 4 DE MAYO DE 2018)</small>
 
-V. Estudio económico que considerará la viabilidad económica del proyecto, con el monto y distribución de la inversión y los empleos que generará;
+###### Artículo 52.
 
-VI. Manifestación de impacto ambiental vigente, informe preventivo o autorización del proyecto, según corresponda, expedido por la autoridad competente, de conformidad con las disposiciones legales aplicables en materia de equilibrio ecológico y protección al ambiente, con base en principios de sustentabilidad;
+La Directiva es el órgano de dirección del Pleno del Congreso. Es responsable de la conducción de las sesiones del Pleno del Poder Legislativo, tiene las atribuciones señaladas en la presente Ley y en el Reglamento para el Gobierno Interior del Congreso. Se integra por un Presidente, que será el Presidente del Congreso, dos Vicepresidentes y dos Secretarios. La Presidencia del Congreso será rotativa entre los Grupos Legislativos, de acuerdo a su representación en el mismo. El primer año de ejercicio constitucional la ocupará un diputado del Grupo Legislativo que sea la primera minoría, el segundo año de ejercicio constitucional un diputado del Grupo Legislativo que sea de mayoría absoluta o de mayoría, y el tercer año de ejercicio constitucional será a propuesta de la Comisión de Coordinación y Régimen Interno. En cada caso, uno de los Vicepresidentes y uno de los Secretarios deberán pertenecer a Grupos Legislativos distintos al del diputado que ocupe la Presidencia. Los integrantes de la Directiva durarán un año en el cargo.
 
-VII. Autorización otorgada por la autoridad competente para el uso o aprovechamiento de aguas que requiera el proyecto, de conformidad con las disposiciones legales aplicables en materia de aguas, cuando se requiera; y
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
-VIII. Los demás lineamientos que se establezcan en la presente ley y demás ordenamientos aplicables.
+La Directiva se renovará en la primera sesión de cada año de ejercicio constitucional, pudiéndose hacer la designación en la última sesión del ejercicio anterior. La composición de la Directiva será plural. La Comisión de Coordinación y Régimen Interno hará las propuestas de quienes deberán integrarla, sin menoscabo del derecho que tiene cualquier Diputado para hacer alguna propuesta al respecto. La elección de los integrantes de la Directiva se hará por mayoría, mediante voto secreto y cédula. En caso de empate, la Comisión de Coordinación y Régimen Interno hará una nueva propuesta y las que sean necesarias, hasta conseguir la mayoría requerida.
 
-###### ARTÍCULO 31.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
-Los solicitantes de permisos deberán acreditar la legal disposición de los bienes y equipos necesarios para cumplir con el objeto de la solicitud. La solicitud de permiso deberá contener la información siguiente:
+Para cubrir las ausencias del Presidente del Congreso se atenderá lo dispuesto en el Artículo 21 del Reglamento para el Gobierno Interior del Congreso. En los casos de los demás integrantes de este órgano de dirección se procederá en base a lo dispuesto en los Artículos 27 y 29 del mismo Reglamento.
 
-I. Nombre y domicilio del solicitante;
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
 
-II. Región donde pretenda llevar a cabo la actividad;
+El cargo de Presidente del Congreso es institucional y representa al conjunto de la Legislatura, por lo que podrá optar por no formar parte de las Comisiones de Dictamen Legislativo, Comités o Comisión de Vigilancia previstos por la presente Ley.
 
-III. La duración que se pretenda;
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
 
-IV. Acreditar, en su caso, su inscripción en el Registro o copia de la solicitud, si se encuentra en trámite;
+Si la presidencia hubiese recaído en los primeros dos años de la legislatura en diputados del mismo género, el tercer año de la legislatura deberá recaer en un género distinto.
 
-V. Descripción de las características tecnológicas de la embarcación, equipos y artes de pesca con las cuales se pretende llevar a cabo la actividad; y
+###### Artículo 53.
 
-VI. Los demás lineamientos que se establezcan en el reglamento de la presente ley y demás ordenamientos aplicables.
+Se expedirá Decreto en el que conste el nombramiento de los integrantes de la Directiva del Congreso del Estado el que se enviará al Ejecutivo para su publicación en el Periódico Oficial y demás efectos legales.
 
-###### ARTÍCULO 32.
+Por oficio se comunicará al Ejecutivo y al Poder Judicial del Estado y además a las Autoridades de los Estados y de la Federación.
 
-1. Las concesiones y permisos que se otorguen serán a favor de quien lo solicite, improrrogables e intransferibles.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-2. Para el procedimiento de trámite, seguimiento, duración, terminación, renovación y cancelación de las concesiones y permisos se aplicará lo dispuesto en esta ley y su reglamento.
+###### Artículo 54.
 
-## TÍTULO SEGUNDO. DE LA COMPETENCIA, CONCURRENCIA Y COORDINACIÓN
+La Directiva tiene las siguientes atribuciones:
 
-### CAPÍTULO I. DEL FOMENTO
+I.- Integrarse como un cuerpo coordinador de los trabajos del Pleno del Congreso;
 
-###### ARTÍCULO 33.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-1. Los acuacultores podrán organizarse en unidades de manejo acuícola para propiciar el desarrollo integral, ordenado y sustentable de su actividad, para lo cual deberán constituirse y administrar en la forma más conveniente para operar dicha unidad.
+II.- Conducir las sesiones del Congreso y garantizar el adecuado desarrollo de los debates, discusiones y votaciones del Pleno;
 
-2. Cada unidad de manejo acuícola elaborará su propio reglamento interno, en el que deberán señalarse, entre otros aspectos, la forma de organización y administración, así como los derechos y obligaciones de cada granja o establecimiento, con respecto al uso y mantenimiento de todas las obras comunes.
+III.- Cuidar que las deliberaciones se den con absoluta libertad en la Tribuna del Congreso;
 
-###### ARTÍCULO 34.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-La Secretaría autorizará y vigilará el funcionamiento de las unidades de manejo acuícola, previo cumplimiento de los requisitos establecidos en el reglamento de esta ley, así como en observancia del Programa Estatal de Desarrollo Pesquero y Acuícola y de los programas de ordenamiento y planes de manejo acuícola.
+IV.- Formular, someter a la aprobación del Pleno del Congreso y cumplir, el orden del día para las sesiones;
 
-###### ARTÍCULO 35.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-Cada integrante será responsable en lo individual de que la unidad de manejo acuícola cumpla en todo momento con lo establecido en la presente ley y en el plan de manejo acuícola, sin menoscabo de las obligaciones que le correspondan por la operación de su granja o unidad de producción en particular.
+V.- Vigilar que el desarrollo de las sesiones y los actos emanados de las mismas, se encuentren apegados a esta Ley, al Reglamento para el Gobierno Interior del Congreso y a las demás disposiciones legales aplicables;
 
-###### ARTÍCULO 36.
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-1. La Secretaría desarrollará el Sistema Estatal, que tendrá por objeto capturar, actualizar, organizar y difundir la información relativa a las actividades pesquera y acuícola que se realicen en el Estado, con el fin de generar:
+VI.- Designar las comisiones de cortesía que juzgue pertinentes; y
 
-l. El anuario estadístico de pesca y acuacultura;
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-II. El Registro Estatal de Pesca y Acuacultura; y
+VII.- Las demás que le atribuyen esta Ley, el Reglamento para el Gobierno Interior y otras disposiciones legales aplicables.
 
-III. Los indicadores de desarrollo del sector;
+###### Artículo 55.
 
-2. Asimismo, integrará la información siguiente:
+El ejercicio de las atribuciones del Congreso que no correspondan específicamente a la Directiva o a otro de los órganos del Congreso en particular, serán competencia de quien el Pleno determine.
 
-I. La Carta Estatal de Pesca y Acuacultura;
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
-II. Los planes de ordenamiento y manejo pesquero y acuícola;
+###### Artículo 56.
 
-III. Los resultados del programa estatal de investigación y desarrollo tecnológico en materia pesquera y acuícola; y
+Al llegar al término de su cargo los integrantes de la Directiva rendirán al Pleno del Congreso, a través del Presidente, un informe por escrito de todas las actividades realizadas en el ejercicio de sus funciones, entregando archivo electrónico del mismo a cada uno de los Diputados que integran la Legislatura.
 
-IV. La que considere la Secretaría para fomentar el desarrollo integral y sustentable de la actividad acuícola y pesquera.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
-###### ARTÍCULO 37.
+###### Artículo 57.
 
-La Secretaría difundirá la información del Sistema Estatal en su página electrónica, de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
+Cuando se celebre Período Extraordinario de Sesiones, la Directiva en funciones será la que haya sido electa en términos del artículo 52 de esta Ley para el año que corresponda.
 
-###### ARTÍCULO 38.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-1. La Secretaría establecerá el Registro, que tiene por objeto la inscripción y actualización obligatoria de la siguiente información relativa a la actividad pesquera y acuícola:
+###### Artículo 58.
 
-I. Las granjas o unidades de producción acuícolas, unidades de manejo acuícola, su clasificación, denominación y ubicación en el Estado;
+La Directiva a través del Presidente, hará respetar en todo momento, la integridad física de los Diputados, la inviolabilidad del recinto legislativo y de las instalaciones del Congreso, para ello tendrá el mando de la fuerza pública en el recinto e instalaciones del Congreso.
 
-II. Los permisos o concesiones otorgados en términos de esta ley para la realización de actividades de pesca y acuacultura;
+###### Artículo 59.
 
-III. Las embarcaciones y datos de identificación correspondientes, destinadas a la actividad pesquera;
+Los actos de los integrantes de la directiva, ejecutados en contra de la Ley serán nulos de pleno derecho.
 
-IV. Los programas de ordenamiento y planes de manejo pesquero y acuícola;
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-V. Las personas físicas o morales que cuenten con certificados de sanidad, inocuidad o calidad;
+###### Artículo 60.
 
-VI. Las instituciones que realizan investigación o enseñanza en materia de flora y fauna acuáticas aprovechables para la pesca y acuacultura; y
+Son atribuciones de los integrantes de la Directiva las siguientes:
 
-VII. La información que la Secretaría determine por su utilidad para planear el desarrollo integral y sustentable de la pesca y la acuacultura en el Estado.
+I.- Del Presidente:
 
-2. La organización y funcionamiento del Registro se determinará en el reglamento de esta ley.
+a) Ser el Presidente del Congreso durante el período para el que haya sido electo;
 
-3. La Secretaría remitirá a la SAGARPA la información correspondiente al Registro, para la actualización del Registro Nacional de Pesca y Acuacultura.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-###### ARTÍCULO 39.
+b) Hacer respetar la integridad física de los Diputados, la inviolabilidad del recinto legislativo y las instalaciones del Congreso;
 
-Las personas físicas o morales que realicen actividades pesqueras o acuícolas en el Estado, están obligadas a inscribirse en el Registro y mantener actualizada su información. La Secretaría expedirá el certificado del registro correspondiente.
+c) Representar al Poder Legislativo en los asuntos de carácter legal y protocolario, pudiendo delegar dicha representación de acuerdo a lo dispuesto en el Reglamento para el Gobierno Interior del Congreso del Estado;
 
-## TÍTULO TERCERO. DE LA POLÍTICA ESTATAL DE PESCA Y ACUACULTURA SUSTENTABLES
+d) Dar respuesta al informe que rinda el Gobernador al Congreso, en los términos señalados en el artículo 57 de la Constitución Política del Estado.
 
-### CAPÍTULO II. DEL FINANCIAMIENTO Y APOYOS
+e) Conducir las relaciones institucionales con los otros dos Poderes del Estado, con los órganos estatales constitucionalmente dotados de autonomía, con las Cámaras de Diputados y Senadores del Congreso de la Unión y con las Legislaturas de los estados de la República;
 
-###### ARTÍCULO 40.
+f) Llevar a cabo, a través de la Oficialía Mayor, las notificaciones que determine por sí o que acuerde el Pleno del Congreso;
 
-La Secretaría conservará el archivo de los documentos que contengan la información inscrita en el Registro, de conformidad con el reglamento de esta ley, y demás normatividad aplicable en cuanto al manejo y conservación de información pública.
+g) Conceder el uso de la palabra, dirigir los debates, discusiones y deliberaciones, así como ordenar se proceda a las votaciones y formular la declaratoria correspondiente;
 
-###### ARTÍCULO 41.
+h) Firmar junto con los Secretarios las leyes, decretos y acuerdos que expida el Congreso;
 
-Para salvaguardar la sanidad, calidad e inocuidad de los recursos pesqueros y acuícolas, la Secretaría coordinará acciones o celebrará convenios de colaboración con las dependencias o entidades de la administración pública federal, estatal o municipal competentes, así como con los particulares, sus organizaciones u organismos no gubernamentales, con el objeto de:
+i) Convocar a las reuniones de la Directiva del Congreso;
 
-I. Realizar acciones de monitoreo, verificación sanitaria, prevención, control y saneamiento de los recursos pesqueros y acuícolas;
+j) Ordenar lo conducente para cumplimentar lo dispuesto en el artículo 63 de la Constitución Política del Estado;
 
-II. Realizar la verificación sanitaria, física y documental, así como la sanitización de equipos de embalaje y transporte de productos pesqueros y acuícolas, en los Puntos de Verificación Interna que opera el SENASICA y la COTASAG en el Estado;
+k) Hacer del conocimiento del Pleno del Congreso, en sesión pública y al final de cada Período de Sesiones, la asistencia e inasistencia de cada uno de los integrantes de la Legislatura a las sesiones del Pleno, de las Comisiones y de los Comités de que formen parte; y
 
-III. Aplicar las disposiciones legales y las medidas sanitarias, de inocuidad y de calidad acuícola y pesquera establecidas por la autoridad competente;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2020)</small>
 
-IV. Vigilar que la operación de los laboratorios de diagnóstico y de reproducción, cumplan con los procesos de acreditación o certificación reconocidos por las autoridades competentes en la materia;
+l) Recibir a nombre del Congreso las solicitudes de audiencia pública, para lo cual tendrá un plazo para dar respuesta de hasta 15 días hábiles; y
 
-V. Promover directamente o en coordinación con las demás autoridades competentes, las campañas de prevención, diagnóstico y control sanitario tendientes a proteger los recursos pesqueros y acuícolas;
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 20 DE ENERO DE 2020)</small>
 
-VI. Requerir a los acuacultores, en cualquier momento la exhibición de los certificados de sanidad acuícola expedidos por las autoridades competentes;
+m) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
 
-VII. Promover y vigilar el establecimiento y operación de estaciones cuarentenarias;
+II.- De los Vicepresidentes:
 
-VIII. Fomentar la realización de estudios para identificar, prevenir, controlar y erradicar enfermedades que afecten o puedan afectar a los recursos pesqueros y acuícolas;
+a) Asistir al Presidente de la Directiva en el ejercicio de sus funciones;
 
-IX. Impulsar el intercambio de información con instituciones nacionales o internacionales en materia de sanidad, inocuidad y calidad de los recursos pesqueros y acuícolas;
+b) Sustituirlo en la conducción de las sesiones de acuerdo a lo dispuesto en el artículo 21 del Reglamento para el Gobierno Interior del Congreso; y
 
-X. Inducir el cumplimiento y verificar la aplicación de buenas prácticas de manejo y manufactura en los procesos de producción y procesamiento de productos pesqueros y acuícolas;
+c) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
 
-XI. Realizar acciones para obtener el reconocimiento o certificación de calidad e inocuidad de las autoridades competentes, en los productos pesqueros y acuícolas del Estado; y
+III.- De los Secretarios, por su orden:
 
-XII. Realizar las demás acciones en materia de sanidad, inocuidad y calidad pesquera y acuícola que establezca la presente ley, su reglamento y los planes de manejo.
+a) Asistir al Presidente de la Directiva en las funciones relacionadas con la conducción de las sesiones del Pleno;
 
-###### ARTÍCULO 42.
+b) Comprobar el quórum de las sesiones del Pleno, llevar a cabo el cómputo y registro de las votaciones y dar a conocer el resultado de éstas;
 
-Para el desarrollo de las acciones descritas en el artículo anterior en todas las unidades de producción y procesamiento de productos pesqueros y acuícolas del Estado, la Secretaría podrá requerir la participación del Comité de Sanidad, de los comités o asociaciones de productores legalmente constituidas que considere convenientes, de los organismos no gubernamentales relacionados con el sector o de las entidades de la administración pública estatal con interés directo en la materia, mediante oficio y/o convenio en el que se especifiquen las acciones a realizar en apoyo de la Secretaría, así como la obligación de presentar por escrito un informe circunstanciado de dichas acciones y sus resultados a la conclusión de las mismas.
+c) Previo acuerdo con el Presidente, dar cuenta a la Asamblea de los asuntos en cartera;
 
-###### ARTÍCULO 43.
+d) Expedir las certificaciones que disponga el Presidente del Congreso; y
 
-Los requisitos, criterios y procedimientos específicos para el desarrollo de las acciones descritas en el artículo 41 se establecerán en el reglamento de la presente ley. Los casos no previstos se someterán a dictamen del Consejo para su resolución.
+e) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
 
-###### ARTÍCULO 44.
+IV.- De los Secretarios, en forma conjunta e independientemente de su orden:
 
-La Secretaría promoverá la investigación y el desarrollo tecnológico en pesca y acuacultura, así como la innovación y transferencia de tecnología en estas materias, las cuales tendrán como propósitos esenciales:
+a) Cuidar de que circulen con toda oportunidad entre los Diputados, los dictámenes de las Comisiones y las iniciativas que los motiven, debiendo remitir ejemplares de los dictámenes a los Poderes Ejecutivo y Judicial, cuando así se considere pertinente;
 
-I. La conservación, protección, restauración y aprovechamiento sustentable de los recursos pesqueros y acuícolas del Estado;
+b) Supervisar la formulación de las actas de cada sesión, vigilar que sean sometidas a consideración del Pleno, firmarlas con el Presidente una vez que hayan sido aprobadas y turnarlas a la Oficialía Mayor para su archivo;
 
-II. La promoción de nuevas artes y métodos de pesca selectivos y ambientalmente seguros, aprobados por las autoridades competentes;
+c) Asegurarse de que se elabore el Diario de Debates y firmarlo;
 
-III. La generación y aplicación de tecnología en materia de sanidad, inocuidad y calidad acuícola y pesquera;
+d) Firmar, junto con el Presidente, las leyes, decretos y acuerdos expedidos por el Congreso;
 
-IV. El establecimiento de medidas encaminadas al ordenamiento pesquero y acuícola y planes de manejo pesquero;
+e) Firmar la correspondencia oficial del Congreso; y
 
-V. El mejoramiento genético de las especies cultivadas y susceptibles de cultivo;
+f) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
 
-VI. La innovación, validación y transferencia de tecnología para el mejoramiento de los procesos de producción, procesamiento y comercialización de productos pesqueros y acuícolas; y
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-VII. La actualización de la Carta Nacional Pesquera y la elaboración y actualización de la Carta Estatal de Pesca y Acuacultura.
+Artículo 60 BIS.- Los integrantes de la Directiva podrán ser removidos de sus cargos por incumplimiento de sus atribuciones, siendo necesario para tal efecto el voto de la mayoría simple de los Diputados presentes en la sesión y la audiencia del interesado.
 
-###### ARTÍCULO 45.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2000)</small>
 
-Para el logro de los propósitos descritos en el artículo anterior, la Secretaría:
+### CAPITULO III. LA COMISION DE COORDINACION Y REGIMEN INTERNO
 
-I. Establecerá y operará el programa estatal de investigación, desarrollo tecnológico y vinculación productiva en materia pesquera y acuícola, como instrumento para identificar concentrar y vincular las necesidades del sector, las líneas de investigación de las instituciones dedicadas a este rubro y las fuentes de financiamiento; definir directrices, prioridades y lineamientos para el dictamen de los proyectos; sancionar, validar, resguardar y difundir los resultados de la investigación, así como fomentar y dar seguimiento a su incorporación en los procesos productivos;
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-II. Participará en el dictamen, seguimiento y evaluación de los proyectos de investigación, validación y transferencia tecnológica del sector pesquero y acuícola financiados con recursos federalizados, a través de las asociaciones civiles o de la organización o institución encargada de administrar dichos recursos; y
+###### Artículo 61.
 
-III. Podrá celebrar convenios de colaboración con el Consejo Tamaulipeco de Ciencia y Tecnología, el Instituto Nacional de Pesca, las Instituciones de enseñanza e investigación en materia de pesca y acuacultura, los organismos no gubernamentales relacionados con el sector o las entidades de la administración pública estatal con interés directo en la materia.
+La Comisión de Coordinación y Régimen Interno es el órgano colegiado encargado de dirigir la administración operativa del Congreso, así como de promover entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios a fin de alcanzar acuerdos para que el Pleno del Congreso esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
 
-###### ARTÍCULO 46.
+La Comisión de Coordinación y Régimen Interno tiene las atribuciones que le señala la presente Ley y el Reglamento para el Gobierno Interior del Congreso del Estado. Se compondrá por un Presidente, un Vicepresidente, un Secretario y los Vocales que resulten de su integración.
 
-1. Las autoridades competentes podrán realizar, por conducto del personal debidamente autorizado, visitas de inspección para verificar el cumplimiento de este ordenamiento.
+Para efectos de la integración de esta Comisión se tendrá como denominaciones de los Grupos Legislativos las siguientes:
 
-2. Dichas visitas podrán ser ordinarias, que se efectuarán en días y horas hábiles, y extraordinarias, que podrán efectuarse en todo momento.
+I.- Grupo Legislativo de mayoría absoluta: El que esté integrado por al menos, la mitad más uno de los Diputados de la Legislatura;
 
-###### ARTÍCULO 47.
+II.- Grupo Legislativo de mayoría: El Grupo Legislativo que sin estar comprendido en el supuesto de la fracción anterior, esté integrado por más Diputados que cualquier otro Grupo Legislativo en la Legislatura; y,
 
-1. Para practicar una visita, los inspectores deberán contar con identificación vigente con fotografía, emitida por la autoridad administrativa correspondiente que los acredite para desempeñar dicha función, así como estar provistos de orden escrita con firma autógrafa expedida por la autoridad competente, debidamente fundada y motivada, en la que deberá señalarse zona o el lugar que habrá de inspeccionarse, el objeto de la visita y el alcance que deba tener ésta.
+III.- Primer minoría, segunda minoría, tercer minoría, y subsecuentes: Los Grupos Legislativos que después del Grupo Legislativo de mayoría absoluta o del de mayoría, tengan mayor cantidad de integrantes, en orden decreciente, respectivamente.
 
-2. Al iniciar la visita, el inspector deberá identificarse debidamente y entregar copia autógrafa de la orden de inspección al propietario, responsable, encargado u ocupante del establecimiento y con dicha persona se entenderá la visita de inspección.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2018)</small>
 
-###### ARTÍCULO 48.
+Con el único efecto de integrar, organizar y dar funcionalidad a la Comisión de Coordinación y Régimen Interno, si dos o más Grupos Legislativos tienen el mismo número de Diputados, la referencia para la denominación correspondiente será, el número de Diputados de Mayoría Relativa del conjunto de integrantes de cada Grupo Legislativo que se encuentre en la situación de empate y si persiste el empate por la cantidad de votos obtenidos por el conjunto de integrantes de cada Grupo Legislativo, en las elecciones constitucionales en que fueron electos. Fuera de esta Comisión y frente a cualquier instancia, en caso de empate, la denominación atenderá al número de Diputados que componen cada Grupo Legislativo, reflejando fielmente su representación real en el Congreso, pudiendo en consecuencia, existir dos o más Grupos Legislativos bajo la misma denominación, sin menoscabo del nombre correspondiente al origen partidista de sus miembros en los términos del artículo 40 de esta Ley.
 
-1. Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de inspección, estarán obligados a permitir el acceso y dar facilidades e informes a los inspectores para el desarrollo de su labor.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-2. La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o varias personas obstaculicen o se opongan a la práctica de la misma, sin demérito a las sanciones que correspondan.
+###### Artículo 62.
 
-###### ARTÍCULO 49.
+La integración de la Comisión de Coordinación y Régimen Interno se basa en los principios de democracia y pluralidad, así como en la representatividad que cada Grupo Legislativo tiene en el Congreso del Estado.
 
-1. En materia de inspección y vigilancia pesquera y acuícola, la Secretaría podrá celebrar convenios de coordinación para apoyarse con la autoridad federal competente, con las dependencias estatales de seguridad pública, de protección al medio ambiente, con los municipios o con las organizaciones de productores legalmente constituidas.
+La integración de la Comisión de Coordinación y Régimen Interno se regirá de acuerdo a las siguientes normas:
 
-2. Para efectos de lo anterior la Secretaría, con base en el citado convenio, formulará, ejecutará y evaluará el Programa Integral de Inspección y Vigilancia, para la prevención, disuasión y combate a la pesca furtiva.
+I.- Si un Grupo Legislativo tiene mayoría absoluta en la Legislatura:
 
-## TÍTULO CUARTO. DEL FOMENTO A LA PESCA Y A LA ACUACULTURA
+a) Forman parte de esta Comisión:
 
-### CAPÍTULO I. DE LOS PROGRAMAS DE ORDENAMIENTO Y PLANES DE MANEJO
+1. Los Coordinadores de los Grupos Legislativos constituidos en el Congreso;
 
-###### ARTÍCULO 50.
+2. Los Diputados que sean necesarios para garantizar que el Grupo Legislativo de mayoría absoluta esté representado con la mitad más uno de los integrantes de esta Comisión. Estos Diputados serán designados por acuerdo de su Grupo Legislativo; y
 
-1. En las labores de inspección y vigilancia para el cumplimiento de esta ley y de las disposiciones que de ella deriven, se podrán utilizar todos aquellos instrumentos que aporten los descubrimientos y avances científicos y tecnológicos, siempre que su utilización no se encuentre restringida o prohibida por las leyes nacionales correspondientes.
+3. Un Diputado designado por acuerdo del Grupo Legislativo que sea la primer minoría.
 
-2. Los elementos que arrojen los instrumentos a que se refiere este artículo, se considerarán como medios de prueba y tendrán el valor probatorio que se determine en las disposiciones jurídicas aplicables.
+b) Los cargos en la Comisión de Coordinación y Régimen Interno se asignarán de la siguiente forma:
 
-###### ARTÍCULO 51.
+1. Presidente: El Coordinador del Grupo Legislativo de mayoría absoluta;
 
-1. Al iniciarse la inspección se levantará acta circunstanciada, en presencia de dos testigos propuestos por la persona con quien se entienda la visita; si éstos no son designados o los designados no aceptan servir como tales, los inspectores los designarán. Quienes sean designados como testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la inspección, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigos, en tales, circunstancias la persona con la que se entienda la inspección deberá designar de inmediato otros y ante la negativa o impedimento de los designados, los inspectores podrán designar a quienes deban sustituirlos.
+2. Vicepresidente: El Coordinador del Grupo Legislativo que represente a la primer minoría;
 
-2. La sustitución, concurrencia o ausencia de los testigos no afectará la validez de la visita ni del acta, siempre y cuando el verificador haga constar la circunstancia en esta última.
+3. Secretario: Un integrante de la Comisión nombrado por ésta; y
 
-3. Se dejará copia del acta circunstanciada a la persona con quien se entendió la diligencia, aunque se hubiere negado a firmar, lo que no afectará la validez de la misma ni del documento de que se trate.
+4. Vocales: Los demás integrantes de la Comisión.
 
-4. La persona con quien se entienda la visita, podrá formular observaciones al final de la misma, las cuales deberán quedar asentadas en el acta; asimismo, podrá ofrecer pruebas en relación a los hechos contenidos en ella, o bien ofrecerlas por escrito dentro del término de cinco días hábiles siguientes a la fecha en que se hubiere levantado.
+II.- Si ningún Grupo Legislativo tiene mayoría absoluta en el Congreso:
 
-### CAPÍTULO II. DE LAS CONCESIONES Y PERMISOS DE PESCA Y ACUACULTURA
+a) Forman parte de esta Comisión:
 
-###### ARTÍCULO 52.
+1. Los Coordinadores de los Grupos Legislativos constituidos en el Congreso;
 
-En las actas de inspección y vigilancia se hará constar, lo siguiente:
+2. Dos Diputados del Grupo Legislativo de mayoría, designados por acuerdo de su Grupo Legislativo; y
 
-I. Nombre, denominación o razón social del inspeccionado;
+3. Un Diputado designado por acuerdo del Grupo Legislativo que sea la primer minoría.
 
-II. Hora, día, mes y año en que se inicie y concluya la diligencia;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2010)</small>
 
-III. Calle, número, población, colonia o alguna otra referencia para establecer su ubicación geográfica, así como teléfono u otra forma de comunicación disponible, además del municipio y código postal en que se encuentre ubicado el lugar donde se practique la visita;
+b) Los cargos en la Comisión de Coordinación y Régimen Interno serán ocupados de acuerdo a lo siguiente:
 
-IV. Número y fecha del oficio que contenga la orden, así como autoridad que la expide;
+1. Presidente: El Coordinador del Grupo Legislativo de mayoría;
 
-V. Nombre y cargo de la persona con quien se entendió la diligencia;
+2. Vicepresidente: El Coordinador del Grupo Legislativo que sea la primer minoría;
 
-VI. Nombre, domicilio y forma de identificación de las personas que fungieron como testigos;
+3. Secretario: El Coordinador del Grupo Legislativo que sea la segunda minoría; y
 
-VII. Hechos circunstanciados referentes a la actuación;
+4. Vocales: Los demás integrantes de la Comisión.
 
-VIII. Manifestación del visitado, en su caso, si quiere hacerla o razón de su negativa; y,
+c) (DEROGADO, P.O. 19 DE JULIO DE 2010)
 
-IX. Nombre y firma de quienes intervinieron en la diligencia incluyendo los de quien o quienes la hubieren llevado a cabo. Si se negaren a firmar el visitado o su representante legal, ello no afectará la validez del acta, debiendo el verificador asentar, en su caso, la razón correspondiente.
+d) (DEROGADO, P.O. 19 DE JULIO DE 2010)
 
-###### ARTÍCULO 53.
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-La propiedad o legal procedencia de los recursos pesqueros o acuícolas se acreditará con los siguientes documentos, según corresponda:
+Artículo 62 BIS.- Son reglas para la funcionalidad de la Comisión de Coordinación y Régimen Interno:
 
-I. El aviso de arribo presentado a la autoridad competente;
+I.- Sobre la participación en las sesiones: Los integrantes de esta Comisión tendrán derecho de voz y voto ponderado. El voto ponderado de cada integrante de esta Comisión, será el resultado de dividir la cantidad de Diputados de la Legislatura pertenecientes al mismo Grupo Legislativo del cual forma parte, entre la cantidad de integrantes de esta Comisión que pertenecen a su propio Grupo Legislativo.
 
-II. El permiso de pesca deportivo-recreativa expedido por la autoridad competente;
+II.- Sobre el quórum legal de sesiones: Para que la sesión pueda celebrarse se requerirá la asistencia de los integrantes de esta Comisión que en conjunto representen al menos, más del cincuenta por ciento de los Diputados que componen la Legislatura.
 
-III. El aviso de cosecha presentado a la autoridad competente;
+III.- Sobre las Decisiones y los acuerdos: Para que las decisiones y acuerdos de esta Comisión sean válidos, se requerirá el voto ponderado de los integrantes de la misma que en conjunto representen al menos, más del cincuenta por ciento de los Diputados que componen la Legislatura.
 
-IV. La guía de pesca o aviso de producción expedido por la autoridad competente;
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2003)</small>
 
-V. El permiso de importación; o
+Las Sesiones de la Comisión de Coordinación y Régimen Interno serán públicas, salvo determinación en contrario de la mayoría de sus integrantes. Podrán participar en las reuniones, a invitación de su Presidente, representantes de grupos de interés, peritos u otras personas, por acuerdo tomado por la mayoría de sus integrantes; de igual forma, el Presidente de la Comisión podrá autorizar la presencia de asesores y personal de apoyo para el desarrollo de los trabajos.
 
-VI. La factura de compra, en la que se señale el número y tipo de permiso de pesca, de aviso de cosecha, de la guía de pesca, del aviso de producción, o del nombre, tipo y folio del documento oficial que dio origen al recurso producto de la venta.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-###### ARTÍCULO 54.
+###### Artículo 63.
 
-1. El traslado por vía terrestre o aérea de recursos pesqueros o acuícolas vivos, frescos, enhielados o congelados sólo podrán realizarse al amparo de la guía de pesca expedida por la autoridad competente.
+La Comisión de Coordinación y Régimen Interno quedará instalada en la tercera sesión del Primer Período Ordinario del Primer Año de Ejercicio Constitucional de cada Legislatura.
 
-2. Se exceptúan del requisito de tramitar la guía de pesca a los permisionarios de la pesca deportivo-recreativa, quienes deberán portar para ello únicamente el permiso respectivo que ampara la legal procedencia de los mismos.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-3. Tampoco requerirán de guía de pesca quienes trasladen los productos para su consumo doméstico directo.
+###### Artículo 64.
 
-###### ARTÍCULO 55.
+A la Comisión de Coordinación y Régimen Interno le corresponde:
 
-La Secretaría podrá celebrar convenios de coordinación con las autoridades competentes, a efecto de expedir y verificar la guía de pesca.
+I.- Conducir las relaciones de esta Comisión con órganos similares;
 
-###### ARTÍCULO 56.
+II.- Promover entendimientos y convergencias políticas entre los Grupos Legislativos para la presentación de iniciativas, así como para la formulación de acuerdos y dictámenes que requieran ser votados por el Pleno del Congreso;
 
-El transportista deberá exhibir la guía de pesca cuando le sea requerida en los puntos de verificación a que se refiere esta ley.
+III.- Proponer al Pleno del Congreso:
 
-###### ARTÍCULO 57.
+a) A los integrantes de las Comisiones y de los Comités, así como la sustitución de los mismos cuando su designación corresponda al Pleno y exista causa justificada para ello;
 
-Los establecimientos instalados en el Estado en los que se desarrollen, cultiven, procesen o expendan al público productos acuícolas y pesqueros deberán identificar y comprobar el origen de los mismos o contar con el certificado de sanidad acuícola o el certificado de sanidad de origen respectivo, según corresponda.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
 
-###### ARTÍCULO 58.
+b) A más tardar en la décima sesión del Primer Periodo Ordinario de sesiones del Primer Año de Ejercicio Constitucional, la Agenda Legislativa que contendrá los temas que deberán analizarse durante la Legislatura, así como la agenda temática mínima para ese periodo de sesiones.
 
-La Secretaría coordinará acciones para detectar y prevenir el riesgo sanitario en la internación o movilización de recursos pesqueros o acuícolas vivos, productos, subproductos o insumos, equipos, materiales de empaque y embalaje destinados a la actividad pesquera o acuícola, y verificar que éstos se encuentren libres de agentes patógenos o contaminantes.
+A excepción del periodo de inicio de la Legislatura, en la cuarta sesión de cada Periodo Ordinario de Sesiones, la Comisión de Coordinación y Régimen Interno, propondrá al Pleno para su discusión, modificación en su caso y aprobación, la agenda temática mínima que regirá los trabajos legislativos correspondientes al periodo respectivo.
 
-###### ARTÍCULO 59.
+Para tal efecto, los Grupos Legislativos que integran el Congreso del Estado, deberán presentar, a más tardar 15 días antes del inicio de cada Periodo de Sesiones, una relación de temas o asuntos que estimen prioritarios para discutir su inclusión a la agenda temática mínima, remitiendo su propuesta a la Comisión de Coordinación y Régimen Interno, la cual realizará el proyecto respectivo, así como al Centro de Estudios Legislativos quien participará en la elaboración de la referida agenda, de acuerdo a las instrucciones que reciba de dicho órgano de dirección.
 
-Son infracciones a lo establecido en la presente ley, su reglamento y los planes de manejo pesquero y acuícola:
+c) La designación y la remoción del Oficial Mayor, del Tesorero y del Director del Centro de Estudios Legislativos, de acuerdo a lo dispuesto en los artículos 81 y 82 de la presente Ley;
 
-I. Realizar las actividades de pesca o acuacultura comercial sin contar con el permiso o concesión correspondiente;
+d) El Presupuesto Anual del Poder Legislativo; y
 
-II. No cumplir con la obligación de inscripción y actualización en el Registro Estatal de Pesca y Acuacultura, en los términos de esta ley y su reglamento;
+e) Proyectos de acuerdo sobre asuntos que le sean turnados.
 
-III. Recolectar del medio ambiente natural recursos pesqueros en cualquier estadío, sin contar con el permiso respectivo;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
 
-IV. Realizar actividades de introducción o repoblación de recursos pesqueros o acuícolas sin contar con el permiso correspondiente;
+IV.- Dirigir por sí, o través de su Presidente por acuerdo de sus integrantes, los servicios administrativos internos del Congreso, con excepción del Órgano Auxiliar del Congreso;
 
-V. Realizar actividades de pesca deportivo-recreativa sin contar con el permiso respectivo;
+V.- Administrar el ejercicio del presupuesto del Congreso a través de la Tesorería;
 
-VI. Comercializar las capturas de la pesca deportivo-recreativa;
+VI.- Autorizar adquisiciones de bienes y contratación de servicios para la función legislativa, en los términos del Reglamento para el Gobierno Interior del Congreso del Estado;
 
-VII. Sustituir al titular de los derechos consignados en los permisos;
+VII.- Convocar a los titulares de los Órganos de Soporte Técnico y de Apoyo dependientes de la Comisión de Coordinación y Régimen Interno a las reuniones semestrales de planeación y organización de las actividades administrativas del Congreso. El Presidente de este órgano de dirección dirigirá dichas reuniones;
 
-VIII. Infringir las disposiciones contenidas en los permisos;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2002)</small>
 
-IX. Falsificar o alterar la información contenida en los permisos o documentos que acreditan su inscripción en el Registro Estatal de Pesca y Acuacultura;
+VIII.- Nombrar y remover al personal del Congreso, resolver sobre las renuncias y licencias que éstos presenten, así como de los procedimientos de responsabilidad administrativa;
 
-X. Abstenerse de presentar los avisos de arribo y de producción, así como los informes de siembra y de cosecha;
+IX.- Aprobar el Manual de Organización y Procedimientos del Congreso, así como otras disposiciones normativas relativas a los asuntos de su competencia;
 
-XI. Utilizar instrumentos, métodos o artes de pesca que no estén permitidos por la autoridad competente;
+X.- Conocer de las propuestas de los titulares de los Órganos de Soporte Técnico y de Apoyo dependientes de este órgano de dirección sobre los siguientes asuntos:
 
-XII. No contar con los documentos previstos en la presente ley para acreditar la legal procedencia de los recursos pesqueros o acuícolas;
+a) La Organización interna y procedimientos del órgano a su cargo; y
 
-XIII. Transportar recursos pesqueros o acuícolas sin contar con la guía de pesca correspondiente;
+b) Los Programas de Actividades del órgano a su cargo.
 
-XIV. Simular actos de pesca de consumo doméstico o deportivo-recreativa, con el propósito de lucrar con los productos obtenidos de la captura;
+XI.- Aprobar el Calendario de Actividades del Congreso que le proponga la Oficialía Mayor;
 
-XV. Facturar o amparar recursos pesqueros o acuícolas que no hubieren sido obtenidos en los términos del permiso correspondiente;
+XII.- Aprobar las políticas de sueldos y programas de incentivos para personal del Congreso que le proponga el Comité de Administración;
 
-XVI. Capturar, transportar o comercializar especies cuyo origen sea de zonas y en periodos establecidos como veda, así como especies con talla o peso inferiores al mínimo especificado por las normas oficiales mexicanas y/o planes de manejo pesquero;
+XIII.- Coadyuvar en las actividades que se encomienden a las Comisiones y a los Comités; y
 
-XVII. Omitir el cumplimiento de las resoluciones o medidas sanitarias establecidas en la Ley General, en la presente ley y en los ordenamientos jurídicos aplicables;
+XIV.- Las demás que le confieren esta Ley y el Reglamento para el Gobierno Interior del Congreso.
 
-XVIII. Poner en situación de riesgo sanitario, por cualquier medio, los recursos pesqueros y acuícolas;
+## TITULO QUINTO
 
-XIX. No proporcionar la información en los términos y plazos que solicite la Secretaría o incurrir en falsedad al rendir ésta;
+### CAPITULO I. DE LOS ORGANOS DE TRABAJO LEGISLATIVO
 
-XX. Impedir el acceso a las instalaciones acuícolas, pesqueras, de procesamiento o expendios al personal autorizado por la Secretaría; y
+###### Artículo 65.
 
-XXI. Cualquiera otra contravención a lo dispuesto en la presente ley, su reglamento o en los planes de manejo.
+Son Organos de Trabajo para el despacho de los asuntos del Congreso del Estado:
 
-###### ARTÍCULO 60.
+I.- Las Comisiones; y
 
-1. Las infracciones a los preceptos de la presente ley, su reglamento y los planes de manejo pesquero y acuícola señaladas en el artículo anterior, serán sancionadas administrativamente por la Secretaría con una o más de las siguientes sanciones:
+II.- Los Comités.
 
-I. Amonestación con apercibimiento;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+###### Artículo 66.
 
-II. Imposición de multa económica, que será de cincuenta a dos mil veces el valor diario de la Unidad de Medida y Actualización;
+El Pleno del Congreso para la resolución de los asuntos que le fueren turnados funcionará con las siguientes Comisiones:
 
-III. El aseguramiento de los recursos pesqueros o acuícolas vivos, sus productos y subproductos, así como de insumos químicos, farmacéuticos, biológicos y alimenticios para uso o consumo de dichos recursos;
+I.- Comisiones Permanentes:
 
-IV. Clausura temporal o definitiva, total o parcial, de la instalación o instalaciones; y
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
-V. Revocación de los permisos otorgados por la Secretaría.
+a) Comisiones de Dictamen Legislativo;
 
-2. Las sanciones administrativas se aplicarán sin perjuicio, en su caso, de las penas que correspondan cuando los actos u omisiones constitutivos de infracciones sean también constitutivos de delito, en los términos de las disposiciones penales aplicables y sin perjuicio de la responsabilidad ambiental que pudiera resultar, para lo cual será aplicable lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente y el Código para el Desarrollo Sustentable del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO III. DE LAS UNIDADES DE MANEJO ACUÍCOLA
+b) Comisión de Vigilancia; y
 
-###### ARTÍCULO 61.
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
-Para la imposición de las sanciones establecidas en la presente ley, la Secretaría deberá considerar:
+c) Comisión de Estudio Previo;
 
-I. La gravedad de la infracción;
+II.- Comisiones Temporales:
 
-II. El carácter intencional o negligente de la conducta infractora;
+a) Comisiones Jurisdiccionales;
 
-III. Los daños y perjuicios causados o que se pudieran causar al medio ambiente y a terceros;
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-IV. Los antecedentes del infractor y las circunstancias de modo, tiempo y lugar de la infracción;
+b) Comisiones Investigadoras.
 
-V. Las condiciones económicas del infractor;
+III.- Comisiones Especiales:
 
-VI. El beneficio directamente obtenido por el infractor; y
+a) Las que designe el Pleno del Congreso para la resolución de un asunto específico.
 
-VII. La reincidencia, si la hubiere.
+Ningún Diputado presidirá, a la vez, dos o más de las Comisiones señaladas en la fracción I del presente artículo, ni tampoco una de estas Comisiones y uno de los Comités establecidos en el Artículo 77 de esta Ley.
 
-###### ARTÍCULO 62.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-Cuando con motivo de la infracción cometida se causen daños al medio ambiente, la Secretaría lo hará del conocimiento de la autoridad competente en materia ambiental para que tome las medidas conducentes.
+Cada Diputado formará parte de hasta siete Comisiones de Dictamen Legislativo.
 
-###### ARTÍCULO 63.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
-Para los efectos de la presente Ley se considerará reincidente al infractor que incurra más de una vez en cualquiera de las infracciones establecidas en esta ley en un periodo de dos años, contados a partir de la fecha de la resolución.
+###### Artículo 67.
 
-###### ARTÍCULO 64.
+Las Comisiones de Dictamen Legislativo se integrarán pluralmente por once Diputados: un Presidente, un Vice-Presidente, un Secretario y ocho Vocales, electos o ratificados por el Pleno del Congreso en la quinta sesión del Primer Período Ordinario de Sesiones de cada Año de Ejercicio Constitucional.
 
-Cuando en un acta circunstanciada de inspección y vigilancia verificación se haga constar que el infractor incurrió en diversas infracciones a las que corresponda una sanción de multa, en la resolución que dicte la Secretaría dichas multas se determinarán de forma separada, así como el monto total de todas ellas.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
 
-## TÍTULO QUINTO. DEL ORDENAMIENTO Y NORMATIVIDAD PESQUERA Y ACUÍCOLA
+En el caso de la Comisión para la Igualdad de Género el cargo de Presidente, invariablemente, será anual y se asignará de manera rotativa entre los Grupos Legislativos constituidos en el Congreso.
 
-### CAPÍTULO I. DEL SISTEMA ESTATAL DE INFORMACIÓN PESQUERA Y ACUÍCOLA
+Las Comisiones de Dictamen Legislativo se integrarán en proporción al número de diputados de cada Grupo Legislativo.
 
-###### ARTÍCULO 65.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
-Cuando en una misma acta circunstanciada se haga constar que las infracciones fueron cometidas por dos o más infractores, a cada uno de ellos se les impondrán la sanción que corresponda.
+###### Artículo 68.
 
-###### ARTÍCULO 66.
+La Comisión de Vigilancia se integrará por nueve diputados. El Presidente será designado por el grupo legislativo mayoritario y el Vice-Presidente por el grupo legislativo minoritario con mayor número de diputados; el Pleno designará al resto de los integrantes.
 
-Las sanciones por las infracciones a esta Ley se aplicarán sin perjuicio de las penas que correspondan a los delitos en que incurran los infractores.
-
-###### ARTÍCULO 67.
-
-1. La imposición de las multas se determinará de la siguiente manera:
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-I. Será sancionado con una multa de entre cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización, a quien cometa las infracciones establecidas en las fracciones V y X, del artículo 59 de la presente ley;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-II. Será sancionado con una multa de entre ciento uno a doscientas veces el valor diario de la Unidad de Medida y Actualización, a quien cometa las infracciones establecidas en las fracciones III, IV, IX, XI, XII, XV y XXI del artículo 59 de la presente ley;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-III. Será sancionado con una multa de entre doscientas uno a quinientas veces el valor diario de la Unidad de Medida y Actualización, a quien cometa las infracciones establecidas en las fracciones II, VI, VII, VIII, XIII, XIV, XIX y XX del artículo 59 de la presente ley; y
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-IV. Será sancionado con una multa de entre quinientas uno a dos mil veces el valor diario de la Unidad de Medida y Actualización, a quien cometa las infracciones establecidas en las fracciones I, XVI, XVII y XVIII del artículo 59 de la presente ley.
-
-2. En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin exceder del monto máximo a que se refiere la fracción II del artículo 60 de esta ley, así como la clausura temporal; en caso de segunda reincidencia, se aplicará tres veces el monto originalmente impuesto, así como la clausura definitiva y revocación de los permisos o concesiones.
-
-###### ARTÍCULO 68.
-
-Las sanciones consistentes en multa se harán efectivas por la autoridad fiscal competente, a solicitud de la Secretaría, mediante el procedimiento administrativo de ejecución e ingresarán a la Hacienda Pública del Estado, quién las depositará en el Fideicomiso.
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 68 Bis.
 
@@ -1085,117 +867,319 @@ En caso que determine que los escritos deban ser desechados, por tratarse de asu
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
 
-###### ARTÍCULO 69.
+###### Artículo 69.
 
-Además de las multas a que se refiere este Capítulo, la Secretaría podrá imponer las sanciones de amonestación, aseguramiento y clausura establecidas en el artículo 60 de esta ley, tomando en cuenta las circunstancias previstas en el artículo 61 de la misma.
+Las Comisiones Jurisdiccionales funcionarán en los términos previstos en la Constitución y las Leyes cuando así lo acuerde la Asamblea; conocerán específicamente de los hechos que las hayan motivado su integración.
 
-###### ARTÍCULO 70.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
-En el caso de aseguramiento de los recursos pesqueros o acuícolas y demás productos a que se refiere la fracción III del artículo 60 de esta ley, la Secretaría podrá destinar los recursos y bienes asegurados de conformidad con el reglamento de esta ley y, en su caso, las demás disposiciones aplicables.
+###### Artículo 70.
 
-###### ARTÍCULO 71.
+Son Comisiones Permanentes de Dictamen Legislativo las siguientes:
 
-1. En la resolución administrativa que imponga la sanción se señalarán las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades detectadas y el plazo que se otorgue al infractor para corregirlas.
+I. Gobernación y Organización Interna de los Poderes;
 
-2. Dentro de los cinco días hábiles siguientes al vencimiento del plazo para subsanar las deficiencias o irregularidades observadas, el infractor deberá comunicar por escrito a la Secretaría, en forma detallada, el cumplimiento de las medidas ordenadas, en los términos que para tal efecto se le concedió.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-###### ARTÍCULO 72.
+II. Legislación;
 
-La Secretaría, dentro del plazo de los tres días hábiles siguientes al plazo otorgado al infractor para subsanar las irregularidades detectadas, podrá ordenar una segunda inspección para verificar el cumplimiento de lo ordenado en la resolución, y si del acta correspondiente se desprende que no se ha dado cumplimiento a las medidas previamente ordenadas podrá imponer, además de la sanción o sanciones que hubieren procedido conforme a la presente ley, una multa adicional que no excederá de los límites máximos señalados en la sanción o sanciones a que se haya hecho acreedor el infractor.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-###### ARTÍCULO 73.
+III. Puntos Constitucionales;
 
-En los casos en que el infractor realice las medidas correctivas o subsane las irregularidades detectadas en los plazos ordenados por la Secretaría, ésta podrá revocar o modificar la sanción o sanciones impuestas, siempre que el infractor no sea reincidente y no se trate de los supuestos previstos en las fracciones XI y XII del artículo 59 de la presente ley.
+IV. Justicia y Seguridad Pública;
 
-###### ARTÍCULO 74.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-Los recursos recaudados con motivo de la imposición de las multas a que se refiere esta ley, se depositarán en el Fideicomiso.
+V.- Desarrollo Social, Derechos Humanos y Asuntos Indígenas;
 
-## TÍTULO UNDÉCIMO. DE LOS MEDIOS DE IMPUGNACIÓN
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
-### CAPÍTULO I
+VI. Para la Igualdad de Género;
 
-DEL RECURSO DE REVISIÓN.
+VII. Educación, Cultura y Deporte;
 
-###### ARTÍCULO 75.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-1. Los actos y resoluciones dictados con motivo de la aplicación de esta ley, su reglamento y demás disposiciones relativas, podrán ser recurridas por los interesados en el término de diez días hábiles siguientes a la fecha de su notificación.
+VIII.- Medio Ambiente y Desarrollo Sustentable;
 
-2. El recurso se presentará ante el órgano o la unidad administrativa que emitió el acto o resolución.
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
-###### ARTÍCULO 76.
+IX. Desarrollo Urbano;
 
-El recurso de revisión se interpondrá por escrito debiendo el promovente depositar (sic) fianza de garantía suficiente para garantizar el acto o la resolución impugnada, ante la Secretaría de Finanzas del Gobierno del Estado, en el caso del Estado, y ante las Tesorerías municipales respectivas, en el caso de los Ayuntamientos, sin perjuicio de lo que en esta materia dispongan los bandos, ordenanzas, reglamentos municipales, personalmente o por correo certificado con acuse de recibo, en cuyo caso se tendrá como fecha de presentación la del día en que el escrito correspondiente se haya depositado en el Servicio Postal Mexicano.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2020)</small>
 
-### CAPÍTULO II. DEL REGISTRO ESTATAL DE PESCA Y ACUACULTURA
+X. Movilidad;
 
-###### ARTÍCULO 77.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-En el escrito de interposición del recurso de revisión, el interesado deberá expresar lo siguiente:
+XI. Comisión de Economía, Emprendimiento y Turismo
 
-I. El órgano administrativo a quien se dirige;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-II. El nombre del recurrente y el domicilio que señale para oír y recibir notificaciones y documentos;
+XII. Fomento al Campo, Energía y Desarrollo Rural;
 
-III. El nombre del tercero perjudicado, si lo hubiere;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
 
-IV. El acto o resolución administrativo que impugna, así como la fecha en que fue notificado de la misma o tuvo conocimiento de ésta;
+XIII.- Ciencia, Tecnología e Innovación;
 
-V. La autoridad emisora de la resolución que recurre;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-VI. La descripción de los hechos antecedentes de la resolución que se recurre;
+XIV. Juventud;
 
-VII. Los agravios que le causan y los argumentos de derecho en contra de la resolución que se recurre; y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-VIII. Las pruebas que se ofrezcan, relacionándolas con los hechos que se mencionan.
+XV. Salud y Atención a Grupos Vulnerables;
 
-###### ARTÍCULO 78.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-Con el recurso de revisión se deberán acompañar los siguientes documentos:
+XVI. Hacienda del Estado;
 
-I. Los que acrediten la personalidad del promovente, cuando actúe en nombre de otro o de persona moral;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-II. La notificación del acto impugnado; si la notificación fue por edictos se deberá acompañar la última publicación o la manifestación bajo la protesta de decir verdad de la fecha en que tuvo conocimiento de la resolución;
+XVII. Primera de Hacienda y Desarrollo Municipal;
 
-III. Aquellos en los que conste el acto o la resolución recurrida, cuando dicha actuación haya sido por escrito, o tratándose de actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse por escrito de iniciación del procedimiento, o el documento por el cual no hubiere recaído resolución alguna; y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-IV. Las pruebas que se acompañen, junto con el pliego de posiciones, en su caso.
+XVIII. Segunda de Hacienda y Desarrollo Municipal;
 
-### CAPÍTULO I. DE LA SANIDAD, CALIDAD E INOCUIDAD
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-###### ARTÍCULO 79.
+XIX. Tercera de Hacienda y Desarrollo Municipal;
 
-1. El promovente podrá ofrecer como medios de prueba, los que estime conducentes a la demostración de sus pretensiones, salvo la confesional de la autoridad y las testimoniales, siendo admisibles cualesquiera que sean adecuados para que produzcan convicción en el titular de la Secretaría, en su caso.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-2. Son admisibles los siguientes medios de prueba:
+XX. Cuarta de Hacienda y Desarrollo Municipal;
 
-I. Documentos públicos y privados;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-II. Dictámenes periciales;
+XXI. Quinta de Hacienda y Desarrollo Municipal;
 
-III. Reconocimiento, examen o inspección del titular de la Secretaría o el Presidente Municipal, cuando le corresponda;
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-IV. Fotografías, copias fotostáticas, registros dactiloscópicos, reproducciones, experimentos y, en general, todos aquellos elementos aportados por la ciencia;
+XXII. Anticorrupción;
 
-V. Informes de las autoridades; y
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-VI. Presunciones.
+XXIII. Presupuesto; y
 
-###### ARTÍCULO 80.
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2016)</small>
 
-1. Dentro de los diez días hábiles siguientes, contados a partir de la presentación del recurso, el titular de la Secretaría y el Presidente Municipal, en caso de los Ayuntamientos, deberá proveer sobre la admisión, prevención o desechamiento del recurso, lo cual deberá notificársele al recurrente personalmente.
+XXIV. Desarrollo Metropolitano.
 
-2. Si se admite el recurso a trámite, deberá pronunciarse respecto al desahogo y, en su caso, admisión de las probanzas ofrecidas.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
-3. Se desechará el recurso, cuando:
+###### Artículo 71.
 
-I. El escrito de interposición no contenga la firma autógrafa o huella digital del promovente;
+La Comisión de Vigilancia estará integrada por nueve diputados: un Presidente, un Vicepresidente, un Secretario y seis Vocales y se sujetará en sus atribuciones a la Ley de Fiscalización Superior del Estado en lo que corresponda y a los Acuerdos que para el efecto dicte el Congreso.
 
-II. En caso de no haberse presentado en el tiempo establecido para hacerlo;
+###### Artículo 72.
 
-III. Si encontrare motivo manifiesto de improcedencia; o
+Son Comisiones Jurisdiccionales las que se integran en los términos de la Constitución y de las Leyes para el efecto de la Responsabilidad de los Servidores Públicos.
 
-IV. Cuando prevenido el recurrente para que aclare o complete el recurso, no lo hiciere.
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+Las Comisiones Jurisdiccionales se integrarán en proporción al número de Diputados de cada Grupo Legislativo.
+
+###### Artículo 73.
+
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+###### Artículo 74.
+
+Las Comisiones Especiales se integrarán pluralmente por nueve diputados, tomando en consideración la proporcionalidad que cada Grupo Legislativo tiene en el Congreso del Estado, para atender un asunto específico; tendrán un carácter transitorio y al rendir el informe correspondiente se disolverán.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 75.
+
+Las Sesiones de las Comisiones señaladas en los Capítulos I y II de este Título, serán públicas, documentadas, grabadas y archivadas. Esta información deberá ser pública, para lo cual se hará uso de las tecnologías de la información.
+
+Podrán participar en reuniones de información y audiencia, a invitación de su Presidente, los ciudadanos promoventes de las iniciativas, representantes de grupos de interés, peritos u otras personas que puedan informar sobre el asunto, por acuerdo tomado por la mayoría de sus integrantes. Asimismo, las comisiones podrán a través de la Directiva, convocar a foros u otros eventos de consulta popular.
+
+En las reuniones de comisión, podrán participar con derecho a voz y previa autorización de la comisión de que se trate, los titulares de los órganos de soporte técnico y de apoyo del congreso o quienes éstos designen para el caso, cuando el asunto a tratar sea de su competencia.
+
+El Presidente del órgano de trabajo correspondiente, durante el desarrollo de las reuniones del mismo, tendrá las mismas atribuciones que la Ley y el Reglamento otorgan al Presidente del Congreso, relativas a la salvaguarda del orden y respeto al Congreso y a sus integrantes.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
+
+###### Artículo 76.
+
+Las sesiones de las Comisiones serán convocadas por su Presidente con por lo menos cuarenta y ocho horas de anticipación, salvo que se trate de asuntos turnados que requieran pronta resolución, en cuyo caso el Presidente deberá justificar esta situación a la Comisión de que se trate.
+
+Los integrantes de la Comisión asistirán a ellas con derecho de voz y voto; los Diputados que no formen parte de una Comisión podrán asistir a sus sesiones con derecho de voz, pero sin voto. El Presidente de cada Comisión podrá autorizar la presencia de asesores y personal de apoyo para el desarrollo de los trabajos.
+
+### CAPITULO II. DE LOS COMITES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 77.
+
+El Congreso contará con los Comités de Administración y de Archivo y Biblioteca y de Seguimiento de Acuerdos; cada uno estará integrado pluralmente por cinco Diputados de al menos tres Grupos Legislativos. Estos Comités tienen el carácter de permanentes; cada uno se compondrá de un Presidente, un Secretario y tres Vocales, electos por el Pleno del Congreso.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+El Pleno del Congreso podrá crear por acuerdo, cuando las necesidades así lo requieran y conforme a las posibilidades del presupuesto, los Comités temporales que estime convenientes para la realización de las actividades del mismo.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+En dicho acuerdo se especificarán los propósitos de su creación y el tiempo para realizar las tareas que se les encomienden.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 78.
+
+El Comité de Administración vigila la operación de los servicios administrativos y el correcto ejercicio del presupuesto del Congreso. Al Comité de Administración le corresponde:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
+I.- Definir los criterios generales para la operación administrativa de los Órganos de Soporte Técnico y de Apoyo del Congreso con excepción del Órgano Auxiliar del Congreso. Dichos criterios tendrán la finalidad de optimizar los recursos y el desarrollo de la función legislativa, así como orientar la elaboración de:
+
+a) El Anteproyecto de Presupuesto de Egresos del Congreso;
+
+b) Políticas para el apoyo a las Comisiones, los Comités y los Grupos Legislativos;
+
+c) Programas de actividades de los Órganos de Soporte Técnico y de Apoyo;
+
+d) El Manual de Organización y Procedimientos del Congreso; y
+
+e) La evaluación del desempeño del personal del Congreso;
+
+II.- Realizar las actividades necesarias para evaluar el cumplimiento de los criterios señalados en la fracción anterior;
+
+III.- Establecer los Lineamientos Generales para el Ejercicio del Presupuesto;
+
+IV.- Proponer a la Comisión de Coordinación y Régimen Interno políticas de sueldos y programas de incentivos para el personal del Congreso;
+
+V.- Participar, por medio de su Presidente, en las reuniones semestrales de planeación y organización de las actividades administrativas del Congreso;
+
+VI.- Recibir, analizar y aprobar, el informe trimestral sobre el ejercicio presupuestal que rinda el Tesorero;
+
+VII.- Recibir del Tesorero, el Informe de la Cuenta Pública del Congreso del Estado y presentarlo al Pleno del Congreso para que se le dé el trámite correspondiente;
+
+VIII.- Conocer de los informes de los Órganos de Soporte Técnico y de Apoyo y en su caso, hacer las recomendaciones correspondientes para la mejora continua de los servicios administrativos;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+
+IX. Recomendar a la Contraloría Interna, cuando así lo considere conveniente, la realización de auditorías a los Órganos de Soporte Técnico y de Apoyo;
+
+X.- Ordenar la realización de auditorías trimestrales externas a la Tesorería, sobre la administración financiera y contable de los recursos del Congreso;
+
+XI.- Rendir al Pleno del Congreso un informe anual de las actividades desarrolladas; y
+
+XII.- Las demás que le confieren esta Ley y el Reglamento para el Gobierno Interior del Congreso.
+
+El Comité de Administración dispondrá de los recursos necesarios para cumplir con las funciones anteriores.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+Artículo 78 BIS.- El Comité de Archivo y Biblioteca tiene a su cargo la promoción de las actividades tendientes a la formación, integración y modernización de la Biblioteca y del Archivo del Congreso. Al Comité de Archivo y Biblioteca le corresponde:
+
+I.- Elaborar los criterios para integrar e incrementar un acervo bibliográfico que sirva de información y apoyo en las tareas legislativas;
+
+II.- Establecer las bases para organizar, codificar y modernizar el Archivo del Congreso;
+
+III.- Promover la difusión del acervo de la Biblioteca y del Archivo del Congreso;
+
+IV.- Atender lo relacionado con al acervo histórico del Congreso;
+
+V.- Ser el responsable de la edición de una publicación trimestral de difusión de las actividades del Congreso y de temas relacionados con la función legislativa, así como de publicaciones en materia histórica, socio-política, cultural y de interés general para el Estado;
+
+VI.- Realizar propuestas a la Comisión de Coordinación y Régimen Interno, sobre la organización y procedimientos del Archivo y la Biblioteca del Congreso.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+Artículo 78 BIS 1. El Comité de Seguimiento de Acuerdos, será el responsable de dar un oportuno seguimiento de respuesta a los Acuerdos que sean aprobados por el Pleno del Congreso, y que sean relativos a la intervención de alguna autoridad federal, estatal o municipal, respecto de la atención, resolución o información sobre diversas problemáticas del ámbito de sus competencias. A dicho Comité le corresponde:
+
+I. Mantener actualizado el listado de Acuerdos Aprobados por el Pleno del Congreso, en los que se solicita la atención, información o la intervención de alguna autoridad federal, estatal o municipal, en el marco de sus atribuciones.
+
+II. Solicitar, por conducto de su Presidente, a las autoridades competentes, la respuesta de los Acuerdos enviados para la atención, información o intervención de diversas problemáticas, cuando transcurra un tiempo prudente, posterior a la aprobación del Acuerdo; e
+
+III. Informar cada mes al Pleno del Congreso del seguimiento y situación que guardan los Acuerdos enviados a las autoridades federales, estatales o municipales, para la atención, información o intervención, conforme a sus atribuciones, de diversas problemáticas.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2017)</small>
+
+IV. Proporcionar a la Oficialía Mayor el estatus del listado de los Acuerdos que sean aprobados por el Pleno del Congreso, especificando si han sido respondidos o no por la autoridad aludida y que sean publicados en la página oficial del Congreso del Estado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2000)</small>
+
+### CAPITULO III. DE LOS ORGANOS DE SOPORTE TECNICO Y DE APOYO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)</small>
+
+###### Artículo 79.
+
+Los Órganos de Soporte Técnico y de Apoyo del Congreso son dependencias especializadas y responsables en los ámbitos de competencia que, respectivamente, les señala la normatividad vigente. Dependen orgánicamente de la Comisión de Coordinación y Régimen Interno. Tienen la finalidad de apoyar a los Órganos Legislativos del Congreso en el cumplimiento de sus atribuciones. Sus funciones generales son las siguientes:
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+I.- De los Órganos de Soporte Técnico:
+
+a) De la Oficialía Mayor: la atención de los aspectos legislativos y jurídicos del Congreso, así como la asistencia a la Directiva durante el desarrollo de las sesiones del Pleno y de la Diputación Permanente;
+
+b) De la Tesorería: la administración de los recursos financieros, humanos y de los servicios generales del Congreso;
+
+(REFORMADO, P.O. 25 DE JUNIO DE 2014) (F. DE E., P.O. 7 DE JULIO DE 2014)
+
+c) Del Centro de Estudios Legislativos: la elaboración de los proyectos de dictámenes de las Comisiones y el desarrollo de programas de investigación y análisis de los aspectos técnicos de los asuntos que son competencia del Congreso;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+d) De la Contraloría Interna: Es un órgano interno de Control del Congreso, con plena autonomía, técnica y de gestión, que auxiliará en el control, investigación, sustanciación y en los casos de su competencia emitirá la resolución correspondiente, dentro del procedimiento de responsabilidad iniciado por las quejas, denuncias o casos de corrupción del personal del Poder Legislativo, que se cometan con motivo de su cargo o en la función que desempeñan en el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+El nombramiento de la persona titular de contraloría se realizará por el pleno a propuesta de la Comisión de Coordinación y Régimen Interno y se deberán reunir los requisitos que se establecen para los órganos de soporte técnico, salvo los específicos para determinado cargo;
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+e) De la unidad de Género: Instancia técnica responsable de institucionalizar la perspectiva de género dentro del H. Congreso del Estado de Nuevo León, con el fin de avanzar en la igualdad sustantiva.
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+II.- De los Órganos de Apoyo:
+
+a) De la Dirección de Comunicación Social: la difusión de las actividades institucionales y el apoyo en las relaciones públicas del Congreso;
+
+b) De la Dirección de Informática: la promoción del uso y la optimización de los recursos tecnológicos de computación e informática en la realización de actividades legislativas, técnicas y administrativas del Congreso;
+
+c) De la Coordinación de Seguridad: la seguridad en las instalaciones del Poder Legislativo, de los legisladores, del personal del Congreso y de los ciudadanos que se encuentren en dicho lugar; y
+
+d) De la Unidad de Adquisiciones: la coordinación de la adquisición de bienes y de la contratación de los servicios necesarios para la realización de las actividades legislativas, técnicas y administrativas del Congreso.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 80.
+
+La integración, actividades y funcionamiento de los Órganos de Soporte Técnico y de Apoyo dependientes de la Comisión de Coordinación y Régimen Interno se establecen en el Reglamento para el Gobierno Interior del Congreso, así como en el Manual de Organización y Procedimientos del Congreso. Los titulares de estos órganos rendirán informes de acuerdo a lo siguiente:
+
+I.- El Oficial Mayor:
+
+a) Informes de apoyo a la Directiva y a la Diputación Permanente, que deberán presentarse ante estos órganos para coadyuvar a que den cumplimiento a lo dispuesto en los artículos 56 y 87, respectivamente, de la presente Ley; y
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+
+b) Informes de actividades que deberán rendirse dentro de los quince días siguientes al inicio y al término de cada período ordinario de sesiones, que se presentarán ante la Comisión de Coordinación y Régimen Interno en la sesión ordinaria de ésta, posterior al inicio y al término de cada período de sesiones. Los Diputados recibirán archivo electrónico de dichos informes;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
+
+II.- La persona titular de tesorería: informes trimestrales y el informe de la cuenta pública anual que se presentaran a la comisión de coordinación y régimen interno y al comité de administración en sus respectivas sesiones;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
+
+III.- Los titulares del Centro de Estudios Legislativos y de los Órganos de apoyo: Informes de actividades que deberán rendirse dentro de los quince días siguientes al inicio y al término de cada periodo ordinario de sesiones, y los cuales se presentarán ante la comisión de coordinación y régimen interno y el comité de administración. Las comisiones de dictamen legislativo recibirán copia de los informes que rinda el titular del centro de estudios legislativos;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
+
+IV.- La persona titular de la contraloría; informe sobre los procedimientos de responsabilidad que haya iniciado o sustanciado derivado de las violaciones a la legislación respectiva, por parte de los servidores públicos del Congreso, así como dar seguimiento a las declaraciones patrimoniales, fiscal y de interés que obliga la ley; y
+
+> <small>(ADICIONADA P.O. 24 DE FEBRERO DE 2023)</small>
+
+V.- La titular de la Unidad de Género; informar anualmente de la evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas ejecutadas por el Congreso en el cumplimiento al Programa interinstitucional para la igualdad entre mujeres y hombres.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 80 Bis.
 
@@ -1221,81 +1205,99 @@ VIII. En ningún caso podrán reunirse en los mismos servidores públicos las fa
 
 Artículo 80 BIS I.- La Contraloría Interna del Poder Legislativo, deberá incluir en sus resoluciones la opinión de un órgano ciudadano, que será nombrado bajo el procedimiento que la Comisión de Coordinación y Régimen Interno determine.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2023)</small>
 
-###### ARTÍCULO 81.
+###### Artículo 81.
 
-1. La interposición del recurso suspenderá la ejecución del acto impugnado, siempre y cuando:
+Para ser titular de la Oficialía Mayor, Tesorería, Contraloría Interna, Unidad de Genero o centro de Estudios Legislativos del Congreso, se requiere:
 
-I. Lo solicite expresamente el recurrente;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-II. Se admita el recurso;
+I.- Tener cuando menos 30 años cumplidos al día de su designación;
 
-III. No contravenga disposiciones de orden público;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-IV. No se ocasionen daños o perjuicios a terceros, a menos que se garanticen éstos para el caso de no obtener resolución favorable; y
+II.- Contar con título de educación superior y tener experiencia profesional. En el caso del titular del Centro de Estudios Legislativos también será requisito tener estudios de posgrado o experiencia en la investigación de asuntos en materia pública o social;
 
-V. Tratándose de la imposición de sanciones económicas, el recurrente garantice su importe en términos de lo previsto por la legislación aplicable.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-2. Tratándose de medidas de seguridad no procederá la suspensión de las mismas en caso de interposición del recurso.
+III.- No haber sido condenado mediante sentencia que haya causado ejecutoria, ni estar sujeto a proceso penal, por algún delito doloso; y
 
-###### ARTÍCULO 82.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-Es improcedente el recurso:
+IV.- Ser designado por el Pleno del Congreso, a propuesta de la Comisión de Coordinación y Régimen Interno.
 
-I. Contra actos o resoluciones que hayan sido impugnados en un anterior recurso administrativo o en un proceso jurisdiccional;
+(NOTA: EL 22 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE MAYO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-II. Contra actos o resoluciones que no afecten intereses jurídicos del recurrente;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-III. Contra actos o resoluciones que se hayan consentido expresamente por el recurrente, mediante manifestaciones escritas de carácter indubitable;
+En los casos del Titular de la Oficialía Mayor y de la Contraloría Interna, se requerirá además, ser ciudadano mexicano POR NACIMIENTO Y NO ADQUIRIR OTRA NACIONALIDAD.
 
-IV. Cuando de las constancias de autos se desprende que no existe el acto impugnados; y
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-V. Por haber dejado de existir el objeto o materia del mismo.
+###### Artículo 82.
 
-## TÍTULO SEXTO. DE LA INFORMACIÓN PESQUERA Y ACUÍCOLA
+El Director del Centro de Estudios Legislativos durará ocho años en el cargo, pudiendo ser reelecto por el Pleno del Congreso. Sólo cesará en sus funciones en los siguientes casos:
 
-### CAPÍTULO ÚNICO. DE LA INVESTIGACIÓN Y TRANSFERENCIA DE TECNOLOGÍA
+I.- Por renuncia que calificará el Pleno del Congreso;
 
-###### ARTÍCULO 83.
+II.- Por decisión del Pleno del Congreso, por mayoría calificada; y
 
-Será sobreseído el recurso cuando:
+III.- Por remoción, si incurre en cualquiera de las siguientes causales:
 
-I. El recurrente se desista expresamente;
+a) Falta de probidad;
 
-II. Durante el procedimiento sobreviniere alguna de las causas de improcedencia del recurso;
+b) Notoria ineficiencia;
 
-III. El recurrente fallezca durante el procedimiento, siempre que el acto sólo afecte sus derechos estrictamente personales;
+c) Incapacidad física o mental; o
 
-IV. La autoridad haya satisfecho claramente las pretensiones del recurrente; y
+d) Por cometer algún delito doloso.
 
-V. En los demás casos en que por disposición legal haya impedimento para emitir resolución que decida el asunto planteado.
+En los casos previstos en las fracciones II y III del presente artículo, se cumplirá previamente con el derecho de audiencia del interesado. La solicitud de remoción señalada en la fracción III deberá ser promovida por al menos, tres integrantes de la Legislatura.
 
-###### ARTÍCULO 84.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-1. El titular de la Secretaría o el Presidente Municipal, en el caso de los Ayuntamientos, emitirá la resolución del recurso dentro de los 20 días hábiles siguientes al término del periodo para la formulación de los alegatos.
+## TITULO SEXTO. DE LA DIPUTACION PERMANENTE
 
-2. La resolución que confirme, modifique o revoque el acto o la resolución recurrida, se fundarán en derecho y examinará todos los agravios hechos valer por el recurrente. Cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
+### CAPITULO I. INSTALACION
 
-3. Dicha resolución se notificará al interesado, personalmente o por correo certificado.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
 
-### CAPÍTULO II. DEL JUICIO DE NULIDAD ANTE EL TRIBUNAL FISCAL DEL ESTADO
+###### Artículo 83.
 
-###### ARTÍCULO 85.
+La víspera del receso, en cada Período de Sesiones Ordinarias, la Legislatura nombrará, a mayoría simple de votos, una Diputación Permanente formada pluralmente por ocho diputados propietarios y ocho diputados suplentes que cubrirán las ausencias de los propietarios.
 
-Contra el acuerdo o la resolución del recurso de revisión que ponga fin al mismo, emitidos por la autoridad administrativa correspondiente, el interesado podrá interponer el juicio de nulidad ante el Tribunal Fiscal del Estado.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
 
-###### ARTÍCULO 86.
+###### Artículo 84.
 
-1. El juicio de nulidad se interpondrá dentro de los quince días siguientes aquél en el cual surta efectos la notificación de la resolución impugnada.
+Por el orden de su designación se ocuparán los cargos de Presidente, Vicepresidente, Primer Secretario, Segundo Secretario y cuatro Vocales, cada uno con sus respectivos suplentes.
 
-2. El recurrente presentará la demanda de juicio de nulidad ante la autoridad que le haya notificado la resolución, teniendo esta la obligación de remitirlo al Tribunal Fiscal del Estado en un plazo no mayor de tres días hábiles siguientes al de su presentación.
+Los cargos señalados serán para todo el Período de Receso.
 
-3. En estos casos se tendrá como fecha de presentación del escrito respectivo la del día en que se haga a la autoridad que efectuó la notificación.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
-###### ARTÍCULO 87.
+###### Artículo 85.
 
-Para la tramitación del juicio de nulidad se estará a lo dispuesto por el Código Fiscal del Estado, en lo relativo al mismo.
+La Diputación Permanente tendrá Sesiones Ordinarias los miércoles de cada semana a las once horas, salvo acuerdo previo de la misma o que se trate de día feriado, en este último caso la sesión será el día hábil siguiente. Podrá celebrar Sesiones Extraordinarias cualquier día de la semana, previa Convocatoria por escrito signada por el Presidente, o a falta de éste por cinco de sus integrantes propietarios.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
+
+###### Artículo 86.
+
+Los acuerdos de la Diputación Permanente se tomarán por el voto de la mayoría de los presentes; en caso de empate; el Presidente de la misma tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+Artículo 86 BIS.- Durante los períodos de receso, el Presidente de la Diputación Permanente será el Presidente del Congreso, tendiendo para este efecto, las mismas atribuciones que para dicho cargo enuncian esta Ley y el Reglamento para el Gobierno Interior del Congreso.
+
+###### Artículo 87.
+
+Al concluír el Período de Receso, de conformidad con lo establecido por el Artículo 66 fracción III de la Constitución Política local, el Presidente de la Diputación Permanente rendirá a la Asamblea, en la primera sesión del período que corresponda, un informe circunstanciado de los expedientes que hayan sido integrados durante ese período y de los que debe conocer el Pleno, absteniéndose en ese informe de emitir opinión alguna sobre los asuntos mencionados.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+En el caso del año de la elección, el Presidente de la Diputación Permanente, deberá rendir su último informe el día 31 de agosto, en sesión que se cite para tal efecto cuando no se encuentre reunido (sic)pleno.
 
 ###### Artículo 88.
 
@@ -1311,9 +1313,13 @@ De manera especial la Diputación Permanente cumplirá con las obligaciones que 
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2000)</small>
 
-## TÍTULO SÉPTIMO. DE LA SANIDAD, CALIDAD E INOCUIDAD PESQUERA Y ACUÍCOLA
+## TITULO SEPTIMO. DISPOSICIONES COMPLEMENTARIAS
 
-### CAPÍTULO I. DE LA INSPECCIÓN Y VIGILANCIA
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 16 DE AGOSTO DE 2000)</small>
+
+### CAPITULO I. GALERIAS
+
+(REUBICADO, P.O. 16 DE AGOSTO DE 2000)
 
 ###### Artículo 91.
 
@@ -1321,7 +1327,9 @@ El Congreso del Estado podrá crear las Galerías que tiendan al reconocimiento 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-### CAPÍTULO II. DE LA PROPIEDAD, LEGAL PROCEDENCIA Y TRASLADO
+### CAPITULO II. DEL TABLERO DE AVISOS
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 92.
 
@@ -1333,9 +1341,13 @@ II.- El reporte mensual de la asistencia de los Diputados a las sesiones de los 
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2020)</small>
 
-## TÍTULO OCTAVO. DE LA INVESTIGACIÓN Y TRANSFERENCIA DE TECNOLOGÍA
+## TITULO OCTAVO. ORGANO DE DIFUSION
 
-### CAPÍTULO I. DE LAS INFRACCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2020)</small>
+
+### CAPITULO UNICO. DE LA GACETA LEGISLATIVA
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
 
 ###### Artículo 93.
 
@@ -1373,79 +1385,101 @@ XI. Los demás documentos oficiales que en su momento el Pleno del Congresos (si
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MARZO DE 2022)</small>
 
-## TÍTULO NOVENO. DE LA INSPECCIÓN Y VIGILANCIA PESQUERA Y ACUÍCOLA
+## TITULO NOVENO. DE LA ATENCIÓN A LAS PERSONAS CON DISCAPACIDAD
 
-### CAPÍTULO II. DE LAS SANCIONES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MARZO DE 2022)</small>
+
+### CAPITULO ÚNICO. DEL APOYO EN LA INTERPRETACIÓN EN EL LENGUAJE DE SEÑAS MEXICANAS
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2022)</small>
 
 ###### Artículo 95.
 
 Durante las sesiones de pleno, diputación permanente y mesas de trabajo deberá haber un intérprete traductor de lenguaje de señas mexicanas, debidamente certificado, con el fin de traducir a la ciudadanía con alguna discapacidad los puntos tratados en las mismas.
 
-## TÍTULO DÉCIMO. DE LAS INFRACCIONES Y SANCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JUNIO DE 2022)</small>
 
-###### ARTICULO 96.
+## TITULO DÉCIMO. DE LA ACCESIBILIDAD UNIVERSAL EN EL CONGRESO DEL ESTADO
 
-Cuando la petición provenga de los ciudadanos se seguirá el siguiente procedimiento:
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
 
-I. Recibida la petición por el Presidente de la Mesa Directiva del Congreso, la publicará en la Gaceta Parlamentaria, dará cuenta de la misma y solicitará al Instituto Electoral de Tamaulipas que en un plazo de treinta días naturales, verifique que ha sido suscrita, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores;
+###### Artículo 96.
 
-II. En el caso de que el Instituto Electoral de Tamaulipas determine que no cumple con el requisito establecido en el artículo 7, fracción IV, inciso c) de la Constitución Política del Estado de Tamaulipas, el Presidente de la Mesa Directiva del Congreso, publicará el informe en la Gaceta Parlamentaria, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido;
+El Congreso del Estado contará con medidas pertinentes para asegurar el acceso universal de las personas con discapacidad a sus instalaciones y servicios, en términos de la Ley Para la Protección de los Derechos de las Personas con Discapacidad y las Normas Oficiales Mexicanas en materia de Accesibilidad Universal, así como cualquier otra disposición legal aplicable.
 
-III. En el caso de que el Instituto Electoral de Tamaulipas determine que se cumple el requisito establecido en la fracción I, el Presidente de la Mesa Directiva del Congreso, publicará el informe en la Gaceta Parlamentaria y enviará la petición al Pleno del Supremo Tribunal del Estado, junto con la propuesta de pregunta de los peticionarios para que resuelva sobre su constitucionalidad dentro de un plazo de veinte días naturales;
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
 
-IV. Recibida la solicitud del Presidente de la Mesa Directiva para verificar la constitucionalidad de la petición de consulta popular, el Pleno del Supremo Tribunal de Justicia del Estado deberá:
+###### Artículo 97.
 
-a. Resolver sobre la constitucionalidad de la materia de la consulta popular y revisar que la pregunta derive directamente de la materia de la consulta; no sea tendenciosa o contenga juicios de valor; emplee lenguaje neutro, sencillo y comprensible; y produzca una respuesta categórica en sentido positivo o negativo.
-
-b. Realizar, en su caso, las modificaciones conducentes a la pregunta, a fin de garantizar que la misma sea congruente con la materia de la consulta y cumpla con los criterios enunciados en el inciso anterior.
-
-c. Notificar al Congreso del Estado su resolución dentro de las veinticuatro horas siguientes al en que la emita;
-
-V. Si la resolución del Pleno del Supremo Tribunal de Justicia del Estado es en el sentido de reconocer la constitucionalidad de la materia, la pregunta contenida en la resolución, no podrá ser objeto de modificaciones posteriores por el Congreso del Estado;
-
-VI. En el supuesto de que el Pleno del Supremo Tribunal de Justicia del Estado declare la inconstitucionalidad de la materia de la consulta popular, el Presidente de la Mesa Directiva del Congreso del Estado, publicará la resolución en la Gaceta Parlamentaria, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido; y
-
-VII. Declarada la constitucionalidad por el Pleno del Supremo Tribunal de Justicia del Estado, el Congreso por conducto de la Mesa Directiva, emitirá la Convocatoria, la notificará al Instituto Electoral de Tamaulipas para los efectos conducentes y ordenará su publicación en el Periódico Oficial del Estado.
-
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
-
-###### ARTICULO 97.
-
-Las resoluciones del Pleno del Supremo Tribunal de Justicia del Estado serán definitivas e inatacables.
-
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+La Comisión de Coordinación y Régimen Interno incluirá en cada presupuesto de egresos del Poder Legislativo, las partidas que se estimen necesarias para realizar las adecuaciones pertinentes a las instalaciones y a los sistemas y las tecnologías de la información y las comunicaciones, a fin de garantizar la accesibilidad universal de los integrantes de la Legislatura, de sus empleados y el público en general.
 
 ## TRANSITORIOS
 
-###### ARTÍCULO PRIMERO.
+PRIMERO:- Se abroga la Ley Orgánica del Poder Legislativo del Estado de Nuevo León, publicada en el Periódico Oficial del Gobierno del Estado el día 12 de Julio de 1958.
 
-Esta ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+SEGUNDO:- En tanto no se expida el Reglamento de la Ley Orgánica del Poder Legislativo, la organización y funcionamiento del Congreso a que se refiere el Artículo 51 de esta Ley, se ajustará a lo establecido en la Ley Orgánica del Poder Legislativo publicada en el Periódico Oficial del Estado el 12 de Julio de 1958.
 
-###### ARTÍCULO SEGUNDO.
+TERCERO:- La actual Legislatura estará en funciones hasta el día 14 de Octubre de 1994, como lo establecen las reformas a la Constitución Política del Estado, aprobadas mediante Decreto No. 159 publicado en el Periódico Oficial del día 27 de diciembre de 1990 y mientras tanto, se estará sujeto en los casos de los Artículos 5o., 8o., 33, 35 y 36 a lo previsto en la Ley Orgánica del Poder Legislativo publicado en el Periódico Oficial del día 12 de Julio de 1958.
 
-El Reglamento de la presente ley deberá ser expedido por el Gobernador del Estado, dentro de los 180 días siguientes a la entrada en vigor de esta Ley.
+CUARTO:- Por única vez los Grupos Legislativos de la LXVI Legislatura se inscribirán ante la Directiva en la siguiente Sesión en que la presente Ley entre en vigor, así mismo en esa sesión se integrará la Comisión de Coordinación y Gobierno Interno y se hará la designación del Oficial Mayor en los términos del Artículo 82 de la presente Ley.
 
-###### ARTÍCULO TERCERO.
+QUINTO:- La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-El Programa Estatal de Desarrollo Pesquero y Acuícola deberá ser expedido a más tardar dentro de los 90 días posteriores a la entrada en vigor del presente ordenamiento.
+Envíese al Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado.
 
-SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 30 de agosto del año 2011.- DIPUTADO PRESIDENTE.- JOSÉ LUIS HERNÁNDEZ CASTRELLÓN.- Rúbrica.- DIPUTADA SECRETARIA.- AMELIA ALEJANDRINA VITALES RODRÍGUEZ.- Rúbrica.- DIPUTADO SECRETARIO.- JOSÉ RAMÓN GÓMEZ LEAL.- Rúbrica".
+Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital, a los diez días del mes de septiembre de mil novecientos noventa y dos.- PRESIDENTE: DIP. GUSTAVO VILLARREAL DE LA FUENTE.- DIP. SECRETARIO: HECTOR OZIEL CASTILLO B.- DIP. SECRETARIO ANTONIO C. ELOSUA MUGUERZA.- Rúbricas.
 
-Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los treinta y un días del mes de agosto del año dos mil once.
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los diez días del mes de septiembre de mil novecientos noventa y dos.
 
-ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- MORELOS CANSECO GÓMEZ.- Rúbrica.
+EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+LIC. SOCRATES C. RIZZO GARCIA
 
-P.O. 29 DE ABRIL DE 2014.
+EL C. SECRETARIO GENERAL DE GOBIERNO
+
+LIC. ALEJANDRO LAMBRETON NARRO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE JUNIO DE 1994.
+
+UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE OCTUBRE DE 1994.
+
+UNICO:- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 1994.
+
+UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1994.
+
+PRIMERO:- El presente Decreto entrara en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado.
+
+SEGUNDO:- Cuando en una Ley, Reglamento o cualquier otra disposición este expresado el término de "Comisión de Coordinación y Gobierno Interno", se entenderá que se refiere a la "Gran Comisión".
+
+P.O. 18 DE JUNIO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE OCTUBRE DE 1997.
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 21 DE DICIEMBRE DE 2016.
+P.O. 24 DE OCTUBRE DE 1997.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 1998.
+
+Artículo Único: El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 16 DE SEPTIEMBRE DE 1998.
 
 ###### ARTÍCULO ÚNICO
 
@@ -1595,15 +1629,11 @@ P.O. 2 DE DICIEMBRE DE 2015.
 
 P.O. 22 DE ABRIL DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 104. SE REFORMA POR MODIFICACIÓN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 67 Y LA FRACCIÓN V DEL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
 
-###### ARTÍCULO PRIMERO.
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+P.O. 6 DE MAYO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 106. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 5 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
 
@@ -1682,3 +1712,19 @@ P.O. 20 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 112. SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 1° DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 161. SE ADICIONA UN TÍTULO DÉCIMO, DENOMINADO “DE LA ACCESIBILIDAD UNIVERSAL EN EL CONGRESO DEL ESTADO” CON QUE CONTIENE LOS ARTÍCULOS 96 Y 97, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN XXVII DEL ARTÍCULO 65 Y SE ADICIONA UN ARTÍCULO 145 BIS 8 AL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 24 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 336. SE REFORMA EL INCISO D) DE LA FRACCIÓN I EN EL ARTÍCULO 79; LAS FRACCIONES II, III Y IV DEL ARTÍCULO 80 Y 81; SE ADICIONA UN INCISO E) EN LA FRACCIÓN II DEL ARTÍCULO 50; UN INCISO E) EN LA FRACCIÓN I EN EL ARTÍCULO 89, UNA FRACCIÓN V EN EL ARTÍCULO 80; TODOS LOS ANTERIORES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y SE ADICIONA UN ARTÍCULO 71 BIS AL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Unidad de Género deberá instalarse a más tardar treinta días naturales siguientes, contados a partir del día de la siguiente publicación del presente Decreto.
+
+TERCERO.- Anualmente se asignará una partida específica en la ley de Egresos del Estado de Nuevo León, para que la Unidad de Género cumpla sus funciones."
