@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2023-01-25"
+last_updated: "2023-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -2979,13 +2979,17 @@ Los nombramientos, derechos y obligaciones de carácter laboral de los integrant
 
 Las prestaciones relacionadas con la seguridad social de los integrantes de la policía se sujetará a las prescripciones de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León; en el caso de la policía de los Municipios se observará, en su caso, lo dispuesto en la fracción II del Artículo 3 de dicha Ley.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 198 Bis 13.
 
 Adicionalmente a las prestaciones que señale la Ley aplicable, el Ejecutivo del Estado, previo el cumplimiento de los requisitos que señale el Reglamento de esta Ley, podrá otorgar una compensación adicional a los integrantes de las Instituciones de Seguridad Pública del Estado, que resulten lesionados o incapacitados para continuar prestando sus funciones habituales; en cuyo caso, de ser posible, se les destinará a realizar labores administrativas.
 
-De igual manera, en los términos que indique el Reglamento de esta Ley, cuando ocurra un deceso o incapacidad total permanente como causa directa del cumplimiento del deber, se podrá otorgar una casa de interés social a sus dependientes económicos, en caso de que no tengan una en propiedad, así como una compensación que cubra los gastos funerarios y becas para la educación de los hijos menores de edad.
+De igual manera, en los términos que indique el Reglamento de esta Ley, cuando ocurra un deceso o incapacidad total permanente como causa directa del cumplimiento del deber, se podrá otorgar una casa de interés social a sus dependientes económicos, en caso de que no tengan una propiedad, así como una compensación que cubra los gastos funerarios y becas para la educación de los hijos menores de edad, también el Ejecutivo del Estado a través de la Secretaría General de Finanzas y Tesorería General del Estado, deberá integrar un fondo económico de apoyo para los beneficiarios de los integrantes de las Instituciones de Seguridad Pública del Estado que fallezcan en el cumplimiento de su deber, así como a los que sufran una incapacidad total permanente, esta disposición es independiente a las prestaciones laborales con las que ya cuente el servidor público.
+
+El ejecutivo del Estado expedirá el reglamento del Fondo Económico, en el cual se establecerán las reglas de operación.
+
+El ejecutivo del Estado podrá hacer reasignaciones en el presupuesto de egresos que corresponda con el objeto de dirigir los recursos a los beneficiarios.
 
 Le corresponde a los Ayuntamientos de los Municipios expedir la reglamentación que regule las prestaciones señaladas en esta Sección a favor de los elementos policiales a su cargo.
 
@@ -3934,3 +3938,11 @@ P.O. 25 DE ENERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 269. SE TIENE POR RECIBIDAS EN TIEMPO Y FORMA LAS OBSERVACIONES REALIZADAS AL DECRETO NO. 269 DE FECHA 22 DE NOVIEMBRE DE 2022, POR EL QUE SE REFORMA EL ARTÍCULO 198 BIS 13 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- El Congreso del Estado deberá contemplar en el presupuesto de egresos del año siguiente al de la entrada en vigor del presente Decreto, la partida correspondiente a fin de garantizar lo contenido en el presente Decreto.
