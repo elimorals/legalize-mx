@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2022-06-10"
+last_updated: "2023-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -436,6 +436,10 @@ b) Tesorería;
 c) Contraloría Interna;
 
 d) Centro de Estudios Legislativos;
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+e) Unidad de género
 
 III.- De Apoyo:
 
@@ -1125,7 +1129,13 @@ c) Del Centro de Estudios Legislativos: la elaboración de los proyectos de dict
 
 d) De la Contraloría Interna: Es un órgano interno de Control del Congreso, con plena autonomía, técnica y de gestión, que auxiliará en el control, investigación, sustanciación y en los casos de su competencia emitirá la resolución correspondiente, dentro del procedimiento de responsabilidad iniciado por las quejas, denuncias o casos de corrupción del personal del Poder Legislativo, que se cometan con motivo de su cargo o en la función que desempeñan en el Congreso del Estado.
 
-El nombramiento del Contralor se realizará por el Pleno a propuesta de la Comisión de Coordinación y Régimen Interno, y se deberán reunir los requisitos que se establecen para los Órganos de Soporte Técnico, salvo los específicos para determinado cargo.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+El nombramiento de la persona titular de contraloría se realizará por el pleno a propuesta de la Comisión de Coordinación y Régimen Interno y se deberán reunir los requisitos que se establecen para los órganos de soporte técnico, salvo los específicos para determinado cargo;
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2023)</small>
+
+e) De la unidad de Género: Instancia técnica responsable de institucionalizar la perspectiva de género dentro del H. Congreso del Estado de Nuevo León, con el fin de avanzar en la igualdad sustantiva.
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1153,15 +1163,21 @@ a) Informes de apoyo a la Directiva y a la Diputación Permanente, que deberán 
 
 b) Informes de actividades que deberán rendirse dentro de los quince días siguientes al inicio y al término de cada período ordinario de sesiones, que se presentarán ante la Comisión de Coordinación y Régimen Interno en la sesión ordinaria de ésta, posterior al inicio y al término de cada período de sesiones. Los Diputados recibirán archivo electrónico de dichos informes;
 
-II.- El Tesorero: Informes trimestrales y el Informe de la Cuenta Pública Anual que se presentarán a la Comisión de Coordinación y Régimen Interno y al Comité de Administración en sus respectivas sesiones; y
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
+II.- La persona titular de tesorería: informes trimestrales y el informe de la cuenta pública anual que se presentaran a la comisión de coordinación y régimen interno y al comité de administración en sus respectivas sesiones;
 
-III.- Los titulares del Centro de Estudios Legislativos y de los Órganos de Apoyo: Informes de actividades que deberán rendirse dentro de los quince días siguientes al inicio y al término de cada período ordinario de sesiones, y los cuales se presentarán ante la Comisión de Coordinación y Régimen Interno y el Comité de Administración. Las Comisiones de Dictamen Legislativo recibirán copia de los informes que rinda el titular del Centro de Estudios Legislativos.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+III.- Los titulares del Centro de Estudios Legislativos y de los Órganos de apoyo: Informes de actividades que deberán rendirse dentro de los quince días siguientes al inicio y al término de cada periodo ordinario de sesiones, y los cuales se presentarán ante la comisión de coordinación y régimen interno y el comité de administración. Las comisiones de dictamen legislativo recibirán copia de los informes que rinda el titular del centro de estudios legislativos;
 
-IV. El Titular de la Contraloría: Informe sobre los procedimientos de responsabilidad que haya iniciado o sustanciado derivado de las violaciones a la legislación respectiva, por parte de servidores públicos del Congreso, así como dar seguimiento a las declaraciones patrimoniales, fiscal y de interés que obliga la Ley.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
+
+IV.- La persona titular de la contraloría; informe sobre los procedimientos de responsabilidad que haya iniciado o sustanciado derivado de las violaciones a la legislación respectiva, por parte de los servidores públicos del Congreso, así como dar seguimiento a las declaraciones patrimoniales, fiscal y de interés que obliga la ley; y
+
+> <small>(ADICIONADA P.O. 24 DE FEBRERO DE 2023)</small>
+
+V.- La titular de la Unidad de Género; informar anualmente de la evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas ejecutadas por el Congreso en el cumplimiento al Programa interinstitucional para la igualdad entre mujeres y hombres.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
@@ -1189,11 +1205,11 @@ VIII. En ningún caso podrán reunirse en los mismos servidores públicos las fa
 
 Artículo 80 BIS I.- La Contraloría Interna del Poder Legislativo, deberá incluir en sus resoluciones la opinión de un órgano ciudadano, que será nombrado bajo el procedimiento que la Comisión de Coordinación y Régimen Interno determine.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 81.
 
-Para ser titular de la Oficialía Mayor, Tesorería, Contraloría Interna o Centro de Estudios Legislativos del Congreso, se requiere:
+Para ser titular de la Oficialía Mayor, Tesorería, Contraloría Interna, Unidad de Genero o centro de Estudios Legislativos del Congreso, se requiere:
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1702,3 +1718,13 @@ P.O. 10 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 161. SE ADICIONA UN TÍTULO DÉCIMO, DENOMINADO “DE LA ACCESIBILIDAD UNIVERSAL EN EL CONGRESO DEL ESTADO” CON QUE CONTIENE LOS ARTÍCULOS 96 Y 97, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN XXVII DEL ARTÍCULO 65 Y SE ADICIONA UN ARTÍCULO 145 BIS 8 AL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 24 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 336. SE REFORMA EL INCISO D) DE LA FRACCIÓN I EN EL ARTÍCULO 79; LAS FRACCIONES II, III Y IV DEL ARTÍCULO 80 Y 81; SE ADICIONA UN INCISO E) EN LA FRACCIÓN II DEL ARTÍCULO 50; UN INCISO E) EN LA FRACCIÓN I EN EL ARTÍCULO 89, UNA FRACCIÓN V EN EL ARTÍCULO 80; TODOS LOS ANTERIORES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y SE ADICIONA UN ARTÍCULO 71 BIS AL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Unidad de Género deberá instalarse a más tardar treinta días naturales siguientes, contados a partir del día de la siguiente publicación del presente Decreto.
+
+TERCERO.- Anualmente se asignará una partida específica en la ley de Egresos del Estado de Nuevo León, para que la Unidad de Género cumpla sus funciones."
