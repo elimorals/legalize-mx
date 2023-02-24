@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-75698"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-28"
-last_updated: "2022-09-15"
+last_updated: "2023-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-07-13"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2023.
 
 Reglamento publicado en la Octava Sección del Diario Oficial de la Federación, el miércoles 28 de julio de 2010.
 
@@ -253,13 +253,15 @@ a) Si existe oferta de bienes y servicios en la cantidad, calidad y oportunidad 
 
 b) Si hay proveedores con la capacidad para cumplir con las necesidades de contratación, y
 
-> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2023)</small>
 
-c) Los precios máximos a partir de los cuales los proveedores no podrán ofertar precios superiores a los de dicha investigación;
+c) Los precios a partir de los cuales los proveedores no podrán ofertar precios superiores a los de dicha investigación, y
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-III. Determinar el volumen de los bienes o servicios requeridos, para que cada contrato marco propicie la obtención de economías de escala;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2023)</small>
+
+III. Determinar el volumen de los bienes o servicios requeridos, para que cada contrato marco propicie la obtención de economías de escala.
 
 IV. (DEROGADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)
 
@@ -269,9 +271,9 @@ V. (DEROGADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)
 
 > <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2023)</small>
 
-Durante la vigencia de los contratos marco, se podrán adherir nuevos posibles proveedores dentro de los plazos que establezca la Secretaría y cumplan con las características, especificaciones técnicas y demás condiciones previstas en dichos contratos y en sus anexos.
+Durante la vigencia de los contratos marco se podrán adherir nuevos posibles proveedores, dentro de los plazos que establezca la Secretaría y siempre que acrediten los requisitos, las características, las especificaciones técnicas y demás condiciones previstas en dichos contratos y en sus anexos.
 
 > <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
@@ -321,7 +323,9 @@ I. Se sustentarán en lo dispuesto por los artículos 41, fracción XX, o 42 de 
 
 II. Se formulará solicitud de cotización o se invitará a todos los proveedores que hayan formalizado el contrato marco, debiendo dejar constancia de ello en el expediente del procedimiento de contratación respectivo;
 
-III. Para la adjudicación del contrato específico, se verificará que el proveedor seleccionado esté al corriente en el cumplimiento de sus obligaciones fiscales, para lo cual deberá contar con la opinión de cumplimiento de las mismas, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2023)</small>
+
+III. Para la formalización del contrato específico debe verificarse que el proveedor seleccionado esté al corriente en el cumplimiento de sus obligaciones fiscales, para lo cual debe contar con la opinión de cumplimiento de las mismas, de conformidad con las disposiciones jurídicas aplicables. No se podrá formalizar contrato alguno si no se presentan dichas opiniones;
 
 IV. El procedimiento de contratación preferentemente se hará a través de invitación a cuando menos tres personas, la cual se publicará en CompraNet una vez entregada la primera invitación o, en su caso, la solicitud de cotización para que se presente la propuesta;
 
@@ -813,9 +817,9 @@ h) En su caso, el documento o el escrito a que se refiere el artículo 34 de est
 
 i) En su caso, el convenio firmado por cada una de las personas que integren una proposición conjunta, indicando en el mismo las obligaciones específicas del contrato que corresponderá a cada una de ellas, así como la manera en que se exigirá su cumplimiento, y
 
-> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2023)</small>
 
-j) Las opiniones de cumplimiento de obligaciones fiscales, de conformidad con las disposiciones jurídicas aplicables;
+j) Para el caso del licitante que resulte adjudicado, las opiniones de cumplimiento de obligaciones fiscales de conformidad con las disposiciones jurídicas aplicables, las cuales serán necesarias para llevar a cabo la formalización del contrato correspondiente, por lo que de no presentarse no se podrá formalizar contrato alguno.
 
 VII. Domicilio de las oficinas de la autoridad administrativa competente y la dirección electrónica de CompraNet, en que podrán presentarse inconformidades contra los actos de la licitación pública, y
 
@@ -2244,3 +2248,13 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Se derogan las demás disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los actos y contratos que las dependencias y entidades hayan celebrado con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones vigentes al momento de su inicio o celebración.
+
+D.O.F. 24 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan aquellas disposiciones administrativas que se opongan al presente decreto.
+
+TERCERO. En los procedimientos de contratación iniciados con anterioridad a la entrada en vigor del presente decreto, las dependencias y entidades de la Administración Pública Federal deben modificar sus convocatorias, siempre que se encuentren dentro de los siete días naturales previos al acto de presentación y apertura de proposiciones, a efecto de establecer que las opiniones de cumplimiento de obligaciones fiscales sean un requisito obligatorio para la firma del contrato, y no para participar en el acto de presentación y apertura de proposiciones.
