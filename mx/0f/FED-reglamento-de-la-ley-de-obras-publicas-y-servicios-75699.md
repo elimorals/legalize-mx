@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-obras-publicas-y-servicios-75699"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-28"
-last_updated: "2022-09-27"
+last_updated: "2023-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75699&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-07-13"
 
 REGLAMENTO DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2023.
 
 Reglamento publicado en la Octava Sección del Diario Oficial de la Federación, el miércoles 28 de julio de 2010.
 
@@ -587,9 +587,9 @@ Las convocantes verificarán que los documentos a que se refiere el párrafo ant
 
 IX. Incluir un formato para la verificación de la recepción de los documentos que el licitante entregue en dicho acto, en relación con los documentos requeridos en la convocatoria a la licitación pública, a efecto de facilitar y agilizar la presentación de las proposiciones, y
 
-> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2023)</small>
 
-X. La presentación de las opiniones de cumplimiento de obligaciones fiscales por parte del licitante, de conformidad con las disposiciones jurídicas aplicables.
+X. La indicación de que el licitante adjudicado deberá presentar para llevar a cabo la formalización del contrato correspondiente las opiniones de cumplimiento de obligaciones fiscales, de conformidad con las disposiciones jurídicas aplicables. No se podrá formalizar contrato alguno si no se presentan dichas opiniones.
 
 > <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2022)</small>
 
@@ -2209,7 +2209,9 @@ XI. Deberá utilizarse la Bitácora para asuntos trascendentes que deriven de la
 
 XII. El residente, el superintendente y, en su caso, el supervisor deberán resolver y cerrar invariablemente todas las notas que les correspondan, o especificar que su solución será posterior, debiendo en este último caso relacionar la nota de resolución con la que le dé origen, y
 
-XIII. El cierre de la Bitácora se consignará en una nota que dé por terminados los trabajos.
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2023)</small>
+
+XIII. El cierre de la Bitácora debe consignarse en una nota que dé por terminados los trabajos, la cual deberá elaborarse en la misma fecha en que es autorizada la estimación final.
 
 En atención a las características, complejidad y magnitud de los trabajos la residencia podrá realizar la apertura de una Bitácora por cada uno de los frentes de la obra, o bien, por cada una de las especialidades que se requieran.
 
@@ -4186,3 +4188,15 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Se derogan las demás disposiciones administrativas que se opongan al presente Decreto.
 
 TERCERO. Los actos y contratos que las dependencias y entidades hayan celebrado con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones vigentes al momento de su inicio o celebración.
+
+D.O.F. 24 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS
+
+RELACIONADOS CON LAS MISMAS”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan aquellas disposiciones administrativas que se opongan a lo previsto en el presente decreto.
+
+TERCERO. En los procedimientos de contratación iniciados con anterioridad a la entrada en vigor del presente decreto, las dependencias y entidades de la Administración Pública Federal deben modificar sus convocatorias, siempre que se encuentren dentro de los siete días naturales previos al acto de presentación y apertura de proposiciones, a efecto de establecer que las opiniones de cumplimiento de obligaciones fiscales son un requisito obligatorio para la firma del contrato, y no para participar en el acto de presentación y apertura de proposiciones.
