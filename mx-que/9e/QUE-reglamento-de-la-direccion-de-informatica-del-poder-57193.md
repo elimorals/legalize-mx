@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-de-la-direccion-de-informatica-del-poder-57193"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-21"
-last_updated: "2007-09-21"
+last_updated: "2023-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO DE LA DIRECCION DE INFORMATICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO ARTEAGA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 24 DE FEBRERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA DIRECCION DE INFORMATICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO ARTEAGA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2023 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 21 de septiembre de 2007.
 
@@ -558,3 +560,21 @@ LIC. CARLOS RAFAEL ESCALANTE MUNGUÍA
 SECRETARIO AUXILIAR DE ACUERDOS
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese este reglamento en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en la página oficial del Poder Judicial del Estado de Querétaro.
+
+###### ARTÍCULO SEGUNDO.
+
+Este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento de la Dirección de Informatica del Poder Judicial del Estado de Querétaro, publicado el 21 de septiembre de 2007 en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y se derogan las disposiciones que contravengan lo dispuesto en este Reglamento.
