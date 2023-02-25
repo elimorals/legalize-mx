@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2022-12-31"
+last_updated: "2023-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -829,13 +829,17 @@ IX.- El recién nacido después del momento del parto deberá tener contacto fí
 
 X.- La mujer embarazada deberá ser acompañada por algún familiar, amistad o persona de su confianza en toda la atención materno-infantil;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-XI.- Toda madre deberá tener acceso a los mecanismos de ayuda: económicos, asistenciales y médicos previstos por la ley para ellas incluyendo el periodo de postparto, y;
+XI.- Toda madre deberá tener acceso a los mecanismos de ayuda: económicos, asistenciales y médicos previstos por la ley para ellas incluyendo el período de postparto;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-XII.- Toda madre embarazada tiene derecho a ser informada de manera personalizada, suficiente, y comprensible.
+XII.- Toda madre embarazada tiene derecho a ser informada de manera personalizada, suficiente y comprensible; y,
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+XIII.- La atención a las adolescentes durante el embarazo, el acceso a servicios de atención prenatal, que incluyan la detección de casos de embarazos de alto riesgo para la salud y la vida de las niñas y adolescentes, especialmente en menores de 15 años, y en su caso, garantizar el acceso a servicios de interrupción del embarazo.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -889,9 +893,9 @@ VI.- Acciones de equipamiento y áreas especializadas para la atención materno-
 
 Las autoridades sanitarias, educativas y laborales, en sus respectivos ámbitos de competencia apoyarán y fomentarán:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-I.- Los programas destinados a promover la atención infantil, la paternidad y maternidad responsable y la orientación en la prevención de embarazos en los adolescentes;
+I.- Los programas destinados a promover la atención infantil, la paternidad y maternidad responsable y la orientación en la prevención de embarazos en los adolescentes, realizando las acciones señaladas en el artículo 62 de esta Ley;
 
 II.- Las actividades recreativas de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
@@ -924,6 +928,10 @@ En materia de higiene escolar, corresponde a las autoridades sanitarias federale
 ###### ARTICULO 62.
 
 La salud reproductiva tiene carácter prioritario. En sus actividades se debe incluir la promoción y aplicación, permanente e intensiva, de políticas y programas integrales tendientes a la educación y capacitación sobre salud sexual, derechos reproductivos, anticoncepción, así como a la maternidad y paternidad responsables, particularmente para adolescentes y jóvenes. Asimismo, para disminuir el riesgo reproductivo, se debe informar a las personas sobre los factores de riesgo y la importancia de la atención pregestional, así como la conveniencia de decidir sobre el número y espaciamiento de los embarazos, incluyendo la decisión de no tenerlos; todo ello, mediante una correcta información anticonceptiva, la cual debe ser oportuna, completa, accesible y basada en la mejor evidencia científica disponible.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+En las acciones dirigidas a brindar educación sexual a niñas, niños y adolescentes, la Secretaría de Salud procurará la colaboración de los medios de comunicación y de la sociedad civil para el desarrollo de contenidos y la realización de acciones conjuntas, con el fin de ampliar su impacto y pertinencia. La Secretaría de Salud considerará la participación de niñas, niños y adolescentes en el diseño de contenidos dirigidos a su educación sexual.
 
 Los servicios que se presten en esta materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de las hijas e hijos, con pleno respeto a su dignidad y su autonomía reproductiva.
 
@@ -4014,6 +4022,14 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 31 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 744.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN II Y SE ADICIONA LA FRACCIÓN III AL ARTÍCULO 152 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 822.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 56 Y LA FRACCIÓN I DEL ARTÍCULO 60; Y SE ADICIONA LAS (SIC) FRACCIÓN XIII AL ARTÍCULO 56 Y UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES AL ARTÍCULO 62 DE LA LEY ESTATAL DE SALUD".]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
