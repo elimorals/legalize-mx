@@ -1,0 +1,112 @@
+---
+title: "LEY DE INGRESOS DEL MUNICIPIO DE ZIMATLAN DE ALVAREZ, DISTRITO DE ZIMATLAN, OAXACA, PARA EL EJERCICIO FISCAL 2023"
+identifier: "OAX-ley-de-ingresos-del-municipio-de-zimatlan-de-alvarez-164822"
+country: "mx"
+rank: "ley_de_ingresos"
+publication_date: "2023-02-25"
+last_updated: "2023-02-25"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164822&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-oax"
+scjn_id: "164822"
+scjn_status: "NO VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "8 DECIMA QUINTA SECCION"
+reform_count: "0"
+scjn_last_update: "2023-02-25"
+issue_date: "2023-02-09"
+municipality: "Zimatlán de Álvarez"
+municipality_inegi: "20570"
+state: "OAX"
+---
+# LEY DE INGRESOS DEL MUNICIPIO DE ZIMATLAN DE ALVAREZ, DISTRITO DE ZIMATLAN, OAXACA, PARA EL EJERCICIO FISCAL 2023
+
+LEY DE INGRESOS DEL MUNICIPIO DE ZIMATLÁN DE ÁLVAREZ, DISTRITO DE ZIMATLÁN, OAXACA, PARA EL EJERCICIO FISCAL 2023
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Décima Quinta Sección del Número 8 del Periódico Oficial del Estado de Oaxaca, el sábado 25 de febrero de 2023.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+###### Artículo 102.
+
+El pago de los derechos a que se refiere esta Sección, deberá hacerse previo a la expedición de las certificaciones, constancias de legalización y demás certificaciones, y se pagarán conforme a las siguientes cuotas:
+
+CONCEPTO CUOTA EN
+
+PESOS
+
+I. a VII. …
+
+(NOTA: EL 11 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 76/2023 Y SUS ACUMULADAS 80/2023 Y 83/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+VIIl. CERTIFICACIÓN DE IMPRESIONES
+
+BLANCO Y NEGRO O A COLOR TAMAÑO CARTA,
+
+POR CADA LADO DE HOJA 5.00
+
+(NOTA: EL 11 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 76/2023 Y SUS ACUMULADAS 80/2023 Y 83/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+IX. CERTIFICACIÓN DE IMPRESIONES
+
+BLANCO Y NEGRO O A COLOR TAMAÑO OFICIO,
+
+POR CADA LADO DE HOJA 8.00
+
+X. a XI. …
+
+Las cuotas a que se refiere la tabla anterior podrán disminuirse por el Ayuntamiento por acuerdo de Comisión de Hacienda, tomando en consideración la situación económica del solicitante.
+
+Los jubilados, pensionados, personas de la tercera edad y personas con capacidades diferentes obtendrán un descuento del 50% por la expedición de constancias mencionadas en el tabulador anterior, siempre y cuando acrediten dicha situación mediante documentos comprobatorios consistentes en credenciales vigentes expedidas por las Dependencias o Instituciones correspondientes.
+
+El pago de los derechos a que se refiere esta Sección, deberá hacerse con anterioridad a la expedición de las certificaciones y constancias materia de los mismos, previa emisión de comprobante fiscal digital.
+
+###### Artículo 199.
+
+Se consideran multas las faltas administrativas que cometan los ciudadanos a esta Ley, a su Bando de Policía y Gobierno, Reglamentos y demás
+
+legislaciones municipales aplicables, por los siguientes conceptos y bajo las siguientes cuotas:
+
+CONCEPTO CUOTA UMA
+
+l. OBLIGACIONES GENERALES:
+
+a) al n) …
+
+o) Faltas contra la integridad moral del individuo y de la familia:
+
+1. al 2. …
+
+(NOTA: EL 11 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 76/2023 Y SUS ACUMULADAS 80/2023 Y 83/2023, DECLARÓ LA INVALIDEZ DEL NUMERAL 3 DEL INCISO o) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+3. INJURIAR A LAS PERSONAS QUE ASISTAN A
+
+UN ESPECTÁCULO O DIVERSIÓN, CON PALABRAS,
+
+ACTITUDES O GESTOS POR PARTE DE LOS
+
+ACTORES, JUGADORES, MÚSICOS O
+
+AUXILIARES DEL ESPECTÁCULO O DIVERSIÓN 95
+
+4. al 5. …
+
+(NOTA: EL 11 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 76/2023 Y SUS ACUMULADAS 80/2023 Y 83/2023, DECLARÓ LA INVALIDEZ DEL INCISO p) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+p) ESCÁNDALO EN LA VÍA PÚBLICA 17
+
+q) al z) …
+
+(NOTA: EL 11 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 76/2023 Y SUS ACUMULADAS 80/2023 Y 83/2023, DECLARÓ LA INVALIDEZ DEL INCISO aa) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+aa) FALTA ADMINISTRATIVA NO CONTEMPLADA
+
+DENTRO DE LA LEY 15
+
+II. a III. …
+
+En caso de que las personas cometan reincidencia en las conductas señaladas en este artículo, las autoridades municipales impondrán las multas al doble.
