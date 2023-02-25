@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-las-personas-jovenes-del-estado-de-oaxaca-117872"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2022-04-02"
+last_updated: "2023-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE LAS PERSONAS JÓVENES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -269,7 +269,9 @@ XIII. Promover campañas que incentiven el autocuidado en la población juvenil 
 
 XIV. Contribuir en las estrategias para la prevención de accidentes de tránsito en la población juvenil;
 
-XV. Fomentar campañas sobre las consecuencias del consumo del alcohol a temprana edad;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+XV. Fomentar campañas de prevención del consumo de alcohol en la población juvenil y las consecuencias de éste al hacerlo a temprana edad;
 
 XVI. Promover habilidades en solución de conflictos de manera pacífica para la prevención de la violencia en coordinación con la Secretaría de Seguridad Pública en el Estado;
 
@@ -804,3 +806,11 @@ P.O. 2 DE ABRIL DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 851.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 11 DE LA LEY DE LAS PERSONAS JÓVENES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
