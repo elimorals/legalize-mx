@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-acceso-a-la-informacion-publica-y-buen-150
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-04"
-last_updated: "2022-05-07"
+last_updated: "2023-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
 
 Ley publicada en el No. 36 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de septiembre de 2021.
 
@@ -379,9 +379,15 @@ V. Los nombres de las personas de quienes ejercen la función de notarios públi
 
 VI. La información detallada que contengan los planes de desarrollo urbano, ordenamiento territorial y ecológico, los tipos y usos de suelo;
 
-VII. Las disposiciones administrativas, directamente o a través de la autoridad competente, con el plazo de anticipación que prevean las disposiciones aplicables al sujeto obligado de que se trate, salvo que su difusión pueda comprometer los efectos que se pretenden lograr con la disposición o se trate de situaciones de emergencia, de conformidad con dichas disposiciones; y
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-VIII. Las demás que le señalen esta Ley y demás disposiciones normativas aplicables.
+VII. Las disposiciones administrativas, directamente o a través de la autoridad competente, con el plazo de anticipación que prevean las disposiciones aplicables al sujeto obligado de que se trate, salvo que su difusión pueda comprometer los efectos que se pretenden lograr con la disposición o se trate de situaciones de emergencia, de conformidad con dichas disposiciones;
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+VIII. Las deudas contraídas con los proveedores, así como los pagos realizados a los mismos; y
+
+IX. Las demás que le señalen esta Ley y demás disposiciones normativas aplicables.
 
 ###### Artículo 22.
 
@@ -525,9 +531,17 @@ III. Los programas de becas y apoyos, los requisitos y el procedimiento para acc
 
 IV. Los indicadores de resultados en las evaluaciones al desempeño de la planta académica;
 
-V. El número de estudiantes que egresan por ciclo escolar, por escuela o facultad; y
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-VI. El calendario del ciclo escolar.
+V. El número de estudiantes que egresan por ciclo escolar, por escuela o facultad;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+VI. El calendario del ciclo escolar; y
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+VII. Los conceptos y montos por pago de derechos, cuotas escolares o cualquier otro tipo de cobro que hagan con motivo de la prestación de los servicios educativos que lleven a cabo.
 
 ###### Artículo 29.
 
@@ -2328,5 +2342,21 @@ P.O. 7 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 608.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XVI DEL ARTÍCULO 30 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 823.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES V Y VI; ASÍ COMO SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 28 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 824.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII Y SE ADICIONA LA FRACCIÓN VIII, RECORRIENDOSE LA SUBSECUENTE, DEL ARTÍCULO 21; DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
