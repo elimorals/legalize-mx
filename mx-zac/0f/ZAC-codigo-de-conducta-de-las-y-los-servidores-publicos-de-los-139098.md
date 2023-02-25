@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-conducta-de-las-y-los-servidores-publicos-de-los-1390
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-09"
-last_updated: "2019-11-09"
+last_updated: "2023-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CODIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PUBLICOS DE LOS SERVICIOS DE SALUD DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS AL SERVICIO PÚBLICO DE LA SECRETARÍA DE SALUD Y LOS SERVICIOS DE SALUD DE ZACATECAS, PUBLICADO EN EL P.O. DE 25 DE FEBRERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS TRABAJADORES DE LOS SERVICIOS DE SALUD DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023 (ABROGADO).
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 9 de noviembre de 2019.
 
@@ -412,3 +414,21 @@ Firma de Adhesión al Código de Conducta por parte de los integrantes del Comit
 Una vez que se ha concluido con la revisión y aprobación del Código de Conducta de los Servicios de Salud de Zacatecas, los integrantes del Comité de Ética, lo suscribimos como muestra de total respaldo a su observancia y aplicación.
 
 PRESIDENTE DEL COMITÉ DE ÉTICA.- GILBERTO BREÑA CANTÚ. COORDINADOR DEL COMITÉ DE ÉTICA.- FEDERICO BORREGO ITURBE. ENLACE DEL COMITÉ DE ETICA.- LUZ ELENA CARLOS MEDRANO. VOCALES DEL COMITÉ DE ÉTICA.- ANA MARÍA VEGA VEYVA. RICARDO VÁZQUEZ DOMÍNGUEZ Y (SIC) IVÁN TORRES CUEVAS. RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS AL SERVICIO PÚBLICO DE LA SECRETARÍA DE SALUD Y LOS SERVICIOS DE SALUD DE ZACATECAS”.]
+
+PRIMERO. El presente Código de Conducta entra en vigor a partir del día siguiente de su autorización y publicación en el sitio web oficial de la Secretaría de Salud y los Servicios de Salud de Zacatecas.
+
+SEGUNDO. Para su debido cumplimiento, se hará difusión oficial del presente Código de Conducta a todo el personal que integran la Secretaría de Salud y los Servicios de Salud de Zacatecas; a través del Comité de Ética de dicho organismo, mismo que deberá recabar en ese ejercicio la “Carta Compromiso” y hacerla llegar a el área administrativa para su archivo correspondiente en cada uno de los expedientes del personal con una copia para el Secretario Técnico del mismo Comité.
+
+TERCERO. El presente Código de Conducta se enviará para su aprobación a la Secretaría de la Función Pública del Estado de Zacatecas, una vez que este lo autorice se presentará a la Junta de Gobierno de la Secretaría de Salud y los Servicios de Salud de Zacatecas para su posterior publicación en el Periódico Oficial de Gobierno del Estado.
+
+CUARTO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código de Conducta, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+QUINTO. Se abroga el Acuerdo por el que se emite el Código de Conducta de las y los Servidores Públicos de los Servicios de Salud de Zacatecas de octubre de dos mil dieciocho, así como cualquier disposición de índoleadministrativo (sic) que se contraponga al presente Código.
+
+SEXTO. Cualquier inconformidad o asunto no contenido en el presente código de conducta las partes se sujetarán a la resolución que emita el Órgano Interno de Control y/o la Secretaría de la Función Pública de acuerdo a su competencia.
