@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-bienestar-y-desarrollo-social-del-estado-de-94442"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-18"
-last_updated: "2022-05-14"
+last_updated: "2023-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de mayo de 2013.
 
@@ -357,25 +357,29 @@ IX. Libre determinación de los pueblos indígenas y sus comunidades: Implica el
 
 X. Participación social: derecho de las personas y organizaciones a intervenir, individual o colectivamente, en la formulación, ejecución y evaluación de las políticas, programas y acciones del desarrollo social y humano;
 
-XI. Rendición de Cuentas: obligación de los Servidores Públicos a informar y justificar los actos de su decisión, así mismo el de ser sancionables en la medida de que dichos Funcionarios desatiendan sus deberes Públicos; y
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-XII. Respeto a la diversidad: reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, ideológicas y políticas, Estado Civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+XI. Progresividad: Refiere al avance en la cobertura de los derechos sociales y sus prestaciones, de manera creciente y que no se pueda retroceder en los logros que se han alcanzado.
 
-XIII. Soberanía y seguridad alimentaria: Fomento de la capacidad de producir lo necesario y suficiente para vivir, mediante apoyos individuales, familiares o colectivos que garanticen la producción de alimentos básicos. En el caso de las comunidades y pueblos indígenas, subsidiar actividades agropecuarias, acuícolas, apícolas y otros productos originarios, dando prioridad al cultivo regional, de acuerdo con las condiciones geográficas y climatológicas del lugar, a fin de alcanzar soberanía y seguridad alimentaria
+XII. Rendición de Cuentas: obligación de los Servidores Públicos a informar y justificar los actos de su decisión, así mismo el de ser sancionables en la medida de que dichos Funcionarios desatiendan sus deberes Públicos; y
 
-XIV. Solidaridad: colaboración entre personas, grupos sociales y ámbitos de gobierno, de manera corresponsable para el mejoramiento de la calidad de vida de la sociedad.
+XIII. Respeto a la diversidad: reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, ideológicas y políticas, Estado Civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
 
-XV. Subsidiaridad: reconocimiento, aprovechamiento y complementación de las capacidades individuales y colectivas existentes en la comunidad, con el propósito de que las personas y comunidades reduzcan sus niveles de dependencia hacia los agentes externos y aumenten así el grado de control sobre las decisiones que les afectan para su desarrollo integral;
+XIV. Soberanía y seguridad alimentaria: Fomento de la capacidad de producir lo necesario y suficiente para vivir, mediante apoyos individuales, familiares o colectivos que garanticen la producción de alimentos básicos. En el caso de las comunidades y pueblos indígenas, subsidiar actividades agropecuarias, acuícolas, apícolas y otros productos originarios, dando prioridad al cultivo regional, de acuerdo con las condiciones geográficas y climatológicas del lugar, a fin de alcanzar soberanía y seguridad alimentaria
 
-XVI. Sustentabilidad: Implica la preservación del equilibrio ecológico, la protección del ambiente y el aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la permanencia, estabilidad y viabilidad de los ecosistemas, de las regiones, microrregiones y municipios;
+XV. Solidaridad: colaboración entre personas, grupos sociales y ámbitos de gobierno, de manera corresponsable para el mejoramiento de la calidad de vida de la sociedad.
 
-XVII. Territorialidad: Se refiere a la planeación y ejecución de la política social desde un enfoque socio-espacial en el que en el ámbito territorial confluyen, se articulan y complementan las diferentes políticas y programas y donde se incorpora la gestión del territorio como componente del desarrollo social y de la articulación de éste con las políticas de desarrollo regional;
+XVI. Subsidiaridad: reconocimiento, aprovechamiento y complementación de las capacidades individuales y colectivas existentes en la comunidad, con el propósito de que las personas y comunidades reduzcan sus niveles de dependencia hacia los agentes externos y aumenten así el grado de control sobre las decisiones que les afectan para su desarrollo integral;
 
-XVIII. Transparencia: Establece que la información relativa al desarrollo social es pública en los términos de las leyes en la materia. La Secretaría garantizará que la información gubernamental sea objetiva, oportuna, sistemática y veraz;
+XVII. Sustentabilidad: Implica la preservación del equilibrio ecológico, la protección del ambiente y el aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la permanencia, estabilidad y viabilidad de los ecosistemas, de las regiones, microrregiones y municipios;
 
-XIX. Transversalidad: Se refiere a la participación de más de una secretaría de gobierno, y representaciones o delegaciones federales, en la implementación de Políticas integrales de Desarrollo Social, y
+XVIII. Territorialidad: Se refiere a la planeación y ejecución de la política social desde un enfoque socio-espacial en el que en el ámbito territorial confluyen, se articulan y complementan las diferentes políticas y programas y donde se incorpora la gestión del territorio como componente del desarrollo social y de la articulación de éste con las políticas de desarrollo regional;
 
-XX. Universalidad: la política de desarrollo social está dirigida a todos los habitantes del Estado, y tiene por propósito el acceso de todos al ejercicio de los derechos sociales y a una creciente calidad de vida.
+XIX. Transparencia: Establece que la información relativa al desarrollo social es pública en los términos de las leyes en la materia. La Secretaría garantizará que la información gubernamental sea objetiva, oportuna, sistemática y veraz;
+
+XX. Transversalidad: Se refiere a la participación de más de una secretaría de gobierno, y representaciones o delegaciones federales, en la implementación de Políticas integrales de Desarrollo Social, y
+
+XXI. Universalidad: la política de desarrollo social está dirigida a todos los habitantes del Estado, y tiene por propósito el acceso de todos al ejercicio de los derechos sociales y a una creciente calidad de vida.
 
 ###### Artículo 16.
 
@@ -448,6 +452,10 @@ h) El disfrute de una vida lúdica, recreativa, deportiva y cultural.
 ###### Artículo 17.
 
 Todos los programas estatales y municipales que beneficien los derechos humanos y sociales se considerarán como de desarrollo social para esta Ley.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+Los programas de desarrollo social, deberán garantizar la universalidad, progresividad y el ejercicio pleno de los derechos sociales de la población.
 
 ###### Artículo 18.
 
@@ -1698,3 +1706,11 @@ P.O. 14 DE MAYO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 852.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XI Y SE RECORREN LAS SUBSECUENTES AL ARTÍCULO 15; Y EL PÁRRAFO SEGUNDO AL ARTÍCULO 17 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
