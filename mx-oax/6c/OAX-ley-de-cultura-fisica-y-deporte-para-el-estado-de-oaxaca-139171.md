@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cultura-fisica-y-deporte-para-el-estado-de-oaxaca-139171
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-22"
-last_updated: "2023-01-05"
+last_updated: "2023-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 22 de octubre de 2019.
 
@@ -107,7 +107,9 @@ X. Incentivar la actividad deportiva que se desarrolla en forma organizada y pro
 
 XI. Promover en la práctica de actividades físicas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
 
-XII. Garantizar a las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+XII. Garantizar el acceso a las acciones, políticas públicas y programas de desarrollo en materia de cultura física y deporte, a todas las personas sin discriminación por su origen étnico o nacional, género, edad, discapacidad, condición social, condición económica, condición de salud, condición de migrante, religión, opiniones, ideología política, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
 XIII. Promover el desarrollo del deporte adaptado y los apoyos para el fomento de la cultura física y el deporte para personas con discapacidad, a través de su integración, la equidad, y no sean objeto de discriminación alguna;
 
@@ -2356,3 +2358,11 @@ OCTAVO. Cuando en diversas disposiciones legales se haga referencia al Servicio 
 NOVENO. Cuando en diversas disposiciones legales se haga referencia a Instituto Oaxaqueño de las Artesanías, se entenderá que se refiere a Instituto para el Fomento y la Protección de las Artesanías.
 
 DÉCIMO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 25 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 850.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 6 DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y la Gaceta Parlamentaria del H. Congreso del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
