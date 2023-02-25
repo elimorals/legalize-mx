@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-deuda-publica-para-el-estado-de-oaxaca-125270"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-30"
-last_updated: "2021-12-18"
+last_updated: "2023-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 2017.
 
@@ -215,9 +215,9 @@ A falta de disposición expresa en esta Ley, se aplicarán supletoriamente la Le
 
 La interpretación en el ámbito administrativo corresponderá a la Secretaría. La Secretaría de la Contraloría y Transparencia Gubernamental vigilará en el ámbito de su competencia la aplicación de la misma.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
-La fiscalización sobre el cumplimiento de lo dispuesto en esta Ley, corresponderá a la Auditoría Superior de la Federación y al Órgano Superior de Fiscalización del Estado de Oaxaca.
+La fiscalización sobre el cumplimiento de lo dispuesto en esta Ley, corresponderá a la Auditoría Superior de la Federación y a la Auditoría Superior de Fiscalización del Estado de Oaxaca.
 
 ### CAPÍTULO SEGUNDO. DE LA COMPETENCIA Y OBLIGACIONES DE LOS ÓRGANOS EN MATERIA DE DEUDA PÚBLICA
 
@@ -770,3 +770,11 @@ SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veinti
 TERCERO. Previo análisis del Destino y la Capacidad de pago del Estado y con el fin de seguir fortaleciendo las fianzas (sic) públicas del Estado y mitigar los riesgos de un alza en la tasa de interés de los financiamientos de largo plazo a cargo del Estado que constituyen su deuda pública, para el ejercicio fiscal 2022 se autoriza al Ejecutivo del Estado, a través de la Secretaría de Finanzas, la celebración de las operaciones de instrumentos derivados, incluyendo su contratación o vinculación a los créditos vigentes del Estado, así como a los actualmente celebrados, referidos en el Decreto 809 y en el Decreto 1808, emitidos por la Sexagésima Cuarta Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, publicados en el Periódico Oficial del Gobierno del Estado de Oaxaca el 5 de octubre de 2019 y 26 de diciembre de 2020 respectivamente, para que pueda llevarlas a cabo durante el año 2022, así como para que celebre todos los actos necesarios y/o convenientes para instrumentar dichas operaciones autorizadas conforme al Decreto referido y el presente artículo. La presente autorización ratifica en todos y cada uno de sus términos, las autorizaciones y disposiciones en relación con las operaciones de instrumentos derivados contenidas en el Decreto 809 antes señalado.
 
 CUARTO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 25 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 855.- MEDIANTE EL CUAL SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 4 DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
