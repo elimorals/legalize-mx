@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2022-12-03"
+last_updated: "2023-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -171,37 +171,41 @@ XXV. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y 
 
 XXVI. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
 
-XXVII. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-XXVIII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+XXVII. Principio de no revictimización: Las pruebas que se les practiquen en juicio se lleven a cabo por un perito o perita única y especializada y no en forma colegiada.
 
-XXIX. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXVIII. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXX. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca;
+XXIX. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+
+XXX. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+
+XXXI. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca;
 
 > <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
 
-XXXI. Sistema Local de Protección: El Sistema de Protección de Niñas, Niños y Adolescentes del Estado de Oaxaca;
+XXXII. Sistema Local de Protección: El Sistema de Protección de Niñas, Niños y Adolescentes del Estado de Oaxaca;
 
-XXXII. Sistemas DIF Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Oaxaca;
+XXXIII. Sistemas DIF Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Oaxaca;
 
 > <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2022)</small>
 
-XXXIIII. Sistema Municipal de Protección: El Sistema de Protección de niñas, niños y adolescentes de cada municipio;
+XXXIV. Sistema Municipal de Protección: El Sistema de Protección de niñas, niños y adolescentes de cada municipio;
 
-XXXIV. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
-
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2022)</small>
-
-XXXV. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes,
+XXXV. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
 
 > <small>(REFORMADA, P.O. 23 DE ABRIL DE 2022)</small>
 
-XXXVI. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte; y
+XXXVI. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes,
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2022)</small>
+
+XXXVII. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte; y
 
 > <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
-XXXVII. Registro Estatal de Agresores: El Registro Estatal de Agresores Sexuales de Niñas, Niños y Adolescentes.
+XXXVIII. Registro Estatal de Agresores: El Registro Estatal de Agresores Sexuales de Niñas, Niños y Adolescentes.
 
 ###### Artículo 7.
 
@@ -249,13 +253,17 @@ XII. El principio pro persona;
 
 XIII. El acceso a una vida libre de violencia;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-XIV. La accesibilidad, y
+XIV. La accesibilidad;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-XV. El derecho al adecuado desarrollo evolutivo de la personalidad.
+XV. El derecho al adecuado desarrollo evolutivo de la personalidad; y
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+XVI. De no revictimización.
 
 ###### Artículo 9.
 
@@ -2718,6 +2726,16 @@ TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del p
 P.O. 3 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 734.- MEDIANTE EL CUAL SE ADICIONAN UN TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 119 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 25 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 819.- MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XXVII Y SE RECORREN LAS SUBSECUENTES DEL ARTÍCULO 6; SE REFORMAN LAS FRACCIONES XIV, XV Y SE ADICIONA LA FRACCION XVI DEL ARTÍCULO 8 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
