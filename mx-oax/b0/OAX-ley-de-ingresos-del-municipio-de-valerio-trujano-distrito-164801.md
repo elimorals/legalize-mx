@@ -1,0 +1,110 @@
+---
+title: "LEY DE INGRESOS DEL MUNICIPIO DE VALERIO TRUJANO, DISTRITO DE CUICATLAN, OAXACA, PARA EL EJERCICIO FISCAL 2023"
+identifier: "OAX-ley-de-ingresos-del-municipio-de-valerio-trujano-distrito-164801"
+country: "mx"
+rank: "ley_de_ingresos"
+publication_date: "2023-02-25"
+last_updated: "2023-02-25"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164801&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-oax"
+scjn_id: "164801"
+scjn_status: "NO VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "8 DECIMA PRIMERA SECCION"
+reform_count: "0"
+scjn_last_update: "2023-02-25"
+issue_date: "2023-02-03"
+municipality: "Valerio Trujano"
+municipality_inegi: "20558"
+state: "OAX"
+---
+# LEY DE INGRESOS DEL MUNICIPIO DE VALERIO TRUJANO, DISTRITO DE CUICATLAN, OAXACA, PARA EL EJERCICIO FISCAL 2023
+
+LEY DE INGRESOS DEL MUNICIPIO DE VALERIO TRUJANO, DISTRITO DE CUICATLÁN, OAXACA, PARA EL EJERCICIO FISCAL 2023
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Décima Primera Sección del Número 8 del Periódico Oficial del Estado de Oaxaca, el sábado 25 de febrero de 2023.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+###### Artículo 39.
+
+El pago de los derechos a que se refiere esta sección, debe hacerse previo a la expedición de las certificaciones y constancias y se pagará conforme a las siguientes cuotas:
+
+Concepto Cuota en pesos
+
+l. Documentos certificados existentes en
+
+los archivos municipales por hoja, derivados
+
+de las actuaciones de los
+
+Servidores Públicos Municipales 200.00
+
+II. Expedición de certificados de residencia,
+
+origen, dependencia económica, de situación
+
+fiscal de contribuyentes inscritos en la
+
+Tesorería y de morada conyugal 100.00
+
+III. Certificación de la superficie de un predio 1000.00
+
+IV. Certificación de la ubicación de un inmueble 200.00
+
+(NOTA: EL 11 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 76/2023 Y SUS ACUMULADAS 80/2023 Y 83/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+V. BÚSQUEDA DE DOCUMENTOS EN
+
+EL ARCHIVO MUNICIPAL 50.00
+
+(NOTA: EL 11 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 76/2023 Y SUS ACUMULADAS 80/2023 Y 83/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+VI. CONSTANCIAS Y COPIAS CERTIFICADAS
+
+DISTINTAS A LAS ANTERIORES 100.00
+
+VII. Constancia de registro de bomba para riego 100.00
+
+VIII. Constancia de antecedentes no penales del municipio $100.00
+
+###### Artículo 63.
+
+El Municipio percibe ingresos, por las siguientes faltas administrativas:
+
+Concepto Cuota en pesos
+
+(NOTA: EL 11 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 76/2023 Y SUS ACUMULADAS 80/2023 Y 83/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+l. ESCÁNDALO EN LA VÍA PÚBLICA - (PELEAS, RUIDOS
+
+Y andar en estado de ebriedad) 500.00
+
+II. Hacer necesidades fisiológicas en vía pública (orinar o
+
+defecar) 500.00
+
+III. Tirar basura 500.00
+
+IV. Grafiti 3000.00
+
+V. Conducir a exceso de velocidad en zonas restringidas 500.00
+
+VI. Conducir a exceso de velocidad en estado de ebriedad 1000.00
+
+VII. Obstrucción de la vía pública sin permiso $500.00
+
+VIII. Faltas a la moral 1000.00
+
+(NOTA: EL 11 DE DICIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 76/2023 Y SUS ACUMULADAS 80/2023 Y 83/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE DICIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+IX. INSULTOS A LA AUTORIDAD 1000.00
+
+X. Mascotas sueltas en la vía pública 1000.00
+
+XI. Agresiones por mascotas (por causar daños a terceros) 5000.00
