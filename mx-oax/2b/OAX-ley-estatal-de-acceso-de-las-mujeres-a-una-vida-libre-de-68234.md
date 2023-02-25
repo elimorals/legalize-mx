@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2022-09-03"
+last_updated: "2023-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -217,9 +217,13 @@ IX. (DEROGADA, P.O. 20 DE AGOSTO DE 2022)
 
 X. Violencia Obstétrica: Es toda acción u omisión de profesionales y personal de la salud en el ámbito público y privado, que cause daño físico o psicológico a la mujer, durante el embarazo, parto o puerperio, que se exprese en la falta de acceso a servicio de salud sexual o reproductiva, trato cruel, inhumano o degradante, abuso de la medicalización en los procesos biológicos naturales, la practica innecesaria o no autorizada de intervenciones o procedimientos quirúrgicos, la manipulación o negociación de información; y en general, en cualquier situación que implique la pérdida o disminución de su autonomía y la capacidad de decidir de manera libre e informada, a lo largo de dichas etapas.
 
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+XI. La violencia vicaria: Es toda acción u omisión cometida por una persona, por sí o a través de terceros contra una mujer, con quien tiene o mantuvo un vínculo matrimonial o una relación de concubinato, noviazgo o de tipo sentimental, que se ejerce a través de las hijas e hijos producto de la relación o cualquier otra persona significativa para ella, con el objeto de causarle un daño psicológico, patrimonial, moral o de cualquier otro tipo, y
+
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XI. Cualesquiera otras formas análogas de violencia que lesione o sean susceptibles de dañar la dignidad, integridad, patrimonio o libertad de las mujeres.
+XII. Cualesquiera otras formas análogas de violencia que lesione o sean susceptibles de dañar la dignidad, integridad, patrimonio o libertad de las mujeres.
 
 ## TÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
 
@@ -2796,3 +2800,11 @@ P.O. 3 DE SEPTIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 820.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XI Y SE RECORRE LA SUBSECUENTE AL ARTÍCULO 7 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
