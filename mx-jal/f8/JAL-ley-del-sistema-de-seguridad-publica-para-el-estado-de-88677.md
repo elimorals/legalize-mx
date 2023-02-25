@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2021-05-11"
+last_updated: "2023-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -67,19 +67,21 @@ I. Proteger y respetar la vida, la integridad corporal, la dignidad y los derech
 
 II. Mantener el orden y la tranquilidad pública en el estado;
 
-III. Promover y coordinar los programas de prevención de delitos, conductas antisociales e infracciones a las leyes y reglamentos del Estado, los municipios y, en su caso, las correspondientes del ámbito federal;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+III. Promover y coordinar los programas de prevención de las violencias, los delitos e infracciones a las leyes y reglamentos del Estado, los municipios y, en su caso, las correspondientes del ámbito federal;
 
 IV. Establecer los mecanismos de coordinación con el Ministerio Público para auxiliarlo en la investigación y persecución de los delitos, así como de quienes los cometan, a efecto de que las policías estatales y municipales que resulten competentes actúen bajo su conducción y mando;
 
 V. Disponer la coordinación entre las diversas autoridades para brindar el apoyo y auxilio a la población, tanto respecto de la seguridad pública, como en casos de emergencias, accidentes, siniestros y desastres conforme a la ley de la materia;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-VI. Procurar la seguridad pública mediante la prevención, investigación, persecución y sanción de las infracciones y delitos, la reinserción social de los delincuentes, de los adolescentes y adultos jóvenes en conflicto con la ley, así como en el auxilio y atención integral a las víctimas de hechos delictuosos;
+VI. Procurar la seguridad pública mediante la prevención, investigación, persecución y sanción de las infracciones y delitos, la reinserción social de las personas privadas de su libertad, de los adolescentes y adultos jóvenes en conflicto con la ley, así como en el auxilio y atención integral a las víctimas de hechos delictuosos;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-VII. Detectar y combatir los factores que genere la comisión de delitos y conductas antisociales, así como desarrollar políticas criminológicas, planes, programas y acciones para fomentar en la sociedad valores culturales y cívicos que induzcan el respeto a la legalidad;
+VII. Detectar y atender los factores que generan la comisión de delitos, violencias y conflictividades, así como desarrollar políticas criminológicas, planes, programas y acciones para fomentar en la sociedad valores culturales y cívicos que induzcan el respeto a la legalidad;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
 
@@ -123,23 +125,27 @@ X. Director General del C5: El Director General del Centro de Coordinación, Com
 
 XI. Cuerpos de Seguridad Pública del Estado: las corporaciones a que se refiere el artículo 26 de la presente ley;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-XII. Elementos operativos: los integrantes de las instituciones de la Fiscalía Estatal, de la Secretaría de Seguridad, de la seguridad pública municipales, de procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, y a todos a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5° de esta ley;
+XII. Personal operativo: los integrantes de las instituciones de la Fiscalía Estatal, de la Secretaría de Seguridad, de la seguridad pública municipal, los peritos del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, al personal con funciones operativas adscritos al Escudo Urbano C5 y a todos a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o aquéllos que realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5° de esta ley;
 
-XIII. "Escudo Urbano·C5": al Organismo Público Descentralizado encargado del Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo del Estado de Jalisco;
+XIII. "Escudo Urbano C5": al Organismo Público Descentralizado encargado del Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo del Estado de Jalisco;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 XIV. Fiscal Estatal: El titular de la Fiscalía Estatal;
 
-XV. Instituciones de seguridad pública: instituciones policiales y del sistema penitenciario encargadas de la seguridad pública a nivel estatal y municipal;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+XV. Instituciones de seguridad pública: instituciones policiales y del sistema penitenciario encargadas de la seguridad pública a nivel estatal y municipal, así como el Escudo C5;
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
 XVI. Instituciones de procuración de justicia: a las instituciones que integran al Ministerio Público, y el Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza;
 
-XVII. Instituciones policiales: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos, y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+XVII. Instituciones policiales: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
 
 XVIII. La Cadena de Custodia: el documento oficial donde se asienta el (sic) obtención de información para el uso de equipos y sistemas tecnológicos, la dependencia que el que (sic) los captó así como sus características específicas de identificación; con el objeto que cada persona o servidor público a la que se le transmite la información, suscriba en la misma su recepción así como todas circunstancias relativa (sic) a su inviolabilidad e inalterabilidad, haciéndose responsable en su conservación y cuidado hasta su traslado a otra persona o servidor público, y en su caso, deberá cumplir con los requisitos establecidos en los artículos 227 y 228 del Código Nacional de Procedimientos Penales;
 
@@ -161,9 +167,13 @@ XXIV. Sistema de Información: el Sistema Estatal de Información sobre Segurida
 
 XXV. Sistema Estatal de Informática: el implementado y administrado por la Coordinación General de Innovación Gubernamental;
 
-XXVI. 911 El sistema de emergencia 911, como un número gratuito de atención telefónica, diseñado para recibir llamadas de emergencia de la ciudadanía que cuenta con personal altamente capacitado, laborando las 24 horas, los 365 días del año y es el medio de canalización directa entre usuario y las corporaciones de auxilio, contando con un sistema único de despacho para derivar llamadas de emergencia;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-XXVII. 089: El sistema de denuncia anónima 089, como un número gratuito de atención telefónica, diseñado para recibir llamadas de denuncias anónimas, que cuenta con personal altamente capacitado, laborando las 24 horas, los 365 días del año y es el medio de canalización directa entre usuario y las corporaciones de auxilio, contando con un sistema único de despacho para derivar llamadas de denuncias anónimas; y
+XXVI. 911 El sistema de emergencia 911, como un número gratuito de atención telefónica, diseñado para recibir llamadas de emergencia de la ciudadanía que cuenta con personal altamente capacitado, laborando las 24 horas, los 365 días del año y es el medio de canalización directa entre usuario y las instituciones de auxilio, contando con un sistema único de despacho para derivar llamadas de emergencia;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+XXVII. 089: El sistema de denuncia anónima 089, como un número gratuito de atención telefónica, diseñado para recibir llamadas de denuncias anónimas, que cuenta con personal altamente capacitado, laborando las 24 horas, los 365 días del año y es el medio de canalización directa entre usuario y las corporaciones de auxilio, contando con un sistema único de despacho para derivar llamadas de denuncias anónimas;
 
 XXVIII. Personal ministerial: a los agentes del Ministerio Público, actuarios y secretarios del Ministerio Público;
 
@@ -195,19 +205,29 @@ XXXIV (SIC). Reglamento de Seguridad Privada. el Reglamento de los Servicios Pri
 
 Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
-Las relaciones jurídicas de los ministerios públicos, peritos y los elementos operativos de las Instituciones policiales se regirán por la fracción XIII, del apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Publica, la presente ley y demás disposiciones legales aplicables.
+Las relaciones jurídicas de los ministerios públicos, peritos y el personal operativo de las Instituciones de seguridad pública se regirán por la fracción XIII, del apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Publica, la presente ley y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 5°.
 
-Para el mejor cumplimiento de los objetivos de las instituciones policiales, éstas desarrollarán cuando menos las siguientes unidades operativas:
+Para el mejor cumplimiento de los objetivos de las instituciones de seguridad pública, éstas desarrollarán cuando menos las siguientes unidades operativas:
 
 I. Investigación, que será la encargada de la investigación, sistemas de obtención de información, clasificación de la misma, así como su registro y evaluación, en los términos de la Ley General del Sistema Nacional de Seguridad Pública;
 
-II. Prevención, que será la encargada de coordinar a sus integrantes para prevenir la comisión de delitos e infracciones administrativas, realizar acciones de inspección, vigilancia y vialidad en su circunscripción, así como dar apoyo a las autoridades ministeriales y judiciales en el cumplimiento de sus funciones, y
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-III. Reacción, que será la encargada de garantizar, mantener y restablecer la paz y el orden públicos.
+II. Prevención, que será la encargada de coordinar a sus integrantes para la prevención de las violencias, la comisión de delitos e infracciones administrativas, realizar acciones de inspección, vigilancia y vialidad en su circunscripción, así como dar apoyo a las autoridades ministeriales y judiciales en el cumplimiento de sus funciones;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+III. Reacción, que será la encargada de garantizar, mantener y restablecer la paz y el orden públicos; y
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+IV. Proximidad social, que será la encargada de auxiliar a las funciones de prevención a través de la proactividad y la colaboración con otros actores sociales, bajo la política de colaboración interna.
 
 Para efectos del cumplimiento del presente artículo, las instituciones de seguridad pública podrán participar y acceder al sistema establecido en el título séptimo de la presente ley, de conformidad con lo señalado por el Reglamento.
 
@@ -227,11 +247,11 @@ Ninguna persona de las obligadas por esta ley podrá ingresar ni permanecer en l
 
 Las facultades que este ordenamiento otorga a la Fiscalía Estatal serán ejercidas por su titular, que para el debido cumplimiento de las mismas podrá delegar funciones, en los términos de la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
-###### Artículo 8.
+###### Artículo 8°.
 
-La Fiscalía Estatal en el ejercicio de sus atribuciones podrá requerir la intervención de las corporaciones policiales, quienes estarán obligadas a brindar el apoyo necesario dentro del ámbito de su competencia, atendiendo sus capacidades de operatividad.
+La Fiscalía Estatal en el ejercicio de sus atribuciones podrá requerir la intervención de las instituciones de seguridad pública, quienes estarán obligadas a brindar el apoyo necesario dentro del ámbito de su competencia, atendiendo sus capacidades de operatividad.
 
 ###### Artículo 9°.
 
@@ -267,7 +287,9 @@ Las autoridades competentes en materia de seguridad pública del Estado y de los
 
 I. Integrar el Sistema Estatal de Seguridad Pública;
 
-II. Determinar las políticas de seguridad pública, prevención del delito, así como ejecutar, dar seguimiento y evaluar sus acciones, a través de las instancias previstas en esta ley;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+II. Determinar las políticas de seguridad pública, prevención de las violencias y el delito, así como ejecutar, dar seguimiento y evaluar sus acciones, a través de las instancias previstas en esta ley;
 
 III. Desarrollar los lineamientos, mecanismos e instrumentos para la mejor organización y funcionamiento de las instituciones de seguridad pública, así como para la formación y la profesionalización de sus integrantes;
 
@@ -303,7 +325,9 @@ VI. Suministro, intercambio y sistematización, de forma permanente y periódica
 
 VII. Integrar programas, estructuras o acciones operativas conjuntas en los términos de esta ley;
 
-VIII. Relación con la comunidad y fomento de la cultura de prevención de infracciones, delitos y conductas antisociales;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+VIII. Relación con la comunidad y fomento de la cultura de prevención de los delitos, violencias y conflictividades comunitarias;
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
 
@@ -413,9 +437,13 @@ El Secretario Ejecutivo deberá cumplir con los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos;
 
-II. Tener más de 35 años de edad;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-III. Contar con título de abogado o licenciado en derecho con una antigüedad de cinco años, debidamente registrado en la Dirección de Profesiones del Estado;
+II. Tener más de 30 años de edad;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+III. Contar con título profesional de nivel licenciatura debidamente registrado en la Dirección de Profesiones del Estado;
 
 IV. Acreditar los exámenes de control de confianza, y
 
@@ -447,9 +475,9 @@ III. Coordinar y ejecutar la aplicación del seguimiento de los programas para l
 
 IV. Las demás que determine el Juez de Ejecución.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
-La Dirección General de Prevención y Reinserción Social de la Secretaría podrá celebrar convenios con dependencias o entidades federales o municipales, así como con organizaciones de la sociedad civil sin fines de lucro que estén certificadas de conformidad con las disposiciones aplicables, para coadyuvar en la supervisión de la libertad.
+La Dirección General de Prevención y Reinserción Social de la Secretaría podrá celebrar convenios con dependencias o entidades federales o municipales, así como con organizaciones de la sociedad civil sin fines de lucro que estén certificadas de conformidad con las disposiciones aplicables y universidades, para coadyuvar en la supervisión de la libertad, así como en acciones que garanticen la reinserción.
 
 ###### Artículo 19.
 
@@ -469,7 +497,9 @@ VI. La realización de programas de cooperación nacional sobre seguridad públi
 
 VII. La elaboración de anteproyectos de leyes, reglamentos y otras disposiciones en materia de seguridad pública, para remitirlos al titular del Ejecutivo, para los efectos de esta ley;
 
-VIII. El análisis de proyectos y estudios que se sometan a su consideración por conducto de su Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+VIII. El análisis de proyectos y estudios que se sometan a su consideración por conducto de su Secretario Ejecutivo o por parte del Consejo Ciudadano;
 
 IX. La expedición de reglas para la organización y funcionamiento del Sistema Estatal de Seguridad Pública;
 
@@ -547,9 +577,9 @@ El Secretario Ejecutivo deberá llevar a cabo la administración de los recursos
 
 El Programa de Seguridad Pública para el estado de Jalisco es el documento que contiene las acciones que en forma planeada y coordinada deberán realizar los cuerpos de seguridad pública.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
-Corresponde a la Coordinación General Estratégica de Seguridad, coordinar a las dependencias y corporaciones respectivas en la elaboración e implementación del Programa de Seguridad Pública para el estado, así como de los programas regionales de seguridad pública como parte del primero.
+Corresponde a la Coordinación General Estratégica de Seguridad, coordinar a las dependencias e instituciones respectivas en la elaboración e implementación del Programa de Seguridad Pública para el estado, así como de los programas regionales de seguridad pública como parte del primero.
 
 El programa deberá contener las bases de concertación entre los gobiernos estatal y sus dependencias, federal y municipales, así como con los órganos consultivos del Gobierno del Estado y la ciudadanía en general, con la finalidad de mejorar la función.
 
@@ -593,17 +623,19 @@ V. Los demás que en el futuro se constituyan con estricto respeto de esta ley.
 
 Los cuerpos de bomberos y protección civil tendrán el carácter de auxiliares de la seguridad pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 27.
 
-Se consideran como elementos operativos los integrantes de las instituciones de seguridad pública, procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5° de esta ley.
+Se consideran como personal operativo los integrantes de las instituciones de seguridad pública, procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, a los elementos con funciones operativas adscritos a Escudo Urbano C5 y a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o aquéllos que realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5° de esta ley.
 
 Los nombramientos a que se refiere el párrafo anterior tienen carácter confidenciales respecto a los datos personales y reservados en los demás datos cuando menos tres años posteriores a la terminación de la conclusión del servicio.
 
 No forman parte de los cuerpos de seguridad pública aquellas personas que desempeñen funciones de carácter administrativo o que sean ajenas a la seguridad pública, aun cuando laboren en las dependencias encargadas de prestar ese servicio.
 
-Queda estrictamente prohibido que un elemento operativo preste su servicio, con tal carácter, en otro cuerpo de seguridad pública o privada.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+Queda estrictamente prohibido que el personal operativo preste su servicio, con tal carácter, en otro cuerpo de seguridad pública o privada.
 
 ### Capítulo II. De los derechos
 
@@ -623,7 +655,9 @@ V. Recibir asistencia jurídica en forma gratuita por parte de la entidad públi
 
 VI. En caso de urgencia, por causa de la prestación del servicio, recibir atención médica de inmediato en hospitales públicos o privados, en cuyo caso los costos ocasionados por dichos servicios serán cubiertos por la dependencia a la que pertenezcan; los servicios médicos serán prestados en los términos de la Ley General de Salud;
 
-VII. Los elementos operativos y sus hijos gozarán de derecho preferente en igualdad de circunstancias para el ingreso a instituciones públicas estatales de educación básica y media superior, a excepción de instituciones autónomas que éstos elijan;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+VII. El personal operativo y sus hijos gozarán de derecho preferente en igualdad de circunstancias para el ingreso a instituciones públicas estatales de educación básica y media superior, a excepción de instituciones autónomas que éstos elijan;
 
 VIII. Los elementos de seguridad pública y sus hijos gozarán, de manera preferente de becas para acceder a la educación superior y al pos grado, así como de becas o estímulos económicos para continuar sus estudios en el sistema educativo regular;
 
@@ -639,23 +673,31 @@ X. Recibir reconocimientos, estímulos y recompensas de conformidad con los pres
 
 XI. Los demás que les otorguen otras leyes.
 
-#### Sección Primera. De los derechos de los elementos operativos de las instituciones de seguridad pública
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE FEBRERO DE 2023)</small>
+
+#### Sección Primera. De los derechos del personal operativo de las instituciones de seguridad pública
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 29.
 
-Los derechos consagrados en esta ley en favor de los elementos operativos son irrenunciables.
+Los derechos consagrados en esta ley en favor del personal operativo son irrenunciables.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 30.
 
-El cambio de titulares de las instituciones de seguridad pública no afectará a los derechos de los elementos operativos.
+El cambio de titulares de las instituciones de seguridad pública no afectará a los derechos del personal operativo.
 
 #### Sección Segunda. De las vacaciones y licencias
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 31.
 
-Los elementos operativos que tengan más de seis meses consecutivos, de servicio disfrutarán, cuando menos, de dos periodos anuales de vacaciones de diez días laborales cada uno, en las fechas que se señalen con anterioridad, según el calendario que para ese efecto establezca la institución de seguridad, de acuerdo con las necesidades del servicio. En todo caso, se dejarán guardias para la tramitación de los asuntos pendientes, para las que se utilizarán, de preferencia, los elementos operativos que no tuvieren derecho a vacaciones.
+El personal operativo que tengan (sic) más de seis meses consecutivos, de servicio disfrutarán (sic), cuando menos, de dos periodos anuales de vacaciones de diez días laborales cada uno, en las fechas que se señalen con anterioridad, según el calendario que para ese efecto establezca la institución de seguridad, de acuerdo con las necesidades del servicio. En todo caso, se dejarán guardias para la tramitación de los asuntos pendientes, para las que se utilizarán, de preferencia, el personal operativo que no tuvieren (sic) derecho a vacaciones.
 
-Cuando un elemento operativo no pudiere hacer uso de las vacaciones en los periodos señalados por necesidades del servicio, disfrutará de ellas una vez que haya desaparecido la causa que impidiere el disfrute de ese descanso, pero en ningún caso los elementos operativos que laboren en periodos vacacionales tendrán derecho a doble pago de su remuneración.
+Cuando el personal operativo no pudiere hacer uso de las vacaciones en los periodos señalados por necesidades del servicio, disfrutará de ellas una vez que haya desaparecido la causa que impidiere el disfrute de ese descanso, pero en ningún caso el personal operativo que laboren (sic) en periodos vacacionales tendrán (sic) derecho a doble pago de su remuneración.
 
 ###### Artículo 32.
 
@@ -663,13 +705,19 @@ Los días de vacaciones se cobrarán de su remuneración íntegra, y la base par
 
 Se cubrirá la cantidad equivalente a 25% sobre el total de los días correspondientes a vacaciones, por concepto de prima vacacional anual. Dicha prima vacacional se deberá cubrir en forma proporcional al personal que tenga menos de un año de antigüedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 33.
 
-Cuando los elementos operativos tengan que desempeñar comisión de representación del Estado o de elección popular incompatible con su trabajo, la institución de seguridad pública les concederá el permiso o licencia necesaria sin goce de su remuneración y sin perder sus derechos dentro del servicio profesional de carrera y de antigüedad, por todo el lapso que el interesado esté en el desempeño correspondiente de dicho encargo.
+Cuando el personal operativo tenga que desempeñar comisión de representación del Estado o de elección popular incompatible con su trabajo, la institución de seguridad pública les concederá el permiso o licencia necesaria sin goce de su remuneración y sin perder sus derechos dentro del servicio profesional de carrera y de antigüedad, por todo el lapso que el interesado esté en el desempeño correspondiente de dicho encargo.
 
-La institución de seguridad pública, previo estudio del caso, podrá conceder permiso o licencia a sus elementos operativos hasta por sesenta días por cada año calendario, siempre que el solicitante tuviere por lo menos un año de antigüedad en el servicio.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
-Se podrá otorgar permiso o licencia sin goce de su renumeración (sic) a los elementos operativos, hasta por treinta días, cuando éstos tengan por lo menos seis meses de antigüedad en el servicio.
+La institución de seguridad pública, previo estudio del caso, podrá conceder permiso o licencia al personal operativo hasta por sesenta días por cada año calendario, siempre que el solicitante tuviere por lo menos un año de antigüedad en el servicio.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+Se podrá otorgar permiso o licencia sin goce de su remuneración al personal operativo, hasta por treinta días, cuando éstos tengan por lo menos seis meses de antigüedad en el servicio.
 
 Para que los permisos o licencias se concedan es requisito previo la solicitud por escrito con ocho días anteriores a la fecha en que deben empezar a surtir sus efectos los mismos.
 
@@ -679,11 +727,15 @@ Las mujeres durante el embarazo no realizarán trabajos que exijan un esfuerzo c
 
 Durante los primeros cinco meses a partir de la fecha de reanudación de labores, las madres tendrán derecho a un descanso extraordinario de treinta minutos por cada tres horas de trabajo, para alimentar a sus hijos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 35.
 
-Los elementos operativos, previa comprobación médica de la necesidad por los servicios correspondientes proporcionados o autorizados por la institución de seguridad pública, que sufran enfermedades no profesionales, tendrán derecho a licencias para dejar de concurrir a sus labores, en los siguientes términos:
+El personal operativo, previa comprobación médica de la necesidad por los servicios correspondientes proporcionados o autorizados por la institución de seguridad pública, que sufran (sic) enfermedades no profesionales, tendrán (sic) derecho a licencias para dejar de concurrir a sus labores, en los siguientes términos:
 
-I. A los elementos operativos que tengan más de tres meses pero menos de cinco años de servicio, hasta sesenta días con goce de su remuneración íntegra; hasta treinta días más, con media remuneración, y hasta sesenta días más, sin sueldo;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+I. El personal operativo que tengan (sic) más de tres meses pero menos de cinco años de servicio, hasta sesenta días con goce de su remuneración íntegra; hasta treinta días más, con media remuneración, y hasta sesenta días más, sin sueldo;
 
 II. A los que tengan de cinco a diez años de servicio, hasta noventa días con goce de su remuneración íntegra, hasta cuarenta y cinco días más, con media remuneración, y hasta ciento veinte días más, sin remuneración, y
 
@@ -693,13 +745,17 @@ Los cómputos deberán hacerse por servicios continuos o cuando, de existir una 
 
 #### Sección Tercera. De la remuneración
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 36.
 
-La remuneración es la percepción que debe pagarse al elemento operativo por la función que realice, sin que se consideren servidores públicos, ya que se rigen a través de un acto condición que regula la relación entre el Estado y los municipios con los miembros de las instituciones de seguridad pública, los que no pueden considerarse contratos de trabajo conforme a la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+La remuneración es la percepción que debe pagarse al personal operativo por la función que realice conforme a la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Las modificaciones a los presupuestos de egresos que resuelvan aumentos salariales deben estar fundadas y motivadas.
 
-La remuneración y demás prestaciones de los elementos operativos, en ningún caso pueden ser disminuidas, pero sí pueden permanecer sin variaciones las anualidades que sean necesarias, a fin de ajustarse a los principios establecidos en el presente artículo.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+La remuneración y demás prestaciones del personal operativo, en ningún caso pueden ser disminuidas, pero sí pueden permanecer sin variaciones las anualidades que sean necesarias, a fin de ajustarse a los principios establecidos en el presente artículo.
 
 ###### Artículo 37.
 
@@ -715,93 +771,131 @@ Sólo podrán hacerse retenciones, descuentos o deducciones a la remuneración, 
 
 I. De deudas contraídas con la institución de seguridad por concepto de anticipos, de pagos hechos en exceso, errores o pérdidas debidamente comprobadas;
 
-II. De aportación de fondos para la constitución de cooperativas y de cajas de ahorro, siempre que el elemento operativo hubiere manifestado previamente de una manera expresa su conformidad;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+II. De aportación de fondos para la constitución de cooperativas y de cajas de ahorro, siempre que el personal operativo hubiere manifestado previamente de una manera expresa su conformidad;
 
 III. De aquellas ordenadas por el Instituto de Pensiones del Estado;
 
-IV. De los descuentos ordenados por la autoridad judicial competente para cubrir alimentos que fueren exigidos al elemento operativo;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+IV. De los descuentos ordenados por la autoridad judicial competente para cubrir alimentos que fueren exigidos al personal operativo;
 
 V. De descuentos en favor de instituciones de seguridad social, y
 
 VI. Del pago de abonos para cubrir obligaciones derivadas de la adquisición, construcción, reparación o mejoras de casas-habitación, así como de su uso, o al pago de pasivos adquiridos por estos conceptos, y siempre que la afectación se haga mediante fideicomiso en instituciones nacionales de crédito.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
-El monto total de los descuentos será el que convengan el elemento operativo y la institución de seguridad, sin que pueda ser mayor de treinta por ciento del excedente de valor diario de la Unidad de Medida y Actualización, excepto en los casos a que se refieren las fracciones III, IV y VI de este precepto.
+El monto total de los descuentos será el que convengan el personal operativo y la institución de seguridad, sin que pueda ser mayor de treinta por ciento del excedente de valor diario de la Unidad de Medida y Actualización, excepto en los casos a que se refieren las fracciones III, IV y VI de este precepto.
 
 ###### Artículo 40.
 
 La remuneración no es susceptible de embargo judicial o administrativo, fuera de lo establecido en la fracción IV del artículo anterior.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 41.
 
-Está prohibida la imposición de multas a los elementos operativos en su centro de trabajo, cualquiera que sea su causa o concepto.
+Está prohibida la imposición de multas al personal operativo en su centro de trabajo, cualquiera que sea su causa o concepto.
 
 ###### Artículo 42.
 
 El pago de la remuneración será preferente a cualquier otra erogación de las instituciones de seguridad pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 43.
 
-Los elementos operativos tendrán derecho a un aguinaldo anual de cincuenta días, sobre la remuneración promedio, y el mismo estará comprendido en el Presupuesto de Egresos, el cual preverá la forma de pagarlo.
+Al (sic) personal operativo tendrán (sic) derecho a un aguinaldo anual de cincuenta días, sobre la remuneración promedio, y el mismo estará comprendido en el Presupuesto de Egresos, el cual preverá la forma de pagarlo.
 
 El aguinaldo se cubrirá proporcionalmente tomando en cuenta las faltas de asistencia injustificadas, licencias sin goce de su remuneración y días no laborados por sanciones impuestas. El pago del aguinaldo no está sujeto a deducción impositiva alguna.
 
-Los elementos operativos que no hayan cumplido un año de labores tendrán derecho a que se les pague esta prestación, en proporción al tiempo efectivamente trabajado.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+Al personal operativo que no hayan (sic) cumplido un año de labores tendrán (sic) derecho a que se les pague esta prestación, en proporción al tiempo efectivamente trabajado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 44.
 
-Los elementos operativos que integran los entes públicos a que se refiere el artículo 26 de esta ley, a excepción de sus titulares, mandos superiores y directores, pueden recibir estímulos o compensaciones, mismos que deben estar sujetos a lo estrictamente establecido en el Presupuesto de Egresos respectivo.
+El personal operativo que integra los entes públicos a que se refiere el artículo 26 de esta ley, a excepción de sus titulares, mandos superiores y directores, pueden (sic) recibir estímulos o compensaciones, mismos que deben estar sujetos a lo estrictamente establecido en el Presupuesto de Egresos respectivo.
 
 El otorgamiento de los estímulos o compensaciones debe sujetarse estrictamente a lo siguiente:
 
-I. Los estímulos o compensaciones deben ser equitativos a las categorías y niveles existentes en las plantillas de elementos operativos de cada dependencia o entidad;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-II. Los estímulos o compensaciones que se entreguen a los elementos operativos, en ningún caso pueden ser superiores a la remuneración mensual que perciban;
+I. Los estímulos o compensaciones deben ser equitativos a las categorías y niveles existentes en las plantillas del personal operativo de cada dependencia o entidad;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+II. Los estímulos o compensaciones que se entreguen al personal operativo, en ningún caso pueden ser superiores a la remuneración mensual que perciban;
 
 III. Las autoridades deben sujetar la entrega de los estímulos o compensaciones, exclusivamente como incentivo a la puntualidad, asistencia, productividad y eficiencia o cualquier otro criterio o condición de similar naturaleza establecido expresamente en los reglamentos aplicables;
 
 IV. La entrega de los estímulos o compensaciones se realiza exclusivamente una vez por año;
 
-V. El pago de estos beneficios debe registrarse en el recibo de nómina del elemento operativo público que corresponda, y
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-VI. La información relativa a los criterios y procedimientos para la asignación de estímulos o compensaciones, así como los nombres de los elementos operativos merecedores de ellos, deben publicar en los medios de divulgación correspondientes a cada autoridad.
+V. El pago de estos beneficios debe registrarse en el recibo de nómina del personal operativo público que corresponda; y
 
-Los elementos operativos que otorguen o reciban estímulos o compensaciones en contravención al presente artículo y demás disposiciones legales y reglamentarias aplicables incurren en responsabilidad, misma que se sancionará de conformidad con la legislación vigente.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-#### Sección Cuarta. Disposiciones comunes para la remuneración y demás prestaciones de los elementos operativos
+VI. La información relativa a los criterios y procedimientos para la asignación de estímulos o compensaciones, así como los nombres del personal operativo merecedores de ellos, deben publicar en los medios de divulgación correspondientes a cada autoridad.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+Al (sic) personal operativo que otorguen (sic) o reciban (sic) estímulos o compensaciones en contravención al presente artículo y demás disposiciones legales y reglamentarias aplicables incurren (sic) en responsabilidad, misma que se sancionará de conformidad con la legislación vigente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE FEBRERO DE 2023)</small>
+
+#### Sección Cuarta. Disposiciones comunes para la remuneración y demás prestaciones del personal operativo
 
 ###### Artículo 45.
 
 Son irrenunciables la remuneración devengada, indemnizaciones y demás prestaciones otorgados en los términos de la ley que se deriven de la función prestada.
 
-Queda prohibido para todo elemento operativo otorgar o recibir prestaciones distintas a las establecidas en esta ley y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+Queda prohibido para todo personal operativo otorgar o recibir prestaciones distintas a las establecidas en esta ley y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 46.
 
-Los elementos operativos tendrán derecho a los servicios asistenciales que otorga el Instituto de Pensiones del Estado, en los términos establecidos en la ley de la materia.
+El personal operativo tendrá derecho a los servicios asistenciales que otorga el Instituto de Pensiones del Estado, en los términos establecidos en la ley de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 47.
 
-A los elementos operativos se les garantizará su acceso a los servicios necesarios para preservar su salud. Para tal efecto, los entes públicos podrán optar por la afiliación de sus trabajadores a los servicios públicos de salud o cualquier otro medio que consideren conveniente y se encuentre acorde con la normatividad aplicable.
+Al personal operativo se le garantizará su acceso a los servicios necesarios para preservar su salud. Para tal efecto, los entes públicos podrán optar por la afiliación de sus trabajadores a los servicios públicos de salud o cualquier otro medio que consideren conveniente y se encuentre acorde con la normatividad aplicable.
 
-Los servicios de salud otorgados en los términos de la presente ley, deberán permanecer vigentes hasta seis meses después de que el elemento operativo público haya dejado el cargo, conforme a la disponibilidad presupuestal y los montos asegurados se ajustarán a lo dispuesto por el ordenamiento aplicable.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
-Los gastos del otorgamiento de los servicios de salud, sea cual fuere la forma que se elija, correrán a cargo del erario público, pero por ningún motivo se contratarán pólizas con pacto de reembolso a favor de los elementos operativos asegurados.
+Los servicios de salud otorgados en los términos de la presente ley, deberán permanecer vigentes hasta seis meses después de que el personal operativo público haya dejado el cargo, conforme a la disponibilidad presupuestal y los montos asegurados se ajustarán a lo dispuesto por el ordenamiento aplicable.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+Los gastos del otorgamiento de los servicios de salud, sea cual fuere la forma que se elija, correrán a cargo del erario público, pero por ningún motivo se contratarán pólizas con pacto de reembolso a favor del personal operativo asegurado.
 
 Cuando deba operar un reembolso con motivo de la suscripción de un contrato de seguro, aquel siempre será en beneficio del erario público.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 48.
 
-Los elementos operativos pagarán las contribuciones fiscales que se originen con motivo del recibo de la remuneración y demás prestaciones gravables, y para ese efecto las instancias correspondientes harán las retenciones debidas.
+El personal operativo pagará las contribuciones fiscales que se originen con motivo del recibo de la remuneración y demás prestaciones gravables, y para ese efecto las instancias correspondientes harán las retenciones debidas.
 
 ###### Artículo 49.
 
 Las licencias para separarse del cargo de manera voluntaria y temporal deberán ser autorizadas por el superior jerárquico del solicitante y además el titular de la institución a la que pertenezca, a excepción de los casos en que conforme a esta ley se requiera procedimiento distinto, y una vez en vigencia suspenderán el goce de la remuneración y demás prestaciones establecidas por el presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 50.
 
-Quedan prohibidas las subvenciones en efectivo o en especie destinadas al disfrute privado del elemento operativo, así como bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, distintas a las establecidas en la presente ley, ya sea enunciadas como compensaciones, ayudas, bonos o cualquiera otra denominación, salvo aquellos que el titular del Poder Ejecutivo estatal y los ayuntamientos determinen conforme a sus respectivos presupuestos de egresos.
+Quedan prohibidas las subvenciones en efectivo o en especie destinadas al disfrute privado del personal operativo, así como bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, distintas a las establecidas en la presente ley, ya sea enunciadas como compensaciones, ayudas, bonos o cualquiera otra denominación, salvo aquellos que el titular del Poder Ejecutivo estatal y los ayuntamientos determinen conforme a sus respectivos presupuestos de egresos.
 
 ###### Artículo 51.
 
@@ -813,23 +907,31 @@ Los estímulos también podrán emanar de los convenios de coordinación que el 
 
 La seguridad social tiene por finalidad garantizar el derecho humano a la salud a la asistencia médica, a la protección de los medios de subsistencia y a los servicios sociales necesarios para el bienestar individual y colectivo.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 53.
 
-La seguridad social será proporcionada por las instituciones de seguridad social a los elementos operativos y sus beneficiarios, a través de convenios de incorporación que celebren preferentemente con el Instituto Mexicano del Seguro Social, o con alguna institución federal, estatal u organismo público descentralizado que sea instrumento básico de la seguridad social, siempre que aseguren cuando menos el mismo nivel de atención y cobertura territorial que el Instituto Mexicano del Seguro Social, para que sean éstas las que proporcionen los servicios médicos, quirúrgicos, farmacéuticos, hospitalarios y asistenciales.
+La seguridad social será proporcionada por las instituciones de seguridad social al personal operativo y sus beneficiarios, a través de convenios de incorporación que celebren preferentemente con el Instituto Mexicano del Seguro Social, o con alguna institución federal, estatal u organismo público descentralizado que sea instrumento básico de la seguridad social, siempre que aseguren cuando menos el mismo nivel de atención y cobertura territorial que el Instituto Mexicano del Seguro Social, para que sean éstas las que proporcionen los servicios médicos, quirúrgicos, farmacéuticos, hospitalarios y asistenciales.
 
-Las instituciones de seguridad pública tendrán la obligación de afiliar a todos los elementos operativos al Instituto de Pensiones del Estado para el otorgamiento de las pensiones y jubilaciones correspondientes.
+Las instituciones de seguridad pública tendrán la obligación de afiliar a todo el personal operativo al Instituto de Pensiones del Estado para el otorgamiento de las pensiones y jubilaciones correspondientes.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 54.
 
-Tratándose de enfermedades no profesionales, el elemento operativo tendrá derecho a que, por conducto del servicio médico respectivo, se expida la incapacidad correspondiente, a fin de que le sea cubierta la remuneración en la forma y términos que marca el artículo 35 de esta ley.
+Tratándose de enfermedades no profesionales, el personal operativo tendrá derecho a que, por conducto del servicio médico respectivo, se expida la incapacidad correspondiente, a fin de que le sea cubierta la remuneración en la forma y términos que marca el artículo 35 de esta ley.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 55.
 
-Los riesgos de trabajo y enfermedades profesionales que sufran los elementos operativos se regirán por las disposiciones de la Ley Federal del Trabajo; pero las incapacidades que con este motivo se autoricen serán con goce de su remuneración íntegra.
+Los riesgos de trabajo y enfermedades profesionales que sufra el personal operativo se regirán por las disposiciones de la Ley Federal del Trabajo; pero las incapacidades que con este motivo se autoricen serán con goce de su remuneración íntegra.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 56.
 
-Las instituciones de seguridad pública, en caso de muerte del elemento operativo, pagarán a la persona, preferentemente familiar del fallecido que presente copia del acta de defunción y la cuenta original de los gastos de funeral, cuando menos dos meses de su remuneración como ayuda para estos gastos. Esta prestación se otorgará sin perjuicio de lo que al respecto establezcan diversas leyes.
+Las instituciones de seguridad pública, en caso de muerte del personal operativo, pagarán a la persona, preferentemente familiar del fallecido que presente copia del acta de defunción y la cuenta original de los gastos de funeral, cuando menos dos meses de su remuneración como ayuda para estos gastos. Esta prestación se otorgará sin perjuicio de lo que al respecto establezcan diversas leyes.
 
 ### Capítulo III. De las obligaciones
 
@@ -837,9 +939,13 @@ Las instituciones de seguridad pública, en caso de muerte del elemento operativ
 
 Los integrantes de las instituciones de seguridad pública deberán basar su actuación en los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos por la Constitución federal y la particular del Estado, que les permita realizar, dentro del ámbito de su competencia, acciones encaminadas a combatir la impunidad, disminuir los niveles de incidencia delictiva y fomentar la cultura de la legalidad, garantizando a la ciudadanía el goce de sus derechos y libertades.
 
-Los servicios que presten los elementos operativos de las instituciones de seguridad pública, estatales o municipales, así como el personal ministerial y peritos se regirán por el horario que para tal efecto haya sido establecido en sus respectivos reglamentos y demás disposiciones aplicables, sin que en ningún caso se deba cubrir contraprestación económica excedente a la remuneración que se perciba por el servicio prestado.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
-La actuación de los elementos operativos buscará prevenir la comisión de delitos e identificar tendencias que alteren el orden público y la paz social, en los términos de esta ley y las demás disposiciones legales.
+Los servicios que preste el personal operativo de las instituciones de seguridad pública, estatales o municipales, así como el personal ministerial y peritos se regirán por el horario que para tal efecto haya sido establecido en sus respectivos reglamentos y demás disposiciones aplicables, sin que en ningún caso se deba cubrir contraprestación económica excedente a la remuneración que se perciba por el servicio prestado.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+La actuación del personal operativo buscará prevenir la comisión de delitos e identificar tendencias que alteren el orden público y la paz social, en los términos de esta ley y las demás disposiciones legales.
 
 Lo anterior a partir del establecimiento de metodologías, procedimientos y sistemas de actuación a través de protocolos y procedimientos de operación homogéneos, con la finalidad de llevar a cabo la recopilación, análisis y explotación de información criminal de manera uniforme para generar inteligencia policial susceptible de ser operada con oportunidad y eficacia en el desarrollo de tareas policiacas específicas, así como para la toma de decisiones.
 
@@ -931,9 +1037,11 @@ Además de lo anterior, también establecerán los lineamientos sobre uniformes,
 
 Las identificaciones oficiales, uniformes, calzado, vehículos, insignias, divisas y equipo reglamentario serán proporcionados sin costo a los elementos de seguridad pública y privada por sus respectivas corporaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 63.
 
-Quedan estrictamente prohibidos a los elementos operativos de seguridad pública y privada, en el ejercicio sus funciones, la utilización de credenciales metálicas, conchas de identificación o cualquier otro medio similar, el uso de vehículos no oficiales, así como la utilización de insignias, divisas o uniformes reservados al Ejército, Armada y Fuerza Aérea Nacionales.
+Quedan estrictamente prohibidos al personal operativo de seguridad pública y privada, en el ejercicio sus funciones, la utilización de credenciales metálicas, conchas de identificación o cualquier otro medio similar, el uso de vehículos no oficiales, así como la utilización de insignias, divisas o uniformes reservados al Ejército, Armada y Fuerza Aérea Nacionales.
 
 Asimismo, se prohíbe el uso y la portación del uniforme oficial o del arma de cargo, fuera de los horarios de servicio, para los elementos de los cuerpos de seguridad pública. Se exceptúan de lo anterior las áreas de investigación e inteligencia a los ministerios públicos y elementos de la policía investigadora.
 
@@ -977,11 +1085,11 @@ g) Lugar en el que fue puesto a disposición.
 
 El informe debe ser completo, y los hechos deben describirse con continuidad, cronológicamente y resaltando lo importante; no deberá contener afirmaciones sin el soporte de datos o hechos reales, por lo que deberá evitar información de oídas, conjeturas o conclusiones ajenas a la investigación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 64 Bis.
 
-El Ejecutivo del Estado expedirá el reglamento conforme al cual deberán sujetarse quienes ejerzan funciones de seguridad pública o servicios de seguridad privada, para establecer el procedimiento de detención de cualquier persona en un documento denominado cartilla de derechos que asiste a las personas en detención con el propósito de garantizar a la ciudadanía que los elementos operativos ajusten su proceder a lo que establece la Constitución Política de los Estados Unidos Mexicanos y con pleno respeto a los derechos humanos de conformidad a:
+El Ejecutivo del Estado expedirá el reglamento conforme al cual deberán sujetarse quienes ejerzan funciones de seguridad pública o servicios de seguridad privada, para establecer el procedimiento de detención de cualquier persona en un documento denominado cartilla de derechos que asiste a las personas en detención con el propósito de garantizar a la ciudadanía que el personal operativo ajuste su proceder a lo que establece la Constitución Política de los Estados Unidos Mexicanos y con pleno respeto a los derechos humanos de conformidad a:
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2013)</small>
 
@@ -1043,17 +1151,19 @@ X. La obligación de la autoridad de proporcionar información sobre la detenci�
 
 ### Capítulo IV. Del sistema complementario de seguridad social y reconocimientos
 
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 65.
 
-Los elementos operativos de las instituciones de seguridad pública recibirán las prestaciones de seguridad social que prevé la Ley para los Servidores Públicos del Estado de Jalisco y sus municipios.
+El personal operativo de las instituciones de seguridad pública recibirá las prestaciones de seguridad social que prevé la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
 
 Las autoridades estatales y municipales instrumentarán de acuerdo con sus necesidades y con cargo a sus presupuestos, tanto en su beneficio como en el de sus familiares o dependientes económicos, un sistema de seguridad social complementario, de conformidad con el reglamento correspondiente y, en su caso, con el fideicomiso respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 66.
 
-Los elementos operativos de las instituciones de seguridad pública podrán obtener por lo menos los siguientes reconocimientos:
+El personal operativo de las instituciones de seguridad pública podrá obtener por lo menos los siguientes reconocimientos:
 
 I. Al valor profesional;
 
@@ -1073,7 +1183,9 @@ Las instituciones de seguridad pública podrán recibir, a título de reconocimi
 
 Cuando los particulares deseen que su donación sea en específico para un miembro o miembros de las instituciones, el acto de entrega de la misma deberá ser siempre por conducto de la propia institución.
 
-Los anteriores beneficios que reciban los elementos operativos de ninguna manera formarán parte de la remuneración que reciben.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+Los anteriores beneficios que reciba el personal operativo de ninguna manera formarán parte de la remuneración que reciben.
 
 ### Capítulo V. De la academia
 
@@ -1081,9 +1193,9 @@ Los anteriores beneficios que reciban los elementos operativos de ninguna manera
 
 La Secretaría contará con una academia, la cual será responsable de aplicar los programas rectores de profesionalización y tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-I. Capacitar en materia de investigación científica, técnica y de derechos humanos a los elementos operativos de las instituciones de seguridad pública;
+I. Capacitar en materia de investigación científica, técnica y de derechos humanos al personal operativo de las instituciones de seguridad pública;
 
 II. Proponer y desarrollar los programas de investigación académica, de conformidad con lo dispuesto por la ley y demás disposiciones aplicables;
 
@@ -1115,9 +1227,9 @@ XV. Supervisar que los aspirantes e integrantes de las instituciones policiales 
 
 XVI. Las demás que establezcan las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
-La Fiscalía Estatal y el Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, contarán, cada uno de ellos, con un Instituto de Formación Profesional que tendrá las atribuciones conferidas a la academia, por cuanto se refiere al ámbito de aplicación de la institución a la que pertenezcan.
+La Fiscalía Estatal, el Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza y el Escudo Urbano C5, contarán, cada uno de ellos, con un Instituto de Formación Profesional que tendrá las atribuciones conferidas a la academia, por cuanto se refiere al ámbito de aplicación de la institución a la que pertenezcan.
 
 Los ayuntamientos del estado podrán establecer academias municipales, las cuales deberán estar homologadas a los programas rectores de profesionalización.
 
@@ -1127,33 +1239,33 @@ Las academias y los institutos antes referidos tendrán la atribución de emitir
 
 ### Capítulo VI. De los Primeros Auxilios
 
-> <small>(ADICIONADO P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 68 Bis.
 
-Todos los elementos que pertenezcan a las áreas operativas de prevención, deberán estar capacitados en primeros auxilios, y todos los vehículos que utilicen deberán de contar con un botiquín médico que contenga los materiales necesarios para su debida prestación.
+Todo el personal que pertenezca a las áreas operativas de prevención, deberán (sic) estar capacitados (sic) en primeros auxilios, y todos los vehículos que utilicen (sic) deberán de contar con un botiquín médico que contenga los materiales necesarios para su debida prestación.
 
-> <small>(ADICIONADO P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 68 Ter.
 
-Los cursos de capacitación en materia de primeros auxilios, deberán brindarse a los elementos operativos de manera constante y en ningún caso excederán de dos años entre ellos, cuyo cumplimiento será supervisado por el Secretario Ejecutivo del Consejo Estatal de Seguridad Pública.
+Los cursos de capacitación en materia de primeros auxilios, deberán brindarse al personal operativo de manera constante y en ningún caso excederán de dos años entre ellos, cuyo cumplimiento será supervisado por el Secretario Ejecutivo del Consejo Estatal de Seguridad Pública.
 
-> <small>(ADICIONADO P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 68 Quáter.
 
-Los municipios podrán celebrar convenios con el Estado para que a través de éste se les brinde la capacitación en primeros auxilios a sus elementos operativos de seguridad pública.
+Los municipios podrán celebrar convenios con el Estado para que a través de éste se les brinde la capacitación en primeros auxilios al personal operativo de seguridad pública.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 ### Capítulo VII. De la Capacitación en Materia de Derechos Humanos
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 68 Quinquies.
 
-Los elementos operativos de las instituciones de seguridad pública y procuración de justicia, deberán de recibir capacitación constante en materia de derechos humanos, la cual no deberá de transcurrir mas de un año entre una y otra capacitación.
+El personal operativo de las instituciones de seguridad pública y procuración de justicia, deberán de recibir capacitación constante en materia de derechos humanos, la cual no deberá de transcurrir mas de un año entre una y otra capacitación.
 
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
@@ -1167,11 +1279,11 @@ Será un requisito de ingreso y permanencia en las instituciones de seguridad p�
 
 La capacitación contemplará los derechos humanos consagrados en nuestra Carta Magna y la Constitución particular del Estado, tratados internacionales, así como los protocolos de actuación en la materia.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 68 Octies.
 
-Los municipios podrán celebrar convenios con el Estado u organismos públicos defensores de los derechos humanos para que a través de éstos se les brinde la capacitación a sus elementos operativos de seguridad pública.
+Los municipios podrán celebrar convenios con el Estado u organismos públicos defensores de los derechos humanos para que a través de éstos se le brinde la capacitación a su personal operativo de seguridad pública.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE AGOTO DE 2016)</small>
 
@@ -1197,9 +1309,11 @@ Artículo 68 Undecies. Los municipios podrán celebrar convenios con el Estado p
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 69.
 
-El desarrollo policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí, de carácter obligatorio y permanente para las instituciones de seguridad pública y sus integrantes, que comprenden la carrera policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los elementos operativos; tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos, elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales.
+El desarrollo policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí, de carácter obligatorio y permanente para las instituciones de seguridad pública y sus integrantes, que comprenden la carrera policial, los esquemas de profesionalización, la certificación y el régimen disciplinario del personal operativo; tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos, elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2020)</small>
 
@@ -1213,13 +1327,17 @@ La Policía Investigadora adscrita a la Fiscalía Estatal en materia de carrera 
 
 ### Capítulo II. Del servicio profesional de carrera policial en las instituciones de seguridad pública
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 71.
 
-Es obligación de las instituciones de seguridad pública la aplicación y el estricto cumplimiento de los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del servicio de la carrera policial para los elementos operativos de seguridad pública; se proporcionará ponderando y preservando los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, previstos en las disposiciones aplicables.
+Es obligación de las instituciones de seguridad pública la aplicación y el estricto cumplimiento de los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del servicio de la carrera policial para el personal operativo de seguridad pública; se proporcionará ponderando y preservando los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, previstos en las disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 72.
 
-La carrera policial para los elementos operativos de seguridad pública, es el sistema jurídico de carácter obligatorio y permanente conforme al cual se establecen los lineamientos que definen los procedimientos señalados en el artículo anterior.
+La carrera policial para el personal operativo de seguridad pública, es el sistema jurídico de carácter obligatorio y permanente conforme al cual se establecen los lineamientos que definen los procedimientos señalados en el artículo anterior.
 
 Los fines de la carrera policial son:
 
@@ -1237,9 +1355,11 @@ V. Los demás que establezcan las disposiciones que deriven de esta ley u otros 
 
 La instrumentación de la carrera policial en el estado será coordinada por la dependencia, entidad o institución competente tendrá carácter obligatorio y permanente en las instituciones estatales y municipales; su dignificación será acorde con la calidad y riesgo de la función y las posibilidades presupuestales de cada entidad, de acuerdo con lo establecido en la presente ley y las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 74.
 
-El establecimiento de la carrera policial para los elementos operativos de seguridad pública, corresponde a las autoridades del Estado y a los municipios en el ámbito de sus respectivas competencias, con base en las atribuciones que señalan esta ley, sus reglamentos y otras disposiciones aplicables.
+El establecimiento de la carrera policial para el personal operativo de seguridad pública, corresponde a las autoridades del Estado y a los municipios en el ámbito de sus respectivas competencias, con base en las atribuciones que señalan esta ley, sus reglamentos y otras disposiciones aplicables.
 
 ###### Artículo 75.
 
@@ -1299,11 +1419,11 @@ Los titulares de las categorías jerárquicas estarán facultados para ejercer l
 
 ### Capítulo III. Del ingreso y permanencia
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 77.
 
-El ingreso es el procedimiento de integración de los candidatos a la estructura institucional, el cual tendrá verificativo al terminar la etapa de formación inicial o capacitación en las academias de la Secretaría, en el Instituto de Formación y Profesionalización de la Fiscalía Estatal o el Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, el periodo de prácticas correspondiente y la acreditación del cumplimiento de los requisitos previstos en la presente ley y demás disposiciones aplicables.
+El ingreso es el procedimiento de integración de los candidatos a la estructura institucional, el cual tendrá verificativo al terminar la etapa de formación inicial o capacitación en las academias de la Secretaría, en el Instituto de Formación y Profesionalización de la Fiscalía Estatal, el Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza y el Escudo Urbano C5, el periodo de prácticas correspondiente y la acreditación del cumplimiento de los requisitos previstos en la presente ley y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
 
@@ -1311,11 +1431,11 @@ El ingreso es el procedimiento de integración de los candidatos a la estructura
 
 La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la presente ley y demás disposiciones aplicables, para continuar en el servicio activo de las instituciones de seguridad pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 79.
 
-Son requisitos de ingreso para ministerios públicos, mandos y elementos operativos de las instituciones de seguridad pública y policía vial los siguientes:
+Son requisitos de ingreso para ministerios públicos, mandos y personal operativo de las instituciones de seguridad pública, policía vial, peritos del Instituto Jalisciense de Ciencias Forenses, elementos operativos del Escudo Urbano C5 y a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o aquéllos que realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública u operativas en las áreas previstas en el artículo 50 de esta ley, los siguientes:
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -1327,7 +1447,9 @@ III. En su caso, tener acreditado el servicio militar nacional;
 
 IV. Acreditar lo siguiente:
 
-a) En el caso de elementos operativos, acreditar que han concluido, al menos, los estudios siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE FEBRERO DE 2023)</small>
+
+a) En el caso de personal operativo, acreditar que han concluido, al menos, los estudios siguientes:
 
 1. En el caso de aspirantes a las áreas de investigación e inteligencia, enseñanza superior o equivalente, u homologación por desempeño, a partir del bachillerato;
 
@@ -1375,7 +1497,9 @@ f) Cumplir con las obligaciones que les impongan las leyes respectivas, y
 
 g) Los demás requisitos que establezcan las disposiciones aplicables.
 
-II. Para elementos operativos de las instituciones de seguridad pública:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE FEBRERO DE 2023)</small>
+
+II. Para personal operativo de las instituciones de seguridad pública:
 
 a) Ser de notoria buena conducta, y no haber sido condenado por sentencia irrevocable por delito doloso;
 
@@ -1385,7 +1509,9 @@ c) No superar la edad máxima de retiro que establezcan las disposiciones aplica
 
 d) Acreditar lo siguiente:
 
-En el caso de los elementos operativos, acreditar que se han concluido, al menos, los estudios siguientes:
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+En el caso del personal operativo, acreditar que se han concluido, al menos, los estudios siguientes:
 
 1. En el caso de integrantes de las áreas de investigación e inteligencia, enseñanza superior o equivalente;
 
@@ -1419,23 +1545,27 @@ XIII. Las demás que establezcan las disposiciones legales aplicables.
 
 Las instancias responsables del servicio profesional de carrera fomentarán la vocación de servicio mediante la promoción y permanencia en las instituciones de seguridad pública para satisfacer las expectativas de desarrollo profesional de sus integrantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 82.
 
-Para que a un elemento operativo de cualquier institución de seguridad pública se le confiera una jerarquía superior, deberá participar en los procedimientos de ascenso correspondientes bajo los términos, requisitos y condiciones que se establezcan por las instituciones, de conformidad con lo dispuesto por esta ley y demás disposiciones legales aplicables.
+Para que al personal operativo de cualquier institución de seguridad pública se le confiera una jerarquía superior, deberá participar en los procedimientos de ascenso correspondientes bajo los términos, requisitos y condiciones que se establezcan por las instituciones, de conformidad con lo dispuesto por esta ley y demás disposiciones legales aplicables.
 
 No obstante lo anterior, podrán existir nombramientos de designación especial; las personas a las que se les otorguen, en ningún caso podrán formar parte del servicio profesional de carrera y los efectos de su nombramiento podrán darse por terminados en cualquier momento. Lo anterior será regulado en el reglamento correspondiente.
 
 ### Capítulo IV. De la terminación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 83.
 
-La conclusión del servicio profesional de carrera para personal ministerial y elementos operativos de las instituciones de seguridad pública y peritos del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, es la terminación de su nombramiento o la cesación de sus efectos legales por las siguientes causas:
+La conclusión del servicio profesional de carrera para personal ministerial y operativo de las instituciones de seguridad pública y peritos del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, es la terminación de su nombramiento o la cesación de sus efectos legales por las siguientes causas:
 
 I. Separación por incumplimiento a cualquiera de los requisitos de permanencia.
 
-En el caso de elementos de las instituciones policiales, además de la causa anterior podrán ser separados si en los procesos de promoción concurren las siguientes circunstancias:
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+En el caso del personal de las instituciones policiales, además de la causa anterior podrán ser separados si en los procesos de promoción concurren las siguientes circunstancias:
 
 a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos o, que habiendo participado en dichos procesos, no hubiere obtenido el grado inmediato superior que le correspondería por causas imputables a él;
 
@@ -1461,9 +1591,11 @@ Los integrantes de las instituciones policiales de seguridad pública que hayan 
 
 ### Capítulo V. De la profesionalización
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 85.
 
-La profesionalización de los integrantes de las instituciones de seguridad pública tendrá el carácter de permanente, progresiva y obligatoria, con el objeto de lograr una mejor y eficaz prestación del servicio de seguridad pública, la debida y legal actuación de los elementos operativos, así como el desarrollo integral de sus elementos mediante la institucionalización del servicio profesional de carrera, ampliando su capacidad de respuesta a los requerimientos de la sociedad.
+La profesionalización de los integrantes de las instituciones de seguridad pública tendrá el carácter de permanente, progresiva y obligatoria, con el objeto de lograr una mejor y eficaz prestación del servicio de seguridad pública, la debida y legal actuación del personal operativo, así como el desarrollo integral de su personal mediante la institucionalización del servicio profesional de carrera, ampliando su capacidad de respuesta a los requerimientos de la sociedad.
 
 Es obligación de los integrantes de las instituciones de seguridad pública del Estado y los municipios, asistir a las instituciones académicas a fin de adquirir los conocimientos técnicos, prácticos y científicos que permitan su constante actualización y adiestramiento.
 
@@ -1519,11 +1651,13 @@ De conformidad con la coordinación que debe prevalecer entre el Estado y la Fed
 
 ### Capítulo I. Generalidades
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 90.
 
-El sistema disciplinario tendrá por objeto aplicar las correcciones disciplinarias a que se haga acreedor el elemento operativo que vulnere las obligaciones, principios y demás disposiciones establecidas en la presente ley y la Ley General del Sistema Nacional de Seguridad Pública.
+El sistema disciplinario tendrá por objeto aplicar las correcciones disciplinarias a que se haga acreedor el personal operativo que vulnere las obligaciones, principios y demás disposiciones establecidas en la presente ley y la Ley General del Sistema Nacional de Seguridad Pública.
 
-Se aplicará por el superior jerárquico la corrección disciplinaria al elemento operativo que no sujete su conducta a la observancia del presente sistema disciplinario, las leyes, reglamentos y demás ordenamientos legales aplicables.
+Se aplicará por el superior jerárquico la corrección disciplinaria al personal operativo que no sujete su conducta a la observancia del presente sistema disciplinario, las leyes, reglamentos y demás ordenamientos legales aplicables.
 
 ###### Artículo 91.
 
@@ -1561,45 +1695,55 @@ Estas correcciones serán aplicadas de forma inmediata, sin perjuicio del servic
 
 Los miembros del servicio profesional de carrera se sujetarán al sistema disciplinario establecido en el presente capítulo.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 96.
 
-Son correcciones disciplinarias: el apercibimiento, amonestación, privación de permisos de salida y arresto que se imponen a los elementos operativos de seguridad pública, cuyos actos u omisiones constituyan faltas en el incumplimiento de la disciplina. Estas correcciones serán aplicadas como medidas disciplinarias al personal ministerial; en ningún caso se podrán aplicar arrestos al personal ministerial.
+Son correcciones disciplinarias: el apercibimiento, amonestación, privación de permisos de salida y arresto que se imponen al personal operativo de seguridad pública, cuyos actos u omisiones constituyan faltas en el incumplimiento de la disciplina. Estas correcciones serán aplicadas como medidas disciplinarias al personal ministerial; en ningún caso se podrán aplicar arrestos al personal ministerial.
 
 Segunda Sección
 
 Apercibimiento
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 97.
 
-El apercibimiento es el acto público en el cual se previene al elemento operativo a fin de no reiterar la conducta sobre la comisión de faltas a la disciplina y se le conmina a su corrección.
+El apercibimiento es el acto público en el cual se previene al personal operativo a fin de no reiterar la conducta sobre la comisión de faltas a la disciplina y se le conmina a su corrección.
 
-El apercibimiento se hará frente a los elementos operativos de la unidad administrativa a la que se encuentre adscrito, quienes deberán ostentar el mismo o mayor grado que el sancionado. Nunca se apercibirá al elemento operativo en presencia de subordinados en categoría, jerarquía o funciones.
+El apercibimiento se hará frente al personal operativo de la unidad administrativa a la que se encuentre adscrito, quienes deberán ostentar el mismo o mayor grado que el sancionado. Nunca se apercibirá al personal operativo en presencia de subordinados en categoría, jerarquía o funciones.
 
 Tercera Sección
 
 Amonestación
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 98.
 
-La amonestación es el acto mediante el cual se le señala al elemento operativo sobre la acción u omisión indebida en que incurrió en el ejercicio de sus funciones. Será pública cuando el infractor se niegue a recibir la notificación por escrito de la resolución que la contenga.
+La amonestación es el acto mediante el cual se le señala al personal operativo sobre la acción u omisión indebida en que incurrió en el ejercicio de sus funciones. Será pública cuando el infractor se niegue a recibir la notificación por escrito de la resolución que la contenga.
 
-La amonestación pública se hará frente a los elementos operativos de la unidad administrativa a la que se encuentre adscrito el infractor, quienes deberán ostentar el mismo o mayor grado que el sancionado. Nunca se amonestará a un probable infractor en presencia de subordinados en categoría, jerarquía o funciones.
+La amonestación pública se hará frente al personal operativo de la unidad administrativa a la que se encuentre adscrito el infractor, quienes deberán ostentar el mismo o mayor grado que el sancionado. Nunca se amonestará a un probable infractor en presencia de subordinados en categoría, jerarquía o funciones.
 
 Cuarta Sección
 
 La privación de permisos de salida
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 99.
 
-La privación de permisos de salida es el impedimento hasta por quince días naturales para que el elemento operativo abandone el lugar de su adscripción; ésta será decretada por el superior jerárquico o agente del Ministerio Publico, del cual para el desempeño de sus labores se encuentre bajo su conducción y mando.
+La privación de permisos de salida es el impedimento hasta por quince días naturales para que el personal operativo abandone el lugar de su adscripción; ésta será decretada por el superior jerárquico o agente del Ministerio Publico, del cual para el desempeño de sus labores se encuentre bajo su conducción y mando.
 
 Quinta Sección
 
 Arresto
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 100.
 
-El arresto consiste en la restricción de la libertad ambulatoria del elemento operativo, quien no podrá abandonar las instalaciones de la corporación de su adscripción, y nunca se realizará en celdas.
+El arresto consiste en la restricción de la libertad ambulatoria del personal operativo, quien no podrá abandonar las instalaciones de la corporación de su adscripción, y nunca se realizará en celdas.
 
 Los arrestos serán aplicados de conformidad con la ley y con el reglamento correspondiente, de acuerdo a la gravedad de la falta y podrán ser hasta por treinta y seis horas, debiendo ser impuestos por el superior jerárquico, ya sea con motivo de su grado o de su cargo. La duración del arresto será determinada por el titular de la corporación o quien tenga el mando en la unidad en que se encuentre asignado.
 
@@ -1617,15 +1761,19 @@ No procede recurso alguno contra la aplicación de correcciones o medidas discip
 
 Las sanciones serán impuestas mediante resolución formal de la instancia facultada para tal fin, por el incumplimiento a las disposiciones de la Ley General del Sistema Nacional de Seguridad Pública, la ley y demás disposiciones aplicables; deberán registrarse en el expediente del infractor, así como en el registro que al respecto se establezca.
 
-Incurren en responsabilidad administrativa y serán sancionados por la instancia instructora los elementos operativos que cometan actos u omisiones en contravención de la ley, así como de cualquier disposición legal relacionada con el cumplimiento de sus obligaciones.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+Incurren en responsabilidad administrativa y serán sancionados por la instancia instructora el personal operativo que cometa actos u omisiones en contravención de la ley, así como de cualquier disposición legal relacionada con el cumplimiento de sus obligaciones.
 
 ###### Artículo 104.
 
 La aplicación de sanciones por la instancia instructora se realizará sin perjuicio de las que corresponda aplicar, en su caso, por otra autoridad por la responsabilidad penal y civil que proceda. La ejecución de las sanciones será realizada por los órganos de control interno de las instituciones de seguridad pública.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 105.
 
-El cambio de adscripción, funciones, cargo y la rotación de los elementos operativos de donde se encuentren asignados, no se considerará como una sanción, por lo que no procederá la interposición de ningún recurso o juicio ordinario contra esta medida.
+El cambio de adscripción, funciones, cargo y la rotación del personal operativo de donde se encuentren asignados, no se considerará como una sanción, por lo que no procederá la interposición de ningún recurso o juicio ordinario contra esta medida.
 
 ###### Artículo 106.
 
@@ -1663,7 +1811,9 @@ XV. Incurrir en faltas de probidad u honradez, o en actos de violencia, amagos, 
 
 XVI. Desobedecer, sin causa justificada, una orden recibida de un superior jerárquico;
 
-XVII. Hacer anotaciones falsas o impropias en documentos de carácter oficial, instalaciones, así como en los documentos de control de asistencia, firmar o registrarse por otro elemento operativo en los documentos de control de asistencia o permitir a otra persona suplantar su firma o registro en las mismas;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+XVII. Hacer anotaciones falsas o impropias en documentos de carácter oficial, instalaciones, así como en los documentos de control de asistencia, firmar o registrarse por otro personal operativo en los documentos de control de asistencia o permitir a otra persona suplantar su firma o registro en las mismas;
 
 XVIII. Revelar, sin justificación alguna, información reservada y confidencial relativa a la institución de seguridad Pública, y en general todo aquello que afecte la seguridad de la misma o la integridad de cualquier persona;
 
@@ -1749,13 +1899,15 @@ Primera Sección
 
 Amonestación con copia al expediente
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 109.
 
-La amonestación es el acto en el cual se le advierte al elemento operativo sobre la acción u omisión indebida en que incurrió en el ejercicio de sus funciones. Será pública cuando el infractor se niegue a recibir la notificación de la resolución que la contenga.
+La amonestación es el acto en el cual se le advierte al personal operativo sobre la acción u omisión indebida en que incurrió en el ejercicio de sus funciones. Será pública cuando el infractor se niegue a recibir la notificación de la resolución que la contenga.
 
-La amonestación pública se hará frente a los elementos operativos de la unidad administrativa a la que se encuentre adscrito el infractor, quienes deberán ostentar el mismo o mayor grado que el sancionado. Nunca se amonestará a un infractor en presencia de subordinados en categoría, jerarquía o funciones.
+La amonestación pública se hará frente al personal operativo de la unidad administrativa a la que se encuentre adscrito el infractor, quienes deberán ostentar el mismo o mayor grado que el sancionado. Nunca se amonestará a un infractor en presencia de subordinados en categoría, jerarquía o funciones.
 
-En todos los casos, se agregará copia de la amonestación al expediente del elemento operativo.
+En todos los casos, se agregará copia de la amonestación al expediente del personal operativo.
 
 Segunda Sección
 
@@ -1765,9 +1917,11 @@ Suspensión temporal
 
 La suspensión temporal es la interrupción de la relación jurídica administrativa existente entre el infractor y la institución de seguridad pública, misma que será de tres a treinta días naturales, derivada por el incumplimiento de las disposiciones de la Ley General del Sistema Nacional de Seguridad Pública, de esta ley y de las demás disposiciones legales y aplicables.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 111.
 
-La suspensión antes señalada, será sin responsabilidad por parte del elemento operativo de la obligación de prestar el servicio y por parte de la institución de seguridad pública de pagar el servicio y demás prestaciones.
+La suspensión antes señalada, será sin responsabilidad por parte del personal operativo de la obligación de prestar el servicio y por parte de la institución de seguridad pública de pagar el servicio y demás prestaciones.
 
 ###### Artículo 112.
 
@@ -1783,17 +1937,21 @@ Tercera Sección
 
 Remoción
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 114.
 
-La remoción es la terminación de la relación administrativa entre la institución de seguridad pública y el elemento operativo, sin responsabilidad para aquélla, por incurrir en responsabilidad en el desempeño de sus funciones o, en el caso de los policías, en el incumplimiento en sus deberes, determinado así por la instancia correspondiente.
+La remoción es la terminación de la relación administrativa entre la institución de seguridad pública y el personal operativo, sin responsabilidad para aquélla, por incurrir en responsabilidad en el desempeño de sus funciones o, en el caso de los policías, en el incumplimiento en sus deberes, determinado así por la instancia correspondiente.
 
 Cuarta Sección
 
 Remoción con inhabilitación
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 115.
 
-Además de la remoción señalada en el artículo que antecede, se sancionara al elemento operativo con inhabilitación de uno a seis años para el ejercicio de empleos, cargos o comisiones en el servicio público.
+Además de la remoción señalada en el artículo que antecede, se sancionará al personal operativo con inhabilitación de uno a seis años para el ejercicio de empleos, cargos o comisiones en el servicio público.
 
 > <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
@@ -1813,9 +1971,11 @@ El Estado o los municipios, según sea el caso, sólo estarán obligados a pagar
 
 ### Capítulo Único. Iniciación, instrucción y resolución del procedimiento
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 118.
 
-Cuando un elemento operativo incurra en alguno de los supuestos previstos en el capítulo anterior de la ley, se realizará el presente procedimiento.
+Cuando el personal operativo incurra en alguno de los supuestos previstos en el capítulo anterior de la ley, se realizará el presente procedimiento.
 
 ###### Artículo 119.
 
@@ -1823,9 +1983,11 @@ El procedimiento lo conocerá la instancia instructora competente y lo resolver�
 
 Para el caso del personal ministerial y pericial conocerán los órganos de control interno de las instituciones de procuración de justicia en que se encuentren adscritos. La resolución será emitida por el titular de la dependencia correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 120.
 
-El procedimiento se iniciará de oficio o por denuncia con la correspondiente notificación al elemento operativo de que se ha instaurado en su contra el mismo, haciendo de su conocimiento lo siguiente:
+El procedimiento se iniciará de oficio o por denuncia con la correspondiente notificación al personal operativo de que se ha instaurado en su contra el mismo, haciendo de su conocimiento lo siguiente:
 
 a) La conducta que se le atribuye;
 
@@ -1857,17 +2019,21 @@ Al iniciarse el procedimiento, si así conviene para la conducción y continuaci
 
 Si el servidor público suspendido o reubicado provisionalmente no resultare responsable de las faltas que se le atribuyen, será restituido en el goce de todos sus derechos desde el momento de la suspensión.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 122.
 
-El elemento operativo en su escrito inicial de contestación expresará los hechos en que funde su defensa, debiendo acompañar las pruebas que considere pertinentes, para sustentar su defensa.
+El personal operativo en su escrito inicial de contestación expresará los hechos en que funde su defensa, debiendo acompañar las pruebas que considere pertinentes, para sustentar su defensa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 123.
 
-La institución de seguridad pública, dentro de los tres días hábiles, contados a partir del momento en que reciba el escrito, dictará acuerdo, en el que admitirá o desechará pruebas, y además señalará día y hora para la celebración de la audiencia para el desahogo de pruebas, así como para la formulación de alegatos, que deberá efectuarse dentro de los veinte días siguientes al en que se haya recibido el escrito de contestación del elemento operativo.
+La institución de seguridad pública, dentro de los tres días hábiles, contados a partir del momento en que reciba el escrito, dictará acuerdo, en el que admitirá o desechará pruebas, y además señalará día y hora para la celebración de la audiencia para el desahogo de pruebas, así como para la formulación de alegatos, que deberá efectuarse dentro de los veinte días siguientes al en que se haya recibido el escrito de contestación del personal operativo.
 
-> <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
-En el mismo acuerdo se ordenará se notifique personalmente al elemento operativo, cuando menos cinco días de anticipación a la audiencia, con el apercibimiento de tener por cierto los hechos que se le atribuyen y por perdido el derecho del desahogo de pruebas admitidas, si no concurre a la audiencia sin causa justificada a juicio de la autoridad instructora.
+En el mismo acuerdo se ordenará se notifique personalmente al personal operativo, cuando menos cinco días de anticipación a la audiencia, con el apercibimiento de tener por cierto los hechos que se le atribuyen y por perdido el derecho del desahogo de pruebas admitidas, si no concurre a la audiencia sin causa justificada a juicio de la autoridad instructora.
 
 La autoridad instructora ordenará, en su caso, se giren los oficios necesarios para recabar los informes o copias que deba expedir alguna autoridad o persona ajena al procedimiento y que haya solicitado el oferente, con los apercibimientos señalados en el cuerpo de leyes supletorio, y dictará las medidas que sean necesarias, a fin de que el día de la audiencia se puedan desahogar todas las pruebas que se hayan admitido, en caso de que no se reciba la documentación o información solicitada, antes del desahogo de la audiencia, se diferirá hasta en tanto se reciba la documentación solicitada, y la autoridad instructora girara oficios recordatorios respecto del requerimiento de la información.
 
@@ -1877,7 +2043,9 @@ La autoridad instructora tendrá la facultad de realizar la certificación de la
 
 Los particulares y autoridades estarán obligados a proporcionar la información estrictamente necesaria para la instrucción del procedimiento, sin que opere la invocación del deber de reserva o confidencialidad.
 
-Cuando por la naturaleza de las pruebas admitidas, la institución de seguridad pública considere que no es posible desahogarlas en una sola audiencia, en el mismo acuerdo señalará los días y horas en que deberán desahogarse, aunque no guarden el orden en que fueron ofrecidas, procurando se reciban primero las del elemento operativo y después las de la institución de seguridad pública. Este periodo no deberá exceder de treinta días.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+Cuando por la naturaleza de las pruebas admitidas, la institución de seguridad pública considere que no es posible desahogarlas en una sola audiencia, en el mismo acuerdo señalará los días y horas en que deberán desahogarse, aunque no guarden el orden en que fueron ofrecidas, procurando se reciban primero las del personal operativo y después las de la institución de seguridad pública. Este periodo no deberá exceder de treinta días.
 
 ###### Artículo 124.
 
@@ -1893,7 +2061,9 @@ La autoridad instructora citará a las partes a la etapa del desahogo de pruebas
 
 a) Se procederá al desahogo de las pruebas;
 
-b) Concluida la etapa anterior, las partes procederán de inmediato a realizar los alegatos correspondientes, iniciando en primer término el elemento operativo, y
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+b) Concluida la etapa anterior, las partes procederán de inmediato a realizar los alegatos correspondientes, iniciando en primer término el personal operativo; y
 
 c) Una vez realizados dichos alegatos se tendrá por concluida la audiencia y se reservarán las actuaciones correspondientes para resolver lo que a derecho corresponda.
 
@@ -1901,7 +2071,9 @@ c) Una vez realizados dichos alegatos se tendrá por concluida la audiencia y se
 
 Al concluir el desahogo de las pruebas se declarará cerrada la instrucción y una vez formulados los alegatos de las partes, dentro de los treinta días siguientes formulará por escrito el proyecto de resolución, que deberá contener:
 
-I. Un extracto del escrito inicial o de contestación del elemento operativo;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+I. Un extracto del escrito inicial o de contestación del personal operativo;
 
 II. El señalamiento de los hechos controvertidos;
 
@@ -1911,7 +2083,9 @@ IV. Las consideraciones que fundadas y motivadas se deriven, en su caso, de lo a
 
 V. Los puntos resolutivos.
 
-Una vez emitida la resolución, se notificará en el término de tres días hábiles al elemento operativo, haciendo de su conocimiento que contra la misma no existe recurso ordinario alguno que se haga valer ante la institución de seguridad pública.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+Una vez emitida la resolución, se notificará en el término de tres días hábiles al personal operativo, haciendo de su conocimiento que contra la misma no existe recurso ordinario alguno que se haga valer ante la institución de seguridad pública.
 
 ###### Artículo 127.
 
@@ -1935,11 +2109,13 @@ III. Que del expediente del integrante no se desprendan méritos suficientes a j
 
 El reglamento respectivo de las instituciones de seguridad pública, regulará los supuestos establecidos en las fracciones anteriores.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 130.
 
-Una vez que tenga conocimiento la instancia correspondiente de que el elemento operativo haya incumplido con cualquiera de los requisitos de ingreso o permanencia señalados por esta ley, se levantará el acta administrativa correspondiente donde se señalarán las circunstancias de modo, tiempo y lugar respecto del incumplimiento, remitiéndola a la instancia instructora correspondiente, para que esta a su vez inicie el procedimiento de separación.
+Una vez que tenga conocimiento la instancia correspondiente de que el personal operativo haya incumplido con cualquiera de los requisitos de ingreso o permanencia señalados por esta ley, se levantará el acta administrativa correspondiente donde se señalarán las circunstancias de modo, tiempo y lugar respecto del incumplimiento, remitiéndola a la instancia instructora correspondiente, para que esta a su vez inicie el procedimiento de separación.
 
-El procedimiento de separación iniciará una vez que concluyan los procesos relativos a la permanencia de los elementos operativos, tratándose de la evaluación de control de confianza bastará que se haya obtenido resultado positivo en el examen toxicológico, en ese caso se iniciara de inmediato.
+El procedimiento de separación iniciará una vez que concluyan los procesos relativos a la permanencia del personal operativo, tratándose de la evaluación de control de confianza bastará que se haya obtenido resultado positivo en el examen toxicológico, en ese caso se iniciará de inmediato.
 
 ###### Artículo 131.
 
@@ -1951,9 +2127,11 @@ El procedimiento se iniciará de oficio por la institución de seguridad públic
 
 Iniciado el procedimiento, se emplazará al denunciado para que comparezca a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cinco días hábiles posteriores a la notificación. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado del procedimiento, para que manifieste lo que a su derecho corresponda, debiendo señalar domicilio en el lugar donde se instaura el procedimiento para recibir notificaciones o correo electrónico, apercibiéndolo que en caso de no hacerlo, éstas le serán notificadas por estrados.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 133.
 
-El elemento operativo, sujeto al presente procedimiento especial, actuará personalmente o por conducto de apoderado quien en todo caso deberá ser un abogado o licenciado en derecho con cédula profesional que lo acredite como tal para su legal defensa, en los términos del Código de Procedimientos Civiles del Estado de Jalisco, el cual será supletorio para el presente procedimiento.
+El personal operativo, sujeto al presente procedimiento especial, actuará personalmente o por conducto de apoderado quien en todo caso deberá ser un abogado o licenciado en derecho con cédula profesional que lo acredite como tal para su legal defensa, en los términos del Código de Procedimientos Civiles del Estado de Jalisco, el cual será supletorio para el presente procedimiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2016)</small>
 
@@ -1969,27 +2147,35 @@ La autoridad instructora tendrá la facultad de realizar la certificación de la
 
 En el procedimiento especial serán admisibles todas las pruebas que establece el Código de Procedimientos Civiles del Estado, mismas que deberán ser desahogadas y valoradas en lo conducente de conformidad con las reglas previstas en dicho ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 136.
 
-La falta de asistencia por parte del elemento operativo no impedirá la celebración de la audiencia en el día y hora señalados, la que se desarrollará en los siguientes términos:
+La falta de asistencia por parte del personal operativo no impedirá la celebración de la audiencia en el día y hora señalados, la que se desarrollará en los siguientes términos:
 
-I. Abierta la audiencia, la autoridad hará del conocimiento al elemento operativo o apoderado las causas que se le imputan en una intervención no mayor de quince minutos, resumiendo el hecho que motivó la denuncia y la relación de las pruebas que existen en el procedimiento;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2016)</small>
+I. Abierta la audiencia, la autoridad hará del conocimiento al personal operativo o apoderado las causas que se le imputan en una intervención no mayor de quince minutos, resumiendo el hecho que motivó la denuncia y la relación de las pruebas que existen en el procedimiento;
 
-II. Una vez hecho lo anterior se le dará el uso de la voz al elemento operativo o a su apoderado para que responda a los señalamientos, ofreciendo las pruebas que a su juicio desvirtúen la imputación que se realiza;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+II. Una vez hecho lo anterior se le dará el uso de la voz al personal operativo o a su apoderado para que responda a los señalamientos, ofreciendo las pruebas que a su juicio desvirtúen la imputación que se realiza;
 
 III. La instancia de la institución de seguridad pública resolverá sobre la admisión de pruebas y acto seguido procederá a su desahogo, y
 
-IV. Concluido el desahogo de las pruebas, la Institución de seguridad pública concederá el uso de la voz al elemento operativo o apoderado para que alegue por una sola vez y en tiempo no mayor a quince minutos. Una vez hecho lo anterior, se tendrá por concluida la audiencia.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+IV. Concluido el desahogo de las pruebas, la Institución de seguridad pública concederá el uso de la voz al personal operativo o apoderado para que alegue por una sola vez y en tiempo no mayor a quince minutos. Una vez hecho lo anterior, se tendrá por concluida la audiencia.
 
 ###### Artículo 137.
 
 La institución de seguridad pública, una vez concluida la audiencia, tendrá un término de quince días hábiles para formular un proyecto de resolución y lo presentará a la instancia correspondiente, para su aprobación y firma.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
 ###### Artículo 138.
 
-Una vez emitida la resolución, se notificará en el término de tres días hábiles al elemento operativo, haciendo de su conocimiento que contra la misma no existe recurso ordinario alguno que se haga valer ante la institución de seguridad pública.
+Una vez emitida la resolución, se notificará en el término de tres días hábiles al personal operativo, haciendo de su conocimiento que contra la misma no existe recurso ordinario alguno que se haga valer ante la institución de seguridad pública.
 
 ###### Artículo 139.
 
@@ -2005,19 +2191,27 @@ En caso de no presentarse, sin causa justificada, a la realización de las evalu
 
 Si el tribunal de control constitucional a través del juicio correspondiente resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, la institución sólo estará obligada a pagar una indemnización de tres meses de salario, veinte días por año de servicio y partes proporcionarles de las prestaciones de gratificación anual, vacaciones, gratificaciones o cualquier otra establecida en los presupuestos correspondientes, sin que en ningún caso proceda la reincorporación al servicio ni el pago de salarios vencidos, cualquiera que sea el resultado del juicio en los términos del artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
 
-### Capítulo VI. Suspensión por causas imputables del elemento operativo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE FEBRERO DE 2023)</small>
+
+### Capítulo VI. Suspensión por causas imputables del personal operativo
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 142.
 
-La suspensión por causas imputables del elemento operativo, es la interrupción de la relación jurídica administrativa existente entre el elemento operativo probable infractor y la institución de seguridad pública sin responsabilidad para esta última.
+La suspensión por causas imputables del personal operativo, es la interrupción de la relación jurídica administrativa existente entre el personal operativo probable infractor y la institución de seguridad pública sin responsabilidad para esta última.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 143.
 
-Serán causas de suspensión imputables del elemento operativo el incurrir en alguno de los supuestos siguientes:
+Serán causas de suspensión imputables del personal operativo el incurrir en alguno de los supuestos siguientes:
 
 I. El arresto dictado por autoridad competente;
 
-II. Cuando se encuentre en calidad de detenido a disposición del agente del Ministerio Público, a excepción de cuando se haya encontrado en ejercicio de sus funciones y no sea un hecho delictuoso doloso atribuible al propio elemento operativo;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+II. Cuando se encuentre en calidad de detenido a disposición del agente del Ministerio Público, a excepción de cuando se haya encontrado en ejercicio de sus funciones y no sea un hecho delictuoso doloso atribuible al propio personal operativo;
 
 > <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
@@ -2029,7 +2223,9 @@ V. Se haya dictado en su contra el auto de formal prisión, de tal manera que le
 
 VI. Cualquier otra causa que impida el ejercicio de su función.
 
-La autoridad ante quien se encuentre a disposición el elemento operativo, dará aviso a la institución de seguridad pública en la que éste se encuentre adscrito, de manera inmediata.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+La autoridad ante quien se encuentre a disposición el personal operativo, dará aviso a la institución de seguridad pública en la que éste se encuentre adscrito, de manera inmediata.
 
 > <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
@@ -2037,15 +2233,21 @@ La autoridad ante quien se encuentre a disposición el elemento operativo, dará
 
 Concluida la causa de la suspensión, el integrante comparecerá ante el titular de la unidad de su adscripción, a quien informará por escrito dicha circunstancia en un plazo improrrogable de dos días hábiles, contados a partir de que tenga conocimiento de que cesaron las causas de la suspensión.
 
-En el caso de que al elemento operativo se le reincorpore al servicio, no procederá el pago de salarios caídos correspondientes al tiempo que haya durado la suspensión, por las causas señaladas en las fracciones III y IV del artículo anterior.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+En el caso de que al personal operativo se le reincorpore al servicio, no procederá el pago de salarios caídos correspondientes al tiempo que haya durado la suspensión, por las causas señaladas en las fracciones III y IV del artículo anterior.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 145.
 
-Si después de concluidas las causas de suspensión, el elemento no informa en el plazo señalado a sus superiores, se procederá a sancionarlo de conformidad con el procedimiento correspondiente.
+Si después de concluidas las causas de suspensión, el personal no informa en el plazo señalado a sus superiores, se procederá a sancionarlo de conformidad con el procedimiento correspondiente.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 146.
 
-El elemento operativo deberá entregar su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones mientras se resuelve su situación jurídica.
+El personal operativo deberá entregar su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones mientras se resuelve su situación jurídica.
 
 ## Título Séptimo. De la información sobre seguridad pública
 
@@ -2079,11 +2281,11 @@ VI. Los factores asociados a la problemática de seguridad pública de todo el e
 
 ### Capítulo II. Del registro estatal de información sobre seguridad pública
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 150.
 
-La Secretaría organizará, administrará y actualizará de forma permanente el registro, mismo que contendrá todos los datos de identificación de los elementos operativos de los cuerpos de seguridad pública del Estado y los municipios, la Fiscalía Estatal respecto de sus elementos y el Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, de sus peritos, que entre otros y como mínimo, serán los siguientes:
+La Secretaría organizará, administrará y actualizará de forma permanente el registro, mismo que contendrá todos los datos de identificación del personal operativo de los cuerpos de seguridad pública del Estado y los municipios, la Fiscalía Estatal respecto de sus elementos y el Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, de sus peritos, y el Escudo Urbano C5, respecto del personal operativo, así como a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o aquéllos que realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5° de esta ley, que entre otros y como mínimo, serán los siguientes:
 
 I. Las generales y media filiación;
 
@@ -2183,11 +2385,15 @@ IV. Las autoridades judiciales;
 
 V. Las autoridades administrativas de readaptación y reinserción social;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-VI. Los peritos del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, y
+VI. Los peritos del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza;
 
-VII. Otras autoridades relacionadas con la materia.
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+VII. El personal operativo del Escudo Urbano C5; y
+
+VIII. Otras autoridades relacionadas con la materia.
 
 La información estadística sobre la incidencia delictiva y de faltas administrativas en toda la entidad es pública y debe ser difundida permanentemente, incluyendo en su caso el municipio, localidad y colonia en que se suscitaron.
 
@@ -2379,17 +2585,17 @@ La organización y apartados del Registro de Tecnologías estarán previstos en 
 
 ### Capítulo IV. Instancias de coordinación
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 173.
 
-El Director General del C5 deberá supervisar la actividad en el Centro de Coordinación, Control, Comando, Comunicaciones y Cómputo, instancia responsable del manejo remoto de todas las cámaras de video seguridad instaladas en el Estado, de los sistemas 911, 089 y Locatel, así como de las telecomunicaciones utilizadas para la seguridad pública y la prevención del delito.
+El Director General del C5 deberá supervisar la actividad en el Centro de Coordinación, Control, Comando, Comunicaciones y Cómputo, instancia responsable del manejo remoto de todas las cámaras de video vigilancia instaladas en el Estado, de los sistemas 911, 089 y Locatel, así como de las telecomunicaciones utilizadas para la seguridad pública y la prevención del delito.
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 174.
 
-El Director General del C5, deberá rendir un informe bimestral ante el Consejo Estatal de Seguridad Pública, en el que detalle de manera integral los trabajos desarrollados en la entidad en materia de video seguridad, despacho de los sistemas 089, 911 y Locatel; asimismo de las acciones de coordinación con los municipio, (sic) así como sobre la atención de denuncias y la canalización a las áreas correspondientes.
+El Director General del C5, deberá rendir un informe bimestral ante el Consejo Estatal de Seguridad Pública, en el que detalle de manera integral los trabajos desarrollados en la entidad en materia de video vigilancia, despacho de los sistemas 089, 911 y Locatel; asimismo de las acciones de coordinación con los municipios, así como sobre la atención de denuncias y la canalización a las áreas correspondientes.
 
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -2819,39 +3025,79 @@ La interposición del recurso suspenderá la ejecución de las sanciones pecunia
 
 ### Capítulo I. De la participación ciudadana
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 217.
 
-El Consejo Ciudadano de Seguridad es un órgano de apoyo y orientación a la comunidad, de análisis, opinión y consulta, constituido como un ente de gobernanza pública, con autonomía técnica y de gestión, sectorizado administrativamente a la Coordinación General Estratégica de Seguridad.
+El Consejo Ciudadano de Seguridad es un órgano de apoyo y orientación a la comunidad, de análisis, opinión y consulta, constituido como un ente de gobernanza pública, con autonomía técnica y de gestión, sectorizado administrativamente a la Secretaría General de Gobierno.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
 En los municipios podrá haber Consejo Consultivo Ciudadano de Seguridad Pública, que apoyen a la autoridad municipal en la materia.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 218.
 
-El Consejo Ciudadano se conformará de la siguiente manera:
+El Pleno del Consejo Ciudadano se conformará de la siguiente manera:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 I. Seis ciudadanos, designados por el Gobernador;
 
-II. Cuatro especialistas en la materia, representantes del mismo número de universidades con sede en el Estado, a invitación del Gobernador.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+II. Cuatro especialistas en la materia, representantes del mismo número de universidades públicas y privadas con sede en el Estado, a invitación del Gobernador.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 III. Dos representantes de organizaciones de la sociedad civil, a invitación del Gobernador;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 IV. El Gobernador;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 V. La persona titular de la Secretaría de Planeación y Participación Ciudadana;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 VI. Un Secretario Ejecutivo con derecho a voz, designado por el Consejo, a propuesta de su Presidente;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
 El Consejo designará a su Presidente, de entre cualquiera de los ciudadanos a que hace referencia la fracción I.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 Los titulares del Consejo podrán designar por escrito a un suplente en los términos de su reglamento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+
 El Consejo podrá invitar a sus sesiones a cualquier institución o persona, pública o privada, que por su trabajo, experiencia o capacidad puedan contribuir con el órgano colegiado, quienes tendrán derecho a voz.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+###### Artículo 218 Bis.
+
+Para su funcionamiento y operación el Consejo Ciudadano contará con una Secretaría Ejecutiva y personal adscrito a ella, en términos del presupuesto aprobado.
+
+La persona titular de la Secretaría Ejecutiva debe cumplir los siguientes requisitos:
+
+I. Tener ciudadanía mexicana;
+
+II. Actuar con probidad y honradez;
+
+III. Contar con título de licenciatura y, preferentemente con posgrado en alguna de las profesiones afines a las materias competencia del Consejo Ciudadano;
+
+IV. Mostrar amplia experiencia a través de su ejercicio profesional en las materias de seguridad pública, prevención social, procuración de justicia, y/o afines a las funciones sustantivas del Consejo Ciudadano;
+
+(NOTA: EL 19 DE OCTUBRE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 84/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE OCTUBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+V. NO HABER SIDO CONDENADA POR DELITO DOLOSO; Y
+
+VI. No ser servidor público o servidora pública ni ostentar ningún nombramiento o cargo de elección popular al momento de su designación.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2859,9 +3105,13 @@ El Consejo podrá invitar a sus sesiones a cualquier institución o persona, pú
 
 Los cargos de consejero del Consejo Ciudadano son honoríficos y por lo tanto no remunerados, con excepción del Secretario Ejecutivo y el personal adscrito a la secretaría ejecutiva.
 
-Los consejeros referidos en las fracciones I, II y III, durarán en su encargo 3 años.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
-La Coordinación General Estratégica de Seguridad proveerá el presupuesto necesario para las tareas del Consejo Ciudadano.
+Los consejeros referidos en las fracciones I, II y III, durarán en su encargo 3 años, la designación deberá ser escalonada.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+La Secretaría General de Gobierno proveerá el presupuesto necesario para las tareas del Consejo Ciudadano.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -2883,17 +3133,23 @@ III. Diseñar y proponer al Consejo Estatal acciones y estrategias de prevenció
 
 IV. Proponer normas y procedimientos a lasinstituciones (sic) de seguridad y procuración de justicia que permitan mejorar la atención y seguridad de las personas que señalen abusos de los integrantes del sistema de seguridad pública;
 
-V. Otorgar reconocimientos a cualquier institución de seguridad pública o alguno de sus integrantes que sobresalgan a su juicio, en la prestación del servicio, dicho reconocimiento será eficaz para efectos de ascensos en el servicio profesional de carrera, por lo que deberá inscribirse en el expediente correspondiente;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
+V. Otorgar reconocimientos a instituciones de seguridad pública o alguno de sus integrantes cuya labor, prácticas, acciones, procesos o servicios que a su juicio sobresalgan, contribuyan o aporten en beneficio de la sociedad jalisciense; dicho reconocimiento será eficaz para efectos de ascensos en el servicio profesional de carrera, por lo que deberá inscribirse en el expediente correspondiente;
 
-VI. Recibir las quejas, reclamos o señalamientos por indebidas o deficientes actuaciones del personal del sistema de seguridad pública, las cuales, en caso de considerarlas procedentes, se deberán remitir a la autoridad competente para su legal conocimiento y sustanciación, dentro de las 48 horas siguientes a partir de que se determine la procedencia. Esta autoridad deberá informar al Consejo Ciudadano sobre las medidas tomadas para atenderlas y resolverlas, en un plazo máximo de treinta días hábiles.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+VI. Orientar a las personas que lo soliciten, para la presentación de quejas, reclamos o señalamientos por indebidas o deficientes actuaciones del personal del sistema de seguridad pública, ante los respectivos Órganos Internos de Control, según corresponda.
 
 Adicionalmente, el Consejo Ciudadano podrá formular recomendaciones a la autoridad competente, a fin de que se tomen las medidas necesarias para atender o subsanar los motivos de queja y ésta deberá emitir una respuesta dentro de los treinta días hábiles siguientes.
 
-VII. Denunciar ante la Comisión Estatal de Derechos Humanos, o en su caso ante la Comisión Nacional, hechos que pudieran implicar violación a los derechos fundamentales y de los que ha tenido conocimiento en el ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
-VIII. Presentar denuncia ante el Ministerio Público, con motivo de hechos presuntamente delictuosos, que conozca en el ejercicio de sus atribuciones;
+VII. De considerar procedente, canalizar a las personas que presenten quejas ante la Comisión Estatal de Derechos Humanos, o en su caso ante la Comisión Nacional, para presentar quejas sobre los hechos que pudieran implicar violación a los derechos fundamentales y de los que ha tenido conocimiento en el ejercicio de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+VIII. En su caso, canalizar a las personas ante el Ministerio Público, para la presentación de denuncias con motivo de hechos presuntamente delictuosos, que conozca en el ejercicio de sus atribuciones;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2909,13 +3165,13 @@ XIII. Recibir donativos de entes públicos o privados;
 
 XIV. Administrar los bienes que reciba de conformidad al Reglamento Interior;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-XV. Instrumentar y operar un programa de incentivos a los servidores públicos del Sistema de Seguridad Pública en los términos del Reglamento Interno;
+XV. (DEROGADA, P.O. 25 DE FEBRERO DE 2023)
 
 XVI. Monitorear la comisión de delitos de alto impacto lo que deberá considerar al momento de emitir sus opiniones sobre medidas preventivas y acciones de gobierno;
 
-XVII. Proponer al Gobernador del Estado el proyecto de Reglamento Interno que rija el funcionamiento del Consejo y la organización de la Secretaría Técnica como instancia coordinadora de los trabajos y ejecutora de las decisiones del Pleno del Consejo; y
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+XVII. Proponer al Gobernador del Estado el proyecto de Reglamento Interno que rija el funcionamiento del Consejo y la organización de la Secretaría Ejecutiva como instancia coordinadora de los trabajos y ejecutora de las decisiones del Pleno del Consejo;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -2977,11 +3233,11 @@ El Centro Integral de Comunicaciones será responsable de identificar y registra
 
 La ciudadanía cuando lo solicite, podrá conocer sobre las personas que detienen las instituciones de seguridad pública, y estas últimas tendrán la obligación, conforme al reglamento, de aportar la información que lo permita.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 225.
 
-En la Fiscalía Estatal y en cada secretaría, dependencia e institución de seguridad pública del Estado y los municipios, existirá un área especializada para investigar las quejas que los ciudadanos presenten en contra de sus elementos operativos, con capacidad para esclarecer los hechos materia de las mismas, turnándolo a la instancia u órgano competente, independientemente de las acciones penales y responsabilidades administrativas que, en su caso, procedan.
+En la Fiscalía Estatal y en cada secretaría, dependencia e institución de seguridad pública del Estado y los municipios, existirá un área especializada para investigar las quejas que los ciudadanos presenten en contra de su personal operativo, con capacidad para esclarecer los hechos materia de las mismas, turnándolo a la instancia u órgano competente, independientemente de las acciones penales y responsabilidades administrativas que, en su caso, procedan.
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2020)</small>
 
@@ -3137,7 +3393,9 @@ Se sancionará con dos a ocho años de prisión y de quinientos a mil días mult
 
 I. Ingrese dolosamente a las bases de datos del sistema previstos en esta ley, sin tener derecho a ello o, teniéndolo, ingrese a sabiendas información errónea, que dañe o que pretenda dañar en cualquier forma la información, las bases de datos o los equipos o sistemas que las contengan; y
 
-II. Asigne nombramiento de elemento operativo a persona que no haya sido certificada y registrada en los términos de esta ley.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
+
+II. Asigne nombramiento de personal operativo a persona que no haya sido certificada y registrada en los términos de esta ley.
 
 Si el responsable es o hubiere sido servidor público de las instituciones de seguridad pública, se impondrá hasta una mitad más de la sanción privativa de la libertad correspondiente, y además, la inhabilitación por un plazo igual al de la pena de prisión impuesta para desempeñarse como servidor público en cualquier orden de gobierno, y en su caso, la destitución.
 
@@ -3512,3 +3770,33 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los ayuntamientos expedirán los ordenamientos municipales y reformas necesarias para armonizar su orden jurídico a las disposiciones previstas en el presente reglamento en el plazo de 180 días naturales.
 
 TERCERO. A partir de la aprobación de la ley, se establece el periodo de un año para generar el Programa Estatal de la Cultura de Paz.
+
+P.O. 25 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29152/LXIII/23 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE JALISCO Y SE ADICIONA EL ARTÍCULO 218 BIS EN EL MISMO ORDENAMIENTO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. La referencia que se realice en cualquier disposición legal o reglamentaria a elemento operativo, deberá identificarse como personal operativo, en los términos del presente decreto.
+
+TERCERO. El cambio de adscripción del Consejo Ciudadano a la Secretaría General de Gobierno deberá realizarse en un plazo de hasta sesenta días naturales y, para tal efecto se deberán realizar las adecuaciones presupuestales correspondientes.
+
+CUARTO. A fin de garantizar el escalonamiento en la designación de los Consejeros Ciudadanos prevista en el artículo 219 de la Ley del Sistema de Seguridad Pública del Estado de Jalisco, los nombramientos de los integrantes del actual Consejo Ciudadano, previstos en las fracciones I, II y III del artículo 218 deberán ampliarse, por única ocasión, conforme a lo siguiente:
+
+Respecto de la fracción I:
+
+Tres ciudadanos por el periodo de dos años.
+
+Tres ciudadanos por el periodo de tres años.
+
+Respecto de la fracción II:
+
+Dos especialistas por el periodo de dos años.
+
+Dos especialistas por el periodo de tres años.
+
+Respecto de la fracción III:
+
+Un representante de organizaciones de la sociedad civil por el periodo de dos años.
+
+Un representante de organizaciones de la sociedad civil por el periodo de tres años
