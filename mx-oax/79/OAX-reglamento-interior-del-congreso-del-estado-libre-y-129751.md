@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2023-01-28"
+last_updated: "2023-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -689,9 +689,9 @@ d. Promover la participación de la sociedad ante las Instituciones, Organismos 
 
 e. La denominación de años o días festivos oficiales en materia cultural;
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
 
-f. El otorgamiento de reconocimientos y estímulos cívicos;
+f. El otorgamiento de reconocimientos y estímulos cívicos, salvo que por disposición expresa sea conferida a alguna Comisión diversa;
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
 
@@ -885,7 +885,13 @@ d. Incorporar al interior del Poder Legislativo políticas y acciones con perspe
 
 e. Los que se relacionen con la discriminación o maltrato por razones de sexo, raza, edad, credo político o religioso, y situación socioeconómica, así como los que se refieran al reconocimiento de condiciones equitativas e igualdad de oportunidades de acceso al desarrollo para las personas, y;
 
-f. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+f. Conocer el procedimiento del reconocimiento público "María Cristina Salmorán", el cual será entregado a mujeres u organizaciones de la sociedad civil oaxaqueña que hayan destacado en el ámbito municipal y estatal, por sus actividades en defensa de los derechos de las mujeres, la igualdad sustantiva entre hombres y mujeres, y la erradicación de toda forma de violencia contra éstas; en el marco del Día Internacional de la Mujer, y
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+
+g. Las demás que le confiera este Reglamento, la (sic) Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
 
@@ -3136,3 +3142,31 @@ P.O. 28 DE ENERO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 821.- MEDIANTE EL CUAL SE REFORMA EL INCISO F. DE LA FRACCIÓN VI, Y SE ADICIONA EL INCISO F. RECORRIÉNDOSE EL ORDEN DEL SUBSECUENTE, A LA FRACCIÓN XVIII, AMBAS DEL ARTÍCULO 42 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Por única ocasión, para la entrega del reconocimiento público "María Cristina Salmorán" para el año 2023, deberá regirse bajo el siguiente procedimiento:
+
+a) Se entregará a mujeres u organizaciones de la sociedad civil oaxaqueñas que hayan destacado tanto en el ámbito municipal como en el estatal, por sus actividades en defensa de los derechos de las mujeres, la igualdad sustantiva entre hombres y mujeres, y la erradicación de toda forma de violencia contra éstas.
+
+b) Será otorgado ante el pleno del H. Congreso el 8 de marzo de 2023 en sesión solemne, en el marco del Día Internacional de la Mujer.
+
+c) Este reconocimiento podrá ser propuesto por organismos públicos, colectivos de mujeres o por otras organizaciones de la sociedad civil dedicados a la promoción, defensa, ejercicio, protección e investigación de los derechos de las mujeres y la igualdad de género, previa convocatoria que expida la Junta de Coordinación Política del Congreso.
+
+d) Las propuestas para el reconocimiento contendrán al menos lo siguiente: a) Nombre de la mujer u organización propuesta para recibir el reconocimiento; b) Una descripción detallada de sus trabajos y aportes en el reconocimiento, promoción, defensa, ejercicio, protección e investigación de los derechos humanos de las mujeres en todos los ámbitos o cuya finalidad sea la erradicación de toda forma de violencia contra éstas; c) La (sic) razones y motivos por la (sic) cual la aspirante deba ser elegida para el reconocimiento público "María Cristina Salmorán".
+
+e) La convocatoria deberá emitirse a más tardar la primera semana del mes de febrero del 2023, y las propuestas se entregarán a la Comisión de Mujeres e Igualdad de Género para su debido análisis, discusión y selección de diez participantes que serán remitidas a la Junta de Coordinación Política, la cual deberá seleccionar en consenso y mediante la votación la terna de finalistas para recibir el reconocimiento público "María Cristina Salmorán".
+
+f) Los registros de las candidaturas que al efecto lleve a cabo la Comisión Permanente de Mujeres e Igualdad de Género, serán publicadas en la Gaceta Parlamentaria del Congreso.
+
+g) El dictamen de aprobación de las tres finalistas emitido por la Junta de Coordinación Política, será inscrito y agendado para la sesión ordinaria siguiente, a fin de que el pleno del H. Congreso, delibere y mediante votación de las dos terceras partes de las diputadas y diputados presentes, elija a la mujer u organización que recibirá el reconocimiento en los términos descritos en la convocatoria.
+
+El dictamen aprobado será publicado en la Gaceta del Congreso, con la finalidad de que se emita la convocatoria correspondiente para la sesión solemne, conforme a los lineamientos que al efecto determinen la Mesa Directiva para su entrega.
+
+CUARTO. La Comisión Permanente de Mujeres e Igualdad de Género, contará con el plazo de ciento ochenta días naturales, para proponer al pleno la normatividad que regirá el procedimiento del reconocimiento público "María Cristina Salmorán".
