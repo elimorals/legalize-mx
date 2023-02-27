@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-106724
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-19"
-last_updated: "2023-01-24"
+last_updated: "2023-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 19 de marzo de 2015.
 
@@ -335,7 +335,9 @@ No podrán ser titulares de licencias para venta, distribución y suministro de 
 
 I. Los servidores públicos estatales o municipales, que intervengan en la expedición de licencias para venta y suministro de bebidas alcohólicas, ya sea permanentes, temporales o de degustación, ni sus familiares hasta el cuarto grado; o aquéllos que participan en la verificación e inspección de establecimientos en los que se vendan, suministren o consuman bebidas alcohólicas; prohibición que prevalecerá hasta un año después de haber dejado su cargo;
 
-II. Los menores de edad, con excepción en los casos de ser un derecho adquirido por sucesión legítima, y siempre y cuando cuente con tutor legal;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+II. Las niñas, niños y adolescentes, con excepción en los casos de ser un derecho adquirido por sucesión legítima, y siempre y cuando cuente con tutor legal;
 
 III. (DEROGADA, P.O. 17 DE MARZO DE 2020)
 
@@ -559,7 +561,9 @@ III. Cumplir con todos y cada uno de los requisitos y normas que marca la Ley de
 
 IV. Negar la venta y suministro de bebidas alcohólicas a:
 
-a) Menores de edad, o a personas que no tienen capacidad para comprender el significado del hecho.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+a) Niñas, niños y adolescentes, o a personas que no tienen capacidad para comprender el significado del hecho.
 
 b) Miembros uniformados de las corporaciones policiacas o militares.
 
@@ -681,9 +685,11 @@ Los ayuntamientos podrán convenir con asociaciones legalmente constituidas a fi
 
 ### CAPÍTULO XII. De las Prohibiciones
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 42.
 
-Se prohíbe estrictamente la entrada a menores de edad a, bares, cervecerías, centros nocturnos, cabarets y pulquerías, debiendo el propietario o encargado, colocar un aviso en la parte más visible del interior y exterior del establecimiento, que señale esta prohibición. Se exceptúan los eventos en que no se vendan, consuman o suministren bebidas con contenido alcohólico.
+Se prohíbe estrictamente la entrada a niñas, niños y adolescentes a, bares, cervecerías, centros nocturnos, cabarets y pulquerías, debiendo el propietario o encargado, colocar un aviso en la parte más visible del interior y exterior del establecimiento, que señale esta prohibición. Se exceptúan los eventos en que no se vendan, consuman o suministren bebidas con contenido alcohólico.
 
 ###### ARTÍCULO 43.
 
@@ -763,13 +769,13 @@ Cuando el titular de la licencia o encargado del establecimiento, impida o dific
 
 Cuando se compruebe que los titulares de las licencias o sus encargados, permiten el ejercicio de la prostitución en el establecimiento, además de la cancelación de la licencia, se les impondrá una multa de cien a cuatrocientas veces el valor diario de la unidad de medida y actualización vigente, independientemente de las penas que les imponga la autoridad judicial.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 54.
 
-En caso de que la autoridad encuentre a menores de edad dentro de los establecimientos en los que se les prohíba la entrada, a los titulares de la licencia se les impondrá una multa de cuatrocientas a ochocientas veces el valor diario de la unidad de medida y actualización vigente, independientemente de las penas que les imponga la autoridad judicial.
+En caso de que la autoridad encuentre a niñas, niños y adolescentes dentro de los establecimientos en los que se les prohíba la entrada, a los titulares de la licencia se les impondrá una multa de cuatrocientas a ochocientas veces el valor diario de la unidad de medida y actualización vigente, independientemente de las penas que les imponga la autoridad judicial.
 
-Cuando se compruebe que los titulares de las licencias, o sus empleados o encargados venden, suministran o permiten el consumo (sic) bebidas alcohólicas a menores de edad, además de la cancelación de la licencia, se les impondrá una multa de quinientas a mil veces el valor diario de la unidad de medida y actualización vigente, y se dará aviso a la autoridad investigadora, a efecto de denunciar los delitos que resulten.
+Cuando se compruebe que los titulares de las licencias, o sus empleados o encargados venden, suministran o permiten el consumo de bebidas alcohólicas a niñas, niños y adolescentes, además de la cancelación de la licencia, se les impondrá una multa de quinientas a mil veces el valor diario de la unidad de medida y actualización vigente, y se dará aviso a la autoridad investigadora, a efecto de denunciar los delitos que resulten.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
@@ -944,5 +950,13 @@ P.O. 24 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0676.- SE REFORMA EL ARTÍCULO 32 EN SU FRACCIÓN XVI; Y ADICIONA A LOS ARTÍCULOS 2º LA FRACCIÓN XXII BIS Y 32 UNA FRACCIÓN, ÉSTA COMO XVII, DE LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0704.- SE REFORMAN LOS ARTÍCULOS 14 EN SU FRACCIÓN II, 32 EN SU FRACCIÓN IV EL INCISO A), 42 Y 54, DE LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
