@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2022-07-15"
+last_updated: "2023-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -935,11 +935,13 @@ El dictamen legislativo es la opinión y juicio jurídico fundado, que resulta d
 
 El dictamen legislativo deberá contener:
 
-I. La fecha de turno de la iniciativa; determinando si se trata de ley, decreto, acuerdo administrativo o económico, o punto de acuerdo;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2014)</small>
+I. La fecha de turno de la iniciativa; determinando si se propone reformar, adicionar, o derogar disposiciones de una ley o reglamento; o de la expedición de nueva ley; decreto; acuerdo administrativo o económico; o punto de acuerdo;
 
-II. Si se trata de una iniciativa de ley, el dictamen tendrá una parte en la que se hará referencia a su constitucionalidad, con relación a las constituciones federal y local; sus antecedentes; estructura jurídica; justificación, y pertinencia; además, un cuadro comparativo entre las leyes vigentes y la iniciativa propuesta. Asimismo, expondrá con precisión las modificaciones, ajustes de contenido normativo y estructura que haya realizado, en su caso, la comisión, con los argumentos y razones que los sustenten; así como la valoración técnico-jurídica que de la misma se haya hecho, y que dé lugar a su aprobación o desechamiento por improcedencia. Igualmente, contendrá una parte resolutiva en la que se establezca si el dictamen se aprueba en sus términos; se aprueba con modificaciones de la comisión; se desecha; o se formula con carácter suspensivo a efecto de definir un tiempo razonable para su resolución definitiva;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+II. Si se trata de una iniciativa de ley, el dictamen deberá integrar una parte en la que se hará referencia a la competencia o facultad del Congreso del Estado para legislar en la materia de que se trate; su constitucionalidad, con relación a las constituciones federal y local; y en su caso, la convencionalidad respecto de los documentos internacionales ratificados por nuestro país; sus antecedentes; estructura jurídica; justificación, y pertinencia; además, un cuadro comparativo entre las leyes vigentes y la iniciativa propuesta. Asimismo, expondrá con precisión las modificaciones, ajustes de contenido normativo y estructura que haya realizado, en su caso, la comisión; con los argumentos y razones que los sustenten; así como la valoración técnico-jurídica que de la misma se haya hecho, y que dé lugar a su aprobación o desechamiento por improcedencia. Igualmente, contendrá una parte resolutiva en la que se establezca si el dictamen se aprueba en sus términos; se aprueba con modificaciones de la comisión; se desecha; o se formula con carácter suspensivo a efecto de definir un tiempo razonable para su resolución definitiva;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE MARZO DE 2017)</small>
 
@@ -3000,5 +3002,13 @@ P.O. 15 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0363.- SE REFORMAN LOS ARTÍCULOS 67 Y 131; Y SE ADICIONA EN LOS ARTÍCULOS 67, 131 Y EN EL TÍTULO DÉCIMO EL CAPÍTULO VII “DEL SOFTWARE INCRUSTADO DENOMINADO SISTEMA DE MENSAJERÍA DEL CONGRESO”, CON LOS ARTÍCULOS 146, 147 Y 148 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 61, 67, 75, 76, 117, 123, 146, 151, 157, 183, 186 Y 189; Y SE ADICIONA EN LOS ARTÍCULOS 183 Y 189, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor noventa días posteriores a su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0705.- SE REFORMA EL ARTÍCULO 86, EN SUS FRACCIONES I Y II, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
