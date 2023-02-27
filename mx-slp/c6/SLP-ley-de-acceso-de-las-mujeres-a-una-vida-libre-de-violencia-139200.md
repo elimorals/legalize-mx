@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2023-01-20"
+last_updated: "2023-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -147,7 +147,9 @@ VII. Violencia en el noviazgo: el acto abusivo de poder u omisión intencional, 
 
 VIII. Violencia feminicida: es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta de mujeres;
 
-IX. Violencia física: cualquier acto material, no accidental, que inflige daño a la mujer a través del uso de la fuerza física, sustancias, armas u objetos, y que puede provocar o no lesiones, ya sean internas, externas o ambas;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+IX. Violencia física: cualquier acto material, no accidental, que inflige daño a la mujer a través del uso de la fuerza física, armas u objetos, ácidos o sustancias corrosivas, cáusticas, irritantes, tóxicas o inflamables, o cualquier otras sustancias que, en determinadas condiciones, puedan provocar o no lesiones ya sean internas, externas, o ambas;
 
 X. Violencia Institucional: actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen, o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. También constituirá violencia institucional cuando los órganos de procuración y administración de justicia emitan resoluciones o que contengan prejuicios basados en el género, patrones estereotipados de comportamiento o prácticas sociales y culturales fundadas en conceptos de inferioridad de las mujeres o de subordinación a los hombres;
 
@@ -275,6 +277,8 @@ VII. La integridad física, psicoemocional y sexual, y
 
 VIII. El patrimonio.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 27 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 8º.
 
 Las mujeres víctimas de violencia tendrán derecho a:
@@ -289,7 +293,9 @@ IV. Ser informadas cuando su agresor, encontrándose en prisión preventiva o co
 
 V. Recibir las medidas de protección que procedan cuando se trate de asuntos del orden penal y que contempla la Ley de Protección a Personas que Intervienen en el Procedimiento Penal;
 
-VI. Recibir la reparación por el daño que se les haya ocasionado, en términos de lo previsto en la Ley de Víctimas para el Estado, y demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VI. Recibir la reparación por el daño que se les haya ocasionado, en términos de lo previsto en la Ley de Atención a Víctimas para el Estado, y demás disposiciones legales aplicables;
 
 VII. Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
 
@@ -1351,7 +1357,9 @@ IV. Proporcionar un refugio seguro a las víctimas;
 
 V. Informar a la autoridad competente de los casos de violencia que ocurran en los centros educativos;
 
-VI. De manera específica brindar la atención, asesoría, acompañamiento, protección y reparación que establece la Ley de Víctimas del Estado;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VI. De manera específica brindar la atención, asesoría, acompañamiento, protección y reparación que establece la Ley de Atención a Víctimas para el Estado;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
@@ -1650,5 +1658,21 @@ P.O. 20 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0674.- SE REFORMAN LOS ARTÍCULOS 30 EN SU FRACCIÓN IV, 37 EN SU PÁRRAFO ÚLTIMO Y 47 EN SUS FRACCIONES XI Y XII; Y ADICIONA AL ARTÍCULO 47, LA FRACCIÓN XIII, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0695.- SE REFORMA EL ARTÍCULO 4º, EN SU FRACCIÓN IX, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0696.- SE REFORMAN LOS ARTÍCULOS 8º, EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN VI Y 46 EN SU FRACCIÓN VI, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
