@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2022-12-27"
+last_updated: "2023-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1909,17 +1909,21 @@ VII. La circulación de vehículos en áreas urbanas o consideradas como tales, 
 
 VIII. La incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado, y el arrojo o depósito de residuos en la vía pública, en terrenos baldíos y áreas verdes o de equipamiento urbano;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
 
-IX. El uso de popotes plásticos para el consumo de bebidas en establecimientos comerciales y mercantiles, y
+IX. El uso de popotes plásticos para el consumo de bebidas en establecimientos comerciales y mercantiles;
 
-> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
 
-X. El uso de utensilios de plásticos, polietileno o productos homólogos en las oficinas oficiales del Estado y municipios que se utilicen en los servicios de cafetería; salvo aquellos que sean biodegradables.
+X. El uso de utensilios de plásticos, polietileno o productos homólogos en las oficinas oficiales del Estado y municipios que se utilicen en los servicios de cafetería; salvo aquellos que sean biodegradables, y
 
-> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN X, P.O. 25 DE JUNIO DE 2020]</small>
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
 
-Quienes incurran en desacato a lo establecido en la fracción anterior, serán acreedores a lo establecido en los artículos, 159 fracción I, y 160, de la Ley Ambiental del Estado de San Luis Potosí.
+XI. Arrojar la colilla de cigarro fuera de los contenedores de basura que se encuentren en las calles, plazas públicas, parques y jardines, o cerca de ríos y lagunas, y de cualquier otro espacio público. Se entiende por colilla de cigarro al resto del cigarro no consumido que puede contener el filtro.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+Quien incurra en los supuestos previstos en las fracciones, X y XI de este artículo, se le sancionará conforme a lo establecido en los artículos, 159 fracción I y 160 de esta Ley.
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 2020)</small>
 
@@ -3790,3 +3794,13 @@ P.O. 27 DE DICIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0702.- SE REFORMA EL ARTÍCULO 107, EN SUS FRACCIONES IX Y X Y EN SU PÁRRAFO ÚLTIMO; Y SE ADICIONA AL MISMO ARTÍCULO 107, LA FRACCIÓN XI, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Los ayuntamientos de la Entidad tendrán el plazo de cuarenta y cinco días hábiles para adecuar su reglamento de limpia y recolección de basura conforme lo previsto por el presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
