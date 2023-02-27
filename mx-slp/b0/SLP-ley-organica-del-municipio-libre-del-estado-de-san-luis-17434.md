@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2023-02-09"
+last_updated: "2023-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1245,25 +1245,21 @@ El Síndico no puede desistirse, transigir o comprometerse en árbitros, ni hace
 
 ### CAPITULO IV. De la Secretaría
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2023)</small>
 
 ###### ARTICULO 77.
 
-Para el despacho de los asuntos y para auxiliar al Presidente en sus funciones, cada Ayuntamiento contará con un Secretario, mismo que deberá reunir los siguientes requisitos:
+Para el despacho de los asuntos y para auxiliar a la o el presidente municipal, en sus funciones, cada Ayuntamiento contará con una Secretaria o Secretario, quien deberá reunir los siguientes requisitos:
 
-I. Ser ciudadano potosino en pleno uso de sus derechos civiles y políticos;
+I. Ser ciudadana o ciudadano potosino en pleno uso de sus derechos civiles y políticos;
 
-II. (DEROGADA, P.O. 22 DE JUNIO DE 2018)
+II. Contar con título y cédula profesional de nivel licenciatura, con una antigüedad mínima de tres años en el ejercicio de la profesión. Respecto a los municipios con población de más de cien mil habitantes, deberá ser Licenciado o Licenciada en Derecho, abogado o abogada;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2021)</small>
+III. No ser pariente consanguíneo o por afinidad hasta el cuarto grado de las o los integrantes del Ayuntamiento, y
 
-III. Contar con título y cédula profesional de nivel licenciatura, con una antigüedad mínima de tres años en el ejercicio de la profesión.
+(NOTA: EL 24 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Respecto a las demarcaciones con población de más de cien mil habitantes, preferentemente será Licenciado en Derecho, abogado, o afín;
-
-IV. No ser pariente consanguíneo o por afinidad hasta el cuarto grado de los integrantes del Ayuntamiento, y
-
-V. No haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión.
+IV. MANIFESTAR BAJO PROTESTA DE DECIR VERDAD, NO HABER SIDO CONDENADA O CONDENADO POR SENTENCIA FIRME POR LA COMISIÓN DE DELITOS DOLOSOS QUE HAYAN AMERITADO PENA DE PRISIÓN.
 
 ###### ARTICULO 78.
 
@@ -3418,3 +3414,13 @@ P.O. 9 DE FEBRERO DE 2023.
 PRIMERO. Este Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0698.- SE REFORMA EL ARTÍCULO 77, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Las personas nombradas con anterioridad a la entrada en vigor del presente Decreto, continuarán en sus cargos en los términos y con las disposiciones en las que fueron nombradas.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
