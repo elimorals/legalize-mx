@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2022-12-27"
+last_updated: "2023-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
@@ -855,9 +855,9 @@ XI. Informar al Congreso en forma trimestral, y en sus recesos a la Diputación 
 
 XII. Contar con los servicios de apoyo técnico o asesoría que apruebe la Junta de Coordinación Política;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
 
-XIII. Presentar al Congreso del Estado la propuesta de las personas candidatas a ocupar el cargo de titular de la Auditoría Superior del Estado, así como la solicitud de su remoción para lo cual podrá consultar a las organizaciones civiles y asociaciones que estime pertinente;
+XIII. Presentar al Congreso la propuesta de las personas candidatas a ocupar el cargo de titular de la Auditoría Superior del Estado; a la persona titular de la Unidad de Evaluación y Control de la Comisión de Vigilancia y, en su caso, la solicitud de remoción de éstas, para lo cual podrá consultar a las organizaciones civiles y asociaciones que estime pertinente;
 
 XIV. Conocer y aplicar en lo conducente el Reglamento Interior de la Auditoría Superior del Estado;
 
@@ -1524,3 +1524,11 @@ P.O. 27 DE DICIEMBRE DE 2022.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis ".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0710.- SE REFORMA EL ARTÍCULO 118 EN SUS FRACCIONES V, VI, VII, XIII, XV Y XVI; Y ADICIONA AL MISMO ARTÍCULO 118 UNA FRACCIÓN, ÉSTA COMO XVII, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 69, EN SU FRACCIÓN XIII, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
