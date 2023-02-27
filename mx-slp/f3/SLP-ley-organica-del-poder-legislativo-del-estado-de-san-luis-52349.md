@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2022-10-14"
+last_updated: "2023-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1829,17 +1829,17 @@ III. Recibir los informes que le presente la Auditoría Superior del Estado, y r
 
 IV. Evaluar el cumplimiento de los objetivos y metas del programa operativo anual de la Auditoría Superior del Estado, así como auditar por sí o a través de servicios de auditoría externos, la debida aplicación de los recursos a cargo de ésta;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
 
-V. Citar al titular de la Auditoría Superior del Estado para conocer en lo específico de los informes presentados;
+V. Citar a la persona titular de la Auditoría Superior del Estado para conocer en lo específico de los informes presentados;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
 
-VI. Vigilar que el funcionamiento de la Auditoría Superior del Estado y la conducta de sus servidores públicos, se apeguen a lo dispuesto por esta Ley y demás disposiciones aplicables;
+VI. Vigilar que el funcionamiento de la Auditoría Superior del Estado y la conducta del personal adscrito, se apeguen a lo dispuesto por esta Ley, y demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
 
-VII. Conocer y opinar sobre el proyecto de presupuesto anual que presente el Auditor Superior del Estado, y remitirlo a la Directiva del Congreso del Estado para su inclusión en el Presupuesto de Egresos del Estado; así como vigilar su correcto ejercicio;
+VII. Conocer y opinar sobre el proyecto de presupuesto anual que presente la persona titular de la Auditoría Superior del Estado, remitirlo a la Directiva del Congreso para su inclusión en el Presupuesto de Egresos; y vigilar su correcto ejercicio;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
@@ -1861,25 +1861,29 @@ XI. Informar al Congreso en forma trimestral, y en sus recesos a la Diputación 
 
 XII. Contar con los servicios de apoyo técnico o asesoría que apruebe la Junta de Coordinación Política;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
 
-XIII. Presentar al Congreso del Estado la propuesta de los candidatos a ocupar el cargo de titular de la Auditoría Superior del Estado; y de titular de la Unidad de Evaluación y Control de la Comisión de Vigilancia, así como la solicitud de remoción de éstos, para lo cual podrá consultar a las organizaciones civiles y asociaciones que estime pertinente;
+XIII. Presentar al Congreso la propuesta de las personas candidatas a ocupar el cargo de titular de la Auditoría Superior del Estado; así como de la persona titular de la Unidad de Evaluación y Control de la Comisión de Vigilancia; y en su caso, la solicitud de remoción de éstas, para lo cual podrá consultar a las organizaciones civiles y asociaciones que estime pertinente;
 
 > <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
 XIV. Conocer y aplicar en lo conducente el Reglamento Interior de la Auditoría Superior del Estado;
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
 
-XV. Analizar la información, en materia de fiscalización superior del estado, de contabilidad y auditoría gubernamentales y de rendición de cuentas, y podrá solicitar la comparecencia de servidores públicos de la Auditoría Superior del Estado vinculados con los resultados de la fiscalización;
+XV. Analizar la información, en materia de fiscalización superior del Estado, de contabilidad y auditoría gubernamentales, y de rendición de cuentas, y podrá solicitar la comparecencia del personal de la Auditoría Superior del Estado vinculados con los resultados de la fiscalización;
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
 
-XVI. Invitar a la sociedad civil organizada a que participe como observadores o testigos sociales en las reuniones ordinarias de la Comisión; así como, en la realización de ejercicios de contraloría social en los que se articule a la población con las entidades fiscalizadas, y
+XVI. Invitar a la sociedad civil organizada, y a quienes integren el Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, a que participen como observadores o testigos sociales en las reuniones ordinarias de la Comisión; así como, en la realización de ejercicios de contraloría social en los que se articule a la población con las entidades fiscalizadas;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XVII. Solicitar a la Auditoría Superior del Estado, la práctica de auditorías e investigaciones de obras, programas y acciones de los entes auditables, en virtud de la existencia de denuncias ciudadanas, para los efectos a que se refiere el artículo 97 de la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE OCTUBRE DE 2018)</small>
 
-XVII. Las demás que establezca esta Ley y otras disposiciones legales aplicables, así como la normatividad interior del Congreso.
+XVIII. Las demás que establezca esta Ley y otras disposiciones legales aplicables, así como la normatividad interior del Congreso.
 
 #### Sección Tercera. De los Comités
 
@@ -3112,3 +3116,11 @@ PRIMERO. Este Decreto entrará en vigor a los treinta días hábiles siguientes 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La junta de Coordinación Política asignará los recursos humanos y materiales para la implementación de este Decreto.
+
+P.O. 27 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0710.- SE REFORMA EL ARTÍCULO 118 EN SUS FRACCIONES V, VI, VII, XIII, XV Y XVI; Y ADICIONA AL MISMO ARTÍCULO 118 UNA FRACCIÓN, ÉSTA COMO XVII, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 69, EN SU FRACCIÓN XIII, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
