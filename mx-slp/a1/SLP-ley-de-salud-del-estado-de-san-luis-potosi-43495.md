@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2022-05-13"
+last_updated: "2023-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -111,6 +111,10 @@ VI. Derecho a la protección social en salud: el mecanismo por el cual el estado
 
 VII. Estado de fase terminal: todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado, y cuyo pronóstico de vida para la persona sea menor a seis meses;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VII Bis. Insumos de salud menstrual: Se denomina así a todo objeto de contención utilizado durante la menstruación tales como: toallas higiénicas (descartables o reutilizables), tampones, copas menstruales, esponjas marinas, y ropa interior absorbente;
+
 VIII. Obsesión terapéutica: la adopción de medidas innecesarias o inútiles con el objeto de alargar la vida en situación de fase terminal de un paciente;
 
 IX. Paciente en fase terminal: persona que tiene una enfermedad incurable e irreversible y que tiene un pronóstico de vida inferior a seis meses;
@@ -118,6 +122,10 @@ IX. Paciente en fase terminal: persona que tiene una enfermedad incurable e irre
 > <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2017)</small>
 
 IX Bis. Parto humanizado: es aquél en que se toman en consideración, como prioridad, los deseos de la mujer, siempre que no se encuentre en riesgo la integridad de la madre y el bebé, contribuyéndose a crear un ambiente en torno a la mujer que haga que ese momento lo viva plenamente y no de forma medicalizada, por tanto, la intervención médica sea proporcional a las necesidades que se vayan produciendo;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+IX Ter. Persona menstruante: es aquella con capacidad para menstruar;
 
 X. Medios innecesarios: son aquéllos cuyo perjuicio es mayor que los beneficios, en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
 
@@ -331,9 +339,9 @@ I. Proporcionar, con perspectiva de género, servicios de salud a la población 
 
 II. Contribuir al desarrollo demográfico armónico del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
 
-III. Colaborar al bienestar de la población del Estado, mediante servicios de asistencia social, que permitan detectar a personas menores de edad en estado de abandono, personas adultas mayores víctimas de maltrato, personas con discapacidad, así como a víctimas de violencia de género o psicológica, para fomentar su acceso a la alimentación y bienestar, y propiciar su incorporación a una vida equilibrada en lo económico y social, fomentando un entorno familiar sano;
+III. Colaborar al bienestar de la población del Estado mediante servicios de asistencia social, que permitan detectar a niñas, niños y adolescentes en estado de abandono, personas adultas mayores víctimas de maltrato, personas con discapacidad, así como a víctimas de violencia de género o psicológica, para fomentar su acceso a la alimentación y bienestar, y propiciar su incorporación a una vida equilibrada en lo económico y social, fomentando un entorno familiar sano;
 
 IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
 
@@ -765,7 +773,9 @@ Conforme a las prioridades establecidas del Sistema Estatal de Salud, se impleme
 
 Se entiende por grupos vulnerables los integrados por las siguientes personas:
 
-I. Personas menores de edad en estado de abandono, desamparo, desnutrición, o sujetas a maltrato;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+I. Niñas, niños y adolescentes en estado de abandono, desamparo, desnutrición, o sujetas a maltrato;
 
 II. Niñas y niños en conflicto con la ley penal, en cuanto a su readaptación e incorporación a la sociedad y sin menoscabo de lo que establezca la legislación penal o los reglamentos aplicables;
 
@@ -1173,11 +1183,11 @@ Los servicios públicos de salud deben otorgar al menos cinco consultas prenatal
 
 La Secretaría de Salud del Estado impulsará la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema, así como adoptar las medidas conducentes.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2023)</small>
 
 ###### ARTICULO 53.
 
-La protección de la salud física y mental de las personas menores de edad es una responsabilidad que deben compartir madre y padre por igual, tutores de menores de edad, el estado y la sociedad en general.
+La protección de la salud física y mental de niñas, niños y adolescentes es una responsabilidad que deben compartir la madre, el padre, las personas tutoras, el estado y la sociedad en general.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE OCTUBRE DE 2017)</small>
 
@@ -2259,9 +2269,15 @@ El Ejecutivo del Estado y los ayuntamientos fomentarán la creación de establec
 
 El Ejecutivo del Estado y los ayuntamientos en coordinación con las dependencias y entidades públicas correspondientes, suministrarán y distribuirán raciones alimenticias en aquellas zonas en las que se padezcan desastres originados por sequías, inundaciones, terremotos y otros fenómenos naturales o contingencias con efectos similares.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
 ###### ARTICULO 133.
 
-La Secretaría de Salud del Estado y el Sistema para el Desarrollo Integral de la Familia en el Estado, podrán emitir su opinión sobre las actividades de las instituciones privadas que trabajen en el campo de la salud y que presten su servicio social a la comunidad, para los efectos que la legislación fiscal determine.
+La Secretaría de Salud del Estado; y el Sistema para el Desarrollo Integral de la Familia en el Estado, podrán emitir:
+
+I. Su opinión sobre las actividades de las instituciones privadas que trabajen en el campo de la salud y que presten su servicio social a la comunidad, para los efectos que la legislación fiscal determine, y
+
+II. De conformidad con la suficiencia presupuestal que se tenga, programas de entrega de insumos de salud menstrual de manera gratuita, con el fin de garantizar la seguridad sanitaria y el bienestar físico de las personas menstruantes; priorizando a la población con mayor grado de marginación social y pobreza.
 
 ###### ARTICULO 134.
 
@@ -4758,6 +4774,22 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 13 DE MAYO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0315.- SE REFORMA EL ARTÍCULO 5° EN EL APARTADO A SU FRACCIÓN IV, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0699.- SE REFORMA EL ARTÍCULO 133; Y ADICIONA AL ARTÍCULO 4°, LAS FRACCIONES VII BIS Y IX TER, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0700.- SE REFORMAN LOS ARTÍCULOS 7º EN SU FRACCIÓN III, 23 EN SU FRACCIÓN I Y 53, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
