@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-comunicacion-social-para-el-estado-y-municipios-de-14950
 country: "mx"
 rank: "ley"
 publication_date: "2021-05-20"
-last_updated: "2021-05-20"
+last_updated: "2023-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE COMUNICACIÓN SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 20 de mayo de 2021.
 
@@ -163,9 +163,15 @@ V. Anunciar medidas preventivas de riesgos o que contribuyan a la eliminación d
 
 VI. Difundir las lenguas que se hablan en el Estado, y el patrimonio histórico estatal;
 
-VII. Comunicar programas y actuaciones públicas, y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
 
-VIII. Los demás establecidos en las leyes.
+VII. Comunicar programas y actuaciones públicas;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VIII. Utilizar lenguaje incluyente, no sexista, libre de discriminación eliminando cualquier tipo de violencia en contra de las mujeres, y
+
+IX. Los demás establecidos en las leyes.
 
 ###### ARTÍCULO 9º.
 
@@ -512,3 +518,13 @@ El Secretario General de Gobierno
 Jorge Daniel Hernández Delgadillo
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0694.- SE REFORMA EL ARTÍCULO 8°, EN SU FRACCIÓN VII; Y ADICIONA AL MISMO ARTÍCULO 8° UNA FRACCIÓN, ÉSTA COMO VIII, DE LA LEY DE COMUNICACIÓN SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
