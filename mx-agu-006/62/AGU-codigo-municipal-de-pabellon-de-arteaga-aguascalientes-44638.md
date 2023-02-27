@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2023-02-13"
+last_updated: "2023-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE AGUASCALIENTES EL 13 DE FEBRERO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -615,9 +613,9 @@ V.- Vigilar la administración de la Hacienda Municipal, cuidando que se observe
 
 VI.- Proporcionar al Congreso toda la información y documentación que éste requiera, a fin de que se practique una adecuada supervisión y fiscalización de las cuentas públicas municipales;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
 
-VII.- Nombrar al Director de Finanzas y Administración, al Secretario del Ayuntamiento, al titular de la Contraloría Municipal y de los órganos internos de control de los entes paramunicipales, así como a los servidores públicos que en auxilio del síndico, habrán de ejercer la procuración, defensa, promoción y representación jurídica en los litigios en que el municipio fuere parte;
+VII.- Nombrar al Director de Finanzas y Administración, al Secretario del Ayuntamiento, al titular de la Contraloría Municipal, así como a los titulares de las autoridades investigadoras, substanciadoras y resolutoras de dicha Contraloría y de los órganos internos de control de los entes paramunicipales, así como a los servidores públicos que, en auxilio del síndico, habrán de ejercer la procuración, defensa, promoción y representación jurídica en los litigios en que el municipio fuere parte;
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -789,9 +787,9 @@ II.- Dentro de su competencia, cumplir y hacer cumplir las disposiciones conteni
 
 III.- Tomar la protesta de Ley a los regidores y síndicos, funcionarios y empleados del Municipio;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
 
-IV.- Proponer al Ayuntamiento las ternas para realizar los nombramientos del Secretario del Ayuntamiento, del Director de Finanzas y Administración, del Director de Seguridad Pública y Movilidad, del titular de la Contraloría Municipal y de los órganos internos de control de los entes paramunicipales; y nombrar a los demás funcionarios públicos municipales excepto cuando la Ley y el presente ordenamiento dispongan otro modo de designación;
+IV.- Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, del Director de Finanzas y Administración, del Director de Seguridad Pública y Movilidad y la terna para el titular de la Contraloría Municipal, así como a los titulares de las autoridades investigadoras, substanciadoras y resolutoras de dicha Contraloría y de los órganos internos de control de los entes paramunicipales; y nombrar a los demás funcionarios públicos municipales excepto cuando la Ley y el presente ordenamiento dispongan otro modo de designación;
 
 V.- Presidir y dirigir las sesiones del Ayuntamiento;
 
@@ -2969,17 +2967,41 @@ d).- Centro de Desarrollo Comunitario 5 de mayo;
 
 X.- Contraloría Municipal:
 
-a).- Departamento de Auditoría;
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2023)</small>
 
-b).- Departamento de Investigación de Responsabilidades Administrativas;
+a).- Autoridad Auditora;
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2023)</small>
 
-c).- Departamento de Sustanciación de Responsabilidades Administrativas, y
+b).- Autoridad Investigadora;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 15 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2023)</small>
 
-d).- Departamento de Resolución de Responsabilidades Administrativas;
+c).- Autoridad Substanciadora;
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+d).- Autoridad Resolutora;
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+e).- Departamento de Declaraciones Patrimoniales y Entrega- Recepción;
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+f).- Departamento de Transparencia; y
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+g).- Las demás que las necesidades del servicio requieran.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+Los servidores públicos que ejerzan la función de la Autoridad Substanciadora y la Autoridad de (sic) Resolutora serán distintos de aquél que ejerza la de la Autoridad Investigadora, a fin de garantizar su independencia, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+En caso de urgente necesidad, con el objeto de atender las situaciones de trámite, el Presidente Municipal, designará directamente al servidor público responsable de ejercer las funciones de cualquiera de las Autoridades de la Contraloría Municipal o de sus órganos paramunicipales, en tanto se designe al titular de la unidad administrativa correspondiente.
 
 (REPUBLICADA Y REUBICADA ANTES FRACCIÓN X [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)
 
@@ -4079,21 +4101,471 @@ SUBSECCION PRIMERA
 
 De la competencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2023)</small>
 
 ###### ARTICULO 220.
 
-Corresponde a la Contraloría Municipal el despacho de los siguientes asuntos:
+La Contraloría Municipal, como Órgano de Control tiene a su cargo la fiscalización de los ingresos y egresos que reciba el Municipio de Pabellón de Arteaga; en el ejercicio de sus atribuciones está dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento, dotándose de todos los recursos humanos, equipo, material, e instalaciones adecuadas para su eficaz funcionamiento, los que serán proporcionados sobre la base de la partida presupuestal asignada para tal fin.
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+La Contraloría Municipal por medio de sus unidades administrativas, conducirá sus actividades en forma programada y orientada al cumplimiento de las políticas, estrategias, prioridades y restricciones, para el logro de los objetivos y metas del Plan de Desarrollo Municipal, correspondiente.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+El ejercicio de las atribuciones y facultades de la Contraloría Municipal, así como el trámite y resolución de los asuntos de su competencia, corresponden originalmente a su Titular, quien, para la mejor distribución y desarrollo de las actividades de esta, podrá delegar facultades a los titulares de sus unidades administrativas.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE FEBRERO DE 2023)</small>
+
+Las unidades administrativas adscritas a la Contraloría Municipal dirigirán sus funciones de acuerdo con las siguientes bases:
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+1.- Dependerán del Titular de la Contraloría Municipal,
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+2.- Realizarán sus actividades con independencia y autonomía,
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+3.- Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control, efectuarán revisiones y auditorías, vigilarán que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables, presentarán al Presidente Municipal y al Contralor Municipal, los informes resultantes de las auditorías, exámenes y evaluaciones realizadas; e
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+4.- Investigarán, conocerán, tramitarán, substanciarán y en su caso resolverán el procedimiento de responsabilidad administrativa, en términos de lo establecido por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y demás disposiciones aplicables a la materia.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+Las personas Titulares de la Contraloría Municipal, así como de sus órganos paramunicipales, serán suplidas en sus ausencias temporales, e incluso las definitivas por la falta de designación, por una de las personas titulares de las autoridades administrativas que de ellos dependan, la que será designada por el Presidente Municipal hasta en tanto se designe al Titular o se reincorpore al servicio público, en caso de ser temporal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+El nombramiento que se haga por suplencia será como Encargado (a) de Despacho de la Contraloría Municipal o de sus órganos paramunicipales, para lo cual, contará con todas y cada una de las atribuciones y emolumentos que el cargo le confiere al Titular de dicho cargo.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+Las Unidades Administrativas de la Contraloría Municipal, estarán integradas por sus Autoridades, Departamentos, Encargados, Auxiliares, el personal técnico administrativo y por los demás servidores públicos que señale el Reglamento respectivo, así como por el personal que se requiera para atender las necesidades del servicio y que se establezcan en el Presupuesto de Egresos vigente.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE FEBRERO DE 2023)</small>
+
+Las atribuciones de las Unidades Administrativas que integran la Contraloría Municipal serán las siguientes:
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE FEBRERO DE 2023)</small>
+
+A) Autoridad Auditora:
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+I.- Elaborar y ejecutar el programa anual de auditorías a las diversas áreas que conforman la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+II.- Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+III.- Practicar auditorías y revisiones que permitan evaluar el desempeño de (sic) Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+IV.- Presentar ante la Autoridad Investigadora, las denuncias derivadas de la práctica de auditorías, revisiones, inspección y verificación a las diversas áreas que conforman la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+V.- Coordinar las acciones a fin de verificar que las áreas que conforman la Administración Pública Municipal cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales emitidos por el H. Ayuntamiento;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VI.- Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte de la Administración Pública Municipal sobre el correcto ejercicio del gasto público;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VII.- Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Municipal en apego al Sistema Estatal Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VIII.- Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+IX.- Elaborar y proporcionar los informes que le solicite el Presidente Municipal y la Contraloría Municipal; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+X.- Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia y su Reglamento.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE FEBRERO DE 2023)</small>
+
+B) Autoridad Investigadora:
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+I.- Instrumentar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas y probables hechos de corrupción de los servidores públicos adscritos a la entidad paraestatal y de particulares, conforme a lo previsto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, así como acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+II.- Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos adscritos al Municipio, así como de los particulares vinculados a faltas graves, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+III.- La investigación por la presunta responsabilidad de faltas administrativas iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+IV.- En la investigación, podrá solicitar información o documentación a cualquier autoridad, persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+V.- Implementar las acciones necesarias para la recepción de denuncias por faltas administrativas imputables a los servidores públicos de la Administración Pública Municipal, o bien, referidas a faltas de particulares en relación con la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VI.- Realizar el trámite y desahogo de las investigaciones, por actos u omisiones de los servidores públicos adscritos a la Administración Pública Municipal o de particulares que puedan constituir responsabilidades administrativas de acuerdo con la normativa aplicable, autorizando con su firma los acuerdos e informes;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VII.- Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a los servidores públicos de la Administración Pública Municipal y de los particulares, habilitando para ello al personal del área correspondiente;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VIII.- Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con las investigaciones de su competencia;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+IX.- Concluida la investigación, en su caso, elaborar y suscribir el informe de presunta responsabilidad administrativa en el que se determine si existen elementos que presuman conductas constitutivas de probables faltas administrativas, calificando además dichas faltas como graves o no graves.
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+X.- Turnar el expediente a la Autoridad Substanciadora adscrita a la propia Contraloría Municipal;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XI.- Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XII.- Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Investigadora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XIII.- Habilitar días y horas inhábiles para la práctica de diligencias;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XIV.- Ordenar medidas de apremio y solicitar medidas cautelares;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XV.- Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XVI.- Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XVII.- Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XVIII.- Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XIX.- Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia y su Reglamento.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE FEBRERO DE 2023)</small>
+
+C) Autoridad Substanciadora:
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+I.- Admitir el informe de presunta responsabilidad administrativa, emitido por la Autoridad Investigadora, con el objeto de tramitar y substanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos del Municipio, por conductas que pudieran constituir responsabilidad en los términos de la ley de la materia, en cuanto a las faltas administrativas graves, no graves y de particulares. Tratándose de faltas graves y faltas de particulares vinculados con faltas administrativas graves, una vez realizada la substanciación, procederá a turnar el expediente a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes para la continuación del procedimiento administrativo y su resolución.
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+II.- Habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que tenga competencia;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+III.- Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en la substanciación del procedimiento administrativo instaurado;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+IV.- Presentar denuncias o querellas en asuntos de competencia del Órgano Interno de Control y de aquellas por probables responsabilidades del orden penal de los servidores públicos, ratificar las mismas;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+V.- Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con los procedimientos de responsabilidad de su competencia;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VI.- Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Substanciadora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VII.- Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VIII.- Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+IX.- Habilitar días y horas inhábiles para la práctica de diligencias;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+X.- Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XI.- Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XII.- Analizar y resolver las causales de improcedencia y sobreseimiento existentes al recibir el Informe de Presunta Responsabilidad Administrativa y el expediente de investigación que turne la Autoridad Investigadora o de aquellas promovidas por las partes;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XIII.- Resolver los recursos de inconformidad interpuestos en contra de las resoluciones recaídas en los procedimientos de adquisición previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes, además de todos y cada uno de los recursos administrativos que sean considerados y procedentes en materia de adquisiciones; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XIV.- Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia y su Reglamento.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE FEBRERO DE 2023)</small>
+
+D) Autoridad Resolutora:
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+I.- Acordar el cierre de instrucción dentro del procedimiento de responsabilidades administrativas;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+II.- Elaborar los proyectos de resoluciones que se emitan con motivo de los procedimientos administrativos de responsabilidades;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+III.- Resolver los procedimientos de responsabilidad administrativa no graves seguidos en contra de servidores públicos de la Administración Pública Municipal.
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+IV.- Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones definitivas recaídas en los procedimientos administrativos resueltos por esta Autoridad.
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+V.- Abrir la etapa de ejecución de las resoluciones que dicte y ordenar el archivo del expediente una vez sean cumplidas;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VI.- Presentar denuncias o querellas en asuntos de competencia de la Contraloría Municipal y de aquellas por probables responsabilidades del orden penal de los servidores públicos, ratificar las mismas;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VII.- Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Resolutora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VIII.- Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+IX.- Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+X.- Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera,
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XI.- Llevar el registro de abstenciones y sanciones de los servidores públicos sancionados en los procedimientos de responsabilidad administrativa resueltos por esta Autoridad Resolutora;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XII.- Habilitar días y horas inhábiles para la práctica de diligencias;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XIII.- Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XIV.- Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia y su Reglamento.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE FEBRERO DE 2023)</small>
+
+E) Departamento de Declaraciones Patrimoniales y Entrega-Recepción:
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+I.- Recibir la declaración de intereses, declaración patrimonial, así como constancia de presentación de declaración fiscal de los servidores públicos, y registrarlas e integrarlas en el sistema de evolución patrimonial conforme a la Ley, demás disposiciones aplicables y los mecanismos que implemente el Sistema Estatal y Nacional Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+II.- Formular y proponer al Titular de la Contraloría Municipal, los criterios y normas para la presentación de las Declaraciones que permita prevenir actos de corrupción;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+III.- Verificar y dar seguimiento, a través de los medios que se estimen pertinentes, los datos vertidos por los servidores públicos de la Administración Pública Municipal en las declaraciones patrimoniales y la declaración de intereses que obren en el sistema de evolución patrimonial, en su caso, presentar la denuncia correspondiente ante el Departamento de Investigación de la Contraloría Municipal;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+IV.- Presentar la denuncia correspondiente ante el Departamento de Investigación de la Contraloría Municipal, en los casos de incumplimiento de presentación de declaraciones de los servidores públicos de la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+V.- Intervenir, coordinar y auxiliarse con el personal de otras áreas de la Contraloría y Órganos Internos de Control, para la Entrega-Recepción ordinaria y constitucional de las oficinas públicas de la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VI.- Proponer al Titular de la Contraloría Municipal los lineamientos para los proceso de Entrega-Recepción de los servidores públicos y oficinas públicas de la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VII.- Expedir y registrar en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, las certificaciones correspondientes derivadas de las verificaciones realizadas de la evolución del patrimonio de los servidores públicos;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VIII.- Verificar y dar seguimiento a la situación o posible actualización de algún conflicto de interés de servidores públicos de la Administración Pública Municipal y, en su caso, presentar la denuncia correspondiente ante la Unidad de Investigación y Recepción de Quejas y Denuncias de la Contraloría;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+IX.- Establecer mecanismos de coordinación con las áreas administrativas de la Administración Pública Municipal, para dar cumplimiento a las disposiciones establecidas en materia de Entrega-Recepción y declaraciones patrimoniales;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+X.- Coordinar capacitar y dar asistencia a los Órganos Internos de Control y demás sujetos obligados, sobre los temas relativos al ámbito de las atribuciones de la Unidad de Entrega - Recepción y Declaraciones Patrimoniales;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XI.- Proponer al Titular de la Contraloría Municipal, para designación de los representantes de la Contraloría Municipal para los procesos de entrega - recepción;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XII.- Requerir por escrito a los servidores públicos que estén dentro del supuesto del incumplimiento en la presentación de alguna de las declaraciones patrimoniales y de interés y exhortarlos a que realicen la presentación faltante en un término no mayor de treinta días naturales;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XIII.- Determinar los criterios de causa justificada, por la omisión o extemporaneidad cometida en la no presentación de las declaraciones por parte de los servidores públicos, así como aquellos que sean causa de un posible conflicto de interés;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XIV.- Elaborar y emitir un análisis cuando se detecten incongruencias en el patrimonio de los servidores públicos de la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XV.- Coordinarse con los Departamentos de Auditoría e Investigación, para conocer la evolución patrimonial de los Declarantes y los Actos de Entrega-Recepción, a efecto de obtener la información en materia fiscal, la relacionada con operaciones de depósito, ahorro, administración, inversión de recursos monetarios, o cualquier otra necesaria;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XVI.- Ordenar las verificaciones aleatorias de las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, de declaración de interés y constancia de presentación de declaración fiscal, así como de la evolución del patrimonio de los servidores públicos;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XVII.- Elaborar, registrar y resguardar las Actas Administrativas Circunstanciadas de Entrega-Recepción que se susciten en la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XVIII.- Participar en la celebración de los Actos de Entrega-Recepción del H. Ayuntamiento;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XIX.- Coordinar, capacitar y dar asistencia a los enlaces en el manejo del Sistema de Declaraciones, así como el correspondiente al de Entrega-Recepción de las Dependencias y Entidades de la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XX.- Proponer, dar seguimiento y elaborar los documentos necesarios para realizar mejores prácticas en materia de Entrega-Recepción;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XXI.- Designar como notificadores a los servidores públicos a su cargo para los asuntos que sean de su competencia; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XXII.- Las demás que señalen otras disposiciones legales, las que se desprendan de todos aquellos convenios, acuerdos y demás instrumentos en que la Contraloría Municipal sea parte y por razón de la materia le corresponda conocer del tema, así como todas aquellas que le sean delegadas o encomendadas.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE FEBRERO DE 2023)</small>
+
+F) Departamento de Transparencia:
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+I.- Coadyuvar con el Titular de la Contraloría Municipal en el ejercicio de las disposiciones jurídicas que se confieren a la Contraloría Municipal en materia de anticorrupción, ética, integridad pública y prevención de Conflictos de Intereses, excepto en los casos en que por disposición legal o administrativa deban ser ejercidas por el Titular o por otra unidad distinta;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+II.- Apoyar como unidad de asesoría y consulta en materia de ética, integridad pública y prevención de Conflictos de Interés a las Dependencias y Entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+III.- Realizar verificaciones al cumplimiento y los datos publicados, de las Dependencias y Entidades de la Administración Pública Municipal, de lo estipulado en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios y de la Ley de Protección de Datos Personales en posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+IV.- Coordinar el cumplimiento de las Dependencias y Entidades de la Administración Pública Municipal, de lo estipulado en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios y (sic) Ley de Protección de Datos Personales en posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+V.- Elaborar informes y reportes sobre presuntas infracciones e incumplimientos, en materia de transparencia y datos personales, de conformidad con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VI.- Coordinar el Cumplimiento de la Contraloría Municipal en el marco de (sic) Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios y (sic) Ley de Protección de Datos Personales en posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VII.- Coordinar la recepción y difusión de la información relativa a las obligaciones establecidas en la normatividad en materia de transparencia de la Administración Pública Municipal, propiciando que las Dependencias y Entidades la actualicen periódicamente, conforme a las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+VIII.- Recibir y dar trámite a las solicitudes de acceso a la información y de datos personales, así como los recursos de revisión ante la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+IX.- Efectuar las notificaciones correspondientes que se deriven de los procedimientos de acceso a la información y de datos personales;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+X.- Realizar los trámites al interior de la Contraloría Municipal para la atención de las solicitudes de acceso a la información y datos personales, así como solicitar a las unidades administrativas de dicha Dependencia la información pertinente, a efecto de tramitar las respuestas correspondientes;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XI.- Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y de datos personales y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XII.- Notificar al superior jerárquico correspondiente cuando alguna unidad administrativa de una Dependencia o Entidad de la Administración Pública Municipal se niegue a colaborar con la Unidad de Transparencia;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XIII.- Hacer del conocimiento de la autoridad competente la negativa a que se refiere la fracción anterior, para que en su caso se inicie el procedimiento de investigación correspondiente;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XIV.- Realizar las gestiones necesarias para cumplir con las instrucciones del Comité de Transparencia del Municipio; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XV.- Las demás que señalen otras disposiciones legales, las que se desprendan de todos aquellos convenios, acuerdos y demás instrumentos en que la Contraloría Municipal sea parte y por razón de la materia le corresponda conocer del tema, así como todas aquellas que le sean delegadas o encomendadas por el Titular de la Contraloría Municipal.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA QUINTA SECCIÓN DEL P.O. 27 DE FEBRERO DE 2023, PÁGINAS DE LA 15 A LA 16.]</small>
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE FEBRERO DE 2023)</small>
+
+G) En adición de lo anterior, corresponde a la Contraloría Municipal el despacho de los siguientes asuntos:
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 I.- Instrumentar y actualizar el sistema de Control sobre los programas con indicadores que sirvan para medir con criterios objetivos la gestión del gobierno y el impacto de las acciones y políticas de gobierno en los ciudadanos;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 II.- Generar información a través de indicadores de gestión que faciliten y hagan más estratégica la toma de decisiones;
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA CON SUS INCISOS], P.O. 27 DE FEBRERO DE 2023)</small>
 
 III.- Coordinar reuniones de evaluación del rumbo de la gestión en sus tres dimensiones:
 
@@ -4103,85 +4575,89 @@ b).- Eficacia, control del logro de objetivos; y
 
 c).- Legitimidad, Encuestas ciudadanas medición del impacto de las acciones de gobierno en la población.
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 IV.- Operar el programa de Atención al Público cuyo objetivo es mejorar la calidad en el servicio, y monitorear los niveles de servicio, tiempo de respuesta y la calidad de los diferentes servicios públicos prestados;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 V.- Vigilar el correcto manejo de las finanzas municipales, apegándose a lo establecido en la Ley de Ingresos y a los presupuestos de Ingresos y egresos municipales;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 VI.- Velar porque los procesos administrativos del municipio se realicen con transparencia, seguridad jurídica, agilidad y orden;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
-VII.- Ordenar y practicar visitas de auditoria e inspección a las dependencias municipales, centralizadas y descentralizadas, en materia de su competencia;
+VII.- Ordenar y practicar visitas de auditoría e inspección a las dependencias municipales, centralizadas y descentralizadas, en materia de su competencia;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 VIII.- Supervisar los procesos de asignación, adjudicación, ejecución, entrega, recepción y pago de la obra pública y la correcta aplicación en ellos de los fondos públicos;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 IX.- Vigilar y coordinar la adecuada entrega-recepción de las dependencias municipales;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 X.- Cuidar el correcto desempeño de los servidores públicos, atender las denuncias ciudadanas, instruir procesos y determinar responsabilidades respecto de estos;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 XI.- Coordinar y vigilar que los servidores públicos obligados a presentar declaración de evolución patrimonial, declaración de intereses y constancia de declaración fiscal lo hagan en tiempo y forma, apegándose a la normatividad establecida;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 XII.- Supervisar que las adquisiciones de bienes y servicios que realice el Municipio correspondan en cantidad y calidad a las necesidades reales;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 XIII.- Vigilar los recursos patrimoniales del Municipio, así como los que provengan del Gobierno Federal y del estatal;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 XIV.- Fijar las normas de control, fiscalización, contabilidad y auditoría que deben observar las dependencias municipales;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 XV.- Vigilar el cumplimiento de políticas y programas establecidos por el H. Ayuntamiento, así como las normas señaladas en la fracción anterior;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
-XVI.- Practicar auditorias en las dependencias y organismos descentralizados municipales, verificando el destino de los fondos públicos sean propios o transferidos;
+XVI.- Practicar auditorías en las dependencias y organismos descentralizados municipales, verificando el destino de los fondos públicos sean propios o transferidos;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 XVII.- Vigilar y controlar el gasto público para el rendimiento máximo de los recursos del municipio, y el adecuado equilibrio presupuestal;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 XVIII.- Vigilar que las obras realizadas por el municipio, directamente o con participación de terceros se ajusten a las especificaciones fijadas;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 XIX.- Dictaminar los estados financieros que expida la Dirección de Finanzas y Administración;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 XX.- Turnar a las diferentes unidades administrativas las denuncias de los particulares para su trámite y dar seguimiento a las mismas; y
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 XXI.- Investigar las faltas administrativas cometidas por servidores públicos municipales, substanciando el procedimiento e imponiendo, en su caso, las sanciones correspondientes en el caso de faltas no graves;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2023)</small>
 
 XXII.- Enviar a la sala administrativa del Poder Judicial del estado el expediente del procedimiento de responsabilidad por faltas administrativas graves cometidas por servidores públicos, y
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2023)</small>
 
-XXIII.- Lo demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+XXIII. Expedir copias certificadas de los expedientes y documentos relativos a los asuntos de su competencia y de aquellos que obren en sus archivos; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE FEBRERO DE 2023)</small>
+
+XXIV.- Lo demás que señalen la Ley, Código o su Reglamento.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE JUNIO DE 2022)</small>
 
@@ -4216,6 +4692,10 @@ Los requisitos señalados, a excepción de los previstos en las fracciones II y 
 ARTICULO 220 TER.- El titular de la Contraloría Municipal será nombrado por el Ayuntamiento de entre la terna propuesta por el Presidente Municipal.
 
 Para la integración de la terna, el Presidente Municipal emitirá una convocatoria donde se darán a conocer los requisitos, etapas y actividades a realizar durante la fase de selección de los perfiles idóneos.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+El procedimiento de selección del titular de la Contraloría Municipal, también es aplicable a los titulares de las autoridades investigadoras, substanciadoras y resolutoras de dicha Contraloría, así como de sus entes paramunicipales, a excepción de cuando dichos titulares se encuentren adscritos al servicio civil de carrera.
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
 
@@ -4258,6 +4738,10 @@ ARTICULO 220 NOVIES.- El Ayuntamiento designará al Contralor Municipal por el v
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
 
 ARTICULO 220 DECIES.- La designación del Contralor Municipal se deberá realizar a más tardar dentro de los treinta días siguientes a la fecha en que inicie el periodo constitucional. Sin embargo, mientras se realiza la designación, el Presidente Municipal podrá nombrar un encargado de despacho.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+El procedimiento de selección del titular de la Contraloría Municipal también será aplicable a los titulares de las autoridades investigadoras, substanciadoras y resolutoras de dicha Contraloría, así como de sus entes paramunicipales, a excepción de cuando dichos titulares se encuentren adscritos al servicio civil de carrera.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE JUNIO DE 2022)</small>
 
@@ -6149,7 +6633,9 @@ ARTÍCULO 350 QUÁTER.- Se podrán contratar adquisiciones, arrendamientos o ser
 
 I.- Existan razones técnicas, científicas o legales justificadas para la adquisición, arrendamiento de bienes muebles o contratación de servicios de marca determinada o bienes usados;
 
-II.- Se trate de adquisiciones urgentes de bienes perecederos, granos, productos alimenticios, suplementos alimenticios, agua embotellada, servicio de alimentos y banquetes que podrá incluir el mobiliario, logística, personal y lugar donde se organizará el evento;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+II.- Se trate de adquisiciones urgentes de bienes perecederos, granos, productos alimenticios, suplementos alimenticios;
 
 III.- Cuando no existan bienes o servicios alternativos o sustitutos técnicamente razonables, o bien, cuando en el mercado sólo exista un posible oferente o el contrato sólo puede celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos;
 
@@ -10455,35 +10941,61 @@ ARTICULO 644 BIS.- La CAPAPA contará con un órgano interno de control que tend
 
 El órgano interno de control de la CAPAPA contará con la estructura orgánica necesaria para cumplir las funciones descritas en el párrafo anterior y, en especial, para realizar las funciones correspondientes a las autoridades investigadoras, substanciadoras, resolutoras y de auditoría de tal modo que se asegure la independencia de estas en el ejercicio de sus funciones.
 
-Para la determinación de los requisitos que deberá cumplir el titular del órgano interno de control, así como del proceso para su designación y la aplicabilidad de las bases del servicio civil de carrera a que estarán sujetos quienes ocupen las jefaturas de departamento, oficina, unidad y, en general, las personas que presten sus servicios en las áreas de auditoría, investigación, sustanciación y resolución de ese ente, serán aplicables las disposiciones contenidas en los artículos 220-Bis a 220-Quindecies del presente Código.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+Para la determinación de los requisitos de selección que deberá cumplir el titular del órgano interno de control, de la CAPAPA, así como para los titulares de las autoridades investigadora, substanciadora y resolutora, de dicho órgano, les serán aplicables las disposiciones aplicables para la Contraloría Municipal; el proceso para la designación y la aplicabilidad de las bases del servicio civil de carrera a que estarán sujetos quienes ocupen las jefaturas de departamento, oficina, unidad y, en general, las personas que presten sus servicios en las áreas de auditoría, investigación, sustanciación y resolución de ese ente, será conforme a las disposiciones contenidas en los artículos 220-Bis a 220-Quindecies del presente Código.
 
-ARTICULO 644 TER.- Además de las facultades a que se refiere el artículo 35 de la Ley de Agua para el Estado de Aguascalientes, corresponde al titular del órgano interno de control:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2023)</small>
+
+ARTICULO 644 TER.- Además de las facultades a que se refiere el artículo 35 de la Ley de Agua para el Estado de Aguascalientes, corresponde al titular del órgano interno de control, así como a sus unidades administrativas:
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
 
 I. Aplicar las normas y criterios en materia de control y evaluación que deban ser observadas por la CAPAPA;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
+
 II. Realizar auditorías periódicas a la CAPAPA;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
 
 III. Participar en la entrega-recepción de la CAPAPA;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
+
 IV. Vigilar el desarrollo administrativo da la CAPAPA a fin (sic) que se apliquen con eficiencia los recursos humanos y patrimoniales, para lo cual propondrá las observancias que considere pertinentes;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
 
 V. Dar seguimiento a las observaciones formuladas acerca del desempeño de la CAPAPA y coordinar el proceso de solventación cuando las observaciones provengan de entes ajenos al órgano interno de control;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
+
 VI. Vigilar que la administración de los recursos se haga de acuerdo con lo dispuesto en la Ley, los programas y presupuestos aprobados;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
 
 VII. Practicar la auditoría de los estados financieros y las de carácter técnico o administrativo al término del ejercicio o antes, si así lo considera conveniente;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
+
 VIII. Rendir anualmente durante la sesión ordinaria del Consejo Directivo un informe respecto a la veracidad y suficiencia de la información presentada por la Dirección General;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
 
 IX. Asistir con voz, pero sin voto, a todas las sesiones del Consejo Directivo;
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
+
 X. Verificar el cumplimiento de las obligaciones fiscales correspondientes a la CAPAPA;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
 
 XI. Supervisar permanentemente las operaciones de la CAPAPA; y
 
-XII. Las demás que se deriven de las leyes aplicables.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+XII. Las determinadas en el artículo 220 del presente Código y las demás que se deriven de las leyes aplicables.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
@@ -29804,3 +30316,11 @@ P.O. 23 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA AL ARTÍCULO 216 Y SE ADICIONA EL ARTÍCULO 216 BIS, DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO POR EL QUE "SE REFORMA EL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
