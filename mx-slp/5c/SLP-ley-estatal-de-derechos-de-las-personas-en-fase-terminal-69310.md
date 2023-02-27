@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-derechos-de-las-personas-en-fase-terminal-69310"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-07"
-last_updated: "2009-07-07"
+last_updated: "2023-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE DERECHOS DE LAS PERSONAS EN FASE TERMINAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado San Luis Potosí, el martes 7 de julio de 2009.
 
@@ -151,9 +151,11 @@ En este caso, el médico tratante interrumpe, suspende o no inicia el tratamient
 
 El paciente en fase terminal que esté recibiendo los cuidados paliativos, podrá solicitar recibir nuevamente el tratamiento curativo, ratificando su decisión por escrito ante el personal médico correspondiente.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
 ###### ARTICULO 10.
 
-Si el paciente en fase terminal es menor de edad, o se encuentra incapacitado para expresar su voluntad, las decisiones derivadas de los derechos señalados en este Titulo, serán asumidos por los padres o el tutor y, a falta de éstos, por su representante legal o juez, de conformidad con las disposiciones aplicables.
+Si el paciente en fase terminal es niña, niño o adolescente, o se encuentra incapacitado para expresar su voluntad, las decisiones derivadas de los derechos señalados en este Título, serán asumidos por los padres o el tutor y, a falta de éstos, por su representante legal o juez, de conformidad con las disposiciones aplicables.
 
 ###### ARTICULO 11.
 
@@ -251,15 +253,17 @@ El personal médico que por decisión propia deje de proporcionar los cuidados b
 
 ### Capítulo I. Características del Documento Premortem
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2023)</small>
+
 ###### ARTICULO 23.
 
-Toda persona mayor de edad en pleno uso de su capacidad de ejercicio tiene derecho a suscribir el Documento de Disposiciones Premortem.
+Toda persona mayor de edad en pleno uso de su capacidad de ejercicio, tiene derecho a suscribir el Documento de Disposiciones Premorterm.
 
-La persona en fase terminal previa declaración judicial de su estado de interdicción mediante quien ejerza su tutela, podrá suscribir el Documento de Disposiciones Premortem.
+Cuando la persona en fase terminal sea niña, niño o adolescente, podrán suscribir el Documento de Disposiciones Premortem el padre y la madre, y, a falta de éstos, la persona que ejerza su tutela.
 
-Cuando la persona en fase terminal sea menor de edad, podrán suscribir el Documento de Disposiciones Premortem, el padre y la madre, y, a falta de éstos, la persona que ejerza su tutela.
+Para que sea válida la disposición de voluntad referida en el párrafo anterior, se estará a lo dispuesto en la presente Ley, el Código Familiar para el Estado y demás disposiciones aplicables.
 
-Para que sea válida la disposición de voluntad referida en el párrafo anterior, se estará a lo dispuesto en la presente Ley, el Código Familiar del Estado y demás disposiciones aplicables. Dicho documento podrá ser revocado en cualquier momento.
+Dicho documento podrá ser revocado en cualquier momento.
 
 ###### ARTICULO 24.
 
@@ -352,3 +356,13 @@ El Secretario General de Gobierno
 Lic. Héctor Vega Robles
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0701.- SE REFORMAN LOS ARTÍCULOS 10 Y 23, DE LA LEY ESTATAL DE DERECHOS DE LAS PERSONAS EN FASE TERMINAL".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
