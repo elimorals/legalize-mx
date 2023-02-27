@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2021-12-02"
+last_updated: "2023-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -227,11 +227,11 @@ Para la administración del Fondo Estatal para los Servicios de Salud, la Direcc
 
 El Ejecutivo del Estado destinará los recursos del Fondo Estatal de Aportaciones Múltiples, a los programas de asistencia social en apoyo a la población en desamparo; así como el fortalecimiento de la infraestructura educativa pública básica y superior, en su modalidad universitaria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2023)</small>
 
 ###### ARTICULO 23.
 
-El Ejecutivo del Estado, a través del Sistema Estatal para el Desarrollo Integral de la Familia, instrumentará con recursos del Fondo Estatal de Aportaciones Múltiples acciones para el fortalecimiento de la asistencia social en el Estado, a través de desayunos escolares, apoyos alimentarios y programas de asistencia social, dirigidos a la población en condiciones de pobreza extrema y marginación, particularmente mujeres, menores de edad, personas con discapacidad y personas adultas mayores, en el marco de la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí.
+El Ejecutivo del Estado, a través del Sistema Estatal para el Desarrollo Integral de la Familia, instrumentará con recursos del Fondo Estatal de Aportaciones Múltiples acciones para el fortalecimiento de la asistencia social en el Estado, a través de desayunos escolares, apoyos alimentarios y programas de asistencia social, dirigidos a la población en condiciones de pobreza extrema y marginación, particularmente mujeres, niñas, niños y adolescentes, personas con discapacidad y personas adultas mayores, en el marco de la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí.
 
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
 
@@ -1026,3 +1026,11 @@ P.O. 2 DE DICIEMBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al inicio de la vigencia de la Ley de las Juntas de Participación Ciudadana del Estado de San Luis Potosí, previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0703.- SE REFORMA EL ARTÍCULO 23, EN SU PÁRRAFO PRIMERO, DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
