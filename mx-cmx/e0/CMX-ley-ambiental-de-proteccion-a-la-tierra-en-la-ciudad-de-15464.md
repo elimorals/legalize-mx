@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2022-10-27"
+last_updated: "2023-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -405,6 +405,10 @@ PARQUES URBANOS: (DEROGADO, G.O. 31 DE ENERO DE 2002)
 > <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 PLAN RECTOR DE LAS ÁREAS NATURALES PROTEGIDAS DEL DISTRITO FEDERAL: Instrumento de planeación y normatividad que establece lineamientos, criterios y políticas para la administración y manejo de las Áreas Naturales Protegidas;
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2023)</small>
+
+PLATAFORMA DIGITAL: Sistema informático desarrollado por la Agencia Digital de Innovación Pública, y operado por la Secretaría, a través de la cual se realizan los trámites establecidos en la presente Ley;
 
 PLATAFORMAS O PUERTOS DE MUESTREO: Instalaciones que permiten el análisis y medición de las descargas de contaminantes o materiales de una fuente fija a la atmósfera, agua, suelo o subsuelo, de acuerdo con las Normas Oficiales;
 
@@ -922,7 +926,9 @@ IV. Las normas ambientales para el Distrito Federal;
 
 V. La evaluación del impacto ambiental;
 
-VI. Las (sic) licencia ambiental única;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2023)</small>
+
+VI. La Manifestación Ambiental Única;
 
 VII. Los permisos y autorizaciones a que se refiere esta ley;
 
@@ -1686,21 +1692,29 @@ Las autorizaciones que se otorguen en materia de impacto ambiental estarán refe
 
 Las autoridades competentes deberán acudir al lugar especificado en el informe de impacto ambiental para inspeccionar, verificar y, llegado el caso, sancionar las irregularidades que existieran de acuerdo a lo previsto en el Título VII, Capítulo II de esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE FEBRERO DE 2023)</small>
 
-### CAPÍTULO VI BIS. LICENCIA AMBIENTAL ÚNICA PARA EL DISTRITO FEDERAL
+### CAPÍTULO VI BIS. MANIFESTACIÓN AMBIENTAL ÚNICA PARA LA CIUDAD DE MÉXICO
 
-> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 61 Bis.
 
-La Licencia Ambiental Única para el Distrito Federal es el instrumento de política ambiental por el que se concentran diversas obligaciones ambientales de los responsables de fuentes fijas que están sujetos a las disposiciones de esta Ley, mediante la tramitación de un solo procedimiento que ampare los permisos y autorizaciones referidos en la normatividad ambiental.
+La Manifestación Ambiental Única para la Ciudad de México es el instrumento de política ambiental por medio del cual los responsables de fuentes fijas que están sujetos a las disposiciones de esta Ley, informan sobre el cumplimiento de sus obligaciones ambientales relativas a:
 
-> <small>(REFORMADO PÁRRAFO PRIMERO, G.O. 7 DE ABRIL DE 2011)</small>
+I. Emisiones a la atmósfera;
 
-###### ARTÍCULO 61 Bis 1.
+II. Descarga de aguas residuales;
 
-Para obtener la Licencia Ambiental Única para el Distrito Federal, a que se refiere el artículo anterior, los responsables de las fuentes fijas deberán presentar a la Secretaría, en un plazo no mayor a 60 días hábiles a partir del inicio de operaciones del establecimiento, la solicitud correspondiente acompañada de la siguiente información:
+III. Generación y manejo de residuos sólidos;
+
+IV. Generación de ruido y vibraciones mecánicas y;
+
+V. Registro de emisiones y transferencia de contaminantes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE FEBRERO DE 2023)</small>
+
+ARTÍCULO 61 bis 1.- Para presentar la Manifestación Ambiental Única para la Ciudad de México a que se refiere el Artículo anterior, los responsables de las fuentes fijas deberán registrar y adjuntar en la Plataforma Digital, en un plazo no mayor a 60 días hábiles a partir del inicio de operaciones del establecimiento, la siguiente información y documentación:
 
 > <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -1734,9 +1748,9 @@ VII. Transformación de materias primas o combustibles;
 
 VIII. Productos, subproductos y residuos que se generen;
 
-> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2023)</small>
 
-IX. Los estudios y análisis, realizados por laboratorios autorizados por la Secretaría, conforme al artículo 200 de la presente Ley, y los anexos y planes de manejo que de acuerdo con la actividad del establecimiento se deban presentar;
+IX. Los estudios y análisis realizados por laboratorios autorizados por la Secretaría, conforme al Artículo 200 de la presente Ley, y los anexos, planes o programas que de acuerdo con la actividad del establecimiento se deban presentar;
 
 > <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -1762,49 +1776,77 @@ El Jefe de Gobierno, mediante acuerdos o en el Reglamento correspondiente a la m
 
 El Jefe de Gobierno en el Reglamento correspondiente a la materia o mediante acuerdos generales, podrá eximir a los interesados la presentación de los datos y documentos cuando la Secretaría pueda obtener por otra vía la información correspondiente.
 
-> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 61 Bis 2.
 
-La información a que se refiere el artículo anterior deberá presentarse en el formato que determine la Secretaría, quien podrá requerir la información adicional que considere necesaria y verificar en cualquier momento la veracidad de la misma.
+La información a que se refiere el Artículo anterior deberá presentarse mediante la Plataforma Digital; la Secretaría podrá verificar en cualquier momento la veracidad de la misma.
 
-> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+Una vez presentada la manifestación con los requisitos aplicables, la fuente fija obtendrá de la plataforma el documento digital que acredita el cumplimiento de la obligación de presentar dicha manifestación.
 
-Una vez presentada la solicitud e integrado el expediente, la Secretaría deberá emitir en un plazo de veinte días hábiles, debidamente fundada y motivada, la Licencia Ambiental Única para el Distrito Federal, en la cual se señalará al establecimiento las obligaciones ambientales a que queda sujeto de acuerdo a su actividad y capacidad, y si procede realizar la actualización de la información del desempeño ambiental de la fuente fija. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
+Por su parte, la Secretaría realizará el análisis del expediente digital y emitirá en un plazo de veinte días hábiles, debidamente fundada y motivada, la Resolución en la cual se establecerán las obligaciones ambientales a las que queda sujeto el establecimiento de acuerdo con su actividad y capacidad, y dispondrá si procede presentar la información del desempeño ambiental de la fuente fija de manera anual.
 
-> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+En tanto la Secretaría no haya emitido la Resolución a que hace referencia el párrafo que antecede, el responsable de la fuente fija no podrá ser objeto de sanción por parte de cualquier autoridad por incumplimiento a las obligaciones ambientales derivadas de la manifestación presentada.
+
+En caso de que la información o documentación presentada no esté correcta o completa, la Secretaría prevendrá por una sola ocasión al responsable de la fuente fija para que, en los términos que establezca el Reglamento de la presente Ley que al efecto se emita, subsane o aclare lo correspondiente y una vez subsanado, la Secretaría tendrá 5 días hábiles para emitir la Resolución.
+
+En el supuesto de que el responsable de la fuente fija no subsane la prevención en el término establecido en la prevención, se procederá en términos de lo dispuesto en el Reglamento señalado en el párrafo que antecede.
+
+Transcurrido el plazo establecido en el párrafo tercero del presente artículo sin que la autoridad haya emitido la resolución, este se renovará automáticamente por una sola ocasión, por un plazo de veinte días hábiles.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 61 Bis 3.
 
-La Licencia Ambiental Única para el Distrito Federal deberá señalar:
+La Resolución relativa a la Manifestación Ambiental Única para la Ciudad de México que emita la Secretaría, deberá establecer:
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
 I. El número de registro ambiental;
 
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
 II. Las condiciones de operación;
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
 III. Los límites máximos permisibles de emisión por tipo de contaminante a que deberá sujetarse la fuente emisora;
 
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
 IV. Las obligaciones ambientales a las que queda sujeto el establecimiento, de acuerdo con sus características y actividad;
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
 V. La periodicidad con la que deberá llevarse a cabo la medición, monitoreo y reporte de emisiones; y
 
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
 VI. Las medidas y acciones que deberán llevarse a cabo en caso de una contingencia.
-
-Acompañando a dicha licencia, la Secretaría emitirá una resolución fundada y motivada donde señale si el establecimiento ha actualizado sus obligaciones ambientales, dando cumplimiento o no, a la normatividad aplicable en materia ambiental.
-
-Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
 
 > <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
+Acompañando a dicha licencia, la Secretaría emitirá una resolución fundada y motivada donde señale si el establecimiento ha actualizado sus obligaciones ambientales, dando cumplimiento o no, a la normatividad aplicable en materia ambiental.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 27 DE FEBRERO DE 2023)</small>
+
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2023)</small>
+
 ###### ARTÍCULO 61 Bis 4.
 
-Una vez obtenida la Licencia Ambiental Única para el Distrito Federal y de acuerdo a lo que se señale en la misma, los responsables de los establecimiento que deban llevar a cabo la actualización de la información del desempeño ambiental de su establecimiento, a través de la presentación de alguno de los anexos que se señalan en la fracción IX del artículo 61 bis 1, deberán presentar en el primer cuatrimestre de cada año calendario, el Anexo correspondiente acompañado de los estudios, análisis o planes de manejo que se señalen en el mismo.
+Los responsables de las fuentes fijas que, de acuerdo con la Resolución emitida por la Secretaría estén sujetos a presentar la información de su desempeño ambiental anualmente, deben cumplir con dicha disposición cabalmente de forma anual e ininterrumpida, durante el primer cuatrimestre de cada año calendario, a través de la Plataforma Digital, registrando y adjuntando el o los anexos correspondientes, acompañados de los estudios, análisis, planes o programas que se establecen en la fracción IX del Artículo 61 bis 1, de la presente Ley. El período a que se refiere este Artículo será improrrogable.
 
-> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 61 Bis 5.
 
-El listado que agrupa a los establecimientos que por su capacidad y actividad no se encuentran sujetos a tramitar la Licencia Ambiental Única para el Distrito Federal, será publicado y actualizado anualmente, en el primer bimestre de cada año calendario, en la Gaceta Oficial del Distrito Federal.
+El listado que agrupa a los establecimientos que por su capacidad y actividad no se encuentran sujetos a registrar la Manifestación Ambiental Única para la Ciudad de México, será publicado y actualizado anualmente, en el primer bimestre de cada año calendario, en la Gaceta Oficial de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 27 DE FEBRERO DE 2023)</small>
+
+###### ARTÍCULO 61 Bis 6.
+
+Las fuentes fijas que operen sin haber presentado su Manifestación Ambiental Única u omitan el cumplimiento con alguna o algunas de sus obligaciones ambientales, establecidas en el presente capítulo, serán acreedores a las sanciones previstas en la presente Ley y demás ordenamientos jurídicos que se establezcan.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -3312,11 +3354,11 @@ Para prevenir y controlar la contaminación de la atmósfera, las Delegaciones, 
 
 #### SECCIÓN II. CONTROL DE EMISIONES CONTAMINANTES PROVENIENTES DE FUENTES FIJAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 135.
 
-Para la operación y funcionamiento de las fuentes fijas de jurisdicción local que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, se requerirá la Licencia Ambiental Única del Distrito Federal que expedirá la Secretaría a los interesados que demuestren cumplir con los requisitos y límites determinados en las normas correspondientes y cumplir además con las siguientes obligaciones:
+Para la operación y funcionamiento de las fuentes fijas de jurisdicción local que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, se requerirá la Manifestación Ambiental Única de la Ciudad de México que expedirá la Secretaría a los interesados que demuestren cumplir con los requisitos y límites determinados en las normas correspondientes y cumplir además con las siguientes obligaciones:
 
 I. Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que no rebasen los niveles máximos permisibles establecidos en las normas oficiales mexicanas y las normas ambientales locales correspondientes;
 
@@ -3500,11 +3542,11 @@ VI. Establecer y aplicar las medidas necesarias para prevenir y reducir al míni
 
 Queda prohibido descargar aguas residuales en cualquier cuerpo o corriente de agua.
 
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 157.
 
-Las fuentes que descarguen aguas residuales distintas a las domésticas, deberán tramitar la Licencia Ambiental Única para el Distrito Federal.
+Las fuentes que descarguen aguas residuales distintas a las domésticas, deberán tramitar la Manifestación Ambiental Única para la Ciudad de México.
 
 ###### ARTÍCULO 158.
 
@@ -3514,11 +3556,11 @@ Las fuentes que descarguen aguas residuales distintas a las domésticas, deberá
 
 (DEROGADO, G.O. 10 DE FEBRERO DE 2004)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 160.
 
-Se exceptúa de la obligación de presentar los estudios de aguas residuales a través de la Licencia Ambiental Única para el Distrito Federal a las descargas provenientes de los siguientes usos:
+Se exceptúa de la obligación de presentar los estudios de aguas residuales a través de la Manifestación Ambiental Única para la Ciudad de México a las descargas provenientes de los siguientes usos:
 
 > <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3664,11 +3706,11 @@ III. Inspeccionar y vigilar el cumplimiento de esta ley, su reglamento, las norm
 
 IV. Tomar las medidas preventivas necesarias para evitar contingencias ambientales por la generación, manejo, tratamiento y disposición final.
 
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 172.
 
-Para la obtención de la autorización como generador de residuos sólidos, los interesados deberán presentar la solicitud de Licencia Ambiental Única para el Distrito Federal ante la Secretaría.
+Para la obtención de la autorización como generador de residuos sólidos, los interesados deberán presentar la solicitud de la Manifestación Ambiental Única para la Ciudad de México ante la Secretaría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3714,11 +3756,11 @@ En caso de que se detecten irregularidades o violaciones en el manejo de los res
 
 #### SECCIÓN III. ACTIVIDADES RIESGOSAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE FEBRERO DE 2023)</small>
 
 ###### ARTÍCULO 176.
 
-El reglamento de esta Ley y las normas ambientales para el Distrito Federal, establecerán la clasificación de las actividades que deban considerarse riesgosas, en virtud de las características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas, de los materiales que se generen o manejen en los establecimientos industriales, comerciales o de servicios, considerando, además, los volúmenes de manejo y la ubicación del establecimiento, así como los casos en los que por las sustancias que maneje el establecimiento, deba tramitar su Licencia Ambiental Única para el Distrito Federal.
+El reglamento de esta Ley y las normas ambientales para la Ciudad de México, establecerán la clasificación de las actividades que deban considerarse riesgosas, en virtud de las características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas, de los materiales que se generen o manejen en los establecimientos industriales, comerciales o de servicios, considerando, además, los volúmenes de manejo y la ubicación del establecimiento, así como los casos en los que por las sustancias que maneje el establecimiento, deba tramitar su Manifestación Ambiental Única para la Ciudad de México.
 
 Para el establecimiento de esta clasificación, se deberá considerar la opinión de las autoridades competentes.
 
@@ -3904,7 +3946,9 @@ II. El Programa de Ordenamiento Ecológico;
 
 III. Las autorizaciones en materia de impacto ambiental de obras o actividades;
 
-IV. El otorgamiento de la Licencia Ambiental Única;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2023)</small>
+
+IV. El otorgamiento de la Manifestación Ambiental Única;
 
 V. Los permisos y autorizaciones para la celebración de espectáculos públicos en la vía pública o en lugares que no cuenten con la licencia de funcionamiento correspondiente; y
 
@@ -4448,23 +4492,39 @@ IV. Realizar obras y actividades en suelo urbano sin la presentación del inform
 
 V. Realizar obras y actividades a que se refiere el artículo 46 de la Ley que por su ubicación, dimensiones, características o alcances (sic) produzcan impactos ambientales y no presenten la Declaratoria de Cumplimiento Ambiental ante la Secretaría de conformidad con lo previsto en el artículo 58 Bis de la Ley;
 
-> <small>(ADICIONADO, G.O. 25 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE FEBRERO DE 2023)</small>
 
-ARTÍCULO 214 QUATER.- A quien se coloque en cualquiera de los siguientes supuestos, será sancionado con multa de 50,000 a 100,000 Unidades de Cuenta de la Ciudad de México:
+ARTÍCULO 214 QUATER. A quien se coloque en cualquiera de los siguientes supuestos, será sancionado con multa de 50,000 a 100,000 Unidades de Medida y Actualización vigente:
+
+> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
 
 I. Realizar obras o actividades de explotación o aprovechamiento de recursos en áreas naturales protegidas, sin la autorización correspondiente;
 
+> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
+
 II. Realizar obras o actividades que causen o pudieran causar impacto ambiental negativo, sin la autorización correspondiente, o bien, en contravención de los términos y condiciones establecidos en la autorización derivada de la manifestación de impacto ambiental presentada;
 
-III. Realizar obras o actividades que causen o pudieran causar impacto ambiental negativo, sin la autorización correspondiente, o bien, en contravención de los términos y condiciones establecidos en la Licencia Única Ambiental o su actualización;
+> <small>(REFORMADA, G.O. 27 DE FEBRERO DE 2023)</small>
+
+III. Realizar obras o actividades que causen o pudieran causar impacto ambiental negativo, sin la autorización correspondiente, o bien, en contravención de los términos y condiciones establecidos en la Manifestación Ambiental Única o su actualización;
+
+> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
 
 IV. Descargar aguas residuales de origen industrial que rebasen los límites permitidos en el sistema de drenaje y alcantarillado, así como a los cuerpos de agua o a los sistemas de drenaje y alcantarillado, sin cumplir con los criterios, reglamentos y normas oficiales mexicanas;
 
+> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
+
 V. No instalar plantas o sistemas de tratamiento de aguas residuales de conformidad con los criterios, reglamentos y normas oficiales mexicanas;
+
+> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
 
 VI. No cumplir con los programas de ordenamiento ecológico del territorio; a las declaratorias de áreas de valor ambiental y de áreas naturales protegidas y sus programas de manejo, programas de rescate y recuperación; a las normas y demás disposiciones jurídicas aplicables;
 
+> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
+
 VII. Aquel prestador de servicios en materia de impacto ambiental que no actué conforme a las obligaciones señaladas en esta ley, o actué con negligencia comprobada, de tal modo de dicho actuar genere un daño o peligro al ambiente;
+
+> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
 
 VIII. No contar con la autorización correspondiente para llevar a cabo el manejo y disposición final de residuos en términos del artículo 172 de la Ley;
 
@@ -4919,3 +4979,21 @@ G.O. 27 DE OCTUBRE DE 2022.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 5 Y UN ARTÍCULO 61 BIS 6; SE MODIFICA LA FRACCIÓN VI DEL ARTÍCULO 19; LA DENOMINACIÓN DEL CAPÍTULO VI BIS, EL ARTÍCULO 61 BIS, EL ARTÍCULO 61 BIS 1, EL ARTÍCULO 61 BIS 2, EL ARTÍCULO 61 BIS 3, EL ARTÍCULO 61 BIS 4 Y EL ARTÍCULO 61 BIS 5, ARTÍCULO 135, ARTÍCULO 157, ARTÍCULO 160, ARTÍCULO 135 (SIC), ARTÍCULO 172, ARTÍCULO 176, FRACCIÓN IV DEL ARTÍCULO 186 NONIES Y FRACCIÓN II DEL ARTÍCULO 214 QUATER Y; SE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 61 BIS 3; TODOS DE LA LEY DE (SIC) AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Agencia Digital de Innovación Pública de la Ciudad de México tendrá un plazo de 180 días hábiles a partir de la entrada en vigor del presente Decreto para desarrollar la Plataforma Digital mediante la cual se realizará el registro de la Manifestación Ambiental Única para la Ciudad de México. Mientras tanto, se continuará con el registro de Manifestación en la misma forma en la que hasta ahora se ha presentado la Licencia Ambiental Única.
+
+CUARTO. Dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría deberá expedir el Reglamento de la Ley Ambiental de Protección a la Tierra en el Distrito Federal en materia de Manifestación Ambiental Única, en tanto, se aplicará lo establecido en la Ley de Procedimiento Administrativo de la Ciudad de México.
+
+QUINTO. A partir de la publicación del presente Decreto, la Secretaría contará con un periodo de 180 días naturales a efecto de ajustar sus procedimientos para transitar de la Licencia Ambiental Única hacia la Manifestación Ambiental Única.
+
+SEXTO. Las referencias hechas a la Licencia Ambiental Única en esta Ley, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, se entenderán como Manifestación Ambiental Única.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
