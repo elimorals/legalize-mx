@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2022-12-05"
+last_updated: "2023-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -1156,6 +1156,10 @@ IV. El atentado contra la vida de alguno de los cónyuges para contraer matrimon
 V. Ejercer cualquier tipo de violencia para la celebración del matrimonio en cualquiera de las modalidades en las que esta se pueda manifestar, de conformidad con lo previsto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Campeche; y
 
 VI. El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2023)</small>
+
+VII. La fuerza o miedo grave;
 
 La autorización judicial a la que hace mención el artículo 119 de este Código, sólo podrá otorgarse en los casos de parentesco de consanguinidad en línea colateral desigual al que se refiere la fracción II de este artículo.
 
@@ -10225,13 +10229,25 @@ Por daño moral se entiende la afectación que una persona sufre en sus sentimie
 
 Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva conforme al artículo 1808, así como el Estado y sus funcionarios conforme al artículo 1823, ambas disposiciones del presente código.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE FEBRERO DE 2023)</small>
+
+Las o los menores víctimas de violencia escolar tienen derecho a la reparación del daño moral y, en su caso, recibir una indemnización o el pago de daños y perjuicios, previa sentencia dictada por un juez competente. Para determinar la existencia de violencia escolar se estará a lo dispuesto en la fracción XXXVI del artículo 4 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Campeche.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE FEBRERO DE 2023)</small>
+
 La acción de reparación no es transmisible a terceros por acto entre vivos o sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE FEBRERO DE 2023)</small>
 
 El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
 
-Cuando el daño haya afectado a la víctima en su decoro, honor reputación o consideración, el juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño se derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2023)</small>
 
-No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6o. y 7o., de la Constitución Política de los Estados Unidos Mexicanos. En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
+Cuando el daño haya afectado a la víctima en su decoro, honor, reputación o consideración, el juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño se derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE FEBRERO DE 2023)</small>
+
+No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6° y 7° de la Constitución Política de los Estados Unidos Mexicanos. En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
 
 ###### Art. 1812.
 
@@ -16596,3 +16612,19 @@ P.O. 5 DE DICIEMBRE DE 2022.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales de igual o menor jerarquía en lo que se opongan a este decreto.
+
+P.O. 28 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 193 POR EL QUE “SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 167 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se oponga al presente decreto.
+
+P.O. 28 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 194 POR EL QUE "SE REFORMAN LOS PÁRRAFOS TERCERO, CUARTO, QUINTO Y SEXTO Y SE ADICIONA UN PÁRRAFO SÉPTIMO AL ARTÍCULO 1811 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE".]
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
