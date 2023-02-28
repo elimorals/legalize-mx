@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2022-12-05"
+last_updated: "2023-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -169,9 +169,13 @@ XXXIV. Sistema Estatal de Información: Lo elabora el Sistema Estatal para el De
 
 XXXV. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano forme parte;
 
-> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE FEBRERO DE 2023)</small>
 
-XXXVI. Violencia Vicaria: Es un tipo de violencia reconocida en el artículo 5 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Campeche que tiene como víctimas a las niñas, niños y adolescentes teniendo por objeto infligirles un daño, menoscabo, sufrimiento de cualquier naturaleza o la muerte.
+XXXVI. Violencia Escolar: Es la forma de agresión o maltrato psicológico, físico, verbal, sexual, cibernético o moral, dentro o fuera de las instituciones educativas públicas y privadas, que recibe un alumno por parte de otro u otros alumnos, docentes o trabajadores de las instituciones educativas, atentando contra la dignidad de los integrantes de la comunidad educativa, generando repercusiones y daños físicos, emocionales, morales y sociales;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE FEBRERO DE 2023)</small>
+
+XXXVII. Violencia Vicaria: Es un tipo de violencia reconocida en el artículo 5 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Campeche que tiene como víctimas a las niñas, niños y adolescentes teniendo por objeto infligirles un daño, menoscabo, sufrimiento de cualquier naturaleza o la muerte.
 
 ###### Artículo 5.
 
@@ -2148,3 +2152,11 @@ P.O. 5 DE DICIEMBRE DE 2022.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 28 DE FEBRERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 194 POR EL QUE “SE REFORMA LA FRACCIÓN XXXVI Y SE ADICIONA UNA FRACCIÓN XXXVII AL ARTÍCULO 4 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE”.]
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
