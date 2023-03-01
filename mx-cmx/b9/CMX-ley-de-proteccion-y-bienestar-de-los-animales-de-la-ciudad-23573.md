@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2021-05-27"
+last_updated: "2023-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE MARZO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -1132,7 +1132,9 @@ I. Causarles la muerte utilizando cualquier medio que prolongue la agonía o pro
 
 II. El sacrificio de animales empleando métodos diversos a los establecidos en las normas oficiales mexicanas y, en su caso, las normas ambientales;
 
-III. Cualquier mutilación, alteración de la integridad física o modificación negativa de sus instintos naturales, que no se efectúe bajo causa justificada y cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos técnicos en la materia;
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2023)</small>
+
+III. Cualquier mutilación, alteración de la integridad física o modificación negativa de sus instintos naturales, que no tenga un fin médico veterinario relacionado con la salud del animal, o que no se efectúe bajo causa justificada y cuidado de un especialista;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -1152,11 +1154,19 @@ VII. Azuzar a los animales para que se ataquen entre ellos o a las personas y ha
 
 VIII. Toda privación de aire, luz, alimento, agua, espacio, abrigo contra la intemperie, cuidados médicos y alojamiento adecuado, acorde a su especie, que cause o pueda causar daño a un animal;
 
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2023)</small>
 
-IX. Abandonar a los animales en la vía pública o comprometer su bienestar al desatenderlos por períodos prolongados en bienes de propiedad de particulares; y
+IX. Abandonar a los animales en la vía pública o comprometer su bienestar al desatenderlos por períodos prolongados en bienes de propiedad de particulares;
 
-X. Las demás que establezcan la presente Ley y demás ordenamientos jurídicos aplicables.
+> <small>(ADICIONADA, G.O. 1 DE MARZO DE 2023)</small>
+
+X.- La matanza o sacrificio de animales para abasto en establecimientos que no cuenten con las autorizaciones, avisos o permisos necesarios para operar, en términos de las disposiciones aplicables en la materia;
+
+> <small>(ADICIONADA, G.O. 1 DE MARZO DE 2023)</small>
+
+XI.- Utilizar sustancias tóxicas o métodos abrasivos para producir lesiones o la muerte en animales; y
+
+XII.- Las demás que establezcan la presente Ley y demás ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE NOVIEMBRE DE 2012)</small>
 
@@ -1164,7 +1174,13 @@ X. Las demás que establezcan la presente Ley y demás ordenamientos jurídicos 
 
 Toda persona que ejecute conductas de crueldad, maltrato, daño o tortura en contra de un animal está obligada a la reparación del daño en los términos establecidos en el Código Civil y Código Penal, ambos para el Distrito Federal.
 
-Dicha reparación del daño, de ser el caso, incluirá la atención médica veterinaria, medicamentos, tratamientos o intervención quirúrgica.
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2023)</small>
+
+Dicha reparación del daño, también consistirá en atención médica veterinaria, medicamentos, tratamientos o intervención quirúrgica.
+
+> <small>(ADICIONADO, G.O. 1 DE MARZO DE 2023)</small>
+
+Cuando el acto de maltrato consista en el abandono de un animal de compañía, las autoridades valorarán a través de atención médica veterinaria el estado en que el animal se encuentre; y si la persona dueña o cuidadora es apta para volver a tenerlo bajo su cuidado. Los gastos para la valoración médica del animal de compañía forman parte de la reparación del daño, así como los que se generen por el cuidado del animal de compañía en los centros de atención animal y/u hospitales con que disponga el Gobierno de la Ciudad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 27 DE JUNIO DE 2017)</small>
 
@@ -1262,17 +1278,27 @@ Las excepciones que establece el párrafo inmediato anterior, respecto a Corrida
 
 XXIII. La utilización de mamíferos marinos, cualquiera que sea la especie en actividades de espectáculo, manejo, adiestramiento, entretenimiento y terapia;
 
-> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2023)</small>
 
-XXIV.- Celebrar espectáculos públicos o privados, fijos, incluyendo los espectáculos a domicilio o itinerantes, con cualquier especie de mamíferos marinos; y
+XXIV. Celebrar espectáculos públicos o privados, fijos, incluyendo los espectáculos a domicilio o itinerantes, con cualquier especie de mamíferos marinos;
 
-> <small>(ADICIONADA, G.O. 27 DE MAYO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE MARZO DE 2023)</small>
 
-XXV. Realizar u ordenar la realización de tatuajes sobre la piel de animales con fines meramente estéticos u ornamentales, así como colocar u ordenar la colocación de aretes, piercings o perforaciones.
-
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXV, G.O. 27 DE MAYO DE 2021]</small>
+XXV. Realizar u ordenar la realización de tatuajes sobre la piel de animales con fines meramente estéticos u ornamentales, así como colocar u ordenar la colocación de aretes, piercings o perforaciones;
 
 Quedan exentos de lo anterior, los tatuajes y aretes que sirven como sistema de marcaje, identificación o registro de animales, los cuales deben ser realizados bajo supervisión de una persona especialista en medicina veterinaria zootecnista.
+
+> <small>(ADICIONADA, G.O. 1 DE MARZO DE 2023)</small>
+
+XXVI. Cualquier tipo de alteración o mutilación con fines estéticos o que no tenga un fin médico veterinario relacionado con la salud del animal;
+
+> <small>(ADICIONADA, G.O. 1 DE MARZO DE 2023)</small>
+
+XXVII. Criar, enajenar o adquirir animales de compañía para consumo humano; y
+
+> <small>(ADICIONADA, G.O. 1 DE MARZO DE 2023)</small>
+
+XXVIII. La venta de animales mutilados con fines estéticos.
 
 > <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -1844,17 +1870,23 @@ La imposición de las sanciones previstas por la presente Ley, no excluye la res
 
 Cuando en los procedimientos que establece esta Ley, obren pruebas obtenidas por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos, las mismas se apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE MARZO DE 2023)</small>
 
 ###### Artículo 63.
 
-Las Sanciones aplicables a las infracciones previstas en la presente Ley, podrán ser:
+Las sanciones aplicables a las infracciones previstas en la presente Ley, podrán ser:
 
 I. Amonestación;
 
 II. Multa;
 
-III. Arresto; y
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2023)</small>
+
+III. Arresto
+
+> <small>(ADICIONADA, G.O. 1 DE MARZO DE 2023)</small>
+
+III Bis. Clausura; y
 
 > <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
@@ -1874,9 +1906,9 @@ Para el caso de mayores de dieciocho años, se procederá la amonestación o la 
 
 Las sanciones por las infracciones cometidas por la violación a las disposiciones de la presente Ley, se aplicarán conforme a lo siguiente:
 
-> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2023)</small>
 
-I. Corresponde a la Secretarías de Salud y Seguridad Ciudadana en el ámbito de su respectiva competencia, siguiendo el procedimiento regulado por el artículo 56 párrafo primero, de la presente Ley, imponer sin perjuicio de las sanciones reguladas, en otras Legislaciones aplicables, multas de ciento cincuenta a trescientos (sic) veces la Unidad de Cuenta de la Ciudad de México vigente, por violaciones a lo dispuesto en los artículos 24 fracciones II y III, 25 fracciones XIV y XXV, 46, 47, 49, 50, 52 y 53 de la presente Ley.
+I. Corresponde a la Secretaría de Salud, en el ámbito de su respectiva competencia, siguiendo el procedimiento regulado por el artículo 56 párrafo primero, de la presente Ley, imponer sin perjuicio de las sanciones reguladas, en otras Legislaciones aplicables, multas de ciento cincuenta a trescientos veces la Unidad de Medida y Actualización vigente, por violaciones a lo dispuesto en los artículos 24, fracciones II, III, IX y X, 25 fracción XIV, 46, 47, 49, 50, 52 y 53 de la presente Ley.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 4 DE MAYO DE 2018)</small>
 
@@ -1902,17 +1934,17 @@ III. Corresponde a los Juzgados Cívicos, siguiendo el procedimiento regulado po
 
 a) Multa de 1 a 10 veces la Unidad de Cuenta de la Ciudad de México vigente o arresto administrativo de 6 a 12 horas, por violaciones a lo dispuesto por el artículo 25 fracciones I y XI de la presente Ley;
 
-> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2023)</small>
 
-b) Multa de 1 a 150 veces la Unidad de Cuenta de la Ciudad de México vigente, o arresto administrativo de 24 a 36 horas por violaciones a lo dispuesto por los artículos 24; fracciones VI, VIII, IX, 25, fracciones IV, V, IX, X, XVI, XVII, XVIII, XIX, XX, XXI, XXII y XXIII; 27 BIS, 28 BIS, 28 BIS 1, 32 BIS, 34, 49 y 129 de la presente Ley; y
+b) Multa de 1 a 150 veces la Unidad de Cuenta de la Ciudad de México vigente, o arresto administrativo de 24 a 36 horas por violaciones a lo dispuesto por los artículos 24; fracciones VI, VIII, IX, 25, fracciones IV, V, IX, X, XVI, XVII, XVIII, XIX, XX, XXI, XXII y XXIII; 27 BIS, 28 BIS, 28 BIS 1, 32 BIS, 34, 49 y 129 de la presente Ley;
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2023)</small>
 
-c) Multa de 21 a 30 veces la Unidad de Cuenta de la Ciudad de México vigente, o arresto administrativo de 25 a 36 horas, por violaciones a lo dispuesto por los artículos 24, fracciones I, IV, V y VII; 25, fracción VIII; 30, 33 y 51 de la presente Ley.
+c) Multa de 21 a 30 veces la Unidad de Cuenta de la Ciudad de México vigente, o arresto administrativo de 25 a 36 horas, por violaciones a lo dispuesto por los artículos 24, fracciones I, IV, V y VII; 25, fracción VIII; 30, 33 y 51 de la presente Ley; y
 
-> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADO, G.O. 1 DE MARZO DE 2023)</small>
 
-Los animales que sean presentados y que estén relacionados con las infracciones enunciadas en la fracción III, serán retenidos y canalizados a las Clínicas Veterinarias en las Demarcaciones Territoriales, para los efectos de los artículos 27, 29, 30 y 32 de la presente Ley; los que expedirán en caso de reclamación del animal por el propietario, el Certificado Veterinario de Salud, procediendo a la desparasitación interna y externa y la vacunación, a efecto de evitar enfermedades transmisibles a otros animales o personas y otorgará la placa de identificación correspondiente, previo pago de los derechos que se causen, con cargo al propietario.
+d) Multa de 300 a 600 veces la Unidad de Medida y Actualización vigente, y arresto administrativo de 25 a 36 horas, por violaciones a lo dispuesto por el artículo 25, fracciones XXVI, XXVII y XXVIII de la presente Ley.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
 
@@ -2353,3 +2385,13 @@ G.O. 27 DE MAYO DE 2021.
 PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 1 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 226 BIS, 226 TER, 350 QUÁTER Y 350 QUINQUIES, ASÍ COMO UN PÁRRAFO CUARTO Y QUINTO RECORRIÉNDOSE EL SUBSECUENTE DEL ARTÍCULO 350 TER; ASIMISMO, SE REFORMAN LOS ARTÍCULOS 350 BIS Y 350 TER; TODOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL. SE REFORMAN LAS FRACCIONES III Y IX DEL ARTÍCULO 24, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 24 BIS, LAS FRACCIONES XXIV Y XXV DEL ARTÍCULO 25, LA FRACCIÓN III DEL ARTÍCULO 63, LA FRACCIÓN I Y LOS INCISOS B) Y C) DE LA FRACCIÓN III DEL ARTÍCULO 65; ASIMISMO; SE ADICIONAN LAS FRACCIONES X Y XI RECORRIÉNDOSE LAS SUBSECUENTES, AL ARTÍCULO 24, UN PÁRRAFO TERCERO AL ARTÍCULO 24 BIS, LAS FRACCIONES XXVI, XXVII Y XXVIII AL ARTÍCULO 25; UNA FRACCIÓN III BIS AL ARTÍCULO 63; Y EL INCISO D) A LA FRACCIÓN III DEL ARTÍCULO 65, TODOS DE LA LEY DE PROTECCIÓN A LOS ANIMALES DE LA CIUDAD DE MÉXICO. SE REFORMAN LAS FRACCIONES XIV Y XV, SE ADICIONA LA FRACCIÓN XVI, TODOS DEL ARTÍCULO 29, SE REFORMA EL NUMERAL 29 DEL ARTÍCULO 32 DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Dentro de un plazo de 180 días naturales, posteriores a la publicación del presente Decreto, la persona titular de la Jefatura de Gobierno deberá realizar las adecuaciones reglamentarias y normativas correspondientes con la finalidad de dar cumplimiento al mismo.
