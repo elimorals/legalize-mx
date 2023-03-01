@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2022-12-27"
+last_updated: "2023-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -490,6 +490,10 @@ La CEGAIP, a través de su Comisionado Presidente, presentará por escrito dentr
 Antes de comenzar la comparecencia, el Secretario de la Comisión de Transparencia y Acceso a la Información Pública del Poder Legislativo, protestará al Comisionado Presidente para que se conduzca con verdad, advirtiéndole de las penas en que incurren aquellos que lo hagan con falsedad.
 
 En el informe anual precitado, se debe utilizar un lenguaje claro y accesible que facilite su comprensión por parte de los ciudadanos.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2023)</small>
+
+ARTÍCULO 33 BIS. La CEGAIP, a través de la comisionada o comisionado que la presida, presentará ante la Comisión de Transparencia y Acceso a la Información Pública del Poder Legislativo, informes trimestrales de actividades correspondientes al primer, segundo y tercer trimestres del ejercicio fiscal, los que entregará en los meses de abril, julio, y octubre de cada año, respectivamente.
 
 ###### ARTÍCULO 34.
 
@@ -3278,3 +3282,11 @@ P.O. 27 DE DICIEMBRE DE 2022.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0711.- SE REFORMA EL ARTÍCULO 117 EN SU FRACCIÓN VII; Y ADICIONAN AL MISMO ARTÍCULO 117 DOS FRACCIONES, ÉSTAS COMO VIII Y IX, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONA EL ARTÍCULO 33 BIS, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
