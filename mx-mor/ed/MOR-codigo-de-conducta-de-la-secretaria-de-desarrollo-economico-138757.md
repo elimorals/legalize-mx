@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-desarrollo-economico-138
 country: "mx"
 rank: "codigo"
 publication_date: "2019-07-24"
-last_updated: "2019-07-24"
+last_updated: "2023-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE DESARROLLO ECONOMICO Y DEL TRABAJO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y DEL TRABAJO, PUBLICADO EN EL P.O. DE 1 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y DEL TRABAJO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el 24 de julio de 2019.
 
@@ -390,3 +392,15 @@ ANA CECILIA RODRÍGUEZ GONZÁLEZ
 Secretaría de Desarrollo Económico y del Trabajo
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y DEL TRABAJO”.]
+
+PRIMERO. El presente Código de Conducta de la Secretaría de Desarrollo Económico y del Trabajo, entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDO. El presente ordenamiento es de observancia obligatoria para todas las personas que desempeñen un empleo, cargo o comisión en la Secretaría de Desarrollo Económico y del Trabajo.
+
+TERCERO. Se abroga el Código de Conducta publicado en el Periódico Oficial “Tierra y Libertad”, número 5729 de fecha veinticuatro de julio del año dos mil diecinueve.
