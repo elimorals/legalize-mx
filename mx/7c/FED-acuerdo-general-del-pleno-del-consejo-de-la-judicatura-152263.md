@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-152263"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-03"
-last_updated: "2023-01-09"
+last_updated: "2023-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152263&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-28"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MARZO DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 3 de noviembre de 2021.
 
@@ -2465,7 +2465,9 @@ III. Durante el año 2022 la Escuela Judicial llevará a cabo los concursos de o
 
 IV. Las listas de vacantes temporales se integrarán con las personas que resulten vencedoras en los concursos de oposición que se lleven a cabo de conformidad con el presente Acuerdo.
 
-V. A más tardar el 1 de marzo de 2023 entrará en vigor completamente el sistema de listas de acceso y promoción previsto en el presente Acuerdo.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA ENTRADA EN VIGOR DE LAS LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL, D.O.F. 1 DE MARZO DE 2023)</small>
+
+V. El sistema de listas de acceso y promoción previsto en el presente Acuerdo entrará en vigor cuando lo determine el Pleno del Consejo de la Judicatura Federal.
 
 DÉCIMO SEXTO. El recurso de reconsideración previsto en el Capítulo V del Título Tercero del presente Acuerdo podrá interponerse únicamente en contra de los concursos de oposición que se lleven a cabo de conformidad con las reglas previstas en este Acuerdo.
 
@@ -2586,5 +2588,13 @@ D.O.F. 9 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAL Y LA APLICACIÓN DEL RÉGIMEN DE MOVILIDAD PARA LOS CARGOS DEL CONSEJO DE LA JUDICATURA FEDERAL CON ACTIVIDADES MATERIALMENTE JURISDICCIONALES".]
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 1 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA ENTRADA EN VIGOR DE LAS LISTAS DE ACCESO Y PROMOCIÓN A LA CARRERA JUDICIAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
