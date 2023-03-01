@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2023-02-27"
+last_updated: "2023-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1805,11 +1805,19 @@ V. Recibir dentro de los dos primeros meses del año, el informe del Comisionado
 
 VI. Los tocantes a las relaciones con las demás dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2023)</small>
 
-VII. Los relativos al nombramiento y, destitución, en su caso, del Presidente y comisionados de la Comisión Estatal de Garantía y Acceso a la Información Pública, y
+VII. Los relativos al nombramiento y, destitución, en su caso, del Presidente y comisionados de la Comisión Estatal de Garantía y Acceso a la Información Pública, y;
 
-VIII. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2023)</small>
+
+VIII. Conocer de los informes trimestrales de actividades que le presente la CEGAIP;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2023)</small>
+
+IX. Promover la cultura de transparencia en el Congreso del Estado, y
+
+X. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
@@ -3120,6 +3128,14 @@ TERCERO. La junta de Coordinación Política asignará los recursos humanos y ma
 P.O. 27 DE FEBRERO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0710.- SE REFORMA EL ARTÍCULO 118 EN SUS FRACCIONES V, VI, VII, XIII, XV Y XVI; Y ADICIONA AL MISMO ARTÍCULO 118 UNA FRACCIÓN, ÉSTA COMO XVII, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 69, EN SU FRACCIÓN XIII, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0711.- SE REFORMA EL ARTÍCULO 117 EN SU FRACCIÓN VII; Y ADICIONAN AL MISMO ARTÍCULO 117 DOS FRACCIONES, ÉSTAS COMO VIII Y IX, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONA EL ARTÍCULO 33 BIS, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
