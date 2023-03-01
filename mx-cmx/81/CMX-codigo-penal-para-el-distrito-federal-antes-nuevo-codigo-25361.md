@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2022-11-30"
+last_updated: "2023-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE MARZO DE 2023.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -3054,6 +3054,30 @@ Se equipara a la violencia moral, la utilización de juguetes u otros objetos qu
 
 Para la aplicación de la sanción, se dará por consumado el robo desde el momento en que el inculpado tiene en su poder la cosa robada, aún cuando la abandone o lo desapoderen de ella.
 
+> <small>(ADICIONADO, G.O. 1 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 226 Bis.
+
+A quien se apodere con ánimo de dominio de cualquier especie animal que se encuentre bajo el cuidado, custodia o tutela de alguna persona, se le impondrá de uno a tres años de prisión y de seiscientas a ochocientas veces la Unidad de Medida y Actualización vigente.
+
+Cuando el apoderamiento de cualquier especie de animal sea con el propósito de obtener un lucro en beneficio propio o de un tercero o causar daño o perjuicio económico al propietario o poseedor, se incrementará hasta al doble de la pena señalada.
+
+Cuando el apoderamiento de cualquier especie animal se realice con violencia, se incrementarán las penas señaladas hasta en una tercera parte si se le causan lesiones al animal o, en su caso, la muerte.
+
+> <small>(ADICIONADO, G.O. 1 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 226 Ter.
+
+Se aumentarán hasta en una mitad las penas previstas en el artículo anterior, cuando la conducta se cometa:
+
+I. Aprovechando la confianza depositada en él o los autores;
+
+II. Por los dueños, dependientes, encargados o empleados de empresas o establecimientos mercantiles, en los lugares que presten sus servicios al público sobre los animales domésticos de huéspedes, clientes o usuarios;
+
+III. Por quien haya recibido el animal doméstico en tenencia; y
+
+IV. En perjuicio de una persona con discapacidad, menor de edad o de más de sesenta años de edad.
+
 ### CAPÍTULO X. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE AGOSTO DE 2013)</small>
@@ -4540,33 +4564,7 @@ II. Derrame sustancias deslizantes o inflamables.
 
 ### CAPÍTULO IV. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD EN CONTRA DE ANIMALES NO HUMANOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2014)</small>
-
-ARTÍCULO 350 BIS. Al que realice actos de maltrato o crueldad en contra de cualquier especie animal no humana, causándole lesiones de cualquier tipo sin que pongan en peligro la vida del animal, se le impondrá de seis meses a dos años de prisión y de cincuenta a cien días multa.
-
-> <small>(ADICIONADO, G.O. 30 DE ENERO DE 2013)</small>
-
-Si las lesiones ponen en peligro la vida del animal no humano se incrementarán en una mitad las penas señaladas.
-
-> <small>(ADICIONADO, G.O. 30 DE ENERO DE 2013)</small>
-
-Se entenderá para los efectos del presente título como animal, al organismo vivo, no humano, sensible, que no constituya plaga, que posee movilidad propia, y capacidad de respuesta a los estímulos del medio ambiente perteneciente a una especie domestica o silvestre. Los animales abandonados, o callejeros no serán considerados plaga.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE OCTUBRE DE 2014)</small>
-
-ARTÍCULO 350 TER. Al que cometa actos de maltrato o crueldad en contra de cualquier especie animal no humana provocándole la muerte, se le impondrán de dos a cuatro años de prisión y de doscientos a cuatrocientos días multa, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo, en términos de lo dispuesto por el artículo 54 de éste Código.
-
-> <small>(ADICIONADO, G.O. 30 DE ENERO DE 2013)</small>
-
-En caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte, las penas se aumentarán en una mitad.
-
-> <small>(ADICIONADO, G.O. 30 DE ENERO DE 2013)</small>
-
-Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que lleven a una muerte no inmediata y prolonguen la agonía del animal.
-
-> <small>(ADICIONADO, G.O. 30 DE ENERO DE 2013)</small>
-
-Por actos de maltrato o crueldad y lo relativo a éste capítulo, se estará a lo dispuesto en la Ley de Protección a los Animales del Distrito Federal.
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 333.
 
@@ -4985,6 +4983,68 @@ ARTÍCULO 349 TER. En caso de concurso de delitos, en lo referente a la reparaci
 Cuando en la comisión de un delito previsto en este título, intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena de prisión se aumentará en una mitad y se le inhabilitará para ocupar cargo, empleo o comisión, en los términos del artículo 258 de este Código.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE ENERO DE 2013)</small>
+
+###### ARTÍCULO 350 Bis.
+
+A quien dolosamente realice actos de maltrato o crueldad en contra de algún ejemplar de cualquier especie animal causándole lesiones, daño o alteración en su salud, se le impondrán de uno a tres años de prisión y de trescientas a quinientas veces la Unidad de Medida y Actualización vigente.
+
+Las sanciones previstas en el párrafo que antecede, se incrementarán hasta en dos terceras partes, si ocurre cualquiera de los supuestos siguientes:
+
+I.- Ponga en peligro la vida de la especie animal;
+
+II.- Cuando le cause un daño temporal o permanente que le provoque la falta de movilidad de alguna parte de su cuerpo o afecte el normal funcionamiento de alguno de sus órganos; y
+
+III.- Se mutile con algún fin, distinto a cualquier procedimiento médico veterinario relacionado con la salud y bienestar de cualquier animal.
+
+Para los efectos del presente título, se entenderá por especie animal, al organismo vivo no humano, sensible, que posee movilidad propia y capacidad de respuesta a los estímulos del medio ambiente perteneciente a una especie doméstica o silvestre. Los animales abandonados o que se encuentren en el entorno urbano.
+
+Los animales abandonados o callejeros no serán considerados plaga.
+
+Los delitos previstos en el presente artículo se perseguirán por querella.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 350 Ter.
+
+A quien dolosamente cometa actos de maltrato o crueldad en contra de algún ejemplar de cualquier especie animal provocándole la muerte, se le impondrán de dos a seis años de prisión y de seiscientas a mil doscientas veces la Unidad de Medida y Actualización vigente, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo, en términos de lo dispuesto por el artículo 54 de este Código.
+
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2023)</small>
+
+En caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte, las penas se aumentarán hasta en dos terceras partes.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 1 DE MARZO DE 2023)</small>
+
+Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que lleven a una muerte no inmediata y prolonguen la agonía del animal.
+
+> <small>(ADICIONADO, G.O. 1 DE MARZO DE 2023)</small>
+
+Se aumentarán hasta en una mitad las penas establecidas, a quien sacrifique animales de compañía para consumo humano.
+
+> <small>(ADICIONADO, G.O. 1 DE MARZO DE 2023)</small>
+
+Los delitos previstos en el presente artículo se perseguirán por querella.
+
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2023)</small>
+
+Por actos de maltrato o crueldad y lo relativo a este capítulo, se estará a lo dispuesto en la ley local que regule la protección y el bienestar de los animales vigente.
+
+> <small>(ADICIONADO, G.O. 1 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 350 Quáter.
+
+A quien administre, establezca, organice o patrocine cualquier espacio destinado al sacrificio o matanza de especies de animales destinadas al abasto sin la autorización, aviso o permiso necesario vigente de las autoridades competentes de conformidad con las disposiciones aplicables, se le impondrá de dos a cuatro años de prisión y una multa de mil a cinco mil veces la Unidad de Medida y Actualización vigente; así como, la clausura por el mismo tiempo que la pena de prisión impuesta.
+
+> <small>(ADICIONADO, G.O. 1 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 350 Quinquies.
+
+Se impondrán de uno a tres años de prisión y de quinientas a mil veces la Unidad de Medida y Actualización vigente, a quien utilice a un animal con fines sexuales.
+
+Se entenderá por utilización de un animal con fines sexuales, la práctica de actos de zooerastia, la promoción y difusión que incite a la misma, así como la venta, distribución y exhibición de material pornográfico de animales.
+
+Se entenderá por actos de zooerastia, la realización de actos eróticos sexuales o la introducción vía vaginal o rectal del miembro viril, o cualquier parte del cuerpo, objeto o instrumento, en un animal.
+
+Las sanciones señaladas en este artículo se incrementarán en una mitad si además de realizar los actos mencionados, la persona que los lleva a cabo u otra los capta en fotografía o videos para hacerlos públicos por cualquier medio.
 
 ## TÍTULO VIGÉSIMO SEXTO. DELITOS CONTRA LA DEMOCRACIA ELECTORAL
 
@@ -6479,3 +6539,13 @@ G.O. 30 DE NOVIEMBRE DE 2022.
 Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 1 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 226 BIS, 226 TER, 350 QUÁTER Y 350 QUINQUIES, ASÍ COMO UN PÁRRAFO CUARTO Y QUINTO RECORRIÉNDOSE EL SUBSECUENTE DEL ARTÍCULO 350 TER; ASIMISMO, SE REFORMAN LOS ARTÍCULOS 350 BIS Y 350 TER; TODOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL. SE REFORMAN LAS FRACCIONES III Y IX DEL ARTÍCULO 24, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 24 BIS, LAS FRACCIONES XXIV Y XXV DEL ARTÍCULO 25, LA FRACCIÓN III DEL ARTÍCULO 63, LA FRACCIÓN I Y LOS INCISOS B) Y C) DE LA FRACCIÓN III DEL ARTÍCULO 65; ASIMISMO; SE ADICIONAN LAS FRACCIONES X Y XI RECORRIÉNDOSE LAS SUBSECUENTES, AL ARTÍCULO 24, UN PÁRRAFO TERCERO AL ARTÍCULO 24 BIS, LAS FRACCIONES XXVI, XXVII Y XXVIII AL ARTÍCULO 25; UNA FRACCIÓN III BIS AL ARTÍCULO 63; Y EL INCISO D) A LA FRACCIÓN III DEL ARTÍCULO 65, TODOS DE LA LEY DE PROTECCIÓN A LOS ANIMALES DE LA CIUDAD DE MÉXICO. SE REFORMAN LAS FRACCIONES XIV Y XV, SE ADICIONA LA FRACCIÓN XVI, TODOS DEL ARTÍCULO 29, SE REFORMA EL NUMERAL 29 DEL ARTÍCULO 32 DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Dentro de un plazo de 180 días naturales, posteriores a la publicación del presente Decreto, la persona titular de la Jefatura de Gobierno deberá realizar las adecuaciones reglamentarias y normativas correspondientes con la finalidad de dar cumplimiento al mismo.
