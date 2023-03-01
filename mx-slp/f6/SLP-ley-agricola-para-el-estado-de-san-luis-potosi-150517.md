@@ -4,7 +4,7 @@ identifier: "SLP-ley-agricola-para-el-estado-de-san-luis-potosi-150517"
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-05"
-last_updated: "2021-08-05"
+last_updated: "2023-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AGRÍCOLA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 5 de agosto de 2021.
 
@@ -71,9 +71,17 @@ VI. Incentivar fiscalmente las diversas etapas de la actividad agrícola y la in
 
 VII. Fomentar la investigación científica y el establecimiento de despachos especializados en la transferencia tecnológica a los productores y organizaciones agrícolas;
 
-VIII. Identificar los problemas que de manera regional se presenten e incorporar sus soluciones a los programas anuales de fomento y desarrollo agrícola, y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2023)</small>
 
-IX. Difundir los programas de apoyo a instituciones y mejoras tecnológicas.
+VIII. Identificar los problemas que de manera regional se presenten e incorporar sus soluciones a los programas anuales de fomento y desarrollo agrícola;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2023)</small>
+
+IX. Difundir los programas de apoyo a instituciones y mejoras tecnológicas, y
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2023)</small>
+
+X. Contribuir a la soberanía y seguridad alimentaria del Estado mediante el impulso de la producción agropecuaria.
 
 ###### ARTÍCULO 4°.
 
@@ -114,6 +122,10 @@ XVI. Productor: persona física o jurídica colectiva que directa o indirectamen
 XVII. SADER: la Secretaría de Agricultura y Desarrollo Rural del Gobierno Federal;
 
 XVIII. SEDARH: la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, del Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2023)</small>
+
+XVIII BIS. Seguridad Alimentaria: el abasto oportuno, suficiente e incluyente de alimentos a la población;
 
 XIX. Sistema: mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencia para logar un determinado propósito;
 
@@ -397,7 +409,9 @@ La organización e integración de sistemas producto tienen por objeto, entre ot
 
 I. Concertar los programas de producción agroindustrial;
 
-II. Establecer planes de expansión y estrategias territoriales de los volúmenes de calidad de cada producto, de acuerdo a las tendencias de los mercados y las condiciones del Estado;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2023)</small>
+
+II. Establecer planes de expansión y estrategias territoriales de los volúmenes de calidad de cada producto, de acuerdo a las tendencias de los mercados y las condiciones del Estado procurando contribuir al incremento de la productividad y la seguridad alimentaria;
 
 III. Establecer alianzas estratégicas y acuerdos para la integración de las cadenas productivas de cada sistema producto, y
 
@@ -1004,3 +1018,13 @@ El Secretario General de Gobierno
 Jorge Daniel Hernández Delgadillo
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0714.- SE REFORMAN LOS ARTÍCULOS 3º, EN SUS FRACCIONES VII Y IX Y 23 EN SU FRACCIÓN II; Y ADICIONA A LOS ARTÍCULOS 3º LA FRACCIÓN X, Y 4º LA FRACCIÓN XVIII BIS, DE LA LEY AGRÍCOLA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
