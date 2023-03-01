@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-del-fideicomiso-centro-historico-de-la-14825
 country: "mx"
 rank: "codigo"
 publication_date: "2021-03-10"
-last_updated: "2021-03-10"
+last_updated: "2023-03-01"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148259&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2021-03-02"
 ---
 # CODIGO DE CONDUCTA DEL FIDEICOMISO CENTRO HISTORICO DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA EL 10 DE MARZO DE 2021 EN: https://centrohistorico.cdmx.gob.mx/storage/app/media/Normativa%20divrsa/proyecto-codigo-de-conducta-del-fchcm.pdf]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁ SER CONSULTADO EL CÓDIGO DE CONDUCTA DEL FIDEICOMISO CENTRO HISTÓRICO DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 1 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTO.]</small>
 
 CÓDIGO DE CONDUCTA DEL FIDEICOMISO CENTRO HISTÓRICO DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE MARZO DE 2023 (SIN EFECTO).
 
 Código publicado en el Número 552 de la Gaceta Oficial de la Ciudad de México, el miércoles 10 de marzo de 2021.
 
@@ -387,3 +387,21 @@ CONDUCTAS INSTITUCIONALES
 10.2. Tener la disposición para los cambios, nuevos métodos de trabajo, procedimientos de mejora a fin de modernizar la gestión institucional.
 
 10.3. Las personas servidoras púbicas del Fideicomiso facilitaran al personal a su cargo las condiciones para su capacitación, considerando las cargas de trabajo.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 1 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁ SER CONSULTADO EL CÓDIGO DE CONDUCTA DEL FIDEICOMISO CENTRO HISTÓRICO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y aplicación.
+
+SEGUNDO.- El presente código podrá ser consultado en el enlace siguiente:
+
+Aviso por el cual se da a conocer el enlace electrónico donde podrá ser consultado el código de conducta del Fideicomiso Centro Histórico de la Ciudad de México: https://centrohistorico.cdmx.gob.mx/storage/app/media/Normativa%20di-vrsa/codigo-de-conducta-fch2023.pdf
+
+TERCERO.- El presente Aviso entrará en vigor el día de su publicación.
+
+CUARTO.- Se deja sin efecto el Código de Conducta publicado en la Gaceta Oficial de la Ciudad de México número 552, de fecha 10 de marzo del año 2021.
+
+QUINTO.- Persona encargada: Nombre: Yenefris Báez Alvarado. Cargo: Directora de Administración y Finanzas. Telé-fono: 57 09 80 05 ext. 220 Dirección: República de Brasil #74 Col. Centro C.P. 06010, Alcaldía Cuauhtémoc. Correo electrónico: yenbaez26@gmail.com
