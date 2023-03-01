@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2022-05-13"
+last_updated: "2023-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -907,9 +907,15 @@ XVIII. Aplicar las medidas técnicas y de seguridad, así como las sanciones pre
 
 XIX. Realizar las acciones que aseguren la conservación y restauración de los ecosistemas fundamentales para el desarrollo de la comunidad, procurando la participación de otras dependencias, de las comunidades y particulares;
 
-XX. Establecer, con la participación de los Ayuntamientos por sí, o por conducto de los organismos operadores del agua, condiciones generales de descarga para los centros de población, así como las condiciones particulares de descarga de aguas residuales; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2023)</small>
 
-XXI. Las demás que le señalen las leyes y reglamentos aplicables en la materia.
+XX. Establecer, con la participación de los Ayuntamientos por sí, o por conducto de los organismos operadores del agua, condiciones generales de descarga para los centros de población, así como las condiciones particulares de descarga de aguas residuales;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2023)</small>
+
+XXI. Promover entre las dependencias y entidades, que conforman la administración pública del Estado, prácticas y políticas de sustentabilidad en el desarrollo de sus actividades que ayuden a reducir su huella ecológica, y
+
+XXII. Las demás que le señalen las leyes y reglamentos aplicables en la materia.
 
 ###### ARTICULO 40.
 
@@ -2096,5 +2102,13 @@ P.O. 13 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0314.- SE REFORMA Y ADICIONA EL ARTÍCULO 88, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 31 Y 41 QUÁTER, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 2°, 5°, 10, 13, 14, 15, 16, 21, 22, 27, 35, 44, 47, 48, 51, 77, 117, 156 Y 170, SE ADICIONAN LOS ARTÍCULOS 2° TER, 2° QUÁTER Y 2° QUINQUE Y SE ADICIONA A LOS ARTÍCULOS 5°, 10, 13, 14, 27 Y 47, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ Y; SE REFORMAN LOS ARTÍCULOS 2°, 6°, 8° Y 43, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0712.- SE REFORMA EL ARTÍCULO 39, EN SU FRACCIÓN XX; Y ADICIONA AL MISMO ARTÍCULO 39 UNA FRACCIÓN, ÉSTA COMO XXI, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
