@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-de-justicia-administrativa-901
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-16"
-last_updated: "2022-06-15"
+last_updated: "2023-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2023.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de noviembre de 2012.
 
@@ -969,29 +969,85 @@ V. Fungir como Enlace en materia de Igualdad de Género con las diversas autorid
 
 La Unidad de Igualdad de Género del Tribunal de Justicia Administrativa del Estado de Nuevo León, estará integrada al menos por su titular, un psicólogo y demás personal que estime pertinente la Sala Superior.
 
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MARZO DE 2023)</small>
 
-### CAPÍTULO XIV. DE LA COMISIÓN INTERNA DE REVISIÓN Y EVALUACIÓN DE PROCEDIMIENTOS
+### CAPÍTULO XIV. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2023)</small>
 
 ###### Artículo 45.
 
-Sin prejuicio de que se creen otras comisiones permanentes, la Sala Superior del Tribunal, podrá designar la Comisión Interna de Revisión y Evaluación de Procedimientos, cuyo objetivo será el de revisar las actividades que realizan los servidores públicos adscritos al Tribunal, cuando a juicio de la Sala Superior se considere necesario evaluar su eficiencia y honestidad en el desempeño de sus labores.
+Sin prejuicio de que se creen otras comisiones permanentes, la Sala Superior del Tribunal, conformará la Comisión de Investigación y la Comisión Substanciadora. Siendo el objetivo de la primera atender e investigar las quejas y denuncias presentadas en contra de los servidores públicos que integran el Tribunal de Justicia Administrativa. Quedando a cargo de la Comisión Substanciadora iniciar y substanciar el procedimiento de responsabilidad administrativa.
+
+Ambas Comisiones desarrollarán sus funciones en términos de lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2023)</small>
+
+###### Artículo 45 Bis.
+
+La Sala Superior del Tribunal de Justicia Administrativa del Estado de Nuevo León, designará a los integrantes que conformarán las Comisiones a que se refiere el artículo anterior respetando los siguientes lineamientos:
+
+I. Cada Comisión podrá integrarse por el número de Magistrados y Secretarios de Estudio y Cuenta, que se estime necesarios, pero deberá siempre ser integrada por al menos un Magistrado y por un número impar de integrantes;
+
+II. Entre los integrantes de cada Comisión no podrá existir subordinación directa, es decir, los integrantes no pueden estar adscritos o depender laboralmente entre sí;
+
+III. Tendrán un Presidente, que será designado por votación, entre sus integrantes y durará en el encargo el tiempo que la comisión lo considere pertinente;
+
+IV. Tendrán un vicepresidente que será igualmente elegido por votación y un Secretario Técnico que será designado por el Presidente de la Comisión, y que se encargará de compilar y comunicar las determinaciones adoptadas por dicha comisión;
+
+V. Funcionarán colegiadamente y tomarás (sic) sus determinaciones por mayoría de votos;
+
+VI. Sesionarán de manera ordinaria y extraordinaria, pudiendo tratar cualquier asunto relativo a su funcionamiento en cualquiera de dichas sesiones.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2023)</small>
 
 ###### Artículo 46.
 
-El Presidente del Tribunal al conocer de las denuncias o quejas que se presenten contra los Magistrados y demás personal del Tribunal, a que se refiere la fracción IX del inciso A) del artículo 20 de la Ley, solicitará con acuerdo de la Sala Superior a la Comisión Interna de Revisión y Evaluación de Procedimientos, que realice la investigación correspondiente.
+El Presidente del Tribunal al conocer de las denuncias o quejas que se presenten contra los Magistrados y demás personal del Tribunal, a que se refiere la fracción IX del inciso A) del artículo 20 de la Ley, turnará las mismas con acuerdo de la Sala Superior a la Comisión Investigadora, para que realice la investigación correspondiente.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2023)</small>
+
+###### Artículo 46 Bis.
+
+En caso de que alguno de los integrantes de cualquiera de las Comisiones se encuentre involucrado en el asunto objeto de la investigación o procedimiento, según sea el caso, será la propia Comisión quien, siguiendo los lineamientos de designación, procederá a sustituir para ese procedimiento al integrante involucrado.
+
+En el supuesto de que la investigación o procedimiento involucre a dos o más miembros de la comisión, el Presidente de la Comisión lo comunicará por escrito a la Sala Superior del Tribunal de Justicia Administrativa del Estado de Nuevo León, quien resolverá conforme a los lineamientos de integración señalados en el artículo 45 Bis, a quienes sustituirán a los integrantes involucrados en dicho procedimiento.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2023)</small>
 
 ###### Artículo 47.
 
-Para llevar a cabo la revisión de los procedimientos internos, el Presidente del Tribunal, facultará al Coordinador de la Comisión para que tenga acceso a aquellos documentos cuyo examen se estime necesario y, en su caso, se proceda a desahogar los interrogatorios que se consideren pertinentes a fin de esclarecer y corregir la situación irregular derivada de los casos de incumplimiento mencionados en el artículo anterior.
+Para llevar a cabo la investigación, la Comisión Investigadora, podrá tener acceso a los documentos que estime necesarios, citar a comparecer a los servidores públicos investigados, desahogar interrogatorios, solicitar los medios de prueba que estime pertinentes, y tendrá total autonomía para el dictado de sus resoluciones; la Comisión Investigadora además de las atribuciones aquí señaladas contará con todas las atribuidas a las autoridades investigadoras, en la Ley de Responsabilidades Administrativas del Estado de Nuevo León.
+
+La Comisión Investigadora, podrá efectuar a los servidores públicos involucrados los requerimientos que estime necesarios, otorgando para su cumplimiento, un plazo que podrá ir de los cinco a los quince días hábiles.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2023)</small>
 
 ###### Artículo 48.
 
-La Comisión, en cada caso concreto, deberá rendir su opinión al Presidente del Tribunal, acerca de la responsabilidad del servidor público en el desempeño de sus labores, como resultado de la revisión practicada.
+La Comisión Investigadora, en cada caso concreto, y una vez que concluya con todas y cada una de las diligencias de investigación, procederá al análisis de los hechos, así como de la información recabada a efecto de determinar la existencia o inexistencia de actos u omisiones que la Ley de Responsabilidades Administrativas del Estado de Nuevo León, señale como falta administrativa, y en su caso, la calificará como grave o no grave.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2023)</small>
+
+###### Artículo 48 Bis.
+
+Si no se encontraren elementos suficientes para demostrar la existencia de la infracción, se emitirá un acuerdo de conclusión y archivo del expediente, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar prevista en la Ley de Responsabilidades Administrativas del Estado de Nuevo León.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2023)</small>
 
 ###### Artículo 49.
 
-Vista la opinión de la Comisión a que se refiere el artículo anterior, el Presidente del Tribunal propondrá a la Sala Superior la aplicación de las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, con audiencia del denunciado y sujetándose al procedimiento previsto en la Ley invocada.
+Una vez calificada la conducta en los términos del artículo 48 de este ordenamiento, se incluirá la misma en el Informe de Presunta Responsabilidad Administrativa, mismo que deberá contener la falta administrativa, el nombre del presunto responsable y de los terceros a quienes pueda afectar la resolución; y lo remitirá ante la autoridad substanciadora a efecto de iniciar el procedimiento de responsabilidad administrativa.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2023)</small>
+
+Artículo 49 Bis I.- La Comisión Substanciadora para el desahogo del Procedimiento de Responsabilidad Administrativa, deberá observar las disposiciones contenidas en el Título Segundo, del Procedimiento de Responsabilidad Administrativa de la Ley de Responsabilidades Administrativas del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2023)</small>
+
+Artículo 49 Bis II.- Una vez acordado el cierre de instrucción, la Comisión Substanciadora, procederá a enviar el expediente formado a la Sala Superior del Tribunal de Justicia Administrativa quien actuará como autoridad resolutora en los casos de infracciones no graves, sujetándose a lo previsto en la Ley de Responsabilidades Administrativa (sic) para el Estado de Nuevo León.
+
+Tratándose de infracciones graves, una vez declarado el cierre de instrucción, la Comisión Substanciadora deberá proceder en términos de lo dispuesto por la fracción I del artículo 209 de la Ley de Responsabilidades Administrativa (sic) para el Estado de Nuevo León.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE ABRIL DE 2018)</small>
 
@@ -1126,3 +1182,13 @@ P.O. 15 DE JUNIO DE 2022.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo. Publíquese el presente acuerdo en el Periódico Oficial del Estado.
+
+P.O. 1 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero. Publíquese el presente acuerdo en el Periódico Oficial del Estado.
+
+Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Tercero. Todas las quejas y denuncias que se encuentren pendientes de trámite y resolución deberán ser resueltas conforme al procedimiento previsto en el Capitulo XIV de este ordenamiento, sin importar la temporalidad en su presentación.
