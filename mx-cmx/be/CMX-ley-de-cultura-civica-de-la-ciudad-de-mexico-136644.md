@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-136644"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-07"
-last_updated: "2022-12-12"
+last_updated: "2023-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136644&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-06-07"
 
 LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE MARZO DE 2023.
 
 Ley publicada en el Número 108 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 7 de junio de 2019.
 
@@ -686,9 +686,17 @@ XII. Cubrir, borrar, pintar, alterar o desprender los letreros, señales, númer
 
 XIII. Pintar, adherir, colgar o fijar anuncios o cualquier tipo de propaganda en elementos del equipamiento urbano, del mobiliario urbano, de ornato o árboles, sin autorización para ello;
 
-XIV. Colocar transitoriamente o fijar en el espacio público, sin autorización para ello, elementos destinados a la venta de productos o prestación de servicios; y
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2023)</small>
 
-XV. Obstruir o permitir la obstrucción del espacio público con motivo de la instalación, modificación, cambio o mantenimiento de los elementos constitutivos de un anuncio y no exhibir la documentación correspondiente que autorice a realizar dichos trabajos.
+XIV. Colocar transitoriamente o fijar en el espacio público, sin autorización para ello, elementos destinados a la venta de productos o prestación de servicios;
+
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2023)</small>
+
+XV. Obstruir o permitir la obstrucción del espacio público con motivo de la instalación, modificación, cambio o mantenimiento de los elementos constitutivos de un anuncio y no exhibir la documentación correspondiente que autorice a realizar dichos trabajos; y
+
+> <small>(ADICIONADA, G.O. 1 DE MARZO DE 2023)</small>
+
+XVI. Abandonar en la vía pública a un animal de compañía, esta conducta, además de sancionarse en los términos de la presente Ley, será notificada de oficio a la Procuraduría Ambiental y del Ordenamiento Territorial, antes de dictarse la sanción administrativa correspondiente.
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
@@ -734,7 +742,7 @@ Para efectos del artículo anterior las infracciones se clasificarán de acuerdo
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 7 DE JUNIO DE 2019, PÁGINA 25.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.O. DE 7 DE JUNIO DE 2019, PÁGINA 49; 1 DE AGOSTO DE 2019, PÁGINA 50.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.O. DE 7 DE JUNIO DE 2019, PÁGINA 49; 1 DE AGOSTO DE 2019, PÁGINA 50; 1 DE MARZO DE 2023, PÁGINA 7.]</small>
 
 ###### Artículo 33.
 
@@ -1817,3 +1825,13 @@ Primero.- Remítase a la persona Titular de la Jefatura de Gobierno de la Ciudad
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Tercero.- Se derogan las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 1 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE SE (SIC) ADICIONAN LOS ARTÍCULOS 226 BIS, 226 TER, 350 QUÁTER Y 350 QUINQUIES, ASÍ COMO UN PÁRRAFO CUARTO Y QUINTO RECORRIÉNDOSE EL SUBSECUENTE DEL ARTÍCULO 350 TER; ASIMISMO, SE REFORMAN LOS ARTÍCULOS 350 BIS Y 350 TER; TODOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL. SE REFORMAN LAS FRACCIONES III Y IX DEL ARTÍCULO 24, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 24 BIS, LAS FRACCIONES XXIV Y XXV DEL ARTÍCULO 25, LA FRACCIÓN III DEL ARTÍCULO 63, LA FRACCIÓN I Y LOS INCISOS B) Y C) DE LA FRACCIÓN III DEL ARTÍCULO 65; ASIMISMO; SE ADICIONAN LAS FRACCIONES X Y XI RECORRIÉNDOSE LAS SUBSECUENTES, AL ARTÍCULO 24, UN PÁRRAFO TERCERO AL ARTÍCULO 24 BIS, LAS FRACCIONES XXVI, XXVII Y XXVIII AL ARTÍCULO 25; UNA FRACCIÓN III BIS AL ARTÍCULO 63; Y EL INCISO D) A LA FRACCIÓN III DEL ARTÍCULO 65, TODOS DE LA LEY DE PROTECCIÓN A LOS ANIMALES DE LA CIUDAD DE MÉXICO. SE REFORMAN LAS FRACCIONES XIV Y XV, SE ADICIONA LA FRACCIÓN XVI, TODOS DEL ARTÍCULO 29, SE REFORMA EL NUMERAL 29 DEL ARTÍCULO 32 DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Dentro de un plazo de 180 días naturales, posteriores a la publicación del presente Decreto, la persona titular de la Jefatura de Gobierno deberá realizar las adecuaciones reglamentarias y normativas correspondientes con la finalidad de dar cumplimiento al mismo.
