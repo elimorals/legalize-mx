@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2021-09-13"
+last_updated: "2023-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -841,15 +841,15 @@ El Oficial que levante un acta de reconocimiento realizado por medio de testimon
 
 El Oficial que reciba copia certificada de una resolución judicial ejecutoriada en el que se establezca que deje sin efecto el reconocimiento, anotará en el acta respectiva la fecha en que fue tramitado, los puntos resolutivos, así como el juez o tribunal que la hubiere dictado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 83.
 
-Si el reconocimiento del hijo se hiciere después de haber sido registrado su nacimiento, se formará acta separada, en la que además de los requisitos a que se refieren los artículos 80 y 81 se hará constar la declaración del (sic) quien reconoce y, el consentimiento del reconocido si es mayor de edad. Si es menor de edad, el consentimiento lo dará quien ejerza la patria potestad o la custodia y, en oposición de éstos, se acudirá a la instancia judicial correspondiente.
+Si el reconocimiento de la hija o hijo se hiciere después de haber sido registrado su nacimiento, se formará acta separada, en la que además de los requisitos a que se refieren los artículos, 80, y 81, se hará constar la declaración de quien reconoce y, el consentimiento de la persona reconocida, si es mayor de edad. Si es menor de edad, el consentimiento lo dará quien ejerza la patria potestad o la custodia y, en oposición de éstos, se acudirá a la instancia judicial correspondiente.
 
-En estas actas queda prohibido expresar que el hijo es natural, o nacido fuera de matrimonio.
+En estas actas queda prohibido expresar que la hija o el hijo es natural, o nacido fuera de matrimonio.
 
-Lo mismo se observará cuando se haya omitido la presentación para el registro del nacimiento del hijo o esta presentación se haya hecho fuera del término de ley.
+Lo mismo se observará cuando se haya omitido la presentación para el registro del nacimiento de la hija o hijo, o esta presentación se haya hecho fuera del término de ley.
 
 ###### ARTÍCULO 84.
 
@@ -1696,5 +1696,13 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1263.- SE REFORMA LOS ARTÍCULOS 65 EN SU FRACCIÓN III Y 67 EN SU PRIMER PÁRRAFO, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0713.- SE REFORMA EL ARTÍCULO 83, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
