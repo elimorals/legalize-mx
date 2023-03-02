@@ -4,7 +4,7 @@ identifier: "LGSMIME"
 country: "mx"
 rank: "ley_general"
 publication_date: "1996-11-22"
-last_updated: "2022-12-20"
+last_updated: "2023-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9006&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,13 @@ abbreviation: "LGSMIME"
 ---
 # LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
 
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY GENERAL DE PARTIDOS POLÍTICOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y SE EXPIDE LA LEY GENERAL DE LOS MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, PUBLICADO EN EL D.O.F. DE 2 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+(NOTA 2: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY GENERAL DE PARTIDOS POLÍTICOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, Y SE EXPIDE LA LEY GENERAL DE LOS MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL DOS DE MARZO DE DOS MIL VEINTITRÉS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
 LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MARZO DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 22 de noviembre de 1996.
 
@@ -1753,3 +1757,81 @@ D.O.F. 20 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y DE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY GENERAL DE PARTIDOS POLÍTICOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y SE EXPIDE LA LEY GENERAL DE LOS MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley General del Sistema de Medios de Impugnación en Materia Electoral, publicada el 22 de noviembre de 1996 en el Diario Oficial de la Federación.
+
+Tercero. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Las disposiciones generales emitidas por el Instituto Nacional Electoral con antelación a la entrada en vigor del presente Decreto seguirán vigentes, en lo que no se opongan a la Constitución y el presente Decreto, hasta en tanto el Consejo General del Instituto Nacional Electoral emita aquéllas que deban sustituirlas.
+
+Cuarto. El presente Decreto no será aplicable en los procesos electorales del Estado de México y de Coahuila en 2023.
+
+Quinto. Los módulos de atención ciudadana del Registro Federal de Electores con que cuente el Instituto Nacional Electoral seguirán operando de forma normal. No deberá alterarse su cantidad con motivo de la restructuración administrativa.
+
+Sexto. Los procedimientos, medios de impugnación y actos jurídicos en general que se encuentren en trámite a la entrada en vigor del presente Decreto, se resolverán conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+Séptimo. Entre enero y abril de 2023, el Consejo General del Instituto Nacional Electoral identificará la normativa que se deberá adecuar conforme al presente Decreto, para garantizar que, antes del inicio del proceso electoral 2023-2024, haya emitido la necesaria para proveer el cumplimiento de lo dispuesto en las reformas contenidas.
+
+Octavo. Los acuerdos mediante los cuales el Instituto Nacional Electoral haya ejercido la facultad de atracción a la entrada en vigor del presente Decreto, conservarán su vigencia y objeto en sus términos y, en lo aplicable, se ejecutarán en la organización de los procesos electorales federal y locales de 2023-2024.
+
+Noveno. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado al Instituto Nacional Electoral, por lo que no se autorizarán recursos adicionales para tales efectos ni en los ejercicios fiscales subsecuentes.
+
+Décimo. A más tardar en abril de 2023, el Consejo General identificará las medidas, adecuaciones administrativas y el costo que implicará la reestructuración orgánica del Instituto para el cumplimiento de las disposiciones establecidas en el presente Decreto, y planificará su ejecución para que, a más tardar el 1 de agosto de 2023, se haya concluido. Los remanentes presupuestales que se generen con motivo de la presente disposición, deben ser reintegrados a la Tesorería de la Federación.
+
+Décimo Primero. El Instituto garantizará que la reestructuración orgánica que derive del presente Decreto se realice con pleno respeto a los derechos laborales de las personas trabajadoras que se encuentren adscritas bajo cualquier régimen laboral.
+
+Para cubrir el pago de posibles indemnizaciones, se destinarán los recursos que integran los fideicomisos de pasivo laboral y de infraestructura inmobiliaria del Instituto Nacional Electoral. Una vez ejecutada la totalidad de los pagos correspondientes, se extinguirán y liquidarán dichos fideicomisos; sus remanentes se entregarán a la Tesorería (sic) Federación.
+
+Décimo Segundo. Entre enero y mayo de 2023, el Consejo General tomará opinión de los órganos desconcentrados con relación al perfil y competencias idóneas de los vocales operativos, con el fin de que, a más tardar el 1o. de junio siguiente, se tenga concluido el diseño del proceso de evaluación de los actuales vocales de las Juntas Distritales para determinar de entre ellos, quiénes ocuparán el cargo de vocal operativo en las oficinas auxiliares que se instalarán con motivo de la entrada en vigor del presente Decreto.
+
+El mismo mecanismo se seguirá respecto de las actuales Juntas Locales para diseñar el proceso de evaluación y determinar la integración de los órganos locales.
+
+A más tardar el 15 de agosto de 2023, deberán quedar instalados los órganos locales y las oficinas auxiliares de conformidad con el presente Decreto, para operar en los siguientes procesos electorales.
+
+Décimo Tercero. La Secretaría Ejecutiva revisará con las unidades administrativas, órganos delegacionales y subdelegacionales del Instituto las estructuras orgánicas no incluidas en la reestructuración prevista en el presente Decreto, con el fin de compactarlas al mínimo indispensable para su operación.
+
+Décimo Cuarto. A más tardar el 1o. de mayo de 2023, el Consejo General emitirá los lineamientos para la revisión, redimensionamiento y compactación de la estructura orgánica de las unidades administrativas del Instituto ordenada en el presente Decreto, así como de la Coordinación Nacional de Comunicación Social, la Coordinación de Asuntos Internacionales, la Dirección del Secretariado y la Unidad Técnica de Servicios de Informática.
+
+Los lineamientos deberán establecer la metodología y políticas para cumplir tal fin, así como criterios técnicos para garantizar la debida alineación de las estructuras orgánicas y ocupacionales con las atribuciones conferidas en los ordenamientos jurídicos aplicables; evitar la duplicidad de funciones con otras unidades administrativas; establecer y justificar la descripción y perfiles de puestos; ejecutar una efectiva valuación de puestos; propiciar el equilibrio en los tramos de control, y evitar saltos jerárquicos en la línea de mando.
+
+Las propuestas que se realicen para cada una de las unidades administrativas serán validadas técnicamente por el Órgano Interno de Control.
+
+Décimo Quinto. La Dirección Ejecutiva de Administración auxiliará a la Comisión de Administración para definir y realizar, a más tardar el 1o. de agosto de 2023, los cambios en las asignaciones presupuestales, adscripción de personal, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y demás bienes utilizados por las unidades administrativas sujetas a la reestructuración señalada en el presente Decreto.
+
+Décimo Sexto. En la sesión ordinaria del mes de mayo de 2023, el Consejo General del Instituto emitirá los nombramientos de titulares de Direcciones Ejecutivas conforme a la reestructuración ordenada en el presente Decreto.
+
+Décimo Séptimo. Dada la modificación de las facultades de (sic) Secretaría Ejecutiva con la entrada en vigor del presente Decreto, la persona titular de dicho cargo cesará en sus funciones a partir de su publicación.
+
+De inmediato, el Consejo General nombrará de entre los directores ejecutivos, a un encargado de despacho. En la sesión ordinaria del mes de mayo de 2023, designará a la persona titular de la Secretaría Ejecutiva para el periodo 2023-2029 que cumpla los requisitos correspondientes.
+
+Décimo Octavo. El Instituto expedirá un nuevo Estatuto del Servicio Profesional Electoral Nacional a más tardar el 30 de julio de 2023, con el fin de unificar sus dos sistemas: del Instituto y de los organismos públicos locales.
+
+Décimo Noveno. Los Congresos de los Estados realizarán las adecuaciones necesarias a su legislación secundaria conforme al presente Decreto antes de noventa días del inicio del proceso electoral de 2023-2024.
+
+Vigésimo. Los Organismos Públicos Locales realizarán las adecuaciones de sus estructuras orgánicas para establecer la estructura ocupacional mínima señalada en el artículo 99, párrafos 3 y 4 de la reforma a la Ley General de Instituciones y Procedimientos Electorales contenida en el presente Decreto, antes de noventa días del inicio del proceso electoral local de 2023-2024.
+
+Vigésimo Primero. Se ratifica a los actuales Consejeros Electorales del Consejo Generales (sic) y al titular del Órgano Interno de Control del Instituto Nacional Electoral para seguir en funciones hasta en tanto concluyan su encargo para el periodo en que fueron designados por la Cámara de Diputados.
+
+Vigésimo Segundo. El Congreso de la Unión creará una comisión de estudio para la implementación del voto electrónico, con la participación del Instituto Nacional Electoral y el Consejo Nacional de Ciencia y Tecnología para diseñar de manera gradual, cierta, segura y austera, un sistema de votación que utilice las tecnologías de la información y telecomunicaciones para facilitar la emisión del voto, con certeza absoluta y seguridad comprobada, en resguardo del ejercicio del voto libre y secreto. En un lapso máximo de cinco años deberá presentar al Congreso sus resultados. Mientras tanto, el Instituto Nacional Electoral y los Organismos Públicos Locales se abstendrán de destinar recursos para el diseño e implementación de sistemas de votación que (sic) ajenos a los resultados de la Comisión señalada en el presente transitorio.
+
+Vigésimo Tercero. A más tardar en la sesión ordinaria de mayo de 2023, el Consejo General del Instituto Nacional Electoral emitirá un reglamento único que regule el funcionamiento de su estructura orgánica, así como la organización y el funcionamiento de las comisiones del Consejo General y los órganos del Instituto.
+
+Vigésimo Cuarto. Los “libros de registro” a que se refieren la Ley General de Instituciones y Procedimientos Electorales y la Ley General de Partidos Políticos podrán convertirse en sistemas informáticos que permitan garantizar la generación de bases de datos oficiales sobre los asuntos mandatados por dichos ordenamientos.
+
+Vigésimo Quinto. El Instituto Nacional Electoral, a partir de la entrada en vigor del presente Decreto, realizará un nuevo cálculo y revisión integral de los tabuladores salariales de su personal y de los organismos públicos locales, para ser aplicados dentro de los 180 días siguientes a la fecha referida, con el fin de adecuar las remuneraciones a los topes establecidos en el artículo 127 constitucional. En ningún caso, se considerará que el personal de (sic) Instituto Nacional Electoral y organismos públicos locales realizan un trabajo especializado o técnico calificado que justifique una excepción al límite establecido en la fracción II del párrafo segundo de la disposición constitucional señalada.
+
+Vigésimo Sexto. El Consejo General del Instituto Nacional Electoral, a propuesta de la Dirección Ejecutiva de Administración, deberá emitir lineamientos que regulen las funciones de su personal de la rama administrativa, conforme a las disposiciones contenidas en el presente Decreto.
+
+Vigésimo Séptimo. La Comisión de Administración y el Pleno de la Sala Superior emitirán los acuerdos necesarios para garantizar que la entrada en vigor del presente Decreto se realice con pleno respeto a los derechos laborales de las personas trabajadoras que se encuentren adscritas bajo cualquier régimen laboral.
+
+Vigésimo Octavo. Las normas establecidas en los artículos 11 bis, párrafo 1, de la Ley General de instituciones y Procedimientos Electorales y 44, párrafo 2, de la Ley General de Partidos Políticos serán vigentes, en tanto no se homogenicen las fechas de elección de las personas titulares de los poderes ejecutivos de las entidades federativas para garantizar que (sic) la elección paritaria de dichos ejecutivos en una sola circunscripción.
+
+Vigésimo Noveno. Se abrogan todos los acuerdos o resoluciones emitidos por la autoridad electoral que vulneren el derecho a la libertad de expresión o al libre ejercicio periodístico.
+
+Trigésimo. Para efectos de lo dispuesto en el numeral 1 del artículo 11 Bis de la Ley General de Instituciones y Procedimientos Electorales, se computará el inicio del ciclo de las postulaciones a las gubernaturas y jefatura de gobierno de las entidades federativas a partir de la elección de 2024.
