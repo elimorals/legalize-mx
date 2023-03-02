@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2022-09-29"
+last_updated: "2023-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE MARZO DE 2023.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -459,9 +459,9 @@ El Estado de Sonora forma parte de la Federación de los Estados Unidos Mexicano
 
 La soberanía reside esencial y originariamente en el pueblo sonorense y se ejerce por medio de los poderes públicos del Estado. El gobierno es emanación genuina del pueblo y se instituye para beneficio del mismo.
 
-> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 2 DE MARZO DE 2023)</small>
 
-La elección a gobernador del Estado, de los diputados al Congreso del Estado y de los integrantes de los ayuntamientos, deberá realizarse mediante sufragio universal, libre, secreto y directo, a través de elecciones libres, auténticas y periódicas. La jornada comicial tendrá lugar el primer domingo de junio del año en que corresponda y procurará realizarse de manera concurrente con los procesos electorales federales.
+La elección a gobernador del Estado, de los diputados al Congreso del Estado y de los integrantes de los ayuntamientos, deberá realizarse mediante sufragio universal, libre, secreto y directo, a través de elecciones libres, auténticas y periódicas. La jornada comicial tendrá lugar el primer domingo de junio del año que corresponda y procurará realizarse de manera concurrente con los procesos electorales federales. La elección de Gobernador será concurrente con la elección de Presidente de la República.
 
 La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Estatal Electoral y de Participación Ciudadana, dotado de personalidad jurídica y patrimonio propios, integrado por ciudadanos y partidos políticos. En el ejercicio de esa función estatal, por parte de las autoridades electorales, la certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán principios rectores.
 
@@ -811,11 +811,13 @@ En sesiones extraordinarias el Congreso se ocupará exclusivamente del asunto o 
 
 Si al comenzar un período de sesiones ordinarias el Congreso estuviere celebrando extraordinarias, cesarán éstas y continuarán discutiéndose en aquellas los negocios para que fue convocado.
 
-> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE MARZO DE 2023)</small>
 
 ###### Artículo 46.
 
-El día 13 del mes de octubre de cada año, el Titular del Poder Ejecutivo, por sí o de manera extraordinaria y, previo acuerdo, por conducto del Secretario de Gobierno o de quien aquél designe, presentará al Congreso del Estado, un informe sobre el estado que guarde la Administración Pública en sus diversos ramos.
+El día 13 del mes de septiembre de cada año, el Titular del Poder Ejecutivo, por sí o de manera extraordinaria y, previo acuerdo, por conducto del Secretario de Gobierno o de quien aquél designe, presentará al Congreso del Estado, un informe sobre el estado que guarde la Administración Pública en sus diversos ramos.
+
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 El último año de su ejercicio constitucional, el Titular del Poder Ejecutivo presentará el informe a que este precepto se refiere, el día 26 de agosto.
 
@@ -1437,9 +1439,11 @@ Elección y Funcionamiento.
 
 El ejercicio del Poder Ejecutivo se deposita en un sólo individuo que se denominará "Gobernador del Estado de Sonora".
 
+> <small>(REFORMADO, B.O. 2 DE MARZO DE 2023)</small>
+
 ###### Artículo 69.
 
-La elección de Gobernador será popular directa, en los términos que disponga la Ley Electoral.
+La elección de Gobernador será popular y directa, y se realizará de manera concurrente con la elección de Presidente de la República, en los términos que disponga la Ley Electoral.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -4342,3 +4346,17 @@ B.O. 29 DE SEPTIEMBRE DE 2022.
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
 
 Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y en caso de resultar aprobada la presente Ley por cuando menos la mitad más uno de los ayuntamientos de los Municipios del Estado, la remitan al titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 2 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 93, QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, EN MATERIA DE ELECCIÓN DEL TITULAR DEL PODER EJECUTIVO DEL ESTADO".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realice el cómputo respectivo, y en caso de resultar aprobada la presente Ley por la mayoría de los ayuntamientos del Estado, la remita al titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de llevar a cabo las elecciones locales y federales de manera concurrente, por única ocasión, quien resulte ser Gobernador electo del Estado de Sonora en los comicios electorales que para esos efectos se celebren el año 2027, será electo por un periodo de tres años, para que ejerza sus funciones a partir del día 13 de septiembre del año 2027 y hasta el día 12 de septiembre del año 2030.
