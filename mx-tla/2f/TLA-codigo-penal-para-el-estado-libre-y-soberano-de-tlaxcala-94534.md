@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2023-02-24"
+last_updated: "2023-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2023.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -3317,7 +3317,9 @@ III. Utilice medios técnicos para escuchar, observar, transmitir, grabar o repr
 
 Se aplicará de tres meses a un año de prisión y multa de dieciocho a setenta y dos veces el valor de la Unidad de Medida y Actualización.
 
-I. Al que de cualquier modo amenace a otro con causarle un mal en su persona, en sus bienes, en su honor o en sus derechos o en la persona, honor, bienes o derechos de alguien con quien esté ligado con algún vínculo, y
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2023)</small>
+
+I. A quien por cualquier medio amenace a otro con causarle un daño en su persona, en su familia, en sus bienes, en su honor, en sus derechos o al honor, bienes, derechos y persona con la que tenga vinculo, y
 
 II. Al que por medio de amenazas de cualquier género trate de impedir que otro ejecute lo que tiene derecho a hacer.
 
@@ -3341,7 +3343,23 @@ II. Si exigió que el sujeto pasivo cometiera un delito, se acumulará a las pen
 
 A quien por cualquier medio usurpe, con fines ilícitos, la identidad de otra persona, u otorgue su consentimiento para llevar a cabo la usurpación en su identidad, se le impondrá una pena de dos a seis años de prisión y multa de cuatrocientas a seiscientas veces el valor de la Unidad de Medida y Actualización.
 
-Se aumentaran en una mitad las penas previstas en el párrafo anterior, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito establecido en el presente artículo.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2023)</small>
+
+Se aumentarán en una mitad las penas previstas en el párrafo anterior, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito establecido en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2023)</small>
+
+Cuando la víctima sea menor de edad o persona adulta mayor y el activo del delito sea servidor público o tenga algún grado académico en el campo de la informática, computación o telemática, además de las sanciones previstas, será sujeto de inhabilitación del servicio público o suspensión para ejercer la profesión hasta por un término igual a la pena que corresponda, dicha sanción deberá ser informada a la Dirección General de Profesiones a fin de dar cumplimiento.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2023)</small>
+
+###### Artículo 282 Bis.
+
+Serán equiparables al delito de usurpación de identidad y se sancionará con prisión de dos a seis años y multa de cuatrocientas a seiscientas veces la Unidad de Medida y Actualización:
+
+I. A quien obtenga, trasfiera o utilice por cualquier medio informático, telemático, o electrónico, sin autorización de quien deba otorgarla, de contraseñas, datos identificativos, o cualquier otra información de la que no es titular, a fin de utilizarlos para obtener un beneficio o cometer una conducta ilícita.
+
+II. A quien asuma, se apropie o utilice, a través de internet, o cualquier sistema informático o medio de comunicación, elementos que constituyan la identidad o información de una persona física o moral para ostentarse como tal sin consentimiento de ésta, ya sea para la realización de alguna conducta ilícita en beneficio propio, de un tercero o para afectar la integridad o reputación de la persona suplantada.
 
 ### CAPÍTULO XII. SECUESTRO
 
@@ -3527,11 +3545,11 @@ Se procederá contra el inculpado del estupro por querella de la parte ofendida,
 
 ### CAPÍTULO IV. HOSTIGAMIENTO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2023)</small>
 
 ###### Artículo 294.
 
-A quien acose o asedie a una persona con fines sexuales, a pesar de su oposición manifiesta y amenace con causarle un mal relacionado respecto a la actividad que los vincule, se le impondrá de seis meses a tres años de prisión y multa de treinta y seis a doscientas dieciséis veces el valor de la Unidad de Medida y Actualización.
+A quien por cualquier medio acose o asedie a una persona con fines eróticos o sexuales, a pesar de su oposición manifiesta y amenace con causarle un daño relacionado respecto a la actividad que los vincule, se le impondrá de seis meses a tres años de prisión y multa de treinta y seis a doscientas dieciséis veces el valor de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -3545,13 +3563,15 @@ Si el sujeto activo es servidor público y se aprovechare de esa circunstancia, 
 
 ### CAPÍTULO IV BIS. ACOSO SEXUAL
 
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2023)</small>
 
 ###### Artículo 294 Bis.
 
-Comete el delito de acoso sexual, a quien con fines de lujuria asedie a persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente, para la víctima.
+Comete el delito de acoso sexual, quien por cualquier medio y con fines de lujuria asedie a otra persona, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente, para la víctima.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2017)</small>
 
 Comete también el delito de acoso sexual quien con fines de lujuria asedie a cualquier persona, sin su consentimiento, en instalaciones o vehículos destinados al transporte público de pasajeros.
 
@@ -4185,11 +4205,11 @@ XIV. El que altere por cualquier medio los medidores de algún fluido o las indi
 
 Se equipara al delito de fraude y se sancionará con prisión de dos a ocho años y multa de ciento cuarenta y cuatro a quinientas setenta y seis veces el valor de la Unidad de Medida y Actualización, a quien valiéndose del cargo que ocupe como servidor público o en cualquiera agrupación de carácter sindical, social, o de sus relaciones con funcionarios o dirigentes de dichos organismos, obtenga dinero, valores, dádivas, obsequios o cualquier otro beneficio, a cambio de prometer o proporcionar un trabajo, un ascenso o aumento de salario en los mismos.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2023)</small>
 
 ###### Artículo 341.
 
-A quien alcance un lucro indebido para sí o para otro, valiéndose de alguna manipulación informática, alteración de programas sistematizados, del empleo no autorizado de datos o artificio semejante, se le impondrá prisión de tres meses a tres años y multa de dieciocho a doscientas dieciséis veces el valor de la Unidad de Medida y Actualización.
+A quien obtenga un lucro indebido para sí o para un tercero o genere un daño patrimonial, valiéndose del uso de algún medio informático, telemático, electrónico o cualquier medio de comunicación, mediante la obtención o uso no autorizado de datos personales que no le pertenecen valiéndose de alguna manipulación informática o intercepción de datos de envío, se le impondrá prisión de tres meses a tres años y multa de dieciocho a doscientas dieciséis veces el valor de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO V. ADMINISTRACIÓN FRAUDULENTA
 
@@ -5748,6 +5768,18 @@ Se derogan todas aquellas disposiciones que se opongan al contenido del presente
 P.O. 24 DE FEBRERO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 209.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO PARA EL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 2 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 210.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA".]
 
 ###### ARTÍCULO PRIMERO.
 
