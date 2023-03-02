@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2022-10-24"
+last_updated: "2023-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE MARZO DE 2023.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -351,7 +351,9 @@ XIX.- Tratamiento psicoterapéutico integral.
 
 ARTICULO 19 BIS.- La medida prevista en la fracción XIX del artículo 19 de este Código, tendrá una duración máxima de sesenta días naturales, prorrogable hasta por treinta días más.
 
-La víctima u ofendido podrá solicitar la medida ante el Ministerio Público, quien dentro de setenta y dos horas deberá requerir vía electrónica o mediante escrito a las empresas de plataformas digitales, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios o videos relacionados con la denuncia.
+> <small>(REFORMADO, B.O. 2 DE MARZO DE 2023)</small>
+
+La víctima u ofendido podrá solicitar la medida ante el Ministerio Público, quien dentro de setenta y dos horas y de veinticuatro horas en el caso de víctimas niñas, niños y adolescentes, deberá requerir vía electrónica o mediante escrito a las empresas de plataformas digitales, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios, o videos relacionados con la denuncia.
 
 El Ministerio Púbico, el Juez o Tribunal dictará las medidas necesarias para hacer cumplir esta disposición. El juez o Tribunal al momento de resolver el fondo del asunto podrá determinar que la medida a que se refiere el artículo 19 fracción XIX sea de manera definitiva.
 
@@ -2021,11 +2023,11 @@ Tratándose de imágenes o audios de cadáveres de mujeres, niñas, niños, adol
 
 ### CAPITULO II. DE LAS PERSONAS MENORES DE EDAD Y QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE MARZO DE 2023)</small>
 
 ###### ARTICULO 168.
 
-Comete el delito de corrupción el que procure, facilite, induzca, fomente, propicie, promueva o favorezca la corrupción de un menor de dieciocho años de edad, o quien no tuviere capacidad para comprender el significado del hecho, mediante acciones u omisiones tendientes o que concluyan en la realización de actos sexuales o conductas depravadas. A quien cometa este delito se le aplicará de cuatro a diez años de prisión y multa de veinte a doscientas Unidades de Medida y Actualización.
+Comete el delito de corrupción el que procure, facilite, induzca, fomente, propicie, promueva o favorezca por cualquier medio, incluidas, las tecnologías de la información, las herramientas de comunicación digital personal, así como por medio de redes sociales la corrupción de un menor de dieciocho años de edad, o quien no tuviere capacidad para comprender el significado del hecho, mediante acciones u omisiones tendientes o que concluyan en la realización de actos sexuales o conductas depravadas. A quien cometa este delito se le aplicará de cuatro a diez años de prisión y multa de veinte a doscientas Unidades de Medida y Actualización.
 
 > <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
@@ -2075,9 +2077,13 @@ ARTICULO 169 BIS.- A quien permita directa e indirectamente el acceso de una per
 
 Las mismas penas se impondrán al que ejecute o hiciere ejecutar a otra persona actos de exhibición sexual ante personas menores de edad o que no tengan la capacidad para comprender el significado del hecho.
 
-El que, por cualquier medio directo, vendiere, difundiere o exhibiere material pornográfico entre personas menores de edad o personas que no tengan la capacidad para comprender el significado del hecho, será castigado con la pena de prisión de seis meses a un año y multa de diez a doscientas Unidades de Medida y Actualización.
+> <small>(REFORMADO, B.O. 2 DE MARZO DE 2023)</small>
 
-Se impondrá pena de cuatro a ocho años de prisión y multa de veinte a doscientos Unidades de Medida y Actualización a quien induzca, facilite, procure, propicie u obligue que una persona menor de edad, o persona que no tenga la capacidad para comprender el significado del hecho realice, por cualquier medio y sin fines comerciales, actos o exhibiciones eróticas o sexuales, públicas o privadas que puedan afectar el libre desarrollo de su personalidad.
+El que, por cualquier medio directo, indirecto o digital, vendiere, difundiere o exhibiere material pornográfico entre niñas, niños y adolescentes o que no tengan la capacidad para comprender el significado del hecho, será castigado con la pena de prisión de seis meses a un año y multa de diez a doscientas Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 2 DE MARZO DE 2023)</small>
+
+Se impondrá pena de cuatro a ocho años de prisión y multa de veinte a doscientos (sic) Unidades de Medida y Actualización a quien induzca, facilite, procure, propicie u obligue que una persona menor de edad, o persona que no tenga la capacidad para comprender el significado del hecho realice, por cualquier medio ya sea directo, indirecto o digital y sin fines comerciales, actos o exhibiciones eróticas o sexuales, públicas o privadas que puedan afectar el libre desarrollo de su personalidad.
 
 No se actualizarán estos delitos tratándose de programas preventivos, educativos o informativos que diseñen o impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
 
@@ -2113,19 +2119,29 @@ Esta conducta se actualizará incluso cuando el pago o promesa de pago con diner
 
 Al que sin ánimo de explotación concerte, encubra o permita la explotación sexual de una persona menor de dieciocho años a través de la pornografía, las exhibiciones corporales públicas o privadas y las relaciones sexuales remuneradas, se le aplicará prisión de cuatro a ocho años y multa de diez a doscientas Unidades de Medida y Actualización.
 
-> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE MARZO DE 2023)</small>
 
 ###### ARTICULO 169-B.
 
-Se aplicará de nueve a dieciocho años de prisión y multa de setecientos cincuenta a dos mil doscientos cincuenta unidades de medida y actualización, a quien se aproveche de la confianza, subordinación o superioridad que tiene sobre un menor de dieciocho años, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole y ejecute, obligue, induzca o convenza a ejecutar cualquier acto sexual, con o sin su consentimiento.
+Se aplicará de nueve a dieciocho años de prisión y multa de setecientos cincuenta a dos mil doscientos cincuenta unidades de medida y actualización, a quien se aproveche por cualquier medio directo, indirecto o digital de la confianza, subordinación o superioridad que tiene sobre un menor de dieciocho años, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole y ejecute, obligue, induzca o convenza a ejecutar cualquier acto sexual, con o sin su consentimiento.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
 
 La misma pena se aplicará a quien cometa la conducta descrita del párrafo anterior, en contra de la persona que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
 
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
 Si el agente hace uso de violencia física, las penas se aumentarán en una mitad más.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
 
 El autor del delito deberá ser sujeto a tratamiento médico integral el tiempo que se requiera, mismo que no podrá exceder el tiempo que dure la pena de prisión impuesta.
 
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
 Además de las anteriores penas, el autor del delito perderá, en su caso, la patria potestad, la tutela, la curatela, la adopción, el derecho de alimentos y el derecho que pudiera tener respecto de los bienes de la víctima, en términos de la legislación civil.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
 
 Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de la pena de prisión antes señalada, será inhabilitado, destituido o suspendido, de su empleo público o profesión por un término igual a la pena impuesta.
 
@@ -3075,15 +3091,23 @@ Si a consecuencia del hostigamiento sexual la víctima pierde o se le obliga a a
 
 Se procederá contra el responsable de este delito a petición de parte ofendida, salvo que la víctima sea menor de dieciocho años, tenga alguna discapacidad o por cualquier causa no pueda resistirlo, así como cuando el activo sea servidor público, docente o ministro de culto, en estos casos se perseguirá de oficio.
 
-> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE MARZO DE 2023)</small>
 
-ARTICULO 212 BIS I.- Comete el delito de acoso sexual quién por cualquier medio, asedie sexualmente a una persona de cualquier sexo y la ponga en riesgo o que lesione su dignidad.
+ARTICULO 212 BIS I.- Comete el delito de acoso sexual quién por cualquier medio ya sea directo, indirecto o por medio de las herramientas de comunicación digital personal, asedie sexualmente a una persona de cualquier sexo y la ponga en riesgo o que lesione su dignidad.
+
+> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
 
 Al responsable de este delito se sancionará con una pena de cuatro a ocho años de prisión y multa de trescientas a quinientas Unidades de Medida y Actualización.
 
+> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
+
 Si la víctima del delito de acoso sexual es menor de dieciocho años, o con alguna discapacidad o no tuviere la capacidad de comprender el significado del hecho, la pena de prisión se aumentará hasta una tercera parte de la prevista en el párrafo anterior.
 
+> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
+
 Cuando el sujeto activo sea un servidor público o miembro de cualquier institución educativa o asistencia social, además de las penas señaladas se le destituirá de su cargo y se inhabilitará para ocupar cualquier puesto en el sector público hasta por diez años.
+
+> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
 
 Este delito será perseguido por querella del ofendido o de su legítimo representante, excepto cuando se trate de menores de edad, incapaces y cuando el sujeto activo era servidor público, en estos casos se perseguirá de oficio.
 
@@ -3479,7 +3503,9 @@ DELITOS CONTRA LA PAZ Y SEGURIDAD DE LAS PERSONAS
 
 Se aplicará prisión de tres días a tres años o multa de veinte a trescientos cincuenta Unidades de Medida y Actualización, y caución de no ofender:
 
-I.- Al que de cualquier modo amenace a otro con causarle un mal en su persona, en su honor, en sus bienes o en sus derechos, o en la persona, honor, bienes o derechos de alguien con quien esté ligado por algún vínculo; y
+> <small>(REFORMADA, B.O. 2 DE MARZO DE 2023)</small>
+
+I.- Al que de cualquier modo y por cualquier medio ya sea directo, indirecto o digital, amenace a otro con causarle un mal en su persona, en su honor, en sus bienes o en sus derechos, o en la persona, honor, bienes o derechos de alguien con quien esté ligado por algún vínculo; y
 
 II.- Al que por medio de amenazas de cualquier género, trate de impedir que otro ejecute lo que tiene derecho a hacer.
 
@@ -3655,9 +3681,9 @@ XXVI.- Firma Electrónica; o
 
 XXVII.- Cualquier otra información o documento que identifique física o electrónicamente a un individuo; o permita el acceso a sus bienes o patrimonio o responsabilidades.
 
-> <small>(ADICIONADO, B.O. 16 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, B.O. 2 DE MARZO DE 2023)</small>
 
-ARTICULO 241 BIS 2.- En caso de que quien usurpe la personalidad o identidad de otro, se valga para ello de una homonimia, de la igualdad física genética entre hermanos gemelos, o del parecido físico con el suplantado, para cometer el ilícito, se aumentarán en una mitad las sanciones previstas en el Artículo 241 Bis, para este delito. La misma pena a que refiere este artículo se aplicará cuando el ilícito sea cometido por un servidor público aprovechándose de sus funciones, o por quien sin serio (sic), se valga de su profesión o empleo para ello.
+ARTICULO 241 BIS 2.- En caso de que quien usurpe la personalidad o identidad de otro, se valga para ello de una homonimia, de la igualdad física genética entre hermanos gemelos, del parecido físico con el suplantado, así como la usurpación de identidad en las herramientas de comunicación digital personal para cometer el ilícito, se aumentarán en una mitad las sanciones previstas en el Artículo 241 Bis, para este delito. La misma pena a que se refiere este artículo se aplicará cuando el ilícito sea cometido por un servidor público aprovechándose de sus funciones, o por quien sin serlo, se valga de su profesión o empleo para ello.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 16 DE MARZO DE 2021)</small>
 
@@ -3939,7 +3965,9 @@ I.- La víctima presente algún signo de violencia sexual de cualquier tipo;
 
 II.- A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
 
-III.- Existan antecedentes o datos de cualquier tipo de violencia, en cualquier ámbito, del sujeto activo en contra de la víctima;
+> <small>(REFORMADA, B.O. 2 DE MARZO DE 2023)</small>
+
+III.- Existan antecedentes o datos de cualquier tipo de violencia, en cualquier ámbito incluidas las herramientas de comunicación digital personal, del sujeto activo en contra de la víctima;
 
 IV.- Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
 
@@ -5245,6 +5273,10 @@ Cuando el acto de maltrato o crueldad animal sea realizado por médico veterinar
 
 Se reducirá en una mitad la pena que corresponde al supuesto de grave negligencia.
 
+> <small>(ADICIONADO, B.O. 2 DE MARZO DE 2023)</small>
+
+Se incrementará en una tercera parte la sanción cuando en el acto de maltrato o crueldad animal se emplee el uso de pirotecnia.
+
 > <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 343.
@@ -5934,6 +5966,22 @@ Los nuevos contratos que se celebren entre los miembros del Comité de Participa
 ###### ARTÍCULO CUARTO.
 
 Las causas de remoción a los miembros del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, que se reforman mediante el presente decreto, serán aplicables para quienes actualmente desempeñen tal servicio.
+
+B.O. 2 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 38, QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 2 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 75, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SONORA Y DEL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 ###### ARTICULO QUINTO.
 
