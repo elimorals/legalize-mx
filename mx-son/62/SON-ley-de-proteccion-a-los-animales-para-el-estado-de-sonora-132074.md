@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-a-los-animales-para-el-estado-de-sonora-13207
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-03"
-last_updated: "2018-12-03"
+last_updated: "2023-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE MARZO DE 2023.
 
 Ley publicada en el Número 45 Sección II del Boletín Oficial del Estado de Sonora, el lunes 3 de diciembre de 2018.
 
@@ -225,9 +225,17 @@ VIII.- Descuidar su morada y las condiciones de aire, abrigo, alimento, movilida
 
 IX.- Los actos u omisiones carentes de un motivo razonable o legítimo que sean susceptibles de causarles dolores, sufrimientos considerables o afectación grave de su salud;
 
-X.- La utilización de aditamentos o sustancias que pongan en riesgo la integridad física de los animales, y el uso de los mismos en la celebración de ritos y usos tradicionales que puedan afectar su bienestar e integridad; y
+> <small>(REFORMADA, B.O. 2 DE MARZO DE 2023)</small>
 
-XI.- Las actividades de zoofilia con cualquier especie de animal.
+X.- La utilización de aditamentos o sustancias que pongan en riesgo la integridad física de los animales, y el uso de los mismos en la celebración de ritos y usos tradicionales que puedan afectar su bienestar e integridad;
+
+> <small>(REFORMADA, B.O. 2 DE MARZO DE 2023)</small>
+
+XI.- Las actividades de zoofilia con cualquier especie de animal; y
+
+> <small>(ADICIONADA, B.O. 2 DE MARZO DE 2023)</small>
+
+XII.- La detonación de pirotecnia con el fin de producir ruido que altere la salud o el normal comportamiento de los animales.
 
 ###### Artículo 14.
 
@@ -525,9 +533,11 @@ La creación y actividades de los albergues será regulada y supervisada por los
 
 ### CAPÍTULO ÚNICO. De la Inspección y Vigilancia
 
+> <small>(REFORMADO, B.O. 2 DE MARZO DE 2023)</small>
+
 ###### Artículo 61.
 
-La aplicación de las disposiciones de la presente Ley, así como las diligencias de inspección y vigilancia se realizarán por conducto de la Procuraduría.
+La aplicación de las disposiciones de la presente Ley, así como las diligencias de inspección y vigilancia y la aplicación de sanciones en materia administrativa, se realizarán por conducto de la Procuraduría Ambiental del Estado de Sonora.
 
 ###### Artículo 62.
 
@@ -641,7 +651,9 @@ V.- Aseguramiento del animal.
 
 VI.- Las demás que señale el Reglamento.
 
-La aplicación de las sanciones anteriores se efectuará en la forma y términos que señale el reglamento de la materia.
+> <small>(REFORMADO, B.O. 2 DE MARZO DE 2023)</small>
+
+La aplicación de las sanciones anteriores se efectuará por la Procuraduría Ambiental del Estado de Sonora, en la forma y términos que señale el reglamento de la materia.
 
 ###### Artículo 82.
 
@@ -680,3 +692,13 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veintisiete días del mes de septiembre del año dos mil dieciocho.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 2 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 75, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SONORA Y DEL CÓDIGO PENAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
