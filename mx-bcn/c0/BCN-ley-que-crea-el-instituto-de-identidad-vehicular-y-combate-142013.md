@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-el-instituto-de-identidad-vehicular-y-combate-1420
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-06"
-last_updated: "2020-03-06"
+last_updated: "2023-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # LEY QUE CREA EL INSTITUTO DE IDENTIDAD VEHICULAR Y COMBATE A LA CONTAMINACION DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS SESENTA DÍAS POSTERIORES A SU PUBLICACIÓN.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO TERCERO DEL DECRETO NO. 211, PUBLICADO EN EL P.O. DE 3 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY QUE CREA EL INSTITUTO DE IDENTIDAD VEHICULAR Y COMBATE A LA CONTAMINACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2023 (ABROGADA).
 
 Ley publicada en la Sección I del No. 13 del Periódico Oficial del Estado de Baja California, el viernes 6 de marzo de 2020.
 
@@ -390,3 +390,33 @@ AMADOR RODRÍGUEZ LOZANO
 SECRETARIO GENERAL DE GOBIERNO.
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE MARZO DE 2023.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL PUNTO DEL “DECRETO NO. 211 POR EL QUE SE REFORMA EL ARTÍCULO 26, DE LA LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO EL ARTÍCULO 32, FRACCIÓN XXIX, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA; Y SE ABROGA LA LEY QUE CREA EL INSTITUTO DE IDENTIDAD VEHICULAR Y COMBATE A LA CONTAMINACIÓN DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN (SIC) PERIÓDICO OFICIAL NO. 13, SECCIÓN I, DE FECHA 06 DE MARZO DE 2020”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+TERCERO.- Se abroga la Ley que crea el Instituto de Identidad Vehicular y Combate a la Contaminación del Estado de Baja California, publicada en (sic) Periódico Oficial No. 13, Sección 1, de fecha 06 de marzo de 2020, para quedar como sigue:
+
+Se abroga la Ley que crea el Instituto de Identidad Vehicular y Combate a la Contaminación del Estado de Baja California, publicada en (sic) Periódico Oficial No. 13, Sección 1, de fecha 06 de marzo de 2020.
+
+## ARTÍCULOS TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se extingue el organismo público descentralizado denominado Instituto de Identidad Vehicular y Combate a la Contaminación del Estado de Baja California, el cual conservará su personalidad jurídica exdusivamente (sic) para efectos del proceso de liquidación.
+
+TERCERO.- El Ejecutivo Estatal, por conducto de la Secretaría de Hacienda en su carácter de coordinadora de sector, señalará las bases para llevar a cabo la liquidación derivada de la extinción del Instituto de Identidad Vehicular y Combate a la Contaminación del Estado de Baja California, las cuales deberán considerar la eficiencia, eficacia y transparencia en todo momento del proceso de liquidación, así como la adecuada protección del interés público, por lo que podrá resolver cualquier situación inherente a dicho proceso.
+
+El Instituto de Identidad Vehicular y Combate a la Contaminación del Estado de Baja California en su proceso de extinción deberá transferir a la Secretaría de Hacienda los censos y registros de identificación vehicular que tuviese bajo su administración.
+
+CUARTO.- La liquidación del Instituto de Identidad Vehicular y Combate a la Contaminación del Estado de Baja California estará a cargo de la Secretaría de Hacienda, para lo cual tendrá las más amplias facultades para pleitos y cobranzas, actos de administración, y actos de dominio, y para suscribir u otorgar títulos de crédito, incluyendo aquéllas que, en cualquier materia, requieran poder o cláusula especial en términos de las disposiciones aplicables, así como para realizar cualquier acción que coadyuve a un expedito y eficiente proceso de liquidación.
+
+QUINTO.- El Ejecutivo Estatal, por conducto de la Secretaría de Hacienda, intervendrá de inmediato para tomar el control y disponer de todo tipo de derechos, activos, juicios, obligaciones, pasivos, contratos, convenios y recursos, así como para acreditar la extinción de los órganos de dirección, unidades administrativas y demás instancias de funcionamiento del Instituto de Identidad Vehicular y Combate a la Contaminación del Estado de Baja California.
+
+El Ejecutivo Estatal, por conducto de la Oficialía Mayor de Gobierno, intervendrá de inmediato para tomar el control y disponer de todo tipo de bienes, los cuales ingresarán al patrimonio del dominio privado del Estado, en términos de lo dispuesto por la Ley General de Bienes del Estado de Baja California.
+
+SEXTO.- Se respetarán los derechos laborales de los trabajadores del Instituto de Identidad Vehicular y Combate a la Contaminación del Estado de Baja California.
+
+SÉPTIMO.- Una vez entrado en vigor el presente Decreto, remítase al Registro de Organismos Descentralizados para que proceda a cancelar la inscripción de la Entidad.
