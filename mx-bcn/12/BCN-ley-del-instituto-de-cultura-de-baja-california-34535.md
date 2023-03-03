@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-cultura-de-baja-california-34535"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-24"
-last_updated: "2018-11-30"
+last_updated: "2023-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 24 de octubre de 2003.
 
@@ -207,9 +207,11 @@ XXXI. Las demás que sean necesarias para el cumplimiento de su objeto, así com
 
 ### CAPÍTULO IV. DE LA VINCULACIÓN CON EL SECTOR EDUCATIVO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 13.
 
-Para el mejor cumplimiento de su objeto, el ICBC actuará de manera coordinada con la Secretaría de Educación y Bienestar Social, y con las entidades de la Administración Pública Paraestatal agrupadas en el sector, a través de la realización de las acciones siguientes:
+Para el mejor cumplimiento de su objeto, el ICBC actuará de manera coordinada con la Secretaría de Educación y con las entidades de la Administración Pública Paraestatal agrupadas en el sector, a través de la realización de las acciones siguientes:
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
@@ -217,7 +219,9 @@ I. Promocionar y gestionar cursos de capacitación, formación, profesionalizaci
 
 II. Trabajar coordinadamente con el sector educativo a través de los programas vigentes;
 
-III. Participar en el ámbito de su competencia, en la formulación y ejecución de los programas que señala el artículo 31, fracción III de la Ley Orgánica de la Administración Pública del Estado de Baja California;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2023)</small>
+
+III. Participar en el ámbito de su competencia, en la formulación y ejecución de los programas que señala la Ley Orgánica del Poder Ejecutivo del Estado de Baja California;
 
 IV. Coadyuvar en la capacitación de los instructores en materia de educación cultural y artística;
 
@@ -249,29 +253,47 @@ II. La Dirección General.
 
 La máxima autoridad del ICBC, es la Junta de Gobierno que se integrará de la manera siguiente:
 
-I. Un Presidente, que será el Titular de la Secretaría de
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2023)</small>
 
-Educación y Bienestar Social, y
+I. Una Presidencia, que será la persona titular de la Secretaría de Cultura, y
 
 II. Los vocales, que serán:
 
-a) El Secretario General de Gobierno;
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
 
-b) El Secretario de Planeación y Finanzas;
+a) La persona titular de la Secretaría General de Gobierno;
 
-c) El Secretario de Infraestructura y Desarrollo Urbano;
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
 
-d) El Oficial Mayor de Gobierno;
+b) La persona titular de la Secretaría de Hacienda;
 
-e) Un representante de las instituciones públicas de educación media superior, superior e institutos de investigación;
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
 
-f) Un representante de las instituciones privadas de educación media superior, superior e institutos de investigación, y
+c) La persona titular de la Secretaría de Educación;
 
-g) Un representante de los organismos empresariales del sector privado en el Estado.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE ABRIL DE 2013)</small>
+d) La persona titular de la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial;
 
-h) Un representante de los grupos y organizaciones de cada una de las tres artes escénicas las cuales son el teatro, la danza y la música que operen en forma independiente en la entidad legalmente constituidas.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
+
+e) La persona titular de la Oficialía Mayor de Gobierno;
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
+
+f) Una persona representante de las instituciones públicas de educación media superior, superior e institutos de investigación;
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
+
+g) Una persona representante de las instituciones privadas de educación media superior, superior e institutos de investigación;
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
+
+h) Una persona representante de los organismos empresariales del sector privado en el Estado; y
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
+
+i) Una persona representante de los grupos y organizaciones de cada una de las tres artes escénicas las cuales son el teatro, la danza y la música que operen en forma independiente en la entidad legalmente constituidas.
 
 Cuando así lo considere necesario, la Junta de Gobierno podrá invitar a formar parte de la misma con derecho a voz pero sin voto, a los particulares o a los representantes de los organismos públicos o privados afines a su objeto.
 
@@ -279,13 +301,15 @@ Cuando así lo considere necesario, la Junta de Gobierno podrá invitar a formar
 
 Para el debido cumplimiento de sus atribuciones, la Junta de Gobierno contará con un Secretario Técnico, que será el Director General del ICBC, el cual podrá participar en las sesiones de la misma con derecho a voz pero sin voto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 17.
 
-Los vocales señalados por los incisos e), f), g) y h) de la fracción II, del artículo 15 de esta Ley, serán propuestos respectivamente, por las instituciones públicas y privadas de educación media superior, superior e institutos de investigación, de los organismos empresariales del sector privado en el Estado, así como un representante de los grupos y organizaciones de cada una de las tres artes escénicas las cuales son el teatro, la danza y la música que operen en forma independiente en la entidad legalmente constituidas y se elegirán conforme al procedimiento siguiente:
+Los vocales señalados por los incisos, f), g), h) e i) de la fracción II, del artículo 15 de esta Ley, serán propuestos respectivamente, por las instituciones públicas y privadas de educación media superior, superior e institutos de investigación, de los organismos empresariales del sector privado en el Estado, así como un representante de los grupos y organizaciones de cada una de las tres artes escénicas las cuales son el teatro, la danza y la música que operen en forma independiente en la entidad legalmente constituidas y se elegirán conforme al procedimiento siguiente:
 
-I. La Secretaría de Educación y Bienestar Social, será la responsable de convocar y supervisar el proceso de elección;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2023)</small>
+
+I. La Secretaría de Cultura será la responsable de convocar y supervisar el proceso de elección
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
 
@@ -537,11 +561,13 @@ V. Las demás que resulten necesarias para el adecuado cumplimiento de sus funci
 
 ### CAPÍTULO VIII. DE LA VIGILANCIA DEL ICBC
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 44.
 
-La vigilancia del ICBC estará a cargo de un comisario público propietario y un suplente, que serán designados por el titular de la Dirección de Control y Evaluación Gubernamental, y ejercerán las atribuciones que expresamente les confieran las leyes y demás disposiciones aplicables en la materia. El comisario público asistirá y participará en las sesiones de la Junta de Gobierno, con derecho a voz pero sin voto.
+La vigilancia del ICBC estará a cargo de una Comisaria o Comisario Público Propietario y una persona suplente, que serán designados por la persona titular de la Secretaría de la Honestidad y la Función Pública, y ejercerán las atribuciones que expresamente les confieran las leyes y demás disposiciones aplicables en la materia. El o la comisaria asistirá y participará en las sesiones de la Junta de Gobierno, con derecho a voz, pero sin voto.
 
-El ICBC contará dentro de su estructura con un órgano de control interno, que operará conforme a los lineamientos que emita la Dirección de Control y Evaluación Gubernamental y ejercerá las funciones que le confieran la Ley de la materia y demás ordenamientos aplicables.
+El ICBC contará dentro de su estructura con un órgano de control interno, que operará conforme a los lineamientos que emita la Secretaría de la Honestidad y la Función Pública y ejercerá las funciones que le confieran la Ley de la materia y demás ordenamientos aplicables.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -650,3 +676,9 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 3 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 208 POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 13, 15, 17 Y 44 DE LA LEY DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
