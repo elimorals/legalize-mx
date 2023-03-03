@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2022-12-30"
+last_updated: "2023-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -2057,19 +2057,21 @@ LOS MAGISTRADOS Y JUECES DEL PODER JUDICIAL, NO SERÁN CONSIDERADOS TRABAJADORES
 
 DURANTE SU ENCARGO, LOS MAGISTRADOS Y JUECES DEL PODER JUDICIAL, SÓLO PODRÁN SER REMOVIDOS EN LOS TÉRMINOS QUE SE SEÑALAN EN ESTA CONSTITUCIÓN Y LA LEY.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>[N. DE E. VÉASE LA HISTORIA LEGISLATIVA COMPLETA DEL ARTÍCULO, P.O. 3 DE MARZO DE 2023]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MARZO DE 2023)</small>
 
-###### ARTICULO 58.
+Para la conformación de los órganos jurisdiccionales del Poder Judicial debe observarse el principio de paridad de género.
 
-EL TRIBUNAL SUPERIOR DE JUSTICIA ESTARÁ INTEGRADO CUANDO MENOS POR DIECISIETE MAGISTRADOS, PUDIENDO AUMENTAR SU NÚMERO DE ACUERDO A LAS NECESIDADES DE LA ADMINISTRACIÓN DE JUSTICIA A PROPUESTA DEL GOBERNADOR DEL ESTADO Y ACTUARÁ EN LOS TÉRMINOS QUE DISPONGA LA LEY.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2023)</small>
 
-(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO NOVENO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+###### ARTÍCULO 58.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+El Tribunal Superior de Justicia estará integrado por trece Magistrados Numerarios como mínimo y tres Supernumerarios. Funcionará en los términos que disponga la Ley.
 
-EL CONGRESO DEL ESTADO ESTA FACULTADO PARA RESOLVER SOBERANA Y DISCRECIONALMENTE RESPECTO A LOS NOMBRAMIENTOS, RATIFICACIÓN O NO RATIFICACIÓN Y REMOCIÓN DE LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA. EN LOS MISMOS TÉRMINOS RESOLVERÁ SOBRE LA DESIGNACIÓN Y REMOCIÓN DE LOS INTEGRANTES DEL CONSEJO DE LA JUDICATURA. DICHAS RESOLUCIONES SERÁN DEFINITIVAS E INATACABLES, POR LO QUE NO PROCEDERÁ JUICIO, RECURSO O MEDIO DE DEFENSA ORDINARIO O EXTRAORDINARIO ALGUNO EN CONTRA DE LAS MISMAS.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
+
+El Congreso del Estado está facultado para resolver soberana y discrecionalmente respecto a los nombramientos, ratificación o no ratificación y remoción de los Magistrados del Tribunal Superior de Justicia, observando el principio de paridad de género. En los mismos términos resolverá sobre la designación y remoción de los integrantes del Consejo de la Judicatura. Dichas resoluciones serán definitivas e inatacables, por lo que no procederá juicio, recurso o medio de defensa ordinario o extraordinario alguno en contra de las mismas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -2251,9 +2253,9 @@ VI. Haber residido en el Estado durante los cinco años anteriores al día de su
 
 VII. NO HABER OCUPADO CARGO DE ELECCIÓN POPULAR, TITULAR DE UNA DEPENDENCIA O ENTIDAD DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, ESTATAL O MUNICIPAL, DE DIRIGENCIA DE ALGÚN PARTIDO POLÍTICO DURANTE EL AÑO PREVIO AL DÍA DE LA DESIGNACIÓN.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
 
-Las designaciones de jueces serán hechas, preferentemente de entre aquellas personas que presten o hubieren prestado sus servicios con eficacia y probidad en la Administración de Justicia, o que, sin haber laborado en el Poder Judicial, lo merezcan por su honorabilidad, competencia y antecedentes profesionales.
+Las designaciones de jueces serán hechas, bajo el principio de paridad de género, y preferentemente de entre aquellas personas que presten o hubieren prestado sus servicios con eficacia y probidad en la Administración de Justicia, o que, sin haber laborado en el Poder Judicial, lo merezcan por su honorabilidad, competencia y antecedentes profesionales.
 
 (NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -2564,6 +2566,8 @@ El Municipio es la base de la organización territorial del Estado; es la instit
 El Municipio posee personalidad jurídica y patrimonio propio y goza de plena autonomía para reglamentar directa y libremente las materias de su competencia.
 
 Cada Municipio será gobernado por un Ayuntamiento de elección popular directa que radicará en la cabecera de cada municipalidad y no habrá ninguna autoridad intermedia entre éstos y el Gobierno del Estado.
+
+> <small>(REFORMADO [CON SUS FRACCIONES], P.O. 13 DE ABRIL DE 2001)</small>
 
 Para crear o suprimir un Municipio se requiere:
 
@@ -5640,3 +5644,13 @@ PRIMERO. Una vez aprobada la presente túrnese a los ayuntamientos del Estado de
 SEGUNDO. Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los ayuntamientos del estado procédase a realizar la declaratoria de incorporación constitucional respectiva.
 
 TERCERO. La presente reforma, entrara en vigor al día siguiente de su publicación el periódico oficial del Estado
+
+P.O. 3 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 207 POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 57, 58 Y 62 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+Artículo Primero.- Aprobadas que sean las presentes reformas, túrnese a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+Artículo Segundo.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+Artículo Tercero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
