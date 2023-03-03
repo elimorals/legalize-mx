@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-del-instituto-de-la-funcion-registral-140198
 country: "mx"
 rank: "codigo"
 publication_date: "2020-01-13"
-last_updated: "2020-01-13"
+last_updated: "2023-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO DE LA FUNCION REGISTRAL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PENÚLTIMO PÁRRAFO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 3 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MARZO DE 2023 (ABROGADO).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 13 de enero de 2020.
 
@@ -487,3 +489,13 @@ ________________________(8)______________________
 (7) Año de elaboración de la Carta Compromiso.
 
 (8) Nombre y firma de la o el servidor público que elabora la Carta Compromiso.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 3 DE MARZO DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL PENÚLTIMO PÁRRAFO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO.]</small>
+
+Se abroga el Código de Conducta del Instituto de la Función Registral del Estado de México, publicado en el Periódico Oficial denominado “Gaceta del Gobierno”, en fecha 13 de enero del año 2020.
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 1.2 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MÉXICO.]</small>
