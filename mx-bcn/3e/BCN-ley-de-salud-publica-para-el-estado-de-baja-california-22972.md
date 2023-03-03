@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2023-02-22"
+last_updated: "2023-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -2455,6 +2455,12 @@ Esta información servirá de base para que la Secretaría de Salud del Estado i
 
 ARTÍCULO 144 OCTIES.- El incumplimiento a lo previsto en el artículo anterior, así como a lo previsto en el artículo 144 QUATER, dará lugar a que (sic) Secretaría de Salud del Estado aplique medidas de seguridad y/o sanciones a que refiere esta Ley.
 
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+ARTÍCULO 144 NOVIES.- Las instituciones públicas que forman parte del Sistema Estatal de Salud podrán integrar la cirugía bariátrica como tratamiento de la obesidad mórbida y sus comorbilidades, de conformidad con las disposiciones jurídicas aplicables. Los candidatos a cirugía bariátrica deberán cumplir con los criterios de selección, de acuerdo a las normas y protocolos de salud en la materia.
+
+Las instituciones de salud pública y privada, así como los establecimientos autorizados que practiquen la cirugía bariátrica, procurarán contar con la infraestructura multidisciplinaria adecuada para dichos procedimientos de alta complejidad, de conformidad con las disposiciones jurídicas aplicables.
+
 #### SECCION X. DE LOS TRANSPORTES DE CARGA
 
 ###### ARTÍCULO 145.
@@ -3974,3 +3980,11 @@ PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Dentro de un plazo de sesenta días a la entrada en vigor de las presentes reformas, la Secretaría de Salud deberá emitir los lineamientos bajo los cuales funcionarán las comisiones que se establezcan dentro de las instituciones de salud pública bajo su responsabilidad.
 
 TERCERO. Cada Comisión de Vigilancia de Servicios de Salud Pública se deberá instalar dentro de los noventa días siguientes a la publicación de las presentes reformas.
+
+P.O. 3 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 214 POR EL QUE SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 144 NOVIES, A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las erogaciones que deban efectuar las Instituciones de Salud Pública, para la realización de cirugías bariátricas, se sujetarán a los recursos presupuestales que el Congreso del Estado apruebe para esos fines, así como al cumplimiento de las condiciones previstas en las disposiciones normativas, lineamientos, acuerdos y políticas que determine la autoridad federal de salud en esa materia.
