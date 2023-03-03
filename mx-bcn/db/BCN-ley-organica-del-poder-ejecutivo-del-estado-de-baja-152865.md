@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-ejecutivo-del-estado-de-baja-152865"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-12-06"
-last_updated: "2022-12-30"
+last_updated: "2023-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2023.
 
 Ley publicada en el Número Especial 99 del Periódico Oficial del Estado de Baja California, el lunes 6 de diciembre de 2021.
 
@@ -537,7 +537,9 @@ XXVII. Establecer las bases para el monitoreo, control y administración de ries
 
 XXVIII. Cobrar y verificar el debido cumplimiento, directamente o a través del Servicio de Administración Tributaria del Estado de Baja California (SAT BC), de las contribuciones y demás ingresos que tienen derecho a percibir las entidades paraestatales de la Administración Pública por cualquier concepto, en los términos de los convenios que se celebren para tal efecto;
 
-XXIX. Organizar, operar y administrar los censos y registros de identificación vehicular, a través del Instituto de Identidad Vehicular y Combate a la Contaminación del Estado, que le estará sectorizado;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2023)</small>
+
+XXIX. Organizar, operar y administrar los censos y registros de identificación vehicular, que en su caso se requieran;
 
 XXX. Fijar y ejecutar en el ámbito de su competencia, las normas, políticas, lineamientos y criterios técnicos en materia de tecnología de la información y telecomunicaciones, a que deberá sujetarse para el mejor desempeño y cumplimiento de sus atribuciones, en los términos de la presente Ley y el reglamento interno correspondiente; y,
 
@@ -1043,7 +1045,7 @@ XL. Impulsar la creación del Consejo Estatal de la Industria del Turismo Médic
 
 XLI. Promover y diseñar la política de salud veterinaria que incluya el programa estatal de zoonosis y ejecutar y evaluar las acciones preventivas e integrales de control, en coordinación con la Secretaría del Medio Ambiente y Desarrollo Sustentable a través del órgano que se determine;
 
-XLII. Participar, en el ámbito de su competencia en la formulación de propuestas ante la Comisión Fronteriza Binacional México – Estados Unidos, a fin de impulsar el intercambio médico y sanitario binacional; y,
+XLII. Participar, en el ámbito de su competencia en la formulación de propuestas ante la Comisión Fronteriza Binacional México - Estados Unidos, a fin de impulsar el intercambio médico y sanitario binacional; y,
 
 XLIII. Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
 
@@ -1951,8 +1953,14 @@ P.O. 30 DE DICIEMBRE DE 2022.
 
 P.O. 30 DE DICIEMBRE DE 2022.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NO. 195 POR EL QUE “SE APRUEBA LA REFORMA A LOS ARTÍCULOS 21 Y 41 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 195 POR EL QUE "SE APRUEBA LA REFORMA A LOS ARTÍCULOS 21 Y 41 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA".]
 
 Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo. El Ejecutivo Estatal dentro de los noventa días hábiles siguientes, contados a partir de la entrada en vigor del presento Decreto, realizará las modificaciones reglamentarias correspondientes.
+
+P.O. 3 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 211 POR EL QUE SE REFORMA EL ARTÍCULO 26, DE LA LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO EL ARTÍCULO 32, FRACCIÓN XXIX, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA; Y SE ABROGA LA LEY QUE CREA EL INSTITUTO DE IDENTIDAD VEHICULAR Y COMBATE A LA CONTAMINACIÓN DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN (SIC) PERIÓDICO OFICIAL NO. 13, SECCIÓN I, DE FECHA 06 DE MARZO DE 2020”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
