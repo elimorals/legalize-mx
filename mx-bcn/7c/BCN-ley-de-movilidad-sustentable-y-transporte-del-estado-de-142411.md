@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-movilidad-sustentable-y-transporte-del-estado-de-142411"
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-27"
-last_updated: "2020-03-27"
+last_updated: "2023-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2023.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 27 de marzo de 2020.
 
@@ -473,9 +473,11 @@ Para el debido cumplimiento de la presente Ley corresponde a la Secretaría de I
 
 ### CAPÍTULO II. DEL INSTITUTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 26.
 
-El Instituto de Movilidad Sustentable del Estado de Baja California, es un organismo público descentralizado, con personalidad jurídica, patrimonio propio y autonomía de decisión, el cual tiene por objeto planificar, regular, controlar, administrar y gestionar la movilidad y el transporte público de personas y bienes en todas sus modalidades, garantizando las condiciones y derechos para el desplazamiento de las personas de manera segura, igualitaria, sustentable y eficiente.
+El Instituto, es un organismo público descentralizado, con personalidad jurídica y patrimonio propio, el cual tiene por objeto planificar, regular, controlar, administrar y gestionar la movilidad y el transporte público de personas y bienes en todas sus modalidades, garantizando las condiciones y derechos para el desplazamiento de las personas de manera segura, igualitaria, sustentable, eficiente, así como el combate a la contaminación.
 
 Para la eficiente atención de sus asuntos, el Instituto contará con la estructura, administrativa, ejecutiva y operativa que considere necesaria, para el cumplimiento de las atribuciones señaladas en la presente Ley y su Reglamento, coordinándose con los diferentes órdenes de Gobierno.
 
@@ -2392,3 +2394,11 @@ GOBERNADOR DEL ESTADO
 AMADOR RODRÍGUEZ LOZANO
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 211 POR EL QUE SE REFORMA EL ARTÍCULO 26, DE LA LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO EL ARTÍCULO 32, FRACCIÓN XXIX, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA; Y SE ABROGA LA LEY QUE CREA EL INSTITUTO DE IDENTIDAD VEHICULAR Y COMBATE A LA CONTAMINACIÓN DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN (SIC) PERIÓDICO OFICIAL No. 13, SECCIÓN I, DE FECHA 06 DE MARZO DE 2020".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
