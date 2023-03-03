@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-adopcion-y-acogimiento-familiar-del-estado-de-95014"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-01"
-last_updated: "2021-04-05"
+last_updated: "2023-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE ADOPCION Y ACOGIMIENTO FAMILIAR DEL ESTADO DE MICHOACAN DE OCAMPO (ANTES: LEY DE ADOPCION DEL ESTADO DE MICHOACAN DE OCAMPO)
 
-LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
+LEY DE ADOPCIÓN Y ACOGIMIENTO FAMILIAR DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el lunes 1 de julio de 2013.
 
@@ -41,123 +41,103 @@ NÚMERO 133
 
 Se expide la Ley de Adopción del Estado de Michoacán de Ocampo para quedar como sigue:
 
-LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2023)</small>
+
+LEY DE ADOPCIÓN Y ACOGIMIENTO FAMILIAR DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 1.
 
-Esta Ley es de orden público e interés social, de observancia general y obligatoria en el Estado de Michoacán, y tiene como objeto garantizar que las niñas, niños y adolescentes sean adoptados con pleno respeto y garantía de sus derechos humanos, de conformidad con el interés superior de la niñez y adolescencia.
+Esta Ley es de orden público e interés social, de observancia general y obligatoria en el Estado de Michoacán de Ocampo y, tiene como objeto garantizar que las niñas, niños y adolescentes sean adoptados o acogidos con pleno respeto de sus derechos humanos, y atendiendo el interés superior de la niñez.
 
-Su aplicación y vigilancia corresponde al Poder Ejecutivo del Estado a través del Sistema para el Desarrollo Integral de la Familia Michoacana, del Consejo Técnico de Adopción y de la Procuraduría de Protección de Niñas, Niños y Adolescentes; a la Fiscalía General del Estado y al Poder Judicial del Estado.
+Su aplicación y vigilancia corresponde al Poder Ejecutivo del Estado a través de la Procuraduría de Protección a Niñas, Niños y Adolescentes del Sistema Para el Desarrollo Integral de la Familia, Michoacán, del Consejo Técnico de Adopción y Acogimiento Familiar y a la Fiscalía General del Estado de Michoacán de Ocampo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 2.
 
-En la presente Ley se atenderá a lo establecido por la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales en materia de adopción y protección a la niñez y adolescencia, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Michoacán de Ocampo, el Código Familiar para el Estado de Michoacán de Ocampo y el Reglamento del Consejo Técnico de Adopción del Estado. La interpretación de esta Ley se hará siempre atendiendo al interés superior de la niñez y adolescencia.
+En la presente Ley se atenderá a lo establecido por la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales en materia de adopción y protección a la niñez y adolescencia, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Michoacán de Ocampo, el Código Familiar para el Estado de Michoacán de Ocampo, y el Reglamento del Consejo Técnico de Adopción y Acogimiento Familiar del Estado. La interpretación de esta Ley se hará siempre atendiendo al interés superior de la niñez.
 
 En todo lo no previsto en la presente Ley se aplicará de manera supletoria el Código de Procedimientos Civiles del Estado de Michoacán de Ocampo.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 3.
 
 Para efectos de esta Ley, se entiende por:
 
-I. Adolescente. Persona desde los doce hasta antes de los dieciocho años de edad;
+I. Acogimiento Familiar: Medida de Protección temporal, que tiene como objetivo brindar a una niña, niño o adolescente, un entorno familiar que cuide de su bienestar, otorgándole seguridad y desarrollo integral, que por diversas causas o situaciones estén separados de su familia nuclear, de origen o extensa. El acogimiento familiar, no deberá de entenderse como adopción, sino, una forma más de restituir el derecho a vivir en condiciones de bienestar y a un sano desarrollo integral, como una alternativa al acogimiento residencial;
 
-II. Adopción. Acto jurídico por el cual el Juez de lo familiar constituye una relación de filiación entre adoptante y el adoptado, al mismo tiempo que establece un parentesco equiparable en sus efectos al consanguíneo entre el adoptado y la familia del adoptante y entre éste y los descendientes del adoptado;
+II. Acogimiento residencial: Aquél brindado por centros de asistencia social como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+III. Adolescente: Persona desde los doce años hasta antes de los dieciocho años de edad;
 
-III. Adopción Internacional. Aquélla que se realice en términos de lo dispuesto por los tratados internacionales en la materia;
+IV. Adopción: Acto Jurídico que busca la protección y garantía de los derechos de los menores de edad, que no están integrados a una familia, con el afán de incorporarlos a un hogar donde pueden proporcionarles afecto, cuidados, educación y condiciones adecuadas para su desarrollo integral y que se consuma con el acto jurídico por el cual, el juez de lo familiar constituye una relación de filiación entre adoptante y el adoptado, al mismo tiempo que establece un parentesco equiparable en sus efectos al consanguíneo entre el adoptado y la familia del adoptante y entre éste y los descendientes del adoptado;
 
-IV. Adoptado. Niña, niño o adolescente que se integra a una familia en calidad de hijo, para recibir de ésta todos los medios suficientes para su pleno desarrollo físico, mental, social y emocional;
+V. Adopción Internacional: Aquélla que se realice en términos de lo dispuesto por los tratados internacionales en la materia;
 
-V. Adoptante. Persona o personas que culminaron favorablemente el proceso contemplado en la presente Ley, recibiendo en el seno familiar a una niña, niño o adolescente en calidad de hijo a fin de brindarle los medios suficientes para su pleno desarrollo físico, mental, social y emocional;
+VI. Adoptado: Niña, niño o adolescente que se integra a una familia en calidad de hijo, para recibir de ésta todos los medios suficientes para su pleno desarrollo físico, mental, social y emocional;
 
-VI. Consejo. Consejo Técnico de Adopción en el Estado, órgano colegiado interdisciplinario, cuya finalidad es procurar la adecuada integración de las niñas, niños y adolescentes sujetos a adopción a una familia que les proporcione las condiciones necesarias para su pleno y armonioso desarrollo;
+VII. Adoptante: Persona o personas que culminaron favorablemente el proceso contemplado en la presente Ley, recibiendo en el seno familiar a una niña, niño o adolescente en calidad de hijo a fin de brindarle los medios suficientes para su pleno desarrollo físico, mental, social y emocional;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+VIII. Asignación: Determinación del Consejo Técnico de Adopción y Acogimiento Familiar, sobre la asignación de una niña, niño o adolescentes (sic) con él, la o los solicitantes de Adopción o Acogimiento Familiar, sea el caso, para satisfacer las necesidades del menor de edad respetando la lista de espera, tomando en consideración la familia o solicitante más adecuado a las necesidades específicas de la niña, niño o adolescente asignado o asignados;
 
-VII. Certificado de Idoneidad. Documento emitido por el Consejo Técnico de Adopción en el Estado, en el que se expresa de manera positiva o negativa si el solicitante o solicitantes son idóneos para adoptar, de acuerdo al expediente técnico presentado por los mismos y de la entrevista realizada;
+IX. Informe de Situación Actualizada: Documento emitido por el Consejo Técnico de Adopción y Acogimiento Familiar, en el cual informe la situación de las niñas, niños y adolescentes, referente a su estado médico, psicológico, evolución personal y antecedentes de su medio social, para asignarse en acogimiento familiar;
 
-VIII. DIF. Sistema para el Desarrollo Integral de la Familia Michoacán;
+X. Certificado de Idoneidad: Documento emitido por el Consejo Técnico de Adopción y Acogimiento Familiar del Estado, en el que se expresa de manera positiva o negativa si el solicitante o solicitantes son idóneos para adoptar, de acuerdo con el expediente técnico presentado por los mismos y de la entrevista realizada;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+XI. Congreso: El Congreso del Estado de Michoacán de Ocampo;
 
-IX. Familia de Origen. Aquélla compuesta por titulares de la patria potestad, tutela y custodia, respecto de quienes tienen parentesco ascendente hasta segundo grado con las niñas, niños y adolescentes;
+XII. Consejo: Consejo Técnico de Adopción y Acogimiento Familiar del Estado de Michoacán de Ocampo, órgano colegiado interdisciplinario, cuya finalidad es procurar la adecuada integración de las niñas, niños y adolescentes sujetos a adopción o acogida a una familia que les proporcione las condiciones necesarias para su pleno y armonioso desarrollo, permitiéndoles restituir el derecho a vivir en familia; evaluando y certificando la idoneidad de los ambientes familiares de los solicitantes de adopción y acogimiento familiar para que, a las niñas, niños y adolescentes, que por diversas razones no pueden vivir con su familia de origen o extensa;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+XIII. Convivencia: Etapa del trámite administrativo en la que niñas, niños y adolescentes interactúan con los solicitantes de adopción o acogimiento familiar, para establecer el vínculo afectivo y evaluar su viabilidad; la cual deberá ser progresiva, estableciendo periodos por los profesionales de la salud mental y emocional, atendiendo las necesidades específicas de la niña, niño o adolescente;
 
-X. Familia Extensa o Ampliada. Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
+XIV. DIF Nacional: Sistema Nacional para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+XV. DIF Estatal: Sistema Estatal para el Desarrollo Integral de la Familia Michoacán;
 
-XI. Familia de Acogimiento Pre-adoptivo. Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez y adolescencia;
+XVI. DIF Municipal: Sistemas Municipales para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+XVII. Familia de Acogida: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
 
-XII. Interés Superior de la Niñez y Adolescencia. La prioritaria atención del conjunto de derechos, o de cualquiera de ellos, de niñas, niños y adolescentes, aún frente al de sus progenitores o de cualquier otra persona, colocándolo siempre en la situación que más beneficie a su pleno y armonioso desarrollo integral;
+XVIII. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+XIX. Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela y custodia, respecto de quienes tienen parentesco ascendente hasta segundo grado con las niñas, niños y adolescentes;
 
-XIII. Ley de Derechos. Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Michoacán de Ocampo;
+XX. Familia Pre-adoptiva: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes que se encuentran en el trámite administrativo de la adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
 
-XIV. Ley. Ley de Adopción del Estado de Michoacán de Ocampo;
+XXI. FGE: Fiscalía General del Estado de Michoacán;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+XXII. Interés Superior de la Niñez y Adolescencia: La prioritaria atención del conjunto de derechos, o de cualquiera de ellos, de niñas, niños y adolescentes, aún frente al de sus progenitores o de cualquier otra persona, colocándolo siempre en la situación que más beneficie a su pleno y armonioso desarrollo integral;
 
-XV. Niña, Niño o Adolescente Abandonado. Calidad que se le otorga por parte de la Procuraduría a las Niñas, Niños y Adolescentes, cuyo origen se conoce y que fueron colocados en una situación de desamparo por quienes conforme a la Ley estén obligados a su custodia, protección y cuidado;
+XXIII. Ley: Ley de Adopción y Acogimiento Familiar del Estado de Michoacán de Ocampo;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+XXIV. Ley de los Derechos: Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Michoacán de Ocampo;
 
-XVI. Niña, Niño o Adolescente Expósito. Calidad que es otorgada por la Procuraduría a las Niñas, Niños y Adolescentes cuyo origen se desconoce, que son colocados en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado;
+XXV. Lista de espera: Se integra por las personas solicitantes de adopción que cuenten con un Certificado de Idoneidad, y de las Familias de Acogida certificadas, en espera de una asignación;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+XXVI. Niña o Niño: Persona menor de doce años de edad;
 
-XVII. Niña, Niño o Adolescente Acogido. Calidad que se le otorga por parte de la Procuraduría a las Niñas, Niños y Adolescentes acogidos por alguna persona física, institución pública o privada, quienes asumen la obligación de los cuidados, para proporcionarle un adecuado desarrollo integral;
+XXVII. Niña, Niño o Adolescente Abandonado: Calidad que se le otorga por parte de la Procuraduría de Protección a las Niñas, Niños y Adolescentes, cuyo origen se conoce y que fueron colocados en una situación de desamparo por quienes conforme a la Ley estén obligados a su custodia, protección y cuidado;
 
-XVIII. Menor sujeto de adopción entre particulares. Niño, niña o adolescente, cuyos solicitantes y quienes ejercen la patria potestad acuden al DIF para iniciar el proceso de adopción;
+XXVIII. Niña, Niño o Adolescente Acogido: Calidad que se les otorga por parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes para que sean acogidos por alguna persona física, institución pública o privada, familias de acogida certificadas, quienes asumen la obligación de los cuidados, para proporcionarle un adecuado desarrollo integral;
 
-XIX. Niña o Niño. Persona menor de doce años de edad;
+XXIX. Niña, Niño o Adolescente Expósito: Calidad que es otorgada por la Procuraduría de Protección a las Niñas, Niños y Adolescentes cuyo origen se desconoce, que son colocados en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado;
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
+XXX. Niña, Niño o Adolescente sujeto de adopción entre particulares: Niño, niña o adolescente, cuyos solicitantes y quienes ejercen la patria potestad acuden a la Procuraduría de Protección de Niña (sic), Niños y Adolescentes del Estado de Michoacán de Ocampo, para iniciar el proceso de adopción;
 
-XIX Bis. Poder Judicial: Poder Judicial del Estado de Michoacán;
+XXXI. Niñas, Niños y Adolescentes Susceptibles de Adopción: Personas menores de 18 años de edad en calidad de expósitos, abandonados, acogidos o entregados con propósito de adopción, conforme a lo dispuesto a esta Ley;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+XXXII. Poder Judicial: Poder Judicial del Estado de Michoacán de Ocampo;
 
-XX. Procuraduría. Procuraduría de Protección de Niñas, Niños y Adolescentes del Sistema para el Desarrollo Integral de la Familia Michoacán (sic);
+XXXIII. Procuraduría de Protección: Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Michoacán de Ocampo;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+XXXIV. Reglamento: Reglamento del Consejo Técnico de Adopción y Acogimiento Familiar del Estado de Michoacán de Ocampo; y,
 
-XXI. Reglamento. Reglamento del Consejo Técnico de Adopción del Estado de Michoacán de Ocampo;
-
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
-
-XXII. Solicitante. Persona o personas que pretenden adoptar;
-
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
-
-XXIII. Asignación. Determinación del Consejo sobre de (sic) la designación de niñas, niños y adolescentes y solicitantes que satisfagan íntegramente sus necesidades;
-
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
-
-XXIV. Convivencia. Etapa del trámite administrativo en la que niñas, niños y adolescentes interactúan con los solicitantes para establecer el vínculo afectivo y evaluar su adaptabilidad;
-
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
-
-XXV. Lista de espera. Se integra por las personas solicitantes de adopción que cuenten con un Certificado de idoneidad, en espera de una asignación;
-
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
-
-XXVI. Niñas, niños y adolescentes susceptibles de adopción. Personas menores de 18 años de edad en calidad de expósitos, abandonados, acogidos o entregados con propósito de adopción, conforme a lo dispuesto a esta Ley; y,
-
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
-
-XXVII. Informe de Adoptabilidad. Documento expedido por el DIF, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes.
+XXXV. Solicitante: Persona o personas que pretenden adoptar o constituirse en familia de acogida.
 
 ### CAPÍTULO II. PRINCIPIOS RECTORES
 
@@ -167,11 +147,17 @@ XXVII. Informe de Adoptabilidad. Documento expedido por el DIF, que contiene la 
 
 Son principios rectores en el cumplimiento, interpretación y aplicación de esta Ley, los contemplados en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales en la materia, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Michoacán de Ocampo y el Código Familiar para el Estado de Michoacán de Ocampo, que atiendan a la protección del interés superior de las niñas, niños y adolescentes.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 5.
 
-El Estado reconoce que el proceso de adopción responde al interés superior de la niñez y adolescencia como consideración primordial.
+El Estado reconoce que, el proceso de adopción y el proceso de acogimiento familiar, responden al interés superior de la niñez y adolescencia como consideración primordial y como formas supremas para restituir o garantizar el derecho de vivir en familia a niñas, niños o adolescentes que, por diversas razones, no pueden vivir con su familia de origen o extensa.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 5 Bis.
+
+El acogimiento familiar a niñas, niños y adolescentes, es de naturaleza restitutiva, permite a las niñas, niños y adolescentes vivir en familia, y será utilizada como prioridad para evitar el acogimiento residencial. El acogimiento familiar no es aplicable para el caso referido en el artículo 25 de la presente Ley.
 
 ###### ARTÍCULO 6.
 
@@ -181,57 +167,83 @@ La adopción es un derecho de las niñas, niños y adolescentes, de naturaleza r
 
 En todos los casos de adopción, las niñas, niños y adolescentes que vayan a adoptarse tendrán asistencia psicológica durante el proceso, serán informados de las consecuencias de su adopción y deberán ser escuchados en todo momento, atendiendo a su edad y grado de madurez.
 
-### CAPÍTULO III. CONSEJO TÉCNICO DE ADOPCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+### CAPÍTULO III. CONSEJO TÉCNICO DE ADOPCIÓN Y ACOGIMIENTO FAMILIAR DEL ESTADO DE MICHOACÁN DE OCAMPO
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 8.
 
-El Consejo Técnico de Adopción en el Estado es un órgano colegiado interdisciplinario, cuya finalidad es evaluar y certificar la idoneidad de los ambientes familiares de los solicitantes de adopción para que a las niñas, niños y adolescentes sujetos de adopción se les garantice una vida en familia con las condiciones necesarias para su pleno y armonioso desarrollo.
+El Consejo Técnico de Adopción y Acogimiento Familiar del Estado de Michoacán de Ocampo, es un órgano colegiado interdisciplinario, cuya finalidad es evaluar y certificar la idoneidad de los ambientes familiares de los solicitantes de adopción y acogimiento familiar para que, a las niñas, niños y adolescentes, que por diversas razones no pueden vivir con su familia de origen o extensa se les garantice una vida en familia con las condiciones necesarias para su pleno y armonioso desarrollo.
 
-Tiene la atribución de analizar, valorar y dictaminar los expedientes técnicos de los solicitantes, así como de cooperar en todo lo que esté a su alcance para el cumplimiento del objeto de esta ley, garantizando en su actuación y funcionamiento el principio del interés superior del menor de edad.
+Tiene la atribución de analizar, valorar y dictaminar los expedientes técnicos de los solicitantes, así como de cooperar en todo lo que esté a su alcance para el cumplimiento del objeto de esta ley, garantizando en su actuación y funcionamiento el principio del interés superior de la niñez.
 
-El Consejo deberá asegurarse de que todo acto dentro del proceso de adopción cumpla con los requisitos técnicos y jurídicos correspondientes, así como de que los servidores públicos y especialistas actúen de conformidad con el interés superior de la niñez y adolescencia.
+El Consejo deberá asegurarse de que todo acto dentro del proceso de adopción y acogimiento familiar, cumpla con los requisitos técnicos y jurídicos correspondientes, así como de que los servidores públicos y especialistas actúen de conformidad con el interés superior de la niñez.
 
-Para ilustrar su análisis y valoración, el Consejo podrá solicitar la presencia y opinión, ya sea de manera conjunta o por separado, del solicitante, de quienes ejercen la tutela del menor de edad sujeto a adopción, del menor de edad, de los especialistas que hayan intervenido en el proceso de que se trate, de quienes hayan emitido las cartas de recomendación o de profesionales externos.
+Para ilustrar su análisis y valoración, el Consejo podrá solicitar la presencia y opinión, ya sea de manera conjunta o por separado, del solicitante, de quienes ejercen la tutela de la niña, niño o adolescente sujeto a adopción o acogimiento familiar, de la niña, niño o adolescente, de los especialistas que hayan intervenido en el proceso de que se trate, de quienes hayan emitido las cartas de recomendación o de profesionales externos.
 
 ###### ARTÍCULO 9.
 
 El Consejo se integra por:
 
-I. Un Presidente, que es el titular de la Dirección General del DIF;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+I. Un Presidente, que será el titular del DIF Estatal;
 
-II. Un Secretario Técnico, que es el titular de la Procuraduría;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2023)</small>
 
-III. El titular de la Dirección de Asistencia e Integración Social;
+II. Un Secretario Técnico, que es el titular de la Procuraduría de Protección;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2023)</small>
 
-IV. Seis especialistas designados por el Titular del Poder Ejecutivo del Estado de entre los colegios y asociaciones de profesionistas o universidades, establecidos en Michoacán, que serán:
+III. El titular de la Coordinación de Adopción, Acogimiento y Reunificación Familiar de la Procuraduría de Protección; quien tendrá derecho a voz pero no a voto;
 
-a) Dos médicos generales;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 3 DE MARZO DE 2023)</small>
+
+IV. Seis especialistas con cédula profesional, designados por el Titular del Poder Ejecutivo del Estado, mismos que serán entre los colegios y asociaciones de profesionistas o universidades establecidos en Michoacán; los especialistas serán:
+
+a) Dos Médicos, uno con especialidad en Psiquiatría de preferencia con sub-especialidad en Paidopsiquiatría y otro con especialidad en Pediatría;
 
 b) Dos psicólogos clínicos; y,
 
 c) Dos trabajadores sociales.
 
-V. Un representante de las instituciones privadas que acojan menores de edad en el Estado a invitación del Titular del Poder Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2023)</small>
 
-Las resoluciones del Consejo se tomarán por votación de la mitad más uno de sus integrantes y el Presidente tendrá voto de calidad en caso de empate.
+V. Al titular de la Dirección de Asistencia e Integración Social del DIF Estatal;
 
-Sólo el Presidente podrá designar un suplente que lo sustituya en casos de fuerza mayor.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MARZO DE 2023)</small>
 
-Los cargos en el Consejo son honoríficos, a excepción de los especialistas, cuyos servicios profesionales serán remunerados.
+VI. La Presidenta Honorifica del Patronato del DIF Estatal; quien tendrá derecho a voz pero no a voto; y,
 
-El Consejo sesionará de manera ordinaria en las instalaciones del DIF en la ciudad de Morelia y de manera excepcional en cualquier otro lugar habilitado para tal efecto por el propio Consejo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MARZO DE 2023)</small>
+
+VII. Al titular de la Junta de Asistencia Privada.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
+
+Las resoluciones del Consejo se tomarán por votación de la mitad más uno de sus integrantes y el Presidente, o en su ausencia quien lo supla, tendrá voto de calidad en caso de empate.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
+
+Sólo el Presidente podrá designar un suplente que lo sustituya en casos de fuerza mayor y no podrá exceder de tres sesiones esta designación.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
+
+Los cargos en el Consejo son honoríficos, a excepción de los especialistas, cuyos servicios profesionales serán remunerados mensualmente.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
+
+El Consejo sesionará de manera ordinaria en las instalaciones del Sistema para el Desarrollo Integral de la Familia, Michoacán, por lo menos cada 21 días, sin perjuicio de celebrar sesiones extraordinarias a convocatoria de su Presidente, o en su defecto, a solicitud de la mayoría de sus miembros permanentes a través del Secretario Técnico, las cuales podrá (sic) celebrarse de manera inmediata si así se amerita. De manera excepcional, las sesiones podrán llevarse a cabo en cualquier otro lugar habilitado para tal efecto por el Presidente del Consejo.
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
 El Consejo Técnico de Adopción rendirá trimestralmente a la Dirección del DIF estatal, un informe respectivo de las solicitudes de adopción presentadas, así como los dictámenes de idoneidad en sentido positivo o negativo emitidos durante ese lapso de tiempo.
 
-### CAPÍTULO IV. CAPACIDAD, REQUISITOS Y CONSENTIMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2023)</small>
+
+### CAPÍTULO IV. CAPACIDAD, REQUISITOS Y CONSENTIMIENTO DE ADOPCIÓN
 
 ###### ARTÍCULO 10.
 
@@ -243,17 +255,19 @@ Para el caso de los cónyuges o concubinos, ambos deberán consentir la adopció
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 11.
 
-El solicitante deberá tener aptitud física, psicológica, moral, y contar con medios suficientes para proveer subsistencia, cuidado y educación a quien se pretenda adoptar.
+El solicitante deberá tener aptitud física, psicológica, moral, y contar con medios suficientes para proveer subsistencia, cuidado y educación a quien se pretenda adoptar o acoger.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE ABRIL DE 2021)</small>
 
 Para efectos de lo anterior, el solicitante presentará en una sola exhibición los siguientes documentos:
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2023)</small>
 
-I. Carta de intención manifestando la voluntad y los motivos para adoptar dirigida al Director General del DIF, así como constancia correspondiente al taller de adopción;
+I. Carta de intención manifestando la voluntad y los motivos para adoptar o acoger, dirigida al Director General del DIF Estatal, así como constancia correspondiente al taller de adopción o familias de acogida;
 
 II. Datos generales:
 
@@ -281,13 +295,21 @@ VII. Constancia laboral, especificando puesto, antigüedad y sueldo, o documenta
 
 VIII. En caso de extranjeros con residencia en México, se deberá presentar la documentación que acredite su estancia legal en el país.
 
+Las cartas de recomendación podrán ser suscritas a favor del solicitante por quienes ejercen la patria potestad sobre el menor de edad que se pretende adoptar.
+
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
 En caso de adopción internacional, el DIF deberá tener constancia de que el solicitante es idóneo para adoptar, emitida por autoridad competente del Estado receptor, acompañada de un informe sobre su identidad, capacidad jurídica y aptitud para adoptar, su situación personal, familiar y médica, su medio social, los motivos que les animan, su aptitud para asumir una adopción internacional, así como las niñas, niños o adolescentes que estarían en condiciones de tomar a su cargo.
 
 Todos los documentos deberán presentarse en idioma español y, en su caso, debidamente legalizados o apostillados.
 
-El DIF pondrá a disposición de quienes pretendan adoptar la información necesaria relativa a instituciones que expiden la documentación requerida. Los estudios médico, socioeconómico y psicológico deberán ser practicados por profesionales especialistas.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
+
+La Procuraduría de Protección pondrá a disposición de quienes pretendan adoptar o acoger, la información necesaria relativa a instituciones que expiden la documentación requerida. Los estudios médico, socioeconómico y psicológico deberán ser practicados por profesionales especialistas.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+En ningún caso deberá solicitarse ningún otro requisito que los señalados en el presente artículo, menos aún aquellos que vayan en contra el (sic) principio de progresividad de los derechos.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -299,9 +321,13 @@ I. No tengan quien ejerza sobre ellas o ellos la patria potestad;
 
 II. Sean expósitos o abandonados;
 
-III. Se encuentren en alguno de los supuestos anteriores y acogidos en Centros de Asistencia Social o bajo la tutela del Sistema DIF Michoacán; y,
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2023)</small>
 
-IV. Estando bajo patria potestad o tutela, quien la ejerce manifieste por escrito su consentimiento ante el Sistema DIF Michoacán o ante la Procuraduría.
+III. Se encuentren en alguno de los supuestos anteriores, se haya dado su aviso de acogimiento; en Centros de Asistencia Social; o bajo la tutela del Estado; y,
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2023)</small>
+
+IV. Estando bajo patria potestad o tutela, quien la ejerce manifieste por escrito su consentimiento ante la Procuraduría de Protección.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -323,7 +349,9 @@ VI. Establecer las acciones a fin de evitar presiones indebidas y coacción a la
 
 VII. El Poder Judicial del Estado de Michoacán, garantizará que los procedimientos de adopción se lleven de conformidad con esta ley y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Michoacán.
 
-### CAPÍTULO V. PROCESO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2023)</small>
+
+### CAPÍTULO V. PROCESO DE ADOPCIÓN
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -331,9 +359,13 @@ VII. El Poder Judicial del Estado de Michoacán, garantizará que los procedimie
 
 El proceso de adopción se iniciará presentando solicitud por escrito en la Secretaría Técnica del Consejo señalando, en su caso, nombre, edad y domicilio del menor de edad que se pretende adoptar y acompañando los documentos referidos en el artículo 11 de esta Ley.
 
-EL Sistema DIF Michoacán asesorará a los solicitantes respecto a la información requerida y verificará que se exhiban en su totalidad los documentos que establece el artículo 11 de esta ley. En caso de deficiencia u omisión en la documentación e información presentada, dentro de los cinco días naturales siguientes a la presentación de la solicitud, la Secretaría Técnica del Consejo requerirá a los solicitantes para que la subsanen, quienes deberán hacerlo dentro de los ocho días naturales siguientes al requerimiento, salvo que acrediten que es materialmente imposible hacerlo dentro de dicho plazo; en caso de no cumplir con dicho requerimiento se tendrá por no presentada la solicitud y se desechará su trámite.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
 
-Los Sistemas DIF Municipales deberán colaborar y prestar el auxilio que solicite la Procuraduría para el cumplimiento de la presente Ley.
+La Procuraduría de Protección, asesorará a los solicitantes respecto a la información requerida y verificará que se exhiban en su totalidad los documentos que establece el artículo 11 de esta Ley. En caso de deficiencia u omisión en la documentación e información presentada, dentro de los cinco días naturales siguientes a la presentación de la solicitud, la Secretaría Técnica del Consejo requerirá a los solicitantes para que la subsanen, quienes deberán hacerlo dentro de los ocho días naturales siguientes al requerimiento, salvo que acrediten que es materialmente imposible hacerlo dentro de dicho plazo; en caso de no cumplir con dicho requerimiento se tendrá por no presentada la solicitud y se desechará su trámite.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
+
+El Sistema DIF Estatal y DIF Municipales, deberán colaborar y prestar el auxilio que solicite la Procuraduría de Protección, para el cumplimiento de la presente Ley.
 
 ###### ARTÍCULO 15.
 
@@ -481,17 +513,23 @@ Declarada firme la resolución judicial que autorice la adopción, el Juez, dent
 
 ### CAPÍTULO VI. ENTREGA VOLUNTARIA DE UNA NIÑA, NIÑO O ADOLESCENTE CON PROPÓSITO DE ADOPCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 28.
 
-En los casos en que quienes ejerzan la patria potestad de una niña, niño o adolescente no pudieran o no estuvieran en las condiciones necesarias para la crianza de éste, podrán hacer la entrega voluntaria del mismo al DIF a través de la Procuraduría o en su caso ante el titular del Sistema para el Desarrollo Integral de la Familia de cada Municipio, con el propósito de que sea dado en adopción, excusándose de la patria potestad, siempre y cuando concurran los siguientes supuestos y requisitos:
+En los casos en que quienes ejerzan la patria potestad de una niña, niño o adolescente no pudieran o no estuvieran en las condiciones necesarias para la crianza de éste, podrán hacer la entrega voluntaria del mismo a la Procuraduría de Protección, con el propósito de que sea dado en adopción, excusándose de la patria potestad, siempre y cuando concurran los siguientes supuestos y requisitos:
 
 I. Se presenten quienes ejerzan la patria potestad con identificación oficial, acreditando domicilio actual;
 
 II. El menor de edad haya sido registrado legalmente y se presentare en ese acto el acta de nacimiento; y,
 
-III. En su caso, documentos que comprueben que la patria potestad de quienes no se presenten ante el DIF se acabó o se perdió previamente.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2023)</small>
 
-En caso de que no se cumplan los supuestos y requisitos señalados, el menor será recibido y se considerará abandonado o expósito, según corresponda.
+III. En su caso, documentos que comprueben que la patria potestad de quienes no se presenten ante la Procuraduría de Protección, se acabó o se perdió previamente.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
+
+En caso de que no se cumplan los supuestos y requisitos señalados, la niña, niño o adolescente será recibido y se considerará abandonado o expósito, según corresponda.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -571,7 +609,9 @@ Las personas que ejerzan profesiones en el trabajo social y psicología de las i
 
 La adopción internacional de una niña, niño o adolescente de nacionalidad mexicana procederá cuando se haya constatado por las autoridades correspondientes que ésta responde al interés superior de la niñez y adolescencia, después de haber examinado adecuadamente las posibilidades de asignación de la niña, niño o adolescente para adopción nacional.
 
-Las autoridades competentes tienen la obligación de conservar cualquier información que dispongan relativa a niñas, niños y adolescentes que hayan sido adoptados internacionalmente, así como de sus orígenes.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
+
+Las autoridades competentes que intervengan en el proceso de adopción tienen la obligación de conservar y salvaguardar cualquier información que dispongan relativa a niñas, niños y adolescentes que hayan sido adoptados internacionalmente, y deberán darle a los mismos el tratamiento de datos clasificados como sensibles de acuerdo a lo dispuesto por la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la correlativa del Estado de Michoacán de Ocampo.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -595,11 +635,11 @@ El adoptante tendrá los mismos derechos y obligaciones que tienen los padres re
 
 El adoptado tendrá con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 40.
 
-El adoptante dará nombre y sus apellidos al adoptado y deberá guardarse la secrecía de los anteriores apellidos. En el caso de las niñas, niños o adolescentes que ya tienen un nombre, si es posible, se tomará en cuenta su opinión para cambiarlo.
+El adoptante dará nombre y apellidos al adoptado; en la Oficialía del Registro Civil, donde se realice el trámite administrativo, deberá guardarse la absoluta secrecía de los anteriores apellidos, y deberán darle a los mismos el tratamiento de datos clasificados como sensibles, de acuerdo a lo dispuesto por la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Michoacán de Ocampo. En el caso de las niñas, niños o adolescentes que ya tienen un nombre, si es posible, deberá tomarse en cuenta su opinión para cambiarlo.
 
 ###### ARTÍCULO 41.
 
@@ -627,11 +667,15 @@ La falta de registro de la adopción no priva a ésta sus efectos legales, pero 
 
 En los casos de adopción, se levantará un acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 46.
 
-A partir del levantamiento del acta, se harán las anotaciones en el acta de nacimiento primigenia, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio.
+A partir del levantamiento del Acta, se harán las anotaciones en el acta de nacimiento primigenia, la cual deberá quedar reservada, no se publicará ni se expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio. Asimismo, ésta recibirá el tratamiento de datos clasificados como sensibles de acuerdo con lo dispuesto por la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Michoacán de Ocampo.
 
-### CAPÍTULO XI. PROHIBICIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2023)</small>
+
+### CAPÍTULO XI. PROHIBICIONES DE LA ADOPCIÓN
 
 ###### ARTÍCULO 47.
 
@@ -685,6 +729,10 @@ XI. Toda adopción contraria a las disposiciones constitucionales, tratados inte
 
 XII. La representación en las diligencias administrativas o judiciales que sean personalísimas en atención al principio del interés superior de la niñez y adolescencia;
 
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2023)</small>
+
+XII Bis. La solicitud y obtención directa o indirecta de beneficios indebidos materiales, pecuniarios o de cualquier índole, por la familia de origen o extensa del adoptado, así como por funcionarios o trabajadores de instituciones públicas o privadas y autoridades involucradas en el proceso de adopción. La violación a esta prohibición, deberá ser denunciada ante la FGE. En el caso de servidor público se estará además ante un hecho de corrupción;
+
 > <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
 
 XIII. Estigmatizar o discriminar a las madres biológicas por su toma de decisiones; y,
@@ -697,6 +745,14 @@ XIV. En todas las adopciones se garantizará el derecho de secrecía, salvo mand
 
 Las autoridades podrán suspender el proceso de adopción cuando tengan razones para creer que la adopción se realiza en contravención de lo establecido por la presente Ley. En caso de que el proceso de adopción haya concluido judicialmente, la Procuraduría o el sistema DIF Michoacán tomarán las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes en los términos que disponga la Ley para los hijos consanguíneos.
 
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 47 Bis.
+
+La Secretaría de Contraloría del Gobierno del Estado de Michoacán de Ocampo, dentro del ámbito de su competencia, velará por que todos los actos administrativos y las conductas de los servidores públicos en materia de la presente Ley sean apegados a derecho.
+
+De la misma manera, en su caso, calificará las infracciones a la misma y deberá proceder conforme a la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo.
+
 ###### ARTÍCULO 48.
 
 El Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los casos siguientes y contando con autorización judicial:
@@ -705,7 +761,9 @@ I. Para efectos de impedimento para contraer matrimonio; y,
 
 II. Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad. Si fuere menor de edad se requerirá el consentimiento de los adoptantes.
 
-### CAPÍTULO XII. SANCIONES Y RECURSOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2023)</small>
+
+### CAPÍTULO XII. SANCIONES Y RECURSOS DE LA ADOPCIÓN
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -754,6 +812,174 @@ Las resoluciones que se emitan con motivo del Recurso de Reconsideración serán
 ###### ARTÍCULO 57.
 
 Los recursos presentados extemporáneamente o los que fueren notoriamente improcedentes, se desecharán de plano.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MARZO DE 2023)</small>
+
+### CAPÍTULO XIII. DEL ACOGIMIENTO FAMILIAR
+
+CAPACIDAD Y REQUISITOS
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 58.
+
+Tienen capacidad para constituirse en Familia de Acogida, los mayores de veinticinco años de edad, en pleno ejercicio de sus derechos, libres de matrimonio, cónyuges o concubinos, sin discriminación alguna, con residencia debidamente establecida en el Estado de Michoacán de Ocampo.
+
+El acogimiento familiar tendrá una duración de hasta por dos años, pudiendo ser prorrogables hasta por otros dos años más, atendiendo al caso en concreto, contados a partir de que se le haya asignado a la niña, niño o adolescente.
+
+Para el caso de los cónyuges o concubinos, ambos deberán consentir el Acogimiento Familiar, y bastaraì (sic) con que solo uno de ellos cumpla con el requisito de la edad.
+
+En el supuesto de hermanos institucionalizados, cuando uno de ellos cumpla la mayoría de edad, éste podrá solicitar a la Procuraduría de Protección iniciar el procedimiento de reintegración familiar, a efecto de que no se separen los hermanos y vivan de manera no institucionalizada.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 59.
+
+El o los solicitantes, deberán tener aptitud física y psicológica, así como contar con medios suficientes para proveer subsistencia, cuidado y educación a quien se pretenda acoger.
+
+Al momento de que los interesados soliciten a la Procuraduría de Protección la autorización para constituirse como Familia de Acogida, deberán presentar ante esta una solicitud para obtener su certificación, misma que deberá estar firmada por él o los solicitantes, respectivamente. Dicha solicitud deberá contener los requisitos que señala el artículo 11 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 60.
+
+La Procuraduría de Protección, deberá comprobar que la información presentada por el o los solicitantes se encuentre completa para integrar el expediente. En caso de que los solicitantes no presenten la documentación completa, haya deficiencia u omisión, la Procuraduría de Protección procederá conforme al segundo párrafo del artículo 14 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 61.
+
+Una vez que el Secretario Técnico integre el expediente del solicitante, lo remitirá de inmediato al Presidente del Consejo de manera análoga a lo dispuesto del artículo 15 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 62.
+
+El o los solicitantes que desean constituirse como Familia de Acogida y que hayan sido condenados por delito grave o tengan antecedentes de violencia familiar, no podrán constituirse como Familia de Acogida.
+
+Para ello, el o los solicitantes presentarán carta de no antecedentes penales de la entidad federativa donde resida y manifestarán su autorización a efecto de que el Consejo verifique con la autoridad correspondiente, el tipo de delitos cometidos, así como para que solicite información respecto (sic) antecedentes de violencia familiar en las instancias respectivas.
+
+Los estudios médico, socioeconómico y psicológico deberán ser practicados por profesionales especialistas que estarán a cargo de la Procuraduría de Protección.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 63.
+
+Para el cumplimiento de sus atribuciones en materia de acogimiento familiar, el Estado, por conducto del DIF Estatal, podrá auxiliarse por el Fondo de las Naciones Unidas para la Infancia (UNICEF), y por asociaciones civiles especializadas en la materia.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 64.
+
+Pueden ser acogidos niñas, niños y adolescentes que:
+
+I. Se encuentren bajo tutela del Estado, cuando no sea susceptible de adopción; y,
+
+II. Tengan su Informe de Situación Actualizada.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MARZO DE 2023)</small>
+
+### CAPÍTULO XIV. DEL PROCESO PARA LA EMISIÓN DEL CERTIFICADO PARA CONSTITUIRSE EN FAMILIA DE ACOGIDA
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 65.
+
+Una vez que el solicitante aspirante a constituirse como Familia de Acogida y que haya presentado solicitud por escrito ante la Procuraduría de Protección, entregado la documentación en términos de lo dispuesto por la presente Ley y, en su caso, la información complementaria que se requiera para asegurar y preservar el interés superior de la niñez, la Procuraduría de Protección levantará el acuerdo respectivo, para dar inicio a la certificación de la familia de acogida solicitante.
+
+Si posterior a la entrega de documentos o durante el procedimiento, existe modificación a la información manifestada en su solicitud, lo informará por escrito a la Procuraduría de Protección.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 66.
+
+La Procuraduría de Protección, como parte del otorgamiento de la certificación para constituirse en Familia de Acogida, impartirá un curso de capacitación a quien o quienes serán los responsables del cuidado temporal de la niña, niño o adolescente que se acogerá en la familia, en el cual se les informaraì (sic) los aspectos psicosociales, legales, administrativos y judiciales, así como respecto del cuidado, protección, crianza positiva y promoción del bienestar social de las niñas, niños y adolescentes.
+
+La acreditación del curso será un requisito obligatorio para estar en posibilidad de obtener la certificación.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 67.
+
+Una vez que el Consejo determine la viabilidad de la familia de acogida, se emitirá el sentido del certificado respectivo de manera análoga a lo dispuesto en el artículo 16 de la presente Ley. Cuando el sentido del certificado sea negativo, procederá el recurso de Reconsideración establecido en la presente Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MARZO DE 2023)</small>
+
+### CAPÍTULO XV. DE LAS ASIGNACIONES PARA CASOS DE ACOGIMIENTO FAMILIAR
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 68.
+
+Una vez que el Consejo tenga certificada a la Familia de Acogida, asignará a la niña, niño o adolescente de manera análoga al párrafo cuarto del artículo 16 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 69.
+
+La asignación de una niña, niño y adolescente a una Familia de Acogida debidamente certificada, tiene como fin el que se desarrollen en un núcleo familiar, por lo qué, será para los efectos de ejercer el cuidado temporal de los mismos con las obligaciones y las responsabilidades que conlleva, sin que esto implique derechos respecto de la tutela ni el ejercicio de la Patria Potestad.
+
+La Familia de Acogida certificada en ningún caso podrá solicitar la adopción respecto de las niñas, niños y adolescentes que tengan en acogimiento familiar, ni las autoridades podrán realizar el trámite correspondiente a la adopción en estos casos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MARZO DE 2023)</small>
+
+### CAPÍTULO XVI. DE LA SUPERVISIÓN ALACOGIMIENTO (SIC) FAMILIAR
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 70.
+
+La Familia de Acogida que haya obtenido su certificación deberá rendir un informe trimestral a la Procuraduría de Protección.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 71.
+
+Sin perjuicio del informe señalado en el artículo anterior, la Procuraduría de Protección, a través de su personal, realizará visitas a los domicilios de las Familias de Acogida, al menos cada cuatro meses, y cuando se considere necesario atendiendo al interés superior de la niñez y adolescencia.
+
+La Procuraduría de Protección remitirá dichos informes al Consejo de manera inmediata.
+
+Si derivado de la supervisión se desprende que existe alguna vulneración o riesgo de vulneración de derechos de niñas, niños y adolescentes en acogimiento familiar, el Consejo y la Procuraduría de Protección atenderá a lo dispuesto en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 72.
+
+Las niñas, niños y adolescentes en acogimiento familiar, podrán ser llamados al Consejo de manera presencial, cuando éste lo estime pertinente.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 73.
+
+En cualquier caso, la Procuraduría de Protección tomará las acciones inmediatas para la protección, salvaguarda y restitución de derechos de la niña, niño o adolescente acogido.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MARZO DE 2023)</small>
+
+### CAPÍTULO XVII. SANCIONES Y RECURSOS DE LAS FAMILIAS DE ACOGIDA
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 74.
+
+El Consejo, por conducto de la Procuraduría de Protección, revocará la certificación otorgada en los siguientes casos:
+
+I. Cuando las condiciones en las que se proporciona el acogimiento familiar vulneren o coloquen en situación de riesgo los derechos de seguridad e integridad de la niña, niño o adolescente, sin perjuicio de las acciones legales a que haya lugar;
+
+II. Que la familia de acogida anteponga a sus intereses personales a los de las niñas, niños y adolescentes que tienen en acogimiento;
+
+III. Cuando se advierta que la información proporcionada en los informes trimestrales sea falsa;
+
+IV. Cuando se violenten los derechos de niñas, niños y adolescentes que hayan sido asignados;
+
+V. Cuando la familia de acogida no cumpla con las recomendaciones realizadas por el Consejo o el equipo interdisciplinario que realiza la visita domiciliaria o la evaluación mensual; y,
+
+VI. Cuando lo determine el Consejo con base al interés superior de la niñez y adolescencia.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 75.
+
+En caso de revocación, la Procuraduría de Protección solicitará al DIF Nacional su anotación en el registro correspondiente, mismo que deberá ser boletinado a todos los DIF Estatales y Procuradurías de Protección del País.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -840,3 +1066,23 @@ Considerando que la pandemia es una situación delicada y que por tanto es injus
 CUARTO. Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, deberán concluirse y ejecutarse conforme las disposiciones vigentes antes de la entrada en vigor de éste último.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 353 POR EL QUE "SE MODIFICA EL NOMBRE DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, Y LA DENOMINACIÓN DE LOS CAPÍTULOS III, IV, V, XI Y XII; SE REFORMAN LOS ARTÍCULOS 1, 2 PÁRRAFO PRIMERO, 3, 5, 8, 9, 11 PRIMERO, TERCERO, QUINTO PÁRRAFO, LA FRACCIÓN I, , (SIC) LAS FRACCIONES III Y IV DEL ARTÍCULO 12, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 14, EL PÁRRAFO PRIMERO, EL PÁRRAFO SEGUNDO Y LA FRACCIÓN III DEL ARTÍCULO 28, EL PÁRRAFO OCTAVO DEL ARTÍCULO 35, 40 Y 46; Y SE ADICIONA (SIC) LOS ARTÍCULOS 5 BIS; UN SEXTO PÁRRAFO AL ARTÍCULO 11; LA FRACCIÓN XII BIS AL ARTÍCULO 47; EL ARTÍCULO 47 BIS; EL CAPÍTULO XIII DEL ACOGIMIENTO FAMILIAR CAPACIDAD Y REQUISITOS, CON SUS ARTÍCULOS 58, 59, 60, 61, 62, 63 Y 64; EL CAPÍTULO XIV DEL PROCESO PARA LA EMISIÓN DEL CERTIFICADO PARA CONSTITUIRSE EN FAMILIA DE ACOGIDA, CON SUS ARTÍCULOS 65, 66 Y 67; EL CAPÍTULO XV DE LAS ASIGNACIONES PARA CASOS DE ACOGIMIENTO FAMILIAR, Y SUS ARTÍCULOS 68 Y 69; EL CAPÍTULO XVI DE LA SUPERVISIÓN AL ACOGIMIENTO FAMILIAR, Y SUS ARTÍCULOS 70, 71, 72 Y 73; Y EL CAPÍTULO XVII SANCIONES Y RECURSOS DE LAS FAMILIAS DE ACOGIDA, Y SUS ARTÍCULOS 74 Y 75 DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El titular del Poder Ejecutivo del Estado contará con 90 noventa días naturales, siguientes a la entrada en vigor del presente Decreto, para promulgar las disposiciones reglamentarias y administrativas relativas al presente Decreto.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado, nombrará a los seis especialistas, que le corresponde designar, para conformar el Consejo Técnico de Adopción y Acogimiento Familiar del Estado de Michoacán de Ocampo, de conformidad con lo dispuesto en el presente Decreto, en un plazo no mayor a 60 sesenta días naturales, siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. El Director General del Sistema DIF Estatal, citará a sesión de instalación del nuevo Consejo en un término de 30 días naturales siguientes a la publicación del presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán. Una vez que el Consejo Técnico de Adopción y Acogimiento Familiar quede debidamente instalado, el Consejo Técnico de Adopción cesará sus funciones.
+
+QUINTO. Los procesos administrativos y judiciales de adopción o de acogimiento que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, o durante el proceso de transición del nuevo Consejo, se seguirán conforme a la normatividad al momento de su inicio, y se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez. En cualquier caso, dichos asuntos serán resueltos por el Consejo Técnico en funciones.
+
+SEXTO. El Director General del DIF Estatal, dentro de los siguientes 90 noventa días hábiles, siguientes a la entrada en vigor del presente Decreto, revisará la situación jurídica de las niñas, niños y adolescentes que actualmente se encuentren institucionalizados o bajo tutela del Estado, y determinará si son susceptibles de Adopción o Acogimiento Familiar, debiendo informar la edad y situación de cada niña, niño y adolescente al H. Congreso del Estado, así como a los integrantes del nuevo Consejo. En el caso de la información remitida al H. Congreso del Estado, se omitirán los datos personales de las niñas, niños y adolescente, y para efectos de identificación solamente se indicarán sus nombres sin apellidos.
+
+SÉPTIMO. Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente Decreto.
