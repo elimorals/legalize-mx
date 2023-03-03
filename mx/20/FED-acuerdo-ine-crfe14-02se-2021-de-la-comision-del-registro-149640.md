@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-crfe14-02se-2021-de-la-comision-del-registro-149640
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-06-02"
-last_updated: "2022-07-20"
+last_updated: "2023-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-05-03"
 
 EXTRACTO DEL ACUERDO INE/CRFE14/02SE/2021 DE LA COMISIÓN DEL REGISTRO FEDERAL DE ELECTORES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL PLAN DE TRABAJO DEL PROYECTO DE LA DISTRITACIÓN NACIONAL 2021-2023
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MARZO DE 2023.
 
 Extracto publicado en el Número 2 del Diario Oficial de la Federación, el miércoles 2 de junio de 2021.
 
@@ -148,3 +148,25 @@ https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/135791/crf
 DOF: www.dof.gob.mx/2022/INE/Acuerdo-INE-CRFE26-04SE-2022.pdf
 
 Ciudad de México, a 26 de mayo de 2022.- Director Ejecutivo del Registro Federal de Electores, René Miranda Jaimes.- Rúbrica.
+
+D.O.F. 3 DE MARZO DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE INSTRUYE A LA JUNTA GENERAL EJECUTIVA PARA QUE, A TRAVÉS DE LA DIRECCIÓN EJECUTIVA DEL REGISTRO FEDERAL DE ELECTORES, REALICE LAS ACTIVIDADES NECESARIAS PARA PRESENTAR EL PROYECTO DE LA DEMARCACIÓN TERRITORIAL DE LAS CINCO CIRCUNSCRIPCIONES ELECTORALES PLURINOMINALES FEDERALES, CON BASE EN EL CENSO DE POBLACIÓN Y VIVIENDA 2020", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDOS
+
+PRIMERO. Se instruye a la Junta General Ejecutiva para que, a través de la Dirección Ejecutiva del Registro Federal de Electores, realice las actividades necesarias para presentar el proyecto de la demarcación territorial de las cinco circunscripciones electorales plurinominales federales, con base en el Censo de Población y Vivienda 2020 y de conformidad con lo expuesto en el considerando tercero de este instrumento.
+
+SEGUNDO. Se aprueba el siguiente cronograma de actividades para la definición del proyecto de la demarcación territorial de las cinco circunscripciones electorales plurinominales federales:
+
+> <small>[N. DE E. VÉASE CRONOGRAMA EN EL D.O.F. DE 3 DE MARZO DE 2023, PÁGINAS DE LA 234 A LA 235.]</small>
+
+TERCERO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores, a realizar los ajustes al cronograma de actividades referido en el punto segundo del presente acuerdo, que en su caso sean necesarios, siempre y cuando permitan a este Consejo General aprobar la demarcación territorial de las cinco circunscripciones electorales plurinominales federales dentro del tiempo previsto o bien, a más tardar en el mes de marzo de 2023; asimismo, a informar dichos ajustes a la Comisión Nacional de Vigilancia y a la Comisión del Registro Federal de Electores.
+
+CUARTO. Se aprueba dejar sin efectos la etapa VII del cronograma del Plan de Trabajo del proyecto de la Distritación Nacional 2021-2023, aprobado por la Comisión del Registro Federal de Electores mediante Acuerdo INE/CRFE14/02SE/2021, y modificado mediante los diversos INE/CRFE14/02SE/2021, INE/CRFE40/04SE/2021 e INE/CRFE26/04SE/2022.
+
+QUINTO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores, a hacer del conocimiento de la Comisión Nacional de Vigilancia lo aprobado por este órgano superior de dirección.
+
+SEXTO. El presente acuerdo entrará en vigor el día de su aprobación por parte de este Consejo General.
+
+SÉPTIMO. Publíquese el presente acuerdo en la Gaceta Electoral, en el portal electrónico del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
