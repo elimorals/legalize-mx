@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2023-01-27"
+last_updated: "2023-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -311,9 +311,11 @@ VI. Revalidar y otorgar equivalencias de estudios de educación preescolar, prim
 
 VII. Otorgar, negar y revocar la autorización a los particulares para impartir la educación inicial, básica, normal y demás para la formación de maestros de educación básica;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE MARZO DE 2023)</small>
 
-VIII. Implementar en los planteles de educación básica, con el auxilio de la Secretaría de Salud del Estado, los mecanismos de participación y colaboración que permitan involucrar a los padres de familia y, en su caso, al sector social, en la toma de estrategias y medidas que propicien en los educandos la adopción de hábitos alimenticios saludables, la actividad física y la práctica del deporte que sean adecuados para cada persona, como medios para combatir los problemas de malnutrición, tales como la desnutrición, el sobrepeso y la obesidad, así como las consecuencias sociales y de salud que derivan de éstos, mediante la información, orientación, capacitación y cualquier otro instrumento de difusión. Asimismo, deberá promover e incentivar la capacitación de los educadores en el tema.
+VIII. Implementar en los planteles de educación básica, con el auxilio de la Secretaría de Salud del Estado, los mecanismos de participación y colaboración que permitan involucrar a los padres de familia y, en su caso, al sector social, en la toma de estrategias y medidas que propicien en los educandos la adopción de hábitos alimenticios saludables, de higiene personal, autocuidado, higiene bucodental, la actividad física y la práctica del deporte que sean adecuados para cada persona, como medios para combatir los problemas de malnutrición, tales como la desnutrición, el sobrepeso y la obesidad, así como las consecuencias sociales y de salud que derivan de éstos, mediante la información, orientación, capacitación y cualquier otro instrumento de difusión. Asimismo, deberá promover e incentivar la capacitación de los educadores en el tema.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
 En las cooperativas escolares y en los espacios comerciales donde se expendan o consuman alimentos, en las instituciones de nivel básico, deberán ofertar alternativas de alimentos saludables que contengan los requerimientos nutricionales que determine la Secretaría de Salud del Estado como estándar para el adecuado crecimiento y desarrollo de los educandos, tomando en consideración la información que en materia alimenticia se proporcione en las instituciones educativas, la que se hará del conocimiento de los alumnos y sus familias.
 
@@ -1896,3 +1898,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 3 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 13 DE LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se deroga cualquier disposición de igual o menor jerarquía que se oponga a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
