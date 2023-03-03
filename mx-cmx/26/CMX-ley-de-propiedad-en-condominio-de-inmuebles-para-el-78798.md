@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-propiedad-en-condominio-de-inmuebles-para-el-78798"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-27"
-last_updated: "2017-03-24"
+last_updated: "2023-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78798&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-20"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 3 DE MARZO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 27 de enero de 2011.
 
@@ -56,7 +56,13 @@ LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL DISTRITO FEDERAL
 
 Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto regular la constitución, modificación, organización, funcionamiento, administración y extinción del Régimen de Propiedad en Condominio.
 
-Asimismo regulará las relaciones entre los condóminos y/o, poseedores y entre éstos y su administración, estableciendo las bases para resolver las controversias que se susciten con motivo de tales relaciones, mediante la conciliación, el arbitraje, a través de la Procuraduría Social del Distrito Federal, sin perjuicio de la competencia que corresponda a otras autoridades judiciales o administrativas.
+> <small>(REFORMADO, G.O. 3 DE MARZO DE 2023)</small>
+
+Asimismo, regulará las relaciones entre los condóminos y poseedores y entre éstos y su administración, estableciendo las bases para resolver las controversias que se susciten con motivo de tales relaciones, mediante la conciliación, el arbitraje, a través de la Procuraduría Social de la Ciudad de México, sin perjuicio de la competencia que corresponda a otras autoridades judiciales o administrativas.
+
+> <small>(ADICIONADO, G.O. 3 DE MARZO DE 2023)</small>
+
+Es de interés social garantizar un ambiente libre de discriminación y de violencia en los condominios por lo que no podrán establecerse condiciones que impliquen discriminación entre personas condóminas y poseedores, entre éstos y su administración, ni tampoco entre éstos y las personas visitantes, invitadas o empleadas en los condominios por motivo de origen étnico o nacional, apariencia fisca (sic), color de piel, lengua, género, edad, discapacidades, condición social, condiciones de salud, embarazo, religión, situación migratoria, opiniones, preferencias sexuales, orientación sexual, identidad de género, expresión de género, características sexuales, estado civil o cualquier otro que atente contra la dignidad humana.
 
 ###### Artículo 2.
 
@@ -372,15 +378,27 @@ VIII. Hacer uso de los estacionamientos y áreas de uso común, para fines disti
 
 IX. Poseer animales que por su número, tamaño o naturaleza afecten las condiciones de seguridad, salubridad o comodidad del condominio o de los condóminos. En todos los casos, los condóminos, poseedores, serán absolutamente responsables de las acciones de los animales que introduzcan al condominio, observando lo dispuesto en la Ley de Protección de los Animales en el Distrito Federal;
 
-X. Ocupar otro cajón de estacionamiento distinto al asignado;
+> <small>(REFORMADA, G.O. 3 DE MARZO DE 2023)</small>
 
-Para el caso de las fracciones I a la X de éste artículo se aplicará de manera supletoria la Ley de Cultura Cívica del Distrito Federal y demás leyes aplicables.
+X. Ocupar otro cajón de estacionamiento distinto al asignado; y
+
+> <small>(ADICIONADA, G.O. 3 DE MARZO DE 2023)</small>
+
+XI. Incurrir en conductas discriminatorias, en términos de lo dispuesto por la Ley para Prevenir y Eliminar la Discriminación de la Ciudad de México, y demás normativa aplicable, en contra de condóminos, poseedores, habitantes, visitantes, personas trabajadoras, proveedores o de cualquier otra persona en el condominio.
+
+> <small>(REFORMADO, G.O. 3 DE MARZO DE 2023)</small>
+
+Para el caso de las fracciones I a la X de este artículo se aplicará de manera supletoria la Ley de Cultura Cívica de la Ciudad de México y demás normativa aplicable.
 
 En el caso de las obras establecidas en la Fracción III, éstas podrán llevarse a cabo solamente si en Asamblea General existe acuerdo unánime de los condóminos, excepto en las áreas verdes, y en el último caso, además, se indemnizará en caso de haber afectados a su plena satisfacción.
 
 El infractor de estas disposiciones será responsable del pago de los gastos que se efectúen para reparar las instalaciones o reestablecer los servicios de que se trate y estará obligado a dejar las cosas en el estado en que se encontraban, asimismo responderá de los daños y perjuicios que resulten, y se hará acreedor a las sanciones previstas en la presente ley; sin perjuicio de las responsabilidades del orden civil o penal en que puedan incurrir.
 
 La Procuraduría podrá intervenir a petición de parte en el ámbito de sus atribuciones así como la Procuraduría Ambiental
+
+> <small>(ADICIONADO, G.O. 3 DE MARZO DE 2023)</small>
+
+Para el caso de la fracción XI la Procuraduría dará vista al Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México, de las conductas discriminatorias de las que tenga conocimiento, a fin de que valore los hechos y determine lo conducente.
 
 ###### Artículo 22.
 
@@ -1016,9 +1034,17 @@ XVI.- La determinación de criterios para asuntos que requieran una mayoría esp
 
 XVII. Las bases para la integración del Programa Interno de Protección Civil. Así como, en su caso, la conformación del Comité de Seguridad y Protección Civil y que por ley debido a su magnitud requieren algunos condominios;
 
-XVIII.- La tabla de valores e indivisos del condominio; cuando dichos valores o indivisos se modifiquen por reformas a la Escritura Constitutiva, la mencionada tabla deberá actualizarse; y
+> <small>(REFORMADA, G.O. 3 DE MARZO DE 2023)</small>
 
-XIX.- Las materias que le reservan la presente Ley, su Reglamento y la Escritura Constitutiva.
+XVIII. La tabla de valores e indivisos del condominio, cuando dichos valores o indivisos se modifiquen por reformas a la Escritura Constitutiva, la mencionada tabla deberá actualizarse;
+
+> <small>(REFORMADA, G.O. 3 DE MARZO DE 2023)</small>
+
+XIX. Las materias que le reservan la presente Ley, su Reglamento y la Escritura Constitutiva; y
+
+> <small>(ADICIONADA, G.O. 3 DE MARZO DE 2023)</small>
+
+XX. La disposición expresa que prohíba cualquier acto de discriminación motivada por las causales contenidas en el artículo 4, apartado C, numeral 2 de la Constitución Política de la Ciudad de México y 5 de la Ley para Prevenir y Eliminar la Discriminación de la Ciudad de México, o cualquier otra que tenga por objeto o resultado la negación, exclusión, distinción, menoscabo, impedimento o restricción de los derechos de las personas, grupos y comunidades.
 
 ###### Artículo 54.
 
@@ -1260,11 +1286,13 @@ De la misma manera informará la aplicación de recursos en las áreas y bienes 
 
 La Procuraduría promoverá el fomento, desarrollo y aplicación de una cultura condominal en los condominios y conjuntos condominales en el Distrito Federal, siempre sujeto a lo que establece esta Ley, su Reglamento, entendiendo por cultura condominal todo aquello que contribuya a generar las acciones y actitudes que permitan, en sana convivencia, el cumplimiento del objetivo del régimen de propiedad en condominio. Entendiéndose como elementos necesarios: respeto y la tolerancia; la responsabilidad y cumplimiento; la corresponsabilidad y participación; la solidaridad y la aceptación mutua.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE MARZO DE 2023)</small>
 
 ###### Artículo 80.
 
-La Procuraduría proporcionará a los condóminos, poseedores y administradores y comités de inmuebles bajo el régimen de propiedad en condominio, orientación y capacitación a través de diversos cursos, charlas y talleres en materia condominal, habitabilidad, adaptabilidad, sustentabilidad y exigibilidad de derechos; en los cuales se difundirá por cualquier medio la cultura condominal de manera permanente; la cual sentará las bases, condiciones y principios que permitan convivir de manera armónica, conformando una cultura de la paz, en coordinación con los organismos de vivienda y de otras dependencias e instituciones públicas y privadas.
+La Procuraduría proporcionará a los condóminos, poseedores y administradores y comités de inmuebles bajo el régimen de propiedad en condominio, orientación y capacitación a través de diversos cursos, charlas y talleres en materia condominal, habitabilidad, adaptabilidad, sustentabilidad, accesibilidad, exigibilidad de derechos e igualdad y no discriminación; en los cuales se difundirá por cualquier medio la cultura condominal de manera permanente; la cual sentará las bases, condiciones y principios que permitan convivir de manera armónica, conformando una cultura de la paz, en coordinación con los organismos de vivienda y de otras dependencias e instituciones públicas y privadas.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
 
 Suscribiendo convenios de colaboración que permitan la aplicación de programas, proyectos, presupuesto en favor de estos inmuebles, teniendo como objetivo:
 
@@ -1278,7 +1306,11 @@ d) Concientizar respecto del uso y disfrute de áreas verdes y comunes del condo
 
 e) Promover la preservación de la integridad física y psicológica de los habitantes del condominio.
 
-f) Fomentar la equidad de género, la no discriminación por origen étnico o nacional, edad, discapacidades, condición social, condiciones de salud, la religión, las opiniones, las preferencias sexuales y el estado civil para garantizar el respeto entre condóminos, poseedores y habitantes.
+> <small>(REFORMADO, G.O. 3 DE MARZO DE 2023)</small>
+
+f) Fomentar la igualdad de género, la no discriminación por motivo de origen étnico o nacional, apariencia física, color de piel, lengua, género, edad, discapacidades, condición social, condiciones de salud, embarazo, religión, situación migratoria, opiniones, preferencia sexual, orientación sexual, identidad de género, expresión de género, características sexuales, estado civil o cualquier otro que atente contra la dignidad humana, para garantizar el respeto entre las personas condóminas, poseedores, habitantes, visitantes o personas trabajadoras en el condominio.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2015)</small>
 
 Con la finalidad de hacer incluyente la participación de las dependencias para garantizar la convivencia condominal y las (sic) armonía entre sus habitantes.
 
@@ -1372,29 +1404,21 @@ Lo anterior será de acuerdo a lo establecido en la presente Ley, su Reglamento,
 
 La contravención a las disposiciones de esta ley establecidas en los artículos 14, 16, 19, 21, 25, 43, 44, 49, 59 y 73, serán sancionadas con multa que se aplicará de acuerdo con los siguientes criterios:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.O. 3 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+I.- Por faltas que afecten, la tranquilidad o la comodidad de la vida condominal, así como incurrir en actos de discriminación, se aplicará multa por el equivalente de diez a cien veces la Unidad de Medida y Actualización vigente;
 
-I.- Por faltas que afecten la tranquilidad o la comodidad de la vida condominal, se aplicará multa por el equivalente de diez a cien veces la Unidad de Cuenta de la Ciudad de México vigente;
+> <small>(REFORMADA, G.O. 3 DE MARZO DE 2023)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II.- Por faltas que afecten el estado físico del inmueble sin que esto signifique poner en riesgo la seguridad de los demás condóminos; que impidan u obstaculicen el uso adecuado de las instalaciones y áreas comunes; o que afecten el funcionamiento del condominio, se aplicará multa por el equivalente de cincuenta a doscientos veces la Unidad de Medida y Actualización vigente;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 3 DE MARZO DE 2023)</small>
 
-II.- Por faltas que afecten el estado físico del inmueble sin que esto signifique poner en riesgo la seguridad de los demás condóminos; que impidan u obstaculicen el uso adecuado de las instalaciones y áreas comunes; o que afecten el funcionamiento del condominio, se aplicará multa por el equivalente de cincuenta a doscientos veces la Unidad de Cuenta de la Ciudad de México vigente;
+III.- Por aquellas faltas que provoquen un daño patrimonial, o pongan en riesgo la seguridad del inmueble o las personas, se aplicará multa por el equivalente de cincuenta a trescientos veces la Unidad de Medida y Actualización vigente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.O. 3 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-III.- Por aquellas faltas que provoquen un daño patrimonial, o pongan en riesgo la seguridad del inmueble o las personas, se aplicará multa por el por el equivalente de cincuenta a trescientos veces la Unidad de Cuenta de la Ciudad de México vigente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-IV.- Por incumplimiento en el pago oportuno de las cuotas ordinarias, extraordinarias de administración, de mantenimiento y las correspondientes al fondo de reserva, se aplicará multa de 10 a 100 veces la Unidad de Cuenta de la Ciudad de México vigente;
+IV.- Por incumplimiento en el pago oportuno de las cuotas ordinarias, extraordinarias de administración, de mantenimiento y las correspondientes al fondo de reserva, se aplicará multa de 10 a 100 veces la Unidad de Medida y Actualización vigente;
 
 V.- Los Administradores o Comités de Vigilancia que a juicio de la Asamblea General, Consejo, o de la Procuraduría no hagan un buen manejo o vigilancia de las cuotas de servicios, mantenimiento y administración, de reserva o extraordinarias, por el abuso de su cargo o incumplimiento de sus funciones, o se ostenten como tal sin cumplir lo que esta Ley y su reglamento establecen para su designación, estarán sujetos a las sanciones establecidas en las fracciones I, II, III y IV de este artículo, aumentando un 50% la sanción que le corresponda, independientemente de las responsabilidades o sanciones a que haya lugar, contempladas en otras Leyes;
 
@@ -1402,23 +1426,17 @@ V.- Los Administradores o Comités de Vigilancia que a juicio de la Asamblea Gen
 
 La Procuraduría, de acreditarse los supuestos establecidos en el párrafo anterior y una vez emitida la resolución administrativa que cause estado, a petición de parte, podrá revocar el registro emitido.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.O. 3 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+VI.- Se aplicará multa de 50 a 200 veces la Unidad de Medida y Actualización vigente al administrador o persona que tenga bajo su custodia el libro de actas debidamente autorizado y que habiendo sido notificado de una Asamblea General legalmente constituida no lo presente para el desahogo de la misma;
 
-VI.- Se aplicará multa de 50 a 200 veces la Unidad de Cuenta de la Ciudad de México vigente al administrador o persona que tenga bajo su custodia el libro de actas debidamente autorizado y que habiendo sido notificado de una Asamblea General legalmente constituida no lo presente para el desahogo de la misma;
+> <small>(REFORMADA, G.O. 3 DE MARZO DE 2023)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VII.- Se aplicará multa de 50 a 300 veces la Unidad de Medida y Actualización vigente por incumplimiento a lo dispuesto en el artículo 44 de la presente Ley. En los casos de reincidencia, se aplicará hasta el doble de la sanción originalmente impuesta; y
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 3 DE MARZO DE 2023)</small>
 
-VII.- Se aplicará multa de 50 a 300 veces la Unidad de Cuenta de la Ciudad de México vigente por incumplimiento a lo dispuesto en el artículo 44 de la presente Ley. En los casos de reincidencia, se aplicará hasta el doble de la sanción originalmente impuesta; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-VIII.- Se aplicara multa de 100 a 400 veces la Unidad de Cuenta de la Ciudad de México vigente, a los administradores que realicen cobros no previstos en esta ley y aprobados por la Asamblea General en viviendas de interés social y popular. En los casos de reincidencia, se aplicará hasta el doble de la sanción originalmente impuesta.
+VIII.- Se aplicará multa de 100 a 400 veces la Unidad de Medida y Actualización vigente, a los administradores que realicen cobros no previstos en esta ley y aprobados por la Asamblea General en viviendas de interés social y popular. En los casos de reincidencia, se aplicará hasta el doble de la sanción originalmente impuesta.
 
 ###### Artículo 88.
 
@@ -1493,3 +1511,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. El Ejecutivo Local contará con un plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto, para adecuar a sus disposiciones las respectivas del Reglamento de la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal y el Reglamento de Construcciones para el Distrito Federal.
 
 TERCERO. Remítase el presente Decreto al Jefe de Gobierno del Distrito Federal, para su respectiva promulgación, refrendo y publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 3 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN; UN TERCER PÁRRAFO AL ARTÍCULO 1, LA FRACCIÓN XI, ASÍ COMO UN PÁRRAFO FINAL AL ARTÍCULO 21; LA FRACCIÓN XX AL ARTÍCULO 53; SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 1; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 21; EL PRIMER PÁRRAFO Y EL INCISO F) DEL ARTÍCULO 80 Y LAS FRACCIONES I, II, III, IV, VI, VII Y VIII, DEL ARTÍCULO 87, TODOS DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
