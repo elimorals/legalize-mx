@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2022-12-12"
+last_updated: "2023-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE MARZO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -90,17 +90,21 @@ I. Garantizar su derecho a la vida, la paz, a la supervivencia y al desarrollo i
 
 II. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos, género y niñez, en el diseño y la instrumentación de políticas y programas de gobierno;
 
-> <small>(REFORMADA, G.O. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 3 DE MARZO DE 2023)</small>
 
 III. Promover la participación de todos los sectores de la sociedad, tomando en cuenta la opinión de niñas, niños y adolescentes considerando los aspectos culturales, éticos, afectivos, educativos y de salud, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
-> <small>(REFORMADA, G.O. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, G.O. 3 DE MARZO DE 2023)</small>
 
-IV. Implementar los mecanismos para el diseño, ejecución, seguimiento y evaluación de políticas públicas, programas sociales y gubernamentales, legislación y compromisos derivados de las normas constitucionales y de los tratados internacionales celebrados por el Estado mexicano de manera transparente y accesible; y
+IV. Implementar los mecanismos para el diseño, ejecución, seguimiento y evaluación de políticas públicas, programas sociales y gubernamentales, legislación y compromisos derivados de las normas constitucionales y de los tratados internacionales celebrados por el Estado mexicano de manera transparente y accesible;
 
-> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, G.O. 3 DE MARZO DE 2023)</small>
 
-V. Establecer y evaluar los mecanismos para prevenir el abuso y maltrato, o explotación laboral o sexual.
+V. Establecer mecanismos para prevenir el abuso y maltrato, o explotación laboral o sexual; y
+
+> <small>(ADICIONADA, G.O. 3 DE MARZO DE 2023)</small>
+
+VI. Garantizar la implementación de mecanismos de comunicación, para reportar casos de maltrato hacia niñas, niños y adolescentes en la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 7 DE MAYO DE 2021)</small>
 
@@ -2290,13 +2294,17 @@ III. Coordinar la ejecución y dar seguimiento a las medidas de protección para
 
 IV. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia;
 
-V. Denunciar ante la autoridad ministerial aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
+> <small>(REFORMADA, G.O. 3 DE MARZO DE 2023)</small>
+
+V. Recibir, atender y dar seguimiento de manera inmediata y profesional (sic) los reportes de maltrato hacia niñas, niños y adolescentes, denunciando ante la autoridad ministerial aquellos hechos que se presuman constitutivos de delito en contra de esta población;
 
 VI. Solicitar a la autoridad ministerial competente la imposición de medidas precautorias, cautelares, de seguridad y de protección, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales, las siguientes:
 
 a) El ingreso de una niña, niño o adolescente a un centro de asistencia social, y
 
-b) La atención médica inmediata por parte de alguna institución del Sistema de Salud del Distrito Federal.
+> <small>(REFORMADO, G.O. 3 DE MARZO DE 2023)</small>
+
+b) La atención médica inmediata por parte de alguna institución del Sistema de Salud de la Ciudad de México.
 
 Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección, el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente;
 
@@ -2777,6 +2785,14 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 G.O. 12 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN IX DEL ARTÍCULO 47 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES (SIC) LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 3 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES III, IV, V Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 2; SE REFORMA (SIC) LAS FRACCIONES V Y EL INCISO B) DE LA FRACCIÓN VI DEL ARTÍCULO 112 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
