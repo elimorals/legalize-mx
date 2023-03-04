@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-sistema-jalisciense-de-radio-y-television-9685
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-12-07"
-last_updated: "2022-02-17"
+last_updated: "2023-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL SISTEMA JALISCIENSE DE RADIO Y TELEVISIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de diciembre de 2013.
 
@@ -125,9 +125,17 @@ X. Realizar proyectos y acciones para ampliar su potencia y cobertura territoria
 
 XI. Celebrar convenios y contratos con los sectores público, privado y social, así como con instituciones nacionales y extranjeras, para el cumplimiento de su objeto;
 
-XII. Administrar su patrimonio, conforme a las disposiciones legales aplicables; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
 
-XIII. Las demás que sean necesarias para el cumplimiento de su objeto.
+XII. Administrar su patrimonio, conforme a las disposiciones legales aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2023)</small>
+
+XIII. Solicitar, administrar y operar las concesiones en materia de radiodifusión que en su caso haya otorgado u otorgue el Instituto Federal de Telecomunicaciones o cualquier autoridad competente en su momento, así como para suscribir y recibir los títulos de concesión; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2023)</small>
+
+XIV. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 ###### Artículo 6°.
 
@@ -343,13 +351,17 @@ VI. Presentar ante la Junta de Gobierno un informe anual de sus actividades; y
 
 VII. Las demás que le asignen otros ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2023)</small>
 
 ###### Artículo 19.
 
-El Consejo Ciudadano se integra por cinco personas del ramo de la comunicación o las telecomunicaciones, que serán designados por el Titular del Poder Ejecutivo, de entre la terna que le sea propuesta por la Dirección General, previa convocatoria pública.
+El Consejo Ciudadano se integra por cinco personas preferentemente del ramo de la comunicación o las telecomunicaciones, que serán designados por la Junta de Gobierno del Organismo, de entre la terna que le sea propuesta por la Dirección General, previa convocatoria pública.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2021)</small>
 
 El cargo que se desempeñe dentro del Consejo de (sic) Ciudadano es honorífico y, por tanto, no remunerado, el cual tendrá una duración de 3 años.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2021)</small>
 
 Las personas integrantes del Consejo Ciudadano designarán de entre ellas a quienes ostentarán la Presidencia y la Secretaría Ejecutiva.
 
@@ -608,3 +620,9 @@ P.O. 17 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28732/LXIII QUE REFORMAN LOS ARTÍCULOS 9 Y 12 DE LA LEY ORGÁNICA DEL SISTEMA JALICIENSE DE RADIO Y TELEVISIÓN, ADICIONANDO UN SEGUNDO ARTÍCULO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación, en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29154/LXIII/23 QUE REFORMA LOS ARTÍCULOS 5 Y 19 DE LA LEY ORGÁNICA DEL SISTEMA JALISCIENSE DE RADIO Y TELEVISIÓN”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
