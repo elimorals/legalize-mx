@@ -4,7 +4,7 @@ identifier: "COL-ley-de-asociaciones-publico-privadas-del-estado-de-colima-11739
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-22"
-last_updated: "2020-11-07"
+last_updated: "2023-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2023.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el martes 22 de noviembre de 2016.
 
@@ -1079,9 +1079,13 @@ IX. Existan causas debidamente fundadas por las cuales la opción más favorable
 
 X. El valor promedio anual de las aportaciones al proyecto, a cargo de la contratante, no exceda al límite que para estos efectos señale el Congreso del Estado en la Ley de Ingresos y Presupuesto de Egresos del Estado de Colima vigente en el año en que se celebre el contrato.
 
-2. Tratándose de proyectos no solicitados a que se refiere la presente Ley, que sean autofinanciables, podrá autorizarse la adjudicación directa al promotor.
+2. (DEROGADO, P.O. 4 DE MARZO DE 2023)
 
 3. La adjudicación de los proyectos a que se refiere este artículo se realizará preferentemente a través de invitación restringida, salvo que las circunstancias particulares ameriten realizarlas mediante adjudicación directa.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+No procederá la adjudicación directa tratándose de propuestas no solicitadas a que se refiere el capítulo cuarto de la presente Ley.
 
 ###### Artículo 78.
 
@@ -1976,3 +1980,11 @@ P.O. 7 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 4 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 259.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 2 FRACCIONES VIII, XV, XIX, XX, XXI Y XXII, 5 FRACCIONES II, V, VII, VIII, IX, X Y XI, 6 FRACCIONES III Y IV, 7, LA DENOMINACIÓN DEL CAPÍTULO IV “DE LOS PERMISOS Y CONCESIONES”; 36 FRACCIÓN II Y SU ÚLTIMO PÁRRAFO, 41 FRACCIONES I A LA VII Y SU ÚLTIMO PÁRRAFO, ASÍ COMO EL ARTÍCULO 61; SE ADICIONAN LA FRACCIÓN XXIII AL ARTÍCULO 2, LAS FRACCIONES XII Y XIII AL ARTÍCULO 5, 6 FRACCIONES DE LA V A LA X, UN SEGUNDO, TERCERO Y CUARTO PÁRRAFOS AL ARTÍCULO 10, 17 BIS, LA DENOMINACIÓN DE LA SECCIÓN I “DE LOS PERMISOS” AL CAPÍTULO IV “DE LOS PERMISOS Y CONCESIONES”, 34 ÚLTIMO PÁRRAFO, 37 ÚLTIMO PÁRRAFO, 40 ÚLTIMO PÁRRAFO, 41 FRACCIONES DE LA VIII A LA XV, LA DENOMINACIÓN DE LA SECCIÓN II “DE LAS CONCESIONES” AL CAPÍTULO IV “DE LOS PERMISOS Y CONCESIONES”, 42 BIS, 42 BIS 1, 42 BIS 2, 42 BIS 3, 42 BIS 4, 42 BIS 5, 42 BIS 6, 42 BIS 7, 42 BIS 8, 42 BIS 9 Y 42 BIS 10, 69, 70, 71, 72 Y 73 DE LA LEY DE CAMINOS Y PUENTES DEL ESTADO DE COLIMA; ADEMÁS, SE DEROGA EL NUMERAL SEGUNDO Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 77 DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día de su aprobación por el Congreso del Estado, debiéndose publicar en el Periódico Oficial “El Estado de Colima”.
