@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-145350"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-25"
-last_updated: "2022-12-10"
+last_updated: "2023-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145350&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE DICIEMBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el miércoles 25 de noviembre de 2020.
 
@@ -1467,9 +1465,17 @@ XIV. Emitir la Guía Operativa para la Organización y Funcionamiento de los Ser
 
 XV. Vigilar y, en su caso, sancionar a las instituciones particulares que impartan educación sin reconocimiento de validez oficial de estudios, cuando incumplan las obligaciones que esta Ley les impone;
 
-XVI. Presentar un informe anual sobre los principales aspectos de mejora continua de la educación que hayan sido implementados en la entidad federativa, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2023)</small>
 
-XVII. Las demás que con tal carácter establezcan la Ley General de Educación, esta Ley y otras disposiciones aplicables.
+XVI. Promover en conjunto con la Secretaría de Salud del Estado de Colima, programas de educación sobre salud bucodental, en donde se fomenten los hábitos de higiene dental, en los niños y niñas de educación preescolar y educación primaria, de conformidad a lo establecido por la fracción II inciso c) y fracción VI incisos a) y c) del artículo 3 de la Ley de Salud del Estado de Colima;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
+
+XVII. Presentar un informe sobre los principales aspectos de mejora anual continua de la educación que hayan sido implementados en la entidad federativa; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2023)</small>
+
+XVIII. Las demás que con tal carácter establezcan la Ley General de Educación, esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 110.
 
@@ -2300,3 +2306,13 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Educación y Cultura del Gobierno del Estado emitirá los lineamientos a que se refiere el artículo 138 fracción III de la presente Ley, así como estos contendrán la conformación de los comités a que hace referencia ese artículo, dentro de los 120 días contados a partir de la entrada en vigor del presente decreto.
 
 En tanto no se expida los lineamientos en referencia se continuará aplicando de manera supletoria el Acuerdo número 205 por el que se determinan los lineamientos generales para regular el otorgamiento de becas en las instituciones particulares de educación primaria y secundaria que cuentan con autorización de estudios, así como las de educación inicial, preescolar y especial que cuentan con reconocimiento de validez oficial de estudios otorgados por la Secretaria de Educación Pública; el cual será aplicable también para la asignación de becas del nivel medio superior en las instituciones educativas particulares.
+
+P.O. 4 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 243.- POR EL QUE SE REFORMAN LAS FRACCIONES XVI Y XVII, Y SE ADICIONA LA FRACCIÓN XVIII TODOS DEL NUMERAL 1 DEL ARTÍCULO 109, DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- La Titular del Ejecutivo del Estado, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente decreto, adecuará el o los reglamentos que impacten, con respecto al contenido del presente decreto, con fundamento en lo establecido por la fracción IV del artículo 58 de la Constitución Política del Estado Libre y Soberano de Colima.
+
+TERCERO.- El Titular de la Secretaría de Educación y Cultura deberá realizar las gestiones necesarias, con la finalidad de contemplar, planear e implementar los programas que correspondan al presente decreto. Así mismo, en conjunto con la Secretaría de Salud y demás entidades que correspondan, deberán garantizar la operación y prácticas de dichos programas para los alumnos inscritos en los planteles escolares.
