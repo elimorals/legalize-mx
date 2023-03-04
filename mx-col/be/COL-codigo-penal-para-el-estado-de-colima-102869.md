@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2023-02-18"
+last_updated: "2023-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2023.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -41,7 +41,9 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN XLII Y ARTICULO 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-C O N S I D E R A N D O…
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto, se expide el siguiente:
 
@@ -2715,11 +2717,7 @@ I. Cuando sin emplear la violencia, alguien se apodera por una sola vez de los o
 
 II. Cuando el valor de lo robado no exceda de veinte unidades de medida y actualización, se restituya el bien espontáneamente por el sujeto activo, se paguen los daños y perjuicios ocasionados, no se ejecute con alguna de las circunstancias a que se refieren el inciso B) en sus fracciones I, II, IV, VII, VIII y, IX del artículo 185 de este código y aún no tome conocimiento del delito la autoridad;
 
-(NOTA: EL 1 DE JULIO DE 2021 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE JUNIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 87, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2019)</small>
-
-III. CUANDO SE COMETA ENTRE CÓNYUGES, SIEMPRE QUE HUBIESEN CONTRAÍDO MATRIMONIO BAJO EL RÉGIMEN DE SOCIEDAD CONYUGAL, EN TÉRMINOS DE LA LEGISLACIÓN CIVIL APLICABLE; Y
+III. (DEROGADA, P.O. 4 DE MARZO DE 2023)
 
 IV. Si se prueba la buena fe de su tenencia o propiedad del vehículo del que se trate.
 
@@ -3491,11 +3489,9 @@ Se reputarán también como servidores públicos a quienes administren recursos 
 
 Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este Título o el subsecuente.
 
-(NOTA: EL 1 DE JULIO DE 2021 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE JUNIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 87, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2019)</small>
-
-De manera adicional a dichas sanciones, se impondrá a los responsables de su comisión, la pena de destitución y la inhabilitación temporal O DEFINITIVA para desempeñar empleo, cargo o comisión públicos, así como para participar en adquisiciones, arrendamientos, servicios u obras públicas, concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado.
+De manera adicional a dichas sanciones, se impondrá a los responsables de su comisión, la pena de destitución y la inhabilitación temporal para desempeñar empleo, cargo o comisión públicos, así como para participar en adquisiciones, arrendamientos, servicios u obras públicas, concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2019)</small>
 
@@ -3505,19 +3501,13 @@ Tratándose de la inhabilitación temporal, cuando no se causen daños o perjuic
 
 En el caso de que se supere el monto señalado en el párrafo anterior, pero no se exceda de dos mil veces el valor diario de la Unidad de Medida y Actualización, la inhabilitación será por un plazo de diez a veinte años.
 
-(NOTA: EL 1 DE JULIO DE 2021 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE JUNIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 87, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2019)</small>
-
-LA INHABILITACIÓN SERÁ DEFINITIVA CUANDO EL MONTO DE LA AFECTACIÓN O BENEFICIO OBTENIDO POR LA COMISIÓN DEL DELITO EXCEDA DE DOS MIL VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, O CUANDO SE INCURRA EN REINCIDENCIA.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 4 DE MARZO DE 2023)</small>
 
 Para efectos de lo anterior, el juez deberá considerar, en caso de que el responsable tenga el carácter de servidor público, además de lo previsto en el artículo 233 Bis de este Código, los elementos del empleo, cargo o comisión que desempeñaba cuando incurrió en el delito.
 
-(NOTA: EL 1 DE JULIO DE 2021 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO NOVENO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE JUNIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 87, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JUNIO DE 2019)</small>
-
-Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación temporal O DEFINITIVA para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, considerando, en su caso, lo siguiente:
+Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación temporal para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, considerando, en su caso, lo siguiente:
 
 I. Los daños y perjuicios patrimoniales causados por los actos u omisiones;
 
@@ -4882,3 +4872,11 @@ Se deja sin efectos el Decreto No. 196, aprobado por el Pleno del Congreso en la
 ###### ARTÍCULO TERCERO.
 
 Se modifica la posición del ARTÍCULO 152 TER para ser agregado al Capítulo IV denominado HOSTIGAMIENTO SEXUAL, ACOSO LABORAL Y ACOSO SEXUAL, eliminándose el Capítulo V denominado VIOLENCIA DIGITAL; se reforma el primer párrafo del arábigo 164; y se adiciona un párrafo al 224 pasando a ser este el tercero y haciendo el corrimiento del subsecuente para ser el cuarto, todos del Código Penal para el Estado de Colima, para quedar como sigue: […].
+
+P.O. 4 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 246.- POR EL QUE SE REFORMAN LOS PÁRRAFOS CUARTO Y NOVENO DEL ARTÍCULO 233, Y SE DEROGAN LA FRACCIÓN III DEL ARTÍCULO 190 Y EL PÁRRAFO SÉPTIMO DEL ARTÍCULO 233, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
