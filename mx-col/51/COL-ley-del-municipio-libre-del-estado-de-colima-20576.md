@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2023-02-18"
+last_updated: "2023-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2023.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -897,9 +897,17 @@ II. Cobrar los impuestos municipales mediante iguala;
 
 III. Retener o invertir para fines distintos, la cooperación que en numerario o en especie presten los particulares para la realización de obras de utilidad pública;
 
-IV. Sesionar fuera del territorio municipal; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
 
-V. Fijar sueldos a los funcionarios y empleados municipales con base en porcentajes de ingresos.
+IV. Sesionar fuera del territorio municipal;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
+
+V. Fijar sueldos a los funcionarios y empleados municipales con base en porcentajes de ingresos; y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2023)</small>
+
+VI. Dejar de pagar, restringir o descontar los salarios y aguinaldos a los trabajadores sean de confianza, sindicalizados y de base del municipio, porque son prerrogativas en prestaciones laborales, además de todos los derivados de su afiliación al régimen de seguridad social, salvo lo previsto en el artículo 62 y 63 de la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2020)</small>
 
@@ -1413,7 +1421,9 @@ X. Intervenir con la síndica o el síndico en los juicios de carácter fiscal q
 
 XI. Establecer convenios de coordinación fiscal con el gobierno del Estado en la administración de impuestos, previa autorización del cabildo en cada caso;
 
-XII. Pagar la nómina al personal que labora en el municipio;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
+
+XII. Pagar la nómina al personal que labora en el municipio, así como, cuidar y proteger el pago de los salarios y aguinaldos que no pueden restringirse ni descontarse, a los trabajadores del municipio, porque son prerrogativas en prestaciones laborales, además de todos los derivados de su afiliación al régimen de seguridad social, salvo lo previsto en el artículo 62 y 63 de la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima;
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2020)</small>
 
@@ -2748,3 +2758,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los Ayuntamientos del Estado contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, para reformar su reglamentación correspondiente para el saneamiento y limpia de construcciones deshabitadas y lotes baldíos en los términos que establece este decreto.
 
 TERCERO. Los Ayuntamientos del Estado contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, para reformar su reglamentación correspondiente en materia de ecología y/o ambiental en los términos que establece este decreto.
+
+P.O. 4 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 245.- POR EL QUE SE REFORMAN LAS FRACCIONES IV Y V Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 46; Y SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 72 DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
