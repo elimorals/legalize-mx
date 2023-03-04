@@ -4,7 +4,7 @@ identifier: "COL-ley-de-caminos-y-puentes-del-estado-de-colima-109376"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-08"
-last_updated: "2016-11-22"
+last_updated: "2023-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE CAMINOS Y PUENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2023.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de agosto de 2015.
 
@@ -55,9 +55,11 @@ LEY DE CAMINOS Y PUENTES DEL ESTADO DE COLIMA
 
 ### CAPÍTULO I. DEL ÁMBITO DE LA APLICACIÓN DE LA LEY
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público y observancia general para el Estado de Colima, y tiene por objeto regular la construcción, conservación y aprovechamiento de los caminos y puentes de jurisdicción estatal; además de establecer los procedimientos para el otorgamiento de concesiones y permisos relacionados con caminos y puentes de jurisdicción estatal.
+La presente Ley es de orden público e interés social y tiene por objeto regular la construcción, operación, explotación, conservación y mantenimiento de los caminos y puentes de jurisdicción estatal.
 
 ###### ARTÍCULO 2.
 
@@ -77,7 +79,9 @@ VI. Caminos Vecinales: A los caminos rurales, inalienables e imprescriptibles, s
 
 VII. Cruzamiento: A la obra superficial, subterránea, deprimida o elevada que cruza de un lado a otra (sic) una vía de comunicación terrestre;
 
-VIII. Dirección: A la Dirección de Caminos perteneciente a la Secretaría de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
+
+VIII. Dirección: A la Dirección General de Caminos perteneciente a la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
 
 IX. Derecho de Vía: A la franja de terreno que se requiere para la construcción, conservación, ampliación, protección y en general para el uso adecuado de una vía de comunicación terrestre estatal; cuya anchura y dimensiones fija la Secretaría, la cual tendrá una amplitud mínima absoluta de veinte metros a cada lado del eje de la misma y podrá ampliarse en los lugares en que esto resulte indicado por las necesidades técnicas, por la densidad del tránsito o por otras causas. Tratándose de carreteras de dos cuerpos, se medirá a partir del eje de cada uno de ellos;
 
@@ -91,7 +95,9 @@ XIII. Ley: A la Ley de Caminos y Puentes del Estado de Colima;
 
 XIV. Paradores: A las instalaciones y construcciones adyacentes al derecho de vía, en las que se presten servicios de alojamiento, alimentación, servicios sanitarios, servicios a vehículos y comunicaciones, a las que se tiene acceso desde una vía de comunicación terrestre;
 
-XV. Permiso: Al acto administrativo unilateral mediante el cual la Secretaría de Desarrollo Urbano del Gobierno del Estado, como autoridad otorgante, confía a una persona física o moral llamada permisionaria, la prestación de servicios relacionados con los caminos y puentes de jurisdicción estatal, conforme a las disposiciones establecidas en esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
+
+XV. Permiso: Al acto administrativo unilateral mediante el cual la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad del Gobierno del Estado, como autoridad otorgante, confía a una persona física o moral llamada permisionaria, la prestación de servicios relacionados con los caminos y puentes de jurisdicción estatal, conforme a las disposiciones establecidas en esta Ley y su Reglamento;
 
 XVI. Predio colindante: Al predio lindante con el derecho de vía de una carretera estatal;
 
@@ -99,15 +105,25 @@ XVII. Puentes de Jurisdicción Estatal: Son todas aquellas construcciones de sei
 
 XVIII. Rescate: Al acto administrativo mediante el cual el Estado recobra el pleno dominio de los derechos o bienes otorgados a través de una concesión o permiso, por causa de utilidad pública;
 
-XIX. Secretaría: La Secretaría de Desarrollo Urbano;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2023)</small>
 
-XX. Señal Informativa: Al cartel o franja en postes dentro del derecho de vía, con las leyendas o símbolos que tienen por objeto guiar al usuario a lo largo de su itinerario por la carretera y/o camino a lugares de interés o de prestación de servicios;
+XIX. Reglamento: Al Reglamento de la Ley de Caminos y Puentes del Estado de Colima;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
 
-XXI. Unidades de Medida y Actualización: Al valor diario de la Unidad de Medida y Actualización vigente en el momento de la realización de la situación jurídica o de hecho prevista en esta Ley; y
+XX. Secretaría: La Secretaría de Infraestructura, Desarrollo Urbano y Movilidad del Gobierno del Estado de Colima;
 
-XXII. Vías de comunicación terrestre: A los caminos y puentes de jurisdicción estatal o los convenidos con la Federación.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2023)</small>
+
+XXI. Señal Informativa: Al cartel o franja en postes dentro del derecho de vía, con las leyendas o símbolos que tienen por objeto guiar al usuario a lo largo de su itinerario por la carretera y/o camino a lugares de interés o de prestación de servicios;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2023)</small>
+
+XXII. Unidades de Medida y Actualización: Al valor diario de la Unidad de Medida y Actualización vigente en el momento de la realización de la situación jurídica o de hecho prevista en esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE MARZO DE 2023)</small>
+
+XXIII. Vías de comunicación terrestre: A los caminos y puentes de jurisdicción estatal.
 
 ###### ARTÍCULO 3.
 
@@ -131,25 +147,47 @@ La aplicación de la presente Ley y su Reglamento, y demás disposiciones normat
 
 I. Ejecutar las políticas y programas para el desarrollo de las vías de comunicación terrestres;
 
-II. Otorgar los permisos a que se refiere esta Ley y resolver sobre su terminación;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
+
+II. Otorgar las concesiones y permisos a que se refiere esta Ley; vigilar su cumplimiento y resolver sobre su revocación o terminación en su caso;
 
 III. Construir, conservar y explotar las vías de comunicación terrestre, así como las estructuras e instalaciones viales que contengan;
 
 IV. Gestionar ante las dependencias o entidades de la Administración Pública Federal correspondientes, los permisos o autorizaciones para el uso de los derechos de vía propiedad del Gobierno Federal;
 
-V. Inspeccionar el estado de conservación de las vías de comunicación terrestre de jurisdicción estatal;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
+
+V. Vigilar, verificar e inspeccionar las vías de comunicación terrestre de jurisdicción estatal, cumplan con los aspectos técnicos y normativos correspondientes;
 
 VI. Determinar las especificaciones técnicas y características de los caminos y puentes estatales, cumpliendo con la normativa aplicable;
 
-VII. Recibir, analizar y dictaminar la documentación de carácter legal, técnico y administrativo que presenten los particulares para solicitar el otorgamiento de permisos;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
 
-VIII. Vigilar el cumplimiento de las obligaciones de los permisionarios;
+VII. Recibir, analizar y dictaminar la documentación de carácter legal, técnico y administrativo que presenten los particulares para solicitar el otorgamiento de permisos o concesiones;
 
-IX. Llevar el registro de los permisos, actualizarlo y darle seguimiento;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
 
-X. La Secretaría promoverá la adquisición o la expropiación de los terrenos, para la construcción, conservación y aprovechamiento de los caminos y puentes de jurisdicción estatal; y
+VIII. Vigilar el cumplimiento de las obligaciones de las personas permisionarias y concesionarias;
 
-XI. Las demás que le instruya el Gobernador, le confieran la presente Ley y su Reglamento y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
+
+IX. Vigilar la actualización y darle seguimiento al registro de los permisos y concesiones;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
+
+X. Promover la adquisición o la expropiación de los terrenos, para la construcción, conservación y explotación de los caminos y puentes de jurisdicción estatal, en los términos del artículo 7 de esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2023)</small>
+
+XI. Celebrar convenios de colaboración y coordinación en materia de esta Ley;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2023)</small>
+
+XII. Vigilar la actualización el padrón estatal de las vías de comunicación terrestre; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE MARZO DE 2023)</small>
+
+XIII. Las demás que le confieran la presente Ley y su Reglamento y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 6.
 
@@ -159,17 +197,57 @@ I. Establecer la amplitud del derecho de vía, de acuerdo a las especificaciones
 
 II. Otorgar, revocar o dar por terminados los permisos para construir o modificar accesos, cruzamientos e instalaciones marginales en el derecho de vía de caminos y puentes estatales; construir o administrar, en su caso, paradores en vías de comunicación terrestres; para instalar anuncios y señales publicitarias, de información o comunicación; y construir, modificar o ampliar obras asentadas en el derecho de vía de caminos y puentes estatales;
 
-III. Imponer las sanciones establecidas en la presente Ley; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2023)</small>
 
-IV. Las demás que se establecen en el Reglamento Interior de la Secretaría de Desarrollo Urbano.
+III. Gestionar y realizar el trámite de otorgamiento de concesiones, vigilando el cumplimiento de las disposiciones de esta Ley y su reglamento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2023)</small>
+
+IV. Vigilar el cumplimiento de las obligaciones de las personas concesionarias y permisionarias;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2023)</small>
+
+V. Llevar el registro de los permisos y concesiones, actualizarlo y darle seguimiento;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2023)</small>
+
+VI. Realizar inspecciones en cumplimiento de la Ley y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2023)</small>
+
+VII. Vigilar y observar la reparación de los daños que sufran las vías de comunicación terrestre;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2023)</small>
+
+VIII. Ordenar la desocupación ilegal de la zona del derecho de vía de competencia estatal;
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2023)</small>
+
+IX. Imponer las sanciones establecidas en la presente Ley; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE MARZO DE 2023)</small>
+
+X. Las demás que se establecen en el Reglamento de la Ley y el Reglamento Interior de la Secretaría;
 
 ### CAPÍTULO II. DE LA CONSTRUCCIÓN Y CONSERVACIÓN DE LOS CAMINOS Y PUENTES
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 7.
 
-La construcción, conservación y aprovechamiento de las vías de comunicación terrestres son de utilidad pública y serán realizadas por la Secretaría.
+La Secretaría podrá llevar a cabo directamente la construcción, operación, explotación, conservación y mantenimiento de las vías de comunicación terrestres, mismas que son de utilidad pública e interés social, o podrá otorgar concesiones para tales efectos.
 
-La Secretaría promoverá la adquisición o la expropiación de los terrenos para la construcción, conservación y aprovechamiento de los caminos y puentes de jurisdicción estatal, de conformidad a lo establecido en la Ley de Expropiación para el Estado de Colima.
+La Secretaría promoverá oportunamente la adquisición o la expropiación de los terrenos para la construcción, operación, explotación conservación y mantenimiento de los caminos y puentes de jurisdicción estatal.
+
+La Secretaría por sí, o a petición de los interesados, efectuará la compraventa o promoverá la expropiación de los terrenos, construcciones y bancos de material necesarios para tal fin. La compraventa o expropiación se llevará a cabo conforme a la legislación aplicable.
+
+En el caso de compraventa, esta podrá llevarse a cabo a través de los interesados, por cuenta de la Secretaría.
+
+Los terrenos y aguas del Estado, así como los materiales existentes en ellos, podrán ser utilizados para la construcción, conservación y mantenimiento de los caminos y puentes conforme a las disposiciones legales. En caso de proyectos concesionados, el Estado tendrá derecho al cobro de una contraprestación por la utilización de estos recursos para el proyecto concesionado.
+
+En caso de la adquisición o expropiación de terrenos para la construcción, operación, explotación, conservación y mantenimiento de las vías de comunicación terrestres, relacionadas con una concesión, el costo por la adquisición de dichos terrenos, correrá por cuenta del proyecto concesionado, debiendo ser siempre titular de los referidos bienes, el Estado de Colima. En estos casos, el concesionario deberá hacer todas las gestiones ante los propietarios de los terrenos para la adquisición de los mismos, en los términos del presente artículo y solo solicitará la intervención del Estado, para casos estrictamente necesarios.
+
+En todo caso, los recursos que se destinen para liberar el derecho de vía, se podrán considerar dentro de los costos totales del proyecto, según los términos de la propia concesión.
 
 ###### ARTÍCULO 8.
 
@@ -182,6 +260,18 @@ La Secretaría estará obligada al mantenimiento y limpieza de las áreas corres
 ###### ARTÍCULO 10.
 
 Los trabajos de construcción o reconstrucción de vías de comunicación terrestres, no podrán ejecutarse sin la aprobación previa por parte de la Secretaría, de los planos, memoria descriptiva y demás documentos relacionados con las obras que se pretendan ejecutar.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+Se exceptúan de lo dispuesto en el párrafo precedente, los trabajos de urgencia y de mantenimiento que sean necesarios para la conservación y buen funcionamiento de los caminos.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+Para los trabajos de urgencia, la Secretaría indicará los lineamientos para su realización.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+Una vez pasada la urgencia, será obligación de quien ejecute la realización de los trabajos definitivos, ajustarlos a las condiciones del proyecto aprobado por la Secretaría.
 
 ###### ARTÍCULO 11.
 
@@ -222,6 +312,14 @@ La Secretaría tomando en cuenta las circunstancias de cada paso, podrá prever 
 La Secretaría considerando la importancia del camino, la continuidad de la vía y la seguridad de los usuarios, podrá convenir con los municipios, su paso por las poblaciones, dejando la vigilancia y regulación del tránsito dentro de la zona urbana a las autoridades municipales.
 
 Asimismo la Secretaría podrá convenir con la federación o con los municipios del Estado, la construcción, conservación, reconstrucción y ampliación de tramos federales, estatales o municipales, en su caso.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+ARTÍCULO 17 BIS.- La persona titular del Poder Ejecutivo podrá otorgar concesiones para construir, mantener, conservar y explotar caminos y puentes a los particulares o municipios, conforme al procedimiento establecido en la presente Ley; así como para mantener, conservar y explotar caminos estatales construidos o adquiridos por cualquier título por el Gobierno Estatal. En este último caso, las concesiones no podrán ser por plazos mayores a 20 años. La Secretaría garantizará, cuando haya vías alternas, la operación de una libre de peaje.
+
+Excepcionalmente, la Persona Titular del Poder Ejecutivo podrá otorgar concesión a los gobiernos municipales o entidades paraestatales sin sujetarse al procedimiento de concurso a que se refiere esta Ley. Cuando la construcción u operación de la vía la contrate con terceros, deberá obtener previamente la aprobación de la Secretaría y aplicar el procedimiento de concurso previsto en el artículo 42 BIS 2 de esta Ley.
+
+La construcción, operación, mantenimiento, conservación y explotación de los caminos y puentes estarán sujetos a lo dispuesto en esta Ley, sus reglamentos y a las condiciones impuestas en la concesión respectiva.
 
 ### CAPÍTULO III
 
@@ -307,7 +405,13 @@ Las personas que deseen poner anuncios en inmuebles de su propiedad colindantes 
 
 Los ingresos por concepto de reparación del daño, utilización del derecho de vía y de multas que se impongan en términos de la presente Ley, serán destinados para cubrir gastos de reparación de la infraestructura pública dañada, así como la operación e inversión en tecnología y programas vinculados al sistema carretero del Estado.
 
-### CAPÍTULO IV. DE LOS PERMISOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2023)</small>
+
+### CAPÍTULO IV. DE LOS PERMISOS Y CONCESIONES
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2023)</small>
+
+#### SECCIÓN I. DE LOS PERMISOS
 
 ###### ARTÍCULO 34.
 
@@ -320,6 +424,10 @@ II. Construir o administrar, en su caso, paradores en vías de comunicación ter
 III. Instalar anuncios y señales publicitarias, de información o comunicación; y
 
 IV. Construir, modificar o ampliar obras de carácter permanente tales como accesos, cruzamientos, drenaje en su modalidad de vados, tubos de concreto o lámina, losa o estructura, puentes y en general cualquier trabajo e instalación marginal asentadas en el derecho de vía de caminos y puentes estatales.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+El reglamento respectivo señalará los requisitos para el establecimiento, construcción, operación y explotación de las instalaciones y servicios antes citados.
 
 ###### ARTÍCULO 35.
 
@@ -337,7 +445,9 @@ Para el otorgamiento de los permisos a que se refiere el artículo 34 de esta Le
 
 I. Nombre y domicilio para recibir notificaciones del solicitante;
 
-II. Acta constitutiva de la sociedad y modificaciones aplicables, en su caso;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
+
+II. Tener nacionalidad mexicana o tratarse de sociedades constituidas conforme a las leyes mexicanas;
 
 III. Documentación que acredite que el solicitante por sí mismo o a través de un tercero cuente con la experiencia necesaria para llevar a cabo la construcción y conservación de las obras inherentes al permiso solicitado y que en cada caso específico será determinada por la Secretaría;
 
@@ -355,7 +465,9 @@ IX. Las demás que determine la Secretaría.
 
 En caso de que falte algún requisito, la Secretaría lo comunicará por escrito o por vía electrónica al interesado en un plazo de diez días hábiles y el interesado dispondrá de un plazo igual para subsanar las omisiones, transcurrido el cual sin que se dé cumplimiento, se tendrá por abandonada la solicitud.
 
-Recibida la solicitud, en caso de considerarse procedente, la Secretaría otorgará el permiso correspondiente, el que deberá emitirse en un plazo no mayor de treinta días hábiles, contados a partir de la fecha de la presentación de la misma, salvo que por su complejidad o los aspectos técnicos, se requiera de un plazo mayor, lo cual deberá comunicar al solicitante.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2023)</small>
+
+Recibida la solicitud, en caso de considerarse procedente, la Secretaría otorgará el permiso correspondiente, el que deberá emitirse en un plazo no mayor de treinta días hábiles, contados a partir de la fecha de la presentación de la misma debidamente requisitada, salvo que, por su complejidad o los aspectos técnicos, se requiera de un plazo mayor, que no podrá exceder de 45 días naturales, lo cual deberá comunicar al solicitante.
 
 ###### ARTÍCULO 37.
 
@@ -368,6 +480,10 @@ II. Que no se obstaculice la visibilidad en cruceros y entronques, así como la 
 III. Que no se construyan obras de difícil o costosa remoción que dificulten el desarrollo de proyectos futuros.
 
 Cuando en la solicitud del particular concurra uno o más de los supuestos especificados en las fracciones del presente artículo, será motivo suficiente para negar el otorgamiento del permiso solicitado.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+La Secretaría podrá autorizar la cesión de derechos y obligaciones establecidos en los permisos, de conformidad con el artículo 42 BIS 4 y 55 de la Ley.
 
 ###### ARTÍCULO 38.
 
@@ -409,29 +525,229 @@ VI. Cuando sobrevengan (sic) la necesidad de ejecutar obras de interés general 
 
 VII. Por las demás causas que expresamente determine la presente Ley.
 
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+La terminación del permiso no exime a su titular de las responsabilidades contraídas durante su vigencia, con el Gobierno del Estado de Colima y con terceros.
+
 ###### ARTÍCULO 41.
 
 Son causas de revocación de los permisos otorgados en los términos de esta Ley, las siguientes:
 
-I. Incumplir con el objeto, obligaciones o condiciones, establecidas en los permisos;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
 
-II. Cambiar de nacionalidad el permisionario;
+I. Incumplir con el objeto, obligaciones o condiciones, establecidas en los permisos, sin causa justificada;
 
-III. Ceder o transferir los permisos o los bienes afectos a los mismos;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
 
-IV. Modificar o alterar substancialmente la estructura, condiciones u obras para que le fue otorgado el permiso sin la autorización de la Secretaría;
+II. Cambiar de nacionalidad la persona permisionaria;
 
-V. Prestar servicios distintos a los señalados en la solicitud del permiso otorgado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2023)</small>
 
-VI. Obstruir indebida o injustificadamente, total o parcialmente, la operación del derecho de vía; y
+III. No cumplir con las características de construcción y operación, establecidos en los permisos;
 
-VII. Cuando por utilidad pública se haga exigible la revocación.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2023)</small>
 
-El titular de un permiso que hubiere sido revocado, no tendrá derecho para solicitar uno nuevo, hasta en tanto haya transcurrido un plazo de un año, contado a partir de la revocación (sic) de que quede firme la revocación.
+IV. Ceder, hipotecar, gravar o transferir los permisos, los derechos en ellos conferidos o los bienes afectos a los mismos, a algún gobierno o estado extranjero o admitir a éstos como socios de las empresas permisionarias;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
+
+V. Ceder o transferir los permisos o los derechos en el conferidos, sin autorización de la Secretaría;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
+
+VI. Modificar o alterar substancialmente la naturaleza o condiciones de los caminos y puentes o servicios sin la autorización de la Secretaría;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
+
+VII. Prestar servicios distintos a los señalados en el permiso otorgado;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE MARZO DE 2023)</small>
+
+VIII. Obstruir indebida o injustificadamente, total o parcialmente, la operación del derecho de vía;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE MARZO DE 2023)</small>
+
+IX. Cuando por causa de utilidad pública se haga exigible o necesaria la cancelación del permiso;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2023)</small>
+
+X. No otorgar o mantener en vigor la garantía de daños contra terceros;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2023)</small>
+
+XI. Incumplir reiteradamente cualquiera de las obligaciones o condiciones establecidas en esta Ley o en sus reglamentos;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2023)</small>
+
+XII. Ejecutar actos de impidan o tiendan a impedir la actuación de otras personas permisionarias que tengan derecho a ello;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2023)</small>
+
+XIII. No cubrir las indemnizaciones por daños que se origen con motivo de la prestación de los servicios;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2023)</small>
+
+XIV. Reincidir en la aplicación de tarifas superiores a las autorizadas o registradas; y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2023)</small>
+
+XV. Las demás previstas en el permiso respectivo.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2023)</small>
+
+La persona titular de un permiso que hubiere sido revocado, estará imposibilitada para obtener otro nuevo dentro de un plazo de 5 años, contado a partir de que hubiere quedado firme la resolución de la revocación.
 
 ###### ARTÍCULO 42.
 
 Los conceptos de pago se fijarán por la Secretaría, con criterios de cuantía que no tiendan de ninguna manera a la desproporción ni al pago de derechos injustos, sino que los mismos habrán de determinarse de acuerdo a lo señalado en el Reglamento de la presente ley, que contemplará el criterio menos lesivo para los particulares que hagan uso de las áreas del derecho de vía a que se refiere esta ley.
+
+> <small>(ADICIONADA CON SUS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE MARZO DE 2023)</small>
+
+#### SECCIÓN II. DE LAS CONCESIONES
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+ARTÍCULO 42 BIS.- Se requiere concesión para construir, operar, explotar, conservar y mantener los caminos y puentes de jurisdicción estatal.
+
+Las concesiones se otorgarán a mexicanos o sociedades constituidas conforme a las leyes mexicanas, en los términos de la presente ley y su reglamento.
+
+Las concesiones se otorgarán hasta por un plazo de treinta años, las cuales podrán ser prorrogadas hasta por un plazo equivalente al señalado originalmente, en cualquier momento después del primer tercio de la vigencia de las mismas, cuando a juicio de la Secretaría, se justifique la necesidad de realizar inversiones que no se hubiesen previsto en las condiciones originales de los títulos de concesión respectivos. También podrán ser prorrogadas, en cualquier momento durante su vigencia, cuando se presenten causas que lo justifiquen, no atribuibles a las personas concesionarias, entre los que se incluyan demoras en la liberación del derecho de vía. La prórroga de las concesiones a que se refiere este párrafo se otorgará siempre que las personas concesionarias hayan cumplido con las condiciones y obligaciones impuestas en los títulos de concesión.
+
+La Secretaría contestará en definitiva las solicitudes de prórroga a que se refiere el párrafo anterior, dentro de un plazo de 60 días naturales contado a partir de la fecha de presentación de la misma debidamente requisitada y establecerá las nuevas condiciones de la concesión, para lo cual deberá tomar en cuenta la inversión, los costos futuros de ampliación y mejoramiento y las demás proyecciones financieras y operativas que considere la rentabilidad de la concesión.
+
+Para otorgar las concesiones a las que el presente artículo se refiere, la Secretaría podrá requerir la utilización de materiales reciclados, así como el uso de energías renovables, y en general, toda clase de medidas sustentables y que contribuyan con la protección al medio ambiente.
+
+El otorgamiento de las concesiones es atribución de la persona Titular del Poder Ejecutivo del Estado de Colima, pudiendo esta delegar dicha atribución en favor de la persona titular de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, exclusivamente, quien no podrá delegar la facultad delegada en su favor.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+ARTÍCULO 42 BIS 1.- Para el otorgamiento de los títulos de concesión o la resolución de las prórrogas a que se refiere la presente Ley, la Secretaría deberá tramitar ante la Secretaría de Planeación, Finanzas y Administración, en términos del Reglamento de esta Ley, lo siguiente:
+
+I. La opinión favorable sobre la rentabilidad económica del proyecto respectivo.
+
+Se entenderá por rentabilidad económica, el resultado de comparar los ingresos monetarios susceptibles de ser generados por el uso, aprovechamiento o explotación de los bienes de dominio público concesionados, con respecto a los costos que se generarían por la realización del proyecto que se pretende concesionar, durante el horizonte temporal de evaluación.
+
+Para efectos de esta fracción, la Secretaría deberá remitir a la Secretaría de Planeación, Finanzas y Administración la evaluación que llevó a cabo sobre la rentabilidad económica del proyecto, así como la documentación que utilizó para realizar dicha evaluación, a fin de que esta última dependencia en un plazo no mayor a treinta días naturales, contado a partir de la fecha en que recibió la evaluación y documentación a que se refiere este párrafo, emita su opinión al respecto.
+
+En todo caso, los recursos que se destinen para liberar el derecho de vía, se considerarán dentro de los costos totales del proyecto;
+
+II. El registro en la cartera de programas y proyectos de inversión, en términos del artículo 43 de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Colima, cuando se consideren recursos públicos estatales como parte de su financiamiento; y
+
+III. La determinación de las contraprestaciones que la persona concesionaria deba cubrir al Gobierno Estatal, en términos de las disposiciones jurídicas aplicables. Para efectos de esta fracción, la Secretaría deberá presentar a la Secretaría de Planeación, Finanzas y Administración la propuesta de dichas contraprestaciones.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+ARTÍCULO 42 BIS 2.- Las concesiones a que se refiere este capítulo se otorgarán mediante concurso público, conforme a lo siguiente:
+
+I. La Secretaría, por sí o a petición del interesado, expedirá convocatoria pública para que, en un plazo razonable, se presenten proposiciones en sobre cerrado, que será abierto en día prefijado y en presencia de los interesados. Cuando exista petición del interesado, la Secretaría, en un plazo razonable, expedirá la convocatoria o señalará al interesado las razones de la improcedencia en un plazo no mayor de 90 días;
+
+II. La convocatoria se publicará simultáneamente en el Periódico Oficial del Estado y en un periódico de amplia circulación estatal;
+
+III. Las bases del concurso incluirán como mínimo las características técnicas de la construcción de la vía o el proyecto técnico, el plazo de la concesión, los requisitos de calidad de la construcción y operación; los criterios para su otorgamiento serán principalmente los precios y tarifas para el usuario, el proyecto técnico en su caso, así como las contraprestaciones ofrecidas por el otorgamiento de la concesión;
+
+IV. Podrán participar uno o varios interesados que demuestren su solvencia económica, así como su capacidad técnica, administrativa y financiera, y cumplan con los requisitos que establezcan las bases que expida la Secretaría;
+
+V. A partir del acto de apertura de propuestas y durante el plazo en que las mismas se estudien y homologuen, se informará a todos los interesados de aquéllas que se desechen, y las causas principales que motivaren tal determinación;
+
+VI. La Secretaría, con base en el análisis comparativo de las proposiciones admitidas, emitirá el fallo debidamente fundado y motivado, el cual será dado a conocer a todos los participantes. La proposición ganadora estará a disposición de los participantes durante 10 días hábiles a partir de que se haya dado a conocer el fallo, para que manifiesten lo que a su derecho convenga; y
+
+VII. No se otorgará la concesión cuando ninguna de las proposiciones presentadas cumpla con las bases del concurso o por caso fortuito o fuerza mayor. En este caso, se declarará desierto el concurso y se procederá a expedir una nueva convocatoria.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+ARTÍCULO 42 BIS 3.- La Secretaría estará facultada para establecer modalidades en la explotación de caminos y puentes, sólo por el tiempo que resulte estrictamente necesario, de conformidad con el reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+ARTÍCULO 42 BIS 4.- La Secretaría podrá autorizar, dentro de un plazo de 60 días naturales, contado a partir de la presentación de la solicitud, la cesión de los derechos y obligaciones establecidos en las concesiones o permisos, siempre que éstos hubieren estado vigentes por un lapso no menor a 3 años; que el cedente haya cumplido con todas sus obligaciones; y que el cesionario reúna los mismos requisitos que se tuvieron en cuenta para el otorgamiento de la concesión o permiso respectivos.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+ARTÍCULO 42 BIS 5.- En ningún caso se podrá ceder, hipotecar, ni en manera alguna gravar o enajenar la concesión, los derechos en ésta conferidos, los caminos y puentes, así como los bienes afectos a los mismos, a ningún Gobierno o Estado extranjeros.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+ARTÍCULO 42 BIS 6.- El título de concesión deberá contener, por lo menos:
+
+I. Nombre y domicilio de la persona concesionaria;
+
+II. Objeto, fundamento legal y motivos de su otorgamiento;
+
+III. Las características de construcción y las condiciones de conservación y operación de la vía;
+
+IV. Las bases de regulación tarifaria para el cobro en las cuotas en las carreteras y puentes;
+
+V. Los derechos y obligaciones de las personas concesionarias;
+
+VI. El periodo de vigencia;
+
+VII. El monto del fondo de reserva destinado a la conservación y mantenimiento de la vía;
+
+VIII. Las contraprestaciones que deban pagarse al Gobierno del Estado de Colima, mismas que serán fijadas por la Secretaría de Planeación, Finanzas y Administración a propuesta de la Secretaría; y
+
+IX. Las causas de revocación y terminación.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+ARTÍCULO 42 BIS 7.- Las concesiones terminan por:
+
+I. Vencimiento del plazo establecido en el título o de la prórroga que se hubiese otorgado;
+
+II. Renuncia del titular;
+
+III. Revocación;
+
+IV. Rescate;
+
+V. Desaparición o extinción del objeto o de la finalidad de la concesión;
+
+VI. Liquidación del titular de la concesión;
+
+VII. Quiebra del titular de la concesión, para lo cual se estará a lo dispuesto en la Ley de la materia;
+
+VIII. Sentencia firme dictada por autoridad jurisdiccional; y
+
+IX. Las causas previstas en el título de concesión.
+
+La terminación de la concesión no exime a su titular de las responsabilidades contraídas, durante su vigencia, con el Gobierno del Estado de Colima y con terceros.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+ARTÍCULO 42 BIS 8.- La Secretaría podrá revocar las concesiones, si el concesionario:
+
+I. No cumple, sin causa justificada, el objeto, obligaciones o condiciones de la concesión;
+
+II. No cumple, sin causa justificada, los requerimientos de construcción y operación establecidos en el título de concesión;
+
+III. Interrumpe total o parcialmente, sin causa justificada, la operación de la vía;
+
+IV. Reincide en la aplicación de tarifas superiores a las autorizadas;
+
+V. Cambia de nacionalidad;
+
+VI. Cede, hipoteca, grava o transfiere la concesión a favor de terceros, sin la autorización de la Secretaría;
+
+VII. Incumple con el pago de la contraprestación, que en su caso se haya fijado en la concesión;
+
+VIII. Modifica o altera sustancialmente la naturaleza o condiciones de los caminos y puentes sin autorización de la Secretaría;
+
+IX. Incumple reiteradamente las obligaciones o condiciones establecidas en esta ley o en su reglamento;
+
+X. Realiza obras no autorizadas;
+
+XI. Daña ecosistemas como consecuencia de su uso, operación o explotación, sin contar con, o en contravención a las autorizaciones y permisos emitidos por las autoridades ambientales competentes, esto con independencia, de las sanciones especiales que impongan las autoridades competentes, en los términos de la normatividad en materia ambiental.
+
+Para el procedimiento de revocación se deberá observar el cumplimiento del procedimiento establecido en la propia concesión y a falta de éste, al establecido en esta Ley.
+
+El titular de una concesión que hubiere sido revocada, estará imposibilitado para obtener otro nuevo dentro de un plazo de 5 años, contado a partir de que hubiere quedado firme la resolución de respectiva.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+ARTÍCULO 42 BIS 9.- Cumplido el término de la concesión, y en su caso, de la prórroga que se hubiere otorgado, la vía general de comunicación con los derechos de vía, pasarán al dominio del Estado de Colima, sin costo alguno y libre de gravamen.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+ARTÍCULO 42 BIS 10.- Las concesiones y permisos a que se refiere esta Ley se ajustarán a las disposiciones en materia de competencia económica.
 
 ### CAPÍTULO V. DE LAS INSTALACIONES DE ANUNCIOS Y SEÑALES INFORMATIVAS
 
@@ -607,9 +923,11 @@ El que sin haber obtenido permiso, opere o aproveche el derecho de vía, perder�
 
 Ahora bien, en el caso de que dichas obras, objetos o instalaciones representen un peligro inminente que impida el libre tránsito, causando daños y perjuicios a cualquier persona física o moral, la Secretaría procederá al aseguramiento inmediato de las obras, objetos e instalaciones, y aplicará las sanciones previstas en el Capítulo VIII de la presente Ley.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 61.
 
-Las sanciones previstas en esta Ley, se aplicarán sin perjuicio de la responsabilidad penal, civil o administrativa que resulte.
+Las sanciones previstas en esta Ley, se aplicarán sin perjuicio de la responsabilidad penal, civil o administrativa que resulte, ni de que, cuando proceda, la Secretaría revoque la concesión o permiso.
 
 ### CAPÍTULO VIII. DE LAS SANCIONES
 
@@ -653,6 +971,50 @@ En caso de que el particular haga caso omiso de los supuestos establecidos en el
 
 Las multas, gastos y costos, a que se refiere esta Ley, se podrán constituir en créditos fiscales y su pago podrá ser exigido por las autoridades fiscales del Estado, en términos del Código Fiscal del Estado de Colima.
 
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 69.
+
+En caso de reincidencia, la Secretaría podrá imponer una multa equivalente hasta el doble de las cuantías señaladas, salvo las excepciones o casos específicos previstos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 70.
+
+El que sin haber previamente obtenido concesión o permiso de la Secretaría opere o explote caminos, puentes o paraderos, perderá en beneficio del Estado, las obras ejecutadas y las instalaciones establecidas.
+
+Una vez que la Secretaría tenga conocimiento de ello, procederá al aseguramiento de las obras ejecutadas y las instalaciones establecidas poniéndolas bajo la guarda de un interventor, previo inventario que al respecto se formule. Posteriormente al aseguramiento, se concederá un plazo de 10 días hábiles al presunto infractor para que presente las pruebas y defensas que estime pertinentes en su caso; pasado dicho término, la Secretaría dictará la resolución fundada y motivada que corresponda.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 71.
+
+Al imponer las sanciones a que se refiere este Título, la Secretaría deberá considerar:
+
+I. La gravedad de la infracción;
+
+II. Los daños causados; y
+
+III. La reincidencia.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 72.
+
+Salvo que la concesión establezca otro procedimiento particular, para declarar la revocación de las concesiones y permisos, suspensión de servicios y la imposición de las sanciones previstas en esta Ley, se estará a lo siguiente:
+
+I. Secretaría hará saber al presunto infractor la causa o causas de la sanción, concediéndole un plazo de 15 días naturales para que presente sus pruebas y defensas; y
+
+II. Presentadas las pruebas y defensas o vencido el plazo señalado en la fracción anterior sin que se hubieren presentado, la Secretaría dictará la resolución que corresponda en un plazo no mayor a 30 días naturales.
+
+El Reglamento preverá las infracciones que corresponda en violación de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 73.
+
+Contra las resoluciones dictadas con fundamento en esta Ley y sus reglamentos, se podrá interponer recurso de revisión conforme a lo dispuesto en la Ley de Procedimiento Administrativo del Estado de Colima y sus municipios.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
@@ -684,3 +1046,11 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 4 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 259.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 2 FRACCIONES VIII, XV, XIX, XX, XXI Y XXII, 5 FRACCIONES II, V, VII, VIII, IX, X Y XI, 6 FRACCIONES III Y IV, 7, LA DENOMINACIÓN DEL CAPÍTULO IV "DE LOS PERMISOS Y CONCESIONES"; 36 FRACCIÓN II Y SU ÚLTIMO PÁRRAFO, 41 FRACCIONES I A LA VII Y SU ÚLTIMO PÁRRAFO, ASÍ COMO EL ARTÍCULO 61; SE ADICIONAN LA FRACCIÓN XXIII AL ARTÍCULO 2, LAS FRACCIONES XII Y XIII AL ARTÍCULO 5, 6 FRACCIONES DE LA V A LA X, UN SEGUNDO, TERCERO Y CUARTO PÁRRAFOS AL ARTÍCULO 10, 17 BIS, LA DENOMINACIÓN DE LA SECCIÓN I "DE LOS PERMISOS" AL CAPÍTULO IV "DE LOS PERMISOS Y CONCESIONES", 34 ÚLTIMO PÁRRAFO, 37 ÚLTIMO PÁRRAFO, 40 ÚLTIMO PÁRRAFO, 41 FRACCIONES DE LA VIII A LA XV, LA DENOMINACIÓN DE LA SECCIÓN II "DE LAS CONCESIONES" AL CAPÍTULO IV "DE LOS PERMISOS Y CONCESIONES", 42 BIS, 42 BIS 1, 42 BIS 2, 42 BIS 3, 42 BIS 4, 42 BIS 5, 42 BIS 6, 42 BIS 7, 42 BIS 8, 42 BIS 9 Y 42 BIS 10, 69, 70, 71, 72 Y 73 DE LA LEY DE CAMINOS Y PUENTES DEL ESTADO DE COLIMA; ADEMÁS, SE DEROGA EL NUMERAL SEGUNDO Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 77 DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al (sic) día de su aprobación por el Congreso del Estado, debiéndose publicar en el Periódico Oficial "El Estado de Colima".
