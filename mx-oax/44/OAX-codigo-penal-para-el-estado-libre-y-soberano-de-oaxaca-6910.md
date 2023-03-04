@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2022-10-22"
+last_updated: "2023-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4947,6 +4947,48 @@ El juez tomará en cuenta para la determinación del daño causado en materia am
 
 459.- Los delitos del presente Título podrán denunciarse por cualquier persona o por las mismas autoridades ambientales.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2023)</small>
+
+### CAPITULO UNICO. La esterilización forzada, procreación asistida e inseminación artificial sin consentimiento
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+460.- A quien sin el consentimiento de persona mayor de dieciocho años realice en ella un procedimiento de esterilización, se le impondrán de cuatro a siete años de prisión.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+461.- A quien disponga de óvulos o espermas para fines distintos a los autorizados por sus donantes, se le impondrán de tres a seis años de prisión y de cincuenta a quinientos días multa.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+462.- A quien sin consentimiento, realice inseminación artificial en una mujer mayor de dieciocho años, se le impondrán de cuatro a siete años de prisión.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+463.- A quien implante a mujer mayor de dieciocho años un óvulo fecundado, cuando hubiere utilizado para ello un óvulo ajeno o esperma de donante no autorizado, sin el consentimiento expreso de la paciente o del donante, se le impondrá de cuatro a siete años de prisión.
+
+Si como consecuencia de este delito se produce un embarazo, la pena aplicable será de cinco a catorce años y si nacen hijas o hijos estará obligado al pago de la reparación del daño que comprenderá, además, el pago de alimentos para éstos y para la madre, en los términos que fija la legislación familiar.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+464.- En el caso de los delitos señalados en los artículos anteriores del presente Capítulo, se considerarán agravantes cuando concurran las siguientes circunstancias:
+
+I. Cuando la víctima sea menor de edad, tenga alguna discapacidad o se trate de persona incapaz para comprender el significado del hecho o para resistirlo, aún con su consentimiento o de quien detente la guarda, custodia, atención o cuidado, tutela o patria potestad de la víctima, la pena se aumentará hasta en dos terceras partes del delito básico.
+
+II. Cuando el delito se realice valiéndose de medios o circunstancias que le proporcione su empleo, cargo o comisión públicos, profesión, ministerio religioso o cualquier otra que implique subordinación por parte de la víctima, la pena se aumentará en una mitad de la señalada para el delito básico.
+
+III. En el supuesto de que el delito se realice con violencia física o moral o psicoemocional aprovechándose de la ignorancia, extrema pobreza o cualquier otra circunstancia que hiciera más vulnerable a la víctima, se impondrá de cinco a catorce años de prisión.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+465.- Además de las penas previstas en los artículos anteriores, se impondrá suspensión para ejercer la profesión a quien realice el procedimiento médico o, en caso de servidores públicos, inhabilitación para el desempeño del empleo, cargo o comisión públicos, por un tiempo igual al de la pena de prisión impuesta, así como la destitución.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2023)</small>
+
+466.- Los delitos señalados en los artículos anteriores se perseguirán de oficio cuando la víctima sea menor de edad, tenga alguna discapacidad o sea incapaz para comprender el significado del hecho o para resistirlo.
+
+Cuando la víctima sea mayor de edad el delito se perseguirá por querella.
+
 ARTICULOS TRANSITORIOS:
 
 ## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
@@ -5040,6 +5082,10 @@ El conocimiento de la actividad delictiva y la existencia de la misma se acredit
 ## TITULO VIGESIMO OCTAVO. DELITOS CONTRA EL AMBIENTE
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+## TITULO VIGESIMO NOVENO. Delitos contra la libertad reproductiva
+
+> <small>(ADICIONADO LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2023)</small>
 
 ###### ARTICULO 1o.
 
@@ -6046,3 +6092,11 @@ P.O. 22 DE OCTUBRE DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 903.- MEDIANTE EL CUAL ADICIONA EL TÍTULO VIGÉSIMO NOVENO “DELITOS CONTRA LA LIBERTAD REPRODUCTIVA”, CAPÍTULO ÚNICO “LA ESTERILIZACIÓN FORZADA, PROCREACIÓN ASISTIDA E INSEMINACIÓN ARTIFICIAL SIN CONSENTIMIENTO”, ASÍ COMO LOS ARTÍCULOS 460, 461, 462, 463, 464, 465 Y 466 TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
