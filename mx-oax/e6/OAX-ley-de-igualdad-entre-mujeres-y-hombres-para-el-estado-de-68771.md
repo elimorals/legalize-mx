@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-igualdad-entre-mujeres-y-hombres-para-el-estado-de-68771
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-25"
-last_updated: "2022-08-20"
+last_updated: "2023-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 25 de abril de 2009.
 
@@ -83,65 +83,69 @@ I. Acciones Afirmativas.- Son las medidas especiales, específicas y de carácte
 
 II. Accesibilidad.- Todos aquellos lugares del centro de trabajo, tales como edificios, locales, instalaciones y áreas, con o sin mobiliario, maquinaria o equipo, que permiten a las y los trabajadores con discapacidad, entrar, desplazarse, salir, orientarse y comunicarse de manera segura, autónoma y cómoda para realizar actividades de producción, comercialización, transporte y almacenamiento o prestación de servicios;
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2023)</small>
+
+III. Corresponsabilidad familiar. Es el reparto equitativo entre hombres y mujeres de las tareas domésticas y de las responsabilidades familiares tales como el cuidado, la educación y la atención de personas dependientes, que permitan ejercer con libertad el derecho a decidir la distribución del tiempo acorde a sus necesidades e intereses.
+
 > <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2021)</small>
 
-III. Desigualdad Salarial.- Es la brecha de desigualdad de género en el sector laboral, se identifica como la diferencia entre el promedio de los ingresos totales masculinos y femeninos, expresada como un porcentaje de los ingresos totales masculinos;
+IV. Desigualdad Salarial.- Es la brecha de desigualdad de género en el sector laboral, se identifica como la diferencia entre el promedio de los ingresos totales masculinos y femeninos, expresada como un porcentaje de los ingresos totales masculinos;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE JUNIO DE 2021)</small>
 
-IV. La Secretaría.- La Secretaría de las Mujeres de Oaxaca;
+V. La Secretaría.- La Secretaría de las Mujeres de Oaxaca;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE JUNIO DE 2021)</small>
 
-V. Ley.- Es la Ley de Igualdad entre Mujeres y Hombres para el Estado de Oaxaca;
+VI. Ley.- Es la Ley de Igualdad entre Mujeres y Hombres para el Estado de Oaxaca;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE JUNIO DE 2021)</small>
 
-VI. Empoderamiento.- Proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a una toma de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio pleno de todos sus derechos y libertades;
+VII. Empoderamiento.- Proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a una toma de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio pleno de todos sus derechos y libertades;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE JUNIO DE 2021)</small>
 
-VII. Estereotipo Sexual.- Es una idea fija y rígida que sea perpetúa a través de las características y conductas que se presuponen propias del sexo femenino y del sexo masculino;
+VIII. Estereotipo Sexual.- Es una idea fija y rígida que sea perpetúa a través de las características y conductas que se presuponen propias del sexo femenino y del sexo masculino;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE JUNIO DE 2021)</small>
 
-VIII. Política de Igualdad.- Es la Política Estatal en Materia de Igualdad entre Mujeres y Hombres;
+IX. Política de Igualdad.- Es la Política Estatal en Materia de Igualdad entre Mujeres y Hombres;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE JUNIO DE 2021)</small>
 
-IX. Programa.- Es el Programa Estatal para la igualdad entre Mujeres y Hombres;
+X. Programa.- Es el Programa Estatal para la igualdad entre Mujeres y Hombres;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2021)</small>
 
-X. Sistema.- Es el Sistema Estatal para la Igualdad entre Mujeres y Hombres;
+XI. Sistema.- Es el Sistema Estatal para la Igualdad entre Mujeres y Hombres;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2021)</small>
 
-XI. Transversalidad de Género.- Proceso que permite garantizar la incorporación de la perspectiva de género en la legislación, políticas públicas, actividades administrativas, económicas y culturales, en las instituciones públicas y privadas, con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe;
+XII. Transversalidad de Género.- Proceso que permite garantizar la incorporación de la perspectiva de género en la legislación, políticas públicas, actividades administrativas, económicas y culturales, en las instituciones públicas y privadas, con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2021)</small>
 
-XII. Discriminación.- Toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo. También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
+XIII. Discriminación.- Toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo. También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE JUNIO DE 2021)</small>
 
-XIII. Discriminación contra la Mujer.- Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio de la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
+XIV. Discriminación contra la Mujer.- Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio de la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE JUNIO DE 2021)</small>
 
-XIV. Igualdad de Género.- Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
+XV. Igualdad de Género.- Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2021)</small>
 
-XV. Igualdad Sustantiva.- Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+XVI. Igualdad Sustantiva.- Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XVI. Paridad de género.- Principio constitucional que garantiza la igualdad entre hombres y mujeres en la postulación de candidaturas para cargos de elección popular, los nombramientos y en el acceso a puestos de toma de decisión en el ámbito público, y;
+XVII. Paridad de género.- Principio constitucional que garantiza la igualdad entre hombres y mujeres en la postulación de candidaturas para cargos de elección popular, los nombramientos y en el acceso a puestos de toma de decisión en el ámbito público, y;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2021)</small>
 
-XVII. Perspectiva de Género.- Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
+XVIII. Perspectiva de Género.- Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
 
 ###### Artículo 6.
 
@@ -181,7 +185,9 @@ I. Elaborar y conducir la Política Estatal en Materia de Igualdad entre Mujeres
 
 II. Coordinar las acciones para la transversalidad de la perspectiva de género, así como crear y aplicar el Programa, con los principios que la ley señala;
 
-III. Garantizar la igualdad de oportunidades, mediante la adopción de políticas, programas, proyectos y acciones afirmativas;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
+
+III. Garantizar la igualdad sustantiva entre hombres y mujeres, así como la corresponsabilidad familiar, mediante la adopción de programas, proyectos y acciones afirmativas.
 
 IV. Celebrar acuerdos o convenios de coordinación, cooperación y concertación en materia de igualdad de género;
 
@@ -225,11 +231,11 @@ IV. Fomentar la participación social, política, ciudadana y económica dirigid
 
 ### CAPÍTULO PRIMERO. DE LA POLÍTICA DE IGUALDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2023)</small>
 
 ###### Artículo 13.
 
-La Política Estatal en Materia de Igualdad entre Mujeres y Hombres, es el conjunto de objetivos, planes, programas, acciones afirmativas y presupuestos destinados a lograr la igualdad sustantiva para las mujeres en los ámbitos económico, político, social, civil, cultural, acceso a la justicia y seguridad pública.
+La Política Estatal en Materia de Igualdad entre Mujeres y Hombres, es el conjunto de objetivos, planes, programas, acciones afirmativas y presupuestos destinados a lograr la igualdad sustantiva para las mujeres en los ámbitos económico, político, social, civil, cultural, familiar, acceso a la justicia y seguridad pública.
 
 > <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -383,17 +389,21 @@ I. Asegurar a través de medidas afirmativas la igualdad entre mujeres y hombres
 
 II. Coadyuvar en la eliminación de estereotipos que fomentan la violencia de género en la sociedad;
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2023)</small>
+
+III. Coadyuvar en la eliminación de estereotipos y roles de género que fomentan las desigualdades entre mujeres y hombres;
+
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2021)</small>
 
-III. Promover el desarrollo de programas y acciones que estimulen la igualdad entre mujeres y hombres;
+IV. Promover el desarrollo de programas y acciones que estimulen la igualdad entre mujeres y hombres;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2021)</small>
 
-IV. Contribuir al adelanto y empoderamiento de las mujeres; y
+V. Contribuir al adelanto y empoderamiento de las mujeres; y
 
 > <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2021)</small>
 
-V. Impulsar la certificación de conformidad con la Norma Mexicana NMX-R-025-SCFI-2015 en Igualdad Laboral y No Discriminación en todos los centros de trabajo públicos y privados del Estado de Oaxaca.
+VI. Impulsar la certificación de conformidad con la Norma Mexicana NMX-R-025-SCFI-2015 en Igualdad Laboral y No Discriminación en todos los centros de trabajo públicos y privados del Estado de Oaxaca.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -679,17 +689,19 @@ IX. Contribuir a un reparto equilibrado de las responsabilidades familiares entr
 
 ### CAPÍTULO QUINTO. DE LA ELIMINACIÓN DE ESTEREOTIPOS DISCRIMINATORIOS SEXISTAS
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2023)</small>
 
 ###### Artículo 33.
 
-Será objetivo de la Política de Igualdad, la eliminación de los estereotipos que fomentan la discriminación y la violencia hacia las mujeres.
+Será objetivo de la Política de Igualdad, la eliminación de los estereotipos y roles de género que fomentan la desigualdad, discriminación y la violencia hacia las mujeres.
 
 ###### Articulo 34.
 
 Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
 
-I. Promover medidas que contribuyan a erradicar toda discriminación basada en estereotipos de género;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2023)</small>
+
+I. Promover medidas que contribuyan a erradicar toda discriminación basada en estereotipos y roles de género;
 
 II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres; y
 
@@ -910,3 +922,11 @@ P.O. 20 DE AGOSTO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 912.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN III RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 5, LA FRACCIÓN III RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 21; Y SE REFORMAN LA FRACCION III DEL ARTICULO 11, EL PARRAFO PRIMERO DEL ARTÍCULO 13, EL ARTÍCULO 33 Y LA FRACCION I DEL ARTÍCULO 34 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
