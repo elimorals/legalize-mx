@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-la-universidad-de-sonora-8412"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-11-26"
-last_updated: "1991-11-26"
+last_updated: "2023-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD DE SONORA, PUBLICADA EN EL B.O. DE 5 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGANICA DE LA UNIVERSIDAD DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE MARZO DE 2023 (ABROGADA).
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el martes 26 de noviembre de 1991.
 
@@ -1052,3 +1054,79 @@ LIC. MANLIO FABIO BELTRONES RIVERA.
 EL SECRETARIO DE GOBIERNO.
 
 LIC. ROBERTO SANCHEZ CEREZO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 5 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 169, ORGÁNICA DE LA UNIVERSIDAD DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora. Se abroga la Ley Número 4, Orgánica de la Universidad de Sonora, Publicada en el B.O. No. 4, Edición Especial de fecha 26 de noviembre de 1991, y se derogan todas las disposiciones que se opongan a la aplicación de la presente Ley.
+
+###### ARTÍCULO SEGUNDO.
+
+El Estatuto General y demás disposiciones reglamentarias vigentes se seguirán aplicando en lo que no se opongan a la presente Ley, hasta que el Colegio Universitario expida la normatividad correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+Para facilitar la transición, por única ocasión, la persona titular de la Defensoría de los Derechos Universitarios de la Universidad de Sonora integrará una Comisión Electoral que coadyuve en la operación del proceso. Esta comisión deberá estar integrada por:
+
+I.- Cuatro estudiantes de alto desempeño académico, cuyo promedio sea superior a la media universitaria; y
+
+II.- Cuatro académicos de reconocido prestigio.
+
+La Comisión Electoral emitirá una convocatoria en los términos establecidos en la presente Ley, para elegir a los representantes del personal académico, alumnado y personal manual y administrativo ante el Colegio Universitario, los Colegios de las Facultades Interdisciplinarias y Colegios Departamentales. La persona titular de Rectoría deberá otorgar todos los recursos materiales, humanos y en su caso financieros necesarios para la organización del proceso en mención.
+
+La convocatoria deberá ser publicada en un plazo no mayor a diez días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+Una vez instalados formalmente los órganos colegiados conforme a la presente Ley, la Comisión Electoral dejará de fungir como tal.
+
+###### ARTÍCULO CUARTO.
+
+Las personas titulares de las Jefaturas de Departamento en funciones presidirán los Colegios Departamentales, que deberán quedar instalados formalmente veinticinco días hábiles después de la entrada en vigor de la presente Ley.
+
+Las Divisiones y los Consejos Divisionales se extinguirán tras la instalación formal de los Colegios Departamentales.
+
+###### ARTÍCULO QUINTO.
+
+La persona titular de Rectoría, por esta única ocasión, inmediatamente después de la instalación formal de los Colegios Departamentales, realizará los procedimientos necesarios para la instalación formal de los Colegios de las Facultades Interdisciplinarias, que deberán concluir a más tardar treinta días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+Los Consejos Académicos de las Unidades Regionales se extinguirán tras la instalación formal de los Colegios de las Facultades Interdisciplinarias.
+
+Los secretarios técnicos de las Divisiones de la Unidad Regional Centro, una vez extinguidos los Consejos Divisionales, serán los responsables de facilitar la instalación de los Colegios de las Facultades Interdisciplinarias.
+
+La persona titular de Rectoría designará a los Directores Administrativos para facilitar la implementación de la nueva estructura académico administrativa en los Campus de Caborca, Cajeme, Navojoa, Nogales y Santa Ana.
+
+La persona titular de la Rectoría deberá implementar las medidas administrativas, presupuestales y demás aplicables para facilitar la operación funcional de las Facultades Interdisciplinarias. Asimismo, los recursos derivados de la extinción de las Divisiones y Vicerrectorías deberán repartirse proporcionalmente entre las Facultades Interdisciplinarias y sus Departamentos, atendiendo sus requerimientos y necesidades. Durante el periodo electoral, de donde surgirán los integrantes de los órganos colegiados, las Divisiones no ejercerán recursos presupuestales.
+
+###### ARTÍCULO SEXTO.
+
+El Colegio Universitario, después de la instalación formal de los Colegios de las Facultades Interdisciplinarias y de los Colegios Departamentales, deberá constituirse como máximo órgano de gobierno, en los términos establecidos en la presente Ley, a más tardar cuarenta días hábiles después de su entrada en vigor.
+
+El Colegio Académico se extinguirá tras la instalación formal del Colegio Universitario.
+
+El Colegio Universitario, una vez instalado, procederá a designar a los integrantes del Colegiado Permanente de Asuntos Electorales, cuya primera responsabilidad será emitir la convocatoria para elegir a las personas titulares de los Colegios de las Facultades Interdisciplinarias, que deberán nombrarse en un plazo no mayor a 55 días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Colegio Universitario expedirá el Estatuto General dentro de los cien días hábiles siguientes a la entrada en vigor de la presente Ley, y su aprobación deberá contar con el voto de dos terceras partes del total de sus integrantes. Inmediatamente después de su aprobación, iniciará con las reformas necesarias a los reglamentos vigentes, los cuales deberán quedar concluidos en un plazo máximo de ciento cincuenta días hábiles.
+
+###### ARTÍCULO OCTAVO.
+
+Las personas titulares de Rectoría y de las Jefaturas de Departamento en funciones permanecerán en su cargo hasta concluir el periodo para el cual fueron nombradas o designadas conforme a la Ley Número 4. En tanto no sean elegidos por los mecanismos establecidos en la presente Ley, los actuales titulares de las Jefaturas de Departamento participarán con voz, pero no con voto en las comisiones designadas para la elaboración de la propuesta del Estatuto General de la Universidad y su aprobación posterior en el pleno del Colegio Universitario.
+
+Durante el proceso de transición establecido en la presente Ley, la persona titular de Rectoría deberá realizar los procedimientos, acciones y gestiones que faciliten el desarrollo de todos y cada uno de los procesos electorales, administrativos, presupuestales, organizacionales y otros, a solicitud expresa de los órganos de gobierno de la Universidad de Sonora y/o por las atribuciones que le confiere la presente Ley.
+
+###### ARTÍCULO NOVENO.
+
+Quienes integran el Consejo de Vinculación Social a la entrada en vigor de la presente Ley continuarán en funciones hasta la instalación formal de los Consejos Regionales de Vinculación Social en cada uno de los Campus. En tanto, quienes integran el Consejo Jurídico a la entrada en vigor de la presente Ley continuarán en funciones hasta que concluyan el periodo por el cual fueron nombrados.
+
+###### ARTÍCULO DÉCIMO.
+
+La Auditoría Interna cambia su denominación a Órgano Interno de Control. La persona titular de la Auditoría Interna pasará a ser Titular del Órgano Interno de Control hasta la terminación del periodo para la cual fue nombrada.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Los procedimientos iniciados por las autoridades con anterioridad a la entrada en vigor de la presente Ley serán concluidos conforme a las disposiciones aplicables a su inicio.
