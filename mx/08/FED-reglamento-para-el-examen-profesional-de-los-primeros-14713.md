@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-examen-profesional-de-los-primeros-14713"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-23"
-last_updated: "1999-08-23"
+last_updated: "2023-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14713&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1999-08-17"
 ---
 # REGLAMENTO PARA EL EXAMEN PROFESIONAL DE LOS PRIMEROS MAESTRES PASANTES EGRESADOS DE LA ESCUELA DE MECANICA DE AVIACION NAVAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO PARA EL EXAMEN PROFESIONAL DE LOS SEGUNDOS MAESTRES PASANTES EGRESADOS DE LA ESCUELA DE MECÁNICA DE AVIACIÓN NAVAL, PUBLICADO EN EL D.O.F. DE 6 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO PARA EL EXAMEN PROFESIONAL DE LOS PRIMEROS MAESTRES PASANTES EGRESADOS DE LA ESCUELA DE MECANICA DE AVIACION NAVAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MARZO DE 2023 (DEROGADO).
 
 Reglamento publicado en Sección Primera del Diario Oficial de la Federación, el lunes 23 de agosto de 1999.
 
@@ -462,3 +464,17 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se abroga el Reglamento para las Prácticas y Examen Profesional de los Guardiamarinas, publicado en el Diario Oficial de la Federación el 3 de julio de 1978.
 
 Dado en la Residencia Oficial del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de agosto de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO PARA EL EXAMEN PROFESIONAL DE LOS SEGUNDOS MAESTRES PASANTES EGRESADOS DE LA ESCUELA DE MECÁNICA DE AVIACIÓN NAVAL”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto deben de cubrirse con cargo al presupuesto autorizado a la Secretaría de Marina en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, por lo que no se requerirá de recursos adicionales y no se incrementará su presupuesto regularizable, durante el presente ejercicio fiscal y subsecuentes.
+
+TERCERO. Se derogan el artículo octavo del Decreto por el que se expiden los Reglamentos para el Examen Profesional de los Egresados de Diversas Escuelas de la Armada de México, publicado el 23 de agosto de 1999 en el Diario Oficial de la Federación, y todas aquellas disposiciones que se opongan al presente decreto.
+
+CUARTO. Los asuntos que se encuentren en trámite deben ser resueltos conforme a las disposiciones vigentes al momento de su inicio.
