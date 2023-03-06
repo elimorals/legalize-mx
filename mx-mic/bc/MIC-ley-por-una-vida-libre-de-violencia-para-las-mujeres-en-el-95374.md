@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2022-08-30"
+last_updated: "2023-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -210,6 +210,26 @@ VIII. Violencia Digital. Es cualquier acto que se presenta a través de las tecn
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE ENERO DE 2020)</small>
 
 IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+
+> <small>(ADICIONADA [N. DE E. CON SUS FRACCIONES], P.O. 6 DE MARZO DE 2023)</small>
+
+IX Bis. Violencia Vicaria: es la violencia que comete quien mantenga o haya mantenido una relación de matrimonio, concubinato o de hecho con una mujer y que le cause daño, por sí o por interpósita persona, utilizando como medio a las hijas, hijos o personas significativas para la víctima.
+
+Para efectos de este delito se considera que se causa daño a la mujer, cuando el sujeto activo:
+
+I. Amenace con causar daño a las hijas o hijos de la víctima, o personas significativas para ella, o amenace con ocultarlos, retenerlos o sustraerlos;
+
+II. Promueva, incite o fomente actos de violencia física o psicológica de hijas o hijos de la víctima, o personas significativas para ella, en contra de ésta;
+
+III. Promueva, incite o fomente actos que descalifiquen la figura materna afectando el vínculo materno filial de las hijas o hijos de la víctima;
+
+IV. Impida, dificulte o restrinja la convivencia y comunicación de la víctima con sus hijas, hijos o con personas significativas para ella, o los oculte, retenga o sustraiga;
+
+V. Interponga acciones legales, procedimientos judiciales o conductas procesales, sustentándose en hechos falsos o inexistentes e impidiendo, dificultando o restringiendo la convivencia o el ejercicio de la guarda y custodia o patria potestad por parte de la víctima, respecto de sus hijas o hijos; o,
+
+VI. Condicione el cumplimiento de las obligaciones alimentarias a que tiene derecho la víctima o las hijas e hijos en común.
+
+Para efectos del presente artículo se entiende por persona significativa cualquiera que tenga una relación afectiva continua con la víctima en el entorno de sus relaciones sociales inmediatas.
 
 > <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES SIMILAR A LA FRACCIÓN IX.]</small>
 
@@ -1234,3 +1254,9 @@ SEGUNDO. La Comisión de Igualdad Sustantiva y de Género contará con treinta d
 TERCERO. La Comisión de Igualdad Sustantiva y de Género contará con hasta ciento ochenta días naturales para la creación del Reglamento Interno del Observatorio para dar seguimiento al Programa de Trabajo que atiende las Alertas de Violencia de Género contra las Mujeres en el Estado de Michoacán de Ocampo.
 
 CUARTO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 345 POR EL QUE "SE ADICIONA LA FRACCIÓN IX BIS AL ARTÍCULO 9 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
