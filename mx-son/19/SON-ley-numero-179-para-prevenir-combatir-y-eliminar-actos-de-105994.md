@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-179-para-prevenir-combatir-y-eliminar-actos-de-10599
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-24"
-last_updated: "2023-01-16"
+last_updated: "2023-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE MARZO DE 2023.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 24 de noviembre de 2014.
 
@@ -295,9 +295,17 @@ XII.- Establecer relaciones de coordinación con instituciones públicas federal
 
 XIII.- Solicitar a las instituciones públicas la información para verificar el cumplimiento de este ordenamiento, en el ámbito de su competencia;
 
-XIV.- Elaborar y suscribir convenios, acuerdos, bases de coordinación y demás instrumentos jurídicos con órganos públicos o privados, federales, estatales y municipales en el ámbito de su competencia; y
+> <small>(REFORMADA, B.O. 6 DE MARZO DE 2023)</small>
 
-XV.-Las demás establecidas en esta Ley y demás disposiciones legales aplicables.
+XIV.- Elaborar y suscribir convenios, acuerdos, bases de coordinación y demás instrumentos jurídicos con órganos públicos o privados, federales, estatales y municipales en el ámbito de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 6 DE MARZO DE 2023)</small>
+
+XV.- Llevar un registro desagregado de las quejas por presunta discriminación que se presenten. En los casos de discriminación laboral por embarazo, permitiendo identificar el tipo de conducta de la que se trata y los derechos que se vulneraron; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 6 DE MARZO DE 2023)</small>
+
+XVI.- Las demás establecidas en esta Ley y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -381,11 +389,11 @@ A las instituciones públicas que se distingan por llevar a cabo programas y med
 
 A efecto de evitar la discriminación laboral por motivos de edad, embarazo y apariencia física dentro del Sector Público y Privado en el Estado de Sonora, la Comisión se coordinará con la Secretaría del Trabajo del Estado para la implementación de campañas de concientización y cualquier tipo de acción que inhiba ese tipo de discriminación.
 
-> <small>(ADICIONADO, B.O. 4 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, B.O. 6 DE MARZO DE 2023)</small>
 
 ###### Artículo 31.
 
-La Comisión, en coordinación con la Secretaría del Trabajo del Estado, se reunirá semestralmente con las cámaras empresariales en el Estado, con la finalidad de evaluar las acciones que se han implementado para evitar actos de discriminación por motivos de edad. La Comisión deberá elaborar un informe anual de dichas acciones, mismo que deberá ser entregado ante el Congreso del Estado, a más tardar el 31 de marzo del año de cada año
+La Comisión, en coordinación con la Secretaría del Trabajo del Estado, se reunirá semestralmente con las cámaras empresariales en el Estado, con la finalidad de evaluar las acciones que se han implementado para evitar actos de discriminación por motivos de edad, embarazo y maternidad. La Comisión deberá elaborar un informe anual de dichas acciones, mismo que deberá ser entregado ante el Congreso del Estado, a más tardar el 31 de marzo del año de cada año.
 
 > <small>(ADICIONADO, B.O. 4 DE MAYO DE 2021)</small>
 
@@ -393,13 +401,13 @@ La Comisión, en coordinación con la Secretaría del Trabajo del Estado, se reu
 
 Cualquier persona física o moral que vaya a publicar ofertas de trabajo a través de cualquier medio de difusión, sea revista, periódico o cualquier medio electrónico, deberá notificarlo a la Secretaría del Trabajo del Estado, con la finalidad de que la misma constate que la publicación sobre una oferta de trabajo, no restringe el acceso a la oportunidad de trabajo por motivos de edad, aspecto físico y que no se exija a las mujeres un examen de embarazo.
 
-> <small>(ADICIONADO, B.O. 4 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, B.O. 6 DE MARZO DE 2023)</small>
 
 ###### Artículo 33.
 
-La Secretaría del Trabajo del Estado, impondrá una multa por el equivalente de 35 a 70 veces la Unidad de Medida y Actualización Vigente, a la persona física o moral que publique por cualquier medio informativo una oferta de trabajo en la cual restrinja el acceso a la oportunidad de trabajo por motivos de edad.
+La Secretaría del Trabajo del Estado, impondrá una multa por el equivalente de 35 a 70 veces la Unidad de Medida y Actualización Vigente, a la persona física o moral que publique por cualquier medio informativo una oferta de trabajo en la cual restrinja el acceso a la oportunidad de trabajo por motivos de edad, embarazo o maternidad.
 
-En caso de reincidencia, el infractor deberá ser multado con el monto que como máximo señala el párrafo anterior.
+En caso de reincidencia, el infractor deberá ser multado con el doble del monto que como máximo señala el párrafo anterior.
 
 > <small>(ADICIONADO, B.O. 4 DE MAYO DE 2021)</small>
 
@@ -446,6 +454,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 16 DE ENERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 97, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 9 DE LA LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 96, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE SONORA, DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA Y DE LA LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO ÚNICO.
 
