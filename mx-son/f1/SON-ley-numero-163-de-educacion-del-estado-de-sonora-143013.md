@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-163-de-educacion-del-estado-de-sonora-143013"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2023-01-30"
+last_updated: "2023-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 163 DE EDUCACIÓN DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE MARZO DE 2023.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 15 de mayo de 2020.
 
@@ -89,7 +89,7 @@ VII.- Instancia Estatal de Infraestructura Física Educativa, al Instituto Sonor
 
 > <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
 
-VIII.- Mediación Escolar, la técnica que se utiliza para resolver los problemas que se presentan en la convivencia entre alumnos y/o entre alumnos y maestros en el marco y cumplimiento de las disposiciones aplicables. En algunos centros también se usa para solventar las dificultades que surgen entre el profesorado, y/o entre éste y las madres y padres de familia;
+VIII.- Mediación Escolar, técnica que se utiliza para resolver los problemas que se presentan en la convivencia entre alumnos y/o entre alumnos y maestros en el marco y cumplimiento de las disposiciones aplicables. En algunos centros también se usa para solventar las dificultades que surgen entre el profesorado, y/o entre éste y las madres y padres de familia;
 
 > <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
 
@@ -408,6 +408,12 @@ III.- Crear indicadores que detecten en función de comportamientos, incidentes 
 IV.- Promover capacitaciones constantes para alumnos, alumnas, maestros, maestras, padres, madres de familia, profesionales de la psicología y demás grupos que así se consideren necesarios, para cumplir con los objetivos del programa; y
 
 V.- Coordinar en forma integral a las autoridades educativas con padres de familia, dependencias, entidades u organismos de la sociedad civil para dar control y seguimiento a las comunidades escolares que presenten alguna situación de riesgo.
+
+> <small>(ADICIONADO, B.O. 6 DE MARZO DE 2023)</small>
+
+Maestros y maestras de intervención o sombras
+
+Artículo 19 BIS.- En educación básica, a fin de lograr el mejor aprovechamiento académico de los alumnos con barreras para el aprendizaje y la participación, la Secretaria, de acuerdo a la suficiencia presupuestaria correspondiente, deberá promover la participación de maestros y maestras de intervención o sombra, para lo cual podrá hacer uso de esquemas de servicio social y normal de especialización, a fin de cubrir la demanda de esta figura.
 
 Otros Criterios de la educación
 
@@ -741,7 +747,7 @@ III.- Definir las prioridades de acción y construir acuerdos, que permitan avan
 
 IV.- Alentar la formación de alianzas estratégicas;
 
-V.- Promover la generación de un pensamiento crítico en los estudiantes y fomentar en estos la creatividad y la innovación;
+V.- Promover la generación de un pensamiento crítico en los estudiantes y formentar en estos la creatividad y la innovación;
 
 VI.- Impulsar una educación que contribuya a la formación de estudiantes preparados para los grandes cambios que se presentan en la actualidad;
 
@@ -767,7 +773,7 @@ Atribuciones del Consejo Estatal de Vinculación
 
 Artículo 47 BIS 3.- El Consejo Estatal de Vinculación tendrá las siguientes atribuciones:
 
-I.- Evaluar los planes y programas de estudio con el fin (sic) revisar sus alcances y determinar las áreas de mejora de los mismos;
+I.- Evaluar los planes y programas de estudio con el fin de revisar sus alcances y determinar las áreas de mejora de los mismos;
 
 II.- Formar comisiones especiales para la evaluación y análisis de la pertinencia de los planes y programas de estudio, así como emitir opinión sobre las propuestas de nuevas carreras en función de las vocaciones productivas regionales y de los sectores estratégicos para el desarrollo de la Entidad, así como de la necesidad de dar solución a problemáticas sociales apremiantes;
 
@@ -2926,3 +2932,23 @@ B.O. 30 DE ENERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 88, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA PARA EL ESTADO DE SONORA, Y DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El titular del Ejecutivo Estatal expedirá las disposiciones reglamentarias de la presente Ley en un plazo no mayor a sesenta días naturales a partir de la entrada en vigor de la misma.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Salud, la Secretaría de Educación y el Sistema Estatal para el Desarrollo Integral de la Familia de manera coordinada, someterán a consideración del Titular del Ejecutivo Estatal las políticas y programas en materia de Trastorno del Espectro Autista en un plazo que no rebase los noventa días naturales a partir de la entrada en vigor del Reglamento a que se refiere el artículo segundo transitorio de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo de noventa días naturales posteriores a la entrada en vigor del Reglamento a que se refiere el artículo segundo transitorio de la presente Ley, la Secretaría de Educación expedirá el “Manual de Apoyo a Docentes en Trastorno del Espectro Autista” y el “Protocolo de Actuación para la Atención de las Personas con Trastorno del Espectro Autista”.
