@@ -4,7 +4,7 @@ identifier: "SON-ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-de-78654
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2010-12-16"
+last_updated: "2023-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE MARZO DE 2023.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 16 de diciembre de 2010.
 
@@ -53,9 +53,11 @@ La presente Ley es de orden público e interés social y tiene por objeto garant
 
 El Estado de Sonora tiene una composición multi étnica y pluri cultural, sustentada en la presencia de diversos pueblos y comunidades indígenas; hablan sus lenguas propias o parte de ellas; han ocupado su territorio en forma continua y permanente; en ese territorio han construido su cultura específica que los identifica internamente y a la vez diferencia del resto de la población del Estado.
 
+> <small>(REFORMADO, B.O. 6 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 3.
 
-Esta Ley reconoce los derechos colectivos de los pueblos konkaak (seri), hiak (yaqui), kickapoo (kikapú), kuapá (cucapá), macurawe (guarijío), o'ob (pima), tohono o'otham (pápago) y yorem mayo (mayo), así como a las demás etnias indígenas que, provenientes de otros Estados, residen en forma temporal o permanente dentro del territorio del Estado de Sonora, y que tienen derecho a conservar y desarrollar su lengua, costumbres, usos, tradiciones, religión, indumentaria y en general todos aquellos rasgos culturales que los distingan, de conformidad con los principios que establece esta Ley.
+Esta Ley reconoce los derechos colectivos de los pueblos konkaak (seri), hiak (yaqui), kickapoo (kikapú), kuapá (cucapá), macurawe (guarijío), o'ob (pima), tohono o'otham (pápago), yorem mayo (mayo) y Apaches Lipan (Apaches Chiricahua, Coyotero), así como a las demás etnias indígenas que, provenientes de otros Estados, residen en forma temporal o permanente dentro del territorio del Estado de Sonora, y que tienen derecho a conservar y desarrollar su lengua, costumbres, 11 usos, tradiciones, religión, indumentaria y en general todos aquellos rasgos culturales que los distingan, de conformidad con los principios que establece esta Ley.
 
 ###### ARTÍCULO 4.
 
@@ -73,7 +75,9 @@ III.- Autoridad municipal: Los Ayuntamientos, así como todas aquellas personas 
 
 IV.- Comisión: La Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas;
 
-V.- Comunidad indígena: El conjunto de personas, pertenecientes a las etnias konkaak (seri), hiak (yaqui), kickapoo (kikapú), kuapá (cucapá), macurawe (guarijío), o'ob (pima), tohono o'otham (pápago) y yorem mayo (mayo), así como a las demás etnias indígenas que, provenientes de otros Estados, residen en forma temporal o permanente dentro del territorio del Estado de Sonora, que forman una o varias unidades socioeconómicas y culturales en torno a un asentamiento común dentro del territorio del Estado y que conservan, en algunos casos, con la consiguiente evolución debida a influencias externas, sus propias instituciones sociales, económicas, culturales y políticas o parte de ellas;
+> <small>(REFORMADA, B.O. 6 DE MARZO DE 2023)</small>
+
+V.- Comunidad indígena: El conjunto de personas, pertenecientes a las etnias konkaak (seri), hiak (yaqui), kickapoo (kikapú), kuapá (cucapá), macurawe (guarijío), o'ob (pima), tohono o'otham (pápago), yorem maayo (sic) (mayo) y Apaches Lipan (Apaches Chiricahua, Coyotero), así como a las demás etnias indígenas que, provenientes de otros Estados, residen en forma temporal o permanente dentro del territorio del Estado de Sonora, que forman una o varias unidades socioeconómicas y culturales en torno a un asentamiento común dentro del territorio del Estado y que conservan, en algunos casos, con la consiguiente evolución debida a influencias externas, sus propias instituciones sociales, económicas, culturales y políticas o parte de ellas;
 
 VI.- Derechos individuales: Las facultades y las prerrogativas que el marco jurídico estatal otorga a todo hombre y mujer, independientemente de la etnia a que pertenezca, por el solo hecho de ser personas;
 
@@ -754,3 +758,13 @@ AL MARGEN CENTRAL UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXIC
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.-
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS NUEVE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL DIEZ.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- GUILLERMO PADRES ELIAS.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- HÉCTOR LARIOS CÓRDOVA.- RUBRICA.-
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 95, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
