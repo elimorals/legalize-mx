@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2023-03-02"
+last_updated: "2023-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE MARZO DE 2023.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -2215,17 +2215,17 @@ Al que provoque públicamente a cometer un delito, haga la apología de éste o 
 
 ### CAPITULO V. DISCRIMINACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE MARZO DE 2023)</small>
 
-ARTICULO 175 BIS.- Se aplicará sanción de uno a tres años de prisión o de ciento cincuenta a trescientos días de trabajo a favor de la comunidad y multa de hasta doscientas unidades de medida y actualización al que por razones de origen o pertenencia étnica o nacional, raza, color de piel, lengua, género, sexo, preferencia sexual, edad, estado civil, origen nacional o social, profesión, condición social o económica, condición de salud, embarazo, opiniones políticas o de cualquier otra índole atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
+ARTICULO 175 BIS.- Se aplicará sanción de uno a cuatro años de prisión o de ciento cincuenta a trescientos días de trabajo a favor de la comunidad y multa de hasta cuatrocientas unidades de medida y actualización al que por razones de origen o pertenencia étnica o nacional, raza, color de piel, lengua, género, sexo, preferencia sexual, edad, estado civil, origen nacional o social, profesión, condición social o económica, condición de salud, embarazo, opiniones políticas o de cualquier otra índole atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
 
 > <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
 
 I.- Niegue a una persona un servicio o una prestación a la que tenga derecho;
 
-> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 6 DE MARZO DE 2023)</small>
 
-II.- Niegue o restrinja derechos laborales, principalmente por razón de género o embarazo o limite un servicio de salud, principalmente a la mujer en relación con el embarazo; o
+II.- La distinción, exclusión o restricción en contra (sic) mujer en razón de su género o embarazo que tiene por objeto vulnerar sus derechos o los del producto en gestación; o
 
 > <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -2246,6 +2246,10 @@ Cuando las conductas a que se refiere este artículo, sean cometidas hacia médi
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2016)</small>
 
 Asimismo, se incrementará la pena cuando los actos discriminatorios limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
+
+> <small>(ADICIONADO, B.O. 6 DE MARZO DE 2023)</small>
+
+Cuando las conductas a que se refiere este artículo sean cometidas por persona con la que la víctima tenga una relación de subordinación laboral o cuando las conductas a que se refiere la fracción II de este artículo afecten o pongan en riesgo la vida, salud y desarrollo del producto en gestación, la pena se incrementará en una mitad.
 
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -5982,6 +5986,14 @@ B.O. 2 DE MARZO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 96, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE SONORA, DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA Y DE LA LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 ###### ARTICULO QUINTO.
 
