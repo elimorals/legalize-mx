@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-archivos-del-estado-de-nayarit-146652"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-25"
-last_updated: "2022-04-11"
+last_updated: "2023-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DE ARCHIVOS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE ABRIL DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2023.
 
 Ley publicada en la Sección Primera al Número 17 del Periódico Oficial del Estado de Nayarit, el lunes 25 de enero de 2021.
 
@@ -48,6 +46,10 @@ LEY DE ARCHIVOS DEL ESTADO DE NAYARIT
 ###### Artículo 1.
 
 Naturaleza y objeto. La presente Ley es de orden público y de observancia general en el Estado de Nayarit y tiene por objeto establecer los principios y bases generales para la organización, conservación, administración y preservación homogénea de los archivos en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Legislativo, Ejecutivo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el Estado y los Municipios.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2023)</small>
+
+De la misma manera son sujetos de esta Ley las personas físicas o morales que cuenten con archivos privados de interés público.
 
 Así como determinar las bases de organización y funcionamiento del Sistema de Archivos del Estado de Nayarit y fomentar el resguardo, difusión y acceso público de archivos privados de interés público de relevancia histórica, social, cultural, científica y técnica.
 
@@ -625,7 +627,9 @@ El grupo interdisciplinario podrá recibir la asesoría de un especialista, en l
 
 El sujeto obligado podrá realizar convenios de colaboración con instituciones de educación superior o de investigación para efectos de garantizar lo dispuesto en el párrafo anterior.
 
-No podrán reunirse dos o más integrantes del Grupo Interdisciplinario en una sola persona, en caso de que el sujeto obligado no tenga alguno de los titulares señalados en las fracciones I, III y V del primer párrafo del presente artículo por razones presupuestales o de gestión, el grupo interdisciplinario de manera excepcional se conformará con el resto de los integrantes, lo cual se hará constar en acta de instalación con la fundamentación y motivación que corresponda.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2023)</small>
+
+No podrán reunirse dos o más integrantes del Grupo Interdisciplinario en una sola persona.
 
 ###### Artículo 49.
 
@@ -907,29 +911,23 @@ Acciones de coordinación. Las autoridades estatales y municipales deberán coad
 
 Copia de documentos o archivos de interés público. En caso de que el Archivo General del Estado de Nayarit lo considere necesario por la importancia o relevancia que tenga el documento en el Estado, podrá solicitar al Archivo General una copia de la versión facsimilar o digital que obtenga de los archivos de interés público que se encuentren en posesión de particulares.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2023)</small>
 
-### Capítulo Cuarto Bis. Del Registro Estatal de Archivos
+### Capítulo Cuarto Bis. De la Coordinación y colaboración con el Registro Nacional de Archivos
 
-> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2023)</small>
 
 ###### Artículo 73 Bis.
 
-Objeto. El Sistema Estatal contará con el Registro Estatal de Archivos, cuyo objeto es obtener y concentrar información sobre los sistemas institucionales y de los archivos privados de interés público, así como difundir el patrimonio documental resguardado en sus archivos, el cual será administrado por el Archivo General del Estado, su organización y funcionamiento será conforme a las disposiciones que emita el propio Consejo Local.
+Coordinación. Cada sujeto obligado, a través de sus áreas coordinadoras de archivo, deberán alimentar el Registro Nacional de Archivos sobre los documentos que obren en su poder y sobre los cambios en la información a que se lleguen a generar.
 
-> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2022)</small>
+###### Artículo 73 Ter.
 
-###### Articulo 73 Ter.
+(DEROGADO, P.O. 6 DE MARZO DE 2023)
 
-Obligación de registrar. La inscripción al Registro Estatal es obligatoria para los sujetos obligados quienes deberán actualizar anualmente la información requerida en dicho Registro, de conformidad con las disposiciones que para tal efecto emita el Consejo Local y, en su caso, el Consejo Nacional, en términos de lo dispuesto por la normativa aplicable.
+###### Artículo 73 Quater.
 
-> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2022)</small>
-
-###### Articulo 73 Quater.
-
-Aplicación informática. Para la operación del Registro Estatal, el Archivo General del Estado pondrá a disposición de los sujetos obligados y de los particulares, propietarios o poseedores de archivos privados de interés público, una aplicación informática que les permitirá registrar y mantener actualizada la información, la cual deberá prever la interoperabilidad con el Registro Nacional y considerar las disposiciones que para tal efecto emita el Consejo Nacional.
-
-La información del Registro Estatal será de acceso público y de consulta gratuita, disponible a través del portal electrónico del Archivo General del Estado.
+(DEROGADO, P.O. 6 DE MARZO DE 2023)
 
 ## Título Quinto. Del Archivo General del Estado de Nayarit
 
@@ -1031,7 +1029,9 @@ II. Contar al día de la designación, preferentemente con el grado de maestría
 
 III. (DEROGADA, P.O. 19 DE ENERO DE 2022)
 
-IV. No haber sido inhabilitado para ejercer cargos públicos,
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2023)</small>
+
+IV. No estar inhabilitado para ejercer cargos públicos;
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2022)</small>
 
@@ -1123,9 +1123,13 @@ IV. La Secretaría para la Honestidad y Buena Gobernanza;
 
 V. Consejo de Ciencia y Tecnología del Estado de Nayarit, y
 
-VI. La autoridad encargada de la cultura en el Estado;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2023)</small>
 
-El Director General participará en la Junta de Gobierno con el carácter de secretario técnico y tendrá derecho a voz pero no de voto.
+VI. La autoridad encargada de la cultura en el Estado.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2023)</small>
+
+El Director General asistirá a las sesiones de la Junta de Gobierno con voz, pero sin voto y guardará secrecía y reserva de los temas y acuerdos tratados por dicho órgano en los casos que así se requiera, de conformidad con las disposiciones aplicables en materia de transparencia y acceso a la información pública.
 
 Los integrantes de la Junta de Gobierno deberán tener, por lo menos, nivel de Director o su equivalente. Por cada miembro propietario habrá un suplente que deberá tener nivel, por lo menos, de Director de Área o su equivalente.
 
@@ -1366,3 +1370,11 @@ QUINTO. La Secretaría General de Gobierno en coordinación con la Secretaría d
 SEXTO. Las personas que actualmente laboran en la Dirección General del Archivo General del Estado de Nayarit, unidad administrativa adscrita a la Secretaría General de Gobierno, deberán ser consideradas para formar parte de la plantilla de personal sustantivo del organismo público descentralizado denominado Archivo General del Estado de Nayarit. En ese sentido, los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de la Dirección General del Archivo General del Estado al Organismo Público Descentralizado denominado Archivo General del Estado de Nayarit, se respetarán, conforme a la ley. El presente Decreto garantizará y respetará los derechos de los trabajadores conforme a la Ley.
 
 SÉPTIMO. El titular del Poder Ejecutivo, en términos de los artículos 82 y 83 de la Ley General de Archivos y de conformidad con la disponibilidad presupuestaria, podrá prever la creación y administración de un Fondo de Apoyo Económico para el Archivo General del Estado de Nayarit.
+
+P.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ARCHIVOS DEL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. En un plazo que no deberá exceder de 180 días naturales posteriores a la entrada en vigor del presente Decreto, se deberán realizar las reformas y adecuaciones a los reglamentos en la materia, a fin de armonizarlos con lo dispuesto en el presente Decreto.
