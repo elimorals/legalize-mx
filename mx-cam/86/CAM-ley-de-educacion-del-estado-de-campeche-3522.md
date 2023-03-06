@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2022-12-09"
+last_updated: "2023-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -232,6 +232,18 @@ XXXII. Impulsar a través de campañas de difusión la cultura de la paz en las 
 > <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2022)</small>
 
 XXXIII.- Promover el emprendimiento, el fomento de la cultura del ahorro y la educación financiera.
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2023)</small>
+
+XXXIV.- Promover, con perspectiva de género, talleres y pláticas informativas relativas a la menstruación, la correcta higiene menstrual, los cambios corporales y emocionales, que permitan dignificar, normalizar y concientizar sobre este proceso natural en el entorno sociocultural de las y los educandos, con pleno respeto a la dignidad de la persona y los derechos humanos.
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2023)</small>
+
+XXXV.- Contribuir a la construcción de una cultura de la salud física y mental.
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2023)</small>
+
+XXXVI.- Impulsar programas e implementar acciones que favorezcan la prevención de enfermedades mentales, o bien que éstas sean detectadas para su atención oportuna en coordinación con las autoridades del sector salud y con el núcleo familiar de los educandos.
 
 ### CAPITULO III. AMBITO DE APLICACION
 
@@ -1498,3 +1510,19 @@ P.O. 9 DE DICIEMBRE DE 2022.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente después de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 195 POR EL QUE “SE ADICIONA LA FRACCIÓN XXXIV AL ARTÍCULO 11 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
+
+P.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 196 POR EL QUE "SE ADICIONAN LAS FRACCIONES XXXV Y XXXVI AL ARTÍCULO 11 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
