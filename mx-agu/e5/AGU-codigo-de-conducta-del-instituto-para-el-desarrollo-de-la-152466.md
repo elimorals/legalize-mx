@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-conducta-del-instituto-para-el-desarrollo-de-la-15246
 country: "mx"
 rank: "codigo"
 publication_date: "2021-11-15"
-last_updated: "2021-11-15"
+last_updated: "2023-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 6 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2023 (ABROGADO).
 
 Código publicado en la Primera Sección del Número 46 del Periódico Oficial del Estado de Aguascalientes, el lunes 15 de noviembre de 2021.
 
@@ -228,3 +230,15 @@ SECRETARIA TÉCNICA DE LA JUNTA DE GOBIERNO.
 M.C. Ángel de Jesús Jiménez Ochoa,
 
 DIRECTOR GENERAL DEL IDSCEA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DEL INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE AGUASCALIENTES".]
+
+PRIMERO.- El presente Código de Conducta del Instituto de Ciencia y Tecnología del Estado de Aguascalientes, iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Difúndase mediante los mecanismos previstos en el artículo 24 del Código de Ética del Instituto de Ciencia y Tecnología del Estado de Aguascalientes. Adicionalmente, el apartado de Decálogo, deberá colocarse en las instalaciones del Instituto, de manera que esté a la vista de sus Servidores Públicos, así como de usuarios o visitantes, incluyendo la siguiente leyenda: "Cualquier acción u omisión contraria a las Reglas de Conducta, podrá denunciarse ante la Unidad Investigadora del Órgano Interno de Control del Instituto de Ciencia y Tecnología del Estado de Aguascalientes".
+
+TERCERO.- Se abroga el Código de Conducta del Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes, publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 15 de noviembre del 2021.
