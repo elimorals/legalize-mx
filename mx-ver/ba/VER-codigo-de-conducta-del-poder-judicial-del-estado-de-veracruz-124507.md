@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-conducta-del-poder-judicial-del-estado-de-veracruz-12
 country: "mx"
 rank: "codigo"
 publication_date: "2017-08-18"
-last_updated: "2017-08-18"
+last_updated: "2023-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # CODIGO DE CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 6 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MARZO DE 2023 (ABROGADO).
 
 Código publicado en el Núm. Ext. 330 de la Gaceta Oficial del Estado de Veracruz, el viernes 18 de agosto de 2017.
 
@@ -376,3 +378,19 @@ La secretaria de Acuerdos Interina del Consejo de la Judicatura del Estado
 Mtra. Esmeralda Ixtla Domínguez
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El Comité de Ética y la Contraloría del Poder Judicial emiten el presente Código de Conducta del Poder Judicial del Estado de Veracruz de Ignacio de la Llave, de conformidad con lo previsto por el artículo QUINTO Transitorio del Acuerdo del Poder Judicial, publicado el veinte de septiembre del año en curso en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El presente Código de Conducta del Poder Judicial del Estado de Veracruz de Ignacio de la Llave, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+TERCERO. Se abroga el Código de Conducta del Poder Judicial del Estado de Ignacio de Llave, publicado en el número extraordinario 330, Tomo CXCVI de la Gaceta Oficial, Órgano del Gobierno del Estado, del día dieciocho de agosto del año dos mil diecisiete, así como cualquier otra disposición que contravenga lo establecido en el presente Código.
+
+CUARTO. Comuníquese a los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado de Veracruz, para los efectos legales a los que haya lugar.
+
+QUINTO. Con base en lo dispuesto al artículo 13, fracción XIII, del Código de Ética para las y los Servidores Públicos del Poder Judicial, publíquese en los medios electrónicos institucionales para su difusión.
