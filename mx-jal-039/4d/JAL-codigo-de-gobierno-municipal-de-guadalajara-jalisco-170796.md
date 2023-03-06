@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2023-01-11"
+last_updated: "2023-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 11 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 6 DE MARZO DE 2023.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -207,7 +207,9 @@ IV. Congreso: Congreso del Estado de Jalisco;
 
 V. Contraloría Ciudadana: Órgano interno de control municipal;
 
-VI. Comisaría: Comisaría de la Policía de Guadalajara;
+> <small>(REFORMADA, G.M. 6 DE MARZO DE 2023)</small>
+
+VI. Comisaría: Comisaría de Seguridad Ciudadana de Guadalajara;
 
 VII. Ley: Ley que establece las bases del gobierno y la administración pública municipal en el Estado de Jalisco, actualmente denominada Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco;
 
@@ -2477,13 +2479,13 @@ II. Dar seguimiento por conducto de la Dirección Jurídica de Seguimiento a los
 
 III. Analizar y realizar proyecciones jurídicas encomendadas por la Presidenta o el Presidente Municipal;
 
-> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.M. 6 DE MARZO DE 2023)</small>
 
-IV. Atender y tramitar a través de la Dirección de lo Jurídico de la Comisaría de la Policía de Guadalajara los asuntos de carácter litigioso en que la Comisaría sea parte; así como, la asesoría y, en su caso, defensa de las servidoras y los servidores de la Comisaría en cualquier juicio interpuesto en contra de estos en ejercicio de sus funciones;
+IV. Atender y tramitar a través de la Dirección de lo Jurídico de la Comisaría de Seguridad Ciudadana de Guadalajara los asuntos de carácter litigioso en que la Comisaría sea parte; así como, la asesoría y, en su caso, defensa de las servidoras y los servidores de la Comisaría en cualquier juicio interpuesto en contra de estos en ejercicio de sus funciones;
 
-> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.M. 6 DE MARZO DE 2023)</small>
 
-V. Tramitar jurídicamente a través de la Dirección de lo Jurídico de la Comisaría de la Policía de Guadalajara los asuntos de las corporaciones policíacas relacionados con faltas a los ordenamientos internos y demás normatividad aplicable;
+V. Tramitar jurídicamente a través de la Dirección de lo Jurídico de la Comisaría de Seguridad Ciudadana de Guadalajara los asuntos de las corporaciones policíacas relacionados con faltas a los ordenamientos internos y demás normatividad aplicable;
 
 > <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -2505,9 +2507,9 @@ IX. Integrar, substanciar y resolver los recursos de revisión en materia de des
 
 X. Colaborar con la Sindicatura en la coordinación de las oficinas de enlace jurídico de las dependencias municipales.
 
-> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, G.M. 6 DE MARZO DE 2023)</small>
 
-Para la atención de los asuntos de su competencia, cuenta con la Consejería Adjunta, las áreas Jurídica de Seguimiento, Inspección y Vigilancia, Recursos de Revisión, Justicia Cívica Municipal, Jurídico de Comisaría de la Policía de Guadalajara, y de Asuntos Internos.
+Para la atención de los asuntos de su competencia, cuenta con la Consejería Adjunta, las áreas Jurídica de Seguimiento, Inspección y Vigilancia, Recursos de Revisión, Justicia Cívica Municipal, Dirección de lo Jurídico de la Comisaría de Seguridad Ciudadana de Guadalajara y Asuntos Internos.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -3003,15 +3005,15 @@ XII. Constatar que se hubiesen respetado los derechos humanos de las y los presu
 
 XIII. Elaborar por triplicado acta circunstanciada de toda visita, una para la persona titular del área visitada, otra para la Directora o Director de Justicia.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.M. 6 DE MARZO DE 2023)</small>
 
 Subsección VI (SIC)
 
-Dirección de lo Jurídico de la Comisaría de la Policía de Guadalajara
+Dirección de lo Jurídico de la Comisaría de Seguridad Ciudadana de Guadalajara
 
-> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, G.M. 6 DE MARZO DE 2023)</small>
 
-Artículo 150 Duovicies. La Dirección de lo Jurídico de la Comisaría de la Policía de Guadalajara, tiene a su cargo el trámite de los asuntos de carácter litigioso en que la Comisaría sea parte. Cuyas atribuciones están previstas en su normatividad específica.
+Artículo 150 Duovicies. La Dirección de lo Jurídico de la Comisaría de Seguridad Ciudadana de Guadalajara, tiene a su cargo el trámite de los asuntos de carácter litigioso en que la Comisaría sea parte. Cuyas atribuciones están previstas en su normatividad específica.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -3019,9 +3021,9 @@ Subsección VII
 
 Dirección de Asuntos Internos
 
-> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, G.M. 6 DE MARZO DE 2023)</small>
 
-Artículo 150 Tervicies. La Dirección de Asuntos Internos conocerá, investigará y sustanciará los procedimientos en contra de los elementos operativos de la Comisaría de la Policía de Guadalajara. Cuyas atribuciones están previstas en su normatividad específica.
+Artículo 150 Tervicies. La Dirección de Asuntos Internos conocerá, investigará y sustanciará los procedimientos en contra de los elementos operativos de la Comisaría de Seguridad Ciudadana de Guadalajara. Cuyas atribuciones están previstas en su normatividad específica.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -5209,7 +5211,9 @@ XIV. Determinar las prestaciones laborales a las que tengan derecho las servidor
 
 XV. Autorizar la realización de servicios extraordinarios del personal de las diferentes dependencias del Gobierno Municipal, de acuerdo a las necesidades operativas que eventualmente se presenten, previendo la disponibilidad presupuestal, así como requerir a la Tesorería el pago correspondiente vía nómina de dichos servicios extraordinarios, con el soporte correspondiente;
 
-XVI. Autorizar el pago correspondiente vía nómina a personal de la Comisaría de la Policía de Guadalajara, que desempeña de manera transitoria una responsabilidad distinta a la de su nombramiento, encomendada únicamente por el Comisario, para atender necesidades operativas de seguridad, siempre que dicha responsabilidad exija una remuneración mayor a la que ya devenga el trabajador con base en su nombramiento, sujeta a la disponibilidad presupuestal; y
+> <small>(REFORMADA, G.M. 6 DE MARZO DE 2023)</small>
+
+XVI. Autorizar el pago correspondiente vía nomina a personal de la Comisaría de Seguridad Ciudadana de Guadalajara, que desempeña de manera transitoria una responsabilidad distinta a la de su nombramiento, encomendada únicamente por el Comisario, para atender necesidades operativas de seguridad, siempre que dicha responsabilidad exija una remuneración mayor a la que ya devenga el trabajador con base en su nombramiento, sujeta a la disponibilidad presupuestal; y
 
 XVII. Resguardar los contratos, convenios, condiciones generales de trabajo, acuerdos y cualquier otro documento formal y oficial en el que se confieran o establezcan derechos y obligaciones tanto al personal como al Ayuntamiento.
 
@@ -8274,3 +8278,17 @@ Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalaja
 Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 6 DE MARZO DE 2023.
+
+> <small>[N. DE E. TRANSITRORIOS DEL “REFORMAS A DIVERSOS ORDENAMIENTOS MUNICIPALES DE GUADALAJARA”.]</small>
+
+Primero. Publíquese el presente ordenamiento en la Gaceta Municipal de Guadalajara.
+
+Segundo. El presente ordenamiento entrará en vigor el día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Se derogan todas las disposiciones legales y administrativas que contravengan el presente ordenamiento.
+
+Cuarto. Las referencias o menciones contenidas en otros reglamentos o en cualquier disposición municipal, contratos, convenios o cualquier otro acto o instrumento jurídico respecto de la Comisaría de la Policía de Guadalajara, se entenderán referidas a la Comisaría de Seguridad Ciudadana de Guadalajara.
+
+Quinto. Una vez publicado el presente ordenamiento, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal de Guadalajara.
