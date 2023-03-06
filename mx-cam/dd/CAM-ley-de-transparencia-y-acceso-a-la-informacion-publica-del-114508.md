@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1145
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2022-06-28"
+last_updated: "2023-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 4 de mayo de 2016.
 
@@ -331,13 +331,13 @@ Los comisionados salientes seguirán en funciones hasta en tanto sean electos lo
 
 Este procedimiento, preferentemente, no deberá exceder la fecha de conclusión del periodo de las y los Comisionados en funciones.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2023)</small>
+
 ###### Artículo 26.
 
-La duración del cargo de Comisionado será de seis años y el nombramiento se realizará de manera escalonada para garantizar el principio de autonomía. Quienes sean nombrados Comisionados no podrán ser reelectos.
+La duración del cargo de Comisionada o Comisionado será de seis años y el nombramiento se realizará de manera escalonada para garantizar el principio de autonomía.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2021)</small>
-
-Los Comisionados podrán ser removidos de su cargo en los términos de la Ley General de Responsabilidades Administrativas y serán sujetos de juicio político en términos de ley.
+Las y los Comisionados podrán ser removidos de su cargo en los términos de la Ley General de Responsabilidades Administrativas y serán sujetos de juicio político en términos de ley.
 
 ###### Artículo 27.
 
@@ -2594,3 +2594,11 @@ Artículo Primero. El presente decreto entrará en vigor al día siguiente despu
 Artículo Segundo. Los procedimientos de denuncia por incumplimiento a las obligaciones de transparencia que hubieren sido iniciados previo a la publicación del presente decreto se substanciarán y terminarán con las disposiciones vigentes al momento en que fueren iniciados.
 
 Artículo Tercero. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 200 POR EL QUE "SE REFORMA EL ARTÍCULO 26 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente al de inicio de vigencia del decreto de reformas al párrafo segundo del artículo 125 bis de la Constitución Política del Estado, previa su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
