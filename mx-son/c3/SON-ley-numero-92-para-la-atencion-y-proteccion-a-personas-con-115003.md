@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-92-para-la-atencion-y-proteccion-a-personas-con-1150
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-28"
-last_updated: "2016-04-28"
+last_updated: "2023-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE MARZO DE 2023.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 28 de abril de 2016.
 
@@ -75,19 +75,25 @@ XI.- Ley: La Ley para la Atención y Protección a Personas con la Condición de
 
 XII.- Ley General: La Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista;
 
-XIII.- Personas con la condición del espectro autista: Todas aquellas que presentan una condición caracterizada en diferentes grados por dificultades en la interacción social, en la comunicación verbal y no verbal, y en comportamientos repetitivos;
+> <small>(ADICIONADA, B.O. 6 DE MARZO DE 2023)</small>
 
-XIV.- Secretaría: Secretaría de Salud Pública;
+XIII.- Maestros y maestras de intervención o sombra: Persona con conocimientos en el Trastorno del Espectro Autista que crea un puente de comunicación y entendimiento entre el niño y el ambiente escolar y, en general, con el entorno social;
 
-XV.- Sector social: Conjunto de individuos y organizaciones que no dependen del sector público y que son ajenas al sector privado;
+XIV.- Personas con la condición del espectro autista: Todas aquellas que presentan una condición caracterizada en diferentes grados por dificultades en la interacción social, en la comunicación verbal y no verbal, y en comportamientos repetitivos;
 
-XVI.- Sector privado: Personas físicas y morales dedicadas a las actividades preponderantemente lucrativas y aquellas otras de carácter civil distintas a los sectores público y social;
+XV.- Secretaría: Secretaría de Salud Pública;
 
-XVII.- Seguridad jurídica: Garantía dada al individuo por el Estado de que su persona, sus bienes y sus derechos no serán objeto de ataques violentos; o que, sí estos llegaran a producirse, le serán asegurados por la sociedad, la protección y reparación de los mismos;
+XVI.- Sector social: Conjunto de individuos y organizaciones que no dependen del sector público y que son ajenas al sector privado;
 
-XVIII.- Seguridad social: Conjunto de medidas para la protección de los ciudadanos ante riesgos, con carácter individual, que se presentan en uno u otro momento de sus vidas, en el nacimiento, por un accidente o en la enfermedad; y
+XVII.- Sector privado: Personas físicas y morales dedicadas a las actividades preponderantemente lucrativas y aquellas otras de carácter civil distintas a los sectores público y social;
 
-XIX.- Transversalidad: Diversas formas de coordinación no jerárquica utilizadas para el diseño e implementación de políticas públicas, así como para la gestión y provisión de servicios públicos, que exige articulación, bilateral o multilateral, dentro de las atribuciones de las dependencias y entidades de la Administración Pública Federal y sus correlativas administraciones públicas locales y municipales.
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVII], B.O. 6 DE MARZO DE 2023)</small>
+
+XVIII.- Seguridad jurídica: Garantía dada al individuo por el Estado de que su persona, sus bienes y sus derechos no serán objeto de ataques violentos; o que, si estos llegaran a producirse, le serán asegurados por la sociedad, la protección y reparación de los mismos;
+
+XIX.- Seguridad social: Conjunto de medidas para la protección de los ciudadanos ante riesgos, con carácter individual, que se presentan en uno u otro momento de sus vidas, en el nacimiento, por un accidente o en la enfermedad; y
+
+XX.- Transversalidad: Diversas formas de coordinación no jerárquica utilizadas para el diseño e implementación de políticas públicas, así como para la gestión y provisión de servicios públicos, que exige articulación, bilateral o multilateral, dentro de las atribuciones de las dependencias y entidades de la Administración Pública Federal y sus correlativas administraciones públicas locales y municipales.
 
 ###### Artículo 3.
 
@@ -173,27 +179,35 @@ IX.- Contar, en el marco de la educación especial a que se refiere la Ley Gener
 
 X.- Acceder a los programas gubernamentales para recibir alimentación nutritiva, suficiente, de calidad, y de acuerdo a las necesidades metabólicas propias de su condición;
 
-XI.- A crecer y desarrollarse en un medio ambiente sano y en armonía con la naturaleza;
+> <small>(ADICIONADA, B.O. 6 DE MARZO DE 2023)</small>
 
-XII.- Ser sujetos de los programas públicos de vivienda, en términos de las disposiciones aplicables, con el fin de disponer de vivienda propia para un alojamiento accesible y adecuado;
+XI.- Ser registradas en la base de datos estatal que integrarán la Secretaría de Salud y la Secretaría de Educación;
 
-XIII.- Participar en la vida productiva con dignidad e independencia;
+> <small>(ADICIONADA, B.O. 6 DE MARZO DE 2023)</small>
 
-XIV.- Recibir formación y capacitación para obtener un empleo adecuado, sin discriminación ni prejuicios;
+XII.- Contar, a través de la red hospitalaria y de centros de salud del Estado, con los cuidados apropiados para su salud mental, física y social con acceso de detección temprana, a través de tratamientos y medicamentos de calidad, que les sean administrados oportunamente, tomando todas las medidas y precauciones necesarias, dando seguimiento al desarrollo de la persona;
 
-XV.- Percibir la remuneración justa por la prestación de su colaboración laboral productiva, que les alcance para alimentarse, vestirse y alojarse adecuadamente, así como también para solventar cualquier otra necesidad vital, en los términos de las disposiciones constitucionales y de las correspondientes leyes;
+XIII.- A crecer y desenrollarse en un medio ambiente sano y en armonía con la naturaleza;
 
-XVI.- Utilizar el servicio del transporte público y privado como medio de libre desplazamiento;
+XIV.- Ser sujetos de los programas públicos de vivienda, en términos de las disposiciones aplicables, con el fin de disponer de vivienda propia para un alojamiento accesible y adecuado;
 
-XVII.- Disfrutar de la cultura, de las distracciones, del tiempo libre, de las actividades recreativas y deportivas que coadyuven a su desarrollo físico y mental;
+XV.- Participar en la vida productiva con dignidad e independencia;
 
-XVIII.- Tomar decisiones por sí o a través de sus padres o tutores para el ejercicio de sus legítimos derechos;
+XVI.- Recibir formación y capacitación para obtener un empleo adecuado, sin discriminación ni prejuicios;
 
-XIX.- Gozar de una vida sexual digna y segura;
+XVII.- Percibir la remuneración justa por la prestación de su colaboración laboral productiva, que les alcance para alimentarse, vestirse y alojarse adecuadamente, así como también para solventar cualquier otra necesidad vital, en los términos de las disposiciones constitucionales y de las correspondientes leyes;
 
-XX.- Contar con asesoría y asistencia jurídica cuando sus derechos humanos y civiles les sean violados, para resarcirlos; y
+XVIII.-·Utilizar el servicio del transporte público y privado como medio de libre desplazamiento;
 
-XXI.- Los demás que garanticen su integridad, su dignidad, su bienestar y su plena integración a la sociedad de acuerdo con las distintas disposiciones constitucionales y legales.
+XIX.- Disfrutar de la cultura, de las distracciones, del tiempo libre, de las actividades recreativas y deportivas que coadyuven a su desarrollo físico y mental;
+
+XX.- Tomar decisiones por sí o a través de sus padres o tutores para el ejercicio de sus legítimos derechos;
+
+XXI.- Gozar de una vida sexual digna y segura;
+
+XXII.- Contar con asesoría y asistencia jurídica cuando sus derechos humanos y civiles les sean violados, para resarcirlos; y
+
+XXIII.- Los demás que garanticen su integridad, su dignidad, su bienestar y su plena integración a la sociedad de acuerdo con las distintas disposiciones constitucionales y legales.
 
 #### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES
 
@@ -207,9 +221,15 @@ II.- Las instituciones privadas con servicios especializados en la atención de 
 
 III.- Los padres o tutores para otorgar los alimentos y representar los intereses y los derechos de las personas con la condición del espectro autista;
 
-IV.- Los profesionales de la medicina, educación y demás profesionistas que resulten necesarios para alcanzar la habilitación debida de las personas con la condición del espectro autista; y
+> <small>(REFORMADA, B.O. 6 DE MARZO DE 2023)</small>
 
-V.- Todos aquéllos que determine la presente Ley o cualquier otro ordenamiento jurídico que resulte aplicable.
+IV.- Los profesionales de la medicina, educación y demás profesionistas que resulten necesarios para alcanzar la habilitación debida de las personas con la condición del espectro autista;
+
+> <small>(ADICIONADA, B.O. 6 DE MARZO DE 2023)</small>
+
+V.- La Secretaría de Educación y Cultura del Estado de Sonora, promoverá la participación de maestros y maestras de intervención o sombras para los educandos con la condición del espectro autista de acuerdo a lo establecido en la Ley de Educación del Estado de Sonora; y
+
+VI.- Todos aquellos que determine la presente Ley o cualquier otro ordenamiento jurídico que resulte aplicable.
 
 ### CAPÍTULO III. DE LA COMISIÓN INTERSECRETARIAL
 
@@ -271,7 +291,9 @@ La Secretaría coordinará a los organismos y órganos del sector salud, a fin d
 
 I.- Realizar estudios e investigaciones clínicas y científicas, epidemiológicas, experimentales de desarrollo tecnológico y básico en las áreas biomédicas y socio-médicas para el diagnóstico y tratamiento de las personas con la condición del espectro autista, para procurar su inclusión en la sociedad y un trato igualitario;
 
-II.- Vincular las actividades de los organismos y órganos del sector salud con los centros de investigación de las universidades públicas y privadas del Estado en materia de atención y protección a personas con la condición del espectro autista;
+> <small>(REFORMADA, B.O. 6 DE MARZO DE 2023)</small>
+
+II.- Vincular las actividades de los organismos y órganos del sector salud con los centros de investigación de las universidades públicas y privadas del país en materia de atención y protección a personas con trastorno del espectro autista;
 
 III.- Realizar campañas de información sobre las características propias de la condición del espectro autista, a fin de crear conciencia al respecto en la sociedad;
 
@@ -279,7 +301,33 @@ IV.- Atender a la población con la condición del espectro autista a través, s
 
 V.- Promover políticas y programas para la protección de la salud integral de las personas con la condición del espectro autista; y
 
-VI.- Coadyuvar a la actualización del Sistema de Información a cargo de la Secretaría de Salud de la Federación, mismo que deberá permitir contar con un padrón de las personas con la condición del espectro autista que reciben atención por parte del Sistema Nacional de Salud en todo el territorio nacional, así como de la infraestructura utilizada para ello.
+> <small>(REFORMADA, B.O. 6 DE MARZO DE 2023)</small>
+
+VI.- Coadyuvar a la actualización del Sistema de Información a cargo de la Secretaría, mismo que deberá permitir contar con un padrón de las personas con trastorno del espectro del autista que reciben atención por parte del Sistema Estatal de Salud en todo el territorio del Estado de Sonora, así como de la infraestructura utilizada para ello, a fin de que permitan generar estadísticas y políticas públicas.
+
+> <small>(ADICIONADO, B.O. 6 DE MARZO DE 2023)</small>
+
+###### Artículo 14 Bis.
+
+La Secretaría de Educación y Cultura del Estado tendrá la obligación de garantizar que el Sistema Educativo Estatal sea inclusivo y equitativo, efectivo en cobertura, eficaz en la calidad y en la atención, apegado a la estrategia del diseño universal, garante de la plena inclusión social, educativa y laboral.
+
+Para esto deberá realizar las siguientes acciones:
+
+I. Diseñar programas de capacitación, actualización y formación continua dirigidos a padres y madres de familia, cuidadores, docentes de Educación Básica y de Educación Especial, maestros y maestras de intervención o sombra;
+
+III (SIC). Convocar a terapeutas, investigadores, docentes y organizaciones civiles para el diseño, difusión y actualización del "Manual de Apoyo a Docentes en Trastorno del Espectro Autista" a manera de guía para la intervención educativa;
+
+IV. Diseñar y aplicar con la participación y aportación de expertos en coordinación con la Comisión, un "Protocolo de actuación para la atención de las personas con Trastorno del Espectro Autista" para los planteles educativos;
+
+V. Impulsar en el Sistema Educativo Estatal, la inclusión de contenidos para el diagnóstico e intervención del Trastorno del Espectro Autista;
+
+VI. Establecer mecanismos de colaboración entre las áreas de Educación Especial de la Secretaría de Educación y Cultura con escuelas privadas, para favorecer el desarrollo de las personas con Trastorno de Espectro Autista en las escuelas;
+
+VII. Coadyuvar a la actualización del Sistema de Infamación a cargo de la Secretaría, mismo que deberá permitir contar con un padrón de las personas con Trastorno del Espectro Autista, que reciben atención por parte del Sistema Estatal de Salud en todo el territorio del Estado, así como de la infraestructura utilizada para ello, a fin de que permitan generar estadísticas y políticas públicas;
+
+VIII. Brindar la prestación de un maestro o una maestra sombra para las aulas en las que se encuentre inscrito un alumno con la condición de espectro autista; y
+
+IX. Las demás que resulten de la normatividad aplicable.
 
 ### CAPÍTULO IV. PROHIBICIONES Y SANCIONES
 
@@ -338,3 +386,25 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veintiocho días del mes de abril del año dos mil dieciséis.- SUFRAGIO EFECTIVO, NO REELECCIÓN. GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVlCH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 88, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA PARA EL ESTADO DE SONORA, Y DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El titular del Ejecutivo Estatal expedirá las disposiciones reglamentarias de la presente Ley en un plazo no mayor a sesenta días naturales a partir de la entrada en vigor de la misma.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Salud, la Secretaría de Educación y el Sistema Estatal para el Desarrollo Integral de la Familia de manera coordinada, someterán a consideración del Titular del Ejecutivo Estatal las políticas y programas en materia de Trastorno del Espectro Autista en un plazo que no rebase los noventa días naturales a partir de la entrada en vigor del Reglamento a que se refiere el artículo segundo transitorio de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo de noventa días naturales posteriores a la entrada en vigor del Reglamento a que se refiere el artículo segundo transitorio de la presente Ley, la Secretaría de Educación expedirá el "Manual de Apoyo a Docentes en Trastorno del Espectro Autista" y el "Protocolo de Actuación para la Atención de las Personas con Trastorno del Espectro Autista".
