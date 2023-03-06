@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-8649
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-11"
-last_updated: "2022-05-24"
+last_updated: "2023-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "1996-09-06"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO, PUBLICADA EN EL D.O.F. DE 6 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MARZO DE 2023 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 11 de septiembre de 1996.
 
@@ -9222,3 +9224,27 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. La Secretaría de la Defensa Nacional deberá llevar a cabo los actos administrativos necesarios para la transferencia de los recursos humanos, materiales y financieros necesarios para la creación de la plaza de la persona titular de la Dirección General de Procesamiento Electrónico de Datos Aduaneros prevista en este Decreto. Dicha transferencia deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado a los ejecutores de gasto correspondientes y no se autorizarán recursos adicionales.
 
 Tercero. Se deroga toda disposición que se oponga al presente Decreto.
+
+D.O.F. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Hacienda y Crédito Público, publicado el 11 de septiembre de 1996 en el Diario Oficial de la Federación.
+
+TERCERO. Se derogan todas aquellas disposiciones administrativas que se opongan al presente Reglamento.
+
+CUARTO. Las Direcciones Generales de Programación y Presupuesto “A” y “B”, continuarán ejerciendo sus atribuciones en los términos de las disposiciones del Reglamento Interior de la Secretaría de Hacienda y Crédito Público que se abroga, hasta en tanto se nombre a la persona titular de la Dirección General de Programación y Presupuesto “C”, y ejerza las atribuciones a que se refiere el presente Reglamento.
+
+QUINTO. Las referencias que se hagan y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, reglas, manuales y demás disposiciones administrativas a las unidades administrativas de la Secretaría de Hacienda y Crédito Público que cambian de denominación, se modifican, desaparecen o se crean por virtud del presente ordenamiento, se entenderán hechas u otorgadas a las unidades administrativas que resulten competentes conforme al presente ordenamiento.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento, así como las modificaciones a las atribuciones conferidas a la estructura orgánica de la Secretaría de Hacienda y Crédito Público, deberán cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dicha Dependencia.
+
+SÉPTIMO. La Secretaría de Hacienda y Crédito Público, por conducto de la Oficialía Mayor, en un plazo no mayor a ciento ochenta días a partir de la fecha de publicación del presente ordenamiento, deberá emitir la normativa que deba establecer en virtud del presente Reglamento.
+
+OCTAVO. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella a la que este ordenamiento le atribuya la competencia respectiva.
+
+NOVENO. Los juicios en los cuales sea parte la Unidad de Inteligencia Financiera y cualquiera de sus unidades administrativas, por actos, actuaciones u omisiones emitidos o atribuidos a ellas, en los cuales la Procuraduría Fiscal de la Federación haya intervenido en representación de las mismas, y que a la entrada en vigor del presente Decreto se encuentren en trámite ante los tribunales de cualquier fuero, instancia jurisdiccional o administrativa, cualquiera que sea el estado procesal, etapa o instancia en que se encuentren, pasarán al control, trámite, seguimiento, litigio y responsabilidad de la Unidad de Inteligencia Financiera conforme a las facultades que se les otorgan en el presente instrumento una vez se realice la entrega formal respectiva.
+
+DÉCIMO. Cuando en términos del penúltimo párrafo del artículo 51 de este Reglamento, el auxilio que proporcione la Secretaría de Hacienda y Crédito Público al Órgano Interno de Control, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine dicha Secretaría y la Secretaría de la Función Pública, para lo cual deben observar lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforma, adiciona y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado el 30 de noviembre de 2018 en el Diario Oficial de la Federación.
