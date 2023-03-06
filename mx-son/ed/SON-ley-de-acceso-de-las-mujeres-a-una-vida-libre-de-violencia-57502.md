@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5750
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-29"
-last_updated: "2020-10-29"
+last_updated: "2023-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE MARZO DE 2023.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 29 de octubre de 2007.
 
@@ -167,13 +167,19 @@ Esta ley reconoce como derechos del receptor de violencia familiar, la prevenci�
 
 Constituye violencia laboral: la discriminación en la contratación de la víctima o no respetar su permanencia o condiciones generales de trabajo, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley y todo tipo de discriminación por condición de género, incluyendo su estado de gravidez.
 
+> <small>(ADICIONADO, B.O. 6 DE MARZO DE 2023)</small>
+
+ARTÍCULO 8 BIS. Constituye discriminación laboral por embarazo: la distinción, exclusión o restricción en contra de una mujer, en razón del embarazo, que tiene por objeto vulnerar sus derechos o del producto en gestación.
+
 ###### ARTÍCULO 9.
 
 Constituyen violencia escolar: aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les infligen maestras o maestros; administrativos, trabajadores sociales, prefectos, directivos y en general cualquier persona que labore en los centros educativos.
 
+> <small>(REFORMADO, B.O. 6 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 10.
 
-La Violencia Laboral y Escolar se ejerce por las personas que tienen un vinculo laboral o docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o en una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima e impide su desarrollo y atenta contra la igualdad.
+La Violencia Laboral y Escolar se ejerce por las personas que tienen un vínculo laboral o docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o en una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima y, en caso de embarazo, del producto en gestación, e impide su desarrollo y atenta contra la igualdad.
 
 ### CAPÍTULO III. DE LA VIOLENCIA EN LA COMUNIDAD
 
@@ -1120,3 +1126,11 @@ B.O. 29 DE OCTUBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 96, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE SONORA, DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA Y DE LA LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
