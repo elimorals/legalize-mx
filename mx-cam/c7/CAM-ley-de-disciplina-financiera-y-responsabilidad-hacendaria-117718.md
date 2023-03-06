@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-disciplina-financiera-y-responsabilidad-hacendaria-11771
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-18"
-last_updated: "2016-11-18"
+last_updated: "2023-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 18 de noviembre de 2016.
 
@@ -227,7 +229,9 @@ El gasto total propuesto por el Ejecutivo del Estado, y el propuesto por los HH.
 
 Las dependencias y entidades elaborarán sus respectivos proyectos de presupuestos de egresos, conforme a sus necesidades, a lo establecido en esta Ley, en la Ley General de Contabilidad Gubernamental y en las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño, y deberán ser congruentes con el Plan Estatal de Desarrollo y los programas derivados del mismo.
 
-Los proyectos de presupuestos de egresos de las Unidades Presupuestales serán debidamente integrados por la Secretaría en un solo documento que conformará la iniciativa de Ley de Presupuesto de Egresos del Estado, la cual se enviará al H. Congreso del Estado, por conducto del Ejecutivo, para su análisis, discusión y aprobación. Para tales efectos, las Unidades Presupuestales enviarán sus respectivos proyectos a la Secretaría a más tardar el 30 de septiembre del año inmediato anterior al que deban ejercerse.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2023)</small>
+
+Los proyectos de presupuestos de egresos de las Unidades Presupuestales serán debidamente integrados por la Secretaría en un solo documento que conformará la iniciativa de Ley de Presupuesto de Egresos del Estado, la cual se enviará al H. Congreso del Estado, por conducto del Ejecutivo, para su análisis, discusión, modificación y en su caso aprobación. Para tales efectos, las Unidades Presupuestales enviarán sus respectivos proyectos a la Secretaría a más tardar el 30 de septiembre del año inmediato anterior al que deban ejercerse.
 
 ###### Artículo 14.
 
@@ -1070,3 +1074,13 @@ Que la LXII Legislatura del H. Congreso Constitucional del Estado Libre y Sobera
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veintiocho días del mes de octubre del año dos mil dieciséis.
 
 EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS, EL SECRETARIO DE GOBIERNO, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 198 POR EL QUE "SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 13 DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS".]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente al de inicio de vigencia del decreto de reforma al primer párrafo del artículo 54 bis de la Constitución Política del Estado, previa su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
