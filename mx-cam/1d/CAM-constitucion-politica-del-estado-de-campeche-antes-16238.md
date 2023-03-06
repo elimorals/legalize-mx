@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2022-07-27"
+last_updated: "2023-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -1093,15 +1093,17 @@ XLI.- Ratificar el nombramiento que el Gobernador del Estado haga del Secretario
 
 XLII.- Las demás que le confiera esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y las Leyes que de ellas emanen.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2023)</small>
 
 ###### ARTICULO 54 Bis.
 
-El H. Congreso del Estado recibirá para su examen, discusión y aprobación a más tardar el 19 de noviembre de cada año, las iniciativas de Ley de Ingresos y de Ley de Presupuesto de Egresos del Estado para el ejercicio fiscal siguiente y, a más tardar el 30 de noviembre de cada año, las iniciativas de Ley de Ingresos de los Municipios. Cuando el Gobernador del Estado inicie su encargo en la fecha prevista en el Artículo 63 de esta Constitución, deberá entregar las iniciativas de Ley de Ingresos y de Ley de Presupuesto de Egresos del Estado a más tardar el día 30 de noviembre de ese año, aunque podrá solicitar una prórroga de hasta cinco días naturales para su entrega al H. Congreso. El H. Congreso del Estado deberá aprobar la Ley de Ingresos y la Ley de Presupuesto de Egresos del Estado y las leyes de ingresos municipales a más tardar el 20 de diciembre de cada año. Los HH. Ayuntamientos deberán aprobar anualmente sus presupuestos de egresos para el siguiente ejercicio fiscal, previo examen, discusión y, en su caso, modificación del proyecto que someta a su consideración el Presidente Municipal a más tardar el día 31 de diciembre de cada año, considerando los ingresos autorizados por el H. Congreso del Estado en la Ley de Ingresos Municipal correspondiente.
+El H. Congreso del Estado recibirá a más tardar el 19 de noviembre de cada año las iniciativas de Ley de Ingresos y de Ley de Presupuesto de Egresos del Estado para el ejercicio fiscal siguiente y, a más tardar el 30 de noviembre de cada año, las iniciativas de Ley de Ingresos de los Municipios. Cuando la Gobernadora o el Gobernador del Estado inicie su encargo en la fecha prevista en el Artículo 63 de esta Constitución, deberá entregar las iniciativas de Ley de Ingresos y de Ley de Presupuesto de Egresos del Estado a más tardar el día 30 de noviembre de ese año, aunque podrá solicitar una prórroga de hasta cinco días naturales para su entrega al H. Congreso. El H. Congreso del Estado deberá examinar, discutir, modificar y en su caso aprobar la Ley de Ingresos y la Ley de Presupuesto de Egresos del Estado y las leyes de ingresos municipales a más tardar el 20 de diciembre de cada año. Los HH. Ayuntamientos deberán aprobar anualmente sus presupuestos de egresos para el siguiente ejercicio fiscal, previo examen, discusión y, en su caso, modificación del proyecto que someta a su consideración el Presidente Municipal a más tardar el día 31 de diciembre de cada año, considerando los ingresos autorizados por el H. Congreso del Estado en la Ley de Ingresos Municipal correspondiente.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2020)</small>
 
 Al aprobar el H. Congreso la Ley de Presupuesto de Egresos del Estado deberá verificar que se incluyan y, en caso contrario deberá incluir y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, de las dependencias estatales y de las entidades de la administración pública paraestatal derivadas de empréstitos y de contratos de asociación público privada, celebrados o por celebrarse. Las leyes estatales proveerán lo necesario para garantizar la inclusión de dichas partidas en todos los casos.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 Cuando, por cualquier circunstancia, no se aprueben las Leyes de Ingresos del Estado o de los municipios, así como la Ley de Presupuesto de Egresos del Estado correspondientes a un determinado ejercicio fiscal, se tendrán por prorrogadas las leyes respectivas vigentes al finalizar el año anterior, hasta en tanto se aprueben las nuevas y entren en vigor. En este caso, si la Ley de Presupuesto de Egresos del Estado que se prorrogue corresponde a un año electoral, no serán aplicables las partidas que se hubieren autorizado por tal motivo, sino, únicamente, las que se hubieren incluido para el normal funcionamiento de los partidos políticos y las instituciones electorales. Asimismo, en caso de que en la Ley de Ingresos del Estado o en las Leyes de Ingresos Municipales se hubiesen previsto montos de endeudamiento y, en su caso, la contratación de empréstitos, dichas autorizaciones no se considerarán renovadas.
 
@@ -2393,9 +2395,9 @@ El Estado y los municipios, en ejercicio de la función de seguridad pública en
 
 En el Estado de Campeche se contará con un organismo autónomo, especializado, imparcial y colegiado, responsable de garantizar el derecho de acceso a la información y de protección de datos personales en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en los ámbitos estatal y municipal.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2023)</small>
 
-El organismo garante del derecho de acceso a la información y de protección de datos personales estará integrado por tres miembros, denominados Comisionadas y Comisionados, mismos que serán nombrados por el Congreso del Estado por un período de seis años, sin posibilidad de reelegirse. En la designación de las Comisionadas y Comisionados se observará el principio de paridad de género.
+El organismo garante del derecho de acceso a la información y de protección de datos personales estará integrado por tres miembros, denominados Comisionadas y Comisionados, mismos que serán nombrados por el Congreso del Estado por un periodo de seis años. En la designación de las Comisionadas y Comisionados se observará el principio de paridad de género.
 
 En su funcionamiento, el organismo garante del derecho de acceso a la información y de protección de datos personales se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
 
@@ -3272,3 +3274,19 @@ P.O. 27 DE JULIO DE 2022.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 197 POR EL QUE “SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 54 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 199 POR EL QUE “SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 125 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
