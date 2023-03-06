@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2023-02-24"
+last_updated: "2023-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2023.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -1367,6 +1367,10 @@ VII. Cuando el paradero de la víctima sea desconocido o la víctima haya sido i
 
 VIII. Cuando existan relaciones asimétricas de poder o situaciones de vulnerabilidad, subordinación o discriminación, desfavorables para la víctima por el hecho de ser mujer, frente al sujeto activo o cuando éste aproveche la confianza que existe con la víctima derivada de una relación sentimental, de pareja o de cualquier índole;
 
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2021)</small>
+
+IX. Cuando exista una o varias razones de género, sobre la base del reconocimiento de la particular situación de desventaja en la cual históricamente se han encontrado las mujeres y bajo la perspectiva de género que deben aplicar las autoridades al caso concreto durante la conducción de investigaciones e integración de carpetas de investigación, servicios periciales y procesos judiciales.
+
 > <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2023)</small>
 
 X. La privación de la vida ocurre cuando la víctima se encuentra embarazada. En este caso, si se provoca la pérdida del producto de la concepción, se impondrá al agresor, de manera adicional, una pena de 15 a 35 años de prisión, sin perjuicio de las sanciones que le correspondan por el delito de feminicidio;
@@ -2134,6 +2138,36 @@ II. La víctima no tenga capacidad para comprender el significado del hecho o pa
 > <small>(ADICIONADA, P.O. 28 DE JULIO DE 2020)</small>
 
 III. El delito se cometa en el lugar y durante el periodo de tiempo que, previa resolución de autoridad competente, se decrete o se recomiende la limitación del tránsito de personas en espacios públicos.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2023)</small>
+
+###### Artículo 178 Quater.
+
+Violencia vicaria.
+
+Comete el delito de violencia vicaria quien mantenga o haya mantenido una relación de matrimonio, concubinato o de hecho con una mujer y que le cause daño, por sí o por interpósita persona, utilizando como medio a las hijas, hijos o personas significativas para la víctima.
+
+Para efectos de este delito se considera que se causa daño a la mujer, cuando el sujeto activo:
+
+I. Amenace con causar daño a las hijas o hijos de la víctima, o personas significativas para ella, o amanece con ocultarlos, retenerlos o sustraerlos;
+
+II. Promueva, incite o fomente actos de violencia física o psicológica de hijas o hijos de la víctima, o personas significativas para ella, en contra de ésta;
+
+III. Promueva, incite o fomente actos que descalifiquen la figura materna afectando el vínculo materno filial de las hijas o hijos de la víctima;
+
+IV. Impida, dificulte o restrinja la convivencia y comunicación de la víctima con sus hijas, hijos o con personas significativas para ella, o los oculte, retenga o sustraiga;
+
+V. Interponga acciones legales, procedimientos judiciales o conductas procesales, sustentándose en hechos falsos o inexistentes e impidiendo, dificultando o restringiendo la convivencia o el ejercicio de la guarda y custodia o patria potestad por parte de la víctima, respecto de sus hijas o hijos; o,
+
+VI. Condicione el cumplimiento de las obligaciones alimentarias a que tiene derecho la víctima o las hijas e hijos en común.
+
+(NOTA: EL 4 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 85/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 7 DE MARZO DE 2023, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 345, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+A quien cometa el delito de violencia vicaria se le impondrán de cuatro a ocho años de prisión, ASÍ COMO PÉRDIDA DE LOS DERECHOS QUE TENGAN RESPECTO DE LAS VÍCTIMAS DIRECTAS E INDIRECTAS, INCLUIDOS LOS DE CARÁCTER SUCESORIO, PATRIA POTESTAD DE HIJAS E HIJOS, y se decretarán las medidas de protección conforme a lo establecido por este Código y la legislación aplicable.
+
+Las penas previstas se incrementarán hasta en una tercera parte si: se incurre en daño físico a la víctima o a quienes se utilicen como medio; cuando en la comisión del delito participen dos o más personas; o, cuando uno o varios miembros de la familia del sujeto activo haya ejercido algún tipo de violencia en contra (sic) la víctima o de quienes se utilicen como medio.
+
+Para efectos del presente artículo se entiende por persona significativa cualquiera que tenga una relación afectiva continua con la víctima en el entorno de sus relaciones sociales inmediatas.
 
 ### CAPÍTULO I. AMENAZAS
 
@@ -4660,3 +4694,9 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. La Fiscalía General del Estado de Michoacán contará con 30 días hábiles para emitir lineamientos generales para la recepción y trámite de denuncias anónimas y en las que se reserve la identidad de las personas denunciantes, respetando los principios y reglas previstos en la legislación nacional y estatal aplicable.
 
 TERCERO. Los procesos penales que se estén tramitando hasta antes de la publicación del presente Decreto, continuarán con su cauce de origen.
+
+P.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 345.- PRIMERO.- SE ADICIONA EL ARTÍCULO 178 QUATER AL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN.- SEGUNDO.- SE ADICIONA LA FRACCIÓN IX BIS AL ARTÍCULO 9 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
