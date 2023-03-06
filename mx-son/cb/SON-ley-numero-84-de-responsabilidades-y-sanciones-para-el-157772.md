@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-84-de-responsabilidades-y-sanciones-para-el-157772"
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-26"
-last_updated: "2022-04-26"
+last_updated: "2023-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE MARZO DE 2023.
 
 Ley publicada en Edición Especial del Boletín Oficial del Estado de Sonora, el martes 26 de abril de 2022.
 
@@ -175,7 +175,9 @@ II.- Conducirse con rectitud sin utilizar su empleo, cargo o comisión para obte
 
 III.- Satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población;
 
-IV.- Dar a las personas en general el mismo trato, por lo que no concederán privilegios o preferencias a organizaciones o personas, ni permitirán que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva;
+> <small>(REFORMADA, B.O. 6 DE MARZO DE 2023)</small>
+
+IV.- Dar a las personas en general el mismo trato, por lo que no concederán privilegios o preferencias a organizaciones o personas, ni permitirán que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva, sin discriminar por origen étnico o nacional, género, embarazo, maternidad, edad, discapacidad, condición social, condición de salud, religión, opiniones, orientación sexual, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
 V.- Actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades;
 
@@ -507,7 +509,9 @@ La declaración de intereses deberá presentarse en los plazos a que se refiere 
 
 Incurrirá en Falta administrativa no grave el servidor público cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:
 
-I.- Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a los demás Servidores Públicos como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley;
+> <small>(REFORMADA, B.O. 6 DE MARZO DE 2023)</small>
+
+I.- Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a los demás Servidores Públicos como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley y procurando un ambiente libre de violencia de género y de discriminación en razón de embarazo;
 
 II.- Denunciar los actos u omisiones que en ejercicio de sus funciones llegare a advertir, que puedan constituir Faltas administrativas, en términos del artículo 98 de la presente Ley;
 
@@ -939,9 +943,11 @@ Si el presunto infractor confiesa su responsabilidad sobre los actos que se le i
 
 ### CAPÍTULO I. INICIO DE LA INVESTIGACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 95.
 
-En el curso de toda investigación deberán observarse los principios de debido proceso, imparcialidad, objetividad, congruencia, tipicidad, verdad material y respeto a los derechos humanos. Las autoridades competentes serán responsables de la oportunidad, exhaustividad y eficiencia en la investigación, la integralidad de los datos y documentos, así como el resguardo del expediente en su conjunto.
+En el curso de toda investigación deberán observarse los principios de debido proceso, imparcialidad, objetividad, congruencia, tipicidad, verdad material, perspectiva de género y respeto a los derechos humanos. Las autoridades competentes serán responsables de la oportunidad, exhaustividad y eficiencia en la investigación, la integralidad de los datos y documentos, así como el resguardo del expediente en su conjunto.
 
 Igualmente, incorporarán a sus investigaciones, las técnicas, tecnologías y métodos de investigación que observen las mejores prácticas internacionales.
 
@@ -2138,3 +2144,13 @@ Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en e
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, al primer día de abril del año dos mil veintidós.- GOBERNADOR DEL ESTADO. FRANCISCO ALFONSO DURAZO MONTAÑO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- ALVARO BRACAMONTE SIERRA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 96, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE SONORA, DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA Y DE LA LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
