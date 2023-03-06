@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2022-07-07"
+last_updated: "2023-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE MARZO DE 2023.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -1143,6 +1143,10 @@ IV. Las demás que les confieran los instrumentos jurídicos que los creen.
 
 Las dependencias y entidades de la administración pública municipal, conducirán sus actividades en forma programada y con base en las políticas que para el logro de los objetivos del desarrollo municipal establezca el Ayuntamiento conforme a esta Ley.
 
+> <small>(ADICIONADO, B.O. 6 DE MARZO DE 2023)</small>
+
+Las personas titulares de la administración pública municipal a los que hace referencia el párrafo anterior, deberán designarse con estricto apego al principio de paridad.
+
 ###### Artículo 85.
 
 Las dependencias de la administración pública municipal ejercerán las funciones que les asigne esta y otras leyes y el Reglamento Interior o, en su defecto, el acuerdo del Ayuntamiento que para el efecto se expida, mismo que deberá publicarse en el Boletín Oficial del Gobierno del Estado. Las entidades paramunicipales, estarán sujetas a las normas que rijan su estructura y funcionamiento.
@@ -1162,6 +1166,10 @@ II. La Tesorería Municipal;
 III. La Jefatura de la Policía Preventiva Municipal.
 
 Asimismo, el Ayuntamiento deberá tener un Sistema Administrativo Interno de Control y Evaluación Gubernamental.
+
+> <small>(ADICIONADO, B.O. 6 DE MARZO DE 2023)</small>
+
+De igual manera, el Ayuntamiento deberá crear una unidad administrativa que atienda el sistema municipal de atención de las mujeres, de acuerdo a lo dispuesto en el artículo 19 de la Ley para la Igualdad entre Mujeres y Hombres en el Estado de Sonora.
 
 ### CAPITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA DIRECTA
 
@@ -4638,3 +4646,15 @@ B.O. 7 DE JULIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 6 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 99, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE SONORA Y QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez entrado en vigor el presente decreto, las autoridades municipales correspondientes, dispondrán de 60 días naturales para actualizar las disposiciones legales o normativas correspondientes, a efecto de dar cumplimiento al objeto del presente decreto.
