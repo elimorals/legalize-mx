@@ -4,7 +4,7 @@ identifier: "QUE-ley-industrial-del-estado-de-queretaro-68023"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2021-10-08"
+last_updated: "2023-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "QUE"
 ---
 # LEY INDUSTRIAL DEL ESTADO DE QUERETARO
 
-LEY INDUSTRIAL DEL ESTADO DE QUERETARO
+LEY INDUSTRIAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.2
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO EL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 3 de abril de 2009.
 
@@ -35,7 +33,9 @@ Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, 
 
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17 FRACCIÓN II Y 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, aprueba la siguiente:
 
@@ -196,6 +196,10 @@ VI. Destinen sus productos al mercado de exportación directa o indirecta;
 VII. Celebren acuerdos de cooperación con instituciones educativas, para estimular la formación y capacitación de técnicos y profesionistas; y
 
 VIII. Den empleo directo a personas con discapacidad en número igual al dos por ciento de su planta laboral.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2023)</small>
+
+Así mismo, se podrán beneficiar con los incentivos previstos a quienes den empleo a jóvenes de 16 a 25 años que se encuentren en su primera experiencia laboral que implique al menos el dos por ciento de su plantilla laboral.
 
 ###### Artículo 8.
 
@@ -694,3 +698,13 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 7 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY POR LA QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO Y EL ARTÍCULO 7 DE LA LEY INDUSTRIAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones contrarias a la presente ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
