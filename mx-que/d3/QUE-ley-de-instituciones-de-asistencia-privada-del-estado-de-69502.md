@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-instituciones-de-asistencia-privada-del-estado-de-69502"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2022-05-02"
+last_updated: "2023-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de julio de 2009.
 
@@ -661,9 +661,23 @@ XVI. Otorgar las autorizaciones que procedan a favor de las instituciones, en lo
 
 XVII. Fomentar la obtención de aportaciones y donativos a favor de las instituciones de asistencia privada;
 
-XVIII. (DEROGADA, P.O. 2 DE MAYO DE 2022)
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 7 DE MARZO DE 2023)</small>
 
-XIX. (DEROGADA, P.O. 2 DE MAYO DE 2022)
+XVIII. Emitir la certificación anual de cada una de las Instituciones de Asistencia Privada, siempre que éstas cumplan con los requisitos siguientes:
+
+a) Haber entregado su informe anual de actividades, dentro del plazo previsto en el artículo 43, fracción XII de la presente Ley.
+
+b) Acreditar el cumplimiento de las obligaciones en materia de protección civil, de conformidad con su objeto y las disposiciones aplicables.
+
+c) Acreditar contar con las licencias y permisos emitidos por las autoridades competentes, relacionados con su objetivo y actividades preponderantes.
+
+La certificación anual podrá servir de constancia de que una persona moral fue constituida como una Institución de Asistencia Privada y que se mantiene operando, con independencia de que las distintas autoridades en el ámbito de su competencia puedan ejercer sus facultades de verificación conforme a las disposiciones aplicables.
+
+El Presidente de la Junta podrá emitir lineamientos para establecer el formato que deberá cumplir la documentación que exhiban las instituciones, a fin de obtener su certificación anual.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MARZO DE 2023)</small>
+
+XIX. Publicar anualmente en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", el listado de Instituciones de Asistencia Privada que obtuvieron su certificación anual.
 
 XX. (DEROGADA, P.O. 2 DE MAYO DE 2022)
 
@@ -1206,3 +1220,13 @@ Artículo Tercero. El titular de la Secretaría de Planeación y Participación 
 Artículo Cuarto. Envíese al Titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Quinto. La aprobación de la presente disposición normativa no implica adecuaciones o incremento al Presupuesto de Egresos del Estado de Querétaro para el ejercicio presupuestal 2022; en razón de lo anterior las unidades administrativas sujetas de la Ley materializarán su entrada en vigor conforme a la disponibilidad financiera del presente ejercicio fiscal 2022 y en los subsecuentes lo que para tal efecto presupuesten dentro del Presupuesto de Egresos del Estado de Querétaro, dentro del ejercicio fiscal que corresponda.
+
+P.O. 7 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL ARTÍCULO 55 DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
