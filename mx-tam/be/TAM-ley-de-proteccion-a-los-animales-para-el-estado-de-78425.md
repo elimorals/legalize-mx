@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-78425"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2022-06-14"
+last_updated: "2023-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2023 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2010.
 
@@ -137,9 +139,23 @@ Para los efectos de esta Ley, además de los conceptos definidos por la Ley Gene
 
 I. Secretaría: Secretaría de Desarrollo Urbano y Medio Ambiente;
 
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2023)</small>
+
+I Bis. Adopción: Contrato celebrado, sin fines de lucro, entre un adoptante y una organización de carácter civil, oficial o privado, mediante el cual, el adoptante adquiere la calidad de propietario de un animal de compañía y que establece los derechos y obligaciones de las partes contratantes, con el fin de asegurar y proteger las condiciones futuras del animal y su destino;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2023)</small>
+
+I Ter. Adoptante: Propietario de un animal de compañía de origen no comercial, que voluntariamente decide responsabilizarse de su custodia y atención de manera responsable al suscribir un contrato de adopción con alguna organización de carácter civil, dependencia oficial o privada. Para efectos de esta Ley, los adoptantes tendrán el tratamiento y la calidad de propietarios;
+
 II. Animales domésticos: Las especies que se crían bajo el cuidado del ser humano, así como la fauna silvestre que se adapta a la vida del hombre sin constituir peligro;
 
-III. Animal abandonado: Los animales que deambulen libremente por la vía pública sin placa de identidad u otro signo de identificación; así como aquéllos que queden sin el cuidado o protección de sus propietarios o poseedores dentro de los bienes del dominio privado;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2023)</small>
+
+III. Animal abandonado: El que queda sin el cuidado o protección de sus propietarios o poseedores, poniendo en riesgo su integridad física o vida, así como los que deambulen libremente por la vía pública sin placa de identidad u otra forma de identificación, y sus descendencias;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2023)</small>
+
+III Bis. Animal adiestrado: Los animales que son entrenados por personas debidamente autorizadas por autoridad competente, mediante programas cuyo fin es modificar su comportamiento con el objeto de que estos realicen funciones de vigilancia, protección, guardia, detección de estupefacientes, armas y explosivos, acciones de búsqueda y rescate de personas, terapia, asistencia, entretenimiento y demás acciones análogas;
 
 > <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
 
@@ -281,7 +297,9 @@ VII. Supervisar y llevar control sobre los criaderos, establecimientos, instalac
 
 VIII. Conocer a través de la unidad administrativa correspondiente cualquier hecho acto u omisión derivado del incumplimiento de lo establecido en la presente Ley, sus Reglamentos y demás disposiciones jurídicas aplicables y emitir las sanciones correspondientes salvo aquellas que estén expresamente atribuidas a otras autoridades. Para el seguimiento de esta atribución deberá contar con personal debidamente capacitado en las materias de esta Ley para dar curso a las denuncias;
 
-IX. Establecer campañas de vacunación antirrábica, de desparasitación y esterilización, en coordinación con la Secretaría de Salud, federaciones, asociaciones y colegios de médicos veterinarios zootecnistas y campañas sanitarias para el control y erradicación de enfermedades zoonóticas;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2023)</small>
+
+IX. Fomentar la cultura del trato digno y respetuoso, mediante el establecimiento de campañas de vacunación antirrábica, de desparasitación, de adopción, esterilización y de difusión de información respecto de las consecuencias ambientales, sociales y de salud pública del abandono de animales de compañía, en coordinación con la Secretaría de Salud, federaciones, asociaciones y colegios de médicos veterinarios zootecnistas y campañas sanitarias para el control y erradicación de enfermedades zoonóticas;
 
 X. Crear el Registro Municipal Animal, con objeto de identificar y registrar a los dueños de animales domésticos y silvestres en cautiverio que ya existen, con los cuales se retroalimentará el Registro Estatal Animal; y
 
@@ -323,9 +341,15 @@ III. La promoción de campañas de adopción, esterilización de animales y cont
 
 IV. El desarrollo de programas de educación y difusión para el fomento de la cultura de protección a los animales;
 
-V. El desarrollo de las acciones contenidas en los convenios que se establezcan con los sectores social y privado en las materias de la presente Ley; y
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2023)</small>
 
-VI. Las demás que esta Ley, su Reglamento y otros ordenamientos jurídicos establezcan.
+V. El desarrollo de las acciones contenidas en los convenios que se establezcan con los sectores social y privado en las materias de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2023)</small>
+
+VI. La creación de programas de adiestramiento de perros abandonados para proteger a víctimas de violencia de género, así como para hacer compañía a personas adultas mayores en situación de abandono; y
+
+VII. Las demás que esta Ley, su Reglamento y otros ordenamientos jurídicos establezcan.
 
 ###### ARTICULO 10.
 
@@ -475,6 +499,10 @@ VI. Venderlos a menores de edad, sin la autorización por escrito de quienes ten
 
 VII. Ejercer su venta ambulante sin autorización;
 
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2023)</small>
+
+VII Bis. Realizar acciones de crianza, comercialización o reproducción clandestina;
+
 VIII. Suministrarles alimentos que contengan substancias que puedan causarles sufrimiento o daños innecesarios;
 
 IX. Mantenerlos generalmente amarrados, enjaulados, excepto los que tengan capacidad para volar, encadenados, o expuestos a la intemperie en patios, azoteas o terrenos baldíos o en instalaciones indebidas desde el punto de vista higiénico-sanitario o inadecuadas para la práctica de los cuidados y la atención necesarios de acuerdo con sus necesidades, según raza y especie;
@@ -578,6 +606,12 @@ Las disposiciones de este artículo se aplicarán en lo conducente a los animale
 Los animales domésticos abandonados, perdidos o callejeros que deambulen sin dueño aparente y sin placa de identidad y de vacunación antirrábica deberán ser retenidos por las autoridades municipales y de la Secretaría de Salud, de manera cotidiana y sistemática, quienes evitarán cualquier acto de crueldad, tormento, sobreexcitación o escándalo público y los depositarán en los Centros de Control Animal o, en su caso, en los refugios legalmente autorizados de las Asociaciones Protectoras de Animales, dejando constancia pormenorizada de los datos de cada animal, en Libros de Registro.
 
 Los animales capturados podrán ser reclamados por sus dueños dentro de las setenta y dos horas siguientes a su captura, debiendo comprobar su propiedad o posesión mediante documento fehaciente o llevar testigos que bajo protesta de decir verdad reconozcan como suyo al animal reclamado. En caso contrario podrán ser dados en adopción a Asociaciones Protectoras de Animales inscritas en los padrones correspondientes o sacrificarlos humanitariamente si se considera necesario con alguno de los métodos que se señalan en esta Ley, dejando constancia pormenorizada de los datos de cada animal en Libros de Registro, quedando estrictamente prohibido el empleo de golpes, ahorcamientos, ácidos corrosivos, estricnina, morfina, cianuro, arsénico u otros medios o substancias similares.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2023)</small>
+
+###### ARTICULO 24 Bis.
+
+La Secretaría, con el apoyo de los particulares y Asociaciones Protectoras de Animales, impulsará la creación de programas de adiestramiento de perros abandonados para proteger a mujeres víctimas de violencia de género; así como perros para hacer compañía a personas adultas mayores en situación vulnerable y de abandono. Para alcanzar los fines que persigue este artículo, las personas adultas mayores contarán con el apoyo de una persona que tutorizará la adopción.
 
 ### CAPITULO XII. DE LOS ANIMALES DE EXHIBICION O DE ESPECTACULO
 
@@ -735,6 +769,10 @@ La venta de animales será realizada en locales e instalaciones adecuadas para s
 
 Son establecimientos de venta o comercialización de animales aquellos que realicen como actividad primordial, la compraventa de animales domésticos y silvestres en cautiverio, pudiendo simultáneamente realizar la comercialización de complementos y productos para el acicalamiento y alimentación. Dichos establecimientos deberán colocar carteles con ilustraciones de las especies permitidas y las especies prohibidas.
 
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2023)</small>
+
+En el caso de las especies de animales domésticos de las que no se logre su venta, procurar entregarlos en adopción, o bien, a los organizadores de eventos en los que se promueva dicha adopción.
+
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 No podrán ser objeto de comercialización especies que puedan suponer un daño para los ecosistemas del Estado de Tamaulipas o a la salud o seguridad de sus habitantes. En todo caso, sólo se comercializarán especies incluidas en los listados presentados y aprobados para esa actividad por la Secretaría.
@@ -827,11 +865,27 @@ La autoridad competente deberá supervisar periódicamente todo expendio de anim
 
 Toda persona física o moral que se dedique a la cría, exhibición, venta, adiestramiento de animales o a utilizarlos como animales de trabajo, deberá contar con la autorización de las autoridades administrativas correspondientes, valerse de los procedimientos más adecuados para cuidar a los animales y disponer de los medios necesarios a fin de que los animales reciban un trato digno y respetuoso, de acuerdo con los adelantos científicos en uso y puedan satisfacer el comportamiento natural de su especie y cumplir con las normas oficiales mexicanas correspondientes
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MARZO DE 2023)</small>
+
+### CAPITULO XIV BIS. DE LA PROMOCION E IMPULSO DE LA ADOPCION DE ANIMALES
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2023)</small>
+
+###### ARTICULO 34 Bis.
+
+Las personas físicas o morales podrán organizar campañas y/o eventos públicos o privados, para promover la adopción de animales abandonados, previa obtención del permiso de la autoridad municipal, para lo cual contarán con el apoyo del Ayuntamiento correspondiente en la medida de sus posibilidades, especialmente en la difusión de dichos eventos.
+
+Las personas físicas y morales que organicen eventos para otorgar animales en adopción, deberán entregarlos estando vacunados, desparasitados y esterilizados, haciendo además el seguimiento de éstos para que en el caso de que se detecte alguna forma de maltrato sean recuperados de inmediato. Deberán entregar a los adoptantes un manual de cuidados.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2023)</small>
+
+###### ARTICULO 34 Ter.
+
+La Secretaría promoverá la creación de un programa de adopción comunitaria de animales abandonados, de manera que las personas que habitan en las comunidades donde se encuentran estos animales puedan hacerse cargo de ellos.
+
+Para alcanzar los fines de este artículo, las autoridades correspondientes facilitarán la esterilización, vacunación y desparasitación de los animales abandonados que formen parte del programa de adopción comunitaria.
+
 ### CAPITULO XV. DE LA REALIZACION DE EXPERIMENTOS CON ANIMALES
-
-### CAPITULO XVI. DE LOS CENTROS DE CONTROL ANIMAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 35.
 
@@ -865,11 +919,13 @@ Si las heridas son de consideración o implican mutilación grave, el animal ser
 
 Las personas o instituciones que procedan a experimentar con animales deberán aceptar en todo momento la supervisión de las autoridades estatales o municipales que deseen calificar las condiciones en que se efectúan los experimentos.
 
-### CAPITULO XVII. DE LA TRANSPORTACION DE ANIMALES
+### CAPITULO XVI. DE LOS CENTROS DE CONTROL ANIMAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2023)</small>
 
 ###### ARTICULO 38.
 
-La Secretaría, en coordinación con la Secretaría de Salud y los Ayuntamientos, implementarán cuando menos dos veces al año, campañas de vacunación antirrábica y de protección para perros y gatos, servicio que se ofrecerá de manera gratuita a los propietarios, poseedores o encargados de esos animales, preferentemente a quienes habiten en zonas marginadas de las ciudades y del campo.
+La Secretaría, en coordinación con la Secretaría de Salud y los Ayuntamientos, implementarán cuando menos dos veces al año, campañas de vacunación antirrábica, de esterilización y de protección para perros y gatos, servicios que se ofrecerán de manera gratuita a los propietarios, poseedores o encargados de esos animales, preferentemente a quienes habiten en zonas marginadas de las ciudades y del campo.
 
 Todos los perros serán vacunados obligatoriamente contra la rabia al cumplir los tres meses de edad. Las sucesivas revacunaciones se atendrán a las determinaciones establecidas por la Secretaría de Salud.
 
@@ -879,9 +935,11 @@ Las personas que oculten animales enfermos con rabia o los pongan en libertad, i
 
 La Secretaría de Salud en el Estado expedirá a través del Centro Antirrábico la placa y el certificado oficial de vacunación antirrábica, el cual servirá también como registro de la tenencia de animales. El Centro Antirrábico turnará copia al Ayuntamiento correspondiente para la inscripción en el Registro Municipal Animal.
 
-Las instituciones, colegios o médicos veterinarios y los zootecnistas acreditados ante la Secretaría de Salud podrán realizar la vacunación antirrábica y expedir la placa y el certificado de vacunación, turnando copia de este al Ayuntamiento correspondiente, para incorporarlo al Registro Municipal Animal.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2023)</small>
 
-### CAPITULO XVIII. DEL SACRIFICIO DE ANIMALES
+Las instituciones, colegios o médicos veterinarios y los zootecnistas acreditados ante la Secretaría de Salud, podrán realizar la vacunación antirrábica y expedir la placa y el certificado de vacunación, así como también de esterilización, turnando copia de este al Ayuntamiento correspondiente, para incorporarlo al Registro Municipal Animal.
+
+### CAPITULO XVII. DE LA TRANSPORTACION DE ANIMALES
 
 ###### ARTICULO 39.
 
@@ -913,7 +971,7 @@ XII. En el caso de que el transporte que conduce a los animales fuera detenido e
 
 XIII. En caso de incumplimiento a lo establecido en las fracciones correspondientes, las Autoridades correspondientes actuarán de inmediato, incluso sin que medie denuncia previa, para salvaguardar el bienestar de los animales de que se trate y fincar las responsabilidades que en su caso proceda. Si resultan heridos de gravedad uno o varios ejemplares, serán sacrificados inmediatamente por la autoridad estatal o las municipales correspondientes, observando en todo momento, las disposiciones de esta Ley, su Reglamento y las Normas Oficiales Mexicanas para el sacrificio humanitario.
 
-### CAPITULO XIX. DE LA ACCION PUBLICA
+### CAPITULO XVIII. DEL SACRIFICIO DE ANIMALES
 
 ###### ARTICULO 40.
 
@@ -967,7 +1025,7 @@ Nadie puede sacrificar a un animal por envenenamiento, asfixia, estrangulamiento
 
 Nadie puede sacrificar a un animal en la vía pública, salvo por motivos de peligro inminente y para evitar el sufrimiento innecesario en el animal cuando no sea posible su traslado inmediato a un lugar más adecuado. En todo caso dicho sacrificio se hará bajo la responsabilidad de un profesional en la materia o por protectores de animales con demostrada capacidad y amplio juicio.
 
-### CAPITULO XX. DE LA INSPECCION Y VIGILANCIA
+### CAPITULO XIX. DE LA ACCION PUBLICA
 
 ###### ARTICULO 43.
 
@@ -999,7 +1057,7 @@ Las autoridades competentes podrán ordenar la ejecución de alguna o algunas de
 
 La autoridad a más tardar dentro de los quince días hábiles siguientes a la presentación de una denuncia deberá informar al denunciante el trámite que se haya dado, así como las medidas y sanciones impuestas, en su caso, dentro de la resolución correspondiente.
 
-### CAPITULO XXI. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO XX. DE LA INSPECCION Y VIGILANCIA
 
 ###### ARTICULO 45.
 
@@ -1133,7 +1191,7 @@ V. La imposibilidad material de continuarlo por causas supervenientes.
 
 Toda persona tiene derecho a que las autoridades competentes pongan a su disposición la información que le soliciten en materia de trato digno y respetuoso a los animales, por lo que el procedimiento se sujetará a lo previsto en éste Código y en lo que dispone la Ley de Transparencia y Acceso a la Información Pública del Estado. Asimismo toda persona física o jurídica colectiva que maneje animales tiene la obligación de proporcionar la información que le sea requerida por las autoridades
 
-### CAPITULO XXII. DEL RECURSO DE INCONFORMIDAD
+### CAPITULO XXI. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 51.
 
@@ -1221,9 +1279,7 @@ A todo reincidente en la violación a las disposiciones de la presente ley, se l
 
 Para efectos de la presente Ley, se reincide cuando habiendo quedado firme una resolución que imponga una sanción, se cometa una nueva falta dentro de los doce meses contados a partir de aquélla.
 
-### CAPITULO XXIII. DE LA COMISION ESTATAL DE PROTECCION A LOS ANIMALES
-
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+### CAPITULO XXII. DEL RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 60.
 
@@ -1236,6 +1292,10 @@ La interposición del recurso se hará por escrito, dirigido a la autoridad corr
 Con el escrito en el que conste el recurso, deberán ofrecerse las pruebas que el interesado considere necesarias, siempre que tengan relación con los hechos en los que el recurrente funde su reclamación.
 
 La autoridad responsable dictará resolución en quince días hábiles, previo desahogo de las pruebas ofrecidas.
+
+### CAPITULO XXIII. DE LA COMISION ESTATAL DE PROTECCION A LOS ANIMALES
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTICULO 61.
 
@@ -1422,6 +1482,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 14 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-148 MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS Y LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-541 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE PROTECCIÓN ANIMAL Y MEDIO AMBIENTE".]
 
 ###### ARTÍCULO ÚNICO.
 
