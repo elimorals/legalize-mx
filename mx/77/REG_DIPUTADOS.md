@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2021-12-21"
+last_updated: "2023-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2023.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -1005,6 +1005,18 @@ VI. Efemérides, hasta por tres minutos.
 3. Las iniciativas que presenten los diputados o diputadas, suscritas por el Grupo y su Coordinador, se denominarán Iniciativa a nombre de Grupo.
 
 4. Las Iniciativas a nombre de Grupo, podrán retirarse por el Coordinador del Grupo, dentro del plazo señalado en este artículo.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2023)</small>
+
+5. Las iniciativas de reforma constitucional deberán presentarse por separado, de cualquier otra iniciativa que proponga modificaciones a disposiciones de legislación secundaria u otra norma general. Cuando exista una correlación entre iniciativas, porque una de éstas modifique disposiciones constitucionales y la otra, normas secundarias, la relación que éstas guarden, deberá señalarse en los argumentos que sustenten ambas iniciativas, como parte de los elementos indispensables a que se refiere el artículo 78 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2023)</small>
+
+6. En el caso de iniciativas que impliquen modificaciones a la Ley y a la normatividad reglamentaria de la Cámara, se presentarán de manera separada a las constitucionales.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2023)</small>
+
+7. Las iniciativas que propongan modificaciones a este Reglamento o a alguna otra reglamentación interna, que sea exclusiva de esta Cámara, sólo podrán referirse a la normatividad que sugieran reformar.
 
 ###### Artículo 78.
 
@@ -4253,3 +4265,9 @@ D.O.F. 21 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE REUNIONES EN CONFERENCIA”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN LOS NUMERALES 5, 6 Y 7 AL ARTÍCULO 77 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE INICIATIVAS CONSTITUCIONALES Y NORMAS SECUNDARIAS”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
