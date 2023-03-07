@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2022-12-01"
+last_updated: "2023-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -339,29 +339,37 @@ La ley determinará cuáles son las profesiones que necesitan título para su ej
 
 Todos los habitantes del Estado tienen derecho a la alimentación nutritiva, suficiente y de calidad, a la protección de la salud, a disfrutar de una vivienda digna y decorosa, y en general, al bienestar y a la seguridad individual y social y a la accesibilidad, como objetivos de la permanente superación del nivel de vida de la población. La Ley definirá las bases y formas para conseguir estas finalidades en concurrencia con la Federación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2023)</small>
 
 ###### Artículo 8° Bis.
 
-Todas y todos los habitantes de la Entidad tienen derecho a la educación que imparta el Estado, la cual será pública, gratuita, laica y democrática, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante, mejoramiento económico, social y cultural del pueblo. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentar en él, el amor a la patria el respeto a los derechos humanos y la conciencia de la solidaridad social en lo Estatal, Nacional y en lo Internacional, dentro de la independencia y la justicia.
+Todas y todos los habitantes de la Entidad tienen derecho a la educación que imparta el Estado, la cual será pública, gratuita, laica, universal y democrática, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante, mejoramiento económico, social y cultural del pueblo. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentar en él, el amor a la patria el respeto a los derechos humanos y la conciencia de la solidaridad social en lo Estatal, Nacional y en lo Internacional, dentro de la independencia y la justicia.
 
 > <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
 
 Además, contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
 
-> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2023)</small>
 
-El Estado impartirá educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias.
+El Estado impartirá y garantizará la educación inicial, preescolar, primaria, secundaria y media superior. La educación inicial, preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias. La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia.
 
 > <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
 
 La educación en el Estado de Hidalgo se ajustará estrictamente a las disposiciones del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones en la materia.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2023)</small>
+
+Las autoridades locales establecerán políticas para fomentar la inclusión, permanencia y continuidad, en términos que la ley señale. Asimismo, proporcionarán medios de acceso a este tipo educativo para las personas que cumplan con los requisitos dispuestos por las instituciones públicas.
 
 > <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
 
 El Estado apoyará la investigación científica, el desarrollo tecnológico y su aplicación práctica a través de la innovación, lo que permitirá ser más competitivo y la posibilidad de incorporar a los hidalguenses a la sociedad del conocimiento.
 
 El Estado procurará el acceso a programas de becas para los alumnos más destacados en su desempeño académico dentro de las instituciones de educación pública, así como de aquellos que su condición económica les impida la conclusión de estudios profesionales.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2023)</small>
+
+Los planes y programas de estudio tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias y humanidades: la enseñanza de las matemáticas, la lecto-escritura, la literacidad, la historia, la geografía, el civismo, la filosofía, la tecnología, la innovación, las lenguas indígenas de nuestro país, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva y el cuidado al medio ambiente, entre otras.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2019)</small>
 
@@ -2635,13 +2643,23 @@ Los Ayuntamientos se integran por un Presidente o Presidenta Municipal, las sind
 
 En la elección de los Ayuntamientos, se aplica el principio de representación proporcional de acuerdo a las reglas que establezca la ley de la materia.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2023)</small>
 
 ###### Artículo 125.
 
-Los presidentes municipales, síndicos y regidores de los ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el periodo inmediato.
+Las personas electas popularmente, que ocupen el cargo de presidentes municipales, síndicos y regidores de los ayuntamientos, podrán ser electos por un periodo adicional consecutivo. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que les dé, no podrán ser electas para el periodo inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el periodo inmediato como propietarios, a menos que hayan estado en ejercicio.
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2023)</small>
+
+En el caso de las personas que integran a los ayuntamientos y que sean electas como independientes, podrán postularse para la elección consecutiva solamente con su misma calidad y no podrán ser postuladas por un partido político, salvo que demuestren su militancia a ese partido político antes de la mitad de su mandato.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2023)</small>
+
+Ninguna de las personas funcionarias antes mencionadas, cuando hayan tenido el carácter de propietarios durante los dos periodos consecutivos, podrán ser electas para el periodo inmediato con el carácter de suplentes, pero estos últimos sí podrán ser electos para el periodo inmediato como propietarios, pudiendo ser electos para el mismo cargo hasta por un periodo adicional, a menos que hayan estado en ejercicio dentro del periodo de suplencia.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2023)</small>
+
+Las personas que por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que les dé, no podrán ser electas para el periodo inmediato.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2653,9 +2671,9 @@ En caso de falta absoluta del Ayuntamiento, si conforme a esta Constitución y a
 
 En caso de falta absoluta del Ayuntamiento en el primer año, el Congreso designará un Concejo Municipal interino y notificará lo actuado al Consejo General del Instituto Estatal Electoral, para que éste convoque a elecciones extraordinarias para elegir al Ayuntamiento que deba terminar el período.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2023)</small>
 
-Si la falta absoluta del Ayuntamiento acontece en los tres últimos años, el Congreso nombrará un Concejo Municipal sustituto que termine el período.
+Si la falta absoluta del Ayuntamiento acontece en los dos últimos años, el Congreso nombrará un Concejo Municipal sustituto que termine el período.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -2669,11 +2687,13 @@ Hay falta absoluta de Ayuntamiento cuando no se hubieren efectuado las eleccione
 
 Si alguno de los miembros del Ayuntamiento deja de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga la ley.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2023)</small>
 
 ###### Artículo 127.
 
-Los Ayuntamientos serán electos por sufragio directo, libre y secreto, en jornada comicial que se celebrará el primer domingo de junio del año que corresponda. Durarán en su encargo cuatro años y tomarán posesión el cinco de septiembre del año de la elección.
+Los Ayuntamientos serán electos por sufragio directo, libre y secreto, en jornada comicial que se celebrará el primer domingo de junio del año que corresponda. Durarán en su encargo tres años y tomarán posesión el cinco de septiembre del año de la elección.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 Los miembros del Ayuntamiento se elegirán por planillas, en los términos de la ley, por cada miembro propietario, se elegirá su suplente del mismo género.
 
@@ -4276,3 +4296,21 @@ Asimismo, el Poder Ejecutivo velará por el mismo principio, en su facultad de n
 CUARTO. El Poder Judicial en el ámbito de su respectiva competencia, observará el principio de paridad de género, aplicando preferentemente procedimientos de concursos abiertos.
 
 QUINTO. Para efectos de la fracción I del artículo 17, entrará en vigor 180 días después de su publicación en el Periódico Oficial del Estado de Hidalgo y una vez que se realicen las adecuaciones en el Código Electoral para el Estado de Hidalgo.
+
+P.O. 7 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 480 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado Libre y Soberano de Hidalgo deberá armonizar las leyes secundarias para dar cumplimiento con las presentes reformas y adiciones.
+
+TERCERO. La presente reforma en materia de elección consecutiva de presidencias municipales, sindicaturas y regidurías, no será aplicable a los integrantes que hayan protestado el cargo en el Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
+
+CUARTO. Por única ocasión, la Gobernadora o el Gobernador que resulte electo el primer domingo de junio de 2028, durará en su cargo dos años, por lo que tomará posesión de su encargo el 5 de septiembre de 2028 y lo concluirá el 04 de septiembre de 2030.
+
+P.O. 7 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 481 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
