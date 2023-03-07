@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-86551"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-02"
-last_updated: "2022-10-21"
+last_updated: "2023-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. D
 
 LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2023.
 
 Ley publicada en Periódico Oficial del Estado de Querétaro, el viernes 2 de marzo de 2012.
 
@@ -170,6 +170,14 @@ Las políticas públicas y acciones de gobierno en materia de juventud se encami
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2021)</small>
 
 Las autoridades estatales y municipales, con el fin de crear condiciones de igualdad real y efectiva, desarrollarán programas que creen condiciones de vida digna para los jóvenes que se encuentren en circunstancias de vulnerabilidad, especialmente los que viven en condiciones de pobreza y en áreas rurales, y para aquellos con alguna discapacidad.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2023)</small>
+
+La Secretaría establecerá un registro estatal de jóvenes que sirva de base de información e indicadores para la construcción de políticas públicas y programas que favorezcan a los distintos sectores de la juventud queretana.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2023)</small>
+
+La Secretaría podrá implementar instrumentos y herramientas que permitan identificar y facilitar a los jóvenes el acceso a los beneficios previstos en los programas instaurados por las distintas dependencias y entidades.
 
 ## Título Segundo. De las autoridades y sus atribuciones
 
@@ -609,9 +617,11 @@ La juventud tendrá derecho al trabajo digno, socialmente útil y bien remunerad
 
 Las autoridades estatales y municipales, a través del Instituto de Capacitación para el Trabajo del Estado de Querétaro, proporcionarán la correspondiente capacitación laboral a los jóvenes del Estado que lo soliciten.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2023)</small>
+
 ###### Artículo 40.
 
-Las autoridades estatales, a través de sus diversos programas y apoyos, deben contemplar un sistema de empleo, bolsa de trabajo, capacitación laboral y recursos económicos para proyectos productivos. Mediante convenios con las empresas del sector público y privado, buscarán favorecer laboralmente a los jóvenes con edades comprendidas entre los 16 y 20 años.
+Las autoridades estatales, a través de sus diversos programas y apoyos, deben contemplar un sistema de empleo, bolsa de trabajo, capacitación laboral y recursos económicos para proyectos productivos. Mediante convenios con las empresas del sector público y privado, buscarán favorecer laboralmente a los jóvenes con edades comprendidas entre los 16 y 25 años.
 
 ###### Artículo 41.
 
@@ -627,7 +637,9 @@ II. Consolidar su incorporación a la actividad productiva y económica mediante
 
 III. Establecer mecanismos para garantizar los derechos de la juventud en el área laboral, sin menospreciar su condición social, económica, religión, opinión, raza, color, género, edad, orientación sexual y lengua.
 
-La primera experiencia laboral se entenderá como el proceso de integración de los jóvenes de 16 a 20 años de edad al mercado laboral, el cual permitirá a la persona joven participar en procesos de capacitación y formación laboral articulados con el proceso de la educación formal.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2023)</small>
+
+La primera experiencia laboral se entenderá como el proceso de integración de los jóvenes de 16 a 25 años de edad al mercado laboral, el cual permitirá a la persona joven a participar en procesos de capacitación y formación laboral articulados con el proceso de la educación formal.
 
 ###### Artículo 43.
 
@@ -1582,3 +1594,13 @@ Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 7 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY POR LA QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO, Y EL ARTÍCULO 7 DE LA LEY INDUSTRIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones contrarias a la presente ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
