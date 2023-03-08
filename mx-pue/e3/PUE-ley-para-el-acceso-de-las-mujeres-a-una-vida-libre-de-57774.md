@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2022-08-03"
+last_updated: "2023-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -125,13 +125,21 @@ XII.- La accesibilidad;
 
 XIII.- La corresponsabilidad familiar;
 
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
 
-XIV.- La debida diligencia, y
+XIV.- La debida diligencia;
 
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
 
-XV.- La no revictimización.
+XV.- La no revictimización;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2023)</small>
+
+XVI.- La interseccionalidad, y
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2023)</small>
+
+XVII. El enfoque diferencial.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2021)</small>
 
@@ -151,9 +159,9 @@ V.- Atención: Es el conjunto de medidas, acciones y servicios especializados, i
 
 VI.- Consejo: El Consejo Estatal para la Atención de la Violencia Familiar;
 
-VII.- Debida diligencia: La obligación de las personas servidoras públicas, las dependencias y entidades del gobierno, de realizar todas las actuaciones necesarias dentro de un plazo razonable, a través de una respuesta eficiente, eficaz, oportuna, responsable con perspectiva de género y derechos humanos, para la prevención, atención, investigación, sanción y reparación integral del daño a las mujeres víctimas de violencia.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
 
-Tratándose de niñas, las obligaciones señaladas en el párrafo anterior se cumplirán con especial celeridad y de forma exhaustiva, libre de prácticas discriminatorias basadas en estereotipos de género, de conformidad con el interés superior de la niñez;
+VII.- Debida diligencia: La obligación de las personas servidoras públicas, las dependencias y entidades del gobierno, de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva, con perspectiva de género y derechos humanos, y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora;
 
 VIII.- Derechos humanos de las mujeres: Aquellos derechos subjetivos que corresponden universalmente y de manera integrante, inalienable e indivisible a toda persona de sexo femenino contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia Contra la Mujer y demás instrumentos nacionales e internacionales en la materia de los cuales el Estado Mexicano sea parte;
 
@@ -163,6 +171,10 @@ También es discriminación la homofobia, misoginia, cualquier manifestación de
 
 X.- Empoderamiento de las mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2023)</small>
+
+X Bis.- Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas;
+
 XI.- Erradicación de la violencia contra las mujeres: Consiste en la eliminación de los diferentes tipos y modalidades de la violencia ejercida en contra de mujeres, los estereotipos, valores, actitudes y creencias misóginas y androcéntricas; con la finalidad de garantizar las condiciones para la vigencia y acceso al ejercicio pleno de los derechos humanos de las mujeres y las niñas;
 
 XII.- Igualdad formal: Reconocimiento ante la ley, las normas, las políticas públicas, acciones, programas, presupuestos y ante las estructuras de gobierno, de la condición igualitaria entre las mujeres y los hombres mediante la cual se asegura que todas las personas gocen de los mismos derechos;
@@ -170,6 +182,14 @@ XII.- Igualdad formal: Reconocimiento ante la ley, las normas, las políticas p�
 XIII.- Igualdad sustantiva: Condición a la que las mujeres tienen derecho y que el Estado, debe garantizar mediante el establecimiento de normas, leyes, políticas públicas, acciones, programas, presupuestos y las medidas necesarias de carácter estructural, social y cultural para lograr el acceso de las mujeres, de cualquier edad, al ejercicio de todos los derechos humanos y libertades; así como al acceso a oportunidades, bienes, servicios, recursos en todos los ámbitos de la vida, eliminando todas las formas de discriminación;
 
 XIV.- Instituciones públicas o privadas: Las instituciones públicas o privadas encargadas de la atención a las mujeres víctimas por violencia, ya sean asociaciones, sociedades o agrupaciones legalmente constituidas que tengan ese objeto, así como realizar acciones de prevención, atención y erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2023)</small>
+
+XIV Bis.- Interculturalidad: El enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2023)</small>
+
+XIV Ter.- Interseccionalidad: Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
 
 XV.- Ley: La Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla;
 
@@ -303,33 +323,35 @@ Los tipos de violencia contra las mujeres son:
 
 I.- Violencia física.- Es todo acto que causa daño no accidental, por medio del empleo de la fuerza física, algún tipo de arma, objeto o sustancia que pueda provocar o no lesiones internas, externas, o ambas;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2023)</small>
 
-II.- Violencia psicológica.- Es cualquier acto u omisión que dañe la estabilidad psicológica de la víctima, la cual puede consistir en amenazas, negligencia, abandono, descuido reiterado, insultos, gritos, humillaciones, marginación y/o restricción a la autodeterminación, celotipia, devaluación, indiferencia, infidelidad, comparaciones destructivas, rechazo o cualquier otra que conlleve a la víctima a la depresión, aislamiento, desvalorización, anulación de su autoestima e incluso al suicidio;
+II.- Violencia ácida.- Es todo acto que causa daño no accidental, por medio del empleo de, ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra sustancia que, en determinadas condiciones, pueda provocar o no lesiones internas, externas, o ambas;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE MARZO DE 2023)</small>
 
-III.- Violencia económica.- Es toda acción u omisión que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; también se considera como tal el incumplimiento de la obligación alimentaria;
+III.- Violencia psicológica.- Es cualquier acto u omisión que dañe la estabilidad psicológica de la víctima, la cual puede consistir en amenazas, negligencia, abandono, descuido reiterado, insultos, gritos, humillaciones, marginación y/o restricción a la autodeterminación, celotipia, devaluación, indiferencia, infidelidad, comparaciones destructivas, rechazo o cualquier otra que conlleve a la víctima a la depresión, aislamiento, desvalorización, anulación de su autoestima e incluso al suicidio;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE MARZO DE 2023)</small>
 
-IV.- Violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en la sustracción, retención, destrucción, transformación o distracción de objetos, bienes, valores, derechos u obligaciones o cualquier otro tipo de documentos comunes o propios de la víctima destinados a satisfacer sus necesidades;
+IV.- Violencia económica.- Es toda acción u omisión que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; también se considera como tal el incumplimiento de la obligación alimentaria;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE MARZO DE 2023)</small>
 
-V.- Violencia sexual.- Es cualquier acto que degrade, dañe o lesione el cuerpo y/o la sexualidad de la víctima, por tanto atenta contra su integridad física, libertad y/o dignidad. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
+V.- Violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en la sustracción, retención, destrucción, transformación o distracción de objetos, bienes, valores, derechos u obligaciones o cualquier otro tipo de documentos comunes o propios de la víctima destinados a satisfacer sus necesidades;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE MARZO DE 2023)</small>
 
-VI.- Violencia Vicaria.- Es todo acto u omisión intencional, con el objeto de causar daño a la víctima a través del perjuicio, maltrato, descuido y/o manipulación de las hijas y los hijos; así como el daño o menoscabo del vínculo filial con la víctima.
+VI.- Violencia sexual.- Es cualquier acto que degrade, dañe o lesione el cuerpo y/o la sexualidad de la víctima, por tanto atenta contra su integridad física, libertad y/o dignidad. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
-Es una manifestación de violencia por parte de quien mantiene o mantuvo una relación afectiva o sentimental de pareja con la víctima, que por sí o por interpósita persona, utiliza a las hijas y los hijos de la víctima como instrumento para causarle daño.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
+
+VII.- Violencia Vicaria.- Es todo acto u omisión intencional, con el objeto de causar daño a la víctima a través del perjuicio, maltrato, descuido y/o manipulación de las hijas y los hijos; así como el daño o menoscabo del vínculo filial con la víctima. Es una manifestación de violencia por parte de quien mantiene o mantuvo una relación afectiva o sentimental de pareja con la víctima, que por sí o por interpósita persona, utiliza a las hijas y los hijos de la víctima como instrumento para causarle daño.
 
 Se considera como violencia vicaria equiparada la que se realice hacia un, ascendiente directo por consanguinidad o afinidad hasta el tercer grado, dependiente económico de la víctima, o un adulto mayor que se encuentre al cuidado de la víctima, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2022)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE MARZO DE 2023)</small>
 
-VII.- Cualquier otro tipo análogo que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+VIII.- Cualquier otro tipo análogo que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 #### SECCIÓN PRIMERA. DE LA VIOLENCIA CONTRA LAS MUJERES EN EL ÁMBITO FAMILIAR
 
@@ -2134,3 +2156,19 @@ P.O. 3 DE AGOSTO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES II A VII DEL ARTÍCULO 10 Y ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 10 DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA; Y ADICIONA UN PÁRRAFO AL ARTÍCULO 338 QUINQUIES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XIV Y XV DEL ARTÍCULO 5, LA FRACCIÓN VII DEL ARTÍCULO 6, Y ADICIONA LAS FRACCIONES XVI Y XVII AL ARTÍCULO 5, Y LAS FRACCIONES X BIS, XIV BIS Y XIV TER AL ARTÍCULO 6, TODOS DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
