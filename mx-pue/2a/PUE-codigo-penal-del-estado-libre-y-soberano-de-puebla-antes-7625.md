@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2023-02-08"
+last_updated: "2023-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3427,7 +3427,7 @@ Al responsable de un delito de abuso sexual se le impondrán:
 
 I. Prisión de seis a diez años Y MULTA DE DOSCIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN, si el sujeto pasivo es mayor de catorce años y el delito se cometió sin su consentimiento o con su consentimiento viciado;
 
-(NOTA: EL 29 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 180/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE NOVIEMBRE DE 2024 DE FEBRERO DE 2023, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 29 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 180/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE NOVIEMBRE DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2023)</small>
 
@@ -4587,11 +4587,19 @@ Además de las sanciones descritas en el artículo anterior, el sujeto activo pe
 
 Además de las penas aplicables por el concurso real, si la víctima se encuentra embarazada, el delito de Feminicidio se sancionará con una pena de cincuenta a setenta años de prisión.
 
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2023)</small>
+
+Misma pena se aplicará, cuando el delito se cometa frente a la hijas o hijos de la víctima directa.
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 338 Quinquies.
 
 Se presumirá que hay tentativa de feminicidio cuando las lesiones dolosas previstas en los artículos 306 fracción II, y 307, ocasionadas a una mujer, tengan algún precedente de violencia contemplada en esos artículos o en los artículos 284 Bis y 284 Ter respecto del mismo agresor.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2023)</small>
+
+Asimismo, se presumirá que hay tentativa de feminicidio cuando las lesiones dolosas previstas en el párrafo anterior sean ocasionadas por ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra sustancia que, en determinadas condiciones, pueda provocar o no lesiones internas, externas, o ambas.
 
 #### SECCION OCTAVA.- ABORTO
 
@@ -7720,6 +7728,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE FEBRERO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 261, LA FRACCIÓN I DEL ARTÍCULO 272 Y EL ARTÍCULO 278 SEXIES, DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE SUMISIÓN QUÍMICA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES II A VII DEL ARTÍCULO 10 Y ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 10 DE LA LEY PARA EL ACCESO DE LA (SIC) MUJERES A UNA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA; Y ADICIONA UN PÁRRAFO AL ARTÍCULO 338 QUINQUIES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 627, LA FRACCIÓN I AL ARTÍCULO 629, LAS FRACCIONES III Y IV DEL ARTÍCULO 633, EL PRIMER PÁRRAFO DEL ARTÍCULO 634, Y ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 628, LA FRACCIÓN V AL ARTÍCULO 633, LA FRACCIÓN III AL 634, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 338 QUATER DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
