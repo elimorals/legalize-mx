@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-participacion-ciudadana-para-el-estado-de-zacatecas-2208
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-08"
-last_updated: "2012-06-06"
+last_updated: "2023-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 8 de septiembre de 2001.
 
@@ -208,6 +208,10 @@ I. Organizar el proceso de participación ciudadana;
 II. Efectuar la insaculación y nombrar a los integrantes de las mesas de casilla; y
 
 III. Celebrar el cómputo de la jornada y dar a conocer los resultados del proceso.
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2023)</small>
+
+IV. En el proceso para la presentación de una iniciativa popular, revisar y verificar el cumplimiento del requisito del mínimo de promoventes.
 
 ### CAPITULO TERCERO. Del Referéndum
 
@@ -779,9 +783,9 @@ I. Nombre completo;
 
 II. Domicilio;
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
 
-III. Copia del anverso y reverso de la Credencial para votar con fotografía, debidamente certificada por el Instituto Federal Electoral, que haga constar que el ciudadano se encuentra inscrito en la Lista Nominal de Electores y vigente en sus derechos político-electorales.
+III. Copia del anverso y reverso de la Credencial para votar con fotografía, debidamente certificada por el Instituto Nacional Electoral, que haga constar que el ciudadano se encuentra inscrito en la Lista Nominal de Electores y vigente en sus derechos político-electorales.
 
 IV. (DEROGADA, P.O. 6 DE JUNIO DE 2012)
 
@@ -789,19 +793,31 @@ V. (DEROGADA, P.O. 6 DE JUNIO DE 2012)
 
 VI. Firmas respectivas.
 
-2.- Toda iniciativa popular requerirá de un mínimo de promoventes:
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2012)</small>
+VII. En caso de que las y los promoventes utilicen las herramientas tecnológicas y dispositivos electrónicos que se deriven de la celebración de convenios entre el Instituto Electoral del Estado de Zacatecas y el Instituto Nacional Electoral, para recabar los datos que acrediten la voluntad de la ciudadanía al apoyo de solicitudes de iniciativas populares, deberán presentar los resultados obtenidos del apoyo ciudadano que garantice el mínimo de promoventes para la presentación de la iniciativa popular.
 
-I. Quinientos ciudadanos inscritos en la Lista Nominal de Electores, con domicilio en el Estado de Zacatecas, tratándose de iniciativas de ley, o disposiciones administrativas del Poder Ejecutivo;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2012)</small>
+2. Toda iniciativa popular requerirá de un mínimo de promoventes que corresponda, por lo menos, al cero punto trece por ciento de la lista nominal de electores del Estado o del Municipio, según corresponda, utilizada en el Proceso Electoral próximo pasado.
 
-II. Cien ciudadanos inscritos en la Lista Nominal de Electores con domicilio en el Municipio de que se trate, tratándose de reglamentos o disposiciones administrativas municipales, en municipios con más de veinte mil electores; o
+I. (DEROGADA, P.O. 8 DE MARZO DE 2023)
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2012)</small>
+II. (DEROGADA, P.O. 8 DE MARZO DE 2023)
 
-III. Cincuenta ciudadanos inscritos en la Lista Nominal de Electores con domicilio en el Municipio de que se trate, tratándose de reglamentos o disposiciones administrativas municipales, en municipios con menos de veinte mil electores.
+III. (DEROGADA, P.O. 8 DE MARZO DE 2023)
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2023)</small>
+
+###### Artículo 65 Bis.
+
+Herramientas tecnológicas y dispositivos electrónicos.
+
+1. En caso de que las y los promoventes opten el uso de herramientas tecnológicas y dispositivos electrónicos para recabar los datos que acrediten la voluntad de la ciudadanía al apoyo de la iniciativa popular, deberán solicitarlo mediante oficio al Instituto Electoral del Estado de Zacatecas, a efecto de que éste realice las gestiones necesarias con el Instituto Nacional Electoral para brindar las herramientas tecnológicas respectivas.
+
+2. El Instituto Electoral del Estado de Zacatecas podrá celebrar convenios con el Instituto Nacional Electoral con la finalidad de ofrecer a la ciudadanía herramientas tecnológicas y dispositivos electrónicos para recabar los datos que acrediten la voluntad de la ciudadanía al apoyo de solicitudes de los mecanismos de iniciativa popular.
+
+3. En los convenios que celebre el Instituto Electoral del Estado de Zacatecas con el Instituto Nacional Electoral se señalarán las especificaciones que deberán realizar las y los promoventes para recabar los datos que acrediten la voluntad de la ciudadanía al apoyo de solicitudes de las iniciativas populares.
 
 ###### Artículo 66.
 
@@ -827,7 +843,9 @@ IV. Artículos transitorios.
 
 Trámites ante la Legislatura.
 
-1. Recibida la iniciativa, el Presidente de la Mesa Directiva, o en su caso, de la Comisión Permanente, después de su lectura en el Pleno la turnará al Instituto Electoral del Estado de Zacatecas, a fin de que, dentro del término de treinta días hábiles, contados a partir del día hábil siguiente al de su recepción, verifique el cumplimiento de los requisitos de los promoventes, lo que comunicará al Presidente de la Mesa Directiva.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
+
+1. Recibida la iniciativa, el Presidente de la Mesa Directiva, o en su caso, de la Comisión Permanente, después de su lectura en el Pleno la turnará al Instituto Electoral del Estado de Zacatecas, a fin de que, dentro del término de treinta días hábiles, contados a partir del día hábil siguiente al de su recepción, verifique el cumplimiento de los requisitos y el porcentaje de promoventes inscritos en la Lista Nominal, de conformidad con la Constitución Local y el artículo 65, numeral 2 de esta Ley, lo que comunicará al Presidente de la Mesa Directiva o al Presidente de la Comisión Permanente.
 
 2. En caso de que proceda la iniciativa, el Presidente de la Mesa Directiva lo turnará a la Comisión que por materia corresponda; en caso de improcedencia de la iniciativa, ordenará su archivo como asunto concluido, notificándolo a los promoventes, sin que proceda recurso alguno.
 
@@ -880,3 +898,11 @@ P.O. 6 DE JUNIO DE 2012.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 8 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 152.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES LEGALES DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan las disposiciones legales que se opongan al presente Decreto.
