@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2022-12-22"
+last_updated: "2023-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -445,9 +445,9 @@ VII. Vigilar que los establecimientos destinados a la venta y consumo de aliment
 
 VIII. Promover acciones en materia de control sanitario de los establecimientos y servicios establecidos en la fracción V del apartado B del artículo 4° de la presente Ley, incluyendo la capacitación;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
 
-IX. Procurar suministrar de forma gratuita y permanente, métodos anticonceptivos y productos de higiene menstrual; y
+IX. Procurar suministrar de forma gratuita y permanente, métodos anticonceptivos y productos de higiene menstrual, preferentemente reutilizables, sustentables y ecológicos; y
 
 > <small>(ADICIONADA, P.O. 14 DE JULIO DE 2022)</small>
 
@@ -3567,7 +3567,15 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 22 DE DICIEMBRE DE 2022.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XI DEL APARTADO A DEL ARTÍCULO 4, Y LOS ARTÍCULOS 140 Y 299 DE LA LEY ESTATAL DE SALUD”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XI DEL APARTADO A DEL ARTÍCULO 4, Y LOS ARTÍCULOS 140 Y 299 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IX DEL APARTADO C DEL ARTÍCULO 12 DE LA LEY ESTATAL DE SALUD”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
 
