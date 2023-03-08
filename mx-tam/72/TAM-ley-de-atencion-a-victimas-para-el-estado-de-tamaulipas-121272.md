@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-atencion-a-victimas-para-el-estado-de-tamaulipas-121272"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-08"
-last_updated: "2023-02-07"
+last_updated: "2023-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023.
 
 Ley publicada en el Anexo al Extraordinario Número 6 del Periódico Oficial del Estado de Tamaulipas, el lunes 8 de mayo de 2017.
 
@@ -753,9 +753,21 @@ I. Atención médica, psicológica y psiquiátrica especializadas;
 
 II. Servicios y asesoría jurídicos tendientes a facilitar el ejercicio de los derechos de las víctimas y a garantizar su disfrute pleno y tranquilo;
 
-III. Servicios sociales orientados a garantizar el pleno restablecimiento de los derechos de la víctima en su condición de persona y ciudadano; y
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
 
-IV. Aquellas medidas tendientes a reintegrar a la víctima a la sociedad, incluido su grupo, o comunidad.
+III. Servicios sociales orientados a garantizar el pleno restablecimiento de los derechos de la víctima en su condición de persona y ciudadano;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
+
+IV. Aquellas medidas tendientes a reintegrar a la víctima a la sociedad, incluido su grupo, o comunidad;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2023)</small>
+
+V. Programas de educación orientados a la capacitación y formación de las víctimas, con el fin de garantizar su plena reintegración a la sociedad y la realización de su proyecto de vida; y
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2023)</small>
+
+VI. Programas de capacitación laboral orientados a lograr la plena reintegración de la víctima a la sociedad y la realización de su proyecto de vida.
 
 #### SECCIÓN IV. DE LAS MEDIDAS DE SATISFACCIÓN
 
@@ -789,9 +801,25 @@ III. La protección de los profesionales del derecho, la salud y la información
 
 IV. La protección de los defensores de los derechos humanos;
 
-V. La revisión y reforma de las leyes, normas u ordenamientos legales que contribuyan a las violaciones manifiestas de las Normas Internacionales de derechos humanos o las permitan; y
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
 
-VI. Profesionalización y actualización de las corporaciones de seguridad en materia de respeto, garantía y protección de los Derechos Humanos.
+V. La revisión y reforma de las leyes, normas u ordenamientos legales que contribuyan a las violaciones manifiestas de las Normas Internacionales de derechos humanos o las permitan;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
+
+VI. Profesionalización y actualización de las corporaciones de seguridad en materia de respeto, garantía y protección de los Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2023)</small>
+
+VII. La educación, de modo prioritario y permanente, de todos los sectores de la sociedad respecto de los derechos humanos y la capacitación en esta materia de los funcionarios encargados de hacer cumplir la ley, así como de las fuerzas armadas y de seguridad;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2023)</small>
+
+VIII. La promoción de la observancia de los códigos de conducta y de las normas éticas, en particular los definidos en normas internacionales de derechos humanos y de protección a los derechos humanos, por los funcionarios públicos incluido el personal de las fuerzas armadas y de seguridad, los establecimientos penitenciarios, los medios de información, el personal de servicios médicos, psicológicos y sociales, además del personal de empresas comerciales; y
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2023)</small>
+
+IX. La promoción de mecanismos destinados a prevenir, vigilar y resolver por medios pacíficos los conflictos sociales.
 
 ###### ARTÍCULO 67.
 
@@ -1962,6 +1990,14 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 P.O. 7 DE FEBRERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-513 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS Y A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-542 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 64, FRACCIONES III Y IV; Y 66, FRACCIONES V Y VI; Y SE ADICIONAN LAS FRACCIONES V Y VI, AL ARTÍCULO 64, Y LAS FRACCIONES VII, VIII Y IX, AL ARTÍCULO 66 DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
