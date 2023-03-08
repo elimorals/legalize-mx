@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6285
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-22"
-last_updated: "2022-07-13"
+last_updated: "2023-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 22 de agosto de 2008.
 
@@ -89,7 +89,9 @@ a) Existirá discriminación directa cuando una persona sea, haya sido o pudiera
 
 b) Existirá discriminación indirecta cuando un acto jurídico, criterio o práctica aparentemente neutra, perjudique a una población sustancialmente mayor de miembros de un mismo sexo, salvo que dicho acto jurídico, criterios o práctica resulte adecuada y necesaria y puede justificarse con criterios objetivos que no estén relacionados con el sexo.
 
-c) No se consideran constitutivas de discriminación por razón de sexo, las medidas que, aunque planteen un tratamiento diferente para las mujeres y los hombres, tienen una justificación objetiva y razonable, entre las que se incluyen aquéllas que se fundamentan en la acción positiva para las mujeres, en la necesidad de una protección especial de los sexos por motivos biológicos, o en la promoción de la incorporación de los hombres al trabajo doméstico o de cuidado de las personas.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2023)</small>
+
+c) No se consideran constitutivas de discriminación por razón de sexo, las medidas que, aunque planteen un tratamiento diferente para las mujeres y los hombres, tienen una justificación objetiva y razonable, entre las que se incluyen aquéllas que se fundamentan en la acción positiva para las mujeres, en la necesidad de una protección especial de los sexos por motivos biológicos, o en la promoción de la incorporación de los hombres al trabajo doméstico y en la corresponsabilidad entre mujeres y hombres en las actividades de cuidado.
 
 II.- Igualdad de oportunidades: Se refiere a la obligación de los Poderes Públicos del Estado de Puebla y de los Municipios de adoptar las medidas necesarias y oportunas para garantizar el ejercicio efectivo por parte de mujeres y hombres, en condiciones de igualdad, de sus derechos políticos, civiles, económicos, sociales y culturales, incluido el control y acceso al poder; así como a los recursos y beneficios económicos y sociales. Para efecto de esta Ley la igualdad de oportunidades se ha de entender referida no sólo a las condiciones de partida o de inicio en el acceso al poder y a los recursos y beneficios, sino también a las condiciones para el ejercicio de aquéllos;
 
@@ -940,5 +942,13 @@ P.O. 13 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ACÁPITE Y LA FRACCIÓN VI DEL ARTÍCULO 1, EL PRIMER PÁRRAFO Y LA FRACCIÓN III DEL ARTÍCULO 10; LAS FRACCIONES 10 Y 11 DEL ARTÍCULO 21, LA DENOMINACIÓN DEL CAPÍTULO PRIMERO DEL TÍTULO IV, EL ARTÍCULO 29 Y LAS FRACCIONES III, IV, V Y VII DEL ARTÍCULO 30; Y ADICIONA LA FRACCIÓN XII AL ARTÍCULO 21, TODOS LOS ANTERIORES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL INCISO C) DE LA FRACCIÓN I DEL ARTÍCULO 3 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
