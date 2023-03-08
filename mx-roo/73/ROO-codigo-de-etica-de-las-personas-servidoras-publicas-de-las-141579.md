@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-etica-de-las-personas-servidoras-publicas-de-las-1415
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-31"
-last_updated: "2019-10-31"
+last_updated: "2023-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # CODIGO DE ETICA DE LAS PERSONAS SERVIDORAS PUBLICAS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA DEL PODER EJECUTIVO, DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL PODER EJECUTIVO A QUE SE REFIERE EL ARTÍCULO 16 DE LA LEY GENERAL DE RESPONSABILIDADES ADMNISTRATIVAS, PUBLICADO EN EL P.O. DE 8 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LAS DEPENDENCIA (SIC) Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL PODER EJECUTIVO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023 (ABROGADO).
 
 Código publicado en el Número 123 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 31 de octubre de 2019.
 
@@ -690,3 +692,21 @@ ______________
 Nombre y firma
 
 La integridad construye confianza en la comunidad
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL PODER EJECUTIVO A QUE SE REFIERE EL ARTÍCULO 16 DE LA LEY GENERAL DE RESPONSABILIDADES ADMNISTRATIVAS”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga el Acuerdo que emitió el Código de Ética de las personas servidoras públicas de las Dependencias y Entidades de la Administración Pública del Poder Ejecutivo a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, publicado en el Periódico Oficial del Estado de Quintana Roo el treinta y uno de octubre de dos mil diecinueve, respectivamente; así como cualquier disposición de índole administrativo que se contraponga al presente Código.
+
+Tercero. Las Dependencias y Entidades tendrán hasta el treinta y uno de agosto de dos mil veintitrés para actualizar sus Códigos de Conducta en términos del presente Código de Ética y de la Guía para su elaboración que al efecto emita la Secretaría.
+
+Cuarto. Las Dependencias y Entidades con la entrada en vigor del presente Código de Ética, deberán implementar acciones efectivas para que las personas servidoras públicas suscriban en un plazo no mayor a quince días hábiles a la Carta Compromiso de alinear, el desempeño de su empleo, cargo o comisión. Carta Compromiso que constituye el Anexo Uno de este instrumento.
+
+Quinto. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código de Ética, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+Sexto. La normativa que rige a los Comités de Ética, así como los mecanismos de coordinación y evaluación permanecerán vigentes.
