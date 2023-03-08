@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2022-08-03"
+last_updated: "2023-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el día 30 de abril de 1985.
 
@@ -4037,9 +4037,9 @@ I. Por muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
 II. Por emancipación del menor;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
 
-III. Por llegar a la mayoría el que estuvo sujeten (sic) a ella, y
+III. Por llegar a la mayoría de edad el que estuvo sujeta a ella, y
 
 > <small>(ADICIONADA, P.O. 1 DE MARZO DE 2021)</small>
 
@@ -4052,6 +4052,10 @@ IV. Por violencia familiar reiterada.
 Los derechos de la patria potestad que se confieren a quien o a quienes la ejercen, se pierden:
 
 I.- Cuando el que la ejerza cometa algún delito grave o intencional contra el menor;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2023)</small>
+
+I Bis.- Cuando el titular de ella sea condenado por delito de feminicidio en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad;
 
 II.- Cuando el titular de ella sea condenado por delito intencional, a una pena de prisión inconmutable;
 
@@ -4087,7 +4091,9 @@ VII.- Con la resolución que determine la adopción del menor.
 
 La pérdida de los derechos a que se refiere el artículo anterior se decretará:
 
-I.- En el caso de la fracción I, en la sentencia que termine el proceso respectivo, mandándose suspender entre tanto la patria potestad.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
+
+I.- En el caso de las fracciones I y I Bis en la sentencia que termine el proceso respectivo, mandándose suspender entre tanto la patria potestad;
 
 II.- En los casos de las fracciones II a IV, en la sentencia del juicio civil que se siga especialmente al efecto.
 
@@ -4121,19 +4127,23 @@ I.- Por incapacidad declarada judicialmente;
 
 II.- Por la ausencia declarada en forma;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
 
-III.- Por sentencia condenatoria que imponga como pena esta suspensión, y
+III.- Por sentencia condenatoria que imponga como pena esta suspensión;
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
 
-IV.- Por incurrir en conductas de violencia familiar previstas en el artículo 291 de este Código, que no impliquen la comisión de algún delito en contra de las personas sobre las cuales la ejerza.
+IV.- Por incurrir en conductas de violencia familiar previstas en el artículo 291 de este Código, que no impliquen la comisión de algún delito en contra de las personas sobre las cuales la ejerza, y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2022)</small>
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2023)</small>
+
+V.- Por auto de vinculación a proceso dictado por delito de feminicidio o su tentativa en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2023)</small>
 
 ###### Artículo 634.
 
-El Juez puede en beneficio de las niñas, niños y adolescentes modificar el ejercicio de la patria potestad o custodia cuando la tenga decretada judicialmente, ya sea provisional o definitiva sobre ellos, en los siguientes casos:
+El Juez puede en beneficio de las niñas, niños y adolescentes modificar el ejercicio de la patria potestad, guarda y custodia cuando la tenga decretada judicialmente, ya sea provisional o definitiva sobre ellos, en los siguientes casos.
 
 > <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2022)</small>
 
@@ -4142,6 +4152,10 @@ I. Cuando quien la ejerce realice conductas reiteradas para evitar la convivenci
 > <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2022)</small>
 
 II. Cuando se acredite que las niñas, niños y adolescentes han sido víctimas indirectas de violencia vicaria.
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2023)</small>
+
+III. Cuando exista auto de vinculación a proceso dictado por delito de feminicidio o su tentativa en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
@@ -20754,6 +20768,14 @@ TERCERO. La Secretaría de Gobernación contará con sesenta días hábiles para
 P.O. 3 DE AGOSTO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA, A LA LEY DE PREVENCIÓN, ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE PUEBLA, A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA, AL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE VIOLENCIA VICARIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 627, LA FRACCIÓN I AL ARTÍCULO 629, LAS FRACCIONES III Y IV DEL ARTÍCULO 633, EL PRIMER PÁRRAFO DEL ARTÍCULO 634, Y ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 628, LA FRACCIÓN V AL ARTÍCULO 633, LA FRACCIÓN III AL 634, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 338 QUATER DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
