@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-43186"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2022-05-05"
+last_updated: "2023-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -229,7 +229,9 @@ f) Ofender, ridiculizar, hostigar o promover la violencia en su contra a través
 
 ###### Artículo 11.
 
-1. Ningún órgano público, estatal o municipal, autoridad, servidor público, persona física o moral, realizará actos o desplegará conductas que discriminen a cualquier persona por razón de su origen étnico, nacional, o regional, incluyendo, entre otras, las conductas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2023)</small>
+
+1. Ningún órgano público, estatal o municipal, autoridad, servidor público, persona física o moral, realizará actos o desplegará conductas que discriminen a cualquier persona por razón de su origen étnico, nacional, o regional, y cualquier otro que atente contra la dignidad humana incluyendo, entre otras, las conductas siguientes:
 
 a) Impedir el acceso a la educación en cualquier nivel;
 
@@ -249,9 +251,17 @@ h) Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones par
 
 i) Negar la prestación de servicios de salud física y mental;
 
-j) Imponer, sin su pleno consentimiento o a través del engaño, cualquier método para regular la fecundidad o detectar enfermedades; y
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2023)</small>
 
-k) Ofender, ridiculizar, hostigar o promover la violencia en su contra a través de mensajes e imágenes en los medios de comunicación.
+j) Imponer, sin su pleno consentimiento o a través del engaño, cualquier método para regular la fecundidad o detectar enfermedades;
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2023)</small>
+
+k) Ofender, ridiculizar, hostigar o promover la violencia en su contra a través de mensajes e imágenes en los medios de comunicación; y
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2023)</small>
+
+l) Establecer como condición que la solicitud de empleo y/o el currículum vitae contenga la fotografía de quien solicita el empleo.
 
 ###### Artículo 12.
 
@@ -658,6 +668,14 @@ Para dar cumplimiento a lo dispuesto en el presente decreto, el Titular del Pode
 P.O. 5 DE MAYO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-154 MEDIANTE EL CUAL SE REFORMAN LOS INCISOS Ñ) Y O), Y SE ADICIONA EL INCISO P) AL PÁRRAFO 1 DEL ARTÍCULO 9 DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-543 MEDIANTE EL CUAL SE REFORMA EL NUMERAL 1, INCISOS J) Y K) DEL ARTÍCULO 11; Y SE ADICIONA UN INCISO L), AL ARTÍCULO 11, DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
