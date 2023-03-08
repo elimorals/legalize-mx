@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-127081"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2022-08-13"
+last_updated: "2023-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 7 de marzo de 2018.
 
@@ -113,7 +113,9 @@ En los términos de la Ley General de Salud y de la presente Ley, corresponde al
 
 I. Organizar, operar, supervisar, evaluar, la prestación de los servicios de salubridad general y coadyuvar, con las entidades públicas, en la prevención de la violencia familiar;
 
-II. La promoción de la salud, prevención de enfermedades, atención médica, rehabilitación y cuidados paliativos, a la población en general, y en especial, los grupos vulnerables;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
+
+II. La promoción de la salud, prevención de enfermedades, atención médica, rehabilitación, cuidados paliativos, y atención inmediata y oportuna a la población en general, en especial a los grupos vulnerables y mujeres en situación de vulnerabilidad que presenten alguna enfermedad crónica, degenerativa, grave o terminal;
 
 III. La protección social en salud;
 
@@ -161,7 +163,11 @@ XXII. El control y vigilancia sanitaria de la publicidad, y
 
 XXIII. Promover, impulsar e implementar el uso de las tecnologías de la información y comunicación para la salud;
 
-XXIV. Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2023)</small>
+
+XXIV. La prevención, atención y control de las enfermedades bucodentales, y
+
+XXV. Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 6.
 
@@ -363,7 +369,9 @@ VIII. La disponibilidad de medicamentos y otros insumos esenciales para la salud
 
 IX. La promoción de un estilo de vida saludable;
 
-X. La asistencia social a los grupos vulnerables y, de éstos, de manera especial, a los pertenecientes a las comunidades indígenas, y
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
+
+X. La asistencia social a los grupos vulnerables y, de éstos, de manera especial, a los pertenecientes a las comunidades indígenas y a las mujeres en situación de vulnerabilidad, y
 
 XI. La atención médica a los adultos mayores en áreas de salud geriátrica.
 
@@ -907,7 +915,9 @@ Asimismo, se creará un sistema de vigilancia epidemiológica de prevención y c
 
 I. Cólera, fiebre tifoidea, paratifoidea y otras salmonelosis, shigelosis, infección intestinal por otros organismos y las mal definidas, intoxicación alimentaria bacteriana, amibiasis intestinal, absceso hepático amibiano, giardiasis, otras infecciones intestinales debidas a protozoarios, infecciones intestinales debidas a protozoarios, teniasis, ascariasis, oxiuriasis y otras helmintiasis;
 
-II. Tuberculosis del aparato respiratorio, otitis media aguda, angina estreptocócica, infecciones respiratorias agudas, neumonías y bronconeumonías;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
+
+II. Influenza epidémica, COVID-19, Virus Respiratorio Sincitial Humano, tuberculosis del aparato respiratorio, otras infecciones agudas del aparato respiratorio, infecciones meningocóccicas y enfermedades causadas por estreptococos;
 
 III. Infecciones de transmisión sexual tumorales (molusco contagioso); virus del papiloma humano (VPH); infecciones de transmisión sexual ulcerativas (sífilis congénita, sífilis adquirida, chancro blando, linfogranuloma venéreo, herpes genital); infecciones de transmisión sexual secretoras (tricomoniasis urogenital, candidiasis urogenital, infección gonocócica genitourinaria, ureaplasma);
 
@@ -1099,7 +1109,29 @@ V. Promover acciones urbanísticas y arquitectónicas de los sectores público, 
 
 VI. Apoyar la creación de establecimientos educativos y de capacitación para el trabajo y procurar la obtención de empleos y otras formas de ocupación remunerada para las personas en proceso de rehabilitación.
 
-### CAPÍTULO I. Pérdida de la Vida
+### CAPÍTULO XIII. Salud Bucal
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2023)</small>
+
+ARTÍCULO 96 BIS. La Secretaría de Salud implementará programas permanentes de salud bucal, enfocados en impulsar una cultura del cuidado de la salud bucodental, la prevención de las enfermedades y el tratamiento y rehabilitación de los padecimientos bucodentales.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2023)</small>
+
+ARTÍCULO 96 TER. En la implementación de los programas de salud bucodental, la Secretaría de Salud deberá procurar un trabajo multidisciplinario y la participación de las instituciones y dependencias de los gobiernos estatal y municipales, la academia, así como de los sectores sociales y privados, con la finalidad de propiciar una cultura de prevención y atención de las enfermedades en la población.
+
+Para efectos del cumplimiento del presente Capítulo, la Secretaría de Salud contará con una Comisión Interinstitucional de Salud Bucal, cuyos objetivos, programas, metas y conformación se precisarán en el reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2023)</small>
+
+ARTÍCULO 96 QUÁTER. En los programas a los que refiere el artículo que antecede, se deberán incluir acciones que promuevan una cultura de higiene, cuidado y prevención de las enfermedades bucodentales en las niñas y los niños del Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2023)</small>
+
+ARTÍCULO 96 QUINQUIES. En toda niña y niño que forme parte de la educación básica del sector público, se deberá garantizar, al menos, dos revisiones odontológicas y profilácticas al año, independientemente del régimen de seguridad social o protección social en salud al que pertenezcan.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2023)</small>
+
+ARTÍCULO 96 SEXIES. El Estado promoverá, en coordinación con las autoridades municipales y estatales competentes, todos aquellos estudios, investigaciones y acciones tendentes a mejorar la salud bucal de los habitantes de Zacatecas, sujetándose a lo establecido por la Ley General de Salud y las demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 95.
 
@@ -1109,11 +1141,13 @@ La Secretaría de Salud se coordinará con los Servicios de Salud y las autorida
 
 Corresponde a los ayuntamientos expedir la reglamentación encaminada al control, vigilancia y aplicación de sanciones, para proteger la salud de las personas no fumadoras.
 
-### CAPÍTULO II. Donación
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE MARZO DE 2023)</small>
+
+### CAPÍTULO I. Pérdida de la Vida
 
 ## TÍTULO SEXTO. PÉRDIDA DE LA VIDA, DONACIÓN Y TRASPLANTES
 
-### CAPÍTULO III. Trasplante
+### CAPÍTULO II. Donación
 
 ###### ARTÍCULO 97.
 
@@ -1163,7 +1197,7 @@ II. El control sanitario de los panteones, y
 
 III. El control sanitario de los establecimientos que se dediquen a la prestación de servicios funerarios.
 
-### CAPÍTULO IV. Cadáveres
+### CAPÍTULO III. Trasplante
 
 ###### ARTÍCULO 101.
 
@@ -1219,7 +1253,7 @@ Está prohibido el comercio de órganos, tejidos y células. La donación de és
 
 Sólo en caso de que la pérdida de la vida del donante esté relacionada con la indagación de un delito, se dará intervención al Ministerio Público y a la autoridad judicial, para la extracción de órganos y tejidos.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IV. Cadáveres
 
 ###### ARTÍCULO 107.
 
@@ -1297,7 +1331,7 @@ La disposición de sangre, componentes sanguíneos y células progenitoras hemat
 
 Cualquier órgano o tejido que haya sido extraído, desprendido o seccionado por intervención quirúrgica, accidente o hecho ilícito y que sanitariamente constituya un desecho, deberá ser manejado en condiciones higiénicas y su destino final se hará conforme a las disposiciones generales aplicables, salvo que se requiera para fines terapéuticos, de docencia o de investigación, en cuyo caso los establecimientos podrán disponer de ellos o remitirlos a instituciones docentes en ciencias de la salud.
 
-### CAPÍTULO I. Disposiciones Comunes
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 117.
 
@@ -1385,7 +1419,7 @@ Los establecimientos en los que se realicen actos relacionados con cadáveres de
 
 ## TÍTULO SÉPTIMO. DE LA PROTECCIÓN SOCIAL EN SALUD
 
-### CAPÍTULO II. Mercados y Centros de Abastos
+### CAPÍTULO I. Disposiciones Comunes
 
 ###### ARTÍCULO 129.
 
@@ -1429,7 +1463,7 @@ Los beneficiarios del Sistema de Protección Social en Salud participarán en su
 
 ## TÍTULO OCTAVO. SALUBRIDAD LOCAL
 
-### CAPÍTULO III. De las Construcciones
+### CAPÍTULO II. Mercados y Centros de Abastos
 
 ###### ARTÍCULO 132.
 
@@ -1515,7 +1549,7 @@ Los establecimientos referidos deberán contar con un botiquín que reúna los m
 
 Los dispensarios médicos se equiparan a los consultorios médicos, por lo que deberán cumplir con los requisitos establecidos en la Ley General de Salud y sus Reglamentos, así como en las Normas Oficiales Mexicanas aplicables.
 
-### CAPÍTULO IV. Panteones
+### CAPÍTULO III. De las Construcciones
 
 ###### ARTÍCULO 142.
 
@@ -1549,7 +1583,7 @@ Si se trata de expendio de alimentos se sujetarán a las especificaciones sanita
 
 La Secretaría procurará que todos los establecimientos de servicios de alimentos o bebidas, publiquen en sus menús y sitios visibles el valor nutricional de todos los productos alimenticios que ofrecen, expresado en calorías, de forma clara y legible, y que, además cuenten con oferta de bebidas sin calorías o de bajo contenido calórico.
 
-### CAPÍTULO V. Transporte de residuos sólidos
+### CAPÍTULO IV. Panteones
 
 ###### ARTÍCULO 145.
 
@@ -1585,7 +1619,7 @@ No se permitirá la existencia de animales en edificios y terrenos sin construir
 
 Los edificios, cualquiera que sea el uso a que estén destinados, estarán provistos de agua potable en cantidad y presión suficientes para satisfacer las necesidades y servicios.
 
-### CAPÍTULO VI. Reclusorios
+### CAPÍTULO V. Transporte de residuos sólidos
 
 ###### ARTÍCULO 153.
 
@@ -1609,7 +1643,7 @@ Las especies de árboles que se planten, serán de aquellas cuya raíz no se ext
 
 La exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y protección personal necesarios para evitar cualquier riesgo a la salud.
 
-### CAPÍTULO VII. Baños Públicos
+### CAPÍTULO VI. Reclusorios
 
 ###### ARTÍCULO 158.
 
@@ -1619,7 +1653,7 @@ El transporte de residuos sólidos municipales deberá realizarse en vehículos 
 
 Los desechos sólidos se manipularán lo estrictamente indispensable durante el transporte a su destino final.
 
-### CAPÍTULO VIII. Gimnasios
+### CAPÍTULO VII. Baños Públicos
 
 ###### ARTÍCULO 160.
 
@@ -1629,7 +1663,7 @@ Para los efectos de esta Ley se entiende por reclusorio o centro de reinserción
 
 Los reclusorios o centros de reinserción social deberán contar con los servicios básicos sanitarios para la higiene personal, así como proporcionar los servicios de atención médica y de salud, y lo necesario para la atención perinatal. Contarán además con las facilidades necesarias para la atención de aquellos casos de enfermedad, en que sea requerido el traslado de los internos a un hospital o institución de salud.
 
-### CAPÍTULO IX. Tintorerías
+### CAPÍTULO VIII. Gimnasios
 
 ###### ARTÍCULO 162.
 
@@ -1643,7 +1677,7 @@ Los baños instalados en hoteles, moteles, casas de huéspedes, clubes, centros 
 
 Estos establecimientos deberán contar con personal capacitado, y un sistema de vigilancia para el rescate y prestación de primeros auxilios a aquellos usuarios que lo requieran.
 
-### CAPÍTULO X. Establecimientos para el Hospedaje
+### CAPÍTULO IX. Tintorerías
 
 ###### ARTÍCULO 165.
 
@@ -1659,7 +1693,7 @@ II. Antes y después de cada actividad deberán limpiarse y desinfectarse los im
 
 III. Aplicar buenas prácticas de orden y limpieza para evitar la aparición de fauna nociva.
 
-### CAPÍTULO XI. Transporte público urbano
+### CAPÍTULO X. Establecimientos para el Hospedaje
 
 ###### ARTÍCULO 167.
 
@@ -1667,7 +1701,7 @@ Para los efectos de esta Ley se entiende por tintorería el establecimiento dedi
 
 Las tintorerías deberán observar todas las medidas de higiene y protección personal en el proceso de lavado y planchado de ropa, las sustancias que se usen para este proceso, deberán contar con el etiquetado correspondiente y ser almacenadas en áreas aisladas, preferentemente, mediante dispositivos físicos y destinadas específicamente para ellas.
 
-### CAPÍTULO XII. Establos, Granjas Avícolas, Porcícolas o Zahúrda, Apiarios y Establecimientos Similares
+### CAPÍTULO XI. Transporte público urbano
 
 ###### ARTÍCULO 168.
 
@@ -1687,7 +1721,7 @@ II. Contar con programa para el lavado de la ropa de cama y del baño.
 
 La apertura y explotación de un establecimiento de hospedaje no comprende el derecho de explotar giros anexos, aun cuando éstos constituyan una misma unidad comercial con el citado establecimiento; en consecuencia, tales anexos deberán recabar u obtener la autorización correspondiente, según el giro de que se trate.
 
-### CAPÍTULO XIII. Autorizaciones y Licencias
+### CAPÍTULO XII. Establos, Granjas Avícolas, Porcícolas o Zahúrda, Apiarios y Establecimientos Similares
 
 ###### ARTÍCULO 171.
 
@@ -1717,7 +1751,7 @@ V. Higiene en el personal operador.
 
 Las terminales de transporte público foráneo deberán contar con servicios sanitarios para usuarios y para el personal laboral, y en materia de control de plagas debe cumplir con las previsiones y medidas establecidas en el artículo 139 de esta Ley.
 
-### CAPÍTULO XIV. Revocación de Autorizaciones Sanitarias
+### CAPÍTULO XIII. Autorizaciones y Licencias
 
 ###### ARTÍCULO 174.
 
@@ -1747,7 +1781,7 @@ El responsable sanitario dará aviso inmediato a las autoridades correspondiente
 
 Queda prohibido el sacrificio y faenado de animales destinados al consumo humano, dentro de las instalaciones de la granja, el sacrificio únicamente deberá realizarse en rastros.
 
-### CAPÍTULO XV. Certificados
+### CAPÍTULO XIV. Revocación de Autorizaciones Sanitarias
 
 ###### ARTÍCULO 178.
 
@@ -1785,7 +1819,7 @@ Los obligados a tener autorizaciones sanitarias deberán exhibirla en lugar visi
 
 Requieren de permiso los establecimientos contemplados en la Ley General, o los que señalen los reglamentos, o los acuerdos generales de las autoridades sanitarias federales y estatales.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO XV. Certificados
 
 ###### ARTÍCULO 185.
 
@@ -1835,7 +1869,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda, dentr
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 191.
 
@@ -1863,7 +1897,7 @@ Los certificados de defunción y muerte fetal serán expedidos una vez comprobad
 
 ## TÍTULO NOVENO. VIGILANCIA SANITARIA
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTÍCULO 195.
 
@@ -1901,7 +1935,7 @@ Los verificadores, para practicar visitas de verificación sanitaria, deberán e
 
 ## TÍTULO DÉCIMO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES ADMINISTRATIVAS
 
-### CAPÍTULO III. Procedimiento para la aplicación de las Medidas de Seguridad y las Sanciones Administrativas
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTÍCULO 202.
 
@@ -1987,7 +2021,7 @@ El aseguramiento de objetos, productos o substancias, tendrá lugar cuando se pr
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPÍTULO IV. Recurso de Revisión
+### CAPÍTULO III. Procedimiento para la aplicación de las Medidas de Seguridad y las Sanciones Administrativas
 
 ###### ARTÍCULO 214.
 
@@ -2085,7 +2119,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPÍTULO I. Servicios de Salud de Zacatecas y Régimen Estatal de Protección en Salud
+### CAPÍTULO IV. Recurso de Revisión
 
 ###### ARTÍCULO 225.
 
@@ -2127,7 +2161,7 @@ En los casos de clausura temporal o definitiva, parcial o total, el personal com
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de un delito, se formulará la denuncia o querella, y se remitirán las actuaciones a la autoridad que corresponda, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPÍTULO II. Patrimonio de la Beneficencia Pública
+### CAPÍTULO I. Servicios de Salud de Zacatecas y Régimen Estatal de Protección en Salud
 
 ###### ARTÍCULO 233.
 
@@ -2289,7 +2323,7 @@ En contra de la resolución que resuelva el recurso de revisión interpuesto, pr
 
 ## TÍTULO DÉCIMO PRIMERO. ENTIDADES AUXILIARES EN MATERIA DE ATENCIÓN A LA SALUD
 
-### CAPÍTULO III. Del Consejo Estatal de Bioética
+### CAPÍTULO II. Patrimonio de la Beneficencia Pública
 
 ###### ARTÍCULO 251.
 
@@ -2305,7 +2339,7 @@ El Régimen Estatal de Protección Social en Salud es el organismo descentraliza
 
 Las atribuciones, organización y estructura de ambos organismos descentralizados serán las previstas en sus decretos de creación, sus estatutos orgánicos y demás disposiciones legales aplicables.
 
-### CAPÍTULO IV. De la Comisión Estatal de Arbitraje Médico
+### CAPÍTULO III. Del Consejo Estatal de Bioética
 
 ###### ARTÍCULO 254.
 
@@ -2315,7 +2349,7 @@ El Patrimonio de la Beneficencia Pública Estatal tiene por objeto destinar recu
 
 La naturaleza, estructura y atribuciones del Patrimonio se precisarán en el reglamento que emita el Ejecutivo del Estado.
 
-### CAPÍTULO V. Del Consejo Estatal de Trasplantes de Órganos y Tejidos
+### CAPÍTULO IV. De la Comisión Estatal de Arbitraje Médico
 
 ###### ARTÍCULO 256.
 
@@ -2347,7 +2381,7 @@ IX. Las demás disposiciones aplicables en la materia.
 
 La naturaleza, estructura y organización del Consejo se establecerá en los reglamentos que, para tal efecto, emita el Ejecutivo del Estado.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO V. Del Consejo Estatal de Trasplantes de Órganos y Tejidos
 
 ###### ARTÍCULO 259.
 
@@ -2388,6 +2422,8 @@ XIII. Emitir opiniones sobre las quejas presentadas, asimismo intervenir de ofic
 XIV. Elaborar y ratificar los dictámenes o peritajes médicos que le sean solicitados por las autoridades encargadas de procuración e impartición de justicia, y
 
 XV. Las demás disposiciones jurídicas y administrativas aplicables.
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 261.
 
@@ -2528,3 +2564,13 @@ P.O. 13 DE AGOSTO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 109.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE ZACATECAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 8 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 217.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD EN EL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+Artículo tercero. En un plazo que no exceda de noventa días, contados a partir de la publicación del presente decreto, la Secretaría de Salud deberá emitir el reglamento de la Comisión Interinstitucional de Salud Bucal, de conformidad con el artículo 96 ter del presente decreto.
