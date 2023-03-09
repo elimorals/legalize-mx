@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-victimas-del-estado-de-guanajuato-143028"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-27"
-last_updated: "2020-05-27"
+last_updated: "2023-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2023.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 27 de mayo de 2020.
 
@@ -156,6 +156,10 @@ Derecho de ayuda
 ###### Artículo 8.
 
 Las víctimas recibirán ayuda provisional, oportuna y rápida de los Recursos de Ayuda de la Comisión, de acuerdo a las necesidades inmediatas que tengan relación directa con el hecho victimizante para atender y garantizar la satisfacción de sus necesidades de alimentación, aseo personal, manejo de abastecimientos, atención médica y psicológica de emergencia, transporte de emergencia y alojamiento transitorio en condiciones dignas y seguras, a partir del momento de la comisión del delito o de la violación de los derechos humanos o en el momento en el que las autoridades tengan conocimiento del delito o de la violación de derechos humanos. Las medidas de ayuda provisional se brindarán garantizando siempre un enfoque transversal de género y diferencial, y durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de necesidad inmediata.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2023)</small>
+
+Además, las hijas o hijos menores de edad de madres víctimas de feminicidio u homicidio recibirán la atención especializada, los apoyos en educación y de carácter jurídico.
 
 Las víctimas de delitos o de violaciones de derechos humanos que atenten contra la vida, contra la libertad o la integridad, así como de desplazamiento interno, recibirán ayuda médica y psicológica especializada de emergencia en los términos de la presente Ley.
 
@@ -2318,3 +2322,11 @@ DIEGO SINHUE RODRÍGUEZ VALLEJO
 EL SECRETARIO DE GOBIERNO
 
 LUIS ERNESTO AYALA TORRES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 188, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES AL ARTÍCULO 8 DE LA LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
