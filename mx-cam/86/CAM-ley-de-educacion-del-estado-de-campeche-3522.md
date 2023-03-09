@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2023-03-06"
+last_updated: "2023-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -145,13 +145,13 @@ III.- Fomentar el aprecio a la dignidad humana y a la integridad de la familia, 
 
 IV.- Alcanzar, mediante la enseñanza de la lengua nacional, un idioma común para todos los mexicanos;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2023)</small>
 
-V.- Fomentar, promover y preservar el uso y defensa de las lenguas autóctonas, y en particular de la lengua maya;
+V.- Fomentar, promover y preservar el uso y la defensa de las lenguas autóctonas, y en particular de la lengua maya, así como su vocablo básico a través de la educación bilingüe en los centros educativos del Estado;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-VI. Atender las necesidades educativas de las comunidades indígenas del Estado de Campeche, mediante programas específicos;
+VI.- Atender las necesidades educativas de las comunidades indígenas del Estado de Campeche, mediante programas específicos;
 
 VII.- Preservar, acrecentar y difundir los bienes y valores que constituyen el acervo cultural del Estado y de la Nación y hacerlos accesibles a la colectividad;
 
@@ -159,7 +159,7 @@ VIII.- Realizar actividades que fortalezcan los valores regionales y la identida
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-IX. Fomentar y enriquecer el conocimiento y el respeto a las instituciones municipales, estatales y nacionales;
+IX.- Fomentar y enriquecer el conocimiento y el respeto a las instituciones municipales, estatales y nacionales;
 
 X.- Hacer conciencia de la necesidad de un mejor aprovechamiento social de los recursos naturales y contribuir a preservar el equilibrio ecológico;
 
@@ -199,23 +199,23 @@ XXIV.- Fomentar la educación para una sexualidad responsable;
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2012)</small>
 
-XXV. Fomentar el respeto a los derechos de la mujer y propiciar su pleno desarrollo e igualdad dentro de la sociedad;
+XXV.- Fomentar el respeto a los derechos de la mujer y propiciar su pleno desarrollo e igualdad dentro de la sociedad;
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2012)</small>
 
-XXVI. Fomentar el respeto a los derechos de la niñez y la adolescencia, de los adultos mayores y de las personas con discapacidad;
+XXVI.- Fomentar el respeto a los derechos de la niñez y la adolescencia, de los adultos mayores y de las personas con discapacidad;
 
 > <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2012)</small>
 
-XXVII. Fomentar la educación inclusiva y de valoración a la diversidad como una condición de enriquecimiento social y cultural, sin discriminación, de acuerdo con lo que establecen los artículos 1° y 3° de la Constitución Política de los Estados Unidos Mexicanos;
+XXVII.- Fomentar la educación inclusiva y de valoración a la diversidad como una condición de enriquecimiento social y cultural, sin discriminación, de acuerdo con lo que establecen los artículos 1° y 3° de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2012)</small>
 
-XXVIII. Procurar que a las personas con discapacidad se les respete su derecho de acceso y permanencia en todos los niveles y modalidades del sistema educativo estatal, sin discriminación, con equidad y en igualdad de condiciones; y
+XXVIII.- Procurar que a las personas con discapacidad se les respete su derecho de acceso y permanencia en todos los niveles y modalidades del sistema educativo estatal, sin discriminación, con equidad y en igualdad de condiciones; y
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-XXIX. Procurar que la educación estatal básica, en sus tres niveles, cuente con adaptaciones suficientes respondiendo a las características lingüísticas y culturales de los diversos grupos indígenas y migratorios ubicados en el Estado de Campeche; y
+XXIX.- Procurar que la educación estatal básica, en sus tres niveles, cuente con adaptaciones suficientes respondiendo a las características lingüísticas y culturales de los diversos grupos indígenas y migratorios ubicados en el Estado de Campeche; y
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
@@ -223,11 +223,11 @@ XXX.- Fomentar la educación y la cultura vial dentro de los programas de estudi
 
 > <small>(ADICIONADA, P.O. 23 DE JULIO DE 2018)</small>
 
-XXXI. Impulsar programas y campañas de difusión tendientes a inhibir en los alumnos el consumo de bebidas alcohólicas y los efectos nocivos que éstas generan en su salud, vida personal y en la sociedad.
+XXXI.- Impulsar programas y campañas de difusión tendientes a inhibir en los alumnos el consumo de bebidas alcohólicas y los efectos nocivos que éstas generan en su salud, vida personal y en la sociedad.
 
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-XXXII. Impulsar a través de campañas de difusión la cultura de la paz en las instituciones educativas del Estado.
+XXXII.- Impulsar a través de campañas de difusión la cultura de la paz en las instituciones educativas del Estado.
 
 > <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2022)</small>
 
@@ -680,6 +680,10 @@ V.- Establecimiento de centros culturales y recreativos, en las comunidades que 
 4.- Para conseguir eficiencia y calidad en la educación, además de cumplir con lo establecido en los artículos anteriores, se realizarán los siguientes programas, proyectos y acciones:
 
 I.- Crear la institución que fomente el estudio y desarrollo de las lenguas indígenas, así como la educación bilingüe.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2023)</small>
+
+I Bis.- Desarrollar programas e incentivar acciones encaminadas a priorizar y fomentar la educación bilingüe a través de la promoción del vocablo básico de las lenguas indígenas del Estado.
 
 II.- Promover la investigación educativa.
 
@@ -1526,3 +1530,11 @@ P.O. 6 DE MARZO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 9 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 201 POR EL QUE “SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 11 Y SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 22-4 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
