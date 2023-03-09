@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-fomento-de-la-lectura-y-del-libro-del-estado-de-97753"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-20"
-last_updated: "2022-04-28"
+last_updated: "2023-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE FOMENTO DE LA LECTURA Y DEL LIBRO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 20 de diciembre de 2013.
 
@@ -171,7 +171,9 @@ VII. Realizar, fortalecer y evaluar los talleres literarios y los métodos que f
 
 VIII. Promocionar en los niveles de enseñanza básica, métodos que faciliten la comprensión en la lectura;
 
-IX. Crear, fomentar, promover y distribuir textos en lenguas autóctonas propias de las etnias indígenas de la Entidad;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2023)</small>
+
+IX. Crear, fomentar, promover, traducir y distribuir textos en las diferentes lenguas autóctonas propias de las etnias indígenas que se hablen en el Estado;
 
 X. Producir y transmitir programas de radio, televisión e internet dedicados a la lectura y el libro; y
 
@@ -247,7 +249,9 @@ El Consejo Estatal para el Fomento de la Lectura y del Libro, para el cumplimien
 
 I. Contribuir en la elaboración, seguimiento, evaluación y actualización del Programa Estatal de Fomento de la Lectura y del Libro;
 
-II. Apoyar todo tipo de actividades y eventos que promuevan y estimulen el libro y el fomento a su lectura;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2023)</small>
+
+II. Apoyar o asesorar, a petición de parte, a las instancias de gobierno, poderes, órganos autónomos e instituciones sociales y privadas en todo tipo de actividades y eventos que promuevan y estimulen el libro y el fomento a su lectura;
 
 III. Promover la formación y actualización de profesionales en el fomento y promoción de la lectura;
 
@@ -260,6 +264,10 @@ VI. Apoyar acciones que favorezcan a los discapacitados dentro de las biblioteca
 VII. Intervenir como instancia de consulta y conciliación en todos los asuntos concernientes al seguimiento, evaluación y actualización de la política integral de la lectura y el libro; y
 
 VIII. Impulsar y apoyar a los creadores literarios locales y regionales.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2023)</small>
+
+IX. Impulsar y diseñar mecanismos para la participación ciudadana en todos los programas relacionados con el fomento de la lectura y del libro.
 
 ###### Artículo 15.
 
@@ -458,5 +466,13 @@ P.O. 28 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 51 POR EL QUE "SE REFORMA (SIC) LAS FRACCIONES I Y VIII DEL ARTÍCULO 2, LA FRACCIÓN XVI DEL ARTÍCULO 4; EL PÁRRAFO PRIMERO DEL ARTÍCULO 5; LOS INCISOS B Y C DEL ARTÍCULO 6; EL PRIMER PÁRRAFO DEL ARTÍCULO 9; LOS ARTÍCULOS 10, 11, 13, 26, LAS FRACCIONES III Y IV DEL ARTÍCULO 27 Y EL ARTÍCULO 33; SE ADICIONA UNA FRACCIÓN XVII AL ARTÍCULO 4; UN INCISO D AL ARTÍCULO 6; UN ARTÍCULO 33 BIS Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 35 TODAS A LA LEY DE FOMENTO DE LA LECTURA Y EL LIBRO DEL ESTADO DE CAMPECHE".]
 
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 9 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 202 POR EL QUE “SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 8; LA FRACCIÓN II Y SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 14 DE LA LEY DE FOMENTO DE LA LECTURA Y DEL LIBRO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
