@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2022-06-10"
+last_updated: "2023-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2687,6 +2687,28 @@ DELITOS CONTRA LA ECONOMIA
 
 A los comerciantes o industriales que, por cualquier medio, alteren en su cantidad o calidad las mercancías o productos de venta al público o les atribuyan cualidades que no tengan, se les impondrán de tres meses a cinco años de prisión y de cien a mil días multa.
 
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2023)</small>
+
+###### Artículo 199 Bis.
+
+A quien, por medio de la violencia, obligue a una persona o unidad económica:
+
+I. A comprar, obtener o adquirir, de otra persona, comercio o empresa determinados bienes, insumos, mercancías o servicios para su giro comercial;
+
+II. A vender o distribuir bienes, insumos, mercancías o servicios, a personas o empresas determinadas, o
+
+III. A imponer o fijar, en una localidad o región, un precio por encima del mercado, para la venta de bienes, mercancías o insumos o para la prestación de un servicio.
+
+Al responsable de este delito, se impondrá de seis a diez años de prisión, y de mil a mil quinientas unidades de medida y actualización.
+
+Son circunstancias que agravan la penalidad de este delito y se sancionarán, además de las penas señaladas en el párrafo anterior, con las siguientes:
+
+I. Si en la comisión de este delito participan dos o más personas, se impondrán de tres a cinco años de prisión y de quinientos a ochocientos días multa;
+
+II. Cuando en la comisión de este delito el o los sujetos activos se ostenten y/o identifiquen como miembros de alguna asociación o grupo delictivo, se impondrán de siete a quince años de prisión, y de mil trescientos a dos mil días multa, y
+
+III. Cuando el delito sea cometido por alguna persona que tenga el carácter de servidor público, se impondrán de ocho a veinte años de prisión y de mil quinientos a dos mil quinientos días multa.
+
 ###### Artículo 200.
 
 Al que dolosamente venda, adquiera, posea o trafique con semillas, fertilizantes, plaguicidas, implementos u otros materiales destinados a la producción agropecuaria, que se hayan entregado a los productores por alguna entidad o dependencia pública a precio subsidiado, se le impondrán de dos a nueve años de prisión y de cien a mil días multa.
@@ -2840,6 +2862,10 @@ III. A fabricar, portar, usar o traficar armas prohibidas sin un fin licito, se 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 21 DE ENERO DE 2022)</small>
 
 IV. A realizar a través de cualquier medio y sin fines de lucro actos eróticos o sexuales, así como exhibiciones corporales, lascivas o sexuales, públicas o privadas, será castigado con pena de prisión de cinco a diez años de prisión y de mil a cuatro mil días multa.
+
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2023)</small>
+
+V. A establecer una relación de hecho para vivir en conjunto y hacer una vida en común sin fines de lucro o a cambio de un pago en efectivo o en especie, aún cuando sean los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia, quienes obliguen a las personas menores de edad, se impondrá la pena de dos a cuatro años de prisión y de quinientos a dos mil días multa.
 
 > <small>(REFORMADO, G.G. 21 DE ENERO DE 2022)</small>
 
@@ -7508,3 +7534,19 @@ G.G. 10 DE JUNIO DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 10 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 135.- POR EL QUE SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 204 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO Y SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 4.7 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 10 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 138.- POR EL QUE SE ADICIONA EL ARTÍCULO 199 BIS AL CAPÍTULO I “DELITOS CONTRA EL CONSUMO” DEL SUBTITULO TERCERO “DELITOS CONTRA LA ECONOMÍA” DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
