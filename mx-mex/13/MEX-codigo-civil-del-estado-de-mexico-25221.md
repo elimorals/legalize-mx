@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2022-11-01"
+last_updated: "2023-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -1192,6 +1192,10 @@ IX. Las enfermedades crónicas e incurables que sean contagiosas o hereditarias.
 X. Trastornos mentales, aunque haya espacios de lucidez;
 
 XI. El matrimonio subsistente de alguno de los contrayentes.
+
+> <small>(ADICIONADA, G.G. 10 DE MARZO DE 2023)</small>
+
+XII. Que sea concertado por tradiciones, usos, o costumbres que coaccionen la voluntad de la o del contrayente y vulneren su dignidad y libre desarrollo personal.
 
 Imposibilidad de matrimonio entre adoptante y adoptado
 
@@ -18684,3 +18688,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este Decreto.
+
+G.G. 10 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 135.- POR EL QUE SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 204 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO Y SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 4.7 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
