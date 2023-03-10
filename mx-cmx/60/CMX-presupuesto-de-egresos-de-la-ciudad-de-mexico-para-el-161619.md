@@ -4,7 +4,7 @@ identifier: "CMX-presupuesto-de-egresos-de-la-ciudad-de-mexico-para-el-161619"
 country: "mx"
 rank: "presupuesto"
 publication_date: "2022-12-27"
-last_updated: "2022-12-27"
+last_updated: "2023-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161619&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2022-12-14"
 
 PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO PARA EL EJERCICIO FISCAL 2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2023.
 
 Presupuesto publicado en el Número 1010 Bis de la Gaceta Oficial de la Ciudad de México, el martes 27 de diciembre de 2022.
 
@@ -1216,6 +1216,18 @@ Artículo Sexto. Dentro de la asignación para la Secretaría de Gobierno consig
 
 > <small>[N. DE E. VÉASE ANEXO 2 EN LA G.O. DE 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 30 A LA 66.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 2, G.O. 10 DE MARZO DE 2023, PÁGINAS DE LA 2 A LA 40.]</small>
+
 Palacio Legislativo del Congreso de la Ciudad de México, a los catorce días del mes de diciembre del año dos mil veintidós.- POR LA MESA DIRECTIVA.- DIPUTADO FAUSTO MANUEL ZAMORANO ESPARZA, PRESIDENTE.- DIPUTADA MARCELA FUENTE CASTILLO, SECRETARIA.- DIPUTADA MARIA GABRIELA SALIDO MAGOS, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2 párrafo segundo, 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los veintiséis días del mes de diciembre del año dos mil veintidós.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, MARTÍ BATRES GUADARRAMA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- LA SECRETARIA DE CULTURA, CLAUDIA STELLA CURIEL DE ICAZA.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FADLALA AKABANI HNEIDE.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, CARLOS ALBERTO ULLOA PÉREZ.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- EL SECRETARIO DE INCLUSIÓN Y BIENESTAR SOCIAL, RIGOBERTO SALGADO VÁZQUEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- LA SECRETARIA DE LAS MUJERES, INGRID GÓMEZ SARACÍBAR.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.-FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LAURA ITA ANDEHUI RUIZ MONDRAGÓN.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, JOSÉ LUIS RODRÍGUEZ DÍAZ DE LEÓN.- FIRMA.- LA SECRETARIA DE TURISMO, NATHALIE VERONIQUE DESPLAS PUEL.- FIRMA.- EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES, NÉSTOR VARGAS SOLANO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 10 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ANEXO 2 "DISTRIBUCIÓN DEL PRESUPUESTO PARTICIPATIVO POR UNIDAD TERRITORIAL" DEL DECRETO DE PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO PARA EL EJERCICIO FISCAL 2023".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México, y
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
