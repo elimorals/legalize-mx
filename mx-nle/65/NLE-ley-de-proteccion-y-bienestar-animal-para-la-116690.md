@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-y-bienestar-animal-para-la-116690"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-28"
-last_updated: "2023-01-25"
+last_updated: "2023-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 28 de septiembre de 2016.
 
@@ -162,6 +162,10 @@ XIX. Centro de Atención Veterinaria. Lugar donde un Médico Veterinario Zootecn
 XX. Certificado de Salud. Documento mediante el cual se describe el estado normal de las funciones orgánicas de un animal y en el que se asienta que el mismo se encuentra clínicamente sano, siendo emitido y avalado por un Médico Veterinario Zootecnista con cédula profesional.
 
 XXI. (DEROGADA, P.O. 11 DE ENERO DE 2023)
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2023)</small>
+
+XXI BIS. Certificado de Vacunación Antirrábica: Documento mediante el cual establece que los animales de compañía han sido vacunados, siendo emitido y avalado por un médico Veterinario Zootecnista con cédula profesional.
 
 XXII. Clínica Veterinaria. Establecimiento que brinda servicios de estudios clínicos e imagenología y hospitalización que no requiera cuidados intensivos.
 
@@ -381,9 +385,17 @@ a) Animales:
 
 8. Chip de identificación (en caso de que lo tenga);
 
-9. Nombre del animal; y
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2023)</small>
 
-10. Función zootécnica.
+9. Nombre del animal;
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2023)</small>
+
+10. Función zootécnica; y
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2023)</small>
+
+11. Certificado de vacunación antirrábica.
 
 b) Propietarios:
 
@@ -1120,6 +1132,12 @@ Asimismo, deberán atender los reportes de la ciudadanía o de alguna autoridad 
 ###### Artículo 67.
 
 La vacunación antirrábica se proporcionará durante todo el año, debiendo entregar un comprobante oficial original y foliado de la aplicación de la vacuna antirrábica, con fecha de aplicación y vencimiento, firma y cédula de un Médico Veterinario Zootecnista.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2023)</small>
+
+###### Artículo 67 Bis.
+
+El propietario o poseedor del animal de compañía deberá aplicar anualmente la vacuna antirrábica a través de un médico veterinario zootecnista con el fin de que obtenga el certificado de vacunación antirrábica.
 
 ###### Artículo 68.
 
@@ -2126,3 +2144,9 @@ P.O. 25 DE ENERO DE 2023.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. La Procuraduría Estatal de Medio Ambiente de Nuevo León tendrá un plazo de 90 días a partir de la entrada en vigor del presente Decreto, para instaurar los mecanismos necesarios para que los ciudadanos puedan llevar a cabo las Denuncias Anónimas.
+
+P.O. 10 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 335. SE ADICIONA LA FRACCIÓN XXI BIS AL ARTÍCULO 3, SE ADICIONA UN NUMERAL 11 DEL INCISO A) DE LA FRACCIÓN I DEL ARTÍCULO 15 Y SE ADICIONA EL ARTÍCULO 67 BIS, SE REFORMAN LOS NUMERALES 9 Y 10 DEL INCISO A) DE LA FRACCIÓN I DEL ARTÍCULO 15, TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
