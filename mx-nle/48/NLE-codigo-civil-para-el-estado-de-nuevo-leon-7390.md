@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2023-01-25"
+last_updated: "2023-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -15123,7 +15123,9 @@ Los asociados que voluntariamente se separen o que fueren excluídos, perderán 
 
 Los asociados tienen derecho de vigilar que las cuotas se dediquen al fin que se propone la asociación y con ese objeto pueden examinar los libros de contabilidad y demás papeles de ésta.
 
-Respecto del cobro de cuotas, aportaciones ordinarias, extraordinarias y multas, de los asociados de asociaciones civiles, se realizará por la vía procesal de la legislación aplicable, anexando la certificación contable que contenga la cantidad líquida del adeudo, elaborada por contador público con cédula profesional expedida por la Secretaría de Educación, nombrado por quien tenga a su cargo la Administración o Dirección de la persona moral; siempre y cuando existan tres cuotas ordinarias insolutas o una aportación extraordinaria o multa sin pagar.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2023)</small>
+
+Respecto del cobro de cuotas, aportaciones ordinarias, extraordinarias, multas y todo tipo de obligaciones de los asociados de asociaciones civiles, traerá aparejada ejecución en la vía ejecutiva civil, la certificación contable que contenga la cantidad líquida del adeudo, elaborada por contador público con cédula profesional expedida por la Secretaría de Educación, nombrado por quien tenga a su cargo la Administración o Dirección de la persona moral; siempre y cuando existan tres cuotas ordinarias insolutas o una aportación extraordinaria o multa sin pagar.
 
 No se despachará ejecución por las cuotas y aportaciones no vencidas al momento de presentar la demanda; pero eso no impedirá que, al dictarse la sentencia definitiva, se condene al asociado moroso al pago de estas.
 
@@ -17876,3 +17878,11 @@ P.O. 25 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 329. SE REFORMAN LOS ARTÍCULOS 2576 Y 2577 DEL CÓDIGO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 10 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 338. SE REFORMA EL ARTÍCULO 2576 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO. La presente reforma aplicará para todas las demandas presentadas a partir de su entrada en vigor.
