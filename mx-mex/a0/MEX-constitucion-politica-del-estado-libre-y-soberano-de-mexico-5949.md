@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2022-07-11"
+last_updated: "2023-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2023.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -656,6 +656,10 @@ Los pueblos y comunidades indígenas tienen derecho a elegir, en los municipios 
 > <small>(REFORMADO, G.G. 16 DE MARZO DE 2018)</small>
 
 Los pueblos y comunidades indígenas podrán elegir, de acuerdo con sus normas, procedimientos y prácticas tradicionales, a sus autoridades o sus representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfruten y ejerzan su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal y la soberanía estatal. En ningún caso las prácticas comunitarias podrán limitar los derechos político electorales de los y las ciudadanas en la elección de sus autoridades municipales.
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2023)</small>
+
+Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural del Estado de México. Tendrán, en lo conducente, los derechos señalados en los párrafos anteriores del presente artículo en los términos que establezcan las leyes, a fin de garantizar su libre determinación, autonomía, desarrollo e inclusión social.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE AGOSTO DE 2014)</small>
 
@@ -3087,6 +3091,10 @@ Las autoridades del Estado y de los municipios, en la esfera de su competencia, 
 
 De conformidad con lo dispuesto en la legislación federal aplicable, los titulares de los poderes Ejecutivo, Legislativo y Judicial, de cualquier dependencia u organismo descentralizado de la Administración Pública Estatal y las presidentas o los presidentes municipales, podrán convenir acuerdos interinstitucionales con uno o varios órganos gubernamentales extranjeros u organizaciones internacionales.
 
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2023)</small>
+
+El Estado de México no podrá establecer condonaciones de impuestos, de conformidad con los términos y condiciones que dispongan las leyes de la materia.
+
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 138.
@@ -5162,3 +5170,21 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Para efectos de lo dispuesto en los párrafos primero y sexto del articulo 12; así como lo dispuesto en el párrafo segundo del artículo 66, los partidos políticos podrán postular libremente para el proceso electoral del año 2023 a un candidato o una candidata. Alternándose el género para las subsecuentes elecciones de Gobernador o Gobernadora.
 
 CUARTO. La designación de género de los partidos políticos para candidato o candidata en la elección de Gobernador o Gobernadora del Estado Libre y Soberano de México, no estará condicionada por la designación de género de otros candidatos o candidatas de otros Estados que concurran con la misma fecha de la elección del Estado Libre y Soberano de México.
+
+G.G. 10 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 133.- POR EL QUE SE ADICIONA UN SEXTO PÁRRAFO AL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan al presente Decreto.
+
+G.G. 10 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 137.- POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 137 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
