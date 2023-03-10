@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2022-06-21"
+last_updated: "2023-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2023.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -976,6 +976,10 @@ La Secretaría de la Contraloría vigilará que el sistema de consulta se encuen
 ###### Artículo 2.
 
 2.- Las disposiciones de este Libro tienen como finalidad garantizar y proteger el derecho a la salud de la población.
+
+> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2023)</small>
+
+En atención al interés superior de la niñez se garantizará el pleno acceso a la protección de la salud de niñas, niños y adolescentes de conformidad con la legislación aplicable. Las autoridades en materia de salud competentes deberán celebrar convenios para que las niñas, niños y adolescentes reciban la prestación de servicios de atención médica de calidad para disfrutar del nivel más alto posible de salud.
 
 ### CAPITULO SEGUNDO. De las autoridades
 
@@ -18652,3 +18656,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan todas las disposiciones de menor o igual jerarquía que contravengan lo dispuesto por el presente Decreto.
+
+G.G. 10 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 134.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 2.2 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
