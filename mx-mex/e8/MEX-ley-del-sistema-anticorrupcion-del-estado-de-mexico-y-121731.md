@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-sistema-anticorrupcion-del-estado-de-mexico-y-121731"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-30"
-last_updated: "2020-11-11"
+last_updated: "2023-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 30 de mayo de 2017.
 
@@ -833,9 +833,13 @@ II. El diseño y promoción de políticas integrales en materia de prevención, 
 
 III. Actualización y difusión de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno.
 
-IV. La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+> <small>(REFORMADA, G.G. 10 DE MARZO DE 2023)</small>
 
-V. Elaboración y entrega de un informe anual al Comité Coordinador del Sistema Estatal Anticorrupción de las acciones realizadas, las políticas aplicadas y del avance de éstas con respecto del ejercicio de sus funciones, además informar al mismo Comité de la probable comisión de hechos de corrupción y faltas administrativas para que en su caso, emita recomendaciones no vinculantes a las autoridades competentes, a fin de adoptar medidas dirigidas al fortalecimiento institucional para la prevención y erradicación de tales conductas.
+IV. La elaboración de informes trimestrales y un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+> <small>(REFORMADA, G.G. 10 DE MARZO DE 2023)</small>
+
+V. Elaboración y entrega de informes trimestrales y un informe anual al Comité Coordinador del Sistema Estatal Anticorrupción de las acciones realizadas, las políticas aplicadas y del avance de éstas con respecto del ejercicio de sus funciones, además informar al mismo Comité de la probable comisión de hechos de corrupción y faltas administrativas para que en su caso, emita recomendaciones no vinculantes a las autoridades competentes, a fin de adoptar medidas dirigidas al fortalecimiento institucional para la prevención y erradicación de tales conductas.
 
 VI. Las demás señaladas en otros ordenamientos jurídicos aplicables.
 
@@ -1142,3 +1146,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 10 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 64 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
