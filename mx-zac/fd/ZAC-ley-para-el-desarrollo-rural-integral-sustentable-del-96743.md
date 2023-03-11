@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-el-desarrollo-rural-integral-sustentable-del-96743"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-30"
-last_updated: "2022-05-11"
+last_updated: "2023-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
 
 Ley publicada en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de noviembre de 2013.
 
@@ -198,6 +198,10 @@ X. Promover la investigación científica y tecnología (sic) en materia agropec
 XI. Promover el desarrollo de actividades alternativas como el turismo rural, las artesanías, los servicios, la actividad extractiva; como alternativa de empleo para hombres, mujeres y jóvenes del campo, y
 
 XII. Fomentar la inversión pública y privada para la construcción de infraestructura básica, productiva y de servicios, necesaria para el desarrollo rural.
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2023)</small>
+
+XIII. Reducir la brecha de género entre mujeres y hombres en el sector rural del Estado, a través del impulso de programas que promuevan el empoderamiento de las mujeres rurales.
 
 Principios
 
@@ -1644,3 +1648,19 @@ P.O. 11 DE MAYO DE 2022.
 Artículo Primero. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo. Se derogan aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 11 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 200.- SE REFORMA LA LEY PARA LA IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE ZACATECAS Y LA LEY PARA EL DESARROLLO INTEGRAL RURAL SUSTENTABLE DEL ESTADO DE ZACATECAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan el presente instrumento.
+
+###### ARTÍCULO TERCERO.
+
+Los entes públicos responsables de implementar la Política de Igualdad entre Mujeres y Hombres del Estado de Zacatecas deberán prever las asignaciones presupuestarias en cada ejercicio fiscal para dar cumplimiento a la misma.
