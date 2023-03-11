@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-igualdad-sustantiva-entre-mujeres-y-hombres-del-145
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-19"
-last_updated: "2020-12-19"
+last_updated: "2023-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 19 de diciembre de 2020.
 
@@ -633,9 +633,21 @@ XIII. Implementar acciones que coadyuven en la conciliación de la vida personal
 
 XIV. Implementar mecanismos para prevenir, atender y sancionar el acoso y hostigamiento sexual en los centros de trabajo;
 
-XV. Promover la implementación de licencias para la atención de los procesos jurídicos promovidos por situaciones de violencia y discriminación en el ámbito privado o público, y
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
 
-XVI. Las demás que se requieran para el cumplimiento de los objetivos de esta Ley.
+XV. Promover la implementación de licencias para la atención de los procesos jurídicos promovidos por situaciones de violencia y discriminación en el ámbito privado o público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2023)</small>
+
+XVI. Impulsar el diseño de políticas y programas en materia de desarrollo empresarial, en favor del empoderamiento de las mujeres en los sectores productivos;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2023)</small>
+
+XVII. Promover el empoderamiento de las mujeres rurales a través del impulso de programas de financiamiento, de comercialización de productos, proyectos productivos y programas para el acceso a la propiedad, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MARZO DE 2023)</small>
+
+XVIII. Las demás que se requieran para el cumplimiento de los objetivos de esta Ley.
 
 ### Capítulo III. Participación política
 
@@ -707,7 +719,13 @@ V. Impulsar acciones dirigidas a la prevención del embarazo en adolescentes y n
 
 VI. Diseñar y garantizar mecanismos de notificación inmediata en casos de violencia cometida en contra de las mujeres, y
 
-VII. Las demás que se requieran para el cumplimiento de los objetivos de esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2023)</small>
+
+VII. Proporcionar y mejorar el acceso de las mujeres de las zonas rurales a los más altos niveles posibles de salud, en particular en aspectos de la salud sexual y reproductiva, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MARZO DE 2023)</small>
+
+VIII. Las demás que se requieran para el cumplimiento de los objetivos de esta Ley.
 
 ### Capítulo VI. Medio ambiente y urbanismo
 
@@ -812,3 +830,21 @@ DADO en la Sala de Sesiones de la Honorable Legislatura del Estado de Zacatecas,
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el Despacho del Poder Ejecutivo del Estado, a los siete días del mes de diciembre del año dos mil veinte. GOBERNADOR DEL ESTADO.- ALEJANDRO TELLO CRISTERNA. SECRETARIO GENERAL DE GOBIERNO.- JEHÚ EDUÍ SALAS DÁVILA. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 200.- SE REFORMA LA LEY PARA LA IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES DEL ESTADO DE ZACATECAS Y LA LEY PARA EL DESARROLLO INTEGRAL RURAL SUSTENTABLE DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan el presente instrumento.
+
+###### ARTÍCULO TERCERO.
+
+Los entes públicos responsables de implementar la Política de Igualdad entre Mujeres y Hombres del Estado de Zacatecas deberán prever las asignaciones presupuestarias en cada ejercicio fiscal para dar cumplimiento a la misma.
