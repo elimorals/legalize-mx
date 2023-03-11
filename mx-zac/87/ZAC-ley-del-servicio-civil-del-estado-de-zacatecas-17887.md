@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2021-04-10"
+last_updated: "2023-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -120,6 +120,14 @@ III.- Entidades públicas: los poderes del Estado, dependencias del Poder Ejecut
 > <small>(ADICIONADA, P.O. 23 DE ENERO DE 2021)</small>
 
 IV.- Autoridad Conciliadora: El Centro de Conciliación Laboral del Estado de Zacatecas.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2023)</small>
+
+Artículo 2 bis.- Para efectos de esta Ley, se entiende por:
+
+a) Hostigamiento sexual. Es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva, y
+
+b) Acoso sexual. Forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -633,9 +641,9 @@ IX.- Que de manera injustificada abandone sus actividades;
 
 X.- Que no presente los documentos necesarios para la prestación de sus servicios dentro del término de dos meses a que se refiere la fracción VIII del Artículo 23; y
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
 
-XI.- Que incurra la o el trabajador en conductas lascivas verbales o físicas contra otra u otro trabajador; y
+XI.- Que incurra la o el trabajador en actos de acoso u hostigamiento sexual contra otra u otro trabajador o cualquier persona en el lugar de trabajo, y
 
 > <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2005)</small>
 
@@ -648,6 +656,10 @@ XII.- Que incurra en una conducta análoga a las anteriores, igualmente grave y 
 Cuando la relación de trabajo haya tenido una duración de más de veinte años, no procederá la rescisión, no obstante que se actualice alguna de las causas señaladas en el artículo 29 de esta Ley, pero de probarse las señaladas causas se impondrá a la o el trabajador la corrección disciplinaria que corresponda.
 
 Si en el lapso de un año la o el trabajador repite la falta o cometa otra u otras que constituya una causa legal de rescisión, dejará de tener efecto la disposición anterior.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2023)</small>
+
+De la misma forma, cuando la falta en la que incurra el trabajador sea el acoso o el hostigamiento sexual, no se aplicará el beneficio contenido en el párrafo primero del presente artículo.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -705,9 +717,9 @@ Si la dilación es producto de omisiones o conductas irregulares de los servidor
 
 Son causas de rescisión de la relación de trabajo, sin responsabilidad para la o el trabajador:
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
 
-I.- Que incurra la titular o el titular de la entidad pública o la o el superior jerárquico en faltas de probidad u honradez; o en actos de violencia, amagos, acoso laboral, injurias o malos tratos contra la o el trabajador o familiares de éste, dentro de horas de servicio, salvo que medie provocación o que obre en legítima defensa, si son de tal manera graves que hagan imposible la relación de trabajo;
+I.- Que incurra la titular o el titular de la entidad pública o la o el superior jerárquico en faltas de probidad u honradez; o en actos de violencia, amagos, acoso laboral, acoso u hostigamiento sexual, injurias o malos tratos contra la o el trabajador o familiares de éste, dentro de horas de servicio, salvo que medie provocación o que obre en legítima defensa, sí son de tal manera graves que hagan imposible la relación de trabajo;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1057,11 +1069,17 @@ XII.- Poner en conocimiento del sindicato correspondiente los puestos de nueva c
 
 XIII.- Proporcionar la capacitación y adiestramiento a sus trabajadoras y trabajadores;
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
 
-XIV.- Acatar en sus términos las sentencias que emita el Tribunal.
+XIV.- Prevenir cualquier manifestación de Violencia Política en contra de las mujeres por razones de género;
 
-XV.- Acatar en sus términos los laudos que emita el Tribunal.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
+
+XV.- Acatar en sus términos las sentencias que emita el Tribunal; y
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2023)</small>
+
+XVI.- Emitir el protocolo para prevenir, atender y sancionar el acoso y hostigamiento sexual.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1087,13 +1105,21 @@ V.- Intervenir en cualquier forma en el régimen interno del sindicato de los tr
 
 VI.- Realizar cualquier acto que tenga por objeto impedir o dificultar que obtenga empleo quien se separe o haya sido separado de su trabajo;
 
-> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
 
-VII.- Realizar cualquier manifestación de Violencia Política en contra de las mujeres por razones de género, y
+VII.- Realizar cualquier manifestación de Violencia Política en contra de las mujeres por razones de género;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2023)</small>
 
-VIII.- Distraer a sus trabajadoras y trabajadores para realizar actividades propias de partidos políticos dentro del horario de trabajo.
+VIII.- Llevar a cabo actos de acoso u hostigamiento sexual contra algún trabajador o trabajadora o cualquier otra persona en el lugar de trabajo;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2023)</small>
+
+IX.- Permitir o tolerar actos de acoso u hostigamiento sexual en el lugar de trabajo, y
+
+> <small>(ADICIONADA [REPUBLICADA Y REUBICADA ANTES FRACCIÓN VIII], P.O. 11 DE MARZO DE 2023)</small>
+
+X.- Distraer a sus trabajadoras y trabajadores para realizar actividades propias de partidos políticos dentro del horario de trabajo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1161,13 +1187,17 @@ IV.- Introducir bebidas alcohólicas o drogas al lugar de trabajo, salvo que en 
 
 V.- Sustraer materiales, productos o instrumentos de trabajo propiedad de la entidad pública, del lugar o lugares donde se prestan los servicios, o utilizarlos para fines distintos a los que están destinados;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
 
-VI.- Faltar al trabajo sin causa justificada o sin permiso de la titular o el titular de la entidad pública; y
+VI.- Faltar al trabajo sin causa justificada o sin permiso de la titular o el titular de la entidad pública;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
 
-VII.- Suspender las labores sin autorización de la titular o el titular de la entidad pública.
+VII.- Suspender las labores sin autorización de la titular o el titular de la entidad pública, y
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2023)</small>
+
+VIII.- Cometer actos de acoso u hostigamiento sexual en contra de otro trabajador o cualquier persona en el lugar de trabajo.
 
 ### CAPITULO VIII. DE LA CAPACITACION Y ADIESTRAMIENTO
 
@@ -3982,3 +4012,13 @@ P.O. 10 DE ABRIL DE 2021.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 11 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 195.- SE REFORMA LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO. Los titulares de las entidades públicas contarán con un plazo de 60 días para emitir el protocolo para prevenir, atender y sancionar el acoso y hostigamiento sexual; la Secretaría de las Mujeres y la Secretaría de la Función Públicas (sic) deberán verificar el cumplimiento de esta obligación.
