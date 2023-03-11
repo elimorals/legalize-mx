@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-12435
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-14"
-last_updated: "2018-05-12"
+last_updated: "2023-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PREVENCIÓN Y ATENCIÓN A LA VIOLENCIA FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de febrero de 1998.
 
@@ -823,9 +823,13 @@ En las Direcciones de la Policía Estatal o de Seguridad Pública Municipales, a
 
 Son órdenes de protección las especificadas en este artículo y serán decretadas y ejecutadas por los jueces familiares, civiles, mixtos y penales que correspondan, independientemente de las medidas provisionales contenidas en la legislación legal aplicable, siendo las siguientes:
 
-(REPUBLICADA, P.O. 11 DE JUNIO DE 2016)
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
 
-I. Otorgar la guarda y custodia material de sus hijos e hijas menores de edad a la parte receptora;
+I. Otorgar la guarda y custodia material de sus hijos e hijas menores de edad a la parte receptora.
+
+Se entiende por custodia material la permanencia del menor con la parte solicitante de la orden de protección, la cual se otorgará por un plazo prudente y suficiente contado a partir de la ejecución de la orden de protección, para que se expongan los hechos ante un Juzgado Competente, no especializado en Órdenes de Protección, y dicte lo conducente en relación a la custodia del menor.
+
+En caso de que el receptor de violencia sea un menor de edad y que se presuma es generada por alguno de los padres se podrá decretar la permanencia de manera provisional del menor de edad, al otro, en el caso de que fueren ambos se podrá decretar la permanencia de manera provisional del menor de edad, con alguno de sus familiares, en aras de salvaguardar su integridad;
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -1064,3 +1068,11 @@ P.O. 12 DE MAYO DE 2018.
 [N. DE E TRANSITORIO DEL “DECRETO NO. 481 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 15 DE LA LEY DE SALUD DEL ESTADO DE COLIMA; SE ADICIONA LA FRACCIÓN XXII, PASANDO A LA ACTUAL XXII A SER XXIII, AL ARTÍCULO 60 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA; SE REFORMAN LAS FRACCIONES II Y III, ASIMISMO SE ADICIONA UNA FRACCIÓN IV, TODAS DEL ARTÍCULO 26 DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN A LA VIOLENCIA FAMILIAR”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 11 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 252.- POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 35 DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN A LA VIOLENCIA FAMILIAR".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
