@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107615"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-18"
-last_updated: "2022-12-31"
+last_updated: "2023-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 18 de abril de 2015.
 
@@ -1571,9 +1571,9 @@ II. Que las autoridades migratorias verifiquen la existencia de la autorización
 
 III. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstengan de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas; y
 
-> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
 
-IV. Queda prohibido que quienes tengan trato con niñas, niños y adolescentes ejerza cualquier tipo de violencia en su contra, en particular el castigo corporal y humillante.
+IV. Queda prohibido que quienes tengan trato con niñas, niños y adolescentes ejerza cualquier tipo de violencia en su contra, en particular el castigo corporal y humillante. Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y disciplina de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda, custodia y crianza, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el trato humillante.
 
 ###### Artículo 109.
 
@@ -3194,3 +3194,11 @@ P.O. 31 DE DICIEMBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto, se sujetarán a la disponibilidad presupuestaria que afecto se determine en el Ejercicio Fiscal 2023.
+
+P.O. 11 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 249.- POR EL QUE SE REFORMA EL ARTÍCULO 108 FRACCIÓN IV DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO 300 BIS DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
