@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-de-los-derechos-de-las-personas-adultas-51744
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-24"
-last_updated: "2021-08-11"
+last_updated: "2023-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de junio de 2006.
 
@@ -369,11 +369,15 @@ IV. Promover, fomentar, difundir y vigilar el ejercicio de los derechos de las p
 
 V. Fomentar y promocionar la estabilidad y el bienestar familiar e implementar, en coordinación con las instancias competentes, las medidas de seguridad pública y de protección civil en los centros educativos, culturales y recreativos con la participación de la comunidad en general; y
 
-> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
 
-VI. Suscribir convenios con las instituciones de salud privadas, a fin de brindar a la población adulta mayor de la entidad que lo solicite, acceso y descuentos en los bienes y servicios que presta el sector de salud privado, y
+VI. Suscribir convenios con las instituciones de salud privadas, a fin de brindar a la población adulta mayor de la entidad que lo solicite, acceso y descuentos en los bienes y servicios que presta el sector de salud privado;
 
-VII. Las demás que le confiera esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2023)</small>
+
+VII. Impulsar programas de asesoría y capacitación que promuevan la planeación financiera, incluyendo el ahorro y la inversión, y
+
+VIII. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 13.
 
@@ -683,9 +687,15 @@ XIX. Garantizar la asistencia social a quienes se encuentran en estado de vulner
 
 XX. Propiciar que el sector público y privado generen un número mayor de empleos para adultos mayores y contribuir a su sustento, estabilidad económica y autonomía, al mismo tiempo de aprovechar su experiencia a favor de las nuevas generaciones;
 
-XXI. Fomentar la creación de espacios de expresión y de infraestructura a su servicio; y
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
 
-XXII. Operación de un programa preventivo integral de salud.
+XXI. Fomentar la creación de espacios de expresión y de infraestructura a su servicio;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2023)</small>
+
+XXII. Impulsar programas que promuevan la planeación financiera, incluyendo el ahorro e inversión, además del manejo adecuado de los recursos personales, y
+
+XXIII. Operación de un programa preventivo integral de salud.
 
 ### CAPÍTULO II. De las Medidas de Protección
 
@@ -798,6 +808,10 @@ XII. Garantizar su derecho a una alimentación nutritiva, suficiente y de calida
 ###### Artículo 39.
 
 A través del Programa, se impulsará la creación de asilos, estancias, casas hogar o centros de rehabilitación, públicos o privados, de estancia diurna o permanente, según sea el caso, que procuren el mejoramiento de la salud física, emocional y psicológica de las personas adultas mayores, así como su integración social a través de una cultura de integración, dignidad y respeto.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2023)</small>
+
+El Programa procurará que dichos espacios cuenten con la atención especializada para las personas adultas mayores que presentan algún tipo de discapacidad o algún problema de salud mental, tales como Alzheimer o cualquier otra forma común de demencia.
 
 Dichas instituciones promoverán y velarán que las personas adultas mayores reciban capacitación para desarrollar sus aptitudes intelectuales, afectivas, sociales y físicas.
 
@@ -1460,3 +1474,11 @@ P.O. 11 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 663.- POR EL CUAL SE REFORMA LA LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 11 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 261.- SE REFORMA LA LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
