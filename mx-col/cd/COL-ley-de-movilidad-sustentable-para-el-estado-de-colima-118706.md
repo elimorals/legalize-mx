@@ -4,7 +4,7 @@ identifier: "COL-ley-de-movilidad-sustentable-para-el-estado-de-colima-118706"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-30"
-last_updated: "2023-01-14"
+last_updated: "2023-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
 
 Ley publicada en la Edición Especial Extraordinaria al Número 7 del Periódico Oficial del Estado de Colima, el lunes 30 de enero de 2017.
 
@@ -1935,13 +1935,45 @@ b. Realizar alto total a una distancia de cinco metros antes de las vías y mant
 
 XXV. Ascender o descender del vehículo sobre el carril contiguo a la acera, en caso de encontrarse un carril confinado para transporte público o ciclista se realizará en la calle transversal siguiente. En caso de que tenga que hacerlo del lado izquierdo extremará precauciones al abrir o cerrar las portezuelas, sin sobrepasar las rayas de división de carril de manera que no haga un corte de circulación y con las luces de advertencia o intermitencia
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
 
-XXVI. Respetar los límites de velocidad establecidos en la señalización vial. A falta de señalamiento restrictivo específico, se estará a los límites de velocidad establecidos en la presente Ley; y
+XXVI. Respetar los límites de velocidad establecidos en la señalización vial. A falta de señalamiento restrictivo específico, se estará a los límites de velocidad establecidos en la Ley General de Movilidad y Seguridad Vial.
 
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+El establecimiento de límites de velocidad con base en evidencia científica de carácter nacional o internacional, a fin de mantenerlas por debajo de un umbral de seguridad indispensable para salvaguardar la vida y la integridad de las personas usuarias; por lo que las velocidades máximas no deberán rebasar las siguientes:
 
-XXVII. Abstenerse de transportar personas sobre la caja, la canastilla y en el exterior del vehículo, salvo que se realice en número y en condiciones tales que garanticen la integridad física de los mismos, así como transportar a un número mayor de personas que el especificado en la tarjeta de circulación.
+a) 30 km/h en calles secundarias y calles terciarias;
+
+b) 50 km/h en avenidas primarias sin acceso controlado;
+
+c) 80 km/h en carriles centrales de avenidas de acceso controlado;
+
+d) 80 km/h en carreteras estatales fuera de zonas urbanas;
+
+e) 50 km/h dentro de zonas urbanas;
+
+f) 110 km/h para automóviles, 95 km/h para autobuses y 80 km/h para transporte de bienes y mercancías en carreteras y autopistas de jurisdicción federal; y
+
+g) Ninguna intersección, independientemente de la naturaleza de la vía, podrá tener velocidad de operación mayor a 50 km/h en cualquiera de sus accesos;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
+
+XXVII. Abstenerse de transportar personas sobre la caja, la canastilla y en el exterior del vehículo, salvo que se realice en número y en condiciones tales que garanticen la integridad física de los mismos, así como transportar a un número mayor de personas que el especificado en la tarjeta de circulación;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2023)</small>
+
+XXVIII. Que cualquier persona menor de doce años o que por su constitución física lo requiera, viaje en los asientos traseros con un sistema de retención infantil o en un asiento de seguridad que cumpla con los requisitos establecidos en la Norma Oficial Mexicana aplicable;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2023)</small>
+
+XXIX. La utilización del cinturón de seguridad de forma obligatoria para todos los pasajeros de vehículos motorizados, de acuerdo con los requisitos establecidos en la Norma Oficial Mexicana aplicable. El uso obligatorio de casco para personas conductoras y pasajeros de motocicletas que cumpla con la Norma Oficial Mexicana aplicable en la materia;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2023)</small>
+
+XXX. La prohibición de hablar por teléfono celular o cualquier otro dispositivo electrónico o de comunicación, así como leer y/o enviar mensajes de texto por medio de cualquier tipo de dispositivo electrónico, salvo que se realice mediante tecnología de manos libres; y
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2023)</small>
+
+XXXI. En el caso de que sea necesaria la utilización de dispositivos electrónicos o de comunicación para la prestación del servicio de transporte, el teléfono celular o cualquier otro tipo de dispositivo electrónico deberá estar debidamente colocado en un sujetador que facilite su manipulación y que no obstaculice la visibilidad al conducir.
 
 2. El incumplimiento de las obligaciones dispuestas en este artículo por parte de conductores de vehículos motorizados se sancionaraí (sic) de acuerdo a la Ley y el Reglamento correspondiente.
 
@@ -6526,3 +6558,9 @@ P.O. 14 DE ENERO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO. El Ejecutivo del Estado y los municipios, en el ámbito de sus respectivas competencias, contarán con un plazo de 180 días naturales para realizar las adecuaciones necesarias a los Reglamentos de la materia, acorde a lo dispuesto en el presente decreto.
+
+P.O. 11 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 248.- POR EL QUE SE REFORMAN LAS FRACCIONES XXVI Y XXVII, SE ADICIONAN CUATRO FRACCIONES, PASANDO HACER ESTAS LAS XXVIII, XXIX, XXX Y XXXI AL ARTÍCULO 82 DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
