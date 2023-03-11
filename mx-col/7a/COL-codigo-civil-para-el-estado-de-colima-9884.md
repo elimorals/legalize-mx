@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2022-12-03"
+last_updated: "2023-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -2359,13 +2359,9 @@ ART. 299.- En la línea recta los grados se cuentan por el número de generacion
 
 ART. 300.- En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideran, excluyendo la del progenitor o tronco común.
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2023)</small>
 
-ART. 300 BIS.- Los integrantes de la familia en particular, niñas, niños y adolescentes, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con objeto de contribuir a su sano desarrollo para una plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes vigentes.
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2022)</small>
-
-Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar. Entendiendo como violencia familiar y como miembros de la familia, lo establecido en el artículo 25 de la Ley para la Prevención y Atención a la Violencia Familiar para el Estado de Colima.
+ART. 300 BIS.- Los integrantes de la familia, especialmente las niñas, niños y adolescentes, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con objeto de contribuir a su sano desarrollo para una plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes vigentes. Los integrantes de la familia están obligados a evitar conductas que generen violencia intrafamiliar. Entendiendo como violencia intrafamiliar y como miembros de la familia, lo establecido en el artículo 25 de la Ley para la Prevención y Atención a la Violencia Intrafamiliar para el Estado de Colima.
 
 ### CAPITULO II. De los alimentos
 
@@ -10009,13 +10005,105 @@ ART. 2555.- En el caso previsto en el artículo anterior, cada uno de los intere
 
 ### CAPITULO V. Del contrato de hospedaje
 
-ART. 2556.- El contrato de hospedaje tiene lugar cuando alguno presta a otro albergue, mediante la retribución convenida, comprendiéndose o no, según se estipule, los alimentos y demás gastos que origine el hospedaje.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2023)</small>
 
-ART. 2557.- Este contrato se celebrará tácitamente, si el que presta el hospedaje tiene casa pública destinada a ese objeto.
+ART. 2556.- El contrato de hospedaje es aquél por medio del cual una persona llamada hotelero se compromete a brindar alojamiento por un tiempo determinado a otra persona llamada huésped.
 
-ART. 2558.- El hospedaje expreso se rige por las condiciones estipuladas y el tácito por el reglamento que expedirá la autoridad competente y que el dueño del establecimiento deberá tener siempre por escrito en lugar visible.
+En el contrato de hospedaje, además del alojamiento, podrán añadirse otros servicios que preste el hotelero por un precio adicional o por el mismo precio del alojamiento, según lo pacten las partes.
 
-ART. 2559.- Los equipajes de los pasajeros responden preferentemente del importe del hospedaje; a ese efecto, los dueños de los establecimientos donde se hospeden podrán retenerlos en prenda hasta que obtengan el pago de lo adeudado.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2023)</small>
+
+ART. 2557.- Es tácito el contrato de hospedaje cuando:
+
+I.- No haya convenio entre las partes donde se estipulen las condiciones del mismo;
+
+II.- Exista un comportamiento recíproco del huésped y del hotelero que implique una relación de hospedaje; o
+
+III.- Que el inmueble del hotelero donde se aloja el huésped se destine cotidianamente a ese objeto, pero no se hayan ofertado públicamente las condiciones del hospedaje.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2023)</small>
+
+ART. 2558.- Es expreso el contrato de hospedaje, siempre que las partes hayan estipulado fehacientemente las condiciones del mismo o cuando el hotelero oferte públicamente sus servicios como tal, ofreciendo determinados servicios y calidad de hospedaje por una determinada retribución cierta.
+
+El contrato de hospedaje expreso deberá realizarse por escrito. La falta de este requisito y de forma será imputable al hotelero.
+
+El contrato de hospedaje deberá contener:
+
+I.- Nombre del hotelero y su representante;
+
+II.- Nombre del huésped;
+
+III.- Domicilio de ambos;
+
+IV.- Lugar de procedencia del huésped;
+
+V.- Tiempo de duración del contrato de hospedaje;
+
+VI.- El precio determinado;
+
+VII.- Características de la habitación donde se prestará el hospedaje;
+
+VIII.- Servicios que presta por el precio pactado;
+
+IX.- Servicios adicionales que puede contratar el huésped por un precio adicional; y
+
+X.- Firma del huésped y del hotelero o su representante.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2023)</small>
+
+ART. 2559.- A falta de pago por concepto de hospedaje, y cuando no se haya retenido por cualquier causa el equipaje al huésped, se podrá exigir el pago ante la autoridad judicial competente.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2023)</small>
+
+ART. 2559.- BIS. Son derechos y obligaciones del empresario hotelero:
+
+I.- Proporcionar al huésped la habitación o estancia donde habrá de alojarse;
+
+II.- La habitación o estancia deberá estar en condiciones de limpieza e higiene que permitan cumplir con el objeto del contrato de hospedaje;
+
+III.- Garantizar al huésped un alojamiento seguro, tranquilo, cómodo y útil;
+
+IV.- Otorgar los servicios adicionales establecidos en el contrato en las condiciones pactadas;
+
+V.- Dar aviso al huésped para que desocupe la habitación, estancia o inmueble, por falta de pago. Dentro de las siguientes veinticuatro horas;
+
+VI.- Pedir auxilio de la fuerza pública, para que el huésped desocupe la habitación, estancia o inmueble, por falta de pago;
+
+VII.- A rescindir anticipadamente el contrato por falta de pago;
+
+VIII.- Suspender los servicios, incluso el de alojamiento y retener el equipaje por falta de pago por concepto de hospedaje;
+
+IX.- Exigir el pago por concepto de hospedaje ante la autoridad judicial competente;
+
+X.- No condicionar la prestación del servicio de hospedaje, al consumo de cualquier otro servicio. Salvo los casos en que los establecimientos ofrezcan paquetes de servicios turísticos parcial totalmente incluidos; y
+
+XI.- Las demás aplicables en la Ley y el Reglamento de hospedaje.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2023)</small>
+
+ART. 2559.- BIS 1. Son derechos y obligaciones del huésped:
+
+I.- Pagar un precio cierto por el hospedaje convenido;
+
+II.- Recibir los servicios adicionales y calidad del hospedaje contratados;
+
+III.- Desocupar la habitación o inmueble, en el tiempo estipulado;
+
+IV.- Pagar los daños y perjuicios que ocasione a la habitación o instalaciones del inmueble;
+
+V.- A recibir el pago de daños y perjuicios, cuando el incumplimiento sea imputable al empresario hotelero;
+
+VI.- Recibir la habitación o estancia de alojamiento, en condiciones de limpieza e higiene;
+
+VII.- Según las condiciones del servicio contratado, no introducir a la habitación o estancia de alojamiento, ningún tipo de sustancias prohibidas, consumir drogas, enervantes o psicotrópicos, ni armas de fuego;
+
+VIII.- Depositar en la caja de valores, dinero, alhajas, objetos personales y de precio notoriamente elevado; y
+
+IX.- Las demás aplicables en la Ley y el Reglamento de hospedaje.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2023)</small>
+
+ART. 2559.- BIS 2. Cuando el huésped permanezca por más tiempo del pactado en el contrato indefinidamente, en las mismas condiciones del contrato inicial. Esta prórroga continuará hasta que no exista el aviso por parte del empresario hotelero o la desocupación voluntaria por el huésped, y no se le dé aviso para que desocupe, se entenderá que el contrato está prorrogado.
 
 TITULO DECIMOPRIMERO
 
@@ -11866,3 +11954,19 @@ P.O. 3 DE DICIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Colima.
+
+P.O. 11 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 249.- POR EL QUE SE REFORMA EL ARTÍCULO 108 FRACCIÓN IV DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO 300 BIS DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 11 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 251.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 2556, 2557, 2558 Y 2559 Y SE ADICIONAN LOS ARTÍCULOS 2559 BIS, 2559 BIS 1 Y 2559 BIS 2 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
