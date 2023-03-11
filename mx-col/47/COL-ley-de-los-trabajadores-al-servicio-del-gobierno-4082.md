@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2022-12-17"
+last_updated: "2023-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -521,9 +521,9 @@ Durante su embarazo, las mujeres no realizarán trabajos que exijan un esfuerzo 
 
 Durante la lactancia, las madres trabajadoras tendrán derecho a dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos o hijas, en lugar adecuado e higiénico que designe la empresa, o bien, cuando esto no sea posible, previo acuerdo con el patrón se reducirá en una hora su jornada de trabajo durante el período señalado.
 
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2023)</small>
 
-Esta prerrogativa será vigente hasta que la o el recién nacido cumpla los seis meses de edad, y podrán optar por solicitar la continuidad del permiso de lactancia como alimentación complementaria en caso de que así lo requieran hasta los dos años de edad de sus hijas o hijos.
+Esta prerrogativa será vigente hasta que la o el recién nacido cumpla los seis meses de edad, y podrán optar por solicitar la continuidad del permiso de lactancia como alimentación complementaria en caso de que así lo requieran hasta los dos años de edad de sus hijas o hijos. Además, las madres y padres disfrutarán el servicio de guarderías infantiles como lo señala el artículo 123, apartado B, fracción XI inciso C de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO 95 PUBLICADO EN EL P.O. 4 DE JUNIO DE 2022, Y DEL ANÁLISIS A LA INICIATIVA DE ESE DECRETO, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO FUE ADICIONADO; VÉASE PÁGINAS DE LA 9 A LA 17. ASIMISMO SE SUGIERE CONSULTAR LA PÁGINA DEL CONGRESO DEL ESTADO DE COLIMA https://www.congresocol.gob.mx/web/www/leyes/index.php]</small>
 
@@ -675,7 +675,9 @@ d).- A trabajadores que sufran enfermedades no profesionales, en los términos d
 
 IX.- Otorgar pensiones a los trabajadores en los términos de la Ley de Pensiones de los Servidores Públicos del Estado de Colima;
 
-X.- Cubrir las aportaciones que fijen las leyes especiales, para que los trabajadores reciban los beneficios de la seguridad y servicios sociales;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
+
+X.- Cubrir las aportaciones que fijen las leyes especiales, para que los trabajadores reciban los beneficios de la seguridad, servicios sociales y servicio de guarderías señalada en el artículo 123, apartado B, fracción XI inciso C de la Constitución Política de los Estados Unidos Mexicanos;
 
 XI.- Reinstalar a los trabajadores en las plazas de las cuales los hubieren separado y ordenar el pago de los sueldos caídos, a que fueren condenados por laudo ejecutoriado. En los casos de supresión de plazas, el trabajador tendrá derecho a optar porque se le otorgue otra similar o recibir la indemnización correspondiente;
 
@@ -2082,3 +2084,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO
 
 Los procedimientos laborales previstos en el Capítulo II, del Título Quinto, de la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima, en trámite y pendientes de emplazamiento a la entrada en vigor del presente Decreto, se substanciarán atendiendo al plazo previsto en la presente reforma para contestar la demanda; en tanto que, los procedimientos laborales en los que ya se hubiere practicado el emplazamiento a la entrada en vigor del presente Decreto, se substanciarán en términos de la legislación vigente al momento de haberse realizado el emplazamiento en cita.
+
+P.O. 11 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 254.- POR EL QUE SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 54, ASÍ COMO, LA FRACCIÓN X DEL ARÁBIGO 69 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los entes patronales señalados en esta Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima, que no cuenten con servicio de guardería a que tienen derecho las personas, derecho habientes del Instituto Mexicano del Seguro Social, deberán realizar las acciones tendientes a garantizar ese derecho, en su caso, la suscripción de convenios y/o contratos con los entes públicos necesarios o en su caso, con los particulares que brinden este servicio.
+
+TERCERO.- Los entes patronales que, en su caso, no establezcan para el ejercicio fiscal 2023 una partida presupuestal para brindar el servicio de guardería, deberán realizar los ajustes presupuestales a fin de garantizar dicho derecho.
+
+CUARTO.- El servicio de guardería que presten los entes patronales señalados en esta Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima, deberán observar y cumplir en todo momento lo establecido en la Ley de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil del Estado de Colima.
