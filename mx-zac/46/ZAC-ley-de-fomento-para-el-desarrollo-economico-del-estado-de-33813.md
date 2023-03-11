@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fomento-para-el-desarrollo-economico-del-estado-de-33813
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-16"
-last_updated: "2021-12-29"
+last_updated: "2023-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 16 de agosto de 2003.
 
@@ -107,7 +107,9 @@ La presente ley es de orden público y de observancia general en el Estado de Za
 
 La reglamentación a que se refiere al artículo anterior, incluye la obligación que el Estado tiene, respecto a la acción de articular el desarrollo democrático, fundado en el constante mejoramiento de las condiciones de vida en lo económico, lo social y cultural, y tiene por objeto definir las bases para:
 
-I. Promover el desarrollo económico de la entidad a través de incentivar la competitividad del sector productivo y el fomento al empleo permanente y remunerativo, con mecanismos jurídicos y administrativos que estimulen la inversión;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
+
+I. Promover el desarrollo económico de la entidad a través de incentivar la competitividad del sector productivo y el fomento al empleo permanente y remunerativo bajo los principios de igualdad social, paridad de género e inclusión, con mecanismos jurídicos y administrativos que estimulen la inversión;
 
 II. Definir los esquemas, estrategias y líneas de acción que permitan la concurrencia responsable de los sectores público, social y privado en actividades productivas que lleven a una más justa distribución del ingreso para atenuar así las desigualdades sociales;
 
@@ -117,9 +119,9 @@ IV. Generar las condiciones para la formación y desarrollo de las micro, median
 
 V. Integrar las cadenas productivas en una dinámica en la que las empresas se fortalezcan entre sí, para hacer más efectiva la función de proveer insumos y servicios en beneficio de la rentabilidad económica y competitiva a favor de los consumidores de bienes y servicios;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
 
-VI. Ofrecer un marco jurídico, que bajo criterios de equidad social, productividad y respeto a los derechos humanos, garantice la certidumbre a la inversión en todo el proceso productivo;
+VI. Ofrecer un marco jurídico, que bajo criterios de igualdad social, productividad y respeto a los derechos humanos de inclusión laboral y paridad de género, garantice la certidumbre a la inversión en todo el proceso productivo;
 
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2021)</small>
 
@@ -183,9 +185,9 @@ III. Ejecutivo del Estado.- Al Gobernador del Estado de Zacatecas;
 
 IV. Secretaría.- A la Secretaría de Economía;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
 
-V. Unidad.- A la Unidad de Planeación del Titular del Poder Ejecutivo del Estado;
+V. Coordinación de Planeación.- A la Coordinación Estatal de Planeación del Titular del Poder Ejecutivo del Estado;
 
 VI. Sector Público.- Dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
 
@@ -273,9 +275,9 @@ V. Remitir a la Legislatura la iniciativa de Presupuesto de Egresos que sustente
 
 VI. Aplicar las disposiciones de la presente ley, por conducto de la Secretaría.
 
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
 
-VII. Promover políticas públicas encaminadas a fortalecer los derechos humanos en las empresas públicas y privadas, así como elaborar las iniciativas de ley, decreto y reglamento que correspondan.
+VII. Promover políticas públicas encaminadas a fortalecer los derechos humanos de igualdad, inclusión y paridad de género en las empresas públicas y privadas, que permita incorporar a sus estructuras y plantillas laborales a personas integrantes de algún grupo en situación de vulnerabilidad, así como elaborar las iniciativas de ley, decreto y reglamento que correspondan.
 
 ###### ARTÍCULO 7.
 
@@ -311,7 +313,9 @@ X. Nombrar y remover a los servidores públicos de la Secretaría y asignarles t
 
 XI. Proponer al Ejecutivo del Estado lineamientos de carácter fiscal y financiero para promover el desarrollo económico del Estado;
 
-XII. Promover y apoyar las MIPYMES;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
+
+XII. Promover y apoyar de manera prioritaria a las MIPYMES;
 
 XIII. Estimular la creación de empresas integradoras y el fortalecimiento de las cadenas productivas;
 
@@ -321,9 +325,13 @@ XV. Diseñar los programas de contingencia económica cuando resulte necesario, 
 
 XVI. Ceñir su actuación a lo que disponga la ley, su reglamento interior, y demás disposiciones normativas.
 
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
 
-XVII. Promover en las empresas un programa de respeto a los derechos humanos, acorde a los tratados internacionales, la legislación en la materia y las recomendaciones de la Comisión Nacional de Derechos Humanos.
+XVII. Promover en las empresas un programa de respeto a los derechos humanos de inclusión en donde se establezca la obligatoriedad de integrar en su estructura organizacional y operativa a trabajadores, en condiciones de paridad de género a adultos mayores, madres jefas de familia, personas con alguna discapacidad, así como integrantes de grupos de la diversidad sexual, de acuerdo a los servicios que presten, todo dentro del marco jurídico y acorde a los tratados internacionales, la legislación en la materia, las acciones afirmativas que se emitan y las recomendaciones de la Comisión Nacional de Derechos Humanos.
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2023)</small>
+
+XVIII. Promover e implementar los mecanismos de capacitación, promoción y apoyo financiero necesario a las empresas que tengan como finalidad la promoción turística y prestación de servicios relacionados con el ramo;
 
 ###### ARTÍCULO 9.
 
@@ -357,7 +365,9 @@ III. El Secretario de la Función Pública del Gobierno del Estado;
 
 IV. El Delegado de la Secretaría de Economía;
 
-V. El Director del Consejo Zacatecano de Ciencia y Tecnología.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2023)</small>
+
+V. El Director del Consejo Zacatecano de Ciencia, Tecnología e Innovación.
 
 VI. El Presidente de la Coparmex.
 
@@ -376,6 +386,10 @@ XII. El Presidente de la Asociación de Hoteles y Moteles de Zacatecas.
 XIII. El Rector de la Universidad Autónoma de Zacatecas ,y (sic) cuando se requiera el análisis de un tema especial concurrirá por invitación el personal correspondiente;
 
 XIV. El Director General del ITESM.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2023)</small>
+
+Todos con derecho a voz y voto en las deliberaciones del mismo.
 
 ###### ARTÍCULO 14.
 
@@ -417,9 +431,11 @@ XVI. Planear y promover la creación, construcción y administración de parques
 
 Para el cumplimiento de sus funciones, el Consejo podrá recurrir en consulta a los organismos federales, estatales y municipales, que tengan relación con la promoción y el fomento de la competitividad y del desarrollo económico y social de la entidad.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 16.
 
-Para su operación y funcionamiento el Consejo expedirá su reglamento interior, que le permita regular de manera adecuada las funciones inherentes al mismo.
+Para su operación y funcionamiento el Consejo expedirá su reglamento interior, que le permita regular de manera adecuada las funciones inherentes al mismo, generando la protección más amplia y visualizando de manera prioritaria el fomento al desarrollo de las micro, pequeñas y medianas empresas en el Estado, dando atención preferente a todas aquellas que tengan como finalidad la promoción de aquellos municipios con vocación turística.
 
 ## TÍTULO SEGUNDO. DE LAS ACCIONES PARA FOMENTAR LA COMPETITIVIDAD DEL APARATO PRODUCTIVO
 
@@ -874,3 +890,19 @@ Las reglas específicas de operación para el Fondo de Inversión Pública Munic
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 11 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 192.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan las disposiciones que contravengan el presente instrumento.
+
+P.O. 11 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 193.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan las disposiciones que contravengan el presente instrumento.
