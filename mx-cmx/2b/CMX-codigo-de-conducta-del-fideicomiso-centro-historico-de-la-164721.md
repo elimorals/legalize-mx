@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-del-fideicomiso-centro-historico-de-la-16472
 country: "mx"
 rank: "codigo"
 publication_date: "2023-03-01"
-last_updated: "2023-03-01"
+last_updated: "2023-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164721&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,15 @@ issue_date: "2023-02-22"
 ---
 # CODIGO DE CONDUCTA DEL FIDEICOMISO CENTRO HISTORICO DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL GOBIERNO DE LA CIUDAD DE MÉXICO EN: https://centrohistorico.cdmx.gob.mx/storage/app/media/Normativa%20di-vrsa/codigo-de-conductafch2023.pdf.]</small>
+> <small>(F. DE E., G.O. 13 DE MARZO DE 2023)</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE MARZO DE 2023 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL GOBIERNO DE LA CIUDAD DE MÉXICO EN: https://centrohistorico.cdmx.gob.mx/storage/app/media/Normativa%20divrsa/codigo-de-conducta-fch2023.pdf]</small>
 
 CÓDIGO DE CONDUCTA DEL FIDEICOMISO CENTRO HISTÓRICO DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 13 DE MARZO DE 2023.]</small>
 
 Código publicado en el Número 1055 de la Gaceta Oficial de la Ciudad de México, el miércoles 1 de marzo de 2023.
 
@@ -52,7 +54,13 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conoc
 
 SEGUNDO.- El presente código podrá ser consultado en el enlace siguiente:
 
-Aviso por el cual se da a conocer el enlace electrónico donde podrá ser consultado el código de conducta del Fideicomiso Centro Histórico de la Ciudad de México: https://centrohistorico.cdmx.gob.mx/storage/app/media/Normativa%20di-vrsa/codigo-de-conductafch2023.pdf
+> <small>(F. DE E., G.O. 13 DE MARZO DE 2023)</small>
+
+Aviso por el cual se da a conocer el enlace electrónico correcto donde podrá ser consultado el código de conducta del Fideicomiso Centro Histórico de la Ciudad de México:
+
+> <small>(F. DE E., G.O. 13 DE MARZO DE 2023)</small>
+
+https://centrohistorico.cdmx.gob.mx/storage/app/media/Normativa%20divrsa/codigo-de-conducta-fch2023.pdf
 
 TERCERO.- El presente Aviso entrará en vigor el día de su publicación.
 
