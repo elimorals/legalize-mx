@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2023-02-20"
+last_updated: "2023-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -3233,7 +3233,13 @@ VII. Promover y regular la participación de la ciudadanía en los programas de 
 
 VIII. Vigilar y regular el servicio de limpia y recolección de residuos sólidos, por sí o por conducto de terceras personas a través de concesiones o convenios.
 
-IX. Regular y vigilar los mecanismos, instrumentos y procedimientos para la prestación de los servicios de limpia y recolección, transportación, alojamiento, reúso, tratamiento, confinamiento y disposición final de residuos no peligrosos.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2023)</small>
+
+IX. De conformidad con la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas:
+
+a) Gestionar el registro de fosas comunes del Municipio, y su actualización, en el Registro Nacional de Fosas Comunes y de Fosas Clandestinas; y
+
+b) Colaborar con las autoridades competentes en materia de búsqueda de personas, así como permitir a dichas autoridades realizar inspecciones de cementerios, fosas comunes y todo sitio a cargo de la Secretaría, en que se encuentren cuerpos o restos humanos e indicios biológicos sin identificar.
 
 X. Promover y fomentar la participación corresponsable de la sociedad tendiente a mantener la limpieza de la vía pública municipal y recolección de residuos sólidos que se generen.
 
@@ -3269,9 +3275,9 @@ III. Prevenir la comisión de delitos e infracciones a las leyes y reglamentos a
 
 IV. Colaborar en la investigación y persecución de los delitos, siendo auxiliar del Ministerio Público, del Poder Ejecutivo y del Poder Judicial, tanto federales como del Estado, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2023)</small>
 
-V. Vigilar, aplicar y hacer cumplir, en el ámbito de su competencia, las disposiciones contenidas en la Ley de Vialidad del Estado de Aguascalientes y en el Reglamento de Tránsito del Municipio de Aguascalientes;
+V. Vigilar, aplicar y hacer cumplir, en el ámbito de su competencia, las disposiciones contenidas en la Ley de Movilidad del Estado de Aguascalientes y en el Reglamento de Movilidad del Municipio de Aguascalientes;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -3325,9 +3331,23 @@ XVII. Aplicar sistemas de prevención a través de actividades encaminadas a evi
 
 XVIII. Sistemas de reacción mediante acciones dirigidas a garantizar, mantener y restablecer el orden y la paz pública; así como las medidas de seguridad y especializadas para el fortalecimiento de la seguridad en el uso adecuado de las TICS
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2023)</small>
 
-XIX. Las demás que le otorgue el presente Código y las leyes de la materia o le encomiende el H. Ayuntamiento por conducto del presidente Municipal
+XIX. De conformidad con la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas:
+
+a) Atender reportes de personas desaparecidas o no localizadas, teniendo la disposición inmediata de personal especializado y capacitado en materia de búsqueda de personas, debiendo contar también con grupos de búsqueda.
+
+Dicho personal y grupos de búsqueda actuarán conforme al Protocolo Homologado para la Búsqueda de Personas Desparecidas y No Localizadas, y en su caso, al protocolo especializado que corresponda;
+
+b) Elaborar los estudios y el programa referidos en el artículo 166 de la Ley General en cita;
+
+c) Elaborar e impartir los programas obligatorios de capacitación referidos en el artículo 167 de la Ley General en cita; y
+
+d) Colaborar con las autoridades competentes en materia de búsqueda de personas.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 13 DE MARZO DE 2023)</small>
+
+XX. Las demás que le otorgue el presente Código y las leyes de la materia o le encomiende el H. Ayuntamiento por conducto del presidente Municipal.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
@@ -6395,6 +6415,10 @@ La inhumación, incineración o cremación cuando la haya, se efectuará en los 
 
 Los restos humanos remitidos a los panteones de interés social para su inhumación, por hospitales dependientes del Estado o del Municipio, no causarán el pago de los derechos correspondientes, requiriéndose en todo caso la exhibición del certificado médico de defunción. La inhumación se llevará a cabo en fosa común o según lo ordene la autoridad competente.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2023)</small>
+
+Tratándose de cadáveres o restos humanos sin identificar, previo a ser inhumados en fosa común, se deberá cumplir con el protocolo a que refiere el artículo 118 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
 ###### ARTÍCULO 462.
 
 Los cadáveres deberán embalsamarse, inhumarse, incinerarse o cremarse dentro de las cuarenta y ocho horas posteriores al fallecimiento, salvo autorización de la autoridad sanitaria, disposición del Ministerio Público o de la autoridad judicial.
@@ -6409,13 +6433,17 @@ Ninguna exhumación podrá verificarse antes de transcurrido seis años mínimo 
 
 Cuando la exhumación obedezca al traslado de los restos de un lugar a otro del panteón, la reinhumación se hará inmediatamente previo pago de derechos de exhumación.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 465.
 
-Cuando la inhumación se realice al concluir los plazos a que se refiere este Código, se considerará como restos áridos, por lo que no requerirá de autorización alguna, debiendo depositar los restos en el lugar que señalen los deudos, o en el osario común si se trata de restos no reclamados por persona alguna.
+Cuando la exhumación se realice al concluir los plazos a que se refiere el artículo 463 de este Código, el cuerpo se considerará como restos áridos, por lo que no requerirá de autorización alguna, debiendo depositar los restos en el lugar que señalen los deudos, o en fosa común si se trata de restos no reclamados por persona alguna, en este último caso, previo al depósito en fosa común, se deberá informar a las autoridades competentes para efectos de lo que disponga la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
 
 ###### ARTÍCULO 466.
 
 Los cadáveres no pueden ser objeto de propiedad y siempre serán objeto de respeto y consideración.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 467.
 
@@ -6425,7 +6453,11 @@ I. De personas conocidas.
 
 II. De personas desconocidas.
 
-Los cadáveres no reclamados dentro de las setenta y dos horas posteriores al fallecimiento y aquellos de los que se ignore su identidad serán considerados como de personas desconocidas y podrán ser donados a instituciones educativas con fines de docencia e investigación, previa autorización de la autoridad sanitaria. También podrán ser donados los cadáveres en los que el disponente originario haya otorgado su consentimiento por escrito, mismo que no podrá ser revocado por los disponentes secundarios.
+Los cadáveres no reclamados dentro de las setenta y dos horas posteriores al fallecimiento y aquellos de los que se ignore su identidad serán considerados como de personas desconocidas.
+
+Se deberá permitir a las autoridades competentes recabar las muestras necesarias de los cadáveres o restos de personas desconocidas, para ingresar los datos respectivos al Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas, asimismo, no pueden incinerarse, destruirse ni desintegrarse y previo a ser inhumados, se deberá cumplir con los protocolos aplicables de conformidad con la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+En el caso de inhumación de cadáveres o restos de personas desconocidas, se tomarán las medidas necesarias para asegurar que ésta sea digna, en una fosa individualizada, con las medidas que garanticen toda la información requerida para el adecuado registro y en un lugar claramente identificado que permita su posterior localización.
 
 ###### ARTÍCULO 468.
 
@@ -6439,11 +6471,11 @@ La internación de cadáveres al territorio del Municipio y su traslado a otro M
 
 Para la práctica de necropsias en cadáveres de seres humanos, se requiere la orden del Ministerio Publico, de la autoridad judicial o autorización del disponente secundario correspondiente, salvo que exista orden por escrito del disponente originario.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 471.
 
-Las instituciones educativas que obtengan cadáveres de personas desconocidas, serán depositarias de ellos durante diez días, con objeto de dar oportunidad al cónyuge, concubinario, concubina o familiares para reclamarlos. En este lapso los cadáveres permanecerán en las instituciones y únicamente recibirán el tratamiento para su conservación y el manejo sanitario que señalen las disposiciones respectivas.
-
-Una vez concluido el plazo correspondiente, sin reclamación, serán consideradas las instituciones educativas como disponentes secundarios.
+La donación de cadáveres para trasplantes o para instituciones educativas con fines de docencia e investigación, se sujetará a lo previsto en la Ley General de Salud.
 
 ###### ARTÍCULO 472.
 
@@ -24708,3 +24740,9 @@ P.O. 23 DE ENERO DE 2023.
 P.O. 20 DE FEBRERO DE 2023.
 
 > <small>[N. DE E. LA “DEROGACIÓN DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 12, ASÍ COMO LA ADICIÓN DEL CAPÍTULO XI A DENOMINARSE: DE LA APROBACIÓN DE LAS CUENTAS PÚBLICAS, EN CONJUNTO CON EL ARTÍCULO 96 BIS AL TÍTULO PRIMERO DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.]</small>
+
+P.O. 13 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL, AL REGLAMENTO DE PANTEONES Y AL REGLAMENTO DE JUSTICIA CÍVICA PARA EL MUNICIPIO DE AGUASCALIENTES, A FIN DE LOGRAR SU ARMONIZACIÓN CON LA NORMATIVA EN MATERIA DE BÚSQUEDA DE PERSONAS DESAPARECIDAS O NO LOCALIZADAS”.]
+
+ÚNICO.- Las presentes reformas y adiciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
