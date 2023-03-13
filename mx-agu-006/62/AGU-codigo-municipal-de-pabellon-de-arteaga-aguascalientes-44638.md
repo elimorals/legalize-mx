@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2023-02-27"
+last_updated: "2023-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2023.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -3015,7 +3015,9 @@ c).- Coordinación de Atención;
 
 d).- Coordinación de Programas;
 
-e).- Coordinación de Servicios Médicos y Salud Mental;
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2023)</small>
+
+e).- Coordinación de Servicios Médicos;
 
 (REPUBLICADA [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)
 
@@ -3054,6 +3056,14 @@ a).- Departamento de Manejo Forestal y de Áreas Verdes;
 b).- Departamento de Planeación y Gestión Ambiental, y
 
 c).- Departamento de Control y Bienestar Animal.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 13 DE MARZO DE 2023)</small>
+
+XV.- Instituto Municipal de Salud Mental de Pabellón de Arteaga
+
+a) Coordinación General
+
+b) Departamento de Área Clínica
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -5137,15 +5147,27 @@ LIV.- Promover y llevar a cabo campañas de esterilización de mascotas, control
 
 LV.- Las demás que le señalen el presente código y demás normatividad aplicable en la materia.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 13 DE MARZO DE 2023)</small>
+
+#### SECCIÓN DÉCIMA CUARTA. Del Instituto Municipal de Salud Mental de Pabellón de Arteaga
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2023)</small>
+
+ARTICULO 222 QUINQUIES.- Corresponde al Instituto Municipal de Salud Mental de Pabellón de Arteaga:
+
+I. Promover la atención a la Salud Mental entre los habitantes del Municipio de Pabellón de Arteaga, derecho consagrado en la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Promover las acciones tendientes a prevenir y atender los trastornos de la Salud Mental independientemente de su causa;
+
+III. Promover, evaluar, elaborar, apoyar e impulsar la aplicación de políticas públicas, estrategias y acciones dirigidas al sostenimiento y promoción de la Salud Mental en todos los grupos sociales independientemente de la edad, género, nivel educativo y socioeconómico; y
+
+IV. Las demás funciones que se desprendan de la normatividad aplicable, así como las que le confiera el Ayuntamiento o el Presidente Municipal.
+
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 #### SECCION PRIMERA. Del Consejo Directivo
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
-
-#### SECCION SEGUNDA. Del Consejo Consultivo
-
-> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA PARAESTATAL Y DESCONCENTRADA
 
@@ -10289,7 +10311,7 @@ VI.- El personal técnico y administrativo que se requiera para su funcionamient
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-#### SECCION TERCERA. Del Director General
+#### SECCION SEGUNDA. Del Consejo Consultivo
 
 > <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
@@ -10531,7 +10553,9 @@ Con base en la verificación hecha y en el dictamen sobre la denuncia, el Presid
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-#### SECCION CUARTA. Del control de los recursos
+#### SECCION TERCERA. Del Director General
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 628.
 
@@ -10597,9 +10621,7 @@ IX.- Las demás que le señale el presente Título o les delegue el H. Ayuntamie
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-#### SECCION PRIMERA. Definiciones
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+#### SECCION CUARTA. Del control de los recursos
 
 ###### ARTICULO 632.
 
@@ -10681,7 +10703,7 @@ XXX.- Las demás que le señale el Consejo Directivo, este Código, la ley de la
 
 #### SECCION PRIMERA. Definiciones
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 633.
 
@@ -14721,7 +14743,7 @@ III.- Proporcionalidad: que el uso de la fuerza sea adecuado y corresponda a la 
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION SEGUNDA. De la Amonestación
+#### SECCION PRIMERA. Definiciones
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -15111,9 +15133,9 @@ LXXIX.- Las demás que le señalen las diversas leyes en la materia, los reglame
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2019)</small>
 
-#### SECCION TERCERA. Del Arresto
+#### SECCION SEGUNDA. De la Amonestación
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 802.
 
@@ -15267,7 +15289,7 @@ Asimismo la conclusión del servicio por cualquiera de sus causas será registra
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION CUARTA. El Cambio de Adscripción
+#### SECCION TERCERA. Del Arresto
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -15403,9 +15425,9 @@ LI.- Por las demás infracciones a la Ley o el presente Código que no ameriten 
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2019)</small>
 
-#### SECCION QUINTA. De la Suspensión Temporal
+#### SECCION CUARTA. El Cambio de Adscripción
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 809.
 
@@ -15531,9 +15553,9 @@ k) Por reincidir en faltas mostrándose incorregible, a pesar de que se le hayan
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION SEXTA. De la Pérdida de Grado
+#### SECCION QUINTA. De la Suspensión Temporal
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 810.
 
@@ -15551,9 +15573,9 @@ V.- Por requerirse para mantener una buena relación e imagen con la comunidad d
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2019)</small>
 
-#### SECCION SEPTIMA. De la Destitución y Remoción
+#### SECCION SEXTA. De la Pérdida de Grado
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 811.
 
@@ -15583,9 +15605,9 @@ IX.- Por cometer una falta que amerite destitución o remoción cuando el Consej
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION PRIMERA. De las Faltas Contra la Seguridad Pública
+#### SECCION SEPTIMA. De la Destitución y Remoción
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 812.
 
@@ -15593,7 +15615,9 @@ Se impondrá la sanción de perdida de grado cuando se niegue a asistir a los cu
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
-#### SECCION SEGUNDA. De las Faltas Contra la Tranquilidad Ciudadana
+#### SECCION PRIMERA. De las Faltas Contra la Seguridad Pública
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 813.
 
@@ -28011,9 +28035,7 @@ Para los efectos de este capítulo son responsables las personas de once años o
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION TERCERA. De las Faltas Contra la Salubridad General
-
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+#### SECCION SEGUNDA. De las Faltas Contra la Tranquilidad Ciudadana
 
 ###### ARTICULO 1931.
 
@@ -28073,7 +28095,7 @@ XXVI.- Organizar o participar en peleas de animales no autorizadas.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION CUARTA. De las Faltas Contra la Moral y el Civismo
+#### SECCION TERCERA. De las Faltas Contra la Salubridad General
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -28114,6 +28136,10 @@ XII.- Molestar a las personas mediante el mal uso del teléfono, y
 XIII.- Hostigar a una persona en la vía pública mediante acecho, actos de exhibicionismo, comentarios, gestos o expresiones de connotación sexual o discriminatoria en razón del género, y cualquier práctica que vulnere la integridad de las personas o genere inseguridad en su transitar por los espacios públicos, independientemente de que haya o no contacto físico.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE ABRIL DE 2006)</small>
+
+#### SECCION CUARTA. De las Faltas Contra la Moral y el Civismo
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1933.
 
@@ -30324,3 +30350,27 @@ P.O. 27 DE FEBRERO DE 2023.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN EL INCISO E), DE LA FRACCIÓN XI, Y SE ADICIONA LA FRACCIÓN XV, INCISO A), AL ARTLCULO 203, DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Presidente Municipal deberá designar al Coordinador General del Instituto Municipal de Salud Mental de Pabellón de Arteaga, dentro de los siguientes treinta días hábiles contados a partir de que inicien su vigencia las presentes reformas y adiciones.
+
+Una vez realizada la designación, se deberán realizar los trámites respectivos para transferir, a dicho Instituto, los recursos humanos, financieros y materiales relativos al personal encargado del área de salud mental de la Coordinación de Servicios Médicos y Salud Mental, que se transforma en la Coordinación de Servicios Médicos, del Sistema para el Desarrollo Integral de la Familia municipal.
+
+TERCERO.- Todos los asuntos que se encuentren en trámite legales o administrativos, previos al inicio de la vigencia de las presentes reformas y adiciones, de los que estuviera conociendo la Coordinación de Servicios Médicos y Salud Mental, relativos a la salud mental, deberán ser culminados por la Coordinación de Servicios Médicos.
+
+CUARTO.- El Instituto Municipal de Salud Mental de Pabellón de Arteaga, dentro de los sesenta días hábiles siguientes a la designación de su Titular, deberá proponer al H. Ayuntamiento del Municipio de Pabellón de Arteaga, el Reglamento Interno del referido Instituto, así como cualquier otro instrumento normativo o reforma, con el fin de que se encuentre conforme a las presentes reformas y adiciones.
+
+QUINTO.- El personal adscrito a la Coordinación de Servicios Médicos y Salud Mental, ahora Coordinación de Servicios Médicos, del Sistema para el Desarrollo Integral de la Familia, que sea trasferido al Instituto Municipal de Salud Mental de Pabellón de Arteaga, conservará los derechos laborales que haya adquirido con anterioridad.
+
+La Dirección de Finanzas y Administración llevará a cabo todos los actos legales y administrativos que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados.
+
+SEXTO.- En el momento que inicie la vigencia legal del Reglamento y la estructura orgánica del Instituto Municipal de Salud Mental de Pabellón de Arteaga, todos los asuntos en trámite de tipo legal o administrativo, así como los recursos humanos, presupuestales y materiales, relativos a la salud mental, de la anterior Coordinación de Servicios Médicos y Salud Mental, ahora Coordinación de Servicios Médicos, del Sistema para el Desarrollo Integral de la Familia, serán competencia y pasarán a formar parte del patrimonio del citado Instituto, en los términos del presente Acuerdo.
+
+SÉPTIMO.- La Dirección de Finanzas y Administración, dentro de los 60 días hábiles siguientes a que inicie su vigencia el presente Decreto, deberá impulsar las adecuaciones presupuestales y administrativas que en su caso sean necesarias para el funcionamiento del Instituto Municipal de Salud Mental de Pabellón de Arteaga.
+
+OCTAVO.- Las referencias hechas a la Coordinación de Servicios Médicos y Salud Mental del Sistema para el Desarrollo Integral de la Familia, relativas a la salud mental, en las disposiciones reglamentarias, administrativas, contractuales y demás instrumentos legales, se entenderán realizadas al Instituto Municipal de Salud Mental de Pabellón de Arteaga.
