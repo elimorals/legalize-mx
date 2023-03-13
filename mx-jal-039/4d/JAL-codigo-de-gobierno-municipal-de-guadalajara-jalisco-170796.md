@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2023-03-06"
+last_updated: "2023-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 6 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 13 DE MARZO DE 2023.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -1345,7 +1345,9 @@ d) Impulsar y preservar las manifestaciones artísticas de la cultura popular, e
 
 e) Promover la instalación, operación y desarrollo de los talleres artesanales cuidando que se continúe con la tradición familiar o de la región, reforzando la figura del aprendiz, como el inicio de la cadena creativa del arte popular;
 
-f) Proponer, estudiar y en su caso aprobar los criterios para la imposición de los nombres de los andadores, calles, avenidas, calzadas, parques, plazas públicas, jardines, fuentes y monumentos;
+> <small>(REFORMADO, G.M. 13 DE MARZO DE 2023)</small>
+
+f) Proponer, estudiar y, en su caso, aprobar la modificación de la nomenclatura de los andadores, calles, avenidas, calzadas, parques, plazas públicas, jardines, fuentes y monumentos; conforme al Reglamento de Nomenclatura del Municipio de Guadalajara
 
 g) Fomentar la exhibición de piezas artesanales;
 
@@ -8292,3 +8294,13 @@ Tercero. Se derogan todas las disposiciones legales y administrativas que contra
 Cuarto. Las referencias o menciones contenidas en otros reglamentos o en cualquier disposición municipal, contratos, convenios o cualquier otro acto o instrumento jurídico respecto de la Comisaría de la Policía de Guadalajara, se entenderán referidas a la Comisaría de Seguridad Ciudadana de Guadalajara.
 
 Quinto. Una vez publicado el presente ordenamiento, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal de Guadalajara.
+
+G.M. 13 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO DE NOMENCLATURA DEL MUNICIPIO DE GUADALAJARA Y AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicado el presente ordenamiento, remítase mediante oficio un tanto del mismo al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
