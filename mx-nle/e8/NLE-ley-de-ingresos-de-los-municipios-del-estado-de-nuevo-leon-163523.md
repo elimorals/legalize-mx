@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ingresos-de-los-municipios-del-estado-de-nuevo-leon-1635
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2023-01-11"
-last_updated: "2023-01-11"
+last_updated: "2023-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON PARA EL EJERCICIO FISCAL 2023
 
+> <small>[N. DE E. EL 17 DE MAYO DE 2023, SE PUBLICÓ EN LA “GACETA LEGISLATIVA DEL H. CONGRESO DEL ESTADO DE NUEVO LEÓN” EL DECRETO 364 DE LA LXXVI LEGISLATURA DEL CONGRESO DEL ESTADO DE DICHA ENTIDAD; EL CUAL, AÚN NO HA SIDO PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, POR LO QUE AÚN NO HA SIDO COMPILADO Y SISTEMATIZADO.]</small>
+
 LEY DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN PARA EL EJERCICIO FISCAL 2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2023.
 
 Ley publicada en el Número 4 del Periódico Oficial del Estado de Nuevo León, el miércoles 11 de enero de 2023.
 
@@ -132,6 +134,12 @@ En consecuencia, para efectos de la elaboración de su Proyecto de Presupuesto d
 ###### Artículo 2.
 
 Los municipios estarán obligados a entregar a la Secretaría de Finanzas y Tesorería General del Estado los datos de las cuentas bancarias productivas y específicas a que se encuentren obligados en términos de la legislación aplicable, así como la obligación de tramitar y notificar a la Secretaría de Finanzas y Tesorería General del Estado las cuentas productivas y específicas para la entrega de recursos, las cuales deben ser notificadas en un plazo no mayor a cinco días naturales contados a partir de la recepción de los recursos al Estado por parte de la Federación.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2023)</small>
+
+###### Artículo 2 Bis.
+
+La falta de pago puntual de cualesquiera de los impuestos, derechos, contribuciones diversas o aprovechamientos, dará lugar a la imposición de un recargo del 1.2% (uno punto dos por ciento) por cada mes o fracción que se retarde el pago, independientemente de la actualización y de las sanciones a que haya lugar. Si el pago se efectúa en forma espontánea el recargo será del 1% (uno por ciento) por cada mes o fracción.
 
 ###### Artículo 3.
 
@@ -558,3 +566,11 @@ EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 LIC. CARLOS ALBERTO GARZA IBARRA
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 337. SE REFORMA POR ADICIÓN DE UN ARTÍCULO 2 BIS DE LA LEY DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN PARA EL EJERCICIO FISCAL 2023”.]
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
