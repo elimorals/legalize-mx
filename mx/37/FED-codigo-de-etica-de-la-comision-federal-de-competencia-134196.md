@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-de-la-comision-federal-de-competencia-134196"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-03-06"
-last_updated: "2019-03-06"
+last_updated: "2023-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134196&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-02-08"
 ---
 # CODIGO DE ETICA DE LA COMISION FEDERAL DE COMPETENCIA ECONOMICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA, PUBLICADO EN EL D.O.F. DE 13 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LAS Y LOS SERVIDORES PÚBLICOS DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MARZO DE 2023 (DEROGADO).
 
 Código publicado en el Número 5 del Diario Oficial de la Federación, el miércoles 6 de marzo de 2019.
 
@@ -498,3 +500,13 @@ PRIMERO.- El presente Código de Ética entrará en vigor al día siguiente de s
 SEGUNDO.- Se derogan, todas aquellas disposiciones que se opongan al presente Código de Ética.
 
 Ciudad de México, a los días ocho días (sic) del mes febrero de dos mil diecinueve. El Encargado del Despacho del Órgano Interno de Control de la Comisión Federal de Competencia Económica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA”.]
+
+PRIMERO: El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO: Queda derogado el Código de Ética de la Comisión Federal de Competencia Económica, dado a conocer con el “Aviso mediante el cual se informa de la publicación en la página Web del Código de Ética de la Comisión Federal de Competencia Económica”, publicado en el Diario Oficial de la Federación el día 06 de marzo de 2019, así como todas las disposiciones que se opongan al contenido del presente Acuerdo.
