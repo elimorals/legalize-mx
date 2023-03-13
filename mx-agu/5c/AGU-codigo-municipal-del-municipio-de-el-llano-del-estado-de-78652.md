@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-del-municipio-de-el-llano-del-estado-de-78652"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-01-17"
-last_updated: "2021-09-27"
+last_updated: "2023-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE EL LLANO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2023.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de enero de 2011.
 
@@ -1121,7 +1121,7 @@ II. Sesiones Extraordinarias: Aquellas que se convocan por el presidente municip
 
 III. Sesiones Solemnes: Aquellas que sean convocadas por el presidente municipal para efectuar un acto solemne o en su caso entregar una distinción;
 
-IV. Sesiones Secretas: Aquellas que por los asuntos a tratar deban guardar cierta secrecía o reserva.
+IV. (DEROGADA, P.O. 13 DE MARZO DE 2023)
 
 ###### ARTÍCULO 88.
 
@@ -1219,17 +1219,11 @@ En las Sesiones Solemnes deberán de realizarse honores a la bandera y se deber�
 
 ###### ARTÍCULO 103.
 
-Dada su naturaleza, en las Sesiones Secretas estará prohibido el acceso al público al recinto donde se sesione durante el desarrollo de la misma.
+(DEROGADO, P.O. 13 DE MARZO DE 2023)
 
 ###### ARTÍCULO 104.
 
-Serán consideradas por este Código como Sesiones Secretas las siguientes:
-
-I. Donde se traten asuntos que exijan reserva o secrecía de acuerdo a lo establecido en la Ley Municipal para el Estado de Aguascalientes;
-
-II. Donde se traten asuntos de carácter secreto dirigidos al H. Ayuntamiento, por los Poderes Ejecutivo, Legislativo y Judicial, tanto Federal como Estatal, así como por otros Ayuntamientos; y
-
-III. Las que así acuerde previamente el Cabildo.
+(DEROGADO, P.O. 13 DE MARZO DE 2023)
 
 ### CAPÍTULO VI. De la Intervención del Público en las Sesiones
 
@@ -16922,3 +16916,15 @@ Las presentes reformas iniciarán su vigencia al día de su publicación.
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opongan a los (sic) dispuesto en la presente reforma.
+
+P.O. 13 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGAN LA FRACCIÓN IV DEL ARTÍCULO 87, ASÍ COMO LOS ARTÍCULOS 103 Y 104 DEL CÓDIGO MUNICIPAL DE EL LLANO, AGUASCALIENTES”.]
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opongan a los dispuesto en la presente reforma.
