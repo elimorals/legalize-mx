@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-del-deporte-11534"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2021-11-23"
+last_updated: "2023-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DEL DEPORTE EN EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 21 de febrero de 1997.
 
@@ -255,25 +255,29 @@ VIII.- Promover el otorgamiento de estímulo a las personas que destaquen en alg
 
 IX.- Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte en todas sus manifestaciones y expresiones, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad, con la colaboración de la Comisión Estatal Coordinadora de Personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2023)</small>
 
-X.- Promover la cultura de la paz en el deporte y las medidas necesarias a fin de prevenir y erradicar la violencia; Asimismo, implementar sanciones conforme a su competencia a quienes ejerzan violencia, sin perjuicio de las responsabilidades penales y civiles que resulten aplicables, y reducir los riesgos de afectación en la práctica de actividades físicas, recreativas o deportivas;
+X.- Promover el uso de la bicicleta, fomentando una cultura de respeto hacia los ciclistas en la vía pública;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2023)</small>
 
-XI.- Promover campañas para prevenir y combatir el uso de sustancias Prohibidas y Métodos no Reglamentarios en el Deporte;
+XI.- Promover la cultura de la paz en el deporte y las medidas necesarias a fin de prevenir y erradicar la violencia; Asimismo, implementar sanciones conforme a su competencia a quienes ejerzan violencia, sin perjuicio de las responsabilidades penales y civiles que resulten aplicables, y reducir los riesgos de afectación en la práctica de actividades físicas, recreativas o deportivas;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2023)</small>
 
-XII.- Promover mecanismos que posibiliten la detección oportuna de niñas, niños, adolescentes y jóvenes con talento deportivo;
+XII.- Promover campañas para prevenir y combatir el uso de sustancias Prohibidas y Métodos no Reglamentarios en el Deporte;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2023)</small>
 
-XIII.- Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente; y
+XIII.- Promover mecanismos que posibiliten la detección oportuna de niñas, niños, adolescentes y jóvenes con talento deportivo;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2023)</small>
 
-XIV.-Las demás que le otorgue esta Ley, su reglamento y demás normas, aplicables.
+XIV.- Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2023)</small>
+
+XV.- Las demás que le otorgue esta Ley, su reglamento y demás normas, aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
@@ -391,9 +395,13 @@ X.- Promover el otorgamiento de estímulos a las personas que destaquen en algun
 
 XI.- Promover en el ámbito de su competencia, y establecer, en coordinación con las autoridades de Seguridad Pública y de Protección Civil competentes, así como con servicios de Seguridad Privada, los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos o de espectáculo, cuando por el número de asistentes así se requiera para garantizar la seguridad de las personas y de su patrimonio, el desarrollo pacífico en los recintos donde se celebren y de sus inmediaciones; y
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2023)</small>
 
-XII.- Participar, en los programas que se deriven de los Sistemas Nacional y Estatal del Deporte.
+XII.- Promover el uso de la bicicleta, fomentando una cultura de respeto hacia los ciclistas en la vía pública; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2023)</small>
+
+XIII.- Participar, en los programas que se deriven de los Sistemas Nacional y Estatal del Deporte.
 
 ### CAPITULO II. DE LOS CONSEJOS MUNICIPALES DEL DEPORTE
 
@@ -824,6 +832,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I, II, III, IV Y EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 13, LA FRACCIÓN II DEL 14, EL PRIMER Y SEGUNDO PÁRRAFOS DEL 15, LAS FRACCIONES I, II Y III DEL 23 Y EL 24, Y ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN III DEL 23; DE LA LEY ESTATAL DEL DEPORTE.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES X, XI, XII, XIII Y XIV DEL ARTÍCULO 14; LA FRACCIÓN XII DEL 21, Y ADICIONA LA FRACCIÓN XV AL ARTÍCULO 14 Y LA FRACCIÓN XIII AL 21 DE LA LEY ESTATAL DEL DEPORTE".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
