@@ -4,7 +4,7 @@ identifier: "SLP-ley-agricola-para-el-estado-de-san-luis-potosi-150517"
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-05"
-last_updated: "2023-03-01"
+last_updated: "2023-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AGRÍCOLA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 5 de agosto de 2021.
 
@@ -63,7 +63,9 @@ II. Impulsar el desarrollo del conocimiento agrícola, buscando elevar la capaci
 
 III. Crear las bases para lograr un desarrollo agrícola sustentable, tomando en consideración las diferentes regiones del estado, las condiciones socioeconómicas del productor, la creciente dificultad para conceder más estímulos, la creciente demanda de alimentos y la biodiversidad existente en el Estado;
 
-IV. Promover el buen uso y manejo del agua de riego existente, así como la ampliación de las áreas de riego;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2023)</small>
+
+IV. Promover el buen uso y manejo del agua de riego existente, la tecnificación de la misma, así como la ampliación de las áreas de riego;
 
 V. Impulsar la comercialización de la producción agrícola del Estado;
 
@@ -136,6 +138,10 @@ XXI. Subproducto Vegetal: el que se deriva de un producto vegetal bajo cualquier
 XXII. Sustentable: acción que integra criterios e indicadores de carácter ambiental, económico y social, que tienda a mejorar la calidad de vida y productividad de la población, con medidas apropiadas de preservación y protección el (sic) ambiente natural, el desarrollo económico equilibrado y la cohesión social, sin comprometer la satisfacción de las necesidades de futuras generaciones;
 
 XXIII. Técnico: el prestador de servicios técnicos agrícolas que en ámbito de su formación profesional y técnica comprobable formule, ejecute, evalúe y dictamine, programas, proyectos y estudios sobre manejo, producción, diversificación productiva, transformación, industrialización, comercialización, capacitación y asistencia técnica;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2023)</small>
+
+XXIII BIS. Tecnificación de riego: el aprovechamiento eficiente del agua, a partir del uso adecuado de la tecnología;
 
 XXIV. Transferencia de Tecnología: proceso mediante el cual la tecnología generada por el sistema de investigación se valida, demuestra y difunde en condiciones socioeconómicas favorables a los usuarios potenciales, promoviendo su adopción a través de la coordinación interinstitucional y el apoyo de los servicios otorgados por el Estado;
 
@@ -231,7 +237,9 @@ XV. Promover la diversificación de especies y variedades necesarias y convenien
 
 XVI. Promover el uso de semillas mejoradas y certificadas, los fertilizantes y demás insumos requeridos para el buen desarrollo de los cultivos tendentes a mejorar la productividad y la protección del medio ambiente;
 
-XVII. Promover el aprovechamiento de la infraestructura hidroagrícola disponible y la utilización de los sistemas de riego más adecuados para un aprovechamiento eficiente del agua;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2023)</small>
+
+XVII. Promover el aprovechamiento y modernización de la infraestructura hidroagrícola disponible, mediante la tecnificación de riego para un aprovechamiento eficiente del agua;
 
 XVIII. Firmar convenios con Universidades e Instituciones de Educación Superior u organismos de profesionales, con la finalidad de realizar investigaciones y estudios para que se genere tecnología que lleve a una mejor producción agrícola, y promover la difusión de sus resultados para la adopción de la tecnología generada;
 
@@ -243,7 +251,9 @@ XXI. Promover la aplicación de nuevas tecnologías, equipos y procesos en las a
 
 XXII. Favorecer la modernización de los procesos industriales, así como la incorporación de mayor valor agregado a la materia prima a través de métodos y procedimientos para incrementar la productividad agrícola;
 
-XXIII. Estimular la producción agrícola mediante programas de alto rendimiento, apoyando a los productores en el establecimiento de riego presurizado, agricultura controlada, entre otros;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2023)</small>
+
+XXIII. Estimular la producción agrícola mediante programas de alto rendimiento, apoyando a los productores en cuanto a la tecnificación de riego, agricultura controlada, entre otros;
 
 XXIV. Asesorar a los productores agrícolas, que no hayan sido sujetos del seguro agrícola, a fin de que puedan obtenerlo;
 
@@ -487,9 +497,11 @@ Los programas que deriven del cumplimiento de esta Ley, tendrán la vigencia que
 
 ### Capitulo II. Programa Sectorial para el Desarrollo Agrícola Sustentable del Estado
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 34.
 
-La SEDARH fomentará una agricultura sustentable de riego y de temporal, fomentando la incorporación de tecnologías de ambiente controlado, de conservación y orgánicas.
+La SEDARH fomentará una agricultura sustentable de riego y de temporal, fomentando la incorporación de tecnologías de ambiente controlado, de conservación y orgánicas, así como la tecnificación de riego.
 
 ###### ARTÍCULO 35.
 
@@ -609,7 +621,9 @@ La SEDARH, en coordinación con las autoridades competentes y las organizaciones
 
 I. Realizar el diagnóstico del Estado en que se encuentra la infraestructura productiva relacionada con la actividad agrícola, a fin de determinar los proyectos a corto y mediano plazo, con un esquema de operación eficiente, así como la rehabilitación, modernización y construcción que se requiera;
 
-II. Promover con apoyo de la Comisión Nacional del Agua, la SADER y de los organismos de consulta del sector hidráulico, las inversiones requeridas para rehabilitar, ampliar, complementar y usar plenamente la infraestructura hidroagrícola existente, y para la construcción de obras nuevas, con base en criterios de rentabilidad económica, social y financiera, fomentando a su vez el uso eficiente el (sic) agua para riego agrícola y la instalación de dispositivos de medición volumétrica;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2023)</small>
+
+II. Promover con apoyo de la Comisión Nacional del Agua, la SADER y de los organismos de consulta del sector hidráulico, las inversiones requeridas para rehabilitar, ampliar, complementar, modernizar y usar plenamente la infraestructura hidroagrícola existente, y para la construcción de obras nuevas, con base en criterios de rentabilidad económica, social y financiera, fomentando a su vez el uso eficiente del agua mediante la tecnificación de riego y la instalación de dispositivos de medición volumétrica;
 
 III. Impulsar el fortalecimiento de las asociaciones de usuarios de áreas de riego, en coordinación con la Comisión Nacional del Agua, el Comité Técnico de Aguas Subterráneas, la SADER, a fin de que cuenten con las herramientas indispensables para administrarlas eficientemente y allegarse de los recursos económicos necesarios para hacer rentables sus actividades;
 
@@ -1024,6 +1038,14 @@ Jorge Daniel Hernández Delgadillo
 P.O. 1 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0714.- SE REFORMAN LOS ARTÍCULOS 3º, EN SUS FRACCIONES VII Y IX Y 23 EN SU FRACCIÓN II; Y ADICIONA A LOS ARTÍCULOS 3º LA FRACCIÓN X, Y 4º LA FRACCIÓN XVIII BIS, DE LA LEY AGRÍCOLA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0716.- SE REFORMAN LOS ARTÍCULOS 3º, EN SU FRACCIÓN IV, 7º EN SUS FRACCIONES XVII Y XXIII, 34 Y 56 EN SU FRACCIÓN II; Y ADICIONA AL ARTÍCULO 4º, LA FRACCIÓN XXIII, DE LA LEY AGRÍCOLA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
