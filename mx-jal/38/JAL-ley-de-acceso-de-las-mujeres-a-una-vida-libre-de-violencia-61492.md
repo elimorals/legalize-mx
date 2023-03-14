@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2022-12-03"
+last_updated: "2023-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -779,11 +779,11 @@ XI. Las demás previstas para el cumplimiento de la presente ley.
 
 #### Sección Cuarta. De la Fiscalía del (sic) Estatal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2023)</small>
 
 ###### Artículo 28.
 
-Corresponde a la Fiscalía Estatal, además de lo establecido en otros ordenamientos:
+Corresponde a la Fiscalía del Estado, además de lo establecido en otros ordenamientos:
 
 I. Diseñar e implementar una política criminal con perspectiva de género orientada a la prevención, detección, atención, sanción y erradicación de los delitos violentos cometidos contra las mujeres;
 
@@ -811,25 +811,29 @@ VII. Promover la formación y especialización de agentes de la policía investi
 
 VIII. Elaborar y aplicar protocolos especializados con perspectiva de género para la investigación de delitos que atenten contra los derechos humanos de las mujeres, así como la búsqueda inmediata de mujeres y niñas desaparecidas;
 
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2023)</small>
 
-IX. Dictar las medidas necesarias para que la víctima de violencia, reciba atención médica de emergencia;
-
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
-
-X. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el acceso a la justicia de las mujeres víctimas de violencia, el número de víctimas atendidas y el tipo de delito cometido;
+IX. Aplicar, en toda muerte violenta de mujeres o niñas, el protocolo de investigación del delito de feminicidio con perspectiva de género;
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
 
-XI. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad de quienes denuncian;
+X. Dictar las medidas necesarias para que la víctima de violencia, reciba atención médica de emergencia;
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
 
-XII. Celebrar con instancias públicas y privadas, convenios de cooperación, coordinación y concertación en la materia; y
+XI. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el acceso a la justicia de las mujeres víctimas de violencia, el número de víctimas atendidas y el tipo de delito cometido;
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
 
-XIII. Las demás previstas para el cumplimiento de la presente ley.
+XII. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad de quienes denuncian;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
+
+XIII. Celebrar con instancias públicas y privadas, convenios de cooperación, coordinación y concertación en la materia; y
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
+
+XIV. Las demás previstas para el cumplimiento de la presente ley.
 
 > <small>(ADICIONADO, P.O. 21 DE MARZO DE 2019)</small>
 
@@ -2030,5 +2034,11 @@ P.O. 3 DE DICIEMBRE DE 2022.
 P.O. 3 DE DICIEMBRE DE 2022.
 
 [N. DE E TRANSITORIO DEL “DECRETO 28869/LXIII/22 QUE ADICIONA UN SEGUNDO PÁRRAFO Y NUEVE FRACCIONES AL ARTÍCULO 19 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 14 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29140/LXIII/23 QUE REFORMAN (SIC) EL ARTÍCULO 28 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO, CON EL OBJETO DE ESTABLECER QUE EN TODA MUERTE VIOLENTA DE MUJERES O NIÑAS SE APLICARÁ EL PROTOCOLO DE INVESTIGACIÓN DEL DELITO DE FEMINICIDIO CON PERSPECTIVA DE GÉNERO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
