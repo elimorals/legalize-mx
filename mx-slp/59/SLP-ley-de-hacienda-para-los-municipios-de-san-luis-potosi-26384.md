@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-de-san-luis-potosi-26384"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-06"
-last_updated: "2019-10-03"
+last_updated: "2023-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1034 +21,880 @@ state: "SLP"
 ---
 # LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ
+LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
 
-Ley publicada en la Sección Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 6 de noviembre de 2001.
+Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
-FERNANDO SILVA NIETO, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed:
+SALVADOR JARA GUERRERO, Gobernador del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
 
-Que la Quincuagésima Sexta Legislatura se ha servido dirigirme el siguiente:
+El H. Congreso del Estado, se ha servido dirigirme el siguiente:
 
-DECRETO 190
+DECRETO
 
-LA QUINCUAGESIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
+EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA:
 
-[...]
+NÚMERO 329
 
-LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSI
+###### ARTÍCULO ÚNICO
 
-## TITULO PRIMERO
+Se expide la Ley de Salud Mental del Estado de Michoacán de Ocampo, para quedar como sigue:
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### ARTICULO 1°.
+###### Artículo 1°.
 
-Las disposiciones de esta Ley son de orden público e interés social, y tienen por objeto determinar la integración del patrimonio y la hacienda pública de los municipios; señalar los ingresos que pueden percibir éstos y sus características, así como fijar el sujeto, el objeto, la base, la forma y época de pago y exenciones de las contribuciones municipales y de sus accesorios.
+La presente Ley es de orden público, interés social y observancia general, aplicable en el Estado de Michoacán con especial énfasis en las instituciones públicas, sociales y privadas que presten servicios de salud mental y tiene por objeto:
 
-###### ARTICULO 2°.
+I. Regular las bases y modalidades, para garantizar el acceso a los servicios de salud mental a toda la población del Estado de Michoacán, con un enfoque de derechos humanos y perspectiva de género;
 
-Los municipios del Estado de San Luis Potosí administrarán libremente su hacienda pública, y dispondrán de su patrimonio con las únicas limitaciones que establecen la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado.
+II. Establecer los mecanismos adecuados para la promoción, prevención, evaluación, diagnóstico, tratamiento, rehabilitación, reintegración, fomento de la salud mental y demás acciones a realizar por parte de instituciones de salud pública del Estado de Michoacán y personas físicas o morales de los sectores social y privado, que coadyuven en la prestación de salud mental; y,
 
-###### ARTICULO 3°.
+III. Definir los mecanismos y lineamientos para promover la participación de la población, en el desarrollo y la ejecución de los programas emitidos por la Secretaría de Salud del Estado en materia de salud mental.
 
-El patrimonio de los municipios se compone de los bienes muebles e inmuebles de su propiedad y los que adquiera conforme a la ley; así como de las contribuciones y otros ingresos que la Legislatura del Estado establezca a su favor, y toda clase de derechos apreciables en dinero.
+###### Artículo 2°.
 
-###### ARTICULO 4°.
+La salud mental, se define como un estado de bienestar que una persona experimenta como resultado de su buen funcionamiento en los aspectos cognoscitivos, afectivos, conductuales, y, en última instancia, al despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación.
 
-La hacienda pública municipal se integra con los siguientes conceptos:
+###### Artículo 3°.
 
-I. Las contribuciones, consistentes en impuestos, derechos, contribuciones de mejoras, así como sus accesorios;
+Toda persona que habite o transite en el Estado de Michoacán, independientemente de su edad, género, condición social, condiciones de salud, religión, condición fisiológica, ideológica, creencia, origen, identidad étnica, orientación sexual o estatus político tiene derecho a la salud mental.
 
-II. Los productos y rendimientos de su propio patrimonio;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-III. Los aprovechamientos y sus accesorios;
+El Gobierno, las dependencias e instituciones públicas, sociales y privadas, deben garantizar el pleno cumplimiento del derecho a la salud mental atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes.
 
-IV. Las transferencias de recursos por parte del Estado y la Federación;
+###### Artículo 4°.
 
-V. Las participaciones provenientes del Estado y la Federación;
+Para efectos de la presente Ley, se entenderá por:
 
-VI. Los ingresos derivados de financiamiento, y
+I. Adicción: Estado psicofísico causado por la interacción de un organismo vivo con un fármaco, alcohol, tabaco u otras sustancias que modifican el comportamiento además de otras reacciones que se manifiestan como impulsos irreprimibles a consumir dichas sustancias en forma continua o periódica, a fin de experimentar sus efectos psíquicos y a veces para evitar el malestar producido por la privación;
 
-VII. Los bienes y derechos que formen su patrimonio.
+II. Atención especializada: Conjunto de servicios que se proporcionan al usuario con el fin de proteger, promover, restaurar y mantener su salud mental. Comprende actividades preventivas y de atención psiquiátrica, psicológica y de rehabilitación integral;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+III. Comité: Comité Técnico de Salud Mental del Estado de Michoacán;
 
-###### ARTICULO 5º.
+IV. Diagnóstico: Informe que resulta del análisis e interpretación de los datos obtenidos en las distintas medidas de evaluación que se aplican a una persona, con el objetivo de detectar los síntomas que interfieren en su adaptación, detectar alteraciones mentales, identificar el perfil de habilidades o aptitudes y la personalidad del individuo;
 
-Además de esta Ley, la hacienda municipal se regirá por la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, las respectivas leyes de ingresos aprobadas por la Legislatura Estatal, por los respectivos presupuestos de ingresos y egresos de vigencia anual aprobados por los propios ayuntamientos; así como por la Ley de Coordinación Fiscal del Estado, la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí, la Ley del Registro Público de la Propiedad y del Catastro para el Estado y Municipios de San Luis Potosí, la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, la Ley para la Administración de las Aportaciones Transferidas al Estado y Municipios de San Luis Potosí, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y los reglamentos municipales respectivos y aplicables; y por los convenios de coordinación y colaboración suscritos o que se suscriban con el Gobierno del Estado. El Código Fiscal del Estado se aplicará en forma supletoria de estas disposiciones. Sólo en ausencia de norma fiscal estatal se aplicarán las reglas del derecho fiscal y del derecho común.
+V. COEPRIS: Comisión Estatal para la Protección contra Riesgos Sanitarios;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
+VI. Familiar: Persona con parentesco por consanguinidad, afinidad o civil con la persona usuaria de los servicios de salud mental;
 
-###### ARTICULO 5°.
+VII. Fomento de la salud mental: Promoción de acciones encaminadas a mejorar la salud mental y a eliminar el estigma y la discriminación de las personas con trastorno mental;
 
-Además de esta Ley, la hacienda pública municipal se regirá por la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, las respectivas leyes de ingresos aprobadas por la Legislatura Estatal, por los respectivos presupuestos de ingresos y egresos de vigencia anual aprobados por los propios ayuntamientos; así como por la Ley de Coordinación Fiscal del Estado, la Ley de Deuda Pública Municipal, la Ley de Catastro del Estado y Municipios de San Luis Potosí, la Ley para la Administración de las Aportaciones Transferidas al Estado y Municipios de San Luis Potosí, y los Reglamentos Municipales respectivos y aplicables; y por los convenios de coordinación y colaboración suscritos o que se suscriban con el Gobierno del Estado. El Código Fiscal del Estado se aplicará en forma supletoria de estas disposiciones. Sólo en ausencia de norma fiscal estatal se aplicarán las reglas del derecho fiscal y del derecho común.
+VIII. Gobierno: Gobierno del Estado de Michoacán de Ocampo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2014)</small>
+IX. Ley: Ley de Salud Mental del Estado de Michoacán de Ocampo;
 
-###### ARTICULO 6º.
+X. Ley de Salud: Ley de Salud del Estado de Michoacán de Ocampo;
 
-Los municipios, por conducto de sus ayuntamientos, someterán anualmente ante el Congreso del Estado su correspondiente iniciativa de Ley de Ingresos, en la que se especificarán las fuentes de sus ingresos, sean ordinarios o extraordinarios, desagregando el monto de cada una, incluyendo los recursos federales que se estime serán transferidos por la Federación, a través de los fondos de participaciones y aportaciones federales, subsidios y convenios de reasignación; así como los ingresos recaudados con base en las disposiciones locales. Asimismo, se establecerán las tasas, costos y cuotas que deben aplicarse a las contribuciones respectivas, sin modificar los demás elementos de las contribuciones, como sujetos, objeto, bases y períodos de pago.
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+X BIS. Ley de Asistencia Social del Estado de Michoacán de Ocampo;
 
-Dicha iniciativa debe incluir también las obligaciones de garantía o pago causante de deuda pública u otros pasivos de cualquier naturaleza con contrapartes, proveedores, contratistas y acreedores, incluyendo la disposición de bienes o expectativa de derechos sobre éstos, contraídos directamente o, a través de cualquier instrumento jurídico considerado o no dentro de la estructura orgánica de la administración pública correspondiente, y la celebración de actos jurídicos análogos a los anteriores y sin perjuicio de que dichas obligaciones tengan como propósito el canje o refinanciamiento de otras, o de que sea considerado o no como deuda pública en los ordenamientos aplicables. Además, la composición de dichas obligaciones y el destino de los recursos obtenidos.
+XI. Personal de salud: Profesionales, especialistas, técnicos, auxiliares y demás trabajadores que laboran en la prestación de los servicios de salud;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
 
-De conformidad con la Ley del Registro Público de la Propiedad y del Catastro para el Estado y Municipios de San Luis Potosí, someterán asimismo a la Legislatura estatal, la aprobación de las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+XI BIS. Posvención del Suicidio: Intervención profesional que tiene como fin reducir la carga emocional provocada por el suicidio de un familiar o ser cercano, favoreciendo el procesamiento psíquico del impacto;
 
-###### ARTICULO 7°.
+XII. Prevención de riesgos en salud mental: Acciones contenidas en los planes, programas, campañas y proyectos gubernamentales, nacionales e internacionales, con la finalidad de informar y educar a la población en relación a cualquier aspecto vinculado a la salud mental, e intervenir en las comunidades para evitar situaciones de riesgo y dar a conocer procedimientos con el propósito principal de preservar la calidad de vida;
 
-Los municipios elaborarán anualmente un presupuesto de ingresos y un presupuesto de egresos que deberán ser sometidos a la aprobación de sus respectivos ayuntamientos y, una vez aprobados, deberán ser publicados en los medios disponibles para cada municipio, en los plazos que establezcan las leyes respectivas.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
 
-###### ARTICULO 8°.
+XIII. Primer nivel de atención: Servicios Públicos de salud no especializados, con excepción del servicio de psicología clínica, prestados por núcleos básicos de salud en comunidades y centros de salud locales de primer y segundo nivel en el Estado;
 
-La recaudación de los ingresos municipales, así como las facultades de revisión, fiscalización, determinación y cobro de las contribuciones, se hará por conducto de las tesorerías municipales.
+XIV. Profesionales de la salud mental: Grupo de especialistas para la atención integral en salud mental, conformado por médicos psiquiatras y generales, psicólogos, enfermeros y trabajadores sociales;
 
-Los municipios podrán celebrar convenios con el Ejecutivo Estatal para la administración de alguno o algunos de sus ingresos, de conformidad con lo establecido por el artículo 114 de la Constitución Política del Estado.
+XV. Promoción de la Salud Mental: Acciones que persiguen la protección, el apoyo y el mantenimiento del bienestar emocional y social, que permitan la potenciación de la salud mental, la equidad, la justicia social y la dignidad personal;
 
-###### ARTICULO 9°.
+XVI. Reglamento: Reglamento de la Ley de Salud Mental para el Estado de Michoacán de Ocampo;
 
-Las autoridades municipales no podrán otorgar exenciones, descuentos o reducciones de impuestos o derechos, con excepción de los señalados en los artículos 16 en su segundo párrafo, 18, 20 en su segundo y tercer párrafos, 27, 29 y 43 en su segundo, tercero y cuarto párrafos de esta Ley.
+XVII. Rehabilitación: Procedimientos dirigidos a las personas usuarias de los servicios de salud mental, los cuales se ocupan de la evolución del padecimiento y de aquellos factores como la calidad de las relaciones interpersonales y el desempeño en la vida cotidiana. Su objetivo es mejorar la calidad de vida, para que el usuario pueda actuar en comunidad tan activamente como sea posible y de manera independiente en su entorno social;
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+XVIII. Reinserción Social: Acciones dirigidas hacia la integración social de la persona enferma al medio al que pertenece, favoreciendo la continuidad del tratamiento a través de la implementación de programas extra-hospitalarios y comunitarios tales como hospitales de día, servicios de consulta externa, centros de día, programas de inserción laboral, entre otros;
 
-Solamente previo acuerdo de cabildo podrá (sic) otorgarse reducciones y subsidios en gastos de ejecución, recargos y multas, en forma general, cuando las circunstancias económicas lo justifiquen.
+XIX. Secretaría: Secretaría de Salud del Estado de Michoacán;
 
-###### ARTICULO 10.
+XX. Secretaría de Educación: Secretaría de Educación del Estado de Michoacán;
 
-Las actividades que realicen los habitantes de los municipios que den lugar al pago de alguna contribución, deberán ser manifestadas a las autoridades respectivas en la forma y términos que se establezcan en las leyes y reglamentos aplicables.
+XXI. Secretaría de Seguridad Pública: Secretaría de Seguridad Pública del Estado de Michoacán
 
-###### ARTICULO 11.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-Las personas que sean habitual o accidentalmente sujetos de alguna contribución, están obligadas a la determinación y declaración de ésta, salvo que ello le corresponda hacerlo a la autoridad fiscal, en cuyo caso deberán proporcionarle la información necesaria. Las autoridades se reservan el derecho de ejercer las atribuciones que el Código Fiscal del Estado les confiere para la comprobación, determinación y cobro de las contribuciones y demás créditos fiscales.
+XXI BIS. Secretaría del Bienestar: Secretaría del Bienestar del Estado de Michoacán de Ocampo;
 
-###### ARTICULO 12.
+XXII. Segundo nivel de atención: Atención hospitalaria y ambulatoria otorgada por las unidades médicas dependientes de la Secretaría;
 
-Las contribuciones municipales podrán dar lugar a su actualización y a la generación de accesorios: recargos, sanciones, gastos de ejecución e indemnización por pago con cheque sin fondos, en términos del Código Fiscal del Estado.
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
 
-###### ARTICULO 13.
+XXII BIS. Suicidio: Acto por el que un individuo se causa a sí mismo una lesión, o un daño, con un grado variable de la intención de morir, pudiendo culminar en quitarse deliberadamente la propia vida;
 
-Ningún giro industrial, comercial, agrícola, ganadero, artesanal y de prestación de servicios, podrán iniciar operaciones sin autorización previa de las autoridades municipales.
+XXIII. Titular de la Secretaría: Secretario de Salud del Estado de Michoacán;
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
-Para efectos de control, las autoridades municipales podrán expedir licencias para la realización de las actividades señaladas en el párrafo anterior, sin efectuar cobro alguno por la expedición de las mismas, de acuerdo a lo previsto por el artículo 10 A, de la Ley de Coordinación Fiscal Federal.
+XXIV. Trastorno mental: Trastornos mentales, del comportamiento y del neurodesarrollo, síndromes que se caracterizan por una alteración clínicamente significativa en la cognición, la regulación emocional o el comportamiento de un individuo que refleja una disfunción en los procesos psicológicos, biológicos o del desarrollo que subyacen al funcionamiento mental y comportamental. Estas perturbaciones están generalmente asociadas con malestar o deterioro significativos a nivel personal, familiar, social, educativo, ocupacional o en otras áreas importantes del funcionamiento;
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+XXV. Tratamiento: Diseño, planeación, instrumentación y conducción de estrategias médicas, farmacológicas y psicológicas encaminadas a restaurar, mejorar o mantener la calidad de vida de la persona que presenta algún trastorno mental;
 
-### CAPITULO I. DEL IMPUESTO PREDIAL
+XXVI. Tratamiento combinado: Sistema terapéutico que integra los aspectos farmacológico y de reintegración psicosocial sobre el funcionamiento cognitivo, la psicopatología y la calidad de vida de pacientes con diagnóstico de trastorno mental; y,
 
-###### ARTICULO 14.
+XXVII. Usuario: Toda persona que requiera y obtenga servicios de atención en salud mental.
 
-Las tesorerías municipales, dentro de los diez días hábiles siguientes a la fecha de presentación de las solicitudes del contribuyente, expedirán las cédulas de empadronamiento y las placas respectivas.
+###### Artículo 5°.
 
-Las licencias, permisos, autorizaciones, registros o placas que se expidan por la autoridad municipal serán válidas por el año fiscal correspondiente o que determine ésta, y con exclusividad para las personas, lugares, giros o actividad para las cuales se hubieran concedido. Las autoridades municipales quedan facultadas para revocarlas por causa de utilidad pública, interés social o causas graves y justificadas.
+Los familiares y personas a cargo de quienes padecen trastornos mentales desempeñan una función esencial en el desarrollo de las potencialidades de los mismos, para ello deberán:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
+I. Proporcionar alojamiento, vestido y alimentación;
 
-###### ARTICULO 15.
+II. Contribuir a que el paciente inicie y continúe su tratamiento, especialmente si no está en condiciones de hacerlo solo;
 
-Los propietarios o poseedores de las actividades a que se refiere el primer párrafo del artículo 13 de esta Ley, tienen la obligación de refrendar cada año su empadronamiento a efecto de obtener su cédula y autorización respectivas, dentro de los primeros quince días hábiles de cada año.
+III. Respetar los principios de autonomía individual, independencia, igualdad, no discriminación, y todos aquellos que garanticen la igualdad en el ejercicio de sus derechos;
 
-Las cédulas de empadronamiento no serán transferidas.
+IV. Recibir capacitación y orientación por parte de las instituciones públicas, sociales y privadas; y,
 
-## TITULO SEGUNDO. DE LOS IMPUESTOS
+V. Participar en actividades culturales, recreativas, deportivas y de esparcimiento, que contribuyan al desarrollo integral de las personas con algún trastorno mental o adicción a sustancias psicotrópicas o estupefacientes.
 
-###### ARTICULO 16.
+Corresponde a la Secretaría, proporcionar a las personas que integren el núcleo familiar, asesoría, orientación, capacitación y adiestramiento necesario para enfrentar el trastorno mental.
 
-Es objeto de este impuesto:
+###### Artículo 6º.
 
-I. La propiedad o posesión de predios urbanos, suburbanos y rústicos que comprenden:
+Son sujetos preferentes de la presente Ley todas aquellas personas con algún trastorno mental y del comportamiento, que habiten o transiten por el Estado de Michoacán de Ocampo.
 
-a). La tierra, y
+###### Artículo 7º.
 
-b). Las construcciones y mejoras sobre ella existentes;
+Las personas con trastornos mentales y del comportamiento tienen derecho a:
 
-II. La propiedad o concesión de plantas de beneficio y establecimientos metalúrgicos;
+I. Un trato digno e incluyente por parte de las instituciones públicas sociales y privadas así como de la sociedad en general;
 
-III. La propiedad ejidal o comunal en cualquiera de las modalidades, y
+II. Ser atendidas y vivir en el seno de su familia o de un hogar que la sustituya, así como a participar en todas las actividades sociales, creadoras o recreativas;
 
-IV. La propiedad ejidal derivada de la asignación individual de parcelas y sobre derechos de las tierras de uso común, en los términos de la Ley Agraria.
+III. Vivir y trabajar en la comunidad en la medida de lo posible;
 
-Tampoco serán objeto del cobro de este impuesto los predios rústicos en que por factores climatológicos y otras circunstancias ajenas a la voluntad de los productores, se haya originado la pérdida total de la producción.
+IV. Ser protegidas de todo tipo de discriminación, maltrato, explotación económica, sexual o de cualquier otra índole;
 
-###### ARTICULO 17.
+V. Ser tratado en un ambiente lo menos restrictivo posible de acuerdo a sus condiciones de salud;
 
-Son sujetos de este impuesto los propietarios o poseedores de bienes inmuebles ubicados dentro de la jurisdicción de los municipios del Estado, independientemente del nombre que se les dé o carácter con que actúen; además, serán también sujetos del impuesto:
+VI. Ejercer sus derechos civiles, económicos, políticos, sociales y culturales;
 
-I. Los copropietarios o condóminos, tanto en la proporción que les corresponda en la tierra, como en las construcciones y mejoras;
+VII. Contar con un representante personal, en caso de carecer de capacidad jurídica para ejercer los derechos a que se refiere la fracción anterior;
 
-II. Los titulares de certificados de participación inmobiliaria no reembolsables, o de cualquier otro título similar;
+VIII. Acceder a los servicios sociales, de salud y de rehabilitación que ofrezca el Gobierno del Estado, preferentemente en la comunidad donde reside;
 
-III. Los usuarios a título gratuito y los poseedores o detentadores cuando el propietario se encuentre substraído a la tenencia material del predio o éste no sea legalmente conocido;
+IX. Una vivienda digna y acceso a los servicios de vivienda;
 
-IV. Los ejidatarios;
+X. Servicios de educación y capacitación para el trabajo;
 
-V. Los comuneros;
+XI. El libre desplazamiento en condiciones dignas y seguras;
 
-VI. Los propietarios o poseedores de predios rústicos, cuya propiedad o posesión se haya derivado directamente de la asignación individual que al titular de derechos agrarios haga la asamblea en su modalidad de parcela individual y derechos sobre la zona de uso común;
+XII. Recibir apoyo por parte del Gobierno del Estado, a fin de coadyuvar en el óptimo desarrollo de su autonomía, e integración en el ámbito social; y,
 
-VII. Los dueños o concesionarios de plantas de beneficio y establecimientos metalúrgicos, y
+XIII. Recibir un trato digno y apropiado en procedimientos administrativos y judiciales.
 
-VIII. Los fideicomitentes mientras el fiduciario no transmita la propiedad del predio al fideicomisario o a terceras personas en ejecución del fideicomiso o de los fideicomisarios que estén en posesión del predio o predios fideicomitidos, aun cuando no se les haya transmitido la propiedad.
+###### Artículo 8°.
 
-###### ARTICULO 18.
+Además de los derechos otorgados por la Ley de Salud, leyes federales, estatales y normas oficiales mexicanas en la materia, las personas usuarias de los servicios de salud mental, tendrán derecho:
 
-Están exentos de este impuesto los predios propiedad de la Federación, el Estado y los municipios, así como los de organismos descentralizados de éstos, siempre que los bienes inmuebles sean de dominio público y estén destinados a la prestación de servicios públicos; no así los destinados a uso particular, administrativo, de servicio o cualquier otro fin distinto al de su objeto público, por los que sí deberá cubrirse el impuesto.
+I. Al acceso oportuno y adecuado a los servicios de salud mental los cuales tendrán un enfoque comunitario, de reinserción psicosocial y estricto apego a los derechos humanos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
+II. A la toma de decisiones relacionadas con su atención y su tratamiento;
 
-###### ARTICULO 19.
+III. A la atención médica en el momento que lo solicite y, en su caso, a ser atendido en las instancias de salud del primer y segundo nivel de atención así como en unidades de atención especializada, para completar su proceso de tratamiento y rehabilitación;
 
-El impuesto se causará sobre el valor catastral del inmueble determinado de acuerdo a lo establecido en la Ley del Registro Público de la Propiedad y del Catastro para el Estado y Municipios de San Luis Potosí; y la tasa del impuesto será la que se determine anualmente en la Ley de Ingresos de cada Municipio para cada tipo de predio, a saber:
+IV. A ser informado sobre las campañas, planes, programas y servicios que proporcione el Gobierno y las instituciones sociales y privadas en materia de salud mental;
 
-a). Urbanos y suburbanos habitacionales;
+V. A conservar la confidencialidad de información personal;
 
-b). Urbanos y suburbanos destinados a comercio o servicios;
+VI. A una historia clínica de conformidad con lo establecido en las normas oficiales;
 
-c). Urbanos o suburbanos destinados a uso industrial, y
+VII. A no ser sometido a tratamientos irreversibles o que modifiquen la integridad;
 
-d). Rústicos.
+VIII. A que se informe al padre, madre, tutor o representante legal con veracidad de la condición y el posible efecto del tratamiento que reciba la persona usuaria, en caso de que sea menor de edad o incapaz. Lo anterior es aplicable a toda la población, incluida aquella que se encuentra en unidades médicas de reclusorios y comunidades para adolescentes, así como para grupos vulnerables;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2018)</small>
+IX. A que se le apliquen exámenes de valoración, confiables y actualizados que consideren su entorno social o característica a estudiar;
 
-###### ARTICULO 20.
+X. A recibir atención especializada, a contar con un plan o programa integral de tratamiento para la mejora o, en su caso, recuperación de sus funciones cerebrales, habilidades cognitivas, proceso de aprendizaje, así como a la reinserción al ámbito social y productivo, incluyendo a pacientes que hayan estado recluidos en un hospital o centro penitenciario psiquiátrico o establecimiento especializado en adicciones;
 
-El impuesto predial será anual y su pago deberá hacerse por bimestres adelantados, dentro de los primeros quince días de cada bimestre, en el lugar que al efecto señalen las autoridades fiscales. El impuesto anual nunca será inferior al equivalente a cuatro unidades de medida y actualización; el pago deberá hacerse en una sola exhibición dentro de los tres primeros meses del año.
+XI. A ser ingresado a algún centro de atención en salud mental por prescripción médica especializada conforme a las mejores prácticas, cuando el usuario presente conductas o acciones que puedan causarle daño físico inmediato o inminente así mismo, a terceros o la propiedad, cuando la severidad de los síntomas y signos así lo indiquen;
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2012)</small>
+XII. A ser egresado del centro hospitalario de atención en salud mental, sólo cuando el médico tratante considere que por mejoría de su estado mental puede continuar su tratamiento en forma ambulatoria o bien, si lo solicita un familiar por escrito;
 
-Cuando se trate de incentivos y estímulos fiscales a la inversión y a la generación de empleos, los ayuntamientos podrán incluir en su iniciativa de Ley de Ingresos, los descuentos e incentivos que consideren convenientes para el impulso y fortalecimiento del desarrollo económico del municipio.
+XIII. A la rehabilitación que le permita, en el máximo de sus posibilidades, la reinserción familiar, laboral y comunitaria;
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
+XIV. A la accesibilidad de familiares u otras personas, en el acompañamiento de las personas usuarias de los servicios de salud mental, salvo que medie contraindicación profesional;
 
-Tratándose de personas mayores de 60 años; jubilados; pensionados; personas discapacitadas; e indígenas, los ayuntamientos podrán someter a la consideración de la Legislatura Estatal, en su iniciativa de ley de ingresos, una reducción en el pago de este impuesto hasta por un 70% del mismo.
+XV. A recibir un trato digno y con respeto a sus derechos humanos, por parte de sus familiares y a que estos le proporcionen alimentos y cuidados necesarios para su rehabilitación integral; y,
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
+XVI. A que no se divulgue a terceros la información proporcionada por el usuario al personal de salud mental, salvo disposición contraria por la autoridad legal competente.
 
-En el caso de los indígenas, la reducción de hasta un 70% se hará sobre los predios cuyo valor catastral se indique en la ley de ingresos correspondiente.
+###### Artículo 9°.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2007)</small>
+El profesional especializado en salud mental tiene la obligación de estar debidamente acreditado para ejercer sus funciones, lo que incluye al menos, tener a la vista Cédula Profesional, Título Profesional y en su caso, certificados de especialización expedidos y registrados por las autoridades educativas competentes.
 
-Los contribuyentes que soliciten este beneficio deberán acreditar su situación o condición referida, de acuerdo al mecanismo que establezca el municipio respectivo, y solamente podrá ser aplicable para el predio en que habitan.
+###### Artículo 10.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2007)</small>
+Corresponden a la Secretaría, en el ámbito de su competencia, sin menoscabo de las demás que se encuentren estipuladas en esta Ley y demás ordenamientos legales, las siguientes acciones:
 
-Para el acreditamiento de la condición de indígena, las autoridades fiscales municipales tomarán en cuenta los padrones correspondientes.
+I. Elaborar un Modelo de Salud Mental para el Estado de Michoacán, conforme a los lineamientos establecidos en la Ley General de Salud, las Normas Oficiales Mexicanas, en la Ley de Salud y el presente ordenamiento, basándose en las recomendaciones de organismos internacionales en materia de salud y fomentando la participación de los sectores social y privado;
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2007)</small>
+II. Implementar de manera formal y sistemática programas en materia de salud mental, con un enfoque de derechos humanos y perspectiva de género;
 
-Los ayuntamientos podrán plantear en su Iniciativa de Ley de Ingresos, la reducción que refiere este artículo, para otros sectores vulnerables de su municipio, cuando las condiciones socioeconómicas lo justifiquen; la cual estaría sujeta al valor catastral que se señale en la Ley de Ingresos respectiva.
+III. Diseñar y ejecutar de forma permanente campañas educativas de difusión masiva para orientar, motivar e informar a la población sobre el concepto de salud mental, los estigmas imperantes en la población, los diversos trastornos mentales existentes, los síntomas que se presentan, las formas de prevención, y modos de atención, en coordinación con las dependencias e instituciones competentes;
 
-###### ARTICULO 21.
+IV. Coordinar y supervisar las acciones para la salud mental;
 
-Las modificaciones que se hagan a los valores catastrales base del impuesto, surtirán efectos a partir del ejercicio fiscal inmediato posterior a aquél en que se efectúen y publiquen en el Periódico Oficial del Estado.
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2013)</small>
+IV BIS. Vigilar y evaluar a los centros de atención de adicción, a efecto de que cumplan con las normas de salud, operación y funcionamiento;
 
-###### ARTICULO 22.
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2021)</small>
 
-Los predios que nunca hayan sido manifestados, ni estén registrados en los padrones respectivos, deberán pagar el impuesto correspondiente a los cinco años anteriores a la fecha en que fuere descubierta la omisión; excepto los inmuebles que se titulen mediante programas de regularización llevados a cabo por instituciones, municipales, estatales, o federales, en cuyo caso se cubrirá el importe de dos años y seis meses del impuesto predial que corresponda.
+V. Emitir e implementar el Protocolo de Actuación para la Prevención, Rehabilitación y Tratamiento de la Conducta Suicida;
 
-Respecto a las construcciones que se hubieren omitido manifestar, si no se pudiere fijar con precisión la fecha de éstas, el causante deberá pagar el impuesto correspondiente a cinco años anteriores a la fecha en que fuere descubierta la omisión, salvo que el interesado pruebe que la construcción data de fecha posterior.
+VI. Instalar, administrar y operar los Módulos que constituyen la Red Estatal de Salud Mental;
 
-###### ARTICULO 23.
+VII. Instalar y administrar el Centro de Investigación e Información en Salud Mental;
 
-Todo convenio relativo al pago del impuesto que se oponga a lo dispuesto en el presente Capítulo, se tendrá como inexistente para efectos fiscales y por lo tanto, no producirá efecto legal alguno.
+VIII. Instalar, administrar y operar la línea telefónica de Red Estatal de Salud Mental y la página electrónica para brindar orientación a la población general;
 
-###### ARTICULO 24.
+IX. Llevar a cabo reuniones periódicas con los demás organismos centralizados, descentralizados y desconcentrados de la Administración Pública del Estado de Michoacán, a efecto de suscribir los instrumentos jurídicos necesarios para generar las condiciones necesarias para la implementación del Modelo Estatal de Salud Mental;
 
-Los notarios públicos o jueces de primera instancia que actúen por receptoría y, en general, todos los fedatarios públicos, deberán exigir, previamente al otorgamiento de cualquier instrumento público o certificación de firmas de uno de carácter privado cuyo objeto sean predios ubicados en el Estado, o derechos reales sobre ellos, la comprobación de estar al corriente en el pago de este impuesto.
+X. Fijar los lineamientos de coordinación para que los Municipios, en el ámbito de su competencia, intervengan en la promoción de la salud mental, e incentiven la participación social;
 
-###### ARTICULO 25.
+XI. Implementar estrategias de coordinación de índole institucional con los prestadores de servicios de salud mental del sector público, social y privado, con la finalidad de generar convenios y mecanismos de coordinación para llevar a cabo acciones de prevención, diagnóstico oportuno, tratamiento y rehabilitación;
 
-Es objeto de este impuesto la adquisición que se realice por cualquier título, de bienes inmuebles y las construcciones adheridas a ellos ubicados en el territorio de los municipios del Estado, así como los derechos relacionados con los mismos.
+XII. Suscribir convenios, acuerdos o cualquier instrumento jurídico de coordinación con los Municipios a efecto de mejorar la atención en materia de salud mental;
 
-###### ARTICULO 26.
+XIII. Coordinarse con las dependencias estatales del empleo, a efecto de establecer acciones para que las personas con trastornos mentales, puedan ser incluidos como parte de la plantilla laboral de las empresas privadas e instituciones de Gobierno;
 
-Se entiende por adquisición para efectos de este impuesto:
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
-I. Todo acto por el que se adquiera la propiedad, incluyendo la compraventa, aun cuando exista reserva de dominio;
+XIV. Presentar al Comité y al Poder Legislativo del Estado, un informe anual sobre las políticas públicas puestas en práctica en materia de salud mental, así como el estado de avance en el cumplimiento de la implementación del Modelo de Salud Mental para el Estado de Michoacán y los diversos programas generados;
 
-II. Las donaciones, herencias y legados;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2024)</small>
 
-III. La aportación a sociedades o asociaciones;
+XV. Desarrollar acciones y programas para detectar, atender y prevenir conductas suicidas, así como estrategias para la posvención del suicidio; y,
 
-IV. La promesa de adquirir, cuando se pacte que el futuro adquirente entrará en posesión de los bienes o el futuro enajenante recibirá el precio o parte de éste, antes de que se celebre el contrato objeto de la promesa;
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2024)</small>
 
-V. La que derive de adjudicación, aun cuando sea a favor del acreedor;
+XVI. Las demás acciones que contribuyan a la promoción fomento de la salud mental de la población.
 
-VI. La cesión de derechos del adquirente o futuro adquirente;
+###### Artículo 11.
 
-VII. La dación en pago;
+Las Instituciones del sector público, privado y social que participen en programas y acciones en materia de salud mental, deberán remitir a la Secretaría, un informe anual sobre las estrategias implementadas y sus resultados.
 
-VIII. La que derive de fusión, escisión, liquidación o reducción de capital, así como el pago en especie de utilidades, dividendos o aportaciones de toda clase de sociedades o asociaciones;
+###### Artículo 12.
 
-IX. La que derive de la constitución del usufructo, la transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal. Para la determinación de la base del impuesto se considerará en este caso, que el valor de la nuda propiedad y el del usufructo representan el 50%, cada uno;
+Los profesionales que presten servicios en salud mental del sector social y privado, podrán participar y coadyuvar con las instancias involucradas en el diseño, operación y seguimiento de programas de educación para la salud mental que contemplen la prevención y detección temprana de los trastornos mentales; para tal efecto deberán:
 
-X. La prescripción positiva o las informaciones ad-perpetuam;
+I. Participar en las convocatorias que realice la Secretaría, y la COEPRIS;
 
-XI. La que se realiza a través del fideicomiso, de conformidad con la legislación fiscal federal;
+II. Coordinarse con la Secretaría a través de las instancias correspondientes para fomentar la suscripción de convenios o acuerdos para beneficio de la sociedad;
 
-XII. La que se realiza a través de arrendamiento financiero, y
+III. Participar en la difusión y publicación en los diversos medios de comunicación sobre la importancia de la detección temprana de los trastornos mentales y las alternativas para su atención en los sectores público, social y privado; y,
 
-La permuta, en la que se considerará que se realizan dos adquisiciones.
+IV. Llevar a cabo cursos de orientación para la población en general a efecto de crear condiciones para que la misma reciba información veraz y oportuna acerca de la detección de los trastornos mentales, conforme a los lineamientos que dicte la Secretaría.
 
-###### ARTICULO 27.
+###### Artículo 13.
 
-No se pagará este impuesto en los siguientes casos:
+Todo prestador de servicios de salud mental de los sectores público, social y privado, en caso de que observe algún tipo de lesión, discriminación, maltrato o cualquier otro signo con el que se presuma un delito en contra de la persona que tenga algún trastorno mental, deberá de dar aviso inmediato al Ministerio Público correspondiente.
 
-I. Por la primera asignación o titulación que se derive del "Programa de Certificación de Derechos Ejidales y Titulación de Solares Urbanos", en los términos de la Ley Agraria; así como por las titulaciones derivadas de programas de regularización de tenencia de la tierra realizados por dependencias o instituciones competentes;
+### CAPÍTULO II. DE LAS ACCIONES PARA LA ATENCIÓN DE LA SALUD MENTAL
 
-II. Por las donaciones, herencias y legados entre cónyuges, ascendientes o descendientes en línea recta, y
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
 
-III. Por las aportaciones a la sociedad conyugal.
+###### Artículo 14.
 
-###### ARTICULO 28.
+Para efectos de esta ley son acciones para la atención de la salud mental: la promoción, prevención, evaluación, diagnóstico, tratamiento, rehabilitación, seguimiento y fomento en materia de salud mental, incluida la posvención del suicidio, las cuales tienen carácter prioritario.
 
-Son sujetos de este impuesto las personas físicas o morales, o unidades económicas que adquieran por cualquier título, bienes inmuebles y las construcciones adheridas a ellos.
+###### Artículo 15.
 
-### CAPITULO II. IMPUESTO SOBRE ADQUISICION DE INMUEBLES Y OTROS DERECHOS REALES
+Para la promoción de la salud mental, el Gobierno deberá:
 
-###### ARTICULO 29.
+I. Dar a conocer las acciones que procuran una vida saludable a través de actividades educativas, recreativas y cívicas;
 
-Están exentas de este impuesto las adquisiciones de inmuebles que hagan la Federación, el Estado y los municipios, así como los organismos descentralizados de éstos siempre que sean destinados a la prestación de servicios públicos; no así los destinados a uso particular, administrativo, de servicio o cualquier otro fin distinto al de su objeto público, por lo que sí deberá cubrirse su impuesto.
+II. Motivar a la comunidad a la realización de acciones y proyectos relacionados con la salud mental que beneficien a la salud en general;
 
-###### ARTICULO 30.
+III. Apoyar y asesorar a Grupos en la comunidad cuyas acciones favorezcan la salud mental;
 
-La base del impuesto es el que resulte mayor entre el precio pactado o valor declarado de la operación y, el valor catastral del inmueble.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
-Para efecto de determinar la base del impuesto, deberá obtenerse un avalúo catastral con una antigüedad no mayor de seis meses a partir de la fecha en que se formalice la operación.
+IV. Fortalecer las acciones comunitarias que aseguren los factores de protección hacia los pacientes con trastornos mentales;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+V. Promover la participación de observadores externos para vigilar el pleno respeto de los derechos humanos de las personas con trastornos mentales y del comportamiento que son atendidas en los establecimientos de la Red Estatal de Salud Mental;
 
-La certificación de avalúo a que se refiere el artículo 4º fracción II de la Ley del Registro Público de la Propiedad y del Catastro para el Estado y Municipios de San Luis Potosí, previo el pago de derechos, podrá solicitarse y obtenerse directamente en las oficinas o módulos que la Autoridad tenga habilitados para tal fin, o bien, de manera electrónica a través de las páginas en la red de comunicación internet, cuyo dominio tengan los H. Ayuntamientos y que contengan, de oficio, la base de datos del padrón catastral, de cada inmueble, en forma completa y actualizada, en términos de las Leyes del, Registro Público de la Propiedad y del Catastro para el Estado y Municipios de San Luis Potosí,; (sic) y de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2012)</small>
+VI. Diseñar y llevar a cabo campañas que reduzcan los factores de riesgo de desarrollar trastornos mentales;
 
-El pago de los derechos mencionados se podrá efectuar en las oficinas referidas, o bien, en línea, de manera electrónica, a través del portal que los H. Ayuntamientos autoricen, a efecto de que se les abone en la cuenta bancaria de las instituciones de crédito con las que así hayan convenido.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2012)</small>
+VII. Participar en las acciones de atención a personas afectadas en situación de emergencia o desastre en el Estado;
 
-Los Ayuntamientos del Estado, que adopten el sistema de expedición y cobro electrónico en línea, deberán establecer los mecanismos necesarios para tal fin y elaborar los procesos que dicha actividad requiera, posibilitando que se obtenga una mejor y más fácil recaudación, de manera ágil y eficiente y una expedición de avalúos expedita, que posibilite el pago del Impuesto Sobre Adquisición de inmueble y otros Derechos Reales, en los mismos términos, pudiendo efectuarse incluso de inmediato., A este efecto, le son aplicables las disposiciones relativas a los avalúos.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2012)</small>
+VIII. Elaborar, difundir y llevar a cabo los programas de salud mental; y,
 
-Los servidores públicos designados por los H. Ayuntamientos que adopten este sistema, quedan debidamente facultados para firmar electrónicamente los documentos oficiales a que se ha hecho mención, bajo las reglas, términos y condiciones que al efecto se establezcan.
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2021)</small>
 
-###### ARTICULO 31.
+IX. Establecer de manera permanente el servicio de psicología clínica en todos los núcleos básicos de salud locales de primer y segundo nivel en cada uno de los municipios del Estado, se deberá contener mínimamente con un módulo de atención psicológica para así dar atención temprana en Salud Mental, en su primer nivel de salud.
 
-La tasa del impuesto será la que se determine en la respectiva Ley de Ingresos de cada municipio.
+###### Artículo 16.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
+Para la prevención de riesgos en materia de salud mental, el Gobierno implementará acciones para:
 
-Para efectos de vivienda de interés social y vivienda popular se deducirá de la base gravable el importe de diez unidades de medida y actualización vigente, elevados al año, y del impuesto a pagar resultante se deducirá el cincuenta por ciento.
+I. Promover la salud mental en instituciones de salud a fin de facilitar la detección de las diversas patologías en el primer y segundo nivel de atención en salud;
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2002)</small>
+II. Informar acerca de las consecuencias del abandono, el maltrato y explotación de menores;
 
-Se entiende por vivienda de interés social y popular, las que establece el artículo 60 de la Ley de Hacienda para el Estado de San Luis Potosí.
+III. Elaborar programas en los que se informe a la comunidad sobre el desarrollo evolutivo y las posibles alteraciones en cada una de las etapas de la vida de las personas;
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
+IV. Realizar programas para la prevención y control del uso de sustancias psicotrópicas, estupefacientes, inhalantes y otras sustancias que puedan causar alteraciones mentales o dependencia;
 
-Se considera vivienda popular con urbanización progresiva la que señalan los artículos 159 y 160 de la Ley de Desarrollo Urbano del Estado de San Luis Potosí; estableciéndose para las mismas una cuota mínima que se indicará en la ley de ingresos del municipio respectivo. En ningún caso el impuesto a pagar podrá ser inferior al importe de cuatro unidades de medida y actualización.
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-###### ARTICULO 32.
+IV BIS. La mejora continua en los centros destinados a la prevención, orientación, desintoxicación, deshabituación y reinserción de la persona, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen;
 
-Los fedatarios públicos que por la naturaleza de sus actividades intervengan en la realización de los actos jurídicos de los cuales derive la causación de este impuesto, tendrán obligación de determinarlo y recaudarlo bajo su responsabilidad, enterándolo a la Tesorería Municipal que corresponda. Estarán relevados de esta obligación cuando por la operación que consignen en escritura pública ya se hubiere cubierto el impuesto, debiendo en este caso acompañar a la declaración el recibo de pago correspondiente.
+V. Detectar y atender de manera inmediata a personas que practiquen actividades que pongan en riesgo su vida; y,
 
-Cuando no sea posible efectuar la recaudación del impuesto, se abstendrán de cerrar la escritura respectiva y deberán dar aviso a la autoridad fiscal de este hecho.
+VI. Elaborar programas que promuevan la referencia de estudiantes que presenten conductas disfuncionales en las distintas áreas del desarrollo humano.
 
-El enajenante será igualmente responsable solidario con el adquirente del cumplimiento en el pago del impuesto.
+###### Artículo 17.
 
-###### ARTICULO 33.
+Los programas de prevención tendrán una orientación psicoeducativa y deberán ser accesibles a la población.
 
-El sujeto del impuesto o quien resulte responsable solidario en términos del artículo anterior, tendrá un plazo de treinta días para pagarlo, contado a partir del día en que se realice la situación jurídica o de hecho que dé lugar a su causación.
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-###### ARTICULO 34.
+Las escuelas, centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles participarán en dichos programas conforme a lo que estipule la Ley de la materia, para atender de manera temprana la salud física y mental de la niñez, con el fin de generar un buen funcionamiento en los aspectos cognoscitivos, afectivos, conductuales, y, en última instancia, al despliegue óptimo de sus potencialidades individuales para la convivencia, el estudio y la recreación.
 
-Es objeto de este impuesto el incremento en el valor del inmueble que obtengan los propietarios o poseedores de predios urbanos, suburbanos y rústicos de los municipios del Estado, por la realización de alguna obra pública con recursos municipales y siempre que no haya sido revaluado para fines catastrales.
+###### Artículo 18.
 
-###### ARTICULO 35.
+Los usuarios de los servicios de salud mental deberán ser evaluados mediante la aplicación de diversos procedimientos que, dependiendo del caso, incluyen exámenes médico psiquiátricos y psicológicos. La evaluación en salud mental busca lo siguiente:
 
-Son sujetos de este impuesto los propietarios o poseedores de los predios cuyo valor se incremente.
+I. Elaborar un diagnóstico diferencial que permita identificar el perfil cognoscitivo, conductual y emocional de las personas; y,
 
-### CAPITULO III. IMPUESTO DE PLUSVALIA
+II. Contar con elementos para fines de diagnóstico, ya sea de carácter clínico, psiquiátrico, neuropsicológico, psicofisiológico, laboral, social y de desarrollo.
 
-###### ARTICULO 36.
+###### Artículo 19.
 
-La base del impuesto será la diferencia entre el último valor catastral del predio y el que le corresponda con posterioridad a la terminación de la obra. Este último valor será determinado por la autoridad catastral del Municipio o del Estado, o en su defecto, por perito valuador autorizado por cualquiera de éstas.
+El diagnóstico de salud mental, deberá incluir el análisis e interpretación de los resultados obtenidos de la evaluación médica, con el objetivo de detectar los síntomas.
 
-###### ARTICULO 37.
+###### Artículo 20.
 
-La tasa del impuesto será la que se determine anualmente en la Ley de Ingresos de cada municipio.
+Los servicios de evaluación, diagnóstico, tratamiento y rehabilitación en materia de salud mental, deberán realizarse por profesionales acreditados en los términos de la presente ley y demás ordenamientos aplicables.
 
-###### ARTICULO 38.
+Asimismo, para la emisión de dictámenes solicitados por las autoridades, deberá acreditar la especialidad académica de perito en el área de aplicación, expedido por institución con validez oficial.
 
-Son obras públicas de cuya realización puede derivar el incremento en el valor de los predios para efectos de este Capítulo, las consistentes en alguno o algunos de los siguientes rubros:
+###### Artículo 21.
 
-I. Pavimentación;
+El Psicoterapeuta, debe ser psicólogo con cédula profesional y con estudios de postgrado en psicoterapia, realizados en instituciones que cuenten con validez oficial.
 
-II. Alumbrado y electrificación;
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2021)</small>
 
-III. Drenaje y alcantarillado;
+###### Artículo 22.
 
-IV. Agua potable;
+Los servicios de consulta en salud mental que proporcione la Secretaría serán de manera permanente y continua en todos los centros de salud en comunidades de primer y segundo nivel en el Estado.
 
-V. Urbanización;
+###### Artículo 23.
 
-VI. Caminos y carreteras, y
+Para el ejercicio de los servicios de salud mental, la Secretaría contará un espacio físico, que garantice los aspectos de confidencialidad y privacidad, adecuadamente ventilado e iluminado.
 
-VII. Puentes.
+###### Artículo 24.
 
-###### ARTICULO 39.
+El profesional en salud mental coadyuvará en diseñar materiales, programas, procedimientos y técnicas apropiadas para cada condición, con el objetivo de que la persona usuaria logre recuperar su conducta y comportamiento deteriorados. Las acciones de rehabilitación deben prever la conservación y preservación de la integridad del usuario.
 
-Los predios cuyo valor se incremente deberán ser identificados por la autoridad encargada de realizar o supervisar la obra; la autoridad fiscal hará la determinación del impuesto, notificando ésta a los propietarios o poseedores de los predios, quienes tendrán un plazo de quince días para manifestar lo que a sus intereses convenga y, en su caso, oponerse al nuevo avalúo, pudiendo ofrecer uno distinto emitido por perito con reconocimiento oficial. Cuando exista diferencia de más del 10% entre ambos avalúos, la autoridad fiscal presentará un avalúo de perito de tercero en discordia, que será la base del impuesto.
+###### Artículo 25.
 
-###### ARTICULO 40.
+Cuando el caso lo requiera, la persona usuaria será canalizada a la Institución de Segundo Nivel que le corresponda de acuerdo al sistema de referencia y contrarreferencia o, en su caso, al centro especializado correspondiente.
 
-Este impuesto se causará por una sola vez y será independiente del impuesto predial. El impuesto deberá pagarse dentro de los treinta días siguientes a la notificación por parte de la autoridad, en términos del artículo anterior.
+###### Artículo 26.
 
-###### ARTICULO 41.
+Cuando el paciente requiera de un tratamiento combinado, este se realizará con los recursos existentes en el Centro de Salud o la Unidad Hospitalaria de Atención.
 
-Es objeto de este impuesto la organización, presentación, y/o celebración de espectáculos públicos que habitual o accidentalmente se realicen con fines lucrativos en los municipios del Estado.
+###### Artículo 27.
 
-###### ARTICULO 42.
+El profesional de la salud mental, deberá proporcionar información clara y precisa, a la persona usuaria y a sus familiares respecto al tratamiento que se pretenda emplear a las personas, el cual no podrá iniciarse sin antes haber sido exhaustivos en proporcionar la información al respecto así como haber sido aceptadas las responsabilidades y compromisos que implican la aplicación del tratamiento.
 
-Se consideran espectáculos públicos para efectos de este Capítulo, independientemente del nombre que se de al lugar en donde se lleven a cabo, aquellos de naturaleza artística, recreativa y deportiva por cuya admisión se cobre alguna suma de dinero a título de cuota, cooperación, boleto, "cover", consumo mínimo, o cualquier otro concepto análogo; y, siempre y cuando no se cause el impuesto al valor agregado.
+###### Artículo 28.
 
-### CAPITULO IV. IMPUESTO SOBRE ESPECTACULOS PUBLICOS
+Los servicios de salud mental de la Secretaría darán seguimiento a los usuarios de los servicios de salud mental concertando citas subsecuentes de acuerdo a las necesidades del caso y posibilidades del paciente y, cuando el caso lo amerite, se realizará visita domiciliaria con especial atención a la recuperación de pacientes con baja adherencia terapéutica.
 
-###### ARTICULO 43.
+### CAPÍTULO III. DE LA RED ESTATAL DE SALUD MENTAL
 
-Son sujetos de este impuesto las personas físicas o morales y las unidades económicas que habitual o accidentalmente organicen, presenten o promuevan espectáculos públicos en términos de lo dispuesto por este Capítulo. El impuesto no podrá trasladarse o repercutirse al espectador o asistente al espectáculo.
+###### Artículo 29.
 
-Están exentos la Federación, el Estado y los municipios, así como sus organismos descentralizados dedicados a la divulgación cultural o al servicio social.
+La Secretaría establecerá una red estatal que integre la atención a la salud mental en establecimientos de primer y segundo nivel de atención a fin de abatir la brecha de atención brindando servicios de salud mental en igualdad de situación con las prestaciones de salud general. Para ello capacitará a médicos generales a fin de brindar atención de primer contacto y seguimiento a los usuarios.
 
-Tratándose de partidos políticos, no serán sujetos de este impuesto cuando la totalidad de las utilidades obtenidas en los espectáculos públicos que organicen, presenten y promuevan, incluyendo las obtenidas por concepto de venta de alimentos, bebidas y otros productos, se destinen al cumplimiento de sus fines.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2021)</small>
 
-Reservándose la autoridad municipal las facultades de comprobación que le confiere el Capítulo II del Título Tercero del Código Fiscal del Estado, para efecto de verificar lo aludido en el párrafo anterior de este artículo.
+###### Artículo 30.
 
-Los propietarios de restaurantes, centros nocturnos, salones de fiesta o baile, o discotecas, no pagarán el impuesto por los espectáculos que se presenten en sus establecimientos, siempre y cuando sea el propietario quien contrate el espectáculo y en la publicidad del mismo se haga evidente referencia a su intervención, lo que deberá acreditarse previamente ante la autoridad fiscal.
+La Secretaría contará con profesionistas del área de psicología clínica para que laboren en los centros de salud locales de primer, y segundo nivel en el Estado. Los cursos que proporcione la Secretaría en cumplimiento del presente artículo tienen como objeto el acercamiento de los servicios de psicología clínica como primer contacto en salud mental.
 
-###### ARTICULO 44.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2021)</small>
 
-La base del impuesto es el ingreso total obtenido por concepto de admisión al espectáculo. Cuando no sea posible precisar éste, la base será el monto total que corresponda al boletaje emitido o bien, la capacidad o aforo del inmueble en el que se celebra o presenta el espectáculo público, a juicio de la autoridad fiscal.
+###### Artículo 31.
 
-###### ARTICULO 45.
+Los profesionistas especializados en el área de psicología clínica deberán contar con el registro correspondiente en la Secretaría, a fin de garantizar la capacitación continua del personal que la integra y brindar un seguimiento adecuado a los usuarios de los servicios. El reglamento establecerá los lineamientos para efectos del presente artículo.
 
-La tasa del impuesto será la que se establezca anualmente en las respectivas leyes de ingresos de cada municipio, la cual no podrá exceder de la que autoricen los convenios en materia fiscal que el Estado celebre o haya celebrado con la Federación.
+###### Artículo 32.
 
-###### ARTICULO 46.
+La Secretaría fortalecerá el sistema de referencia y contrarreferencia a efecto de fortalecer la Red de Salud Mental promoviendo los servicios en salud mental en el primer y segundo nivel de atención los cuales referirán a los usuarios a los centros especializados en salud mental cuando así se requiera.
 
-Son responsables solidarios en el pago de este impuesto:
+###### Artículo 33.
 
-I. Los propietarios de los inmuebles en los que se presente o celebre el espectáculo público, y
+La Secretaría establecerá los mecanismos para proporcionar la medicación necesaria en el primer y segundo nivel de atención.
 
-II. Los propietarios, poseedores, arrendatarios, concesionarios o comodatarios de los bienes muebles que se utilicen en el espectáculo público.
+###### Artículo 34.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+Las personas que requieran de los servicios de salud mental y que no cuenten con algún sistema de seguridad social serán incorporadas al Régimen Estatal de Protección Social en Salud a fin de garantizar su tratamiento.
 
-###### ARTICULO 47.
+###### Artículo 35.
 
-El impuesto deberá pagarse en la misma fecha en que se lleve a efecto el espectáculo público. Al efecto, el interventor designado por la autoridad fiscal se presentará en el lugar donde se lleve a cabo el espectáculo y, al finalizar éste, exigirá el pago total del impuesto extendiendo el recibo correspondiente. En caso de que no se presentara ningún interventor, el empresario u organizador del espectáculo se deberá presentar al día hábil siguiente a la Tesorería Municipal a efectuar el pago respectivo.
+Toda institución de salud pública que forme parte de la Red, así como las del sector social y privada que preste servicios de salud mental, deberán apegarse a lo establecido en las declaraciones internacionales de derechos humanos ofreciendo servicios de carácter comunitario, promoviendo la inclusión social de las personas con trastornos mentales, evitando la reclusión y aislamiento de las mismas.
 
-Tratándose de espectáculos que se lleven a cabo en forma continua durante un período determinado, el impuesto deberá pagarse por mes o fracción, dentro de los primeros quince días del mes inmediato siguiente o, al del término del espectáculo, presentando la declaración de pago correspondiente. La autoridad fiscal se reserva el derecho de verificar, incluso mediante la intervención en taquilla, la exactitud en el pago del impuesto.
+### CAPÍTULO IV. DE LA ATENCIÓN EN SALUD MENTAL POR GRUPO DE EDAD Y VULNERABILIDAD
 
-###### ARTICULO 48.
+###### Artículo 36.
 
-La autoridad fiscal tiene la facultad de solicitar al sujeto del impuesto, el otorgamiento de una garantía que cubra el interés fiscal, fijando el monto de ésta de conformidad con la estimación a que se refiere el artículo 44 de esta Ley. La falta de presentación de la garantía a solicitud de la autoridad, dará lugar a la falta de autorización del espectáculo o a la suspensión de éste.
+Para efectos de la presente ley, se consideran trastornos mentales en particular, aquellas afecciones psicopatológicas que presentan las personas y que requieren una atención prioritaria.
 
-###### ARTICULO 49.
+La atención en salud mental se entiende como:
 
-Los sujetos de este impuesto tienen las siguientes obligaciones, además de la de pago:
+I. Atención de los trastornos mentales y del comportamiento, la evaluación diagnóstica integral y tratamientos integrales, y la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o sustancias psicotrópicas;
 
-A). Si se dedican en forma habitual o permanente a la organización o promoción de espectáculos, deberán:
+II. La organización, operación y supervisión de establecimientos dedicados al estudio, tratamiento y rehabilitación de personas con trastornos mentales y del comportamiento; y,
 
-I. Registrarse ante la Tesorería Municipal de su domicilio de residencia;
+III. La reinserción de las personas con trastornos mentales y del comportamiento a su familia y comunidad, mediante la creación de programas sociales y asistenciales en coordinación con otros sectores, para la debida atención de estos pacientes.
 
-II. Presentar los avisos que correspondan en términos del Código Fiscal del Estado;
+###### Artículo 37.
 
-III. Presentar, por cada nuevo espectáculo que se pretenda presentar o celebrar, solicitud por escrito ante la autoridad fiscal correspondiente al domicilio donde se llevará a cabo éste, y
+El Gobierno del Estado, a través de la Secretaría, determinará en los programas de salud mental de aquellos trastornos mentales que requieran una atención prioritaria; para tal efecto deberá considerar lo siguiente:
 
-IV. Presentar una declaración mensual de pago del impuesto, de conformidad con lo dispuesto por el artículo 47 de esta Ley;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
-B). Si la organización o promoción del espectáculo es accidental o esporádica, deberán:
+I. Acciones para la promoción, prevención, diagnóstico oportuno, tratamiento y rehabilitación de los trastornos mentales, particularizando cada uno de ellos;
 
-I. Presentar por escrito ante la autoridad fiscal, al menos con diez días de anticipación, solicitud de autorización del espectáculo, acompañando la documentación relativa a las características del espectáculo, lugar donde se realizará y capacidad o aforo de éste, medidas de seguridad, boletaje emitido y, la que en forma particular le requiera la autoridad, y
+II. Mecanismos de coordinación con el Gobierno Federal, organismos sociales y privados para atender eficazmente los trastornos mentales, priorizando en todo momento, la promoción y prevención;
 
-II. Presentar declaración de pago una vez concluido el espectáculo.
+III. La asignación de personal especializado en atención integral para cada uno de los trastornos que requieran atención prioritaria con base en el presupuesto asignado y a las normas técnicas aplicables; y,
 
-###### ARTICULO 50.
+IV. Sensibilizar a la sociedad sobre los trastornos mentales y las alternativas de solución como son tratamiento médico psiquiátrico, atención psicoterapéutica, orientación psicoeducativa y rehabilitación, según corresponda en los Módulos de Atención en Salud Mental, Centros Hospitalarios, Centros de Salud y demás espacios de atención.
 
-Cuando no se cubra el impuesto dentro del plazo establecido, o no se garantice el interés fiscal en términos del artículo 48 de esta Ley, la autoridad fiscal podrá embargar y secuestrar el mobiliario y equipo que se utilice en el espectáculo, bastando para ello orden escrita fundada y motivada en la que se acredite la falta de pago o garantía. Para la cumplimentación de la orden, la autoridad fiscal podrá solicitar el auxilio de la fuerza pública.
+###### Artículo 38.
 
-## TITULO TERCERO. DE LOS DERECHOS
+La Secretaría procurará dar prioridad en la atención especializada a la niñez, adolescencia, juventud, mujeres en condiciones de embarazo, puerperio o en menopausia, adultos mayores y personas que se encuentran en situación de calle, de emergencia o desastre.
 
-###### ARTICULO 51.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Los ayuntamientos del Estado podrán cobrar derechos por los servicios que presten, por la expedición de licencias, permisos o registros, o por permitir el uso o aprovechamiento de bienes de dominio público, siempre y cuando no estén impedidos para ello por alguna otra disposición legal. Los municipios incluirán en su iniciativa de Ley de Ingresos que sometan anualmente a la aprobación de la Legislatura estatal, las tarifas que correspondan a los derechos por los servicios que presten, las cuales estarán en proporción directa con el costo que para el Ayuntamiento tengan los mismos.
+###### Artículo 39.
 
-###### ARTICULO 52.
+El Gobierno del Estado y los Gobiernos Municipales, a través de los Sistemas de Desarrollo Integral de la Familia elaborarán y ejecutarán programas conjuntos de asistencia a las personas en situación de calle que presenten trastornos mentales o discapacidades intelectuales o psicosociales procurando en lo máximo posible su inclusión en la sociedad. La Secretaría será coadyuvante con la atención médica a este sector vulnerable.
 
-Son sujetos de pago de derechos las personas físicas o morales, y las unidades económicas que soliciten o hagan uso de cualquiera de los servicios que preste directa o indirectamente la autoridad municipal, de conformidad con las leyes y reglamentos aplicables.
+Podrán celebrar convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de alcoholismo o farmacodependencia, con el fin de que quienes requieran de asistencia, puedan, de acuerdo con sus posibilidades y características económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
 
-###### ARTICULO 53.
+###### Artículo 40.
 
-Los derechos deberán pagarse previamente a la prestación del servicio, expedición de la licencia, permiso, registro o aprovechamiento de bienes de dominio público de que se trate, salvo disposición expresa que establezca otra fecha de pago.
+La Secretaría, a través del Centro de Investigación e Información en Salud Mental, realizará estudios e investigaciones científicas para determinar los trastornos mentales que requieren atención prioritaria.
 
-### CAPITULO II. DE LOS DERECHOS EN PARTICULAR
+###### Artículo 41.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
+La Secretaría de Educación Estatal fomentará y llevará a cabo acciones de coordinación con la Secretaría de Educación Pública del Gobierno Federal, para que en los centros escolares de educación inicial y básica hasta el nivel primario del sector público, se contemple lo siguiente:
 
-###### ARTICULO 54.
+I. Contar con personal capacitado y actualizado en la materia de medicina general, psicología, pedagogía infantil y educación escolar con el objetivo de identificar posibles trastornos mentales que presenten los infantes, debiéndolos referir a las unidades de Salud Mental, así como informar a sus padres o tutor y dar la orientación correspondiente;
 
-Corresponde a las leyes y reglamentos específicos el determinar las características y condiciones de los servicios públicos municipales, la regulación de las actividades para las cuales se requiera licencia, permiso o registro, así como la naturaleza de los bienes de dominio público sujetos a uso o explotación, por los cuales deban pagarse derechos. Asimismo, serán las leyes y reglamentos correspondientes los que establezcan las conductas que se consideran infracción por las cuales debe cubrirse una sanción.
+II. Elaborar y aplicar programas relacionados con la salud mental, cuyo contenido se enfoque a las distintas etapas del desarrollo y sean incorporados en el plan de estudios correspondiente; y,
 
-###### ARTICULO 55.
+III. Proporcionar material informativo básico en salud mental a los padres o tutores con la finalidad de identificar algún tipo de trastorno en el menor y aplicar las medidas correspondientes.
 
-Los municipios podrán prestar algunos de estos servicios directamente, o bien, en términos de las leyes respectivas, concesionar o autorizar a particulares su prestación, conservando en todo caso la autoridad la facultad de cobro.
+###### Artículo 42.
 
-### CAPITULO UNICO. CONTRIBUCIONES DE MEJORAS
+La Secretaría de Educación, deberá coordinarse con las instituciones de educación privada, a efecto de que se apliquen las acciones señaladas en el presente Capítulo.
 
-###### ARTICULO 56.
+### CAPÍTULO V. DEL COMITÉ TÉCNICO DE SALUD MENTAL PARA EL ESTADO DE MICHOACÁN
 
-Los servicios por los cuales los municipios podrán establecer tarifas para el cobro de derechos, son: agua potable; aseo público; panteones; rastro; planeación; tránsito y seguridad; registro civil; salubridad; estacionamientos; reparación, conservación y mantenimiento de pavimentos; publicidad y anuncios; monitoreo vehicular; nomenclatura urbana; licencias para ventas de bebidas alcohólicas de baja graduación; expedición de copias, certificaciones y constancias diversas; servicios catastrales; supervisión de alumbrado público; y ocupación de la vía pública. Asimismo, cualquier otro servicio que lleve a cabo el municipio y por el cual no esté expresamente prohibido su cobro.
+###### Artículo 43.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2014)</small>
+El Comité Técnico de Salud Mental para el Estado de Michoacán, es un órgano de consulta, análisis y asesoría para el desarrollo de planes, programas y proyectos que en materia de salud mental aplique el Gobierno y será integrado por las y los titulares de las siguientes instancias del Estado de Michoacán:
 
-###### ARTICULO 57.
+I. Titular de la Secretaría de Salud de Michoacán, quien lo Presidirá;
 
-El servicio de agua potable consiste en la extracción, tratamiento, conducción, suministro, uso o explotación de agua potable, conexión a la red, así como los servicios de drenaje, alcantarillado y saneamiento que proporcionen los municipios o los organismos.
+II. El Director de los Servicios de Salud de la Secretaría, quien asumirá la vicepresidencia;
 
-Las tarifas correspondientes a estos derechos serán determinadas por la Legislatura Estatal, a propuesta de los ayuntamientos en sus leyes de ingresos en aquellos casos en que el servicio sea prestado por los municipios, o por las juntas de gobierno para el caso de organismos.
+III. El Director de Servicios de Atención Primaria de la Secretaría;
 
-Los ayuntamientos y los organismos operadores de agua establecerán anualmente estímulos fiscales en beneficio de las personas con discapacidad y personas adultas mayores, de los que disfrutarán, según corresponda, y hasta por el cincuenta por ciento de los derechos causados.
+IV. El Titular de la COEPRIS;
 
-Para el acceso a los estímulos fiscales señalados en el párrafo anterior, los contribuyentes deberán acreditar su condición de acuerdo al mecanismo que establezca el ayuntamiento u organismo respectivo.
+V. El Titular del departamento de Salud Mental de la Secretaría;
 
-###### ARTICULO 58.
+VI. Los Titulares de las unidades de la Secretaría especializadas en salud mental;
 
-El servicio de aseo público consiste en la recolección y transporte de basura, y de toda clase de desechos que se realicen periódica o esporádicamente en casas habitación, comercios o industrias; así como en la limpia de lotes o terrenos, o cualquier otro servicio de naturaleza similar que se proporcione a solicitud expresa de los particulares, al igual que el uso o aprovechamiento de relleno sanitario.
+VII. Un representante de la Secretaría de Educación Pública;
 
-###### ARTICULO 59.
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-El servicio de panteones consiste en la inhumación, exhumación, cremación, traslado de cadáveres y restos humanos, así como en la autorización para llevar a cabo lo anterior, incluyendo el uso o explotación de espacios en los cementerios municipales.
+VII BIS. Un representante de la Secretaría de Desarrollo Social y Humano;
 
-###### ARTICULO 60.
+VIII. Un representante del Sistema para el Desarrollo Integral de la Familia Michoacán; y,
 
-El servicio de rastro consiste en el sacrificio de ganado, matanza, refrigeración de carnes, uso de corrales y cualquier otro servicio relacionado con estas actividades.
+IX. Un representante del Consejo Estatal contra las Adicciones del Estado.
 
-###### ARTICULO 61.
+Las personas titulares asistirán a las reuniones del Comité, los cuales podrán nombrar a un suplente quien deberá tener como cargo mínimo un nivel inmediato inferior al del titular.
 
-Los servicios de planeación consisten en el otorgamiento de dictámenes de uso de suelo, de licencias y permisos de construcción, reconstrucción o demolición en fincas urbanas, suburbanas o rústicas, y cementerios; así como para lotificar o fraccionar terrenos. Asimismo, la elaboración y expedición de planos, constancias y certificaciones relacionadas con esta actividad.
+La Secretaría invitará a formar parte del Comité a representantes de la Secretaría de Salud del Gobierno Federal, de la Universidad Michoacana de San Nicolás de Hidalgo, de alguna de las universidades privadas del Estado, y de Organizaciones Civiles que trabajen en el tema.
 
-###### ARTICULO 62.
+Los integrantes del Comité tendrán derecho a voz y voto.
 
-Los servicios de tránsito y seguridad consisten en el uso de grúas y otros vehículos oficiales, así como estacionamientos, pensiones y corralones propiedad de la autoridad municipal, o de particulares con autorización o concesión otorgada por aquélla, así como el empleo de personal de las corporaciones policiacas y de tránsito para servicios de seguridad y vialidad en eventos privados con fines de lucro.
+Serán invitados permanentes del Comité las y los Presidentes de las Comisiones Salud y Asistencia Social, de Equidad de Género, y de Derechos Humanos, del Poder Legislativo del Estado.
 
-###### ARTICULO 63.
+A las sesiones podrán asistir personas expertas invitadas en materia de salud de los sectores público, social y privado que el pleno del Comité considere para emitir opiniones, aportar información, o apoyar acciones sobre el tema que se defina.
 
-El servicio de registro civil consiste en el registro de nacimientos, matrimonios, divorcios, defunciones, tutela y emancipación, o cualquier otro acto que modifique el estado civil de las personas e inscripción de sentencias firmes provenientes de autoridades judiciales; así como la expedición de copias, certificaciones y constancias relativas.
+El Reglamento determinará los lineamientos de operación del Comité.
 
-> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2018)</small>
+###### Artículo 44.
 
-El registro de los nacimientos será totalmente gratuito y no podrá imponerse tarifa alguna por concepto de temporalidad.
+Las y los titulares de los órganos políticos administrativos dispondrán de las medidas administrativas para la integración de Comités Municipales de Salud Mental asesorados por el Comité conforme a las disposiciones referidas en el Reglamento.
 
-###### ARTICULO 64.
+###### Artículo 45.
 
-El servicio de salubridad es el que en términos de la legislación respectiva, proporcionen los municipios en materia de prevención y tratamiento de enfermedades y la difusión de medidas de higiene y sanidad.
+El Comité, contará con una Secretaría Técnica, cuyas facultades, así como las del Presidente y demás integrantes, se establecerán en el Reglamento Interno que para tal efecto se expida.
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2011)</small>
+###### Artículo 46.
 
-ARTICULO 64 BIS. El servicio de ocupación de la vía pública consiste en la expedición de licencias o permisos para el uso, explotación u ocupación de la misma, mediante la instalación de objetos e infraestructura subterránea, aérea y terrestre, ajenos a la propiedad municipal.
+El Comité tendrá las siguientes funciones:
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
+I. Diseñar y evaluar políticas de prevención y atención integral en materia de educación para la salud mental, atención integral médico-psiquiátrica y rehabilitación integral;
 
-###### ARTICULO 65.
+II. Solicitar a la Secretaría el informe a que se refiere el artículo 8, de la presente ley, para realizar su análisis y observaciones;
 
-Los municipios podrán cobrar derechos por la expedición de licencias o permisos para el uso, explotación u ocupación de espacios subterráneos, aéreos y terrestres de la vía pública; así como para estacionamiento de vehículos ya sea en forma esporádica o cotidiana, este cobro estará sujeto a la disponibilidad y de conformidad con la normatividad de tránsito y vialidad.
+III. Solicitar en cualquier momento datos relativos a la erogación de los recursos asignados en materia de salud mental y, en su caso, podrá proponer estrategias para optimizar su ejecución, conforme a las necesidades sociales;
 
-###### ARTICULO 66.
+IV. Analizar y asesorar los planes y proyectos de las acciones para la atención de la salud mental en el Estado de Michoacán;
 
-Los municipios podrán cobrar a las personas físicas o morales, incluyendo entidades públicas, el costo de la reparación, conservación y mantenimiento de calles, banquetas, guarniciones, pavimentos y demás elementos de infraestructura urbana, cuando éstos sean afectados para la realización de alguna obra o para la introducción, reparación o mantenimiento de alguna red de servicios. Lo anterior, independientemente de las sanciones y reparaciones de daños que procedan de conformidad con las leyes respectivas.
+V. Evaluar las acciones realizadas para la promoción de la participación ciudadana;
 
-Tratándose de empresas que canalicen redes de infraestructura o la substituyan, deberán pagar un derecho el cual se cubrirá por metro lineal canalizado en área urbana.
+VI. Funcionar como un organismo de consulta permanente de planes, proyectos y programas encaminados hacia la atención integral de la salud mental;
 
-###### ARTICULO 67.
+VII. Desempeñarse como un organismo de vinculación entre los sectores público, social y privado, en materia de salud mental, para la implementación de estrategias que beneficien a la población; y,
 
-El servicio de publicidad y anuncios consiste en la autorización para colocar anuncios, letreros y estructuras de publicidad en exteriores de predios, azoteas, terrenos, vehículos, lugares públicos y otros, sujeto a la reglamentación de la materia; así como de la práctica de voceo, volanteo y otras formas de publicidad.
+VIII. Las demás que le reconozca la presente ley y otras disposiciones normativas aplicables.
 
-###### ARTICULO 68.
+### CAPÍTULO VI. RECURSOS HUMANOS PARA LA ATENCIÓN EN SALUD MENTAL
 
-El servicio de monitoreo vehicular consiste en la revisión y examen de los vehículos automotores para el control de emisiones contaminantes, ya sea directamente por las autoridades municipales o por quienes éstas otorguen autorización o concesión para ello.
+###### Artículo 47.
 
-###### ARTICULO 69.
+Todo prestador de servicios de salud mental público, social y privado, debe actuar con un enfoque de derechos humanos y perspectiva de género en la atención que brinde a las personas usuarias, observando los principios de equidad e imparcialidad, teniendo como objetivo principal la reinserción social de la persona con algún trastorno mental, favoreciendo la continuidad del tratamiento, a través de la aplicación de acciones que para tal efecto se diseñen.
 
-El servicio de nomenclatura urbana consiste en la asignación de número oficial.
+###### Artículo 48.
 
-###### ARTICULO 70.
+La atención médica que proporcionen los prestadores de servicio de salud mental deberá incluir la prevención, promoción, protección y procurará restaurar al máximo posible la salud física y mental a través del tratamiento, rehabilitación o referencia a instancias especializadas, así como información de medidas médicas alternativas si el caso lo requiere y cuando sea solicitado.
 
-Los municipios de conformidad con las leyes de la materia y en coordinación con las autoridades estatales, podrán expedir licencias para establecimientos dedicados a la venta de bebidas alcohólicas de baja graduación, así como su refrendo anual correspondiente, previo pago de los derechos respectivos.
+###### Artículo 49.
 
-###### ARTICULO 71.
+Para la prevención y atención de los trastornos mentales la Secretaría contará con la estructura orgánica administrativa necesaria para garantizar la atención oportuna y expedita tomando como base el presupuesto que para tal efecto se le asigne y demás disposiciones aplicables.
 
-Las autoridades municipales podrán asimismo cobrar derechos por la expedición de copias, constancias, certificaciones, búsqueda de datos e informes y otros servicios de naturaleza similar.
+###### Artículo 50.
 
-###### ARTICULO 72.
+Para efectos de contratación del personal necesario y considerando la prioridad de atención de salud mental en la población, la Secretaría determinará los criterios para el cumplimiento de los objetivos de la presente ley.
 
-Los servicios catastrales consisten en la emisión de avalúos catastrales, certificación física de medidas y colindancias de un predio, certificación de registro en el Padrón Catastral Municipal, copias de planos de región catastral o de manzana, y otras certificaciones sobre el padrón catastral.
+###### Artículo 51.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+Todo servidor público que tenga acercamiento o contacto con los usuarios de los servicios de salud mental, recibirá previamente capacitación, la cual se realizará de acuerdo con las necesidades del personal, de manera continua y sistemática. La Secretaría realizará convenios con instituciones públicas, sociales y privadas para la consecución de dicho fin.
 
-ARTICULO 72 BIS. El servicio de supervisión de alumbrado público consistente en la expedición de certificaciones y cuantificación de daños en esta materia, y el de verificación y levantamiento de campo de las instalaciones de alumbrado público; en todo caso tratándose de los fraccionamientos que se pretendan entregar al municipio.
+###### Artículo 52.
 
-## TITULO CUARTO
+La Secretaría promoverá la capacitación de los profesionales en salud mental, la cual estará dirigida a la elaboración de programas preventivos, de atención y rehabilitación de acuerdo a los programas gubernamentales internacionales, nacionales y regionales vinculados con la salud mental.
 
-### CAPITULO UNICO. PRODUCTOS
+###### Artículo 53.
 
-###### ARTICULO 97.
+La capacitación de los profesionales de la salud mental, comprenderá el acceso al conocimiento científico de los padecimientos mentales crónicos, deterioro de la calidad de vida y posibles riesgos ante situaciones críticas o de desastres naturales, manteniendo programas actualizados de capacitación en salud mental de manera continua.
 
-Los municipios podrán obtener productos del uso o explotación de sus bienes de dominio privado, o de la enajenación de los mismos, así como por prestar servicios en su carácter de entidad de derecho privado.
+### CAPÍTULO VII. DEL CENTRO DE INVESTIGACIÓN E INFORMACIÓN EN SALUD MENTAL
 
-###### ARTICULO 98.
+###### Artículo 54.
 
-Son productos los ingresos que pueden obtener los municipios por:
+El Centro de Investigación e Información en Salud Mental, funcionará como un centro de información técnico, permanente y estratégico así mismo, llevará a cabo investigaciones científicas en materia de salud mental.
 
-I. Enajenación de bienes muebles de dominio privado;
+Su integración y funcionamiento serán establecidos en el Reglamento de la presente ley.
 
-II. Enajenación de bienes inmuebles de dominio privado;
+###### Artículo 55.
 
-III. Venta de publicaciones;
+El Centro de Investigación e Información en Salud Mental tendrá las siguientes funciones:
 
-IV. Arrendamiento de inmuebles, locales y espacios físicos;
+I. Desarrollar bases de datos que coadyuven a la realización de investigaciones acerca del comportamiento epidemiológico de los distintos trastornos mentales con la finalidad de fortalecer las acciones para la atención de la salud mental;
 
-V. Rendimiento de capitales, y
+II. Realizar investigaciones científicas en materia de salud mental respetando los principios vigentes de confidencialidad, bioética y derechos humanos de los usuarios;
 
-VI. Concesiones a particulares de servicios que no le corresponda prestar directamente al Municipio.
+III. Plantear y coordinar programas de capacitación y actualización para servidores públicos y privados que brinden atención a los usuarios de los servicios salud mental;
 
-###### ARTICULO 99.
+IV. Proponer mecanismos de coordinación entre instancias de Gobierno Federal, así como instituciones públicas, sociales y privadas;
 
-Para la enajenación de bienes inmuebles y para el otorgamiento de concesiones, será necesario que el Ayuntamiento obtenga previamente autorización de la Legislatura estatal. Para la enajenación de bienes muebles y para el arrendamiento de bienes inmuebles distintos de los mercados y estacionamientos, será necesario contar con aprobación del Cabildo.
+V. Brindar asesoría y proporcionar información al Comité, órganos centrales y desconcentrados de la Administración Pública Federal, del Estado de Michoacán y a los organismos sociales, públicos y privados en los temas que le requieran;
 
-Lo anterior, sin perjuicio de la obligación de llevar a cabo las enajenaciones previa subasta o licitación pública, en términos de las leyes respectivas.
+VI. Difundir información de las investigaciones científicas recientes, artículos de divulgación y demás trabajos que sobre salud mental se realicen;
 
-## TITULO SEXTO
+VII. Mantener la confidencialidad y protección de los datos e información de los derechos de las personas con algún trastorno mental, atendiendo en todo momento lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo y demás legislación aplicable; y,
 
-###### ARTICULO 73.
+VIII. Las que le confiera la presente ley y el Reglamento.
 
-Es objeto de esta contribución la ejecución de obras públicas o la prestación de servicios públicos que beneficien a los propietarios de inmuebles ubicados en los municipios del Estado.
+### CAPÍTULO VIII. DEL INTERNAMIENTO
 
-###### ARTICULO 74.
+###### Artículo 56.
 
-Son sujetos de esta contribución:
+Para efectos del presente Capítulo, el internamiento es el ingreso de una persona con un trastorno mental severo en alguna de las instituciones hospitalarias del sector público, social o privado que presten servicios de salud mental, donde el profesional entrenado en salud mental realiza una evaluación y determina la inviabilidad de tratamiento ambulatorio. En todo internamiento será prioritaria la pronta recuperación y reinserción social de la persona.
 
-I. Para obras públicas, los propietarios de los predios beneficiados directamente con ellas, y
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. Para servicios públicos, las personas que sean beneficiadas directamente con ellos.
+Los centros para la prevención, tratamiento y formación de personal para el control de las adicciones, tienen como propósito la prevención, orientación, desintoxicación, deshabituación y reinserción de la persona, con el fin de mejorar la calidad de vida individual, familiar y social de la población, y su organización y funcionamiento deberá estar conforme al Reglamento que al respecto se emita.
 
-###### ARTICULO 75.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Corresponde al poseedor ser sujeto de las contribuciones:
+###### Artículo 57.
 
-I. Cuando el predio no tenga propietario;
+El internamiento de personas con padecimientos mentales, se debe ajustar a principios éticos, sociales, científicos y legales, así como a criterios contemplados en la presente Ley, la Ley General de Salud, la Norma Oficial Mexicana para la prestación de Servicios de Salud en Unidades de Atención Integral Hospitalaria Médico-Psiquiátrica y demás normatividad aplicable.
 
-II. Cuando la propiedad se encuentre en litigio;
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-III. Cuando el propietario se obligue a transmitir el dominio del inmueble y entregue al adquirente la posesión desde luego, y
+Los sectores social y privado, que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de alcoholismo o farmacodependencia, el Gobierno del Estado dictaminará el otorgamiento de estímulos fiscales para inducir las acciones de los sectores social y privado en la prestación de servicios de salud en materia de asistencia social.
 
-IV. Cuando el poseedor sea distinto del propietario de la tierra.
+###### Artículo 58.
 
-###### ARTICULO 76.
+Sólo puede recurrirse al internamiento de una persona, cuando el tratamiento no pueda efectuarse en forma ambulatoria o domiciliaria, y previa indicación de los profesionales acreditados por la Secretaría. El Reglamento señalará las características para este procedimiento.
 
-Cuando el predio se encuentre afecto en fideicomiso, la institución fiduciaria recaudará y entregará la contribución con cargo al propietario del predio beneficiado.
+###### Artículo 59.
 
-###### ARTICULO 77.
+Los establecimientos especializados en salud mental que brinden atención integral hospitalaria evitarán que los internamientos excedan de un total de 90 días al año, esto a fin de proteger el derecho a la inclusión social del paciente.
 
-Tratándose de inmuebles sujetos al régimen de condominio, se considerará que la totalidad del inmueble se beneficia con la obra pública de que se trate, aun cuando sólo parte del mismo se encuentre dentro de la zona beneficiada.
+###### Artículo 60.
 
-La parte del gravamen a cargo de cada propietario se determinará dividiendo el monto de la contribución que corresponda a todo el inmueble entre la superficie construida, incluyendo la de todos los pisos y exceptuando la superficie destinada al servicio de uso común, y el cociente se multiplicará por el número de metros cuadrados que corresponda a cada unidad de propiedad individual.
+El ingreso a las unidades que prestan servicios de atención integral hospitalaria médico-psiquiátrica podrá ser voluntario, de emergencia o por orden de autoridad competente y se ajustará a los procedimientos siguientes:
 
-### CAPITULO UNICO. APROVECHAMIENTOS
+I. El ingreso voluntario requiere de la indicación del médico y de la autorización de la persona usuaria, ambas por escrito, informando a sus familiares o a su representante legal;
 
-###### ARTICULO 100.
+II. El ingreso de emergencia se presenta en el caso de personas con trastornos mentales severos que requieran atención urgente o representen un peligro grave o inmediato para sí mismos o para los demás. Requiere la indicación de un médico psiquiatra y la autorización de un familiar responsable, tutor o representante legal, ambas por escrito.
 
-Los municipios podrán obtener ingresos por su actividad de derecho público no clasificables en otro concepto, señalándose en forma enunciativa y no limitativa, los siguientes:
+a. En caso de extrema urgencia, el usuario puede ingresar por indicación escrita del médico a cargo del servicio de admisión de la Unidad Hospitalaria.
 
-I. Multas administrativas no fiscales;
+b. En cuanto las condiciones de la persona usuaria lo permitan, deberá ser informado de su situación de internamiento, para que en su caso, su condición cambie a la de ingreso voluntario; y,
 
-II. Donaciones;
+III. El ingreso por orden de autoridad se llevará a cabo cuando lo solicite la instancia legal competente, siempre y cuando sea con fines terapéuticos y el paciente lo amerite de acuerdo al examen médico psiquiátrico, ajustándose a los principios establecidos en la presente ley y con base en los principios de derechos humanos.
 
-III. Indemnizaciones;
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
-IV. Reintegros y reembolsos, y
+###### Artículo 61.
 
-V. Cooperaciones.
+El Gobierno del Estado a través de la Secretaría de Seguridad Pública garantizará que las personas que padezcan trastornos mentales, y que estén sujetos a procedimientos penales o condenatorios cuenten con un espacio adecuado para su tratamiento y rehabilitación. Para ello, contará con áreas destinadas a tal propósito a fin de proporcionar manejo médico y rehabilitación acorde al trastorno mental que presenta. En ningún caso, las unidades de la Secretaría de Salud funcionarán como reclusorios de personas con procesos legales.
 
-###### ARTICULO 101.
+###### Artículo 62.
 
-Las multas administrativas no fiscales son las establecidas en las leyes y reglamentos respectivos, y para su determinación la autoridad competente deberá tomar en consideración los siguientes elementos:
+Son facultades exclusivas de la Secretaría de Seguridad Pública Estatal, la asistencia y custodia de las personas con trastornos mentales sujetas a procedimientos penales o condenatorios. La Secretaría de Salud será coadyuvante en la elaboración de programas de capacitación al personal así como de atención y rehabilitación a las personas recluidas.
 
-I. La gravedad de la infracción cometida;
+###### Artículo 63.
 
-II. El perjuicio causado a la comunidad o, al patrimonio o administración municipal;
+El Gobierno, a través de la Secretaría coadyuvará con las instancias judiciales locales en la realización de peritajes psiquiátricos, los cuales se realizarán previa programación y respetando la normativa interna de las unidades de salud.
 
-III. La condición económica del infractor, y
+###### Artículo 64.
 
-IV. La reincidencia, en su caso.
+Las Instituciones de salud mental sean públicas, sociales o privadas, deberán:
 
-El monto de estas multas será el que establezcan las propias disposiciones aplicables o, en su defecto, las que se señalen anualmente en las leyes de ingresos de cada municipio.
+I. Abstenerse de todo tipo de discriminación sobre la base de la discapacidad, velando por que la voluntad de la persona con trastorno mental prevalezca, atendiendo en todo momento los derechos humanos (sic) las personas internadas;
 
-###### ARTICULO 102.
+II. Evitar su aislamiento, permitiendo la visita de sus familiares o persona que ejerza la legítima representación, previa autorización del médico tratante;
 
-Las multas no fiscales no generarán recargos, únicamente se actualizarán conforme lo dispuesto por el Código Fiscal del Estado, desde la fecha en que se notifiquen al particular hasta la fecha en que sean efectivamente pagadas.
+III. Garantizar la confidencialidad de los datos de los pacientes;
 
-## TITULO SEPTIMO
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
-###### ARTICULO 78.
+IV. Contar con personal necesario, capacitado y especializado para proporcionar de manera eficiente atención integral médico-psiquiátrica a las personas con algún trastorno mental de acuerdo con el diagnóstico específico y el grado de avance;
 
-Los municipios podrán establecer contribuciones para las siguientes obras y servicios públicos:
+V. Especificar el tipo de tratamiento que se les proporcionará; y,
 
-I. La rectificación, ampliación, prolongación, alineación y mejoramiento de las vías públicas existentes;
+VI. Contar con los insumos, espacios, y equipo necesario para garantizar la rehabilitación de las personas usuarias de los servicios de salud mental.
 
-II. La apertura de nuevas vías públicas, como las calles, bulevares, calzadas, avenidas y otras similares;
+###### Artículo 65.
 
-III. El trazo de nuevos centros de población y ampliación de los existentes, y
+Las instituciones públicas, sociales y privadas que presten servicios de internamiento a las personas con trastornos mentales deberán cumplir con lo establecido en la presente ley además de lo señalado en las normas oficiales mexicanas en la materia.
 
-IV. La construcción de:
+###### Artículo 66.
 
-a) Plazas, parques y jardines;
+El personal médico deberá establecer el diagnóstico presuntivo, y plan de tratamiento en un máximo de 24 horas después de la admisión del usuario, emitiendo un informe firmado precisando si están dadas las condiciones para continuar con el internamiento.
 
-b) Fuentes públicas, monumentos conmemorativos y de ornato;
+###### Artículo 67.
 
-c) Campos de juego;
+En todo internamiento se requerirá que el familiar o representante legal firme carta responsiva a fin de internar al usuario, con la finalidad de lograr la reinserción social a su comunidad. En caso de ingreso voluntario por solicitud del usuario, el familiar o representante legal deberá presentarse a firmar dicha carta en un plazo máximo de 48 horas. Si el usuario es un menor de edad o el internamiento es por orden de autoridad, además se deberá informar de oficio al Ministerio Público.
 
-d) Atarjeas;
+###### Artículo 68.
 
-e) Tuberías de distribución de agua potable y plantas de tratamiento de agua;
+Además de lo establecido en el artículo anterior, en todo internamiento se deberá de contar con una cédula de identidad del paciente, la cual deberá contener, como mínimo lo siguiente:
 
-f) Pavimentación;
+I. Evaluación y diagnóstico de las condiciones de la persona internada;
 
-g) Banquetas;
+II. Datos acerca de su identidad, y su entorno socio-familiar;
 
-h) Alumbrado público ornamental;
+III. Domicilio y teléfonos para notificaciones;
 
-i) Carreteras;
+IV. Información de su cobertura médico asistencial;
 
-j) Instalaciones destinadas a la educación, deporte y desarrollo comunitario, y
+V. Motivos que justifican la internación; y,
 
-k) Las demás que establezcan las leyes especiales que para el efecto se expidan.
+VI. Autorización de la persona internada, en su caso, de su familiar o representante legal cuando corresponda.
 
-###### ARTICULO 79.
+###### Artículo 69.
 
-Para los efectos de este Capítulo se consideran:
+El médico especialista asentará diariamente en el expediente clínico la evolución del padecimiento y continuidad del tratamiento hospitalario o ambulatorio.
 
-I. Atarjea, la tubería de descarga de desechos que instale en la vía pública para que se conecten a ella directamente los drenajes o albañales de los inmuebles para el desalojo de aguas negras y pluviales;
+###### Artículo 70.
 
-II. Tubería de distribución de agua potable, la que se instale en las vías públicas para derivar de ellas las tomas domiciliarias que abastezcan a cada inmueble;
+Toda institución de carácter social y privado que preste servicios de internamiento, deberá realizar y remitir al departamento de salud mental de la Secretaría, un informe de periodicidad mensual que contenga como mínimo, el nombre de las personas internadas, fecha de ingreso, causas de su internamiento y el avance que tengan en su rehabilitación. Esto a fin de verificar que se cumplen con los principios establecidos de la presente ley.
 
-III. Arroyo, la parte de la vía pública comprendida entre las banquetas y que sirva para el tránsito de vehículos, incluyendo los camellones e isletas;
+###### Artículo 71.
 
-IV. Andador de banqueta, la faja de ésta que se encuentra pavimentada para el tránsito de peatones, y
+En caso de que la persona usuaria sea candidata para continuar su tratamiento ambulatorio, el profesional de la salud mental, deberá manifestarlo por escrito en el expediente clínico procediendo a su alta de hospitalización, debiendo contar con el aval del médico tratante.
 
-V. Obra de construcción, la que se ejecuta por primera vez.
+###### Artículo 72.
 
-###### ARTICULO 80.
+Los familiares o responsables legales del usuario contarán con 72 horas después de haber sido notificados para acudir a la unidad médica por el usuario dado de alta, a fin de que sea reintegrado en la sociedad. De no hacerlo en el plazo establecido, la Secretaría notificará al Sistema Estatal de Desarrollo Integral de la Familia a fin de que en un plazo no mayor a 8 días hábiles proceda a la reinserción del paciente en su familia o comunidad.
 
-Los municipios del Estado, previos los estudios y avalúos de sus dependencias y entidades involucradas, determinarán:
+### CAPÍTULO IX. DE LAS UNIDADES MÉDICAS EN RECLUSORIOS Y DE LOS CENTROS DE INTEGRACIÓN PARA ADOLESCENTES
 
-I. El costo total de la obra;
+###### Artículo 73.
 
-II. Si los sujetos de la contribución deben cubrir el costo total o solamente parte de éste, y
+Para la atención de la salud mental, la Secretaría en coordinación con la Secretaría de Seguridad Pública, implementará acciones en materia de salud mental, a través de las áreas competentes.
 
-III. El plazo para el pago, el que empezará a correr a partir del día siguiente de la fecha en que se notifique al contribuyente la terminación de la obra.
+###### Artículo 74.
 
-###### ARTICULO 81.
+Para proporcionar una atención integral en centros de reclusión, se requiere lo siguiente:
 
-El total de la cantidad recaudada por concepto de contribuciones para obras y servicios públicos, debe destinarse exclusivamente a cubrir los gastos originados por la obra o servicio para los que se exigió la contribución. En ningún caso el importe de la contribución excederá del costo de la obra.
+I. El personal de salud y equipo necesario y suficiente para atender a las personas usuarias de los servicios de salud mental;
 
-### CAPITULO UNICO. PARTICIPACIONES Y TRANSFERENCIAS
+II. La adaptación o creación de nuevos espacios para la atención integral de la salud mental, contando con un consultorio médico que reúna las condiciones requeridas en la normatividad aplicable, áreas donde se pueda brindar atención psicoterapéutica y rehabilitación a las personas usuarias de los servicios de salud mental; y,
 
-###### ARTICULO 103.
+III. Abasto suficiente de los medicamentos para tratamiento de las personas usuarias de los servicios de salud mental.
 
-Los municipios del Estado recibirán, a través del Estado, participaciones de la recaudación federal, en los términos y condiciones que establezcan la Ley de Coordinación Fiscal Federal, y la Ley de Coordinación Fiscal del Estado, así como los coeficientes de distribución de participaciones que establezca la Legislatura local.
+###### Artículo 75.
 
-###### ARTICULO 104.
+En las Unidades Médicas de los Centros de Integración para Adolescentes, se realizarán valoraciones psiquiátricas para la detección oportuna de patologías psiquiátricas y se brindará el tratamiento farmacológico o psicoterapéutico que el menor requiera.
 
-Los municipios recibirán asimismo, las transferencias de aportaciones para conceptos específicos de gasto que se determinen en la Ley de Coordinación Fiscal Federal y, en la Ley para la Administración de las Aportaciones Transferidas al Estado y Municipios de San Luis Potosí, debiendo sujetarse a estas disposiciones para su determinación, entrega y aplicación correspondiente.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
-## TRANSITORIOS
+###### Artículo 76.
 
-PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+La valoración psiquiátrica, se llevará a cabo para identificar la multiplicidad de factores que pueden influir como agentes etiológicos del trastorno mental, destacando los factores orgánicos y psicológicos, así como la manera en que el entorno familiar, social y cultural influyeron en la situación actual del usuario.
 
-SEGUNDO. Esta Ley abroga a la Ley de Hacienda para los Municipios del Estado de San Luis Potosí, publicada el día uno de enero de 1988 en el Periódico Oficial del Estado.
+###### Artículo 77.
 
-TERCERO. A partir de la entrada en vigencia de esta Ley, se derogan todas las disposiciones que se opongan a la misma.
+Los Reclusorios, los Centros de Integración para Adolescentes y los reclusorios preventivos implementarán programas para aprovechar los recursos con los que cuenta, tales como el centro escolar y los diferentes talleres donde la persona usuaria de los servicios de salud mental pueda realizar actividades encaminadas a su rehabilitación.
 
-CUARTO. Los ayuntamientos que no cuenten con reglamentos que normen la prestación de los servicios por los que se cobra algún derecho, tendrán tres meses para elaborarlos a partir de la entrada en vigor de esta Ley.
+### CAPÍTULO X. DEL FINANCIAMIENTO EN SALUD MENTAL
 
-Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
+###### Artículo 78.
 
-DADO en el Salón de Sesiones del H. Congreso del Estado, el día treinta y uno de octubre de dos mil uno.
+La inversión en materia de salud mental constituye una acción de interés social, por ello resulta indispensable el financiamiento de las acciones a que se refiere la presente ley.
 
-Diputado Presidente: Javier Algara Cossio. Diputado Secretario: Olivo Martínez Borja. Diputado Secretario: Ignacio Palacios Robledo. (Rúbricas)
+###### Artículo 79.
 
-DADO en el Palacio de Gobierno, Sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los cinco días del mes de noviembre de dos mil uno.
+Son obligaciones del Gobierno del Estado incluir una partida no menor al 3% del presupuesto total destinado a la salud, que garantice a las dependencias y entidades del Estado cumplir con los objetivos señalados en la presente ley, para ser invertido por la Secretaría en la planeación, organización, operación, supervisión y evaluación de la prestación de los servicios en materia de salud mental.
 
-El Gobernador Constitucional del Estado
+###### Artículo 80.
 
-LIC. FERNANDO SILVA NIETO
+La Secretaría deberá considerar en la erogación del recurso asignado, medidas a mediano y largo plazo para la creación de Módulos de Atención en Salud Mental a efecto de incrementar la cobertura de los servicios de salud mental en el Estado de Michoacán.
 
-(Rúbrica)
+###### Artículo 81.
 
-El Secretario General de Gobierno del Estado
+La Secretaría fomentará la aportación de recursos económicos y en especie para la atención de la salud mental por parte de los sectores social y privado.
 
-LIC. JORGE DANIEL HERNANDEZ DELGADILLO
+### CAPÍTULO XI. DE LAS SANCIONES Y RECURSOS
 
-(Rúbrica)
+###### Artículo 82.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+Las violaciones a los preceptos de esta ley, su reglamento y demás disposiciones legales que de ella emanen, serán sancionadas administrativamente por:
 
-P.O. 14 DE DICIEMBRE DE 2002.
+I. La Contraloría General del Gobierno del Estado; y,
 
-PRIMERO. El presente Decreto entrará en vigencia el día uno de enero de 2003.
+II. La COEPRIS en el ámbito de su competencia.
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+Lo anterior, sin menoscabo de las sanciones que establezcan otros ordenamientos jurídicos.
 
-P.O. 20 DE DICIEMBRE DE 2003.
+###### Artículo 83.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+La Contraloría es competente para vigilar y sancionar las acciones u omisiones que cometan los servidores públicos que deriven en incumplimiento del presente ordenamiento, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán.
 
-SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+###### Artículo 84.
 
-P.O. 3 DE JULIO DE 2007.
+La COEPRIS, vigilará, regulará y sancionará las contravenciones a las disposiciones señaladas en la presente ley, sólo para el caso de los establecimientos que brindan servicios de salud mental.
 
-PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+###### Artículo 85.
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+Contra los actos y resoluciones definitivas que deriven de la aplicación de la presente ley, el interesado podrá interponer los recursos previstos en el Código de Justicia Administrativa del Estado de Michoacán.
 
-P.O. 12 DE FEBRERO DE 2011.
+T R A N S I T O R I O S
 
-PRIMERO. Este Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada en el presupuesto de egresos, instrumentará las acciones establecidas en la presente ley.
 
-SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+SEGUNDO. El Gobierno del Estado y la Secretaría de Salud considerarán la situación presupuestal para la consecución de los fines del presente Decreto en el Presupuesto de Egresos del Estado de Michoacán que corresponda.
 
-P.O. 19 DE JUNIO DE 2012.
+TERCERO. El Titular del Poder Ejecutivo contará con 180 días para la publicación del Reglamento de la presente Ley.
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+CUARTO. El Comité deberá ser instalado a más tardar 60 días después de la entrada en vigor del presente Decreto.
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+QUINTO. El Comité, contará con un plazo de 90 días, contados a partir de su instalación, para aprobar su reglamento interno.
 
-P.O. 9 DE OCTUBRE DE 2012.
+SEXTO. Para la instalación del Centro de Investigación e Información en Salud Mental, la Secretaría contará con un plazo de 120 días después de la entrada en vigor del presente Decreto.
 
-PRIMERO.- Estas reformas y adiciones entraran en vigor al día siguientes (sic) de su publicación en el Periódico Oficial del Estado.
+SÉPTIMO. La Secretaría contará con 180 días para emitir el Modelo de Salud Mental, los programas respectivos así como el reglamento de la presente ley.
 
-SEGUNDO.- Se abrogan y derogan las disposiciones que se opongan al presente decreto.
+OCTAVO. Los establecimientos que se encuentren operando actualmente deberán solicitar su registro ante la Secretaría, en un término de 60 días a la entrada en vigor de la presente ley.
 
-P.O. 25 DE MAYO DE 2013.
+El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
-PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 29 veintinueve días del mes de julio de 2014 dos mil catorce.
 
-SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. ALFONSO JESÚS MARTÍNEZ ALCÁZAR.- PRIMER SECRETARIO.- DIP. JOSÉ ELEAZAR APARICIO TERCERO.- SEGUNDA SECRETARIA.- DIP. DANIELA DE LOS SANTOS TORRES.- TERCER SECRETARIO.- DIP. SARBELIO AUGUSTO MOLINA VÉLEZ. (Firmados).
 
-P.O. 20 DE JULIO DE 2013.
+En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la Residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a 26 veintiséis días del mes de agosto del año 2014 dos mil catorce.
 
-PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARIO OSEGUERA MÉNDEZ.- (Firmados).
 
-SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-P.O. 14 DE AGOSTO DE 2014.
+P.O. 26 DE DICIEMBRE DE 2017.
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 423 POR EL QUE "SE ADICIONAN LAS FRACCIONES X BIS Y XXI BIS AL ARTÍCULO 4°, UNA FRACCIÓN IV BIS AL ARTÍCULO 10, UNA FRACCIÓN IV BIS AL ARTÍCULO 16, UN SEGUNDO PÁRRAFO AL ARTÍCULO 17, UNA FRACCIÓN VII BIS AL ARTÍCULO 43, UN SEGUNDO PÁRRAFO AL ARTÍCULO 56, UN SEGUNDO PÁRRAFO AL ARTÍCULO 57; Y SE REFORMA EL ARTÍCULO 39 DE LA LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
-SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-P.O. 28 DE OCTUBRE DE 2014.
+P.O. 28 DE AGOSTO DE 2019.
 
-PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 154 POR EL QUE “SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 3° DE LA LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-P.O. 17 DE ABRIL DE 2018.
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
 
-###### ARTICULO 82.
+P.O. 22 DE JULIO DE 2021.
 
-El costo de una obra de planificación comprenderá todas las erogaciones que deban hacerse para su realización.
+## [N. DE E. TRANSITORIOS DEL DECRETO LEGISLATIVO 549 POR EL QUE "SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 4°, SE ADICIONA LA FRACCIÓN V RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 10; SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 15; Y, SE REFORMAN LOS ARTÍCULOS 22, 30 Y 31 DE LA LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO",]
 
-Estas erogaciones incluirán:
+PRIMERO. La presente Reforma de Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-I. Honorarios de asesores técnicos;
+SEGUNDO. El Titular del Poder Ejecutivo tendrá un plazo de sesenta días naturales para las modificaciones al Reglamento de la presente Ley.
 
-II. Gastos que demanden los estudios preliminares, levantamiento de planos y proyectos;
+TERCERO. La Secretaría de Salud en el Estado, deberá de garantizar la presentación del servicio de salud mental en los centros de salud locales de primer nivel en el Estado, lo cual deberá realizar de forma progresiva, debiendo contemplar el recurso necesario en la Ley de Ingresos y Presupuesto de Egresos para el ejercicio fiscal 2022 y los sucesivos ejercicios fiscales, para la infraestructura y personal necesario.
 
-III. Gastos topográficos y de valuación;
+P.O. 23 DE ENERO DE 2023.
 
-IV. Importe de maquetas;
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 301.- PRIMERO.- SE REFORMA LA FRACCIÓN XXIV DEL ARTÍCULO 4°; LAS FRACCIONES IV Y VI DEL ARTÍCULO 15; LA FRACCIÓN I DEL ARTÍCULO 37; EL ARTÍCULO 61; LA FRACCIÓN IV DEL ARTÍCULO 64; Y, EL ARTÍCULO 76 DE LA LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
-V. Precio de la superficie de terreno que sea necesario adquirir o expropiar para la ejecución de la obra;
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-VI. Pago de indemnizaciones diversas;
+P.O. 28 DE MAYO DE 2024.
 
-VII. Gastos generales para la ejecución de la obra, y
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 648 POR EL QUE "SE ADICIONAN AL ARTÍCULO 4° LAS FRACCIONES XI BIS Y XXII BIS Y SE REFORMA LA FRACCIÓN XXI BIS; SE ADICIONA AL ARTÍCULO 10 LA FRACCIÓN XVI Y SE REFORMAN LAS FRACCIONES XIV Y XV; Y, SE REFORMA EL ARTÍCULO 14, TODOS DE LA LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
-VIII. Cualquier otro gasto necesario.
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-###### ARTICULO 83.
-
-Del costo de la obra de planificación se deducirá:
-
-I. El precio en que se estime que se venderán las fracciones de predios adquiridos que no se utilicen para la obra;
-
-II. El precio en que se estime se venderán las superficies de la vía pública que se retirarán del servicio con motivo de la ejecución de la obra;
-
-III. El precio en que se estime que se venderán los terrenos que se ganen a los cauces, márgenes o lechos de los ríos, vasos, lagos, lagunas o esteros y depósitos naturales de aguas, y
-
-IV. Las aportaciones voluntarias de particulares o entidades públicas destinadas a la ejecución de la obra.
-
-###### ARTICULO 84.
-
-Para estimar el precio en que se venderán las fracciones de predios que no se utilicen para las obras, la superficie de terreno que se retire del servicio público con motivo de la ejecución de aquellas, y los terrenos que se ganen a los cauces o lechos de los ríos, vasos, lagos, lagunas, o esteros y depósitos naturales de aguas, se tomará como base el valor de los predios circunvecinos.
-
-###### ARTICULO 85.
-
-Quedan facultados los municipios para celebrar convenios con las organizaciones representativas de contribuyentes para determinar:
-
-I. La parte del costo de la obra que deben cubrir los particulares cuyos inmuebles se localicen dentro del área geográfica que se defina mediante Acuerdo Administrativo del Gobernador del Estado, como zona que recibe el beneficio de la obra o servicio de que se trate;
-
-II. La forma de hacer la determinación de las cuotas individuales, y
-
-III. Los plazos para el pago de la contribución.
-
-###### ARTICULO 86.
-
-La cuota a cargo de cada contribuyente será determinada teniendo en cuenta:
-
-I. Si la construcción es para obras públicas:
-
-a) El beneficio directo que reciba el inmueble con la mejora;
-
-b) El beneficio indirecto en su caso, y
-
-II. Si la construcción es para servicios públicos la cuota será general y equitativa.
-
-###### ARTICULO 87.
-
-Determinados el costo total de la obra, la cantidad que deberán cubrir los contribuyentes y la cuota que cada uno deba pagar, las tesorerías municipales formularán y notificarán las liquidaciones correspondientes que contendrán:
-
-I. Un resumen descriptivo de la obra pública realizada;
-
-II. Determinación de los predios que reciban beneficio directo y los que lo reciban en forma indirecta;
-
-III. La ubicación del predio del contribuyente;
-
-IV. El costo total de la obra;
-
-V. La cantidad total que deban aportar los contribuyentes;
-
-VI. La cantidad que le corresponda pagar a cada contribuyente;
-
-VII. Término en que deba hacerse el pago, si es al contado o en parcialidades;
-
-VIII. Constancia de que la obra ha quedado terminada, y
-
-IX. Esta notificación se hará dentro del plazo de treinta días siguientes a la fecha de terminación de la obra.
-
-###### ARTICULO 88.
-
-Recibida la notificación de que habla el artículo anterior, el contribuyente tendrá un plazo de quince días para presentar sus observaciones por escrito y ofrecer, en su caso, las pruebas correspondientes a la autoridad que dictó el acto notificado, la que, con vista del escrito del contribuyente y en su caso las pruebas que ofrezca, dictará la resolución que corresponda.
-
-###### ARTICULO 89.
-
-Tratándose de las construcciones o reconstrucciones de atarjeas y de la instalación o reposición de tuberías de distribución de agua potable, la determinación de las cuotas que a cada contribuyente correspondan se hará conforme a las siguientes normas:
-
-I. Tratándose de una sola tubería instalada en el eje de la vía pública, se considerarán beneficiadas ambas aceras; y la cuota correspondiente al costo por metro lineal se aplicará por partes iguales a los inmuebles con frente a los diferentes lados de la calle o calles;
-
-II. Tratándose de una sola tubería instalada en uno solo de los lados de la calle, que preste servicio únicamente a los inmuebles del lado más cercano, la cuota se cobrará solamente a éstos; si la misma tubería beneficia a los inmuebles del lado opuesto, la cuota se aplicará por mitades a los inmuebles con frente a cada lado de la calle, y
-
-III. Si son dos o más las tuberías que se instalen a ambos lados del arroyo, los inmuebles de cada uno se considerarán beneficiados por la obra de su lado y se pagarán las cuotas que por ello les correspondan. Lo dispuesto en este artículo se hará independientemente de los ordenamientos municipales o sanitarios aplicables.
-
-###### ARTICULO 90.
-
-La instalación o reposición de tomas domiciliarias para surtirse de agua de las tuberías de distribución, y la construcción o reconstrucción de albañales para conectarse con las atarjeas, se hará por cuenta exclusiva de los propietarios de los inmuebles con frente a las vías públicas por las que pasen tales tuberías.
-
-Todos los predios edificados con frente a las calles por donde pasen tuberías de distribución de agua potable estarán obligados a conectarse a la red de servicio. Si no existe conexión por causa imputable al propietario o poseedor del predio, se aplicará a éste una sanción equivalente al doble de la cuota que debería pagarse por el servicio.
-
-###### ARTICULO 91.
-
-La contribución para obras de pavimentación se causará por metros cuadrados, conforme a las reglas siguientes:
-
-I. Si la pavimentación cubre la totalidad del arroyo, la contribución será a cargo de los propietarios o poseedores de los inmuebles beneficiados en ambas aceras de la vía pública;
-
-II. La contribución se determinará multiplicando la cuota unitaria correspondiente por el número de metros lineales comprendidos desde la guarnición de la banqueta hasta el eje del ancho del arroyo, y este producto por el número de metros lineales de frente de cada inmueble;
-
-III. Si la pavimentación cubre únicamente una franja igual o menor a la mitad del ancho del arroyo, la contribución la pagarán sólo los propietarios o poseedores de los inmuebles que tengan frente a la acera más cercana a la parte del arroyo que se haya pavimentado. En este caso, la contribución se liquidará multiplicando la cuota unitaria que corresponda por la medida en metros lineales del ancho de la franja pavimentada que, a su vez, se multiplicará por el número de metros lineales del frente de cada inmueble; el producto así obtenido será el monto de la contribución que deberá cubrir el propietario de cada inmueble, y
-
-IV. Si la pavimentación cubre una franja que comprenda ambos lados del eje del arroyo, pero no la totalidad del ancho de éste, la contribución será a cargo de los propietarios o poseedores de los inmuebles situados en ambas aceras, proporcionalmente al ancho de la franja pavimentada de cada una de las mitades del arroyo. La contribución correspondiente a cada inmueble se liquidará en los términos establecidos por la fracción II de este artículo, aplicando el procedimiento separadamente a cada una de las franjas comprendidas en cada lado del ancho del arroyo.
-
-###### ARTICULO 92.
-
-La construcción del pavimento para cubrir las superficies ocupadas por camellones que se supriman o reduzcan en calles ya pavimentadas, no originará contribución alguna.
-
-Las carpetas con un espesor menor a cinco centímetros se considerarán como obras de conservación y, en consecuencia, no darán lugar al pago de contribuciones.
-
-Cuando la parte de la superficie de una vía pública esté pavimentada y otra sin pavimentar y se pavimente todo el ancho del arroyo, la superficie que ya ha tenido pavimento se considerará como obra de reconstrucción, y la superficie que no estaba pavimentada se considerará como obra de construcción.
-
-Para este efecto, previamente al retiro del pavimento ya existente, deberá medirse su ancho para el efecto de que se tome en consideración para la determinación de las cuotas respectivas; en el caso de banquetas, si solamente se ejecutan obras en alguna de las aceras, la contribución será únicamente a cargo de los propietarios de inmuebles beneficiados en la acera pavimentada.
-
-###### ARTICULO 93.
-
-Cuando se hagan instalaciones de alumbrado público, si las lámparas se instalan en el centro del arroyo o en ambas aceras, las cuotas unitarias se pagarán por mitades por los propietarios de los inmuebles con frente a las mismas. Si la instalación se hace en una acera, la contribución será a cargo de los propietarios de los inmuebles con frente a la acera beneficiada.
-
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
-
-###### ARTICULO 94.
-
-Cuando por error en las medidas de los frentes de los inmuebles la determinación del monto de las cuotas correspondientes a los propietarios de cada inmueble sea inexacta, pero la diferencia a favor o en contra no exceda 0.42 de la unidad de medida y actualización, se tendrá como correcta la cuota fijada.
-
-###### ARTICULO 95.
-
-En caso de construcción de carreteras para liquidar la cuota correspondiente, se procederá en la siguiente forma:
-
-I. Se fijará una cuota sobre los productos agropecuarios que se obtengan en los predios cultivados, teniendo en cuenta el beneficio directo que recibirá el propietario del predio o, en su caso, el beneficio indirecto, y
-
-II. La cuota correspondiente a predios no explotados se fijará estimativamente en forma razonada.
-
-###### ARTICULO 96.
-
-La cuota a cargo de los propietarios o poseedores de los predios no cultivados se cubrirá en la forma que establezca el cabildo municipal respectivo.
-
-## TITULO QUINTO
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 933.- SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 63, DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ”.]
-
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
-
-SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-
-P.O. 2 DE OCTUBRE DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 1211.- SE REFORMAN LAS LEYES DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ; HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ; ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ; BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ; LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ; OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ; RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE SAN LUIS POTOSÍ; DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ Y DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, A EFECTO DE ELIMINAR LAS REFERENCIAS AL SALAMIO (SIC) MÍNIMO Y SUSTITUIRLAS POR LAS RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
-
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
-
-SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
-
-P.O. 20 DE AGOSTO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 0239.- SE REFORMAN LOS ARTÍCULOS 5°, 6°, 19 Y 30 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ”.]
-
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
-
-SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-
-P.O. 3 DE OCTUBRE DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 0270.- SE REFORMAN LOS ARTÍCULOS 1º, 6º, 9º, 13, 14, Y 15 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ”.]
-
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
-
-SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
