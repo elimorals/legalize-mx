@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-de-datos-personales-en-posesion-de-los-122721
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2021-06-05"
+last_updated: "2023-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el miércoles 19 de julio de 2017.
 
@@ -35,7 +35,7 @@ La Sexagésima Primera Legislatura Constitucional del Estado Libre y Soberano de
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[...]
 
 ÚNICO. Se expide la Ley de Protección de Datos Personales del Estado de San Luis Potosí; para quedar como sigue:
 
@@ -219,11 +219,13 @@ III. Se cuente con el consentimiento expreso y por escrito del titular, o
 
 IV. Sean necesarios por razones de seguridad pública, orden público, salud pública o salvaguarda de derechos de terceros.
 
-Tratamiento de datos personales de menores y adolescentes
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2023)</small>
+
+Tratamiento de datos personales de niñas, niños y adolescentes
 
 ###### ARTÍCULO 9°.
 
-En el tratamiento de datos personales de menores de edad, el responsable deberá privilegiar el interés superior de las niñas, niños y adolescentes, en términos de las disposiciones previstas en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de San Luis Potosí y demás ordenamientos que resulten aplicables.
+En el tratamiento de datos personales de niñas, niños y adolescentes, el responsable deberá observar el principio del interés superior de la niñez, en términos de las disposiciones previstas en la Constitución Política de los Estados Unidos Mexicanos, Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de San Luis Potosí y demás ordenamientos que resulten aplicables.
 
 Fuentes de acceso público
 
@@ -387,11 +389,13 @@ Obtención del consentimiento cuando los datos personales se recaben indirectame
 
 Cuando el responsable recabe datos personales indirectamente del titular y se requiera de su consentimiento conforme al artículo 19 de la presente Ley, éste no podrá tratar los datos personales hasta que cuente con la manifestación de la voluntad libre, específica e informada del titular, mediante la cual autoriza el tratamiento de los mismos, ya sea tácita o expresa según corresponda.
 
-Consentimiento de menores de edad, estado de interdicción o incapacidad declarada por ley
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2023)</small>
+
+Consentimiento de niñas, niños y adolescentes; estado de interdicción o incapacidad declarada por ley
 
 ###### ARTÍCULO 26.
 
-En la obtención del consentimiento de menores de edad o de personas que se encuentren en estado de interdicción o incapacidad declarada por ley, se estará a lo dispuesto en las reglas de representación previstas en la legislación civil que resulte aplicable del Estado de San Luis Potosí.
+En la obtención del consentimiento de niñas, niños y adolescentes o de personas que se encuentren en estado de interdicción o incapacidad declarada por ley, se estará a lo dispuesto en las reglas de representación previstas en la legislación civil que resulte aplicable del Estado de San Luis Potosí.
 
 Consentimiento para el tratamiento de datos personales sensibles
 
@@ -867,11 +871,13 @@ En cualquier momento, el titular o su representante podrán solicitar al respons
 
 El ejercicio de los derechos ARCO por persona distinta a su titular o a su representante, será posible, excepcionalmente, en aquellos supuestos previstos por disposición legal, o en su caso, por mandato judicial.
 
-Ejercicio de derechos ARCO de menores de edad
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2023)</small>
+
+Ejercicio de derechos ARCO de niñas, niños y adolescentes
 
 ###### ARTÍCULO 70.
 
-En el ejercicio de los derechos ARCO de menores de edad o de personas que se encuentren en estado de interdicción o incapacidad declarada por las leyes civiles del Estado de San Luis Potosí, se estará a las reglas de representación dispuestas en la misma legislación.
+En el ejercicio de los derechos ARCO de niñas, niños y adolescentes o de personas que se encuentren en estado de interdicción o incapacidad declarada por las leyes civiles del Estado de San Luis Potosí, se estará a las reglas de representación dispuestas en la misma legislación.
 
 Ejercicio de derechos ARCO de personas fallecidas
 
@@ -2514,3 +2520,11 @@ P.O. 5 DE JUNIO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 14 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0718.- SE REFORMAN LOS ARTÍCULOS 9°, 26 Y 70, DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
