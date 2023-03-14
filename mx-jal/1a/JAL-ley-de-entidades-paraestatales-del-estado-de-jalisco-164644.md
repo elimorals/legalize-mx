@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-entidades-paraestatales-del-estado-de-jalisco-164644"
 country: "mx"
 rank: "ley"
 publication_date: "2023-02-23"
-last_updated: "2023-02-23"
+last_updated: "2023-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "JAL"
 ---
 # LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE JALISCO
 
-> <small>[N. DE E. ESTE ORDENAMIENTO CUENTA CON UNA SEGUNDA IMPRESION EN LA SECCIÓN V DEL PERIODICO OFICIAL NÚMERO 43 DE FECHA 14 DE MARZO DE 2023.]</small>
+> <small>[N. DE E. ESTE ORDENAMIENTO CUENTA CON UNA REPUBLICACIÓN PUBLICADA EN LA SECCION V DEL PERIODICO OFICIAL NÚMERO 43 DE FECHA 14 DE MARZO DE 2023.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE MARZO DE 2023 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE JALISCO
 
 TEXTO ORIGINAL.
 
-Ley publicada en el Número 35 de la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 23 de febrero de 2023.
+Ley publicada en el Número 35 de la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 23 de febrero de 2023. (REPUBLICADA EN EL P.O. 14 DE MARZO DE 2023).
 
 Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.
 
@@ -475,7 +477,7 @@ III. Los demás integrantes que se establezcan en el instrumento de creación.
 
 1. El Comité Técnico tendrá las siguientes atribuciones:
 
-I. Establecer, en congruencia con el Plan Estatal de Desarrollo y Gobernanza, las políticas generales y definir las prioridades a las que deberá sujetarse el fideicomiso para su funcionamiento:
+I. Establecer, en congruencia con el Plan Estatal de Desarrollo y Gobernanza, las políticas generales y definir las prioridades a las que deberá sujetarse el fideicomiso para su funcionamiento;
 
 II. Aprobar, en su caso, los manuales de organización y de procedimientos de la estructura administrativa aplicable;
 
@@ -483,7 +485,7 @@ III. Aprobar los programas y presupuestos del Fideicomiso y sus modificaciones, 
 
 IV. Fijar y ajustar, en su caso, los precios de bienes y servicios que produzca o preste el Fideicomiso, con excepción de aquellos que se determinen por acuerdo del Ejecutivo Estatal u otras autoridades competentes;
 
-V. Conocer anualmente el dictamen de los auditores externos, sobre los estados financieros del fideicomiso: y
+V. Conocer anualmente el dictamen de los auditores externos, sobre los estados financieros del fideicomiso; y
 
 VI. Constituir e instalar un Comité de Adquisiciones, conforme con la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios. Los Fideicomisos sin estructura, que tengan la necesidad de adquirir bienes o servicios y cuenten con tal atribución, deberán celebrar convenios con dependencias o entidades paraestatales pertenecientes a su sector que cuenten con un comité de adquisiciones formalmente instalado para dar cumplimiento a la normativa aplicable, para llevar a cabo las licitaciones necesarias para su operación y funcionamiento con cargo a su patrimonio;
 
@@ -761,6 +763,8 @@ IV. Los rasgos más destacados de su organización para la producción o distrib
 
 2. El Órgano Interno de Control se integrará con la estructura para el cumplimiento de sus atribuciones, de conformidad con la normativa aplicable.
 
+(REPUBLICADO, P.O. 14 DE MARZO DE 2023)
+
 ## TRANSITORIOS
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
@@ -777,7 +781,7 @@ Sexto. La Secretaria de la Hacienda Pública del Estado deberá publicar en su p
 
 Séptimo. Las Entidades contarán con un plazo de 180 días naturales, contados a partir de la entrada en vigor de este decreto, para actualizar los productos, derechos, cantidades y comisiones que obtenga por los servicios que presten, debiendo publicarlas dentro de ese plazo en el periódico oficial "El Estado de Jalisco". Lo anterior no será aplicable en los casos que existan disposiciones especiales para la expedición y vigencia de los conceptos que cobre alguna Entidad.
 
-Octavo. La Subsecretaría General de Gobierno tendrá un plazo de 15 días hábiles, contados a partir del mismo día del inicio de vigencia de este decreto, para transferir a la Consejería Jurídica del Poder Ejecutivo del Estado, todos los procedimientos de responsabilidad notarial a que se refieren el párrafo segundo el artículo Octavo transitorio del decreto 27213/LXII/18 así como el párrafo segundo del artículo Quinto transitorio del decreto 27218/LXII/18, que se reforman a través del presente decreto.
+Octavo. La Subsecretaría General de Gobierno tendrá un plazo de 15 días hábiles, contados a partir del mismo día del inicio de vigencia de este decreto, para transferir a la Consejería Jurídica del Poder Ejecutivo del Estado, todos los procedimientos de responsabilidad notarial a que se refieren el párrafo segundo (sic) el artículo Octavo transitorio del decreto 27213/LXII/18 así como el párrafo segundo del artículo Quinto transitorio del decreto 27218/LXII/18, que se reforman a través del presente decreto.
 
 Durante el lapso establecido en el párrafo anterior, estarán suspendidos los términos y plazos en todos los procedimientos de responsabilidad notarial materia de dicha transferencia.
 
