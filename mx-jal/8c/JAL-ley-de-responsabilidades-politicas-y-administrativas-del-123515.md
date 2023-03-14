@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-politicas-y-administrativas-del-123515
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-26"
-last_updated: "2022-08-04"
+last_updated: "2023-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
 
 Ley publicada en la Sección VI del No. 38 del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -661,7 +661,17 @@ II. Los mecanismos de prevención y rendición de cuentas, las declaraciones de 
 
 III. El régimen de los servidores públicos que participan en contrataciones públicas y el protocolo de actuación en contrataciones;
 
-IV. Los procedimientos de investigación, sustanciación y calificación de las faltas administrativas, impugnaciones en la calificación de las faltas administrativas, procesos de responsabilidad administrativa, medios ordinarios de defensa, ejecución de sanciones, registros, plataformas digitales y en general, todo lo que conlleve al sistema disciplinario administrativo de los servidores públicos; y
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 14 DE MARZO DE 2023)</small>
+
+IV. Los procedimientos de investigación, sustanciación y calificación de las faltas administrativas, impugnaciones en la calificación de las faltas administrativas, procesos de responsabilidad administrativa, medios ordinarios de defensa, ejecución de sanciones, registros, plataformas digitales y en general, todo lo que conlleve al sistema disciplinario administrativo de los servidores públicos. Las denuncias podrán ser anónimas y, en su caso:
+
+a) Las autoridades investigadoras garantizan el anonimato en todo el proceso, manteniendo con carácter de confidencial la identidad de las personas que denuncien las presuntas infracciones;
+
+b) Las autoridades habilitarán un espacio virtual en su sitio web de fácil identificación, para que la ciudadanía pueda realizar denuncias anónimas;
+
+c) Las denuncias deberán ser acusadas mediante un número de folio para su índice de identificación; y
+
+d) En caso de presentarse denuncia ante autoridad diversa, ésta deberá remitirla a la competente para que se desahogue el debido proceso.
 
 V. Todos aquellos otros conceptos, definiciones, ámbitos, atribuciones o procedimientos que se encuentren establecidos y regulados por las leyes generales de Responsabilidades Administrativas y del Sistema Nacional Anticorrupción.
 
@@ -1248,3 +1258,9 @@ I. 10% de descuento en el pago de derechos por refrendo vehicular y tarjeta de c
 II. 20% de descuento en el derecho por dotación de placas a los vehículos foráneos que cumplieron con la verificación vehicular y deseen contar con placas del Estado de Jalisco, a quienes verifiquen en el Ejercicio Fiscal 2022.
 
 Quinto. La Secretaría de Medio Ambiente y Desarrollo Territorial en coordinación con la Contraloría del Estado, deberán comunicar y realizar campañas de difusión en todos los entes públicos respecto de sus obligaciones derivadas de este decreto en materia de verificación vehicular.
+
+P.O. 14 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29142/LXIII/23 QUE REFORMA LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
