@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-cultura-fisica-y-deporte-del-estado-de-jalisco-87613"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-19"
-last_updated: "2022-08-25"
+last_updated: "2023-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 19 de abril de 2012.
 
@@ -118,6 +118,10 @@ XV. La existencia de una adecuada cooperación a nivel nacional es necesaria par
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2017)</small>
 
 XVI. Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones.
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2023)</small>
+
+XVII. Fomentar la práctica de las artes marciales en consonancia, congruencia y armonía con los Reglamentos del Sistema Nacional del Deporte.
 
 ###### Artículo 4°.
 
@@ -1162,3 +1166,9 @@ P.O. 25 DE AGOSTO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 14 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29141/LXIII/23 QUE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 3 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
