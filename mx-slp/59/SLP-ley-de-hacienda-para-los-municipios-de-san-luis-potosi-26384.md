@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-de-san-luis-potosi-26384"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-06"
-last_updated: "2019-10-03"
+last_updated: "2023-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
 
 Ley publicada en la Sección Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 6 de noviembre de 2001.
 
@@ -219,9 +219,9 @@ El impuesto predial será anual y su pago deberá hacerse por bimestres adelanta
 
 Cuando se trate de incentivos y estímulos fiscales a la inversión y a la generación de empleos, los ayuntamientos podrán incluir en su iniciativa de Ley de Ingresos, los descuentos e incentivos que consideren convenientes para el impulso y fortalecimiento del desarrollo económico del municipio.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2023)</small>
 
-Tratándose de personas mayores de 60 años; jubilados; pensionados; personas discapacitadas; e indígenas, los ayuntamientos podrán someter a la consideración de la Legislatura Estatal, en su iniciativa de ley de ingresos, una reducción en el pago de este impuesto hasta por un 70% del mismo.
+Tratándose de personas mayores de 60 años; jubilados; pensionados; personas con discapacidad; e indígenas, los ayuntamientos podrán someter a la consideración de la Legislatura Estatal, en su Iniciativa de Ley de Ingresos, una reducción en el pago de este impuesto hasta por un 70% del mismo.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
 
@@ -1044,5 +1044,13 @@ P.O. 3 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0270.- SE REFORMAN LOS ARTÍCULOS 1º, 6º, 9º, 13, 14, Y 15 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0717.- SE REFORMA EL ARTÍCULO 20, EN SU PÁRRAFO TERCERO, DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
