@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-anticorrupcion-del-estado-de-jalisco-122604"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2023-01-14"
+last_updated: "2023-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 18 de julio de 2017.
 
@@ -241,6 +241,42 @@ XI. Aquellas que prevean las reglas de funcionamiento y organización interna de
 
 4. El Sistema Estatal sesionará previa convocatoria del Comité Coordinador en los términos en que este último lo determine.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE MARZO DE 2023)</small>
+
+5. El Comité Coordinador podrá celebrar sesiones a distancia mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+I. La identificación visual plena de los integrantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+IV. Transmitirse en vivo para el público en general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+VIII. La validez del acta y de los acuerdos aprobados se acreditará con la constancia de la votación, firmados por quien presidió la sesión.
+
 ###### Artículo 13.
 
 1. Las determinaciones se tomarán por mayoría de votos, salvo en los casos que esta Ley establezca mayoría calificada.
@@ -338,6 +374,42 @@ VI. El plazo en que se deberá hacer la designación que al efecto se determine,
 ###### Artículo 20.
 
 1. El Comité de Participación Social se reunirá, previa convocatoria de su Presidente o cuando así se requiera a petición de la mayoría de sus integrantes. Las decisiones se tomarán por mayoría de votos de los miembros presentes y en caso de empate, se volverá a someter a votación, y en caso de persistir el empate se enviará el asunto a la siguiente sesión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE MARZO DE 2023)</small>
+
+2. El Comité de Participación Social podrá celebrar sesiones a distancia mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+I. La identificación visual plena de los integrantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+IV. Transmitirse en vivo para el público en general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+VIII. La validez del acta y de los acuerdos aprobados se acreditará con la constancia de la votación firmados por quien presidió la sesión.
 
 ###### Artículo 21.
 
@@ -511,6 +583,42 @@ Coordinador y será presidido por el Presidente del Comité de Participación So
 
 4. Podrán participar con voz pero sin voto aquellas personas que el órgano de gobierno, a través del Secretario Técnico, decida invitar en virtud de su probada experiencia en asuntos que sean de su competencia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE MARZO DE 2023)</small>
+
+5. El órgano de gobierno podrá celebrar sesiones a distancia mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+I. La identificación visual plena de los integrantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+IV. Transmitirse en vivo para el público en general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+VIII. La validez del acta y de los acuerdos aprobados se acreditará con la constancia de la votación firmados por quien presidió la sesión.
+
 ###### Artículo 29.
 
 1. El órgano de gobierno tendrá las atribuciones previstas en las disposiciones de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco que rigen las juntas de gobierno, salvo aquellas que por disposición de esta Ley correspondan a otro órgano.
@@ -560,6 +668,42 @@ IX. Las adecuaciones que se requieran para su homologación con las normas emiti
 3. Por las labores que realicen como miembros de la Comisión Ejecutiva, los integrantes del Comité de Participación Social, recibirán adicionalmente los recursos materiales y administrativos necesarios para su participación como integrantes del Comité de Participación Social, de conformidad con lo establecido en esta Ley.
 
 4. La Comisión Ejecutiva podrá, en el ámbito de sus atribuciones, emitir los exhortos que considere necesarios a las autoridades integrantes del Comité Coordinador, a través del Secretario Técnico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE MARZO DE 2023)</small>
+
+5. La Comisión Ejecutiva podrá celebrar sesiones a distancia mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+I. La identificación visual plena de los integrantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+IV. Transmitirse en vivo para el público en general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2023)</small>
+
+VIII. La validez del acta y de los acuerdos aprobados se acreditará con la constancia de la votación firmados por quien presidió la sesión.
 
 #### Sección III. Secretario Técnico
 
@@ -856,5 +1000,11 @@ P.O. 6 DE NOVIEMBRE DE 2021.
 P.O. 14 DE ENERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28822/LXIII/23 QUE REFORMA EL ARTÍCULO 18 NUMERAL 3 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 14 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29137/LXIII/23 QUE REFORMAN LOS ARTÍCULOS 12, 20, 28 Y 32 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
