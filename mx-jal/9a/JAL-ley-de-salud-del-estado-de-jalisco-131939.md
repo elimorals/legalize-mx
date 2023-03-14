@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2022-11-12"
+last_updated: "2023-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -283,9 +283,13 @@ Del Sistema Estatal de Salud. Coordinación.
 
 1. El Sistema Estatal de Salud, será coordinado por la Secretaría de Salud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 14 DE MARZO DE 2023)</small>
+
 ###### Artículo 18.
 
 Del Sistema Estatal de Salud. Atribuciones.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE MARZO DE 2023)</small>
 
 1. Con la finalidad de dar cumplimiento a los objetivos del Sistema Estatal de Salud, la Secretaría de Salud tendrá las siguientes atribuciones:
 
@@ -321,13 +325,15 @@ XIV. Promover y exhortar la participación de la población en el cuidado de su 
 
 XV. Asegurar a todos los grupos en situación de vulnerabilidad el acceso efectivo de todos los servicios de salud mediante la ampliación constante de su cobertura, así como procurar la equidad y atender las necesidades particulares de cada persona;
 
-XVI. Fomentar la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de dichos insumos; y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2019)</small>
+XVI. Fomentar la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de dichos insumos;
 
-XVII. Constituir, actualizar y coordinar la Federación el Registro Estatal de Cáncer; y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XVII], P.O. 28 DE DICIEMBRE DE 2019)</small>
+XVII. Constituir y mantener actualizado un Registro Estatal de Enfermedades No Transmisibles, estableciendo rubros específicos para el Cáncer y diabetes; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE MARZO DE 2023)</small>
 
 XVIII. Las demás contenidas en la normatividad aplicable.
 
@@ -2141,11 +2147,25 @@ Enfermedades Transmisibles. De los Comités Municipales.
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2023)</small>
+
 ###### Artículo 160.
 
 Enfermedades No Transmisibles. Prevención y Control.
 
-1. Las autoridades sanitarias del Estado, en el ámbito de su competencia, realizarán actividades de prevención y control de las enfermedades no transmisibles que las mismas determinen.
+1. Las autoridades sanitarias del Estado, y las instituciones prestadoras de servicios de salud, en el ámbito de su competencia, realizarán actividades de prevención, detección temprana y control de las enfermedades no transmisibles que las mismas determinen, de conformidad con las normas oficiales mexicanas.
+
+2. Al efecto la Secretaría de Salud Jalisco constituirá de manera progresiva un Registro de los casos de enfermedades no transmisibles que tendrá, por lo menos, identificadas a las siguientes:
+
+I. Cardiovasculares;
+
+II. Cáncer;
+
+III. Enfermedades respiratorias;
+
+IV. Diabetes mellitus; y
+
+V. Renales.
 
 ###### Artículo 161.
 
@@ -2177,17 +2197,27 @@ Enfermedades Transmisibles. Consejo Consultivo.
 
 1. Para una adecuada prevención y atención, las instituciones integrantes del Sistema de Salud, bajo la rectoría de la Secretaría de Salud, crearán el Consejo Consultivo de Prevención y Control de Enfermedades No Transmisibles del Estado de Jalisco.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2023)</small>
 
-#### SECCIÓN SEGUNDA. DEL REGISTRO ESTATAL DE CÁNCER
+#### SECCIÓN SEGUNDA. DEL REGISTRO ESTATAL DE ENFERMEDADES NO TRANSMISIBLES
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2023)</small>
 
-Artículo. 163 Bis. Registro Estatal de Cáncer. Objeto.
+Artículo. 163 Bis. Registro Estatal de Enfermedades no transmisibles. Objeto.
 
-1. La Secretaría de Salud Jalisco constituirá un registro de los casos de cáncer en el Estado, en coordinación con el Registro Nacional de Cáncer, el Sistema Estatal de Información Básica en Materia de Salud y el Instituto Jalisciense en Cancerología, a fin de fortalecer las acciones que se llevan a cabo para su prevención y atención oportuna, de conformidad con la Ley General de Salud.
+1. La Secretaría de Salud Jalisco constituirá un Registro de los casos de enfermedades no transmisibles conforme lo establece el numeral 2 del artículo 160.
 
-2. El Registro Estatal, deberá reportar al Registro Nacional de Cáncer, cada año, el número de personas enfermas que se reportaron en ese periodo de tiempo.
+2. Se establecerá la coordinación institucional con el Registro Nacional de Cáncer, el Sistema Estatal de Información Básica en Materia de Salud y las demás instituciones de Salud, a fin de fortalecer las acciones que se llevan a cabo para su prevención y atención oportuna, de conformidad con la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2023)</small>
+
+Artículo. 163 Ter. Del periodo de informes.
+
+1. En los tiempos y periodos que la Secretaría de Salud establezca para cada patología, las instituciones públicas y privadas, deberán remitir un informe a la Secretaría de Salud Jalisco, que contenga los datos que contenga el Reglamento.
+
+2. El Registro Estatal, deberá reportar de manera puntual, acorde a los tiempos que eventualmente establezcan los Registros Nacionales, para cada una de las enfermedades, el número de personas enfermas que se registraron en ese periodo de tiempo, así como los datos que soliciten, acorde con los lineamientos que en su momento emitan.
+
+3. La recopilación, integración y disposición de la información necesaria para la operación del Registro, con base poblacional, será garantizando la protección de datos personales de los pacientes de conformidad con (sic) Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios y (sic) Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios.
 
 #### SECCIÓN CUARTA (SIC). DE LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE ADICCIONES
 
@@ -2609,6 +2639,8 @@ Comisión Estatal de Bioética. Integración del Consejo.
 
 6. Los consejeros podrán designar a sus respectivos suplentes para los casos de ausencias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 14 DE MARZO DE 2023)</small>
+
 ###### Artículo 203.
 
 Comisión Estatal de Bioética. Sesiones del Consejo.
@@ -2618,6 +2650,26 @@ Comisión Estatal de Bioética. Sesiones del Consejo.
 2. Se considerará que habrá quórum para la celebración de las sesiones cuando éstas se realicen con la asistencia de la mitad más uno de sus miembros y entre ellos se encuentre el Secretario Técnico, que representará al Presidente en sus ausencias.
 
 3. De cada sesión deberá levantarse acta debidamente circunstanciada y suscrita por quienes participaron en ella.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE MARZO DE 2023)</small>
+
+4. El Consejo podrá celebrar sesiones a distancia mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones; y
+
+VIII. La validez del acta y de los acuerdos aprobados se acreditará con la constancia de la votación firmados por quien presidió la sesión.
 
 ###### Artículo 204.
 
@@ -2783,13 +2835,33 @@ VIII. Un representante de la Secretaría de Salud.
 
 3. Podrán acreditar un representante ante el Consejo con derecho a voz, previa invitación que les gire la Comisión, el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicio Social de los Trabajadores del Estado y la Comisión de Higiene y Salud Pública del Congreso del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2023)</small>
+
 ###### Artículo 212.
 
 Comisión de Arbitraje Médico. Sesiones del Consejo.
 
-1. El Consejo sesionará ordinariamente, por lo menos una vez cada dos meses, extraordinariamente cada que se requiera por convocatoria del Comisionado, y celebrará una sesión especial anual para la aprobación del Programa Operativo Anual. Las decisiones se tomarán por mayoría de votos; en caso de empate, el Comisionado tendrá voto de calidad.
+1. El Consejo sesionará ordinariamente, por lo menos una vez cada dos meses, extraordinariamente cada que se requiera por convocatoria del Comisionado, y celebrará una sesión especial anual para la aprobación del Programa Operativo Anual. Las decisiones se tomarán por mayoría de votos; en caso de empate, el Comisionado tendrá voto de calidad. Se considerará que habrá quórum para la celebración de las sesiones cuando éstas se realicen con la asistencia de la mitad más uno de sus miembros.
 
-2. El Consejo tendrá las siguientes funciones:
+2. El Consejo podrá celebrar sesiones a distancia mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones; y
+
+VIII. La validez del acta y de los acuerdos aprobados se acreditará con la constancia de la votación, firmados por quien presidió la sesión.
+
+3. El Consejo tendrá las siguientes funciones:
 
 I. Definir, en congruencia con los planes y programas nacionales y estatales, las políticas de administración y de servicios, a seguir por la Comisión;
 
@@ -4656,3 +4728,19 @@ P.O. 12 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28846/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 100 Y 105 DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 14 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29138/LXIII/23 QUE REFORMAN (SIC) LOS ARTÍCULOS 203 Y 212 DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 14 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29146/LXIII/23 QUE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 18, ADICIONA EL NUMERAL 2 AL ARTÍCULO 160, Y MODIFICA LA DENOMINACIÓN DE LA SECCIÓN SEGUNDA DEL TÍTULO QUINTO, CAPÍTULO II, ASÍ COMO EL ARTÍCULO 163 BIS Y SE ADICIONA EL ARTICULO 163 TER DE LA LEY DE SALUD DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Titular del Ejecutivo Estatal, contara con un plazo de 120 días a partir de la entrada en vigor del presente decreto, para realizar las adecuaciones reglamentarias y presupuestarias para la asignación de los recursos que se dispongan en el presupuesto de egresos para lograr la consecución de dicho fin.
+
+TERCERO. La Secretaría de Salud Jalisco, deberá expedir los lineamientos para constituir, operar y actualizar el Registro Estatal de Enfermedades No Transmisibles, a más tardar de noventa días contados a partir de la entrada en vigencia del presente decreto.
