@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-consejeria-juridica-del-ejecutivo-683
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-15"
-last_updated: "2020-11-12"
+last_updated: "2023-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68386&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-05-13"
 ---
 # REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO FEDERAL, PUBLICADO EN EL D.O.F. DE 14 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2023 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 15 de mayo de 2009.
 
@@ -846,3 +848,19 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO. Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
 
 TERCERO. Cuando se involucren recursos presupuestarios en el auxilio que la Consejería proporcione al Órgano Interno de Control de la Secretaría de la Función Pública, en los términos del párrafo último del artículo 7 de este Reglamento, ese auxilio se efectuará conforme a los criterios que determinen la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
+
+D.O.F. 14 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO FEDERAL".]
+
+Primero. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Reglamento Interior de la Consejería Jurídica del Ejecutivo Federal publicado el 15 de mayo de 2009 en el Diario Oficial de la Federación y se derogan las disposiciones administrativas que se opongan al presente decreto.
+
+Tercero. Las referencias y atribuciones que se hagan y se otorguen respectivamente en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones a las unidades administrativas que desaparezcan o cambien de denominación por virtud del presente decreto se entienden hechas o conferidas, en su caso, a las unidades administrativas competentes de conformidad con este ordenamiento.
+
+Cuarto. La persona titular de la unidad de Administración y Finanzas de la Consejería Jurídica del Ejecutivo Federal llevará a cabo los movimientos presupuestales y organizacionales para los ajustes requeridos con motivo de este decreto.
+
+Quinto. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto se realizarán con cargo al presupuesto aprobado a la Consejería Jurídica del Ejecutivo Federal para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+Sexto. Cuando en términos del último párrafo del artículo 8 de este decreto, el auxilio que proporcione la Consejería Jurídica del Ejecutivo Federal al Órgano Interno de Control, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, para lo cual deben observar lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforma, adiciona y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado el 30 de noviembre de 2018 en el Diario Oficial de la Federación.
