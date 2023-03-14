@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transporte-del-estado-de-puebla-152811"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-03"
-last_updated: "2021-12-03"
+last_updated: "2023-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TRANSPORTE DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
 
 Ley publicada en la Edición Vespertina del Número 3 en el Periódico Oficial del Estado de Puebla, el viernes 3 de diciembre de 2021.
 
@@ -367,9 +367,17 @@ IV. Contar con un sistema físico y virtual, efectivo y transparente para quejas
 
 V. Recibir atención médica inmediata y en su caso a la indemnización por las lesiones causadas en su persona y daños en sus bienes ocasionados por siniestros viales;
 
-VI. A que los prestadores del servicio reduzcan el riesgo vial y el impacto ambiental generado por su operación, y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2023)</small>
 
-VII. Conocer el número de licencia, tarjetón de concesión o tarjetón de permiso servicio público o tarjetón mercantil, fotografía y nombre del conductor, matrícula de la unidad; información que deberá estar colocada en un lugar visible del vehículo en un tamaño que permita su lectura a distancia, así como conocer el número telefónico para información y quejas.
+VI. A que los prestadores del servicio reduzcan el riesgo vial y el impacto ambiental generado por su operación;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2023)</small>
+
+VII. Conocer el número de licencia, tarjetón de concesión o tarjetón de permiso servicio público o tarjetón mercantil, fotografía y nombre del conductor, matrícula de la unidad; información que deberá estar colocada en un lugar visible del vehículo en un tamaño que permita su lectura a distancia, así como conocer el número telefónico para información y quejas, y
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2023)</small>
+
+VIII. Contar con asientos y espacios preferentes para mujeres, en términos de la normatividad aplicable, a fin de evitar el acoso sexual.
 
 ###### ARTÍCULO 16.
 
@@ -1736,3 +1744,15 @@ SÉPTIMO. Las erogaciones que deriven de la aplicación de esta Ley se sujetará
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinticinco días del mes de noviembre de dos mil veintiuno. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputada Vicepresidenta. KARLA VICTORIA MARTÍNEZ GALLEGOS. Rúbrica. Diputada Vicepresidenta. NANCY JIMÉNEZ MORALES. Rúbrica. Diputada Secretaria. LAURA IVONNE ZAPATA MARTÍNEZ. Rúbrica. Diputada Secretaria. MARÍA YOLANDA GÁMEZ MENDOZA. Rúbrica.
 
 Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, al primer día del mes de diciembre de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica. La Secretaria de Movilidad y Transporte. CIUDADANA ELSA MARÍA BRACAMONTE GONZÁLEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VI Y VII DEL ARTÍCULO 15 Y ADICIONA LA FRACCIÓN VIII AL 15 DE LA LEY DE TRANSPORTE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las disposiciones normativas aplicables deberán emitirse en un plazo que no exceda de 180 días.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
