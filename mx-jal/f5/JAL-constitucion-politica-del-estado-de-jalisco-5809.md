@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2022-10-27"
+last_updated: "2023-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -123,19 +123,27 @@ Toda persona tiene derecho a la cultura; a participar libremente en la vida cult
 
 Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE MARZO DE 2023)</small>
+
+Las personas en situación de dependencia tienen el derecho a ser cuidadas de manera digna y a recibir los elementos materiales y simbólicos que sustenten su vida para vivir en sociedad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE MARZO DE 2023)</small>
+
+Las personas que realizan trabajo doméstico no remunerado o de cuidados a personas en situación de dependencia realizado en el propio hogar, serán atendidas y reconocidas como generadores de riqueza y bienestar social.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE MARZO DE 2023)</small>
 
 El Estado de Jalisco tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas que son aquellos que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE MARZO DE 2023)</small>
 
 La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE MARZO DE 2023)</small>
 
 Son comunidades integrantes de un pueblo indígena, aquellas que formen una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE MARZO DE 2023)</small>
 
 El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional. El reconocimiento de los pueblos y comunidades indígenas se hará en las leyes reglamentarias, las que deberán tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos y de asentamiento físico.
 
@@ -4379,7 +4387,7 @@ CUARTO. A efecto de establecer condiciones más equitativas en las participacion
 
 P.O. 27 DE OCTUBRE DE 2022.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 28826/LXIII/22 QUE REFORMA EL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28826/LXIII/22 QUE REFORMA EL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
@@ -4389,6 +4397,12 @@ TERCERO. El Instituto Electoral y de Participación Ciudadana del Estado de Jali
 
 P.O. 27 DE OCTUBRE DE 2022.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO 28827/LXIII/22 QUE REFORMA LOS ARTÍCULOS 21 Y 74 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.
+## [N. DE E. TRANSITORIO DEL “DECRETO 28827/LXIII/22 QUE REFORMA LOS ARTÍCULOS 21 Y 74 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 14 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28863/LXIII/22 QUE REFORMA EL ARTÍCULO 4º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
