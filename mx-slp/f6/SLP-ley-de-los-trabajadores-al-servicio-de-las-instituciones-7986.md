@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2022-07-15"
+last_updated: "2023-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -85,9 +85,21 @@ Para efectos de la presente ley, se entenderán por instituciones públicas de g
 
 Para los efectos de esta Ley se entiende por:
 
-I. Hostigamiento: al ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral, que se expresa en conductas verbales, físicas o ambas, y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2023)</small>
 
-II. Acoso sexual: A una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
+I. Acoso sexual: a una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2023)</small>
+
+II. Hostigamiento: al ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral, que se expresa en conductas verbales, físicas o ambas;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2023)</small>
+
+III. Violencia y acoso laboral: al conjunto de comportamientos y prácticas inaceptables, o de amenazas de tales comportamientos y prácticas, ya sea que se manifiesten una sola vez o de manera repetida, que tengan por objeto, que causen o sean susceptibles de causar, un daño físico, psicológico, sexual o económico, e incluye la violencia y el acoso por razón de género, y
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2023)</small>
+
+IV. Violencia y acoso por razón de género: se le designa así a la violencia y el acoso que van dirigidos contra las personas por razón de su sexo o género, o que afectan de manera desproporcionada a personas de un sexo o género determinado, e incluye el acoso sexual.
 
 ###### ARTICULO 6o.
 
@@ -2216,6 +2228,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 15 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0365.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 119, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0715.- SE REFORMA EL ARTÍCULO 5° BIS EN SUS FRACCIONES I Y II; Y ADICIONA AL MISMO ARTÍCULO 5° BIS, LAS FRACCIONES III Y IV, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
