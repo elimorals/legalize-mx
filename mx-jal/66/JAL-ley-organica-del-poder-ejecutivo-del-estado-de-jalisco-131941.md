@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2023-02-23"
+last_updated: "2023-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE MARZO DE 2023 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2023.
+
+(REPUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023)
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -129,7 +133,7 @@ VI. Difundir las políticas, programas y proyectos en la materia de su competenc
 
 VII. Orientar y asesorar a los municipios que así lo soliciten, en las materias de su competencia;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
 VIII. Tramitar y resolver los recursos administrativos de su competencia, así como atender y dar seguimiento a cualquier tipo de proceso judicial, tanto en el orden común como federal en que sean parte;
 
@@ -285,7 +289,7 @@ V. Fortalecer la planeación y el desarrollo de la agenda institucional de admin
 
 VI. Planear, programar, organizar y evaluar el funcionamiento de sus respectivas áreas;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
 VII. Proponer proyectos, planes y programas de trabajo a las dependencias y entidades bajo su coordinación o sectorización y en su caso podrá realizar observaciones o modificaciones en las propuestas inherentes al anteproyecto de presupuesto de egresos;
 
@@ -299,7 +303,7 @@ XI. Firmar convenios de colaboración y refrendar los acuerdos de su competencia
 
 XII. Coordinar acciones tendientes a vigilar el correcto ejercicio de las facultades a cargo de las dependencias y entidades bajo su coordinación o sectorización;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
 XIII. Coordinar la actualización de las disposiciones reglamentarias por parte de las dependencias y entidades bajo su coordinación o sectorización, para garantizar una mayor eficiencia y eficacia en la función gubernamental y administrativa;
 
@@ -331,31 +335,31 @@ XVII. Las demás que se prevean en la presente ley, así como los reglamentos co
 
 I. Auxiliar al Gobernador del Estado en el ejercicio de las facultades constitucionales y legales del Poder Ejecutivo del Estado, en las materias que les correspondan de acuerdo a su competencia;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
 II. Formular proyectos de iniciativas de ley o decreto, proyectos de reglamentos y acuerdos en las materias de su competencia y remitirlos al Gobernador del Estado por conducto de la Secretaría General de Gobierno, informando a la Coordinación General Estratégica a la que estén sectorizadas;
 
 III. Refrendar los reglamentos, decretos y acuerdos en las materias de su competencia, que emita el Gobernador del Estado en ejercicio de sus facultades constitucionales, con la firma de su titular. La Secretaría General de Gobierno, deberá refrendar todas las leyes, reglamentos, decretos, acuerdos y demás disposiciones que el Gobernador promulgue o expida.
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
 IV. Elaborar el ante-proyecto de Presupuesto de Egresos del Gobierno del Estado, respecto a las previsiones presupuestales necesarias en las materias de su competencia, en armonía con la Coordinación General Estratégica a la que se encuentre agrupada, en los términos que establezcan las disposiciones aplicables;
 
 V. Participar conjuntamente con la Coordinación General Estratégica a la que se encuentre agrupada, en la elaboración del plan estatal de desarrollo correspondiente, así como los planes y programas que de éste se deriven, respecto de las materias de su competencia;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
 VI. Elaborar y suscribir los convenios de colaboración y coordinación en las materias de su competencia, con la participación de la Coordinación General Estratégica a la que se encuentre agrupada, celebrados por el Gobierno del Estado con la federación, las entidades federativas y los municipios, o con particulares;
 
 VII. Proponer al Gobernador del Estado, a través de la Coordinación General Estratégica a la que se encuentre agrupada, la celebración de instrumentos de cooperación con las autoridades federales y municipales, o con particulares, en las materias de su competencia;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
 VIII. Elaborar y proponer los manuales de organización, operación, procedimientos y servicios de la dependencia;
 
 IX. Expedir, a través de su titular, los acuerdos, circulares, instructivos, bases y manuales administrativos conducentes para el buen despacho de las funciones a su cargo;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
 X. Dar seguimiento a los lineamientos y políticas de las entidades que tenga sectorizadas, informando a la Coordinación General Estratégica a la que se encuentre agrupada;
 
@@ -363,7 +367,7 @@ XI. Participar en la elaboración y modificación de los programas institucional
 
 XII. Participar en los proyectos que, en las materias de su competencia, el Gobernador del Estado debe someter a la revisión del Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
 XIII. Promover, incentivar y encauzar la participación ciudadana y la intervención de las organizaciones de la sociedad civil;
 
@@ -371,11 +375,11 @@ XIV. Autorizar los nombramientos de los servidores públicos adscritos a su resp
 
 XV. Ejercer sus atribuciones auxiliándose de las entidades que se encuentren sectorizadas, en los términos establecidos en las leyes de la materia;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
 XVI. Proponer en su caso, al Gobernador del Estado, la extinción y liquidación, fusión o escisión de entidades, previa opinión de la Coordinación General Estratégica a la cual se encuentre agrupada, siempre que dejen de cumplir sus fines u objeto, su funcionamiento no resulte viable financieramente o sea innecesario de acuerdo con el interés público que perseguía, debiendo en su caso, por conducto de la Secretaría de Administración, diseñar e implementar las acciones necesarias para su disolución y liquidación;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
 XVII. Proponer en su caso, al Gobernador del Estado por conducto de la Coordinación General Estratégica a la cual se encuentre agrupada, la creación de aquellas entidades que estimen necesarias o convenientes para el correcto y eficaz ejercicio de las atribuciones que tienen conferidas; y
 
@@ -471,7 +475,7 @@ XVIII. Administrar el Registro de Profesionistas y sus colegios en el Estado;
 
 XIX. Llevar el registro de autógrafos para la legalización de las firmas de funcionarios públicos estatales y municipales, así como los servidores públicos con fe pública y notarios;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
 XX. Administrar el Sistema de Firma Electrónica Avanzada;
 
@@ -489,7 +493,7 @@ XXVI. Organizar el Servicio Social Profesional en el Estado;
 
 XXVII. Tramitar lo relacionado con los nombramientos, renuncias y licencias de los titulares de las dependencias y entidades de la Administración Pública Estatal;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
 XXVIII. Hacerse cargo a través de su titular, del despacho del Ciudadano Gobernador del Estado, en el caso previsto en el artículo 43 de la Constitución Política del Estado de Jalisco;
 
@@ -675,11 +679,11 @@ II. Proponer al titular del Poder Ejecutivo las principales directrices de accio
 
 III. Registrar y administrar los bienes muebles e inmuebles propiedad de la Administración Pública del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
-IV. Programar y ejecutar, en coordinación con las dependencias, la selección, contratación, capacitación y actualización de los servidores públicos al servicio del Poder Ejecutivo, así como vigilar que las entidades se sujeten a las políticas en la materia establecidos por éste; excepto personal operativo, que se regirán por su propia normativa.
+IV. Programar y ejecutar, en coordinación con las dependencias, la selección, contratación, capacitación y actualización de los servidores públicos al servicio del Poder Ejecutivo, así como vigilar que las entidades se sujeten a las políticas en la materia establecidos (sic) por éste; excepto personal operativo, que se regirán por su propia normativa.
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
 V. Contar con un registro de los servidores públicos y del personal que preste servicios por honorarios a las dependencias del Poder Ejecutivo;
 
@@ -687,13 +691,13 @@ VI. Llevar el registro y afiliación en instituciones de seguridad social de tod
 
 VII. Obtener y mantener al corriente la información sobre los estudios académicos de los servidores públicos que requieran título o grado y que deban ser nombrados por el Ejecutivo;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
 VIII. Proponer los lineamientos y políticas de nombramientos, licencias, destituciones, renuncias y jubilaciones de los servidores públicos adscritos a las dependencias, que no se atribuyen expresamente por la ley a otras dependencias;
 
 IX. Autorizar las compatibilidades de los servidores públicos, para que puedan desempeñar más de un empleo, conforme a las leyes;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
 X. Administrar el Servicio Profesional Civil de Carrera en la administración pública del estado, así como el Servicio Social Estudiantil, Prácticas Profesionales y Estadías en la administración pública del Poder Ejecutivo.
 
@@ -923,7 +927,7 @@ XV. Coadyuvar con las Secretarías que tengan injerencia en programas sociales, 
 
 XVI. La Administración y control de las escuelas normales, las de formación, actualización, capacitación y superación profesional docente conforme a las disposiciones de las leyes generales y federales en materia educativa;
 
-XVII. (DEROGADA, P.O. 23 DE FEBRERO DE 2023)
+XVII. (DEROGADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2021)</small>
 
@@ -1813,7 +1817,7 @@ II. Realizar las tareas relativas a la ingeniería de tránsito y transporte en 
 
 III. Otorgar, negar, modificar o revocar los permisos, subrogaciones y concesiones necesarios para la explotación del servicio de transporte público y de la vialidad en el estado;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA, P.O. 14 DE MARZO DE 2023)
 
 IV. Proponer y colaborar con las instancias de planeación y ejecución de obras en el establecimiento de políticas, programas y proyectos relativos a la construcción, mantenimiento, reparación de obras de transporte y vialidad, así como realizar auditorías e inspecciones de seguridad vial;
 
@@ -2303,7 +2307,7 @@ II. Las Empresas de Participación Estatal; y
 
 III. Los Fideicomisos Públicos.
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADO, P.O. 14 DE MARZO DE 2023)
 
 ###### Artículo 67.
 
@@ -2311,7 +2315,7 @@ III. Los Fideicomisos Públicos.
 
 ###### Artículo 68.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ### Capítulo II. Organismos Públicos Descentralizados
 
@@ -2319,97 +2323,97 @@ III. Los Fideicomisos Públicos.
 
 ###### Artículo 69.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ###### Artículo 70.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ###### Artículo 71.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ###### Artículo 72.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 #### Sección Segunda. Junta de Gobierno
 
 ###### Artículo 73.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ###### Artículo 74.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ###### Artículo 75.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 #### Sección Tercera. Director General
 
 ###### Artículo 76.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ###### Artículo 77.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ###### Artículo 78.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 #### Sección Cuarta. Órgano de Control
 
 ###### Artículo 79.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ###### Artículo 80.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ### Capítulo III. Empresas de Participación Estatal
 
 ###### Artículo 81.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ###### Artículo 82.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ###### Artículo 83.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ###### Artículo 84.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ###### Artículo 85.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ###### Artículo 86.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ### Capítulo IV. Fideicomisos Públicos
 
 ###### Artículo 87.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ###### Artículo 88.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ###### Artículo 89.
 
-(DEROGADO, P.O. 23 DE FEBRERO DE 2023)
+(DEROGADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 14 DE MARZO DE 2023)
 
 ## TRANSITORIOS
 
@@ -2615,13 +2619,13 @@ SÉPTIMO. El mando, coordinación y control de la Policía Vial conferidos a la 
 
 OCTAVO. Las órdenes emitidas para practicar visitas de inspección a notarías públicas, así como las visitas en práctica que hasta antes de la entrada en vigor del presente Decreto estaban siendo substanciadas por la Procuraduría Social, continuarán siendo desahogadas por la Secretaría General de Gobierno hasta su conclusión.
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADO, P.O. 14 DE MARZO DE 2023)
 
 Los procedimientos de oficio o queja administrativa en contra de notarios públicos, así como cualquier trámite o procedimiento de responsabilidad notarial o vinculado a la función notarial, serán substanciados por la Consejería Jurídica del Poder Ejecutivo del Estado hasta su conclusión.
 
 La Secretaría General de Gobierno dará el trámite que conforme a la Ley del Notariado del Estado de Jalisco, corresponda, a las actas levantadas con motivo de las visitas de inspección a notarías públicas que se hubiesen ordenado o practicado por la Procuraduría Social antes de la entrada en vigor del presente decreto.
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
+(REFORMADA, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADO, P.O. 14 DE MARZO DE 2023)
 
 Para el ejercicio de las anteriores facultades en materia de visitaduría notarial, la Secretaría General de Gobierno se auxiliará de la Subsecretaría General de Gobierno o de la persona que éste designe directamente o bien, conforme lo disponga el Reglamento de la citada Secretaría.
 
@@ -2977,11 +2981,13 @@ P.O. 21 DE ABRIL DE 2022.
 
 ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Jalisco"
 
+(REPUBLICADO, P.O. 14 DE MARZO DE 2023)
+
 P.O. 23 DE FEBRERO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29153/LXIII/23 DEL CONGRESO DEL ESTADO DE JALISCO, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO; EXPIDE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO 27213/LXII/18”.]
 
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 Segundo. En lo correspondiente a los Fideicomisos a que se refiere la Ley de Entidades Paraestatales que se expide, se dictarán desde luego las disposiciones relativas para que, en su caso, los Comités Técnicos se ajusten a la integración y funcionamiento que en dicha Ley se señala respecto a los órganos de gobierno y se designarán en los casos en que proceda a sus Órganos Internos de Control por la Contraloría del Estado.
 
@@ -2989,12 +2995,12 @@ Tercero. El Congreso del Estado realizará las reformas que, en su caso, resulte
 
 Cuarto. La persona titular de la Dirección General o quienes realicen funciones similares en las Entidades existentes a la vigencia de esta Ley, deberán bajo su responsabilidad, inscribirlas en el Registro en un plazo de 15 días hábiles contados a partir de la entrada en vigor del presente decreto.
 
-Quinto. Se deberá adecuar el contenido de las disposiciones reglamentarias de las Entidades a lo dispuesto en la presente ley, para lo cual contarán con un período no mayor a 80 días naturales contados a partir de la entrada en vigor del presente Decreto, para presentar el proyecto correspondiente ante el Ejecutivo del Estado.
+Quinto. Se deberá adecuar el contenido de las disposiciones reglamentarias de las Entidades a lo dispuesto en la presente ley, para lo cual contarán con un periodo no mayor a 80 días naturales contados a partir de la entrada en vigor del presente Decreto, para presentar el proyecto correspondiente ante el Ejecutivo del Estado.
 
-Sexto. La Secretaría de la Hacienda Pública del Estado deberá publicar en su portal de transparencia, en un término no mayor a 60 días naturales contados a partir de la entrada en vigencia del presente decreto, la relación de las Entidades que conformen la Administración Pública Paraestatal, así como el agrupamiento de Dependencias y sectorización de Entidades vigente (sic), debiendo mantenerlos actualizados.
+Sexto. La Secretaria de la Hacienda Pública del Estado deberá publicar en su portal de transparencia, en un término no mayor a 60 días naturales contados a partir de la entrada en vigencia del presente decreto, la relación de las Entidades que conformen la Administración Pública Paraestatal, así como el agrupamiento de Dependencias y sectorización de Entidades vigente, debiendo mantenerlos actualizados.
 
-Séptimo. Las Entidades contarán con un plazo de 180 días naturales, contados a partir de la entrada en vigor de este decreto, para actualizar los productos, derechos, cantidades y comisiones que obtenga por los servicios que presten, debiendo publicarlas dentro de ese plazo en el periódico oficial “El Estado de Jalisco”. Lo anterior no será aplicable en los casos que existan disposiciones especiales para la expedición y vigencia de los conceptos que cobre alguna Entidad.
+Séptimo. Las Entidades contarán con un plazo de 180 días naturales, contados a partir de la entrada en vigor de este decreto, para actualizar los productos, derechos, cantidades y comisiones que obtenga por los servicios que presten, debiendo publicarlas dentro de ese plazo en el periódico oficial "El Estado de Jalisco". Lo anterior no será aplicable en los casos que existan disposiciones especiales para la expedición y vigencia de los conceptos que cobre alguna Entidad.
 
-Octavo. La Subsecretaría General de Gobierno tendrá un plazo de 15 días hábiles, contados a partir del mismo día del inicio de vigencia de este decreto, para transferir a la Consejería Jurídica del Poder Ejecutivo del Estado, todos los procedimientos de responsabilidad notarial a que se refieren el párrafo segundo el artículo Octavo transitorio del decreto 27213/LXII/18 así como el párrafo segundo del artículo Quinto transitorio del decreto 27218/LXII/18, que se reforman a través del presente decreto.
+Octavo. La Subsecretaría General de Gobierno tendrá un plazo de 15 días hábiles, contados a partir del mismo día del inicio de vigencia de este decreto, para transferir a la Consejería Jurídica del Poder Ejecutivo del Estado, todos los procedimientos de responsabilidad notarial a que se refieren el párrafo segundo el (sic) artículo Octavo transitorio del decreto 27213/LXII/18 así como el párrafo segundo del artículo Quinto transitorio del decreto 27218/LXII/18, que se reforman a través del presente decreto.
 
 Durante el lapso establecido en el párrafo anterior, estarán suspendidos los términos y plazos en todos los procedimientos de responsabilidad notarial materia de dicha transferencia.
