@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2021-09-04"
+last_updated: "2023-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -1425,17 +1425,17 @@ En caso de detectar un riesgo cuya magnitud pudiera rebasar sus propias posibili
 
 ### CAPITULO VII. De las unidades Internas de protección civil
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2023)</small>
 
 ###### Artículo 45.
 
-Las dependencias y organismos de la administración pública estatal y de los gobiernos municipales, integrarán a su estructura orgánica unidades internas y adoptarán las medidas encaminadas a instrumentar, en el ámbito de sus respectivas funciones, la ejecución de los programas de protección civil. Estas están obligadas a realizar cuando menos dos simulacros de evacuación por año.
+Las dependencias y organismos de la administración pública estatal y de los gobiernos municipales, integrarán a su estructura orgánica unidades internas y adoptarán las medidas encaminadas a instrumentar, en el ámbito de sus respectivas funciones, la ejecución de los programas de protección civil. Estas están obligadas a realizar cuando menos tres simulacros de evacuación por año, los cuales se llevarán a cabo cada ciento veinte días naturales entre uno y otro realizándose estos en día hábil, pudiendo solicitar a la autoridad competente se realice un estudio de riesgo sobre las condiciones físicas del inmueble de que se trate, previo estudio que se haya detectado con potencial de riesgo por parte de la unidad interna de protección civil, el cual puede ser realizado en cualquier tiempo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2023)</small>
 
 ###### Artículo 46.
 
-Las empresas industriales, de servicio y Centros laborales deberán contar con un sistema de prevención y protección para sus propios bienes y su entorno, conforme a las especificaciones que indique el Reglamento. Dicho sistema deberá ser evaluado y aprobado directamente por la Unidad Estatal o a través de las unidades municipales. Dichas negociaciones y centros laborales realizarán, cuando menos, dos simulacros de evacuación por año.
+Las empresas industriales, de servicio y centros laborales deberán contar con un sistema de prevención y protección para sus propios bienes y su entorno, conforme a las especificaciones que indique el Reglamento. Dicho sistema deberá ser evaluado y aprobado directamente por la Unidad Estatal o a través de las unidades municipales. Dichas negociaciones y centros laborales realizarán, cuando menos, tres simulacros de evacuación por año, los cuales se llevarán a cabo cada ciento veinte días naturales entre uno y otro realizándose estos en día hábil, pudiendo solicitar a la autoridad competente se realice un estudio de riesgo sobre las condiciones físicas del inmueble de que se trate, previo estudio que se haya detectado con potencial de riesgo por parte de la unidad interna de protección civil, el cual puede ser realizado en cualquier tiempo.
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -1773,9 +1773,9 @@ El Sistema Educativo Estatal implementará en todas las escuelas de la entidad, 
 
 Con apoyo en el Atlas de Riesgo del Estado de Jalisco, los planteles escolares que integran el Sistema Educativo Estatal realizarán simulacros para capacitar operativamente a la comunidad escolar y promoverán la capacitación de las personas que integren el Comité de Protección Civil y Seguridad Escolar.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2023)</small>
 
-Todos los planteles sin importar el nivel educativo, elaborarán su programa específico y organizarán unidades internas de protección civil, las cuales realizarán cuando menos dos simulacros por calendario escolar, de acuerdo con lo referido en el párrafo anterior.
+Todos los planteles sin importar el nivel educativo, elaborarán su programa específico y organizarán unidades internas de protección civil, las cuales realizarán cuando menos tres simulacros de evacuación por calendario escolar, los cuales se llevarán a cabo repartidos proporcionalmente entre los días de clase que establezca la autoridad correspondiente, pudiendo solicitar a la autoridad competente se realice un estudio de riesgo sobre las condiciones físicas del inmueble de que se trate, previo estudio que se haya detectado con potencial de riesgo por parte de la unidad interna de protección civil, el cual puede ser realizado en cualquier tiempo y de acuerdo con lo referido en el párrafo anterior.
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -2372,3 +2372,9 @@ P.O. 4 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28433/LXII/21 SE REFORMA EL ARTÍCULO 32 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor un día después de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 14 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29155/LXIII/23 QUE REFORMA LOS ARTÍCULOS 45, 46 Y PÁRRAFO TERCERO DEL ARTÍCULO 73 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
