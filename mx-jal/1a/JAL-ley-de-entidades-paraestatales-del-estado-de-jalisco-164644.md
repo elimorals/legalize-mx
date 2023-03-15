@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-entidades-paraestatales-del-estado-de-jalisco-164644"
 country: "mx"
 rank: "ley"
 publication_date: "2023-02-23"
-last_updated: "2023-03-14"
+last_updated: "2023-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "JAL"
 
 > <small>[N. DE E. ESTE ORDENAMIENTO CUENTA CON UNA REPUBLICACIÓN PUBLICADA EN LA SECCION V DEL PERIODICO OFICIAL NÚMERO 43 DE FECHA 14 DE MARZO DE 2023.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE MARZO DE 2023 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE JALISCO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE MARZO DE 2023 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 14 DE MARZO DE 2023.]</small>
 
 Ley publicada en el Número 35 de la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 23 de febrero de 2023. (REPUBLICADA EN EL P.O. 14 DE MARZO DE 2023).
 
