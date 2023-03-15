@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2023-03-03"
+last_updated: "2023-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "BCN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE MARZO DE 2023 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3321,15 +3319,21 @@ Tipo y punibilidad.- Al que contraiga nuevo matrimonio, sin hallarse legítimame
 
 ARTÍCULO 242 BIS.- Tipo y punibilidad.- Comete el delito de violencia familiar quien lleve a cabo actos o conductas de dominio, control o agresión física, psicológica, patrimonial, o económica, a alguna persona con la que se encuentre o haya estado unida por vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, concubinato, o una relación de pareja dentro o fuera del domicilio familiar. A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión y perderá el derecho de pensión alimenticia, además se sujetará al agresor a tratamiento integral psicológico o psiquiátrico especializado dirigido a su rehabilitación, así también deberá de pagar este tipo de tratamiento hasta la recuperación total de la víctima.
 
+> <small>(REFORMADO CON SUS INCISOS [N. DE E. REPUBLICADO], P.O. 15 DE MARZO DE 2023)</small>
+
 Así mismo se le podrá imponer las siguientes medidas de seguridad:
 
 a).- La prohibición de ir a lugar determinado.
 
-b).- Otorgar caución de no ofender.
+b ).- Otorgar caución de no ofender.
 
 c).- La prohibición de ofender por cualquier medio de comunicación, telefónica, electrónica u otro.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 15 DE MARZO DE 2023)</small>
+
 Cuando proceda, el agente del Ministerio Público podrá solicitar a la autoridad judicial correspondiente el embargo de sueldos o salarios al agresor, a efecto de garantizar las obligaciones alimentarias.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MARZO DE 2023)</small>
 
 Para los efectos del presente artículo se entiende por:
 
@@ -3345,13 +3349,25 @@ b) La pérdida, sustracción, destrucción o retención indebido (sic) de objeto
 
 IV.- Violencia económica: Toda acción u omisión orientada al abuso económico que, de manera directa o indirecta, cause una limitación o afectación de los recursos económicos destinados a la satisfacción de las necesidades básicas o medios indispensables para una vida digna de la víctima.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2023)</small>
+
+V.- Violencia vicaria: Toda acción u omisión intencional contra la mujer, utilizando como medios a las hijas e hijos, familia, personas dependientes, o con relación afectiva, para causarle algún tipo de daño o afectación psicoemocional, física, económica, patrimonial o de cualquier tipo a la mujer.
+
+[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN V, P.O. 15 DE MARZO DE 2023)
+
+La persona generadora de esta violencia será aquella con quien la mujer mantenga o haya mantenido una relación de hecho, matrimonio, concubinato, parentesco por consanguinidad o afinidad, con o sin con vivencia.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 15 DE MARZO DE 2023)</small>
+
 La comisión de este delito se perseguirá de oficio por la Representación Social.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2023)</small>
 
-Cuando exista reincidencia por parte del activo, o cuando la acción se realice en contra de persona con discapacidad, embarazada o adulta mayor, la pena mínima y máxima se aumentará hasta una mitad y en su caso, atendiendo a la gravedad de la conducta a juicio del juzgador se le condenará a la suspensión o pérdida del ejercicio de la patria potestad, tutela o guarda y cuidado del menor de dieciocho años de edad, adulto mayor o persona con discapacidad, a quien tenga el ejercicio de ésta, por resolución judicial. En ningún caso el Ministerio Público remitirá para mediación, o proceso alternativo de solución a las Víctimas de Violencia familiar.
+Cuando exista reincidencia por parte del activo, o cuando la acción se realice en contra de persona con discapacidad, embarazada o adulta mayor, la pena mínima y máxima se aumentará hasta una mitad y en su caso, atendiendo a la gravedad de la conducta a juicio de la persona juzgadora se le condenará a la suspensión o pérdida del ejercicio de la patria potestad, tutela o guarda y cuidado de la persona menor de dieciocho años de edad, adulto mayor o persona con discapacidad, a quien tenga el ejercicio de ésta, por resolución judicial. En ningún caso el Ministerio Público remitirá para mediación, o proceso alternativo de solución a las Víctimas de Violencia familiar.
 
-En los casos previstos en este Capítulo, la víctima, bajo protesta de decir verdad, acudirá ante el Ministerio Público o el Juez para solicitar que se decrete alguna de las órdenes de protección señaladas en el Código Nacional de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2023)</small>
+
+En los casos previstos en este Capítulo, la víctima, bajo protesta de decir verdad, acudirá ante el Ministerio Público o el Juzgador para solicitar que se decrete alguna de las órdenes de protección señaladas en el Código Nacional de Procedimientos Penales.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -6405,15 +6421,11 @@ P.O. 3 DE MARZO DE 2023.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 1008 POR EL QUE SE REFORMA EL INCISO K DE LA FRACCIÓN II DEL ARTICULO 56 Y LAS FRACCIONES V Y VI DEL ARTÍCULO 121; SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 121 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+P.O. 15 DE MARZO DE 2023.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 218 MEDIANTE EL CUAL, SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 7 Y 25 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA REFORMA AL ARTÍCULO 242 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
-SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
-
-TERCERO. Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, los ayuntamientos de la Entidad deberán crear, adecuar o armonizar su normatividad para dar cumplimiento al presente Decreto.
-
-P.O. 16 DE AGOSTO DE 2024.
+ÚNICO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1055 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
