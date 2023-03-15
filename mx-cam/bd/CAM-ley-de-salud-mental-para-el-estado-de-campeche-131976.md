@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-mental-para-el-estado-de-campeche-131976"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-16"
-last_updated: "2018-10-16"
+last_updated: "2023-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SALUD MENTAL PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2023.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el martes 16 de octubre de 2018.
 
@@ -194,6 +194,10 @@ VI. A no ser sometido a tratamientos irreversibles o que modifiquen la integrida
 VII. A ser tratado y atendido en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares o personas que se harán responsables de ella; y
 
 VIII. A la confidencialidad de la información psiquiátrica sobre su persona.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2023)</small>
+
+Cuando se trate de niñas, niños y adolescentes se estará a lo dispuesto en el párrafo cuarto del artículo 75 de la Ley General de Salud, garantizándose en todo momento el interés superior de los menores, por lo que toda institución de carácter público, social o privado que preste servicios de internamiento, deberá establecer las medidas necesarias para garantizar los principios establecidos en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Campeche y demás legislación aplicable, para asegurar la protección contra toda forma de abuso físico, mental y emocional dentro de las instituciones en las que reciban atención.
 
 ###### Artículo 7.
 
@@ -738,3 +742,13 @@ Que la LXII legislatura del H. Congreso del Estado Libre y Soberano de Campeche 
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veintiocho días del mes de septiembre del año dos mil dieciocho.
 
 EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 203 POR EL QUE "SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 6 DE LA LEY DE SALUD MENTAL PARA EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
