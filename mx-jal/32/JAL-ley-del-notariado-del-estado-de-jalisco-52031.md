@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2023-03-14"
+last_updated: "2023-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,11 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE MARZO DE 2023 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2023.
 
-(REPUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023)
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE MARZO DE 2023.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -3181,7 +3179,7 @@ CUARTO. Todas las atribuciones previstas en cualquier ordenamiento que refiera o
 
 QUINTO. Las órdenes emitidas para practicar visitas de inspección a notarías públicas, así como las visitas en práctica que hasta antes de la entrada en vigor del presente decreto estaban siendo substanciadas por la Procuraduría Social, continuarán siendo desahogadas por la Secretaría General de Gobierno hasta su conclusión.
 
-(REFORMADO, P.O. 23 DE FEBRERO DE 2023) (REPUBLICADO, P.O. 14 DE MARZO DE 2023)
+(REFORMADO, P.O. 23 DE FEBRERO DE 2023) (F. DE E., P.O. 15 DE MARZO DE 2023)
 
 Los procedimientos de oficio o queja administrativa en contra de notarios públicos, así como cualquier trámite o procedimiento de responsabilidad notarial o vinculado a la función notarial, serán substanciados por la Consejería Jurídica del Poder Ejecutivo del Estado hasta su conclusión.
 
@@ -3221,7 +3219,7 @@ PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su
 
 SEGUNDO. La Dirección del Archivo de Instrumentos Públicos deberá realizar ante la Contraloría del Estado la correspondiente acta de entrega - recepción a la Dirección del Archivo Histórico del Estado, de conformidad con lo que señala la Ley de Entrega Recepción del Estado de Jalisco y sus Municipios, el artículo 30 fracción X de la Ley de Archivos del Estado de Jalisco y sus Municipios, y demás normas aplicables en materia de archivos de los documentos denominados como "Tierras y Aguas", "Libros de Gobierno de la Audiencia de Guadalajara", y los archivos de "Escribanos Públicos", en un plazo no mayor a 180 días a partir de la entrada en vigor del presente decreto.
 
-(REPUBLICADO, P.O. 14 DE MARZO DE 2023)
+> <small>(F. DE E., P.O. 15 DE MARZO DE 2023)</small>
 
 P.O. 23 DE FEBRERO DE 2023.
 
