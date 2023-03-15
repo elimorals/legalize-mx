@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2023-01-27"
+last_updated: "2023-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -133,7 +133,7 @@ I. Violencia Psicológica.- Entendida como cualquier acto u omisión que dañe l
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2013)</small>
 
-II.- Violencia Física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas;
+II. Violencia Física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas;
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
@@ -155,13 +155,33 @@ VI. Violencia Obstétrica.- Toda conducta, acción u omisión que ejerza el pers
 
 VII. Violencia Digital.- Es cualquier acto de acoso, hostigamiento, amenazas, vulneración de datos e información privada, divulgación de información, mensaje de odio, difusión de contenido sexual sin consentimiento expreso de la afectada, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras, verdaderas o alteradas, o cualquier otra acción que sea cometida (sic) través de las tecnologías de información y comunicación, plataformas de internet, redes sociales, correo electrónico, aplicaciones, o cualquier otro espacio digital, que atente, dañe o afecte la integridad, intimidad, libertad, vida privada, o los derechos humanos de las mujeres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2023)</small>
 
-VIII. Violencia Mediática.- Es toda acción tendiente a publicar o difundir cualquier tipo de mensaje o imagen a través de cualquier medio masivo de Telecomunicación, que estereotipe, insulte, denigre, discrimine, deshonre, humille o atente contra la dignidad de las mujeres, y
+VIII. Violencia Mediática.- Es toda acción tendiente a publicar o difundir cualquier tipo de mensaje o imagen a través de cualquier medio masivo de Telecomunicación, que estereotipe, insulte, denigre, discrimine, deshonre, humille o atente contra la dignidad de las mujeres;
 
-> <small>(REFORMADA Y REUBICADA [ANTES FRACCIÓN VII], P.O. 10 DE JULIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2023)</small>
 
-IX. Cualquiera otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+IX. Violencia Vicaria.- Es el acto u omisión intencional cometido contra la mujer, por parte de quien mantenga o mantuvo una relación, ya sea de hecho, de pareja o similares, aun sin convivencia y que por sí misma o por interpósita (sic) personas utilice como medio al descendiente, ascendiente, dependiente económico, o persona con relación afectiva, para causarle algún tipo de perjuicio o daño psicológico, patrimonial, económico, físico o de cualquier otra índole a la mujer.
+
+Se expresa a través de conductas, como:
+
+a) Amenazar con causar daños a descendiente, ascendiente, dependientes económicos o personas allegadas;
+
+b) Ocultar, retener o sustraer a hijas e hijos, fuera de su domicilio custodio o lugar de residencia;
+
+c) Utilizar a hijos e hijas para obtener información respecto a la madre;
+
+d) Promover, incitar o fomentar actos de violencia de hijos e hijas en contra de la madre;
+
+e) Condicionar el pago o cumplimiento de obligaciones alimentarias a las mujeres, hijas e hijos;
+
+f) Utilizar a otros familiares o personas allegadas de la mujer para cometer este tipo de violencia; y,
+
+g) Que las instituciones de procuración y administración de justicia no reconozcan la violencia vicaria y emitan resoluciones o sentencias en contra de los derechos de las mujeres y del interés superior de la niñez.
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2023)</small>
+
+X. Cualesquiera otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
 
@@ -173,9 +193,9 @@ IX. Cualquiera otra forma análoga que lesione o sea susceptible de dañar la di
 
 Violencia Familiar: Se considera violencia familiar el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica o sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2023)</small>
 
-Los gobiernos estatal y municipales en forma coordinada, implementarán y operarán un sistema de información en el que se registren exclusivamente las denuncias e investigaciones de violencia familiar; lo que permitirá a las autoridades preventivas e investigadoras correspondientes, detectar en forma inmediata la reincidencia de todo agresor, a efecto de determinar en forma eficaz las medidas necesarias para salvaguardar la integridad de la víctima.
+Los gobiernos estatal y municipales en forma coordinada, implementarán y operarán un sistema de información en el que se registren exclusivamente las denuncias e investigaciones de violencia familiar o violencia vicaria, lo que permitirá a las autoridades preventivas e. investigadoras correspondientes, detectar en forma inmediata la reincidencia de todo agresor, a efecto de determinar en forma eficaz las medidas necesarias para salvaguardar la integridad de la víctima.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2016)</small>
 
@@ -509,9 +529,17 @@ II. Prohibición de enajenar o hipotecar bienes propiedad del agresor, cuando se
 
 III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio, independientemente de la acreditación de propiedad o posesión del inmueble, aún en casos de arrendamiento;
 
-IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad y del Comercio, a efecto de garantizar las obligaciones alimentarias, y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2023)</small>
 
-V. Obligación alimentaria provisional e inmediata.
+IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad y del Comercio, a efecto de garantizar las obligaciones alimentarias;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2023)</small>
+
+V. Obligación alimentaria provisional e inmediata; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2023)</small>
+
+VI. La recuperación y entrega inmediata a la mujer víctima, de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieren cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de la madre en términos de lo establecido en el artículo 6 fracción IX de la presente Ley.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2014)</small>
 
@@ -1232,3 +1260,9 @@ P.O. 27 DE ENERO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. El suministro gratuito de productos de gestión menstrual se sujetará a la disponibilidad presupuestaria de la Secretaría de Salud del Estado y con base a las disposiciones normativas aplicables en términos de la Ley General de Salud.
+
+P.O. 15 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 218 MEDIANTE EL CUAL, SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 7 Y 25 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA REFORMA AL ARTÍCULO 242 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
