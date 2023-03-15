@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2022-12-09"
+last_updated: "2023-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -654,6 +654,10 @@ La planificación familiar tiene carácter prioritario y en las actividades rela
 Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
 
 Quienes practiquen la esterilización sin la voluntad del paciente o ejerzan presión para que éste la admita, serán sancionados conforme a lo dispuesto en la Ley General, independientemente de la responsabilidad penal en que incurran.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2023)</small>
+
+En materia de planificación familiar, las acciones de información y orientación educativa en las comunidades indígenas deberán llevarse a cabo en español y en la lengua o lenguas indígenas en uso en la región o comunidad de que se trate.
 
 ###### Artículo 65.
 
@@ -2684,3 +2688,13 @@ P.O. 9 DE DICIEMBRE DE 2022.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 15 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 204 POR EL QUE “SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 64 DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el debido cumplimiento del presente decreto, se estará a lo dispuesto en los artículos 54, 55 y 56 de la Ley de Salud para el Estado de Campeche, a fin de que las acciones de información y orientación a que se refiere este decreto se realicen preferentemente con el personal del que dispongan los ayuntamientos y sus autoridades auxiliares, con conocimiento de la lengua y la cultura indígena de que se trate.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
