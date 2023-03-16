@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-juventud-para-el-estado-de-puebla-71034"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-09"
-last_updated: "2022-08-23"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de noviembre de 2009.
 
@@ -609,7 +609,9 @@ II.- Facilitar y promover la primera experiencia laboral la cual permitirá a la
 
 III.- En materia de las personas jóvenes trabajadores en situación de desventaja social, la Secretaría promoverá los mecanismos de colaboración y fomentará programas de protección para los adolescentes que tengan necesidad de trabajar, en términos de la legislación aplicable, promoviendo su contratación en el sector público o privado, sin suspender sus estudios;
 
-IV.- Impulsar la creación de instancias de financiamiento para el desarrollo de proyectos productivos individuales o colectivos de la juventud estudiantil;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+IV.- La promoción de la cultura emprendedora en la juventud mediante acciones que impulsen la constitución de primeras empresas y su consolidación, así como impulsar la creación de instancias de financiamiento para el desarrollo de proyectos productivos individuales o colectivos de la juventud estudiantil;
 
 V.- Procurar que el trabajo no limite o afecte en su salud, educación y recreación;
 
@@ -1020,6 +1022,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto dentro
 P.O. 23 DE AGOSTO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 5; Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 58 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
