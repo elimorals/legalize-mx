@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-del-deporte-11534"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2023-03-13"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DEL DEPORTE EN EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 21 de febrero de 1997.
 
@@ -365,11 +365,15 @@ En el caso de los deportistas con alguna discapacidad, se brindarán las facilid
 
 Los Municipios, a través de sus Ayuntamientos, participarán en el Sistema Estatal del Deporte, con las siguientes atribuciones:
 
-I.- Constituir un Comité Municipal del Deporte y Atención a la Juventud, así como promulgar sus estatutos internos;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+I.- Constituir un Comité Municipal del Deporte y Atención a las Juventudes, así como promulgar sus estatutos internos:
 
 II.- Promover y organizar en sus comunidades, actividades físico-deportivas y recreativas;
 
-III.- Coordinarse con los Organismos Deportivos Municipales, en todas sus promociones de carácter no profesional en el área del deporte y atención a la Juventud;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+III.- Coordinarse con los Organismos Deportivos Municipales, en todas sus promociones de carácter no profesional en el área del deporte y atención a las juventudes;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
@@ -405,31 +409,33 @@ XIII.- Participar, en los programas que se deriven de los Sistemas Nacional y Es
 
 ### CAPITULO II. DE LOS CONSEJOS MUNICIPALES DEL DEPORTE
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
 
 ###### ARTICULO 22.
 
-Los Consejos Municipales del Deporte y Atención a la Juventud, tendrán como función principal la de ejecutar las facultades que esta Ley determina, así como las demás que sean necesarias para el fomento del deporte, la cultura física y la activación física y atención a la juventud en sus respectivos territorios.
+Los Consejos Municipales del Deporte y Atención a las Juventudes, tendrán como función principal la de ejecutar las facultades que esta Ley determina, así como las demás que sean necesarias para el fomento del deporte, la cultura física y la activación física y atención a las juventudes en sus respectivos territorios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
 
 ###### ARTICULO 23.
 
-Los Consejos Municipales del Deporte y Atención a la Juventud, estarán integrados por:
+Los Consejos Municipales del Deporte y Atención a las Juventudes, estarán integrados por:
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-I.- La persona titular de la Dirección del Comité Municipal del Deporte y Atención a la Juventud, que será designada por la persona titular de la Presidencia Municipal;
+I.- La persona titular de la Dirección del Comité Municipal del Deporte y Atención a las Juventudes, que serpa (sic) designada por la persona titular de la Presidencia Municipal;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-II.- Una persona Consejera por cada liga deportiva, debidamente constituida y acreditada ante el Comité Municipal del Deporte y Atención a la Juventud; y
+II.- Una persona Consejera por cada liga deportiva, debidamente constituida y acreditada ante el Comité Municipal del Deporte y Atención a las Juventudes; y
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
 III.- Una persona representante de cada Sistema Educativo en el Municipio.
 
-> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN III], P.O. 23 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
 
-Los Consejos Municipales del Deporte y Atención a la Juventud; deberán estar integrados con base en el principio constitucional de paridad de género.
+Los Consejos Municipales del Deporte y Atención a las Juventudes deberán estar integrados con base en el principio constitucional de paridad de género.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
@@ -505,7 +511,9 @@ IX.- En caso de distinguirse como atletas de alto rendimiento, de acuerdo a los 
 
 Son obligaciones de la y el deportista:
 
-I.- Ser un ejemplo para la niñez, la juventud y la sociedad;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+I.- Ser un ejemplo para la niñez, las juventudes y la sociedad;
 
 II.- Cumplir cabalmente con los estatutos y reglamentos de su deporte o especialidad;
 
@@ -840,6 +848,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 13 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES X, XI, XII, XIII Y XIV DEL ARTÍCULO 14; LA FRACCIÓN XII DEL 21, Y ADICIONA LA FRACCIÓN XV AL ARTÍCULO 14 Y LA FRACCIÓN XIII AL 21 DE LA LEY ESTATAL DEL DEPORTE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I Y III DEL ARTÍCULO 21, EL 22, EL PRIMER PÁRRAFO DEL 23, LAS FRACCIONES I Y II Y EL ÚLTIMO PÁRRAFO DEL 23, Y LA FRACCIÓN I DEL 28, DE LA LEY ESTATAL DEL DEPORTE”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
