@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-5643
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2023-02-15"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -409,6 +409,10 @@ I. Establecimiento y empleo de fondos para la promoción de la igualdad en el tr
 
 II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica en los ámbitos rural y urbano, que generen igualdad de oportunidades en el derecho a la propiedad, la tenencia, el uso y aprovechamiento de las propiedades muebles e inmuebles;
 
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
+
+II Bis. Asegurar el uso y aprovechamiento de los derechos reales de propiedad, así como el uso, goce y disfrute de la tierra, su participación en el desarrollo rural y en sus beneficios;
+
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2023)</small>
 
 III. Impulsar liderazgos igualitarios; y
@@ -416,6 +420,10 @@ III. Impulsar liderazgos igualitarios; y
 > <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2016)</small>
 
 IV. Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
+
+V. Establecimiento de políticas y programas de desarrollo empresarial, industrial y comercial a favor del empoderamiento igualitario entre mujeres y hombres.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2016)</small>
 
@@ -734,3 +742,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Dentro de los sesenta días naturales a la entrada en vigor del presente decreto, el Ejecutivo Estatal deberá armonizar las disposiciones reglamentarias que sean necesarias para su debida implementación.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 16 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 206 POR EL QUE "SE ADICIONAN LAS FRACCIONES II BIS Y V AL ARTÍCULO 29 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
