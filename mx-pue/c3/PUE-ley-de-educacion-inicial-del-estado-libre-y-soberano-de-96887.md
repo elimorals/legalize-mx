@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-inicial-del-estado-libre-y-soberano-de-96887"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-25"
-last_updated: "2013-11-25"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN INICIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 25 de noviembre de 2013.
 
@@ -73,7 +73,9 @@ III.- Autoridad Educativa Estatal: El Ejecutivo del Estado;
 
 IV.- Estado: El Estado de Puebla;
 
-V.- Secretaría: La Secretaría de Educación Pública del Estado;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+V.- Secretaría: La Secretaría de Educación del Estado;
 
 VI.- Institución: La institución educativa de Educación Inicial;
 
@@ -87,9 +89,11 @@ IX.- Particulares: A quienes solicitan el reconocimiento.
 
 Los niños y niñas requieren la atención prioritaria del Estado para que vivan y se formen en condiciones dignas de protección, de tal manera que se garantice su integridad física y mental.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 5.
 
-Esta Ley tiene por objetivo institucionalizar a nivel estatal la universalización de la Educación Inicial, estableciendo competencias a cargo de la Secretaría, encaminadas al desarrollo de información, materiales educativos y la implementación de programas educativos a mujeres, padres de familia, maestros y agentes educativos, y la implementación de programas educativos que repercutan en la educación del niño desde los cuarenta y cinco días de su nacimiento hasta su ingreso a la educación preescolar obligatoria, y que promuevan la paternidad responsable y comprometida, entre otros.
+Esta Ley tiene por objetivo institucionalizar a nivel estatal la universalización de la Educación Inicial, estableciendo competencias a cargo de la Secretaría, encaminadas al desarrollo de información, materiales y programas educativos a mujeres, padres de familia, maestros y agentes educativos, así como el diseño e implementación de programas educativos que privilegien la educación sostenible y repercutan en la formación de niñas y niños desde los cuarenta y cinco días de su nacimiento hasta su ingreso a la educación preescolar obligatoria, y que promuevan la paternidad responsable y comprometida, entre otros.
 
 ###### ARTÍCULO 6.
 
@@ -137,9 +141,11 @@ II.- Vigilar que los estudios se ajusten a las disposiciones legales; y
 
 III.- Aprobar la impartición de los programas de estudio autorizados por la Autoridad Educativa Federal, de conformidad con los ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 13.
 
-Los programas para Educación Inicial se formularán de conformidad con los ordenamientos administrativos y legales aplicables, debiendo tener las características siguientes:
+Los programas para Educación Inicial privilegiarán y promoverán la educación sostenible y se formularán de conformidad con los ordenamientos administrativos y legales aplicables, debiendo tener las características siguientes:
 
 I.- Precisar sus propios objetivos;
 
@@ -153,7 +159,9 @@ V.- Señalar los objetivos y temas de cada actividad;
 
 VI.- Procurar el desarrollo de habilidades y capacidades;
 
-VII.- Promover estrategias que prioricen el juego, el arte y la comunicación articulados en procesos de interacción afectiva que dinamicen el apego y el vínculo como condición de un autoconcepto sano y realista en los niños y niñas;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+VII.- Promover estrategias que prioricen el juego, el arte, la comunicación, así como el conocimiento, respeto y cuidado del medio ambiente, articulados en procesos de interacción afectiva que dinamicen el apego y el vínculo como condición de un autoconcepto sano y realista en las niñas y niños;
 
 VIII.- Destacar los aspectos de vinculación entre las diversas actividades del Programa de Educación Inicial; y
 
@@ -189,9 +197,17 @@ VI.- Promover el uso de nuevas tecnologías y de procesos virtuales que ayuden a
 
 VII.- Vincular a los profesionales de Educación Inicial, desde sus prácticas profesionales y en dinámica de servicio social, en procesos de atención centrados en la familia y que incluyan la visita domiciliaria como estrategia fundamental;
 
-VIII.- Innovar las prácticas docentes, en escenarios comunitarios e institucionales; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-IX.- Fomentar procesos de formación docente basados en la sensibilización frente a las necesidades afectivas de los niños y niñas y la promoción de relaciones intersubjetivas positivas.
+VIII.- Innovar las prácticas docentes, en escenarios comunitarios e institucionales;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+IX.- Fomentar procesos de formación docente basados en la sensibilización frente a las necesidades afectivas de los niños y niñas y la promoción de relaciones intersubjetivas positivas; y
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
+
+X.- Diseñar y promover contenidos, estrategias y acciones que privilegien la educación sostenible en la formación inicial, acordes a la edad, características, capacidades y necesidades de los estudiantes de este nivel educativo.
 
 ## TRANSITORIOS
 
@@ -204,3 +220,13 @@ TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro veces Heroica Puebla de Zaragoza, a los treinta y un días del mes de julio de dos mil trece.- Diputado Presidente.- JOSÉ ANTONIO GALI LÓPEZ.- Rúbrica.- Diputado Vicepresidente.- GERARDO MEJÍA RAMÍREZ.- Rúbrica.- Diputada Secretaria.- JOSEFINA BUXADÉ CASTELÁN.- Rúbrica.- Diputado Secretario.- HUGO ALEJO DOMÍNGUEZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, al primer día del mes de agosto de dos mil trece.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN INICIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA, Y DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
