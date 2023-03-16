@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-superior-del-estado-de-puebla-152237"
 country: "mx"
 rank: "ley"
 publication_date: "2021-11-03"
-last_updated: "2021-11-03"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152237&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023.
 
 Ley publicada en la Novena Sección del Número 2 del Periódico Oficial del Estado de Puebla, el miércoles 3 de noviembre de 2021.
 
@@ -63,7 +63,9 @@ Esta Ley tiene por objeto:
 
 I. Establecer las bases para dar cumplimiento a la obligación del Estado de Puebla, de garantizar el ejercicio del derecho a la educación superior y sus cuatro dimensiones en términos de la Ley de Educación del Estado de Puebla;
 
-II. Contribuir al desarrollo ético, social, cultural, científico, tecnológico, humanístico, productivo y económico del país y del estado de Puebla, a través de la formación de personas con capacidad creativa, innovadora y emprendedora que pongan sus conocimientos y habilidades al servicio de la Nación, del estado de Puebla y de la sociedad en general; que incidan como profesionistas técnicamente competentes y socialmente responsables;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+II. Contribuir al desarrollo sostenible, ético, social, cultural, científico, tecnológico, humanístico, productivo y económico del país y del estado de Puebla, a través de la formación de personas con capacidad creativa, innovadora y emprendedora que pongan sus conocimientos y habilidades al servicio de la Nación, del estado de Puebla y de la sociedad en general; que incidan como profesionistas técnicamente competentes y socialmente responsables;
 
 III. Distribuir la función social educativa del tipo de educación superior entre el estado de Puebla y sus municipios;
 
@@ -143,9 +145,11 @@ La Secretaría, la autoridad educativa municipal y las instituciones de educaci�
 
 ### CAPÍTULO II. DE LOS CRITERIOS, FINES Y POLÍTICAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 9.
 
-La educación superior fomentará el desarrollo humano integral de las y los estudiantes en la construcción de saberes basado en lo siguiente:
+La educación superior fomentará el desarrollo humano integral y sostenible de las y los estudiantes en la construcción de saberes basado en lo siguiente:
 
 I. La formación del pensamiento crítico a partir de la libertad, el análisis, la reflexión, la comprensión, el diálogo, la argumentación, la conciencia histórica, el conocimiento de las ciencias y humanidades, los resultados del progreso científico y tecnológico, el desarrollo de una perspectiva diversa y global, la lucha contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios para transformar la sociedad y contribuir al mejoramiento de los ámbitos social, educativo, cultural, ambiental, económico y político;
 
@@ -161,7 +165,11 @@ VI. La instrumentación de acciones de gestión con los distintos actores social
 
 VII. El combate a todo tipo y modalidad de discriminación y violencia, con especial énfasis en la que se ejerce contra las niñas y las mujeres, las personas con discapacidad o en situación de vulnerabilidad social, y la promoción del cambio cultural para construir una sociedad que fomente la igualdad sustantiva entre mujeres y hombres;
 
-VIII. El respeto y cuidado del medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación de la naturaleza con los temas sociales y económicos, para garantizar su preservación y promover estilos de vida sustentables y solidarios;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+VIII. El respeto y cuidado del medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación de la naturaleza con los temas sociales y económicos, para garantizar su preservación y promover estilos de vida sostenibles y solidarios.
+
+Para el efecto y cuando las condiciones físicas de los planteles lo permitan, la autoridad educativa podrá promover prácticas que favorezcan el desarrollo sostenible, mediante la valoración de la diversidad cultural y de los recursos naturales a través de la instalación y funcionamiento de huertos y/o viveros escolares, el destino de una superficie de suelo en las instalaciones educativas para compostas de residuos orgánicos, además de la participación voluntaria de los estudiantes, personal académico y laboral en campañas de reforestación y manejo racional del agua y de residuos, u otras similares o relacionadas;
 
 IX. La formación en habilidades digitales y el uso responsable de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el proceso de construcción de saberes como mecanismo que contribuya a mejorar el desempeño y los resultados académicos, y
 
@@ -193,7 +201,9 @@ X. La cultura de la paz y la resolución pacífica de los conflictos, así como 
 
 XI. La accesibilidad a los ámbitos de la cultura, el arte, el deporte, la ciencia, la tecnología, la innovación y el conocimiento humanístico y social en lo local, nacional y universal;
 
-XII. El respeto, cuidado y preservación del medio ambiente y la biodiversidad;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+XII. El respeto, cuidado, preservación y restauración ambiental;
 
 XIII. La transparencia, el acceso a la información, la protección de los datos personales y la rendición de cuentas, a través del ejercicio disciplinado, honesto y responsable de los recursos financieros, humanos y materiales, de conformidad con la normatividad aplicable;
 
@@ -241,17 +251,23 @@ VII. Ampliar las oportunidades de inclusión social y educativa para coadyuvar a
 
 VIII. Desarrollar las habilidades de las personas que cursen educación superior para facilitar su incorporación a los sectores social, productivo y laboral;
 
-IX. Impulsar la investigación científica y humanística, el desarrollo tecnológico, el arte, la cultura, el deporte y el fomento de estilos de vida saludable, en los ámbitos internacional, nacional, regional, estatal, municipal y comunitario, y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+IX. Impulsar el desarrollo sostenible, la investigación científica y humanística, el desarrollo tecnológico, el arte, la cultura, el deporte y el fomento de estilos de vida saludable, en los ámbitos internacional, nacional, regional, estatal, municipal y comunitario, y
 
 X. Fortalecer la investigación científico-educativa, a través de las instituciones de educación superior, incidiendo en la realidad social poblana y en la consolidación del conocimiento científico, respondiendo a los propósitos que demanda la región y su contexto; lo que repercutirá en la construcción social del conocimiento, la innovación como estilo de vida y la mejora de la gestión científico educativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 12.
 
-Los criterios para la elaboración de políticas en materia de educación superior se basarán en lo siguiente:
+Los criterios para la elaboración de políticas en materia de educación superior privilegiarán la educación sostenible y se basarán en lo siguiente:
 
 I. La mejora continua de la educación superior para su excelencia, pertinencia y vanguardia;
 
-II. El incremento de las oportunidades y posibilidades de acceso a la misma para contribuir a la conformación de una sociedad que valora y promueve el conocimiento científico, humanístico y tecnológico, además de la cultura, el arte, el deporte y la información;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+II. El incremento de las oportunidades y posibilidades de acceso a la misma para contribuir a la conformación de una sociedad que valora y promueve el conocimiento científico, humanístico y tecnológico; la cultura, el arte, el deporte, la información, así como la protección y restauración ambiental;
 
 III. La impartición de la educación superior con un enfoque de inclusión social que garantice la equidad en el acceso a este derecho humano;
 
@@ -261,7 +277,9 @@ V. La promoción de acuerdos y programas entre las autoridades educativas, las i
 
 VI. El fomento de la integridad académica y la honestidad de toda la comunidad de las instituciones de educación superior;
 
-VII. La promoción y consolidación de redes universitarias para la cooperación y el desarrollo de las funciones de las instituciones de educación superior; así como de aquéllas para la activación física, la práctica del deporte y el fomento de estilos de vida saludables;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+VII. La promoción y consolidación de redes universitarias para la cooperación y el desarrollo de las funciones de las instituciones de educación superior; así como de aquéllas para la activación física, la práctica del deporte, la protección y restauración ambiental y el fomento de estilos de vida saludables;
 
 VIII. El diseño y aplicación de procedimientos de acceso y apoyo al tipo de educación superior para personas con alto rendimiento escolar;
 
@@ -384,6 +402,10 @@ A efecto de obtener el título profesional correspondiente al nivel de licenciat
 La Secretaría promoverá con las instituciones de educación superior que, como una opción del servicio social, se realice el reforzamiento del conocimiento, a través de tutorías a educandos en el tipo educativo básico y de media superior en las áreas de matemáticas, lenguaje, comunicación y se proporcione acompañamiento en servicios de psicología, trabajo social, orientación educativa, entre otras, para contribuir a su máximo aprendizaje, desarrollo integral y equidad en educación.
 
 Las autoridades educativas, en coordinación con las instituciones de educación superior, promoverán que el servicio social sea reconocido como parte de su experiencia para el desempeño de sus labores profesionales.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2023)</small>
+
+Sin perjuicio de lo dispuesto en los párrafos anteriores y en términos de la legislación aplicable, la Secretaría y las instituciones de educación superior promoverán como opción del servicio social, además, la participación en campañas de reforestación y manejo racional del agua y de residuos, u otras similares o relacionadas, para lo cual se atenderán las disposiciones emitidas por las autoridades competentes.
 
 ###### ARTÍCULO 18.
 
@@ -643,9 +665,11 @@ La Secretaría y la autoridad educativa municipal concurrirán y se coordinarán
 
 Las acciones que realicen se basarán en el enfoque de derechos humanos y de igualdad sustantiva, respetando el principio de inclusión. Tendrán una perspectiva de juventudes, de género, así como de interculturalidad con especial atención a los pueblos y comunidades indígenas, a las personas afromexicanas, a las personas con discapacidad y a los grupos en situación de vulnerabilidad. Tomarán en cuenta medidas para proporcionar atención a estudiantes con aptitudes sobresalientes y a personas adultas que cursen algún nivel del tipo de educación superior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 42.
 
-La Secretaría, la autoridad educativa municipal y las instituciones de educación superior, en ejercicio de sus atribuciones, promoverán de manera coordinada:
+La Secretaría, la autoridad educativa municipal y las instituciones de educación superior, en ejercicio de sus atribuciones, promoverán de manera coordinada el desarrollo y educación sostenible, a través de lo siguiente:
 
 I. Programas basados en el principio de equidad entre las personas a fin de disminuir las brechas de cobertura y excelencia educativa entre las regiones de la entidad, atendiendo a la demanda educativa enfocada a los contextos regionales y locales para la prestación del servicio de educación superior;
 
@@ -666,6 +690,18 @@ VIII. La enseñanza de las diversas lenguas indígenas de la entidad y de las le
 IX. El acceso de la comunidad de las instituciones de educación superior al acervo bibliográfico y audiovisual, así como la creación, ampliación y actualización en formatos asequibles y de acceso abierto de los servicios informativos y de los repositorios con la utilización de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital;
 
 X. La incorporación de áreas verdes y deportivas en la infraestructura de las instituciones de educación superior;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
+
+X BIS. La participación de la comunidad escolar bajo esquemas voluntarios o de servicio social en campañas de reforestación y manejo racional del agua y de residuos, u otras similares o relacionadas;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
+
+X TER. La instalación y funcionamiento, cuando las condiciones lo permitan, de huertos y/o viveros escolares, de manera coordinada con las autoridades y sectores correspondientes;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
+
+X. QUÁTER. El destino de una superficie de suelo, en las instalaciones educativas, para compostas de residuos orgánicos.
 
 XI. Una cultura de prevención y resiliencia para la protección civil, a fin de arraigar en la comunidad de las instituciones de educación superior los elementos básicos de prevención, autoprotección y mitigación frente a circunstancias de riesgo y desastres;
 
@@ -1178,3 +1214,13 @@ DÉCIMO PRIMERO. Dentro de los ciento ochenta días naturales siguientes a la en
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los treinta días del mes de junio de dos mil veintiuno. Diputada Presidenta. MARÍA DEL CARMEN CABRERA CAMACHO. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputada Vicepresidenta. ALEJANDRA GUADALUPE ESQUITÍN LASTIRI. Rúbrica. Diputada Secretaria. MARÍA DEL ROCÍO GARCÍA OLMEDO. Rúbrica. Diputado Secretario. RAÚL ESPINOSA MARTÍNEZ. Rúbrica.
 
 Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de agosto de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica. El Secretario de Educación. CIUDADANO MELITÓN LOZANO PÉREZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN INICIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA, Y DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
