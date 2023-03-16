@@ -4,7 +4,7 @@ identifier: "TLA-ley-del-centro-de-conciliacion-laboral-del-estado-de-148399"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-16"
-last_updated: "2021-03-16"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TLAXCALA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023.
 
 Ley publicada en el Número 5 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 16 de marzo de 2021.
 
@@ -59,9 +59,11 @@ El Centro de Conciliación Laboral del Estado de Tlaxcala, tiene por objeto ofre
 
 El Centro de Conciliación Laboral del Estado de Tlaxcala tendrá su domicilio legal en la Ciudad de Tlaxcala y podrá establecer oficinas en el territorio del Estado para el cumplimiento de su objeto, de conformidad con la suficiencia presupuestaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
+
 ###### Artículo 5.
 
-El Centro contará con las personas servidoras públicas que requiera para el cumplimiento de sus funciones y sus atribuciones estarán contenidas en su Reglamento Interno.
+El Centro contará con las personas servidoras públicas que requiera para el cumplimiento de sus funciones y sus atribuciones estarán contenidas en su Reglamento Interior.
 
 El Centro contará con un servicio profesional que incorpore la perspectiva de género, el enfoque de derechos humanos, así como los mecanismos necesarios de gestión, promoción y compensación orientados a la jerarquización del empleo y la carrera pública, basado en el mérito, el logro de resultados y en los valores de: vocación de servicio, efectividad, transparencia, eficiencia, cuidado de los recursos, orientación a la ciudadanía, calidad en el servicio, probidad, rendición de cuentas, flexibilidad, mérito e idoneidad.
 
@@ -71,27 +73,45 @@ Las relaciones laborales entre el Centro y su personal se regirán por lo dispue
 
 Se considerarán trabajadores de confianza todos los servidores públicos de mandos superiores, mandos medios, de enlace y apoyo técnico, personal operativo, conciliadores, notificadores y demás que señalen la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus Municipios.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+
 ###### Artículo 6.
 
-Para los efectos de esta Ley, se entenderá por:
+Para los efectos de esta Ley, debe entenderse por:
 
-I. Centro: El Centro de Conciliación Laboral del Estado de Tlaxcala;
+I. Audiencia: A la audiencia conciliatoria celebrada de manera física y presencial ante un conciliador del Centro;
 
-II. Conciliación. Al proceso en el que uno o más conciliadores asisten a las partes en conflicto, para facilitar las vías de diálogo, proponiendo alternativas y soluciones al conflicto laboral;
+II. Centro: El Centro de Conciliación Laboral del Estado de Tlaxcala;
 
-III. Constitución General: La Constitución Política de los Estados Unidos Mexicanos;
+III. Conciliación: Al proceso en el que uno o más conciliadores asisten a las partes, para facilitar las vías de diálogo, proponiendo alternativas y soluciones al conflicto laboral;
 
-IV. Constitución Local: La Constitución Política del Estado Libre y Soberano de Tlaxcala;
+IV. Conciliador: A la persona autorizada del Centro, quien posee la función de actuar como facilitador entre las partes en conflicto, que presentará a las partes las vías de diálogo, proponiendo alternativas y soluciones al conflicto laboral;
 
-V. Director (a) General: Persona encargada de la Dirección General del Centro de Conciliación Laboral del Estado de Tlaxcala;
+V. Convenio: Al documento, sea físico o digital, que contiene la voluntad de las partes y términos en los que se resuelve el conflicto por el acuerdo conciliatorio que hayan alcanzado;
 
-VI. Junta de Gobierno: La Junta de Gobierno del Centro de Conciliación;
+VI. Constitución General: La Constitución Política de los Estados Unidos Mexicanos;
 
-VII. Ley: La del Centro (sic) Conciliación Laboral del Estado de Tlaxcala;
+VII. Constitución Local: La Constitución Política del Estado Libre y Soberano de Tlaxcala;
 
-VIII. Secretaría: La Secretaría de Planeación y Finanzas del Estado de Tlaxcala, y
+VIII. Director General: La persona titular de la Dirección General del Centro de Conciliación Laboral del Estado de Tlaxcala;
 
-IX. Servicio profesional: Las y los trabajadores del Centro organizados a partir de la política de recursos humanos que incluye: reclutamiento, selección, remoción, capacitación e incentivos para el adecuado desarrollo de las funciones del Centro de Conciliación, de conformidad con lo establecido en la Ley Federal del Trabajo.
+IX. Junta de Gobierno: La Junta de Gobierno del Centro de Conciliación Laboral del Estado de Tlaxcala;
+
+X. Ley: La Ley del Centro de Conciliación Laboral del Estado de Tlaxcala;
+
+XI. Órgano Interno: El Órgano Interno de Control del Centro de Conciliación Laboral del Estado de Tlaxcala;
+
+XII. Presidente: La persona titular de la Junta de Gobierno del Centro de Conciliación Laboral del Estado de Tlaxcala;
+
+XIII. Secretaría de Finanzas: La Secretaría de Finanzas del Gobierno del Estado de Tlaxcala;
+
+XIV. Secretaría de la Función Pública: La Secretaría de la Función Pública del Gobierno del Estado de Tlaxcala;
+
+XV. Secretario Técnico: Al Secretario Técnico de la Junta de Gobierno;
+
+XVI. Servicio profesional: Las acciones de reclutamiento, selección, remoción, capacitación e incentivos que se otorguen a los trabajadores y cuyo objetivo sea el adecuado desarrollo de las funciones del Centro. Este servicio se encuentra organizado a partir de la política de recursos humanos, de conformidad con lo establecido en la Ley Federal del Trabajo, y
+
+XVII. Reglamento Interior: El Reglamento Interior del Centro de Conciliación Laboral del Estado de Tlaxcala.
 
 ###### Artículo 7.
 
@@ -103,7 +123,9 @@ En la operación del Centro prevalecerán los principios de certeza, independenc
 
 El Centro tendrá las siguientes atribuciones:
 
-I. Ofrecer el servicio público de conciliación laboral en conflictos del orden local, de acuerdo con el artículo 123, apartado A fracción XX, de la Constitución General y la Ley Federal del Trabajo;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+I. Prestar de manera gratuita el servicio público de conciliación laboral en conflictos del orden local, en una instancia previa al juicio ante los tribunales laborales, de acuerdo con los artículos 123, apartado A fracción XX, de la Constitución General y la Ley Federal del Trabajo;
 
 II. Recibir solicitudes de conciliación de las y los trabajadores y/o patrones para su trámite;
 
@@ -123,7 +145,9 @@ IX. Solicitar la colaboración de las dependencias y entidades de la Administrac
 
 X. Establecer los convenios necesarios con instituciones públicas o privadas, así como organizaciones de la sociedad civil, para lograr los propósitos de la presente Ley;
 
-XI. Presentar anualmente al titular del Poder Ejecutivo del Estado un informe general de las actividades realizadas, así como su proyecto de presupuesto de egresos, a fin de que se considere en la iniciativa de Presupuesto de Egresos del Estado;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+XI. Presentar anualmente a la persona titular del Poder Ejecutivo del Estado un informe general de las actividades realizadas, así como su proyecto de presupuesto de egresos, a fin de que se considere en la iniciativa de Presupuesto de Egresos del Estado;
 
 XII. Establecer un modelo de gestión conciliatoria y administrativa para su adecuado funcionamiento;
 
@@ -131,7 +155,17 @@ XIII. Establecer el Código de Conducta de las personas servidoras públicas del
 
 XIV. Implementar medidas que garanticen un ambiente laboral libre de todo tipo de discriminación, violencia y acoso; así como la sustentabilidad ambiental del propio órgano;
 
-XV. Imponer las multas que correspondan por el incumplimiento de las disposiciones previstas en la Ley Federal del Trabajo, conforme a la normatividad aplicable, y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+XV. Imponer las multas que correspondan por el incumplimiento de las disposiciones previstas en la Ley Federal del Trabajo, conforme a la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
+
+XV Bis. Implementar programas de difusión e información, a través de los medios masivos de comunicación que estime convenientes y de acuerdo a su capacidad presupuestal, para dar a conocer los servicios que presta, observando la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
+
+XV Ter. Establecer en el Reglamento Interior, los mecanismos y procedimientos para la realización de audiencias, y
 
 XVI. Las demás que le confiera la Ley Federal del Trabajo, la Ley Orgánica de la Administración Pública del Estado, la Ley de las Entidades Paraestatales del Estado de Tlaxcala y demás disposiciones aplicables.
 
@@ -145,13 +179,17 @@ I. La Junta de Gobierno, y
 
 II. La Dirección General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
+
 ###### Artículo 10.
 
-La Junta de Gobierno, se compondrá por los siguientes integrantes:
+La Junta de Gobierno se integrará de la forma siguiente:
 
 I. La persona titular de la Secretaría de Gobierno, quien la presidirá;
 
-II. La persona titular de la Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+II. La persona titular de la Secretaría de Finanzas;
 
 III. La persona titular del Centro Estatal de Justicia Alternativa;
 
@@ -169,9 +207,11 @@ Los suplentes de la Junta de Gobierno, serán designados por los miembros propie
 
 Los integrantes de la Junta de Gobierno y, en su caso, sus suplentes tendrán derecho a voz y voto.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+
 ###### Artículo 13.
 
-A las sesiones de la Junta de Gobierno podrán asistir la persona titular de la Dirección General, los invitados y el Comisario Público, con derecho a voz, pero sin derecho a voto.
+A las sesiones de la Junta de Gobierno podrán asistir el Director General, los invitados y el titular del Órgano Interno, con voz, pero sin voto.
 
 ###### Artículo 14.
 
@@ -179,13 +219,31 @@ A solicitud de los integrantes de la Junta de Gobierno, en las sesiones podrán 
 
 Las personas que sean designadas para integrar la Junta de Gobierno no percibirán retribución o compensación por su participación, ya que esta función es de carácter honorífico.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+
 ###### Artículo 15.
 
-La Junta de Gobierno llevará a cabo sesiones ordinarias por lo menos una vez cada trimestre, la persona titular de la Presidencia podrá convocar a sesiones extraordinarias por sí o a solicitud de la mayoría de sus integrantes. La Junta de Gobierno sesionará válidamente contando con la presencia de la mayoría de sus integrantes y siempre que esté presente la Presidencia. Las resoluciones se tomarán por mayoría de las personas integrantes presentes teniendo la persona titular de la Presidencia, voto de calidad, para el caso de empate.
+La Junta de Gobierno llevará a cabo sesiones que podrán ser:
+
+I. Ordinarias: por lo menos cada trimestre, y
+
+II. Extraordinarias: las veces que sean necesarias para el cumplimiento de los fines de la Junta de Gobierno.
+
+Las sesiones serán convocadas por la persona titular de la Presidencia o a solicitud de la mayoría de sus integrantes.
+
+Las convocatorias a sesiones ordinarias deberán incluir el orden del día y los anexos respectivos y podrán notificarse por escrito, de manera personal, o a través de medios electrónicos, con cuarenta y ocho horas de anticipación; mientras que las extraordinarias se convocarán en los mismos términos que las ordinarias, y se notificarán con veinticuatro horas previas a su celebración.
+
+Las sesiones se celebrarán, por regla general, bajo la modalidad presencial. En casos extraordinarios, independientemente de su tipo, podrán celebrarse bajo la modalidad virtual, mediante el uso de sistemas, plataformas o cualquier otro medio tecnológico que permita la comunicación a través de audio y video. Las sesiones que se celebren bajo la modalidad virtual y los acuerdos que en ellas se determinen, tendrán plena validez.
+
+La Junta de Gobierno sesionará válidamente contando con la presencia de la mayoría de sus integrantes y siempre que se encuentre presente el Presidente.
+
+Las resoluciones se aprobarán por mayoría de votos de las personas integrantes presentes, teniendo el Presidente, voto de calidad, para el caso de empate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
 
 ###### Artículo 16.
 
-Las sesiones se celebrarán en el lugar que acuerde la Junta de Gobierno a propuesta de la persona titular de la Presidencia, salvo que por causas justificadas en la convocatoria correspondiente se señale lugar distinto, al acordado para la celebración de la sesión.
+Las sesiones se celebrarán en el lugar o modalidad que acuerde la Junta de Gobierno a propuesta del Presidente, salvo que, por causas justificadas, en la convocatoria correspondiente, se señale lugar distinto al acordado para la celebración de la sesión.
 
 Cuando se encuentren reunidas la totalidad de las personas integrantes de la Junta de Gobierno, podrán decidir erigirse en sesión formal, sin necesidad de previa convocatoria.
 
@@ -195,7 +253,9 @@ La Junta de Gobierno, tendrá las atribuciones siguientes:
 
 I. Establecer las políticas generales y definir las prioridades a las que deberá sujetarse el Centro, relativas a la prestación de los servicios públicos que le corresponden en los términos de la presente Ley, sobre productividad, finanzas, investigación, desarrollo tecnológico y administración general;
 
-II. Aprobar la estructura básica de la organización del Centro, el Reglamento Interno del Centro, el Manual de Organización, el Manual de Procedimientos, el Manual de Servicios al Público, el Código de Conducta, y demás disposiciones administrativas que regulen la operación y el funcionamiento del Centro;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+II. Aprobar la estructura básica de la organización del Centro, el Reglamento Interior, el Manual de Organización, el Manual de Procedimientos, el Manual de Servicios al Público, el Código de Conducta, y demás disposiciones administrativas que regulen la operación y el funcionamiento del Centro;
 
 III. Aprobar las bases para la organización, funcionamiento y desarrollo del Sistema de Servicio Profesional de Carrera, así como emitir los lineamientos y criterios para la selección de conciliadores;
 
@@ -211,7 +271,9 @@ VIII. Autorizar la creación de Comités de Apoyo y en su caso, la participació
 
 IX. Conocer los informes y dictámenes que presente el Órgano Interno de Control;
 
-X. Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda al Comisario Público;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+X. Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda al Órgano Interno;
 
 XI. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de los activos fijos del Centro que no correspondan a las operaciones propias del objeto del mismo;
 
@@ -269,9 +331,11 @@ VIII. No ser fedatario público, salvo que solicite licencia, y
 
 IX. No haber ocupado cargo en algún partido político, ni ejercido un cargo de elección popular o sido candidato a alguno, en los tres años anteriores a la designación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
+
 ###### Artículo 20.
 
-La persona titular de la Dirección General, desempeñará su cargo por seis años y podrá ser ratificado por un periodo más, por una sola ocasión. No podrá tener otro empleo, cargo o comisión, con excepción de aquellos en que actúe en representación del Centro, en actividades docentes, científicas, culturales o de beneficencia y de los no remunerados.
+El Director General, desempeñará su cargo por seis años y podrá ser ratificado por una sola ocasión, hasta por un periodo igual. No podrá tener otro empleo, cargo o comisión, con excepción de aquellos en que actúe en representación del Centro, en actividades docentes, científicas, culturales o de beneficencia y de los no remunerados.
 
 La persona titular de la Dirección General, será designado de conformidad con lo establecido en la Constitución Local.
 
@@ -319,23 +383,43 @@ XVIII. Las demás dispuestas por la Ley Federal del Trabajo, la Ley Orgánica de
 
 ### CAPÍTULO V. DE LA VIGILANCIA Y CONTROL DEL CENTRO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
+
 ###### Artículo 22.
 
-El Centro contará con un Órgano Interno de Control y de vigilancia que estará integrado por un Comisario Público propietario y un suplente, designados por la Contraloría del Ejecutivo. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de la gestión del Centro. Evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión y en general efectuarán los actos que requiera el adecuado cumplimiento de sus funciones de acuerdo con lo establecido en la Ley Orgánica de la Administración Pública del Estado y demás disposiciones aplicables.
+El Centro contará con un Órgano Interno, cuyo titular será designado por la Secretaría de la Función Pública y podrá ser removido por la misma cuando medien causas graves atribuibles al incumplimiento de sus funciones. Este órgano estará adscrito jerárquica, técnica y funcionalmente a la mencionada dependencia, y tendrá a su cargo las funciones relativas al control y vigilancia de la gestión pública del Centro de Conciliación, conforme a lo dispuesto por la normatividad aplicable y los lineamientos que emita la Secretaría de la Función Pública.
 
 Asistirán con voz, pero sin voto a las reuniones ordinarias y extraordinarias de la Junta de Gobierno y podrán asistir a las sesiones de los comités técnicos especializados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE MARZO DE 2023)</small>
+
+La persona titular del Órgano Interno promoverá el mejoramiento de la gestión del Organismo, evaluando sus funciones y desempeño, además realizará estudios sobre la eficiencia con la que se ejerza el gasto público y en general efectuará los actos requeridos para el cumplimiento de sus funciones.
 
 ###### Artículo 23.
 
 Para el cumplimiento de sus funciones, la Junta de Gobierno y la persona titular de la Dirección General, deberán proporcionar la información que solicite El Órgano Interno de Control. Asimismo, podrán asistir a las sesiones de los comités y subcomités técnicos especializados del Centro de Conciliación.
 
-El Órgano Interno de Control desarrollará sus funciones conforme a los lineamientos que emita la Contraloría del Ejecutivo, de acuerdo a las bases siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MARZO DE 2023)</small>
+
+El Órgano Interno desarrollará sus funciones conforme a los lineamientos que emita la Secretaría de la Función Pública, de acuerdo con las bases siguientes:
 
 I. Recibirá quejas e investigará por conducto del área investigadora. Por conducto del área de responsabilidades o de la persona titular del órgano interno de control substanciará y determinará la responsabilidad administrativa del personal adscrito al servicio público del Centro de Conciliación e impondrán las sanciones aplicables en los términos previstos en la ley de la materia. De igual forma, dictará las resoluciones en los recursos de revocación que interponga el personal del servicio público del Centro de Conciliación respecto de la imposición de sanciones administrativas;
 
-II. Realizará sus actividades de acuerdo a reglas y bases que les permitan cumplir su cometido con autosuficiencia y autonomía, y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-III. Examinará y evaluará los sistemas, mecanismos y procedimientos de control; efectuará revisiones y auditorías; vigilará que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; presentará a la persona titular de la Dirección General, a la Junta de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
+II. Realizará sus actividades de acuerdo a reglas y bases que les permitan cumplir su cometido con autosuficiencia y autonomía;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+III. Examinará y evaluará los sistemas, mecanismos y procedimientos de control; efectuará revisiones y auditorías; vigilará que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; presentará al Director General, a la Junta de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2023)</small>
+
+IV. Presentar al Director General y a la Junta de Gobierno, los informes resultantes de las auditorías, exámenes y evaluaciones realizados, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2023)</small>
+
+V. Las demás que disponga la Secretaría de la Función Pública.
 
 ### CAPÍTULO VI. DEL PATRIMONIO DEL CENTRO
 
@@ -410,3 +494,17 @@ SECRETARIO DE GOBIERNO
 JOSÉ AARÓN PÉREZ CARRO
 
 Rúbrica y sello
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 213.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
