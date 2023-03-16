@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-152263"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-03"
-last_updated: "2023-03-01"
+last_updated: "2023-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152263&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-28"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MARZO DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 3 de noviembre de 2021.
 
@@ -2057,23 +2057,23 @@ III. Las Secretarias y los Secretarios de Estudio y Cuenta que cada Ministro o M
 
 En caso de que de las listas no sean suficientes para satisfacer las necesidades respectivas, se podrán considerar a otras Secretarias o Secretarios conforme a los parámetros que para tal efecto determine el Consejo.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA SUSTITUCIÓN DE JUEZAS Y JUECES DE DISTRITO ESPECIALIZADOS EN MATERIA LABORAL POR AUSENCIAS TEMPORALES, D.O.F. 16 DE MARZO DE 2023)</small>
+
 ###### Artículo 176.
 
-Ausencia temporal de Juezas y Jueces de Distrito Especializados en Materia Laboral. Las Juezas y Jueces de Distrito Especializados en Materia de Trabajo de los Tribunales Laborales Federales serán sustituidos en sus ausencias temporales menores a quince días, incluyendo vacaciones o algún otro motivo extraordinario, en la conducción de audiencias o dictado de sentencias, de la siguiente manera:
+Ausencia temporal de Juezas y Jueces de Distrito Especializados en Materia Laboral. Las juezas y jueces de Distrito Especializados en Materia de Trabajo de los Tribunales Laborales Federales serán sustituidos en sus ausencias temporales de hasta quince días, incluyendo vacaciones o algún otro motivo extraordinario, en la conducción de audiencias o dictado de sentencias, de la siguiente manera:
 
-I. Por Juezas y Jueces de Distrito Especializados en Materia de Trabajo que se encuentren pendientes de adscripción. Al hacer la designación se deberá cuidar que no se presenten potenciales conflictos de interés relativos a la revisión de las resoluciones;
+I. Por Juezas y Jueces de Distrito Especializados en Materia de Trabajo de su misma adscripción; y
 
-II. En caso de no ser posible lo previsto en la fracción anterior, por Juezas y Jueces de Distrito Especializados en Materia de Trabajo de su misma adscripción, y
+II. Si lo dispuesto en la fracción anterior no es factible, serán sustituidas o sustituidos por una Jueza o Juez de Distrito Especializado en Materia de Trabajo de otra adscripción privilegiando la cercanía.
 
-III. Si lo dispuesto en la fracción anterior no es factible, serán sustituidas o sustituidos por una Jueza o Juez de Distrito Especializado en Materia de Trabajo de otra adscripción.
+En todos los supuestos, para evitar el traslado físico, se podrá hacer uso de medios de comunicación remota, salvo cuando sea necesaria la presencia física.
 
-En todos los supuestos, para evitar el traslado físico, se podrá hacer uso de medios de comunicación remota, salvo cuando sea necesario.
+Cuando las ausencias temporales de una Jueza o Juez de Distrito Especializado en Materia de Trabajo sean superiores a quince días, el Pleno, en atención a la opinión que previamente le proporcione la Secretaría Ejecutiva de Adscripción, con el visto bueno de la Comisión de Adscripción, tomará la decisión correspondiente para su suplencia.
 
-Cuando las ausencias temporales de una Jueza o Juez de Distrito Especializado en Materia de Trabajo fueren superiores a quince días, el Pleno, en atención a la opinión que previamente le proporcione la Secretaría Ejecutiva de Adscripción, designará a quien deba suplirla o suplirlo de entre las listas de personas servidoras públicas habilitadas para desempeñar funciones jurisdiccionales en materia de trabajo, conforme lo establecido en el artículo 86, fracción XXI de la Ley Orgánica.
+Las Secretarias y los Secretarios adscritos a los Tribunales Laborales Federales, podrán suplir a la Jueza o al Juez de su adscripción durante sus ausencias temporales y periodos vacacionales únicamente en las actuaciones de trámite. En ningún caso habrá suplencias en la conducción de las audiencias que se celebren dentro de un procedimiento laboral y en el dictado de la sentencia correspondiente.
 
-Las Secretarias y los Secretarios adscritos a los Tribunales Laborales Federales, podrán suplir a la Jueza o al Juez de su adscripción durante sus ausencias temporales y periodos vacacionales únicamente en las actuaciones de trámite. En ningún caso podrán suplirlas o suplirlos en la conducción de las audiencias que se celebren dentro de un procedimiento laboral y en el dictado de la sentencia correspondiente.
-
-Las y los Titulares deberán informar de esta medida a la Comisión, a la brevedad posible, a fin de que se tome conocimiento de la designación del secretario o secretaria, o bien sean autorizados para los casos de ausencias temporales mayores a quince días.
+Las personas titulares deberán informar de esta medida a la Comisión, a la brevedad posible, a fin de que se tome conocimiento de la designación del secretario o secretaria, o bien sean autorizados para los casos de ausencias temporales mayores a quince días.
 
 ### Capítulo VII. Retiro de Magistradas, Magistrados, Juezas y Jueces
 
@@ -2598,3 +2598,11 @@ D.O.F. 1 DE MARZO DE 2023.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 16 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA SUSTITUCIÓN DE JUEZAS Y JUECES DE DISTRITO ESPECIALIZADOS EN MATERIA LABORAL POR AUSENCIAS TEMPORALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
