@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-142951"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-18"
-last_updated: "2022-12-23"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023.
 
 Ley publicada en la Segunda Sección del Estado de Puebla, el lunes 18 de mayo de 2020.
 
@@ -63,7 +63,9 @@ La distribución de la función social educativa, se funda en la obligación de 
 
 La educación es factor determinante para la adquisición de conocimientos, el desarrollo armónico de todas sus capacidades y para formar mujeres y hombres que tengan sentido de solidaridad social.
 
-La autoridad educativa estatal fomentará la participación activa de las y los educandos, madres y padres de familia, tutoras o tutores, maestras y maestros, así como de los distintos actores involucrados en el proceso educativo y, en general, de todo el Sistema Educativo Estatal, para asegurar que éste extienda sus beneficios a todos los sectores sociales y regiones del Estado de Puebla, a fin de contribuir al desarrollo económico, social y cultural de sus habitantes.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+
+La autoridad educativa estatal fomentará la participación activa de las y los educandos, madres y padres de familia, tutoras o tutores, maestras y maestros, así como de las y los distintos actores involucrados en el proceso educativo y, en general, de todo el Sistema Educativo Estatal, para asegurar que éste extienda sus beneficios a todos los sectores sociales y regiones del Estado de Puebla, a fin de contribuir al desarrollo sostenible.
 
 ###### ARTÍCULO 4.
 
@@ -121,7 +123,9 @@ Es obligación de las madres y padres de familia, tutoras o tutores hacer que su
 
 La obligatoriedad de la educación superior corresponde al Estado en los términos dispuestos por la fracción X del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y las leyes en la materia.
 
-Además de impartir educación en los términos establecidos en la Constitución Política del Estado Libre y Soberano de Puebla, la autoridad educativa estatal apoyará la investigación e innovación científica, humanística y tecnológica, y alentará el fortalecimiento y la difusión de la cultura estatal, nacional y universal, en los términos que las leyes en la materia determinen.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+
+Además de impartir educación en los términos establecidos en la Constitución Política del Estado Libre y Soberano de Puebla, la autoridad educativa estatal apoyará la investigación e innovación científica, humanística y tecnológica; alentará el fortalecimiento y la difusión de la cultura estatal, nacional y universal; y promoverá el desarrollo sostenible, en los términos que las leyes en la materia determinen.
 
 ### CAPÍTULO III. DE LA EDUCACIÓN EN EL ESTADO DE PUEBLA
 
@@ -131,31 +135,59 @@ La autoridad educativa estatal buscará la equidad, la excelencia y la mejora co
 
 Las acciones que desarrollen tendrán como objetivos el desarrollo humano integral del educando, reorientar el Sistema Educativo Estatal, incidir en la cultura educativa mediante la corresponsabilidad e impulsar transformaciones sociales dentro de la escuela y en la comunidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 10.
 
-En la prestación de los servicios educativos se impulsará el desarrollo humano integral para que todas las personas en el Estado de Puebla puedan:
+En la prestación de los servicios educativos se impulsará la educación sostenible y el desarrollo humano integral para que todas las personas en el Estado de Puebla puedan:
 
 I. Contribuir a la formación del pensamiento crítico, a la transformación y al crecimiento solidario de la sociedad, enfatizando el trabajo en equipo y el aprendizaje colaborativo;
 
 II. Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia, la tecnología y la innovación como factores del bienestar y la transformación social;
 
-III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-IV. Combatir las causas de discriminación y violencia en las diferentes regiones del país, especialmente la que se ejerce contra la niñez y las mujeres, y
+III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad; contribuir al impulso y promoción del desarrollo sostenible; impulsar el desarrollo social, ambiental y económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
 
-V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+IV. Combatir las causas de discriminación y violencia en las diferentes regiones del país, especialmente la que se ejerce contra la niñez y las mujeres;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos; y
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
+
+VI. Transitar a prácticas productivas y patrones de consumo sostenibles, bajo un paradigma biocéntrico que les permita contar con un medio ambiente sano y acceder a su desarrollo integral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 11.
 
-En el Estado de Puebla, se fomentará en las personas una educación basada en:
+En el Estado de Puebla se fomentará en las personas una educación sostenible basada en:
 
 I. La identidad y el sentido de pertenencia, además del respeto desde la interculturalidad, para considerarse como parte de una nación pluricultural y plurilingüe con una historia que cimienta perspectivas del futuro, que promueva la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social;
 
-II. La responsabilidad ciudadana, sustentada en valores como la honestidad, la justicia, la solidaridad, la reciprocidad, la lealtad, la libertad, entre otros;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+II. La responsabilidad ciudadana, sustentada en valores como la honestidad, la justicia, la solidaridad, la reciprocidad, la lealtad, la libertad, la igualdad y la democracia, entre otros
 
 III. La participación activa en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural y político;
 
-IV. El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida sostenibles, y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+IV. El respeto, preservación, cuidado y restauración del medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y con temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida orientados al desarrollo sostenible.
+
+> <small>(ADICIONADO [N. DE E. CON LOS INCISOS QUE LO INTEGRAN, P.O. 16 DE MARZO DE 2023)</small>
+
+Para efectos de la fracción anterior la autoridad educativa podrá promover, en el ámbito de sus atribuciones y en coordinación con las demás autoridades competentes, lo siguiente:
+
+a) La participación de la comunidad escolar bajo esquemas voluntarios o de servicio social, y sus equivalentes, en campañas de reforestación y manejo racional del agua y de residuos, u otras similares y relacionadas;
+
+b) La instalación y funcionamiento, cuando las condiciones lo permitan, de huertos y/o viveros escolares, de manera coordinada con las autoridades y sectores correspondientes; y
+
+c) El destino de una superficie de suelo, en las instalaciones educativas, para compostas de residuos orgánicos; y
 
 V. El respeto y conservación del patrimonio cultural e histórico, así como de las tradiciones, usos y costumbres del Estado de Puebla.
 
@@ -193,11 +225,39 @@ a) Se prohíbe el pago de cualquier contraprestación que impida o condicione la
 
 b) No se podrá condicionar la inscripción, el acceso a los planteles, la aplicación de evaluaciones o exámenes, la entrega de documentación a las y los educandos al pago de contraprestación alguna, ni afectar en cualquier sentido la igualdad en el trato a las y los educandos, y
 
-c) Las donaciones o aportaciones voluntarias destinadas a dicha educación en ningún caso se entenderán como contraprestación del servicio educativo. Las autoridades educativas, en el ámbito de su competencia, definirán los mecanismos para su regulación, destino, aplicación, transparencia y vigilancia, además tendrán la facultad de apoyarse en instituciones que se determinen para tal fin, y
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
 
-V. Laica, al mantenerse por completo ajena a cualquier doctrina religiosa.
+c) Las donaciones o aportaciones voluntarias destinadas a dicha educación en ningún caso se entenderán como contraprestación del servicio educativo. Las autoridades educativas, en el ámbito de su competencia, definirán los mecanismos para su regulación, destino, aplicación, transparencia y vigilancia, además tendrán la facultad de apoyarse en instituciones que se determinen para tal fin;
 
-La educación que impartan los particulares con autorización o con reconocimiento de validez oficial de estudios, se sujetará a lo previsto en la fracción VI del artículo 3º. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y a lo dispuesto en esta Ley.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+V. Laica, al mantenerse por completo ajena a cualquier doctrina religiosa; y
+
+> <small>(ADICIONADA [N. DE E. CON LOS INCISOS QUE LA INTEGRAN, P.O. 16 DE MARZO DE 2023)</small>
+
+VI. Sostenible, al impulsar y promover contenidos y prácticas basados en los criterios, principios y desafíos del desarrollo sostenible, con la intención de formar estudiantes y ciudadanos consientes y participativos, atendiendo, para el caso, los principios y directrices dispuestos por las instituciones e instancias competentes para lograr lo siguiente:
+
+a) El reconocimiento del planeta, como un superorganismo vivo que se autorregula y nos provee de elementos para el bienestar y en consecuencia requiere cuidado y atención.
+
+b) La revinculación de todos los seres y sectores de la sociedad, como elementos corresponsables de la explotación y restauración del entorno.
+
+c) La conciencia de que la sostenibilidad se garantiza a través del respeto de los ciclos naturales de los ecosistemas, consumiendo de forma racional los recursos para mantener y proteger nuestra existencia sin comprometer la de las futuras generaciones.
+
+d) La valoración y preservación de los ecosistemas, propiciando la cooperación colectiva para la supervivencia común.
+
+e) El reconocimiento, respeto y valor a las diferencias culturales, asumiéndolas como riqueza y pluralidad que se complementan.
+
+f) Que la ciencia se promueva y práctique bajo criterios éticos, propiciando como metas las de beneficio colectivo para privilegiar más a la vida y a la humanidad, que al lucro y los mercados.
+
+g) La superación de que el corporativismo, la ciencia y tecnología son elementos únicos para la formación, así como para el acceso y respuesta a la realidad; por lo que se requiere visibilizar e involucrar otros saberes y prácticas, como los de las culturas originarias, para impulsar el desarrollo sostenible.
+
+h) La priorización e impulso del desarrollo colectivo de forma equitativa, lo que represente que los avances de la humanidad beneficien a todos, sin distinción ni discriminación.
+
+i) El rescate de la razón y la esencia humana, así como la promoción del respeto, solidaridad y corresponsabilidad, con base en la promoción de los valores para el desarrollo colectivo.
+
+(REPUBLICADO, P.O. 16 DE MARZO DE 2023)
+
+La educación que impartan los particulares con autorización o con reconocimiento de validez oficial de estudios, se sujetará a lo previsto en la fracción VI del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y a lo dispuesto en esta Ley.
 
 ###### ARTÍCULO 13.
 
@@ -217,11 +277,21 @@ VI. Propiciar actitudes solidarias en el ámbito internacional, en la independen
 
 VII. Promover la comprensión, el aprecio, el conocimiento y enseñanza de la pluralidad étnica, cultural y lingüística de la nación, Estado y sus municipios; el diálogo e intercambio intercultural sobre la base de equidad y respeto mutuo, así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del país y del Estado de Puebla;
 
-VIII. Inculcar el respeto por la naturaleza, a través de la generación de capacidades y habilidades que aseguren el manejo integral, la conservación y el aprovechamiento de los recursos naturales, el desarrollo sostenible y la resiliencia frente al cambio climático;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-IX. Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y del Estado de Puebla, y
+VIII. Inculcar el respeto por la naturaleza, a través de la generación de acciones, capacidades y habilidades coordinadas que aseguren el manejo integral, la conservación, la restauración, la preservación de la biodiversidad el aprovechamiento de los recursos naturales, el desarrollo sostenible y la resiliencia frente al cambio climático;
 
-X. Todos aquellos que contribuyan al bienestar y desarrollo del país, del Estado de Puebla y sus municipios.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2023)</small>
+
+IX. Favorecer las relaciones e interacciones humanas con el medio ambiente y sus componentes bióticos y abióticos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN IX], P.O. 16 DE MARZO DE 2023)</small>
+
+X. Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y del Estado de Puebla; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN X], P.O. 16 DE MARZO DE 2023)</small>
+
+XI. Todos aquellos que contribuyan al bienestar y desarrollo del país, del Estado de Puebla y sus municipios.
 
 ###### ARTÍCULO 14.
 
@@ -237,7 +307,9 @@ III. Será humanista, al fomentar el aprecio y respeto por la dignidad de las pe
 
 IV. Promoverá el respeto al interés general de la sociedad, por encima de intereses particulares o de grupo, así como el respeto a las familias, a efecto de que se reconozca su importancia como los núcleos básicos de la sociedad y constituirse como espacios libres de cualquier tipo de violencia;
 
-V. Inculcará los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate a los efectos del cambio climático, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y la resiliencia; así como la generación de conciencia y la adquisición de los conocimientos, las competencias, las actitudes y los valores necesarios para forjar un futuro sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+V. Inculcará los conceptos y principios del desarrollo sostenible, las ciencias ambientales, la prevención y combate a los efectos del cambio climático, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y la resiliencia; así como la generación de conciencia y la adquisición de los conocimientos, las competencias, las actitudes y los valores necesarios para forjar una educación sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad.
 
 VI. Será equitativa, al favorecer el pleno ejercicio del derecho a la educación de todas las personas, para lo cual combatirá las desigualdades socioeconómicas, regionales, de capacidades y de género, respaldará a estudiantes en condiciones de vulnerabilidad social y ofrecerá a todas y todos los educandos una educación pertinente que asegure su acceso, tránsito, permanencia y, en su caso, egreso oportuno en los servicios educativos;
 
@@ -248,6 +320,16 @@ VIII. Será intercultural, al promover la convivencia armónica entre personas y
 IX. Será integral porque educará para la vida y estará enfocada a las capacidades y desarrollo de las habilidades cognitivas, socioemocionales y físicas de las personas que les permitan alcanzar su bienestar y contribuir al desarrollo social, y
 
 X. Será de excelencia, orientada al mejoramiento permanente de los procesos formativos que propicien el máximo logro de aprendizaje de las y los educandos, para el desarrollo de su pensamiento crítico, así como el fortalecimiento de los lazos entre escuela y comunidad.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2023)</small>
+
+ARTÍCULO 14 BIS. A fin de estimular el ejercicio y desarrollo de prácticas ambientales y sostenibles en los estudiantes desde sus primeros niveles de enseñanza, en los actores del Sistema Educativo y en la sociedad en general, la autoridad educativa podrá implementar, en coordinación con las demás autoridades competentes:
+
+a) La participación de la comunidad escolar bajo esquemas voluntarios o de servicio social, y sus equivalentes, en campañas de reforestación y manejo racional del agua y de residuos, u otras similares o relacionadas;
+
+b) La instalación y funcionamiento, cuando las condiciones lo permitan, de huertos y/o viveros escolares, de manera coordinada con las autoridades y sectores correspondientes; y
+
+c) El destino de una superficie de suelo en las instalaciones educativas para compostas de residuos orgánicos.
 
 ## TÍTULO SEGUNDO. DEL SISTEMA EDUCATIVO ESTATAL
 
@@ -431,7 +513,15 @@ II. Ampliar los conocimientos adquiridos por los educandos y fortalecer sus háb
 
 III. Proporcionar los elementos necesarios para el conocimiento en general de la geografía, la historia y la ecología, propiciando el ejercicio crítico y reflexivo para crear conciencia participativa y comprometida con su comunidad;
 
-IV. Profundizar en la educación de protección y preservación del medio ambiente;
+> <small>(REFORMADA, [N. DE E. CON SUS INCISOS] P.O. 16 DE MARZO DE 2023)</small>
+
+IV. Profundizar en la educación sostenible y en el cuidado, protección, preservación y restauración del medio ambiente, incorporando, cuando las condiciones lo permitan, cuestiones prácticas que favorezcan la interacción de las personas con la naturaleza, pudiendo ser, entre otras, las siguientes:
+
+a) La instalación y funcionamiento de huertos y/o viveros escolares;
+
+b) La participación de la comunidad escolar en campañas de reforestación y manejo racional del agua y de residuos; y
+
+c) El destino de una superficie de suelo en las instalaciones educativas para compostas de residuos orgánicos;
 
 V. Promover el desarrollo de habilidades y destrezas mediante el trabajo en talleres y laboratorios;
 
@@ -487,7 +577,19 @@ IV. Formar actitudes y aptitudes que motiven, preparen y orienten para el autoap
 
 V. Fortalecer la identidad estatal y nacional a través del aprecio por la cultura, la historia, las costumbres y las tradiciones del Estado y del País;
 
-VI. Fomentar la práctica continua de los valores humanos en la convivencia social;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+VI. Fomentar la práctica continua de los valores humanos y la democracia en la convivencia social;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 16 DE MARZO DE 2023)</small>
+
+VI Bis. Fortalecer la conciencia y conocimiento teórico-práctico sobre la educación sostenible, el cuidado, protección, preservación y restauración ambiental, a través de lo siguiente:
+
+a) La participación de la comunidad escolar bajo esquemas voluntarios o de servicio social, y sus equivalentes, en campañas de reforestación y manejo racional del agua y de residuos, u otras similares o relacionadas;
+
+b) La instalación y funcionamiento, cuando las condiciones lo permitan, de huertos y/o viveros escolares, de manera coordinada con las autoridades y sectores correspondientes; y
+
+c) El destino de una superficie de suelo en las instalaciones educativas para compostas de residuos orgánicos;
 
 VII. Proporcionar capacitación y adiestramiento que respondan a las necesidades sociales y productivas de las regiones del Estado;
 
@@ -741,9 +843,11 @@ La orientación integral en el proceso educativo comprende la formación para la
 
 En el proceso educativo, deberá asegurarse la participación activa del educando, estimulando su iniciativa y su sentido de responsabilidad social, para que asuma la educación permanente, como una actitud individual y conciba al Sistema Educativo Estatal como factor coadyuvante del proceso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 63.
 
-La orientación integral, en la formación considerará lo siguiente:
+La orientación integral en la formación considerará lo siguiente:
 
 I. El pensamiento lógico matemático y la alfabetización numérica;
 
@@ -752,6 +856,10 @@ II. La comprensión lectora, la expresión oral y escrita, con elementos de la l
 III. El conocimiento tecnológico, con el empleo de tecnologías de la información, comunicación, conocimiento y aprendizaje digital, manejo de diferentes lenguajes y herramientas de sistemas informáticos, y de comunicación;
 
 IV. El conocimiento científico, a través de la apropiación de principios, modelos y conceptos científicos fundamentales, empleo de procedimientos experimentales y de comunicación;
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2023)</small>
+
+Dicho conocimiento deberá estar sustentado en principios éticos de desarrollo sostenible, cuyo objetivo primordial sea la satisfacción mesurada de las necesidades humanas, y que contribuya a la conservación del equilibrio del medio ambiente;
 
 V. El pensamiento filosófico, histórico y humanístico;
 
@@ -763,13 +871,27 @@ VIII. El logro de las y los educandos de acuerdo con sus capacidades, circunstan
 
 IX. Los conocimientos, habilidades motrices y creativas, a través de la activación física, la práctica del deporte y la educación física vinculadas con la salud, la cultura, la recreación y la convivencia en comunidad;
 
-X. La apreciación y creación artística, a través de conocimientos conceptuales y habilidades creativas para su manifestación en diferentes formas, y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-XI. Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base a una educación cívica.
+X. La apreciación y creación artística, a través de conocimientos conceptuales y habilidades creativas para su manifestación en diferentes formas;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+XI. Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base a una educación cívica;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
+
+XII. El fortalecimiento de la conciencia y los conocimientos teórico - prácticos sobre la educación sostenible y la protección y restauración ambiental, en términos de la presente ley y demás ordenamientos aplicables; y
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
+
+XIII. El pensamiento colectivo, empático, cooperativo y la promoción de un modelo de competencia sana, basada en la mesura y la frugalidad.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 64.
 
-Las maestras y los maestros acompañarán a las y los educandos en sus trayectorias formativas en los distintos tipos, niveles, modalidades y opciones educativas, propiciando la construcción de aprendizajes interculturales, tecnológicos, científicos, humanísticos, sociales, biológicos, comunitarios y plurilingües, para acercarlos a la realidad, a efecto de interpretarla y participar en su transformación positiva.
+Las maestras y los maestros acompañarán a las y los educandos en sus trayectorias formativas en los distintos tipos, niveles, modalidades y opciones educativas, propiciando la construcción de aprendizajes interculturales, tecnológicos, científicos, humanísticos, sociales, biológicos, ambientales, comunitarios y plurilingües, para acercarlos a la realidad, a efecto de interpretarla y participar en su transformación positiva.
 
 ###### ARTÍCULO 65.
 
@@ -911,11 +1033,11 @@ La Secretaría publicará en el Periódico Oficial del Estado, las autorizacione
 
 Las madres y padres de familia, tutoras o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 78.
 
-La Secretaría desarrollará actividades de información y orientación para las familias de las y los educandos en relación con prácticas de acompañamiento enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud y atención de la menstruación, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia, tutoras o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+La Secretaría desarrollará actividades de información y orientación para las familias de las y los educandos en relación con prácticas de acompañamiento enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud y atención de la menstruación, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital, respeto, cuidado y restauración del medio ambiente y otros temas que permitan a madres y padres de familia, tutoras o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
 
 ### CAPÍTULO VII. DE OTROS COMPLEMENTOS DEL PROCESO EDUCATIVO
 
@@ -1055,9 +1177,11 @@ VIII. Realizar campañas, mediante el uso de las tecnologías de la información
 
 IX. Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de maltrato escolar, así como coordinar campañas de información sobre las mismas.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 92.
 
-La Secretaría, en el ámbito de su respectiva competencia, emitirá protocolos de actuación que sean necesarios para el cumplimiento del artículo anterior de esta Ley. Entre los protocolos que emita, deberán encontrarse para la prevención y atención de la violencia que se genere en el entorno escolar, familiar o comunitario contra cualquier integrante de la comunidad educativa, para su detección oportuna y para la atención de accidentes que se presenten en el plantel educativo. A su vez, determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa.
+La Secretaría, en el ámbito de su respectiva competencia, emitirá protocolos de actuación que sean necesarios para el cumplimiento del artículo anterior de esta Ley. Entre los protocolos que se emitan, deberán comprender la detección de accidentes, la prevención y atención de la violencia que se genere en el entorno escolar, familiar o comunitario, así como los casos que se presenten por discriminación en términos de lo establecido en el último párrafo del artículo primero de la Constitución Política de los Estados Unidos Mexicanos. A su vez, determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
@@ -1187,7 +1311,9 @@ La Secretaría emitirá los lineamientos para proporcionar la formación inicial
 
 Los planteles educativos constituyen un espacio fundamental para el proceso de enseñanza aprendizaje, donde se presta el servicio público de educación por parte de las autoridades educativas del Estado de Puebla, o por los particulares con autorización o reconocimiento de validez oficial de estudios.
 
-Con el acuerdo de las autoridades, madres y padres de familia, tutoras o tutores y la comunidad, en la medida de sus posibilidades, funcionarán como un centro de aprendizaje comunitario, donde además de educar a niñas, niños, adolescentes y jóvenes, se integrará a las familias y a la comunidad para colaborar en grupos de reflexión, de estudio y de información sobre su entorno.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+
+Con el acuerdo de las autoridades, madres y padres de familia, tutoras o tutores y la comunidad, en la medida de sus posibilidades, funcionarán como un centro de aprendizaje comunitario, donde además de educar a niñas, niños, adolescentes y jóvenes, se integrará a las familias y a la comunidad para colaborar en grupos de reflexión, de estudio y de información sobre su entorno, así como para la instalación y funcionamiento de huertos y/o viveros escolares, y el destino de una superficie de suelo para compostas de residuos orgánicos, cuando sus condiciones lo permitan, entre otras actividades interactivas con el medio ambiente.
 
 ###### ARTÍCULO 105.
 
@@ -1300,6 +1426,10 @@ XI. Vigilar y, en su caso, sancionar a las instituciones ubicadas en el Estado d
 XII. Garantizar la distribución oportuna, completa, amplia y eficiente, de los libros de texto gratuitos y demás materiales educativos complementarios que la autoridad educativa federal le proporcione;
 
 XIII. Supervisar las condiciones de seguridad estructural y protección civil de los planteles educativos del Estado de Puebla;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2023)</small>
+
+XIII Bis. Atender en el ámbito de su competencia y en la medida de lo posible, las solicitudes de los planteles educativos para la instalación y funcionamiento de huertos y/o viveros escolares, en coordinación con las demás autoridades competentes;
 
 XIV. Generar y proporcionar, en coordinación con las autoridades competentes, las condiciones de seguridad en el entorno de los planteles educativos;
 
@@ -1617,7 +1747,9 @@ Este consejo podrá promover, incentivar e incidir en actividades escolares y ex
 
 Las personas beneficiadas directamente por los servicios educativos de instituciones de los tipos de educación superior y, en su caso, de media superior que así lo establezcan, deberán prestar servicio social o sus equivalentes, en los casos y términos que señalen las disposiciones legales. En éstas se preverá la prestación del servicio social o sus equivalentes como requisito previo para obtener título o grado académico correspondiente.
 
-La Secretaría, en coordinación con las instituciones de educación respectivas, promoverán lo necesario a efecto de establecer diversos mecanismos de acreditación del servicio social o sus equivalentes y que éste sea reconocido como parte de su experiencia en el desempeño de sus labores profesionales.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+
+La Secretaría, en coordinación con las instituciones de educación respectivas, promoverán lo necesario a efecto de establecer diversos mecanismos de acreditación del servicio social o sus equivalentes y que éste sea reconocido como parte de su experiencia en el desempeño de sus labores profesionales. Dentro de dichos mecanismos podrán incluirse actividades que impulsen el desarrollo y la educación sostenible, tales como la reforestación o acciones de manejo racional del agua y de residuos, u otras análogas y/o relacionadas.
 
 ###### ARTÍCULO 134.
 
@@ -1908,6 +2040,30 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 92 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN INICIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA, Y DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 33 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 92 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
