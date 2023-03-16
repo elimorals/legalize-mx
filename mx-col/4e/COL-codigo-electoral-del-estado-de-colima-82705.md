@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-82705"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-08-30"
-last_updated: "2022-10-22"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO ELECTORAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023.
 
 Código publicado en el suplemento No. 1 del Periódico Oficial del Estado de Colima, el martes 30 de agosto de 2011.
 
@@ -1665,13 +1665,13 @@ XI. No ser ni haber sido miembro del Servicio Profesional Electoral Nacional dur
 
 El Secretario Ejecutivo del CONSEJO GENERAL deberá reunir los mismos requisitos que se exigen para ser Consejero Electoral, con excepción de lo dispuesto en la fracción XI de este artículo.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 109.
 
-La retribución que reciban los Consejeros Electorales y los demás servidores públicos del INSTITUTO, será la prevista en su presupuesto anual de egresos aprobado por el CONGRESO.
+Las remuneraciones o dieta de asistencia que reciban las personas Consejeras Electorales y las demás personas servidoras públicas del INSTITUTO, será la prevista en su presupuesto anual de egresos aprobado por el CONGRESO.
 
-Los Consejeros Electorales percibirán la retribución mensual en salarios mínimos generales vigentes en la zona económica del Estado: para el Consejero Presidente 900, los Consejeros Electorales 550 y el Secretario Ejecutivo 500.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -2129,41 +2129,19 @@ El Presidente, los Consejeros Electorales y el Secretario Ejecutivo de los CONSE
 
 Los CONSEJOS MUNICIPALES podrán solicitar al Presidente del CONSEJO GENERAL la contratación del personal eventual idóneo que se requiera para los actos relativos al proceso electoral.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+(NOTA: EL 6 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 316/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE ENERO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 125.
 
-La retribución mensual que recibirán el Presidente, el Secretario Ejecutivo y los Consejeros Electorales Municipales será conforme al salario mínimo diario vigente en el ESTADO, de la manera siguiente:
+La dieta de asistencia y retribución mensual de las personas que ocupen los cargos de Consejería Electoral Municipal, SOLO LA RECIBIRÁN EN PROCESO ELECTORAL, Y será de conformidad con lo señalado en el presupuesto de egresos anual.
 
-A) En proceso electoral:
+A) (DEROGADO CON SUS FRACCIONES E INCISOS, P.O. 16 DE MARZO DE 2023)
 
-I. Primera región, integrada por los Consejos Municipales de Colima, Manzanillo, Tecomán y Villa de Álvarez:
+B) (DEROGADO CON SUS FRACCIONES E INCISOS, P.O. 16 DE MARZO DE 2023)
 
-a) Para el Presidente y los Consejeros Electorales, el equivalente a 340 y 180, respectivamente; y
-
-b) El Secretario Ejecutivo, el equivalente a 170.
-
-II. Segunda región, integrada por los Consejos Municipales de Comala, Coquimatlán, Cuauhtémoc, Armería, Ixtlahuacán y Minatitlán:
-
-a) Para el Presidente y los Consejeros Electorales, el equivalente a 210 y 150 respectivamente; y
-
-b) El Secretario Ejecutivo, el equivalente a 130.
-
-B) En período no electoral:
-
-I. Primera región, integrada por los Consejos Municipales de Colima, Villa de Álvarez, Manzanillo y Tecomán:
-
-a) Para el Presidente y los Consejeros Electorales, el equivalente a 80 y 30, respectivamente; y
-
-b) El Secretario Ejecutivo, el equivalente a 25.
-
-II. Segunda región, integrada por los Consejos Municipales de Comala, Coquimatlán, Cuauhtémoc, Armería, Ixtlahuacán y Minatitlán:
-
-a) Para el Presidente y los Consejeros Electorales, el equivalente a 65 y 30, respectivamente; y
-
-b) El Secretario Ejecutivo el equivalente a 25.
-
-Las percepciones señaladas anteriormente, así como los gastos que origine el funcionamiento del Consejo Municipal, serán previstos en el Presupuesto Anual de Egresos del INSTITUTO.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
 
@@ -3991,13 +3969,17 @@ El TRIBUNAL se instalará para el proceso electoral de que se trate dentro de lo
 
 En caso de elecciones extraordinarias, ajustará los plazos de la interposición de los recursos o juicios y demás etapas procesales, conforme a lo dispuesto por la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 273.
 
-Los Magistrados ejercerán sus funciones por un período de siete años. Estarán sujetos al régimen de responsabilidades establecido en el Título XI de la CONSTITUCIÓN y rendirán la protesta de ley ante la Cámara de Senadores. La retribución que reciban los Magistrados numerarios será de 1000 unidades de salarios mínimos generales vigentes en el ESTADO y se incluirá en el Presupuesto de Egresos del propio TRIBUNAL.
+Las o los Magistrados ejercerán sus funciones por un período de siete años. Estarán sujetos al régimen de responsabilidades establecido en el Título XI de la CONSTITUCIÓN y rendirán la protesta de ley ante la Cámara de Senadores. Las personas Magistradas, y demás servidoras públicas del Tribunal percibirán una remuneración adecuada al ejercicio de sus funciones de conformidad a lo previsto en el presupuesto autorizado, la que no podrá disminuirse durante el ejercicio de su cargo y se incluirá en el Presupuesto de Egresos del propio TRIBUNAL.
 
-Si a la conclusión del período legal del cargo de Magistrado a que se refiere este artículo, el Senado no ha elegido al sustituto, la persona que lo viene desempeñando continuará en el mismo hasta que tome posesión el que lo sustituya.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+
+Si a la conclusión del período legal del cargo de Magistrado o Magistrada a que se refiere este artículo, el Senado no ha elegido a la persona sustituta, quien lo venga desempeñando continuará en el mismo hasta que tome posesión el o la que lo sustituya.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
 Concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
 
@@ -5886,3 +5868,41 @@ P.O. 22 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 171.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 29 Y 260 FRACCIÓN III DEL CÓDIGO ELECTORAL DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 16 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 262.- POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 109; PRIMER PÁRRAFO DEL ARTÍCULO 125; PRIMERO Y SEGUNDO PÁRRAFO DEL 273; SE DEROGAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 109; LA TOTALIDAD DE LOS INCISOS A) Y B); Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 125 DEL CÓDIGO ELECTORAL DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima", salvo lo previsto en las disposiciones transitorias siguientes.
+
+SEGUNDO. Las actuales Magistradas o Magistrados Supernumerarios del Tribunal Electoral del Estado de Colima que se encuentren en funciones a la entrada en vigor del presente Decreto, continuarán recibiendo la remuneración que les tenga fijada en su presupuesto el Tribunal Electoral del Estado para este año 2023, debiendo ajustarse su remuneración hasta en tanto la misma se encuentre dentro del límite contemplado en el presente decreto o, en su caso, hasta que concluyan su encargo.
+
+TERCERO. Las actuales Magistradas o Magistrados Numerarios del Tribunal Electoral del Estado de Colima que se encuentren en funciones a la entrada en vigor del presente Decreto, continuarán recibiendo la remuneración que les tenga fijada en su presupuesto el Tribunal Electoral del Estado para este año 2023, debiendo ajustarse su remuneración hasta en tanto la misma se encuentre dentro del límite contemplado en el presente decreto o, en su caso, hasta que concluya su encargo.
+
+CUARTO. Con la finalidad de generar austeridad en el gasto desproporcionado y acatar lo establecido en la Constitución Política de los Estados Unidos Mexicano (sic), artículo 142 de la Constitución Política del Estado Libre y Soberano de Colima, Ley que Fija las Bases para las Remuneraciones de los Servidores Públicos del estado y Municipios, Ley de Austeridad del Estado de Colima, las personas servidoras públicas que no se encuentren en la hipótesis establecida en los artículos segundo y tercero transitorio se ajustaran para el ejercicio fiscal 2023 a partir de la entrada en vigor de este decreto a lo siguiente:
+
+I. Las nuevas personas designadas en Magistraturas Numerarias del Tribunal Electoral del Estado de Colima, percibirán las mismas remuneraciones que las personas Magistradas del órgano autónomo denominado Tribunal de Justicia Administrativa.
+
+La retribución que reciban las personas designadas en nuevas Magistraturas Supernumerarias será la que corresponda al cargo de la Secretaría General de Acuerdos del Tribunal más un 10 por ciento; y sólo cuando suplan a los Magistrados numerarios recibirán la remuneración que corresponda a aquellos por el periodo que concierna la suplencia.
+
+II. Las personas Consejeras Electorales del Estado de Colima, incluida la persona titular de la Presidencia, recibirán como dieta de asistencia, el 20% menos de la percepción establecida en la fracción anterior, para las personas Magistradas Numerarias del Tribunal Electoral del Estado de Colima.
+
+III. La persona titular de la Secretaría Ejecutiva y de la Secretaría General de Acuerdos, del Consejo Electoral y del Tribunal Electoral del Estado, respectivamente, percibirán el 40% menos que por concepto de dieta de asistencia se establece para las personas Consejeras Electorales del Estado de Colima, referida en la fracción anterior.
+
+IV. Las personas Consejeras Municipales Electorales y sus titulares Presidentes de la primera región (Colima, Manzanillo, Tecomán y Villa de Álvarez), recibirán como dieta de asistencia, el 20% menos de la percepción establecida para las personas servidoras públicas referidas en la fracción III de este artículo transitorio.
+
+V. Las personas titulares de las Secretarías Ejecutivas de los Consejos Municipales Electorales de la primera región (Colima, Manzanillo, Tecomán y Villa de Álvarez), percibirán el 20% menos que por concepto de dieta de asistencia se establece para las personas Consejeras Municipales Electorales referidas en la fracción IV de este artículo transitorio.
+
+VI. Las personas Consejeras Municipales Electorales y sus titulares Presidentes de la segunda región (Comala, Coquimatlán, Cuauhtémoc, Armería, Ixtlahuacán y Minatitlán), recibirán de dieta de asistencia, el 10% más de las percepciones establecida (sic) para las personas titulares de las Secretarías Ejecutivas de los Consejos Municipales Electorales referidas en la fracción V de este artículo transitorio.
+
+VII. Las personas titulares de las Secretarías Ejecutivas de los Consejos Municipales Electorales de la segunda región (Comala, Coquimatlán, Cuauhtémoc, Armería, Ixtlahuacán y Minatitlán), percibirán el 30% menos que como por concepto de dieta de asistencia se establece para las personas Consejeras Municipales Electorales referidas en la fracción VI de este artículo transitorio.
+
+(NOTA: EL 6 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 316/2023, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO QUINTO DEL DECRETO NÚMERO 262 INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE ENERO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+QUINTO. RESPECTO A LO PREVISTO EN EL ARTÍCULO 125 DEL PRESENTE DECRETO, EN LO REFERENTE A QUE DURANTE EL PERIODO INTERPROCESO NO RECIBIRÁN DIETA DE ASISTENCIA LAS PERSONAS QUE OCUPEN LOS CARGOS DE CONSEJERÍA ELECTORAL MUNICIPAL, TAL DISPOSICIÓN ENTRARÁ EN VIGOR AL DÍA SIGUIENTE EN QUE ENTRE EN VIGOR EL PRESENTE DECRETO.
+
+SEXTO. Tanto el Tribunal Electoral, como el Instituto Electoral, ambos del estado de Colima, como organismos autónomos reconocidos en la Constitución y que ejercen recursos del Presupuesto de Egresos del Estado, deberán incluir y adecuar dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos partiendo de las remuneraciones establecidas en los transitorios de este decreto, debiendo observar el procedimiento que para la aprobación de su presupuesto de egresos, prevé los artículos 116 fracción II, quinto párrafo y fracción IV, 127 de la Constitución Política de los Estados Unidos Mexicanos; y los artículos 35, fracción II y 142 de la Constitución Política del Estado Libre y Soberano de Colima, además deberán atender en lo conducente, las disposiciones de la Ley que Fija las Bases para las Remuneraciones de los Servidores Públicos del Estado y los Municipios, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Colima, Ley de Austeridad del Estado de Colima y las demás disposiciones legales aplicables.
+
+Por lo anterior, dichos organismos autónomos deberán efectuar los ajustes en sus tabuladores y proyecto de presupuestos de egresos de conformidad con los procedimientos que resulten necesarios atendiendo las disposiciones del presente decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
