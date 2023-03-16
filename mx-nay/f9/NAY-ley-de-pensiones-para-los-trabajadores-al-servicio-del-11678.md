@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-pensiones-para-los-trabajadores-al-servicio-del-11678"
 country: "mx"
 rank: "ley"
 publication_date: "1997-07-30"
-last_updated: "2021-12-28"
+last_updated: "2023-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE PENSIONES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO DE AHORRO PARA EL RETIRO DIGNO DE LAS TRABAJADORAS Y DE LOS TRABAJADORES DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, PUBLICADA EN EL P.O. DE 16 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PENSIONES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 30 de julio de 1997.
 
@@ -568,3 +570,73 @@ P.O. 28 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE PENSIONES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 16 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DEL FONDO DE AHORRO PARA EL RETIRO DIGNO DE LAS TRABAJADORAS Y DE LOS TRABAJADORES DEL ESTADO LIBRE Y SOBERANO DE NAYARIT”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit, salvo lo dispuesto en los transitorios subsecuentes.
+
+SEGUNDO. Se abroga la Ley de Pensiones para los Trabajadores al Servicio del Estado de Nayarit, publicada el 30 de julio de 1997 en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit y las demás disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
+
+TERCERO. Se mantendrán en vigor todas las disposiciones reglamentarias y administrativas que no se opongan a la presente Ley, hasta en tanto se expidan las normas relativas al presente ordenamiento
+
+CUARTO. Los derechos y obligaciones que se hayan adquirido conforme a las disposiciones de la Ley de Pensiones para los Trabajadores al Servicio del Estado de Nayarit, publicada el 30 de julio de 1997, seguirán surtiendo efectos hasta la conclusión del plazo o cumplimiento de las condiciones en que se hayan establecido.
+
+QUINTO. Los trabajadores y las trabajadoras inscritas con anterioridad al Fondo de Pensiones a la fecha de entrada en vigor de esta Ley, así como sus beneficiarios, al momento de cumplirse, en términos de la Ley que se abroga, los supuestos legales para el disfrute de cualquiera de las pensiones, podrán optar por acogerse al beneficio de dicha Ley o al esquema de retiro establecido en el presente ordenamiento.
+
+SEXTO. Los Jubilados, Pensionados o sus beneficiarios que, a la entrada en vigor de esta Ley, gocen de los beneficios que les otorga la Ley que se abroga, continuarán ejerciendo sus derechos en los términos y condiciones señalados en las disposiciones vigentes al momento de su otorgamiento.
+
+Lo mismo aplicará para los trabajadores que hubieran cumplido con los requisitos para el goce y disfrute de una pensión por jubilación, retiro por edad y vejez, reguladas por la Ley que se abroga hasta antes de la entrada en vigor del presente ordenamiento
+
+SÉPTIMO. Para el caso de los trabajadores y las trabajadoras que hayan cotizado en términos de la Ley que se abroga, y que llegaren a pensionarse durante la vigencia de la presente Ley, el Fondo de Ahorro para el Retiro, estará obligado, a solicitud de cada trabajador, a calcular estimativamente el importe de su pensión para cada uno de los regímenes, a efecto de que éste pueda decidir lo que a sus intereses convenga.
+
+OCTAVO. Para el caso de las pensiones en curso de pago otorgadas por el Fondo de Pensiones, cuyo origen es la Ley de Pensiones para los Trabajadores al Servicio del Estado de Nayarit, que se abroga, así como sus pensiones derivadas o bien que a la fecha de la entrada en vigor del presente ordenamiento sean pagados con recursos de la Secretaría de Administración y Finanzas del Gobierno del Estado, se seguirán pagando con recursos provenientes de ésta.
+
+NOVENO. Los derechos adquiridos por quienes se encuentran en período de conservación de los mismos, no serán afectados por la entrada en vigor de esta Ley y sus titulares accederán a las pensiones que les correspondan conforme a la Ley que se abroga.
+
+DÉCIMO. Las trabajadoras y los trabajadores que se encuentran adheridos al Fondo de Pensiones regulado por la Ley que se abroga, serán considerados como trabajadores en transición, a las cuales les aplicarán las excepciones descritas en los siguientes artículos transitorios.
+
+DÉCIMO PRIMERO. Tratándose de las trabajadoras y los trabajadores en transición, las cuotas y aportaciones a que se refiere la fracción I y II, del artículo 11 de la Ley que se abroga, continuarán en los mismos términos. Las cuotas y aportaciones a que se refiere el presente artículo serán parte del Patrimonio del Fondo y se destinarán a la cuenta correspondiente para el pago de las pensiones del personal en transición.
+
+DÉCIMO SEGUNDO. Los trabajadores y las trabajadoras al momento de entrar en vigor esta Ley podrán optar por acogerse al nuevo porcentaje estipulado en el artículo 84 de la presente Ley, reconociéndoles, los años y porcentajes cotizados bajo el régimen anterior, con la finalidad de que, al cumplirse los requisitos legales, se les conceda la pensión que corresponda.
+
+DÉCIMO TERCERO. A partir del día siguiente a la entrada en vigor de esta Ley, los trabajadores del régimen de la Ley abrogada que tengan derecho a una pensión, tendrán seis meses para solicitar por escrito al Fondo de Pensiones su permanencia en el régimen o su transición al régimen establecido en esta Ley.
+
+DÉCIMO CUARTO. Estarán a cargo del Fondo de Pensiones, las pensiones que se encuentren en curso de pago, así como las prestaciones o pensiones de aquellos sujetos que se encuentren en período de derechos adquiridos y las pensiones que se otorgan a los titulares o beneficiarios bajo el esquema establecido por la Ley que se abroga.
+
+DÉCIMO QUINTO. Los Poderes Ejecutivo, Legislativo y Judicial, Organismos Autónomos y Ayuntamientos, que se encuentren inscritos en los términos de la Ley que se abroga, continuarán cubriendo las aportaciones correspondientes por cada trabajador o trabajadora, salvo que, el trabajador o trabajadora que al momento de entrar en vigor esta Ley opten por acogerse al nuevo porcentaje estipulado en el artículo 84, en este caso las entidades públicos (sic) patronales deberán de aportar lo concerniente a cada porcentaje elegido por el trabajador o trabajadora.
+
+DÉCIMO SEXTO. Los Trabajadores que a la fecha de entrada en vigor de esta Ley tengan derecho a pensionarse conforme a la Ley que se abroga, podrán elegir los beneficios de la presente Ley, si desean seguir laborando, garantizándole sus años de cotización, cuotas y aportaciones correspondientes.
+
+DÉCIMO SÉPTIMO. Los trámites y procedimientos pendientes de resolución con anterioridad a la vigencia de esta Ley, se resolverán conforme a las disposiciones de la Ley que se abroga.
+
+DÉCIMO OCTAVO. En un plazo que no exceda de 12 meses a partir de la entrada en vigor de la presente Ley, deberá estar constituido el Fondo de Ahorro para el Retiro Digno de las trabajadoras y de los trabajadores del Estado Libre y Soberano de Nayarit, AFORE, S.A. de C.V.
+
+DÉCIMO NOVENO. Para la administración de las Pensiones en curso de pago, el Fondo deberá llevar por separado la contabilidad de los recursos que reciba para este fin. Los recursos que destine el Gobierno del Estado al Fondo de Ahorro para el Retiro Digno de las trabajadoras y de los trabajadores del Estado Libre y Soberano de Nayarit, AFORE, S.A. de C.V. para cubrir dichas pensiones no se considerarán ingresos de este último.
+
+El Fondo de Ahorro para el Retiro Digno de las trabajadoras y de los trabajadores del Estado Libre y Soberano de Nayarit, AFORE, S.A. de C.V. dispondrá de un plazo de seis meses a partir de su constitución, para que en el orden administrativo establezca lo necesario para la creación y el funcionamiento de la Junta Directiva, Direcciones Ejecutivas, Comités y Subcomités a los que hace referencia la presente Ley, debiendo el Gobierno del Estado, proveer los recursos humanos, materiales y presupuestales que se requieran desde el inicio de operaciones del Fondo hasta que éste reciba recursos por concepto de comisiones.
+
+VIGÉSIMO. Durante el periodo que transcurra entre la entrada en vigor de esta Ley y que el Fondo de Ahorro para el Retiro Digno de las trabajadoras y de los trabajadores del Estado Libre y Soberano de Nayarit, AFORE, S.A. de C.V. tome a su cargo la creación y administración de las Cuentas Individuales de los Trabajadores y pensionados, las cuotas y aportaciones se depositarán en la cuenta que determine la Secretaría de Administración y Finanzas del Gobierno del Estado.
+
+VIGÉSIMO PRIMERO. De conformidad con lo que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro se llevará a cabo el procedimiento para que se registre la información de las Cuotas y Aportaciones y se opere la apertura de las Cuentas Individuales en el Fondo de Ahorro para el Retiro Digno de las Trabajadoras y de los Trabajadores del Estado Libre y Soberano de Nayarit, AFORE, S.A. de C.V.
+
+VIGÉSIMO SEGUNDO. El Fondo de Ahorro para el Retiro Digno de las Trabajadoras y de los Trabajadores del Estado Libre y Soberano de Nayarit, AFORE, S.A. de C.V. administrará las Cuentas Individuales de los Trabajadores inscritos o que se inscriban al Fondo durante los meses siguientes a su creación.
+
+Los Trabajadores que ingresen al régimen previsional reconocido en esta Ley a partir de su entrada en vigor, y tengan abierta ya una Cuenta Individual en una Administradora, podrán elegir mantenerse en ella.
+
+Los Trabajadores a que se refiere el párrafo anterior podrán solicitar el traspaso de su Cuenta Individual a cualquier Administradora, o permanecer en el Fondo sin trámite alguno. Asimismo, a partir de esa fecha, el Fondo podrá recibir el traspaso de Cuentas Individuales de Trabajadores afiliados a otras instituciones o de Trabajadores independientes.
+
+VIGÉSIMO TERCERO. Dentro del plazo de ciento ochenta días siguientes a la Constitución del Fondo de Ahorro para el Retiro Digno de las trabajadoras y de los trabajadores del Estado Libre y Soberano de Nayarit, AFORE, S.A. de C.V. el Fondo de Pensiones, deberá transferir a las cuenta (sic) institucionales de las entidades públicos (sic) patronales que previo convenio coticen al nuevo Fondo de Ahorro, los saldos de las cuotas y aportaciones de cada uno de los trabajadores que tiene incorporados, detallando el saldo de las aportaciones de sus respectivos patrones, junto con las cuotas del trabajador.
+
+Asimismo, deberá detallar las cuentas que tiene por cobrar correspondientes a las aportaciones y cuotas pendientes por enterar por parte de las entidades públicas patronales.
+
+VIGÉSIMO CUARTO. El capital inicial de operación del Fondo de Ahorro para el Retiro Digno de las Trabajadoras y de los Trabajadores del Estado Libre y Soberano de Nayarit, AFORE, S.A. de C.V. se constituirá por el valor de los recursos disponibles del Fondo de Pensiones al día anterior de la entrada en vigor de la presente Ley.
+
+VIGÉSIMO QUINTO. El Fondo Soberano Nuevo Nayarit, para el fortalecimiento del Fondo de Ahorro para el Retiro Digno de las Trabajadoras y de los Trabajadores del Estado Libre y Soberano de Nayarit, AFORE, S.A. de C.V. suministrará el 49% de las utilidades que genere, retenidos y puestos a disposición por el Fiduciario de Fideicomiso Nuevo Nayarit.
+
+VIGÉSIMO SEXTO. Las Entidades públicos (sic) patronales que se adhieran al Fondo, deberán ajustar a las normas y criterios de esta Ley los mecanismos de administración, los sistemas informáticos y los formatos de sus bases de datos; los sistemas de recaudación y entero de Cuotas y Aportaciones; y los procedimientos de dispersión e intercambio de información, de tal modo que garanticen a satisfacción del Fondo la capacidad de operación para la gestión de prestaciones.
+
+VIGÉSIMO SÉPTIMO. Hasta en tanto inicien operaciones los sistemas o programas informáticos a que se refiere esta Ley, las Entidades públicos (sic) patronales deberán enterar las Cuotas y Aportaciones a través de los medios utilizados previsto (sic) en la Ley que se abroga.
+
+VIGÉSIMO OCTAVO. Para garantizar que la presente Ley beneficie a los Trabajadores, las trabajadoras, personas pensionadas y personas beneficiarias, así como para asegurar el cumplimiento de sus objetivos y la viabilidad futura del Fondo de Ahorro para el Retiro Digno de las Trabajadoras y Trabajadores del Estado Libre y Soberano de Nayarit, este ordenamiento será revisado por la Junta Directiva del Fondo cada cuatro años. Los resultados obtenidos deberán sustentarse en estudios actuariales y, en su caso, presentar propuestas de reformas o adiciones legales necesarias ante el titular del Poder Ejecutivo para que realice los trámites conducentes ante el Congreso del Estado.
