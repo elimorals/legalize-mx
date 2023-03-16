@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-defensoria-publica-y-asistencia-juridica-gratuita-103427
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-02"
-last_updated: "2014-10-02"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY DE DEFENSORIA PUBLICA Y ASISTENCIA JURIDICA GRATUITA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE DEFENSORÍA PÚBLICA Y ASISTENCIA JURÍDICA GRATUITA DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA 3 DE DICIEMBRE DE 2014.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 2 de octubre de 2014.
 
@@ -53,7 +53,9 @@ La presente Ley es de orden público e interés social, tiene su fundamento en l
 
 I. Regular la prestación del servicio de Defensoría Pública en el Estado de Campeche, a fin de garantizar el derecho a la debida defensa y el acceso a la justicia mediante la orientación, asesoría y representación jurídica de los imputados, acusados o sentenciados por un hecho que la ley señale como delito;
 
-II. Regular la prestación de la Asistencia Jurídica Gratuita impartida por el Estado en las materias de derecho civil, mercantil, familiar y administrativo, en todas las instancias y procedimientos que sean necesarios;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+II. Regular la prestación de la Asistencia Jurídica Gratuita impartida por el Estado en las materias de derecho civil, mercantil, familiar, laboral y administrativo, en todas las instancias y procedimientos que sean necesarios;
 
 III. Regular el servicio de Asesoría Jurídica para Víctimas, consistente en coordinar el servicio de representación y asesoría jurídica de las víctimas en materia penal, civil, familiar, administrativa y de derechos humanos, a fin de garantizar el acceso a la justicia, a la verdad y la reparación integral, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano sea parte, la Ley General de Víctimas, la Ley que Establece el Sistema de Justicia para las Víctimas del Estado de Campeche y demás disposiciones aplicables en la materia;
 
@@ -85,7 +87,9 @@ VIII. Trabajadores Sociales: Profesionales capacitados que utilizan la aplicaci�
 
 La Unidad de Defensoría Pública tiene por objeto coordinar, dirigir y controlar el servicio de Defensoría Pública.
 
-La Unidad de Asistencia Jurídica tiene por objeto coordinar, dirigir y controlar el servicio de Asistencia Jurídica Gratuita en las materias de derecho civil, mercantil, familiar y administrativo, y el servicio de Asesoría Jurídica para Víctimas en materia penal, civil, familiar, administrativa y de derechos humanos, de conformidad con las disposiciones de la presente Ley.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+
+La Unidad de Asistencia Jurídica tiene por objeto coordinar, dirigir y controlar el servicio de Asistencia Jurídica Gratuita en las materias de derecho civil, mercantil, familiar, laboral y administrativo, y el servicio de Asesoría Jurídica para Víctimas en materia penal, civil, familiar, administrativa y de derechos humanos, de conformidad con las disposiciones de la presente Ley.
 
 Las unidades normarán su actuar de conformidad con las disposiciones de esta Ley, de su normatividad interna y demás ordenamientos legales aplicables; y realizarán sus funciones jurídicas, técnicas y de gestión con independencia de su adscripción orgánica.
 
@@ -273,7 +277,9 @@ La Unidad de Asistencia Jurídica tendrá las siguientes funciones:
 
 I. Dirigir, controlar, supervisar y prestar los servicios de Asistencia Jurídica que se establecen en la presente Ley y demás disposiciones legales aplicables;
 
-II. Coordinar el servicio de representación y asesoría jurídica de las víctimas en materia penal, civil, familiar, administrativa y de derechos humanos del fuero común, a fin de garantizar el acceso a la justicia, a la verdad y a la reparación integral;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+II. Coordinar el servicio de representación y asesoría jurídica de las víctimas en materia penal, civil, familiar, laboral, administrativa y de derechos humanos del fuero común, a fin de garantizar el acceso a la justicia, a la verdad y a la reparación integral;
 
 III. Tutelar los intereses procesales de los representados;
 
@@ -651,9 +657,11 @@ La Unidad de Defensoría Pública se abstendrá de prestar sus servicios cuando 
 
 ### CAPÍTULO IV. DE LOS SERVICIOS DE ASISTENCIA JURÍDICA GRATUITA
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+
 ###### Artículo 41.
 
-El servicio de Asistencia Jurídica consistirá en brindar orientación jurídica y asesoría técnica en las materias penal, civil, mercantil, familiar, administrativa y de amparo. Asimismo, proporcionar a la víctima de forma clara, accesible, oportuna y detallada la información y la asesoría legal que requiera, sea esta en materia penal, civil, familiar, y administrativa, de conformidad con los tratados internacionales de los que sea parte el Estado mexicano, las disposiciones que establece la Ley General de Víctimas, la Ley que Establece el Sistema de Justicia para las Víctimas del Estado de Campeche, la presente Ley, y demás disposiciones aplicables.
+El servicio de Asistencia Jurídica consistirá en brindar orientación jurídica y asesoría técnica en las materias penal, civil, mercantil, familiar, laboral, administrativa y de amparo. Asimismo, proporcionar a la víctima de forma clara, accesible, oportuna y detallada la información y la asesoría legal que requiera, sea esta en materia penal, civil, familiar, laboral y administrativa, de conformidad con los tratados internacionales de los que sea parte el Estado mexicano, las disposiciones que establece la Ley General de Víctimas, la Ley que Establece el Sistema de Justicia para las Víctimas del Estado de Campeche, la presente Ley, y demás disposiciones aplicables.
 
 ###### Artículo 42.
 
@@ -669,7 +677,9 @@ La Asistencia Jurídica en materia mercantil, se brindará siempre que el demand
 
 La Asistencia Jurídica en defensa de los derechos de los indígenas se realizará en todos los casos en que lo soliciten sin importar la materia que se trate, a través de asesores que posean conocimientos de su lengua y cultura.
 
-El servicio de Asesoría Jurídica para Víctimas, consistente en la representación y asesoría jurídica de las víctimas en materia penal, civil, familiar, administrativa y de derechos humanos, se brindará de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano sea parte, la Ley General de Víctimas, la Ley que Establece el Sistema de Justicia para las Víctimas del Estado de Campeche y demás disposiciones aplicables en la materia.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+
+El servicio de Asesoría Jurídica para Víctimas, consistente en la representación y asesoría jurídica de las víctimas en materia penal, civil, familiar, laboral, administrativa y de derechos humanos, se brindará de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano sea parte, la Ley General de Víctimas, la Ley que Establece el Sistema de Justicia para las Víctimas del Estado de Campeche y demás disposiciones aplicables en la materia.
 
 La Asesoría Jurídica a Víctimas será brindada por asesores jurídicos especializados en víctimas.
 
@@ -773,7 +783,9 @@ I. Asistir y asesorar a la víctima desde el primer momento en que tenga contact
 
 II. Representar a la víctima de manera integral en todos los procedimientos y juicios en los que sea parte, para lo cual deberá realizar todas las acciones legales tendientes a su defensa, incluyendo las que correspondan en materia de derechos humanos tanto en el ámbito nacional como internacional;
 
-III. Proporcionar a la víctima de forma clara, accesible, oportuna y detallada la información y la asesoría legal que requiera, sea esta en materia penal, civil, familiar y administrativa;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+
+III. Proporcionar a la víctima de forma clara, accesible, oportuna y detallada la información y la asesoría legal que requiera, sea esta en materia penal, civil, familiar, laboral y administrativa;
 
 IV. Informar a la víctima, respecto al sentido y alcance de las medidas de protección, ayuda, asistencia, atención y reparación integral, y en su caso, tramitarlas ante las autoridades judiciales y administrativas;
 
@@ -1036,3 +1048,19 @@ Que la LXI Legislatura del H. Congreso Constitucional del Estado Libre y Soberan
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veintinueve días del mes de septiembre del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 205 POR EL QUE “SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 1, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 3, LA FRACCIÓN II DEL ARTÍCULO 12, EL ARTÍCULO 41, EL PÁRRAFO QUINTO DEL ARTÍCULO 43 Y LA FRACCIÓN III DEL APARTADO B DEL ARTÍCULO 53 DE LA LEY DE DEFENSORIA PÚBLICA Y ASISTENCIA JURÍDICA GRATUITA DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente decreto entrará en vigor 180 días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Congreso del Estado deberá realizar las adecuaciones al marco normativo estatal que resulten pertinentes para la adecuada observancia de este decreto.
+
+Artículo Tercero.- El organismo descentralizado denominado “Instituto de Acceso a la Justicia del Estado”, para el debido cumplimiento de este decreto, deberá tomar las previsiones presupuestales necesarias en el Presupuesto de Egresos del Estado para el ejercicio fiscal 2024.
+
+Artículo Cuarto.- La prestación de servicios de asistencia jurídica a que se refiere este decreto se realizará de manera gradual, a partir del 1° de enero de 2024, de conformidad con la disponibilidad de recursos humanos, administrativos y financieros con que cuente el Instituto de Acceso a la Justicia del Estado
+
+Artículo Quinto.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
