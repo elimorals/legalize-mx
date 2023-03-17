@@ -4,7 +4,7 @@ identifier: "FED-manual-para-la-integracion-y-funcionamiento-del-subcomite-16460
 country: "mx"
 rank: "manual"
 publication_date: "2023-01-06"
-last_updated: "2023-01-06"
+last_updated: "2023-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164605&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2025-06-27"
 
 MANUAL PARA LA INTEGRACIÓN Y FUNCIONAMIENTO DEL SUBCOMITÉ DE REVISIÓN DE BASES DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DEL DIECISÉIS DE DICIEMBRE DE DOS MIL VEINTIDÓS DEL COMITÉ DE ADQUISICIONES Y SERVICIOS, OBRAS Y DESINCORPORACIONES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 17 DE MARZO DE 2023.
 
 Manual publicado en el Libro 21 de la Gaceta del Seminario Judicial de la Federación, el viernes 6 de enero del 2023.
 
@@ -54,7 +54,9 @@ I. Acuerdo General de Administración XIV/2019: el Acuerdo General de Administra
 
 II. Anexo Técnico: documento mediante el cual la Unidad Técnica y en su caso la Unidad Solicitante establecen las especificaciones y características del bien, servicio, obra pública o servicios de obra pública a contratar, así como las cantidades y unidades de medida requeridas, las cuales deben ser claras y detalladas;
 
-III. Área de Contratación: Recursos Materiales, Infraestructura Física y las Casas de la Cultura, según corresponda, que llevan a cabo procedimientos de contratación en materia de adquisición de bienes, arrendamiento de bienes muebles, prestación de servicios, obra pública y servicios de obra pública a petición de las unidades solicitantes o técnicas;
+> <small>(REFORMADA, S.J.F. 17 DE MARZO DE 2023)</small>
+
+III. Área de contratación: Recursos Materiales e Infraestructura Física, que llevan a cabo procedimientos de contratación en materia de adquisición de bienes, arrendamiento de bienes muebles, prestación de servicios, obra pública y servicios de obra pública a petición de las unidades solicitantes o técnicas;
 
 IV. Concurso por Invitación: procedimiento de contratación, mediante invitación pública o restringida, a cuando menos tres proveedores, prestadores de servicios o contratistas, llevada a cabo cuando por su monto se encuentre clasificada como intermedia o inferior, o cuando se hubiese declarado desierta una licitación pública, o bien cuando así lo haya ordenado el Comité;
 
@@ -139,3 +141,15 @@ MAESTRO HÉCTOR ESTEBAN DE LA CRUZ OSTOS
 Nota: Los Acuerdos Generales de Administración del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación VI/2008, del veinticinco de septiembre de dos mil ocho, por el que se regulan los procedimientos para la adquisición, administración y desincorporación de bienes y la contratación de obras, usos y servicios requeridos por este tribunal y XIV/2019, de siete de noviembre de dos mil diecinueve, por el que se regulan los procedimientos para la adquisición, arrendamiento, administración y desincorporación de bienes y la contratación de obras y prestación de servicios requeridos por la Suprema Corte de Justicia de la Nación citados en este manual, aparecen publicados en el Semanario Judicial de la Federación y su Gaceta, Novena Época, Tomo XXVIII, noviembre de 2008, página 1433 y en la Gaceta del Semanario Judicial de la Federación, Décima Época, Libro 72, Tomo IV, noviembre de 2019, página 2569, con números de registro digital: 1719 y 5436, respectivamente.
 
 Este manual se publicó el viernes 6 de enero de 2023 a las 10:07 horas en el Semanario Judicial de la Federación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+S.J.F. 17 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL COMITÉ DE ADQUISICIONES Y SERVICIOS, OBRAS Y DESINCORPORACIONES DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE NUEVE DE MARZO DE DOS MIL VEINTITRÉS, QUE REFORMA EL MANUAL PARA LA INTEGRACIÓN Y FUNCIONAMIENTO DEL SUBCOMITÉ DE REVISIÓN DE BASES DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DEL DIECISÉIS DE DICIEMBRE DE DOS MIL VEINTIDÓS DEL COMITÉ DE ADQUISICIONES Y SERVICIOS, OBRAS Y DESINCORPORACIONES".]
+
+PRIMERO. El presente Manual (sic) entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Una vez que las disposiciones del presente Acuerdo hayan entrado en vigor, intégrense al Manual para la integración y funcionamiento del Subcomité de Revisión de Bases de la Suprema Corte de Justicia de la Nación, del dieciséis de diciembre de dos mil veintitrés del Comité de Adquisiciones y Servicios, Obras y Desincorporaciones, a fin de que el contenido de éste se encuentre debidamente actualizado; dicha actualización deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
+
+TERCERO. Publíquese el presente Acuerdo en el Semanario Judicial de la Federación y en su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
