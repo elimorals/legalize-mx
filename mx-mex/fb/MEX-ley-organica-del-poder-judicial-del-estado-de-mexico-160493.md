@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-160493"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-10-06"
-last_updated: "2022-10-07"
+last_updated: "2023-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 7 DE OCTUBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE MARZO DE 2023.
 
 Ley publicada en la Sección Primera del Número 64 de la Gaceta del Gobierno del Estado de México, el jueves 6 de octubre de 2022.
 
@@ -65,11 +63,21 @@ f) Juzgados de cuantía menor y juzgados de control, y
 
 g) Tribunales laborales.
 
+> <small>(ADICIONADO, G.G. 17 DE MARZO DE 2023)</small>
+
+h) Una Sala de Asuntos Indígenas.
+
 Amicus Curiae
 
 ###### Artículo 2.
 
 Se reconoce la necesidad de dar voz a la sociedad civil a efecto de que se exprese en asuntos relevantes vinculados a la tutela de los derechos humanos y al control difuso de la constitucionalidad y la convencionalidad. Por ello, cualquier persona física o moral o colectivo social, podrán expresarse en calidad de "Amicus Curiae" o amigo del Poder Judicial y aportar argumentos que sirvan como reflexión para esclarecer una cuestión sometida a la jurisdicción de los tribunales del estado, que poseerán una calidad meramente orientadora y no vinculante. El Pleno emitirá el reglamento correspondiente.
+
+> <small>(ADICIONADO, G.G. 17 DE MARZO DE 2023)</small>
+
+Composición multicultural del Estado
+
+Artículo 2 bis. En términos de lo previsto por su Constitución, el Estado de México tiene una composición multicultural y pluriétnica sustentada en la fusión de pueblo originario y culturas. En consecuencia, esta ley protegerá y promoverá el interculturalismo jurídico, respetando la cultura de los pueblos originarios Matlazinca, Mazahua, Náhuatl, Otomí y Tlahuica, así como de los demás pueblos originarios que constituyen la identidad pluricultural del Estado mexicano. En los casos que involucren personas, comunidades, municipios y pueblos indígenas, se garantizará en todo momento el acceso a la justicia y el respeto a los derechos humanos.
 
 ### CAPÍTULO SEGUNDO. Tribunal Superior de Justicia
 
@@ -115,9 +123,11 @@ Si por cualquier motivo superveniente el nombramiento de una magistrada o magist
 
 Adscripción de magistradas y magistrados
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE MARZO DE 2023)</small>
+
 ###### Artículo 8.
 
-Las magistradas y los magistrados ejercerán sus funciones en el Pleno y en las Salas Colegiadas, Tribunales de Alzada, Salas Unitarias y Sala Constitucional en las que se encuentren adscritos. Su adscripción será determinada por el Consejo.
+Las magistradas y los magistrados ejercerán sus funciones en el Pleno y en las Salas Colegiadas, Tribunales de Alzada, Salas Unitarias, Sala Constitucional y Sala de Asuntos Indígenas en las que se encuentren adscritos. Su adscripción será determinada por el Consejo.
 
 Las magistradas y los magistrados que desempeñen el cargo de consejeros, o bien, que ejerzan funciones no jurisdiccionales o administrativas, no integrarán Pleno, salvo el caso previsto para cubrir las ausencias temporales del presidente hasta por quince días. Solamente podrán participar en calidad de invitados, previa autorización de dicho órgano colegiado.
 
@@ -191,11 +201,13 @@ viii) Ausentarse de las vistas o audiencias en las Salas o Tribunales, una vez i
 
 ix) Intervenir indebidamente en cuestiones del orden jurisdiccional que competan a otros órganos del Poder Judicial.
 
+> <small>(REFORMADO, G.G. 17 DE MARZO DE 2023)</small>
+
 Integración y sesiones del Pleno
 
 ###### Artículo 11.
 
-El Pleno estará formado por las y los magistrados que integren las Salas Colegiadas, los Tribunales de Alzada, la Sala Constitucional y las Unitarias, y por la o el presidente o, en su caso, por la o el magistrado que lo supla interinamente.
+El Pleno estará formado por las y los magistrados que integren las Salas Colegiadas, los Tribunales de Alzada, la Sala Constitucional, la de Asuntos Indígenas y las Unitarias, y por la o el presidente o, en su caso, por la o el magistrado que lo supla interinamente.
 
 Sede del Pleno
 
@@ -325,7 +337,9 @@ Jurisdicción de Salas, Tribunales y Juzgados
 
 Las salas, los tribunales y los juzgados tendrán jurisdicción en el territorio de la región y distrito judicial al que pertenezcan o en la fracción en que se divida este último, conforme lo determine el Pleno, salvo las excepciones que la ley establezca.
 
-Sala Constitucional, Salas Colegiadas y Unitarias, Tribunales de Alzada.
+> <small>(REFORMADO SU ACÁPITE, G.G. 17 DE MARZO DE 2023)</small>
+
+Sala Constitucional, Salas Colegiadas y Unitarias, Tribunales de Alzada y Sala de Asuntos Indígenas
 
 ###### Artículo 19.
 
@@ -338,6 +352,10 @@ II. Las Salas Colegiadas;
 III. Los Tribunales de Alzada en materia penal, y
 
 IV. Las Salas Unitarias;
+
+> <small>(ADICIONADA, G.G. 17 DE MARZO DE 2023)</small>
+
+V. La Sala de Asuntos Indígenas.
 
 El Consejo establecerá el número de salas colegiadas y unitarias, así como de tribunales de alzada, que considere necesarias para el adecuado ejercicio de la función jurisdiccional.
 
@@ -358,6 +376,24 @@ a) Las controversias constitucionales, con excepción de la materia electoral;
 b) Las acciones de inconstitucionalidad en contra de leyes y reglamentos estatales o municipales, bandos municipales o decretos de carácter general, y
 
 c) Los recursos ordinarios en contra de resoluciones judiciales en donde se inapliquen normas en ejercicio del control difuso de la constitucionalidad o de la convencionalidad, en estos casos resolverá también el fondo del asunto planteado.
+
+> <small>(ADICIONADO, G.G. 17 DE MARZO DE 2023)</small>
+
+Competencia de la Sala de Asuntos Indígenas
+
+Artículo 20 bis. La Sala de Asuntos Indígenas tutelará los derechos (sic) los pueblos indígenas y su jurisdicción teniendo las siguientes atribuciones:
+
+I. Conocerá de los recursos ordinarios en contra de resoluciones judiciales en donde alguna de las partes se asuma como integrante de algún pueblo indígena y se planteen cuestiones del propio pueblo que se confronten con la tutela de derechos humanos;
+
+II. Emitir opiniones consultivas en asuntos relacionados con los pueblos y comunidades indígenas al aplicar sus sistemas normativos, para constatar que en el procedimiento respectivo se hayan respetado los principios y derechos humanos tutelados en la Constitución Política de los Estados Unidos Mexicanos, los tratados y convenciones celebrados por México y la Constitución del Estado de México;
+
+III. Proponer al Pleno, para su aprobación, protocolos de actuación para juzgamiento con perspectiva de interculturalismo jurídico;
+
+IV. Conocer y resolver las causas relacionadas con la protección de los derechos de los pueblos indígenas que se susciten por incumplimiento de las recomendaciones emitidas por la Comisión de Derechos Humanos del Estado de México, y
+
+V. Conocer de las inconformidades relacionadas con el ejercicio del derecho a la consulta y consentimiento libre, previo e informado de los pueblos y comunidades indígenas, con base en la Constitución Política de los Estados Unidos Mexicanos, los tratados y convenciones celebrados por el Estado Mexicano y la Constitución mexiquense.
+
+La Sala de Asuntos Indígenas podrá allegarse de las pruebas que considere pertinentes y necesarias.
 
 Competencia de las Salas Colegiadas en materias civil y familiar
 
@@ -549,15 +585,17 @@ El Tribunal Electrónico es un sistema integral de información que permite la s
 
 El Consejo de la Judicatura estará facultado para crear órganos especializados en línea que funcionen las veinticuatro horas del día de los trescientos sesenta y cinco días del año, a efecto de atender materias prioritarias o sensibles para la sociedad. Estos juzgados operarán con base en los lineamientos que expida el propio Consejo.
 
-### CAPÍTULO QUINTO
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 17 DE MARZO DE 2023)</small>
 
-Sala Constitucional, Colegiadas, Unitarias y Tribunales de Alzada.
+### CAPÍTULO QUINTO. Sala Constitucional, de Asuntos Indígenas, Colegiadas, Unitarias y Tribunales de Alzada
+
+> <small>(REFORMADO, G.G. 17 DE MARZO DE 2023)</small>
 
 Designación del Presidente de Salas Colegiadas y Unitarias, así como de los Tribunales de Alzada
 
 ###### Artículo 38.
 
-La o el presidente de cada sala colegiada, tribunal de alzada, o Sala Constitucional, será elegido, en el mes de enero de cada año, por mayoría de votos de sus miembros, y no podrá ser reelecto para periodos consecutivos. En el caso de Salas o Tribunales Unitarios, la o el magistrado asumirá el carácter de presidenta o presidente.
+La o el presidente de cada Sala Colegiada, Tribunal de Alzada, Sala Constitucional, o Sala de Asuntos Indígenas será elegido, en el mes de enero de cada año, por mayoría de votos de sus miembros, y no podrá ser reelecto para periodos consecutivos. En el caso de Salas o Tribunales Unitarios, la o el magistrado asumirá el carácter de presidente.
 
 Atribuciones de las y los presidentes de las Salas y Tribunales
 
@@ -606,6 +644,14 @@ Estructura de la Sala Constitucional
 La Sala Constitucional se integrará por cinco Magistradas o Magistrados del Pleno.
 
 Las y los Magistrados integrantes de la Sala Constitucional serán designados por el Consejo.
+
+> <small>(ADICIONADO, G.G. 17 DE MARZO DE 2023)</small>
+
+Estructura de la Sala de Asuntos Indígenas
+
+Artículo 42 bis. La Sala de Asuntos Indígenas se integrará por cinco Magistradas o Magistrados del Pleno.
+
+Las y los Magistrados integrantes de la Sala de Asuntos Indígenas serán designados por el Consejo, sin perjuicio de las responsabilidades de sus respectivas adscripciones. Sesionarán previa convocatoria del Presidente de la Sala, cuando surjan asuntos de su competencia.
 
 Estructura de las Salas Colegiadas y Tribunales de Alzada
 
@@ -949,6 +995,10 @@ Distrito de Valle de Bravo: Valle de Bravo, Amanalco, Donato Guerra, Ixtapan del
 
 Distrito de Zumpango: Zumpango, Apaxco, Hueypoxtla, Jaltenco, Nextlalpan, Tequixquiac y Tonanitla.
 
+> <small>(ADICIONADO, G.G. 17 DE MARZO DE 2023)</small>
+
+En los distritos judiciales con población mayoritariamente indígena, los juzgados resolverán los asuntos de competencia atendiendo las normas estatales y los sistemas normativos indígenas en un marco de interculturalismo jurídico.
+
 Jurisdicción de Salas, Tribunales y Juzgados
 
 ###### Artículo 73.
@@ -1167,7 +1217,15 @@ Las juntas plenarias de magistradas y magistrados establecerán jurisprudencia p
 
 Cuando una junta plenaria considere por unanimidad que el criterio jurisprudencial generado por precedentes en su ámbito territorial resulta de tal relevancia que amerite ser obligatorio para todo el estado, elevará en ese sentido la solicitud al Pleno que, en caso de aprobar el criterio por el voto de las dos terceras partes de las y los magistrados presentes en la sesión, lo declarará vinculante para todos los órganos jurisdiccionales del estado.
 
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE PÁRRAFO ES SIMILAR AL CONTENIDO DEL ÚLTIMO PÁRRAFO.]</small>
+
 En los términos que fije el Reglamento de Jurisprudencia de los Órganos del Tribunal y la Sala Constitucional fijarán jurisprudencia por precedentes cuando emitan resoluciones que contengan un criterio relevante en materia de derechos humanos. Esta jurisprudencia será vinculante para todos los órganos jurisdiccionales del Poder Judicial.
+
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE PÁRRAFO ES SIMILAR AL CONTENIDO DEL CUARTO PÁRRAFO.]</small>
+
+> <small>(ADICIONADO, G.G. 17 DE MARZO DE 2023)</small>
+
+En los términos que fije el Reglamento de Jurisprudencia de los Órganos del Tribunal, la Sala Constitucional y la Sala de Asuntos Indígenas fijarán jurisprudencia por precedentes cuando emitan resoluciones que contengan un criterio relevante en materia de derechos humanos. Esta jurisprudencia será vinculante para todos los órganos jurisdiccionales del Poder Judicial.
 
 Precedentes por consideración
 
@@ -2331,7 +2389,7 @@ Finalidad del Servicio de Carrera
 
 ###### Artículo 172.
 
-El Servicio de Carrera del Poder Judicial tendrá como finalid.ad (sic) contribuir al fortalecimiento de la impartición y administración de justicia, mediante la profesionalización y evaluación de los servidores públicos del Poder Judicial, con base en criterios objetivos y confiables que garanticen los mejores perfiles para el cumplimiento de sus funciones.
+El Servicio de Carrera del Poder Judicial tendrá como finalid.ad contribuir al fortalecimiento de la impartición y administración de justicia, mediante la profesionalización y evaluación de los servidores públicos del Poder Judicial, con base en criterios objetivos y confiables que garanticen los mejores perfiles para el cumplimiento de sus funciones.
 
 Principios del Servicio de Carrera
 
@@ -2866,3 +2924,15 @@ Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capit
 Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
 Toluca de Lerdo, México, a 4 de octubre de 2022.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO, LIC. ALFREDO DEL MAZO MAZA.- RÚBRICA.- EL SECRETARIO GENERAL DE GOBIERNO, LUIS FELIPE PUENTE ESPINOSA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LO DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 17 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 142.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 8, EL ARTÍCULO 11, LA DENOMINACIÓN DEL CAPÍTULO QUINTO DEL TÍTULO PRIMERO Y EL ARTÍCULO 38; SE ADICIONA EL INCISO H) AL ARTÍCULO 1, EL ARTÍCULO 2 BIS, LA FRACCIÓN V AL ARTÍCULO 19, EL ARTÍCULO 20 BIS, EL ARTÍCULO 42 BIS, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 72 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 89 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Las instancias competentes del Poder Judicial del Estado de México deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
+
+TERCERO. Se tienen por cumplidos los artículos transitorios séptimo y octavo del Decreto número 92, publicado en el Periódico Oficial "Gaceta del Gobierno", el 6 de octubre de 2022.
