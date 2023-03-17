@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-los-centros-de-reclusion-del-distrito-federal-409
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-24"
-last_updated: "2006-03-08"
+last_updated: "2023-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40981&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2004-08-30"
 ---
 # REGLAMENTO DE LOS CENTROS DE RECLUSION DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA LEY DE CENTROS PENITENCIARIOS DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 17 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LOS CENTROS DE RECLUSION DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE MARZO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE MARZO DE 2023 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 24 de septiembre de 2004.
 
@@ -1321,3 +1323,27 @@ Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la C
 G.O. 8 DE MARZO DE 2006.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 17 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE CENTROS PENITENCIARIOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga el Reglamento de los Centros de Reclusión del Distrito Federal, publicado en la Gaceta Oficial de la Ciudad de México, el 24 de septiembre de 2004, así como aquellas disposiciones que se opongan al presente Reglamento.
+
+CUARTO. La Secretaría de Seguridad Ciudadana de la Ciudad de México deberá adecuar sus Manuales en los plazos y condiciones que establezcan los Lineamientos para el Registro de los Manuales Administrativos y Específicos de Operación de la Administración Pública de la Ciudad de México.
+
+QUINTO. Los asuntos competencia de las Unidades Administrativas, que antes de la entrada en vigor del presente Reglamento correspondían a diversa Unidad Administrativa, deberán continuar con el trámite correspondiente y serán resueltos por las Unidades Administrativas a las que el presente Reglamento les designe las atribuciones de aquellas.
+
+SEXTO. Los trámites y procedimientos iniciados con anterioridad a la entrada en vigor del presente Reglamento continuarán hasta su total conclusión conforme a la normativa vigente durante su inicio.
+
+SÉPTIMO. Los asuntos y procedimientos relacionados con la aplicación de correctivos disciplinarios derivados de faltas cometidas con anterioridad a la entrada en vigor del presente Reglamento, continuarán hasta su total conclusión conforme a la normativa vigente durante la comisión de la falta.
+
+OCTAVO. Todas las referencias hechas en otros ordenamientos legales al Reglamento de los Centros de Reclusión del Distrito Federal, se entenderá al Reglamento de la Ley de Centros Penitenciarios de la Ciudad de México.
+
+NOVENO. La Secretaría deberá emitir los Lineamientos para el otorgamiento de incentivos a las personas privadas de la libertad, en un término no mayor a 60 días hábiles contados a la entrada en vigor del presente Reglamento.
+
+DÉCIMO. El Comité de Visita General deberá quedar instalado a más tardar en 60 días hábiles posteriores a la entrada en vigor del presente Reglamento.
