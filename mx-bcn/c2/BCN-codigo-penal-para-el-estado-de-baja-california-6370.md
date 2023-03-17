@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2023-03-15"
+last_updated: "2023-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "BCN"
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 17 DE MARZO DE 2023.]</small>
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1657,11 +1659,11 @@ Lesiones causadas por animal.- De las lesiones que a una persona cause algún an
 
 Concepto.- Por riña se entiende para todos los efectos penales, la contienda de obra y no la de palabra entre dos o más personas, con el propósito de dañarse recíprocamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2023)</small>
+> <small>(F. DE E., P.O. 17 DE MARZO DE 2023)</small>
 
 ###### Artículo 147.
 
-Homicidio y lesiones calificados.- Se entiende que las lesiones y el homicidio son calificados, cuando se cometan con premeditación, con ventaja, con alevosía o traición o con odio; de igual manera serán considerados calificados, cuando se cometan frente a menores de edad, o, familiares de la víctima; así como también; en contra de miembros de las instituciones policiales del Estado en ejercicio o como consecuencia del desempeño de sus funciones, incluyendo a los elementos de las empresas privadas y a los que de manera independiente presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, así como de bienes o valores incluido su traslado, siempre y cuando estén debidamente registrados ante los organismos públicos correspondientes; también se consideran calificados cuando se cometan en contra de personas que tenga (sic) el carácter de servidores públicos que se encarguen de funciones de seguridad pública, de investigación de delitos, de la administración o procuración de justicia y de ejecución de penas, en el acto de ejercer lícitamente sus funciones o como consecuencia del desempeño de ellas, así como cuando se cometan en perjuicio de personas que ejerzan la abogacía, con motivo de su desempeño en un asunto legal determinado. La presente disposición no surtirá efectos en el caso de delitos no graves por culpa.
+Homicidio y lesiones calificados.- Se entiende que las lesiones y el homicidio son calificados, cuando se cometan con premeditación, con ventaja, con alevosía o traición o con odio; de igual manera serán considerados calificados, cuando se cometan frente a menores de edad, o, familiares de la víctima; en contra de periodistas en ejercicio o como consecuencia del desempeño de su actividad o profesión; así como también; en contra de miembros de las instituciones policiales del Estado en ejercicio o como consecuencia del desempeño de sus funciones, incluyendo a los elementos de las empresas privadas y a los que de manera independiente presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, así como de bienes o valores incluido su traslado, siempre y cuando estén debidamente registrados ante los organismos públicos correspondientes; también se consideran calificados cuando se cometan en contra de personas que tengan el carácter de servidores públicos que se encarguen de funciones de seguridad pública, de investigación de delitos, de la administración o procuración de justicia y de ejecución de penas, en el acto de ejercer lícitamente sus funciones o como consecuencia del desempeño de ellas, así como cuando se cometan en perjuicio de personas que ejerzan la abogacía, con motivo de su desempeño en un asunto legal determinado. La presente disposición no surtirá efectos en el caso de delitos no graves por culpa.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
