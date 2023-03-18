@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2023-01-07"
+last_updated: "2023-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -83,17 +83,17 @@ II. La constancia que emitan él o los ayuntamientos respectivos en donde se hag
 
 III. La copia certificada del acta de la sesión de Cabildo en la que conste la opinión del Ayuntamiento o Ayuntamientos implicados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 7.
 
-Una vez que el pleno del Congreso conozca de la solicitud de creación de un Municipio, decidirá si se turna o no a la Comisión Permanente de Gobernación y Asuntos Agrarios para su conocimiento, trámite y dictamen.
+Una vez que el pleno del Congreso conozca de la solicitud de creación de un Municipio, decidirá si se turna o no a la Comisión Permanente de Gobierno y Asuntos Agrarios para su conocimiento, trámite y dictamen.
 
 El trámite será el siguiente:
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-I.- Se radicará el expediente en la Comisión Permanente de Gobernación y Asuntos Agrarios;
+I.- Se radicará el expediente en la Comisión Permanente de Gobierno y Asuntos Agrarios;
 
 II.- Ésta acordará su inicio, ordenando la ratificación de los promoventes, sino ratificaran en la diligencia que se señale para tal efecto, se desechará la petición, ordenándose el archivo del expediente;
 
@@ -105,9 +105,9 @@ V.- Si los Ayuntamientos de los Municipios a los que les resulte interés manifi
 
 VI.- Si alguno de los Ayuntamientos de los Municipios a lo que les resulte interés manifiestan su inconformidad, se les solicitará que funden y motiven ésta si en el escrito de informe no lo hubieren hecho, a la que deberán de acompañar los medios de convicción que estimen necesarios; y
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-VII.- Si la opinión no fuere favorable, en los términos de la fracción anterior, se estimará que existe controversia entre municipios, declarándolo así el Congreso del Estado, mediante dictamen de la Comisión Permanente de Gobernación y Asuntos Agrarios, dejando a salvo los derechos de los interesados y los Ayuntamientos de los Municipios, para que promuevan en términos del artículo 106 fracción IV de la Constitución Local, si a sus intereses conviene; el Congreso podrá dar vista al Poder Judicial si alguno de los Ayuntamientos de los Municipios lo solicita.
+VII.- Si la opinión no fuere favorable, en los términos de la fracción anterior, se estimará que existe controversia entre municipios, declarándolo así el Congreso del Estado, mediante dictamen de la Comisión Permanente de Gobierno y Asuntos Agrarios, dejando a salvo los derechos de los interesados y los Ayuntamientos de los Municipios, para que promuevan en términos del artículo 106 fracción IV de la Constitución Local, si a sus intereses conviene; el Congreso podrá dar vista al Poder Judicial si alguno de los Ayuntamientos de los Municipios lo solicita.
 
 ###### ARTÍCULO 8.
 
@@ -253,21 +253,21 @@ II.- No genera conflictos de cualquier naturaleza; incluyendo problemas de índo
 
 III.- El cambio propicia la pacificación de los conflictos o problemas existentes en su caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 23.
 
-Una vez acreditados los requisitos señalados, los interesados presentaran la solicitud escrita correspondiente al Pleno del Congreso del Estado, para que si procediere se turne a la Comisión Permanente de Gobernación y Asuntos Agrarios para su conocimiento.
+Una vez acreditados los requisitos señalados, los interesados presentarán la solicitud escrita correspondiente al Pleno del Congreso del Estado, para que si procediere se turne a la Comisión Permanente de Gobierno y Asuntos Agrarios para su conocimiento.
 
 El Congreso para determinar lo conducente, oirá a los municipios involucrados por conducto de sus Ayuntamientos, para que manifiesten su opinión al respecto.
 
 Cuando el Congreso apruebe el cambio de un centro de población de un municipio a otro, emitirá el Decreto correspondiente, fundado y motivado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 24.
 
-Si la opinión que uno o ambos Ayuntamientos Municipales involucrados no fuere favorable, en los términos del párrafo tercero del artículo anterior, se estimará que existe controversia entre municipios, declarándolo así el Congreso del Estado, mediante dictamen de la Comisión Permanente de Gobernación y Asuntos Agrarios, dejando a salvo los derechos de los interesados y los Ayuntamientos de los Municipios, para que promuevan si a sus intereses conviene, en términos del artículo 106 fracción IV de la Constitución Local; el Congreso podrá dar vista al Poder Judicial si alguno de los Ayuntamientos así lo solicita.
+Si la opinión que uno o ambos Ayuntamientos Municipales involucrados no fuere favorable, en los términos del párrafo tercero del artículo anterior, se estimará que existe controversia entre municipios, declarándolo así el Congreso del Estado, mediante dictamen de la Comisión Permanente de Gobierno y Asuntos Agrarios, dejando a salvo los derechos de los interesados y los Ayuntamientos de los Municipios, para que promuevan si a sus intereses conviene, en términos del artículo 106 fracción IV de la Constitución Local; el Congreso podrá dar vista al Poder Judicial si alguno de los Ayuntamientos así lo solicita.
 
 Si al resolver el Tribunal Superior de Justicia del Estado el procedimiento al que se refiere el párrafo que antecede, estima que es procedente la segregación del centro de población de un Municipio para trasladarse política y administrativamente a un nuevo Municipio, así lo notificará al Poder legislativo, estándose el Congreso del Estado, a la sentencia definitiva que aquel dicte; El Tribunal Superior de Justicia del Estado, conocerá con la vista que le de el Congreso o con la petición de los interesados o de los Ayuntamientos involucrados, en los términos de la Ley respectiva.
 
@@ -409,9 +409,9 @@ En todos los actos de integración e Instalación del Ayuntamiento se deberá ap
 
 > <small>[N. DE E. ESTE PÁRRAFO FUE ADICIONADO COMO UN TERCER PÁRRAFO POR EL DECRETO 604 PUBLICADO EN EL P.O. 20 DE ABRIL DE 2019, PÁGINA 3]</small>
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
-Las renuncias, deberán ratificarse personalmente por el o los miembros del Ayuntamiento ante la Comisión Permanente de Gobernación y Asuntos Agrarios del Congreso del Estado, en un máximo de 30 días naturales después que la autoridad haya hecho del conocimiento de este y deberá ser previo a la emisión del Decreto correspondiente; si ello no sucede quedará sin efecto la solicitud y se comunicará al Ayuntamiento.
+Las renuncias, deberán ratificarse personalmente por el o los miembros del Ayuntamiento ante la Comisión Permanente de Gobierno y Asuntos Agrarios del Congreso del Estado, en un máximo de 30 días naturales después que la autoridad haya hecho del conocimiento de este y deberá ser previo a la emisión del Decreto correspondiente; si ello no sucede quedará sin efecto la solicitud y se comunicará al Ayuntamiento.
 
 De todos los casos conocerá el Congreso del Estado, hará la declaratoria que corresponda y proveerá lo necesario para cubrir la vacante si después de llamado el suplente, éste no acudiere.
 
@@ -579,21 +579,21 @@ XX.- Resolver en los términos convenientes para la comunidad, los casos de conc
 
 XXI.- Elaborar y presentar en forma digital editable ante el Congreso del Estado, a más tardar el último día del mes de noviembre de cada año, la iniciativa de Ley de Ingresos Municipales que deberá regir durante el año fiscal siguiente. En lo que respecta a la iniciativa de Ley de Ingresos Municipales que se aplicará en el Primer Año de Ejercicio Constitucional, deberá aprobarse por el Ayuntamiento en funciones a propuesta del Presidente Municipal entrante que asumirá el cargo el primero de enero del año que corresponda. Misma que deberá de cumplir con los requisitos establecidos en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, las Normas emitidas por el Consejo Nacional de Armonización Contable y demás disposiciones legales aplicables.
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE MARZO DE 2023)</small>
 
-XXII. Presentar por conducto del Presidente Municipal al Órgano Superior de Fiscalización del Estado de Oaxaca, la Cuenta Pública del año anterior, a más tardar el último día hábil del mes de febrero, y en el año que concluya su mandato, conforme a los plazos y procedimientos establecidos legalmente. Asimismo, entregar los informes y demás datos que les sean solicitados de conformidad con lo establecido en las leyes aplicables.
+XXII.- Presentar por conducto del Presidente Municipal a la Auditoría Superior de Fiscalización del Estado de Oaxaca, la Cuenta Pública del año anterior, a más tardar el último día hábil del mes de febrero, y en el año que concluya su mandato, conforme a los plazos y procedimientos establecidos legalmente. Asimismo, entregar los informes y demás datos que les sean solicitados, de conformidad con lo establecido en las leyes aplicables.
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
-Con la finalidad de que los Ayuntamientos den cumplimiento a los principios de Racionalidad, Austeridad y Disciplina del Gasto Público Municipal, deberán de celebrar convenios de coordinación, con el Órgano Superior de Fiscalización del Estado de Oaxaca, para la capacitación en el manejo de la Cuenta Pública Municipal, el Ayuntamiento establecerá las medidas necesarias para que dicha capacitación sea impartida de manera oportuna y eficiente a su personal.
+Con la finalidad de que los Ayuntamientos den cumplimiento a los principios de Racionalidad, Austeridad y Disciplina del Gasto Público Municipal, deberán de celebrar convenios de coordinación, con la Auditoría Superior de Fiscalización del Estado de Oaxaca, para la capacitación en el manejo de la Cuenta Pública Municipal, el Ayuntamiento establecerá las medidas necesarias para que dicha capacitación sea impartida de manera oportuna y eficiente a su personal.
 
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-XXII Bis.- Dar cuenta al Órgano Superior de Fiscalización del Estado de Oaxaca, de los recursos entregados y ejecutados a todas y cada una de las Agencias Municipales de Policía, de cada ejercicio fiscal de conformidad con la normatividad aplicable.
+XXII Bis.- Dar cuenta a la Auditoría Superior de Fiscalización del Estado de Oaxaca, de los recursos entregados y ejecutados a todas y cada una de las Agencias Municipales de Policía, de cada ejercicio fiscal de conformidad con la normatividad aplicable.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE MARZO DE 2023)</small>
 
-XXIII.- Elaborar y aprobar su Presupuesto Anual de Egresos de conformidad con los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, incorporando en todo momento la perspectiva de género y remitiendo copia al Congreso del Estado a través del Órgano Superior de Fiscalización del Estado de Oaxaca, para su conocimiento y fiscalización;
+XXIII.- Elaborar y aprobar su Presupuesto Anual de Egresos de conformidad con los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, incorporando en todo momento la perspectiva de género y remitiendo copia a la Auditoría Superior de Fiscalización del Estado de Oaxaca, para su conocimiento y fiscalización;
 
 > <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -677,17 +677,17 @@ XLVII.- Fomentar y fortalecer los valores históricos cívicos del pueblo, así 
 
 XLVIII.- Aceptar herencias y legados en favor del Municipio;
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-XLIX.- Glosar las cuentas del Ayuntamiento anterior a más tardar el quince de febrero y remitir duplicado al Órgano Superior de Fiscalización del Estado de Oaxaca;
+XLIX.- Glosar las cuentas del Ayuntamiento anterior a más tardar el quince de febrero y remitir duplicado a la Auditoría Superior de Fiscalización del Estado de Oaxaca;
 
 L.- Establecer y actualizar la información económica, social y estadística de interés general;
 
 LI.- Elaborar y publicar en coordinación con las autoridades competentes, el catálogo del patrimonio histórico y cultural del Municipio, vigilando y promoviendo su preservación y coadyuvando a determinar las construcciones y edificios que no podrán modificarse;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE MARZO DE 2023)</small>
 
-LII.- Presentar dentro de los treinta días siguientes del trimestre al Congreso del Estado a través del Órgano Superior de Fiscalización del Estado de Oaxaca, la información financiera que a continuación se señala:
+LII.- Presentar dentro de los treinta días siguientes del trimestre al Congreso del Estado a través de la Auditoría Superior de Fiscalización del Estado de Oaxaca, la información financiera que a continuación se señala:
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
@@ -823,17 +823,17 @@ LXXX.- Cumplir con las obligaciones que le imponen la Ley General del Sistema Na
 
 LXXXI.- Otorgar espacios públicos idóneos a los ciudadanos a fin de que hagan uso efectivo de su creatividad y habilidades, para la construcción de comunidades participativas e incluyentes;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-LXXXII.- Celebrar los correspondientes contratos de prestación de servicios profesionales, tratándose de contratación de asesores externos en materia jurídica, técnica de obra y contable, preferentemente con aquellos que se encuentren debidamente registrados en el padrón que para tal efecto deberá crear y administrar el Órgano Superior de Fiscalización del Estado de Oaxaca, de conformidad con las reglas establecidas en los lineamientos que para tal efecto emita y en el cual invariablemente contará con una cláusula de penalización por incumplimiento;
+LXXXII.- Celebrar los correspondientes contratos de prestación de servicios profesionales, tratándose de contratación de asesores externos en materia jurídica, técnica de obra y contable, preferentemente con aquellos que se encuentren debidamente registrados en el padrón que para tal efecto deberá crear y administrar la Auditoría Superior de Fiscalización del Estado de Oaxaca, de conformidad con las reglas establecidas en los lineamientos que para tal efecto emita y en el cual invariablemente contará con una cláusula de penalización por incumplimiento;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-LXXXIII.- Remitir al Órgano Superior de Fiscalización del Estado de Oaxaca, en copia certificada dentro de los 15 días hábiles siguientes a su suscripción, los contratos a que hace referencia la fracción anterior;
+LXXXIII.- Remitir a la Auditoría Superior de Fiscalización del Estado de Oaxaca, en copia certificada dentro de los 15 días hábiles siguientes a su suscripción, los contratos a que hace referencia la fracción anterior;
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-LXXXIV.- Hacer del conocimiento por escrito al Órgano Superior de Fiscalización del Estado de Oaxaca, los casos de incumplimiento a los contratos a que hace referencia la fracción LXXVII de este ordenamiento legal o de las irregularidades que se llegaran a presentar con motivo del trabajo realizado por el asesor contratado;
+LXXXIV.- Hacer del conocimiento por escrito a la Auditoría Superior de Fiscalización del Estado de Oaxaca, los casos de incumplimiento a los contratos a que hace referencia la fracción LXXVII de este ordenamiento legal o de las irregularidades que se llegaran a presentar con motivo del trabajo realizado por el asesor contratado;
 
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
 
@@ -1301,7 +1301,9 @@ IV.- Su escrito resulte evidentemente frívolo o de la lectura de los hechos no 
 
 2.- El Sobreseimiento
 
-I.- Cuando el solicitante se desista por escrito, mismo que deberá ratificar ante la Comisión Permanente de Gobernación y Asuntos Agrarios, advertido que en caso de no hacerlo se le tendrá por ratificado.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
+
+I.- Cuando el solicitante se desista por escrito, mismo que deberá ratificar ante la Comisión Permanente de Gobierno y Asuntos Agrarios, advertido que en caso de no hacerlo se le tendrá por ratificado.
 
 II.- Que la autoridad municipal modifique o revoque el acto del que se le señala, de tal forma que este quede sin materia,
 
@@ -1309,11 +1311,11 @@ III.- El solicitante fallezca o sea privado o suspendido de sus derechos políti
 
 IV.- El acto que se señala haya dejado de existir.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 64.
 
-El Titular de la Secretaría de Servicios Parlamentarios dará cuenta al Pleno del Congreso del Estado o en su caso a la Diputación Permanente de la solicitud y anexos presentados, para que se turne a la Comisión Permanente de Gobernación y Asuntos Agrarios. Esta Comisión estará a cargo de la instrucción del caso, en su actuación deberá cuidar que se cumplan las formalidades del procedimiento y se respete la garantía de audiencia.
+El Titular de la Secretaría de Servicios Parlamentarios dará cuenta al Pleno del Congreso del Estado o en su caso a la Diputación Permanente de la solicitud y anexos presentados, para que se turne a la Comisión Permanente de Gobierno y Asuntos Agrarios. Esta Comisión estará a cargo de la instrucción del caso, en su actuación deberá cuidar que se cumplan las formalidades del procedimiento y se respete la garantía de audiencia.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2021)</small>
 
@@ -1321,7 +1323,9 @@ El Titular de la Secretaría de Servicios Parlamentarios dará cuenta al Pleno d
 
 El procedimiento y las reglas que observará en el mismo serán las siguientes:
 
-A) Una vez radicado el expediente en la Comisión Permanente de Gobernación y Asuntos Agrarios, determinará si la solicitud satisface los requisitos establecidos en la presente Ley; la Comisión puede prevenir a los solicitantes para que, en un plazo no mayor de tres días hábiles después de haber sido legalmente notificados, subsanen algún requisito, de no hacerlo se procederá en términos de la presente Ley.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
+
+A) Una vez radicado el expediente en la Comisión Permanente de Gobierno y Asuntos Agrarios, ésta determinará si la solicitud satisface los requisitos establecidos en la presente Ley; la Comisión puede prevenir a los solicitantes para que, en un plazo no mayor de tres días hábiles después de haber sido legalmente notificados, subsanen algún requisito, de no hacerlo se procederá en términos de la presente Ley.
 
 B) La Comisión citará a los solicitantes para ratificar su petición, concediendo un plazo de tres días hábiles, si no lo hicieren se tendrá por no presentada y se desechará de plano.
 
@@ -1339,7 +1343,9 @@ C) Concluido el plazo para la contestación, la Comisión fijará el día y hora
 
 Podrán aceptarse pruebas supervenientes a juicio de la Comisión cuando fuesen desconocidas a la fecha de la presentación de la solicitud o habiéndose anunciado hubiesen motivos justificados para no haberlos exhibido en tiempo. La Comisión, en todo tiempo tiene amplia facultad para allegarse los elementos probatorios que estime eficaces e idóneos.
 
-D) Una vez agotado el término de prueba, se concederá a las partes un término de cinco días para presentar por escrito sus alegatos. Transcurrido este término, la Comisión Permanente de gobernación y Asuntos Agrarios, formulará su dictamen dentro de un plazo de veinte días hábiles, el cual puede ser ampliado por autorización expresa del Congreso. El dictamen debe satisfacer los requisitos de una resolución judicial, resultandos, considerandos y puntos resolutivos.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
+
+D) Una vez agotado el término de prueba, se concederá a las partes un término de cinco días para presentar por escrito sus alegatos. Transcurrido este término, la Comisión Permanente de Gobierno y Asuntos Agrarios, formulará su dictamen dentro de un plazo de veinte días hábiles, el cual puede ser ampliado por autorización expresa del Congreso. El dictamen debe satisfacer los requisitos de una resolución judicial, resultandos, considerandos y puntos resolutivos.
 
 E) El dictamen con propuesta de suspensión o desaparición de ayuntamiento, suspensión o revocación de mandato alguno de sus integrantes, requerirá para su aprobación del voto de las dos terceras partes de los Diputados que integran el Congreso del Estado. La resolución del Congreso se publicará en el Periódico Oficial del Estado.
 
@@ -1443,9 +1449,9 @@ I.- Cumplir y hacer cumplir en el Municipio la presente Ley, las leyes y demás 
 
 II.- Planear, programar, presupuestar, coordinar y evaluar el desempeño de las unidades administrativas, de la administración pública municipal que se creen por acuerdo del Ayuntamiento en cumplimiento de esta ley;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-III.- Presentar al Órgano Superior de Fiscalización del Estado de Oaxaca, la Cuenta Pública Municipal del año anterior a más tardar el último día hábil del mes de febrero, y en el año que concluya su mandato, conforme a los plazos y procedimientos que se establezcan legalmente.
+III.- Presentar a la Auditoría Superior de Fiscalización del Estado de Oaxaca, la Cuenta Pública Municipal del año anterior a más tardar el último día hábil del mes de febrero, y en el año que concluya su mandato, conforme a los plazos y procedimientos que se establezcan legalmente.
 
 > <small>(REFORMADA, P.O. 7 DE ENERO DE 2023)</small>
 
@@ -2465,15 +2471,15 @@ Si vencido el plazo a que se refiere el párrafo anterior, no se hubiere present
 
 La inspección de la hacienda pública municipal, compete al Presidente Municipal, al Síndico o Síndicos y al Regidor de Hacienda, en los términos de esta Ley. Para la mejor supervisión del ejercicio de los recursos públicos, el Ayuntamiento podrá realizar funciones de contraloría preventiva.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
-En todo caso, el Congreso del Estado está facultado para practicar a través del Órgano Superior de Fiscalización del Estado de Oaxaca, las auditorias, revisiones y fiscalización a la hacienda municipal, cuando se requiera para el buen funcionamiento del Municipio.
+En todo caso, el Congreso del Estado está facultado para practicar a través de la Auditoría Superior de Fiscalización del Estado de Oaxaca, las auditorías, revisiones y fiscalización a la hacienda municipal, cuando se requiera para el buen funcionamiento del Municipio.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 125.
 
-Cualquier ciudadano del Municipio bajo su más estricta responsabilidad, mediante la presentación de elementos de prueba, podrá formular denuncia ante el Ayuntamiento, el Congreso del Estado o el Órgano Superior de Fiscalización del Estado de Oaxaca, sobre los casos de malversación de fondos municipales y cualquier otro hecho que se estime en contra del erario municipal.
+Cualquier ciudadano del Municipio bajo su más estricta responsabilidad, mediante la presentación de elementos de prueba, podrá formular denuncia ante el Ayuntamiento, el Congreso del Estado o la Auditoría Superior de Fiscalización del Estado de Oaxaca, sobre los casos de malversación de fondos municipales y cualquier otro hecho que se estime en contra del erario municipal.
 
 ###### ARTÍCULO 126.
 
@@ -2551,9 +2557,9 @@ X.- Evaluar, supervisar, verificar, física y financieramente, el avance e infor
 
 XI.- Revisar y auditar la ejecución física y financiera de los programas de inversión y obra pública, que se realicen en el Municipio con recursos propios o con recursos provenientes de convenios con el Estado, con la federación o de cualquier otra índole;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-XII.- Vigilar el cumplimiento de las observaciones y recomendaciones emitidas por el Órgano Superior de Fiscalización del Estado de Oaxaca;
+XII.- Vigilar el cumplimiento de las observaciones y recomendaciones emitidas por la Auditoría Superior de Fiscalización del Estado de Oaxaca;
 
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
@@ -2695,9 +2701,9 @@ ARTÍCULO 126 UNVICIES.- Los comités de contraloría social deberán coadyuvara
 
 El Ayuntamiento, a través de las autoridades correspondiente (sic) que construyan las obras o realicen las acciones, explicarán a los comités de contraloría social, las características físicas y financieras de las obras y les proporcionarán, antes del inicio de la obra, el resumen del expediente técnico respectivo y darles el apoyo, las facilidades y la información necesaria para el desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
-Asimismo, el Órgano Superior de Fiscalización del Estado de Oaxaca, la Secretaría de la Contraloría y Transparencia Gubernamental deberá capacitar y asesorar a los comités de contraloría social para el ejercicio de sus funciones.
+Asimismo, la Auditoría Superior de Fiscalización del Estado de Oaxaca, la Secretaría de Honestidad, Transparencia y Función Pública deberá capacitar y asesorar a los comités de contraloría social para el ejercicio de sus funciones.
 
 > <small>(REFORMADA Y REUBICADA [N. DE E. ANTES SECCIÓN TERCERA], P.O. 12 DE JUNIO DE 2021)</small>
 
@@ -2721,9 +2727,9 @@ El Presupuesto de Egresos regulará el gasto público municipal y se formulará 
 
 Tratándose del inicio del Gobierno Municipal, el Ayuntamiento entrante deberá ratificar o, en su caso realizar las modificaciones al Presupuesto de Egresos autorizado por el Ayuntamiento saliente, a más tardar el quince de febrero.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
-El presupuesto de egresos deberá ser aprobado por mayoría calificada y deberá remitirse copia al Congreso del Estado a través del Órgano Superior de Fiscalización del Estado de Oaxaca para su conocimiento y fiscalización.
+El presupuesto de egresos deberá ser aprobado por mayoría calificada y deberá remitirse copia al Congreso del Estado a través de la Auditoría Superior de Fiscalización del Estado de Oaxaca para su conocimiento y fiscalización.
 
 ###### ARTÍCULO 128.
 
@@ -3059,15 +3065,15 @@ Deberá anexarse el convenio que se proponga para resolver el conflicto.
 
 Recibida la solicitud por la Secretaría de Servicios Parlamentarios del Congreso, la turnará con todos y cada uno de sus anexos si los hubiere, a la Secretaría de la Mesa Directiva del Congreso para dar cuenta al Pleno y en los recesos del mismo a la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
-El Congreso o la Comisión Permanente en su caso, la turnarán a la Comisión Permanente de Gobernación y Asuntos Agrarios para su trámite y resolución.
+El Congreso o la Comisión Permanente en su caso, la turnarán a la Comisión Permanente de Gobierno y Asuntos Agrarios para su trámite y resolución.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 156.
 
-Recibida la solicitud por la Comisión Permanente de Gobernación y Asuntos Agrarios ésta la registrará en el libro correspondiente y dictará acuerdo que contendrá:
+Recibida la solicitud por la Comisión Permanente de Gobierno y Asuntos Agrarios, ésta la registrará en el libro correspondiente y dictará acuerdo que contendrá:
 
 I.- La orden de formar el expediente;
 
@@ -3089,11 +3095,11 @@ III.- En caso de presentarse otra propuesta por las partes se suspenderá la aud
 
 IV.- El día y hora señalados para la reanudación de la audiencia las partes expresarán una en pos de la otra si están de acuerdo con la nueva propuesta, en caso afirmativo se levantará el acta respectiva y se dará por terminada la audiencia y en caso de no aceptar la conciliación se dará por terminada la audiencia y se dejarán a salvo los derechos de las partes.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 158.
 
-La Comisión Permanente de Gobernación y Asuntos Agrarios dará cuenta del resultado de la audiencia con el dictamen respectivo para que el Pleno del Congreso lo apruebe en su caso.
+La Comisión Permanente de Gobierno y Asuntos Agrarios dará cuenta del resultado de la audiencia con el dictamen respectivo para que el Pleno del Congreso lo apruebe en su caso.
 
 ### CAPÍTULO VII. DE LA SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL MUNICIPALES
 
@@ -3303,9 +3309,9 @@ I. El primer ejemplar quedará en poder del Presidente Municipal entrante;
 
 II. El segundo ejemplar quedará en poder del Presidente Municipal saliente; y
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-III. El tercer ejemplar deberá remitirse conjuntamente con el expediente de Entrega-Recepción al Órgano Superior de Fiscalización del Estado de Oaxaca, por el Presidente Municipal entrante, dentro de los quince días hábiles siguientes a la firma del acta de Entrega-Recepción.
+III.- El tercer ejemplar deberá remitirse conjuntamente con el expediente de Entrega-Recepción a la Auditoría Superior de Fiscalización del Estado de Oaxaca, por el Presidente Municipal entrante, dentro de los quince días hábiles siguientes a la firma del acta de Entrega-Recepción.
 
 > <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)</small>
 
@@ -3313,7 +3319,9 @@ ARTÍCULO 176 BIS.- La elección consecutiva parcial o total, de los miembros de
 
 Cuando la elección consecutiva sea del Presidente, Síndico Municipal y algún otro miembro del Ayuntamiento, quien realizará las funciones del Presidente dentro del proceso de entrega-recepción, en coordinación con el órgano Interno de Control respectivo, será el Concejal que en prelación corresponda, siempre que este no sea reelecto.
 
-Cuando la totalidad de los miembros del ayuntamiento sean reelectos, el Presidente Municipal Saliente formulará acta circunstanciada, con asistencia de dos testigos, en coordinación con el respectivo Órgano Interno de Control, dejando constancia del estado en que se encuentran los asuntos de la administración municipal, conforme a lo dispuesto en los artículos 175, 176 y 177 del presente, remitiendo al Órgano Superior de Fiscalización del Estado de Oaxaca, copia certificada de dichas actuaciones, dentro de los 15 días hábiles siguientes a la firma del acta.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
+
+Cuando la totalidad de los miembros del ayuntamiento sean reelectos, el Presidente Municipal Saliente formulará acta circunstanciada, con asistencia de dos testigos, en coordinación con el respectivo Órgano Interno de Control, dejando constancia del estado en que se encuentran los asuntos de la administración municipal, conforme a lo dispuesto en los artículos 175, 176 y 177 del de (sic) presente, Oaxaca (sic), remitiendo a la Auditoría Superior de Fiscalización del Estado de Oaxaca, copia certificada de dichas actuaciones, dentro de los 15 días hábiles siguientes a la firma del acta.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -3553,9 +3561,9 @@ d) Relación de rezagos, y;
 
 e) Legislación fiscal.
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-VII. Expedientes que contengan observaciones, recomendaciones, requerimientos o apercibimientos emitidos por el Órgano Superior de Fiscalización del Estado de Oaxaca y por el Congreso a través de la Comisión correspondiente.
+VII. Expedientes que contengan observaciones, recomendaciones, requerimientos o apercibimientos emitidos por la Auditoría Superior de Fiscalización del Estado de Oaxaca y por el Congreso a través de la Comisión correspondiente.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -3589,27 +3597,25 @@ La Entrega-Recepción no exime a los servidores públicos de la administración 
 
 El Ayuntamiento entrante recibirá los bienes y recursos municipales tal y como los encuentre física o documentalmente, pues la recepción no implica que se deslinde responsabilidad alguna o que se avale la información contenida en el expediente de Entrega-Recepción.
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚM. 1333 PUBLICADO EN EL P.O. DE FECHA 16 DE FEBRERO DE 2018, SE ADVIERTE LA ACTUALIZACIÓN DEL TÉRMINO "AUDITORÍA SUPERIOR DEL ESTADO" POR EL DE "ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE OAXACA", POR LO QUE DICHA ACTUALIZACIÓN SE APLICA A LOS PÁRRAFOS RESPECTIVOS.]</small>
-
-> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADO [N. DE E. PRIMER PÁRRAFO], P.O. 20 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 182.
 
 El servidor público entrante, tendrá la obligación de recibir los recursos, bienes y documentación que le entregue la administración saliente en la fecha señalada por la ley o según sus sistemas normativos internos, para lo cual se procederá conforme a lo establecido en el artículo 169 de este ordenamiento legal.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
-En caso de que la administración saliente no entregue los bienes y documentación a su cargo en los términos de esta Ley, el Ayuntamiento entrante formulará acta circunstanciada, con asistencia de dos testigos, para dejar constancia del estado en que se encuentren los asuntos, remitiendo al Órgano Superior de Fiscalización del Estado de Oaxaca, copia certificada de dichas actuaciones.
+En caso de que la administración saliente no entregue los bienes y documentación a su cargo en los términos de esta Ley, el Ayuntamiento entrante formulará acta circunstanciada, con asistencia de dos testigos, para dejar constancia del estado en que se encuentren los asuntos, remitiendo a la Auditoría Superior de Fiscalización del Estado de Oaxaca, copia certificada de dichas actuaciones.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
-El Órgano de Fiscalización Superior del Estado de Oaxaca, requerirá por una sola ocasión a los servidores públicos salientes que hayan sido omisos, para que dentro de un plazo no mayor a 15 días hábiles siguientes a la notificación cumplan con esta obligación. De persistir el incumplimiento, el Órgano de Fiscalización Superior del Estado de Oaxaca procederá a promover las responsabilidades que correspondan.
+La Auditoría Superior de Fiscalización del Estado de Oaxaca, requerirá por una sola ocasión a los servidores públicos salientes que hayan sido omisos, para que dentro de un plazo no mayor a 15 días hábiles siguientes a la notificación cumplan con esta obligación. De persistir el incumplimiento, la Auditoría Superior de Fiscalización del Estado de Oaxaca procederá a promover las responsabilidades que correspondan.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 183.
 
-Cuando por causas de fuerza mayor, caso fortuito, o ante la negativa de la administración entrante de recibir la administración y documentación en términos de esta Ley, no sea posible llevar a cabo el acto de Entrega-Recepción; el Presidente Municipal saliente, formulará acta circunstanciada, con asistencia de dos testigos, para dejar constancia de estos hechos, misma que entregará al Órgano de Fiscalización Superior del Estado e (sic) Oaxaca, dentro de los 15 días hábiles siguientes a la fecha en que debe realizarse la toma de posesión. El Órgano de Fiscalización Superior del Estado de Oaxaca recibirá en calidad de depositaria únicamente los documentos que a continuación se mencionan y que forman parte del acta circunstanciada levantada:
+Cuando por causas de fuerza mayor, caso fortuito, o ante la negativa de la administración entrante de recibir la administración y documentación en términos de esta Ley, no sea posible llevar a cabo el acto de Entrega-Recepción; el Presidente Municipal saliente, formulará acta circunstanciada, con asistencia de dos testigos, para dejar constancia de estos hechos, misma que entregará a la Auditoría Superior de Fiscalización del Estado de Oaxaca, dentro de los 15 días hábiles siguientes a la fecha en que debe realizarse la toma de posesión. La Auditoría Superior de Fiscalización del Estado de Oaxaca recibirá en calidad de depositaria únicamente los documentos que a continuación se mencionan y que forman parte del acta circunstanciada levantada:
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -3639,19 +3645,19 @@ f) Inventario de bienes muebles e inmuebles;
 
 g) Sellos Oficiales utilizados por el Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
-Una vez recibida esta documentación, el Órgano de Fiscalización Superior del Estado de Oaxaca deberá realizar la devolución de la misma a la Autoridad Municipal entrante en un plazo de 30 días hábiles.
+Una vez recibida esta documentación, la Auditoría Superior de Fiscalización del Estado de Oaxaca deberá realizar la devolución de la misma a la Autoridad Municipal entrante en un plazo de 30 días hábiles.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
 
 ### CAPÍTULO VI. DE LA VIGILANCIA
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 184.
 
-Corresponde al Órgano de Fiscalización Superior del Estado de Oaxaca, vigilar dentro del ámbito de competencia que le confiere en (sic) presente Título de esta Ley, que la Entrega-Recepción se haya llevado a cabo conforme a lo establecido, para ello tendrá además las facultades siguientes:
+Corresponde a la Auditoría Superior de Fiscalización del Estado de Oaxaca, vigilar dentro del ámbito de competencia que le confiere en el presente Título de esta Ley, que la Entrega-Recepción se haya llevado a cabo conforme a lo establecido, para ello tendrá además las facultades siguientes:
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
@@ -3687,9 +3693,9 @@ Para efectos del presente Título, son facultades del Síndico Municipal, las si
 
 I. Vigilar la integración del Comité Interno de Entrega, asimismo, que los titulares de las áreas administrativas provean la información y documentos relativos a la Entrega-Recepción;
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-II. Supervisar que los sujetos obligados cumplan en tiempo y forma las disposiciones establecidas en esta Ley y las que emita el Órgano Superior de Fiscalización del Estado de Oaxaca; y
+II. Supervisar que los sujetos obligados cumplan en tiempo y forma las disposiciones establecidas en esta Ley y las que emita la Auditoría Superior de Fiscalización del Estado de Oaxaca; y
 
 III. Informar al Ayuntamiento de los avances en el cumplimiento del proceso de Entrega-Recepción.
 
@@ -3709,9 +3715,9 @@ El incumplimiento a las disposiciones de la presente Ley, será sancionado en lo
 
 De las autoridades competentes para conocer de las irregularidades que se deriven del proceso de Entrega-Recepción, serán, según corresponda:
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-I. El Congreso del Estado a través del Órgano Superior de Fiscalización del Estado de Oaxaca, cuando las irregularidades las cometan los integrantes de los Ayuntamientos entrante o saliente;
+I. El Congreso del Estado a través de la Auditoría Superior de Fiscalización del Estado de Oaxaca, cuando las irregularidades las cometan los integrantes de los Ayuntamientos entrante o saliente;
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
@@ -3747,11 +3753,11 @@ h) Omitir y ocultar información y documentación que resulte relevante para el 
 
 i) Los demás actos u omisiones que obstaculicen o impidan de cualquier forma que el proceso de Entrega-Recepción se realice conforme a lo establecido en esta Ley.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 189.
 
-El Congreso del Estado a través del Órgano Superior de Fiscalización del Estado de Oaxaca podrá promover las responsabilidades que procedan ante las autoridades competentes en términos de lo dispuesto por la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, a los miembros del Ayuntamiento entrante o saliente que incurran en responsabilidad relacionada con el proceso de Entrega Recepción.
+El Congreso del Estado a través de la Auditoría Superior de Fiscalización del Estado de Oaxaca podrá promover las responsabilidades que procedan ante las autoridades competentes en términos de lo dispuesto por la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, a los miembros del Ayuntamiento entrante o saliente que incurran en responsabilidad relacionada con el proceso de Entrega Recepción.
 
 > <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
 
@@ -4738,3 +4744,11 @@ P.O. 7 DE ENERO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 961.- MEDIANTE EL CUAL REFORMA LOS ARTÍCULOS 7 PRIMER PÁRRAFO Y FRACCIONES I Y VII; 23 PRIMER PÁRRAFO; 24; 34 CUARTO PÁRRAFO; 43, FRACCIONES XXII PRIMERO Y SEGUNDO PÁRRAFO, XXII BIS, XXIII PRIMER PÁRRAFO, XLIX, LII PRIMER PÁRRAFO, LXXXII, LXXIII (SIC), LXXXIV; 63 BIS; APARTADO 2 FRACCIÓN I; 64; 65 INCISOS A) Y D); 68 FRACCIÓN III; 124 SEGUNDO PÁRRAFO; 125; 126 QUATER, FRACCIÓN XII; 126 UNVICIES TERCER PÁRRAFO; 127 TERCER PÁRRAFO; 155 SEGUNDO PÁRRAFO; 156 PRIMER PÁRRAFO; 158, 176 FRACCIÓN III, 176 BIS TERCER PÁRRAFO; 177 FRACCIÓN VII; 182 SEGUNDO Y TERCER PÁRRAFO; 183 PRIMERO Y SEGUNDO PÁRRAFO; 184 PRIMER PÁRRAFO; 185 FRACCIÓN II; 187 FRACCIÓN I, Y; 189, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA.
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
