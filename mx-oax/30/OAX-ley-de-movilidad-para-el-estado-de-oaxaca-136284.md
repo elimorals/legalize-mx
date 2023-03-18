@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2022-10-22"
+last_updated: "2023-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -362,6 +362,10 @@ X. Fomentar diversas opciones de transporte de manera eficiente y con evaluació
 XI. Promover acciones para hacer más eficiente la distribución de mercancías y reducir los impactos de los vehículos de carga; y
 
 XII. Tomar decisiones con base en diagnósticos, pronósticos y criterios técnicos que garanticen el uso eficiente de los recursos públicos.
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2023)</small>
+
+XIII. La promoción del acceso de mujeres y niñas a transporte público de calidad y seguro, fomentando acciones para eliminar la violencia basada en género y el acoso sexual.
 
 ###### Artículo 7.
 
@@ -3484,3 +3488,11 @@ P.O. 22 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 964.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 6 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
