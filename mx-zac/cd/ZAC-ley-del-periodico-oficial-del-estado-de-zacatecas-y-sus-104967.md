@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-periodico-oficial-del-estado-de-zacatecas-y-sus-104967"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2014-12-31"
+last_updated: "2023-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, miércoles 31 de diciembre de 2014.
 
@@ -79,11 +79,25 @@ VI. Coordinación: La Coordinación General Jurídica del Gobierno del Estado;
 
 VII. Dirección: La Dirección del Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas;
 
-VIII. Director: Al Director y administrador del Periódico Oficial;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
+
+VIII. Director: Al Director del Periódico Oficial;
 
 IX. Documento original: Aquel que conteniendo las firmas autógrafas de los servidores públicos facultados para su expedición, se presenta a la Dirección del Periódico Oficial para su publicación; y
 
 X. Fe de Erratas: La corrección inserta en la impresión en el Periódico Oficial, de las publicaciones que en el mismo se hayan realizado.
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2023)</small>
+
+XI. Código QR: El código de respuesta rápida que consiste en un módulo para almacenar información en una matriz de puntos o en un código de barras, conforme al estándar ISO/IEC18004;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2023)</small>
+
+XII. Mecanismo de Validación: Medio a través del cual se consulta la validez de la representación gráfica del mensaje de datos a través de una URL utilizando el identificador electrónico, o por medio del Código QR, y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2023)</small>
+
+XIII. Representación gráfica del mensaje de datos: Versión en formato de documento electrónico portátil o equivalente que permita su impresión o almacenamiento y visualización por las personas, mediante dispositivos electrónicos y que contenga los campos definidos en los presentes criterios técnicos.
 
 ###### Artículo 4.
 
@@ -153,9 +167,11 @@ d) Constancia del pago correspondiente.
 
 El documento se publicará fielmente conforme al documento impreso y será responsabilidad de los solicitantes la verificación de su ortografía y de contenido del mismo.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
+
 ###### Artículo 10.
 
-Cuando sea el Poder Legislativo o el Judicial quien solicite alguna publicación y no se requiera la sanción del Gobernador, deberán remitirlade (sic) forma directa a la Coordinación y será esta quien responda del cumplimiento oportuno en la publicación, misma que deberá hacerse dentro de los tres días naturales siguientes a su recepción.
+Cuando sean los Poderes Legislativo o Judicial, los Ayuntamientos u Órganos Autónomos los que soliciten alguna publicación y no se requiera la sanción del Gobernador, deberán remitirla de forma directa a la coordinación y será ésta quien responda del cumplimiento oportuno en la publicación, misma que deberá hacerse dentro de los tres días naturales siguientes a su recepción.
 
 ###### Artículo 11.
 
@@ -179,7 +195,7 @@ Para este efecto, se consideran hábiles todos los días del año, aún los inh�
 
 e) Nombre del ordenamiento y un sumario del contenido en el caso de ser varios las publicaciones; y
 
-f) Precio de venta al público de la versión impresa.
+f) (DEROGADO, P.O. 18 DE MARZO DE 2023)
 
 II.- En la Contraportada:
 
@@ -207,19 +223,25 @@ El Periódico Oficial, de forma ordinaria, se publicará los días miércoles y 
 
 En ningún caso se publicarán documentos, independientemente de su naturaleza jurídica, sino están debidamente firmados y plenamente comprobada su procedencia y autenticidad.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
+
 ###### Artículo 15.
 
-El Periódico Oficial será impreso y distribuido en cantidad suficiente, de tal manera que garantice la satisfacción de la demanda en todo el territorio del Estado, así como para la venta a los particulares, independientemente de la edición electrónica que será fiel con la versión impresa y ambas ediciones tendrán carácter oficial.
+El Periódico Oficial se publicará en forma electrónica y su edición tendrá carácter oficial.
+
+Se imprimirá, únicamente, un ejemplar para cada una de las siguientes instancias: la Coordinación General Jurídica del Gobierno del Estado, Archivo Histórico de Zacatecas, Archivo y Biblioteca de la Legislatura del Estado y Archivo Histórico y Biblioteca del Poder Judicial y casas de la cultura jurídica de la Suprema Corte de Justicia de la Nación.
+
+Los ejemplares deberán tener idénticas características y contenido, para efectos de evidencia documental física.
 
 ###### Artículo 16.
 
-El Periódico Oficial será distribuido a sus subscriptores previo pago correspondiente de acuerdo a la Ley de Ingresos vigente.
+(DEROGADO, P.O. 18 DE MARZO DE 2023)
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
 ###### Artículo 17.
 
-El costo de venta de publicaciones e inserciones en el Periódico Oficial, será el que contemple la Ley de Ingresos del Estado, sin embargo, el Gobernador, a través de la Secretaría de Finanzas, podrá exentar del pago a los demás poderes públicos locales y a los ayuntamientos, siempre que se trate de publicaciones ordenadas por ley.
-
-Las inserciones pedidas por particulares y ordenas por ley podrán también ser eximidas de pago, siempre que los estudios socioeconómicos que se practiquen reflejen su carencia de recursos para hacer el pago.
+El costo de las inserciones en el Periódico Oficial será el que contemple la Ley de Ingresos del Estado, sin embargo, el Gobernador, a través de la Secretaría de Finanzas, podrá exentar del pago a los ayuntamientos, siempre que se trate de publicaciones ordenadas por la Ley.
 
 ### CAPÍTULO III. De la Dirección del Periódico Oficial
 
@@ -259,7 +281,7 @@ VI. Elaborar estadística y rendir informe anual de actividades al Titular de la
 
 VII. Elaborar la compilación anual, en versión electrónica, de los ejemplares del Periódico Oficial;
 
-VIII. Otorgar ejemplares gratuitos a los ayuntamientos del Estado cuando se trate de su (sic) publicaciones de su competencia, previo convenio que se celebre después de la primera suscripción;
+VIII. (DEROGADA, P.O. 18 DE MARZO DE 2023)
 
 IX. Celebrar convenios de colaboración con los ayuntamientos del Estado exclusivamente en materia de publicaciones;
 
@@ -271,7 +293,9 @@ XII. Promover la instalación de una hemeroteca para prestar servicios de inform
 
 XIII. Certificar el texto de la publicación de las leyes y demás disposiciones jurídicas estatales o municipales, a solicitud fundada y motivada de las autoridades y personas interesadas;
 
-XIV. Entregar un ejemplar de las publicaciones alosarchivosgenerales (sic) de los poderes Legislativo y del Ejecutivo del Estado y, según el tema de cada ejemplar, al Poder Judicial, reservando otro para su propio acervo y resguardo;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
+
+XIV. Entregar un ejemplar de las publicaciones a los archivos generales de los poderes Legislativo y Judicial del Estado, así como a la representación de la Suprema Corte de Justicia de la Nación de la ciudad de Zacatecas, para su propio acervo y resguardo.
 
 XV. Publicar en la primer semana de cada mes el índice general de las publicaciones hechas en el mes anterior, incluyendo fe de erratas; además, en el primer trimestre de cada año publicará de manera sistematizada los temas publicados el año anterior;
 
@@ -279,11 +303,15 @@ XVI. Custodiar y conservar la edición electrónica del Periódico Oficial; y
 
 XVII. Las demás que le impongan otras disposiciones legales.
 
-### CAPÍTULO IV. De la divulgación electrónica del Periódico Oficial
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2023)</small>
+
+### CAPÍTULO IV. De la divulgación del Periódico Oficial
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2023)</small>
 
 ###### Artículo 21.
 
-La publicación electrónica del Periódico Oficial estará disponible a través de las redes de telecomunicación.
+La publicación electrónica del Periódico Oficial estará disponible a través de la página oficial de la Dirección.
 
 El Director administrará la edición electrónica del Periódico Oficial, misma que se presentará en un formato que garantice autenticidad, inalterabilidad e integridad a través de la firma electrónica avanzada en internet.
 
@@ -295,9 +323,27 @@ Cada ejemplar del Periódico Oficial será reproducido en la dirección electró
 
 La publicación electrónica deberá identificarse con los mismos datos y requisitos que se enumeran en la presente Ley para la versión impresa.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
+
 ###### Artículo 24.
 
-La versión electrónica del Periódico Oficial tendrá validez legal y el carácter de documental pública, siempre y cuando la Dirección la emita asegurando la integridad y autenticidad de su contenido a través de la firma electrónica, certificada de conformidad con la Ley de la materia.
+La versión electrónica del Periódico Oficial tendrá validez legal y el carácter de documental pública.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2023)</small>
+
+Artículo 24 BIS.- La Representación Gráfica del mensaje de datos para conformar los documentos electrónicos del Periódico Oficial deberá contener y mostrar siempre al momento de ser consultados, los siguientes elementos:
+
+I. Lugar, fecha y hora de emisión;
+
+II. Firma electrónica avanzada del servidor público competente;
+
+III. Sello digital;
+
+IV. Mecanismos de validación, a través del Código QR y el sitio de Internet para la verificación, y
+
+V. La leyenda con el fundamento legal que da validez a la Representación Gráfica del mensaje de datos que conforma el documento electrónico a través de un certificado digital vigente a la fecha de su elaboración.
+
+Las Representaciones Gráficas y los mensajes de datos para conformar los documentos electrónicos, emitidos por la autoridad, producirán los mismos efectos que las leyes otorgan a los documentos con firma autógrafa.
 
 ###### Artículo 25.
 
@@ -414,3 +460,21 @@ PROFR. FRANCISCO ESCOBEDO VILLEGAS.
 EL COORDINADOR GENERAL JURÍDICO
 
 LIC. URIEL MÁRQUEZ CRISTERNA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 271.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al cumplimiento de la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+En un término que no excederá de 180 días naturales posteriores a la entrada en vigor del presente Decreto, la Coordinación General Jurídica realizará las acciones necesarias para la implementación del sistema de consulta y verificación electrónica del Periódico Oficial, materia del presente instrumento legal.
