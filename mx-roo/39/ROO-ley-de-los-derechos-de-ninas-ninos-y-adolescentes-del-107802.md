@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107802"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-30"
-last_updated: "2022-04-20"
+last_updated: "2023-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
 
 Ley publicada en el Número 8 Ordinario Bis del Periódico Oficial del Estado de Quintana Roo, el jueves 30 de abril de 2015.
 
@@ -1535,7 +1535,9 @@ II. De las siguientes dependencias y entidades del Estado:
 
 a) Secretaría de Gobierno;
 
-b) Secretaría de Desarrollo Social e Indígena;
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
+
+b) Secretaría de Bienestar del Estado de Quintana Roo;
 
 c) Secretaría de Salud;
 
@@ -1862,3 +1864,25 @@ Se otorga un plazo de noventa días a partir de la publicación del presente Dec
 La implementación de las acciones· que resulten necesarias, derivado de la entrada en vigor del presente Decreto, deberán ser solventadas por las instancias públicas competentes, con cargo a los recursos financieros que les hayan sido asignados, en el ejercicio fiscal de que se trate, de conformidad a lo establecido en las disposiciones normativas aplicables, sin menoscabo de las ampliaciones presupuestales que les sean autorizadas, cuando así resulte conducente.
 
 La implementación de las acciones a las que se refiere el presente Decreto, deberán ser materializadas en su totalidad, a más tardar, en el ejercicio fiscal correspondiente al año 2023.
+
+P.O. 18 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 049 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR LAS ORGANIZACIONES CIVILES PARA EL ESTADO DE QUINTANA ROO, DE LA LEY PARA EL FOMENTO DE LAS SOCIEDADES COOPERATIVAS EN EL ESTADO DE QUINTANA ROO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE PREVENCIÓN DEL DELITO PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La persona Titular del Poder Ejecutivo del Estado contará con un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones correspondientes a las disposiciones reglamentarias y demás normatividad complementaria en la materia.
+
+En tanto, se adecúan las disposiciones reglamentarias seguirán aplicándose los reglamentos y demás normatividad que se encuentren vigentes en lo que no se oponga (sic) al presente Decreto.
+
+TERCERO. Los recursos humanos, materiales y financieros a cargo de la Secretaría de Desarrollo Social pasarán íntegramente a la Secretaría de Bienestar del Estado de Quintana Roo que enuncia el presente Decreto.
+
+CUARTO. Para el cumplimiento del presente Decreto, la persona Titular del Poder Ejecutivo del Estado a través de las instancias competentes, podrá reorganizar las estructuras administrativas de las dependencias de la administración pública del Estado, así como crear, fusionar, escindir o disolver unidades administrativas, para lo cual realizará las adecuaciones presupuestales de conformidad con lo estipulado en el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo para el Ejercicio Fiscal 2023, asimismo deberá prever lo correspondiente para los ejercicios presupuestales subsecuentes.
+
+QUINTO. La Secretaría de Finanzas y Planeación y la Secretaría de la Contraloría serán responsables del proceso de transferencia de los recursos mencionados en el Artículo Tercer (sic) Transitorio, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente Decreto.
+
+SEXTO. Los asuntos a cargo de la Secretaría de Desarrollo Social que se encuentren pendientes de resolución al momento de la entrada en vigor de este Decreto, serán asumidos de inmediato y despachados por la Secretaría de Bienestar del Estado de Quintana Roo, conforme a las atribuciones que este mismo ordenamiento señala.
+
+SÉPTIMO. Las referencias establecidas en los ordenamientos jurídicos, reglamentos, decretos, acuerdos, reglas de operación y en general cualquier disposición que mencione a la Secretaría de Desarrollo Social, se entenderán a la Secretaría de Bienestar del Estado de Quintana Roo que se enuncia en el presente Decreto.
+
+OCTAVO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
