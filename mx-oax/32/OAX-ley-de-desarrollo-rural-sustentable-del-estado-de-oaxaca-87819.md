@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-rural-sustentable-del-estado-de-oaxaca-87819"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-09"
-last_updated: "2023-01-07"
+last_updated: "2023-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de abril de 2012.
 
@@ -93,7 +93,7 @@ X. Prevenir, controlar y erradicar los plaguicidas de uso restringido, prohibido
 
 XI. Promover programas y apoyos dirigidos a desarrollar las capacidades de los jóvenes productores rurales que se dediquen preponderantemente a las actividades agropecuarias y agroforestales para favorecer el relevo generacional que contribuirá al desarrollo rural sustentable de nuestro estado, y demás aplicables a la presente Ley.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 757 PUBLICADO EN LA CUARTA SECCIÓN DEL P.O. 7 DE ENERO DE 2023, PÁGINA 3.]</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 933 PUBLICADO EN LA DÉCIMA SÉPTIMA SECCIÓN DEL P.O. 18 DE MARZO DE 2023, PÁGINA 4.]</small>
 
 ###### ARTÍCULO 4.
 
@@ -155,89 +155,93 @@ XX. Estímulos Fiscales: Los incentivos otorgados por el Estado a través de ben
 
 XXI. Gobierno del Estado: El Gobierno del Estado de Oaxaca;
 
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2023)</small>
 
-XXII. Integral: La articulación social, económica, ambiental y cultural que propicia el desarrollo del sector rural de manera sostenible y sustentable;
-
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
-
-XXIII. Investigación y transferencia de tecnología: La investigación y la modernización de tecnologías aplicadas a las actividades rurales, que tengan por objeto el fomento de productividad, calidad, inocuidad, mejoramiento genético, protección, control y erradicación de enfermedades de las especies vegetales y animales; así como todas aquellas acciones que permitan disponer de mayor eficiencia y eficacia de los procesos productivos y de servicios en el medio rural;
+XXII. Inocuo: Lo que no hace o causa daño a la salud;
 
 (REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-XXIV. Ley: La Ley de Desarrollo Rural Sustentable del Estado de Oaxaca;
+XXIII. Integral: La articulación social, económica, ambiental y cultural que propicia el desarrollo del sector rural de manera sostenible y sustentable;
+
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
+
+XXIV. Investigación y transferencia de tecnología: La investigación y la modernización de tecnologías aplicadas a las actividades rurales, que tengan por objeto el fomento de productividad, calidad, inocuidad, mejoramiento genético, protección, control y erradicación de enfermedades de las especies vegetales y animales; así como todas aquellas acciones que permitan disponer de mayor eficiencia y eficacia de los procesos productivos y de servicios en el medio rural;
+
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
+
+XXV. Ley: La Ley de Desarrollo Rural Sustentable del Estado de Oaxaca;
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-XXIV BIS. Manejo Integrado de Plagas: La cuidadosa consideración de todas las técnicas disponibles para combatir las plagas y la posterior integración de medidas apropiadas que disminuyen el desarrollo de poblaciones de plagas y mantienen o restringen el empleo de plaguicidas para reducir los riesgos para la salud humana, la salud animal o el medio ambiente.
+XXV BIS. Manejo Integrado de Plagas: La cuidadosa consideración de todas las técnicas disponibles para combatir las plagas y la posterior integración de medidas apropiadas que disminuyen el desarrollo de poblaciones de plagas y mantienen o restringen el empleo de plaguicidas para reducir los riesgos para la salud humana, la salud animal o el medio ambiente.
 
 (REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-XXV. Ley de Planeación: La Ley de Planeación para el Estado de Oaxaca;
+XXVI. Ley de Planeación: La Ley de Planeación para el Estado de Oaxaca;
 
 (REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-XXVI. Órdenes de Gobierno: Los Gobiernos Federal, Estatal y Municipal;
+XXVII. Órdenes de Gobierno: Los Gobiernos Federal, Estatal y Municipal;
 
 (REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-XXVII. Organismos Genéticamente Modificados: Cualquier organismo que posea una combinación de material genético que se haya obtenido mediante la aplicación de la biotecnología moderna;
+XXVIII. Organismos Genéticamente Modificados: Cualquier organismo que posea una combinación de material genético que se haya obtenido mediante la aplicación de la biotecnología moderna;
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-XXVII BIS. Plaga: Toda especie, variedad o biotipo vegetal, animal o agente patógeno dañino para las plantas y productos, materiales o entornos vegetales;
+XXVIII BIS. Plaga: Toda especie, variedad o biotipo vegetal, animal o agente patógeno dañino para las plantas y productos, materiales o entornos vegetales;
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-XXVII TER. Plaguicida: Cualquier sustancia o mezclas de sustancias con ingredientes químicos o biológicos destinados a repeler, destruir o controlar cualquier plaga o a regular el crecimiento de las plantas;
+XXVIII TER. Plaguicida: Cualquier sustancia o mezclas de sustancias con ingredientes químicos o biológicos destinados a repeler, destruir o controlar cualquier plaga o a regular el crecimiento de las plantas;
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-XXVII QUATER. Plaguicida de Uso Prohibido o Restringido: Es aquel cuyos usos se encuentran dentro de una o más categorías prohibidas o restringidas total o parcialmente mediante una medida o norma reglamentaria. Estos incluyen los productos químicos cuya aprobación para primer uso haya sido denegada o que las industrias hayan retirado del mercado o de ulterior consideración en el proceso de aprobación nacional o internacional y cuando haya pruebas claras que esa medida se haya adoptado con el objeto de proteger la salud humana y el medio ambiente;
+XXVIII QUATER. Plaguicida de Uso Prohibido o Restringido: Es aquel cuyos usos se encuentran dentro de una o más categorías prohibidas o restringidas total o parcialmente mediante una medida o norma reglamentaria. Estos incluyen los productos químicos cuya aprobación para primer uso haya sido denegada o que las industrias hayan retirado del mercado o de ulterior consideración en el proceso de aprobación nacional o internacional y cuando haya pruebas claras que esa medida se haya adoptado con el objeto de proteger la salud humana y el medio ambiente;
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-XXVII QUINQUIES. Plaguicida con grado de peligrosidad: Son aquellos que representan riesgos agudos o crónicos a la salud humana o el medio ambiente de acuerdo a las normas oficiales mexicanas o a través de alguna de las clasificaciones realizadas por los organismos internacionales.
+XXVIII QUINQUIES. Plaguicida con grado de peligrosidad: Son aquellos que representan riesgos agudos o crónicos a la salud humana o el medio ambiente de acuerdo a las normas oficiales mexicanas o a través de alguna de las clasificaciones realizadas por los organismos internacionales.
 
 (REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-XXVIII. Participación Ciudadana: Derecho de los ciudadanos para participar de manera permanente, integral y sistemática en la política económica y social para el desarrollo rural;
+XXIX. Participación Ciudadana: Derecho de los ciudadanos para participar de manera permanente, integral y sistemática en la política económica y social para el desarrollo rural;
 
 (REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-XXIX. Productos Básicos y Estratégicos: Aquellos que forman parte de la dieta de la mayoría de la población diferenciados por regiones, los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos estatales y/o nacionales, definidos por la Ley o por considerarlos así por el Consejo Estatal;
+XXX. Productos Básicos y Estratégicos: Aquellos que forman parte de la dieta de la mayoría de la población diferenciados por regiones, los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos estatales y/o nacionales, definidos por la Ley o por considerarlos así por el Consejo Estatal;
 
 (REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-XXX. Programa Especial Concurrente: El programa especial concurrente para el desarrollo rural sustentable, que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley,
+XXXI. Programa Especial Concurrente: El programa especial concurrente para el desarrollo rural sustentable, que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley,
 
 (REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-XXXI. Programas Sectoriales: Los programas específicos del Gobierno Federal como Estatal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del desarrollo rural sustentable;
+XXXII. Programas Sectoriales: Los programas específicos del Gobierno Federal como Estatal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del desarrollo rural sustentable;
 
 (REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-XXXII. Recursos Naturales: Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales como son: tierras, bosques, recursos minerales, agua, recursos genéticos, comunidades vegetativas y animales;
+XXXIII. Recursos Naturales: Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales como son: tierras, bosques, recursos minerales, agua, recursos genéticos, comunidades vegetativas y animales;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
+
+XXXIV. Secretaría: Secretaría de Fomento Agroalimentario y Desarrollo Rural;
 
 (REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-XXXIII. Secretaría: Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura;
+XXXV. Seguridad Alimentaria: El abasto oportuno, constante e incluyente de los alimentos nutritivos en cantidad suficiente para satisfacer la demanda nutricional de la población;
 
 (REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-XXXIV. Seguridad Alimentaria: El abasto oportuno, constante e incluyente de los alimentos nutritivos en cantidad suficiente para satisfacer la demanda nutricional de la población;
+XXXVI. Sistema: Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencias para lograr un determinado propósito;
 
 (REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-XXXV. Sistema: Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencias para lograr un determinado propósito;
+XXXVII. Sistema-Producto: El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización; y
 
 (REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
 
-XXXVI. Sistema-Producto: El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización; y
-
-(REUBICADA, P.O. 3 DE OCTUBRE DE 2020)
-
-XXXVII. Sustentabilidad: La sustentabilidad ambiental, referida a la necesidad de que el impacto del proceso de desarrollo no destruya de manera irreversible la capacidad de carga del ecosistema.
+XXXVIII. Sustentabilidad: La sustentabilidad ambiental, referida a la necesidad de que el impacto del proceso de desarrollo no destruya de manera irreversible la capacidad de carga del ecosistema.
 
 ### CAPÍTULO II. DE LA COMPETENCIA
 
@@ -457,37 +461,43 @@ La Comisión Estatal Intersecretarial, será la responsable de atender, difundir
 
 La Comisión Estatal Intersecretarial estará integrada por los titulares de las siguientes dependencias del Ejecutivo:
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-I. Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura;
+I. Secretaría de Fomento Agroalimentario y Desarrollo Rural;
 
 II. Secretaría de Finanzas;
 
-III. Secretaría General de Gobierno
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-IV. Secretaría de Desarrollo Social y Humano;
+III. Secretaría del Gobierno;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
+
+IV. Secretaría de Bienestar, Tequio e Inclusión;
 
 V. Secretaría de Salud;
 
 VI. Instituto Estatal de Educación Pública de Oaxaca;
 
-VII. Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+VII. Secretaría de Infraestructuras y Comunicaciones;
 
-VIII. Secretaría de Economía;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
+
+VIII. Secretaría de Desarrollo Económico;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 IX. Secretaría de Turismo;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-X. Secretaría de la Contraloría y Transparencia Gubernamental;
+X. Secretaría de Honestidad Transparencia y Función Pública;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-XI. Secretaría de Medio Ambiente, Energías y Desarrollo Sustentable;
+XI. Secretaría de Medio Ambiente, Biodiversidad, Energías y Sostenibilidad;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -618,6 +628,10 @@ VI. La participación de los municipios tomando como base la demarcación territ
 VII. Los procedimientos mediante los cuales los municipios solicitarán al Ejecutivo Estatal, por conducto de la Secretaría, apoyos para programas especiales y gestiones ante la Federación los recursos necesarios para la atención de contingencias climatológicas y fenómenos naturales que afecten los cultivos en lo que se refiere a cosecha, almacenamiento y distribución, así como a los bienes patrimoniales y por ende los ingresos y el bienestar de las familias;
 
 VIII. La participación y coordinación entre el Gobierno estatal y los municipios con el personal estatal y federal que se asigne a los Distritos de Desarrollo Rural, en el equipamiento de los mismos y en la promoción de la participación de las organizaciones sociales y de la población en lo individual en el funcionamiento de los distritos, de tal manera que éstos constituyan la instancia inicial e inmediata de atención pública al sector.
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2023)</small>
+
+IX. La coordinación entre el Gobierno estatal y los municipios para la generación de los Planes de Desarrollo Rural Municipal.
 
 ###### ARTÍCULO 35.
 
@@ -891,9 +905,9 @@ El Sistema Estatal de Capacitación y Asistencia Técnica Rural Integral, establ
 
 El Servicio Estatal de Capacitación y Asistencia Técnica Rural Integral, estará dirigido por un consejo interno conformado por:
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-I. Los titulares de las Secretarías de Desarrollo Agropecuario, Pesca y Acuacultura; Desarrollo Social y Humano, de Economía; de Finanzas y de la Contraloría y Transparencia Gubernamental del Estado; así como el Instituto Estatal de Educación Pública de Oaxaca;
+I. Los titulares de las secretarías de Fomento Agroalimentario y Desarrollo Rural, de Bienestar, Tequio e Inclusión, de Desarrollo Económico, de Finanzas, de Honestidad, Transparencia y Función Pública, así como el Instituto de Educación Pública de Oaxaca;
 
 II. Los organismos del sector agropecuario;
 
@@ -1190,6 +1204,10 @@ A efecto de garantizar la salud de los habitantes y el medio ambiente en el Esta
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 Quedan exentos de la restricción anterior, el uso de plaguicidas biodegradables
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2023)</small>
+
+La Secretaría, en coordinación con la Secretaría de Salud del Estado y demás autoridades competentes deberán realizar acciones de inspección y vigilancia para garantizar que, en nuestro Estado, se produzcan alimentos inocuos y nutritivos; así como, implementarán campañas de información o educación en materia de inocuidad dirigidas a toda la población.
 
 ###### ARTÍCULO 89.
 
@@ -1709,7 +1727,9 @@ El Ejecutivo Estatal, en coordinación con la Federación y los municipios, apoy
 
 La política y programas de fomento a la producción atenderán prioritariamente el criterio de sustentabilidad en relación con el aprovechamiento de los recursos, ajustando las oportunidades de mercado, tomando en cuenta los planteamientos de los productores en cuanto a la aceptación de las prácticas y tecnologías para la producción.
 
-De conformidad con lo establecido en la Ley Forestal, la Secretaría del Medio Ambiente y Recursos Naturales establecerá los procedimientos para señalar las tierras frágiles y preferentemente forestales, donde los apoyos y acciones de la Secretaría estarán orientadas a la selección de cultivos y técnicas sustentables de manejo de las tierras.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
+
+De conformidad con lo establecido en la Ley Forestal, la Secretaría de Medio Ambiente, Biodiversidad, Energías y Sostenibilidad establecerá los procedimientos para señalar las tierras frágiles y preferentemente forestales, donde los apoyos y acciones de la Secretaría estarán orientadas a la selección de cultivos y técnicas sustentables de manejo de las tierras.
 
 ###### ARTÍCULO 143.
 
@@ -1725,9 +1745,11 @@ Los ejidatarios, comuneros, pueblos indígenas, propietarios o poseedores de los
 
 La Secretaría prestará asesoría técnica y legal para que los interesados formulen sus proyectos y tengan acceso a los apoyos de la Federación.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 146.
 
-Los contratos para los efectos del cuidado y la protección de la naturaleza, en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y Ley General de Vida Silvestre, requerirán autorización de la Secretaría del Medio Ambiente y Recursos Naturales para tener validez legal.
+Los contratos para los efectos del cuidado y la protección de la naturaleza, en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y Ley General de Vida Silvestre, requerirán autorización de la Secretaría de Medio Ambiente, Biodiversidad, Energías y Sostenibilidad para tener validez legal.
 
 ### CAPÍTULO XVII. DE LA SEGURIDAD ALIMENTARIA
 
@@ -2014,3 +2036,11 @@ P.O. 7 DE ENERO DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 933.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXV DEL ARTÍCULO 4, LAS FRACCIONES I, III, IV, VII, VIII, X Y XI DEL ARTICULO 23, LA FRACCIÓN I DEL ARTÍCULO 57, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 142 Y EL ARTÍCULO 146; Y SE ADICIONA LA FRACCION XXII, RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 4, LA FRACCION IX AL ARTÍCULO 34, EL CUARTO PÁRRAFO AL ARTÍCULO 88 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
