@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2022-10-25"
+last_updated: "2023-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "OAX"
 ---
 # LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-
-[NOTA 2: EL 13 DE MARZO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 161/2022 Y SU ACUMULADA 162/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 698 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO NÚMERO 1511 QUE REFORMÓ DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA EN MATERIA DE PARIDAD Y PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE VIOLENCIA POLÍTICA EN RAZÓN DE GÉNERO, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTICINCO DE OCTUBRE DE DOS MIL VEINTIDÓS, LA CUAL SURTIÓ EFECTOS EL 16 DE MARZO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/].
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -69,7 +67,13 @@ VI.- Los procedimientos administrativos sancionadores, de aquellas conductas que
 
 VII.- Las facultades de las autoridades electorales locales y sus relaciones con las autoridades del orden nacional, para el adecuado ejercicio de la función pública de organizar las elecciones, y
 
-VIII.- Las acciones afirmativas y los procedimientos para promover y asegurar condiciones de igualdad entre mujeres y hombres en la participación política, postulación, acceso y desempeño de cargos públicos
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
+
+VIII.- Las acciones afirmativas y los procedimientos para promover y asegurar condiciones de igualdad entre mujeres y hombres, personas de la diversidad sexual, con discapacidad, adultos mayores y jóvenes, en la participación política, postulación, acceso y desempeño de cargos públicos; y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2023)</small>
+
+IX.- El reconocimiento, salvaguarda y garantía de los derechos político-electorales de las personas con discapacidad a votar y ser votados, a desempeñar cualquier función pública, participar en la dirección de los asuntos públicos y a ser designadas o elegidas para integrar algún órgano representativo.
 
 Artículo 2
 
@@ -263,7 +267,9 @@ VI.- Intransferible, porque los ciudadanos, los partidos políticos o candidatos
 
 Artículo 9
 
-1.- La construcción de ciudadanía, la promoción de la participación ciudadana y del ejercicio de los derechos político electorales corresponde al Instituto Estatal, a los partidos políticos y a los candidatos, así como a la ciudadanía en general, fomentando en todo momento la paridad de género.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
+
+1.- La construcción de ciudadanía, la promoción de la participación ciudadana y del ejercicio de los derechos político electorales corresponde al Instituto Estatal, a los partidos políticos y a los candidatos, así como a la ciudadanía en general, fomentando en todo momento la paridad de género, la inclusión de personas de la diversidad sexual, con discapacidad, adultos mayores y jóvenes.
 
 2.- El Instituto Estatal emitirá las reglas a las que se sujetarán las campañas de promoción del voto que realicen otras organizaciones.
 
@@ -563,7 +569,9 @@ V.- En los municipios que tengan de quince mil y menos de cincuenta mil habitant
 
 VI.- En los municipios que tengan menos de quince mil habitantes, el ayuntamiento se integrará hasta con cinco concejalías electas por el principio de mayoría relativa y hasta dos regidurías electas por el principio de representación proporcional.
 
-2.- En el registro de las candidaturas a presidencia, regidurías y sindicaturas de los Ayuntamientos que se rigen bajo el sistema de partidos políticos; estos deberán garantizar el principio de paridad de género. En los casos de las fórmulas que les correspondan a hombres, con base al principio de paridad y alternancia, el propietario podrá tener como suplente a una mujer.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
+
+2.- En el registro de las candidaturas a presidencia, regidurías y sindicaturas de los Ayuntamientos que se rigen bajo el sistema de partidos políticos, estos deberán garantizar el principio de paridad de género. Además, promoverán la inclusión de personas de la diversidad sexual, con discapacidad, adultos mayores y jóvenes. En los casos de las fórmulas que les correspondan a hombres, con base al principio de paridad y alternancia, el propietario podrá tener como suplente a una mujer.
 
 3.- El Consejo General determinará, en la segunda sesión ordinaria del proceso electoral que corresponda, el número de concejales y el orden de prelación que deberán integrar los ayuntamientos conforme a la presente disposición. Dicho orden de prelación y registro deberá respetarse al momento de la asignación de las regidurías según lo establecido en la Ley Orgánica Municipal del Estado de Oaxaca.
 
@@ -693,9 +701,13 @@ X.- Ser garante de los principios rectores de igualdad, certeza, legalidad, inde
 
 XI.- Impulsar la participación de las mujeres, así como garantizar la paridad de género y el respeto de los derechos humanos de las mujeres en el ámbito político y electoral, en los términos señalados en la Constitución Local y esta Ley.
 
-> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-XII.- Promover el ejercicio de los derechos político-electorales y la participación de la ciudadanía oaxaqueña residente en el extranjero.
+XII.- Promover el ejercicio de los derechos político-electorales y la participación de personas de la diversidad sexual, con discapacidad, adultos mayores y jóvenes; y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2023)</small>
+
+XIII.- Promover la participación política, postulación, acceso y desempeño de cargos públicos, así como el respeto a los derechos humanos de las personas con discapacidad, en el ámbito político y electoral.
 
 Artículo 32
 
@@ -2859,11 +2871,11 @@ Para determinar la votación estatal valida emitida que servira de base para la 
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
 Artículo 147
 
-El proceso electoral es el conjunto de actos ordenados por la Constitución Local, la Ley General y esta Ley, realizados por las autoridades electorales nacionales y estatales, los partidos políticos, las candidatas y candidatos de partidos e independientes, así como la ciudadanía, que tienen por objeto la renovación periódica de quienes integran los Poderes Legislativo y Ejecutivo del Estado, así como de los ayuntamientos. En dichos procesos debe cumplirse el principio de paridad.
+El proceso electoral es el conjunto de actos ordenados por la Constitución Local, la Ley General y esta Ley, realizados por las autoridades electorales nacionales y estatales, los partidos políticos, las candidatas y candidatos de partidos e independientes, así como la ciudadanía, que tienen por objeto la renovación periódica de quienes integran los Poderes Legislativo y Ejecutivo del Estado, así como de los ayuntamientos. En dichos procesos debe cumplirse el principio de paridad, así como promover la inclusión de personas de la diversidad sexual, con discapacidad, adultos mayores y jóvenes.
 
 Artículo 148
 
@@ -6344,3 +6356,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 932.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 1, EL NUMERAL 1 DEL ARTÍCULO 9, EL NUMERAL 2 DEL ARTÍCULO 24, LA FRRACCIÓN XII DEL ARTÍCULO 31, EL ARTÍCULO 147; Y SE ADICIONAN LA FRACCIÓN IX AL ARTÍCULO 1, LA FRACCION XIII AL ARTÍCULO 31 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones de igual o menor rango que contravengan el contenido del presente Decreto.
