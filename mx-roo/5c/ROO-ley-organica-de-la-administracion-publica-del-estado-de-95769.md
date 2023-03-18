@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2021-07-16"
+last_updated: "2023-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -161,9 +161,9 @@ Para el despacho, estudio y planeación de los asuntos que correspondan a los di
 
 I. Secretaría de Gobierno;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-II. Secretaría de Desarrollo Social;
+II. Secretaría de Bienestar;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -423,19 +423,19 @@ XXIX. Administrar, normar, conducir y supervisar los servicios que presta el Reg
 
 XXX. Las demás que le encomienden expresamente las Leyes y Reglamentos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 32.
 
-A la Secretaría de Desarrollo Social le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Bienestar le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-I. Formular, conducir y evaluar la política estatal de desarrollo social y programas sectoriales de desarrollo en materia de cultura, juventud, recreación, deporte con base en la legislación federal y estatal aplicable y las normas y lineamientos que determine el Titular del Ejecutivo del Estado en vinculación con el Sistema Estatal de Planeación, así como las acciones correspondientes para el combate efectivo a la pobreza, procurando el desarrollo integral de la población del Estado.
+I. Formular, conducir y evaluar la política estatal de desarrollo social y bienestar, así como los programas sectoriales de desarrollo en materia de cultura, juventud, recreación, deporte y salud básica, con base en la legislación federal y estatal aplicable y las normas y lineamientos que determine la persona Titular del Poder Ejecutivo del Estado en vinculación con el Sistema de Planeación Democrática del Estado de Quintana Roo y el Sistema Estatal de Desarrollo Social de Quintana Roo, así como las acciones correspondientes para el combate efectivo a la pobreza, sectores sociales más desprotegidos y desarrollo humano, procurando el desarrollo integral de la población del Estado, con perspectiva de género;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-II. Promover la formulación de los proyectos de ley, reglamentos y demás disposiciones de carácter general, en materia de desarrollo social, desarrollo indígena, cultura, juventud, deporte y atención a grupos marginados, en coordinación con las dependencias y entidades de la administración pública del Estado involucradas en esas materias y someterlos a la aprobación del Ejecutivo, para el proceso legislativo correspondiente.
+II. Promover la formulación de los proyectos de ley, reglamentos y demás disposiciones de carácter general, en materia de desarrollo social, bienestar, desarrollo indígena, cultura, juventud, deporte y atención a grupos marginados, en coordinación con las dependencias y entidades de la administración pública del Estado involucradas en esas materias y someterlos a la aprobación de la persona titular del Poder Ejecutivo del Estado, para el proceso legislativo o administrativo correspondiente;
 
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
@@ -443,29 +443,35 @@ III. Concertar y convenir programas y acciones con el Ejecutivo Federal, los Ayu
 
 IV. Realizar los estudios necesarios y ejecutar, en su caso, las obras públicas y acciones que se requieran para cumplir con las metas y objetivos establecidos en el Programa Estatal, en términos de la Ley en la materia;
 
-V. Coordinar el diseño, formulación e instrumentación de los programas de desarrollo social del Gobierno del Estado, en conjunto con las diversas dependencias del Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+V. Coordinar el diseño, formulación e instrumentación de los programas de desarrollo social y de bienestar del Gobierno del Estado, en conjunto con las diversas dependencias del Poder Ejecutivo Estatal;
 
-VI. Coordinar la formulación, instrumentación y evaluación de las políticas y programas sectoriales en materia de desarrollo social, que promuevan las relaciones de equidad entre las comunidades, los sectores de la sociedad y el Estado, en los términos de los artículos 3o y 4o de la Constitución Política de los Estados Unidos Mexicanos y 13 de la Constitución Política del Estado Libre y Soberano de Quintana Roo;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+VI. Coordinar la formulación, instrumentación y evaluación de las políticas públicas y programas sectoriales en materia de desarrollo social y de bienestar, que promuevan las relaciones de equidad entre las comunidades, los sectores de la sociedad y el Estado, en los términos de los artículos 3o. y 4o. de la Constitución Política de los Estados Unidos Mexicanos y 13 de la Constitución Política del Estado Libre y Soberano de Quintana Roo;
 
-VII. Dar seguimiento a la ejecución de los programas de desarrollo social que se realicen con recursos estatales o federales a cargo de las dependencias y entidades de la Administración Pública del Estado o de los municipios de la entidad;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-VIII. Promover mecanismos tendientes a garantizar que los recursos públicos destinados a los programas sociales, se apliquen prioritariamente a los municipios con mayor índice de vulnerabilidad;
+VII. Dar seguimiento a la ejecución de los programas de desarrollo social y de bienestar que se realicen con recursos federales o estatales a cargo de las dependencias y entidades de la Administración Pública del Estado o de los municipios de la entidad;
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
+
+VIII. Promover mecanismos tendientes a garantizar que los recursos públicos destinados a los programas de desarrollo social y de bienestar, se apliquen prioritariamente a los municipios con mayor índice de vulnerabilidad;
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
 IX. Regular y supervisar, en coordinación con la Secretaría de Finanzas y Planeación, y con la Secretaría de la Contraloría, que los subsidios y las transferencias de fondos, provenientes del Ejecutivo del Estado a favor de instituciones de los sectores social y privado, se vinculen con los objetivos establecidos en el Plan y los programas de desarrollo del Estado;
 
-X. Coordinar y concertar de manera conjunta con las dependencias y entidades de la Administración Pública Estatal, programas especiales para los sectores sociales más vulnerables, con la finalidad de elevar el nivel de vida de la población;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
+
+X. Coordinar, concertar y ejecutar de manera conjunta con las dependencias y entidades de la Administración Pública Estatal, programas especiales de desarrollo social y de bienestar para los sectores sociales más vulnerables, con la finalidad de elevar el nivel de vida de la población;
 
 XI. Coadyuvar en la implementación y ejecución de programas de creación y apoyo a empresas individuales o colectivas en los grupos de escasos recursos, con la participación de los sectores social y privado y de las dependencias del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-XII. Establecer programas especiales de desarrollo a las comunidades rurales con el fin de consolidar su integración al desarrollo del Estado;
+XII. Establecer programas especiales de desarrollo social y de bienestar en las zonas rurales y urbanas para la atención de los sectores sociales más desprotegidos, con el fin de consolidar su integración al desarrollo del Estado;
 
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
@@ -497,7 +503,9 @@ XXII. Intervenir, en coordinación con la Secretaría de Educación, en la elabo
 
 XXIII. Coadyuvar en la coordinación y ejecución de planes y proyectos de obras públicas y de construcción, ampliación, rehabilitación y mantenimiento de caminos, infraestructura de comunicaciones donde se involucren a las comunidades marginadas del Estado;
 
-XXIV. Recibir las demandas ciudadanas y gestionar su solución a través de las diferentes instancias de los tres niveles de gobierno, así como implementar programas emergentes de coordinación para resolver los requerimientos de la sociedad, y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
+
+XXIV. Recibir las demandas ciudadanas y gestionar su solución a través de las diferentes instancias de los tres niveles de gobierno, así como implementar programas emergentes de coordinación para resolver los requerimientos de la sociedad;
 
 > <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
 
@@ -519,9 +527,9 @@ XXVIII. Procurar, directamente o por conducto de los organismos del sector y en 
 
 XXIX. Colaborar con las autoridades federales en la difusión, aplicación y supervisión de las normas de su competencia, que regulen la organización y funcionamiento de los servicios culturales.
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-XXX. Crear y mantener centros de cultura, juventud, deporte y recreación en el Estado, y
+XXX. Crear y mantener centros y unidades de cultura, juventud, deporte, salud básica, recreación y bienestar en el Estado, y
 
 > <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -753,9 +761,9 @@ XVIII. Coadyuvar en la vigilancia del cumplimiento de las declaraciones de usos,
 
 XIX. Programar de manera coordinada con las autoridades federales, estatales y municipales competentes, la inversión pública y la realización de acciones de desarrollo urbano que se ejecuten en la Entidad y evaluar sus resultados;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-XX. Promover, formular y presentar de manera coordinada con la Secretaría de Desarrollo Social y autoridades municipales, proyectos de rescate de edificaciones con valor arquitectónico y urbano en los centros históricos de las localidades del Estado.
+XX. Promover, formular y presentar de manera coordinada con la Secretaría de Bienestar y autoridades municipales, proyectos de rescate de edificaciones con valor arquitectónico y urbano en los centros históricos de las localidades del Estado;
 
 XXI. Supervisar y vigilar de manera coordinada con la Secretaría de Ecología y Medio Ambiente, que la preservación ecológica constituya una línea conductora de la programación del desarrollo urbano y regional;
 
@@ -1249,9 +1257,9 @@ VIII. Planear la expansión, mejoramiento y tecnificación de las actividades re
 
 IX. Elaborar y ejecutar, en coordinación con las autoridades competentes, estudios para aprovechar racionalmente los recursos naturales renovables del Estado, integrados al sector primario, a fin de asegurar un desarrollo sustentable y sostenido para satisfacer las necesidades en el Estado;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-X. Instrumentar, dentro de la competencia que corresponda al Estado, los programas de desarrollo agropecuario, forestal, acuícolas y pesquero, vinculados con la transformación socioeconómica de grupos marginados, en coordinación con la Secretaría de Desarrollo Social, y con la participación de los grupos involucrados;
+X. Instrumentar, dentro de la competencia que corresponda al Estado, los programas de desarrollo agropecuario, forestal, acuícola y pesquero, vinculados con la transformación socioeconómica de grupos marginados, en coordinación con la Secretaría de Bienestar y con la participación de los grupos involucrados;
 
 XI. Instrumentar, ejecutar, evaluar y supervisar acciones tendientes a propiciar el desarrollo rural, de las zonas cañeras y de los grupos marginados;
 
@@ -1399,9 +1407,9 @@ XXVI. Organizar, promover y supervisar, en coordinación con las autoridades com
 
 XXVII. Coordinar, normar y evaluar, las acciones de los organismos descentralizados de capacitación para el trabajo y de educación media, superior, tecnológica y universitaria y lo relativo a la Banda de Música del Estado de Quintana Roo;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-XXVIII. Instrumentar los programas de educación vinculados al desarrollo socioeconómico de las comunidades indígenas y grupos marginados del Estado, en coordinación con las Secretarías de Finanzas y Planeación, de Desarrollo Social y de Desarrollo Agropecuario Rural y Pesca; asimismo, con la participación de las etnias y de los núcleos involucrados;
+XXVIII. Instrumentar los programas de educación vinculados al desarrollo socioeconómico de las comunidades indígenas y afromexicanas, así como de los grupos marginados del Estado, en coordinación con las Secretarías de Finanzas y Planeación, de Bienestar y de Desarrollo Agropecuario Rural y Pesca; asimismo, con la participación de las etnias y de los núcleos involucrados;
 
 XXIX. Instrumentar la elaboración de programas de carácter educativo y culturales, orientados a sensibilizar y concientizar a la población sobre las formas de expresión, erradicación y prevención de la violencia intrafamiliar; asimismo, coadyuvar con las autoridades u organismos competentes, en la realización de investigaciones sobre este fenómeno, a fin de identificar los problemas reales y potenciales que la generan, que permitan en su caso, diseñar nuevos modelos para su asistencia y prevención;
 
@@ -1469,9 +1477,9 @@ XVII. Coordinar, concertar y ejecutar programas especiales para la atención de 
 
 XVIII. Fomentar la participación de instituciones académicas, de investigación, de organizaciones no gubernamentales y de la sociedad en general, en la generación e instrumentación de estrategias para mejorar la salud, superar rezagos sociales e impulsar el bienestar social de la población;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-XIX. Instrumentar los programas de salud vinculados al desarrollo socioeconómico de las comunidades indígenas y grupos marginados del Estado, en coordinación con las Secretarías de Finanzas y Planeación, de Desarrollo Social y de Desarrollo Agropecuario, Rural y Pesca, con la participación de las etnias y de los núcleos involucrados;
+XIX. Instrumentar los programas de salud vinculados al desarrollo socioeconómico de las comunidades indígenas y afromexicanas, asi como de los grupos marginados del Estado, en coordinación con las Secretarías de Finanzas y Planeación, de Bienestar y de Desarrollo Agropecuario, Rural y Pesca, con la participación de las etnias y de los núcleos involucrados;
 
 XX. Realizar las gestiones tendentes a proveer lo necesario para asegurar una adecuada atención médica, así como para garantizar la dotación de medicamentos básicos en los establecimientos de salud pública de la entidad;
 
@@ -1537,9 +1545,9 @@ XIX. Realizar visitas de verificación a los prestadores de servicios turístico
 
 XX. Instrumentar los mejores esquemas de beneficio turístico para la difusión de la cultura maya;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-XXI. Implementar programas de promoción turística que propicie la integración directa de las comunidades indígenas al desarrollo del Estado, sin afectar los usos, costumbres y tradiciones de estas últimas, en coordinación con la Secretaría de Desarrollo Social y la Secretaría de Desarrollo Agropecuario, Rural y Pesca;
+XXI. Implementar programas de promoción turística que propicie la integración directa de las comunidades indígenas y afromexicanas al desarrollo del Estado, sin afectar los usos, costumbres y tradiciones de estas últimas, en coordinación con la Secretaría de Bienestar y la Secretaría de Desarrollo Agropecuario, Rural y Pesca;
 
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
 
@@ -2302,3 +2310,25 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 18 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 049 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR LAS ORGANIZACIONES CIVILES PARA EL ESTADO DE QUINTANA ROO, DE LA LEY PARA EL FOMENTO DE LAS SOCIEDADES COOPERATIVAS EN EL ESTADO DE QUINTANA ROO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE PREVENCIÓN DEL DELITO PARA EL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La persona Titular del Poder Ejecutivo del Estado contará con un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones correspondientes a las disposiciones reglamentarias y demás normatividad complementaria en la materia.
+
+En tanto, se adecúan las disposiciones reglamentarias seguirán aplicándose los reglamentos y demás normatividad que se encuentren vigentes en lo que no se oponga al presente Decreto.
+
+TERCERO. Los recursos humanos, materiales y financieros a cargo de la Secretaría de Desarrollo Social pasarán íntegramente a la Secretaría de Bienestar del Estado de Quintana Roo que enuncia el presente Decreto.
+
+CUARTO. Para el cumplimiento del presente Decreto, la persona Titular del Poder Ejecutivo del Estado a través de las instancias competentes, podrá reorganizar las estructuras administrativas de las dependencias de la administración pública del Estado, así como crear, fusionar, escindir o disolver unidades administrativas, para lo cual realizará las adecuaciones presupuestales de conformidad con lo estipulado en el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo para el Ejercicio Fiscal 2023, asimismo deberá prever lo correspondiente para los ejercicios presupuestales subsecuentes.
+
+QUINTO. La Secretaría de Finanzas y Planeación y la Secretaría de la Contraloría serán responsables del proceso de transferencia de los recursos mencionados en el Artículo Tercer (sic) Transitorio, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente Decreto.
+
+SEXTO. Los asuntos a cargo de la Secretaría de Desarrollo Social que se encuentren pendientes de resolución al momento de la entrada en vigor de este Decreto, serán asumidos de inmediato y despachados por la Secretaría de Bienestar del Estado de Quintana Roo, conforme a las atribuciones que este mismo ordenamiento señala.
+
+SÉPTIMO. Las referencias establecidas en los ordenamientos jurídicos, reglamentos, decretos, acuerdos, reglas de operación y en general cualquier disposición que mencione a la Secretaría de Desarrollo Social, se entenderán (sic) a la Secretaría de Bienestar del Estado de Quintana Roo que se enuncia en el presente Decreto.
+
+OCTAVO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
