@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-fomento-a-las-actividades-realizadas-por-las-80475"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-22"
-last_updated: "2021-07-16"
+last_updated: "2023-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR LAS ORGANIZACIONES CIVILES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
 
 Ley publicada en el Número Extraordinario al Periódico Oficial del Estado de Quintana Roo, el martes 22 de marzo de 2011.
 
@@ -109,9 +109,9 @@ Para efectos de esta ley se entenderá por:
 
 a) Ley: La Ley de Fomento a las Actividades Realizadas por las Organizaciones Civiles para el Estado de Quintana Roo.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
-b) Secretaría: La Secretaría de Desarrollo Social,
+b) Secretaría: La Secretaría de Bienestar del Estado de Quintana Roo,
 
 c) Dependencias: Unidades de la Administración Pública estatal y municipal.
 
@@ -177,9 +177,11 @@ La Administración Pública del Estado de Quintana Roo promoverá la celebració
 
 ### CAPÍTULO SEGUNDO. DEL REGISTRO DE LAS ORGANIZACIONES CIVILES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2023)</small>
+
 ###### Artículo 7.
 
-El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social deberá integrar el Registro de Organizaciones Civiles del Estado de Quintana Roo en el que se inscribirán, cuando así lo soliciten, las Organizaciones Civiles que realicen las actividades de Desarrollo Social a que se refiere esta Ley. Dicho Registro será público y tendrá las siguientes funciones:
+El Ejecutivo del Estado, a través de la Secretaría deberá integrar el Registro de Organizaciones Civiles del Estado de Quintana Roo en el que se inscribirán, cuando así lo soliciten, las Organizaciones Civiles que realicen las actividades de Desarrollo Social a que se refiere esta Ley. Dicho Registro será público y tendrá las siguientes funciones:
 
 I. Organizar y administrar un sistema de registro y de información de las organizaciones civiles;
 
@@ -201,9 +203,11 @@ V. Verificar, conforme a lo previsto en el Reglamento de esta Ley, el cumplimien
 
 VI. Las demás que le establezcan en demás disposiciones jurídicas aplicables y el Reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2023)</small>
+
 ###### Artículo 8.
 
-Para su inscripción en el Registro de Organizaciones Civiles del Estado de Quintana Roo, las organizaciones presentarán la solicitud ante la Secretaría de Desarrollo Social en el formato autorizado por ésta, con los requisitos siguientes:
+Para su inscripción en el Registro de Organizaciones Civiles del Estado de Quintana Roo, las organizaciones presentarán la solicitud ante la Secretaría en el formato autorizado por ésta, con los requisitos siguientes:
 
 I. Exhibir su Acta Constitutiva o en su caso presentar copia certificada de su Acta Constitutiva y de sus estatutos;
 
@@ -215,11 +219,13 @@ IV. Señalar su domicilio social, y
 
 V. Presentar copia simple del testimonio notarial que acredite la personalidad de su representante legal.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
+
 ###### Artículo 9.
 
-Recibida la solicitud a que se refiere el artículo anterior, la Secretaría de Desarrollo Social en un plazo no mayor de treinta días hábiles, resolverá sobre la procedencia de la inscripción.
+Recibida la solicitud a que se refiere el artículo anterior, la Secretaría en un plazo no mayor de treinta días hábiles, resolverá sobre la procedencia de la inscripción.
 
-La Secretaría de Desarrollo Social negará la inscripción cuando no se cumpla alguno de los requisitos a que se refiere el artículo anterior, o la documentación exhibida presente alguna irregularidad, exista constancia de haber cometido en el desarrollo de sus actividades infracciones graves o reiteradas a esta Ley y a otras disposiciones jurídicas, o cuando haya evidencia de que la organización no cumpla con su objeto.
+La Secretaría negará la inscripción cuando no se cumpla alguno de los requisitos a que se refiere el artículo anterior, o la documentación exhibida presente alguna irregularidad, exista constancia de haber cometido en el desarrollo de sus actividades infracciones graves o reiteradas a esta Ley y a otras disposiciones jurídicas, o cuando haya evidencia de que la organización no cumpla con su objeto.
 
 ###### Artículo 10.
 
@@ -249,7 +255,9 @@ VII. Coadyuvar con las autoridades competentes, en los términos de los convenio
 
 VIII. Recibir, en el marco de los programas que al efecto formulen Dependencias y Entidades de la Administración Pública del Estado de Quintana Roo, y los Ayuntamientos, asesoría, capacitación y colaboración, cuando así lo soliciten; y
 
-IX. Reconocer públicamente por parte del Ejecutivo del Estado a través de la Secretaría de Desarrollo Social las acciones que lleven a cabo las organizaciones civiles que se distingan en la realización de actividades de Desarrollo Social.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
+
+IX. Reconocer públicamente por parte del Poder Ejecutivo del Estado a través de la Secretaría las acciones que lleven a cabo las organizaciones civiles que se distingan en la realización de actividades de desarrollo social.
 
 > <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -259,7 +267,9 @@ X. Las demás que señalen otras disposiciones aplicables.
 
 Las organizaciones civiles inscritas en el Registro de Organizaciones Civiles del Estado de Quintana Roo tendrán, además de las obligaciones previstas en otras disposiciones jurídicas que atañen a su objeto social, las siguientes:
 
-l. Informar a la Secretaría de Desarrollo Social cualquier modificación a su objeto social, domicilio o representación legal, en un plazo no mayor de cuarenta y cinco días hábiles contados a partir de la protocolización de la modificación respectiva, a efecto de mantener actualizado el sistema de registro a que se refiere esta Ley;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
+
+I. Informar a la Secretaría cualquier modificación a su objeto social, domicilio o representación legal, en un plazo no mayor de cuarenta y cinco días hábiles contados a partir de la protocolización de la modificación respectiva, a efecto de mantener actualizado el sistema de registro a que se refiere esta Ley;
 
 II. Mantener a disposición de las autoridades competentes para actualizar el sistema de información, las actividades que realicen y de su contabilidad o, en su caso, de sus estados financieros;
 
@@ -273,11 +283,11 @@ V. Proporcionar a la autoridad que otorgue los recursos y fondos públicos a que
 
 ### CAPÍTULO CUARTO. DE LOS ÓRGANOS ENCARGADOS DEL FORTALECIMIENTO DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2023)</small>
 
 ###### Artículo 13.
 
-Se crea el Consejo para el Fortalecimiento de las Organizaciones de la Sociedad Civil que será presidido por el Secretario de Desarrollo Social; el cual será el órgano honorífico encargado de fomentar e impulsar las actividades de las organizaciones de la sociedad civil, brindando asesoría técnica para la elaboración de los planes, proyectos y programas de apoyo integral en una correcta aplicación de los recursos públicos que se destinen para este fin.
+Se crea el Consejo para el Fortalecimiento de las Organizaciones de la Sociedad Civil que será presidido por la persona titular de la Secretaría, el cual será el órgano honorífico encargado de fomentar e impulsar las actividades de las organizaciones de la sociedad civil, brindando asesoría técnica para la elaboración de los planes, proyectos y programas de apoyo integral en una correcta aplicación de los recursos públicos que se destinen para este fin.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -319,9 +329,9 @@ VIII. Integrar las comisiones y grupos de trabajo que sean necesarios para el ej
 
 IX. Extender reconocimientos a las organizaciones de la sociedad civil que se hayan distinguido por el cumplimiento permanentemente de los objetivos a que se refiere esta Ley;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-X. En coordinación con las dependencias y entidades, elaborará y publicará un informe anual de las acciones, apoyos y estímulos otorgados a favor de las organizaciones de la sociedad civil que se acojan a esta Ley, el cual será publicado en la página oficial de internet de la Secretaría de Desarrollo Social, y
+X. En coordinación con las dependencias y entidades, elaborará y publicará un informe anual de las acciones, apoyos y estímulos otorgados a favor de las organizaciones de la sociedad civil que se acojan a esta Ley, el cual será publicado en la página oficial de internet de la Secretaría, y
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -333,9 +343,9 @@ XI. Las demás que le otorguen la presente Ley y su reglamento.
 
 El Consejo se integrará de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-I. El Titular de la Secretaría de Desarrollo Social, quien lo presidirá;
+I. La persona Titular de la Secretaría, quien lo presidirá;
 
 II. Una Secretaría Técnica, cuyo titular será designado por la presidencia;
 
@@ -441,9 +451,9 @@ III. Las donaciones hechas a su favor por terceros, y
 
 IV. Las demás aportaciones destinadas para el Fomento a las Actividades Realizadas por las organizaciones de la sociedad civil.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
-Dicho fondo estará a cargo de la Secretaría de Desarrollo Social. Mismo que tiene por objeto el fomento a las actividades realizadas por las organizaciones de la sociedad civil.
+Dicho fondo estará a cargo de la Secretaría, mismo que tiene por objeto el fomento a las actividades realizadas por las organizaciones de la sociedad civil.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -497,9 +507,9 @@ II. Que se contraten, con recursos públicos, a personas con nexos de parentesco
 
 El Ejecutivo del Estado incentivará en los jóvenes la constitución de organizaciones de la sociedad civil.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
-La Secretaría de Desarrollo Social proporcionará las capacitaciones necesarias para la creación y fortalecimiento de asociaciones de las organizaciones de la sociedad civil de jóvenes.
+La Secretaría proporcionará las capacitaciones necesarias para la creación y fortalecimiento de asociaciones de las organizaciones de la sociedad civil de jóvenes.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -511,11 +521,11 @@ El Ejecutivo promoverá la celebración de convenios para la obtención de descu
 
 ### CAPÍTULO SÉPTIMO. DE LAS SANCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2023)</small>
 
 ###### Artículo 27.
 
-El Ejecutivo Estatal, a través de la Secretaría de Desarrollo Social, impondrá a las organizaciones civiles registradas las sanciones siguientes:
+El Poder Ejecutivo Estatal, a través de la Secretaría, impondrá a las organizaciones civiles registradas las sanciones siguientes:
 
 > <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -624,3 +634,25 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 18 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 049 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR LAS ORGANIZACIONES CIVILES PARA EL ESTADO DE QUINTANA ROO, DE LA LEY PARA EL FOMENTO DE LAS SOCIEDADES COOPERATIVAS EN EL ESTADO DE QUINTANA ROO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE PREVENCIÓN DEL DELITO PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La persona Titular del Poder Ejecutivo del Estado contará con un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones correspondientes a las disposiciones reglamentarias y demás normatividad complementaria en la materia.
+
+En tanto, se adecúan las disposiciones reglamentarias seguirán aplicándose los reglamentos y demás normatividad que se encuentren vigentes en lo que no se oponga al presente Decreto.
+
+TERCERO. Los recursos humanos, materiales y financieros a cargo de la Secretaría de Desarrollo Social pasarán íntegramente a la Secretaría de Bienestar del Estado de Quintana Roo que enuncia el presente Decreto.
+
+CUARTO. Para el cumplimiento del presente Decreto, la persona Titular del Poder Ejecutivo del Estado a través de las instancias competentes, podrá reorganizar las estructuras administrativas de las dependencias de la administración pública del Estado, así como crear, fusionar, escindir o disolver unidades administrativas, para lo cual realizará las adecuaciones presupuestales de conformidad con lo estipulado en el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo para el Ejercicio Fiscal 2023, asimismo deberá prever lo correspondiente para los ejercicios presupuestales subsecuentes.
+
+QUINTO. La Secretaría de Finanzas y Planeación y la Secretaría de la Contraloría serán responsables del proceso de transferencia de los recursos mencionados en el Artículo Tercer Transitorio, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente Decreto.
+
+SEXTO. Los asuntos a cargo de la Secretaría de Desarrollo Social que se encuentren pendientes de resolución al momento de la entrada en vigor de este Decreto, serán asumidos de inmediato y despachados por la Secretaría de Bienestar del Estado de Quintana Roo, conforme a las atribuciones que este mismo ordenamiento señala.
+
+SÉPTIMO. Las referencias establecidas en los ordenamientos jurídicos, reglamentos, decretos, acuerdos, reglas de operación y en general cualquier disposición que mencione a la Secretaría de Desarrollo Social, se entenderán a la Secretaría de Bienestar del Estado de Quintana Roo que se enuncia en el presente Decreto.
+
+OCTAVO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
