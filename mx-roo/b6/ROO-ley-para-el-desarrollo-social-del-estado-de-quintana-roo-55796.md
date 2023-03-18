@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-el-desarrollo-social-del-estado-de-quintana-roo-55796"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-30"
-last_updated: "2021-07-16"
+last_updated: "2023-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 30 de mayo de 2007.
 
@@ -123,9 +123,9 @@ XII. Programas de Desarrollo Social. Los programas regionales, sectoriales, inst
 
 XIII. Registro. El Registro de Organizaciones para el Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-XIV. Secretaría. La Secretaría de Desarrollo Social;
+XIV. Secretaría. La Secretaría de Bienestar del Estado de Quintana Roo;
 
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE 2010)</small>
 
@@ -389,7 +389,9 @@ VIII.- Coordinar el desarrollo de los programas y acciones, con las demás Depen
 
 IX.- Promover el desarrollo social estableciendo acciones de concertación con los particulares, organismos, instituciones y representantes del sector social y privado;
 
-X.- Ejercer los fondos y recursos federales descentralizados o convenidos en materia de desarrollo social, en los términos de las leyes respectivas, así como informar a la Secretaría de Desarrollo Social del Gobierno Federal sobre el avance y resultado de los mismos;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
+
+X.- Ejercer los fondos y recursos federales descentralizados o convenidos en materia de desarrollo social, en los términos de las leyes respectivas, así como informar a la Secretaría de Bienestar del Gobierno Federal sobre el avance y resultado de los mismos;
 
 XI.- Realizar los estudios necesarios y ejecutar, en su caso, las obras públicas y acciones que se requieran para cumplir con las metas y objetivos establecidos en el Programa Estatal, en términos de la Ley de la materia;
 
@@ -535,7 +537,9 @@ El titular del Poder Ejecutivo, por conducto de la Secretaría, determinará las
 
 I.- Las evaluaciones de resultados y estudios de medición de la marginación, vulnerabilidad y pobreza, que emita el Consejo Nacional de Evaluación de la Política de Desarrollo Social y la Comisión de Evaluación, en el ámbito de sus respectivas competencias; y
 
-II.- Los índices e indicadores de pobreza que genere el Instituto Nacional de Estadística, Geografía e Informática, el Consejo Nacional de Población y la Secretaría de Desarrollo Social, así como los que generen las autoridades homólogas en el Estado.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
+
+II.- Los índices e indicadores de pobreza que genere el Instituto Nacional de Estadística, Geografía e Informática, el Consejo Nacional de Población y la Secretaría de Bienestar del Gobierno Federal, así como los que generen las autoridades homólogas en el Estado.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
 
@@ -1414,3 +1418,25 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 18 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 049 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR LAS ORGANIZACIONES CIVILES PARA EL ESTADO DE QUINTANA ROO, DE LA LEY PARA EL FOMENTO DE LAS SOCIEDADES COOPERATIVAS EN EL ESTADO DE QUINTANA ROO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE PREVENCIÓN DEL DELITO PARA EL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La persona Titular del Poder Ejecutivo del Estado contará con un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones correspondientes a las disposiciones reglamentarias y demás normatividad complementaria en la materia.
+
+En tanto, se adecúan las disposiciones reglamentarias seguirán aplicándose los reglamentos y demás normatividad que se encuentren vigentes en lo que no se oponga al presente Decreto.
+
+TERCERO. Los recursos humanos, materiales y financieros a cargo de la Secretaría de Desarrollo Social pasarán íntegramente a la Secretaría de Bienestar del Estado de Quintana Roo que enuncia el presente Decreto.
+
+CUARTO. Para el cumplimiento del presente Decreto, la persona Titular del Poder Ejecutivo del Estado a través de las instancias competentes, podrá reorganizar las estructuras administrativas de las dependencias de la administración pública del Estado, así como crear, fusionar, escindir o disolver unidades administrativas, para lo cual realizará las adecuaciones presupuestales de conformidad con lo estipulado en el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo para el Ejercicio Fiscal 2023, asimismo deberá prever lo correspondiente para los ejercicios presupuestales subsecuentes.
+
+QUINTO. La Secretaría de Finanzas y Planeación y la Secretaría de la Contraloría serán responsables del proceso de transferencia de los recursos mencionados en el Artículo Tercer (sic) Transitorio, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente Decreto.
+
+SEXTO. Los asuntos a cargo de la Secretaría de Desarrollo Social que se encuentren pendientes de resolución al momento de la entrada en vigor de este Decreto, serán asumidos de inmediato y despachados por la Secretaría de Bienestar del Estado de Quintana Roo, conforme a las atribuciones que este mismo ordenamiento señala.
+
+SÉPTIMO. Las referencias establecidas en los ordenamientos jurídicos, reglamentos, decretos, acuerdos, reglas de operación y en general cualquier disposición que mencione a la Secretaría de Desarrollo Social, se entenderán a la Secretaría de Bienestar del Estado de Quintana Roo que se enuncia en el presente Decreto.
+
+OCTAVO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
