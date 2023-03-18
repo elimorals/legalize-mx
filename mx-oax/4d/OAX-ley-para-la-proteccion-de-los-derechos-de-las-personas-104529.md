@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2023-01-28"
+last_updated: "2023-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -253,7 +253,13 @@ d) Expresar su opinión libremente.
 
 III. A la vida en familia, que implica:
 
-a) Vivir en el seno de una familia, o mantener relaciones personales y contacto directo con ella, en el caso de estar separados
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
+
+a) Vivir en el seno de una familia, o mantener relaciones personales y contacto directo con ella, en el caso de estar separados, y
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2023)</small>
+
+b) Garantizarle una estancia decorosa dentro del núcleo familiar y en caso de vivir separados, otorgarles los medios necesarios para que tengan una vida digna.
 
 IV. A la certeza jurídica, que incluye:
 
@@ -277,9 +283,9 @@ V. A la salud y alimentación, que comprende:
 
 a) El acceso a los satisfactores que efectivamente requiera, considerando en éstos los alimentos, bienes y servicios, a la par de las condiciones humanas o materiales, adecuadas para su desarrollo personal y protección integral;
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
-b) El acceso preferente a los servicios de salud, de conformidad a lo dispuesto en el párrafo vigésimo cuarto del artículo 12 de la Constitución Política del Estado Libre y Soberano de Oaxaca, con el objeto de gozar cabalmente de bienestar físico, mental, psicoemocional y sexual, para atender, detener o retrasar cualquier enfermedad que menoscabe su calidad de vida;
+b) El acceso preferente y la prestación gratuita de los servicios de salud, medicamentos y demás insumos asociados para quienes no cuenten con seguridad social, de conformidad con lo dispuesto en el artículo 4 de la Constitución Política de los Estados Unidos Mexicanos y el Título Tercero Bis de la Ley General de Salud, con el objeto de gozar completamente de bienestar físico, mental, psicoemocional y sexual, para atender, detener o retrasar cualquier enfermedad que menoscabe su calidad de vida;
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
 
@@ -321,11 +327,21 @@ a) Beneficiarse de oportunidades reales de acceso a un empleo o de aquellas alte
 
 b) El desempeño productivo por el tiempo que autodeterminen, siempre colocando prioritariamente el sano equilibrio entre su protección integral, desarrollo personal, condiciones y circunstancias particulares y su propio arbitrio;
 
-c) Que las oportunidades de trabajo que se pongan a su disposición sean acordes a sus capacidades físicas, aptitudes y habilidades; y,
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
-d) La integración de bolsas de trabajo que deberán conformarse por el Estado y en su caso, por los ayuntamientos, con la inclusión de ofertas laborales, en las que deberán participar corresponsablemente, tanto los gobiernos de ambos niveles como las empresas privadas y la sociedad civil organizada.
+c) Que las oportunidades de trabajo que se pongan a su disposición sean acordes a sus capacidades físicas, aptitudes y habilidades;
 
-> <small>[N. DE E. ESTE PÁRRAFO PERTENECE AL INCISO D, P.O. 15 DE DICIEMBRE DE 2022.]</small>
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2023)</small>
+
+d) La igualdad de oportunidades para el acceso a un trabajo digno, teniendo la protección de las disposiciones de los Tratados Internacionales de los que el Estado forme parte;
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2023)</small>
+
+e) Acceder a programas especiales de educación y becas de capacitación que les permitan acceder a un trabajo digno, en especial en los casos de vulnerabilidad múltiple; y
+
+f) La integración de bolsas de trabajo que deberán conformarse por el Estado y en su caso, por los ayuntamientos, con la inclusión de ofertas laborales, en las que deberán participar corresponsablemente, tanto los gobiernos de ambos niveles como las empresas privadas y la sociedad civil organizada.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE AL INCISO F, P.O. 15 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
 
@@ -980,3 +996,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan sin efecto las disposiciones de igual o menor rango que contravengan el contenido del presente Decreto.
+
+P.O. 18 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 911.- MEDIANTE EL CUAL REFORMA EL INCISO A) DE LA FRACCIÓN III, EL INCISO B) DE LA FRACCION V, Y EL INCISO C) DE LA FRACCIÓN VII DEL ARTÍCULO 9; y SE ADICIONAN EL INCISO B) A LA FRACCIÓN III Y LOS INCISOS D) Y E) A LA FRACCIÓN VII, RECORRIÉNDOSE EL SUBSECUENTE, DEL ARTÍCULO 9 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
