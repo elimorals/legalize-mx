@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-de-105074
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2023-02-04"
+last_updated: "2023-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -637,9 +637,9 @@ IV. Elaborar los trabajos que le encomiende el Presidente del Consejo Estatal y 
 
 V. Elaborar y presentar el Reglamento Interno del Consejo Estatal, en el pleno del mismo para su aprobación correspondiente.
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-VI. Coadyuvar con el Órgano Superior de Fiscalización del Estado y demás instancias de fiscalización, proporcionando la información con la que cuente respecto del ejercicio de los recursos de ayuda estatal, así como del cumplimiento de esta Ley; y
+VI. Coadyuvar con la Auditoría Superior de Fiscalización del Estado de Oaxaca y demás instancias de fiscalización, proporcionando la información con la que cuente del ejercicio de los recursos de ayuda estatal, así como del cumplimiento de esta Ley; y
 
 VII. Las demás funciones que le confieran el Consejo Estatal o el Presidente del Consejo Estatal.
 
@@ -1131,9 +1131,9 @@ LI. Asesorar y validar los programas municipales;
 
 LII. Hacer efectivas las multas por infracciones a las disposiciones contenidas en la presente Ley.
 
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-LIII. La Coordinación Estatal deberá rendir e integrar la Información relacionada con los avances de gestión e indicadores del programa presupuestario y remitirlo a la Secretaría de Finanzas para su integración a los informes y Cuenta Pública a que se refiere la Ley de Fiscalización Superior del Estado de Oaxaca, en los términos señalados por la Ley de Contabilidad Gubernamental y los acuerdos emitidos por el Consejo Nacional de Armonización Contable;
+LIII. La Coordinación Estatal deberá rendir e integrar la información relacionada con los avances de gestión e indicadores del programa presupuestario y remitirlos a la Secretaría de Finanzas para su integración a los informes y Cuenta Pública a que se refiere la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca, en los términos señalados por la Ley de Contabilidad Gubernamental y los acuerdos emitidos por el Consejo Nacional de Armonización Contable;
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -2280,3 +2280,11 @@ P.O. 4 DE FEBRERO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 962.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN VI DEL ARTÍCULO 27 Y LA FRACCIÓN LIII DEL ARTÍCULO 35 DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
