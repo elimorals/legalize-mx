@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-instituto-de-defensoria-publica-del-estado-de-68129"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-08"
-last_updated: "2020-03-19"
+last_updated: "2023-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 8 de marzo de 2009.
 
@@ -507,9 +507,13 @@ VIII. Asistir puntualmente a las reuniones convocadas por su superior jerárquic
 
 IX. Observar respeto y ejercicio del buen despacho respecto a sus superiores jerárquicos, cumpliendo las disposiciones que éstos dicten, en el ejercicio de sus atribuciones legales;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MARZO DE 2023)</small>
 
-X. Actualizarse constantemente y participar en los cursos respectivos que al efecto realicen el Instituto y el Consejo de la Judicatura;
+X. Actualizarse constantemente y participar en los cursos respectivos que al efecto realicen el Instituto y el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2023)</small>
+
+Someterse a una capacitación y actualización permanente en materia de perspectiva de género, igualdad sustantiva y violencia contra las mujeres.
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 2020)</small>
 
@@ -874,3 +878,11 @@ P.O. 19 DE MARZO DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 326.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DEL INSTITUTO DE DEFENSORÍA PUBLICA DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
