@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2022-11-08"
+last_updated: "2023-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1845,13 +1845,13 @@ Cuando las lesiones sean calificadas, la pena se incrementará en dos terceras p
 
 La riña es la contienda de obra que se acepta de manera tácita o expresa entre dos o más personas con el ánimo de dañarse recíprocamente.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2023)</small>
 
 ###### Artículo 147.
 
-El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña, estado de alteración voluntaria, brutal ferocidad, por razones de orientación sexual o identidad de género, por razones de género en contra de la mujer o por discriminación, aversión o rechazo en contra de la víctima; profesión u oficio; condición social o económica; por su origen étnico, raza, religión o discapacidad o en perjuicio de servidores públicos que se encarguen de la procuración o administración de justicia.
+El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña, estado de alteración voluntaria, brutal ferocidad, por razones de orientación sexual o identidad de género, o por discriminación, aversión o rechazo en contra de la víctima; profesión u oficio; condición social o económica; por su origen étnico, raza, religión o discapacidad o en perjuicio de servidores públicos que se encarguen de la procuración o administración de justicia.
 
-Se consideran razones de género las mismas contempladas para el delito de feminicidio.
+Las lesiones también serán calificadas cuando se cometan por razones de género en contra de una mujer, para lo cual, se consideran razones de género las que resulten aplicables y se encuentran contempladas en el delito de feminicidio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2021)</small>
 
@@ -6930,3 +6930,11 @@ P.O. 8 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 324.- QUE CONTIENE REFORMAS Y ADICIONES AL CODIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente decreto.
