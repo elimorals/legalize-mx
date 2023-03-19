@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cultura-fisica-y-deporte-del-estado-de-durango-116778"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-22"
-last_updated: "2022-11-27"
+last_updated: "2023-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2023.
 
 Ley publicada en el número 76 del Periódico Oficial del Estado de Durango, el jueves 22 de septiembre de 2016.
 
@@ -709,7 +709,9 @@ III. Usar las instalaciones destinadas para la práctica del deporte apegándose
 
 IV. Recibir asistencia y entrenamiento deportivo.
 
-V. Recibir atención y servicios médicos, cuando lo requieran en la práctica de un deporte, durante competencias oficiales.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2023)</small>
+
+V. Recibir atención y servicios médicos, procurando la atención psicológica, cuando lo requieran en la práctica de un deporte, durante competencias oficiales
 
 VI. Participar en competencias, juegos o eventos deportivos reglamentarios u oficiales.
 
@@ -813,9 +815,11 @@ El Instituto promoverá, en coordinación con la Secretaría, el desarrollo e in
 
 El Instituto coordinará las acciones necesarias a fin de que los integrantes del Sistema obtengan los beneficios que por el desarrollo e investigación en estas ciencias se adquieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2023)</small>
+
 ###### Artículo 74.
 
-Los deportistas integrantes del Sistema tendrán derecho a recibir atención médica. Para tal efecto, las autoridades estatales y municipales promoverán los mecanismos de concertación con las instituciones públicas o privadas que integren el sector salud.
+Los deportistas integrantes del Sistema tendrán derecho a recibir atención médica, procurando la prevención, atención y tratamientos de lesiones. Para tal efecto, las autoridades estatales y municipales promoverán los mecanismos de concertación con las instituciones públicas o privadas que integren el sector salud.
 
 Los deportistas y los entrenadores que integren el padrón de deportistas de alto rendimiento dentro del Registro Estatal, así como aquellos considerados como talentos deportivos que integren preselecciones y selecciones estatales, deberán contar con un seguro de vida y gastos médicos durante las competencias en las que representen al Estado, así como en los traslados a las mismas, los cuales serán proporcionados por el Instituto; así como incentivos económicos con base a los resultados obtenidos. El procedimiento correspondiente quedará establecido en el Reglamento de la presente Ley.
 
@@ -1128,6 +1132,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 27 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 255.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 327.- QUE CONTIENE REFORMA AL ARTÍCULO 74 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 328.- REFORMA A LA FRACCIÓN XIII Y ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 63 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
