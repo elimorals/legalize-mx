@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-fiscalia-general-del-estado-de-durango-68339
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-02-26"
-last_updated: "2020-03-29"
+last_updated: "2023-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de febrero de 2009.
 
@@ -593,13 +593,17 @@ X. Intervenir en los asuntos relativos a los menores de edad, personas con disca
 
 XI. Conocer de la investigación de los delitos que contempla el CAPÍTULO VII del TÍTULO DÉCIMO OCTAVO, denominado de los "Delitos Contra la Salud en su modalidad de Narcomenudeo" de la Ley General de Salud;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2023)</small>
 
-XII. Ordenar fundada y motivadamente la aplicación de las medidas de protección idóneas cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido; y
+XII. Ordenar fundada y motivadamente la aplicación de las medidas de protección idóneas cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido;
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MARZO DE 2023)</small>
 
-XIII. Las demás que les otorguen las leyes correspondientes.
+XIII. Una vez que tenga conocimiento del hecho delictivo de manera oficiosa o previa denuncia iniciar inmediatamente la investigación y búsqueda de la mujer o mujeres desaparecidas para lo cual deberá observar lo dispuesto por las leyes de la materia vigentes en el Estado, así como los protocolos de actuación en la materia. El incumplimiento de esta disposición será considerado como grave, en materia de responsabilidad del servidor público; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE MARZO DE 2023)</small>
+
+XIV. Las demás que les otorguen las leyes correspondientes.
 
 ###### Artículo 23.
 
@@ -1418,3 +1422,11 @@ P.O. 29 DE MARZO DE 2020.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 325.- REFORMA AL ARTICULO 22 DE LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE DURANGO".]
+
+PRIMERO. - El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. - Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
