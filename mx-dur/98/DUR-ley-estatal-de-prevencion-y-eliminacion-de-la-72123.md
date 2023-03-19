@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-de-prevencion-y-eliminacion-de-la-72123"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-24"
-last_updated: "2022-12-22"
+last_updated: "2023-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ESTATAL DE PREVENCIÓN Y ELIMINACIÓN DE LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2023.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -221,7 +221,9 @@ XXVII. Limitar el derecho a la alimentación, vivienda, recreo y los servicios d
 
 XXVIII. Impedir, negar o evadir la presentación de queja o denuncia a la procuración e impartición de justicia; para lo cual deberá aplicarse lo previsto en el artículo 363 del Código Penal para el Estado Libre y Soberano de Durango;
 
-XXIX. Negar, obstaculizar o impedir, bajo cualquier forma, el acceso a cualquier servicio público o institución privada que se preste al público, así como limitar el derecho fundamental a la accesibilidad;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2023)</small>
+
+XXIX. Negar, obstaculizar o impedir, bajo cualquier forma, el acceso a cualquier servicio público o institución privada que se preste al público, así como limitar el derecho fundamental a la accesibilidad; así como incitar, promover o ejercer violencia física, moral o psicológica; negar, restringir o impedir el acceso a cualquier servicio al personal que integra el Sistema Estatal de Salud, así como a los integrantes de los cuerpos que prestan servicios de emergencia en funciones de auxilio.
 
 XXX. Explotar o dar un trato abusivo o degradante, con violencia física o moral por motivo de las diferencias de cualquier índole en la persona;
 
@@ -704,6 +706,14 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 22 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO No. 300.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 6, 18, 27, 55, 55 BIS Y 57 DE LA LEY ESTATAL DE PREVENCIÓN Y ELIMINACIÓN DE LA DISCRIMINACIÓN, EN MATERIA DE CULTURA Y PROMOCIÓN DE LA DENUNCIA”.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 19 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 329.- REFORMA AL ARTICULO 18 DE LA LEY ESTATAL DE PREVENCION Y ELIMINACION DE LA DISCRIMINACION VIGENTE EN EL ESTADO”.]
 
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
