@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-fiscalia-especializada-en-combate-a-la-12291
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-16"
-last_updated: "2017-07-23"
+last_updated: "2023-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE JULIO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2023.
 
 Ley publicada en el Número 57 del Periódico Oficial del Estado de Durango, el domingo 16 de julio de 2017.
 
@@ -168,6 +166,16 @@ Para el ejercicio de sus funciones el Fiscal Especializado contará con un Secre
 Para la investigación de los actos y hechos delictuosos en materia de corrupción, serán auxiliares de la Fiscalía Especializada y sus Agentes del Ministerio Público las corporaciones de seguridad pública del Estado, las de los municipios, las corporaciones de seguridad privada y las autoridades federales, locales y municipales que sean expresamente requeridas para tal efecto.
 
 Estas autoridades estarán obligadas a proporcionar el auxilio y la colaboración que requieran en la investigación y persecución de los delitos y a proporcionar acceso a los libros, documentos y registros, así como a rendir los informes que se le soliciten por escrito en un término no mayor de setenta y dos horas.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2023)</small>
+
+ARTÍCULO 7 BIS.- Sin contravención a las disposiciones en materia de medidas de atención a víctimas, ofendidos y testigos contenidas en el Código Nacional de Procedimientos Penales, la legislación de atención a víctimas, y de personas que intervienen en el procedimiento penal; y del artículo 11 y 15 fracción XI de la presente Ley, la Fiscalía Especializada en Combate a la Corrupción deberá:
+
+a) Emitir lineamientos para la prestación efectiva de las medidas de protección previstas en ley, a las personas que denuncien hechos relacionados con delitos tipificados como actos de corrupción;
+
+b) Realizar una mejora continua a los instrumentos y mecanismos que favorezcan la protección a víctimas, ofendidos, testigos y denunciantes de actos relacionados con delitos de corrupción; incluyendo la incorporación de herramientas electrónicas; y
+
+c) Implementar campañas de difusión masiva acerca de los mecanismos de protección a quienes denuncien actos relacionados con delitos tipificados como actos de corrupción, a fin de fomentar una cultura de la legalidad, que contribuya a la denuncia segura y libre de represalias, y la confianza en el sistema de combate a la corrupción.
 
 ###### ARTÍCULO 8.
 
@@ -822,3 +830,13 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANIS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 320.- ADICIONA UN ARTICULO 7 BIS A LA LEY ORGANICA DE LA FISCALIA ESPECIALIZADA EN COMBATE A LA CORRUPCION DEL ESTADO DE DURANGO".]
+
+PRIMERO. - El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. - Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
