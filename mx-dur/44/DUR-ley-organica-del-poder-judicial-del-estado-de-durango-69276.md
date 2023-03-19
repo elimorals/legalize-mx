@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2020-11-15"
+last_updated: "2023-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -747,13 +747,19 @@ XV. Participar en los cursos y seminarios que se organicen para la capacitación
 
 XVI. Fungir como jurado en los concursos de oposición cuando así lo disponga el Consejo de la Judicatura;
 
-XVII. Proponer a los servidores públicos de su adscripción como candidatos a recibir estímulos y recompensas; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+XVII. Proponer a los servidores públicos de su adscripción como candidatos a recibir estímulos y recompensas;
 
-XVIII. En el caso de acceso a la justicia para personas con discapacidad, emitir resoluciones e incluso efectuar adaptaciones de procedimiento, aplicando los ajustes razonables correspondientes, especialmente cuando se trate de casos donde se involucren indígenas, mujeres y menores de edad con discapacidad, cumpliendo con las disposiciones de la legislación competente en la materia; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2023)</small>
 
-XIX. Las demás que las leyes le señalen o le sean delegadas por los órganos superiores.
+XVIII. En el caso de acceso a la justicia para personas con discapacidad, emitir resoluciones e incluso efectuar adaptaciones de procedimiento, aplicando los ajustes razonables correspondientes, especialmente cuando se trate de casos donde se involucren indígenas, mujeres y menores de edad con discapacidad, cumpliendo con las disposiciones de la legislación competente en la materia;
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2023)</small>
+
+XIX. Dictar sentencias de lectura fácil, las cuales tendrán como objeto dar a conocer a las personas de grupos sociales en situación de vulnerabilidad la resolución que ponga fin a sus asuntos, brindando una mejor comprensión; y
+
+XX.- Las demás que las leyes le señalen o le sean delegadas por los órganos superiores.
 
 ###### ARTÍCULO 42.
 
@@ -3674,3 +3680,11 @@ SEGUNDO. El Consejo de la Judicatura del Poder Judicial del Estado de Durango, s
 TERCERO. El Tribunal de Justicia Laboral iniciaran (sic) sus operaciones de acuerdo a lo establecido en la Ley Federal del Trabajo, y a la par del centro de Conciliación del Estado de Durango.
 
 CUARTO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 19 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 322.- QUE CONTIENE REFORMA A LA FRACCIÓN III DEL ARTICULO 41 RECORRIENDO LAS DEMÁS SUBSECUENTEMENTE A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
