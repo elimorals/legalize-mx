@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2023-03-13"
+last_updated: "2023-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -19553,13 +19553,13 @@ Este servicio podrá otorgarse de manera directa o por conducto de particulares 
 
 La Dirección de Mercados, Estacionamientos y Áreas Comerciales tendrá en forma general las obligaciones del presente Código y en especial las de este capítulo.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 1362.
 
 La Dirección de Mercados, Estacionamientos y Áreas Comerciales, es la autoridad responsable del funcionamiento, vigilancia y administración de los mismos, para lo cual cuenta con las siguientes atribuciones:
 
-I. Vigilar el cumplimiento de las disposiciones de este capítulo y del Código.
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2019)</small>
+I. Vigilar el cumplimiento de las disposiciones de este capítulo y del Código
 
 II. Limitar, restringir o prohibir giros comerciales, cambios de giro o de servicios que están ubicados en lugares inadecuados o prohibidos como dentro de la Zona de Restricción Comercial dentro del Centro Histórico de la ciudad de Aguascalientes, o bien que por su naturaleza representan un riesgo para la seguridad de los locatarios y del público en general.
 
@@ -19577,9 +19577,9 @@ VIII. Otorgar licencias para uso de los locales de los mercados, así como conce
 
 IX. La donación de bienes perecederos de conformidad con lo dispuesto en el artículo 1596 del presente ordenamiento.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+X. Deberán colocar en el exterior e interior de los mercados a su adscripción un anuncio visible y legible que contenga la leyenda de: "EN ESTE ESTABLECIMIENTO NO SE DISCRIMINA EL INGRESO NI EL SERVICIO A PERSONA ALGUNA POR MOTIVOS DE SU ORIGEN ÉTNICO, NACIONALIDAD, GÉNERO, DISCAPACIDADES, CONDICIÓN SOCIAL, CONDICIÓN DE SALUD, RELIGIÓN, OPINIONES, PREFERENCIAS SEXUALES, EL ESTADO CIVIL O CUALQUIER OTRA QUE ATENTE CONTRA LA DIGNIDAD HUMANA", acompañada del número telefónico de la Comisión de Derechos Humanos del Estado de Aguascalientes.
 
-X. Deberán colocar en el exterior e interior de los mercados a su adscripción un anuncio visible y legible que contenga la leyenda de: "EN ESTE ESTABLECIMIENTO NO SE DISCRIMINA EL INGRESO NI EL SERVICIO A PERSONA ALGUNA POR MOTIVOS DE SU ORIGEN ÉTNICO, NACIONALIDAD, GÉNERO, DISCAPACIDADES, CONDICIÓN SOCIAL, CONDICION DE SALUD, RELIGIÓN, OPINIONES, PREFERENCIAS SEXUALES, EL ESTADO CIVIL O CUALQUIER OTRA QUE ATENTE CONTRA LA DIGNIDAD HUMANA", acompañada del número telefónico de la Comisión de Derechos Humanos del Estado de Aguascalientes.
+XI. Limitar, restringir o prohibir la instalación para hacer uso de cualquier tipo de gas dentro de los locales o en cualquier estructura que pertenezca a los mercados, así como la instalación de paneles solares o cualquier otro tipo de modificación, estructura o adición que, previo dictamen emitido por la Coordinación de Protección Civil, implique una carga extra a la estructura o condición que ponga en riesgo a la ciudadanía dentro de los diversos mercados públicos municipales.
 
 ###### ARTÍCULO 1363.
 
@@ -19703,6 +19703,8 @@ APARTADO ÚNICO
 
 De las Prohibiciones
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 1370.
 
 Se prohíbe a los locatarios:
@@ -19715,8 +19717,6 @@ III. Utilizar colores y símbolos nacionales en la publicidad y decoración de l
 
 IV. Permanecer en su local o lugar asignado en estado de ebriedad o bajo el efecto de sustancias psicotrópicas o narcóticos o que causen efectos similares.
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
 V. Permitir la estancia de personas que ejerzan la prostitución dentro de los mercados o personas que generen ambientes hostiles con actitudes sexuales, expresiones o lenguaje que ridiculicen, humillen, en detrimento de la seguridad de las personas.
 
 VI. Permitir o tomar parte en juegos de azar o de apuestas de cualquier tipo dentro del mercado.
@@ -19725,7 +19725,7 @@ VII. Exceder el volumen de sesenta y ocho decibeles, según la Norma Oficial Mex
 
 VIII. Adoptar actitudes obscenas o utilizar lenguaje que sea contrario a las buenas costumbres o que afecte a la moral de las personas.
 
-IX. Vender, arrendar ó prestar de cualquier forma total o parcialmente las piedras o locales.
+IX. Vender, arrendar o prestar de cualquier forma total o parcialmente las piedras o locales.
 
 X. Cambiar de giro sin la autorización expresa del departamento de mercados y ceder o traspasar piedra o local sin cumplir lo estipulado en el artículo 1368 de este Código.
 
@@ -19734,6 +19734,8 @@ XI. Vender productos explosivos, flamables o juegos pirotécnicos.
 XII. Venta de artículos prohibidos por la Ley.
 
 XIII. Expender bebidas embriagantes. No se considerarán para los efectos de ésta disposición como bebidas embriagantes el aguamiel, jerez y rompope que se utilice para preparar bebidas típicas, atendiendo los usos y la costumbre.
+
+XIV. Llevar a cabo la instalación para hacer uso de cualquier tipo de gas dentro de los locales o en cualquier estructura que pertenezca al mercado, así como la instalación de paneles solares o cualquier otro tipo de modificación o adición que, derivado del dictamen emitido por la Coordinación de Protección Civil, implique una carga extra al techo del mercado que se trate o una situación de riesgo para la ciudadanía.
 
 ### CAPÍTULO III. De las Autoridades que Reglamentan el Comercio en la Vía Pública
 
@@ -24746,3 +24748,9 @@ P.O. 13 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DE LAS “REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL, AL REGLAMENTO DE PANTEONES Y AL REGLAMENTO DE JUSTICIA CÍVICA PARA EL MUNICIPIO DE AGUASCALIENTES, A FIN DE LOGRAR SU ARMONIZACIÓN CON LA NORMATIVA EN MATERIA DE BÚSQUEDA DE PERSONAS DESAPARECIDAS O NO LOCALIZADAS”.]
 
 ÚNICO.- Las presentes reformas y adiciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA A LOS ARTÍCULOS 1362 Y 1370 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
