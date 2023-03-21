@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2023-02-14"
+last_updated: "2023-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -481,9 +481,15 @@ V.- Coordinar y operar un sistema de asesoría y acompañamiento a las escuelas 
 
 VI.- Promover la transparencia en las escuelas públicas y particulares en las que se imparta educación obligatoria, vigilando que se rinda ante toda la comunidad, después de cada ciclo escolar, un informe de sus actividades y rendición de cuentas, a cargo del director del plantel;
 
-VII.- Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas y sugerencias respecto del servicio público educativo, y
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2023)</small>
 
-VIII.- Las demás que le establezcan las disposiciones aplicables.
+VII.- Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas y sugerencias respecto del servicio público educativo;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2023)</small>
+
+VIII.- Implementar estrategias de vigilancia y seguridad dirigidas a los alumnos, docentes, personal administrativo y padres de familia, tanto en instituciones educativas públicas y privadas, incluyendo medidas interinstitucionales, con la finalidad principal de prevenir y evitar que los alumnos introduzcan objetos y sustancias nocivas que pongan en riesgo su integridad física, la del resto de los alumnos y del personal de las instancias educativas; y
+
+IX.- Las demás que le establezcan las disposiciones aplicables.
 
 #### SECCION TERCERA. ATRIBUCIONES DE LOS AYUNTAMIENTOS
 
@@ -2472,3 +2478,11 @@ P.O. 14 DE FEBRERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-547 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII Y SE ADICIONA LA FRACCIÓN VIII, RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 12 BIS, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
