@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2022-10-17"
+last_updated: "2023-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -1531,9 +1531,11 @@ Cuando la iniciativa se haya suscrito por más de un legislador, se requiere que
 
 Las adhesiones a una iniciativa procederán a petición del solicitante con consulta a quien la exponga a través de la Mesa Directiva, una vez concluida su presentación ante el pleno. Las adhesiones deberán quedar asentadas en el acta de la Sesión del Pleno Legislativo respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO , P.O. 21 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 112.
 
-Toda iniciativa que presenten los Diputados deberá contener lo siguiente:
+Toda iniciativa que presenten las Diputadas y los Diputados deberá contener lo siguiente:
 
 I. Fundamentos jurídicos en que se apoye;
 
@@ -1571,7 +1573,13 @@ h) Incisos; y
 
 i) Sub-incisos.
 
-X. En caso de puntos de acuerdo, los documentos que sean necesarios para apoyar la materia de que se trate, así como para acreditar los hechos en que se funde.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2023)</small>
+
+X. Lenguaje claro, preciso, incluyente y no sexista; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN X], P.O. 21 DE MARZO DE 2023)</small>
+
+XI. En caso de puntos de acuerdo, los documentos que sean necesarios para apoyar la materia de que se trate, así como para acreditar los hechos en que se funde.
 
 ###### ARTÍCULO 113.
 
@@ -1585,9 +1593,11 @@ Podrá dispensarse la lectura integral de una iniciativa, cuando así lo decida 
 
 Cuando la iniciativa sea presentada en el período de receso del Congreso del Estado, será leída por los Secretarios de la Mesa Directiva de la Diputación Permanente. La iniciativa será comunicada a todos los Diputados, y por acuerdo de la Mesa Directiva, se podrá dispensar la lectura de la iniciativa. En todo caso, se dará lectura a una síntesis de la misma.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 114.
 
-Las iniciativas promovidas por los Diputados, el Gobernador, el Poder Judicial o los Ayuntamientos deberán formularse documentalmente por escrito, con firma autógrafa de su promovente o promoventes y estar acompañada de una electrónica, en la que se incluyan todos los documentos que en su caso sean presentados, misma que deberá ser remitida a la Dirección General de Servicios Parlamentarios.
+Las iniciativas promovidas por las Diputadas y los Diputados, el o la titular del Poder Ejecutivo, del Poder Judicial o de los Ayuntamientos deberán formularse documentalmente por escrito con un lenguaje claro, preciso, incluyente y no sexista; con firma autógrafa de su promovente o promoventes y estar acompañada de una electrónica, en la que se incluyan todos los documentos que en su caso sean presentados, misma que deberá ser remitida a la Dirección General de Servicios Parlamentarios.
 
 ###### ARTÍCULO 115.
 
@@ -1626,6 +1636,10 @@ Las demás promociones presentadas por los Titulares de los Poderes Ejecutivo y 
 ###### ARTÍCULO 123.
 
 Ningún proyecto o proposición podrá debatirse sin que primero pase a la Comisión o comisiones correspondientes y éstas hayan dictaminado. Sólo podrá dispensarse el proceso legislativo en los asuntos que, por acuerdo expreso del Congreso del Estado, se calificaren de urgentes o de obvia resolución.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2023)</small>
+
+Todo dictamen se elaborará con perspectiva de género y estará redactado con un lenguaje claro, preciso, incluyente y no sexista.
 
 ###### ARTÍCULO 124.
 
@@ -2310,3 +2324,11 @@ P.O. 17 DE OCTUBRE DE 2022.
 ###### ARTICULO ÚNICO.
 
 La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 317.- SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
