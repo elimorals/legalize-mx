@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2023-02-01"
+last_updated: "2023-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -454,6 +454,14 @@ Los diputados electos bajo las siglas de un mismo partido, en un número de dos 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
 
 Solo podrá existir un grupo parlamentario por cada partido político con representación en el Congreso del Estado. Cuando uno o más Diputados de un mismo partido dejen de pertenecer a un grupo parlamentario, podrán integrarse a otro de diferente partido; si no lo hacen, serán considerados como Diputados sin partido.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2023)</small>
+
+Las y los Legisladores que hayan sido declarados ante el Pleno como diputados sin partido al inicio del año legislativo, podrán adherirse en cualquier momento a un grupo parlamentario. Para tal efecto, deberán informarlo por escrito al presidente de la Mesa Directiva, surtiendo sus efectos a partir de ese momento. De igual forma lo comunicarán a las y los integrantes del Grupo Parlamentario al que se pretendan adherir.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2023)</small>
+
+En su caso, la adhesión al grupo parlamentario podrá ser rechazada y quedar sin efectos, cuando la mayoría de las y los diputados integrantes del grupo parlamentario que lo conformaban de manera previa a la adhesión lo hagan del conocimiento por escrito al presidente de la Mesa Directiva, dentro de los tres días hábiles siguientes a la incorporación.
 
 Si un diputado se separa o es separado del grupo parlamentario al que pertenece, el coordinador del grupo parlamentario, enviará la propuesta de sustitución en los cargos de las comisiones o comités de los que formaba parte.
 
@@ -3326,3 +3334,13 @@ PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo del Estad
 SEGUNDA.- El presente decreto entrará en vigor en el momento de su aprobación por el pleno del Congreso del Estado de Morelos, de conformidad con lo establecido en el segundo párrafo del artículo 38 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por la presente reforma.
+
+P.O. 22 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS SESENTA Y TRES POR EL QUE SE REFORMA EL ARTÍCULO 28 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente decreto al titular del Poder Ejecutivo del Estado de Morelos, para los fines que indican los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto entrara en vigor en el momento de su aprobación por el Pleno del Congreso del Estado de Morelos, de conformidad con lo establecido en el segundo párrafo del artículo 38 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por la presente reforma.
