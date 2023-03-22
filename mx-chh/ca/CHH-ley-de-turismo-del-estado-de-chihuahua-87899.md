@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-turismo-del-estado-de-chihuahua-87899"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-19"
-last_updated: "2022-05-28"
+last_updated: "2023-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TURISMO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2023.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de mayo de 2012.
 
@@ -88,6 +88,10 @@ VIII. Programa del Ordenamiento Estatal de Turismo: Instrumento de la política 
 IX. Prestadores de Servicios Turísticos: Las personas físicas o morales que ofrezcan, proporcionen o contraten con el turista, la prestación de los servicios a que se refiere esta Ley.
 
 X. Programa Sectorial de Turismo: El establecido en la Ley General de Turismo y es el programa rector de turismo de la Federación, el cual especifica políticas, objetivos y prioridades que regirán a la actividad turística.
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2023)</small>
+
+X Bis. Pueblos Tradicionales: Programa interinstitucional de fomento y desarrollo turístico integral para Municipios o localidades del Estado de Chihuahua, el cual busca impulsar la oferta turística, fortalecer los destinos turísticos, el desarrollo de infraestructura urbana, el rescate, y mantenimiento de atractivos culturales y el desarrollo económico de aquellos lugares que cuenten con la declaratoria expedida por la persona Titular del Poder Ejecutivo del Estado.
 
 XI. Recursos Turísticos: Son todos los elementos naturales o artificiales de un lugar o región que constituyen un atractivo para la actividad turística.
 
@@ -171,9 +175,25 @@ XVI. Promover, ante las autoridades competentes, el establecimiento de programas
 
 XVII. Coordinarse con la Secretaría de Salud y la Secretaría de Hacienda del Estado de Chihuahua, así como con la iniciativa privada, a fin de elaborar las políticas públicas pertinentes para la promoción y desarrollo del Turismo Médico en la Entidad.
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MARZO DE 2023)</small>
 
-XVIII. Ejercer las demás facultades y obligaciones que le asignen otros ordenamientos jurídicos aplicables y las que le sean atribuidas por el Titular del Ejecutivo del Estado, en materia de Turismo.
+XVIII. Implementar políticas públicas que fomenten el desarrollo de la actividad turística a través de los Pueblos Tradicionales.
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2023)</small>
+
+XIX. Promover acciones para la incorporación y permanencia de las localidades de los municipios en la declaratoria de Pueblos Tradicionales.
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2023)</small>
+
+XX. Brindar capacitación, asesoría y apoyo técnico a los Pueblos Tradicionales para que conserven dicha declaratoria, así como a los Municipios o localidades que aspiren a obtenerla.
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2023)</small>
+
+XXI. Vigilar el cumplimiento de las acciones que garanticen la permanencia y el fortalecimiento de los denominados Pueblos Tradicionales.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE MARZO DE 2023)</small>
+
+XXII. Ejercer las demás facultades y obligaciones que le asignen otros ordenamientos jurídicos aplicables y las que le sean atribuidas por la persona Titular del Poder Ejecutivo del Estado, en materia de Turismo.
 
 ### CAPÍTULO III. FACULTADES CONCURRENTES DEL MUNICIPIO
 
@@ -455,9 +475,47 @@ Las rutas turísticas a que se refiere el artículo 36 Bis, tendrán el carácte
 
 Asimismo, la Secretaría instalará módulos turísticos en los que se facilite orientación, asistencia e información al público en general, sobre dichas rutas, los cuales serán ubicados en los centros de mayor afluencia turística.
 
-### CAPÍTULO VIII. DE LA PROMOCIÓN TURÍSTICA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MARZO DE 2023)</small>
 
-### CAPÍTULO IX. LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO VII TER. DEL PROGRAMA DE PUEBLOS TRADICIONALES
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2023)</small>
+
+###### Artículo 36 Quáter.
+
+Mediante declaratoria del Poder Ejecutivo, se nombrarán como Pueblos Tradicionales a aquellos Municipios o localidades del Estado que cuentan con un atractivo turístico que los hace singulares respecto de otros lugares, que han conservado y valorado su herencia natural, histórica o cultural y que cumplen con los lineamientos de incorporación y permanencia establecidos por la Secretaría, en coordinación con las Secretarías de Comunicaciones y Obras Públicas; de Cultura, y de Innovación y Desarrollo Económico.
+
+El programa se dirigirá a los municipios o localidades que cuenten con la declaratoria, mediante el otorgamiento de recursos destinados a mejorar la oferta turística, infraestructura, imagen urbana, mantenimiento y conservación de inmuebles considerados patrimonio cultural y proyectos tendientes a fomentar el desarrollo económico.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2023)</small>
+
+###### Artículo 36 Quinquies.
+
+Para obtener la declaratoria de Pueblos Tradicionales, los Municipios o localidades aspirantes deberán cumplir con los siguientes requisitos:
+
+I. Acreditar la integración formal de un Comité Pro-Pueblos Tradicionales.
+
+II. Contar con un programa municipal aprobado por la Secretaría, el cual contenga un estudio de impacto en el desarrollo turístico del Municipio o localidad aspirante.
+
+III. Contar con ordenamientos municipales vigentes enfocados al desarrollo turístico.
+
+IV. Los demás que establezca la presente Ley y las reglas de operación del programa.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2023)</small>
+
+###### Artículo 36 Sexies.
+
+Para efecto de estudio y dictaminación de las solicitudes que realicen los Municipios o localidades para obtener esta declaratoria, se crea el Comité de Pueblos Tradicionales que será presidido por la Secretaría, quien contará con el voto de calidad dentro de la decisión que se tome conjuntamente por las Secretarías de Comunicaciones y Obras Públicas; de Cultura, y de Innovación y Desarrollo Económico.
+
+Las Secretarías que conforman el Comité de Pueblos Tradicionales se harán representar por su titular o persona designada para tal efecto, contando con un voto por cada dependencia.
+
+La Declaratoria de Pueblos Tradicionales del Estado o su revocación, se hará mediante Decreto de la persona Titular del Ejecutivo, a propuesta del Comité de Pueblos Tradicionales, quien generará criterios para evaluar la pertinencia de otorgar dicha declaratoria en los términos de la Ley y una vez emitido el dictamen que sugiera otorgar la declaratoria a la que se refiere el presente Capítulo o su revocación, será comunicada a la persona titular del Poder Ejecutivo, con la intención de que acepte o rechace la propuesta.
+
+La Declaratoria deberá ser publicada en el Periódico Oficial del Estado de Chihuahua.
+
+Realizada la declaratoria, la Secretaría programará acciones de capacitación en materia de turismo, cultura, de prestación de servicios turísticos y aquellos beneficios que contemple el programa en favor del municipio o localidad.
+
+### CAPÍTULO VIII. DE LA PROMOCIÓN TURÍSTICA
 
 ###### Artículo 37.
 
@@ -477,7 +535,7 @@ La Secretaría realizará y promoverá campañas oficiales de publicidad en mate
 
 Dichas campañas, tenderán a fomentar entre los chihuahuenses una conciencia cívica de servicio, rectitud y hospitalidad para con el turista nacional y extranjero.
 
-### CAPÍTULO X. DE LA CAPACITACIÓN
+### CAPÍTULO IX. LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### Artículo 41.
 
@@ -603,7 +661,7 @@ XVII. Las demás que establezca la legislación aplicable en la materia.
 
 Queda prohibida cualquier forma de discriminación por parte de los prestadores de servicios turísticos en detrimento al turista.
 
-### CAPÍTULO XI. DEL TURISTA
+### CAPÍTULO X. DE LA CAPACITACIÓN
 
 ###### Artículo 52.
 
@@ -623,9 +681,9 @@ Con el objeto de elevar los índices de competitividad en las empresas que ofrec
 
 La Secretaría deberá participar en la elaboración de los programas de capacitación turística que realicen otras dependencias y entidades de la Administración Pública Federal, Estatal y Municipal.
 
-### CAPÍTULO XII. DE LAS VERIFICACIONES Y SANCIONES
+### CAPÍTULO XI. DEL TURISTA
 
-### CAPÍTULO XIII. DE LOS RECURSOS
+### CAPÍTULO XII. DE LAS VERIFICACIONES Y SANCIONES
 
 ###### Artículo 56.
 
@@ -654,6 +712,8 @@ Aquellos municipios considerados por la Secretaría como de Zonas de Interés y 
 ###### Artículo 58.
 
 La Secretaría, en coordinación con los municipios, habilitará mecanismos ágiles y eficientes para canalizar y dar tratamiento a las quejas y demandas que pudieran presentar los turistas de conformidad con lo dispuesto en el Reglamento de esta Ley y demás disposiciones aplicables.
+
+### CAPÍTULO XIII. DE LOS RECURSOS
 
 ###### Artículo 59.
 
@@ -812,3 +872,11 @@ Los asuntos que se encuentren en trámite a la entrada en vigor del presente Dec
 ###### ARTÍCULO OCTAVO.
 
 El Poder Ejecutivo del Estado deberá realizar las adecuaciones necesarias a los reglamentos interiores de las dependencias que modifican sus atribuciones en virtud del presente Decreto.
+
+P.O. 22 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0498/2023 IV P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
