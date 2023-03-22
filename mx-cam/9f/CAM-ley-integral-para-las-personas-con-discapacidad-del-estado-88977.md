@@ -4,7 +4,7 @@ identifier: "CAM-ley-integral-para-las-personas-con-discapacidad-del-estado-8897
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-19"
-last_updated: "2022-07-26"
+last_updated: "2023-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 19 de julio de 2012.
 
@@ -335,11 +335,11 @@ XVII. Las demás que dispongan otros ordenamientos;
 
 Queda prohibido cualquier tipo de discriminación contra las personas con discapacidad en el otorgamiento de seguros de salud o de vida.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2023)</small>
 
 ###### Artículo 13.
 
-Corresponde a la Secretaría de Desarrollo Urbano, Obras Públicas e Infraestructura:
+Corresponde a la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas:
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2020)</small>
 
@@ -349,7 +349,13 @@ II. Asegurar que la accesibilidad en la infraestructura básica, equipamiento o 
 
 III. Promover la observancia de los criterios que orienten las características constructivas que deben de cumplirse para garantizar el acceso, movilidad y uso de personas con discapacidad;
 
-IV. Impulsar, planear y operar programas de señalización, simbología, ayudas técnicas, accesos y estancias para perro guía o animal de servicios y otros apoyos para personas con discapacidad, así como la eliminación de barreras arquitectónicas; y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2023)</small>
+
+IV. Impulsar, planear y operar programas de señalización, simbología, ayudas técnicas, accesos y estancias para perro guía o animal de servicios y otros apoyos para personas con discapacidad, así como la eliminación de barreras arquitectónicas;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2023)</small>
+
+IV Bis. Fomentar el establecimiento de parques inclusivos, así como de la infraestructura inclusiva de los existentes, para garantizar el derecho a la recreación y al juego de las niñas y niños con discapacidad;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2020)</small>
 
@@ -874,3 +880,13 @@ P.O. 26 DE JULIO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 22 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 208 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO Y LA FRACCIÓN IV Y SE ADICIONA UNA FRACCIÓN IV BIS AL ARTÍCULO 13 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Las acciones de fomento a que se refiere este decreto se realizarán de manera gradual. Para tal efecto, la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas de la administración pública estatal deberá considerar las previsiones presupuestales y financieras que resulten necesarias para la debida implementación del presente decreto.
+
+Artículo Tercero. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
