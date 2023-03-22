@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-instituto-morelense-para-el-138759"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-07-24"
-last_updated: "2019-07-24"
+last_updated: "2023-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO MORELENSE PARA EL FINANCIAMIENTO DEL SECTOR PRODUCTIVO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO MORELENSE PARA EL FINANCIAMIENTO DEL SECTOR PRODUCTIVO, PUBLICADO EN EL P.O. DE 22 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO MORELENSE PARA EL FINANCIAMIENTO DEL SECTOR PRODUCTIVO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 24 de julio de 2019.
 
@@ -512,3 +514,17 @@ ENRIQUE IRAGORRI DURÁN
 RÚBRICAS.
 
 LA PRESENTE HOJA DE FIRMAS ES PARTE INTEGRANTE DEL CÓDIGO DE CONDUCTA DEL INSTITUTO MORELENSE PARA EL FINANCIAMIENTO DEL SECTOR PRODUCTIVO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL INSTITUTO MORELENSE PARA EL FINANCIAMIENTO DEL SECTOR PRODUCTIVO”.]
+
+PRIMERA. El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de (sic) Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Código de Conducta del Instituto Morelense para el Financiamiento del Sector Productivo, publicado en el Periódico Oficial “Tierra y Libertad”, número 5729, el 24 de julio de 2019, y se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Código de Conducta.
+
+TERCERA. El presente instrumento deberá difundirse también en el portal oficial de Fondo Morelos, así como se le notificará de su publicación a todo el personal.
+
+CUARTA. Se instruye a la Dirección de Administración de Fondo Morelos a dar a conocer al personal, así como al personal de nuevo ingreso, la existencia y contenido del presente Código de Conducta, debiendo resguardar las cartas compromiso.
