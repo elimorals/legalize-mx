@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2023-02-07"
+last_updated: "2023-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -491,7 +491,9 @@ Los diputados que decidan no pertenecer a un grupo parlamentario, fracción parl
 
 1. La Junta de Coordinación Política se integra con los coordinadores de cada grupo parlamentario, con los representantes de las fracciones parlamentarias, así como de los titulares de las representaciones partidistas.
 
-2. Será Presidente de la Junta por la duración de la Legislatura, el Coordinador del Grupo Parlamentario del partido político que haya obtenido más votos en el Estado, en la elección correspondiente a la Legislatura en turno.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2023)</small>
+
+2. Será Presidente de la Junta por la duración de la Legislatura, el Coordinador del Grupo Parlamentario del partido político que haya obtenido el mayor número de votos en el Estado, en la elección correspondiente a la Legislatura en turno.
 
 ###### ARTICULO 30.
 
@@ -503,7 +505,9 @@ Los diputados que decidan no pertenecer a un grupo parlamentario, fracción parl
 
 ###### ARTICULO 31.
 
-1. La Junta de Coordinación Política es el órgano de dirección política del Poder Legislativo y la expresión de la pluralidad del Congreso.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2023)</small>
+
+1. La Junta de Coordinación Política, acorde a lo dispuesto en la Constitución Política del Estado de Tamaulipas, es el órgano de dirección política del Poder Legislativo y la expresión de la pluralidad del Congreso.
 
 2. En la Junta de Coordinación Política se impulsan entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios para alcanzar acuerdos, a fin de que el Pleno esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
 
@@ -3828,3 +3832,11 @@ C) Plazos para alcanzar los objetivos de disminución del uso de papel en el Con
 D) Definición de herramientas tecnológicas para alcanzar los objetivos de disminución de uso de papel en el Congreso del Estado.
 
 E) Herramientas para evaluar el cumplimiento de plazos y metas en la disminución del uso de papel en el Congreso del Estado.
+
+P.O. 22 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-549 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
