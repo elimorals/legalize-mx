@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2023-03-09"
+last_updated: "2023-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -193,9 +193,9 @@ XXII.- Promover en el educando el conocimiento integral de su medio físico inme
 
 XXIII.- Fomentar actitudes de aprecio al estudio, al trabajo y a la vida;
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2023)</small>
 
-XXIV.- Fomentar la educación para una sexualidad responsable;
+XXIV.- Fomentar la educación para una sexualidad responsable, la planeación familiar, la maternidad y la paternidad responsable, la previsión de los embarazos adolescentes y las infecciones de transmisión sexual; la prevención de adicciones y la erradicación de la violencia familiar;
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2012)</small>
 
@@ -244,6 +244,10 @@ XXXV.- Contribuir a la construcción de una cultura de la salud física y mental
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2023)</small>
 
 XXXVI.- Impulsar programas e implementar acciones que favorezcan la prevención de enfermedades mentales, o bien que éstas sean detectadas para su atención oportuna en coordinación con las autoridades del sector salud y con el núcleo familiar de los educandos.
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2023)</small>
+
+XXXVII.- Impulsar y propiciar esquemas de revalorización de residuos, reciclaje, eco–técnicas, permacultura y huertos urbanos, con el fin de inculcar una cultura de economía circular la cual generará herramientas para incentivar el acceso al bienestar y medio ambiente sano de los alumnos.
 
 ### CAPITULO III. AMBITO DE APLICACION
 
@@ -703,9 +707,9 @@ IX.- Apoyar a los educandos de bajo rendimiento escolar, con problemas familiare
 
 X.- Promover campañas permanentes de orientación para el cuidado y protección de la salud y medio ambiente, prevención de enfermedades y mejoramiento comunitario.
 
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2023)</small>
 
-X Bis.- Promover programas que fortalezcan la educación ambiental para la sustentabilidad que integre el conocimiento de los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate del cambio climático, así como la generación de conciencia para la valoración del manejo, conservación y aprovechamiento de los recursos naturales que garanticen la participación social en la protección ambiental;
+X Bis.- Promover programas que fortalezcan la educación ambiental para la sustentabilidad que integre el conocimiento de los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate del cambio climático, así como la generación de conciencia para la valoración del manejo, conservación y aprovechamiento de los recursos naturales que garanticen la participación social en la protección ambiental, en coordinación con los padres y madres o tutores y las asociaciones de padres y madres de familia;
 
 XI.- Promover la educación para padres de los alumnos del nivel básico.
 
@@ -1534,6 +1538,14 @@ SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opo
 P.O. 9 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 201 POR EL QUE “SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 11 Y SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 22-4 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 22 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 207 POR EL QUE "SE REFORMA LA FRACCIÓN XXIV Y SE ADICIONA UNA FRACCIÓN XXXVII AL ARTÍCULO 11 Y SE REFORMA LA FRACCIÓN X BIS DEL ARTÍCULO 22-4 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE".]
 
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
