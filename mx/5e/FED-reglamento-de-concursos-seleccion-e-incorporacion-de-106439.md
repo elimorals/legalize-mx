@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-concursos-seleccion-e-incorporacion-de-106439"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-03-10"
-last_updated: "2015-03-10"
+last_updated: "2023-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106439&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-02-17"
 ---
 # REGLAMENTO DE CONCURSOS, SELECCION E INCORPORACION DE PERSONAL Y CARRERA JURISDICCIONAL EN LOS TRIBUNALES AGRARIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO 5/2023 POR EL QUE SE APRUEBA EL REGLAMENTO DE CONCURSOS, SELECCIÓN, E INCORPORACIÓN DE PERSONAL DE CARRERA JURISDICCIONAL EN LOS TRIBUNALES AGRARIOS, PUBLICADO EN EL D.O.F. DE 23 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE CONCURSOS, SELECCIÓN E INCORPORACIÓN DE PERSONAL Y CARRERA JURISDICCIONAL EN LOS TRIBUNALES AGRARIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MARZO DE 2023 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 10 de marzo de 2015.
 
@@ -272,3 +274,17 @@ TERCERO.- Quienes al momento de la publicación del presente Reglamento ocupen l
 Así por mayoría de tres votos, lo aprobó el Pleno del Tribunal Superior Agrario, en sesión del día diecisiete de febrero de dos mil quince, firman los Magistrados Numerarios Licenciados Luis Ángel López Escutia, Maribel Concepción Méndez de Lara, así como la Magistrada Supernumeraria Licenciada Carmen Laura López Almaraz, quien suple la ausencia permanente de Magistrado Numerario, ante el Secretario General de Acuerdos, quien autoriza y da fe.
 
 El Magistrado Presidente, Luis Ángel López Escutia.- Rúbrica.- Las Magistradas: Maribel Concepción Méndez de Lara, Carmen Laura López Almaraz.- Rúbricas.- El Secretario General de Acuerdos, Jesús Anlén López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 23 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO 5/2023 POR EL QUE SE APRUEBA EL REGLAMENTO DE CONCURSOS, SELECCIÓN, E INCORPORACIÓN DE PERSONAL DE CARRERA JURISDICCIONAL EN LOS TRIBUNALES AGRARIOS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La incorporación de las plazas del Tribunal Superior Agrario, consideradas dentro de las categorías de la carrera jurisdiccional agraria, se dará cada vez que se genere una vacante.
+
+TERCERO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Boletín Judicial Agrario, así como en la página web de los Tribunales Agrarios
+
+CUARTO. Se abroga el Acuerdo General por el que se aprobó el Reglamento de Concursos, Selección e Incorporación de Personal de Carrera Jurisdiccional en los Tribunales Agrarios. publicado en el Diario Oficial de la Federación el 10 de marzo de 2015.
