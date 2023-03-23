@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2021-11-23"
+last_updated: "2023-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, miércoles 4 de mayo de 2016.
 
@@ -353,7 +353,9 @@ XL. Versión Pública: Documento o expediente en el que se da acceso a informaci
 
 El derecho de acceso a la información pública se interpretará conforme al texto y al espíritu de las disposiciones contenidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla, la Declaración Universal de los Derechos Humanos, el Pacto Internacional de Derechos Civiles y Políticos, la Convención Americana sobre Derechos Humanos, y demás instrumentos internacionales suscritos y ratificados por el Estado Mexicano, así como a las resoluciones y sentencias vinculantes que emitan los órganos nacionales e internacionales especializados, favoreciendo en todo tiempo a las personas la protección más amplia.
 
-Para el caso de la interpretación, se podrá tomar en cuenta los criterios, determinaciones y opiniones de los organismos nacionales e internacionales, en materia de transparencia, y en apego a los principios establecidos en esta Ley.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2023)</small>
+
+Para el caso de la interpretación, se podrá tomar en cuenta los criterios, determinaciones y opiniones de los organismos internacionales, nacionales y locales en materia de transparencia y de derechos humanos, en apego a los principios establecidos en esta Ley.
 
 ###### ARTÍCULO 9.
 
@@ -769,7 +771,9 @@ El Instituto de Transparencia será presidido por una persona Comisionada, quien
 
 El Instituto de Transparencia tendrá, en el ámbito de su competencia, las siguientes atribuciones:
 
-I. Interpretar los ordenamientos que les resulten aplicables y que deriven de esta Ley y de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2023)</small>
+
+I. Interpretar los ordenamientos que les resulten aplicables y que deriven de esta Ley y de la Constitución Política de los Estados Unidos Mexicanos, solicitando, en su caso, el auxilio de los organismos garantes de los derechos humanos;
 
 II. Vigilar el cumplimiento de esta Ley, su Reglamento y demás disposiciones aplicables;
 
@@ -825,7 +829,9 @@ XXIII. Suscribir convenios con los sujetos obligados que propicien la publicaci�
 
 XXIV. Suscribir convenios de colaboración con particulares o sectores de la sociedad cuando sus actividades o productos resulten de interés público o relevancia social;
 
-XXV. Suscribir convenios de colaboración con otros Organismos garantes para el cumplimiento de sus atribuciones y promover mejores prácticas en la materia;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2023)</small>
+
+XXV. Suscribir convenios de colaboración con otros Organismos garantes, así como con los órganos protectores de derechos humanos, para el cumplimiento de sus atribuciones y promover mejores prácticas en la materia;
 
 XXVI. Promover la igualdad sustantiva;
 
@@ -2053,7 +2059,9 @@ Cuando concluya el periodo de reserva o hayan desaparecido las causas que le die
 
 No podrá invocarse el carácter de reservado cuando:
 
-I. Se trate de violaciones graves de derechos humanos o delitos de lesa humanidad, o
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2023)</small>
+
+I. Se trate de violaciones graves de derechos humanos o delitos de lesa humanidad, en cuyo caso y ante duda, podrá solicitarse criterio o interpretación de la Comisión Nacional de Derechos Humanos, o
 
 II. Se trate de información relacionada con actos de corrupción de acuerdo con las leyes aplicables.
 
@@ -2856,6 +2864,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 68 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 8, LAS FRACCIONES I Y XXV DEL 39, Y LA FRACCIÓN I DEL 133 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA.”]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
