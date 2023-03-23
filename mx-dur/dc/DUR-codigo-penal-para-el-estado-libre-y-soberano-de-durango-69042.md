@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2023-03-19"
+last_updated: "2023-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -2540,6 +2540,22 @@ Se sancionará con pena de uno a cuatro años de prisión y multa de setenta y d
 ###### Artículo 190 Ter.
 
 A los parientes del menor de quince años, por consanguinidad, ascendientes o colaterales, hasta el segundo grado que involucren al menor en actividad que resulte peligrosa para su salud, su seguridad o moralidad, o que afecte el ejercicio de sus derechos se les impondrá de primera vez trabajo en favor de la comunidad en los términos del artículo 39 de éste Código, y si la conducta es reiterada se impondrá pena de 1 a 3 años de prisión y multa de setenta y dos a doscientas ochenta y ocho veces la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2023)</small>
+
+Artículo 190 Cuar (sic). Al que por cualquier medio administre, induzca u obtenga un beneficio económico, a través de la explotación laboral de una persona menor de edad, o mayor de sesenta años, poniéndole a trabajar en las calles, avenidas, ejes viales, espacios públicos, recintos privados o cualquier vía de circulación, se le impondrá de tres a seis años de prisión y de trescientas a quinientas veces la Unidad de Medida y Actualización. También se le condenará al pago de la retribución omitida o despojada, la cual deberá fijarse con base en la naturaleza y condiciones de las actividades laborales desarrolladas por el sujeto pasivo; pero en ningún caso podrá ser menor al salario mínimo general vigente.
+
+Se entiende por explotación laboral, la acción de despojar o retener, todo o en parte, el producto del trabajo, contra la voluntad de quien labora.
+
+Cuando se despoje o retenga del producto del trabajo aun con su consentimiento a menores de 16 años se aplicará la pena señalada en el párrafo primero de este artículo.
+
+Las penas de prisión y multa, previstas en el párrafo inicial de este precepto, se incrementarán en una mitad, cuando la conducta se realice respecto de dos o más sujetos pasivos, o cuando se emplee la violencia física o moral, o cuando cometan el delito conjuntamente tres o más personas.
+
+(NOTA: EL 15 DE FEBRERO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 103/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 24 DE MARZO DE 2023, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 332, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2023)</small>
+
+Artículo 190 Quin (sic). Cuando el responsable tenga parentesco, conviva o habite ocasional o permanentemente en el mismo espacio o domicilio con la víctima, o se trate de tutor o curador, se le impondrán las mismas sanciones que se establecen en el artículo anterior, pero además perderá la patria potestad Y CUALQUIER DERECHO QUE PUDIESE TENER sobre la víctima, así mismo la autoridad judicial que conozca del asunto pondrá a éste a disposición y cuidado de la autoridad correspondiente en la materia.
 
 ### CAPÍTULO V. EXPOSICIÓN DE INCAPACES O MENORES DE EDAD
 
@@ -6938,3 +6954,11 @@ P.O. 19 DE MARZO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente decreto.
+
+P.O. 23 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 332.- QUE CONTIENE ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
