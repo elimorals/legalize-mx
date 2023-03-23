@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-centro-estatal-de-mediacion-del-estado-de-puebla-97474"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-30"
-last_updated: "2021-02-26"
+last_updated: "2023-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DEL CENTRO ESTATAL DE MEDIACION DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADA EN EL P.O. DE 23 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL CENTRO ESTATAL DE MEDIACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023 (ABROGADO).
 
 Ley publicada en la Trigésima Octava Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2013.
 
@@ -554,3 +556,17 @@ P.O. 26 DE FEBRERO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se abroga la Ley del Centro Estatal de Mediación del Estado de Puebla, publicada en el Periódico Oficial del Estado el treinta de diciembre de dos mil trece.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las referencias que se hagan en todas las disposiciones, al Centro Estatal de Mediación, se entenderán hechas al Centro de Justicia Alternativa.
+
+QUINTO. Los procedimientos que se encuentren en trámite, a la entrada en vigor del presente Decreto, continuarán su desarrollo conforme a la legislación aplicable al momento en que se iniciaron.
