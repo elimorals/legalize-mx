@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-victimas-del-estado-de-durango-125581"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-28"
-last_updated: "2019-12-29"
+last_updated: "2023-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE VÍCTIMAS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de diciembre de 2017.
 
@@ -1229,6 +1229,12 @@ El Comisionado Ejecutivo Estatal dictará las medidas necesarias para la integra
 
 Los integrantes del Sistema estarán obligados a compartir la información en materia de víctimas que obren en sus bases de datos con el Registro Estatal de Víctimas.
 
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2023)</small>
+
+###### Artículo 61 Bis.
+
+Respecto de las víctimas que sean niñas, niños y/o adolescentes y hayan quedado en situación de orfandad como consecuencia de la comisión del delito de homicidio o feminicidio, se realizará la categorización correspondiente en el Registro Estatal de Víctimas.
+
 ###### Artículo 62.
 
 El Registro Estatal recabará e integrará su información entre otras, por las siguientes fuentes, siempre que cumplan con los requisitos contemplados en esta Ley y la Ley General:
@@ -1936,3 +1942,11 @@ P.O. 29 DE DICIEMBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 333.- QUE CONTIENE ADICIONES A LA LEY DE VICTIMAS DEL ESTADO DE DURANGO".]
+
+PRIMERO. - El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. - Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto
