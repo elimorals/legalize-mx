@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2022-05-04"
+last_updated: "2023-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -109,9 +109,15 @@ IV.- Cumplir con las comisiones que su superior jerárquico les confiera;
 
 V.- Diligenciar o mandar diligenciar exhortos, despachos y requisitorias procedentes de las demás autoridades del Estado o de fuera de él, si estuvieran ajustados a derecho, en la forma y términos que prevea la ley procesal respectiva;
 
-VI.- Proporcionar a las autoridades competentes los informes que éstas pidan cuando así proceda conforme a la ley; y,
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2023)</small>
 
-VII.- Las demás que las leyes les confieran.
+VI.- Proporcionar a las autoridades competentes los informes que éstas pidan cuando así proceda conforme a la ley;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2023)</small>
+
+VII.- Juzgar con perspectiva de discapacidad; y
+
+VIII.- Las demás que las leyes les confieran.
 
 ###### ARTICULO 5º.
 
@@ -4402,3 +4408,11 @@ P.O. 4 DE MAYO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-551 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XXVII BIS Y XXX; Y SE ADICIONA UNA FRACCIÓN XXVI BIS, AL ARTÍCULO 3 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS; SE REFORMA LA FRACCIÓN VI; Y SE ADICIONA LA FRACCIÓN VII, RECORRIÉNDOSE LA SUBSECUENTE, DEL ARTÍCULO 4° DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO".]
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
