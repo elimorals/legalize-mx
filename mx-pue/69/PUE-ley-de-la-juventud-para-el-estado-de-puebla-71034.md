@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-juventud-para-el-estado-de-puebla-71034"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-09"
-last_updated: "2023-03-16"
+last_updated: "2023-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de noviembre de 2009.
 
@@ -221,11 +221,11 @@ Las Dependencias y Entidades de los Gobiernos Estatal y Municipales adoptarán l
 
 Los Gobiernos Estatal y Municipales adoptarán medidas específicas de prevención y protección a favor de las personas jóvenes en relación con su integridad personal y seguridad física y mental, así como contra la tortura y los tratos crueles, inhumanos y degradantes.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2023)</small>
 
 ###### Artículo 12.
 
-Los Gobiernos Estatal y Municipales establecerán políticas públicas para promover la recuperación física y psicológica, así como la reintegración social de toda persona joven que haya sido víctima de violencia, acoso escolar, delito contra la intimidad sexual, ciberacoso, explotación, abuso emocional, físico, sexual, secuestro, uso de drogas, enervantes, psicotrópicos, y cualquier otra que lesione o dañe su integridad o libertad.
+Los Gobiernos Estatal y municipales establecerán políticas públicas para promover la recuperación física y psicológica, así como la reintegración social y la rehabilitación de toda persona joven que haya sido víctima de violencia, acoso escolar, delito contra la intimidad sexual, ciberacoso, explotación, abuso emocional, físico, sexual, secuestro, consumo problemático de alcohol, tabaco y/o sustancias psicoactivas o cualquier otra que lesione o dañe su integridad o libertad.
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2022)</small>
 
@@ -381,11 +381,13 @@ Los Gobiernos Estatal y Municipales tomarán medidas para el acceso masivo de la
 
 #### SECCIÓN TERCERA. DERECHO A LA SALUD
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2023)</small>
 
 ###### Artículo 32.
 
-Los Gobiernos Estatal y Municipales reconocen el derecho de toda personas (sic) joven a una salud integral y de calidad que incluye la atención primaria gratuita, la educación preventiva, la nutrición, la prestación de servicios y cuidado especializado de la salud juvenil, la promoción de la salud sexual y reproductiva, la investigación de los problemas de salud que se presentan en la edad juvenil, la información, prevención y tratamiento contra el alcoholismo, el tabaquismo y el uso indebido de drogas.
+Los Gobierno (sic) Estatal y Municipales reconocen el derecho de toda persona joven a una salud integral y de calidad que incluye la atención primaria gratuita, la educación preventiva, la nutrición, la prestación de servicios y cuidado especializado de la salud física y mental juvenil, la promoción de la salud sexual y reproductiva y la investigación de los problemas de salud que se presentan en la edad juvenil.
+
+Asimismo, elaborarán e implementarán acciones destinadas a informar, orientar y prevenir el consumo de alcohol, tabaco y/o cualquier uso de sustancias psicoactivas priorizando a los sectores de grupos vulnerables y de riesgo.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
 
@@ -611,7 +613,7 @@ III.- En materia de las personas jóvenes trabajadores en situación de desventa
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
 
-IV.- La promoción de la cultura emprendedora en la juventud mediante acciones que impulsen la constitución de primeras empresas y su consolidación, así como impulsar la creación de instancias de financiamiento para el desarrollo de proyectos productivos individuales o colectivos de la juventud estudiantil;
+IV. La promoción de la cultura emprendedora en la juventud mediante acciones que impulsen la constitución de primeras empresas y su consolidación, así como impulsar la creación de instancias de financiamiento para el desarrollo de proyectos productivos individuales o colectivos de la juventud estudiantil;
 
 V.- Procurar que el trabajo no limite o afecte en su salud, educación y recreación;
 
@@ -635,9 +637,9 @@ II.- Proporcionar la asistencia e información profesional de manera eficiente, 
 
 III.- Prevenir, sancionar y erradicar cualquier tipo y modalidad de violencia psicológica o moral, garantizando la atención especializada a las víctimas de la violencia; y
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2023)</small>
 
-IV.- Ampliar la cobertura de los servicios de salud primarios gratuitos, la atención y cuidado de la salud juvenil y la información, prevención y tratamiento contra el alcoholismo, el tabaquismo y el uso de drogas.
+IV.- Ampliar la cobertura de los servicios de salud primarios gratuitos, la atención y cuidado de la salud física y mental juvenil, así como informar, orientar y prevenir el consumo de alcohol, tabaco y/o cualquier sustancia psicoactiva, priorizando a los sectores de grupos vulnerables y de riesgo.
 
 ### CAPÍTULO TERCERO. DEL PLAN ESTRATÉGICO PARA EL DESARROLLO DE LAS JUVENTUDES
 
@@ -1030,6 +1032,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 16 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 58 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 12, EL 32 Y LA FRACCIÓN IV DEL 59, DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
