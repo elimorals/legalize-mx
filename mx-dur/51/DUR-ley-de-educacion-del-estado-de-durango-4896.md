@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2022-06-16"
+last_updated: "2023-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -719,9 +719,21 @@ LIV.- Coordinarse con las autoridades sanitarias a efecto de establecer y difund
 
 Así como la instalación de comités escolares de salud e higiene, integrados por personal de la institución, padres de familia y alumnos, que tendrán por objeto formular los planes de implementación y seguimiento de los protocolos y prevención de la salud que establezcan las autoridades.
 
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2023)</small>
 
-ARTICULO 21 BIS.- Con el fin de prevenir la posesión de armas, estupefacientes, o demás sustancias similares u objetos prohibidos que pongan en riesgo la integridad física de los alumnos y maestros que laboran al interior de los centros educativos, la Secretaria de Educación en conjunto con la mesa directiva de los padres de familia correspondiente, bajo los lineamientos que apruebe el Consejo Estatal para Prevenir y Combatir la Violencia en la Escuela, podrán suscribir convenios para llevar a cabo la práctica de supervisiones periódicas a las pertenencias de los estudiantes de educación básica, estas se llevaran a cabo detalladamente en presencia de los alumnos sujetos a revisión, previo al acceso y dentro del centro escolar que corresponda. Lo anterior como una medida preventiva de seguridad a favor de la comunidad escolar. En todo caso, deberá existir la coordinación necesaria que favorezca el respeto a los derechos humanos, mediante la intervención del organismo protector estatal.
+ARTICULO 21 BIS. La Secretaría de Educación tendrá la facultad para promover un programa orientado a la revisión de las mochilas de los estudiantes, con la intención de prevenir y evitar que los alumnos introduzcan a las escuelas, armas, estupefacientes, o demás sustancias similares u objetos prohibidos que pongan en riesgo la integridad física de los alumnos y maestros.
+
+Dicho programa deberá realizarse de la siguiente manera:
+
+I. Se enviará a los padres o tutores y a los estudiantes un mensaje con la explicación breve de en qué consistirá el programa y quienes participarán.
+
+II. Deberá Justificarse bajo sospecha de duda razonable de peligro o de la probable comisión de un delito, además de que de implementarse se deberá tomar en cuenta la edad y el género.
+
+III. Estudiantes, y padres de familia manifestarán de forma expresa, libre e informada su consentimiento o no consentimiento.
+
+IV. Se formará un Comité de Padres de familia y un Comité de niñas, niños o adolescentes según sea el caso, quiénes estarán encargados de ejecutar la revisión.
+
+Podrá intervenir en su caso la policía en un esquema de proximidad social, respeto y convivencia, de igual forma podrá participar la Secretaría de Salud particularmente en las áreas de salud mental y adicciones, siempre favoreciendo en todo momento el respeto a los derechos humanos de las niñas, niños y adolescentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -1510,6 +1522,12 @@ Las autoridades educativas desarrollaran programas para el rescate, conocimiento
 La autoridad educativa alentará la pluriculturalidad, mediante el establecimiento de la Academia de las Lenguas y de Estudios Históricos de las Culturas Indígenas del Estado de Durango, integrando a la misma, a miembros originarios de las comunidades indígenas de las diferentes etnias, los integrantes de la misma tendrán carácter de honorarios.
 
 Además de ello fomentara la elaboración y difusión de libros y materiales didácticos escritos en las lenguas indígenas del estado o bilingües.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2023)</small>
+
+###### ARTICULO 102 Quater.
+
+Las autoridades estatales y municipales promoverán y fomentarán el uso de la vestimenta tradicional de los pueblos y comunidades indígenas en las instituciones educativas de la entidad.
 
 #### Sección 7. De la Educación Especial
 
@@ -3182,3 +3200,19 @@ P.O. 16 DE JUNIO DE 2022.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
+
+P.O. 23 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 330.- POR EL QUE SE REFORMA EL ARTICULO 21 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se contravengan al contenido del presente decreto.
+
+P.O. 23 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 331.- POR EL QUE SE ADICIONA EL ARTÍCULO 102 QUATER DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
