@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2023-03-08"
+last_updated: "2023-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -441,17 +441,25 @@ III.- Diseñar programas que brinden servicios integrales especializados para v�
 
 IV.- Difundir y dar seguimiento a la observancia del Código de Ética de los Servidores Públicos.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2023)</small>
 
-ARTÍCULO 16 BIS.- Con el propósito de erradicar el hostigamiento y acoso, el Estado y los municipios, dentro de su ámbito de competencia, deberán implementar las siguientes acciones:
+ARTÍCULO 16 BIS.- Con el propósito de erradicar el ciberacoso, hostigamiento y acoso sexual, el Estado y los municipios, dentro de su ámbito de competencia, deberán implementar las siguientes acciones:
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 I.- Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida;
 
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 II.- Establecer mecanismos que favorezcan su erradicación en escuelas y centros laborales públicos y privados, mediante los acuerdos y convenios correspondientes;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 III.- Crear los procedimientos administrativos para la denuncia de estos ilícitos en los centros laborales y escuelas, sin que se haga público, en ningún caso, el nombre de la víctima o denunciante y evitar cualquier tipo de sobre victimización o que la víctima o denunciante sea boletinada o presionada para abandonar el lugar de trabajo o escuela; asimismo, se deberán establecer sanciones administrativas para los superiores jerárquicos del hostigador o acosador, cuando sean omisos en recibir o dar curso a una denuncia, y
 
-IV.- Proporcionar atención psicológica y legal, especializada y gratuita, a quien sea víctima de hostigamiento o acoso sexual.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2023)</small>
+
+IV.- Proporcionar atención psicológica y legal, especializada y gratuita, a quien sea víctima de ciberacoso, hostigamiento o acoso sexual.
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
@@ -2170,5 +2178,13 @@ P.O. 8 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XIV Y XV DEL ARTÍCULO 5, LA FRACCIÓN VII DEL ARTÍCULO 6, Y ADICIONA LAS FRACCIONES XVI Y XVII AL ARTÍCULO 5, Y LAS FRACCIONES X BIS, XIV BIS Y XIV TER AL ARTÍCULO 6, TODOS DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN IV DEL ARTÍCULO 16 BIS DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
