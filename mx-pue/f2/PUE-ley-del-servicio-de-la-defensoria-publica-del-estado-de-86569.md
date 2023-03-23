@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-servicio-de-la-defensoria-publica-del-estado-de-86569"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-16"
-last_updated: "2022-04-08"
+last_updated: "2023-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DEL SERVICIO DE LA DEFENSORIA PUBLICA DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 23 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL SERVICIO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023 (ABROGADO).
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 16 de diciembre de 2011.
 
@@ -624,3 +626,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La implementación de los servicios relacionados con las acciones que se deban llevar a cabo para dar cumplimiento al presente Decreto, se realizará de manera gradual y atendiendo a la suficiencia presupuestaria.
+
+P.O. DE 23 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley del Servicio de la Defensoría Pública del Estado de Puebla.
+
+TERCERO. Las personas servidoras públicas integrantes del Instituto seguirán actuando y mantendrán sus condiciones laborales y administrativas hasta en tanto no se emita el Reglamento respectivo.
+
+CUARTO. El Consejo de la Judicatura del Estado deberá fijar a la brevedad posible los lineamientos para la transferencia de los recursos humanos, financieros, materiales y de los asuntos, expedientes y archivos al Poder Judicial del Estado a través de la unidad correspondiente.
