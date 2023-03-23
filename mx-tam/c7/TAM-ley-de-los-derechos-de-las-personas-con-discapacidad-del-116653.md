@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-con-discapacidad-del-116653
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-27"
-last_updated: "2023-02-22"
+last_updated: "2023-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023.
 
 Ley publicada en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -127,19 +127,23 @@ XXV.- Modelo Social: Conjunto de principios, fundamentos, directrices y concepto
 
 XXVI.- Persona con Discapacidad: Toda persona que por razón congénita o adquirida, presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal, que le limitan la capacidad de realizar una o más actividades de la vida diaria, y que sea agravada por el entorno social y puede impedir su inclusión plena y efectiva en igualdad de condiciones con los demás;
 
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2023)</small>
+
+XXVI BIS.- Perspectiva de Discapacidad: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las personas con discapacidad, que se pretende justificar con base en las diferencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal, así como las acciones que deben emprenderse para actuar sobre la igualdad e inclusión y, crear las condiciones de cambio que permitan la integración y desarrollo de las personas con discapacidad en la sociedad;
+
 XXVII.- Perro Guía: Son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2023)</small>
 
-XXVII BIS.- Playas inclusivas: Son aquellas playas para uso recreativo con señaléticas accesibles y certificadas como playas limpias sustentables, y que cuentan con distintivo Bandera Azul, y que permiten garantizar espacios adaptados para las personas con discapacidad y adultas mayores con movilidad reducida.
+XXVII BIS.- Playas inclusivas: Son aquellas playas para uso recreativo con señaléticas accesibles y certificadas como playas limpias sustentables, y que cuentan con distintivo Bandera Azul, y que permiten garantizar espacios adaptados para las personas con discapacidad y adultas mayores con movilidad reducida;
 
 XXVIII.- Prevención: La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales o a evitar que las deficiencias ya producidas tengan mayores consecuencias negativas;
 
 XXIX.- Política Pública: Son todos aquellos planes, programas o acciones de gobierno con objetivos de interés público que surgen de decisiones sustentadas en procesos de diagnóstico y análisis de factibilidad, para la atención efectiva de problemas públicos específicos, en donde participa la ciudadanía en la definición de problemas y soluciones;
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2023)</small>
 
-XXX.- Programa Anual: Constituye un marco de referencia en torno al cual debe desarrollarse la estrategia de atención integral a favor de las personas con discapacidad. Representa la expresión lógica de la planeación y tiene como propósito establecer anticipada, racional y ordenadamente los proyectos y acciones a realizar en beneficio de la población objetivo.
+XXX.- Programa Anual: Constituye un marco de referencia en torno al cual debe desarrollarse la estrategia de atención integral a favor de las personas con discapacidad. Representa la expresión lógica de la planeación y tiene como propósito establecer anticipada, racional y ordenadamente los proyectos y acciones a realizar en beneficio de la población objetivo;
 
 > <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
@@ -1474,3 +1478,11 @@ P.O. 22 DE FEBRERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MARZO DE 2023.
+
+[TRANSITORIO DEL ”DECRETO NO. 65-551 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XXVII BIS Y XXX; Y SE ADICIONA UNA FRACCIÓN XXVI BIS, AL ARTÍCULO 3 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS; SE REFORMA LA FRACCIÓN VI; Y SE ADICIONA LA FRACCIÓN VII, RECORRIÉNDOSE LA SUBSECUENTE, DEL ARTÍCULO 4° DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO.]
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
