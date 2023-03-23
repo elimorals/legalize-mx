@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2022-10-30"
+last_updated: "2023-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -469,6 +469,10 @@ X.- Expedir cartas de origen, atendiendo a las prevenciones de esta Ley así com
 
 XI. La promoción, difusión y efectiva implementación de la perspectiva de género en los procesos de planeación, programación, elaboración de presupuestos, diseño de acciones y políticas públicas y evaluación de la administración pública municipal.
 
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2023)</small>
+
+XII. Autorizar al presidente o presidenta municipal para que suscriba, en caso de considerarlo adecuado, convenios de colaboración con el Instituto de Evaluación de Políticas Públicas, en materia de evaluaciones del desempeño municipal en su política pública de desarrollo social, que orienten al gobierno municipal para mejorar sus acciones y estrategias.
+
 C). EN MATERIA DE HACIENDA PÚBLICA MUNICIPAL:
 
 I. Aprobar su iniciativa de Ley de Ingresos para el ejercicio fiscal que corresponda y remitirla al Congreso del Estado a más tardar el día último del mes de octubre del año respectivo.
@@ -571,27 +575,39 @@ Al instalarse el nuevo Ayuntamiento, en un término no mayor de treinta días, e
 
 ### Capítulo IV. Del Funcionamiento del Ayuntamiento
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2023)</small>
+
 ###### Artículo 35.
 
-En la atención y resolución de los asuntos que le corresponde, el Ayuntamiento celebrará las sesiones de la siguiente manera:
+En la atención y resolución de los asuntos que le corresponde, el Ayuntamiento celebrará las sesiones de la siguiente manera: cuando menos una vez por semana, en los municipios de Durango, Gómez Palacio, Lerdo; cuando menos dos vez (sic) al mes en los municipios de Canatlán, Cuencamé, Guadalupe Victoria, Mapimí, Mezquital, Nombre de Dios, Poanas, Pueblo Nuevo, Santiago Papasquiaro, Nuevo Ideal, Nazas, San Juan del Río, Pánuco de Coronado, Tamazula, Tlahualilo, y Vicente Guerrero; y cuando menos una vez al mes en los municipios de Canelas, Coneto de Comonfort, El Oro, Guanaceví, Hidalgo, Indé, Ocampo, Otáez, Peñón Blanco, Rodeo, San Bernardo, San Dimas, San Juan de Guadalupe, San Pedro del Gallo, San Luis de Cordero, Santa Clara, Simón Bolívar, Súchil, Tepehuanes y Topia. El día y la hora de las sesiones ordinarias serán señalados por acuerdo del Ayuntamiento.
 
-I. Ordinarias:
+Las sesiones podrán ser ordinarias, extraordinarias o solemnes.
 
-Las que obligatoriamente deberán llevarse a cabo, cuando menos una vez por semana, en los municipios de Durango, Gómez Palacio, Lerdo; una vez cada 15 días en los municipios de Canatlán, Cuencamé, Guadalupe Victoria, Mapimí, Mezquital, Nombre de Dios, Poanas, Pueblo Nuevo, Santiago Papasquiaro, Nuevo Ideal, Nazas, San Juan del Río, Pánuco de Coronado, Tamazula, Tlahualilo, y Vicente Guerrero; y cuando menos una vez cada tres semanas en los municipios de Canelas, Coneto de Comonfort, El Oro, Guanaceví, Hidalgo, Indé, Ocampo, Otáez, Peñón Blanco, Rodeo, San Bernardo, San Dimas, San Juan de Guadalupe, San Pedro del Gallo, San Luis del Cordero, Santa Clara, Simón Bolívar, Súchil, Tepehuanes y Topia. El día y la hora de las sesiones serán señalados por el Presidente Municipal.
+I. Ordinarias: Las sesiones ordinarias, a fin de garantizar el desahogo de los asuntos generales y la participación ciudadana deberán llevarse a cabo, según lo establecido en el primer párrafo de este artículo.
 
-II. Extraordinarias:
+II. Extraordinarias: Se realizarán cuantas veces sean necesarias para resolver situaciones de urgencia. En cada sesión extraordinaria sólo se tratarán los asuntos que motivaron la sesión.
 
-Las que se realizarán cuantas veces sean necesarias para resolver situaciones de urgencia. En cada sesión extraordinaria sólo se tratará el asunto que motivó la sesión.
-
-III. Solemnes:
-
-Las que se realicen cuando se trate de una ceremonia especial.
+III. Solemnes: Las que se realicen cuando se trate de una ceremonia especial.
 
 ###### Artículo 36.
 
 Para que las sesiones ordinarias a que se refiere la fracción I del artículo anterior sean válidas, se requiere que los integrantes de los ayuntamientos sean citados por escrito o en otra forma indubitable, con un mínimo de 48 horas de anticipación para los municipios considerados en el primer caso, y de 72 horas como mínimo para los restantes dos casos, además de que deberá existir el quórum legal.
 
 En caso de que el Presidente o el Secretario, no convoquen a las sesiones a que se refiere el párrafo anterior, sin que exista causa justificada, se procederá de conformidad con lo que dispone el Título Tercero de la Ley de Responsabilidades de los Servidores Públicos del Estado y sus Municipios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2023)</small>
+
+Para que las sesiones extraordinarias que se refiere la fracción II del artículo anterior sean válidas, se requiere que los integrantes del ayuntamiento sean citados por escrito o en otra forma indubitable, en cualquier momento y las veces que sea necesario, pudiendo incluso sesionar de manera sucesiva, además de que deberá existir el quórum legal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2023)</small>
+
+Para que las sesiones solemnes que se refiere la fracción III del artículo anterior sean válidas, se requiere que los integrantes de los ayuntamientos sean citados por escrito o en otra forma indubitable, con un mínimo de 48 horas de anticipación, además de que deberá existir el quórum legal.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2023)</small>
+
+###### Artículo 36 Bis.
+
+En caso de que el Presidente o el Secretario, no convoquen a las sesiones a que se refiere el artículo 35, sin que exista causa justificada, se procederá de conformidad con lo que dispone la Ley de Responsabilidades de los Servidores Públicos del Estado y sus Municipios en materia de juicio político, declaración de procedencia y el ejercicio de facultades legislativas en materia de enjuiciamiento por responsabilidades públicas.
 
 ###### Artículo 37.
 
@@ -2185,6 +2201,14 @@ Los planes municipales de desarrollo de los municipios del Estado de Durango deb
 
 Para la elaboración de los Planes Municipales de Desarrollo, los Ayuntamientos deberán organizar consultas públicas con el propósito de que la población formule opiniones para la elaboración, reajuste y cumplimiento de los Planes.
 
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2023)</small>
+
+###### Artículo 208 Bis.
+
+Los municipios fomentarán el uso de la bicicleta.
+
+Cuando los municipios contemplen la construcción de ciclovías deberán atender los elementos técnicos y los criterios de seguridad a los que se refiere la normatividad municipal respectiva.
+
 ###### Artículo 209.
 
 El plan de cada municipio precisará los objetivos, estrategias y prioridades del desarrollo municipal; contendrá prevenciones sobre los recursos que serán asignados a tales fines y establecerá los instrumentos, unidades administrativas y responsables de su ejecución. Sus previsiones se referirán al conjunto de las actividades económicas y sociales de los programas que se derivan del plan.
@@ -2638,3 +2662,27 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se deroga el artículo 7 de la Ley Orgánica del Municipio Libre del Estado de Durango y demás disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 335.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 35 Y 36 Y SE ADICIONA UN ARTÍCULO 36 BIS A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 23 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 336.- POR LA (SIC) QUE SE ADICIONA UNA FRACCIÓN AL APARTADO B DEL ARTÍCULO 33 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente decreto.
+
+P.O. 23 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 337.- POR LA (SIC) QUE SE ADICIONA UN ARTICULO 208 BIS A LA LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO".]
+
+PRIMERO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. - Se derogan todas las disposiciones que contravengan al presente decreto.
