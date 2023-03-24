@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2022-03-28"
+last_updated: "2023-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2023.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -537,9 +537,19 @@ XIII.- Percibir una remuneración que se denominará dieta, así como las demás
 
 XIV.- Asistir a los seminarios o cursos de actualización y especialización organizados por el Congreso del Estado que redunden en beneficio de la práctica legislativa;
 
-XV.- Solicitar licencia a la Legislatura; y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2023)</small>
 
-XVI.- Los demás que le confieran la Constitución Política del Estado Libre y Soberano de Puebla, las leyes y disposiciones reglamentarias aplicables.
+XV.- Solicitar licencia a la Legislatura;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2023)</small>
+
+XVI.- Solicitar a las autoridades estatales y municipales la información y documentación que sea necesaria para la elaboración de iniciativas o el debido desempeño de sus funciones legislativas, solicitud que debe ser respondida en el término de quince días hábiles.
+
+Para el caso de que las autoridades no proporcionen la información y documentación requerida, las y los diputados podrán, de manera fundada y motivada, solicitar al Presidente de la Mesa Directiva o de la Comisión Permanente para que promueva las acciones que considere convenientes, informándolas a los Órganos respectivos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE MARZO DE 2023)</small>
+
+XVII.- Los demás que le confieran la Constitución Política del Estado Libre y Soberano de Puebla, las leyes y disposiciones reglamentarias aplicables.
 
 ### CAPÍTULO IV. DE LA SUSPENSIÓN Y PÉRDIDA DE LA CONDICIÓN DE DIPUTADO
 
@@ -3008,3 +3018,11 @@ CUARTO. Los asuntos presentados, turnados o que se encuentran en trámite en la 
 QUINTO. Todos los actos legales o administrativos suscritos por la Comisión de Pueblos Indígenas y por su Presidente a la entrada en vigor del presente Decreto, así como sus efectos, se entenderán referidos a la Comisión de Pueblos, Comunidades Indígenas y Afromexicanas.
 
 SEXTO. Las referencias que cualquier ordenamiento haga a la Comisión de Pueblos Indígenas, se entenderán aplicables a la Comisión de Pueblos, Comunidades Indígenas y Afromexicanas.
+
+P.O. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XV Y XVI DEL ARTÍCULO 44, Y ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 44 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA."]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
