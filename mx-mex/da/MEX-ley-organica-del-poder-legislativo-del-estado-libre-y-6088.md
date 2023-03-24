@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2023-02-17"
+last_updated: "2023-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE MARZO DE 2023.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -394,6 +394,22 @@ Artículo 38 TER.- La Legislatura y sus órganos, en el ejercicio de sus funcion
 Para este propósito se guiarán por los principios de transparencia y acceso a la información, rendición de cuentas, evaluación legislativa, participación ciudadana y uso de las tecnologías de la información y comunicación. Las Diputadas y los Diputados fomentarán agendas de apertura e interacción con la sociedad.
 
 Con el objeto de promover una democracia participativa, la Legislatura, de conformidad con sus atribuciones, impulsará la aplicación de los principios de Parlamento Abierto en el ámbito estatal y municipal.
+
+> <small>(ADICIONADO, G.G. 24 DE MARZO DE 2023)</small>
+
+Para favorecer dichos preceptos, la Legislatura podrá extender invitaciones a la sociedad en general para participar en foros, presenciales o en modalidad virtual. El resultado de dichos foros se hará público y del conocimiento de las Diputadas y los Diputados, quienes podrán considerarlos para la generación de trabajos parlamentarios.
+
+> <small>(ADICIONADO, G.G. 24 DE MARZO DE 2023)</small>
+
+La Legislatura brindará una adecuada difusión de la celebración de los foros de Parlamento Abierto, por medio de la Página Electrónica del Poder Legislativo del Estado de México y de las demás plataformas tecnológicas.
+
+> <small>(ADICIONADO, G.G. 24 DE MARZO DE 2023)</small>
+
+Para tales efectos se habilitará por medio de la Página Electrónica del Poder Legislativo del Estado de México, un mecanismo para que la sociedad civil pueda hacer llegar de manera colaborativa sus opiniones, comentarios y sugerencias.
+
+> <small>(ADICIONADO, G.G. 24 DE MARZO DE 2023)</small>
+
+De la misma forma, se dispondrá de una plataforma que permita a la ciudadanía, acceder a los estudios e investigaciones que los legisladores tengan a su disposición, para que estos puedan ser consultados, contrastados y enriquecidos. Además, se realizarán trabajos e intercambios de información con la comunidad académica y sociedad civil en general.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G 11 DE NOVIEMBRE DE 2022)</small>
 
@@ -823,13 +839,17 @@ XVIII.- Poder otorgar de manera anual, en representación de la Legislatura, dur
 
 Cuando se considere que sea digno de reconocerse en el mismo año en que ya se hubiese otorgado dicho galardón, la Junta de Coordinación Política, mediante acuerdo, podrá entregar de manera excepcional la Orden Mexiquense de la Medalla de Honor "José María Luis Mora".
 
+> <small>(ADICIONADA, G.G. 24 DE MARZO DE 2023)</small>
+
+XIX. En representación de la Legislatura entregar y reconocer con base a la propuesta del acuerdo de la Comisión Legislativa competente, el Pergamino y la Medalla al Reconocimiento Docente, durante la tercera semana del mes de mayo de cada año a las maestras y los maestros que destaquen por su compromiso social a través de actividades relevantes que representen el enaltecimiento de la educación en el Estado de México, asimismo el otorgamiento de estímulos económicos.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XIX. Validar el registro de la Firma Electrónica de las diputadas y diputados;
+XX. Validar el registro de la Firma Electrónica de las diputadas y diputados;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XX. Las demás que le confieran la Ley, el reglamento o la asamblea.
+XXI. Las demás que le confieran la Ley, el reglamento o la asamblea.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -2628,3 +2648,27 @@ G.G. 17 DE FEBRERO DE 2023.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 145.- POR EL QUE SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO, SEXTO Y SÉPTIMO AL ARTÍCULO 38 TER DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 147.- POR EL QUE SE CREA EL PERGAMINO Y LA MEDALLA AL RECONOCIMIENTO DOCENTE EN EL CONGRESO DEL ESTADO DE MÉXICO, SE ADICIONA LA FRACCIÓN XIX RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 62 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y SE REFORMAN LOS ARTÍCULOS 182, 183, 184 Y 185; SE ADICIONA EL INCISO C) RECORRIÉNDOSE EL SUBSECUENTE DE LA FRACCIÓN VI DEL ARTÍCULO 13 A Y EL CAPÍTULO XVI DENOMINADO "DEL PERGAMINO Y DE LA MEDALLA AL RECONOCIMIENTO DOCENTE", CON LOS ARTÍCULOS 182, 183, 184 Y 185 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+La entrega de los estímulos correspondientes, estará sujeta a contar con la suficiencia presupuestal respectiva, así como atenderá a los criterios que en su momento emita la Junta de Coordinación Política de la Legislatura del Estado de México.
