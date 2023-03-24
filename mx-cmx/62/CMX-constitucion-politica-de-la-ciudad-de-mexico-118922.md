@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2022-11-30"
+last_updated: "2023-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE MARZO DE 2023.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -465,6 +465,14 @@ Toda persona tiene derecho al cuidado que sustente su vida y le otorgue los elem
 C. Derecho a la alimentación y a la nutrición
 
 1. Toda persona tiene derecho a una alimentación adecuada, nutritiva, diaria, suficiente y de calidad con alimentos inocuos, saludables, accesibles, asequibles y culturalmente aceptables que le permitan gozar del más alto nivel de desarrollo humano posible y la protejan contra el hambre, la malnutrición y la desnutrición.
+
+> <small>(ADICIONADO, G.O. 24 DE MARZO DE 2023)</small>
+
+La lactancia materna forma parte integral del derecho a la alimentación y a la nutrición. Constituye un derecho de la niñez al ser un medio idóneo que le asegura una adecuada nutrición, al tiempo que favorece su crecimiento y desarrollo físico, cognitivo y emocional, previniendo enfermedades; además, permite a las madres ejercer su derecho a la salud y a decidir sobre su cuerpo.
+
+> <small>(ADICIONADO, G.O. 24 DE MARZO DE 2023)</small>
+
+Las autoridades fomentarán de forma progresiva y armónica el ejercicio de este derecho.
 
 2. Las autoridades, de manera progresiva, fomentarán la disponibilidad, distribución, abastecimiento equitativo y oportuno de alimentos nutritivos y de calidad; promoverán la seguridad y sustentabilidad alimentarias; y garantizarán el acceso a este derecho dando prioridad a las personas en pobreza y a las demás que determine la ley.
 
@@ -4373,3 +4381,11 @@ PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno de la Ciudad de
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 9, APARTADO C, NUMERAL 1 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al momento de su publicación.
