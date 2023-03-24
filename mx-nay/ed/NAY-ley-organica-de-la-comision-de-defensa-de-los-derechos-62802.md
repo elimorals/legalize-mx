@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-comision-de-defensa-de-los-derechos-62802"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-08-16"
-last_updated: "2022-06-13"
+last_updated: "2023-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2023.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -957,11 +957,31 @@ La Comisión contará con un Órgano Interno de Control a cargo de promover, eva
 
 En su desempeño el Órgano Interno de Control se sujetará a los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos.
 
-El titular del Órgano Interno de Control de la Comisión será designado por el Congreso, en la forma y términos que determine la Ley Orgánica del Poder Legislativo del Estado de Nayarit. Durará seis años en el cargo y podrá ser reelecto por una sola vez.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2023)</small>
+
+El titular del Órgano Interno de Control de la Comisión será designado por el Congreso, a través del procedimiento que determina la Ley Orgánica del Poder Legislativo del Estado de Nayarit. Durará seis años en el cargo y podrá ser reelecto por una sola vez.
 
 El Órgano Interno de Control contará con los recursos presupuestales necesarios para el debido cumplimiento de sus atribuciones.
 
 Estará adscrito administrativamente a la Comisión y mantendrá la coordinación técnica para el cumplimiento de sus funciones con el Sistema Local Anticorrupción.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 24 DE MARZO DE 2023)</small>
+
+Para ser titular del Órgano Interno de Control deberá cumplir con los siguientes requisitos de elegibilidad:
+
+I.- Ciudadanía mexicana, en pleno goce de sus derechos;
+
+II.- Tener residencia efectiva en el Estado de Nayarit de un año previo al día de su designación;
+
+III.- Contar con título y cédula profesional en áreas contables, económico-administrativas, jurídicas o financieras, cuando menos con tres años de antigüedad, expedido por autoridad o institución legalmente facultada para ello;
+
+IV.- Gozar de buena reputación y no estar inhabilitado para ocupar un empleo, cargo o comisión en el servicio público;
+
+V.- Contar cuando menos con tres años de experiencia en materia de fiscalización, rendición de cuentas, control interno, contabilidad o auditoría gubernamental, responsabilidades administrativas o adquisiciones, arrendamientos y servicios del sector público;
+
+VI.- No ser o haber sido dirigente de partido político nacional, estatal o municipal en el año inmediato anterior a su designación, y
+
+VII.- No haber ejercido ministerio de algún culto religioso, en los tres años anteriores a su designación.
 
 > <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
 
@@ -1664,3 +1684,9 @@ P.O. 13 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Se establece un periodo de dieciocho meses, contados a partir de la entrada en vigor del presente Decreto, para que se implementen de ser el caso, las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación de las políticas y acciones establecidas en el presente Decreto.
+
+P.O. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 62 BIS DE LA LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
