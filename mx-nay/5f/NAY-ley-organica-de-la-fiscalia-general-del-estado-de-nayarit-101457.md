@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-fiscalia-general-del-estado-de-nayarit-10145
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-05-15"
-last_updated: "2022-10-18"
+last_updated: "2023-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el jueves 15 de mayo de 2014.
 
@@ -1771,6 +1771,24 @@ En su desempeño el Órgano Interno de Control se sujetará a los principios de 
 
 A efecto de designar al titular del Órgano Interno de Control, el (sic) Fiscalía General propondrá una terna al Congreso del Estado para que el Pleno decida lo conducente, en términos de la legislación interna, lo anterior será dentro de los diez días siguientes a la falta de éste. El titular del Órgano Interno de Control durará seis años en el cargo y podrá ser reelecto por una sola vez, conforme a la legislación de la materia.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 24 DE MARZO DE 2023)</small>
+
+Para ser titular del Órgano Interno de Control deberá cumplir con los siguientes requisitos de elegibilidad:
+
+I.- Ciudadanía mexicana, en pleno goce de sus derechos;
+
+II.- Tener residencia efectiva en el Estado de Nayarit de un año previo al día de su designación;
+
+III.- Contar con título y cédula profesional en áreas contables, económico-administrativas, jurídicas o financieras, cuando menos con tres años de antigüedad, expedido por autoridad o institución legalmente facultada para ello;
+
+IV.- Gozar de buena reputación y no estar inhabilitado para ocupar un empleo, cargo o comisión en el servicio público;
+
+V.- Contar cuando menos con tres años de experiencia en materia de fiscalización, rendición de cuentas, control interno, contabilidad o auditoría gubernamental, responsabilidades administrativas o adquisiciones, arrendamientos y servicios del sector público;
+
+VI.- No ser o haber sido dirigente de partido político nacional, estatal o municipal en el año inmediato anterior a su designación, y
+
+VII.- No haber ejercido ministerio de algún culto religioso, en los tres años anteriores a su designación.
+
 > <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
 
 El Órgano Interno de Control contará con los recursos presupuestales necesarios para el debido cumplimiento de sus atribuciones.
@@ -2092,3 +2110,9 @@ QUINTO. Aquellos documentos físicos y/o electrónicos en materia de inteligenci
 Lo anterior se realizará mediante convenio de coordinación entre las áreas correspondientes en un plazo que no exceda de sesenta días hábiles posteriores a la entrada en vigor del presente Decreto.
 
 SEXTO. Se derogan todas aquellas disposiciones que se contrapongan a lo establecido en el presente Decreto.
+
+P.O. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL ARTÍCULO 97 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
