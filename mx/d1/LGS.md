@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2022-05-16"
+last_updated: "2023-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2023.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -4501,6 +4501,14 @@ La Secretaría de Salud, con base en la composición de los alimentos y bebidas,
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 Los alimentos o bebidas que se pretendan expender o suministrar al público en presentaciones que sugieran al consumidor que se trate de productos o substancias con características o propiedades terapéuticas, deberán en las etiquetas de los empaques o envases incluir la siguiente leyenda: “Este producto no es un medicamento”, escrito con letra fácilmente legible y en colores contrastantes.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2023)</small>
+
+ARTICULO 216 BIS.- Los aceites y grasas comestibles, así como los alimentos y bebidas no alcohólicas, no podrán contener en su presentación para venta al público aceites parcialmente hidrogenados, conocidos como grasas trans, que hayan sido añadidos durante su proceso de elaboración industrial.
+
+Los alimentos, bebidas no alcohólicas, aceites y grasas no podrán exceder dos partes de ácidos grasos trans de producción industrial por cada cien partes del total de ácidos grasos.
+
+La Secretaría de Salud establecerá las bases de regulación para los ácidos grasos trans de producción industrial en los términos de este precepto.
 
 ### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
 
@@ -9645,3 +9653,11 @@ Segundo. Para la ejecución y cumplimiento de las disposiciones contenidas en el
 Tercero. El Ejecutivo Federal tendrá un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto para emitir las disposiciones reglamentarias que permitan proveer en la esfera administrativa lo previsto en el presente Decreto y actualizar las ya existentes con el fin de su armonización incluidas las normas oficiales mexicanas en la materia.
 
 Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, y en caso de que se realice alguna modificación a la estructura orgánica de los mismos, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
+
+D.O.F. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 216 BIS A LA LEY GENERAL DE SALUD”.]
+
+Primero.- El presente Decreto entrará en vigor a los 180 días de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal adecuará los reglamentos y acuerdos que permita proveer en la esfera administrativa lo previsto en el presente Decreto.
