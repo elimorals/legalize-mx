@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2023-02-27"
+last_updated: "2023-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "1999-12-31"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL
+LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE MARZO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -46,9 +46,9 @@ LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, I LEGISLATURA
 
 DECRETA
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE MARZO DE 2023)</small>
 
-LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL
+LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN LA CIUDAD DE MÉXICO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -424,7 +424,9 @@ PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL Y RIESGO: La persona física o mor
 
 PREVENCIÓN: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-PROCURADURÍA: La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
+> <small>(REFORMADO, G.O24 DE MARZO DE 2023)</small>
+
+PROCURADURÍA: La Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México;
 
 > <small>(ADICIONADO, G.O. 3 DE MAYO DE 2011)</small>
 
@@ -506,27 +508,39 @@ ZONAS DE RECARGA DE MANTOS ACUÍFEROS: Las zonas en predios no construidos que p
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES AMBIENTALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 6°.
 
-Son autoridades en materia ambiental en el Distrito Federal:
+Son autoridades en materia ambiental en la Ciudad de México:
 
-I. El Jefe de Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE MARZO DE 2023)</small>
 
-II. El Titular de la Secretaría del Medio Ambiente;
+I. La persona titular de la Jefatura de Gobierno;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.O. 24 DE MARZO DE 2023)</small>
 
-III. Secretaría de Ciencia, Tecnología e Innovación;
+II. La persona titular de la Secretaría del Medio Ambiente;
 
-IV. Los Jefes Delegacionales del Distrito Federal; y
+> <small>(REFORMADA, G.O. 24 DE MARZO DE 2023)</small>
 
-V. La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal.
+III. La persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación;
+
+> <small>(REFORMADA, G.O. 24 DE MARZO DE 2023)</small>
+
+IV. Las personas titulares de las Alcaldías; y
+
+> <small>(REFORMADA, G.O. 24 DE MARZO DE 2023)</small>
+
+V. La persona titular de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México.
 
 Para efectos de lo dispuesto en la fracción III, en cada órgano político administrativo existirá una unidad administrativa encargada del área ambiental y de aplicar las disposiciones que esta Ley le señalan como de su competencia.
 
 La administración pública local será la encargada de formular la política de desarrollo sustentable para el Distrito Federal así como de realizar las acciones necesarias para proteger y restaurar el ambiente y los elementos naturales en forma coordinada, concertada y corresponsable con la sociedad en general, así como con las dependencias federales competentes.
 
-La Ley Orgánica de la Administración Pública del Distrito Federal y su Reglamento, establecerán el sistema de delegación de facultades.
+> <small>(REFORMADO, G.O. 24 DE MARZO DE 2023)</small>
+
+La Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México y su Reglamento, establecerán el sistema de delegación de facultades.
 
 > <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
 
@@ -830,15 +844,19 @@ XII. Formular, ejecutar y evaluar el programa ambiental delegacional, bajo los o
 
 XIII. Proponer a la Secretaría las modificaciones en el Programa General de Ordenamiento Ecológico del Distrito Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 11.
 
-Se establecerá la Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal, para la protección, defensa y restauración del medio ambiente y del desarrollo urbano; así como para instaurar mecanismos, instancias y procedimientos administrativos que procuren el cumplimiento de tales fines, en los términos de las disposiciones de la presente Ley y de la Ley de Desarrollo Urbano del Distrito Federal.
+Se establecerá la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México, para la protección, defensa y restauración del medio ambiente y del desarrollo urbano; así como para instaurar mecanismos, instancias y procedimientos administrativos que procuren el cumplimiento de tales fines, en los términos de las disposiciones de la presente Ley y de la Ley de Desarrollo Urbano del Distrito Federal.
 
 La Ley Orgánica respectiva, dispondrá las atribuciones y estructura de dicha Procuraduría.
 
+> <small>(REFORMADO, G.O. 24 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 12.
 
-La Procuraduría estará a cargo de un Procurador, que será nombrado por el Jefe de Gobierno del Distrito Federal y ratificado por la Asamblea Legislativa del Distrito Federal por mayoría calificada de votos. Durará en su encargo tres años y podrá ser ratificado por un período adicional.
+La Procuraduría estará a cargo de una o un Procurador, que será nombrado por la persona titular de la Jefatura de Gobierno y ratificado por el Congreso de la Ciudad de México por mayoría calificada de votos. Durará en su encargo cuatro años y podrá ser ratificado por un período adicional.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
@@ -4997,3 +5015,11 @@ QUINTO. A partir de la publicación del presente Decreto, la Secretaría contar�
 SEXTO. Las referencias hechas a la Licencia Ambiental Única en esta Ley, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, se entenderán como Manifestación Ambiental Única.
 
 SÉPTIMO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+G.O. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE SE (SIC) MODIFICA LA DENOMINACIÓN DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL Y CON ELLO SE MODIFICA EL SEPTUAGÉSIMO SÉPTIMO PÁRRAFO DEL ARTÍCULO 5; LOS ARTÍCULOS 6, 11 PRIMER PÁRRAFO Y 12 TODOS DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
