@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2023-01-20"
+last_updated: "2023-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -1286,6 +1286,10 @@ La asegurada tendrá derecho durante el embarazo y el puerperio a un subsidio en
 
 En los casos en que la fecha fijada por los médicos del Instituto no concuerde exactamente con la del parto, deberán cubrirse a la asegurada los subsidios correspondientes por cuarenta y dos días posteriores al mismo, sin importar que el período anterior al parto se haya excedido. Los días en que se haya prolongado el período anterior al parto, se pagarán como continuación de incapacidades originadas por enfermedad. El subsidio se pagará por períodos vencidos que no excederán de una semana.
 
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2023)</small>
+
+El subsidio en dinero a que se refiere el presente artículo, a solicitud expresa de la asegurada que se encuentre certificada de su estado de embarazo por el Instituto, con atención médica institucional o externa, se pagará mediante la emisión de un certificado único de incapacidad por ochenta y cuatro días, el cual deberá ser entregado en una sola exhibición, desde el inicio de la incapacidad.
+
 ###### Artículo 102.
 
 Para que la asegurada tenga derecho al subsidio que se señala en el artículo anterior, se requiere:
@@ -1297,6 +1301,16 @@ II. Que se haya certificado por el Instituto el embarazo y la fecha probable del
 III. Que no ejecute trabajo alguno mediante retribución durante los períodos anteriores y posteriores al parto.
 
 Si la asegurada estuviera percibiendo otro subsidio, se cancelará el que sea por menor cantidad.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2023)</small>
+
+###### Artículo 102 Bis.
+
+A solicitud expresa de la asegurada, con la previa autorización escrita del médico del Instituto o, en su caso, del médico externo que lleve el control y vigilancia prenatal, y tomando en cuenta la opinión del patrón y la naturaleza del trabajo que desempeñe, se podrán transferir hasta cuatro de las seis semanas de descanso previas al parto para después del mismo.
+
+En caso de que se presente autorización de médicos particulares, ésta deberá contener el nombre y número de cédula profesional de quien los expida, la fecha y el estado médico de la trabajadora.
+
+Las disposiciones reglamentarias establecerán el procedimiento.
 
 ###### Artículo 103.
 
@@ -1564,9 +1578,9 @@ No se tendrá derecho a la pensión de viudez que establece el artículo anterio
 
 I. Cuando la muerte del asegurado acaeciera antes de cumplir seis meses de matrimonio;
 
-II. Cuando hubiese contraído matrimonio con el asegurado después de haber cumplido éste los cincuenta y cinco años de edad, a menos que a la fecha de la muerte haya transcurrido un año desde la celebración del enlace, y
+II. (DEROGADA, D.O.F. 24 DE MARZO DE 2023)
 
-III. Cuando al contraer matrimonio el asegurado recibía una pensión de invalidez, vejez o cesantía en edad avanzada, a menos de que a la fecha de la muerte haya transcurrido un año desde la celebración del matrimonio.
+III. (DEROGADA, D.O.F. 24 DE MARZO DE 2023)
 
 Las limitaciones que establece este Artículo no regirán cuando al morir el asegurado o pensionado la viuda compruebe haber tenido hijos con él.
 
@@ -4773,3 +4787,17 @@ Primero. El presente Decreto entrará en vigor seis meses después de su publica
 Segundo. El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, adecuarán las disposiciones reglamentarias, normativas, administrativas y demás disposiciones de su régimen interno que correspondan, conforme al presente Decreto, dentro de los 180 días naturales siguientes a su entrada en vigor.
 
 Tercero. Se autoriza al Instituto Mexicano del Seguro Social y al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a solicitar los recursos financieros necesarios que garanticen el cumplimiento del presente Decreto.
+
+D.O.F. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 101 Y 102 BIS A LA LEY DEL SEGURO SOCIAL".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGAN LAS FRACCIONES II Y III DEL ARTÍCULO 132 DE LA LEY DEL SEGURO SOCIAL, Y LAS FRACCIONES II Y III DEL ARTÍCULO 136 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado deberán tomar en cuenta el presente Decreto, para que sea considerado en el presupuesto de egresos del año próximo inmediato.
