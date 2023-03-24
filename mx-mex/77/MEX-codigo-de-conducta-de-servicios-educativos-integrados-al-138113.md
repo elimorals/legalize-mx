@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-servicios-educativos-integrados-al-138113
 country: "mx"
 rank: "codigo"
 publication_date: "2019-09-05"
-last_updated: "2019-09-05"
+last_updated: "2023-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 24 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE MARZO DE 2023 (ABROGADO).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 5 de septiembre de 2019.
 
@@ -444,3 +446,15 @@ Gerardo Monroy Serrano
 (Rúbrica).
 
 > <small>[N. DE E. VÉASE OFICIOS ANEXOS EN LA G.G. DE 5 DE SEPTIEMBRE DE 2019, PÁGINA 76.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MÉXICO".]
+
+Primero: Publíquese el presente ordenamiento en el Periódico oficial "Gaceta del Gobierno".
+
+Segundo: El presente acuerdo entra en vigor al día hábil siguiente de su publicación en el Periódico oficial "Gaceta del Gobierno".
+
+Tercero: Se abroga el Código de Conducta de SEIEM, publicado el pasado 5 de septiembre de 2019.
