@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2023-01-20"
+last_updated: "2023-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
@@ -114,9 +114,17 @@ a) Programas y servicios de apoyo para la adquisición de productos básicos y d
 
 b) Servicios turísticos;
 
-c) Servicios funerarios, y
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2023)</small>
 
-d) Servicios de atención para el bienestar y desarrollo infantil;
+c) Servicios funerarios;
+
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2023)</small>
+
+d) Servicios de atención para el bienestar y desarrollo infantil, y
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2023)</small>
+
+e) Casas de día para adultos mayores jubilados y pensionados derechohabientes del Instituto;
 
 IV. Servicios culturales, consistentes en:
 
@@ -180,7 +188,7 @@ Los familiares que se mencionan en esta fracción tendrán el derecho que esta L
 
 1) Que el Trabajador o el Pensionado tenga derecho a los seguros, prestaciones y servicios señalados en esta Ley, y
 
-2) Que dichos familiares no tengan por sí mismos derechos propios a los seguros, prestaciones y servicios previstos en esta Ley, o a otros similares en materia de servicios de salud, otorgados por cualquier otro instituto de seguridad social;
+2) (DEROGADO, D.O.F. 24 DE MARZO DE 2023)
 
 XIII. Fondo, los recursos en efectivo o en especie que se integran, invierten y administran para garantizar los seguros, prestaciones y servicios a cargo del Instituto y respaldar sus Reservas;
 
@@ -1534,9 +1542,9 @@ No tendrá derecho a Pensión la o el cónyuge, o quienes hayan suscrito unión 
 
 I. Cuando la muerte de la o el Trabajador o de la o el Pensionado acaeciera antes de cumplir seis meses de matrimonio o de haber suscrito una unión civil;
 
-II. Cuando hubiese contraído matrimonio o suscrito una unión civil con la o el Trabajador después de haber cumplido éstos los cincuenta y cinco años de edad, a menos que a la fecha de la muerte haya transcurrido un año desde la celebración del matrimonio o unión civil, y
+II. (DEROGADA, D.O.F. 24 DE MARZO DE 2023)
 
-III. Cuando al contraer matrimonio o suscribir una unión civil, la o el Pensionado recibía una Pensión de riesgos del trabajo o invalidez, a menos de que a la fecha de la muerte haya transcurrido un año desde la celebración del matrimonio o la unión civil.
+III. (DEROGADA, D.O.F. 24 DE MARZO DE 2023)
 
 Las limitaciones que establece este artículo no regirán cuando al morir la o el Trabajador o la o el Pensionado, la o el cónyuge o quien haya suscrito una unión civil y le sobreviva compruebe tener hijos con ella o él.
 
@@ -3329,3 +3337,27 @@ Primero. El presente Decreto entrará en vigor seis meses después de su publica
 Segundo. El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, adecuarán las disposiciones reglamentarias, normativas, administrativas y demás disposiciones de su régimen interno que correspondan, conforme al presente Decreto, dentro de los 180 días naturales siguientes a su entrada en vigor.
 
 Tercero. Se autoriza al Instituto Mexicano del Seguro Social y al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a solicitar los recursos financieros necesarios que garanticen el cumplimiento del presente Decreto.
+
+D.O.F. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGAN LAS FRACCIONES II Y III DEL ARTÍCULO 132 DE LA LEY DEL SEGURO SOCIAL, Y LAS FRACCIONES II Y III DEL ARTÍCULO 136 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado deberán tomar en cuenta el presente Decreto, para que sea considerado en el presupuesto de egresos del año próximo inmediato.
+
+D.O.F. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA EL INCISO E) A LA FRACCIÓN III DEL ARTÍCULO 4 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Tercero.- El Instituto, en un plazo de ciento veinte días, a partir de la entrada en vigor del presente Decreto, deberá emitir las disposiciones necesarias para el otorgamiento del servicio Casas de día para adultos mayores jubilados y pensionados derechohabientes.
+
+D.O.F. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE DEROGA EL NUMERAL 2, DEL INCISO D), DE LA FRACCIÓN XII, DEL ARTÍCULO 6 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
