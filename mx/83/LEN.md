@@ -4,7 +4,7 @@ identifier: "LEN"
 country: "mx"
 rank: "ley"
 publication_date: "2019-03-12"
-last_updated: "2019-03-12"
+last_updated: "2023-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134357&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEN"
 
 LEY DE EDUCACIÓN NAVAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2023.
 
 Acuerdo publicado en la Primera Sección al Número 11 del Diario Oficial de la Federación, el martes 12 de marzo de 2019.
 
@@ -138,7 +138,9 @@ I. Desarrollar en los Discentes de la Armada de México, una formación académi
 
 II. Vincular permanentemente la educación del personal naval;
 
-III. Preparar profesionistas competitivos con una formación naval, científica, tecnológica, incluyente, humanista y de calidad ciudadana;
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2023)</small>
+
+III. Preparar profesionistas competitivos con una formación naval, científica, tecnológica, incluyente, humanista, de calidad ciudadana, intercultural, con enfoque de derechos humanos y perspectiva de género;
 
 IV. Fortalecer la educación naval, implementando en el proceso educativo estrategias educativas innovadoras de acuerdo a los avances tecnológicos vigentes, con el propósito de realizar eficaz y eficientemente las actividades educativas;
 
@@ -281,3 +283,11 @@ Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor de la p
 Ciudad de México, a 19 de febrero de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Lizeth Sánchez García, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 8 de marzo de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN NAVAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
