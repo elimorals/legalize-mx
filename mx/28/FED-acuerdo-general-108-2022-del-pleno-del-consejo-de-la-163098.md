@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-108-2022-del-pleno-del-consejo-de-la-163098"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-01-16"
-last_updated: "2023-01-16"
+last_updated: "2023-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163098&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-01-05"
 
 ACUERDO GENERAL 108/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DE LOS PLENOS REGIONALES DE LAS REGIONES CENTRO-NORTE Y CENTRO-SUR, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 16 de enero de 2023.
 
@@ -89,7 +89,9 @@ I. Plenos Regionales de la Región Centro-Norte:
 
 3. Pleno Regional en Materia Civil de la Región Centro-Norte, con residencia en la Ciudad de México, en Avenida Revolución número 366, colonia San Pedro de los Pinos, alcaldía Benito Juárez, código postal 03800, en la Ciudad de México.
 
-4. Pleno Regional en Materia de Trabajo de la Región Centro-Norte, con residencia en Monterrey, Nuevo León, en avenida La Chimenea número 201, fraccionamiento Céntrika, Segundo Sector, código postal 64550, en Monterrey, Nuevo León.
+> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 1/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE MARZO DE 2023)</small>
+
+4. Pleno Regional en Materia de Trabajo de la Región Centro-Norte, con residencia en Monterrey, Nuevo León, en Avenida San Jerónimo, número 999 Poniente, colonia San Jerónimo, código postal 64640, en Monterrey, Nuevo León.
 
 II. Plenos Regionales de la Región Centro-Sur:
 
@@ -132,3 +134,17 @@ CUARTO. Las Secretarías Ejecutivas de Administración, y de Creación de Nuevos
 QUINTO. Se abroga a partir de que inicien funciones los Plenos Regionales, el Acuerdo General 8/2015 del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 108/2022, del Pleno del Consejo de la Judicatura Federal, relativo a la creación, denominación e inicio de funciones de los Plenos regionales de las Regiones centro-norte y centro-sur, así como su competencia, jurisdicción territorial y domicilio, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de 14 de diciembre de 2022, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Lilia Mónica López Benítez y Sergio Javier Molina Martínez.- Ciudad de México, a 5 de enero de 2023.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 1/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DOMICILIO DEL PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN MONTERREY, NUEVO LEÓN; Y QUE REFORMA EL SIMILAR 108/2022, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DE LOS PLENOS REGIONALES DE LAS REGIONES CENTRO-NORTE Y CENTRO-SUR, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El Pleno Regional en Materia de Trabajo de la Región Centro-Norte, con residencia en Monterrey, Nuevo León, deberá publicar avisos en lugares visibles para conocimiento del público, en relación con su cambio de domicilio dispuesto en el presente Acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, prestará auxilio en el traslado del Pleno Regional a su nuevo domicilio.
