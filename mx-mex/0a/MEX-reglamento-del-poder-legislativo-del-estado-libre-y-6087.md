@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2023-02-17"
+last_updated: "2023-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ABRIL DE 2023 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE MARZO DE 2023.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -245,7 +247,11 @@ a) La legislación relacionada con la educación, cultura, ciencia, e investigac
 
 b) La Ley Orgánica de la Universidad Autónoma del Estado de México y demás relativas; y
 
-c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+> <small>(ADICIONADO, G.G. 24 DE MARZO DE 2023)</small>
+
+c) Sobre la convocatoria de selección para proponer a las maestras y los maestros acreedores del Pergamino y la Medalla al Reconocimiento Docente.
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
 VII. La Comisión de Desarrollo Urbano, conocerá de los temas siguientes:
 
@@ -2399,21 +2405,75 @@ Una vez validada la Firma Electrónica por la Junta de Coordinación Política, 
 
 El uso indebido de la Firma Electrónica se sancionará con base en lo establecido por las leyes aplicables en la materia.
 
+> <small>(ADICIONADO, G.G. 24 DE MARZO DE 2023)</small>
+
+### CAPITULO XVI. DEL PERGAMINO Y DE LA MEDALLA AL RECONOCIMIENTO DOCENTE
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE MARZO DE 2023)</small>
+
 ###### Artículo 182.
 
-(DEROGADO, G.G. 7 DE JULIO DE 2020)
+La Legislatura otorgará el Pergamino y la Medalla al Reconocimiento Docente a las maestras y los maestros pertenecientes a las instituciones de educación pública y particulares con autorización o con reconocimiento de validez oficial de estudios, que se hayan distinguido y destacado en la formación de las y los alumnos, de conformidad con las siguientes categorías:
+
+I. Educación básica;
+
+II. Educación media superior;
+
+III. Educación superior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE MARZO DE 2023)</small>
 
 ###### Artículo 183.
 
-(DEROGADO, G.G. 7 DE JULIO DE 2020)
+El Pergamino y la Medalla al Reconocimiento Docente serán otorgados en sesión solemne.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE MARZO DE 2023)</small>
 
 ###### Artículo 184.
 
-(DEROGADO, G.G. 7 DE JULIO DE 2020)
+La convocatoria se regirá bajo las siguientes modalidades:
+
+1. Excelencia educativa.
+
+A quienes su preparación y desempeño profesional sean destacados e incidan en la promoción de aprendizajes entre las y los alumnos, así como en la colaboración respetuosa y armónica a favor de la comunidad;
+
+2. Gestión escolar.
+
+A las y los directivos, cuyo liderazgo le hayan permitido gestionar formas de organización y funcionamiento óptimas para la mejora del centro educativo en donde laboran, con impacto en el desarrollo escolar de las y los alumnos, la convivencia escolar armónica, la optimización de los recursos y el desarrollo de la comunidad en la que se inscribe la escuela;
+
+3. Impulso de una cultura de paz, inclusión y equidad.
+
+A quienes impulsen una cultura de paz, inclusión y equidad con impacto en el desarrollo cognitivo, afectivo y socio emocional de la comunidad escolar;
+
+4. Innovación pedagógica.
+
+A quienes hayan creado e implementado alguna estrategia o estrategias innovadoras de desarrollo pedagógico en el aula, con relevancia en la transformación de la práctica educativa y de gran impacto en la adquisición de los aprendizajes esperados de sus alumnos;
+
+5. Mérito científico.
+
+A quienes hayan realizado aportaciones para el desarrollo científico con reconocimiento a nivel estatal y nacional, cuyo trabajo de investigación se encuentre publicado en revistas u otros documentos de divulgación científica;
+
+6. Tecnología educativa.
+
+A quienes desarrollen y hagan uso de las herramientas tecnológicas o digitales, con el objeto de transformar su práctica docente, brindando a las y los alumnos la oportunidad de fortalecer su proceso educativo, reduciendo la brecha digital;
+
+7. Impulso intercultural y bilingüe.
+
+A quienes promuevan y fortalezcan mediante su práctica docente la educación intercultural y plurilingüe, y que coadyuven al enaltecimiento de la identidad cultural de la niñez indígena;
+
+8. Inclusión educativa.
+
+A quienes mediante su práctica docente impulsen y fortalezcan la inclusión de las y los estudiantes que estén en situación de discapacidad, con el fin de generar una educación con un enfoque de derechos humanos y de igualdad sustantiva;
+
+9. Impulso para la integración educativa de adultos para abatir el rezago educativo.
+
+A quienes por su compromiso social y humano desarrollen una práctica educativa que integre al mayor número de adultos al sistema educativo y desarrolle en ellos conocimientos, habilidades, competencias y aptitudes que los ayuden a superar las barreras de exclusión social y laboral.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE MARZO DE 2023)</small>
 
 ###### Artículo 185.
 
-(DEROGADO, G.G. 7 DE JULIO DE 2020)
+Se promoverán y garantizarán la paridad entre los géneros en la postulación de los acreedores, resultando que por cada modalidad sean reconocidos uno de cada género.
 
 ###### Artículo 186.
 
@@ -3058,3 +3118,19 @@ G.G. 17 DE FEBRERO DE 2023.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 147.- POR EL QUE SE CREA EL PERGAMINO Y LA MEDALLA AL RECONOCIMIENTO DOCENTE EN EL CONGRESO DEL ESTADO DE MÉXICO, SE ADICIONA LA FRACCIÓN XIX RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 62 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y SE REFORMAN LOS ARTÍCULOS 182, 183, 184 Y 185; SE ADICIONA EL INCISO C) RECORRIÉNDOSE EL SUBSECUENTE DE LA FRACCIÓN VI DEL ARTÍCULO 13 A Y EL CAPÍTULO XVI DENOMINADO “DEL PERGAMINO Y DE LA MEDALLA AL RECONOCIMIENTO DOCENTE”, CON LOS ARTÍCULOS 182, 183, 184 Y 185 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+La entrega de los estímulos correspondientes, estará sujeta a contar con la suficiencia presupuestal respectiva, así como atenderá a los criterios que en su momento emita la Junta de Coordinación Política de la Legislatura del Estado de México.
