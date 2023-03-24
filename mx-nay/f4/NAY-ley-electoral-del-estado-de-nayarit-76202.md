@@ -4,7 +4,7 @@ identifier: "NAY-ley-electoral-del-estado-de-nayarit-76202"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-18"
-last_updated: "2020-10-08"
+last_updated: "2023-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY ELECTORAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 18 de agosto de 2010.
 
@@ -2043,11 +2041,31 @@ El Instituto Estatal Electoral contará con un Órgano Interno de Control, dotad
 
 En su desempeño el Órgano Interno de Control se sujetará a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
 
-El titular del Órgano Interno de Control del Instituto será designado por el Congreso del Estado, en la forma y términos que determine la Ley Orgánica del Poder Legislativo del Estado de Nayarit. Durará seis años en el cargo y podrá ser reelecto por una sola vez.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2023)</small>
+
+El titular del Órgano Interno de Control del Instituto será designado por el Congreso del Estado, a través del procedimiento que determina la Ley Orgánica del Poder Legislativo del Estado de Nayarit. Durará seis años en el cargo y podrá ser reelecto por una sola vez.
 
 El Órgano contará con los recursos presupuestales necesarios para el debido cumplimiento de sus atribuciones.
 
 Estará adscrito administrativamente al Instituto y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización Superior del Estado.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES, P.O. 24 DE MARZO DE 2023)</small>
+
+Para ser titular del Órgano Interno de Control deberá cumplir con los siguientes requisitos de elegibilidad:
+
+I.- Ciudadanía mexicana, en pleno goce de sus derechos;
+
+II.- Tener residencia efectiva en el Estado de Nayarit de un año previo al día de su designación;
+
+III.- Contar con título y cédula profesional en áreas contables, económico-administrativas, jurídicas o financieras, cuando menos con tres años de antigüedad, expedido por autoridad o institución legalmente facultada para ello;
+
+IV.- Gozar de buena reputación y no estar inhabilitado para ocupar un empleo, cargo o comisión en el servicio público;
+
+V.- Contar cuando menos con tres años de experiencia en materia de fiscalización, rendición de cuentas, control interno, contabilidad o auditoría gubernamental, responsabilidades administrativas o adquisiciones, arrendamientos y servicios del sector público;
+
+VI.- No ser o haber sido dirigente de partido político nacional, estatal o municipal en el año inmediato anterior a su designación, y
+
+VII.- No haber ejercido ministerio de algún culto religioso, en los tres años anteriores a su designación.
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
@@ -5444,3 +5462,9 @@ P.O. 7 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY ELECTORAL DEL ESTADO DE NAYARIT".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día (sic) su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 24 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 101 DE LA LEY ELECTORAL DEL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
