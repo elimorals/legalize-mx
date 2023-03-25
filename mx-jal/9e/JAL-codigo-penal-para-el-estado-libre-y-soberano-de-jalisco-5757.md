@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2022-11-12"
+last_updated: "2023-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -4007,9 +4007,9 @@ Cuando por el número de disparos o la prolongación del ataque grave haya base 
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2014)
 
-### CAPITULO III. Homicidio
+### CAPITULO II BIS. De los ataques con ácido o sustancias químicas, corrosivas, cáusticas o tóxicas
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2019)</small>
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2023)</small>
 
 ###### Art. 206.
 
@@ -4079,11 +4079,19 @@ Si en un mismo evento se producen varias de las lesiones previstas en los artíc
 
 No es atribuible al acusado el aumento de gravedad en las lesiones, proveniente de circunstancias particulares del ofendido, si las ignoraba al cometer el delito.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE MARZO DE 2023)</small>
+
+### CAPITULO III. Homicidio
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2019)</small>
+
+###### Art. 212 Bis.
+
+Se impondrá de dos a quince años de prisión al que, por sí o por interpósita persona, ataque a otra utilizando para ello ácidos, sustancias químicas corrosivas o cáusticas, que genere lesiones internas, externas o ambas, sin perjuicio de las sanciones que se apliquen por la comisión de otros delitos.
+
+Cuando el ataque se cometa por razones de género y entre el activo y la víctima exista o haya existido una relación de parentesco por consanguinidad, afinidad, civil, concubinato, noviazgo o cualquier tipo de relación sea de convivencia, laboral o docente, la pena se aumentará hasta un tercio.
+
 ### CAPITULO IV. Reglas comunes para los delitos de lesiones y homicidios
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
-
-### CAPITULO V. Parricidio
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -4129,9 +4137,9 @@ Cuando el homicidio se cometa en riña inesperada, al provocado se le impondrá 
 
 Cuando el homicidio se cometa en riña inesperada, al provocador de la misma, y a los contendientes de una riña preconcertada donde se cometa homicidio, se le impondrá una sanción privativa de la libertad de entre un mínimo de ocho años y un máximo de hasta doce años.
 
-### CAPITULO VI. Instigación o ayuda al suicidio
+### CAPITULO V. Parricidio
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 218.
 
@@ -4247,15 +4255,17 @@ III. Si existen lesiones mortales y no mortales y no se puede precisar cuál de 
 
 Si con motivo de un delito de tránsito, fallecen o resultan lesionados los ocupantes de un vehículo de servicio particular, o público en servicio particular, ligados al conductor por vínculos de consanguinidad, afinidad o civil, o por lazos de estrecha amistad o de trabajo o de gratitud, el delito se perseguirá por querella de parte, siempre que el conductor no se encuentre, al momento de cometer la infracción, bajo el influjo de bebidas embriagantes, de enervantes o psicotrópicos. Para los casos de homicidio, se tendrá como legítimo representante del ofendido, al que pudiera tener derecho a su sucesión legítima.
 
-### CAPITULO VI BIS. Inducción o ayuda al suicidio feminicida
+### CAPITULO VI. Instigación o ayuda al suicidio
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE OCTUBRE DE 2017)</small>
 
 ###### Art. 223.
 
 Se impondrán de veinticinco a cuarenta y cinco años de prisión al que dolosamente prive de la vida a la persona con quien tenga un parentesco consanguíneo en línea recta o colateral hasta en cuarto grado, o con quien tenga una relación conyugal o de concubinato, o se trate de su adoptante o adoptado, tutor o pupilo, sabiendo el sujeto activo del delito la existencia de esta relación.
 
-### CAPITULO VII. Infanticidio
+### CAPITULO VI BIS. Inducción o ayuda al suicidio feminicida
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 224.
 
@@ -4295,7 +4305,7 @@ Se aumentará la pena privativa de la libertad en una cuarta parte cuando alguno
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
-### CAPITULO VIII. Aborto
+### CAPITULO VII. Infanticidio
 
 ###### Art. 224 Bis.
 
@@ -4309,9 +4319,7 @@ Si el suicidio no se lleva a efecto, pero su intento produce lesiones, éstas se
 
 Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la sanción será la que corresponda al delito de feminicidio, según las circunstancias y modos de ejecución.
 
-### CAPITULO IX. Abandono de personas
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
+### CAPITULO VIII. Aborto
 
 ###### Art. 225.
 
@@ -4321,9 +4329,9 @@ Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la 
 
 (DEROGADO, P.O. 9 DE JULIO DE 2016)
 
-### CAPITULO X. Feminicidio
+### CAPITULO IX. Abandono de personas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ###### Art. 227.
 
@@ -4361,7 +4369,9 @@ No es punible el aborto culposo causado por la mujer embarazada ni cuando el emb
 
 Tampoco lo será cuando, de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO I. Robo
+### CAPITULO X. Feminicidio
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 230.
 
@@ -4383,9 +4393,7 @@ Se impondrán de uno a cuatro meses de prisión, por la sola circunstancia de qu
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPITULO II. Abigeato y robo de animales
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2000)</small>
+### CAPITULO I. Robo
 
 ###### Art. 232 Bis.
 
@@ -4451,7 +4459,9 @@ Además de las sanciones descritas en el presente artículo, el sujeto activo pe
 
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPITULO III. Abuso de confianza
+### CAPITULO II. Abigeato y robo de animales
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2000)</small>
 
 ###### Art. 233.
 
@@ -4751,7 +4761,7 @@ III. Cuando el adquiriente de un bien mueble, acredite su legítima propiedad o 
 
 IV. Tratándose del robo de vehículos o de cualquiera de sus partes será causa de inculpabilidad acreditar su legítima posesión, uso o custodia.
 
-### CAPITULO IV. Violación de depósito
+### CAPITULO III. Abuso de confianza
 
 ###### Art. 240.
 
@@ -4905,7 +4915,7 @@ II. Si la información aconteciere durante el proceso, el beneficio será de sei
 
 En todos los casos previstos en este capítulo será aplicable, en lo conducente, lo dispuesto en el Art. 238 de este Código.
 
-### CAPITULO V. Fraude
+### CAPITULO IV. Violación de depósito
 
 ###### Art. 245.
 
@@ -4941,9 +4951,7 @@ Se impondrán las mismas sanciones del abuso de confianza, a quien, requerido fo
 
 Es aplicable a este Capítulo, en lo conducente, el Artículo 238 de este Código.
 
-### CAPITULO VI. Delitos contra el Desarrollo Urbano
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+### CAPITULO V. Fraude
 
 ###### Art. 249.
 
@@ -4965,9 +4973,9 @@ El hecho de que una persona disponga, como suyo, del depósito que garantice la 
 
 Es aplicable a este capítulo en lo conducente el artículo 238 de este Código. Al responsable de los delitos previstos en este artículo, se le aplicarán las sanciones contenidas en el artículo 246.
 
-### CAPITULO VII. Administración Fraudulenta
+### CAPITULO VI. Delitos contra el Desarrollo Urbano
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 250.
 
@@ -5079,9 +5087,9 @@ XXV. Al que con fines de lucro y a sabiendas de que un producto o servicio no cu
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2007)</small>
 
-### CAPITULO VIII. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores
+### CAPITULO VII. Administración Fraudulenta
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 253.
 
@@ -5153,7 +5161,7 @@ Se impondrán de seis meses a seis años de prisión multa por el importe de cua
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
-### CAPITULO IX. Usura
+### CAPITULO VIII. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -5187,9 +5195,9 @@ II. Cuando el valor de lo defraudado exceda del monto señalado en la fracción 
 
 III. De cinco a diez años de prisión y multa por el importe de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización, cuando el valor de lo defraudado exceda del importe de dos mil veces el valor diario de la Unidad de Medida y Actualización.
 
-### CAPITULO X. Daños en las cosas
+### CAPITULO IX. Usura
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 255.
 
@@ -5205,9 +5213,9 @@ Si el concursado fuere persona moral, la sanción será impuesta al o a los dire
 
 La reparación del daño proveniente de los delitos previstos en este capítulo será regulada en la sentencia de gradación del concurso.
 
-### CAPITULO XI. Daño al patrimonio urbano
+### CAPITULO X. Daños en las cosas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2019)</small>
 
 ###### Art. 258.
 
@@ -5217,7 +5225,7 @@ I. Al que, abusando de la apremiante necesidad de una persona, le otorgue un pr�
 
 II. Al que, abusando de la apremiante necesidad del ofendido, cobre para sí o para otro una comisión evidentemente desproporcionada, por gestionarle o conseguirle un préstamo cualquiera.
 
-### CAPITULO XII. Despojo de inmuebles y aguas
+### CAPITULO XI. Daño al patrimonio urbano
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -5267,9 +5275,9 @@ Se impondrán de uno a cinco años de prisión y multa por el importe de dos a v
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2003)</small>
 
-### CAPITULO XIII. Del pillaje
+### CAPITULO XII. Despojo de inmuebles y aguas
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 261 Bis.
 
@@ -5283,9 +5291,9 @@ La sanción se aumentará hasta en dos terceras partes de la señalada en el pá
 
 Al reincidente se le aplicará además, la pena de dos a cuatro años de prisión.
 
-### CAPITULO I. Encubrimiento
+### CAPITULO XIII. Del pillaje
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 262.
 
@@ -5309,9 +5317,9 @@ Las sanciones anteriores serán aplicables aun cuando la posesión de la cosa us
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2003)</small>
 
-### CAPITULO II. Adquisición ilegítima de bienes materia de un delito o de una infracción penal
+### CAPITULO I. Encubrimiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE DICIEMBRE DE 2017)</small>
 
 ###### Art. 262 Bis.
 
@@ -5353,9 +5361,9 @@ Si el responsable de este delito fuere servidor público se le destituirá adem�
 
 ## TITULO DECIMO OCTAVO. ENCUBRIMIENTO Y ADQUISICION ILEGITIMA DE BIENES MATERIALES DE UN DELITO
 
-### CAPITULO I. De las Definiciones
+### CAPITULO II. Adquisición ilegítima de bienes materia de un delito o de una infracción penal
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 263.
 
@@ -5377,7 +5385,9 @@ En todo caso, la sanción que se imponga al encubridor, no podrá exceder de la 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
+### CAPITULO I. De las Definiciones
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
 ###### Art. 265.
 
@@ -5397,7 +5407,7 @@ Al que se dedique en forma habitual a la comercialización de objetos robados, a
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
+### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
 
 ###### Art. 266.
 
@@ -5405,7 +5415,7 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO IV. Delitos Cometidos por Representantes de Partido
+### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 ###### Art. 267.
 
@@ -5413,7 +5423,7 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO V. Delitos cometidos por los Servidores Públicos
+### CAPITULO IV. Delitos Cometidos por Representantes de Partido
 
 ###### Art. 268.
 
@@ -5421,7 +5431,7 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO VI. Disposiciones Comunes
+### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
 ###### Art. 269.
 
@@ -5429,9 +5439,7 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
+### CAPITULO VI. Disposiciones Comunes
 
 ###### Art. 270.
 
@@ -5441,7 +5449,7 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
 
 ###### Art. 271.
 
@@ -5601,7 +5609,7 @@ Para los fines del artículo que antecede se tomará en cuenta el monto de lo de
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 289.
 
@@ -5755,9 +5763,9 @@ No se aplicará pena alguna respecto a lo dispuesto por el párrafo primero del 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO UNICO. Crueldad contra los animales
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2013)</small>
 
 ###### Art. 298.
 
@@ -5799,9 +5807,9 @@ Para efectos de la fracción I se considera que una resolución es incumplida, c
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2013)</small>
 
-### CAPÍTULO ÚNICO
+### CAPITULO UNICO. Crueldad contra los animales
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
 ###### Art. 299.
 
@@ -5861,9 +5869,9 @@ II. Mienta intencionalmente sobre su antigüedad de servicio o de cotización an
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2014)</small>
 
-### CAPITULO UNICO
+### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 305.
 
@@ -5930,6 +5938,10 @@ Será excluyente de los delitos contemplados en el presente capítulo cuando pre
 ## TITULO VIGESIMO QUINTO. DE LOS DELITOS CONTRA LA LIBERTAD DE EXPRESION
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Art. 309.
 
@@ -7274,3 +7286,11 @@ P.O. 12 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28844/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 236 Y 236 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29166/LXIII/23 SE ADICIONAN DIVERSOS PÁRRAFOS Y FRACCIONES A LOS ARTÍCULOS 10, 30 Y 41, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, MODIFICA LAS FRACCIONES XVII Y XVIII, Y SE ADICIONA LA XIX, AL ARTÍCULO 27, Y EL CAPÍTULO II BIS, AL TÍTULO DÉCIMO SEXTO Y EL ARTÍCULO 212 BIS AL CÓDIGO PENAL AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO, CON EL OBJETO DE RECONOCER Y SANCIONAR LA VIOLENCIA FÍSICA PRODUCTO DE LAS LESIONES CON ÁCIDO, SUSTANCIAS QUÍMICAS O CORROSIVAS, CÁUSTICAS O IRRITANTES, TÓXICAS O INFLAMABLES, EN CONTRA DE LAS MUJERES Y NIÑAS E IMPLEMENTAR PROTOCOLOS DE ACTUACIÓN, ASÍ COMO REGULAR LA VENTA DE LAS MISMAS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Los ayuntamientos en coordinación con la Secretaría de Salud Jalisco y la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, deberán realizar acciones tendientes a informar y prevenir los ataques contra niñas y mujeres con ácido, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas o inflamables o cualquier otra sustancia.
