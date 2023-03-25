@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-comala-colima-26790"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2019-11-02"
+last_updated: "2023-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "COL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE ABRIL DE 2023 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -947,11 +949,17 @@ a) Habitacional densidad alta:
 
 - Hasta 40 M2 0.00
 
-- De más de 40 M2 0.03
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
 
-2.- Vivienda plurifamiliar horizontal 0.02
+- De más de 40 M2 0.04
 
-3.- Vivienda plurifamiliar vertical 0.04
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+2.- Vivienda plurifamiliar horizontal 0.06
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+3.- Vivienda plurifamiliar vertical 0.06
 
 b) Habitacional densidad media:
 
@@ -1000,6 +1008,10 @@ i) Otros 0.08 a 0.24
 Cuando la construcción tenga como consecuencia la demolición por más de 40.00 M2, el pago del derecho por los conceptos anteriores aumentará en un 10 por ciento.
 
 Las áreas de estacionamiento en los anteriores conceptos se consideran en el cobro, con el 10 por ciento de las mismas tarifas, de acuerdo a la superficie habilitada para este servicio, excepto habitacional unifamiliar de cualquier densidad.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2023)</small>
+
+Por la inspección en construcciones de vivienda unifamiliar de hasta 40.00 M2, el pago del derecho será de 0.03 UMAS.
 
 II. Permiso para remodelación o reparación, incluyendo la inspección de la obra según el tipo, por M2, de acuerdo con la siguiente clasificación:
 
@@ -1185,7 +1197,9 @@ V. Para obras con una superficie de construcción de 301 M2 en adelante
 
 18 meses
 
-En caso de refrendo del permiso, de conformidad a lo establecido en el reglamento de la materia, por cada bimestre adicional o fracción se pagará el 10 por ciento del importe del permiso inicial, no siendo refrendables aquellos permisos cuya obra no se haya iniciado, en cuyo caso será necesario obtener nuevo permiso.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+El titular del permiso de construcción o ampliación, al solicitar el refrendo del mismo, pagará el 25 por ciento del importe del permiso inicial. En caso de refrendo del resto de los permisos señalados en el artículo anterior, de conformidad con el reglamento de la materia, por cada bimestre adicional o fracción, pagará el 10 por ciento del importe del permiso inicial. No serán refrendables aquellos permisos cuya obra no se haya iniciado, en cuyo caso será necesario obtener un nuevo permiso.
 
 ###### ARTICULO 64.
 
@@ -1517,11 +1531,13 @@ e) Manufacturas y usos industriales 0.04
 
 f) Otros 0.03 a 0.08
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE MARZO DE 2023)</small>
 
-V. Por la expedición de la licencia de urbanización
+V. Por la expedición y modificación de la
 
-en cualquier clasificación se pagará: 250.00
+licencia de urbanización en cualquier
+
+clasificación se pagará: 250.00
 
 Más por cada lote vendible de acuerdo a la siguiente clasificación:
 
@@ -1536,6 +1552,14 @@ d) Habitación campestre o aislada 1.21
 e) Turístico 1.21
 
 f) Otros 1.21
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2023)</small>
+
+g) Para la autorización del refrendo de licencia de urbanización se deberá pagar el 25 por ciento del costo de la licencia originalmente expedida.
+
+> <small>[N. DE E. PERTENECE AL INCISO g), P.O. 25 DE MARZO DE 2023]</small>
+
+Cuando se solicite la modificación de la licencia de urbanización, resulta un área vendible mayor, se pagará adicional 1.21 UMAS más por cada lote vendible.
 
 VI. Por la autorización del proyecto ejecutivo de urbanización, por metro cuadrado, considerando la superficie de vialidad, según categoría:
 
@@ -1616,6 +1640,68 @@ IX. Por la Expedición del certificado de habitabilidad de las construcciones, e
 2.- De 500.00 a 1000.00 M2. 5.00
 
 3.- Más de 1000.00 M2. 20.00
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2023)</small>
+
+ARTICULO 68 BIS.- Las personas físicas o morales que realicen trámites en materia de autorizaciones de Desarrollo Urbano, pagarán los derechos conforme a la siguiente tarifa:
+
+UMA
+
+I. Constancia de verificación de uso de suelo:
+
+1.- Predios rústicos / agrícolas 10.00
+
+2.- Predios campestres / granjas
+
+y huertos 8.00
+
+3.- Predios urbanos 6.00
+
+4.- Otros 10.00
+
+II. Dictamen de vocación de uso de suelo:
+
+1.- Predios rústicos / agrícolas 5.00
+
+2.- Predios campestres / granjas y huertos 4.00
+
+3.- Predios urbanos 3.00
+
+4.- Otros 5.00
+
+III. Por el trámite de autorización de modificación al Programa de Desarrollo Urbano, por evento, según categoría:
+
+1.- Habitacional densidad alta 60.50
+
+2.- Habitacional densidad media 187.55
+
+3.- Habitacional densidad baja 314.60
+
+4.- Habitacional campestre o aislada 102.85
+
+5.- Turístico 423.50
+
+6.- Comercio y servicios 248.00
+
+7.- Oficinas administrativas 278.25
+
+8.- Abastos, almacenamientos y talleres especiales 308.50
+
+9.- Manufacturas y usos industriales:
+
+a) Manufacturas domiciliarias 10.00
+
+b) Manufacturas menores 15.00
+
+c) Industria ligera de bajo impacto 133.10
+
+d) Industria de mediano impacto 133.10
+
+e) Industria pesada de alto impacto y riesgo 133.10
+
+10.- Otros 60.50 a 423.00
+
+Cuando se trate de fraccionamiento de tipo mixto, se cobrará por la autorización el promedio que resulte de las modalidades que lo compongan.
 
 ###### ARTICULO 69.
 
@@ -1919,7 +2005,9 @@ a).- Por la expedición de licencias de funcionamiento, por ejercicio fiscal, po
 
 4.- Restaurantes-Bar de 150.00 a 300.00
 
-5.- Restaurantes de 20.00 a 50.00
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+5.- Restaurantes de 20.00 a 150.00
 
 6.- Discotecas de 50.00 a 100.00
 
@@ -1935,7 +2023,9 @@ y Cerveza de 100.00 a 200.00
 
 11.- Agencias de 200.00 a 300.00
 
-12.- Tiendas de Abarrotes de 20.00 a 50.00
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+12.- Tiendas de Abarrotes con venta de cerveza de 20.00 a 50.00
 
 13.- Tiendas de Autoservicio de 50.00 a 150.00
 
@@ -1999,9 +2089,13 @@ y Cerveza de 100.00 a 200.00
 
 30. Venta de ponche de 24.00 a 28.00
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2023)</small>
 
-31. Otros giros no especificados de 20.00 a 500.00
+31.- Tienda de Abarrotes con venta de cerveza, vinos y licores de 20.00 a 100.00
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 25 DE MARZO DE 2023)</small>
+
+32.- Otros giros no especificados de 20.00 a 500.00
 
 b).- Por el refrendo anual de licencias de funcionamiento, por cada una
 
@@ -2013,7 +2107,9 @@ b).- Por el refrendo anual de licencias de funcionamiento, por cada una
 
 4.- Restaurantes-Bar de 70.00 a 150.00
 
-5.- Restaurantes de 10.00 a 25.00
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+5.- Restaurantes de 10.00 a 75.00
 
 6.- Discotecas de 25.00 a 50.00
 
@@ -2029,7 +2125,9 @@ y Cerveza de 25.00 a 50.00
 
 11.- Agencias de 100.00 a 150.00
 
-12.- Tiendas de Abarrotes de 10.00 a 25.00
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+12.- Tiendas de Abarrotes con venta de cerveza de 10.00 a 25.00
 
 13.- Tiendas de Autoservicio de 25.00 a 75.00
 
@@ -2093,9 +2191,15 @@ y Cerveza de 25.00 a 50.00
 
 30. Venta de ponche de 12.00 a 24.00
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2023)</small>
 
-31. Otros giros no especificados de 10.00 a 250.00
+31.- Tienda de Abarrotes con venta
+
+de cerveza, vinos y licores de 10.00 a 50.00
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 25 DE MARZO DE 2023)</small>
+
+32.- Otros giros no especificados de 10.00 a 250.00
 
 c).- Por la expedición de permisos para el funcionamiento temporal de establecimientos en que se expendan bebidas alcohólicas por cada día:
 
@@ -2123,7 +2227,9 @@ y Cerveza de 2.00 a 10.00
 
 11.- Agencias de 5.00 a 15.00
 
-12.- Tiendas de Abarrotes de 1.00 a 5.00
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+12.- Tiendas de Abarrotes con venta de cerveza de 1.00 a 5.00
 
 13.- Tiendas de Autoservicio Departamentales
 
@@ -2187,9 +2293,15 @@ o similares de 2.00 a 10.00
 
 30. Venta de ponche 3.00
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2023)</small>
 
-31. Otros giros no especificados de 1.00 a 30.00
+31.- Tienda de Abarrotes con venta
+
+de cerveza, vinos y licores de 2.00 a 10.00
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 25 DE MARZO DE 2023)</small>
+
+32.- Otros giros no especificados de 1.00 a 30.00
 
 d).- Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos que se expendan bebidas alcohólicas por cada hora:
 
@@ -2217,7 +2329,11 @@ y Cerveza de 2.00 a 10.00
 
 11.- Agencias de 10.00 a 30.00
 
-12.- Tiendas de Abarrotes de 2.00 a 10.00
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+12.- Tiendas de Abarrotes con
+
+venta de cerveza de 2.00 a 10.00
 
 13.- Tiendas de Autoservicio, Departamentales
 
@@ -2279,9 +2395,15 @@ o similares de 5.00 a 15.00
 
 29. Venta de ponche de 2.00 a 10.00
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2023)</small>
 
-30. Otros giros no especificados de 1.00 a 30.00
+30.- Tienda de Abarrotes con venta
+
+de cerveza, vinos y licores de 2.00 a 10.00
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 25 DE MARZO DE 2023)</small>
+
+31.- Otros giros no especificados de 1.00 a 30.00
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
 
@@ -2425,11 +2547,13 @@ e).- Registro de inscripción de matrimonios
 
 celebrados en el extranjero 3.59
 
-f).- Registro de matrimonios 3.59
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
 
-g).- Anotaciones marginales y/o
+f).- Registro de matrimonios 5.00
 
-exhortos 1.21
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+g).- Anotaciones marginales y/o exhortos 2.50
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
@@ -2453,11 +2577,11 @@ correspondencia. 5.00
 
 j).- Búsqueda de actas en libros 1.00
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
 
-k).- Expedición de constancia de registro de
+k).- Expedición de constancia de registro
 
-cualquier acto del registro civil 1.00
+de cualquier acto del registro civil 2.00
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
@@ -2477,9 +2601,13 @@ a).- Registro de nacimiento:
 
 b).- Registro de matrimonios:
 
-1.- En días y horas inhábiles 10.00
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
 
-2.- En días y horas hábiles 5.00
+1.- En días y horas inhábiles 12.00
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+2.- En días y horas hábiles 7.00
 
 c).- Registro de los demás actos hasta 13.50
 
@@ -2857,61 +2985,117 @@ UMA
 
 I.- Por el dictamen del informe de factibilidad ambiental para:
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
 
-a) Obras o actividades con inversión menor
+a) Obras o actividades con inversión
 
-de 650.00 UMA, 5.00
+menor a 650.00 UMA 5.00
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 25 DE MARZO DE 2023)</small>
 
-b) Obras o actividades con inversión mayor de 650.00 UMA.
+b) Obras o actividades con inversión mayor a 650.00 UMA
 
-1.- Por la recepción y evaluación 20.00
+1.- Por la recepción y evaluación 30.00
 
-2.- Por el otorgamiento del dictamen 10.00
+2.- Por el otorgamiento del dictamen 20.00
 
-3.- Por la revalidación del dictamen 10.00
+3.- Por la revalidación del dictamen 20.00
 
 II.- Por la autorización para la poda o derribo de cada árbol, tomando en cuenta la Norma Oficial Mexicana NOM- 059-ECOL-2001, de:
 
 a) Especies comerciales (frutales y de ornato) o industriales
 
-1.- Por poda: 0.00
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE MARZO DE 2023)</small>
+
+1.- Por poda:
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2023)</small>
+
+a).- Por poda por riesgo con dictamen de protección civil 0.00
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2023)</small>
+
+b).- Por poda de especies maderables o protegidas 1.00 a 20.00
 
 2.- Por derribo:
 
-- Árboles hasta 30 cm. de diámetro de
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
 
-fuste principal 2.00
+- Árboles hasta 30 cm. de diámetro
 
-- Árboles de 31 hasta 50 cm. de
+de fuste principal 5.00
 
-diámetro de fuste principal 3.00
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
 
-- Árboles de 51 hasta 70 cm. de
+- Árboles de 31 hasta 50 cm.
 
-diámetro de fuste principal 5.00
+de diámetro de fuste principal 9.00
 
-- Árboles de más de 70 cm. de
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
 
-diámetro de fuste principal 10.00
+- Árboles de 51 hasta 70 cm.
 
-- Por guía de traslado de madera
+de diámetro de fuste principal 13.00
 
-obtenida del derribo 1.00
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+- Árboles de 71 hasta 99 cm.
+
+de diámetro de fuste principal 20.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2023)</small>
+
+- Árboles de más de 100 cm.
+
+de diámetro de fuste principal 50.00
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+- Por guía de traslado de madera obtenida del derribo 5.00
 
 III.- Por la expedición de la cédula de calibración de equipo de perifoneo:
 
-a) Por la emisión de 1 a 2 mensajes 1.00
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
 
-b) Por la emisión de 3 a 4 mensajes 2.00
+a) Por la emisión de 1 a 2 mensajes 2.00
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+b) Por la emisión de 3 a 4 mensajes 3.00
 
 IV.- Por la expedición de autorizaciones,
 
 certificaciones y dictámenes no previstos
 
 en este artículo de 1.00 a 100.00
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 25 DE MARZO DE 2023)</small>
+
+V.- Por la evaluación de la manifestación de impacto ambiental se cobrarán las siguientes tarifas:
+
+a) Obra o actividad que requiera manifestación de impacto ambiental o su modalidad MIA-1:
+
+1.- Por la recepción y evaluación 50.00
+
+2.- Por el otorgamiento del dictamen 20.00
+
+3.- Por la revalidación del dictamen 20.00
+
+b) Obra o actividad que requiera manifestaciones de impacto ambiental en su modalidad MIA-2:
+
+1.- Por la recepción y evaluación 80.00
+
+2.- Por el otorgamiento del dictamen 40.00
+
+3.- Por la revalidación del dictamen 30.00
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 25 DE MARZO DE 2023)</small>
+
+VI.- Por la expedición del dictamen ambiental de funcionamiento se pagarán:
+
+a) Bajo impacto 3.00
+
+b) Mediano y alto impacto 5.00
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
@@ -3155,15 +3339,25 @@ compactar, pagarán 0.00
 
 b) (sic) Quienes realicen actividades comerciales, industriales o de prestación de servicios que cuenten con licencia municipal de funcionamiento, así como el de los fraccionamientos no municipalizados y que requieren de estos servicios en forma permanente, deberán celebrar contrato con el Ayuntamiento, en el cual se fijará la forma en que se prestarán éstos, cobrándose en base a volumen tal y como se establece en este artículo o en base estimatoria, con respecto al peso o volumen. Respecto a las tarifas medidas se estará a lo dispuesto por las siguientes:
 
-1) Por tonelada 0.50
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
 
-2) Por metro cúbico compactado 0.40
+1.- Por tonelada 5.00
 
-3) Por metro cúbico sin compactar 0.20
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
 
-4) Por cada tambo de 200 litros 0.04
+2.- Por metro cúbico compactado 4.00
 
-5) Por cada contenedor 0.80
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+3.- Por metro cúbico sin compactar 2.00
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+4.- Por cada tambo de 200 litros 1.00
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+5.- Por cada contenedor 8.00
 
 c).- Por la limpieza en predios no edificados,
 
@@ -3215,7 +3409,9 @@ I. Inhumaciones y reinhumaciones, por cada vez, en cementerios municipales y par
 
 a).- En fosa común 0.00
 
-b).- En propiedad particular 0.60
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+b).- En propiedad particular 5.00
 
 II. Exhumaciones, por cada una 1.120
 
@@ -3764,3 +3960,11 @@ P.O. 2 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 152 POR EL QUE SE REFORMAN LOS INCISOS A), B) Y C), DE LOS NUMERALES 1, 2 Y 3, TODOS DEL INCISO A), DE LA FRACCIÓN I; Y SE ADICIONA UNA FRACCIÓN II, AL ARTÍCULO 84 DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 260.- POR EL QUE SE REFORMAN LOS NUMERALES 1, 2 Y 3 DEL INCISO A), DE LA FRACCIÓN I DEL ARTÍCULO 62; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 63; LA FRACCIÓN V DEL ARTÍCULO 68; LOS NUMERALES 5, 12 Y 31 DEL INCISO A); NUMERALES 5, 12 Y 31 DEL INCISO B); NUMERALES 12 Y 31 DEL INCISO C); Y NUMERALES 12 Y 30 DEL INCISO D), TODOS DEL ARTÍCULO 81; LOS INCISOS F), G) Y K) DE LA FRACCIÓN I, Y LOS NUMERALES 1 Y 2 DEL INCISO B), DEL ARTÍCULO 82; LOS INCISOS A) Y B) DE LA FRACCIÓN I; LOS NUMERALES 1 Y 2 DEL INCISO A) DE LA FRACCIÓN II; ASÍ COMO LOS INCISOS A) Y B) DE LA FRACCIÓN III, TODOS DEL ARTÍCULO 84 BIS; LOS NUMERALES 1, 2, 3, 4 Y 5 DEL INCISO B), EL INCISO G) Y SUS NUMERALES 1, 2 Y 3, DEL ARTÍCULO 94; Y EL INCISO B), DE LA FRACCIÓN I DEL ARTÍCULO 96; Y SE ADICIONAN UN ÚLTIMO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 62; EL INCISO G) A LA FRACCIÓN V DEL ARTÍCULO 68; EL ARTÍCULO 68 BIS; EL NUMERAL 32 A LOS INCISOS A), B) Y C), Y EL NUMERAL 31 AL INCISO D), TODOS DEL ARTÍCULO 81; LOS INCISOS A) Y B) AL NUMERAL 1 DE LA FRACCIÓN II; ASÍ COMO LAS FRACCIONES V Y VI AL ARTÍCULO 84 BIS; TODOS DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
