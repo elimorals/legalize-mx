@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2023-03-15"
+last_updated: "2023-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE MARZO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -1317,29 +1315,25 @@ I. Se escribirán con letra clara, sin abreviaturas, y expresando las fechas y l
 
 II. Precisará el número y tomo que le corresponda, lugar y fecha en que se extiende, nombre, número y adscripción del notario;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
 
 III. Anotará la hora y fecha en que se termina de firmar la escritura pública por los comparecientes, quienes invariablemente deben estampar junto a su firma las huellas digitales, preferentemente de sus dedos índices; en caso de no poder hacerlo, el notario público autorizante asentará la razón de esto en la escritura pública, firmará e imprimirá su sello, con lo que quedará autorizada la escritura pública. En los supuestos en que la ley así lo prevenga, se hará constar la hora de inicio.
 
-IV. En su caso, consignará las declaraciones que hagan los otorgantes como antecedentes o preliminares, y relacionará los datos indispensables y necesarios que identifiquen el acto, hecho o negocio jurídico de que se traten con los documentos y testimonios originales que se le presenten, o bien insertará estos últimos.
+No será aplicable lo dispuesto en esta fracción en cuanto al estampamiento de huellas, bastando sólo la firma, ni verificación de datos biométricos disponibles, así como de la consulta de la información contenida en los soportes tecnológicos, a quienes actúen en representación de la Federación, los Estados extranjeros, integrantes de los poderes Ejecutivo, Legislativo y Judicial, representantes de organismos públicos descentralizados y desconcentrados, instituciones y sociedades que integran el sistema financiero, así como las instituciones, dependencias y fideicomisos públicos, cuando la escritura derive de un mandato judicial;
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
+
+IV. Consignará, en su caso, las declaraciones que hagan los otorgantes como antecedentes o preliminares, y relacionará los datos indispensables y necesarios que identifiquen el acto, hecho o negocio jurídico de que se traten con los documentos y testimonios originales que se le presenten, o bien insertará estos últimos.
 
 Si se tratare de bienes inmuebles, aún en las sucesiones, relacionará el instrumento que acredite la propiedad del bien o del derecho a que se refiere la escritura y expresará, cuando esté inscrito en el Registro Público de la Propiedad, los datos correspondientes.
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
-
 En el caso en que dichos inmuebles no estén inscritos, expresará la razón de ello, haciendo relación a los datos catastrales, con vista en el certificado catastral expedido por la autoridad municipal correspondiente.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 En el supuesto de que se transmitan inmuebles que no estuvieren registrados, cumpliéndose con lo estipulado en el Código Urbano, se deberá transcribir e insertar el certificado catastral con historial a partir de 1936. Cuando se trate de enajenación sobre bienes inmuebles inscritos, se insertará el certificado de libertad o gravamen actualizado, excepto en los casos en que la última escritura se hubiere otorgado dentro de 45 días hábiles.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
-
 Se deberá agregar al Apéndice copia en lo conducente de los documentos exhibidos por las partes. No será necesario agregar copia fotostática de los documentos exhibidos por las partes que ya obren en el protocolo del notario, ni los que estén inscritos en algún registro público, con la obligación de citar en el instrumento público sus datos de inscripción, incorporación o registro, ni los que se hubieren autorizado en el protocolo del mismo notario, debiendo hacer constar cualquiera de las hipótesis anteriores. A solicitud del compareciente se podrá agregar una copia fotostática certificada al testimonio que se expida de aquel documento exhibido, haciendo mención de esta circunstancia en la escritura correspondiente.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE SEPTIEMBRE DE 2018)</small>
-
-Tratándose de actos traslativos de dominio, el notario deberá agregar al apéndice el testimonio con el que el enajenante acredite la propiedad del inmueble; en caso que dicho testimonio comprenda más inmuebles, se agregará copia del mismo, asentando razón de ello en la escritura.
+Tratándose de actos traslativos de dominio, el notario deberá agregar al apéndice el testimonio con el que el enajenante acredite la propiedad del inmueble; en caso de que dicho testimonio comprenda más inmuebles, se agregará copia del mismo, asentando razón de ello en la escritura;
 
 V. Al referir el nombre de algún notario, se expresará su número y adscripción, así como el número y fecha del instrumento;
 
@@ -3242,3 +3236,9 @@ Séptimo. Las Entidades contarán con un plazo de 180 días naturales, contados 
 Octavo. La Subsecretaría General de Gobierno tendrá un plazo de 15 días hábiles, contados a partir del mismo día del inicio de vigencia de este decreto, para transferir a la Consejería Jurídica del Poder Ejecutivo del Estado, todos los procedimientos de responsabilidad notarial a que se refieren el párrafo segundo el (sic) artículo Octavo transitorio del decreto 27213/LXII/18 así como el párrafo segundo del artículo Quinto transitorio del decreto 27218/LXII/18, que se reforman a través del presente decreto.
 
 Durante el lapso establecido en el párrafo anterior, estarán suspendidos los términos y plazos en todos los procedimientos de responsabilidad notarial materia de dicha transferencia.
+
+P.O. 25 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29165/LXIII/23 QUE REFORMA LOS ARTÍCULOS 572, 1931, 2236, 2634 Y 2957 DEL CÓDIGO CIVIL Y EL ARTÍCULO 84 DE LA LEY DEL NOTARIADO, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
