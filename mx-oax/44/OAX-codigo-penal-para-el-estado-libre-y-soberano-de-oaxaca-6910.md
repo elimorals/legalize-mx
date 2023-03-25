@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2023-03-04"
+last_updated: "2023-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2845,11 +2845,13 @@ V.- El hecho sea cometido a bordo de un vehículo de servicio público o especia
 
 Delitos contra la intimidad sexual.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
 
-249.- Comete el delito de violación a la intimidad sexual quien por cualquier medio divulgue, comparta, distribuya, publique y/o solicite imágenes, audios o videos de una persona, de contenido íntimo, erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima.
+249.- Comete el delito de violación a la intimidad sexual quien por cualquier medio divulgue, comparta, distribuya, publique, comercialice, intercambie y/o solicite imágenes, audios o videos de una persona, de contenido íntimo, erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima.
 
-Esta conducta se sancionará de cuatro a ocho años de prisión y multa de mil a dos mil veces el valor diario de la unidad de medida y actualización vigente al momento de que se cometa el delito. Este delito se perseguirá por querella.
+Así como quien videograbe, audiograbe, fotografíe, imprima o elabore imágenes, audios o videos reales o simulados con contenido íntimo sexual de una persona a través del engaño y/o sin su consentimiento.
+
+Esta conducta se sancionará de cuatro a ocho años de prisión y multa de mil a dos mil veces el valor diario de la unidad de medida y actualización vigente al omento (sic) de que se cometa el delito. Este delito se perseguirá por querella.
 
 Las mismas penas se aumentarán hasta en una mitad del máximo:
 
@@ -2869,7 +2871,9 @@ VII. A quien amenace con la publicación o bloqueo de la difusión del contenido
 
 VIII. Al responsable del medio de comunicación impreso o digital que compile o reproduzca estos contenidos y/o los haga públicos.
 
-En los supuestos anteriores el delito se perseguirá de oficio.
+IX. Cuando a consecuencia de los efectos o impactos del delito, la víctima atente contra su integridad o contra su propia vida.
+
+En los supuestos anteriores el delito se p0erseguirá (sic) de oficio.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -6100,3 +6104,11 @@ P.O. 4 DE MARZO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1015.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 249 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
