@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2022-06-01"
+last_updated: "2023-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1935,11 +1935,11 @@ VI.- Para poder ser nombrado Gobernador Interino, cuando no lo sea por ministeri
 
 Nunca podrá ser electo para el período inmediato el ciudadano que haya desempeñado el cargo de Gobernador Provisional, el de Gobernador Substituto o el que haya sido designado para concluir el período en caso de falta absoluta del Gobernador Constitucional cualquiera que sea el nombre con que se le designe. Tampoco podrá ser electo para el período inmediato, el ciudadano que haya desempeñado el cargo de Gobernador con el carácter de Interino, o el que lo haya asumido por Ministerio de Ley, o con cualquiera otra denominación, durante los dos últimos años del período que precede al nuevo período constitucional.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
 
 ###### Art. 91.
 
-El Gobernador no puede separarse por tiempo alguno del ejercicio de sus funciones ni salir del territorio del Estado por más de veintiún días sin licencia del Congreso o, en su receso, de la Diputación Permanente; cuando deba salir por un término de veintiún días o menos deberá simplemente dar aviso de su salida al Congreso y al Tribunal Superior de Justicia; tratándose de giras de trabajo que se realicen fuera del país, deberá informar al Congreso del Estado dentro de los siguientes quince días hábiles, los resultados obtenidos de las mismas; cuando salga del territorio del Estado pero no del territorio nacional, por un tiempo no mayor a los cinco días hábiles, el Gobernador no necesitará pedir licencia ni dar aviso a los otros Poderes.
+La persona titular del Poder Ejecutivo no podrá separarse por tiempo alguno del ejercicio de sus funciones, ni salir del territorio nacional por más de veintiún días consecutivos, sin licencia del Congreso del Estado o, en su caso, de la Diputación Permanente; tratándose de giras de trabajo que se realicen fuera del país, deberá informar al Congreso del Estado, dentro de los siguientes quince días hábiles, de los resultados de las mismas.
 
 ###### Art. 92.
 
@@ -1983,9 +1983,13 @@ VII.- Hacer observaciones a las leyes o decretos en los términos del artículo 
 
 VIII.- Prestar al Poder Judicial los auxilios que demande para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
 
-IX.- Presentar anualmente al Congreso, a más tardar el día treinta de noviembre, la iniciativa de ley de ingresos y el proyecto de presupuesto de egresos para el año siguiente, debiendo comparecer el encargado de las finanzas del Estado a dar cuenta de ambas, en la fecha en que el Congreso lo solicite.
+IX.- Presentar anualmente al Congreso, a más tardar el día treinta de noviembre, la iniciativa de ley de ingresos y el proyecto de presupuesto de egresos para el año siguiente, dentro del cual se deberá destinar por lo menos un 3% de los ingresos de libre disposición al presupuesto participativo para inversión pública productiva, debiendo para tales efectos comparecer el encargado de las finanzas del Estado a dar cuenta de ambos, en la fecha en que el Congreso lo solicite.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2023)</small>
+
+La ley establecerá el procedimiento para la determinación, organización, desarrollo, ejercicio, seguimiento y control del presupuesto participativo, debiendo prever la regionalización del Estado para la distribución equitativa y proporcional de los recursos.
 
 > <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
@@ -2131,6 +2135,12 @@ DEL DESPACHO DEL EJECUTIVO.
 
 La Administración Pública será centralizada y paraestatal conforme a la Ley Orgánica que expida el Congreso, que distribuirá los negocios del orden administrativo del Estado que estarán a cargo de las dependencias del Poder Ejecutivo y definirá las bases generales de creación de las Entidades Paraestatales y la intervención del Ejecutivo del Estado en su operación.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2023)</small>
+
+La ley determinará las formas y modalidades que correspondan, para observar el principio de paridad de género en los nombramientos de titulares de las dependencias y entidades de la Administración Pública Estatal, Subsecretarías, Coordinaciones y Direcciones. En la integración de los organismos autónomos se observará el mismo principio.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 25 DE MARZO DE 2023)</small>
+
 Las leyes determinarán las relaciones entre las Entidades Paraestatales y el Ejecutivo del Estado, o entre estas y las dependencias centralizadas en su caso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
@@ -2167,9 +2177,9 @@ En el caso del Secretario General de Gobierno, se requiere ser mayor de treinta 
 
 Las relaciones entre el Poder Ejecutivo y los Poderes Legislativo y Judicial, se establecerán entre el Gobernador o el Secretario General de Gobierno en su caso, y los titulares de dichos Poderes.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
 
-El Secretario General de Gobierno, el Fiscal General del Estado, los Secretarios y los Coordinadores, a más tardar el día treinta de septiembre, presentarán al Congreso un informe por escrito del estado que guardan los asuntos de sus respectivos ramos, pudiendo ser llamados para asesorar y explicar al Congreso, cuando se vaya a discutir un proyecto de ley o a estudiar un negocio relacionado con las funciones de su cargo.
+El Secretario General de Gobierno, el Fiscal General del Estado, los Secretarios y los Coordinadores, podrán ser llamados, por conducto de la Secretaría General de Gobierno, para asesorar y explicar al Congreso cuando se vaya a discutir un proyecto de ley o a estudiar un negocio relacionado con las funciones de su cargo.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
@@ -5508,3 +5518,19 @@ La reforma constitucional contenida en el presente Decreto, entrará en vigor al
 ###### ARTÍCULO CUARTO.
 
 La Comisión Especial integrará la primera terna para ocupar la plaza de la magistratura correspondiente, con personas externas al Poder Judicial, de acuerdo a los parámetros establecidos en el presente Decreto.
+
+P.O. 25 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFCNT/0528/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y de los debates a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su momento, hágase el cómputo de los votos de los Ayuntamientos y la declaratoria de haber sido aprobada la presente reforma.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO TERCERO.
+
+Lo dispuesto en el segundo párrafo del artículo 94 entrará en vigor el 8 de septiembre de 2027, siendo aplicable para los nombramientos que se realicen con posterioridad a su entrada en vigor, respetando los derechos laborales de las personas servidoras públicas nombradas previamente a esta.
