@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-y-conservacion-del-patrimonio-cultural-145662
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-26"
-last_updated: "2020-12-26"
+last_updated: "2023-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROTECCIÓN Y CONSERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE COLIMA Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
 
 Ley publicada en el Número 85 del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 2020.
 
@@ -79,9 +79,17 @@ IV. La Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Histó
 
 V. La Ley de Asociaciones Religiosas y Culto Público;
 
-VI. La Ley de Archivos del Estado de Colima; y
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
 
-VII. Las demás leyes y reglamentos relativos a la materia.
+VI. La Ley de Archivos del Estado de Colima;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2023)</small>
+
+VII. La Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Colima; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2023)</small>
+
+VIII. Las demás leyes y reglamentos relativos a la materia.
 
 ###### Artículo 5.
 
@@ -97,7 +105,9 @@ II. Declaratoria: Acto jurídico del Titular del Poder Ejecutivo o del Pleno del
 
 III. Intervención: Cualquier acción o modificación que se realice sobre los bienes considerados Patrimonio Cultural;
 
-IV. Inventario: Inventario Estatal del Patrimonio Cultural, a cargo de la Secretaría de Cultura del Estado de Colima, integrado con el registro sistemático, ordenado y detallado de bienes de todo género que constituyen Patrimonio Cultural;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
+
+IV. Inventario: Inventario Estatal del Patrimonio Cultural, a cargo de la Secretaría de Educación y Cultura en coordinación con la Subsecretaría de Cultura del Gobierno del Estado de Colima, integrado con el registro sistemático, ordenado y detallado de bienes de todo género que constituyen Patrimonio Cultural;
 
 V. Ley Federal: Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos;
 
@@ -111,13 +121,19 @@ IX. Patrimonio Cultural Tangible: Al conjunto de bienes materiales públicos y p
 
 X. Portador de Patrimonio: Miembro de una comunidad que reconoce, reproduce, transmite, transforma, crea y forma una cierta cultura al interior de y para una comunidad;
 
-XI. SEIDUR: Secretaría de Infraestructura y Desarrollo Urbano del Estado de Colima;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
 
-XII. Registro: Instituto para el Registro del Territorio del Estado de Colima;
+XI. SEIDUM: Secretaría de Infraestructura, Desarrollo Urbano y Movilidad del Estado de Colima;
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
+
+XII. Instituto: Instituto para el Registro del Territorio del Estado de Colima;
 
 XIII. Salvaguarda: Conjunto de acciones y medidas para garantizar la permanencia del Patrimonio Cultural del Estado a través de su identificación, documentación, investigación, preservación, protección, intervención, promoción, valorización, transmisión, revitalización y difusión;
 
-XIV. Secretaría: Secretaría de Cultura del Estado de Colima;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
+
+XIV. Secretaría: Secretaría de Educación y Cultura por conducto de la Subsecretaría de Cultura;
 
 XV. IMADES: Instituto para el Medio Ambiente y Desarrollo Sustentable del Estado de Colima; y
 
@@ -217,7 +233,9 @@ II. Las dependencias del Poder Ejecutivo del Estado y de los gobiernos municipal
 
 a) Cultura;
 
-b) Ordenamiento y planeación de los asentamientos humanos (SEIDUR);
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+b) Ordenamiento y planeación de los asentamientos humanos (SEIDUM);
 
 c) Equilibrio ecológico y protección del ambiente (IMADES); y
 
@@ -257,7 +275,9 @@ III. Promover y coordinar las actividades y acciones tendientes a la salvaguarda
 
 IV. Celebrar convenios de coordinación y colaboración con dependencias estatales y municipales, personas físicas o jurídicas, con el fin de cumplir con el objeto de la presente Ley;
 
-V. Coordinarse con la Secretaría de Turismo a efecto de incluir en su programa anual un apartado relativo al Turismo Cultural;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
+
+V. Coordinarse con la Secretaría de Desarrollo Económico por conducto de la Subsecretaría de Turismo a efecto de incluir en su programa anual un apartado relativo al Turismo Cultural;
 
 VI. Promover, en coordinación con las autoridades estatales y municipales, la constitución de organizaciones y asociaciones, públicas y privadas, que tengan como objeto la investigación, conservación, restauración, promoción y difusión de bienes, conjuntos de bienes y zonas de protección afectos al Patrimonio Cultural del Estado y de los municipios, así como otros objetos y finalidades afines a esta ley y su reglamento y apoyarlas en sus actividades;
 
@@ -289,9 +309,11 @@ XIX. Solicitar a las autoridades municipales o judiciales la suspensión o claus
 
 XX. Las demás atribuciones que le confieran este ordenamiento y disposiciones jurídicas aplicables a la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2023)</small>
+
 ###### Artículo 14.
 
-La Secretaría solicitará la intervención de la SEIDUR, a efecto de que promueva las siguientes acciones:
+La Secretaría solicitará la intervención de la SEIDUM, a efecto de que promueva las siguientes acciones:
 
 I. La nulidad de autorizaciones, licencias o permisos que contravengan las determinaciones de usos y destinos derivados de los planes y programas de desarrollo urbano, de ordenamiento ecológico y de protección al Patrimonio Cultural; y
 
@@ -327,9 +349,11 @@ XII. Registrar en el catastro municipal o el que haga sus veces, los inmuebles q
 
 XIII. Las atribuciones que le otorguen este y otros ordenamientos aplicables en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2023)</small>
+
 ###### Artículo 16.
 
-Para los efectos de la presente Ley, la SEIDUR tendrá las siguientes atribuciones:
+Para los efectos de la presente Ley, la SEIDUM tendrá las siguientes atribuciones:
 
 I. Promover de oficio los recursos legales correspondientes ante la entidad pública estatal o municipal competente y, en su caso, ante los tribunales administrativos, la nulidad de licencias o permisos relativos a intervenciones de bienes inmuebles integrantes del Patrimonio Cultural, cuando se contravenga lo establecido por la presente Ley o demás normatividad aplicable;
 
@@ -437,27 +461,51 @@ V. Las demás que les otorguen la presente Ley y demás normatividad aplicable.
 
 Se crea la Comisión Estatal del Patrimonio Cultural, como órgano desconcentrado de la Secretaría, la cual emitirá la opinión técnica correspondiente de qué bienes, tangibles o intangibles, contienen los elementos y características necesarios para que sean declarados patrimonio cultural y dará seguimiento a los planes, programas y presupuestos destinados al reconocimiento, protección, conservación y uso del patrimonio cultural del Estado y los municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2023)</small>
+
 ###### Artículo 27.
 
-La Comisión Estatal estará integrada por:
+La Comisión Estatal estará integrada por las y los siguientes titulares:
 
-I. Un Presidente Honorario, que será el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
 
-II. Un Presidente, que será el Secretario de Cultura;
+I. Una Presidencia, que será la Gobernadora o Gobernador:
 
-III. Un Secretario Ejecutivo, que será el Secretario de Educación; y
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
 
-IV. Cinco vocales que serán:
+II. Una Vicepresidencia, que será la persona titular de la Secretaría de Educación y Cultura;
 
-a) Un representante del Municipio donde se encuentra el bien considerado como patrimonio cultural;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
 
-b) Un representante del ámbito literario, artístico, histórico, académico o ecológico debidamente registrado o de reconocido prestigio en la Entidad, con un mínimo de 5 años de actividad;
+III. Una Secretaría Ejecutiva, que será la persona titular de la Subsecretaría de Cultura; y
 
-c) Un representante del sector empresarial;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE MARZO DE 2023)</small>
 
-d) Una persona de destacada trayectoria en el ámbito del patrimonio cultural; y
+IV. Seis vocales que serán:
 
-e) Un representante de la Universidad de Colima.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+a) Una persona representante del Municipio donde se encuentra el bien considerado como patrimonio cultural;
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+b) Una persona representante del ámbito literario, artístico, histórico, académico o ecológico debidamente registrada o de reconocido prestigio en la Entidad, con un mínimo de 5 años de actividad;
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+c) Una persona representante del sector empresarial;
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+d) Una persona de destacada trayectoria en el ámbito del patrimonio cultural;
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
+e) Una persona representante de la Universidad de Colima; y
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2023)</small>
+
+f) Una persona representante de la Universidad Intercultural de Colima.
 
 Los cargos dentro de la Comisión, su organización, funcionamiento y atribuciones deberán estar establecidos en el Reglamento de esta Ley.
 
@@ -505,15 +553,19 @@ La Secretaría deberá remitir a los municipios el inventario y sus documentos a
 
 Los bienes inscritos en el Inventario del Patrimonio Cultural del Estado podrán ser objeto de Declaratoria en los términos de la ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2023)</small>
+
 ###### Artículo 33.
 
-Las declaratorias de bienes Patrimonio Cultural muebles e inmuebles se inscribirán en el Registro, a solicitud de la Secretaría y ante el Ayuntamiento que corresponda.
+Las declaratorias de bienes Patrimonio Cultural (sic) muebles e inmuebles se inscribirán en el Instituto, a solicitud de la Secretaría y ante el Ayuntamiento que corresponda.
 
 La Secretaría deberá registrar en el Comité de Información del Patrimonio Cultural del Estado las declaratorias relativas al Patrimonio Cultural Inmaterial.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
 ###### Artículo 34.
 
-La extinción de las inscripciones en el Registro, relativas a los bienes que refiere esta ley, sólo procederán por resolución judicial o administrativa que ordene su cancelación.
+La extinción de las inscripciones en el Instituto, relativas a los bienes que refiere esta ley, sólo procederán por resolución judicial o administrativa que ordene su cancelación.
 
 ###### Artículo 35.
 
@@ -567,9 +619,11 @@ Toda obra de intervención sobre bienes inmuebles inventariados como Patrimonio 
 
 Si el bien o zona de protección objeto de la intervención cuenta con guía de manejo, se deberán acatar las medidas especificadas en el mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2023)</small>
+
 ###### Artículo 44.
 
-Las licencias que expidan los ayuntamientos en contravención a lo anterior serán nulas de pleno derecho, la Secretaría o la SEIDUR, deberán suspender las obras de intervención que hubieren sido autorizadas y, en su caso, se procederá a la demolición de las estructuras no permitidas y la reconstrucción de lo demolido o modificado a su forma original.
+Las licencias que expidan los ayuntamientos en contravención a lo anterior serán nulas de pleno derecho, la Secretaría o la SEIDUM, deberán suspender las obras de intervención que hubieren sido autorizadas y, en su caso, se procederá a la demolición de las estructuras no permitidas y la reconstrucción de lo demolido o modificado a su forma original.
 
 Los costos de las obras de demolición, restauración y conservación serán a cargo del propietario o poseedor y serán solidariamente responsables los que hayan ordenado o autorizado la obra y el que dirija su ejecución. Lo anterior sin perjuicio de las responsabilidades que se deriven para los servidores públicos que hayan concedido la autorización, así como a los particulares que hubiesen ordenado las intervenciones de que se trate.
 
@@ -635,9 +689,11 @@ Toda sustitución o intervención por una nueva arquitectura deberá integrarse 
 
 Sólo se autorizará la demolición en las zonas de protección, cuando el inmueble represente riesgo inminente para las personas o fincas aledañas y se cuente con un nuevo proyecto autorizado por la autoridad municipal competente, previo dictamen positivo que emita la Secretaría.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
+
 ###### Artículo 55.
 
-Cuando se realice la demolición referida en el artículo anterior, en su caso, se dará aviso al Registro para que haga las anotaciones correspondientes anexando la autorización y opinión técnica de la Secretaría.
+Cuando se realice la demolición referida en el artículo anterior, en su caso, se dará aviso al Instituto para que haga las anotaciones correspondientes anexando la autorización y opinión técnica de la Secretaría.
 
 ###### Artículo 56.
 
@@ -783,7 +839,9 @@ La declaratoria podrá recaer tanto en bienes materiales e inmateriales, propied
 
 El procedimiento para la emisión de la declaratoria será el siguiente:
 
-I. Recibida una solicitud de declaratoria, la Secretaría o la dependencia municipal en materia de cultura, contará con un término de sesenta días hábiles para integrar expediente que deberá contener:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE MARZO DE 2023)</small>
+
+I. Recibida una solicitud de declaratoria, la Secretaría o la dependencia municipal en materia de cultura, contará con un término de sesenta días hábiles para integrar (sic) expediente, mismo que podrá ampliarse por un término igual, siempre y cuando exista complejidad en la integración del asunto y que deberá contener:
 
 a) Antecedentes y ficha de inventario;
 
@@ -812,6 +870,10 @@ c) Análisis de los aspectos técnicos, naturales, culturales, sociales, jurídi
 d) Proyecto de declaratoria, que incluirá los efectos de la misma y los usos del Patrimonio Cultural del Estado compatibles con los planes de desarrollo urbano y la normatividad vigente; y
 
 e) Cualquier otra circunstancia que se considere como necesaria para el cumplimiento de la Presente Ley.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2023)</small>
+
+El plazo a que se refiere la fracción IV, podrá ampliarse por un plazo igual siempre que se justifique su necesidad, a fin de emitir el dictamen correspondiente.
 
 ###### Artículo 78.
 
@@ -875,7 +937,9 @@ Asimismo, toda sanción deberá contemplar las medidas de restauración necesari
 
 A fin de evitar la imposición de cualquier sanción administrativa derivada de la presente Ley, si el interesado demuestra fehacientemente que no cuenta con recursos económicos para llevar a cabo los trabajos, la autoridad podrá decidir por cualquiera de las siguientes opciones:
 
-I. Celebrar convenio con la Secretaría de Planeación y Finanzas del Gobierno del Estado o la dependencia municipal que corresponda, a efecto de realizar las obras que se requieran, para lo cual se acordará un programa de trabajo, mismo que se ejecutará bajo la supervisión y asesoría de la Secretaría;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
+
+I. Celebrar convenio con la Secretaría de Planeación, Finanzas y Administración del Gobierno del Estado o la dependencia municipal que corresponda, a efecto de realizar las obras que se requieran, para lo cual se acordará un programa de trabajo, mismo que se ejecutará bajo la supervisión y asesoría de la Secretaría;
 
 II. Realizar de manera extraordinaria la adquisición del bien y los gastos de obras de restauración, cuando los bienes afectados ostenten cualidades artísticas o históricas relevantes para el Patrimonio Cultural del Estado y éstos corran peligro de pérdida o deterioro irreversible; y
 
@@ -958,3 +1022,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 RUBÉN PÉREZ ANGUIANO
 
 Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 258.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 4 FRACCIONES VI Y VII, 6 FRACCIONES IV, XI, XII Y XIV; 11 INCISO B) DE LA FRACCIÓN II; 13 FRACCIÓN V; 14 PRIMER PÁRRAFO; 16 PRIMER PÁRRAFO; 27 PRIMER PÁRRAFO Y LAS FRACCIONES I, II, III Y IV, Y SUS INCISOS DEL A) AL E); 33 PRIMER PÁRRAFO; 34; 44 PRIMER PÁRRAFO; 55; 77 FRACCIÓN I Y 85 FRACCIÓN I; ADEMÁS, SE ADICIONAN LA FRACCIÓN VIII DE LOS ARTÍCULOS 4, DEL 27 EL INCISO F) DE LA FRACCIÓN IV, Y DEL 77, EL ÚLTIMO PÁRRAFO; TODOS DE LA LEY DE PROTECCIÓN Y CONSERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE COLIMA Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de 45 días naturales después de la entrada en vigor, deberá actualizarse la conformación de la Comisión Estatal del Patrimonio Cultural de conformidad con el presente decreto.
