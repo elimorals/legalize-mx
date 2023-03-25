@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2023-03-14"
+last_updated: "2023-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -193,7 +193,9 @@ XI. Garantizar que en los procesos que se realicen ante las autoridades competen
 
 Los gobiernos estatal y municipal procurarán erradicar cualquier acción u omisión ilícita y antijurídica, que por razón de discriminación, genere o pueda dar como resultado cualquiera de los siguientes tipos de violencia:
 
-I. Violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
+
+I. Violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física, sustancias o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas.
 
 II. Violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
@@ -1281,9 +1283,13 @@ XI. Instalar un Consejo Municipal para Prevenir, Atender y Erradicar la violenci
 
 El Consejo Municipal se integrará, al menos, con las o los titulares de la Presidencia, Sindicatura, Juzgado Municipal, Seguridad Pública, Instituto de las Mujeres o quien haga las veces, y la edil presidenta de la Comisión de Igualdad de Género, o su equivalente en el gobierno municipal. En todo caso su integración será determinada en su reglamentación municipal. Se podrá invitar, con derecho a voz, a representantes de los gobiernos estatal y federal, así como a representantes de los sectores privado, académico y social con presencia en el municipio, para diseñar, ejecutar y coordinar las acciones orientadas a detectar, prevenir, atender y erradicar la violencia contra las mujeres, así como brindarles protección; y
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XI], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2023)</small>
 
-XII. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
+XII. Supervisar la venta de ácidos, sustancias químicas, corrosivas o cáusticas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2023)</small>
+
+XIII. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -2042,3 +2048,11 @@ P.O. 14 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29140/LXIII/23 QUE REFORMAN (SIC) EL ARTÍCULO 28 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO, CON EL OBJETO DE ESTABLECER QUE EN TODA MUERTE VIOLENTA DE MUJERES O NIÑAS SE APLICARÁ EL PROTOCOLO DE INVESTIGACIÓN DEL DELITO DE FEMINICIDIO CON PERSPECTIVA DE GÉNERO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29166/LXIII/23 SE ADICIONAN DIVERSOS PÁRRAFOS Y FRACCIONES A LOS ARTÍCULOS 10, 30 Y 41, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, MODIFICA LAS FRACCIONES XVII Y XVIII, Y SE ADICIONA LA XIX, AL ARTÍCULO 27, Y EL CAPÍTULO II BIS, AL TÍTULO DÉCIMO SEXTO Y EL ARTÍCULO 212 BIS AL CÓDIGO PENAL AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO, CON EL OBJETO DE RECONOCER Y SANCIONAR LA VIOLENCIA FÍSICA PRODUCTO DE LAS LESIONES CON ÁCIDO, SUSTANCIAS QUÍMICAS O CORROSIVAS, CÁUSTICAS O IRRITANTES, TÓXICAS O INFLAMABLES, EN CONTRA DE LAS MUJERES Y NIÑAS E IMPLEMENTAR PROTOCOLOS DE ACTUACIÓN, ASÍ COMO REGULAR LA VENTA DE LAS MISMAS".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los ayuntamientos en coordinación con la Secretaría de Salud (sic) Jalisco y la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, deberán realizar acciones tendientes a informar y prevenir los ataques contra niñas y mujeres con ácido, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas o inflamables o cualquier otra sustancia.
