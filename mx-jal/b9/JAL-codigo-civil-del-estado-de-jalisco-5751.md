@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2022-09-10"
+last_updated: "2023-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -3937,7 +3937,9 @@ II. Cuando no convivan ambos padres, cualquiera de los dos ejercerá sobre él l
 
 III. (DEROGADA, P.O. 3 DE AGOSTO DE 2013) (REPUBLICADA, P.O. 25 DE NOVIEMBRE DE 2014 Y P.O. 5 DE SEPTIEMBRE DE 2015)
 
-IV. Cuando ninguno de los dos padres tenga la guarda y custodia de la niña, niño o adolescente, ésta podrá ser confiada, por el Juez, a los ascendientes, parientes dentro del cuarto grado o personas con las que estén ligados en virtud de amistad profunda o el afecto nacido y sancionado por los actos religiosos o respetados por la costumbre, siempre y cuando cumplan con los requisitos de disposición y disponibilidad afectiva de custodia, así como de buenas costumbres;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
+
+IV. Cuando ninguno de los dos padres tenga la guarda y custodia de la niña, niño o adolescente, ésta podrá ser confiada, por el Juez, a los ascendientes o parientes dentro del cuarto grado, a falta de estos o cuando los parientes no puedan ejercer esta guarda o custodia, el juez podrá otorgarla previo estudio y ponderación del interés superior de la niñez, a otras personas fuera de las señaladas con las que el menor tenga una relación afectiva comprobable;
 
 V. En convivencia dentro de familias de acogida, a través de la custodia personal autorizada por la Procuraduría de Protección de Niñas, Niños y Adolescentes; siempre y cuando cumplan con los requisitos de disposición y disponibilidad afectiva de custodia, así como de buenas costumbres; y
 
@@ -11935,6 +11937,10 @@ Es inoficiosa la donación que comprenda la totalidad de los bienes del donante,
 
 Las circunstancias particulares del donante estarán delimitadas por el estilo de vida que éste acostumbre tener.
 
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2023)</small>
+
+El notario que expida el o los instrumentos públicos relacionados con la donación deberá informar a las partes el contenido del presente artículo y los derechos que les asisten.
+
 ###### Art. 1932.
 
 Las donaciones serán inoficiosas en cuanto perjudiquen la obligación del donante de ministrar alimentos a aquellas personas a quienes los debe conforme a la ley, a no ser que el donatario tome sobre sí la obligación de ministrar alimentos y la garantice debidamente.
@@ -13725,7 +13731,9 @@ II. Transigir;
 
 III. Comprometerse en árbitros;
 
-IV. Absolver y articular posiciones;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
+
+IV. Absolver posiciones;
 
 V. Hacer cesión de bienes;
 
@@ -16029,9 +16037,9 @@ La transacción debe formalizarse:
 
 I. Para prevenir una controversia futura y que se trate de derechos personales, mediante escrito en el cual estén autenticadas las firmas de los otorgantes;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
 
-II. Cuando se refiera a una controversia presente o para prevenir una controversia futura y se trate de derechos personales o reales o ambos a la vez, mediante ocurso presentado y ratificado ante la autoridad judicial que sea competente para conocer del negocio o en escritura pública ante notario.
+II. Cuando se refiera a una controversia presente o para prevenir una controversia futura y se trate de derechos personales o reales o ambos a la vez, mediante ocurso presentado y ratificado ante la autoridad judicial que sea competente para conocer del negocio o en escritura pública y se deberá identificar ante notario mediante su credencial para votar con fotografía, o bien alguna otra identificación contenida en los soportes tecnológicos aprobados por el Consejo de Notarios, y verificar los datos biométricos disponibles; y
 
 III. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2004)
 
@@ -17645,7 +17653,7 @@ I. El que haya sido condenado por haber dado, mandado o intentado dar muerte a l
 
 II. El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, cónyuge, concubina o concubinario o colaterales hasta el cuarto grado, acusación de delito que merezca pena privativa de la libertad personal o deambulatoria, aun cuando aquella sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra o la de sus ascendientes, descendientes, cónyuge, concubina o concubinario o hermanos;
 
-III. El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
+III. (DEROGADA, P.O. 25 DE MARZO DE 2023)
 
 IV. El coautor del adulterio, ya sea que se trate de la sucesión de éste o de la del cónyuge inocente;
 
@@ -19458,5 +19466,11 @@ P.O. 10 DE SEPTIEMBRE DE 2022.
 P.O. 10 DE SEPTIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28812/LXIII/22 QUE REFORMA EL ARTÍCULO 393 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29165/LXIII/23 QUE REFORMA LOS ARTÍCULOS 572, 1931, 2236, 2634 Y 2957 DEL CÓDIGO CIVIL Y EL ARTÍCULO 84 DE LA LEY DEL NOTARIADO, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
