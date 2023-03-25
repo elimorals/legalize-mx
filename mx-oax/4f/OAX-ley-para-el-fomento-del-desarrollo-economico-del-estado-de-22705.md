@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-fomento-del-desarrollo-economico-del-estado-de-2270
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-06"
-last_updated: "2021-12-04"
+last_updated: "2023-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY PARA EL FOMENTO DEL DESARROLLO ECONOMICO DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE ABRIL DE 2023 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 6 de octubre del 2001.
 
@@ -85,11 +87,13 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I.- Consejo Estatal: Consejo Estatal Consultivo de Fomento del Desarrollo Económico;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
 
-II.- Secretaría: Secretaría de Economía;
+II.- Secretaría: Secretaría de Desarrollo Económico;
 
-III.- COPLADE: Comité Estatal de Planeación para el Desarrollo de Oaxaca;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
+
+III.- INSPLABI: Instituto de Planeación para el Bienestar;
 
 IV.- Consejo Regional: Consejo Regional Consultivo de Fomento del Desarrollo Económico;
 
@@ -153,13 +157,11 @@ El Gobierno del Estado y los gobiernos municipales promoverán y apoyarán la cr
 
 ### CAPITULO I. DE LOS PLANES Y PROGRAMAS DE FOMENTO DEL DESARROLLO ECONOMICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2023)</small>
 
 ###### ARTICULO 7°.
 
-Para el fomento del desarrollo económico del Estado de Oaxaca, se implementarán planes y programas estatales, regionales y municipales de desarrollo, los cuales precisarán los objetivos, estrategias y prioridades del desarrollo integral del Estado, en los términos que señale la Ley Estatal de Planeación y los convenios que se suscriban para tal efecto a través de la Coordinación General del COPLADE, observando la paridad y perspectiva de género.
-
-Los ayuntamientos elaborarán sus planes municipales y los programas operativos anuales.
+Para el fomento del desarrollo económico del Estado de Oaxaca, se implementarán planes y programas estatales, regionales y municipales de desarrollo, los cuales precisarán los objetivos, estrategias y prioridades del desarrollo integral del Estado, en los términos que señale la Ley Estatal de Planeación y los convenios que se suscriban para tal efecto a través de la Dirección General del Instituto de Planeación para el Bienestar, observando la paridad y perspectiva de género.
 
 ###### ARTICULO 8º.
 
@@ -227,7 +229,9 @@ En congruencia con la Ley de Planeación del Estado y el Plan Estatal de Desarro
 
 I.- Señalar la participación que corresponda a las dependencias y entidades de la administración pública;
 
-II.- Suscribir convenios para la coordinación de acciones con la participación y a propuesta del COPLADE;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2023)</small>
+
+II.- Suscribir convenios para la coordinación de acciones con la participación y a propuesta del INSPLABI;
 
 III.- Establecer comisiones o subcomisiones intersectoriales; y
 
@@ -580,3 +584,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan y contravengan al presente Decreto.
+
+P.O. 25 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1019.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 2; EL ARTÍCULO 7; Y LA FRACCIÓN II DEL ARTÍCULO 10 DE LA LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA; SE REFORMAN LOS ARTÍCULOS 30, 34 Y 37 DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
