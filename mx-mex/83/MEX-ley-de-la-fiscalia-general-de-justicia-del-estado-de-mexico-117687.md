@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-fiscalia-general-de-justicia-del-estado-de-mexico-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-09"
-last_updated: "2021-05-31"
+last_updated: "2023-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MEX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ABRIL DE 2023 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2023.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado Libre y Soberano de México, el viernes 9 de diciembre de 2016.
 
@@ -1157,69 +1159,131 @@ Las instituciones de profesionalización competentes emitirán las constancias d
 
 #### SECCIÓN PRIMERA. DEL ÓRGANO INTERNO DE CONTROL
 
-> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE MARZO DE 2023)</small>
 
 ###### Artículo 49.
 
-Al frente del Órgano Interno de Control de la Fiscalía, habrá un titular, quien será designado en términos de la legislación aplicable, a quién le corresponde el ejercicio de las funciones que le otorga la Constitución Federal, la Constitución del Estado, así como las leyes generales y estatales aplicables, entre éstas:
+Al frente del Órgano Interno de Control de la Fiscalía, habrá una persona titular, quien desempeñará el cargo por un periodo de cuatro años y podrá ser ratificado por un período inmediato más. La designación o ratificación, será hecha por la Legislatura del Estado, dentro de los treinta días hábiles siguientes al término del periodo correspondiente, con el voto de las dos terceras partes de sus miembros presentes y, en tanto la Legislatura designa o ratifica al titular, en dicho plazo, quien se encuentre desempeñando dichas funciones, continuará en el encargo. A la persona titular del Órgano Interno de Control de la Fiscalía, le corresponde el ejercicio de las funciones que le otorga la Constitución Federal, la Constitución del Estado, así como las leyes generales y estatales aplicables, entre éstas:
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
 I. Proponer la instrumentación de acciones de mejora en materia de control y evaluación.
 
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
 II. Difundir entre los servidores públicos de la Fiscalía las disposiciones en materia de control y de responsabilidades, que incidan en el desarrollo de sus labores.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
 III. Realizar las acciones de control y evaluación a los ingresos, gastos, recursos y obligaciones de la Fiscalía.
 
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
 IV. Verificar el adecuado ejercicio del presupuesto de la Fiscalía, atendiendo a los principios de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad aplicable.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
 V. Participar en los procesos de entrega y recepción de las unidades administrativas de la Fiscalía, verificando su apego a la normatividad correspondiente.
 
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
 VI. Recibir y turnar a la autoridad competente las quejas y denuncias que se interpongan en contra del personal operativo por el ejercicio de su cargo, así como recibir y tramitar las sugerencias y reconocimientos ciudadanos.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
 VII. Verificar la presentación oportuna de las declaraciones patrimonial y de intereses, así como la constancia de presentación de la declaración fiscal de los servidores públicos de la Fiscalía sujetos a esta obligación.
 
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
 VIII. Realizar las acciones de control y evaluación, a fin de constatar que se observen las disposiciones jurídicas aplicables en el ejercicio de los recursos federales.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
 IX. Vigilar que la Fiscalía cumpla con las disposiciones jurídicas aplicables en sus diferentes ámbitos.
 
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
 X. Dar vista a la autoridad competente de los hechos que tenga conocimiento que puedan ser constitutivos de delito.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
 XI. Mantener informado al Fiscal General sobre el cumplimiento de su ámbito competencial.
 
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
 XII. Investigar, substanciar y resolver los procedimientos de responsabilidad administrativa, salvo cuando sea competencia del sistema disciplinario previsto en esta Ley, e imponer sanciones o solicitar su imposición a las autoridades competentes, de conformidad con lo que dispongan las leyes en materia de responsabilidades administrativas y en su caso, ejecutar las sanciones administrativas de su competencia.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
 XIII. Conocer de los actos de corrupción atribuibles a los servidores públicos, cometidos en beneficio propio o de terceros, caso en el cual no será competente ni la Comisión de Honor y Justicia ni el Consejo de Profesionalización que conforman el sistema disciplinario previsto en esta Ley, pero sí aplicarán las disposiciones de la Ley de Seguridad del Estado de México, la Ley de Responsabilidades Administrativas del Estado de México y Municipios, y la presente Ley en lo conducente.
 
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
 XIV. Conocer de los asuntos en donde exista concurso de conductas del servidor público, y algunas sean competencia del Órgano Interno de Control, y otras sean del sistema disciplinario de esta Ley, a efecto de no dividir la continencia de la causa y emitir una sola resolución con motivo de dicho concurso.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
 XV. Declinar competencia hacia la Visitaduría General en los casos en que resulte incompetente el Órgano Interno de Control, cuando exista conflicto de interés en su actuación, o cuando se trate de servidores públicos de dicho Órgano.
 
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
 XVI. Conocer, tramitar y resolver los recursos administrativos que le correspondan, de acuerdo con las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
 XVII. Vigilar que las actividades de las unidades administrativas de la Fiscalía, cumplan con las políticas, normas, lineamientos, procedimientos y demás disposiciones jurídicas aplicables en el ámbito de su competencia.
 
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
 XVIII. Verificar el adecuado ejercicio del presupuesto de la dependencia u organismo auxiliar de su adscripción, atendiendo a los principios de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad aplicable.
+
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
 
 XIX. Informar al Titular de la Fiscalía Especializada en Combate a la Corrupción sobre los resultados obtenidos en la materia, dentro del ámbito de su competencia, y
 
+> <small>(REFORMADA, G.G. 30 DE MAYO DE 2017)</small>
+
 XX. Las demás que le confieran otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
 Las responsabilidades administrativas en que incurran los servidores públicos del órgano interno de control de la Fiscalía, serán investigadas por la Visitaduría General y substanciadas y sancionadas por el Fiscal General, por conducto de la unidad jurídica, siempre y cuando éstas no sean competencia del Tribunal de Justicia Administrativa del Estado de México.
 
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
+
 Cuando la denuncia sea contra servidores de la Visitaduría General, la investigación estará a cargo del órgano interno de control.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(ADICIONADO, G.G. 27 DE MARZO DE 2023)</small>
 
 ###### Artículo 49 Bis.
 
-La Visitaduría General es el órgano de inspección, supervisión, evaluación e investigación de la Fiscalía, en términos de la Constitución Federal y demás normatividad aplicable.
+Para ser persona titular del Órgano Interno de Control se requiere:
 
-> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+I. Ser ciudadana o ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener por lo menos treinta años cumplidos el día de la designación;
+
+II. Contar al momento de su designación con experiencia de al menos cinco años en el control, manejo o fiscalización de recursos y rendición de cuentas, responsabilidades administrativas, contabilidad gubernamental, auditoria gubernamental, transparencia, obra pública, adquisiciones, arrendamientos y/o servicios del sector público;
+
+III. Contar al día de su designación, con título profesional, relacionado con las actividades a que se refiere la fracción anterior, expedido por institución legalmente facultada para ello;
+
+IV. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Fiscalía, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
+
+V. No estar inhabilitada o inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VI. No haber sido Secretaria o Secretario de Estado, Fiscal General de Justicia, Senadora o Senador, Diputada o Diputado Federal o Local, integrante de algún Ayuntamiento, dirigente, integrante de órgano rector o responsable del manejo responsable del manejo (sic) de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
 #### SECCIÓN SEGUNDA. DE LA VISITADURÍA GENERAL
 
-> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 49 BIS], G.G. 27 DE MARZO DE 2023)
 
 ###### Artículo 49 Ter.
+
+La Visitaduría General es el órgano de inspección, supervisión, evaluación e investigación de la Fiscalía, en términos de la Constitución Federal y demás normatividad aplicable.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 49 TER], G.G. 27 DE MARZO DE 2023)
+
+###### Artículo 49 Quater.
 
 La Visitaduría General estará a cargo de un Titular que tendrá el carácter de agente del Ministerio Público, quien será nombrado y removido libremente por el Fiscal General, y cuenta con las siguientes atribuciones:
 
@@ -1830,3 +1894,15 @@ OCTAVO.- La Legislatura del Estado asignará los recursos presupuestales necesar
 NOVENO.- La Secretaría de Finanzas y la Secretaria de Justicia y Derechos Humanos proveerán lo necesario para el cumplimiento del presente Decreto y llevarán a cabo todos los actos necesarios de conformidad con las disposiciones jurídicas aplicables para constituir el Fondo a que hace alusión los artículos 60 al 64, en un término máximo de seis meses contados a partir de la entrada en vigor del presente Decreto.
 
 DÉCIMO.- En un plazo que no exceda de sesenta días contados a partir de la entrada en vigor del presente Decreto, la Fiscalía General de Justicia del Estado de México deberá realizar las modificaciones respectivas a su reglamento para dar cumplimiento con el presente Decreto.
+
+G.G. 27 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 148.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Legislatura Local deberá expedir la convocatoria para la designación de las personas titulares del Órgano Interno de Control a que se refiere este Decreto dentro los 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Las personas titulares de los Órganos Internos de Control que actualmente ejercen el cargo, podrán participar en el procedimiento de designación o ratificación que al efecto realice la Legislatura.
