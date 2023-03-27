@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2023-02-27"
+last_updated: "2023-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2023.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2793,9 +2793,9 @@ XVI. Se cometa utilizando de cualquier forma una unidad del servicio público de
 
 XVII. El objeto robado sea un vehículo de motor.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2023)</small>
 
-En los casos a que hace referencia este artículo, se aplicarán las sanciones correspondientes al robo simple, aumentadas en una mitad, exceptuando el supuesto de la fracción XII, que se aumentará en dos terceras partes.
+En los casos a que hace referencia este artículo, se aplicarán las sanciones correspondientes al robo simple, aumentadas en una mitad, exceptuando los supuestos de las fracciones, III, cuando se cometa con violencia física o moral, y XII, en los que se aumentará en dos terceras partes.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -3675,9 +3675,13 @@ Cuando el delito a que se refiere este capítulo sea cometido por un servidor p�
 
 Comete el delito a que se refiere este Capítulo, quien porta machetes, cuchillos o navajas, cuando se acredite que no serán empleados como instrumento de trabajo; o quien porta, trafica, fabrica, importa o acopia alguna de las siguientes armas:
 
-I. Puñales, dagas, verduguillos, estrellas, discos y demás armas disimuladas en bastones u otros objetos;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2023)</small>
 
-II. Boxers, manoplas, macanas, hondas, correas con balas o pesas, chacos, cadenas y demás similares, o
+I. Puñales, dagas, verduguillos, estrellas metálicas o de cualquier material, discos, y demás armas disimuladas en bastones u otros objetos;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2023)</small>
+
+II. Boxers, manoplas, macanas, hondas, correas con balas o pesas, chacos, cadenas, abrojos, cuchillas, erizos, estrellas metálicas o de cualquier material, púas, picos, clavos, ponchallantas, varillas, o cualquier otro instrumento similar, o
 
 III. Petardos, bombas, aparatos explosivos o de gases asfixiantes o tóxicos.
 
@@ -4687,15 +4691,35 @@ Este delito se sancionará con una pena de cinco a doce años de prisión y sanc
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2017)</small>
 
+### CAPÍTULO V. Delitos Contra la Seguridad Vial
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2023)</small>
+
+ARTÍCULO 364 BIS. Comete el delito contra la seguridad vial quien sin causa justificada, arroja, coloca, o deposita en una vía pública estatal o municipal, cualquiera de las armas prohibidas a que se refiere la fracción II del artículo 287 de este Código, con el fin de dañar u ocasionar un mal funcionamiento de los neumáticos o cualquier parte de los vehículos de motor o vehículos impulsados exclusivamente por la fuerza humana que transitan por esas vías.
+
+Para efectos de este artículo, se entiende por vía pública a las calles, caminos, veredas, terracerías, avenidas, carreteras, autopistas o libramientos.
+
+Este delito se sancionará con una pena de dos a cinco años de prisión y sanción pecuniaria de doscientos a quinientos días del valor de la unidad de medida y actualización, más la reparación del daño.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2023)</small>
+
+ARTÍCULO 364 TER. Las penas señaladas en el artículo anterior, se aumentará en dos terceras partes, cuando:
+
+I. La conducta sirva como medio para la comisión de cualquier otra tipificada como delito;
+
+II. La conducta afecte vehículos de cualquier institución o cuerpo de seguridad pública federal, estatal, o municipal, así como de las fuerzas armadas, y
+
+III. La conducta afecte vehículos que prestan auxilio médico, vial, o de cualquier otra clase que se relacione con el servicio público.
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2023)</small>
+
 ### CAPÍTULO I. Prevenciones Generales
 
 ### CAPÍTULO II. Dolo en la Emisión del Voto
 
-### CAPÍTULO III. Interferencia en el Desarrollo del Proceso Electoral
-
 ## TÍTULO DECIMO SÉPTIMO. DELITOS CONTRA LA ECONOMÍA PÚBLICA
 
-### CAPÍTULO IV. Violaciones al Proceso Electoral
+### CAPÍTULO III. Interferencia en el Desarrollo del Proceso Electoral
 
 ###### ARTÍCULO 344.
 
@@ -4725,7 +4749,7 @@ Este delito se sancionará con una pena de cuatro a siete años de prisión, y s
 
 Las penas previstas en este artículo se aplicarán independientemente de las que correspondan por la comisión de cualquier otro delito.
 
-### CAPÍTULO V. Violaciones Electorales Cometidas por Servidores Públicos
+### CAPÍTULO IV. Violaciones al Proceso Electoral
 
 ###### ARTÍCULO 346.
 
@@ -4739,7 +4763,7 @@ También comete el delito a que se refiere este capítulo quien en negocio estab
 
 En caso de reincidencia, o que además del incumplimiento a las normas de que se trata se haya incurrido en otro ilícito, con independencia de las penas o sanciones que correspondan se decretará la cancelación definitiva de la licencia o permiso y, en su caso, el decomiso de los bienes respectivos.
 
-### CAPÍTULO VI. Inducción Ilícita a Electores
+### CAPÍTULO V. Violaciones Electorales Cometidas por Servidores Públicos
 
 ###### ARTÍCULO 348.
 
@@ -4773,11 +4797,13 @@ V. Impone labores insalubres o peligrosas y trabajos nocturnos ilegales a sus tr
 
 Este delito se sancionará con una pena de tres a cinco años de prisión, y sanción pecuniaria de trescientos a quinientos días del valor de la unidad de medida y actualización.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MARZO DE 2023)</small>
 
-## TÍTULO DÉCIMO OCTAVO. DELITOS CONTRA LA SEGURIDAD DE LAS VÍAS DE COMUNICACIÓN; MEDIOS DE TRANSPORTE; Y LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE PÚBLICO DE PASAJEROS
+## TITULO DÉCIMO OCTAVO
 
-### CAPÍTULO VII. No Desempeño del Cargo
+DELITOS CONTRA LA SEGURIDAD DE LAS VÍAS DE COMUNICACIÓN; MEDIOS DE TRANSPORTE; LA PRESTACION DEL SERVICIO DE TRANSPORTE PÚBLICO DE PASAJEROS; VIOLACIÓN DE CORRESPONDENCIA; Y LA SEGURIDAD VIAL
+
+### CAPÍTULO VI. Inducción Ilícita a Electores
 
 ###### ARTÍCULO 351.
 
@@ -4819,7 +4845,7 @@ A quien destruya, inutilice, quite o cambie un dispositivo o señal de seguridad
 
 A quien entorpezca, paralice o deje de prestar un servicio público de transporte, se le impondrá una sanción de dos a ocho años de prisión y sanción pecuniaria de doscientos a ochocientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO VIII. Inducción al Voto por Ministros de Culto Religioso
+### CAPÍTULO VII. No Desempeño del Cargo
 
 ###### ARTÍCULO 357.
 
@@ -4851,6 +4877,8 @@ En caso de reincidencia de alguno de los delitos a que se refieren los artículo
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 2016)</small>
 
+### CAPÍTULO VIII. Inducción al Voto por Ministros de Culto Religioso
+
 ### CAPÍTULO IX. Violencia Política contra las Mujeres en Razón de Género
 
 ###### ARTÍCULO 361.
@@ -4877,7 +4905,7 @@ No se aplicará sanción alguna a los que, en ejercicio de la patria potestad, l
 
 El delito de violación de correspondencia sólo se perseguirá por querella necesaria.
 
-> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2023)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE MARZO DE 2023)</small>
 
 ## TÍTULO DECIMO NOVENO. DELITOS CONTRA EL CORRECTO FUNCIONAMIENTO DEL SISTEMA ELECTORAL
 
@@ -5570,5 +5598,21 @@ P.O. 27 DE FEBRERO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0697.- SE DEROGA DE LA PARTE ESPECIAL, EL TÍTULO DÉCIMO NOVENO, "DELITOS CONTRA EL CORRECTO FUNCIONAMIENTO DEL SISTEMA ELECTORAL", LOS CAPÍTULOS I A IX QUE LO INTEGRAN, CON LOS ARTÍCULOS 365 A 376, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0723.- SE REFORMA EL ARTÍCULO 287, EN SUS FRACCIONES I Y II Y EN LA PARTE ESPECIAL, LA DENOMINACIÓN DEL TÍTULO DÉCIMO OCTAVO “DELITOS CONTRA LA SEGURIDAD DE LAS VÍAS DE COMUNICACIÓN; MEDIOS DE TRANSPORTE; LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE PÚBLICO DE PASAJEROS; VIOLACIÓN DE CORRESPONDENCIA; Y LA SEGURIDAD VIAL”; Y ADICIONA EN LA PARTE ESPECIAL, EN SU TÍTULO DÉCIMO OCTAVO, EL CAPÍTULO V, DENOMINADO “DELITOS CONTRA LA SEGURIDAD VIAL” Y LOS ARTÍCULOS 364 BIS Y 364 TER DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0724.- SE REFORMA EL ARTÍCULO 218, SU PÁRRAFO PENÚLTIMO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
