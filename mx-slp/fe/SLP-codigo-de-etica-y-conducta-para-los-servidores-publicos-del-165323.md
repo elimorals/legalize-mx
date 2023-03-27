@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-etica-y-conducta-para-los-servidores-publicos-del-165
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-05"
-last_updated: "2019-11-05"
+last_updated: "2023-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165323&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # CODIGO DE ETICA Y CONDUCTA PARA LOS SERVIDORES PUBLICOS DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA PARA LAS Y LOS SERVIDORES PÚBLICOS DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2023 (ABROGADO).
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 5 de noviembre de 2019.
 
@@ -340,3 +342,15 @@ LIC. JUAN DE JESÚS ROCHA MARTÍNEZ
 CONTRALOR INTERNO
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA PARA LAS Y LOS SERVIDORES PÚBLICOS”.]
+
+PRIMERO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Este Código abroga al publicado el pasado 05 de noviembre del 2019 en la Edición Extraordinaria del Periódico Oficial del Estado.
+
+TERCERO. Una vez publicado el Código de Ética para las y los Servidores Públicos del Congreso del Estado de San Luis Potosí, dentro del plazo de los cuarenta y cinco días naturales posteriores a dicha publicación, el titular del Órgano Interno de Control del Congreso del Estado, deberá de generar y publicar los lineamientos para la integración, organización y funcionamiento del Comité de Ética del Congreso del Estado de San Luis Potosí, a efecto de que este órgano se instale y cumpla con las obligaciones que le señala el presente Código.
