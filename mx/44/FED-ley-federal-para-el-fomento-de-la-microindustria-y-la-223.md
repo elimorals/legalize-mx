@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-para-el-fomento-de-la-microindustria-y-la-223"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1988-01-26"
-last_updated: "2012-04-09"
+last_updated: "2023-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=223&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1987-12-23"
 
 LEY FEDERAL PARA EL FOMENTO DE LA MICROINDUSTRIA Y LA ACTIVIDAD ARTESANAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 26 de enero de 1988.
 
@@ -85,19 +85,27 @@ Los empresarios de las microindustrias sólo están obligados a llevar su contab
 
 La Secretaría, con la participación, en su caso, de las demás dependencias y entidades competentes de la Administración Pública Federal, así como de los Gobiernos de los Estados y Municipios, procurará la aplicación y vigilará el cumplimiento de esta Ley y, en particular, realizará lo siguiente:
 
-I.- Determinar las actividades que sea más conveniente desarrollen las microindustrias y señalar las zonas prioritarias para su instalación, a fin de otorgar mayores estímulos;
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2023)</small>
 
-II.- Fomentar la agrupación de empresas de microindustrias para obtener financiamientos, establecer sistemas de ventas y compras en común de materias primas y productos y, en su caso, prestación de servicios de subcontratación y maquila; y
+I.- Determinar las actividades que sea más conveniente desarrollen las microindustrias y señalar las zonas prioritarias para su instalación, incluyendo a las comunidades indígenas, a fin de otorgar mayores estímulos;
+
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2023)</small>
+
+II.- Fomentar la agrupación de empresas de microindustrias para obtener financiamientos, con especial atención a las y los artesanos de los pueblos y comunidades indígenas, para establecer sistemas de ventas y compras en común de materias primas y productos y, en su caso, prestación de servicios de subcontratación y maquila;
 
 III.- Elaborar programas de difusión, gestión, formación y capacitación empresarial, así como de servicios de extensionismo, para identificar y resolver problemas relacionados con la organización, producción y mercado de las microindustrias;
 
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2023)</small>
 
-IV.- Impulsar las tareas de investigación y de aplicación de técnicas de mejoramiento para el fomento y desarrollo de la producción artesanal; y
+IV.- Impulsar las tareas de investigación y de aplicación de técnicas de mejoramiento para el fomento y desarrollo de la producción artesanal;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 18 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2023)</small>
 
-V.- Promoverá la participación del sector turístico en el desarrollo de acciones que permitan a las microindustrias en regiones turísticas mejorar su desempeño en la producción artesanal.
+V.- Promoverá la participación del sector turístico en el desarrollo de acciones que permitan a las microindustrias en regiones turísticas mejorar su desempeño en la producción artesanal, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE MARZO DE 2023)</small>
+
+VI.- Podrá establecer programas emergentes de apoyo a la microindustria y la actividad artesanal en caso de que sea emitida una declaratoria de emergencia o desastre, que imposibiliten su desarrollo total o parcial.
 
 ### CAPITULO II. De los Empresarios Personas Físicas
 
@@ -317,9 +325,17 @@ A). Formular las recomendaciones pertinentes a las dependencias y entidades de l
 
 B). Proponer los criterios para otorgar los certificados de origen, así como las normas mínimas de calidad que deben cumplir las artesanías para su exportación;
 
-C). Promover la celebración de acuerdos de coordinación con las entidades federativas, para fomentar la producción de artesanías, involucrando la participación de organismos especializados en la materia, y
+> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 2023)</small>
 
-D). Propiciar la concentración regional de la producción artesanal con el fin de facilitar su promoción, a través de la celebración de ferias y exposiciones artesanales, a nivel nacional e internacional, conforme a las disposiciones aplicables.
+C). Promover la celebración de acuerdos de coordinación con las entidades federativas, para fomentar la producción de artesanías, involucrando la participación de organismos especializados en la materia;
+
+> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 2023)</small>
+
+D). Propiciar la concentración regional de la producción artesanal con el fin de facilitar su promoción, a través de la celebración de ferias y exposiciones artesanales, a nivel nacional e internacional, conforme a las disposiciones aplicables, y
+
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2023)</small>
+
+E). Proponer mecanismos para la inclusión de aquellos artesanos que, sin estar formalmente constituidos como una microindustria, su actividad económica y comercial recae en la elaboración de artesanías.
 
 > <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2012)</small>
 
@@ -430,3 +446,19 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 27 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 7o. DE LA LEY FEDERAL PARA EL FOMENTO DE LA MICROINDUSTRIA Y LA ACTIVIDAD ARTESANAL”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsable para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+D.O.F. 27 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 7o. Y 37 DE LA LEY FEDERAL PARA EL FOMENTO DE LA MICROINDUSTRIA Y LA ACTIVIDAD ARTESANAL".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
