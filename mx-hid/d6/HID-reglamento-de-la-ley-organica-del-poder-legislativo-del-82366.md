@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-organica-del-poder-legislativo-del-82366"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-01"
-last_updated: "2023-01-13"
+last_updated: "2023-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2023.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 1 de agosto de 2011.
 
@@ -601,7 +601,11 @@ Corresponde a la Comisión de Protección Civil:
 
 I.- Conocer y emitir resolutivos de los asuntos que le sean turnados en materia de prevención, auxilio y recuperación de la población de la entidad, con motivo de peligros y riesgos que se presenten ante la eventualidad de un desastre; y
 
-II.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2023)</small>
+
+II.- El diputado o la diputada que presida la Comisión, se integrará al Consejo Estatal de Protección Civil como representante del Poder Legislativo;
+
+III.- Las demás que le sean conferidas por el Pleno del Congreso y la Diputación Permanente.
 
 ###### ARTÍCULO 48.
 
@@ -1914,3 +1918,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su public
 SEGUNDO. El Congreso del Estado deberá prever en su presupuesto para el Ejercicio Fiscal del año 2023, la asignación de recursos para la creación, organización y funcionamiento de la Dirección de Planeación y de la Unidad Resolutora de la Dirección de Responsabilidades de la Contraloría Interna del Poder Legislativo.
 
 TERCERO. Tratándose de las atribuciones de la Unidad Resolutora, serán ejecutadas por la persona titular de la Dirección de Responsabilidades, a efecto de no vulnerar lo contemplado en la Ley General de Responsabilidades Administrativas, lo anterior hasta cumplirse con lo dispuesto en el transitorio segundo del presente Decreto.
+
+P.O. 27 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 264 QUE ADICIONA UN PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 11 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO; SE ADICIONA LA FRACCIÓN II RECORRIÉNDOSE LA SUBSECUENTE, DEL ARTÍCULO 47 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
