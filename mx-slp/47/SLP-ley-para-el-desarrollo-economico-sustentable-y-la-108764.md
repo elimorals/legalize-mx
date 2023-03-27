@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2022-12-27"
+last_updated: "2023-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2023.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -853,13 +853,17 @@ III. Promover, capacitar y difundir los programas, instrumentos, productos, herr
 
 IV. Fomentar el acceso al financiamiento de las MIPYMES;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2023)</small>
 
-V. Impulsar la constitución de incubadoras de empresas y formación de emprendedores, y
+V. Impulsar la constitución de incubadoras de empresas y formación de emprendedores;
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2023)</small>
 
-VI. Impulsar incubadoras de empresas y formación para las mujeres emprendedoras.
+VI. Impulsar incubadoras de empresas y formación para las mujeres emprendedoras, y
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2023)</small>
+
+VII. Incentivar la economía de las comunidades indígenas por medio de programas, y desarrollo de capacidades locales y regionales, así como otorgamiento de créditos.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1140,6 +1144,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 27 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0573.- SE REFORMA EL ARTÍCULO 10 EN SUS FRACCIONES, II, III, IV, Y V; Y ADICIONA AL MISMO ARTÍCULO 10 LAS FRACCIONES, VI, Y VII DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0721.- SE REFORMA EL ARTÍCULO 70, EN SUS FRACCIONES V Y VI; Y ADICIONA AL MISMO ARTÍCULO 70, LA FRACCIÓN VII, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
