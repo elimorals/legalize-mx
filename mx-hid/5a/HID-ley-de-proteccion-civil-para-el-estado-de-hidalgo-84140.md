@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-civil-para-el-estado-de-hidalgo-84140"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2022-11-24"
+last_updated: "2023-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -358,6 +358,10 @@ III.- Un Secretario Técnico, que será el Sub-secretario de Protección Civil y
 IV.- Los titulares de las Dependencias y Entidades de la Administración Pública Estatal, que por el ramo que atienden les corresponda en los sub-programas de prevención, auxilio y apoyo ante la ocurrencia de un desastre;
 
 V.- Los representantes de los Poderes Legislativo y Judicial del Estado;
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2023)</small>
+
+Para el caso del Poder Legislativo del Estado de Hidalgo, el representante será el diputado o diputada que presida la Primera Comisión Permanente de Protección Civil del Congreso del Estado Libre y Soberano de Hidalgo de la Legislatura en turno;
 
 VI.- Las Delegaciones Estatales de las Dependencias y Entidades de la Administración Pública Federal, que realicen actividades relacionadas con la ejecución de los sub-programas de prevención, auxilio y apoyo por la ocurrencia de algún desastre, podrán actuar con voz pero sin voto, cuando el Presidente del Consejo así lo estime;
 
@@ -1380,5 +1384,11 @@ P.O. 12 DE ABRIL DE 2022.
 P.O. 24 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 297 POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 16 TER DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUMERO 264 QUE ADICIONA UN PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 11 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO; SE ADICIONA LA FRACCIÓN II RECORRIÉNDOSE LA SUBSECUENTE, DEL ARTÍCULO 47 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
