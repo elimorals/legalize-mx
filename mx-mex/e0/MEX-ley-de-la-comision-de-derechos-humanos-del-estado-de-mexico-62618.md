@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-comision-de-derechos-humanos-del-estado-de-mexico-626
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-14"
-last_updated: "2021-08-16"
+last_updated: "2023-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2023.
 
 Ley publicada en la Gaceta de Gobierno del Estado de México, el jueves 14 de agosto de 2008.
 
@@ -1233,6 +1233,44 @@ Se establecerá un sistema de servicio profesional de carrera, a efecto de garan
 
 Los servidores públicos del Organismo, en el desempeño de sus funciones, deben observar los principios éticos y deontológicos que emita el Consejo Consultivo.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.G. 27 DE MARZO DE 2023)</small>
+
+## TÍTULO OCTAVO. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 27 DE MARZO DE 2023)</small>
+
+### Capítulo Único. Disposiciones Generales
+
+> <small>(ADICIONADO, G.G. 27 DE MARZO DE 2023)</small>
+
+###### Artículo 134.
+
+En el ejercicio de sus funciones la Comisión contará con un Órgano Interno de Control, encargado de conocer actos y omisiones que pudieran constituir responsabilidades administrativas de las personas servidoras públicas de la Comisión y de revisar el manejo y aplicación de los recursos públicos, así como de aquellas atribuciones señaladas en esta Ley, en el Reglamento Interno y en otras disposiciones jurídicas.
+
+> <small>(ADICIONADO, G.G. 27 DE MARZO DE 2023)</small>
+
+###### Artículo 135.
+
+La persona titular del Órgano Interno de Control desempeñará el cargo por un periodo de cuatro años y podrá ser ratificado por un período inmediato más, la designación o ratificación, será hecha por la Legislatura del Estado, dentro de los treinta días hábiles siguientes al término del periodo correspondiente, con el voto de las dos terceras partes de sus miembros presentes; en tanto la Legislatura designa o ratifica a la persona titular, en dicho plazo, quien se encuentre desempeñando dichas funciones, continuará en el encargo.
+
+> <small>(ADICIONADO, G.G. 27 DE MARZO DE 2023)</small>
+
+###### Artículo 136.
+
+Para ser persona titular del Órgano Interno de Control se requiere:
+
+I. Ser ciudadana o ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener por lo menos treinta años cumplidos el día de la designación;
+
+II. Contar al momento de su designación con experiencia de al menos cinco años en el control, manejo o fiscalización de recursos; rendición de cuentas; responsabilidades administrativas; contabilidad gubernamental; auditoría gubernamental; transparencia; obra pública, y adquisiciones, arrendamientos y/o servicios del sector público;
+
+III. Contar al día de su designación, con título profesional, relacionado con alguna de las actividades a que se refiere la fracción anterior, expedido por institución legalmente facultada para ello;
+
+IV. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Comisión, o haber fungido como consultor o auditor externo de la misma, en lo individual durante ese periodo;
+
+V. No estar inhabilitada o inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VI. No haber sido Secretaria o Secretario de Estado, Fiscal General de Justicia, Senadora o Senador, Diputada o Diputado Federal o Local, integrante de algún Ayuntamiento, dirigente, integrante de órgano rector o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -1476,3 +1514,15 @@ Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno�
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 27 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 148.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La Legislatura Local deberá expedir la convocatoria para la designación de las personas titulares del Órgano Interno de Control a que se refiere este Decreto dentro los 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Las personas titulares de los Órganos Internos de Control que actualmente ejercen el cargo, podrán participar en el procedimiento de designación o ratificación que al efecto realice la Legislatura.
