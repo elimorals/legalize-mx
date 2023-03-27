@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-de-la-policia-industrial-bancaria-del-145014"
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-11-16"
-last_updated: "2020-11-16"
+last_updated: "2023-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 ESTATUTO ORGÁNICO DE LA POLICÍA INDUSTRIAL BANCARIA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2023.
 
 Acuerdo publicado en el Núm. 46 del Periódico Oficial del Estado de Hidalgo, el lunes 16 de noviembre de 2020.
 
@@ -152,6 +152,10 @@ V. Dirección de Comercialización y Atención a Usuarios;
 VI. Dirección Jurídica; y
 
 VII. Dirección Técnica.
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2023)</small>
+
+VIII. Dirección de Asuntos Internos.
 
 ###### Artículo 14.
 
@@ -461,6 +465,40 @@ VIII. Desarrollar las demás funciones inherentes al área de su competencia; y
 
 IX. Las demás que le señalen otras disposiciones legales aplicables y la persona titular de la Dirección General.
 
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2023)</small>
+
+###### Artículo 27 Bis.
+
+Corresponde a la persona titular de la Dirección de Asuntos Internos, el ejercicio de las siguientes funciones:
+
+I. Supervisar, inspeccionar e investigar el actuar del personal operativo del Organismo, verificando el funcionamiento y debido cumplimiento de sus obligaciones, emitiendo las observaciones preventivas o correctivas conducentes, a fin de que se instauren las estrategias correspondientes por sus superiores, sin perjuicio de las acciones legales a que haya lugar;
+
+II. Realizar visitas e inspecciones a las áreas donde preste su servicio el personal operativo del Organismo, en coordinación con el titular de la Dirección Operativa;
+
+III. Recibir e investigar las quejas y denuncias que se formulen en contra del personal operativo del Organismo;
+
+IV. Iniciar investigación de oficio en los casos en los que se detecte alguna irregularidad en las funciones del personal operativo, ya sea derivado de la supervisión realizada o cuando por cualquier medio se tenga conocimiento de algún hecho o conducta probablemente irregular;
+
+V. Establecer los mecanismos para conocer de la comisión de algún delito, falta de carácter administrativo o infracción administrativa, designando al personal correspondiente para que acuda al lugar de los hechos con la finalidad de que las pruebas e indicios no pierdan su calidad probatoria y faciliten el correcto desarrollo de los procedimientos correspondientes;
+
+VI. Solicitar información a cualquier dependencia, entidad, ente público, autoridad o particular, a fin de integrar el expediente por las probables faltas cometidas por el personal operativo;
+
+VII. Denunciar ante la Comisión de Honor y Justicia del Organismo, Órgano Interno de Control o en su caso cuando proceda ante el Ministerio Público, aquellas conductas cuya investigación determine contrarias a derecho, adjuntando las pruebas obtenidas y la valoración que de las misma hizo;
+
+VIII. Emitir dictamen de investigación, así como realizar el seguimiento de las acciones jurídico administrativas orientadas al cumplimiento de los resolutivos del referido dictamen;
+
+IX. Solicitar a la Comisión de Honor y Justicia del Organismo, según la gravedad del caso y bajo su más estricta responsabilidad, el inicio del procedimiento disciplinario o la imposición de medidas preventivas; fungiendo como parte acusadora, observando los procedimientos establecidos en la materia y coordinando su adecuada observancia hasta la conclusión del proceso y conforme a la normatividad aplicable;
+
+X. Sugerir a la persona titular de la Dirección General las acciones tendientes a inhibir las conductas contrarias a derecho cometidas por el personal operativo del Organismo;
+
+XI. Realizar acciones de investigación específicas que a solicitud de la persona titular de la Dirección General aseguren la obtención, el análisis y exploración de información de supuestos delitos, faltas de carácter administrativo o infracciones administrativas, cometidos por el personal operativo del Organismo, para ubicar, identificar, disuadir, prevenir, combatir y sancionar la comisión de estos o bien hacer del conocimiento de los mismos a la autoridad competente;
+
+XII. Remitir a la persona titular de la Dirección General, los informes relativos a las investigaciones de quejas y denuncias de las que se derive la probable comisión de un delito o de responsabilidad administrativa del personal operativo del Organismo;
+
+XIII. Sugerir a la Comisión de Honor y Justicia del Organismo la asignación de reconocimientos, condecoraciones y estímulos para el personal operativo del Organismo y;
+
+XIV. Las demás que le señalen otras disposiciones legales aplicables y la persona titular de la Dirección General.
+
 ### CAPÍTULO V. DE LAS FUNCIONES DE LAS COMANDANCIAS Y DEMÁS CARGOS OPERATIVOS
 
 ###### Artículo 28.
@@ -542,6 +580,28 @@ La modificación, adición o abrogación, parcial o total, de este Estatuto, deb
 ###### Artículo 41.
 
 El organismo contará con personal que desempeñe funciones de naturaleza operativa y administrativa; las relaciones jurídicas del organismo con el personal operativo serán estrictamente de naturaleza administrativa y con el personal administrativo serán conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE MARZO DE 2023)</small>
+
+### CAPÍTULO X. DE LA COMISIÓN DE HONOR Y JUSTICIA DEL ORGANISMO
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2023)</small>
+
+###### Artículo 42.
+
+La Comisión de Honor y Justicia tiene como función primordial velar que el personal operativo cumpla con los principios de actuación de la Constitución Política de los Estados Unidos Mexicanos, Ley General del Sistema Nacional de Seguridad Pública, Ley de Seguridad Pública del Estado de Hidalgo y su Reglamento, así como el presente Estatuto, resolviendo sobre conductas violatorias de las disposiciones legales, así como valorar su desempeño ya sea para ser sancionados o reconocidos.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2023)</small>
+
+###### Artículo 43.
+
+La Comisión de Honor y Justicia, en el ámbito de su competencia, lleva a cabo las etapas en las que deberá observar el debido cumplimiento a los principios de actuación policial, de conformidad con el procedimiento establecido en su Reglamento.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2023)</small>
+
+###### Artículo 44.
+
+La Comisión de Honor y Justicia tendrá facultades para conocer y resolver respecto a las condecoraciones, estímulos y recompensas a que se hagan merecedores los integrantes del Cuerpo Policial, por su valor, mérito y perseverancia en el servicio, las cuales se podrán otorgar en vida o post mortem; emitiendo, en su caso, la constancia que lo avale.
 
 ## TRANSITORIOS
 
@@ -634,3 +694,17 @@ Lic. Rodrigo León Cerón
 Director General de la Policía Industrial Bancaria Del Estado de Hidalgo
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE ADICIONA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA POLICÍA INDUSTRIAL BANCARIA DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor de las modificaciones de este Estatuto, la Dirección de Asuntos Internos emitirá su manual de organización y procedimientos en un plazo de treinta días hábiles.
+
+TERCERO. A partir de la entrada en vigor de las modificaciones de este Estatuto, la Junta, aprobará el Reglamento de la Comisión de Honor y Justicia del Organismo, en un plazo que no exceda de treinta días hábiles.
+
+CUARTO. El presente Acuerdo deberá inscribirse en el Registro Público de Organismos Descentralizados en los términos que establece la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento.
