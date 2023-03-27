@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2022-09-23"
+last_updated: "2023-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2023.
 
 Ley publicada en la Sección Quinta de la Gaceta Oficial del Estado de México, el miércoles 4 de mayo de 2016.
 
@@ -569,7 +569,7 @@ XXIV. Revisar los criterios de clasificación, desclasificación y custodia de l
 
 XXV. Establecer procedimientos para verificar las acciones realizadas por los sujetos obligados en el cumplimiento de sus obligaciones en términos de la presente Ley;
 
-XXVI. Nombrar al Contralor Interno del Instituto;
+XXVI. (DEROGADA, G.G. 27 DE MARZO DE 2023)
 
 XXVII. Imponer las medidas de apremio para asegurar el cumplimiento de sus determinaciones;
 
@@ -633,9 +633,39 @@ Las controversias que se susciten en dichas relaciones serán resueltas por el T
 
 El Instituto aplicará las disposiciones de la Ley de Contratación Pública del Estado de México y Municipios y determinará la conformación de sus comités de arrendamientos, adquisiciones y enajenaciones, entre otros, en todo lo que no se oponga a la presente Ley.
 
-A fin de poder cumplir con sus atribuciones y objetivos, el Instituto contará con la estructura orgánica y funcional necesaria, así como con el Titular del Órgano de Control Interno quien tendrá las facultades que le establezca el Reglamento interior.
+> <small>(REFORMADO, G.G. 27 DE MARZO DE 2023)</small>
 
-El contralor tendrá la obligación de supervisar y fiscalizar todo el quehacer del Instituto a efecto de garantizar en su interior el ejercicio efectivo de la transparencia, así como el cuidado de los principios rectores.
+A fin de poder cumplir con sus atribuciones y objetivos, el Instituto contará con la estructura orgánica y funcional necesaria, así como con el Órgano de Control Interno que tendrá las facultades que le establezca el Reglamento interior.
+
+> <small>(REFORMADO, G.G. 27 DE MARZO DE 2023)</small>
+
+La persona Titular del Órgano Interno de Control tendrá la obligación de supervisar y fiscalizar todo el quehacer del Instituto a efecto de garantizar en su interior el ejercicio efectivo de la transparencia, así como el cuidado de los principios rectores.
+
+> <small>(ADICIONADO, G.G. 27 DE MARZO DE 2023)</small>
+
+La persona Titular del Órgano Interno de Control desempeñará el cargo por un período de cuatro años y podrá ser ratificado por un período inmediato más.
+
+> <small>(ADICIONADO, G.G. 27 DE MARZO DE 2023)</small>
+
+La designación o ratificación del Titular del Órgano Interno de Control será hecha por la Legislatura del Estado, por el voto de las dos terceras partes de sus miembros presentes, dentro de los treinta días hábiles siguientes al término del período correspondiente, y en tanto la Legislatura designa o ratifica al titular, en dicho plazo, quien se encuentre desempeñando dichas funciones, continuará en el encargo.
+
+> <small>(ADICIONADO, G.G. 27 DE MARZO DE 2023)</small>
+
+###### Artículo 39 Bis.
+
+Para ser persona titular del Órgano Interno de Control se requiere:
+
+I. Ser ciudadana o ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener por lo menos treinta años cumplidos el día de la designación;
+
+II. Contar al momento de su designación con experiencia de al menos cinco años en el control, manejo o fiscalización de recursos y rendición de cuentas, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, transparencia, obra pública, adquisiciones, arrendamientos y/o servicios del sector público;
+
+III. Contar al día de su designación, con título profesional, relacionado con las actividades a que se refiere la fracción anterior, expedido por institución legalmente facultada para ello;
+
+IV. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoria que hubieren prestado sus servicios al Instituto, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
+
+V. No estar inhabilitada o inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VI. No haber sido Secretaria o Secretario de Estado, Fiscal General de Justicia, Senadora o Senador, Diputada o Diputado Federal o Local, integrante de algún Ayuntamiento, dirigente, integrante de órgano rector o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
 
 ###### Artículo 40.
 
@@ -2739,17 +2769,23 @@ Las sanciones se deberán aplicar atendiendo a la gravedad de la falta y, en su 
 
 El Instituto deberá considerar como elemento agravante la reincidencia en que incurran los servidores públicos al momento de determinar la aplicación de la sanción correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE MARZO DE 2023)</small>
+
 ###### Artículo 223.
 
-El Instituto dará vista a la Contraloría Interna y Órgano de Control y Vigilancia en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, para que determine el grado de responsabilidad de quienes incumplan con las obligaciones de la presente Ley.
+El Instituto dará vista al Órgano Interno de Control en términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, para que determine el grado de responsabilidad de quienes incumplan con las obligaciones de la presente Ley.
 
 El Instituto emitirá las resoluciones que impongan sanciones para efectos de registro a la Secretaría de la Contraloría del Gobierno del Estado de México y a las instancias homólogas de los demás sujetos obligados.
 
-El Instituto, por acuerdo del Pleno podrá realizar un extrañamiento público al sujeto obligado que actualice alguna de las causas de responsabilidad administrativa, establecidas en esta Ley y en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, sin necesidad de que inicie el procedimiento administrativo disciplinario.
+> <small>(REFORMADO, G.G. 27 DE MARZO DE 2023)</small>
+
+El Instituto, por acuerdo del Pleno podrá realizar un extrañamiento público al sujeto obligado que actualice alguna de las causas de responsabilidad administrativa, establecidas en esta Ley y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios, sin necesidad de que inicie el procedimiento administrativo disciplinario.
 
 Las sanciones de carácter económico no podrán ser cubiertas con recursos públicos.
 
-Las conductas a que se refiere este artículo serán sancionadas por el Instituto, de conformidad con lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios. En su caso, darán vista a la autoridad competente para que imponga o ejecute la sanción.
+> <small>(REFORMADO, G.G. 27 DE MARZO DE 2023)</small>
+
+Las conductas a que se refiere este artículo serán sancionadas por el Instituto, de conformidad con lo previsto en la Ley de Responsabilidades Administrativas del Estado de México y Municipios. En su caso, darán vista a la autoridad competente para que imponga o ejecute la sanción.
 
 ###### Artículo 224.
 
@@ -2924,3 +2960,15 @@ G.G. 23 DE SEPTIEMBRE DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 27 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 148.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Legislatura Local deberá expedir la convocatoria para la designación de las personas titulares del Órgano Interno de Control a que se refiere este Decreto dentro los 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Las personas titulares de los Órganos Internos de Control que actualmente ejercen el cargo, podrán participar en el procedimiento de designación o ratificación que al efecto realice la Legislatura.
