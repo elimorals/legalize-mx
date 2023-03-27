@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2023-02-27"
+last_updated: "2023-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2023.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -2501,6 +2501,56 @@ IV. Al momento de su nombramiento no prestar sus servicios profesionales en la a
 
 La Unidad de Transparencia deberá promover la aplicación de las políticas y los criterios necesarios que a nivel local o nacional, las autoridades competentes dicten en cuanto a la materia de su aplicación.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE marzo DE 2023)</small>
+
+### CAPÍTULO XIV. DE LA UNIDAD PARA LA IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2023)</small>
+
+###### ARTICULO 207.
+
+La Unidad para la Igualdad de Género es la responsable de asegurar la institucionalización de la perspectiva de género en la cultura organizacional del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2023)</small>
+
+###### ARTICULO 208.
+
+La Unidad para la Igualdad de Género tiene las siguientes funciones:
+
+I. Proponer acciones orientadas a la igualdad sustantiva en el Congreso del Estado;
+
+II. Coadyuvar con las instancias competentes para promover ambientes laborales libres de violencia;
+
+III. Proponer ante las instancias competentes políticas laborales orientadas a la igualdad sustantiva, sin menoscabo de los principios de imparcialidad, objetividad, productividad, disposición y compromiso institucional;
+
+IV. Colaborar con el “Instituto de Investigaciones Legislativas Diputada Matilde Cabrera Ipiña”, para el logro de la igualdad de género en la elaboración de publicaciones y contenidos editoriales que consoliden el proceso de institucionalización e implementación de la perspectiva de género;
+
+V. Contribuir en la formación y especialización del personal de todos los niveles en materia de perspectiva de género e igualdad sustantiva;
+
+VI. Elaborar reportes por hechos que se consideren violencia de género, y en su caso remitir a las autoridades competentes, y
+
+VII. Elaborar opinión técnica para la atención de los casos de violencia de género al interior del Congreso.
+
+La Unidad estará a cargo de una titular quien será propuesta de entre el personal del Congreso del Estado, por la Comisión de Igualdad de Género a la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2023)</small>
+
+###### ARTICULO 209.
+
+Para ser titular de la Unidad para la Igualdad de Género se requiere:
+
+I. Ser mujer;
+
+II. Contar, preferentemente, con título y cédula profesional, en áreas relacionadas con la función, legalmente expedidos, y con una antigüedad mínima de tres años previos al nombramiento;
+
+III. Poseer, preferentemente, conocimientos y experiencia en materia de derechos humanos; y perspectiva de género;
+
+IV. Acreditar no estar en el Sistema Estatal de Servidores Públicos y Particulares Sancionados de la Plataforma Digital Estatal;
+
+V. Acreditar no tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio, y
+
+VI. Acreditar que al momento de su nombramiento no presta sus servicios profesionales; ni desempeña actividades que representen conflicto de intereses.
+
 T R A N S I T O R I O S
 
 PRIMERO. Este Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -3010,5 +3060,13 @@ P.O. 27 DE FEBRERO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0705.- SE REFORMA EL ARTÍCULO 86, EN SUS FRACCIONES I Y II, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0727.- SE REFORMA EL ARTÍCULO 82, ASÍ COMO SE ADICIONA AL ARTÍCULO 126, EL ARTÍCULO 126 BIS Y AL 128, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONA EN EL TÍTULO DÉCIMO, EL CAPÍTULO XIV Y LOS ARTÍCULOS 207, 208 Y 209, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
