@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2023-03-01"
+last_updated: "2023-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -999,7 +999,9 @@ a) A los integrantes de la Directiva, de las comisiones y de los comités; así 
 
 En la propuesta de integración de comisiones y comités deberá observarse el principio de paridad de género.
 
-b) La designación, y la remoción en su caso, del Oficial Mayor, del Contralor, del Coordinador de Finanzas, y del Coordinador de Asesoría y Secretariado Técnico de Comisiones, conforme a lo dispuesto en esta Ley y en el Reglamento.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2023)</small>
+
+b) La designación, y la remoción, en su caso, de las personas titulares de la Oficialía Mayor; del Órgano de Control Interno; de las coordinaciones de, Finanzas; y Asesoría y Secretariado Técnico de Comisiones, conforme a lo dispuesto en esta Ley, y en el Reglamento.
 
 c) El presupuesto anual del Poder Legislativo;
 
@@ -2121,6 +2123,32 @@ f) Unidad de Evaluación y Control, dependiente de la Comisión de Vigilancia, a
 
 g) Unidad de Transparencia, dependiente de la Directiva, a la que le corresponde por medio de su titular, representar al Congreso del Estado en los procedimientos en los cuales se le requiera ante la Comisión Estatal de Garantía de Acceso a la Información Pública, atendiendo y gestionando toda solicitud de información presentada ante este Poder Legislativo, vigilar la debida cumplimentación de la Ley de Transparencia y Acceso a la Información Pública del Estado al Interior del Congreso, así como todas las que deriven de la ley de su materia y de los reglamentos de su competencia. Su titular será designado por la Junta de Coordinación Política, y dependerá jerárquicamente de la Directiva.
 
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 27 DE MARZO DE 2023)</small>
+
+h) Unidad para la Igualdad de Género, dependiente de la Directiva, a la que le corresponde:
+
+1. Fomentar, planear, y dirigir las acciones para institucionalizar la perspectiva de género y el enfoque de derechos humanos dentro del Congreso del Estado, para asegurar la observancia de los derechos fundamentales, así como la igualdad sustantiva entre mujeres y hombres; la no discriminación en todas las áreas del recinto legislativo.
+
+2. Promover ambientes laborales libres de violencia, en cualquiera de sus modalidades, conforme a lo determinado en su Reglamento.
+
+3. Llevar a cabo programas de prevención y erradicación de la violencia contra las mujeres, los que se impartirán a servidores y servidoras públicas.
+
+4. Capacitar en temas de derechos de las mujeres, igualdad, inclusión, masculinidades y violencia de género.
+
+5. Diseñar campañas de sensibilización y concientización dirigidas al personal del Congreso para combatir la violencia de género.
+
+6. Elaborar y actualizar de manera continua las herramientas metodológicas para la realización de diagnósticos de violencia de género.
+
+7. Fomentar el uso de un lenguaje incluyente y no sexista.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2023)</small>
+
+ARTICULO 126 BIS. La Unidad para la Igualdad de Género contará con las siguientes áreas:
+
+1. De atención, al que corresponde la colaboración con las instancias competentes para la canalización de las solicitudes de asistencia en los casos de violencia, y los actos contrarios a la política de igualdad y no discriminación que se reciban en la Unidad, dar su seguimiento, así como difundir las políticas laborales en materia de derechos humanos, igualdad sustantiva, perspectiva de género y no discriminación.
+
+2. De Formación y Especialización, al que corresponde realizar los estudios e investigaciones necesarios en materia de género y derechos humanos, así como producir y sistematizar la información con perspectiva de género y con enfoque de derechos humanos recabada por la Unidad.
+
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 127.
@@ -2162,6 +2190,10 @@ VI. Los titulares de los órganos de apoyo: informes trimestrales de actividades
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 En el caso de la Unidad de Evaluación y Control, ésta deberá rendir informe anual de su gestión a la Comisión de Vigilancia.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2023)</small>
+
+Tratándose de la Unidad para la Igualdad de Género, ésta deberá rendir informe anual de su gestión a la Directiva.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
@@ -3140,3 +3172,15 @@ P.O. 1 DE MARZO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0727.- SE REFORMA EL ARTÍCULO 82, ASÍ COMO SE ADICIONA AL ARTÍCULO 126, EL ARTÍCULO 126 BIS Y AL 128, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONA EN EL TÍTULO DÉCIMO, EL CAPÍTULO XIV Y LOS ARTÍCULOS 207, 208 Y 209, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Congreso del Estado expedirá el reglamento de la Unidad para la Igualdad de Género, en un término de ciento veinte días naturales, contados a partir de la entrada en vigor del Presente Decreto.
+
+CUARTO. El Congreso del Estado deberá suscribir convenios de colaboración con las instituciones, y dependencias correspondientes, para la capacitación del personal de la Unidad para la Igualdad de Género, en la materia que a ésta le compete.
