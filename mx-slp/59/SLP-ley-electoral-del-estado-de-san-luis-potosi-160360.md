@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-160360"
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-28"
-last_updated: "2022-09-28"
+last_updated: "2023-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 28 de septiembre de 2022.
 
@@ -1073,7 +1073,9 @@ II. Estar inscrito en el Registro Federal de Electores y contar con credencial p
 
 III. Contar al día de la designación, con antigüedad mínima de cinco años, título profesional de nivel licenciatura en derecho o abogado;
 
-IV. Gozar de buena reputación y no haber sido condenada o condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2023)</small>
+
+IV. Gozar de buena reputación;
 
 V. Ser originaria u originario del Estado o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, salvo el caso de ausencia por servicio público, educativo o de investigación por un tiempo menor de seis meses;
 
@@ -1281,7 +1283,7 @@ III. Contar con título y cédula profesional con una antigüedad de por lo meno
 
 IV. Contar al momento de su designación, con experiencia profesional de al menos cinco años en el control, manejo o fiscalización de recursos:
 
-V. No haber sido condenada o condenado por sentencia ejecutoriada;
+V. (DEROGADA, P.O. 27 DE MARZO DE 2023)
 
 VI. No estar inhabilitado para desempeñar funciones, empleos, cargos, o comisiones de cualquier naturaleza en el servicio público;
 
@@ -3561,7 +3563,7 @@ a) No ser miembro de las fuerzas armadas en servicio activo.
 
 b) No ser ministro de culto religioso.
 
-c) No contar con antecedentes penales ni estar sujeto a proceso por delito doloso;
+c) (DEROGADO, P.O. 27 DE MARZO DE 2023)
 
 d) No contar, al momento de la presentación de la solicitud, con un registro como candidata o candidato a otro puesto de elección popular.
 
@@ -5860,3 +5862,13 @@ J. GUADALUPE TORRES SÁNCHEZ
 El Secretario General de Gobierno
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0722.- SE REFORMA EL ARTÍCULO 77, EN SU FRACCIÓN IV; Y DEROGA DE LOS ARTÍCULOS 92, LA FRACCIÓN V Y 277, DE LA FRACCIÓN V, SU INCISO C), DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
