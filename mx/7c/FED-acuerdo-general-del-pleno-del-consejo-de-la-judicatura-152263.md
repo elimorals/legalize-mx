@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-152263"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-03"
-last_updated: "2023-03-16"
+last_updated: "2023-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152263&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-28"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 3 de noviembre de 2021.
 
@@ -908,6 +908,10 @@ Para la aplicación del referido cuestionario, habrá cuatro periodos ordinarios
 La prohibición establecida en el artículo 18 del presente Acuerdo General no operará en la designación de las personas Secretarias Proyectistas.
 
 El nombramiento como Secretaria o Secretario Proyectista no causará la inclusión de la persona en las listas a que se refiere el Capítulo VII del presente Título, ni podrá ser susceptible de obtener base.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL EN RELACIÓN A DESEMPEÑARSE COMO SECRETARIA O SECRETARIO PROYECTISTA, CUANDO SE TIENE AUTORIZACIÓN VIGENTE PARA OCUPAR EL CARGO DE SECRETARIA O SECRETARIO DE TRIBUNAL O JUZGADO, D.O.F. 27 DE MARZO DE 2023)</small>
+
+Las Secretarias o Secretarios de Tribunal o Juzgado con autorización vigente, podrán ocupar el cargo de Secretaria o Secretario Proyectista, sin que tengan que aprobar el cuestionario.
 
 ###### Artículo 66.
 
@@ -2606,3 +2610,11 @@ D.O.F. 16 DE MARZO DE 2023.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 27 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL EN RELACIÓN A DESEMPEÑARSE COMO SECRETARIA O SECRETARIO PROYECTISTA, CUANDO SE TIENE AUTORIZACIÓN VIGENTE PARA OCUPAR EL CARGO DE SECRETARIA O SECRETARIO DE TRIBUNAL O JUZGADO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
