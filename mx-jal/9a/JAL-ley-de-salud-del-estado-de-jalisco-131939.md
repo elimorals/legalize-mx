@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2023-03-14"
+last_updated: "2023-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -2415,9 +2415,13 @@ III. Los convenios que al efecto se suscriban entre el Gobierno del Estado y la 
 
 IV. Las disposiciones de esta Ley y demás normas legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE MARZO DE 2023)</small>
+
 ###### Artículo 186.
 
 Profesionales, Técnicos y Auxiliares. Derechos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 28 DE MARZO DE 2023)</small>
 
 1. Los profesionales, técnicos y auxiliares de la salud tienen derecho a:
 
@@ -2437,11 +2441,17 @@ VI. Guardar el secreto profesional, siempre que éste no contravenga disposicion
 
 VII. Salvaguardar su prestigio;
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2023)</small>
 
-VIII. Recibir atención médica oportuna con la finalidad de prevenir, atender, orientar y controlar el síndrome del desgaste ocupacional; y
+VIII. Recibir atención médica oportuna con la finalidad de prevenir, atender, orientar y controlar el síndrome del desgaste ocupacional;
 
-IX. Los demás que establezca la legislación sanitaria, sus reglamentos y normas; así como aquellos que consten en las declaratorias que emita la Secretaría de Salud, con la participación de la Comisión Estatal de Bioética e Investigación de Jalisco.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2023)</small>
+
+XI (SIC). Acceder a servicios tendientes a promover, prevenir, diagnosticar, atender, conservar y mejorar la salud mental con enfoque de derechos humanos, perspectiva de género y de juventudes en su caso; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE MARZO DE 2023)</small>
+
+X. Los demás que establezca la legislación sanitaria, sus reglamentos y normas; así como aquellos que consten en las declaratorias que emita la Secretaría de Salud, con la participación de la Comisión Estatal de Bioética e Investigación de Jalisco.
 
 ###### Artículo 187.
 
@@ -4744,3 +4754,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Titular del Ejecutivo Estatal, contara con un plazo de 120 días a partir de la entrada en vigor del presente decreto, para realizar las adecuaciones reglamentarias y presupuestarias para la asignación de los recursos que se dispongan en el presupuesto de egresos para lograr la consecución de dicho fin.
 
 TERCERO. La Secretaría de Salud Jalisco, deberá expedir los lineamientos para constituir, operar y actualizar el Registro Estatal de Enfermedades No Transmisibles, a más tardar de noventa días contados a partir de la entrada en vigencia del presente decreto.
+
+P.O. 28 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29163/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMA AL ARTÍCULO 186 DE LA LEY DE SALUD DEL ESTADO DE JALISCO, 38 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO, 28 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO, 12 Y 38 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO PARA MEJORAR LA ATENCIÓN EN MATERIA DE SALUD MENTAL”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Las dependencias del Poder Ejecutivo y los municipios deberán de realizar los convenios y/o acuerdos de colaboración con las instancias correspondientes para dar cumplimiento al presente decreto.
