@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6482
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-15"
-last_updated: "2022-07-14"
+last_updated: "2023-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de noviembre de 2008.
 
@@ -259,13 +259,17 @@ III. Proporcionar psicoterapia diferencial a mujeres víctimas de violencia fami
 
 IV. Facilitar la separación y alejamiento del agresor con respecto a la víctima;
 
-> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2023)</small>
 
-V. Establecer mecanismos que favorezcan la separación y alejamiento inmediato del agresor con respecto a la víctima, durante el resguardo domiciliario dictado por autoridad competente, en caso de epidemia de carácter grave, peligro de enfermedades transmisibles, situaciones de emergencia o catástrofe, y
+V. Establecer mecanismos que favorezcan la separación y alejamiento inmediato del agresor con respecto a la víctima, durante el resguardo domiciliario dictado por autoridad competente, en caso de epidemia de carácter grave, peligro de enfermedades transmisibles, situaciones de emergencia o catástrofe;
 
-> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2023)</small>
 
-VI. Se procurará la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos; la información sobre su ubicación será secreta y se buscará proporcionar el apoyo psicológico y legal adecuado. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia.
+VI. Se procurará la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos; la información sobre su ubicación será secreta y se buscará proporcionar el apoyo psicológico y legal adecuado. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia, y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2023)</small>
+
+VII. En los casos de violencia vicaria, proporcionar atención y tratamientos psicológicos especializados y gratuitos a las víctimas, que favorezcan la reunificación familiar y se repare el daño causado por dicha violencia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2018)</small>
 
@@ -539,13 +543,17 @@ VIII. Violencia contra los derechos reproductivos.- Toda acción u omisión que 
 
 IX. Violencia simbólica.- Es la expresión, emisión o difusión por cualquier medio, ya sea en el ámbito público o privado, de discursos, mensajes, patrones estereotipados, signos, valores icónicos e ideas que transmiten, reproducen, justifican o naturalizan la subordinación, desigualdad, discriminación y violencia contra las mujeres en la sociedad;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2023)</small>
 
-X. Violencia mediática.- Es la exposición a través de cualquier medio de comunicación de contenidos que de manera directa o indirecta promuevan estereotipos de género, así como la humillación, explotación, degradación, desigualdad, discriminación, o cualquier otra forma de violencia contra las mujeres, y
+X. Violencia mediática.- Es la exposición a través de cualquier medio de comunicación de contenidos que de manera directa o indirecta promuevan estereotipos de género, así como la humillación, explotación, degradación, desigualdad, discriminación, o cualquier otra forma de violencia contra las mujeres;
 
-> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2023)</small>
 
-XI. Violencia digital.- Es toda acción dolosa realizada mediante el uso de Tecnologías de la Información y la Comunicación, por la que se, exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia. Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
+XI. Violencia digital.- Es toda acción dolosa realizada mediante el uso de Tecnologías de la Información y la Comunicación, por la que se, exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia. Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación, y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2023)</small>
+
+XII. Violencia Vicaria.- Aquella violencia contra la víctima que ejerce la persona que mantenga o haya mantenido una relación de hecho o de pareja con aquella, y que por sí o por interpósita persona, utilice como medio a descendencia de ésta para causarle daño, generando una consecuente afectación psicoemocional e incluso física, económica, patrimonial o de cualquier otro tipo, tanto a la víctima, como a quienes fungieren como medio. Con independencia de lo anterior, este tipo de violencia se regulará en los términos y forma que al efecto establezca el Código Penal para el Estado de Nayarit.
 
 ## TÍTULO TERCERO
 
@@ -1426,3 +1434,9 @@ P.O. 14 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 21 BIS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT, EN MATERIA DE CIBERVIOLENCIA O VIOLENCIA A LA INTIMIDAD SEXUAL, ASÍ COMO EN SU MODALIDAD DE DEEPFAKE”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 28 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA POR EXTENSIÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
