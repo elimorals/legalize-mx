@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2021-09-02"
+last_updated: "2023-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE MARZO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -1552,6 +1552,18 @@ La fijación, modificación y eliminación de publicidad exterior y anuncios vis
 
 El propietario o poseedor del inmueble o predio que permita la construcción, instalación, colocación o fijación de anuncios o publicidad exterior, incluyendo su estructura, sin contar con la licencia, autorización o aviso correspondiente, se hará acreedor a las sanciones que establece este ordenamiento y a las demás aplicables legalmente.
 
+> <small>(ADICIONADO, G.O. 28 DE MARZO DE 2023)</small>
+
+###### Artículo 75 Bis.
+
+Para la instalación o permanencia de los elementos de mobiliario urbano, las autoridades competentes, al emitir las autorizaciones, permisos o licencias correspondientes, deberán considerar que su función satisfaga una necesidad de la ciudadanía.
+
+Las autoridades competentes, previo dictamen de procedencia, ordenarán el retiro de los elementos del mobiliario urbano que, por su obsolescencia o deterioro, ya no atiendan la necesidad por la que fueron emplazados o hubieren dejado de cumplir su función; en cuyo caso, no procederá su reubicación ni sustitución.
+
+En los casos en que el mobiliario urbano tenga un grado de deterioro que no le permita ser funcional, pero que sea necesario para la prestación de un servicio a la ciudadanía, éste deberá ser sustituido en los términos que establezca el Reglamento correspondiente.
+
+El dictamen al que se refiere este artículo deberá ser emitido en un plazo no mayor a quince días hábiles, contados a partir de la presentación de la solicitud de retiro del mobiliario urbano.
+
 ## Título Quinto. De la Ejecución de los Instrumentos de Planeación
 
 ### Capítulo Primero. De los Polígonos de Actuación
@@ -2193,3 +2205,15 @@ SEGUNDO.- Por lo que se refiere a la Reforma a la Norma de Ordenación Número 2
 TERCERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
 
 CUARTO.- Los Acuerdos emitidos por la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México para la aplicación de la Norma de Ordenación Número 26, continuarán vigentes en lo que no contravengan al presente Decreto.
+
+G.O. 28 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 75 BIS A LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Persona Titular de la Jefatura de Gobierno de la Ciudad de México, en un plazo de 180 días naturales, deberá realizar las adecuaciones correspondientes al Reglamento para el Ordenamiento del Paisaje Urbano del Distrito Federal, a fin de otorgar operatividad a los previsto en el presente Decreto.
+
+CUARTO. La Secretaría, en un plazo no mayor a 90 días naturales, emitirá los formatos y establecerá los mecanismos para la presentación de la solicitud a que se refiere el presente Decreto.
