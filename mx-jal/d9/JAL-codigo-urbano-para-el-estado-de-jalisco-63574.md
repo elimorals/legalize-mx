@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2022-11-08"
+last_updated: "2023-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -276,6 +276,10 @@ XLIX. Mejoramiento: La acción tendente a reordenar, renovar, consolidar y dotar
 L. Metropolización: Proceso que implica la asociación tendencial o inducida de un conglomerado urbano con características económicas, sociales, funcionales y productivas comunes, que propicia mejoras en los flujos de bienes, personas y servicios interconectados en sus territorios;
 
 LI. Movilidad urbana sustentable: Política pública que coordina los sectores ambiental, de transporte y de desarrollo urbano, con la finalidad de mejorar la calidad del espacio público;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2023)</small>
+
+LI Bis. Obra Civil para Telecomunicaciones: Actividad que comprende la realización de cualquier construcción, excavación, cimentación, reforzamiento, adecuación de estructuras, otra obra o combinación de ellas que requiera de alguna autorización municipal que servirán para el desarrollo o despliegue de infraestructura pasiva de telecomunicaciones y radiodifusión;
 
 LII. Obras de edificación: Todas aquellas acciones de adecuación espacial, públicas o privadas, necesarias a realizar en un predio urbano, para permitir su uso o destino;
 
@@ -711,9 +715,13 @@ XIX. Expedir el dictamen de usos y destinos, referidos a la zonificación del ce
 
 XX. Expedir el dictamen de trazo, usos y destinos específicos, referidos a la zonificación del centro de población, área y zona donde se localice el predio, a efecto de certificar las normas de control de la urbanización y edificación, como fundamentos para la elaboración de los proyectos definitivos de urbanización o los proyectos de edificación, según corresponda a propuestas de obras;
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2023)</small>
 
-XXI. Expedir las autorizaciones, licencias o permisos de las diversas acciones urbanísticas, con estricto apego a las normas jurídicas locales, a sus reglamentos municipales, planes o programas de Desarrollo Urbano y sus correspondientes Reservas, Usos del Suelo y Destinos de áreas y predios;
+XXI. Expedir las autorizaciones, licencias o permisos de las diversas acciones urbanísticas, con estricto apego a las normas jurídicas locales, a sus reglamentos municipales, planes o programas de Desarrollo Urbano y sus correspondientes Reservas, Usos del Suelo y Destinos de áreas y predios.
+
+Para el otorgamiento de autorizaciones, licencias o permisos, por el uso de la infraestructura municipal básica existente de telecomunicaciones se buscará que el propósito sea el ordenamiento, disminución y gradual transición del cableado aéreo a soterrado.
+
+Cuando en el centro de población exista la infraestructura básica municipal soterrada dedicada a la prestación eficiente y eficaz del servicio público de telecomunicaciones, la autoridad municipal se coordinará con los operadores de servicios de manera que se garantice su acceso universal a dicha infraestructura municipal bajo condiciones de permanencia del servicio, no discriminatoria y de igualdad para el despliegue de su infraestructura pasiva de cableado aéreo a soterrado.
 
 XXII. Acordar la recepción de obras de urbanización;
 
@@ -3601,9 +3609,9 @@ En las obras de urbanización que se realicen por etapas, se deberá garantizar 
 
 Las áreas de cesión deberán contar con las obras de urbanización que les permitan su inmediata operación y funcionamiento, sin lo cual el predio en cuestión no podrá obtener la declaratoria formal de suelo urbano, por parte del municipio.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2023)</small>
 
-Las obras mínimas de urbanización que deben tener las áreas de cesión son las siguientes: redes de agua potable, agua residual y sistema de manejo de agua pluvial. Red de electrificación y alumbrado público; así también, los elementos de vialidad como calles, banquetas, andadores, estacionamientos e instrumentos de control vial, tales como, balizamiento, señalética, semaforización, jardinería, y mobiliario urbano necesario.
+Las obras mínimas de urbanización que deben tener las áreas de cesión son las siguientes: redes de agua potable, agua residual y sistema de manejo de agua pluvial. Red de electrificación, telecomunicaciones y alumbrado público; así también, los elementos de vialidad como calles, banquetas, andadores, estacionamientos e instrumentos de control vial, tales como, balizamiento, señalética, semaforización, jardinería, y mobiliario urbano necesario.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
 
@@ -4525,7 +4533,9 @@ a) Planos del proyecto de obras e instalaciones técnicas, propias de la urbaniz
 
 3.- El proyecto de la red o del sistema de desalojo de las aguas residuales y la captación y manejo de las aguas pluviales;
 
-4.- El proyecto de la red de electrificación y del alumbrado público,
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2023)</small>
+
+4.- El proyecto de la red de electrificación, telecomunicaciones y alumbrado público.
 
 b) El plano que indique fuentes de aprovisionamiento de agua potable, sitios de descarga de los drenajes, alimentaciones eléctricas, telefónicas e instalaciones especiales y su conexión con el predio a urbanizar;
 
@@ -4999,13 +5009,77 @@ Las áreas y predios sin edificar, los edificios, casas, bardas, cercas y cualqu
 
 Las autoridades municipales sancionarán el incumplimiento de este precepto, en los términos de éste Código y de las disposiciones reglamentarias aplicables.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MARZO DE 2023)</small>
+
+### CAPÍTULO IV BIS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE MARZO DE 2023)</small>
+
+#### Sección Primera. De la Obra Civil para Telecomunicaciones
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2023)</small>
+
+###### Artículo 295 Bis.
+
+Las personas físicas o jurídicas que pretendan obtener autorizaciones, licencias o permisos municipales para la ejecución de obras civiles que tengan por objeto o impliquen la construcción o instalación de infraestructura para telecomunicaciones y radiodifusión, deberán cumplir con la normatividad municipal en materia de imagen urbana, protección civil y medio ambiente para su instalación.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2023)</small>
+
+###### Artículo 295 Ter.
+
+Los proyectos ejecutivos de infraestructura para telecomunicaciones y radiodifusión, deberán ser revisados por la Dependencia Municipal correspondiente para verificar el cumplimiento de las normas referidas en el artículo anterior.
+
+La Dependencia Municipal, para autorizar las licencias o permisos de obra civil para el despliegue de infraestructura de telecomunicaciones y radiodifusión, verificará se cuente con la concesión del Instituto Federal de Telecomunicaciones.
+
+Los ayuntamientos tomarán las medidas que estén a su alcance, a fin de simplificar los trámites administrativos para expedir las licencias que correspondan a obra civil de infraestructura para telecomunicaciones. Asimismo, promoverán los convenios con las autoridades federales y estatales competentes, para facilitar los trámites de autorización respectivos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE MARZO DE 2023)</small>
+
+#### Sección Segunda. Del uso, creación y acceso compartido de la infraestructura para telecomunicaciones
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2023)</small>
+
+###### Artículo 295 Quater.
+
+Con el objetivo de promover e incentivar el uso y acceso compartido de la infraestructura para telecomunicaciones y radiodifusión, los ayuntamientos podrán:
+
+I. Impulsar la coordinación en la implementación de infraestructura con otros proyectos de obra civil, aprovechando nuevas acciones urbanísticas u obras de mejoramiento, priorizando las que requieran excavaciones o canalizado para soterramiento;
+
+II. Vincular y coordinar el despliegue de infraestructura con proyectos de obras civiles de telecomunicaciones municipales para soterramiento; para ello, difundirán por sus medios oficiales, los planes de obra civil con anticipación para que los interesados puedan adherirse y así se lleven a cabo de manera conjunta con el fin de reducir costos; y
+
+III. Realizar contratos de proyectos de inversión productiva para la dotación de infraestructura básica de servicios públicos.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2023)</small>
+
+###### Artículo 295 Quinquies.
+
+El acceso a la red de infraestructura básica para telecomunicaciones existentes, y la que se genere por cualquier tipo de acción urbanística, será sobre bases no discriminatorias. Quedan prohibidas las cláusulas de exclusividad o cualquier otra barrera que impida la instalación o acceso a la misma en igualdad de oportunidades.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2023)</small>
+
+###### Artículo 295 Sexies.
+
+Los urbanizadores y concesionarios podrán celebrar contratos que tengan por finalidad desarrollar obras civiles para telecomunicaciones, en términos del artículo anterior.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2023)</small>
+
+###### Artículo 295 Septies.
+
+Los ayuntamientos podrán:
+
+I. Extender estímulos fiscales, descuentos o exenciones por concepto de licencias, permisos o derechos en sus leyes de ingresos, a los concesionarios que migren el despliegue del cableado aéreo a soterrado aprovechando la infraestructura municipal para telecomunicaciones existente; y
+
+II. Establecer incentivos y estímulos fiscales a los concesionarios y desarrolladores que participen en las estrategias de cofinanciamiento para la generación de infraestructura soterrada compartida de telecomunicaciones.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2023)</small>
+
+###### Artículo 295 Octies.
+
+El ayuntamiento integrará un Atlas de la Red de Infraestructura Básica para Telecomunicaciones soterrada existente en el municipio, para fomentar la participación de los distintos órdenes de gobierno, concesionarios, personas físicas y jurídicas, para impulsar el uso compartido de dicha infraestructura.
+
+Dicho Atlas comprenderá una base de datos que contenga información sobre la localización geográfica, la capacidad disponible y otras características físicas de toda la infraestructura de obra civil soterrada que pudiera utilizarse para el despliegue de las redes de telecomunicaciones.
+
 ### CAPÍTULO V. De la Venta al Público de Predios y Fincas
-
-#### Sección Única. De los anuncios
-
-#### Sección Única. De las Sanciones a la Función Pericial
-
-### CAPÍTULO VI. De la recepción de obras de urbanización
 
 ###### Artículo 296.
 
@@ -5073,7 +5147,7 @@ VI. La garantía se cancelará cuando se reciban las obras de urbanización por 
 
 VII. Una vez autorizado un proyecto de vivienda de interés social, se deberá de enterar del mismo, al Instituto Jalisciense de la Vivienda, quien lleva un control de la vivienda en el estado.
 
-### CAPÍTULO VII. De la Subdivisión y Relotificación de Predios
+### CAPÍTULO VI. De la recepción de obras de urbanización
 
 ###### Artículo 299.
 
@@ -5153,9 +5227,7 @@ II. Si la concesión parcial o total para administrar los servicios públicos se
 
 III. La concesión de servicios municipales relativos a obras de vialidad, cuando implique una restricción al libre tránsito y acceso de personas o vehículos, sólo se otorgará si los elementos de infraestructura y equipamiento constituyen un servicio local, como vialidades locales, calles tranquilizadas o andadores.
 
-### CAPÍTULO VIII. De los Sistemas de Acción Urbanística y sus Modalidades
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+### CAPÍTULO VII. De la Subdivisión y Relotificación de Predios
 
 ###### Artículo 306.
 
@@ -5207,7 +5279,9 @@ III. En casos previstos en la fracción anterior, deberá indicarse o establecer
 
 Las fusiones de predios no requerirán autorización del Ayuntamiento, y en su caso, los notarios, previamente a sancionar la fusión de dos o más predios, verificarán que no exista limitación en el aprovechamiento de los mismos, conforme a los planes y programas y los reglamentos aplicables.
 
-### CAPÍTULO I. Del patrimonio cultural urbano y arquitectónico
+### CAPÍTULO VIII. De los Sistemas de Acción Urbanística y sus Modalidades
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 311.
 
@@ -5497,15 +5571,13 @@ Cuando en un centro de población sea urgente la realización de obras públicas
 
 ## TÍTULO DÉCIMO. DEL PATRIMONIO CULTURAL URBANO Y ARQUITECTÓNICO
 
-### CAPÍTULO II. De la imagen urbana
+### CAPÍTULO I. Del patrimonio cultural urbano y arquitectónico
 
 ###### Artículo 336.
 
 (DEROGADO, P.O. 11 DE ENERO DE 2018)
 
-### CAPÍTULO I. De la clasificación y definición de los directores responsables de proyecto u obras y peritos en supervisión municipal
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+### CAPÍTULO II. De la imagen urbana
 
 ###### Artículo 337.
 
@@ -5518,6 +5590,8 @@ Cuando en un centro de población sea urgente la realización de obras públicas
 ###### Artículo 339.
 
 (DEROGADO, P.O. 11 DE ENERO DE 2018)
+
+#### Sección Única. De los anuncios
 
 ###### Artículo 340.
 
@@ -5549,7 +5623,9 @@ Cuando en un centro de población sea urgente la realización de obras públicas
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS DIRECTORES RESPONSABLES Y LA FUNCIÓN PERICIAL
 
-### CAPÍTULO II. De los Peritos en Supervisión Municipal
+### CAPÍTULO I. De la clasificación y definición de los directores responsables de proyecto u obras y peritos en supervisión municipal
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 347.
 
@@ -5639,7 +5715,7 @@ El Registro de los directores responsables y corresponsables será por una sola 
 
 La autoridad municipal deberá llevar un catálogo o registro pormenorizado y público de los directores responsables y corresponsables, que hayan reunido los requisitos correspondientes y por tanto pueden fungir como tales.
 
-### CAPÍTULO I. Del derecho de la conservación del entorno urbano
+### CAPÍTULO II. De los Peritos en Supervisión Municipal
 
 ###### Artículo 353.
 
@@ -5673,7 +5749,7 @@ El Consejo Estatal de Peritos en Supervisión Municipal se sujetará a lo establ
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LAS MEDIDAS DE SEGURIDAD, INFRACCIONES Y SANCIONES
 
-### CAPÍTULO II. De los derechos de los particulares
+### CAPÍTULO I. Del derecho de la conservación del entorno urbano
 
 ###### Artículo 357.
 
@@ -5699,13 +5775,41 @@ Todos los habitantes tienen el derecho de denunciar, ante las autoridades corres
 
 Podrán ser denunciadas por cualquier persona interesada y serán sancionadas con la clausura de las mismas, sin perjuicio de otras responsabilidades aplicables, cuando se pretenda llevar a cabo cualquier tipo de acción o aprovechamiento urbano que contravenga las disposiciones de esta ley y los planes y programas de desarrollo urbano aplicables.
 
-### CAPÍTULO III
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MARZO DE 2023)</small>
 
-De las normas aplicables al procedimiento administrativo.
+### CAPÍTULO I BIS. Del derecho a la seguridad y protección de las personas y sus bienes por infraestructura de telecomunicaciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2023)</small>
 
-### CAPÍTULO IV. De las medidas de seguridad
+###### Artículo 357 Ter.
+
+La infraestructura pasiva de telecomunicaciones y radiodifusión, bajo responsabilidad de sus propietarios deberá mantenerse en buen estado físico, asegurando cumplir con las medidas de seguridad para la protección a las personas y sus bienes.
+
+Los propietarios de infraestructura pasiva de telecomunicaciones y radiodifusión, bajo responsabilidad, tienen la obligación de retirarla cuando ésta se encuentre en desuso, deteriorada o cuando sea peligrosa, conforme lo determine el dictamen de la autoridad municipal.
+
+Cuando los propietarios de la infraestructura pasiva de telecomunicaciones y radiodifusión, sean omisos en dar cumplimiento en lo dispuesto en los párrafos que anteceden y dicha omisión produzca un daño en las personas o sus bienes, estos serán responsables subjetivamente de las consecuencias jurídicas y administrativas a que diera lugar.
+
+Las autoridades municipales sancionarán el incumplimiento de este precepto, en los términos de este Código y de las disposiciones reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2023)</small>
+
+###### Artículo 357 Quater.
+
+La autoridad municipal competente podrá realizar visitas de inspección o verificación, de oficio o por denuncia ciudadana, a los sitios donde se encuentra instalada la infraestructura pasiva de telecomunicaciones y radiodifusión, con el objeto de comprobar el estricto cumplimiento de los reglamentos municipales en materia de protección civil, de construcción y de infraestructura para telecomunicaciones y radiodifusión, y en su caso, iniciar los procedimientos correspondientes para la imposición de medidas de seguridad o sanciones que correspondan, garantizando que de manera permanente y continua se dé la prestación de los servicios públicos de interés general de telecomunicaciones.
+
+La autoridad municipal competente al tener conocimiento de que la infraestructura pasiva de telecomunicaciones y radiodifusión presenta peligro para las personas o bienes, debe ordenar al propietario de ésta llevar a cabo de inmediato las obras de aseguramiento, reparaciones, retiro o demoliciones necesarias, conforme a dictamen técnico, fijando plazos en que debe de iniciar los trabajos que le sean señalados y en el que deben quedar terminados los mismos.
+
+En caso de inconformidad contra la orden a que se refiere el párrafo anterior, el propietario puede oponerse a todas o parte de las medidas que le sean exigidas, mediante procedimiento de inconformidad por escrito que debe estar firmado por el perito urbano y, dentro de los tres días hábiles siguientes a la presentación de la inconformidad, la autoridad municipal competente resuelve, en definitiva, si ratifica, modifica o revoca la orden.
+
+Transcurrido el plazo fijado al interesado para iniciar las obras de aseguramiento, reparaciones, retiro o demoliciones necesarias, sin que el propietario haya procedido conforme el dictamen previamente notificado, o bien en caso de que fenezca el plazo que se señaló en el dictamen, sin que tales trabajos estén terminados, la autoridad municipal competente, puede proceder a la ejecución de las medidas de seguridad dictadas a costa del propietario.
+
+En caso de inminencia de siniestro o peligro, la autoridad municipal competente, aún sin mediar la presencia del propietario, puede tomar las medidas necesarias de carácter urgente que considere indispensables para prevenir el acontecimiento, cuyo cargo será a costa del propietario.
+
+Para lo no previsto en este artículo, se estará a lo dispuesto en el Capítulo III del presente Título.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2023)</small>
+
+### CAPÍTULO II. De los derechos y obligaciones de los particulares
 
 ###### Artículo 358.
 
@@ -5779,7 +5883,11 @@ VI. Notificar a la dependencia técnica la fecha de inicio y terminación de obr
 
 VII. Permitir y facilitar las labores de verificación de la autoridad municipal.
 
-### CAPÍTULO V. De las infracciones
+### CAPÍTULO III
+
+De las normas aplicables al procedimiento administrativo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
 
 ###### Artículo 361.
 
@@ -5897,9 +6005,7 @@ Si las circunstancias del caso así lo exigen, podrán ejecutarse las medidas de
 
 Si en el procedimiento que sigan las autoridades para ejecutar las medidas de seguridad o imponer las sanciones administrativas previstas en este Código o en la ley en materia de responsabilidades administrativas, tienen conocimiento de actos u omisiones que puedan integrar delitos, formularán la denuncia correspondiente al Ministerio Público. También harán del conocimiento de los órganos de control interno, para la aplicación de las sanciones determinadas en otros ordenamientos.
 
-### CAPÍTULO VI. De las sanciones
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+### CAPÍTULO IV. De las medidas de seguridad
 
 ###### Artículo 369.
 
@@ -5923,19 +6029,23 @@ IV. La demolición, previo dictamen técnico, de obras en proceso de ejecución 
 
 V. El retiro de instalaciones deterioradas, peligrosas o que se hayan realizado en contravención de este Código y demás ordenamientos aplicables,
 
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2023)</small>
+
+VI. El retiro de cables aéreos en desuso, sueltos, cortados o sobre la vía pública o cualquier infraestructura pasiva de telecomunicaciones y radiodifusión que representé un riesgo para las personas y los bienes;
+
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-VI. La prohibición de actos de utilización que sean violatorios a las normas legales vigentes; y
+VII. La prohibición de actos de utilización que sean violatorios a las normas legales vigentes; y
 
 > <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-VII. La realización de actos específicos para la conservación de inmuebles o protección de personas y cosas.
+VIII. La realización de actos específicos para la conservación de inmuebles o protección de personas y cosas.
 
 ###### Artículo 371.
 
 La Procuraduría de Desarrollo Urbano, conforme la naturaleza de los hechos que señalen los particulares, requerirá a la autoridad competente, determine y ejecute las medidas de seguridad que correspondan, con el propósito de evitar daños mayores en los predios y fincas, ocasionando un deterioro en la calidad de vida del asentamiento humano, así como el desarrollo y la ejecución de acciones en urbanizaciones o edificaciones que contravengan el presente Código, los programas o planes de desarrollo urbano y en los ordenamientos municipales aplicables.
 
-### CAPÍTULO VII. De la defensa de los particulares
+### CAPÍTULO V. De las infracciones
 
 ###### Artículo 372.
 
@@ -5972,6 +6082,10 @@ Los funcionarios públicos responsables de las infracciones señaladas en los ar
 Los servidores públicos que incurran en la falta prevista en la fracción IV del artículo que antecede, se harán acreedores a cualquiera de las sanciones previstas en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, previo procedimiento administrativo que se les instaure y considerando la gravedad de los hechos cometidos. Dicha sanción será independiente de la responsabilidad patrimonial en que incurra y del ejercicio de la acción penal por haber ejercitado actos tipificados como delitos, de conformidad con el Código Penal del Estado.
 
 Las responsabilidades graves o no graves prescriben conforme a la Ley General de Responsabilidades Administrativas.
+
+### CAPÍTULO VI. De las sanciones
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 375.
 
@@ -6093,6 +6207,8 @@ La prescripción de las infracciones urbanísticas se producirá por el transcur
 
 El plazo de prescripción de las infracciones comenzará a computarse desde el día en que la infracción se haya cometido; desde aquel en que hubiera podido incoarse el procedimiento sancionador; o en su caso, cuando el afectado o la autoridad tuvieren conocimiento de la infracción.
 
+#### Sección Única. De las Sanciones a la Función Pericial
+
 ###### Artículo 384.
 
 Las sanciones de carácter administrativo que este Código señale, serán impuestas por la Autoridad Municipal correspondiente, y notificadas al Consejo de Peritos en Supervisión Municipal, en el caso de los peritos en supervisión municipal, y consistirán, según sea el caso, en: amonestación, multa, suspensión, y revocación del registro de perito en cualquiera de sus denominaciones.
@@ -6182,6 +6298,8 @@ En el caso de los peritos en supervisión municipal, se aplicarán las sanciones
 Las resoluciones emitidas con fundamento en esta sección podrán ser impugnadas conforme a lo dispuesto en el presente Título.
 
 > <small>(F. DE E., P.O. 4 DE JULIO DE 2013)</small>
+
+### CAPÍTULO VII. De la defensa de los particulares
 
 ###### Artículo 392.
 
@@ -6588,3 +6706,15 @@ P.O. 8 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Gobierno del Estado, así como los Ayuntamientos del Estado de Jalisco contarán con un plazo de noventa días naturales, siguientes a la entrada en vigor del presente decreto para realizar las modificaciones a los reglamentos, disposiciones administrativas y lineamientos generales que resulten aplicables y necesarios para el correcto cumplimiento de los artículos reformados en el presente decreto.
+
+P.O. 28 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29170/LXIII/23 DEL CONGRESO DEL ESTADO QUE ADICIONAN (SIC) LAS FRACCIONES LI BIS AL ARTÍCULO 5; SEGUNDO PÁRRAFO A LA FRACCIÓN XXI DEL ARTÍCULO 10; EL CAPÍTULO IV BIS AL TÍTULO NOVENO, SECCIÓN PRIMERA “DE LA OBRA CIVIL PARA TELECOMUNICACIONES” CON LOS ARTÍCULOS 295 BIS Y 295 TER; SECCIÓN SEGUNDA “DEL USO, CREACIÓN Y ACCESO COMPARTIDO DE LA INFRAESTRUCTURA PARA TELECOMUNICACIONES” CON LOS ARTÍCULOS 295 QUATER, 295 QUINQUIES, 295 SEXIES, 295 SEPTIES Y 295 OCTIES; CAPÍTULO I BIS AL TÍTULO DÉCIMO SEGUNDO “DEL DERECHO A LA SEGURIDAD Y PROTECCIÓN DE LAS PERSONAS Y SUS BIENES POR INFRAESTRUCTURA DE TELECOMUNICACIONES”, CON LOS ARTÍCULOS 357 TER Y 357 QUATER Y SE RECORRE EL TEXTO DE LAS ACTUALES FRACCIONES VI, VII PARA PASAR A SER VII, VIII Y SE ADICIONA UNA FRACCIÓN VI DEL ARTÍCULO 370, Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 185, EL NUMERAL 4 DEL INCISO A) DE LA FRACCIÓN III DEL ARTÍCULO 257 Y LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO DÉCIMO SEGUNDO DEL CÓDIGO URBANO DEL ESTADO DE JALISCO”.]
+
+Artículo Primero. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Artículo Segundo. Los ayuntamientos deberán dentro de los siguientes 180 días posteriores a la entrada en vigor del presente decreto, realizar las adecuaciones correspondientes a sus reglamentos municipales.
+
+Artículo Tercero. Los ayuntamientos dentro de los primeros 5 años a partir de la entrada en vigor del presente decreto, deberán coordinarse con los concesionarios para migrar el despliegue del cableado aéreo a soterrado en aquellos lugares donde exista la infraestructura adecuada para ello, así como establecer los incentivos fiscales para lograr este objetivo.
+
+Artículo Cuarto. Los ayuntamientos deberán en el término de un año, generar el Atlas de la Red de Infraestructura Básica para Telecomunicaciones al que se refiere el presente decreto.
