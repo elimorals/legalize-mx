@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2022-12-29"
+last_updated: "2023-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -303,7 +303,7 @@ VI. Evasión de presos, previsto en los artículos 175 y 177, siempre que se tra
 
 VII. Ataques a las vías generales de comunicación previsto en los artículos 199 y 200;
 
-VIII. Delito de contagio sexual, previsto por el artículo 222;
+VIII. (DEROGADA, P.O. 28 DE MARZO DE 2023)
 
 IX. Corrupción y prostitución de menores o incapaces, previstos en los artículos 230 fracciones II, III y IV; 231, 232 y 233;
 
@@ -453,7 +453,7 @@ Cuando el Juez estime que ni aún con la garantía queda asegurado el interés d
 
 Se perseguirán por querella de parte los siguientes delitos:
 
-I. Delitos de contagio sexual;
+I. (DEROGADA, P.O. 28 DE MARZO DE 2023)
 
 > <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
@@ -1859,37 +1859,25 @@ Al que ultraje las insignias del Estado o de un Municipio o de cualquiera de sus
 
 ## TÍTULO QUINTO. DELITOS CONTRA LA SALUD PÚBLICA
 
-### CAPÍTULO ÚNICO. DEL DELITO DE CONTAGIO SEXUAL O NUTRICIÓN, DE LA PROPAGACIÓN DE ENFERMEDADES Y DE LA FALSIFICACIÓN O ADULTERACIÓN DE PRODUCTOS ALIMENTICIOS O MEDICINALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO ÚNICO. DE LA FALSIFICACIÓN O ADULTERACIÓN DE PRODUCTOS ALIMENTICIOS O MEDICINALES
 
 ###### ARTÍCULO 219.
 
-El que sabiendo que está enfermo de un mal venéreo en periodo de infectante o de una enfermedad grave y fácilmente transmisible, tenga relaciones sexuales y así ponga en simple peligro de contagio la salud de otro, será sancionado con prisión de tres meses a dos años y multa de uno a diez días, sin perjuicio de su reclusión en un hospital hasta que cese el periodo infectante.
-
-Las mismas sanciones e igual reclusión se impondrán a la mujer que padeciendo una de las enfermedades citadas en el párrafo anterior, amamante a un hijo extraño, salvo el caso de que el menor amamantado padeciere desde antes la misma enfermedad y a los padres o tutores que a sabiendas que su hijo o pupilo padece alguna de las citadas enfermedades en período infectante, lo entreguen a una nodriza para que los amamante.
-
-La madre que estando enferma de sífilis por contagio posterior al parto, amamante a su propio hijo, si pudiere darle alimentación artificial o de nodriza, se le aplicarán las mismas sanciones de que habla el primer párrafo de este artículo.
+(DEROGADO, P.O. 28 DE MARZO DE 2023)
 
 ###### ARTÍCULO 220.
 
-A la mujer no sifilítica que sabiendo que un menor se encuentra enfermo de sífilis congénita lo amamante, si además está amamantando a otro u otros menores, se le aplicarán las mismas sanciones que señala el artículo anterior.
+(DEROGADO, P.O. 28 DE MARZO DE 2023)
 
 ###### ARTÍCULO 221.
 
-Si se efectuare el contagio en cualquiera de los casos de los dos artículos anteriores, se impondrá además, la sanción correspondiente al delito que resulte.
-
-Se presumirá el conocimiento de la enfermedad, cuando el agente o el menor amamantado presenten lesiones o manifestaciones externas de aquélla, fácilmente apreciables.
-
-Cuando se trate de cónyuges o de personas en concubinato, sólo se procederá por querella del ofendido.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 28 DE MARZO DE 2023)
 
 ###### ARTÍCULO 222.
 
-El que a sabiendas de que padece enfermedad venérea incurable, a través de relaciones sexuales o de cualquier otro medio contagie a otro, será sancionado con prisión de diez a veinte años y multa de cien a cuatrocientos días, sin perjuicio de las medidas de seguridad que se puedan decretar, a efecto de evitar posteriores contagios.
-
-La misma sanción se impondrá a quien sin padecerla, por cualquier medio y de manera dolosa contagie a otro.
+(DEROGADO, P.O. 28 DE MARZO DE 2023)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -3155,6 +3143,14 @@ Si de la comisión de la violencia familiar resultaren otras conductas constitut
 
 Se equipara a la violencia familiar y se sancionará como tal, a quien ejerza cualquiera de los actos señalados en el artículo anterior, en contra de quien esté sujeto a su tutela, curatela, custodia, protección o educación, siempre que el agresor y la víctima cohabiten en el mismo domicilio o ésta se encuentre adscrita al centro educativo donde aquél prestare sus servicios, o con quien el sujeto activo tenga una relación de hecho.
 
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2023)</small>
+
+Se equipara a la violencia familiar y se sancionará como tal, cuando de manera dolosa, por sí o por interpósita persona, dentro de una relación de matrimonio, concubinato o relación de hecho, así como con quien se guardó alguna relación de las anteriores, se utilice a la descendencia común como instrumento para causar daño a su integridad física, psíquica, emocional, patrimonial o económica a la pareja dentro del matrimonio, concubinato o relación de hecho, así como con quien se guardó alguna relación de las anteriores.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2023)</small>
+
+Se aplicará las mismas penas del artículo 311 a la persona titular de la guardia y custodia cuando realice afirmaciones o comentarios con el ánimo de causar el desprecio o cualquier acto de manipulación tendiente a provocar alienación parental encaminada a producir en el menor o la menor, rencor, rechazo o desprecio, hacia la otra figura paterna o materna.
+
 Para los efectos de este artículo se entenderá por relación de hecho, la que subsista por más de seis meses, entre quienes:
 
 I. En forma constante cohabiten manteniendo una relación de pareja, incluyéndose a los descendientes o ascendientes de cualquiera de ellos, siempre y cuando vivan en el mismo domicilio;
@@ -3493,11 +3489,17 @@ ARTÍCULO 344 BIS.- Se impondrá pena de cuatro a doce años de prisión y multa
 
 Se impondrán de tres a diez años de prisión y multa de cincuenta a cien días al que infiera una lesión que perturbe para siempre la vista, o disminuya la facultad de oír, entorpezca o debilite permanentemente una mano, un brazo, una pierna, o cualquiera otro órgano, el uso de la palabra o alguna de las facultades mentales.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 346.
 
-Se impondrán de cuatro a doce años de prisión y multa de cien a doscientos días al que infiera una lesión de la que resulte una enfermedad segura o probablemente incurable, la inutilización completa o la pérdida de un ojo, de un brazo, de una mano, de una pierna o de un pie, o de cualquier otro órgano; cuando quede perjudicada para siempre cualquier función orgánica o cuando el ofendido quede sordo o con una deformidad incorregible.
+Se impondrán de cuatro a doce años de prisión y multa de cien a doscientos días a quien infiera una lesión de la que resulte la inutilización completa o la pérdida de un ojo, de un brazo, de una mano, de una pierna o de un pie, o de cualquier otro órgano; cuando quede perjudicada para siempre cualquier función orgánica o cuando la persona ofendida quede sorda o con una deformidad incorregible.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2023)</small>
+
+Asimismo, a quien de manera dolosa infiera una lesión de la que resulte una enfermedad segura o probablemente incurable se le aplicarán las sanciones establecidas en el primer párrafo de este artículo.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 Se impondrán de cinco a quince años de prisión y multa de doscientos a trescientos días, al que infiera una lesión a consecuencia de la cual resulte incapacidad permanente para trabajar, enajenación mental, la pérdida de la vista o del habla o de las funciones sexuales.
 
@@ -4862,3 +4864,15 @@ P.O. 29 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 255 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DELITO DE ENRIQUECIMIENTO ILÍCITO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 28 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DELITO DE CONTAGIO SEXUAL O NUTRICIÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 28 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 312 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA POR EXTENSIÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
