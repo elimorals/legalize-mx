@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-inclusion-y-desarrollo-integral-de-las-personas-713
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2022-12-03"
+last_updated: "2023-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 31 de diciembre de 2009.
 
@@ -202,6 +202,10 @@ XXX. Unidad de Valoración: órgano técnico dependiente de la Secretaría de Sa
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2022)</small>
 
 XXXI. Centro de Relevo: Es un servicio de comunicación personal y gratuito para las personas sordas y oyentes, que se encuentra dirigido a la población con discapacidad auditiva, a fin de que la misma pueda acceder a un sistema tecnológico que le permita el acceso a la comunicación en la lengua natural de las personas sordas; y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2023)</small>
+
+XXXI. (SIC) Perro guía o animal de servicio. Son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2022)</small>
 
@@ -433,11 +437,11 @@ VII. Incluirá lineamientos e indicadores para la evaluación y seguimiento de l
 
 ### Capítulo V. Del Sistema Estatal para la Inclusión y Desarrollo de las Personas con Discapacidad
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2023)</small>
 
 ###### Artículo 9.
 
-El Sistema Estatal para la Inclusión y Desarrollo de las Personas con Discapacidad tiene por objeto la coordinación y seguimiento continuo para la ejecución y evaluación de las políticas públicas para el desarrollo y la inclusión de las personas con discapacidad contenidas en el Programa Estatal.
+El Sistema Estatal para la Inclusión y Desarrollo de las Personas con Discapacidad tiene por objeto la coordinación y seguimiento continuo para la ejecución y evaluación de las políticas públicas para el desarrollo y la inclusión de las personas con discapacidad contenidas en el Programa Estatal, así como la difusión de sus derechos y el modo de ejercerlos.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -549,9 +553,9 @@ XV. Las demás que le señalen otras disposiciones legales aplicables.
 
 La Unidad de Valoración es un órgano técnico dependiente de la Secretaría de Salud que tiene por objeto la valoración de las personas para certificar la existencia de la discapacidad, su naturaleza, su grado y temporalidad, así como las posibilidades y requerimientos para la plena inclusión de la persona con discapacidad en el ámbito social, educativo, ocupacional, deportivo y laboral, en los términos de la Ley General, la presente Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2023)</small>
 
-El certificado al que se refiere el párrafo anterior deberá incluir, en su caso, si la persona con discapacidad requiere de perro guía o de asistencia.
+El certificado al que se refiere el párrafo anterior deberá incluir, en su caso, si la persona con discapacidad requiere de perro guía o animal de servicio.
 
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
@@ -993,7 +997,9 @@ IV. Establecer políticas de Incorporación laboral a sus dependencias y organis
 
 V. Promover y apoyar la realización de actividades deportivas y culturales;
 
-VI. Orientar y apoyar a las personas con discapacidad de escasos recursos, en la obtención de prótesis, órtesis, ayudas técnicas, medicinas, becas, traslados y apoyos económicos;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2023)</small>
+
+VI. Orientar y apoyar a las personas con discapacidad de escasos recursos, en la obtención de prótesis, órtesis, ayudas técnicas, medicinas, becas, perros guía, animales de servicio, traslados y apoyos económicos;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1227,19 +1233,15 @@ En la promoción laboral de las personas con discapacidad se dará preferencia a
 
 Las autoridades diseñarán e instrumentarán programas y campañas permanentes de educación vial, cortesía urbana y respeto hacia las personas con discapacidad con el objetivo principal de que se les facilite el acceso y movilidad y sean incluidos a las actividades sociales y económicas de la comunidad.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2023)</small>
 
 ###### Artículo 64.
 
-Las autoridades vigilarán que se garantice a las personas con discapacidad el acceso y movilidad en medios de transporte, espacios públicos, privados, laborales, educativos, recreativos, y en espectáculos públicos, incluyendo sus aparatos ortopédicos, sillas de ruedas, equipos y perros guía.
+Las autoridades vigilarán que se garantice a las personas con discapacidad el acceso y movilidad en medios de transporte, espacios públicos, privados, laborales, educativos, recreativos, y en espectáculos públicos, incluyendo sus aparatos ortopédicos, sillas de ruedas, equipos, perros guía o animales de servicio.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+Toda persona con discapacidad y sus perros guías o animales de servicio tienen acceso libre e irrestricto a establecimientos mercantiles, instalaciones o transportes, individuales o colectivos, sean de carácter público o privado.
 
-Toda persona con discapacidad y sus perros guías tienen acceso libre e irrestricto a establecimientos mercantiles, instalaciones o transportes, individuales o colectivos, sean de carácter público o privado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020)</small>
-
-La persona, institución, establecimiento mercantil, instalación y transporte, colectivo o individual, sea de carácter público o privado, que niegue el acceso, la permanencia o el uso de un servicio en los términos de esta Ley o cobre por ello una tarifa adicional cuando se incluya aparatos ortopédicos, sillas de ruedas, equipos o perros guía, se harán acreedores a las sanciones que establece la presente Ley.
+La persona, institución, establecimiento mercantil, instalación y transporte, colectivo o individual, sea de carácter público o privado, que niegue el acceso, la permanencia o el uso de un servicio en los términos de esta Ley o cobre por ello una tarifa adicional cuando se incluya aparatos ortopédicos, sillas de ruedas, equipos, perros guía o animales de servicio se harán acreedores a las sanciones que establece la presente Ley.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1341,9 +1343,9 @@ Las autoridades estatales y municipales, en el ámbito de su competencia, aplica
 
 I. Multa equivalente de 10 a 50 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a quienes ocupen indebidamente los espacios de estacionamiento preferencial, o bien obstruyan las rampas o accesos para personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2023)</small>
 
-II. Multa equivalente de 30 a 90 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a los proveedores de bienes y servicios, sea de carácter público o privado, que nieguen el acceso, la permanencia, el uso de un servicio a personas con discapacidad en los términos de esta Ley, o cobren una tarifa adicional cuando se incluyan aparatos ortopédicos, sillas de ruedas, equipos o perros guía;
+II. Multa equivalente de 30 a 90 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a los proveedores de bienes y servicios, sea de carácter público o privado, que nieguen el acceso, la permanencia, el uso de un servicio a personas con discapacidad en los términos de esta Ley, o cobren una tarifa adicional cuando se incluyan aparatos ortopédicos, sillas de ruedas, equipos, perros guía o animales de servicio;
 
 (REFORMADA, P.O. 11 DE OCTUBRE DE 2016) (F. DE E., P.O. 11 DE OCTUBRE DE 2016)
 
@@ -1377,9 +1379,9 @@ IX. De 250 a mil 500 veces el valor diario de la Unidad de Medida y Actualizaci�
 
 Será competencia de la Secretaría de Salud y de los municipios aplicar las multas establecidas en las fracciones VII, VIII y IX, sin menoscabo de las penas previstas en el Código Penal para el Estado Libre y Soberano de Jalisco, en su artículo 160, para los médicos, cirujanos y demás profesionistas similares o auxiliares por el daño que causen por dolo o culpa en la práctica de su profesión; en el artículo 161 Bis del mismo Código, por el delito de responsabilidad profesional y técnica por el daño causado al receptor del servicio por dolo o culpa, o el artículo 170 del Código, por el delito de usurpación de profesión, según corresponda.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2023)</small>
 
-Será competencia de los municipios, en los términos de la regulación municipal, la aplicación de las multas establecidas en las fracciones I, III, IV y VI. En caso de reincidencia los municipios aplicarán la sanción máxima, y respecto a la fracción VI, además, podrán proceder a la suspensión de la licencia de construcción o funcionamiento, permiso o concesión, y procederá a la revocación definitiva cuando la infracción ponga en peligro la salud de las personas con discapacidad.
+Será competencia de los municipios, en los términos de la regulación municipal, la aplicación de las multas establecidas en las fracciones I, III, IV y VI. En caso de reincidencia los municipios aplicarán la sanción máxima, y respecto a las fracciones II y VI, además, podrán proceder a la suspensión de la licencia de construcción o funcionamiento, permiso o concesión, y procederá a la revocación definitiva cuando la infracción ponga en peligro la salud de las personas con discapacidad.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1590,3 +1592,9 @@ P.O. 3 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28989/LXIII/22 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 28 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29167/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
