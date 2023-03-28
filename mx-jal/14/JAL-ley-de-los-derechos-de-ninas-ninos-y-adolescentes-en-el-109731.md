@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2022-11-12"
+last_updated: "2023-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -541,6 +541,8 @@ V. Dar respuesta a la información requerida por el Sistema Estatal de Protecci�
 
 VI. Establecer medidas tendientes a favorecer la salud mental de niñas, niños y adolescentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE MARZO DE 2023)</small>
+
 ###### Artículo 38.
 
 Las autoridades de Salud del Estado deberán garantizar la protección, promoción, ejercicio y pleno cumplimiento de los derechos de niñas, niños y adolescentes a través del sistema estatal de salud, para lo cual deberán:
@@ -587,25 +589,33 @@ IX. Otorgar cuidados paliativos para liberar del dolor evitable a enfermos termi
 
 X. Prestar asistencia médica gratuita a quienes se encuentren en condición de vulnerabilidad;
 
-XI. Atender, dar seguimiento e informar sobre el cumplimiento a los protocolos, acuerdos y las recomendaciones que al efecto dicten las autoridades en la materia; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2023)</small>
 
-> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES IDÉNTICO A LA FRACCIÓN XV.]</small>
+XI. Atender, dar seguimiento e informar sobre el cumplimiento a los protocolos, acuerdos y las recomendaciones que al efecto dicten las autoridades en la materia;
 
-XII. Las demás contenidas en la Ley General y la legislación en materia de salud.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+XII. Establecer medidas tendientes a promover, prevenir, diagnosticar, atender, conservar y mejorar la salud mental con enfoque de derechos humanos, perspectiva de género y de juventudes en su caso; y
 
-XIII. Promover el acondicionamiento de áreas en hospitales públicos, centros de salud y unidades de primer nivel para la atención perinatal;
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES IDÉNTICO A LA FRACCIÓN XVI.]</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE MARZO DE 2023)</small>
 
-XIV. Promover la instalación de bancos de leche humana en los establecimientos de salud en segundo y tercer nivel; y
-
-> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES IDÉNTICO A LA FRACCIÓN XII.]</small>
+XIII. Las demás contenidas en la Ley General y la legislación en materia de salud.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-XV. Las demás contenidas en la Ley General y la legislación en materia de salud.
+XIV. Promover el acondicionamiento de áreas en hospitales públicos, centros de salud y unidades de primer nivel para la atención perinatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XV. Promover la instalación de bancos de leche humana en los establecimientos de salud en segundo y tercer nivel; y
+
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES IDÉNTICO A LA FRACCIÓN XIII.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XVI. Las demás contenidas en la Ley General y la legislación en materia de salud.
 
 Las niñas, los niños y adolescentes deberán ser atendidos por personal capacitado y deberán recibir información veraz y oportuna, relativa a su enfermedad, en los términos necesarios y comprensibles, acorde a su edad, desarrollo evolutivo cognoscitivo y madurez, acompañados por quienes ejerzan la patria potestad, tutela o guarda y custodia.
 
@@ -2318,3 +2328,11 @@ P.O. 12 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. El Titular del Poder Ejecutivo podrá realizar las adecuaciones y modificaciones presupuestales y programáticas necesarias para la ejecución del presente decreto, conforme a la suficiencia presupuestal.
+
+P.O. 28 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29163/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMA AL ARTÍCULO 186 DE LA LEY DE SALUD DEL ESTADO DE JALISCO, 38 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO, 28 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO, 12 Y 38 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO PARA MEJORAR LA ATENCIÓN EN MATERIA DE SALUD MENTAL”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Las dependencias del Poder Ejecutivo y los municipios deberán de realizar los convenios y/o acuerdos de colaboración con las instancias correspondientes para dar cumplimiento al presente decreto.
