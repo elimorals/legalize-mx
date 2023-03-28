@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-publicidad-exterior-de-la-ciudad-de-mexico-158730"
 country: "mx"
 rank: "ley"
 publication_date: "2022-06-06"
-last_updated: "2022-06-06"
+last_updated: "2023-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158730&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2022-06-03"
 
 LEY DE PUBLICIDAD EXTERIOR DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE MARZO DE 2023.
 
 Ley publicada en el No. 866 Bis de la Gaceta Oficial de la Ciudad de México, el lunes 6 de junio de 2022.
 
@@ -340,7 +340,13 @@ Previa obtención de la Licencia, Autorización, PATR o Permiso, según correspo
 
 I. Medio publicitario de espectáculos tradicionales: aquellos relacionados con tradiciones y costumbres de un lugar, tales como; ferias, bailes, exposiciones de tipo cultural y artístico, los cuales se sujetarán a los criterios previstos en el Reglamento de esta Ley;
 
-II. Medio publicitario denominativo: contiene el nombre, denominación comercial o logotipo con el que se identifica una persona física o moral, una edificación y una actividad, colocados en fachadas de los inmuebles o en toldos sobre los vanos de éstas, puede ser integrado, adosado, letras separadas en bajo y alto relieve, pintado o adherido.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE MARZO DE 2023)</small>
+
+II. Medio publicitario denominativo: contiene el nombre o denominación comercial, logotipo o emblema con el que se identifica una persona física o moral, una edificación y una actividad, podrán ser colocados en fachadas de los inmuebles o en toldos sobre los vanos de éstas, puede ser integrado, adosado, letras separadas en bajo y alto relieve, pintado o adherido.
+
+> <small>(ADICIONADO, G.O. 28 DE MARZO DE 2023)</small>
+
+La denominación podrá acompañarse de un eslogan.
 
 En el Centro Histórico de la Ciudad de México y otras Zonas de Monumentos Históricos, así como en las Áreas de Conservación Patrimonial, se deberán respetar tamaños, ubicación, dimensiones, colores y materiales permitidos, en estricto apego a la normativa establecidas por la Secretaría, en concurrencia con lo establecido por la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, (sic) con el Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura;
 
@@ -1443,3 +1449,13 @@ Una vez implementado el Registro de Publicistas, las personas físicas y morales
 Palacio Legislativo del Congreso de la Ciudad de México, a los treinta y un días del mes de mayo del año dos mil veintidós.. (sic) POR LA MESA DIRECTIVA, DIPUTADO HÉCTOR DIAZ POLANCO, PRESIDENTE.- DIPUTADA MARCELA FUENTE CASTILLO, SECRETARIA.- DIPUTADA FRIDA JIMENA GUILLÉN ORTIZ, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2 párrafo segundo, 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los tres días del mes de junio del año dos mil veintidós.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, MARTÍ BATRES GUADARRAMA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZALES ESCOBAR.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, RAFAEL GREGORIO GÓMEZ CRUZ.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 28 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA EL PRIMER PÁRRAFO Y SE ADICIONA UNO SEGUNDO, RECORRIENDO EN SU ORDEN EL SUBSECUENTE, A LA FRACCIÓN II DEL ARTÍCULO 14 DE LA LEY DE PUBLICIDAD EXTERIOR DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
