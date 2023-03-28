@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2023-03-14"
+last_updated: "2023-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -427,7 +427,7 @@ XXI. Las demás atribuciones que le otorguen la presente Ley y otras disposicion
 
 Las facultades previstas en las fracciones III, V, VI, VIII, XIII, XVI, XVII, XVIII, XIX y XX de este artículo podrá ejercerlas a través de la Unidad Estatal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 28 DE MARZO DE 2023)</small>
 
 ###### Artículo 12.
 
@@ -503,13 +503,17 @@ XX. Tramitar y resolver el recurso administrativo previsto en esta Ley; y
 
 XXI. Establecer los albergues y refugios temporales de su comunidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2023)</small>
 
-XXII. Firmar convenios de colaboración con la Unidad Estatal de Protección Civil para el debido registro, certificación, capacitación, formación y coordinación de los Brigadistas Comunitarios; y
+XII (SIC). Firmar convenios de colaboración con la Unidad Estatal de Protección Civil para el debido registro, certificación, capacitación, formación y coordinación de los Brigadistas Comunitarios;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2023)</small>
 
-XXIII. Las demás que le señalen esta Ley y otras normas y reglamentos aplicables.
+XIII (SIC). Realizar las medidas necesarias tendientes a promover, prevenir, diagnosticar, atender, conservar y mejorar la salud mental del personal de las unidades municipales de protección civil con enfoque de derechos humanos, perspectiva de género y de juventudes en su caso; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE MARZO DE 2023)</small>
+
+XIV (SIC). Las demás que le señalen esta Ley y otras normas y reglamentos aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
@@ -1171,7 +1175,7 @@ El Reglamento Interno de la Unidad Estatal determinará su estructura orgánica,
 
 La Fiscalía General dispondrá se adscriba a la Unidad Estatal, una agencia del Ministerio Público especializada en esta materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 28 DE MARZO DE 2023)</small>
 
 ###### Artículo 38.
 
@@ -1291,13 +1295,17 @@ XXIX. Coordinarse, en el ámbito de sus atribuciones, con las autoridades compet
 
 XXX. Coordinarse con las autoridades competentes para instrumentar las acciones necesarias para el cumplimiento de esta ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2023)</small>
 
-XXXI. Integrar y certificar a las brigadas comunitarias en apoyo, a la Red Nacional de Brigadistas Comunitarios, así como tener actualizado el padrón de la Red Estatal de Brigadas Comunitarias; y
+XXXI. Integrar y certificar a las brigadas comunitarias en apoyo, a la Red Nacional de Brigadistas Comunitarios, así como tener actualizado el padrón de la Red Estatal de Brigadas Comunitarias;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2023)</small>
 
-XXXII. Las demás que dispongan los reglamentos, programas y convenios o que le asigne el Consejo Estatal de Protección Civil.
+XXXII. Realizar las medidas necesarias tendientes a promover, prevenir, diagnosticar, atender, conservar y mejorar la salud mental del personal con enfoque de derechos humanos, perspectiva de género y de juventudes en su caso; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE MARZO DE 2023)</small>
+
+XXXIII. Las demás que dispongan los reglamentos, programas y convenios o que le asigne el Consejo Estatal de Protección Civil.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
@@ -2378,3 +2386,11 @@ P.O. 14 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29155/LXIII/23 QUE REFORMA LOS ARTÍCULOS 45, 46 Y PÁRRAFO TERCERO DEL ARTÍCULO 73 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 28 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29163/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMA AL ARTÍCULO 186 DE LA LEY DE SALUD DEL ESTADO DE JALISCO, 38 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO, 28 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO, 12 Y 38 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO PARA MEJORAR LA ATENCIÓN EN MATERIA DE SALUD MENTAL”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Las dependencias del Poder Ejecutivo y los municipios deberán de realizar los convenios y/o acuerdos de colaboración con las instancias correspondientes para dar cumplimiento al presente decreto.
