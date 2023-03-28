@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2022-04-21"
+last_updated: "2023-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -1925,9 +1925,13 @@ XIX. Impedir la instalación de los servicios públicos;
 
 XX. Construir y operar sistemas para la prestación de los servicios públicos, sin la concesión correspondiente;
 
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2023)</small>
 
-XXI. Descargar aguas residuales, basura, desechos, materiales y sustancias toxicas, lodos y otras sustancias que se encuentre en aquellas, o que se deriven de su tratamiento, a los sistemas de alcantarillado o al subsuelo, sin la autorización correspondiente o fuera de los parámetros o límites máximos permisibles de descarga establecidos por las Normas Oficiales Mexicanas aplicables u otra normatividad aplicable.
+XXI. Descargar aguas residuales, basura, desechos, materiales y sustancias toxicas, lodos y otras sustancias que se encuentre en aquellas, o que se deriven de su tratamiento, a los sistemas de alcantarillado o al subsuelo, sin la autorización correspondiente o fuera de los parámetros o límites máximos permisibles de descarga establecidos por las Normas Oficiales Mexicanas aplicables u otra normatividad aplicable; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2023)</small>
+
+XXII. Conectar los veneros o nacimientos de agua al drenaje o líneas de alejamiento.
 
 ###### Artículo 103.
 
@@ -1937,9 +1941,9 @@ Se sancionará con:
 
 I. Multa por el equivalente de entre cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, tratándose de las infracciones señaladas en las fracciones I, II, VIII, X, XVII y XIX del artículo 102 de esta Ley;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2023)</small>
 
-II. Multa por el equivalente de entre cien hasta doscientas veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, en tratándose de las infracciones señaladas en las fracciones VI, IX, XI, XII y XIII del artículo 102 de esta Ley;
+II. Multa por el equivalente de entre cien hasta doscientas veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, en (sic) tratándose de las infracciones señaladas en las fracciones VI, IX, XI, XII, XIII y XXII del artículo 102 de esta Ley;
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -2184,3 +2188,13 @@ P.O. 21 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28761/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 1, 8, 11, 17, 60 DE LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 28 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29168/LXIII/23 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 102 Y 103 DE LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los Ayuntamientos en el estado de Jalisco dispondrán de 90 días naturales para explorar y ubicar los veneros o nacimientos de agua en sus municipios para realizar las adecuaciones conducentes a evitar que estén conectados al drenaje o a cauces contaminados.
+
+TERCERO. De las labores de exploración para la identificación de los veneros o nacimientos de agua, se recopilará la información y se entregará a la Comisión Estatal del Agua para que sea incorporada a las bases de datos del Sistema Estatal de Información del Agua.
