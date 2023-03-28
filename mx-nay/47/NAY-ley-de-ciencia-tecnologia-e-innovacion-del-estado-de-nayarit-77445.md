@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-nayarit-77
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-23"
-last_updated: "2022-05-25"
+last_updated: "2023-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 23 de octubre de 2010.
 
@@ -383,7 +383,9 @@ III. Búsqueda de incentivos fiscales y otros mecanismos de fomento para que el 
 
 IV. En la determinación de las políticas y decisiones en materia de ciencia, tecnología e innovación, se garantizará la participación de sus respectivos sectores;
 
-V. La actividad de investigación y desarrollo tecnológico que realicen directamente las dependencias y entidades en el Estado, deberán buscar el mayor efecto de utilidad-beneficio, en la enseñanza y el aprendizaje en esos sectores, en la calidad de la educación, particularmente de la educación superior y el posgrado, así como incentivar la participación y el desarrollo de nuevas generaciones de investigadores;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2023)</small>
+
+V. La actividad de investigación y desarrollo tecnológico que realicen directamente las dependencias y entidades en el Estado, deberán buscar el mayor efecto de utilidad-beneficio, en la enseñanza y el aprendizaje en esos sectores, en la calidad de la educación, particularmente de la educación superior y el posgrado, así como incentivar la participación y el desarrollo de nuevas generaciones de investigadores, poniendo especial énfasis en eliminar la brecha de género existente en este rubro;
 
 VI. Se promoverá la actualización, conservación, consolidación y desarrollo de la infraestructura de investigación existente, en particular la de los centros públicos de investigación, así como la creación de nuevos centros, cuando esto sea necesario;
 
@@ -405,7 +407,9 @@ XIV. Las personas físicas o morales que reciban apoyo, deberán rendir un infor
 
 XV. En el fomento de la investigación científica, tecnológica y de innovación se deberá evitar la duplicidad de esfuerzos y acciones;
 
-XVI. Se deberán crear espacios y desarrollar programas que busquen inculcar en niños y jóvenes el aprecio por la ciencia y la tecnología, así como su acercamiento a esta clase de actividades;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2023)</small>
+
+XVI. Se deberán crear espacios y desarrollar programas con enfoque de género, que busquen inculcar en niñas, niños y jóvenes el aprecio por la ciencia y la tecnología, así como su acercamiento a esta clase de actividades y que permitan eliminar la brecha de género existente;
 
 XVII. El Gobierno del Estado establecerá mecanismos para que los resultados de la investigación científica y tecnológica beneficien a todas las regiones y estratos de la población del Estado y que contribuyan a su desarrollo integral para alcanzar mejores niveles de vida, y
 
@@ -1034,3 +1038,9 @@ P.O. 25 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE POLÍTICAS DE CIENCIA, TECNOLOGÍA E INNOVACIÓN CON FOMENTO A LA IGUALDAD DE GÉNERO”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 28 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LAS FRACCIONES V Y XVI DEL ARTÍCULO 15 DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE ELIMINACIÓN DE BRECHAS DE GÉNERO EN LA CIENCIA, TECNOLOGÍA E INNOVACIÓN".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
