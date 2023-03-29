@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2022-10-21"
+last_updated: "2023-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -75,7 +75,9 @@ Se considera a la actividad turística como prioritaria para el desarrollo econ�
 
 I.- Establecer las bases generales de coordinación de las facultades concurrentes entre el Ejecutivo Estatal y Municipios, así como la participación de los sectores social y privado;
 
-II.- Fijar las bases para la política, planeación, promoción, evaluación y programación en el territorio del Estado de Hidalgo de la actividad turística, bajo criterios de beneficio social, sustentabilidad, competitividad y desarrollo equilibrado a corto, mediano y largo plazos;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+II.- Fijar las bases para la política, planeación, promoción, evaluación y programación en el territorio del Estado de Hidalgo de la actividad turística, bajo criterios de beneficio social, inclusión, sustentabilidad, competitividad y desarrollo equilibrado a corto, mediano y largo plazos;
 
 III.- Determinar los mecanismos para la conservación, mejoramiento, protección, promoción, y aprovechamiento de los recursos y atractivos turísticos Estatales, preservando el patrimonio natural, histórico y cultural, además de considerar el equilibrio ecológico promulgados por las leyes en la materia, así como contribuir a la creación y desarrollo de nuevos atractivos turísticos regionales, en apego al marco jurídico vigente;
 
@@ -105,13 +107,17 @@ XIV.- Desarrollar acciones para diversificar la actividad turística hidalguense
 
 XV.- Garantizar y proteger los derechos de los usuarios turísticos.
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-XVI.- Promover, impulsar y desarrollar el turismo sustentable en Pueblos y Comunidades indígenas del Estado; y
+XVI.- Promover, impulsar y desarrollar el turismo sustentable en Pueblos y Comunidades indígenas del Estado;
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-XVII. Impulsar los proyectos de fomento turístico que propicien la creación y conservación del empleo, evitando para ello toda práctica monopólica.
+XVII.- Impulsar los proyectos de fomento turístico que propicien la creación y conservación del empleo, evitando para ello toda práctica monopólica; y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XVIII.- Promover e impulsar en los servicios turísticos la igualdad entre todas las personas, así como la inclusión de personas indígenas y afromexicanas, personas de la diversidad sexual y de género, niñas y niños, jóvenes, personas adultas mayores y personas con discapacidad.
 
 ###### Artículo 4.
 
@@ -204,6 +210,10 @@ c).- Turismo de Aventura: Aquel que incluye el desarrollo de diferentes activida
 XXII Bis.- Turismo Gastronómico: La actividad turística que realizan las personas cuyo fin principal sea la degustación de alimentos propios o típicos de un lugar o región de la Entidad;
 
 XXIII.- Turismo Social: Actividad encaminada a que los habitantes de cualquier nivel socioeconómico, accedan a los atractivos turísticos del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XXIII Bis.- Turismo Inclusivo: Actividad que reconoce la igualdad de todas las personas para desarrollar prácticas turísticas de una manera segura, cómoda, autónoma y normalizada, así como la inclusión de personas indígenas y afromexicanas, personas de la diversidad sexual y de género, niñas y niños, personas jóvenes, personas adultas mayores y personas con discapacidad.
 
 XXIV.- Turismo Sustentable: Aquel que cumple y sigue las siguientes directrices:
 
@@ -325,7 +335,9 @@ XXVI.- Brindar asistencia técnica y acompañamiento empresarial a través de la
 
 XXVII.- Diseñar y publicar la Guía del Inversionista Turístico del Estado de Hidalgo de manera anual, que sirva como promoción y fomento de las oportunidades de negocios que presenta la Entidad en el sector;
 
-XXVIII.- Promover e impulsar estrategias institucionales para el desarrollo del turismo de convenciones y visitantes, así como de segmentos como el turismo de salud, de naturaleza, cinegético, de aventura, religioso, el turismo social, entre otros, que generen una afluencia de turistas al Estado;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XXVIII.- Promover e impulsar estrategias institucionales para el desarrollo del turismo de convenciones y visitantes, así como de segmentos como el turismo de salud, de naturaleza, cinegético, de aventura, religioso, el turismo social, el turismo inclusivo, entre otros, que generen una afluencia de turistas al Estado.
 
 > <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
 
@@ -655,9 +667,9 @@ En el marco del Sistema Estatal de Financiamiento, la Secretaría, en coordinaci
 
 ### CAPÍTULO XI. DEL TURISMO SOCIAL
 
-### CAPÍTULO XII. DEL TURISMO ACCESIBLE
+### CAPÍTULO XI BIS. DEL TURISMO INCLUSIVO
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
 
 ###### Artículo 32.
 
@@ -671,11 +683,25 @@ La Secretaría, en coordinación con las Dependencias y Entidades competentes de
 
 La Secretaría impulsará la celebración de convenios entre los prestadores de servicios y el sector público, privado y social, para facilitar el acceso a los viajes entre los trabajadores y su familia en condiciones de economía y seguridad.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2023)</small>
+
+### CAPÍTULO XII. DEL TURISMO ACCESIBLE
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+
+###### Artículo 34 Bis.
+
+La Secretaría promoverá acciones para propiciar el turismo inclusivo en el Estado, en igualdad de condiciones, con la finalidad de diversificar la actividad turística.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
+
+###### Artículo 34 Ter.
+
+La Secretaría de manera conjunta con los municipios y sectores de la sociedad diseñarán políticas públicas con enfoque inclusivo.
+
 ### CAPÍTULO XII BIS. DEL TURISMO GASTRONÓMICO
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
-
-### CAPÍTULO XIII. DE LA INCORPORACIÓN DE LA ACTIVIDAD TURÍSTICA A LAS CADENAS PRODUCTIVAS
 
 ###### Artículo 35.
 
@@ -687,9 +713,7 @@ La Secretaría procurará que los programas de señalización del sector conside
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
-### CAPÍTULO XIV. DE LA CULTURA TURÍSTICA
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
+### CAPÍTULO XIII. DE LA INCORPORACIÓN DE LA ACTIVIDAD TURÍSTICA A LAS CADENAS PRODUCTIVAS
 
 ###### Artículo 36 Bis.
 
@@ -715,9 +739,11 @@ La Secretaría de manera conjunta con los Ayuntamientos y los sectores social, p
 
 La Secretaría promoverá los recorridos turísticos por las rutas gastronómicas aprovechando los atractivos culturales, históricos y naturales con que cuenta el Estado de Hidalgo.
 
-### CAPÍTULO XV. DE LA PROMOCIÓN DE LA ACTIVIDAD TURÍSTICA
+### CAPÍTULO XIV. DE LA CULTURA TURÍSTICA
 
-### CAPÍTULO XVI. DEL FOMENTO DE INVERSIONES TURÍSTICAS
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
+
+### CAPÍTULO XV. DE LA PROMOCIÓN DE LA ACTIVIDAD TURÍSTICA
 
 ###### Artículo 37.
 
@@ -735,7 +761,7 @@ Será de especial atención la incorporación de micro, pequeñas y medianas emp
 
 Le corresponde a la Secretaría, en coordinación con la Secretaría de Desarrollo Social de Hidalgo, organizar, fomentar y estimular el sector artesanal, como complemento del desarrollo turístico.
 
-### CAPITULO XVII. COMPETITIVIDAD Y PROFESIONALIZACIÓN
+### CAPÍTULO XVI. DEL FOMENTO DE INVERSIONES TURÍSTICAS
 
 ###### Artículo 41.
 
@@ -749,7 +775,7 @@ La Secretaría dotará de herramientas y conocimientos a la población local, pa
 
 La Secretaría impulsará la firma de acuerdos y fomentará esfuerzos con las Secretarías Estatales de Educación Pública y del Trabajo y Previsión Social, así como con el Consejo Estatal para la Cultura y las Artes de Hidalgo, para desarrollar acciones encaminadas a la capacitación, profesionalización y certificación laboral de los trabajadores del sector, al igual que participará en la elaboración y actualización de los planes de estudio en materia turística.
 
-### CAPÍTULO XVIII. DEL ORDENAMIENTO TURÍSTICO DEL ESTADO
+### CAPITULO XVII. COMPETITIVIDAD Y PROFESIONALIZACIÓN
 
 ###### Artículo 44.
 
@@ -801,7 +827,7 @@ La Secretaría deberá mantener una estrecha comunicación y coordinación con l
 
 La Secretaría impulsará el desarrollo turístico sustentable de las comunidades mediante la creación y difusión de regiones, rutas y circuitos turísticos con la visión de preservar las raíces históricas y culturales del Estado.
 
-### CAPÍTULO XIX. DEL SISTEMA ESTADÍSTICO DE INFORMACIÓN TURÍSTICA DEL ESTADO DE HIDALGO
+### CAPÍTULO XVIII. DEL ORDENAMIENTO TURÍSTICO DEL ESTADO
 
 ###### Artículo 49.
 
@@ -823,7 +849,7 @@ La Promotora integrará el portafolio de proyectos turísticos, el cual será ac
 
 Cuando se trate de inversiones en el sector turístico, se podrá considerar el posible otorgamiento de los estímulos y apoyos que consigna la Ley de Fomento y Desarrollo Económico del Estado de Hidalgo. La Secretaría podrá, en apego a las disposiciones legales vigentes, proponer ante las autoridades competentes, se otorguen incentivos fiscales en apoyo a las inversiones turísticas en la Entidad.
 
-### CAPÍTULO XX. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO XIX. DEL SISTEMA ESTADÍSTICO DE INFORMACIÓN TURÍSTICA DEL ESTADO DE HIDALGO
 
 ###### Artículo 54.
 
@@ -889,7 +915,7 @@ La Secretaría en el ejercicio de sus atribuciones, promoverá con la Secretarí
 
 La Secretaría realizará estudios e investigaciones en materia turística que conduzcan a elevar la competitividad del sector y facilitar las acciones de planeación de los sectores privado y social.
 
-### CAPÍTULO XXI. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS DENTRO DEL ESTADO
+### CAPÍTULO XX. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### Artículo 59.
 
@@ -909,9 +935,7 @@ III.- Definir los lineamientos para su ejecución, seguimiento, evaluación y mo
 
 Los procedimientos para la formulación, aprobación, expedición, evaluación y posibles modificaciones de los Ordenamientos Turísticos del Territorio Estatal, se apegarán a la legislación local aplicable en la materia y deberán ser congruentes y corresponder a los programas de ordenamiento turístico general y regional que hayan sido expedidos por la Federación.
 
-### CAPÍTULO XXII. DE LA VERIFICACIÓN DE LOS SERVICIOS Y SANCIONES
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+### CAPÍTULO XXI. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS DENTRO DEL ESTADO
 
 ###### Artículo 62.
 
@@ -957,6 +981,10 @@ La Secretaría fomentará acuerdos con los Municipios para mantener actualizada 
 
 La Secretaría expedirá de manera anual comprobante de inscripción al Registro, el cual deberá colocarse en lugar visible en los establecimientos del Sector para los turistas.
 
+### CAPÍTULO XXII. DE LA VERIFICACIÓN DE LOS SERVICIOS Y SANCIONES
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+
 ###### Artículo 70.
 
 Para efectos de esta Ley, se consideran prestadores de servicios turísticos los servicios que se proporcionen a través de:
@@ -1000,6 +1028,12 @@ Las relaciones que se establezcan entre los prestadores de servicios y los turis
 ###### Artículo 72.
 
 Los Prestadores de Servicios Turísticos no negarán o condicionarán el servicio por cuestiones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
+
+###### Artículo 72 Bis.
+
+Los Prestadores de Servicios Turísticos ofrecerán un servicio con enfoque inclusivo.
 
 ###### Artículo 73.
 
@@ -1083,9 +1117,17 @@ IV.- Recibir del prestador de servicios turísticos, los servicios de calidad, a
 
 V.- Recibir los servicios sin ser discriminados en los términos del Artículo 76 de esta Ley;
 
-VI.- Disfrutar el libre acceso y goce de todo el patrimonio turístico estatal, así como su permanencia en las instalaciones de dichos servicios, sin más limitaciones que las derivadas de los reglamentos específicos de cada actividad y lugar; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-VII.- Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente.
+VI.- Disfrutar el libre acceso y goce de todo el patrimonio turístico estatal, así como su permanencia en las instalaciones de dichos servicios, sin más limitaciones que las derivadas de los reglamentos específicos de cada actividad y lugar;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+VII.- Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente; y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+VIII.- Disfrutaran de los servicios del turismo inclusivo en el Estado, de una manera segura, cómoda, autónoma y normalizada.
 
 ###### Artículo 79.
 
@@ -1268,5 +1310,11 @@ P.O. 23 DE MAYO DE 2022.
 P.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 236 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 312, QUE ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
