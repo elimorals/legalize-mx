@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transito-y-seguridad-vial-para-el-estado-de-hidalgo-1436
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-20"
-last_updated: "2022-03-28"
+last_updated: "2023-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de julio de 2020.
 
@@ -99,7 +99,13 @@ III Quáter.- Ciclista: A la Persona que conduce un vehículo de tracción human
 
 III Quinquies.- Ciclovía: A la infraestructura con señalización, para la circulación exclusiva de ciclistas;
 
-IV.- Conductor: La persona que conduce un vehículo o que tiene control físico sobre él cuando éste se encuentra en movimiento;
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+III Sexties.- Escuelas de Manejo: Instituciones públicas o privadas autorizadas por la Secretaría para la enseñanza de la conducción de vehículos motorizados, educación vial, marco normativo y mecánica básica, necesarios para la obtención de la Constancias (sic) que acredita que se cuenta con los conocimientos y habilidades necesarias para la conducción de vehículos automotores.
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+IV.- Conductor: Persona física que opera un vehículo para su movilización y que ejerce control y dominio sobre el vehículo en la vía pública, incluyendo a las personas que dirigen los mandos de un vehículo del Servicio de Transporte;
 
 V.- Comisario: El Comisario General de la Agencia;
 
@@ -124,6 +130,10 @@ X.- Gobernador: La persona Titular del Poder Ejecutivo del Estado;
 X Bis.- Infracción: La conducta que transgrede alguna disposición establecida en la presente Ley y su Reglamento, y que tiene como consecuencia una sanción administrativa;
 
 XI.- Infraestructura vial: El conjunto de elementos que integran la vialidad, que tienen una finalidad de beneficio general y permiten su mejor funcionamiento o imagen visual;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XI Bis.- Licencia de Conducir: Documento en formato físico o digital, que acredita la autorización por parte de la Secretaría, para conducir vehículos automotores en la vía pública;
 
 XII.- Ley: La Ley de Tránsito y Seguridad Vial para el Estado de Hidalgo;
 
@@ -495,6 +505,10 @@ Para la realización de desfiles, caravanas, cabalgatas, manifestaciones, peregr
 
 A efecto de lo anterior, se dará aviso por escrito a la Secretaría o a las autoridades municipales, con por lo menos 48 horas de anticipación a su realización, a efecto de que se despejen las vías y se establezcan rutas alternas a la circulación.
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
+
+Así mismo, la Policía de Vialidad y Tránsito deberá contar con protocolos de prevención, contención e intervención para garantizar el libre tránsito, el orden público y la seguridad de las personas, sus bienes y derechos, para disminuir los hechos de tránsito en las actividades mencionadas en el párrafo segundo.
+
 ###### Artículo 32.
 
 Las autoridades estatales y municipales tomarán las medidas necesarias para evitar el bloqueo en vías públicas, apegándose a lo dispuesto por la normatividad aplicable.
@@ -507,9 +521,11 @@ Se podrá utilizar cualquier espacio de la vía pública para estacionamiento, c
 
 Las autoridades estatales y municipales, dentro de sus respectivas competencias, fijarán los señalamientos, horarios y los días de la semana en que exista la prohibición de estacionarse en los lugares que estos determinen.
 
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2023)</small>
 
-Artículo 33 bis. Las autoridades estatales y municipales promoverán que en los estacionamientos exista infraestructura y espacios exclusivos para bicicletas y motocicletas.
+Artículo 33 bis. Las autoridades estatales y municipales promoverán que en los estacionamientos exista infraestructura y espacios exclusivos para personas con discapacidad, bicicletas y motocicletas.
+
+Los estacionamientos deberán contar con las instalaciones necesarias para garantizar la seguridad de las personas y los vehículos, así como con espacios adecuados y señalados para los vehículos de personas con discapacidad, motocicletas y bicicletas.
 
 ###### Artículo 34.
 
@@ -1079,7 +1095,9 @@ IV.- Acreditar, a través de los exámenes y prácticas que se fijen para cada t
 
 V.- Tener las condiciones psicomotrices, de agudeza visual y salud mental necesarias para conducir vehículos motorizados; y
 
-VI.- Tener los conocimientos generales de las disposiciones de esta Ley y su Reglamento, así como de los señalamientos viales establecidos para el control del tránsito en la vía pública.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+VI.- Tener los conocimientos generales de las disposiciones de esta Ley y su Reglamento, de mecánica básica, educación vial y manejo a la defensiva.
 
 ###### Artículo 93.
 
@@ -1091,13 +1109,21 @@ II.- Acta de nacimiento o Clave Única del Registro de Población;
 
 III.- Certificado Médico expedido por una institución de salud pública, que haga constar que el solicitante tiene el estado físico y mental apropiado para la conducción de vehículos;
 
-IV.- Constancia de aprobación de examen teórico práctico de conducción de vehículos motorizados realizado por la Agencia o el municipio, o de acreditación de curso de manejo expedido por la Agencia o el municipio gratuitamente, o en su caso, podrán ser expedidas las constancias de acreditación de curso de manejo, por las escuelas de enseñanza para conducir vehículos, autorizadas por la Secretaría;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+IV.- Constancia de aprobación de examen de valoración teórico práctico de conducción de vehículos motorizados realizado gratuitamente por la Agencia o el municipio o constancia de acreditación del curso de capacitación integral expedido por la Agencia o el municipio gratuitamente a través de sus propias escuelas de manejo, o en su caso, por las escuelas de manejo autorizadas por la Secretaría, que respalde la aprobación de las evaluaciones teórico prácticas respecto a la conducción de vehículos motorizados, educación vial, marco normativo y mecánica básica;
 
 V.- Escrito firmado por el solicitante mediante el cual declare bajo protesta de decir verdad que no tiene impedimento judicial o administrativo para la conducción de vehículos. Dicha información será verificada por la autoridad estatal competente en materia de expedición de licencias; y
 
 VI.- Recibo de Pago de derechos estatales.
 
 En el supuesto de renovación de licencia de conducir, podrá válidamente omitirse la exigencia de los requisitos marcados en las fracciones II y IV de este artículo.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
+
+###### Artículo 93 Bis.
+
+Para el caso de licencias de conducir de vehículos automotores para el servicio de transporte de personas y/o bienes, los interesados deberán ser mayores de edad.
 
 ###### Artículo 94.
 
@@ -1107,9 +1133,11 @@ Los extranjeros además de los requisitos establecidos en el artículo 93, deber
 
 Las licencias que se expidan en otra entidad federativa o en el extranjero, tendrán plena validez dentro de la jurisdicción estatal, siempre y cuando correspondan con el tipo de vehículo que se conduce.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2023)</small>
+
 ###### Artículo 96.
 
-Las personas mayores de dieciséis años cumplidos y menores de dieciocho años que reúnan las condiciones de madurez y capacidad necesarias para conducir vehículos motorizados, con base en los exámenes que se les practiquen, podrán obtener permiso hasta por seis meses para conducir vehículos motorizados referidos en las fracciones II y III del artículo 90, previa autorización de quien ejerza la patria potestad. Cuando los titulares de dichos permisos cumplan los dieciocho años de edad, deberán solicitar la licencia de conducir, previo cumplimiento de los requisitos correspondientes que esta Ley y su Reglamento establezcan.
+Las personas mayores de dieciséis años cumplidos y menores de dieciocho años que reúnan las condiciones de madurez y capacidad necesarias para conducir vehículos motorizados, con previa acreditación del curso teórico práctico y los exámenes de valoración integral que se les practiquen, podrán obtener permiso hasta por seis meses para conducir vehículos motorizados referidos en las fracciones II y III del artículo 90, previa autorización de quien ejerza la patria potestad. Cuando los titulares de dichos permisos cumplan los dieciocho años de edad, deberán solicitar la licencia de conducir, previo cumplimiento de los requisitos correspondientes que esta Ley y su Reglamento establezcan.
 
 ###### Artículo 97.
 
@@ -1121,9 +1149,9 @@ II.- Saber leer y escribir;
 
 III.- Elaborar solicitud acompañándola de los documentos establecidos en el artículo 98;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-IV.- Acreditar, a través de los exámenes y prácticas que se fijen para cada tipo de permiso, la capacidad indispensable para manejar los vehículos de que se trate; acreditación que será expedida en términos del artículo 98 fracción V de la Ley.
+IV.- Aprobar el examen teórico práctico de conducción de vehículos motorizados realizado gratuitamente por la Agencia o el municipio o acreditar el curso de capacitación integral expedido por la Agencia o el municipio gratuitamente a través de sus propias escuelas de manejo, o en su caso, por las escuelas de manejo autorizadas por la Secretaría, en donde se respalden los conocimientos y habilidades necesarios en materia de conducción de vehículos motorizados, educación vial, marco normativo y mecánica básica; acreditación que deberá entregarse por escrito mediante la Constancia respectiva;
 
 V.- Tener las condiciones psicomotrices, de agudeza visual y salud mental necesarias para conducir vehículos motorizados; y
 
@@ -1141,7 +1169,9 @@ III.- Carta responsiva firmada por la persona que ejerza la patria potestad o la
 
 IV.- Certificado Médico expedido por una institución de salud pública, que haga constar que el solicitante tiene el estado físico y mental apropiado para la conducción de vehículos;
 
-V.- Constancia de aprobación de examen teórico práctico de conducción de vehículos motorizados realizado por la Agencia o el municipio, o de acreditación de curso de manejo expedido por la Agencia o el municipio gratuitamente, o en su caso, podrán ser expedidas las constancias de acreditación de curso de manejo, por las escuelas de enseñanza para conducir vehículos, autorizadas por la Secretaría; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+V.- Constancia de aprobación de examen teórico práctico de conducción de vehículos motorizados realizado por la Agencia o el municipio, o de acreditación del curso de capacitación integral expedida por la Agencia o el municipio gratuitamente, o en su caso, por las escuelas de enseñanza para conducir vehículos, autorizadas por la Secretaría; y
 
 VI.- Recibo de Pago de derechos estatales.
 
@@ -1150,6 +1180,24 @@ En el supuesto de renovación del permiso de conducir, podrá válidamente omiti
 ###### Artículo 99.
 
 Las licencias o permisos de conducir son intransferibles y sus titulares serán responsables del mal uso que hagan de los mismos.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
+
+###### Artículo 99 Bis.
+
+La Secretaría homologará, con la participación de las instituciones públicas o privadas de capacitación en materia de tránsito, seguridad vial y movilidad, los contenidos, tiempo de duración, exámenes teóricos prácticos, y modalidades de acreditación de los cursos o clases teóricas y prácticas sobre la conducción de vehículos, de acuerdo a cada tipo de licencia que se requiera solicitar.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
+
+###### Artículo 99 Ter.
+
+Para personas con discapacidad, el examen de valoración integral deberá realizarse en formatos accesibles, para lo cual se deberán emitir los lineamientos respectivos en el Reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
+
+###### Artículo 99 Quater.
+
+Las licencias de conducir se expedirán en medios impresos o de forma digital, mediante aplicaciones tecnológicas, que garanticen su autenticidad y protección de los datos que estas contienen, misma (sic) que permitirán la acreditación de las habilidades y requisitos correspondientes para la conducción del tipo de vehículo de que se trate y tendrán plena validez en el territorio estatal y nacional.
 
 ### CAPÍTULO II. DE LA SUSPENSIÓN Y CANCELACIÓN DE LICENCIAS Y PERMISOS
 
@@ -1672,3 +1720,11 @@ P.O. 28 DE MARZO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. El Estado y los Municipios, dentro (sic) ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá prever de la esfera administrativa necesaria para el cumplimiento de este Decreto.
+
+P.O. 29 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 337 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO Y DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Poder Ejecutivo del Estado, dentro (sic) ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá prever de la esfera administrativa necesaria para el cumplimiento de este Decreto.
