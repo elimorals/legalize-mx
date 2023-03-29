@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-para-la-lectura-y-el-libro-del-estado-de-89283"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2022-10-21"
+last_updated: "2023-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -87,7 +87,9 @@ V.- Velar por la modernización, fortalecimiento y actualización permanente del
 
 VI.- Coordinar y concertar a los sectores social y privado en esta materia, para que el Estado garantice el ejercicio del derecho a la información;
 
-VII.- Establecer criterios que permitan generar lectores por medio de políticas públicas, programas, proyectos y acciones en materia de fomento y promoción de la lectura, con especial atención en las zonas rurales e indígenas;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+VII.- Establecer criterios que permitan generar lectores por medio de políticas públicas, programas, proyectos y acciones plurales, democráticas e incluyentes en materia de fomento y promoción de la lectura, con especial atención en las zonas rurales e indígenas;
 
 VIII.- Garantizar el acceso, en igualdad de condiciones, al libro en todo el Estado de Hidalgo para aumentar su disponibilidad y acercarlo al lector;
 
@@ -99,9 +101,17 @@ XI.- Elaborar campañas permanentes de fomento a la lectura en los municipios, a
 
 XII.- Producir publicaciones interpretadas mediante el sistema braille, audiolibros y cualquier otro lenguaje que facilite el acceso a quienes poseen capacidades diferentes;
 
-XIII.- Apoyar a los hidalguenses con vocación de escribir; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-XIV.- Infundir a los estudiantes desde la educación básica el hábito por la lectura de periódicos y revistas a fin de despertar su interés por los temas de trascendencia pública.
+XIII.- Apoyar a los hidalguenses con vocación de escribir;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XIV.- Infundir a los estudiantes desde la educación básica el hábito por la lectura de periódicos y revistas a fin de despertar su interés por los temas de trascendencia pública; y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XV.- Promover publicaciones en lenguas indígenas como medida de protección, promoción, preservación, desarrollo y uso de la riqueza lingüística del Estado.
 
 ###### Artículo 3.
 
@@ -199,9 +209,9 @@ D. Los Ayuntamientos.
 
 Es obligación de las autoridades responsables el incentivar y promover la concurrencia, vinculación y congruencia de los programas y acciones de los distintos órdenes de gobierno, con base en los objetivos, estrategias y prioridades de la política nacional de fomento a la lectura y el libro, la aplicación de esta Ley, de manera concurrente o separada, promover programas de capacitación y desarrollo profesional dirigidos a los encargados de instrumentar las acciones de fomento a la lectura y a la cultura escrita.
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2023)</small>
 
-El gobierno establecerá, como forma de promover la creación literaria, premios y concursos para destacar las diferentes formas de expresión literaria, además de la creación de becas para los autores, la creación de talleres, encuentros, congresos literarios.
+El gobierno establecerá, como forma de promover la creación literaria, premios y concursos para destacar las diferentes formas de expresión literaria y diversidad lingüística, además de la creación de becas para los autores, la creación de talleres, encuentros y congresos literarios.
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -217,7 +227,9 @@ I.- Promover la lectura, publicación y distribución de libros con contenidos d
 
 II.- Organizar actividades y eventos que promuevan libros con contenidos de calidad y estimulen el hábito de la lectura, en apoyo a los objetivos de esta Ley;
 
-III.- Fomentar y promover, la creación literaria en las lenguas autóctonas de la entidad, y buscar mecanismos de distribución para las distintas regiones del estado;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+III.- Fomentar y promover, la creación literaria en las lenguas indígenas de la Entidad, y buscar mecanismos de distribución para las distintas regiones del estado;
 
 IV.- Garantizar la existencia de bibliotecas públicas como lugares de acceso de toda la población al libro y a la información, como entidades de apoyo a la formación de lectores y como lugares de encuentro comunitario y cultural;
 
@@ -233,11 +245,25 @@ IX.- Difundir el trabajo de los nuevos autores, con énfasis en los creadores hi
 
 X.- Fomentar la producción y transmisión de programas de radio, televisión e internet dedicados a la lectura y el libro;
 
-XI.- Procurar que los títulos inscritos en el Catálogo de libros de interés patrimonial del Estado de Hidalgo se traduzcan a las lenguas originarias y que dichas traducciones se pongan a disposición del público, así como las publicaciones interpretadas mediante el sistema braille y audiolibros;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-XII.- Promover la capacitación en relación al proceso editorial; y
+XI.- Procurar que los títulos inscritos en el Catálogo de libros de interés patrimonial del Estado de Hidalgo se traduzcan a las lenguas indígenas y que dichas traducciones se pongan a disposición del público, así como las publicaciones interpretadas mediante el sistema braille y audiolibros;
 
-XIII.- Realizar acciones de actualización y capacitación para bibliotecarios y mediadores de lectura y promover su certificación.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XII.- Promover la capacitación en relación al proceso editorial;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XIII.- Realizar acciones de actualización y capacitación para bibliotecarios y mediadores de lectura y promover su certificación;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XIV.- Propiciar que los hablantes de lenguas indígenas participen en la creación de las políticas y programas de fomento y promoción de la lectura; y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XV.- Promover la formación de intérpretes y traductores de lenguas indígenas.
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
@@ -245,7 +271,9 @@ XIII.- Realizar acciones de actualización y capacitación para bibliotecarios y
 
 En el ámbito de su competencia, corresponde a la Secretaría de Educación Pública en coordinación con los ayuntamientos de la entidad:
 
-I.- Propiciar la creación, fortalecimiento y actualización de paquetes didácticos de estímulo y formación de lectores, adecuados para cada nivel de la educación básica, media y superior, que incluyan literatura de autores hidalguenses, dirigidos a educandos, docentes y padres de familia;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+I.- Propiciar la creación, fortalecimiento y actualización de paquetes didácticos de estímulo y formación de lectores, con perspectiva intercultural, adecuados para cada nivel de la educación básica, media y superior, que incluyan literatura de autores hidalguenses, dirigidos a educandos, docentes y padres de familia;
 
 II.- Emprender campañas educativas e informativas, permanentes y periódicas a través de los establecimientos de enseñanza y los medios de comunicación social;
 
@@ -257,7 +285,9 @@ V.- Realizar, fortalecer y evaluar los talleres literarios y métodos que facili
 
 VI.- Promocionar en los niveles de enseñanza básica, métodos que faciliten la comprensión en la lectura; y
 
-VII.- Crear, fomentar, promover y distribuir textos en lengua autóctona propia de las etnias indígenas de la Entidad.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+VII.- Crear, fomentar, promover y distribuir textos en las lenguas indígenas de la Entidad.
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
@@ -345,7 +375,9 @@ I.- Contribuir en la elaboración, seguimiento, evaluación y actualización del
 
 II.- Apoyar todo tipo de actividades y eventos que promuevan y estimulen el libro y el fomento a la lectura, que establezca el Programa Estatal para el Fomento a la Lectura y el Libro;
 
-III.- Promover la formación y actualización de profesionales en el fomento y promoción de la lectura;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+III.- Promover la formación y actualización de profesionales en el fomento y promoción de la lectura, atendiendo a la diversidad cultural y derechos lingüísticos de la población hidalguense;
 
 IV.- Apoyar la concertación de los intereses y esfuerzos del sector público con el sector privado, para el desarrollo sostenido y democrático de la industria del libro;
 
@@ -361,9 +393,9 @@ VI.- Apoyar acciones que favorezcan a las personas con discapacidad dentro de la
 
 VII.- Intervenir como instancia de consulta y conciliación, en todos los asuntos concernientes al seguimiento, evaluación y actualización de la política integral de la lectura y el libro;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-VIII.- Fomentar la creación literaria en el estado y procurar estímulos a los escritores;
+VIII.- Fomentar la creación literaria atendiendo la diversidad lingüística en el estado y procurar estímulos a los escritores;
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
@@ -377,13 +409,21 @@ X.- Asegurar, a través de la requisición de depósito legal, la edición con s
 
 XI.- Promover la edición de las obras incluidas en el Catálogo de libros de interés patrimonial para el Estado de Hidalgo, previos los permisos necesarios que señala la Ley Federal del Derecho de Autor;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-XII.- Ser responsable de la organización de la Feria Estatal del Libro, misma que tendrá como sede la capital del Estado, pudiéndose extender hacia otros puntos de la entidad; y
+XII.- Ser responsable de la organización de la Feria Estatal del Libro, misma que tendrá como sede la capital del Estado, pudiéndose extender hacia otros puntos de la entidad;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-XIII.- Organizar y otorgar anualmente el Premio Estatal al Fomento a la Lectura y Escritura.
+XIII.- Organizar y otorgar anualmente los Premios Estatales de Fomento a la Lectura y Escritura, incluyendo categorías de las lenguas indígenas;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XIV.- Propiciar que los hablantes de lenguas indígenas participen en la creación de las políticas y programas de fomento y promoción de la lectura; y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XV.- Promover la formación de intérpretes y traductores de lenguas indígenas.
 
 ###### Artículo 15.
 
@@ -413,11 +453,11 @@ La Secretaría de Cultura fomentará la edición, producción y difusión de lib
 
 Toda persona física o moral que edite o importe libros estará obligada a fijar un precio de venta al público para los libros que edite o importe.
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2023)</small>
 
 ###### Artículo 18 Bis.
 
-La Secretaría de Cultura fomentará la edición, producción y difusión de libros en lenguas originarias, ya sean monolingües o bilingües.
+La Secretaría de Cultura fomentará la edición, producción y difusión de libros en lenguas indígenas, ya sean monolingües o bilingües.
 
 ###### Artículo 19.
 
@@ -463,7 +503,9 @@ La Secretaría de Cultura en coordinación con los Ayuntamientos deberán adecua
 
 Las bibliotecas públicas, cuando la disponibilidad presupuestaria así lo permita, deberán brindar los siguientes servicios básicos:
 
-I.- Deberán actualizar permanentemente sus colecciones, para que respondan en forma adecuada a las necesidades de los usuarios, a los rasgos culturales y sociales de las comunidades y al desarrollo del conocimiento y las ciencias.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+I.- Deberán actualizar permanentemente sus colecciones, para que respondan en forma adecuada a las necesidades de los usuarios, los derechos lingüísticos y al desarrollo del conocimiento y las ciencias.
 
 II.- Consulta en la sala de las publicaciones que integran el acervo.
 
@@ -507,11 +549,11 @@ Las bibliotecas escolares tendrán como función central asegurar a toda la comu
 
 Para ello tendrán servicios de préstamo para consulta y fomento de la lectura a los estudiantes, maestros y padres de familia; darán acceso a la información en línea; apoyarán la docencia en todas las disciplinas; y ofrecerán acceso a las tecnologías de la comunicación a alumnos y maestros.
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2023)</small>
 
 ###### Artículo 27.
 
-Las bibliotecas escolares y las bibliotecas de aula que se establezcan, deberán tener colecciones actualizadas que garanticen la diversidad lingüística y cultural y respondan a las necesidades de los alumnos y docentes. La Secretaría de Educación señalará los criterios básicos y los procedimientos mínimos, abiertos y públicos, para la selección de tales colecciones, y la participación de alumnos, maestros y autoridades escolares.
+Las bibliotecas escolares y las bibliotecas de aula que se establezcan, deberán tener colecciones actualizadas que garanticen el ejercicio de los derechos lingüísticos y fomenten la educación intercultural, el multilingüismo y el respeto a la diversidad y los derechos lingüísticos. La Secretaría de Educación señalará los criterios básicos y los procedimientos mínimos, abiertos y públicos, para la selección de tales colecciones, y la participación de alumnos, maestros y autoridades escolares.
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -620,3 +662,9 @@ P.O. 21 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. El Ejecutivo y el Congreso del Estado deberán disponer recursos necesarios y suficientes a partir del Presupuesto de Egresos 2023 para dar cumplimiento al presente DECRETO.
+
+P.O. 29 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 326 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
