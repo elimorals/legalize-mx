@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2022-12-26"
+last_updated: "2023-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -503,9 +503,13 @@ Las Dependencias y Entidades de los Gobiernos Estatal, Municipal y Organismos P�
 
 #### SECCIÓN DÉCIMA TERCERA. DEL DERECHO A LA REINTEGRACIÓN SOCIAL
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2023)</small>
+
 ###### Artículo 49.
 
-Los jóvenes que se encuentren en circunstancias de privación de libertad, situación de calle, exclusión social, cultural o étnica, discapacidad, o cualquier otra similar, tienen el derecho a reintegrarse a la sociedad y a ser sujetos de derechos y oportunidades que les permitan acceder a servicios y beneficios sociales que mejoren su calidad de vida.
+Los jóvenes que se encuentren en circunstancias de privación de libertad, situación de calle, exclusión social, cultural o étnica, discapacidad, o cualquier otra similar, tienen derecho a recibir la atención y orientación para el respeto, garantía, promoción y protección de sus derechos; para este efecto, los elementos de las instituciones y dependencias involucradas recibirán capacitación con la finalidad de que conozcan y estén en posibilidades de respetar y hacer respetar los derechos humanos.
+
+El Gobierno desarrollará programas dirigidos a jóvenes en estas circunstancias y se implementaran con enfoque de derechos humanos a fin de evitar la discriminación y procurando el acceso a los servicios de educación, salud, deporte y a la capacitación para el trabajo, como medios para lograr su reinserción a la sociedad.
 
 ###### Artículo 50.
 
@@ -1268,5 +1272,11 @@ P.O. 27 DE OCTUBRE DE 2022.
 P.O. 26 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 329 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN LA LEY DE JUVENTUD DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 49 DE LA LEY DE JUVENTUD DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
