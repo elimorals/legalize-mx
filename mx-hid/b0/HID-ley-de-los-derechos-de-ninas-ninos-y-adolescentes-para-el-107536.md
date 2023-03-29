@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2022-10-21"
+last_updated: "2023-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -918,6 +918,10 @@ VIII. El trabajo infantil, que de conformidad con lo dispuesto en el Artículo 1
 IX. El castigo corporal y humillante.
 
 Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
+
+La Secretaría del Trabajo y Previsión Social coadyuvará en la prevención del trabajo de menores de 15 años de edad.
 
 Las leyes estatales deberán establecer las políticas de prevención, protección, atención, sanción y erradicación de los supuestos a que se refieren las fracciones anteriores.
 
@@ -2528,5 +2532,11 @@ P.O. 21 DE OCTUBRE DE 2022.
 P.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 253 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO Y LA LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 46 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
