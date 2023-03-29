@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2022-07-15"
+last_updated: "2023-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -1909,9 +1909,9 @@ Los delitos previstos en este título se perseguirán por querella; su punibilid
 
 Comete el delito de violación, quien por medio de la violencia física o moral realice cópula con persona de cualquier sexo, y se le impondrá prisión de siete a veinte años y multa de 70 a 200 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2023)</small>
 
-Independientemente de las penas y medidas de seguridad que procedan por los delitos que resulten, se impondrá prisión de cinco a doce años y multa de 50 a 120 días al que, con uso de la violencia física o moral, introduzca por la vía anal o vaginal cualquier objeto, instrumento o elemento distinto al miembro viril, en persona de cualquier sexo, según el caso.
+Se aplicará la misma punibilidad al que con uso de la violencia física o moral, introduzca por la vía anal o vaginal cualquier objeto, instrumento o elemento distinto al miembro viril, en persona de cualquier sexo, según el caso.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
@@ -1937,13 +1937,29 @@ II.- El pasivo del delito sea ascendiente o descendiente consanguíneo en línea
 
 III.- Fuere cometido por la persona que tuviese al ofendido bajo su custodia, guarda o educación;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-IV.- Bajo cualquier otro tipo de relación, el agente la cometa aprovechándose de la confianza en él depositada por el pasivo, cuando ésta sea determinante; o
+IV.- Bajo cualquier otro tipo de relación, el agente la cometa aprovechándose de la confianza en él depositada por el pasivo, cuando ésta sea determinante;
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-V.- Fuere cometido por un servidor público o ministro de culto religioso.
+V.- Fuere cometido por un servidor público o ministro de culto religioso;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+VI.- El sujeto activo suministre previamente al pasivo, estupefacientes, psicotrópicos o substancias que produzcan efectos similares;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+VII.- Cuando se cometa en un vehículo de transporte público de pasajeros, de personal o escolar;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+VIII.- El activo del delito tenga una relación laboral, docente o domestica que implique subordinación o superioridad,
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+IX.- El activo del delito sea cónyuge, concubino o tenga una relación de hecho, con alguno de los ascendientes consanguíneos del pasivo, en línea recta hasta el primer grado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE ABRIL DE 2013)</small>
 
@@ -2091,9 +2107,9 @@ Este delito se perseguirá por querella, cuando la víctima fuere mayor de edad 
 
 ### CAPITULO UNICO. DISCRIMINACION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2023)</small>
 
-ARTICULO 202 BIS.- Comete el delito de discriminación quien por razones de origen o identidad indígena o nacional, sexo, identidad de género, preferencia u orientación sexual,_ edad, discapacidad, condición social o económica, trabajo, profesión, escolaridad, estado de salud, embarazo, lengua, religión, opiniones, estado civil, identidad política, apariencia física, características genéticas, situación migratoria o de otra índole, que atente contra la dignidad humana, anule o menoscabe los derechos y libertades de otra persona o grupo, a través de la realización de cualquiera de las siguientes conductas:
+ARTICULO 202 BIS.- Comete el delito de discriminación quien por razones de origen o identidad indígena o nacional, sexo, identidad de género, preferencia u orientación sexual, edad, discapacidad, condición social o económica, trabajo, profesión, escolaridad, estado de salud, embarazo, lengua, religión, opiniones, estado familiar, identidad política, apariencia física, características genéticas, situación migratoria o de otra índole, que atente contra la dignidad humana, anule o menoscabe los derechos y libertades de otra persona o grupo, a través de la realización de cualquiera de las siguientes conductas:
 
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -2111,9 +2127,13 @@ III. Niegue o limite el acceso a un servicio de salud;
 
 IV. Provoque o incite al odio o a la violencia;
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-V. Veje o excluya a alguna persona o grupo de personas.
+V. Veje o excluya a alguna persona o grupo de personas; o
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+VI. Niegue o límite la implementación de ajustes razonables a los que hace referencia la Ley para Prevenir, Atender, Sancionar y Eliminar la Discriminación en el Estado.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -3907,9 +3927,9 @@ XXXII.- De a conocer a quien no tenga derecho, los documentos, constancias o inf
 
 XXXIII.- Desvíe u obstaculice la investigación del hecho delictuoso de que se trate o favorezca que el imputado se sustraiga de la acción de la justicia.
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2023)</small>
 
-Se aplicara el doble de la punibilidad que corresponda, al servidor público que incurra en el supuesto previsto en la fracción VII de este artículo, tratándose de la investigación de los delitos previstos en los Artículos 139 bis y 141 bis; inhabilitándose además al responsable para despeñar cualquier otro cargo o comisión dentro del servicio público por un periodo igual al de la pena de prisión impuesta.
+Se aplicará el doble de la punibilidad que corresponda, al servidor público que incurra en el supuesto previsto en la fracción VII de este artículo, tratándose de la investigación de los delitos previstos en los Artículos 139 bis, 141 bis y 202 bis; inhabilitándose además al responsable para desempeñar cualquier otro cargo o comisión dentro del servicio público por un periodo igual al de la pena de prisión impuesta.
 
 ARTICULO 322 BIS. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -4044,6 +4064,18 @@ Cuando la evasión de presos la propicien dos o más personas, la punibilidad pr
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ARTICULO 349 DECIES.- Al que dolosamente realice actos de maltrato o crueldad en contra de animales domésticos o ferales, causándoles lesiones se le impondrá de 3 meses a 1 año de prisión de prisión (sic) y multa de 25 a 50 Unidades de Medida y Actualización; en caso de que las lesiones causen la muerte al animal doméstico o feral, se impondrá de 6 meses a 2 años de prisión y multa de 50 a 150 Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE MARZO DE 2023)</small>
+
+Se aumentará hasta en una mitad la punibilidad que corresponda, cuando en la comisión del delito concurra alguna de las siguientes circunstancias:
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+I.- El delito sea cometido ante la presencia de una niña, niño o adolescente; o
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+II.- El sujeto activo capte los actos de maltrato o crueldad animal a través de audios, fotografías o videograbaciones para hacerlos públicos por cualquier medio.
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
@@ -4365,7 +4397,7 @@ Al que con el propósito de lucro, para sí o para otro, dé un destino distinto
 
 ## TITULO VIGESIMO SEGUNDO. DELITOS COMETIDOS EN MATERIA DE PROTECCION CIVIL
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2023)</small>
 
 ###### ARTICULO 360.
 
@@ -4401,7 +4433,7 @@ II.- Cuando se trata de donaciones y compraventas realizadas entre parientes, en
 
 ###### ARTICULO 364.
 
-Al servidor público que autorice o expida licencias, permisos, autorizaciones, constancias o dictámenes de uso de suelo, viabilidad, construcción, fraccionamiento, urbanización, conjuntos urbanos o acciones urbanas sin observar o contraviniendo el Atlas de Riesgos correspondiente o en su caso, considerar los datos geográficos que existan, se le impondrá de 3 a 6 años de prisión y multa de 700 a 1400 Unidades de Medida y Actualización vigentes, e inhabilitará para desempeñar cualquier cargo, empleo o comisión hasta por 9 años.
+Al servidor público que autorice o expida licencias, permisos, autorizaciones, constancias o dictámenes de uso de suelo, viabilidad, construcción, fraccionamiento, urbanización, conjuntos urbanos o acciones urbanas sin observar o contraviniendo el Atlas de Riesgos correspondiente, los planes o programas de desarrollo urbano o en su caso, considerar los datos geográficos que existan, se le impondrá de 4 a 9 años de prisión y multa de 300 a 500 días, e inhabilitará para desempeñar cualquier cargo, empleo o comisión hasta por 9 años.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -4824,3 +4856,9 @@ PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicac
 SEGUNDO. El Poder Ejecutivo del Estado de Hidalgo, de conformidad con su disponibilidad presupuestal, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental y la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Hidalgo, preverá administrativamente lo necesario y realizará los ajustes presupuestales procedentes, para fortalecer al área de servicios periciales de la Procuraduría General de Justicia del Estado, para la investigación de los delitos de acceso ilícito a sistemas y equipos de informática.
 
 El Poder Legislativo del Estado, en el ámbito de su respectiva competencia, deberá asignar una partida presupuestal para la operación y funcionamiento del área pericial de esa dependencia, en el Presupuesto de Egresos 2023.
+
+P.O. 29 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 299 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
