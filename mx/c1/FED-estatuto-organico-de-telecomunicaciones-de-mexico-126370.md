@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-telecomunicaciones-de-mexico-126370"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-02-14"
-last_updated: "2021-10-13"
+last_updated: "2023-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2018-01-19"
 
 ESTATUTO ORGÁNICO DE TELECOMUNICACIONES DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 13 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MARZO DE 2023.
 
 Estatuto publicado en la Primera Sección al Número 10 del Diario Oficial de la Federación, el miércoles 14 de febrero de 2018.
 
@@ -201,7 +199,9 @@ En lo que respecta a su representación legal, sin perjuicio de las facultades q
 
 I. Administrar y representar legalmente al Organismo, así como llevar a cabo todos los actos jurídicos, de administración y dominio necesarios para el funcionamiento del Organismo, con las limitaciones que establezca la Junta Directiva;
 
-II. Ejercer las facultades que tiene atribuidas por el Decreto de Creación y la legislación federal aplicable en materia administrativa;
+> <small>(REFORMADA, D.O.F. 29 DE MARZO DE 2023)</small>
+
+II. Ejercer las facultades que tiene atribuidas a Financiera para el Bienestar por el Decreto de Creación; el Decreto por el que se modifica la denominación del organismo descentralizado Telecomunicaciones de México, Telecomm, para quedar como "Financiera para el Bienestar", y se reforman diversos artículos del similar por el que se crea el organismo descentralizado denominado Telégrafos Nacionales y sus posteriores modificaciones y la legislación federal aplicable en materia administrativa y proveer lo necesario en la esfera administrativa;
 
 III. Otorgar, actualizar, sustituir y revocar poderes generales o especiales a funcionarios subalternos o a terceros, sin perder por ello la posibilidad de su ejercicio directo, en términos de los (sic) dispuesto en el artículo 22 fracción VII de la Ley Federal de las Entidades Paraestatales y demás disposiciones aplicables;
 
@@ -814,3 +814,11 @@ D.O.F. 13 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DE LA “NOTA ACLARATORIA AL ACUERDO QUE ADICIONA LAS FRACCIONES DE LA XIX A LA XXVI DEL ARTÍCULO 25 DEL ESTATUTO ORGÁNICO DE TELECOMUNICACIONES DE MÉXICO, PUBLICADO EL 1 DE SEPTIEMBRE DE 2021”.]
 
 ÚNICO.- La presente nota aclaratoria entrará en vigor al día hábil siguiente de su publicación.
+
+D.O.F. 29 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 19 DEL ESTATUTO ORGÁNICO DE TELECOMUNICACIONES DE MÉXICO, PUBLICADO EL 14 DE FEBRERO DE 2018".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las atribuciones y facultades otorgadas a la persona titular de la Dirección General de la Financiera para el Bienestar, quedarán sujetas a la disponibilidad presupuestal y/o a los remanentes que se generen por la ejecución de las actividades a desarrollar y/o ejecutar por parte de FINABIEN
