@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2022-12-15"
+last_updated: "2023-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -83,7 +83,9 @@ IX. Fomentar la aplicación de la contabilidad ambiental como mecanismo de evalu
 
 X. Implementar medidas de mitigación, adaptación, control y prevención ante el cambio climático, mediante la expedición del Programa Estatal de Acción ante el Cambio Climático y su correspondiente Estrategia Estatal, así como los programas municipales respectivos; y
 
-XI. Coordinar a las dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, así como la participación correspondiente de la sociedad, en las materias que regule esta Ley y las disposiciones que de ella se deriven.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XI. Coordinar a las dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, así como la participación correspondiente de la sociedad, propiciando la intervención de Instituciones académicas y de investigación, los sectores social y privado, así como con personas y grupos sociales, en la materia que regula esta Ley y las disposiciones que de ella deriven.
 
 ###### Artículo 2.
 
@@ -345,7 +347,9 @@ XVII. Prevenir, regular, controlar, vigilar o inspeccionar el aprovechamiento de
 
 XVIII. Atender los asuntos referentes a la afectación del ambiente de dos o más municipios de la Entidad, en coordinación con los Ayuntamientos correspondientes;
 
-XIX. Formular, expedir y ejecutar el ordenamiento ecológico regional del territorio, con la participación de los municipios respectivos;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XIX. Formular, expedir y ejecutar el ordenamiento ecológico regional del territorio, con la participación de los municipios respectivos, y promoviendo la participación de personas, organizaciones, grupos e instituciones de los sectores público, privado, social, académico y de investigación;
 
 XX. Determinar los porcentajes mínimos de suelos de la Entidad que requieran estar protegidos por una cubierta forestal permanente, atendiendo sus condiciones topográficas, agrológicas y climáticas, así como los coeficientes máximos de capacidad forrajera de los suelos para la conservación de su capa o cubierta vegetal, como parte del ordenamiento ecológico del territorio;
 
@@ -795,9 +799,13 @@ Corresponderá al Titular del Poder Ejecutivo del Estado expedir los Programas d
 
 Dichos programas deberán ser congruentes con el Programa de Ordenamiento Ecológico General, Estatal y Regionales según sea el caso, y serán elaborados por la Secretaría, de conformidad con lo establecido en el Reglamento de la presente Ley en la materia, en el marco de los Sistemas Nacional y Estatal de Planeación.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2023)</small>
+
 ###### Artículo 23.
 
 Cuando una región ecológica se ubique en varios municipios de la entidad, el Ejecutivo del Estado y los Ayuntamientos respectivos, en el ámbito de sus competencias, podrán formular un ordenamiento ecológico regional para dicha zona; para el efecto se celebrarán los Acuerdos o Convenios de Coordinación correspondientes.
+
+Los programas de ordenamiento ecológico regional contarán con Comités de ordenamiento ecológico territorial, de conformidad con lo previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 ###### Artículo 24.
 
@@ -827,7 +835,9 @@ V. Cuando se pretenda la ampliación de un centro de población o la realizació
 
 VI. Cuando un programa de Ordenamiento Ecológico Local incluya un área natural protegida, competencia de la Federación o del Estado, o parte de ella, el programa será elaborado y aprobado en forma conjunta con la Federación y el Estado, según corresponda; y
 
-VII. En su elaboración, ejecución y evaluación se garantizará la participación de los particulares, pueblos indígenas, ejidos, comunidades, y pequeños propietarios, organizaciones sociales, empresariales y demás interesados mediante mecanismos, procedimientos de difusión y consultas públicas.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+VII. En su elaboración, ejecución y evaluación se garantizará la participación de los particulares, pueblos indígenas, ejidos, comunidades, y pequeños propietarios, organizaciones sociales, empresariales, académicas, de investigación, y demás interesados mediante la apertura de los Comités destinados para ello, así como la instauración de mecanismos, procedimientos de difusión y consultas públicas.
 
 ###### Artículo 26.
 
@@ -3428,5 +3438,11 @@ P.O. 23 DE MAYO DE 2022.
 P.O. 15 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 308 QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 28 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE MARZO DE 2023
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 314 QUE REFORMA LOS ARTÍCULOS 1, FRACCIÓN XI, 6, FRACCIÓN XIX, 23 Y 25, FRACCIÓN VII, DE LA LEY PARA LA PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
