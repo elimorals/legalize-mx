@@ -4,7 +4,7 @@ identifier: "HID-ley-de-seguridad-privada-para-el-estado-de-hidalgo-95894"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-02"
-last_updated: "2013-09-02"
+last_updated: "2023-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE HIDALGO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 2 de septiembre de 2013.
 
@@ -37,7 +37,9 @@ QUE CONTIENE LA LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE HIDALGO.
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
 
-ANTECEDENTES...
+ANTECEDENTES
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -207,7 +209,11 @@ Las modalidades de las actividades de seguridad privada en el Estado son las sig
 
 I.- Seguridad y protección personal. Consiste en la custodia, salvaguarda y defensa de la vida y la integridad corporal de personas;
 
-II.- Vigilancia y protección de bienes. Es la relativa a la seguridad y cuidado de bienes muebles e inmuebles;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+II.- Vigilancia y protección de bienes. Es la relativa a la seguridad y cuidado de bienes muebles e inmuebles, así como de las personas que se encuentren dentro de los inmuebles;
+
+En los establecimientos que enajenen o expendan bebidas alcohólicas, como restaurantes, restaurantes bar, centros nocturnos, discotecas, bares, cantinas y similares, las actividades de seguridad privada deberán salvaguardar la integridad física del lugar, así como de los usuarios y asistentes a dichos establecimientos.
 
 III.- Custodia, traslado y vigilancia de bienes o valores. Realización de las actividades de seguridad privada de vigilancia, cuidado y protección de bienes muebles o valores, incluyendo su traslado;
 
@@ -898,3 +904,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 338 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 9 DE LA LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
