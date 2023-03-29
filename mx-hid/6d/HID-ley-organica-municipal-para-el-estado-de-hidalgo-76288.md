@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2022-12-26"
+last_updated: "2023-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -923,9 +923,9 @@ ff).- Ejercer las facultades que le confiere la Ley de Movilidad y Transporte pa
 
 ff BIS).- Garantizar el derecho de todos los habitantes del municipio a vivir en un ambiente adecuado para su desarrollo, salud y bienestar;
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2023)</small>
 
-gg).- Aprobar el atlas municipal de riesgos en un término de 90 días naturales al inicio de su administración, así como la actualización de este cada dos años, para lo cual deberán contemplar en su presupuesto de egresos el monto correspondiente para su elaboración o actualización; y
+gg).- Aprobar el Atlas Municipal de Riesgos dentro de los ciento ochenta días naturales posteriores al inicio de la administración municipal, así como la actualización de este cada dos años, para lo cual deberán contemplar en su presupuesto de egresos el monto correspondiente para su elaboración o actualización;
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
@@ -1161,9 +1161,9 @@ g).- Constituir el Comité de Planeación del Desarrollo Municipal, con la parti
 
 h) Cumplir con el Plan Estatal de Desarrollo, el del Municipio y los programas sectoriales, regionales y especiales aprobados, respecto a lo que se refiere a su Municipio. A más tardar, noventa días después de tomar posesión de su cargo, el Presidente Municipal deberá presentar un Plan Municipal de Desarrollo Urbano que contenga los Planes de Desarrollo Rural para los Pueblos y Comunidades Indígenas en caso de contar con población indígena reconocida así como, el que corresponda al desarrollo agropecuario municipal;
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2023)</small>
 
-Asimismo, contará hasta con ciento ochenta días para presupuestar, gestionar lo conducente, ordenar la elaboración y aprobar en sesión de cabildo el Atlas de Riesgos correspondiente o en su caso, actualizarlo a su gestión.
+Asimismo, contará hasta con ciento ochenta días naturales para presupuestar, gestionar lo conducente, ordenar la elaboración y aprobar en sesión de cabildo, el Atlas Municipal de Riesgos correspondiente o en su caso, actualizarlo durante su gestión.
 
 i).- Coadyuvar con las Autoridades Federales en la aplicación y cumplimiento de las disposiciones previstas en los Artículos 27 y 30 de la Constitución Política de los Estados Unidos Mexicanos, de acuerdo a su normatividad interna;
 
@@ -2487,13 +2487,17 @@ XVI.- Gestionar ante el Ayuntamiento, la expedición de los reglamentos y las di
 
 XVII.- Coadyuvar con el Ayuntamiento en la elaboración del Plan de Desarrollo Municipal;
 
-XVIII.- Comparecer ante el Ayuntamiento, cuando sea requerido; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-XIX.- Asistir al Presidente Municipal, en las funciones técnicas del Comité de Planeación para el Desarrollo Municipal.
+XXVIII.- Comparecer ante el Ayuntamiento, cuando sea requerido;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-XX.- Dentro del término de ciento ochenta días a que hace referencia la fracción I, inciso h), del artículo 60 del presente ordenamiento, coadyuvar con la elaboración o en su caso, con la actualización del Atlas de Riesgos Municipal, con la instancia de Protección Civil. La omisión a lo ordenado en esta fracción, se considerará una falta grave administrativa, por lo que su incumplimiento dará lugar al procedimiento administrativo de responsabilidad del servidor público, responsable del área.
+XIX. Asistir al Presidente Municipal, en las funciones técnicas del Comité de Planeación para el Desarrollo Municipal; y
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XX. Coadyuvar de manera coordinada con el titular del área de Protección Civil, en la elaboración o en su caso, con la actualización del Atlas Municipal de Riesgos. Ante la omisión de lo previsto en esta fracción, se estará a lo dispuesto por la legislación en materia de responsabilidades administrativas.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
@@ -2819,9 +2823,9 @@ X.- Gestionar los recursos necesarios que permitan la capacitación y adquisici�
 
 XI. Rendir informe al Presidente Municipal, respecto de los acontecimientos registrados en su jurisdicción;
 
-> <small>(REFORMADA [N. DE E ADICIONADA], P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-XII. Elaborar el atlas municipal de riesgos, a más tardar en un término de 150 días naturales del inicio de la administración municipal, el cual deberá ser sometido a la aprobación del ayuntamiento en el término de 30 días naturales para su respectiva publicación. Su actualización será cada dos años bajo el mismo procedimiento; y
+XII. Coordinar la elaboración del Atlas Municipal de Riesgos, a más tardar en un término de 150 días naturales siguientes al inicio de la administración municipal, el cual deberá ser presentado por el Presidente Municipal para la aprobación del Ayuntamiento en el término de 30 días naturales siguientes para su respectiva publicación. Su actualización será cada dos años bajo el mismo procedimiento. Ante la omisión de lo previsto en esta fracción, se estará a lo dispuesto por la legislación en materia de responsabilidades administrativas; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA Y REFORMADA], P.O. 17 DE AGOSTO DE 2020)</small>
 
@@ -4132,5 +4136,11 @@ SEGUNDO. Los Ayuntamientos del Estado de Hidalgo deberán contemplar en su proye
 P.O. 26 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 331 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 313, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY LA LEY (SIC) ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
