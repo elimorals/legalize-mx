@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-rural-sustentable-del-estado-de-morelos-67318
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2022-09-01"
+last_updated: "2023-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de marzo de 2009.
 
@@ -620,6 +620,10 @@ XIII. Las demás que les asignen esta Ley, los reglamentos de la misma y los con
 ###### Artículo 36.
 
 El Consejo Municipal de Desarrollo Rural Sustentable podrá ser presidido por el Presidente Municipal y participarán servidores públicos del Gobierno Estatal, representantes en el Municipio, de las dependencias federales, de la Comisión Intersecretarial para el Desarrollo Rural Sustentable y representantes de las organizaciones sociales y privadas con cobertura en el Municipio.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
+
+Además, contará con la participación permanente de un representante de la Comisión de Desarrollo Agropecuario del Congreso del Estado, el cual tendrá derecho a voz pero no a voto.
 
 ###### Artículo 37.
 
@@ -1732,3 +1736,13 @@ PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo Estatal pa
 SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo.
+
+P.O. 29 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO OCHOCIENTOS SIETE POR EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO L (SIC) ARTÍCULO 36 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS, EN MATERIA DE PARTICIPACIÓN DE LA COMISIÓN DE DESARROLLO AGROPECUARIO DEL CONGRESO DEL ESTADO, EN EL CONSEJO MUNICIPAL DE DESARROLLO RURAL SUSTENTABLE”.]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA.- El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
