@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-agricultura-familiar-del-estado-de-morelos-164423"
 country: "mx"
 rank: "ley"
 publication_date: "2023-02-13"
-last_updated: "2023-02-13"
+last_updated: "2023-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DE AGRICULTURA FAMILIAR DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 29 DE MARZO DE 2023 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR A LOS TEXTOS QUE SE VISUALIZAN DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE AGRICULTURA FAMILIAR DEL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE MARZO DE 2023.]</small>
 
 Ley publicada en el Número 6169 del Periódico Oficial del Estado de Morelos, el lunes 13 de febrero de 2023.
 
@@ -73,21 +73,39 @@ IX. Coadyuvar con la suficiencia autoalimentaria de los núcleos familiares rura
 
 X. Promover la seguridad semillera para la agricultura familiar mediante sistemas sostenibles de semilla de calidad, que aseguren a todos los productores familiares el acceso físico y económico en el momento necesario, a semilla sana y de las variedades demandadas, suficiente para cubrir sus necesidades de siembra.
 
-XI. (SIC) Artículo 3. Para efectos de esta ley, se entenderá por:
+> <small>(F. DE E. PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2023)</small>
 
-XII (SIC). Agricultura familiar, al modo de vida y trabajo agrícola practicado por las personas que integran un mismo núcleo familiar, a través de unidades productivas familiares. Su fruto es destinado al consumo propio o al trueque y comercialización, pudiendo provenir de la recolección, agricultura, silvicultura, pesca, artesanía o servicios, en diversos rubros, tales como el hortícola, frutícola, forestal, apícola, pecuario, industrial rural, pesquero artesanal, acuícola y de agroturismo;
+###### Artículo 3.
 
-XIII. Autoridad municipal, a la unidad administrativa en materia de desarrollo agropecuario del municipio que corresponda;
+Para efectos de esta ley, se entenderá por:
 
-XIV. Comunidad, al conjunto de individuos y familias con características étnicas o culturales comunes, afincado en una región determinada y dotado de una organización básica bajo la cual se producen colectivamente alimentos y otros bienes de intercambio, para consumo propio o comercialización;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
 
-XV. Consejo, al Consejo Consultivo de Agricultura Familiar del Estado de Morelos;
+I. Agricultura familiar, al modo de vida y trabajo agrícola practicado por las personas que integran un mismo núcleo familiar, a través de unidades productivas familiares. Su fruto es destinado al consumo propio o al trueque y comercialización, pudiendo provenir de la recolección, agricultura, silvicultura, pesca, artesanía o servicios, en diversos rubros, tales como el hortícola, frutícola, forestal, apícola, pecuario, industrial rural, pesquero artesanal, acuícola y de agroturismo;
 
-XVI. Registro, a la recolección y resguardo de información significativa sobre las unidades de agricultura familiar, con base al registro voluntario de sus titulares y en régimen de declaración expresa, relativa a aspectos cualitativos y cuantitativos de la producción;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
 
-XVII. Secretaría, a la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo del Estado de Morelos, y
+II. Autoridad municipal, a la unidad administrativa en materia de desarrollo agropecuario del municipio que corresponda;
 
-XVIII. Unidad productiva familiar, a la unidad de explotación que depende preponderantemente del trabajo familiar desarrollado sobre determinada área, con independencia de su forma jurídica o régimen de tenencia del predio, administrada y operada directamente por los miembros de la familia, quienes, residiendo en él o en zona cercana, obtienen de ella su principal fuente de ingreso.
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+
+III. Comunidad, al conjunto de individuos y familias con características étnicas o culturales comunes, afincado en una región determinada y dotado de una organización básica bajo la cual se producen colectivamente alimentos y otros bienes de intercambio, para consumo propio o comercialización;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+
+IV. Consejo, al Consejo Consultivo de Agricultura Familiar del Estado de Morelos;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+
+V. Registro, a la recolección y resguardo de información significativa sobre las unidades de agricultura familiar, con base al registro voluntario de sus titulares y en régimen de declaración expresa, relativa a aspectos cualitativos y cuantitativos de la producción;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+
+VI. Secretaría, a la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo del Estado de Morelos, y
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+
+VII. Unidad productiva familiar, a la unidad de explotación que depende preponderantemente del trabajo familiar desarrollado sobre determinada área, con independencia de su forma jurídica o régimen de tenencia del predio, administrada y operada directamente por los miembros de la familia, quienes, residiendo en él o en zona cercana, obtienen de ella su principal fuente de ingreso.
 
 ###### Artículo 4.
 
@@ -195,43 +213,87 @@ IV. Promover la agricultura familiar a través de capacitación y formación pro
 
 V. Las demás que establezca el reglamento de esta ley.
 
-VI. (SIC) Artículo 10. La Secretaría de Educación del Estado de Morelos realizará las acciones necesarias para promover la agricultura familiar en la educación de todos los niveles de los morelenses, y diseñará e implementará las estrategias y políticas públicas que considere necesarios, en el ámbito de su respectiva competencia.
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
 
-VII. (SIC) Artículo 11. La Secretaría y los ayuntamientos informarán a la población por los medios electrónicos y físicos, que consideren pertinentes, los derechos previstos en esta ley y adoptarán las medidas que consideren necesarias para facilitar y promover la agricultura familiar.
+###### Artículo 10.
 
-VIII. (SIC) Artículo 12. Además de las atribuciones que le confiere la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, corresponde a la Secretaría, conforme a la suficiencia y disponibilidad presupuestal, lo siguiente:
+La Secretaría de Educación del Estado de Morelos realizará las acciones necesarias para promover la agricultura familiar en la educación de todos los niveles de los morelenses, y diseñará e implementará las estrategias y políticas públicas que considere necesarios, en el ámbito de su respectiva competencia.
 
-IX (SIC). Diseñar y ejecutar las políticas públicas y programas gubernamentales con incidencia en la agricultura familiar;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
 
-X. Desarrollar programas, en los que se incluya el componente de apoyo para la asesoría y capacitación, para el fortalecimiento de las actividades de producción, transformación, acondicionamiento y comercialización otorgados a las unidades de producción familiar;
+###### Artículo 11.
 
-XI. Gestionar infraestructura y servicios para el acceso efectivo de las familias dedicadas a la agricultura familiar a los servicios básicos de agua para consumo y riego, saneamiento, electricidad, salud, educación y recreación;
+La Secretaría y los ayuntamientos informarán a la población por los medios electrónicos y físicos, que consideren pertinentes, los derechos previstos en esta ley y adoptarán las medidas que consideren necesarias para facilitar y promover la agricultura familiar.
 
-XII. Facilitar y promover la asociación y la cooperación de los agricultores familiares y poner en práctica programas de generación de capacidades en gestión técnica y empresarial;
+> <small>(F. DE E. PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2023)</small>
 
-XIII. Promover la participación de los agricultores familiares en ferias locales e internacionales;
+###### Artículo 12.
 
-XIV. Crear y mantener actualizados los registros de la agricultura familiar;
+Además de las atribuciones que le confiere la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, corresponde a la Secretaría, conforme a la suficiencia y disponibilidad presupuestal, lo siguiente:
 
-XV. Conducir la promoción y el desarrollo de la agricultura familiar;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
 
-XVI. Definir las estrategias y desarrollar los programas que permitan cumplir con las finalidades y objetivos de esta ley;
+I. Diseñar y ejecutar las políticas públicas y programas gubernamentales con incidencia en la agricultura familiar;
 
-XVII. Coadyuvar con los ayuntamientos, los representantes de la sociedad civil y las comunidades, tomando en consideración sus opiniones, respetando las prácticas ancestrales de municipios, pueblos y comunidades indígenas en el desarrollo y fomento de la agricultura familiar;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
 
-XVIII. Establecer las condiciones que permitan el desarrollo de sistemas sostenibles de agricultura familiar;
+II. Desarrollar programas, en los que se incluya el componente de apoyo para la asesoría y capacitación, para el fortalecimiento de las actividades de producción, transformación, acondicionamiento y comercialización otorgados a las unidades de producción familiar;
 
-XIX. Informar, supervisar y evaluar la actividad en su ámbito de competencia respecto de la agricultura familiar;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
 
-XX. Promover ante las instituciones de educación superior y otros organismos, investigaciones que beneficien la creación, desarrollo y fomento de la agricultura familiar;
+III. Gestionar infraestructura y servicios para el acceso efectivo de las familias dedicadas a la agricultura familiar a los servicios básicos de agua para consumo y riego, saneamiento, electricidad, salud, educación y recreación;
 
-XXI. Promover la agricultura familiar y la implementación de las estrategias y programas que permitan cumplir con las finalidades y objetivos de esta ley;
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
 
-XXII. Determinar los indicadores adecuados para medir el progreso en la aplicación de esta ley; deberán ser específicos, comprobables y limitados en el tiempo;
+IV. Facilitar y promover la asociación y la cooperación de los agricultores familiares y poner en práctica programas de generación de capacidades en gestión técnica y empresarial;
 
-XXIII. Coadyuvar con las autoridades municipales para el cumplimiento de esta ley; y,
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
 
-XXIV. Las demás que establezca el reglamento de esta ley.
+V. Promover la participación de los agricultores familiares en ferias locales e internacionales;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+
+VI. Crear y mantener actualizados los registros de la agricultura familiar;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+
+VII. Conducir la promoción y el desarrollo de la agricultura familiar;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+
+VIII. Definir las estrategias y desarrollar los programas que permitan cumplir con las finalidades y objetivos de esta ley;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+
+IX. Coadyuvar con los ayuntamientos, los representantes de la sociedad civil y las comunidades, tomando en consideración sus opiniones, respetando las prácticas ancestrales de municipios, pueblos y comunidades indígenas en el desarrollo y fomento de la agricultura familiar;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+
+X. Establecer las condiciones que permitan el desarrollo de sistemas sostenibles de agricultura familiar;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+
+XI. Informar, supervisar y evaluar la actividad en su ámbito de competencia respecto de la agricultura familiar;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+
+XII. Promover ante las instituciones de educación superior y otros organismos, investigaciones que beneficien la creación, desarrollo y fomento de la agricultura familiar;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+
+XIII. Promover la agricultura familiar y la implementación de las estrategias y programas que permitan cumplir con las finalidades y objetivos de esta ley;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+
+XIV. Determinar los indicadores adecuados para medir el progreso en la aplicación de esta ley; deberán ser específicos, comprobables y limitados en el tiempo;
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+
+XV. Coadyuvar con las autoridades municipales para el cumplimiento de esta ley; y,
+
+> <small>(F. DE E., P.O. 29 DE MARZO DE 2023)</small>
+
+XVI. Las demás que establezca el reglamento de esta ley.
 
 ### CAPÍTULO IV. DE LA PARTICIPACIÓN CIUDADANA
 
