@@ -4,7 +4,7 @@ identifier: "HID-ley-de-seguridad-publica-para-el-estado-de-hidalgo-103533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2022-07-27"
+last_updated: "2023-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -116,6 +116,10 @@ I. Salvaguardar desde la perspectiva de género e interculturalidad, la integrid
 II. Preservar la libertad, el orden y la paz pública, con estricto apego a la protección de los derechos humanos;
 
 III. Prevenir la comisión de infracciones administrativas y delitos;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+III Bis. Auxiliar en materia de tránsito, movilidad y seguridad vial;
 
 IV. Identificar los factores criminógenos para combatir a la delincuencia;
 
@@ -495,43 +499,43 @@ XLIII. Las demás que establezcan la Constitución Estatal, esta Ley y demás or
 
 El Consejo Estatal es la instancia interinstitucional de coordinación interna de enlace con la Federación y los Municipios, que tiene por objeto la planeación y supervisión de los diversos sistemas que conforman la Seguridad Pública del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2023)</small>
+
 ###### Artículo 18.
 
-El pleno del Consejo Estatal sesionará al menos cada seis meses y se integrará con los siguientes miembros:
+El pleno del Consejo Estatal sesionará al menos cada seis meses y se integrará por la persona titular de:
 
-I. Un Presidente, que será el Titular del Poder Ejecutivo;
+I. El Poder Ejecutivo con la titularidad de la Presidencia;
 
-II. El Secretario de Gobierno;
+II. La Secretaría de Gobierno;
 
-III. El Secretario de Seguridad Pública del Estado;
+III. La Secretaría de Seguridad Pública del Estado;
 
-IV. El Procurador General de Justicia del Estado;
+IV. La Procuraduría General de Justicia del Estado;
 
-V. El Comandante de la 18/va Zona Militar;
+V. La 18/va Zona Militar;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+VI. La Delegación de la Fiscalía General de la República en el Estado;
 
-VI. El Delegado de la Fiscalía General de la República en el Estado;
+VII. La Guardia Nacional en Hidalgo;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+VIII. La Estación del Centro Nacional de Inteligencia en Hidalgo;
 
-VII. El Coordinador Estatal de la Guardia Nacional,
+IX. La Central Estatal (sic) Información y Seguridad Estatal;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+X. La Comisión de Seguridad Ciudadana y Justicia del Poder Legislativo del Estado;
 
-VIII. El Jefe de Estación del Centro Nacional de Inteligencia en Hidalgo;
+XI. La Secretaría Ejecutiva del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2020)</small>
+XII. El Instituto Hidalguense de las Mujeres;
 
-IX. El Coordinador General del Centro (sic) Información y Seguridad Estatal;
+XIII. El Centro de Justicia para Mujeres del Estado;
 
-X. El Presidente de la Comisión encargada de la Seguridad Pública y justicia del Poder Legislativo del Estado; y,
+XIV. El Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública
 
-XI. El Secretario Ejecutivo, quien será el servidor público que designe el Presidente del Consejo Estatal.
+La persona titular de la Presidencia del Consejo será suplida en sus ausencias por la persona titular de la Secretaría de Gobierno. Las y los demás integrantes del Consejo Estatal deberán asistir personalmente.
 
-El Presidente del Consejo será suplido en sus ausencias por el Secretario de Gobierno. Los demás integrantes del Consejo Estatal deberán asistir personalmente.
-
-Los Presidentes Municipales podrán ser convocados a las sesiones del Consejo Estatal y tendrán el carácter de invitados, a efecto de que puedan expresar su opinión en los asuntos de su competencia. El consejo igualmente podrá invitar a representantes de la sociedad civil o de la comunidad, de conformidad con los temas a tratar, su participación será de carácter honorífico. Así mismo, el Presidente de la Comisión Estatal de Derechos Humanos será invitado permanente del Consejo.
+Las y los Presidentes Municipales podrán ser convocados a las sesiones del Consejo Estatal y tendrán el carácter de invitados, a efecto de que puedan expresar su opinión en los asuntos de su competencia. El consejo igualmente podrá invitar a representantes de la sociedad civil o de la comunidad, de conformidad con los temas a tratar, su participación será de carácter honorífico. Así mismo, la persona titular de la Presidencia de la Comisión Estatal de Derechos Humanos será invitado permanente del Consejo.
 
 El Consejo Estatal expedirá el reglamento para su organización y funcionamiento.
 
@@ -568,6 +572,10 @@ XIII. Participar en los Programas de Cooperación Nacional e Internacional sobre
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 XIV. Promover y evaluar acciones de coordinación entre las instituciones policiales para garantizar la seguridad con perspectiva de género y el cese de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XIV bis. Promover y evaluar acciones en coordinación con las instituciones policiales, para garantizar la seguridad de niñas, niños y adolescentes, con el objeto de salvaguardar el interés superior de la niñez;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2019)</small>
 
@@ -745,9 +753,17 @@ III. De investigación;
 
 IV. De inteligencia;
 
-V. De reacción; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-VI. De protección y custodia.
+V. De reacción;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+
+VI. De protección y custodia; y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+VII. De vialidad y tránsito.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
@@ -1083,7 +1099,13 @@ XLV. Fomentar en sí mismo y en el personal bajo su mando la disciplina, la dedi
 
 XLVI. Cumplir con lo relativo a la formación académica, el servicio social, prácticas profesionales, y estadías a las que esté obligado en razón de su condición de cadete o alumno y servidor público; y
 
-XLVII. Las demás obligaciones que establezca la presente Ley y demás ordenamientos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MARZO DE 2023)</small>
+
+XLVII. Desempeñar su misión sin solicitar ni aceptar compensaciones, pagos 0 (sic) gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción y, en caso de tener conocimiento de alguno, deberán denunciarlo; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XLVII], P.O. 29 DE MARZO DE 2023)</small>
+
+XLVIII. Las demás obligaciones que establezca la presente Ley y demás ordenamientos.
 
 ###### Artículo 49.
 
@@ -1165,7 +1187,7 @@ B. Policía Preventivo.
 
 I. Participar en el diseño e instrumentación de los programas de prevención del delito que refiere esta Ley;
 
-II. Regular la vialidad de vehículos y peatones en las vías primarias y secundarias que se encuentren dentro de su ámbito de su competencia;
+II. (DEROGADA, P.O. 29 DE MARZO DE 2023)
 
 III. Vigilar el cumplimiento estricto de las leyes, reglamentos gubernativos y de policía;
 
@@ -1262,6 +1284,20 @@ XVII. Mantener la secrecía de los datos o información personalísima de la ví
 XVIII. (DEROGADA, P.O. 7 DE OCTUBRE DE 2019)
 
 XIX. Las demás que sean necesarias y análogas a las anteriores que le confieran esta Ley, los Reglamentos y demás disposiciones legales.
+
+> <small>(ADICIONADO CON LAS FRACCIONES QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2023)</small>
+
+F. Policía de Vialidad y Tránsito.
+
+I. Regular la vialidad de vehículos y peatones en las vías primarias y secundarias que se encuentren dentro de su ámbito de su competencia;
+
+II. Vigilar la exacta observancia de la Ley y reglamentos en materia de tránsito y movilidad por parte de los peatones y conductores de vehículos, debiendo dar preferencia de paso y seguridad a los peatones;
+
+III. Colaborar en la prevención de los hechos de tránsito, lesiones y defunciones, así como de infracciones a las normas de tránsito;
+
+IV. Conocer de los hechos de tránsito e imponer infracciones administrativas de conformidad con las disposiciones legales y reglamentarias aplicables; y
+
+V. Vigilar el cumplimiento y aplicación de disposiciones en materia de tránsito y movilidad.
 
 #### SECCIÓN TERCERA. DE LOS DERECHOS
 
@@ -3190,3 +3226,11 @@ P.O. 27 DE JULIO DE 2022.
 PRIMERO. El presente decreto entrará en vigor el 01 de enero del año 2023 luego de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Dentro de los dos ejercicios fiscales posteriores al inicio de la vigencia de este Decreto; los gobiernos, estatal y municipales, deberán realizar los ajustes presupuestales necesarios para implementar su contenido, contemplando en ellos, una partida presupuestaria específica para tales efectos.
+
+P.O. 29 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 337, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO Y DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Poder Ejecutivo del Estado, dentro ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá prever de la esfera administrativa necesaria para el cumplimiento de este Decreto.
