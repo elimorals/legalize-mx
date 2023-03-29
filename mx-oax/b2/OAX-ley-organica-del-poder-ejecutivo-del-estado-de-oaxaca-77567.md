@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2023-02-23"
+last_updated: "2023-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -59,9 +59,9 @@ El ejercicio del Poder Ejecutivo, se deposita en un solo individuo que se denomi
 
 En el ejercicio de sus atribuciones y para el despacho de los asuntos del orden administrativo, el Poder Ejecutivo del Estado, contará con la Administración Pública Estatal, que se regirá por la presente Ley y las demás disposiciones legales aplicables, y se organizará conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
-I. Administración Pública Centralizada: Integrada por la Gubernatura, Secretarías de Despacho, Consejería Jurídica del Gobierno del Estado y la Dirección General del Instituto de Planeación para el Bienestar, así como por los órganos auxiliares, las unidades administrativas que dependan directamente del Gobernador del Estado y los órganos desconcentrados, a todas estas áreas administrativas se les denominará genéricamente como Dependencias;
+I. Administración Pública Centralizada: Integrada por la Jefatura de Gabinete, Gubernatura, Secretarías de Despacho, Consejería Jurídica y de Asistencia Legal del Estado y la Dirección General del Instituto de Planeación para el Bienestar, así como por los órganos auxiliares, las unidades administrativas que dependan directamente del Gobernador del Estado y los órganos desconcentrados, a todas estas áreas administrativas se les denominará genéricamente como Dependencias;
 
 II. La Administración Pública Paraestatal: Integrada por Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos, así como, por las Entidades Auxiliares del Ejecutivo Estatal, integrándose éstas por los Consejos, Comisiones, Comités, Juntas, Patronatos y aquellas instituciones que por su naturaleza no estén comprendidas dentro de la Administración Pública Centralizada, a las que genéricamente se les denominará como Entidades, estarán reguladas por sus leyes, decretos de creación y reglamentos respectivos; y
 
@@ -287,11 +287,19 @@ Estas audiencias deberán desarrollarse por lo menos una vez al año en cada reg
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 26.
 
-Las Secretarías de Despacho, la Consejería Jurídica del Gobierno del Estado y la Dirección del Instituto de Planeación para el Bienestar, tendrán igual rango cada cual de acuerdo a su naturaleza y entre ellas no habrá preeminencia alguna, sus titulares ejercerán en su ámbito de competencia las funciones encomendadas por la Constitución Política del Estado Libre y Soberano de Oaxaca, la presente ley y demás ordenamientos normativos.
+La Jefatura de Gabinete tendrá bajo su competencia y atribuciones la supervisión, coordinación y evaluación de las políticas públicas, programas y acciones de las Secretarías de Despacho, de la Consejería Jurídica y Asistencia Legal del Estado, de la Dirección General del Instituto de Planeación para el Bienestar, Entidades y Órganos Auxiliares de la Administración Pública Estatal.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
+
+Las Secretarías de Despacho, la Consejería Jurídica y Asistencia Legal y la Dirección General del Instituto de Planeación para el Bienestar, tendrán igual rango cada cual de acuerdo a su naturaleza y entre ellas no habrá preeminencia alguna, sus titulares ejercerán en su ámbito de competencia las funciones encomendadas por la Constitución Política del Estado Libre y Soberano de Oaxaca, la presente ley y demás ordenamientos normativos.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
+
+ARTÍCULO 26 BIS. Para el ejercicio de sus atribuciones, el Gobernador del Estado contará con la Jefatura de Gabinete, que por orden administrativo tendrá autoridad sobre las demás dependencias que integran la Administración Pública Estatal.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -367,6 +375,10 @@ XVII. Secretaría de las Mujeres; y
 
 XVIII. Secretaría de Medio Ambiente, Biodiversidad, Energías y Sostenibilidad.
 
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+
+XIX. Jefatura de Gabinete.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 28.
@@ -409,9 +421,7 @@ El Gobernador del Estado, en términos de lo dispuesto por el artículo 79, frac
 
 El Gobernador del Estado, además de las dependencias señaladas en el artículo 27 de esta Ley, contará con los siguientes Órganos Auxiliares que dependerán directamente de él:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-I. Jefatura de Gabinete;
+I. (DEROGADA, P.O. 29 DE MARZO DE 2023)
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -438,6 +448,40 @@ Asimismo, podrán estar directamente sectorizadas a la Gubernatura del Estado, l
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2012)</small>
 
 ### CAPÍTULO II. DE LAS DEPENDENCIAS
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2023)</small>
+
+ARTÍCULO 33 BIS. A la Jefatura de Gabinete le corresponde el despacho de los siguientes asuntos:
+
+I. Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás disposiciones que emita la persona titular del poder ejecutivo para el adecuado funcionamiento de la administración pública estatal;
+
+II. Convocar y presidir los gabinetes sectoriales y especializados;
+
+III. Establecer en coordinación con la Secretaría de Finanzas y el Instituto de Planeación para el Bienestar, los indicadores que permitan mediar las variaciones del desarrollo en el Estado de Oaxaca;
+
+IV. Proponer, analizar y evaluar las políticas públicas para contribuir a la alineación de las acciones de la administración pública estatal, a las estrategias, acciones, proyectos estratégicos y metas contenidas en el Plan Estatal de Desarrollo y el Programa de Gobierno;
+
+V. Establecer los lineamientos generales para la integración del Informe Anual sobre la situación que guarda la Administración Pública Estatal, emitiendo los lineamientos que deberán seguir las Dependencias y Entidades para la integración de la Información;
+
+VI. Coordinar las acciones interinstitucionales necesarias para coadyuvar con el Ejecutivo del Estado para la presentación del informe sobre el estado que guarda la administración pública estatal ante el Congreso del Estado;
+
+VII. Fungir como Instancia Técnica de Evaluación, normando y estableciendo el sistema de evaluación del desempeño para el monitoreo y la evaluación del Plan Estatal de Desarrollo y demás programas institucionales, en coordinación con la Secretaría de Finanzas, el Instituto de Planeación para el Bienestar y las Dependencias y Entidades de la Administración Pública Estatal;
+
+VIII. Remitir los informes de resultados de las evaluaciones realizadas, al Titular del Poder Ejecutivo y proponer las medidas correctivas y de seguimiento que procedan; coordinándose para tal efecto, con las instancias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, debiendo emitir los lineamientos para la integración del mismo;
+
+IX. Realizar los análisis necesarios para identificar áreas de oportunidad para el desarrollo del Estado de Oaxaca y contribuir al fortalecimiento del proceso de toma de decisiones del Gobernador del Estado;
+
+X. Coordinar los estudios y proyectos especiales que le encomiende el Gobernador del Estado;
+
+XI. Administrar el sistema de atención ciudadana y turnar las solicitudes a las dependencias y entidades de la Administración Pública Estatal, procurando su expedita resolución, llevando a cabo el seguimiento de éstas;
+
+XII. Recibir, organizar, clasificar, registrar, tramitar y custodiar la información que el Gobernador del Estado reciba y emita;
+
+XIII. Fungir como instancia de vinculación política en los casos que así indique el Gobernador del Estado.
+
+XIV. Supervisar, coordinar y evaluar las políticas públicas, programas y acciones de la Consejería Jurídica y Asistencia Legal del Estado, las Secretarías de Despacho, el Instituto de Planeación para el Bienestar y las demás entidades y órganos auxiliares de la Administración Pública Estatal.
+
+XV. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -2839,39 +2883,9 @@ XXV. Las demás que en el ámbito de su competencia le confiera directamente el 
 
 ### CAPÍTULO V. DE LOS ÓRGANOS AUXILIARES
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
 ###### ARTÍCULO 50.
 
-A la Jefatura de Gabinete le corresponde el despacho de los siguientes asuntos:
-
-I. Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás disposiciones que emita la persona titular del poder ejecutivo para el adecuado funcionamiento de la administración pública estatal;
-
-II. Convocar y presidir los gabinetes sectoriales y especializados;
-
-III. Establecer en coordinación con la Secretaría de Finanzas y el Instituto de Planeación, los indicadores que permitan medir las variaciones del desarrollo en el Estado de Oaxaca;
-
-IV. Proponer, analizar y evaluar las políticas públicas para contribuir a la alineación de las acciones de la administración pública estatal, a las estrategias, acciones, proyectos estratégicos y metas contenidas en el Plan Estatal de Desarrollo y el Programa de Gobierno;
-
-V. Establecer los lineamientos generales para la integración del Informe Anual sobre la situación que guarda la Administración Pública Estatal, emitiendo los lineamientos que deberán seguir las Dependencias y Entidades para la integración de la información;
-
-VI. Coordinar las acciones interinstitucionales necesarias para coadyuvar con el Ejecutivo del Estado para la presentación del informe sobre el estado que guarda la administración pública estatal ante el Congreso del Estado;
-
-VII. Fungir como instancia Técnica de Evaluación, normando y estableciendo el sistema de evaluación del desempeño para el monitoreo y la evaluación del Plan Estatal de Desarrollo y demás programas institucionales, en coordinación con la Secretaría de Finanzas, el Instituto de Planeación y las Dependencias y Entidades de la Administración Pública Estatal;
-
-VIII. Remitir los informes de resultados de las evaluaciones realizadas, al Titular del Poder Ejecutivo y proponer las medidas correctivas y de seguimiento que procedan; coordinándose para tal efecto, con las instancias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, debiendo emitir unos lineamientos para la integración del mismo;
-
-IX. Realizar los análisis necesarios para identificar áreas de oportunidad para el desarrollo del Estado de Oaxaca y contribuir al fortalecimiento del proceso de toma de decisiones del Gobernador del Estado;
-
-X. Coordinar los estudios y proyectos especiales que le encomiende el Gobernador del Estado;
-
-XI. Administrar el sistema de atención ciudadana y turnar las solicitudes a las dependencias y entidades de la Administración Pública Estatal, procurando su expedita resolución, llevando a cabo el seguimiento de éstas;
-
-XII. Recibir, organizar, clasificar, registrar, tramitar y custodiar la información que el Gobernador del Estado reciba y emita;
-
-XIII. Fungir como instancia de vinculación política en los casos que así indique el Gobernador del Estado.
-
-XIV. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
+(DEROGADO, P.O. 29 DE MARZO DE 2023)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -4054,3 +4068,23 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. El titular del Poder Ejecutivo del Estado de Oaxaca deberá expedir las disposiciones reglamentarias que deriven del presente Decreto, en el plazo de ciento ochenta días hábiles contados a partir de la fecha de su entrada en vigor.
+
+P.O. 29 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1080.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 3 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 26; SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 26, EL ARTÍCULO 26 BIS, LA FRACCIÓN XIX DEL ARTÍCULO 27, Y EL ARTÍCULO 33 BIS; SE DEROGA LA FRACCIÓN I DEL ARTÍCULO 33 Y EL ARTÍCULO 50, TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+CUARTO. Se deroga el Decreto por el que se crea la Dirección General de la Instancia Técnica de Evaluación, Órgano Desconcentrado de la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, publicado en el Periódico Oficial del Estado el 13 de julio del 2021.
+
+QUINTO. Se transfieren a la Jefatura de Gabinete los recursos humanos, financieros y materiales, junto con los archivos y expedientes asignados a la Dirección General de la Instancia Técnica de Evaluación, que se derogó por el Decreto Legislativo 731, publicado el 30 de noviembre de 2022 en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEXTO. Los actos administrativos celebrados por la Dirección General de la Instancia Técnica de Evaluación, y toda mención que refiera a la Instancia Técnica de Evaluación, se entenderá que se refieren a la Jefatura de Gabinete.
+
+SÉPTIMO. Se transfieren a la Jefatura de Gabinete los recursos humanos, financieros y materiales, junto con los archivos y expedientes asignados a la anteriormente denominada Coordinación de Atención Ciudadana y Vinculación Social, actual Dirección de Atención Ciudadana, adscrita a la Secretaría de Gobierno del Estado de Oaxaca.
+
+OCTAVO. Se transfieren a la Jefatura de Gabinete los recursos humanos, financieros y materiales, junto con los archivos y expedientes asignados a la anteriormente denominada Unidad de Control de Gestión de Gubernatura, actual Unidad de Organización Documental, adscrita a la Secretaría Técnica del Titular del Poder Ejecutivo.
