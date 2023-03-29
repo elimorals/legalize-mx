@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-obras-publicas-del-14099
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-30"
-last_updated: "2019-10-30"
+last_updated: "2023-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE OBRAS PUBLICAS DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE OBRAS PÚBLICAS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 29 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE OBRAS PÚBLICAS DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023 (ABROGADO).
 
 Código publicado en el Número 5754 del Periódico Oficial del Estado de Morelos, el miércoles 30 de octubre de 2019.
 
@@ -310,3 +312,13 @@ EL SECRETARIO DE OBRAS PÚBLICAS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO LIB
 FIDEL LUIS GIMÉNEZ VALDÉS ROMÁN
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE OBRAS PÚBLICAS”.]
+
+PRIMERA. El presente Código de Conducta entrará en vigor a partir del día siguiente al de su publicación, en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Se abroga el Código de Conducta de la Secretaría de Obras Públicas del Poder Ejecutivo del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 5754, de fecha 30 de octubre del año 2019.
