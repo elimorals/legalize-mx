@@ -4,7 +4,7 @@ identifier: "HID-ley-de-entrega-recepcion-de-los-recursos-publicos-del-110172"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-12"
-last_updated: "2020-12-02"
+last_updated: "2023-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110172&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de octubre de 2015.
 
@@ -165,17 +165,15 @@ El servidor público saliente no quedará eximido de las obligaciones establecid
 
 La entrega recepción de los recursos públicos es un proceso obligatorio y formal, que deberá efectuarse por escrito mediante acta que contenga la descripción del estado que guarda el empleo, cargo o comisión desempeñado, con los requisitos establecidos por la presente ley y por las disposiciones reglamentarias que al efecto se emitan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2023)</small>
 
 ###### Artículo 10.
 
-El proceso de entrega recepción inicia con la notificación que deberá realizar el titular del área administrativa al Órgano Interno de Control que corresponda, así como a los servidores públicos involucrados, la cual concluye mediante la firma autógrafa y/o la firma electrónica avanzada de quienes en ella intervienen, a más tardar en treinta días hábiles tratándose de entrega recepción intermedia y tratándose de entrega final el plazo será de cuarenta y cinco días hábiles. Para el caso de los municipios, los plazos serán establecidos por la Auditoría Superior del Estado.
+El proceso de entrega recepción inicia con la notificación que deberá realizar la persona titular del área administrativa al Órgano Interno de Control que corresponda, así como a las personas servidores públicos involucrados, y concluye mediante la firma autógrafa y/o la firma electrónica avanzada del acta y de sus anexos, por parte de quienes en la misma intervengan, dentro del plazo improrrogable de treinta días hábiles tratándose de entrega recepción intermedia y tratándose de entrega final el plazo será de cuarenta y cinco días hábiles. Para el caso de los municipios, los plazos para la elaboración y firma del acta y de sus anexos, serán establecidos por la Auditoría Superior del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
+Toda persona servidor público que recibe, tiene el derecho de formular observaciones al acta o a sus anexos y de solicitar aclaraciones a la persona servidor público saliente por conducto del Órgano Interno de Control, dentro del plazo improrrogable de treinta días hábiles tratándose de entrega recepción intermedia y de cuarenta y cinco días hábiles tratándose de entrega final, contados a partir del día hábil siguiente a la firma del acta de entrega recepción y de sus anexos.
 
-El Órgano Interno de Control podrá racionalmente, en términos de las disposiciones reglamentarias, establecer una prórroga que en ningún caso deberá exceder de treinta días hábiles tratándose de entrega recepción intermedia y de cuarenta y cinco días hábiles tratándose de entrega final, cuando el servidor público entrante no esté conforme con el contenido del acta correspondiente o la cantidad de información a recibir sea excesiva.
-
-Los plazos anteriores se computarán a partir del día hábil siguiente al de la notificación que haga el titular del área administrativa.
+Los plazos previstos en el primer párrafo de este artículo, se computan a partir del día hábil siguiente al de la notificación que haga la persona titular del área administrativa al Órgano Interno de Control.
 
 ###### Artículo 11.
 
@@ -394,3 +392,11 @@ PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su Publicac
 SEGUNDO. La Secretaría de Contraloría deberá expedir o actualizar los lineamientos generales para el cumplimiento de las disposiciones de esta ley, dentro de los 30 días naturales siguientes a su entrada en vigor.
 
 TERCERO. Los procesos de entrega recepción que se iniciaron con antelación a la entrada en vigor del presente Decreto, continuarán con los plazos y términos establecidos por la Ley vigente al momento de iniciar el proceso.
+
+P.O. 29 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 325, QUE REFORMA EL ARTÍCULO 10 DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a este Decreto.
