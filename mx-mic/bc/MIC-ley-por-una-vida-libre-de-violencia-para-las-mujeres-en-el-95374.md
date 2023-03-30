@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2023-03-06"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -197,9 +197,15 @@ Se entenderá que las acciones u omisiones se basan en elementos de género, cua
 
 Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
 
-VII. Violencia simbólica y/o mediática: La que, a través de patrones estereotipados, mensajes, valores, iconos o signos transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad;
+VII. Violencia simbólica: Aquella que, a través de patrones estereotipados, mensajes, iconos o signos transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
+
+VII. Bis. Violencia Mediática: Es todo acto a través de cualquier medio de comunicación que, de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
+
+La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para reproducir y difundir contenidos que atenten contra la autoestima, salud, integridad, libertad, y seguridad de las mujeres y niñas, que impide su libre desarrollo y que atenta contra la igualdad;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE ENERO DE 2020)</small>
 
@@ -763,6 +769,10 @@ XII. Promover la cultura de denuncia de la violencia contra las mujeres por razo
 
 XIII. Diseñar un modelo integral de atención a los derechos humanos y ciudadanía de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas.
 
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
+
+XIV. Realizar campañas de prevención, sensibilización y capacitación sobre la violencia contra las mujeres en el transporte público.
+
 ###### ARTÍCULO 41.
 
 El Programa Estatal se diseñará con base en la perspectiva de género, en el Programa Nacional, en los términos que establece la Ley de Planeación del Estado de Michoacán, debiendo incluir:
@@ -1260,3 +1270,19 @@ P.O. 6 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 345 POR EL QUE "SE ADICIONA LA FRACCIÓN IX BIS AL ARTÍCULO 9 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 349.- ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN VII Y SE ADICIONA LA FRACCIÓN VII BIS, DEL ARTÍCULO 9 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales procedentes.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 348 POR EL QUE "SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 40 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales procedentes.
