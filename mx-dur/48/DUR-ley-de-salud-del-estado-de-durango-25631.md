@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2021-07-04"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -563,9 +563,15 @@ XII. Rendir informe, sobre las acciones que realizan ante situaciones de conting
 
 XIII. Opinar sobre los proyectos de convenios de coordinación para la prestación de servicios de atención médica de las instituciones públicas del Sistema Estatal de Salud;
 
-XIV. Establecer comisiones y grupos de trabajo que sean necesarios para el estudio de temas que contribuyan al correcto desempeño del Consejo Estatal de Salud y apoyen la consecución de sus objetivos; y
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
 
-XV. Las demás que sean necesarias para el cumplimiento de su objetivo.
+XIV. Establecer comisiones y grupos de trabajo que sean necesarios para el estudio de temas que contribuyan al correcto desempeño del Consejo Estatal de Salud y apoyen la consecución de sus objetivos;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
+
+XV. Formular estrategias que promuevan el respeto a la integridad y dignidad de las personas servidoras públicas del Sistema Estatal de Salud, ante situaciones de emergencia sanitaria y;
+
+XVI. Las demás que sean necesarias para el cumplimiento de su objetivo.
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
 
@@ -2409,9 +2415,21 @@ DISPOSICIONES COMUNES
 
 En lo relativo a la donación, transplantes (sic) y pérdida de la vida, la competencia de la Secretaría y el Organismo, será determinada por los acuerdos de coordinación que se celebren entre el Gobierno Estatal y la Secretaría de Salud a nivel federal.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+En lo relativo al trasplante y donación de órganos, la Secretaría deberá observar las disposiciones establecidas en los programas de acción específica, relativos a la donación de órganos y tejidos que para tal efecto emitan las autoridades federales y estatales en el ámbito de su competencia.
+
 ###### ARTÍCULO 171.
 
 La Secretaría y el Organismo realizarán programas y acciones tendientes a la sensibilización y concientización de la población, que permitan generar una cultura positiva de la donación de órganos.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+La Secretaría y el Organismo impulsarán convenios con las autoridades que corresponda, a fin de promover acciones de mejora regulatoria, relativas a los trámites involucrados en el proceso de donación de órganos y tejidos con fines de trasplante, y para que estos sean considerados prioritarios y de resolución expedita.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+La política en materia de donación y trasplantes, deberá guiarse por los principios de transparencia, equidad, eficiencia, voluntad, autonomía y dignidad humana; debiendo protegerse los datos personales de donadores y receptores de órganos y tejidos con fines de trasplante, así como sus derechos humanos en términos de las disposiciones aplicables.
 
 ###### ARTÍCULO 172.
 
@@ -2796,6 +2814,10 @@ Los vendedores, locatarios y las personas cuya actividad esté vinculada con los
 ###### ARTÍCULO 189.
 
 Los establecimientos semifijos y móviles destinados a la venta de alimentos para consumo inmediato, deberán cumplir con las disposiciones generales aplicables y las que se establezcan en el reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+ARTÍCULO 189 BIS.- Ante el acontecimiento de una contingencia sanitaria, la Secretaría de Salud, en el ámbito de su competencia, podrá coordinarse con los ayuntamientos, vendedores y locatarios de mercados y centros de abasto, para llevar a cabo acciones de sanidad y/o limpieza de dichos lugares; acción que deberá ser realizada con la finalidad de mantener un adecuado control sanitario, lo anterior de conformidad con lo establecido en el artículo 36 de la presente Ley.
 
 ### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
@@ -3593,6 +3615,10 @@ X. Jerarquía; y
 
 XI. Buena fe.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+ARTÍCULO 293 BIS.- El Estado promoverá y aplicará acciones para prevenir y eliminar todo acto de discriminación y/o violencia en contra de las trabajadoras y trabajadores de los servicios de salud, ante situaciones de emergencia sanitaria.
+
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 294.
@@ -4194,3 +4220,27 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 339.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO”.].
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado de Durango
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 340.- POR EL QUE SE ADICIONA UN ARTÍCULO 189 BIS A LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado de Durango
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 341.- POR EL QUE SE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO 170; SE ADICIONA UN SEGUNDO Y TERCER PARRAFO AL ARTICULO 171 Y SE ADICIONA UNA FRACCION XV, AL ARTICULO 173 BIS I, A LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango
+
+SEGUNDO. - Se derogan todas las disposiciones que se opongan al presente decreto.
