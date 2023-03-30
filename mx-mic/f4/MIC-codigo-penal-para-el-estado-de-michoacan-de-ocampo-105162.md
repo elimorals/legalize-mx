@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2023-03-06"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -2627,6 +2627,10 @@ IV. Cuando en el vehículo se encuentren mujeres, menores, personas con discapac
 
 V. Cuando se cometa por dos o más personas.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+Se equipara al robo de vehículo de motor terrestre y se sancionará conforme al presente artículo a quien se apodere u obtenga la posesión o propiedad de un vehículo automotor, mediante la simulación del pago por la compra del mismo haciendo uso de medios electrónicos o tecnologías digitales.
+
 ###### Artículo 206.
 
 Violencia en el robo
@@ -2687,9 +2691,13 @@ Receptación
 
 A los que adquieran, posean o enajenen objetos robados o de procedencia ilegal, que no hayan tomado las medidas indispensables para cerciorarse de que la persona de quien los recibió tenía derecho para disponer de ellos, se les aplicarán las mismas penas que correspondan a los autores del delito de robo simple.
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 30 DE MARZO DE 2023)</small>
 
 En tratándose de vehículos de motor es indispensable la verificación del documento que acredite la propiedad o la relación entre el propietario o poseedor del mismo; así como la documentación que acredite su situación fiscal.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+Además, podrá solicitar al vendedor integre a la documentación que se acompaña a la compra venta, la certificación de no reporte de robo vehicular y no alteración en sus números de identificación expedida por la Fiscalía General del Estado.
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2016)</small>
 
@@ -3919,7 +3927,9 @@ I. Altere o destruya las señales indicadoras de peligro; o,
 
 II. Derrame sustancias peligrosas o inflamables en vías de circulación.
 
-### CAPÍTULO III. ELABORACIÓN, ALTERACIÓN O USO INDEBIDO DE PLACAS, ENGOMADOS O DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
+### CAPÍTULO III. ELABORACIÓN, ALTERACIÓN O USO INDEBIDO DE PLACAS, ENGOMADOS, NÚMEROS O DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2023)</small>
 
 ###### Artículo 294.
 
@@ -4011,13 +4021,17 @@ II. Use los objetos falsificados o alterados señalados en la fracción anterior
 
 Las penas señaladas se aumentarán hasta en una mitad, cuando el objeto falsificado o alterado sea público.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2023)</small>
+
 ### CAPÍTULO II. DELITOS DE VIOLENCIA CONTRA ANIMALES
 
 ###### Artículo 298.
 
-Elaboración, alteración o uso indebido de placas, engomados o documentos de identificación de vehículos automotores
+Elaboración, alteración o uso indebido de placas, engomados, números de identificación vehicular, de serie, de motor o documentos de identificación de vehículos automotores.
 
-A quien elabore o altere sin permiso de la autoridad competente una placa, el engomado, la tarjeta de circulación o cualquiera de los demás documentos oficiales que se expiden para identificar vehículos automotores o remolques, se le impondrá de cuatro a ocho años de prisión y de trescientos a dos mil días multa.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2023)</small>
+
+A quien elabore o altere sin permiso de la autoridad competente una placa, el engomado, la tarjeta de circulación, número de identificación vehicular, de serie, de motor o cualquier documento oficial, que se expide para identificar vehículos automotores o remolques, se le impondrá de cuatro a ocho años de prisión y de trescientos a dos mil días multa.
 
 Las mismas penas se impondrán a quien utilice, adquiera o enajene cualquiera de los objetos a que se refiere el párrafo anterior, con conocimiento de que son falsificados o fueron obtenidos indebidamente.
 
@@ -4698,5 +4712,11 @@ TERCERO. Los procesos penales que se estén tramitando hasta antes de la publica
 P.O. 6 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 345.- PRIMERO.- SE ADICIONA EL ARTÍCULO 178 QUATER AL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN.- SEGUNDO.- SE ADICIONA LA FRACCIÓN IX BIS AL ARTÍCULO 9 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 346 POR EL QUE “SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 205 BIS; SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO VIGÉSIMO SEGUNDO, DEL LIBRO SEGUNDO Y SU ARTÍCULO 298; Y, SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 212, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
