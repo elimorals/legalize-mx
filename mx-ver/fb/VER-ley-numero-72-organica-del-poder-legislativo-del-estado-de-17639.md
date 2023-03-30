@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2022-08-08"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MARZO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -75,7 +75,9 @@ El Congreso del Estado se reunirá a partir del cinco de noviembre de cada año 
 
 Las sesiones del Congreso y de sus comisiones serán públicas; pero cuando se trate de asuntos que exijan reserva, serán privadas, de conformidad con lo establecido por su normatividad interior.
 
-De manera excepcional, cuando existan contingencias sanitarias, ambientales, riesgos a la seguridad pública, a la protección civil, o cuando se declare estado de emergencia u otros casos de fuerza mayor, las sesiones del Congreso podrán celebrarse a distancia, ya sea de forma total o parcial, a través de las tecnologías de la información o sistemas electrónicos que se establezcan para ello. Todas las sesiones celebradas bajo esta modalidad deberán ser transmitidas en vivo.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2023)</small>
+
+De manera excepcional, cuando existan contingencias sanitarias, ambientales, riesgos a la seguridad pública, a la protección civil, o cuando se declare estado de emergencia u otros casos de fuerza mayor, las sesiones del Congreso podrán celebrarse a distancia, de forma total, a través de las tecnologías de la información o sistemas electrónicos que se establezcan para ello. Todas las sesiones celebradas bajo esta modalidad deberán ser transmitidas en vivo.
 
 Las tecnologías de la información o sistemas electrónicos para la celebración de las sesiones a distancia deberán garantizar de manera eficaz la verificación del quórum, la intervención de viva voz de las y los legisladores partícipes, el registro de las votaciones, y que el acceso a dichas plataformas esté limitado a los Diputados y Diputadas, así como al personal previamente autorizado.
 
@@ -2046,3 +2048,11 @@ G.O. 8 DE AGOSTO DE 2022.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 471 QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 5 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y LOS ARTÍCULOS 83, PÁRRAFO SEXTO Y 86, PÁRRAFO SEGUNDO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
