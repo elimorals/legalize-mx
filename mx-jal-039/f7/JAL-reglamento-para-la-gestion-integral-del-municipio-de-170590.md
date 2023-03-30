@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-gestion-integral-del-municipio-de-170590"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-15"
-last_updated: "2022-11-03"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 3 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 30 DE MARZO DE 2023.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Guadalajara, el viernes 15 de julio de 2016.
 
@@ -2851,439 +2851,57 @@ En caso de edificaciones menores a 5 años, se pagan derechos, más las multas c
 
 ###### Artículo 168.
 
-La Dirección de Movilidad y Transporte con base en lo establecido por el artículo 139 del Reglamento de la Administración Pública Municipal de Guadalajara para efectos del presente Reglamento será la dependencia competente para:
-
-I. Emitir lineamientos técnicos para el diagnóstico, identificación y evaluación de los impactos -positivos y negativos- sobre la movilidad y el espacio vial, derivados de las acciones de urbanización y zonificación en el Municipio;
-
-II. Emitir opiniones técnicas sobre proyectos y acciones urbanas para determinar la cuantificación y cualificación de sus efectos;
-
-III. Emitir vistos buenos, aprobar, recomendar o rechazar proyectos a partir de la evaluación del impacto en el tránsito y la integración vial;
-
-IV. Emitir vistos buenos, aprobar equipamiento de infraestructura ciclista y peatonal, y de accesibilidad universal, para los procesos de zonificación; y
-
-V. Reducir cajones de estacionamiento a partir de los lineamientos que la dependencia emita.
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+(DEROGADO, G.M. 30 DE MARZO DE 2023)
 
 ###### Artículo 169.
 
-Se requiere de estudios de impacto en el tránsito y una propuesta de accesibilidad como parte integral de los Proyectos de Integración Urbana o del Proyecto Definitivo de Urbanización y arquitectónico, en todas aquellas acciones urbanísticas y de edificaciones a las que tenga acceso el público en general o que por la magnitud de sus efectos en el contexto urbano presenten impactos de alcance zonal, urbano o regional, de conformidad con los lineamientos y disposiciones técnicas emitidas por la Dirección de Movilidad y Transporte considerando para ello los siguientes usos y criterios:
-
-I. Centros y plazas comerciales;
-
-II. Centro de espectáculos públicos como estadios, plazas de toros o lienzos charros;
-
-III. Conjuntos universitarios y de educación superior;
-
-IV. Conjuntos hospitalarios y centros médicos públicos y privados;
-
-V. Centro de exposiciones y ferias permanentes y eventuales;
-
-> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
-
-VI. Edificios de comercios y servicios a partir de 500 metros cuadrados de construcción, y edificios habitacionales a partir de 23 unidades de vivienda, a partir del nivel de banqueta;
-
-VII. Conjuntos o unidades administrativas públicas o privadas;
-
-> <small>(REFORMADA, G.M. 20 DE DICIEMBRE DE 2017)</small>
-
-VIII. Conjuntos habitacionales de más de 500 viviendas.
-
-IX. (DEROGADA, G.M. 24 DE ABRIL DE 2017)
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
-
-Cuando ya existan estudios de impacto al tránsito en las áreas de influencia de otros estudios y tengan menos de un año de ser realizados, se presentará solo la actualización de la información de dicho estudio señalada en la fracción VII del artículo 179, ajustando la información al nuevo proyecto.
-
-> <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+(DEROGADO, G.M. 30 DE MARZO DE 2023)
 
 ###### Artículo 170.
 
-Se requiere de estudios de integración vial y una propuesta de accesibilidad, como parte integral del Proyecto Definitivo de Urbanización en los casos en que lo determine la normatividad en materia de movilidad y transporte que el Ayuntamiento emita para tales efectos. El objeto de este estudio es regular y establecer el diseño de las entradas, salidas y ubicación de todos aquellos predios de carácter público o privado que por las características de su giro requieran un análisis de factibilidad, así como la relación de estos con el espacio público con el fin de minimizar los problemas que se causan al tránsito de peatones, ciclistas y vehículos sobre la vía pública afectada.
-
-> <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+(DEROGADO, G.M. 30 DE MARZO DE 2023)
 
 ###### Artículo 171.
 
-Los estudios de impacto al tránsito, así como de integración vial, también denominados de ingresos y salidas, y la propuesta de accesibilidad se deberán realizar tanto para los desarrollos urbanos en el proceso de ejecución del Proyecto Definitivo de Urbanización como para las obras de edificación, durante la elaboración de los estudios y proyectos constructivos. Con los resultados de estos estudios y la propuesta, se deberá conocer la forma como la utilización del uso del suelo puede afectar el sistema vial y de transporte y su integración en donde se encuentre enclavado sin menoscabo de la accesibilidad, los requerimientos que deban aplicarse para mantener o mejorar el nivel de servicio de estos sistemas garantizando en primer término la seguridad y accesibilidad de los usuarios más vulnerables y garantizar la seguridad vial. De la misma forma se deberá conocer la compatibilidad en materia de acciones de vialidad, accesibilidad, movilidad no motorizada y transporte que marque el presente Reglamento y los Instrumentos de Planeación del Territorio.
-
-> <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+(DEROGADO, G.M. 30 DE MARZO DE 2023)
 
 ###### Artículo 172.
 
-Toda solicitud para la dictaminación de estudio de impacto al tránsito o de integración vial y la propuesta de accesibilidad, será parte integral y considerada como ingeniería en los procesos de licencia para un Proyecto Definitivo de Urbanización o construcción, y deberá ir acompañada de la carta de aceptación del perito corresponsable en los 71 términos de lo establecido en este Reglamento, solo se autorizarán como peritos corresponsables para definir la ingeniería de tránsito en obras de urbanización y/o edificación, los profesionistas con título de arquitecto, ingeniero civil o profesiones afines, conforme las reglas que expida para este dictamen la Dirección de Movilidad y Transporte.
-
-> <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+(DEROGADO, G.M. 30 DE MARZO DE 2023)
 
 ###### Artículo 173.
 
-La Dirección de Movilidad y Transporte, será la encargada de aprobar los proyectos de protección de obra para garantizar y preservar el libre tránsito de peatones y de seguridad vial de acuerdo con la normatividad aplicable, para lo cual se deberán presentar los siguientes requisitos:
-
-I. Solicitud por escrito donde se expliquen las labores a realizar, así como la ubicación de la intervención;
-
-II. Copia simple del acta constitutiva del responsable de ejecutar la obra en caso de ser persona moral;
-
-III. Plano de protección de obra de acuerdo con la normatividad aplicable; y
-
-IV. Programa de obra donde se indiquen los periodos de trabajo.
-
-Cuando la solicitud no contenga los datos o no cumplan con los requisitos aplicables, la Dirección de Movilidad y Transporte deberá prevenir a los interesados por una sola vez, notificándolos al correo electrónico que hubiera facilitado el interesado para su contacto.
-
-Una vez cubiertos todos los requisitos señalados, la Dirección de Movilidad y Transporte, deberá emitir la respuesta en un plazo que no exceda de 10 días hábiles.
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+(DEROGADO, G.M. 30 DE MARZO DE 2023)
 
 ###### Artículo 174.
 
-La Dirección de Movilidad y Transporte emitirá los lineamientos para la reducción del número de cajones de estacionamiento, con estricto apego al reglamento de la materia y la normatividad municipal aplicable. Para la aplicación de estos lineamientos para cualquier desarrollo inmobiliario, estará sujeto al visto bueno de esta dependencia, previo ingreso del proyecto arquitectónico, con la finalidad de reducir el número de viajes en automóvil particular y promover la multimodalidad.
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+(DEROGADO, G.M. 30 DE MARZO DE 2023)
 
 ###### Artículo 175.
 
-La Dirección de Movilidad y Transporte, será la encargada de otorgar vistos buenos a todas aquellas modificaciones efectuadas por particulares, que se realicen en espacio público en materia de infraestructura peatonal y equipamiento ciclista; asimismo autorizará las permutas de cajones de estacionamientos por infraestructura peatonal, ciclista y/o área verde.
+(DEROGADO, G.M. 30 DE MARZO DE 2023)
 
 ###### Artículo 176.
 
 (DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 20 DE DICIEMBRE DE 2017)</small>
-
 ###### Artículo 177.
 
-La dictaminación de los estudios de impacto al tránsito o de integración vial y la propuesta de accesibilidad, estarán a cargo de la Dirección de Movilidad y Transporte, y los procedimientos que deberán solventarse previo a la presentación de la solicitud por escrito, revisión, seguimiento y dictaminación de dichos estudios serán los siguientes:
-
-> <small>(REFORMADA, G.M. 20 DE DICIEMBRE DE 2017)</small>
-
-I. Realizar el trámite de registro del especialista quien elaborará y sustentará los estudios de impacto en el tránsito, de integración vial y propuesta de accesibilidad en representación del propietario de la promoción urbana sujeta a revisión, el cual fungirá como técnico responsable desde el inicio hasta el fin del trámite;
-
-> <small>(REFORMADA, G.M. 20 DE DICIEMBRE DE 2017)</small>
-
-II. El técnico responsable del estudio o propuesta, deberá establecer contacto inicial con el Jefe del Área de Gestión del Tránsito y Transporte adscrita a la Dirección de Movilidad y Transporte, previa cita, con el objetivo de clarificar si se trata de un Estudio de Impacto en el Tránsito o de Integración Vial (entradas y salidas); y
-
-III. Presentar para validación y visto bueno la propuesta de alcances de estudio con base en la Guía de Apoyo y Contenidos Básicos publicados en la página Web del Municipio, la ficha descriptiva del proyecto, la definición del área de estudio, puntos y formatos de aforos (vehiculares, peatonales y ciclistas), elaboración del programa de trabajo con base en el cual se realizará las entregas parciales y revisión de los apartados del Estudio y apertura de bitácora.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+(DEROGADO, G.M. 30 DE MARZO DE 2023)
 
 ###### Artículo 178.
 
-La solicitud de estudios de impacto al tránsito o de integración vial y propuesta de accesibilidad se presentará por escrito en la Dirección de Movilidad y Transporte, y deberá acompañarse en original para cotejo, y copia simple de lo siguiente:
-
-> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
-
-I. Nombre o razón social del propietario y apoderado en su caso, domicilio y correo electrónico para recibir notificaciones, y número telefónico;
-
-> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
-
-II. Nombre, en su caso, de los autorizados para recibir notificaciones;
-
-> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
-
-III. Identificación oficial del propietario y apoderado en su caso;
-
-> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
-
-IV. Acta Constitutiva en caso de tratarse de persona jurídica y poder notarial de su representante legal o apoderado;
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
-
-V. En caso de Licencia de Construcción, remodelación o ampliación, y de giro nuevas:
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
-
-a) Dictamen de Trazo, Usos y Destinos vigente;
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
-
-b) Certificado de alineamiento y número oficial vigente; y
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
-
-c) Escrituras o documentos que acrediten la propiedad del bien inmueble materia del trámite;
-
-VI. (DEROGADA, G.M. 29 DE SEPTIEMBRE DE 2018)
-
-VII. (DEROGADA, G.M. 29 DE SEPTIEMBRE DE 2018)
-
-> <small>(REFORMADA, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
-
-VIII. Pago de derechos conforme a la Ley de Ingresos del Municipio vigente;
-
-IX. (DEROGADA, G.M. 29 DE SEPTIEMBRE DE 2018)
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
-
-X. Planos impresos formato 60 x 90 y en digital del proyecto ejecutivo de la promoción urbana sujeta a dictaminación, firmada por el perito responsable del proyecto; y
-
-XI. (DEROGADA, G.M. 29 DE SEPTIEMBRE DE 2018)
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
-
-Cuando la solicitud que presenten los interesados no contengan los datos o no cumplan con los requisitos aplicables, la Dirección de Movilidad y Transporte deberá prevenir a los interesados por una sola vez, notificándolo al correo electrónico proporcionado en su solicitud y para que subsanen la omisión dentro de cinco días hábiles contados a partir de que haya surtido efectos la notificación; transcurrido el plazo correspondiente sin desahogar la prevención, se desechará el trámite.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+(DEROGADO, G.M. 30 DE MARZO DE 2023)
 
 ###### Artículo 179.
 
-Los estudios de impacto al tránsito deberán contener como mínimo, lo siguiente:
-
-I. Propósito del Estudio:
-
-a) Objetivo General; y
-
-b) Objetivos Específicos.
-
-II. Análisis Previo:
-
-a) Generalidades del Desarrollo; y
-
-b) Recopilación de información documental.
-
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
-
-III. Definición de la zona en estudio y su área de influencia:
-
-a) Localización del Predio en estudio; y
-
-b) Determinación de las áreas de influencia, directa e indirecta.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
-
-IV. Diagnóstico Integral:
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
-
-a) Descripción del sistema y/o estructura vial existente;
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
-
-b) Determinación física de las vialidades al momento del estudio;
-
-c) Secciones Transversales;
-
-d) Memoria Fotográfica;
-
-e) Sentidos de circulación, superficies de rodamiento y circulación peatonal;
-
-f) Estado de conservación de las vías;
-
-g) Identificación de los dispositivos de control del tránsito (semáforos, topes, boyas, señalamiento horizontal, vertical, etc.) incluyendo sus características de operación y estado de visibilidad; y
-
-h) Puntos de conflicto detectados.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
-
-V. Investigación de los usos del suelo actuales y futuros dentro del área en estudio:
-
-a) Usos de suelo predominante que se presentan a lo largo de cada una de las vías que componen el polígono con el propósito de asociar el comportamiento de la demanda con los mismos;
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
-
-b) Previsiones de usos del suelo, proyectos urbanos y viales de acuerdo al plan parcial de desarrollo urbano vigente; y
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
-
-c) Presentación y explicación del dictamen de uso del suelo respecto a condicionantes de diseño, (movilidad y transporte), que deberá resolver el desarrollo en su Predio y área inmediata.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
-
-VI. Determinación física de la operación del transporte colectivo en el área y sus perspectivas en desarrollo:
-
-a) Levantamiento de rutas de transporte público detallando las características de las mismas: origen-destino; índices de ocupación; frecuencia de paso; puntos de parada en la zona, finalizando con un análisis de zonas con cobertura y sin cobertura; y
-
-b) En caso de existir en su proximidad líneas de transporte masivo y semi-masivo, recopilar información del sistema y estaciones cercanas y con cobertura al polígono de estudio.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
-
-VII. Levantamiento de la información sobre volúmenes de tránsito en días y horas representativas:
-
-a) Flujos peatonales, ciclistas y vehiculares considerando la composición de los mismos y todos aquellos puntos de incorporación y flujos que por su importancia afecten a la operación de la vialidad.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
-
-VIII. Análisis de accidentes de tránsito en la zona:
-
-a) Identificar, cuantificar y matizar los hechos de tránsito en la zona cualificando el comportamiento de cada sitio.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
-
-IX. Velocidades y tiempos de recorrido:
-
-a) El objetivo de este inciso es evaluar la calidad del movimiento vehicular a lo largo de una ruta o vialidad y determinar la ubicación, tipo y magnitud de las demoras de tránsito.
-
-X. Evaluación de las condiciones de la vialidad mediante análisis de capacidad y nivel de servicio:
-
-a) Determinar mediante análisis la capacidad por vía, intersecciones con semáforos y sin semáforos ubicados al interior del área de influencia directa.
-
-XI. Estudio de flujos de saturación en intersecciones (análisis de colas):
-
-a) Estimar la capacidad de flujo de las intersecciones semaforizadas, con la intensión de entender la capacidad de un acceso a una intersección, entiéndase que el flujo de saturación es la tasa máxima de salidas que puede ser obtenida cuando existan colas.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
-
-XII. Generación, distribución y asignación de viajes futuros:
-
-a) Estimación del tráfico generado en función de los usos del suelo;
-
-b) Distribución de Viajes; y
-
-c) Asignación de Viajes.
-
-XIII. Pronóstico de Viajes:
-
-a) Establecimiento de un pronóstico de crecimiento de los flujos viales a los horizontes establecidos; y
-
-b) Estimación del tráfico total, incluyendo el tránsito inducido, el tránsito generado y el tránsito del desarrollo para los horizontes previstos.
-
-XIV. Planteamiento de Soluciones (mitigación, cambio, solución):
-
-a) Facilidades para el estacionamiento al interior del desarrollo como en el entorno estudiado;
-
-b) Facilidades para el transporte público;
-
-c) Facilidades para la accesibilidad universal;
-
-d) Facilidades para la Movilidad No Motorizada;
-
-e) Facilidades para mejorar la seguridad de la vía;
-
-f) Revisión de los aspectos de seguridad vial; y
-
-g) Elementos físicos que regulen la circulación y velocidad en la vía tales como: Dispositivos de control de tránsito, semáforos, señalamiento horizontal y vertical, etcetéra.
-
-XV. Evaluación de Escenarios:
-
-a) Escenario Uno: Situación Actual;
-
-b) Escenario Dos: Situación con Proyecto;
-
-c) Escenario Tres: Situación con proyecto mitigada; y
-
-d) Actualización de los análisis de capacidad y nivel de servicio.
-
-XVI. Recomendaciones Finales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+(DEROGADO, G.M. 30 DE MARZO DE 2023)
 
 ###### Artículo 180.
 
-Los estudios de integración vial (ingresos y salidas) deberán contener:
+(DEROGADO, G.M. 30 DE MARZO DE 2023)
 
-I. Propósito del Estudio:
-
-a) Objetivo General; y
-
-b) Objetivos Específicos.
-
-II. Análisis Previo:
-
-a) Generalidades del Desarrollo; y
-
-b) Recopilación de información documental.
-
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
-
-III. Definición de la zona en estudio y su área de influencia:
-
-a) Localización del Predio en estudio; y
-
-b) Determinación de las áreas de influencia, directa e indirecta.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
-
-IV. Diagnóstico Integral:
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
-
-a) Descripción del sistema y/o estructura vial existente;
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
-
-b) Determinación física de las vialidades al momento del estudio;
-
-c) Secciones Transversales;
-
-d) Memoria Fotográfica;
-
-e) Sentidos de circulación, superficies de rodamiento y circulación peatonal;
-
-f) Estado de conservación de las vías;
-
-g) Identificación de los dispositivos de control del tránsito (semáforos, topes, boyas, señalamiento horizontal, vertical, etc.) incluyendo sus características de operación y estado de visibilidad; y
-
-h) Puntos de conflicto detectados.
-
-V. Investigación de los usos del suelo actuales y futuros dentro del área en estudio:
-
-a) Usos de suelo predominantes que se presentan a lo largo de cada una de las vías que componen el polígono con el propósito de asociar el comportamiento de la demanda con los mismos;
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
-
-b) Previsiones de usos del suelo, proyectos urbanos y viales de acuerdo al plan parcial de desarrollo urbano vigente; y
-
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
-
-c) Presentación y explicación del dictamen de uso del suelo respecto a condicionantes de diseño, (movilidad y transporte), que deberá resolver el desarrollo en su Predio y área inmediata.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
-
-VI. Determinación física de la operación del transporte colectivo en el área y sus perspectivas en desarrollo:
-
-a) Levantamiento de rutas de transporte público detallando las características de las mismas: Origen-destino; índices de ocupación; frecuencia de paso; puntos de parada en la zona, finalizando con un análisis de zonas con cobertura y sin cobertura; y
-
-b) En caso de existir en su proximidad líneas de transporte masivo y semi-masivo recopilar información del sistema y estaciones cercanas y con cobertura al polígono de estudio.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
-
-VII. Levantamiento de la información sobre volúmenes de tránsito en días y horas representativas:
-
-a) Flujos peatonales, ciclistas y vehiculares considerando la composición de los mismos y todos aquellos puntos de incorporación y flujos que por su importancia afecten a la operación de la vialidad.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
-
-VIII. Análisis de accidentes de tránsito en la zona:
-
-a) Identificar, cuantificar y matizar los hechos de tránsito en la zona cualificando el comportamiento de cada sitio.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 24 DE ABRIL DE 2017)</small>
-
-IX. Velocidades y tiempos de recorrido:
-
-a) El objetivo de este inciso es evaluar la calidad del movimiento vehicular a lo largo de una ruta o vialidad y determinar la ubicación, tipo y magnitud de las demoras de tránsito.
-
-X. Evaluación de las condiciones de la vialidad mediante análisis de capacidad y nivel de servicio:
-
-a) Determinar mediante análisis la capacidad por vía, intersecciones con semáforos y sin semáforos ubicados al interior del área de influencia directa.
-
-XI. Estudio de Flujos de saturación en intersecciones (análisis de colas):
-
-a) Estimar la capacidad de flujo de las intersecciones semaforizadas, con la intensión de entender la capacidad de un acceso a una intersección, entiéndase que el flujo de saturación es la tasa máxima de salidas que puede ser obtenida cuando existen colas.
-
-XII. Planteamiento de Soluciones (mitigación, cambio, solución):
-
-a) Facilidades para el estacionamiento al interior del desarrollo como en el entorno estudiado;
-
-b) Facilidades para el transporte público;
-
-c) Facilidades para la accesibilidad universal;
-
-d) Facilidades para la Movilidad No Motorizada;
-
-e) Facilidades para mejorar la seguridad de la vía;
-
-f) Revisión de los aspectos de seguridad vial; y
-
-g) Elementos físicos que regulen la circulación y velocidad en la vía tales como: Dispositivos de control de tránsito, semáforos, señalamiento horizontal y vertical, etcetéra.
-
-XIII. Recomendaciones finales:
-
-> <small>(ADICIONADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
-
-Artículo 180 bis. La propuesta de accesibilidad deberá contener como mínimo:
-
-I. Definición de áreas de uso público del proyecto: Planta conceptual representando circulaciones, áreas comunes y puntos de decisión; y
-
-II. Planta arquitectónica accesible de las áreas de uso público.
+Artículo 180 bis. (DEROGADO, G.M. 30 DE MARZO DE 2023)
 
 ### CAPÍTULO VI. De la Dictaminación en Materia de Medio Ambiente
 
@@ -5766,3 +5384,13 @@ Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalaja
 Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicadas las presentes reformas remítanse un tanto de las mismas al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 30 DE MARZO DE 2023.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE EXPIDE EL REGLAMENTO DE MOVILIDAD, TRANSPORTE Y SEGURIDAD VIAL DE GUADALAJARA; SE ABROGAN EL REGLAMENTO DE ESTACIONAMIENTOS EN EL MUNICIPIO DE GUADALAJARA Y EL REGLAMENTO DEL CONSEJO CIUDADANO DE MOVILIDAD NO MOTORIZADA; SE REFORMAN EL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA; EL REGLAMENTO DE JUSTICIA CÍVICA DEL MUNICIPIO DE GUADALAJARA Y EL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA”.]</small>
+
+Primero. Publíquese lo conducente del presente ordenamiento en la Gaceta Municipal de Guadalajara.
+
+Segundo. El presente ordenamiento entrará en vigor treinta días posteriores a la fecha de su publicación.
+
+Tercero. Una vez publicado el presente ordenamiento, remítase mediante oficio un tanto del mismo al Congreso del Estado de Jalisco, para los efectos ordenados en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
