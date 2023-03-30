@@ -4,7 +4,7 @@ identifier: "HID-ley-de-participacion-ciudadana-para-el-estado-de-hidalgo-106117
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2021-09-13"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -123,9 +123,17 @@ La participación ciudadana radicará en los principios de:
 
 l. Democracia.- La igualdad de oportunidades de los ciudadanos hidalguenses para ejercer influencia en la toma de decisiones públicas, sin discriminaciones de carácter político, religioso, racial, ideológico, de género o de ninguna otra especie; considerando a la democracia, no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida, fundado en el constante mejoramiento económico, social y cultural del pueblo, como lo señala el artículo 3°, fracción II, inciso a) de la Constitución Política de los Estados Unidos Mexicanos.
 
-II. Corresponsabilidad.- El compromiso compartido de los ciudadanos y los Poderes del Estado de Hidalgo de ejercer la corresponsabilidad con nuestro Estado, comprometiéndonos con su desarrollo, impulsando la equidad social, la no discriminación por género, religión, raza o cultura, el respeto al medio ambiente y defendiendo los derechos humanos, privilegiando el diálogo y debate permanente, demostrando que actuar, es la mejor manera de contribuir al progreso de la sociedad. Acercar la Responsabilidad Social a los ciudadanos a las generaciones presentes y también a las futuras a través de la formación y la sensibilización, para que todos actuemos responsablemente en nuestros comportamientos diarios.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
 
-III. Inclusión.- Integrando a la vida comunitaria a todos los ciudadanos hidalguenses, independientemente de su origen, actividad, condición socio-económica o de su pensamiento, que asegure trabajo, salud, viviendas dignas y seguras, educación, seguridad y muchas otras cosas que contribuyen al beneficio de los habitantes.
+II. Corresponsabilidad.- El compromiso compartido de los ciudadanos y los Poderes del Estado de Hidalgo de ejercer la corresponsabilidad con nuestro Estado, comprometiéndonos con su desarrollo, impulsando la equidad social, la no discriminación por orientación sexual, identidad y/o expresión de género, religión, discapacidad, etnia, raza o cultura, el respeto al medio ambiente y defendiendo los derechos humanos, privilegiando el diálogo y debate permanente, demostrando que actuar, es la mejor manera de contribuir al progreso de la sociedad. Acercar la Responsabilidad Social a los ciudadanos a las generaciones presentes y también a las futuras a través de la formación y la sensibilización, para que todos actuemos responsablemente en nuestros comportamientos diarios.
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
+
+III. Inclusión.- Integrando a la vida comunitaria a todos los ciudadanos hidalguenses, independientemente de su origen étnico, credo, condición de discapacidad, orientación sexual, identidad y/o expresión de género, actividad, condición socio- económica o de su pensamiento, que asegure trabajo, salud, viviendas dignas y seguras, educación, seguridad y muchas otras cosas que contribuyen al beneficio de los habitantes.
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
+
+III. BIS. Igualdad de Oportunidad.- Todas las personas deben de recibir la misma oportunidad de ejercer sus derechos políticos-electorales, así como de expresar su opinión en cuanto a las decisiones públicas. Para lo cual, el Poder Ejecutivo estatal, apoyándose de sus dependencias y de los gobiernos municipales, establecerán las medidas necesarias para que todas las personas puedan participar en equidad de condiciones. Lo anterior, implica una obligación compartida entre los Poderes Ejecutivos estatal y municipal, así como con la autoridad electoral estatal, de establecer acciones afirmativas para asegurar la correcta inclusión, participación y representación de todas las personas sin importar su condición. Lo anterior también prevé una obligación compartida de crear e implementar todos los ajustes razonables durante los procesos de participación ciudadana, para que estos sean accesibles y cómodos para todas las personas, ofreciendo una especial atención a las personas con discapacidad. De la realización de estas acciones afirmativas y ajustes razonables, depende el correcto ejercicio de los derechos humanos.
 
 IV. Solidaridad.- Disposición de toda persona de asumir los problemas de otros como si fueran propios, contrario a todo egoísmo o interés particular, que propicie el desarrollo de relaciones fraternales entre los ciudadanos y eleve la sensibilidad acerca de la naturaleza de las propias situaciones adversas y las de los demás, así nutra y motive las acciones para enfrentar colectivamente los problemas comunes.
 
@@ -133,7 +141,7 @@ V. Legalidad.- Garantía de que los actos y decisiones del Estado serán siempre
 
 VI. Respeto.- Reconocimiento pleno a la diversidad de opiniones y posturas, asumidas libremente en torno a los asuntos públicos. En este caso empieza por la libertad de elegir cuándo y cómo se participa en la vida pública del Estado.
 
-VIl. Tolerancia.- Garantía de reconocimiento y respeto a las diferencias de opiniones y a las adversidades de quienes conforman la sociedad, como un elemento esencial en la construcción de consensos.
+VII. Tolerancia.- Garantía de reconocimiento y respeto a las diferencias de opiniones y a las adversidades de quienes conforman la sociedad, como un elemento esencial en la construcción de consensos.
 
 VIII. Sustentabilidad.- Responsabilidad de que las decisiones asumidas en el presente, aseguren el futuro de las nuevas generaciones; y
 
@@ -359,7 +367,7 @@ V. Si la resolución del Tribunal Superior de. Justicia del Estado, es en el sen
 
 VI. En el supuesto de que el Tribunal Superior de Justicia del Estado, declare la improcedencia de la materia de la Consulta Popular, el Presidente de la Directiva del Congreso, enviará la resolución al Ejecutivo del Estado, para su publicación en el Periódico Oficial del Estado, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido; y
 
-VIl. Declarada la procedencia por el Tribunal Superior de Justicia del Estado, el Congreso del Estado, emitirá la Convocatoria, la notificará al Instituto Estatal Electoral, para los efectos conducentes y la enviará al Ejecutivo del Estado, para su publicación en el Periódico Oficial del Estado.
+VII. Declarada la procedencia por el Tribunal Superior de Justicia del Estado, el Congreso del Estado, emitirá la Convocatoria, la notificará al Instituto Estatal Electoral, para los efectos conducentes y la enviará al Ejecutivo del Estado, para su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO 23.
 
@@ -467,6 +475,10 @@ Durante la campaña de difusión, el Instituto Estatal Electoral, promoverá la 
 
 La promoción deberá ser imparcial. De ninguna manera podrá estar dirigida a influir en las preferencias de la ciudadanía a favor o en contra de la Consulta Popular.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+El Instituto Estatal Electoral debe asegurar en todo momento que la difusión de la Consulta sea accesible para las personas con discapacidad, asegurando su derecho a participar.
+
 ###### ARTÍCULO 35.
 
 El Instituto Estatal Electoral, promoverá la difusión y discusión informada de las Consultas que hayan sido convocadas por el Congreso del Estado a través de los tiempos de radio y la televisión que correspondan al propio Instituto.
@@ -500,6 +512,10 @@ V. Las firmas impresas del Presidente del Consejo General y del Secretario Ejecu
 Habrá una sola papeleta, independientemente del número de convocatorias que hayan sido aprobadas por el Congreso.
 
 Las papeletas estarán adheridas a un talón con folio, cuyo número será progresivo, del cual serán desprendibles. La información que contendrá este talón será la relativa a la Entidad Federativa, Distrito Electoral o Municipio y la Consulta Popular.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+El Instituto Estatal Electoral deberá promover ajustes razonables a fin de asegurarse que existan los medios necesarios para que la emisión del voto sea accesible para las personas con discapacidad. Se entiende por ajustes razonables, al concepto previsto por la fracción XII del artículo 5 de la Ley Integral para las personas con discapacidad del estado de Hidalgo.
 
 ###### ARTÍCULO 38.
 
@@ -717,7 +733,7 @@ V. El titular del o los Organismos Públicos Autónomos o sus representantes;
 
 VI. Los Ciudadanos y las organizaciones ciudadanas interesados en el tema de la audiencia; y
 
-VIl. En su caso, podrá invitarse a asistir a servidores públicos que estén vinculados con los asuntos de la audiencia pública.
+VII. En su caso, podrá invitarse a asistir a servidores públicos que estén vinculados con los asuntos de la audiencia pública.
 
 En la audiencia pública los habitantes interesados expresarán libremente sus peticiones, propuestas o quejas en todo lo relacionado con la administración del Estado o de la demarcación territorial.
 
@@ -764,3 +780,9 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 754 QUE ADICIONA EL SEGUNDO PÁRRAFO RECORRIÉNDOSE EL SUBSECUENTE DEL ARTÍCULO 1 DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 488 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO, LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y, LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
