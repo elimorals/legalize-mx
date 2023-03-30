@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2023-03-03"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -823,7 +823,9 @@ VIII. Implementar mecanismos para la atención, canalización y seguimiento de l
 
 IX. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
-X. Contribuir a garantizar la permanencia y conclusión de la educación obligatoria para abatir el ausentismo, abandono y deserción escolar;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
+
+X. Contribuir a garantizar la permanencia y conclusión de la educación obligatoria para abatir el ausentismo, abandono y deserción escolar y establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección, los casos de ausentismo, abandono o deserción escolar, que se identifiquen respecto de los alumnos que cursen educación básica y media superior y que aplique los procedimientos necesarios para garantizar los derechos de las niñas, niños y adolescentes;
 
 XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos;
 
@@ -2246,3 +2248,13 @@ SEXTO. El Director General del DIF Estatal, dentro de los siguientes 90 noventa 
 SÉPTIMO. Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 OCTAVO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 350.- ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 38 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEGUNDO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
