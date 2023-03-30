@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2023-03-29"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -409,15 +409,15 @@ II. Información y/o documentación respecto de las actividades del Ayuntamiento
 
 III. Evaluar en conjunto con las autoridades municipales, el cumplimiento de los programas y actos de gobierno.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 27 TER.- Los Ayuntamientos incentivarán la participación ciudadana en las acciones de conservación, mantenimiento y limpieza con los camellones, jardines, glorietas, banquetas municipales, espacios deportivos, así como el mantenimiento, de los jardines ubicados en los espacios municipales, en coordinación con las áreas municipales competentes.
+
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 28.
 
 Los Ayuntamientos expedirán las normas reglamentarias que establezcan las formas y procedimientos que garanticen el acceso a los instrumentos de participación ciudadana, que contribuyan al mejoramiento del quehacer municipal con la finalidad de que se atiendan eficazmente las necesidades de la población, y, que al mismo tiempo, les permita expresar su aprobación o rechazo a los actos del Ayuntamiento y la Administración Pública Municipal, respecto de los Bandos, reglamentos, circulares y cualquier disposición administrativa de observancia general.
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
-
-ARTÍCULO 27 TER.- Los Ayuntamientos incentivarán la participación ciudadana en las acciones de conservación, mantenimiento y limpieza con los camellones, jardines, glorietas, banquetas municipales, espacios deportivos, así como el mantenimiento, de los jardines ubicados en los espacios municipales, en coordinación con las áreas municipales competentes.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
@@ -1249,13 +1249,9 @@ I BIS) Formular e Implementar el Programa Municipal de Prevención Social de la 
 
 II.- Asimismo, podrán:
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2023)</small>
 
-a).- Nombrar y remover libremente a los servidores públicos municipales que refiere la Constitución Política del Estado; con excepción del titular del Órgano Interno de Control, cuyo nombramiento deberá realizarse en los términos a que alude el inciso a Bis) de la fracción II del artículo 60 de esta Ley.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE DICIEMBRE DE 2020)</small>
-
-En los nombramientos de los titulares de las dependencias de la administración pública municipal, se observará preferentemente el principio de paridad de género conforme a las normas aplicables;
+a).- Nombrar y remover libremente a los servidores públicos municipales que refiere la Constitución Política del Estado; con excepción del titular del Órgano Interno de Control, cuyo nombramiento deberá realizarse en los términos a que alude el inciso a Bis) de la fracción II del artículo 60 de esta Ley. En los nombramientos de los titulares de las dependencias de la administración pública municipal, deberá observarse el principio de paridad de género conforme a las normas aplicables, además tendrá la obligación de garantizar el acceso a personas con discapacidad para ocupar los puestos titulares de las dependencias y entidades de la administración pública, al menos en un porcentaje total que refleje la presencia de personas de este grupo social en el municipio del que se trate, conforme a los datos censales más recientes;
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
 
@@ -2498,6 +2494,10 @@ XIX. Asistir al Presidente Municipal, en las funciones técnicas del Comité de 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
 XX. Coadyuvar de manera coordinada con el titular del área de Protección Civil, en la elaboración o en su caso, con la actualización del Atlas Municipal de Riesgos. Ante la omisión de lo previsto en esta fracción, se estará a lo dispuesto por la legislación en materia de responsabilidades administrativas.
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
+
+XXI.- Asegurarse que las obras públicas que estén bajo su cargo se planeen, construyan y ejecuten de una manera que atiendan las necesidades de las personas con discapacidad, para que los espacios públicos sean accesibles e inclusivos para todas las personas.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
@@ -4142,5 +4142,11 @@ P.O. 26 DE DICIEMBRE DE 2022.
 P.O. 29 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 313, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY LA LEY (SIC) ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 488, POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO, LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y, LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
