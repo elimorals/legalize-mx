@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2022-08-08"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MARZO DE 2023.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -907,9 +907,9 @@ Por votación económica del Congreso, podrá declararse éste en sesión perman
 
 El Congreso podrá celebrar sesiones solemnes, cuyo único propósito será conmemorar un hecho relevante de la vida nacional o estatal, rendir un homenaje, recibir a visitantes distinguidos nacionales o extranjeros, o entregar los premios previstos en la ley. Estas sesiones serán convocadas por el Presidente, o por el de la Permanente, dentro o fuera de los períodos de sesiones. En ellas no se podrá tratar ningún otro asunto y no darán lugar a debate alguno, y sólo podrán intervenir los diputados y otras personas que previamente acuerde la Junta de Trabajos Legislativos en el proyecto de orden del día respectivo.
 
-> <small>(ADICIONADO, G.O. 8 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2023)</small>
 
-Las sesiones a distancia serán aquellas que, por razones de contingencias sanitarias, ambientales, riesgos a la seguridad pública, a la protección civil, o cuando se declare estado de emergencia u otros casos de fuerza mayor, deban celebrarse a través de las tecnologías de la información o sistemas electrónicos que se establezcan para ello, ya sea de forma total o parcial. Se entenderá de forma total si resulta imposible la asistencia de los Diputados al recinto oficial, y la sesión se desarrolla de forma íntegra a través de las tecnologías y sistemas electrónicos pertinentes. Serán parciales aquellas en las que, concurriendo físicamente el quórum establecido en el artículo 22 de este Reglamento, se celebren con la asistencia y participación por vía remota de los demás legisladores, a través de las plataformas de la información o sistemas ya referidos.
+Las sesiones a distancia serán aquellas que, por razones de contingencias sanitarias, ambientales, riesgos a la seguridad pública, a la protección civil, o cuando se declare estado de emergencia u otros casos de fuerza mayor, deban celebrarse, de forma total, a través de las tecnologías de la información o sistemas electrónicos que se establezcan para ello.
 
 > <small>(ADICIONADO, G.O. 8 DE MAYO DE 2020)</small>
 
@@ -983,7 +983,9 @@ IX. A la integración y funcionamiento del Congreso como órgano de acusación e
 
 Si por caso fortuito o de fuerza mayor no pudiere abrir, continuar o terminarse una sesión, el Presidente, de acuerdo con la Junta de Coordinación Política, determinará lo conducente.
 
-Tratándose de contingencias sanitarias, ambientales, riesgos a la seguridad pública, a la protección civil, o cuando se declare estado de emergencia u otros casos de fuerza mayor, las sesiones del Congreso podrán convocarse y celebrarse a distancia, ya sea de forma total o parcial, a través de las tecnologías de la información o sistemas electrónicos que se establezcan para ello.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2023)</small>
+
+Tratándose de contingencias sanitarias, ambientales, riesgos a la seguridad pública, a la protección civil, o cuando se declare estado de emergencia u otros casos de fuerza mayor, las sesiones del Congreso podrán convocarse y celebrarse a distancia, de forma total, a través de las tecnologías de la información o sistemas electrónicos que se establezcan para ello.
 
 ###### Artículo 87.
 
@@ -1984,3 +1986,11 @@ G.O. 8 DE AGOSTO DE 2022.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 471 QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 5 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y LOS ARTÍCULOS 83, PÁRRAFO SEXTO Y 86, PÁRRAFO SEGUNDO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
