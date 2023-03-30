@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-a-la-maternidad-para-el-estado-de-durango-824
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-26"
-last_updated: "2021-12-26"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN A LA MATERNIDAD PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 26 de junio de 2011.
 
@@ -165,21 +165,23 @@ b) El parto, brindar la asistencia y atención necesaria y cualquier emergencia 
 
 c) El puerperio, brindar asistencia médica a la madre en caso de ser necesario; así como el seguimiento al desarrollo del recién nacido y la detección de enfermedades en él mismo de manera temprana y oportuna, aplicando los esquemas de prevención necesarios.
 
-I (SIC). Impulsar la atención a la salud física, mental, sexual y reproductiva de las mujeres, garantizando el ejercicio pleno de su derecho a la salud;
+(REPUBLICADA Y REUBICADA EN SU NUMERACIÓN [N. DE E. ANTES FRACCIÓN I (SIC)], P.O. 30 DE MARZO DE 2023)
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2014)</small>
+II. Impulsar la atención a la salud física, mental, sexual y reproductiva de las mujeres, garantizando el ejercicio pleno de su derecho a la salud;
 
-II. Realizar campañas permanentes de planificación familiar voluntaria, dirigida especialmente al grupo de adolescentes, además de canalizarlos a las dependencias correspondientes para recibir capacitación sobre el buen desarrollo e integración de la familia; y
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN II] P.O. 30 DE MARZO DE 2023)</small>
 
-III. Las demás que le confiera la presente Ley y demás disposiciones legales aplicables.
+III. Realizar campañas permanentes de planificación familiar voluntaria, y de salud reproductiva y sexual dirigida especialmente al grupo de adolescentes, además de canalizarlos a las dependencias correspondientes para recibir capacitación sobre el buen desarrollo e integración de la familia;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN IV] P.O. 30 DE MARZO DE 2023)</small>
 
-IV. Realizar acciones que promuevan activamente y/o posibiliten, el derecho al acompañamiento de las mujeres embarazadas por una persona de su confianza y elección durante el proceso de parto, siempre y cuando, no exista riesgo de que se presenten complicaciones de salud para el producto o la mujer embarazada; y celebrará los convenios que se requieran para tal efecto.
+V (SIC). Realizar acciones que promuevan activamente y/o posibiliten, el derecho al acompañamiento de las mujeres embarazadas por una persona de su confianza y elección durante el proceso de parto, siempre y cuando, no exista riesgo de que se presenten complicaciones de salud para el producto o la mujer embarazada; y celebrará los convenios que se requieran para tal efecto.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV, P.O. 26 DE DICIEMBRE DE 2021.]</small>
+Para hacer efectivo el derecho de acompañamiento, las instituciones de salud pública y privada, y centros de internamiento penal, deberán prever las medidas de seguridad e higiene necesarias; y
 
-Para hacer efectivo el derecho de acompañamiento, las instituciones de salud pública y privada, y centros de internamiento penal, deberán prever las medidas de seguridad e higiene necesarias.
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN III] P.O. 30 DE MARZO DE 2023)
+
+V (SIC). Las demás que le confiera la presente Ley y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 7.
 
@@ -522,3 +524,11 @@ SEGUNDO. Derivado de la crisis económica de origen pandémico provocada por SAR
 TERCERO. Las instituciones privadas, podrán convenir con la Secretaría de Salud y Servicios de Salud del Estado de Durango, a partir de la entrada en vigor de la presente Ley para su cumplimiento; ajustándose a las especificaciones de la regulación o programas que emita dicha Dependencia.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 342.- POR EL QUE SE REFORMA EL ARTÍCULO 6 DE LA LEY DE PROTECCIÓN A LA MATERNIDAD PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
