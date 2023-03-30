@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-caminos-y-puentes-del-estado-de-durango-103862"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-16"
-last_updated: "2014-11-16"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CAMINOS Y PUENTES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de noviembre de 2014.
 
@@ -319,9 +319,17 @@ Las sanciones que se señalan en este Capítulo se aplicarán sin perjuicio de l
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Caminos del Estado de Durango, expedida mediante Decreto número 46 de la 38 Legislatura, publicada en el Periódico Oficial de fecha 09 de marzo de 1930, así como sus reformas y adiciones. Los procedimientos, concesiones u otros instrumentos legales formalizados con base en dicha Ley continuaran con fundamento en la misma, hasta su conclusión o modificación convenida.
 
 El Ciudadano Gobernador Constitucional del Estado, sancionará, promulgará y dispondrá se publique, circule y observe.
 
@@ -350,3 +358,9 @@ C.P. JORGE HERRARA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MIGUEL ANGEL OLVERA ESCALERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCUOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MARZO DE 2023.
+
+> <small>[N. DE E. EL “DECRETO NO. 344.- QUE CONTIENE ADICIÓN DE UN ARTÍCULO TERCERO TRANSITORIO AL DECRETO 240, DE LA SEXAGESIMA SEXTA LEGISLATURA, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE DURANGO NÚMERO 92 DE FECHA 16 DE NOVIEMBRE DE 2014”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE DURANGO.]</small>
