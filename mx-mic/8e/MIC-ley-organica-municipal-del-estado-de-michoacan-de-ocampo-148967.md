@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2022-11-24"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -969,21 +969,25 @@ V. De Derechos Humanos y Grupos en Situación de Vulnerabilidad;
 
 VI. De la Mujer;
 
-VII. De Salud, Desarrollo Social, Juventud y Deporte;
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
 
-VIII. De Medio Ambiente, Protección Animal y Desarrollo Rural;
+VII. De la Protección de los Derechos de las Niñas, Niños y Adolescentes;
 
-IX. De Desarrollo Urbano y Obras Públicas;
+VIII. De Salud, Desarrollo Social, Juventud y Deporte;
 
-X. De Acceso a la Información Pública, Transparencia y Protección de Datos Personales;
+IX. De Medio Ambiente, Protección Animal y Desarrollo Rural;
 
-XI. De Planeación, Programación y Desarrollo Sustentable;
+X. De Desarrollo Urbano y Obras Públicas;
 
-XII. De Asuntos Indígenas, en donde existan pueblos y comunidades indígenas;
+XI. De Acceso a la Información Pública, Transparencia y Protección de Datos Personales;
 
-XIII. De Asuntos Migratorios, donde se requiera; y,
+XII. De Planeación, Programación y Desarrollo Sustentable;
 
-XIV. Las demás que, en el ámbito de la competencia municipal, el Ayuntamiento por acuerdo de las dos terceras partes de los integrantes del Cabildo, se determinen, al inicio de una administración.
+XIII. De Asuntos Indígenas, en donde existan pueblos y comunidades indígenas;
+
+XIV. De Asuntos Migratorios, donde se requiera; y,
+
+XV. Las demás que, en el ámbito de la competencia municipal, el Ayuntamiento por acuerdo de las dos terceras partes de los integrantes del Cabildo, se determinen, al inicio de una administración.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
@@ -1144,6 +1148,24 @@ VIII. Coadyuvar con la instancia municipal de la mujer para brindar atención y 
 IX. Coadyuvar de manera interinstitucional con las direcciones del municipio de manera coordinada a fin de establecer programas de educación tendientes a erradicar las diferentes expresiones de violencia de género, fomentando una cultura de paz y respeto a los derechos humanos; y,
 
 X. Las demás que le señale esta Ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+Artículo 55 bis. La Comisión para la Protección de los Derechos de las Niñas, Niños y Adolescentes tendrá las siguientes atribuciones:
+
+I. Promover que la planeación del desarrollo municipal, procure siempre la Protección de los Derechos de las Niñas, Niños y Adolescentes;
+
+II. Impulsar acciones, en favor de los Derechos de las Niñas, Niños y Adolescentes para que tengan un sano desarrollo, con respeto, tolerancia, inclusión e igualdad,
+
+III. Garantizar que las acciones y programas municipales brinden amplia protección de los derechos humanos en favor (sic) los Derechos de las Niñas, Niños y Adolescentes;
+
+IV. Impulsar las estrategias y propuestas necesarias para que sean incluidas en la planeación del desarrollo municipal y se establezca una política de fomento, desarrollo y promoción de actividades jurídicas y culturales que permitan a los habitantes la sensibilización de los Derechos de las Niñas, Niños y Adolescentes;
+
+V. Coadyuvar con las instancias y áreas competentes en la implementación, diseño y aplicación de una política pública con perspectiva de derechos humanos de la infancia y adolescencia en los órganos, entidades, mecanismos, instancias, leyes, normas, políticas, servicios y presupuestos, del Ayuntamiento, para que se respete, promueva, proteja, restituya y restablecer los derechos de las Niñas, Niños y Adolescentes;
+
+VI. Coadyuvar con las diferentes dependencias estatales y municipales que tengan como fin la protección integral de los derechos de las Niñas, Niños y Adolescentes, para que se les brinde atención y asesoría a las niñas, niños y adolescentes en situación de vulnerabilidad; y,
+
+VII. Las demás que le señale esta Ley u otras disposiciones aplicables.
 
 ###### Artículo 56.
 
@@ -1862,6 +1884,76 @@ Para el eficaz cumplimiento de sus objetivos, las unidades administrativas o ent
 Para efectos de esta Ley, se considera servicio público toda prestación que tenga por objeto satisfacer necesidades públicas, y que es realizado por la administración pública o por particulares mediante concesión otorgada por la autoridad competente.
 
 Para los municipios deberá ser prioridad la creación, recuperación mantenimiento y defensa de los espacios públicos, componentes fundamentales de la convivencia, la expresión ciudadana y la cohesión social.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+Artículo 94 bis. Los espacios públicos municipales destinados a actividades de desarrollo de la comunidad y de desarrollo humano, recreación, capacitación, actividades artísticas, culturales, deportivas o de esparcimiento, se regirán conforme a lo siguiente:
+
+I. Su operatividad es responsabilidad del Ayuntamiento;
+
+II. Su operatividad conlleva:
+
+a) Desarrollo, conservación y mantenimiento de las áreas verdes;
+
+b) Limpia y recolección de basura;
+
+c) Conservación y mantenimiento de la infraestructura e instalaciones;
+
+d) Disponibilidad de agua potable, así como para riego y drenaje;
+
+e) Instalación, conservación y reparación de alumbrado público;
+
+f) Seguridad, vigilancia, protección civil, primeros auxilios y prevención de riesgos; y,
+
+g) Las demás que requieran los espacios públicos para cumplir su fin social.
+
+III. Aquellos espacios públicos que no estén bajo la responsabilidad o vigilancia de una instancia municipal específica, quedarán bajo el cuidado de un equipo ciudadano encargado, conformado por tres vecinos de la colonia donde se encuentre el espacio público de que se trate, nombrados directamente por el Presidente Municipal;
+
+IV. El Ayuntamiento publicará un catálogo actualizado de los espacios públicos que se encuentren en operación dentro de su municipio que contenga información relativa a su ubicación, las actividades que se pueden desempeñar en ellos y la instancia municipal o equipo ciudadano encargado directamente del cuidado de cada uno de ellos;
+
+V. El Ayuntamiento asegurará la operatividad de los espacios públicos a través de las diferentes áreas municipales, en coordinación con la instancia municipal a cargo directo del cuidado del espacio público de que se trate o con el equipo ciudadano encargado, según corresponda;
+
+VI. Por ningún motivo podrán ser usados con fines de lucro;
+
+VII. En el caso de talleres, cursos, clases y cualquier otra actividad que allí se ofrezca, o en caso de que el espacio requiera mantenimiento constante de infraestructura e instalaciones, el Ayuntamiento asumirá los costos de éstos; y,
+
+VIII. El Ayuntamiento será en todo momento responsable de la operatividad y deberá expedir el reglamento de espacios públicos conforme a las normas oficiales mexicanas, mismo que contendrá al menos sus reglas de uso y horarios.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+Artículo 94 ter. El nombramiento de los vecinos encargados se regirá conforme a lo siguiente:
+
+I. En ningún caso el nombramiento de vecinos encargados deslinda al Ayuntamiento de su responsabilidad de garantizar la operatividad de los espacios públicos;
+
+II. El Presidente Municipal expedirá el nombramiento de los vecinos encargados con nombre completo, las funciones a cumplir, la fecha en que inicia dichas funciones, el espacio público que quedará a su cargo y si se trata de un cargo honorífico o remunerado, conforme a la fracción IV de este artículo;
+
+III. Cuando un ciudadano encargado sea removido por el Presidente Municipal, en el mismo acto nombrará a quien lo sustituya;
+
+IV. La función de vecino encargado será honorífica, salvo en los casos en que el espacio requiera vigilancia constante, caso en el cual podrá ser remunerado;
+
+V. Para ser ciudadano encargado se requiere:
+
+a) Residir en la colonia donde se ubique el espacio de que se trate;
+
+b) Tener al menos 18 años; y,
+
+c) No ser servidor público del municipio o autoridad auxiliar del mismo.
+
+VI. Los ciudadanos encargados tendrán las siguientes funciones:
+
+a) Vigilar que se haga un adecuado uso de las instalaciones;
+
+b) Informar al Presidente Municipal, por escrito, cualquier situación o necesidad relativa a su buena operación;
+
+c) Vigilar el buen estado, limpieza y mantenimiento de las instalaciones, y en su caso, solicitar al Ayuntamiento su intervención para tal fin;
+
+d) En su caso, tener bajo su resguardo las llaves de acceso, así como abrir y cerrar el lugar conforme los horarios establecidos por el Ayuntamiento;
+
+e) En su caso, recibir del Ayuntamiento boletaje sellado y contra recibos para el control del acceso y llevar el registro de la afluencia diaria, informar al Ayuntamiento y a la comunidad usuaria la afluencia;
+
+f) Solicitar el auxilio de seguridad pública cuando sea necesario para garantizar el uso adecuado del espacio; y,
+
+g) Organizar a los vecinos para que coadyuven en el buen estado del espacio público.
 
 ###### Artículo 95.
 
@@ -3194,3 +3286,23 @@ P.O. 24 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Dese cuenta el presente Decreto a la Presidencia de la Mesa directiva y al Presidente de la Junta de Coordinación Política, ambos de este Congreso, para el solo efecto de su conocimiento y registro correspondiente.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 342 POR EL QUE “SE ADICIONA UN ARTÍCULO 94 BIS Y UN ARTÍCULO 94 TER A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. Notifíquese a los 111 ayuntamientos del Estado de Michoacán de Ocampo, al Concejo Mayor de Cherán; y, al Concejo Municipal de Penjamillo.
+
+Segundo. Los gobiernos municipales deberán expedir la reglamentación respectiva, publicar el catálogo de espacios públicos y resolver lo conducente, conforme al presente Decreto, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Se deroga lo que se oponga al presente Decreto.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 343.- ARTÍCULO ÚNICO.- SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 50, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES Y UN ARTÍCULO 55 BIS, A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. El Titular del Poder Ejecutivo del Estado dispondrá se publique y observe.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales correspondientes.
+
+TERCERO. Se exhorta a los 111 ayuntamientos del Estado de Michoacán de Ocampo, al Concejo Mayor de Cherán; y, al Concejo Municipal de Penjamillo, para que en un plazo no mayor a 90 días naturales se integre la Comisión Municipal para la Protección de los Derechos de las Niñas, Niños y Adolescentes.
