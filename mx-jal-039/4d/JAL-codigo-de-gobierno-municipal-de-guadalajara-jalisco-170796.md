@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2023-03-13"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 13 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 30 DE MARZO DE 2023.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -6457,13 +6457,95 @@ XLIV. Regular, supervisar y sancionar, en coordinación con las dependencias cor
 
 XLV. Dictaminar el impacto de las edificaciones de mediano y alto impacto solicitando su compensación con estudios correspondientes y acciones de mitigación en su contexto inmediato;
 
-XLVI. Gestionar los cierres parciales y totales por obras, mantenimiento o evento solicitando la correcta protección de obra en los casos que la dirección lo determine, priorizando al peatón, así como difundir de manera efectiva las rutas alternas o de desvíos;
+> <small>(REFORMADA, G.M. 30 DE MARZO DE 2023)</small>
+
+XLVI. Gestionar los cierres parciales y totales por obras, mantenimiento o evento solicitando la correcta protección de obra en los casos que la dirección lo determine, priorizando la seguridad vial, así como difundir de manera efectiva las rutas alternas o de desvíos;
 
 XLVII. Dictaminar la instalación, modificación o reubicación de elementos sobre la banqueta;
 
-XLVIII. Efectuar los estudios, diseño y dictaminación de nuevos modelos de gestión de la demanda de estacionamiento; y
+> <small>(REFORMADA, G.M. 30 DE MARZO DE 2023)</small>
 
-XLIX. Analizar y expedir los dictámenes técnicos referentes a las solicitudes de licencias o permisos de anuncios y su refrendo, en el ámbito de sus atribuciones conforme a los términos de la normatividad aplicable.
+XLVIII. Efectuar los estudios, diseño y dictaminación de nuevos modelos de gestión de la demanda de estacionamiento;
+
+> <small>(REFORMADA, G.M. 30 DE MARZO DE 2023)</small>
+
+XLIX. Analizar y expedir los dictámenes técnicos referentes a las solicitudes de licencias o permisos de anuncios y su refrendo, en el ámbito de sus atribuciones conforme a los términos de la normatividad aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+L. Determinar polígonos o zonas especiales que por motivos de seguridad vial o alta demanda de estacionamiento se deban regular los ingresos y circulación de los vehículos, con la intención de garantizar la seguridad de las personas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LI. Elaborar las normas técnicas, manuales técnicos, manuales operativos y aquellos lineamientos necesarios, en materia de movilidad, transporte y seguridad vial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LII. Desarrollar y gestionar el padrón de Personas Técnicas Corresponsables Solidarias Corresponsables de la Dirección;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LIII. Proponer convenios de colaboración para la ejecución de un servicio de movilidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LIV. Proporcionar los recursos materiales y humanos necesarios para desarrollar las actividades del Consejo Ciudadano de Movilidad Activa, así mismo expedir la convocatoria dirigida a organizaciones de la sociedad civil vinculadas al desarrollo de la movilidad activa, para la integración a dicho Consejo, dentro de los primeros sesenta días, contados a partir del día siguiente en que inicie cada administración municipal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LV. Emitir dictámenes de diseño de rampas peatonales y medios mecánicos para resolver desniveles en proyectos y obras de renovación urbana;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LVI. Emitir las especificaciones y características geométricas, normas técnicas de diseño, reducción de velocidad, reducción de ruido y reducción de la contaminación atmosférica generada por el tráfico de vehículos motorizados en las vías públicas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LVII. Aprobar un diseño de red vial especial por parte de un particular, cuando por razones de topografía e hidrología no sea posible diseñar la misma, conforme a las disposiciones correspondientes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LVIII. Emitir lineamientos técnicos para el diagnóstico, identificación y evaluación de los impactos positivos y negativos sobre la movilidad y el espacio vial, derivados de las acciones urbanísticas en el Municipio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LIX. Emitir normas técnicas municipales de conformidad con las facultades señaladas en la legislación correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LX. Emitir vistos buenos, aprobar, recomendar o rechazar proyectos a partir de la evaluación del impacto en el tránsito y la integración vial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LXI. Emitir vistos buenos, aprobar equipamiento de infraestructura para las personas usuarias de la movilidad activa, y de accesibilidad universal, para los procesos de zonificación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LXII. Reducir cajones de estacionamiento a partir de los lineamientos que la dependencia emita;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LXIII. Determinar mediante la dictaminación las acciones de mitigación y compensación que deberá realizar el desarrollador como parte de los requisitos para obtener la licencia correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LXIV. Realizar el registro en el padrón de consultores, así como la actualización, renovación o baja de los mismos, por la falta de alguno de los documentos señalados, y emitir un certificado con vigencia de un año a partir del alta del consultor;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LXV. Proponer y modificar los puntos de levantamiento de información sobre volúmenes de tránsito, señalados en la solicitud del particular, así como supervisar su ejecución tal como se autorizó el levantamiento. El resultado del levantamiento de información sobre volúmenes de tránsito tendrá una vigencia de seis meses;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LXVI. Emitir dictámenes de estudios de impacto al tránsito, integración vial o ingresos y salidas, así como hacer del conocimiento los procedimientos que deberán solventar previo a la presentación de la solicitud por escrito, revisión, seguimiento y dictaminación de dichos estudios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LXVII. Autorizar las características de balizamiento que representen mayor facilidad de identificación a la población; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 30 DE MARZO DE 2023)</small>
+
+LXVIII. Autorizar en los casos que determine la utilización de postes plásticos con las características y el diseño determinadas, a efecto de garantizar al autorizado el uso de este, así como para evitar que vehículos de terceros se estacionen en el ingreso de cocheras evitando el acceso a las mismas, de conformidad a lo establecido por la Ley de Ingresos Municipal vigente.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -8304,3 +8386,13 @@ Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalaja
 Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicado el presente ordenamiento, remítase mediante oficio un tanto del mismo al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL ORDENAMIENTO POR EL QUE “SE EXPIDE EL REGLAMENTO DE MOVILIDAD, TRANSPORTE Y SEGURIDAD VIAL DE GUADALAJARA; SE ABROGAN EL REGLAMENTO DE ESTACIONAMIENTOS EN EL MUNICIPIO DE GUADALAJARA Y EL REGLAMENTO DEL CONSEJO CIUDADANO DE MOVILIDAD NO MOTORIZADA; SE REFORMAN EL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA; EL REGLAMENTO DE JUSTICIA CÍVICA DEL MUNICIPIO DE GUADALAJARA Y EL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA”.]
+
+Primero. Publíquese lo conducente del presente ordenamiento en la Gaceta Municipal de Guadalajara.
+
+Segundo. El presente ordenamiento entrará en vigor treinta días posteriores a la fecha de su publicación.
+
+Tercero. Una vez publicado el presente ordenamiento, remítase mediante oficio un tanto del mismo al Congreso del Estado de Jalisco, para los efectos ordenados en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
