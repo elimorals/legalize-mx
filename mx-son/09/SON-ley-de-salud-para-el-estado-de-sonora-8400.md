@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2021-03-16"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MARZO DE 2023.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -2029,6 +2029,10 @@ ARTICULO 148 QUATER 20.- El personal médico que, por decisión propia, deje de 
 
 ARTICULO 148 QUATER 21.- Queda prohibida, la práctica de la eutanasia, entendida como homicidio por piedad así como el suicidio asistido conforme lo señala el Código Penal Federal, bajo el amparo de esta Ley. En tal caso, se estará a lo que señalan las disposiciones penales aplicables.
 
+> <small>(ADICIONADO, B.O. 30 DE MARZO DE 2023)</small>
+
+ARTICULO 148 QUINQUIES.- Las personas profesionales, técnicas o auxiliares de las disciplinas para la salud y relacionadas con las prácticas médicas que realicen, impartan, apliquen, obliguen o financien terapias reparativas o de conversión, tratamientos o cualquier tipo de servicios o prácticas, quirúrgicas o de otra índole, con el objeto de obstaculizar, restringir, impedir, menoscabar, anular o suprimir la orientación sexual, identidad o expresión de género de una persona mediante tortura, violencia física, moral o psicoemocional que atente contra la dignidad humana, serán sancionadas en términos de lo dispuesto por los artículos 175 TER y 175 QUATER del Código Penal del Estado de Sonora, y además, serán suspendidas en el ejercicio profesional de uno a tres años. En caso de repetir dicha conducta, se le prohibirá en definitiva el ejercicio profesional correspondiente, así como la cancelación del registro de la cédula profesional respectiva.
+
 ### CAPITULO ÚNICO
 
 ## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS ALCOHOLICAS Y NO ALCOHOLICAS
@@ -3784,3 +3788,15 @@ B.O. 16 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 86, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA Y DE LA LEY DE SALUD PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Judicial del Estado de Sonora, en plazo de sesenta días naturales a partir de la entrada en vigor del presente Decreto, deberá de firmar convenios de colaboración con las autoridades de Salud y la Comisión Estatal de los Derechos Humanos para dar cumplimiento a lo dispuesto en este ordenamiento jurídico.
