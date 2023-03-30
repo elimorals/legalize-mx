@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-comision-estatal-para-la-proteccion-contra-101170"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-30"
-last_updated: "2014-05-30"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LA COMISIÓN ESTATAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el viernes 30 de mayo de 2014.
 
@@ -111,7 +111,9 @@ XIV. Difundir la información relativa respecto a los lineamientos y disposicion
 
 XV. Expedir o revocar las autorizaciones, certificados y avisos, establecidos en la Ley de Salud del Estado de Michoacán de Ocampo;
 
-XVI. Realizar la vigilancia sanitaria en los domicilios de los establecimientos comerciales o instituciones públicas; y,
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
+
+XVI. Realizar la vigilancia sanitaria en los domicilios de los establecimientos comerciales o de servicios públicos o privados, conforme a lo dispuesto en la Ley General de Salud y en la Ley de Salud del Estado de Michoacán de Ocampo, cerciorándose que corresponda al establecimiento indicado, caso contrario, debe levantar un informe detallado a fin de que se actualice el padrón de establecimientos sujetos a la legislación sanitaria y elaborará un informe trimestral, mismo que será publicado en la página de internet de la COEPPRIS (SIC) y de la Secretaría de Salud. En el caso de los establecimientos de salud, cualquiera que sea el tipo, categoría o modalidad, deberá mantener actualizado el catálogo de dichos establecimientos conforme a la normatividad aplicable y a las normas oficiales mexicanas en la materia. Además, realizará actividades de detección de establecimientos que ofrezcan servicios de salud y que no cuenten con las licencias, permisos o avisos de funcionamiento necesarios y elaborará un informe trimestral respecto a los hallazgos y a las denuncias y acciones tomadas en estos casos, mismo que será publicado en la página de internet de la COEPRIS y de la Secretaría de Salud.
 
 XVII. Las demás que señalen otras disposiciones legales aplicables.
 
@@ -266,3 +268,13 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 20 veinte días del mes de mayo del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.- EL ENCARGADO DE DESPACHO DE LA SECRETARÍA DE GOBIERNO.- LIC. MARCO VINICIO AGUILERA GARIBAY. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 347.- ARTÍCULO PRIMERO.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 202 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE MODIFICA LA FRACCIÓN XVI DEL ARTÍCULO 4 DE LA LEY DE LA COMISIÓN ESTATAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DE MICHOACÁN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Poder Ejecutivo Estatal dispondrá los recursos presupuestarios, humanos y materiales suficientes para el cumplimiento de lo mandatado en el presente Decreto.
