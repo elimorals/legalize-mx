@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2022-11-15"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -504,6 +504,26 @@ Es derecho de todo paciente recibir atención médica de emergencia por personal
 ARTÍCULO 17 A. La mujer embarazada con signos de parto o en cualquier etapa de la gestación que se encuentre y que requiera atención médica de urgencia, debe recibirla de manera prioritaria, inmediata e impostergable, por las instituciones que presten servicios de salud, privilegiando siempre la vida de la madre y de su hijo, sin que medie requerimiento económico como condicionante.
 
 Las omisiones a lo anterior, serán sancionadas en los términos que establezcan las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+ARTÍCULO 17 B. La atención materno-infantil abarca el período que va del embarazo, parto, posparto y puerperio, en razón de la condición de vulnerabilidad en que se encuentra la mujer y el producto; tiene carácter prioritario y comprende, entre otras, las acciones siguientes:
+
+I. La atención del niño y la vigilancia de su crecimiento, desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas;
+
+II. La aplicación de la prueba del tamiz metabólico neonatal, preferentemente entre el segundo y séptimo día de vida. Además, la aplicación del tamiz metabólico neonatal ampliado a todo prematuro, así como a cualquier neonato en caso de ser necesario conforme examen clínico previo;
+
+III. La revisión de retina al prematuro;
+
+IV. La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados;
+
+V. La aplicación del tamiz neonatal auditivo a todo prematuro, así como a cualquier neonato en caso de ser necesario conforme examen clínico previo, para identificar si es normal o se presenta algún grado de sordera, debiendo practicarse dentro de los veintiocho días de nacido;
+
+VI. La detección de ictericia y, en su caso conforme examen clínico previo, la aplicación del tratamiento para detener y revertir sus síntomas de inmediato;
+
+VII. La aplicación del tamiz neonatal para la detección de cardiopatías congénitas graves o críticas, antes del alta hospitalaria, durante las primeras setenta y dos horas de nacido; y,
+
+VIII. El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteposterior de pelvis, entre el primer y cuarto mes de vida.
 
 #### SECCIÓN PRIMERA. DE LA PREVENCIÓN, DIAGNÓSTICO Y ATENCIÓN DEL CÁNCER INFANTIL Y DE ADOLESCENTES
 
@@ -2003,6 +2023,10 @@ El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones q
 
 La vigilancia sanitaria se realizará mediante visitas de verificación y monitoreo de la publicidad, la cual estará a cargo del personal de verificación expresamente facultado por la autoridad sanitaria competente, el que deberá realizar las respectivas diligencias de conformidad con las prescripciones de esta Ley y demás normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+La COEPRIS, en el ámbito de competencia estatal y de acuerdo a los convenios o acuerdos celebrados con la autoridad federal en el marco de la Ley General de Salud, realizará vigilancia sanitaria en los establecimientos de salud, cualquiera que sea el tipo, categoría o modalidad. Además, proporcionará la información necesaria para que la Secretaría de Salud actualice los datos de los establecimientos de salud y sus respectivas Claves Únicas de Establecimientos de Salud ante la autoridad federal, conforme a la Ley General de Salud y a las normas oficiales mexicanas en la materia.
+
 ###### ARTÍCULO 203.
 
 Los verificadores podrán aplicar, previa autorización de la autoridad que ordenó la visita, las medidas de seguridad a que se refieren las fracciones VIII, IX, X y XIV del artículo 213 de esta Ley.
@@ -2738,3 +2762,19 @@ P.O. 15 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 210 QUE "ADICIONA LA FRACCIÓN IV BIS AL ARTPICULO 2° Y UN PÁRRAFO TERCERO AL ARTÍCULO 3°, AMBOS DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo. Notifíquese al Titular del Poder Ejecutivo del Estado, para su publicación y efectos legales.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 341.- ARTÍCULO ÚNICO.- SE ADICIONA EL ARTÍCULO 17 B A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. Notifíquese al Titular del Poder Ejecutivo del Estado para su publicación y efectos legales.
+
+Segundo. El Titular del Poder Ejecutivo del Estado de Michoacán realizará las adecuaciones administrativas y reglamentarias necesarias para dar cumplimiento al presente Decreto.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 347 POR EL QUE "SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 202 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Poder Ejecutivo Estatal dispondrá los recursos presupuestarios, humanos y materiales suficientes para el cumplimiento de lo mandatado en el presente Decreto.
