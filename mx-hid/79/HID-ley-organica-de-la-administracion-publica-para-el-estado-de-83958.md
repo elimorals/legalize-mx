@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-839
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-21"
-last_updated: "2022-12-21"
+last_updated: "2023-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -133,11 +133,15 @@ Para lo anterior considerará medidas de inclusión en el ámbito público, prom
 
 El Titular del Ejecutivo, en representación del Estado, podrá convenir con la Federación, con otras Entidades Federativas, con los Municipios, con entidades de la Administración Pública Paraestatal, con personas físicas o morales de los sectores público, social y privado, cumpliendo con las formalidades de Ley que en cada caso procedan, la prestación de servicios, la ejecución de obras o la realización de cualquier otro propósito de beneficio para el Estado; así como, otorgar concesiones para el uso y aprovechamiento de bienes del dominio público del Estado o la prestación de servicios públicos a su cargo.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2023)</small>
 
 ###### Artículo 10.
 
-El Gobernador del Estado, nombrará y removerá libremente a los servidores públicos de la Administración Pública y determinará la forma en que los titulares deban ser suplidos en sus ausencias, con las limitaciones que establezcan las leyes, procurando observar el principio de paridad de género en los nombramientos de las personas titulares de las dependencias de la Administración Pública estatal.
+La persona titular del Poder Ejecutivo estatal, nombrará y removerá libremente a los servidores públicos de la Administración Pública y determinará la forma en que los titulares deban ser suplidos en sus ausencias, con las limitaciones que establezcan las leyes, debiendo observar el principio de paridad de género en los nombramientos de las personas titulares de las dependencias de la Administración Pública estatal.
+
+La persona titular del Poder Ejecutivo estatal tendrá la obligación de garantizar el acceso a personas con discapacidad para ocupar los puestos titulares de las dependencias y entidades de la administración pública, al menos en un porcentaje total que refleje la presencia de personas de este grupo social en el estado de Hidalgo, conforme a los datos censales más recientes.
+
+Asimismo, las designaciones se ajustarán a los principios básicos de protección de los derechos humanos, y dará preferencia a postulaciones que contribuyan a asegurar una correcta y plena representación de grupos sociales históricamente vulnerados.
 
 ###### Artículo 11.
 
@@ -1529,6 +1533,10 @@ VII.- Promover la conciliación de los conflictos que surjan entre trabajadores 
 
 VIII.- Formular, fomentar, coordinar y ejecutar políticas y programas en materia laboral en el Estado, tendientes a la protección y mejoramiento de las condiciones laborales de los trabajadores;
 
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
+
+VIII Bis.- Promover el derecho al trabajo de las personas con discapacidad en un marco de igualdad y equidad de oportunidades.
+
 IX.- (DEROGADA, P.O. 31 DE JULIO DE 2018)
 
 X.- Llevar el registro de las asociaciones obreras, patronales y profesionales de jurisdicción Estatal;
@@ -2080,3 +2088,15 @@ NOVENO. Todas las referencias de (sic) Fiscalía General de Justicia del Estado 
 DÉCIMO. Se abroga la Ley para la Administración de Bienes Asegurados, Decomisados o Abandonados para el Estado de Hidalgo, publicada en el Periódico Oficial del Estado de Hidalgo en fecha 10 de noviembre de 2014.
 
 DÉCIMO PRIMERO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan al mismo.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 239 POR EL QUE SE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 37 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 488, POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO, LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y, LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
