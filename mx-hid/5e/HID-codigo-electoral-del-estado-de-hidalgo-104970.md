@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2022-11-24"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -99,9 +99,13 @@ La promoción de la participación ciudadana para el ejercicio del derecho al su
 
 El Instituto Estatal Electoral, en el ámbito de sus atribuciones, dispondrá lo necesario para asegurar el cumplimiento de las normas establecidas y de las demás dispuestas en este Código.
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2023)</small>
 
-En el cumplimiento de estas obligaciones se promoverá la igualdad sustantiva entre mujeres y hombres y se prohibirá la discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+En el cumplimiento de estas obligaciones se promoverá la igualdad sustantiva entre mujeres y hombres y se prohibirá la discriminación motivada por origen étnico o nacional, orientación sexual, identidad y/o expresión de género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+Las personas con discapacidad tienen derecho a la participación en política. Para ello, el Instituto Estatal Electoral garantizará que, en los procedimientos, instalaciones y materiales electorales, creados para ejercer el derecho al sufragio, se implementen ajustes razonables, de manera que sean apropiados, accesibles, fáciles de entender y utilizar, procurando en todo momento la máxima independencia posible para ejercer sus derechos políticos. Se entiende por ajustes razonables, al concepto previsto por la fracción XII del artículo 5 de la Ley Integral para las personas con discapacidad del estado de Hidalgo.
 
 > <small>(REFORMADO, P.O. 20 DE JULIO DE 2020)</small>
 
@@ -178,6 +182,14 @@ Votar y ser votado en las elecciones constituye un derecho y una obligación de 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
 
 ASÍ MISMO ES UN DERECHO Y UNA OBLIGACIÓN DE LA CIUDADANÍA VOTAR EN LAS CONSULTAS POPULARES SOBRE TEMAS DE TRASCENDENCIA ESTATAL Y EN LOS PROCESOS DE PARTICIPACIÓN CIUDADANA PREVISTOS EN ESTE CÓDIGO Y EN LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE HIDALGO.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+En el ejercicio de los derechos políticos de la ciudadanía hidalguense, serán respetados los derechos humanos y deberá evitarse cualquier forma de discriminación, por lo que toda autoridad deberá asegurar la inclusión plena de todas las personas.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+En los casos previstos por este Código, la postulación de personas con discapacidad será acorde con los lineamientos establecidos por la Clasificación Internacional del Funcionamiento de la Discapacidad y la Salud, así como lo previsto en la legislación de la materia, por lo que el Consejo General propondrá la instalación de un Comité integrado por la Comisión Estatal de Derechos Humanos y por miembros de la sociedad civil organizada, quienes en conjunto emitirán su opinión por cada postulación, a fin de contar con elementos acordes al modelo social de discapacidad.
 
 ###### Artículo 5.
 
@@ -319,11 +331,13 @@ De conformidad con lo dispuesto en los artículos 61 y 62 de la Constitución Po
 
 Como lo establecen los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos y 115, 116, 122, 123 y 124 de la Constitución Política del Estado de Hidalgo, el Municipio libre es la base de la división territorial y de la organización política y de gobierno. La elección de los miembros integrantes del Ayuntamiento se hará por planillas.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2023)</small>
 
-Los partidos políticos, al integrar sus planillas, deberán registrar por lo menos a un ciudadano que sea menor de 30 años al día de la elección como candidato propietario y su suplente, mismo que deberá ocupar uno de los cuatro primeros lugares de la planilla respectiva.
+Los partidos políticos y las candidaturas independientes, al integrar sus planillas, deberán registrar por lo menos a un ciudadano que sea menor de 30 años al día de la elección como candidato propietario y su suplente, mismo que deberá ocupar uno de los cuatro primeros lugares de la planilla respectiva.
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+Por su parte, los partidos políticos y las candidaturas independientes también deberán postular una fórmula completa para personas con discapacidad en cualquier lugar de la planilla por el principio de Mayoría Relativa en aquellos municipios de hasta 50,000 habitantes, y dos fórmulas completas en municipios de más de 50,000 habitantes.
 
 ### CAPÍTULO II. DE LOS DIPUTADOS, SÍNDICOS Y REGIDORES
 
@@ -415,23 +429,21 @@ II. Organizaciones con objeto social diferente a la creación de partidos; y
 
 III. Cualquier forma de afiliación corporativa.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2023)</small>
 
-Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y garantizarán la participación efectiva de ambos géneros en la integración de sus órganos de dirección de nivel estatal y municipal, en la postulación de candidaturas, así como en la distribución de todas las prerrogativas entre mujeres y hombres de forma paritaria.
+Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños, adolescentes y la ciudadanía en general, y garantizarán la participación efectiva de todas las personas sin prejuicios derivados de su orientación sexual, identidad y/o expresión de género, origen étnico, edad, discapacidad, condición social, credo, ni ningún otro que vaya en contra de los derechos humanos fundamentales. Los partidos políticos asegurarán la participación y representación política plena de todos los grupos sociales para la integración de sus órganos de dirección de nivel estatal y municipal, en la postulación de candidaturas, así como en la distribución de todas las prerrogativas entre todos los grupos sociales, respetando el principio paritario.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2023)</small>
 
-Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a Diputadas y Diputados Locales y Ayuntamientos. Estos deberán ser objetivos y asegurar condiciones de igualdad sustantiva entre mujeres y hombres.
+Cada partido político determinará y hará públicos los criterios para garantizar la igualdad de acceso a los derechos políticos de las mujeres, hombres, personas indígenas, de la juventud y de personas con discapacidad en las candidaturas a Diputadas y Diputados Locales y Ayuntamientos. Estos deberán ser objetivos y asegurar condiciones de igualdad sustantiva entre todas las personas.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2023)</small>
 
-En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente a aquellos distritos electorales locales y municipios en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral local anterior, según corresponda.
+En ningún caso se admitirán criterios que tengan como resultado que a algún grupo social que ha sido subrepresentado le sean asignados exclusivamente aquellos distritos electorales locales y municipios en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral local anterior, según corresponda.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA EL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
-
-PARA CUMPLIR LO ANTERIOR, EL CONSEJO GENERAL POR CONDUCTO DE LA PRESIDENCIA ENTREGARÁ A MÁS TARDAR EL 15 DE OCTUBRE DEL AÑO PREVIO A LA ELECCIÓN, A LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS ACREDITADOS LOS PORCENTAJES DE VOTACIÓN DE RENTABILIDAD ASÍ COMO EL DE COMPETITIVIDAD Y EL MÉTODO DE OBTENCIÓN DE LOS RESULTADOS ELECTORALES DEFINITIVOS DE CADA PARTIDO POLÍTICO POR DISTRITO ELECTORAL Y MUNICIPIO, CORRESPONDIENTES A LA ÚLTIMA ELECCIÓN DE QUE SE TRATE; QUEDANDO A ELECCIÓN DE CADA PARTIDO POLÍTICO, EL PROCEDIMIENTO A UTILIZAR PARA SU PARTICIPACIÓN ELECTORAL, TAMBIÉN DEBERÁ ENTREGAR LOS CRITERIOS DE PARIDAD DE GÉNERO Y POSTULACIÓN INDÍGENA, CON BASE A LO ESTABLECIDO EN EL PRESENTE CÓDIGO.
+Para cumplir lo anterior, el Consejo General por conducto de la Presidencia entregará a más tardar el 15 de octubre del año previo a la elección, a los Representantes de los Partidos Políticos acreditados los porcentajes de votación de rentabilidad así como el de competitividad y el método de obtención de los resultados electorales definitivos de cada partido político por distrito electoral y municipio, correspondientes a la última elección de que se trate; quedando a elección de cada partido político, el procedimiento a utilizar para su participación electoral, también deberá entregar los criterios de paridad de género, postulación de personas indígenas, personas con discapacidad y personas de la diversidad sexual, con base a lo establecido en el presente Código.
 
 ###### Artículo 22.
 
@@ -509,21 +521,21 @@ IX. Conducir en todo momento sus actividades dentro de los cauces legales, sujet
 
 X. Someterse al procedimiento para la liquidación de los partidos políticos locales que pierdan su registro y reintegrar sus bienes y remanentes, en términos de lo dispuesto en el artículo 40 de este Código;
 
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
 
-X (SIC). Prevenir, atender, sancionar y en su caso erradicar, al interior del partido político, los actos u omisiones que constituyan violencia política en razón de género;
+XI. Prevenir, atender, sancionar y en su caso erradicar, al interior del partido político, los actos u omisiones que constituyan violencia política en razón de género o discriminación de cualquier tipo;
 
-> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
 
-XII. Abstenerse de limitar, condicionar, excluir, impedir o anular la pretensión de participación de una persona en razón de género en sus órganos internos de dirección, precandidaturas, candidaturas o espacios de toma de decisiones, así como en los ámbitos legislativo o ejecutivo;
+XII. Abstenerse de limitar, condicionar, excluir, impedir o anular la pretensión de participación de una persona por cuestiones étnicas, orientación sexual, identidad y/o expresión de género, de discapacidad o condición social en sus órganos internos de dirección, precandidaturas, candidaturas o espacios de toma de decisiones, así como en los ámbitos legislativo o ejecutivo;
 
-> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
 
-XIII. Garantizar en igualdad de condiciones la participación de mujeres y hombres en sus órganos internos de dirección y espacios de toma de decisiones;
+XIII. Garantizar en igualdad de condiciones, la participación de todas las personas sin prejuicio alguno en sus órganos internos de dirección y espacios de toma de decisiones;
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
 
-XIII Bis. Distribuir, de manera paritaria y equitativa, todas las prerrogativas a que tienen derecho los partidos políticos conforme al presente Código;
+XIII Bis. Distribuir, de manera paritaria, equitativa e inclusiva, todas las prerrogativas a que tienen derecho los partidos políticos conforme al presente Código;
 
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
 
@@ -532,6 +544,10 @@ XIV. Abstenerse en su propaganda política o electoral, de cualquier expresión 
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
 
 XV. Abstenerse de cualquier acto u omisión, que limite, condicione, excluya, impida o anule el ejercicio efectivo de los derechos político electorales de las personas y su acceso o pleno ejercicio de las atribuciones inherentes a su cargo o función partidista;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
+
+XV Bis. A la inclusión, representación y protección de los derechos humanos de todas las personas en la creación y emisión de todo tipo de documentos internos, procesos de selección y designación de personal y de precandidaturas y candidaturas; y
 
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
 
@@ -635,13 +651,17 @@ d. PARA EL DESARROLLO DE LAS ACTIVIDADES ESPECÍFICAS, A QUE SE REFIERE LA FRACC
 
 e. Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente al menos, el ocho por ciento del financiamiento público ordinario;
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2023)</small>
 
-e Bis. Para la capacitación, promoción y el desarrollo del liderazgo político de los jóvenes, cada partido político deberá destinar anualmente al menos, el tres por ciento del financiamiento público ordinario.
+e Bis. Para la capacitación, promoción y el desarrollo del liderazgo político de los jóvenes, cada partido político deberá destinar anualmente al menos, el tres por ciento del financiamiento público ordinario;
 
-Para efectos de los incisos e y e Bis deberá informar trimestralmente y en términos cualitativos su aplicación a efecto de que, conforme a la Ley General de Partidos Políticos, así como las demás disposiciones aplicables, el Instituto Estatal Electoral verifique su cumplimiento.
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
 
-En caso de incumplimiento, las autoridades competentes determinarán las sanciones correspondientes; y
+e Ter. Para la promoción, protección y aseguramiento pleno del ejercicio de los derechos humanos de las personas con discapacidad, cada partido político deberá destinar anualmente al menos, el tres por ciento del financiamiento público ordinario;
+
+Para efectos de los incisos e, e Bis y e Ter deberá informar trimestralmente y en términos cualitativos su aplicación a efecto de que, conforme a la Ley General de Partidos Políticos, así como las demás disposiciones aplicables, el Instituto Estatal Electoral verifique su cumplimiento.
+
+En caso de incumplimiento las autoridades competentes determinarán las sanciones correspondientes; y
 
 (NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA EL INCISO F DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1281,11 +1301,15 @@ XI. Aprobar la solicitud, así como los términos y condiciones del convenio, qu
 
 XII. Con la información proporcionada por el Registro Federal de Electores, ordenar la publicación en el Periódico Oficial, de la división seccional de los distritos y municipios de la Entidad;
 
-XIII. Nombrar o remover a propuesta del Presidente del Consejo General del Instituto Estatal Electoral, a los Consejeros Electorales propietarios y suplentes ante los consejos distritales y municipales, por votación mayoritaria de los consejeros presentes;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
+
+XIII. Nombrar o remover a propuesta del Presidente del Consejo General del Instituto Estatal Electoral, a los Consejeros Electorales propietarios y suplentes ante los consejos distritales y municipales, por votación mayoritaria de los consejeros presentes; en la integración de los consejos distritales y municipales, el Consejo General otorgará preferencia a personas con discapacidad que reúnan los requisitos correspondientes;
 
 XIV. Determinar el mes base para insacular a los ciudadanos inscritos en la lista nominal y supervisar el procedimiento para integrar las mesas directivas de casilla; en elecciones concurrentes con elecciones federales, si fuera el caso, esta atribución se ejercerá por delegación expresa del Instituto Nacional Electoral;
 
-XV. Aprobar los programas de cursos de capacitación electoral así como de educación cívica que deberá impartir la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica, desarrollar y ordenar la ejecución de los programas de educación cívica y cultura democrática. Esta atribución se desplegará respecto a la capacitación electoral solo en los casos que exista delegación expresa del Instituto Nacional Electoral y siguiendo los lineamientos establecidos por dicho Instituto;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
+
+XV. Aprobar los programas de cursos de capacitación electoral, así como de educación cívica que deberá impartir la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica, desarrollar y ordenar la ejecución de los programas de educación cívica, cultura democrática, de paridad de género y el respeto de los derechos humanos de las mujeres y de las personas con discapacidad, en el ámbito político y electoral;
 
 XVI. Aprobar y emitir la convocatoria, recibir y aprobar las solicitudes y las modalidades de actuación de los observadores electorales, según lo establecido en el presente Código y de acuerdo con los lineamientos y criterios que emita el Instituto Nacional Electoral;
 
@@ -1305,7 +1329,9 @@ XXIII. Realizar el cómputo y declaración de validez de la elección de Goberna
 
 XXIV. Aprobar los formatos de las constancias de mayoría de Gobernador, de Diputados por ambos principios y de integrantes de los Ayuntamientos;
 
-XXV. Realizar la asignación de los Diputados y regidores de representación proporcional, y en los casos que corresponda de Síndicos de primera minoría, extendiendo las constancias respectivas e informando al Congreso del Estado;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
+
+XXV. Realizar la asignación de los Diputados y regidores de representación proporcional, y en los casos que corresponda de Síndicos de primera minoría, extendiendo las constancias respectivas e informando al Congreso del Estado. Si en las diputaciones no hubiera sido electa bajo el principio de mayoría relativa alguna fórmula integrada por personas con discapacidad, en las asignaciones deberá garantizarse el acceso al cargo de personas con discapacidad;
 
 XXVI. Aprobar el número y ubicación de las casillas especiales y el número de boletas electorales a utilizarse en las mismas, así como el número y ubicación de los centros de acopio necesarios para la mejor recepción de los paquetes y sobres electorales en los casos de elecciones concurrentes con la federación, esta atribución se desarrollará conforme lo disponga o se convenga con el Instituto Nacional Electoral;
 
@@ -1317,11 +1343,17 @@ XXVII. Ordenar la publicación en el Periódico Oficial del Estado de los nombre
 
 XXVIII. INVESTIGAR LOS HECHOS RELACIONADOS CON EL PROCESO ELECTORAL Y DE MANERA ESPECIAL LOS QUE SE DENUNCIEN COMO ACTOS VIOLATORIOS EN AGRAVIO DE SUS CANDIDATOS, MIEMBROS O PROPAGANDA; ASÍ COMO LOS HECHOS RELACIONADOS CON LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO;
 
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
+
+XXVIII Bis. Vigilar que en la propaganda electoral que produzcan y difundan los partidos políticos, coaliciones, candidaturas comunes, candidatas y candidatos registrados a precampañas y campañas, se utilice lenguaje que garantice la accesibilidad comunicativa hacia las personas con discapacidad, para ser utilizada y difundida durante las actividades de precampaña y campaña;
+
 XXIX. Solicitar el auxilio de la fuerza pública para garantizar el desarrollo del proceso electoral;
 
 XXX. Resolver los recursos de su competencia en los términos de este Código;
 
-XXXI. Nombrar y remover a los coordinadores electorales distritales y municipales, así como Supervisores y Asistentes Electorales,
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
+
+XXXI. Nombrar y remover a los coordinadores electorales distritales y municipales, así como Supervisores y Asistentes Electorales. El Consejo General otorgará preferencia a las personas con discapacidad que reúnan los requisitos correspondientes;
 
 XXXII. Informar al Tribunal Electoral Estatal sobre aspectos que resulten relevantes para el cumplimiento de las atribuciones que le corresponden;
 
@@ -1371,9 +1403,9 @@ XLVI Bis. Promover, con fundamento en las disposiciones normativas de la materia
 
 XLVII. Aprobar el calendario integral del proceso electoral, a propuesta de la Junta Estatal Ejecutiva;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
 
-XLVIII. Aprobar la celebración de los debates entre candidatas y/o candidatos expidiendo los lineamientos generales que deberán aplicarse, con un amplio sentido de igualdad e inclusión.
+XLVIII. Aprobar la celebración de debates entre candidatos expidiendo los lineamientos generales que deberán aplicarse. En los debates deberá procurarse el uso de lenguaje que garantice la accesibilidad comunicativa hacia las personas con discapacidad;
 
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -2042,6 +2074,10 @@ II. Un Representante por cada partido político y, en su caso, un Representante 
 ###### Artículo 83.
 
 Los Consejeros Electorales de los Consejos Distritales y Municipales Electorales serán electos por el Consejo General a través de Convocatoria Pública y designados por éste.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+En caso de que una persona con discapacidad haya sido postulada para ocupar el cargo y exista un empate en la evaluación realizada, recibirá preferencia para su designación.
 
 ###### Artículo 84.
 
@@ -3476,6 +3512,10 @@ II. Obtener cuando menos el 3% de la votación estatal emitida en el Estado;
 III. Registrar en lo individual, fórmulas de candidatos de mayoría relativa, en cuando menos 12 distritos electorales uninominales; y
 
 IV. Garantizar la paridad de género en sus candidaturas.
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
+
+V. Garantizar en al menos una de las doce fórmulas a diputaciones por el principio de representación proporcional a asignar, el acceso al cargo de personas con discapacidad.
 
 ###### Artículo 208.
 
@@ -6500,5 +6540,11 @@ P.O. 27 DE OCTUBRE DE 2022.
 P.O. 24 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 294 QUE ADICIONA EL INCISO A BIS, DE LA FRACCIÓN II, DEL ARTÍCULO 79 DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 488 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO, LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y, LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
