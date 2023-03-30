@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2023-03-06"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MARZO DE 2023.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -503,9 +503,9 @@ Para que proceda lo que se prevé en esta fracción, será necesario que el ofen
 
 En los supuestos de las fracciones II y III, cuando el responsable de resarcir daños carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, tendrá la obligación de proporcionar a la víctima los tratamientos y cuidados necesarios para su recuperación, en términos de la Ley de Atención y Protección a Víctimas del Delito, la Ley de Prevención y Atención de la Violencia Familiar para el Estado de Sonora, y en su caso, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora.
 
-> <small>(REFORMADO, B.O. 29 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
 
-ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: Violación a la Intimidad contemplado en el artículo 167 BIS de este Código, corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia familiar, acoso sexual, abusos deshonestos, privación ilegal de libertad, homicidio, feminicidio, chantaje, hostigamiento sexual, delitos contra la autoridad, delitos contra la intimidad personal, y fraude familiar.
+ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: Violación a la Intimidad contemplado en el artículo 167 BIS de este Código, corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia familiar, acoso sexual, abusos deshonestos, privación ilegal de libertad, homicidio, feminicidio, chantaje, hostigamiento sexual, delitos contra la autoridad, delitos contra la intimidad personal, fraude familiar y el delito contemplado en el artículo 175 TER de este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -2211,9 +2211,9 @@ Al que dé en arrendamiento una finca, teniendo conocimiento de que será destin
 
 Al que provoque públicamente a cometer un delito, haga la apología de éste o de algún vicio, se le aplicará, si el delito no se ejecutare, de diez a ciento ochenta jornadas de trabajo en favor de la comunidad; en caso contrario, se aplicará al provocador la sanción que corresponda por su participación en el delito cometido.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE MARZO DE 2023)</small>
 
-### CAPITULO V. DISCRIMINACIÓN
+### CAPITULO V. DISCRIMINACIÓN Y LIBRE DESARROLLO DE LA PERSONALIDAD, SEXUALIDAD, ORIENTACIÓN SEXUAL, IDENTIDAD Y EXPRESIÓN DE GÉNERO DE LAS PERSONAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE MARZO DE 2023)</small>
 
@@ -2254,6 +2254,30 @@ Cuando las conductas a que se refiere este artículo sean cometidas por persona 
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2016)</small>
 
 Este delito se perseguirá por querella.
+
+> <small>(ADICIONADO, B.O. 30 DE MARZO DE 2023)</small>
+
+ARTICULO 175 TER.- Se impondrá de dos a seis años de prisión y multa de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización a quien realice, imparta, aplique, obligue o financie cualquier tipo de terapia reparativa o de conversión, tratamiento, servicio o práctica que obstaculice, restrinja, impida, menoscabe, anule o suprima la orientación sexual, identidad o expresión de género de una persona mediante tortura, violencia física, moral o psicoemocional que atente contra la dignidad humana. La persecución de este delito se iniciará por denuncia.
+
+Se aumentará al doble la sanción prevista en el párrafo que precede, cuando las conductas tipificadas se realicen en contra de personas menores de dieciocho años, adultos mayores o personas con cualquier tipo de discapacidad física o mental.
+
+Las sanciones señaladas en el primer párrafo de este artículo se aumentarán al doble de la que corresponda, cuando la persona autora tuviere para con la víctima, alguna de las relaciones que a continuación se enuncian o bien, se sitúen en alguno de los siguientes supuestos:
+
+a) Relación laboral, docente, doméstica, médica o cualquier otra que implique una subordinación de la víctima;
+
+b) Quien se valga de función pública para cometer el delito; y
+
+c) Ministro de culto, y
+
+d) Cuando la persona autora emplee violencia física, psicológica o moral en contra de la víctima.
+
+En los casos de los incisos a) y b), además de las sanciones señaladas, se castigará con destitución e inhabilitación para desempeñar el cargo o comisión o cualquiera otro de carácter público o similar, hasta por un tiempo igual a la pena impuesta.
+
+Además de todo lo anterior, la persona sentenciada deberá recibir capacitación y sensibilización en materia de derechos humanos enfocado en temas de discriminación y libre desarrollo de la personalidad, sexualidad, orientación sexual, identidad y expresión de género, cuya duración no podrá ser mayor a 6 meses.
+
+> <small>(ADICIONADO, B.O. 30 DE MARZO DE 2023)</small>
+
+ARTICULO 175 QUATER.- Para efecto de determinar el daño material ocasionado al libre desarrollo de la personalidad, se estará a lo dispuesto en el Capítulo VII del Título Segundo del Libro Primero de este Código.
 
 ## TITULO SEXTO. REVELACION DE SECRETOS
 
@@ -4647,6 +4671,30 @@ ARTICULO 308 BIS D.- Comete el delito de robo de vehículo de propulsión mecán
 
 ARTICULO 308 BIS-E.- Los dependientes, colaboradores y propietarios de las casas de empeño, yunques, recicladoras, empresas dedicadas a la compraventa de metales preciosos, cobre, acero y demás metales de valor; así como, establecimientos de cualquier tipo que reciban productos que sean canjeables por dinero, de los conocidos como tianguis y similares, deberán identificar plenamente a los deudores prendarios o vendedores y que comprueben la procedencia legítima de las prendas o artículos que reciban por medio de facturas o notas, cualquier comprobante fehaciente que demuestre que el objeto no es producto de una actividad ilícita o, en caso de no poder acreditar la legítima procedencia del bien, cumplir con todos los requisitos establecidos en la Ley que determina las bases de operación de las casas de empeño del Estado de Sonora, en el entendido que los contratos de adhesión autorizados por la Procuraduría Federal del Consumidor y que son utilizados para formalizar las operaciones prendarias con los clientes, serán válidos para acreditar dichos requisitos y Ley que regula el funcionamiento y operación de yunques y recicladoras del Estado de Sonora respectivamente, de lo contrario serán sancionados con prisión de un mes a nueve años y con multa de una a doscientas cincuenta unidades de media y actualización.
 
+> <small>(ADICIONADO, B.O. 30 DE MARZO DE 2023)</small>
+
+ARTICULO 308 BIS F.- Se equipara al delito de robo de vehículo de propulsión mecánica, y se sancionará con la pena prevista en el Artículo 308 de éste Código, a quien tras arrendar un vehículo de propulsión mecánica desvíe el uso para el que le fue entregado por el arrendador, por alguna de las circunstancias siguientes:
+
+I.- Lo desmantele o comercialice conjunta o separadamente sus partes;
+
+II.- Lo enajene, trafique, permute o realice cualquier transacción de traslado de dominio respecto de un vehículo de propulsión mecánica a sabiendas de su procedencia ilícita;
+
+III.- Altere, modifique, elabore o reproduzca, de cualquier manera, la documentación que acredite la propiedad o datos de identificación o la documentación que acredite el pago de derechos hacendarios, sin la autoridad de su propietario y/o de la autoridad competente para hacerlo;
+
+IV.- Altere o modifique de cualquier manera la serie del vehículo o ejecute actos tendientes a ocultar su identidad original;
+
+V.- Traslade el vehículo de propulsión mecánica a otra entidad federativa o al extranjero, sin la autorización de su propietario;
+
+VI.- Utilice el vehículo de propulsión mecánica en la comisión de otro u otros delitos dolosos;
+
+A quien aporte recursos económicos o de cualquier índole para la ejecución de las actividades descritas en las fracciones anteriores, se le considerará copartícipe en términos del artículo 11 de este Código.
+
+Si además de las hipótesis delictivas previstas en este artículo resultare cometido otro u otros delitos, se aplicarán las reglas relativas al concurso de delitos.
+
+> <small>(ADICIONADO, B.O. 30 DE MARZO DE 2023)</small>
+
+ARTICULO 308 BIS G.- El delito a que se refiere el artículo 308 BIS F se sancionará con pena de prisión de diez a veinte años cuando se haya utilizado documentación y/o identidad falsa para concretar la renta del vehículo de propulsión mecánica arrendado.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 25 DE ENERO DE 2018)</small>
 
 ###### ARTICULO 309.
@@ -5994,6 +6042,26 @@ B.O. 6 DE MARZO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 86, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA Y DE LA LEY DE SALUD PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Judicial del Estado de Sonora, en (sic) plazo de sesenta días naturales a partir de la entrada en vigor del presente Decreto, deberá de firmar convenios de colaboración con las autoridades de Salud y la Comisión Estatal de los Derechos Humanos para dar cumplimiento a lo dispuesto en este ordenamiento jurídico.
+
+B.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 98, QUE ADICIONA LOS ARTÍCULOS 308 BIS F Y 308 BIS G AL CÓDIGO PENAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ###### ARTICULO QUINTO.
 
