@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-a-los-no-fumadores-para-el-estado-de-51130"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-29"
-last_updated: "2021-07-04"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN A LOS NO FUMADORES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 2006.
 
@@ -91,23 +91,29 @@ V. Denuncia Ciudadana.- La que realiza cualquier persona respecto de los hechos 
 
 VI. Establecimiento.- El espacio cerrado con acceso al público, independientemente de la actividad a que se destine;
 
-VII. Entes Públicos.- El Poder Legislativo del Estado, y cualquiera de sus dependencias; El Poder Ejecutivo del Estado y todas las dependencias y entes de la administración pública estatal y paraestatal; el Poder Judicial del Estado y todos sus órganos; los Tribunales Estatales Autónomos; los Ayuntamientos de los municipios y todas las dependencias y entidades de la administración pública municipal y paramunicipal; y los órganos autónomos previstos en la constitución y en las leyes estatales reconocidos como de interés público;
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
 
-VIII. Espacio cerrado de acceso al público.- Todo aquél en el que hacia su interior no circula de manera libre el aire natural. Las ventanas, puertas, ventilas y demás orificios o perforaciones en delimitaciones físicas, no se considerarán espacios para la circulación libre de aire natural;
+VII. Emisión: Es la sustancia producida y liberada cuando un producto del tabaco esté encendido o calentado, comprende nicotina, alquitrán, monóxido de carbono, así como la composición química que forman parte del humo de tabaco. En el caso de productos del tabaco para uso oral sin humo, se entiende como todas las sustancias liberadas durante el proceso de mascado o chupado y en el caso de productos del tabaco para uso nasal, son todas las sustancias liberadas durante el proceso de inhalación o aspiración;
+
+VIII. Entes Públicos.- El Poder Legislativo del Estado, y cualquiera de sus dependencias; El Poder Ejecutivo del Estado y todas las dependencias y entes de la administración pública estatal y paraestatal; el Poder Judicial del Estado y todos sus órganos; los Tribunales Estatales Autónomos; los Ayuntamientos de los municipios y todas las dependencias y entidades de la administración pública municipal y paramunicipal; y los órganos autónomos previstos en la constitución y en las leyes estatales reconocidos como de interés público;
+
+IX. Espacio cerrado de acceso al público.- Todo aquél en el que hacia su interior no circula de manera libre el aire natural. Las ventanas, puertas, ventilas y demás orificios o perforaciones en delimitaciones físicas, no se considerarán espacios para la circulación libre de aire natural;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2021)</small>
 
-IX. Espacio 100% libre de humo de tabaco.- El establecimiento, todo lugar de trabajo interior o transporte público, escolar, de personal, los vehículos oficiales de los entes públicos, así como las áreas naturales protegidas, en los que queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco;
+X. Espacio 100% libre de humo de tabaco.- El establecimiento, todo lugar de trabajo interior o transporte público, escolar, de personal, los vehículos oficiales de los entes públicos, así como las áreas naturales protegidas, en los que queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco;
 
-X. Humo de Tabaco.- Las emisiones de los productos de tabaco originadas por encender o consumir cualquier producto del tabaco y que afectan al no fumador;
+XI. Humo de Tabaco.- Las emisiones de los productos de tabaco originadas por encender o consumir cualquier producto del tabaco y que afectan al no fumador;
 
-XI. Promoción de la salud.- Las acciones tendientes a desarrollar actitudes y conductas que favorezcan estilos de vida saludables en la familia, el trabajo y la comunidad;
+XII. Promoción de la salud.- Las acciones tendientes a desarrollar actitudes y conductas que favorezcan estilos de vida saludables en la familia, el trabajo y la comunidad;
 
-XII. Reincidencia.- La violación a las disposiciones de esta Ley o su Reglamento, dos o más veces, dentro del periodo de un año calendario, contado a partir de la notificación de la sanción inmediata anterior;
+XIII. Reincidencia.- La violación a las disposiciones de esta Ley o su Reglamento, dos o más veces, dentro del periodo de un año calendario, contado a partir de la notificación de la sanción inmediata anterior;
 
-XIII. Secretaría.- La Secretaría de Salud del Estado de Durango, y
+XIV. Secretaría.- La Secretaría de Salud del Estado de Durango, y
 
-XIV. Zona exclusiva para fumar.- Los espacios destinados para fumadores que deben cumplir los requisitos señalados en esta Ley.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
+
+XV. Zona exclusiva para fumar.- Los espacios destinados para fumadores que deben cumplir los requisitos señalados en esta Ley
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
@@ -181,7 +187,9 @@ Corresponde a la Secretaría de Salud:
 
 I. Vigilar el cumplimiento de las disposiciones previstas en la presente Ley;
 
-II. Realizar campañas permanentes de información, concientización y difusión a la población en general, para prevenir el uso y consumo de tabaco;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
+
+II. Realizar campañas permanentes de información, concientización y difusión a la población en general, para prevenir el uso y consumo de tabaco y emisiones.
 
 III. Promover espacios 100% libres de humo de tabaco;
 
@@ -223,13 +231,17 @@ Corresponde a los juzgados administrativos municipales, conocer de las infraccio
 
 ### CAPÍTULO III. DE LA PROTECCIÓN A LOS NO FUMADORES
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2023)</small>
 
 ###### Artículo 12.
 
-En el Estado de Durango por razones de orden público e interés social, queda prohibido fumar, consumir o encender cualquier producto del tabaco en los espacios 100% libres de humo de tabaco.
+En el Estado de Durango por razones de orden público e interés social, queda prohibido fumar, consumir o encender cualquier producto del tabaco y emisiones en los espacios 100% libres de humo de tabaco.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 Corresponde a la Secretaría, con la participación del Consejo Estatal Contra las Adicciones, otorgar el Certificado de Espacio 100% Libre de Humo de Tabaco, en los términos de esta Ley.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 Los propietarios, poseedores, administradores o responsables de los espacios 100% libres de humo de tabaco, podrán establecer zonas exclusivas para fumar, mismas que deberán cumplir los requisitos establecidos en la presente Ley.
 
@@ -285,13 +297,17 @@ En caso de incumplimiento, se exhortará al infractor que se abstenga de realiza
 
 Los mecanismos y procedimientos que garanticen la eficacia en la aplicación de la medida referida en el párrafo anterior, quedarán establecidos en el reglamento respectivo.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2023)</small>
 
 ###### Artículo 18.
 
-Los propietarios, poseedores o responsables de los vehículos que presten servicio público, transporte escolar o de personal y los vehículos oficiales de los entes públicos, deberán fijar, en el interior y exterior de los mismos, letreros, logotipos o emblemas que indiquen que se trata de un espacio 100% libre de humo de tabaco.
+Los propietarios, poseedores o responsables de los vehículos que presten servicio público, transporte escolar o de personal y los vehículos oficiales de los entes públicos, deberán fijar, en el interior y exterior de los mismos, letreros, logotipos o emblemas que indiquen que se trata de un espacio 100% libre de humo de tabaco y emisiones.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 En caso de que algún pasajero incumpla con la prohibición de fumar, el conductor procederá en los términos del segundo párrafo del Artículo 17 de esta Ley.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
 Los conductores de los vehículos que presten servicio de transporte público, que no acaten las disposiciones del presente ordenamiento, deberán ser reportados en forma inmediata a la Dirección de Transportes del Estado de Durango, para que ésta implemente las medidas disciplinarias correspondientes, sin perjuicio de las sanciones que establece esta Ley.
 
@@ -518,3 +534,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 338.- QUE CONTIENE REFORMAS A LA LEY DE PROTECCIÓN A LOS NO FUMADORES PARA EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
