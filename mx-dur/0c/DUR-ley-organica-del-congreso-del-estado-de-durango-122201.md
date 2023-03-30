@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2022-12-22"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -2697,6 +2697,14 @@ A las iniciativas deberá acompañarse la documentación correspondiente, según
 
 Las iniciativas serán dirigidas a los Secretarios de la Mesa Directiva; deberán ser suscritas por el o los iniciadores y presentadas por escrito con respaldo electrónico compatible con el Sistema de Información Parlamentaria, ante la Secretaría de Servicios Legislativos del Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+Además de lo señalado en el párrafo anterior, las Diputadas y Diputados tendrán la opción de presentar las iniciativas, puntos de acuerdo o pronunciamientos vía Internet en formato digital, que se podrá depositar en el buzón electrónico disponible en la página o sitio web del Congreso del Estado, con la expedición del acuse de recibo correspondiente que contenga día y hora de su recepción; para lo cual, al inicio de cada legislatura se otorgará la respectiva firma electrónica correspondiente a cada curul.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+Las iniciativas, puntos de acuerdo y pronunciamientos registrados conforme al párrafo anterior, deberán aparecer registrados en la página o sitio web del Congreso del Estado para su consulta pública en un plazo no mayor de una hora después de su recepción.
+
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 El Secretario de Servicios Legislativos, informará al Presidente y a los Secretarios de la Mesa Directiva, sobre las iniciativas recibidas, para efectos de enlistarlas en el orden del día de la sesión que corresponda.
@@ -3738,3 +3746,11 @@ El presente Decreto entrará al día siguiente de su publicación en el Periódi
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 348.- QUE CONTIENE REFORMA AL ARTÍCULO 179 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
