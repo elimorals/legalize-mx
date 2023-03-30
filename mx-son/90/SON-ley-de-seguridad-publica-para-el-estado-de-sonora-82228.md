@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-publica-para-el-estado-de-sonora-82228"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-14"
-last_updated: "2022-03-28"
+last_updated: "2023-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MARZO DE 2023.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2011.
 
@@ -105,11 +105,13 @@ IX.- Instituciones de Seguridad Pública: Las Instituciones Policiales, de Procu
 
 X.- Instituciones de Procuración de Justicia: Las Instituciones que integran al Ministerio Público, los servicios periciales y demás auxiliares de aquél;
 
-> <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
 
-XI.- Instituciones Policiales: Los cuerpos de Policía especializados en la investigación de delitos, así como los cuerpos de seguridad pública, que en el ámbito de sus respectivas competencias actúan todos bajo el mando y la conducción del Ministerio Público para efectos de la investigación, en términos de lo que disponen la Constitución, el Código Nacional de Procedimientos Penales y demás disposiciones aplicables;
+XI.- Instituciones Policiales: Los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general, todas las dependencias encargadas de la seguridad pública local y municipal, que realicen funciones similares.
 
-XII.- Instituto: Instituto Superior de Seguridad Pública del Estado de Sonora;
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
+
+XII.- Universidad: La Universidad de la Seguridad Pública del Estado de Sonora;
 
 XIII.- Ley: La Ley de Seguridad Pública para el Estado de Sonora;
 
@@ -473,23 +475,25 @@ Los Consejos Municipales e Intermunicipales de Seguridad Pública, sus President
 
 #### SECCIÓN TERCERA. DE LOS COMITÉS CIUDADANOS DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 27.
 
 Las autoridades competentes establecerán mecanismos eficaces para que la sociedad participe en el Sistema Estatal de Seguridad Pública en los términos de esta Ley y los demás ordenamientos aplicables.
 
 A este efecto, se creará el Comité Ciudadano de Seguridad Pública del Estado, adscrito al Consejo Estatal de Seguridad Pública.
 
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
-
-Los ayuntamientos determinarán reglamentariamente los lineamientos para la integración de sus Comités Ciudadanos de Seguridad Pública Municipales, adoptando los principios de organización y atribuciones que esta Ley establece, debiendo sujetarse a las recomendaciones y lineamientos que emita el Comité Ciudadano de Seguridad Pública del Estado, incluyendo los mecanismos institucionales de coordinación y comunicación que determine este Comité, con el propósito de armonizar la participación ciudadana organizada en el cumplimiento de los fines de este ordenamiento.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE SEPTIEMBRE DE 2018)</small>
-
-El Comité Ciudadano de Seguridad Pública del Estado emitirá las recomendaciones y lineamientos necesarios para las situaciones que determine, las cuales se harán llegar al municipio a través de su Comité Ciudadano de Seguridad Pública Municipal, quien deberá de mantener constante comunicación y coordinación con el Comité Ciudadano de Seguridad Pública del Estado a efecto de conocer el grado de cumplimiento de dichas recomendaciones por parte de la institución de seguridad pública municipal, lo anterior a fin de salvaguardar la integridad y los derechos de las personas, las libertades, la paz y el orden público dentro del municipio afectado.
-
-> <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+Los ayuntamientos determinarán reglamentariamente los lineamientos para la integración de sus Comités Ciudadanos de Seguridad Pública Municipales, debiendo procurar que se adopten los principios de organización que se describen en el presente artículo y las atribuciones que esta Ley establece, e incluir mecanismos institucionales de coordinación y comunicación con el Comité Ciudadano de Seguridad Pública del Estado con el propósito de armonizar la participación ciudadana organizada en el cumplimiento de los fines de este ordenamiento.
 
 El Sistema Estatal otorgará los apoyos materiales, de gestión o información necesarios para el correcto funcionamiento de los Comités Ciudadanos.
+
+Los Comités Ciudadanos de Seguridad Pública Municipales estarán conformados de la siguiente manera:
+
+I.- Los municipios con más de cien mil habitantes, deberán conformar con nueve representantes ciudadanos el Comité Ciudadano de Seguridad Pública Municipal.
+
+II.- Los municipios con menos de cien mil habitantes y más de veinticinco mil habitantes, deberán conformar con cinco representantes ciudadanos el Comité Ciudadano de Seguridad Pública Municipal.
+
+III. Los municipios con menos de veinticinco mil habitantes, deberán conformar con tres representantes ciudadanos el Comité Ciudadano de Seguridad Pública Municipal.
 
 ###### ARTÍCULO 28.
 
@@ -975,7 +979,9 @@ El Consejo Directivo de Transversalidad, se integrará por los titulares o un re
 
 I.- Secretaría de Seguridad Pública, quien presidirá el Consejo;
 
-II.- Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
+
+II.- Fiscalía General de Justicia del Estado;
 
 III.- Secretaría de Educación y Cultura;
 
@@ -983,9 +989,13 @@ IV.- Secretaría de Salud Pública;
 
 V.- Secretaría de Desarrollo Social;
 
-VI.- Secretaría de Seguridad Pública Federal;
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
 
-VII.- Delegación de la Procuraduría General de la República en Sonora, como invitado con derecho a voz;
+VI.- Secretaría de Seguridad y Protección Ciudadana;
+
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
+
+VII.- Delegación de la Fiscalía General de la República en Sonora, como invitado con derecho a voz;
 
 VIII.- Sistema para el Desarrollo Integral de la Familia en el Estado de Sonora;
 
@@ -1003,29 +1013,59 @@ XIV.- Asociación Estatal de Padres de Familia;
 
 XV.- Universidad de Sonora;
 
-XVI.- Dirección General de la Policía Estatal de Seguridad Pública;
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
 
-XVII.- Dirección General del Sistema Estatal Penitenciario;
+XVI.- Coordinación Estatal de la Policía Estatal de Seguridad Pública;
 
-XVIII.- Instituto de Tratamiento y Aplicación de Medidas para Adolescentes;
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
 
-XIX.- Instituto Superior de Seguridad Pública del Estado de Sonora;
+XVII.- Coordinador Estatal del Sistema Penitenciario;
 
-XX.- Coordinación Estatal de Vinculación de la Secretaría de Seguridad Pública;
+> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XVIII ES SIMILAR A LA FRACCIÓN XXIII.]</small>
 
-XXI.- Coordinación Estatal de Tecnología y Estudios de la Secretaría de Seguridad Pública;
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
 
-XXII.- Coordinación General del Sistema Estatal de Información sobre Seguridad Pública de la Secretaría de Seguridad Pública;
+XVIII.- Centro de Control, Comando, Comunicación, Cómputo, Coordinación e Inteligencia (sic) Sonora;
+
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
+
+XIX.- Universidad de la Seguridad Pública del Estado de Sonora;
+
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
+
+XX.- Centro Estatal de Prevención del Delito y Participación Ciudadana;
+
+XXI.- (DEROGADA, B.O. 30 DE MARZO DE 2023)
+
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
+
+XXII.- Centro Estatal de Información sobre Seguridad Pública;
+
+> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XXIII ES SIMILAR A LA FRACCIÓN XVIII.]</small>
 
 XXIII.- Centro de Control, Comando, Comunicación y Cómputo;
 
-XXIV.- Unidad de Enlace con el Fideicomiso para el Fondo de Apoyo para la Seguridad Pública del Estado de Sonora;
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
 
-XXV.- Dirección General Jurídica de la Secretaría de Seguridad Pública;
+XXIV.- Unidad de Enlace con el Fondo de Aportaciones para la Seguridad Pública;
 
-XXVI.- Los Diputados integrantes de la Comisión de Seguridad Pública del Congreso del Estado; y
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
 
-XXVII.- Tres representantes de los municipios que presenten la mayor incidencia delictiva en el Estado. Sin perjuicio de lo anterior, el Consejo, podrá acordar invitar a participar en sus reuniones, a representantes de otras dependencias y entidades de los gobiernos federales, estatales y municipales, así como de instituciones académicas y sociedad civil.
+XXV.- Coordinación General Jurídica de la Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 30 DE MARZO DE 2023)</small>
+
+XXVI.- Coordinación General de vinculación y de Programas con Perspectiva de Género;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 30 DE MARZO DE 2023)</small>
+
+XXVII.- Los Diputados integrantes de la Comisión de Seguridad Pública del Congreso del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 30 DE MARZO DE 2023)</small>
+
+XXVIII.- Tres representantes de los municipios que presenten la mayor incidencia delictiva en el Estado.
+
+Sin perjuicio de lo anterior, el Consejo, podrá acordar invitar a participar en sus reuniones, a representantes de otras dependencias y entidades de los gobiernos federales, estatales y municipales, así como de instituciones académicas y sociedad civil.
 
 # LIBRO SEGUNDO. DEL EJERCICIO DE LA FUNCIÓN DE SEGURIDAD PÚBLICA
 
@@ -1041,7 +1081,9 @@ ARTÍCULO 77 BIS.- La función básica de los cuerpos de policía en el estado, 
 
 I.- Prevención: consistente en llevar a cabo las acciones necesarias para evitar la comisión de delitos e infracciones administrativas, y, en sus circunscripciones, realizar acciones de inspección, vigilancia y vialidad;
 
-II.- Atención a víctimas y ofendidos del delito: proporcionar auxilio en los términos que señalan el Código Nacional de Procedimientos Penales y las respectivas leyes nacional y local de víctimas para lo cual recibirán, en su caso, la denuncia respectiva;
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
+
+II.- Atención a víctimas y ofendidos del delito: proporcionar auxilio en los términos que señalan el Código Nacional de Procedimientos Penales y las respectivas leyes nacional y local (sic) de víctimas para lo cual recibirán, en su caso, la denuncia respectiva, debiendo implementar el Sistema de Atención a la Violencia Familiar y Género consiste en la prevención, atención, y seguimiento de la violencia familiar y de género, orientada a la protección de la víctima, en colaboración con instituciones gubernamentales y sociedad civil;
 
 III.- Investigación: que tendrá por objeto la prevención, la realización de peritajes y, bajo la conducción y el mando del Ministerio Público, la persecución de conductas que pudieran ser constitutivas de delito, para lo que, a través de sistemas homologados, recolectarán, clasificarán, registrarán, analizarán, evaluarán y usarán la información conducente;
 
@@ -1357,27 +1399,41 @@ Las funciones anteriores las realizarán el Estado y los Ayuntamientos por condu
 
 Los trámites relativos al registro, a la manifestación, posesión y portación de armas de fuego por parte de los integrantes de las Instituciones policiales, se sujetarán a lo establecido en la Ley Federal de Armas de Fuego y Explosivos, la Ley General del Sistema Nacional de Seguridad Pública, la presente Ley, así como las demás disposiciones legales aplicables.
 
-### CAPÍTULO V. DEL INSTITUTO SUPERIOR DE SEGURIDAD PUBLICA DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE MARZO DE 2023)</small>
+
+### CAPÍTULO V. DE LA UNIVERSIDAD DE LA SEGURIDAD PÚBLICA DEL ESTADO DE SONORA
+
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 108.
 
-El Instituto Superior de Seguridad Pública del Estado, es un organismo descentralizado con personalidad jurídica y patrimonio propios, con sede en la capital del Estado y con las unidades regionales que determine su Consejo Directivo.
+La Universidad de la Seguridad Pública del Estado de Sonora, es un organismo descentralizado con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Seguridad Pública, con sede en la capital del Estado y con las Academias Estatales que determine su Consejo Directivo.
+
+El personal de la Universidad se regirá por el artículo 123, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la presente Ley y demás que resulten aplicables. Todo el personal de la Universidad que no se regule por las disposiciones señaladas, se considerarán trabajadores de base o de confianza.
+
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 109.
 
-El Instituto tendrá como objeto promover el desarrollo de las ciencias y técnicas relacionadas con la seguridad pública y constituirse en la instancia estatal adecuada y responsable, para la formación, actualización especializada y capacitación científica y profesional de los aspirantes y elementos integrantes de las instituciones policiales estatales y municipales dedicadas al cumplimiento de las funciones de seguridad pública y tránsito, así como la actualización y capacitación de maestros e investigadores en estas materias, conforme a los términos de la Ley General, la presente Ley, su reglamento y demás normatividad aplicable. Lo anterior, sin perjuicio de que las actividades de capacitación puedan desarrollarse de manera permanente a través de las Instituciones de Seguridad Pública en las que los elementos presten sus servicios.
+La Universidad de la Seguridad Pública del Estado tendrá como objeto integrar recursos humanos altamente capacitados que permitan contribuir al mejoramiento de la operación y coordinación de los diversos ámbitos de la seguridad pública en el Estado, como lo son la prevención del delito, procuración de justicia, impartición de justicia y readaptación social, promover el desarrollo de las ciencias y técnicas relacionadas con la seguridad pública y constituirse en la instancia estatal adecuada y responsable, para la formación, actualización especializada y capacitación científica y profesional de los aspirantes y elementos integrantes de las instituciones policiales estatales y municipales dedicadas al cumplimiento de las funciones de seguridad pública y tránsito, así como la actualización y capacitación de maestros e investigadores en estas materias, conforme a los términos de la Ley General, la presente Ley, su reglamento y demás normatividad aplicable.
+
+Lo anterior, sin perjuicio de que las actividades de capacitación puedan desarrollarse de manera permanente a través de las Instituciones de Seguridad Pública en las que los elementos presten sus servicios.
+
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 110.
 
-Serán autoridades del Instituto:
+Serán autoridades de la Universidad:
 
 I.- El Consejo Directivo; y
 
-II.- La Dirección General.
+II.- El Rector.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 111.
 
-El Consejo Directivo del Instituto se integrará por:
+El Consejo Directivo de la Universidad se integrará por:
 
 I.- Un Presidente, que será el Gobernador del Estado;
 
@@ -1385,7 +1441,9 @@ II.- Un Vicepresidente, que será el Secretario de Seguridad Pública, quien sus
 
 III.- En calidad de Vocales:
 
-a) El Procurador General de Justicia del Estado;
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
+
+a) El Fiscal General de Justicia del Estado;
 
 b) El Secretario de Hacienda;
 
@@ -1395,17 +1453,23 @@ d) Tres presidentes municipales, a invitación del Presidente del Consejo Direct
 
 e) Dos representantes, respectivamente, de los sectores social y privado, a invitación del Presidente del Consejo Directivo; y
 
-IV.- Un Secretario del Consejo, que será el Director General del Instituto y que asistirá sólo con voz.
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
+
+IV.- Un Secretario del Consejo, que será el Rector de la Universidad y que asistirá sólo con voz.
 
 Por cada miembro propietario del Consejo Directivo, deberá haber un suplente.
 
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 112.
 
-El Director General del Instituto será nombrado y removido libremente por el Gobernador del Estado.
+El Rector de la Universidad será nombrado y removido libremente por el Gobernador del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 113.
 
-Para ser Director General del Instituto deberán cumplirse los siguientes requisitos:
+Para ser Rector de la Universidad deberán cumplirse los siguientes requisitos:
 
 I.- Ser ciudadano mexicano por nacimiento en pleno uso y goce de sus derechos civiles y políticos;
 
@@ -1417,9 +1481,11 @@ IV.- No haber sido condenado por delito doloso en sentencia ejecutoriada; y
 
 V.- Ser una persona de reconocida solvencia moral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 114.
 
-El patrimonio del Instituto se integrará por:
+El patrimonio de la Universidad se integrará por:
 
 I.- Las aportaciones, bienes muebles e inmuebles y demás recursos que los gobiernos federales, estatales y municipales le otorguen o destinen;
 
@@ -1427,13 +1493,17 @@ II.- Las aportaciones, legados, donaciones y demás liberalidades que reciba de 
 
 III.- Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus bienes, operaciones, actividades o eventos que realice;
 
-IV.- Los ingresos por cuotas de recuperación que perciba en virtud de los servicios que preste; y
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
+
+IV.- Los ingresos que perciba por concepto de concesiones; prestación de servicios de posgrado, educación continua, educación a distancia, capacitación o investigación científica; venta de publicaciones y materiales multimedia, de conformidad con las disposiciones legales aplicables, y
 
 V.- En general, los ingresos que obtenga por cualquier título legal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 115.
 
-Para el alcance de su objeto, corresponderá al Instituto:
+Para el alcance de su objeto, corresponderá a la Universidad:
 
 I.- Establecer las acciones, políticas y programas idóneos en materia de reclutamiento y selección del personal a capacitar;
 
@@ -1467,7 +1537,9 @@ XV.- Colaborar en el diseño y actualización de políticas y normas para el rec
 
 XVI.- Realizar estudios para detectar las necesidades de capacitación de los servidores públicos en materia de seguridad pública y proponer los recursos correspondientes para llevar a cabo dichas capacitaciones;
 
-XVII.- Proponer y, en su caso, publicar las convocatorias para el ingreso al Instituto;
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
+
+XVII.- Proponer y, en su caso, publicar las convocatorias para el ingreso a la Universidad;
 
 XVIII.- Tramitar los registros, autorizaciones y reconocimiento de los planes y programas de estudio ante las autoridades competentes;
 
@@ -1475,9 +1547,11 @@ XIX.- Establecer las bases de coordinación, consulta y vinculación con las dep
 
 XX.- Las demás que sean necesarias para el cumplimiento de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 116.
 
-Los programas académicos del Instituto comprenderán la formación básica, la actualización, la especialización técnica y la especialización profesional, así como la preparación para la promoción y la correspondiente a la formación de mandos.
+Los programas académicos de la Universidad comprenderán la formación básica, la actualización, la especialización técnica y la especialización profesional, así como la preparación para la promoción y la correspondiente a la formación de mandos.
 
 La formación básica es el proceso mediante el cual se capacita a quienes habrán de incorporarse a las áreas de seguridad pública y tránsito, de vigilancia y custodia penitenciaria y de tratamiento, con el objeto de que puedan realizar las actividades propias de su función de manera profesional.
 
@@ -1493,13 +1567,17 @@ La formación destinada a la preparación de mandos medios y superiores, tendrá
 
 En general, los programas de capacitación y profesionalización, en sus diferentes niveles, tenderán a la actualización normativa y científica, sin descuidar el aspecto práctico de la función de que se trate.
 
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 117.
 
-Los programas académicos a nivel profesional y de posgrado que imparta el Instituto, tendrán el mismo rigor académico de las cátedras universitarias y sólo podrá ingresar a este nivel, quien cuente con bachillerato o licenciatura, según corresponda.
+Los programas académicos a nivel profesional y de posgrado que imparta la Universidad, tendrán el mismo rigor académico de las cátedras universitarias y sólo podrá ingresar a este nivel, quien cuente con bachillerato o licenciatura, según corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 118.
 
-Los aspirantes a ingresar al Instituto, deberán contar con los siguientes requisitos mínimos:
+Los aspirantes a ingresar a la Universidad, deberán contar con los siguientes requisitos mínimos:
 
 I.- Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos;
 
@@ -1513,9 +1591,11 @@ V.- En su caso, tener acreditado el servicio militar nacional; y
 
 VI.- No estar suspendido ni haber sido destituido o inhabilitado para desarrollar actividades en el área de la seguridad pública.
 
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 119.
 
-El Consejo Directivo expedirá el Reglamento General del Instituto.
+El Consejo Directivo expedirá el Reglamento de la Universidad.
 
 ###### ARTÍCULO 120.
 
@@ -1731,7 +1811,11 @@ V.- Aprobar el concurso de ingreso y los cursos de formación;
 
 VI.- Contar con 18 años de edad y con el perfil físico, médico, ético y psicológico necesario para realizar las funciones correspondientes en la Institución Policial;
 
-VII.- Aprobar los procesos de evaluación y control de confianza;
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
+
+VII.- Aprobar los procesos de evaluación y control de confianza.
+
+En el caso de los titulares de Seguridad Pública Municipal, deberán previo a su ingreso, contar y exhibir una constancia expedida por el titular del Centro Estatal de Evaluación y Confianza, con resultado aprobado vigente por lo menos de dos años al momento de su propuesta ante el Cabildo. El incumplimiento a la presente prevención, amerita una sanción penal en términos de la Ley General, con independencia de las sanciones administrativas que se le puedan atribuir tanto al servidor público que propone como al que autoriza la designación que incumpla la presente porción normativa;
 
 VIII.- Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
@@ -1757,7 +1841,11 @@ IV.- Acreditar que ha concluido, al menos, la enseñanza media superior y los re
 
 V.- Aprobar los cursos de formación, capacitación y profesionalización;
 
-VI.- Aprobar los procesos de evaluación de control de confianza;
+> <small>(REFORMADA, B.O. 30 DE MARZO DE 2023)</small>
+
+VI.- Aprobar los procesos de evaluación de control de confianza.
+
+En el caso de los titulares de Seguridad Pública Municipal, que resulten no aprobados en los procesos de evaluación, deberán de ser suspendidos de forma inmediata en el ejercicio de sus funciones, condicionada la reactivación de sus funciona (sic) a obtener la aprobación en la evaluación y control de confianza correspondiente. El incumplimiento a la presente prevención, amerita una sanción penal en términos de la Ley General, con independencia de las sanciones administrativas que se le puedan atribuir tanto al servidor público que propone como al que autoriza la designación que incumpla la presente porción normativa;
 
 VII.- Aprobar las evaluaciones del desempeño;
 
@@ -1779,9 +1867,11 @@ XV.- Las demás que establezcan el régimen disciplinario correspondiente y las 
 
 El titular de la institución policial correspondiente, estará obligado a verificar, de todos los elementos bajo su responsabilidad, el cumplimiento de los requisitos de permanencia cuando menos una vez en el año de calendario. El incumplimiento de uno o más de estos requisitos dará lugar a la separación del integrante de la institución policial.
 
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 141.
 
-La Comisión de la Carrera policial del Instituto, será la instancia responsable del Servicio de carrera policial y fomentará la vocación de servicio mediante la promoción y permanencia en las Instituciones policiales para satisfacer las expectativas de desarrollo profesional de sus integrantes.
+La Comisión de la Carrera policial de la Institución, será la instancia responsable del Servicio de carrera policial y fomentará la vocación de servicio mediante la promoción y permanencia en las Instituciones policiales para satisfacer las expectativas de desarrollo profesional de sus integrantes.
 
 ###### ARTÍCULO 142.
 
@@ -2101,6 +2191,10 @@ Los reglamentos establecerán los conceptos y la importancia que respectivamente
 
 Corresponderá al Secretario de Seguridad Pública del Estado y a los Presidentes de los municipios según corresponda, la ejecución y cumplimiento de las resoluciones adoptadas por las Comisiones.
 
+> <small>(ADICIONADO, B.O. 30 DE MARZO DE 2023)</small>
+
+Contra las resoluciones que emitan las Comisiones a que se refiere esta Sección, procede el juicio de nulidad ante el Tribunal de Justicia Administrativa.
+
 #### SECCIÓN TERCERA. DE LOS CORRECTIVOS DISCIPLINARIOS
 
 ###### ARTÍCULO 165.
@@ -2325,7 +2419,9 @@ XIX.- Las demás que establezcan las disposiciones normativas aplicables, así c
 
 El Centro de Evaluación y Control de Confianza aplicará las evaluaciones a que se refiere esta Ley, tanto en los procesos de selección de aspirantes, como en la evaluación para la permanencia, el desarrollo y la promoción de los integrantes de las Instituciones de Seguridad Pública, en términos de la normatividad aplicable.
 
-## TÍTULO CUARTO. DEL CENTRO DE CONTROL, COMANDO, COMUNICACIÓN Y CÓMPUTO DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE MARZO DE 2023)</small>
+
+## TÍTULO CUARTO. DEL CENTRO DE CONTROL, COMANDO, COMUNICACIÓN, CÓMPUTO, COORDINACIÓN E INTELIGENCIA SONORA
 
 ### CAPÍTULO I. DEL SERVICIO ÚNICO DE ASISTENCIA TELEFÓNICA
 
@@ -2333,13 +2429,17 @@ El Centro de Evaluación y Control de Confianza aplicará las evaluaciones a que
 
 En el Estado de Sonora existirá un Servicio Único de Atención Telefónica, a través del cual las Instituciones de Seguridad Pública se coordinarán para responder y orientar a la población en casos de emergencia, canalizando rápida y eficientemente a las Instituciones policiales, los cuerpos operativos de Protección Civil del Estado y Municipales encargados de Protección Civil, los Cuerpos de Bomberos y Rescate, los Cuerpos de asistencia médica o de primeros auxilios, y aquellos que presten servicios auxiliares de la función de seguridad pública que operen o se instalen en el Estado, para que presten los servicios correspondientes a los ámbitos de su competencia.
 
-La Secretaría a través del Centro de Control, Comando, Comunicación y Cómputo del Estado, deberá establecer la coordinación necesaria con los cuerpos de protección civil nacional, estatales y municipales, así como con las instituciones necesarias para la operación del Servicio Único de Asistencia Telefónica.
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
+
+La Secretaría a través del Centro de Control, Comando, Comunicación, Cómputo, Coordinación e Inteligencia Sonora, deberá establecer la coordinación necesaria con los cuerpos de protección civil nacional, estatales y municipales, así como con las instituciones necesarias para la operación del Servicio Único de Asistencia Telefónica.
 
 ###### ARTÍCULO 183.
 
 El Servicio Único de Asistencia Telefónica, deberá comprender, por lo menos, la recepción de reportes por delitos, infracciones, conductas cometidas por adolescentes tipificadas como delitos por las leyes, auxilio en la prestación de servicios médicos de urgencia y en la localización de personas, bienes y vehículos, recepción de quejas por faltas y actos delictivos de elementos de las instituciones policiales, reportes de emergencias y aquellos otros servicios que se establezcan en la presente Ley y los reglamentos respectivos.
 
-La Secretaría, coordinará la prestación del Servicio Único de Asistencia Telefónica a través del Centro de Control, Comando, Comunicación y Cómputo del Estado, y para su operación, contará por lo menos con la participación de la Procuraduría, las dependencias y unidades administrativas de los Ayuntamientos encargados de la función de Seguridad Pública, Órganos Municipales encargados de Protección Civil, los Cuerpos de Bomberos y Rescate, los Cuerpos de asistencia médica o de primeros auxilios, y aquellos que presten servicios auxiliares de la función de seguridad pública que operen o se instalen en el Estado, así como Corporaciones de Seguridad Pública derivadas del Estado, quienes deberán coordinarse de manera eficiente para la interconexión, atención y seguimiento de los eventos reportados al Servicio Único de Asistencia Telefónica, de conformidad con los mecanismos de operatividad que se establezcan en el reglamento correspondiente.
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
+
+La Secretaría, coordinará la prestación del Servicio Único de Asistencia Telefónica a través del Centro de Control, Comando, Comunicación, Cómputo, Coordinación e Inteligencia Sonora, y para su operación, contará por lo menos con la participación de la Procuraduría, las dependencias y unidades administrativas de los Ayuntamientos encargados de la función de Seguridad Pública, Órganos Municipales encargarlos de Protección Civil, los Cuerpos de Bomberos y Rescate, los Cuerpos de asistencia médica o de primeros auxilios, y aquellos que presten servicios auxiliares de la función de seguridad pública que operen o se instalen en el Estado, así como Corporaciones de Seguridad Pública derivadas del Estado, quienes deberán coordinarse de manera eficiente para la interconexión, atención y seguimiento de los eventos reportados al Servicio Único de Asistencia Telefónica, de conformidad con los mecanismos de operatividad que se establezcan en el reglamento correspondiente.
 
 La prestación del Servicio Único de Asistencia Telefónica tendrá carácter permanente durante los trescientos sesenta y cinco días del año, las veinticuatro horas del día.
 
@@ -2351,27 +2451,35 @@ El servicio a que se refiere este capítulo, será brindado a través de una lí
 
 Las autoridades y auxiliares de la seguridad pública deberán atender todos los incidentes de las llamadas telefónicas que les sean canalizadas, brindando siempre una retroalimentación de la atención, seguimiento y resultados de la atención del evento de conformidad con los lineamientos que para tal efecto establezca el Consejo Estatal de Seguridad Pública.
 
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 186.
 
-El personal que labore en los Centros de Control, Comando, Comunicación y Cómputo, deberán, previo ingreso a los mismos, cumplir y aprobar los exámenes de evaluación y control de confianza conforme a la normatividad aplicable.
+El personal que labore en los Centros de Control, Comando, Comunicación, Cómputo, Coordinación e Inteligencia Sonora (sic), deberán, previo ingreso a los mismos, cumplir y aprobar los exámenes de evaluación y control de confianza conforme a la normatividad aplicable.
+
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 187.
 
-La coordinación operativa que se establezca en el reglamento correspondiente entre las distintas Instituciones policiales del Estado y aquellas con carácter de auxiliares, se llevará a cabo a través del Centro de Control, Comando, Comunicación y Cómputo en la entidad. Para tal propósito, la Secretaría promoverá el uso de información estratégica de seguridad pública, así como de la tecnología necesaria para la mejor prestación del servicio.
+La coordinación operativa que se establezca en el reglamento correspondiente entre las distintas Instituciones policiales del Estado y aquellas con carácter de auxiliares, se llevará a cabo a través del Centro de Control, Comando, Comunicación, Cómputo, Coordinación e Inteligencia en la entidad. Para tal propósito, la Secretaría promoverá el uso de información estratégica de seguridad pública, así como de la tecnología necesaria para la mejor prestación del servicio.
 
 ### CAPÍTULO II. DEL SERVICIO DE DENUNCIA ANÓNIMA
 
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 188.
 
-La Secretaría a través del Centro de Control, Comando, Comunicación y Cómputo del Estado, establecerá y coordinará el servicio de denuncia anónima, la cual será identificada únicamente con el número que integran los dígitos "089", para la recepción de las denuncias anónimas efectuadas por la población, con relación a la comisión de hechos ilícitos o infracciones que afecten la seguridad pública en la entidad.
+La Secretaría a través del Centro de Control, Comando, Comunicación, Cómputo, Coordinación e Inteligencia del Estado, establecerá y coordinará, el servicio de denuncia anónima, la cual será identificada únicamente con el número que integran los dígitos "089", para la recepción de las denuncias anónimas efectuadas por la población, con relación a la comisión de hechos ilícitos o infracciones que afecten la seguridad pública en la entidad.
 
-La Secretaría a través del Centro de Control, Comando, Comunicación y Cómputo recibirá, atenderá y canalizará a la autoridad correspondiente, las denuncias anónimas recibidas a través del servicio referido en el presente artículo, realizando el seguimiento de las mismas ante la autoridad que corresponda.
+La Secretaría a través del Centro de Control, Comando, Comunicación, Cómputo, Coordinación e Inteligencia recibirá, atenderá y canalizará a la autoridad correspondiente, las denuncias anónimas recibidas a través del servicio referido en el presente artículo, realizando el seguimiento de las mismas ante la autoridad que corresponda.
 
-Las autoridades estatales y municipales, deberán dar seguimiento a las denuncias que le sean canalizadas por la Secretaría a través del Centro de Control, Comando, Comunicación e informarán del resultado del mismo a dicho Centro, en la forma y términos que se establezcan para dicho fin.
+Las autoridades estatales y municipales, deberán dar seguimiento a las denuncias que le sean canalizadas por la Secretaría a través del Centro de Control, Comando, Comunicación, Cómputo, Coordinación e Inteligencia, e informarán del resultado del mismo a dicho Centro, en la forma y términos que se establezcan para dicho fin.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 189.
 
-La Secretaría a través del Centro de Control, Comando, Comunicación y Cómputo, asegurará la confidencialidad de la información obtenida en la prestación del servicio de denuncia anónima, garantizando en todo momento el anonimato del denunciante.
+La Secretaría a través del Centro de Control, Comando, Comunicación, Cómputo, Coordinación e Inteligencia, asegurará la confidencialidad de la información obtenida en la prestación del servicio de denuncia anónima, garantizando en todo momento el anonimato del denunciante.
 
 La prestación del servicio de denuncia anónima "089", tendrá carácter permanente durante los trescientos sesenta y cinco días del año, las veinticuatro horas del día.
 
@@ -2383,9 +2491,11 @@ La Secretaría deberá establecer la coordinación necesaria con las autoridades
 
 Se crea el Sistema Único de Monitoreo y Operación de Equipos Tecnológicos de Vigilancia, con el que se busca regular la ubicación, instalación, y operación de cámaras, video o cualquier dispositivo electrónico similar de captura de datos, imagen o voz que se encuentren ubicados en el área geográfica del Estado de Sonora, destinados a la vigilancia de establecimientos públicos y áreas públicas, con la finalidad de reglamentar la utilización de la información obtenida por el uso de equipos tecnológicos de vigilancia en materia de seguridad pública.
 
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 191.
 
-La Secretaría, a través del Centro de Control, Comando, Comunicación y Cómputo, será la encargada de prestar el servicio del Sistema Único de Monitoreo y Operación de Equipos Tecnológicos de Vigilancia, así como de llevar un registro de la ubicación y cobertura del mismo. Para tal propósito, la Secretaría procurará coordinarse con las dependencias y entidades federales, estatales y municipales competentes.
+La Secretaría, a través del Centro de Control, Comando, Comunicación, Cómputo, Coordinación e Inteligencia, será la encargada de prestar el servicio del Sistema Único de Monitoreo y Operación de Equipos Tecnológicos de Vigilancia, así como de llevar un registro de la ubicación y cobertura del mismo. Para tal propósito, la Secretaría procurará coordinarse con las dependencias y entidades federales, estatales y municipales competentes.
 
 ###### ARTÍCULO 192.
 
@@ -2417,17 +2527,23 @@ V.- Actuar, de forma pronta y eficaz, en los casos en que, a través de la infor
 
 ### CAPÍTULO IV. DE LA RED ESTATAL DE TELECOMUNICACIONES DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 196.
 
-El Estado promoverá la interoperabilidad de la Red Estatal de Telecomunicaciones de Seguridad Pública, por lo que la Secretaría a través del Centro de Control, Comando, Comunicación y Cómputo, operará, administrará, desarrollará y regulará la Red Estatal de Telecomunicaciones de Seguridad Pública, para el intercambio de voz, datos e imágenes, a la cual deberán estar enlazadas todas las Instituciones policiales y los organismos auxiliares, así como cualquier otra institución pública o privada que se considere necesaria para el mejoramiento del servicio de asistencia telefónica y en general los servicios de seguridad pública en el Estado.
+El Estado promoverá la interoperabilidad de la Red Estatal de Telecomunicaciones de Seguridad Pública, por lo que la Secretaría a través del Centro de Control, Comando, Comunicación, Cómputo, Coordinación e Inteligencia, operará, administrará, desarrollará y regulará la Red Estatal de Telecomunicaciones de Seguridad Pública, para el intercambio de voz, datos e imágenes, a la cual deberán estar enlazadas todas las Instituciones policiales y los organismos auxiliares, así como cualquier otra institución pública o privada que se considere necesaria para el mejoramiento del servicio de asistencia telefónica y en general los servicios de seguridad pública en el Estado.
+
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 197.
 
-La Secretaría a través del Centro de Control, Comando, Comunicación y Cómputo, en coordinación con el Sistema Nacional de Seguridad Pública, establecerá los criterios para la utilización en el Estado de las frecuencias de radiocomunicación asignadas por la Comisión Federal de Telecomunicaciones para ser utilizadas por las Instituciones policiales en el Estado.
+La Secretaría a través del Centro de Control, Comando, Comunicación, Cómputo, Coordinación e Inteligencia, en coordinación con el Sistema Nacional de Seguridad Pública, establecerá los criterios para la utilización en el Estado de las frecuencias de radiocomunicación asignadas por la Comisión Federal de Telecomunicaciones para ser utilizadas por las Instituciones policiales en el Estado.
+
+> <small>(REFORMADO, B.O. 30 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 198.
 
-La Secretaría, a través del Centro de Control, Comando, Comunicación y Cómputo, operará, administrará, desarrollará y regulará la red de conexión a Plataforma México en el Estado.
+La Secretaría, a través del Centro de Control, Comando, Comunicación, Cómputo, Coordinación e Inteligencia, operará, administrará, desarrollará y regulará la red de conexión a Plataforma México en el Estado.
 
 # LIBRO TERCERO. DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
@@ -3098,3 +3214,43 @@ El procedimiento establecido para el nombramiento del Titular de la Secretaría 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las normas que se opongan al proceso de designación y disposiciones contenidas en el presente decreto.
+
+B.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 114, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo Directivo tendrá doce meses contados a partir de la entrada en vigor del presente Decreto, para expedir el Reglamento de la Universidad de la Seguridad Pública del Estado de Sonora.
+
+En tanto el Consejo Directivo expide el Reglamento de la Universidad de la Seguridad Pública del Estado de Sonora, serán aplicables en forma supletoria en todo lo que no se oponga a esta Ley, el Reglamento Interior del Instituto Superior de Seguridad Pública del Estado de Sonora, sus Manuales de Organización y demás disposiciones normativas aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Quien ostente el cargo de Director General del Instituto Superior de Seguridad Pública del Estado, al momento de la entrada en vigor del presente Decreto, será el Rector de la Universidad de la Seguridad Pública del Estado de Sonora. El Gobernador del Estado emitirá el nombramiento respectivo, dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Asimismo, en tamo se expide el citado Reglamento y se establezcan los nuevos órganos de gobierno, las Unidades Administrativas de la Universidad dele Seguridad Pública del Estado de Sonora, serán las mismas con las que cuenta actualmente el Instituto Superior de Seguridad Pública del Estado, por lo cual subsistirán los nombramientos emitidos por este.
+
+###### ARTÍCULO CUARTO.
+
+Todas las disposiciones, menciones y referencias que se hagan en las leyes, reglamentos y demás disposiciones, al Instituto Superior de Seguridad Pública del Estado, se entenderán hechas a la Universidad de la Seguridad Pública del Estado de Sonora.
+
+###### ARTÍCULO QUINTO.
+
+El patrimonio del Instituto Superior de Seguridad Pública del Estado, incluyendo todas las obligaciones, derechos y responsabilidades que tenga con aspirantes, profesores, personal y terceros, se transfieren en su totalidad a la Universidad de la Seguridad Pública del Estado de Sonora.
+
+###### ARTÍCULO SEXTO.
+
+El Gobierno del Estado, en el ámbito de su competencia, aportará los recursos necesarios a la Universidad de la Seguridad Pública del Estado de Sonora, para su operación y funcionamiento.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los derechos del personal del Instituto Superior de Seguridad Pública del Estado de Sonora, serán respetados conforme a las disposiciones aplicables.
+
+###### ARTÍCULO OCTAVO.
+
+Dentro del plazo de 180 días naturales contados a partir de la entrada en vigor del presente ordenamiento, el Ejecutivo del Estado deberá emitir las disposiciones administrativas correspondientes para regular y estructurar el Sistema de Atención a la Violencia Familiar y Género, previsto en el artículo 77 BIS fracción II de la presente ley.
