@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-los-pueblos-y-comunidades-indigenas-del-56727"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-22"
-last_updated: "2019-03-17"
+last_updated: "2023-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de julio de 2007.
 
@@ -60,6 +60,10 @@ Es obligación de las autoridades estatales, municipales y de la sociedad en gen
 ###### ARTÍCULO 2.
 
 La presente Ley tiene por objeto el desarrollo, reconocimiento, preservación y defensa de los derechos y cultura de los pueblos y comunidades indígenas, así mismo establece las obligaciones del Estado y sus Municipios para garantizar el cumplimiento de los referidos objetivos.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2023)</small>
+
+Para el cumplimiento del objeto de la presente Ley, el Estado y los Municipios podrán solicitar en cualquier momento la asesoría y apoyo del Instituto Nacional de los Pueblos Indígenas conforme a la Ley que regula las funciones de dicho instituto y la normativa aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
@@ -597,9 +601,11 @@ La Secretaría de Desarrollo Económico del Estado dará preferencia a las solic
 
 A solicitud de los artesanos indígenas, la Secretaría de Desarrollo Económico del Estado auxiliará a éstos en la integración de solicitudes y expedientes técnicos, para obtener financiamiento ante instituciones crediticias.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 73.
 
-Con la finalidad de promover la artesanía indígena que se produce en el Estado, la Secretaría de Desarrollo Económico del Estado, incluirá la participación de los artesanos indígenas en las exposiciones comerciales y productivas en que participe el Gobierno del Estado; asimismo, procurará la realización de exposiciones de artesanías en ferias locales y regionales, nacionales e internacionales.
+Con la finalidad de fomentar la inversión, producción, distribución y consumo de las artesanías indígenas que se producen en el Estado, la Secretaría de Desarrollo Económico del Estado, incluirá la participación de los artesanos indígenas en las exposiciones comerciales y productivas en que participe el Gobierno del Estado; asimismo, procurará la realización de exposiciones de artesanías en ferias locales y regionales, nacionales e internacionales.
 
 ## TÍTULO CUARTO. TIERRAS, TERRITORIOS Y RECURSOS NATURALES
 
@@ -826,6 +832,30 @@ CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el
 P.O. 17 DE MARZO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 70 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY GENERAL DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 346.- QUE CONTIENE REFORMA AL ARTÍCULO 73 DE LA LEY GENERAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 30 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 347.- POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 2 DE LA LEY GENERAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
