@@ -4,7 +4,7 @@ identifier: "HID-ley-de-movilidad-y-transporte-para-el-estado-de-hidalgo-129684"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-30"
-last_updated: "2022-10-21"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2018.
 
@@ -123,7 +123,9 @@ XIII. INSPECTOR DE TRANSPORTE: Servidor Público adscrito al Organismo del Trans
 
 XIV. LEY: Ley de Movilidad y Transporte para el Estado de Hidalgo;
 
-XV. MOVILIDAD: Conjunto de desplazamientos de personas y bienes que se realizan a través de diversas formas y modos de transporte que lleva a cabo la sociedad para satisfacer sus necesidades y alcanzar un pleno desarrollo; considerada como un derecho humano;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+
+XV. MOVILIDAD: Conjunto de desplazamientos de personas y bienes que se realizan a través de sus propios medios de locomoción o utilizando algún tipo de transporte, que lleva a cabo la sociedad para satisfacer sus necesidades y alcanzar un pleno desarrollo; considerando como un derecho humano en condiciones de seguridad, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
 XVI. NORMA OFICIAL MEXICANA: La regulación técnica de observancia obligatoria, expedida por las Autoridades competentes, que tiene como finalidad, establecer reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, así como aquellas relativas a terminología, simbología, embalaje, marcado o etiquetado y las que se refieren a su cumplimiento o aplicación;
 
@@ -727,9 +729,9 @@ VIII. Resiliencia. Movilidad y transporte con capacidad para soportar situacione
 
 IX. Seguridad. Privilegiar las acciones de prevención accidentes de tránsito durante los desplazamientos de la población, con el fin de proteger la integridad física de las personas y evitar la afectación a los bienes públicos y privados;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
 
-X. Sustentabilidad. Desplazamientos de personas y bienes con los mínimos efectos negativos sobre la calidad de vida y el medio ambiente, incentivando el uso de transporte público y no motorizado, así como el uso de tecnologías sustentables en los modos de transporte; y
+X. Sustentabilidad. Desplazamientos de personas y bienes, con bajo consumo de carbono y con mínimos efectos negativos sobre la calidad de vida y el medio ambiente, incentivando el uso de transporte público y no motorizado, así como el uso de tecnologías sustentables en los modos de transporte; capaz de satisfacer las necesidades de la sociedad de moverse libremente, acceder, comunicar, comercializar o establecer relaciones sin sacrificar otros valores humanos o ecológicos básicos actuales o del futuro; y
 
 > <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
@@ -3396,5 +3398,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 237 QUE REFORMA LA FRACCIÓN XXVI BIS DEL ARTÍCULO 3, LAS FRACCIONES IX Y X DEL ARTÍCULO 27; Y SE ADICIONAN LA FRACCIÓN V TER AL ARTÍCULO 7 Y LA FRACCIÓN XI AL ARTÍCULO 27 DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 492 POR EL QUE SE REFORMAN LA FRACCIÓN XV DEL ARTÍCULO 3 Y LA FRACCIÓN X DEL ARTICULO 27 DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
