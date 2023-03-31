@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-integral-a-las-personas-adultas-mayores-91829
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-24"
-last_updated: "2022-09-02"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el jueves 24 de enero de 2013.
 
@@ -223,85 +223,127 @@ IV. Testar sin presiones ni violencia;
 
 V. Recibir protección por parte de su familia, instituciones locales de gobierno y sociedad contra toda forma de explotación, malos tratos físicos, y psicológicos;
 
-VI. Recibir un trato digno y apropiado de las autoridades estatales y municipales en el ejercicio y respeto de .sus derechos, así como en cualquier procedimiento administrativo o judicial en que intervengan en calidad de partes, agraviados, indiciados, sentenciados o víctimas del delito;
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
 
-VII. Recibir atención preferente, respetuosa, personalizada y expedita en las dependencias de Gobierno;
+VI. Garantizar que las personas servidoras públicas otorguen un trato digno, apropiado y libre de violencia institucional a las personas adultas mayores en el ejercicio y respeto de sus derechos humanos, así como en cualquier procedimiento administrativo o judicial en que intervengan en calidad de partes, agraviados, indiciados, sentenciados o víctimas de delito;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2023)</small>
+
+VII. Garantizar que las personas adultas mayores gocen del acceso a la justicia de manera eficaz, sin que se dificulten o dilaten innecesariamente los procedimientos para tal fin;
+
+VIII. Recibir atención preferente, respetuosa, personalizada y expedita en las dependencias de Gobierno;
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
-VIII. Tener acceso a los servicios necesarios considerando alimentos, bienes, servicios y condiciones humanas o materiales para su atención integral.
+IX. Tener acceso a los servicios necesarios considerando alimentos, bienes, servicios y condiciones humanas o materiales para su atención integral.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 Tener acceso a acciones y programas orientados a fortalecer las capacidades económicas para lograr una alimentación nutritiva, suficiente y culturalmente adecuada a sus circunstancias y capacidades, así como a los satisfactores necesarios para ello, así como cuando carezcan de medios propios, recibir apoyos en materia alimenticia.
 
-IX. Tener acceso preferente a los servicios generales de salud estatal, así como a la atención hospitalaria inmediata en casos de emergencia, fundamentalmente en beneficio de aquella población no derechohabiente de ninguna institución de seguridad social y de quien se encuentre en extrema pobreza;
+X. Tener acceso preferente a los servicios generales de salud estatal, así como a la atención hospitalaria inmediata en casos de emergencia, fundamentalmente en beneficio de aquella población no derechohabiente de ninguna institución de seguridad social y de quien se encuentre en extrema pobreza;
 
-X. Recibir orientación en materia de nutrición, higiene y servicios de geriatría, gerontología y tanatología en su caso, así como a todo aquello que favorezca su cuidado personal;
+XI. Recibir orientación en materia de nutrición, higiene y servicios de geriatría, gerontología y tanatología en su caso, así como a todo aquello que favorezca su cuidado personal;
 
-XI. Contar con una cartilla médica y autocuidado para el control de su salud;
+XII. Contar con una cartilla médica y autocuidado para el control de su salud;
 
-XII. Recibir educación conforme lo señala la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Michoacán de Ocampo;
+XIII. Recibir educación conforme lo señala la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Michoacán de Ocampo;
 
-XIII. Participar en los programas y procesos productivos, de educación y capacitación de su comunidad;
+XIV. Participar en los programas y procesos productivos, de educación y capacitación de su comunidad;
 
-XIV. Recibir información sobre las instituciones que prestan servicios para su atención integral;
+XV. Recibir información sobre las instituciones que prestan servicios para su atención integral;
 
-XV. Participar y disfrutar de las actividades, programas y servicios culturales, deportivos y recreativos de su comunidad;
+XVI. Participar y disfrutar de las actividades, programas y servicios culturales, deportivos y recreativos de su comunidad;
 
-XVI. Obtener información gerontológica disponible en los ámbitos médico, jurídico, social, cultural, económico y demás relativos;
+XVII. Obtener información gerontológica disponible en los ámbitos médico, jurídico, social, cultural, económico y demás relativos;
 
-XVII. Gozar de los espacios de esparcimiento, entretenimiento, expresión y diversión que promuevan con los Gobiernos Estatal y Municipal así como la sociedad civil, en materia de cultura y recreación;
+XVIII. Gozar de los espacios de esparcimiento, entretenimiento, expresión y diversión que promuevan con los Gobiernos Estatal y Municipal así como la sociedad civil, en materia de cultura y recreación;
 
-XVIII. Formar asociaciones, grupos u organizaciones de apoyo mutuo y de participación en la vida social y comunitaria;
+XIX. Formar asociaciones, grupos u organizaciones de apoyo mutuo y de participación en la vida social y comunitaria;
 
-XIX. Gozar de igualdad de oportunidades en el acceso al trabajo digno y socialmente útil;
-
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
-
-XX. Decidir libremente sobre su actividad laboral y a seguir siendo parte activa de la sociedad, recibiendo en consecuencia la oportunidad, en igualdad de condiciones, de desempeñarse en trabajos, actividades lucrativas o voluntarias, conforme a sus propios intereses, profesión, oficio o habilidad, aprovechando de esta manera sus capacidades y experiencias. Las deficiencias físicas, psíquicas, cognitivas o de cualquier otro carácter, no podrán ser tomadas válidamente como elementos que excluyan a las personas mayores de su derecho al trabajo. La denegación de llevar a cabo ajustes razonables, en el ejercicio pleno del derecho al trabajo de las personas mayores, será considerado como una discriminación en si misma por razón de edad;
+XX. Gozar de igualdad de oportunidades en el acceso al trabajo digno y socialmente útil;
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
-XXI. Acceder a capacitación que le permita desarrollar una actividad o la prestación de un servicio acorde con su edad y capacidad, así como asesoría y seguimiento a iniciativas de gestión de crédito y micro crédito;
+XXI. Decidir libremente sobre su actividad laboral y a seguir siendo parte activa de la sociedad, recibiendo en consecuencia la oportunidad, en igualdad de condiciones, de desempeñarse en trabajos, actividades lucrativas o voluntarias, conforme a sus propios intereses, profesión, oficio o habilidad, aprovechando de esta manera sus capacidades y experiencias. Las deficiencias físicas, psíquicas, cognitivas o de cualquier otro carácter, no podrán ser tomadas válidamente como elementos que excluyan a las personas mayores de su derecho al trabajo. La denegación de llevar a cabo ajustes razonables, en el ejercicio pleno del derecho al trabajo de las personas mayores, será considerado como una discriminación en si misma por razón de edad;
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
-XXII. Ingresar a bolsas de trabajo de las instituciones públicas y privadas, así como gozar de igualdad de oportunidades en el acceso al trabajo o en otras opciones que les permitan un ingreso propio y un desempeño productivo.
+XXII. Acceder a capacitación que le permita desarrollar una actividad o la prestación de un servicio acorde con su edad y capacidad, así como asesoría y seguimiento a iniciativas de gestión de crédito y micro crédito;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XXIII. Ingresar a bolsas de trabajo de las instituciones públicas y privadas, así como gozar de igualdad de oportunidades en el acceso al trabajo o en otras opciones que les permitan un ingreso propio y un desempeño productivo.
 
 Acceder a las oportunidades de empleo en áreas especiales en las que pueda desarrollarse dentro de las fuentes de trabajo, con horarios accesibles, de acuerdo con las prestaciones de ley, con salarios dignos y reconocimiento al derecho de asociación y libertad sindical.
 
-XXIII. Disfrutar de los servicios públicos con perspectiva de género y calidad;
+XXIV. Disfrutar de los servicios públicos con perspectiva de género y calidad;
 
-XXIV. Ocupar su tiempo libre en actividades productivas, recreativas, culturales, deportivas y de esparcimiento;
+XXV. Ocupar su tiempo libre en actividades productivas, recreativas, culturales, deportivas y de esparcimiento;
 
-XXV. Realizar giras de turismo social dentro y fuera del Estado;
+XXVI. Realizar giras de turismo social dentro y fuera del Estado;
 
-XXVI. Ser beneficiario de subsidios y estímulos fiscales en las contribuciones estatales y municipales que apruebe el Congreso del Estado en los ordenamientos legales aplicables;
+XXVII. Ser beneficiario de subsidios y estímulos fiscales en las contribuciones estatales y municipales que apruebe el Congreso del Estado en los ordenamientos legales aplicables;
 
-XXVII. Ser beneficiario de los porcentajes de descuentos concertados en determinados bienes y servicios públicos estatales y municipales, establecimientos comerciales, centros hospitalarios y otros prestadores de servicios técnicos y profesionales así como, los referentes a transporte público, tarifas en el suministro de agua potable y alcantarillado y demás que se convengan;
+XXVIII. Ser beneficiario de los porcentajes de descuentos concertados en determinados bienes y servicios públicos estatales y municipales, establecimientos comerciales, centros hospitalarios y otros prestadores de servicios técnicos y profesionales así como, los referentes a transporte público, tarifas en el suministro de agua potable y alcantarillado y demás que se convengan;
 
-XXVIII. Estar informados de las condonaciones y descuentos a que tengan derecho;
+XXIX. Estar informados de las condonaciones y descuentos a que tengan derecho;
 
-XXIX. Expresar sus opiniones libremente;
+XXX. Expresar sus opiniones libremente;
 
-XXX. Vivir en el seno de una familia o mantener relaciones personales solidarias y contacto directo con ella, aún en el caso de estar separados de la misma, a menos que el adulto mayor no lo desee o que medie causa de enfermedad grave, contagiosa o mental para lo cual requiera ser internado en una institución especializada;
+XXXI. Vivir en el seno de una familia o mantener relaciones personales solidarias y contacto directo con ella, aún en el caso de estar separados de la misma, a menos que el adulto mayor no lo desee o que medie causa de enfermedad grave, contagiosa o mental para lo cual requiera ser internado en una institución especializada;
 
-XXXI. Vivir en entornos seguros dignos y decorosos, que satisfagan sus necesidades y requerimientos, donde ejerzan libremente sus derechos;
+XXXII. Vivir en entornos seguros dignos y decorosos, que satisfagan sus necesidades y requerimientos, donde ejerzan libremente sus derechos;
 
-XXXII. Contar con entornos públicos equipados con infraestructura adecuada a sus condiciones y capacidades;
+XXXIII. Contar con entornos públicos equipados con infraestructura adecuada a sus condiciones y capacidades;
 
-XXXIII. Recibir protección por parte de la familia, comunidad y sociedad, así como de las dependencias estatales y municipales;
+XXXIV. Recibir protección por parte de la familia, comunidad y sociedad, así como de las dependencias estatales y municipales;
 
-XXXIV. Participar activamente en la sociedad;
+XXXV. Participar activamente en la sociedad;
 
-XXXV. Recibir el apoyo y asistencia de los órganos e instituciones locales de gobierno, en lo relativo al ejercicio, cuidado y respeto de sus derechos;
+XXXVI. Recibir el apoyo y asistencia de los órganos e instituciones locales de gobierno, en lo relativo al ejercicio, cuidado y respeto de sus derechos;
 
-XXXVI. A una vida con calidad;
+XXXVII. A una vida con calidad;
 
-XXXVII. A demandarles alimentos a su familia en los términos del Código Familiar para el Estado de Michoacán de Ocampo; y,
+XXXVIII. A demandarles alimentos a su familia en los términos del Código Familiar para el Estado de Michoacán de Ocampo; y,
 
-XXXVIII. Las demás que le confiera esta Ley y otras disposiciones aplicables.
+XXXIX. Las demás que le confiera esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 9 Bis.
+
+Las personas adultas mayores tienen derecho a vivir en un entorno seguro y libre de cualquier tipo de violencia o maltrato, así como a recibir un trato digno, ser respetadas y valoradas sin discriminación.
+
+Para efectos de la presente ley, la violencia comprenderá, de manera enunciativa más no limitativa, cualquier acción u omisión cometida por personas particulares o personas servidoras públicas que le cause un daño físico, psicológico, sexual o institucional a una persona mayor. También se entenderá por violencia el abuso económico, financiero o patrimonial, la explotación laboral, el maltrato institucional, abandono a su persona, el perjuicio o la destrucción de sus bienes personales o la negligencia en sus cuidados.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 9 Ter.
+
+Se entenderá por violencia contra las personas adultas mayores cualquier acción u omisión que se genere tanto en el ámbito privado como en el público, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte.
+
+Los tipos de violencia son:
+
+I. La violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, misma que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la persona víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+II. La violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
+
+III. La violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la persona víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la persona víctima;
+
+IV. La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la persona víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la persona víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder;
+
+VI. La violencia institucional. Son todos aquellos actos, procedimientos u omisiones procedentes de los Poderes Públicos del Estado, así como de los organismos autónomos, empresas públicas y privadas y los gobiernos municipales, que se manifiestan a través de las acciones individuales por parte de las personas servidoras públicas que ejerzan cualquier tipo de maltrato, abuso o negligencia en perjuicio del bienestar de las personas adultas mayores y les impida el pleno goce de sus derechos humanos; y,
+
+VII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las personas adultas mayores.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2023)</small>
+
+###### ARTÍCULO 9 Quater.
+
+A fin de eliminar toda forma de violencia contra las personas adultas mayores, las autoridades pertenecientes a los Poderes Públicos, organismos autónomos y municipios del Estado, en el ámbito de sus respectivas competencias, deberán realizar todas las acciones necesarias, para erradicar el maltrato y la violencia.
 
 ### CAPÍTULO IV. DEL PODER EJECUTIVO
 
@@ -1181,7 +1223,11 @@ XXXVIII. Promover el establecimiento de programas educativos específicos, la co
 
 XXXIX. Solicitar asesoría de organizaciones nacionales e internacionales; y,
 
-XL. Las demás que le confiera esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2023)</small>
+
+XL. Capacitar a las personas servidoras públicas en materia en derechos humanos de las personas adultas mayores, para garantizar su trato digno y libre de violencia institucional; y,
+
+XLI. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 32.
 
@@ -1518,3 +1564,13 @@ El Ejecutivo Estatal y los Gobiernos Municipales contarán con noventa días a p
 ###### ARTÍCULO CUARTO.
 
 El presente Decreto deberá hacerse de conocimiento de las comisiones de Desarrollo Social, así como a la de Fortalecimiento Municipal y Límites Territoriales, de este Poder Legislativo, para efectos de la armonización de lo aquí dictaminado en lo que concierne a sus respectivas competencias.
+
+P.O. 31 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 351 POR EL QUE “SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 9, SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 9, RECORRIÉNDOSE EN LO SUBSECUENTE LAS DEMÁS FRACCIONES; Y SE ADICIONAN LOS ARTÍCULOS 9 BIS, 9 TER, 9 QUATER, Y LA FRACCIÓN XL AL ARTÍCULO 31, RECORRIÉNDOSE EN LO SUBSECUENTE LAS DEMÁS FRACCIONES, TODOS DE LA LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEGUNDO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
