@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-839
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-21"
-last_updated: "2023-03-30"
+last_updated: "2023-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 31 DE MARZO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -2100,3 +2102,45 @@ P.O. 30 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 488, POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO, LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y, LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Se abroga la Ley Orgánica de la Administración Pública para el Estado de Hidalgo, publicada en el Periódico Oficial del Estado de fecha 21 de noviembre de 2011.
+
+CUARTO.- Las Dependencias y Entidades de la Administración Pública Estatal, en un plazo no mayor a 120 días naturales a la entrada en vigor del presente Decreto, deberán emitir los reglamentos interiores, estatutos orgánicos y manuales que sean necesarios para la operatividad de las áreas que la conforman.
+
+QUINTO.- Los recursos humanos, financieros y materiales, con los que cuenten las Dependencias y Entidades de la Administración Pública cuya adscripción cambia por disposición o consecuencia del presente Decreto, serán transferidos a su nueva Dependencia o Entidad en un plazo máximo de 120 días naturales a partir de la entrada en vigor del mismo.
+
+Las direcciones generales de administración u homólogos serán las encargadas de coordinar el proceso de transferencia de los recursos citados en el párrafo anterior.
+
+SEXTO.- En todos los ordenamientos legales y administrativos que señalen:
+
+a) A la Secretaría de Finanzas Públicas, se entenderán referidos a la Secretaría de Hacienda;
+
+b) A la Secretaría de Desarrollo Social, se entenderán referidos a la Secretaría de Bienestar e Inclusión Social;
+
+c) A la Secretaría de Obras Públicas y Ordenamiento Territorial, se referirán a la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible, y
+
+d) A la Secretaría de Desarrollo Agropecuario, se referirán a la Secretaría de Agricultura y Desarrollo Rural.
+
+Lo anterior hasta en tanto se realicen las adecuaciones legales y administrativas correspondientes.
+
+SÉPTIMO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la Dependencia o Entidad responsable de los mismos, conforme a las disposiciones jurídicas aplicables.
+
+OCTAVO.- A más tardar el 05 de septiembre de 2027 se deberá crear un organismo encargado de llevar a cabo la ejecución de los concursos y adjudicación de contratos en materia de compra y obra pública del Gobierno del Estado.
+
+Para ello deberá integrarse un plan estratégico que facilite la implementación del organismo señalado en el párrafo anterior, el cual será elaborado por la Oficialía Mayor, la Secretaría de Hacienda y la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible, en un plazo no mayor a dos años a partir de la entrada en vigor del presente Decreto.
+
+Las atribuciones con que cuenten la Oficialía Mayor y la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible en materia de compra y obra pública, respectivamente, pasarán a formar parte de las facultades del organismo señalado en el primer párrafo de este artículo, una vez que el mismo entre en funciones.
+
+NOVENO.- Hasta en tanto no se realicen las adecuaciones que por mandato judicial se ordenaron realizar a la Ley de Archivos para el Estado de Hidalgo, el Archivo General del Estado continuará dependiendo jerárquica, presupuestal y administrativamente de la Oficialía Mayor, la cual contará para tal efecto, con las siguientes atribuciones:
+
+a) Dirigir, coordinar y regular la formulación, ejecución y difusión de las políticas, planes, programas, proyectos y acciones establecidas en la normatividad vigente al Sistema Estatal de Archivos, que garantice la adecuada administración documental de los archivos del Poder Ejecutivo del Estado; y
+
+b) Coadyuvar con acciones que aporten el cumplimiento de la normatividad en materia de archivos, a fin de contribuir a la transparencia y rendición de cuentas, así como a la operación del Sistema Estatal Anticorrupción.
