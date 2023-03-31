@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-51381"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2022-10-21"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -87,7 +87,9 @@ III.- Promover el desarrollo de los bienes y servicios ambientales de los ecosis
 
 IV.- Organizar, capacitar, operar, integrar y profesionalizar las instituciones públicas del Estado y Municipios, para el desarrollo forestal sustentable; y
 
-V.- Respetar y vigilar el derecho al uso y disfrute preferente de los recursos forestales en los lugares que ocupan y habitan las comunidades indígenas, campesinos y pequeños propietarios, en los términos del Artículo 2 fracción VI de la Constitución Política de los Estados Unidos Mexicanos y demás normatividad aplicable.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+
+V.- Respetar y vigilar el derecho al uso y disfrute preferente de los recursos forestales en los lugares que ocupan y habitan las comunidades indígenas, campesinos y pequeños propietarios, en los términos del Artículo 2 fracción VI de la Constitución Política de los Estados Unidos Mexicanos y demás normatividad aplicable. Así como fomentar mecanismos de manejo y protección de los ecosistemas forestales de conformidad a sus prácticas y perspectivas, salvaguardando el conocimiento de las mismas, respetando sus derechos de consulta libre, previa e informada y su derecho de conocimiento fundamentado previo, según corresponda.
 
 ###### ARTICULO 3.
 
@@ -170,6 +172,10 @@ Para los efectos de esta Ley, se entenderá por:
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 I.- Aprovechamiento forestal sustentable: La extracción realizada en los términos de esta Ley, de los recursos forestales del medio en que se encuentren, incluyendo los maderables y los no maderables, en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos por periodos indefinidos;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2023)</small>
+
+I Bis.- Acciones afirmativas: Medidas temporales, compensatorias o de promoción, a favor de personas o grupos específicos, para corregir situaciones patentes de desigualdad en el disfrute de derechos y garantizar la igualdad sustantiva de oportunidades, mientras subsistan dichas situaciones;
 
 II.- Áreas de Protección Forestal: Los espacios forestales o boscosos colindantes a la zona Federal y de influencia de nacimientos, corrientes, cursos y cuerpos de agua o la faja de terreno inmediata a los cuerpos de propiedad particular, en la extensión que en cada caso fije la Autoridad, de acuerdo con el Reglamento de esta Ley;
 
@@ -265,7 +271,9 @@ XLII.- Sanidad forestal: Lineamientos, medidas y restricciones para la detecció
 
 XLIII.- Secretaría: La Secretaría de Medio Ambiente y Ordenamiento Territorial;
 
-XLIV.- Servicios ambientales: Los que brindan los ecosistemas forestales de manera natural o por medio del manejo sustentable de los recursos forestales, tales como la provisión del agua en calidad y cantidad; la captura de carbono, de contaminantes y componentes naturales; la generación de oxígeno; el amortiguamiento del impacto de los fenómenos naturales; la modulación o regulación climática; la protección de la biodiversidad, de los ecosistemas y formas de vida; la protección y recuperación de suelos; el paisaje y la recreación, entre otros;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+
+XLIV.- Servicios ambientales: Los que brindan los ecosistemas forestales de manera natural o por medio del manejo sustentable de los recursos forestales, que pueden ser servicios de provisión, de regulación, de soporte o culturales, y que son necesarios para la supervivencia del sistema natural y biológico en su conjunto y que proporcionan beneficios al ser humano, tales como la provisión del agua en calidad y cantidad; la captura de carbono, de contaminantes y componentes naturales; la generación de oxígeno; el amortiguamiento del impacto de los fenómenos naturales; la modulación o regulación climática; la protección de la biodiversidad, de los ecosistemas y formas de vida; la protección y recuperación de suelos; el paisaje y la recreación, entre otros;
 
 XLV.- Servicios técnicos forestales: Las actividades realizadas para la planificación y ejecución de la silvicultura, el manejo forestal, la asesoría y capacitación de los propietarios o poseedores de recursos forestales;
 
@@ -297,9 +305,11 @@ LVII.- Visita de verificación o supervisión: La que realiza el personal autori
 
 ### CAPITULO III. DE LA COORDINACION INSTITUCIONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2023)</small>
+
 ###### ARTICULO 5.
 
-El Estado, a través de la Secretaría, podrá suscribir convenios o acuerdos de coordinación con la Federación, para asumir las siguientes funciones:
+El Estado, a través de la Secretaría, podrá suscribir convenios o acuerdos de coordinación con la Federación, con la participación, en su caso, de los municipios, en el ámbito territorial de su competencia, para asumir las siguientes funciones:
 
 I.- Impulsar la vinculación interinstitucional en el marco del Servicio Nacional Forestal y de los sistemas y esquemas de ventanilla única para la atención eficiente del sector;
 
@@ -322,6 +332,10 @@ IX.- Autorizar el aprovechamiento de los recursos forestales maderables, no made
 X.- Dictaminar, autorizar y evaluar los programas de manejo forestal, así como regular y asistir a los servicios técnicos forestales; y
 
 XI.- Evaluar el impacto ambiental de las obras o actividades forestales a que se refiere el Artículo 28 de la Ley General del Equilibrio Ecológico y la Protección del Ambiente, que apliquen a las actividades forestales, así como el Art. 5° de su Reglamento.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2023)</small>
+
+Los actos y procedimientos que se realicen al amparo de este artículo deberán de efectuarse de acuerdo con esta Ley y la Ley General de Desarrollo Forestal Sustentable, su Reglamento, las disposiciones federales y las que expida la Secretaría, debiéndose garantizar la plena integralidad con el Sistema Nacional de Gestión Forestal.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -425,9 +439,9 @@ IV.- Coadyuvar en la adopción y consolidación del Servicio Nacional Forestal;
 
 V.- Promover incentivos económicos en materia forestal y lineamientos para su aplicación y evaluación;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
 
-VI.- Establecer los lineamientos para integrar el Sistema Estatal de Información Forestal e incorporarlo al Sistema Estatal de Información Ambiental;
+VI.- Establecer los lineamientos para integrar el Sistema Estatal de Información Forestal e incorporarlo al Sistema Estatal de Información Ambiental y al Sistema Nacional de Información Forestal;
 
 VII.- Promover la integración, monitoreo y actualización del Inventario Forestal Estatal y de Suelos;
 
@@ -862,6 +876,10 @@ IV.- Otorgar los permisos para el aprovechamiento de los recursos forestales en 
 ###### ARTICULO 38.
 
 Previamente a las autorizaciones para el aprovechamiento de los recursos forestales, la Secretaría obtendrá las opiniones y observaciones técnicas al Consejo Estatal Forestal, para efecto del Artículo 55 de esta Ley, sin que ello implique suspender o interrumpir los plazos señalados en la presente Ley, para emitir las autorizaciones correspondientes, de acuerdo a los términos y condiciones previstos en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2023)</small>
+
+El Consejo Estatal Forestal podrá acordar la constitución de grupos de trabajo para la emisión de estas opiniones y observaciones técnicas. El acuerdo que emita el Consejo, establecerá la forma en que los grupos de trabajo deliberarán y comunicarán su resolución a la Secretaría.
 
 ###### ARTICULO 39.
 
@@ -2188,5 +2206,11 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 P.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 282 QUE REFORMAN (SIC) LA FRACCIÓN II BIS, DEL ARTÍCULO 2 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 493 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
