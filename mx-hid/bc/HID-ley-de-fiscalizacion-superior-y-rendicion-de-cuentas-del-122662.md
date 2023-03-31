@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-122662
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-10"
-last_updated: "2022-10-21"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 10 de julio de 2017.
 
@@ -87,9 +87,17 @@ III. Aplicativo digital: Cualquier plataforma informática que permita la intera
 
 IV. Auditoría Superior: La Auditoría Superior del Estado de Hidalgo;
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
 
-IV Bis.- Auditorías: proceso sistemático en el que de manera objetiva se obtiene y se evalúa evidencia para determinar si las acciones llevadas a cabo por los entes sujetos a revisión se realizaron de conformidad con la normatividad establecida o con base en principios que aseguren una gestión pública adecuada;
+IV BIS. Auditorías: proceso sistemático en el que de manera objetiva se obtiene y se evalúa evidencia para determinar si las acciones llevadas a cabo por los entes sujetos a revisión se realizaron de conformidad con la normatividad establecida o con base en principios que aseguren una gestión pública adecuada;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2023)</small>
+
+IV TER. Autonomía de gestión: la facultad de la Auditoría Superior para decidir sobre su organización interna, estructura, funcionamiento y resoluciones, así como la administración de sus recursos humanos, materiales y financieros que utilice para la ejecución de sus atribuciones, en los términos contenidos en la Constitución del Estado y esta Ley;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2023)</small>
+
+IV QUATER. Autonomía técnica: la facultad de la Auditoría Superior para decidir sobre la planeación, programación, ejecución, informe y seguimiento en el proceso de la fiscalización superior;
 
 V. Comisión, Comisión Inspectora: La Comisión Inspectora de la Auditoría Superior del Estado;
 
@@ -181,9 +189,11 @@ El proceso de fiscalización superior podrá iniciar a partir del primer día h�
 
 ### Capítulo II. De las notificaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2023)</small>
+
 ###### Artículo 10.
 
-Las notificaciones de los actos que emita la Auditoría Superior del Estado podrán efectuarse:
+Las notificaciones de los actos que emita la Auditoria Superior del Estado podrán efectuarse:
 
 I. Personalmente, en las instalaciones de la Auditoría Superior, en el domicilio de oficina, fiscal o particular según corresponda señalado por la Entidad Fiscalizada, o mediante correo certificado con acuse de recibo. En el acto de la diligencia, se entregará una cédula que contendrá: nombre de la Auditoría Superior, número de oficio, transcripción, en lo conducente del acto que se le notifique, día y hora en que se hace dicha notificación y persona en poder de la cual se deja, recabando la firma o huella digital de quien la recibe o la razón de no haber querido hacerlo.
 
@@ -193,9 +203,15 @@ Si la persona que deba ser notificada, se niega a recibir al servidor público e
 
 Las notificaciones que se realicen a los servidores públicos en funciones por conducto de la oficialía de partes de la Entidad Fiscalizada al que se encuentren adscritos, o a las personas morales por conducto de su oficina de recepción, se entenderán legalmente efectuadas cuando además de la cédula de notificación obre el sello de recibido en el documento correspondiente.
 
-II. Mediante actuaciones digitales, a través del aplicativo digital que haga uso de la firma electrónica avanzada designado por la Auditoría Superior para tal efecto, cuando se trate de servidores públicos; tratándose de personas distintas, las notificaciones se enterarán en la dirección de correo electrónico señalada por la persona a quien deba notificarse.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MARZO DE 2023)</small>
+
+II. Mediante actuaciones digitales, a través del aplicativo digital que haga uso de la firma electrónica avanzada designado por la Auditoria Superior para tal efecto, cuando se trate de servidores públicos; tratándose de personas distintas, las notificaciones se enterarán en la dirección de correo electrónico señalada por la persona a quien deba notificarse.
 
 Cuando la persona reciba actuaciones digitales, se generará un acuse de recibo digital, a través del cual confirmarán la fecha y hora de recepción de los documentos relacionados con las actuaciones antes señaladas.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2023)</small>
+
+Ante la omisión de generar el acuse de recibo al que se refiere el párrafo anterior o la falta de consulta de la notificación digital, ésta se tendrá por realizada al tercer día hábil, contado a partir del día siguiente en que fue enviado el referido aviso o notificación. Será responsabilidad de las Entidades Fiscalizadas mantener vigente el certificado de Firma Electrónica Avanzada, así como la cuenta de correo electrónico señalada para efectos de notificación de los actos derivados de la auditoría por medios electrónicos o digitales.
 
 III. Por estrados, cuando la persona a quien deba notificarse así lo designe, cambie de domicilio sin haberlo hecho de conocimiento a la Auditoría Superior, o bien, no señalare domicilio o dirección de correo electrónico.
 
@@ -481,13 +497,25 @@ La Auditoría Superior podrá realizar revisiones en el ejercicio fiscal en curs
 
 Las recomendaciones preventivas deberán ser atendidas por las Entidades Fiscalizadas; para lo cual, la Auditoría Superior dará seguimiento a las mismas, durante la revisión de la Cuenta Pública.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
+
 ###### Artículo 33.
 
-Cualquier persona podrá presentar denuncias fundadas con documentos o evidencias que permitan presumir el manejo, aplicación o custodia irregular de recursos públicos, o de su desvío, en los supuestos previstos en esta Ley. Las denuncias deberán presentarse directamente a la Auditoría Superior.
+Cualquier persona podrá presentar denuncias fundadas con documentos o evidencias que permitan presumir el manejo, aplicación o custodia irregular de recursos públicos, o de su desvío, en los supuestos previstos en esta Ley.
+
+El escrito de denuncia deberá presentarse de forma presencial o a través de medios electrónicos a la Auditoría Superior, y deberá contar, como mínimo, con los siguientes elementos:
+
+I. El ejercicio en que se presentan los presuntos hechos irregulares, y
+
+II. Descripción de los presuntos hechos irregulares.
+
+Al escrito de denuncia deberán acompañarse los elementos de prueba y los probables responsables, cuando sea posible, que se relacionen directamente con los hechos denunciados. La Auditoría Superior deberá proteger en todo momento la identidad del denunciante.
 
 ###### Artículo 34.
 
 Derivado de denuncias por actos u omisiones que presuman daño o perjuicio, o ambos, a la Hacienda Pública del Estado o del Municipio o al patrimonio de las Entidades Fiscalizadas, la Auditoría Superior previo examen de procedencia, fiscalizará de manera directa durante el ejercicio fiscal en curso; así como respecto de ejercicios anteriores, los hechos denunciados, rindiendo un Informe Excepcional de auditoría al Congreso del Estado dentro de los 30 días hábiles posteriores a la conclusión de la revisión y, en su caso, ejercerá las acciones a que haya lugar en términos de Ley.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
 
 ###### Artículo 35.
 
@@ -499,11 +527,13 @@ II. Irregularidades en la captación o en el manejo y utilización de los recurs
 
 III. Actos presuntamente irregulares en la contratación y ejecución de obras, contratación y prestación de servicios públicos, adquisición de bienes, y otorgamiento de permisos, licencias y concesiones entre otros;
 
-IV. La comisión recurrente de irregularidades en el ejercicio de los recursos públicos; y
+IV. La comisión recurrente de irregularidades en el ejercicio de los recursos públicos; e
 
 V. Inconsistencia en la información financiera o programática de cualquier entidad fiscalizada que oculte o pueda originar daños o perjuicios a su patrimonio.
 
 La Auditoría Superior informará al denunciante la resolución que tome sobre la procedencia de iniciar la revisión correspondiente.
+
+En el caso de las denuncias a través de medios electrónicos, la respuesta se realizará por el mismo medio de conformidad con las disposiciones aplicables.
 
 ###### Artículo 36.
 
@@ -667,9 +697,13 @@ La Auditoría Superior, una vez que cuente con los elementos necesarios, promove
 
 La Auditoría Superior podrá imponer multas, conforme a lo siguiente:
 
-I. Cuando los servidores públicos o las personas físicas no atiendan los requerimientos que se le realicen; salvo que exista disposición legal o mandato judicial que se los impida, o por causas ajenas a su responsabilidad; la Auditoría Superior podrá imponerles una multa mínima de cien a una máxima de mil veces el valor diario vigente de la Unidad de Medida y Actualización;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
 
-II. En el caso de personas morales, públicas o privadas, la multa consistirá en un mínimo de trescientas a mil quinientas veces el valor diario vigente de la Unidad de Medida y Actualización;
+I. Cuando los servidores públicos o las personas físicas no atiendan los requerimientos que se le realicen; salvo que exista disposición legal o mandato judicial que se los impida, o por causas ajenas a su responsabilidad; la Auditoría Superior podrá imponerles una multa mínima de ciento cincuenta a una máxima de dos mil veces el valor diario vigente de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+
+II. En el caso de personas morales, públicas o privadas, la multa consistirá en un mínimo de trescientas a dos mil veces el valor diario vigente de la Unidad de Medida y Actualización;
 
 III. Se aplicarán las multas previstas en este artículo a los terceros que hubieran firmado contratos para explotación de bienes públicos o recibidos en concesión o subcontratado de obra pública, administración de bienes o prestación de servicios mediante cualquier título legal con las Entidades Fiscalizadas;
 
@@ -678,6 +712,10 @@ IV. Insistir en su incumplimiento, se sancionará con una multa hasta del doble 
 V. Las multas establecidas en esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida; y
 
 VI. Las multas que se impongan en términos de este artículo, son independientes de las sanciones previstas en otras leyes, que resulten aplicables por la negativa a entregar información a la Auditoría Superior; así como por los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora o la entrega de información falsa.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2023)</small>
+
+VII. Para imponer la multa que corresponda, la Auditoría Superior debe oír previamente al presunto infractor y tener en cuenta sus condiciones económicas, así como la gravedad de la infracción cometida y en su caso, elementos atenuantes, su nivel jerárquico y la necesidad de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta Ley.
 
 ###### Artículo 56.
 
@@ -691,7 +729,17 @@ La autoridad competente se encargará de hacer efectivo su cobro en términos de
 
 La tramitación del recurso de reconsideración en contra de las multas que imponga la Auditoría Superior, se sujetará a lo siguiente:
 
-I. Se iniciará mediante escrito, que deberá presentarse ante la Auditoría Superior dentro del plazo de cinco días hábiles contados a partir de que surta efectos la notificación del acto, que contendrá: la mención de la autoridad administrativa de que emane, el nombre y firma autógrafa del recurrente, el domicilio que señala para oír y recibir notificaciones, el acto que se recurre, la fecha en que se le notificó, los agravios que le causa y los fundamentos jurídicos en contra del acto; asimismo, se acompañará copia de éste y de la constancia de notificación respectiva, así como las pruebas documentales o de cualquier otro tipo supervenientes que ofrezca y que tengan relación inmediata y directa con el acto recurrido;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MARZO DE 2023)</small>
+
+I. Se iniciará mediante escrito, que deberá presentarse ante la Auditoría Superior dentro del plazo de cinco días hábiles contados a partir de que surta efectos la notificación del acto, que contendrá: la mención de la autoridad administrativa de que emane, el nombre y firma autógrafa del recurrente, el domicilio que señala para oír y recibir notificaciones, el acto que se recurre, la fecha en que se le notificó, los agravios que le causa y los fundamentos jurídicos en contra del acto; asimismo, se acompañará copia de éste y de la constancia de notificación respectiva, así como las pruebas documentales o de cualquier otro tipo supervenientes que ofrezca y que tengan relación inmediata y directa con el acto recurrido.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2023)</small>
+
+Los documentos a que se refieren el párrafo anterior deberán agregarse al recurso. En caso de que la Auditoría Superior tenga indicios de que no existen o son falsos, o bien no sean legibles, podrá solicitar al recurrente la presentación del original o copia certificada para su cotejo.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2023)</small>
+
+Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la Auditoría Superior requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos, y tratándose de los que pueda tener a su disposición, bastará con que acompañe la solicitud de los mismos;
 
 II. Cuando no se cumpla con alguno de los requisitos establecidos en este artículo para la presentación del recurso de reconsideración, la Auditoría Superior prevendrá por una sola vez al inconforme para que, en un plazo de tres días hábiles, subsane la irregularidad en que hubiere incurrido en su presentación, en caso de no hacerlo el recurso se tendrá por no interpuesto;
 
@@ -701,7 +749,9 @@ El recurso será desechado por improcedente cuando se ubique en los siguientes s
 
 IV. La Auditoría Superior al acordar sobre la admisión del recurso, así como de las pruebas documentales o de cualquier otro tipo supervenientes ofrecidas, desechará de plano las que no fuesen idóneas para desvirtuar los hechos en que se basa el acto o no se relacionen directamente con el recurso; y
 
-V. Desahogadas las pruebas, si las hubiere, la Auditoría Superior examinará todos y cada uno de los agravios hechos valer por el recurrente y emitirá resolución dentro de los veinte días hábiles siguientes, a partir de que declare cerrada la instrucción, notificando dicha resolución al recurrente dentro de los tres días hábiles siguientes a su emisión.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MARZO DE 2023)</small>
+
+V. Desahogadas las pruebas, si las hubiere, la Auditoría Superior examinará todos y cada uno de los agravios hechos valer por el recurrente, pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto y emitirá resolución dentro de los veinte días hábiles siguientes, a partir de que declare cerrada la instrucción, notificando dicha resolución al recurrente dentro de los tres días hábiles siguientes a su emisión.
 
 La Auditoría Superior sobreseerá sin mayor trámite el recurso cuando: el recurrente se desista expresamente antes de que se emita la resolución respectiva; éste fallezca durante el procedimiento, si el acto sólo afecta a su persona; además si durante la sustanciación del recurso, sobreviene alguna de las casusas de improcedencia a que refiere la fracción III de este mismo artículo; o bien, hayan cesado los efectos del acto impugnado; falte el objeto o materia del acto; y no se probare la existencia del acto.
 
@@ -1178,6 +1228,14 @@ P.O. 17 DE AGOSTO DE 2020.
 P.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 270 POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 18 Y SE ADICIONA LA FRACCIÓN IV BIS DEL ARTÍCULO 2, ASÍ COMO LOS ARTÍCULO 18 BIS Y 18 TER A LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 482 POR EL QUE SE REFORMA EL ARTÍCULO 33, ARTÍCULO 35, FRACCIÓN I Y II DEL ARTÍCULO 55, FRACCIÓN V DEL ARTÍCULO 57; Y SE ADICIONA LA FRACCIÓN IV TER Y QUARTER DEL ARTÍCULO 2, UN PÁRRAFO A LA FRACCIÓN SEGUNDA DEL ARTÍCULO 10, LA FRACCIÓN VII DEL ARTÍCULO 55 Y DOS PÁRRAFOS A LA FRACCIÓN PRIMERA DEL ARTÍCULO 57 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
