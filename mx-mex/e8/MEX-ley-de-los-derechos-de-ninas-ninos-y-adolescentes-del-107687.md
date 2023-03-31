@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2023-02-03"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -1723,9 +1723,9 @@ VIII. No estar inscrita o inscrito en el Registro de Deudores Alimentarios Moros
 
 IX. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género.
 
-> <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2023)</small>
 
-Además de los anteriores, para el caso de personas titulares de las Procuradurías de Protección Municipal, se deberá aprobar la evaluación de conocimientos, previo curso de capacitación que realizará el DIFEM y la Certificación de competencia laboral sobre Gestión para la Promoción y Protección de los Derechos de Niñas, Niños y Adolescentes, emitida por el Instituto Hacendario del Estado de México, lo cual se podrá acreditar antes de su designación y hasta 30 días hábiles posteriores a la misma, a fin de asegurar los conocimientos y habilidades para ocupar el cargo.
+Además de los anteriores, para el caso de personas titulares de las Procuradurías de Protección Municipal, se deberá aprobar la evaluación de conocimientos, previo curso de capacitación que realizará el DIFEM y contar con certificación de competencia laboral relacionada con la protección integral y la restitución de derechos de las niñas, niños y adolescentes expedida por alguna institución con reconocimiento de validez oficial, que asegure los conocimientos y habilidades para desempeñar el cargo, de conformidad con los aspectos técnicos y operativos aplicables al Estado de México; lo cual se podrá acreditar antes de su designación y hasta 30 días hábiles posteriores a la misma, a fin de asegurar los conocimientos y habilidades para ocupar el cargo.
 
 > <small>(ADICIONADO, G.G. 8 DE ABRIL DE 2022)</small>
 
@@ -2300,3 +2300,13 @@ G.G. 3 DE FEBRERO DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 31 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 149.- POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 94 BIS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El requisito de la certificación de competencia laboral deberá acreditarse para aquellos titulares de nueva designación a partir de la publicación del presente Decreto.
