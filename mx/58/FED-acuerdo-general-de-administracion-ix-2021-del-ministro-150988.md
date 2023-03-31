@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-ix-2021-del-ministro-150988"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-09-07"
-last_updated: "2021-09-07"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150988&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2021-09-03"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION IX/2021, DEL MINISTRO PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE EMITEN LAS DIRECTRICES DEL MECANISMO INTEGRAL PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO SEXUAL Y CUALQUIER OTRA FORMA DE VIOLENCIA SEXUAL Y DE GENERO]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2023, DE LA PRESIDENTA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTICUATRO DE MARZO DE DOS MIL VEINTITRÉS, POR EL QUE SE ESTABLECEN LAS DENOMINACIONES Y ATRIBUCIONES DE LA UNIDAD GENERAL DE CONOCIMIENTO CIENTÍFICO Y DERECHOS HUMANOS, ASÍ COMO DE LA DIRECCIÓN GENERAL DE PREVENCIÓN, ATENCIÓN Y SEGUIMIENTO A CASOS DE VIOLENCIA DE GÉNERO”, PUBLICADO EN EL D.O.F. EL 31 DE MARZO DE 2023, SE MODIFICA LA DENOMINACIÓN DE LA UNIDAD GENERAL DE IGUALDAD DE GÉNERO, PARA QUEDAR COMO DIRECCIÓN GENERAL DE PREVENCIÓN, ATENCIÓN Y SEGUIMIENTO A CASOS DE VIOLENCIA DE GÉNERO, LA QUE EJERCERÁ LAS ATRIBUCIONES PREVISTAS EN LOS ARTÍCULOS SEXTO Y OCTAVO DEL PRESENTE ORDENAMIENTO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN IX/2021 DEL DOS DE SEPTIEMBRE DE DOS MIL VEINTIUNO, DEL MINISTRO PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EMITEN LAS DIRECTRICES DEL MECANISMO INTEGRAL PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO SEXUAL Y CUALQUIER OTRA FORMA DE VIOLENCIA SEXUAL Y DE GÉNERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MARZO DE 2023.
 
 Acuerdo publicado en el Número 5 del Diario Oficial de la Federación, el martes 7 de septiembre de 2021.
 
@@ -380,3 +382,37 @@ Así lo acordó y firma el Ministro Arturo Zaldívar Lelo de Larrea, Presidente 
 Ministro Presidente, Arturo Zaldívar Lelo de Larrea.- Firmado electrónicamente.- Director General de Asuntos Jurídicos, Luis Fernando Corona Horta.- Firmado electrónicamente.
 
 EN LA CIUDAD DE MÉXICO A TRES DE SEPTIEMBRE DE DOS MIL VEINTIUNO, EL MAESTRO LUIS FERNANDO CORONA HORTA, DIRECTOR GENERAL DE ASUNTOS JURÍDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CON FUNDAMENTO EN LOS ARTÍCULOS 9, FRACCIÓN X, Y 35, FRACCIÓN XX, DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN RELACIÓN CON EL NUMERAL SEGUNDO, FRACCIÓN I, DEL ACUERDO GENERAL DE ADMINISTRACIÓN I/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DEL VEINTIOCHO DE ENERO DE DOS MIL DIECINUEVE, POR EL QUE SE MODIFICA ORGÁNICA Y FUNCIONALMENTE SU ESTRUCTURA ADMINISTRATIVA.- CERTIFICA: Que la presente copia constante de cuarenta y tres fojas útiles concuerda fiel y exactamente con el ACUERDO DE ADMINISTRACIÓN IX/2021 DEL DOS DE SEPTIEMBRE DE DOS MIL VEINTIUNO, DEL MINISTRO PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EMITEN LAS DIRECTRICES DEL MECANISMO INTEGRAL PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO SEXUAL Y CUALQUIER OTRA FORMA DE VIOLENCIA SEXUAL Y DE GÉNERO formalizado mediante Firma Electrónica Certificada del Poder Judicial de la Federación, mismo que obra en los archivos de la Dirección General a mi cargo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 31 DE MARZO DE 2023.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2023, DE LA PRESIDENTA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTICUATRO DE MARZO DE DOS MIL VEINTITRÉS, POR EL QUE SE ESTABLECEN LAS DENOMINACIONES Y ATRIBUCIONES DE LA UNIDAD GENERAL DE CONOCIMIENTO CIENTÍFICO Y DERECHOS HUMANOS, ASÍ COMO DE LA DIRECCIÓN GENERAL DE PREVENCIÓN, ATENCIÓN Y SEGUIMIENTO A CASOS DE VIOLENCIA DE GÉNERO", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se modifica la denominación de la Dirección General de Derechos Humanos, para quedar como Unidad General de Conocimiento Científico y Derechos Humanos, la cual ejercerá las atribuciones previstas en los artículos 21 y 24, fracciones I, II, IV y V, del Reglamento Orgánico en Materia de Administración.
+
+Además, la Unidad General de Conocimiento Científico y Derechos Humanos tendrá las atribuciones siguientes:
+
+I. Promover el uso del conocimiento científico y técnico en las labores jurisdiccionales de la Suprema Corte, y
+
+II. Proponer criterios y procedimientos claros y transparentes para la utilización del conocimiento científico y técnico en las labores jurisdiccionales de la Suprema Corte de Justicia de la Nación.
+
+SEGUNDO. Se modifica la denominación de la Unidad General de Igualdad de Género, para quedar como Dirección General de Prevención, Atención y Seguimiento a Casos de Violencia de Género, la cual ejercerá las atribuciones previstas en el artículo 24, fracción III, del Reglamento Orgánico en Materia de Administración y los artículos sexto y octavo del Acuerdo General de Administración IX/2021 de dos de septiembre de dos mil veintiuno, del Ministro Presidente de la Suprema Corte de Justicia de la Nación, por el que se emiten las directrices del mecanismo integral para prevenir, atender y erradicar el acoso sexual y cualquier otra forma de violencia sexual y de género.
+
+TERCERO. Se faculta a la Secretaría General de la Presidencia para resolver los casos no previstos derivados de la instrumentación del presente Acuerdo General de Administración.
+
+## TRANSITORIOS
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor el veintisiete de marzo de dos mil veintitrés.
+
+SEGUNDO. En su caso, deberán formalizarse la entrega y recepción de recursos, información y documentación, derivado de la modificación de la organización de las áreas correspondientes con motivo de la entrada en vigor del presente Acuerdo General de Administración, de conformidad con las disposiciones jurídicas aplicables.
+
+TERCERO. Salvo lo previsto en el artículo transitorio siguiente, las referencias que los instrumentos normativos hacen a la Dirección General de Derechos Humanos y a la Unidad General de Igualdad de Género, se entenderán hechas a la Unidad General de Conocimiento Científico y Derechos Humanos.
+
+CUARTO. Las referencias que el Acuerdo General de Administración IX/2021 de dos de septiembre de dos mil veintiuno, del Ministro Presidente de la Suprema Corte de Justicia de la Nación, por el que se emiten las directrices del mecanismo integral para prevenir, atender y erradicar el acoso sexual y cualquier otra forma de violencia sexual y de género, hacen a la Unidad General de Igualdad de Género se entenderán hechas a la Dirección General de Prevención, Atención y Seguimiento de Casos de Violencia de Género.
+
+QUINTO. La Oficialía Mayor, en coordinación con los órganos y áreas competentes, realizará las acciones necesarias para adecuar las estructuras orgánicas conforme al presente Acuerdo General de Administración.
+
+SEXTO. Se derogan las disposiciones jurídicas que se opongan al presente Acuerdo General de Administración.
+
+SÉPTIMO. Publíquese el presente Acuerdo General de Administración en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
