@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-96299
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-17"
-last_updated: "2023-01-27"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,13 +27,17 @@ LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
 
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MARZO DE 2023.]</small>
+
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 17 de octubre de 2013.
 
 LIC. JOSÉ EDUARDO CALZADA ROVIROSA, Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
 
 LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Séptima Legislatura del Estado de Querétaro, expide la siguiente:
 
@@ -2161,11 +2165,15 @@ Las disposiciones referentes a las reformas y adiciones a las fracciones XXXIV y
 
 Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
 
+> <small>(F. DE E., P.O. 31 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO TERCERO.
 
-A partir de la entrada en vigor de la presente Ley, quedarán suspendidas para el Ejercicio Fiscal 2023, las disposiciones relativas al Impuesto de Entretenimientos Públicos Municipales previsto en el Capítulo Quinto del Título Tercero de la Ley de Hacienda del Estado de Querétaro, respecto de la circunscripción territorial de aquellos Municipios en cuyas Leyes de Ingresos se prevea el impuesto de entretenimientos públicos municipales y que tengan celebrado convenio de colaboración en materia fiscal con el Poder Ejecutivo del Estado, en el que se establezcan las bases para la recaudación de dicho impuesto municipal, de conformidad con lo establecido en la Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro.
+A partir de la entrada en vigor de la presente Ley, quedarán suspendidas para el Ejercicio Fiscal 2023, las disposiciones relativas al impuesto sobre diversiones y espectáculos públicos previsto en el Capítulo Quinto del Título Tercero de la Ley de Hacienda del Estado de Querétaro, respecto de la circunscripción territorial de aquellos Municipios en cuyas Leyes de Ingresos se prevea el impuesto de entretenimientos públicos municipales y que tengan celebrado convenio de colaboración en materia fiscal con el Poder Ejecutivo del Estado, en el que se establezcan las bases para la recaudación de dicho impuesto municipal, de conformidad con lo establecido en la Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro.
 
-Las obligaciones nacidas antes de la entrada en vigor de la presente Ley por concepto del impuesto sobre diversiones y entretenimientos públicos previsto en el Capítulo Quinto del Título Tercero de la Ley de Hacienda del Estado de Querétaro, deberán cumplirse en los términos previstos en dicha Ley respecto de los montos, formas y plazos establecidos, así como en las demás disposiciones fiscales estatales.
+> <small>(F. DE E., P.O. 31 DE MARZO DE 2023)</small>
+
+Las obligaciones nacidas antes de la entrada en vigor de la presente Ley por concepto del impuesto sobre diversiones y espectáculos públicos previsto en el Capítulo Quinto del Título Tercero de la Ley de Hacienda del Estado de Querétaro, deberán cumplirse en los términos previstos en dicha Ley respecto de los montos, formas y plazos establecidos, así como en las demás disposiciones fiscales estatales.
 
 Los procedimientos iniciados con anterioridad a la entrada en vigor de la presente Ley, deberán substanciarse y resolverse en términos de las disposiciones fiscales estatales vigentes hasta el 31 de diciembre de 2022.
 
