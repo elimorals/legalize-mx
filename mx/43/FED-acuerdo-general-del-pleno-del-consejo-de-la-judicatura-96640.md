@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2023-01-16"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MARZO DE 2023.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -2613,47 +2613,61 @@ X. Las demás que le confiera el Presidente, el Comité de Transparencia y las d
 
 La Unidad de Transparencia contará con las secretarías que determinen los acuerdos y manuales de organización respectivos.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LAS ATRIBUCIONES DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 31 DE MARZO DE 2023)</small>
 
 ###### Artículo 98 Septies.
 
-La Unidad de Prevención y Combate al Acoso Sexual es el área administrativa dependiente de la Secretaría General encargada de proporcionar atención en los casos de acoso sexual y cualquier otra forma de violencia sexual y de género a los y las trabajadoras en el Consejo.
+La Unidad de Prevención y Combate al Acoso Sexual es el área administrativa dependiente de la Secretaría General encargada de proporcionar acompañamiento en los casos de acoso sexual o cualquier otra forma de violencia sexual y/o de género presentados en el entorno laboral del Consejo, así como, de generar acciones con perspectiva de género para prevenir dichas conductas.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 21 DE JULIO DE 2020)</small>
+Dicho acompañamiento se brindará a las personas que laboren o hayan laborado en el Consejo, a las personas prestadoras de servicio social o practicantes profesionales y personas que no siendo trabajadoras del Consejo efectúan sus actividades en las instalaciones de éste; cuando se señale como probable agresor o agresora a quien labore o haya laborado en el Consejo.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LAS ATRIBUCIONES DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL, D.O.F. 31 DE MARZO DE 2023)</small>
 
 ###### Artículo 98 Octies.
 
-La persona Titular de la Unidad de Prevención y Combate al Acoso Sexual, tendrá las siguientes atribuciones, referidas a víctimas que laboren o hayan laborado en el Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral:
+La persona Titular de la Unidad de Prevención y Combate al Acoso Sexual, tendrá las siguientes atribuciones:
 
-I. Proporcionar atención jurídica, médica y psicológica de primer contacto, para las víctimas en casos de acoso sexual y cualquier otra forma de violencia sexual y de género;
+I. Proporcionar acompañamiento jurídico psicológico y restaurativo de primer contacto, a probables víctimas directas, en casos de acoso sexual o cualquier otra forma de violencia sexual y/o de género, presentados en el entorno laboral del Consejo.
 
-II. Asesorar a los y las trabajadoras en casos de acoso sexual y cualquier otra forma de violencia sexual y de género, así como dar el seguimiento correspondiente a los mismos;
+Para efectos del presente acuerdo, se entenderá por acompañamiento restaurativo a aquel que tiene por objeto identificar las afectaciones y necesidades de la persona probable víctima directa, favorecer la reflexión de la persona que causó la afectación y/o atender a la comunidad, a fin de generar una respuesta que cubra las necesidades de todas las personas involucradas y contribuya a la reparación del daño y comprensión del origen de la conducta, sus causas y sus consecuencias;
 
-III. Atender los casos de acoso laboral únicamente cuando se vinculen con otros de acoso sexual y cualquier otra forma de violencia sexual y de género;
+II. Brindar apoyo a las probables víctimas directas de acoso sexual o cualquier otra forma de violencia sexual y/o de género para la solicitud de apoyos médicos, conforme a la normatividad en la materia y, en los casos en los que resulte necesario, canalizarles a las instancias competentes para brindar atención médica;
 
-IV. Coadyuvar con las víctimas de acoso sexual y cualquier otra forma de violencia sexual y de género en la presentación de denuncias y en la solicitud de medidas cautelares, así como brindarles acompañamiento ante las instancias de investigación y substanciación en materia disciplinaria y, si fuese el caso, en procedimientos de naturaleza laboral;
+III. Brindar asesoría en la presentación de denuncias por acoso sexual o cualquier otra forma de violencia sexual y/o de género por la vía disciplinaria o laboral;
 
-V. Generar acciones con perspectiva de género que garanticen el acceso a los y las trabajadoras a una vida libre de violencia;
+IV. Brindar acompañamiento a probables víctimas directas de acoso sexual o cualquier otra forma de violencia sexual y/o de género ante las instancias de investigación y substanciación en materia disciplinaria y, si fuese el caso, en procedimientos de naturaleza laboral;
 
-VI. Elaborar programas que permitan erradicar la violencia sexual y de género contra los y las trabajadoras del Poder Judicial de la Federación;
+V. Coadyuvar con las probables víctimas directas de acoso sexual y cualquier otra forma de violencia sexual y/o de género, en la solicitud de medidas cautelares;
 
-VII. Rendir los informes que le sean requeridos por los órganos competentes del Consejo e igualmente solicitar información a las áreas vinculadas con los casos atendidos;
+VI. Sugerir medidas preventivas de carácter general a las personas titulares de órganos jurisdiccionales y áreas administrativas, encaminadas a la protección de probables víctimas de acoso sexual o cualquier otra forma de violencia sexual y/o de género;
 
-VIII. Crear un sistema de control y estadística de los asuntos atendidos;
+VII. Generar acciones institucionales con perspectiva de género que garanticen el acceso a una vida libre de violencia en el entorno laboral del Consejo;
 
-IX. Coadyuvar en la elaboración del presupuesto con perspectiva de género, a efecto de incorporar acciones con ese enfoque;
+VIII. Elaborar programas que permitan erradicar la violencia sexual y de género en el entorno laboral del Consejo;
 
-X. Realizar investigaciones y emitir protocolos de actuación que incluyan acciones preventivas para la adecuada prevención, detección y atención en casos de acoso sexual y cualquier otra forma de violencia sexual y de género, incluyendo, enunciativamente, la capacitación y sensibilización del personal adscrito a las distintas áreas administrativas del Consejo, particularmente las encargadas de la investigación y sustanciación de asuntos de índole laboral y disciplinaria;
+IX. Rendir los informes que le sean requeridos por los órganos competentes del Consejo e igualmente solicitar información a las áreas vinculadas con los casos atendidos;
 
-XI. Crear e implementar mecanismos relacionados con la presentación de denuncias ante las instancias correspondientes;
+X. Crear un sistema de control y estadística de los casos de violencia sexual y/o de género atendidos por la Unidad de Prevención y Combate al Acoso Sexual;
 
-XII. Implementar medidas que incentiven a los y las víctimas de acoso sexual y cualquier otra forma de violencia sexual y de género, a formular las denuncias respectivas;
+XI. Ejercer el presupuesto autorizado para la implementación de sus programas y acciones, y realizar propuestas a la Dirección General de Programación, Presupuesto y Tesorería con perspectiva de género para la ejecución del presupuesto de egresos del Consejo;
 
-XIII. Desarrollar mecanismos, lineamientos o protocolos para detectar ambientes de acoso en los órganos jurisdiccionales y áreas administrativas en el Poder Judicial de la Federación;
+XII. Realizar investigaciones académicas o estudios en materia de acoso sexual o cualquier otra forma de violencia sexual y/o de género, presentada en el entorno laboral del Consejo;
 
-XIV. Establecer mecanismos de interacción con las personas involucradas para solicitar información y allegarse de los elementos necesarios, para brindar la atención en términos de las fracciones anteriores; y
+XIII. Emitir protocolos de actuación que incluyan acciones preventivas para la adecuada prevención, detección y atención en casos de acoso sexual y/o cualquier otra forma de violencia sexual y/o de género, así como, proponer la normatividad del Consejo en la materia;
 
-XV. Las demás que establezcan el Pleno y las Comisiones.
+XIV. Realizar acciones de sensibilización y de difusión en materia de acoso sexual o cualquier otra forma de violencia sexual y/o de género en el Consejo, particularmente en las áreas encargadas de la investigación, substanciación o tramitación de asuntos de índole laboral y disciplinaria, así como, colaborar con la Escuela Federal de Formación Judicial para la formación y capacitación en materia de violencia sexual y violencia de género en el entorno laboral;
+
+XV. Coadyuvar en la implementación de mecanismos relacionados con la presentación de denuncias de acoso sexual o cualquier otra forma de violencia sexual y/o de género en el Consejo, ante las instancias correspondientes;
+
+XVI. Implementar medidas que incentiven la presentación de denuncias por acoso sexual o cualquier otra forma de violencia sexual y/o de género, presentado en el entorno laboral del Consejo;
+
+XVII. Desarrollar mecanismos para detectar ambientes de acoso sexual o cualquier otra forma de violencia sexual y/o de género;
+
+XVIII. Establecer mecanismos de interacción con las personas involucradas para solicitar información y allegarse de los elementos necesarios, para el adecuado ejercicio de sus atribuciones;
+
+XIX. Promover y suscribir convenios de colaboración con instituciones públicas de cualquier orden y nivel de gobierno, con organizaciones privadas y de la sociedad civil que brinden atención a casos de violencia sexual y/o de género; y
+
+XX. Las demás que establezcan el Pleno y las Comisiones.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
 
@@ -7166,3 +7180,17 @@ D.O.F. 16 DE ENERO DE 2023.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 31 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LAS ATRIBUCIONES DE LA UNIDAD DE PREVENCIÓN Y COMBATE AL ACOSO SEXUAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Unidad de Prevención y Combate al Acoso Sexual, tendrá competencia para dar atención a los casos de acoso sexual y de cualquier otra forma de violencia sexual y de género, de conformidad con lo previsto en el presente Acuerdo, incluso cuando hayan ocurrido antes de la presente reforma.
+
+Los casos que atiende la Unidad de Prevención y (sic) al Acoso Sexual al momento de la publicación del presente, continuarán su tramitarán de conformidad con las disposiciones previstas en este acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las áreas administrativas de su adscripción, deberá ejecutar las acciones necesarias para la implementación de este Acuerdo.
