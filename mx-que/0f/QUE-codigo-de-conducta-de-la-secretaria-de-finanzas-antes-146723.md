@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-conducta-de-la-secretaria-de-finanzas-antes-146723"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-01-15"
-last_updated: "2021-01-15"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE FINANZAS -- ANTES CODIGO DE CONDUCTA DE LA SECRETARIA DE PLANEACION Y FINANZAS -- DEL PODER EJECUTIVO DEL ESTADO DE QUERETARO
 
-CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
+CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE FINANZAS DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
 
 Código publicado en el Número 4 del Periódico Oficial del Estado de Querétaro, el viernes 15 de enero de 2021.
 
@@ -47,17 +47,23 @@ Lo anterior adquiere una trascendencia especial al ser los destinatarios de dich
 
 Por lo expuesto, he tenido a bien expedir el siguiente:
 
-CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MARZO DE 2023)</small>
+
+CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE FINANZAS DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
+
 ###### Artículo 1.
 
-El Código de Conducta tiene por objeto establecer la forma en que los servidores públicos adscritos a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro y a sus Órganos Desconcentrados, aplicarán en el ámbito de su competencia y en el ejercicio de sus actividades, los principios, valores y reglas de integridad contenidas en el Código de Ética de los servidores públicos del Poder Ejecutivo del Estado de Querétaro y sus Entidades.
+El Código de Conducta tiene por objeto establecer la forma en que los servidores públicos adscritos a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro y su Órgano Desconcentrado, aplicarán en el ámbito de su competencia y en el ejercicio de sus actividades, los principios, valores y reglas de integridad contenidas en el Código de Ética de los servidores públicos del Poder Ejecutivo del Estado de Querétaro y sus Entidades.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
 
 ###### Artículo 2.
 
-Las disposiciones establecidas en el Código de Conducta son de observancia obligatoria para los servidores públicos que desempeñen un empleo, cargo o comisión en la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro y en sus Órganos Desconcentrados, en lo sucesivo los servidores públicos.
+Las disposiciones establecidas en el Código de Conducta son de observancia obligatoria para los servidores públicos que desempeñen un empleo, cargo o comisión en la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro y en su Órgano Desconcentrado, en lo sucesivo los servidores públicos.
 
 ###### Artículo 3.
 
@@ -71,9 +77,13 @@ I. Carta compromiso: el instrumento a través del cual el servidor público mani
 
 II. Código de Ética: el Código de Ética de los servidores públicos del Poder Ejecutivo del Estado de Querétaro y sus Entidades.
 
-III. Código de Conducta: el presente Código de Conducta de la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
 
-IV. Comité: el Comité de Ética y de Prevención de Conflictos de Intereses al que pertenezca la Secretaría de Planeación y Finanzas.
+III. Código de Conducta: el presente Código de Conducta de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+
+IV. Comité: el Comité de Ética y de Prevención de Conflictos de Intereses al que pertenezca la Secretaría de Finanzas.
 
 V. Juicio Ético: en un contexto de ambigüedad, será el ejercicio individual de ponderación de principios y valores que lleve a cabo cada servidor público, previo a la toma de decisiones y acciones vinculadas con el desempeño de su empleo, cargo o comisión.
 
@@ -81,9 +91,13 @@ VI. LGRA: la Ley General de Responsabilidades Administrativas.
 
 VII. LRAQ: la Ley de Responsabilidades Administrativas del Estado de Querétaro.
 
-VIII. Órganos Desconcentrados: los Órganos Desconcentrados adscritos a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
 
-IX. Secretaría: la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro.
+VIII. Órgano Desconcentrado: el Órgano Desconcentrado adscrito a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+
+IX. Secretaría: la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
 
 ### CAPÍTULO II. PRINCIPIOS, VALORES Y REGLAS DE INTEGRIDAD
 
@@ -91,13 +105,17 @@ IX. Secretaría: la Secretaría de Planeación y Finanzas del Poder Ejecutivo de
 
 Los principios constitucionales y legales de legalidad, honradez, lealtad, imparcialidad, eficiencia, economía, disciplina, profesionalismo, objetividad, transparencia, rendición de cuentas, competencia por mérito, eficacia, integridad y equidad, son de observancia obligatoria para los servidores públicos.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
+
 ###### Artículo 6.
 
-Los valores que los servidores públicos deben anteponer en el desempeño de su empleo, cargo o comisión en la Secretaría y en sus Órganos Desconcentrados, son los siguientes: respeto, interés público, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, entorno cultural y ecológico, cooperación y liderazgo.
+Los valores que los servidores públicos deben anteponer en el desempeño de su empleo, cargo o comisión en la Secretaría y en su Órgano Desconcentrado, son los siguientes: respeto, interés público; respeto a los derechos humanos, igualdad y no discriminación, equidad de género, entorno cultural y ecológico, cooperación y liderazgo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2023)</small>
 
 ###### Artículo 7.
 
-Las reglas de integridad que los servidores públicos están obligados a observar en el desempeño de su empleo, cargo o comisión en la Secretaría y en sus Órganos Desconcentrados, son las siguientes:
+Las reglas de integridad que los servidores públicos están obligados a observar en el desempeño de su empleo, cargo o comisión en la Secretaría y en su Órgano Desconcentrado, son las siguientes:
 
 a) Actuación pública: actuar con transparencia, honestidad, lealtad, cooperación, austeridad, sin ostentación y con una clara orientación al interés público.
 
@@ -123,7 +141,9 @@ k) Desempeño permanente con integridad: conducir su actuación con legalidad, i
 
 l) Cooperación con la integridad: cooperar con las instancias encargadas de velar por la observancia de los principios y valores intrínsecos en el servicio público, para el fortalecimiento de la cultura ética y de servicio a la sociedad.
 
-m) Comportamiento digno: conducir su actuación de forma digna, sin proferir expresiones, adoptar comportamientos, usar lenguaje o realizar acciones de hostigamiento o acoso sexual, manteniendo para ello una actitud de respeto hacia las personas con las que tiene contacto en el ejercicio de sus funciones o guarda relación en la Secretaría y en sus Órganos Desconcentrados.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
+
+m) Comportamiento digno: conducir su actuación de forma digna, sin proferir expresiones, adoptar comportamientos, usar lenguaje o realizar acciones de hostigamiento o acoso sexual, manteniendo para ello una actitud de respeto hacia las personas con las que tiene contacto en el ejercicio de sus funciones o guarda relación en la Secretaría y en su Órgano Desconcentrado.
 
 ### CAPÍTULO III. CONDUCTAS DE FOMENTO A LA INTEGRIDAD
 
@@ -285,7 +305,9 @@ Vinculada con:
 
 iii. Manejo apropiado de la información.
 
-Garantizar a toda persona el acceso transparente a la información que se encuentre en los archivos de la Secretaría y de sus Órganos Desconcentrados, observando el principio de máxima publicidad y las disposiciones específicas en materia de acceso a la información pública y protección de datos personales, impulsando con ello la transparencia y rendición de cuentas. Asimismo, como excepción a la máxima publicidad, proteger el uso de la información que está bajo su responsabilidad y a la que tenga acceso, haciendo uso adecuado de los medios físicos y digitales disponibles. Manejar de manera responsable la información confidencial o reservada, en el ejercicio de sus funciones o actividades, conforme a lo establecido en la Ley de la materia. Abstenerse de alterar, ocultar o eliminar de manera deliberada la información que sea pública.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
+
+Garantizar a toda persona el acceso transparente a la información que se encuentre en los archivos de la Secretaría y de su Órgano Desconcentrado, observando el principio de máxima publicidad y las disposiciones específicas en materia de acceso a la información pública y protección de datos personales, impulsando con ello la transparencia y rendición de cuentas. Asimismo, como excepción a la máxima publicidad, proteger el uso de la información que está bajo su responsabilidad y a la que tenga acceso, haciendo uso adecuado de los medios físicos y digitales disponibles. Manejar de manera responsable la información confidencial o reservada, en el ejercicio de sus funciones o actividades, conforme a lo establecido en la Ley de la materia. Abstenerse de alterar, ocultar o eliminar de manera deliberada la información que sea pública.
 
 Vinculada con:
 
@@ -379,7 +401,9 @@ En caso de algún conflicto sobre la aplicación y cumplimiento de los principio
 
 2. ¿Mi conducta se ajusta al Código de Conducta?
 
-3. ¿Mi conducta se encuentra alineada a las facultades de la Secretaría y sus Órganos Desconcentrados?
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+
+3. ¿Mi conducta se encuentra alineada a las facultades de la Secretaría y su Órgano Desconcentrado?
 
 4. ¿He comprendido todas las consecuencias que puede tener el ejercicio de esta decisión?
 
@@ -387,9 +411,11 @@ En caso de que alguna de la respuesta a dichas preguntas se estime negativa o ge
 
 ### CAPÍTULO V. DENUNCIAS POR INCUMPLIMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2023)</small>
+
 ###### Artículo 10.
 
-El Comité fomentará y vigilará el cumplimiento del Código de Conducta, sin menoscabo de que la responsabilidad primaria de adoptarlo y mantener una cultura ética en la Secretaría y Órganos Desconcentrados, recae en los servidores públicos de estos.
+El Comité fomentará y vigilará el cumplimiento del Código de Conducta, sin menoscabo de que la responsabilidad primaria de adoptarlo y mantener una cultura ética en la Secretaría y en su Órgano Desconcentrado, recae en los servidores públicos de estos.
 
 En caso de que cualquier servidor público presencie o identifique cualquier acto u omisión contrarios al Código de Conducta, deberá hacerlo del conocimiento del Comité.
 
@@ -417,15 +443,23 @@ Rúbrica
 
 ANEXO ÚNICO
 
-CARTA COMPROMISO DE CUMPLIMIENTO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS DEL PODER EJECUTIVO DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MARZO DE 2023)</small>
 
-Como servidor público hago constar que he recibido, leído y aceptado las conductas de actuación contenidas en el Código de Conducta de la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro y me comprometo a conducir mis actos con estricto apego a este Código, con la finalidad de preservar la confianza que usuarios, colaboradores, autoridades y público en general han depositado en esta Secretaría de Planeación y Finanzas, así como de alinear mi actuar y el desempeño del ejercicio público con estricto apego y observancia de los principios, valores y reglas de integridad contenidas en dicho documento.
+CARTA COMPROMISO DE CUMPLIMIENTO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE FINANZAS DEL PODER EJECUTIVO DEL ESTADO
 
-Comprendo y entiendo la importancia y trascendencia que el Código de Conducta tiene para la Secretaría de Planeación y Finanzas, por ello ratifico que actualmente no existe conflicto de interés alguno ni situaciones que me impidan su cumplimiento.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
 
-Me comprometo a seguir las normas que regulan mis actos como servidor público y promover su cumplimiento entre mis superiores, subordinados, homólogos o cualquier persona con quien tenga trato, con motivo de mi trabajo; realizar mis funciones con actitud de servicio y bajo los principios normativos establecidos, así como, a denunciar cualquier irregularidad, acto u omisión contrarios a este Código, en tanto me encuentre prestando mis servicios en la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro o sus Órganos desconcentrados.
+Como servidor público hago constar que he recibido, leído y aceptado las conductas de actuación contenidas en el Código de Conducta de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro y me comprometo a conducir mis actos con estricto apego a este Código, con la finalidad de preservar la confianza que usuarios, colaboradores, autoridades y público en general han depositado en esta Secretaría de Finanzas, así como de alinear mi actuar y el desempeño del ejercicio público con estricto apego y observancia de los principios, valores y reglas de integridad contenidas en dicho documento.
 
-Leída la presente Carta Compromiso y entendido su contenido y alcance, se suscribe la presente en la ciudad de Santiago de Querétaro, Qro., a los ___ días del mes de ___ de ___.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
+
+Comprendo y entiendo la importancia y trascendencia que el Código de Conducta tiene para la Secretaría de Finanzas, por ello ratifico que actualmente no existe conflicto de interés alguno ni situaciones que me impidan su cumplimiento.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
+
+Me comprometo a seguir las normas que regulan mis actos como servidor público y promover su cumplimiento entre mis superiores, subordinados, homólogos o cualquier persona con quien tenga trato, con motivo de mi trabajo; realizar mis funciones con actitud de servicio y bajo los principios normativos establecidos, así como, a denunciar cualquier irregularidad, acto u omisión contrarios a este Código, en tanto me encuentre prestando mis servicios en la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro o su Órgano desconcentrado.
+
+Leída la presente Carta Compromiso y entendido su contenido y alcance, se suscribe la presente en la Ciudad de Santiago de Querétaro, Qro., a los___ días del mes de ______de ___.
 
 Nombre Completo:
 
@@ -434,3 +468,17 @@ Cargo:
 Área de Adscripción:
 
 Firma
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE ·CONDUCTA DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, QUE MODIFICA SU DENOMINACIÓN A "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE FINANZAS DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente ordenamiento.
