@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-146020"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2021-12-31"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -777,7 +777,7 @@ XI.- Las demás que en el ámbito de su función dispongan la Ley General y la L
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO I. DISPOSICION ES GENERALES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -2787,9 +2787,11 @@ La Contraloría Interna y la Comisión están obligadas a informar y notificar o
 
 En todos los casos la imposición de la suspensión preventiva deberá garantizar a los Miembros el mínimo vital equivalente al 30 % (treinta por ciento) de su ingreso real, el cual no puede ser inferior al salario tabular más bajo que se cubra en la Institución Policial a la que se pertenezca.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2023)</small>
+
 ###### ARTÍCULO 154.
 
-En caso de que no se acredite la falta de un requisito de permanencia, o se incurra en cualquiera de las hipótesis contenidas en la fracción I del artículo 185 de la Ley, se determine el no ejercicio de la acción penal o la no responsabilidad penal o administrativa, se reintegrará a los Miembros los derechos que se le hubiesen privado con motivo de la suspensión preventiva.
+En caso de que no se acredite la falta de un requisito de permanencia o se incurra en cualquiera de las hipótesis contenidas en la fracción I del artículo 185 de la Ley, se determine el no ejercicio de la acción penal o la no responsabilidad penal o administrativa, o bien, en cualquiera de estos se declare el sobreseimiento de la causa, se reintegrará al Miembro todos los derechos y percepciones que se le hubiesen privado con motivo de la suspensión preventiva.
 
 No existirá el derecho del Miembro de percibir remuneración, cuando no preste sus servicios durante el tiempo en que haya sido privado de su libertad, con motivo de una investigación, averiguación previa o procedimiento penal de orden local, federal, u otro similar en el extranjero.
 
@@ -3444,3 +3446,9 @@ QUINTO.- Tratándose del Convenio de Coordinación celebrado entre el Secretarí
 SEXTO.- El cumplimiento y pago de las obligaciones económicas o de cualquier índole derivadas de resoluciones judiciales y jurisdiccionales con motivos de procesos y procedimientos en los que sea o haya sido parte la Fiscalía General del Estado hasta el 31 de diciembre de 2021, quedará bajo su cargo y responsabilidad, así como la consecución de los procedimientos de ejecución que de las mismas deriven, hasta su total cumplimiento.
 
 SÉPTIMO.- El cumplimiento de las obligaciones que la Fiscalía General del Estado haya adquirido a través de créditos, préstamos y otros actos jurídicos que impliquen compromisos económicos hasta el 31 de diciembre de 2021, será asumido por este ente hasta su total terminación.
+
+P.O. 31 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 221 POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 154 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
