@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2023-03-01"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MARZO DE 2023.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1402,7 +1402,13 @@ III. Cuando existan antecedentes o datos que establezcan que el sujeto activo ha
 
 IV. Cuando a la víctima se le haya infringido lesiones infamantes ó degradantes, y
 
-V. Cuando se empleen ácidos, sustancias corrosivas o inflamables.
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2023)</small>
+
+V. Cuando se empleen ácidos, sustancias corrosivas o inflamables, y
+
+> <small>(ADICIONADA, G.O. 31 DE MARZO DE 2023)</small>
+
+VI. Cuando las lesiones sean causadas como consecuencia del robo o daño al equipamiento o mobiliario urbano de la Ciudad de México señalado en la fracción II del inciso E del artículo 224 del presente Código.
 
 > <small>(REFORMADO, G.O. 6 DE JULIO DE 2012)</small>
 
@@ -2916,7 +2922,7 @@ Cuando el agente sea servidor público, se le impondrá, además, destitución e
 
 ### CAPÍTULO IX. ENCUBRIMIENTO POR RECEPTACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 220.
 
@@ -2994,13 +3000,7 @@ II. En despoblado o lugar solitario;
 
 III. En contra del equipamiento y mobiliario urbano de la Ciudad de México.
 
-(NOTA: EL 7 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 23/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN III DEL APARTADO A DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 2 DE AGOSTO DE 2019 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-Se entiende por equipamiento urbano: el conjunto de inmuebles, instalaciones, construcciones y mobiliario urbano, destinados a prestar a la población servicios públicos, de administración pública, de educación y cultura; de comercio, de salud y asistencia; de deporte y de recreación, de traslado y de transporte Y OTROS, para satisfacer sus necesidades y su bienestar.
-
-(NOTA: EL 7 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 23/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE LA FRACCIÓN III DEL APARTADO A DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 2 DE AGOSTO DE 2019 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-Se entiende por mobiliario urbano: Los elementos complementarios al equipamiento urbano, ya sean fijos, móviles, permanentes o temporales, ubicados en la vía pública o en espacios públicos formando parte de la imagen de la Ciudad, los que, según su función, se aplican para el descanso, comunicación, información, necesidades fisiológicas, comercio, seguridad, higiene, servicio, jardinería, ASÍ COMO AQUELLOS OTROS MUEBLES QUE DETERMINEN LA SECRETARÍA DE DESARROLLO URBANO Y VIVIENDA Y LA COMISIÓN MIXTA DE MOBILIARIO URBANO;
+III. (DEROGADA, G.O. 31 DE MARZO DE 2023)
 
 IV. Valiéndose el agente de identificaciones falsas o supuestas órdenes de la autoridad;
 
@@ -3028,9 +3028,25 @@ C) Se impondrá de cinco a nueve años de prisión cuando el robo se cometa en u
 
 D) Cuando el robo se comenta (sic) en lugar habitado o destinado para habitación, o en sus dependencias, incluidos los movibles, se sancionará con pena de 4 a 10 años de prisión.
 
-> <small>(ADICIONADO, G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2023)</small>
 
-E) Se impondrá de tres a siete años de prisión, cuando el robo se trate de partes de vehículos automotores.
+E) Se impondrán de tres a siete años de prisión, cuando el robo se trate:
+
+I. De partes de vehículos automotores, y
+
+II. De equipamiento o mobiliario urbano de la Ciudad de México.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN II, G.O. 31 DE MARZO DE 2023]</small>
+
+Se entenderá por equipamiento urbano el conjunto de inmuebles, equipos e instalaciones, construcciones y mobiliario urbano, destinados a prestar a la población servicios públicos, tales como: los servicios hidráulicos, eléctricos y de seguridad ciudadana y protección civil, el Sistema Integrado de Transporte Público y sus servicios auxiliares o conexos establecidos en la Ley de la materia, el Sistema de Alerta Sísmica de la Ciudad, de salud, de deporte y recreación, de comunicaciones e información, comercio, limpia y recolección de basura y poda de árboles.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN II, G.O. 31 DE MARZO DE 2023]</small>
+
+Se entiende por mobiliario urbano: Los elementos complementarios al equipamiento urbano, ya sean fijos, móviles, permanentes o temporales, ubicados en la vía pública o en espacios públicos, destinados a la prestación de servicios públicos descritos en el párrafo anterior.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN II, G.O. 31 DE MARZO DE 2023]</small>
+
+Además de la pena señalada en esta fracción, se impondrá multa de quinientas a mil Unidades de Medida y Actualización vigente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE AGOSTO DE 2019)</small>
 
@@ -3384,6 +3400,18 @@ V. Mieses o cultivos de cualquier género.
 
 Cuando el delito se cometa culposamente, en las hipótesis previstas en este artículo, se impondrá la mitad de las penas a que se refiere el artículo 239 de este Código.
 
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2023)</small>
+
+ARTÍCULO 241 BIS. Las penas previstas en el artículo 239 de este Código, se aumentarán hasta en una mitad, cuando el daño se cause en el equipamiento o mobiliario urbano previsto en la fracción II del inciso E del articulo 224 del presente Código a quien dolosamente:
+
+I. Modifique, obstruya, desvíe, perfore o altere los servicios hidráulicos o de energía eléctrica;
+
+II. Afecte tubos, conexiones, tapas de registro, accesorios u objetos de instalaciones hidráulicas, eléctricas, cableado, alumbrado público, gas o cualquier otro que forme parte del servicio público y afecte en su funcionamiento o altere el estado original en el que se encontraba, y
+
+III. Afecte o interrumpa el servicio del Sistema Integrado de Transporte Público de la Ciudad de México.
+
+Son parte del Sistema Integrado de Transporte Público todos aquellos que están contemplados en la Ley de la materia.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 242.
@@ -3404,15 +3432,19 @@ Al conductor de un vehículo automotor que se retire del lugar en que participó
 
 ###### ARTÍCULO 243.
 
-Se impondrá prisión de 2 a 7 años de prisión, y de cincuenta a ciento veinte días multa, a quien después de la ejecución de un delito y sin haber participado en él, adquiera posea, desmantele, venda, enajene, comercialice, trafique, pignore, reciba, traslade, use u oculte el o los instrumentos, objetos o productos de aquél, con conocimiento de esta circunstancia si el valor de cambio no excede de quinientas veces la Unidad de Cuenta de la Ciudad de México vigente.
+Se impondrán de dos a siete años de prisión y multa de cincuenta a ciento veinte Unidades de Medida y Actualización vigente, a quien después de la ejecución de un delito y sin haber participado en él, adquiera, posea, desmantele, venda, enajene, trafique, pignore, reciba, traslade, use u oculte el o los instrumentos, objetos o productos de aquél, con conocimiento de esta circunstancia si el valor de cambio no excede de quinientas veces la Unidad de Medida de Actualización vigente.
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2023)</small>
 
-Si el valor de éstos es superior a quinientas veces la Unidad de Cuenta de la Ciudad de México vigente, se impondrá de 5 a 10 años de pena privativa de libertad y de doscientos a mil quinientos días multa.
+Si el valor de éstos es superior a quinientas veces la Unidad de Medida y Actualización vigente, se impondrán de cinco a diez años de prisión y multa de doscientas a mil quinientas Unidades de Medida y Actualización vigente.
 
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 Cuando el o los instrumentos, objetos o productos de un delito se relacionan con el giro comercial del tenedor o receptor, si éste es comerciante o sin serlo se encuentra en posesión de dos o más de los mismos, se tendrá por acreditado que existe conocimiento de que proviene o provienen de un ilícito.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2023)</small>
+
+La misma pena se impondrá a quien adquiera, posea, desmantele, venda, comercialice, enajene, trafique, pignore, reciba, traslade, use u oculte el equipamiento o mobiliario urbano señalando (sic) en la fracción II del inciso E del artículo 224 del presente Código.
 
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -6549,3 +6581,11 @@ PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Dentro de un plazo de 180 días naturales, posteriores a la publicación del presente Decreto, la persona titular de la Jefatura de Gobierno deberá realizar las adecuaciones reglamentarias y normativas correspondientes con la finalidad de dar cumplimiento al mismo.
+
+G.O. 31 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN VI DEL ARTÍCULO 131, EL ARTÍCULO 241 BIS Y UN CUARTO PÁRRAFO AL ARTÍCULO 243; SE DEROGA LA FRACCIÓN III DEL INCISO A) DEL ARTÍCULO 224 Y SE MODIFICAN LAS FRACCIONES IV Y V DEL ARTÍCULO 131, EL INCISO E) DEL ARTÍCULO 224, PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 243; TODOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
