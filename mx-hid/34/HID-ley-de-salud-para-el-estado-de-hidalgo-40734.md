@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2022-12-26"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -82,6 +82,10 @@ I.- La atención médica de calidad, preferentemente en beneficio de grupos en s
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
 
 La atención a que se refiere esta fracción, incluye el otorgamiento gratuito de cubrebocas.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2023)</small>
+
+En la prestación de este servicio se promoverá el uso de las tecnologías de la información y las comunicaciones para la creación de redes de telemedicina que amplíen la cobertura y aseguren su acceso.
 
 II.- La atención materno infantil;
 
@@ -359,11 +363,17 @@ I.- En el ámbito de su jurisdicción y en coordinación con el Ejecutivo Federa
 
 > <small>(ADICIONADA, P.O. 15 DE MAYO DE 2019)</small>
 
-I.- Bis.- Garantizar la atención primaria de la salud con personal médico de calidad, preferentemente en beneficio de grupos en situación de vulnerabilidad.
+I Bis.- Garantizar la atención primaria de la salud con personal médico de calidad, preferentemente en beneficio de grupos en situación de vulnerabilidad.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2023)</small>
+
+I Ter.- Promover, difundir e impulsar programas que integren el uso y aprovechamiento de las tecnologías de la información y las comunicaciones para ampliar la cobertura y acceso a los servicios de salud;
 
 II.- Ejercer la vigilancia y control de la sanidad en los límites con otras Entidades Federativas;
 
-III.- Coordinar el Sistema de Salud de Hidalgo y coadyuvar en el funcionamiento y consolidación del Sistema Nacional de Salud;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+
+III.- Coordinar el Sistema de Salud de Hidalgo y coadyuvar en el funcionamiento y consolidación del Sistema Nacional de Salud; promoviendo la armonización y actualización de las disposiciones legales aplicables.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
 
@@ -427,11 +437,13 @@ IV.- Emitir y mantener actualizados los Reglamentos en los que se establezcan la
 
 V.- Las demás que establezca esta Ley y otras disposiciones legales.
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2023)</small>
 
 ###### Artículo 5 Bis.
 
-En lo que se refiere el apartado A fracción I Bis del Artículo 5 de esta Ley, las mujeres embarazadas sin control prenatal o de alto riesgo obstétrico, las personas adultas mayores, las personas con discapacidad, así como las personas en situación de abandono y/o imposibilitadas para acudir a la unidad de salud, podrán preferentemente recibir los servicios de salud en domicilio particular, de conformidad con lo establecido en el programa correspondiente y de acuerdo a la disponibilidad presupuestal con que al efecto se cuente.
+En lo que se refiere el apartado A fracción I Bis del Artículo 5 de esta Ley, las mujeres embarazadas sin control prenatal o de alto riesgo obstétrico, las personas adultas mayores, las personas con discapacidad, así como las personas en situación de abandono y/o imposibilitadas para acudir a la unidad de salud, podrán preferentemente recibir los servicios de salud en domicilio particular o a distancia mediante el uso de las tecnologías de la información y las comunicaciones, de conformidad con lo establecido en el programa correspondiente y de acuerdo a la disponibilidad presupuestal con que al efecto se cuente.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
 
 Para efectos de lo señalado en el presente artículo, se entenderá por persona en situación de abandono, aquella que por su situación social o familiar viven en el desamparo en su domicilio y son apoyados por cualquier persona.
 
@@ -442,6 +454,14 @@ Para efectos de lo señalado en el presente artículo, se entenderá por persona
 Las instituciones públicas, privadas y sociales que presten servicios de salud en el Estado de Hidalgo, deberán proveer el servicio para la interrupción legal del embarazo, de forma gratuita y en condiciones de calidad y salubridad que garanticen la dignidad humana de las mujeres en los supuestos permitidos en el Código Penal para el Estado de Hidalgo y a solicitud de la interesada, quien deberá cubrir los requisitos establecidos en las disposiciones aplicables, en el caso de las instituciones públicas, dicho servicio deberá ser gratuito.
 
 El Gobierno del Estado de Hidalgo tendrá la obligación de proporcionar información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos de la interrupción del embarazo; así como de los apoyos y alternativas existentes, para que se tome la decisión de manera libre, informada y responsable.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2023)</small>
+
+###### Artículo 5 Quater.
+
+En lo que refiere el artículo 5, apartado A fracción I Ter de esta Ley, la Secretaría de Salud podrá proponer la creación de redes de telemedicina, lo anterior de forma gradual y de conformidad a la disponibilidad presupuestal.
+
+Para efectos de la presente Ley, se entenderá por redes de Telemedicina a la práctica de la atención médica con la ayuda de comunicaciones interactivas de sonido, imágenes y datos; ello incluye la prestación de asistencia médica, la consulta, el diagnóstico y el tratamiento, así como la enseñanza y la transferencia de datos médicos.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
 
@@ -2452,3 +2472,17 @@ P.O. 26 DE DICIEMBRE DE 2022.
 > <small>[N. DE E. TRANSITORIO EL “DECRETO NUM. 327 QUE REFORMA EL ARTÍCULO 5, APARTADO A, FRACCIÓN IV DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]</small>
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 486 QUE REFORMA LA FRACCIÓN III DEL APARTADO A, DEL ARTÍCULO 5 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 487 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Ejecutivo Estatal deberá emitir la normatividad correspondiente para la operación de las redes de telemedicina, en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto.
