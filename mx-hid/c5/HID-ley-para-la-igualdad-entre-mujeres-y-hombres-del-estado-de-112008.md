@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2022-03-28"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -493,7 +493,9 @@ VI. Tener interlocutores en el sector social y privado; y
 
 VII. Establecer mecanismos de seguimiento y evaluación.
 
-### CAPÍTULO TERCERO. DE LA IGUALDAD POLÍTICA ENTRE MUJERES Y HOMBRES
+### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA PARITARIA DE LAS MUJERES Y LOS HOMBRES
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
 
 ###### Artículo 22.
 
@@ -567,11 +569,13 @@ VI. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos
 
 VII. Evitar la segregación de las personas del mercado de trabajo en razón de su sexo, preferencia o identidad sexual.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MARZO DE 2023)</small>
+
 ### CAPÍTULO CUARTO. DE LA IGUALDAD SOCIAL Y CULTURAL ENTRE MUJERES Y HOMBRES
 
 ###### Artículo 24.
 
-Es objetivo de la Política de Igualdad en materia de participación política el fomentar la paridad numérica en las contrataciones en la Administración Pública Estatal y Municipal, promoviendo la participación, en igualdad de oportunidades, en la toma de decisiones políticas y de gobierno, en igual número mujeres y hombres.
+Es objetivo de la Política de Igualdad en materia de participación política el fomentar la paridad numérica en las contrataciones en la Administración Pública Estatal y Municipal, promoviendo la participación, en igualdad de oportunidades, en la toma de decisiones políticas, socioeconómicas y de gobierno, en igual número mujeres y hombres.
 
 ###### Artículo 25.
 
@@ -579,7 +583,9 @@ Para los efectos de lo previsto en el artículo anterior, la Comisión de Iguald
 
 I. Vigilar que se garantice la participación igualitaria de mujeres y hombres en cargos de elección popular Estatal y Municipal;
 
-II. Promover la participación y representación de mujeres y hombres dentro de las estructuras de los Sindicatos y Partidos Políticos en el Estado;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+
+II. Promover la participación y representación paritaria entre mujeres y hombres dentro de las estructuras de los Sindicatos y Partidos Políticos en el Estado;
 
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
 
@@ -589,9 +595,27 @@ II Bis. Ejecutar acciones que contribuyan a erradicar toda discriminación basad
 
 II Ter. Coadyuvar con el trabajo legislativo con perspectiva de género.
 
-III. Fomentar la no discriminación de mujeres y hombres en la selección, contratación y ascensos dentro de los poderes Ejecutivo, Legislativo y Judicial; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+
+III. Fomentar la participación paritaria y sin discriminación de mujeres y hombres en la selección, contratación y ascensos dentro de los poderes Ejecutivo, Legislativo y Judicial;
 
 IV. Establecer los lineamientos para la evaluación de la Política de Igualdad en participación política.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2023)</small>
+
+V. Fomentar la participación paritaria de mujeres y hombres en altos cargos públicos;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2023)</small>
+
+VI. Evaluar por medio de la Comisión Estatal de Derechos Humanos del Estado de Hidalgo, la participación paritaria entre mujeres y hombres en los cargos de elección popular;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2023)</small>
+
+VII. Garantizar que la educación en todos sus niveles se realice en el marco de la igualdad entre mujeres y hombres y se cree conciencia de la necesidad de eliminar toda forma de discriminación; y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2023)</small>
+
+VIII. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil.
 
 ### CAPÍTULO QUINTO. DE LA IGUALDAD EN EL ACCESO A LA JUSTICIA Y A LA SEGURIDAD PÚBLICA
 
@@ -900,3 +924,9 @@ P.O. 28 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 180 QUE EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 3 Y SE ADICIONA EL ARTÍCULO 15 BIS Y EL ARTÍCULO 15 TER A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 491 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
