@@ -4,7 +4,7 @@ identifier: "HID-ley-del-ejercicio-profesional-para-el-estado-de-hidalgo-23032"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-31"
-last_updated: "2020-08-17"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2001.
 
@@ -381,13 +381,19 @@ Esta federación se registrará ante la Dirección de Profesiones, para lo cual 
 
 Los profesionistas de la misma rama, debidamente asociados, así como los de distinta formación de origen de posgrado afín, aspirantes a registrarse como Colegios deberán cumplir con los siguientes requisitos:
 
-I.- Tener como mínimo el veinte por ciento de los profesionistas del registro profesional estatal de la Dirección de Profesiones. No se tomarán en cuenta a los profesionistas registrados en otro Colegio afín;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
 
-II.- Contar con sus estatutos;
+I.- Tener como mínimo cuarenta profesionistas asociados;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+
+II.- Contar con acta de constitución y estatutos formalizados ante notario o corredor público;
 
 III.- Tener su código de ética;
 
-IV.- Tener el directorio de sus miembros y conformación de su consejo directivo;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+
+IV.- Tener el directorio de sus asociados y conformación de su consejo directivo;
 
 V.- Contar con lineamientos internos para la designación de peritos profesionales;
 
@@ -418,6 +424,10 @@ II.- Promover el ejercicio profesional en un marco de legalidad y ética profesi
 III.- Coadyuvar en la vigilancia del ejercicio profesional;
 
 IV.- Promover ante las autoridades competentes, en su caso, los anteproyectos de iniciativas de leyes, reglamentos o sus reformas;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2023)</small>
+
+IV BIS.- Promover programas de formación continua, capacitación y actualización profesional;
 
 V.- Denunciar ante las autoridades competentes probables violaciones a la presente Ley;
 
@@ -778,3 +788,9 @@ SEGUNDO. Se deroga cualquier disposición que se oponga al contenido del present
 TERCERO. Los trámites que se encuentren en proceso en la Dirección de Profesiones, con anterioridad a la entrada en vigor de la presente reforma, se resolverán de conformidad con la norma aplicable en su momento.
 
 CUARTO. El Poder Ejecutivo emitirá en un plazo de 180 días posteriores a la publicación de esta reforma, las adecuaciones al Reglamento de Ley.
+
+P.O. 31 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 484 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
