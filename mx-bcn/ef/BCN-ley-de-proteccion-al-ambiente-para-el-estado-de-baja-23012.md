@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2023-02-10"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -2543,7 +2543,9 @@ Si en la localidad no existiere representación de la Secretaría o de la autori
 
 Cuando la denuncia haya sido presentada ante una autoridad Municipal distinta de la ambiental y resulta ser del orden Municipal o estatal, deberá ser remitida para su atención o trámite a la autoridad Municipal en materia ambiental o a la Secretaría, según sea el caso, dentro de los tres días hábiles contados a partir de la fecha de recepción.
 
-Si la denuncia fuera presentada ante la autoridad estatal o Municipal y resulta ser del orden federal, se declinará para su atención o trámite a la Procuraduría Federal de protección al Ambiente, dentro de los tres días hábiles contados a partir de la fecha de recepción. Cuando el denunciante solicite guardar secreto respecto de su identidad, por razones de seguridad e interés particular, la atención, seguimiento y resolución de la denuncia se llevará conforme a las atribuciones de la normatividad.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
+
+Si la denuncia fuera presentada ante la autoridad estatal o municipal y resulta ser del orden federal, se dedinará (sic) para su atención o trámite a la Procuraduría Federal de Protección al Ambiente, dentro de los tres días hábiles contados a partir de la fecha de recepción. Cuando la persona denunciante solicite guardar secreto respecto de su identidad, por razones de seguridad e interés particular, la autoridad procederá a reservar sus datos, de conformidad con lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
 
 ###### ARTÍCULO 169.
 
@@ -2551,7 +2553,17 @@ Al recibir la denuncia ciudadana, la autoridad ambiental acusará recibo y le as
 
 Cuando se presenten dos o más denuncias respecto de los mismos hechos, actos u omisiones, deberá acordarse su acumulación en un sólo expediente, prevaleciendo el primer número de expediente asignado. El contenido del acuerdo respectivo deberá notificarse a los denunciantes.
 
-Para el seguimiento de la denuncia ciudadana, deberá estarse al procedimiento que al efecto se señale en las disposiciones establecidas en el reglamento que al efecto se expida.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE MARZO DE 2023)</small>
+
+Una vez admitida la denuncia, la autoridad la atenderá mediante el procedimiento administrativo de inspección y vigilancia, asimismo efectuará las diligencias necesarias con el propósito de determinar la existencia de los hechos, acciones u omisiones constitutivos de la denuncia, así como el cumplimiento de la legislación ambiental vigente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE MARZO DE 2023)</small>
+
+Si de las diligencias a que se refiere el párrafo anterior, se desprende que el asunto no es competencia de la autoridad que haya recibido la denuncia, dentro de un plazo no mayor a diez días hábiles, lo turnará a la autoridad que estime competente, notificándole de tal hecho a la persona denunciante, mediante acuerdo debidamente fundado y motivado.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
+
+En el caso de autoridad ambiental municipal, para el seguimiento de la denuncia ciudadana deberá estarse al procedimiento establecido en el reglamento que al efecto se expida.
 
 ###### ARTÍCULO 170.
 
@@ -2563,7 +2575,9 @@ Si del resultado de las investigaciones realizadas por la autoridad ambiental, s
 
 La denuncia deberá presentarse por escrito y contener al menos:
 
-I. El nombre o razón social, domicilio, y teléfono en su caso;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+
+I. El nombre o razón social, domicilio, correo electrónico y teléfono en su caso;
 
 II. Los actos, hechos u omisiones denunciados;
 
@@ -2629,11 +2643,13 @@ Dicho personal, al realizar las visitas de inspección, deberá contar con el do
 
 El personal autorizado se encontrará investido de fe pública para realizar los actos de ejecución que le sean ordenados.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 178.
 
-El personal autorizado, al iniciar la inspección, se identificará debidamente ante el propietario, ante el representante legal, el encargado o con quien se encuentre a cargo del establecimiento. La inspección se realizará con la persona con quien se entienda la diligencia, a quien se exhibirá la orden respectiva y le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe a dos testigos.
+El personal autorizado, al iniciar la inspección, se identificará debidamente ante la persona propietaria, ante la o el representante o persona apoderada legal, o bien ante la persona encargada y/o responsable de las actividades del lugar o zona donde habrá de inspeccionarse. La inspección se realizará con la persona con quien se entienda la diligencia, a quien se exhibirá la orden respectiva y le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe a dos testigos.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2008)</small>
 
 En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante, sin que esta circunstancia invalide los efectos de la inspección.
 
@@ -2655,11 +2671,11 @@ A continuación se procederá a firmar el acta por la persona con quien se enten
 
 Si la persona con la que se entendió la diligencia o los testigos se negaren a firmar el acta, o se negare el interesado a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 182.
 
-Recibida el acta de inspección por la autoridad ordenadora y una vez transcurrido el plazo a que se refiere el segundo párrafo del artículo anterior, ésta requerirá al interesado, mediante acuerdo debidamente fundado y motivado, por notificación personal o correo certificado con acuse de recibo, para que implemente de inmediato las medidas correctivas necesarias o aquellas de urgente aplicación para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, señalando el plazo que corresponda y para que en el término de diez días hábiles, manifieste lo que a su derecho convenga.
+Recibida el acta de inspección por la autoridad ordenadora y una vez transcurrido el plazo a que se refiere el segundo párrafo del artículo anterior, dentro de los veinte días hábiles siguientes la autoridad emitirá acuerdo debidamente fundado y motivado, para que la persona interesada implemente de inmediato las medidas correctivas necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, señalando los plazos que corresponda para su cumplimiento, procediendo a su notificación para que en el término de diez días hábiles manifieste lo que a su derecho convenga.
 
 ###### ARTÍCULO 183.
 
@@ -2677,7 +2693,9 @@ De existir riesgo inminente de desequilibrio ecológico o casos de contaminació
 
 I. La neutralización o cualquier acción análoga que impida que las sustancias contaminantes generen los afectos previstos en el primer párrafo de este artículo;
 
-II. El decomiso de instrumentos, ejemplares, equipos, materiales, productos, subproductos, autotransportes, vehículos, utensilios e instrumentos directamente relacionados con la conducta a que da lugar la imposición de las medidas de seguridad; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+
+II.- El aseguramiento precautorio de bienes, equipo, maquinaria, vehículos, utensilios e instrumentos directamente relacionados con la conducta a que da lugar la imposición de las medidas de seguridad; y,
 
 III. La clausura temporal, parcial o total, de las fuentes contaminantes, así como de las instalaciones en que se manejen o se desarrollen las actividades que den lugar a los supuestos a que se refiere el primer párrafo de este artículo.
 
@@ -2695,9 +2713,9 @@ Las violaciones a los preceptos de la Ley General, esta Ley, sus reglamentos, no
 
 I. Amonestación;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
 
-II. Multa por el equivalente de doscientos a veinte mil días de salario mínimo general vigente en la región, al momento de imponer la sanción;
+II. Multa por el equivalente de doscientas a veinte mil unidades de medida y actualización vigente al momento de imponer la sanción;
 
 III. Clausura temporal o definitiva, parcial o total, cuando se incurra en cualquiera de los siguientes casos:
 
@@ -2715,9 +2733,17 @@ b).- Llevar a cabo las acciones de compensación que se requieran a efecto de qu
 
 c).- En caso de que el daño realizado sea irreparable, el responsable deberá pagar una compensación económica que deberá destinarse al fondo ambiental correspondiente. La compensación económica será determinada de conformidad con las disposiciones previstas en el reglamento respectivo.
 
-V. Reparar daños físicamente causados al medio ambiente en agua, aire o suelo dentro y fuera de su empresa, independientemente de las sanciones de los delitos contra el medio ambiente; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
 
-VI. Arresto administrativo hasta por treinta y seis horas.
+V. Reparar daños físicamente causados al medio ambiente en agua, aire o suelo dentro y fuera de su empresa, independientemente de las sanciones de los delitos contra el medio ambiente;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+
+VI. Arresto administrativo hasta por treinta y seis horas; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2023)</small>
+
+VII. Suspensión o revocación de las autorizaciones, permisos, licencias, cédulas, registros o resoluciones correspondientes.
 
 ###### ARTÍCULO 188.
 
@@ -2755,11 +2781,25 @@ ARTÍCULO 191 BIS.- La Secretaría y los Municipios podrán revocar las autoriza
 
 I.- Cuando la autorización, permiso o licencia se hubiera otorgado considerando información falsa proporcionada por el autorizado;
 
-II.- Cuando una vez emitida la autorización, licencia o permiso surjan causas supervenientes que modifiquen significativamente las condiciones ambientales bajo las cuales fueron otorgadas; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
 
-III.- Cuando el autorizado no haya iniciado actividades en el término de un año, a partir de la fecha en que le fue notificada la autorización, licencia o permiso.
+II.- Cuando una vez emitida la autorización, licencia o permiso surjan causas supervenientes que modifiquen significativamente las condiciones ambientales bajo las cuales fueron otorgadas;
 
-Antes de emitir fundada y motivadamente la resolución respectiva la Secretaría dará vista al interesado.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
+
+III.- Cuando la persona autorizada no haya iniciado actividades en el término de un año, a partir de la fecha en que le fue notificada la autorización, licencia o permiso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2023)</small>
+
+IV.- Cuando se incumpla con las condicionantes establecidas por esta la autoridad competente, en los plazos que le fueron establecidos; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2023)</small>
+
+V.- Por las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen, previo dictamen de la autoridad en inspección y vigilancia.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
+
+Antes de emitir fundada y motivadamente la resolución respectiva, la Secretaría dará vista a la persona interesada.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 2008)</small>
 
@@ -3310,3 +3350,9 @@ P.O. 10 DE FEBRERO DE 2023.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los Ayuntamientos, dentro de los noventa días siguientes a la entrada en vigor de las presentes reformas, deberán realizar las adecuaciones reglamentarias pertinentes para su debido cumplimiento.
+
+P.O. 31 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 220 POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 168, 169, 171, 178, 182, 185, 187 Y 191 BIS A LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
