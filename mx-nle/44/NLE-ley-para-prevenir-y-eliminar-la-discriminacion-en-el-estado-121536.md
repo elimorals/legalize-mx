@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-17"
-last_updated: "2023-03-17"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el miércoles 17 de mayo de 2017.
 
@@ -419,9 +419,25 @@ II. Facilitar y apoyar el desarrollo de normativa técnica, de forma que asegure
 
 III. Promover en las empresas y negociaciones que funcionen en el Estado, que se realice la selección de personal sin discriminación alguna respetando sus competencias conocimientos y habilidades, procurando que se otorgue empleo a personas que pertenezcan a grupos en situación de vulnerabilidad;
 
-IV. Promover la instalación de centros de desarrollo infantil y guarderías en las empresas u organismos privados, gestionando la deducción del costo total de este servicio de los impuestos estatales correspondientes, en los términos de la Ley de Ingresos del Estado; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2023)</small>
 
-V. Las demás que señalen esta Ley y otras disposiciones aplicables.
+IV. Promover la instalación de centros de desarrollo infantil y guarderías en las empresas u organismos privados, gestionando la deducción del costo total de este servicio de los impuestos estatales correspondientes, en los términos de la Ley de Ingresos del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 31 DE MARZO DE 2023)</small>
+
+V. Promover y diseñar mecanismos de supervisión permanente en las empresas en el Estado, para prevenir que el personal ya contratado sea discriminado por razón de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la orientación sexual, la identidad de género, el estado civil o cualquier otra que atente contra su dignidad humana, y con ello evitar acciones como:
+
+a) La reducción del sueldo;
+
+b) Restringir las oportunidades de ascenso;
+
+c) Rescindir de sus labores; y
+
+d) Que sea obligado a realizar labores o acciones específicas que atenten contra su dignidad humana.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2023)</small>
+
+VI. Las demás que señalen esta Ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 21.
 
@@ -1304,3 +1320,9 @@ P.O. 17 DE MARZO DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los establecimientos mercantiles que operen dentro de la entidad, tendrán 90 días naturales contados a partir del día de la entrada en vigor de este Decreto para dar cumplimiento a lo establecido en el mismo.
+
+P.O. 31 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 357. SE REFORMAN LAS FRACCIONES IV Y V Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 20, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
