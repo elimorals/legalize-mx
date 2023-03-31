@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2022-05-23"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -413,19 +413,23 @@ VI.- Proporcionar atención psicológica y legal, especializada y gratuita a qui
 
 VII.- Implementar sanciones administrativas para los superiores jerárquicos del generador de violencia cuando sean omisos en recibir o dar curso a una queja.
 
-### CAPÍTULO III. DE LA VIOLENCIA EN LA COMUNIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MARZO DE 2023)</small>
+
+### CAPÍTULO III. DE LA VIOLENCIA EN LA COMUNIDAD Y LA GENERADA POR LOS USOS Y COSTUMBRES
 
 ###### ARTÍCULO 15.
 
 La violencia en la comunidad es toda acción u omisión, que se realiza de manera colectiva o individual por actores sociales o comunitarios, que generan degradación, discriminación, marginación, exclusión en la esfera pública o privada, que transgreden derechos fundamentales de las mujeres y que propician su estado de riesgo e indefensión.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
 
-ARTÍCULO 15 BIS.- El Estado y los Municipios garantizarán que en las demarcaciones donde existan mujeres pertenecientes a pueblos y comunidades indígenas, se implementen de manera prioritaria las acciones necesarias para prevenir y sancionar la violencia en la comunidad, a efecto de que las mismas gocen del respeto estricto a sus (sic) integridad y sus derechos humanos y con ello eliminar la impunidad de las conductas violentas en contra de las mujeres, que en ocasiones se agrava por razón de la edad, clase y condición social o la etnia a la que pertenecen.
+ARTÍCULO 15 BIS.- El Estado y los Municipios garantizarán que en las demarcaciones donde existan mujeres pertenecientes a pueblos y comunidades indígenas, se implementen de manera prioritaria las acciones necesarias para prevenir y sancionar la violencia en la comunidad, así como la violencia generada por los usos y costumbres a efecto de que las mismas gocen del respeto estricto a sus (sic) integridad y sus derechos humanos y con ello eliminar la impunidad de las conductas violentas en contra de las mujeres, que en ocasiones se agrava por razón de la edad, clase, cultura y condición social o la etnia a la que pertenecen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 16.
 
-El Estado y los Municipios, procurarán garantizar a las mujeres la erradicación de la violencia en la comunidad, a través de:
+El Estado y los Municipios, procurarán garantizar a las mujeres la erradicación de la violencia en la comunidad y la generada por los usos y costumbres, a través de:
 
 I.- La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en la sociedad;
 
@@ -1862,3 +1866,9 @@ P.O. 23 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 193 QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE MARZO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 485 QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO PRIMERO, LOS ARTÍCULOS 15 BIS Y 16, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
