@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-conducta-para-las-personas-servidoras-publicas-138430
 country: "mx"
 rank: "codigo"
 publication_date: "2019-09-21"
-last_updated: "2019-09-21"
+last_updated: "2023-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CODIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PUBLICAS ADSCRITAS A LA SECRETARIA DEL ZACATECANO MIGRANTE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DEL ZACATECANO MIGRANTE, PUBLICADO EN EL P.O. 1 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS ADSCRITAS A LA SECRETARÍA DEL ZACATECANO MIGRANTE DEL GOBIERNO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023 (ABROGADO).
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 21 de septiembre de 2019.
 
@@ -310,3 +312,15 @@ En cumplimiento a lo dispuesto por el artículo 10 de la Ley Orgánica de la Adm
 INTEGRANTES DEL COMITÉ DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS (CEPCI):
 
 SECRETARIO DEL ZACATECANO MIGRANTE DEL GOBIERNO DEL ESTADO DE ZACATECAS, PRESIDENTE DEL COMITÉ.- JOSÉ JUAN ESTRADA HERNÁNDEZ. COORDINADOR DEL COMITÉ.- DAVID ALEJANDRO JUÁREZ CALDERA. ENLACE.- CECILIA JASSO CARRILLO. VOCALES.- MIRIAM YANIL RODRÍGUEZ GARCÍA, SILVIA IVONNE DELGADO MOLINA Y ESTRELLA ARLETH REYES CARLOS. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DEL ZACATECANO MIGRANTE”.]
+
+Primero. El presente Código de Conducta de la Secretaría del Zacatecano Migrante entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+Segundo. Se abroga el Código de Conducta para las Personas Servidoras Públicas adscritas a la Secretaría del Zacatecano Migrante, publicado en el Tomo CXXIX, Suplemento 4 al número 76 del Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas, correspondiente al veintiuno (21) de septiembre de dos mil diecinueve (2019).
+
+Tercero. El Comité de Ética de la Secretaría es el Ente encargado de la difusión y aplicación de las acciones de fortalecimiento relativas al presente Código de Conducta.
