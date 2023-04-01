@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2023-03-18"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -2013,6 +2013,10 @@ VI.- No ser cónyuge ni tener parentesco consanguíneo en línea recta sin limit
 
 VII.- No tener relación, ni su cónyuge o sus hijos, con los miembros del Ayuntamiento, nacida de algún acto sancionado por la costumbre.
 
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2023)</small>
+
+VIII.- No estar inscrito en el Registro de Deudores Alimentarios Morosos, salvo que acredite estar al corriente del pago, solvente la deuda o tramite el descuento al que fue obligada u obligado.
+
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
 En el nombramiento de las y los Titulares de las dependencias o entidades de la Administración Pública Municipal, se deberá cumplir con el principio de paridad de género.
@@ -2648,6 +2652,10 @@ III. Tener al día de su designación tres años de experiencia mínima en el ej
 IV. Ser de reconocida honorabilidad, responsabilidad en el ejercicio de su profesión y en el desempeño de sus funciones públicas; y
 
 V. No haber sido sentenciado por delito doloso, ni haber sido inhabilitado.
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2023)</small>
+
+VI. No estar inscrito en el Registro de Deudores Alimentarios Morosos, salvo que acredite estar al corriente del pago, solvente la deuda o tramite el descuento al que fue obligada u obligado.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2021)</small>
 
@@ -4752,3 +4760,13 @@ P.O. 18 DE MARZO DE 2023.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1074.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 91 Y LA FRACCIÓN VI DEL ARTÍCULO 126 QUINQUES, AMBOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN X DEL ARTÍCULO 38 Y EL NUMERAL 6 DEL ARTÍCULO 44, AMBOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN IX DEL ARTÍCULO 91 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN X DEL ARTÍCULO 23 DE LA LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA; REFORMA EL INCISO n. Y SE ADICIONA EL INCISO ñ. DE LA FRACCIÓN I DEL ARTÍCULO 44; REFORMA EL INCISO m. Y SE ADICIONA EL INCISO N. DE LA FRACCIÓN I DEL ARTÍCULO 45; REFORMA EL INCISO l. Y SE ADICIONA EL INCISO m. DE LA FRACCIÓN I DEL ARTÍCULO 46; SE REFORMA EL INCISO k) Y SE ADICIONA EL INCISO I) DE LA FRACCIÓN I DEL ARTÍCULO 46 BIS, TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA; REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA EL PÁRRAFO SEGUNDO RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 143 DE LA LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA; ADICIONAN LOS PÁRRAFOS SEXTO, SÉPTIMO Y OCTAVO DEL ARTÍCULO 175 Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 179 TODOS DEL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan las disposiciones de igualo menor jerarquía que se opongan a lo establecido en el presente Decreto.
