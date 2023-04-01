@@ -4,7 +4,7 @@ identifier: "OAX-codigo-familiar-para-el-estado-de-oaxaca-153298"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-12-04"
-last_updated: "2022-09-03"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023.
 
 Código publicado en la Décima Primera Sección del Número 49 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de diciembre de 2021.
 
@@ -1129,6 +1129,18 @@ También deberá celebrar convenios con las entidades públicas y los municipios
 
 La jueza o juez deberá dar vista al Ministerio Público y a la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público de las personas deudoras alimentarias morosas atendiendo al principio de interés superior de la niñez y al principio de máxima protección.
 
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2023)</small>
+
+En caso que la persona deudora o deudor alimentario moroso sea un servidor público, de las categorías comprendidas en el artículo 21 de la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, el juzgador en el plazo de 10 días hábiles, dará vista a la Secretaría de Honestidad, Transparencia y Función Pública sobre la inscripción de la persona en el Registro de Deudores Alimentarios Morosos.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2023)</small>
+
+De igual forma, deberá darse vista en los mismos términos a los órganos de control interno municipales, cuando la persona deudora alimentaria morosa sea un concejal municipal de algún Ayuntamiento del Estado de Oaxaca, o titular de alguna de las dependencias municipales.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2023)</small>
+
+La misma regla aplicará en el supuesto que la deudora o deudor alimentario moroso sea el integrante de alguno de los Órganos Autónomos del Estado comprendidos en el artículo 114 y 114 QUÁTER de la Constitución Política del Estado Libre y Soberano de Oaxaca. En dicho caso, la vista se le dará al órgano de control interno del órgano o su equivalente.
+
 ###### Artículo 176.
 
 El Registro de Deudores Alimentarios Morosos contendrá:
@@ -1177,7 +1189,9 @@ Hecha la cancelación se hará del conocimiento del Instituto de la Función Reg
 
 La inscripción en el Registro de Deudores Alimentarios Morosos tendrá los efectos siguientes:
 
-I. Constituirá prueba plena en los delitos que atentan contra la obligación alimentaria;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2023)</small>
+
+I. Constituirá prueba plena en los delitos que atentan contra la obligación alimentaria y en los procedimientos administrativos en contra de servidores públicos;
 
 II. Inscribir en el Instituto de la Función Registral del Estado de Oaxaca la cantidad adeudada en los bienes del deudor alimentario; y
 
@@ -5702,3 +5716,13 @@ P.O. 3 DE SEPTIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1074.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 91 Y LA FRACCIÓN VI DEL ARTÍCULO 126 QUINQUIES, AMBOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN X DEL ARTÍCULO 38 Y EL NUMERAL 6 DEL ARTÍCULO 44, AMBOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN IX DEL ARTÍCULO 91 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN X DEL ARTÍCULO 23 DE LA LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA; REFORMA EL INCISO N. Y SE ADICIONA EL INCISO Ñ. DE LA FRACCIÓN I DEL ARTÍCULO 44; REFORMA EL INCISO M. Y SE ADICIONA EL INCISO N. DE LA FRACCIÓN I DEL ARTÍCULO 45; REFORMA EL INCISO L. Y SE ADICIONA EL INCISO M. DE LA FRACCIÓN I DEL ARTÍCULO 46; SE REFORMA EL INCISO K) Y SE ADICIONA EL INCISO L) DE LA FRACCIÓN I DEL ARTÍCULO 46 BIS, TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA; REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA EL PÁRRAFO SEGUNDO RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 143 DE LA LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA; ADICIONAN LOS PÁRRAFOS SEXTO, SÉPTIMO Y OCTAVO DEL ARTÍCULO 175 Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 179 TODOS DEL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
