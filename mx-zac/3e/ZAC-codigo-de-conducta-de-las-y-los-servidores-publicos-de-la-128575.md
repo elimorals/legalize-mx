@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-conducta-de-las-y-los-servidores-publicos-de-la-12857
 country: "mx"
 rank: "codigo"
 publication_date: "2018-04-14"
-last_updated: "2018-04-14"
+last_updated: "2023-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128575&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CODIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PUBLICOS DE LA COORDINACION GENERAL JURIDICA DE GOBIERNO DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PÚBLICOS DE LA COORDINACIÓN GENERAL JURÍDICA DE GOBIERNO DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 1 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PÚBLICOS DE LA COORDINACIÓN GENERAL JURÍDICA DE GOBIERNO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023 (ABROGADO).
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 14 de abril de 2018.
 
@@ -324,3 +326,15 @@ ATENTAMENTE
 JEHÚ EDUÍ SALAS DÁVILA
 
 COORDINADOR GENERAL JURÍDICO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA COORDINACIÓN GENERAL JURÍDICA DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Código de Conducta, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Zacatecas.
+
+SEGUNDO. Se abroga el Código de Conducta de las y los Servidores Públicos de la Coordinación General Jurídica de fecha 14 de abril de 2018.
+
+TERCERO. Independientemente de la difusión oficial que se dé al presente Código, el suscrito como titular de la Coordinación General Jurídica y Presidente del Comité de Ética de esta Dependencia, así como los Directores que integran la Coordinación General Jurídica, daremos a conocer el presente Código de Ética a todos los servidores públicos subordinados, para su debido cumplimiento.
