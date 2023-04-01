@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2023-03-29"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -244,6 +244,10 @@ V. No haber sido condenado por delitos intencionales, patrimoniales y no estar i
 VI. Tener un modo honesto de vivir y aprobar la evaluación de control de confianza establecida en la ley de la materia.
 
 VII. (DEROGADA, P.O. 15 DE OCTUBRE DE 2016)
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2023)</small>
+
+VIII. No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien, tramite el descuento correspondiente.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
 
@@ -4088,3 +4092,13 @@ SEXTO. Los actos administrativos celebrados por la Dirección General de la Inst
 SÉPTIMO. Se transfieren a la Jefatura de Gabinete los recursos humanos, financieros y materiales, junto con los archivos y expedientes asignados a la anteriormente denominada Coordinación de Atención Ciudadana y Vinculación Social, actual Dirección de Atención Ciudadana, adscrita a la Secretaría de Gobierno del Estado de Oaxaca.
 
 OCTAVO. Se transfieren a la Jefatura de Gabinete los recursos humanos, financieros y materiales, junto con los archivos y expedientes asignados a la anteriormente denominada Unidad de Control de Gestión de Gubernatura, actual Unidad de Organización Documental, adscrita a la Secretaría Técnica del Titular del Poder Ejecutivo.
+
+P.O. 1 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1074.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 91 Y LA FRACCIÓN VI DEL ARTÍCULO 126 QUINQUIES, AMBOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN X DEL ARTÍCULO 38 Y EL NUMERAL 6 DEL ARTÍCULO 44, AMBOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN IX DEL ARTÍCULO 91 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN X DEL ARTÍCULO 23 DE LA LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA; REFORMA EL INCISO N. Y SE ADICIONA EL INCISO Ñ. DE LA FRACCIÓN I DEL ARTÍCULO 44; REFORMA EL INCISO M. Y SE ADICIONA EL INCISO N. DE LA FRACCIÓN I DEL ARTÍCULO 45; REFORMA EL INCISO L. Y SE ADICIONA EL INCISO M. DE LA FRACCIÓN I DEL ARTÍCULO 46; SE REFORMA EL INCISO K) Y SE ADICIONA EL INCISO L) DE LA FRACCIÓN I DEL ARTÍCULO 46 BIS, TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA; REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA EL PÁRRAFO SEGUNDO RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 143 DE LA LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA; ADICIONAN LOS PÁRRAFOS SEXTO, SÉPTIMO Y OCTAVO DEL ARTÍCULO 175 Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 179 TODOS DEL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
