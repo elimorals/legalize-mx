@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-procedimiento-y-justicia-administrativa-para-el-124717"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-20"
-last_updated: "2018-06-23"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 20 de octubre de 2017.
 
@@ -1391,9 +1391,15 @@ V. Coordinar la prestación de los servicios administrativos necesarios para el 
 
 VI. Las demás atribuciones que le asigne el Tribunal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 143.
 
-El Secretario General de Acuerdos, los secretarios de estudio y cuenta, secretarios de acuerdos, así como los asesores y actuarios, deberán contar con título y cédula profesional de licenciado en derecho. El director de gestión administrativa, deberá contar con título y cédula profesional de administrador público, administración de empresas, ingeniero industrial o contador público; todos deberán ser mexicanos, tener cuando menos dos años de práctica en materia administrativo (sic) o fiscal; y no contar con antecedentes penales.
+El Secretario General de Acuerdos, los secretarios de estudio y cuenta, secretarios de acuerdos, así como los asesores y actuarios, deberán contar con título y cédula profesional de licenciado en derecho. El director de gestión administrativa, deberá contar con título y cédula profesional de administrador público, administración de empresas, ingeniero industrial o contador público.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2023)</small>
+
+Todos los servidores públicos mencionados en el párrafo anterior deberán ser mexicanos, tener cuando menos dos años de práctica en materia administrativo (sic) o fiscal, no contar con antecedentes penales y no ser deudoras o deudores alimentarios morosos, salvo que acrediten estar al corriente del pago, cancelen esa deuda, o bien, tramiten el descuento correspondiente.
 
 Las faltas temporales de los Secretarios judiciales serán cubiertas por el Secretario judicial de la adscripción, o a falta de éstos, por el actuario del mismo. Las faltas temporales de los actuarios, serán cubiertas por quien designe el Tribunal.
 
@@ -2330,3 +2336,13 @@ P.O. 23 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1464.- MEDIANTE EL CUAL SE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1074.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 91 Y LA FRACCIÓN VI DEL ARTÍCULO 126 QUINQUIES, AMBOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN X DEL ARTÍCULO 38 Y EL NUMERAL 6 DEL ARTÍCULO 44, AMBOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN IX DEL ARTÍCULO 91 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PUBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN X DEL ARTÍCULO 23 DE LA LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA; REFORMA EL INCISO N. Y SE ADICIONA EL INCISO Ñ. DE LA FRACCIÓN I DEL ARTÍCULO 44; REFORMA EL INCISO M. Y SE ADICIONA EL INCISO N. DE LA FRACCIÓN I DEL ARTÍCULO 45; REFORMA EL INCISO L. Y SE ADICIONA EL INCISO M. DE LA FRACCIÓN I DEL ARTICULO 46; SE REFORMA EL INCISO K) Y SE ADICIONA EL INCISO L) DE LA FRACCIÓN I DEL ARTÍCULO 46 BIS, TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA; REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA EL PÁRRAFO SEGUNDO RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 143 DE LA LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA; ADICIONAN LOS PÁRRAFOS SEXTO, SÉPTIMO Y OCTAVO DEL ARTÍCULO 175 Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 179 TODOS DEL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
