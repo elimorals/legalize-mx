@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-agua-potable-y-alcantarillado-para-el-estado-de-9039"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-13"
-last_updated: "2023-01-05"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de febrero de 1993.
 
@@ -137,11 +137,17 @@ IV.- Concursar cuando sea necesario y lo soliciten los Municipios del Estado en 
 
 V.- Vigilar que la prestación y el funcionamiento de los servicios se realicen eficaz y adecuadamente; y
 
-> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2023)</small>
 
-VI.- La coordinación con el Gobierno Federal y las autoridades municipales, en el desarrollo de las estrategias regionales para la administración del agua, encaminadas a prevenir y reducir los efectos de la sequía; y
+VI.- La coordinación con el Gobierno Federal y las autoridades municipales, en el desarrollo de las estrategias regionales para la administración del agua, encaminadas a prevenir y reducir los efectos de la sequía;
 
-VII.- Las demás que esta u otras Leyes le confieran.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE ABRIL DE 2023)</small>
+
+VII.- Coordinar con las autoridades federales, municipales y las instituciones de educación superior especializada, cursos de capacitación técnica, financiera, normativa y operativa, dirigidos al personal de los organismos operadores de servicios de agua potable, alcantarillado y saneamiento, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE ABRIL DE 2023)</small>
+
+VIII.- Las demás que esta u otras Leyes le confieran.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
@@ -152,6 +158,10 @@ Las atribuciones anteriores las ejercitará el Gobierno del Estado a través de 
 Las autoridades estatales y municipales se coordinarán con las autoridades federales competentes para el efecto de que el "Sistema Estatal de Agua Potable y Alcantarillado" tome en consideración los lineamientos emanados del "Sistema Nacional de Planeación Democrática", así como para que el Gobierno Federal proporcione la asistencia técnica que se le solicite en los proyectos de las obras de agua potable y de alcantarillado incluyendo los de saneamiento, que pretendan ejecutar, a fin de asegurar la compatibilidad de los sitios de entrega y recepción del agua en bloque, la eficiencia de la operación de las obras y el mejor aprovechamiento del agua, así como para el ejercicio de atribuciones que les correspondan en términos de Ley.
 
 Igualmente se podrá convenir entre autoridades estatales y municipales la asistencia técnica que aquella le preste a estas o a sus organismos operadores.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2023)</small>
+
+ARTÍCULO 8o BIS.- Los organismos operadores de agua potable, alcantarillado y saneamiento, se coordinarán con la Comisión Estatal del Agua para el Bienestar y la Comisión Nacional del Agua para promover la capacitación de su personal, basada primordialmente en los cursos del Programa Básico de la Escuela del Agua de la Comisión Nacional del Agua.
 
 ###### ARTÍCULO 9o.
 
@@ -483,9 +493,17 @@ X.- Designar al titular del organismo;
 
 XI.- Otorgar poder general para sus actos de administración y de dominio, así como para pleitos y cobranzas, con todas las facultades generales o especiales que requieran poder o cláusula especial conforme a la ley, así como, en su caso, efectuar los trámites de ley para la desincorporación de los bienes del dominio público que se requieran enajenar;
 
-XII.- Aprobar y expedir el reglamento interior del organismo; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2023)</small>
 
-XIII.- Las demás que le asigne la presente ley, su instrumento de instalación, o que sean inherentes al logro de los objetivos del organismo o que sean consecuencia o necesarias a fin de hacer efectivas las anteriores.
+XII.- Aprobar y expedir el reglamento interior del organismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE ABRIL DE 2023)</small>
+
+XIII.- Promover la capacitación del personal que presta servicios de agua potable, alcantarillado y saneamiento, primordialmente basada en los recursos del Programa Básico de la Escuela del Agua de la Comisión Nacional del Agua; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE ABRIL DE 2023)</small>
+
+XIV.- Las demás que le asigne la presente ley, su instrumento de instalación, o que sean inherentes al logro de los objetivos del organismo o que sean consecuencia o necesarias a fin de hacer efectivas las anteriores.
 
 ###### ARTÍCULO 33.
 
@@ -689,6 +707,10 @@ IV.- Asesorar, auxiliar y prestar servicios de apoyo y asistencia técnica o adm
 
 V.- Efectuar, previo acuerdo con el Ayuntamiento Municipal, con carácter transitorio, los servicios de agua potable y alcantarillado, incluyendo saneamiento, en aquellos municipios en donde no existan organismos operadores que los presten, o el municipio no tenga todavía la capacidad para hacerse cargo de ellos, realizando en este caso funciones de autoridad administrativa, mediante el ejercicio de las atribuciones que le confiere la presente Ley.
 
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2023)</small>
+
+VI.- Promover y coordinar la capacitación de su personal, la de los organismos operadores municipales, y de los intermunicipales, primordialmente basada en los cursos del Programa Básico de la Escuela del Agua de la Comisión Nacional del Agua.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 49.
@@ -731,7 +753,9 @@ XVII.- Celebrar con personas de los sectores públicos, social y privado los con
 
 XVIII.- Elaborar su programa y presupuesto anual de ingresos y egresos;
 
-XIX.- Promover la capacitación y adiestramiento del personal de los organismos operadores, a cargo de los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable y de los de alcantarillado y tratamiento de aguas residuales y manejo de lodos;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2023)</small>
+
+XIX.- Promover la capacitación primordialmente basada en los cursos del Programa Básico de la Escuela del Agua de la Comisión Nacional del Agua y adiestramiento del personal de los organismos operadores, a cargo de los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable y de los de alcantarillado y tratamiento de aguas residuales y manejo de lodos;
 
 XX.- Tramitar y resolver los recursos o medios de impugnación que le competan de acuerdo a lo establecido en la presente ley;
 
@@ -1844,3 +1868,11 @@ OCTAVO. Cuando en diversas disposiciones legales se haga referencia al Servicio 
 NOVENO. Cuando en diversas disposiciones legales se haga referencia a Instituto Oaxaqueño de las Artesanías, se entenderá que se refiere a Instituto para el Fomento y la Protección de las Artesanías.
 
 DÉCIMO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 1 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1016.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN VI y VII DEL ARTÍCULO 7; LA FRACCIÓN XII Y XIII DEL ARTÍCULO 32; Y LA FRACCIÓN XIX DEL ARTÍCULO 49. SE ADICIONA LA FRACCION VIII DEL ARTÍCULO 7; EL ARTÍCULO 8 BIS; LA FRACCIÓN XIV AL ARTÍCULO 32; Y LA FRACCIÓN VI AL ARTÍCULO 48, TODOS DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
