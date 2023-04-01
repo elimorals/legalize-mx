@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-acceso-a-la-informacion-publica-y-buen-150
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-04"
-last_updated: "2023-02-25"
+last_updated: "2023-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023.
 
 Ley publicada en el No. 36 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de septiembre de 2021.
 
@@ -449,9 +449,27 @@ La Fiscalía General del Estado de Oaxaca deberá poner a disposición del públ
 
 I. Las estadísticas e indicadores en la procuración de justicia;
 
-II. Las estadísticas sobre denuncias y/o querellas presentadas averiguaciones previas desestimadas, así como de las carpetas de investigación;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2023)</small>
 
-III. La estadística de las averiguaciones previas consignadas, así como de las carpetas de investigación;
+II. En materia de investigación de los delitos, las estadísticas sobre denuncias y/o querellas presentadas; así como el número de averiguaciones previas y carpetas de investigación:
+
+a) De las que fueron desestimadas;
+
+b) De las que se ejerció acción penal;
+
+c) De las que no se ejerció acción penal;
+
+d) De las que se judicializaron;
+
+e) De las que se aplicó algún criterio de oportunidad.
+
+f) De las que se propuso el archivo temporal; y
+
+g) De las que hubo una conciliación.
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2023)</small>
+
+III. La incidencia delictiva por región en el Estado
 
 IV. Las estadísticas de personas desaparecidas o no localizadas;
 
@@ -471,7 +489,19 @@ II. Los acuerdos del Pleno;
 
 III. En su caso, las versiones estenográficas de las sesiones públicas;
 
-IV. Las demás que le señalen las disposiciones normativas electorales aplicables a la materia.
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2023)</small>
+
+IV. Acuerdos dictados por las Magistradas y los Magistrados en los medios de impugnación;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2023)</small>
+
+V. La lista de acuerdos que se publiquen diariamente en los estrados;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2023)</small>
+
+VI. Calendario anual de días hábiles;
+
+VII. Las demás que le señalen las disposiciones normativas electorales aplicables a la materia.
 
 ###### Artículo 26.
 
@@ -497,11 +527,19 @@ IX. Las tablas de competitividad de los Distritos electorales locales y municipi
 
 X. Los montos de financiamiento público por actividades ordinarias, de campaña y específicas otorgados a los partidos, asociaciones, agrupaciones políticas y, en su caso, a los ciudadanos, así como el monto autorizado de financiamiento privado para campañas electorales;
 
-XI. Los cómputos totales de las elecciones y procesos de participación ciudadana llevados a cabo en el Estado;
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2023)</small>
 
-XII. El avance y la conclusión del procedimiento de constitución y registro de nuevos partidos políticos locales, así como los procesos de liquidación de los mismos; y
+XI. Los resultados y declaraciones de validez de las elecciones; información que deberá ser publicada a más tardar al día siguiente de su emisión;
 
-XIII. Los informes sobre sus demás actividades.
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2023)</small>
+
+XII. Las auditorías concluidas a los partidos políticos;
+
+XIII. Los cómputos totales de las elecciones y procesos de participación ciudadana llevados a cabo en el Estado;
+
+XIV. El avance y la conclusión del procedimiento de constitución y registro de nuevos partidos políticos locales, así como los procesos de liquidación de los mismos; y
+
+XV. Los informes sobre sus demás actividades.
 
 ###### Artículo 27.
 
@@ -607,15 +645,35 @@ XVI. Las ordenanzas y reglamentos municipales aprobados y vigentes;
 
 El Bando de Policía y Gobierno deberá publicarse o ponerse a disposición del público, dentro de los 90 días siguientes del inicio de cada administración municipal.
 
-XVII. Los planes de desarrollo municipal; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2023)</small>
 
-XVIII. Las demás que determinen las Leyes.
+XVII. Los planes de desarrollo municipal;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2023)</small>
+
+XVIII. A través de los organismos operadores Municipales o intermunicipales de agua potable y alcantarillado deberán:
+
+a) El número de usuarios con servicios de agua potable y de aquellos que también cuentan con drenaje;
+
+b) Las cuotas de pago según los tipos de servicios de agua potable y de descarga de drenaje;
+
+c) El número de usuarios que ha realizado el pago de agua potable o descargas
+
+d) Las inversiones o ingresos Federales, Estatales y Municipales o de otras fuentes de financiamiento;
+
+e) La inversión semestral y anual de nuevas redes y en el mantenimiento del sistema;
+
+f) Monto del pago de servicios a CONAGUA.
+
+XIX. Las demás que determinen las Leyes.
 
 Todos los Municipios podrán solicitar al Órgano Garante, que de manera subsidiaria divulgue vía electrónica la información pública de oficio que señala este capítulo, Para ello, el Congreso del Estado deberá hacer las previsiones presupuestales que se requieran para la integración y publicación en línea de la información obligatoria en medios electrónicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2023)</small>
+
 ###### Artículo 31.
 
-Además de lo señalado en el artículo 76 de la Ley General, y en el presente ordenamiento, así como, en la Ley General de Partidos Políticos, los partidos políticos locales, las agrupaciones políticas, conforme a su naturaleza jurídica, deberán poner a disposición del público la siguiente información:
+Además de lo señalado en el artículo 76 de la Ley General, y en el presente ordenamiento, así como, en la Ley General de Partidos Políticos, los partidos políticos locales, las agrupaciones políticas, y las personas morales constituidas en asociación civil creadas por ciudadanas y ciudadanos que pretendan postular una candidatura independiente, conforme a su naturaleza jurídica, deberán poner a disposición del público la siguiente información:
 
 I. Las convocatorias que emitan para la elección de sus dirigentes o la postulación de sus candidatos a cargos de elección popular.
 
@@ -791,23 +849,17 @@ V. Las demás que establezca la Ley o la reglamentación correspondiente.
 
 ###### Artículo 41.
 
-El Órgano Garante implementará un Observatorio Público que verificará, de oficio o por denuncia ciudadana, cualquier incumplimiento a las normas y principios de buen gobierno establecidos en este capítulo.
+(DEROGADO, P.O. 1 DE ABRIL DE 2023)
 
 ###### Artículo 42.
 
-En el caso de que el Órgano Garante tenga conocimiento del incumplimiento de las normas o principios de buen gobierno establecidos en este capítulo, procederá conforme a lo siguiente:
+(DEROGADO, P.O. 1 DE ABRIL DE 2023)
 
-Si existe una denuncia ciudadana ya sea por teléfono, correo electrónico o por escrito, o el propio Órgano Garante se entera de manera directa, el servidor público encargado del Observatorio Público, levantará el acuerdo de inicio en el que se asentará dicha circunstancia, y de inmediato procederá a integrar el expediente respectivo, solicitando los informes del sujeto obligado quien deberá remitirlo dentro de las cuarenta y ocho horas siguientes a su legal notificación. Asimismo, integrará al expediente la información que circule en redes sociales y páginas de internet.
-
-Hecho lo anterior, dentro de las cuarenta y ocho horas siguientes al cumplimiento del plazo otorgado al sujeto obligado respecto del informe requerido, con independencia de la presentación de dicho informe, se turnará copia certificada del expediente integrado al organismo del Sistema Estatal de Combate a la Corrupción que legalmente competa para que determine y en su caso aplique la sanción que corresponda.
-
-En el caso que la infracción corresponda conocer al Órgano Garante, el expediente será turnado al área correspondiente para la sustanciación del procedimiento respectivo y en su caso, la aplicación de la sanción correspondiente.
-
-El titular del Observatorio Público del Órgano Garante, dará seguimiento al procedimiento canalizado ante la instancia del Comité Coordinador del Sistema Estatal de Combate a la Corrupción que legalmente competa, e informará al Pleno de su inicio, avance y conclusión, así como de las sanciones que dichos órganos impusieron al sujeto obligado infractor.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2023)</small>
 
 ###### Artículo 43.
 
-El Órgano Garante difundirá y promoverá el Observatorio Público afín (sic) de que la ciudadanía participe de manera activa con su denuncia ante cualquier violación a las normas y principios de buen gobierno establecidos en esta Ley.
+El Órgano Garante difundirá y promoverá, en el ámbito de su competencia, los principios de buen gobierno y las obligaciones de gobierno abierto establecidos en esta Ley, con la finalidad de incentivar la participación ciudadana.
 
 #### SECCIÓN SEGUNDA. OBLIGACIONES DE GOBIERNO ABIERTO
 
@@ -861,17 +913,19 @@ Los sujetos obligados podrán establecer comunicación con los ciudadanos, a tra
 
 El acceso a la información pública sólo podrá ser restringido de manera excepcional, cuando por razones de interés público, ésta sea clasificada como reservada.
 
-Se clasificará como información reservada aquella que:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE ABRIL DE 2023)</small>
+
+Además de lo considerado en el artículo 113 de la Ley General de Transparencia y Acceso a la Información Pública, se clasificará como información reservada aquella que:
 
 I. Ponga en riesgo la vida, la seguridad o la salud de cualquier persona;
 
 II. Comprometa la seguridad pública estatal o municipal;
 
-III. Pueda menoscabar la conducción de las negociaciones y relaciones internacionales;
+III. (DEROGADA, P.O. 1 DE ABRIL DE 2023)
 
-IV. Se entregue al Estado mexicano expresamente con ese carácter o el de confidencial por otro u otros sujetos de derecho internacional, excepto cuando se trate de violaciones graves de derechos humanos o delitos de lesa humanidad de conformidad con el derecho internacional;
+IV. (DEROGADA, P.O. 1 DE ABRIL DE 2023)
 
-V. Dañe la estabilidad económica y financiera del Estado y Municipios;
+V. (DEROGADA, P.O. 1 DE ABRIL DE 2023)
 
 VI. Obstruya las actividades de prevención o persecución de los delitos;
 
@@ -891,9 +945,11 @@ XIII. Obstruya los procedimientos para fincar responsabilidad a los Servidores P
 
 XIV. Por disposición expresa de una Ley tenga tal carácter, siempre que sea acorde con las bases, principios y disposiciones establecidos en la Ley General, en esta Ley y no las contravengan; así como las previstas en Instrumentos Internacionales.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2023)</small>
+
 ###### Artículo 55.
 
-La información clasificada como reservada en los términos de la Ley General o de la presente Ley, podrá permanecer con tal carácter hasta por un periodo de diez años. Excepcionalmente, los sujetos obligados, con la aprobación del Comité de Transparencia, podrán ampliar el periodo de reserva hasta por un plazo de cinco años adicionales, siempre y cuando justifiquen que subsisten las causas que dieron origen a su clasificación, mediante la aplicación de una prueba de daño.
+La información clasificada como reservada en los términos de la Ley General o de la presente Ley, podrá permanecer con tal carácter hasta por un periodo de cinco años. El periodo de reserva correrá a partir de la fecha en que se clasifica el documento. Excepcionalmente, los sujetos obligados, con la aprobación del Comité de Transparencia, podrán ampliar el periodo de reserva hasta por un plazo de cinco años adicionales, siempre y cuando justifiquen que subsisten las causas que dieron origen a su clasificación, mediante la aplicación de una prueba de daño.
 
 ###### Artículo 56.
 
@@ -1137,9 +1193,11 @@ El Órgano Garante gozará, respecto de su patrimonio, de las franquicias, exenc
 
 Todas las funciones y actividades del Órgano Garante, tendrán como base las perspectivas de derechos humanos y de género, se regirán por los principios de constitucionalidad, interculturalidad, certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia, máxima publicidad, buena fe, no discriminación, oportunidad, responsabilidad, y buen gobierno.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2023)</small>
+
 ###### Artículo 84.
 
-El Órgano Garante, a través de su Comisionada Presidenta o Comisionado Presente (sic), deberá presentar, a más tardar en el mes de febrero de cada año, un informe por escrito ante el Congreso del Estado sobre los avances en el Estado, en materia de transparencia, acceso a la información, protección de datos personales, gobierno abierto, y los vinculados al Sistema Estatal de Combate a la Corrupción, el cual deberá hacer público a través de los medios electrónicos disponibles en formatos abiertos, accesibles y reutilizables. Para este efecto el Órgano Garante expedirá los Lineamientos que resulten necesarios.
+El Órgano Garante, a través de su Comisionada Presidenta o Comisionado Presidente, deberá presentar, a más tardar en el mes de febrero de cada año, un informe por escrito ante el Congreso del Estado sobre los avances y trabajos realizados en el Estado, en materia de transparencia, acceso a la información, protección de datos personales, gobierno abierto, y los vinculados al Sistema Estatal de Combate a la Corrupción, el cual deberá hacer público a través de los medios electrónicos disponibles en formatos abiertos, accesibles y reutilizables. Para este efecto el Órgano Garante expedirá los Lineamientos que resulten necesarios.
 
 ###### Artículo 85.
 
@@ -1197,9 +1255,15 @@ I. Vigilar el cumplimiento de las disposiciones establecidas en esta Ley, así c
 
 II. Garantizar que todo sujeto obligado por la presente Ley, cumpla con los principios de constitucionalidad, certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia, máxima publicidad, buena fe, no discriminación, oportunidad, responsabilidad. y buen gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2023)</small>
+
 ###### Artículo 89.
 
-El Consejo General del Órgano Garante estará integrado por cinco Comisionadas y Comisionados que serán designados por el voto de las dos terceras partes de los Diputados presentes del Congreso del Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de reelección y serán sustituidos individualmente en forma escalonada en los términos establecidos en esta Ley.
+El Consejo General del Órgano Garante estará integrado por cinco Comisionadas y Comisionados, quienes deberán brindar atención a la ciudadanía, fortalecer el derecho de acceso a la información, la transparencia, la protección de datos personales, a las normas y principios de buen gobierno y contribuir a la democracia, tales comisiones serán las previstas por el artículo 87 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2023)</small>
+
+Las Comisionadas y Comisionados se designarán por el voto de las dos terceras partes de los Diputados presentes del Congreso del Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de reelección y serán sustituidos individualmente en forma escalonada en los términos establecidos en esta Ley.
 
 La Presidencia del Consejo General será rotativa cada 2 años, misma que será determinada por el Consejo General del Órgano Garante.
 
@@ -1207,7 +1271,9 @@ Para asegurar la autonomía del Órgano Garante durante el ejercicio de su encar
 
 Se exceptúa de lo anterior el ejercicio de la docencia o la investigación académica, siempre que no medie remuneración alguna y tratándose de los cargos o comisiones que deriven de las atribuciones del Sistema Nacional de Transparencia o de la propia Ley y demás normas que signifiquen una coordinación institucional.
 
-Las percepciones de las y los Comisionados serán de conformidad al presupuesto anual aprobado y de acuerdo al tabulador de salarios vigente.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2023)</small>
+
+Las percepciones de las y los Comisionados serán de conformidad al presupuesto anual aprobado y de acuerdo al tabulador de salarios vigente en el Estado
 
 ###### Artículo 90.
 
@@ -1243,6 +1309,10 @@ VII. No haber sido dirigente de un comité directivo, ejecutivo o equivalente de
 
 VIII. No haber desempeñado el cargo de Magistrado o Magistrada del Poder Judicial del Estado o integrante del Consejo de la Judicatura durante los últimos dos años inmediatos a la publicación de la convocatoria.
 
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2023)</small>
+
+IX. No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien, tramite el descuento correspondiente.
+
 ###### Artículo 92.
 
 El Consejo General celebrará sesiones públicas ordinarias por lo menos dos veces al mes, sin perjuicio de celebrar, en cualquier tiempo, las sesiones extraordinarias que sean necesarias para la eficaz marcha del Órgano Garante, previa convocatoria de la Comisionada Presidenta o el Comisionado Presidente o de la mayoría de las y los Comisionados.
@@ -1261,7 +1331,9 @@ b) Establecer la estructura administrativa del Órgano Garante y su jerarquizaci
 
 c) Establecer la integración, organización, funcionamiento y atribuciones de las unidades administrativas del Órgano Garante;
 
-d) Aprobar el informe anual que deberá presentar por escrito el Comisionado o comisionada presidente o presidenta ante el Congreso del Estado a más tardar el día 31 de marzo del siguiente año;
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2023)</small>
+
+d) Aprobar el informe anual que deberá presentar por escrito la Comisionada presidenta o el Comisionado presidente ante el Congreso del Estado a más tardar en el mes de febrero de cada año;
 
 e) Establecer un sistema interno de rendición de cuentas claras, transparentes y oportunas, así como garantizar el acceso a la información pública dentro del Órgano Garante en los términos de la Ley;
 
@@ -1431,7 +1503,7 @@ XV. Emitir los acuerdos que sean necesarios para la rápida y eficaz realizació
 
 XVI Otorgar los nombramientos del personal del Órgano Garante;
 
-XVII. Sustanciar, a través del titular del Observatorio Público, los procedimientos y acciones necesarias para la plena observancia y vigencia de las normas y principios de buen gobierno, y gobierno abierto; y
+XVII. (DEROGADA, P.O. 1 DE ABRIL DE 2023)
 
 XVIII. Las demás que le confiera esta Ley, el Reglamento Interno y otras disposiciones aplicables.
 
@@ -1459,7 +1531,7 @@ VIII. Presentar al Consejo General proyectos de acuerdos y resoluciones;
 
 IX. Excusarse en el estudio de los Recursos de Revisión que les sean turnados, cuando exista conflicto de interés, el cual deberá de ser comunicado a la Comisionada Presidenta o Comisionado Presidente para que turne de nueva cuenta el Recurso de Revisión en términos de Ley;
 
-X. Designar al titular del Observatorio Público establecido en esta Ley, con la ratificación del Pleno, cuyo nombramiento deberá ajustarse al principio de idoneidad. El Titular del Observatorio Público tendrá las funciones que establezca esta Ley, el Reglamento Interno y las que le asigne la Presidenta o el Presidente; y
+X. (DEROGADA, P.O. 1 DE ABRIL DE 2023)
 
 XI. Las demás que esta Ley u otras disposiciones aplicables les confieran.
 
@@ -1575,7 +1647,9 @@ XVII. Recibir las declaraciones de situación patrimonial de las y los servidore
 
 XVIII. Informar a la Secretaría de la Contraloría y Transparencia Gubernamental del Gobierno del Estado las inhabilitaciones impuestas a los servidores públicos del Órgano Garante; y
 
-XIX. Las demás que le otorgue esta Ley, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, Reglamento del Órgano Garante y Leyes aplicables en la materia.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2023)</small>
+
+XIX. Las demás que le otorgue esta Ley, la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, Reglamento del Órgano Garante y Leyes aplicables en la materia.
 
 #### SECCIÓN SEXTA. DEL CONSEJO CONSULTIVO CIUDADANO
 
@@ -1731,9 +1805,11 @@ Cuando las Unidades de Transparencia determinen la notoria incompetencia por par
 
 Si los sujetos obligados son competentes para atender parcialmente la solicitud de acceso a la información, se deberá dar respuesta respecto de dicha parte y únicamente en estos casos, la notificación de la declaración de incompetencia se realizará dentro de los plazos del procedimiento de acceso a la información.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2023)</small>
+
 ###### Artículo 124.
 
-Cuando la solicitud presentada no fuese clara en cuanto a la información requerida, el sujeto obligado dentro de los cinco días siguientes a la recepción de la solicitud mandará requerir a la o el solicitante en el medio señalado por éste para recibir notificaciones, a efecto de que, en un plazo de cinco días contados a partir del día siguiente a la notificación del requerimiento, aclare, precise o complemente su solicitud de acceso a la información. En caso de que la o el solicitante no cumpla con dicha prevención, la solicitud de información se tendrá como no presentada. Este requerimiento interrumpirá el plazo otorgado en esta Ley al sujeto obligado respecto del tiempo en que debe dar respuesta a la solicitud de información. Ninguna solicitud de información podrá desecharse si el sujeto obligado omite requerir a la o el solicitante para que subsane su solicitud.
+Cuando la solicitud presentada no fuese clara en cuanto a la información requerida o no cumpla con alguno de los requisitos señalados en el artículo 122 de esta Ley, el sujeto obligado dentro de los cinco días siguientes a la recepción de la solicitud mandará requerir a la o el solicitante en el medio señalado por éste para recibir notificaciones, a efecto de que, en un plazo de cinco días contados a partir del día siguiente a la notificación del requerimiento, aclare, precise o complemente su solicitud de acceso a la información. En caso de que la o el solicitante no cumpla con dicha prevención, la solicitud de información se tendrá como no presentada. Este requerimiento interrumpirá el plazo otorgado en esta Ley al sujeto obligado respecto del tiempo en que debe dar respuesta a la solicitud de información. Ninguna solicitud de información podrá desecharse si el sujeto obligado omite requerir a la o el solicitante para que subsane su solicitud.
 
 ###### Artículo 125.
 
@@ -1799,7 +1875,7 @@ La Unidad de Transparencia tendrá disponible la información solicitada durante
 
 ###### Artículo 135.
 
-Las Unidades de Transparencia no estarán obligadas a dar trámite a solicitudes ofensivas o cuando hayan entregado información sustancialmente idéntica como respuesta a una solicitud de la misma persona.
+(DEROGADO, P.O. 1 DE ABRIL DE 2023)
 
 ###### Artículo 136.
 
@@ -1895,13 +1971,15 @@ En ningún caso será necesario que el particular ratifique el Recurso de Revisi
 
 #### SECCIÓN TERCERA. LA SUBSTANCIACIÓN DEL RECURSO DE REVISIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2023)</small>
+
 ###### Artículo 143.
 
-El Órgano Garante resolverá el Recurso de Revisión en un plazo que no podrá exceder de cuarenta días, contados a partir de la admisión del mismo. Plazo que podrá ampliarse por una sola vez y hasta por un periodo de veinte días.
+El Órgano Garante resolverá el Recurso de Revisión en un plazo que no podrá exceder de cuarenta días, contados a partir de la admisión del mismo, en los términos de la presente Ley y la Ley General de Transparencia y Acceso a la Información Pública. El plazo podrá ampliarse por una sola vez y hasta por un periodo de veinte días.
 
 En el caso de existir tercero interesado se le hará la notificación para que en el plazo de siete días hábiles acredite su carácter, alegue lo que a su derecho convenga y presente las pruebas que considere pertinentes.
 
-Excepcionalmente, previa fundamentación y motivación, la o el Comisionado ponente podrá ampliar los plazos hasta por cinco días más, cuando la importancia y trascendencia del asunto así lo amerite.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 1 DE ABRIL DE 2023)</small>
 
 ###### Artículo 144.
 
@@ -2021,7 +2099,9 @@ Las actuaciones y resoluciones del Órgano Garante se notificarán, en el domici
 
 Los sujetos obligados deberán cumplir con las resoluciones del Órgano Garante dentro de los diez días siguientes a su notificación, bajo apercibimiento de la imposición de una de las medidas de apremio establecidas en esta Ley.
 
-Los sujetos obligados deberán informar al Órgano Garante, dentro de los tres días siguientes sobre el cumplimiento de las Resoluciones, exhibiendo las constancias que lo acrediten.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2023)</small>
+
+Los sujetos obligados deberán informar al Órgano Garante del cumplimiento de sus resoluciones, en un plazo no mayor a tres días a partir de que sean cumplimentadas, exhibiendo las constancias que lo acrediten.
 
 En caso de incumplimiento a la resolución, se aplicarán las sanciones que correspondan conforme a lo establecido en esta Ley.
 
@@ -2171,9 +2251,11 @@ La notificación que contenga la imposición de la medida de apremio deberá rea
 
 Deberá contener el texto íntegro del acto, así como el fundamento legal en que se apoye, con la indicación del medio de impugnación que proceda contra la misma, el órgano ante el cual hubiera de presentarse y el plazo para su interposición.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2023)</small>
+
 ###### Artículo 172.
 
-Será supletorio a los mecanismos de notificación y ejecución de medidas de apremio y sanciones, lo dispuesto en el Código de Procedimientos Civiles para el Estado de Oaxaca, en la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca; y, en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
+Será supletorio a los mecanismos de notificación y ejecución de medidas de apremio y sanciones, lo dispuesto en el Código de Procedimientos Civiles para el Estado de Oaxaca; y, en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 ###### Artículo 173.
 
@@ -2360,3 +2442,25 @@ P.O. 25 DE FEBRERO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1074.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 91 Y LA FRACCIÓN VI DEL ARTÍCULO 126 QUINQUIES, AMBOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN X DEL ARTÍCULO 38 Y EL NUMERAL 6 DEL ARTÍCULO 44, AMBOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN IX DEL ARTÍCULO 91 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN X DEL ARTÍCULO 23 DE LA LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA; REFORMA EL INCISO N. Y SE ADICIONA EL INCISO Ñ. DE LA FRACCIÓN I DEL ARTÍCULO 44; REFORMA EL INCISO M. Y SE ADICIONA EL INCISO N. DE LA FRACCIÓN I DEL ARTÍCULO 45; REFORMA EL INCISO L. Y SE ADICIONA EL INCISO M. DE LA FRACCIÓN I DEL ARTÍCULO 46; SE REFORMA EL INCISO K) Y SE ADICIONA EL INCISO L) DE LA FRACCIÓN I DEL ARTÍCULO 46 BIS, TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA; REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA EL PÁRRAFO SEGUNDO RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 143 DE LA LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA; ADICIONAN LOS PÁRRAFOS SEXTO, SÉPTIMO Y OCTAVO DEL ARTÍCULO 175 Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 179 TODOS DEL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 1 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1078.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 24, LA FRACCIÓN XVII DEL ARTÍCULO 30, EL ARTÍCULO 31, EL ARTÍCULO 43, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 54, EL ARTÍCULO 55, EL ARTÍCULO 84, EL PÁRRAFO PRIMERO DEL ARTÍCULO 89, EL INCISO D) DE LA FRACCIÓN I DEL ARTÍCULO 93, LA FRACCIÓN XIX DEL ARTÍCULO 106, EL ARTÍCULO 124, EL PRIMER PÁRRAFO DEL ARTÍCULO 143, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 157 Y EL ARTÍCULO 172; Y SE ADICIONAN LAS FRACCIONES IV, V Y VI, RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 25, LAS FRACCIONES XI Y XII, RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 26, LA FRACCIÓN XVIII RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 30, Y UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 89; Y SE DEROGAN EL ARTÍCULO 41, EL ARTÍCULO 42, LAS FRACCIONES III, IV Y V DEL ARTÍCULO 54, LA FRACCIÓN XVII DEL ARTÍCULO 96, LA FRACCÍON X DEL ARTÍCULO 97, EL ARTÍCULO 135 Y EL TERCER PÁRRAFO DEL ARTÍCULO 143, TODOS DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACION PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente decreto
+
+CUARTO. El Órgano Garante de Acceso a la Información Pública, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, deberá armonizar sus ordenamientos internos en un plazo no mayor a noventa días.
