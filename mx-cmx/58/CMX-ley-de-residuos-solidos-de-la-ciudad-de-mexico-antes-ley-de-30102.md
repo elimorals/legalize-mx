@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2022-10-21"
+last_updated: "2023-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-05"
 
 LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 3 DE ABRIL DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -52,9 +52,11 @@ LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
 
 ### CAPÍTULO ÚNICO. DEL OBJETO DE LEY
 
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2023)</small>
+
 ###### Artículo 1°.
 
-La presente Ley es de observancia en el Distrito Federal, sus disposiciones son de orden público e interés social, y tiene por objeto regular la gestión integral de los residuos sólidos considerados como no peligrosos, así como la prestación del servicio público de limpia.
+La presente Ley es de observancia general en la Ciudad de México, sus disposiciones son de orden público e interés social, y tiene por objeto regular la gestión integral de los residuos sólidos considerados como no peligrosos, así como la prestación del servicio público de limpia.
 
 ###### Artículo 2°.
 
@@ -70,7 +72,9 @@ II. Almacenamiento: El depósito temporal de los residuos sólidos en contenedor
 
 III. Almacenamiento selectivo o separado: La acción de depositar los residuos sólidos en los contenedores diferenciados;
 
-IV. Aprovechamiento del valor o valorización: El conjunto de acciones cuyo objetivo es mantener a los materiales que los constituyen en los ciclos económicos o comerciales, mediante su reutilización, remanufactura, rediseño, reprocesamiento, reciclado y recuperación de materiales secundarios con lo cual no se pierde su valor económico;
+> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2023)</small>
+
+IV. Aprovechamiento del valor o valorización: El conjunto de acciones cuyo objetivo es mantener los materiales contenidos en los residuos en los ciclos económicos, productivos o comerciales, mediante su recuperación, reutilización, remanufactura, reparación, rediseño, reprocesamiento, reciclaje, tratamiento y coprocesamiento;
 
 > <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
 
@@ -83,6 +87,10 @@ V. Biogás: El conjunto de gases generados por la descomposición microbiológic
 VI. Biopolímero: Es un polímero de origen natural que puede ser sintetizado por microorganismos u obtenido de fuentes animales o plantas. Son básicamente generados de recursos renovables tales como el Ácido Poliláctico (PLA) y el Polihidroxialcanoato (PHA) de forma enunciativa, más no limitativa, y por regla general son fácilmente biodegradables y compostables, pero pueden no serlo;
 
 VII. (DEROGADA, G.O. 8 DE SEPTIEMBRE DE 2014)
+
+> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+
+VII Bis. Centros de acopio instalaciones autorizadas por la Secretaría para la prestación de servicios a terceros en donde se reciben, cuantifican, reúnen, separan, trasvasan y almacenan temporalmente residuos de la construcción y demolición de una o diferentes fuentes para ser recuperados y reutilizados en los términos de la normatividad aplicable, o enviados a instalaciones autorizadas para su tratamiento, reciclaje, reutilización, coprocesamiento o disposición final.
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -160,9 +168,17 @@ XXII. Lixiviados: Los líquidos que se forman por la reacción, arrastre o filtr
 
 XXIII. Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
-> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
+> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
 
-XXIII Bis. Microplásticos. Fragmentos de plástico de tamaño inferior a 5 milímetros;
+XXIII Bis. Manifiesto de entrega – recepción: Es el documento
+
+> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+
+XXIII Ter. Materiales reciclados: Aquellos materiales contenidos en los residuos que son transformados y reincorporados en los ciclos productivos mediante un proceso de reciclaje.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], G.O. 3 DE ABRIL DE 2023)</small>
+
+XXIII Quáter. Microplásticos: Fragmentos de plástico de tamaño inferior a 5 milímetros.
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -171,6 +187,18 @@ XXIV. Minimización: El conjunto de medidas tendientes a evitar la generación d
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 XXV. Plan de Manejo: El Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos y residuos de manejo especial, bajo criterios de eficiencia ambiental, tecnológica, económica y social, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno;
+
+> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+
+XXV Bis. Planta de Reciclaje de Residuos de la Construcción y de la Demolición (PR-RCD): Instalación cuyo objetivo es transformar los residuos de la construcción, demolición y excavación en agregados reciclados y subproductos para reincorporarlos a un ciclo de vida, a fin de evitar que se desperdicien estos residuos potencialmente útiles, reducir el consumo de materiales naturales, así como el uso de energía;
+
+> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+
+XXV Ter. Plataforma digital de trazabilidad: Plataforma informática que permite establecer la gestión integral de los residuos de manejo especial a partir de los datos registrados en los manifiestos de entrega-recepción.
+
+> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+
+XXV Quáter. Prestador de servicios para el manejo de residuos: personas físicas o morales que cuentan con el respectivo permiso, licencia o autorización otorgado por la Secretaría, para cualquiera de las siguientes actividades: recolectar, transportar, acopiar y/o reciclar residuos sólidos y de manejo especial;
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -216,6 +244,10 @@ XXXII. Reciclaje: La transformación de los materiales o subproductos contenidos
 
 XXXIII. Relleno sanitario: La obra de infraestructura que aplica métodos de ingeniería para la disposición final de los residuos sólidos ubicados en sitios adecuados al ordenamiento ecológico, mediante el cual los residuos sólidos se depositan y compactan al menor volumen práctico posible y se cubren con material natural o sintético para prevenir y minimizar la generación de contaminantes al ambiente y reducir los riesgos a la salud;
 
+> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+
+XXXIII Bis. Residuos de la construcción y demolición: Materiales, productos o subproductos generados durante las actividades de construcción tales como: construcción, modificación, remodelación, ampliación, adecuación, rehabilitación, restauración, reparación, sustitución de infraestructura, conservación, mantenimiento, instalación demolición u otras; así como el producto proveniente de la excavación cuando se haya alterado en sus condiciones físicas, químicas y biológicas originales.
+
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 XXXIV. Residuos urbanos: Los generados en casa habitación, unidad habitacional o similares que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques, los provenientes de cualquier otra actividad que genere residuos sólidos con características domiciliarias y los resultantes de la limpieza de las vías públicas y áreas comunes, siempre que no estén considerados por esta Ley como residuos de manejo especial;
@@ -251,6 +283,10 @@ XLI. Secretaría: La Secretaría del Medio Ambiente del Distrito Federal;
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 XLII. Tratamiento: El procedimiento mecánico, físico, químico, biológico o térmico, mediante el cual se cambian las características de los residuos sólidos, con la posibilidad de reducir su volumen o peligrosidad; y
+
+> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+
+XLII BIS. Unidad de inspección: Persona física o moral que realiza actos de verificación debidamente acreditada por alguna Entidad de Acreditación autorizada por la Secretaría de Economía y aprobada por la Secretaría.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -302,7 +338,9 @@ II. Formular, evaluar y cumplir, en el marco de su competencia, con las disposic
 
 III. Coordinarse con la Secretaría de Obras y Servicios en la aplicación de las disposiciones complementarias para la restauración, prevención y control de la contaminación del suelo generada por el manejo de los residuos sólidos que establecen esta Ley y demás disposiciones jurídicas aplicables;
 
-IV. Emitir opinión sobre el diseño, construcción, operación y cierre de estaciones de transferencia, plantas de selección y tratamiento y sitios de disposición final de los residuos sólidos;
+> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2023)</small>
+
+IV. Emitir opinión sobre el diseño, construcción, operación y cierre de estaciones de transferencia, plantas de selección y tratamiento, plantas de reciclaje y sitios de disposición final de los residuos sólidos.
 
 V. Integrar un inventario de los residuos sólidos y sus fuentes generadoras, en coordinación con la Secretaría de Obras y Servicios y las delegaciones;
 
@@ -310,9 +348,21 @@ VI. Integrar a la política de información y difusión en materia ambiental los
 
 VII. Promover la investigación, desarrollo y aplicación de tecnologías, equipos, sistemas y procesos que eliminen, reduzcan o minimicen la liberación al ambiente y la transferencia de uno a otro de sus elementos, de contaminantes provenientes del manejo de los residuos sólidos;
 
+> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+
+VII Bis. Fomentar, en coordinación con la Secretaría de Obras y Servicios, la valorización y retorno de los materiales recuperados a los ciclos productivos;
+
+> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+
+VII Ter. Promover la investigación, desarrollo y aplicación de tecnologías, equipos, sistemas informáticos y procesos que permita identificar y establecer la gestión integral de los residuos sólidos urbanos y los de manejo especial;
+
 > <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
 VIII. Emitir los criterios, lineamientos, reglas y/o normas ambientales para el Distrito Federal con relación a la operación, recolección, transporte, almacenamiento, reciclaje, tratamiento, industrialización y disposición final de residuos sólidos, así como para establecer las condiciones de seguridad, requisitos y limitaciones en el manejo de los residuos sólidos que presenten riesgo para el ser humano, el equilibrio ecológico y el ambiente;
+
+> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+
+VIII Bis. Implementar Sistemas de información, que permita (sic) conocer el origen, ruta y destino final de los residuos;
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -366,11 +416,11 @@ XVIII. Autorizar y registrar a los establecimientos mercantiles y de servicios r
 
 XIX. Fomentar el aprovechamiento de los residuos sólidos urbanos en procesos de generación de energía limpia, en coordinación con la Secretaría de Obras y Servicios y las alcaldías.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE ABRIL DE 2023)</small>
 
 ###### Artículo 7°.
 
-Corresponde a la Secretaría de Obras y Servicios el ejercicio de las siguientes:
+Corresponde a la Secretaría de Obras y Servicios el ejercicio de las siguientes facultades:
 
 I. Planear, organizar, normar, controlar y vigilar la prestación del servicio público de limpia en sus etapas de barrido y recolección en vías primarias, transferencia, tratamiento y disposición final de los residuos sólidos;
 
@@ -389,6 +439,10 @@ VI. Llevar a cabo los estudios que sustenten la necesidad de otorgar concesiones
 VII. Realizar los estudios y proyectos de obras de infraestructura para el manejo integral de los residuos sólidos de su competencia;
 
 VIII. Diseñar, construir, organizar, operar y mantener las estaciones de transferencia, plantas de selección y tratamiento, y sitios para la disposición final de los residuos sólidos, con base en el Programa de Gestión Integral de los Residuos Sólidos;
+
+> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+
+VIII Bis. Recuperar, clasificar, especificar y utilizar materiales reciclados de la construcción y demolición en la ejecución de obras de su competencia.
 
 IX. Participar en la celebración de convenios para el traslado de los residuos sólidos desde o hacia otras entidades federativas, así como la inspección y vigilancia de dicho traslado;
 
@@ -714,15 +768,21 @@ El Reglamento determinará los bienes a los que se refiere este artículo; y
 
 IV. Cumplir con lo establecido (sic) las normas ambientales emitidas por la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE ABRIL DE 2023)</small>
+
 ###### Artículo 24.
 
-Es responsabilidad de toda persona, física o moral, en el Distrito Federal:
+Es responsabilidad de toda persona física o moral, en la Ciudad de México:
 
 I. Separar, reducir y evitar la generación de los residuos sólidos;
 
 II. Barrer diariamente las banquetas, andadores y pasillos y mantener limpios de residuos sólidos los frentes de sus viviendas o establecimientos industriales o mercantiles, así como los terrenos de su propiedad que no tengan construcción, a efecto de evitar contaminación y molestias a los vecinos;
 
 III. Fomentar la reutilización y reciclaje de los residuos sólidos;
+
+> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2023)</small>
+
+III Bis. Entregar sus residuos de la construcción y de la demolición a un prestador de servicio de manejo de transporte.
 
 IV. Cumplir con las disposiciones específicas, criterios, normas y recomendaciones técnicas;
 
@@ -798,6 +858,14 @@ El frente de las construcciones o inmuebles en demolición deberán mantenerse e
 
 Los responsables deberán transportar los escombros en vehículos adecuados que eviten su dispersión durante el transporte a los sitios que determine la Secretaría de Obras y Servicios.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 3 DE ABRIL DE 2023)</small>
+
+Las personas físicas o morales que se señalan en el artículo anterior, deben contar con un convenio o contrato vigente con una planta de reciclaje de residuos de la construcción y demolición que garantice el reciclaje de los residuos a generar en sus procesos productivos y deberá presentarlo ante la Secretaría y la Alcaldía correspondiente, para la obtención de los permisos de construcción o demolición pertinentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 3 DE ABRIL DE 2023)</small>
+
+Los residuos generados en obras de construcción, tales como: construcción, modificación, remodelación, amplificación, restauración, reparación, sustitución de infraestructura, conservación, mantenimiento, instalación, demolición u otras deberán separarse en la fuente generadora y ser objeto de una (sic) Plan de Manejo, conforme a lo establecido en el marco jurídico aplicable.
+
 ((REFORMADO, G.O. 26 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 26 Bis.
@@ -809,6 +877,12 @@ Productores, distribuidores, y usuarios de las bolsas a las que se refiere este 
 ###### Artículo 26 Bis 1.
 
 (REFORMADO [N. DE E. DEROGADO], G.O. 26 DE NOVIEMBRE DE 2010)
+
+> <small>(ADICIONADO, G.O. 3 DE ABRIL DE 2023)</small>
+
+###### Artículo 26 Ter.
+
+La Secretaría, implementará Sistemas de información que permitan conocer el origen, ruta y destino final de los residuos de la construcción y demolición
 
 ### CAPÍTULO II. DEL INVENTARIO DE LOS RESIDUOS SÓLIDOS Y SUS FUENTES GENERADORAS
 
@@ -895,6 +969,14 @@ Los generadores de residuos de manejo especial deberán instrumentar planes de m
 Los planes de manejo a que hace referencia el párrafo anterior deberán instrumentarse e implementarse de acuerdo a la normatividad aplicable, con acciones concretas que permitan el correcto tratamiento de los residuos de manejo especial que se generen.
 
 La Secretaría promoverá la participación de la ciudadanía, a través de campañas de difusión, para prevenir la generación de residuos de manejo especial, así como para la prevención de la contaminación por este tipo de residuos.
+
+> <small>(ADICIONADO, G.O. 3 DE ABRIL DE 2023)</small>
+
+###### Artículo 32 Bis.
+
+En la ejecución de obra pública que realice la administración pública de la Ciudad de México, así como en la privada se deberán utilizar materiales reciclados, productos del reciclaje de los residuos de construcción y demolición de conformidad con la normativa aplicables.
+
+Asimismo, deberán recolectar y transportar los residuos de la construcción y demolición autorizadas por la Secretaría, debiendo cumplir con las disposiciones que establecen las normas ambientales de la Ciudad de México en esta materia.
 
 ### CAPÍTULO IV. DE LA SEPARACIÓN DE LOS RESIDUOS SÓLIDOS
 
@@ -1020,11 +1102,11 @@ Las delegaciones deberán colocar en las vías y áreas públicas los contenedor
 
 Los contenedores de residuos urbanos deberán mantenerse dentro del predio de la persona que lo habita o del establecimiento de que se trate y sólo se sacarán a la vía pública o áreas comunes el tiempo necesario para su recolección el día y hora señalados por el servicio público de limpia. Dichos contenedores deberán satisfacer las necesidades de servicio del inmueble, y cumplir con las condiciones de seguridad e higiene, de conformidad con la Ley de Salud para el Distrito Federal y demás ordenamientos aplicables.
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2023)</small>
 
 ###### Artículo 42 Bis.
 
-Los prestadores de servicio de recolección privada y los centros de acopio para su operación en el Distrito Federal, deberán de contar con la Licencia Ambiental Única del Distrito Federal y deberán presentar su plan de manejo ante la Secretaría en los formatos que esta autoridad determine. La contravención a lo dispuesto en el presente artículo será motivo de las medidas de seguridad y/o sanciones que resulten aplicables.
+Para su operación en la Ciudad de México, los prestadores de servicio para el manejo de residuos deberán de contar con la autorización correspondiente por parte de la Secretaría. La contravención a lo dispuesto en el presente artículo será motivo de las medidas de seguridad y/o sanciones que resulten aplicables.
 
 > <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -1264,9 +1346,9 @@ III. Multa de 150 a mil veces la Unidad de Cuenta de la Ciudad de México vigent
 
 III Bis. Multa de 500 a dos mil veces la Unidad de Cuenta de la Ciudad de México vigente por la violación a lo dispuesto en el artículo 25 fracción XI BIS; y
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2023)</small>
 
-IV. Multa de mil a veinte mil veces la Unidad de Cuenta de la Ciudad de México vigente por violaciones a lo dispuesto por los artículos 25 fracciones IX, X, XI, XII y XIII; 36 Bis, 36 Ter y 36 Quater de la presente ley.
+IV. Multa de 500 a 20,000 veces la Unidad de Medida y Actualización vigente por la violación a lo dispuesto por los artículos 25 fracción IX, X, XI, XII Y XIII; 32 Bis, 36 Bis, 36 Ter y 36 Quáter de la presente ley.
 
 ###### Artículo 70.
 
@@ -1535,3 +1617,19 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promu
 SEGUNDO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. El Gobierno de la Ciudad de México emitirá los lineamientos necesarios para instrumentar el presente Decreto en un plazo no mayor a 120 días naturales. Dado a los 30 días del mes de agosto de 2022 y firmado para constancia y conformidad de los integrantes de la Comisión de Preservación del Medio Ambiente, Cambio Climático y Protección Ecológica.
+
+G.O. 3 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 1; SE MODIFICA LA FRACCIÓN IV Y SE ADICIONAN LAS FRACCIONES VII BIS, XXIII BIS, XXIII TER, XXIII QUATER, XXV BIS, XXV TER, XXV QUATER, XXXIII BIS Y XLII BIS DEL ARTÍCULO 3; SE MODIFICA LA FRACCIÓN IV Y SE ADICIONAN LAS FRACCIONES VII BIS, VII TER, VIII BIS DEL ARTÍCULO 6; SE ADICIONA LA FRACCIÓN VIII BIS DEL ARTÍCULO 7; SE MODIFICA EL ARTÍCULO 24 Y SE ADICIONA UNA FRACCIÓN III BIS; SE MODIFICA EL ARTÍCULO 26; SE ADICIONAN LOS ARTÍCULO 26 TER Y 32 BIS; SE MODIFICA EL ARTÍCULO 42 BIS Y SE MODIFICA LA FRACCIÓN IV DEL ARTÍCULO 69; TODOS DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. La Secretaría de Obras y Servicios de la Ciudad de México tendrá un plazo de 90 días, contados a partir de la entrada en vigor del presente Decreto, para actualizar y armonizar la normatividad aplicable y el tabulador de precios para especificar los conceptos que deberán incorporar materiales reciclados y eliminar aquellos que contemplen el uso de materiales de minas.
+
+Cuarto. La Secretaría del Medio Ambiente de la Ciudad de México tendrá un plazo de 90 días, contados a partir de la entrada en vigor del presente Decreto, para actualizar y armonizar la normatividad aplicable en materia de Residuos Sólidos en la Ciudad de México.
+
+Quinto. La Secretaría del Medio Ambiente de la Ciudad de México tendrá un plazo de 90 días, contados a partir de la entrada en vigor del presente Decreto, para establecer y aplicar las bases para la implementación de la plataforma digital de trazabilidad para la gestión integral de los residuos de la construcción y demolición. La plataforma será supervisada y vigilada por la misma.
+
+Sexto. La Plataforma digital de trazabilidad deberá garantizar la trazabilidad en todas las fases del proceso de gestión de los residuos de manejo especial. La plataforma deberá contar con la información necesaria y en su caso información adicional.
