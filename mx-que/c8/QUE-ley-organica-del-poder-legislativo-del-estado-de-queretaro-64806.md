@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2023-01-31"
+last_updated: "2023-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -3035,6 +3035,54 @@ VII. Aprobar el Manual en materia de seguridad informática; y
 
 VIII. Las demás que establezcan otras disposiciones jurídicas aplicables y aquellas que sean necesarias para el cumplimiento de sus facultades.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE ABRIL DE 2023)</small>
+
+## Titulo Décimo. Del Comité de Igualdad Laboral y No Discriminación
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE ABRIL DE 2023)</small>
+
+### Capítulo Único. Estructura y Funcionamiento
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2023)</small>
+
+###### Artículo 206.
+
+El Comité de Igualdad Laboral y No Discriminación del Poder Legislativo del Estado de Querétaro, es el encargado de colaborar en el desarrollo e implementación de prácticas de igualdad laboral y no discriminación al interior del Congreso del Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2023)</small>
+
+###### Artículo 207.
+
+El Comité se conformará de la siguiente manera:
+
+I. Un Presidente o Presidenta, que será el Diputado o Diputada que en ese momento presida la Mesa Directiva;
+
+II. Una Secretaria Ejecutiva, que será la persona titular de la Oficialía Mayor; y
+
+III. Vocales que serán las personas titulares de las siguientes dependencias:
+
+a) Secretaría de Servicios Parlamentarios.
+
+b) Tesorería.
+
+c) Dirección de Investigación y Estadística Legislativa.
+
+d) Dirección de Comunicación Social.
+
+e) Contraloría Interna.
+
+Las personas integrantes podrán designar un suplente, quienes deberán ser servidores públicos del Poder Legislativo del Estado de Querétaro, teniendo voz y voto en las sesiones que realice el Comité.
+
+En las sesiones que realice el Comité, deberán estar presentes la mitad más uno de sus integrantes, con la necesaria de quien presida y de la Secretaría Ejecutiva.
+
+Los acuerdos del Comité no serán vinculantes y serán válidos con el voto favorable de la mayoría de los integrantes presentes, en caso de empate en la votación, quien presida el Comité tendrá el voto de calidad.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2023)</small>
+
+###### Artículo 208.
+
+El Comité operará conforme a un Plan Anual de Trabajo en apego a los lineamientos y normas técnicas relacionadas con la no discriminación, la inclusión y la igualdad laboral.
+
 ## TRANSITORIOS
 
 Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación por el Pleno de la Legislatura del Estado de Querétaro.
@@ -3504,3 +3552,13 @@ Artículo Quinto. La Oficialía Mayor deberá informar al Comité Técnico de Re
 Artículo Sexto. El Comité de Tecnologías de la Información y Comunicación deberá instalarse y sesionar por primera ocasión dentro del plazo de 6 meses a partir de la vigencia de la presente Ley.
 
 Artículo Séptimo. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 3 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su aprobación por el Pleno de la Sexagésima Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
