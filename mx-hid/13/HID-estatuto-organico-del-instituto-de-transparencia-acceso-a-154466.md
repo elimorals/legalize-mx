@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-del-instituto-de-transparencia-acceso-a-15446
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-01-14"
-last_updated: "2022-01-14"
+last_updated: "2023-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=154466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 3 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2023 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Hidalgo, el viernes 14 de enero de 2022.
 
@@ -980,3 +982,21 @@ COMISIONADO
 L.D. SIGIFREDO MERCADO
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El presente Estatuto Orgánico sólo podrá ser modificado a propuesta del Comisionado Presidente y con la aprobación del Consejo General del Instituto.
+
+TERCERO. Los aspectos no previstos en el presente Estatuto Orgánico, dentro de su ámbito de competencia, serán resueltos por el Consejo General.
+
+CUARTO. Los asuntos que se encuentren en trámite antes de la entrada en vigor del presente Estatuto serán resueltos conforme a los procedimientos previstos con anterioridad o bien conforme a las leyes aplicables vigentes.
+
+QUINTO. Se abroga el Estatuto Orgánico del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, publicado el 14 de enero del 2022 en el periódico oficial del Estado de Hidalgo.
+
+SEXTO. Se derogan todas las demás disposiciones que se opongan al presente Decreto.
