@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2023-03-21"
+last_updated: "2023-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -783,7 +783,9 @@ XXI. Reglamentos y Prácticas Parlamentarias;
 
 XXII. Salud Pública y Asistencia Social;
 
-XXIII. Seguridad Pública;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2023)</small>
+
+XXIII. Seguridad Pública y Protección Civil;
 
 XXIV. Servidores Públicos;
 
@@ -1181,15 +1183,21 @@ II. Las normas jurídicas relacionadas con la asistencia social; y
 
 III. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 79.
 
-Corresponde a la Comisión de Seguridad Pública, el conocimiento, análisis, estudio, seguimiento, promoción y en su caso Dictaminación sobre los asuntos siguientes:
+Corresponde a la Comisión de Seguridad Pública y Protección Civil, el conocimiento, análisis, estudio, seguimiento, promoción y en su caso dictaminación sobre los asuntos siguientes:
 
-I. El orden público, la tranquilidad y seguridad jurídica de las personas y sus bienes;
+I.- El orden, seguridad pública, contingencias y desastres en el ámbito estatal;
 
-II. Las leyes que establezcan y regulen el funcionamiento de los cuerpos de seguridad pública, privada y de protección civil; y
+II.- Los que se refieran a las iniciativas de ley o modificaciones, relacionadas con legislación en materia de seguridad pública del Estado, seguridad privada y de protección civil; la prevención social de la violencia y la delincuencia, así como el funcionamiento de los cuerpos de seguridad pública y de protección civil;
 
-III. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
+III. La normatividad de los sistemas integrales de tratamiento penal y de las instancias de reinserción social;
+
+IV. Las políticas, planes y programas la difusión y fortalecimiento de la seguridad pública; y
+
+V. Otros análogos, que, a juicio de la Presidencia del Congreso del Estado, o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
 ###### ARTÍCULO 80.
 
@@ -2332,3 +2340,11 @@ P.O. 21 DE MARZO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 331.- SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
