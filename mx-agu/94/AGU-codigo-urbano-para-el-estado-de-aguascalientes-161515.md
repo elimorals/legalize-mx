@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-161515"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-20"
-last_updated: "2022-12-20"
+last_updated: "2023-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2023.
 
 Código publicado en el Número 70 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 20 de diciembre de 2020.
 
@@ -3857,7 +3857,9 @@ d).- Certificado de libertad de gravamen no mayor a un mes anterior a la solicit
 
 e).- Constancia Municipal de Compatibilidad Urbanística;
 
-f).- Levantamiento topográfico Catastral;
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
+
+f).- Levantamiento topográfico Catastral expedido por el Instituto Registral y Catastral con fecha de expedición no mayor a dos años que no presente traslapes y/o invasiones;
 
 g).- Plano de curvas de nivel;
 
@@ -3979,29 +3981,51 @@ a).- Copia simple del nombramiento del Comisariado Ejidal y del Consejo de Vigil
 
 b).- Copia del acta de delimitación destino, que expidió el Programa de Certificación de Derechos Ejidales y Titulación de Solares Urbanos;
 
-c).- Levantamiento topográfico catastral;
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
 
-d).- Plano de curvas de nivel;
+c).- Plano de curvas de nivel;
 
-e).- Plano de ligas y vialidades;
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
 
-f).- Plano de lotificación;
+d).- Plano de ligas y vialidades;
 
-g).- Plano de usos de suelo;
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
 
-h).- Plano de escurrimientos de aguas pluviales;
+e).- Plano de lotificación;
 
-i).- Dictamen de la Comisión Nacional del Agua;
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
 
-j).- Dictamen de Protección Civil Municipal. En caso de que el Municipio no cuente con los medios necesarios para emitir el dictamen, deberá ser emitido por Protección Civil Estatal;
+f).- Plano de usos de suelo;
 
-k).- Estudio de Mecánica de Suelos avalado por un Perito especializado en la materia;
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
 
-l).- Estudio geológico y geofísico avalado por un Perito especializado en la materia;
+g).- Plano de escurrimientos de aguas pluviales;
 
-m).- Dictamen de Impacto Ambiental emitido por la autoridad municipal correspondiente y opinión de la SSMAA; y
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
 
-n).- Factibilidad de servicios de agua potable, drenaje, saneamiento y electricidad, emitidos por la autoridad correspondiente.
+h).- Dictamen de la Comisión Nacional del Agua;
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
+
+i).- Dictamen de Protección Civil Municipal. En caso de que el Municipio no cuente con los medios necesarios para emitir el dictamen, deberá ser emitido por Protección Civil Estatal;
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
+
+j).- Estudio de Mecánica de Suelos avalado por un Perito especializado en la materia;
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
+
+k).- Estudio geológico y, geofísico avalado por un Perito especializado en la materia;
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
+
+l).- Dictamen de Impacto Ambiental emitido por la autoridad municipal correspondiente y opinión de la SSMAA; y
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
+
+m).- Factibilidad de servicios de agua potable, drenaje, saneamiento y electricidad, emitidos por la autoridad correspondiente.
+
+n).- (DEROGADO, P.O. 3 DE ABRIL DE 2023)
 
 Cuando a juicio de la SEPLAPDE o a petición del interesado, tomando en cuenta las condiciones del proyecto respectivo, se considere que no procede la presentación o acreditación de alguno de los requisitos o documentos que establece este ARTÍCULO, esta lo indicará al solicitante por no ser necesario al caso concreto o determinando; circunstancia por lo que la autorización correspondiente se emitirá de manera condicionada para cumplir posteriormente con algún requisito o no requerirlo en su caso. La SEPLAPDE podrá solicitar la opinión al Municipio para resolver sobre estos asuntos.
 
@@ -4761,7 +4785,9 @@ IX.- Estudio de impacto vial;
 
 X.- Ubicación del predio en aerofoto, cartografía reciente u otro medio similar;
 
-XI.- Levantamiento topográfico catastral del predio incluyendo el oficio con el plano digital en formato vectorial y en coordenadas UTM;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2023)</small>
+
+XI. Levantamiento topográfico catastral del predio con fecha de expedición no mayor a dos años, incluyendo el oficio con el plano digital en formato vectorial y en coordenadas UTM, así mismo no deberá presentar traslapes y/o invasiones;
 
 XII.- Propuesta de denominación del fraccionamiento, condominio o desarrollo inmobiliario especial;
 
@@ -4825,7 +4851,9 @@ d).- Certificado de libertad de gravamen con fecha de expedición no mayor a 1 m
 
 XVI.- En caso de que sea sustituida una parte del área de donación, se deberá presentar la propuesta de dotación de equipamiento urbano y de infraestructura conforme a lo dispuesto en este Código, proporcionando a detalle el dictamen que lo justifique, el proyecto ejecutivo del mismo, su costo y el programa de obra, con las especificaciones que determine el Municipio respectivo;
 
-Cuando a juicio de la SEPLAPDE o el Municipio o por solicitud del fraccionador o promotor, tomando en cuenta el tipo, características y tamaño del fraccionamiento, condominio o desarrollo inmobiliario especial, dichas instancias consideren que no procede la presentación o acreditación de alguno de los requisitos o documentos que establece este artículo, estas lo indicarán al solicitante por no ser necesarios en el caso específico. La SEPLAPDE podrá solicitar la opinión del Municipio y viceversa para resolver sobre ese asunto.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
+
+Cuando a juicio de la SEPLADE o el Municipio o por solicitud del fraccionador o promotor, tomando en cuenta el tipo, características y tamaño del fraccionamiento, condominio o desarrollo inmobiliario especial, dichas instancias consideren que no procede la presentación o acreditación de alguno de los requisitos o documentos que establece este artículo, éstas lo indicaran al solicitante por no ser necesarias en el caso específico. La SEPLADE podrá solicitar la opinión del Municipio y viceversa para resolver sobre ese asunto.
 
 ###### ARTÍCULO 366.
 
@@ -6623,19 +6651,27 @@ En el caso de solicitudes de subdivisiones relativas a fracciones en que se haya
 
 La autorización de las subdivisiones de predios rústicos, deberá apegarse a los siguientes criterios:
 
-I.- En predios rústicos las fracciones resultantes serán como mínimo de 10,000.00 metros cuadrados, siempre que exista servidumbre o camino parcelario registrado ante la autoridad debidamente señalado e identificado en el título de propiedad o escritura respectiva. Si el predio no cuenta con un acceso, vialidad o servidumbre legal de paso, deberá presentar la constitución de la misma ante notario público y debidamente inscrita en el Registro Público;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2023)</small>
+
+I.- En predios rústicos las fracciones resultantes serán como mínimo de 10,000.00 metros cuadrados, siempre que exista servidumbre o camino parcelario registrado ante la autoridad debidamente señalado e identificado en el título de propiedad o escritura respectiva. Si el predio no cuenta con un acceso, vialidad o servidumbre legal de paso, deberá presentar la constitución de la misma ante notario público y debidamente inscrita en las Direcciones Generales del Registro Público y de Catastro del Instituto Registral y Catastral;
 
 II.- Por cada 5 hectáreas del predio objeto de la solicitud, se podrán subdividir hasta en 4 fracciones, considerando frentes no mínimos de 30 metros y servidumbres de paso con una sección no mínima de 12 metros.
 
-III.- Queda prohibida la copropiedad de predios rústicos en predios con superficie igual o menor a 12,500.00 metros cuadrados, salvo que se trate de adjudicaciones hereditarias, debiendo sujetarse a lo previsto en este Código;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2023)</small>
+
+III.- Para el caso de predios rústicos con superficie igual o menor a 12,500.00 metros cuadrados, en los que existan o se constituyan nuevas copropiedades, éstas quedarán bajo observación de la SEPLADE a fin de evitar asentamientos humanos irregulares;
 
 IV.- Sólo se permitirá la construcción relacionada con el uso o destino de suelo autorizado, con los coeficientes de ocupación y de utilización aprobados en los programas aplicables;
 
 V.- El porcentaje de construcción máxima para fines habitacionales no deberá ser mayor del 5% de la superficie de cada fracción, con una densidad máxima de una vivienda y 5% de servicios inherentes al uso de suelo autorizado por hectárea. Los frentes mínimos o accesos tendrán una dimensión no menor de 30 metros hacia una vía pública, camino o servidumbre constituida que en ningún caso se aceptará en una sección o anchura menor a 12 metros; y
 
-VI.- Para efecto de que el Municipio autorice la subdivisión, deberá solicitar a la SEPLAPDE la opinión correspondiente, quien dentro del plazo de 10 días hábiles deberá emitirla. En caso de no responder se entenderá que está de acuerdo con la misma.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE ABRIL DE 2023)</small>
 
-En caso de que la opinión de la SEPLAPDE sea negativa, el Catastro y el Registro Público se abstendrán de autorizar el registro de las escrituras respectivas, así como la asignación de cuentas catastrales.
+VI. Para efecto de que el Municipio autoricé la subdivisión, deberá solicitar a la SEPLADE la opinión correspondiente, quien dentro del plazo de 10 días hábiles deberá emitirla. En caso de no responder se entenderá que está de acuerdo con la misma.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2023)</small>
+
+En caso de que la opinión de la SEPLADE sea negativa, el Catastro y el Registro Público se abstendrán de autorizar el registro de las escrituras respectivas, así como la asignación de claves catastrales.
 
 ###### ARTÍCULO 571.
 
@@ -6707,7 +6743,9 @@ IV.- Cédula única catastral electrónica;
 
 V.- Constancia de no adeudo del impuesto a la propiedad raíz;
 
-VI.- Plano digital, en base al plano catastral, expedido por el Instituto Catastral del Estado, con una fecha de emisión no mayor a un año, del terreno o de los terrenos objeto de la solicitud con acotaciones en centímetros y señalando la orientación de los mismos y sus colindancias, georreferenciado con coordenadas UTM; para predios de 10,000.00 metros cuadrados o menos.
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2023)</small>
+
+VI.- Para predios urbanos o rústicos de hasta 10,000.00 metros cuadrados, la solicitud deberá ir acompañada de plano catastral certificado, expedido por el Instituto Registral y Catastral, georreferenciado con coordenadas UTM; para el caso de aquellos en los que la Dirección General de Catastro detecte que existen controversias y/o variaciones cartográficas que se contraponen con la documentación administrativa y las escrituras debidamente inscritas del o los predios objeto de la autorización, será necesario realizar levantamiento topográfico catastral con fecha de expedición no mayor a un año y que no presente traslapes y/o invasiones.
 
 VII.- Plano digital en formato vectorial de la fusión o subdivisión que se pretenda realizar georreferenciado con coordenadas UTM;
 
@@ -6715,7 +6753,9 @@ VIII.- Constancia municipal de compatibilidad urbanística;
 
 IX.- En su caso, características de la urbanización;
 
-X.- En el caso de predios urbanos o rústicos con superficie de 10,000.00 metros cuadrados o más, la solicitud deberá ir acompañada de un levantamiento topográfico catastral;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2023)</small>
+
+X.- En el caso de predios urbanos o rústicos con superficie mayor a 10,000.00 metros cuadrados, la solicitud deberá ir acompañada de un levantamiento topográfico catastral emitido por el Instituto Registral y Catastral con fecha de expedición no mayor a un año y que no presente traslapes y/o invasiones;
 
 XI.- En caso de aplicar, factibilidades de servicios de agua potable, alcantarillado, saneamiento y electrificación; y
 
@@ -9220,3 +9260,13 @@ EMANUELLE SÁNCHEZ NÁJERA
 DIPUTADO SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 15 de diciembre de 2022”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO. NÚMERO 306.- SE REFORMA EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
