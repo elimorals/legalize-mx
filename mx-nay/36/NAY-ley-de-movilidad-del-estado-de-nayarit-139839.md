@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-movilidad-del-estado-de-nayarit-139839"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-07"
-last_updated: "2022-09-20"
+last_updated: "2023-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DE MOVILIDAD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE SEPTIEMBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
 
 Ley publicada en la Sección quinta del Número 003 del Periódico Oficial del Estado de Nayarit, el martes 7 de enero de 2020.
 
@@ -654,6 +652,10 @@ XLV. Expedir conforme a la presente Ley, la documentación correspondiente en qu
 XLVI. Normar las medidas adecuadas para expedir con sujeción a esta Ley las autorizaciones correspondientes para el establecimiento de sitios y terminales que aseguren la eficiente prestación del servicio público de transporte;
 
 XLVII. Expedir, revalidar, reponer, suspender, cancelar y llevar registro de las licencias de manejo, placas, calcomanías, signos de identificación y autorizaciones para la conducción, circulación y uso de vehículos;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2023)</small>
+
+XLVII BIS. Realizar a solicitud del IPLANAY la evaluación técnica de impacto vial y movilidad, de conformidad con los requisitos que para sus efectos determine y con la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit y su Reglamento.
 
 Medidas de mejora en la operación de la movilidad, la Secretaría normará y coordinará lo concerniente a:
 
@@ -4878,3 +4880,9 @@ SEGUNDO. En un plazo no mayor a 90 días hábiles posteriores a la entrada en vi
 > <small>(F. DE E., P.O. 20 DE SEPTIEMBRE DE 2022)</small>
 
 Tratándose de las Concesiones de Transporte Público otorgadas a través del programa "Apoyo al Volante" en el año 2022, se tendrá la obligación de destinar unidades vehiculares en perfectas condiciones de uso, las cuales deberán tener una antigüedad máxima de 7 años a la fecha del otorgamiento.
+
+P.O. 4 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA UNA FRACCIÓN AL ARTÍCULO 31 DE LA LEY DE MOVILIDAD DEL ESTADO DE NAYARIT".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
