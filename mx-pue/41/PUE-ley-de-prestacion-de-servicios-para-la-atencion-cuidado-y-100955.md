@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-10095
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-30"
-last_updated: "2021-04-09"
+last_updated: "2023-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
 
 Ley publicada en la Sexagésima Quinta Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2013.
 
@@ -143,9 +143,17 @@ VII. Descanso, esparcimiento, juego y actividades recreativas propias de su edad
 
 VIII. Apoyo al desarrollo biológico, cognoscitivo, psicomotriz y socio-afectivo;
 
-IX. Enseñanza del lenguaje y comunicación, y
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
 
-X. Información y apoyo a los padres, tutores o quienes tengan la responsabilidad del cuidado o crianza, para fortalecer la comprensión de sus funciones en la educación de niñas y niños.
+IX. Enseñanza del lenguaje y comunicación;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
+
+X. Información y apoyo a los padres, tutores o quienes tengan la responsabilidad del cuidado o crianza, para fortalecer la comprensión de sus funciones en la educación de niñas y niños; y
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2023)</small>
+
+XI. Implementar mecanismos de participación de las madres y los padres de familia o de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas y niños, respecto de su educación y atención.
 
 ###### ARTÍCULO 9.
 
@@ -678,3 +686,11 @@ P.O. 9 DE ABRIL DE 2021.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES IX Y X DEL ARTÍCULO 8; Y ADICIONA LA FRACCIÓN XI AL ARTÍCULO 8 DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
