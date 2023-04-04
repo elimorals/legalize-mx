@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2023-03-28"
+last_updated: "2023-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -4353,29 +4353,51 @@ La misma sanción del párrafo anterior se impondrá, a quien intercepte, interf
 
 Comete el delito de fraccionamiento ilegal de inmuebles, el que por sí o por interpósita persona, fraccione o divida en lotes, un terreno de cualquier naturaleza, con o sin edificaciones, propio o ajeno, transfiera o prometa transferir, la propiedad, la posesión o cualquier otro derecho de un inmueble, cualquiera que sea su régimen jurídico o condición, careciendo de las licencias, autorizaciones o permisos de la autoridad administrativa correspondiente.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
 
-Al responsable de este delito, se le impondrá de seis a doce años de prisión y multa de quinientos a mil días.
+Al responsable de este delito, se le impondrá de seis a doce años de prisión y multa de quinientos a mil veces la Unidad de Medida y Actualización diaria.
 
 Para efectos punibles, se considera que incurren en la misma responsabilidad:
 
-I. Quien teniendo las licencias, autorizaciones o permisos correspondientes, incumpla con las obligaciones previstas en las fracciones IX, XI y XII, del artículo 151, de la Ley de Asentamientos Humanos y Desarrollo Urbano para el Estado de Nayarit;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
+
+I. Quien teniendo las licencias, autorizaciones o permisos correspondientes, incumpla con las obligaciones previstas en el artículo 54 y 122 de la Ley (sic) Fraccionamientos y Acciones de Urbanización del Estado de Nayarit;
 
 II. Aquél que sin contar con las licencias, autorizaciones o permisos de la autoridad administrativa, o incumpliéndolos, realice u ordene realizar cualquier tipo de publicidad ofreciendo en lotes o fracciones, un terreno de cualquier naturaleza, propio o ajeno, para vivienda, comercio o industria, con o sin edificaciones, y
 
 III. El tercero que enajene, prometa hacerlo o comercialice, lotes de terreno que hayan sido fraccionados o divididos sin contar con las licencias, autorizaciones o permisos de la autoridad administrativa, o teniéndolos no cumpla con los requisitos establecidos para ese efecto.
 
-La pena establecida en el presente artículo, se aplicará también al servidor público que valiéndose de su encargo expida, autorice u otorgue licencias, permisos, autorizaciones o cualquier otra disposición análoga, que permita fraccionar en lotes, un terreno de cualquier naturaleza, o en su caso edificar construcciones, sin que se reúnan las condiciones exigidas por las leyes, planes o programas de desarrollo urbano vigentes, o bien que los expidan sin estar autorizado para ello. Las licencias, permisos, autorizaciones o disposiciones análogas a que se hace referencia, estarán afectadas de nulidad absoluta.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
 
-La pena de prisión se incrementará hasta en una mitad más, cuando las conductas previstas en el presente capítulo se realicen en áreas protegidas o de preservación ecológica, o en zonas no consideradas aptas para vivienda, por los planes y programas de desarrollo urbano respectivos.
+La pena establecida en el presente artículo, se aplicará también al servidor público que valiéndose de su encargo expida, autorice u otorgue licencias, permisos, autorizaciones o cualquier otra disposición análoga, que permita fraccionar en lotes, un terreno de cualquier naturaleza, o en su caso edificar construcciones, sin que se reúnan las condiciones exigidas por la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit, leyes, planes o programas de desarrollo urbano vigentes, o bien que los expidan sin estar autorizado para ello.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
+
+Las licencias, permisos, autorizaciones o disposiciones análogas a que se hace referencia, estarán afectadas de nulidad absoluta. La pena de prisión se incrementará hasta en una mitad más, cuando las conductas previstas en el presente capítulo se realicen en áreas protegidas o de preservación ecológica, o en zonas no consideradas aptas para vivienda, por los planes y programas de desarrollo urbano y ordenamiento territorial respectivos (sic).
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2023)</small>
+
+ARTÍCULO 413 BIS. Se aplicarán de dos a ocho años de prisión y multa de ciento veinte hasta cuatrocientas Unidades de Medida y Actualización a quien por sí o por interpósita persona:
+
+I. Transfiera o prometa transferir la posesión, la propiedad o cualquier otro derecho sobre uno o más lotes resultantes de fraccionar un predio, sin contar con la legitimación correspondiente o sin la autorización expedida por las autoridades competentes;
+
+II. Proporcione informaciones falsas, para obtener autorizaciones relativas a fraccionamientos, y
+
+III. Proporcione datos falsos a los organismos gubernamentales a cuyo cargo estén los programas para la urbanización, con el propósito de adquirir bienes inmuebles, afirmando falsamente que se destinarán a la constitución o integración del patrimonio familiar; pero destinándolos a fines distintos.
+
+Las anteriores sanciones se impondrán independientemente de las penas que resulten por la comisión del delito de falsificación o uso de documento falso, en su caso.
 
 ###### ARTÍCULO 414.
 
 La reparación del daño consistirá en la suspensión, modificación o demolición, en su caso, de construcciones u obras que hubieren dado lugar al ilícito correspondiente, así como la realización de acciones necesarias para restablecer las condiciones anteriores a la realización del ilícito, en la medida de lo posible.
 
-El agente del ministerio público al ejercer la acción penal, asegurará y procederá a poner en custodia el inmueble ante el organismo encargado del desarrollo urbano en el Estado de Nayarit, poniéndolo a disposición de la autoridad competente para efecto de su posterior decomiso.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
 
-Asimismo, deberá girar oficio al Registro Público de la Propiedad y del Comercio del Estado de Nayarit, ordenando se realice la anotación preventiva, a fin de evitar movimientos traslativos de dominio o la afectación de los mismos con algún gravamen.
+El agente del ministerio público al ejercer la acción penal, asegurará y procederá a poner en custodia el inmueble ante la Secretaría de Desarrollo Sustentable, poniéndolo a disposición de la autoridad competente para efecto de su posterior decomiso.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
+
+Asimismo, deberá girar oficio a la Dirección General de Registro Público y Catastro del Estado de Nayarit, ordenando se realice la anotación preventiva, a fin de evitar movimientos traslativos de dominio o la afectación de los mismos con algún gravamen.
 
 ###### ARTÍCULO 415.
 
@@ -4393,9 +4415,15 @@ II. Cuando se trate de donaciones y compraventas realizadas entre parientes, en 
 
 A quien promueva, induzca, aliente o permita la formación o constitución de asentamientos humanos irregulares, integrados por dos o más familias, que impliquen peticiones respecto de su regularización o causen un perjuicio público por sí o por interpósita persona, o bien, cuando contando con las licencias, autorizaciones o permisos respectivos, incumpla con los términos en que fueron otorgados, se hará acreedor a la pena dispuesta por el artículo 413 de este Código.
 
-Asimismo, será sancionado con igual penalidad, quien lleve a cabo la construcción, edificación, realización de obras de infraestructura o la constitución de asentamientos humanos en una zona determinada, sin elaborar un análisis de riesgos y definir las medidas para su reducción, omitiendo tomar en consideración la normatividad aplicable y los Atlas municipales y estatales, careciendo de la autorización de la autoridad correspondiente.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
+
+Asimismo, será sancionado con igual penalidad, quien lleve a cabo la construcción, edificación, realización de obras de infraestructura o la constitución de asentamientos humanos en una zona determinada, sin elaborar un análisis de riesgos y definir las medidas para su reducción, omitiendo tomar en consideración la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit, la normatividad aplicable y los Atlas municipales y estatales, careciendo de la autorización de la autoridad correspondiente.
 
 Se entiende por asentamiento humano irregular el grupo de personas que se establezcan o pretendan establecerse en un inmueble dividido o lotificado para fines de vivienda, comercio o industria, sin contar con las autorizaciones expedidas por las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2023)</small>
+
+No se considerará fraccionamiento irregular, para los efectos de este artículo, cuando un ascendiente transfiera la propiedad o posesión de partes de un inmueble a sus descendientes, pero estos deberán cumplir las normas aplicables según el tipo de propiedad de que se trate, para ceder sus derechos a terceros.
 
 ## TÍTULO VIGÉSIMO PRIMERO
 
@@ -4876,3 +4904,9 @@ P.O. 28 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 312 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA POR EXTENSIÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 4 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
