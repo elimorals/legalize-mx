@@ -4,7 +4,7 @@ identifier: "NAY-ley-estatal-del-equilibrio-ecologico-y-proteccion-al-21201"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-25"
-last_updated: "2021-06-07"
+last_updated: "2023-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 25 de abril del 2001.
 
@@ -875,7 +875,9 @@ La regulación ambiental de los asentamientos humanos que lleven a cabo los Gobi
 
 Para la regulación de los asentamientos humanos, las dependencias y entidades de la Administración Pública Estatal y los Municipios considerarán los siguientes criterios:
 
-I.- La planeación de los asentamientos humanos requiere de una estrecha vinculación con las políticas y criterios ambientales, por lo tanto, los Planes o Programas de Desarrollo Urbano del territorio Estatal deberán tomar en cuenta los lineamientos y estrategias contenidas en los Programas de ordenamiento ecológico del territorio Estatal;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
+
+I.- La planeación de los asentamientos humanos requiere de una estrecha vinculación con las políticas y criterios ambientales, por lo tanto, los Planes o Programas de Ordenamiento Territorial del territorio del Estado deberán tomar en cuenta los lineamientos y estrategias contenidas en el Programa de Ordenamiento Territorial y Desarrollo Urbano;
 
 II.- La política ambiental de planeación de asentamientos humanos deberá buscar la corrección de los desequilibrios que deterioren la calidad de vida de la población, y a la vez, prever las tendencias de crecimiento del asentamiento humano, orientándolo hacia zonas aptas, para mantener una relación suficiente entre la base de recursos y la población, y cuidar de los factores ambientales, en correspondencia con los ordenamientos ecológicos previstos;
 
@@ -923,7 +925,9 @@ IX. La protección de los asentamientos humanos contra riesgos por fenómenos na
 
 Los programas y acciones de vivienda que ejecute o financie el Gobierno del Estado, promoverán:
 
-I.- Que la vivienda que se construya en las zonas de expansión de los asentamientos humanos, guarde una relación adecuada con los elementos naturales de dichas zonas y se consideren áreas verdes suficientes para la convivencia social, de acuerdo con las Normas Oficiales Mexicanas y los criterios y normas técnicas aplicables;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
+
+I.- Que la vivienda que se construya en las zonas de expansión de los asentamientos humanos, guarde una relación adecuada con los elementos naturales de dichas zonas y se consideren áreas verdes suficientes para la convivencia social, de acuerdo con las Normas Oficiales Mexicanas, la Ley de Asentamientos, Desarrollo Urbano y Ordenamiento Territorial para el Estado de Nayarit, la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit y los criterios y normas técnicas aplicables;
 
 > <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2020)</small>
 
@@ -4120,3 +4124,9 @@ P.O. 7 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT, EN MATERIA DE FONDO ESTATAL PARA LA VIGILANCIA, INSPECCIÓN, PRESERVACIÓN, RESTAURACIÓN Y MEJORAMIENTO DE LA BIODIVERSIDAD Y EL AMBIENTE”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 4 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
