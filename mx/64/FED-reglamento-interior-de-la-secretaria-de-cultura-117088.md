@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-cultura-117088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-11-08"
-last_updated: "2016-11-08"
+last_updated: "2023-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117088&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-11-04"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ABRIL DE 2023.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 8 de noviembre de 2016.
 
@@ -65,7 +65,7 @@ X. Dirección General de la Fonoteca Nacional;
 
 XI. Dirección General de Promoción y Festivales Culturales;
 
-XII. Dirección General de Publicaciones;
+XII. (DEROGADA, D.O.F. 4 DE ABRIL DE 2023)
 
 XIII. Dirección General de Sitios y Monumentos del Patrimonio Cultural;
 
@@ -427,6 +427,10 @@ I. Desarrollar las acciones que contribuyan a la consolidación y expansión de 
 
 II. Planear, programar, organizar, dirigir y supervisar el desarrollo de las investigaciones encaminadas a fomentar el uso de los servicios bibliotecarios y el hábito de la lectura;
 
+> <small>(ADICIONADA, D.O.F. 4 DE ABRIL DE 2023)</small>
+
+II Bis. Ejercer las atribuciones conferidas a la Secretaría de Cultura en la Ley de Fomento para la Lectura y el Libro;
+
 III. Planear, programar, organizar, dirigir y supervisar el servicio de catalogación de acervos complementarios y apoyo técnico para el mantenimiento de los servicios informáticos de las bibliotecas integrantes de la Red Nacional de Bibliotecas Públicas;
 
 IV. Planear, programar, organizar, dirigir y supervisar las operaciones que apoyen la integración y funcionamiento de la Red Nacional de Bibliotecas Públicas;
@@ -577,37 +581,7 @@ VI. Coordinar, aplicar y supervisar las actividades para el otorgamiento de subs
 
 ###### ARTÍCULO 21.
 
-Corresponde a la Dirección General de Publicaciones, además de lo dispuesto en el artículo 12 de este Reglamento, las atribuciones siguientes:
-
-I. Dirigir las acciones encaminadas a fortalecer una cultura de la lectura de calidad a través de la producción editorial y programas de fomento a la lectura;
-
-II. Definir y supervisar las actividades del programa editorial de la Secretaría de Cultura, incluyendo la participación en ferias del libro, así como coordinar las propuestas de las unidades administrativas y órganos administrativos desconcentrados de dicha Secretaría en materia editorial;
-
-III. Diseñar, coordinar y supervisar las estrategias que contribuyan con la creación y ampliación de un mercado acorde a la variedad, valor cultural e interés científico o técnico del libro mexicano, mediante la participación en la coedición de colecciones y títulos cuya amplia difusión se considere de particular importancia sociocultural;
-
-IV. Estimular la creación literaria a través de la edición y difusión del trabajo de los escritores mexicanos, a bien de promover autores contemporáneos a nivel nacional e internacional;
-
-V. Promover discusiones y foros de análisis, programas y estrategias con organismos públicos o privados, nacionales o internacionales, encaminados a encontrar nuevas vías y alternativas para proteger y estimular la actividad editorial en México y la formación de lectores;
-
-VI. Proponer, de conformidad con las disposiciones jurídicas aplicables, un marco de concertación entre el sector privado y las diversas instancias del sector público para la determinación de apoyos, medidas, incentivos y estímulos fiscales, comerciales y técnicos, entre otros, necesarios para el desarrollo sostenido de la industria del libro mexicano;
-
-VII. Promover el desarrollo de programas de apoyo a la edición, la formación profesional y la reconversión tecnológica de editores, impresores, distribuidores y librerías, para coadyuvar al fortalecimiento de la industria editorial en México;
-
-VIII. Definir los criterios de distribución y comercialización del fondo editorial de la Secretaría de Cultura que permitan abarcar mayores segmentos de la población;
-
-IX. Coordinar acciones para el otorgamiento de becas en materia de traducción literaria, con el objeto de promover la edición de títulos de interés sociocultural, que fortalezcan su acervo editorial;
-
-X. Definir, dirigir, controlar y evaluar acciones y programas de fomento a la lectura, así como promover el fortalecimiento de los fondos estatales de fomento a la lectura;
-
-XI. Participar y realizar eventos especiales como talleres, presentaciones, conferencias, programas de radio y televisión, concursos y ferias de libro que permitan dar a conocer las publicaciones que realiza la Secretaría de Cultura, así como para promover la lectura y coadyuvar al desarrollo cultural de la comunidad lectora;
-
-XII. Participar activamente en los programas de profesionalización de trabajos de lectura y del libro, de estadísticas editoriales, de cooperación iberoamericana entre bibliotecas y de formación de lectores, para fortalecer la política editorial de la Secretaría de Cultura;
-
-XIII. Ejercer las atribuciones conferidas a la Secretaría de Cultura en la Ley de Fomento para la Lectura y el Libro;
-
-XIV. Participar, con la Dirección General de Asuntos Internacionales, en las reuniones de comisiones mixtas entre México y otros países en materia editorial y de fomento a la lectura, para estrechar los lazos de cooperación internacional y promover la presencia de México en materia cultural, y
-
-XV. Proponer las políticas de las distintas actividades de coediciones de la Secretaría de Cultura.
+(DEROGADO, D.O.F. 4 DE ABRIL DE 2023)
 
 ###### ARTÍCULO 22.
 
@@ -772,3 +746,19 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor de este Reglamento, se cubrirán con cargo a los recursos aprobados, en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2016, al Consejo Nacional para la Cultura y las Artes, así como a los órganos administrativos desconcentrados de la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto, por lo que la estructura orgánica de la Secretaría deberá realizarse mediante movimientos compensados, sin que represente incremento alguno en el presupuesto regularizable de servicios personales en el presente ejercicio fiscal y consecuente, conforme a las disposiciones aplicables.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a cuatro de noviembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Cultura, Rafael Tovar y de Teresa.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 4 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 15 Y SE DEROGAN LOS ARTÍCULOS 2, FRACCIÓN XII Y 21 DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, los asuntos en trámite que son atendidos por la Dirección General de Publicaciones, continuarán siendo atendidos por la Dirección General de Bibliotecas.
+
+TERCERO. Los archivos, documentación y acervos bibliográficos de la Dirección General de Publicaciones serán transferidos a la Dirección General de Bibliotecas.
+
+CUARTO. Se transfieren al Fondo de Cultura Económica los derechos y obligaciones, recursos presupuestarios, derechos de autor, archivos, acervos y demás documentación, en cualquier formato, que se encuentren bajo resguardo de la Dirección General de Publicaciones.
+
+QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto aprobado a la Secretaría de Cultura en el Presupuesto de Egresos de la Federación, sin que se incremente su presupuesto regularizable durante el presente ejercicio fiscal.
