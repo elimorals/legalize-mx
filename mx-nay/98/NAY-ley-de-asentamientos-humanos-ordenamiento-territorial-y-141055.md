@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-asentamientos-humanos-ordenamiento-territorial-y-141055"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2019-12-30"
+last_updated: "2023-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
 
 Ley publicada en la Sección Décima Octava del Periódico Oficial del Estado de Nayarit, el lunes 30 de diciembre de 2019.
 
@@ -49,7 +49,9 @@ Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para 
 
 Las disposiciones de esta Ley son de orden público e interés social y de observancia general en todo el Estado y tienen por objeto:
 
-I. Fijar las normas básicas e instrumentos de gestión de observancia general, para ordenar el uso del territorio y los asentamientos humanos en el Estado, así como el cumplimiento de las obligaciones que tienen los Ayuntamientos; promoviendo, respetando, protegiendo y garantizando el pleno respeto a los derechos humanos;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
+
+I. Fijar las normas básicas e instrumentos de gestión de observancia general, para ordenar el uso del territorio y los asentamientos humanos en el Estado, así como el cumplimiento de las obligaciones que tienen los Ayuntamientos en el ámbito de sus competencias; promoviendo, respetando, protegiendo y garantizando el pleno respeto a los derechos humanos;
 
 II. Establecer las normas que regulen la concurrencia del Estado y los Ayuntamientos para la planeación, ordenación y regulación de los asentamientos humanos y el ordenamiento territorial;
 
@@ -63,7 +65,7 @@ VI. Fijar las normas conforme a las cuales el Gobierno del Estado y los Ayuntami
 
 VII. Regular las normas para reglamentar, autorizar, controlar y vigilar la utilización del suelo urbano, la ocupación y el aprovechamiento del territorio estatal, la urbanización y edificación de áreas y predios de propiedad pública, social o privada en la Entidad, garantizando en todo momento la protección y el acceso equitativo a los espacios públicos;
 
-VIII. Establecer las normas generales en materia de fraccionamientos, en complemento a lo establecido en la Ley de Vivienda para el Estado de Nayarit;
+VIII. (DEROGADA, P.O. 4 DE ABRIL DE 2023)
 
 IX. Promover la redensificación de los centros de población y el control de su crecimiento, a fin de evitar la especulación y la expansión física en terrenos no aptos o no autorizados para el desarrollo urbano;
 
@@ -121,7 +123,7 @@ I. Acción urbanística: actos o actividades tendientes al uso o aprovechamiento
 
 II. Área de protección: delimitación espacial del patrimonio natural y/o cultural edificado del Estado que se considera dentro del sistema de planeación estatal, en específico sobre los planes de ordenamiento territorial, urbanización y de conservación de centros históricos, donde se localizan bienes, de tipo natural y cultural edificado de valor histórico, artístico y científico;
 
-III. Áreas de donación: las cesiones gratuitas de terrenos con o sin edificaciones por parte de los fraccionadores o promotores a los municipios para infraestructura, equipamiento, vialidad, servicios, áreas verdes, de activación física, recreación y espacios abiertos en los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones;
+III. (DEROGADA, P.O. 4 DE ABRIL DE 2023)
 
 IV. Área urbanizable: territorio para el crecimiento urbano contiguo a los límites del área urbanizada del centro de población determinado en los Programas de desarrollo urbano, cuya extensión y superficie se calcula en función de las necesidades del nuevo suelo indispensable para su expansión;
 
@@ -129,7 +131,9 @@ V. Área urbanizada: territorio ocupado por los asentamientos humanos con redes 
 
 VI. Asentamiento humano: el establecimiento de un conglomerado demográfico, con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran;
 
-VII. Asentamiento humano irregular: núcleos de población situados en áreas o predios fraccionados o subdivididos sin la autorización correspondiente, cualquiera que sea su régimen de tenencia de la tierra;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
+
+VII. Asentamiento humano irregular: núcleos de población situados en áreas o predios fraccionados o subdivididos sin la autorización correspondiente de conformidad con la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit, cualquiera que sea su régimen de tenencia de la tierra;
 
 VIII. Ayuntamiento: institución gubernamental facultada para gobernar y administrar el territorio municipal;
 
@@ -139,9 +143,9 @@ X. Centro de población: las áreas constituidas por las zonas urbanizadas, las 
 
 XI. Ciclovía: es el nombre genérico dado al espacio reservado de forma exclusiva o compartida para el tránsito seguro de vehículos no motorizados a un lado de las calles, en camellones o paralelos a carreteras de acceso a las ciudades. También conocida como ciclo pista o carril bici;
 
-XII. Coeficiente de Ocupación Del Suelo (Cos): el factor que multiplicado por el área total de un lote o predio, determina la máxima superficie de desplante edificable del mismo, excluyendo de su cuantificación las áreas ocupadas por sótanos;
+XII. (DEROGADA, P.O. 4 DE ABRIL DE 2023)
 
-XIII. Coeficiente de Utilización del Suelo (Cus): el factor que multiplicado por el área total de un lote o predio, determina la máxima superficie construida que puede tener una edificación, en un lote o predio determinado, excluyendo de su cuantificación las áreas ocupadas por sótanos;
+XIII. (DEROGADA, P.O. 4 DE ABRIL DE 2023)
 
 XIV. Consejo Estatal: el Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano;
 
@@ -177,7 +181,7 @@ XXIX. Dictamen de congruencia: el documento expedido por la Secretaría previa c
 
 XXX. Dictamen de Congruencia de Bienes y/o Áreas de Protección al Patrimonio Natural y/o Cultural Edificado: documento expedido por la Secretaría de Desarrollo Sustentable, para los casos del patrimonio natural y patrimonio cultural edificado, a solicitud de una persona física o moral, pública o privada, en el cual se avala que la intervención –obra de restauración en vivienda, equipamiento, infraestructura, mobiliario urbano– que se pretenda realizar en aquellos bienes y/o áreas de protección al patrimonio natural y/o cultural edificado del Estado y/o sus Municipios estará acorde a lo estipulado con las materias del Sistema Estatal de Planeación Territorial, para que en lo posterior los Ayuntamientos respectivos otorguen la licencia correspondiente;
 
-XXXI. Dictamen de fraccionamiento: el documento expedido por el (sic) Secretaría, a solicitud de una persona física o moral, pública o privada, en el cual se certifica que la acción, obra de infraestructura o de equipamiento urbano, vivienda, inversión o servicio que se pretenda realizar en la entidad y que sean de impacto urbano significativo, en los casos previstos en esta Ley y demás disposiciones jurídicas aplicables, son congruentes con la legislación y la planeación del ordenamiento territorial y desarrollo urbano del Estado;
+XXXI. (DEROGADA, P.O. 4 DE ABRIL DE 2023)
 
 XXXII. Dictamen de Impacto Urbano: El documento expedido por la Secretaría, a solicitud de una persona física o moral, pública o privada, en el cual se certifica que la acción, obra de infraestructura o de equipamiento urbano, vivienda, inversión o servicio que se pretenda realizar en la entidad y que sean de impacto urbano significativo en zona (sic) metropolitanas, en los casos previstos en esta Ley y demás disposiciones jurídicas aplicables, son congruentes con la legislación y la planeación del desarrollo urbano y el ordenamiento del territorio del Estado;
 
@@ -191,7 +195,7 @@ XXXVI. Expansión urbana: El crecimiento de los centros de población que implic
 
 XXXVII. Fundación: El establecimiento de un centro de población previsto en el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, mediante decreto del Congreso del Estado;
 
-XXXVIII. Fusión: La unión en un solo predio de dos o más predios colindantes;
+XXXVIII. (DEROGADA, P.O. 4 DE ABRIL DE 2023)
 
 XXXIX. Gestión integral de riesgos: El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción que involucra a los tres órdenes de gobierno, así como a los sectores de la sociedad, lo que facilita la implementación de políticas públicas, estrategias y procedimientos que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Comprende la identificación de los riesgos y, en su caso, su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
 
@@ -239,7 +243,7 @@ LX. Reservas: Las áreas de un centro de población que serán utilizadas para s
 
 LXI. Reservas territoriales: Las áreas de un centro de población que serán para su futuro crecimiento, incorporadas al dominio privado, de la Federación, el Estado o los Municipios;
 
-LXII. Relotificación: El cambio en la distribución o dimensiones de los lotes de un predio, cuyas características hayan sido autorizadas con anterioridad;
+LXII. (DEROGADA, P.O. 4 DE ABRIL DE 2023)
 
 LXIII. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr una mejor protección futura y mejorar las medidas de reducción de riesgos;
 
@@ -251,7 +255,7 @@ LXVI. Servicios urbanos: Las actividades operativas y servicios públicos presta
 
 LXVII. Sistemas urbano rurales: Unidades espaciales básicas del ordenamiento territorial, que agrupan a áreas no urbanizadas, centros urbanos y asentamientos rurales vinculados funcionalmente;
 
-LXVIII. Subdivisión: La partición de un predio en dos o más fracciones, para su utilización independiente;
+LXVIII. (DEROGADA, P.O. 4 DE ABRIL DE 2023)
 
 LXIX. Urbanización: El proceso técnico para lograr a través de acciones materiales ordenadas, la adecuación de los espacios que la población y sus comunidades requieren para su asentamiento;
 
@@ -289,7 +293,7 @@ III. La ejecución y cumplimiento de programas a que se refiere esta ley;
 
 IV. La determinación de las provisiones, reservas, usos y destinos de áreas, lotes y predios en los centros de población;
 
-V. El cumplimiento de las disposiciones en materia de fraccionamientos que establece el Título Décimo de esta Ley;
+V. (DEROGADA, P.O. 4 DE ABRIL DE 2023)
 
 VI. La ejecución de obras de infraestructura, de equipamiento y de servicios urbanos y metropolitanos, así como el impulso de aquéllas destinadas para la movilidad urbana;
 
@@ -417,7 +421,9 @@ XIV. Participar con los gobiernos de los Estados vecinos, en la elaboración y e
 
 XV. Celebrar con el Ejecutivo Federal y con los Gobiernos de los Estados vecinos y municipios, convenios en materia de acciones, obras e inversiones relativas al ordenamiento territorial, desarrollo urbano de acuerdo a las políticas que para el Estado plantean el Sistema de Planeación del Ordenamiento Territorial, Desarrollo Urbano y Metropolitano;
 
-XVI. Ordenar la publicación de los diferentes Programas de Desarrollo Urbano y de fraccionamientos que aprueben las autoridades competentes;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
+
+XVI. Ordenar la publicación de los diferentes Programas de Desarrollo Urbano y de fraccionamientos que aprueben las autoridades competentes de acuerdo con la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit:
 
 XVII. Promover y aplicar la política de protección del patrimonio natural y cultural edificado del Estado;
 
@@ -477,7 +483,9 @@ I. En coordinación con el IPLANAY, participar en la elaboración, ejecución, c
 
 II. Promover en coordinación con el IPLANAY y los Ayuntamientos la participación de los sectores social y privado del Estado en la formulación, ejecución, evaluación, actualización y modificación de los programas de ordenamiento territorial y desarrollo urbano;
 
-III. Promover y gestionar mecanismos de apoyo de financiamiento ante las instituciones de crédito y los sectores social y privado para el desarrollo urbano y financiar acciones y programas para la construcción de los fraccionamientos sociales progresivos y de interés social;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
+
+III. Promover y gestionar mecanismos de apoyo de financiamiento ante las instituciones de crédito y los sectores social y privado para el desarrollo urbano y financiar acciones y programas para la construcción de los fraccionamientos populares y de interés social;
 
 IV. Constituir en coordinación con los Ayuntamientos, las reservas territoriales de la Entidad, y ejercer el derecho preferente del Estado para adquirir inmuebles en áreas urbanas y de reserva territorial para la ejecución de programas de interés social y sociales progresivos;
 
@@ -529,13 +537,19 @@ XV. Proponer al Ejecutivo del Estado la fundación de centros de población;
 
 XVI. Promover con centros de estudio, de asesoría y de investigación la revisión de los análisis que en materia de riesgo urbano puedan presentarse en las localidades;
 
-XVII. Expedir cuando proceda y con estricto apego a esta ley, los programas de desarrollo urbano y a la reglamentación respectiva, las licencias, permisos, autorizaciones, constancias y dictámenes de uso del suelo, de construcción, urbanización, fusión, subdivisión, relotificación, cambio a régimen de propiedad en condominio y otros tendientes a la transformación, uso o aprovechamiento del suelo urbano, así como los permisos relacionados con la remodelación y urbanización coordinándose con la Secretaría para los casos del patrimonio natural cultural edificado del Estado de acuerdo a las disposiciones de esta ley;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
 
-XVIII. La autorización de fraccionamientos dentro de su jurisdicción en común acuerdo con la Secretaría por ser esta la instancia técnica que emite el dictamen de fraccionamientos;
+XVII. Expedir cuando proceda y con estricto apego a esta ley, la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit, los programas de desarrollo urbano y la reglamentación respectiva, las licencias, permisos, autorizaciones, constancias y dictámenes de uso del suelo, de construcción, urbanización, fusión, subdivisión, relotificación, cambio a régimen de propiedad en condominio y otros tendientes a la transformación, uso o aprovechamiento del suelo urbano, así como los permisos relacionados con la remodelación y urbanización coordinándose con la Secretaría para los casos del patrimonio natural cultural edificado del Estado de acuerdo a las disposiciones de esta ley;
 
-XIX. Promover o ejecutar en coordinación con el Gobierno del Estado, fraccionamientos populares, de interés social y social progresivo, así como condominios de orden público;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
 
-XX. Determinar las áreas y predios que, conforme a esta Ley, sin excepción alguna, deberán donar al Municipio los promoventes de fraccionamientos, independientemente al régimen de propiedad que adopten;
+XVIII. La autorización de fraccionamientos dentro de su jurisdicción en los términos de la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
+
+XIX. Promover en coordinación con el Gobierno del Estado, fraccionamientos populares, de interés social, así como condominios de orden público;
+
+XX. (DEROGADA, P.O. 4 DE ABRIL DE 2023)
 
 XXI. Acordar la recepción de obras de urbanización;
 
@@ -1697,9 +1711,11 @@ VI. Impedir que se realicen en el Estado, obras, acciones o inversiones que pong
 
 VII. Controlar que toda acción, obra, servicio o inversión en materia de desarrollo urbano, sean compatibles con la legislación, (sic) programas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2023)</small>
+
 ###### Artículo 106.
 
-Los Ayuntamientos a través de la autoridad municipal en materia de desarrollo urbano o en convenio con el Gobierno del Estado a través de la Secretaría expedirán las constancias de compatibilidad urbanística en los casos siguientes:
+Los Ayuntamientos a través de la autoridad municipal en materia de desarrollo urbano, expedirán las constancias de compatibilidad urbanística en los casos siguientes:
 
 I. Para el fraccionamiento y relotificación de terrenos y/o subdivisión de ellos con superficie mayor de 10,000 M2;
 
@@ -1751,9 +1767,11 @@ VIII. Industrias medianas.
 
 La Secretaría emitirá el dictamen correspondiente en un periodo no mayor a diez días hábiles a partir de la solicitud.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
+
 ###### Artículo 109.
 
-Los Ayuntamientos, la Secretaría y el IPLANAY podrán hacer observaciones y oponerse con causa fundada y debidamente justificada a las constancias de compatibilidad urbanística que ambos, en ejercicio de sus facultades legales expidan, elevándose el asunto, a consideración del Consejo Estatal para que emita resolución definitiva dentro del término de 30 días hábiles.
+Los Ayuntamientos o la Secretaría podrán hacer observaciones y oponerse con causa fundada y debidamente justificada a las constancias de compatibilidad urbanística que ambos, en ejercicio de sus facultades legales expida, elevándose el asunto, a consideración del Consejo Estatal para que emita resolución definitiva dentro del término de 30 días hábiles.
 
 ###### Artículo 110.
 
@@ -1801,9 +1819,13 @@ Las constancias de compatibilidad urbanística no constituyen diligencias de ape
 
 Las obras, construcciones, ampliaciones o modificaciones que se realicen sin autorización, permiso o licencia, o en contravención a lo dispuesto en los ordenamientos legales aplicables, en los planes de desarrollo urbano o las constancias de compatibilidad urbanística, podrán ser demolidas total o parcialmente por las autoridades municipales competentes, a costa del o los infractores, previa garantía de audiencia que al efecto se conceda.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
+
 ###### Artículo 116.
 
-Queda estrictamente prohibido a los encargados de las oficinas del Registro Público de la Propiedad y del Comercio y de Catastro del Estado, bajo apercibimiento de responsabilidad oficial, inscribir cualquier acto, contrato o convenio sobre transmisión de propiedad de inmuebles urbanos, si no van acompañados con las correspondientes constancias de compatibilidad urbanística. Cuando se trate de lotes o predios en fraccionamientos o condominios autorizados conforme a esta Ley o la Ley de la materia, o de construcciones ubicadas en zonas urbanas consolidadas, no se requerirán para la inscripción, de las constancias de compatibilidad urbanística.
+Queda estrictamente prohibido a los encargados de las oficinas del Registro Público del Estado, bajo apercibimiento de responsabilidad oficial, inscribir cualquier acto, contrato o convenio sobre transmisión de propiedad de inmuebles urbanos, si no van acompañados con las correspondientes constancias de compatibilidad urbanística.
+
+Cuando se trate de lotes o predios en fraccionamientos o condominios autorizados conforme a la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit o la Ley de la materia, o de construcciones ubicadas en zonas urbanas consolidadas, no se requerirán para la inscripción, de las constancias de compatibilidad urbanística.
 
 ###### Artículo 117.
 
@@ -2287,965 +2309,361 @@ VIII. Garantizar la interoperabilidad y la consulta pública remota de los siste
 
 El Estado establecerá las regulaciones específicas a que se sujetará la creación y operación de observatorios ciudadanos urbanos y para el ordenamiento territorial con base en esta Ley.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2023)</small>
+
 ## TÍTULO SEXTO. DEL FRACCIONAMIENTO, RELOTIFICACIÓN, FUSIÓN Y SUBDIVISIÓN DE TERRENOS
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2023)</small>
 
 ### CAPÍTULO PRIMERO. DE LOS FRACCIONAMIENTOS
 
 ###### Artículo 170.
 
-Se entiende por fraccionamiento, toda división de un terreno en manzanas y/o lotes que requieran la apertura de una o más vías públicas o privadas, o que requieran conexión directa o indirecta con vialidades previamente existentes, o bien que exista la ejecución de obras de urbanización que permitan al predio o inmueble que se pretende fraccionar, la dotación y/o utilización de infraestructura, equipamiento y servicios urbanos, según los requerimientos de los programas de ordenamiento territorial y desarrollo urbano que le correspondan.
-
-Para los efectos de lo anterior, se generará la concurrencia del gobierno estatal, los municipios y la participación de los desarrolladores inmobiliarios de acuerdo a los convenios que al efecto se establezcan
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 171.
 
-En el estado de Nayarit los fraccionamientos podrán ser de los siguientes tipos:
-
-I. Fraccionamientos habitacionales:
-
-a) Tipo popular;
-
-b) Tipo medio;
-
-c) Tipo mixto;
-
-d) Residencial;
-
-e) Interés social, y
-
-f) Social progresivo.
-
-II. Fraccionamientos especiales:
-
-a) Campestre;
-
-b) Turístico;
-
-c) Industrial;
-
-d) Comercial y de servicios;
-
-e) Granjas de explotación agropecuaria, y
-
-f) Cementerios.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 172.
 
-Para construir un fraccionamiento, será indispensable obtener la autorización del Ayuntamiento respectivo, por conducto de la autoridad municipal en materia de desarrollo urbano, de conformidad con la Secretaría y el presente Título.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 173.
 
-En ningún caso se dará curso a solicitudes que se refieran a inmuebles ubicados sobre bienes y áreas de protección al patrimonio natural y cultural edificado del Estado, así como la zonificación primaria y secundaria establecidas por los programas de desarrollo urbano.
-
-Queda prohibido el establecimiento de fraccionamientos en lugares no aptos para el desarrollo urbano, o en zonas insalubres, inundables o con pendientes mayores del 15%, a menos que se realicen las obras necesarias de saneamiento o protección, previa autorización y supervisión del Ayuntamiento correspondiente.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 174.
 
-El que sin contar con la autorización respectiva realice un fraccionamiento, divida un terreno en lotes, transfiera la propiedad, posesión o cualquiera otro derecho o ejecute cualquier acto que signifique la realización de un fraccionamiento, se hará acreedor a la sanción administrativa correspondiente, independientemente de la responsabilidad penal que pudiere resultar.
-
-Iguales sanciones se impondrán a quienes sirvan de intermediarios o promotores de los mismos en terrenos ejidales, comunales o ajenos de propiedad privada sin consentimiento de su titular, a quienes se aplicará una multa de por lo menos tres veces el monto del lucro obtenido, con independencia de la responsabilidad penal que pudiere resultar.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 175.
 
-Los desarrollos inmobiliarios que se pretendan realizar bajo la denominación de régimen en condominio, no perderán la categoría de fraccionamiento señalada en el artículo 170 de esta Ley.
-
-Los fraccionamientos realizados bajo la modalidad de régimen en condominio, deberán resolver en forma interna los mantenimientos preventivos y correctivos a los servicios de agua potable, drenaje sanitario y pluvial, de alumbrado público y áreas verdes, y el servicio permanente y continuo de recolección de basura y vigilancia, hacia el interior de sus cotos. Los desarrollos realizados bajo la modalidad de régimen en condominio les corresponderán donar al municipio el 6% de la superficie neta del fraccionamiento.
-
-En caso de que el proyecto del régimen de condominio contemple la construcción y operación de una planta de tratamiento de aguas residuales, la donación será del 4% del área neta del fraccionamiento.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 176.
 
-Los fraccionamientos en general que proyecten vialidades principales, deberán contemplar ciclovías, siempre que éstas tengan una dimensión mínima de 2.00 metros que permita la circulación de ciclistas en ambos sentidos simultáneamente. Tanto en camellones como en banquetas, las ciclovías deberán contar con rampas de acceso y señalamiento vertical y horizontal aprobado por la Secretaría.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 177.
 
-Quienes lleven a cabo alguno de los fraccionamientos habitacionales, estarán obligados a realizar las siguientes obras de urbanización:
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
-I. La red de distribución de agua potable y sus tomas domiciliarias e hidrantes, la cual se deberá sujetar en su diseño, construcción y operación a las normas, especificaciones y lineamientos que le señale la autoridad u organismo operador de los servicios de agua y drenaje del Ayuntamiento respectivo;
-
-II. La red de drenaje sanitario, descargas domiciliarias, subcolectores y colectores, la cual se sujetará en su diseño y construcción a las normas, especificaciones y lineamientos que le señale la autoridad u organismo operador de los servicios de agua y drenaje del Ayuntamiento respectivo;
-
-III. La red u obras para el manejo integral de aguas pluviales, conforme al diseño que proporcione servicios de agua y drenaje de sus Ayuntamiento respectivos;
-
-IV. La red de distribución de energía eléctrica y obras complementarias, las cuales deberán de ser subterráneas preferentemente;
-
-V. El alumbrado público, el cual deberá contar con un sistema LED u otro con tecnología de eficiencia similar y ser conforme a las especificaciones señaladas por el Ayuntamiento;
-
-VI. La nomenclatura, señalización vial y mobiliario urbano;
-
-VII. Las guarniciones y banquetas de concreto conforme a las especificaciones que señale el Ayuntamiento;
-
-VIII. La habilitación de las vías públicas deberá tener como mínimo una superficie de rodamiento a base de empedrado respetando las disposiciones y especificaciones de obra pública señalados en la normatividad aplicable;
-
-IX. La red general de gas para el consumo doméstico donde se cuente con abastecimiento;
-
-X. Las obras de infraestructura troncal de servicios básicos que se requieran para su incorporación al área urbanizada o por urbanizar;
-
-XI. Las obras y previsiones necesarias para facilitar el acceso, circulación y uso de espacios e instalaciones para personas con discapacidad, así como de ciclovías;
-
-XII. La habilitación, equipamiento y arbolado de áreas verdes o recreativas, camellones, y banquetas de concreto se hará conforme a los lineamientos que señale el Ayuntamiento correspondiente en la autorización del proyecto urbanístico presentado por el fraccionador;
-
-XIII. Las obras de urbanización mencionadas anteriormente, deberán ejecutarse conforme al proyecto ejecutivo y calendario de obra que se acuerde con el Ayuntamiento, y no podrá excederse de un año a partir de la fecha de autorización, pudiéndose solicitar una prórroga para su cumplimiento;
-
-XIV. El ancho mínimo de las vialidades locales será de a (sic) 12 metros, medidas de alineamiento a alineamiento, y el de las calles colectoras de 15 metros de anchura. En caso de que una calle local tenga necesariamente que ser cerrada, se hará un retorno con las dimensiones que se autoricen en el proyecto;
-
-XV. En el caso de que existan andadores, se deberá prever el número de cajones de estacionamiento de acuerdo al número de viviendas proyectadas para cada andador. Dichos andadores tendrán como mínimo un ancho de 4.00 metros y contar con un área verde de cuando menos el 40% de su anchura;
-
-XVI. Las banquetas tendrán como mínimo de 2.00 y 3.00 metros de ancho en las vialidades locales y colectoras respectivamente, y del cual se destinará 1.50 metros de ancho para la ciclovía en la sección adyacente al arroyo vehicular. De igual manera deberá integrar una franja de equipamiento de 50 centímetros como mínimo, el cual contendrá el mobiliario urbano y la vegetación endémica;
-
-XVII. Arbolado nativo de la región en áreas de calles, camellones y demás lugares destinados a ese fin, en una cantidad igual a dos unidades por lote vendible, los cuales deberán ser distribuidos proporcionalmente entre la superficie total que deba plantarse;
-
-XVIII. Cumplir con la Ley para la Protección e Inclusión de las Personas con Discapacidad del Estado de Nayarit y tomar en cuenta las Normas Oficiales Mexicanas en materia de accesibilidad universal vigentes;
-
-XIX. Los fraccionamientos habitacionales que cuenten con vialidades subcolectoras en su interior, deberán establecer sobre dichas vialidades corredores de usos mixtos, equivalentes a por lo menos el 20% del área vendible del fraccionamiento o conjunto, en donde se permitirán usos habitacionales, comerciales y de servicios no contaminantes, de bajo impacto;
-
-XX. El fraccionador deberá construir, en las áreas de donación que en cada caso está obligado a otorgar, las obras complementarias que en concurrencia con el Estado y el Ayuntamiento se establezcan para tal caso.
-
-a. Las obras complementarias, para el fraccionamiento o el área urbana inmediata, podrán ser para el equipamiento educativo, salud, comunitaria, deportiva y/o de esparcimiento; así como también podrá conjuntarse con infraestructura de tipo hidráulica, sanitaria, pluvial, eléctrica, de gas y/o de voz y datos. Dichas obras estarán determinadas en proporción al número de viviendas previstas de cada fraccionamiento habitacional, y
-
-b. El plazo mayor para que el fraccionador concluya la construcción y entrega de este equipamiento será cuando alcance un avance del 80% de las viviendas terminadas, debiendo determinarse esto en las licencias de urbanización y construcción. No se entregarán las constancias de habitabilidad de las viviendas cuando no se haya dado cabal cumplimiento a la entrega del equipamiento y/o infraestructura referida.
-
-XXI. El fraccionador en el caso de fraccionamientos urbanos previstos en el artículo 171 fracción I incisos a), b), c) y d) de la presente ley, deberá construir, con independencia de las áreas de donación que en cada caso está obligado a otorgar, las siguientes obras complementarias:
-
-a) Por cada 300 viviendas previstas:
-
-1) Jardín de niños de tres aulas de acuerdo con las especificaciones oficiales;
-
-2) Plaza cívica, y
-
-3) Una cancha de usos múltiples para uso público, con medidas reglamentarias.
-
-b) Por cada 500 viviendas previstas:
-
-1) Jardín de niños de tres aulas de acuerdo con las especificaciones oficiales;
-
-2) Plaza cívica;
-
-3) Primaria de seis aulas y las oficinas administrativas, y
-
-4)Una cancha de usos múltiples para uso público, con medidas reglamentarias.
-
-c) Por cada 1,000 viviendas previstas:
-
-1) Jardín de niños de tres aulas de acuerdo con las especificaciones oficiales;
-
-2) Primaria de seis aulas y las oficinas administrativas;
-
-3) Plaza cívica;
-
-4) Jardines vecinales;
-
-5) Juegos infantiles, y
-
-6) Zona deportiva con al menos dos canchas de usos múltiples para uso público, con medidas reglamentarias.
-
-En fraccionamientos donde no se alcance el número de viviendas señaladas en los incisos anteriores, las obras complementarias a construir se determinarán de manera proporcional al número de viviendas previstas.
-
-En fraccionamientos mayores a 1,000 viviendas, las obras complementarias a construir por cuenta del fraccionador serán determinadas en proporción directa a los requerimientos descritos en la presente fracción.
-
-El plazo mayor para que el fraccionador concluya la construcción y entrega de este equipamiento será cuando alcance un avance del 80% de las viviendas terminadas, debiendo determinarse esto en las licencias de urbanización y construcción.
-
-No se entregarán las constancias de habitabilidad de las viviendas cuando no se haya dado cabal cumplimiento a la entrega del equipamiento referido en la presente fracción.
-
-Las obras previstas en esta fracción estarán sujetas a las necesidades y objetivos planteados por el Programa de Desarrollo Urbano del municipio donde se lleve a cabo el fraccionamiento.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2023)</small>
 
 ### CAPÍTULO SEGUNDO. DE LOS FRACCIONAMIENTOS HABITACIONALES
 
 ###### Artículo 178.
 
-Constituyen normas básicas de los fraccionamientos habitacionales populares, para uso de vivienda unifamiliar, plurifamiliar vertical y/o horizontal, las siguientes:
-
-I. Sólo podrán ubicarse dentro de las áreas de aplicación de los Programas Municipales de Ordenamiento Territorial y Desarrollo Urbano;
-
-II. La dimensión mínima de los lotes para uso unifamiliar será la que se especifique en la autorización correspondiente, no debiendo ser menor de 90.00 metros cuadrados;
-
-III. El frente de los lotes para uso unifamiliar será de 6.00 metros mínimo;
-
-IV. La dimensión mínima de los lotes para uso plurifamiliar vertical será la que se especifique en la autorización correspondiente, no debiendo ser menor de 120.00 metros cuadrados. La dimensión mínima de los lotes para uso plurifamiliar dúplex vertical y horizontal será la que se especifique en la autorización correspondiente, no debiendo ser menor de 90.00 metros cuadrados en aquellos casos que se cumplan con los coeficientes de ocupación;
-
-V. El frente de los lotes para uso plurifamiliar vertical será de 8.00 metros mínimo;
-
-VI. Un cajón mínimo para estacionamiento por vivienda;
-
-VII. La combinación de lotes con diferentes dimensiones es admisible, siempre y cuando exista un lote tipo predominante que permita la clasificación del fraccionamiento y se equilibre la densidad de población establecida para la zona por el plan de desarrollo urbano correspondiente;
-
-VIII. Se permitirá el uso comercial o de servicios en las vialidades primarias, atendiendo los criterios de compatibilidad de uso de suelo establecido en el plan de desarrollo correspondiente;
-
-IX. El fraccionador deberá donar al Municipio el 15% de la superficie neta vendible del fraccionamiento debidamente urbanizada, y
-
-X. El suelo donado por el fraccionador a los Ayuntamientos sólo podrá ser destinado para zonas verdes y deportivas, así como para el equipamiento urbano destinado a servicios educativo, mercados, plazas cívicas, juegos infantiles, jardines, parques, usos vecinales y demás servicios públicos. Al menos el 50% de la superficie donada deberá destinarse a áreas verdes, parques y jardines, y
-
-XI. Se deberá de plantar al menos cinco árboles de la especie que determine la matriz de selección de especies del municipio por lote vendible.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 179.
 
-En este tipo de fraccionamientos se permitirá la construcción de viviendas plurifamiliar vertical y horizontal en un mínimo del 60% de la superficie vendible, en las zonas determinadas para ello en el proyecto correspondiente, previo análisis del incremento de la población.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 180.
 
-Son normas básicas para fraccionamientos habitacionales de tipo medio, para uso de vivienda unifamiliar, plurifamiliar vertical y/o horizontal, las siguientes:
-
-I. Se ubicarán en áreas cuya densidad de población proyectada sea menor de 200 habitantes por hectárea de acuerdo al Programa Municipal;
-
-II. El frente de los lotes para vivienda unifamiliar será de 8.00 metros mínimo y superficie no menor de 120.00 metros cuadrados;
-
-III. El frente de los lotes para vivienda plurifamiliar vertical será de 16.00 metros mínimo y superficie no menor de 480.00 metros cuadrados;
-
-IV. Dos cajones mínimos para estacionamiento por vivienda;
-
-V. Se permitirá el uso comercial o de servicios en las vialidades primarias, atendiendo a los criterios de compatibilidad de uso de suelo establecidos en el plan de desarrollo correspondiente;
-
-VI. En el caso de que existan andadores, se deberá prever el número de cajones de estacionamiento de acuerdo al número de viviendas proyectadas para cada andador. Dichos andadores tendrán como mínimo un ancho de 4.00 metros y contar con un área verde de cuando menos el 40% de su anchura;
-
-VII. El aprovechamiento predominante será de vivienda unifamiliar, permitiéndose la construcción de viviendas plurifamiliares verticales y horizontales en un máximo del 50% de la superficie vendible;
-
-VIII. Se permitirá la construcción como máximo en un 80% de la superficie del lote, los cajones de estacionamiento y el resto se destinará a espacios abiertos, y
-
-IX. El fraccionador deberá donar al Municipio el 15% de la superficie neta vendible del fraccionamiento debidamente urbanizada.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 181.
 
-Los fraccionamientos habitacionales mixtos sólo se autorizarán, cuando los diferentes aprovechamientos a que se pretenda dedicar el terreno o área respectiva, sean compatibles con los usos y destinos permitidos para el suelo, y los proyectos de urbanización y construcción cumplan con las normas técnicas de diseño urbano, vialidad, sistemas de agua potable, alcantarillado, electrificación y alumbrado público que en cada caso determine la autoridad municipal en materia de desarrollo urbano, atendiendo a la modalidad y tipo o características del fraccionamiento respectivo, de conformidad a lo previsto en el presente ordenamiento.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 182.
 
-El fraccionador deberá donar al Municipio el porcentaje de la superficie neta vendible que corresponda debidamente urbanizada, según sea la modalidad o tipo y construir las obras complementarias previstas.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 183.
 
-Los Programas de ordenamiento territorial y desarrollo urbano pueden definir sectores de urbanización mixtos, donde sea viable fijar nuevas dimensiones de los lotes y de las calles, que sustituyan a las indicadas en las normas previstas en este Título.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 184.
 
-Son normas básicas para los fraccionamientos habitacionales residenciales las siguientes:
-
-I. Se ubicarán en áreas cuya densidad proyectada de población sea menor de 100 habitantes por hectárea, y la dimensión mínima de los lotes será de 10.00 metros de frente y una superficie no menor de 300.00 metros cuadrados;
-
-II. Las construcciones deberán remeterse 2.50 metros a partir del alineamiento, que se dejará como área libre;
-
-III. Se permitirá la construcción como máximo en un 50% de la superficie del lote incluidas las áreas o cajones de estacionamiento, y el resto se destinará a espacios abiertos;
-
-IV. En caso de que una calle local tenga necesariamente que ser cerrada, se hará un retorno con las dimensiones que determine la autoridad competente;
-
-V. Los titulares de estos fraccionamientos deberán donar al Ayuntamiento el 15% de la superficie vendible del fraccionamiento, debidamente urbanizada, y
-
-VI. Se deberá de plantar al menos cinco árboles de la especie que determine la matriz de selección de especies del municipio por lote vendible.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 185.
 
-En este tipo de fraccionamiento se permitirá la construcción de viviendas plurifamiliar horizontal o vertical y se permitirá el uso comercial y mixto en las vialidades colectoras principales siempre y cuando se ajusten a las tablas de compatibilidad de usos del suelo establecidas en los Programas de ordenamiento territorial y desarrollo urbano que regulan la zona en cuestión y a las factibilidades de infraestructura municipal.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 186.
 
-El fraccionamiento de interés social sólo podrá ser promovido por los Gobiernos Municipales, Estatal o Federal, por sí o a través de sus organismos descentralizados, quienes podrán asociarse entre sí, con particulares o con el sector social, siendo sus normas básicas las siguientes:
-
-I. Solo podrán ubicarse en las áreas urbanas o urbanizables de los centros de población, previstas en el Programa Municipal de Ordenamiento Territorial y Desarrollo Urbano;
-
-II. El frente de los lotes para uso unifamiliar será de 6.00 metros mínimo;
-
-III. El frente de los lotes para uso plurifamiliar vertical será de 8.00 metros mínimo;
-
-IV. La dimensión mínima de los lotes para uso unifamiliar será la que se especifique en la autorización correspondiente, no debiendo ser menor de 90.00 metros cuadrados;
-
-V. La dimensión mínima de los lotes para uso plurifamiliar vertical será la que se especifique en la autorización correspondiente, no debiendo ser menor de 120.00 metros cuadrados;
-
-VI. Un cajón mínimo para estacionamiento por vivienda;
-
-VII. El fraccionador deberá donar al Ayuntamiento lo correspondiente al 10% del área vendible, dicha superficie solo podrá ser destinado para la infraestructura, equipamiento y servicios públicos. Al menos el 50% de la superficie donada deberá destinarse a áreas verdes, parques y jardines y se deberá de plantar al menos cinco árboles de la especie que determine la matriz de selección de especies del municipio por lote vendible;
-
-VIII. El aprovechamiento puede mezclar vivienda unifamiliar con plurifamiliar vertical y se permite el uso comercial y mixto en las calles colectoras y los lotes de esquina, atendiendo las tablas de compatibilidad de los usos del suelo del plan de desarrollo correspondiente;
-
-IX. Se permitirá la construcción como máximo en un 70% de la superficie del lote unifamiliar y de un 60% de la superficie del lote plurifamiliar vertical con posibilidad de hasta 4 niveles sin elevador, y el resto se destinará para espacios abiertos, y
-
-X. La promoción de fraccionamientos de interés social tendrá como finalidad la construcción o el financiamiento de vivienda de interés social; el Gobierno del Estado, a través del IPROVINAY, tendrá la facultad de supervisar y vigilar la realización de los proyectos enunciados en el presente artículo.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 187.
 
-A efecto de ampliar las posibilidades de acceso a la vivienda a las familias de bajos ingresos o sectores de la población más desprotegidos, el Gobernador del Estado, el Ayuntamiento respectivo y las organizaciones sociales, en atención a resolver problemas de vivienda, bajo la autorización del IPROVINAY cuando se cumplan los requisitos de ley, podrán realizar fraccionamientos sociales progresivos, con los requisitos mínimos de urbanización que conforme al presente capítulo se determinen.
-
-El fraccionamiento social progresivo podrá ser promovido por el Gobierno del Estado a través del IPROVINAY, el Ayuntamiento respectivo, las organizaciones sociales mediante la autorización del IPROVINAY, en estricto apego a las áreas previstas en el Programa Municipal de Ordenamiento Territorial y Desarrollo Urbano. Para ese efecto el titular del Poder Ejecutivo del Estado podrá convenir o asociarse con las mismas organizaciones sociales que lo soliciten, y con organismos públicos federales, cuya finalidad sea la construcción o financiamiento de vivienda de interés social, para la adquisición de terrenos o en cualquier otra operación necesaria para llevar acabo el fraccionamiento social progresivo. En todos los casos el Ejecutivo del Estado a través del IPROVINAY tendrá la facultad de supervisar y vigilar su realización.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 188.
 
-Los requisitos básicos para la autorización de la licencia de venta, de los fraccionamientos sociales progresivos y (sic) no podrá postergarse en un tiempo mayor a 30 días hábiles una vez presentado ante la autoridad municipal y serán los siguientes:
-
-I. Opinión técnica favorable del ayuntamiento correspondiente en relación a que el fraccionamiento social progresivo se encuentra dentro del Programa Municipal de Ordenamiento Territorial y Desarrollo Urbano o del programa parcial de urbanización, salvo cuando sea él mismo quien lo promueva;
-
-II. Títulos que acrediten la propiedad o posesión de los terrenos;
-
-III. Constancia de apeo y deslinde judicial o administrativo con el plano relativo;
-
-IV. Proyecto de las vialidades, lotificación y distribución de las áreas de donación;
-
-V. Constituir, el fondo de vivienda social progresiva, ante la banca pública o privada, conforme a las disposiciones legales aplicables;
-
-VI. Programa de las etapas de realización de las obras de urbanización, en el cual se determinará el orden de prioridad para su ejecución, y
-
-VII. Acta constitutiva en el caso de que sean organizaciones sociales las que promuevan el fraccionamiento.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 189.
 
-Los fraccionamientos sociales progresivos, deberán de cumplir con las normas básicas siguientes:
-
-I. Sólo podrán ubicarse en las áreas urbanas o urbanizables de los centros de población previstos en los programas de ordenamiento territorial y desarrollo urbano;
-
-II. Los lotes no podrán tener un frente menor a los 6.00 metros, ni una superficie menor de 90.00 metros cuadrados;
-
-III. El aprovechamiento del suelo puede ser para vivienda unifamiliar o multifamiliar y se permitirá el uso comercial y mixto en las vialidades colectoras principales y en los lotes de esquina, atendiendo las normas de compatibilidad urbanística de los Programas de ordenamiento territorial y desarrollo urbano;
-
-IV. El ancho mínimo de las vialidades colectoras será de 12 metros, el de las locales de 9 metros mínimo y el de los andadores de 5.00 metros mínimo, dejando el 40% para zonas arboladas y jardinadas en el andador;
-
-V. El Gobierno del Estado a través del IPROVINAY, el Ayuntamiento respectivo y las organizaciones sociales, deberán donar al Municipio correspondiente el 10% del área vendible, de forma inmediata a la publicación de la resolución definitiva en el Periódico Oficial del Estado;
-
-VI. El suelo donado sólo podrá ser destinado para infraestructura, equipamiento y servicios públicos. El 30% deberá destinarse a áreas verdes, parques y jardines, y
-
-VII. Se deberá de plantar al menos tres arboles de la especie que determine la matriz de selección de especies del municipio por lote vendible.
-
-El Ejecutivo del Estado, a través de sus dependencias y entidades en la materia, podrá apoyar y asesorar en la realización de los proyectos ejecutivos de infraestructura y vialidades necesarios para la aprobación del fraccionamiento social progresivo.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 190.
 
-Para la ocupación física del fraccionamiento social progresivo por parte de los beneficiarios, bastará con las normas mínimas siguientes:
-
-I. Trazo de calles y lotificación;
-
-II. Vías colectoras con las especificaciones técnicas que garanticen el tránsito de vehículos;
-
-III. Suministro de agua, a través de hidrantes o sistemas similares;
-
-IV. Infraestructura para el tratamiento o desalojo de aguas residuales a nivel de lote o a través de sistemas sustentables;
-
-V. Inscripción del posesionario en el fondo de vivienda social progresiva de obras por cooperación, y
-
-VI. Desalojo o evacuación local de las aguas pluviales a nivel de terracería.
-
-En la relación a la fracción III el fraccionador social progresivo deberá garantizar el suministro de agua a nivel de lote durante los 5 años de ocupación física del fraccionamiento social progresivo.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 191.
 
-La gestión y ejecución de todas las obras que resuelvan los servicios y equipamiento del fraccionamiento social progresivo, se harán por etapas, progresivamente, y no deberá excederse un periodo mayor a 10 años para que se complete la urbanización al cien por ciento, contados a partir de la emisión de la licencia de venta del fraccionamiento social progresivo, pudiendo solicitar una prórroga ante el IPROVINAY hasta por 5 años.
-
-Las obras necesarias podrán ser financiadas al cien por ciento por el ahorro que aporten los beneficiarios a un fondo municipal de vivienda social progresiva de obras por cooperación, en el cual tendrán participación los representantes de las organizaciones sociales, El IPROVINAY podrá gestionar financiamiento para acelerar el proceso de urbanización, a favor del Fondo de Vivienda Social Progresiva de obras por cooperación correspondiente, previa ingeniería financiera del proyecto, así como canalizar subsidios que para tal fin aporten los tres niveles de gobierno, tales como estudios, obras directas o recursos financieros.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 192.
 
-En el fraccionamiento social progresivo (sic) la vivienda se podrá aplicar el método de autoconstrucción que significa edificar el aposento por sus propios usuarios, en coordinación del IPROVINAY, el municipio y las organizaciones sociales usando el ahorro en todas las fases del proceso constructivo, definido éste por el dinero destinado para el fin específico de producir vivienda social y popular partiendo de la adquisición del suelo.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 193.
 
-El IPROVINAY, el ayuntamiento o las organizaciones sociales como promotores de los fraccionamientos sociales progresivos, podrá celebrar convenios con Dependencias Estatales, los Ayuntamientos, los colegios de Arquitectos e Ingenieros y las Instituciones educativas correspondientes, para la elaboración de los proyectos ejecutivos de los fraccionamientos y las viviendas, así como para la asesoría técnica en los procesos de construcción y autoconstrucción de los desarrollos hasta su terminación.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 194.
 
-El fraccionamiento social progresivo y el Fondo de Vivienda Social Progresiva de obras por cooperación correspondiente, será establecido por el Gobernador del Estado, el Ayuntamiento respectivo y las organizaciones sociales, garantizando la participación de los representantes de las organizaciones sociales. El acuerdo respectivo se publicará en el Periódico Oficial del Estado.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
-El promotor constituirá, el Fondo de Vivienda Social Progresiva, ante la banca pública o privada, conforme a las disposiciones legales aplicables, el Fondo de Vivienda Social progresiva tendrá por objeto financiar a los servicios, obras de urbanización y vivienda social, mediante la combinación de recursos provenientes de ahorro, crédito, subsidios, cooperación de los beneficiarios y en su caso, otras aportaciones.
-
-La administración del Fondo la tendrá la institución u organización que inicie o promueva el fraccionamiento social pudiendo ser el Gobernador del Estado, el Ayuntamiento respectivo o las organizaciones sociales y se regirá bajo principios de transparencia, legalidad, equidad, veracidad, imparcialidad, honradez, objetividad y eficacia, con base en las Reglas de Operación que al efecto apruebe IPROVINAY. Cuando el Gobernador del Estado o el Municipio aporten participaciones al fondo, serán los responsables del manejo de los recursos económicos, constituyéndose en un fideicomiso, garantizando la participación del Gobierno del Estado, con el Ayuntamiento respectivo y con las organizaciones sociales.
-
-El Municipio respectivo, será la autoridad responsable de Vigilar, supervisar y verificar el correcto uso de los recursos del fondo de vivienda social progresiva en base (sic) Programa de las etapas de realización de las obras de urbanización, en el cual se determinará el orden de prioridad para su ejecución, de igual manera el INPROVINAY (sic) podrá convenir su participación en esquemas y fondos coordinados con organismos nacionales de vivienda, municipios y sectores social o privado, que tengan como finalidad el financiamiento a programas de vivienda social.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2023)</small>
 
 ### CAPÍTULO TERCERO. DE LOS FRACCIONAMIENTOS ESPECIALES
 
 ###### Artículo 195.
 
-Los fraccionamientos especiales son aquellos cuyos lotes se aprovechen predominantemente para la recreación o beneficio de pequeños cultivos vegetales, plantas avícolas, granjas campestres o de ganadería en pequeño, para fomentar actividades comerciales, turísticas o industriales, así como para cementerios.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 196.
 
-Los fraccionamientos especiales deberán cumplir con las especificaciones señaladas en la Ley para la Protección e Inclusión de las Personas con Discapacidad del Estado de Nayarit y tomar en cuenta las Normas Oficiales Mexicanas en materia de accesibilidad universal vigentes.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 197.
 
-Los fraccionamientos especiales deberán ajustar su ubicación y diseño a lo dispuesto en las normas sanitarias, de control de la contaminación y de desarrollo urbano, así como a las demás disposiciones que regulen la concesión y operación de actividades agropecuarias, comerciales, turísticas o industriales o el establecimiento de cementerios.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 198.
 
-Son normas básicas para fraccionamientos campestres:
-
-I. Ubicarse a una distancia no menor de un kilómetro de los límites de un centro de población y tener una superficie mínima urbanizable de 5-00-00 hectáreas;
-
-II. El frente de los lotes será de 20.00 metros mínimos y una superficie no menor de 1,000 metros cuadrados;
-
-III. El aprovechamiento predominante será de vivienda unifamiliar para recreación y huertos familiares;
-
-IV. Las construcciones deberán remeterse 5.00 metros a partir del alineamiento, que se dejará como área libre;
-
-V. Se permitirá la construcción como máximo en un 30% de la superficie total del predio y el resto se destinará a huertos y espacios abiertos;
-
-VI. Los proyectos de edificación estarán sujetos al resolutivo en materia de impacto ambiental emitida por la autoridad correspondiente;
-
-VII. Las obras de infraestructura primaria previstas que afectan al fraccionamiento, o en su caso las que se requieran para la incorporación del fraccionamiento al área urbana, estarán sujetos al resolutivo en materia de impacto ambiental emitida por la autoridad Estatal competente;
-
-VIII. En predios con pendientes de 0% hasta el 30 % se permitirán hasta 5 lotes por hectárea bruta o lo que los planes de desarrollo urbano determinen;
-
-IX. El proyecto de vialidades, incluyendo dimensiones materiales y señalización estarán sujetos al resolutivo en materia de impacto ambiental emitida por la autoridad correspondiente;
-
-X. Los titulares de los fraccionamientos campestres deberán donar al Municipio, el 5% de la superficie vendible;
-
-XI. El fraccionador deberá construir las obras de urbanización siguientes:
-
-a) Fuente de abastecimiento de agua potable y red de distribución hasta llave de banqueta;
-
-b) Red de drenaje sanitario o fosas sépticas ecológicas;
-
-c) Pozos de absorción en número suficiente, a fin de recargar los mantos acuíferos;
-
-d) Red de distribución de energía eléctrica para uso doméstico;
-
-e) Alumbrado público con tecnología de fotoceldas y sensor de movimiento;
-
-f) El depósito y la recolección de los residuos sólidos provenientes del fraccionamiento estarán sujetos al resolutivo en materia de impacto ambiental emitida por la autoridad correspondiente, y
-
-g) Caseta de vigilancia.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 199.
 
-En los lotes del tipo de fraccionamientos señalados en el artículo anterior no se autorizarán subdivisiones ni construcciones en régimen de propiedad en condominio. Los servicios públicos, así como el mantenimiento del fraccionamiento, correrán a cargo de los colonos, debiéndose establecer estas obligaciones en los contratos de venta correspondientes.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 200.
 
-En los fraccionamientos turísticos de tipo hotelero, los lotes no podrán tener una frente menor de 25 metros ni una superficie menor de 1,000 metros cuadrados.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 201.
 
-Se destinará a espacios libres como mínimo el 40% de la superficie total de cada lote, y las construcciones deberán remeterse cuando menos 4 metros del alineamiento.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 202.
 
-En el caso de los lotes con destino turístico habitacional, se observará las características técnicas que rigen a los fraccionamientos habitacionales señalados en los incisos a) al d) de la fracción I del artículo 171 de la presente Ley.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 203.
 
-El fraccionador deberá construir, en las áreas de donación que en cada caso está obligado a otorgar, las obras complementarias que en concurrencia con el Estado y el Ayuntamiento se establezcan para tal caso. Las aportaciones de los desarrolladores se ejercerán a través de un fideicomiso en el que tendrán su representación correspondiente, siendo el Estado el que establecerá la reglamentación que regule los convenios que al efecto se establezcan.
-
-Los fraccionadores de estos fraccionamientos deberán donar al ayuntamiento el 10% de la superficie neta del fraccionamiento, debidamente urbanizada.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 204.
 
-Son normas básicas para los fraccionamientos industriales, las siguientes:
-
-I. La superficie mínima será de 20-00-00 hectáreas;
-
-II. Los requerimientos de los lotes se podrán dividir según la siguiente clasificación:
-
-a) Industria Mayor: Frente mínimo de 50 metros, con una superficie mínima de 2500 metros cuadrados, destinándose para áreas verdes por lo menos el 20% de la superficie del lote, además de que las construcciones deberán remeterse 6 metros del alineamiento;
-
-b) Industria Mediana: Frente mínimo de 25 metros, con una superficie mínima de 1250 metros cuadrados, destinándose para áreas verdes por lo menos el 20% de la superficie del lote, además de que las construcciones deberán remeterse 4 metros del alineamiento, y
-
-c) Industria pequeña: Frente mínimo de 12 metros, con una superficie mínima de 500 metros cuadrados, destinándose para áreas verdes por lo menos el 20% de la superficie del lote, además de que las construcciones deberán remeterse 2 metros del alineamiento.
-
-III. En este tipo de fraccionamientos deberá realizarse un estudio especial de vialidad que contemple áreas verdes en camellones banquetas y de calles con un ancho mínimo de 20.00 metros;
-
-IV. Los titulares de los fraccionamientos industriales deberán donar al Estado el 6% de la superficie neta vendible y al Municipio el 2% del área vendible, debidamente urbanizada;
-
-V. Los fraccionadores deberán construir como mínimo las obras de urbanización siguientes:
-
-a) Fuente de abastecimiento de agua potable y red de distribución hasta la altura de toma de banqueta;
-
-b) Sistema de alcantarillado de aguas pluviales y de aguas residuales, separados entre ellos, con tomas domiciliarias y protección ecológica para las descargas que se enviarán a una planta de tratamiento de funcionamiento primario que se dotará para cada lote en función de la clasificación de la industria;
-
-c) Red de distribución de energía eléctrica para uso industrial;
-
-d) Alumbrado con características LED de consumo similar o tecnología más eficiente montado en poste metálico, de acuerdo a las especificaciones y normas técnicas de la Comisión Federal de Electricidad;
-
-e) Guarniciones y banquetas de concreto u otro material de similar calidad, deberán contar con rampas de acceso para personas con discapacidad y ciclistas, las cuales se localizarán en las esquinas;
-
-f) Ductos para redes telefónicas;
-
-g) Pavimento de concreto u otro material de calidad similar en arroyos de calles que soporte tráfico pesado, y en su caso, en estacionamientos;
-
-h) Hidrantes contra incendios;
-
-i) Obras de jardinería y arbolado en áreas de camellones, calles, glorietas y demás lugares destinados a ese fin;
-
-j) Sistema de nomenclatura y señalamiento vial en calles;
-
-k) Caseta de vigilancia;
-
-l) Las obras de infraestructura primaria previstas que afecten al fraccionamiento o las que se requieran para la incorporación del fraccionamiento al área urbana;
-
-m) En caso de que una calle local tenga necesariamente que ser cerrada, se hará un retorno con las dimensiones que se autoricen en el proyecto respectivo, y
-
-n) Las banquetas tendrán como mínimo de 4.00 metros de ancho, del cual se destinará 2.50 metros de ancho a ciclovías en la sección adyacente al arroyo vehicular.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 205.
 
-En las obras de urbanización de este tipo de fraccionamientos se deberá prever un suministro de agua de 1.5 litros por segundo por hectárea de suelo vendible.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 206.
 
-Dentro del mismo fraccionamiento el titular deberá construir un centro de capacitación para el trabajo y una unidad deportiva debidamente equipada, que consistirá en una cancha de fútbol por cada 20 hectáreas de suelo vendible y dos canchas de baloncesto por cada 5 hectáreas de suelo vendible con sus respectivas instalaciones sanitarias.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 207.
 
-En los fraccionamientos industriales, no se autorizará la construcción de viviendas y sólo se permitirá el 5% de la superficie vendible para áreas comerciales y de servicios en las zonas autorizadas.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 208.
 
-Los fraccionamientos industriales ajustarán su ubicación y diseño a lo previsto en las normas sanitarias, de control de la contaminación y de desarrollo urbano, así como a las demás disposiciones que regulen la operación de las actividades que en éstos se desarrollen.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 209.
 
-Los fraccionamientos comerciales y de servicios deberán sujetarse a las especificaciones que en cada caso determine la autoridad municipal en materia de desarrollo urbano, atendiendo al dictamen que al respecto emita el IPLANAY, debiéndose ajustarse en todo caso los proyectos a las siguientes normas mínimas:
-
-I. Los lotes no podrán tener un frente mínimo de 4.00 metros y una superficie no menor de 32.00 metros cuadrados;
-
-II. Las obras mínimas de urbanización deberán corresponder al tipo de fraccionamiento predominante en la zona de su ubicación;
-
-III. Densidades de construcción;
-
-IV. Espacios libres y su aprovechamiento;
-
-V. Arbolado y área verde;
-
-VI. Hidrantes contra incendios;
-
-VII. Áreas para el estacionamiento de vehículos, correspondientes a conjuntos de lotes o locales comerciales, y
-
-VIII. Caseta de vigilancia.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 210.
 
-En los fraccionamientos comerciales y de servicios, solo se permitirá la relotificación y la subdivisión de los lotes cuando sea factible dotar a los lotes resultantes con los servicios respectivos, sin afectar los suministros del sector, manzana o unidad comercial, requiriéndose de dictamen de factibilidad de la autoridad responsable de dichos servicios en estos casos.
-
-Una vez autorizado el fraccionamiento comercial, no se permitirá el cambio del uso o destino de suelo, de acuerdo a la zonificación correspondiente a los diversos giros comerciales, salvo que las circunstancias así lo justifiquen a juicio de la autoridad competente.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 211.
 
-En los fraccionamientos comerciales y de servicios podrán construirse muros comunes o medianeros en los lotes o locales, siempre y cuando los adquirentes de ellos se obliguen a no modificarlos, salvo que construya uno que separe las propiedades.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 212.
 
-El titular de un fraccionamiento comercial deberá donar el 5% de la superficie vendible en el desarrollo o donar su valor comercial equivalente según avalúo realizado por un perito valuador certificado.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 213.
 
-Los fraccionamientos especiales de granjas agropecuarias deberán sujetarse como mínimo a las siguientes características:
-
-I. Los lotes no podrán tener una superficie menor a 1,500 metros cuadrados ni un frente menor a los 25.00 metros;
-
-II. El aprovechamiento predominante será para actividades agropecuarias y sólo se permitirá el 5% de la superficie vendible para áreas comerciales y de servicios, en las zonas autorizadas;
-
-III. El fraccionador deberá donar al Municipio correspondiente a su ubicación, el 10% de la superficie neta del fraccionamiento debidamente urbanizada;
-
-IV. El ancho de las vialidades colectoras será como mínimo de 18.00 metros medidos de alineamiento a alineamiento, y el de las locales de 13.80 metros;
-
-V. Las banquetas tendrán como mínimo de 4.00 metros de ancho, del cual se destinará 2.50 metros de ancho a ciclovías en la sección adyacente al arroyo vehicular, y
-
-VI. Los titulares de este tipo especial de fraccionamiento deberán donar el 5% de la superficie vendible en el desarrollo o donar su valor comercial equivalente según avalúo realizado por un perito valuador certificado.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 214.
 
-Los cementerios serán equipamientos públicos y podrán ser equipados y administrados directamente por los ayuntamientos o mediante concesión, y deberán cumplir las disposiciones técnicas y jurídicas aplicables, además de aquellas otras especificaciones que en cada caso establezcan los Ayuntamientos en el caso de los contratos de concesión, debiendo observarse como mínimo las siguientes características:
-
-I. El dimensionamiento del predio será de acuerdo al rango de habitantes de los centros de población (sic) a continuación se establecen:
-
-a) de 2,500 a 10,000 habitantes será de 1,200 m2;
-
-b) de 10,001 a 100,000 habitantes será de 18,000 m2;
-
-c) de 100,001 a 500,000 habitantes será de 75,000 m2, y
-
-d) mayor a 500,001 habitantes será de más de 75,000 m2
-
-En caso de que exista un equipamiento previo con capacidad el nuevo proyecto podrá ser menor y complementar el área faltante.
-
-II. Deberán ubicarse a 500 metros del último grupo de casas de los centros de población;
-
-III. En caso de mancha urbana de crecimiento acelerado, deberán estar lo suficientemente aislados con elementos como zonas verdes o ajardinadas en el exterior y bardas;
-
-IV. Los lotes o fosas tendrán las dimensiones adecuadas para la colocación de los féretros, separadas unas de otras por muros de concreto o similares;
-
-V. Los cementerios de nueva creación en la capital del Estado y en las poblaciones principales, deberán contemplar la modalidad de criptas verticales y contar con un horno crematorio o incinerador y una zona de nichos para el depósito de cenizas, para tales efectos los ayuntamientos emitirla (sic) los reglamentos en la materia;
-
-VI. Contarán con áreas para estacionamiento de vehículos a razón de un cajón de estacionamiento por cada 100 fosas;
-
-VII. Las vías públicas para circulación peatonal serán mínimamente de 4.00 metros, y de 12.00 metros para circulación vehicular incluyendo banquetas;
-
-VIII. Se deberá especificar en cualquier tipo de cementerio, el número de lotes y nichos, disponibles para las inhumaciones, la localización de las mismas, así como en su caso, la ubicación de osarios crematorios y obras complementarias;
-
-IX. El fraccionador deberá de donar al Municipio correspondiente a su ubicación, el 2 % de la superficie total del fraccionamiento debidamente urbanizado
-
-X. Se deberá, construir como mínimo las obras de urbanización siguientes:
-
-a) Red de agua potable;
-
-b) Servicios sanitarios separados para ambos sexos;
-
-c) Alumbrado público exterior e interior adecuados;
-
-d) Barda perimetral;
-
-e) Arbolado de raíces poco profundas y jardinería;
-
-f) Zona especial para guarda de restos humanos;
-
-g) Las banquetas serán de 2.00 metros de ancho, y las guarniciones y banquetas de concreto u otro material de similar calidad, deberán contar con rampas de acceso para personas con discapacidad y ciclistas, las cuales se localizarán en las esquinas;
-
-h) Vialidad peatonal y vehicular;
-
-i) Caseta de vigilancia, y
-
-j) Las demás que resulten necesarias para el adecuado desarrollo del cementerio.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 215.
 
-En este tipo de equipamientos únicamente se permitirá la construcción de criptas, oficinas administrativas, templos y servicios conexos.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2023)</small>
 
 ### CAPÍTULO CUARTO. DE LOS REQUISITOS Y PROCEDIMIENTOS PARA LA AUTORIZACIÓN DE LOS FRACCIONAMIENTOS
 
 ###### Artículo 216.
 
-Los interesados en obtener la autorización de fraccionamiento o de un fraccionamiento especial, deberán formular ante el Ayuntamiento respectivo y la Secretaría, solicitud por escrito acompañada de los documentos siguientes:
-
-I. Título o títulos de propiedad de los terrenos, debidamente inscritos en el Registro Público de la Propiedad y del Comercio, o en su caso los convenios celebrados con los propietarios para realizar el fraccionamiento;
-
-II. Certificado de libertad de gravámenes;
-
-III. Constancia judicial o administrativa de apeo y deslinde de los terrenos que se pretendan fraccionar;
-
-IV. Copia certificada del Acta Constitutiva de la Sociedad, Fideicomiso o Empresa fraccionadora, debidamente inscrita en el Registro Público de la Propiedad y del Comercio, cuando se trate de persona moral;
-
-V. Comprobantes de pago de los impuestos y derechos sobre el predio vigentes;
-
-VI. Constancia de compatibilidad urbanística vigente y de usos y destinos derivados de los Programas de ordenamiento territorial y desarrollo urbano y de los que de estos se deriven;
-
-VII. Resolutivo en materia de impacto ambiental emitida por la Secretaría;
-
-VIII. Memoria descriptiva del fraccionamiento y proyecto general a escala de lotificación, con señalamiento de manzanas, zonificación interna, dosificación de áreas propuesta de nomenclatura, localización de áreas verdes y áreas de donación, así como de los planos y memorias de cálculo de las vialidades, localización de la fuente de abastecimiento y redes de agua potable y alcantarillado, electrificación y alumbrado público;
-
-IX. Carta de aceptación de los peritos responsables actualizados por el Ayuntamiento correspondiente;
-
-X. Autorización en su caso, de la Comisión Nacional del Agua y del Ayuntamiento correspondiente, respecto al aprovechamiento de la fuente de abastecimiento de agua potable;
-
-XI. Factibilidad de servicios de agua potable y alcantarillado emitida por la dependencia correspondiente;
-
-XII. Factibilidad del suministro de energía eléctrica emitida por la Comisión Federal de Electricidad;
-
-XIII. Si es el caso, permiso del proyecto de carriles de desaceleración para el ingreso al fraccionamiento emitida por las dependencias correspondientes, y
-
-XIV. Anexo gráfico en formato digital DWG, en el que cada elemento deberá estar delineado de forma cerrada para su posterior cuantificación de áreas, el cual incluirá:
-
-a) lotificación y vialidades, incluyendo coordenadas UTM;
-
-b) agua potable, alcantarillado y, si es el caso, pluvial;
-
-c) electrificación y alumbrado, y
-
-d) fuentes de abastecimiento, si es que cuenta con ellos.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 217.
 
-Para la autorización de los fraccionamientos sociales progresivos, se deberá formular ante el IPROVINAY y el Ayuntamiento respectivo, la solicitud por escrito, misma que será evaluada por la Secretaría y el IPLANAY.
-
-Dicha solicitud deberá ser acompañada de los documentos siguientes:
-
-I. Título de propiedad de los terrenos;
-
-II. Convenios celebrados con los propietarios para realizar el fraccionamiento o cualquier documento que acredite la propiedad;
-
-III. Certificado de libertad de gravamen;
-
-IV. Constancia de medidas y colindancias de él o de los terrenos que se pretenden de fraccionar;
-
-V. Copia certificada del documento que acredite la personalidad de la entidad promotora de este tipo de fraccionamiento;
-
-VI. Dictamen de compatibilidad urbanística y de usos y destinos derivados del plan de desarrollo urbano de centro de población, de los planes parciales de desarrollo urbano o de urbanización;
-
-VII. Memoria descriptiva de fraccionamiento y proyecto general a escala de lotificación con señalamiento de manzanas, zonificación interna, propuesta de nomenclatura, localización de áreas verdes y áreas de donación, así como de los planos y memorias de cálculo de las vialidades y localización de las fuentes de abastecimiento de agua luz y drenaje;
-
-VIII. Autorización a título gratuito de las factibilidades de servicios o la autorización de las factibilidades (sic) sistemas sustentables de servicios, a título gratuito por parte del organismo operador del agua correspondiente al aprovechamiento de la fuente de abastecimiento de agua potable, y
-
-IX. Una vez recibida la solicitud con los requisitos señalados, la Secretaría y en coordinación con el IPLANAY, revisarán que este correctamente integrada y una vez subsanadas las omisiones y observaciones si las hubiera en un plazo de 15 días hábiles emitirá su dictamen.
-
-Todos los requisitos previstos en el presente artículo y los previstos en el artículo 189 deberán acompañarse de la documentación que acredita su cumplimiento de manera física y digital mediante dispositivo electrónico, en formato PDF.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 218.
 
-Queda estrictamente prohibido y será causa de responsabilidad de los servidores públicos que tengan a su cargo la recepción y revisión de expedientes relativos a fraccionamientos, recibir expedientes incompletos o solicitudes condicionadas al cumplimiento posterior de requisitos por parte del promovente.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 219.
 
-Recibida la solicitud con los requisitos señalados, la Secretaría la revisará para verificar que esté correctamente integrada, y subsanadas las omisiones que se observen, dentro de un término de 15 días hábiles emitirá su opinión, el (sic) cual contendrá:
-
-I. Si el fraccionamiento promovido resulta a su juicio procedente o improcedente, y en caso de negativa, las causas o motivos que fundamenten el motivo de su oposición;
-
-II. La determinación de si las áreas de donación propuestas en cuanto a la superficie de los terrenos y su ubicación, reúnen los requisitos de la normatividad vigentes, y en su caso las observaciones de modificación conducentes;
-
-III. La aprobación de la propuesta de nomenclatura del fraccionamiento, así como de las calles, plazas cívicas y demás espacios públicos, y en su caso, su propuesta de modificación;
-
-IV. Los requerimientos mínimos de equipamiento y servicios en las áreas de donación, y
-
-V. Las observaciones que se tuvieren en relación a las especificaciones o características del Proyecto, o aquellas otras que deban cumplirse a su juicio como condicionantes para su autorización.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 220.
 
-El dictamen de fraccionamiento contendrá los siguientes elementos:
-
-I. La documentación recibida, incluyendo una breve descripción de cada uno de ellos y de los puntos esenciales de su contenido;
-
-II. Las especificaciones técnicas de acuerdo a las disposiciones del tipo de fraccionamiento que esta ley señala;
-
-III. Las áreas de donación propuestas, en cumplimiento a su superficie y ubicación dentro de su predio, las cuales deben reunir los requisitos de las leyes, reglamentos y normas vigentes;
-
-IV. Tabla de resumen de superficies incluyendo usos, y
-
-V. Plano con sello de la Secretaría.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 221.
 
-Una vez recabado el dictamen de fraccionamiento de la Secretaría, el Ayuntamiento formulará el Proyecto de resolución definitiva en un tiempo no mayor a 15 días hábiles, el cual contendrá:
-
-I. El tipo de fraccionamiento y su localización, con indicación del predio o predios que comprende y los usos y destinos autorizados;
-
-II. La relación de su ubicación con su contexto inmediato;
-
-III. La zonificación interna, con la indicación de las áreas de cesión para destinos, donaciones y los tipos y densidad de construcción;
-
-IV. Las especificaciones y características de las obras de urbanización y complementarias;
-
-V. Las dimensiones y superficie de cada lote, usos y dosificación de áreas que se proponen para los mismos;
-
-VI. Las vías de comunicación existentes de acceso al área;
-
-VII. Los planos topográficos y de vialidad, así como los de servicio con sus descripciones correspondientes;
-
-VIII. Las obligaciones técnicas, fiscales, de garantías y demás que se impongan al fraccionador, y
-
-IX. Las demás a que se refiere el artículo 7 del presente ordenamiento y que en el caso resulten aplicables.
-
-Una vez aprobado el fraccionamiento, la resolución respectiva será publicada en el Periódico Oficial del Estado, debiendo el titular de la autorización iniciar las obras de limpia y trazo de calles y lotes y solicitar al Ayuntamiento correspondiente las licencias o permisos de construcción.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 222.
 
-En todos los casos se requerirá oír y recabar el dictamen de fraccionamiento de la Secretaría, quien aplicará en lo conducente lo dispuesto por el artículo 219 de este ordenamiento.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2023)</small>
 
 ### CAPÍTULO QUINTO. DE LAS OBLIGACIONES DE LOS FRACCIONADORES
 
 ###### Artículo 223.
 
-Son obligaciones de los titulares de un fraccionamiento respecto del mismo, las siguientes:
-
-I. Ceder a título gratuito al Ayuntamiento, las superficies de terreno determinadas como vías públicas en el proyecto de fraccionamiento;
-
-II. Ejecutar las obras de urbanización conforme a las características, especificaciones y calidad que se autoricen en el proyecto definitivo aprobado, y dentro del plazo que fije el respectivo acuerdo de autorización, incluyendo las complementarias y la plantación de arbolado;
-
-III. Ceder al Estado y a los Municipios correspondientes, las áreas de donación requeridas por cada tipo de fraccionamiento en los términos de la autorización respectiva. En caso de que el fraccionamiento se ubique en la jurisdicción de dos o más Municipios, esta obligación se distribuirá proporcionalmente a favor de cada uno de los Ayuntamientos;
-
-IV. Cubrir en tiempo y forma las cargas fiscales que les correspondan de acuerdo con lo dispuesto por la legislación fiscal estatal y municipal aplicables;
-
-V. Conservar y mantener las obras de urbanización en buen estado, hasta su entrega al Municipio respectivo;
-
-VI. Prestar gratuitamente los servicios municipales de agua potable, drenaje, alumbrado público y recolección de basura, hasta la fecha de entrega al Municipio, en caso de que se le haya autorizado la realización de operaciones comerciales que permitan la ocupación legal de lotes antes de su entrega;
-
-VII. Inscribir en el Registro Público de la Propiedad y Catastro, los planos definitivos de lotificación o zonificación y de la memoria descriptiva de lotes o predios, dentro de un plazo no mayor de 60 días naturales siguientes al que se le notifique la resolución favorable;
-
-VIII. Responder de los vicios y defectos ocultos de las obras, así como de los daños que cause a las obras e instalaciones existentes con motivo de la autorización;
-
-IX. Informar mensualmente al Ayuntamiento correspondiente, del avance en la ejecución de las obras de urbanización y equipamiento, y atender las observaciones y correcciones que las dependencias competentes le hagan;
-
-X. Ejecutar las obras de electrificación con estricto apego a las características y especificaciones que le señale la Comisión Federal de Electricidad;
-
-XI. Mantener en la obra, en lugar fijo y de manera permanente, el libro de bitácora debidamente foliado y autorizado por la autoridad competente, hasta la conclusión de las obras de urbanización;
-
-XII. Obtener de la Dirección Municipal de Desarrollo Urbano y Ecología la autorización para iniciar la promoción de venta de lotes;
-
-XIII. Entregar un manual de mantenimiento que considere las indicaciones necesarias para que el fraccionamiento se mantenga en perfectas condiciones a través del tiempo y conserve su plusvalía que incluya al menos información básica del fraccionamiento, garantías, mantenimiento preventivo y emergencias;
-
-XIV. En relación con la propiedad bajo el régimen en condominio, entregar el reglamento interior y el reglamento de administración, y
-
-XV. Las demás que le señalen esta Ley y otras disposiciones jurídicas aplicables.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 224.
 
-El fraccionador otorgará a favor del Municipio la correspondiente garantía o fianza con un monto del 10% del presupuesto total de las obras del fraccionamiento, a fin de garantizar dichas obras contra vicios o defectos ocultos.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 225.
 
-Para hacer efectivas las garantías, el Ayuntamiento deberá formular un dictamen técnico debidamente fundado y motivado, concediendo al fraccionador o promovente la garantía de audiencia a efecto de que alegue y pruebe lo que a su derecho o interés convenga.
-
-El Ayuntamiento, previa notificación, hará efectivas las garantías a que se refiere esta Ley, cuando el promovente:
-
-I.- No cumpla con el calendario de obra autorizado o el programa de las etapas de realización de las obras de urbanización;
-
-II.- No se apegue a las especificaciones y características de las obras fijadas en esta Ley y en la autorización;
-
-III.- No acate las observaciones que las autoridades competentes le hagan con motivo de la supervisión realizada durante la ejecución de las obras; y
-
-IV.- Deje de prestar suficiente y adecuadamente los servicios a que está obligado por esta Ley.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 226.
 
-Cuando el fraccionador o promovente haya ejecutado obras, construcciones, instalaciones o servicios en contravención a lo dispuesto en esta Ley, en los Programas de ordenamiento territorial y desarrollo urbano o en la autorización respectiva, el Ayuntamiento correspondiente podrá ordenar la corrección de dichas obras, o bien, previa notificación que haga por escrito, demolerlas total o parcialmente, sin ninguna obligación de pagar indemnización al fraccionador, quien deberá cubrir en su caso, el costo de los trabajos efectuados, cuando no cumpla con los requerimientos de la autoridad respectiva.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 227.
 
-Para iniciar la venta de lotes, el fraccionador deberá recabar previamente la autorización expresa del Ayuntamiento y el visto bueno de la Secretaría, la cual solo se otorgará cuando se hayan terminado y puesto en servicio como mínimo, las obras de agua potable y drenaje de la sección o parte sobre la que se pretenda realizar la venta, siempre y cuando no se interfiera con la realización de las demás obras del fraccionamiento.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 228.
 
-La promoción y publicidad sobre lotes de un fraccionamiento, deberá apegarse a las estipulaciones de las autorizaciones correspondientes, y serán de tal naturaleza que permitan una adecuada orientación a los posibles adquirentes, por lo tanto, cualquier tipo de publicidad que se genere por cualquier medio de comunicación, deberá mencionar cuando menos, el tipo de fraccionamiento y la fecha de su autorización.
-
-Queda en consecuencia, prohibida la propaganda engañosa que ofrezca condiciones, situaciones o bienes que no estén apegados a la realidad y sin la autorización previa de la Dirección Municipal de Desarrollo Urbano y Ecología.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 229.
 
-Las áreas de donación establecidas para cada tipo de fraccionamiento, en ningún caso podrán ser inferiores a los 500 metros cuadrados ni tener un ancho menor a los 15.00 metros, debiendo localizarse frente a una vía pública.
-
-En ningún caso podrán cuantificarse como áreas de donación las siguientes:
-
-I. Terrenos con pendientes mayores del 15%;
-
-II. Terrenos nivelados mediante relleno;
-
-III. Terrenos ubicados en zanjones;
-
-IV. Terrenos afectados por restricciones federales o estatales;
-
-V. Camellones u otras áreas verdes en vialidades, y
-
-VI. En general, todos aquellos terrenos que por sus características y condiciones no puedan ser aprovechados.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 230.
 
-El Ayuntamiento podrá aceptar la permuta de las áreas de donación, cuando se pretenda promover una mejor distribución de los espacios de uso común, del equipamiento urbano y de los servicios públicos.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
-Los predios y el equipamiento que se ofrezcan en permuta, deberán localizarse preferentemente en el mismo centro de población, en el área de estudio o en la unidad territorial que en su caso, establezca el Plan Parcial.
-
-El urbanizador podrá continuar el proceso de autorización, ejecución y recepción de obras de su proyecto, si garantiza concluir la permuta, mediante una fianza expedida por una compañía autorizada, por el monto que se determine en el avalúo y acepte como equivalente.
-
-Cuando las áreas de donación a que obliga esta Ley, por la naturaleza de las obras, acciones e inversiones no representen mejoras a la calidad de vida de la población local, el Ayuntamiento, podrá convenir con el desarrollador, que el valor total o parcial de los bienes afectos a la donación se destinen a obras, acciones o ingresos municipales que decida el propio Ayuntamiento.
-
-Para garantizar la equivalencia razonable de entre los bienes permutados, se deberá contar con un avalúo emitido por un perito certificado, a fin de obtener el valor comercial del área permutable, y el costo de las obras de urbanización a ejecutarse y del equipamiento respectivo.
-
-En las zonas habitacionales de alta densidad no deberán permutarse las áreas de donación ni su equipamiento, éstas se deberán determinar y aportar en los mismos predios a urbanizar.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2023)</small>
 
 ### CAPÍTULO SEXTO. DE LAS OBLIGACIONES DE LOS PROPIETARIOS DE LOTES
 
 ###### Artículo 231.
 
-En todos los fraccionamientos, los adquirentes o posesionarios de lotes, tendrán la obligación de conservar los árboles plantados en la vía pública, prados, jardines y áreas verdes en los tramos que correspondan a los frentes de sus propiedades, así como los pavimentos, banquetas y equipamiento urbano.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 232.
 
-Los adquirentes de lotes se ajustarán en sus construcciones a las normas previstas en esta Ley y los Reglamentos municipales sobre la materia, y a falta de estas últimas disposiciones, a las que en cada caso dicte el respectivo Ayuntamiento, previa consulta técnica obligatoria a la Secretaría, observándose en todo caso lo concerniente a las limitaciones de dominio, servidumbres y características especiales de arquitectura y ornato.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 233.
 
-Será obligación de los adquirentes de lotes, respetar las características del fraccionamiento, en lo que concierne a las dimensiones de los lotes y no podrán subdividir los mismos en tamaños menores a los autorizados, así como en lo que respecta a dejar las superficies libres al frente en los casos que se halle establecida, y las características arquitectónicas y la densidad de construcción.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 234.
 
-Los propietarios de lotes baldíos tendrán la obligación de mantener su terreno en condiciones de limpieza y libres de residuos, con la finalidad de evitar focos de infección en el contexto urbano inmediato. En caso de no hacerlo el Ayuntamiento procederá a validar una multa con cargo al impuesto predial, previas tres notificaciones para que el propietario efectúe dichos trabajos.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2023)</small>
 
 ### CAPÍTULO SÉPTIMO. DE LA RECEPCIÓN DE LAS OBRAS DE URBANIZACIÓN
 
 ###### Artículo 235.
 
-Una vez que el fraccionador notifique sobre la conclusión de las obras de urbanización establecidas en la autorización de un fraccionamiento, la dependencia municipal correspondiente, en conjunto con la Secretaría, le darán respuesta en un plazo no mayor a 30 días hábiles, a efecto de verificar mediante una inspección final si dichas obras, y en su caso las complementarias, fueron realizadas conforme a las normas y especificaciones contenidas en la autorización respectiva.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 236.
 
-Si de acuerdo con la visita de inspección que se realice, la Secretaría y la dependencia municipal competente establecen la procedencia de recibir las obras de urbanización, con notificación al fraccionador, se señalará día y hora en que tendrá lugar el acto formal de entrega-recepción.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 237.
 
-De determinarse que no procede la recepción de las obras, se notificará este hecho por escrito al fraccionador, indicándole las omisiones o deficiencias que se adviertan, requiriéndolo y conminándolo para subsanarlas de Inmediato. Esta determinación podrá ser recurrida por el fraccionador en caso de inconformidad.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 238.
 
-El acto de entrega y recepción de las obras de urbanización, áreas de donación y obras complementarias, se verificará en el lugar donde se ubiquen, mediante acta pormenorizada que se levantará en presencia de Notario Público, en la cual se hará constar:
-
-I. El lugar, día, hora y el nombre de las personas y servidores públicos que asistieron al acto de entrega-recepción;
-
-II. La referencia a la autorización del fraccionamiento correspondiente y la relativa a su publicación en el Periódico Oficial del Estado;
-
-III. La descripción de las áreas de cesión para destinos y sus fines públicos específicos;
-
-IV. La manifestación por parte del Ayuntamiento a través de la autoridad municipal en materia de desarrollo urbano y la conformidad de la Secretaría, de que está en condiciones de recibir del fraccionador, la posesión de las áreas de cesión para destinos y las obras de urbanización y equipamiento ejecutadas en esos terrenos, y que a partir de ese momento asume la responsabilidad, en su caso, de proporcionar los servicios públicos municipales, previa autorización del cabildo;
-
-V. La manifestación del fraccionador de obligarse a reponer las obras que presenten defectos ocultos de construcción, por un plazo no menor de un año, y
-
-VI. Los demás datos y hechos que quieran hacer constar las partes y aquellos otros que estime pertinentes el fedatario público que interviene.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 239.
 
-Los fraccionamientos que se urbanicen por etapas podrán municipalizarse parcialmente. El Ayuntamiento podrá recibir previamente a la municipalización, mediante convenio que se celebre con el fraccionador, algún servicio u obra de equipamiento, a efecto de que aquél se haga cargo de su operación para su mayor eficiencia.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 240.
 
-Recibidas las obras de urbanización, áreas de donación, equipo e instalaciones destinados a los servicios públicos, así como las obras complementarias, el Ayuntamiento tramitará la publicación del acta respectiva en el Periódico Oficial del Estado y su inscripción en el Registro Público de la Propiedad y del Comercio para los efectos legales correspondientes, y tomará las medidas necesarias para el debido aprovechamiento de las áreas de donación, programando la construcción de escuelas, parques, mercados y demás obras de servicios, para beneficio del fraccionamiento o del centro de población.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 241.
 
-En el caso de los fraccionamientos sociales progresivos, éstos deberán municipalizarse cuando las obras de infraestructura hayan sigo (sic) concluidas en el plazo establecido en el Artículo 191 de la presente Ley, una vez revisadas y autorizadas por las áreas técnicas correspondientes, quedando registro de la urbanización faltante; recibidas las obras, así como las áreas de donación por parte del Ayuntamiento, éste tramitará la publicación del acta respectiva en el Periódico Oficial del Estado y su inscripción en el Registro Público de la Propiedad y del Comercio para los efectos legales correspondientes, y tomará las medidas necesarias para el debido aprovechamiento de las áreas de donación pudiendo programar la construcción de obras y servicios para beneficio de los habitantes del fraccionamiento social progresivo o del centro de población, a través del Fideicomiso de Obras correspondiente.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2023)</small>
 
 ### CAPÍTULO OCTAVO. DE LAS SUBDIVISIONES, FUSIONES Y RELOTIFICACIONES
 
 ###### Artículo 242.
 
-Se entenderá por subdivisión de un predio:
-
-I. La división del mismo en dos o más partes, donde los lotes resultantes cumplen con las dimensiones mínimas establecidas;
-
-II. La división de un predio urbano en las partes resultantes de la apertura o prolongación de calles u otras obras públicas autorizadas por las autoridades estatales y municipales, y
-
-III. La división de la copropiedad y la correspondiente a predios con fines de adjudicación en juicios sucesorios.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 243.
 
-En zonas no urbanizables fuera de los centros de población, la subdivisión de predios se regirá por esta Ley o por la Ley Agraria según corresponda.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 244.
 
-En ningún caso, salvo en aquellos previstos en esta ley se permitirá la subdivisión de predios:
-
-I. Cuando los lotes o fracciones resultantes sean menores de 105.00 metros cuadrados y 6.00 metros de frente mínimo, excepto cuando se trate de fraccionamientos, locales o establecimientos comerciales, en cuyo caso se estará a lo dispuesto en los artículos 231 al 234 del presente ordenamiento;
-
-II. Cuando se afecten las medidas de los lotes tipos de los distintos fraccionamientos;
-
-III. Cuando los lotes resultantes no cuenten con acceso a una vía pública existente o con servidumbre de paso adecuada a juicio de la autoridad, y con servicios municipales;
-
-IV. Cuando por esta acción se deteriore o altere algún bien y área de protección al patrimonio natural y cultural edificado del Estado, y
-
-V. Los predios suburbanos para uso agropecuario podrán subdividirse siempre y cuando las fracciones resultantes sean de mínimo 10,000 metros cuadrados.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 245.
 
-Se entiende por fusión de predios, el acto mediante el cual dos o más que estén contiguos se conviertan en uno solo.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 246.
 
-Se entiende por relotificación, al acto mediante el cual dos o más lotes de un fraccionamiento modifican sus dimensiones originalmente autorizadas sin modificar la densidad de población.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 247.
 
-La autorización de subdivisiones, fusiones y relotificaciones será otorgada por el Ayuntamiento por conducto de la Dirección Municipal de Desarrollo Urbano y Ecología, de conformidad con los Programas de ordenamiento territorial y desarrollo urbano, y los reglamentos de zonificación aplicables y las disposiciones de esta Ley.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 248.
 
-Para la autorización de subdivisiones, fusiones y relotificaciones, el interesado deberá cumplir con los requisitos siguientes:
-
-I. Solicitud por escrito acompañada de un croquis de los predios involucrados con la intención de su uso, referencia a la zona donde se ubiquen y la propuesta de fusión, subdivisión o relotificación;
-
-II. El uso o destino actual del predio;
-
-III. Constancia de alineamiento y el número oficial del predio original;
-
-IV. Títulos que acrediten la propiedad y posesión de terrenos, debidamente inscritos en el Registro Público de la Propiedad y del Comercio;
-
-V. Constancia de estar al corriente en el pago de impuestos y derecho;
-
-VI. Estudio de factibilidad de servicios de agua potable y alcantarillado;
-
-VII. Dictamen de uso o vocación del suelo, y
-
-VIII. Pago de los derechos correspondientes.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 249.
 
-El ayuntamiento a través de la autoridad municipal en materia de desarrollo urbano, otorgará o negará la autorización de fusión, subdivisión o relotificación con fundamento en los dictámenes correspondientes y expedirá, en su caso, la licencia o permiso correspondiente, procediendo a informar a la Dirección de Catastro del Ayuntamiento respectivo y a la Dirección General de Catastro del Estado para los efectos de ley que correspondan.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ## TÍTULO SÉPTIMO. DE LAS CONSTRUCCIONES, INFRAESTRUCTURA, EQUIPAMIENTO Y SERVICIOS URBANOS
 
@@ -3259,31 +2677,23 @@ El Ayuntamiento al emitir la autorización, licencia o permiso dará vista al In
 
 Las instituciones, organismos o dependencias de la Federación, el Estado y los Municipios que realicen alguna de las obras a que se refiere el párrafo anterior no quedan exentas de cumplir con dicho requisito, deberán solicitar y obtener el permiso del Ayuntamiento y pagar los derechos correspondientes, salvo convenio en contrario que al efecto se celebre.
 
-La licencia o permiso de construcción, reparación, ampliación, modificación, reconstrucción, restauración o demolición, se ajustará a lo dispuesto en esta Ley, el Reglamento de Construcciones del Municipio, y demás disposiciones jurídicas y especificaciones técnicas aplicables.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
+
+La licencia o permiso de construcción, reparación, ampliación, modificación, reconstrucción, restauración o demolición, se ajustará a lo dispuesto en esta Ley, Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit, el Reglamento de Construcciones del Municipio, y demás disposiciones jurídicas y especificaciones técnicas aplicables.
 
 Si se tratase de inmuebles catalogadas (sic) por leyes federales se requerirá previamente de la autorización de las instituciones federales correspondientes en términos de la legislación federal respectiva. Por otra parte, si se tratase de alguna intervención sobre algún bien y área de protección al patrimonio natural y cultural edificado del Estado se requerirá previamente de la autorización de las instituciones estatales correspondientes.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
+
 ###### Artículo 251.
 
-La tramitación de las licencias a que se refiere el artículo anterior, se hará en una ventanilla única y se extenderá en un solo formato que comprenderá el alineamiento y el número oficial, las construcciones y el uso específico del suelo, la constancia de compatibilidad urbanística y si es el caso, el resolutivo en materia de impacto ambiental, la ocupación temporal de la vía pública, las conexiones de agua potable y drenaje a las redes municipales, y las demoliciones y excavaciones en su caso, debiendo exhibir el solicitante los documentos siguientes:
+La tramitación de las licencias a que se refiere el artículo anterior, se hará en una ventanilla única y se extenderá en los términos de la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit.
 
-I. Solicitud por escrito en la forma autorizada por el Ayuntamiento;
-
-II. Título o constancia de propiedad o arrendamiento;
-
-III. Los proyectos arquitectónicos, estructurales y de instalaciones, y las memorias correspondientes con la responsiva otorgada por un perito responsable inscrito en el registro respectivo;
-
-IV. El recibo o los recibos de pago de los derechos correspondientes;
-
-V. Dictamen de compatibilidad de los usos o vocación del suelo, y
-
-VI. La autorización de subdivisión de inmuebles, en su caso.
-
-Cuando así lo soliciten los interesados, podrán otorgarse autorizaciones específicas para los fines arriba señalados.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
 
 ###### Artículo 252.
 
-Los proyectos para las edificaciones deberán cumplir con los requisitos establecidos por esta Ley, los Programas de ordenamiento territorial y desarrollo urbano, el reglamento de construcciones respectivo y las especificaciones técnicas que sobre la materia apruebe el Ayuntamiento. Dichos proyectos serán analizados por la dependencia municipal competente para su aprobación, la cual tomará en cuenta el uso para el cual se destinarán las construcciones, la densidad de estas, las restricciones y afectaciones legales, los requisitos de seguridad estructural y el lugar de su ubicación.
+Los proyectos para las edificaciones deberán cumplir con los requisitos establecidos por esta Ley, la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit, los Programas de ordenamiento territorial y desarrollo urbano, el reglamento de construcciones respectivo y las especificaciones técnicas que sobre la materia apruebe el Ayuntamiento. Dichos proyectos serán analizados por la dependencia municipal competente para su aprobación, la cual tomará en cuenta el uso para el cual se destinarán las construcciones, la densidad de estas, las restricciones y afectaciones legales, los requisitos de seguridad estructural y el lugar de su ubicación.
 
 ###### Artículo 253.
 
@@ -3309,7 +2719,7 @@ Los proyectos y ejecución de obras y edificaciones, deberán realizarse por una
 
 ###### Artículo 255.
 
-La expedición de licencia de construcción no requerirá de la responsiva de perito, cuando se trate de edificaciones destinadas a la vivienda progresiva cuya superficie no exceda 45 metros cuadrados.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 256.
 
@@ -3317,19 +2727,23 @@ El Ayuntamiento no expedirá licencias de construcción en los fraccionamientos 
 
 ###### Artículo 257.
 
-Los Ayuntamientos por conducto de la autoridad municipal en materia de desarrollo urbano, podrán ordenar en todo tiempo las visitas de inspección que se estimen convenientes a los trabajos de edificación, a efecto de comprobar que los mismos se están llevando a cabo conforme a los planos y especificaciones autorizadas y las demás disposiciones jurídicas aplicables. De no ajustarse a tales definiciones, se dispondrán las modificaciones necesarias o se ordenará la suspensión de las obras y se impondrán a los propietarios o responsables de las mismas las sanciones correspondientes.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 258.
 
-Para el cumplimiento y observancia del artículo anterior, en los poblados distantes a las cabeceras municipales, los delegados municipales desempeñarán las funciones que dicho artículo atribuye a los Ayuntamientos.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
 
 ###### Artículo 259.
 
-El Reglamento de construcción del Municipio, deberá contener normas de accesibilidad universal y diseño incluyente, en particular en edificios y espacios abiertos para actividades públicas.
+El Reglamento de construcción del Municipio, deberá contener normas de accesibilidad universal y diseño incluyente, en particular en edificios y espacios abiertos para actividades públicas, de conformidad con la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit y su Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2023)</small>
 
 ###### Artículo 260.
 
-Queda estrictamente prohibido a los Ayuntamientos, otorgar permisos, licencias o autorizaciones de construcción en contravención a las leyes, los planes de ordenamiento territorial y desarrollo urbano, así como las declaratorias y otras disposiciones reglamentarias aplicables, particularmente en las zonas que a continuación se describen:
+Queda estrictamente prohibido a los Ayuntamientos, otorgar permisos, licencias o autorizaciones de construcción en contravención a la Ley de Fraccionamientos y Acciones de Urbanización del Estado de Nayarit, a las leyes, los planes de ordenamiento territorial y desarrollo urbano, así como las declaratorias y otras disposiciones reglamentarias aplicables, particularmente en las zonas que a continuación se describen:
 
 I. En predios o áreas destinadas a actividades agropecuarias de uso intensivo en las cuales queda vedada cualquier forma de urbanización, excepto aquellas necesarias para su explotación o giro;
 
@@ -4010,3 +3424,11 @@ D A D O en la Sala de Sesiones “Lic. Benito Juárez García” recinto oficial
 Dip. Leopoldo Domínguez González, Presidente.- Rúbrica.- Dip. Margarita Morán Flores, Secretaria.- Rúbrica.- Dip. Marisol Sánchez Navarro, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los treinta días del mes de diciembre de dos mil diecinueve.- L.C. ANTONIO ECHEVARRÍA GARCÍA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Antonio Serrano Guzmán.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
