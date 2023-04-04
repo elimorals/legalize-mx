@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-personas-adultas-mayores-para-el-19170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2022-08-22"
+last_updated: "2023-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2000.
 
@@ -189,9 +189,9 @@ I.- Tener acceso a toda la información gerontológica disponible, para incremen
 
 II.- Recibir de manera oportuna orientación jurídica y social, por parte de los "SEDIF" o "SMDIF" quienes, en forma conjunta con otros organismos públicos y privados, implementarán programas de atención para las personas adultas mayores y proporcionarán la información adecuada para realizar los trámites de su jubilación;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
 
-III.- Vivir con decoro, honor y respeto, libres de cualquier forma de violencia física, verbal, económica o psicológica que ponga en peligro su vida, salud y/o patrimonio;
+III.- Vivir con decoro, honor y respeto, libres de cualquier forma de violencia física, verbal, patrimonial, sexual, institucional, económica o psicológica que ponga en peligro su vida, salud, integridad y/o patrimonio;
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2015)</small>
 
@@ -295,9 +295,9 @@ X.- Promover y gestionar en colaboración con las dependencias o entidades compe
 
 XI.- Darles a conocer, así como a la sociedad en general, el contenido de la presente Ley y de otras disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
 
-XII.- Desarrollar acciones tendientes a combatir la violencia de cualquier tipo en contra de los adultos mayores, a través de los programas y políticas que para tal efecto se establezcan; y
+XII.- Desarrollar acciones tendientes a combatir el abandono y la violencia de cualquier tipo en contra de las personas adultas mayores, a través de los programas y políticas que para tal efecto se establezcan; y
 
 > <small>(ADICIONADA, P.O. 24 DE JULIO DE 2019)</small>
 
@@ -718,6 +718,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 22 DE AGOSTO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III Y XVII DEL ARTÍCULO 4; Y ADICIONA LAS FRACCIONES XVIII, XIX Y XX AL ARTÍCULO 4 DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III DEL ARTÍCULO 4 Y XII DEL 6 DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
