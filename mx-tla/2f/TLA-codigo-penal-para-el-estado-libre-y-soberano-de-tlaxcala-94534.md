@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2023-03-02"
+last_updated: "2023-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -2301,13 +2301,13 @@ A quien quebrante, los sellos puestos por orden de la autoridad competente, se l
 
 Se sancionará con las mismas penas, al titular, propietario o responsable de un establecimiento mercantil o de la construcción de obra que se encuentre en estado de clausura, que realice actos de comercio, construcción o prestación de un servicio, aun cuando los sellos permanezcan intactos.
 
-### CAPÍTULO V. ULTRAJES A LA AUTORIDAD
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
+### CAPÍTULO V. ULTRAJES A LA AUTORIDAD
 
 ###### Artículo 183.
 
-A quien ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá de tres meses a un año de prisión y multa de dieciocho a setenta y dos veces el valor de la Unidad de Medida y Actualización.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ### CAPÍTULO VI. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
@@ -5780,6 +5780,18 @@ Se derogan todas aquellas disposiciones que se opongan al contenido del presente
 P.O. 2 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 210.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 4 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 214.- SE DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO".]
 
 ###### ARTÍCULO PRIMERO.
 
