@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-planeacion-del-estado-de-nayarit-136930"
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-29"
-last_updated: "2022-09-27"
+last_updated: "2023-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
 
 Ley publicada en la Sección Cuarta al Número 104 del Periódico Oficial del Estado de Nayarit, el miércoles 29 de mayo de 2019.
 
@@ -61,19 +61,33 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Consejos Consultivos Ciudadanos Regionales: Son los integrados por Municipios del Estado de la siguiente manera:
 
-a) Región Norte.- Acaponeta, Tecuala y Huajicori;
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
 
-b) Región Costa.- Del Nayar, Ruíz, Rosamorada, Tuxpan y Santiago Ixcuintla;
+a) Región Norte. - Acaponeta, Rosamorada, Tuxpan y Ruiz;
 
-c) Región Centro.- Santa María del Oro, Tepic y Xalisco;
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
 
-d) Región Costa Sur.- San Blas, Compostela, Bahía de Banderas y San Pedro Lagunillas, y
+b) Región Costa Norte. - San Blas, Santiago Ixcuintla y Tecuala;
 
-e) Región Sur.- La Yesca, Jala, Ixtlán del Río, Amatlán de Cañas y Ahuacatlán.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
+
+c) Región Centro. - Tepic y Xalisco;
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
+
+d) Región Sierra. - Huajicori, La Yesca y Del Nayar;
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
+
+e) Región Costa Sur. - Compostela y Bahía de Banderas, y
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2023)</small>
+
+f) Región Sur. - Amatlán de Cañas, Ahuacatlán, Jala, Ixtlán del Río, Santa María del Oro y San Pedro Lagunillas.
 
 II. Estado: El Estado Libre y Soberano de Nayarit;
 
-III. Gran Plan: Gran Plan Estatal de Desarrollo con visión estratégica de largo plazo;
+III. (DEROGADA, P.O. 4 DE ABRIL DE 2023)
 
 IV. IPLANAY: El Instituto de Planeación del Estado (sic) Nayarit;
 
@@ -81,7 +95,9 @@ V. Institutos Municipales: Los Institutos Municipales de Planeación en la Entid
 
 VI. Ley: La Ley de Planeación del Estado de Nayarit;
 
-VII. Programa de Gobierno: es el instrumento de planeación estatal o municipal que contiene los objetivos, estrategias y metas que sirvan de base para las actividades del Poder Ejecutivo del Estado y de los municipios;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
+
+VII. Plan Estatal de Desarrollo con visión estratégica: es el documento rector en el que se define la visión estratégica a largo plazo de las distintas políticas para el desarrollo integral del Estado de Nayarit;
 
 VIII. Secretaría: La Secretaría de Desarrollo Sustentable;
 
@@ -277,13 +293,23 @@ XX. Promover en forma permanente actividades de investigación y capacitación p
 
 XXI. Analizar y proponer al Gobernador del Estado los proyectos de Leyes, Decretos, Reglamentos, Convenios y demás disposiciones o instrumentos legales relativos a la planeación estatal, así como a la promoción del desarrollo integral del Estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
 
-XXII. Participar en la elaboración de la Agenda Digital, y
+XXII. Participar en la elaboración de la Agenda Digital;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE JUNIO DE 2022)</small>
+(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XXIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XXIII. Las demás que le otorgue la Junta de Gobierno, las Leyes, los Reglamentos y demás disposiciones aplicables.
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ABRIL DE 2023)</small>
+
+XXIII. EMITIR EN SU CASO EL DICTAMEN DE PROCEDENCIA DE FRACCIONAMIENTOS, Y
+
+(NOTA: EL 11 DE MARZO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 336/2023, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XXIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MARZO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+XXIV. LAS DEMÁS QUE LE OTORGUE LA JUNTA DE GOBIERNO, LAS LEYES, LOS REGLAMENTOS Y DEMÁS DISPOSICIONES APLICABLES.
 
 ###### Artículo 16.
 
@@ -629,11 +655,13 @@ IV. Conformar los Consejos Consultivos Ciudadanos Regionales, de conurbación o 
 
 El Sistema de Planeación contará al menos con los siguientes instrumentos de Planeación para el Estado:
 
-I. Gran Plan Estatal de Desarrollo con visión estratégica de largo plazo;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
+
+I. Plan Estatal de Desarrollo con visión estratégica de largo plazo;
 
 II. Plan Estatal en materia de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Ecológico Territorial;
 
-III. Programa de Gobierno con vigencia equivalente al periodo de gobierno del Poder Ejecutivo del Estado;
+III. (DEROGADA, P.O. 4 DE ABRIL DE 2023)
 
 IV. Programas de desarrollo regional y/o metropolitano;
 
@@ -665,33 +693,33 @@ V. Programas presupuestarios anuales, y
 
 VI. La Agenda Digital Municipal.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
+
 ###### Artículo 46.
 
-El Gran Plan y los planes municipales de desarrollo, contendrán los objetivos y estrategias sectoriales, especiales y regionales para el desarrollo de la entidad y los municipios por un periodo de al menos veinticinco años; para su formulación el IPLANAY y los institutos municipales deberán establecer el proceso metodológico y consultivo, y concluir su evaluación y actualización en el penúltimo año de la administración en turno, con la finalidad de entregar las bases para los programas de gobierno de las siguientes administraciones.
+El Plan Estatal de Desarrollo y los planes municipales de desarrollo, contendrán los objetivos y estrategias sectoriales, especiales y regionales para el desarrollo de la entidad y los municipios por un periodo de al menos veinticinco años; para su formulación el IPLANAY y los institutos municipales deberán establecer el proceso metodológico y consultivo, y concluir su evaluación y actualización en el penúltimo año de la administración en turno, con la finalidad de entregar las bases para los programas de gobierno de las siguientes administraciones.
 
-El Gran Plan deberá ser aprobado por la Junta de Gobierno del IPLANAY, y por el titular del Ejecutivo del Estado; los planes municipales de desarrollo por las Juntas de Gobierno de los Institutos Municipales y por los Ayuntamientos.
+El Plan Estatal de Desarrollo deberá ser aprobado por la Junta de Gobierno del IPLANAY, y por el titular del Ejecutivo del Estado; los planes municipales de desarrollo por las Juntas de Gobierno de los Institutos Municipales y por los Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
 
 ###### Artículo 47.
 
-Los Programas de Gobierno Estatal y Municipal contendrán los objetivos, estrategias y metas que sirvan de base a las actividades del Poder Ejecutivo del Estado y de los Municipios, de forma que aseguren el cumplimiento del Gran Plan y los planes municipales de Desarrollo.
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+Los Programas de Gobierno Municipal contendrán los objetivos, estrategias y metas que sirvan de base a las actividades del Poder Ejecutivo del Estado y de los Municipios, de forma que aseguren el cumplimiento del Plan Estatal de Desarrollo y los planes municipales de Desarrollo.
 
 ###### Artículo 48.
 
-El Programa de Gobierno del Estado deberá ser coordinado en su elaboración por el IPLANAY con la participación de las Dependencias y Entidades del Poder Ejecutivo, con la coordinación y asesoría del IPLANAY, y deberá ser aprobado por la Junta de Gobierno del IPLANAY y el Gobernador del Estado dentro de los primeros setenta y cinco días de su gestión. El Programa de Gobierno se actualizará, en su caso, cuando por condiciones específicas de carácter estratégico, se considere necesario, para lo cual, deberá seguirse el mismo proceso consultivo, que se llevó a cabo en su elaboración.
+(DEROGADO, P.O. 4 DE ABRIL DE 2023)
 
 ###### Artículo 49.
 
 Los Programas de Gobierno de los municipios, deberán ser elaborados con la coordinación de los Institutos Municipales y aprobados por las Juntas de Gobierno de los institutos municipales y por los Ayuntamientos, dentro del plazo que marca la Ley Municipal para el Estado de Nayarit; y se actualizarán de ser necesario, con el mismo proceso que se llevó a cabo en su elaboración.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
 
 ###### Artículo 50.
 
-El Gran Plan y el Programa de Gobierno del Estado, deberán ser remitidos en versión física o digital, al Congreso del Estado por el Titular del Poder Ejecutivo, para su conocimiento.
-
-Dichos documentos tendrán valor histórico, por lo que deberán ser transferidos en original, de conformidad con su ciclo vital, al Archivo Histórico.
+El Plan Estatal de Desarrollo, deberá ser remitido en versión física o digital, al Congreso del Estado por el Titular del Poder Ejecutivo, para su conocimiento. Dicho documento tendrá valor histórico, por lo que deberán ser transferidos en original, de conformidad con su ciclo vital, al Archivo Histórico.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2022)</small>
 
@@ -703,13 +731,17 @@ Dichos documentos tendrán valor histórico, por lo que deberán ser transferido
 
 Asimismo, en el mismo plazo serán publicados en la página oficial de cada Ayuntamiento y en sus respectivas Gacetas Municipales.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
+
 ###### Artículo 52.
 
-El Programa de Gobierno del Estado y de los municipios indicará los programas sectoriales, especiales, regionales e institucionales, los cuales deberán ser elaborados con la coordinación y asesoría del IPLANAY y los institutos municipales, por las dependencias de la administración pública estatal y municipal.
+Los programas de los municipios indicarán los programas sectoriales, especiales, regionales e institucionales, los cuales deberán ser elaborados con la coordinación y asesoría del IPLANAY y los institutos municipales, por las dependencias de la administración pública estatal y municipal.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
 
 ###### Artículo 53.
 
-Los programas referidos en el artículo anterior, se aprobarán por la Junta de Gobierno del IPLANAY y por el titular del Poder Ejecutivo del Estado, y por las Juntas de Gobierno de los institutos municipales y por los Ayuntamientos, respectivamente.
+Los programas referidos en el artículo anterior, se aprobarán por las Juntas de Gobierno de los institutos municipales y por los Ayuntamientos, respectivamente.
 
 ###### Artículo 54.
 
@@ -731,9 +763,11 @@ Los programas institucionales serán asesorados por el IPLANAY y la Secretaría,
 
 La Secretaría de Administración y Finanzas establecerá con las Dependencias correspondientes el sistema de programación del gasto público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2023)</small>
+
 ###### Artículo 58.
 
-El IPLANAY deberá elaborar los programas regionales para impulsar el desarrollo de cada región de la Entidad en función de los objetivos, estrategias y metas de desarrollo establecidas en el Gran Plan y coherentes con el Programa de Gobierno del Estado.
+El IPLANAY deberá elaborar los programas regionales para impulsar el desarrollo de cada región de la Entidad en función de los objetivos, estrategias y metas de desarrollo establecidas en el Plan Estatal de Desarrollo.
 
 En la elaboración de los programas regionales deberán participar los municipios de la región correspondiente a efecto de que se tomen en consideración sus necesidades y propuestas de solución.
 
@@ -749,17 +783,21 @@ Los instrumentos de planeación en materia de desarrollo urbano, del Estado, mun
 
 Una vez aprobados los planes y programas del Sistema de Planeación por la Junta de Gobierno del IPLANAY y el titular del Ejecutivo del Estado y las Juntas de Gobierno de los institutos municipales y por los Ayuntamientos en el ámbito de sus respectivas competencias, se publicarán en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2023)</small>
+
 ###### Artículo 62.
 
-Las Dependencias y Entidades de la Administración Pública Estatal y municipal elaborarán programas y presupuestos anuales que deberán ser congruentes con el Gran Plan y programas de los que se derivan.
+Las Dependencias y Entidades de la Administración Pública Estatal y municipal elaborarán programas y presupuestos anuales que deberán ser congruentes con el Plan Estatal de Desarrollo y los programas de los que se derivan.
 
 Los programas operativos anuales regirán las actividades de cada una de ellas y serán la base para la integración de sus respectivos Presupuesto de Egresos para el ejercicio fiscal correspondiente.
 
 La integración, seguimiento, evaluación y actualización de los programas presupuestarios deberán atenerse a la metodología, alcance y cronograma que establezca para tal fin la Secretaría.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2023)</small>
+
 ###### Artículo 63.
 
-El Gran Plan, el Programa de Gobierno y los programas derivados serán obligatorios para las Dependencias y Entidades del Poder Ejecutivo; misma situación que debe observarse a nivel municipal.
+El Plan Estatal de Desarrollo, y los programas derivados serán obligatorios para las Dependencias y Entidades del Poder Ejecutivo; misma situación que debe observarse a nivel municipal.
 
 ###### Artículo 64.
 
@@ -904,3 +942,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Poder Ejecutivo Estatal y los Ayuntamientos del Estado, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán realizar las reformas y adecuaciones a los reglamentos correspondientes, a fin de armonizarlos con lo dispuesto en el presente Decreto.
 
 TERCERO. Comuníquese el presente Decreto, al Titular del Poder Ejecutivo Estatal y a los veinte Ayuntamientos del Estado, para los efectos conducentes.
+
+P.O. 4 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el (sic)
+
+(sic) Periódico Oficial Órgano del Gobierno del Estado de Nayarit
