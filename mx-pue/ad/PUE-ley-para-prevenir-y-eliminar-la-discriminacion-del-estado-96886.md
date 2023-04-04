@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-prevenir-y-eliminar-la-discriminacion-del-estado-96886
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-27"
-last_updated: "2022-04-19"
+last_updated: "2023-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 27 de noviembre de 2013.
 
@@ -321,7 +321,9 @@ I. Promover y garantizar la igualdad de trato y acceso a oportunidades en los á
 
 II. Asegurar el acceso a los beneficios de disfrute de todos los servicios que presten los entes públicos;
 
-III. Sensibilizar y capacitar a los servidores públicos, en materia de no discriminación, equidad de género, igualdad de oportunidades y respeto a la diversidad, la identidad y expresión de género;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2023)</small>
+
+III. Sensibilizar y capacitar a los servidores públicos, en materia de no discriminación por origen étnico o nacional, de género, edad, discapacidades, condición social, de salud, religión, opiniones, preferencias sexuales, identidad y expresión de género, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 IV. Sensibilizar y capacitar al personal de procuración y administración de justicia, seguridad pública, educación, salud y demás servidores, para que atiendan a víctimas que sufran cualquier tipo de discriminación;
 
@@ -572,5 +574,13 @@ P.O. 19 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XXXVII Y XXXVIII DEL ARTÍCULO 6 BIS; Y SE ADICIONA LA FRACCIÓN XXXIX AL ARTÍCULO 6 BIS DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 16 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
