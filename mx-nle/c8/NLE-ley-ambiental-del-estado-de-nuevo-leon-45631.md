@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2022-10-14"
+last_updated: "2023-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -1101,9 +1101,35 @@ V. Incluir la política de promoción del desarrollo basado en el conocimiento, 
 
 VI. Incorporar variables o parámetros ecológicos en la planeación y promoción del desarrollo, para que éste sea equilibrado y sustentable.
 
-#### SECCIÓN IV. INSTRUMENTOS ECONÓMICOS
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE ABRIL DE 2023)</small>
 
-#### SECCIÓN V. REGULACIÓN AMBIENTAL DE LOS ASENTAMIENTOS HUMANOS Y DEL DESARROLLO URBANO
+#### SECCIÓN III BIS. CIUDADES VERDES
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2023)</small>
+
+###### Artículo 30 Bis.
+
+Los Municipios que lleven a cabo de manera constante acciones, programas, planes o mecanismos que ayuden a reducir la contaminación, podrán tener la distinción de “Ciudad Verde”, dicho reconocimiento será otorgado por la Secretaria previa evaluación del Consejo de Participación Ciudadana.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2023)</small>
+
+###### Artículo 30 Bis 1.
+
+Para efecto de la obtención de la distinción “ciudad verde”, los Municipios podrán realizar su solicitud a la Secretaría, esta a su vez, deberá enviarla al consejo de participación ciudadana para efecto de evaluar que cumplan por lo menos con los siguientes aspectos:
+
+I. Que lleven a cabo acciones o programas tendientes a la protección del arbolado urbano de su ciudad;
+
+II. Que lleven a cabo acciones o programas tendientes a la protección de los animales de compañía;
+
+III. Que lleven a cabo acciones o programas tendientes a impulsar la cultura del reciclaje;
+
+IV. Que lleven a cabo acciones o programas tendientes a impulsar la cultura del cuidado del agua;
+
+V. Que lleven a cabo acciones o programas tendientes a promover la cultura de la separación de la basura o del adecuado manejo de los residuos sólidos urbanos;
+
+VI. Que lleven a cabo acciones o programas tendientes a evitar el uso de los vehículos automotores.
+
+#### SECCIÓN IV. INSTRUMENTOS ECONÓMICOS
 
 ###### Artículo 31.
 
@@ -1151,9 +1177,7 @@ VII. En general, aquellas actividades relacionadas con la preservación, conserv
 
 Las autoridades correspondientes garantizarán el otorgamiento de estímulos fiscales, a los propietarios, poseedores o titulares de otros derechos sobre tierra, aguas y bosques comprendidos dentro de áreas naturales protegidas.
 
-#### SECCIÓN VI. EVALUACIÓN DEL IMPACTO AMBIENTAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+#### SECCIÓN V. REGULACIÓN AMBIENTAL DE LOS ASENTAMIENTOS HUMANOS Y DEL DESARROLLO URBANO
 
 ###### Artículo 34.
 
@@ -1201,7 +1225,7 @@ VII. La regulación ambiental de los fraccionamientos, la vialidad y el transpor
 
 VIII. La creación de áreas verdes mediante la delimitación del crecimiento urbano.
 
-#### SECCIÓN VII. NORMAS AMBIENTALES ESTATALES
+#### SECCIÓN VI. EVALUACIÓN DEL IMPACTO AMBIENTAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -1403,7 +1427,7 @@ La Secretaría podrá regularizar, de acuerdo a lo que señale el Reglamento de 
 
 Los Municipios podrán emitir, por sí mismos o a petición de la Secretaría, opiniones técnicas relativas a la obra o actividad de que se trate, durante el proceso de evaluación de impacto o riesgo ambiental que desarrolle la Secretaría, en términos de lo dispuesto en la presente Ley y su Reglamento.
 
-#### SECCIÓN VIII. INSTRUMENTOS DE AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES
+#### SECCIÓN VII. NORMAS AMBIENTALES ESTATALES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -1453,7 +1477,9 @@ Sólo se considerarán casos de emergencia aquellos en que se afecte la salud p�
 
 La Norma Ambiental Estatal deberá cumplir con lo dispuesto en el artículo 53, establecer la base científica o técnica que apoye su expedición y tener por objeto evitar daños irreparables o irreversibles.
 
-#### SECCIÓN IX. EDUCACIÓN AMBIENTAL Y FOMENTO A LA INVESTIGACIÓN
+#### SECCIÓN VIII. INSTRUMENTOS DE AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 57.
 
@@ -1517,9 +1543,7 @@ Asimismo, los responsables del funcionamiento de empresas interesadas en llevar 
 
 El Reglamento de la presente Ley determinará los procedimientos para dar cumplimiento a lo dispuesto en la presente Sección.
 
-#### SECCIÓN I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+#### SECCIÓN IX. EDUCACIÓN AMBIENTAL Y FOMENTO A LA INVESTIGACIÓN
 
 ###### Artículo 64.
 
@@ -1547,7 +1571,9 @@ El Estado y los Municipios fomentarán la investigación científica y promover�
 
 ### CAPÍTULO I. ÁREAS NATURALES PROTEGIDAS
 
-#### SECCIÓN II. TIPOS Y CARACTERÍSTICAS DE LAS ÁREAS NATURALES PROTEGIDAS
+#### SECCIÓN I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 68.
 
@@ -1583,7 +1609,7 @@ IX. Restaurar los ecosistemas que se encuentran degradados; y
 
 X. Asegurar la sustentabilidad integral a las actividades turísticas que se lleven a cabo.
 
-#### SECCIÓN III. DECLARATORIAS PARA EL ESTABLECIMIENTO, ADMINISTRACIÓN Y VIGILANCIA DE LAS ÁREAS NATURALES PROTEGIDAS
+#### SECCIÓN II. TIPOS Y CARACTERÍSTICAS DE LAS ÁREAS NATURALES PROTEGIDAS
 
 ###### Artículo 71.
 
@@ -1689,7 +1715,7 @@ El Consejo podrá invitar a sus sesiones a representantes de los gobiernos munic
 
 Las opiniones y recomendaciones que formule el Consejo, deberán ser consideradas por la Secretaría en el ejercicio de las facultades que en materia de áreas naturales protegidas le corresponden conforme a éste y otros ordenamientos jurídicos aplicables.
 
-#### SECCIÓN IV. SISTEMA ESTATAL DE ÁREAS NATURALES PROTEGIDAS
+#### SECCIÓN III. DECLARATORIAS PARA EL ESTABLECIMIENTO, ADMINISTRACIÓN Y VIGILANCIA DE LAS ÁREAS NATURALES PROTEGIDAS
 
 ###### Artículo 82.
 
@@ -1845,7 +1871,7 @@ Los notarios y cualquier otro fedatario público sólo podrán autorizar las esc
 
 Los ingresos que el Estado y los Municipios recauden por concepto del otorgamiento de permisos, autorizaciones y concesiones en materia de áreas naturales protegidas, conforme a las disposiciones fiscales aplicables, se destinarán a la realización de acciones de preservación y restauración de la biodiversidad y mantenimiento del equilibrio ecológico, dentro de las áreas en las que se generen dichos ingresos, de conformidad con los ordenamientos aplicables a la materia.
 
-#### SECCIÓN I. DISPOSICIONES GENERALES
+#### SECCIÓN IV. SISTEMA ESTATAL DE ÁREAS NATURALES PROTEGIDAS
 
 ###### Artículo 97.
 
@@ -2361,7 +2387,7 @@ En el ámbito de su competencia, la Secretaría deberá establecer los mecanismo
 
 ### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA Y DE LOS ECOSISTEMAS ACUÁTICOS
 
-#### SECCIÓN II. PREVENCIÓN Y CONTROL DE EMISIONES CONTAMINANTES GENERADAS POR FUENTES FIJAS
+#### SECCIÓN I. DISPOSICIONES GENERALES
 
 ###### Artículo 131.
 
@@ -2465,7 +2491,7 @@ III. Realicen investigaciones de tecnología cuya aplicación disminuya la gener
 
 IV. Reubiquen sus instalaciones para evitar emisiones contaminantes en zonas urbanas.
 
-#### SECCIÓN III. PREVENCIÓN Y CONTROL DE EMISIONES CONTAMINANTES GENERADOS POR FUENTES MÓVILES
+#### SECCIÓN II. PREVENCIÓN Y CONTROL DE EMISIONES CONTAMINANTES GENERADAS POR FUENTES FIJAS
 
 ###### Artículo 137.
 
@@ -2539,7 +2565,7 @@ III. La obligación de cumplir con las disposiciones de emisiones señaladas en 
 
 IV. Las demás que se especifiquen en el Reglamento de la presente Ley.
 
-#### SECCIÓN I. DERECHO A LA INFORMACIÓN AMBIENTAL
+#### SECCIÓN III. PREVENCIÓN Y CONTROL DE EMISIONES CONTAMINANTES GENERADOS POR FUENTES MÓVILES
 
 ###### Artículo 144.
 
@@ -3372,6 +3398,8 @@ V. Por haberse solucionado la denuncia ciudadana mediante el uso de Métodos
 Alternos para la Solución de Conflictos entre las partes; y
 
 VI. Por la emisión de una resolución derivada del procedimiento de inspección.
+
+#### SECCIÓN I. DERECHO A LA INFORMACIÓN AMBIENTAL
 
 ###### Artículo 212.
 
@@ -4292,3 +4320,11 @@ P.O. 14 DE OCTUBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Poder Ejecutivo del Estado y los Municipios en un término no mayor de 90 días hábiles contados a partir de la entrada en vigor del presente decreto, deberán emitir o adecuar sus Reglamentos y demás disposiciones correspondientes en los términos establecidos en la presente reforma.
+
+P.O. 5 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 360. SE ADICIONA UNA SECCIÓN III BIS, AL CAPÍTULO IV DEL TÍTULO PRIMERO, QUE CONTIENE LOS ARTÍCULOS 30 BIS Y 30 BIS 1, DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado deberá ajustar sus ordenamientos legales, para dar debido cumplimiento a este decreto en un término no mayor a 90 días naturales.
