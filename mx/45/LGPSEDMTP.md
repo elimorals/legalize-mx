@@ -4,7 +4,7 @@ identifier: "LGPSEDMTP"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-14"
-last_updated: "2021-05-20"
+last_updated: "2023-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88192&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPSEDMTP"
 
 LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ABRIL DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 14 de junio de 2012.
 
@@ -1362,6 +1362,10 @@ Las Autoridades Municipales y de las Demarcaciones Territoriales de la Ciudad de
 
 Las autoridades de procuración de justicia y policiales de los distintos órdenes de gobierno, procederán a la búsqueda inmediata de cualquier mujer, niña, niño o adolescente o cualquier persona que le sea reportado como extraviado, sustraído o ausente, librando una alerta general a todas las instancias de procuración de justicia y policiales en todo el territorio nacional y fuera de éste, así como al Instituto Nacional de Migración y a la Secretaría de Relaciones Exteriores para impedir que la persona reportada pueda ser sacada del país.
 
+> <small>(ADICIONADO, D.O.F. 5 DE ABRIL DE 2023)</small>
+
+Cuando la persona reportada sea niña, niño o adolescente, al momento de presentar la denuncia formal ante la autoridad competente y sin dilación alguna, además, se emitirá la Alerta Amber de conformidad con el Protocolo Nacional Amber México.
+
 ###### Artículo 106.
 
 Queda prohibida toda publicidad o inserciones pagadas en los medios de comunicación masiva de cualquier índole, que incluya en sus publicaciones anuncios de contacto sexual o que promueva la prostitución y la pornografía que pueda propiciar la trata de personas y demás delitos previstos en el presente ordenamiento.
@@ -1809,3 +1813,9 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 5 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 105 DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
