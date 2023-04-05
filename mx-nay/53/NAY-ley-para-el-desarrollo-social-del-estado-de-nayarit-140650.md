@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-el-desarrollo-social-del-estado-de-nayarit-140650"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-24"
-last_updated: "2020-01-24"
+last_updated: "2023-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el 24 de enero de 2020.
 
@@ -69,9 +69,17 @@ X. Fomentar la reconstrucción del tejido social con base en el orgullo de perte
 
 XI. Garantizar la transparencia y rendición de cuentas en la ejecución de los programas y aplicación de los recursos para el desarrollo social a través de mecanismos de supervisión, verificación, control y acceso a la información pública;
 
-XII. Fomentar el cuidado del medio ambiente, el aprovechamiento de los recursos naturales y la preservación de los ecosistemas para alcanzar la sustentabilidad del desarrollo y mejorar la calidad de vida y la productividad de las personas, y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2023)</small>
 
-XIII. Los demás que se deriven de otras leyes y ordenamientos legales y estén vinculados con los principios de la Política de desarrollo social.
+XII. Fomentar el cuidado del medio ambiente, el aprovechamiento de los recursos naturales y la preservación de los ecosistemas para alcanzar la sustentabilidad del desarrollo y mejorar la calidad de vida y la productividad de las personas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2023)</small>
+
+XIII. Diseñar e implementar una política digital que permita mejorar la comunicación y difusión de la información a las personas respecto a los programas sociales de los que se puedan beneficiar, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XIII], P.O. 5 DE ABRIL DE 2023)</small>
+
+XIV. Los demás que se deriven de otras leyes y ordenamientos legales y estén vinculados con los principios de la Política de desarrollo social.
 
 ###### Artículo 2.
 
@@ -177,9 +185,17 @@ XVI. Desarrollo humano: El proceso mediante el cual se generan, fomentan y forta
 
 XVII. Igualdad sustantiva: Mejora progresiva de la distribución de la riqueza, el ingreso y la propiedad, en el acceso al conjunto de los bienes públicos, en la capacidad de incidencia en las decisiones públicas y el abatimiento de las grandes desigualdades entre personas, familias, grupos sociales y ámbitos territoriales;
 
-XVIII. Derecho al desarrollo: Las personas constituyen el objetivo fundamental de las acciones relacionadas con el desarrollo integral y sostenible. El acceso al desarrollo es un derecho inalienable de la persona, y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2023)</small>
 
-XIX. Interés superior de la niñez: El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector.
+XVIII. Derecho al desarrollo: Las personas constituyen el objetivo fundamental de las acciones relacionadas con el desarrollo integral y sostenible. El acceso al desarrollo es un derecho inalienable de la persona;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2023)</small>
+
+XIX. Interés superior de la niñez: El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector, y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2023)</small>
+
+XX. Accesibilidad tecnológica: Se deberá promover la usabilidad de las tecnologías de la información para difundir y facilitar el acceso a los programas sociales.
 
 ###### Artículo 5.
 
@@ -217,7 +233,9 @@ I. Ser tratadas con respeto y dignidad;
 
 II. Participar y acceder a los Programas Sociales conforme a las reglas de operación que cada programa establezca;
 
-III. Recibir la información de los programas y servicios que promuevan la Secretaría, dependencias, entidades y los municipios, así como de aquellos que la federación aplique en el estado;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2023)</small>
+
+III. Recibir la información de los programas y servicios que promuevan la Secretaría, dependencias, entidades y los municipios, así como de aquellos que la federación aplique en el estado, para lo cual, podrán utilizarse los medios digitales que sean adecuados al programa y a las personas destinatarias;
 
 IV. Cuando se trate de personas adultas mayores y personas con discapacidad motriz recibirán la información en sus domicilios;
 
@@ -313,9 +331,17 @@ XI. Elaborar las Reglas de Operación de los Programas Sociales de la Secretarí
 
 XII. Coordinarse de manera permanente con (sic) para atender lo relacionado a las necesidades en materia social de los municipios de Nayarit;
 
-XIII. Crear, implementar, ejecutar, supervisar, modificar, y regular normativamente los programas, proyectos y acciones de su competencia, necesarios para garantizar el respeto e incorporación de los derechos sociales, y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2023)</small>
 
-XIV. Las demás que emanen de la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit y otras disposiciones aplicables.
+XIII. Crear, implementar, ejecutar, supervisar, modificar, y regular normativamente los programas, proyectos y acciones de su competencia, necesarios para garantizar el respeto e incorporación de los derechos sociales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2023)</small>
+
+XIV. Promover el uso de los medios digitales y de las tecnologías de la información en general, para difundir y facilitar el acceso de las personas a los programas sociales, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XIV], P.O. 5 DE ABRIL DE 2023)</small>
+
+XV. Las demás que emanen de la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit y otras disposiciones aplicables.
 
 ###### Artículo 13.
 
@@ -339,9 +365,17 @@ VIII. Impulsar prioritariamente la prestación de servicios públicos en las com
 
 IX. Fomentar la participación de instituciones y asociaciones civiles, académicas y de investigación en la planeación, ejecución y evaluación de la Política Municipal de Desarrollo Social;
 
-X. Vigilar que los recursos públicos que se destinan al desarrollo social se ejerzan con honradez, transparencia y equidad, y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2023)</small>
 
-XI. Las demás que señalen las disposiciones legales aplicables.
+X. Vigilar que los recursos públicos que se destinan al desarrollo social se ejerzan con honradez, transparencia y equidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2023)</small>
+
+XI. Promover el uso de las tecnologías de la información, así como, de cualquier medio digital para facilitar el acceso de las personas a los programas sociales, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XI], P.O. 5 DE ABRIL DE 2023)</small>
+
+XII. Las demás que señalen las disposiciones legales aplicables.
 
 ### CAPÍTULO CUARTO. POLÍTICA ESTATAL Y MUNICIPAL DE DESARROLLO SOCIAL
 
@@ -661,6 +695,10 @@ La persona titular del Poder Ejecutivo garantizará suficiencia presupuestaria p
 
 Para los programas sociales, la Secretaría, cada dependencia y entidades, en el ámbito de su competencia, expedirá Reglas de Operación claras, en donde se consideren los lineamientos, y mecanismos de supervisión y control de tales programas y las sanciones a que hubiere lugar para los beneficiarios.
 
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2023)</small>
+
+La información señalada en el párrafo anterior, deberá difundirse a través de los medios digitales que sean más adecuados para el lugar y para las personas destinatarias del programa social.
+
 ###### Artículo 48.
 
 Las Reglas de Operación a que se refiere el artículo anterior serán elaboradas sin menoscabo de mezcla de recursos que se destinaren para los programas sociales reconocidos en esta Ley.
@@ -672,6 +710,10 @@ En un plazo de cinco días a partir de la publicación, la Secretaría, cada dep
 ###### Artículo 49.
 
 Los municipios, deberán elaborar y publicar en su gaceta municipal u órgano oficial de difusión, las reglas de operación de los programas de desarrollo social municipales que vayan a implementar, así como los programas de desarrollo social estatales y federales de los que puedan ser beneficiados sus habitantes y los montos y distribución de los recursos que les fueron entregados para la implementación de estos programas.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2023)</small>
+
+Las reglas de operación y la información general de los programas sociales, podrá difundirse a través de los medios digitales que sean adecuados.
 
 ###### Artículo 50.
 
@@ -1000,3 +1042,11 @@ D A D O en la Sala de Sesiones “Lic. Benito Juárez García” recinto oficial
 Dip. Leopoldo Domínguez González, Presidente.- Rúbrica.- Dip. Margarita Morán Flores, Secretaria.- Rúbrica.- Dip. Marisol Sánchez Navarro, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veinticuatro días del mes de enero de dos mil veinte.- L.C. ANTONIO ECHEVARRÍA GARCÍA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Antonio Serrano Guzmán.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE NAYARIT, EN MATERIA DE POLÍTICA DIGITAL PARA LA DIFUSIÓN DE LOS PROGRAMAS SOCIALES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
