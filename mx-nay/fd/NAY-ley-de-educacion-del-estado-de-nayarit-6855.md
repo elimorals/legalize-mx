@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2022-10-07"
+last_updated: "2023-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -241,9 +241,13 @@ XIV.- Impulsar actitudes que incentiven la investigación y la innovación cient
 
 XV.- Promover la coordinación efectiva con las autoridades competentes de los tres órdenes de gobierno, así como con organizaciones sociales para el cumplimiento de las disposiciones antes citadas, en aras de lograr educación con calidad, entendiéndose por ésta la congruencia entre los objetivos, resultados y procesos del sistema educativo, conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE ABRIL DE 2023)</small>
 
-XVI.- Promover el respeto irrestricto de la dignidad humana, como valor fundamental e inalterable de la persona y de la sociedad, a partir de una formación humanista que contribuya a la mejor convivencia social en un marco de respeto por los derechos de todas las personas y la integridad de las familias, el aprecio por la diversidad y la corresponsabilidad con el interés general;
+XVI.- Promover y difundir los derechos humanos y el respeto irrestricto de la dignidad humana, como valor fundamental e inalterable de la persona y de la sociedad, a partir de una formación humanista que contribuya a la mejor convivencia social en un marco de respeto por los derechos de todas las personas, especialmente de las minorías, de las personas adultas mayores y de las personas con discapacidad, inculcando valores y actitudes de participación, no discriminación, tolerancia y pluralidad, fomentando el respeto a las diferencias, así como la integridad de las familias, el aprecio por la diversidad y la corresponsabilidad con el interés general.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2023)</small>
+
+En ese mismo marco del respeto hacia las personas adultas mayores, fomentar una cultura de la vejez, envejecimiento activo y saludable, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultas mayores;
 
 > <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -1878,3 +1882,9 @@ P.O. 7 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LAS FRACCIONES XLIII Y XLIV DEL ARTÍCULO 9°, Y SE ADICIONA LA FRACCIÓN XLV DEL ARTÍCULO 9° DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE ORIENTACIÓN VOCACIONAL Y PROFESIONAL".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Estado de Nayarit.
+
+P.O. 5 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA LA FRACCIÓN XVI DEL ARTÍCULO 6o. DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE RESPETO, APRECIO Y RECONOCIMIENTO A LA CAPACIDAD DE APORTACIÓN DE LAS PERSONAS ADULTAS MAYORES".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
