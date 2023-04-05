@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-fideicomiso-lago-de-tequesquitengo-13795
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-28"
-last_updated: "2019-08-28"
+last_updated: "2023-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL FIDEICOMISO LAGO DE TEQUESQUITENGO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA DEL FIDEICOMISO LAGO DE TEQUESQUITENGO, PUBLICADO EN EL P.O. DE 5 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL FIDEICOMISO LAGO DE TEQUESQUITENGO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2023 (ABROGADO).
 
 Código publicado en el Número 5738 del Periódico Oficial del Estado de Morelos, el miércoles 28 de agosto de 2019.
 
@@ -276,3 +278,13 @@ C. JOSE MANUEL ANTONIO VILLARREAL GASCA
 DIRECTOR GENERAL DEL FIDEICOMISO LAGO DE TEQUESQUITENGO
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DEL FIDEICOMISO LAGO DE TEQUESQUITENGO".]
+
+PRIMERA.- El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial "Tierra y Libertad".
+
+SEGUNDA.- Se abroga el Código de Conducta de fecha 15 de julio de 2019, publicado en el Periódico Oficial "Tierra y Libertad" número 5738, publicado en fecha 28 de agosto de 2019.
