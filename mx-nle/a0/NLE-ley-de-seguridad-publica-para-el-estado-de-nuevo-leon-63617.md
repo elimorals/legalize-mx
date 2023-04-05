@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2023-02-24"
+last_updated: "2023-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -446,6 +446,18 @@ Cuando las acciones conjuntas sean para perseguir delitos, se cumplirán sin exc
 La Secretaría de Seguridad Pública del Estado y los municipios en conjunto con la federación llevarán un padrón de aficionados violentos o que hayan participado en riñas dentro de los espectáculos deportivos, mismos que se incorporarán a la base de datos del Sistema Nacional de Seguridad, cuya confidencialidad se realizará de conformidad a la Ley de la materia.
 
 Además dicha Secretaría emitirá un código rojo que permitirá identificar a los aficionados que hayan cometido el delito de violencia en espectáculos deportivos para su registro, mismos que les permitirán a los administradores negarles el acceso a las instalaciones.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2023)</small>
+
+Los organizadores de espectáculos deportivos o eventos con aforo de más de 800 personas, donde se venda o consuma alcohol, deberán instalar un sistema de video vigilancia con circuito cerrado al interior del recinto que grabará el acceso e identificará conductas incipientes violentas, inclusive en la zona aledaña en que puedan producirse aglomeraciones de público, y adoptarán las medidas necesarias para garantizar su buen estado de conservación y correcto funcionamiento. Dichas grabaciones serán entregadas a la Fiscalía General de Justicia del Estado, previa solicitud de ésta. Lo anterior, en caso de que se generen actos de violencia o se cometa algún delito o cuando así lo requiera la autoridad.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2023)</small>
+
+El organizador o los organizadores del evento serán responsables del tratamiento y protección de los datos personales de conformidad con las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2023)</small>
+
+Los datos personales, imágenes y las videograbaciones únicamente se conservarán en cuanto sea preciso para la investigación de los incidentes que hubieran podido producirse como consecuencia de la celebración del espectáculo deportivo.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
@@ -3946,3 +3958,9 @@ P.O. 24 DE FEBRERO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- El Congreso del Estado deberá contemplar en el presupuesto de egresos del año siguiente al de la entrada en vigor del presente Decreto, la partida correspondiente a fin de garantizar lo contenido en el presente Decreto.
+
+P.O. 5 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 353. SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 32 BIS DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
