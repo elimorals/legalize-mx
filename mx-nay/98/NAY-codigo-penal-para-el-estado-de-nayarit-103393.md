@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2023-04-04"
+last_updated: "2023-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2023.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -1275,6 +1275,10 @@ La prescripción será declarada de oficio o a petición de parte, en cualquier 
 
 El derecho para presentar querella o acto equivalente por un delito, sea o no continuado que sólo pueda perseguirse por queja de parte, prescribirá en un año, contado desde el día en que la parte ofendida tenga conocimiento del delito, y en cinco, en cualquiera otra circunstancia. Presentada la querella o el acto equivalente, la prescripción se sujetará a las reglas señaladas por este Código para los delitos que se persiguen de oficio.
 
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2023)</small>
+
+Se exceptuará de lo anterior, en los casos previstos en el párrafo segundo del artículo 140 del presente código.
+
 #### SECCIÓN III. PRESCRIPCIÓN DE LA ACCIÓN PENAL
 
 ###### ARTÍCULO 138.
@@ -1288,6 +1292,10 @@ La acción penal prescribe en seis meses si el delito sólo mereciere multa.
 ###### ARTÍCULO 140.
 
 La acción penal prescribirá en un plazo igual al término medio aritmético de la sanción privativa de libertad que corresponda al delito, tomando en cuenta sus modalidades, pero en ningún caso será menor de un año.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2023)</small>
+
+Si el delito se hubiese cometido en contra de una persona menor de dieciocho años de edad, el plazo para la prescripción de la acción penal en el caso de los delitos previstos en los artículos 230, 233, 234, 238 Bis, 289, 289 Bis, 291, 293, 294, 295, 296, 297, 297 Bis, 297 Ter, 297 Quáter, 302 y 305, empezará a computarse a partir de que la víctima cumpla dieciocho años de edad.
 
 ###### ARTÍCULO 141.
 
@@ -3981,9 +3989,9 @@ b) Se detente, posea o custodie documentos falsos o alterados de propiedad de un
 
 La buena fe se demostrará cuando en la documentación probatoria de propiedad, se establezca la fecha de adquisición y el precio de su transmisión, el nombre, domicilio y número de identificación del vendedor con los datos de su credencial de elector o pasaporte, siempre que aquélla fuere de fecha cierta, y
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE ABRIL DE 2023)</small>
 
-IX. El objeto del robo recaiga sobre maquinaria, implementos, insumos o productos, del sector primario de la economía que comprende actividades productivas relacionadas con la agricultura, ganadería, apicultura, pesca y demás actividades acuícolas, minera, silvícola y explotación forestal.
+IX. El objeto del robo recaiga sobre maquinaria, implementos, insumos o productos, del sector primario de la economía que comprende actividades productivas relacionadas con la ganadería, apicultura, pesca y demás actividades acuícolas, minera, silvícola y explotación forestal.
 
 > <small>[N. DE E. PERTENECE A LA FRACCIÓN IX, P.O. 22 DE NOVIEMBRE DE 2019]</small>
 
@@ -3999,11 +4007,33 @@ En todo caso de robo, si el Juez creyera conveniente, podrá suspender al delinc
 
 A quien se imputare el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicará de uno a seis meses de prisión, siempre que justifique no haberse negado a devolverla, si se le requirió a ello. Además pagará al ofendido como responsabilidad civil el doble del alquiler, arrendamiento o interés de la cosa usada.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 384.
 
-Se impondrá de uno a nueve años de prisión y multa hasta el equivalente de diez días, al que robe postes, alambres u otros materiales de las cercas de los sembradíos o potreros, dejando éstos al descubierto en todo o en parte, o robe bombas, motores o partes de estos implementos, o cualquier objeto o aparato de uso en la agricultura o en la ganadería, o en un servicio público, o que esté bajo la salvaguarda pública, sin perjuicio de lo que proceda por el daño a la propiedad.
+Se impondrá de uno a nueve años de prisión y multa hasta el equivalente de diez días, al que robe postes, alambres u otros materiales de las cercas de los sembradíos o potreros, dejando éstos al descubierto en todo o en parte, o robe bombas, motores o partes de estos implementos, o cualquier objeto o aparato de uso en la ganadería, o en un servicio público, o que esté bajo la salvaguarda pública, sin perjuicio de lo que proceda por el daño a la propiedad.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2023)</small>
+
+ARTÍCULO 384 BIS.- Comete el delito de robo agrícola, quien se apodere de frutos pendientes de árboles o plantas; de la cosecha o corte de árboles, productos o de semillas, propias de la actividad agrícola o de la agricultura, sin el consentimiento de quien legalmente pueda disponer de ellos.
+
+Del mismo modo, incurren en este delito, quien se apodere de postes, alambres u otro material de las cercas de los sembradíos o potreros, bombas, motores, maquinaria, implementos, material, infraestructura, objeto o equipo que se utiliza para las cosechas agrícolas o de la agricultura, sin consentimiento de quien legalmente pueda disponer de ellos, siempre que se encuentren en el lugar de producción o de cosecha agrícola.
+
+El delito de robo agrícola se sancionará conforme a las siguientes reglas:
+
+I. Cuando el valor de lo robado no exceda de cien veces el valor diario de la Unidad de Medida y Actualización, se impondrá de tres meses a dos años de prisión y multa de cuarenta a cien veces el valor diario de la Unidad de Medida y Actualización.
+
+II. Cuando el valor de lo robado exceda de cien veces el valor diario de la Unidad de Medida y Actualización, pero no de quinientas veces, la sanción será de dos a cuatro años de prisión y multa de sesenta hasta ciento ochenta veces el valor diario de la Unidad de Medida y Actualización.
+
+III. Cuando el valor de lo robado exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización, pero no de mil veces, la sanción será de tres a ocho años de prisión y multa de ochenta hasta doscientas veces el valor diario de la Unidad de Medida y Actualización, o
+
+IV. Cuando el valor de lo robado exceda de mil veces el valor diario de la Unidad de Medida y Actualización, la sanción será de cuatro a doce años de prisión y multa de cien hasta cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
+
+Para estimar la cuantía del robo se atenderá únicamente el valor intrínseco del objeto del apoderamiento, pero si por alguna circunstancia no fuere estimable en dinero o si por su naturaleza no fuere posible fijar su valor, se aplicará prisión de tres meses hasta seis años y multa de cuarenta hasta ciento veinte veces el valor diario de la Unidad de Medida y Actualización.
+
+Si el robo se ejecutare con violencia física o moral, a la pena que corresponda en atención al valor de lo robado, se aumentará de seis meses a cinco años de prisión.
+
+Se aplicará la sanción que al efecto corresponda, no obstante, de que el agente abandone o lo desapoderen del bien o cosa robada.
 
 ###### ARTÍCULO 385.
 
@@ -4323,7 +4353,7 @@ Tratándose de propaganda o promoción de partidos o grupos políticos, se estar
 
 ### CAPÍTULO II. ENCUBRIMIENTO POR RECEPTACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 411.
 
@@ -4449,13 +4479,17 @@ En los casos del artículo 417, quedan exceptuados de sanción aquellos que no p
 
 ###### ARTÍCULO 420.
 
-Se impondrá de cuatro a ocho años de prisión y multa de cincuenta a cien días, al que adquiera, posea, venda, enajene, pignore, traslade, reciba, oculte, suministre o trafique, uno o más vehículos automotores robados o parte de éstos.
+Se impondrá de cuatro a ocho años de prisión y multa de cincuenta a cien días, a quien adquiera, posea, venda, enajene, pignore, traslade, reciba, oculte, suministre o trafique, uno o más vehículos automotores robados o parte de éstos, siempre que tenga conocimiento de esta circunstancia.
 
-La pena aumentará hasta en una mitad más, cuando de la investigación y peritajes que se realicen por parte del ministerio público, se desprenda que en el o los vehículos robados, se encontraron modificaciones en sus números originales de identificación como remarcación, alteración, trasplante o copia.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2023)</small>
 
-Se aplicará la sanción del párrafo primero al que adquiera, posea, venda, pignore, traslade, reciba, oculte, suministre o trafique uno o más vehículos automotores que presenten modificaciones en sus números originales de identificación como remarcación, alteración, trasplante o copia o parte de éstos.
+La pena aumentará desde dos hasta cuatro años más, cuando de la investigación y peritajes que se realicen por parte del ministerio público, se desprenda que en el o los vehículos robados, se encontraron modificaciones en sus números originales de identificación como remarcación, alteración, trasplante o copia, siempre que tenga conocimiento de esta circunstancia.
 
-Los adquirentes, detentadores o comercializadores no serán sancionados cuando acrediten fehacientemente buena fe en la adquisición o tenencia de los citados bienes, en los mismos términos a que se refiere la fracción VIII, inciso b), del artículo 381 de este Código.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2023)</small>
+
+Se aplicará la sanción del párrafo primero de este artículo a quien adquiera, posea, venda, pignore, traslade, reciba, oculte, suministre o trafique uno o más vehículos automotores que presenten modificaciones en sus números originales de identificación como remarcación, alteración, trasplante o copia o parte de éstos, siempre que tenga conocimiento de esta circunstancia.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 5 DE ABRIL DE 2023)</small>
 
 ## TÍTULO VIGÉSIMO SEGUNDO
 
@@ -4908,5 +4942,23 @@ P.O. 28 DE MARZO DE 2023.
 P.O. 4 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 5 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE NO PRESCRIPCIÓN EN DELITOS COMETIDOS EN CONTRA DE PERSONAS MENORES DE DIECIOCHO AÑOS".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 5 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE ROBO AGRÍCOLA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 5 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
