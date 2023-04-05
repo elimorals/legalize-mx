@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-fideicomiso-fondo-desarrollo-136879"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-07"
-last_updated: "2019-08-08"
+last_updated: "2023-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL FIDEICOMISO FONDO DESARROLLO EMPRESARIAL Y PROMOCION DE LA INVERSION DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DEL FIDEICOMISO FONDO DESARROLLO EMPRESARIAL Y PROMOCIÓN DE LA INVERSIÓN DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 5 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL FIDEICOMISO FONDO DESARROLLO EMPRESARIAL Y PROMOCIÓN DE LA INVERSIÓN
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 8 DE AGOSTO DE 2019 NO APLICA AL ARTICULADO DEL NÚMERO 5732 PUBLICADO EN EL P.O. DE 7 DE AGOSTO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2023 (ABROGADO).
 
 Código publicado al Número 5732 del Periódico Oficial del Gobierno de Morelos, el miércoles 7 de agosto de 2019.
 
@@ -344,3 +344,15 @@ COORDINADORA DE DESARROLLO ECONÓMICO DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 RÚBRICAS.
 
 LA PRESENTE HOJA DE FIRMAS FORMA PARTE INTEGRANTE DEL CÓDIGO DE CONDUCTA DEL FIDEICOMISO FONDO DESARROLLO EMPRESARIAL Y PROMOCIÓN DE LA INVERSIÓN, DE FECHA VEINTITRÉS DE JULIO DEL AÑO DOS MIL DIECINUEVE.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL FIDEICOMISO FONDO DESARROLLO EMPRESARIAL Y PROMOCIÓN DE LA INVERSIÓN”.]
+
+Primera.- El presente Código entrará en vigor al siguiente día de su publicación el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Segunda.- La totalidad de los acuerdos tomados por el Comité de Ética prevalecerán y tendrán validez jurídica y administrativa necesaria, de conformidad con la normatividad vigente y aplicable.
+
+Tercera.- Se abroga el Código de Conducta del Fideicomiso Fondo Desarrollo Empresarial y Promoción de la Inversión, publicado en el Periódico Oficial “Tierra y Libertad” número 5732, de fecha 07 de agosto de 2019.
