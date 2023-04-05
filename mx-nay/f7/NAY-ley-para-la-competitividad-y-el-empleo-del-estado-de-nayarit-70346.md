@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-competitividad-y-el-empleo-del-estado-de-nayarit-70
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-16"
-last_updated: "2021-03-18"
+last_updated: "2023-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA COMPETITIVIDAD Y EL EMPLEO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 16 de septiembre de 2009.
 
@@ -44,6 +44,10 @@ LEY PARA LA COMPETITIVIDAD Y EL EMPLEO DEL ESTADO DE NAYARIT
 Las disposiciones de esta ley son de orden público e interés general y tienen por objeto promover y fomentar las actividades económicas para generar, preservar y aumentar el empleo, en el marco de un desarrollo sostenido y equilibrado del estado de Nayarit y sus municipios; así como generar un entorno favorable para el desarrollo del conocimiento científico y la innovación tecnológica.
 
 Las actividades de fomento y el desarrollo económico del estado de Nayarit se sujetarán y deberán ser congruentes con lo establecido por los artículos 26 de la Constitución Política de los Estados Unidos Mexicanos y 134 de la Constitución Política del Estado de Nayarit, así como con la Ley de Planeación del Estado de Nayarit y los Planes Nacional, Estatal y Municipales de desarrollo del estado de Nayarit.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2023)</small>
+
+El fomento a la competitividad y el empleo del Estado de Nayarit se llevará a cabo atendiendo el principio de perspectiva de género e impulsando la igualdad entre hombres y mujeres.
 
 ###### Artículo 2.
 
@@ -137,7 +141,9 @@ II. Determinar las bases sobre las cuales la Administración Pública Estatal y 
 
 III. Establecer mecanismos de apoyo a proyectos de inversión privada generadores de empleo, o que por su naturaleza impacten de manera importante en el desarrollo económico de la región o de la Entidad;
 
-IV. Generar condiciones para el desarrollo equilibrado de los diferentes sectores de la actividad económica;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2023)</small>
+
+IV. Generar condiciones para el desarrollo equilibrado de los diferentes sectores de la actividad económica, incorporando la perspectiva de género en el diseño, planeación, ejecución, seguimiento y evaluación de los programas correspondientes;
 
 V. Impulsar la creación de fuentes de empleo formal y competitivo, particularmente en las regiones y sectores económicos prioritarios del Estado;
 
@@ -207,7 +213,9 @@ II. Auspiciar y apoyar la celebración y aplicación de convenios para el foment
 
 III. Evaluar el desarrollo del fomento económico cuantitativa y cualitativamente, mediante una matriz de indicadores estratégicos y de gestión;
 
-IV. Apoyar las acciones y proyectos de fomento para el desarrollo económico mediante la asignación de recursos públicos; y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2023)</small>
+
+IV. Apoyar las acciones y proyectos de fomento para el desarrollo económico mediante la asignación de recursos públicos, bajo una perspectiva de género, y
 
 V. Las demás previstas en la presente ley y otras disposiciones aplicables.
 
@@ -219,7 +227,9 @@ I. Autoridades responsables, régimen de actuación y los procedimientos para fo
 
 II. Las disposiciones en materia de mejora regulatoria y autoridades responsables de la misma;
 
-III. Los esquemas necesarios para estimular e incentivar a las Empresas, y las autoridades u organismos facultados para gestionarlos, otorgando los apoyos que procedan, de conformidad con las actividades sujetas al fomento económico, según lo determine dicho orden de Gobierno;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2023)</small>
+
+III. Los esquemas necesarios para estimular e incentivar a las Empresas, y las autoridades u organismos facultados para gestionarlos, otorgando los apoyos que procedan, de conformidad con las actividades sujetas al fomento económico, según lo determine dicho orden de Gobierno, atendiendo la perspectiva de género e impulsando la igualdad entre hombres y mujeres;
 
 IV. Los medios de defensa a los que podrán acudir los particulares en contra de las resoluciones y el procedimiento a observar; y
 
@@ -449,9 +459,17 @@ VIII. Adquisición de insumos a empresas instaladas en el Estado y/o el país, i
 
 IX. Diversificación de mercados;
 
-X. Zona económica en que se establezca; y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2023)</small>
 
-XI. Actividad económica que desarrolle.
+X. Zona económica en que se establezca;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2023)</small>
+
+XI. Actividad económica que desarrolle, y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2023)</small>
+
+XII. La perspectiva de género.
 
 ###### Artículo 31.
 
@@ -635,9 +653,11 @@ Las dependencias y entidades de la administración pública estatal, deberán de
 
 La Secretaría en coordinación con los organismos empresariales y las entidades públicas y privadas, promoverá los programas conducentes para elevar de manera permanente el nivel de competitividad de las MIPyMES en el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2023)</small>
+
 ###### Artículo 54.
 
-Los apoyos a las MIPyMES establecidas en la entidad, que podrán ser adicionales a los de carácter ordinario, se otorgarán en forma equitativa.
+Los apoyos a las MIPyMES establecidas en la entidad, que podrán ser adicionales a los de carácter ordinario, se otorgarán en forma equitativa y con perspectiva de género.
 
 La Secretaría emprenderá entre otras, las siguientes acciones:
 
@@ -706,6 +726,10 @@ El funcionamiento del comité organizador, los integrantes necesarios para sesio
 ###### Artículo 59.
 
 El Estado y los Ayuntamientos promoverán el desarrollo de proyectos de inversión y las relaciones económicas de las comunidades indígenas, entre éstas y las demás poblaciones de la comunidad, considerándose como de carácter estratégico.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2023)</small>
+
+La promoción y el fomento de los proyectos de inversión se realizarán con perspectiva de género.
 
 ###### Artículo 60.
 
@@ -930,3 +954,9 @@ P.O. 18 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA COMPETITIVIDAD Y EL EMPLEO DEL ESTADO DE NAYARIT”.]
 
 ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 5 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA COMPETITIVIDAD Y EL EMPLEO DEL ESTADO DE NAYARIT, EN MATERIA DE PERSPECTIVA DE GÉNERO EN EL FOMENTO DE LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO DEL ESTADO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
