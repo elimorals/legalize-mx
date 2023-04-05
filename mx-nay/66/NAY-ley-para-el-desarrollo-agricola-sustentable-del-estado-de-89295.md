@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-el-desarrollo-agricola-sustentable-del-estado-de-89295
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-11"
-last_updated: "2018-12-21"
+last_updated: "2023-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA EL DESARROLLO AGRÍCOLA SUSTENTABLE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 11 de agosto de 2012.
 
@@ -1221,7 +1221,7 @@ III.- Suspensión total o parcial de las actividades o acciones agrícolas.
 
 La infracción de las disposiciones de esta ley y de la reglamentación que de ella se derive, será sancionada con:
 
-I.- Apercibimiento;
+I.- (DEROGADA, P.O. 5 DE ABRIL DE 2023)
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -1236,6 +1236,10 @@ V.- Devolución de los apoyos recibidos, en cuyo caso ya no será elegible para 
 El importe de las multas será cubierto en las correspondientes oficinas de la Secretaría competente en la entidad, aplicándose en su caso, el procedimiento económico coactivo que establece el Código Fiscal del Estado.
 
 En caso de movilización de vegetales sujetos a las disposiciones de esta Ley, éstos y sus medios de transporte serán retenidos hasta que el interesado cumpla con los requisitos necesarios, en términos del Capítulo III de este Título y de lo que señale el Reglamento.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2023)</small>
+
+En caso de que la conducta sancionada sea posiblemente constitutiva de delito de robo agrícola, se dará vista al ministerio público para efecto de que, en el ámbito de su competencia, se investigue su posible comisión o la que en su caso sancionen las normas penales.
 
 ###### Artículo 110.
 
@@ -1308,3 +1312,9 @@ P.O. 21 DE DICIEMBRE DE 2018.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
 
 SEGUNDO.- Dentro de los seis meses siguientes a la entrada en vigor del presente decreto, los Ayuntamientos en coordinación con la Secretaría elaborarán el primer registro de compradores agrícolas el cual será publicado en las páginas electrónicas oficiales, en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit.
+
+P.O. 5 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 109 Y DEROGAR (SIC) LA FRACCIÓN I DEL PRIMER PÁRRAFO DEL ARTÍCULO 109 DE LA LEY PARA EL DESARROLLO AGRÍCOLA SUSTENTABLE DEL ESTADO DE NAYARIT, EN MATERIA DE ROBO AGRÍCOLA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
