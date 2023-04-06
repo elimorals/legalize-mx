@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cultura-fisica-y-deporte-para-el-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2023-02-16"
+last_updated: "2023-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 2 de julio de 2014.
 
@@ -115,9 +115,9 @@ III. La creación, conservación, mejoramiento, protección, difusión, promoci�
 
 IV. La preservación de la salud y prevención de enfermedades;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2023)</small>
 
-V. Ser un medio importante en la prevención del delito, adicciones y del uso indebido de substancias psicoactivas, y otras actividades ilegales, para lograr un ambiente de paz y bienestar social;
+V. Ser un medio importante en la prevención del delito, adicciones y del uso indebido de sustancias psicoactivas, y otras actividades ilegales, para lograr un ambiente de paz y bienestar social;
 
 VI. La promoción de medidas necesarias para erradicar la violencia y reducir los riesgos de afectación en la práctica de actividades físicas, recreativas o deportivas, así como para prevenir y erradicar el uso de sustancias y métodos no reglamentarios que pudieran derivarse del doping;
 
@@ -133,9 +133,9 @@ X. Promover en la práctica de actividades físicas, recreativas y deportivas el
 
 XI. Garantizar a todas las personas la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen, sin distinción de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2023)</small>
 
-XII. La no discriminación de los deportistas con discapacidad, siempre que las actividades a realizar no pongan en peligro su integridad física y seguridad; y
+XII. Garantizar la inclusión deportiva, mediante los ajustes razonables y medidas de apoyo necesarias para fortalecer en las personas con discapacidad, el vínculo de los valores desarrollados, la interacción social y su inclusión en la comunidad, para combatir su aislamiento y discriminación; y
 
 > <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
 
@@ -501,7 +501,9 @@ VIII. Planear, programar, establecer y coordinar las actividades deportivas y lo
 
 IX. Promover y apoyar a los Organismos locales que desarrollen actividades deportivas e incorporarlos al Sistema Municipal;
 
-X. Otorgar las facilidades necesarias para la realización de actividades deportivas de las personas con discapacidad y adultas mayores;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2023)</small>
+
+X. Garantizar a las personas con discapacidad y adultos mayores, su derecho humano a practicar el deporte de su elección, en condiciones de igualdad con las demás personas, mediante los ajustes razonables y medidas de apoyo necesarias para asegurar su inclusión social;
 
 XI. Otorgar estímulos, premios o apoyos económicos a dependencias, organizaciones deportivas, instituciones, entrenadores, investigadores y deportistas que se destaquen en la promoción, organización y práctica de las disciplinas que estén incorporadas al Sistema Municipal del Deporte, correspondiente;
 
@@ -873,11 +875,15 @@ Los deportistas profesionales que integren preselecciones y selecciones estatale
 
 El Instituto coordinará y promoverá la constitución de Comisiones Estatales de Deporte Profesional, quienes se integrarán al Sistema de acuerdo a lo establecido en el reglamento de esta ley.
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2023)</small>
 
 ARTÍCULO 59 BIS.
 
-El Instituto, apoyará, promoverá y facilitará, la participación de las personas con discapacidad en las distintas disciplinas deportivas y deberá contar con personal calificado para brindar la atención que requiere este sector de la población.
+Mediante los ajustes razonables y medidas de apoyo suficientes para garantizar su inclusión en la comunidad, el Instituto garantizará a las personas con discapacidad su derecho humano a practicar el deporte de su elección, en condiciones de igualdad con las demás personas.
+
+Toda persona a quien le conste que se ha cometido una conducta que vulnere el derecho a la cultura física y la práctica del deporte, deberá denunciarla ante las autoridades correspondientes.
+
+La omisión de denunciar un hecho de esta naturaleza en el ejercicio de las funciones públicas, será sancionada en los términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 > <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
 
@@ -1620,3 +1626,15 @@ P.O. 16 DE FEBRERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-552 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+###### ARTÍCULO SEGUNDO.
+
+La aplicación del presente Decreto se sujetará a la disponibilidad presupuestal que el Titular del Poder Ejecutivo del Estado asigne en materia del Deporte
