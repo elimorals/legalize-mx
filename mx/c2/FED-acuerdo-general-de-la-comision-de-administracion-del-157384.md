@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-comision-de-administracion-del-157384"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2022-04-11"
-last_updated: "2022-04-11"
+last_updated: "2023-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157384&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2022-04-05"
 
 ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE AUTORIZA LA REINCORPORACIÓN PRESENCIAL DEL PERSONAL ADSCRITO A LAS ÁREAS DE APOYO ADMINISTRATIVO, ÁREAS DE APOYO TÉCNICO-JURÍDICO Y ÓRGANOS AUXILIARES DE LA COMISIÓN DE ADMINISTRACIÓN, A LAS ACTIVIDADES LABORALES, BAJO LOS PROTOCOLOS DE SEGURIDAD SANITARIA QUE PERMITAN SALVAGUARDAR LA SALUD DEL PERSONAL DEL TRIBUNAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ABRIL DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 11 de abril de 2022.
 
@@ -129,17 +129,7 @@ III. Teletrabajo: La trabajadora o el trabajador realiza sus funciones desde su 
 
 ###### Artículo 3.
 
-De conformidad con las necesidades del servicio y sin alterar el debido cumplimiento de las funciones institucionales, las personas titulares de las Áreas de Apoyo Administrativo, Áreas de Apoyo Técnico-Jurídico y Órganos Auxiliares de la Comisión de Administración, determinarán la forma de organizar a sus equipos de trabajo, atendiendo a los siguientes criterios aplicables en torno a las modalidades de trabajo, mismos que se deberán adoptar en función del semáforo epidemiológico dictado por las autoridades sanitarias competentes en las entidades donde el Tribunal Electoral tenga instalaciones:
-
-• Color verde: Modalidad Presencial el 100% de la plantilla de personal del área de adscripción.
-
-• Color amarillo: Modalidad Presencial el 75% de la plantilla de personal del área de adscripción, quienes deberán contar con esquema completo de vacunación y estableciendo como supuesto de excepción al personal que se ubique en algún grupo de riesgo; ambos casos conforme lo dispone y define la Secretaría de Salud del Gobierno Federal.
-
-• Color naranja: Modalidad Presencial el 50% de la plantilla de personal del área de adscripción, quienes deberán contar con esquema completo de vacunación y refuerzo, estableciendo como supuesto de excepción al personal que se ubique en algún grupo de riesgo, conforme a lo dispuesto por la Secretaría de Salud del Gobierno Federal.
-
-• Color rojo: Modalidad de Teletrabajo el 100% de la plantilla de personal del área de adscripción, considerando las salvedades que definan las áreas respecto a la implementación de guardias mínimas presenciales, en caso de que sean necesarias.
-
-El personal que se ubique en algún supuesto (sic) excepción por pertenecer a alguno de los grupos de riesgo, o no se encuentre vacunado, deberá acreditarlo mediante la presentación de constancia médica que constate el riesgo señalado o carta bajo protesta de decir verdad en la que señale que no cuenta con esquema alguno de vacunación.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL POR EL QUE SE ESTABLECEN MEDIDAS PARA PROMOVER LA EFICIENCIA ADMINISTRATIVA EN LA OPERACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 7 DE ABRIL DE 2023)
 
 ###### Artículo 4.
 
@@ -235,33 +225,15 @@ La Dirección General de Investigación de Responsabilidades Administrativas, la
 
 ###### Artículo 12.
 
-En las actividades institucionales que impliquen la intervención de más de diez personas, en la medida de lo posible, se deberá privilegiar su realización a través de medios virtuales, mediante el uso de herramientas tecnológicas; si se opta por la modalidad presencial, y siempre y cuando se cumplan con las medidas sanitarias y de sana distancia, en espacios cerrados se estará a lo siguiente:
-
-• Si el semáforo se encuentra en color verde, se considerará como aforo máximo el 50% de la capacidad de las instalaciones donde se desarrollen.
-
-• Si el semáforo se encuentra en color amarillo, se considerará como aforo máximo el 35% de la capacidad de las instalaciones donde se desarrollen.
-
-• Si el semáforo se encuentra en color naranja, se considerará como aforo máximo el 20% de la capacidad de las instalaciones donde se desarrollen.
-
-En espacios abiertos, por lo que hace al aforo se considerarán los criterios establecidos en el Artículo 3 del presente Acuerdo General para la modalidad presencial, respecto al semáforo epidemiológico dictado por las autoridades sanitarias competentes; asimismo, se deberán atender las medidas sanitarias establecidas.
-
-Con excepción de las disposiciones emitidas por la Sala Superior, con relación a las actividades jurisdiccionales a desarrollarse en el propio Pleno.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL POR EL QUE SE ESTABLECEN MEDIDAS PARA PROMOVER LA EFICIENCIA ADMINISTRATIVA EN LA OPERACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 7 DE ABRIL DE 2023)
 
 ###### Artículo 13.
 
-La prestación de servicio social, prácticas profesionales y estadías académicas se podrá realizar bajo responsabilidad de las personas titulares de las Áreas de Apoyo Administrativo, Áreas de Apoyo Técnico-Jurídico y Órganos Auxiliares de la Comisión de Administración. Las personas que acudan a desarrollar estas actividades deberán firmar carta bajo protesta de decir verdad en la que manifiesten que no se ubican en ningún supuesto de grupo de riesgo y que se sujetarán a las medidas sanitarias determinadas por el Tribunal Electoral.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL POR EL QUE SE ESTABLECEN MEDIDAS PARA PROMOVER LA EFICIENCIA ADMINISTRATIVA EN LA OPERACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 7 DE ABRIL DE 2023)
 
 ###### Artículo 14.
 
-Los cursos, capacitaciones, foros y seminarios se podrán llevar a cabo en las distintas modalidades (presencial, teletrabajo mediante el uso de herramientas tecnológicas o de manera mixta), en la medida de lo posible, se deberá privilegiar la realización de tales actividades a través de medios virtuales, mediante el uso de herramientas tecnológicas. Si se opta por la modalidad presencial, y siempre y cuando se cumplan con las medidas sanitarias y de sana distancia, en espacios cerrados se estará a lo siguiente:
-
-• Si el semáforo se encuentra en color verde, se considerará como aforo máximo el 50% de la capacidad de las instalaciones donde se desarrollen.
-
-• Si el semáforo se encuentra en color amarillo, se considerará como aforo máximo el 35% de la capacidad de las instalaciones donde se desarrollen.
-
-• Si el semáforo se encuentra en color naranja, se considerará como aforo máximo el 20% de la capacidad de las instalaciones donde se desarrollen.
-
-En espacios abiertos, por lo que hace al aforo se considerarán los criterios establecidos en el Artículo 3 del presente Acuerdo General para la modalidad presencial, respecto al semáforo epidemiológico dictado por las autoridades sanitarias locales; asimismo, se deberán atender las medidas sanitarias establecidas.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL POR EL QUE SE ESTABLECEN MEDIDAS PARA PROMOVER LA EFICIENCIA ADMINISTRATIVA EN LA OPERACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 7 DE ABRIL DE 2023)
 
 ###### Artículo 15.
 
@@ -284,3 +256,15 @@ CERTIFICA
 Que el presente documento, integrado por 9 fojas útiles impresas únicamente por anverso, corresponde al ACUERDO GENERAL DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE AUTORIZA LA REINCORPORACIÓN PRESENCIAL DEL PERSONAL ADSCRITO A LAS ÁREAS DE APOYO ADMINISTRATIVO, ÁREAS DE APOYO TÉCNICO-JURÍDICO Y ÓRGANOS AUXILIARES DE LA COMISIÓN DE ADMINISTRACIÓN, A LAS ACTIVIDADES LABORALES, BAJO LOS PROTOCOLOS DE SEGURIDAD SANITARIA QUE PERMITAN SALVAGUARDAR LA SALUD DEL PERSONAL DEL TRIBUNAL ELECTORAL, aprobado por los integrantes de la Comisión de Administración de este Tribunal Electoral, mediante Acuerdo 09/SO3(24-III-2022), en su Tercera Sesión Ordinaria celebrada el 24 de marzo de 2022, cuyo original tuve a la vista.- DOY FE.
 
 Ciudad de México, a 5 de abril 2022.- Secretaria Administrativa y de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, Marcela Loredana Montero de Alba.- Firmado electrónicamente.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 7 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL POR EL QUE SE ESTABLECEN MEDIDAS PARA PROMOVER LA EFICIENCIA ADMINISTRATIVA EN LA OPERACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se derogan los artículos 3, 12, 13 y 14 del Acuerdo General de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación que autoriza la reincorporación presencial del personal adscrito a las Áreas de Apoyo Administrativo, Áreas de Apoyo Técnico-Jurídico y Órganos Auxiliares de la Comisión de Administración, a las actividades laborales, bajo los protocolos de seguridad sanitaria que permitan salvaguardar la salud del personal del Tribunal Electoral.
+
+TERCERO. Para mayor difusión, publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en las páginas de Intranet e internet del Tribunal Electoral del Poder Judicial de la Federación.
