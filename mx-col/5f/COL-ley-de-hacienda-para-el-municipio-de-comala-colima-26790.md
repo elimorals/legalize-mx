@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-comala-colima-26790"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2023-03-25"
+last_updated: "2023-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "COL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE ABRIL DE 2023 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA DEL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE ABRIL DE 2023.]</small>
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -3375,13 +3375,21 @@ f).- Por pipa de agua a domicilio para uso especial
 
 dentro del área urbana 11.97
 
-g).- Por los servicios de recolección de basura, desechos o desperdicios no peligrosos, a quienes realicen actividades comerciales, industriales o de prestación de servicios pagaran anualmente en los meses de enero y febrero de acuerdo a la siguiente clasificación:
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE MARZO DE 2023) (F. DE E., P.O. 8 DE ABRIL DE 2023)
 
-1).- Actividad industrial de 5.00 a 20.00
+g).- Por los servicios de recolección de basura, desechos o desperdicios no peligrosos, a quienes realicen actividades comerciales, industriales o de prestación de servicios, pagarán mensualmente de acuerdo a la siguiente clasificación:
 
-2).- Actividad Comercial de 5.00 a 10.00
+(REFORMADO, P.O. 25 DE MARZO DE 2023) (F. DE E., P.O. 8 DE ABRIL DE 2023)
 
-3).- Prestación de servicios de 6.00 a 20.00
+1.- Actividad industrial de 0.5 a 2.00
+
+(REFORMADO, P.O. 25 DE MARZO DE 2023) (F. DE E., P.O. 8 DE ABRIL DE 2023)
+
+2.- Actividad comercial de 0.5 a 2.00
+
+(REFORMADO, P.O. 25 DE MARZO DE 2023) (F. DE E., P.O. 8 DE ABRIL DE 2023)
+
+3.- Prestación de servicios de 0.5 a 2.00
 
 ###### ARTICULO 95.
 
