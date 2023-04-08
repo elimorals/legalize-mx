@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2022-10-26"
+last_updated: "2023-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2023.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -16037,15 +16039,11 @@ El que paga el daño causado por sus empleados u operarios, puede repetir de ell
 
 ###### ARTICULO 2043.
 
-Obligación del Estado
-
-El Estado tiene obligación de responder de los daños y perjuicios causados por sus servidores públicos en el ejercicio de las funciones que les estén encomendadas.
+(DEROGADO, P.O. 8 DE ABRIL DE 2023)
 
 ###### ARTICULO 2044.
 
-Responsabilidad subsidiaria del Estado
-
-Esta responsabilidad es subsidiaria y sólo podrá hacerse efectiva contra el Estado, cuando el servidor directamente responsable no tenga bienes, o los que tenga no sean suficientes para reparar el daño causado.
+(DEROGADO, P.O. 8 DE ABRIL DE 2023)
 
 ###### ARTICULO 2045.
 
@@ -16181,11 +16179,15 @@ Indemnización en dinero
 
 El responsable del daño a que se refiere el artículo 2051, tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual como extracontractual.
 
-Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva conforme el artículo 2072, así como el Estado y servidores públicos conforme a los artículos 2043 y 2044.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2023)</small>
+
+Tendrá la misma obligación de reparar el daño moral quien incurra en responsabilidad objetiva conforme al artículo 2072 de este Código.
 
 La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
 
-El monto de la indemnización lo determinará el Juez tomando en cuenta la afectación producida, el grado de responsabilidad, la situación económica del responsable y la de la víctima, así como las demás circunstancias del caso.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2023)</small>
+
+El monto de la indemnización lo determinará el Juez tomando en cuenta la afectación producida, el grado de responsabilidad, la situación económica del responsable, así como las demás circunstancias del caso.
 
 Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el Juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes.
 
@@ -25901,27 +25903,21 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente Decreto.
 
-###### ARTICULO PRIMERO.
+P.O. 8 DE ABRIL DE 2023.
 
-La presente Ley entrará en vigor el día 1o. de mayo de 1986.
+## [N. DE E. TRANSITORIOS DEL DECRETO 147 POR EL QUE "SE DEROGAN LOS ARTÍCULOS 2043 Y 2044; Y SE REFORMAN EL SEGUNDO Y CUARTO PÁRRAFO DEL ARTÍCULO 2058, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO".]
 
-D.O.F. 31 DE DICIEMBRE DE 1986.
+###### ARTÍCULO PRIMERO.
 
-Disposiciones Transitorias
+Este Decreto entrará en vigor el uno de enero del año dos mil veinticinco, previa publicación en el Periódico Oficial del Estado de Tabasco, lo anterior en virtud de las opiniones vertidas por los Ayuntamientos de nuestro Estado, así como de conformidad con el principio de anualidad en materia de finanzas públicas.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO SEGUNDO.
 
-Cuando con anterioridad al 1o. de enero de 1986, se hubieran causado recargos sobre contribuciones federales no pagadas o intereses a cargo del fisco federal sobre cantidades que deba devolver, que hubieran alcanzado el 250% del importe de dichas contribuciones o cantidades a devolver, según sea el caso, a partir de la fecha mencionada, se reanudará la causación de recargos o intereses sobre las mismas, conforme al Código Fiscal de la Federación, aun cuando excedan del por ciento mencionado.
+Los asuntos que se encuentren en trámite ante los órganos jurisdiccionales civiles, relacionados con reparación de daño por parte del Estado se atenderán hasta su total terminación de acuerdo con las disposiciones aplicables a la fecha en que inició el juicio correspondiente.
 
-Disposiciones de Vigencia durante el Año de 1986
+###### ARTÍCULO TERCERO.
 
-###### ARTICULO TERCERO.
-
-Durante el año de 1985 se aplicarán respecto del Código Fiscal de la Federación, las siguientes disposiciones:
-
-I. Para los efectos del primer párrafo de la fracción I del artículo 41 del Código Fiscal de la Federación, la cantidad que conforme a dicha disposición las autoridades fiscales determinen en el año de 1985, como pago provisional a cargo de los obligados, se incrementará con la que resulte de aplicar a la misma el factor de 0.55.
-
-II. Para los efectos del segundo párrafo del artículo 70 del Código Fiscal de la Federación, se establece el factor de 1.25 que se aplicará a partir del 1o. de julio de 1985.
+Se derogan las disposiciones que se opongan al presente Decreto.
 
 ###### ARTICULO SEGUNDO.
 
