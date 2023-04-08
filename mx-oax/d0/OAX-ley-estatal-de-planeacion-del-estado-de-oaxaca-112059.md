@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-planeacion-del-estado-de-oaxaca-112059"
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-09"
-last_updated: "2020-10-17"
+last_updated: "2023-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE PLANEACIÓN DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2023.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de enero de 2016.
 
@@ -67,9 +67,9 @@ I. Acuerdos de desempeño: Instrumentos de planeación que permiten a las instan
 
 II. Áreas administrativas: Unidades Institucionales de Planeación y Evaluación del Desempeño que se integrarán para efectos de la presente Ley por las Unidades de administración que establece la fracción LIX del artículo 2 de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2023)</small>
 
-III. Órgano Superior de Fiscalización: Órgano Superior de Fiscalización del Estado de Oaxaca;
+III. Auditoría Superior de Fiscalización: Auditoría Superior de Fiscalización del Estado de Oaxaca.
 
 IV. Banco de proyectos de Inversión Pública: Herramienta tecnológica y metodológica que regula procedimientos e instrumentos para la formulación, preparación, evaluación ex ante, viabilización y registro de proyectos de Inversión Pública en el Estado;
 
@@ -829,19 +829,15 @@ V. La identificación de los responsables institucionales y de los arreglos de c
 
 Para la ejecución de los planes municipales, los Ayuntamientos elaborarán, los correspondientes POA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2023)</small>
 
 ###### Artículo 66.
 
-El COPLADE, por conducto de su Coordinación General y, en coordinación con la Secretaría y el Órgano Superior de Fiscalización promoverán el fortalecimiento de las capacidades de las autoridades municipales y de las organizaciones de las sociedades civiles y sociales, en relación con los procesos de planeación, ejecución y seguimiento de los planes, programas y proyectos de inversión del nivel municipal.
+El COPLADE, por conducto de su Coordinación General y, en coordinación con la Secretaría y la Auditoría Superior de Fiscalización promoverán el fortalecimiento de las capacidades de las autoridades municipales y de las organizaciones de las sociedades civiles y sociales, en relación con los procesos de planeación, ejecución y seguimiento de los planes, programas y proyectos de inversión del nivel municipal.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2020)</small>
+Para ello, asistirá a los ayuntamientos, particularmente de aquellos con baja capacidad administrativa, en la formulación de los Planes Municipales y coordinará la capacitación integral de los Municipios, con la Secretaría, Secretaría de Honestidad, Transparencia y Función Pública, la Auditoría Superior de Fiscalización, y demás instituciones públicas y privadas relevantes.
 
-Para ello, asistirá a los ayuntamientos, particularmente de aquellos con baja capacidad administrativa, en la formulación de los Planes Municipales y coordinará la capacitación integral de los Municipios, con la Secretaría, Contraloría, el Órgano Superior de Fiscalización, y demás instituciones públicas y privadas relevantes.
-
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2020)</small>
-
-La evaluación del desempeño de los Planes Municipales de Desarrollo, serán evaluados a través del Órgano Superior de Fiscalización del Estado de Oaxaca.
+Las evaluaciones del desempeño de los Planes Municipales de Desarrollo serán evaluadas a través de la Auditoría Superior de Fiscalización del Estado de Oaxaca.
 
 ### Capítulo Octavo. Planes Microrregionales
 
@@ -1237,11 +1233,11 @@ III. Integrar la información estadística producida de la Dependencia o Entidad
 
 IV. Remitir la información estadística producida a la Coordinación General o a la Instancia Técnica de Evaluación en los plazos y términos que éstas determinen.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2023)</small>
 
 ###### Artículo 112.
 
-Las Áreas administrativas de las Dependencias y Entidades estatales y municipales serán fortalecidas en sus capacidades de gestión de información a través de convenios con la Coordinación General, Secretaría, el Órgano Superior de Fiscalización u otras Entidades con conocimiento y capacidad técnica en la materia.
+Las Áreas administrativas de las Dependencias y Entidades estatales y municipales serán fortalecidas en sus capacidades de gestión de información a través de convenios con la Coordinación General, Secretaría, la Auditoría Superior de Fiscalización u otras Entidades con conocimiento y capacidad técnica en la materia.
 
 ###### Artículo 113.
 
@@ -1416,3 +1412,9 @@ P.O. 17 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 8 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1079.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN III DEL ARTÍCULO 2, EL ARTÍCULO 66 Y EL ARTÍCULO 112 DE LA LEY ESTATAL DE PLANEACIÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación.
