@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-a-las-actividades-artesanales-del-estado-de-9443
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-27"
-last_updated: "2023-04-01"
+last_updated: "2023-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE ABRIL DE 2023 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023 (F. DE E., P.O. 8 DE ABRIL DE 2023).
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE ABRIL DE 2023.]</small>
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2013.
 
@@ -359,7 +359,7 @@ V. Promover la protección, rehabilitación y racionalización de las fuentes de
 
 ### CAPÍTULO X. DEL IMPULSO A LA DISTRIBUCIÓN Y COMERCIALIZACIÓN DE LAS ARTESANÍAS
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE ABRIL DE 2023)</small>
+(REFORMADO, P.O. 25 DE MARZO DE 2023) (F. DE E., P.O. 8 DE ABRIL DE 2023)
 
 ###### Artículo 30.
 
@@ -391,7 +391,7 @@ En el caso de la comercialización a que refiere el párrafo anterior, el Instit
 
 ### CAPÍTULO XI. DE LA PROMOCIÓN TURÍSTICA DE LAS ARTESANÍAS
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE ABRIL DE 2023)</small>
+(REFORMADO, P.O. 25 DE MARZO DE 2023) (F. DE E., P.O. 8 DE ABRIL DE 2023)
 
 ###### Artículo 34.
 
@@ -413,7 +413,7 @@ El Instituto podrá celebrar convenios de colaboración con los Ayuntamientos pa
 
 La presente Ley fomentará el rechazo a todas las expresiones de discriminación dentro de la actividad artesanal por razón de edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen étnico, posición social y económica, carácter físico, discapacidad o estado de salud.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE ABRIL DE 2023)</small>
+(REFORMADO, P.O. 25 DE MARZO DE 2023) (F. DE E., P.O. 8 DE ABRIL DE 2023)
 
 ###### Artículo 37.
 
@@ -644,6 +644,8 @@ P.O. 25 DE MARZO DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Oaxaca.
+
+> <small>[N. DE E. DE CONFORMIDAD CON LA FE DE ERRATAS DEL P.O. 8 DE ABRIL DE 2023, DEJA SIN EFECTO LA PUBLICACIÓN DE FECHA DEL P.O. 1 DE ABRIL DE 2023 QUEDANDO SUBSISTENTE LA PUBLICACIÓN DE FECHA DEL P.O. 25 DE MARZO DE 2023.]</small>
 
 P.O. 1 DE ABRIL DE 2023.
 
