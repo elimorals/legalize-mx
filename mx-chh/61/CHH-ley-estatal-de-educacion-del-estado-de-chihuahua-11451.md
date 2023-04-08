@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2022-11-02"
+last_updated: "2023-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2023.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -651,6 +651,10 @@ LVI. Generar, sostener y evaluar políticas públicas tendientes a evitar el aco
 
 LVII. Implementar programas con el objeto de identificar al alumnado sobresaliente, con la finalidad de incentivar y maximizar sus capacidades con la atención adecuada para procurar dichos fines.
 
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2023)</small>
+
+LVII (SIC). Al inicio de los ciclos escolares correspondientes, levantar consulta entre los cuerpos docentes sobre las necesidades materiales y de instrumentación pedagógicas en sus respectivos planteles, para garantizar la correcta distribución y priorización de los materiales y equipo de trabajo, así como lograr las condiciones de infraestructura adecuadas, dignas y confortables para la comunidad escolar, y dotar a las y los docentes, a cada uno con un mínimo de silla, escritorio y equipo de cómputo funcional.
+
 > <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
 
 LVIII. En materia de participación social, propiciar modelos para la práctica de la democracia participativa y deliberativa.
@@ -743,9 +747,9 @@ El Gobierno del Estado y los ayuntamientos podrán celebrar convenios para coord
 
 Para el ingreso, promoción, reconocimiento y permanencia del personal docente o con funciones de dirección, supervisión o inspección en la Educación Básica y Media Superior que impartan, deberán observar lo dispuesto por la Ley General del Servicio Profesional Docente.
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2023)</small>
 
-El Estado promoverá la participación directa del municipio para dar mantenimiento y proveer de equipo básico a las Escuelas Públicas Estatales y Municipales.
+El Estado promoverá la participación directa del municipio para facilitar las herramientas y equipos para el ejercicio de las y los docentes, así como para dar mantenimiento y proveer de equipo básico a las Escuelas Públicas Estatales y Municipales.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
@@ -2054,6 +2058,10 @@ XXI. Implementar políticas públicas, programas, proyectos y acciones dirigidos
 > <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2013)</small>
 
 XXII. Realizar las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos.
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2023)</small>
+
+XXIII. Promover, destinar y aplicar recursos presupuestales suficientes para el mejoramiento de las condiciones físicas y materiales necesarias para el ejercicio docente, priorizando a las y los docentes que se encuentren en planteles que por sus condiciones físicas o sociales, estén en situación de vulnerabilidad o rezago.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -4596,6 +4604,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 2 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLEY/0305/2022 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 8 DE LA LEY ESTATAL DE EDUCACIÓN, UNA FRACCIÓN XXV".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0265/2022 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ESTATAL DE EDUCACIÓN, A FIN DE GARANTIZAR EL EQUIPAMIENTO Y HERRAMIENTAS NECESARIAS PARA EL EJERCICIO DOCENTE”.]
 
 ###### ARTÍCULO ÚNICO.
 
