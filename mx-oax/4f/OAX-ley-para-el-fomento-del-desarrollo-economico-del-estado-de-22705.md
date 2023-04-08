@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-fomento-del-desarrollo-economico-del-estado-de-2270
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-06"
-last_updated: "2023-04-01"
+last_updated: "2023-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "OAX"
 ---
 # LEY PARA EL FOMENTO DEL DESARROLLO ECONOMICO DEL ESTADO DE OAXACA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE ABRIL DE 2023 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023 (F. DE E., P.O. 8 DE ABRIL DE 2023).
 
-(REPUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023)
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE ABRIL DE 2023.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 6 de octubre del 2001.
 
@@ -89,11 +87,11 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I.- Consejo Estatal: Consejo Estatal Consultivo de Fomento del Desarrollo Económico;
 
-(REFORMADA, P.O. 25 DE MARZO DE 2023) (REPUBLICADA, P.O. 1 DE ABRIL DE 2023)
+(REFORMADO, P.O. 25 DE MARZO DE 2023) (F. DE E., P.O. 8 DE ABRIL DE 2023)
 
 II.- Secretaría: Secretaría de Desarrollo Económico;
 
-(REFORMADA, P.O. 25 DE MARZO DE 2023) (REPUBLICADA, P.O. 1 DE ABRIL DE 2023)
+(REFORMADO, P.O. 25 DE MARZO DE 2023) (F. DE E., P.O. 8 DE ABRIL DE 2023)
 
 III.- INSPLABI: Instituto de Planeación para el Bienestar;
 
@@ -159,7 +157,7 @@ El Gobierno del Estado y los gobiernos municipales promoverán y apoyarán la cr
 
 ### CAPITULO I. DE LOS PLANES Y PROGRAMAS DE FOMENTO DEL DESARROLLO ECONOMICO
 
-(REFORMADO, P.O. 25 DE MARZO DE 2023) (REPUBLICADO, P.O. 1 DE ABRIL DE 2023)
+(REFORMADO, P.O. 25 DE MARZO DE 2023) (F. DE E., P.O. 8 DE ABRIL DE 2023)
 
 ###### ARTICULO 7°.
 
@@ -231,7 +229,7 @@ En congruencia con la Ley de Planeación del Estado y el Plan Estatal de Desarro
 
 I.- Señalar la participación que corresponda a las dependencias y entidades de la administración pública;
 
-(REFORMADA, P.O. 25 DE MARZO DE 2023) (REPUBLICADA, P.O. 1 DE ABRIL DE 2023)
+(REFORMADO, P.O. 25 DE MARZO DE 2023) (F. DE E., P.O. 8 DE ABRIL DE 2023)
 
 II.- Suscribir convenios para la coordinación de acciones con la participación y a propuesta del INSPLABI;
 
@@ -587,9 +585,9 @@ SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan y contravengan al presente Decreto.
 
-P.O. 25 DE MARZO DE 2023.
+> <small>[N. DE E. DE CONFORMIDAD CON LA FE DE ERRATAS DEL P.O. 8 DE ABRIL DE 2023, DEJA SIN EFECTO LA PUBLICACIÓN DE FECHA DEL P.O. 1 DE ABRIL DE 2023 QUEDANDO SUBSISTENTE LA PUBLICACIÓN DE FECHA DEL P.O. 25 DE MARZO DE 2023.]</small>
 
-REPUBLICADO, P.O. 1 DE ABRIL DE 2023
+P.O. 1 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1019.- MEDIANTE EL CUAL REFORMA LAS FRACCIONES II Y III DEL ARTÍCULO 2; EL ARTÍCULO 7; Y LA FRACCIÓN II DEL ARTÍCULO 10 DE LA LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA; REFORMAN LOS ARTÍCULOS 30, 34 Y 37 DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
 
