@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2023-04-03"
+last_updated: "2023-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -791,7 +791,9 @@ XXIV. Servidores Públicos;
 
 XXV. Transparencia y Anticorrupción;
 
-XXVI. Transporte Público; y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+XXVI. Movilidad Sustentable y Transporte; y
 
 XXVII. Vigilancia.
 
@@ -1239,19 +1241,45 @@ VII. La normatividad referente a la regulación de Archivos y la administración
 
 VIII. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 82.
 
-Corresponde a la Comisión de Transporte Público, el conocimiento, análisis, estudio, seguimiento, promoción y en su caso Dictaminación sobre los asuntos siguientes:
+Corresponde a la Comisión de Movilidad Sustentable y Transporte, el conocimiento, análisis, estudio, seguimiento, promoción y en su caso dictaminación, de los asuntos relacionados con:
 
 I. Las normas jurídicas destinadas a regular y reglamentar lo relacionado con el trasporte público y de servicios en el Estado;
 
-II. El tránsito de vehículos, la vialidad y el transporte público;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
 
-III. Las normas y programas referentes a la reglamentación de concesiones de transporte público colectivo en el Estado;
+II. Las normas relacionadas con el control y el orden de la circulación vehicular y peatonal en las vías públicas del Estado y de los Municipios de la Entidad;
 
-IV. Las normas referentes a las infracciones y sanciones respecto del trasporte público en el Estado, el tránsito de vehículos y la vialidad; y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
 
-V. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
+III. Las normas relacionadas con los convenios que celebre el Poder Ejecutivo del Estado con los ayuntamientos o los consejos de los municipios para asumir las funciones que les corresponden, de acuerdo con la legislación de la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+IV. Las normas relacionadas con la prestación directa o concesionada del transporte de personas y cosas utilizando las vías estatales de comunicación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+V. Las normas relacionadas con la construcción y funcionamiento de las vías de comunicación estatales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+VI. Las normas relacionadas con políticas, planes y programas para la difusión y fortalecimiento de la cultura y educación vial;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+VII. Las normas referentes a las infracciones y sanciones respecto del trasporte público en el Estado, el tránsito de vehículos y la vialidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+VIII. El análisis y fortalecimiento de la movilidad en la entidad, para el beneficio de la colectividad, tomando como base la priorización de los sujetos activos de la movilidad establecidos en la legislación de la materia; y
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+IX. Otros análogos, que a juicio de la persona que ostente la Presidencia del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
 ###### ARTÍCULO 83.
 
@@ -2348,3 +2376,11 @@ P.O. 3 DE ABRIL DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 334.- REFORMA A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES".
+
+###### ARTICULO UNICO.
+
+La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
