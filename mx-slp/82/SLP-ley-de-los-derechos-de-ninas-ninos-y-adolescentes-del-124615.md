@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2023-01-24"
+last_updated: "2023-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -189,9 +189,17 @@ XXVII. Sistema Municipal DIF: el Sistema Municipal para el Desarrollo Integral d
 
 XXVIII. Sistema Nacional de Protección Integral: el Sistema Nacional de Protección Integral de Niñas, Niños, Adolescentes;
 
-XXIX. Sistema Nacional DIF: el Sistema Nacional para el Desarrollo Integral de la Familia, y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
 
-XXX. Tratados internacionales: los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado Mexicano sea parte.
+XXIX. Sistema Nacional DIF: el Sistema Nacional para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+XXX. Tratados internacionales: los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado Mexicano sea parte, y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+XXXI. Violencia digital: los actos de, acoso, hostigamiento, amenazas, insultos, vulneración de datos e información privada, divulgación de información apócrifa, mensajes de odio, difusión de contenido sexual, convencimiento y reclutamiento, textos, fotografías, videos y/o datos personales u otras impresiones gráficas sonoras, verdaderas o alteradas, o cualquier otra acción que sea cometida a través de tecnologías de la información y la comunicación, plataformas de internet, redes sociales, correo electrónico, aplicaciones, o cualquier otro espacio digital, que atenten contra la integridad, la dignidad, la intimidad, la libertad, la vida privada, o vulneren algún derecho humano de las niñas, niños y adolescentes.
 
 ###### ARTÍCULO 7°.
 
@@ -1195,21 +1203,29 @@ En todos los casos, serán los padres o quienes ejerzan la patria potestad, tute
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán mecanismos para la protección de los intereses de niñas, niños y adolescentes respecto de los riesgos derivados del acceso a medios de comunicación y uso de sistemas de información que afecten o impidan objetivamente su desarrollo integral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 63.
 
-Sin perjuicio de lo previsto en las disposiciones aplicables a los medios de comunicación, las autoridades estatales competentes, en el ámbito de sus respectivas competencias, procurarán la difusión de información y materiales relacionados con:
+Sin perjuicio de lo previsto en las disposiciones aplicables a los medios de comunicación, las autoridades educativas, de salud, de seguridad pública, de prevención y de protección de niñas, niños y adolescentes, y demás a las que por sus atribuciones corresponda, deberán difundir información y materiales relacionados con:
 
-I. Orientar a niñas, niños y adolescentes en el conocimiento de sus derechos, y les ayude al pleno desarrollo de sus cualidades intelectuales, emocionales y contribuyan a salvaguardar su integridad física y moral;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+I. Orientar a niñas, niños y adolescentes en el conocimiento de sus derechos, para salvaguardar su desarrollo integral;
 
 II. Realizar una advertencia previa sobre el tono del contenido de los programas, anuncios o publicidad objeto de transmisión en el caso de tener contenidos perjudiciales para la formación de niñas, niños y adolescentes, que promuevan la violencia o hagan apología del delito y a la ausencia de valores;
 
-III. La vigilancia en los espectáculos públicos, las películas, los programas de radio y televisión, los videos, los impresos y cualquier otra forma de comunicación o información a que tengan acceso niñas, niños y adolescentes, no sean perjudiciales para su bienestar o que atenten contra su dignidad;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+III. La vigilancia en los espectáculos públicos, las películas, los programas de radio y televisión, los videos, los impresos, las redes sociales, plataformas digitales, correos electrónicos y cualquier otra forma de comunicación e información o espacio digital a que tengan acceso niñas, niños y adolescentes, no sean perjudiciales para su bienestar integral, o que atenten contra su dignidad;
 
 IV. Programas tendentes a contrarrestar los contenidos nocivos transmitidos por los medios y sus efectos en niñas, niños y adolescentes, particularmente mediante el fortalecimiento de su capacidad crítica y de rechazo a todo aquello que resulte dañino para su salud física y psicológica, y que vaya en contra de su desarrollo integral, así como la creación de espacios públicos en donde puedan discutir y expresarse a ese respecto; y el convencimiento a los padres de la necesidad de acompañar con una posición crítica a sus hijos en la relación con los contenidos a contrarrestar;
 
 V. Campañas sobre la cultura de la denuncia a la violación de los derechos de niñas, niños y adolescentes;
 
-VI. La prevención de violaciones a los derechos humanos de niñas, niños y adolescentes y la comisión de actos delictivos;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+VI. La prevención de violaciones a los derechos humanos de niñas, niños y adolescentes, la comisión de actos delictivos y cualquier forma de violencia;
 
 VII. La información y participación de niñas, niños y adolescentes para la prevención y atención de las adicciones;
 
@@ -1217,7 +1233,9 @@ VIII. El interés social y cultural para niñas, niños y adolescentes, de confo
 
 IX. La existencia en la sociedad de servicios, instalaciones y oportunidades destinados a niñas, niños y adolescentes, y
 
-X. El enfoque de inclusión, igualdad sustantiva, no discriminación y perspectiva de derechos humanos.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+X. El enfoque de inclusión, igualdad sustantiva, no discriminación, y perspectiva de derechos humanos, así como de prevención y atención de la violencia digital.
 
 El Sistema Estatal de Protección emitirá lineamientos sobre la información y materiales para la difusión, con perspectiva de derechos de niñas, niños y adolescentes para regular los contenidos de los sistemas estatales de radio y televisión, así como las campañas gubernamentales.
 
@@ -2720,3 +2738,11 @@ P.O. 24 DE ENERO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0729.- SE REFORMAN LOS ARTÍCULOS 6°, EN SUS FRACCIONES XXIX Y XXX Y 63, EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES I, III, VI Y X; Y ADICIONA AL ARTÍCULO 6°, LA FRACCIÓN XXXI, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente Decreto.
