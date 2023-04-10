@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2023-02-09"
+last_updated: "2023-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -239,15 +239,19 @@ El Supremo Tribunal de Justicia funcionará en Pleno y en salas colegiadas, las 
 
 El Pleno del Supremo Tribunal de Justicia conocerá de los asuntos de naturaleza judicial que determinen la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado; los Códigos, Civil; Penal; y de Procedimientos Civiles y Penales; la Ley Federal del Trabajo; la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes; la Ley Nacional de Ejecución Penal; la presente Ley, y las demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2023)</small>
 
 ###### ARTICULO 12.
 
-Las sesiones del Pleno del Supremo Tribunal de Justicia podrán ser ordinarias o extraordinarias y, en ambos casos, públicas o privadas. Las sesiones ordinarias se celebrarán el día y la hora que previamente se haya acordado, con las formalidades que establece el Reglamento Interior; y las extraordinarias, cuando sea necesario para tratar y resolver asuntos urgentes, previa convocatoria del Presidente del mismo, en la que deberá incluir el orden del día a la cual debe sujetarse la sesión, determinándose si será pública o privada. De igual forma, se podrá celebrar sesión extraordinaria cuando lo soliciten por lo menos tres magistrados.
+Las sesiones del Pleno del Supremo Tribunal de Justicia podrán ser ordinarias o extraordinarias, serán públicas y por excepción, privadas en los casos en que así lo exija la moral o el interés público. Las sesiones ordinarias se celebrarán el día y la hora que previamente se haya acordado, con las formalidades que establece el Reglamento Interior; y las extraordinarias, cuando sea necesario para tratar y resolver asuntos urgentes, previa convocatoria de quien presida, en la que deberá incluir el orden del día al cual debe sujetarse la sesión, determinándose si será pública o privada. De igual forma, se podrá celebrar sesión extraordinaria cuando lo soliciten por lo menos tres magistrados.
 
 > <small>(ADICIONADO, P.O. 20 DE MAYO DE 2021)</small>
 
 En epidemias; peligro de invasión; caso fortuito o fuerza mayor, en el país o en el Estado, las sesiones del Pleno del Supremo Tribunal de Justicia podrán celebrarse mediante video conferencia, trabajo a distancia, o medios virtuales análogos que permitan la comunicación simultánea, con transmisión en tiempo real, debiendo quedar videograbadas.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2023)</small>
+
+Todas las sesiones públicas del Pleno, incluyendo aquellas efectuadas en los términos del párrafo segundo de este artículo, serán transmitidas en tiempo real, y difundidas vía internet, por medio de la página oficial del Poder Judicial del Estado. Adicionalmente, en dicha página, estarán disponibles las versiones estenográficas de las sesiones públicas.
 
 ###### ARTICULO 13.
 
@@ -410,6 +414,10 @@ Cada Sala, de acuerdo con su competencia, conocerá:
 I. De los recursos de apelación que se interpongan en contra de las resoluciones de los jueces de Primera Instancia, de los Jueces Menores, y de los Jueces de Ejecución, y
 
 II. De los demás asuntos que expresamente les encomiende la ley.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2023)</small>
+
+ARTICULO 25 BIS. Las sesiones de las salas serán públicas y por excepción, privadas, previo acuerdo dictado por quien las presida, y siempre que el asunto a desahogar así lo exija. Con excepción de las sesiones privadas, las sesiones de las salas serán trasmitidas en vivo, a través de medios electrónicos que serán difundidos en la página del Poder Judicial del Estado, debiendo además agregarse la versión estenográfica de las mencionadas sesiones.
 
 ### CAPITULO V. Del Tribunal Electoral
 
@@ -2878,5 +2886,13 @@ P.O. 9 DE FEBRERO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0690.- SE REFORMA EL ARTÍCULO 68 EN SU PÁRRAFO PRIMERO; Y ADICIONA AL ARTÍCULO 66 EL PÁRRAFO CUARTO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0730.- SE REFORMA EL ARTÍCULO 12, EN SU PÁRRAFO PRIMERO; Y ADICIONA AL ARTÍCULO 12, PÁRRAFO TERCERO Y EL ARTÍCULO 25 BIS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO (SIC) SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a más tardar a los trescientos sesenta y cinco días naturales siguientes de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
