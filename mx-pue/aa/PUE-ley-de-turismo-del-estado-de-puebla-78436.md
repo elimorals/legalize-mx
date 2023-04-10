@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2022-07-15"
+last_updated: "2023-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2023.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -583,11 +583,19 @@ La Secretaría impulsará y promoverá el turismo social, el cual comprende todo
 
 Las Dependencias y las Entidades de la Administración Pública Estatal, coordinarán y promoverán sus esfuerzos entre ellas y con las de los gobiernos municipales, para impulsar acciones con los sectores social y privado para el fomento del turismo social.
 
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2023)</small>
+
+De igual forma, el turismo social también deberá considerar a las personas poblanas que retornan temporalmente a sus lugares de origen, pero que tienen residencia en el extranjero.
+
 ###### Artículo 34.
 
 La Secretaría, con la participación de las distintas dependencias y entidades promoverá la suscripción de convenios con prestadores de servicios turísticos para el cumplimiento de los objetivos de este Capítulo.
 
 Las dependencias y entidades del sector público del Poder Ejecutivo Estatal y de los Municipios, promoverán entre sus trabajadores el turismo social.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2023)</small>
+
+En caso de los migrantes de origen poblano que retornan al Estado de manera temporal, la Secretaría, en coordinación con el Instituto Poblano de Asistencia al Migrante promoverán la protección a sus derechos humanos y procurar su vinculación con instituciones de salud, de migración, seguridad pública, y con empresas con actividades de hospedaje, traslado y servicios turísticos que le brinden auxilio durante su estancia.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
 
@@ -1388,6 +1396,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 15 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 70 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN ÚLTIMO PÁRRAFO A LOS ARTÍCULOS 33 Y 34 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
