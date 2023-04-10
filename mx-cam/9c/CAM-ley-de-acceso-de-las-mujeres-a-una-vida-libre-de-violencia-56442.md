@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2022-12-05"
+last_updated: "2023-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -45,9 +45,11 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECH
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 1.
 
-La presente ley es de orden público e interés social y tiene por objeto prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como establecer los principios, instrumentos y mecanismos para garantizar su acceso a una calidad de vida que favorezca su desarrollo y bienestar.
+La presente ley es de orden público e interés social y tiene por objeto prevenir, atender, sancionar y erradicar las violencias contra las mujeres, adolescentes y niñas, así como establecer los principios y mecanismos para el pleno acceso a una vida libre de violencias, además de garantizar el goce y ejercicio de sus derechos humanos y fortalecer el régimen democrático establecido en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
 ###### ARTÍCULO 2.
 
@@ -213,9 +215,13 @@ El Estado y los Municipios promoverán las acciones conducentes para prevenir, a
 
 ### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 14.
 
-La violencia feminicida es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad y culminar en homicidio y formas de muerte violenta de mujeres, con perturbación social en un territorio determinado o la existencia de un agravio que impida el ejercicio pleno de los derechos humanos de las mujeres.
+La violencia feminicida es la forma extrema de violencia de género contra las mujeres, las adolescentes y las niñas, producto de la violación de sus derechos humanos, en los ámbitos público y privado, que pueden conllevar impunidad social y del Estado. Se manifiesta a través de conductas de odio y discriminación que ponen en riesgo sus vidas o culminan en muertes violentas como el feminicidio, el suicidio y el homicidio, u otras formas de muertes evitables y en conductas que afectan gravemente la integridad, la seguridad, la libertad personal y el libre desarrollo de las mujeres, las adolescentes y las niñas.
+
+En los casos de feminicidio se aplicarán las sanciones previstas en la legislación penal sustantiva.
 
 ###### ARTÍCULO 15.
 
@@ -1068,3 +1074,19 @@ P.O. 5 DE DICIEMBRE DE 2022.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales de igual o menor jerarquía en lo que se opongan a este decreto.
+
+P.O. 10 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 223 POR EL QUE “SE REFORMA EL ARTÍCULO 1 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 10 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 224 POR EL QUE "SE REFORMA EL ARTÍCULO 14 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
