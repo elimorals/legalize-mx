@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2023-03-23"
+last_updated: "2023-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, miércoles 4 de mayo de 2016.
 
@@ -621,6 +621,10 @@ Es obligación del Instituto de Transparencia otorgar las medidas pertinentes pa
 
 Para el cumplimiento de sus funciones, contará con la estructura orgánica necesaria de acuerdo con su reglamento y con base en el Presupuesto de Egresos autorizado.
 
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2023)</small>
+
+El Instituto contará con un Órgano Interno de Control para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas, conforme a la Ley General de Responsabilidades Administrativas.
+
 El personal que preste sus servicios al Instituto de Transparencia estará sujeto a un servicio profesional de carrera, en los términos del reglamento respectivo.
 
 El Congreso del Estado, deberá otorgar un presupuesto adecuado y suficiente al Instituto de Transparencia, para el funcionamiento efectivo y cumplimiento de la presente Ley, y demás disposiciones en la materia, según corresponda, conforme a las leyes en materia de presupuesto y responsabilidad hacendaria.
@@ -783,7 +787,9 @@ IV. Aprobar su Reglamento Interior, la estructura administrativa de sus órganos
 
 V. Elaborar su Programa Anual de Trabajo y su Proyecto de Presupuesto Anual;
 
-VI. Nombrar y remover a los servidores públicos que formen parte del Instituto de Transparencia, de conformidad con la normatividad relativa al servicio profesional de carrera y a partir de convocatorias públicas;
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2023)</small>
+
+VI. Nombrar y remover a los servidores públicos que formen parte del Instituto de Transparencia, sin perjuicio al supuesto establecido en la fracción XXXIV del artículo 57 de la Constitución Política del Estado Libre y Soberano de Puebla y de conformidad con la normatividad relativa al servicio profesional de carrera y a partir de convocatorias públicas;
 
 VII. Celebrar sesiones públicas;
 
@@ -2872,6 +2878,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 8, LAS FRACCIONES I Y XXV DEL 39, Y LA FRACCIÓN I DEL 133 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA.”]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 39; Y ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 26 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
