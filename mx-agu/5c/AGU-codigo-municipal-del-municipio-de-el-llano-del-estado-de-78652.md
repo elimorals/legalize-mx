@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-del-municipio-de-el-llano-del-estado-de-78652"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-01-17"
-last_updated: "2023-03-13"
+last_updated: "2023-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DEL MUNICIPIO DE EL LLANO DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ABRIL DE 2023 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO MUNICIPAL DE EL LLANO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2023.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de enero de 2011.
 
@@ -1769,6 +1771,8 @@ VI. En general, las medidas, planes y proyectos y la realización de los estudio
 
 ### CAPÍTULO III. De la Comisión de Protección Civil, Seguridad Pública, Tránsito y Vialidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 10 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 182.
 
 Son obligaciones y atribuciones de la Comisión de Protección Civil, Seguridad Pública, Tránsito y Vialidad:
@@ -1779,7 +1783,9 @@ II. La vigilancia estricta de que las autoridades y elementos de seguridad públ
 
 III. Promover y fomentar la superación técnica y cultural de los elementos de seguridad pública, protección civil, bomberos y de tránsito, en los que se capten y canalicen los puntos de vista y peticiones de la ciudadanía en materia de seguridad pública, protección civil, bomberos y de tránsito;
 
-IV. Formar parte del Consejo Municipal de Seguridad Pública, del Consejo Municipal de Giros Restringidos sobre venta y consumo de bebidas alcohólicas, de la Comisión de Honor y Justicia, de la Dirección de Seguridad Pública y vialidad y de los consejos o comités que se formen en materia de protección civil, bomberos y de tránsito, en los que se capten y canalicen los puntos de vista y peticiones de la ciudadanía en materia de seguridad pública, protección civil, bomberos y de tránsito;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+IV. Formar parte del Consejo Municipal de Seguridad Pública, del Consejo Municipal de Giros Restringidos sobre venta y consumo de bebidas alcohólicas y de los consejos o comités que se formen en materia de protección civil, bomberos y de tránsito, en los que se capten y canalicen los puntos de vista y peticiones de la ciudadanía en materia de seguridad pública, protección civil, bomberos y de tránsito;
 
 V. Vigilar que se establezca un sistema de información periódica de la actuación del personal de seguridad pública, protección civil y bomberos; y en el caso de que éstos incurran en faltas en el desempeño de sus funciones, o en la comisión de delitos, que se apliquen por la autoridad competente las sanciones que legalmente correspondan;
 
@@ -10401,63 +10407,11 @@ Se cometen faltas de acción cuando por la conducta irregular se infringe una no
 
 ###### ARTÍCULO 1129.
 
-En atención a la gravedad de la falta, se aplicarán los siguientes correctivos disciplinarios:
-
-I. Amonestación: Es el acto por el cual se advierte al infractor por la violación u omisión del cumplimiento de sus deberes y lo exhorta a corregirse y a no reincidir. La amonestación puede hacerse de palabra o por escrito, pero siempre en forma reservada. En caso de las amonestaciones escritas, una copia de la misma se integrará al expediente del amonestado;
-
-II. Arresto: Consiste en el confinamiento dentro de las instalaciones de la Corporación, de los infractores a los preceptos reglamentarios, con suspensión o no de sus servicios asignados. Se hará por escrito por un término de hasta 36 horas;
-
-III. Cambio de adscripción: Es la reubicación del elemento de su grupo, servicio o comisión, y se decreta cuando su comportamiento afecte la disciplina y desempeño en su adscripción original, o bien resulte necesario para mantener una buena relación e imagen con la comunidad donde se desempeña;
-
-IV. Suspensión temporal: Consiste en la separación del elemento a la función, cargo o comisión, por el incumplimiento de sus funciones o la reincidencia de faltas leves o graves, sin goce de sueldo y hasta por quince días. La suspensión temporal tendrá el carácter de preventiva. Será por tiempo indefinido, cuando el elemento quede sujeto a proceso penal por hechos ocurridos con motivo del desempeño de su servicio y su estancia en la Corporación pueda afectar la investigación. En este caso, la suspensión terminará hasta que el asunto quede total y definitivamente resuelto.
-
-Si el elemento resulta sin responsabilidad en resolución ejecutoriada, se le reintegrará al servicio pagándosele sus sueldos y prestaciones que hubiese dejado de percibir hasta ese momento;
-
-V. Pérdida de grado: Consiste en el retiro de la jerarquía que tiene un elemento para asignarle la inmediata inferior, cuando se niegue a asistir a los cursos de capacitación programados para los de su jerarquía, o asistiendo los repruebe, o bien demuestre ineficiencia para ejercer sus funciones; o en su caso; y
-
-VI. Destitución o baja: Consiste en la separación definitiva del servicio sin perjuicio del Ayuntamiento.
+(DEROGADO, P.O. 10 DE ABRIL DE 2023)
 
 ###### ARTÍCULO 1130.
 
-Serán consideradas causales de destitución de un elemento policíaco las siguientes:
-
-I. La falta a su servicio asignado por más de tres días consecutivos sin causa justificada, o acumule en un término de treinta días más de tres faltas;
-
-II. Incurra en falta de probidad y honradez durante el servicio;
-
-III. Porte el arma de cargo fuera del servicio;
-
-IV. Ponga en peligro a los particulares a causa de su imprudencia, descuido, negligencia o abandono del servicio;
-
-V. Se presente a sus labores bajo el influjo de bebidas alcohólicas o de sustancias psicotrópicas, estupefacientes o por consumirlas durante el servicio;
-
-VI. Desacate injustificadamente las órdenes de sus superiores;
-
-VII. Revele asuntos secretos o reservados de los que tenga conocimiento;
-
-VIII. Falsee, omita o altere informes o documentos relativos al desempeño de sus funciones;
-
-IX. Aplique a sus subalternos en forma dolosa o reiterada correctivo disciplinario inmerecido;
-
-X. Obligue a sus subalternos a entregarle dinero o cualquier otro tipo de dádivas, a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho;
-
-XI. Use armamento y equipo de procedencia o estancia ilegal o carente de registro;
-
-XII. Utilice equipo y armamento para fines distintos a la función pública asignada;
-
-XIII. La reincidencia en la comisión de conductas irregulares y la reincidencia en la comisión de infracciones al presente libro;
-
-XIV. Reciba sentencia judicial condenatoria por la comisión de un delito doloso, dentro o fuera del servicio;
-
-XV. Sustraer bienes o recursos asignados para el servicio;
-
-XVI. Abandone el servicio sin autorización. Para efectos del presente artículo, se considera abandono del servicio, además, si no se presenta al pase de lista al concluir el turno;
-
-XVII. Dar positivo en los exámenes antidoping;
-
-XVIII. Por colocarse en el supuesto de cualquier causal de despido sin responsabilidad para el Ayuntamiento, de las contenidas en la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes; y
-
-XIX. Por falta grave a los principios de actuación y a las normas disciplinarias, según calificación de la Comisión de Honor y Justicia.
+(DEROGADO, P.O. 10 DE ABRIL DE 2023)
 
 ###### ARTÍCULO 1131.
 
@@ -10543,49 +10497,29 @@ Las cartas laudatorias se entregarán por una actividad especifica que haya cont
 
 Los elementos del cuerpo de Seguridad Pública del Ayuntamiento, estarán sujetos a un régimen especial, de carácter meramente administrativo.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 1141.
 
-Para efectos de las relaciones de los elementos del cuerpo de Seguridad Pública con el Ayuntamiento, se atenderá a lo dispuesto por la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes, el presente Código y las demás disposiciones jurídicas aplicables.
+Para efectos de las relaciones de los elementos del cuerpo de Seguridad Pública con el Ayuntamiento, se atenderá a lo dispuesto por la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes, el presente Código el Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags. y las demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 1142.
 
-La imposición de las sanciones por la comisión de faltas o infracciones al presente Código o las leyes aplicables por elementos del cuerpo de Seguridad Pública corresponderá al organismo denominado Comisión de Honor y Justicia.
+La imposición de las sanciones por la comisión de faltas o infracciones establecidos en el Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags., y lo conducente en el presente Código, y demás disposiciones, leyes y reglamentos aplicables por elementos del cuerpo de Seguridad Pública corresponderá al organismo denominado Comisión de Honor y Justicia.
 
 ###### ARTÍCULO 1143.
 
-Sin perjuicio de lo previsto en otros ordenamientos jurídicos y de seguridad social respectivos, los elementos operativos y de las Corporaciones auxiliares tendrán los siguientes derechos:
-
-I. Percibir un salario digno y remunerado acorde con las responsabilidades del servicio;
-
-II. Recibir bajo resguardo, periódicamente, los uniformes, el equipo y los materiales necesarios para la prestación del servicio;
-
-III. Recibir un trato digno por parte de sus superiores jerárquicos, sus iguales y subalternos;
-
-IV. Recibir el respeto y la atención de la comunidad a la que sirven;
-
-V. Acceder al Servicio Civil de Carrera conforme lo establece la Ley de la Materia;
-
-VI. Participar en los concursos de promoción, o someterse a las evaluaciones para ascender a la jerarquía inmediata superior o conservar su puesto;
-
-VII. Recibir condecoraciones, estímulos o recompensas de conformidad con lo establecido en el presente ordenamiento;
-
-VIII. Respetar su jornada de trabajo establecida de acuerdo a las necesidades del servicio, salvo situaciones de emergencia o extraordinarias;
-
-IX. Disfrutar de prestaciones y compensaciones adicionales a su salario, de acuerdo a las posibilidades presupuestales del H. Ayuntamiento;
-
-X. Recibir asesoría y defensa jurídica gratuita cuando por motivos del servicio sean sujetos a algún procedimiento penal, civil, o por probable violación a los derechos humanos a instancia del ciudadano ofendido. Este apoyo cesará en el momento en el que se dicte sentencia condenatoria por delito doloso que haya causado ejecutoria, y el elemento cause baja de la corporación;
-
-XI. Recibir oportuna atención médica sin costo alguno, en la institución médica pública o privada más cercana al lugar donde se hayan suscitado los hechos, cuando sea lesionado en el cumplimiento de su deber;
-
-XII. Ser confinados en áreas especiales para policías en los casos en que sean sujetos a prisión preventiva; y
-
-XIII. Ser considerados para formar parte de la plantilla docente de capacitación del personal.
+(DEROGADO, P.O. 10 DE ABRIL DE 2023)
 
 ### CAPÍTULO XIII. De la Comisión de Honor y Justicia
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 1144.
 
-La Comisión de Honor y Justicia es el órgano facultado por el Honorable Ayuntamiento para sancionar los casos de faltas cometidas por los elementos del Cuerpo de Seguridad Pública, así como las acciones relevantes en que intervinieron los miembros de la Dirección, en términos de lo dispuesto por el presente Código y la Ley del Sistema Estatal de Seguridad Pública.
+La Comisión de Honor y Justicia es el órgano facultado por el Honorable Ayuntamiento para sancionar los casos de faltas cometidas por los elementos del Cuerpo de Seguridad Pública, así como las acciones relevantes en que intervinieron los miembros de la Dirección, en términos de lo dispuesto por el presente Código y la Ley del Sistema Estatal de Seguridad Pública, y el Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags.
 
 ###### ARTÍCULO 1145.
 
@@ -10593,23 +10527,15 @@ La Comisión de Honor y Justicia tiene por objeto que el Cuerpo de Seguridad Pú
 
 ###### ARTÍCULO 1146.
 
-La Comisión de Honor y Justicia depende jerárquicamente del Secretario del H. Ayuntamiento y debe de actuar en coordinación con el Director de Seguridad Pública y Vialidad para proteger los intereses de la sociedad y salvaguardar la tranquilidad y el orden público.
+(DEROGADO, P.O. 10 DE ABRIL DE 2023)
 
 ###### ARTÍCULO 1147.
 
-La Comisión de Honor y Justicia, se integrará de la siguiente forma:
-
-I. El Regidor encargado de la Comisión de Protección Civil, Seguridad Pública, Tránsito y Vialidad quien fungirá como Presidente de la Comisión;
-
-II. Dos elementos de la Dirección; quienes serán nombrados democráticamente por todos los miembros de la Dirección; y
-
-III. Dos ciudadanos reconocidos con destacada solvencia moral.
-
-Todos los integrantes tendrán derecho a voz y voto, siendo el Presidente de la Comisión de Honor y Justicia quien tendrá el voto de calidad en caso de empate. El Presidente de la Comisión podrá auxiliarse de una persona quien fungirá como Secretario de Actas, quien no tendrá derecho ni a voz ni a voto.
+(DEROGADO, P.O. 10 DE ABRIL DE 2023)
 
 ###### ARTÍCULO 1148.
 
-Los ciudadanos a que se refiere la fracción III del artículo anterior deberán radicar en el Municipio, ser de reconocida solvencia moral y serán designados por el Presidente Municipal.
+(DEROGADO, P.O. 10 DE ABRIL DE 2023)
 
 ###### ARTÍCULO 1149.
 
@@ -10635,7 +10561,9 @@ II. Combatir con energía las conductas lesivas para la comunidad o la corporaci
 
 III. Recibir de los ciudadanos o de los superiores jerárquicos las denuncias que se presenten en contra de los elementos operativos y analizarlas a efecto de determinar las sanciones correspondientes;
 
-IV. Conocer y resolver conforme al presente Código y a la ley sobre los correctivos disciplinarios que impongan los superiores jerárquicos a los elementos operativos, por las faltas en que incurren a los principios de actuación y las obligaciones previstos en la Ley y el presente Código;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+IV. Conocer y resolver conforme al presente Código, Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags., y demás disposiciones, leyes y reglamentos aplicables sobre los correctivos disciplinarios que impongan los superiores jerárquicos a los elementos operativos, por las faltas en que incurren a los principios de actuación y las obligaciones previstos en la Ley, (sic) Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags., y lo conducente en el presente Código, y demás disposiciones, leyes y reglamentos aplicables;
 
 V. Resolver sobre la suspensión temporal, los cambios de adscripción, la pérdida de grado y la destitución de los elementos operativos;
 
@@ -10645,15 +10573,21 @@ VII. Examinar los expedientes u hojas de servicio de los elementos operativos y 
 
 VIII. Resolver en conciencia, justicia y equidad, las denuncias interpuestas en contra de los elementos operativos, mediante la mayoría simple de la votación de los asistentes a la sesión;
 
-IX. Dictaminar sobre las sanciones que procedan, conforme lo establecido para tal efecto en la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes, La Ley de Responsabilidades de los Servidores Públicos al servicio del Estado, el presente Código y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+IX. Dictaminar sobre las sanciones que procedan, conforme lo establecido para tal efecto en la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes, (sic) Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags., y lo conducente en el presente Código, y demás disposiciones, leyes y reglamentos aplicables;
 
 X. Acordar las notas que hayan de ponerse en el expediente personal de servicio del elemento operativo;
 
-XI. Otorgar condecoraciones y determinar, estímulos y recompensas, de conformidad con la Ley del Sistema Estatal de Seguridad Pública, el presente Código y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+XI. Otorgar condecoraciones y determinar, estímulos y recompensas, de conformidad con la Ley del Sistema Estatal de Seguridad Pública, el Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags., y lo conducente en el presente Código, y demás disposiciones, leyes y reglamentos aplicables
 
 XII. Celebrar sesiones ordinarias por lo menos una vez al mes y las sesiones extraordinarias que sean necesarias; y
 
-XIII. Las demás que le señale la Ley.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+XIII. Las demás que le señale el Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags., y lo conducente en el presente Código, y demás disposiciones, leyes y reglamentos aplicables.
 
 ###### ARTÍCULO 1152.
 
@@ -10669,19 +10603,27 @@ III. Las sesiones de la Comisión de Honor y Justicia serán públicas y en algu
 
 Son atribuciones del Presidente:
 
-I. Recibir las denuncias y en su caso la ratificación de las mismas, por parte de la ciudadanía y autoridades en general, en contra de los elementos operativos de la Dirección;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+I. Recibir las denuncias y en su caso la ratificación de las mismas, por parte de la ciudadanía y autoridades en general, en contra de los elementos operativos de la Dirección de Seguridad Pública y Vialidad;
 
 II. Presidir y coordinar los trabajos de la Comisión;
 
-III. Citar a los miembros de la Comisión de Honor y Justicia, cuantas veces sea necesario, una vez que se dé curso a alguna denuncia o queja que se presente en contra del personal operativo de la Dirección;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+III. Citar a los miembros de la Comisión de Honor y Justicia, cuantas veces sea necesario, una vez que se dé curso a alguna denuncia o queja que se presente en contra del personal operativo de la Dirección de Seguridad Pública y Vialidad;
 
 IV. Instruir el procedimiento;
 
 V. Elaborar la ponencia, en que la Comisión de Honor y Justicia habrá de fundamentar su resolución;
 
-VI. Emitir la resolución que la Comisión hubiere determinado en forma colegiada, acorde a los principios que establece este Libro y ordenar su notificación; y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
 
-VII. Las demás que prevenga este Libro o le confiera la Comisión.
+VI. Emitir la resolución que la Comisión hubiere determinado en forma colegiada, acorde a los principios que establece el Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags., y lo conducente en el presente Código, y demás disposiciones, leyes y reglamentos aplicables y ordenar su notificación; y
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+VII. Las demás que prevenga el Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags., y lo conducente en el presente Código, y demás disposiciones, leyes y reglamentos aplicables o le confiera la Comisión.
 
 ###### ARTÍCULO 1154.
 
@@ -10697,7 +10639,9 @@ IV. Elaborar los alegatos del caso en cuestión y en su caso solicitar la imposi
 
 V. Solicitar al elemento operativo de la Dirección un informe pormenorizado de los hechos que se le atribuyen, o que de alguna manera tuvo injerencia, mismos que serán investigados por la Comisión;
 
-VI. Solicitar al Director de Seguridad Pública y Vialidad, la suspensión temporal del elemento operativo. Para el caso concreto con relación a la suspensión temporal y separación del cargo se estará a lo dispuesto en la Ley del Sistema Estatal de Seguridad Pública para el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+VI. Solicitar al Director de Seguridad Pública y Vialidad, la suspensión temporal del elemento operativo. Para el caso concreto con relación a la suspensión temporal y separación del cargo se estará a lo dispuesto en la Ley del Sistema Estatal de Seguridad Pública para el Estado de Aguascalientes y en el Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags.;
 
 VII. Presentar el dictamen para premiar al elemento operativo que se haga acreedor a algún estímulo, reconocimiento o condecoración; y
 
@@ -10761,7 +10705,9 @@ VIII. En el caso de no comparecer el elemento operativo sin causa justificada, s
 
 IX. Las audiencias no podrán suspenderse salvo cuando existan causas de fuerza mayor ajenas a la Comisión que impidan su desahogo o lo solicite el defensor a efecto de allegarse de medios para su mejor defensa, en caso de que surjan causa supervenientes al hecho que se analiza, previa calificación del Presidente, la prórroga no excederá en todo caso de diez días hábiles; y
 
-X. En cualquier momento, previo o posterior a la notificación a que se refiere la fracción segunda de este artículo, la Comisión a petición del Fiscal, podrá suspender temporalmente al presunto responsable de su cargo, empleo o comisión, si a su juicio así conviniere, para la conducción de la investigación o por la gravedad del hecho, de conformidad a la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+X. En cualquier momento, previo o posterior a la notificación a que se refiere la fracción segunda de este artículo, la Comisión a petición del Fiscal, podrá suspender temporalmente al presunto responsable de su cargo, empleo o comisión, si a su juicio así conviniere, para la conducción de la investigación o por la gravedad del hecho, de conformidad a la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes y en el Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags.. (sic)
 
 ###### ARTÍCULO 1161.
 
@@ -10829,9 +10775,11 @@ Se levantará acta circunstanciada de todas las diligencias que se practiquen, r
 
 La resolución se notificará por escrito al interesado personalmente, dentro de los cinco días siguientes, pudiendo hacerse además de viva voz en la propia audiencia, una vez tomada la resolución para lo cual es convocado nuevamente el elemento operativo, con su defensor en su caso y el fiscal, en caso de que se hubieren retirado para que la Comisión de Honor y Justicia deliberara.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 1171.
 
-A fin de que la Comisión de Honor y Justicia, pueda establecer las sanciones correspondientes al caso concreto, se acatará lo dispuesto por el presente Libro.
+A fin de que la Comisión de Honor y Justicia, pueda establecer las sanciones correspondientes al caso concreto, se acatará lo dispuesto por el presente Libro y en el Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags.. (sic)
 
 ###### ARTÍCULO 1172.
 
@@ -10846,6 +10794,10 @@ III. La Ley del Procedimiento Administrativo del Estado;
 IV. La Ley de Responsabilidades de los Servidores Públicos del Estado; y
 
 V. El Código de Procedimientos Civiles del Estado de Aguascalientes, para efectos de valoración de los medios probatorios.
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2023)</small>
+
+VII (SIC). El Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags.
 
 ### CAPÍTULO XIV. De los Centros de Detención Preventiva Municipal
 
@@ -16928,3 +16880,15 @@ Las presentes reformas iniciarán su vigencia al día siguiente de su publicaci�
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opongan a los dispuesto en la presente reforma.
+
+P.O. 10 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL CÓDIGO MUNICIPAL DE EL LLANO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opongan a los (sic) dispuesto en la presente reforma.
