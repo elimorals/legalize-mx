@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2022-10-21"
+last_updated: "2023-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -59,9 +59,17 @@ I.- Establecer las normas conforme a las cuales el Estado y los Municipios, a tr
 
 II.- Establecer las bases mediante las cuales se integrará el Sistema Estatal de Ordenamiento Territorial y Desarrollo Urbano, así como los instrumentos de gestión y ejecución a través de la regulación, inducción, concertación y coordinación de los agentes públicos, sociales y privados en la materia;
 
-III.- Fijar las normas y procedimientos básicos para regular, controlar y vigilar las acciones urbanas y el ordenamiento territorial, en los términos de esta Ley, los programas del Sistema Estatal de Ordenamiento Territorial y Desarrollo Urbano y las demás disposiciones reglamentarias; y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2023)</small>
 
-IV.- Definir las bases conforme a las cuales se dará la participación ciudadana en el desarrollo urbano y el ordenamiento del territorio.
+III.- Fijar las normas y procedimientos básicos para regular, controlar y vigilar las acciones urbanas y el ordenamiento territorial, en los términos de esta Ley, los programas del Sistema Estatal de Ordenamiento Territorial y Desarrollo Urbano y las demás disposiciones reglamentarias;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2023)</small>
+
+IV.- Definir las bases conforme a las cuales se dará la participación ciudadana en el desarrollo urbano y el ordenamiento del territorio; y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2023)</small>
+
+V.- Garantizar la protección y el acceso equitativo a los espacios públicos y la cercanía de la población con los bienes y servicios, así como a las fuentes de empleo que requieren para desempeñar sus actividades urbanas.
 
 ###### ARTICULO 2.
 
@@ -136,6 +144,10 @@ XI BIS.- División familiar: la partición de un terreno en dos o más fraccione
 XII.- El Ejecutivo: El Titular del Poder Ejecutivo del Estado de Hidalgo;
 
 XIII.- Equipamiento urbano: El conjunto de inmuebles, instalaciones, construcciones y mobiliario urbano, de propiedad pública o privada, utilizados para prestar a la población los servicios urbanos y desarrollar las actividades económicas;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2023)</small>
+
+XIII BIS.- Espacio Público: áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
@@ -231,9 +243,39 @@ XLII.- Zonificación primaria: Es la determinación de las áreas que integran y
 
 XLIII.- Zonificación secundaria: Es la que define las normas de habitabilidad, densidades, coeficientes de utilización y de ocupación, alineamientos y edificación.
 
-### CAPITULO SEGUNDO. DE LAS AUTORIDADES Y SUS FACULTADES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2023)</small>
 
-### CAPITULO PRIMERO. DEL SISTEMA ESTATAL DE DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL
+### CAPITULO PRIMERO BIS. DE LOS PRINCIPIOS
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
+
+ARTICULO 4 BIS.- La planeación, regulación y gestión de los asentamientos humanos, centros de población y la ordenación territorial, se conducirán en apego a los siguientes principios de política pública:
+
+I.- Derecho a la ciudad. Garantizar a todos los habitantes de un asentamiento humano o centro de población el acceso a la vivienda, infraestructura, equipamiento y servicios básicos, a partir de los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales suscritos por México en la materia;
+
+II.- Equidad e inclusión. Garantizar el ejercicio pleno de derechos en condiciones de igualdad, promoviendo la cohesión social a través de medidas que impidan la discriminación, segregación o marginación de individuos o grupos. Promover el respeto de los derechos de los grupos vulnerables, la perspectiva de género y que todos los habitantes puedan decidir entre una oferta diversa de suelo, viviendas, servicios, equipamientos, infraestructura y actividades económicas de acuerdo a sus preferencias, necesidades y capacidades;
+
+III.- Derecho a la propiedad urbana. Garantizar los derechos de propiedad inmobiliaria con la intención de que los propietarios tengan protegidos sus derechos, pero también asuman responsabilidades específicas con el estado y con la sociedad, respetando los derechos y límites previstos en la Constitución Política de los Estados Unidos Mexicanos y esta Ley. El interés público prevalecerá en la ocupación y aprovechamiento del territorio;
+
+IV.- Coherencia y racionalidad. Adoptar perspectivas que promuevan el ordenamiento territorial y el desarrollo urbano de manera equilibrada, armónica, racional y congruente, acorde a los planes y políticas nacionales; así como procurar la eficiencia y transparencia en el uso de los recursos públicos;
+
+V.- Participación democrática y transparencia. Proteger el derecho de todas las personas a participar en la formulación, seguimiento y evaluación de las políticas, planes y programas que determinan el desarrollo de las ciudades y el territorio. Para lograrlo se garantizará la transparencia y el acceso a la información pública de conformidad con lo dispuesto en la presente Ley y demás legislación aplicable en la materia;
+
+VI.- Productividad y eficiencia. Fortalecer la productividad y eficiencia de las ciudades y del territorio como eje del crecimiento económico, a través de la consolidación de redes de vialidad y movilidad, energía y comunicaciones, creación y mantenimiento de infraestructura productiva, equipamientos y servicios públicos de calidad. Maximizar la capacidad de la ciudad para atraer y retener talentos e inversiones, minimizando costos y facilitar la actividad económica;
+
+VII.- Protección y progresividad del Espacio Público. Crear condiciones de habitabilidad de los espacios públicos, como elementos fundamentales para el derecho a una vida sana, la convivencia, recreación y seguridad ciudadana que considere las necesidades diferenciadas por personas y grupos. Se fomentará el rescate, la creación y el mantenimiento de los espacios públicos que podrán ampliarse, o mejorarse, pero nunca destruirse o verse disminuidos. En caso de utilidad pública, estos espacios deberán ser sustituidos por otros que generen beneficios equivalentes;
+
+VIII.- Resiliencia, seguridad urbana y riesgos. Propiciar y fortalecer todas las instituciones y medidas de prevención, mitigación, atención, adaptación y resiliencia que tengan por objetivo proteger a las personas y su patrimonio, frente a los riesgos naturales y antropogénicos; así como evitar la ocupación de zonas de alto riesgo;
+
+IX.- Sustentabilidad ambiental. Promover prioritariamente el uso racional del agua y de los recursos naturales renovables y no renovables, para evitar comprometer la capacidad de futuras generaciones; asimismo, evitar que se rebase la capacidad de carga de los ecosistemas y que el crecimiento urbano ocurra sobre suelos agropecuarios de alta calidad, áreas naturales protegidas o bosques; y
+
+X.- Accesibilidad universal y movilidad. Promover una adecuada accesibilidad universal que genere cercanía y favorezca la relación entre diferentes actividades urbanas con medidas como la flexibilidad de usos del suelo compatibles y densidades sustentables, un patrón coherente de redes viales primarias, la distribución jerarquizada de los equipamientos y una efectiva movilidad que privilegie las calles completas, el transporte público, peatonal y no motorizado.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
+
+ARTICULO 4 TER.- Toda política pública de ordenamiento territorial, desarrollo y planeación urbana y coordinación metropolitana deberá observar los principios señalados en el artículo anterior, sin importar el orden de gobierno de donde emana.
+
+### CAPITULO SEGUNDO. DE LAS AUTORIDADES Y SUS FACULTADES
 
 ###### ARTICULO 5.
 
@@ -459,6 +501,10 @@ XXVII.- Aprobar los proyectos ejecutivos para la constitución de subdivisiones,
 
 Así como la supervisión de la ejecución de las obras de urbanización e infraestructura y equipamiento urbano, que establezcan los acuerdos de autorización correspondientes.
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2023)</small>
+
+XXVII BIS.- Formular y ejecutar acciones específicas de promoción y protección a los espacios públicos;
+
 > <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 XXVIII.- Recibir, conservar y operar las áreas de donación establecidas a favor del municipio, así como las obras de urbanización, infraestructura y equipamiento urbano de los conjuntos urbanos, subdivisiones y condominios conforme a esta ley y su Reglamento; y
@@ -469,7 +515,7 @@ XXIX.- Ejercer indistintamente con el Estado, el derecho de preferencia para adq
 
 ## TITULO SEGUNDO. DE LA PLANEACION URBANA
 
-### CAPITULO SEGUNDO. DE LA FORMULACION, APROBACION, MODIFICACION Y ACTUALIZACION DE LOS PROGRAMAS
+### CAPITULO PRIMERO. DEL SISTEMA ESTATAL DE DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL
 
 ###### ARTICULO 10.
 
@@ -543,7 +589,7 @@ VI.- La evaluación del plan que abroga o modifica, en su caso.
 
 ARTICULO 13 BIS.- Los programas de Desarrollo Urbano y Ordenamiento Territorial, deberán considerar las normas oficiales mexicanas emitidas en la materia, las medidas y criterios en materia de Resiliencia previstos en el programa nacional de ordenamiento territorial y desarrollo urbano y en los atlas de riesgos para la definición de los Usos del suelo, Destinos y Reservas.
 
-### CAPITULO TERCERO. DE LA COORDINACION DE AUTORIDADES EN LOS FENOMENOS DE CONURBACION Y METROPOLIZACION
+### CAPITULO SEGUNDO. DE LA FORMULACION, APROBACION, MODIFICACION Y ACTUALIZACION DE LOS PROGRAMAS
 
 ###### ARTICULO 14.
 
@@ -605,7 +651,7 @@ El Estado, por conducto de la Secretaría, podrá convenir con los Municipios, a
 
 Para la modificación y actualización de los programas a que se refiere esta Ley, se seguirá el mismo procedimiento que para su aprobación.
 
-### CAPITULO CUARTO. DE LOS EFECTOS DE LOS PROGRAMAS
+### CAPITULO TERCERO. DE LA COORDINACION DE AUTORIDADES EN LOS FENOMENOS DE CONURBACION Y METROPOLIZACION
 
 ###### ARTICULO 19.
 
@@ -673,9 +719,7 @@ Para la eficaz prestación de los servicios públicos, así como para la constru
 
 Se podrán crear consejos metropolitanos como instancia de participación, consulta y opinión en materia de asuntos metropolitanos, su integración y funcionamiento se establecerán en el Reglamento de esta Ley.
 
-### CAPITULO QUINTO. DE LA PARTICIPACION SOCIAL Y DE SUS ORGANISMOS EN EL PROCESO DE PLANEACION
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+### CAPITULO CUARTO. DE LOS EFECTOS DE LOS PROGRAMAS
 
 ###### ARTICULO 31.
 
@@ -715,7 +759,9 @@ Todas las acciones, inversiones y obras relativas al aprovechamiento del territo
 
 Las Autoridades Administrativas y Judiciales, en los procesos cuyas resoluciones y sentencias impliquen la transmisión, transformación, fragmentación o aprovechamiento de áreas o predios en un asentamiento humano, deberán sujetarse al cumplimiento de los programas que prevé esta Ley.
 
-### CAPITULO PRIMERO. INSTRUMENTOS DE REGULACION DEL DESARROLLO URBANO
+### CAPITULO QUINTO. DE LA PARTICIPACION SOCIAL Y DE SUS ORGANISMOS EN EL PROCESO DE PLANEACION
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 37.
 
@@ -823,7 +869,7 @@ El Reglamento de esta Ley establecerá las reglas particulares para la integraci
 
 ## TITULO TERCERO. REGIMEN DE GESTION URBANA
 
-### CAPITULO SEGUNDO. INSTRUMENTOS DE ACCION DIRECTA Y PROMOCION DEL DESARROLLO URBANO
+### CAPITULO PRIMERO. INSTRUMENTOS DE REGULACION DEL DESARROLLO URBANO
 
 #### SECCIÓN PRIMERA. DE LA REGULACION A LA PROPIEDAD DE LOS CENTROS DE POBLACION
 
@@ -1053,7 +1099,7 @@ Los tanques de almacenamiento deben ubicarse a una distancia mínima de resguard
 
 En áreas habitacionales la distancia mínima de separación a las viviendas será de 15 metros a los tanques de almacenamiento, debiendo construir una barda como resguardo a doble altura.
 
-### CAPITULO PRIMERO. DE LA CONGRUENCIA CON LOS PROGRAMAS
+### CAPITULO SEGUNDO. INSTRUMENTOS DE ACCION DIRECTA Y PROMOCION DEL DESARROLLO URBANO
 
 #### SECCION PRIMERA. DE LAS ACCIONES Y POLITICAS DE FUNDACION, CRECIMIENTO, MEJORAMIENTO Y CONSERVACION DE LOS ASENTAMIENTOS HUMANOS
 
@@ -1681,7 +1727,7 @@ La reglamentación de esta Ley precisará los procedimientos, requisitos y tiemp
 
 ## TITULO CUARTO. RÉGIMEN DE CONTROL DEL DESARROLLO URBANO
 
-### CAPITULO PRIMERO. DEL SISTEMA DE INFORMACION Y EVALUACION DEL DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y DE LOS OBSERVATORIOS URBANOS
+### CAPITULO PRIMERO. DE LA CONGRUENCIA CON LOS PROGRAMAS
 
 #### SECCION PRIMERA. DEL SISTEMA ADMINISTRATIVO DE CONTROL DEL DESARROLLO URBANO
 
@@ -2193,15 +2239,71 @@ Para tramitar y obtener las licencias, constancias y demás autorizaciones a que
 
 Para obtener el registro señalado en el Artículo anterior, se deberán satisfacer ante la autoridad competente, los requisitos establecidos en el Reglamento de esta Ley y demás disposiciones reglamentarias.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2023)</small>
+
+## TITULO CUARTO BIS. INSTRUMENTOS NORMATIVOS Y DE CONTROL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2023)</small>
+
+### CAPITULO UNICO. REGULACIÓN DEL ESPACIO PÚBLICO
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
+
+ARTICULO 180 BIS.- La creación, recuperación, mantenimiento y defensa del espacio público para todo tipo de usos y para la movilidad, es de alta prioridad para los tres órdenes de gobierno, por lo que en los procesos de planeación urbana, programación de inversiones públicas, aprovechamiento y utilización de áreas, polígonos y predios baldíos, públicos o privados, dentro de los centros de población, se deberá de privilegiar el diseño, adecuación, mantenimiento y protección de espacios públicos, teniendo en cuenta siempre la evolución de la ciudad.
+
+Las autoridades de los tres órdenes de gobierno, procurarán la instrumentación de mobiliario para el estacionamiento de bicicletas y otros vehículos impulsados por tracción humana en los edificios que ocupan.
+
+Los planes o programas municipales de desarrollo urbano y de zonas metropolitanas, definirán la dotación de espacio público en cantidades no menores a lo establecido por las normas oficiales mexicanas. Privilegiarán la dotación y preservación del espacio para el tránsito de los peatones y para las bicicletas, y criterios de conectividad entre vialidades que propicien la movilidad; igualmente los espacios abiertos para el deporte, los parques y las plazas de manera que cada colonia, barrio y localidad cuente con la dotación igual o mayor a la establecida (sic) las normas mencionadas.
+
+Los planes o programas municipales de desarrollo urbano incluirán los aspectos relacionados con el uso, aprovechamiento y custodia del espacio público, contemplando la participación social efectiva a través de la consulta, la opinión y la deliberación con las personas y sus organizaciones e instituciones, para determinar las prioridades y los proyectos sobre espacio público y para dar seguimiento a la ejecución de las obras, la evaluación de los programas y la operación y funcionamiento de dichos espacios y entre otras acciones, las siguientes:
+
+I. Establecer las medidas para la identificación y mejor localización de los espacios públicos con relación a la función que tendrán y la ubicación de los beneficiarios, atendiendo las normas nacionales en la materia;
+
+II. Crear y defender el espacio público, la calidad de su entorno y las alternativas para su expansión;
+
+III. Definir las características del espacio público y el trazo de la red vial de manera que ésta garantice la conectividad adecuada para la movilidad y su adaptación a diferentes densidades en el tiempo;
+
+IV. Definir la mejor localización y dimensiones de los equipamientos colectivos de interés público o social en cada barrio con relación a la función que tendrán y a la ubicación de los beneficiarios como centros docentes y de salud, espacios públicos para la recreación, el deporte y zonas verdes destinados a parques, plazas jardines o zonas de esparcimiento, respetando las normas y lineamientos vigentes; y
+
+V. Establecer los instrumentos bajo los cuales se podrá autorizar la ocupación del espacio público, que únicamente podrá ser de carácter temporal y uso definido.
+
+Los municipios serán los encargados de velar, vigilar y proteger la seguridad, integridad y calidad del espacio público.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
+
+ARTICULO 180 TER.- El uso, aprovechamiento y custodia del espacio público se sujetará a lo siguiente:
+
+I. Prevalecerá el interés general sobre el particular;
+
+II. Se deberá promover la equidad en el uso y disfrute;
+
+III. Se deberá asegurar la accesibilidad universal y libre circulación de todas las personas, promoviendo espacios públicos que sirvan como transición y conexión entre barrios y fomenten la pluralidad y la cohesión social;
+
+IV. En el caso de los bienes de dominio público, éstos son inalienables;
+
+V. Se procurará mantener el equilibrio entre las áreas verdes y la construcción de la infraestructura, tomando como base de cálculo las normas nacionales en la materia;
+
+VI. Los espacios públicos originalmente destinados a la recreación, el deporte y zonas verdes destinados a parques, jardines o zonas de esparcimiento, no podrán ser destinados a otro uso;
+
+VII. Los instrumentos en los que se autorice la ocupación del espacio público solo confieren a sus titulares el derecho sobre la ocupación temporal y para el uso definido;
+
+VIII. Se promoverá la adecuación de los reglamentos municipales que garanticen comodidad y seguridad en el espacio público, sobre todo para los peatones, con una equidad entre los espacios edificables y los no edificables;
+
+IX. Se deberán definir los instrumentos, públicos o privados, que promuevan la creación de espacios públicos de dimensiones adecuadas para integrar barrios, de tal manera que su ubicación y beneficios sean accesibles a distancias peatonales para sus habitantes;
+
+X. Se establecerán los lineamientos para que el diseño y traza de vialidades en los Centros de Población asegure su continuidad, procurando una cantidad mínima de intersecciones, que fomente la movilidad, de acuerdo a las características topográficas y culturales de cada región;
+
+XI. Se deberá asegurar la preservación y restauración del equilibrio ecológico y la protección al ambiente, la calidad formal e imagen urbana, la conservación de los monumentos y el paisaje y mobiliario urbano; y
+
+XII. En caso de tener que utilizar suelo destinado a espacio público para otros fines, la autoridad tendrá que justificar sus acciones para dicho cambio en el uso de suelo, además de sustituirlo por otro de características, ubicación y dimensiones similares.
+
+Los municipios vigilarán y protegerán la seguridad, integridad, calidad, mantenimiento y promoverán la gestión del Espacio Público con cobertura suficiente.
+
+Todos los habitantes tienen el derecho a denunciar ante las autoridades correspondientes, cualquier acción que atente contra la integridad y condiciones de uso, goce y disfrute del espacio público.
+
 ## TITULO QUINTO. VERIFICACION Y RESPONSABILIDADES DEL REGIMEN URBANO
 
-### CAPITULO SEGUNDO. DE LA DENUNCIA CIUDADANA
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
-
-### CAPITULO TERCERO. DE LA INSPECCION Y VIGILANCIA
-
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+### CAPITULO PRIMERO. DEL SISTEMA DE INFORMACION Y EVALUACION DEL DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y DE LOS OBSERVATORIOS URBANOS
 
 ###### ARTICULO 181.
 
@@ -2239,7 +2341,9 @@ IV.- Llevar el registro de las solicitudes presentadas, con el objeto de revisar
 
 El Estado y los Municipios promoverán la creación y funcionamiento de observatorios urbanos, constituidos como redes de información, con la participación plural de la sociedad y del gobierno, para el estudio, investigación, organización y difusión de conocimientos sobre los problemas de las ciudades y los nuevos modelos de políticas urbanas y de gestión pública. Operarán como parte de los institutos de planeación o de manera coordinada con estos.
 
-### CAPITULO CUARTO. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO SEGUNDO. DE LA DENUNCIA CIUDADANA
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 186.
 
@@ -2251,7 +2355,7 @@ Toda persona tiene el derecho de hacer del conocimiento de la Secretaría, autor
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-### CAPITULO QUINTO. DE LOS MEDIOS DE DEFENSA DE LOS PARTICULARES
+### CAPITULO TERCERO. DE LA INSPECCION Y VIGILANCIA
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -2322,6 +2426,8 @@ Las medidas de seguridad serán ordenadas por las Autoridades competentes sin qu
 ###### ARTICULO 192.
 
 Se considerará responsable solidario para efectos del presente ordenamiento a toda persona física o moral obligada conjuntamente con el titular, a responder de algún proyecto de construcción, así como de la colocación, instalación, modificación o retiro de cualquier elemento mueble o inmueble que altere o modifique el paisaje urbano, en los términos de la presente Ley y sus disposiciones reglamentarias.
+
+### CAPITULO CUARTO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 193.
 
@@ -2505,6 +2611,10 @@ VII.- Cuando los propietarios o poseedores de inmuebles se rehúsen, incumplan o
 
 El costo de la ejecución forzosa se considerará crédito fiscal, en los términos de las disposiciones fiscales vigentes en el Estado.
 
+### CAPITULO QUINTO. DE LOS MEDIOS DE DEFENSA DE LOS PARTICULARES
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 206.
 
 Contra las resoluciones de las autoridades administrativas, procede el recurso de reconsideración ante la autoridad responsable en los términos previstos en el Reglamento de esta Ley.
@@ -2636,5 +2746,11 @@ P.O. 21 DE OCTUBRE DE 2022.
 P.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 265 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 11 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 490 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
