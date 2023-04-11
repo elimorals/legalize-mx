@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-conducta-de-la-comision-de-deporte-del-estado-de-1459
 country: "mx"
 rank: "codigo"
 publication_date: "2020-12-31"
-last_updated: "2020-12-31"
+last_updated: "2023-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO DE CONDUCTA DE LA COMISIÓN DE DEPORTE DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2023.
 
 Código publicado en la Décima Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el jueves 31 de diciembre de 2020.
 
@@ -45,7 +45,9 @@ La emisión de este documento, representa un instrumento sustancial en materia d
 
 Por lo cual exhortó a todas las personas servidoras publicas adscritas a la CODE a asumir su compromiso con ética, la integridad, la prevención de conflicto de interés y en contra de conductas discriminatorias de hostigamiento sexual, acoso sexual y la corrupción.
 
-Mtro. Isaac Noé Piña Valdivia
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2023)</small>
+
+Mtro. Marco Heroldo Gaxiola Romo
 
 Director General de la Comisión de Deporte del Estado de Guanajuato
 
@@ -197,7 +199,9 @@ VI. Seguir una conducta honrada y respetuosa hacia las pertenencias personales d
 
 VII. Sin previa autorización, queda prohibido hacer uso del equipo y material asignado a las y los compañeros;
 
-VIII. Queda prohibido hacer uso de los vehículos oficiales en fines de semana, días inhábiles y periodos vacacionales, así como para fines personales;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2023)</small>
+
+VIII. Queda prohibido hacer uso de los vehículos oficiales en fines de semana, días inhábiles y periodos vacacionales, así como para fines personales, salvo en los casos que haya comisión y sea notificada previamente;
 
 IX. Evaluar el desempeño de las personas servidoras públicas que corresponda, en forma honesta, imparcial, con respeto y objetiva; y
 
@@ -279,7 +283,9 @@ Todas las personas que colaboran en la CODE tienen el compromiso de mejorar cont
 
 I. Mantener una disposición para mejorar continuamente las actitudes, conocimiento, formas y comportamientos en el desempeño de las funciones, que beneficie con ello los trámites y servicios que proporciona la CODE y la satisfacción y percepción que las personas usuarias o beneficiarias tengan de la institución;
 
-II. Asistir a los eventos de capacitación y desarrollo, así como las actividades culturales, de integración, deportivas y de cuidado de la salud que brinda y promueve la CODE;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2023)</small>
+
+II. Asistir a los eventos de capacitación presenciales y virtuales, así como las actividades culturales, de integración, deportivas y de cuidado de la salud que brinda y promueve la CODE;
 
 III. Conocer y aplicar las mejoras que se propongan para hacer eficiente el desempeño, el servicio proporcionado o la atención a las personas usuarias o beneficiarias; y
 
@@ -345,9 +351,13 @@ Segundo. El Código de Conducta estará disponible para su consulta en el Sistem
 
 Tercero. Este Código de Conducta deberá ser revisado por lo menos cada dos años, a efecto de su debida actualización.
 
-Guanajuato, Guanajuato a los (sic) 26 del mes de octubre del año 2020.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2023)</small>
 
-Mtro. Isaac Noé Piña Valdivia.
+Guanajuato, Guanajuato a los 28 días del mes de febrero del año 2023.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2023)</small>
+
+Mtro. Marco Heroldo Gaxiola Romo
 
 Presidente del Comité Interno de Ética y Prevención de Conflicto de Interés de la CODE.
 
@@ -358,3 +368,9 @@ Aprobó el titular del Órgano Interno de control de la Comisión de Deporte del
 C.P. Luis Arturo Peña Pérez.
 
 Titular del OIC de la Comisión de Deporte del Estado de Guanajuato.
+
+[N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
+
+P.O. 11 DE ABRIL DE 2023.
+
+> <small>[N. DE E. EL "ACUERDO MODIFICATORIO POR EL CUAL SE REFORMA EL CÓDIGO DE CONDUCTA DE LA COMISIÓN DE DEPORTE DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 262, DÉCIMA CUARTA PARTE, DE FECHA 31 DE DICIEMBRE DEL AÑO 2020", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
