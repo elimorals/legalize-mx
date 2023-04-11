@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-estado-de-puebla-7738"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-18"
-last_updated: "2022-06-22"
+last_updated: "2023-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2023.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1966.
 
@@ -470,6 +470,10 @@ II.- La prisión preventiva del trabajador, seguida de sentencia absolutoria o e
 III.- La suspensión de funciones, empleos o cargos públicos, impuesta como sanción por sentencia formal.
 
 IV.- Los trabajadores que tengan encomendado manejo de fondos, valores o bienes, podrán ser suspendidos hasta por 60 días por el Titular de la Dependencia respectiva, cuando apareciere alguna irregularidad en su gestión, mientra (sic) se practica la investigación y se resuelve sobre el cese.
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2023)</small>
+
+V.- Cuando por resolución formal de autoridad competente se declare que el trabajador cometió actos de hostigamiento o acoso sexual contra cualquier persona en el establecimiento o lugar de trabajo.
 
 En los casos antes señalados, el trabajador afectado podrá reclamar la medida ante el Tribunal de Arbitraje, el que de no encontrar comprobado el hecho que motiva la suspensión ordenará la reposición del suspendido y el pago de salarios caídos.
 
@@ -1130,6 +1134,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 22 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL PÁ1RNFO SEGUNDO AL ARTÍCULO 77 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN V AL ARTÍCULO 42 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
