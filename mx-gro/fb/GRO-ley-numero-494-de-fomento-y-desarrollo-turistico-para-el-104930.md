@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-494-de-fomento-y-desarrollo-turistico-para-el-104930
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-11"
-last_updated: "2017-04-11"
+last_updated: "2023-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY NÚMERO 494 DE FOMENTO Y DESARROLLO TURÍSTICO PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el martes 11 de noviembre de 2014.
 
@@ -117,99 +117,103 @@ g) Las autoridades competentes del Gobierno Federal, en lo que les corresponda;
 
 Quedan incluidos dentro de esta clasificación todas las dependencias, entidades, órganos y organismos de cada Sujeto Obligado.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2023)</small>
+
 ###### Artículo 4o.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Estado: El Estado Libre y Soberano de Guerrero;
+I. Actividades Turísticas: Las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos;
 
-II. Ley: La presente Ley de Fomento y Desarrollo Turístico para el Estado y los Municipios de Guerrero;
+II. Alojador Turístico Eventual. Persona física o moral que brinda Servicio de Alojamiento Turístico Eventual de manera temporal y flexible, el cual puede ser ofrecido a través de plataformas digitales;
 
-III. Secretaría: La Secretaría de Fomento Turístico del Gobierno del estado;
+III. Alojamiento Turístico Eventual. Son aquellos por los que se conceda (sic) alojamiento, ya sea de forma parcial o total, el uso de inmuebles amueblados destinados a casa habitación. Este servicio podrá ser provisto mediante el uso de plataformas digitales;
 
-IV. Secretario: El Secretario de Fomento Turístico del Estado;
+IV. Atlas Turístico de Guerrero. El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que pueden constituirse en atractivos turísticos estatales, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo; formará parte del Atlas Turístico de México;
 
-V. Secretaría de Turismo: la Secretaría del ramo del Gobierno Federal;
+V. Comisión Intersecretarial de Turismo. La Comisión de carácter ejecutivo integrada por las dependencias y entidades públicas vinculadas a la actividad turística;
 
-VI. Procuraduría: La Procuraduría Estatal del Turista;
+VI. Congresos. Toda reunión profesional que tiene por objeto realizar una discusión y un intercambio profesional y/o académico en torno a un tema de interés;
 
-VII. Procurador: El Procurador Estatal del Turista;
+VII. Consejo. El Consejo Consultivo de Turismo del Estado de Guerrero;
 
-VIII. Promotora Turística: El Organismo Público Descentralizado del Gobierno del Estado, denominado Promotora Turística de Guerrero;
+VIII. Consejos Municipales. Los Consejos Consultivos Municipales de Turismo;
 
-IX. Trabajadores Turísticos: Las personas físicas que presta sus servicios en materia turística de manera subordinada y por el cual devengan un salario o perciben una remuneración económica;
+IX. Convenciones. Toda reunión gremial o empresarial cuyo objeto es el tratar entre los participantes asuntos comerciales en torno a un mercado, producto o marca;
 
-X. Comisión Intersecretarial de Turismo: La Comisión de carácter ejecutivo integrada por las dependencias y entidades públicas vinculadas a la actividad turística;
+X. Estado. El Estado Libre y Soberano de Guerrero;
 
-XI. Consejo: El Consejo Consultivo de Turismo del Estado de Guerrero;
+XI. Ferias y Exposiciones. Muestras o exhibiciones públicas que organizan empresas, asociaciones o personas y cuya finalidad es la venta de productos o servicios de un sector determinado de la economía;
 
-XII. Consejos Municipales: Los Consejos Consultivos Municipales de Turismo;
+XII. Fideicomisos para la Promoción Turística. Los instituidos en relación con esta actividad por el Gobierno del Estado;
 
-XIII. Fideicomisos para la Promoción Turística: Los instituidos en relación con esta actividad por el Gobierno del Estado;
+XIII. Imagen Turística. El patrimonio del estado que comprende los atractivos naturales, culturales, ecológicos, calidad en los servicios turísticos y de naturaleza similar; junto con la adecuada ordenación territorial, así como la infraestructura turística que, aunada a la promoción, tiene la vocación de atraer turistas al estado;
 
-XIV. Reglamento: El de la Ley de Fomento y Desarrollo Turístico para el Estado y los Municipios de Guerrero;
+XIV. Ley: La presente Ley de Fomento y Desarrollo Turístico para el Estado y los Municipios de Guerrero;
 
-XV. Reglamento Interior: El que ordena la estructura y funcionamiento de la Secretaría de Fomento y Desarrollo Turístico;
+XV. Ordenamiento Turístico del Territorio: Instrumento de la política turística bajo el enfoque social, ambiental y territorial, cuya finalidad es conocer e inducir el uso de suelo y las actividades productivas con el propósito de lograr el aprovechamiento ordenado y sustentable de los recursos turísticos, de conformidad con las disposiciones jurídicas aplicables en materia de medio ambiente y asentamientos humanos;
 
-XVI. Actividades Turísticas: Las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos;
+XVI. Padrón Estatal de Hoteles y Restaurantes: Catálogo público de hoteles y restaurantes en el Estado;
 
-XVII. Ordenamiento Turístico del Territorio: Instrumento de la política turística bajo el enfoque social, ambiental y territorial, cuya finalidad es conocer e inducir el uso de suelo y las actividades productivas con el propósito de lograr el aprovechamiento ordenado y sustentable de los recursos turísticos, de conformidad con las disposiciones jurídicas aplicables en materia de medio ambiente y asentamientos humanos;
+XVII. Padrón Estatal del Alojamiento Turístico Eventual: Catálogo público de este servicio en el Estado de Guerrero, también conocido como oferta extrahotelera;
 
-XVIII. Imagen Turística: El Patrimonio del Estado que comprende los atractivos naturales, culturales, ecológicos, calidad en los servicios turísticos y de naturaleza similar; junto con la adecuada ordenación territorial, así como la infraestructura turística que aunada a la promoción, tiene la vocación de atraer turistas al Estado.
+XVIII. Padrón Estatal del Tiempo Compartido y la Multipropiedad: Catálogo público de instalaciones destinadas a esta actividad, que presten servicios de Alojamiento Turístico Eventual en el Estado;
 
-XIX. Atlas Turístico de Guerrero: El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos estatales, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo; formará parte del Atlas Turístico de México;
+XIX. Plataforma Digital. Es la entidad, mexicana o extranjera, que opera, intermedia, administra y/o promueve una aplicación tecnológica mediante la cual una persona física o moral, ofrece, contrata y/o presta servicios de hospedaje en instalaciones no hoteleras y no se considerarán prestadoras de servicios turísticos;
 
-XX. Programa Sectorial: El Programa Sectorial de Turismo del Estado;
+XX. Prestador. La persona física o moral que proporcione, intermedie o contrate con el turista, la prestación de alguno de los servicios relacionados con la oferta turística de la entidad;
 
-XXI. Programa Regional: El Programa de Ordenamiento Turístico Regional en el Estado;
+XXI. Prestadores de Servicios Turísticos: Las personas físicas o morales que ofrezcan, proporcionen, intermedien o contraten con el turista, la prestación de alguno de los servicios relacionados con la oferta turística de la Entidad;
 
-XXII. Turismo Alternativo: Toda aquella actividad recreativa basada en el estudio, apreciación y contacto con la naturaleza y las expresiones culturales de las regiones del Estado, con la actitud y el compromiso de conocer, respetar, disfrutar y participar en la preservación y protección de los recursos naturales y el patrimonio cultural del estado y la Nación.
+XXII. Procurador: La persona titular de la Procuraduría Estatal del Turista;
 
-XXIII. Turismo Sustentable: Aquel que cumple con dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos; que respeta la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos, y que asegura el desarrollo de actividades económicas viables, que obtengan beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida;
+XXIII. Procuraduría: La Procuraduría Estatal del Turista;
 
-XXIV. Turismo de Reuniones y Negocios: Conjunto de corrientes turísticas cuyo motivo de viaje está vinculado con la realización de actividades laborales y profesionales llevadas a cabo en reuniones con diferentes propósitos y magnitudes, tales como congresos, convenciones, ferias, exposiciones, viajes de incentivo y otros eventos de características similares.
+XXIV. Programa Regional: El Programa de Ordenamiento Turístico Regional en el Estado;
 
-XXV. Congresos: Toda reunión profesional que tiene por objeto realizar una discusión y un intercambio profesional y/o académico en torno a un tema de interés.
+XXV. Programa Sectorial: El Programa Sectorial de Turismo del Estado;
 
-XXVI. Convenciones: Toda reunión gremial o empresarial cuyo objetivo es el tratar entre los participantes asuntos comerciales en torno a un mercado, producto o marca.
+XXVI. Promotora Turística: El Organismo Público Descentralizado del Gobierno del estado, denominado Promotora Turística de Guerrero;
 
-XXVII. Ferias y Exposiciones: Muestras o exhibiciones públicas que organizan empresas, asociaciones o personas y cuya finalidad es la venta de productos o servicios de un sector determinado de la economía.
+XXVII. Propietario: La persona física o moral dueña de un bien inmueble, bienes muebles necesarios para su operación, instalaciones, áreas, construcciones y servicios comunes, que se destinen a servicios turísticos en cualquiera de sus modalidades.
 
-XXVIII. Viajes de Incentivo: Estrategia gerencial utilizada para lograr metas empresariales fuera de lo común, al premiar a los participantes con una experiencia extraordinaria de viaje.
+XXVIII. Recursos Turísticos: Son todos los elementos naturales o artificiales de un lugar o región que constituyen un atractivo para la actividad turística;
 
-XXIX. Prestadores de Servicios Turísticos: Las personas físicas o morales que ofrezcan, proporcionen, intermedien o contraten con el turista, la prestación de alguno de los servicios relacionados con la oferta turística de la Entidad.
+XXIX. Región Turística: Es un espacio homogéneo que puede abarcar el territorio de dos o más Municipios y en el que, por la cercana distancia de los atractivos y servicios, se complementan;
 
-XXX. Verificación y certificación: el proceso mediante el cual se verifican y, en su caso, se certifican los estándares de calidad ofrecidos por los prestadores de servicio turísticos.
+XXX. Registro Estatal de Turismo: El instrumento donde se reúnen los datos de todos los prestadores de servicios turísticos en el estado, consta además del Padrón Estatal de Hoteles y Restaurantes, del Padrón Estatal del Tiempo Compartido y la Multipropiedad y del Padrón Estatal de Alojamiento Turístico Eventual; estará a cargo de la Dirección General de Calidad y Regulación Turística de la Secretaría. Sirve de base para el Registro Nacional de Turismo;
 
-XXXI. Recursos Turísticos: Son todos los elementos naturales o artificiales de un lugar o región que constituyen un atractivo para la actividad turística;
+XXXI. Reglamento Interior: El que ordena la estructura y funcionamiento de la Secretaría de Turismo;
 
-XXXII. Región Turística: Es un espacio homogéneo que puede abarcar el territorio de dos o más Municipios y en el que, por la cercana distancia de los atractivos y servicios, se complementan;
+XXXII. Reglamento: El de la Ley de Fomento y Desarrollo Turístico para el Estado y los Municipios de Guerrero;
 
-XXXIII. Zona Turística: El área destinada, desarrollada o proyectada principalmente para la actividad turística y en la que se prestan servicios turísticos, incluyendo zonas arqueológicas y sitios históricos.
+XXXIII. Ruta Turística: Es un circuito temático o geográfico que se basa en un patrimonio natural o cultural de una zona y se marca sobre el terreno o aparece en los mapas;
 
-XXXIV. Ruta Turística: Es un circuito temático o geográfico que se basa en un patrimonio natural o cultural de una zona y se marca sobre el terreno o aparece en los mapas;
+XXXIV. Secretaría de Turismo: la Secretaría del ramo del Gobierno Federal;
 
-XXXV. Servicios Turísticos: Los proporcionados por agencias, operadores, comisionistas y mayoristas de viajes para atender las solicitudes de los turistas a cambio de una contraprestación, en apego con lo dispuesto por esta Ley y su Reglamento;
+XXXV. Secretaría: La Secretaría de Turismo del Gobierno del estado;
 
-XXXVI. Turistas: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilicen alguno de los servicios turísticos a que se refiere esta Ley u otros ordenamientos, sin perjuicio de lo dispuesto para efectos migratorios por la Ley de Migración;
+XXXVI. Secretario: La persona titular de la Secretaría de Turismo del Estado;
 
-XXXVII. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio estatal, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerán mediante declaratoria específica que emitirá el Presidente de la República, a propuesta del Titular del Ejecutivo del Estado.
+XXXVII. Servicios Turísticos: Los proporcionados por agencias, operadores, comisionistas y mayoristas de viajes para atender las solicitudes de los turistas a cambio de una contraprestación, en apego con lo dispuesto por esta Ley y su Reglamento;
 
-XXXVIII. Registro Estatal de Turismo: El instrumento donde se reúnen los datos de todos los prestadores de servicios turísticos en el Estado, consta además del Padrón Estatal de Hoteles y Restaurantes, del Padrón Estatal del Tiempo Compartido y la Multipropiedad y del Padrón Estatal de Alojamiento Turístico Eventual; estará a cargo de la Dirección General de Calidad y Regulación Turística de la Secretaría. Sirve de base para el Registro Nacional de Turismo.
+XXXVIII. Trabajadores Turísticos: Las personas físicas que presta (sic) sus servicios en materia turística de manera subordinada y por el cual devengan un salario o perciben una remuneración económica;
 
-XXXIX. Padrón Estatal de Hoteles y Restaurantes: Catálogo público de hoteles y restaurantes en el Estado;
+XXXIX. Turismo Alternativo: Toda aquella actividad recreativa basada en el estudio, apreciación y contacto con la naturaleza y las expresiones culturales de las regiones del Estado, con la actitud y el compromiso de conocer, respetar, disfrutar y participar en la preservación y protección de los recursos naturales y el patrimonio cultural del estado y la Nación.
 
-XL. Padrón Estatal del Tiempo Compartido y la Multipropiedad: Catálogo público de instalaciones destinadas a esta actividad, que presten servicios de Alojamiento Turístico Eventual en el Estado;
+XL. Turismo de Reuniones y Negocios: Conjunto de corrientes turísticas cuyo motivo de viaje está vinculado con la realización de actividades laborales y profesionales llevadas a cabo en reuniones con diferentes propósitos y magnitudes, tales como: congresos, convenciones, ferias, exposiciones, viajes de incentivo y otros eventos de características similares.
 
-XLI. Padrón Estatal del Alojamiento Turístico Eventual: Catálogo público de este servicio en el Estado de Guerrero, también conocido como oferta extra-hotelera.
+XLI. Turismo Sustentable: Aquel que cumple con dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos; que respeta la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos, y que asegura el desarrollo de actividades económicas viables, que obtengan beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida;
 
-Los padrones a que hacen referencia las fracciones XXXIX, XL y XLI de este artículo, estarán a cargo de la Dirección General de Calidad y Regulación Turística de la Secretaría.
+XLII. Turistas: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilicen alguno de los servicios turísticos a que se refiere esta Ley u otros ordenamientos, sin perjuicio de lo dispuesto para efectos migratorios por la Ley de Migración;
 
-XLII. Alojamiento Turístico Eventual: El ofrecido por personas físicas y/o morales que presten servicio de hospedaje en casas, departamentos, residencias, villas, condominios y todo tipo de instalaciones no hoteleras, por periodos no mayores a 3 meses, con o sin prestación de servicios complementarios.
+XLIII. Verificación y certificación: El proceso mediante el cual se verifican y, en su caso, se certifican los estándares de calidad ofrecidos por los prestadores de servicio turísticos;
 
-XLIII. Propietario: La persona física o moral dueña de un bien inmueble, bienes muebles necesarios para su operación, instalaciones, áreas, construcciones y servicios comunes, que se destinen a servicios turísticos en cualquiera de sus modalidades.
+XLIV. Viajes de Incentivo: Estrategia gerencial utilizada para lograr metas empresariales fuera de lo común, al premiar a los participantes con una experiencia extraordinaria de viaje;
 
-XLIV. Prestador: La persona física o moral que proporcione, intermedie o contrate con el turista, la prestación de alguno de los servicios relacionados con la oferta turística de la entidad.
+XLV. Zona Turística: El área destinada, desarrollada o proyectada principalmente para la actividad turística y en la que se prestan servicios turísticos, incluyendo zonas arqueológicas y sitios históricos, y
+
+XLVI. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio estatal, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerán mediante declaratoria específica que emita la persona titular de la Presidencia de la República, a propuesta de la persona Titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 5o.
 
@@ -675,23 +679,37 @@ Por su importancia en la generación y derrama de ingresos, la Secretaría, en c
 
 ### CAPÍTULO VIII. Del Alojamiento Turístico Eventual
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2023)</small>
+
 ###### Artículo 42.
 
-Las personas físicas o morales que destinen casas, departamentos, residencias, villas, condominios y todo tipo de instalaciones no hoteleras al Alojamiento Turístico Eventual en el estado de Guerrero, deberán cumplir con la normatividad aplicable y contribuir con el impuesto sobre la prestación de servicios de hospedaje que establece la Ley de Hacienda del Estado de Guerrero número 428.
+Los alojadores turísticos eventuales deberán cumplir con la normatividad en materia de turismo aplicable y contribuir con el impuesto sobre el hospedaje que establece la Ley de Hacienda del Estado de Guerrero.
+
+Cuando los servicios de Alojamiento Turístico Eventual se ofrezcan en el estado a través de una plataforma digital; el impuesto deberá ser recaudado y enterado a las autoridades por dicha plataforma. La plataforma digital deberá inscribirse en el Padrón Estatal de Contribuyentes que establece la Ley de Hacienda del Estado de Guerrero, bajo las reglas de carácter general que determine la Secretaría de Finanzas y Administración.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
+
+###### Artículo 42 Bis.
+
+Los alojadores turísticos eventuales deberán acreditar que cuentan con un seguro de responsabilidad civil conforme a lo establecido en la NOM Norma Oficial Mexicana, vigente.
+
+Si el servicio es prestado a través de plataformas digitales, bastará acreditar que la persona física o moral se encuentra registrada en una plataforma que ofrece una protección con las mismas características señaladas en el párrafo anterior, en todas las reservaciones activas, para tener por cumplido este requisito.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2023)</small>
 
 ###### Artículo 43.
 
-Los prestadores del servicio de Alojamiento Turístico Eventual se inscribirán en el Padrón Estatal de Alojamiento Turístico Eventual, debiendo cumplir con los requisitos y el pago de derechos correspondientes.
+Los alojadores turísticos eventuales se inscribirán en el Padrón Estatal de Alojamiento Turístico Eventual, en el formato en línea que determine la Secretaría, debiendo presentar lo siguiente:
 
-Para la inscripción en el Padrón Estatal de Alojamiento Turístico Eventual se deberá presentar lo siguiente:
+I. Nombre completo del alojador turístico eventual;
 
-I. La Escritura en el caso del propietario;
+II. Identificación oficial;
 
-II. El Poder y copia de la escritura en caso del administrador o representante legal;
+III. Comprobante de domicilio;
 
-III. El Seguro de responsabilidad civil, y
+IV. Plataformas digitales donde presta el servicio de alojamiento turístico eventual, y
 
-IV. El Pago de derechos ante la Secretaría de Finanzas y Administración.
+V. El Seguro de responsabilidad civil que establece el artículo 42 Bis de esta Ley.
 
 ###### Artículo 44.
 
@@ -1263,9 +1281,11 @@ Los Registros Nacional y Estatal de Turismo, son los catálogos públicos de pre
 
 En términos de la Ley General de Turismo, corresponde al Gobierno del Estado y los Municipios de Guerrero la operación del Registro Nacional de Turismo, en concurrencia y coordinación con la Secretaría de Turismo la cual lo regulará y coordinará. El Registro Estatal de Turismo es potestad del Estado y los Municipios de Guerrero.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2023)</small>
+
 ###### Artículo 113.
 
-La inscripción a los Registros Nacional y Estatal de Turismo será obligatoria para los prestadores de servicios turísticos, quienes deberán proveer a las autoridades competentes la información que determinen las disposiciones reglamentarias correspondientes. El registro Estatal de Turismo se integrará por los Padrones Estatal de Hoteles y Restaurantes; del Tiempo Compartido y la Multipropiedad, y del Alojamiento Turístico Eventual.
+La inscripción a los Registros Nacional y Estatal de Turismo será obligatoria para los prestadores de servicios turísticos, quienes deberán proveer a las autoridades competentes la información que determinen las disposiciones reglamentarias correspondientes. El registro Estatal de Turismo se integrará por los Padrones Estatal de Hoteles y Restaurantes; del Tiempo Compartido y la Multipropiedad, y del Alojamiento Turístico Eventual a cargo de la Dirección General de Calidad y Regulación Turística de la Secretaría.
 
 En el Reglamento de esta Ley se establecerá el catálogo de todos los prestadores de servicios turísticos obligados a inscribirse en los padrones de los Registros Nacional y Estatal de Turismo.
 
@@ -1602,3 +1622,23 @@ Comuníquese al Titular del Poder Ejecutivo del Estado de Guerrero, para su cono
 ###### ARTÍCULO TERCERO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
+
+P.O. 11 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 440 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 494 DE FOMENTO Y DESARROLLO TURÍSTICO PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Turismo del Gobierno del Estado, expedirá el reglamento que regule el alojamiento turístico eventual prestado a través de Plataformas Digitales, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Comuníquese el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado.
