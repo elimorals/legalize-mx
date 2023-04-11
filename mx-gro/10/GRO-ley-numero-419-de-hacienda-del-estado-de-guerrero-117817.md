@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-419-de-hacienda-del-estado-de-guerrero-117817"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2022-12-27"
+last_updated: "2023-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2023.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2016.
 
@@ -623,6 +623,14 @@ II. Casas o departamentos, enteros o por habitaciones privadas o compartidas.
 
 De los ingresos que se generen por la recaudación de este Impuesto, el 50 por ciento serán destinados al Fideicomiso para la promoción turística nacional e internacional de los destinos turísticos que aplican dicho impuesto, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cualitativamente los flujos turísticos, y el otro 50 por ciento destinada (sic) a la Secretaría de Finanzas y Administración del estado para los gastos de operación y vigilancia en el cobro de este impuesto.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
+
+Se exceptúa de la disposición señalada en el párrafo anterior la recaudación generada por el servicio de hospedaje de casas, departamentos, residencias, villas, condominios y todo tipo de instalaciones no hoteleras considerado Alojamiento Turístico Eventual.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
+
+El Alojamiento Turístico Eventual será aquel por el que se concede el servicio de alojamiento, ya sea de forma parcial o total en el uso de inmuebles no hoteleros, cuando sea provisto de manera directa o a través de intermediarios, promotores, facilitadores o a través de plataformas digitales.
+
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
 ###### ARTÍCULO 58.
@@ -650,6 +658,14 @@ Para efectos del párrafo que antecede, se entenderá por tiempo compartido, lo 
 ###### ARTÍCULO 60.
 
 El pago de este impuesto se determinará aplicando a la base gravable, la tasa del 3%.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
+
+Tratándose de Alojamiento Turístico Eventual se calculará aplicando a la base gravable, la tasa del 4%.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
+
+Quedan excluidos del pago contemplado en este artículo los sujetos pasivos que contribuyan en términos de las obligaciones tributarias que se contemplan en el artículo 77 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
@@ -4412,3 +4428,15 @@ PRIMERO. Las reformas, adiciones y derogaciones relativas al presente Decreto, e
 SEGUNDO. Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado de Guerrero para su observancia y conocimiento general.
 
 TERCERO. Comuniquese el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 11 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 441 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+TERCERO. El reglamento que regulen (sic) al alojamiento turístico eventual prestado a través de Plataformas Digitales, deberá ser expedido en un plazo que no exceda de noventa días, contado a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Los ingresos que se obtengan con motivo de la presente reforma y que se refieren al servicio de Alojamiento Turístico Eventual, se consideran como ingresos excedentes de la Ley número 421 de Ingresos del Estado de Guerrero y serán considerados en los informes semestrales y en la cuenta pública del Gobierno del Estado de Guerrero.
