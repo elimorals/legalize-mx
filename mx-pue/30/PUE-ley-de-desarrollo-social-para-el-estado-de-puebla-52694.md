@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-social-para-el-estado-de-puebla-52694"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-18"
-last_updated: "2022-12-23"
+last_updated: "2023-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2023.
 
 Ley publicada en la Cuarta Sección al Periódico Oficial del Estado de Puebla, el lunes 18 de diciembre de 2006.
 
@@ -193,11 +193,11 @@ El Gobierno del Estado y los Ayuntamientos de los Municipios, en sus respectivos
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2023)</small>
 
 ###### Artículo 9.
 
-Serán considerados derechos para el Desarrollo Social: la salud, la educación, la alimentación nutritiva y de calidad, la vivienda digna y decorosa, el disfrute de un medio ambiente sano, el trabajo y la seguridad social; la equidad y los relativos a la no discriminación en los términos de las Leyes en la materia.
+Serán considerados derechos para el Desarrollo Social: la salud, la educación, la alimentación nutritiva, suficiente y de calidad, la vivienda digna y decorosa, el disfrute de un medio ambiente sano, el trabajo y la seguridad social; la equidad y los relativos a la no discriminación en los términos de las Leyes en la materia.
 
 ###### Artículo 10.
 
@@ -271,9 +271,9 @@ La planeación del Desarrollo Social incluirá los programas, planes de trabajo 
 
 La planeación del Desarrollo Social en el Estado, estará a cargo del Ejecutivo Estatal por conducto de la Secretaría, en coordinación con las demás Dependencias y Entidades del Estado, la que deberá guardar congruencia con la Política Nacional de Desarrollo Social y la normatividad aplicable, para priorizar:
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2023)</small>
 
-I.- Superación de la pobreza y marginación a través de la educación, la salud, la alimentación nutritiva y de calidad, la generación de empleos e ingreso, autoempleo y capacitación;
+I.- Superación de la pobreza y marginación a través de la educación, la salud, la alimentación nutritiva, suficiente y de calidad, la generación de empleos e ingreso, autoempleo y capacitación;
 
 II.- Programas asistenciales;
 
@@ -353,7 +353,9 @@ III. Los programas dirigidos a las personas en condiciones de pobreza, marginaci
 
 IV. Los programas dirigidos a zonas de atención prioritaria;
 
-V. Los programas y acciones públicas para asegurar la alimentación nutritiva y de calidad y nutrición materno-infantil;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2023)</small>
+
+V. Los programas y acciones públicas para asegurar la alimentación nutritiva, suficiente y de calidad y nutrición materno-infantil;
 
 VI. Los programas de abasto social de productos básicos;
 
@@ -459,9 +461,9 @@ V.- Calidad y espacios de la vivienda digna y decorosa;
 
 VI.- Acceso a los servicios básicos de la vivienda digna y decorosa;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2023)</small>
 
-VII.- Acceso a la alimentación nutritiva y de calidad;
+VII.- Acceso a la alimentación nutritiva, suficiente y de calidad;
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
@@ -910,3 +912,11 @@ P.O. 23 DE DICIEMBRE DE 2022.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan aquellas disposiciones que se opongan a o (sic) previsto en el presente Decreto.
+
+P.O. 11 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 9, LA FRACCIÓN I DEL ARTÍCULO 15, LA FRACCIÓN V DEL ARTÍCULO 20 BIS Y LA FRACCIÓN VII DEL ARTÍCULO 33, TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
