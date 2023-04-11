@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-publicidad-exterior-del-distrito-82431"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-15"
-last_updated: "2017-07-24"
+last_updated: "2023-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82431&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-08-10"
 ---
 # REGLAMENTO DE LA LEY DE PUBLICIDAD EXTERIOR DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY DE PUBLICIDAD EXTERIOR DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. 11 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE PUBLICIDAD EXTERIOR DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE ABRIL DE 2023 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 15 de agosto de 2011.
 
@@ -1975,3 +1977,17 @@ TERCERO. Los trámites y solicitudes de reubicación de anuncios en nodos y corr
 CUARTO. La Secretaría publicará en la Gaceta Oficial de la Ciudad de México las Reglas de Operación para el Reordenamiento de Anuncios.
 
 QUINTO. Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente Decreto.
+
+G.O. 11 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA EL REGLAMENTO DE LA LEY DE PUBLICIDAD EXTERIOR DEL DISTRITO FEDERAL Y SE EXPIDE EL REGLAMENTO DE LA LEY DE PUBLICIDAD EXTERIOR DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrara´ en vigor al día siguiente de su publicación.
+
+TERCERO.- A la entrada en vigor del presente decreto se abroga el Reglamento de la Ley de Publicidad Exterior del Distrito Federal, publicado el 15 de agosto de 2011 en la Gaceta Oficial del entonces Distrito Federal No.1160, así como sus posteriores reformas, y demás ordenamientos que se opongan al presente Decreto.
+
+CUARTO.- La Secretaría de Movilidad de la Ciudad de México contará con un término de 90 días hábiles a partir de la entrada en vigor del presente Decreto para emitir los Lineamientos Técnicos de Publicidad en vehículos de transporte y su equipamiento auxiliar.
+
+QUINTO.- La permanencia de medios publicitarios denominativos autosoportados prevista en el artículo 33 del Reglamento de la Ley de Publicidad Exterior de la Ciudad de México, deberá tramitarse dentro de los seis meses contados a partir del día siguiente a (sic) fecha de entrada en vigor del mismo.
