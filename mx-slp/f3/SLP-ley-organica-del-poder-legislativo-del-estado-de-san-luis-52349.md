@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2023-03-27"
+last_updated: "2023-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1029,9 +1029,15 @@ XII. Instrumentar el calendario de actividades del Congreso;
 
 XIII. Aprobar las políticas de sueldos y programas de incentivos para el personal del Congreso;
 
-XIV. Coadyuvar en las actividades que se encomienden a las comisiones y a los comités, y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2023)</small>
 
-XV. Las demás que le confieren esta Ley y el Reglamento.
+XIV. Coadyuvar en las actividades que se encomienden a las comisiones y a los comités;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2023)</small>
+
+XV. Designar, de entre las o los servidores públicos del Congreso, a la persona que supla las ausencias temporales o definitivas de las o los titulares de los órganos de soporte técnico, de apoyo, administrativos, y de control a que se refiere el artículo 126 de esta Ley, en tanto se determina la nueva designación, y
+
+XVI. Las demás que le confieren esta Ley y el Reglamento.
 
 ## TITULO OCTAVO. DE LA ESTRUCTURA Y ORGANIZACION DEL CONGRESO DEL ESTADO
 
@@ -3184,3 +3190,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. El Congreso del Estado expedirá el reglamento de la Unidad para la Igualdad de Género, en un término de ciento veinte días naturales, contados a partir de la entrada en vigor del Presente Decreto.
 
 CUARTO. El Congreso del Estado deberá suscribir convenios de colaboración con las instituciones, y dependencias correspondientes, para la capacitación del personal de la Unidad para la Igualdad de Género, en la materia que a ésta le compete.
+
+P.O. 11 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0731.- SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 82; Y ADICIONA FRACCIÓN AL MISMO ARTÍCULO 82, ÉSTA COMO XV, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
