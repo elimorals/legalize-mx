@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2023-03-21"
+last_updated: "2023-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -697,7 +697,9 @@ ARTICULO 47 TER.- La obligación de pagar la sanción pecuniaria es preferente c
 
 ARTICULO 47 QUATER.- La reparación del daño proveniente de delito que deba ser hecha por el delincuente tiene el carácter de pena pública y se exigirá de oficio por el Ministerio Público. El ofendido o sus derechohabientes podrán aportar al Ministerio Público o al Juez en su caso, los datos y pruebas que tengan para demostrar la existencia y monto de dicha reparación, en los términos que prevenga el Código de Procedimientos Penales.
 
-Cuando el Ministerio Público incumpla con la obligación de solicitar la reparación del daño, el Juez lo hará saber al Procurador de Justicia del Estado para los efectos legales.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2023)</small>
+
+Cuando el Ministerio Público incumpla con la obligación de solicitar la reparación del daño, el Juez lo hará saber al Fiscal de Justicia del Estado para los efectos legales.
 
 Cuando dicha reparación deba exigirse a tercero, tendrá el carácter de responsabilidad civil y se tramitará en forma de incidente en los términos que fije el Código de Procedimientos Penales.
 
@@ -1665,7 +1667,9 @@ Comete el delito a que se refiere este capítulo el que ejecute actos que atente
 
 Al responsable del delito previsto en el Artículo anterior se le impondrá de cuatro a quince años de prisión y multa de sesenta a ciento setenta veces el valor diario de la Unidad de Medida y Actualización.
 
-Dicha sanción se aumentará hasta por una tercera parte más si el responsable fuere Gobernador del Estado, Secretario General de Gobierno, Diputado al Congreso Local, Magistrado del Supremo Tribunal de Justicia, Procurador General de Justicia, Tesorero General, Jefe de Policía con mando en jurisdicción del Estado, Presidente Municipal, Regidor o Síndico del Ayuntamiento.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2023)</small>
+
+Dicha sanción se aumentará hasta por una tercera parte más si el responsable fuere Gobernador del Estado, Secretario General de Gobierno, Diputado al Congreso Local, Magistrado del Supremo Tribunal de Justicia, Fiscal General de Justicia, Tesorero General, Jefe de Policía con mando en jurisdicción del Estado, Presidente Municipal, Regidor o Síndico del Ayuntamiento.
 
 ### CAPITULO II. REBELION
 
@@ -1683,11 +1687,11 @@ IV.- Sustraer de la obediencia del Gobierno todo o una parte de algún Cuerpo de
 
 V.- Despojar de sus atribuciones a alguno de los Poderes del Estado, impedirles el libre ejercicio de ellas o usurpárselas.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2023)</small>
 
 ###### ARTICULO 146.
 
-A los responsables del delito previsto en el Artículo anterior se les impondrá de uno a seis años de prisión y multa de treinta a ochenta veces el valor diario de la Unidad de Medida y Actualización y suspensión de derechos políticos hasta por cinco años. Dicha sanción se aumentará hasta por una tercera parte más si el responsable fuere el Gobernador del Estado, Secretario General de Gobierno, Diputado al Congreso Local, Magistrado del Supremo Tribunal de Justicia, Procurador General de Justicia, Tesorero General, Jefe de Policía Municipal, Regidor o Síndico de Ayuntamiento.
+A los responsables del delito previsto en el Artículo anterior se les impondrá de uno a seis años de prisión y multa de treinta a ochenta veces el valor diario de la Unidad de Medida y Actualización y suspensión de derechos políticos hasta por cinco años. Dicha sanción se aumentará hasta por una tercera parte más si el responsable fuere el Gobernador del Estado, Secretario General de Gobierno, Diputado al Congreso Local, Magistrado del Supremo Tribunal de Justicia, Fiscal General de Justicia, Tesorero General, Jefe de Policía Municipal, Regidor o Síndico de Ayuntamiento.
 
 ###### ARTICULO 147.
 
@@ -2324,6 +2328,10 @@ El delito de corrupción de menores, sólo se sancionará cuando se consumen los
 ARTICULO 198 BIS.- Comete el delito de pederastia quien se aproveche de la confianza, subordinación o superioridad que tiene sobre un menor de dieciocho años, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole y ejecute, obligue, induzca o convenza a ejecutar cualquier acto sexual, con o sin su consentimiento.
 
 Al responsable de este delito se le aplicará una sanción de nueve a dieciocho años de prisión y multa de setecientas cincuenta a dos mil doscientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
+
+ARTICULO 198 TER.- En la comisión de los delitos cometidos que prevé este Capítulo II, el Ministerio Público, una vez que tenga conocimiento formal de los hechos, estará obligado a dar aviso inmediato a la Procuraduría de Protección a Niñas, Niños y Adolescentes del Sistema Estatal o Nacional, según sea el caso, para que ejerzan las atribuciones que prevé la Constitución Federal, los Tratados Internacionales, la Ley General, la Ley Local en la materia y demás disposiciones aplicables, en procuración de la protección integral de niñas, niños y adolescentes.
 
 ### CAPITULO III. LENOCINIO
 
@@ -3740,6 +3748,10 @@ Las Autoridades garantizarán que la información que brinden no contravenga el 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
 ARTICULO 279 QUÁTER.- A quien le conste o tenga noticia, por cualquier medio, de la comisión de los delitos de abuso sexual, violación, violación equiparada o acoso sexual en perjuicio de una persona menor de dieciocho años de edad o persona que no tengan (sic) la capacidad de comprender el significado del hecho o que por cualquier causa no puedan (sic) resistirlo, y no acuda ante la autoridad competente para denunciar el hecho, se le impondrá una pena de dos a cinco años de prisión y una multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
+
+ARTICULO 279 QUINQUIES.- En la comisión de los delitos que prevén los Capítulos I, II, III, IV, y IV Bis, del TÍTULO DUODÉCIMO, el Ministerio Público, una vez que tenga conocimiento formal de los hechos, en los que se vean involucrados menores víctimas, estará obligado a dar aviso inmediato a la Procuraduría de Protección a Niñas, Niños y Adolescentes del Sistema Estatal o Nacional, según sea el caso, para que ejerzan las atribuciones que prevé la Constitución Federal, los Tratados Internacionales, la Ley General, la Ley Local en la materia y demás disposiciones aplicables, en procuración de la protección integral de niñas, niños y adolescentes.
 
 ## TITULO DECIMO TERCERO. DELITOS CONTRA LA FAMILIA Y EL ESTADO CIVIL
 
@@ -7058,6 +7070,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 21 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-546 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 195 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-554 MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 198 TER Y 279 QUINQUIES, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-555 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 47-QUATER, PÁRRAFO SEGUNDO; 144, PÁRRAFO SEGUNDO; Y 146 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
