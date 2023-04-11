@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2023-03-08"
+last_updated: "2023-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -2479,19 +2479,23 @@ III.- No se considerará fraccionamiento irregular, para los efectos de esta Sec
 
 #### SECCIÓN QUINTA.- VENTA ILÍCITA DE BEBIDAS ALCOHÓLICAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2023)</small>
 
 ###### Artículo 199 Sexies.
 
-Al propietario o titular del establecimiento en el que se venda o suministre bebidas alcohólicas sin la licencia o el permiso correspondiente, se le impondrá de tres meses a tres años de prisión y multa de cincuenta a quinientas Unidades de Medida y Actualización.
+Al propietario o titular del establecimiento en el que se venda, distribuya o suministren bebidas alcohólicas sin la licencia o el permiso correspondiente, se le impondrá de tres meses a tres años de prisión y multa de cincuenta a quinientas Unidades de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2023)</small>
 
-Al que con conocimiento de que en el establecimiento se venda o suministren bebidas alcohólicas y no cuenta con licencia o permiso otorgado por la autoridad competente, se le impondrá una sanción de dos meses a dos años y multa de cincuenta a trescientas Unidades de Medida y Actualización.
+Al que con conocimiento de que en el establecimiento se venda, distribuya o suministren bebidas alcohólicas y no cuente con licencia o permiso otorgado por la autoridad competente, se le impondrá una sanción de dos meses a dos años y multa de cincuenta a trescientas Unidades de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
 Se sancionará con lo previsto en el primer párrafo del presente artículo, al servidor público que indebidamente autorice o expida un permiso o licencia de funcionamiento que permita la venta de bebidas alcohólicas, sin que se hayan cumplido los requisitos a que se refiere la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla; y al servidor público que con atribuciones suficientes para impedirlo, encubra o favorezca la venta o distribución ilegal de bebidas alcohólicas, con la sanción establecida en el párrafo que antecede.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
+
+Las sanciones previstas en el primer párrafo de este artículo, se aplicarán a la persona servidora pública obligada por la ley a vigilar el cumplimiento de las disposiciones normativas en los comercios de venta de bebidas alcohólicas y que, por su omisión o ausencia de respuesta a los reportes hechos por los ciudadanos de la existencia de presuntos comercios sin la autorización legal, omita la exigencia de los requisitos.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -5163,6 +5167,14 @@ XXIII.- Cuando se cometa en una oficina bancaria, recaudadora u otra en que se c
 
 XXIV.- Cuando se cometa en contra de persona con discapacidad o de más de sesenta años de edad;
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2023)</small>
+
+XXIV Bis.- Cuando se trate de un vehículo no motorizado o motorizado, cuyo motor sea de baja potencia no susceptible de alcanzar velocidades mayores a veinticinco kilómetros por hora, para el desplazamiento de una persona que por sus condiciones de salud o físicas le sea indispensable para movilizarse;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2023)</small>
+
+XXIV Ter.- Cuando se trate de un vehículo no motorizado o motorizado, cuyo motor sea de baja potencia no susceptible de alcanzar velocidades mayores a veinticinco kilómetros por hora, que la víctima utilice como medio de transporte o como herramienta de trabajo;
+
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 XXV.- Por quien haya sido o sea personal de empresas que presten servicios de seguridad privada, aunque no esté en servicio, y
@@ -7719,7 +7731,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 29 DE DICIEMBRE DE 2022.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 258 BIS AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 258 BIS AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -7748,3 +7760,19 @@ P.O. 8 DE MARZO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER Y SEGUNDO PÁRRAFOS DEL ARTÍCULO 199 SEXIES Y ADICIONA UN CUARTO PÁRRAFO AL 199 SEXIES, DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LAS FRACCIONES XXIV BIS Y XXIV TER AL ARTÍCULO 380 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
