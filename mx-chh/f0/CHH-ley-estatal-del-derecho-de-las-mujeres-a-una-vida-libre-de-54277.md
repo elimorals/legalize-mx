@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2021-08-28"
+last_updated: "2023-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2023.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -153,7 +153,9 @@ XVIII. Módulos de Atención a la Violencia Familiar y de Género: Espacio físi
 
 Los tipos de violencia contra las mujeres son:
 
-I. Violencia física: Es cualquier acto que inflige daño a la mujer a través del uso de la fuerza física, sustancias, armas u objetos y que puede provocar lesiones.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2023)</small>
+
+I. Violencia física: Es cualquier acto que inflige daño a la mujer a través del uso de la fuerza física, o cualquier tipo de armas u objetos, ácido o sustancia corrosiva, cáustica, irritante, tóxica, inflamable o cualquier otra sustancia que, en determinadas condiciones pueda provocar o no lesiones, ya sea internas, externas, o ambas.
 
 II. Violencia sexual: Es cualquier acto u omisión que atenta o limita el derecho a la libertad y seguridad sexuales de las mujeres en el ámbito público o privado, independientemente de quien la perpetre.
 
@@ -1574,3 +1576,11 @@ El Ejecutivo Estatal, por conducto de la Secretaría de Hacienda, destinará los
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente Decreto, se tomarán las previsiones para el inicio y funcionamiento de las figuras e instancias previstas en el mismo.
+
+P.O. 12 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLYC/0520/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA Y DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
