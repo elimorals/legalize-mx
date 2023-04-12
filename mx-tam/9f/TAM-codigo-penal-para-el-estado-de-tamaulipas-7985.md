@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2023-04-11"
+last_updated: "2023-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1885,11 +1885,15 @@ III.- Los boxes, manoplas, macanas, correas con varas, pesas o puntas y las dem�
 
 IV.- Las bombas, aparatos explosivos o de gases asfixiantes o tóxicos y los demás similares;
 
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2023)</small>
+
+V.- Los abrojos, cuchillas, erizos, estrellas, púas o picos ponchallantas, fabricados de materiales que por su resistencia o contundencia, dañen o impidan el paso de vehículos particulares u oficiales;
+
 > <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-V.- Las armas réplica, que sin ser armas auténticas, parezcan, reúnan o simulen las características de éstas; y
+VI.- Las armas réplica, que sin ser armas auténticas, parezcan, reúnan o simulen las características de éstas; y
 
-VI.- Las que otras leyes y reglamentos designen como tales.
+VII.- Las que otras leyes y reglamentos designen como tales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1900,6 +1904,10 @@ Se aplicará de seis meses a tres años de prisión y multa de quince a cincuent
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 Tratándose de las señaladas en la fracción II del artículo anterior, solo se sancionara cuando sean portadas en lugares o reuniones públicas y no se justifique su portación.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2023)</small>
+
+En cuanto a las previstas en la fracción V del artículo anterior, sólo se sancionará su portación o posesión no justificada por su profesión, trabajo, oficio, actividad recreativa o comercial.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2011)</small>
 
@@ -7086,6 +7094,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 11 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-555 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 47-QUATER, PÁRRAFO SEGUNDO; 144, PÁRRAFO SEGUNDO; Y 146 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-556 MEDIANTE EL CUAL SE ADICIONAN LA FRACCIÓN V, RECORRIENDO EN SU ORDEN NATURAL LAS SUBSECUENTES, AL ARTÍCULO 168, Y UN PÁRRAFO TERCERO AL ARTÍCULO 169, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
