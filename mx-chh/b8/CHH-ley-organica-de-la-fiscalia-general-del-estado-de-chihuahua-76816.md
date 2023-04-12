@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2023-01-30"
+last_updated: "2023-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2023.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -749,7 +749,9 @@ III. Velar para que el imputado sea instruido en sus derechos humanos;
 
 IV. Citar u ordenar la presentación de cualquier persona, siempre que ello sea procedente para el ejercicio de sus funciones. Tratándose del imputado, no podrá ordenar su presentación. El agente del Ministerio Público podrá hacer uso de los medios de apremio que le confiere el Código Nacional de Procedimientos Penales, para el cumplimiento de sus atribuciones;
 
-V. Vigilar que los derechos de la víctima u ofendido sean adecuadamente tutelados;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2023)</small>
+
+V. Vigilar que los derechos de la víctima u ofendido sean adecuadamente tutelados, velando en todo momento que se garanticen con perspectiva de género;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -2032,3 +2034,11 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
 El titular de la Secretaría de Seguridad tendrá la facultad de rotar los mandos y mandos medios según lo considere necesario para el cumplimiento del objeto de la presente Ley.
+
+P.O. 12 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLYC/0519/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
