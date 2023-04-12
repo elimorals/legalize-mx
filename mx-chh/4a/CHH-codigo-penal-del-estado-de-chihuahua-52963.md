@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2023-02-25"
+last_updated: "2023-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2023.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1099,6 +1099,12 @@ Punibilidad de la tentativa
 
 La punibilidad aplicable a la tentativa, será de entre una tercera parte de la mínima y dos terceras partes de la máxima, previstas para el correspondiente delito doloso consumado que el agente quiso realizar.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ABRIL DE 2023)</small>
+
+Cuando se trate de delitos cometidos en razón de género, la punibilidad aplicable, será de entre la mitad de la mínima y tres cuartas partes de la máxima correspondiente al delito doloso consumado que el agente quiso realizar.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 12 DE ABRIL DE 2023)</small>
+
 En la aplicación de las penas o medidas de seguridad a que se refiere este artículo, la autoridad judicial tendrá en cuenta, además de lo previsto en el artículo 67 de este Código, el mayor o menor grado de aproximación a la consumación del delito y la magnitud del peligro en que se puso al bien jurídico protegido.
 
 ### CAPÍTULO IV. PUNIBILIDAD EN EL CASO DE CONCURSO DE DELITOS Y DELITO CONTINUADO
@@ -1865,6 +1871,12 @@ A quien infiera a otro lesiones en riña, se le impondrá dos terceras partes de
 
 Cuando las lesiones sean calificadas o se infieran a una mujer embarazada con conocimiento de su estado, la pena correspondiente a las lesiones simples se incrementará en una mitad.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2023)</small>
+
+###### Artículo 133 Bis.
+
+Cuando se trate de las lesiones previstas en la fracción VI del artículo 136 de este Código, relativas al uso de ácido o sustancia corrosiva y se realicen en contra de niñas, niños o adolescentes, o de una mujer por razón de género, la pena de prisión se incrementará en una mitad.
+
 ### CAPÍTULO III. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
 
 ###### Artículo 134.
@@ -1909,9 +1921,9 @@ IV. Existe alevosía: Cuando el agente realiza el hecho sorprendiendo intenciona
 
 V. Existe retribución: Cuando el agente lo cometa por pago o prestación prometida o dada;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2023)</small>
 
-VI. Por el medio empleado: Se causen por inundación, incendio, explosivos, o bien por envenenamiento, asfixia, tormento o por medio de cualquier otra sustancia nociva para la salud;
+VI. Por el medio empleado: Se causen por inundación, incendio, explosivos, o bien por envenenamiento, asfixia, tormento, o mediante el uso de ácido o sustancia corrosiva, o cualquier otra sustancia nociva para la salud.
 
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
 
@@ -5752,3 +5764,19 @@ P.O. 25 DE FEBRERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de la publicación del Decreto No. LXVII/RFCOD/0486/2022 1 P.O., en el Periódico Oficial del Estado.
+
+P.O. 12 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLYC/0519/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLYC/0520/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA Y DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
