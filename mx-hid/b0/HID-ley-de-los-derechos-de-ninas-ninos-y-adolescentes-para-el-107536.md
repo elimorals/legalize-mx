@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2023-03-29"
+last_updated: "2023-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -62,6 +62,10 @@ La presente Ley es de orden público, interés social y observancia general en e
 I. Reconocer a las niñas, niños y adolescentes que habiten y/o transiten el Estado de Hidalgo como titulares de derechos, con capacidad de goce de los mismos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad; en los términos que establece el artículo 1º de la Constitución Política de los Estados Unidos Mexicanos y 4º de la Constitución Política del Estado de Hidalgo;
 
 II. Garantizar el pleno ejercicio, respeto, protección y promoción de los derechos humanos de niñas, niños y adolescentes conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado de Hidalgo y en los Tratados Internacionales de los que el Estado Mexicano forma parte;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+II Bis. Priorizar al grupo de edad de niñas y niños menores de seis años, como sujetos que gozan de derechos y atenciones especiales requeridas por su edad;
 
 III. Crear y regular la integración, organización y funcionamiento del Sistema Estatal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, a efecto de que el Estado cumpla con su responsabilidad de garantizar la protección, prevención y restitución integrales de los derechos de niñas, niños y adolescentes que hayan sido vulnerados;
 
@@ -142,6 +146,10 @@ XVII. Órgano Jurisdiccional: Los juzgados o tribunales estatales;
 > <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2021)</small>
 
 XVII Bis. Parentalidad Asistida: Proceso por medio del cual se propician y fortalecen en quienes ejercen la patria potestad o tutela, las condiciones que satisfacen las necesidades de niñas, niños y adolescentes y contribuyen a su desarrollo integral y armonioso, basado en el ejercicio pleno de sus derechos;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+XVII Ter. Primera Infancia: Periodo de vida de las niñas y niños menores de seis años, en el que se sientan las bases para su desarrollo;
 
 XVIII. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo;
 
@@ -327,6 +335,10 @@ VI. Derecho a la no discriminación y a la integración social;
 
 VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral;
 
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+VII Bis. Derecho a una primera infancia digna;
+
 VIII. Derecho a una vida libre de violencia y a la integridad personal;
 
 IX. Derecho a la protección de la salud y a la seguridad social;
@@ -380,6 +392,12 @@ Las autoridades federales, estatales y municipales, en el ámbito de sus respect
 Niñas, niños y adolescentes tienen derecho a que se les preserve la vida, a la supervivencia y al desarrollo.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2023)</small>
+
+###### Artículo 14 Bis.
+
+Las autoridades Estatales y Municipales deberán considerar de manera esencial la etapa de la primera infancia en la elaboración de las políticas públicas, planes y programas necesarios para la consecución del desarrollo integral de las niñas y niños, tomando en cuenta las necesidades propias de su edad.
 
 ###### Artículo 15.
 
@@ -877,9 +895,47 @@ Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de 
 
 El orden jurídico estatal establecerá como edad mínima para contraer matrimonio los 18 años.
 
-### Capítulo Octavo. Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ABRIL DE 2023)</small>
 
-### Capítulo Noveno. Del Derecho a la Protección de la Salud y a la Seguridad Social
+### Capítulo Séptimo Bis. Derecho a una Primera Infancia Digna
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2023)</small>
+
+###### Artículo 44 Bis.
+
+Las niñas y los niños en primera infancia gozarán de todos los derechos derivados del sistema jurídico internacional, nacional y local. De forma enunciativa pero no limitativa gozarán de los derechos siguientes:
+
+I. A ser derechohabientes de políticas, programas y servicios que los órganos estatales y municipales implementen con el objeto de promover, respetar, proteger y garantizar su desarrollo integral;
+
+II. A recibir la estimulación adecuada con el fin de desarrollar al máximo las capacidades cognitivas, físicas, emocionales, sociales, afectivas y lingüísticas de las niñas y los niños;
+
+III. Al desarrollo físico;
+
+IV. Al pleno desarrollo psicosocial;
+
+V. A la movilidad social e intergeneracional, siendo sujetos de programas y servicios a fin de generar condiciones adecuadas que les permitan la igualdad de oportunidades para el desarrollo de sus capacidades;
+
+VI. Al descanso, al juego y al esparcimiento, los cuales serán respetados como factores primordiales de su desarrollo y crecimiento, así como a disfrutar de las manifestaciones y actividades culturales y artísticas de su comunidad;
+
+VII. A la integridad física, mental y emocional;
+
+VIII. A participar, ser consultado, expresar libremente sus ideas y opiniones sobre los asuntos que les atañen y a que dichas opiniones sean tomadas en cuenta; y
+
+IX. A crecer y desarrollarse en un entorno saludable, seguro, afectivo y libre de violencia o conductas nocivas.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2023)</small>
+
+###### Artículo 44 Ter.
+
+El Gobierno estatal, los órganos descentralizados y autónomos, así como los gobiernos municipales deberán promover, respetar, proteger y garantizar la aplicación e interpretación del orden jurídico que potencialice los derechos descritos en la presente ley.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2023)</small>
+
+###### Artículo 44 Quater.
+
+Los padres, ascendientes, tutores y toda persona que tenga bajo su cuidado o resguardo de las niñas y los niños en primera infancia tendrán derecho a recibir asistencia, capacitación, educación, asesoría y acompañamiento en la tarea de procurar el adecuado desarrollo integral y crianza y ser objeto de acciones institucionales por parte de los entes públicos del estado.
+
+### Capítulo Octavo. Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
 ###### Artículo 45.
 
@@ -939,7 +995,7 @@ En los casos en que niñas, niños y adolescentes sean víctimas de delitos se a
 
 Para el cumplimiento de lo dispuesto en el párrafo anterior, el Sistema Estatal de Protección Integral a que se refiere la presente Ley, deberá coordinarse con el Sistema Estatal de Atención a Víctimas, el cual procederá a través de su Comisión Ejecutiva en los términos de la legislación aplicable.
 
-### Capítulo Décimo. Del Derecho a la Inclusión de Niñas, Niños y Adolescentes con Discapacidad
+### Capítulo Noveno. Del Derecho a la Protección de la Salud y a la Seguridad Social
 
 ###### Artículo 49.
 
@@ -993,6 +1049,10 @@ XV. Establecer medidas tendentes a la prevención, atención, combate y rehabili
 
 XVI. Establecer medidas tendentes a que en los servicios de salud se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental;
 
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+XVI BIS. Establecer medidas tendientes a brindar el servicio de atención médica oportuna para los problemas ocasionados en la salud, como consecuencia de las restricciones inherentes a las pandemias;
+
 XVII. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación; y
 
 XVIII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad.
@@ -1021,7 +1081,7 @@ III. El diagnóstico oportuno y atención temprana de la displasia en el desarro
 
 IV. La atención de la salud visual, bucal, auditiva y mental.
 
-### Capítulo Décimo Primero. Del Derecho a la Educación
+### Capítulo Décimo. Del Derecho a la Inclusión de Niñas, Niños y Adolescentes con Discapacidad
 
 ###### Artículo 52.
 
@@ -1069,7 +1129,7 @@ Dichos reportes deberán desagregarse, al menos, por sexo, edad, escolaridad y t
 
 Niñas, niños y adolescentes con discapacidad tienen derecho en todo momento a que se les facilite un intérprete, de ser necesario un traductor, o aquellos medios tecnológicos que les permitan obtener información de forma comprensible.
 
-### Capítulo Décimo Segundo. De los Derechos al Descanso y al Esparcimiento
+### Capítulo Décimo Primero. Del Derecho a la Educación
 
 ###### Artículo 56.
 
@@ -1083,7 +1143,9 @@ I. Proporcionar la atención educativa que niñas, niños y adolescentes requier
 
 II. Adoptar medidas orientadas hacia el pleno ejercicio del derecho a la educación;
 
-III. Establecer medidas para garantizar la gratuidad de la educación pública obligatoria y para procurar la accesibilidad material, económica y geográfica a la educación, sin discriminación;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+III. Establecer medidas para garantizar la gratuidad de la educación pública obligatoria, desde la educación inicial y para procurar la accesibilidad material, económica y geográfica a la educación, sin discriminación;
 
 IV. Establecer las condiciones necesarias para fortalecer la calidad educativa, tales como la relevancia y pertinencia del currículo, la disposición de la infraestructura y equipamiento adecuados para el aprendizaje y para las prácticas de enseñanza, la evaluación docente, entre otras;
 
@@ -1175,7 +1237,7 @@ III. Establecer mecanismos gratuitos de atención, asesoría, orientación y pro
 
 IV. Establecer y, en su caso, aplicar las sanciones que correspondan a las personas, responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley y demás disposiciones aplicables.
 
-### Capítulo Décimo Tercero. De los Derechos de la Libertad de Convicciones Éticas, Pensamiento, Conciencia, Religión y Cultura
+### Capítulo Décimo Segundo. De los Derechos al Descanso y al Esparcimiento
 
 ###### Artículo 59.
 
@@ -1187,7 +1249,7 @@ Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
 
-### Capítulo Décimo Cuarto. De los Derechos a la Libertad de Expresión y de Acceso a la Información
+### Capítulo Décimo Tercero. De los Derechos de la Libertad de Convicciones Éticas, Pensamiento, Conciencia, Religión y Cultura
 
 ###### Artículo 61.
 
@@ -1207,7 +1269,7 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Lo dispuesto en este artículo no será limitativo del ejercicio del derecho a la educación, según lo dispuesto en el artículo 3o de la Constitución Política de los Estados Unidos Mexicanos, 8 Bis de la Constitución Política del Estado, ni de los principios rectores de esta Ley.
 
-### Capítulo Décimo Quinto. Del Derecho a la Participación
+### Capítulo Décimo Cuarto. De los Derechos a la Libertad de Expresión y de Acceso a la Información
 
 ###### Artículo 63.
 
@@ -1261,7 +1323,7 @@ Asimismo, la Procuraduría de Protección estará facultada para promover accion
 
 Lo anterior, sin perjuicio de cualquier otra responsabilidad a la que hubiere lugar de conformidad con las disposiciones aplicables.
 
-### Capítulo Décimo Sexto. Del Derecho de Asociación y Reunión
+### Capítulo Décimo Quinto. Del Derecho a la Participación
 
 ###### Artículo 70.
 
@@ -1283,7 +1345,7 @@ Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y to
 
 Niñas, niños y adolescentes también tienen derecho a que las diferentes instancias gubernamentales, les informen de qué manera su opinión ha sido valorada y tomada en cuenta su solicitud.
 
-### Capítulo Décimo Séptimo. Del Derecho a la Intimidad
+### Capítulo Décimo Sexto. Del Derecho de Asociación y Reunión
 
 ###### Artículo 74.
 
@@ -1291,7 +1353,7 @@ Niñas, niños y adolescentes tienen derecho a asociarse y reunirse, sin más li
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia representarán a niñas, niños y adolescentes para el ejercicio del derecho de asociación, cuando ello sea necesario para satisfacer las formalidades que establezcan las disposiciones aplicables.
 
-### Capítulo Décimo Octavo. Del Derecho a la Seguridad Jurídica y al Debido Proceso
+### Capítulo Décimo Séptimo. Del Derecho a la Intimidad
 
 ###### Artículo 75.
 
@@ -1337,7 +1399,7 @@ En los procedimientos ante órganos jurisdiccionales, se podrá solicitar que se
 
 El órgano jurisdiccional, con base en este artículo y en las disposiciones aplicables, podrá requerir a las empresas de prestación de servicios en materia de medios electrónicos que realicen las acciones necesarias para el cumplimiento de las medidas cautelares que ordene.
 
-### Capítulo Décimo Noveno. Niñas, Niños y Adolescentes Migrantes
+### Capítulo Décimo Octavo. Del Derecho a la Seguridad Jurídica y al Debido Proceso
 
 ###### Artículo 81.
 
@@ -1413,6 +1475,10 @@ IV. Que se preserve su derecho a la intimidad, que no se divulguen sus datos de 
 
 V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria, atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones aplicables;
 
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+V Bis. Tener acceso oportuno a protocolos específicos para la atención integral y restitución de sus derechos, con base en el interés superior de la niñez;
+
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2021)</small>
 
 VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos; y
@@ -1437,9 +1503,7 @@ La legislación a que se refiere el párrafo anterior, deberá garantizar los de
 
 Las autoridades, en el ámbito de su competencia, deberán vigilar que en los lugares de tratamiento, centros de internamiento y/o asistencia social de adolescentes a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito, se lleven a cabo eficaces sistemas de reinserción y reintegración social y familiar, así como el pleno desarrollo de su persona y capacidades.
 
-### Capítulo Vigésimo. Derecho de Acceso a las Tecnologías de la Información y Comunicación
-
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+### Capítulo Décimo Noveno. Niñas, Niños y Adolescentes Migrantes
 
 ###### Artículo 88.
 
@@ -1535,9 +1599,9 @@ En ningún caso una situación migratoria irregular de niña, niño o adolescent
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-### Capítulo Vigésimo Primero. Del Derecho a una Crianza Positiva
+### Capítulo Vigésimo. Derecho de Acceso a las Tecnologías de la Información y Comunicación
 
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 100 Bis.
 
@@ -1563,9 +1627,9 @@ En concordancia con el Derecho a la Educación, las autoridades competentes debe
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE NOVIEMBRE DE 2019)</small>
 
-### Capítulo Vigésimo Segundo. Del Derecho a Una Parentalidad Asistida
+### Capítulo Vigésimo Primero. Del Derecho a una Crianza Positiva
 
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2021)</small>
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 100 Bis 4.
 
@@ -1591,7 +1655,7 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2021)</small>
 
-### Capítulo Vigésimo Tercero. Del Derecho a Una Alimentación Suficiente, Nutritiva y de Calidad
+### Capítulo Vigésimo Segundo. Del Derecho a Una Parentalidad Asistida
 
 > <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2021)</small>
 
@@ -1613,7 +1677,9 @@ Las autoridades competentes en materia de desarrollo integral de la familia e in
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2021)</small>
 
-### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+### Capítulo Vigésimo Tercero. Del Derecho a Una Alimentación Suficiente, Nutritiva y de Calidad
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2021)</small>
 
 ###### Artículo 100 Bis 10.
 
@@ -1621,13 +1687,13 @@ Todas las niñas, niños y adolescentes tienen derecho a una alimentación nutri
 
 La desnutrición, malnutrición, sobrealimentación y trastornos alimenticios en niñas, niños y adolescentes constituyen un asunto de salud pública para el Estado y los municipios, por lo que en el ámbito de su competencia, deberán crear programas y ejecutar acciones tendientes a brindarles una correcta educación alimentaria y mejoramiento nutricional.
 
-### Capítulo Único. De los Centros de Asistencia Social
+### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
 
-### Capítulo Primero. De las autoridades
+### Capítulo Único. De los Centros de Asistencia Social
 
 ## TÍTULO TERCERO. De las Obligaciones
 
-### Capítulo Segundo. De la Distribución de Competencias
+### Capítulo Primero. De las autoridades
 
 ###### Artículo 101.
 
@@ -1705,7 +1771,7 @@ No podrá declararse la caducidad, ni la prescripción en perjuicio de niñas, n
 
 ## TÍTULO CUARTO. De la Protección de Niñas, Niños y Adolescentes
 
-### Capítulo Tercero. De la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia
+### Capítulo Segundo. De la Distribución de Competencias
 
 ###### Artículo 106.
 
@@ -1837,7 +1903,7 @@ La Procuraduría de Protección será coadyuvante de la Procuraduría de Protecc
 
 ## TÍTULO QUINTO. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
 
-### Capítulo Cuarto. Del Sistema Estatal de Protección Integral
+### Capítulo Tercero. De la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia
 
 ###### Artículo 113.
 
@@ -1845,7 +1911,7 @@ Las autoridades estatales y municipales y de los organismos constitucionales aut
 
 Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
 
-### Capítulo Quinto. Del Programa Estatal
+### Capítulo Cuarto. Del Sistema Estatal de Protección Integral
 
 ###### Artículo 114.
 
@@ -1971,7 +2037,7 @@ XI. Impulsar la participación de las organizaciones privadas dedicadas a la pro
 
 XII. Las demás que establezca el ordenamiento jurídico estatal y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Nacional DIF y el Sistema DIF Hidalgo.
 
-### Capítulo Sexto. De la Secretaría Ejecutiva
+### Capítulo Quinto. Del Programa Estatal
 
 ###### Artículo 118.
 
@@ -2023,6 +2089,10 @@ Para la imposición de las medidas urgentes de protección, la persona Titular d
 
 VII Bis. Promover ante las autoridades competentes la pérdida definitiva de la patria potestad, así como la imposibilidad de ejercer la guarda y custodia de niñas, niños y adolescentes derivado (sic) víctimas de violencia familiar o derivado de violencia vicaria;
 
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+VII Ter. Velar la debida implementación de protocolos específicos para la atención integral y restitución de los derechos de niñas, niños y adolescentes víctimas de delitos, garantizando el interés superior de la niñez en todas las etapas del procedimiento penal;
+
 VIII. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
 
 IX. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
@@ -2073,7 +2143,7 @@ El nombramiento de la persona Titular de la Procuraduría de Protección deberá
 
 La Procuraduría de Protección, contara con Subprocuradurías Regionales a efecto de que logre la mayor presencia y cobertura posible en los municipios, quienes contaran con unidades de atención acorde a la autonomía e independencia presupuestal de cada municipio.
 
-### Capítulo Séptimo. De la Evaluación y Diagnóstico
+### Capítulo Sexto. De la Secretaría Ejecutiva
 
 ###### Artículo 122.
 
@@ -2175,9 +2245,7 @@ El Sistema Estatal de Protección Integral se reunirá cuando menos dos veces al
 
 Para el mejor cumplimiento de sus funciones, el Sistema Estatal de Protección Integral podrá constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, las cuales deberán ser publicadas en el Periódico Oficial.
 
-### Capítulo Octavo. De los Sistemas Municipales de Protección
-
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2021)</small>
+### Capítulo Séptimo. De la Evaluación y Diagnóstico
 
 ###### Artículo 127.
 
@@ -2197,7 +2265,9 @@ El Programa Estatal deberá incluir mecanismos transparentes que permitan su eva
 
 Los Sistemas Estatal y municipales contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación de los programas.
 
-### Capítulo Noveno. De la Comisión Estatal de los Derechos Humanos
+### Capítulo Octavo. De los Sistemas Municipales de Protección
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2021)</small>
 
 ###### Artículo 131.
 
@@ -2247,13 +2317,15 @@ III. Tener como mínimo cinco años de experiencia en las áreas correspondiente
 
 IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
-### Capítulo Único. De las Infracciones y Sanciones Administrativas
+### Capítulo Noveno. De la Comisión Estatal de los Derechos Humanos
 
 ###### Artículo 133.
 
 Corresponde a la Unidad Técnica de Evaluación del Desempeño del Estado [UTED] la evaluación de las políticas de desarrollo social vinculadas con la protección de los derechos de niñas, niños y adolescentes, en términos de lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, en la Ley General de los Derechos de Niñas, Niños y Adolescentes, esta Ley, en los Programas Nacional y Estatal y las demás disposiciones aplicables.
 
 La evaluación consistirá en revisar periódicamente el cumplimiento de metas y acciones en materia de derechos de niñas, niños y adolescentes y de acuerdo con el resultado, tanto el Consejo Nacional de Evaluación de la Política de Desarrollo Social [CONEVAL] y a la Unidad Técnica de Evaluación del Desempeño del Estado [UTED] podrán emitir las sugerencias y recomendaciones que consideren pertinentes a través de las instancias competentes.
+
+### Capítulo Único. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 134.
 
@@ -2538,5 +2610,23 @@ P.O. 21 DE OCTUBRE DE 2022.
 P.O. 29 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 46 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 497 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 499 POR EL QUE SE ADICIONAN LA FRACCIÓN V BIS AL ARTÍCULO 85 Y LA FRACCIÓN VII TER AL ARTÍCULO 119 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 500 POR EL QUE SE ADICIONA LA FRACCIÓN XVI BIS AL ARTÍCULO 49 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
