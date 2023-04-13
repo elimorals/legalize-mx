@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2023-04-12"
+last_updated: "2023-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -922,6 +922,10 @@ Se perseguirán, a petición de parte ofendida, los delitos culposos de lesiones
 ###### ARTICULO 79.
 
 A los responsables de tentativa punible se les aplicará prisión de la tercera parte del mínimo hasta las dos terceras partes del máximo de la sanción prevista para el delito que el agente quiso realizar.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2023)</small>
+
+Para el caso de la tentativa del delito de feminicidio, se sancionará con pena de prisión que no será menor a las dos terceras partes de la sanción mínima prevista para el delito consumado.
 
 ### CAPITULO V. CONCURSO
 
@@ -7102,6 +7106,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 12 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-556 MEDIANTE EL CUAL SE ADICIONAN LA FRACCIÓN V, RECORRIENDO EN SU ORDEN NATURAL LAS SUBSECUENTES, AL ARTÍCULO 168, Y UN PÁRRAFO TERCERO AL ARTÍCULO 169, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-560 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 79 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
