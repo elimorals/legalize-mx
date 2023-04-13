@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2023-02-20"
+last_updated: "2023-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1375,7 +1375,9 @@ Partiendo de la boca del Río Xochiapa, sobre la margen izquierda del Río Color
 
 CON EL ESTADO DE CHIAPAS.
 
-Partiendo del "CERRO MARTINEZ" con rumbo S13°00'O en línea recta hasta el "CERRO DE LA GINETA"; de este punto siguiendo con rumbo S49°30'E al "CERRO TRES CRUCES"; de este punto con rumbo S27°00'E a un punto denominado "SIN PENSAR" y que se localiza cerca de la estación de "SAN RAMÓN"; continuando con éste punto con rumbo SO3º00'E a la pesquería o agencia de policía denominada "CACHIMBO", correspondiente esta población al Estado de Oaxaca, la que se localiza en la orilla de la isla de León en el Océano Pacífico.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2023)</small>
+
+La línea limítrofe que debe regir entre los estados de Oaxaca y Chiapas, partirá de sur a norte e iniciará en la Barra de Tonalá a los 16º de latitud norte (94º00'00"W; 16º00'00"N), en dirección noroeste hasta el Cerro del Chilillo (94° 2' 35.84"W; 16° 20' 27.09"N), de ahí con dirección noroeste hasta el Cerro de la Jineta (94° 8' 21.87"W; 16° 27' 42.73"N) y de ahí con rumbo noreste hasta el Cerro de los Martínez (93° 53' 23.92"W; 17° 8' 56.79"N).
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
 
@@ -6558,3 +6560,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Congreso del Estado tendrá 180 días naturales a partir de la entrada en vigor para reformar las leyes secundarias que correspondan de conformidad con el presente Decreto.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1337.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO SÉPTIMO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y la Gaceta Parlamentaria.
+
+TERCERO. Se autoriza al Gobernador del Estado de Oaxaca la suscripción del Convenio Amistoso de Límites Territoriales entre los Estados Libres y Soberanos de Chiapas y Oaxaca, respecto de la parte sur del lindero interestatal, a fin de reconocer los límites actuales entre los Municipios de San Pedro Tapanatepec y San Francisco del Mar, en el estado de Oaxaca, y los Municipios de Arriaga y Tonalá, en el estado de Chiapas.
