@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2022-12-15"
+last_updated: "2023-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -1157,13 +1157,17 @@ La madre y el padre solteros tienen obligación de reconocer a su hijo. La filia
 
 El padre o la madre solteros que no hayan ocurrido a registrar a sus hijos, podrán reconocerlos en cualquier momento, debiendo presentarse ante el Oficial del Registro del Estado Familiar o ante Notario Público a efectuar dicha manifestación previa su identificación y voluntad de hacerlo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2023)</small>
+
 ###### Artículo 170.
 
-La investigación de la paternidad o maternidad de los hijos nacidos fuera del matrimonio está permitida:
+La investigación de la paternidad o maternidad de las hijas y los hijos nacidos fuera del matrimonio está permitida:
 
 I.- En los casos de rapto, estupro y violación, cuando la época del delito coincida con la de la concepción;
 
-II.- Cuando el hijo se encuentre en posesión de estado de hijo del presunto padre;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+II.- Cuando la hija o el hijo se encuentre en posesión de estado de hija o hijo del presunto padre o madre;
 
 III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre habitaba bajo el mismo techo con el pretendido padre viviendo maritalmente; y
 
@@ -1171,9 +1175,9 @@ IV.- Cuando el hijo tenga a su favor un principio de prueba contra el pretendido
 
 Las acciones de investigación de la paternidad o maternidad, sólo pueden intentarse en vida del padre o madre, quien será emplazado personalmente de la imputación, siguiéndose el procedimiento que para el juicio escrito señala el Código de Procedimientos Familiares para el Estado Hidalgo.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2023)</small>
 
-El hijo mayor de edad está legitimado para promover dicha acción a partir de haber cumplido su mayoría de edad; esta acción es imprescriptible.
+Para promover dicha acción están legitimados las hijas e hijos mayores de edad; y las hijas e hijos menores de edad están legitimados para hacerlo por conducto de quien ejerza la patria potestad o la tutela. Esta acción es imprescriptible.
 
 ###### Artículo 171.
 
@@ -3508,5 +3512,11 @@ SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto
 P.O. 15 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 311 QUE DEROGA LA FRACCIÓN PRIMERA DEL ARTÍCULO 19 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 501 POR EL QUE SE REFORMA EL ARTÍCULO 170 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
