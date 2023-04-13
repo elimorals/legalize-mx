@@ -4,7 +4,7 @@ identifier: "HID-ley-para-prevenir-atender-sancionar-y-eliminar-la-93833"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2022-11-24"
+last_updated: "2023-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 8 de abril de 2013.
 
@@ -238,6 +238,10 @@ VI. Negar o limitar información sobre derechos sexuales y reproductivos o imped
 VII. Negar, limitar o condicionar los servicios de atención médica, o impedir la participación en las decisiones sobre su tratamiento médico o terapéutico dentro de sus posibilidades y medios;
 
 VIII. Impedir o restringir la participación en condiciones equitativas en asociaciones civiles, políticas o de cualquier otra índole;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+VIII Bis. Negar o condicionar el derecho de participación política y, específicamente, el derecho al sufragio activo o pasivo, la elegibilidad y el acceso a todos los cargos públicos, así como la participación en el desarrollo y ejecución de políticas y programas de gobierno, en los casos y bajo los términos que establezcan las disposiciones aplicables;
 
 IX. Impedir o limitar el ejercicio de los derechos de propiedad, administración y disposición de bienes de cualquier otro tipo;
 
@@ -1334,5 +1338,11 @@ P.O. 12 DE ABRIL DE 2022.
 P.O. 24 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 298 QUE REFORMA EL ARTÍCULO 11, Y EL ARTÍCULO 11 BIS FRACCIONES XXXIII, XXXIV Y XXXVI DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 498 QUE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 11 BIS DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
