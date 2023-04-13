@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-congreso-del-estado-de-tlaxcala-25080"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-24"
-last_updated: "2021-11-12"
+last_updated: "2023-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 24 de mayo de 2002.
 
@@ -475,9 +475,9 @@ XXVI. Información Pública y Protección de Datos Personales;
 
 XXVII. Medio Ambiente y Recursos Naturales;
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2023)</small>
 
-XXVIII. De Desarrollo Humano y Social;
+XXVIII. Del Bienestar y Desarrollo Social;
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2015)</small>
 
@@ -963,19 +963,27 @@ V. Promover y fomentar la preservación de los recursos naturales y procurar las
 
 VI. Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Coordinación y Concertación Política.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2023)</small>
 
 ###### Artículo 62 Quáter.
 
-Corresponde a la Comisión de Desarrollo Humano y Social:
+Corresponde a la Comisión del Bienestar y Desarrollo Social:
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 I. Conocer y dictaminar en:
 
-a) La legislación que en materia de desarrollo social sea necesaria para el mejoramiento de la calidad de vida de la población, y
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2023)</small>
+
+a) La legislación que en materia de Bienestar y Desarrollo Social sea necesaria para el mejoramiento de la calidad de vida de la población, y
 
 b) El establecimiento de acciones o programas tendientes a combatir la pobreza extrema;
 
-II. La elaboración de investigaciones, foros y documentos que sean alternativas eficaces en el diseño de políticas públicas que tutelen el desarrollo humano y social, y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+II. La elaboración de investigaciones, foros y documentos que sean alternativas eficaces en el diseño de políticas públicas que impulsen el bienestar y desarrollo social, y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 III. Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Coordinación y Concertación Política.
 
@@ -2472,3 +2480,21 @@ El presente Decreto entrará en vigor al día de su aprobación y deberá public
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 217.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TLAXCALA Y DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado, y deberá publicarse en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Al momento del inicio de la vigencia de este Decreto, lo concerniente a la integración de la Comisión de Desarrollo Humano y Social y su Secretaría Técnica serán conservadas por la Comisión del Bienestar y Desarrollo Social, y los asuntos en trámite, turnados a aquella, serán continuados por ésta, sin necesidad de dictar proveído al respecto.
+
+En consecuencia, toda referencia anterior a la Comisión de Desarrollo Humano y Social, para lo sucesivo, se entenderá hecha a la Comisión del Bienestar y Desarrollo Social.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al contenido del presente Decreto.
