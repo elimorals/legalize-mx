@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2023-01-31"
+last_updated: "2023-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -539,7 +539,9 @@ IV. Participar en los procesos de revocación de mandato.
 
 El que se refiere a la revocación de Mandato del Gobernador, se llevará a cabo conforme a lo siguiente:
 
-1. Será convocado por el Instituto Estatal Electoral a petición de las ciudadanas y ciudadanos, en un número equivalente, al menos, al tres por ciento de los inscritos en la lista nominal de electores del Estado, siempre y cuando en la solicitud correspondan a por lo menos once municipios y que representen, como mínimo, el tres por ciento de la lista nominal de electores de cada uno de los municipios.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2023)</small>
+
+1. Será convocado por el Instituto Estatal Electoral a petición de las ciudadanas y ciudadanos, en un número equivalente, al menos, al diez por ciento de los inscritos en la lista nominal de electores del Estado, siempre y cuando en la solicitud correspondan a por lo menos once municipios y que representen, como mínimo, el diez por ciento de la lista nominal de electores de cada uno de los municipios.
 
 El Instituto Estatal Electoral, dentro de los siguientes treinta días a que se reciba la solicitud, verificará el requisito establecido en el párrafo anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato.
 
@@ -733,11 +735,13 @@ VI. No ser ministro de algún culto religioso, y
 
 VII. No estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa; ni en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2023)</small>
 
 ###### Art. 29.
 
-No pueden ser diputados quienes ocupen los cargos de: Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Síndico, Regidor, Secretario, Tesorero o Director de alguna dependencia del Ayuntamiento; Fiscal General, Diputado Federal, Senador de la República, Delegados, Subdelegados o titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Consejo de la Judicatura Estatal o Federal; consejeros y magistrados electorales del Estado; titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público por lo menos 90 días antes del día de la elección. En el caso de los servidores públicos del Poder Judicial y Consejo de la Judicatura Estatal y Federal, así como consejeros y magistrados electorales del Estado señalados anteriormente, el término de su separación se computará un año antes de la elección.
+No pueden ser diputados quienes ocupen los cargos de: Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Síndico, Regidor, Secretario, Tesorero o Director de alguna dependencia del Ayuntamiento; Fiscal General, Diputado Federal, Senador de la República, Delegados, Subdelegados o titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Consejo de la Judicatura Estatal o Federal; Magistrado Administrativo; titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público por lo menos 90 días antes del día de la elección. En el caso de los consejeros y magistrados electorales del estado, el término de su separación se computará un año antes de la elección.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
 
 Para el caso de diputados que aspiren a la elección consecutiva, deberán separarse del cargo cuando menos noventa días antes de la elección.
 
@@ -981,9 +985,9 @@ VII. Aprobar las leyes de ingresos de los municipios, revisar y fiscalizar sus c
 
 VIII. Constituirse en Colegio Electoral para designar al gobernador provisional, interino o sustituto según lo establece esta Constitución; y convocar a elecciones ordinarias y extraordinarias en los términos previstos por la ley.
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2023)</small>
 
-IX. Observar el principio de paridad de género para la designación de los Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia del Estado, a los Magistrados Numerarios y Supernumerarios del Tribunal de Justicia Administrativa, al Fiscal General, al Fiscal Especializado en Materia de Delitos Electorales, al Fiscal Especializado en Combate a la Corrupción y al Secretario de Seguridad Pública, al titular del Centro de Conciliación Laboral del Estado de Nayarit y ratificar al titular de la Secretaría del Poder Ejecutivo Estatal responsable del control interno con base en las propuestas que haga el Gobernador en los términos de esta Constitución y las leyes aplicables.
+IX. Observar el principio de paridad de género para la designación de los Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia del Estado, a los Magistrados Numerarios y Supernumerarios del Tribunal de Justicia Administrativa, al Fiscal General, al Fiscal Especializado en Materia de Delitos Electorales, al Fiscal Especializado en Combate a la Corrupción y al titular del Centro de Conciliación Laboral del Estado de Nayarit, ratificar al titular de la Secretaría del Poder Ejecutivo Estatal responsable del control interno, a la persona titular de la Secretaría de Seguridad y Protección Ciudadana; a quien presida la Junta Directiva y a los Consejeros Independientes del Fondo de Ahorro para el Retiro Digno de las Trabajadoras y Trabajadores del Estado Libre y Soberano de Nayarit; a quien presida la Junta Directiva del Fondo Soberano Nuevo Nayarit, con base en las propuestas que haga el Gobernador en los términos de esta Constitución y las disposiciones aplicables.
 
 X. Recibir a los mismos funcionarios, la protesta de guardar y hacer guardar la Constitución General, la Particular del Estado y las leyes que de ambas emanen.
 
@@ -1024,6 +1028,14 @@ XIX. Mediante el voto de las dos terceras partes de sus miembros presentes, auto
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
 XX. Conceder amnistía y expedir Leyes de indulto, cuando lo estime de equidad.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+XX-A. Dictar las leyes que regule el sistema de ahorro para el retiro digno de las trabajadoras y trabajadores.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+XX-B. Mediante el voto de las dos terceras partes de los integrantes de las diputadas y diputados, reformar, adicionar o derogar disposiciones de la Ley del Fondo de Ahorro para el Retiro Digno de las Trabajadoras y Trabajadores del Estado Libre y Soberano de Nayarit y Ley del Fondo Soberano Nuevo Nayarit.
 
 XXI. Dictar leyes sobre vías de comunicación local del Estado, sobre empresas de utilidad pública y aprovechamientos de las aguas de su jurisdicción, siempre que no tengan carácter de prepiedad (sic) federal.
 
@@ -1267,9 +1279,9 @@ I. Ser ciudadano mexicano por nacimiento, hijo de padres mexicanos, nativo del E
 
 II. Tener 30 años cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2023)</small>
 
-III.- No ser Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Síndico, Regidor, Secretario, Tesorero o Director de alguna Dependencia del Ayuntamiento; Fiscal General, Diputado Local o Federal, Senador de la República, Delegados, Subdelegados o Titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Consejo de la Judicatura Estatal o Federal; consejeros y magistrados electorales del Estado; el titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público al menos 90 días antes del día de la elección. En el caso de los servidores públicos del Poder Judicial y Consejo de la Judicatura Estatal y Federal, así como consejeros y magistrados electorales del Estado señalados anteriormente, el término de su separación se computará un año antes de la elección.
+III. No ser Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Síndico, Regidor, Secretario, Tesorero o Director de alguna Dependencia del Ayuntamiento; Fiscal General, Diputado Local o Federal, Senador de la República, Delegados, Subdelegados o Titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Consejo de la Judicatura Estatal o Federal; Magistrado Administrativo; el titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público al menos 90 días antes del día de la elección. En el caso de los consejeros y magistrados electorales del estado, el término de su separación se computará un año antes de la elección.
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -1401,9 +1413,9 @@ XI.- (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 1998)
 
 XII.- Nombrar y remover libremente a los titulares de las dependencias señaladas en la Ley Orgánica del Poder Ejecutivo y a los demás servidores públicos cuyo nombramiento no esté encomendado a otras autoridades, observando el principio de paridad de género.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2023)</small>
 
-Someter a la aprobación del Congreso, la designación del Fiscal General, del Secretario de Seguridad Pública y del titular del Centro de Conciliación Laboral del Estado de Nayarit.
+Someter a la aprobación del Congreso, la designación del Fiscal General, del titular del Centro de Conciliación Laboral del Estado de Nayarit y la ratificación de la persona titular de la Secretaría de Seguridad y Protección Ciudadana, del titular de la Secretaría del Poder Ejecutivo Estatal responsable del control interno, del titular de la Junta Directiva y Consejeros Independientes del Fondo de Ahorro para el Retiro Digno de las Trabajadoras y Trabajadores del Estado Libre y Soberano de Nayarit, así como de quien presida la Junta de (sic) Directiva del Fondo Soberano Nuevo Nayarit.
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2011)</small>
 
@@ -2315,11 +2327,13 @@ II. Ser ciudadano nayarita en pleno ejercicio de sus derechos; originario del mu
 
 III. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2023)</small>
 
-IV. No ser Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal; Secretario, Tesorero o Director de alguna dependencia del Ayuntamiento; Fiscal General, Diputado Local o Federal, Senador de la República, Delegados, Subdelegados o titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado; miembro del Consejo de la Judicatura Estatal o Federal; consejeros y magistrados electorales del Estado; titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público por lo menos noventa días antes del día de la elección.
+IV. No ser Gobernador, Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal; Secretario, Tesorero o Director de alguna dependencia del Ayuntamiento; Fiscal General, Diputado Local o Federal, Senador de la República, Delegados, Subdelegados o titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado; Ministro, Magistrado o Juez del Poder Judicial de la Federación o del Estado; miembro del Consejo de la Judicatura Estatal o Federal; Magistrado Administrativo; titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público por lo menos noventa días antes del día de la elección.
 
-En el caso de los servidores públicos del Poder Judicial y Consejo de la Judicatura Estatal y Federal, así como consejeros y magistrados electorales del estado señalados anteriormente, el término de su separación se computará un año antes de la elección.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2023)</small>
+
+En el caso de los consejeros y magistrados electorales del estado, el término de su separación se computará un año antes de la elección.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2022)</small>
 
@@ -4609,8 +4623,26 @@ P.O. 31 DE ENERO DE 2023.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
-SEGUNDO. Se establece un periodo de quince meses, contados a partir de la entrada en vigor del presente Decreto, para que el Poder Judicial del Estado, el Tribunal de Justicia Administrativa y el Tribunal Estatal Electoral, realicen de manera paulatina la armonización de los ordenamientos normativos en su ámbito competencial, así como para que implementen las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación de las políticas y acciones en materia de justicia en línea, de conformidad con lo establecido en el presente Decreto.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2023)</small>
+
+SEGUNDO. Se establece un periodo de veintidós meses, contados a partir de la entrada en vigor del presente Decreto, para que el Poder Judicial del Estado, el Tribunal de Justicia Administrativa y el Tribunal Estatal Electoral, realicen de manera paulatina la armonización de los ordenamientos normativos en su ámbito competencial, así como para que implementen las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación de las políticas y acciones en materia de justicia en línea, de conformidad con lo establecido en el presente Decreto.
 
 TERCERO. El Honorable Congreso del Estado de Nayarit, deberá expedir la regulación dentro del marco jurídico local, para la correcta aplicación de la revocación de mandato, dentro del plazo de 180 días hábiles, posterior a la entrada en vigor de la presente reforma.
 
 CUARTO. Para los efectos del artículo 131, párrafo primero, de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+P.O. 13 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA LOS ARTÍCULOS 47 Y 69 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, y el artículo 96 de la Ley Orgánica del Poder Legislativo del Estado de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+P.O. 13 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE REQUISITOS DE ELEGIBILIDAD A CARGOS DE ELECCIÓN POPULAR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit remítase el presente Decreto a los veinte Ayuntamientos de la entidad.
