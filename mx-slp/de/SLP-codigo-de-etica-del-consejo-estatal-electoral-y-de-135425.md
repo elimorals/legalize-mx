@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-etica-del-consejo-estatal-electoral-y-de-135425"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-03-21"
-last_updated: "2022-06-08"
+last_updated: "2023-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SLP"
 ---
 # CODIGO DE ETICA DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACION CIUDADANA DE SAN LUIS POTOSI
 
-.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ACUERDO DEL ÓRGANO INTERNO DE CONTROL DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE SAN LUIS POTOSI, POR MEDIO DEL CUAL EMITE EL CÓDIGO DE ÉTICA EN OBSERVANCIA AL NUMERAL 16 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, Y SE ABROGA EL "ACUERDO DE LA CONTRALORÍA DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE SAN LUIS POTOSÍ, POR MEDIO DEL CUAL EMITE EL CÓDIGO DE ÉTICA EN OBSERVANCIA AL NUMERAL 16 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE SAN LUIS POTOSÍ" DE FECHA 31 DE ENERO DE 2019, PUBLICADO EN EL P.O. DE 13 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 CÓDIGO DE ÉTICA EN OBSERVANCIA AL NUMERAL 16 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023 (ABROGADO).
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 21 de marzo de 2019.
 
@@ -436,3 +436,19 @@ P.O. 8 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO POR MEDIO DEL CUAL SE MODIFICA EL NUMERAL 5, DEL ARTÍCULO 17 DEL CÓDIGO DE ÉTICA DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA EN OBSERVANCIA AL DIVERSO 16 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
 
 ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR MEDIO DEL CUAL EMITE EL CÓDIGO DE ÉTICA Y SE ABROGA EL "ACUERDO DE LA CONTRALORÍA DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE SAN LUIS POTOSÍ", DE FECHA 31 DE ENERO DE 2019".]
+
+PRIMERO.- Se emite el Código de Ética del Consejo Estatal Electoral y de Participación Ciudadana, y entra en vigor a partir del siguiente día de su aprobación, abrogando el "Acuerdo de la Contraloría del Consejo Estatal Electoral y de Participación Ciudadana de San Luis Potosí, por medio del cual emite el Código de Ética en observancia al numeral 16 de la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí", de fecha 31 de enero de 2019.
+
+SEGUNDO.- Hágase del conocimiento del presente acuerdo al Consejo General de este Consejo Estatal Electoral y de Participación Ciudadana, para su conocimiento y cumplimiento.
+
+TERCERO.- Désele máxima publicidad en la página oficial de este Consejo Estatal Electoral y de Participación Ciudadana.
+
+CUARTO.- Publíquese en el Periódico Oficial del Estado para los efectos legales correspondientes.
+
+QUINTO.- Hágase del conocimiento del presente acuerdo al personal del Organismo, para su conocimiento y transcendencia administrativa.
+
+SEXTO.- El presente acuerdo podrá ser modificado en el caso que las normas aplicables al presente Código de Ética sufran modificaciones.
