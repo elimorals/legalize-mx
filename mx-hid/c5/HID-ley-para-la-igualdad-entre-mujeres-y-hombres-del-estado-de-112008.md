@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2023-03-31"
+last_updated: "2023-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -366,6 +366,10 @@ VI. Una persona representante de la Administración Pública Estatal;
 VII. La titular del Instituto Hidalguense de las Mujeres, quien podrá designar en su representación a una persona de nivel jerárquico inmediato inferior;
 
 VIII. La persona titular de la Junta de Gobierno del Congreso del Estado de Hidalgo quien podrá nombrar a una diputada o diputado que lo represente;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
+
+VIII BIS. La persona titular de la Comisión Permanente de Igualdad de Género del Congreso del Estado de Hidalgo, quien podrá nombrar como representante a una diputada o diputado, integrante de esa Comisión;
 
 IX. La persona que presida el Tribunal Superior de Justicia en el Estado de Hidalgo, quien podrá nombrar a una magistrada o magistrado que lo represente; y
 
@@ -928,5 +932,11 @@ P.O. 28 DE MARZO DE 2022.
 P.O. 31 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 491 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 502 QUE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 16 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
