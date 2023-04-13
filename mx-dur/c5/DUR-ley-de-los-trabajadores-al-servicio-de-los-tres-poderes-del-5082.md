@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "2022-12-18"
+last_updated: "2023-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
@@ -433,8 +433,6 @@ Es nula la cesión de salarios en favor de terceras personas.
 
 ### CAPITULO CUARTO. DE LAS OBLIGACIONES DE LAS DEPENDENCIAS PUBLICAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 55o.
@@ -459,8 +457,6 @@ III.- Reinstalar a los trabajadores en las plazas de las cuales los hubieren sep
 
 En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente en categoría y sueldo, o, de no ser posible, indemnizarlos conforme esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 IV.- De acuerdo con la partida del presupuesto de egresos correspondiente que se haya fijado para tal efecto, cubrir las indemnizaciones, por separación injustificada para los Trabajadores que hayan optado por ella, asimismo, pagar los salarios caídos en los términos de la sentencia definitiva que emita el Tribunal Laboral Burocrático.
@@ -483,11 +479,11 @@ g).- Concesión de becas a los Trabajadores de base sindicalizados, sobre materi
 
 Estas becas comprenderán, cuando así se amerite, el pago de colegiaturas, alimentación, vestido y en su caso gastos de viaje.
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2023)</small>
 
-VI.- Otorgar a las trabajadoras mayores de cuarenta años un día de asueto, cada dos años, con el objetivo de que puedan acudir, de manera programada, a realizarse el examen clínico ante las instancias correspondientes, que les permita detectar oportunamente el cáncer de mama.
+VI.- Otorgar a las y los trabajadores, permiso con goce de sueldo íntegro, un día al año, para la realización de exámenes médicos de prevención y detección de cáncer de mama, cervicouterino, de próstata o de testículo, según sea el caso; de manera programada, para lo cual deberán presentar certificado médico expedido por una institución de salud pública o privada correspondiente.
 
-Así mismo a todas las trabajadoras menores de cuarenta años, gozarán de la misma manera de un día de asueto, a fin de que reciban pláticas de capacitación en la autoexploración para la prevención y detección oportuna de cáncer de mama, siguiendo los lineamientos legales aplicables.
+Así mismo todas y todos los trabajadores, podrán recibir pláticas de capacitación en la autoexploración para la prevención y detección oportuna de cáncer de mama, cervicouterino, de próstata o de testículo, según sea el caso, siguiendo los lineamientos legales aplicables.
 
 VII.- Conceder las licencias a que se refiere el Artículo 35 de esta Ley, en los términos establecidos en los Artículos 36, 37 y 38; computándose el tiempo que duren las mismas como tiempo efectivo dentro del escalafón.
 
@@ -1586,6 +1582,14 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 18 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281.- QUE CONTIENE REFORMA A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 349.- QUE CONTIENE REFORMA AL ARTÍCULO 55 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
