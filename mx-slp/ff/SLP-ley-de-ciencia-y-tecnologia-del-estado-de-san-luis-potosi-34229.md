@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ciencia-y-tecnologia-del-estado-de-san-luis-potosi-34229
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-30"
-last_updated: "2021-01-26"
+last_updated: "2023-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de agosto de 2003.
 
@@ -223,27 +223,37 @@ XI. El seguimiento a los proyectos viables a que se refiere la fracción anterio
 
 ### CAPÍTULO II. Del Financiamiento y de los Fondos para la Investigación, el Desarrollo Tecnológico y la Innovación
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
+
 ###### ARTICULO 9°.
 
-El Estado deberá considerar en sus programas y presupuestos, las acciones y los recursos necesarios para el fortalecimiento de la investigación científica y tecnológica en general y, en particular, para el eficaz cumplimiento de los objetivos de esta Ley.
+El Estado deberá considerar en sus programas y presupuestos, las acciones y los recursos necesarios para el fortalecimiento de la investigación científica, el desarrollo tecnológico, y la innovación en general y, en particular, para el eficaz cumplimiento de los objetivos de esta Ley.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
 
 ###### ARTICULO 10.
 
-El Ejecutivo del Estado proveerá los recursos materiales y financieros necesarios, para la creación de los fondos institucionales y el funcionamiento administrativo y operativo del COPOCYT.
+El Ejecutivo del Estado proveerá los recursos materiales y financieros necesarios para la creación de los fondos institucionales, así como para el funcionamiento administrativo y operativo del COPOCYT.
 
-El gasto estatal en materia de fomento a la investigación científica y tecnológica tendrá como referente el 1% del PIB del Estado de San Luis Potosí, compuesto por fondos públicos y privados, invertidos en investigación científica y desarrollo tecnológico, tal como lo sugiere la Organización de las Naciones Unidas para la educación, la ciencia y la cultura.
+El gasto estatal en materia de fomento a la investigación científica y tecnológica tendrá como referente el 1% del PIB del Estado de San Luis Potosí, compuesto por fondos públicos y privados, invertidos en investigación científica y desarrollo tecnológico, tal como lo sugiere la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
 
 ###### ARTICULO 11.
 
-El Ejecutivo del Estado, a través de sus dependencias y entidades, aportará recursos para la creación y operación de fondos destinados a financiar la realización de actividades de fomento a la cultura científica, la formación de recursos humanos, y la realización de proyectos de investigación científica, innovación y desarrollo tecnológico.
+El Ejecutivo del Estado, a través de sus dependencias y entidades, aportará recursos para la creación y operación de fondos destinados a financiar la realización de actividades de fomento a la cultura científica, la formación de recursos humanos, y el desarrollo de proyectos de investigación científica, desarrollo tecnológico, e innovación.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
 
 ###### ARTICULO 12.
 
-Los fondos a que se refiere este Capítulo deberán precisar el instrumento jurídico que los constituya, tales como fideicomisos, convenios de coordinación o concertación, y cualquier figura prevista en otras disposiciones jurídicas aplicables; también se deberán precisar las reglas de su operación.
+Los fondos a que se refiere este Capítulo deberán precisar el instrumento jurídico que los constituya, tales como fideicomisos, convenios de coordinación o concertación, y cualquier figura prevista en otras disposiciones jurídicas aplicables; también se deberán precisar sus reglas de operación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2023)</small>
 
 ###### ARTICULO 13.
 
-Los fondos a que se refiere este Capítulo contarán con un comité técnico y de administración, se regirán por el presente Ordenamiento y, además, podrán tener las siguientes modalidades:
+Los fondos a que se refiere este Capítulo contarán con un Comité Técnico y de Administración, se regirán por el presente Ordenamiento y, además, podrán tener las siguientes modalidades:
 
 I. Los institucionales;
 
@@ -261,27 +271,29 @@ IV. Los mixtos, y
 
 V. Los derivados de multas electorales.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 14 DE ABRIL DE 2023)</small>
 
-Los recursos derivados de las multas electorales son aquellos recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral a que hace referencia el Artículo 458, Fracción 8 de la Ley General de Instituciones y Procedimientos Electorales y Artículos 35 y 452 de la Ley Electoral del Estado de San Luis Potosí.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 14 DE ABRIL DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
-
-Para el establecimiento y operación de estos recursos deberá aplicarse lo establecido en el Contrato de Fideicomiso y en sus Reglas de Operación, establecidos para tal fin.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
 
 ###### ARTICULO 14.
 
-Los fondos institucionales son los recursos que el Ejecutivo del Estado otorga al COPOCYT para fomentar, impulsar, desarrollar y fortalecer la investigación científica y tecnológica en la Entidad; éstos se regirán por los principios que establece el artículo 7° de esta Ley.
+Los fondos institucionales son los recursos que el Ejecutivo del Estado otorga al COPOCYT para fomentar, impulsar, desarrollar y fortalecer la investigación científica, tecnológica, y de innovación en la Entidad; éstos se regirán por los principios que establece el artículo 7° de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2023)</small>
 
 ###### ARTICULO 15.
 
-Los fondos sectoriales son aquellos recursos que se obtengan a través de la firma de convenios entre el COPOCYT y las dependencias y entidades de la administración pública estatal; éstos se destinarán exclusivamente a la realización de investigaciones científicas y tecnológicas que requiera el sector de que se trate.
+Los fondos sectoriales son aquellos recursos que se obtengan a través de la firma de convenios entre el COPOCYT y las dependencias y entidades de la administración pública estatal; éstos se destinarán exclusivamente a la realización de investigaciones científicas, desarrollos tecnológicos o de innovación que requiera el sector de que se trate.
 
 Los recursos de estos fondos deberán provenir del presupuesto autorizado para ese efecto a la dependencia o entidad interesada; éstos serán aplicables durante la subsistencia del convenio y no tendrán carácter de regularizables. Asimismo, podrán integrarse con aportaciones complementarias del sector privado.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
+
 ###### ARTICULO 16.
 
-Los fondos internacionales son los recursos que provengan de convenios de cooperación internacional, que se establezcan y operen conforme a los artículos 19 y 20 de esta Ley, y en los términos de los convenios específicos celebrados.
+Los fondos internacionales son los recursos que provienen de convenios de cooperación internacional, que se establezcan y operen en los términos de los convenios específicos celebrados.
 
 ###### ARTICULO 17.
 
@@ -289,51 +301,83 @@ Los fondos mixtos son aquellos recursos que se convengan entre el Ejecutivo del 
 
 Para el establecimiento y operación de estos fondos deberá aplicarse lo establecido en los artículos 19 y 20 de esta Ley.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
+
 ###### ARTICULO 18.
 
-El COPOCYT podrá convenir con los municipios del Estado el establecimiento y operación de fondos mixtos de carácter estatal y municipal de apoyo a la investigación científica y tecnológica. Estos fondos podrán incluir la formación de recursos humanos de alto nivel y, además, se integrarán y desarrollarán con aportaciones de las partes, en la proporción que en cada caso se convenga.
+El COPOCYT podrá convenir con los municipios del Estado el establecimiento y operación de fondos mixtos de apoyo a la investigación científica, al desarrollo tecnológico, y a la innovación. Estos fondos podrán incluir actividades de fomento a la cultura científica, la formación de recursos humanos de alto nivel, y el desarrollo de proyectos de investigación científica, desarrollo tecnológico e innovación y, además, se integrarán y desarrollarán con aportaciones de las partes, en la proporción que en cada caso se convenga.
 
-Estos recursos se operarán mediante los convenios específicos y conforme a lo dispuesto en los artículos 19 y 20 de esta Ley.
+Para el establecimiento y operación de estos fondos deberá aplicarse lo establecido en los artículos, 19, y 20, de esta Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
+
+ARTICULO 18 BIS. Los recursos derivados de las multas electorales, son aquellos recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral a que hace (sic) referencia los artículos, 458 fracción VIII de la Ley General de Instituciones y Procedimientos Electorales; 35, y 452, de la Ley Electoral del Estado de San Luis Potosí.
+
+Estos recursos se operarán mediante el instrumento jurídico que lo constituya.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
 
 ###### ARTICULO 19.
 
-El establecimiento, aplicación y operación de los diversos fondos que se constituyan para el desarrollo de la investigación científica y tecnológica, se sujetarán a las prioridades y necesidades estatales y, además, a los criterios de viabilidad, pertinencia, permanencia de recursos, legalidad y transparencia.
+El establecimiento, aplicación y operación de los diversos fondos que se constituyan para la investigación científica, el desarrollo tecnológico y la innovación, se sujetarán a las prioridades y necesidades estatales y, además, a los criterios de viabilidad, pertinencia, permanencia de recursos, legalidad y transparencia.
 
-Asimismo, se sujetarán a las siguientes bases:
+Además, se sujetarán a las siguientes bases:
 
-I. Estos fondos serán constituidos y administrados mediante la figura del fideicomiso;
+I. Estos fondos serán constituidos y administrados conforme el instrumento jurídico que los constituya;
 
-II. Los beneficiarios de estos fondos serán las instituciones, universidades públicas y particulares, centros, laboratorios, empresas públicas y privadas, o personas dedicadas a la investigación científica y/o al desarrollo tecnológico, de conformidad con lo que se establezca en los respectivos contratos y en las reglas de operación de cada fideicomiso;
+II. Los beneficiarios de estos fondos serán las instituciones, universidades públicas y privadas, centros, laboratorios, empresas públicas y privadas, o personas dedicadas a la investigación, al desarrollo tecnológico o a la innovación, de conformidad con lo que se establezca en los instrumentos jurídicos que los constituyan;
 
-III. El fideicomitente de estos fondos será el COPOCYT, quien podrá recibir aportaciones del gobierno federal y de terceras personas;
+III. El administrador de estos fondos será el COPOCYT, quien podrá recibir aportaciones del gobierno federal y de terceras personas;
 
-IV. El COPOCYT, por conducto de su órgano de gobierno, podrá participar en la definición del objeto de cada uno de los fondos, en sus reglas de operación y en la formulación de los elementos fundamentales que contengan los contratos respectivos;
+IV. El COPOCYT, por conducto de su órgano de gobierno, participará en la definición del objeto de cada uno de los fondos, en sus reglas de operación y en la formulación de los elementos fundamentales que contengan los instrumentos jurídicos respectivos;
 
-V. En las reglas de operación se precisarán los objetivos específicos, los criterios, los procesos e instancias de decisión para él otorgamiento de apoyos, su seguimiento y evaluación, y
+V. En las reglas de operación del instrumento jurídico que constituya el fondo respectivo, se precisarán los objetivos específicos, los criterios, los procesos e instancias de decisión para el otorgamiento de apoyos, su seguimiento y evaluación, y
 
-VI. La celebración de los convenios por parte del COPOCYT requerirá de la previa notificación a su órgano de gobierno, y a las demás instancias que corresponda.
+VI. La celebración de los instrumentos jurídicos del COPOCYT, relacionados con los fondos a que se refiere el presente capítulo, requerirán de la aprobación de su órgano de gobierno.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
 
 ###### ARTICULO 20.
 
-Los fondos se sujetarán a las siguientes disposiciones comunes:
+Los fondos se sujetarán a las siguientes disposiciones:
 
-I. La fiduciaria será la institución de crédito que elija el fideicomitente en cada caso;
+I. En caso de que el instrumento jurídico que se constituya sea un fideicomiso, la fiduciaria será la institución de crédito que elija el fideicomitente en cada caso;
 
-II. Los fondos contarán con un Comité Técnico y de Administración que, además de servidores públicos del COPOCYT y del organismo o entidad que corresponda, integrará a destacados representantes de la comunidad científica y tecnológica de los sectores público, privado y social, relacionados con los ramos de investigación objeto del fondo;
+II. Los fondos contarán con un Comité Técnico y de Administración para su funcionamiento, que se integrará, además de servidores públicos del COPOCYT, por servidores públicos de dependencias y entidades de la administración pública, así como por destacados representantes de la comunidad científica y tecnológica de los sectores público, privado y social, relacionados con el objeto del fondo, cuya estructura se establecerá en las reglas de operación respectivas;
 
-III. Los recursos de los fondos se ejercerán en los proyectos o acciones a que hayan sido asignados; su inversión será siempre en renta fija y tendrán su propia contabilidad; el ejercicio de los recursos deberá realizarse conforme a los contratos correspondientes y a sus reglas de operación;
+III. Los recursos de los fondos se ejercerán en los proyectos o acciones a que hayan sido asignados a través del convenio correspondiente; tendrán su propia contabilidad y deberán sujetarse a las reglas de operación respectivas;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2020)</small>
+IV. El órgano de gobierno del COPOCYT será informado periódicamente acerca del estado y movimiento de los respectivos fondos;
 
-IV. El órgano de gobierno del COPOCYT será informado anualmente acerca del estado y movimiento de los respectivos fondos;
+V. Se sujetarán a las medidas de control y auditoría gubernamental que determinan las leyes, y
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2020)</small>
+VI. El objeto de cada fondo, invariablemente, será el otorgamiento de apoyos y financiamiento para actividades directamente vinculadas a la investigación científica, el desarrollo tecnológico y la innovación; becas y formación de recursos humanos especializados; desarrollo de proyectos de investigación científica, desarrollo tecnológico, innovación y modernización tecnológica; el registro nacional o internacional de los derechos de propiedad intelectual que se generen; la vinculación de la ciencia y la tecnología con los sectores productivos y de servicios; la divulgación de la ciencia, la tecnología y la innovación; la creación, desarrollo o consolidación de grupos de investigadores o centros de investigación, así como para otorgar estímulos y reconocimientos a investigadores y tecnólogos, asociados a la evaluación de sus actividades y resultados.
 
-V. Estarán sujetos a las medidas de control y auditoría gubernamental que determinan las leyes, y
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2020)</small>
+ARTICULO 20 BIS. El Comité Técnico y de Administración del fondo derivado de las multas electorales, a que se refiere la fracción V del artículo 13 de esta Ley, se conformará por trece miembros propietarios y sus respectivos suplentes, quienes tendrán derecho de voz y voto, y estará integrado por:
 
-VI. El objeto de cada fondo invariablemente será el otorgamiento de apoyos y financiamientos para: actividades directamente vinculadas al desarrollo de la investigación científica y tecnológica; becas y formación de recursos humanos especializados; realización de proyectos específicos de investigación científica, desarrollo tecnológico, innovación y modernización tecnológica; el registro nacional o internacional de los derechos de propiedad intelectual que se generen; la vinculación de la ciencia y la tecnología con los sectores productivos y de servicios; la divulgación de la ciencia, la tecnología y la innovación; creación, desarrollo o consolidación de grupos de investigadores o centros de investigación, así como para otorgar estímulos y reconocimientos a investigadores y tecnólogos, en ambos casos asociados a la evaluación de sus actividades y resultados.
+I. Un Presidente o Presidenta;
+
+II. El Legislador o Legisladora que dirija el Instituto de Investigaciones Legislativas “Diputada Matilde Cabrera Ipiña”;
+
+III. Un magistrado o magistrada que designe el Pleno del Supremo Tribunal de Justicia del Estado;
+
+IV. La persona titular de la Contraloría General del Estado;
+
+V. Cuatro representantes titulares de dependencias del Gobierno Estatal, que tengan a su cargo el despacho de los asuntos relacionados con educación; desarrollo económico; finanzas; y ciencia y tecnología; uno de los cuales presidirá el Comité;
+
+VI. Tres representantes titulares de instituciones de educación superior, públicas o privadas, y centros públicos de investigación, en el Estado, relacionados con el objetivo del fondo;
+
+VII. Dos representantes del sector empresarial, titulares de las principales cámaras y asociaciones en el Estado;
+
+Para su operación, el Comité Técnico y de Administración contará con dos elementos de apoyo, con voz pero sin voto:
+
+VIII. Un secretario técnico designado por el órgano de gobierno del COPOCYT, y
+
+IX. Un secretario administrativo designado por el órgano de gobierno del COPOCYT.
+
+Todas las personas titulares deberán nombrar a quien les supla, en los términos que establezcan las reglas de operación.
 
 ###### ARTICULO 21.
 
@@ -742,3 +786,15 @@ P.O. 26 DE ENERO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0732.- SE REFORMA EL ARTÍCULO 40, SUS PÁRRAFOS PRIMERO Y SEGUNDO, DE LA LEY ELECTORAL DEL ESTADO. SE REFORMA EL ARTÍCULO 4º, SU FRACCIÓN IV, DE LA LEY ORGÁNICA DEL CONSEJO POTOSINO DE CIENCIA Y TECNOLOGÍA DEL ESTADO. SE REFORMAN LOS ARTÍCULOS 9º, 10, 11, 12, 13 SU PÁRRAFO PRIMERO, 14, 15 SU PÁRRAFO PRIMERO, 16, 18, 19 Y 20; ADICIONA LOS ARTÍCULOS 18 BIS Y 20 BIS; Y DEROGA DEL ARTÍCULO 13, SUS PÁRRAFOS ÚLTIMO Y PENÚLTIMO, DE LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. El Consejo Potosino de Ciencia y Tecnología deberá expedir las adecuaciones a los instrumentos jurídicos de los fondos que así lo ameriten, en un plazo no mayor a sesenta días naturales.
+
+TERCERO. Una vez realizadas las adecuaciones a los instrumentos jurídicos de los fondos, el Consejo Potosino de Ciencia y Tecnología podrá realizar las gestiones necesarias para retirar los recursos económicos administrados por el Consejo Estatal Electoral y de Participación Ciudadana.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
