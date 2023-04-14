@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2022-12-20"
+last_updated: "2023-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2023.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -45,9 +45,11 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUA
 
 Objeto de la Ley
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y de observancia general en el Estado de Guanajuato. Tiene por objeto establecer los principios y criterios que, desde la perspectiva de género, orienten las políticas públicas para reconocer, promover, proteger y garantizar el derecho de las mujeres a una vida libre de violencia, así como para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, estableciendo la coordinación entre las autoridades.
+La presente Ley es de orden público, interés social y de observancia general en el Estado de Guanajuato. Tiene por objeto establecer los principios y criterios que, desde la perspectiva de género, orienten las políticas públicas para respetar, reconocer, promover, proteger y garantizar el goce y ejercicio de los derechos humanos de las mujeres, adolescentes y niñas, así como su pleno acceso a una vida libre de violencias, estableciendo la coordinación entre las autoridades para su prevención, atención, sanción y erradicación.
 
 Glosario
 
@@ -61,27 +63,53 @@ II. Banco Estatal: el Banco Estatal de Datos e Información sobre Casos de Viole
 
 III. Consejo Estatal: el Consejo Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-IV. Derechos humanos de las mujeres: los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Constitución Política de los Estados Unidos Mexicanos, la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer, la Conferencia Mundial de Derechos Humanos de Viena y demás instrumentos y acuerdos internacionales en la materia firmados por el Presidente de la República y ratificados por el Senado;
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
+
+IV. Debida diligencia: la obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres, adolescentes y niñas de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando su participación individual y colectiva, para garantizar su derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora.
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2023)</small>
+
+V. Derechos humanos de las mujeres: los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Constitución Política de los Estados Unidos Mexicanos, la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos de la Niñez, la Convención sobre los Derechos de las Personas con Discapacidad, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem do Pará) y demás instrumentos y acuerdos internacionales en la materia en los que el Estado Mexicano sea parte;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
+
+VI. Enfoque diferencial. Aquel que tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por su género, edad, etnia, discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto sean pertenecientes a grupos sociales o culturales específicos. Lo anterior con la finalidad de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-V. IMUG: el Instituto para las Mujeres Guanajuatenses;
+VII. IMUG: el Instituto para las Mujeres Guanajuatenses;
 
-VI. Perspectiva de género: la visión científica, analítica y política sobre las mujeres y los hombres, que propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad, la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades, para acceder al desarrollo social y la representación en los ámbitos de toma de decisiones;
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
 
-VII. Programa Estatal: el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado de Guanajuato;
+VIII. Interculturalidad. el enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí, pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas;
 
-VIII. Refugio: los albergues o establecimientos constituidos para la atención y protección de las víctimas y sus hijos menores e incapaces;
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
 
-IX. Sistema Estatal: el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+IX. Interseccionalidad. La herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan (sic) en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
 
-X. Sistema Nacional: el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
 
-XI. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia, así como sus familiares o personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida en su contra; y
+X. Misoginia: las conductas de odio hacia las mujeres, las adolescentes y las niñas, que se manifiestan en actos violentos y crueles contra ellas por el hecho de serlo;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
+
+XI. Muertes evitables: el conjunto de muertes que no deberían haber ocurrido en presencia de servicios de salud eficaces, con exámenes rutinarios para la detección temprana y tratamientos adecuados;
+
+XII. Perspectiva de género: la visión científica, analítica y política sobre las mujeres y los hombres, que propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad, la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades, para acceder al desarrollo social y la representación en los ámbitos de toma de decisiones;
+
+XIII. Programa Estatal: el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado de Guanajuato;
+
+XIV. Refugio: los albergues o establecimientos constituidos para la atención y protección de las víctimas y sus hijos menores e incapaces;
+
+XV. Sistema Estatal: el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+XVI. Sistema Nacional: el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+XVII. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia, así como sus familiares o personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida en su contra; y
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
-XII. Violencia contra las mujeres: acción u omisión por cualquier medio que les cause a las mujeres daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
+XVIII. Violencia contra las mujeres: acción u omisión por cualquier medio que les cause a las mujeres daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
 
 Principios rectores
 
@@ -89,13 +117,43 @@ Principios rectores
 
 Para el diseño, elaboración y ejecución de las políticas públicas en la materia que regula esta Ley, el Estado y los municipios deberán considerar los siguientes principios rectores:
 
-I. La igualdad jurídica entre la mujer y el hombre;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2023)</small>
 
-II. El respeto a la dignidad humana de las mujeres;
+I. La igualdad jurídica, sustantiva, de resultados y estructural entre la mujer y el hombre;
 
-III. La no discriminación; y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2023)</small>
+
+II. La dignidad de las mujeres;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2023)</small>
+
+III. La no discriminación;
 
 IV. La libertad de las mujeres.
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
+
+V. La universalidad, la interdependencia, la indivisibilidad y la progresividad de los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
+
+VI. La perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
+
+VII. La debida diligencia;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
+
+VIII. La interseccionalidad;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
+
+IX. La interculturalidad; y
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
+
+X. El enfoque diferencial.
 
 Planeación presupuestal y administrativa
 
@@ -131,7 +189,9 @@ VII. Violencia docente: aquellas conductas que dañen la autoestima de las alumn
 
 VIII. Violencia obstétrica: Es toda acción u omisión por parte del personal médico o administrativo perteneciente a los servicios de salud públicos y privados del Sistema Estatal de Salud, que violente los principios rectores que señala el artículo 3 de la presente ley, o bien, que dañe física o psicológicamente, lastime, discrimine o denigre a la mujer durante el embarazo, parto o puerperio; así como la negligencia médica, negación del servicio y la vulneración o limitación de los derechos humanos sexuales y reproductivos de las mujeres;
 
-IX. Violencia feminicida: es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres; y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2023)</small>
+
+IX. Violencia feminicida: es la forma extrema de violencia de género contra las mujeres, las adolescentes y las niñas, producto de la violación de sus derechos humanos y del ejercicio abusivo del poder, en los ámbitos público y privado, que puede conllevar impunidad social y del Estado. Se manifiesta a través de conductas discriminatorias o misóginas que afectan gravemente la integridad, la seguridad, la libertad personal y el libre desarrollo de las mujeres, las adolescentes y las niñas, que ponen en riesgo sus vidas o culminan en muertes violentas como el feminicidio, el suicidio y el homicidio, u otras formas de muertes evitables;
 
 > <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2018)</small>
 
@@ -217,13 +277,45 @@ VI. En la comunidad digital: es la violencia que se ejerce dentro de un grupo de
 
 VII. En los medios de comunicación: es la violencia que se ejerce al utilizar los medios de comunicación para producir o difundir contenidos que atentan contra la autoestima, salud, integridad, dignidad, libertad o seguridad de las mujeres, adolescentes y niñas, que impide su desarrollo y que atenta contra la igualdad.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE ABRIL DE 2023)</small>
+
+### Capítulo II Bis. Alerta de Violencia de Género contra las Mujeres
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
+
+Alerta de Violencia de Género contra las Mujeres
+
+###### Artículo 6 Bis.
+
+La Alerta de Violencia de Género contra las Mujeres: El conjunto de acciones gubernamentales coordinadas, integrales, de emergencia y temporales realizadas entre las autoridades de los tres órdenes de gobierno, para enfrentar y erradicar la violencia feminicida en un territorio determinado; así como para eliminar el agravio comparado, resultado de las desigualdades producidas por ordenamientos jurídicos o políticas públicas que impiden el reconocimiento o ejercicio de los derechos humanos de las mujeres, las adolescentes y las niñas, a fin de garantizar su derecho a una vida libre de violencias.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
+
+Objetivos
+
+###### Artículo 6 Ter.
+
+La Alerta de Violencia de Género contra las Mujeres tendrá como objetivos:
+
+I. Garantizar la vida, la integridad, la libertad y la seguridad, así como el acceso a la justicia de las mujeres, adolescentes y niñas;
+
+II. Generar las condiciones y políticas públicas que contribuyan a la disminución y cese de la violencia feminicida en su contra; y
+
+III. Eliminar la desigualdad y discriminación producidas por ordenamientos jurídicos o políticas públicas que agravian los derechos humanos de las mujeres, adolescentes y niñas.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
+
+Acciones
+
+###### Artículo 6 Quáter.
+
+Una vez declarada la Alerta de Violencia de Género contra las Mujeres por la autoridad competente, y notificada a las autoridades del Estado de Guanajuato o de los Municipios, estas deberán realizar las acciones necesarias para implementar las medidas establecidas en la Alerta de Violencia de Género y participarán en su seguimiento conforme lo dispuesto en la Ley General.
+
+El Estado de Guanajuato deberá instrumentar las medidas presupuestales y administrativas necesarias y suficientes para hacer frente a la Declaratoria de la Alerta de Violencia de Género contra las Mujeres.
+
 ### Capítulo III. Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
 
 Objeto del Sistema Estatal
-
-### Capítulo IV. Consejo Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
-
-Consejo Estatal
 
 ###### Artículo 7.
 
@@ -235,9 +327,9 @@ Coordinación con el Sistema Nacional
 
 El Sistema Estatal estará en coordinación con el Sistema Nacional y deberá crear los mecanismos para recabar, de manera homogénea, la información sobre la violencia contra las mujeres, e integrarla al Banco Estatal, así como a los Diagnósticos Estatal y Nacional sobre todos los tipos de violencia contra las mujeres en todos los ámbitos.
 
-### Capítulo V. Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
+### Capítulo IV. Consejo Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
 
-Programa Estatal
+Consejo Estatal
 
 ###### Artículo 9.
 
@@ -357,9 +449,9 @@ XXIII. Impulsar programas para el adelanto y desarrollo de las mujeres cuyo obje
 
 XXIV. Las demás que establezcan esta Ley y otras disposiciones legales.
 
-### Capítulo VI. Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres
+### Capítulo V. Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
 
-Banco Estatal
+Programa Estatal
 
 ###### Artículo 12.
 
@@ -391,7 +483,9 @@ IX. Impulsar el empoderamiento de las mujeres por medio de la transición de cua
 
 X. Diseñar las medidas reeducativas, integrales, especializadas y gratuitas al agresor para erradicar las conductas violentas.
 
-### Capítulo VII. Distribución de competencias en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres
+### Capítulo VI. Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres
+
+Banco Estatal
 
 ###### Artículo 14.
 
@@ -417,9 +511,7 @@ V. Se deberá publicar semestralmente la información general y estadística sob
 
 VI. Contará con un apartado que será público en el que se registrarán los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos en su caso; características socio demográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, consignación o imputación, sanción, reparación del daño e índices de incidencia. Este registro se integrará a la estadística criminal y victimal para definir políticas públicas en materia de prevención del delito, procuración y administración de justicia
 
-### Capítulo VIII. Atención a víctimas y refugios
-
-Obligatoriedad de las autoridades para brindar atención
+### Capítulo VII. Distribución de competencias en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres
 
 #### Sección Primera. Facultades generales del Estado y los municipios
 
@@ -783,9 +875,9 @@ V. Solicitar el reconocimiento médico de una mujer detenida cuando se presuman 
 
 VI. Las demás que le otorgue la presente Ley u otras disposiciones jurídicas aplicables.
 
-### Capítulo IX. Acceso a la justicia y reparación del daño a las víctimas
+### Capítulo VIII. Atención a víctimas y refugios
 
-Acceso a la justicia
+Obligatoriedad de las autoridades para brindar atención
 
 ###### Artículo 28.
 
@@ -903,11 +995,9 @@ La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses
 
 En ningún caso se podrán mantener a las víctimas en los refugios en contra de su voluntad.
 
-### Capítulo X. Órdenes de protección
+### Capítulo IX. Acceso a la justicia y reparación del daño a las víctimas
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2022)</small>
-
-Órdenes de protección
+Acceso a la justicia
 
 ###### Artículo 37.
 
@@ -963,9 +1053,11 @@ c) El diseño e instrumentación de políticas públicas que eviten la comisión
 
 d) La verificación de los hechos.
 
-### Capítulo XI. Sanciones
+### Capítulo X. Órdenes de protección
 
-Incumplimiento de la Ley
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Órdenes de protección
 
 ###### Artículo 42.
 
@@ -1222,6 +1314,10 @@ Desacato de una orden de protección
 A quien desacate una orden de protección le serán aplicables las medidas de apremio conforme a lo establecido en el Código Nacional de Procedimientos Penales.
 
 Asimismo, se reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las mujeres y niñas.
+
+### Capítulo XI. Sanciones
+
+Incumplimiento de la Ley
 
 ###### Artículo 52.
 
@@ -1580,5 +1676,11 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente a su p
 P.O. 20 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 117, SE ADICIONA UNA FRACCIÓN XVI, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 14 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 190, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES LEGALES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
