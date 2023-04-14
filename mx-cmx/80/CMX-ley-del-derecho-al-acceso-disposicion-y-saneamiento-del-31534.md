@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-acceso-disposicion-y-saneamiento-del-31534"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2020-10-29"
+last_updated: "2023-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31534&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-05-09"
 
 LEY DEL DERECHO AL ACCESO, DISPOSICIÓN Y SANEAMIENTO DEL AGUA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE ABRIL DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2003.
 
@@ -151,6 +151,10 @@ XX BIS. METRO CÚBICO COSECHADO.- El metro cúbico de agua pluvial cosechada com
 > <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2008)</small>
 
 XX TER. MINGITORIO SIN AGUA.- Son muebles de baño de función específica que no requieren del arrastre del agua para desalojar la orina hacia los sistemas de drenaje o depósitos especiales para aprovechar la orina, cuentan con una barrera impermeable o mecánica que bloquea los olores;
+
+> <small>(ADICIONADA, G.O. 14 DE ABRIL DE 2023)</small>
+
+XX. QUÁTER. Plataforma Digital: Sistema informático desarrollado por la Agencia Digital de Innovación Pública, y operado por el Sistema de Aguas, a través de la cual se realizan los trámites establecidos en la presente Ley;
 
 XXI. POZO.- La excavación o perforación que se hace en el terreno para extraer, inyectar agua o para otros fines;
 
@@ -1044,11 +1048,25 @@ Estarán exentos de lo dispuesto en el párrafo anterior los jubilados, pensiona
 
 Para los efectos del párrafo anterior, los jubilados y pensionados por cesantía en edad avanzada, por vejez, por incapacidad, por riesgos de trabajo e invalidez; deberán acreditar que son propietarios y cuentan con una pensión o jubilación de conformidad a lo dispuesto por el Código Financiero del Distrito Federal. En estos casos el valor catastral del inmueble de uso habitacional no deberá exceder de la cantidad de $919,179.81.
 
-> <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE ABRIL DE 2023)</small>
 
 ###### Artículo 62.
 
-El Sistema de Aguas dictaminará la factibilidad de otorgamiento del servicio a nuevos fraccionamientos, conjuntos habitacionales, comerciales, industriales, mixtos o de otro uso, así como en los casos de ampliación o modificación del uso o destino de inmuebles, considerando la disponibilidad del agua y de la infraestructura para su prestación.
+El Sistema de Aguas, considerando la disponibilidad de agua, la infraestructura hidráulica existente en la zona y el número de unidades de vivienda a desarrollar, determinará la factibilidad de servicios a nuevos fraccionamientos, conjuntos habitacionales, comerciales, industriales, mixtos o de otro uso, así como en los casos de ampliación o modificación del uso o destino de inmuebles.
+
+> <small>(ADICIONADO, G.O. 14 DE ABRIL DE 2023)</small>
+
+Para la obtención de la factibilidad del servicio de agua, los interesados realizarán su trámite de solicitud mediante la Plataforma Digital. Para tales efectos, el Sistema de Aguas publicará y mantendrá actualizados en la Plataforma Digital los criterios para la emisión de la factibilidad del servicio.
+
+> <small>(ADICIONADO, G.O. 14 DE ABRIL DE 2023)</small>
+
+La factibilidad de servicios se solicitará a través de la Plataforma Digital.
+
+> <small>(ADICIONADO, G.O. 14 DE ABRIL DE 2023)</small>
+
+El Sistema de Aguas dictaminará la procedencia de la solicitud ingresada, previo cumplimiento de los requisitos y formalidades que al efecto se establezcan en los lineamientos que emita dicho organismo.
+
+> <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
 
 En el caso de otorgamiento de la factibilidad de servicios, el Sistema de Aguas determinará el cálculo hidráulico en la red disponible complementándolo con aforos, monitoreo para su aprobación o negativa.
 
@@ -2263,3 +2281,15 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Para efectos de la entrada en vigor las Alcaldías y el Instituto de Verificación Administrativa de la Ciudad de México, en el ámbito de sus atribuciones, contarán con 240 días hábiles posteriores a la entrada en vigor del presente Decreto a efecto de implementar una campaña de difusión e información a los establecimientos que presten el servicio de sanitarios públicos, con la finalidad de hacer del conocimiento de sus dueños, administradores y operadores, las disposiciones y alcances de las mismas contenidas en el presente Decreto.
 
 Tercero.- Las personas dueñas, administradoras y operadoras de establecimientos que presten el servicio de sanitarios públicos, contarán con 240 días hábiles en términos administrativos posteriores a la entrada en vigor del presente Decreto, para llevar a cabo los ajustes y adecuaciones que en su caso requieran para dar cumplimiento a lo previsto.
+
+G.O. 14 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 62; SE ADICIONAN LAS FRACCIONES XX QUÁTER AL ARTÍCULO 4°, Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO RECORRIENDO EL ACTUAL PÁRRAFO SEGUNDO EN SU ORDEN DEL ARTÍCULO 62; TODOS DE LA LEY DEL DERECHO AL ACCESO, DISPOSICIÓN Y SANEAMIENTO DEL AGUA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Agencia Digital de Innovación Pública tendrá un plazo de 180 días hábiles a partir de la entrada en vigor del presente Decreto para desarrollar la Plataforma Digital mediante la cual se realizará la gestión del trámite relativo a la factibilidad del servicio de agua. Mientras tanto, se continuará con la presentación de dichos trámites de la forma en la que hasta ahora se han venido gestionando.
+
+CUARTO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
