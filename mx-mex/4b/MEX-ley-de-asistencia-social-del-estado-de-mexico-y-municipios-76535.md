@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-asistencia-social-del-estado-de-mexico-y-municipios-7653
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2022-10-21"
+last_updated: "2023-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2023.
 
 Ley publicada en la Sección Tercera a la Gaceta del Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -47,9 +47,11 @@ LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 La presente Ley es de orden público e interés social y tiene como finalidad establecer las bases, objetivos y procedimientos del Sistema Estatal de Asistencia Social, que promueva los programas, acciones y prestación de los servicios de asistencia social que establecen los ordenamientos de la materia; así como coordinar el acceso a los mismos, garantizando la concurrencia de esta entidad federativa, de los municipios que la componen y de los sectores social y privado.
 
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2023)</small>
+
 ###### Artículo 2.
 
-El Estado y los municipios desarrollarán programas, ejecutarán acciones y proporcionarán servicios asistenciales encaminados a la protección y desarrollo integral de la familia, proveyendo a los miembros del grupo familiar, de los elementos que requieren en las diversas etapas de su desarrollo, apoyándolos en su formación y subsistencia, así como a aquellos grupos vulnerables con carencias familiares esenciales no superables en forma autónoma.
+El Estado y los municipios desarrollarán programas, ejecutarán acciones y proporcionarán servicios asistenciales encaminados a la protección y desarrollo integral de la persona y de la familia, proveyendo los elementos que requieren en las diversas etapas de su desarrollo, apoyándolos en su formación y subsistencia, así como a aquellos grupos vulnerables con carencias familiares esenciales no superables en forma autónoma.
 
 ###### Artículo 3.
 
@@ -83,17 +85,21 @@ VIII. Niña o niño: A todo ser humano menor de doce años de edad;
 
 IX. Persona con Discapacidad: Toda persona que presenta una deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social;
 
-X. Sistema Estatal: Al Sistema Estatal de Asistencia Social; y
+> <small>(ADICIONADA, G.G. 14 DE ABRIL DE 2023)</small>
 
-XI. SMDIF: A los Sistemas Municipales para el Desarrollo Integral de la Familia en el territorio del Estado de México.
+X. Población en situación de calle: A aquellas personas que viven desvinculadas total o parcialmente de sus familias, adoptando la calle como espacio de hábitat, convivencia y pernoctación, así como área de socialización, des-socialización y sobrevivencia.
+
+XI. Sistema Estatal: Al Sistema Estatal de Asistencia Social; y
+
+XII. SMDIF: A los Sistemas Municipales para el Desarrollo Integral de la Familia en el territorio del Estado de México.
 
 > <small>(ADICIONADA, G.G. 16 DE NOVIEMBRE DE 2016)</small>
 
-XII. Situación de riesgo: A la posibilidad de que una persona sufra un daño en su integridad física o emocional y que tiene su origen en una causa de tipo social.
+XIII. Situación de riesgo: A la posibilidad de que una persona sufra un daño en su integridad física o emocional y que tiene su origen en una causa de tipo social.
 
 > <small>(ADICIONADA, G.G. 16 DE NOVIEMBRE DE 2016)</small>
 
-XIII. Vulnerabilidad: Situación de una persona o grupo de personas en que debido a sus condiciones de pobreza, marginación y condiciones de vida, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida.
+XIV. Vulnerabilidad: Situación de una persona o grupo de personas en que debido a sus condiciones de pobreza, marginación y condiciones de vida, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida.
 
 ### CAPÍTULO SEGUNDO. De los Sujetos de la Ley
 
@@ -189,7 +195,9 @@ VI. Dependientes de personas privadas de su libertad, enfermos terminales o que 
 
 VII. Víctimas de la comisión de delitos en estado de vulnerabilidad.
 
-VIII. Indigentes;
+> <small>(REFORMADA, G.G. 14 DE ABRIL DE 2023)</small>
+
+VIII. Las personas en situación de calle.
 
 > <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
@@ -866,6 +874,14 @@ QUINTO.- Los Municipios del Estado de México contarán con un periodo no mayor 
 G.G. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 101.- POR EL QUE SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 10, LAS FRACCIONES III Y IX DEL ARTÍCULO 12; Y SE ADICIONA LA FRACCIÓN XIII BIS AL ARTÍCULO 10 DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 1; SE ADICIONA LA FRACCIÓN V Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 1 DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 14 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 150.- POR EL QUE SE ADICIONA LA FRACCIÓN XXII, RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 12; SE ADICIONA LA FRACCIÓN XXIX AL ARTÍCULO 3 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
