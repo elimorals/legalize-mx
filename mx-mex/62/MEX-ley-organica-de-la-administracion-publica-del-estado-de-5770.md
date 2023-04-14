@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2022-12-20"
+last_updated: "2023-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -461,9 +461,13 @@ XX. Promover que los recursos públicos destinados a los programas sociales, se 
 
 XXI. Promover, coordinar, operar y evaluar políticas o programas de apoyo, fomento, atención y desarrollo de las personas adultas mayores;
 
+> <small>(ADICIONADA, G.G. 14 DE ABRIL DE 2023)</small>
+
+XXII. Promover acciones para fomentar la participación y el apoyo de los sectores social y privado para la atención progresiva de las personas en situación de calle para que puedan acceder a mejores condiciones de vida.
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-XXII. Las demás que señalen otros ordenamientos legales.
+XXIII. Las demás que señalen otros ordenamientos legales.
 
 > <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -4104,3 +4108,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. La Secretaría de Movilidad del Estado de México, en un plazo no mayor a 90 días hábiles realizará los ajustes a sus disposiciones jurídicas internas.
 
 CUARTO. La Secretaría de Movilidad del Estado de México, progresivamente y con base en su suficiencia presupuestal, destinará recursos financieros para fomentar la movilidad segura y con perspectiva de género.
+
+G.G. 14 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 150.- POR EL QUE SE ADICIONA LA FRACCIÓN XXII, RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 12; SE ADICIONA LA FRACCIÓN XXIX AL ARTÍCULO 3 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
