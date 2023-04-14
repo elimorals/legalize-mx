@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5686
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-30"
-last_updated: "2023-01-20"
+last_updated: "2023-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2023.
 
 Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
 
@@ -105,25 +105,23 @@ II. El acceso a la educación libre de patrones estereotipados de comportamiento
 
 En el estado de Sinaloa está prohibida y por lo tanto será sancionada toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
+
 ###### Artículo 10.
 
 Para los efectos de esta Ley, se entenderá por:
 
 I. Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa;
 
-II. DIF Estatal: el organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia en el Estado de Sinaloa;
+II. DIF Estatal: El organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia en el Estado de Sinaloa;
 
-III. DIF Municipal: el organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del municipio que corresponda;
-
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
+III. DIF Municipal: El organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del municipio que corresponda;
 
 IV. CEPAVIF: Consejo Estatal para la Prevención y Atención de la Violencia Familiar;
 
 V. Organizaciones Sociales: Las instituciones o agrupaciones ciudadanas legalmente constituidas que tengan por objeto atender a las mujeres víctimas de violencia, así como realizar acciones de difusión orientadas a la prevención y erradicación de la violencia en contra de las mujeres;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
-
-VI. Secretaría: Secretaría de las Mujeres del Poder Ejecutivo del Estado de Sinaloa;
+VI. Secretaría: La Secretaría de las Mujeres del Poder Ejecutivo del Estado de Sinaloa;
 
 VII. Programa Nacional: El Programa Nacional para Prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
 
@@ -137,7 +135,7 @@ XI. Modalidades de violencia: Las formas, manifestaciones o los ámbitos de ocur
 
 XII. Violencia contra las mujeres: Cualquier conducta de acción o conducta, basada en su género, que cause muerte, daño o sufrimiento psicológico, físico, patrimonial, económico o sexual en la mujer, tanto en el ámbito privado como en el público;
 
-XIII. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
+XIII. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
 
 XIV. Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
 
@@ -145,27 +143,21 @@ XV. Derechos Humanos de las Mujeres: Refiere a los derechos humanos contenidos e
 
 XVI. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se proponen eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basadas en el género. Promueve la igualdad entre los géneros a través de la equidad, el desarrollo y bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
-XVII. Empoderamiento de las Mujeres: Es el proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+XVII. Empoderamiento de las Mujeres: Es el proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autónoma, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
 XVIII. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+XIX. Mujeres: Las personas nacidas biológicamente con genitales femeninos independientemente de su edad, así como aquellas que han modificado su identidad de género mediante resolución judicial o administrativa y que cuenten con un acta de nacimiento por reconocimiento de identidad de género en la cual se identifican como mujeres de conformidad con lo dispuesto por el Código Familiar del Estado de Sinaloa;
 
-XIX. Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad;
+XX. Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad;
 
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+XXI. Alerta Alba: Mecanismo de comunicación que la Fiscalía Especializada en Desaparición Forzada de Personas realiza, a las autoridades, órganos e instituciones federales, estatales y municipales ante la desaparición o no localización de niñas y/o mujeres, solicitando la coordinación y colaboración, para que en el ámbito de sus respectivas atribuciones y competencias, se lleve a cabo la búsqueda, para la localización de niñas y mujeres desaparecidas o no localizadas en el Estado de Sinaloa;
 
-XIX Bis. Alerta Alba: Mecanismo de comunicación que la Fiscalía Especializado (sic) en Desaparición Forzada de Personas realiza, a las autoridades, órganos e instituciones federales, estatales y municipales ante la desaparición o no localización de niñas y/o mujeres, solicitando la coordinación y colaboración, para que en el ámbitos (sic) de sus respectivas atribuciones y competencias, se lleve a cabo la búsqueda, para la localización de niñas y mujeres desaparecidas o no localizadas en el Estado de Sinaloa;
+XXII. Protocolo Alba: El Protocolo de Atención, Reacción, Coordinación y Colaboración con Autoridades, Órganos e Instituciones Federales, Estatales y Municipales en Caso de Desaparición o No Localización de Niñas y Mujeres;
 
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+XXIII. Refugios: Son los albergues, centros o establecimientos constituidos por organismos o asociaciones civiles o del Estado para la atención y protección de mujeres que han sido víctimas de violencia; y
 
-XIX Bis A. Protocolo Alba: Protocolo de Atención, Reacción, Coordinación y Colaboración con Autoridades, Órganos e Instituciones Federales, Estatales y Municipales en Caso de Desaparición o No Localización de Niñas y Mujeres;
-
-XX. Refugios: Son los albergues, centros o establecimientos constituidos por organismos o asociaciones civiles o del Estado para la atención y protección de mujeres que han sido víctimas de violencia.
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
-
-XXI. Noviazgo: Es el periodo durante el cual dos personas que se sienten atraidas mutuamente y no están en matrimonio o concubinato, mantienen una relación sentimental con el objetivo de avanzar en el conocimiento mutuo.
+XXIV. Noviazgo: Es el periodo durante el cual dos personas que se sienten atraídas mutuamente y no están en matrimonio o concubinato, mantienen una relación sentimental con el objetivo de avanzar en el conocimiento mutuo.
 
 ###### Artículo 11.
 
@@ -185,13 +177,17 @@ IV. Violencia económica.- Es toda conducta de acción u omisión del agresor qu
 
 V. Violencia Sexual.- Es cualquier acto que degrada o daña el cuerpo o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2023)</small>
 
-VI. Violencia contra los derechos reproductivos.- Toda acción u omisión que limite o vulnere el derecho de las mujeres o personas gestantes a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, así como el acceso a servicios de interrupción del embarazo seguro en el marco previsto por la Ley de Salud del Estado de Sinaloa, a servicios de atención prenatal, así como a servicios obstétricos de emergencia; y
+VI. Violencia contra los derechos reproductivos.- Toda acción u omisión que limite o vulnere el derecho de las mujeres o personas gestantes a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, así como el acceso a servicios de interrupción del embarazo seguro en el marco previsto por la Ley de Salud del Estado de Sinaloa, a servicios de atención prenatal, así como a servicios obstétricos de emergencia;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MARZO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ABRIL DE 2023)</small>
 
-VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+VII. Violencia simbólica.- La que a través de patrones estereotipados, mensajes, íconos o signos transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de las mujeres en la sociedad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE ABRIL DE 2023)</small>
+
+VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 12.
 
@@ -445,13 +441,39 @@ II. Víctima Directa: Es la persona hacia quien se ejerce la violencia, a travé
 
 III. Persona agresora: Es aquella que con el objetivo de causar una afectación física, psicológica, emocional, patrimonial o de otra índole, ejerce hacia la víctima directa a través de la víctima indirecta violencia vicaria.
 
-### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE ABRIL DE 2023)</small>
+
+### CAPÍTULO X. DE LA VIOLENCIA DIGITAL Y MEDÍATICA
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
+
+Artículo 24 Bis F. Violencia digital es toda acción o conducta dolosa realizada, instigada o agravada mediante el uso de tecnologías de la información y la comunicación por las que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de una o varias mujeres con el objeto de difamar, desprestigiar, calumniar, injuriar, denigrar, descalificar o dañar de manera física, psicológica, emocional o simbólicamente, en cualquier ámbito de su vida pública, privada o en su imagen propia.
+
+Existe también violencia digital, cuando sin el consentimiento de la o las mujeres se expongan, distribuyan, difundan, exhiban, transmitan, comercialicen, oferten, intercambie o comparta imágenes, audios o videos, reales o simulados cuyo contenido sea íntimo sexual, utilizando los mismos medios tecnológicos a los que se refiere el párrafo anterior.
+
+También se considera violencia digital la acción dolosa de amenazar, chantajear, coaccionar o extorsionar a una mujer con el objeto de que realice las conductas anteriormente descritas donde el contenido íntimo sea de ella o de otra persona.
+
+Para efectos del presente Capítulo se entenderá por tecnologías de la información y las comunicaciones aquellos recursos, redes sociales, aplicaciones de sistemas informáticos para dispositivos móviles y tabletas, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
+
+La violencia digital será sancionada en la forma y términos que establezca el Título Octavo denominado Delitos Contra la Libertad Sexual y su Normal Desarrollo del Libro Segundo, Parte Especial, Sección Primera, Delitos Contra el Individuo, del Código Penal para el Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
+
+Artículo 24 Bis G. Violencia mediática es la realización de cualquier acto a través de algún medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres, produzca o permita la producción y difusión de discursos de odio sexistas, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres de tipo psicológico, sexual, físico, económico, simbólico, patrimonial o feminicida, en cualquier ámbito de su vida pública, privada o en su imagen propia.
+
+También se considerará violencia mediática cuando utilizando los mismos medios a que se refiere el párrafo anterior se promuevan acciones con el objetivo de difamar, discriminar, denostar, denigrar, deshonrar, humillar, desprestigiar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres o afecte su autoestima e imagen pública, o el ejercicio de su profesión.
+
+Esta modalidad de violencia incluye aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y las comunicaciones.
+
+La violencia mediática se ejerce por cualquier persona física o moral que utilice cualquier medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres, que impide su desarrollo y que atenta contra la igualdad.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
+
+Artículo 24 Bis H. En los casos en que pudiera acreditarse violencia digital o mediática, la o el Ministerio Público o la jueza o el juez en su caso, observarán lo establecido en el artículo 20 Sexies de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 ## TÍTULO TERCERO. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRAS (SIC) LAS MUJERES
 
-### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2021)</small>
+### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
 
 ###### Artículo 25.
 
@@ -511,7 +533,9 @@ XIII. El Instituto Electoral del Estado de Sinaloa.
 
 La Secretaría Ejecutiva del Sistema Estatal elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
 
-### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2021)</small>
 
 ###### Artículo 28.
 
@@ -551,9 +575,7 @@ XIV. Diseñar un modelo integral de atención a los derechos humanos y ciudadan�
 
 La Secretaría procurará la participación de los sectores público, social y privado, especialmente de los órganos de participación ciudadana sociales en la formulación, ejecución y evaluación del Programa Estatal.
 
-### CAPÍTULO I. DE LAS ÓRDENES DE PROTECCIÓN
-
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
 ###### Artículo 30.
 
@@ -881,6 +903,160 @@ III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que cons
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
+### CAPÍTULO I. DE LAS ÓRDENES DE PROTECCIÓN
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 42.
+
+Las órdenes de protección son los actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente, inmediatamente que conozca de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres, en los términos y condiciones de la Ley y bajo el procedimiento que establezca su reglamento.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Sinaloa y el Instituto Electoral del Estado de Sinaloa podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
+
+###### Artículo 43.
+
+Las órdenes de protección que consagra la presente ley son personalísimas e intransferibles y podrán ser:
+
+I. De emergencia;
+
+II. Preventivas; y,
+
+III. De naturaleza civil y familiar.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+Las órdenes de protección podrán ser solicitadas por la víctima o cualquier persona que tenga conocimiento del riesgo en que se encuentra la integridad física o psicológica, la libertad o seguridad de aquélla y de las víctimas indirectas.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+En la emisión de medidas u órdenes de protección, las autoridades acatarán el interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+Las órdenes de protección de emergencia y preventivas deberán expedirse en los términos de que para tal efecto dispone el Código Nacional de Procedimientos Penales y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 44.
+
+Son órdenes de protección de emergencia las siguientes:
+
+I. Auxilio inmediato a favor de la víctima, por las corporaciones de seguridad pública, con autorización expresa de ingreso al lugar donde se localice o se encuentre la víctima en el momento de solicitar el auxilio;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+II. Desocupación inmediata por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aun en los casos de arrendamiento del mismo, a fin de garantizar la seguridad personal de la víctima;
+
+III. La retención y guarda de armas de que hayan sido empleadas para amenazar o lesionar a la víctima;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+IV. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+V. Prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+VI. Reingreso de la víctima al domicilio, una vez que se salvaguarde de su seguridad;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2023)</small>
+
+VII. Prohibición al probable responsable de intimidar o molestar de cualquier forma y por cualquier medio, incluidos los electrónicos, a la víctima, así como a cualquier integrante de su familia; y,
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
+
+VIII. Las demás establecidas en otras disposiciones legales.
+
+###### Artículo 45.
+
+Son órdenes de protección preventivas las siguientes:
+
+I. (DEROGADA, P.O. 3 DE AGOSTO DE 2016)
+
+II. (DEROGADA, P.O. 3 DE AGOSTO DE 2016)
+
+III. Retención y guarda de armas de fuego propiedad del agresor, utilizadas para agredir a la víctima, independientemente si las mismas se encuentran registradas conforme a la normatividad en la materia;
+
+IV. Canalizar a la víctima a un refugio temporal;
+
+V. Inventario de bienes muebles que se encuentren e inmuebles propiedad común, incluyendo los implementos de trabajo de la víctima;
+
+VI. El uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
+
+VII. Acceso al domicilio en común, de autoridades policíacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de sus hijas e hijos;
+
+VIII. Brindar servicios reeducativos integrales, especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas; y,
+
+IX. Las demás establecidas en otras disposiciones legales.
+
+###### Artículo 46.
+
+Corresponderá a la autoridad jurisdiccional en materia penal, valorar las órdenes emergentes y preventivas que solicite el Ministerio Público, quien tomará en consideración:
+
+I. La flagrancia;
+
+II. El riesgo o peligro existente;
+
+III. La seguridad de la víctima; y,
+
+IV. Los elementos con que se cuente.
+
+###### Artículo 47.
+
+Son órdenes de protección de naturaleza civil y familiar las siguientes:
+
+I. Suspensión temporal al agresor del régimen de visitar y convivencia con sus descendientes;
+
+II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
+
+III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
+
+IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias; y,
+
+V. Obligación alimentaria provisional e inmediata.
+
+###### Artículo 48.
+
+La negativa a brindar la (sic) medidas emergentes y preventivas de protección, será considerada violencia institucional en los términos de esta ley.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 21 DE FEBRERO DE 2018)</small>
+
+Serán consideradas de extrema emergencia las órdenes que se tramiten con motivo de violencia sexual, así como aquéllas que se soliciten en el caso de:
+
+I. Mujeres embarazadas;
+
+II. Mujeres que tengan alguna discapacidad;
+
+III. Mujeres menores de edad;
+
+IV. Mujeres que tengan calidad de migrantes;
+
+V. Mujeres que pertenezcan a un grupo indígena; y
+
+VI. Mujeres con cualquier factor especial de vulnerabilidad.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 49.
+
+Corresponde a las autoridades jurisdiccionales dictar, incluso de oficio, órdenes de protección y la determinación de medidas similares a las que se refiere este Capítulo, en sus resoluciones o sentencias, con motivo de los juicios o procesos que en materia civil, familiar o penal, se estén ventilando en los tribunales competentes.
+
+###### Artículo 50.
+
+Las personas mayores de doce años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes; quienes sean menores de doce años, sólo podrán solicitar las órdenes a través de sus representantes legales.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+
+###### Artículo 50 Bis.
+
+La Fiscalía General y el Poder Judicial actuarán conforme al Protocolo de Actuación para la implementación de órdenes de protección para mujeres en situación de violencia en el Estado de Sinaloa.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+
 ### CAPÍTULO II. DEL PROTOCOLO ALBA
 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
@@ -987,161 +1163,9 @@ Artículo 50 Bis F. El Protocolo Alba se activa desde el momento que se tenga co
 
 Artículo 50 Bis G. Las autoridades y órganos que se involucren, en el ámbito de sus respectivas competencias deberán contar y garantizar la disponibilidad inmediata de personal especializado y capacitado en materia de búsqueda de personas, asegurando los recursos económicos, logísticos, científicos o de cualquier otra índole que garantice el éxito de la búsqueda.
 
-###### Artículo 42.
-
-Las órdenes de protección son los actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente, inmediatamente que conozca de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres, en los términos y condiciones de la Ley y bajo el procedimiento que establezca su reglamento.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
-
-En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Sinaloa y el Instituto Electoral del Estado de Sinaloa podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
-
-###### Artículo 43.
-
-Las órdenes de protección que consagra la presente ley son personalísimas e intransferibles y podrán ser:
-
-I. De emergencia;
-
-II. Preventivas; y,
-
-III. De naturaleza civil y familiar.
-
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
-
-Las órdenes de protección podrán ser solicitadas por la víctima o cualquier persona que tenga conocimiento del riesgo en que se encuentra la integridad física o psicológica, la libertad o seguridad de aquélla y de las víctimas indirectas.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
-
-En la emisión de medidas u órdenes de protección, las autoridades acatarán el interés superior de la niñez.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
-
-Las órdenes de protección de emergencia y preventivas deberán expedirse en los términos de que para tal efecto dispone el Código Nacional de Procedimientos Penales y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2016)</small>
-
-###### ARTÍCULO 44.
-
-Son órdenes de protección de emergencia las siguientes:
-
-I. Auxilio inmediato a favor de la víctima, por las corporaciones de seguridad pública, con autorización expresa de ingreso al lugar donde se localice o se encuentre la víctima en el momento de solicitar el auxilio;
-
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
-
-II. Desocupación inmediata por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aun en los casos de arrendamiento del mismo, a fin de garantizar la seguridad personal de la víctima;
-
-III. La retención y guarda de armas de que hayan sido empleadas para amenazar o lesionar a la víctima;
-
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
-
-IV. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos;
-
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2016)</small>
-
-V. Prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
-
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
-
-VI. Reingreso de la víctima al domicilio, una vez que se salvaguarde de su seguridad;
-
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
-
-VII. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia; y,
-
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2016)</small>
-
-VIII. Las demás establecidas en otras disposiciones legales.
-
-###### Artículo 45.
-
-Son órdenes de protección preventivas las siguientes:
-
-I. (DEROGADA, P.O. 3 DE AGOSTO DE 2016)
-
-II. (DEROGADA, P.O. 3 DE AGOSTO DE 2016)
-
-III. Retención y guarda de armas de fuego propiedad del agresor, utilizadas para agredir a la víctima, independientemente si las mismas se encuentran registradas conforme a la normatividad en la materia;
-
-IV. Canalizar a la víctima a un refugio temporal;
-
-V. Inventario de bienes muebles que se encuentren e inmuebles propiedad común, incluyendo los implementos de trabajo de la víctima;
-
-VI. El uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
-
-VII. Acceso al domicilio en común, de autoridades policíacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de sus hijas e hijos;
-
-VIII. Brindar servicios reeducativos integrales, especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas; y,
-
-IX. Las demás establecidas en otras disposiciones legales.
-
-###### Artículo 46.
-
-Corresponderá a la autoridad jurisdiccional en materia penal, valorar las órdenes emergentes y preventivas que solicite el Ministerio Público, quien tomará en consideración:
-
-I. La flagrancia;
-
-II. El riesgo o peligro existente;
-
-III. La seguridad de la víctima; y,
-
-IV. Los elementos con que se cuente.
-
-###### Artículo 47.
-
-Son órdenes de protección de naturaleza civil y familiar las siguientes:
-
-I. Suspensión temporal al agresor del régimen de visitar y convivencia con sus descendientes;
-
-II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
-
-III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
-
-IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias; y,
-
-V. Obligación alimentaria provisional e inmediata.
-
-###### Artículo 48.
-
-La negativa a brindar la (sic) medidas emergentes y preventivas de protección, será considerada violencia institucional en los términos de esta ley.
-
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 21 DE FEBRERO DE 2018)</small>
-
-Serán consideradas de extrema emergencia las órdenes que se tramiten con motivo de violencia sexual, así como aquéllas que se soliciten en el caso de:
-
-I. Mujeres embarazadas;
-
-II. Mujeres que tengan alguna discapacidad;
-
-III. Mujeres menores de edad;
-
-IV. Mujeres que tengan calidad de migrantes;
-
-V. Mujeres que pertenezcan a un grupo indígena; y
-
-VI. Mujeres con cualquier factor especial de vulnerabilidad.
-
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
-
-###### Artículo 49.
-
-Corresponde a las autoridades jurisdiccionales dictar, incluso de oficio, órdenes de protección y la determinación de medidas similares a las que se refiere este Capítulo, en sus resoluciones o sentencias, con motivo de los juicios o procesos que en materia civil, familiar o penal, se estén ventilando en los tribunales competentes.
-
-###### Artículo 50.
-
-Las personas mayores de doce años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes; quienes sean menores de doce años, sólo podrán solicitar las órdenes a través de sus representantes legales.
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
-
-###### Artículo 50 Bis.
-
-La Fiscalía General y el Poder Judicial actuarán conforme al Protocolo de Actuación para la implementación de órdenes de protección para mujeres en situación de violencia en el Estado de Sinaloa.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
-
-### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
-
 ## TÍTULO QUINTO. DE LA ATENCIÓN A VÍCTIMAS Y DE LOS REFUGIOS
 
-### CAPÍTULO II. DE LOS REFUGIOS
+### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
 
 ###### Artículo 51.
 
@@ -1171,9 +1195,15 @@ Las autoridades estatales y municipales, en el ámbito de sus respetivas (sic) c
 
 El agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
 
+### CAPÍTULO II. DE LOS REFUGIOS
+
 ###### Artículo 54.
 
 El Gobierno del Estado y los Ayuntamientos, se coordinarán con los diversos sectores social y privado para impulsar la creación de refugios para la atención a las víctimas de violencia.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
+
+El Gobierno del Estado y los Ayuntamientos, deberán asignar los recursos presupuestales necesarios y suficientes para la creación y funcionamiento de los refugios para mujeres víctimas de violencia, sus hijas e hijos.
 
 Los refugios deberán ser lugares seguros para las víctimas, por lo que no se podrá proporcionar su ubicación a personas no autorizadas para acudir a ellos.
 
@@ -1208,6 +1238,20 @@ V. Brindar a las víctimas información necesaria que les permita decidir sobre 
 VI. Atender a las víctimas en los tres niveles de riesgo que son moderado, medio y alto riesgo; y,
 
 VII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 14 DE ABRIL DE 2023)</small>
+
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
+
+## TÍTULO SEXTO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE ABRIL DE 2023)</small>
+
+###### Artículo 57.
+
+Será causa de responsabilidad administrativa el incumplimiento de esta Ley y se sancionará conforme a las leyes en la materia, sin menoscabo de las acciones penales, civiles o cualquier otra que se derive de su incumplimiento.
 
 T R A N S I T O R I O S
 
@@ -1396,5 +1440,13 @@ P.O. 20 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 382 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, AMBOS ORDENAMIENTOS PARA EL ESTADO DE SINALOA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 411 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
