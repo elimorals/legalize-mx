@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-consejo-potosino-de-ciencia-y-tecnologia-34231
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-30"
-last_updated: "2018-07-11"
+last_updated: "2023-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL CONSEJO POTOSINO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de agosto de 2003.
 
@@ -67,7 +67,9 @@ II. Apoyar la investigación científica básica y aplicada, así como la formac
 
 III. Impulsar la innovación y el desarrollo tecnológico, así como el fortalecimiento de las capacidades tecnológicas de la planta productiva del Estado;
 
-IV. Fomentar la vinculación de las instituciones de investigación y desarrollo tecnológico, con los sectores productivo, gubernamental y social del Estado;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2023)</small>
+
+IV. Fomentar la vinculación de las instituciones de investigación y desarrollo tecnológico con los sectores, empresarial y social, así como con los poderes Ejecutivo, Legislativo, y Judicial, del Estado;
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -560,3 +562,11 @@ P.O. 11 DE JULIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0732.- SE REFORMA EL ARTÍCULO 40, SUS PÁRRAFOS PRIMERO Y SEGUNDO, DE LA LEY ELECTORAL DEL ESTADO. SE REFORMA EL ARTÍCULO 4º, SU FRACCIÓN IV, DE LA LEY ORGÁNICA DEL CONSEJO POTOSINO DE CIENCIA Y TECNOLOGÍA DEL ESTADO. SE REFORMAN LOS ARTÍCULOS 9º, 10, 11, 12, 13 SU PÁRRAFO PRIMERO, 14, 15 SU PÁRRAFO PRIMERO, 16, 18, 19 Y 20; ADICIONA LOS ARTÍCULOS 18 BIS Y 20 BIS; Y DEROGA DEL ARTÍCULO 13, SUS PÁRRAFOS ÚLTIMO Y PENÚLTIMO, DE LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
