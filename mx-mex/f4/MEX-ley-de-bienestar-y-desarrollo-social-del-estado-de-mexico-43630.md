@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienestar-y-desarrollo-social-del-estado-de-mexico-43630
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2022-09-23"
+last_updated: "2023-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 23 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 14 DE ABRIL DE 2023.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno, el viernes 31 de diciembre de 2004.
 
@@ -211,6 +211,10 @@ XXVII. CIEPS: Al Consejo de Investigación y Evaluación de la Política Social;
 
 XXVIII. Equidad y Género: A la construcción cultural que se hace a partir de la diferencia de sexos y que da lugar a una serie de valores, atributos y roles distintos para mujeres y hombres.
 
+> <small>(ADICIONADA, G.G. 14 DE ABRIL DE 2023)</small>
+
+XXIX. Población en situación de calle: A aquellas personas que viven desvinculadas total o parcialmente de sus familias, adoptando la calle como espacio de hábitat, convivencia y pernoctación, así como área de socialización, des-socialización y sobrevivencia.
+
 ### CAPITULO II. DE LOS DERECHOS SOCIALES
 
 > <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2010)</small>
@@ -343,9 +347,9 @@ Para efectos de la presente Ley, se consideran como grupos o sectores que merece
 
 I. Las regiones, municipios, microrregiones, zonas de atención prioritaria e inmediata, que muestren mayor pobreza, marginación y exclusión, de acuerdo a los indicadores de desarrollo social y humano;
 
-> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.G. 14 DE ABRIL DE 2023)</small>
 
-II. A la población indígena, mujeres, niñas, niños, adolescentes, adultos mayores, familias de los migrantes, personas con discapacidad o que se encuentren en situación de vulnerabilidad social.
+II. A la población indígena, mujeres, niñas, niños, adolescentes, adultos mayores, familias de los migrantes, personas con discapacidad, población en situación de calle, o que se encuentren en situación de vulnerabilidad social;
 
 III. A los grupos que lo requieran según condiciones de desastre, dinámica geográfica y social del Estado.
 
@@ -1156,3 +1160,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este decreto.
+
+G.G. 14 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 150.- POR EL QUE SE ADICIONA LA FRACCIÓN XXII, RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCION II DEL ARTÍCULO 12; SE ADICIONA LA FRACCIÓN XXIX AL ARTÍCULO 3 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
