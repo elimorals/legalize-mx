@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2021-07-14"
+last_updated: "2023-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2023.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -148,6 +148,10 @@ En el Estado de Querétaro el Gobierno se sustenta en el valor de la ética, por
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2021)</small>
 
 El Estado garantizará que la rectoría del desarrollo económico sea integral y sustentable, mediante la generación de condiciones necesarias que fortalezcan e incentiven el crecimiento económico.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2023)</small>
+
+En el Estado de Querétaro, toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión, igualdad y equidad.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1976,3 +1980,13 @@ P.O. 14 DE JULIO DE 2021.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 14 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley y deberán adecuarse a la presente ley, las disposiciones jurídicas secundarias.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
