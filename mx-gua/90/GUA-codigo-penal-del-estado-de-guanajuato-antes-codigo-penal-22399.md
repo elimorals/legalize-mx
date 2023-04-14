@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2022-10-28"
+last_updated: "2023-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ABRIL DE 2023 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2023.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -85,13 +87,11 @@ En caso de haberse cubierto la reparación del daño no habrá lugar a la devolu
 
 La ley penal será aplicable a nacionales y extranjeros, con las excepciones que sobre inmunidades establezcan las leyes.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
 
-Las personas que al cometer una conducta tipificada como delito por las leyes penales tengan entre doce años cumplidos y menos de dieciocho años, serán sujetos a las medidas que la Ley de Justicia para Adolescentes del Estado determine.
+Este Código se aplicará a las personas a partir de los dieciocho años que cometan una conducta tipificada como delito.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
-
-Quienes al realizar una conducta prevista como delito en las leyes penales sean menores de doce años, sólo serán sujetos a rehabilitación y asistencia social conforme a las leyes que regulan su protección.
+> <small>(DEROGADO PÁRRAFO TERCERO, P.O. 14 DE ABRIL DE 2023)</small>
 
 ### CAPÍTULO IV. OTRAS LEYES
 
@@ -4422,3 +4422,9 @@ P.O. 28 DE OCTUBRE DE 2022.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 14 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 189, POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO; Y SE DEROGA EL PÁRRAFO TERCERO, AMBOS DEL ARTÍCULO 6o. DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
