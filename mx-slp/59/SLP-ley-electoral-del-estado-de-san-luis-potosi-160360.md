@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-160360"
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-28"
-last_updated: "2023-03-27"
+last_updated: "2023-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 28 de septiembre de 2022.
 
@@ -493,11 +493,15 @@ El Consejo General elaborará el catálogo e inventario de sus bienes muebles e 
 
 Los recursos presupuestarios destinados al financiamiento público de los partidos políticos y candidatos independientes, en cualquiera de sus modalidades, son inembargables y no forman parte del patrimonio del Consejo General, incluyendo los que por concepto de rendimientos financieros se generen, por lo que éste no podrá disponer, ni alterar el cálculo para su determinación, ni los montos que del mismo resulten conforme a la Constitución del Estado, y esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 40.
 
-Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral, serán destinados a instituciones educativas públicas estatales, encargadas de la promoción, fomento y desarrollo de la ciencia, tecnología e innovación.
+Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral serán destinados al Consejo Potosino de Ciencia y Tecnología, organismo público descentralizado encargado de la promoción, fomento y desarrollo de la ciencia, tecnología e innovación.
 
-Los recursos mencionados en el párrafo anterior no podrán ejercerse en servicios personales.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
+
+Los recursos mencionados en el párrafo anterior no podrán ejercerse en servicios personales ni conceptos distintos a programas y proyectos estratégicos directamente vinculados en la materia de ciencia, tecnología, e innovación.
 
 La ejecución de las sanciones será mediante la retención de sus ministraciones de gasto ordinario sin que dicha deducción supere el veinte por ciento de sus aportaciones mensuales.
 
@@ -5868,6 +5872,14 @@ El Secretario General de Gobierno
 P.O. 27 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0722.- SE REFORMA EL ARTÍCULO 77, EN SU FRACCIÓN IV; Y DEROGA DE LOS ARTÍCULOS 92, LA FRACCIÓN V Y 277, DE LA FRACCIÓN V, SU INCISO C), DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0732.- SE REFORMA EL ARTÍCULO 40, SUS PÁRRAFOS PRIMERO Y SEGUNDO, DE LA LEY ELECTORAL DEL ESTADO. SE REFORMA EL ARTÍCULO 4º, SU FRACCIÓN IV, DE LA LEY ORGÁNICA DEL CONSEJO POTOSINO DE CIENCIA Y TECNOLOGÍA DEL ESTADO. SE REFORMAN LOS ARTÍCULOS 9º, 10, 11, 12, 13 SU PÁRRAFO PRIMERO, 14, 15 SU PÁRRAFO PRIMERO, 16, 18, 19 Y 20; ADICIONA LOS ARTÍCULOS 18 BIS Y 20 BIS; Y DEROGA DEL ARTÍCULO 13, SUS PÁRRAFOS ÚLTIMO Y PENÚLTIMO, DE LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
