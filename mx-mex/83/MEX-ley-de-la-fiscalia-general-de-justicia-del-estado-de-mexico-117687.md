@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-fiscalia-general-de-justicia-del-estado-de-mexico-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-09"
-last_updated: "2023-03-27"
+last_updated: "2023-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MEX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ABRIL DE 2023 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 14 DE ABRIL DE 2023.]</small>
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado Libre y Soberano de México, el viernes 9 de diciembre de 2016.
 
@@ -1269,7 +1269,9 @@ IV. No pertenecer o haber pertenecido en los tres años anteriores a su designac
 
 V. No estar inhabilitada o inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
 
-VI. No haber sido Secretaria o Secretario de Estado, Fiscal General de Justicia, Senadora o Senador, Diputada o Diputado Federal o Local, integrante de algún Ayuntamiento, dirigente, integrante de órgano rector o responsable del manejo responsable del manejo (sic) de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+> <small>(F. DE E., G.G. 14 DE ABRIL DE 2023)</small>
+
+VI. No haber sido Secretaria o Secretario de Estado, Fiscal General de Justicia, Senadora o Senador, Diputada o Diputado Federal o Local, integrante de algún Ayuntamiento, dirigente, integrante de órgano rector o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
