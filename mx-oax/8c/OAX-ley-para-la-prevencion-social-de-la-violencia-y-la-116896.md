@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-prevencion-social-de-la-violencia-y-la-116896"
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-10"
-last_updated: "2021-12-04"
+last_updated: "2023-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 10 de junio de 2016.
 
@@ -225,9 +225,11 @@ V. La reparación integral del daño que incluye el reconocimiento público, la 
 
 #### Sección Primera. Del Consejo Estatal
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2023)</small>
+
 ###### Artículo 12.
 
-El Consejo Estatal es la instancia superior para la coordinación y definición de las políticas de prevención social de la violencia y la delincuencia. El Secretario General de Gobierno coordinará e implementará las políticas de prevención social, apoyándose en el Secretario Ejecutivo, así como en las unidades técnicas y administrativas que requiera en los términos que señalan las leyes y demás disposiciones aplicables.
+El Consejo Estatal es la instancia superior para la coordinación y definición de las políticas de prevención social de la violencia y la delincuencia. El Secretario de Gobierno coordinará e implementará las políticas de prevención social, apoyándose en el Secretario Ejecutivo, así como en las unidades técnicas y administrativas que requiera en los términos que señalan las leyes y demás disposiciones aplicables.
 
 ###### Artículo 13.
 
@@ -275,23 +277,37 @@ De la Comisión Interinstitucional para la Prevención Social de la Violencia y 
 
 La Comisión Interinstitucional estará integrada por:
 
-I. El Secretario General de Gobierno, quien la presidirá;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+I. El Secretario de Gobierno, quien la presidirá;
 
 II. El Presidente del Tribunal Superior de Justicia del Estado;
 
-III. El Diputado Presidente de la Comisión Permanente de Protección Ciudadana;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
 
-IV. El Diputado Presidente de la Comisión Permanente de Administración de Justicia;
+III. El Diputado o Diputada Presidente de la Comisión Permanente de Seguridad y Protección Ciudadana;
 
-V. El Secretario de Seguridad Pública;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+IV. El Diputado o Diputada Presidente de la Comisión permanente de Administración y Procuración de Justicia;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+V. El Secretario de Seguridad y Protección Ciudadana;
 
 VI. El Secretario de Finanzas;
 
-VII. El Secretario de Desarrollo Social y Humano;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
 
-VIII. El Secretario de las Infraestructuras y Ordenamiento Territorial Sustentable;
+VII. Secretario de Bienestar, Tequio e Inclusión;
 
-IX. El Secretario de las Culturas y Artes de Oaxaca;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+VIII. El Secretario de las Infraestructuras y Comunicaciones;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+IX. El Secretario de las Culturas y Artes;
 
 X. El Secretario del Trabajo;
 
@@ -307,7 +323,9 @@ XV. El Titular del Sistema para el Desarrollo Integral de la Familia del Estado 
 
 XVI. El Titular de la Coordinación para la atención de los Derechos Humanos del Ejecutivo del Estado;
 
-XVII. El Titular del Instituto de la Mujer Oaxaqueña; y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+XVII. El o la Titular de la Secretaria de las Mujeres; y
 
 XVIII. El Titular del Instituto de la Juventud del Estado.
 
@@ -616,3 +634,13 @@ P.O. 4 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1152.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 12 Y LAS FRACCIONES I, III, IV, V, VII, VIII, IX Y XVII DEL PRIMER PÁRRAFO DEL ARTÍCULO 15, TODOS DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA EN EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
