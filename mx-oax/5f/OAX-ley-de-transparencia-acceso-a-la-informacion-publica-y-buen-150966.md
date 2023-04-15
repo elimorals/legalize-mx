@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-acceso-a-la-informacion-publica-y-buen-150
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-04"
-last_updated: "2023-04-01"
+last_updated: "2023-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2023.
 
 Ley publicada en el No. 36 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de septiembre de 2021.
 
@@ -199,7 +199,13 @@ XL. Sistema Nacional: Al Sistema Nacional de Transparencia, Acceso a la Informac
 
 XLI. Sujetos obligados: Cualquier autoridad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como, cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en los ámbitos Estatal y municipal;
 
-XLII. Unidades de transparencia: Instancia a la que hace referencia el artículo 68 de esta Ley.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+LXII (SIC). Unidades de transparencia: Instancia a la que hace referencia el artículo 68 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+LXIII (SIC). Ejecutores de gasto: Los Poderes Legislativo y Judicial; Órganos Autónomos por disposición constitucional y legal; Dependencias y Entidades del Poder Ejecutivo que realizan las erogaciones a que se refiere el artículo 4 de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria con cargo al Presupuesto de Egresos.
 
 ### CAPÍTULO II. DE LOS SUJETOS OBLIGADOS
 
@@ -211,7 +217,9 @@ I. El Poder Ejecutivo del Estado;
 
 II. El Poder Judicial del Estado;
 
-III. El Poder Legislativo del Estado y el Órgano Superior de Fiscalización del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2023)</small>
+
+III. El Poder Legislativo del Estado y la Auditoría Superior de Fiscalización del Estado de Oaxaca;
 
 IV. Los Ayuntamientos y la Administración Pública Municipal;
 
@@ -792,6 +800,12 @@ A fin de determinar la información adicional que publicarán los sujetos obliga
 ###### Artículo 38.
 
 A fin de llevar a cabo la verificación de las obligaciones de transparencia de todos los sujetos obligados del Estado, el Órgano Garante emitirá los Lineamientos en los que se establecerá el procedimiento mediante el cual se hará la revisión en términos de lo dispuesto en el Capítulo VI del Título Quinto de la Ley General.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2023)</small>
+
+###### Artículo 38 Bis.
+
+Los ejecutores del gasto deberán publicar dentro de los primeros 60 días hábiles de cada inicio de ejercicio fiscal, las medidas a implementar en cumplimiento a lo establecido en la Ley Estatal de Austeridad Republicana.
 
 ### CAPÍTULO III. DE LAS NORMAS Y PRINCIPIOS DE BUEN GOBIERNO Y OBLIGACIONES DE GOBIERNO ABIERTO
 
@@ -2464,3 +2478,19 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente decreto
 
 CUARTO. El Órgano Garante de Acceso a la Información Pública, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca, deberá armonizar sus ordenamientos internos en un plazo no mayor a noventa días.
+
+P.O. 15 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1153.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN LXII Y SE ADICIONA LA FRACCIÓN LXIII DEL ARTICULO 6; ASÍ COMO SE ADICIONA EL ARTICULO 38 BIS DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1154.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN III DEL ARTÍCULO 7, DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
