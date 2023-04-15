@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2023-02-25"
+last_updated: "2023-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -293,13 +293,17 @@ XIV.- Promover e impulsar la participación de la comunidad en el cuidado de la 
 
 XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2023)</small>
 
-XVI.- Las demás atribuciones, afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables; y
+XVI.- Promover e incorporar enfoques con perspectiva de género a las estrategias, campañas de información, y demás programas en el marco de sus atribuciones para contribuir a la igualdad entre mujeres y hombres en el acceso al derecho a la protección de la salud, incluyendo neoplasias que afectan la salud sexual y reproductiva del hombre y de la mujer;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA Y REUBICADA], P.O. 15 DE ABRIL DE 2023)</small>
 
-XVII.- Diseñar, promover e impulsar políticas públicas para prevenir, combatir y erradicar la muerte materna, obesidad y la desnutrición.
+XVII.- Diseñar, promover e impulsar políticas públicas para prevenir, combatir y erradicar la muerte materna, obesidad y la desnutrición, y
+
+> <small>(REFORMADA Y REUBICADA], P.O. 15 DE ABRIL DE 2023)</small>
+
+XVIII.- Las demás atribuciones, afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -4034,3 +4038,11 @@ P.O. 25 DE FEBRERO DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1151.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 7 Y SE ADICIONA LA FRACCIÓN XVI RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 7 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
