@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-patronato-de-la-feria-nacional-de-san-marcos-24534"
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-06"
-last_updated: "2022-03-21"
+last_updated: "2023-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL PATRONATO DE LA FERIA NACIONAL DE SAN MARCOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2023.
 
 Ley publicada en el Suplemento al Número 1 del Periódico Oficial del Estado de Aguascalientes, el 6 de enero de 1991.
 
@@ -91,11 +91,11 @@ Los bienes inmuebles que llegue a adquirir el Patronato de la Feria Nacional de 
 
 ### CAPITULO III (SIC). De su Integración
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2023)</small>
 
 ###### ARTICULO 9°.
 
-El Patronato de la Feria Nacional de San Marcos se compondrá de un Presidente, un Secretario, un Tesorero, y cinco vocales.
+El Patronato de la Feria Nacional de San Marcos se compondrá de un Presidente, un Secretario, un Tesorero, y seis vocales.
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1999)</small>
 
@@ -105,9 +105,9 @@ Para ocupar el cargo de Presidente, Secretario y Tesorero se requiere ser nativo
 
 El Presidente y el Tesorero serán designados por el Gobernador del Estado y el Secretario por el Ayuntamiento de Aguascalientes de entre uno de los miembros del Cabildo; si ninguno de los miembros de dicho órgano reúne los requisitos de elegibilidad, el Cabildo designará a quien fungirá como Secretario. Todos ellos podrán ser removidos de sus cargos por quienes los hayan designado.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2023)</small>
 
-Los Vocales serán designados uno por el Congreso del Estado, uno por el Instituto Cultural de Aguascalientes, otro por las oficinas locales de turismo, uno por la Asociación de Hoteles y Moteles de Aguascalientes y uno más por la Cámara Nacional de Comercio de Aguascalientes, si ésta acepta la invitación que con ese motivo se le formule, y si no, por quien designe el Presidente del Patronato. Los vocales durarán tres años en su encargo.
+Los Vocales serán designados uno por el Congreso del Estado, uno por el Instituto Cultural de Aguascalientes, otro por las oficinas locales de turismo, uno por la Asociación de Hoteles y Moteles de Aguascalientes, uno más por la Cámara Nacional de Comercio de Aguascalientes y otro por la Cámara Nacional de la Industria de Restaurantes y Alimentos Condimentados representada en el Estado, en estos dos últimos casos si estas cámaras aceptan la invitación que con ese motivo se les formule, y si no, por quien designe el Presidente del Patronato. Los vocales durarán tres años en su encargo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MARZO DE 2022)</small>
 
@@ -310,3 +310,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo, en un plazo no mayor a 15 días naturales, realizará las adecuaciones reglamentarias necesarias ajustándose a lo dispuesto por el presente Decreto.
+
+P.O. 17 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 302.- REFORMA DE LA LEY DE PATRONATO DE LA FERIA NACIONAL DE SAN MARCOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo tendrá un plazo de quince días hábiles contados a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones que resulten necesarias al Reglamento del Patronato de la Feria Nacional de San Marcos.
