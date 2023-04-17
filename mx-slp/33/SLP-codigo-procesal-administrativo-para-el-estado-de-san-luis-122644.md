@@ -4,7 +4,7 @@ identifier: "SLP-codigo-procesal-administrativo-para-el-estado-de-san-luis-12264
 country: "mx"
 rank: "codigo"
 publication_date: "2017-07-18"
-last_updated: "2022-02-01"
+last_updated: "2023-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2023.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 18 de julio de 2017.
 
@@ -71,43 +71,47 @@ III. Anulabilidad: reconocimiento del órgano competente en el sentido de que un
 
 IV. Autoridad: dependencia o entidad de la administración pública estatal o municipal facultada por los ordenamientos jurídicos aplicables para dictar, ordenar o ejecutar un acto administrativo;
 
-V. Código: el presente Código Procesal Administrativo del Estado de San Luis Potosí;
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2023)</small>
 
-VI. Dependencia: órgano de la administración pública centralizada estatal o municipal;
+V. Caducidad de la Instancia: es la pérdida de todos los derechos procesales, a causa de la inactividad de las partes, inactividad total y bilateral, y opera una vez que ha transcurrido el término a que refiere el artículo 194 de este Código;
 
-VII. Ente público: los Poderes Legislativo y Judicial, los organismos a los que la Constitución otorgue autonomía, las dependencias y entidades de la Administración Pública Estatal, los municipios del Estado y sus dependencias y entidades, la Fiscalía General del Estado, los órganos jurisdiccionales que no formen parte del Poder Judicial, así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos citados de los órdenes de gobierno estatal y municipal;
+VI. Código: el presente Código Procesal Administrativo del Estado de San Luis Potosí;
 
-VIII. Entidades: Los organismos públicos descentralizados, las empresas de participación estatal y los fideicomisos públicos que tengan el carácter de entidad paraestatal a que se refieren los artículos 3°, fracción II, 52, 53, 54, 55 y 56 de la Ley Orgánica de la Administración Pública del Estado, así como los organismos auxiliares municipales en términos de lo dispuesto por el artículo 104 de la Ley Orgánica del Municipio Libre del Estado, y concretamente para efectos de este Código emitan actos de autoridad;
+VII. Dependencia: órgano de la administración pública centralizada estatal o municipal;
 
-IX. Incidente: cuestiones que surgen dentro del procedimiento administrativo que no se refieren al negocio o asunto principal sino a la validez del proceso en sí mismo;
+VIII. Ente público: los Poderes Legislativo y Judicial, los organismos a los que la Constitución otorgue autonomía, las dependencias y entidades de la Administración Pública Estatal, los municipios del Estado y sus dependencias y entidades, la Fiscalía General del Estado, los órganos jurisdiccionales que no formen parte del Poder Judicial, así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos citados de los órdenes de gobierno estatal y municipal;
 
-X. Interesado: particular que tiene un interés legítimo respecto de un acto o procedimiento administrativo por ostentar un derecho legalmente tutelado;
+IX. Entidades: Los organismos públicos descentralizados, las empresas de participación estatal y los fideicomisos públicos que tengan el carácter de entidad paraestatal a que se refieren los artículos 3°, fracción II, 52, 53, 54, 55 y 56 de la Ley Orgánica de la Administración Pública del Estado, así como los organismos auxiliares municipales en términos de lo dispuesto por el artículo 104 de la Ley Orgánica del Municipio Libre del Estado, y concretamente para efectos de este Código emitan actos de autoridad;
 
-XI. Interés jurídico: derecho de los particulares vinculado con el interés público y protegido por el orden jurídico que les confiere la facultad para activar la actuación pública administrativa, respecto de alguna pretensión en particular;
+X. Incidente: cuestiones que surgen dentro del procedimiento administrativo que no se refieren al negocio o asunto principal sino a la validez del proceso en sí mismo;
 
-XII. Interés legítimo: derecho de los particulares que invoquen situaciones de hecho protegidas por el orden jurídico, tanto de un sujeto determinado como de los integrantes de un grupo de individuos diferenciados del conjunto general de la sociedad;
+XI. Interesado: particular que tiene un interés legítimo respecto de un acto o procedimiento administrativo por ostentar un derecho legalmente tutelado;
 
-XIII. Interlocutoria: resolución que se dicta dentro del procedimiento administrativo para resolver algún incidente;
+XII. Interés jurídico: derecho de los particulares vinculado con el interés público y protegido por el orden jurídico que les confiere la facultad para activar la actuación pública administrativa, respecto de alguna pretensión en particular;
 
-XIV. Ley Orgánica: Ley Orgánica de Administración Pública del Estado;
+XIII. Interés legítimo: derecho de los particulares que invoquen situaciones de hecho protegidas por el orden jurídico, tanto de un sujeto determinado como de los integrantes de un grupo de individuos diferenciados del conjunto general de la sociedad;
 
-XV. Ley Orgánica Municipal: Ley Orgánica del Municipio Libre del Estado de San Luis Potosí;
+XIV. Interlocutoria: resolución que se dicta dentro del procedimiento administrativo para resolver algún incidente;
 
-XVI. Negativa Ficta: figura jurídica por virtud de la cual, ante la omisión de la autoridad de emitir una resolución de manera expresa, dentro de los plazos previstos por este Código los ordenamientos jurídicos aplicables al caso concreto, se entiende que se resuelve en sentido negativo lo solicitado por el particular;
+XV. Ley Orgánica: Ley Orgánica de Administración Pública del Estado;
 
-XVII. Normas: leyes, reglamentos, decretos, normas técnicas, circulares y otras disposiciones de carácter general que rijan en el Estado o el Municipio, según corresponda;
+XVI. Ley Orgánica Municipal: Ley Orgánica del Municipio Libre del Estado de San Luis Potosí;
 
-XVIII. Nulidad: declaración emanada del órgano competente en el sentido de que un acto administrativo no cumple con los elementos de validez que se establecen en este Código y que por lo tanto no genera efectos jurídicos;
+XVII. Negativa Ficta: figura jurídica por virtud de la cual, ante la omisión de la autoridad de emitir una resolución de manera expresa, dentro de los plazos previstos por este Código los ordenamientos jurídicos aplicables al caso concreto, se entiende que se resuelve en sentido negativo lo solicitado por el particular;
 
-XIX. Procedimiento de lesividad: procedimiento incoado por las autoridades administrativas ante el Tribunal solicitando la declaración de nulidad de resoluciones administrativas favorables a los particulares, por considerar que lesionan a la administración pública o al interés público;
+XVIII. Normas: leyes, reglamentos, decretos, normas técnicas, circulares y otras disposiciones de carácter general que rijan en el Estado o el Municipio, según corresponda;
 
-XX. Resolución Administrativa: acto administrativo que pone fin a un procedimiento de manera expresa, que decide todas y cada una de las cuestiones planteadas por los interesados o previstas por las normas; tendrá igualmente ese carácter para efectos de su impugnación, la negativa ficta en caso del silencio de la autoridad competente;
+XIX. Nulidad: declaración emanada del órgano competente en el sentido de que un acto administrativo no cumple con los elementos de validez que se establecen en este Código y que por lo tanto no genera efectos jurídicos;
 
-XXI. Servidores Públicos: las personas que desempeñan un empleo, cargo o comisión en los entes públicos, conforme a lo dispuesto en el artículo 124 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí;
+XX. Procedimiento de lesividad: procedimiento incoado por las autoridades administrativas ante el Tribunal solicitando la declaración de nulidad de resoluciones administrativas favorables a los particulares, por considerar que lesionan a la administración pública o al interés público;
 
-XXII. Tribunal: Tribunal Estatal de Justicia Administrativa, y
+XXI. Resolución Administrativa: acto administrativo que pone fin a un procedimiento de manera expresa, que decide todas y cada una de las cuestiones planteadas por los interesados o previstas por las normas; tendrá igualmente ese carácter para efectos de su impugnación, la negativa ficta en caso del silencio de la autoridad competente;
 
-XXIII. UMA: Unidad de Medida y Actualización, entendida como el valor establecido por el Instituto Nacional de Estadística y Geografía, en términos del artículo 26, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la ley federal en la materia, para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes.
+XXII. Servidores Públicos: las personas que desempeñan un empleo, cargo o comisión en los entes públicos, conforme a lo dispuesto en el artículo 124 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí;
+
+XXIII. Tribunal: Tribunal Estatal de Justicia Administrativa, y
+
+XXIV. UMA: Unidad de Medida y Actualización, entendida como el valor establecido por el Instituto Nacional de Estadística y Geografía, en términos del artículo 26, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la ley federal en la materia, para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes.
 
 ## TÍTULO SEGUNDO. GENERALIDADES DE LOS PROCEDIMIENTOS ADMINISTRATIVOS, Y CONTENCIOSOS EN MATERIA ADMINISTRATIVA
 
@@ -2586,5 +2590,13 @@ P.O. 1 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0261.- SE ADICIONA PÁRRAFO AL ARTÍCULO 28, DEL CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0733.- SE ADICIONA (SIC) FRACCIÓN AL ARTÍCULO 3°, ÉSTA COMO V, DEL CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
