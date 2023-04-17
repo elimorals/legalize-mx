@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2023-02-27"
+last_updated: "2023-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -513,7 +513,9 @@ XII. Promover que los medios de comunicación favorezcan la erradicación de tod
 
 XIII. Realizar acciones programáticas de carácter afirmativo, para el logro de la igualdad de condiciones y oportunidades entre hombres y mujeres, y la eliminación de brechas y desventajas de género, sobre todo para aquéllas mujeres que se encuentren en condiciones de exclusión y pobreza;
 
-XIV. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social del agresor;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2023)</small>
+
+XIV. Establecer las acciones y medidas específicas para la reeducación social del agresor;
 
 XV. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
 
@@ -693,9 +695,15 @@ IV. Formular las bases para la coordinación del Sistema Estatal con los Sistema
 
 V. Desarrollar acciones y programas orientados a fomentar la cultura del respeto a la igualdad y los derechos humanos de las mujeres;
 
-VI. Diseñar, con una visión transversal y con perspectiva de género, la política integral en materia de seguridad pública orientada a la prevención, atención, sanción y erradicación de la violencia contra las mujeres, y
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2023)</small>
 
-VII. Las demás previstas para el cumplimiento de la presente Ley.
+VI. Diseñar, con una visión transversal y con perspectiva de género, la política integral en materia de seguridad pública orientada a la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2023)</small>
+
+VII. Establecer medidas y acciones específicas para la reinserción social de la persona agresora, y
+
+VIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 ### CAPÍTULO VIII. SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
 
@@ -1676,3 +1684,13 @@ P.O. 27 DE FEBRERO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0738.- SE REFORMAN LOS ARTÍCULOS 18, EN SU FRACCIÓN XIV Y 24 EN SU FRACCIÓN VI; Y SE ADICIONA LA FRACCIÓN VII, DEL ARTÍCULO 24, AMBAS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado deberá reformar el Reglamento de los Centros Penitenciarios Estatales de San Luis Potosí, para adecuarlo a lo señalado en el presente Decreto, dentro de los seis meses siguientes a su entrada en vigor.
