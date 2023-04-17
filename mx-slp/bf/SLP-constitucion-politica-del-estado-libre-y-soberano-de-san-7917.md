@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2022-11-22"
+last_updated: "2023-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2023.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -127,31 +127,53 @@ La mujer y el hombre son iguales ante la ley. El Estado promoverá la igualdad d
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, o cualquier otra que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 9o.
 
-El Estado de San Luis Potosí tiene una composición pluriétnica, pluricultural y multilingüística sustentada originalmente en sus pueblos indígenas. Reconoce la existencia histórica y vigente en su territorio de los pueblos Nahuas, Teének o Huastecos, y Xi'oi o Pames, así como la presencia regular de los Wirrarika o Huicholes.
+El Estado de San Luis Potosí tiene una composición pluriétnica, pluricultural, y multilingüística, sustentada originalmente en sus pueblos indígenas. Reconoce la existencia histórica y vigente en su territorio de los pueblos Nahuas; Téenek o Huastecos; Xi´oi o Pames; así como la presencia regular de los Wirrarika o Huicholes; y la población Afromexicana.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JULIO DE 2003)</small>
 
 Asegurando la unidad de la Nación la ley establecerá sus derechos y obligaciones conforme a las bases siguientes:
 
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+
 I.- Queda prohibida toda discriminación por origen étnico, o que por cualquier otro motivo atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
 
 II.- El Estado reconoce a sus pueblos indígenas su unidad, lenguas y derechos históricos, manifiestos éstos en sus comunidades indígenas a través de sus instituciones políticas, culturales, sociales y económicas, así como su actual jurisdicción territorial, formas autonómicas de gestión y capacidad de organización y desarrollo internos;
 
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+
 III.- Las comunidades integrantes de un pueblo indígena son aquellas que forman una unidad política, social, económica y cultural; asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres. La ley establecerá los mecanismos y criterios para la identificación y delimitación de las mismas, tomando en cuenta además de los anteriores, los criterios etnolingüísticos;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
 
 IV.- La conciencia de su identidad étnica deberá ser criterio fundamental para determinar a quienes se aplican las disposiciones sobre pueblos y comunidades indígenas. Las propias comunidades coadyuvarán en ultima instancia a este reconocimiento;
 
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+
 V.- El Estado reconoce el derecho de los pueblos indígenas y sus comunidades a la libre determinación, misma que se expresa en el ámbito de su autonomía; ella bajo el principio de la subsidiariedad y complementariedad en correspondencia con el marco del orden jurídico vigente;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
 
 VI.- El Estado otorga a las comunidades indígenas la calidad de sujetos de derecho público, con personalidad jurídica y patrimonio propios;
 
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+
 VII.- Se reconoce la estructura interna de las comunidades indígenas, concebida como un sistema que comprende una asamblea general, diversos cargos y jerarquías;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
 
 VIII.- En el ámbito de su autonomía las comunidades indígenas podrán preservar y enriquecer sus lenguas, conocimientos y todos los elementos que formen parte de su cultura e identidad. El Estado coadyuvará en la preservación, enriquecimiento de sus lenguas, conocimientos y todos los elementos que conformen su identidad cultural;
 
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+
 IX.- Las comunidades indígenas, dentro del ámbito municipal podrán coordinarse y asociarse en los términos y para los efectos que prevenga la ley;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
 
 X.- En los términos que establece la Constitución federal y las demás leyes de la materia, y dentro de los ámbitos de competencia del Estado y municipios, los pueblos y comunidades indígenas tendrán derecho a la preservación de la naturaleza, y de los recursos que se encuentran ubicados en sus tierras o en la totalidad del hábitat que ocupan o disfrutan, así como preferencia en el uso y disfrute de los mismos;
 
@@ -159,37 +181,71 @@ X.- En los términos que establece la Constitución federal y las demás leyes d
 
 XI.- La jurisdicción indígena y sus competencias se corresponden con la organización social y el espacio geográfico o territorios donde se asientan las comunidades. Las comunidades indígenas elegirán y designarán a sus representantes y órganos de autoridad internos, y ante los ayuntamientos, en correspondencia con sus sistemas normativos y formas de organización comunitaria. La ley reglamentaria establecerá las bases al respecto, observando el principio de paridad de género conforme a las normas aplicables;
 
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+
 XII.- Mediante acciones coordinadas entre los distintos órdenes de gobierno, las autoridades municipales determinarán equitativamente las asignaciones presupuestales que las comunidades indígenas administrarán directamente para fines específicos;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
 
 XIII.- El Estado garantizará a los indígenas el efectivo acceso a la jurisdicción del mismo. Para garantizar este derecho, en los juicios y procedimientos en que aquéllos sean parte, individual o colectivamente, deberán tomarse en cuenta sus costumbres y especificidades culturales;
 
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+
 XIV.- La ley establecerá los casos y procedimientos para que los sistemas normativos que las comunidades indígenas utilizan para la solución y regulación de sus conflictos internos, sean validados por los jueces y tribunales correspondientes. Las personas indígenas tendrán derecho a contar durante todo el procedimiento, con el auxilio de un traductor y un defensor que tengan conocimiento de su lengua y cultura;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
 
 XV.- La ley reconocerá y protegerá a los indígenas pertenecientes a otro pueblo, o que procedentes de otra Entidad federativa residan temporal o permanentemente dentro del territorio del Estado, y
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JULIO DE 2003)</small>
+
 XVI.- Al tenor de lo dispuesto en el Apartado B del artículo 2º de la Constitución federal, el Estado y los municipios con la participación de las comunidades establecerán las instituciones, el sistema y las políticas para garantizar el desarrollo humano y social de los pueblos y comunidades indígenas. La ley incorporará las bases que la Constitución federal refiere, y establecerá los mecanismos y procedimientos para el cumplimiento de esta obligación en los siguientes aspectos:
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
 
 a) Impulso al desarrollo regional.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+
 b) Incremento en todos los ámbitos a los niveles de educación con uso del idioma indígena correspondiente, además del español, incorporando las características interculturales específicas.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
 
 c) Acceso efectivo a todos los servicios de salud con aprovechamiento de la medicina tradicional.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+
 d) Mejoramiento de la vivienda, y ampliación de cobertura de todos los servicios sociales básicos.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
 
 e) Incorporación de las mujeres al desarrollo.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+
 f) Ampliación de la red de comunicaciones, y posibilidad para los pueblos y comunidades indígenas para adquirir y operar sus propios medios de comunicación.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
 
 g) Impulso a las actividades productivas y al desarrollo sustentable de las comunidades.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+
 h) Establecimiento de políticas para la protección de los migrantes indígenas y sus familias.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
 
 i) Consulta a los pueblos indígenas para la elaboración de los planes Estatal y municipales sobre el desarrollo integral.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+
 El Congreso del Estado y los ayuntamientos en el ámbito de sus respectivas competencias, establecerán equitativamente las partidas específicas en los presupuestos de egresos que aprueben, para cumplir con las disposiciones de este artículo, así como las formas y procedimientos para que las comunidades participen en su ejercicio y vigilancia.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+
 El Estado reconoce los mismos derechos a las comunidades que sean equiparables a las descritas en el contenido de este artículo.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
 
 Es responsabilidad del Congreso del Estado vigilar que todas las leyes o decretos de observancia obligatoria, sean publicadas en el Periódico Oficial del Estado en las lenguas propias de los pueblos indígenas de la Entidad para su aplicación y entrada en vigor.
 
@@ -245,39 +301,27 @@ Los particulares podrán impartir educación en todos sus tipos y modalidades. E
 
 La Universidad de San Luis Potosí es autónoma en todo lo que respecta a su régimen interior. Realizará sus fines de educar, investigar y difundir la cultura con base en la libertad de cátedra e investigación y en el libre examen y discusión de las ideas, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en su ley orgánica. El Estado, en la medida de sus posibilidades presupuestales, la dotará con un subsidio anual.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 12.
 
-La Familia constituye la base fundamental de la sociedad. La familia, las personas con discapacidad, los senectos y los niños y las niñas serán objeto de especial protección por parte de las autoridades, y las disposiciones legales que al efecto se dicten serán de orden público e interés social.
+La Familia constituye la base fundamental de la sociedad. La Familia, las personas con discapacidad, las personas adultas mayores, los niños, niñas y adolescentes, con el propósito de garantizarles sus derechos, serán objeto de especial protección por parte de las autoridades, así como la protección de la organización y el desarrollo de la familia; y las disposiciones legales que al efecto se dicten serán de orden público e interés social.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+Toda persona tiene derecho a una vida saludable, el Estado protegerá y promoverá el derecho fundamental a la salud de sus habitantes. La ley establecerá programas y estrategias basadas en la educación para la salud y en la participación comunitaria.
 
-El Estado protegerá y promoverá el derecho fundamental a la salud de sus habitantes. La ley establecerá programas y estrategias basadas en la educación para la salud y en la participación comunitaria.
+El Estado en la medida de sus posibilidades presupuestales, proveerá la salud de las personas con discapacidad, las personas adultas mayores, los niños, niñas y adolescentes.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2014)</small>
+En todas las decisiones y actuaciones del Estado, se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Este principio deberá guiar el diseño, seguimiento, ejecución, y evaluación de las políticas públicas dirigidas a la niñez. Los niños, niñas y adolescentes tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Los ascendientes, tutores, y custodios tienen el deber de preservar y exigir el cumplimiento de estos derechos y principios. Las autoridades proveerán lo necesario para propiciar el respeto a la dignidad de la niñez y el ejercicio pleno de sus derechos, y otorgarán facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
 
-El Estado en la medida de sus posibilidades presupuestales, proveerá la salud de los niños y las niñas, las personas con discapacidad y los adultos mayores.
+Toda persona tiene derecho a una alimentación suficiente y de calidad, nutricionalmente adecuada, inocua y culturalmente aceptable para llevar una vida activa y saludable. El Estado lo garantizará e implementará programas y subsidios alimentarios así como medidas que propicien la adquisición de buenos hábitos alimenticios entre la población, y fomentará la producción y el consumo de alimentos con alto valor nutricional.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
+El Estado promoverá el bienestar social, así como la vivienda digna y decorosa, preferentemente la destinada a las clases de escasos recursos económicos, toda familia tiene derecho a disfrutar de este principio, la ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
 
-En todas las decisiones y actuaciones del Estado, se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Este principio deberá guiar el diseño, seguimiento, ejecución, y evaluación de las políticas públicas dirigidas a la niñez. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de salud, educación y sano esparcimiento para su desarrollo integral. Los ascendientes, tutores y custodios tienen el deber de preservar y exigir el cumplimiento de estos derechos y principios. Las autoridades proveerán lo necesario para propiciar el respeto a la dignidad de la niñez y el ejercicio pleno de sus derechos, y otorgarán facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
+Las leyes regularán y organizarán el patrimonio de la familia, determinando los bienes que deben constituirlo, sobre la base de que será inalienable y no estará sujeto a embargo ni a gravamen alguno.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2014)</small>
+El Estado reconoce como un Derecho Humano el acceso al agua en condiciones de igualdad social, debiendo garantizar su suficiencia, salubridad, aceptabilidad, accesibilidad y asequibilidad.
 
-El Estado garantizará el acceso de toda persona a una alimentación suficiente, nutricionalmente adecuada, inocua y culturalmente aceptable para llevar una vida activa y saludable. A fin de evitar las enfermedades de origen alimentario, el Estado deberá implementar las medidas que propicien la adquisición de buenos hábitos alimenticios entre la población, y fomentará la producción y el consumo de alimentos con alto valor nutricional.
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
-
-El Estado promoverá el bienestar social, así como la vivienda digna para las familias, preferentemente la destinada a las clases de escasos recursos económicos, de conformidad con lo establecido por las leyes relativas.
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
-
-Las leyes regularán el patrimonio de la familia y los bienes que lo constituyan serán inalienables y no estarán sujetos a embargo ni a gravamen.
-
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014)</small>
-
-El Estado Libre y Soberano de San Luis Potosí reconoce como un Derecho Humano el acceso al agua de calidad.
+El Estado Libre y Soberano de San Luis Potosí, no solo reconoce su obligación de garantizar el derecho a la salud, a la alimentación suficiente y de calidad, a la vivienda digna y decorosa, a la protección del patrimonio familiar, el acceso al agua, sino también la de garantizar a través de programas sociales establecidos en la ley, el acceso gratuito de estudiantes al transporte público, atención médica gratuita a la población, y la entrega de apoyos económicos, alimentarios, pensiones, y subsidios a personas en condición de pobreza.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -751,11 +795,13 @@ La ley establecerá las materias, requisitos, alcances, términos y procedimient
 
 ### CAPÍTULO I. Del Congreso del Estado
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 40.
 
-El ejercicio del Poder Legislativo se deposita en una asamblea de Diputados, que se denomina Congreso del Estado, la cual se elegirá cada tres años.
+El ejercicio del Poder Legislativo se deposita en una asamblea de diputadas y diputados que se denomina Congreso del Estado, la cual se elegirá cada tres años.
+
+El Congreso del Estado rige su actuación bajo el principio de parlamento abierto, en los términos que establezcan sus disposiciones, orgánica; y reglamentaria.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -3520,3 +3566,29 @@ P.O. 22 DE NOVIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0734.- SE REFORMA EL ARTÍCULO 9º, EN SU PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0735.- SE REFORMA EL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0736.- SE REFORMA EL ARTÍCULO 12, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a los treinta días hábiles de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Las secretarías, y dependencias respecto de las que recae el cumplimiento de esta reforma, deberán adecuar sus respectivos reglamentos, manuales, y lineamientos, en un término de treinta días hábiles posteriores a la publicación del presente Decreto, para la implementación del mismo.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
