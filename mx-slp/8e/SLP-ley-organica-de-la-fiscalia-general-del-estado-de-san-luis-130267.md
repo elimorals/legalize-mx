@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-fiscalia-general-del-estado-de-san-luis-1302
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-08-20"
-last_updated: "2020-10-24"
+last_updated: "2023-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130267&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 20 de agosto de 2018.
 
@@ -305,15 +305,19 @@ a) Fiscalía Especializada en Delitos Electorales.
 
 b) Fiscalía Especializada en Delitos relacionados con Hechos de Corrupción.
 
-c) Fiscalías Especializadas.
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2023)</small>
 
-d) Vicefiscalía.
+c) Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
-e) Dirección General de Servicios Periciales.
+d) Fiscalías Especializadas.
 
-e (sic)) Dirección General de Métodos de Investigación
+e) Vicefiscalía.
 
-f) Dirección General de Análisis Criminal.
+f) Dirección General de Servicios Periciales.
+
+g) Dirección General de Métodos de Investigación
+
+h) Dirección General de Análisis Criminal.
 
 El Fiscal General por acuerdo, únicamente podrá crear, modificar o suprimir unidades y órganos técnicos, desconcentrados y administrativos que dependan de las áreas establecidas en la presente Ley, así como las que deriven de lo dispuesto en el artículo 12 de este Ordenamiento. Dichos acuerdos se publicarán en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
@@ -331,7 +335,7 @@ a) En Materia de Desaparición Forzada de Personas, y Desaparición Cometida por
 
 b) Para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, y Contra Migrantes.
 
-c) Para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+c) (DEROGADO, P.O. 17 DE ABRIL DE 2023)
 
 d) Para la Atención de los Pueblos, Comunidades y Personas Indígenas.
 
@@ -985,11 +989,59 @@ XV. Las demás que le confieran otras disposiciones jurídicas aplicables.
 
 La Fiscalía Especializada en Delitos relacionados con Hechos de Corrupción contará con as (sic) unidades administrativas, elementos de policía de investigación, peritos, así como recursos necesarios para el desempeño de sus funciones, conforme al Reglamento de esta Ley y la normatividad aplicable.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE ABRIL DE 2023)</small>
+
+### Capítulo XIII BIS
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2023)</small>
+
+ARTÍCULO 45 BIS. Competencia.
+
+La Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes tendrá plena autonomía técnica y operativa para el conocimiento, investigación, persecución y acusación de los hechos delictivos previstos en la Ley General para Prevenir, Investigar y Sancionar la tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes y contará con agentes fiscales, policías, servicios periciales y técnicos especializados; se le asignarán los recursos, financieros y materiales que se requieran para su efectiva operación.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2023)</small>
+
+ARTÍCULO 45 TER. Titular de la Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+La persona titular de la Fiscalía General designará y removerá libremente a la titularidad de esta Fiscalía Especializada en la Investigación de Delitos de Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, quien, al igual que el resto de las y los servidores públicos que la conforman deberán reunir íntegramente los requisitos previstos en el artículo 58 de la Ley General para Prevenir, Investigar y Sancionar la tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2023)</small>
+
+ARTÍCULO 45 QUÁTER. Atribuciones de la Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+La Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes tendrá las siguientes atribuciones:
+
+I. Ejercer las atribuciones y cumplir con las obligaciones que le confieren al Ministerio Público en los artículos 21 y 102, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos; 122 Bis y 122 Ter de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, la Ley Orgánica de la Fiscalía General del Estado de San Luis Potosí, y sus reglamentos internos, así como los protocolos aplicables en la materia;
+
+II. Iniciar y desarrollar la investigación y persecución de hechos delictivos relacionados con los delitos previstos en Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+III. Requerir a las instancias públicas competentes, y del sector privado en los casos que disponga la Ley General de Víctimas, a que se le brinde atención médica, psicológica y jurídica a las personas víctimas de las conductas previstas en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+IV. Requerir la participación de las autoridades en materia de atención a víctimas, en términos de las disposiciones aplicables;
+
+V. Ejecutar, supervisar y evaluar los protocolos de actuación e investigación aplicables para los delitos competencia de esta Fiscalía Especializada;
+
+VI. Pedir a las autoridades competentes su colaboración y apoyo para la investigación y persecución de los delitos de su competencia;
+
+VII. Decretar las medidas de protección en favor de la vida o la integridad de las Víctimas, de conformidad con la legislación aplicable;
+
+VIII. Solicitar las medidas cautelares aplicables al imputado de conformidad con la legislación aplicable;
+
+IX. Establecer mecanismos de cooperación con otras autoridades competentes para el intercambio de plataformas de información y de la capacitación continua para dichos efectos;
+
+X. Colaborar con otras autoridades competentes a efecto de sistematizar la información obtenida durante la investigación y promover su intercambio con otras Fiscalías y Unidades Especializadas con el fin de fortalecer el seguimiento y control de las conductas delictivas previstas en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes y mantener actualizado el Registro Nacional del delito de Tortura;
+
+XI. Llevar a cabo análisis de contextos y patrones sobre la comisión del delito de tortura, con base en los datos del Registro Nacional y otra información disponible;
+
+XII. Ingresar a cualquiera de los lugares de privación de libertad en donde se presuma que se cometió el delito de tortura, de conformidad con las disposiciones legales aplicables;
+
+XIII. Proponer políticas para la prevención de los delitos de su competencia, y
+
+XIV. Las demás que dispongan la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, el Reglamento Interno de la fiscalía general del Estado y otras disposiciones aplicables.
+
 ### Capítulo XIV. Vicefiscalía
 
 ### Capítulo XV. Vicefiscalía Jurídica
-
-### Capítulo XVI. Dirección General de Administración
 
 ###### ARTÍCULO 46.
 
@@ -1025,7 +1077,7 @@ II. Establecer mecanismos de coordinación con las Fiscalías Especializadas, y
 
 III. Las demás que establezcan la presente Ley, su Reglamento, y el Fiscal General mediante acuerdo.
 
-### Capítulo XVII. Dirección General de Servicios Periciales
+### Capítulo XVI. Dirección General de Administración
 
 ###### ARTÍCULO 50.
 
@@ -1067,7 +1119,7 @@ Integración de la Vicefiscalía Jurídica.
 
 La Vicefiscalía Jurídica se integrará por una Dirección Jurídica, una Dirección de Derechos Humanos y una Dirección de Transparencia y Acceso a la Información, cuyos titulares tendrán las atribuciones y obligaciones que se señalen en la presente Ley y su Reglamento.
 
-### Capítulo XVIII. Dirección General de Métodos de Investigación
+### Capítulo XVII. Dirección General de Servicios Periciales
 
 ###### ARTÍCULO 52.
 
@@ -1125,7 +1177,7 @@ III. Dirección de Servicios Generales, y
 
 IV. Dirección de Adquisiciones, Arrendamientos y Servicios.
 
-### Capítulo XIX. Dirección General de Análisis Criminal
+### Capítulo XVIII. Dirección General de Métodos de Investigación
 
 ###### ARTÍCULO 54.
 
@@ -1161,7 +1213,7 @@ IX. Participar en la elaboración de convenios de colaboración con Organismos o
 
 X. Las demás que le confieran otras disposiciones o el Titular de la Fiscalía General.
 
-### Capítulo Único
+### Capítulo XIX. Dirección General de Análisis Criminal
 
 ###### ARTÍCULO 56.
 
@@ -1242,6 +1294,8 @@ XXX. Crear la Base Estadística Estatal de Violencia Política contra las Mujere
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE OCTUBRE DE 2020)</small>
 
 XXXI. Las demás que le confieran otras disposiciones legales y el Fiscal General.
+
+### Capítulo Único
 
 ###### ARTÍCULO 58.
 
@@ -1452,3 +1506,17 @@ P.O. 24 DE OCTUBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0737.- SE DEROGA EL INCISO C), DE LA FRACCIÓN II, DEL ARTÍCULO 11; Y ADICIONA AL ARTÍCULO 10, EN SU FRACCIÓN III, EL INCISO C) Y AL TÍTULO SEGUNDO, EL CAPÍTULO XIII BIS “FISCALÍA ESPECIALIZADA EN LA INVESTIGACIÓN DE DELITOS DE TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES”, CON LOS ARTÍCULOS 45 BIS, 45 TER Y 45 QUÁTER, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. La Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, atraerá y recibirá las investigaciones que se hayan iniciado en la Unidad Especializada para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes; en general, conocerá de aquellas denuncias en trámite, así como las que se lleguen a presentar, relativas a delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, iniciadas con posterioridad al veinticinco de diciembre de dos mil diecisiete, correspondiente al plazo previsto en el Transitorio Tercero de la Ley General para Prevenir, Investigar y Sancionar la tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes publicada en el Diario Oficial de la Federación el veintiséis de junio de dos mil diecisiete.
+
+TERCERO. Las y los servidores públicos adscritos a la Unidad Especializada para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes pasarán a formar parte de la Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+CUARTO. En un término de sesenta días hábiles siguientes a la entrada en vigor del presente Decreto, la Fiscalía General del Estado deberá armonizar sus ordenamientos internos con las disposiciones que con éste se expiden.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
