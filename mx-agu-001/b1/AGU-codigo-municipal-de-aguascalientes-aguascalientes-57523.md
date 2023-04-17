@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2023-03-20"
+last_updated: "2023-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -991,13 +991,13 @@ En todo lo no previsto en este Código, se recurrirá a las disposiciones de la 
 
 ### CAPÍTULO IX. De las Comisiones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ENERO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 17 DE ABRIL DE 2023)</small>
 
-###### Artículo 82.
+###### ARTÍCULO 82.
 
 El Cabildo nombrará las Comisiones permanentes que tendrán la obligación de vigilar el ramo de la administración que se les encomiende y serán las siguientes:
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE ENERO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 17 DE ABRIL DE 2023)</small>
 
 A. REGIDORES:
 
@@ -1061,9 +1061,9 @@ XIV. Igualdad y Género.
 
 XV. Derechos Humanos.
 
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2023)</small>
 
-XVI. Comisión de Comunicación Social.
+XVI. Salud y Rastros
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE ENERO DE 2022)</small>
 
@@ -6139,11 +6139,11 @@ VI. Por el Municipio, el Estado y la Federación.
 
 Se requerirá la aprobación de las dos terceras partes del cabildo para celebrar los convenios u otorgar las concesiones a que se refiere el artículo anterior y en materia de concesiones para la prestación de los servicios públicos municipales, se estará a lo dispuesto por la Ley Municipal para el Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 416.
 
-Corresponde a la Secretaría de Servicios Públicos la prestación, por sí o por conducto de terceras personas a través de contratos o concesiones, de los servicios de Rastro Municipal, Limpia y Aseo Público, Panteones, Parques y Jardines, Alumbrado Público. De manera adicional a los referidos anteriormente deberá prestar de manera directa el servicio de control de población canina y felina.
+Corresponde a la Secretaría de Servicios Públicos la prestación, por sí o por conducto de terceras personas a través de contratos o concesiones, de los servicios Limpia y Aseo Público, Panteones, Parques y Jardines, Alumbrado Público.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -17767,35 +17767,61 @@ ARTÍCULO 1297 TER.- Se atenderán todas las quejas ciudadanas y asimismo se tom
 
 ### CAPÍTULO II. De las Autoridades
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 17 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 1298.
 
 Son autoridades administrativas competentes para la aplicación y/o vigilancia del presente titulo las siguientes:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE ABRIL DE 2023)</small>
+
 I. El H. Ayuntamiento;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE ABRIL DE 2023)</small>
 
 II. El Presidente Municipal;
 
-III. La Comisión Permanente de Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2023)</small>
+
+III. La Comisión Permanente de Control Reglamentario, Espectáculos, Mercados y Estacionamientos;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 IV. La Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
 
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
 V. La Secretaría de Finanzas Públicas;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 VI. La Secretaría de, Servicios Públicos;
 
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
 VII. La Secretaría del Medio Ambiente y Desarrollo Sustentable;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 VIII. La Secretaría de Seguridad Pública;
 
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
 IX. La Secretaría de Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 X. La Dirección de Reglamentos;
 
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
 XI. Las Delegaciones Municipales;
 
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
 XII. Los Comisarios Municipales; y
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 XIII. Los servidores públicos municipales a quienes se les deleguen facultades expresas para la aplicación y cumplimiento del presente Titulo.
 
@@ -17839,9 +17865,9 @@ VII. Delegar facultades a los servidores públicos, conforme al artículo 98 del
 
 VIII. Las demás que le confieran el presente Código y los ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2023)</small>
 
-ARTÍCULO 1298 QUATER.- Son facultades y atribuciones de la Comisión Permanente de Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos las siguientes:
+ARTÍCULO 1298 QUATER.- Son facultades y atribuciones de la Comisión Permanente de Control Reglamentario, Espectáculos, Mercados y Estacionamientos las siguientes:
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -18925,15 +18951,19 @@ IV. Especificar la operatividad para garantizar la seguridad, debido al manejo d
 
 V. Realizar campañas permanentes sobre la normatividad, técnicas y métodos en coordinación con las autoridades y titulares de las licencias, sobre el manejo destino y venta de dichas sustancias.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 17 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 1325.
 
 El Consejo estará integrado por:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE ABRIL DE 2023)</small>
+
 I. El Regidor titular de la Comisión de Gobernación o el representante que designe, con voto de calidad en caso de empate.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2023)</small>
 
-II. El Regidor titular de la Comisión de Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos o el representante que designe.
+II. El Regidor titular de la Comisión de Control Reglamentario, Espectáculos, Mercados y Estacionamientos o el representante que designe.
 
 III. El Secretario del H. Ayuntamiento o el Representante que designe.
 
@@ -19425,6 +19455,8 @@ De igual manera, la Dirección de Mercados deberá contar con la autorización d
 
 Para los existentes dentro de la Zona de Restricción Comercial dentro del Centro Histórico de la ciudad de Aguascalientes, no se podrá llevar acabo cambio de giro, metraje, ni modificación alguna a las especificaciones del permiso para ejercer la actividad comercial en la vía pública, tratándose de traspasos de derechos de permisos dentro de la Zona de Restricción Comercial dentro del Centro Histórico de la ciudad de Aguascalientes se ajustarán a las condiciones que se estipulan dentro del artículo 1389 del presente Código.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 17 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 1358.
 
 Para los efectos del presente Título se entenderá por:
@@ -19459,9 +19491,11 @@ V. Credencial o Gafete.- Es el documento que acredita el registro dentro del pad
 
 VI. Comité Dictaminador.- Será el órgano encargado de analizar, discutir y en su caso aprobar permisos para ejercer el comercio en la vía pública, exclusivamente de proyectos que por su importancia y trascendencia para el municipio se consideren especiales o extraordinarios y ameriten la valoración del mismo. Así mismo tendrá la facultad de ordenar la disposición final de bienes no perecederos que por su condición o estado no puedan ser objeto de donación, conforme a lo dispuesto por el artículo 1596 del presente Código.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE ABRIL DE 2023)</small>
+
 Estará integrado por:
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE ABRIL DE 2023)</small>
 
 a) El Regidor Presidente de la Comisión Permanente de Control Reglamentario, Espectáculos, Mercados y Estacionamientos.
 
@@ -19747,13 +19781,15 @@ Será autoridad para la aplicación de las presentes disposiciones:
 
 La Dirección de Mercados, Estacionamientos y Áreas Comerciales la cuál podrá delegar sus facultades administrativas a las delegaciones municipales en su área de influencia y se coordinará en su caso con la Secretaría de Seguridad Pública.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 17 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 1372.
 
 Corresponde a las autoridades municipales:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE ABRIL DE 2023)</small>
 
-A. El Regidor Titular de la Comisión Permanente de Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos:
+A. El Regidor Titular de la Comisión Permanente de Control Reglamentario, Espectáculos, Mercados y Estacionamientos:
 
 I. Vigilar el cumplimiento de lo dispuesto en este capítulo y en el Código Municipal.
 
@@ -19763,9 +19799,9 @@ II. Cumplir lo establecido en la Ley, en cuanto a facultades, atribuciones y obl
 
 III. Proponer al H. Ayuntamiento a través de la Comisión Permanente de Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos las zonas permitidas, restringidas o prohibidas para el comercio en vía pública en coordinación y de conformidad con la Secretaría de Desarrollo Urbano.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2023)</small>
 
-IV. Vigilar y supervisar las condiciones generales bajo las cuáles la Dirección de Mercados, Estacionamientos y Áreas Comerciales regulará, organizará y operará la actividad del comercio en el Municipio de Aguascalientes, en base a las políticas establecidas y marcadas por la Comisión Permanente de Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos.
+IV. Vigilar y supervisar las condiciones generales bajo las cuáles la Dirección de Mercados, Estacionamientos y Áreas Comerciales regulará, organizará y operará la actividad del comercio en el Municipio de Aguascalientes, en base a las políticas establecidas y marcadas por la Comisión Permanente de Control Reglamentario, Espectáculos, Mercados y Estacionamientos.
 
 B. La Dirección de Mercados, Estacionamientos y Áreas Comerciales:
 
@@ -24754,3 +24790,9 @@ P.O. 20 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DE LA "REFORMA A LOS ARTÍCULOS 1362 Y 1370 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
 
 PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 17 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES".]</small>
