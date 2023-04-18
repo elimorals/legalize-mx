@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2023-01-14"
+last_updated: "2023-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,11 +22,9 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE OCTUBRE DE 2023 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2023.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -450,7 +448,7 @@ VII. Establecer, en su caso, las aportaciones ordinarias y extraordinarias que d
 
 VIII. Formular las actas del Consejo Estatal Hacendario y cumplimentar los acuerdos que de él emanen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE ABRIL DE 2023)</small>
 
 ###### Artículo 21.
 
@@ -500,9 +498,41 @@ Cada Grupo designará un Titular y dos suplentes, que deberán pertenecer a dife
 
 Estos Grupos se conforman de acuerdo al rango que pertenezca cada Municipio, según lo establecido en el Reglamento del Consejo Estatal Hacendario y dichos representantes estarán en funciones por un año, o mayor a este tiempo que determinen los Municipios del Grupo representado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE ABRIL DE 2023)</small>
 
-Funcionamiento. El Comité Directivo sesionará en los términos que determine el Reglamento del Consejo Estatal Hacendario.
+Funcionamiento. El Comité Directivo sesionará en los términos que determine el Reglamento del Consejo Estatal Hacendario. El Comité El Comité (sic) Directivo podrá celebrar sesiones a distancia mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2023)</small>
+
+I. La identificación visual plena de los integrantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2023)</small>
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2023)</small>
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2023)</small>
+
+IV. Transmitirse en vivo para el público en general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2023)</small>
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2023)</small>
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2023)</small>
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2023)</small>
+
+VIII. La validez del acta y de los acuerdos aprobados se acreditará con la constancia de la votación firmados por quien presidió la sesión.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -709,3 +739,9 @@ P.O. 14 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29122/LXIII/22 DEL CONGRESO DEL ESTADO QUE MODIFICA EL ARTÍCULO 9 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 Único.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29159/LXII/23 QUE REFORMA EL ARTÍCULO 21 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+Único. El presente decreto surtirá efectos a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
