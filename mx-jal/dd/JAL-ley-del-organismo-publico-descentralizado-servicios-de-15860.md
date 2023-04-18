@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-organismo-publico-descentralizado-servicios-de-15860"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-10"
-last_updated: "2020-04-02"
+last_updated: "2023-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO "SERVICIOS DE SALUD JALISCO"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 10 de abril de 1997.
 
@@ -225,6 +225,42 @@ La Junta de Gobierno celebrará sesiones ordinarias por lo menos una vez cada tr
 
 Para que haya quórum legal será necesaria la asistencia de más del 50% de sus miembros en primera convocatoria, y en segunda, con los que se presenten se podrá declarar abierta legalmente la sesión y sus acuerdos tendrán plena validez.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 18 DE ABRIL DE 2023)</small>
+
+La Junta de Gobierno podrá celebrar sesiones a distancia mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2023)</small>
+
+I. La identificación visual plena de los integrantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2023)</small>
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2023)</small>
+
+III. Garantizar la conexión permanente de todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2023)</small>
+
+IV. Transmitirse en vivo para el público en general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2023)</small>
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2023)</small>
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2023)</small>
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2023)</small>
+
+VIII. La validez del acta y de los acuerdos aprobados se acreditará con la constancia de la votación firmados por quien presidió la sesión.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 ###### Art. 10°.
@@ -366,5 +402,11 @@ SEXTO.- El Consejo Estatal y sus consejeros seguirán en funciones y con las atr
 P.O. 2 DE ABRIL DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27842/LXII/20 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 7° DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO SERVICIOS DE SALUD JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29157/LXIII/23 QUE REFORMA EL ARTÍCULO 9º DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO SERVICIOS DE SALUD JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
