@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2022-04-09"
+last_updated: "2023-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -559,7 +559,7 @@ Si el padre o la madre no pudiesen concurrir por causa justificada, ni tuvieren 
 
 ###### Artículo 46.
 
-Si el infante fuere habido de una relación adulterina, podrá asentarse el nombre del padre, casado o soltero, si lo pidiese; pero no podrá asentarse el nombre de la madre, cuando sea casada y viva con su marido, salvo que éste haya desconocido al infante y exista sentencia ejecutoria que así lo declare. No se expresará en el acta que el hijo es adulterino.
+(DEROGADO, P.O. 18 DE ABRIL DE 2023)
 
 (NOTA: EL 6 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 6/2023, DECLARÓ LA INCONSTITUCIONALIDAD DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 9 DE MAYO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1834,3 +1834,9 @@ P.O. 9 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 28769/LXIII/22 SE REFORMA EL ARTÍCULO 23 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29156/LXIII/23 QUE DEROGA EL ARTÍCULO 46 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
