@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2022-10-18"
+last_updated: "2023-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-01-31"
 
 LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ABRIL DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -1269,7 +1269,13 @@ X. Diseñar y difundir materiales educativos que promuevan la prevención y aten
 
 XI. Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las niñas y las mujeres y políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-XII. Eliminar de los programas educativos los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE ABRIL DE 2023)</small>
+
+XII. Eliminar de los programas educativos los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres.
+
+> <small>(ADICIONADO, D.O.F. 18 DE ABRIL DE 2023)</small>
+
+La Secretaría tendrá que incluir en los Planes y Programas de Estudio, el derecho de las mujeres, adolescentes y niñas a una vida libre de violencias y la educación con perspectiva de género, los que serán ejes transversales, para la prevención, integración y desarrollo social; y para el logro de la igualdad entre mujeres y hombres;
 
 XIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
 
@@ -1978,3 +1984,11 @@ D.O.F. 18 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 6 DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN XII DEL ARTÍCULO 45 DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría de Educación Pública tendrá 180 días hábiles para realizar el estudio, análisis y modificación a los planes de estudios para implementar en estos el derecho de las mujeres, adolescentes y niñas a una vida libre de violencias y la educación con perspectiva de género.
