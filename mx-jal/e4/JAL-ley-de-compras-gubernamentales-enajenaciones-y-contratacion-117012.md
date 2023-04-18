@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-compras-gubernamentales-enajenaciones-y-contratacion-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-27"
-last_updated: "2023-01-10"
+last_updated: "2023-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2023.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 27 de octubre de 2016.
 
@@ -743,7 +743,9 @@ IV. Por el magistrado expresamente señalado en la normatividad secundaria del P
 
 1. Las sesiones del Comité se verificarán ordinariamente en forma quincenal excepto cuando no se tengan asuntos que tratar; y extraordinariamente cuantas veces sea necesario.
 
-2. En casos fortuitos, de fuerza mayor o cuando existan causas que ponga en riesgo la vida, la salud e integridad de las personas que integran el Comité, que impidan la posibilidad de reunirse de manera presencial en un mismo lugar; las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas que permitan, cumpliendo con lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE ABRIL DE 2023)</small>
+
+2. Las sesiones podrán celebrarse de manera presencial, a distancia o en modelo híbrido. Para efectos de esta ley, el modelo híbrido consistirá en la simultaneidad de las formas presencial y a distancia, mediante el uso de herramientas tecnológicas, cumpliendo con lo siguiente:
 
 I. La identificación visual plena de los integrantes del Comité;
 
@@ -753,11 +755,19 @@ III. Se debe garantizar la conexión permanente de todos los miembros del Comit�
 
 IV. El desahogo de este tipo de sesiones debe transmitirse en vivo para el público en general, debiendo contar con un soporte de grabación de audio y video que garantice el testimonio de las participantes de todos los integrantes; y
 
-V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2023)</small>
 
-3. En los casos mencionados en el párrafo anterior, la convocatoria, celebración de las sesiones a distancia y redacción y formalización de las sesiones a distancia y redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
+V. Dejar registro audiovisual y documental de la sesión: asistencia, votaciones, comentarios de vocales o invitados permanentes y sus acuerdos.
 
-4. El Comité únicamente sesionará cuando se encuentren presentes la mayoría de sus integrantes. En caso de no verificarse quórum, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2023)</small>
+
+3. En los casos mencionados en el párrafo anterior, la convocatoria a celebración de las sesiones híbridas y a distancia podrán realizarse por medios físicos o electrónicos, siempre y cuando sean oficiales o determinados por el organismo público o privado al que representen.
+
+La constancia de la convocatoria y la redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2023)</small>
+
+4. El Comité únicamente sesionará cuando se encuentren presentes la mayoría de sus integrantes. En caso de no verificarse quórum, el presidente podrá convocar por medios físicos o electrónicos oficiales con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Artículo 29.
 
@@ -2396,3 +2406,9 @@ P.O. 10 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29118/LXIII/22 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 146 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29174/LXIII/23 QUE REFORMA EL ARTÍCULO 28 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
