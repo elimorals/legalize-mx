@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-jge156-2019-de-la-junta-general-ejecutiva-del-13957
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-12-13"
-last_updated: "2019-12-13"
+last_updated: "2023-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139574&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2019-10-03"
 
 EXTRACTO DEL ACUERDO INE/JGE156/2019 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA LA ESTRATEGIA INNOVAINE Y LOS LINEAMIENTOS PARA EL FUNCIONAMIENTO DEL COMITÉ DE INNOVACIÓN DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LA MODIFICACIÓN DE LA ESTRATEGIA DE INNOVACIÓN DEL INSTITUTO NACIONAL ELECTORAL, DE CONFORMIDAD CON EL ANEXO QUE ACOMPAÑA AL PRESENTE ACUERDO Y FORMA PARTE INTEGRAL DEL MISMO PUBLICADA EN EL D.O.F. DE 18 DE ABRIL DE 2023, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ABRIL DE 2023.
 
 Extracto publicado en el Diario Oficial de la Federación, el viernes 13 de diciembre de 2019.
 
@@ -62,3 +64,35 @@ INE Lineamientos para el Funcionamiento del Comité de Innovación del INE:
 https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/112333/JGEor201908-26-ap-8-2-a1.pdf?sequence=2&isAllowed=y
 
 Ciudad de México, a 03 de octubre de 2019.- El Director Ejecutivo de Administración, Bogart Montiel Reyna.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE ABRIL DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL “EXTRACTO DEL ACUERDO INE/JGE41/2023 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA LA MODIFICACIÓN A LA ESTRATEGIA DE INNOVACIÓN DEL INSTITUTO, INNOVAINE”.]</small>
+
+PRIMERO.- Se aprueba la modificación de la Estrategia de Innovación del Instituto Nacional Electoral, de conformidad con el anexo que acompaña al presente acuerdo y forma parte integral del mismo.
+
+SEGUNDO.- La modificación de la Estrategia de Innovación del Instituto Nacional Electoral entrará en vigor a partir del día hábil siguiente a su aprobación por la Junta General Ejecutiva y será de observancia obligatoria para todas las unidades administrativas del Instituto Nacional Electoral en lo que a ellas corresponda.
+
+(...)
+
+SEXTO.- Publíquese el presente acuerdo en la Gaceta Electoral, en el portal de internet del Instituto Nacional Electoral y en la NormaINE, así como un extracto del acuerdo y la liga electrónica para consultar la Estrategia de Innovación en el Diario Oficial de la Federación.
+
+El presente Acuerdo fue aprobado en sesión extraordinaria de la Junta General Ejecutiva celebrada el 21 de febrero de 2023, por votación unánime, (…) El Consejero Presidente del Consejo General y Presidente de la Junta General Ejecutiva del Instituto Nacional Electoral, Dr. Lorenzo Córdova Vianello. - Rúbrica. - El Secretario Ejecutivo y Secretario de la Junta General Ejecutiva del Instituto Nacional Electoral, Lic. Edmundo Jacobo Molina. - Rúbrica.
+
+El acuerdo completo y sus anexos que forman parte del mismo se encuentran disponibles para su consulta en las siguientes direcciones electrónicas:
+
+DOF:
+
+www.dof.gob.mx/2023/INE/JGEext202302_21_ap_7_1.pdf
+
+INE Acuerdo:
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/149621/JGEex202302-21-ap-7-1.pdf
+
+Estrategia InnovaINE:
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/149621/JGEex202302-21-ap-7-1-a.pdf
+
+Ciudad de México, a 24 de febrero de 2023.- Directora Ejecutiva de Administración, Ana Laura Martínez de Lara.- Rúbrica.
