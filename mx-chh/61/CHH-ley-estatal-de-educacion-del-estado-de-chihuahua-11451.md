@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2023-04-08"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2023.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -116,6 +116,10 @@ XIV. Sistema de Competencias Educativas: Conjunto de procesos o elementos para l
 > <small>(ADICIONADA, P.O. 4 DE MAYO DE 2022)</small>
 
 XV. Educación en gestión menstrual: Los conocimientos y acciones tendientes a disminuir brechas de desigualdad en el proceso educativo para las mujeres con motivo de la menstruación.
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+XVI. Higiene Bucodental: Conjunto de conocimientos, prácticas y hábitos tendientes al cuidado, limpieza, conservación de la salud y prevención de enfermedades, pertenecientes o relativas a la boca y los dientes.
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
 
@@ -252,6 +256,10 @@ XXIV. Promover, en conjunto con organismos especializados, programas que conteng
 > <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
 
 XXV. Promover la educación intercultural en pro de la paz y el entendimiento entre las expresiones culturales compartidas.
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+XXVI. Promover la higiene bucodental.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2014)</small>
 
@@ -4612,6 +4620,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 8 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0265/2022 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ESTATAL DE EDUCACIÓN, A FIN DE GARANTIZAR EL EQUIPAMIENTO Y HERRAMIENTAS NECESARIAS PARA EL EJERCICIO DOCENTE”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0518/2023 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE EDUCACIÓN Y A LA LEY DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
