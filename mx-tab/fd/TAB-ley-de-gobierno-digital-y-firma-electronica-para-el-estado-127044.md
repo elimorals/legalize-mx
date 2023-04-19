@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-gobierno-digital-y-firma-electronica-para-el-estado-1270
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2018-03-07"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE GOBIERNO DIGITAL Y FIRMA ELECTRÓNICA PARA EL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 7 de marzo de 2018.
 
@@ -103,11 +103,15 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I. Agenda Digital: La Agenda Digital Tabasco;
 
-II. Autoridad Certificadora: El Servicio de Administración Tributaria, órgano desconcentrado de la Secretaría de Hacienda y Crédito Público del Gobierno Federal, con base en los convenios de colaboración celebrados para la utilización de la Firma Electrónica Avanzada, en términos de la Ley de Firma Electrónica Avanzada;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+II. Autoridad Certificadora: El servicio de Administración Tributaria, órgano desconcentrado de la Secretaría de Hacienda y Crédito Público del Gobierno Federal, con base en los convenios de colaboración celebrados para la utilización de la firma electrónica avanzada, en términos de la Ley de Firma Electrónica Avanzada, así como la Unidad Certificadora adscrita a la Secretaría y las demás que se autoricen en términos de la normatividad aplicable;
 
 III. Ayuntamientos: Los Ayuntamientos de los Municipios del Estado de Tabasco;
 
-IV. Certificado de Firma Electrónica: El certificado digital de Firma Electrónica Avanzada expedido por el Servicio de Administración Tributaria;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+IV. Certificado de Firma Electrónica: el Certificado digital de Firma Electrónica Avanzada expedido por la Autoridad Certificadora;
 
 V. Consejo Estatal: El Consejo Estatal de Gobierno Digital;
 
@@ -123,11 +127,13 @@ X. Interoperabilidad: La capacidad estandarizada de los sistemas informáticos p
 
 XI. Medios electrónicos: Los dispositivos tecnológicos utilizados para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados o microondas, incluyendo correo electrónico, texto y mensajería instantánea, chat de texto, videollamadas y demás tecnologías desarrolladas para tal fin;
 
-XII. Padrón Único de Usuarios de Gobierno Digital: Sistema informático estandarizado integrado por la información y documentación de los usuarios, con el objeto de simplificar la gestión de trámites y servicios y demás actos de los entes públicos;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+XII. Padrones de Usuarios de Sistemas Informáticos: Conjunto de datos de los usuarios de los sistemas informáticos estandarizados y susceptibles de ser interoperables, administrados por los Sujetos de la Ley, los cuales podrán vincularse progresivamente;
 
 XIII. Secretaría: A la Secretaría de Administración e Innovación Gubernamental del Gobierno del Estado;
 
-XIV. SETyS: Sistema Estatal de Trámites y Servicios para la Ventanilla Única;
+XIV. (DEROGADA, P.O. 19 DE ABRIL DE 2023)
 
 XV. Sitio(s) web: Los sitios electrónicos así como los canales de presentación, comunicación, información e interacción con los usuarios, entendiéndose por éstos los construidos, reconocidos oficialmente y colocados a disposición de los usuarios, los visitantes y los interesados a través de Internet;
 
@@ -177,15 +183,21 @@ I. Un Presidente, quien será el Titular del Poder Ejecutivo del Estado;
 
 II. Un Vicepresidente quien será el Titular de la Secretaría de Administración e Innovación Gubernamental;
 
-III. Un Secretario Ejecutivo, quien será el Titular de la Coordinación de Modernización Administrativa e Innovación Gubernamental de la Secretaría de Administración e Innovación Gubernamental; y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+III. Un Secretario Ejecutivo, quien será el Titular de la Coordinación General de Modernización Administrativa e Innovación Gubernamental de la Secretaría de Administración e Innovación Gubernamental; y
 
 IV. Vocales, que serán:
 
 a) El Titular de la Secretaría de Gobierno;
 
-b) El Titular de la Secretaría de Planeación y Finanzas;
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
 
-c) El Titular de la Secretaría de Contraloría;
+b) El Titular de la Secretaría de Finanzas;
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
+
+c) El Titular de la Secretaría de la Función Pública;
 
 d) El Titular de la Coordinación General de Asuntos Jurídicos;
 
@@ -193,11 +205,17 @@ e) El Titular de la Secretaría de Educación;
 
 f) El Titular de la Secretaría de Salud;
 
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2023)</small>
+
+f) Bis. El titular de la Secretaría para el Desarrollo Económico y la Competitividad;
+
 g) El Diputado Presidente de la Junta de Coordinación Política del Poder Legislativo del Estado;
 
 h) El Magistrado Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Poder Judicial del Estado;
 
-i) El Comisionado Presidente del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública del Estado de Tabasco;
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
+
+i) El Comisionado Presidente del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública;
 
 j) El Presidente de la Comisión Estatal de los Derechos Humanos;
 
@@ -271,7 +289,7 @@ III. Presentar el Proyecto General de Estándares en materia de TIC's para la ap
 
 IV. Conducir y asegurar la gobernabilidad de las Tecnologías de la Información y Comunicaciones, datos abiertos y aplicaciones móviles, en la Administración Pública Estatal;
 
-V. Gestionar, desarrollar e impulsar, el Sistema Estatal de Trámites y Servicios para la Ventanilla Única, garantizando en todo caso su accesibilidad y disponibilidad a los usuarios en general;
+V. (DEROGADA, P.O. 19 DE ABRIL DE 2023)
 
 VI. Celebrar acuerdos, convenios y demás instrumentos jurídicos con los gobiernos federal y municipales, organizaciones e instituciones del sector social, privado, académico, y especialistas nacionales e internacionales, en el uso de las Tecnologías de Información y Comunicaciones para impulsar el Gobierno Digital en el Estado de Tabasco;
 
@@ -287,9 +305,17 @@ XI. Impulsar proyectos transversales en materia de Tecnologías de la Informaci�
 
 XII. Proponer soluciones innovadoras que conduzcan al establecimiento y optimización de trámites y servicios electrónicos de los Sujetos de la Ley;
 
-XIII. Proponer los esquemas tecnológicos que garanticen controles efectivos con relación a la seguridad de los sistemas de información que sustentan los trámites y servicios electrónicos; y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
 
-XIV. Las demás que le confieran la presente Ley y demás disposiciones jurídicas.
+XIII. Proponer los esquemas tecnológicos que garanticen controles efectivos con relación a la seguridad de los sistemas de información que sustentan los trámites y servicios electrónicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ABRIL DE 2023)</small>
+
+XIV. Celebrar Convenios de colaboración con los Poderes del Estado, los Ayuntamientos y los Órganos Autónomos del estado, para la utilización del Certificado de Firma Electrónica; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE ABRIL DE 2023)</small>
+
+XV. Las demás que le confieran la presente Ley y otras disposiciones jurídicas.
 
 ### CAPÍTULO III. DE LOS INSTRUMENTOS DEL GOBIERNO DIGITAL
 
@@ -383,13 +409,15 @@ X. Las demás que considere el Consejo Estatal, con motivo de avances tecnológi
 
 #### SECCIÓN TERCERA. DE LOS PORTALES INFORMATIVOS A LOS PORTALES TRANSACCIONALES
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 19.
 
-Los Sujetos de la Ley deberán transformar sus portales informativos en transaccionales, para que los usuarios puedan realizar, de manera ágil y sencilla, los trámites y servicios electrónicos que ofrecen en sus respectivos ámbitos de competencia.
+Los Sujetos de la Ley deberán transformar sus portales informativos en transaccionales, para que los usuarios puedan realizar, de manera ágil y sencilla todos aquellos procedimientos electrónicos que ofrezcan en sus respectivos ámbitos de competencia, debiendo observar para tal efecto la normatividad que resulte aplicable.
 
 ###### ARTÍCULO 20.
 
-Los Sujetos de la Ley deberán mantener actualizados en los catálogos o registros que correspondan, los requisitos y datos para la realización de los trámites y servicios electrónicos que presten a través de sus respectivos portales transaccionales.
+(DEROGADO, P.O. 19 DE ABRIL DE 2023)
 
 ###### ARTÍCULO 21.
 
@@ -423,9 +451,21 @@ VIII. Revisar las condiciones físicas donde opere la infraestructura de Tecnolo
 
 IX. Presentar anualmente ante el Secretario Ejecutivo del Consejo Estatal su Programa de Trabajo en materia de Tecnologías de la Información y Comunicaciones;
 
-X. Atender las solicitudes que presenten los usuarios para hacer accesibles por medios electrónicos, trámites que no se ofrezcan de manera digital, siempre que las plataformas tecnológicas así lo permitan y dando prioridad a aquellas solicitudes que representen un mayor beneficio a la ciudadanía; y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
 
-XI. Las demás que considere necesarias el Consejo Estatal.
+X. Atender las solicitudes que presenten los usuarios para hacer accesibles por medios electrónicos, trámites que no se ofrezcan de manera digital, siempre que las plataformas tecnológicas así lo permitan y dando prioridad a aquellas solicitudes que representen un mayor beneficio a la ciudadanía, debiendo observar para tal efecto la normatividad que resulte aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ABRIL DE 2023)</small>
+
+XI. Integrar en el ámbito de su competencia, Padrones de Usuarios de Sistemas Informáticos, asegurando su interoperabilidad, de modo que puedan ser compartidos bajo el principio de datos abiertos;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+XII. Impulsar la sistematización de procesos y procedimientos que propicien la interoperabilidad y la transaccionalidad, en el ámbito de su competencia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE ABRIL DE 2023)</small>
+
+XIII. Las demás que considere necesarias el Consejo Estatal.
 
 #### SECCIÓN SEGUNDA. DE LAS FUNCIONES DE LOS AYUNTAMIENTOS
 
@@ -533,37 +573,33 @@ VII. Comprobar su identidad a través de medios electrónicos o a través de los
 
 VIII. Los demás que establezca esta Ley y su Reglamento.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ABRIL DE 2023)</small>
+
 ### CAPÍTULO VIII. DE LOS TRÁMITES Y SERVICIOS
 
 ###### ARTÍCULO 38.
 
-Para facilitar el acceso de los usuarios a la información, trámites y servicios que brindan los Sujetos de la Ley, éstos deberán:
-
-I. Desarrollar trámites y servicios digitales integrados privilegiando la sistematización de procesos y su integración a las diferentes plataformas del ámbito nacional;
-
-II. Promover los esquemas de pago de derechos de trámites y servicios por medios electrónicos;
-
-III. Privilegiar el uso de la firma electrónica; y
-
-IV. Integrar en el ámbito de su competencia, un Padrón de Usuarios de Gobierno Digital y compartirlo con los demás Sujetos de la Ley bajo los principios de datos abiertos, asegurando su interoperabilidad.
+(DEROGADO, P.O. 19 DE ABRIL DE 2023)
 
 ###### ARTÍCULO 39.
 
-De existir una solicitud de trámite digital por escrito de un usuario a cualquier sujeto de la Ley, éste deberá registrar y sistematizar los trámites aplicables, privilegiando la reutilización de plataformas existentes y tomando en cuenta el orden de prelación de las solicitudes presentadas.
+(DEROGADO, P.O. 19 DE ABRIL DE 2023)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ABRIL DE 2023)</small>
 
 ### CAPÍTULO IX. DEL SISTEMA ESTATAL DE TRÁMITES Y SERVICIOS PARA LA VENTANILLA ÚNICA (SETyS)
 
 ###### ARTÍCULO 40.
 
-El SETyS es un conjunto de componentes informáticos que constituyen la herramienta que permite gestionar por medios electrónicos trámites y servicios que corresponde prestar a la Administración Pública Estatal.
+(DEROGADO, P.O. 19 DE ABRIL DE 2023)
 
 ###### ARTÍCULO 41.
 
-La implementación del SETyS no excluye ni limita la posibilidad de la realización de trámites y servicios de manera presencial directamente ante las dependencias, órganos y entidades de la Administración Pública Estatal.
+(DEROGADO, P.O. 19 DE ABRIL DE 2023)
 
 ###### ARTÍCULO 42.
 
-El funcionamiento del SETyS estará regulado en los términos que emitan conjuntamente las Secretarías de Administración e Innovación Gubernamental; de Contraloría; y de Desarrollo Económico y Turismo.
+(DEROGADO, P.O. 19 DE ABRIL DE 2023)
 
 ### CAPÍTULO X. DE LA INFRAESTRUCTURA, LA INTEROPERABILIDAD Y LA CONECTIVIDAD
 
@@ -621,9 +657,35 @@ Los Sujetos de la Ley deberán verificar ante la Autoridad Certificadora la aute
 
 La certificación de las firmas electrónicas de los Sujetos de la Ley y los usuarios se realizará mediante la Autoridad Certificadora.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 52.
 
-La Autoridad Certificadora tendrá las atribuciones establecidas en la Ley de Firma Electrónica Avanzada, y demás normatividad aplicable.
+La Autoridad Certificadora, en el ámbito de su competencia, tendrá las atribuciones establecidas en la normatividad que le resulte aplicable.
+
+La persona titular de la Coordinación General de Modernización Administrativa e Innovación Gubernamental de la Secretaría, fungirá como titular de la Unidad Certificadora del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2023)</small>
+
+ARTÍCULO 52 BIS. La Unidad Certificadora tendrá las atribuciones siguientes:
+
+I. Emitir, previo acuerdo con el titular de la secretaría, los lineamientos para regular los servicios de certificación y uso de la Firma Electrónica Avanzada, así como los relativos a la interoperabilidad de los datos y sistemas informáticos, a la sistematización de procesos y procedimientos y cualquier otro para lograr la gobernanza digital;
+
+II. Proponer al titular de la Secretaría la celebración de convenios de colaboración con los Poderes del Estado, los Ayuntamientos y los Órganos Autónomos del Estado, para la utilización del Certificado de Firma Electrónica;
+
+III. Emitir, administrar y registrar Certificados de Firma Electrónica, así como prestar servicios relacionados con la Firma Electrónica Avanzada, en el ámbito de su competencia;
+
+IV. Llevar un registro de los Certificados de Firma Electrónica que emita y de los que revoque, así como proveer los servicios de consulta a los interesados;
+
+V. Adoptar las medidas necesarias para evitar la falsificación, alteración o uso indebido de Certificados de Firma Electrónica, así como de los servicios relacionados con la Firma Electrónica Avanzada, en el ámbito de su competencia;
+
+VI. Revocar los Certificados de Firma Electrónica, en los supuestos previstos en los lineamientos para regular los servicios de certificación y uso de Firma Electrónica Avanzada, que al efecto se emitan;
+
+VII. Garantizar la autenticidad, integridad, conservación, confidencialidad y confiabilidad de la Firma Electrónica Avanzada, así como de los servicios relacionados con la misma, en el ámbito de su competencia;
+
+VIII. Preservar la confidencialidad, integridad y seguridad de los datos personales de los titulares de los Certificados de Firma Electrónica en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco, la Ley de Protección de datos Personales en Posesión de Sujetos Obligados del estado de Tabasco y demás disposiciones jurídicas aplicables, y
+
+IX. Las demás que les confiera las disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 53.
 
@@ -730,3 +792,19 @@ SECRETARIO DE GOBIERNO.
 LIC. JUAN JOSÉ PERALTA FÓCIL.
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 152 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 5, FRACCIONES II, IV Y XII; 8, FRACCIONES III Y IV INCISOS B), C) E I); 11, FRACCIONES XIII Y XIV; 19; 22, FRACCIONES X Y XI, Y; 52; SE ADICIONA EL INCISO F) BIS, A LA FRACCIÓN IV DEL ARTÍCULO 8; LA FRACCIÓN XV AL ARTÍCULO 11; Y LAS FRACCIONES XII Y XIII AL ARTÍCULO 22; 52 BIS Y SE DEROGA: LA FRACCIÓN XIV DEL ARTÍCULO 5; LA FRACCIÓN V DEL ARTÍCULO 11; EL ARTÍCULO 20; EL CAPÍTULO VIII "DE LOS TRÁMITES Y SERVICIOS", INTEGRADO POR LOS ARTÍCULOS 38 Y 39; Y EL CAPÍTULO IX "DEL SISTEMA ESTATAL DE TRÁMITES Y SERVICIOS PARA LA VENTANILLA ÚNICA (SETYS), INTEGRADO POR LOS ARTÍCULOS 40, 41 Y 42, TODOS DE LA LEY DE GOBIERNO DIGITAL Y FIRMA ELECTRÓNICA PARA EL ESTADO DE TABASCO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente, de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Titular del Poder Ejecutivo expedirá las reformas pertinentes al Reglamento de la Ley de Gobierno Digital y Firma Electrónica para el Estado de Tabasco y sus Municipios, dentro de los ciento ochenta días naturales siguientes a la fecha de entrada en vigor de este Decreto.
+
+CUARTO. Los lineamientos a los que se refiere la fracción I, del artículo 52 BIS de la Ley, deberán emitirse en un plazo no mayor a noventa días naturales siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO. En tanto se realizan las adecuaciones normativas a que se refieren los artículos transitorios tercero y cuarto del presente Decreto, se faculta al Secretario de Administración e Innovación Gubernamental, para que en el ámbito de su competencia resuelva lo conducente.
