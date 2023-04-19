@@ -4,7 +4,7 @@ identifier: "TAB-ley-general-de-transito-y-vialidad-del-estado-de-tabasco-50298"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-03-29"
-last_updated: "2020-06-26"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 29 de marzo de 2006.
 
@@ -53,47 +53,53 @@ LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO
 
 La presente Ley es de orden público e interés social en el Estado de Tabasco; tiene por objeto regular y ordenar la circulación de vehículos, peatones y animales en el uso de la vía pública, carreteras, puentes estatales y caminos rurales, así como la estructura vial y el medio ambiente en cuanto fueren las causas de tránsito.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 2.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Conductor: Toda persona que maneje un vehículo por la vía pública;
+I. Conductor: toda persona que maneje un vehículo por la Vía pública;
 
-II. Infracción: Conducta realizada por el usuario de la vía pública que transgrede alguna disposición de esta Ley y su Reglamento, y que tiene como consecuencia una sanción;
+II. Código QR: módulo para almacenar información en una matriz de puntos o en un código de barras bidimensional, el cual se lee mediante un dispositivo móvil;
 
-III. Peatón: Toda persona que transita a pie por la vía pública;
+III. Dispositivos electrónicos: al conjunto de aparatos y dispositivos portátiles para el tratamiento de imagen e información para apoyar tareas de seguridad vial;
 
-IV. Prescripción: Extinción de una acción o sanción por el efecto del paso del tiempo;
+IV. Infracción: conducta realizada por el usuario de la Vía pública que transgrede alguna disposición de esta Ley y su Reglamento, y que tiene como consecuencia una sanción la cual será generada mediante dispositivo electrónico o documental;
 
-> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2019)</small>
+V. Licencia de conducir: documento físico y digital emitido por la Secretaría de Seguridad y Protección Ciudadana, en el ejercicio de sus atribuciones, que acredita las habilidades, capacidades o certificaciones necesarias para la conducción de vehículos de transporte según corresponda;
 
-IV bis. Registro Estatal de Vehículos: El establecido en el artículo 81 de la Ley de Hacienda del Estado de Tabasco;
+VI. Persona peatona: persona que transita por la vía a pie o, que por su condición de discapacidad o de movilidad limitada, utilizan ayudas técnicas para desplazarse; incluye menores de 12 años a bordo de un vehículo no motorizado;
 
-> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2019)</small>
+VII. Policía Vial: los elementos adscritos a la Dirección General de la Policía Estatal de Caminos y los elementos del cuerpo policial de las Direcciones de Tránsito Municipal que corresponda, encargados de vigilar el cumplimiento de la presente Ley, su Reglamento y demás disposiciones aplicables;
 
-IV ter. REPUVE: El Registro establecido en la Ley del Registro Público Vehicular;
+VIII. Prescripción: extinción de una acción o sanción por el efecto del paso del tiempo;
 
-V. Sanción: Pena corporal, administrativa o pecuniaria aplicada por actos u omisiones que infrinjan la normatividad en materia de tránsito y vialidad;
+IX. Registro Estatal de Vehículos: el establecido en el artículo 81 de la Ley de Hacienda del Estado de Tabasco;
 
-VI. Tránsito.- Es la acción o efecto de trasladarse por la vía pública;
+X. REPUVE: el Registro establecido en la Ley del Registro Público Vehicular;
 
-VII. Uno por Uno.- Programa de control de tránsito vehicular, que utiliza la colocación de disco o señalamiento con esta leyenda, que las autoridades de tránsito competentes colocan en las intersecciones de las calles con mayor circulación con la finalidad de regular el tráfico, evitar congestionar la vialidad y disminuir la incidencia de accidentes automovilísticos;
+XI. Sanción: acto administrativo coercitivo por incumplimiento a esta Ley y su Reglamento;
 
-VIII. Vía pública: Todo espacio de uso común destinado al tránsito, entre los que se encuentran autopistas, carreteras, puentes, avenidas, calles, andadores, brechas, caminos pavimentados o de terracería, banquetas, pasos de circulación temporal o permanente de competencia estatal o municipal;
+XII. Secretario: la persona titular de la Secretaría de Seguridad y Protección Ciudadana;
 
-IX. Vialidad: Es el sistema de vías públicas utilizado para el tránsito de vehículos, peatones y animales; y
+XIII. Tránsito: es la acción o efecto de trasladarse por la Vía pública;
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
+XIV. Uno por Uno: programa de control de tránsito vehicular, que utiliza la colocación de disco o señalamiento con esta leyenda, que las autoridades de tránsito competentes colocan en las intersecciones de las calles con mayor circulación con la finalidad de regular el tráfico, evitar congestionar la vialidad y disminuir la incidencia de accidentes automovilísticos;
 
-X. Vehículo: Todo medio de transporte terrestre humano, mecánico o animal, independientemente de su fuente de energía, que se utiliza para transportar personas o cosas, y pueden ser en forma enunciativa más no limitativa, los siguientes:
+XV. Vehículo: modo de transporte diseñado para facilitar la movilidad y tránsito de personas o bienes por la vía pública, propulsado por una fuerza humana directa o asistido para ello por un motor de combustión interna, eléctrico o cualquier fuerza motriz;
 
-a) Vehículo motorizado, aquellos vehículos de transporte terrestre de pasajeros o carga, que para su tracción dependen de un motor de combustión interna, eléctrica o de cualquier otra tecnología que le proporciona velocidad a más de 25 kilómetros por hora;
+XVI. Vehículo eficiente: vehículo que cumple con las Normas Oficiales Mexicanas sobre emisiones y con las obligaciones de verificación;
 
-b) Vehículo no motorizado, aquellos vehículos que utilizan tracción humana, pedaleo asistido y/o propulsión eléctrica para su desplazamiento con una velocidad máxima de 25 kilómetros por hora; y
+XVII. Vehículo motorizado: vehículo de transporte terrestre de pasajeros o de carga, que para su tracción dependen de un motor de combustión interna, eléctrica o de cualquier otra tecnología que les proporciona velocidad superior a los veinticinco kilómetros por hora;
 
-c) Vehículo recreativo, aquellos utilizados de manera recreativa o lúdica.
+XVIII. Vehículo no motorizado: vehículo de tracción humana como bicicleta, monociclo, triciclo, cuatriciclo; vehículos recreativos como patines, patinetas y monopatines; incluye a aquellos asistidos por motor de baja potencia no susceptible de alcanzar velocidades mayores a veinticinco kilómetros por hora, y los que son utilizados por personas con discapacidad;
+
+XIX. Vía: espacio físico destinado al tránsito de Personas peatonas y Vehículos;
+
+XX. Vía pública: todo espacio de dominio público y uso común destinado al tránsito de Personas peatonas y Vehículos, así como a la prestación de servicios públicos y la instalación de infraestructura y mobiliario; y
+
+XXI. Vialidad: conjunto integrado de vías de uso común que conforman la traza urbana.
 
 ###### ARTÍCULO 3.
 
@@ -153,7 +159,9 @@ El Poder Ejecutivo del Estado concertará y coordinará con las dependencias de 
 
 Corresponde a los municipios del Estado de Tabasco, en materia de tránsito, vialidad y control vehicular en el ámbito de sus respectivas competencias:
 
-I. Realizar acciones de vigilancia sobre el tránsito y transporte de vehículos, peatones y animales en las carreteras, caminos pavimentados o de terracería, brechas y pasos de circulación temporales o permanentes, e imponer en su caso las sanciones a que se hagan acreedores los que violen las disposiciones de la materia;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+I. Realizar acciones de vigilancia sobre el Tránsito y transporte de Vehículos, Personas peatonas y animales en las carreteras, caminos pavimentados o de terracería, brechas y pasos de circulación temporales o permanentes, e imponer en su caso las sanciones a que se hagan acreedores los que violen las disposiciones de la materia;
 
 II. Construir y dar mantenimiento a las vías públicas de comunicación terrestre, distintas de las carreteras y caminos estatales o federales, sin perjuicio de la participación que pueda tener en la construcción de obra pública de comunicaciones el Gobierno Estatal y el Gobierno Federal;
 
@@ -163,7 +171,9 @@ III. Definir y organizar en sus extensiones territoriales el sentido de la viali
 
 IV. Conocer y resolver las faltas o infracciones de tránsito consideradas en esta Ley o su Reglamento, cometidas dentro de su jurisdicción, incluidas, las contenidas en la fracción V, del artículo 5 de la presente Ley;
 
-V. Dirigir y administrar a la Policía de Tránsito y Vialidad Municipal, así como coordinar sus acciones con las demás autoridades federales, estatales y municipales, a efecto de garantizar la debida circulación y organización del tránsito de vehículos, peatones y animales en el municipio, de igual manera coadyuvará en la procuración y salvaguarda del orden e interés público; y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+V. Dirigir y administrar a la Policía de Tránsito y Vialidad Municipal, así como coordinar sus acciones con las demás autoridades federales, estatales y municipales, a efecto de garantizar la debida circulación y organización del Tránsito de Vehículos, Personas peatonas y animales en el municipio, de igual manera coadyuvará en la procuración y salvaguarda del orden e interés público; y
 
 VI. Las demás que les confiera expresamente esta Ley y demás ordenamientos legales.
 
@@ -181,9 +191,11 @@ Las autoridades estatales y municipales podrán celebrar acuerdos con municipios
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 9.
 
-Toda obra que se construya, instale o que afecte la circulación de vehículos o peatones en la vía pública, debe ajustarse a las normas básicas de seguridad vial que especifique el reglamento, considerando la diversidad de vías para cada tipo de tránsito, debiendo otorgar facilidades a personas con discapacidad.
+Toda obra que se construya, instale o que afecte la circulación de Vehículos o Personas peatonas en la Vía pública, debe ajustarse a las normas básicas de seguridad vial que especifique el reglamento, considerando la diversidad de vías para cada tipo de Tránsito, debiendo otorgar facilidades a personas con discapacidad.
 
 Cuando la infraestructura no pueda adaptarse a las necesidades de la circulación, ésta deberá desenvolverse en las condiciones de seguridad preventiva que imponga el reglamento de esta ley.
 
@@ -205,7 +217,9 @@ Toda obra en la vía pública destinada a reconstruir o mejorar la misma, a la i
 
 Cuando por razones de urgencia en la reparación del servicio no pueda tramitarse el permiso correspondiente, la empresa que realice los trabajos y la autoridad misma, tratándose de obra pública, deberán instalar los dispositivos de advertencia adecuados, conforme a los trabajos que se lleven a cabo, debiendo sujetarse la empresa y el responsable de la ejecución de las obras, a las consecuencias civiles, penales y administrativas a que hubiere lugar por los hechos o incidentes que resultaren de dicha omisión.
 
-Durante la ejecución de obras en la vía pública debe preverse cuando así sea posible, paso alterno que garantice el tránsito de vehículos y peatones y no presente perjuicio o riesgo alguno.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
+
+Durante la ejecución de obras en la Vía pública debe preverse cuando así sea posible, paso alterno que garantice el Tránsito de Vehículos y Personas peatonas y no presente perjuicio o riesgo alguno.
 
 ###### ARTÍCULO 12.
 
@@ -239,9 +253,11 @@ Con excepción de las señales de tránsito y obras de la estructura vial, todos
 
 Por las infracciones a este artículo y al que le antecede, responderán solidariamente, propietarios, publicistas y anunciantes que no tengan o violenten el permiso que otorgue previamente la autoridad local, teniendo especialmente en cuenta la seguridad del usuario de la vía pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 15.
 
-Toda construcción a realizarse dentro de la zona de circulación en la vía pública deberá contar con la autorización previa de la autoridad competente y tratándose de ésta por sí o mediante contratista, en ejecución de construcción de obra pública, mantenimiento o mejoras de servicios públicos, deberá realizarse en horarios y fechas que no causen obstáculos a la circulación de vehículos y peatones, a excepción de las obras en las que por motivo de la urgencia o naturaleza de éstas, no sea posible sujetarse a esta disposición, deberá darse la mayor celeridad en la ejecución de los trabajos.
+Toda construcción a realizarse dentro de la zona de circulación en la Vía pública deberá contar con la autorización previa de la autoridad competente y tratándose de ésta por sí o mediante contratista, en ejecución de construcción de obra pública, mantenimiento o mejoras de servicios públicos, deberá realizarse en horarios y fechas que no causen obstáculos a la circulación de Vehículos y Personas peatonas, a excepción de las obras en las que por motivo de la urgencia o naturaleza de éstas, no sea posible sujetarse a esta disposición, deberá darse la mayor celeridad en la ejecución de los trabajos.
 
 La autoridad competente podrá realizar o autorizar construcciones de obras permanentes utilizando el espacio aéreo de la zona de tránsito en la vía pública, fijadas sobre estructuras seguras y que no representen un peligro para la circulación. A efectos de no entorpecer la vialidad, la autoridad competente deberá fijar las alturas libres entre el suelo y las construcciones a ejecutar. Para este tipo de edificaciones se podrán prever y autorizar desvíos y zonas de estacionamiento fuera de los caminos.
 
@@ -255,11 +271,13 @@ Para aquellos caminos con construcciones existentes, la autoridad competente deb
 
 Del usuario de la vía pública.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 16.
 
-Se considerará usuario de la vía pública además de los peatones y pasajeros, a todo conductor de vehículo de tracción mecánica, humana o animal que independientemente de sus dimensiones, usos o características, se desplace sobre la red carretera estatal, avenidas, calles, boulevards, o caminos pavimentados o de terracería en zonas urbanas, y caminos pavimentados o de terracería en zonas rurales.
+Se considerará usuario de la Vía pública además de las Personas peatonas y pasajeros, a todo conductor de Vehículo de tracción mecánica, humana o animal que independientemente de sus dimensiones, usos o características, se desplace sobre la red carretera estatal, avenidas, calles, bulevares, o caminos pavimentados o de terracería en zonas urbanas, y caminos pavimentados o de terracería en zonas rurales.
 
-Quien acceda a la vía pública, automáticamente se convierte en usuario y por ende, sea peatón, conductor o pasajero, está obligado a respetar las disposiciones de esta Ley, su Reglamento y demás disposiciones aplicables.
+Quien acceda a la Vía pública, automáticamente se convierte en usuario y por ende, sea Persona peatona, conductor o pasajero, está obligado a respetar las disposiciones de esta Ley, su Reglamento y demás disposiciones aplicables.
 
 ###### ARTÍCULO 17.
 
@@ -283,27 +301,37 @@ Para los fines de esta Ley, las autoridades competentes estarán obligadas a imp
 
 ### Capítulo I. De la expedición de licencias y permisos para conducir
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 19.
 
-Toda persona que conduzca un vehículo por las vías públicas del Estado, deberá obtener y portar una licencia de manejo: de automovilista, motociclista o chofer, según corresponda al tipo y características de vehículo que conduzca, observando los siguientes criterios:
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Toda persona que conduzca un Vehículo por las Vías públicas del Estado, deberá obtener, portar y exhibir una Licencia de conducir: de automovilista, motociclista o chofer, según corresponda al tipo y características de Vehículo que conduzca, observando los siguientes criterios:
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 I. Las licencias podrán otorgarse por una validez de 2, 5 o 10 años. Para la renovación, cada 10 años, deberá aprobarse los exámenes de aptitud. En los casos de registrar antecedentes por infracciones NO PAGADAS O SE ACREDITE HABER INCURRIDO EN MAS DE 2 INFRACCIONES, el conductor deberá revalidar los exámenes teóricos-prácticos;
 
-II. A partir de la edad de 65 años podrán expedirse licencias únicamente por 2 años siempre y cuando el conductor apruebe los exámenes de aptitud física y psicológicos correspondientes; y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+II. A partir de la edad de 75 años podrán expedirse licencias siempre y cuando el conductor apruebe los exámenes de aptitud física correspondientes; y
 
 III. Todo titular de una licencia de manejo deberá acatar las disposiciones normativas sobre su expedición, renovación y reposición, así como los controles y ordenes que imparta la autoridad de tránsito en el ejercicio de sus funciones.
 
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2023)</small>
+
+La Licencia de conducir es intransferible y de uso exclusivo del titular de la misma, su versión digital no podrá ser compartida, ni descargada por terceras personas, por lo que el uso indebido de la misma, implica responsabilidad penal y administrativa, conforme a las disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 20.
 
-Para expedir una licencia de manejo por primera vez, la autoridad competente deberá exigir al solicitante los siguientes requisitos:
+Para expedir una Licencia de conducir por primera vez, la autoridad competente deberá exigir al solicitante los siguientes requisitos:
 
 I. Que sea apto física y mentalmente para conducir el vehículo que corresponde a la modalidad de la licencia, solicitando por escrito mediante los formatos respectivos, la emisión de la licencia;
 
-II. En los casos de personas con discapacidad que puedan conducir con las adaptaciones pertinentes a sus vehículos, la autoridad deberá asegurarse mediante perito o especialista en la materia, que el estado físico del solicitante no constituye un impedimento insalvable que ponga en riesgo la vida e integridad corporal del conductor, sus pasajeros y demás conductores y peatones que hagan uso de la vía pública;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+II. En los casos de personas con discapacidad que puedan conducir con las adaptaciones pertinentes a sus Vehículos, la autoridad deberá asegurarse mediante perito o especialista en la materia, que el estado físico del solicitante no constituye un impedimento insalvable que ponga en riesgo la vida e integridad corporal del conductor, sus pasajeros y demás conductores y Personas peatonas que hagan uso de la Vía pública;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
@@ -317,9 +345,11 @@ IV. Una declaración bajo protesta de decir verdad sobre el padecimiento de afec
 
 V. La constancia de educación vial expedida por la Dirección de Ingeniería de Tránsito, Educación y Seguridad Vial de la Policía Estatal de Caminos o la Dirección de Tránsito Municipal de su residencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 21.
 
-La licencia de manejo de automovilista, motociclista o chofer, deberá contener indistintamente los siguientes datos:
+La Licencia de conducir de automovilista, motociclista o chofer, deberá contener indistintamente los siguientes datos:
 
 I. Apellidos, nombre, fecha de nacimiento y nacionalidad del Titular;
 
@@ -333,9 +363,17 @@ V. Clase de licencia especificando los tipos de vehículos que le autorizan a co
 
 VI. Fecha de otorgamiento y vencimiento;
 
-VII. Apellidos, nombre, firma, cargo del responsable de autorizar la licencia y Dependencia expedidora; y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
 
-VIII. Grupo y factor sanguíneo del Titular.
+VII. Apellidos, nombre o nombres, firma, cargo del responsable de autorizar la licencia y Dependencia expedidora;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+VIII. Grupo y factor sanguíneo del Titular; y
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+IX. Código QR.
 
 ###### ARTÍCULO 22.
 
@@ -351,9 +389,11 @@ III. Chofer: se expedirá a personas que pretendan conducir vehículos del servi
 
 La expedición de licencias y permisos para conducir en el Estado, es una facultad que corresponde a la Dirección General de la Policía Estatal de Caminos; habilitarán a su titular para conducir cualquier tipo de vehículo que corresponda a su modalidad de licencia, en toda la red carretera estatal.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 23.
 
-Vencido el plazo de vigencia de una licencia de manejo, el titular de la misma deberá hacer el trámite de renovación presentando la licencia anterior vencida, cumplir con lo exigido en el artículo 20 de esta ley y efectuar el pago de los derechos correspondientes ante la Secretaría de Finanzas; cuando no se presente el documento se procederá a la reposición del mismo, sin más requisitos que el pago de los derechos correspondientes. Cuando existan antecedentes de adeudo de infracciones, suspensiones o cancelaciones, el titular de la licencia deberá sujetarse al cumplimiento de las disposiciones que para cada caso se hayan determinado.
+Vencido el plazo de vigencia de una Licencia de conducir, el titular de la misma deberá hacer el trámite de renovación, así como cumplir con lo exigido en el artículo 20 de esta Ley y efectuar el pago de los derechos correspondientes ante la Secretaría de Finanzas. Cuando existan antecedentes de adeudo de Infracciones, suspensiones o cancelaciones, el titular de la Licencia de conducir deberá sujetarse al cumplimiento de las disposiciones que para cada caso se hayan determinado.
 
 ### Capítulo II
 
@@ -385,7 +425,9 @@ II. Aprobar el menor los exámenes correspondientes que la autoridad determine;
 
 III. Declaración bajo protesta de decir verdad, sobre sus padecimientos de salud;
 
-IV. En caso de personas con discapacidad, se aplicarán los mismos criterios que para la expedición de la licencia de manejo; y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+IV. En caso de personas con discapacidad, se aplicarán los mismos criterios que para la expedición de la Licencia de conducir; y
 
 V. Datos de identificación general y de notificación en casos de urgencia o accidentes.
 
@@ -403,19 +445,23 @@ Las licencias expedidas en otras entidades federativas o en el extranjero, que s
 
 En el caso de las licencias expedidas en el extranjero, su validez será de seis meses contados a partir de la fecha de entrada al país, una vez cumplido este término las personas extranjeras deberán solicitar el permiso para conducir a que se refiere este artículo.
 
-### Capítulo IV
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ABRIL DE 2023)</small>
 
-De la suspensión y cancelación de la licencia de manejo.
+### Capítulo IV. De la suspensión y cancelación de la Licencia de conducir
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 28.
 
-La autoridad competente de la expedición de las licencias de manejo podrá suspender la vigencia de las mismas, quedando el titular imposibilitado legalmente a conducir cualquier vehículo durante el tiempo de la suspensión, que procederá como consecuencia de los siguientes casos:
+La Dirección General de la Policía Estatal de Caminos, como autoridad competente para expedir las Licencias de conducir, podrá suspender la vigencia de las mismas, quedando el titular imposibilitado legalmente a conducir cualquier Vehículo durante el tiempo de la suspensión, que procederá como consecuencia de los siguientes casos:
 
 I. Cuando la autoridad hubiere multado al titular de la licencia hasta en 3 ocasiones dentro del periodo de un año por cualquier infracción a las disposiciones de esta Ley y su Reglamento, la licencia le será suspendida por 6 meses contados a partir del momento de la última infracción; en los casos de conducción con exceso de velocidad, en estado de ebriedad o bajo efectos de drogas o estupefacientes, la suspensión surtirá efectos desde la primera infracción por 3 meses, y por 6 meses bajo el mismo supuesto, si el vehículo corresponde al servicio público de transporte de personas; y
 
 II. Cuando el titular de la licencia omita cubrir sus adeudos de multas por infracciones de tránsito, teniendo efectos la suspensión hasta el momento de su saldo total.
 
-Para los efectos de esta Ley y su Reglamento no se considerará habilitado al conductor suspendido que circule en el Estado de Tabasco, que hubiere adquirido una licencia de manejo expedida por otra Entidad Federativa durante el tiempo de la vigencia de la suspensión.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
+
+Para los efectos de esta Ley y su Reglamento no se considerará habilitado al conductor suspendido que circule en el Estado de Tabasco, que hubiere adquirido una Licencia de conducir expedida por otra Entidad Federativa durante el tiempo de la vigencia de la suspensión.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
@@ -423,9 +469,11 @@ Para los efectos de esta Ley y su Reglamento no se considerará habilitado al co
 
 En los casos de suspensión, el titular de la licencia deberá aprobar los exámenes que determine la Dirección General de la Policía Estatal de Caminos, para la reactivación de la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 30.
 
-La autoridad competente de la expedición de la licencia de manejo podrá cancelar la vigencia de la misma, bajo los siguientes supuestos:
+La autoridad competente de la expedición de la Licencia de conducir podrá cancelar la vigencia de la misma, bajo los siguientes supuestos:
 
 l. Cuando se compruebe que la información proporcionada para su expedición sea falsa, o bien algunos de los documentos o constancias exhibidas sean apócrifas;
 
@@ -465,7 +513,9 @@ III. Estar al corriente del pago de sus impuestos de tenencia y refrendo de la u
 
 IV. Contar con instructores que hayan acreditado los cursos especiales para impartir clases de manejo y cuenten con la autorización de la Dirección General de la Policía Estatal de Caminos, para realizar dicha actividad;
 
-V. Los instructores de manejo deberán contar con licencia de conducir vigente;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+V. Los instructores de manejo deberán contar con Licencia de conducir vigente;
 
 VI. Tener vigente un seguro de cobertura amplia sobre responsabilidad civil y daños a terceros;
 
@@ -599,9 +649,11 @@ ARTÍCULO 40 BIS.- Los vehículos al llegar a un cruce o intersección de unas o
 
 Es obligación para todo conductor que circule sobre la vía pública, respetar el señalamiento oficial del UNO por UNO, en sus diferentes diseños y que sean colocados por las autoridades de tránsito competente.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 41.
 
-Cuando por causa legalmente sustentada, la autoridad competente Estatal o Municipal, a través de las corporaciones policiales respectivas, solicite la licencia para conducir u otra documentación exigible, éstas deberán ser devueltas inmediatamente después de verificadas, no pudiendo retenerse sino en los casos que esta Ley lo contemple.
+Cuando por causa legalmente sustentada, la autoridad competente Estatal o Municipal, a través de las corporaciones policiales respectivas, solicite la exhibición de la Licencia de conducir u otra documentación exigible, éstas deberán ser devueltas inmediatamente después de verificadas, salvo en caso que la retención sea contemplada por esta ley.
 
 ###### ARTÍCULO 42.
 
@@ -611,29 +663,39 @@ Cuando una carga excepcional no pueda ser transportada en otra forma o por otro 
 
 La autoridad Estatal o Municipal, dentro del ámbito de su competencia, será la facultada para expedir los permisos a los que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 43.
 
-Los agentes de la Policía Estatal de Caminos y la Municipal en materia de tránsito, en sus respectivas jurisdicciones ante la comisión de infracciones de tránsito, podrán detener un vehículo de pasajeros y de carga, particulares o de servicio público y verificar la debida acreditación de la unidad y su conductor, en términos de la presente Ley, su reglamento y demás normatividad relativa aplicable.
+Los Policías viales, en sus respectivas jurisdicciones ante la comisión de Infracciones de Tránsito, podrán detener un Vehículo de pasajeros y de carga, particulares o de servicio público y verificar la debida acreditación de la unidad y su conductor, en términos de la presente Ley, su Reglamento y demás normatividad relativa aplicable.
 
-### Capítulo II
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ABRIL DE 2023)</small>
 
-De los peatones, escolares y personas con discapacidad.
+### Capítulo II. De las Personas peatonas, escolares y personas con discapacidad
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 44.
 
-Todas las personas que en su calidad de peatones transiten por la vía pública, están obligadas a cumplir en lo que a ellos concierne, con las disposiciones de esta Ley y su reglamento, así como las indicaciones que hagan los oficiales o agentes cuando dirijan el tránsito.
+Todas las Personas peatonas que transiten por la Vía pública, están obligadas a cumplir en lo que a ellos concierne, con las disposiciones de esta Ley y su Reglamento, así como las indicaciones que hagan los Policías viales, cuando dirijan el Tránsito.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 45.
 
-Los peatones y personas con discapacidad tendrán siempre paso preferencial en las zonas donde se determine mediante el respectivo señalamiento, así como en aquellos lugares en que el tránsito sea controlado por los oficiales o agentes, quienes en todo momento deberán cuidar por su seguridad.
+Las Personas peatonas y personas con discapacidad tendrán siempre paso preferencial en las zonas donde se determine mediante el respectivo señalamiento, así como en aquellos lugares en que el Tránsito sea controlado por los Policías viales, quienes en todo momento deberán cuidar por su seguridad.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 46.
 
-Los peatones no deberán transitar por las superficies de rodamiento de las vías públicas destinadas a la circulación vehicular, ni cruzar las vías rápidas por lugares no autorizados para tal efecto.
+Las Personas peatonas no deberán transitar por las superficies de rodamiento de las Vías públicas destinadas a la circulación vehicular, ni cruzar las vías rápidas por lugares no autorizados para tal efecto.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 47.
 
-Las personas con discapacidad o enfermos que utilicen sillas de ruedas o aparatos similares, por sí o con el auxilio de otra persona, tendrán preferencia para transitar por las aceras; los demás peatones, así como las autoridades de tránsito correspondientes, deberán brindar auxilio, cuando lo soliciten, para su libre desplazamiento por la vía pública.
+Las personas con discapacidad o enfermos que utilicen sillas de ruedas o aparatos similares, por sí o con el auxilio de otra persona, tendrán preferencia para transitar por las aceras; las demás Personas peatonas, así como las autoridades de Tránsito correspondientes, deberán brindar auxilio, cuando lo soliciten, para su libre desplazamiento por la Vía pública.
 
 ###### ARTÍCULO 48.
 
@@ -659,7 +721,9 @@ I. Que su conductor esté en aptitud de conducir el vehículo y que lleve consig
 
 II. Que porte la tarjeta de circulación del mismo;
 
-III. Que lleve el comprobante de seguro de responsabilidad frente a terceros por daños resultantes de accidentes, en vigencia;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+III. Que lleve el comprobante de seguro de responsabilidad físico o digital frente a terceros por daños resultantes de accidentes, en vigencia;
 
 IV. Que el vehículo, incluyendo acoplados y semirremolques, tenga colocadas las placas de identificación, con las características y en los lugares que establece el reglamento;
 
@@ -691,11 +755,13 @@ XII. Los usuarios de bicicletas, motonetas y motocicletas que se dediquen al rep
 
 Además de los casos establecidos en el artículo 68 de la presente Ley, el incumplimiento de alguna de las disposiciones establecidas en las fracciones I, II, IV, V, VI y X del presente artículo dará lugar a la retención del vehículo.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 51.
 
-Todo conductor deberá, al circular por la vía pública, cumplir con todas y cada una de las disposiciones que esta Ley y su reglamento establecen, procurando la fluidez vial, el respeto a las señales de tránsito y a la autoridad competente, la conservación de su vida e integridad corporal, así como la de sus pasajeros, demás conductores y peatones que igualmente se encuentren haciendo uso de la vía pública.
+Todo conductor deberá, al circular por la Vía pública, cumplir con todas y cada una de las disposiciones que esta Ley y su Reglamento establecen, procurando la fluidez vial, el respeto a las señales de Tránsito y a la autoridad competente, la conservación de su vida e integridad corporal, así como la de sus pasajeros, demás conductores y Personas peatonas que igualmente se encuentren haciendo uso de la Vía pública.
 
-Los conductores deberán ceder el paso cuando los peatones se encuentren cruzando las calles y sobrevenga un cambio de señal en los semáforos que regulan la circulación.
+Los conductores deberán ceder el paso cuando las Personas peatonas se encuentren cruzando las calles y sobrevenga un cambio de señal en los semáforos que regulan la circulación.
 
 ### Capítulo IV. De las restricciones a la circulación en la vía publica
 
@@ -713,7 +779,9 @@ IV. Disminuir arbitraria y bruscamente la velocidad, realizar movimientos zigzag
 
 V. Conducir a exceso de velocidad, excepto los vehículos de rescate, emergencia y seguridad en el desempeño de sus funciones;
 
-VI. Obstruir el paso preferencial de peatones u otros vehículos;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+VI. Obstruir el paso preferencial de las Personas peatonas u otros Vehículos;
 
 VII. Conducir a una distancia menor de la prudente del vehículo que lo precede, de acuerdo a la velocidad de marcha permitida por el reglamento de tránsito;
 
@@ -727,7 +795,9 @@ XI. Cruzar un paso a nivel si se percibiera la proximidad de un vehículo ferrov
 
 XII. A los conductores de bicicletas, ciclomotores y motocicletas, circular asidos de otros vehículos o enfilados inmediatamente tras otros automotores;
 
-XIII. A los omnibuses, microbuses, camiones, combis y taxis, transitar entre sí a una distancia que ponga en riesgo a pasajeros y peatones;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+XIII. A los omnibuses, microbuses, camiones, combis y taxis, transitar entre sí a una distancia que ponga en riesgo a pasajeros y Personas peatonas;
 
 XIV. El uso innecesario del claxon, así como el uso inmoderado del equipo de audio de las unidades automotrices, debiendo permitirse en todo momento la senso-percepción de ruidos en el exterior;
 
@@ -815,7 +885,9 @@ La autoridad competente puede disponer la suspensión temporal de la circulació
 
 El uso de la vía pública para fines ajenos al tránsito, tales como desfiles, manifestaciones, mítines, exhibiciones, competencias de velocidad pedestre, ciclísticas, ecuestres, automovilísticas, entre otras, deben ser notificados con antelación a la autoridad correspondiente, a efecto de evitar congestionamientos viales mayores e implementar operativos que permitan proteger la integridad física de quienes intervengan en esos eventos.
 
-Respecto a manifestaciones, mítines o similares, cuando estas se realicen de forma tal que hagan imposible el uso de vías alternas para vehículos y peatones, quienes intervengan en estas movilizaciones, con la debida protección de las autoridades competentes, deberán desplazarse sobre la derecha de la vía permitiendo, al menos el libre paso de un vehículo sobre la extrema izquierda de la vía, y no podrán impedir el libre paso de peatones.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
+
+Respecto a manifestaciones, mítines o similares, cuando estas se realicen de forma tal que hagan imposible el uso de vías alternas para Vehículos y Personas peatonas, quienes intervengan en estas movilizaciones, con la debida protección de las autoridades competentes, deberán desplazarse sobre la derecha de la vía permitiendo, al menos el libre paso de un Vehículo sobre la extrema izquierda de la vía, y no podrán impedir el libre paso de Personas peatonas.
 
 ###### ARTÍCULO 56.
 
@@ -861,15 +933,21 @@ Es obligatorio para partícipes de un accidente de tránsito:
 
 l. Detenerse inmediatamente;
 
-II. Suministrar los datos de su licencia de conductor y del seguro obligatorio a la otra parte y/o a la autoridad interviniente; y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+II. Suministrar los datos de su Licencia de conducir y del seguro obligatorio físico o digital a la otra parte y/o a la autoridad interviniente; y
 
 III. Denunciar el hecho ante cualquiera de las autoridades competentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 63.
 
-Las autoridades competentes, al tener conocimiento de que se ha presentado un percance o incidente de tránsito, deberán con toda oportunidad y eficacia, apersonar a los agentes policiales, patrullas o unidades de emergencia que se requiera en el lugar.
+Las autoridades competentes, al tener conocimiento de que se ha presentado un percance o incidente de Tránsito, deberán con toda oportunidad y eficacia, apersonar a los Policías viales, patrullas o unidades de emergencia que se requiera en el lugar.
 
-En el sitio del percance el comandante u oficial de mayor jerarquía, proveerá levantar un acta circunstanciada sobre el hecho, donde deberán constar los datos generales de identificación de los conductores, pasajeros y peatones que resulten implicados, así como de los vehículos involucrados, lugar hora y fecha del incidente; y las observaciones que consideren pertinentes.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
+
+En el sitio del percance el Policía vial de mayor jerarquía, proveerá levantar un acta circunstanciada sobre el hecho, donde deberán constar los datos generales de identificación de los conductores, pasajeros y Personas peatonas que resulten implicados, así como de los Vehículos involucrados, lugar hora y fecha del incidente; y las observaciones que consideren pertinentes.
 
 Ordenará se extiendan entonces las boletas de infracción que correspondan y dispondrá conforme a la ley la detención que proceda y la remisión de vehículos a los depósitos vehiculares. En caso de la comisión de algún delito, pondrá además a disposición del Ministerio Público los informes relativos, personas y vehículos involucrados.
 
@@ -887,13 +965,17 @@ Centralizarán igualmente el intercambio de datos para la atención de heridos e
 
 Igualmente tendrán previstos operativos institucionales para ubicar, perseguir y detener a los presuntos responsables de incidentes de tránsito y su remisión a la autoridad competente.
 
-### Capítulo II. De los incidentes de tránsito de vehículos y peatones
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ABRIL DE 2023)</small>
+
+### Capítulo II. De los incidentes de Tránsito de Vehículos y Personas peatonas
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
 
 ### Capítulo I. Disposiciones generales
 
 ###### ARTÍCULO 66.
 
-Los incidentes que ocurran entre vehículos de tracción mecánica, humana o animal, o de estos con peatones, serán competencia de la autoridad estatal o municipal, sin importar el origen del registro o procedencia de los vehículos implicados, cuando se presenten en la red de carretera estatal, caminos pavimentados o de terracería, fuera de asentamientos humanos, colonias poblados, zonas urbanas o urbanizadas de los municipios; sobre las cuales la autoridad competente será la facultada para conocer y resolver de los hechos e incidentes de tránsito; independientemente de la responsabilidad civil o penal que pueda acumulársele al presunto responsable.
+Los incidentes que ocurran entre Vehículos de tracción mecánica, humana o animal, o de estos con Personas peatonas, serán competencia de la autoridad estatal o municipal, sin importar el origen del registro o procedencia de los Vehículos implicados, cuando se presenten en la red de carretera estatal, caminos pavimentados o de terracería, fuera de asentamientos humanos, colonias, poblados, zonas urbanas o urbanizadas de los municipios; sobre las cuales la autoridad competente será la facultada para conocer y resolver de los hechos e incidentes de Tránsito; independientemente de la responsabilidad civil o penal que pueda acumulársele al presunto responsable.
 
 ## TÍTULO SÉPTIMO. DE LAS BASES PARA EL PROCEDIMIENTO ADMINISTRATIVO RESULTANTE DE INCIDENTES E INFRACCIONES DE TRÁNSITO
 
@@ -941,13 +1023,13 @@ d) Sea evidente la disminución de las condiciones físicas o mentales del titul
 
 e) El titular se encuentre inhabilitado o suspendido para conducir; y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
 
-f) El titular haya cometido alguna de las faltas graves en materia de tránsito y vialidad a las que se refiere la fracción XII del artículo 74 de esta Ley, en cuyo caso la devolución estará supeditada al cumplimiento de la sanción impuesta por la autoridad correspondiente.
+f) El titular haya cometido alguna de las faltas graves en materia de Tránsito y Vialidad a las que se refiere la fracción XII del artículo 74 de esta Ley, en cuyo caso la devolución o reactivación estará supeditada al cumplimiento de la sanción impuesta por la autoridad correspondiente.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
 
-El procedimiento para la retención y en su caso, la devolución de la licencia se sujetará a lo dispuesto en el Reglamento de esta Ley.
+Las Licencias de conducir digitales serán suspendidas temporalmente mediante el dispositivo electrónico, en la plataforma que se utilice para tal fin. El procedimiento para la suspensión de la Licencia de conducir se sujetará a lo dispuesto en el Reglamento de esta Ley.
 
 III. Los vehículos:
 
@@ -1025,9 +1107,9 @@ Constituyen faltas graves en materia de tránsito y vialidad las siguientes:
 
 I. Las violaciones genéricas y específicas a esta ley, su reglamento y demás legislación relativa aplicable;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
 
-II. La falta de precaución o de previsión personal, que deriven en incidentes de tránsito y ocasionen daños materiales a bienes privados o públicos, de cuantía mayor al equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización; o causen lesiones simples, graves o la muerte de otro conductor, pasajero y/o peatón;
+II. La falta de precaución o de previsión personal, que deriven en incidentes de Tránsito y ocasionen daños materiales a bienes privados o públicos, de cuantía mayor al equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización; o causen lesiones simples, graves o la muerte de otro conductor, pasajero y/o Persona peatona;
 
 III. Las que significan obstrucción a la circulación, y por lo tanto, ataques a las vías generales de comunicación terrestre;
 
@@ -1047,7 +1129,9 @@ X. Circular con vehículos de transporte de pasajeros o carga, sin contar con la
 
 XI. La falsedad en declaraciones y/o pruebas de presuntos responsables en incidentes de tránsito ante la autoridad responsable, o su intento de cohecho, sobornos y dádivas a peritos, a los integrantes de las corporaciones policiales o de la autoridad ordenadora en la materia; funcionarios públicos que igualmente deberán responder en la gravedad de esta falta en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco; y
 
-XII. Las que violando las disposiciones vigentes en la presente ley y su reglamento, impliquen riesgo a la vida e integridad corporal y patrimonial de conductores, pasajeros y peatones, y en general a la seguridad del tránsito y vialidad, contraponiéndose al interés y orden público.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+XII. Las que violando las disposiciones vigentes en la presente Ley y su Reglamento, impliquen riesgo a la vida e integridad corporal y patrimonial de conductores, pasajeros y Personas peatonas, y en general a la seguridad del Tránsito y Vialidad, contraponiéndose al interés y orden público.
 
 ###### ARTÍCULO 75.
 
@@ -1081,7 +1165,35 @@ En caso de concurso de infracciones, las sanciones se acumularán aun cuando sea
 
 Se considerará como reincidencia, la infracción a una misma disposición en dos o más ocasiones diversas durante el lapso de dos años contados a partir de la primera infracción.
 
-### Capítulo III. Extinción de acciones y sanciones
+### Capítulo II Bis. De la Boleta de Infracción Electrónica
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2023)</small>
+
+ARTÍCULO 80 BIS.- Cuando se trate de Infracciones contempladas en la presente Ley o su Reglamento, la Policía Vial, mediante dispositivos electrónicos, expedirán una Boleta de Infracción Electrónica, la cual contendrá:
+
+I. Folio;
+
+II. Importe;
+
+III. Multa;
+
+IV. Nombre del conductor;
+
+V. Los datos a que se refiere el artículo 21 de la Ley;
+
+VI. Placas, servicio, tipo, marca, línea y modelo del Vehículo;
+
+VII. Hechos o motivos que originaron la Infracción, así como el artículo de la Ley o Reglamento que se infringió;
+
+VIII. Nombre y categoría del Policía Vial;
+
+IX. Ubicación, fecha y hora;
+
+X. Código QR; y
+
+XI. Las demás que señale el Reglamento de la Ley.
+
+Cuando no se cuente con dispositivo electrónico para generar la Boleta de Infracción Electrónica, ésta se realizará mediante los formatos que, para tal efecto, autorice la Secretaría de Seguridad y Protección Ciudadana.
 
 ###### ARTÍCULO 80.
 
@@ -1089,7 +1201,9 @@ Las sanciones administrativas a que esta Ley de origen, son de cumplimiento coer
 
 I. Arresto por 36 horas;
 
-II. Inhabilitación para conducir vehículos o determinada categoría de ellos en cuyo caso se debe suspender o cancelar la vigencia de la licencia de manejo según corresponda;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+II. Inhabilitación para conducir Vehículos o determinada categoría de ellos en cuyo caso se debe suspender o cancelar la vigencia de la Licencia de conducir según corresponda;
 
 III. Multa; y
 
@@ -1098,6 +1212,10 @@ IV. Concurrencia a cursos especiales de educación y capacitación para el corre
 La normatividad reglamentaria en la materia establecerá el procedimiento para la aplicación de sanciones, de cada infracción, en términos de esta ley.
 
 Contra los actos y resoluciones que se dicten en materia de tránsito, se estará a lo previsto en la Ley de Justicia Administrativa del Estado de Tabasco.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE ABRIL DE 2023)</small>
+
+### Capítulo III. Extinción de acciones y sanciones
 
 ###### ARTÍCULO 81.
 
@@ -1238,3 +1356,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente Decreto.
 
 TERCERO. Dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, el titular del Poder Ejecutivo, deberá emitir las adecuaciones conducentes al Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco.
+
+P.O. 19 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 151 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 2; 6, FRACCIONES I Y V; 9, PÁRRAFO PRIMERO; 11, PÁRRAFO CUARTO; 15, PÁRRAFO PRIMERO; 16; 19, PÁRRAFO PRIMERO Y FRACCIÓN II; 20, PÁRRAFO PRIMERO Y FRACCIÓN II; 21, PÁRRAFO PRIMERO Y FRACCIONES VII Y VIII; 23; 26, FRACCIÓN IV; LA DENOMINACIÓN DEL CAPÍTULO IV DEL TÍTULO TERCERO; 28, PÁRRAFOS PRIMERO Y SEGUNDO; 30, PÁRRAFO PRIMERO; 33, FRACCIÓN V; 41 ; 43; LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO QUINTO; 44; 45; 46; 47; 50, FRACCIÓN III; 51; 52, FRACCIONES VI Y XIII; 55, PÁRRAFO SEGUNDO; 62, FRACCIÓN II; 63, PÁRRAFOS PRIMERO Y SEGUNDO; LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO SEXTO; 66; 68, FRACCIÓN II, INCISO F) Y PÁRRAFO SEGUNDO; 74, FRACCIONES II Y XII; Y 80, FRACCIÓN II. SE ADICIONAN: UN SEGUNDO PÁRRAFO AL ARTÍCULO 19; LA FRACCIÓN IX AL ARTÍCULO 21; Y EL CAPÍTULO II BIS, AL TÍTULO OCTAVO, INTEGRADO POR EL ARTÍCULO 80 BIS; TODOS DE LA LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Dentro de los 180 días hábiles siguientes a la entrada en vigor del presente Decreto, el titular del Poder Ejecutivo, deberá emitir las adecuaciones conducentes al Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco y al Reglamento de la Policía Estatal del Estado de Tabasco.
+
+CUARTO. Cuando en ordenamientos de igual o menor rango al presente Decreto, se haga referencia a agentes, agentes viales o agentes policiales, se entenderán hechas a la Policía Vial que se menciona en la fracción VII del artículo 2 de la Ley General de Tránsito y Vialidad del Estado de Tabasco.
