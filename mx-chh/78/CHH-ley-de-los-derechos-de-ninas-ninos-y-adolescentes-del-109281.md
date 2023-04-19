@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2022-12-21"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2023.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -888,6 +888,10 @@ VIII. Impartir educación sexual integral conforme a la edad, el desarrollo evol
 IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos.
 
 X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2023)</small>
+
+XI. Impartir la educación de higiene bucodental, mediante la implementación de talleres al interior de las instituciones educativas, promoviendo hábitos de autocuidado y de correcto cuidado de la salud bucodental.
 
 ###### Artículo 68.
 
@@ -2678,6 +2682,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 21 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLEY/0333/2022 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 12 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0518/2023 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE EDUCACIÓN Y A LA LEY DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
