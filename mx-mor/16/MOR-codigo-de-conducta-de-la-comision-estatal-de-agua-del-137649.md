@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-comision-estatal-de-agua-del-137649"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-07-24"
-last_updated: "2019-08-14"
+last_updated: "2023-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137649&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA COMISION ESTATAL DE AGUA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA PRIMERA DEL CÓDIGO DE CONDUCTA DE LA COMISIÓN ESTATAL DEL AGUA, PUBLICADO EN EL P.O. DE 19 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA COMISIÓN ESTATAL DEL AGUA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE AGOSTO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 24 de julio de 2019.
 
@@ -308,3 +308,15 @@ EL SECRETARIO EJECUTIVO DE LA COMISIÓN ESTATAL DEL AGUA.
 MOISÉS AGOSTO ULLOA.
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA COMISIÓN ESTATAL DEL AGUA".]
+
+PRIMERA.- Se abroga el anterior Código de Conducta de fecha cuatro de julio de dos mil diecinueve, y se emite el presente código, el cual entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del estado de Morelos.
+
+SEGUNDA.- Una vez que inicie la vigencia del Código de Conducta, deberá ser publicado en el portal de la Comisión Estatal del Agua para su difusión.
+
+TERCERA.- Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente código.
