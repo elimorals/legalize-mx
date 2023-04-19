@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2023-04-12"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2023.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -963,7 +963,13 @@ XII. Desarrollar modelos de intervención para detectar la violencia contra las 
 
 XIII. Capacitar y sensibilizar al personal docente y de apoyo a fin de que otorguen atención urgente a las alumnas que sufren algún tipo de violencia, así como sobre la obligación de informar y canalizar a las instancias competentes aquellos casos de violencia contra niñas, adolescentes y mujeres que llegasen a ocurrir en los albergues o centros educativos, garantizando la adopción de protocolos de detección de la violencia digital, violencia escolar y violencia en el ámbito familiar al interior de dichos centros.
 
-XIV. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ABRIL DE 2023)</small>
+
+XIV. Elaborar programas de otorgamiento de becas dirigidos a mujeres víctimas de violencia y en situación de riesgo o peligro, así como a sus hijas e hijos menores de edad.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE ABRIL DE 2023)</small>
+
+XV. Las demás previstas para el cumplimiento de esta Ley.
 
 ###### Artículo 33.
 
@@ -1580,6 +1586,14 @@ A partir de la entrada en vigor del presente Decreto, se tomarán las previsione
 P.O. 12 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLYC/0520/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA Y DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0515/2023 II P.O., MEDIANTE EL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 32 DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
 
 ###### ARTÍCULO ÚNICO.
 
