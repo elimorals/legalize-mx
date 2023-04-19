@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-en-materia-de-gobierno-y-12616
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-31"
-last_updated: "2022-07-13"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2023.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de enero de 2018.
 
@@ -591,7 +591,13 @@ LXXII. Implementar un programa de evaluación municipal, que mida el desempeño 
 
 LXXIII. Celebrar con el Poder Ejecutivo del Estado, convenios de coordinación fiscal y fortalecimiento municipal. Dichos convenios deberán ser sancionados por el Congreso del Estado;
 
-LXXIII (SIC). Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ABRIL DE 2023)</small>
+
+LXXIII (SIC). Establecer Células de Búsqueda al interior del Municipio, a fin de brindar atención inmediata de personas reportadas como desaparecidas y no localizadas.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE ABRIL DE 2023)</small>
+
+LXXIV. Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
 
 ###### Artículo 46.
 
@@ -779,9 +785,13 @@ XLI.- Presentar al Cabildo para su aprobación el informe de evaluación de nive
 
 XLII.- Presentar debidamente firmada la Cuenta Pública Municipal ante el Congreso del Estado y conforme a la legislación que al efecto aplique.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MAYO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ABRIL DE 2023)</small>
 
-XLIII.- Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
+XLIII. Coadyuvar a través de las Células de Búsqueda con la Comisión Estatal de Búsqueda de Personas del Estado de Chiapas y demás autoridades de los diferentes órganos de gobierno, para ejecutar las acciones y diligencias encaminadas a conocer la suerte o paradero de las personas reportadas como desaparecidas y no localizadas, de conformidad con lo dispuesto en la Ley en Materia de Desaparición de Personas para el Estado de Chiapas y demás ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE ABRIL DE 2023)</small>
+
+XLIV. Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
 
 ### Capítulo IV. De las atribuciones y obligaciones de los Síndicos Municipales
 
@@ -1299,7 +1309,13 @@ X. Ejecutar los acuerdos del Ayuntamiento relacionados con la seguridad pública
 
 XI. Presentar ante la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Chiapas, a través del Órgano Interno de Control, las declaraciones de su situación patrimonial, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas, y
 
-XII. Las demás que le confieran esta ley, sus reglamentos y otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ABRIL DE 2023)</small>
+
+XII. Coordinar el establecimiento de las Células de Búsqueda en el Municipio como un mecanismo ágil y eficiente que coadyuve a la pronta localización de personas reportadas como desaparecidas y no localizadas;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE ABRIL DE 2023)</small>
+
+XIII. Las demás que le confieran esta Ley, sus reglamentos y otras disposiciones legales aplicables.
 
 ### Capítulo XII. Del Cronista Municipal
 
@@ -2739,10 +2755,20 @@ Artículo Tercero. La Instancia Municipal de las Mujeres deberá quedar integrad
 
 P.O. 13 DE JULIO DE 2022.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO No. 153 DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 62 DE LA LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 153 DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 62 DE LA LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS".]
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- Los Ayuntamientos Municipales deberán integrar la Comisión De Ciencia, Tecnología e Innovación dentro de los 90 días posteriores a la publicación del presente Decreto.
+
+P.O. 19 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 174 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Los Ayuntamientos deberán establecer las Células de Búsqueda dentro del término de 90 días hábiles a partir de la publicación de este Decreto.
