@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-consejo-de-ciencia-y-tecnologia-del-1390
 country: "mx"
 rank: "codigo"
 publication_date: "2019-07-10"
-last_updated: "2019-07-10"
+last_updated: "2023-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 19 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 10 de julio de 2019.
 
@@ -204,3 +206,17 @@ DR. JESÚS ALEJANDRO VERA JIMÉNEZ
 Director General del Consejo de Ciencia y Tecnología del Estado de Morelos y Presidente del Comité de Ética del CCyTEM
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- El presente Código de Conducta del Consejo de Ciencia y Tecnología del Estado de Morelos, entrará en vigor a partir del día siguiente de su publicación en el Órgano de Difusión de Gobierno del Estado de Morelos, Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDA.- Se abroga el Código de Conducta del Consejo de Ciencia y Tecnología del Estado de Morelos publicado en el Periódico Oficial “Tierra y Libertad”, número 5722 de fecha diez de julio de (sic) del año dos mil diecinueve, asimismo, se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Código de Conducta.
+
+TERCERA.- Una vez publicado en el Periódico Oficial “Tierra y Libertad”, el presente instrumento deberá difundirse en la (sic) sitio la página de internet oficial del Consejo de Ciencia y Tecnología del Estado de Morelos.
+
+CUARTA.- El Consejo de Ciencia y Tecnología del Estado de Morelos, a través de la Dirección de Administración y Finanzas dará a conocer a las Personas Obligadas, la existencia y contenido del presente Código de Conducta.
