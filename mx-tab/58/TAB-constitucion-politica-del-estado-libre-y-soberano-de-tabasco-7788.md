@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2021-08-29"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2023.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -727,9 +727,9 @@ Para ser diputado se requiere:
 
 I.- Ser ciudadano mexicano y tabasqueño, en pleno ejercicio de sus derechos. En todo caso, se deberá contar con residencia efectiva en el Estado por un período no menor de dos años anteriores al día de la elección.
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
 
-II.- Tener veintiún años cumplidos el día de la elección;
+II.- Tener dieciocho años cumplidos;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2113,7 +2113,9 @@ c) No ser ministro de algún culto religioso;
 
 d) No tener antecedentes penales;
 
-e) Haber cumplido 21 años antes del día de la elección;
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
+
+e). Tener dieciocho años cumplidos;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2017)</small>
 
@@ -3760,3 +3762,15 @@ P.O. 29 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 150 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 15 FRACCIÓN II, Y 64 FRACCIÓN XI, INCISO E), DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
