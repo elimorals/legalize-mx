@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-salud-del-estado-de-1387
 country: "mx"
 rank: "codigo"
 publication_date: "2019-07-24"
-last_updated: "2019-07-24"
+last_updated: "2023-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE SALUD DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA TERCERA DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 19 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 24 de julio de 2019.
 
@@ -408,3 +410,13 @@ SECRETARIO DE SALUD
 RÚBRICA.
 
 LA PRESENTE HOJA DE FIRMAS ES PARTE INTEGRANTE DEL CÓDIGO DE CONDUCTA DEL PERSONAL DE LA SECRETARÍA DE SALUD DEL PODER EJECUTIVO ESTATAL.
+
+P.O. 19 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD”.]
+
+PRIMERA. El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente instrumento es de observancia obligatoria para todas las personas que desempeñen un empleo, cargo o comisión en la Secretaría de Salud.
+
+TERCERA. Se abroga el Código de Conducta de la Secretaria de Salud publicado en el Periódico Oficial “Tierra y Libertad”, numero 5729, de fecha veinticuatro de julio del año dos mil diecinueve.
