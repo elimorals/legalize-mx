@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-comision-estatal-de-mejora-138850"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-07-31"
-last_updated: "2019-07-31"
+last_updated: "2023-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA COMISION ESTATAL DE MEJORA REGULATORIA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA TERCERA DEL CÓDIGO DE CONDUCTA DE LA COMISIÓN ESTATAL DE MEJORA REGULATORIA, PUBLICADO EN EL P.O. DE 19 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA COMISIÓN ESTATAL DE MEJORA REGULATORIA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 31 de julio de 2019.
 
@@ -302,3 +304,17 @@ L.C. Shajid Armando López Bravo
 Director General de la Comisión Estatal de Mejora Regulatoria
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA COMISIÓN ESTATAL DE MEJORA REGULATORIA".]
+
+PRIMERA. El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente instrumento deberá difundirse también en el portal oficial de la Comisión Estatal de Mejora Regulatoria.
+
+TERCERA. Se abroga el Código de Conducta de la Comisión Estatal de Mejora Regulatoria, publicado en fecha 31 de julio del 2019 en el Periódico Oficial "Tierra y Libertad", número 5731.
+
+CUARTA. Se instruye a la Unidad Administrativa de la Dirección de Administración y Registro a dar a conocer al personal de la CEMER, así como al que sea de nuevo ingreso, la existencia y contenido del presente Código de Conducta.
