@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2023-03-30"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 30 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 19 DE ABRIL DE 2023.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -2617,11 +2617,17 @@ XXVII. Establecer, implementar y operar una política permanente de verificació
 
 XXVIII. Llevar a cabo el desalojo de locatarios de mercados municipales o centrales de abastos, ordenado por autoridad administrativa o judicial; y en los casos que así proceda, asegurar precautoriamente los bienes y mercancías hasta en tanto se garantice el pago de las sanciones impuestas por infringir las disposiciones aplicables; y
 
-XXIX. Rendir los informes previos y justificados en los términos requeridos por la Sindicatura, cuando se señalen como autoridades responsables a la Dirección de Inspección y Vigilancia o a sus direcciones dependientes.
+> <small>(REFORMADA, G.M. 19 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 31 DE OCTUBRE DE 2022)</small>
+XXIX. Rendir los informes previos y justificados en los términos requeridos por la Sindicatura, cuando se señalen como autoridades responsables a la Dirección de Inspección y Vigilancia o a sus direcciones dependientes;
 
-XXX. Realizar visitas de inspección o verificación de conformidad con las disposiciones correspondientes, con el objeto de comprobar el estricto cumplimiento de la reglamentación municipal aplicable a la construcción, instalación, uso, mantenimiento o reparación de estructuras para sistemas de telecomunicaciones.
+> <small>(REFORMADA, G.M. 19 DE ABRIL DE 2023)</small>
+
+XXX. Realizar visitas de inspección o verificación de conformidad con las disposiciones correspondientes, con el objeto de comprobar el estricto cumplimiento de la reglamentación municipal aplicable a la construcción, instalación, uso, mantenimiento o reparación de estructuras para sistemas de telecomunicaciones; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 19 DE ABRIL DE 2023)</small>
+
+XXXI. Aplicar las sanciones previstas en el Reglamento para Prevenir, Atender y Erradicar toda forma de Discriminación en el Municipio de Guadalajara, contra actos hechos, omisiones o prácticas discriminatorias.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -4557,13 +4563,17 @@ XXI. Desarrollar mecanismos, herramientas de vigilancia y control ciudadano de l
 
 XXII. Fortalecer e institucionalizar estrategias y acciones de combate a la corrupción y rendición de cuentas, en vinculación con los Sistemas Anticorrupción Municipal, Estatal y en su caso con el Nacional, entre otros organismos e instancias internacionales, nacionales o locales;
 
-> <small>(ADICIONADA, G.M. 1 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, G.M. 19 DE ABRIL DE 2023)</small>
 
-XXIII. Generar vinculación con el Servicio de Administración Tributaria y la Comisión Nacional Bancaria y de Valores para el desahogo de los procedimientos en que se requiera información; e
+XXIII. Generar vinculación con el Servicio de Administración Tributaria y la Comisión Nacional Bancaria y de Valores para el desahogo de los procedimientos en que se requiera información;
 
-> <small>(ADICIONADA, G.M. 1 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, G.M. 19 DE ABRIL DE 2023)</small>
 
-XXIV. Impulsar la atención institucional del combate a la corrupción y rendición de cuentas de forma sistemática y transversal.
+XXIV. Impulsar la atención institucional del combate a la corrupción y rendición de cuentas de forma sistemática y transversal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 19 DE ABRIL DE 2023)</small>
+
+XXV. Aplicar las sanciones previstas en el Reglamento para Prevenir, Atender y Erradicar toda forma de Discriminación e Intolerancia en el Municipio de Guadalajara, contra actos hechos, omisiones o prácticas discriminatorias que hayan sido cometidos presuntamente por servidoras y servidores públicos.
 
 > <small>(REFORMADO, G.M. 1 DE ABRIL DE 2022)</small>
 
@@ -4853,9 +4863,17 @@ VII. Promover la participación de la ciudadanía mediante la socialización de 
 
 VIII. Canalizar a las y los vecinos con las entidades gubernamentales encargadas de la mediación y solución de los conflictos que se susciten entre los particulares de acuerdo a la normatividad aplicable;
 
-IX. Fomentar entre el funcionariado y las servidoras públicas y los servidores públicos municipales la participación ciudadana y gobernanza en la planeación, ejecución, implementación, medición y evaluación en los programas y políticas públicas; y
+> <small>(REFORMADA, G.M. 19 DE ABRIL DE 2023)</small>
 
-X. Diseñar y planear, en coordinación con la dependencia competente en materia de proyectos del espacio público, y de manera conjunta y participativa con las y los vecinos, e instituciones de enseñanza, las acciones de rehabilitación y equipamiento de espacios públicos.
+IX. Fomentar entre el funcionariado y las servidoras públicas y los servidores públicos municipales la participación ciudadana y gobernanza en la planeación, ejecución, implementación, medición y evaluación en los programas y políticas públicas;
+
+> <small>(REFORMADA, G.M. 19 DE ABRIL DE 2023)</small>
+
+X. Diseñar y planear, en coordinación con la dependencia competente en materia de proyectos del espacio público, y de manera conjunta y participativa con las y los vecinos, e instituciones de enseñanza, las acciones de rehabilitación y equipamiento de espacios públicos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 19 DE ABRIL DE 2023)</small>
+
+XI. Llevar a cabo las acciones de atención, orientación y canalización de las personas que acudan a informar actos, hechos, omisiones o prácticas que considere discriminatorias, en los términos de lo dispuesto por el Reglamento para Prevenir Atender y Erradicar toda forma de Discriminación en el Municipio de Guadalajara.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -8396,3 +8414,13 @@ Primero. Publíquese lo conducente del presente ordenamiento en la Gaceta Munici
 Segundo. El presente ordenamiento entrará en vigor treinta días posteriores a la fecha de su publicación.
 
 Tercero. Una vez publicado el presente ordenamiento, remítase mediante oficio un tanto del mismo al Congreso del Estado de Jalisco, para los efectos ordenados en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 19 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA PREVENIR, ATENDER Y ERRADICAR TODA FORMA DE DISCRIMINACIÓN EN EL MUNICIPIO DE GUADALAJARA; REFORMA AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA Y ABROGACIÓN DEL REGLAMENTO PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL MUNICIPIO DE GUADALAJARA”.]
+
+Primero. Publíquese el presente ordenamiento en la Gaceta Municipal de Guadalajara.
+
+Segundo. El presente ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicado el presente ordenamiento, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
