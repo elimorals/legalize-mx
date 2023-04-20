@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2023-01-26"
+last_updated: "2023-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE ABRIL DE 2023.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -1256,7 +1256,9 @@ I. Acuerdos parlamentarios, que son resoluciones en materia del régimen interio
 
 II. Puntos de acuerdo, que representan la posición del Congreso, en relación con algún asunto específico de interés local o nacional o sus relaciones con los otros poderes de la de la Ciudad, organismos públicos, entidades federativas, municipios y Alcaldías, y
 
-III. Protocolarias, para otorgar premios y reconocimientos públicos por parte del Congreso. Tienen por objeto hacer un reconocimiento público a héroes, próceres o ciudadanas o ciudadanos nacionales distinguidos, o a eventos históricos que por su relevancia o contribución a la Nación ameriten la entrega de un reconocimiento o la celebración de una Sesión solemne. Las propuestas de reconocimiento deberán pasar por el análisis de la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias, para estudiar su procedencia, revisar los criterios relativos y someterlos a la consideración del Pleno, a través del dictamen respectivo.
+> <small>(REFORMADA, G.O. 20 DE ABRIL DE 2023)</small>
+
+III. Protocolarias, para otorgar premios y reconocimientos públicos por parte del Congreso. Tienen por objeto hacer un reconocimiento público a héroes, próceres o ciudadanas o ciudadanos nacionales distinguidos, o a eventos históricos que por su relevancia o contribución a la Nación ameriten la entrega de un reconocimiento o la celebración de una Sesión solemne. Las propuestas de reconocimiento deberán pasar por el análisis de la Comisión de Normatividad, Estudios y Prácticas Parlamentarias, para estudiar su procedencia, revisar los criterios relativos y someterlos a la consideración del Pleno, a través del dictamen respectivo.
 
 #### Sección Cuarta. Puntos de Acuerdo
 
@@ -1336,47 +1338,59 @@ El dictamen será válido sólo cuando la Comisión o Comisiones discutan un asu
 
 La Comisión o Comisiones que emitan dictamen, deberán enviarlo de inmediato a la Coordinación de Servicios Parlamentarios mismos que su vez enviaran de manera inmediata una copia a la Presidencia de la Mesa Directiva, a la Presidencia de la Junta, para los efectos de que se enliste en el orden del día de la sesión siguiente del pleno.
 
+> <small>(REFORMADO, G.O. 20 DE ABRIL DE 2023)</small>
+
 ###### Artículo 106.
 
-Todo dictamen será elaborado con perspectiva de género, se redactará con un lenguaje claro, preciso, incluyente y no sexista. El dictamen deberá contener los siguientes elementos:
+Todo dictamen será elaborado con perspectiva de género, se redactará con un lenguaje claro, preciso, incluyente y no sexista.
 
-I. Nombre de la Comisión o Comisiones que lo presentan;
+Deberá estar debidamente fundado y motivado, e incluir las modificaciones que en su caso se hayan realizado.
 
-II. Encabezado o título del dictamen donde se especifique el asunto objeto del mismo, así como el ordenamiento u ordenamientos que pretenda crear o modificar así como el nombre de la o el promovente;
+El dictamen deberá contener los siguientes elementos:
 
-III. Número de expediente, asignado por la Mesa Directiva;
+I. Ser dirigido al Congreso de la Ciudad de México, en hojas membretadas que contengan el nombre de la Comisión o Comisiones que lo presentan;
 
-IV. Antecedentes del asunto;
+II. Encabezado o título del dictamen donde se especifique el asunto objeto del mismo, el ordenamiento u ordenamientos que pretenda crear o modificar, así como la persona diputada promovente, y en su caso, el grupo o asociación parlamentaria al que pertenece;
 
-V. Análisis y estudio de la iniciativa o punto de acuerdo;
+III. Preámbulo, que debe referir al contenido del asunto o asuntos, destacando los elementos más importantes, entre ellos el planteamiento del problema o preocupación;
 
-VI. Considerandos tomados en cuenta para la aprobación, modificación o rechazo de la iniciativa o punto de acuerdo;
+IV. Antecedentes del asunto y del procedimiento legislativo, referente a los hechos situaciones o acciones que causan u originan el asunto en dictamen, incluyendo la identificación y fecha del turno emitido por la Mesa Directiva;
 
-VII. Fundamento legal de la competencia de la o las Comisiones para emitir el dictamen;
+V. Considerandos, que deben contener:
 
-VIII. Preámbulo, refiriéndose al contenido del asunto o asuntos, destacando los elementos más importantes, entre ellos el planteamiento del problema, así como la perspectiva de género, en su caso;
+a) El fundamento legal de la competencia de la o las Comisiones para emitir el dictamen;
 
-IX. Antecedentes del procedimiento, que contiene los hechos situaciones o acciones que causan u originan el asunto en dictamen;
+b) El proceso, estudio y análisis del asunto;
 
-X. Considerandos, refiriéndose al proceso de estudio y análisis, señalando las actividades realizadas, como entrevistas, comparecencias, audiencias públicas o foros, con el fin de tener mayores elementos para dictaminar. Así como la fundamentación y motivación de los mismos en los ordenamientos aplicables;
+c) Las actividades realizadas, como entrevistas, comparecencias, audiencias públicas o foros, con el fin de tener mayores elementos para dictaminar;
 
-XI. Resolutivos, que expresan el sentido del dictamen mediante proposiciones claras y sencillas que se sujetarán a votación;
+d) Análisis de las propuestas ciudadanas de modificaciones a las iniciativas a las que se refiere el artículo 25, apartado A, numeral 4, de la Constitución Local;
 
-XII. El proyecto de decreto;
+e) Análisis y valoración de los argumentos y texto normativo propuesto por el proponente;
 
-XIII. La denominación del proyecto de ley o decreto;
+f) La fundamentación y motivación en los ordenamientos aplicables para la aprobación, modificación o rechazo del asunto;
 
-XIV. El texto normativo que se somete a la consideración del Pleno;
+g) Análisis y estudio de las opiniones de otras Comisiones, y
 
-XV. Los artículos transitorios, y
+h) Análisis de perspectiva de género, la perspectiva de desarrollo sostenible alineada a la agenda 2030, así como la valoración de impacto presupuestal, u otro, en su caso.
 
-XVI. Deberá acompañarse de la lista de asistencia de la reunión en que se aprobó, a efecto de verificar el quórum.
+VI. Resolutivos, que expresen el sentido del dictamen mediante proposiciones claras y sencillas que se sujetarán a votación;
 
-El dictamen deberá contar con el voto aprobatorio de la mayoría absoluta de las y los Diputados de la o las Comisiones que dictaminan, que debe constar mediante firma autógrafa.
+En el caso de iniciativas, el proyecto de decreto, que debe contener la denominación del proyecto de ley o decreto; el texto normativo que se somete a la consideración del Pleno, así como los artículos transitorios;
 
-Las y los Diputados que disientan del contenido pueden suscribir en el dictamen firmando y agregando la leyenda “en contra” o “en abstención”.
+VII. El voto aprobatorio de la mayoría que corresponda conforme a este Reglamento de las y los Diputados integrantes de la o las Comisiones dictaminadoras mediante firma autógrafa o electrónica conforme a las disposiciones emitidas por la Junta;
 
-De igual forma podrán expresar la reserva de artículos que así consideren o bien podrán presentar un voto particular.
+VIII. Lista de asistencia de la reunión en que se aprobó, a efecto de verificar el quórum, y
+
+IX. Lugar y fecha de la reunión de la o las Comisiones.
+
+Los dictámenes aprobados en sentido positivo serán remitidos a la Mesa Directiva, para su discusión y votación en el Pleno.
+
+Todos los dictámenes, deberán contar con la firma de la mayoría de las y los integrantes para su trámite en la Mesa Directiva, quien deberá corroborar el cumplimiento de los requisitos previstos en este Reglamento para su emisión.
+
+Las y los Diputados que disientan del contenido pueden suscribir en el dictamen firmando y agregando la leyenda “en contra” o “en abstención”. De igual forma podrán expresar la reserva de artículos que así consideren o bien podrán presentar un voto particular.
+
+Los dictámenes aprobados en sentido negativo, se informarán a la Mesa Directiva como asunto total y definitivamente concluido.
 
 ###### Artículo 107.
 
@@ -1386,9 +1400,11 @@ Las o los Diputados no podrán cambiar el sentido de su voto plasmado en el dict
 
 Los dictámenes correspondientes a las iniciativas preferentes que no hayan sido presentados en tiempo y forma, serán objeto de una declaratoria de publicidad para lo cual la o el Presidente realizará una prevención a la o las Comisiones de siete días naturales antes de que venza el plazo para dictaminar la iniciativa preferente, a través de una comunicación que deberá publicarse en la Gaceta.
 
+> <small>(REFORMADO, G.O. 20 DE ABRIL DE 2023)</small>
+
 ###### Artículo 109.
 
-Si el dictamen correspondiente a los asuntos turnados que no se ha presentado, la o el Presidente de la Mesa Directiva hará una excitativa para que se elabore el dictamen y si pasados cinco días de ésta, no se hubiere hecho el mismo, la o el Presidente enviará la iniciativa a la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias, para que elabore el dictamen correspondiente en un plazo que en ningún caso podrá ser mayor a treinta días naturales.
+Si el dictamen correspondiente a los asuntos turnados que no se ha presentado, la o el Presidente de la Mesa Directiva hará una excitativa para que se elabore el dictamen y si pasados cinco días de ésta, no se hubiere hecho el mismo, la o el Presidente enviará la iniciativa a la Comisión de Normatividad, Estudios y Prácticas Parlamentarias, para que elabore el dictamen correspondiente en un plazo que en ningún caso podrá ser mayor a treinta días naturales.
 
 ###### Artículo 110.
 
@@ -3044,75 +3060,43 @@ El formato deberá ser conocido por las y los integrantes de la o las Comisiones
 
 #### Sección Primera. Del Proceso de Dictamen
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE ABRIL DE 2023)</small>
+
 ###### Artículo 256.
 
-En el proceso de dictamen la Comisión:
+En el proceso de dictamen la Comisión o Comisiones podrán:
 
-I. Podrá definir el método de dictamen,
+> <small>(REFORMADA, G.O. 20 DE ABRIL DE 2023)</small>
 
-II. Podrá contar con un reporte de investigación que incluya los antecedentes legislativos, la doctrina, la jurisprudencia y, en su caso, el derecho comparado del asunto en estudio, y
+I. Definir el método de dictamen;
 
-III. Podrá obtener reportes en materia regulatoria, social y de opinión pública, en aquellos asuntos que impliquen un impacto presupuestal, deberá solicitarlos.
+> <small>(REFORMADA, G.O. 20 DE ABRIL DE 2023)</small>
 
-Para efectos de lo anterior, la Junta Directiva podrá solicitar el apoyo de los servicios de investigación de los centros de estudio del Congreso.
+II. Contar con un reporte de investigación que incluya los antecedentes legislativos, la doctrina, la jurisprudencia y, en su caso, el derecho comparado del asunto en estudio;
 
-Los dictámenes deberán ser estudios profundos y analíticos de las proposiciones o iniciativas que la Mesa Directiva turne a las Comisiones, exponiendo ordenada, clara y concisamente las razones por las que dicho asunto en cuestión se aprueben, desechen o modifiquen (sic).
+> <small>(REFORMADA, G.O. 20 DE ABRIL DE 2023)</small>
+
+III. Obtener reportes en materia regulatoria, social y de opinión pública, en aquellos asuntos que impliquen un impacto presupuestal, deberá solicitarlos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE ABRIL DE 2023)</small>
+
+IV. Convocar a la o el Diputado proponente, a efecto de ampliar la información acerca de su propuesta. Si éste no asistiere continuará el proceso de dictamen.
+
+> <small>(REFORMADO, G.O. 20 DE ABRIL DE 2023)</small>
+
+Para efectos de lo previsto en las fracciones II y III del presente artículo, la Junta Directiva podrá solicitar el apoyo de los servicios de investigación de los centros de estudio del Congreso.
+
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 20 DE ABRIL DE 2023)</small>
+
+> <small>(REFORMADO, G.O. 20 DE ABRIL DE 2023)</small>
 
 ###### Artículo 257.
 
-Todo dictamen se compondrá de cuatro partes fundamentales: un preámbulo, los antecedentes, los considerandos y los puntos resolutivos.
-
-El preámbulo deberá contener la mención del asunto en estudio, el emisor del mismo, en su caso Grupo Parlamentario al que pertenece, así como la fundamentación legal de la competencia de la o las Comisión (sic) para conocer del asunto.
-
-Los antecedentes deberán contener los hechos, situaciones o acciones que causan u originan el asunto en dictamen.
-
-Los considerandos deberán contener la exposición clara, ordenada y concisa de los argumentos por los cuales se aprueba, desecha o modifica la proposición o iniciativa. Así como la fundamentación y motivación de los mismos, en las leyes aplicables.
-
-Los puntos resolutivos deberán expresar el sentido del dictamen, mediante proposiciones claras y sencillas que puedan sujetarse a votación.
-
-Todos los dictámenes deberán ser dirigidos al Honorable Congreso de la Ciudad de México en hojas membretadas que contengan la leyenda de la o las Comisiones de las cuales se forme parte y deberán contar con la firma de la mayoría de las y los integrantes. Las y los Diputados que disientan del contenido pueden suscribir el dictamen agregando la leyenda "en contra" o "en abstención". De igual forma, podrán expresar la reserva de artículos que así consideren o bien podrán anunciar la presentación de un voto particular.
-
-> <small>(REFORMADO, G.O. 9 DE MAYO DE 2019)</small>
-
-La o el Presidente de la Junta Directiva deberá circular la propuesta de dictamen entre sus integrantes, junto con la convocatoria a la reunión en que se discuta y se vote, con un mínimo de 72 horas anteriores a la celebración de la misma lo anterior con excepción de caso urgente cuyo término de distribución será en un mínimo de 24 horas.
+La o el Presidente de la Junta Directiva deberá circular la propuesta de dictamen entre sus integrantes, junto con la convocatoria a la reunión en que se discuta y se vote, dentro de los plazos establecidos en este Reglamento.
 
 ###### Artículo 258.
 
-Todo dictamen será elaborado con perspectiva de género, se redactará con un lenguaje claro, preciso, incluyente y no sexista, y se compondrá de las siguientes partes:
-
-Encabezado o Título del dictamen donde se especifique el asunto objeto del mismo, así como el ordenamiento u ordenamientos que pretenda crear o modificar;
-
-I. Nombre de la o el Diputado promovente;
-
-II. Nombre de la o las Comisiones que lo presentan;
-
-III. Estar debidamente fundado y motivado en el que se expresen las razones en que se funde, las modificaciones que en su caso se hayan realizado, concluyendo en todo caso, con proposiciones claras y sencillas que puedan someterse a votación;
-
-IV. Contar con un apartado de Antecedentes, mismo que deberá por lo menos contener:
-
-V. Contenido del o los asuntos, destacando los elementos más importantes, entre ellos el planteamiento del problema o preocupación, y
-
-VI. Proceso de análisis, señalando las actividades realizadas, como entrevistas, comparecencias, audiencias públicas o foros, con el fin de tener mayores elementos para dictaminar.
-
-VII. En su caso, valoración de impacto presupuestal, regulatorio u otro;
-
-VIII. Análisis y valoración de los argumentos de la o el promovente que sustentan el asunto o asuntos;
-
-a) Análisis y valoración de los textos normativos propuestos, en su caso, explicando si se aprueban o modifican o desechan;
-
-b) Artículos transitorios
-
-IX. El voto mediante firma autógrafa de las y los diputados integrantes de la o las Comisiones dictaminadoras;
-
-X. Lugar y fecha de la reunión de la o las Comisiones, y
-
-XI. Los dictámenes de las iniciativas, de las proposiciones y las opiniones aprobados en sentido positivo por la o las Comisiones serán turnados a la Mesa Directiva, para su discusión y votación en el Pleno.
-
-Los dictámenes aprobado en sentido negativo, se enviará a la Mesa Directiva para su archivo como asunto total y definitivamente concluido.
-
-En el caso de los dictámenes que resuelvan proposiciones, la Comisión estará obligada a informar al proponente su determinación.
-
-En el proceso legislativo de dictamen, la Comisión podrá convocar a la o el Diputado proponente, a efecto de ampliar la información acerca de su propuesta. Si éste no asistiere continuará el proceso de dictamen.
+(DEROGADO, G.O. 20 DE ABRIL DE 2023)
 
 ###### Artículo 259.
 
@@ -3168,9 +3152,11 @@ La Mesa Directiva pondrá a consideración del Pleno o de la Comisión Permanent
 
 La solicitud que realice la Comisión o Comisiones, así como la resolución del Pleno o de la Comisión Permanente, serán publicados en la Gaceta Parlamentaria. Las solicitudes de prórroga no procederán tratándose de iniciativas con trámite preferente.
 
+> <small>(REFORMADO, G.O. 20 DE ABRIL DE 2023)</small>
+
 ###### Artículo 263.
 
-En caso de negativa respecto de la solicitud de prórroga, la o el Presidente hará una excitativa para que se elabore el dictamen y si pasados cinco días de ésta, no se hubiere hecho el mismo, enviará la iniciativa a la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias, consultándole a la o el Presidente de dicha Comisión el término en que se contará con el dictamen en materia.
+En caso de negativa respecto de la solicitud de prórroga, la o el Presidente hará una excitativa para que se elabore el dictamen y si pasados cinco días de ésta, no se hubiere hecho el mismo, enviará la iniciativa a la Comisión de Normatividad, Estudios y Prácticas Parlamentarias, consultándole a la o el Presidente de dicha Comisión el término en que se contará con el dictamen en materia.
 
 ###### Artículo 264.
 
@@ -3624,11 +3610,15 @@ VII. Solicitar a las Alcaldías, Dependencias, Organismos Desconcentrados y Aut�
 
 Corresponde al Comité de Capacitación:
 
-I. Generar en coordinación con la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias mecanismos de vinculación con instituciones educativas, áreas de investigación y especialistas en la problemática de la Ciudad, que coadyuven la creación y promoción de cursos, talleres y conferencias para la formación y el desarrollo institucional del Congreso;
+> <small>(REFORMADA, G.O. 20 DE ABRIL DE 2023)</small>
+
+I. Generar en coordinación con la Comisión de Normatividad, Estudios y Prácticas Parlamentarias mecanismos de vinculación con instituciones educativas, áreas de investigación y especialistas en la problemática de la Ciudad, que coadyuven (sic) la creación y promoción de cursos, talleres y conferencias para la formación y el desarrollo institucional del Congreso;
 
 II. Informar, semestralmente y por escrito, a la Junta sobre la organización y resultados de los programas ejercidos en materia de capacitación;
 
-III. Proponer a la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias la implementación de programas institucionales de capacitación, para formar servidoras y servidores públicos profesionales, a partir de la definición de las temáticas, contenidos, espacios y niveles de capacitación, que conllevan al desarrollo institucional, y
+> <small>(REFORMADA, G.O. 20 DE ABRIL DE 2023)</small>
+
+III. Proponer a la Comisión de Normatividad, Estudios y Prácticas Parlamentarias la implementación de programas institucionales de capacitación, para formar servidoras y servidores públicos profesionales, a partir de la definición de las temáticas, contenidos, espacios y niveles de capacitación, que conllevan al desarrollo institucional, y
 
 IV. Ser el órgano administrativo que vincule la búsqueda de herramientas teórico-formativas para el adecuado desempeño de las funciones del Congreso.
 
@@ -3946,9 +3936,11 @@ Para que las adiciones o reformas admitidas sean aprobadas, se requerirá el vot
 
 De conformidad con la Constitución Local, son leyes constitucionales las que versen sobre los poderes de la Ciudad y las Alcaldías, así como la ley en materia de Derechos Humanos y sus garantías.
 
+> <small>(REFORMADO, G.O. 20 DE ABRIL DE 2023)</small>
+
 ###### Artículo 334.
 
-La o las iniciativas de reforma a las leyes constitucionales se turnarán invariablemente a la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias, además de la Comisión correspondiente de acuerdo con la materia.
+La o las iniciativas de reforma a las leyes constitucionales se turnarán invariablemente a la Comisión de Normatividad, Estudios y Prácticas Parlamentarias, además de la Comisión correspondiente de acuerdo con la materia.
 
 ###### Artículo 335.
 
@@ -4318,7 +4310,9 @@ V. La o el Presidente ordenará el retiro de las expresiones materiales, y
 
 VI. Para atender una situación no prevista en el Reglamento, el (sic) La o el Presidente podrá dictar una resolución de carácter general, siempre que haya la opinión favorable de la Mesa Directiva y de la Junta. En caso contrario, este tipo de resoluciones sólo tendrán efecto con la aprobación de la mayoría simple del Pleno.
 
-VII. A la Comisión de Normatividad Legislativa Estudios y Prácticas Parlamentarias le compete resolver en caso de duda, las consultas referentes a este reglamento, de acuerdo con la ley.
+> <small>(REFORMADA, G.O. 20 DE ABRIL DE 2023)</small>
+
+VII. A la Comisión de Normatividad, Estudios y Prácticas Parlamentarias le compete resolver en caso de duda, las consultas referentes a este reglamento, de acuerdo con la ley.
 
 ## TÍTULO DÉCIMO. DE LAS DISTINCIONES DEL CONGRESO
 
@@ -6042,11 +6036,15 @@ VII. No haber sido empleada o empleado o funcionaria o funcionario de la Contadu
 
 ### CAPÍTULO ÚNICO. Del procedimiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE ABRIL DE 2023)</small>
+
 ###### Artículo 527.
 
-El procedimiento de reforma a este reglamento podrá iniciarse con iniciativa que presente alguna o algún Diputado, o con un proyecto de la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias.
+El procedimiento de reforma a este reglamento podrá iniciarse con (sic) iniciativa que presente alguna o algún Diputado, o con un proyecto de la Comisión de Normatividad, Estudios y Prácticas Parlamentarias.
 
-Si se presentara una iniciativa, será la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias la encargada de formular el dictamen correspondiente, que se enviará a la Mesa Directiva para su trámite legislativo.
+> <small>(REFORMADO, G.O. 20 DE ABRIL DE 2023)</small>
+
+Si se presentara una iniciativa, será la Comisión de Normatividad, Estudios y Prácticas Parlamentarias la encargada de formular el dictamen correspondiente, que se enviará a la Mesa Directiva para su trámite legislativo.
 
 La aprobación de las reformas al Reglamento requerirá de la mayoría calificada del Pleno.
 
@@ -6361,3 +6359,19 @@ PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por
 SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 81 PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO Y SE REFORMAN LOS ARTÍCULOS 99 PÁRRAFO SEGUNDO, 109, 263, 308 FRACCIONES I Y III, 334, 367 FRACCIÓN VII, Y 527 PÁRRAFOS PRIMERO Y SEGUNDO DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “SE REFORMA EL PÁRRAFO PRIMERO Y SE DEROGAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 80 DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO Y SE REFORMAN LOS ARTÍCULOS 106, 256 Y 257; Y SE DEROGA EL ARTÍCULO 258 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
