@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2022-03-31"
+last_updated: "2023-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -150,6 +150,10 @@ XIII. Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y 
 XIV. Programa Integral: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, que se establece en la Ley General;
 
 XV. Programa Municipal: Programa Municipal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, que se elaborará en cada uno de los Municipios del Estado de Durango;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2023)</small>
+
+XV BIS. Protocolo Alba: Mecanismo institucional que permite la coordinación de esfuerzos de los tres órdenes de gobierno comprometidos en la promoción y ejecución de actividades conducentes para la localización de mujeres y niñas con reporte de extravío.
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2019)</small>
 
@@ -977,7 +981,9 @@ II. Los titulares de las siguientes Secretarías:
 
 a. General de Gobierno, que tendrá el carácter de Presidente;
 
-b. De Desarrollo Social;
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
+
+b. Secretaría de Bienestar Social
 
 c. De Seguridad Pública;
 
@@ -986,6 +992,10 @@ d. De Salud;
 e. De Educación;
 
 f. Del Trabajo y Previsión Social;
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2023)</small>
+
+g. Secretaría de Desarrollo Económico
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
@@ -1059,13 +1069,17 @@ X. Realizar en conjunto con otras dependencias campañas de prevención, sensibi
 
 XI. Promover la implementación de plataformas y redes de comunicación e información que permitan garantizar la seguridad e integridad de las mujeres dentro del transporte público;
 
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2023)</small>
+
+XII. Promover la colaboración interinstitucional para la detección, registro y seguimiento de la información sobre casos de violencias sexuales;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2023)</small>
+
+XIII. Implementar programas y acciones que tengan como objetivo el desarrollo económico de las mujeres del Estado, a fin de promover su plena autonomía y empoderamiento económico; y
+
 > <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
 
-XII. Promover la colaboración interinstitucional para la detección, registro y seguimiento de la información sobre casos de violencias sexuales; y
-
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
-
-XIII. Las demás que le señalen las disposiciones legales aplicables.
+XIV. Las demás que le señalen las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -1545,15 +1559,17 @@ XXI. Las demás previstas para el cumplimiento de la presente Ley.
 
 Lo previsto en las fracciones XIV, XV, XVI, XVII, XVIII y XIX se llevará a cabo a través de la Subsecretaría de Movilidad y Transportes.
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2023)</small>
 
-#### Sección Tercera. De la Secretaría de Desarrollo Social
+#### Sección Tercera. De la Secretaría de Bienestar Social
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2023)</small>
 
 ###### Artículo 41.
 
-Corresponde a la Secretaría de Desarrollo Social:
+Corresponde a la Secretaría de Bienestar Social:
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
 I. Procurar el desarrollo social con perspectiva de género y de protección integral de los derechos humanos de las mujeres, orientado a la prevención, atención y erradicación de la violencia contra las mujeres;
 
@@ -1561,15 +1577,27 @@ I. Procurar el desarrollo social con perspectiva de género y de protección int
 
 II. Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para eliminar las desventajas de género basadas en conceptos de inferioridad o subordinación;
 
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
 III. Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
 IV. Fomentar la difusión y promoción de los derechos de las mujeres en las comunidades indígenas del Estado;
 
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
 V. Participar en la elaboración del Programa Estatal, en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
 VI. Coadyuvar con las dependencias y entidades de la Administración Pública Estatal y municipal para el efectivo cumplimiento de esta Ley;
 
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
 VII. Aplicar, en el ámbito de su competencia, el Programa Estatal a que se refiere esta Ley;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
 VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
 
@@ -1795,19 +1823,43 @@ VI. Coadyuvar con las dependencias y entidades de la Administración Pública Es
 
 VII. Aplicar, en el ámbito de su competencia, el Programa Estatal a que se refiere esta Ley;
 
-VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2023)</small>
 
-IX. Las demás previstas para el cumplimiento de la presente Ley.
+VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2023)</small>
+
+IX. Orientar a las víctimas de violencia en el ámbito laboral y sobre las instituciones que prestan atención y protección a las mujeres víctimas de este tipo de violencia, en los términos señalados en la legislación vigente; y
+
+X. Las demás previstas para el cumplimiento de la presente Ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE ABRIL DE 2023)</small>
+
+#### Sección Séptima Bis. De la Secretaría de Desarrollo Económico
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2023)</small>
+
+###### Artículo 45 Bis.
+
+Corresponde a la Secretaría de Desarrollo Económico:
+
+I. Incorporar el principio de igualdad de género en los programas y acciones de fomento económico a su cargo, a fin de garantizar el acceso efectivo de las mujeres a los estímulos y beneficios que estos establecen;
+
+II. Diseñar de manera coordinada con la Secretaría del Trabajo y Previsión Social y el sector privado, programas y acciones, con el objetivo de promover el principio de igualdad de género en los procesos de contratación de las y los trabajadores, que realizan las empresas;
+
+III. Establecer programas para promover la integración de empresas conformadas por mujeres a las cadenas de valor en el ámbito local, nacional y global;
+
+IV. Realizar programas y acciones de fomento, a favor de empresas y proyectos de emprendimientos de micro, pequeñas y medianas empresas, así como de organismos del sector social de la economía, conformados por mujeres;
+
+V. Coordinarse con la Secretaría de Bienestar Social, con la Secretaría del Trabajo y Previsión Social, y con autoridades encargadas de la procuración de justicia, con el fin de diseñar esquemas que contribuyan al fortalecimiento laboral y económico de mujeres cabezas de familia, mujeres indígenas, y mujeres víctimas de violencia; y
+
+VI. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
 #### Sección Octava. De la Fiscalía General del Estado
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
-
-#### Sección Octava Bis. Del Instituto Estatal y De Participación Ciudadana
-
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2020)</small>
 
 ###### Artículo 46.
 
@@ -1841,9 +1893,9 @@ VIII. Proporcionar a las víctimas información objetiva que les permita reconoc
 
 IX. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad de quienes denuncian;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2023)</small>
 
-X. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas y para la investigación de los delitos de discriminación, trata de personas, contra la libertad y el normal desarrollo psicosexual;
+X. Elaborar y aplicar el Protocolo ALBA y otros protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas y para la investigación de los delitos de discriminación, trata de personas, contra la libertad y el normal desarrollo psicosexual;
 
 > <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
@@ -1873,9 +1925,9 @@ XVIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 25 DE JUNIO DE 2020)</small>
 
-#### Sección Novena. De la Comisión Estatal de Derechos Humanos
+#### Sección Octava Bis. Del Instituto Estatal y De Participación Ciudadana
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2020)</small>
 
 ###### Artículo 46 Bis.
 
@@ -1889,7 +1941,7 @@ III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que cons
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
-#### Sección Décima. Del Instituto Estatal de la Mujer
+#### Sección Novena. De la Comisión Estatal de Derechos Humanos
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -1917,7 +1969,7 @@ IX. Las demás atribuciones o funciones que le encomiende el presente ordenamien
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
-#### Sección Décima Primera. De los Sistemas DIF Estatal y Municipales
+#### Sección Décima. Del Instituto Estatal de la Mujer
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -1972,6 +2024,10 @@ XVIII. Recabar y difundir los criterios imperativos de normativa estatal, nacion
 XIX.- Las demás previstas para el cumplimiento de la Ley.
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+
+#### Sección Décima Primera. De los Sistemas DIF Estatal y Municipales
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
 #### Sección Décima Segunda. De los Municipios
 
@@ -2396,3 +2452,27 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 351.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA".]
+
+PRIMERO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. - Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 352.- QUE CONTIENE REFORMAS A LOS ARTICULOS 30 Y 31 DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 353.- QUE CONTIENE REFORMA Y ADICIÓN A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
