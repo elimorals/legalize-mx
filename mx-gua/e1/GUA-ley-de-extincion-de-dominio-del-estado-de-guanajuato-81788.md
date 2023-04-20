@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-extincion-de-dominio-del-estado-de-guanajuato-81788"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-21"
-last_updated: "2016-12-27"
+last_updated: "2023-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE EXTINCION DE DOMINIO DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 191 MEDIANTE EL QUE SE DEROGA EL CUARTO PÁRRAFO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO; Y SE ABROGA LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE GUANAJUATO EXPEDIDA POR LA SEXAGÉSIMA PRIMERA LEGISLATURA, MEDIANTE EL DECRETO LEGISLATIVO NÚMERO 170 PUBLICADO EN EL PERIÓDICO OFICIAL DE GOBIERNO DEL ESTADO DE GUANAJUATO, NÚMERO 98, QUINTA PARTE DE FECHA 21 DE JUNIO DE 2011 Y SE DEROGAN TODAS LAS DISPOSICIONES LEGALES, REGLAMENTARIAS Y ADMINISTRATIVAS, QUE SE OPONGAN A LO DISPUESTO EN LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO, PUBLICADO EN EL PERIÓDICO OFICIAL DE 20 DE ABRIL DE 2023, LA PRESENTE LEY HA SIDO ABROGADA.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023 (ABROGADO).
 
 Ley publicada en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el martes 21 de junio de 2011.
 
@@ -1006,3 +1008,13 @@ Artículo Cuarto. El Congreso del Estado contará con un plazo de ciento ochenta
 Artículo Quinto. Los contralores que hayan sido nombrados con antelación a la entrada en vigor del presente Decreto, continuarán como titulares de los órganos internos de control hasta en tanto el Congreso del Estado realice las nuevas designaciones, atendiendo al procedimiento establecido en la Ley, sin perjuicio de que puedan ser propuestos, atendiendo a los requisitos y principios de certeza, imparcialidad y legalidad.
 
 Artículo Sexto. La Universidad de Guanajuato deberá designar a través de su Consejo General Universitario al titular del órgano interno de control, en un plazo de ciento veinte días, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 20 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 191 MEDIANTE EL QUE SE DEROGA EL CUARTO PÁRRAFO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO; Y SE ABROGA LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE GUANAJUATO EXPEDIDA POR LA SEXAGÉSIMA PRIMERA LEGISLATURA, MEDIANTE EL DECRETO LEGISLATIVO NÚMERO 170 PUBLICADO EN EL PERIÓDICO OFICIAL DE GOBIERNO DEL ESTADO DE GUANAJUATO, NÚMERO 98, QUINTA PARTE DE FECHA 21 DE JUNIO DE 2011 Y SE DEROGAN TODAS LAS DISPOSICIONES LEGALES, REGLAMENTARIAS Y ADMINISTRATIVAS, QUE SE OPONGAN A LO DISPUESTO EN LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Se abroga la Ley de Extinción de Dominio del Estado de Guanajuato expedida por la Sexagésima Primera Legislatura, mediante el decreto legislativo número 170 publicado en el Periódico Oficial de Gobierno del Estado de Guanajuato, número 98, quinta parte de fecha 21 de junio de 2011 y se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en la Ley Nacional de Extinción de Dominio.
+
+Artículo Tercero. Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley de Extinción de Dominio del Estado de Guanajuato deberán concluirse y ejecutarse conforme a la legislación vigente al momento de su inicio; las sentencias dictadas con base al ordenamiento que dejará de tener vigencia surtirán todos sus efectos jurídicos. Las investigaciones en preparación de la acción de extinción de dominio deberán continuarse con la Ley Nacional de Extinción de Dominio.
