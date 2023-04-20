@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2023-01-26"
+last_updated: "2023-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE ABRIL DE 2023.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -1710,17 +1710,21 @@ Las Comisiones, previo acuerdo de sus integrantes, a través de la o el Presiden
 
 Las y los Diputados dejarán de ser integrantes de una Comisión o Comité cuando no acudan, sin causa justificada, a tres reuniones consecutivas de dicha Comisión o Comité. La o el Presidente de la Comisión o Comité notificará a la Junta, de quien incurra en este supuesto para los efectos correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE ABRIL DE 2023)</small>
+
 ###### Artículo 80.
 
-Los trabajos incluyendo el análisis y dictamen legislativo, así como las discusiones y votaciones en Comisión, se regirán por las disposiciones del reglamento.
+Los trabajos incluyendo el análisis y dictamen legislativo, así como las discusiones y votaciones en Comisión, se regirán por lo dispuesto en el Reglamento.
 
-Todo dictamen se elaborará con perspectiva de género y estará redactado con un lenguaje claro, preciso, incluyente y no sexista, y se compondrán de cuatro partes fundamentales: un preámbulo, los antecedentes, los considerandos y los puntos resolutivos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 20 DE ABRIL DE 2023)</small>
 
-Deberá estar debidamente fundado y motivado, e incluir las modificaciones que en su caso se hayan realizado y concluir con proposiciones claras y sencillas que puedan sujetarse a votación.
+> <small>(DEROGADO TERCERO PÁRRAFO, G.O. 20 DE ABRIL DE 2023)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE ABRIL DE 2023)</small>
 
 ###### Artículo 81.
 
-A la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias, le corresponde:
+A la Comisión de Normatividad, Estudios y Prácticas Parlamentarias, le corresponde:
 
 I. Preparar los proyectos de ley o decreto, para adecuar y perfeccionar las normas de las actividades legislativas;
 
@@ -1728,11 +1732,15 @@ II. Impulsar y realizar los estudios que versen sobre disposiciones normativas, 
 
 III. Desahogar las consultas respecto de la aplicación, interpretación e integración de esta ley, del reglamento y de los usos parlamentarios.
 
-Además de las atribuciones, competencia y facultades que tiene como Comisión ordinaria, la de Normatividad Legislativa, Estudios y Prácticas Parlamentarias, le corresponderá estudiar y dictaminar las propuestas de leyes o decretos que no sean materia exclusiva de alguna Comisión ordinaria, así como realizar las funciones que expresamente le señalen la presente ley y el reglamento.
+> <small>(REFORMADO, G.O. 20 DE ABRIL DE 2023)</small>
+
+Además de las atribuciones, competencia y facultades que tiene como Comisión ordinaria, la de Normatividad, Estudios y Prácticas Parlamentarias, le corresponderá estudiar y dictaminar las propuestas de leyes o decretos que no sean materia exclusiva de alguna Comisión ordinaria, así como realizar las funciones que expresamente le señalen la presente ley y el reglamento.
 
 Asimismo y a solicitud de la Comisión dictaminadora, apoyará en el análisis de las iniciativas de leyes o decretos y concurrirá a la formación de los dictámenes respectivos.
 
-Cuando la Comisión o Comisiones no puedan dictaminar dentro del plazo fijado, se expondrá por escrito los motivos a la Mesa Directiva para que ésta consulte al Pleno si procede ampliarlo. En caso de negativa respecto de la ampliación, la o el Presidente hará una excitativa para que se elabore el dictamen y si pasados cinco días de ésta, no se hubiere hecho el mismo, la o el Presidente turnará la iniciativa a la Comisión de Normatividad Legislativa, Estudios y Prácticas Parlamentarias.
+> <small>(REFORMADO, G.O. 20 DE ABRIL DE 2023)</small>
+
+Cuando la Comisión o Comisiones no puedan dictaminar dentro del plazo fijado, se expondrá por escrito los motivos a la Mesa Directiva para que ésta consulte al Pleno si procede ampliarlo. En caso de negativa respecto de la ampliación, la o el Presidente hará una excitativa para que se elabore el dictamen y si pasados cinco días de ésta, no se hubiere hecho el mismo, la o el Presidente turnará la iniciativa a la Comisión de Normatividad, Estudios y Prácticas Parlamentarias.
 
 ###### Artículo 82.
 
@@ -2901,6 +2909,22 @@ SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su difus
 G.O. 26 DE ENERO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 3; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 32; SE REFORMAN LAS FRACCIONES II Y XVII (SEGUNDA) PARA QUEDAR COMO FRACCIÓN XVIII DEL ARTÍCULO 66; SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 72, TODOS DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO. SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 7; SE REFORMA EL ARTÍCULO 87; SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 120; SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 126; SE REFORMAN LAS FRACCIONES I, II, Y IV DEL ARTÍCULO 140; SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 191; SE DEROGAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 194; SE REFORMA EL PÁRRAFO PRIMERO Y LA FRACCIÓN V DEL ARTÍCULO 306; SE REFORMA EL ARTÍCULO 337; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 338; SE REFORMAN LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 339; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 452, TODOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 81 PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO Y SE REFORMAN LOS ARTÍCULOS 99 PÁRRAFO SEGUNDO, 109, 263, 308 FRACCIONES I Y III, 334, 367 FRACCIÓN VII, Y 527 PÁRRAFOS PRIMERO Y SEGUNDO DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO Y SE DEROGAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 80 DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO Y SE REFORMAN LOS ARTÍCULOS 106, 256 Y 257; Y SE DEROGA EL ARTÍCULO 258 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
 
