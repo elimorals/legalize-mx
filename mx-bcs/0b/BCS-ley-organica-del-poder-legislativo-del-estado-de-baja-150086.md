@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2023-01-26"
+last_updated: "2023-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "BCS"
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ENERO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 20 DE ABRIL DE 2023.]</small>
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -1313,17 +1315,13 @@ XXXI.- Auxiliar a las unidades administrativas del Congreso, en la revisión de 
 
 XXXII.- Supervisar y evaluar a las unidades administrativas del Congreso del Estado, conforme lo establezca la normatividad legal aplicable;
 
-> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022) (F. DE E., B.O. 20 DE ABRIL DE 2023)
 
-XXXIII. Realizar visitas, revisiones, verificaciones y auditorías a las unidades administrativas del Congreso del Estado, a fin de supervisar su adecuado funcionamiento, y en su caso promover lo necesario, para corregir las deficiencias u omisiones en que hubieran incurrido;
+XXXIII.- Expedir certificaciones de los documentos que obren en los archivos de la Contraloría, salvaguardando la información en términos de la legislación aplicable en materia de transparencia, acceso a la información pública y protección de datos personales; y
 
-> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+(ADICIONADA [N. DE E. REFORMADA], B.O. 27 DE DICIEMBRE DE 2022) (F. DE E., B.O. 20 DE ABRIL DE 2023)
 
-XXXIV.- Expedir certificaciones de los documentos que obren en los archivos de la Contraloría, salvaguardando la información en términos de la legislación aplicable en materia de transparencia, acceso a la información pública y protección de datos personales; y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 27 DE DICIEMBRE DE 2022)</small>
-
-XXXV.- Las demás que expresamente le confieran otros ordenamientos legales o que determine el Pleno o la Junta de Gobierno y Coordinación Política.
+XXXIV.- Las demás que expresamente le confieran otros ordenamientos legales o que determine el Pleno o la Junta de Gobierno y Coordinación Política.
 
 > <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
 
@@ -1331,7 +1329,7 @@ Para el ejercicio de sus atribuciones la Contraloría del Poder Legislativo cont
 
 > <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
 
-El reglamento interno de la Contraloría del Poder legislativo que expida el Congreso del Estado establecerá el catálogo de competencias de cada una de las áreas a que alude el párrafo anterior.
+El reglamento interno de la Contraloría del Poder Legislativo que expida el Congreso del Estado establecerá el catálogo de competencias de cada una de las áreas a que alude el párrafo anterior.
 
 Artículo 72
 
