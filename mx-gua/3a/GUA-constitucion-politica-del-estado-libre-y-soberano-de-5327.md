@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2022-09-30"
+last_updated: "2023-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -106,6 +106,10 @@ Toda persona tiene derecho al acceso, disposición y saneamiento de agua para co
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 Toda persona tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2023)</small>
+
+Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -439,23 +443,7 @@ Quedan prohibidas las penas de muerte, de mutilación, de infamia, la marca, los
 
 No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos del artículo 124 fracción I de esta Constitución, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia.
 
-Para la extinción de dominio, la ley establecerá un procedimiento que se regirá por las siguientes reglas:
-
-I.- Será jurisdiccional y autónomo del de materia penal;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
-
-II.- Procederá en los casos de los delitos contra la salud, secuestro, robo de vehículo, enriquecimiento ilícito y trata de personas, respecto de los bienes siguientes:
-
-a) Aquellos que sean instrumento, objeto o producto del delito, donde existan elementos suficientes para determinar que el hecho ilícito sucedió.
-
-b) Aquellos que no sean instrumento, objeto o producto del delito, pero que hayan sido utilizados o destinados a ocultar o mezclar bienes producto del delito, siempre y cuando se reúnan los extremos del inciso anterior.
-
-c) Aquellos que estén siendo utilizados para la comisión de delitos por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo.
-
-d) Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales y el acusado por estos delitos se comporte como dueño.
-
-III.- Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 20 DE ABRIL DE 2023)</small>
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2016)</small>
 
@@ -2613,9 +2601,9 @@ I.- Aprobar, de acuerdo con las Leyes en materia municipal que expida el Congres
 
 II.- Ejercer, en los términos de las Leyes federales y estatales, las siguientes facultades:
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
-a).- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; asimismo planear y regular de manera conjunta y coordinada con la Federación, el Gobierno del Estado y los Ayuntamientos respectivos, el desarrollo de los centros urbanos, cuando dichos centros se encuentren situados en territorios de los Municipios del Estado o en los de éste con otro vecino, de manera que formen o tiendan a formar una continuidad demográfica, debiendo apegarse a la Ley Federal de la materia. Los Planes de Desarrollo Urbano Municipal deberán establecer la prohibición de usos de suelo y uso de edificación para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, así como para el establecimiento de centros que presenten espectáculos con personas desnudas o semidesnudas;
+a).- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial; asimismo planear y regular de manera conjunta y coordinada con la Federación, el Gobierno del Estado y los Ayuntamientos respectivos, el desarrollo de los centros urbanos, cuando dichos centros se encuentren situados en territorios de los Municipios del Estado o en los de éste con otro vecino, de manera que formen o tiendan a formar una continuidad demográfica, incluyendo criterios para la movilidad y la seguridad vial, debiendo apegarse a las leyes federales de la materia. Los Planes de Desarrollo Urbano Municipal deberán establecer la prohibición de usos de suelo y uso de edificación para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, así como para el establecimiento de centros que presenten espectáculos con personas desnudas o semidesnudas;
 
 b).- Participar en la creación y administración de sus reservas territoriales;
 
@@ -4242,3 +4230,19 @@ P.O. 30 DE SEPTIEMBRE DE 2022.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. El Congreso del Estado deberá expedir dentro de los 180 días siguientes a la publicación del presente Decreto, las correspondientes reformas legales en la materia.
+
+P.O. 20 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 191 MEDIANTE EL QUE SE DEROGA EL CUARTO PÁRRAFO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO; Y SE ABROGA LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE GUANAJUATO EXPEDIDA POR LA SEXAGÉSIMA PRIMERA LEGISLATURA, MEDIANTE EL DECRETO LEGISLATIVO NÚMERO 170 PUBLICADO EN EL PERIÓDICO OFICIAL DE (SIC) GOBIERNO DEL ESTADO DE GUANAJUATO, NÚMERO 98, QUINTA PARTE DE FECHA 21 DE JUNIO DE 2011 Y SE DEROGAN TODAS LAS DISPOSICIONES LEGALES, REGLAMENTARIAS Y ADMINISTRATIVAS, QUE SE OPONGAN A LO DISPUESTO EN LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Se abroga la Ley de Extinción de Dominio del Estado de Guanajuato expedida por la Sexagésima Primera Legislatura, mediante el decreto legislativo número 170 publicado en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato, número 98, quinta parte de fecha 21 de junio de 2011 y se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en la Ley Nacional de Extinción de Dominio.
+
+Artículo Tercero. Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley de Extinción de Dominio del Estado de Guanajuato deberán concluirse y ejecutarse conforme a la legislación vigente al momento de su inicio; las sentencias dictadas con base al ordenamiento que dejará de tener vigencia surtirán todos sus efectos jurídicos. Las investigaciones en preparación de la acción de extinción de dominio deberán continuarse con la Ley Nacional de Extinción de Dominio.
+
+P.O. 20 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 192 MEDIANTE EL QUE SE REFORMA EL INCISO A) DE LA FRACCIÓN II DEL ARTÍCULO 117 Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
