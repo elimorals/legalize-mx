@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-143717"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-22"
-last_updated: "2022-12-14"
+last_updated: "2023-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 22 de Julio de 2020.
 
@@ -1203,7 +1203,7 @@ Las instituciones de educación media superior y superior podrán formar parte d
 
 #### Sección I. Educación Especial
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 239/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUANAJUATO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Derecho a la educación especial
 
@@ -1211,9 +1211,9 @@ Derecho a la educación especial
 
 En la aplicación de esta Ley, se garantizará el derecho a la educación especial, dirigida a los educandos que tienen condiciones especiales o que enfrenten barreras para el aprendizaje y la participación.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 239/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUANAJUATO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
-Propósito de la Educación Especial
+Propósito de la educación especial
 
 ###### Artículo 78.
 
@@ -1223,15 +1223,15 @@ De igual forma, comprenderá los servicios y programas que brinden orientación 
 
 Las autoridades educativas, atendiendo a la demanda de estos servicios, establecerán de manera creciente centros de servicios de educación especial o sus equivalentes, con la infraestructura física educativa y recursos necesarios en cada municipio. Asimismo, fortalecerán la educación especial y la educación inicial.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 239/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUANAJUATO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Inclusión de las personas con discapacidad
 
 ###### Artículo 79.
 
-El Estado garantizará a las personas con discapacidad, competencias que les permitan aprender y desarrollar habilidades para toda la vida competencias que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad.
+El Estado garantizará a las personas con discapacidad, competencias que les permitan aprender y desarrollar habilidades para toda la vida, competencias que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 239/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUANAJUATO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Obligaciones en materia de educación especial
 
@@ -1247,15 +1247,15 @@ III. Favorecer la plena participación de los educandos en su educación y facil
 
 IV. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación;
 
-V. Proporcionar una educación o capacitación basada en criterios de integración e inclusión para las personas con la condición del espectro autista, tomando en cuenta sus capacidades y potencialidades, mediante evaluaciones pedagógicas, a fin de fortalecer la posibilidad de que tengan una vida independiente;
+V. Proporcionar una educación o capacitación basada en criterios de integración e inclusión para las personas con la condición del espectro autista, cualquier otro trastorno generalizado del desarrollo o persona con discapacidad, tomando en cuenta sus capacidades y potencialidades, mediante evaluaciones pedagógicas, a fin de fortalecer la posibilidad de que tengan una vida independiente;
 
-VI. Contar en el marco de la educación especial, con elementos que faciliten el proceso de inclusión a escuelas de educación regular, a las personas con la condición del espectro autista;
+VI. Contar en el marco de la educación especial, con elementos que faciliten el proceso de inclusión a escuelas de educación regular, a las personas con la condición del espectro autista, cualquier otro trastorno generalizado del desarrollo o persona con discapacidad;
 
-VII. Realizar acciones que tiendan a no impedir la inscripción de personas con la condición del espectro autista en los planteles educativos públicos y privados; y
+VII. Realizar acciones que tiendan a no impedir la inscripción de personas con la condición del espectro autista, cualquier otro trastorno generalizado del desarrollo o persona con discapacidad, en los planteles educativos públicos y privados; y
 
 VIII. Las demás previstas en la Ley General de Educación y demás normatividad aplicable.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 239/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUANAJUATO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Atención en planteles de educación básica y media superior
 
@@ -1263,7 +1263,7 @@ Atención en planteles de educación básica y media superior
 
 Tratándose de personas con discapacidad y con trastornos generalizados del desarrollo, se favorecerá su atención en los planteles de educación básica y media superior, sin que esto cancele su posibilidad de acceder a las diversas modalidades de educación especial atendiendo a sus necesidades.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 239/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUANAJUATO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Ajustes razonables
 
@@ -1271,7 +1271,7 @@ Ajustes razonables
 
 Las instituciones educativas públicas o particulares realizarán ajustes razonables y aplicarán métodos, técnicas, materiales específicos y las medidas de apoyo necesarias para garantizar la satisfacción de las necesidades básicas de aprendizaje de los educandos y el máximo desarrollo de su potencial para la autónoma integración a la vida social y productiva.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 239/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUANAJUATO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Formación y capacitación de maestros en educación especial
 
@@ -1279,7 +1279,7 @@ Formación y capacitación de maestros en educación especial
 
 La formación continua y capacitación de las maestras y maestros promoverá la educación especial y desarrollará las competencias necesarias para la adecuada atención de los educandos.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 239/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUANAJUATO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Enfoques de la educación especial
 
@@ -1287,25 +1287,25 @@ Enfoques de la educación especial
 
 La educación especial incorporará los enfoques de inclusión e igualdad sustantiva en las escuelas de educación básica y media superior que atiendan a educandos con discapacidad, con trastornos generalizados del desarrollo, o bien aptitudes sobresalientes, considerando la capacitación y orientación a los padres de familia, personal docente, directivo y de apoyo de las escuelas regulares.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 239/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUANAJUATO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Observancia de la normatividad aplicable
 
 ###### Artículo 85.
 
-La prestación de los servicios educativos a las personas con discapacidad, y trastornos generalizados del desarrollo, atenderá además de lo dispuesto por la legislación en materia educativa, a las disposiciones en materia de accesibilidad señaladas en la Ley General para la Inclusión de las Personas con Discapacidad, la Ley de Inclusión para las Personas con Discapacidad en el Estado de Guanajuato, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista, la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, y demás normativa aplicable.
+La prestación de los servicios educativos a las personas con discapacidad, y trastornos generalizados del desarrollo, atenderá además de lo dispuesto por la legislación en materia educativa, a las disposiciones en materia de accesibilidad señaladas en la Ley General para la Inclusión de las Personas con Discapacidad; la Ley de Inclusión para las Personas con Discapacidad en el Estado de Guanajuato; la Ley General de los Derechos de Niñas, Niños y Adolescentes; la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista; la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato; y demás normativa aplicable.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 239/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUANAJUATO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Centros de Atención Múltiple
 
 ###### Artículo 86.
 
-Los Centros de Atención Múltiple, prestarán servicios de educación especial, del tipo básico, en sus niveles inicial, prescolar, primaria y secundaria, además de formación para el trabajo.
+Los Centros de Atención Múltiple, prestarán servicios de educación especial, del tipo básico, en sus niveles inicial, prescolar (sic), primaria y secundaria, además de formación para el trabajo.
 
 Asimismo, las autoridades educativas promoverán y facilitarán la continuidad de los estudios en los tipos de educación media superior y superior.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 239/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUANAJUATO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Garantía de la educación inclusiva
 
@@ -1321,11 +1321,11 @@ III. Asegurar que los educandos con discapacidad reciban educación en los lengu
 
 IV. Proporcionar a los educandos con aptitudes sobresalientes, la atención que requieran de acuerdo con sus capacidades, intereses y necesidades; y
 
-V. Las demás que establezca la Ley General de Educación y la presente Ley.
+V. Las demás que establezcan la Ley General de Educación y la presente Ley.
 
 #### Sección II. Educación Indígena
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 239/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUANAJUATO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Derechos educativos, culturales y lingüísticos
 
@@ -1335,7 +1335,7 @@ El Estado garantizará el ejercicio de los derechos educativos, culturales y lin
 
 La educación indígena debe atender las necesidades educativas de las personas, pueblos y comunidades indígenas con pertinencia cultural y lingüística; además de basarse en el respeto, promoción y preservación del patrimonio histórico y de las culturas.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 239/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUANAJUATO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Realización de consultas
 
@@ -1343,7 +1343,7 @@ Realización de consultas
 
 Las autoridades educativas consultarán de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, cada vez que prevea medidas en materia educativa, relacionadas con los pueblos y comunidades indígenas o afromexicanas, respetando su autodeterminación en los términos del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política para el Estado de Guanajuato.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 239/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUANAJUATO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Educación Indígena
 
@@ -1353,9 +1353,9 @@ La educación indígena estará destinada a las personas de los pueblos y comuni
 
 Las autoridades educativas garantizarán que esta educación sea bilingüe e intercultural, impartida por personal docente hablante de la lengua indígena.
 
-La prestación de la educación indígena atenderá además de lo dispuesto por la legislación en materia educativa, a lo señalado por la Ley General de los Derechos Lingüísticos de los Pueblos Indígenas, la Ley para la Protección de los Pueblos y Comunidades Indígenas en el Estado de Guanajuato y demás disposiciones normativas.
+La prestación de la educación indígena atenderá además de lo dispuesto por la legislación en materia educativa, a lo señalado por la Ley General de Derechos Lingüísticos de los Pueblos Indígenas, la Ley para la Protección de los Pueblos y Comunidades Indígenas en el Estado de Guanajuato y demás disposiciones normativas.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 239/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUANAJUATO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Obligaciones en materia de educación indígena
 
@@ -1365,7 +1365,7 @@ Para efectos de dar cumplimiento a lo dispuesto en materia de educación indíge
 
 I. Fortalecer las escuelas o centros de educación indígena, en especial en lo concerniente a la infraestructura escolar, los servicios básicos y la conectividad;
 
-II. Desarrollar programas educativos que reconozcan la herencia cultural de los pueblos y comunidades indígenas o afromexicanas y promover la valoración de distintas formas de producir, interpretar y transmitir el conocimiento, las culturas, saber utilizar materiales educativos, entre ellos libros de texto gratuitos, en las diversas lenguas del territorio estatal;
+II. Desarrollar programas educativos que reconozcan la herencia cultural incluida la gastronomía y medicina tradicional de los pueblos y comunidades indígenas o afromexicanas y promover la valoración de distintas formas de producir, interpretar y transmitir el conocimiento, las culturas, saber utilizar materiales educativos, entre ellos libros de texto gratuitos, en las diversas lenguas del territorio estatal;
 
 III. Fortalecer las instituciones públicas de formación docente, la adscripción de los docentes en las localidades y regiones lingüísticas a las que pertenecen, así como impulsar programas de formación, actualización y certificación de maestras y maestros en las lenguas de las regiones correspondientes;
 
@@ -3288,3 +3288,9 @@ P.O. 14 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 120 DE LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 20 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 194 MEDIANTE EL QUE SE REFORMAN LOS ARTÍCULOS 77 A 87, QUE CONFORMAN LA SECCIÓN I, “EDUCACIÓN ESPECIAL” Y 88 A 91 QUE INTEGRAN LA SECCIÓN II, “EDUCACIÓN INDÍGENA” DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo único. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
