@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "2023-04-13"
+last_updated: "2023-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
@@ -342,6 +342,14 @@ II.- Las que deben concederse para el desempeño de comisiones sindicales, que s
 III.- Las que deben concederse con motivo del ascenso de un trabajador de base a un puesto de confianza, en cuyo caso será por el tiempo que dure el desempeño de dicho puesto; su duración se computará en los derechos de antigüedad del trabajador promovido.
 
 IV.- Las que deben concederse con motivo del desempeño de un puesto de elección popular.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2023)</small>
+
+Artículo 38o bis. Para los casos de madres o padres trabajadores asegurados, cuyos hijos de hasta dieciséis años hayan sido diagnosticados con cáncer de cualquier tipo, podrán gozar de una licencia por cuidados médicos de dichos menores para ausentarse de sus labores en caso de que la niña, niño o adolescente diagnosticado requiera de descanso médico en los periodos críticos de tratamiento o de hospitalización durante el tratamiento médico, de acuerdo a la prescripción del médico tratante, incluyendo, en su caso, el tratamiento destinado al alivio del dolor y los cuidados paliativos por cáncer avanzado.
+
+Para el otorgamiento de la licencia a que se hace mención en este mismo artículo, se estará a lo dispuesto por el artículo 140 bis de la Ley del Seguro Social o el artículo 37 bis de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, según sea el caso.
+
+En ningún caso se podrá otorgar dicha licencia a ambos padres trabajadores del menor diagnosticado con cáncer.
 
 ###### Artículo 39o.
 
@@ -1590,6 +1598,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 13 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 349.- QUE CONTIENE REFORMA AL ARTÍCULO 55 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 350.- QUE CONTIENE ADICION A LA LEY DE TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
