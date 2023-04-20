@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2022-11-12"
+last_updated: "2023-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -687,47 +687,51 @@ El desarrollo tecnológico y la innovación, asociados a la actualización, a la
 
 El desarrollo de actividades de enseñanza, aprendizaje, evaluación, gestión, actualización, capacitación, así como la infraestructura educativa y demás acciones relacionadas con la educación en Jalisco, deberán estar encaminadas y apuntar a funcionar, de manera permanente, bajo un modelo mixto, que combine la modalidad presencial y la virtual, apoyándose, de manera responsable y con fines pedagógicos, de tecnologías de información, comunicación y conocimiento, incluyendo: plataformas para la gestión de aprendizaje, repositorios de recursos educativos abiertos, bibliotecas digitales de acceso abierto, herramientas de colaboración y producción de recursos digitales, y aquellas otras que contribuyan a la excelencia e innovación educativa.
 
-### Capítulo VI. De la educación intercultural
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2023)</small>
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 178/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE JALISCO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+### Capítulo VI. De la educación indígena, intercultural y bilingüe
 
-Objeto de la educación intercultural
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
+
+Objeto de la educación indígena, intercultural y bilingüe
 
 ###### Artículo 40.
 
-En el estado de Jalisco se garantizará el ejercicio de los derechos educativos, culturales y lingüísticos a todas las personas, pueblos y comunidades indígenas o afromexicanas, migrantes y jornaleros agrícolas. Las acciones educativas de las autoridades respectivas contribuirán al conocimiento, aprendizaje, reconocimiento, valoración, preservación y desarrollo tanto de la tradición oral y escrita indígena, como de las lenguas indígenas de la entidad como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.
+En el estado de Jalisco se garantizarán, respetarán, protegerán y promoverán el ejercicio de los derechos educativos, culturales y lingüísticos a todas las personas pertenecientes a pueblos y comunidades indígenas originarias o residentes en el estado y afromexicanas, de acuerdo con las particularidades de cada región. Las acciones educativas de las autoridades contribuirán y protegerán el conocimiento, aprendizaje, reconocimiento, valoración, preservación, rescate, reinserción, desarrollo y refuncionalización tanto de la tradición oral, y escrita indígena, como de las lenguas indígenas de la entidad como medio de comunicación, de enseñanza, objeto y fuente de conocimiento, a través de los elementos culturales y los sistemas de conocimiento, en todos los niveles educativos.
 
-La educación intercultural debe atender las necesidades educativas de las personas, pueblos y comunidades indígenas con pertinencia cultural y lingüística; además de basarse en el respeto, promoción y preservación del patrimonio histórico y las culturas del estado.
+La educación indígena, intercultural y bilingüe debe atender las necesidades educativas, desde la cosmovisión, de las personas, pueblos y comunidades indígenas con pertenencia cultural y lingüística; además de basarse en el respeto, promoción y preservación del patrimonio material e inmaterial, histórico y las culturas del Estado.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 178/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE JALISCO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Consulta de buena fe y de manera previa, libre e informada a pueblos y comunidades indígenas
 
 ###### Artículo 41.
 
-Las autoridades educativas del estado de Jalisco deberán consultar de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales estatales nacionales e internacionales en la materia, cada vez que prevea medidas en materia educativa, relacionadas con los pueblos y comunidades indígenas y afromexicanas, respetando su autodeterminación en los términos del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
+Las autoridades educativas del estado de Jalisco deben consultar a pueblos y comunidades indígenas y afromexicanas de buena fe, de manera previa, libre, informada y culturalmente adecuada, de acuerdo con las disposiciones legales estatales nacionales e internacionales en la materia, cada vez que prevea medidas en materia educativa, relacionadas con los pueblos y comunidades indígenas y afromexicanas, respetando su libre determinación en los términos del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 178/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE JALISCO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+Para ello, se coordinarán con las autoridades que resulten competentes, para contactar a las comunidades indígenas y afromexicanas para darles a conocer, informar, difundir y convocar a la realización de las consultas correspondientes.
 
-Acciones en materia de educación intercultural
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
+
+Acciones en materia de educación indígena, intercultural y bilingüe,
 
 ###### Artículo 42.
 
-En materia de educación intercultural, las autoridades educativas estatal y municipales podrán realizar lo siguiente, entre otras acciones:
+En materia de educación indígena, intercultural y bilingüe, las autoridades educativas estatal y municipales deberán realizar lo siguiente, entre otras acciones:
 
-I. Fortalecer las escuelas de educación intercultural, los centros educativos integrales y albergues escolares indígenas, en especial en lo concerniente a la infraestructura escolar, los servicios básicos y la conectividad;
+I. Dotar, previo diágnostico, las escuelas de educación indígena, intercultural y bilingüe, en todos sus niveles, los centros educativos integrales y albergues escolares indígenas, en especial en lo concerniente a la infraestructura escolar inclusiva, los servicios básicos, la conectividad y la enseñanza de las lenguas indígenas;
 
-II. Desarrollar programas educativos que reconozcan la herencia cultural de los pueblos y comunidades indígenas y afromexicanas, y promover la valoración de distintas formas de producir, interpretar y transmitir el conocimiento, las culturas, saberes, lenguajes y tecnologías;
+II. Crear y producir, con participación activa de la comunidad escolar, programas educativos a través de los elementos culturales y los sistemas de conocimientos de los pueblos y comunidades indígenas o afromexicanas, y priorizar la valoración de distintas formas de producir, interpretar, transmitir y practicar los conocimientos, las culturas, saberes, lenguajes y tecnologías;
 
-III. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, en las diversas lenguas de la entidad;
+III. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, en las diversas lenguas presentes en la entidad, que sean propias de la identidad, gramática y lingüística de la región;
 
-IV. Fortalecer las instituciones públicas de formación docente, la adscripción de los docentes en las localidades y regiones lingüísticas a las que pertenecen, así como impulsar programas de formación y actualización de maestras y maestros en las lenguas de las regiones correspondientes;
+IV. Fortalecer las instituciones públicas de formación docente, privilegiar la adscripción de los docentes en las localidades que corresponda en la medida de lo posible a la identidad cultural y regiones lingüísticas a las que pertenecen, así como impulsar programas de formación desde una perspectiva intercultural e intracultural y actualización de maestras y maestros en las lenguas de las regiones correspondientes;
 
-V. Tomar en consideración, los sistemas de conocimientos de los pueblos y comunidades indígenas y afromexicanas, en las opiniones que emita la autoridad educativa estatal para la elaboración de los planes y programas de estudio con el fin favorecer la recuperación cotidiana de las diferentes expresiones y prácticas culturales de cada pueblo en la vida escolar;
+(sic) los educandos y con un enfoque intercultural, intracultural y plurilingüe.
 
-VI. Crear mecanismos y estrategias para incentivar el acceso, permanencia, tránsito, formación y desarrollo de los educandos con un enfoque intercultural y plurilingüe, y
+Para ello, se brindará asesoría y acompañamiento necesario; y
 
-VII. Establecer esquemas de coordinación entre las diferentes instancias de gobierno para asegurar que existan programas de movilidad e intercambio, nacional e internacional, dando especial apoyo a estudiantes de los pueblos y comunidades indígenas y afromexicanas, en un marco de inclusión y enriquecimiento de las diferentes culturas.
+VII (SIC). Establecer esquemas de coordinación entre diferentes instancias de gobierno para asegurar que existan programas de movilidad e intercambio, nacional e internacional, dando especial apoyo a estudiantes de los pueblos y comunidades indígenas y afromexicanas, en un marco de inclusión, equidad y enriquecimiento de las diferentes culturas en movimiento.
 
 ### Capítulo VII. La educación humanista
 
@@ -745,87 +749,101 @@ Fomento de la educación artística
 
 La autoridad educativa estatal, generará mecanismos para apoyar y promover la creación y difusión artística, propiciar el conocimiento crítico, así como la difusión del arte y las culturas. En coordinación con la autoridad educativa federal, adoptará medidas para que, dentro de la orientación integral del educando, se promuevan métodos de enseñanza aprendizaje, con la finalidad de que exprese sus emociones a través de manifestaciones artísticas y se contribuya al desarrollo cultural y cognoscitivo de las personas.
 
-### Capítulo VIII. De la educación inclusiva
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2023)</small>
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 178/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE JALISCO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+### Capítulo VIII. De la educación inclusiva y especial
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Educación inclusiva
 
 ###### Artículo 45.
 
-La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos, al eliminar prácticas de discriminación, exclusión y segregación.
+La educación inclusiva es aquella que propicia la inclusión y participación activa de las personas con discapacidad en las instituciones educativas mediante la aplicación del conjunto de acciones orientadas a identificar, prevenir, ajustar, reducir y eliminar las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos, al eliminar prácticas de discriminación, exclusión y segregación.
 
-La educación inclusiva se basa en la valoración de la diversidad, adaptando el sistema para responder con equidad a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de todos y cada uno de los educandos.
+La educación inclusiva se basa en la valoración y atención con calidad de la diversidad funcional, adaptando el sistema para responder con equidad a las características, circunstancias, necesidades, intereses, capacidades, habilidades, estilos y ritmo de aprendizaje de todos y cada uno de los educandos.
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 178/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE JALISCO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+La educación inclusiva se desarrollará en el sistema educativo regular y podrá hacer uso de la tecnología para desarrollar y facilitar el aprendizaje de los educandos.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Finalidad de la educación inclusiva
 
 ###### Artículo 46.
 
-La educación inclusiva tiene como finalidad favorecer el aprendizaje de todos los educandos en los tipos y niveles educativos, con énfasis en los que están excluidos, marginados o en riesgo de estarlo. Para tal efecto, las acciones de la autoridad educativa en la materia buscarán:
+La educación inclusiva tiene como finalidad favorecer el aprendizaje de todos los educandos en los tipos y niveles educativos, con énfasis en los que están excluidos, marginados o en riesgo de estarlo. Para tal efecto, las acciones de la Secretaría en la materia buscarán:
 
 I. Favorecer el máximo logro de aprendizaje de los educandos con respeto a su dignidad, derechos humanos y libertades fundamentales, reforzando su autoestima y aprecio por la diversidad humana;
 
 II. Desarrollar al máximo la personalidad, los talentos y la creatividad de los educandos;
 
-III. Favorecer la plena participación de los educandos, en su educación y facilitar la continuidad de sus estudios en la educación básica;
+III. Favorecer la plena participación de los educandos, su educación y facilitar la continuidad de sus estudios en la educación obligatoria, permitiendo esquemas de aprendizaje a través de la tecnología o flexibles para la continuidad de su educación;
 
-IV. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Estatal por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual o de género, así como por sus características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje, entre otras;
+IV. Incrementar acciones para que ninguna persona quede excluida, marginada o en riesgo de estarlo, del Sistema Educativo Estatal por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual o de género, situación migratoria, así como por sus características, circunstancias necesidades, intereses, capacidades, habilidades, discapacidades, estilos y ritmos de aprendizaje, entre otras;
 
-V. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación; y
+V. Realizar los ajustes razonables en función de las necesidades detectadas en la valoración continua del educando y otorgar los apoyos necesarios para facilitar su formación, de docentes y administrativos;
 
-VI. Proporcionar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en equidad de condiciones en la educación y en la sociedad.
+VI. Proveer a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, bajo esquemas que garanticen sus derechos, a fin de propiciar su participación plena y en equidad de condiciones en la educación y en la sociedad; y
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 178/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE JALISCO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+VII. Reconocer distintos modelos lingüísticos en el sistema educativo estatal.
 
-Derecho a la educación inclusiva
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
+
+Derecho a la educación inclusiva y espacial (sic)
 
 ###### Artículo 47.
 
-En la aplicación de esta Ley, se garantizará el derecho a la educación a los educandos con condiciones especiales, aptitudes sobresalientes o que enfrenten barreras para el aprendizaje y la participación.
+En la aplicación de esta Ley, se garantizará el derecho a la educación a los educandos con discapacidad, aptitudes sobresalientes, cualquier otro problema de aprendizaje o que enfrenten barreras para el aprendizaje y la participación, previa decisión, diagnóstico, valoración, apoyo y participación de los padres de familia.
 
-Las autoridades educativas, en el ámbito de su competencia y de conformidad a los criterios orientadores para la prestación de los servicios de educación especial que emita la autoridad educativa federal, para atender a los educandos con capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos, realizará lo siguiente:
+La Secretaría, en el ámbito de su competencia y de conformidad a los criterios para la prestación de servicios de educación especial que emita la autoridad educativa federal, para atender a los educandos con capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos, se realizará lo siguiente:
 
-I. Prestar educación especial en condiciones necesarias, previa decisión y valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y, en su caso, derivados por una condición de salud, para garantizar el derecho a la educación de los educandos que enfrentan barreras para el aprendizaje y la participación;
+I. Prestar educación inclusiva, especial, atención y capacitación en condiciones necesarias, previa decisión y valoración por parte de los educandos, madres y padres de familia o tutores, personal docente, administrativo o cualquier persona que desempeñe una actividad en las instituciones educativas y, en su caso, derivados por una condición de salud, para garantizar el derecho a la educación de los educandos que enfrentan barreras para el aprendizaje y la participación;
 
-II. Ofrecer formatos accesibles para prestar educación especial, procurando en la medida de lo posible su incorporación a todos los servicios educativos, sin que esto cancele su posibilidad de acceder al servicio escolarizado;
+II. Ofrecer formatos accesibles tales como en escritura braille, pictogramas, lectura fácil, macrotipos, tiflotecnología, lengua de Señas Mexicana o cualquiera que resulte pertinente y adecuado para prestar educación inclusiva y especial, procurando en la medida de lo posible su incorporación a todos los servicios educativos, sin que esto cancele su posibilidad de acceder al servicio escolarizado;
 
-III. Prestar educación especial para apoyar a los educandos con alguna discapacidad o aptitudes sobresalientes en los niveles de educación obligatoria;
+III. Prestar educación especial para apoyar a los educandos independientemente de su edad y con alguna discapacidad o aptitudes sobresalientes en los niveles de educación obligatoria;
 
-IV. Establecer un sistema de diagnóstico temprano y atención especializada para la eliminación de barreras para el aprendizaje y la participación;
+IV. Establecer con intervención de la Secretaría de Salud un sistema de diagnóstico temprano, atención especializada y emocional, así como para la eliminación de barreras para el aprendizaje y la participación;
 
-V. Garantizar la formación de todo el personal docente para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y preste los apoyos que los educandos requieran;
+V. Garantizar la formación de todo el personal docente, familia y comunidad escolar para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y preste los apoyos que los educandos requieran;
 
-VI. Garantizar la satisfacción de las necesidades básicas de aprendizaje de los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva; y
+VI. Garantizar la satisfacción de las necesidades específicas de aprendizaje de los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva;
 
-VII. Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todos los actores sociales involucrados en educación.
+VII. Promover actitudes, prácticas, políticas y culturas incluyentes e inclusivas para la eliminación de barreras del aprendizaje en todos los actores sociales involucrados en educación; e
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 178/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE JALISCO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+VIII. Implementar la educación física adaptada e incluyente para las personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Medidas para garantizar la educación inclusiva
 
 ###### Artículo 48.
 
-Para garantizar la educación inclusiva, la autoridad educativa, en el ámbito de su competencia, ofrecerán (sic) las medidas pertinentes, entre ellas:
+Para garantizar la educación inclusiva, la Secretaría, en el ámbito de su competencia, ofrecerán (sic) las medidas pertinentes, entre ellas:
 
-I. Facilitar el aprendizaje del sistema Braille, otros modos, medios y formatos de comunicación aumentativos o alternativos y habilidades de orientación y de movilidad, así como la tutoría y el apoyo necesario;
+I. Asegurar el aprendizaje del sistema Braille, macrotipos, tiflotecnología, otros modos, medios y formatos de comunicación aumentativos o alternativos y habilidades de orientación y de movilidad, habilidades para la vida, así como la tutoría y el apoyo necesario;
 
-II. Facilitar la adquisición y el aprendizaje de la Lengua de Señas dependiendo de las capacidades del educando y la enseñanza del español para las personas sordas;
+II. Proporcionar la adquisición y el aprendizaje de la Lengua de Señas de acuerdo con las capacidades del educando y la enseñanza del español para las personas sordas mediante la incorporación de profesorado sordo, bilingüe, Lengua de Señas Mexicana o intérprete educativo;
 
-III. Asegurar que los educandos ciegos, sordos o sordociegos reciban educación en los lenguajes y los modos y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social;
+III. Que los educandos ciegos, sordos o sordociegos reciban educación en lengua de señas mexicana y el sistema Braille, macrotipos, tiflotecnología, lectura fácil, los modos y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo, social, deportivo y cultural;
 
-IV. Asegurar que se realicen ajustes razonables para las personas con discapacidad; y
+IV. Asegurar que se realicen ajustes razonables para las personas con discapacidad desde el enfoque de diseño universal;
 
-V. Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades.
+V. Proporcionar a los educandos con aptitudes sobresalientes la atención y el apoyo que requieran de acuerdo con sus capacidades, intereses y necesidades;
 
-(NOTA: EL 21 DE OCTUBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 178/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE JALISCO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+VI. Promover la participación activa de los padres o tutores en los procesos de educación inclusiva;
+
+VII. Garantizar la accesibilidad digital a las personas con discapacidad para que reciban una educación inclusiva o especial de acuerdo con las capacidades del educando; y
+
+VIII. Formular políticas y prácticas inclusivas en la comunidad educativa.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
 Disposiciones de accesibilidad en el Sistema Educativo Estatal
 
 ###### Artículo 49.
 
-En el Sistema Educativo Estatal se atenderán las disposiciones en materia de accesibilidad señaladas en la presente Ley, la Ley General para la Inclusión de las Personas con Discapacidad, la Ley Federal para Prevenir y Eliminar la Discriminación y en las demás normas aplicables.
+En el Sistema Educativo Estatal se observarán las disposiciones en materia de accesibilidad señaladas en la presente Ley, la Ley General para la Inclusión de las Personas con Discapacidad, la Ley Federal para Prevenir y Eliminar la Discriminación, la Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad del Estado de Jalisco y en las demás normas aplicables.
 
 ### Capítulo IX. De la educación para personas adultas
 
@@ -2594,3 +2612,19 @@ QUINTO. Los Centros Integrales de Atención y los Módulos Comunitarios de Atenc
 SEXTO. El Gobierno del Estado en coordinación con los municipios asignarán los recursos necesarios en su presupuesto de egresos respectivos, para implementar un Módulo Comunitario de Atención a personas usuarias del servicio, que deberán instrumentarse paulatinamente conforme a la disponibilidad presupuestal y la demanda de servicios de atención en materia de salud mental.
 
 SÉPTIMO. La Secretaría de Educación, conforme a la suficiencia presupuestal asignada, instrumentará las acciones establecidas en la presente Ley.
+
+P.O. 20 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29175/LXIII/23 QUE REFORMA LOS ARTÍCULOS 40, 41, 42, 45, 46, 47, 48 Y 49 Y SE MODIFICA LA DENOMINACIÓN DE LOS CAPÍTULOS VI Y VIII QUE LOS CONTIENEN, PARA TITULARSE "DE LA EDUCACIÓN INDÍGENA, INTERCULTURAL Y BILINGÜE", "DE LA EDUCACIÓN INCLUSIVA Y ESPECIAL" RESPECTIVAMENTE, AMBOS DEL TÍTULO SEGUNDO DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El titular del Poder Ejecutivo hará las adecuaciones necesarias a los Reglamentos de la presente ley, en un plazo no mayor de ciento ochenta días siguientes a la fecha de la entrada en vigor del presente decreto.
+
+TERCERO. La Secretaría de Educación emitirá en un plazo no mayor de ciento ochenta días, los manuales y programas para las adecuaciones curriculares para la educación inclusiva e indígena intercultural y bilingüe conforme al presente decreto.
+
+CUARTO. En la medida de lo posible el Poder Ejecutivo y la Secretaría de Educación deberán incorporar en el profesiograma a los licenciados de educación inclusiva o especial y maestros sordos, interpretes educativos y maestros bilingües.
+
+QUINTO. Se autoriza a la Secretaria de la Hacienda Pública a realizar las adecuaciones presupuestales en el Presupuesto de Egresos del ejercicio fiscal 2023 a efecto de dar cumplimiento al presente decreto.
+
+SEXTO. La Secretaría de Educación, conforme a la suficiencia presupuestal asignada, instrumentará progresivamente las acciones establecidas en el presente decreto.
