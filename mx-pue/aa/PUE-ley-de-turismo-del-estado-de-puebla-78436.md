@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2023-04-10"
+last_updated: "2023-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -171,9 +171,17 @@ XXV.- Viajes de Incentivo: Es una estrategia moderna gerencial utilizada para lo
 
 XXVI.- Reuniones de Negocios Grupal: Es el tipo de turismo en donde el destino es seleccionado por un mercado o producto que es el principal interés del negocio a realizar. Este tipo de turismo tiene la posibilidad de seleccionar el destino turístico donde se realice un congreso, convención o viaje de incentivos, siempre y cuando cumpla con los requisitos para su organización;
 
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2023)</small>
 
-XXVII.- Reuniones de Negocios Individual: Se entiende por la persona que se desplaza y visita un destino turístico específico, en función de las actividades laborales y profesionales que desarrolla, además de realizar actividades basadas en el negocio por el cual viaja, frecuentemente llamados viajeros de negocios.
+XXVII.- Reuniones de Negocios Individual: Se entiende por la persona que se desplaza y visita un destino turístico específico, en función de las actividades laborales y profesionales que desarrolla, además de realizar actividades basadas en el negocio por el cual viaja, frecuentemente llamados viajeros de negocios;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2023)</small>
+
+XXVIII.- Nombramiento. El documento emitido por la Secretaría de Turismo del Gobierno Federal a uno o más municipios, para denominar como Pueblo Mágico a una de sus localidades, y
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2023)</small>
+
+XXIX.- Pueblo Mágico: Localidad con nombramiento, que es representada por su municipio, la cual a través del tiempo y ante la modernidad, ha conservado su patrimonio y manifiesta sus expresiones de forma excepcional.
 
 ###### Artículo 4.
 
@@ -499,11 +507,17 @@ IV.- Los programas turísticos, las estrategias y las acciones que de ellos se d
 
 V.- El desarrollo turístico del Estado se fundará esencialmente en la coordinación de acciones con el Gobierno Federal, con otras Entidades Federativas, con los Municipios, con la participación de los sectores social y privado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2023)</small>
+
 ###### Artículo 27.
 
-En el proceso de planeación y programación, la Secretaría involucrará en todo momento a los Municipios con potencial turístico.
+En el proceso de planeación y programación, la Secretaría involucrará en todo momento a los Municipios con potencial turístico, así como a los Pueblos Mágicos.
 
 De igual forma, participará y coadyuvará en los esfuerzos de integración que realizan los gobiernos municipales dentro del proceso de planeación turística, promoviendo también la participación de los sectores social y privado.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2023)</small>
+
+La integración y funcionamiento de los Comités Ciudadanos de los Pueblos Mágicos, que son órganos autónomos, incluyentes y plurales, representativos de la sociedad, integrados por actores relacionados con el sector turístico de un Pueblo Mágico, cuyo objeto es impulsar la planeación democrática y participativa, coadyuvando en la implementación de acciones que promuevan el bienestar y el desarrollo turístico sostenible, deberán estar apegados a las disposiciones que para tal efecto emita la Secretaría de Turismo del Gobierno Federal.
 
 ### CAPÍTULO III. DEL PROGRAMA ESTATAL DE TURISMO DEL ESTADO DE PUEBLA
 
@@ -1404,6 +1418,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN ÚLTIMO PÁRRAFO A LOS ARTÍCULOS 33 Y 34 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXVII DEL ARTÍCULO 3, EL PRIMER PÁRRAFO DEL 27, Y ADICIONA LAS FRACCIONES XXVIII Y XXIX AL ARTÍCULO 3 Y UN TERCER PÁRRAFO AL ARTÍCULO 27 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
