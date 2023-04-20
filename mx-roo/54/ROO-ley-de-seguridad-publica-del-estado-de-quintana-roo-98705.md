@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-publica-del-estado-de-quintana-roo-98705"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-24"
-last_updated: "2022-05-25"
+last_updated: "2023-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE SEGURIDAD PUBLICA DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 20 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023 (ABROGADO).
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 24 de diciembre de 2013.
 
@@ -3922,3 +3924,51 @@ P.O. 25 DE MAYO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. DE 20 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley de Seguridad Pública del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado de Quintana Roo el veinticuatro de diciembre de dos mil trece, quedando a salvo las facultades de los Órganos Colegiados de las instituciones policiales referidos en los artículos transitorios siguientes, respecto a los procedimientos administrativos disciplinarios que se encuentren en trámite o pendientes de resolución a la entrada en vigor de esta Ley.
+
+TERCERO. Se abroga la Ley de Emergencia Policial, Reglamentaria de la Fracción X del Artículo 90 y del Artículo 156 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, publicada en el Periódico Oficial del Estado de Quintana Roo el diez de septiembre de dos mil diecinueve.
+
+CUARTO. A partir de la entrada en vigor de la presente Ley, se establece un plazo de un año para que se emitan y/o modifiquen las leyes, reglamentos y demás disposiciones normativas y administrativas necesarias para que se dé cabal cumplimiento a lo previsto en la presente Ley.
+
+En tanto, se adecúan las disposiciones referidas en el párrafo anterior, seguirán aplicándose las leyes, los reglamentos y demás normatividad que se encuentren vigentes en todo lo que no se oponga al presente decreto.
+
+La Ley Orgánica de la Secretaría de Seguridad Pública del Estado de Quintana Roo, mantendrá su vigencia en todo aquello que no se oponga a la presente Ley, hasta en tanto se lleven a cabo las armonizaciones conforme a lo establecido en el presente artículo transitorio.
+
+QUINTO. Los recursos humanos, materiales y financieros a cargo de la Secretaría de Seguridad Pública del Estado de Quintana Roo pasarán íntegramente a la Secretaría de Seguridad Ciudadana del Estado de Quintana Roo que se enuncia (sic) la presente Ley.
+
+La Secretaría de Seguridad Ciudadana del Estado de Quintana Roo, la Secretaría de Finanzas y Planeación del Estado y la Secretaría de la Contraloría del Estado serán responsables del proceso de transferencia de los recursos mencionados, por lo que proveerán y acordarán lo necesario para dar cumplimento al presente Decreto.
+
+SEXTO. Para el cumplimiento del presente Decreto, la persona Titular del Poder Ejecutivo del Estado a través de las instancias competentes, podrá reorganizar las estructuras administrativas de la dependencias de la administración pública del Estado, así como crear, fusionar, rescindir o disolver unidades administrativas, realizando las adecuaciones presupuestales de conformidad con lo estipulado en el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo para el ejercicio fiscal 2023, asimismo deberá prever lo correspondiente para los ejercicios presupuestales subsecuentes.
+
+SÉPTIMO. Los asuntos a cargo de la Secretaría de Seguridad Pública del Estado de Quintana Roo que se encuentren pendientes de resolución al momento de la entrada en vigor de este decreto, serán asumidos de inmediato y despachados por la Secretaría de Seguridad Ciudadana del Estado de Quintana Roo, conforme a las atribuciones que este mismo ordenamiento señala.
+
+OCTAVO. Las referencias establecidas en las leyes, reglamentos, decretos, acuerdos, reglas de operación y en general cualquier disposición que mencione a la Secretaría de Seguridad Pública del Estado de Quintana Roo, se entenderán a la Secretaría de Seguridad Ciudadana del Estado de Quintana Roo que se enuncia en la presente Ley.
+
+Asimismo, toda referencia en las leyes, reglamentos, decretos, acuerdos, reglas de operación y en general cualquier disposición que mencione al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública del Estado de Quintana Roo, se entenderán al Secretariado Ejecutivo del Sistema Estatal de Seguridad Ciudadana del Estado de Quintana Roo que se enuncia en la presente Ley.
+
+NOVENO. En tanto se realizan las gestiones necesarias para el inicio de operación de la Universidad de Ciencias y Disciplinas de la Seguridad de Quintana Roo, la actual Academia Estatal de Seguridad Pública continuará ejerciendo sus atribuciones y facultades.
+
+DÉCIMO. Respecto de las Personas integrantes de las instituciones Policiales de Seguridad Ciudadana que hayan sido incorporados (sic) previamente a la entrada en vigor de la presente Ley, se mantendrá a salvo su antigüedad, sin perjuicio de que la profesionalización, orden disciplinario y permanencia, se regirán por los preceptos establecidos en la presente Ley.
+
+DÉCIMO PRIMERO. Los Ayuntamientos del Estado, en un plazo que no exceda de un año a partir de la entrada en vigor de esta Ley, deberán adecuar sus reglamentos y demás ordenamientos jurídicos conforme al contenido de esta Ley, sin perjuicio de sus facultades constitucionales.
+
+DÉCIMO SEGUNDO. Los órganos colegiados que se crean o modifiquen en virtud de la presente Ley, deberán quedar instalados a más tardar en sesenta días naturales a partir de la entrada en vigor de esta Ley.
+
+En el caso del Consejo Estatal de Seguridad Ciudadana, su Presidencia convocará a una sesión solemne de instalación.
+
+DÉCIMO TERCERO. Las disposiciones de la Ley de Seguridad Pública del Estado de Quintana Roo que se abroga, seguirán aplicándose para los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de esta Ley, y serán concluidos conforme a las disposiciones aplicables vigentes a su inicio y su resolución le corresponderá a la Secretaría de Seguridad Ciudadana del Estado de Quintana Roo.
+
+Los procedimientos administrativos disciplinarios que se encuentren en trámite o pendientes de resolución en los Órganos Colegiados de las instituciones policiales a la fecha de entrada en vigor de esta Ley, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos, misma disposición aplicará para los recursos interpuestos antes de la entrada en vigor de esta Ley.
+
+DÉCIMO CUARTO. El Consejo de Honor y Justicia Policial de la Secretaría de Seguridad Pública del Estado de Quintana Roo y su equivalente en los municipios, continuarán ejerciendo sus atribuciones en los términos previstos en la Ley de Seguridad Pública del Estado de Quintana Roo que se abroga en el artículo segundo transitorio de esta Ley, respecto de los procedimientos que ya se encuentren substanciados.
+
+Los procedimientos por faltas graves al régimen disciplinario que hubieren sido cometidas con anterioridad a la presente Ley, en los que aún no se hayan (sic) llevado a cabo la Audiencia Inicial, deberán de sustanciarse con las disposiciones jurídicas dispuestas en la presente Ley; en todo caso, dichos órganos aplicarán las nuevas disposiciones en lo que corresponda y continuarán integrando con las normas que resulten más benéficas para la persona integrante.
+
+DÉCIMO QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto, con las salvedades previstas en los artículos transitorios de esta Ley.
