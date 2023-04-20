@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2023-04-14"
+last_updated: "2023-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "GUA"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ABRIL DE 2023 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -877,7 +875,9 @@ IV.- La indemnización de los perjuicios ocasionados;
 
 V.- El pago de los alimentos caídos en términos del Código Civil para el Estado de Guanajuato, en el caso del artículo 215; y
 
-VI.- El pago del valor de las obras necesarias para introducir los servicios básicos, el de los lotes que se encuentren afectados por el Plan de Desarrollo Urbano Municipal y el de las obras necesarias para dar acceso vial al predio conforme al artículo 262.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2023)</small>
+
+VI.- El pago del valor de las obras necesarias para introducir los servicios básicos; el de los lotes que se encuentren afectados de acuerdo con el Código Territorial para el Estado y los Municipios de Guanajuato, los planes, o los programas estatal o municipal de desarrollo urbano y ordenamiento ecológico territorial; y el de las obras necesarias para dar acceso vial al predio conforme al artículo 262 de este Código. El pago deberá ser realizado a la administración pública municipal del lugar en donde se ubique el inmueble.
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3387,7 +3387,7 @@ Lo previsto en este artículo no es aplicable a quien tenga el carácter de incu
 
 ### CAPÍTULO VII. AFECTACIÓN AL ORDENAMIENTO TERRITORIAL
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2023)</small>
 
 ###### Artículo 256.
 
@@ -3441,15 +3441,13 @@ A quien quebrante sellos puestos por orden de una autoridad, se le aplicará de 
 
 ###### Artículo 262.
 
-A quien promueva, induzca o aliente la formación o establecimiento de asentamientos humanos irregulares, causando un perjuicio público por sí o por interpósita persona; o al que fraccione, enajene o se comprometa a enajenar en forma fraccionada o en lotes, un terreno urbano o rústico, propio o ajeno, con o sin construcciones, sin el previo permiso de las autoridades competentes, o cuando existiendo éste no se hayan satisfecho los requisitos de tal permiso, se le impondrá de tres a nueve años de prisión y de cien a mil días multa.
+A quien promueva, induzca o aliente la formación o el establecimiento de asentamientos humanos irregulares en contravención al Código Territorial para el Estado y los Municipios de Guanajuato, a los planes, o a los programas estatal o municipal de desarrollo urbano y ordenamiento ecológico territorial; o al que enajene o se comprometa a enajenar en forma lotificada un inmueble, propio o ajeno, con o sin construcciones, sin el previo permiso de las autoridades competentes, o cuando existiendo éste no se hayan satisfecho sus requisitos, se le impondrá de tres a nueve años de prisión y de cien a mil días multa.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
 
-Cuando se trate de servidores públicos y se encuentre en cualquiera de los supuestos de este artículo, la pena se aumentará en un medio, y la destitución del empleo o cargo e inhabilitación de uno a diez años para desempeñar cualquier función pública.
+Cuando se trate de servidores públicos y se encuentren en cualquiera de los supuestos de este artículo, las penas previstas en el párrafo anterior se aumentarán de una mitad del mínimo a una mitad del máximo; además se le impondrán las penas de destitución del empleo o cargo y de inhabilitación de uno a diez años para desempeñar cualquier función pública.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
-
-En todo caso, la reparación del daño referida en la fracción VI del artículo 99-b deberá ser pagada a la administración pública municipal del lugar en donde se ubique el inmueble.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 20 DE ABRIL DE 2023)</small>
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2018)</small>
 
@@ -4428,3 +4426,11 @@ P.O. 14 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 189, POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO; Y SE DEROGA EL PÁRRAFO TERCERO, AMBOS DEL ARTÍCULO 6o. DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+P.O. 20 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 193 MEDIANTE EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 99 B Y LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 262; Y SE DEROGA EL TERCER PÁRRAFO DEL ARTÍCULO 262 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de su inicio.
