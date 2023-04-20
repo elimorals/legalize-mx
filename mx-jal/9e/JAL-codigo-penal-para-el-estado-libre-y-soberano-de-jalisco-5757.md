@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2023-03-25"
+last_updated: "2023-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ABRIL DE 2023 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 20 DE ABRIL DE 2023.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -5631,11 +5631,15 @@ I. Provoque la destrucción o pérdida total de un ecosistema que abarque una su
 
 II. Provoque un daño irreparable a un ecosistema que abarque una superficie de cuando menos diez hectáreas; o
 
-III. Provoque un daño a un ecosistema cuya afectación y sus impactos al menos cuatro meses.
+> <small>(F. DE E., P.O. 20 DE ABRIL DE 2023)</small>
+
+III. Provoque un daño a un ecosistema cuya afectación y sus impactos duren al menos cuatro meses.
 
 Al responsable del delito de ecocidio se le impondrá una pena de tres a diez años de prisión y una multa de quinientas a cincuenta mil veces el valor diario de la Unidad de Medida y Actualización.
 
-Las penas anteriores aumentaran en un tercio cuando el ecocidio sea en áreas naturales protegidas, así declaradas por la autoridad competente.
+> <small>(F. DE E., P.O. 20 DE ABRIL DE 2023)</small>
+
+Las penas anteriores aumentarán en un tercio cuando el ecocidio sea en áreas naturales protegidas, así declaradas por la autoridad competente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2019)</small>
 
