@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2023-03-23"
+last_updated: "2023-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -1125,9 +1125,11 @@ V. Efectos económicos y sociales que se pretenden lograr.
 
 ### Capítulo V. De la Contraloría Municipal
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2023)</small>
+
 ###### Artículo 95.
 
-El Ayuntamiento contará con una contraloría municipal como órgano técnico-contable del mismo, cuyo enlace será la comisión de hacienda o su equivalente. Su titular será nombrado por el Ayuntamiento a partir de los candidatos propuestos uno por cada fracción de regidores.
+El Ayuntamiento contará con una contraloría municipal como órgano técnico-contable del mismo, cuyo enlace será la comisión de hacienda o su equivalente. Su titular será nombrado por el Ayuntamiento a partir de los candidatos propuestos uno por cada fracción de regidores, quien deberá acreditar experiencia fehaciente en actividades o funciones relacionadas con el control y fiscalización del gasto público, política presupuestaria, evaluación del gasto público, del desempeño, de políticas públicas, administración financiera o manejo de recursos y de responsabilidades.
 
 ###### Artículo 96.
 
@@ -2686,3 +2688,11 @@ P.O. 23 DE MARZO DE 2023.
 PRIMERO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. - Se derogan todas las disposiciones que contravengan al presente decreto.
+
+P.O. 20 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 354.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
