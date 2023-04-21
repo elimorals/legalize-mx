@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-fiscalizacion-de-la-cuenta-publica-del-estado-de-122647"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2019-03-01"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 18 de julio de 2017.
 
@@ -77,7 +77,9 @@ VI. Cuenta pública: la cuenta pública estatal a que se refiere el artículo 30
 
 VII. Deuda pública: los financiamientos contratados por los entes públicos, en términos de la ley en materia de deuda pública.
 
-VIII. Entes públicos: los poderes Legislativo y Judicial, los órganos constitucionales autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, las dependencias, entidades de la Administración Pública estatal, y sus homólogos de los municipios, la Fiscalía General del Estado, así como cualquier otro ente sobre el que tenga control sobre sus decisiones o acciones cualquiera de los poderes y órganos públicos citados.
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+VIII. Entes públicos: los poderes Legislativo y Judicial, los órganos constitucionales autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, las dependencias, entidades de la Administración Pública estatal, y sus homólogos de los municipios, así como cualquier otro ente sobre el que tenga control sobre sus decisiones o acciones cualquiera de los poderes y órganos públicos citados.
 
 IX. Entidades fiscalizadas: los entes públicos; las entidades de interés público distintas a los partidos políticos; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios o cualquier otra figura jurídica análoga, así como los mandatos, fondos o fideicomisos, públicos o privados, cuando hayan recibido por cualquier título, recursos públicos estatales o municipales o las participaciones estatales, no obstante que sean o no considerados entidades paraestatales por el Código de la Administración Pública de Yucatán o paramunicipales, y aun cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada, que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente recursos públicos estatales o municipales, incluidas aquellas personas morales de derecho privado que tengan autorización para expedir recibos deducibles de impuestos por donaciones destinadas para el cumplimiento de sus fines.
 
@@ -1656,3 +1658,65 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Derogación tácita
 
 Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este decreto.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 619/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE JUSTICIA CONSTITUCIONAL PARA EL ESTADO DE YUCATÁN, LA LEY DE JUVENTUD DEL ESTADO DE YUCATÁN, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN, LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, EN MATERIA DE AUTONOMÍA DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Obligación normativa
+
+El Congreso del estado deberá expedir las leyes y modificaciones a la legislación para armonizarla conforme a lo previsto en este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Artículo tercero. Obligación normativa
+
+La Fiscalía General del Estado deberá expedir los acuerdos necesarios para su regulación interna, conforme a lo previsto en este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Artículo cuarto. Legislación transitoria
+
+En tanto la Fiscalía General del Estado expide los acuerdos necesarios para regular su organización y funcionamiento interno, continuarán vigentes las disposiciones del Reglamento de la Ley de la Fiscalía General del Estado de Yucatán.
+
+Artículo quinto. Derechos laborales
+
+Los trabajadores que se encuentren prestando sus servicios en la Fiscalía General del Estado, a la entrada en vigor de este decreto, seguirán conservando su misma calidad y derechos laborales que les corresponden, en los términos de la legislación aplicable.
+
+Artículo sexto. Transferencia de recursos
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Fiscalía General del Estado como dependencia del Poder Ejecutivo, incluyendo todos sus bienes y los derechos derivados de fondos o fideicomisos vigentes, pasarán a formar parte del órgano constitucional autónomo denominado Fiscalía General del Estado.
+
+La Fiscalía General del Estado, como organismo constitucional autónomo contratará preferentemente para puestos administrativos a personas con discapacidad; así como de (sic) jóvenes que quieran adherirse por primera vez al ámbito laboral.
+
+Artículo séptimo. Policía investigadora
+
+La Fiscalía General del Estado deberá llevar a cabo los actos administrativos y jurídicos necesarios para crear su policía investigadora, en términos de lo establecido en este decreto, para lo cual tendrá hasta el 30 de junio de 2024.
+
+Artículo octavo. Exención
+
+La Fiscalía General del Estado queda exenta, por única ocasión, de los derechos, impuestos y obligaciones fiscales, municipales y estatales, que puedan ser causados con motivo de la regularización de sus bienes y servicios para el cumplimiento de este decreto.
+
+Artículo noveno. Previsiones presupuestales
+
+El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+Artículo décimo. Recursos y espacios de la fiscalía
+
+En tanto se llevan a cabo las adecuaciones presupuestales, las transferencias y demás actos necesarios para dotar de recursos propios a la Fiscalía General del Estado como órgano constitucional autónomo continuará ejerciendo los recursos y ocupando los espacios que actualmente tiene asignados la Fiscalía General del Estado como dependencia.
+
+Artículo décimo primero. Asuntos en trámite
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este decreto, continuarán, hasta su conclusión, regidos por las disposiciones en los cuales se fundamentaron.
+
+Artículo décimo segundo. Nombramiento
+
+La persona titular del Poder Ejecutivo tendrá hasta el 30 de noviembre de 2023 para remitir al Congreso la terna para la designación de la persona titular de la Fiscalía General del Estado.
+
+Artículo décimo tercero. Nombramiento
+
+El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno de la Fiscalía General del Estado dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo décimo cuarto. Primer Informe del Fiscal
+
+Por única ocasión, la primera rendición del Informe anual de la Fiscalía General del Estado de Yucatán, a cargo de la persona titular de dicho órgano autónomo, se realizará en el mes de abril de 2025, y comprenderá el período que abarca del inicio de sus funciones como fiscal hasta el 31 de diciembre 2024.
