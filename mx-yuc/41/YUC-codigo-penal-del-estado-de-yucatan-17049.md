@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2022-10-27"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -2095,7 +2095,9 @@ I.- Exhibicionismo corporal o actos sexuales simulados o no con fines lascivos o
 
 II.- Práctica de la prostitución y la mendicidad con fines de explotación;
 
-III.- Consumo de bebidas alcohólicas, drogas y sustancias tóxicas o narcóticos;
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+III.- Consumo de bebidas alcohólicas, tabaco, drogas y sustancias tóxicas o narcóticos;
 
 IV.- Comisión de hechos tipificados como delitos por este Código, o
 
@@ -2105,7 +2107,9 @@ Al autor de este delito se le aplicarán de cinco a diez años de prisión y de 
 
 La misma pena se impondrá a quien realice cualquiera de las conductas descritas en las fracciones I y V de este artículo, en presencia de menores de dieciocho años o de personas que no tengan capacidad para comprender el hecho o que no tengan la capacidad para resistirlo.
 
-Cuando de la práctica reiterada de los actos de corrupción, la persona menor de dieciocho años o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, adquiera los hábitos de alcoholismo, farmacodependencia, se dedique a la prostitución o a formar parte de una asociación delictuosa, la pena será de siete a doce años de prisión y de trescientos a quinientos días-multa.
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+Cuando de la práctica reiterada de los actos de corrupción, la persona menor de dieciocho años o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, adquiera los hábitos de alcoholismo, tabaquismo, farmacodependencia, se dedique a la prostitución o a formar parte de una asociación delictuosa, la pena será de siete a doce años de prisión y de trescientos a quinientos días-multa.
 
 No se entenderá por corrupción de menores de dieciocho años, las actividades o los programas preventivos educativos, deportivos o de cualquier naturaleza que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, la educación sobre la función reproductiva, el fomento al deporte, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competente.
 
@@ -3755,11 +3759,11 @@ A quien ejecute en una persona, sin su consentimiento, un acto lascivo o la obli
 
 Se entenderá por actos lascivos los tocamientos, manoseos corporales obscenos, o los que representen actos explícitamente sexuales u obliguen a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
 
-> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 310.
 
-A quien cometa el delito de abuso sexual en una persona menor de quince años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de diez a dieciocho (sic) de prisión y de cuatrocientos a dos mil quinientos días-multa. Si se hiciere uso de la violencia física o psicológica, la sanción se aumentará hasta en una mitad. Este delito se perseguirá de oficio.
+A quien cometa el delito de abuso sexual en una persona menor de quince años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de doce a veinte años de prisión y de seiscientos a tres mil días-multa. Si se hiciere uso de la violencia física o psicológica, la sanción se aumentará hasta en una mitad. Este delito se perseguirá de oficio.
 
 ### CAPÍTULO V. DISPOSICIONES COMUNES
 
@@ -4951,6 +4955,10 @@ TÍTULO VIGESIMOSEGUNDO
 
 DELITOS CONTRA LA ECONOMÍA PÚBLICA ESTATAL
 
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 404.
 
 Son actos u omisiones que afectan gravemente el consumo Estatal y se sancionará con prisión de tres a diez años y de cincuenta a doscientos días-multa, a quien:
@@ -5072,6 +5080,22 @@ La sanción a que se hace mención en el párrafo anterior, se incrementará en 
 > <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
 Asimismo, incurre en responsabilidad penal, quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRA, D.O. 21 DE ABRIL DE 2023)</small>
+
+## TÍTULO VIGÉSIMO CUARTO. DELITO DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 21 DE ABRIL DE 2023)</small>
+
+###### ARTÍCULO 411.
+
+Comete el delito de operaciones con recursos de procedencia ilícita, al que por sí o por interpósita persona, adquiera, enajene, administre, custodie, posea, cambie, altere, deposite, dé en garantía, invierta, transporte o transfiera dentro del territorio estatal, o de este hacia fuera o a la inversa, recursos, derechos o bienes de cualquier naturaleza que procedan o representen el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita, se le impondrán de cinco a diez años de prisión y de mil a cinco mil días multa.
+
+Para efectos de este capítulo se entenderá que proceden o representan el (sic)
+
+(sic) producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, sobre los que se acredite su ilegítima procedencia o exista certeza de que provienen directa o indirectamente de la comisión de algún delito o representan las ganancias derivadas de este.
+
+Cuando el delito a que se refiere este capítulo lo cometa un servidor público, la sanción aumentará hasta en una mitad más de la señalada en el párrafo primero de este artículo. Además, se le impondrá en su caso, la destitución del empleo, cargo o comisión públicos e inhabilitación hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -5826,3 +5850,49 @@ Artículo primero. Este decreto entrará en vigor el día siguiente al de su pub
 Cláusula derogatoria
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan a este decreto.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 620/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN Y EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN, EN MATERIA DE PREVENCIÓN Y COMBATE AL DELITO DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA”.]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor en la fecha en que lo haga la Ley Orgánica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán, con excepción de lo dispuesto en los artículos transitorios segundo, tercero y cuarto de este decreto, que entrarán en vigor el día siguiente al de su publicación en el referido medio de difusión oficial.
+
+Artículo Segundo. Obligación normativa
+
+El Congreso del Estado deberá emitir la Ley Orgánica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, dentro del plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este transitorio.
+
+Artículo Tercero. Obligación normativa
+
+El Congreso del Estado de Yucatán deberá expedir las modificaciones necesarias a la legislación secundaria, para armonizarla a las disposiciones de este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de la entrada en vigor de este transitorio.
+
+Artículo Cuarto. Remisión de la terna para la designación de la persona Titular de la agencia
+
+La persona Titular del Poder Ejecutivo del estado deberá remitir al Congreso la terna para la designación de la persona Titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, a más tardar el 30 de noviembre de 2023.
+
+Artículo Quinto. Adecuaciones presupuestales, financieras, de bienes y recursos humanos
+
+La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales, financieras, de bienes y recursos humanos que resulten necesarias para la aplicación de este decreto.
+
+La Agencia de Inteligencia Patrimonial y Económica preferentemente contratará para puestos administrativos a personas con discapacidad; así como de jóvenes que quieran adherirse por primera vez al ámbito laboral.
+
+Artículo Sexto. Exención
+
+La Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán queda exenta, por única ocasión, de los derechos, impuestos y obligaciones fiscales estatales, así como de las contribuciones municipales respecto de sus bienes de dominio público en términos del artículo 82, fracción VIII, de la Constitución Política del Estado de Yucatán y que puedan ser causados con motivo de la regularización de sus bienes y servicios para el cumplimiento de este decreto.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 624/2023 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE ABUSO SEXUAL INFANTIL”.]
+
+Artículo Único. Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 625/2023 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE CONSUMO DE TABACO DENTRO DEL DELITO DE CORRUPCIÓN DE MENORES E INCAPACES".]
+
+Artículo único. Entrada en vigor
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
