@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-fiscalia-general-del-estado-de-yucatan-103753"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-29"
-last_updated: "2022-04-21"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 29 de noviembre de 2014.
 
@@ -45,23 +45,29 @@ Ley de la Fiscalía General del Estado de Yucatán
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
 ###### Artículo 1.
 
 Objeto
 
-Esta ley tiene por objeto establecer las atribuciones de la Fiscalía General del Estado de Yucatán, en las áreas de investigación, procuración y persecución del delito, así como en la conducción y mando de las Policías en lo que concierne a la investigación.
+Esta ley tiene por objeto establecer la integración, estructura, organización y atribuciones de la Fiscalía General del Estado de Yucatán, en las áreas de investigación, procuración y persecución del delito, así como en la conducción y mando de las Policías en lo que concierne a la investigación.
+
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 2.
 
 Principios de actuación
 
-La Fiscalía General del Estado, se regirá por los principios de buena fe, justicia, imparcialidad, independencia, legalidad, objetividad, unidad, eficiencia, profesionalismo y respeto a los derechos humanos.
+Las personas servidoras públicas de la Fiscalía General del Estado se regirán por los principios de autonomía, legalidad, objetividad, eficiencia, profesionalismo, honradez, respeto a los derechos humanos, interculturalidad, perspectiva de protección integral de los derechos de la niñez y adolescencia, debida diligencia, imparcialidad, independencia, especialidad y perspectiva de género.
+
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 3.
 
 Fiscalía General del Estado
 
-Para el cumplimiento de su objeto, el Ministerio Público estará a cargo de la Fiscalía General del Estado, la cual es una dependencia del Gobierno del estado, con autonomía técnica y de gestión, que tendrá las atribuciones establecidas en esta ley, su reglamento y demás disposiciones legales y normativas aplicables.
+Para el cumplimiento de su objeto, el Ministerio Público estará a cargo de la Fiscalía General del Estado, la cual es un órgano constitucional autónomo que tendrá las atribuciones establecidas en esta ley y demás disposiciones legales y normativas aplicables.
 
 ###### Artículo 4.
 
@@ -69,7 +75,9 @@ Atribuciones de la Fiscalía General del Estado
 
 La Fiscalía General del Estado tendrá las siguientes atribuciones:
 
-I. Coordinar la política criminal del Gobierno del estado, establecer sus objetivos y metas, y desarrollar las estrategias, programas y acciones encaminadas a su consecución.
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+I. Coordinar la política criminal del Estado, establecer sus objetivos y metas, y desarrollar las estrategias, programas y acciones encaminadas a su consecución, así como establecer las bases de datos necesarias para darle seguimiento al cumplimiento de sus objetivos.
 
 II. Recibir las denuncias o querellas sobre los hechos posiblemente delictivos.
 
@@ -115,9 +123,7 @@ XIX. Participar, en los términos de las leyes aplicables, en las instancias de 
 
 XX. Suministrar, sistematizar, e intercambiar con las demás autoridades federales, estatales y municipales, información sobre seguridad pública; prevención, investigación y persecución del delito; e imputados, procesados, y sentenciados.
 
-> <small>(ADICIONADA, D.O. 18 DE JULIO DE 2017)</small>
-
-XXI. Diseñar e implementar programas y estrategias para detectar y combatir los hechos que la ley considera como delitos en materia de corrupción.
+XXI. (DEROGADA, D.O. 21 DE ABRIL DE 2023)
 
 XXII. Coordinarse, en el ámbito de su competencia, con las autoridades federales, estatales y municipales, así como con las instituciones del sector académico, social, público y privado, para el cumplimiento de su objeto.
 
@@ -153,6 +159,14 @@ Las instrucciones a que se refiere el párrafo anterior podrán ser generales o 
 
 Cuando los miembros de las instituciones policiales no cumplan con lo instruido por la Fiscalía General del Estado, esta solicitará a la autoridad competente que les sean impuestas las sanciones correspondientes.
 
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+Artículo 6 bis. Plan Estratégico de Procuración de Justicia
+
+La Fiscalía General del Estado deberá publicar cada tres años el Plan Estratégico de Procuración de Justicia que incluirá el diagnóstico de la situación actual de la política criminal del Estado y las políticas públicas, estrategias, objetivos y líneas de acción a corto, mediano y largo plazo, considerando la disponibilidad presupuestal, para optimizar la persecución penal y la política criminal del Estado.
+
+El Fiscal General del Estado remitirá el plan elaborado en términos de este artículo al Congreso y a la persona titular del Poder Ejecutivo del Estado e incluirá en el informe anual que debe presentar ante el primero los avances en el cumplimiento de los objetivos del plan o, en su caso, las modificaciones y resultados que hayan tenido.
+
 ### Capítulo II. Bases de organización
 
 ###### Artículo 7.
@@ -165,7 +179,27 @@ Al frente de la Fiscalía General del Estado estará el Fiscal General, quien ej
 
 El Fiscal General del Estado será designado conforme al procedimiento establecido en la Constitución Política del Estado de Yucatán.
 
-El reglamento de la ley establecerá lo relativo a las suplencias del Fiscal General en caso de ausencias.
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+El fiscal general deberá designar, por oficio, a su suplente, quien lo sustituirá en sus ausencias temporales.
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+En caso de no haber designación explícita, el fiscal general será suplido por el vicefiscal de Investigación y Control de Procesos, y este por el director de su adscripción que designe mediante oficio.
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+###### Artículo 7 Bis.
+
+Remoción y renuncia del Fiscal General
+
+El Fiscal General solo podrá ser removido a solicitud de las dos terceras partes de los diputados que integran el Congreso por incurrir en alguna de las causas graves contempladas en el Capítulo II del Título Tercero del Libro Primero de la Ley General de Responsabilidades Administrativas; cometer uno o más delitos dolosos durante el ejercicio de su función, con sentencia condenatoria firme; y adquirir incapacidad total o permanente que impida el correcto ejercicio de sus funciones durante más de seis meses, dictaminada por médico competente. Lo establecido en este párrafo se aplicará sin perjuicio de lo señalado en el título décimo de la Constitución Política del Estado de Yucatán, en materia de responsabilidades de los servidores públicos.
+
+Una vez recibida la solicitud, el Congreso integrará un expediente y lo remitirá al Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, que le dará vista a la o el Fiscal General para que, dentro de un plazo de quince días hábiles, presente las pruebas y alegatos que considere o manifieste lo que a su derecho convenga.
+
+Una vez transcurrido el plazo previsto en el párrafo anterior, recibido o no documento alguno de la o el fiscal general, el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, dentro de un plazo de sesenta días hábiles, integrará el expediente y emitirá un dictamen donde califique si las causas son graves. Si el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, califica como graves las causas, el Congreso podrá remover al Fiscal General por el voto de las dos terceras partes de los diputados que lo integran. En caso de que la causa no sea calificada como grave por el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, se notificará el dictamen en ese sentido al Pleno del Congreso del Estado, a fin de declarar el cierre del procedimiento iniciado, continuando en su encargo la o el Fiscal General del Estado por el tiempo por el que fue designado.
+
+La renuncia del Fiscal General será sometida para la aceptación y aprobación del Congreso, para lo cual contará con cinco días hábiles. Dicha renuncia solamente procederá por haberse presentado alguna de las causas graves a que se refiere el primer párrafo de este artículo y requerirá el voto de las dos terceras partes de los diputados que integran el Congreso.
 
 ###### Artículo 8.
 
@@ -175,7 +209,9 @@ El Fiscal General tendrá las siguientes facultades y obligaciones:
 
 I. Determinar las políticas del Ministerio Público y fijar los criterios y prioridades en la persecución de los delitos.
 
-II. Expedir los acuerdos, circulares, instrucciones y demás normatividad administrativa que rija la actuación de las unidades administrativas y de los servidores públicos de la Fiscalía General del Estado.
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+II. Expedir los acuerdos, circulares, instrucciones y demás normatividad administrativa para regular la organización, funcionamiento y la actuación de las unidades administrativas y de los servidores públicos de la Fiscalía General del Estado.
 
 III. Emitir las instrucciones generales en materia de investigación que serán de aplicación obligatoria para todas las instituciones policiales con presencia en el estado.
 
@@ -185,15 +221,23 @@ IV. Establecer las reglas y los criterios a los que se sujetarán los fiscales p
 
 V. Dictar los criterios generales que deberán regir la protección y la atención de testigos.
 
-VI. Proponer al Gobernador, por conducto de la Consejería Jurídica, los proyectos de leyes, reglamentos y decretos relacionados con las funciones de la Fiscalía General del Estado.
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+VI. Opinar y emitir observaciones o propuestas, previa solicitud del Congreso y demás autoridades competentes, sobre los proyectos de iniciativas de ley o de reforma de ley relacionadas con las funciones de la Fiscalía General del Estado.
 
 VII. Dirigir, organizar, administrar, controlar y supervisar el funcionamiento de la Fiscalía General del Estado y ejercer la disciplina de sus integrantes.
 
-VIII. Designar y remover a los vicefiscales, directores y a los titulares de las demás unidades administrativas de la dependencia.
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
 
-IX. Vigilar la correcta aplicación del servicio profesional de carrera en lo que se refiere al ingreso, la promoción y la permanencia de los servidores públicos de la dependencia, así como la determinación de responsabilidades y estímulos.
+VIII. Designar y remover a los vicefiscales, directores y a los titulares de las demás unidades administrativas de la Fiscalía General del Estado.
 
-X. Conceder licencias y aceptar las renuncias de los servidores públicos de la dependencia.
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+IX. Regular y vigilar la correcta aplicación del servicio profesional de carrera en lo que se refiere al ingreso, la promoción y la permanencia de los servidores públicos de la Fiscalía General del Estado, así como la determinación de responsabilidades y estímulos.
+
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+X. Conceder licencias y aceptar las renuncias de los servidores públicos de la Fiscalía General del Estado.
 
 XI. Elaborar y remitir el anteproyecto de presupuesto anual de egresos de la Fiscalía General del Estado a la Secretaría de Administración y Finanzas, para los efectos conducentes; y ejercerlo en los términos que señalen los ordenamientos relativos.
 
@@ -205,11 +249,17 @@ XIV. Conocer y resolver las excusas y recusaciones que sean interpuestas contra 
 
 XV. Promover y encabezar la implementación de programas, mecanismos y protocolos de seguridad en la búsqueda de personas desaparecidas, solicitando la participación de la sociedad y de los medios masivos de comunicación, para la atención de este tipo de casos.
 
-XVI. Crear las unidades administrativas a que se refiere el artículo siguiente de esta ley.
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
 
-XVII. Asumir directamente las atribuciones encomendadas a cualquiera de los servidores públicos adscritos a la dependencia, salvo que se trate de una facultad exclusiva.
+XVI. Crear mediante acuerdo las unidades administrativas a que se refiere el artículo siguiente de esta ley.
 
-XVIII. Delegar, mediante acuerdo, las facultades y obligaciones que le correspondan, siempre que estas no sean de su competencia exclusiva.
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+XVII. Asumir directamente las atribuciones encomendadas a cualquiera de los servidores públicos adscritos a la Fiscalía General del Estado, salvo que se trate de una facultad exclusiva.
+
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+XVIII. Delegar, mediante acuerdo, las facultades y obligaciones que le correspondan, sin perder la posibilidad de su ejercicio directo, salvo aquellas que las leyes señalen como indelegables.
 
 XIX. Celebrar actos jurídicos relacionados con las funciones de la Fiscalía General del Estado.
 
@@ -219,17 +269,49 @@ XXI. Comparecer ante al Congreso del estado para informar sobre los asuntos a su
 
 XXII. Conceder audiencias al público que lo solicite para tratar asuntos relativos a la procuración de justicia.
 
-> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE ABRIL DE 2023)</small>
 
-XXIII. Las demás que le encomiende el Gobernador y que establezcan el Código de la Administración Pública de Yucatán, la ley procesal, la Ley Nacional de Ejecución Penal y otras disposiciones legales y normativas aplicables.
+XXIII. Remitir por escrito un informe anual, en la apertura del Segundo Período Ordinario de Sesiones del Congreso, de las actividades realizadas por la fiscalía en el período comprendido entre el 1 de enero y el 31 de diciembre del año inmediato anterior, al Congreso del estado, el cual deberá incluir, al menos, los ejercicios o desistimientos de la acción penal y de la acción de extinción de dominio; asuntos remitidos al archivo temporal; la abstención de investigar, la aplicación de criterios de oportunidad, y las solicitudes de suspensión condicional del proceso.
+
+Los diputados y diputadas del Congreso podrán solicitar al Fiscal General, dentro de los quince días naturales siguientes a la presentación del informe, datos adicionales, misma información que deberá ser proporcionada a la brevedad posible teniendo como plazo máximo la fecha de la comparecencia, que será realizada en el mes de abril ante el Pleno del Congreso para que rinda su informe.
+
+> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+XXIV. Emitir las disposiciones normativas relativas a administración, adquisición, control, arrendamiento, enajenación de bienes y contratación de servicios, así como en materia de programación, presupuestación, aprobación, ejercicio, control y evaluación de los ingresos y egresos públicos estatales que formen parte de su patrimonio, en términos de lo previsto en la legislación aplicable.
+
+> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+XXV. Crear, administrar y actualizar bases de información en el ámbito de su competencia.
+
+> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+XXVI. Establecer medios de información sistemática y directa a la sociedad, para dar cuenta de sus actividades.
+
+> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+XXVII. Aprobar y expedir el Plan Estratégico de Procuración de Justicia de conformidad con lo dispuesto en esta ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+XXVIII. Designar, de manera especial, cuando las necesidades de la función lo requieran, a las personas agentes del Ministerio Público del estado, personas agentes de la policía investigadora, personas peritas, personas analistas y personas facilitadoras.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 21 DE ABRIL DE 2023)</small>
+
+XXIX. Las demás que le encomienden la Constitución Política del Estado de Yucatán, esta ley, la ley procesal, la Ley Nacional de Ejecución Penal y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+Las facultades previstas en las fracciones I, II, III, IV, V, VII, IX, XI, XVI, XVII y XX de este artículo y la comparecencia a que se refiere el antepenúltimo párrafo del artículo 62 de la Constitución Política del Estado de Yucatán serán indelegables.
+
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 9.
 
 Integración
 
-La Fiscalía General del Estado, para el cumplimiento de su objeto, contará con las unidades administrativas que se establezcan en el reglamento de esta ley, en el cual se determinarán las atribuciones de cada una de estas y de sus titulares.
+El Fiscal General, para el cumplimiento de su objeto, de conformidad con la disponibilidad presupuestal y las necesidades del servicio, podrá crear, mediante acuerdo, las unidades administrativas que requiera para el funcionamiento de la Fiscalía General del Estado, así como para la atención de asuntos específicos, para implementar la especialización, regionalización y descentralización a que se refiere el artículo siguiente y para lograr el cumplimiento del objeto de la Fiscalía General del Estado.
 
-El Fiscal General, de conformidad con la disponibilidad presupuestal y las necesidades del servicio, podrá crear unidades administrativas, distintas de las previstas en el reglamento de esta ley, para la atención de asuntos específicos, para implementar la especialización, regionalización y descentralización a que se refiere el artículo siguiente y para lograr el cumplimiento del objeto de la Fiscalía General del Estado.
+La Fiscalía General del Estado contará con un órgano de control interno, dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
 
 ###### Artículo 10.
 
@@ -273,9 +355,9 @@ IX. Solicitar a la autoridad jurisdiccional las medidas cautelares, las providen
 
 X. Promover la celebración de acuerdos reparatorios entre la víctima o el ofendido y el imputado, y las demás salidas alternas, en los casos autorizados por la ley.
 
-> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
 
-XI. Las demás que establezcan esta ley, su reglamento, la ley procesal, la Ley Nacional de Ejecución Penal y otras disposiciones legales y normativas aplicables.
+XI. Las demás que establezcan esta ley, la ley procesal, la Ley Nacional de Ejecución Penal, los acuerdos que al efecto emita el Fiscal General y otras disposiciones legales y normativas aplicables.
 
 > <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
@@ -311,21 +393,13 @@ IX. Habilitar y, en su caso, contratar peritos cuando la institución no cuente 
 
 X. Proponer al fiscal la celebración de convenios de coordinación o de colaboración con las dependencias y entidades federales, estatales y municipales, así como con las instituciones de educación superior nacionales o extranjeras, para la prestación de los servicios periciales e intercambios en la materia.
 
-El instituto estará a cargo de un director, quien será nombrado y removido libremente por el gobernador y se auxiliará de las unidades administrativas que requiera para el cumplimiento de su objeto, de conformidad con la disponibilidad presupuestal.
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
-> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+El instituto estará a cargo de un director, quien será nombrado y removido libremente por el Fiscal General y se auxiliará de las unidades administrativas que requiera para el cumplimiento de su objeto, de conformidad con la disponibilidad presupuestal.
 
 ###### Artículo 11 Ter.
 
-Vicefiscalía Especializada en Combate a la Corrupción
-
-La Vicefiscalía Especializada en Combate a la Corrupción es el órgano de la Fiscalía General del Estado con autonomía técnica y operativa, para investigar y perseguir los hechos que la ley considera como delitos por hechos de corrupción.
-
-El vicefiscal especializado en Combate a la Corrupción, durará en su cargo siete años y será designado siguiendo el mismo procedimiento que dispone la Constitución Política del Estado de Yucatán para el nombramiento del fiscal general.
-
-La vicefiscalía contará con el personal sustantivo, directivo, administrativo y auxiliar capacitados para el debido cumplimiento de sus funciones, así como con las unidades administrativas necesarias para el seguimiento de las investigaciones; se auxiliará en su operación de las unidades administrativas de la Fiscalía General del Estado previstas en el reglamento de esta ley.
-
-El reglamento de esta ley preverá lo relacionado con las atribuciones y funcionamiento de la vicefiscalía y de las unidades administrativas que lo compongan.
+(DEROGADO, D.O. 21 DE ABRIL DE 2023)
 
 > <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2022)</small>
 
@@ -339,15 +413,15 @@ La competencia, las obligaciones y facultades de la Unidad a la que hace referen
 
 ### Capítulo III. Servicio profesional de carrera
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 12.
 
 Servicio profesional de la carrera
 
-El servicio profesional de carrera de la Fiscalía General del Estado contemplará el ingreso, permanencia, certificación y separación de los fiscales y peritos, y se llevará a cabo conforme a lo establecido por el ordenamiento que regule el sistema de seguridad pública del estado y demás disposiciones legales y normativas aplicables.
+El servicio profesional de carrera de la Fiscalía General del Estado contemplará el ingreso, permanencia, certificación y separación de los fiscales, peritos y policías investigadores, y se llevará a cabo conforme a lo establecido por el ordenamiento que regule el sistema de seguridad pública del estado, los acuerdos que al efecto emita el Fiscal General y demás disposiciones legales y normativas aplicables.
+
+El Fiscal General emitirá los instrumentos jurídicos necesarios para crear los órganos de evaluación y control de confianza y demás que sean necesarios, y para regular la organización y funcionamiento del servicio profesional de carrera, el cual deberá operar con base en el principio de mérito, profesionalismo, imparcialidad, perspectiva y paridad de género e igualdad de oportunidades conforme a las necesidades de la Fiscalía General del Estado.
 
 ###### Artículo 13.
 
@@ -355,19 +429,87 @@ Garantía de igualdad laboral
 
 El servicio profesional de carrera garantizará la igualdad de oportunidades laborales, así como la estabilidad, permanencia, remuneración adecuada, capacitación y garantías de seguridad social para los servidores públicos que la integran.
 
-### Capítulo IV. Incompatibilidades e impedimentos
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
 
-### Capítulo V. Responsabilidades y Sanciones
+###### Artículo 13 Bis.
+
+Régimen laboral
+
+Las relaciones laborales entre la Fiscalía General del Estado y sus trabajadores, independientemente de la naturaleza de su contratación se regirán por lo dispuesto en la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 21 DE ABRIL DE 2023)</small>
+
+### Capítulo III Bis. Órgano de control interno
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+###### Artículo 13 Ter.
+
+Naturaleza
+
+El órgano de control interno se encargará de promover, evaluar y fortalecer el buen funcionamiento del control interno en la Fiscalía General del Estado, así como de aplicar las leyes en materia de responsabilidades administrativas.
+
+El órgano de control interno de la Fiscalía General del Estado tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+###### Artículo 13 Quater.
+
+Requisitos
+
+Para ser titular del órgano de control interno se deberán cubrir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos.
+
+II. Tener por lo menos treinta y cinco años cumplidos el día de la designación.
+
+III. No haber sido secretario de estado, fiscal general del estado, senador, diputado, gobernador, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
+
+IV. Contar, al momento de su designación, con una experiencia de, al menos, cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público.
+
+V. Contar, al día de su designación, con antigüedad mínima de cinco años, con título profesional¸ relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello.
+
+VI. Contar con reconocida solvencia moral.
+
+VII. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos que hubieren prestado sus servicios a la Fiscalía General del Estado o haber fungido como consultor o auditor externo de la Fiscalía General del Estado en lo individual durante ese periodo.
+
+VIII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+
+IX. No ser deudor alimentario moroso;
+
+X. No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio.
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+###### Artículo 13 Quinquies.
+
+Nombramiento y atribuciones
+
+La persona titular del órgano de control interno ejercerá las facultades a que se refiere la fracción III del artículo 98 de la Constitución Política del Estado de Yucatán y en la legislación aplicable en materia de responsabilidades administrativas.
+
+La persona titular del órgano de control interno durará en su cargo cinco años y será elegida por el voto de las dos terceras partes de los integrantes del Congreso, mediante el procedimiento establecido en la Ley de Gobierno del Poder Legislativo.
+
+La persona titular del órgano de control interno podrá ser designada por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta ley y el procedimiento establecido en la Ley de Gobierno del Poder Legislativo del Estado de Yucatán. La persona titular del órgano de control interno mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+###### Artículo 13 Sexies.
+
+Régimen de responsabilidad
+
+La persona titular del órgano de control interno de la Fiscalía General del Estado será sujeta de responsabilidad en términos de la legislación aplicable en materia de responsabilidades administrativas; y podrá ser sancionada de conformidad con el procedimiento previsto en la normativa aplicable.
+
+Tratándose de las demás personas servidoras públicas adscritas al órgano de control interno de la Fiscalía General del Estado serán sancionadas por la persona titular del órgano de control interno, o la persona servidora pública en quien delegue la facultad, en términos de la legislación aplicable en materia de responsabilidades administrativas.
+
+### Capítulo IV. Incompatibilidades e impedimentos
 
 ###### Artículo 14.
 
 Incompatibilidad
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
-
-Los fiscales ni los peritos podrán:
+Los fiscales, policías investigadores ni los peritos podrán:
 
 I. Desempeñar empleo, cargo o comisión de cualquier naturaleza en la Administración Pública federal, estatal o municipal, así como trabajos o servicios en instituciones privadas, salvo los de carácter docente y aquellos que autorice el Fiscal del estado.
 
@@ -385,15 +527,15 @@ Los servidores públicos de la Fiscalía General del Estado se excusarán en los
 
 Cuando, a pesar de tener algún impedimento, el servidor público de quien se trate no se excuse, la víctima, el ofendido, el imputado o su defensor podrán recusarlo con expresión de causa ante el Fiscal General, quien, luego de escuchar al recusado, determinará si este debe o no continuar interviniendo en el asunto de que se trate.
 
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
 ###### Artículo 16.
 
 Excusa del Fiscal General
 
-El Fiscal General deberá excusarse de conocer los asuntos en los casos señalados en el artículo anterior, pero no podrá ser recusado. El Gobernador calificará las excusas del Fiscal General.
+El Fiscal General deberá excusarse de conocer los asuntos en los casos señalados en el artículo anterior, pero no podrá ser recusado. El Congreso calificará las excusas del Fiscal General.
 
-### Capítulo VI. Del Registro de Deudores Alimentarios Morosos de Yucatán
-
-> <small>(ADICIONADO, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
+### Capítulo V. Responsabilidades y Sanciones
 
 ###### Artículo 17.
 
@@ -429,7 +571,9 @@ X. Hacer uso de la fuerza de manera irracional, desproporcionada o de forma dife
 
 XI. Realizar acciones violatorias de las leyes o de los derechos humanos.
 
-XII. Las demás que establezcan la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán y otras disposiciones legales y normativas aplicables.
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+XII. Las demás que establezcan la Ley General de Responsabilidades Administrativas y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 18.
 
@@ -447,9 +591,15 @@ III. Suspensión del empleo, sin goce de sueldo, hasta por noventa días.
 
 IV. Remoción, salvo que se trate de integrantes del servicio profesional de carrera.
 
-Las sanciones serán impuestas por la autoridad competente, conforme al procedimiento establecido en el reglamento de esta ley. Supletoriamente serán aplicables las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+Las sanciones serán impuestas por la autoridad competente, conforme al procedimiento establecido en los acuerdos que emita el fiscal general. Supletoriamente serán aplicables las disposiciones de la Ley General de Responsabilidades Administrativas y otras disposiciones legales y normativas aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
+
+### Capítulo VI. Del Registro de Deudores Alimentarios Morosos de Yucatán
+
+> <small>(ADICIONADO, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 19.
 
@@ -706,3 +856,65 @@ Artículo Primero. El presente decreto entrará en vigor al día siguiente de su
 Derogación expresa.
 
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 619/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE JUSTICIA CONSTITUCIONAL PARA EL ESTADO DE YUCATÁN, LA LEY DE JUVENTUD DEL ESTADO DE YUCATÁN, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN, LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, EN MATERIA DE AUTONOMÍA DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Obligación normativa
+
+El Congreso del estado deberá expedir las leyes y modificaciones a la legislación para armonizarla conforme a lo previsto en este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Artículo tercero. Obligación normativa
+
+La Fiscalía General del Estado deberá expedir los acuerdos necesarios para su regulación interna, conforme a lo previsto en este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Artículo cuarto. Legislación transitoria
+
+En tanto la Fiscalía General del Estado expide los acuerdos necesarios para regular su organización y funcionamiento interno, continuarán vigentes las disposiciones del Reglamento de la Ley de la Fiscalía General del Estado de Yucatán.
+
+Artículo quinto. Derechos laborales
+
+Los trabajadores que se encuentren prestando sus servicios en la Fiscalía General del Estado, a la entrada en vigor de este decreto, seguirán conservando su misma calidad y derechos laborales que les corresponden, en los términos de la legislación aplicable.
+
+Artículo sexto. Transferencia de recursos
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Fiscalía General del Estado como dependencia del Poder Ejecutivo, incluyendo todos sus bienes y los derechos derivados de fondos o fideicomisos vigentes, pasarán a formar parte del órgano constitucional autónomo denominado Fiscalía General del Estado.
+
+La Fiscalía General del Estado, como organismo constitucional autónomo contratará preferentemente para puestos administrativos a personas con discapacidad; así como de jóvenes que quieran adherirse por primera vez al ámbito laboral.
+
+Artículo séptimo. Policía investigadora
+
+La Fiscalía General del Estado deberá llevar a cabo los actos administrativos y jurídicos necesarios para crear su policía investigadora, en términos de lo establecido en este decreto, para lo cual tendrá hasta el 30 de junio de 2024.
+
+Artículo octavo. Exención
+
+La Fiscalía General del Estado queda exenta, por única ocasión, de los derechos, impuestos y obligaciones fiscales, municipales y estatales, que puedan ser causados con motivo de la regularización de sus bienes y servicios para el cumplimiento de este decreto.
+
+Artículo noveno. Previsiones presupuestales
+
+El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+Artículo décimo. Recursos y espacios de la fiscalía
+
+En tanto se llevan a cabo las adecuaciones presupuestales, las transferencias y demás actos necesarios para dotar de recursos propios a la Fiscalía General del Estado como órgano constitucional autónomo continuará ejerciendo los recursos y ocupando los espacios que actualmente tiene asignados la Fiscalía General del Estado como dependencia.
+
+Artículo décimo primero. Asuntos en trámite
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este decreto, continuarán, hasta su conclusión, regidos por las disposiciones en los cuales se fundamentaron.
+
+Artículo décimo segundo. Nombramiento
+
+La persona titular del Poder Ejecutivo tendrá hasta el 30 de noviembre de 2023 para remitir al Congreso la terna para la designación de la persona titular de la Fiscalía General del Estado.
+
+Artículo décimo tercero. Nombramiento
+
+El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno de la Fiscalía General del Estado dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo décimo cuarto. Primer Informe del Fiscal
+
+Por única ocasión, la primera rendición del Informe anual de la Fiscalía General del Estado de Yucatán, a cargo de la persona titular de dicho órgano autónomo, se realizará en el mes de abril de 2025, y comprenderá el período que abarca del inicio de sus funciones como fiscal hasta el 31 de diciembre 2024.
