@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-reconocimiento-de-los-derechos-de-las-personas-146185"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-15"
-last_updated: "2022-10-27"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146185&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-01-14"
 
 LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en el Número 515 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 15 de enero de 2021.
 
@@ -62,7 +62,9 @@ La presente ley es de orden público, de interés social y de observancia genera
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Abandono: La omisión de quien teniendo la obligación de proporcionar alimentos o el deber de cuidados de uno (sic) o más personas mayores, sin causa justificada, deja de proporcionarlos (sic) los primeros o de brindar los segundos a quien tienen derecho a recibirlos;
+> <small>(REFORMADA, G.O. 21 DE ABRIL DE 2023)</small>
+
+I. Abandono: La falta de acción deliberada o no de quien tenga la obligación de atender de manera integral los alimentos y demás necesidades de una persona mayor que ponga en peligro su vida o su integridad física, psíquica o su dignidad, u obstaculice o impida con ello, el goce o ejercicio de sus derechos humanos y libertades fundamentales.
 
 II. Alcaldías: Los órganos político-administrativo de cada demarcación territorial de la Ciudad de México;
 
@@ -135,6 +137,10 @@ V. Enfoque de curso de vida
 VI. Enfoque diferencial;
 
 VII. Igualdad y no discriminación;
+
+> <small>(ADICIONADA, G.O. 21 DE ABRIL DE 2023)</small>
+
+VII BIS. Igualdad sustantiva;
 
 VIII. Inclusión social;
 
@@ -1575,3 +1581,11 @@ G.O. 27 DE OCTUBRE DE 2022.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 2º, Y SE ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 4º, DE LA LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
