@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-77499"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-24"
-last_updated: "2022-10-13"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de noviembre de 2010.
 
@@ -443,15 +445,29 @@ I.- Conocer de las controversias constitucionales que, con excepción de las con
 
 II.- Conocer de las acciones de inconstitucionalidad en contra de normas de carácter general, estatales o municipales que se consideren contrarias a la Constitución Política del Estado de Yucatán, que sean promovidas por el Ejecutivo del Estado; por el Fiscal General del Estado; por el treinta y tres por ciento de los integrantes del Congreso del Estado, en contra de las disposiciones de carácter general aprobadas por los Ayuntamientos; por el treinta y tres por ciento de los Regidores de un Municipio, en contra de las disposiciones de carácter general aprobadas por el Ayuntamiento; y por los organismos públicos autónomos, por conducto de quien le represente legalmente, con relación a la materia de su competencia;
 
-III.- Conocer de las acciones contra la omisión legislativa o normativa, imputables al Congreso, al Gobernador, ambos del Estado, o a los Ayuntamientos, por la falta de expedición de las normas jurídicas de carácter general a que estén obligados según la Constitución Política del Estado de Yucatán, así como de las leyes, siempre que la omisión afecte el debido cumplimiento o impida la eficacia de la misma, y
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
 
-IV.- Conocer de las cuestiones de control previo respecto de la constitucionalidad de los proyectos de Ley aprobados por el Pleno del Congreso del Estado y hasta antes de su promulgación y publicación.
+III.- Conocer de las acciones contra la omisión legislativa o normativa, imputables al Congreso, al Gobernador, ambos del Estado, o a los Ayuntamientos, por la falta de expedición de las normas jurídicas de carácter general a que estén obligados según la Constitución Política del Estado de Yucatán, así como de las leyes, siempre que la omisión afecte el debido cumplimiento o impida la eficacia de la misma;
+
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+IV.- Conocer de las cuestiones de control previo respecto de la constitucionalidad de los proyectos de Ley aprobados por el Pleno del Congreso del Estado y hasta antes de su promulgación y publicación;
+
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+V.- Dictaminar, previa solicitud del Congreso, sobre la existencia de una causa grave para la remoción de la o el fiscal general del estado, en términos del artículo 62 de la Constitución Política del Estado de Yucatán, y
+
+> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+VI.- Dictaminar, previa solicitud del Congreso, sobre la existencia de una causa grave para la remoción de la persona Titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, en términos del artículo 75 Septies de la Constitución Política del Estado de Yucatán.
+
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 Substanciación de los asuntos en materia de control constitucional local
 
 ###### Artículo 35.
 
-Las controversias constitucionales, las acciones de inconstitucionalidad, las acciones de omisión legislativa o normativa y las cuestiones de control previo que sean planteadas ante el Tribunal Constitucional, se substanciarán de acuerdo a lo que dispongan las leyes aplicables.
+Las controversias constitucionales, las acciones de inconstitucionalidad, las acciones de omisión legislativa o normativa, las cuestiones de control previo y la dictaminación sobre la existencia de causas graves que sean planteadas ante el Tribunal Constitucional, se substanciarán de acuerdo con lo que dispongan la Constitución y las leyes aplicables.
 
 ### CAPÍTULO III. De la Presidencia del Tribunal Superior de Justicia del Estado
 
@@ -2880,3 +2896,95 @@ D.O. 13 DE OCTUBRE DE 2022.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor al momento de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 619/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE JUSTICIA CONSTITUCIONAL PARA EL ESTADO DE YUCATÁN, LA LEY DE JUVENTUD DEL ESTADO DE YUCATÁN, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN, LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, EN MATERIA DE AUTONOMÍA DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Obligación normativa
+
+El Congreso del estado deberá expedir las leyes y modificaciones a la legislación para armonizarla conforme a lo previsto en este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Artículo tercero. Obligación normativa
+
+La Fiscalía General del Estado deberá expedir los acuerdos necesarios para su regulación interna, conforme a lo previsto en este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Artículo cuarto. Legislación transitoria
+
+En tanto la Fiscalía General del Estado expide los acuerdos necesarios para regular su organización y funcionamiento interno, continuarán vigentes las disposiciones del Reglamento de la Ley de la Fiscalía General del Estado de Yucatán.
+
+Artículo quinto. Derechos laborales
+
+Los trabajadores que se encuentren prestando sus servicios en la Fiscalía General del Estado, a la entrada en vigor de este decreto, seguirán conservando su misma calidad y derechos laborales que les corresponden, en los términos de la legislación aplicable.
+
+Artículo sexto. Transferencia de recursos
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Fiscalía General del Estado como dependencia del Poder Ejecutivo, incluyendo todos sus bienes y los derechos derivados de fondos o fideicomisos vigentes, pasarán a formar parte del órgano constitucional autónomo denominado Fiscalía General del Estado.
+
+La Fiscalía General del Estado, como organismo constitucional autónomo contratará preferentemente para puestos administrativos a personas con discapacidad; así como de jóvenes que quieran adherirse por primera vez al ámbito laboral.
+
+Artículo séptimo. Policía investigadora
+
+La Fiscalía General del Estado deberá llevar a cabo los actos administrativos y jurídicos necesarios para crear su policía investigadora, en términos de lo establecido en este decreto, para lo cual tendrá hasta el 30 de junio de 2024.
+
+Artículo octavo. Exención
+
+La Fiscalía General del Estado queda exenta, por única ocasión, de los derechos, impuestos y obligaciones fiscales, municipales y estatales, que puedan ser causados con motivo de la regularización de sus bienes y servicios para el cumplimiento de este decreto.
+
+Artículo noveno. Previsiones presupuestales
+
+El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+Artículo décimo. Recursos y espacios de la fiscalía
+
+En tanto se llevan a cabo las adecuaciones presupuestales, las transferencias y demás actos necesarios para dotar de recursos propios a la Fiscalía General del Estado como órgano constitucional autónomo continuará ejerciendo los recursos y ocupando los espacios que actualmente tiene asignados la Fiscalía General del Estado como dependencia.
+
+Artículo décimo primero. Asuntos en trámite
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este decreto, continuarán, hasta su conclusión, regidos por las disposiciones en los cuales se fundamentaron.
+
+Artículo décimo segundo. Nombramiento
+
+La persona titular del Poder Ejecutivo tendrá hasta el 30 de noviembre de 2023 para remitir al Congreso la terna para la designación de la persona titular de la Fiscalía General del Estado.
+
+Artículo décimo tercero. Nombramiento
+
+El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno de la Fiscalía General del Estado dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo décimo cuarto. Primer Informe del Fiscal
+
+Por única ocasión, la primera rendición del Informe anual de la Fiscalía General del Estado de Yucatán, a cargo de la persona titular de dicho órgano autónomo, se realizará en el mes de abril de 2025, y comprenderá el período que abarca del inicio de sus funciones como fiscal hasta el 31 de diciembre 2024.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 620/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN Y EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN, EN MATERIA DE PREVENCIÓN Y COMBATE AL DELITO DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA”.]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor en la fecha en que lo haga la Ley Orgánica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán, con excepción de lo dispuesto en los artículos transitorios segundo, tercero y cuarto de este decreto, que entrarán en vigor el día siguiente al de su publicación en el referido medio de difusión oficial.
+
+Artículo Segundo. Obligación normativa
+
+El Congreso del Estado deberá emitir la Ley Orgánica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, dentro del plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este transitorio.
+
+Artículo Tercero. Obligación normativa
+
+El Congreso del Estado de Yucatán deberá expedir las modificaciones necesarias a la legislación secundaria, para armonizarla a las disposiciones de este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de la entrada en vigor de este transitorio.
+
+Artículo Cuarto. Remisión de la terna para la designación de la persona Titular de la agencia
+
+La persona Titular del Poder Ejecutivo del estado deberá remitir al Congreso la terna para la designación de la persona Titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, a más tardar el 30 de noviembre de 2023.
+
+Artículo Quinto. Adecuaciones presupuestales, financieras, de bienes y recursos humanos
+
+La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales, financieras, de bienes y recursos humanos que resulten necesarias para la aplicación de este decreto.
+
+La Agencia de Inteligencia Patrimonial y Económica preferentemente contratará para puestos administrativos a personas con discapacidad; así como de jóvenes que quieran adherirse por primera vez al ámbito laboral.
+
+Artículo Sexto. Exención
+
+La Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán queda exenta, por única ocasión, de los derechos, impuestos y obligaciones fiscales estatales, así como de las contribuciones municipales respecto de sus bienes de dominio público en términos del artículo 82, fracción VIII, de la Constitución Política del Estado de Yucatán y que puedan ser causados con motivo de la regularización de sus bienes y servicios para el cumplimiento de este decreto.
