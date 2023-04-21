@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-responsabilidades-administrativas-del-estado-de-122695"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2020-07-23"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 18 de julio de 2017.
 
@@ -233,7 +233,9 @@ II. El Tribunal de Justicia Administrativa de Yucatán;
 
 III. El Congreso del Estado de Yucatán;
 
-IV. El Ejecutivo del Estado, por conducto de la Secretaría de la Contraloría General, por si, o a través de sus órganos de control interno, la Secretaría de Seguridad Pública y la Fiscalía General del Estado de Yucatán, en el ámbito que les corresponda;
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+IV. El Ejecutivo del Estado, por conducto de la Secretaría de la Contraloría General, por sí, o a través de sus órganos de control interno, y la Secretaría de Seguridad Pública, en el ámbito que le corresponda;
 
 > <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
@@ -245,7 +247,9 @@ VII. Los Organismos Autónomos a través de sus órganos de control interno;
 
 VIII. Los demás órganos que determinen esta Ley y otras disposiciones legales aplicables.
 
-La Secretaría de Seguridad Pública y la Fiscalía General del Estado serán competentes para aplicar las sanciones por faltas no graves previstas en las legislaciones que las regulan, sin perjuicio de que la Contraloría del Estado lleve a cabo investigaciones y auditorías relacionadas con el ejercicio de recursos públicos o imponga y aplique a los servidores públicos de aquellas, las sanciones por las faltas que deriven de las obligaciones a que hacen referencia las fracciones I fracciones (sic) b) y c) II, IV, V, VIII y IX del artículo 51 de la presente Ley, así como las que lleven a cabo sus titulares.
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+La Secretaría de Seguridad Pública será competente para aplicar las sanciones por faltas no graves prevista en la legislación que la regula, sin perjuicio de que la Contraloría del Estado lleve a cabo investigaciones y auditorías relacionadas con el ejercicio de recursos públicos o imponga y aplique a los servidores públicos de aquella, las sanciones por las faltas que deriven de las obligaciones a que hacen referencia las fracciones I, incisos b) y c), II, IV, V, VIII y IX del artículo 51 de la presente Ley, así como las que lleve a cabo su titular.
 
 > <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
@@ -295,9 +299,9 @@ El Tribunal del Estado, además de las facultades y atribuciones conferidas en l
 
 Investigación y trámite de Faltas graves y no graves derivadas de denuncias
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE NOVIEMBRE DE 2017)</small>
+(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 21 DE ABRIL DE 2023
 
-Cuando derivado de denuncias que investigue la Autoridad Investigadora, así como las correspondientes de la Fiscalía General del Estado, de la Secretaría de Seguridad Pública en el Poder Ejecutivo, y los demás órganos de control en los organismos autónomos, se desprendan actos u omisiones tanto de faltas administrativas graves como no graves por el mismo servidor público, por lo que hace a las Faltas administrativas graves, remitirán las constancias documentales junto con el Informe de Probable Responsabilidad Administrativa a su área con competencia de autoridad substanciadora, para que proceda en los términos a que hace referencia el artículo 228 fracciones I a VII de la presente Ley, procediendo a enviar los autos originales del expediente al Tribunal del Estado para que, en su caso, resuelva la sanción que corresponda a dicha falta.
+Cuando derivado de denuncias que investigue la Autoridad Investigadora, así como las correspondientes de la Secretaría de Seguridad Pública en el Poder Ejecutivo, y los demás órganos de control en los organismos autónomos, se desprendan actos u omisiones tanto de faltas administrativas graves como no graves por el mismo servidor público, por lo que hace a las Faltas administrativas graves, remitirán las constancias documentales junto con el Informe de Probable Responsabilidad Administrativa a su área con competencia de autoridad substanciadora, para que proceda en los términos a que hace referencia el artículo 228 fracciones I a VII de la presente Ley, procediendo a enviar los autos originales del expediente al Tribunal del Estado para que, en su caso, resuelva la sanción que corresponda a dicha falta.
 
 En el caso de que la investigación que derive de denuncias a cargo de servidores públicos municipales, se presuma la constitución de faltas graves que se relacionen con el manejo, aplicación, custodia irregular o desvió de recursos públicos estatales o municipales, las autoridades que reciban la denuncia y los órganos de control en los Municipios o quien ejerza las atribuciones de estos en los Ayuntamientos, deberán enviarla a la Auditoría Superior del Estado a fin de que ejerza las atribuciones de investigación y substanciación en los términos del artículo 10 de la presente Ley, para su posterior envío al Tribunal del Estado para los mismos efectos del párrafo anterior.
 
@@ -1313,13 +1317,13 @@ II. Guardar reserva de los datos que permitan la localización de su domicilio, 
 
 III. Las diligencias en las que se requiera su intervención se llevarán a cabo sin informarle a persona alguna la fecha, lugar y hora en que comparezca, sin perjuicio de que al substanciar y resolverse el procedimiento puedan referirse las circunstancias de modo, tiempo y lugar en la que se llevó a cabo.
 
-> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 99.
 
 Lugar, modo y asistencia para la presentación de las denuncias
 
-La Autoridad Investigadora, así como las correspondientes de la Fiscalía General del Estado, de la Secretaría de Seguridad Pública en el Poder Ejecutivo, la del órgano de control del Poder Judicial, los demás órganos de control en los organismos autónomos y de los municipios establecerán áreas y medios de fácil acceso, para que cualquier interesado presente su denuncia por probables faltas administrativas, de conformidad con los criterios establecidos en la presente Ley, debiendo otorgarle la asistencia jurídica que requiera para que su denuncia contenga la información y datos a que hace referencia el artículo siguiente.
+La Autoridad Investigadora, así como las correspondientes de la Secretaría de Seguridad Pública en el Poder Ejecutivo, la del órgano de control del Poder Judicial, los demás órganos de control en los organismos autónomos y de los municipios establecerán áreas y medios de fácil acceso, para que cualquier interesado presente su denuncia por probables faltas administrativas, de conformidad con los criterios establecidos en la presente Ley, debiendo otorgarle la asistencia jurídica que requiera para que su denuncia contenga la información y datos a que hace referencia el artículo siguiente.
 
 ###### Artículo 100.
 
@@ -1633,13 +1637,13 @@ Separación de procedimientos por otra falta administrativa imputable a la misma
 
 En caso de que con posterioridad a la admisión del informe las autoridades investigadoras adviertan la probable comisión de cualquier otra falta administrativa imputable a la misma persona señalada como probable responsable, deberán elaborar un diverso Informe de Probable Responsabilidad Administrativa y promover el respectivo procedimiento disciplinario por separado, sin perjuicio de que, en el momento procesal oportuno, puedan solicitar su acumulación.
 
-> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 130.
 
 Separación en estructura de autoridades investigadoras y substanciadoras
 
-La autoridad a quien se encomiende la substanciación y, en su caso, resolución del procedimiento de responsabilidad administrativa, deberá ser distinta de aquél o aquellos encargados de la investigación. Para tal efecto, la Contraloría del Estado, el órgano de control del Poder Judicial, la Fiscalía General del Estado de Yucatán, las instituciones policiales a las que hace referencia la fracción IV del artículo 2 de la Ley del Sistema Estatal de Seguridad Pública, los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos y la Auditoría Superior del Estado, contarán con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, y garantizarán la independencia entre ambas en el ejercicio de sus funciones.
+La autoridad a quien se encomiende la substanciación y, en su caso, resolución del procedimiento de responsabilidad administrativa, deberá ser distinta de aquél o aquellos encargados de la investigación. Para tal efecto, la Contraloría del Estado, el órgano de control del Poder Judicial, las instituciones policiales a las que hace referencia la fracción IV del artículo 2 de la Ley del Sistema Estatal de Seguridad Pública, los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos y la Auditoría Superior del Estado, contarán con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, y garantizarán la independencia entre ambas en el ejercicio de sus funciones.
 
 ###### Artículo 131.
 
@@ -2864,3 +2868,65 @@ Lo anterior, con excepción de lo dispuesto en los artículos 116 segundo párra
 Artículo segundo. Derogación tácita
 
 Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este decreto.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 619/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE JUSTICIA CONSTITUCIONAL PARA EL ESTADO DE YUCATÁN, LA LEY DE JUVENTUD DEL ESTADO DE YUCATÁN, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN, LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, EN MATERIA DE AUTONOMÍA DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Obligación normativa
+
+El Congreso del estado deberá expedir las leyes y modificaciones a la legislación para armonizarla conforme a lo previsto en este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Artículo tercero. Obligación normativa
+
+La Fiscalía General del Estado deberá expedir los acuerdos necesarios para su regulación interna, conforme a lo previsto en este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Artículo cuarto. Legislación transitoria
+
+En tanto la Fiscalía General del Estado expide los acuerdos necesarios para regular su organización y funcionamiento interno, continuarán vigentes las disposiciones del Reglamento de la Ley de la Fiscalía General del Estado de Yucatán.
+
+Artículo quinto. Derechos laborales
+
+Los trabajadores que se encuentren prestando sus servicios en la Fiscalía General del Estado, a la entrada en vigor de este decreto, seguirán conservando su misma calidad y derechos laborales que les corresponden, en los términos de la legislación aplicable.
+
+Artículo sexto. Transferencia de recursos
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Fiscalía General del Estado como dependencia del Poder Ejecutivo, incluyendo todos sus bienes y los derechos derivados de fondos o fideicomisos vigentes, pasarán a formar parte del órgano constitucional autónomo denominado Fiscalía General del Estado.
+
+La Fiscalía General del Estado, como organismo constitucional autónomo contratará preferentemente para puestos administrativos a personas con discapacidad; así como de (sic) jóvenes que quieran adherirse por primera vez al ámbito laboral.
+
+Artículo séptimo. Policía investigadora
+
+La Fiscalía General del Estado deberá llevar a cabo los actos administrativos y jurídicos necesarios para crear su policía investigadora, en términos de lo establecido en este decreto, para lo cual tendrá hasta el 30 de junio de 2024.
+
+Artículo octavo. Exención
+
+La Fiscalía General del Estado queda exenta, por única ocasión, de los derechos, impuestos y obligaciones fiscales, municipales y estatales, que puedan ser causados con motivo de la regularización de sus bienes y servicios para el cumplimiento de este decreto.
+
+Artículo noveno. Previsiones presupuestales
+
+El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+Artículo décimo. Recursos y espacios de la fiscalía
+
+En tanto se llevan a cabo las adecuaciones presupuestales, las transferencias y demás actos necesarios para dotar de recursos propios a la Fiscalía General del Estado como órgano constitucional autónomo continuará ejerciendo los recursos y ocupando los espacios que actualmente tiene asignados la Fiscalía General del Estado como dependencia.
+
+Artículo décimo primero. Asuntos en trámite
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este decreto, continuarán, hasta su conclusión, regidos por las disposiciones en los (sic) cuales se fundamentaron.
+
+Artículo décimo segundo. Nombramiento
+
+La persona titular del Poder Ejecutivo tendrá hasta el 30 de noviembre de 2023 para remitir al Congreso la terna para la designación de la persona titular de la Fiscalía General del Estado.
+
+Artículo décimo tercero. Nombramiento
+
+El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno de la Fiscalía General del Estado dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo décimo cuarto. Primer Informe del Fiscal
+
+Por única ocasión, la primera rendición del Informe anual de la Fiscalía General del Estado de Yucatán, a cargo de la persona titular de dicho órgano autónomo, se realizará en el mes de abril de 2025, y comprenderá el período que abarca del inicio de sus funciones como fiscal hasta el 31 de diciembre 2024.
