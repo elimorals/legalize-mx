@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-bienes-del-estado-de-baja-california-3423"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-07-31"
-last_updated: "2021-01-25"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de julio de 1973.
 
@@ -95,11 +95,11 @@ Los bienes de dominio privado del Estado, estarán sometidos en todo lo no previ
 
 Los Tribunales del Estado tendrán competencia exclusiva para conocer de juicios así como de procedimientos judiciales no contenciosos que se relacionen con bienes del Estado, sean de dominio público o de dominio privado del mismo.
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
 
 ###### ARTICULO 8o.
 
-Compete a la Secretaria General de Gobierno, la representación jurídica del Ejecutivo del Estado en toda clase de negocios judiciales o administrativos, del orden común o federal. La Secretaria General de Gobierno en los asuntos relacionados con la aplicación de esta Ley o los bienes del Estado coordinará y ejecutará las acciones jurídicas que se realicen para el cumplimiento de la presente Ley.
+Compete a la Oficialía Mayor de Gobierno, la representación jurídica del Ejecutivo del Estado en relación con los bienes del Estado, correspondiéndole coordinar y ejecutar las acciones derivadas de la presente Ley.
 
 ### CAPITULO II
 
@@ -171,9 +171,9 @@ XII.- Dictar las disposiciones necesarias para la aplicación y cumplimiento de 
 
 XIII.- Las demás que les confieran esta Ley u otras disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
 
-El titular del Ejecutivo del Estado por conducto de la Oficialía Mayor de Gobierno, dará cumplimiento y ejecución a las facultades señaladas en este artículo, sin perjuicio de que, en caso de considerarlo conveniente, el titular del Ejecutivo del Estado las ejecute directamente.
+La persona titular del Ejecutivo del Estado por conducto de la Oficialía Mayor de Gobierno, dará cumplimiento y ejecución a las facultades señaladas en este artículo, sin perjuicio de que, en caso de considerarlo conveniente, la persona titular del Ejecutivo del Estado las ejecute directamente.
 
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
 
@@ -337,13 +337,13 @@ Los bienes a que se refiere la Fracción VII del Artículo 21 sólo podrán grav
 
 Otorgada la aprobación a que se refiere el párrafo anterior, los bienes quedarán sometidos de pleno derecho a las reglas del derecho común y los acreedores podrán ejercitar respecto de ellos todas las acciones que les correspondan sin limitación alguna. El estado no será parte en los juicios que con este motivo se inicien.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
 
 ###### ARTICULO 24.
 
-Cuando una dependencia del Ejecutivo creyere conveniente la adquisición de un inmueble para destinarlo al servicio público, al uso común, a un fin de utilidad general o fuere necesario para el desempeño de atribuciones a cargo del Gobierno del Estado, lo comunicará a la Oficialía Mayor y a la Secretaría de Planeación y Finanzas.
+Cuando una dependencia del Ejecutivo creyere conveniente la adquisición de un inmueble para destinarlo al servicio público, al uso común, a un fin de utilidad general o fuere necesario para el desempeño de atribuciones a cargo del Gobierno del Estado, lo comunicará a la Oficialía Mayor de Gobierno y a la Secretaría de Hacienda.
 
-Una vez emitida la validación presupuestal para la adquisición por parte de la Secretaría de Planeación y Finanzas, el Oficial Mayor de Gobierno, previo acuerdo con el Gobernador del Estado y el titular de la dependencia, hará las gestiones necesarias y el arreglo de los términos de la compra hasta ultimarlos. La firma de la escritura corresponderá al Gobernador del Estado por conducto del Oficial Mayor de Gobierno o en otro funcionario a quien se le delegue esta facultad. Tocará a la Oficialía Mayor el registro y archivo de los documentos y títulos de propiedad correspondientes.
+Una vez emitida la validación presupuestal para la adquisición por parte de la Secretaría de Hacienda, la persona Titular de la Oficialía Mayor de Gobierno, previo acuerdo con la persona titular del Ejecutivo Estatal y la persona titular de la dependencia, hará las gestiones necesarias y el arreglo de los términos de la compra hasta ultimarlos. La firma de la escritura corresponderá a la persona titular del Ejecutivo del Estado por conducto de la persona titular de la Oficialía Mayor de Gobierno o en otra persona funcionaria a quien se le delegue esta facultad. Corresponderá a la Oficialía Mayor de Gobierno el registro y archivo de los documentos y títulos de propiedad correspondientes.
 
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
 
@@ -573,33 +573,67 @@ La Oficialía Mayor de Gobierno podrá otorgar bienes muebles en comodato a enti
 
 Podrá otorgarse a los particulares el derecho de uso, aprovechamiento o explotación sobre bienes sujetos al régimen de dominio público del Estado o bienes destinados a un servicio público, mediante concesión que otorgue el Ejecutivo en los términos de (sic) presente Ley su Reglamento, o reglamentación especial que al efecto emita.
 
+> <small>(REFORMADO [REPUBLICADO ESTE PÁRRAFO], P.O. 21 DE ABRIL DE 2023)</small>
+
 Los permisos, autorizaciones o concesiones establecidos en la presente Ley podrán otorgarse mediante:
 
 I.- Licitación Pública;
 
-II.- Por invitación;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2023)</small>
 
-III.- Excepción, y
+II.- Por invitación; y,
 
-IV.- Adjudicación directa.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+III.- Adjudicación directa.
+
+IV.- (REFORMADA [N. DE E. DEROGADA], P.O. 21 DE ABRIL DE 2023)
 
 Las concesiones solo podrán otorgarse a personas de nacionalidad mexicana.
 
-Tanto las concesiones como sus prórrogas serán otorgadas por el Ejecutivo del Estado previo dictamen de justificación que emita la Comisión Especial de Concesiones que presidirá el Secretario General de Gobierno y que estará integrada por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE ABRIL DE 2023)</small>
 
-A. La persona titular de la Secretaría de Economía Sustentable y Turismo.
+Tanto las concesiones como sus prórrogas serán otorgadas por el Ejecutivo del Estado previo dictamen de justificación que emita la Comisión Especial de Concesiones, la cual estará conformada por siete personas integrantes, de la siguiente manera:
 
-B. La persona titular de la Secretaría de Infraestructura, Desarrollo Territorial y Urbano.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
 
-C. La persona titular de la Secretaría cabeza de sector de la entidad solicitante, y
+A. La persona titular de la Oficialía Mayor de Gobierno, quien la presidirá;
 
-D. La persona titular de la Secretaría, dependencia o entidad solicitante.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
 
-En el otorgamiento de concesiones para la prestación de un servicio público, en la que se contemple la construcción, operación, mantenimiento o explotación de bienes destinados a un servicio público, que no requiera la erogación de recursos públicos, se podrá dispensar de la licitación pública respectiva y llevarse a cabo la adjudicación directa, previo acuerdo de excepción emitido por la Comisión Especial de Concesiones.
+B. La persona titular de la Secretaría de Hacienda, quien fungirá como Secretario Ejecutivo;
 
-Cuando la entidad solicitante sea uno de los integrantes permanentes de la Comisión Especial de Concesiones previstos en las fracciones I, II y III del presente artículo, para los efectos de votación se le considerara, solo como la persona titular de la Secretaría, dependencia o entidad solicitante.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
 
-Las decisiones que emita la Comisión Especial de Concesiones se tomaran por mayoría de votos, en caso de empate el presidente tendrá voto de calidad.
+C. La persona titular de la Coordinación de Gabinete;
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
+
+D. La persona titular de la Consejería Jurídica;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2023)</small>
+
+E. La persona titular de la Secretaría de Economía e Innovación;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2023)</small>
+
+F. La persona titular de la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2023)</small>
+
+G. En su caso, la persona titular de la dependencia solicitante o cabeza de sector de la entidad solicitante.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
+
+En el otorgamiento de concesiones de los cuales derive la prestación de un servicio público, en el que se contemple la construcción, operación, mantenimiento o explotación de bienes destinados a servicios públicos, que no requiera la erogación de recursos públicos, se podrá dispensar de la licitación pública respectiva y llevarse a cabo la adjudicación directa, previo acuerdo de excepción emitido por la Comisión Especial de Concesiones.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
+
+Cuando la entidad solicitante sea una de las personas integrantes permanentes de la Comisión Especial de Concesiones, previstas en los incisos del A al F del presente artículo, para los efectos de votación, únicamente contará como un voto.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
+
+Las decisiones que emita la Comisión Especial de Concesiones se tomaran por mayoría de votos, en caso de empate la presidencia tendrá voto de calidad.
 
 > <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
 
@@ -665,11 +699,11 @@ VII.- El monto de la reinversión que se haga para el mejoramiento de las instal
 
 El titular de una concesión gozará de un término equivalente al diez por ciento del plazo de la concesión, previo al vencimiento del mismo, para solicitar la prórroga correspondiente, respecto de la cual tendrá preferencia sobre cualquier solicitante. Al término del plazo de la concesión, o de la última prórroga en su caso, las obras e instalaciones adheridas de manera permanente al inmueble concesionado pasarán al dominio del Estado.
 
-> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
 
-###### ARTICULO 54.
+###### ARTÍCULO 54.
 
-La Secretaría Planeación y Finanzas del Estado, establecerá los mecanismos para fijar y modificar los precios, tarifas y contraprestaciones correspondientes en las concesiones.
+La Secretaría de Hacienda, establecerá los mecanismos para fijar y modificar los precios, tarifas y contraprestaciones correspondientes en las concesiones.
 
 > <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
 
@@ -1060,3 +1094,15 @@ P.O. 25 DE ENERO DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado de Baja California.
 
 SEGUNDO. El Ejecutivo del Estado dentro del término de sesenta días naturales contados a partir de la entrada en vigor del presente decreto emitirá y en su caso armonizará la reglamentación especial sobre concesiones y demás disposiciones secundarias pertinentes.
+
+P.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 224 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 8, 10, 24, 50 Y 54 DE LA LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los asuntos, actos o trámites relacionados con las concesiones que se encuentren en curso o que hayan sido otorgadas con anterioridad a la entrada en vigor de la presente reforma, así como aquellas promovidas a partir de su inicio de vigencia, serán sustanciados, resueltos, concluidos y atendidos por la Comisión Especial de Concesiones prevista en el artículo 50 de la Ley General de Bienes, materia de la presente reforma.
+
+TERCERO.- Dentro de los quince días naturales siguientes a la entrada en vigor de la presente reforma, la Secretaría General de Gobierno en representación y en su calidad de titular de la presidencia de la comisión especial de concesiones, hará entrega de los asuntos que a la entrada en vigor del presente decreto se encuentren en curso y aquellos relacionados con las mismas.
+
+CUARTO.- La persona titular del Poder Ejecutivo del Estado deberá expedir dentro de un plazo de ciento ochenta días, la reglamentación correspondiente acorde al presente Decreto.
