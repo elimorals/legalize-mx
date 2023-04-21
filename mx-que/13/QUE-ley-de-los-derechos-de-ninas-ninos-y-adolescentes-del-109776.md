@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109776"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-03"
-last_updated: "2022-02-18"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 3 de septiembre de 2015.
 
@@ -1765,7 +1765,9 @@ F. Representantes de la Sociedad Civil que serán nombrados por el Sistema Estat
 
 Para efectos de lo previsto en el apartado F, el Presidente del Sistema Estatal de Protección, emitirá una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus fechas límites y plazos.
 
-Serán invitados permanentes a las sesiones del Sistema Estatal de Protección, el Presidente de la Mesa Directiva de la Legislatura del Estado de Querétaro, así como las asociaciones de municipios, legalmente constituidas, quienes intervendrán con voz pero sin voto.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
+
+Serán invitados permanentes a las sesiones del Sistema Estatal de Protección, el Presidente o Presidenta de la Comisión de Familia y Derechos de las Niñas, Niños y Adolescentes de la Legislatura del Estado de Querétaro, así como las asociaciones de municipios, legalmente constituidas, quienes intervendrán con voz pero sin voto.
 
 El Gobernador del Estado, en casos excepcionales, podrá ser suplido por el Secretario de Gobierno.
 
@@ -2148,3 +2150,11 @@ Artículo Segundo. Se derogan todas las disposiciones contrarias a la presente L
 Artículo Tercero. El Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro y la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Querétaro, para el cumplimiento de lo establecido en la presente Ley, atenderán a la suficiencia presupuestal.
 
 Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 121 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
