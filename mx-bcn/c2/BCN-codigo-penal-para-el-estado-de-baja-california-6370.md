@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2023-03-17"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 17 DE MARZO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3187,9 +3185,9 @@ El Delito previsto en este artículo se perseguirá por querella de la parte ofe
 
 Tipo y punibilidad.- Al que sin tener relación familiar o de parentesco sustraiga a un menor de 18 años de edad o a un incapaz, sin el consentimiento de quien legítimamente tenga su custodia o guarda, o lo retenga u oculte con la finalidad de violar derechos de familia, se le impondrá prisión de cinco a diez años.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
 
-Cuando el delito lo cometa un familiar del menor que no ejerza sobre él la patria potestad ni la tutela, la prisión será de uno a tres años.
+Cuando el delito lo cometa un familiar de la persona menor de edad o incapaz que no ejerza sobre él la patria potestad ni la tutela, la prisión será de uno a tres años.
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 2013)</small>
 
@@ -3215,13 +3213,13 @@ Además de las penas señaladas, se privará de los derechos de la patria potest
 
 Las mismas penas señaladas en el artículo anterior, se impondrán al padre o la madre que sustraiga, retenga u oculte a su hijo menor de 18 años de edad o incapaz, con el fin de:
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2023)</small>
 
-I.- Impedir que el otro ascendiente ejerza el derecho a convivir con su hijo menor de edad o incapaz en los términos decretado por resolución o convenio judicial.
+I.- Impedir injustificadamente que la persona menor de edad o incapaz conviva con el otro ascendiente.
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2023)</small>
 
-II.- Impedir la guarda y custodia compartida en los términos de la resolución o convenio judicial.
+II.- Impedir injustificadamente el desarrollo de la guarda y custodia compartida respecto de la persona menor de edad o incapaz.
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 2013)</small>
 
@@ -3231,9 +3229,11 @@ Si el agente devuelve al menor o incapaz espontáneamente, dentro de las cuarent
 
 Además de las penas señaladas, se privará de los derechos de la patria potestad, tutela o custodia, así como de los derechos de familia, en su caso, a quienes teniendo el ejercicio de éstos en relación con el ofendido, cometa el delito a que se refiere el presente artículo.
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
 
-Artículo 237 QUATER.- Persecución oficiosa.- El delito de sustracción de menores o incapaces previsto en el artículo 237 se perseguirá de oficio; excepto lo dispuesto en su segundo párrafo y las conductas a que se refieren los artículos 237 bis y 237 ter, las cuales se perseguirán por querella de la parte ofendida o de sus representantes legítimos, salvo que dichas conductas se hayan ejercitado con violencia.
+###### Artículo 237 Quater.
+
+Persecución oficiosa.- El delito de sustracción de menores o incapaces previsto en el artículo 237 se perseguirá de oficio; excepto lo dispuesto en su segundo párrafo y las conductas a que se refieren los artículos 237 BIS y 237 TER, las cuales se perseguirán por querella de la parte ofendida o de sus representantes legítimos, salvo que dichas conductas se hayan ejercitado con violencia. Cuando la o el Juez de lo familiar durante juicio que le competa, tenga conocimiento de la probable comisión de los delitos a que se refieren los artículos 237 BIS y 237 TER cuya persecución dependa de querella, este tendrá legitimación para denunciarlo, en salvaguarda de los derechos de las personas menores de edad.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -6429,11 +6429,11 @@ P.O. 15 DE MARZO DE 2023.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1055 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+P.O. 21 DE ABRIL DE 2023.
 
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 223 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 55, 65, 68, 420 BIS, 440, 441 490 Y 491, SE DEROGAN LOS ARTÍCULOS 387, 394, 394 BIS, 394 TER, 395, 398 Y 403 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 237, 237 TER Y 237 QUATER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA Y SE APRUEBA LA REFORMA AL ARTÍCULO 78 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA".]
 
-P.O. 16 DE AGOSTO DE 2024.
+ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1061 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
