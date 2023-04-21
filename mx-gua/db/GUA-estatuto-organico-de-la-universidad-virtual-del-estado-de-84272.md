@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-organico-de-la-universidad-virtual-del-estado-de-84272
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-12-27"
-last_updated: "2022-08-16"
+last_updated: "2023-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
 
 Estatuto publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de diciembre de 2011.
 
@@ -239,9 +239,15 @@ II. Vigilar y dictar las medidas necesarias para el desarrollo de las funciones 
 
 III. Convocar, por conducto del Secretario Técnico a sesiones ordinarias y extraordinarias;
 
-IV. Someter a votación los asuntos de las sesiones y autorizar las actas de las mismas; y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2023)</small>
 
-V. Las demás que le confiera el Consejo.
+IV. Someter a votación los asuntos de las sesiones y autorizar las actas de las mismas;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+V. Suscribir, en caso de ausencias temporales o definitivas del Rector, previa autorización del Consejo, los certificados de estudios, títulos, grados académicos, menciones honoríficas y demás documentos escolares oficiales que otorgue la UVEG, en términos de la normatividad aplicable; y
+
+VI. Las demás que le confiera el Consejo.
 
 #### Sección Cuarta. Secretario Técnico
 
@@ -1693,11 +1699,15 @@ VI. Las demás que establezcan otras disposiciones reglamentarias de la UVEG, as
 
 ### Capítulo I. Suplencias
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
+
 Suplencias del Rector
 
 ###### Artículo 79.
 
-El Rector designará a quien lo supla en ausencias menores a treinta días cuando el Secretario Académico no lo supla por causa justificada. En ausencias temporales mayores a este término, el Consejo designará a quien se haga cargo del despacho de la Rectoría. En las ausencias definitivas, el Gobernador del Estado designará al Rector en los términos del Decreto de Creación.
+El Rector designará por escrito a quien lo supla en sus ausencias menores a treinta días cuando el Secretario Académico no pueda suplirlo por causa justificada.
+
+En caso de ausencias mayores a treinta días se cubrirán por quien designe el Gobernador del Estado como nuevo titular o como encargado de despacho, en este último supuesto, la persona designada ejercerá todas las atribuciones y funciones correspondientes al Rector, ante cualquier autoridad, organismo o ciudadano.
 
 Ausencias temporales de los Secretarios y Directores
 
@@ -1806,3 +1816,11 @@ Instrumentación
 Artículo Segundo. A partir del inicio de vigencia, las personas consejeras ciudadanas que a la fecha presidían los Consejos Directivos del Instituto para las Mujeres Guanajuatenses, de Radio Televisión de Guanajuato, del Museo Iconográfico del Quijote, de la Universidad Virtual del Estado de Guanajuato, de la Comisión Estatal de Conciliación y Arbitraje Médico, y de la empresa de participación estatal del Gobierno del Estado de Guanajuato denominada «Parque Agro Tecnológico Xonotli», se integrarán como vocales en los respectivos consejos directivos y consejo de administración, hasta concluir el periodo por el que fueron designados.
 
 Se realizarán las designaciones que a fin de atender al artículo 48 párrafo segundo de la Ley Orgánica del Poder Ejecutivo, se determinan en el presente Decreto Gubernativo.
+
+P.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO GUBERNATIVO 141, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LOS DECRETOS DE CREACIÓN, REESTRUCTURA, REGLAMENTOS INTERIORES O ESTATUTOS ORGÁNICOS DE VEINTIÚN ORGANISMOS PÚBLICOS DESCENTRALIZADOS EN MATERIA O COMPETENCIA EDUCATIVA Y UNO QUE OFERTA SERVICIOS EDUCATIVOS DE ALFABETIZACIÓN, EDUCACIÓN PRIMARIA, SECUNDARIA Y FORMACIÓN PARA EL TRABAJO".]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto Gubernativo iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
