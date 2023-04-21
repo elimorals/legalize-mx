@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2023-03-30"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -53,13 +53,17 @@ La presente Ley es de orden público, interés social y de observancia general y
 
 Los principios rectores para el acceso de las mujeres a una vida libre de violencia que deberán ser observados en la elaboración de políticas públicas y acciones gubernamentales son:
 
-I La igualdad jurídica entre las mujeres y los hombres;
+I. La igualdad jurídica entre las mujeres y los hombres;
 
 II. El respeto a la dignidad humana;
 
 III. La no discriminación; y,
 
 IV. La libertad de las mujeres.
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+V. La universalidad, la interdependencia, la indivisibilidad y la progresividad de los derechos humanos.
 
 ###### ARTÍCULO 3.
 
@@ -1286,3 +1290,9 @@ P.O. 30 DE MARZO DE 2023.
 PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales procedentes.
+
+P.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 357 POR EL QUE "SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 2 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
