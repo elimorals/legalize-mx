@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2023-02-09"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -867,11 +867,19 @@ a) Expedir el bando solemne, para dar a conocer la declaración de Gobernador el
 
 b) Recibir el Compromiso Constitucional a que aluden los artículos 67 y 105 de esta Constitución;
 
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
-c) Conceder la licencia para separarse de sus funciones por más de 60 días, y
+c) Conceder la licencia para separarse de sus funciones, en términos de esta Constitución;
 
 d) Nombrar al interino o sustituto, en los casos de falta temporal o absoluta, erigiéndose en Colegio Electoral;
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+e) Notificar al Gobernador Interino de la reincorporación del Gobernador Constitucional de su licencia, y
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+f) Ratificar al Gobernador Interino, designado en términos del artículo 50, párrafo quinto, de esta Constitución, como Gobernador Sustituto en caso de ausencia absoluta del Gobernador Constitucional dentro de los últimos dos años del periodo constitucional;
 
 > <small>(REFORMADA, D.O. 4 DE MAYO DE 2022)</small>
 
@@ -1031,19 +1039,27 @@ XLVIII.- Ratificar el nombramiento de la secretaria o secretario responsable del
 
 XLIX.- Designar a la o el Fiscal Especializado en Combate a la Corrupción, a través del mismo procedimiento dispuesto en esta constitución para la o el fiscal general del estado;
 
-> <small>(ADICIONADA, D.O. 12 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
 
-L.- Designar por el voto de las dos terceras partes de sus miembros presentes en la sesión respectiva a la persona titular de la Agencia de Transporte de Yucatán, conforme al procedimiento previsto en esta Constitución, y
+L.- Designar por el voto de las dos terceras partes de sus miembros presentes en la sesión respectiva a la persona Titular de la Agencia de Transporte de Yucatán, conforme al procedimiento previsto en esta Constitución;
+
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+LI.- Designar y, en su caso, remover al Fiscal General del Estado conforme al procedimiento dispuesto en esta Constitución;
+
+> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+LII.- Designar y, en su caso, remover a la persona Titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, conforme al procedimiento previsto en esta Constitución, y
 
 > <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
 
-LI.- Las demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ella emanen.
+LIII.- Las demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ella emanen.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 31.
 
-Corresponde al Congreso en sesión plena, con asistencia de no menos de las tres cuartas partes del número total de Diputados, resolver sobre la renuncia que de su cargo haga el Gobernador del Estado. Sólo podrá aceptarse la renuncia, siempre que a juicio del Congreso hubiese causa grave y suficiente, y que la renuncia sea hecha personalmente por el Gobernador del Estado ante el Congreso, libre de toda coacción o violencia.
+Corresponde al Congreso con la votación de no menos de las dos terceras partes de los diputados presentes en la sesión de que se trate, resolver sobre la renuncia que de su cargo haga el Gobernador del Estado. Sólo podrá aceptarse la renuncia, siempre que a juicio del Congreso hubiese causa justificada, y que la renuncia sea hecha personalmente por el Gobernador del Estado ante el Congreso, libre de toda coacción o violencia.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1093,15 +1109,19 @@ III.- al Tribunal Superior de Justicia en los asuntos de la competencia del Pode
 
 IV.- a los Ayuntamientos o Concejos Municipales que conforme a las Leyes en vigor hagan y realicen sus funciones, tratándose de cuestiones municipales;
 
+> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+V.- A las personas titulares de los organismos constitucionales autónomos del estado de Yucatán, exclusivamente sobre temas de su materia o función, y
+
 > <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
-V.- A las y los Ciudadanos, conforme a las modalidades que dispongan las leyes.
+VI.- A las y los Ciudadanos, conforme a las modalidades que dispongan las leyes.
 
-(REFORMADO, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 36.
 
-Las iniciativas presentadas por las Autoridades a que se refieren las fracciones II a IV del artículo anterior, y las que presenten los ciudadanos conforme a la ley, pasarán a las Comisiones que correspondan, salvo que se otorgue la respectiva dispensa en los términos de Ley. Las que presenten los Diputados se sujetarán necesariamente a los trámites que dispongan las leyes.
+Las iniciativas presentadas por las Autoridades a que se refieren las fracciones II a V del artículo anterior, y las que presenten las y los ciudadanos conforme a la ley, pasarán a las Comisiones que correspondan, salvo que se otorgue la respectiva dispensa en los términos de Ley. Las que presenten los Diputados se sujetarán necesariamente a los trámites que dispongan las leyes.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1327,11 +1347,11 @@ XIII.- No tener antecedentes penales por violencia familiar, delitos contra la i
 
 XIV.- Estar inscrito en el Registro Federal de Electores y contar con Credencial para Votar vigente.
 
-> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 47.
 
-Para ser Gobernador Interino del Estado, se requieren los mismos requisitos que para ser Gobernador Constitucional.
+Para ser Gobernador Interino del Estado se requieren los mismos requisitos que para ser Gobernador Constitucional, a excepción de lo previsto en la fracción VII del artículo 46 de esta Constitución.
 
 > <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -1351,7 +1371,29 @@ El Gobernador, al tomar posesión de su encargo, manifestará ante el Congreso o
 
 Si al comenzar un período constitucional no se presentara el Gobernador electo o la elección no estuviere hecha y declarada el 1 de octubre, cesará el Gobernador cuyo período hubiere concluido; encargándose desde luego del Poder Ejecutivo, con el carácter de interino, quien nombre el Congreso.
 
-Si éste no estuviere reunido, se encargará del despacho, provisionalmente, el Secretario General de Gobierno, entre tanto el Congreso se reúne y designa al Gobernador interino y convoca a las elecciones en los términos del artículo 52 de esta Constitución.
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+Si éste no estuviere reunido, se encargará del despacho, provisionalmente, el Secretario General de Gobierno, entre tanto el Congreso se reúne y designa al Gobernador interino y convoca a las elecciones en los términos del artículo 51 de esta Constitución.
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+Cuando el Gobernador requiera separarse del cargo hasta por noventa días naturales por causa justificada, presentará aviso al Congreso y atenderá el Despacho el funcionario que señale el Código de la Administración Pública de Yucatán.
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+Después del segundo año del periodo respectivo, el Gobernador Constitucional podrá solicitar licencia para separarse del ejercicio de sus funciones por más de noventa días naturales, la cual será autorizada por el Congreso, por el voto de la mayoría de los integrantes presentes en la sesión de que se trate.
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+Una vez autorizada la licencia a que se refiere el párrafo anterior, el Congreso procederá, de forma inmediata, a nombrar un Gobernador Interino. Si el Congreso no estuviese en sesiones, la Diputación Permanente convocará inmediatamente a sesión extraordinaria para tales efectos.
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+Para reincorporarse al ejercicio de sus funciones, el Gobernador Constitucional con licencia informará por escrito al Congreso, quien tomará la nota correspondiente, notificará de inmediato al Gobernador Interino para que cese en el ejercicio del cargo en la fecha que se indique, haciéndolo del conocimiento del Pleno en su oportunidad.
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+Si la falta temporal se convierte en absoluta, se procederá como disponen los artículos siguientes.
 
 Si la falta del Gobernador electo fuere por motivo de fuerza mayor, amenaza grave, coacción o cualquier otra causa que impida asumir materialmente sus funciones; deberá comprobarse este hecho y en tal caso, quien hubiere desempeñado legalmente las funciones, deberá transferirlas al Gobernador electo.
 
@@ -1365,11 +1407,13 @@ Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará al 
 
 Dicha convocatoria deberá ser expedida por el Congreso, dentro de los 10 días hábiles posteriores al del nombramiento del Gobernador interino, debiendo mediar entre la fecha de la convocatoria y la que se señale para la realización de las elecciones, un plazo no mayor de 6 meses.
 
-> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 52.
 
-Si la falta del Gobernador fuere absoluta dentro de los últimos 4 años, se nombrará al sustituto, quien concluirá el período constitucional; procediéndose en lo conducente, conforme a lo dispuesto en el artículo anterior.
+Si la falta del Gobernador fuere absoluta dentro de los últimos 4 años, se nombrará al sustituto, quien concluirá el período constitucional; procediéndose en lo conducente, conforme a lo dispuesto en el artículo anterior. Para ser Gobernador Sustituto se requiere cumplir los mismos requisitos que para ser Gobernador Interino.
+
+En caso de que la falta absoluta del Gobernador Constitucional ocurra en los dos últimos años del periodo constitucional y se cuente con un gobernador interino, en términos del párrafo quinto del artículo 50 de esta Constitución, el Congreso podrá ratificarlo como Gobernador Sustituto para que termine el periodo constitucional o nombrar a otra persona.
 
 > <small>(REFORMADO, D.O. 22 DE SEPTIEMBRE DE 1987)</small>
 
@@ -1523,9 +1567,9 @@ XXVI.- Las demás que le confieren esta Constitución y otras Leyes.
 
 El Gobernador no puede:
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
 
-I.- renunciar a su cargo, ni ausentarse del territorio del Estado o separarse del ejercicio de sus funciones por más de sesenta días sin causa grave calificada por el Congreso. En las separaciones o ausencias del Gobernador que no excedan de sesenta días atenderá el Despacho el funcionario que señale el Código de la Administración Pública de Yucatán;
+I.- Renunciar a su cargo sin causa justificada, ni ausentarse del territorio del Estado o separarse del ejercicio de sus funciones por hasta noventa días naturales sin dar aviso o por más de noventa días naturales sin pedir licencia al Congreso, en los términos que establece esta Constitución;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1609,25 +1653,41 @@ La Institución del Ministerio Público, en su carácter de representante de la 
 
 Para el cumplimiento de su objeto, el Ministerio Público estará a cargo de la Fiscalía General del Estado de Yucatán y de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán.
 
-> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
-La Fiscalía General del Estado de Yucatán, es una dependencia del Poder Ejecutivo, con autonomía técnica y de gestión, bajo el mando del Fiscal General del Estado, quien será su representante legal; y se auxiliará, para la investigación de los delitos, de las instituciones policiales, que actuarán bajo su conducción y mando, de acuerdo con lo que establezcan las leyes.
+La Fiscalía General del Estado de Yucatán es un organismo público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, presupuestal y de gestión, con capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, bajo el mando del Fiscal General del Estado, quien será su representante legal; y se auxiliará, para la investigación de los delitos, de las instituciones policiales, que actuarán bajo su conducción y mando, de acuerdo con lo que establezcan las leyes. El presupuesto de la Fiscalía General del Estado no podrá ser disminuido respecto al del año inmediato anterior y se incrementará anualmente, al menos, conforme al resultado de la inflación general anual registrada para el mes de diciembre del año anterior publicado por el Instituto Nacional de Estadística y Geografía en la primera quincena del mes de enero del año de su elaboración, sin exceder del 10% del presupuesto total asignado a la fiscalía el año anterior.
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
-La o el Fiscal General del Estado será designado conforme al siguiente procedimiento: la o el titular del Poder Ejecutivo someterá una terna a consideración del Congreso del estado, quien designará a aquél que deba ocupar el cargo, mediante el voto de las dos terceras partes de los integrantes del Congreso.
+La o el Fiscal General del Estado durará en su encargo doce años, contados a partir de la fecha en la que rinda el compromiso constitucional, y no podrá ser ratificado. La o el Fiscal General del Estado será designado conforme al siguiente procedimiento: la o el titular del Poder Ejecutivo someterá una terna a consideración del Congreso del estado, quien designará a aquel que deba ocupar el cargo, mediante el voto de las dos terceras partes de las y los integrantes del Congreso.
 
 > <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
 En caso de que no se alcance la votación requerida, la o el titular del Poder Ejecutivo someterá otra terna a consideración del Congreso del Estado, para que designe a la o al Fiscal General del Estado en los términos del párrafo anterior.
 
-Si el Congreso del estado, nuevamente, no designara al Fiscal General del Estado, ocupará el cargo la persona que designe el titular del Poder Ejecutivo, quien no podrá haber integrado las ternas previamente propuestas.
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
-Para ser Fiscal General del Estado se requiere: ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho; gozar de buena reputación, y no haber sido condenado por delito doloso.
+Si el Congreso del estado, nuevamente, no designara a la o el Fiscal General del Estado, ocupará el cargo la persona que designe el titular del Poder Ejecutivo.
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
-La o el Fiscal General del Estado podrá ser removido por el Ejecutivo en términos de la ley.
+Para ser Fiscal General del Estado se requiere: ser ciudadano mexicano; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho; gozar de buena reputación, no ser deudor alimentario moroso, y no tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio.
+
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+La Fiscal o el Fiscal General del Estado podrá ser removido por causas graves por el Congreso, a solicitud de, al menos, las dos terceras partes de los diputados que lo integran. Una vez recibida la solicitud, el Congreso integrará un expediente y lo remitirá al Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, que le dará vista a la o el Fiscal General del Estado para que, dentro de un plazo de quince días hábiles, presente las pruebas y alegatos que considere o manifieste lo que a su derecho convenga. Una vez transcurrido el plazo, recibido o no documento alguno de la o el fiscal general, el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, dentro de un plazo de sesenta días hábiles, integrará el expediente y emitirá un dictamen donde califique si las causas son graves. Si el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, califica como graves las causas, el Congreso podrá remover a la Fiscal o el Fiscal General del Estado por el voto de las dos terceras partes de los diputados que lo integran. En caso de que la causa no sea calificada como grave por el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, se notificará el dictamen en ese sentido al Pleno del Congreso del Estado, a fin de declarar el cierre del procedimiento iniciado, continuando en su encargo la o el Fiscal General del Estado por el tiempo por el que fue designado.
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+Para efectos de lo previsto en el párrafo anterior, serán consideradas como causas graves las contempladas en el Capítulo II del Título Tercero del Libro Primero de la Ley General de Responsabilidades Administrativas; cometer uno o más delitos dolosos durante el ejercicio de su función, con sentencia condenatoria firme; y adquirir incapacidad total o permanente que impida el correcto ejercicio de sus funciones durante más de seis meses, dictaminada por médico competente. Lo establecido en este párrafo se aplicará sin perjuicio de lo señalado en el título décimo de esta Constitución, en materia de responsabilidades de los servidores públicos.
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+La o el Fiscal General del Estado remitirá en la apertura del Segundo Período Ordinario de Sesiones del Congreso, un informe anual de actividades, respecto del cual las diputadas y diputados podrán solicitar datos adicionales, los cuales serán aportados en la comparecencia, de la persona titular que será realizada ante el Pleno del Congreso en el mes de abril, con el objetivo de informar sobre su gestión del año calendario anterior.
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+La o el Fiscal General del Estado no podrá tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrá asumir un cargo público en las dependencias y entidades estatales ni en los organismos constitucionales autónomos.
 
 La ley regulará la integración, estructura, funcionamiento, competencia y administración de la Fiscalía General del Estado, y establecerá el servicio profesional de carrera para sus servidores públicos.
 
@@ -1933,6 +1993,14 @@ Las decisiones del Pleno del Tribunal Superior de Justicia, adoptadas por medio 
 
 La ley determinará los procedimientos para la substanciación de las Cuestiones de Control Previo de Constitucionalidad.
 
+> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+V.- Dictaminar, previa solicitud del Congreso, sobre la existencia de una causa grave para la remoción de la o el fiscal general del estado, en términos del artículo 62 de esta Constitución.
+
+> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+VI.- Dictaminar, previa solicitud del Congreso, sobre la existencia de una causa grave para la remoción de la persona Titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, en términos del artículo 75 Septies de esta Constitución.
+
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 20 DE JUNIO DE 2014)</small>
 
 ### CAPITULO VI. Del Consejo de la Judicatura
@@ -2081,13 +2149,21 @@ IV.- El Tribunal Electoral del Estado de Yucatán;
 
 V.- El Tribunal de Justicia Administrativa del Estado de Yucatán;
 
-> <small>(REFORMADA, D.O. 12 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
 
-VI.- La Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, y
+VI.- La Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán;
 
-> <small>(ADICIONADA, D.O. 12 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
 
-VII.- La Agencia de Transporte de Yucatán.
+VII.- La Agencia de Transporte de Yucatán;
+
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+VIII.- La Fiscalía General del Estado de Yucatán, y
+
+> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+IX.- La Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán.
 
 Los organismos autónomos reconocidos por esta Constitución deberán enviar al Poder Ejecutivo del Estado su proyecto de Presupuesto de Egresos, a más tardar el 15 de octubre de cada año. Asimismo, rendirán informe de su cuenta pública en los términos que señale la ley en la materia.
 
@@ -2227,6 +2303,10 @@ El Fiscal Especializado en Combate a la Corrupción no podrá tener otro empleo,
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 12 DE SEPTIEMBRE DE 2022)</small>
 
+### CAPÍTULO IX. De la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
 ###### Artículo 75 Sexies.
 
 La Agencia de Transporte de Yucatán es un organismo público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, presupuestal y de gestión, con capacidad para determinar su organización interna y el ejercicio de sus recursos con arreglo a las normas aplicables, cuyo objeto es planear, regular, administrar, controlar, construir y encargarse, en general, de la organización del servicio de transporte en el estado de Yucatán.
@@ -2246,6 +2326,42 @@ III. Acreditar tener experiencia comprobable en materia de transporte, de planea
 La persona titular de la Agencia de Transporte de Yucatán será designada mediante el siguiente procedimiento: la persona titular del Poder Ejecutivo someterá una terna a consideración del Congreso del estado, quien designará a quien deba ocupar el cargo, mediante el voto de las dos terceras partes de sus integrantes presentes en la sesión de que se trate. En caso de que no se alcance la votación requerida, la persona titular del Poder Ejecutivo someterá otra terna a la consideración del Congreso. En caso de que nuevamente no se alcance la votación requerida, ocupará el cargo la persona que designe la persona titular del Poder Ejecutivo, que deberá ser integrante de la segunda terna propuesta.
 
 La persona titular de la Agencia de Transporte de Yucatán no podrá tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrá asumir un cargo público en las dependencias y entidades estatales ni en los órganos constitucionales autónomos.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 21 DE ABRIL DE 2023)</small>
+
+###### Artículo 75 Septies.
+
+La Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán es un organismo público autónomo, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, presupuestal y de gestión, con capacidad para determinar su organización interna y el ejercicio de sus recursos con arreglo a las normas aplicables, cuyo objeto es prevenir, detectar y denunciar las operaciones con recursos de procedencia ilícita, incluyendo aquellas derivadas de incongruencia fiscal o patrimonial, y otras conductas sancionables, y auxiliar, en el ámbito de sus atribuciones, en su combate, a través de la obtención, tratamiento, consolidación, análisis y administración de la información fiscal, económica, financiera y patrimonial.
+
+La administración pública estatal, los municipios, los poderes, así como los organismos autónomos que tengan conocimiento o relación con algún hecho que haya detectado la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán en el ejercicio de las atribuciones, tienen la obligación de atender el requerimiento que les realice la referida agencia, en términos de la Constitución Política de los Estados Unidos Mexicanos, de esta Constitución y de la legislación aplicable, proporcionando la información y la documentación que obre en su poder.
+
+La persona Titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán durará en el cargo quince años, contados a partir de la fecha en la que rinda el compromiso constitucional, y al término del cual no podrá ser ratificada para un segundo período.
+
+La persona Titular de la Agencia a que se refiere este artículo podrá ser removida por causas graves por el Congreso, a solicitud de, al menos, las dos terceras partes de los diputados que lo integran. Una vez recibida la solicitud, el Congreso integrará un expediente y lo remitirá al Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, que le dará vista a la persona Titular de la Agencia para que, dentro de un plazo de quince días hábiles, presente las pruebas y alegatos que considere o manifieste lo que a su derecho convenga. Una vez transcurrido el plazo, recibido o no documento alguno de la persona Titular de la Agencia, el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, dentro de un plazo de sesenta días hábiles, integrará el expediente y emitirá un dictamen donde califique si las causas son graves. Si el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, califica como graves las causas, el Congreso podrá remover a la persona Titular de la Agencia por el voto de las dos terceras partes de los diputados que lo integran. En caso de que la causa no sea calificada como grave por el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, se notificará el dictamen en ese sentido al Pleno del Congreso del Estado, a fin de declarar el cierre del procedimiento iniciado, continuando en su encargo la persona Titular de la Agencia por el tiempo por el que fue designada.
+
+Para efectos de lo previsto en el párrafo anterior, serán consideradas como causas graves las contempladas en el Capítulo II del Título Tercero del Libro Primero de la Ley General de Responsabilidades Administrativas; así como encontrarse compurgando sentencia firme por la comisión de uno o más delitos que ameriten prisión preventiva oficiosa en términos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos y 167 del Código Nacional de Procedimientos Penales; adquirir incapacidad total o permanente que impida el correcto ejercicio de sus funciones durante más de seis meses, dictaminada por médico competente y cometer violaciones graves a esta Constitución.
+
+Para ser Titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, se requiere cumplir los siguientes requisitos:
+
+I. Ser persona ciudadana mexicana y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Tener cuando menos treinta años cumplidos el día de su designación;
+
+III. Contar al día de su designación, con estudios de licenciatura y cédula profesional en derecho, finanzas, tecnologías de la información o carrera afín a esas materias;
+
+IV. Gozar de buena reputación;
+
+V. No estar cumpliendo sentencia firme emitida por una autoridad judicial competente, que imponga pena privativa de la libertad, por la comisión de un delito intencional o actos de corrupción, que amerite la inhabilitación para ocupar cargos públicos;
+
+VI. No ser deudor alimentario moroso, y
+
+VII. No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio.
+
+La persona Titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán será designada mediante el siguiente procedimiento: la persona Titular del Poder Ejecutivo someterá una terna a consideración del Congreso del Estado, quien designará a quien deba ocupar el cargo, por el voto de las dos terceras partes de las y los integrantes del Congreso. En caso de que no se alcance la votación requerida, la persona Titular del Poder Ejecutivo someterá otra terna a la consideración del Congreso. Si nuevamente no se obtiene la votación requerida, ocupará el cargo la persona que designe la persona Titular del Poder Ejecutivo.
+
+La persona Titular no podrá tener otro empleo, cargo o comisión, en los sectores público, social o privado, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia.
+
+El presupuesto de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán no podrá ser disminuido respecto al del año inmediato anterior y se incrementará anualmente, al menos, conforme al resultado de la inflación general anual registrada para el mes de diciembre del año anterior, publicado por el Instituto Nacional de Estadística y Geografía en la primera quincena del mes de enero del año de su elaboración, sin exceder del 10% del presupuesto total asignado a la agencia en comento en el año anterior.
 
 (REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
@@ -2609,9 +2725,9 @@ El Estado, en su función ordenadora de la convivencia humana, ejercerá la acci
 
 La Seguridad Pública en Yucatán es una función a cargo del Estado y de los Municipios, en coordinación con la Federación, y tiene por objeto la prevención, la investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en el ámbito de sus respectivas competencias. La actuación de las instituciones estatal y municipales de Seguridad Pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en los Tratados Internacionales en la materia ratificados por el Estado Mexicano y publicados en el Diario Oficial de la Federación.
 
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
-Las Instituciones de Seguridad Pública, estatal y municipales, serán de carácter civil, disciplinado y profesional y deberán coordinarse entre sí y con la Federación para cumplir los objetivos de la función a su cargo. El Sistema Estatal de Seguridad Pública tendrá por objeto planear, normar y coordinar las actividades que se realizan en el Estado en materia de Seguridad Pública y estará conformado en los términos que señale la ley.
+Las Instituciones de Seguridad Pública, estatal y municipales, serán de carácter civil, disciplinado y profesional, y deberán coordinarse entre sí y con la Federación para cumplir los objetivos de la función a su cargo. El presupuesto estatal asignado a la dependencia del Poder Ejecutivo del estado encargada de la seguridad pública no podrá ser disminuido respecto al del año anterior, aumentará anualmente, al menos, conforme al resultado de la inflación general anual registrada para el mes de diciembre del año anterior publicado por el Instituto Nacional de Estadística y Geografía en la primera quincena del mes de enero del año de su elaboración, sin exceder del 10% del presupuesto total asignado a la dependencia el año anterior, y una vez asignado no podrá ser redirigido o redistribuido a otra dependencia o entidad. El Sistema Estatal de Seguridad Pública tendrá por objeto planear, normar y coordinar las actividades que se realizan en el Estado en materia de Seguridad Pública y estará conformado en los términos que señale la ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE JULIO DE 2013)</small>
 
@@ -3171,7 +3287,7 @@ Todo servidor público del Estado y de los municipios, sin excepción alguna, an
 
 La responsabilidad del Gobernador, Secretario de Gobierno y demás funcionarios superiores de la administración pública, así como la de los Presidente Municipales, no excusa la de los subalternos que obedezcan órdenes de aquéllos, dirigidas a suspender o retardar las elecciones populares, la realización de los procedimientos de participación ciudadana, la instalación del Congreso, de los ayuntamientos o el libre ejercicio de las funciones de éstos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, D.O. 28 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 107.
 
@@ -5318,3 +5434,107 @@ Artículo segundo. El Congreso del Estado contará con 180 días hábiles poster
 Cláusula derogatoria
 
 Artículo tercero. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 619/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE JUSTICIA CONSTITUCIONAL PARA EL ESTADO DE YUCATÁN, LA LEY DE JUVENTUD DEL ESTADO DE YUCATÁN, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN, LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, EN MATERIA DE AUTONOMÍA DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Obligación normativa
+
+El Congreso del estado deberá expedir las leyes y modificaciones a la legislación para armonizarla conforme a lo previsto en este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Artículo tercero. Obligación normativa
+
+La Fiscalía General del Estado deberá expedir los acuerdos necesarios para su regulación interna, conforme a lo previsto en este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Artículo cuarto. Legislación transitoria
+
+En tanto la Fiscalía General del Estado expide los acuerdos necesarios para regular su organización y funcionamiento interno, continuarán vigentes las disposiciones del Reglamento de la Ley de la Fiscalía General del Estado de Yucatán.
+
+Artículo quinto. Derechos laborales
+
+Los trabajadores que se encuentren prestando sus servicios en la Fiscalía General del Estado, a la entrada en vigor de este decreto, seguirán conservando su misma calidad y derechos laborales que les corresponden, en los términos de la legislación aplicable.
+
+Artículo sexto. Transferencia de recursos
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Fiscalía General del Estado como dependencia del Poder Ejecutivo, incluyendo todos sus bienes y los derechos derivados de fondos o fideicomisos vigentes, pasarán a formar parte del órgano constitucional autónomo denominado Fiscalía General del Estado.
+
+La Fiscalía General del Estado, como organismo constitucional autónomo contratará preferentemente para puestos administrativos a personas con discapacidad; así como de jóvenes que quieran adherirse por primera vez al ámbito laboral.
+
+Artículo séptimo. Policía investigadora
+
+La Fiscalía General del Estado deberá llevar a cabo los actos administrativos y jurídicos necesarios para crear su policía investigadora, en términos de lo establecido en este decreto, para lo cual tendrá hasta el 30 de junio de 2024.
+
+Artículo octavo. Exención
+
+La Fiscalía General del Estado queda exenta, por única ocasión, de los derechos, impuestos y obligaciones fiscales, municipales y estatales, que puedan ser causados con motivo de la regularización de sus bienes y servicios para el cumplimiento de este decreto.
+
+Artículo noveno. Previsiones presupuestales
+
+El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+Artículo décimo. Recursos y espacios de la fiscalía
+
+En tanto se llevan a cabo las adecuaciones presupuestales, las transferencias y demás actos necesarios para dotar de recursos propios a la Fiscalía General del Estado como órgano constitucional autónomo continuará ejerciendo los recursos y ocupando los espacios que actualmente tiene asignados la Fiscalía General del Estado como dependencia.
+
+Artículo décimo primero. Asuntos en trámite
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este decreto, continuarán, hasta su conclusión, regidos por las disposiciones en los cuales se fundamentaron.
+
+Artículo décimo segundo. Nombramiento
+
+La persona titular del Poder Ejecutivo tendrá hasta el 30 de noviembre de 2023 para remitir al Congreso la terna para la designación de la persona titular de la Fiscalía General del Estado.
+
+Artículo décimo tercero. Nombramiento
+
+El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno de la Fiscalía General del Estado dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo décimo cuarto. Primer Informe del Fiscal
+
+Por única ocasión, la primera rendición del Informe anual de la Fiscalía General del Estado de Yucatán, a cargo de la persona titular de dicho órgano autónomo, se realizará en el mes de abril de 2025, y comprenderá el período que abarca del inicio de sus funciones como fiscal hasta el 31 de diciembre 2024.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 620/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN Y EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN, EN MATERIA DE PREVENCIÓN Y COMBATE AL DELITO DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA".]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor en la fecha en que lo haga la Ley Orgánica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán, con excepción de lo dispuesto en los artículos transitorios segundo, tercero y cuarto de este decreto, que entrarán en vigor el día siguiente al de su publicación en el referido medio de difusión oficial.
+
+Artículo Segundo. Obligación normativa
+
+El Congreso del Estado deberá emitir la Ley Orgánica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, dentro del plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este transitorio.
+
+Artículo Tercero. Obligación normativa
+
+El Congreso del Estado de Yucatán deberá expedir las modificaciones necesarias a la legislación secundaria, para armonizarla a las disposiciones de este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de la entrada en vigor de este transitorio.
+
+Artículo Cuarto. Remisión de la terna para la designación de la persona Titular de la agencia
+
+La persona Titular del Poder Ejecutivo del estado deberá remitir al Congreso la terna para la designación de la persona Titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, a más tardar el 30 de noviembre de 2023.
+
+Artículo Quinto. Adecuaciones presupuestales, financieras, de bienes y recursos humanos
+
+La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales, financieras, de bienes y recursos humanos que resulten necesarias para la aplicación de este decreto.
+
+La Agencia de Inteligencia Patrimonial y Económica preferentemente contratará para puestos administrativos a personas con discapacidad; así como de jóvenes que quieran adherirse por primera vez al ámbito laboral.
+
+Artículo Sexto. Exención
+
+La Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán queda exenta, por única ocasión, de los derechos, impuestos y obligaciones fiscales estatales, así como de las contribuciones municipales respecto de sus bienes de dominio público en términos del artículo 82, fracción VIII, de la Constitución Política del Estado de Yucatán y que puedan ser causados con motivo de la regularización de sus bienes y servicios para el cumplimiento de este decreto.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 621/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Armonización legislativa
+
+Artículo segundo. El Congreso del estado realizará las reformas necesarias para armonizar la legislación del estado a lo previsto en este decreto en un plazo de ciento ochenta días naturales, contados a partir de su entrada en vigor.
