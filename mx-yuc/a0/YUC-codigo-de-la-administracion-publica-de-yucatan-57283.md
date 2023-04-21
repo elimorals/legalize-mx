@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2022-10-13"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -245,11 +245,11 @@ El Gobernador del Estado resolverá cualquier duda que se presente sobre compete
 
 ### CAPÍTULO IV. De las Ausencias Temporales del Gobernador
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 18.
 
-En las ausencias temporales del Gobernador del Estado que no excedan de sesenta días, el Secretario General de Gobierno asumirá las funciones del Titular del Poder Ejecutivo del Estado, y las de aquél serán asumidas por el Secretario de Administración y Finanzas.
+En las ausencias temporales del Gobernador del Estado que no excedan de noventa días, el Secretario General de Gobierno asumirá las funciones del Titular del Poder Ejecutivo del Estado, y las de aquél serán asumidas por el Secretario de Administración y Finanzas.
 
 ###### Artículo 19.
 
@@ -319,9 +319,7 @@ X.- (DEROGADA, D.O. 23 DE NOVIEMBRE DE 2018)
 
 XI.- Secretaría de Seguridad Pública;
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
-
-XII.- Fiscalía General del Estado;
+XII.- (DEROGADA, D.O. 21 DE ABRIL DE 2023)
 
 > <small>(REFORMADA, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
@@ -391,11 +389,11 @@ I. Promover, respetar, reconocer y proteger los derechos humanos desde un enfoqu
 
 II. Abstenerse de toda práctica discriminatoria, violenta y violatoria de derechos humanos especialmente contra las mujeres y poblaciones de atención prioritaria.
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 25.
 
-A los titulares de las dependencias se les denominará Secretarios, con excepción de los titulares de la Consejería Jurídica y de la Fiscalía General del Estado, a quienes se les denominará, Consejero Jurídico y Fiscal General, respectivamente.
+A los titulares de las dependencias se les denominará Secretarios, con excepción del titular de la Consejería Jurídica, a quien se le denominará Consejero Jurídico.
 
 ###### Artículo 26.
 
@@ -531,7 +529,9 @@ IV.- Firmar con el Gobernador del Estado la sanción de los Decretos del Honorab
 
 V.- Suscribir junto con el Gobernador del Estado los nombramientos que éste expida de los titulares de la Administración Pública del Estado, con excepción del propio;
 
-VI.- Atender las funciones del Gobernador del Estado en sus ausencias temporales del Despacho, que no excedan de sesenta días, con las particularidades establecidas al respecto en el presente Código;
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+VI.- Atender las funciones del Gobernador del Estado en sus ausencias temporales del Despacho, que no excedan de noventa días, con las particularidades establecidas al respecto en el presente Código;
 
 VII.- Cumplir con los lineamientos del Gobernador en materia de política interior del Estado;
 
@@ -1271,9 +1271,9 @@ XVI.- Verificar el cumplimiento de las leyes y reglamentos con relación a las f
 
 XVII.- Coordinarse con las demás dependencias del Ejecutivo para generar la infraestructura necesaria para la profesionalización de los cuerpos de seguridad pública;
 
-> <small>(ADICIONADA, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
 
-XVIII.- Realizar, bajo la coordinación de la Fiscalía General del Estado, la investigación de los hechos que la ley señale como delito, de manera objetiva, técnica, científica y sin dilaciones; y elaborar los registros de las diligencias efectuadas, para la integración de la carpeta de investigación;
+XVIII.- Realizar, bajo el mando y conducción de la Fiscalía General del Estado, la investigación de los hechos que la ley señale como delito, de manera objetiva, técnica, científica y sin dilaciones; y elaborar los registros de las diligencias efectuadas, para la integración de la carpeta de investigación;
 
 > <small>(REFORMADA, D.O. 24 DE JULIO DE 2020)</small>
 
@@ -1287,15 +1287,13 @@ XX.- Prestar el servicio de escolta pública en los términos del ordenamiento q
 
 XXI.- Crear y mantener actualizado el Registro Único de Prestadores de Servicios de Cerrajería, así como instrumentar un mecanismo de monitoreo a la actividad y prestación de dicho servicio en la entidad.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 21 DE ABRIL DE 2023)</small>
 
 ### CAPÍTULO XII. De la Fiscalía General del Estado de Yucatán
 
-> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
-
 ###### Artículo 41.
 
-La Fiscalía General del Estado tendrá las facultades y obligaciones que específicamente le confieren la Constitución Política, la Ley de la Fiscalía General y su reglamento, todas del Estado de Yucatán y las demás disposiciones legales aplicables.
+(DEROGADA, D.O. 21 DE ABRIL DE 2023)
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 23 DE NOVIEMBRE DE 2018)</small>
 
@@ -2203,21 +2201,25 @@ El Órgano de Gobierno se reunirá con la periodicidad que señale el Estatuto O
 
 Los acuerdos de la Junta de Gobierno o su equivalente se tomarán por mayoría simple de votos. En caso de empate el presidente tendrá voto de calidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE ABRIL DE 2023)</small>
+
 ###### Artículo 75.
 
-El Director General de los organismos descentralizados o su equivalente, será nombrado por el Gobernador del Estado, debiendo recaer dicho nombramiento en persona que reúna los siguientes requisitos:
+El Director General de los Organismos públicos descentralizados o su equivalente, será nombrado por la persona titular del Poder Ejecutivo, debiendo recaer dicho nombramiento en la persona que reúna los siguientes requisitos:
 
-I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos, y
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos.
 
 II.- No encontrarse en alguno de los impedimentos señalados por el presente Código.
 
-> <small>(ADICIONADA, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
 
-III.- Contar con estudios técnicos o profesionales a fines (sic) con el objeto del organismo descentralizado.
+III.- Contar con estudios técnicos o profesionales afines con el objeto del organismo público descentralizado.
 
-> <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O. 21 DE ABRIL DE 2023)</small>
 
-Cuando se trate de organismos descentralizados o su equivalente, cuyo objeto sean de formación académica universitaria, deberá contar con título de maestría y experiencia académica comprobable.
+Cuando se trate de organismos públicos descentralizados o su equivalente, cuyo objeto sea de formación académica universitaria, deberá contar con título de maestría y experiencia académica comprobable.
 
 ###### Artículo 76.
 
@@ -3610,3 +3612,89 @@ D.O. 13 DE OCTUBRE DE 2022.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor al momento de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 619/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE JUSTICIA CONSTITUCIONAL PARA EL ESTADO DE YUCATÁN, LA LEY DE JUVENTUD DEL ESTADO DE YUCATÁN, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN, LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, EN MATERIA DE AUTONOMÍA DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Obligación normativa
+
+El Congreso del estado deberá expedir las leyes y modificaciones a la legislación para armonizarla conforme a lo previsto en este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Artículo tercero. Obligación normativa
+
+La Fiscalía General del Estado deberá expedir los acuerdos necesarios para su regulación interna, conforme a lo previsto en este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Artículo cuarto. Legislación transitoria
+
+En tanto la Fiscalía General del Estado expide los acuerdos necesarios para regular su organización y funcionamiento interno, continuarán vigentes las disposiciones del Reglamento de la Ley de la Fiscalía General del Estado de Yucatán.
+
+Artículo quinto. Derechos laborales
+
+Los trabajadores que se encuentren prestando sus servicios en la Fiscalía General del Estado, a la entrada en vigor de este decreto, seguirán conservando su misma calidad y derechos laborales que les corresponden, en los términos de la legislación aplicable.
+
+Artículo sexto. Transferencia de recursos
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Fiscalía General del Estado como dependencia del Poder Ejecutivo, incluyendo todos sus bienes y los derechos derivados de fondos o fideicomisos vigentes, pasarán a formar parte del órgano constitucional autónomo denominado Fiscalía General del Estado.
+
+La Fiscalía General del Estado, como organismo constitucional autónomo contratará preferentemente para puestos administrativos a personas con discapacidad; así como de jóvenes que quieran adherirse por primera vez al ámbito laboral.
+
+Artículo séptimo. Policía investigadora
+
+La Fiscalía General del Estado deberá llevar a cabo los actos administrativos y jurídicos necesarios para crear su policía investigadora, en términos de lo establecido en este decreto, para lo cual tendrá hasta el 30 de junio de 2024.
+
+Artículo octavo. Exención
+
+La Fiscalía General del Estado queda exenta, por única ocasión, de los derechos, impuestos y obligaciones fiscales, municipales y estatales, que puedan ser causados con motivo de la regularización de sus bienes y servicios para el cumplimiento de este decreto.
+
+Artículo noveno. Previsiones presupuestales
+
+El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+Artículo décimo. Recursos y espacios de la fiscalía
+
+En tanto se llevan a cabo las adecuaciones presupuestales, las transferencias y demás actos necesarios para dotar de recursos propios a la Fiscalía General del Estado como órgano constitucional autónomo continuará ejerciendo los recursos y ocupando los espacios que actualmente tiene asignados la Fiscalía General del Estado como dependencia.
+
+Artículo décimo primero. Asuntos en trámite
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este decreto, continuarán, hasta su conclusión, regidos por las disposiciones en los cuales se fundamentaron.
+
+Artículo décimo segundo. Nombramiento
+
+La persona titular del Poder Ejecutivo tendrá hasta el 30 de noviembre de 2023 para remitir al Congreso la terna para la designación de la persona titular de la Fiscalía General del Estado.
+
+Artículo décimo tercero. Nombramiento
+
+El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno de la Fiscalía General del Estado dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo décimo cuarto. Primer Informe del Fiscal
+
+Por única ocasión, la primera rendición del Informe anual de la Fiscalía General del Estado de Yucatán, a cargo de la persona titular de dicho órgano autónomo, se realizará en el mes de abril de 2025, y comprenderá el período que abarca del inicio de sus funciones como fiscal hasta el 31 de diciembre 2024.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 621/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Armonización legislativa
+
+Artículo segundo. El Congreso del estado realizará las reformas necesarias para armonizar la legislación del estado a lo previsto en este decreto en un plazo de ciento ochenta días naturales, contados a partir de su entrada en vigor.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 622/2023 POR EL QUE SE MODIFICA EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS”.]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Obligación normativa
+
+La persona Titular del Poder Ejecutivo deberá realizar las adecuaciones normativas necesarias para armonizar el marco jurídico estatal a lo previsto en este decreto, dentro del plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
