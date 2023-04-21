@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2023-01-20"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -1627,9 +1627,11 @@ El ejercicio de la facultad reglamentaria, se sujetará a las mismas reglas del 
 
 Los habitantes del Municipio del Estado, gozarán del derecho de iniciativa popular en los ramos y condiciones que la ley especial establezca.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE ABRIL DE 2023)</small>
+
 ###### Artículo 79.
 
-El Cabildo deberá publicar las disposiciones de observancia general que acuerde y para su obligatoriedad, deberá publicarlas en la Gaceta Municipal, misma que contendrá por lo menos, las siguientes características:
+El Cabildo deberá publicar las disposiciones de observancia general que acuerde y para su obligatoriedad, deberá publicarlas en la Gaceta Municipal, siendo esta en versión impresa de conformidad a las disposiciones de ley; y preferentemente, en su versión electrónica; la cual contendrá por lo menos, las siguientes características:
 
 I.- El número que le corresponda conforme al Registro Estatal de Publicaciones Oficiales, a cargo del Ejecutivo del Estado;
 
@@ -3808,3 +3810,15 @@ Artículo Primero. El presente decreto entrará en vigor al día siguiente de su
 Derogación Tácita
 
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 623/2023 POR EL QUE SE MODIFICA LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE REDUCCIÓN DE PAPEL”.]
+
+Artículo Primero. Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Cláusula derogatoria
+
+Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan al presente Decreto.
