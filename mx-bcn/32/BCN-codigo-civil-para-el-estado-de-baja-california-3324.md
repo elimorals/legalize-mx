@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2023-03-03"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -405,9 +405,9 @@ Si el nacimiento tuviere lugar en una institución de salud, la declaración de 
 
 Recibida la declaración de nacimiento por parte de la institución de salud, el Oficial del Registro Civil tomará las medidas que sean necesarias, a fin de que dentro de los 10 días hábiles siguientes, se levante el Acta de Nacimiento, cuya primera copia certificada será entregada gratuitamente al padre o madre que lo solicite, o quien hubiere efectuado la declaración del nacimiento.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
 
-En los casos en que los supuestos padres o demás familiares señalados en el primer párrafo de este artículo, no pudieran acreditar su filiación respecto del recién nacido, el Director o la persona encargada de la administración del nosocomio lo hará del conocimiento del Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa de los Menores y la Familia, en los términos del artículo 65 de este Código.
+En los casos en que los supuestos padres o demás familiares señalados en el primer párrafo de este artículo, no pudieran acreditar su filiación respecto del recién nacido, la persona titular de la Dirección o la persona encargada de la administración del nosocomio, lo hará del conocimiento del Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, en los términos del artículo 65 de este Código.
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
@@ -537,11 +537,11 @@ Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso
 
 Podrá reconocerse al hijo nacido de una relación entre parientes consanguíneos. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
 
 ###### ARTICULO 65.
 
-Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Sistema para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en su caso hayan concurrido, y el Sistema procederá sin demora ante el Registro Civil para inscribir su nacimiento, si fuere el caso, proveyendo además a la custodia provisional de aquél y dando cuenta al Ministerio Público de la adscripción.
+Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Sistema para el Desarrollo Integral de la Familia por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en su caso hayan concurrido, y el Sistema procederá sin demora ante el Registro Civil para inscribir su nacimiento, si fuere el caso, proveyendo además a la custodia provisional de aquél y dando cuenta al Ministerio Público de la adscripción.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
@@ -555,11 +555,11 @@ La misma obligación tienen los jefes, directores o administradores de los estab
 
 En las actas que se levanten en los casos del Artículo anterior se expresarán con especificación todas las circunstancias que designa el Artículo 65, la edad aparente del niño, su sexo, el nombre y apellidos que se le pongan, y el nombre de la persona o institución que se encargue de él.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
 
 ###### ARTICULO 68.
 
-Si con el menor expósito o abandonado se hubieren hallado papeles, alhajas u otros objetos que puedan conducir o establecer la identificación de aquél, se depositarán en el Sistema para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de las Personas Menores de Dieciocho Años de Edad y la Familia, dando formal recibo de ellos al que recoja al menor, e informará al Ministerio Público acompañando copias de los documentos y descripción de los objetos encontrados.
+Si con la persona menor expósito o abandonada (sic) se hubieren hallado papeles, alhajas u otros objetos que puedan conducir o establecer la identificación de aquél, se depositarán en el Sistema para el Desarrollo Integral de la Familia, por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, dando formal recibo de ellos a la persona que recoja a la o el menor, e informará al Ministerio Público acompañando copias de los documentos y descripción de los objetos encontrados.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2759,7 +2759,7 @@ III.- A percibir la porción hereditaria y los alimentos que fije la Ley.
 
 ###### ARTICULO 387.
 
-(DEROGADO, P.O. 3 DE MARZO DE 2023)
+(DEROGADO, P.O. 3 DE MARZO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 21 DE ABRIL DE 2023)
 
 ###### ARTICULO 388.
 
@@ -2789,15 +2789,15 @@ III.- A percibir la porción hereditaria y los alimentos que fije la Ley.
 
 ###### ARTICULO 394.
 
-(DEROGADO, P.O. 3 DE MARZO DE 2023)
+(DEROGADO, P.O. 3 DE MARZO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 21 DE ABRIL DE 2023)
 
-ARTICULO 394 BIS.- (DEROGADO, P.O. 3 DE MARZO DE 2023)
+ARTICULO 394 BIS.- (DEROGADO, P.O. 3 DE MARZO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 21 DE ABRIL DE 2023)
 
-ARTICULO 394 TER.- (DEROGADO, P.O. 3 DE MARZO DE 2023)
+ARTICULO 394 TER.- (DEROGADO, P.O. 3 DE MARZO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 21 DE ABRIL DE 2023)
 
 ###### ARTICULO 395.
 
-(DEROGADO, P.O. 3 DE MARZO DE 2023)
+(DEROGADO, P.O. 3 DE MARZO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 21 DE ABRIL DE 2023)
 
 ###### ARTICULO 396.
 
@@ -2809,7 +2809,7 @@ ARTICULO 394 TER.- (DEROGADO, P.O. 3 DE MARZO DE 2023)
 
 ###### ARTICULO 398.
 
-(DEROGADO, P.O. 3 DE MARZO DE 2023)
+(DEROGADO, P.O. 3 DE MARZO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 21 DE ABRIL DE 2023)
 
 ###### ARTICULO 399.
 
@@ -2833,7 +2833,7 @@ ARTICULO 394 TER.- (DEROGADO, P.O. 3 DE MARZO DE 2023)
 
 ###### ARTICULO 403.
 
-(DEROGADO, P.O. 3 DE MARZO DE 2023)
+(DEROGADO, P.O. 3 DE MARZO DE 2023) (REPUBLICADA SU DEROGACIÓN, P.O. 21 DE ABRIL DE 2023)
 
 ###### ARTICULO 404.
 
@@ -2933,15 +2933,17 @@ Para los efectos del Artículo anterior, los que ejerzan la patria potestad o te
 
 Las autoridades, en caso necesario, auxiliarán a esas personas haciendo uso de amonestaciones y correctivos que les presten el apoyo suficiente.
 
-(NOTA: EL 12 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 120/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE NOVIEMBRE DE 2019, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2023)</small>
 
-(ADICIONADO, P.O. 14 DE JULIO DE 2017) (F. DE E. 24 DE NOVIEMBRE DE 2017)
+ARTICULO 420 BIS.- Quien ejerza la patria potestad o la guarda y custodia, debe de procurar el respeto y el acercamiento constante de los menores con el otro ascendiente y la familia extensa. En consecuencia, cada uno de los ascendientes debe evitar cualquier acto de manipulación o alienación parental encaminada a producir en la niña o en el niño, en su caso el adolescente, rencor o rechazo hacia el otro progenitor.
 
-ARTICULO 420 BIS.- Quien ejerza la patria potestad, debe de procurar el respeto y el acercamiento constante de los menores con el otro ascendiente. En consecuencia, cada uno de los ascendientes debe evitar cualquier acto de manipulación y alienación parental encaminada a producir en la niña o en el niño, en su caso el adolescente, rencor o rechazo hacia el otro progenitor, SOPENA DE SUSPENDÉRSELE EN SU EJERCICIO.
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 14 DE JULIO DE 2017)</small>
 
 Se entenderá por Alienación Parental, la conducta de uno de los progenitores, tendiente a sugestionar o influir negativamente a los hijos, en contra del otro, provocándole a estos, sentimientos negativos, como rechazo o distanciamiento; serán consideradas como atentados en contra del vínculo de los hijos, con el progenitor ausente, las siguientes conductas:
 
-I. Impedir que el otro progenitor ejerza el derecho de convivencia con sus hijos;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+I. Impedir que el otro progenitor ejerza el derecho de convivencia o custodia compartida con sus hijos e hijas;
 
 II. Desvalorizar e insultar al otro progenitor en presencia de los niños y en ausencia del mismo;
 
@@ -2951,11 +2953,15 @@ IV. Provocar, promover o premiar las conductas despectivas y de rechazo hacia el
 
 V. Influenciar con mentiras o calumnias respecto de la figura del progenitor ausente, insinuando o afirmando al o los menores abiertamente, que pretende dañarlos;
 
-VI. Presentar falsas alegaciones de abuso en los juzgados para separar a los niños del otro progenitor y;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+VI. Presentar falsas alegaciones de abuso en el Ministerio Publico o los juzgados, así como dilatar el juicio con recursos notoriamente frívolos o improcedentes, con la finalidad de separar a los hijos e hijas del otro progenitor lo cual deberá tomarse en cuenta de manera superveniente por la o el Juez;
 
 VII. Cambiar de domicilio, con el único fin de impedir, obstruir, e incluso destruir la relación del progenitor ausente con sus hijos.
 
-En cualquier momento en que se presentare Alienación Parental por parte de alguno de los progenitores hacia los hijos, el Juez de lo Familiar, de oficio ordenará las medidas terapéuticas necesarias para los menores hijos y sus padres, con la finalidad de restablecer la sana convivencia con ambos progenitores. Para estos efectos, ambos progenitores tendrán la obligación de colaborar en el cumplimiento de las medidas que sean determinadas, pudiendo el juez hacer uso de las medidas de apremio que establezca el presente Código para su cumplimiento.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
+
+En cualquier momento en que se plantee Manipulación o Alienación Parental por parte de alguno de los progenitores hacia los hijos e hijas, la o el Juez de lo Familiar, de oficio ordenará las medidas terapéuticas necesarias para los menores hijos, hijas y sus padres, con la finalidad de restablecer la sana convivencia con ambos progenitores. Para estos efectos, ambos progenitores tendrán la obligación de colaborar en el cumplimiento de las medidas que sean determinadas, pudiendo la o el juez hacer uso de las medidas de apremio que establezca el presente Código para su cumplimiento.
 
 ###### ARTICULO 421.
 
@@ -3081,19 +3087,17 @@ III.- Por la mayor edad del hijo.
 
 IV.- Cuando quienes ejerzan la patria potestad hayan aceptado ante la autoridad judicial la entrega del menor a las instituciones de asistencia pública, siempre y cuando no haya otra persona en quien recaiga, en términos de lo dispuesto en el artículo 411 de este código;
 
-> <small>[N. DE E. PARA LOS SUBSECUENTES PÁRRAFOS VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 23 DE SEPTIEMBRE DE 2016, PÁGINA 7.]</small>
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE ABRIL DE 2023)</small>
 
 V.- Cuando se exponga sin causa justificada por más de un día a la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, poniendo en riesgo su integridad personal.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE ABRIL DE 2023)</small>
 
 Se considera expósito a la persona cuyo origen se desconoce menor de dieciocho años de edad o persona que no tengan capacidad para comprender el significado del hecho y se coloca en situación de desamparo en un hospital, casa particular o algún paraje público o privado por quienes conforme a la Ley están obligados a protegerlos, esta causal solo procede por Resolución Judicial.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
 
-El Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, tendrá atribuciones para promover, en su carácter de tutor, la reintegración inmediata y oportuna de los menores expósitos a un ambiente familiar a través de hogares adoptivos o substitutos.
+El Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, tendrá atribuciones para promover, en su carácter de persona tutora, la reintegración inmediata y oportuna de los menores expósitos a un ambiente familiar a través de hogares adoptivos o substitutos.
 
 ###### ARTICULO 441.
 
@@ -3131,9 +3135,9 @@ Se reputa abandonada la persona menor de dieciocho años de edad cuyo origen se 
 
 El abandono no se interrumpe por el hecho de que el padre, la madre o quien ejerce la patria potestad o tutela, visitaren a las personas menores de dieciocho años de edad desamparados sin asumir de inmediato sin causa justificada, el ejercicio de los deberes que natural y legalmente se deriven de la relación paterno-filial.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
 
-El Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, podrá promover la pérdida de patria potestad de las personas menores de dieciocho años de edad abandonados y tendrá atribuciones para promover, en su carácter de tutor, la reintegración inmediata y oportuna de estos a un ambiente familiar a través de hogares adoptivos o substitutos.
+El Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, podrá promover la pérdida de patria potestad de las personas menores de dieciocho años de edad abandonados y tendrá atribuciones para promover, en su carácter de tutor o tutora, la reintegración inmediata y oportuna de estos a un ambiente familiar con integrantes de la familia extensa en primer término, y a falta de esta o de no resultar idóneos, a través de hogares adoptivos o substitutos.
 
 ###### ARTICULO 442.
 
@@ -3441,19 +3445,21 @@ I.- Personas menores de dieciocho años de edad expósitos; y
 
 II.- Personas menores de dieciocho años de edad abandonados.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
 
 ###### ARTICULO 490.
 
-La tutela pública es la ejercida temporalmente por el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa de los Menores y la Familia, sobre menores expósitos o abandonados, hasta en tanto es resuelta la situación jurídica del menor por la autoridad jurisdiccional, con las obligaciones y facultades establecidas para los demás tutores.
+La tutela pública es la ejercida temporalmente por el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, sobre menores expósitos o abandonados, hasta en tanto es resuelta la situación jurídica de la persona menor por la autoridad jurisdiccional, con las obligaciones y facultades establecidas para los demás tutores.
 
 No será necesario el discernimiento del cargo para el ejercicio de la tutela pública.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2023)</small>
 
 ###### ARTICULO 491.
 
-Los directores de las inclusas, instituciones públicas de salud, Albergues del Sistema Estatal para el Desarrollo Integral de la Familia y demás casas de asistencia social tendrán el carácter de custodios temporales de expósitos, abandonados o personas que no tengan capacidad para comprender el significado del hecho que reciben los establecimientos a su cargo; lugares en donde éstos permanecerán bajo la tutela de la Procuraduría para la Defensa de los Menores y la Familia en el Estado, hasta que esta resuelva su reincorporación al seno familiar, autorice la iniciación de trámites para la adopción, asigne hogar sustituto o con base en cualquiera otra causa legítima (sic) disponga interrumpir o poner término a la estancia de éstos en tales establecimientos.
+Las personas titulares de las direcciones de las inclusas, instituciones públicas de salud, Albergues del Sistema Estatal para el Desarrollo Integral de la Familia y demás casas de asistencia social tendrán el carácter de custodios temporales de expósitos, abandonados o personas que no tengan capacidad para comprender el significado del hecho que reciben los establecimientos a su cargo; lugares en donde éstos permanecerán bajo la tutela de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, hasta que esta resuelva su reincorporación al seno familiar, autorice la iniciación de trámites para la adopción, asigne hogar sustituto o con base en cualquiera otra causa legítima disponga interrumpir o poner término a la estancia de éstos en tales establecimientos.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 En términos del Artículo 158 BIS del Código Penal del Estado de Baja California, son los Hospitales de la Secretaría de Salud del Estado, así como los Albergues del Sistema Estatal para el Desarrollo Integral de la Familia que en tal función se harán cargo de recibir de manera segura, profesional y digna a menores expósitos de hasta seis meses de edad entregados por sus padres, a fin de brindarles la custodia, protección y cuidados correspondientes de manera temporal, en tanto son enviados a las casas de asistencia ya sean públicas o privadas, o en espera de ser adoptados.
 
@@ -16724,5 +16730,11 @@ UNICO. El presente Decreto entrará en vigor al día siguiente de su publicació
 P.O. 3 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 209 POR EL QUE SE APRUEBA LA CREACIÓN DE LA LEY DE ADOPCIONES DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 387, 388, 389, 390, 392, 393, 394, 394 BIS, 394 TER, 395, 396, 397, 398, 399, 402, 403, 404, 406 Y 407 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 223 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 55, 65, 68, 420 BIS, 440, 441 490 Y 491, SE DEROGAN LOS ARTÍCULOS 387, 394, 394 BIS, 394 TER, 395, 398 Y 403 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 237, 237 TER Y 237 QUATER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA Y SE APRUEBA LA REFORMA AL ARTÍCULO 78 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
