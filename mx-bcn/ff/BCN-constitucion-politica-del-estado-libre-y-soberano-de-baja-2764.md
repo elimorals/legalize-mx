@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2023-03-03"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -567,19 +567,23 @@ f).- Decidir sobre la donación, trasplante de sus órganos, tejidos, células c
 
 V.- En su condición de padres, deben ser asistidos en la forma que la Legislación lo disponga para la protección y cuidado de los hijos.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 21 DE ABRIL DE 2023)</small>
 
 VI.- Si son personas menores de dieciocho años de edad, tendrán los siguientes derechos:
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
 
-a) Vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, la formación integral en el amor a la nación, en la democracia como sistema de vida fundada en el respeto a la dignidad humana y en el principio de la solidaridad social, así como a ser protegidos y asistidos contra cualquier forma de sustracción del seno de la familia sin el debido proceso, maltrato, perjuicio, daño, agresión, abuso o explotación, en condiciones de libertad, integridad y dignidad. Para lo cual el Estado velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos.
+a) Vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, la formación integral en el amor a la nación, en la democracia como sistema de vida fundada en el respeto a la dignidad humana y en el principio de la solidaridad social, así como a ser protegidos y asistidos contra cualquier forma de sustracción del seno de la familia sin el debido proceso, maltrato, perjuicio, daño, agresión, abuso o explotación, en condiciones de libertad, integridad y dignidad, teniendo garantizado el derecho a convivir con sus padres y madres lo cual sólo podrá ser restringido por orden justificada de autoridad competente. El Estado velará y cumplirá con el principio de preservación del principio del interés superior de la infancia, garantizando de manera plena sus derechos.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
 
 b) Que el Estado les garantice de manera subsidiaria la protección nutricional a través de programas en los que se establezcan los apoyos y lineamientos necesarios a cargo de las instituciones públicas, en los términos que determine la ley. Las niñas y niños en Baja California tendrán acceso a una alimentación sana y de calidad mediante un desayuno caliente diario en escuelas públicas de nivel básico del Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
 c) Si son menores de doce años que hayan realizado una conducta prevista como delito en la Ley, sólo serán sujetos a rehabilitación y asistencia social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
 
 d) Si son adolescentes que se encuentran entre doce años de edad y menores (sic) dieciocho años, sujetos a un procedimiento por la comisión de conductas tipificadas como delito, se observará la garantía del debido proceso legal en instituciones, tribunales y autoridades especializadas en la procuración e impartición de justicia para ellos, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin su reintegración social y familiar, así como el pleno desarrollo de su persona y capacidades.
 
@@ -2566,8 +2570,6 @@ El Municipio es la base de la organización territorial del Estado; es la instit
 El Municipio posee personalidad jurídica y patrimonio propio y goza de plena autonomía para reglamentar directa y libremente las materias de su competencia.
 
 Cada Municipio será gobernado por un Ayuntamiento de elección popular directa que radicará en la cabecera de cada municipalidad y no habrá ninguna autoridad intermedia entre éstos y el Gobierno del Estado.
-
-> <small>(REFORMADO [CON SUS FRACCIONES], P.O. 13 DE ABRIL DE 2001)</small>
 
 Para crear o suprimir un Municipio se requiere:
 
@@ -5654,3 +5656,13 @@ Artículo Primero.- Aprobadas que sean las presentes reformas, túrnese a los Ay
 Artículo Segundo.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
 
 Artículo Tercero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 223 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 55, 65, 68, 420 BIS, 440, 441 490 Y 491, SE DEROGAN LOS ARTÍCULOS 387, 394, 394 BIS, 394 TER, 395, 398 Y 403 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 237, 237 TER Y 237 QUATER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA Y SE APRUEBA LA REFORMA AL ARTÍCULO 78 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Aprobada que sea la presente reforma, túrnese a los Ayuntamientos del Estado para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
