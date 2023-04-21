@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-verificacion-administrativa-de-la-136745"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-12"
-last_updated: "2020-03-09"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136745&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-06-11"
 
 LEY DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el miércoles 12 de junio de 2019.
 
@@ -231,6 +231,12 @@ III. Ordenar, A LAS PERSONAS VERIFICADORAS DEL INSTITUTO, la ejecución de las m
 También podrán solicitar la custodia del folio real del predio de manera fundada y motivada, al Registro Público de la Propiedad y de Comercio de la Ciudad de México, cuando se trate de un procedimiento administrativo de verificación relacionado con desarrollo urbano, construcciones, inmuebles u ordenamiento territorial, para evitar la inscripción de actos que impidan la ejecución de la resolución del fondo del asunto.
 
 La delimitación de la competencia de verificación administrativa en materia de desarrollo urbano, se realizará de conformidad con los actos administrativos que emitan las autoridades del Gobierno de la Ciudad de México, en el ejercicio de su competencia y obligatoriamente coordinada con las Alcaldías. En los demás casos, será competencia exclusiva de las Alcaldías, la realización, substanciación y calificación de dicha visita.
+
+> <small>(ADICIONADO, G.O. 21 DE ABRIL DE 2023)</small>
+
+###### Artículo 14 Bis.
+
+En materia de establecimientos mercantiles y de conformidad con lo establecido en los artículos 10, apartado A, fracción VIII bis y 66 Bis de la Ley de Establecimientos Mercantiles para la Ciudad de México, el Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México, remitirá a la Secretaría de Gobierno de la Ciudad de México; a la Alcaldía correspondiente, y al Instituto, la opinión jurídica derivada de los casos en donde se determine y confirme la existencia de hechos discriminatorios, en términos de la Ley para Prevenir y Eliminar la Discriminación de la Ciudad de México, a fin de que, con fundamento en ésta, la Alcaldía inicie el procedimiento de verificación correspondiente.
 
 ###### Artículo 15.
 
@@ -633,3 +639,11 @@ CUARTO.- Las visitas de verificación aleatoria se comenzarán a realizar a part
 QUINTO.- Se instruye al Gobierno de la Ciudad de México a llevar a cabo la actualización de normas regulatorias y vinculantes al presente decreto en un término no mayor a noventa días, los cuales comenzarán a contarse a partir de la publicación del mismo.
 
 SEXTO.- La persona titular de la Jefatura de Gobierno de la Ciudad de México, en un plazo máximo de 120 días contados a partir de la entrada de vigor de esta ley, deberá expedir su reglamento, y especificar en el mismo el proceso de elección para llevar a cabo la visita de verificación a que hace referencia el artículo 25, fracción I, de la presente ley.
+
+G.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 14 BIS A LA LEY DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DE LA CIUDAD DE MÉXICO. SE REFORMA EL APARTADO A, FRACCIÓN VIII BIS, APARTADO B, FRACCIÓN II, INCISO C DEL ARTÍCULO 10, LA FRACCIÓN IV DEL ARTÍCULO 60, EL ARTÍCULO 65 Y EL ARTÍCULO 66 Y SE ADICIONAN LA FRACCIÓN X BIS AL ARTÍCULO 10, APARTADO A, V DEL ARTÍCULO 60, EL SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 62, EL ARTÍCULO 66 BIS DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
