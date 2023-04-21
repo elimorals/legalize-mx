@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-organico-de-la-universidad-tecnologica-del-norte-11384
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-03-15"
-last_updated: "2018-07-02"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
 
 Estatuto publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 15 de marzo de 2016.
 
@@ -129,9 +129,15 @@ IX. Aprobar el calendario escolar anual, a propuesta de la Rectoría;
 
 X. Aprobar el Programa Anual de Adquisiciones y Servicios, a propuesta de la Rectoría;
 
-XI. Autorizar la baja de bienes que por su grado de obsolescencia no puedan seguir utilizándose, de conformidad con las disposiciones normativas; y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2023)</small>
 
-XII. Las demás que sean necesarias para el cumplimiento del objeto y fines de la Universidad.
+XI. Autorizar la baja de bienes que por su grado de obsolescencia no puedan seguir utilizándose, de conformidad con las disposiciones normativas aplicables;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+XII. Autorizar a la Presidencia del Consejo, en caso de ausencias temporales o definitivas del quien se (sic) titular de la Rectoría, la suscripción de los títulos, certificados, diplomas, reconocimientos, constancias, distinciones especiales y demás documentos inherentes a las funciones de la Universidad, en términos de la normatividad aplicable; y
+
+XIII. Las demás que sean necesarias para el cumplimiento del objeto y fines de la Universidad.
 
 Duración en el cargo de las personas que integran el Consejo
 
@@ -239,11 +245,17 @@ Resolución de asuntos urgentes
 
 Quien sea titular de la Rectoría podrá resolver provisionalmente asuntos urgentes de la Universidad, previa consulta con la presidencia del Consejo. En este supuesto, informará al Consejo en su sesión inmediata siguiente para efectos de ratificar o rectificar lo actuado.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
+
 Suplencias de la Rectoría
 
 ###### Artículo 14.
 
-En sus ausencias temporales menores a un mes, quien sea titular de la Rectoría será sustituido por quien sea titular de la Secretaría Académica o podrá encargar el despacho de asuntos y representaciones a quienes sean titulares de cualquiera de las Secretarías. Cuando las ausencias sean mayores a 30 días naturales será sustituido temporalmente como lo acuerde la autoridad estatal educativa, o de forma definitiva en los términos legales aplicables.
+En sus ausencias temporales menores a 30 días, quien sea titular de la Rectoría será sustituido de conformidad con lo establecido en el artículo 19 del Decreto 241.
+
+Las ausencias mayores a 30 días se cubrirán por quien designe el Gobernador del Estado como nuevo titular o como encargado del despacho, en este último supuesto, la persona designada ejercerá todas las atribuciones y funciones correspondientes a la persona titular de la :Rectoría, ante cualquier autoridad, organismo o ciudadano.
+
+En casos de ausencias temporales o definitivas del Rector, previa autorización del Consejo, la Presidencia podrá suscribir de los títulos, certificados, diplomas, reconocimientos, constancias, distinciones especiales y demás documentos inherentes a las funciones de la Universidad, en términos de la normatividad aplicable.
 
 ### Capítulo V. Secretarías
 
@@ -1570,3 +1582,11 @@ Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretar�
 Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
 
 Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO 141, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LOS DECRETOS DE CREACIÓN, REESTRUCTURA, REGLAMENTOS INTERIORES O ESTATUTOS ORGÁNICOS DE VEINTIÚN ORGANISMOS PÚBLICOS DESCENTRALIZADOS EN MATERIA O COMPETENCIA EDUCATIVA Y UNO QUE OFERTA SERVICIOS EDUCATIVOS DE ALFABETIZACIÓN, EDUCACIÓN PRIMARIA, SECUNDARIA Y FORMACIÓN PARA EL TRABAJO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto Gubernativo iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
