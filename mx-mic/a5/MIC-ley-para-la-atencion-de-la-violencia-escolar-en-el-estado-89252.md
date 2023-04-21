@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-de-la-violencia-escolar-en-el-estado-89252
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2012-08-17"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA ATENCIÓN DE LA VIOLENCIA ESCOLAR EN EL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en la Novena Sección del Periódico Oficial del Estado de Michoacán, el viernes 17 de agosto del 2012.
 
@@ -153,9 +153,33 @@ IV. La Secretaría de Pueblos Indígenas;
 
 V. Los gobiernos municipales;
 
-VI. Los Consejos de Participación Social; y,
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2023)</small>
 
-VII. El Consejo Preventivo de la Violencia Escolar en el Estado de Michoacán.
+VI. Los Consejos de Participación Social;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+VII. El Consejo Preventivo de la Violencia Escolar en el Estado de Michoacán;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+VIII. El Consejo Estatal para Prevenir y Eliminar la Discriminación y la Violencia;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+IX. La Comisión Estatal de los Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+X. La Fiscalía General del Estado;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+XI. La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Michoacán; y,
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+XII. La Secretaría Ejecutiva del Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes.
 
 ###### ARTÍCULO 8.
 
@@ -243,9 +267,29 @@ X. Dos maestros de educación media superior;
 
 XI. Dos maestros de educación superior;
 
-XII. Dos maestros de educación especial; y,
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2023)</small>
 
-XIII. Dos maestros de educación indígena.
+XII. Dos maestros de educación especial;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+XIII. Dos maestros de educación indígena;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+XIV. Un representante de la Comisión Estatal de los Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+XV. Un Representante de la Secretaría de Seguridad Pública del Estado;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+XVI. Un representante de la Secretaría Ejecutiva del Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes; y,
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+XVII. Un Representante de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Michoacán.
 
 El Gobernador del Estado y el Secretario de Educación podrán nombrar suplentes. Los cargos y nombramientos del Consejo serán honoríficos.
 
@@ -550,3 +594,11 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 15 quince días del mes de Agosto del año 2011 dos mil once.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.- EL SECRETARIO DE GOBIERNO.- LIC. J. JESÚS REYNA GARCÍA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 356 POR EL QUE “SE REFORMAN LAS FRACCIONES VI Y VII Y SE ADICIONAN LAS FRACCIONES VIII, IX, X, XI Y XII AL ARTÍCULO 7; SE REFORMAN LAS FRACCIONES XII Y XIII Y SE ADICIONAN LAS FRACCIONES XIV, XV, XVI Y XVII AL ARTÍCULO 15; TODOS DE LA LEY PARA LA ATENCIÓN DE LA VIOLENCIA ESCOLAR EN EL ESTADO DE MICHOACÁN.”]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
