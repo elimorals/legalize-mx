@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-del-poder-legislativo-del-estado-de-yucatan-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2022-04-22"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 4 de octubre de 2010.
 
@@ -509,9 +509,11 @@ Para la conducción y desarrollo de las sesiones fuera del recinto legislativo s
 
 El derecho de iniciar leyes y decretos, corresponde a los sujetos relacionados en el artículo 35 de la Constitución Política del Estado de Yucatán. De igual forma, tendrán derecho de retirar su iniciativa, el o los autores de la misma mediante escrito signado, siempre que no hubiere sido dictaminado.
 
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
 ###### Artículo 17.
 
-Las iniciativas provenientes de los diputados, del Gobernador, del Tribunal Superior de Justicia y de los ayuntamientos o de los concejos municipales del Estado, se tramitarán conforme al artículo 36 de la Constitución Política del Estado de Yucatán. Las iniciativas derivadas mediante acción popular, deberán cumplir con los términos y condiciones previstos en la Ley de Participación Ciudadana que regula el Plebiscito, Referéndum y la Iniciativa Popular del Estado.
+Las iniciativas provenientes de los diputados, del Gobernador, del Tribunal Superior de Justicia; de los ayuntamientos o de los concejos municipales del Estado o de los organismos constitucionales autónomos, se tramitarán conforme al artículo 36 de la Constitución Política del Estado de Yucatán. Las iniciativas derivadas mediante acción popular, deberán cumplir con los términos y condiciones previstos en la Ley de Participación Ciudadana que regula el Plebiscito, Referéndum y la Iniciativa Popular del Estado.
 
 > <small>(ADICIONADO, D.O. 11 DE SEPTIEMBRE DE 2017)</small>
 
@@ -2102,3 +2104,15 @@ Artículo cuarto. Los asuntos pendientes de resolución que les fueron turnadas 
 Cláusula derogatoria.
 
 Artículo quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 621/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Armonización legislativa
+
+Artículo segundo. El Congreso del estado realizará las reformas necesarias para armonizar la legislación del estado a lo previsto en este decreto en un plazo de ciento ochenta días naturales, contados a partir de su entrada en vigor.
