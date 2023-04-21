@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2023-03-30"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -399,9 +399,11 @@ El Sistema está constituido por las dependencias y entidades de la Administraci
 
 El Sistema, con la intervención que corresponda a la Secretaría de Planeación y Desarrollo Estatal, definirá los mecanismos de coordinación y colaboración en materia de planeación de la Secretaría, de conformidad con las disposiciones de esta Ley y las que al efecto sean aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 13.
 
-El Sistema tiene los siguientes objetivos:
+El sistema tiene los siguientes objetivos:
 
 I. Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
 
@@ -413,9 +415,17 @@ IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la in
 
 V. Apoyar al mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propicien el desarrollo satisfactorio de la vida;
 
-VI. Impulsar en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para la protección de la salud pública; y,
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2023)</small>
 
-VII. Coadyuvar a una nueva cultura sanitaria con hábitos, costumbres y actitudes favorables a la salud y al uso de los servicios que se ofrecen para su protección.
+VI. Promover la creación de programas de atención integral para la atención de las víctimas y victimarios de acoso o violencia escolar física y psicológica, incluida la que se ejerce a través de cualquier plataforma tecnológica o red social, en coordinación con las autoridades educativas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2023)</small>
+
+VII. Impulsar en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para la protección de la salud pública; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2023)</small>
+
+VIII. Coadyuvar a una nueva cultura sanitaria con hábitos, costumbres y actitudes favorables a la salud y al uso de los servicios que se ofrecen para su protección.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2021)</small>
 
@@ -2778,3 +2788,9 @@ P.O. 30 DE MARZO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Poder Ejecutivo Estatal dispondrá los recursos presupuestarios, humanos y materiales suficientes para el cumplimiento de lo mandatado en el presente Decreto.
+
+P.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 356 POR EL QUE "SE REFORMAN LAS FRACCIONES VI Y VII, Y SE ADICIONA UNA FRACCIÓN VIII, AL ARTÍCULO 13 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
