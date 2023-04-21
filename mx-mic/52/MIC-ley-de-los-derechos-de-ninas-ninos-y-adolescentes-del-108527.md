@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2023-03-30"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -849,9 +849,23 @@ XVIII. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente;
 
 XVIII Bis. Establecer mecanismos para garantizar el derecho de la primera infancia y la estimulación temprana;
 
-XIX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación; y,
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2023)</small>
 
-XX. Establecer medidas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal.
+XIX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+XX. Establecer medidas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal, dando prioridad a su salud y atención médica respecto a los requisitos de asistencia a clase;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+XXI. En las escuelas o instituciones similares, los dueños, directivos, educadores, maestros o personal administrativo serán responsables de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en contra de niñas, niños o adolescentes.
+
+Para el cumplimiento de esta obligación se deberá contar en cada escuela o institución similar con planes y programas para la atención de víctimas y victimarios de acoso o violencia escolar; y,
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
+
+XXII. Diseñar programas integrales para la prevención, atención, contención y erradicación del acoso o violencia escolar física y psicológica, incluida la que se ejerce a través de cualquier plataforma digital o red social.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -2258,3 +2272,9 @@ PRIMERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SEGUNDO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
 
 TERCERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 356 POR EL QUE “SE REFORMAN LAS FRACCIONES XIX Y XX, Y SE ADICIONAN LAS FRACCIONES XXI Y XXII AL ARTÍCULO 38 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
