@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-planeacion-para-el-desarrollo-del-estado-de-yucatan-9216
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-05"
-last_updated: "2020-12-09"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 5 de febrero de 2013.
 
@@ -155,9 +155,11 @@ Los ayuntamientos conducirán la planeación del desarrollo de los municipios co
 
 El Gobernador del estado, en el ejercicio de sus facultades constitucionales, remitirá al Congreso del estado, para su conocimiento y consideración, los instrumentos de planeación, así como los criterios que le sirvan de base para su formulación.
 
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
 ###### Artículo 8.
 
-Los presidentes municipales remitirán al Congreso del Estado su Plan Municipal de Desarrollo y el informe anual sobre el avance y los resultados del mismo para los efectos de los mecanismos de evaluación, de conformidad con las disposiciones establecidas en la Ley de Gobierno de los Municipios del Estado de Yucatán.
+Los presidentes municipales remitirán por medio electrónico, al Congreso del Estado su Plan Municipal de Desarrollo y el informe anual sobre el avance y los resultados del mismo para los efectos de los mecanismos de evaluación, de conformidad con las disposiciones establecidas en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 ###### Artículo 9.
 
@@ -1256,3 +1258,15 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 Artículo Segundo.- Derogación tácita.
 
 Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 623/2023 POR EL QUE SE MODIFICA LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE REDUCCIÓN DE PAPEL”.]
+
+Artículo Primero. Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Cláusula derogatoria
+
+Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan al presente Decreto.
