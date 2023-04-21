@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2023-01-19"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE ABRIL DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -468,9 +468,9 @@ Las salidas de emergencia deberán estar debidamente señaladas al interior de l
 
 VIII. Permitir el libre acceso al establecimiento mercantil a los perros de asistencia. El establecimiento mercantil no podrá establecer condición alguna o costos por la entrada o estancia de dicho animal;
 
-> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, G.O. 21 DE ABRIL DE 2023)</small>
 
-VIII bis. Realizar todas las acciones pertinentes para evitar cualquier forma de discriminación establecidas en los artículos 5 y 6 de la Ley para Prevenir y Eliminar la Discriminación de la Ciudad de México, en perjuicio de alguna persona o comunidad.
+VIII bis. Realizar todas las acciones pertinentes para evitar cualquier forma de discriminación establecidas en los artículos 5 y 6 de la Ley para Prevenir y Eliminar la Discriminación de la Ciudad de México, en perjuicio de alguna persona o grupo de atención prioritaria.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE FEBRERO DE 2012)</small>
 
@@ -493,6 +493,10 @@ d) La capacidad de aforo manifestada en el Aviso o Solicitud de Permiso.
 > <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
 X. En caso de reunir a más de 100 personas entre clientes y empleados y contar con una superficie mayor a 250 metros cuadrados, o en los demás casos que establezca la normatividad de la materia, deberá contar con Programa Interno de Protección Civil, de conformidad con lo dispuesto en la Ley de Gestión Integral de Riesgos y Protección Civil y su Reglamento;
+
+> <small>(ADICIONADA, G.O. 21 DE ABRIL DE 2023)</small>
+
+X bis. Contar con personal capacitado para la atención de hechos relacionados con actos de discriminación;
 
 > <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
 
@@ -546,9 +550,9 @@ Además de lo señalado en el Apartado A, los titulares de los establecimientos 
 
 I. Exhibir en lugar visible los números de sitios de taxis debidamente autorizados por la Secretaría de Movilidad de la Ciudad de México y prestar apoyo a quienes requieran la información o no se encuentren en condiciones de solicitar dichos servicios;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE MARZO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE ABRIL DE 2023)</small>
 
-II. Colocar en el exterior del establecimiento mercantil una placa con dimensiones mínimas de 60 x 40 centímetros con caracteres legibles que contenga:
+II. Colocar en el exterior y en un lugar visible del establecimiento mercantil una placa con dimensiones mínimas de 60 por 40 centímetros con caracteres legibles que contenga:
 
 a) En su caso, la especificación de que se trata de un Club Privado;
 
@@ -560,15 +564,21 @@ b) El número telefónico y la página electrónica que establezcan las Alcaldí
 
 c) La leyenda que establezca lo siguiente:
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 19 DE ENERO DE 2023, PÁGINA 5. SE ADVIERTE QUE LOS ANTERIORES PÁRRAFOS SEGUNDO Y TERCERO DEL INCISO C) QUEDARON INMERSOS EN UN SOLO PÁRRAFO.]</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 21 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
+“ESTÁ PROHIBIDO DISCRIMINAR EN ESTE ESTABLECIMIENTO.
 
-“En este establecimiento NO DISCRIMINAMOS. En la CDMX se prohíbe negar, excluir o distinguir el acceso o prestación del servicio a cualquier persona o colectivo social por su origen étnico, nacional, raza, lengua, sexo, género, edad, discapacidad, condición jurídica, social o económica, identidad indígena, identidad de género, apariencia física, condiciones de salud, religión, formas de pensar, orientación o preferencia sexual, por tener tatuajes o cualquier otra razón que tenga como propósito impedir el goce y ejercicio de los derechos humanos.”
+> <small>(REFORMADO, G.O. 21 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
+En la CDMX se prohíbe negar, excluir o distinguir el acceso o prestación del servicio a cualquier persona o colectivo social por el tono de su piel, origen étnico, nacional, raza, lengua, sexo, género, edad, discapacidad, condición jurídica, social o económica, identidad indígena, identidad de género, apariencia física, condiciones de salud, religión, formas de pensar, orientación o preferencia sexual, por tener tatuajes, perforaciones o cualquier otra razón que tenga como propósito impedir el goce y ejercicio de los derechos humanos.
 
-Acompañará a la leyenda de la que se hace mención en el párrafo inmediato anterior el número telefónico de LOCATEL y los logotipos del Gobierno de la Ciudad de México y del Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México, y
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 21 DE ABRIL DE 2023)</small>
+
+CUALQUIER ACTO DE DISCRIMINACIÓN PODRÁ SER DENUNCIADO.”
+
+> <small>(REFORMADO, G.O. 21 DE ABRIL DE 2023)</small>
+
+Acompañará a la leyenda a que se hace referencia el párrafo anterior el número telefónico de LOCATEL; del Consejo Ciudadano para la Seguridad y la Justicia de la Ciudad de México y los logotipos del Gobierno de la Ciudad de México y del Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México;
 
 d) Que no existe consumo mínimo ni la modalidad de barra libre;
 
@@ -1740,9 +1750,13 @@ II. Deberán practicarse visitas de verificación extraordinarias, sólo cuando 
 
 III. La Alcaldía podrá ordenar al Instituto, visitas de verificación extraordinaria sin que medie queja, sólo en los casos de que existan causas vinculadas con protección civil, desarrollo urbano y seguridad pública, debidamente motivadas en la orden de visita respectiva; y
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 21 DE ABRIL DE 2023)</small>
 
-IV. Las resoluciones que se dicten en los procedimientos de verificación, se publicarán en la página de Internet de la Alcaldía e Instituto.
+IV. El Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México podrá, previo a la emisión de una opinión jurídica, solicitar a la Alcaldía que ordene visita de verificación extraordinaria cuando tenga conocimiento de casos por incumplimiento de la obligación derivada del artículo 10, apartado A fracción VIII bis de la presente Ley; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 21 DE ABRIL DE 2023)</small>
+
+V. Las resoluciones que se emitan en los procedimientos de verificación, se publicarán en la página de Internet de la Alcaldía y del Instituto.
 
 ## TITULO IX
 
@@ -1760,6 +1774,10 @@ En caso de la imposición de sanciones económicas a que se refieren los artícu
 
 Para establecer las sanciones, de conformidad con la Ley del Instituto, las Alcaldías fundamentarán y motivarán sus resoluciones considerando, para su individualización, los elementos señalados en la Ley de Procedimiento Administrativo de la Ciudad de México y demás disposiciones legales aplicables.
 
+> <small>(ADICIONADO, G.O. 21 DE ABRIL DE 2023)</small>
+
+De conformidad con lo establecido en el presente título y, en caso de incumplimiento de la obligación derivada del artículo 10, apartado A fracción VIII bis de la presente Ley, el Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México, remitirá a la Secretaría de Gobierno de la Ciudad de México, a la Alcaldía correspondiente y al Instituto, la opinión jurídica derivada de los casos de discriminación que hayan ocurrido en algún establecimiento mercantil en donde determine y confirme la existencia de hechos discriminatorios en términos de la Ley para Prevenir y Eliminar la Discriminación de la Ciudad de México, a fin de que, con fundamento en ésta, la Alcaldía inicie el procedimiento de verificación correspondiente.
+
 ###### Artículo 63.
 
 Cuando se detecte la expedición o venta de bebidas alcohólicas en contravención de lo dispuesto por esta ley, la Autoridad procederá a levantar un inventario y asegurar de manera inmediata las bebidas de que se trate.
@@ -1772,11 +1790,11 @@ El aseguramiento de bebidas se llevará a cabo con el traslado de las mismas al 
 
 Se sancionará con el equivalente de 25 a 125 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones VIII, IX inciso a) y XV, y; 10 apartado B fracción I; 11 fracción VIII; 15 fracciones I, II y IV; 23 fracciones I, II, III, IV, VI y VII; 28 párrafo primero, segundo, cuarto y quinto; 40 fracciones II y III; 42 fracciones I y II; 43 fracciones II, IV, V, VI, VII y VIII; 45; 56 fracciones IV, V, VI y VIII, y 57 de la presente Ley.
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, G.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 65.
 
-Se sancionará con el equivalente de 126 a 350 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones III, VII párrafo primero, fracción VIII bis, IX incisos b) y c), X, y; 10 apartado B fracciones II, III y VII; 11 fracciones III, IV, y VII, 12; 15 fracciones III y VI; 21; 22; fracción II; 23 fracción V; 33; 34; 37; 39; 40, fracciones I, IV, V, VI; 42 fracciones III, IV, V, 43 fracciones I y III; 46; 47 fracciones I, II, III, 48 fracciones III, VI, VII, X, 50; 53; 54; 56 fracciones II, III y VII.
+Se sancionará con el equivalente de 126 a 350 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones III, VII párrafo primero, IX incisos b) y c), X, y; 10 apartado B fracciones II, III y VII; 11 fracciones III, IV, y VII, 12; 15 fracciones III y VI; 21; 22; fracción II; 23 fracción V; 33; 34; 37; 39; 40, fracciones I, IV, V, VI; 42 fracciones III, IV, V, 43 fracciones I y III; 46; 47 fracciones I, II, III, 48 fracciones III, VI, VII, X, 50; 53; 54; 56 fracciones II, III y VII.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2023)</small>
 
@@ -1784,9 +1802,23 @@ Se sancionará con el equivalente de 126 a 350 veces la Unidad de Cuenta de la C
 
 Se sancionará con el equivalente de 351 a 2500 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones I, II, IV, V, VI, VII párrafo segundo, XI, XII, XIII y XIV; 10 apartado B fracciones V, VI y VIII; 11 fracciones I, II, V, VI, IX, X; 13; 18; 20; 22 fracción XI segundo y tercer párrafo; 24; 25 párrafo tercero; 26 párrafo cuarto; 27; 28 párrafo tercero; 29; 30; 32; 35; 36; 41; 45; 47 fracción IV y V; 48 fracciones I, II, V, VIII y IX; 49 párrafo segundo; 52; 55; 56 fracción I y 58 de esta Ley.
 
-> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.O. 21 DE ABRIL DE 2023)</small>
 
-Las sanciones económicas señaladas en los artículos 64, 65 y 66 de la presente Ley, tendrán una reducción del 50% en sus montos mínimos y máximos cuando se trate de giros de bajo impacto que no vendan bebidas alcohólicas.
+Las sanciones económicas señaladas en los artículos 64, 65, 66 y 66 bis de la presente Ley, tendrán una reducción del 50% en sus montos mínimos y máximos cuando se trate de giros de bajo impacto que no vendan bebidas alcohólicas.
+
+> <small>(ADICIONADO, G.O. 21 DE ABRIL DE 2023)</small>
+
+###### Artículo 66 Bis.
+
+El incumplimiento de la obligación establecida en el artículo 10, Apartado A, fracción VIII bis de la presente Ley, se sancionará de la siguiente manera:
+
+a) Para los establecimientos de bajo impacto se impondrá una multa por el equivalente de 126 a 500 veces la Unidad de Medida y Actualización diaria vigente.
+
+b) Para los establecimientos de impacto vecinal se sancionará con una multa de 150 a 15,000 veces la Unidad de Medida y Actualización de la Ciudad de México vigente.
+
+c) Para los establecimientos de impacto zonal se impondrá una multa de 250 a 25,000 veces la Unidad de Medida y Actualización de la Ciudad de México vigente.
+
+Además de dichas sanciones, la autoridad competente deberá dar vista y remitirá al titular del establecimiento mercantil sancionado, con el Consejo para Prevenir y Eliminar la Discriminación, a fin de que, de conformidad con la normativa aplicable, se emitan las medidas de no repetición que se estimen conducentes, y dará seguimiento conjuntamente con el Consejo del cumplimiento de las mismas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -2229,3 +2261,11 @@ CUARTO. La Secretaría de Desarrollo Económico deberá emprender un Programa de
 QUINTO. En tanto se implementan los cambios en el Sistema, los Titulares de los Establecimientos Mercantiles de Impacto Vecinal ingresarán en la misma plataforma, en el entendido que el Permiso se entenderá como Aviso por las Alcaldías.
 
 SEXTO. Los establecimientos mercantiles que a la entrada en vigor del presente Decreto cuenten con Permiso de Funcionamiento para giro de impacto vecinal vigente, seguirán funcionando conforme al mismo hasta la revalidación correspondiente en términos del presente Decreto.
+
+G.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 14 BIS A LA LEY DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DE LA CIUDAD DE MÉXICO. SE REFORMA EL APARTADO A, FRACCIÓN VIII BIS, APARTADO B, FRACCIÓN II, INCISO C DEL ARTÍCULO 10, LA FRACCIÓN IV DEL ARTÍCULO 60, EL ARTÍCULO 65 Y EL ARTÍCULO 66 Y SE ADICIONAN LA FRACCIÓN X BIS AL ARTÍCULO 10, APARTADO A, V DEL ARTÍCULO 60, EL SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 62, EL ARTÍCULO 66 BIS DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
