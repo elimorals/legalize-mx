@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-02"
-last_updated: "2022-04-21"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 2 de mayo de 2016.
 
@@ -423,27 +423,45 @@ Atribuciones
 
 El Centro Estatal de Evaluación y Control de Confianza es un órgano desconcentrado de la Secretaría de Seguridad Pública, con autonomía técnica y de gestión, y tiene las siguientes atribuciones:
 
-I. Aplicar las evaluaciones necesarias para el ingreso o la permanencia en las instituciones de seguridad pública, de conformidad con las disposiciones emitidas por el Centro Nacional de Certificación y Acreditación, e informarles sobre los resultados obtenidos.
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+I. Aplicar las evaluaciones necesarias para el ingreso o la permanencia en las instituciones policiales y en la autoridad estatal encargada de la supervisión de las medidas cautelares y de la suspensión condicional del proceso, de conformidad con las disposiciones emitidas por el Centro Nacional de Certificación y Acreditación, e informarles sobre los resultados obtenidos.
 
 II. Gestionar y mantener la vigencia de la acreditación de su personal y sus procedimientos emitida por el Centro Nacional de Certificación y Acreditación.
 
-III. Efectuar propuestas sobre los requisitos y procedimientos para la evaluación y certificación de los integrantes de las instituciones de seguridad pública.
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
 
-IV. Verificar el cumplimiento del perfil establecido para el ingreso y la permanencia en el servicio profesional de carrera de las instituciones de seguridad pública.
+III. Efectuar propuestas sobre los requisitos y procedimientos para la evaluación y certificación de los integrantes de las instituciones policiales y de la autoridad estatal encargada de la supervisión de las medidas cautelares y de la suspensión condicional del proceso.
 
-V. Proponer, con base en los resultados de las evaluaciones aplicadas a los integrantes de las instituciones de seguridad pública, la impartición de cursos de capacitación, la adquisición de equipo o la instalación de infraestructura que permita mejorar su desempeño.
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
 
-VI. Requerir a las instituciones de seguridad pública que se efectúe el seguimiento individual de los integrantes evaluados en los que se hayan detectado factores que puedan interferir o poner en riesgo el adecuado desempeño de sus funciones.
+IV. Verificar el cumplimiento del perfil establecido para el ingreso y la permanencia en el servicio profesional de carrera de las instituciones policiales y de la autoridad estatal encargada de la supervisión de las medidas cautelares y de la suspensión condicional del proceso.
 
-VII. Sugerir a las instituciones de seguridad pública, con base en los resultados de las evaluaciones aplicadas, la implementación de acciones para prevenir y atender los factores que puedan interferir o poner en riesgo el adecuado desempeño de sus integrantes.
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
 
-VIII. Expedir y actualizar los certificados de los integrantes de las instituciones de seguridad pública, de conformidad con los formatos, las medidas de seguridad y las disposiciones que emita el Centro Nacional de Certificación y Acreditación.
+V. Proponer, con base en los resultados de las evaluaciones aplicadas a los integrantes de las instituciones policiales y de la autoridad estatal encargada de la supervisión de las medidas cautelares y de la suspensión condicional del proceso, la impartición de cursos de capacitación, la adquisición de equipo o la instalación de infraestructura que permita mejorar su desempeño.
+
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+VI. Requerir a las instituciones policiales y a la autoridad estatal encargada de la supervisión de las medidas cautelares y de la suspensión condicional del proceso que se efectúe el seguimiento individual de los integrantes evaluados en los que se hayan detectado factores que puedan interferir o poner en riesgo el adecuado desempeño de sus funciones.
+
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+VII. Sugerir a las instituciones policiales y a la autoridad estatal encargada de la supervisión de las medidas cautelares y de la suspensión condicional del proceso, con base en los resultados de las evaluaciones aplicadas, la implementación de acciones para prevenir y atender los factores que puedan interferir o poner en riesgo el adecuado desempeño de sus integrantes.
+
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+VIII. Expedir y actualizar los certificados de los integrantes de las instituciones policiales y de la autoridad estatal encargada de la supervisión de las medidas cautelares y de la suspensión condicional del proceso, de conformidad con los formatos, las medidas de seguridad y las disposiciones que emita el Centro Nacional de Certificación y Acreditación.
 
 IX. Integrar y mantener actualizada la información a su cargo, especialmente, la relacionada con los expedientes, las evaluaciones aplicadas y la expedición o actualización de certificados.
 
-X. Elaborar informes sobre los resultados de las evaluaciones aplicadas para el ingreso de los aspirantes a las instituciones de seguridad pública o la permanencia de sus integrantes.
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
 
-XI. Brindar a las instituciones de seguridad pública el apoyo y la asesoría técnica que requieran en la materia de su competencia.
+X. Elaborar informes sobre los resultados de las evaluaciones aplicadas para el ingreso de los aspirantes a las instituciones policiales y a la autoridad estatal encargada de la supervisión de las medidas cautelares y de la suspensión condicional del proceso o la permanencia de sus integrantes.
+
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+XI. Brindar a las instituciones policiales y a la autoridad estatal encargada de la supervisión de las medidas cautelares y de la suspensión condicional del proceso, el apoyo y la asesoría técnica que requieran en la materia de su competencia.
 
 XII. Desarrollar un sistema que permita el registro, el control, la conservación y la confidencialidad de la información a su cargo.
 
@@ -533,11 +551,21 @@ II. Reacción, que consiste en mantener y restablecer, en su caso, la paz y el o
 
 III. Investigación, que será aplicable ante la preservación de la escena de un hecho probablemente delictivo; la petición al Ministerio Público para la realización de actos de investigación de los delitos, debiendo actuar bajo mando y conducción de este; los actos que se deban efectuar de forma inmediata; o la comisión de un delito en flagrancia.
 
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
 ###### Artículo 36.
 
-Concentración de las funciones policiales
+Concentración de las funciones policiales del Poder Ejecutivo
 
-Los cuerpos policiales del Gobierno del estado, independientemente de sus funciones de prevención, reacción e investigación, se concentrarán administrativamente en la Secretaría de Seguridad Pública.
+Los cuerpos policiales del Poder Ejecutivo estatal, independientemente de sus funciones de prevención, reacción e investigación, se concentrarán administrativamente en la Secretaría de Seguridad Pública.
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+###### Artículo 36 Bis.
+
+Policía investigadora
+
+La Fiscalía General del Estado contará con cuerpos policiales con funciones de reacción e investigación, que dependerán administrativamente de ella y su organización jerárquica estará conformada por todas las categorías establecidas en el artículo 40 de esta ley.
 
 ###### Artículo 37.
 
@@ -685,9 +713,13 @@ I. La Secretaría de Seguridad Pública, para sus integrantes y los de los cuerp
 
 II. Las direcciones de seguridad pública o sus equivalentes, para los integrantes de las policías municipales.
 
-III. La Fiscalía General del Estado, para los fiscales y peritos.
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
 
-El reglamento de esta ley en materia de servicio profesional de carrera establecerá las disposiciones específicas que regulen su organización y funcionamiento para las instituciones de seguridad pública mencionadas en las fracciones I y III de este artículo. Con respecto a las policías municipales, los ayuntamientos emitirán la regulación respectiva.
+III. La Fiscalía General del Estado, para los fiscales, peritos y policías investigadoras.
+
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+El reglamento de esta ley en materia de servicio profesional de carrera establecerá las disposiciones específicas que regulen su organización y funcionamiento para las instituciones de seguridad pública mencionadas en la fracción I de este artículo. Con respecto a las policías municipales, los ayuntamientos emitirán la regulación respectiva y respecto al personal a que se refiere la fracción III de este artículo, la Fiscalía General del Estado regulará mediante acuerdos la organización y funcionamiento de su servicio profesional de carrera.
 
 ###### Artículo 51.
 
@@ -811,9 +843,13 @@ Los resultados que deriven de la certificación y la formación iniciales, y los
 
 Certificación inicial
 
-La certificación inicial comprende la aplicación de los estudios y exámenes físicos, médicos, psicológicos, de control de confianza y de cualquier otra índole que determine el reglamento del servicio profesional de carrera correspondiente para el ingreso a la institución de seguridad pública en cuestión, y concluye con la resolución del Centro Estatal de Evaluación y Control de Confianza sobre la aprobación o no de este procedimiento, y, en su caso, el otorgamiento del certificado correspondiente al aspirante seleccionado y su inscripción en el registro nacional.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE ABRIL DE 2023)</small>
 
-El Centro Estatal de Evaluación y Control de Confianza gestionará la aplicación de la certificación inicial a los aspirantes que hayan cumplido con los requisitos de la convocatoria correspondiente y no hayan presentado antecedentes negativos en el registro nacional ni inconsistencias en la documentación presentada.
+La certificación inicial comprende la aplicación de los estudios y exámenes físicos, médicos, psicológicos, de control de confianza y de cualquier otra índole que determine el reglamento o el acuerdo del servicio profesional de carrera correspondiente para el ingreso a la institución de seguridad pública en cuestión, y concluye con la resolución del Centro Estatal de Evaluación y Control de Confianza, en el caso de las instituciones policiales y la autoridad estatal encargada de la supervisión de las medidas cautelares y de la suspensión condicional del proceso; o del instituto o academia que corresponda, en el caso de la Fiscalía General del Estado sobre la aprobación o no de este procedimiento, y, en su caso, el otorgamiento del certificado correspondiente al aspirante seleccionado y su inscripción en el registro nacional.
+
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+El Centro Estatal de Evaluación y Control de Confianza, en el caso de las instituciones policiales y la autoridad estatal encargada de la supervisión de las medidas cautelares y de la suspensión condicional del proceso, o el instituto o academia que corresponda, en el caso de la Fiscalía General del Estado gestionará la aplicación de la certificación inicial a los aspirantes que hayan cumplido con los requisitos de la convocatoria correspondiente y no hayan presentado antecedentes negativos en el registro nacional ni inconsistencias en la documentación presentada.
 
 La certificación inicial se considerará aprobada cuando el aspirante haya concluido satisfactoriamente todos los estudios y exámenes que la conformen.
 
@@ -847,7 +883,9 @@ Para permanecer en las instituciones de seguridad pública, los integrantes debe
 
 I. Los establecidos en las fracciones IV, VI y VIII del artículo 57 de esta ley.
 
-II. No superar la edad máxima de retiro que establezca el reglamento del servicio profesional de carrera correspondiente para el cargo de que se trate.
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+II. No superar la edad máxima de retiro que establezca el reglamento del servicio profesional de carrera o el acuerdo correspondiente para el cargo de que se trate.
 
 III. No estar suspendido o inhabilitado ni haber sido destituido por resolución firme como servidor público.
 
@@ -857,7 +895,9 @@ V. Participar y aprobar los programas de profesionalización que determinen las 
 
 VI. Participar en los procedimientos de promoción a que sean convocados, de conformidad con las disposiciones legales y normativas aplicables.
 
-VII. Aprobar las evaluaciones que determine el reglamento del servicio profesional de carrera correspondiente.
+> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+
+VII. Aprobar las evaluaciones que determine el reglamento del servicio profesional de carrera o el acuerdo correspondiente.
 
 VIII. Contar con el certificado y registro correspondientes a su cargo, y verificar que se mantengan actualizados.
 
@@ -897,27 +937,37 @@ Los servidores públicos de las instituciones de seguridad pública están oblig
 
 Objeto
 
-La certificación es el procedimiento que tiene por objeto acreditar que los integrantes cumplen con el perfil, las aptitudes, los conocimientos y los demás requisitos necesarios para el ingreso o la permanencia en las instituciones de seguridad pública, mediante la aplicación de las evaluaciones que determine el reglamento del servicio profesional de carrera correspondiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE ABRIL DE 2023)</small>
+
+La certificación es el procedimiento que tiene por objeto acreditar que los integrantes cumplen con el perfil, las aptitudes, los conocimientos y los demás requisitos necesarios para el ingreso o la permanencia en las instituciones de seguridad pública, mediante la aplicación de las evaluaciones que determine el reglamento del servicio profesional de carrera o el acuerdo correspondiente.
 
 Ninguna persona podrá permanecer en las instituciones de seguridad pública sin contar con su certificado y registro vigentes.
+
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 68.
 
 Emisión del certificado
 
-El Centro Estatal de Evaluación y Control de Confianza aplicará el procedimiento de certificación y emitirá e inscribirá, en los registros nacional y estatal correspondientes, los certificados a quienes lo hayan aprobado.
+El Centro Estatal de Evaluación y Control de Confianza aplicará a las instituciones policiales y a la autoridad estatal encargada de la supervisión de las medidas cautelares y de la suspensión condicional del proceso el procedimiento de certificación y emitirá e inscribirá, en los registros nacional y estatal correspondientes, los certificados a quienes lo hayan aprobado.
+
+La Fiscalía General del Estado aplicará a sus fiscales, peritos y policías investigadoras el procedimiento de certificación y emitirá e inscribirá, en los registros nacional y estatal correspondientes, los certificados a quienes lo hayan aprobado.
+
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 69.
 
 Elementos y medidas de seguridad
 
-Los certificados que emita el Centro Estatal de Evaluación y Control de Confianza deberán contener los elementos y las medidas de seguridad que determine el Centro Nacional de Certificación y Acreditación.
+Los certificados que emitan el Centro Estatal de Evaluación y Control de Confianza y la Fiscalía General del Estado deberán contener los elementos y las medidas de seguridad que determine el Centro Nacional de Certificación y Acreditación.
+
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 70.
 
 Plazo para el otorgamiento
 
-El Centro Estatal de Evaluación y Control de Confianza, para que sean válidos, deberá emitir e inscribir los certificados en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del procedimiento de certificación correspondiente.
+El Centro Estatal de Evaluación y Control de Confianza y la Fiscalía General del Estado, para que sean válidos, deberán emitir e inscribir los certificados en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del procedimiento de certificación correspondiente.
 
 ###### Artículo 71.
 
@@ -939,7 +989,9 @@ II. Sean removidos de su cargo.
 
 III. No obtengan la revalidación del certificado correspondiente.
 
-La institución de seguridad pública que, en su caso, cancele algún certificado, deberá informar al Centro Estatal de Evaluación y Control de Confianza para que efectúe la anotación respectiva en los registros correspondientes.
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+Las instituciones policiales y la autoridad estatal encargada de la supervisión de las medidas cautelares y de la suspensión condicional del proceso que, en su caso, cancelen algún certificado, deberán informarlo al Centro Estatal de Evaluación y Control de Confianza para que efectúe la anotación respectiva en los registros correspondientes.
 
 ### Capítulo VI. Régimen de estímulos
 
@@ -969,7 +1021,9 @@ Medio de promoción
 
 Los integrantes de las instituciones policiales podrán ascender, dentro del orden jerárquico establecido en el artículo 40 de esta ley, al grado inmediato superior al que ostenten, mediante la aprobación del concurso de promoción correspondiente.
 
-Asimismo, los fiscales y peritos podrán ascender, dentro del orden jerárquico que establezca el reglamento del servicio profesional de carrera correspondiente, al grado inmediato superior al que ostenten, mediante la aprobación del concurso de promoción correspondiente.
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+Asimismo, los fiscales y peritos podrán ascender, dentro del orden jerárquico que establezca el acuerdo que regule el servicio profesional de carrera correspondiente, al grado inmediato superior al que ostenten, mediante la aprobación del concurso de promoción correspondiente.
 
 Podrán participar en los concursos de promoción los integrantes de las instituciones de seguridad pública que cumplan con los requisitos establecidos en la convocatoria correspondiente.
 
@@ -1029,7 +1083,9 @@ II. Remoción, por incurrir en causas de responsabilidad en el desempeño de sus
 
 III. Baja, por renuncia, jubilación o retiro, incapacidad permanente o muerte.
 
-El reglamento del servicio profesional de carrera correspondiente regulará los procedimientos que se seguirán para formalizar la separación o remoción de los integrantes de las instituciones de seguridad pública.
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+El reglamento del servicio profesional de carrera o el acuerdo correspondiente regulará los procedimientos que se seguirán para formalizar la separación o remoción de los integrantes de las instituciones de seguridad pública.
 
 Una vez formalizada la terminación del servicio profesional de carrera, la persona en cuestión deberá entregar al servidor público designado para tal efecto, mediante acta de entrega recepción, todo el equipo, la información, la documentación, las identificaciones, los materiales y los demás recursos que hayan sido puestos bajo su responsabilidad o custodia durante el desempeño de su cargo.
 
@@ -1047,11 +1103,13 @@ En caso de que el órgano jurisdiccional determine que la resolución por la que
 
 Esta circunstancia deberá ser inscrita en el registro nacional correspondiente por la institución de seguridad pública de que se trate.
 
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
 ###### Artículo 84.
 
 Reubicación
 
-Las instituciones de seguridad pública podrán reubicar dentro de su estructura orgánica a los integrantes que hayan alcanzado la edad límite para permanecer en el servicio profesional de carrera, de conformidad con el reglamento correspondiente.
+Las instituciones de seguridad pública podrán reubicar dentro de su estructura orgánica a los integrantes que hayan alcanzado la edad límite para permanecer en el servicio profesional de carrera, de conformidad con el reglamento o el acuerdo correspondiente.
 
 ### Capítulo IX. Régimen disciplinario
 
@@ -1083,9 +1141,13 @@ La imposición de las sanciones establecidas en este artículo se hará con inde
 
 Imposición de sanciones
 
-El superior jerárquico del infractor podrá imponer la sanción establecida en las fracciones I, II y III del artículo 87 de esta ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE ABRIL DE 2023)</small>
 
-Las comisiones de honor y justicia podrán imponer cualquiera de las sanciones establecidas en el artículo 87, previo desarrollo del procedimiento correspondiente.
+El superior jerárquico del infractor podrá imponer la sanción establecida en las fracciones I, II y III del artículo 86 de esta ley.
+
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+Las comisiones de honor y justicia podrán imponer cualquiera de las sanciones establecidas en el artículo 86, previo desarrollo del procedimiento correspondiente.
 
 Antes de imponer una sanción, las autoridades competentes considerarán la gravedad de la infracción, los antecedentes del infractor, sus condiciones socioeconómicas y, en su caso, la reincidencia en el incumplimiento de sus obligaciones.
 
@@ -1093,7 +1155,9 @@ Antes de imponer una sanción, las autoridades competentes considerarán la grav
 
 Procedimientos para la imposición de sanciones
 
-Los reglamentos del servicio profesional de carrera establecerán los procedimientos a seguir para la imposición de las sanciones aplicables a los integrantes de las instituciones de seguridad pública por el incumplimiento de sus obligaciones.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE ABRIL DE 2023)</small>
+
+Los reglamentos o acuerdos del servicio profesional de carrera establecerán los procedimientos a seguir para la imposición de las sanciones aplicables a los integrantes de las instituciones de seguridad pública por el incumplimiento de sus obligaciones.
 
 Los procedimientos iniciarán con la solicitud fundada y motivada del titular de la unidad administrativa a la que esté adscrito el presunto infractor al presidente de la comisión de honor y justicia correspondiente.
 
@@ -1103,11 +1167,15 @@ Los procedimientos deberán observar en todo momento las formalidades esenciales
 
 ### Capítulo X. Academias e institutos
 
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
 ###### Artículo 89.
 
 Academias e institutos
 
-El estado deberá contar con academias e institutos, los cuales estarán a cargo de la formación y profesionalización de los aspirantes e integrantes de la Secretaría de Seguridad Pública y de la Fiscalía General del Estado, respectivamente.
+El estado deberá contar con academias, las cuales estarán a cargo de la formación y profesionalización de los aspirantes e integrantes de la Secretaría de Seguridad Pública.
+
+La Fiscalía General del Estado contará con los institutos y academias que requiera para la formación y profesionalización de los aspirantes e integrantes de su institución.
 
 ###### Artículo 90.
 
@@ -1157,11 +1225,13 @@ Establecimiento de comisiones
 
 Las instituciones de seguridad pública deberán establecer sus comisiones del servicio profesional de carrera y de honor y justicia, según corresponda, las cuales se encargarán de conocer y resolver, en sus respectivos ámbitos de competencia, los asuntos y controversias que se presenten con respecto al servicio profesional de carrera y los regímenes de estímulos y disciplinario, respectivamente.
 
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
 ###### Artículo 92.
 
 Organización y funcionamiento
 
-Las comisiones de las instituciones de seguridad pública se organizarán y funcionarán en los términos que establezca el reglamento del servicio del servicio (sic) profesional de carrera correspondiente.
+Las comisiones de las instituciones de seguridad pública se organizarán y funcionarán en los términos que establezca el reglamento del servicio profesional de carrera o el acuerdo correspondiente.
 
 ### Capítulo XII. Sistema complementario de seguridad social
 
@@ -1642,3 +1712,65 @@ Artículo Primero. El presente decreto entrará en vigor al día siguiente de su
 Derogación expresa.
 
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 619/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE JUSTICIA CONSTITUCIONAL PARA EL ESTADO DE YUCATÁN, LA LEY DE JUVENTUD DEL ESTADO DE YUCATÁN, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN, LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, EN MATERIA DE AUTONOMÍA DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Obligación normativa
+
+El Congreso del estado deberá expedir las leyes y modificaciones a la legislación para armonizarla conforme a lo previsto en este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Artículo tercero. Obligación normativa
+
+La Fiscalía General del Estado deberá expedir los acuerdos necesarios para su regulación interna, conforme a lo previsto en este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Artículo cuarto. Legislación transitoria
+
+En tanto la Fiscalía General del Estado expide los acuerdos necesarios para regular su organización y funcionamiento interno, continuarán vigentes las disposiciones del Reglamento de la Ley de la Fiscalía General del Estado de Yucatán.
+
+Artículo quinto. Derechos laborales
+
+Los trabajadores que se encuentren prestando sus servicios en la Fiscalía General del Estado, a la entrada en vigor de este decreto, seguirán conservando su misma calidad y derechos laborales que les corresponden, en los términos de la legislación aplicable.
+
+Artículo sexto. Transferencia de recursos
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Fiscalía General del Estado como dependencia del Poder Ejecutivo, incluyendo todos sus bienes y los derechos derivados de fondos o fideicomisos vigentes, pasarán a formar parte del órgano constitucional autónomo denominado Fiscalía General del Estado.
+
+La Fiscalía General del Estado, como organismo constitucional autónomo contratará preferentemente para puestos administrativos a personas con discapacidad; así como de jóvenes que quieran adherirse por primera vez al ámbito laboral.
+
+Artículo séptimo. Policía investigadora
+
+La Fiscalía General del Estado deberá llevar a cabo los actos administrativos y jurídicos necesarios para crear su policía investigadora, en términos de lo establecido en este decreto, para lo cual tendrá hasta el 30 de junio de 2024.
+
+Artículo octavo. Exención
+
+La Fiscalía General del Estado queda exenta, por única ocasión, de los derechos, impuestos y obligaciones fiscales, municipales y estatales, que puedan ser causados con motivo de la regularización de sus bienes y servicios para el cumplimiento de este decreto.
+
+Artículo noveno. Previsiones presupuestales
+
+El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+Artículo décimo. Recursos y espacios de la fiscalía
+
+En tanto se llevan a cabo las adecuaciones presupuestales, las transferencias y demás actos necesarios para dotar de recursos propios a la Fiscalía General del Estado como órgano constitucional autónomo continuará ejerciendo los recursos y ocupando los espacios que actualmente tiene asignados la Fiscalía General del Estado como dependencia.
+
+Artículo décimo primero. Asuntos en trámite
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este decreto, continuarán, hasta su conclusión, regidos por las disposiciones en los cuales se fundamentaron.
+
+Artículo décimo segundo. Nombramiento
+
+La persona titular del Poder Ejecutivo tendrá hasta el 30 de noviembre de 2023 para remitir al Congreso la terna para la designación de la persona titular de la Fiscalía General del Estado.
+
+Artículo décimo tercero. Nombramiento
+
+El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno de la Fiscalía General del Estado dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Artículo décimo cuarto. Primer Informe del Fiscal
+
+Por única ocasión, la primera rendición del Informe anual de la Fiscalía General del Estado de Yucatán, a cargo de la persona titular de dicho órgano autónomo, se realizará en el mes de abril de 2025, y comprenderá el período que abarca del inicio de sus funciones como fiscal hasta el 31 de diciembre 2024.
