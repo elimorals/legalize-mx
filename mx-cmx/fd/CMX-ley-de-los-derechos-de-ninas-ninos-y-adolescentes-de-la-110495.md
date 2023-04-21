@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2023-03-03"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -1032,6 +1032,10 @@ II. Tomar las medidas necesarias que permitan a niñas, niños y adolescentes, a
 
 III. Contar con un registro de niñas, niños y adolescentes a quienes brindan alojamiento que contendrá la información de su situación jurídica que será actualizada permanentemente, la cual será informada a la Procuraduría de Protección;
 
+> <small>(ADICIONADA, G.O. 21 DE ABRIL DE 2023)</small>
+
+III Bis. Contar con un registro del personal que labora, incluyendo a la persona titular y/o representante legal. El registro deberá contar con al menos la información personal, formación académica que incluya cursos, diplomados u otros que los (sic) acrediten sus capacidades para cumplir sus funciones, experiencia laboral, funciones o actividades que realizan o cumplen con las niñas, niños y adolescentes. Dicho personal no deberá haber sido sentenciado por los delitos cometidos contra niñas, niños y adolescentes. Será actualizada cada seis meses y deberá informarse a la Procuraduría de Protección;
+
 IV. Brindar la información que le requiera la Procuraduría de Protección respecto de la atención integral que otorga a niñas, niños y adolescentes canalizados por cualquier autoridad del orden local, federal o municipal, o por su familia de origen o extensa;
 
 V. Ingresar información y mantenerla actualizada en el Sistema que prevé la Ley de Cuidados Alternativos conforme a las disposiciones emitidas por la Procuraduría de Protección;
@@ -1168,13 +1172,17 @@ IX. El trabajo en adolescentes mayores de quince años que pueda perjudicar su s
 
 Se entiende por las peores formas de trabajo infantil a las relativas a: la esclavitud, trata infantil, servidumbre por deudas, la condición de siervo, trabajo forzoso, explotación sexual y la participación en actividades ilícitas;
 
-> <small>(REFORMADA, G.O. 23 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, G.O. 21 DE ABRIL DE 2023)</small>
 
-X. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral; y
+X. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral;
 
-> <small>(ADICIONADA, G.O. 23 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, G.O. 21 DE ABRIL DE 2023)</small>
 
-XI. El castigo corporal y/o humillante.
+XI. El castigo corporal y/o humillante; y
+
+> <small>(ADICIONADA, G.O. 21 DE ABRIL DE 2023)</small>
+
+XII. Contenidos en los medios de comunicación y redes sociales que afecten o impidan objetivamente el desarrollo integral de niñas, niños y adolescentes, o que hagan apología del delito, en contravención al principio de interés superior de la niñez.
 
 Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
 
@@ -1592,13 +1600,37 @@ Las autoridades y de (sic) los órganos político administrativos fomentarán el
 
 Niñas, niños y adolescentes tienen derecho a la intimidad personal y familiar, y a la protección de sus datos personales.
 
+> <small>(ADICIONADO, G.O. 21 DE ABRIL DE 2023)</small>
+
+Madres, padres, así como cualquier otra persona que tenga bajo su cuidado a niñas, niños y adolescentes, se abstendrán de compartir en redes sociales o plataformas digitales, desnudos de éstos.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES E INCISOS], G.O. 21 DE ABRIL DE 2023)</small>
+
+Por desnudo para efectos del presente artículo se entenderá:
+
+I. Primeros planos de genitales.
+
+II. Desnudos reales en los que se muestren:
+
+a. Genitales visibles, incluso si están cubiertos u ocultos por ropa transparente o por vello púbico.
+
+b. Ano o primeros planos de glúteos completamente desnudos.
+
+c. Pezones de niñas, niños y adolescentes al descubierto.
+
+> <small>(ADICIONADO, G.O. 21 DE ABRIL DE 2023)</small>
+
+Quien tenga conocimiento de estas acciones dará vista a la Procuraduría de Protección para efectos del artículo 83 de esta Ley.
+
 Niñas, niños y adolescentes no podrán ser objeto de injerencias arbitrarias o ilegales en su vida privada, su familia, su domicilio o su correspondencia; tampoco de divulgaciones o difusiones ilícitas de información o datos personales, incluyendo aquélla que tenga carácter informativo a la opinión pública o de noticia que permita identificarlos y que atenten contra su honra, imagen o reputación.
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia, deberán orientar, supervisar y, en su caso, restringir, las conductas y hábitos de niñas, niños y adolescentes, siempre que atiendan al interés superior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE ABRIL DE 2023)</small>
+
 ###### Artículo 79.
 
-Se considerará violación a la intimidad de niñas, niños o adolescentes cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación en cualquier medio de comunicación, que menoscabe su dignidad, honra o reputación, sea contrario a sus derechos o que los ponga en riesgo, conforme al principio de interés superior.
+Se considerará violación a la intimidad de niñas, niños o adolescentes cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación en cualquier medio de comunicación, que menoscabe su dignidad, honra o reputación, sea contrario a sus derechos o que los ponga en riesgo, conforme al principio de interés superior, aun cuando esta acción sea realizada por sus madres, padres, tutores o sus personas representantes.
 
 En estos supuestos las niñas, niños y adolescentes a través de su representante, podrán promover las acciones civiles de reparación del daño e iniciar los procedimientos por la responsabilidad administrativa a que haya lugar ante las autoridades competentes; así como dar seguimiento a los procedimientos hasta su conclusión.
 
@@ -1631,6 +1663,10 @@ En los procedimientos civiles o administrativos que sean iniciados o promovidos 
 ###### Artículo 83.
 
 En los procedimientos ante la autoridad competente, la Procuraduría de Protección podrá solicitar que se imponga como medida cautelar la suspensión o bloqueo de cuentas de usuarios en medios electrónicos, a fin de evitar la difusión de información, imágenes, sonidos o datos que puedan contravenir el interés superior.
+
+> <small>(ADICIONADO, G.O. 21 DE ABRIL DE 2023)</small>
+
+Las niñas, niños o adolescentes, a través de persona de su confianza, podrán solicitar ante la autoridad competente, el retiro inmediato de su información, imágenes o videos de los medios de comunicación o plataformas digitales o electrónicas y redes sociales de sus madres, padres, tutores o personas representantes que contravengan su interés superior.
 
 La autoridad competente, con base en este artículo y en las disposiciones aplicables, podrá requerir a las empresas de prestación de servicios en materia de medios electrónicos que realicen las acciones necesarias para el cumplimiento de las medidas cautelares que ordene.
 
@@ -2797,3 +2833,23 @@ G.O. 3 DE MARZO DE 2023.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES X Y XI, Y SE ADICIONA UNA FRACCIÓN XII DEL ARTÍCULO 44; SE ADICIONA UN PÁRRAFO SEGUNDO, TERCERO Y CUARTO, RECORRIENDOSE LOS SUBSECUENTES, DEL ARTÍCULO 78; SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 79; Y SE ADICIONA UN PÁRRAFO SEGUNDO, RECORRIENDOSE EL SUBSECUENTE, DEL ARTÍCULO 83; TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN III BIS AL ARTÍCULO 32 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase a la Jefa de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entra en vigor al día siguiente de su publicación.
+
+Tercero. Las personas titulares o representantes legales de los Centros de Asistencia Social y todas las instituciones que brinden cuidados alternativos contarán con un plazo de 120 días para cumplir con la disposición del presente Decreto.
+
+Cuarto. El DIF-CDMX realizará las adecuaciones administrativas y reglamentarias para el debido cumplimento del presente Decreto.
