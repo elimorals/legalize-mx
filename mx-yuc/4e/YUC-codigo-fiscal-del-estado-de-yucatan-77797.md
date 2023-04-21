@@ -4,7 +4,7 @@ identifier: "YUC-codigo-fiscal-del-estado-de-yucatan-77797"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-22"
-last_updated: "2022-12-29"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO FISCAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE ABRIL DE 2023.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 22 de diciembre de 2010.
 
@@ -2205,23 +2205,27 @@ Al contador público que cometa las infracciones a que se refiere el artículo 1
 
 ### CAPÍTULO II. De los Delitos Fiscales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 119.
 
-Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que previamente la Agencia de Administración Fiscal de Yucatán:
+Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que previamente la Agencia de Administración Fiscal de Yucatán o la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán:
 
 I. Formule querella tratándose de los previstos en los artículos 129, 130 131 132, 133 y 135 de este Código, independientemente del estado en que se encuentre el procedimiento administrativo que, en su caso, se haya iniciado, y
 
 II. En los demás casos no previstos bastará la denuncia de los hechos ante el Ministerio Público.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
-Los procesos por los delitos fiscales a que se refiere la fracción II de este artículo se sobreseerán a petición de la Agencia de Administración Fiscal de Yucatán, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Agencia. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
+Los procesos por los delitos fiscales a que se refiere la fracción II de este artículo, (sic)
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
+(sic) se sobreseerán a petición de la Agencia de Administración Fiscal de Yucatán, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Agencia. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público formule conclusiones y surtirá efectos respecto de las personas a que la petición se refiera. Cuando la Agencia de Administración Fiscal de Yucatán ejerza la facultad establecida en este párrafo, deberá dar vista a la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán.
 
-En los delitos fiscales en que el daño o el perjuicio sean cuantificables, la Agencia de Administración Fiscal de Yucatán, hará la cuantificación correspondiente en la propia querella. La citada cuantificación sólo surtirá efectos en el procedimiento penal. Para conceder la libertad provisional, el monto de la caución que fije la autoridad judicial comprenderá, en su caso la suma de la cuantificación antes mencionada. La caución que se otorgue en los términos de este párrafo no sustituye a la garantía del interés fiscal.
+> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+
+En los delitos fiscales en que el daño o el perjuicio sean cuantificables, la Agencia (sic)
+
+(sic) de Administración Fiscal de Yucatán por cuenta propia o a petición de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, hará la cuantificación correspondiente en la propia querella. La citada cuantificación solo surtirá efectos en el procedimiento penal. Para conceder la libertad provisional, el monto de la caución que fije la autoridad judicial comprenderá, en su caso la suma de la cuantificación antes mencionada. La caución que se otorgue en los términos de este párrafo no sustituye a la garantía del interés fiscal.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -4098,3 +4102,33 @@ Artículo tercero. Los contribuyentes del Impuesto a la Emisión de Contaminante
 Para efectos de lo anterior, los contribuyentes que se encuentren en el supuesto de este artículo transitorio deberán presentar, a más tardar el 17 de febrero del año que se trate, y si este fuera inhábil al día hábil siguiente, a la Agencia de Administración Fiscal de Yucatán, adjunto al aviso respecto al Impuesto a la Emisión de Contaminantes al Suelo, Subsuelo y Agua, la copia del título de concesión, permiso o documento donde se especifiquen las condiciones particulares de descarga determinadas por la Comisión Nacional del Agua.
 
 La Agencia de Administración Fiscal de Yucatán y la Secretaría de Administración y Finanzas podrán expedir las disposiciones complementarias que sean necesarias para la correcta y debida aplicación de este artículo transitorio.
+
+D.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 620/2023 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN Y EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN, EN MATERIA DE PREVENCIÓN Y COMBATE AL DELITO DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA”.]
+
+Artículo Primero. Entrada en vigor
+
+Este decreto entrará en vigor en la fecha en que lo haga la Ley Orgánica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán, con excepción de lo dispuesto en los artículos transitorios segundo, tercero y cuarto de este decreto, que entrarán en vigor el día siguiente al de su publicación en el referido medio de difusión oficial.
+
+Artículo Segundo. Obligación normativa
+
+El Congreso del Estado deberá emitir la Ley Orgánica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, dentro del plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este transitorio.
+
+Artículo Tercero. Obligación normativa
+
+El Congreso del Estado de Yucatán deberá expedir las modificaciones necesarias a la legislación secundaria, para armonizarla a las disposiciones de este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de la entrada en vigor de este transitorio.
+
+Artículo Cuarto. Remisión de la terna para la designación de la persona Titular de la agencia
+
+La persona Titular del Poder Ejecutivo del estado deberá remitir al Congreso la terna para la designación de la persona Titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, a más tardar el 30 de noviembre de 2023.
+
+Artículo Quinto. Adecuaciones presupuestales, financieras, de bienes y recursos humanos
+
+La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales, financieras, de bienes y recursos humanos que resulten necesarias para la aplicación de este decreto.
+
+La Agencia de Inteligencia Patrimonial y Económica preferentemente contratará para puestos administrativos a personas con discapacidad; así como de (sic) jóvenes que quieran adherirse por primera vez al ámbito laboral.
+
+Artículo Sexto. Exención
+
+La Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán queda exenta, por única ocasión, de los derechos, impuestos y obligaciones fiscales estatales, así como de las contribuciones municipales respecto de sus bienes de dominio público en términos del artículo 82, fracción VIII, de la Constitución Política del Estado de Yucatán y que puedan ser causados con motivo de la regularización de sus bienes y servicios para el cumplimiento de este decreto.
