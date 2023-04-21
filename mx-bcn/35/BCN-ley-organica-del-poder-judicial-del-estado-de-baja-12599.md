@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2023-01-27"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -1028,6 +1028,10 @@ VI.- De las cuestiones relativas a los asuntos que afecten en sus derechos de pe
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2009)</small>
 
 VII.- De la expedición de las órdenes de protección de naturaleza familiar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2023)</small>
+
+Los Juzgados de Primera Instancia de lo Familiar en el ámbito de su competencia funcionarán de manera ininterrumpida a lo largo del año no existiendo días ni horas inhábiles, para lo cual se establecerán guardias durante los periodos vacacionales, igual situación aplicará cuando se trate de aquellos de jurisdicción mixta.
 
 ###### ARTICULO 79.
 
@@ -3898,3 +3902,9 @@ P.O. 27 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 199 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 57 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 223 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ASIMISMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 55, 65, 68, 420 BIS, 440, 441 490 Y 491, SE DEROGAN LOS ARTÍCULOS 387, 394, 394 BIS, 394 TER, 395, 398 Y 403 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO SE APRUEBA LA REFORMA A LOS ARTÍCULOS 237, 237 TER Y 237 QUATER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA Y SE APRUEBA LA REFORMA AL ARTÍCULO 78 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
