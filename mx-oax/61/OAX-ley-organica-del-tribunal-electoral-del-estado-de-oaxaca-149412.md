@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-tribunal-electoral-del-estado-de-oaxaca-149412
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-05-06"
-last_updated: "2022-12-02"
+last_updated: "2023-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE OAXACA
 
-(NOTA: EL 26 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 170/2022 Y SU ACUMULADA 172/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 677 MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 28 BIS A LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE OAXACA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DOS DE DICIEMBRE DE DOS MIL VEINTIDÓS, LA CUAL SURTIÓ EFECTOS EL 5 DE JULIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 6 de mayo de 2021.
 
@@ -199,9 +197,11 @@ III. En las acciones relativas a la administración, control y fiscalización; d
 
 El Tribunal remitirá a la Secretaría de Finanzas la información que ésta requiera a efecto de consolidar la cuenta pública del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2023)</small>
+
 ###### Artículo 15.
 
-El Tribunal debe rendir cuentas ante el Órgano Superior de Fiscalización del Estado, conforme a la ley aplicable.
+El Tribunal debe rendir cuentas ante la Auditoría Superior de Fiscalización del Estado, conforme a la ley aplicable.
 
 ###### Artículo 16.
 
@@ -1498,3 +1498,11 @@ SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 TERCERO. El presente Decreto no constituye de manera alguna la ratificación o reelección en el cargo del Magistrado o Magistrada en funciones, una vez que se dé la designación por parte del Senado de la República se hará la entrega-recepción.
 
 CUARTO. Quedan derogadas todas las disposiciones jurídicas de igual o menor jerarquía que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 22 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1226.- MEDIANTE EL CUAL REFORMA EL NUMERAL 4 DEL ARTÍCULO 71 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA; REFORMA EL ARTÍCULO 15 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
