@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2022-08-31"
+last_updated: "2023-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2023.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -717,9 +717,11 @@ El elegido deberá pertenecer al mismo grupo o coalición parlamentaria del remo
 
 En caso de que suceda la renuncia al cargo de Presidente(a), esta no implica al de Diputado(a).
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 75.
 
-La o el Presidente de la Mesa Directiva lo será también del Congreso, y tendrá las atribuciones siguientes:
+Quien presida la Mesa Directiva presidirá también el H. Congreso, y tendrá las atribuciones siguientes:
 
 I.- Ostentar la representación oficial del Congreso del Estado y, en su caso, conferir y revocar poderes generales o especiales con la amplitud de facultades que estime necesarias.
 
@@ -760,6 +762,10 @@ No obstante lo anterior, como casos de excepción, podrá hacer turnos simplific
 > <small>(ADICIONADO, P.O. 28 DE ENERO DE 2017)</small>
 
 Las Diputadas y los Diputados pueden acudir ante la Mesa Directiva a solicitar el cambio en el turno realizado, para ello deberán exponer los motivos de su solicitud. La Presidencia pondrá a consideración de los integrantes de la Mesa Directiva los cambios sugeridos para efectos de su autorización, en su caso.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2023)</small>
+
+Tratándose de iniciativa que pretenda declarar un bien inmaterial como Patrimonio Cultural, será turnada a la Comisión de Turismo y Cultura para su trámite en los términos de la Ley aplicable.
 
 XIV.- Exhortar a las comisiones y comités a realizar sus reuniones con la periodicidad reglamentaria, o de carácter urgente, en su caso, y presentar sus dictámenes en tiempo y forma.
 
@@ -3502,3 +3508,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las iniciativas con carácter de Punto de Acuerdo que se encuentren en estudio en las diversas Comisiones y Comités, a la entrada en vigor de este Decreto, que tengan como propósito las solicitudes de gestión y de información a una dependencia gubernamental, se les dará el tratamiento aludido en el presente Decreto, en el entendido que se tendrán que turnar y dar por atendidas en los términos presentados, mediante acuerdo de trámite, previa consulta y manifestación expresa de la persona iniciadora o, en su caso, del Grupo Parlamentario que se trate.
 
 TERCERO.- La observancia del principio de paridad de género a que se refiere el artículo 126 de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua, será aplicable en las próximas designaciones y nombramientos que se realicen.
+
+P.O. 22 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0530/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE CHIHUAHUA Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
