@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2023-01-28"
+last_updated: "2023-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -2179,7 +2179,9 @@ XVI. Gozar de un trato digno y decoroso por parte de sus subalternos y superiore
 
 XVII. Recibir el equipo de trabajo necesario y sin costo alguno;
 
-XVIII. Recibir atención médica de urgencia sin costo alguno, cuando sean lesionados con motivo o durante el ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2023)</small>
+
+XVIII. Recibir atención médica permanente para garantizar su salud física y mental, y en los casos de urgencia con motivo o durante el ejercicio de sus funciones, sin costo alguno;
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -3580,3 +3582,11 @@ P.O. 28 DE ENERO DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1229.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 118 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
