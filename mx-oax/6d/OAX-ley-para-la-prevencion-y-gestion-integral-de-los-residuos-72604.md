@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-72604
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-18"
-last_updated: "2022-07-30"
+last_updated: "2023-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2023.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 18 de julio de 2009.
 
@@ -831,9 +831,11 @@ Los residuos sólidos urbanos deben depositarse en contenedores separados para s
 
 Los Ayuntamientos definirán en las disposiciones que emitan, la subclasificación que deba aplicarse para la separación obligatoria de residuos sólidos urbanos, con base en las disposiciones del presente artículo para cada una de las clasificaciones establecidas, así como para los distintos tipos de generadores.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2023)</small>
+
 ###### Artículo 45.
 
-Los Ayuntamientos instalarán el equipamiento e infraestructura para el depósito y recolección separada de los residuos sólidos urbanos, en la vía pública, áreas comunes y vehículos de recolección, de conformidad con lo que dispongan en su normativa, en sus planes de desarrollo urbano y en los Programas Municipales para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos.
+Los Ayuntamientos instalarán el equipamiento e infraestructura para el depósito y recolección separada de los residuos sólidos urbanos, en la vía pública, mercados públicos, panteones, escuelas públicas, parques, centros comerciales, centros recreativos y espacios similares; así como áreas comunes y contarán con vehículos de recolección, de conformidad con lo que dispongan en su normativa, en sus planes de desarrollo urbano y en los Programas Municipales para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos.
 
 ### CAPÍTULO III. DEL SERVICIO PÚBLICO DE LIMPIA
 
@@ -1694,3 +1696,11 @@ P.O. 30 DE JULIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1228.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 45 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
