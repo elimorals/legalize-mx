@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-proteccion-del-patrimonio-cultural-del-estado-12832
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-05"
-last_updated: "2018-05-05"
+last_updated: "2023-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128328&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2023.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 5 de mayo de 2018.
 
@@ -407,7 +407,13 @@ XXIV. Administrar el Fondo para el Patrimonio Cultural cumplimiento a cabalidad 
 
 XXV. Promover y colaborar en el diseño y elaboración de los planes de manejo, reglamentos, programas, normas y procedimientos de las zonas protegidas así como de los bienes muebles e inmuebles protegidos y/o declarados Patrimonio Cultural del Estado, en los términos de la presente Ley;
 
-XXVI. Dictar las medidas precautorias a que se refiere esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2023)</small>
+
+XXVI. Coadyuvar con el H. Congreso del Estado, cuando este inicie un procedimiento para la Declaratoria de un bien inmaterial como Patrimonio Cultural.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE ABRIL DE 2023)</small>
+
+XXVII. Dictar las medidas precautorias a que se refiere esta Ley.
 
 #### SECCIÓN TERCERA. DE LAS AUTORIDADES MUNICIPALES
 
@@ -821,9 +827,11 @@ II. La Secretaría promoverá la realización de un estudio de impacto cultural,
 
 ### CAPÍTULO V. DE LA DECLARATORIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 71.
 
-Por disposición de esta Ley, se declaran Patrimonio Cultural del Estado:
+Por disposición de esta Ley, se declaran únicamente Patrimonio Cultural del Estado:
 
 I. Las lenguas de los pueblos originarios del Estado.
 
@@ -839,15 +847,25 @@ Quedan excluidas de protección o declaratoria las manifestaciones culturales qu
 
 La Declaratoria de un bien como Patrimonio Cultural del Estado o la revocación de este acto, se hará mediante Decreto del Titular del Ejecutivo, en los términos de la presente Ley, el cual se publicará en el Periódico Oficial del Estado de Chihuahua.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 74.
 
-El procedimiento para la Declaratoria del patrimonio cultural, ya sea por oficio o a petición de parte, iniciará con la presentación del escrito de solicitud, dirigido a la Secretaría, el cual contendrá, al menos:
+El procedimiento para la Declaratoria de un bien como patrimonio cultural, inicia con la solicitud que contendrá, al menos:
 
 I. Nombre y domicilio del promovente;
 
 II. Descripción del bien cultural o zona objeto de la solicitud, y
 
 III. Exposición de motivos en los que se funda la petición.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2023)</small>
+
+ARTÍCULO 74 BIS. La Declaratoria de un bien como Patrimonio Cultural, podrá ser solicitada:
+
+I. Por oficio o a petición de parte de cualquier persona, ya sea física o moral, ante la Secretaría, respecto de bienes materiales, inmateriales y/o bioculturales.
+
+II. Por iniciativa de las Diputadas y Diputados en el H. Congreso del Estado, siempre que se refieran a bienes inmateriales.
 
 ###### ARTÍCULO 75.
 
@@ -861,7 +879,9 @@ A. Cuando el objeto de la Declaratoria verse sobre un bien de patrimonio materia
 
 B. Cuando el objeto de la Declaratoria verse sobre un bien de patrimonio inmaterial, se hará difusión de la emisión del acuerdo y de la instauración del procedimiento, mediante dos publicaciones, con diferencia de siete días naturales entre una y otra, en el Periódico Oficial del Estado, en medios masivos de comunicación a los que se tenga acceso en la Localidad.
 
-III. Convocará a los integrantes del Comité Técnico de Patrimonio Cultural con el objeto de brindar los elementos necesarios para fundamentar la Declaratoria respectiva.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2023)</small>
+
+III. Convocará a quienes integran el Comité Técnico de Patrimonio Cultural con el objeto de brindar los elementos necesarios para fundamentar la Declaratoria respectiva.
 
 IV. Elaborará un diagnóstico básico en el que se incluyan los aspectos sociales, técnicos y jurídicos.
 
@@ -869,9 +889,11 @@ V. Iniciará la integración del Expediente Técnico con los datos generales del
 
 VI. Efectuará un estudio de impactos culturales, un dictamen o expediente técnico, según sea el caso, en el que se establecerán las normas, especificaciones técnicas y recomendaciones necesarias para su declaración como patrimonio cultural. Los estudios técnicos deberán realizarse de acuerdo con el Reglamento de la presente Ley, para lo cual convocará a especialistas relacionados con el tema.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 76.
 
-El interesado manifestará lo que a su derecho convenga, mediante escrito dirigido a la Secretaría, el cual deberá presentarse dentro de los quince días hábiles siguientes a la fecha de notificación.
+La persona interesada manifestará lo que a su derecho convenga, mediante escrito dirigido a la Secretaría, el cual deberá presentarse dentro de los quince días hábiles siguientes a la fecha de notificación.
 
 ###### ARTÍCULO 77.
 
@@ -907,15 +929,27 @@ D. Proyecto de Declaratoria la cual incluirá claramente los efectos de esta y l
 
 Los bienes muebles pueden ser declarados individualmente o como colección, en los términos que dispone esta Ley.
 
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2023)</small>
+
+ARTÍCULO 79 BIS. La iniciativa presentada ante el H. Congreso del Estado por las Diputadas y Diputados, que pretenda declarar a un bien inmaterial como Patrimonio Cultural, deberá contener la información y demás elementos necesarios que fundamenten y sustenten la propuesta.
+
+Para su análisis, estudio y posterior dictaminación, la Comisión de Dictamen Legislativo, se allegará de la información que considere necesaria para cumplir con los requisitos necesarios, y convocará a la Secretaría con el objeto de que coadyuve en el proceso, convoque al Comité Técnico de Patrimonio Cultural para el estudio de la propuesta, y proponga a la Comisión la inclusión de elementos técnicos al acuerdo correspondiente.
+
+El Acuerdo deberá contener como mínimo, los elementos mencionados en la fracción II del artículo 78 de esta Ley y, una vez aprobado por el Pleno del H. Congreso del Estado, se enviará a la persona titular del Poder Ejecutivo.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 80.
 
-Una vez recibido el proyecto de Declaratoria, el Gobernador podrá, cuando estime conveniente, hacer observaciones al proyecto de Declaratoria, suspender la emisión de la Declaratoria definitiva y devolver el proyecto con las observaciones, en su caso, dentro de diez días hábiles contados desde aquel en que lo reciba.
+Una vez recibido el proyecto de Declaratoria o, en su caso, el Acuerdo emitido por el H. Congreso del Estado, la persona titular del Poder Ejecutivo podrá, cuando estime conveniente, hacer observaciones al mismo, suspender la emisión de la Declaratoria definitiva y devolver el proyecto con las observaciones, en su caso, dentro de diez días hábiles contados desde aquel en que lo reciba.
 
-El proyecto de Declaratoria devuelto a la Secretaría con las observaciones, deberá ser discutido en cuanto a éstas, con participación del Comité Técnico de Patrimonio Cultural. Si fuere modificado de conformidad con las observaciones hechas, volverá al Gobernador, para su publicación.
+El proyecto de Declaratoria devuelto a la Secretaría con las observaciones, deberá ser discutido en cuanto a estas, con participación del Comité Técnico de Patrimonio Cultural. Si fuere modificado de conformidad con las observaciones hechas, volverá a la persona titular del Poder Ejecutivo, para su publicación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 81.
 
-El Gobernador del Estado, en su caso emitirá la Declaratoria definitiva, ordenando publicarla por una sola vez en el Periódico Oficial del Estado. La Declaratoria surtirá sus efectos a partir del día hábil siguiente a su publicación.
+La persona titular del Poder Ejecutivo, en su caso emitirá la Declaratoria definitiva, ordenando publicarla por una sola vez en el Periódico Oficial del Estado. La Declaratoria surtirá sus efectos a partir del día hábil siguiente a su publicación.
 
 La Declaratoria será inscrita ante la Secretaría en el Registro Estatal del Patrimonio Cultural del Estado y en el Registro Público de la Propiedad y del Comercio del Estado, en el Distrito que corresponda.
 
@@ -929,9 +963,11 @@ Deberá notificarse de forma personal al interesado al día siguiente de la emis
 
 En caso de inconformidad, los afectados podrán interponer el recurso de revocación en contra de la Declaratoria o del acuerdo denegatorio, mediante escrito dirigido a la Secretaría General de Gobierno, en los términos previstos en el Código Administrativo del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 84.
 
-El Titular del Ejecutivo, mediante Decreto y previo Dictamen aprobatorio de la Secretaría, podrá revocar la Declaratoria de un bien adscrito al patrimonio cultural del Estado, cuando exista razón fundada para ello.
+La persona titular del Poder Ejecutivo, mediante Decreto y previo Dictamen aprobatorio de la Secretaría, podrá revocar la Declaratoria de un bien adscrito al patrimonio cultural del Estado, cuando exista razón fundada para ello.
 
 ###### ARTÍCULO 85.
 
@@ -945,9 +981,11 @@ En caso de que la resolución no se emita en el plazo de sesenta días que prev�
 
 La Secretaría queda obligada a notificar dicha medida al Municipio donde radica el bien cultural.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 88.
 
-Los interesados podrán presentar objeciones fundadas ante la autoridad que hubiese emitido las medidas precautorias y cautelares en un plazo de 15 días naturales a partir de la fecha en que se hubiere recibido la notificación de las medidas precautorias. Los argumentos de los interesados o afectados, serán tomados en cuenta para los efectos, en su caso, de la Declaratoria.
+Las personas interesadas podrán presentar objeciones fundadas ante la autoridad que hubiese emitido las medidas precautorias y cautelares en un plazo de 15 días naturales a partir de la fecha en que se hubiere recibido la notificación de las medidas precautorias. Los argumentos de las personas interesadas o afectadas, serán tomados en cuenta para los efectos, en su caso, de la Declaratoria.
 
 ###### ARTÍCULO 89.
 
@@ -1202,3 +1240,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dos días del mes de mayo del año dos mil dieciocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0530/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE CHIHUAHUA Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
