@@ -1,0 +1,62 @@
+---
+title: "LEY DE INGRESOS DEL MUNICIPIO DE SAN PABLO VILLA DE MITLA, DISTRITO DE TLACOLULA, OAXACA, PARA EL EJERCICIO FISCAL 2023"
+identifier: "OAX-ley-de-ingresos-del-municipio-de-san-pablo-villa-de-mitla-166029"
+country: "mx"
+rank: "ley_de_ingresos"
+publication_date: "2023-04-22"
+last_updated: "2023-04-22"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166029&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-oax"
+scjn_id: "166029"
+scjn_status: "NO VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "16 DECIMA SEPTIMA SECCION"
+reform_count: "1"
+scjn_last_update: "2023-10-14"
+issue_date: "2023-03-31"
+municipality: "San Pablo Villa de Mitla"
+municipality_inegi: "20298"
+state: "OAX"
+---
+# LEY DE INGRESOS DEL MUNICIPIO DE SAN PABLO VILLA DE MITLA, DISTRITO DE TLACOLULA, OAXACA, PARA EL EJERCICIO FISCAL 2023
+
+LEY DE INGRESOS DEL MUNICIPIO DE SAN PABLO VILLA DE MITLA, DISTRITO DE TLACOLULA, OAXACA, PARA EL EJERCICIO FISCAL 2023
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección Décima Séptima del Número 16 del Periódico Oficial del Estado de Oaxaca, el sábado 22 de abril de 2023.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+###### Artículo 138.
+
+El Municipio percibe ingresos derivados de las sanciones por falta de pago oportuno de créditos fiscales, y por las siguientes faltas administrativas:
+
+CONCEPTO CUOTA UMA A CUOTA UMA
+
+MÍNIMO MÁXIMO
+
+I. a X. [...]
+
+XI EN MATERIA DE SALUD
+
+(NOTA: EL 5 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 107/2023, DECLARÓ LA INVALIDEZ DEL INCISO j) DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+j) POR NO UTILIZAR EL CUBRE BOCAS EN
+
+LUGARES PÚBLICOS MIENTRAS EXISTA
+
+RIESGO DE CONTAGIO DURANTE LA
+
+PANDEMIA O CUALQUIER OTRA
+
+ENFERMEDAD QUE CAUSE UN GRAVE
+
+PELIGRO A LA POBLACIÓN. 5 a 5.30
+
+XII. [...]
+
+[...]
