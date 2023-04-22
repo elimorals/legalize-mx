@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2023-03-18"
+last_updated: "2023-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2023.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -2047,9 +2047,9 @@ Artículo 71
 
 3.- La Contraloría General contará con la estructura orgánica, personal y recursos de acuerdo con la disponibilidad presupuestaria del Instituto Estatal.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2023)</small>
 
-4.- La Contraloría General mantendrá la coordinación necesaria con el Órgano Superior de Fiscalización del Estado de Oaxaca, así como los órganos que integran el Sistema Estatal de Combate a la Corrupción, con la finalidad de cumplir sus funciones.
+4.- La Secretaría de Honestidad, Transparencia y Función Pública mantendrá la coordinación necesaria con la Auditoría Superior de Fiscalización del Estado de Oaxaca, así como los órganos que integran el Sistema Estatal de Combate a la Corrupción, con la finalidad de cumplir sus funciones.
 
 5.- En su desempeño la Contraloría General se sujetará a los principios de imparcialidad, máxima publicidad, independencia, legalidad, objetividad, certeza, honestidad, exhaustividad y transparencia.
 
@@ -6366,3 +6366,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan sin efecto las disposiciones de igual o menor rango que contravengan el contenido del presente Decreto.
+
+P.O. 22 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1226.- MEDIANTE EL CUAL REFORMA EL NUMERAL 4 DEL ARTÍCULO 71 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA; REFORMA EL ARTÍCULO 15 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
