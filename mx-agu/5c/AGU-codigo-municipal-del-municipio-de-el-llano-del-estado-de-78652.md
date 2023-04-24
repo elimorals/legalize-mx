@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-del-municipio-de-el-llano-del-estado-de-78652"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-01-17"
-last_updated: "2023-04-10"
+last_updated: "2023-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DEL MUNICIPIO DE EL LLANO DEL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ABRIL DE 2023 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO MUNICIPAL DE EL LLANO DEL ESTADO DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE ABRIL DE 2023.]</small>
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de enero de 2011.
 
@@ -9749,43 +9749,11 @@ La función del Cuerpo de Bomberos y de Protección Civil, es la de prevenir y c
 
 La Dirección establecerá las normas a que se sujetará el personal de sus Corporaciones de Seguridad para el uso de uniformes, insignias, divisas, armas y equipo, en concordancia con la Ley General de Seguridad Pública y la Ley del Sistema Estatal de Seguridad Pública para el Estado de Aguascalientes.
 
+> <small>(F. DE E., P.O. 24 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 1068.
 
-Los grados jerárquicos se ceñirán a las siguientes disposiciones:
-
-I. Comisarios:
-
-A. Comisario General;
-
-B. Comisario Jefe, y
-
-C. Comisario;
-
-II. Inspectores:
-
-A. Inspector General;
-
-B. Inspector Jefe, e
-
-C. Inspector;
-
-III. Oficiales:
-
-A. Subinspector;
-
-B. Oficial, y
-
-C. Suboficial;
-
-IV. Escala Básica:
-
-A. Policía Primero;
-
-B. Policía Segundo;
-
-C. Policía Tercero, y
-
-D. Policía.
+Los grados jerárquicos se ceñirán a lo dispuesto por el Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags.
 
 ###### ARTÍCULO 1069.
 
@@ -10497,17 +10465,17 @@ Las cartas laudatorias se entregarán por una actividad especifica que haya cont
 
 Los elementos del cuerpo de Seguridad Pública del Ayuntamiento, estarán sujetos a un régimen especial, de carácter meramente administrativo.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2023)</small>
+> <small>(F. DE E., P.O. 24 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 1141.
 
-Para efectos de las relaciones de los elementos del cuerpo de Seguridad Pública con el Ayuntamiento, se atenderá a lo dispuesto por la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes, el presente Código el Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags. y las demás disposiciones jurídicas aplicables.
+Para efectos de las relaciones de los elementos del cuerpo de Seguridad Pública con el Ayuntamiento, se atenderá a lo dispuesto por la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes, el presente Código, el Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags., y las demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2023)</small>
+> <small>(F. DE E., P.O. 24 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 1142.
 
-La imposición de las sanciones por la comisión de faltas o infracciones establecidos en el Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags., y lo conducente en el presente Código, y demás disposiciones, leyes y reglamentos aplicables por elementos del cuerpo de Seguridad Pública corresponderá al organismo denominado Comisión de Honor y Justicia.
+La imposición de las sanciones por la comisión de faltas o infracciones establecidos en el Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags., y lo conducente en el presente Código, y demás disposiciones, leyes y reglamentos aplicables por elementos del Cuerpo de Seguridad Pública corresponderá al organismo denominado Comisión de Honor y Justicia.
 
 ###### ARTÍCULO 1143.
 
@@ -10561,9 +10529,9 @@ II. Combatir con energía las conductas lesivas para la comunidad o la corporaci
 
 III. Recibir de los ciudadanos o de los superiores jerárquicos las denuncias que se presenten en contra de los elementos operativos y analizarlas a efecto de determinar las sanciones correspondientes;
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+> <small>(F. DE E., P.O. 24 DE ABRIL DE 2023)</small>
 
-IV. Conocer y resolver conforme al presente Código, Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags., y demás disposiciones, leyes y reglamentos aplicables sobre los correctivos disciplinarios que impongan los superiores jerárquicos a los elementos operativos, por las faltas en que incurren a los principios de actuación y las obligaciones previstos en la Ley, (sic) Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags., y lo conducente en el presente Código, y demás disposiciones, leyes y reglamentos aplicables;
+IV. Conocer y resolver conforme al presente Código, Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags., y demás disposiciones, leyes y reglamentos aplicables sobre los correctivos disciplinarios que impongan los superiores jerárquicos a los elementos operativos, por las faltas en que incurren a los principios de actuación y las obligaciones previstos en la Ley, el Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags., y lo conducente en el presente Código, y demás disposiciones, leyes y reglamentos aplicables;
 
 V. Resolver sobre la suspensión temporal, los cambios de adscripción, la pérdida de grado y la destitución de los elementos operativos;
 
@@ -10573,9 +10541,9 @@ VII. Examinar los expedientes u hojas de servicio de los elementos operativos y 
 
 VIII. Resolver en conciencia, justicia y equidad, las denuncias interpuestas en contra de los elementos operativos, mediante la mayoría simple de la votación de los asistentes a la sesión;
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+> <small>(F. DE E., P.O. 24 DE ABRIL DE 2023)</small>
 
-IX. Dictaminar sobre las sanciones que procedan, conforme lo establecido para tal efecto en la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes, (sic) Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags., y lo conducente en el presente Código, y demás disposiciones, leyes y reglamentos aplicables;
+IX. Dictaminar sobre las sanciones que procedan, conforme lo establecido para tal efecto en la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes, el Reglamento del Servicio Profesional de Carrera Policial del Municipio de El Llano, Ags., y lo conducente en el presente Código, y demás disposiciones, leyes y reglamentos aplicables;
 
 X. Acordar las notas que hayan de ponerse en el expediente personal de servicio del elemento operativo;
 
