@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2022-02-28"
+last_updated: "2023-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE CALVILLO, AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2023.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -2653,31 +2655,29 @@ e). Departamento de Ejecución, Apremios e Inspección Fiscal.
 
 f).- Departamento de Recaudación de la Propiedad Raíz.
 
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE ABRIL DE 2023)</small>
 
 III. ÓRGANO INTERNO DE CONTROL
 
-A) DEPARTAMENTO ADMINISTRATIVO
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2023)</small>
 
-> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 2018)</small>
+A) DEPARTAMENTO INTERNO DE CONTROL
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE ABRIL DE 2023)</small>
 
 B) DIRECCIÓN DE INVESTIGACIÓN
 
-> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE ABRIL DE 2023)</small>
 
 I. Departamento de Auditoría de Obra Pública
 
-> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE ABRIL DE 2023)</small>
 
-II. Departamento de Auditoría Financiera.
+II. Departamento de Auditoría Financiera
 
-> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE ABRIL DE 2023)</small>
 
-II (SIC). Departamento de Calificación y Asesoría Jurídica.
-
-> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 2018)</small>
-
-C) DIRECCIÓN SUBSTANCIADORA y RESOLUTORA
+C) DIRECCIÓN SUBSTANCIADORA Y RESOLUTORA
 
 I. Departamento de Acuerdos.
 
@@ -2803,9 +2803,7 @@ e).(SIC) Departamento de Desarrollo Agropecuario y
 
 f). Departamento de Proyectos Productivos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE NOVIEMBRE DE 2021)</small>
-
-7). Departamento de Atención al Migrante
+7). (DEROGADO, P.O. 24 DE ABRIL DE 2023)
 
 IX. (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
 
@@ -2940,6 +2938,12 @@ XIX.- Instituto de la Mujer
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
 XX.- Instituto del Deporte.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SU INCISO], P.O. 24 DE ABRIL DE 2023)</small>
+
+XXI. Instituto Municipal del Migrante.
+
+a) Atención al migrante.
 
 ###### Artículo 312.
 
@@ -4330,6 +4334,24 @@ I.- Fomentar e incentivar y desarrollar actividades educativas y de difusión de
 II.- Aumentar la captación de los recursos provenientes de la actividad cultural, destinándolos a la conservación, ampliación y mejoramiento de las instalaciones, eventos y fomento de la cultura Calvillense;
 
 III.- Promover regional, nacional e internacionalmente la cultura y el arte, a través de los diversos eventos, festivales, exposiciones y demostraciones culturales;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ABRIL DE 2023)</small>
+
+Artículo 340 QUÁTER.- Corresponde al Instituto Municipal del Migrante:
+
+I. Brindar, asesoría jurídica y administrativa a las personas migrantes y sus familias del municipio de Calvillo, Ags.;
+
+II. Promover y procurar los derechos humanos de las personas migrantes y sus familias del municipio de Calvillo, Ags.;
+
+III. Establecer vínculos con organizaciones de la Sociedad Civil que tengan como objetivo atender el fenómeno migratorio en el municipio de Calvillo, Ags.;
+
+IV. Difusión entre la población del municipio de Calvillo, Ags., de los servicios que se presten en materia migratoria;
+
+V. Fomentar el desarrollo de programas culturales, económicos, de salud, de educación y sociales para las personas migrantes y sus familias en coordinación con las autoridades competentes de nivel estatal y/o federal;
+
+VI. Celebrar convenios de coordinación con las autoridades estatales y/o federales a fin de promover políticas públicas de atención, apoyo y protección a las personas migrantes y sus familias del municipio de Calvillo, Ags.;
+
+VII. Las demás que establezcan otras disposiciones legales y reglamentarias.
 
 ## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL Y DESCONCENTRADA
 
@@ -25050,3 +25072,13 @@ Artículo Tercero.- Publíquese el presente Decreto en el Periódico Oficial del
 Artículo Cuarto.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Quinto.- Cúmplase.
+
+P.O. 24 DE ABRIL DE 2023.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- El presente acuerdo surte sus efectos retroactivamente a partir del día 16 de abril del 2023 para efectos administrativos.
+
+Artículo Cuarto.- Cúmplase.
