@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2022-12-16"
+last_updated: "2023-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE ABRIL DE 2023.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1105,7 +1105,9 @@ V. El día en que se libró la orden de aprehensión, comparecencia, reaprehensi
 
 VI. Los demás señalados en el Código Nacional de Procedimientos Penales.
 
-En los casos de delitos contra la libertad sexual y el normal desarrollo psicosexual recaídos en agravio de menores de edad, el término para la prescripción no comenzará a contar hasta en tanto no cumplan estos su mayoría de edad, siempre y cuando en este tiempo no se hubiese presentado la querella o denuncia correspondiente.
+> <small>(REFORMADO, B.O. 24 DE ABRIL DE 2023)</small>
+
+No prescribirá la acción penal de los delitos contra la libertad sexual y el normal desarrollo psicosexual recaídos en agravio de menores de edad y de personas que no tienen capacidad para comprender el hecho o que no tienen la capacidad para resistirlo.
 
 Cuando se trate de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, correrá a partir del momento en que se tenga noticia de la comisión de esos delitos ante el Ministerio Público.
 
@@ -2279,7 +2281,9 @@ I.- Cuando sea cometido por y contra quienes tenga una relación de parentesco c
 
 II.- Cuando se trate de las hipótesis previstas en el artículo 225 de este código; y
 
-III.- Cuando se trate de las hipótesis previstas en el inciso a), h) y j) de la fracción I e incisos a), b), c), d), e) de la fracción II del artículo 228 de este código.
+> <small>(REFORMADA, B.O. 24 DE ABRIL DE 2023)</small>
+
+III.- Cuando se trate de las hipótesis previstas en los inciso (sic) h) y j) de la fracción I e incisos b), c), d) y e) de la fracción II del artículo 228 de este Código.
 
 > <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
 
@@ -4746,3 +4750,17 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto y que se encuentren en trámite o pendientes de resolución, por las disposiciones previstas en el artículo 369 del Código Penal para el Estado Libre y Soberano de Baja California Sur que se adiciona respectivamente, se seguirán substanciando hasta su conclusión con esa disposición vigente y demás relativas y aplicables al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 24 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2910 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 112 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 24 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2912 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 227 QUINQUIES FRACCIÓN III DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTICULO ÚNICO.
+
+El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
