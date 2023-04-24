@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2023-04-20"
+last_updated: "2023-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "GUA"
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE ABRIL DE 2023.]</small>
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -85,9 +87,9 @@ En caso de haberse cubierto la reparación del daño no habrá lugar a la devolu
 
 La ley penal será aplicable a nacionales y extranjeros, con las excepciones que sobre inmunidades establezcan las leyes.
 
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
+(REFORMADO, P.O. 14 DE ABRIL DE 2023) (F. DE E., P.O. 24 DE ABRIL DE 2023)
 
-Este Código se aplicará a las personas a partir de los dieciocho años que cometan una conducta tipificada como delito.
+Este Código se aplicará a las personas a partir de los dieciocho años de edad que cometan una conducta tipificada como delito.
 
 > <small>(DEROGADO PÁRRAFO TERCERO, P.O. 14 DE ABRIL DE 2023)</small>
 
