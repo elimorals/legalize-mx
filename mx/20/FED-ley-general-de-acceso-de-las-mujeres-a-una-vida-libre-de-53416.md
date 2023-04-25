@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2023-04-18"
+last_updated: "2023-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-01-31"
 
 LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -62,6 +62,10 @@ La Federación, las entidades federativas, las demarcaciones territoriales de la
 > <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
 La Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios deberán instrumentar las medidas presupuestales y administrativas necesarias y suficientes de carácter extraordinario para hacer frente a la Alerta de Violencia de Género contra las mujeres.
+
+> <small>(ADICIONADO, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+La Federación y las entidades federativas deberán contar con fiscalías especializadas para atender los delitos contra las mujeres y Centros de Justicia para las Mujeres.
 
 ###### ARTÍCULO 3.
 
@@ -295,9 +299,11 @@ III. El establecimiento de un banco de datos sobre las órdenes de protección y
 
 ### CAPÍTULO IV. DE LA VIOLENCIA INSTITUCIONAL
 
+> <small>(REFORMADO, D.O.F. 25 DE ABRIL DE 2023)</small>
+
 ###### ARTÍCULO 18.
 
-Violencia Institucional: Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+Violencia Institucional: Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen, utilicen estereotipos de género o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
 
 ###### ARTÍCULO 19.
 
@@ -1992,3 +1998,11 @@ D.O.F. 18 DE ABRIL DE 2023.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- La Secretaría de Educación Pública tendrá 180 días hábiles para realizar el estudio, análisis y modificación a los planes de estudios para implementar en estos el derecho de las mujeres, adolescentes y niñas a una vida libre de violencias y la educación con perspectiva de género.
+
+D.O.F. 25 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL FEDERAL, DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA, DE LA LEY GENERAL DE VÍCTIMAS Y DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, EN MATERIA DE INVESTIGACIÓN, SANCIÓN Y REPARACIÓN INTEGRAL DEL DELITO DE FEMINICIDIO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
