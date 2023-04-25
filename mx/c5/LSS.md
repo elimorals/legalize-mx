@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2023-03-24"
+last_updated: "2023-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -2388,9 +2388,9 @@ Las prestaciones sociales institucionales serán proporcionadas mediante program
 
 I. Promoción de la salud, difundiendo los conocimientos necesarios a través de cursos directos, conferencias y campañas de bienestar, cultura y deporte, y del uso de medios masivos de comunicación;
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 25 DE ABRIL DE 2023)</small>
 
-II. Educación higiénica, materno infantil, sanitaria y de primeros auxilios; prevención de enfermedades y accidentes;
+II. Educación higiénica, materno infantil, sanitaria y de primeros auxilios; apoyo a la nutrición de las trabajadoras derechohabientes embarazadas, durante la gestación y a sus hijas e hijos en el periodo neonatal mediante el refuerzo y seguimiento nutricional correspondiente; prevención de enfermedades y accidentes;
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -4801,3 +4801,11 @@ D.O.F. 24 DE MARZO DE 2023.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado deberán tomar en cuenta el presente Decreto, para que sea considerado en el presupuesto de egresos del año próximo inmediato.
+
+D.O.F. 25 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 210 DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE APOYO NUTRICIONAL EN PERIODO DE GESTACIÓN Y PERIODO NEONATAL.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Instituto, con cargo a su presupuesto aprobado, contará con un plazo de ciento ochenta días para adecuar su normatividad interna y para adoptar las medidas administrativas, que le permitan establecer la forma en cómo se dará seguimiento nutricional a los menores y establecer el plazo por el cual se podrá otorgar el apoyo nutricional a las madres embarazadas, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto para el presente ejercicio fiscal.
