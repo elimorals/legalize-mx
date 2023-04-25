@@ -4,7 +4,7 @@ identifier: "FED-ley-sobre-delitos-de-imprenta-2565"
 country: "mx"
 rank: "ley"
 publication_date: "1917-04-12"
-last_updated: "2021-05-20"
+last_updated: "2023-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2565&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1917-04-09"
 ---
 # LEY SOBRE DELITOS DE IMPRENTA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO POR EL QUE SE ABROGA LA LEY SOBRE DELITOS DE IMPRENTA, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 12 DE ABRIL DE 1917; PUBLICADO EN EL D.O.F. DE 25 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY SOBRE DELITOS DE IMPRENTA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2023 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 12 de abril de 1917.
 
@@ -400,3 +402,11 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 25 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY SOBRE DELITOS DE IMPRENTA, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 12 DE ABRIL DE 1917”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión realizará las adecuaciones necesarias al marco jurídico para procurar el pleno reconocimiento de las libertades de expresión y de imprenta.
