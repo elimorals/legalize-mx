@@ -4,7 +4,7 @@ identifier: "LGV"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-01-09"
-last_updated: "2022-04-28"
+last_updated: "2023-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90708&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGV"
 
 LEY GENERAL DE VÍCTIMAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 9 de enero de 2013.
 
@@ -374,17 +374,29 @@ XXXIII. A participar en espacios colectivos donde se proporcione apoyo individua
 
 XXXIV. Toda comparecencia ante el órgano investigador, el juez o tribunal, organismo público de protección de los derechos humanos, o ante cualquiera otra autoridad o perito que requiera la presencia de la Víctima, se considerará justificada para los efectos laborales y escolares, teniendo ella derecho a gozar del total de los emolumentos a que se refiere la Ley Federal del Trabajo;
 
-> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 25 DE ABRIL DE 2023)</small>
 
-XXXV. La protección de las víctimas del delito de secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la Ley, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes, de los intervinientes o colaboradores en un procedimiento penal, así como de las personas o familiares cercanas a todos ellos, se otorgará además de los dispuesto por esta Ley en términos de la legislación aplicable;
+XXXV. La protección de las víctimas del delito de feminicidio, secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la Ley, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes, de los intervinientes o colaboradores en un procedimiento penal, así como de las personas o familiares cercanas a todos ellos, se otorgará además de lo dispuesto por esta Ley en términos de la legislación aplicable.
+
+> <small>(ADICIONADA, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+XXXVI. Acceso universal a la justicia, mediante la asesoría jurídica especializada que el Estado proporcione por sí, a través de convenios con organizaciones de defensa de derechos humanos pertenecientes a la sociedad civil o de instituciones privadas, debidamente especializadas y certificadas en el rubro de la representación y la asesoría en materia penal; el órgano jurisdiccional; el tribunal de enjuiciamiento; el tribunal de alzada y, en su caso, los jueces de ejecución dictarán las medidas conducentes encaminadas a que se materialice este derecho en la respectiva etapa procesal, en todo lugar en que se desarrolle el proceso;
+
+> <small>(ADICIONADA, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+XXXVII. Que se proporcione a las víctimas, ofendidos y sus familiares que así lo requieran, un traductor o intérprete según su nacionalidad, idioma, lengua o condición de discapacidad;
+
+> <small>(ADICIONADA, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+XXXVIII. El Ministerio Público y los órganos jurisdiccionales, de verificar que la víctima u ofendidos no se encuentran en condiciones para rendir su declaración, deberán reconocer su derecho a tener un periodo de espera y estabilización física y psicoemocional;
 
 > <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-XXXVI. Tener acceso ágil, eficaz y transparente a los Recursos de Ayuda y Fondos Estatales en términos de esta Ley, y
+XXXIX. Tener acceso ágil, eficaz y transparente a los Recursos de Ayuda y Fondos Estatales en términos de esta Ley, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], D.O.F. 3 DE ENERO DE 2017)</small>
 
-XXXVII. Los demás señalados por la Constitución, los Tratados Internacionales, esta Ley y cualquier otra disposición en la materia o legislación especial.
+XL. Los demás señalados por la Constitución, los Tratados Internacionales, esta Ley y cualquier otra disposición en la materia o legislación especial.
 
 ### CAPÍTULO II. DE LOS DERECHOS DE AYUDA, ASISTENCIA Y ATENCIÓN
 
@@ -665,6 +677,22 @@ IV. La satisfacción busca reconocer y restablecer la dignidad de las víctimas;
 V. Las medidas de no repetición buscan que el hecho punible o la violación de derechos sufrida por la víctima no vuelva a ocurrir;
 
 VI. Para los efectos de la presente Ley, la reparación colectiva se entenderá como un derecho del que son titulares los grupos, comunidades u organizaciones sociales que hayan sido afectadas por la violación de los derechos individuales de los miembros de los colectivos, o cuando el daño comporte un impacto colectivo. La restitución de los derechos afectados estará orientada a la reconstrucción del tejido social y cultural colectivo que reconozca la afectación en la capacidad institucional de garantizar el goce, la protección y la promoción de los derechos en las comunidades, grupos y pueblos afectados.
+
+> <small>(ADICIONADA, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+VII. La declaración que restablezca la dignidad y la reputación de la víctima u ofendido y de las personas vinculadas a ella, a través de los medios que solicite, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+VIII. La disculpa pública de reconocimiento de hechos y aceptación de responsabilidad, cuando en el delito participe un servidor público o agente de autoridad, lo anterior con independencia de otras responsabilidades en que incurra el Estado por la omisión de cumplimiento en la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+Cuando una persona sea declarada penalmente responsable de la comisión del delito de feminicidio, el órgano jurisdiccional de conocimiento deberá condenarla al pago de la reparación integral del daño, a favor de la víctima u ofendidos, en todos los casos.
+
+> <small>(ADICIONADO, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+Cuando sean servidores o agentes estatales los que actúen a título oficial y cometan cualquiera de los delitos materia de esta Ley, las víctimas serán resarcidas por el Estado, conforme a la legislación en materia de responsabilidad patrimonial estatal.
 
 Las medidas colectivas que deberán implementarse tenderán al reconocimiento y dignificación de los sujetos colectivos victimizados; la reconstrucción del proyecto de vida colectivo, y el tejido social y cultural; la recuperación psicosocial de las poblaciones y grupos afectados y la promoción de la reconciliación y la cultura de la protección y promoción de los derechos humanos en las comunidades y colectivos afectados.
 
@@ -1802,15 +1830,21 @@ En los casos de graves violaciones a los derechos humanos o delitos cometidos co
 
 Estos programas también podrán ser creados por la Comisión Ejecutiva a propuesta del Comisionado Ejecutivo cuando del análisis de la información con que se cuente se determine que se requiere la atención especial de determinada situación o grupos de víctimas.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE ABRIL DE 2023)</small>
 
 ###### Artículo 91.
 
-Los diagnósticos nacionales que elabore la Comisión Ejecutiva deberán ser situacionales y focalizados a situaciones específicas que se enfrenten en determinado territorio o que enfrentan ciertos grupos de víctimas tales como niños y niñas, indígenas, migrantes, mujeres, personas con discapacidad, de delitos tales como violencia familiar, sexual, secuestro, homicidios o de determinadas violaciones a derechos humanos tales como desaparición forzada, ejecución arbitraria, tortura, tratos crueles, inhumanos o degradantes, detención arbitraria, entre otros.
+Los diagnósticos nacionales que elabore la Comisión Ejecutiva deberán ser situacionales y focalizados a situaciones específicas que se enfrenten en determinado territorio o que enfrentan ciertos grupos de víctimas tales como niños y niñas, indígenas, migrantes, mujeres, personas con discapacidad, de delitos tales como feminicidio, violencia familiar, sexual, secuestro, homicidios o de determinadas violaciones a derechos humanos tales como desaparición forzada, ejecución arbitraria, tortura, tratos crueles, inhumanos o degradantes, detención arbitraria, entre otros.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 Los diagnósticos servirán de base para crear programas especiales, reorganizar o redireccionar acciones, políticas públicas o leyes que de acuerdo a su naturaleza y competencia llevan a cabo los integrantes del Sistema, así como para canalizar o distribuir los recursos necesarios.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+
 La Comisión Ejecutiva podrá también contar con la asesoría de grupos de expertos en temas específicos, solicitar opiniones de organismos nacionales o internacionales públicos de derechos humanos, instituciones u organizaciones públicas o privadas nacionales o extranjeros con amplia experiencia en cierta problemática relacionada con la atención, asistencia, justicia; verdad y reparación integral a las víctimas. Los recursos destinados para tal efecto deberán ser públicos, monitoreables y de fácil acceso para la sociedad civil.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 Se deberá procurar en todo momento, además de la especialización técnica y científica, el aporte de los grupos de víctimas y organizaciones de base que trabajen directamente con víctimas.
 
@@ -3551,3 +3585,11 @@ Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que 
 Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
 
 Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 25 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL FEDERAL, DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA, DE LA LEY GENERAL DE VÍCTIMAS Y DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, EN MATERIA DE INVESTIGACIÓN, SANCIÓN Y REPARACIÓN INTEGRAL DEL DELITO DE FEMINICIDIO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
