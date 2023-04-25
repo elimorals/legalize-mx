@@ -4,7 +4,7 @@ identifier: "LAGRA"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-26"
-last_updated: "2022-03-08"
+last_updated: "2023-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAGRA"
 
 LEY AGRARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 26 de febrero de 1992.
 
@@ -56,9 +56,11 @@ El Ejecutivo Federal promoverá la coordinación de acciones con los gobiernos d
 
 ## TITULO SEGUNDO. DEL DESARROLLO Y FOMENTO AGROPECUARIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE ABRIL DE 2023)</small>
+
 ###### Artículo 4o.
 
-El Ejecutivo Federal promoverá el desarrollo integral y equitativo del sector rural mediante el fomento de las actividades productivas y de las acciones sociales para elevar el bienestar de la población y su participación en la vida nacional.
+El Ejecutivo Federal promoverá el desarrollo integral y equitativo del sector rural mediante el fomento de las actividades productivas y de las acciones sociales con perspectiva de género, orientadas a elevar el bienestar de la población y su participación en la vida nacional, en condiciones de igualdad y paridad.
 
 Las organizaciones de productores podrán elaborar propuestas de políticas de desarrollo y fomento al campo, las cuales serán concertadas con el Ejecutivo Federal para su aplicación.
 
@@ -282,9 +284,13 @@ Cuando exista inconformidad sobre cualesquiera de los acuerdos asentados en el a
 
 Cuando se trate de la asamblea que discuta los asuntos establecidos en las fracciones VII a XIV del artículo 23 de esta ley, el acta deberá ser pasada ante la fe del fedatario público y firmada por el representante de la Procuraduría Agraria que asistan a la misma e inscrita en el Registro Agrario Nacional.
 
+> <small>(REFORMADO, D.O.F. 25 DE ABRIL DE 2023)</small>
+
 ###### Artículo 32.
 
-El comisariado ejidal es el órgano encargado de la ejecución de los acuerdos de la asamblea, así como de la representación y gestión administrativa del ejido. Estará constituido por un Presidente, un Secretario y un Tesorero, propietarios y sus respectivos suplentes. Asimismo, contará en su caso con las comisiones y los secretarios auxiliares que señale el reglamento interno. Este habrá de contener la forma y extensión de las funciones de cada miembro del comisariado; si nada dispone, se entenderá que sus integrantes funcionarán conjuntamente.
+El comisariado ejidal es el órgano encargado de la ejecución de los acuerdos de la asamblea, así como de la representación y gestión administrativa del ejido. Estará constituido por una persona titular de la Presidencia, una persona titular de la Secretaría y una persona titular de la Tesorería, propietarias y sus respectivas personas suplentes. Asimismo, contará en su caso con las comisiones y las secretarias y los secretarios auxiliares que señale el reglamento interno. Este habrá de contener la forma y extensión de las funciones de cada integrante del comisariado; si nada dispone, se entenderá que sus integrantes funcionarán conjuntamente.
+
+La integración del comisariado ejidal se realizará en observancia al principio de paridad.
 
 ###### Artículo 33.
 
@@ -320,13 +326,13 @@ III. Convocar a asamblea cuando no lo haga el comisariado; y
 
 IV. Las demás que señalen la ley y el reglamento interno del ejido.
 
+> <small>(REFORMADO, D.O.F. 25 DE ABRIL DE 2023)</small>
+
 ###### Artículo 37.
 
-Los miembros del comisariado y del consejo de vigilancia, así como sus suplentes, serán electos en asamblea. El voto será secreto y el escrutinio público e inmediato. En caso de que la votación se empate, se repetirá ésta y si volviere a empatarse se asignarán los puestos por sorteo entre los individuos que hubiesen obtenido el mismo número de votos.
+Las personas integrantes del comisariado y del consejo de vigilancia, así como sus suplentes, serán electas en asamblea. El voto será secreto y el escrutinio público e inmediato. En caso de que la votación se empate, se repetirá ésta y si volviere a empatarse se asignarán los puestos por sorteo entre las personas que hubiesen obtenido el mismo número de votos.
 
-> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
-
-Las candidaturas a puestos de elección que integran el comisariado ejidal y el consejo de vigilancia, deberán integrarse por no más del sesenta por ciento de candidatos de un mismo género, pudiendo aspirar a cualquiera de los puestos indistintamente. Para las comisiones y secretarios auxiliares con que cuenta el comisariado ejidal, se procurará la integración de las mujeres.
+Las candidaturas a puestos de elección que integran el comisariado ejidal y el consejo de vigilancia, deberán integrarse de manera paritaria, pudiendo aspirar a cualquiera de los puestos indistintamente. Las comisiones y secretarías auxiliares con que cuenta el comisariado ejidal, se integrarán conforme al principio de paridad de género.
 
 ###### Artículo 38.
 
@@ -1693,3 +1699,15 @@ D.O.F. 8 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 17 Y 18 DE LA LEY AGRARIA".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 4o. Y 32 DE LA LEY AGRARIA”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 37 DE LA LEY AGRARIA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
