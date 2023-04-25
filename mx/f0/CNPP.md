@@ -4,7 +4,7 @@ identifier: "CNPP"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-03-05"
-last_updated: "2021-02-19"
+last_updated: "2023-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99314&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CNPP"
 
 CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2023.
 
 Código publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de marzo de 2014.
 
@@ -88,17 +88,21 @@ IX. Ministerio Público: El Ministerio Público de la Federación o al Ministeri
 
 X. Órgano jurisdiccional: El Juez de control, el Tribunal de enjuiciamiento o el Tribunal de alzada ya sea del fuero federal o común;
 
-XI. Policía: Los cuerpos de Policía especializados en la investigación de delitos del fuero federal o del fuero común, así como los cuerpos de seguridad pública de los fueros federal o común, que en el ámbito de sus respectivas competencias actúan todos bajo el mando y la conducción del Ministerio Público para efectos de la investigación, en términos de lo que disponen la Constitución, este Código y demás disposiciones aplicables;
+> <small>(ADICIONADA, D.O.F. 25 DE ABRIL DE 2023)</small>
 
-XII. Procurador: El titular del Ministerio Público de la Federación o del Ministerio Público de las Entidades federativas o los Fiscales Generales en las Entidades federativas;
+XI. Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
 
-XIII. Procuraduría: La Procuraduría General de la República, las Procuradurías Generales de Justicia y Fiscalías Generales de las Entidades federativas;
+XII. Policía: Los cuerpos de Policía especializados en la investigación de delitos del fuero federal o del fuero común, así como los cuerpos de seguridad pública de los fueros federal o común, que en el ámbito de sus respectivas competencias actúan todos bajo el mando y la conducción del Ministerio Público para efectos de la investigación, en términos de lo que disponen la Constitución, este Código y demás disposiciones aplicables;
 
-XIV. Tratados: Los Tratados Internacionales en los que el Estado mexicano sea parte;
+XIII. Procurador: El titular del Ministerio Público de la Federación o del Ministerio Público de las Entidades federativas o los Fiscales Generales en las Entidades federativas;
 
-XV. Tribunal de enjuiciamiento: El Órgano jurisdiccional del fuero federal o del fuero común integrado por uno o tres juzgadores, que interviene después del auto de apertura a juicio oral, hasta el dictado y explicación de sentencia, y
+XIV. Procuraduría: La Procuraduría General de la República, las Procuradurías Generales de Justicia y Fiscalías Generales de las Entidades federativas;
 
-XVI. Tribunal de alzada: El Órgano jurisdiccional integrado por uno o tres magistrados, que resuelve la apelación, federal o de las Entidades federativas.
+XV. Tratados: Los Tratados Internacionales en los que el Estado mexicano sea parte;
+
+XVI. Tribunal de enjuiciamiento: El Órgano jurisdiccional del fuero federal o del fuero común integrado por uno o tres juzgadores, que interviene después del auto de apertura a juicio oral, hasta el dictado y explicación de sentencia, y
+
+XVII. Tribunal de alzada: El Órgano jurisdiccional integrado por uno o tres magistrados, que resuelve la apelación, federal o de las Entidades federativas.
 
 ## TÍTULO II. PRINCIPIOS Y DERECHOS EN EL PROCEDIMIENTO
 
@@ -1214,7 +1218,9 @@ En los procedimientos previstos en este Código, la víctima u ofendido tendrán
 
 I. A ser informado de los derechos que en su favor le reconoce la Constitución;
 
-II. A que el Ministerio Público y sus auxiliares así como el Órgano jurisdiccional les faciliten el acceso a la justicia y les presten los servicios que constitucionalmente tienen encomendados con legalidad, honradez, lealtad, imparcialidad, profesionalismo, eficiencia y eficacia y con la debida diligencia;
+> <small>(REFORMADA, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+II. A que el Ministerio Público y sus auxiliares así como el Órgano jurisdiccional les faciliten el acceso a la justicia y les presten los servicios que constitucionalmente tienen encomendados con legalidad, honradez, lealtad, imparcialidad, profesionalismo, eficiencia, perspectiva de género y eficacia y con la debida diligencia;
 
 III. A contar con información sobre los derechos que en su beneficio existan, como ser atendidos por personal del mismo sexo, o del sexo que la víctima elija, cuando así lo requieran y recibir desde la comisión del delito atención médica y psicológica de urgencia, así como asistencia jurídica a través de un Asesor jurídico;
 
@@ -1526,7 +1532,9 @@ III. Ejercer la conducción y el mando de la investigación de los delitos, para
 
 IV. Ordenar o supervisar, según sea el caso, la aplicación y ejecución de las medidas necesarias para impedir que se pierdan, destruyan o alteren los indicios, una vez que tenga noticia del mismo, así como cerciorarse de que se han seguido las reglas y protocolos para su preservación y procesamiento;
 
-V. Iniciar la investigación correspondiente cuando así proceda y, en su caso, ordenar la recolección de indicios y medios de prueba que deberán servir para sus respectivas resoluciones y las del Órgano jurisdiccional, así como recabar los elementos necesarios que determinen el daño causado por el delito y la cuantificación del mismo para los efectos de su reparación;
+> <small>(REFORMADA, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+V. Iniciar la investigación correspondiente cuando así proceda y, en su caso, ordenar la recolección de indicios y medios de prueba que deberán servir para sus respectivas resoluciones y las del Órgano jurisdiccional, así como recabar los elementos necesarios que determinen el daño causado por el delito y la cuantificación del mismo para los efectos de su reparación. Cuando se trate del delito de feminicidio se deberán aplicar los protocolos previstos para tales efectos;
 
 VI. Ejercer funciones de investigación respecto de los delitos en materias concurrentes, cuando ejerza la facultad de atracción y en los demás casos que las leyes lo establezcan;
 
@@ -1562,7 +1570,13 @@ XXI. Solicitar a la autoridad judicial la imposición de las penas o medidas de 
 
 XXII. Solicitar el pago de la reparación del daño a favor de la víctima u ofendido del delito, sin perjuicio de que éstos lo pudieran solicitar directamente;
 
-XXIII. Actuar en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución, y
+> <small>(REFORMADA, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+XXIII. Actuar en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos reconocidos en la Constitución;
+
+> <small>(ADICIONADA, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+XXIII Bis. Tratándose de delitos por razón de género, se deberá investigar con perspectiva de género, y
 
 XXIV. Las demás que señale este Código y otras disposiciones aplicables.
 
@@ -1572,7 +1586,9 @@ XXIV. Las demás que señale este Código y otras disposiciones aplicables.
 
 Obligaciones del Policía
 
-El Policía actuará bajo la conducción y mando del Ministerio Público en la investigación de los delitos en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+El Policía actuará bajo la conducción y mando del Ministerio Público en la investigación de los delitos en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos reconocidos en la Constitución.
 
 Para los efectos del presente Código, el Policía tendrá las siguientes obligaciones:
 
@@ -1604,9 +1620,21 @@ a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones
 
 b) Informar a la víctima u ofendido sobre los derechos que en su favor se establecen;
 
-c) Procurar que reciban atención médica y psicológica cuando sea necesaria, y
+> <small>(REFORMADO, D.O.F. 25 DE ABRIL DE 2023)</small>
 
-d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica;
+c) Procurar que reciban atención médica y psicológica cuando sea necesaria;
+
+> <small>(REFORMADO, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica, y
+
+> <small>(ADICIONADO, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+e) Tratándose de delitos por razón de género, deberá actuar con perspectiva de género.
+
+> <small>(ADICIONADA, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+XII Bis. Cuando se trate de delitos por motivo de género se deberán aplicar los protocolos previstos para tales efectos;
 
 XIII. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos;
 
@@ -1644,7 +1672,17 @@ IV. Atender oportuna y debidamente las peticiones dirigidas por los sujetos que 
 
 V. Abstenerse de presentar en público al imputado o acusado como culpable si no existiera condena;
 
-VI. Mantener el orden en las salas de audiencias, y
+> <small>(REFORMADA, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+VI. Mantener el orden en las salas de audiencias;
+
+> <small>(ADICIONADA, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+VI Bis. Tratándose de delitos por razón de género, se deberá juzgar con perspectiva de género;
+
+> <small>(ADICIONADA, D.O.F. 25 DE ABRIL DE 2023)</small>
+
+VI Ter. Cuando se trate de delitos por motivo de género se deberán aplicar los protocolos para juzgar con perspectiva de género, y
 
 VII. Los demás establecidos en la Ley Orgánica, en este Código y otras disposiciones aplicables.
 
@@ -6065,3 +6103,11 @@ A las personas que hayan cometido un delito de los contemplados en el presente D
 Cuarto. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
 
 Quinto. La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+
+D.O.F. 25 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL FEDERAL, DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA, DE LA LEY GENERAL DE VÍCTIMAS Y DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, EN MATERIA DE INVESTIGACIÓN, SANCIÓN Y REPARACIÓN INTEGRAL DEL DELITO DE FEMINICIDIO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
