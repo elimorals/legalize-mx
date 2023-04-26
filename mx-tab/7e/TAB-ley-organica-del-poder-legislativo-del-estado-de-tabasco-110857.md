@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-110857
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-12-23"
-last_updated: "2021-07-21"
+last_updated: "2023-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
 
 Ley publicada en el Suplemento D del Periódico Oficial del Estado de Tabasco, el miércoles 23 de diciembre de 2015.
 
@@ -241,9 +241,9 @@ III. Permanecer en las sesiones de Pleno desde su inicio y hasta su conclusión,
 
 En caso de abandonar la sesión sin aviso ni causa justificada, la Presidencia ordenará el descuento de la dieta correspondiente a un día al diputado que incurra en esta falta;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+(REFORMDA, P.O. 26 DE ABRIL DE 2023)
 
-IV. Solicitar por escrito al Presidente respectivo la justificación de sus ausencias, cuando proceda, en las sesiones del Pleno, de la Junta de Coordinación Política o de las sesiones de las comisiones y demás órganos de los que forme parte;
+IV. Solicitar por escrito al Presidente respectivo la justificación de sus ausencias, a las sesiones del Pleno, de la Junta de Coordinación Política o de las sesiones de las comisiones y demás órganos de los que forme parte; por las causas señaladas en el Reglamento;
 
 V. Desempeñar en la Mesa Directiva del Congreso, la Junta de Coordinación o la Comisión Permanente y en las Comisiones, el cargo para el que fuere electo o designado;
 
@@ -289,7 +289,9 @@ El Diputado que se haga acreedor a esta sanción, volverá al ejercicio de su en
 
 El Presidente del Congreso está facultado para conceder licencia a los Diputados para ausentarse, con causa justificada, hasta tres sesiones consecutivas de Pleno. Cuando las faltas excedan de este límite, sólo la asamblea podrá dispensarlas.
 
-Las inasistencias a sesiones de las comisiones, serán justificadas por el Presidente de la Comisión que corresponda, hasta por dos ocasiones consecutivas, debiendo informar de ello al Presidente del Congreso.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+Las inasistencias a sesiones de las comisiones serán justificadas por el Presidente de la Comisión que corresponda, hasta por dos ocasiones consecutivas, debiendo informar de ello al Presidente del Congreso, para estos efectos solo se justificarán cuando se presenten alguna de las causas previstas en el artículo 16 del Reglamento.
 
 Los Diputados que no concurran a sesiones del Pleno o Comisiones, sin causa justificada o sin permiso del Presidente del Congreso o de la comisión de que se trate, perderán el derecho a la dieta correspondiente al día que falten.
 
@@ -1990,3 +1992,11 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 TERCERO. Los asuntos relacionados con las cuentas públicas de los diversos entes fiscalizables que a la entrada en vigor del presente Decreto se encuentren en trámite, deberán ser turnados a la Comisión Ordinaria de Auditoría Gubernamental y Cuenta Pública, para los efectos legales a que haya lugar.
 
 CUARTO. Las referencias o remisiones que se hacen en diversas leyes o reglamentos a las comisiones ordinarias inspectoras de hacienda, primera, segunda y tercera, así como a las de Comunicaciones y Transportes, Tránsito y Vialidad u Ordenamiento Territorial y Obras Públicas, se entenderán en lo sucesivo realizadas a favor de las comisiones a que se refiere el presente Decreto.
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 156 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 23, FRACCIÓN IV Y 27, SEGUNDO PÁRRAFO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
