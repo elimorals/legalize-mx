@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-personal-de-la-consejeria-juridica-13902
 country: "mx"
 rank: "codigo"
 publication_date: "2019-06-26"
-last_updated: "2019-06-26"
+last_updated: "2023-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL PERSONAL DE LA CONSEJERIA JURIDICA DEL PODER EJECUTIVO ESTATAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICION TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA DEL PERSONAL DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO ESTATAL, PUBLICADO EN EL P.O. 26 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL PERSONAL DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO ESTATAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023 (ABROGADO).
 
 Código publicado en el Número 5720 del Periódico Oficial del Estado de Morelos, el miércoles 26 de junio de 2019.
 
@@ -488,3 +490,17 @@ EL CONSEJERO JURÍDICO
 SAMUEL SOTELO SALGADO
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL PERSONAL DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO ESTATAL”.]
+
+PRIMERA. El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Código de Conducta del Personal de la Consejería Jurídica del Poder Ejecutivo Estatal, publicado en el Periódico Oficial “Tierra y Libertad”, número 5720, de fecha 26 de junio de 2019.
+
+TERCERA. El presente instrumento deberá difundirse también en el portal electrónico oficial de la Consejería Jurídica del Poder Ejecutivo Estatal.
+
+CUARTA. Se instruye a la persona titular de la Unidad de Enlace Financiero Administrativo de la Consejería Jurídica Estatal a dar a conocer al personal de dicha dependencia el presente código de conducta. Acción que realizará en lo sucesivo también con respecto al personal que sea de nuevo ingreso.
