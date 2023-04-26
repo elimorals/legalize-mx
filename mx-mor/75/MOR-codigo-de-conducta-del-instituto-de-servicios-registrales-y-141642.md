@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-instituto-de-servicios-registrales-y-141
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-20"
-last_updated: "2019-11-20"
+last_updated: "2023-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO DE SERVICIOS REGISTRALES Y CATASTRALES DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA DEL INSTITUTO DE SERVICIOS REGISTRALES Y CATASTRALES DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 26 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO DE SERVICIOS REGISTRALES Y CATASTRALES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023 (DEROGADO).
 
 Código publicado en el Número 5760 del Periódico Oficial del Estado de Morelos, el miércoles 20 de noviembre de 2019.
 
@@ -350,3 +352,15 @@ Mario Gómez López
 Rúbricas
 
 LA PRESENTE HOJA DE FIRMAS CORRESPONDE AL CÓDIGO DE CONDUCTA DEL INSTITUTO DE SERVICIOS REGISTRALES Y CATASTRALES DEL ESTADO DE MORELOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL INSTITUTO DE SERVICIOS REGISTRALES Y CATASTRALES DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- El presente código de conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA.- Se deroga el Código de Conducta del Instituto de Servicios Registrales y Catastrales del Estado de Morelos publicado el dos (sic) de noviembre de dos mil diecinueve en el Periódico Oficial “Tierra y Libertad”, 5760, así como todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente código de conducta.
+
+TERCERA.- El presente código de conducta fue elaborado por el Comité de Ética del Instituto de Servicios Registrales y Catastrales del Estado de Morelos; revisado por el órgano interno de control; y aprobado por el comité de ética en su primera sesión extraordinaria celebrada el diecisiete de abril de dos mil veintitrés.
