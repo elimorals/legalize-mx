@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2023-04-04"
+last_updated: "2023-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -39,7 +39,7 @@ EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, A NOMBRE DEL PUEBLO DECRETA
 
 DECRETO No. 161
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 58, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2014, CUANDO LAS LEYES, REGLAMENTOS O CUALQUIER ORDENAMIENTO DE OBSERVANCIA GENERAL VIGENTE EN EL ESTADO DE TLAXCALA SE REFIERAN AL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TLAXCALA, SE ENTENDERÁ QUE SE REFIEREN AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL CINCO DE MARZO DE DOS MIL CATORCE, CONFORME A LAS REGLAS DE VIGENCIA ESTABLECIDAS EN EL ARTÍCULO TRANSITORIO ANTERIOR Y A LA DECLARATORIA EXPEDIDA POR EL CONGRESO DEL ESTADO CON FECHA VEINTIDÓS DE OCTUBRE DE DOS MIL CATORCE Y PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE FECHA VEINTITRÉS DE OCTUBRE DEL AÑO EN CURSO.</small>
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 58, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2014, CUANDO LAS LEYES, REGLAMENTOS O CUALQUIER ORDENAMIENTO DE OBSERVANCIA GENERAL VIGENTE EN EL ESTADO DE TLAXCALA SE REFIERAN AL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TLAXCALA, SE ENTENDERÁ QUE SE REFIEREN AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL CINCO DE MARZO DE DOS MIL CATORCE, CONFORME A LAS REGLAS DE VIGENCIA ESTABLECIDAS EN EL ARTÍCULO TRANSITORIO ANTERIOR Y A LA DECLARATORIA EXPEDIDA POR EL CONGRESO DEL ESTADO CON FECHA VEINTIDÓS DE OCTUBRE DE DOS MIL CATORCE Y PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE FECHA VEINTITRÉS DE OCTUBRE DEL AÑO EN CURSO.]</small>
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
@@ -367,9 +367,19 @@ c) Que el consentimiento sea expreso o tácito y no medie algún vicio del conse
 
 Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento.
 
-IV. Legítima defensa: Se repela una agresión real, ilegítima, actual o inminente, protegiendo bienes jurídicos propios o ajenos, de la cual resulte un peligro inmediato, siempre que no haya podido ser fácilmente evitada, exista necesidad racional del medio empleado para repelerla, no mediara provocación suficiente por parte del que se defiende o que el daño que iba a causar el agresor no hubiese podido ser fácilmente reparado después por medios legales.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
+IV. Legítima defensa: Se repele una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa y racionalidad de los medios empleados y no medie provocación suficiente e inmediata por parte de la persona agredida o de quien la defienda de aquella agresión.
+
+Se presumirá que concurren los requisitos de la legítima defensa, respecto de quien cause un daño, lesión o privación de la vida, a quien, a través de la violencia, del escalamiento o por cualquier otro medio trate de ingresar o haya ingresado sin derecho, a su domicilio o sus dependencias, aunque no sea su domicilio habitual; al domicilio de su familia o el de cualquier persona que tenga el mismo deber de cuidar o defender; al sitio donde se encuentren bienes propios o ajenos respecto a los que tenga la misma obligación; a la casa donde se encuentre su familia, su lugar de trabajo o su establecimiento comercial, industrial o de prestación de servicios; o bien, cuando encuentre, en alguno de esos lugares, a la persona que intente ingresar o haya ingresado, en circunstancias tales que revelen la posibilidad de una inminente agresión.
+
+Se presumirá la legítima defensa, salvo prueba en contrario, en los supuestos siguientes:
+
+a) Cuando quien ejerza la legitima defensa, sea una mujer, y al momento de desplegar la conducta, sea víctima o esté en peligro inminente de ser víctima, de violencia física, sexual o feminicida, en términos de la Ley que Garantiza el Acceso a las Mujeres a una Vida Libre de Violencia para el Estado de Tlaxcala, y en esas circunstancias, repele la agresión, e
+
+b) Cuando una persona despliegue la conducta en auxilio de una mujer que, en el momento, sea víctima de violencia física, sexual o feminicida, en términos de la Ley que Garantiza el Acceso a las Mujeres a una Vida Libre de Violencia para el Estado de Tlaxcala, a fin de repeler el acto violento de que se trate.
+
+En los supuestos anteriormente expuestos, tanto el Ministerio Público como el órgano jurisdiccional, según corresponda, deberán actuar con perspectiva de género para determinar la procedencia de la legítima defensa. No será requisito para acreditar la violencia de la que la mujer haya sido víctima, la existencia de denuncia o investigación previa.
 
 V. Estado de necesidad: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
 
@@ -378,6 +388,10 @@ VI. Cumplimiento de un deber o ejercicio de un derecho: La acción o la omisión
 VII. Inimputabilidad y acción libre en su causa: Al momento de realizar el hecho típico, el sujeto activo no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el sujeto hubiese provocado voluntariamente su trastorno mental, en cuyo caso responderá por el resultado típico producido en tal situación;
 
 Cuando la capacidad a que se refiere el párrafo anterior se encuentre considerablemente disminuida, se estará a lo dispuesto en el artículo 66 de este código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE ABRIL DE 2023)</small>
+
+La inimputabilidad del sujeto activo se actualizará también cuando al desplegar la conducta típica, obre influenciado por el miedo de un mal real e inminente encontrándose en un estado de confusión que afecte su capacidad para determinar el límite adecuado de su respuesta o la racionalidad de los medios empleados.
 
 VIII. Error de tipo y error de prohibición: Se realice la acción o la omisión bajo un error invencible, respecto de:
 
@@ -1181,6 +1195,10 @@ Punibilidad en el caso de exceso.
 
 Al que incurra en exceso, en los casos previstos en las fracciones IV, V y VI del artículo 28 de este código, se le impondrá la cuarta parte de las penas o medidas de seguridad, correspondientes al delito de que se trate.
 
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+En caso de actualizarse exceso en la legítima defensa para repeler acciones de violencia física, sexual o feminicida, en términos de la Ley que Garantiza el Acceso a las Mujeres a una Vida Libre de Violencia para el Estado de Tlaxcala, la persona juzgadora podrá imponer tratamiento psicológico a la persona que haya incurrido en el mismo, así como la protección a su familia, en caso necesario.
+
 ### CAPÍTULO VIII. SUSTITUCIÓN DE PENAS
 
 ###### Artículo 90.
@@ -1519,9 +1537,9 @@ La prescripción es personal y extingue la pretensión punitiva y la potestad de
 
 Los delitos de homicidio doloso, feminicidio, violación, secuestro, trata de personas, inducción al suicidio previsto en el artículo 246 Bis, robo previsto en el artículo 328 fracciones I y II de este Código, los cometidos con medios violentos como armas y explosivos; la tentativa punible de los delitos mencionados, son imprescriptibles.
 
-> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
 
-En todos aquellos delitos que impliquen cualquier tipo de violencia sexual cometidos en contra de víctimas que al momento de la comisión del hecho punible hayan sido niñas, niños o adolescentes, la pretensión punitiva y la potestad de ejecutar las penas y las medidas de seguridad, son imprescriptibles.
+En todos aquellos delitos que impliquen cualquier tipo de violencia sexual cometidos en contra de personas en situación de discapacidad que no comprendan el significado del hecho o víctimas que al momento de la comisión del hecho punible hayan sido niñas, niños o adolescentes, la pretensión punitiva y la potestad de ejecutar las penas y las medidas de seguridad, son imprescriptibles.
 
 ###### Artículo 117.
 
@@ -3599,13 +3617,19 @@ La pena se incrementará hasta en una mitad cuando:
 
 I. El delito sea cometido por el cónyuge o por persona con la que esté, o haya estado unida a la víctima por alguna relación de afectividad, aún sin convivencia;
 
-II. Cuando el sujeto activo mantenga una relación laboral, familiar o de amistad con la víctima;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-III. Se cometa contra una persona en situación de vulnerabilidad social o de origen étnico;
+II. Cuando el sujeto activo mantenga una relación laboral, familiar o de amistad con la víctima, y
 
-IV. Se cometa en contra de una persona que por su situación de discapacidad no comprenda el significado del hecho, y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-V. Cuando se cometa contra menores de edad.
+III. Se cometa contra una persona en situación de vulnerabilidad social o de origen (sic)
+
+(sic) étnico.
+
+IV. (DEROGADA, P.O. 26 DE ABRIL DE 2023)
+
+V. (DEROGADA, P.O. 26 DE ABRIL DE 2023)
 
 Este delito se perseguirá por querella, salvo que se trate de personas en situación de discapacidad que no comprendan el significado del hecho o menores de edad.
 
@@ -4407,11 +4431,33 @@ I. El sujeto pasivo tenga una discapacidad, y
 
 II. El sujeto activo utilice contra el menor de edad algún arma, instrumento u objeto punzocortante.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2023)</small>
+
+### CAPÍTULO I TER
+
+PORNOGRAFÍA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+###### Artículo 358 Quáter.
+
+Comete el delito de pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, quien procure, obligue, facilite o induzca, por cualquier medio, a una o varias de estas personas a realizar actos sexuales o de exhibicionismo corporal con fines lascivos o sexuales, reales o simulados, con el objeto de video grabarlos, fotografiarlos, filmarlos, exhibirlos o describirlos a través de anuncios impresos, transmisión de archivos de datos en red pública o privada de telecomunicaciones, sistemas de cómputo, electrónicos o sucedáneos. Al sujeto activo de este delito se le impondrá una pena de siete a doce años de prisión y multa de ochocientas a dos mil veces el valor de la Unidad de Medida y Actualización vigente al momento de la comisión del delito.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+###### Artículo 358 Quinquies.
+
+A quien fije, imprima, video grabe, fotografíe, filme o describa actos de exhibicionismo corporal, lascivos o sexuales, reales o simulados, en que participen una o varias personas menores de dieciocho años de edad o una o varias personas que no tienen capacidad para comprender el significado del hecho o una o varias personas que no tienen capacidad para resistirlo, se le impondrá la pena de siete a doce años de prisión y multa de tres mil a cuatro mil veces el valor de la Unidad de Medida y Actualización vigente al momento de la comisión del delito, con independencia del decomiso y destrucción a que se refiere el artículo 60 de este Código.
+
+La misma pena se impondrá a quien reproduzca, almacene, distribuya, venda, exponga, publicite, importe o exporte el material a que se refiere el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+###### Artículo 358 Sexies.
+
+Quien compre, transmita o arriende el material a que se refieren los artículos anteriores, sin fines de comercialización o distribución se le impondrán de uno a cinco años de prisión y multa de cien a quinientas veces el valor de la Unidad de medida y Actualización vigente al momento de la comisión del delito.
+
 ### CAPÍTULO II. PROVOCACIÓN DE UN DELITO Y APOLOGÍA DE ESTE O DE ALGÚN VICIO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
-
-### CAPÍTULO III. ULTRAJES A LA MORAL PÚBLICA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
@@ -4421,7 +4467,9 @@ Se impondrá de tres a seis meses de prisión y multa de dieciocho a treinta y s
 
 En caso contrario, se impondrá la pena que le corresponda como instigador del delito cometido.
 
-### CAPÍTULO IV. DISPOSICIONES COMUNES
+### CAPÍTULO III. ULTRAJES A LA MORAL PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 360.
 
@@ -4431,9 +4479,7 @@ I. Al que fabrique, produzca o publique libros, escritos, imágenes u otros obje
 
 II. Al que ejecute o haga ejecutar por otro, en público exhibiciones obscenas.
 
-### CAPÍTULO I. DELITOS CONTRA EL ESTADO CIVIL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
+### CAPÍTULO IV. DISPOSICIONES COMUNES
 
 ###### Artículo 361.
 
@@ -4445,7 +4491,7 @@ Las penas que se señalan en este título se aumentarán en una mitad, cuando el
 
 ## TÍTULO DÉCIMO OCTAVO. DELITOS CONTRA LA FILIACIÓN Y LA INSTITUCIÓN DEL MATRIMONIO
 
-### CAPÍTULO II. BIGAMIA
+### CAPÍTULO I. DELITOS CONTRA EL ESTADO CIVIL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
@@ -4483,7 +4529,7 @@ Además de las penas señaladas en el artículo anterior, el autor o los autores
 
 Se impondrá de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro veces el valor de la Unidad de Medida y Actualización, a quién contraiga o autorice matrimonio con conocimiento de la existencia de un impedimento o sin que hayan transcurrido los términos suspensivos para contraer matrimonio que señala la legislación civil.
 
-### CAPÍTULO I. INCUMPLIMIENTO DE LA OBLIGACIÓN ALIMENTARIA
+### CAPÍTULO II. BIGAMIA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
@@ -4501,7 +4547,7 @@ Iguales penas se impondrán a quienes ejerzan la patria potestad o la tutela que
 
 ## TÍTULO DÉCIMO NOVENO. DELITOS CONTRA LA FAMILIA
 
-### CAPÍTULO II. VIOLENCIA FAMILIAR Y DE GÉNERO
+### CAPÍTULO I. INCUMPLIMIENTO DE LA OBLIGACIÓN ALIMENTARIA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
@@ -4533,9 +4579,9 @@ Si la omisión en el cumplimiento de las obligaciones alimentarias, ocurre en de
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JULIO DE 2017)</small>
 
-### CAPÍTULO III. INCESTO
+### CAPÍTULO II. VIOLENCIA FAMILIAR Y DE GÉNERO
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 372.
 
@@ -4569,9 +4615,9 @@ Por violencia contra la mujer, se estará a lo dispuesto en la Ley que Garantiza
 
 En cualquier momento, el Ministerio Público podrá solicitar a la autoridad judicial, la aplicación de medidas de protección para la víctima y esta última resolverá sin dilación.
 
-### CAPÍTULO ÚNICO. DISCRIMINACIÓN
+### CAPÍTULO III. INCESTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 374.
 
@@ -4579,9 +4625,9 @@ La cópula entre ascendientes y descendientes consanguíneos en línea recta o e
 
 ## TÍTULO VIGÉSIMO. DELITOS CONTRA LA DIGNIDAD DE LAS PERSONAS
 
-### CAPÍTULO ÚNICO. VIOLACIÓN A LAS LEYES DE INHUMACIÓN Y EXHUMACIÓN
+### CAPÍTULO ÚNICO. DISCRIMINACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2020)</small>
 
 ###### Artículo 375.
 
@@ -4603,7 +4649,9 @@ Cuando las conductas a que se refiere este artículo sean cometidas en contra de
 
 ## TÍTULO VIGÉSIMO PRIMERO. DELITOS CONTRA EL RESPETO A LOS CADÁVERES O RESTOS HUMANOS
 
-### CAPÍTULO I. RESPONSABILIDAD PROFESIONAL Y TÉCNICA
+### CAPÍTULO ÚNICO. VIOLACIÓN A LAS LEYES DE INHUMACIÓN Y EXHUMACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 376.
 
@@ -4629,9 +4677,7 @@ Si los actos de necrofilia consisten en la introducción del miembro viril por v
 
 ## TÍTULO VIGÉSIMO SEGUNDO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESIÓN
 
-### CAPÍTULO II. USURPACIÓN DE PROFESIÓN
-
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
+### CAPÍTULO I. RESPONSABILIDAD PROFESIONAL Y TÉCNICA
 
 ###### Artículo 378.
 
@@ -4641,15 +4687,17 @@ Los profesionistas, artistas o técnicos y sus auxiliares, serán responsables d
 
 Además de las sanciones fijadas para los delitos que resulten consumados, se les impondrá de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro veces el valor de la Unidad de Medida y Actualización, así como suspensión de un mes a dos años en el ejercicio de la profesión o definitiva en caso de reiteración y estarán obligados a la reparación del daño por sus propios actos y los de sus auxiliares, cuando éstos actúen de acuerdo con las instrucciones de aquellos.
 
-### CAPÍTULO III. ABANDONO, NEGACIÓN Y PRÁCTICA INDEBIDA DEL SERVICIO MÉDICO
+### CAPÍTULO II. USURPACIÓN DE PROFESIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 379.
 
 A quien se atribuya el carácter de profesionista u ostente algún posgrado o especialidad, sin haber cursado los estudios para obtener el título o certificación expedida por autoridades u organismos legalmente facultados para ello y ofrezca o desempeñe sus servicios bajo ese carácter, se le impondrá de seis meses a cuatro años de prisión y multa de treinta y seis a doscientas ochenta y ocho veces el valor de la Unidad de Medida y Actualización.
 
-### CAPÍTULO IV. RESPONSABILIDAD DE DIRECTORES, ENCARGADOS, ADMINISTRADORES O EMPLEADOS DE CENTROS DE SALUD Y AGENCIAS FUNERARIAS
+### CAPÍTULO III. ABANDONO, NEGACIÓN Y PRÁCTICA INDEBIDA DEL SERVICIO MÉDICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 380.
 
@@ -4679,9 +4727,7 @@ III. Sin autorización del paciente o de la persona que ante la imposibilidad o 
 
 IV. Practique esterilización con fines de infecundidad, sin la voluntad del paciente o ejerza presión para que éste la admita.
 
-### CAPÍTULO V. PRESCRIPCIÓN O SUMINISTRO DE MEDICINAS NOCIVAS O INAPROPIADAS
-
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
+### CAPÍTULO IV. RESPONSABILIDAD DE DIRECTORES, ENCARGADOS, ADMINISTRADORES O EMPLEADOS DE CENTROS DE SALUD Y AGENCIAS FUNERARIAS
 
 ###### Artículo 383.
 
@@ -4697,7 +4743,7 @@ IV. Retarden o nieguen la entrega de un cadáver, excepto cuando se requiera ord
 
 La misma pena se impondrá a los directores, encargados, administradores o empleados de agencias funerarias que retarden o nieguen indebidamente la entrega de un cadáver.
 
-### CAPÍTULO VI. RESPONSABILIDAD DE LOS DIRECTORES RESPONSABLES DE OBRA O CORRESPONSABLES
+### CAPÍTULO V. PRESCRIPCIÓN O SUMINISTRO DE MEDICINAS NOCIVAS O INAPROPIADAS
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
@@ -4711,7 +4757,9 @@ Al médico o enfermero que prescriba o suministre un medicamento evidentemente i
 
 A los encargados, empleados o dependientes de una farmacia, que al surtir una receta sustituyan la medicina específicamente señalada por otra que ponga en peligro la salud o cause daño o sea evidentemente inapropiada al padecimiento para el que se prescribió, se les impondrán de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro veces el valor de la Unidad de Medida y Actualización.
 
-### CAPÍTULO I. ATAQUES A LAS VÍAS Y MEDIOS DE COMUNICACIÓN Y DE TRANSPORTE
+### CAPÍTULO VI. RESPONSABILIDAD DE LOS DIRECTORES RESPONSABLES DE OBRA O CORRESPONSABLES
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 386.
 
@@ -4719,9 +4767,7 @@ Al Director Responsable de Obra y a quien la ejecute en su nombre que permita de
 
 ## TÍTULO VIGÉSIMO TERCERO. DELITOS CONTRA LA SEGURIDAD DE LAS VÍAS Y MEDIOS DE COMUNICACIÓN Y DE TRANSPORTE
 
-### CAPÍTULO I BIS. DELITOS CONTRA LOS SERVICIOS DE EMERGENCIA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
+### CAPÍTULO I. ATAQUES A LAS VÍAS Y MEDIOS DE COMUNICACIÓN Y DE TRANSPORTE
 
 ###### Artículo 387.
 
@@ -4755,7 +4801,7 @@ Si alguno de los hechos a que se refieren los artículos de este capítulo, se e
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE AGOSTO DE 2020)</small>
 
-### CAPÍTULO II. VIOLACIÓN DE LA COMUNICACIÓN PRIVADA
+### CAPÍTULO I BIS. DELITOS CONTRA LOS SERVICIOS DE EMERGENCIA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
@@ -4779,7 +4825,7 @@ En delitos contra los servicios de emergencia cometidos por adolescentes, se obs
 
 Las conductas señaladas en el presente Capítulo, se perseguirán de oficio.
 
-### CAPÍTULO III. DELITO CONTRA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE
+### CAPÍTULO II. VIOLACIÓN DE LA COMUNICACIÓN PRIVADA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
@@ -4807,7 +4853,7 @@ A quien intervenga comunicaciones privadas sin mandato de autoridad judicial com
 
 A quien revele, divulgue, utilice indebidamente o en perjuicio de otro, información o imágenes obtenidas en una intervención de comunicación privada, se le impondrán de tres a doce años de prisión y multa de doscientas dieciséis a ochocientas sesenta y cuatro veces el valor de la Unidad de Medida y Actualización.
 
-### CAPÍTULO I. FALSIFICACIÓN O ALTERACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO
+### CAPÍTULO III. DELITO CONTRA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
@@ -4829,7 +4875,7 @@ Las penas aplicables a que se refiere el artículo anterior, se aumentarán de u
 
 ## TÍTULO VIGÉSIMO CUARTO. DELITOS CONTRA LA FE PÚBLICA
 
-### CAPÍTULO II. FALSIFICACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
+### CAPÍTULO I. FALSIFICACIÓN O ALTERACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
@@ -4863,7 +4909,7 @@ VII. Utilice indebidamente información confidencial o reservada de la instituci
 
 Si el sujeto activo es empleado o dependiente de la víctima u ofendido, las penas se aumentarán en una mitad.
 
-### CAPÍTULO III. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
+### CAPÍTULO II. FALSIFICACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
@@ -4877,7 +4923,7 @@ II. Use o enajene los objetos falsificados o alterados señalados en la fracció
 
 Las penas se aumentarán en una mitad, cuando el objeto falsificado o alterado sea oficial.
 
-### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
+### CAPÍTULO III. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
@@ -4887,9 +4933,9 @@ A quien elabore o altere sin permiso de la autoridad competente una placa, el en
 
 Las mismas penas se impondrán al que posea, utilice, adquiera o enajene, cualquiera de los objetos a que se refiere el párrafo anterior, con conocimiento de que son falsificados o que fueron obtenidos indebidamente.
 
-### CAPÍTULO I. DELITOS CONTRA EL CONSUMO
+### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 402.
 
@@ -4933,9 +4979,9 @@ Se impondrán de uno a tres años de prisión y multa de setenta y dos a doscien
 
 ## TÍTULO VIGÉSIMO QUINTO. DELITOS CONTRA LA ECONOMÍA PÚBLICA ESTATAL
 
-### CAPÍTULO II. DELITOS CONTRA EL TRABAJO Y LA PREVISIÓN SOCIAL
+### CAPÍTULO I. DELITOS CONTRA EL CONSUMO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 406.
 
@@ -4963,7 +5009,7 @@ I. Al que elabore o comercie con comestibles, bebidas o medicinas de tal modo qu
 
 II. Al que oculte, sustraiga, venda o compre efectos que la autoridad competente haya mandado destruir por ser nocivos a la salud.
 
-### CAPÍTULO ÚNICO. DELITOS CONTRA EL AMBIENTE
+### CAPÍTULO II. DELITOS CONTRA EL TRABAJO Y LA PREVISIÓN SOCIAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
@@ -4995,7 +5041,9 @@ Se impondrá de uno a cinco años de prisión y multa de setenta y dos a trescie
 
 ## TÍTULO VIGÉSIMO SEXTO. DE LOS DELITOS CONTRA EL MEDIO AMBIENTE
 
-### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+### CAPÍTULO ÚNICO. DELITOS CONTRA EL AMBIENTE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 412.
 
@@ -5111,9 +5159,7 @@ Cuando en la comisión de un delito previsto en este capítulo, intervenga un se
 
 ## TÍTULO VIGÉSIMO SÉPTIMO. DE LOS DELITOS CONTRA EL SISTEMA ELECTORAL
 
-### CAPÍTULO ÚNICO. DE LOS DELITOS CONTRA LA VIDA, LA INTEGRIDAD Y LA DIGNIDAD DE LOS ANIMALES
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+### CAPÍTULO ÚNICO. DELITOS ELECTORALES
 
 ###### Artículo 425.
 
@@ -5315,7 +5361,9 @@ IV. Terrorismo previsto en los artículos 134 a 136;
 
 V. Peligro de Contagio contenido en el artículo 302;
 
-VI. Delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho que señalan los artículos 355 a 357;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+VI. Delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho que señalan los artículos 355 a 358 Sexies;
 
 VII. Trata de Personas previsto en el artículo 284;
 
@@ -5348,6 +5396,10 @@ XIX. Daños previstos en los artículos 349 y 350 párrafo segundo.
 ## TÍTULO VIGÉSIMO OCTAVO. DE LOS DELITOS COMETIDOS EN CONTRA DE LOS ANIMALES
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO ÚNICO. DE LOS DELITOS CONTRA LA VIDA, LA INTEGRIDAD Y LA DIGNIDAD DE LOS ANIMALES
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 435.
 
@@ -5800,3 +5852,27 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 218.- SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, DE LA LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO, DE LA LEY DE JUSTICIA PARA ADOLESCENTES Y DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 219.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL Y DE LA LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
