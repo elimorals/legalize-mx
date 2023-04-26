@@ -4,7 +4,7 @@ identifier: "MEX-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-129650
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-07-10"
-last_updated: "2020-11-27"
+last_updated: "2023-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ABRIL DE 2023.
 
 Estatuto publicado en la Sección Cuarta al Número 7 de la Gaceta del Gobierno del Estado de México, el martes 10 de julio de 2018.
 
@@ -401,7 +401,7 @@ XIII. Coordinar la implementación de foros, seminarios, pláticas y eventos que
 
 XIV. Las demás que le confiera la Ley y otras disposiciones legales, reglamentarias y normativas aplicables, y aquellas que le encomiende el Secretario Técnico.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.G. 26 DE ABRIL DE 2023)</small>
 
 ###### Artículo 24.
 
@@ -427,9 +427,13 @@ VII. Substanciar y emitir proyecto de resolución en cualquier procedimiento adm
 
 VIII. Instrumentar las acciones necesarias para dar cumplimiento a lo establecido en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia y en la Ley de Igualdad de Trato y Oportunidades entre Mujeres y Hombres, ambas del Estado de México y demás disposiciones administrativas, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE ABRIL DE 2023)</small>
 
-IX. Las demás que le confiera la Ley y otras disposiciones legales, reglamentarias y normativas aplicables, y aquellas que le encomiende el Secretario Técnico.
+IX. Elaborar las propuestas de recomendaciones no vinculantes que le sean instruidas por el Secretario Técnico, con los insumos remitidos al efecto por los integrantes del Comité Coordinador, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 26 DE ABRIL DE 2023)</small>
+
+X. Las demás que le confiera la Ley y otras disposiciones legales, reglamentarias y normativas aplicables, y aquellas que le encomiende el Secretario Técnico.
 
 ###### Artículo 25.
 
@@ -572,3 +576,15 @@ TERCERO.- El presente Acuerdo actualiza al Estatuto Orgánico de la Secretaría 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Acuerdo.
 
 QUINTO.- La Secretaría Ejecutiva deberá presentar la propuesta de Manual General de Organización dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Acuerdo.
+
+G.G. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 24 DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA DEL SISTEMA ESTATAL ANTICORRUPCIÓN”.]
+
+PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El presente Acuerdo actualiza al Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, reformando (sic) mediante publicación en el Periódico Oficial “Gaceta del Gobierno” el veintisiete de noviembre de dos mil veinte.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Acuerdo.
