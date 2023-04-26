@@ -4,7 +4,7 @@ identifier: "TLA-ley-que-garantiza-el-acceso-a-las-mujeres-a-una-vida-libre-5803
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-13"
-last_updated: "2020-08-17"
+last_updated: "2023-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el jueves 13 de diciembre de 2007.
 
@@ -163,13 +163,17 @@ La violencia política contra las mujeres en razón de género se sancionará en
 
 VII. Violencia contra los Derechos Reproductivos: Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, así como el acceso a servicios de aborto seguro en el marco previsto por la ley para la interrupción legal del embarazo, a servicios de atención prenatal, así como a servicios obstétricos de emergencia;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-VIII. Violencia cibernética: Toda acción que lesiona, denigra o ponga en riesgo la dignidad, seguridad, libertad e integridad de las mujeres y niñas, mediante el uso de tecnologías de la información y comunicación, redes sociales, páginas web, correos electrónicos, blogs, mensajes de texto, videos, o cualquier otro medio similar, y
+VIII. Violencia cibernética: Toda acción que lesiona, denigra o ponga en riesgo la dignidad, seguridad, libertad e integridad de las mujeres y niñas, mediante el uso de tecnologías de la información y comunicación, redes sociales, páginas web, correos electrónicos, blogs, mensajes de texto, videos, o cualquier otro espacio digital o medio similar;
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+IX. La Violencia Digital Sexual: Toda acción dolosa de connotación sexual que atenta contra la intimidad sexual de las mujeres y niñas, mediante el uso de espacios digitales, plataformas de internet, redes sociales, correo electrónico, o cualquier otro espacio digitalizado, que implique acoso, hostigamiento, amenazas, insultos, extorsión, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos lujuriosos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas, que atenten contra la integridad, la dignidad, la intimidad, la libertad, la vida privada o vulnere algún derecho humano de las mujeres, causando daño psicológico, físico, económico o sexual, tanto en el ámbito privado como en el público, y
 
 > <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
 
-IX. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+X. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 7.
 
@@ -223,7 +227,9 @@ III. El derecho a ser libre;
 
 IV. El derecho a tener seguridad personal;
 
-V. El derecho a ser respetada en los ámbitos tanto sociales, culturales y laborales;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+V. El derecho a ser respetada en espacios digitales, así como en los ámbitos sociales, culturales y laborales;
 
 VI. El derecho a no ser sometida a torturas;
 
@@ -821,6 +827,10 @@ VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las
 
 VIII. La discriminación y vulnerabilidad que viven las mujeres y las niñas por razón de: identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión, o cualquiera otra, que las coloque en una situación de mayor riesgo.
 
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+La autoridad competente determinará, en cada caso, las órdenes de protección que deban otorgarse a las mujeres agredidas que hayan actuado en legítima defensa, como causa de exclusión del delito, para salvaguardar su integridad y seguridad.
+
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
 En materia de violencia política, el Tribunal Electoral de Tlaxcala y el Instituto Tlaxcalteca de Elecciones, podrán solicitar, de oficio o a petición de parte, a las autoridades competentes el otorgamiento de las medidas a que se refiere la presente sección.
@@ -1171,13 +1181,19 @@ IX. Brindar la asesoría que requieran los municipios a fin de suscribir conveni
 
 X. Las demás previstas en esta ley y demás ordenamientos legales.
 
-#### SECCIÓN CUARTA. SUBSECRETARIA DE SEGURIDAD PÚBLICA, PREVENCIÓN Y READAPTACIÓN SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ABRIL DE 2023)</small>
+
+#### SECCIÓN CUARTA. SECRETARÍA DE SEGURIDAD CIUDADANA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2023)</small>
 
 ###### Artículo 61.
 
-Corresponde a la Subsecretaría de Seguridad Pública, Prevención y Readaptación Social:
+Corresponde a la Secretaría de Seguridad Ciudadana por conducto de su área respectiva:
 
-I. Capacitar y sensibilizar al personal de las diferentes instancias policiales para atender con todo profesionalismo los casos de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+I. Capacitar y sensibilizar al personal de las diferentes instancias policiales para cumplir con el Protocolo Único para la Atención Adecuada de la Violencia Digital Sexual, atendiendo profesionalmente todos los casos de violencia contra las mujeres;
 
 II. Tomar medidas y realizar las acciones necesarias en coordinación con las demás autoridades competentes, para alcanzar los objetivos en cuanto a prevención, y erradicación de la violencia contra las mujeres previstas en esta ley;
 
@@ -1229,7 +1245,9 @@ VIII. Crear programas innovadores y de calidad aplicables en todas las diversas 
 
 IX. Presentar las denuncias penales que sean procedentes por ilícitos de los cuales tengan conocimiento y que se relacionen con la violencia contra las mujeres;
 
-X. Notificar en su calidad de garante en materia de violencia contra las mujeres, a la autoridad competente de los casos de violencia contra las niñas y mujeres que ocurran en los centros educativos o que tengan conocimiento;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+X. Notificar en su calidad de garante en materia de violencia contra las mujeres, a la autoridad competente de los casos de cualquier tipo de violencia contra las niñas y mujeres que ocurran en los centros educativos o que tengan conocimiento;
 
 XI. Establecer como requisito de contratación a todo el personal, el no contar con algún antecedente de violencia contra las mujeres;
 
@@ -1307,9 +1325,17 @@ X. Establecer fondos de compensación para las víctimas de la violencia contra 
 
 XI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-XII. Proporcionar semestralmente contención del estrés al personal especializado que atiende a víctimas de violencia contra las mujeres, a efecto de disminuir el impacto de esta, y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-XIII. Las demás que le señale esta ley y demás disposiciones legales aplicables.
+XII. Proporcionar semestralmente contención del estrés al personal especializado que atiende a víctimas de violencia contra las mujeres, a efecto de disminuir el impacto de esta;
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+XIII. Diseñar el Protocolo Único para la Atención Adecuada de la Violencia Digital Sexual en el Estado, que deberá contemplar contextos, modalidades, espacios digitales y demás aspectos necesarios para combatir esta modalidad de violencia, y
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+XIV. Las demás que le señale esta Ley y demás disposiciones legales aplicables.
 
 #### SECCIÓN OCTAVA. INSTITUTO ESTATAL DE LA MUJER
 
@@ -1560,3 +1586,31 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 218.- SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, DE LA LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO, DE LA LEY DE JUSTICIA PARA ADOLESCENTES Y DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del plazo de noventa días naturales posteriores a la entrada en vigor del presente Decreto, la Procuraduría General de Justicia del Estado deberá diseñar el Protocolo Único para la Atención Adecuada de la Violencia Digital Sexual en el Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 219.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL Y DE LA LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
