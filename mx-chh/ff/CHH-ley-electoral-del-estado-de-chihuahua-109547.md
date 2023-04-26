@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-109547"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-22"
-last_updated: "2022-04-06"
+last_updated: "2023-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de agosto de 2015.
 
@@ -5877,11 +5877,9 @@ Artículo 272 i
 
 2) El Órgano Interno de Control tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de las y los servidores públicos del Instituto, así como de particulares a quienes se les vincule con faltas graves; revisar el ingreso, egreso, manejo, custodia y aplicación de los recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante las autoridades correspondientes; tendrá además a su cargo la fiscalización de los ingresos y egresos del Instituto.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0513/2019 I P.O., POR EL QUE SE ADICIONA EL PÁRRAFO SEGUNDO DEL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE ABRIL DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2020)</small>
-
-CUANDO EN EL EJERCICIO DE SUS ATRIBUCIONES SE VINCULE A PARTICULARES, Y ESTOS RESULTAREN AUTOADSCRIBIRSE COMO INDÍGENAS, DICHO ÓRGANO DEBE GARANTIZAR QUE CUENTEN CON LA ASISTENCIA DE PERSONA DEFENSORA, TRADUCTORA O INTÉRPRETE, SEGÚN CORRESPONDA. TRATÁNDOSE DE LAS DOS ÚLTIMAS, PODRÁ RECURRIR AL APOYO DEL CENTRO DE PERSONAS TRADUCTORAS E INTÉRPRETES A QUE SE REFIERE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO.
+Cuando en el ejercicio de sus atribuciones, se vincule a particulares, y estos resultaren autoadscribirse como indígenas, dicho órgano debe garantizar que cuenten con la asistencia de personas defensoras, traductoras o intérpretes, según corresponda. Tratándose de las dos últimas, podrá recurrir al apoyo del Centro de Personas Traductoras e Intérpretes a que se refiere la Ley Orgánica del Poder Judicial del Estado de Chihuahua.
 
 3) La persona titular del Órgano Interno de Control será designada por el Congreso del Estado, con el voto de al menos las dos terceras partes de las y los diputados presentes, mediante el procedimiento y plazos que determine la Ley Orgánica del Poder Legislativo del Estado. La persona electa rendirá la protesta de ley ante el Consejo Estatal.
 
@@ -9158,3 +9156,23 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Las Magistraturas del Tribunal Estatal Electoral que actualmente se encuentran en funciones, seguirán en el cargo hasta la conclusión del periodo para el que fueron nombradas.
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFCNT/0509/2023 VI P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA, LEY ORGÁNICA DEL PODER EJECUTIVO, LEY ORGÁNICA DEL PODER JUDICIAL, LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS Y LEY ELECTORAL, TODAS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma constitucional.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En cumplimiento del Principio de Progresividad que impera en materia de Derechos Humanos, anualmente se incorporarán en los Presupuestos de Egresos para los ejercicios fiscales subsecuentes, las partidas económicas que permitan la mejora continua del Centro de Personas Traductoras e Intérpretes, hasta lograr su consolidación.
+
+###### ARTÍCULO CUARTO.
+
+En relación con el artículo 177 Ter, el establecimiento de los Centros Regionales de Personas Traductoras e Intérpretes atenderá a la suficiencia y justificación presupuestal que el Poder Judicial del Estado de Chihuahua establezca.
