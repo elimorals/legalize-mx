@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2023-01-30"
+last_updated: "2023-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -1425,6 +1425,10 @@ I. Vigilar la observancia de los principios de constitucionalidad y legalidad en
 
 II. La investigación y la persecución, ante los tribunales, de todos los delitos del orden local; y por lo mismo, a él le corresponderá solicitar las órdenes de aprehensión contra los imputados; buscar y presentar las pruebas que acrediten los elementos del tipo penal y la responsabilidad de los imputados;
 
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+Para garantizar el derecho de acceso a la justicia a las personas pertenecientes a los pueblos y comunidades indígenas, la Fiscalía General del Estado, en el ejercicio de las atribuciones antes señaladas, proveerá lo necesario para que aquellas cuenten, en toda actuación que les involucre, con la asistencia de personas traductoras e intérpretes debidamente certificadas, y de resultar indispensable, la celebración de convenios de colaboración o coordinación con las instancias competentes.
+
 III. Hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita y pedir la aplicación de las penas impuestas por los tribunales;
 
 IV. Intervenir en los juicios y diligencias que se relacionen con ausentes, menores, incapacitados o establecimientos de beneficencia pública, a los que representará siempre que no tuvieren quien los patrocine, velando por sus intereses;
@@ -1735,11 +1739,9 @@ IX. Proporcionar asesoría jurídica y legal, así como representación legal en
 
 X. Establecer un mecanismo de concurrencia y seguimiento para el correcto manejo de los fondos autorizados a los programas y proyectos institucionales que se aplican en los pueblos y comunidades indígenas.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0513/2019 I P.O., POR EL QUE SE REFORMA LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2020)</small>
-
-XI. CELEBRAR CONVENIOS TANTO CON EL PODER JUDICIAL DEL ESTADO, COMO CON EL DE LA FEDERACIÓN Y SUS RESPECTIVOS CONSEJOS DE LA JUDICATURA, PARA COADYUVAR EN LOS PROCESOS DE CAPACITACIÓN EN MATERIA DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS, A QUIENES FORMEN PARTE DE LA DEFENSORÍA PÚBLICA, ASÍ COMO A LAS PERSONAS TRADUCTORAS E INTÉRPRETES, SEGÚN CORRESPONDA, QUE INTEGREN LA INSTANCIA ESPECIALIZADA CORRESPONDIENTE.
+XI. Celebrar convenios tanto con el Poder Judicial del Estado como con el de la Federación, y sus respectivos Consejos de la Judicatura, para coadyuvar en los procesos de capacitación, en materia de derechos y cultura de los pueblos y comunidades indígenas, a quienes formen parte de la Defensoría Pública, así como a las personas traductoras e intérpretes que integren la instancia especializada correspondiente.
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -3782,3 +3784,23 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
 El titular de la Secretaría de Seguridad tendrá la facultad de rotar los mandos y mandos medios según lo considere necesario para el cumplimiento del objeto de la presente Ley.
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFCNT/0509/2023 VI P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA, LEY ORGÁNICA DEL PODER EJECUTIVO, LEY ORGÁNICA DEL PODER JUDICIAL, LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS Y LEY ELECTORAL, TODAS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma constitucional.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En cumplimiento del Principio de Progresividad que impera en materia de Derechos Humanos, anualmente se incorporarán en los Presupuestos de Egresos para los ejercicios fiscales subsecuentes, las partidas económicas que permitan la mejora continua del Centro de Personas Traductoras e Intérpretes, hasta lograr su consolidación.
+
+###### ARTÍCULO CUARTO.
+
+En relación con el artículo 177 Ter, el establecimiento de los Centros Regionales de Personas Traductoras e Intérpretes atenderá a la suficiencia y justificación presupuestal que el Poder Judicial del Estado de Chihuahua establezca.
