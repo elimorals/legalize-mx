@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-desarrollo-139019"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-06-26"
-last_updated: "2019-06-26"
+last_updated: "2023-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE DESARROLLO SUSTENTABLE DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO SUSTENTABLE, PUBLICADO EN EL P.O. DE 26 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO SUSTENTABLE DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023 (ABROGADO).
 
 Código publicado en el Número 5720 del Periódico Oficial del Estado de Morelos, el miércoles 26 de junio de 2019.
 
@@ -416,3 +418,13 @@ EL SECRETARIO DE DESARROLLO SUSTENTABLE
 CONSTANTINO MALDONADO KRINIS
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO SUSTENTABLE”.]
+
+PRIMERA.- Se abroga el anterior Código de Conducta de la Secretaria de Desarrollo Sustentable de fecha veintiséis de junio de dos mil diecinueve, y se emite el presente código, el cual entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” órgano de difusión del estado de Morelos.
+
+SEGUNDA.- Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente código.
