@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-para-la-igualdad-de-genero-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-02"
-last_updated: "2020-06-29"
+last_updated: "2023-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
 
 Ley publicada en la Segunda Sección al Número 309 del Periódico Oficial del Estado de Chiapas, el miércoles 2 de agosto de 2017.
 
@@ -689,7 +689,9 @@ Los tipos de violencia contra las mujeres son:
 
 I. Violencia psicológica.- Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio.
 
-II. Violencia física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de sustancia, arma u objeto que pueda provocar o no lesiones, ya sean internas, externas, o ambas.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+II. La violencia física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma, objeto, ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra sustancia que, en determinadas condiciones, pueda provocar o no lesiones ya sean internas, externas, o ambas.
 
 III. Violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de los bienes de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes, valores, derechos patrimoniales destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima.
 
@@ -1658,3 +1660,11 @@ P.O. 29 DE JUNIO DE 2020.
 Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 179 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 49 DE LA LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
