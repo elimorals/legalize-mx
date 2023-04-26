@@ -4,7 +4,7 @@ identifier: "MOR-codigo-conducta-del-colegio-de-estudios-cientificos-y-139446"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-21"
-last_updated: "2019-08-21"
+last_updated: "2023-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO CONDUCTA DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 26 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023 (DEROGADO).
 
 Código publicado en el Número 5736 del Periódico Oficial del Estado de Morelos, el miércoles 21 de agosto de 2019.
 
@@ -252,3 +254,13 @@ D.D.E. SUSANA DOMÍNGUEZ IZAGUIRRE
 DIRECTORA GENERAL DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MORELOS
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MORELOS".]
+
+PRIMERA. El presente Código de Conducta del Colegio de Estudios Científicos y Tecnológicos del Estado de Morelos, entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente código, incluyendo el código de conducta del colegio, publicado en el Periódico Oficial “Tierra y Libertad” número 5736 de fecha 21 de agosto de 2019.
