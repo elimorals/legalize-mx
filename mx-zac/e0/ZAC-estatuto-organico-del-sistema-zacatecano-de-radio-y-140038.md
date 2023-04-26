@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-sistema-zacatecano-de-radio-y-140038"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-12-18"
-last_updated: "2019-12-18"
+last_updated: "2023-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 ESTATUTO ORGÁNICO DEL SISTEMA ZACATECANO DE RADIO Y TELEVISIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
 
 Estatuto publicado en el Suplemento 2 al Número 101 del Periódico Oficial del Estado de Zacatecas, el miércoles 18 de diciembre de 2019.
 
@@ -333,7 +333,9 @@ Para ser designado como Director General, se requiere reunir los requisitos esta
 
 Además de las atribuciones establecidas en la Ley y el Decreto, son funciones del Director General, las siguientes:
 
-I. Representar legalmente al SIZART en los asuntos que tenga interés jurídico ante las instituciones y los particulares;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+I. Representar legalmente al SIZART en los asuntos que tenga interés jurídico ante las instituciones y los particulares, con facultades para pleitos, cobranzas y actos de administración en todos los niveles de gobierno.
 
 II. Vigilar la ejecución de los acuerdos que se emitan por la Junta de Gobierno y aquéllas que normen el funcionamiento del SIZART;
 
@@ -722,3 +724,11 @@ SEGUNDO. Se derogan todas las disposiciones administrativas que contravengan el 
 TERCERO. Dentro del término de 30 días naturales, se expedirá el Manual de Organización y de 180 días naturales para el Manual de Procedimientos, contando a partir de la entrada en vigor del presente Estatuto Orgánico.
 
 EL PRESENTE ESTATUTO ORGÁNICO FUE APROBADO POR LA JUNTA DE GOBIERNO DEL SISTEMA ZACATECANO DE RADIO Y TELEVISIÓN, EN SESIÓN EXTRAORDINARIA CELEBRADA EN LA CIUDAD DE ZACATECAS, CAPITAL DEL ESTADO DEL MISMO NOMBRE, A LOS 07 DÍAS DEL MES DE OCTUBRE DEL AÑO 2019.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO.- MEDIANTE EL CUAL SE REFORMA EL ESTATUTO ORGÁNICO DEL SISTEMA ZACATECANO DE RADIO Y TELEVISIÓN”.]
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 4°. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE ZACATECAS.]</small>
