@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-la-contraloria-del-13700
 country: "mx"
 rank: "codigo"
 publication_date: "2019-06-19"
-last_updated: "2019-06-19"
+last_updated: "2023-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE LA CONTRALORIA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA PARA EL PERSONAL DE LA SECRETARÍA DE LA CONTRALORÍA DEL PODER EJECUTIVO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 26 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE LA CONTRALORÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023 (ABROGADO).
 
 Código publicado en el Número 5716 del Periódico Oficial del Estado de Morelos, el miércoles 19 de junio de 2019.
 
@@ -254,3 +256,19 @@ EL SECRETARIO DE LA CONTRALORÍA
 CÉSAR SANTANA NAVA
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA PARA EL PERSONAL DE LA SECRETARÍA DE LA CONTRALORÍA DEL PODER EJECUTIVO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. El presente código de conducta entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el código de conducta de la Secretaría de la Contraloría publicado el diecinueve de junio del año dos mil diecinueve en el Periódico Oficial “Tierra y Libertad” número 5716.
+
+TERCERA. Se derogan las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente código.
+
+CUARTA. El presente instrumento deberá difundirse también en el portal oficial de la Secretaría de la Contraloría.
+
+QUINTA. Se instruye a la Unidad de Enlace Financiero Administrativo de la Secretaría de la Contraloría para dar a conocer al personal de las unidades administrativas que conforman esta dependencia, así como al de nuevo ingreso, la existencia y contenido del presente código de conducta para su observancia y cumplimiento.
