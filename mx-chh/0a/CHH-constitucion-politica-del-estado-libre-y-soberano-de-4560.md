@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2023-03-25"
+last_updated: "2023-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -309,11 +309,9 @@ Los pueblos indígenas, a través de sus comunidades, operan sus sistemas de jus
 
 En todos los juicios y procedimientos del orden jurisdiccional en los que sean parte los pueblos o las personas indígenas, se considerarán sus Sistemas Normativos Internos.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFCNT/0512/2019 I P.O., POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2020)</small>
-
-ASÍ MISMO, EL ESTADO DEBE ASISTIRLOS, EN TODO TIEMPO, CON PERSONAS TRADUCTORAS, INTÉRPRETES Y DEFENSORAS CON DOMINIO DE SU LENGUA, CONOCIMIENTO DE SU CULTURA Y DEL DERECHO INDÍGENA, ESTABLECIENDO PARA ELLO LAS INSTANCIAS ESPECIALIZADAS CORRESPONDIENTES.
+Así mismo, el Estado debe asistirlos en todo tiempo, con personas traductoras, intérpretes y defensoras con dominio de su lengua, conocimiento de su cultura y del Derecho Indígena, estableciendo para ello las instancias especializadas correspondientes.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2012)</small>
 
@@ -5534,3 +5532,23 @@ El presente Decreto entrará en vigor el mismo día de su publicación en el Per
 ###### ARTÍCULO TERCERO.
 
 Lo dispuesto en el segundo párrafo del artículo 94 entrará en vigor el 8 de septiembre de 2027, siendo aplicable para los nombramientos que se realicen con posterioridad a su entrada en vigor, respetando los derechos laborales de las personas servidoras públicas nombradas previamente a esta.
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVII/RFCNT/0509/2023 VI P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA, LEY ORGÁNICA DEL PODER EJECUTIVO, LEY ORGÁNICA DEL PODER JUDICIAL, LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS Y LEY ELECTORAL, TODAS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma constitucional.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En cumplimiento del Principio de Progresividad que impera en materia de Derechos Humanos, anualmente se incorporarán en los Presupuestos de Egresos para los ejercicios fiscales subsecuentes, las partidas económicas que permitan la mejora continua del Centro de Personas Traductoras e Intérpretes, hasta lograr su consolidación.
+
+###### ARTÍCULO CUARTO.
+
+En relación con el artículo 177 Ter, el establecimiento de los Centros Regionales de Personas Traductoras e Intérpretes atenderá a la suficiencia y justificación presupuestal que el Poder Judicial del Estado de Chihuahua establezca.
