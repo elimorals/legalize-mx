@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg816-2022-del-consejo-general-del-instituto-163494
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-01-19"
-last_updated: "2023-01-19"
+last_updated: "2023-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163494&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2022-11-29"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA DEMARCACIÓN TERRITORIAL DE LOS DISTRITOS ELECTORALES UNINOMINALES LOCALES EN QUE SE DIVIDE EL ESTADO DE MORELOS Y SUS RESPECTIVAS CABECERAS DISTRITALES, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LA MODIFICACIÓN DE LA DEMARCACIÓN TERRITORIAL DE LOS DISTRITOS ELECTORALES UNINOMINALES LOCALES EN QUE SE DIVIDE EL ESTADO DE MORELOS Y SUS RESPECTIVAS CABECERAS DISTRITALES, APROBADA MEDIANTE ACUERDO INE/CG816/2022, PUBLICADA EN EL D.O.F. DE 26 DE ABRIL DE 2023, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ABRIL DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 19 de enero de 2023.
 
@@ -200,3 +202,41 @@ Página DOF
 www.dof.gob.mx/2022/INE/CGord202211_29_ap_19_2.pdf
 
 > <small>[N. DE E. VÉASE ANEXO EN EL D.O.F. DE 19 DE ENERO DE 2023, PÁGINAS DE LA 266 A LA 271.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE ABRIL DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE, EN ACATAMIENTO A LA SENTENCIA QUE FORMA PARTE DEL EXPEDIENTE SUP-JDC-41/2023 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, SE APRUEBA LA MODIFICACIÓN DE LA DEMARCACIÓN TERRITORIAL DE LOS DISTRITOS ELECTORALES UNINOMINALES LOCALES EN QUE SE DIVIDE EL ESTADO DE MORELOS Y SUS RESPECTIVAS CABECERAS DISTRITALES, APROBADA MEDIANTE DIVERSO INE/CG816/2022”.]</small>
+
+PRIMERO. En acatamiento a la sentencia emitida por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, recaída dentro del expediente SUP-JDC-41/2023, se aprueba la modificación de la demarcación territorial de los distritos electorales uninominales locales en que se divide el Estado de Morelos y sus respectivas cabeceras distritales, aprobada mediante Acuerdo INE/CG816/2022, de conformidad con el mapa y el descriptivo de distritos y cabeceras que contiene el anexo 2 que se acompaña al presente acuerdo y forma parte integral del mismo.
+
+SEGUNDO. Se aprueba que la nueva demarcación territorial de los distritos electorales uninominales locales en que se divide el Estado de Morelos y sus respectivas cabeceras distritales, a que se refiere el punto primero del presente acuerdo, se utilice a partir del Proceso Electoral Local coincidente con el Proceso Electoral Federal 2023-2024.
+
+TERCERO. Se instruye al Secretario Ejecutivo que informe a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación sobre el cumplimiento dado a la sentencia emitida en el expediente SUP-JDC-41/2023.
+
+CUARTO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores, a informar a las personas integrantes de la Comisión Nacional de Vigilancia, así como de las Comisiones Local y Distritales de Vigilancia en el Estado de Morelos, lo aprobado por este órgano superior de dirección.
+
+QUINTO. Se instruye a la Unidad Técnica de Vinculación con los Organismos Públicos Locales, a informar al Instituto Estatal Electoral de Morelos, lo aprobado en el presente acuerdo.
+
+SEXTO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores, a hacer del conocimiento del Instituto Nacional de los Pueblos Indígenas, lo aprobado en el presente acuerdo.
+
+SÉPTIMO. El presente acuerdo y su anexo entrarán en vigor a partir del día de su aprobación por parte de este Consejo General.
+
+OCTAVO. Publíquense el presente acuerdo y su anexo en el portal de Internet y en la Gaceta Electoral del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
+
+El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 30 de marzo de 2023, por votación unánime de las y los Consejeros Electorales, Norma Irene De La Cruz Magaña, Doctor Uuc-kib Espadas Ancona, Doctora Adriana Margarita Favela Herrera, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordán, Doctor Ciro Murayama Rendón, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
+
+El Consejero Presidente del Consejo General, Dr. Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Lic. Edmundo Jacobo Molina.- Rúbrica.
+
+El Acuerdo y los anexos pueden ser consultados en las siguientes direcciones electrónicas:
+
+Página INE:
+
+https://www.ine.mx/sesion-extraordinaria-del-consejo-general-30-de-marzo-de-2023/
+
+Página DOF
+
+www.dof.gob.mx/2023/INE/CGext202303_30_ap_9.pdf
+
+> <small>[N. DE E. VÉASE ANEXO EN EL D.O.F. DE 26 DE ABRIL DE 2023, PÁGINA 157.]</small>
