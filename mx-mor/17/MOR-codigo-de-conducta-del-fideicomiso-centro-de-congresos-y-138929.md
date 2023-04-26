@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-fideicomiso-centro-de-congresos-y-138929
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-23"
-last_updated: "2019-10-23"
+last_updated: "2023-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL FIDEICOMISO CENTRO DE CONGRESOS Y CONVENCIONES MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL FIDEICOMISO CENTRO DE CONGRESOS Y CONVENCIONES MORELOS, PUBLICADO EN EL P.O. DE 26 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL FIDEICOMISO CENTRO DE CONGRESOS Y CONVENCIONES MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023 (ABROGADO).
 
 Código publicado en el Número 5753 del Periódico Oficial del Estado de Morelos, el miércoles 23 de octubre de 2019.
 
@@ -294,3 +296,13 @@ C. NÉSTOR GABRIEL MEDINA NAVA
 DIRECTOR GENERAL DEL FIDEICOMISO CENTRO DE CONGRESOS Y CONVENCIONES MORELOS.
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL FIDEICOMISO CENTRO DE CONGRESOS Y CONVENCIONES MORELOS”.]
+
+PRIMERA.- El presente código de conducta entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDA. Se abroga el Código de Conducta del Fideicomiso Centro de Congresos y Convenciones Morelos, publicado en el Periódico Oficial “Tierra y Libertad” número 5753, 6ta época, de fecha 23 de octubre de 2019.
