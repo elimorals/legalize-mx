@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-atencion-y-proteccion-a-victimas-y-ofendidos-del-100777"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-03"
-last_updated: "2023-02-24"
+last_updated: "2023-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO PARA EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
 
 Ley publicada en el No. Extraordinario del Periódico Oficial del Estado de Tlaxcala, el sábado 3 de mayo del 2014.
 
@@ -805,9 +805,9 @@ XI. Las demás que le otorga esta Ley y otras disposiciones aplicables.
 
 El Sistema será operado por un órgano rector de carácter permanente con personalidad jurídica y patrimonio propios y que gozará de autonomía técnica y de gestión, denominado Comisión Ejecutiva de Atención a Víctimas y Ofendidos del Estado de Tlaxcala.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
 
-Para el ejercicio de sus atribuciones la Comisión Ejecutiva contará con un Comité Evaluador y con los comités especiales que se consideren necesarios para el ejercicio de las atribuciones que le confieren esta Ley y otras disposiciones aplicables. Las disposiciones relativas a la organización y funcionamiento de los comités se regularán en el Reglamento, encaminado al estudio de grupos vulnerables tales como niños, adultos mayores, mujeres, indígenas, migrantes, personas con discapacidad, entre otros; de víctimas del delito como violencia familiar, violencia sexual, trata y tráfico de personas, personas desaparecidas, no localizadas, ausentes o extraviadas, homicidio, tortura, tratos crueles, inhumanos o degradantes, detención arbitraria y de víctimas de violaciones a derechos humanos.
+Para el ejercicio de sus atribuciones la Comisión Ejecutiva contará con un Comité Evaluador y con los comités especiales que se consideren necesarios para el ejercicio de las atribuciones que le confieren esta Ley y otras disposiciones aplicables. Las disposiciones relativas a la organización y funcionamiento de los comités se regularán en el Reglamento, encaminado al estudio de grupos vulnerables tales como niños, adultos mayores, mujeres, indígenas, migrantes, personas con discapacidad, entre otros; de víctimas del delito como violencia familiar, violencia sexual, violencia digital sexual, trata y tráfico de personas, personas desaparecidas, no localizadas, ausentes o extraviadas, homicidio, tortura, tratos crueles, inhumanos o degradantes, detención arbitraria y de víctimas de violaciones a derechos humanos.
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1972,3 +1972,19 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 218.- SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, DE LA LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, DE LA LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO, DE LA LEY DE JUSTICIA PARA ADOLESCENTES Y DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del plazo de noventa días naturales posteriores a la entrada en vigor del presente Decreto, la Procuraduría General de Justicia del Estado deberá diseñar el Protocolo Único para la Atención Adecuada de la Violencia Digital Sexual en el Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
