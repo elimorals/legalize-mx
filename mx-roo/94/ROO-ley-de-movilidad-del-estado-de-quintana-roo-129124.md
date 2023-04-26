@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-movilidad-del-estado-de-quintana-roo-129124"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-14"
-last_updated: "2022-07-28"
+last_updated: "2023-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 14 de junio de 2018.
 
@@ -185,81 +185,153 @@ XL. Ley: Ley de Movilidad del Estado de Quintana Roo;
 
 XLI. Licencia de conducir: Documento que expiden los ayuntamientos a una persona física y que lo autoriza para conducir un vehículo motorizado, previo cumplimiento de los requisitos establecidos en el Reglamento de Tránsito correspondiente y demás ordenamientos jurídicos y administrativos, incluyendo las licencias para el servicio público de transporte de pasajeros en autobuses urbanos. Las demás licencias de conducir para servicio público solo podrán ser expedidas por el Instituto, previa validación de la Secretaría de Seguridad Pública del Estado;
 
-XLII. Motocicleta: Vehículo motorizado que utiliza manubrio para su conducción, con dos o más ruedas, que está equipado con motor eléctrico o de combustión interna de cuatro tiempos con un cilindraje a partir de cuarenta y nueve centímetros cúbicos de desplazamiento, que es inclinado por su conductor hacia el interior de una curva para contrarrestar la fuerza centrifuga y que cumpla con las disposiciones estipuladas en la Norma Oficial Mexicana en materia de identificación vehicular;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-XLIII. Motociclista: Persona que conduce una motocicleta;
+XLII. Micromovilidad: Modalidad de transporte que usa vehículos ligeros personales de transporte tanto en sus versiones mecánicas, eléctricas o de propulsión humana, amigables con el medio ambiente, y con velocidades máximas de 50 kilómetros por hora;
 
-XLIV. Movilidad no motorizada: Desplazamientos realizados a pie y a través de vehículos no motorizados;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-XLV. Movilidad: Capacidad de cubrir las necesidades de las personas y de la sociedad para trasladarse libremente, comunicarse, comerciar y establecer vínculos para satisfacer sus necesidades y pleno desarrollo, sin poner en riesgo el bienestar de futuras generaciones;
+XLIII. Motocarro y/o mototaxi: Vehículo construido de fábrica de tres ruedas cuya parte anterior deriva de la parte mecánica de una motocicleta y la parte posterior cuenta con capacidad para transportar pasajeros. Cuando sean destinados para prestar el servicio de transporte de pasajeros, podrán circular únicamente en las vialidades terciarias o locales autorizadas por el Instituto, de acuerdo con los instrumentos de planeación urbana de cada Ayuntamiento. Asimismo, ningún vehículo deberá experimentar modificaciones en su interior o exterior para incrementar la capacidad de pasajeros a bordo, por lo que deberán conservar sus condiciones físicas y mecánicas de fabricación de origen;
 
-XLVI. Municipio: Los Municipios del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-XLVII. Nomenclatura: Conjunto de elementos y objetos visuales que se colocan en la vialidad para indicar los nombres de las colonias, pueblos, barrios, vías y espacios públicos del Estado, con el propósito de su identificación por parte de las personas;
+XLIV. Motocicleta: Vehículo motorizado que utiliza manubrio para su conducción, con dos o más ruedas, que está equipado con motor eléctrico o de combustión interna de cuatro tiempos con un cilindraje a partir de cuarenta y nueve centímetros cúbicos de desplazamiento, que es inclinado por su conductor hacia el interior de una curva para contrarrestar la fuerza centrífuga y que cumpla con las disposiciones estipuladas en la Norma Oficial Mexicana en materia de identificación vehicular;
 
-XLVIII. Parque vehicular: Conjunto de unidades vehiculares destinados a la prestación de servicios de transporte;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-XLIX. Peatón: Persona que transita por la vialidad a pie y/o que utiliza de ayudas técnicas por su condición de movilidad limitada, así como en patines, patineta u otros vehículos recreativos;
+XLV. Motociclista: Persona que conduce una motocicleta;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-L. Permiso para conducir: Documento que expiden los Ayuntamientos a una persona mayor de quince y menor de dieciocho años de edad y que lo autoriza para conducir un vehículo motorizado, previo cumplimiento de los requisitos establecidos en el Reglamento de Tránsito correspondiente y demás ordenamientos jurídicos y administrativos;
+XLVI. Movilidad: El conjunto de desplazamientos de personas, bienes y mercancías, a través de diversos modos, orientado a satisfacer las necesidades de las personas;
 
-LI. Personas con movilidad limitada: Personas que de forma temporal o permanentemente, debido a enfermedad, edad, accidente o alguna otra condición, realizan un desplazamiento lento, difícil o desequilibrado. Incluye a niños, mujeres en periodo de gestación, adultos mayores, adultos que transitan con niños pequeños, personas con discapacidad, personas con equipaje o paquetes;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+XLVII. Movilidad activa o no motorizada: Desplazamientos realizados a pie o mediante vehículos no motorizados.
 
-LII. Plataformas tecnológicas o digitales: Programas descargables en teléfonos móviles o instrumentos electrónicos a través de las cuales se puedan descargar o recibir datos o comunicaciones de voz a través de la telefonía celular o internet.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-LIII. Promovente: Persona física o moral, con personalidad jurídica, que solicita autorización del impacto de movilidad, y que somete a consideración del Instituto las solicitudes de factibilidad de movilidad, informe preventivo y las manifestaciones de impacto de movilidad que correspondan;
+XLVIII. Municipio: Los Municipios del Estado de Quintana Roo;
 
-LIV. Reglamento: Reglamento de la Ley de Movilidad del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-LV. Reincidencia: La comisión de dos o más infracciones establecidas en la presente Ley o sus Reglamentos, en un periodo no mayor de seis meses;
+XLIX. Nomenclatura: Conjunto de elementos y objetos visuales que se colocan en la vialidad para indicar los nombres de las colonias, pueblos, barrios, vías y espacios públicos del Estado, con el propósito de su identificación por parte de las personas;
 
-LVI. Remolque: Vehículo no dotado de medios de propulsión y destinado a ser llevado por otro vehículo. Para efectos de esta Ley los remolques y casas rodantes que dependan de un vehículo motorizado serán registrados como vehículos independientes;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-LVII. Revista vehicular: Es la revisión documental y la inspección física y mecánica de las unidades, equipamiento auxiliar de las unidades de transporte de pasajeros y carga, a fin de comprobar el cumplimiento de las disposiciones en materia de seguridad, equipo, aditamentos, sistemas y en general, las condiciones de operación y especificaciones técnicas para la óptima prestación del servicio;
+L. Parque vehicular: Conjunto de unidades vehiculares destinados a la prestación de servicios de transporte;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-LVIII. Seguridad Vial: Conjunto de políticas y sistemas orientados a establecer las normas de circulación de transporte de personas y objetos; el estacionamiento y tránsito de vehículos en las vías de comunicación Estatal y Municipal; y la prevención de hechos de tránsito, conforme al Reglamento de Tránsito correspondiente y demás normas legales aplicables;
+LI. Peatón: Persona que transita por la vialidad a pie y/o que utiliza de ayudas técnicas por su condición de movilidad limitada, así como en patines, patineta u otros vehículos recreativos;
 
-LIX. Señalización Vial: Conjunto de elementos y objetos visuales de contenido informativo, indicativo, restrictivo, preventivo, prohibitivo o de cualquier otro carácter, que se colocan en la vialidad;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-LX. Servicios Públicos de Transporte: El servicio de transporte de pasajeros en general, de carga, de renta de toda clase de vehículos, especializado, de estacionamiento, sitios y terminales, que presta el Estado de Quintana Roo por sí o a través de particulares mediante el régimen de concesión o de permiso, a excepción del urbano de pasajeros en autobuses en ruta establecida que corresponde a los Municipios de conformidad a lo dispuesto en la Ley de los Municipios del Estado de Quintana Roo;
+LII. Permisionario: Persona física o moral que, al amparo de un permiso otorgado por el Instituto, realiza la prestación del servicio público, privado o mercantil, de transporte de pasajeros y carga, sujetándose a las disposiciones de la presente Ley;
 
-LXI. Sistema de Movilidad: Conjunto de elementos y recursos relacionados, cuya estructura e interacción permiten el desplazamiento de personas y bienes; y todos aquellos que se relacionen directa o indirectamente con la movilidad;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-LXII. Supervisión: Acto de autoridad mediante el cual el Instituto, sujetándose a las reglas esenciales del procedimiento, comprueba el cumplimiento de las disposiciones legales, reglamentarias y administrativas aplicables en materia de movilidad;
+LIII. Permiso para conducir: Documento que expiden los Ayuntamientos a una persona mayor de quince y menor de dieciocho años de edad y que lo autoriza para conducir un vehículo motorizado, previo cumplimiento de los requisitos establecidos en el Reglamento de Tránsito correspondiente y demás ordenamientos jurídicos y administrativos;
 
-LXIII. Taxi: Vehículo destinado al servicio de transporte público individual de pasajeros;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-LXIV. Tecnologías sustentables: Tecnologías que incluyen productos, dispositivos, servicios y procesos amigables con el medio ambiente que reducen o eliminan el impacto al entorno a través del incremento de la eficiencia en el uso de recursos, mejoras en el desempeño y reducción de emisiones contaminantes;
+LIV. Personas con movilidad limitada: Personas que de forma temporal o permanentemente, debido a enfermedad, edad, accidente o alguna otra condición, realizan un desplazamiento lento, difícil o desequilibrado. Incluye a niños, mujeres en periodo de gestación, adultos mayores, adultos que transitan con niños pequeños, personas con discapacidad, personas con equipaje o paquetes;
 
-LXV. Transferencia modal: Cambio de un modo de transporte a otro que realiza una persona para continuar con un desplazamiento;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-LXVI. Unidad: Todo vehículo autorizado para prestar el servicio de transporte en los términos de esta Ley y sus Reglamentos;
+LV. Plataformas tecnológicas o digitales: Programas descargables en teléfonos móviles o instrumentos electrónicos a través de las cuales se puedan descargar o recibir datos o comunicaciones de voz a través de la telefonía celular o internet;
 
-LXVII. Usuario: Todas las personas que realizan desplazamientos haciendo uso del sistema de movilidad;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-LXVIII. Vehículo motorizado: Aquellos vehículos de transporte terrestre de pasajeros o carga, que para su tracción dependen de una máquina de combustión interna o eléctrica;
+LVI. Promovente: Persona física o moral, con personalidad jurídica, que solicita autorización del impacto de movilidad, y que somete a consideración del Instituto las solicitudes de factibilidad de movilidad, informe preventivo y las manifestaciones de impacto de movilidad que correspondan;
 
-LXIX. Vehículo no motorizado: Aquellos vehículos que utilizan tracción humana para su desplazamiento. Incluye bicicletas asistidas por motor que desarrollen velocidades máximas de 25 kilómetros por hora;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-LXX. Vehículo: Todo medio autopropulsado que se usa para transportar personas o bienes;
+LVII. Reglamento: Reglamento de la Ley de Movilidad del Estado de Quintana Roo;
 
-LXXI. Vía pública: Todo espacio de uso común destinado al tránsito de peatones y vehículos; así como a la prestación de servicios públicos y colocación de mobiliario urbano; y en general todo terreno del dominio público y de uso común que se encuentre o ubique dentro de los límites del Estado de Quintana Roo; y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-LXXII. Vialidad: Conjunto integrado de vías de uso común que conforman la traza urbana del Estado de Quintana Roo, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos.
+LVIII. Reincidencia: La comisión de dos o más infracciones establecidas en la presente Ley o sus Reglamentos, en un periodo no mayor de seis meses;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-LXXIII. Operador de Taxi. Persona que conduce manualmente los vehículos automotores destinados al servicio de taxi;
+LIX. Remolque: Vehículo no dotado de medios de propulsión y destinado a ser llevado por otro vehículo. Para efectos de esta Ley los remolques y casas rodantes que dependan de un vehículo motorizado serán registrados como vehículos independientes;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-LXXIV. Registro Estatal de Operadores de Taxi. Padrón elaborado por el Instituto con los datos de los operadores de taxi en el Estado, por municipio y antigüedad.
+LX. Revista vehicular: Es la revisión documental y la inspección física y mecánica de las unidades, equipamiento auxiliar de las unidades de transporte de pasajeros y carga, a fin de comprobar el cumplimiento de las disposiciones en materia de seguridad, equipo, aditamentos, sistemas y en general, las condiciones de operación y especificaciones técnicas para la óptima prestación del servicio;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXI. Seguridad Vial: Conjunto de políticas y sistemas orientados a establecer las normas de circulación de transporte de personas y objetos; el estacionamiento y tránsito de vehículos en las vías de comunicación Estatal y Municipal; y la prevención de hechos de tránsito, conforme al Reglamento de Tránsito correspondiente y demás normas legales aplicables;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXII. Señalización Vial: Conjunto de elementos y objetos visuales de contenido informativo, indicativo, restrictivo, preventivo, prohibitivo o de cualquier otro carácter, que se colocan en la vialidad;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXIII. Servicios Públicos de Transporte: El servicio de transporte de pasajeros en general, de carga, de renta de toda clase de vehículos, incluyendo los vehículos de micromovilidad, especializado, de estacionamiento, sitios y terminales, que presta el Estado de Quintana Roo por sí o a través de particulares mediante el régimen de concesión o de permiso, a excepción del urbano de pasajeros en autobuses en ruta establecida que corresponde a los Municipios de conformidad a lo dispuesto en la Ley de los Municipios del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXIV. Sistema de Movilidad: Conjunto de elementos y recursos relacionados, cuya estructura e interacción permiten el desplazamiento de personas y bienes; y todos aquellos que se relacionen directa o indirectamente con la movilidad;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXV. Supervisión: Acto de autoridad mediante el cual el Instituto, sujetándose a las reglas esenciales del procedimiento, comprueba el cumplimiento de las disposiciones legales, reglamentarias y administrativas aplicables en materia de movilidad;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXVI. Taxi: Vehículo destinado al servicio de transporte público individual de pasajeros;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXVII. Tecnologías sustentables: Tecnologías que incluyen productos, dispositivos, servicios y procesos amigables con el medio ambiente que reducen o eliminan el impacto al entorno a través del incremento de la eficiencia en el uso de recursos, mejoras en el desempeño y reducción de emisiones contaminantes;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXVIII. Transferencia modal: Cambio de un modo de transporte a otro que realiza una persona para continuar con un desplazamiento;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXIX. Unidad: Todo vehículo autorizado para prestar el servicio de transporte en los términos de esta Ley y sus Reglamentos;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXX. Usuario: Todas las personas que realizan desplazamientos haciendo uso del sistema de movilidad;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXXI. Vehículo: Todo medio autopropulsado que se usa para transportar personas o bienes;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXXII. Vehículos de micromovilidad: Se consideran los vehículos ligeros personales tanto en sus versiones mecánicas como eléctricas o de propulsión humana, como son bicicletas, motonetas eléctricas, autos eléctricos de pequeña escala y los demás que señale el Instituto en su reglamento.
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXXIII. Vehículo motorizado: Aquellos vehículos de transporte terrestre de pasajeros o carga, que para su tracción dependen de una máquina de combustión interna o eléctrica;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXXIV. Vehículo no motorizado: Aquellos vehículos que utilizan tracción humana o animal para su desplazamiento;
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXXV. Vía pública: Todo espacio de uso común destinado al tránsito de peatones y vehículos; así como a la prestación de servicios públicos y colocación de mobiliario urbano; y en general todo terreno del dominio público y de uso común que se encuentre o ubique dentro de los límites del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXXVI. Vialidad: Conjunto integrado de vías de uso común que conforman la traza urbana del Estado de Quintana Roo, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos;
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXXVII. Operador de Taxi: Persona que conduce manualmente los vehículos automotores destinados al servicio de taxi, y
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+LXXVIII. Registro Estatal de Operadores de Taxi: Padrón elaborado por el Instituto con los datos de los operadores de taxi en el Estado, por municipio y antigüedad.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
 
@@ -557,11 +629,21 @@ XXXIII. Otorgar permisos temporales para la prestación del servicio de transpor
 
 En ningún caso los permisos temporales se otorgarán de manera continuada a una misma persona, y
 
-XXXIV. Las demás que establezcan la presente Ley y la normatividad aplicable.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2020)</small>
+XXXIV. Integrar el Registro Estatal de Operadores Taxi;
 
-XXXV. Integrar el Registro Estatal de Operadores de Taxi.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2023)</small>
+
+XXXV. Incorporar nuevas tecnologías de información en el desarrollo de los trámites, servicios, comunicaciones, procedimientos administrativos y demás actos relativos al cumplimiento de sus facultades para que puedan realizarse de manera digital;
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+XXXVI. Realizar los estudios necesarios y ejecutar, en su caso de conformidad a sus facultades y competencias en coordinación con las autoridades municipales las acciones y obras de construcción en materia de movilidad, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XXXIV], P.O. 26 DE ABRIL DE 2023)</small>
+
+XXXVII. Las demás que establezcan la presente Ley y la normatividad aplicable.
 
 ###### Artículo 26.
 
@@ -679,9 +761,13 @@ XXII. Determinar las infracciones a la presente Ley, su Reglamento y demás disp
 
 XXIII. Administrar y representar legalmente al Instituto, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2023)</small>
 
-XXIV. Lo demás que se establezca en la presente Ley y la normatividad aplicable.
+XXIV. Realizar y emitir los trámites, servicios, comunicaciones, procedimientos administrativos y demás actos relativos al cumplimiento de sus facultades de manera digital, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XXIV], P.O. 26 DE ABRIL DE 2023)</small>
+
+XXV. Lo demás que se establezca en la presente Ley y la normatividad aplicable.
 
 ###### Artículo 31.
 
@@ -1109,11 +1195,19 @@ El Instituto será responsable del mantenimiento, preservación y retiro, cuando
 
 Las vialidades se clasifican en:
 
-I. Vialidades primarias: Espacio físico cuya función es facilitar el flujo del tránsito vehicular continuo o controlado por semáforo, entre distintas zonas del Estado, con la posibilidad de reserva para carriles exclusivos;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+I. Vialidades primarias: Espacio físico cuya función es facilitar el flujo del tránsito vehicular continuo o controlado e integrar las distintas zonas de un centro de población, con la posibilidad de reserva para carriles exclusivos; de acuerdo con los instrumentos de planeación urbana vigentes de cada Municipio.
 
 II. Acceso controlado: Vías primarias cuyas intersecciones generalmente son a desnivel; cuentan con carriles centrales y laterales separados por camellones. La incorporación y desincorporación al cuerpo de flujo continuo deberá realizarse a través de carriles de aceleración y desaceleración en puntos específicos, y
 
-III. Vialidades secundarias: Espacio físico cuya función es permitir el acceso a los predios y facultar el flujo del tránsito vehicular no continuo. Sus intersecciones pueden estar controladas por semáforos.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+III. Vialidades secundarias: Espacio físico cuya función es comunicar las vialidades primarias con las vialidades terciarias o locales, permitiendo el flujo del tránsito vehicular no continuo. Sus intersecciones pueden estar controladas por semáforos, de acuerdo con los instrumentos de planeación urbana vigentes de cada Municipio.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+IV. Vialidades terciarias o locales: Espacio físico cuya función es permitir el acceso a los predios y facultar el flujo del tránsito vehicular hacia las vialidades secundarias y primarias de acuerdo con los instrumentos de planeación urbana vigentes de cada Municipio.
 
 ###### Artículo 66.
 
@@ -1245,6 +1339,22 @@ II. Servicio Privado de Transporte de Personal.
 
 III. Servicio Privado de Transporte Escolar.
 
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+IV. Servicio Privado de Transporte Turístico;
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+V. Servicio Privado de Transporte de Repartición y Diligencias;
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+VI. Servicio privado de transporte de ambulancia, y
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+VII. Servicio Mercantil de Transporte.
+
 ###### Artículo 83.
 
 El Servicio Privado de Transporte de Uso Particular es aquél que se brinda en vehículo destinado a satisfacer necesidades de movilidad propias y que no presta ningún tipo de servicio.
@@ -1257,9 +1367,37 @@ El Servicio Privado de Transporte de Personal es el destinado al traslado de per
 
 El Servicio Privado de Transporte Escolar es el destinado al traslado de personas de sus domicilios a sus centros de estudio y viceversa dentro de los límites del territorio estatal; se presta o es contratado por instituciones educativas, asociaciones de padres de familia o particulares, para el transporte de estudiantes, investigadores o comunidades académicas.
 
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+###### Artículo 85 Bis.
+
+El servicio privado de Transporte Turístico es aquel que previo permiso del Instituto, se realiza en vehículos con finalidad turística, de ocio y recreo, ofertados y contratados para la satisfacción de necesidades de desplazamientos de personas que tengan la condición de usuarios turísticos por lo que no está sometido a reiteración de itinerario, horario y calendario.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+###### Artículo 85 Ter.
+
+El Servicio privado de Transporte de Repartición y Diligencias, es aquel que tiene por objeto exclusivo el otorgamiento del servicio a solicitud de particulares ya sea de manera verbal o digital de forma directa entre el particular y el permisionario o a través plataformas tecnológicas y que consiste en la realización de mandados o encomiendas como pueden ser compras, repartos y entregas de mercancías, alimentos preparados o productos en general, así como la realización de encargos diversos como, pagos de servicios o productos, cobros o retiros económicos, mensajería o diligencias en general, en bicicletas, motocicletas o vehículos conducidos y transportados por un solo operador, cumpliendo con las características solicitadas para dichas funciones, por lo cual deberán estar debidamente acondicionados con cajas, mismas que deberán cumplir con las especificaciones que se establezcan en el Reglamento de la presente ley, para su debida trasportación, reparto y entrega en óptimas condiciones, en su caso.
+
+Para el otorgamiento del permiso correspondiente, al Servicio Privado de Transporte de Repartición y Diligencias, se solicitará previamente la acreditación de la organización laboral o empresa a la que el solicitante representa o pertenece.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+###### Artículo 85 Quáter.
+
+El Servicio Privado de Transporte de ambulancia de traslado, de urgencias básicas o avanzadas, de cuidados intensivos es la actividad móvil, aérea, marítima o terrestre, mediante la cual previa a la obtención del dictamen técnico para el funcionamiento de ambulancia expedida por la Secretaría de Salud, a través de la Comisión Federal para la Protección contra Riesgos Sanitarios y del permiso otorgado por el Instituto, se presta en una unidad de atención prehospitalaria con equipo específico, insumos necesarios y personal profesional o técnico en atención médica prehospitalaria certificado por las autoridades educativas competentes de respuesta avanzada para el transporte de pacientes los cuales requieren traslado en este tipo de unidad, desde los primeros auxilios hasta la llegada y entrega a un establecimiento para la atención médica con servicio de urgencias, así como durante el traslado entre diferentes establecimientos a bordo de una ambulancia.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+###### Artículo 85 Quinquies.
+
+El Servicio Mercantil de Transporte es la actividad realizada por las personas físicas o morales de manera accesoria y complementaria, en forma exclusiva y en razón de la relación directa que exista entre los beneficiarios y quien lo preste debido a la actividad o servicio de quien lo proporciona, pero sin que medie el pago de una contraprestación por el servicio; relacionadas directamente ya sea con el cumplimiento de su objeto social o con la realización de actividades comerciales, sean éstas de carácter transitorio o permanente, que no se oferten al público en general y siempre que se cuente con el permiso otorgado por la Instituto conforme a las disposiciones de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2023)</small>
+
 ###### Artículo 86.
 
-El Servicio Público de Transporte requerirá concesión otorgada por el Instituto para su funcionamiento, con excepción del Servicio Público de Transporte de Pasajeros de Autobuses Urbanos, cuya concesión corresponderá a los Ayuntamientos en sus respectivas competencias.
+El Servicio Público de Transporte requerirá concesión o permiso otorgado por el Instituto para su funcionamiento según su clasificación de servicio, con excepción del Servicio Público de Transporte de Pasajeros de Autobuses Urbanos, cuya concesión corresponderá a los Ayuntamientos en sus respectivas competencias.
 
 El Servicio Público de Transporte se clasifica en:
 
@@ -1271,9 +1409,13 @@ III. Servicio Público de Transporte de Renta de toda clase de Vehículos.
 
 IV. Servicio Público de Transporte Especializado.
 
-> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2023)</small>
 
-V. Servicio público de transporte contratado a través de plataformas tecnológicas o digitales, el cual se regulará únicamente conforme a las reglas previstas en el Capítulo Séptimo del Título Cuarto de esta Ley.
+V. Servicio Público de Transporte de Micromovilidad.
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN V], P.O. 26 DE ABRIL DE 2023)</small>
+
+VI. Servicio público de transporte contratado a través de plataformas tecnológicas o digitales, el cual se regulará únicamente conforme a las reglas previstas en el Capítulo Séptimo del Título Cuarto de esta Ley.
 
 ###### Artículo 87.
 
@@ -1289,9 +1431,23 @@ a) Sitio específico: Es aquél que obliga a mantener la unidad en el lugar espe
 
 b) Ruletero: es aquél que se prestan (sic) en vehículos cuyo concesionario no se encuentra obligado a mantener la unidad en un lugar específico. Con capacidad de 4 a 8 pasajeros, más el conductor;
 
-c) Taxi colectivo: es aquél que se presta en ruta establecida y tarifa personal, autorizado para subir y bajar pasaje durante su itinerario, saliendo de un punto de origen fijo y con retorno al mismo. Con capacidad de 8 a 14 pasajeros, más el conductor.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+c) Taxi Ruletero Económico: es aquél vehículo ligero de pequeña escala, tanto en sus versiones mecánicas como eléctricas con capacidad hasta para 4 pasajeros incluyendo el conductor, cuyo concesionario está obligado a mantener la unidad en un lugar específico, polígonos, distritos, cuadrantes y/o circuitos permitidos por el Instituto, quedando prohibido para este tipo de vehículo la circulación en avenidas primarias y secundarias, zonas catalogadas como hoteleras o turísticas, así como zonas insulares;
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+d) Taxi colectivo: es aquél que se presta en ruta establecida y tarifa personal, autorizado para subir y bajar pasaje durante su itinerario, saliendo de un punto de origen fijo y con retorno al mismo. Con capacidad de 8 a 14 pasajeros, más el conductor.
 
 La capacidad de este tipo de vehículos, se determinará de acuerdo al contenido de la factura original de la propia unidad que exhiba el solicitante. No se pueden realizar modificaciones en relación con el incremento de su capacidad de pasajeros.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+e) Motocarros y/o mototaxi: es aquel que se presta en vehículos cuyo permisionario se encuentra obligado a mantener la unidad en un lugar específico, distritos, polígonos, cuadrantes y/o circuitos permitidos por el Instituto. Con capacidad de 1 a 3 pasajeros, incluyendo al conductor.
+
+Los motocarros y/o mototaxis obligatoriamente requieren para poder brindar el servicio Público de Transporte, de pasajeros el permiso por parte del Instituto, este servicio se presta de forma regular, se encuentra sujeto a horarios y solo deberán circular en las vías terciarias o locales que el Instituto determine, mismas que vendrán desglosadas en dicho permiso, de acuerdo con los instrumentos de planeación urbana vigentes de cada Municipio.
+
+Queda estrictamente prohibida la circulación de cualquier vehículo considerado como motocarro y/o mototaxi, en avenidas primarias, en las catalogadas como hoteleras o turísticas; en zonas insulares e ínsulas en ninguna vía de comunicación.
 
 ###### Artículo 88.
 
@@ -1348,6 +1504,14 @@ El servicio de arrastre y salvamento, en los casos de las fracciones anteriores,
 ###### Artículo 90.
 
 El Servicio Público de Transporte de Renta de toda clase de Vehículos es el servicio de arrendadoras de automóviles tiene como finalidad el arrendamiento de automóviles sin chofer, para que sea manejado por el arrendatario o la persona que el mismo designe; y el cobro por el servicio estará sujeto a contrato por kilómetro recorrido, por días y semanas de uso.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+###### Artículo 90 Bis.
+
+El Servicio Público de Transporte de Micromovilidad, es el que tiene como finalidad el arrendamiento de vehículos sin chofer, para que sea manejado por el arrendatario o la persona que el mismo designe; y el cobro por el servicio estará sujeto a contrato por kilómetro recorrido, por horas, por días y/o semanas de uso.
+
+El Servicio Público de Transporte de Micromovilidad solo podrá ser prestado si se cuenta con el permiso expedido por el Instituto, previo cumplimiento del procedimiento establecido en el Reglamento y esta Ley.
 
 ###### Artículo 91.
 
@@ -1427,11 +1591,25 @@ Los Ayuntamientos establecerán itinerarios para el Transporte Público Escolar 
 
 Requieren concesión del Instituto:
 
-I. El Servicio Público de Transporte de Pasajeros, en cualquiera de sus modalidades previstos en este ordenamiento;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-II. El Servicio Público de Transporte de Carga, y
+I. El Servicio Público de Transporte de Pasajeros, en cualquiera de sus modalidades previstas en este ordenamiento, a excepción de aquellas que solamente requieran permiso, según lo dispuesto en la presente Ley;
 
-III. Los Servicios Auxiliares relacionados con lo dispuesto en las fracciones anteriores.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+II. El Servicio Público de Transporte de Carga;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2023)</small>
+
+III. El Servicio Público de Transporte de Renta de toda clase de vehículos;
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+IV. Servicio Público de Transporte Especializado, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN III], P.O. 26 DE ABRIL DE 2023)</small>
+
+V. Los Servicios Auxiliares relacionados con lo dispuesto en las fracciones anteriores.
 
 En ejercicio de las facultades conferidas en esta Ley, el Instituto otorgará concesiones para la prestación de los Servicios Públicos de Transporte.
 
@@ -1448,6 +1626,30 @@ El otorgamiento de actos administrativos en materia del presente Capítulo se li
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
 
 Se exceptúa de este Capítulo la modalidad del servicio público de transporte contratado a través de plataformas tecnológicas o digitales, la cual se regulará únicamente conforme a las reglas previstas en el Capítulo Séptimo del Título Cuarto de esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+###### Artículo 102 Bis.
+
+Requieren Permiso del Instituto:
+
+I. Servicio Público de Transporte de Pasajeros en vehículos tipo motocarros y/o mototaxis.
+
+II. Servicio Público de Transporte de Micromovilidad.
+
+III. Servicio Privado de Transporte de Personal.
+
+IV. Servicio Privado de Transporte Escolar.
+
+V. Servicio Privado de Transporte Turístico.
+
+VI. Servicio Privado de Transporte de Ambulancia.
+
+VII. Servicio Mercantil de Transporte.
+
+VIII. Servicio Privado de Transporte de Repartición y Diligencias.
+
+IX. Las demás que establezca el reglamento de la presente Ley.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
@@ -1517,6 +1719,28 @@ El Instituto, con aprobación de la Junta de Gobierno, tomando como base los res
 
 Las Declaratorias de Necesidad se deberán publicar en el Periódico Oficial del Estado.
 
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+###### Artículo 106 Bis.
+
+El otorgamiento de permiso para la prestación del Servicio Público de Transporte de Pasajeros en Vehículos tipo Motocarros y/o mototaxis, servicio público de transporte de micromovilidad y Servicio Privado de Transporte de repartición y diligencias estará sujeto a la formulación de una Declaratoria de Necesidad expedida por el Instituto la cual se formulará de acuerdo a lo dispuesto en esta Ley y en su Reglamento.
+
+La Declaratoria de necesidad deberá contener lo siguiente:
+
+I. Datos estadísticos obtenidos por el Instituto en relación a la oferta y demanda del servicio, a efecto de robustecer la necesidad de incrementar el número de permisionarios;
+
+II. El tipo y características de los vehículos que se requerirán;
+
+III. Exposición de las circunstancias que sustenten el incremento de permisos, así como los resultados de los estudios técnicos que justifiquen su otorgamiento;
+
+IV. La modalidad y número de permisos a expedir;
+
+V. Las condiciones generales para la prestación del servicio y los criterios para el otorgamiento de los permisos, y
+
+VI. Las demás que el Instituto estime pertinentes para la mejor prestación del servicio, así como las que se prevean en el Reglamento.
+
+Las Declaratorias de Necesidad se deberán publicar en el Periódico Oficial del Estado de Quintana Roo.
+
 ###### Artículo 107.
 
 El Instituto llevará a cabo el control, atención y tratamiento de los concesionarios de los servicios de transporte, en un plano de igualdad. Previo estudio de factibilidad, establecerá los mecanismos necesarios para implementar el servicio de transporte público proporcionado por el Gobierno del Estado de Quintana Roo, con objeto de garantizar su acceso a todos los sectores de la población, sobre todo a las zonas populares o a aquellas en donde el servicio proporcionado por los concesionarios sea insuficiente.
@@ -1551,15 +1775,27 @@ Se considera que existe competencia ruinosa, cuando se sobrepasen rutas en itine
 
 Las concesiones otorgadas podrán ser las siguientes:
 
-I. Servicio Público de Transporte de Pasajeros en General;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-II. Servicio Público de Carga;
+I. Servicio Público de Transporte de Pasajeros, exceptuando al Servicio Público de Transporte en vehículos tipo motocarros y/o mototaxis, el cual solamente requerirá permiso por parte del Instituto.
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+II. Servicio Público de Transporte de Carga;
 
 III. Servicio Público de Renta de toda clase Vehículos;
 
-IV. Los Servicios Auxiliares relacionados con los servicios públicos a que se refiere el presente artículo, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2023)</small>
 
-V. Servicio Público de Estacionamiento, Sitios y Terminales.
+IV. Servicio Público de Transporte Especializado.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN IV], P.O. 26 DE ABRIL DE 2023)</small>
+
+V. Los Servicios Auxiliares relacionados con los servicios públicos a que se refiere el presente artículo, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN V], P.O. 26 DE ABRIL DE 2023)</small>
+
+VI. Servicio Público de Estacionamiento, Sitios y Terminales.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
@@ -1588,6 +1824,12 @@ La solicitud de prórroga deberá presentarse por escrito, dentro del quinto mes
 La presentación extemporánea de la solicitud de prórroga conllevará su denegación por parte del Instituto.
 
 La falta de solicitud no afectará el ejercicio de las facultades de extinción de la concesión y, en su caso, adjudicación en términos de esta Ley y su Reglamento, a fin de no lesionar los derechos de los usuarios.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+###### Artículo 111 Bis.
+
+Las concesiones para prestar el servicio público de transporte en las modalidades de competencia de esta Ley, estarán sujetas a la obligación de refrendarse anualmente durante los primeros tres meses de cada año, para lo cual deberán estar actualizadas en apego a la normatividad vigente. Lo anterior, en los términos que disponga el Instituto.
 
 ###### Artículo 112.
 
@@ -1679,7 +1921,9 @@ Las personas morales concesionarias o las que lleguen a formar personas físicas
 
 XVII. Mantener actualizados sus registros, respecto a su representatividad y personalidad jurídica, parque vehicular existente y en operación, conductores, y demás datos relacionados con la concesión otorgada, debiendo utilizar los lineamientos que al efecto autorice la Administración Pública;
 
-XVIII. Realizar el pago de los derechos correspondientes a todos y cada uno de los trámites administrativos;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+XVIII. Realizar el pago de los derechos correspondientes a todos y cada uno de los trámites administrativos, los requeridos en el cumplimiento de sus obligaciones y demás disposiciones, así como los recargos y actualizaciones correspondientes por el incumplimiento de las mismas conforme a la tasa que se señala en las Leyes vigentes en el Estado;
 
 XIX. Ejercer el control, guarda, custodia y responsabilidad de los documentos e infraestructura para la prestación del servicio concesionado;
 
@@ -1717,7 +1961,7 @@ El rescate que se declare conforme a esta disposición, otorgará el derecho al 
 
 Se consideran causas de extinción de las concesiones:
 
-I. La expiración del plazo o de la prórroga que en su caso se hubiere otorgado;
+I. (DEROGADA, P.O. 26 DE ABRIL DE 2023)
 
 II. La caducidad, revocación o nulidad;
 
@@ -1741,7 +1985,9 @@ IX. Las demás que se establezcan en la presente Ley y su Reglamento.
 
 Opera la caducidad de las concesiones cuando:
 
-I. No se inicie la prestación del Servicio Público de Transporte, dentro del plazo señalado en la concesión, salvo caso fortuito o fuerza mayor;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+I. No se inicie la prestación del Servicio Público de Transporte dentro del plazo señalado en la concesión, salvo prórroga autorizada por parte del Instituto, caso fortuito o fuerza mayor;
 
 II. Se suspenda la prestación del Servicio Público de Transporte durante un plazo mayor de quince días, por causas imputables al concesionario;
 
@@ -1803,21 +2049,23 @@ La extinción de una concesión por cualquiera de las causas establecidas en la 
 
 Los concesionarios o permisionarios de los servicios públicos de transporte del Estado de Quintana Roo tendrán la obligación de acudir al proceso anual de revista vehicular, en la cual se realizará la inspección documental y físicomecánica de las unidades, equipamiento auxiliar o infraestructura, a fin de comprobar el cumplimiento de las disposiciones en materia de instalaciones, equipo, aditamentos, sistemas que señalen las normas oficiales mexicanas y en general, las condiciones de operación y especificaciones técnicas para la óptima prestación del servicio, en los términos que establezca el Reglamento.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2023)</small>
 
 ###### Artículo 125.
 
-La prestación de los servicios de transporte público y privado de pasajeros y de carga, así como para el establecimiento de sitios, bases, lanzaderas y su equipamiento auxiliar en el Estado de Quintana Roo, que de acuerdo a las leyes de la materia no estén regulados como Concesión Federal, Estatal o Municipal, requerirán de un permiso expedido por el Instituto, previo cumplimiento de los requisitos y del pago de los derechos correspondientes.
+Para el establecimiento de sitios, bases, lanzaderas y su equipamiento auxiliar en el Estado de Quintana Roo, de acuerdo a las leyes de la materia Federal, Estatal o Municipal, requerirán del permiso expedido por el Instituto, previo cumplimiento de los requisitos y del pago de los derechos correspondientes. Los permisionarios del servicio público de transporte federal, estatal o municipal en todas sus modalidades, estarán sujetos a los términos y condiciones señaladas en el permiso correspondiente.
 
-En términos de los Artículos 7 y 19 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, los derechos de tránsito y movilidad por el Estado de los prestadores del Servicio Público y Privado de Transporte de pasajeros o de carga federales en sus diversas modalidades, implica el libre tránsito por vías de comunicación estatal y/o municipales sin requerir concesiones o permisos o autorizaciones estatales o municipales para el descenso de pasajeros en terminales de destino, o bien, de descarga de mercancías en cualquier punto de destino cumpliendo lo establecido en el Artículo 117 fracciones IV, V, VI y VII de la Constitución Política de los Estados Unidos Mexicanos. Es aplicable lo anterior, para el libre tránsito a los prestadores del Servicio Público y Privado de Transporte para el descenso de pasajeros en terminales de destino o descarga de mercancías en cualquier destino por las calles y vías de comunicación de jurisdicción municipal. La contravención dará lugar a la nulidad de pleno derecho de los actos administrativos por establecer una barrera a la libre competencia, concurrencia, tránsito y movilidad dentro del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
 
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 16 DE ENERO DE 2019)</small>
+Los permisionarios del servicio público de transporte federal, estatal o municipal en todas sus modalidades, estarán sujetos a los términos y condiciones señaladas en el permiso correspondiente.
 
-Para los efectos de los párrafos anteriores se entenderá que:
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
 
-I. Los vehículos que efectúen el servicio de autotransporte federal, pueden ingresar, transitar, salir y realizar el ascenso y descenso de pasajeros, o bien, realizar maniobras de carga o descarga en el Estado de Quintana Roo, sin contar con permiso del Instituto, siempre que en los puntos de origen y/o destino de su carta de porte o documento de embarque se realicen en apego al permiso federal, o bien, que los puntos de origen y/o destino de su carta de porte o documento de embarque de bienes y mercancías, se encuentren dentro de bienes inmuebles de propiedad privada, y
+Los permisionarios del servicio público de autotransporte federal, que exploten las vías y carreteras de jurisdicción estatal y/o municipal en una modalidad distinta a la indicada en su permiso, serán acreedores a las sanciones correspondientes.
 
-II. Para atender la demanda y provisión de abasto para la población y turismo del Estado de Quintana Roo, como derecho humano fundamental, el servicio de transporte (sic) alimentos perecederos y no perecederos que se realice con vehículos de hasta 12,000 kilogramos con permiso Estatal, pueden ingresar, transitar, salir y realizar maniobras de carga o descarga con un tiempo máximo de descarga sin obstruir las aceras o paso peatonal en las vías de jurisdicción Municipal del Estado de Quintana Roo, sin requerir de permisos o autorizaciones Municipales, siempre que los puntos de origen y destino de su carta de porte o documento de embarque sean en vías de comunicación de jurisdicción Estatal y/o Municipal y/o particular.
+> <small>(DEROGADA FRACCIÓN I, P.O. 26 DE ABRIL DE 2023)</small>
+
+> <small>(DEROGADA FRACCIÓN II, P.O. 26 DE ABRIL DE 2023)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2018)</small>
 
@@ -1841,7 +2089,7 @@ VII. Demostrar el cumplimiento de los demás requisitos establecidos en las disp
 
 VIII. Las demás que se establezcan en la presente Ley y su Reglamento.
 
-Con excepción de causas de caso fortuito, fuerza mayor o por necesidades de interés público, en ningún caso se podrá otorgar el permiso de manera continuada a una misma persona.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE ABRIL DE 2023)</small>
 
 ###### Artículo 127.
 
@@ -2497,6 +2745,8 @@ Los vehículos motorizados de uso particular que circulen en el Estado de Quinta
 
 ### CAPÍTULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2023)</small>
+
 ###### Artículo 181.
 
 El Registro Público del Transporte estará a cargo del Instituto y tiene como objeto el desempeño de la función registral en todos sus órdenes, de acuerdo con esta Ley y su Reglamento, así como las funciones de seguridad pública y de seguridad nacional que le señalen las Autoridades competentes conforme a la normatividad del Sistema Nacional de Seguridad Pública.
@@ -2565,7 +2815,7 @@ De toda información, registro, folio, certificación que realice el Registro P�
 
 ###### Artículo 189.
 
-El Instituto, con el auxilio, en su caso, de la Secretaría de Seguridad Pública, tendrá a su cargo la supervisión de los Servicios de Transporte de Pasajeros y de carga en el Estado de Quintana Roo, por conducto del personal competente para tales efectos, a fin de garantizar el cumplimiento de las disposiciones legales y normativas aplicables.
+El Instituto, con el auxilio, en su caso, de la Secretaría de Seguridad Pública, tendrá a su cargo la supervisión de los Servicios de Transporte Público o Privado en cualquiera de sus modalidades en el Estado de Quintana Roo, por conducto del personal competente para tales efectos, a fin de garantizar el cumplimiento de las disposiciones legales y normativas aplicables.
 
 Para efectos de lo establecido en este artículo, las autoridades señaladas podrán requerir en cualquier tiempo, a los concesionarios, permisionarios o autorizados informes con los datos técnicos, administrativos y estadísticos, que le permitan conocer la situación real de operación del Servicio Público de Transporte que ampara sus correspondientes concesiones, permisos o autorizaciones.
 
@@ -2581,11 +2831,13 @@ II. Determinar la comisión de infracciones y violaciones a esta Ley, sus Reglam
 
 III. Solicitar el auxilio de los agentes de la Secretaría de Seguridad Pública del Estado y de los cuerpos de seguridad municipales, cuando así lo requieran, para hacer cumplir las disposiciones de esta Ley, su Reglamento y demás disposiciones jurídicas aplicables;
 
-IV. Practicar visitas de supervisión en las terminales y sitios de los vehículos destinados al servicio de transporte público de carga y de pasajeros;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+IV. Practicar visitas de supervisión en las terminales, sitios y establecimientos de los vehículos destinados al servicio de transporte público o privado en todas sus modalidades;
 
-V. Verificar en las vialidades de competencia del Estado que los vehículos destinados al servicio de transporte público, privado o contratado a través de Plataformas Tecnológicas o Digitales, cumplan con las disposiciones relativas a las características que les correspondan;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+V. Verificar en las vialidades de competencia del Estado que los vehículos destinados al servicio de transporte público, privado, contratado a través de Plataformas Tecnológicas o Digitales o autotransporte federal cumplan con las disposiciones relativas a las características que les correspondan;
 
 VI. Requerir a los concesionarios, permisionarios o autorizados, previa orden del Director General del Instituto, datos técnicos y estadísticos acerca de la operación del servicio concesionado o permitido, así como los expedientes individuales de los concesionarios, permisionarios y operadores de los vehículos concesionados o sujetos a permiso o autorización, y
 
@@ -2609,7 +2861,9 @@ Las medidas de seguridad en materia de movilidad serán las siguientes:
 
 I. La suspensión total o parcial del servicio;
 
-II. La clausura temporal, total o parcial de instalaciones donde se presten los servicios;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+II. La clausura temporal, total o parcial de instalaciones o establecimientos donde se presten, se ofrezcan o se oferten los servicios;
 
 III. El retiro de instalaciones, materiales, mobiliario o equipo;
 
@@ -2619,9 +2873,11 @@ V. La advertencia pública, mediante la cual se empleen los medios publicitarios
 
 VI. Cualquier otra prevención que tienda a lograr los fines expresados en esta Ley y las demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2023)</small>
+
 ###### Artículo 194.
 
-Tratándose de los servicios de transporte de pasajeros en cualquiera de sus modalidades, el Instituto podrá detener, asegurar y en su caso confinar, por sí mismo o con el auxilio de la fuerza pública, los vehículos que prestan dichos servicios, y en su caso retirar placas o documentos del vehículo que corresponda, en los casos siguientes:
+Tratándose de los servicios de transporte público o privado en cualquiera de sus modalidades, el Instituto podrá detener, asegurar y en su caso confinar, por sí mismo o con el auxilio de la fuerza pública, los vehículos que prestan dichos servicios, y en su caso retirar placas o documentos del vehículo que corresponda, en los casos siguientes:
 
 I. Cuando el vehículo circule sin placas y sin tarjeta de circulación, o sin placas y tarjeta de circulación provisionales, o cuando portando las placas éstas sean modificadas, alteradas o sustituidas, o se encuentren vencidas;
 
@@ -2911,9 +3167,11 @@ II. Por aplicar tarifas y reglas de operación no autorizadas por las autoridade
 
 III. Por exceder la antigüedad máxima permitida establecida por el Instituto, o que se encuentren en malas condiciones mecánicas, físicas o de operación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2023)</small>
+
 ###### Artículo 204.
 
-El Instituto estará facultado para imponer multas por infracciones listadas en esta Ley o por el incumplimiento de cualquiera de sus disposiciones.
+El Instituto estará facultado para imponer y actualizar multas por infracciones listadas en esta Ley o por el incumplimiento de cualquiera de sus disposiciones.
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2019)</small>
 
@@ -2934,6 +3192,10 @@ III. Las infracciones graves se sancionarán con multa de 151 (ciento cincuenta 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2019)</small>
 
 Se hará efectivo un descuento en la multa hasta por el 40% del monto de la sanción que corresponda a una infracción en caso de que el infractor no se hubiere inconformado de la misma y efectúe el pago correspondiente dentro de los 10 días hábiles contados a partir de la fecha de infracción.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+El Instituto, podrá hacer efectivo un descuento en la multa hasta por el 80% cuando el infractor no sea reincidente y exista la manifestación de una situación económica precaria que le imposibilita al pago de la multa correspondiente.
 
 En la determinación del monto de las multas se deberán considerar las resoluciones anuales del Instituto Nacional de Estadística y Geografía, en las que fija la Unidad de Medida y Actualización vigente en todo el territorio nacional.
 
@@ -3548,3 +3810,15 @@ SEGUNDO. El Poder Legislativo del Estado aprobará los recursos necesarios en el
 TERCERO. El Poder Ejecutivo del Estado y los Municipios llevarán a cabo la entrega de los recursos que resulten de la presente reforma, con base en la información, registro, padrón o cualquier otra base de datos que tengan a su disposición de personas adultas mayores.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “PROMULGACIÓN DEL DECRETO NÚMERO: 041 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Tratándose de los permisos que requieren el Servicio Público o Privado de Transporte en las nuevas modalidades previstas en el presente Decreto, el Instituto deberá otorgarlos de manera progresiva.
+
+TERCERO. Las presentes disposiciones no serán aplicables para aquellas concesiones otorgadas al servicio público de transporte en su modalidad de servicio público de renta de vehículos sin chofer tipo bicicletas, autorizadas en términos de la Ley de Tránsito, Transporte y Explotación de vías y carreteras del estado de Quintana Roo y su Reglamento.
+
+CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
