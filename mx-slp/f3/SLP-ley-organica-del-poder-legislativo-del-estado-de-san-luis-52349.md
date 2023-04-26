@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2023-04-11"
+last_updated: "2023-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -2331,9 +2331,9 @@ XII. El directorio de servidores públicos, así como currículum vitae de diput
 
 XIII. Los documentos, convocatorias, versiones videográficas de las comparecencias de los funcionarios públicos estatales, video grabaciones de sesiones de Pleno o reuniones de comisiones, eventos y demás información que sea considerada relevante o de utilidad, respecto al funcionamiento del Congreso;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
 
-XIV. La información relativa a la programación de las sesiones del Pleno, de las comisiones y de los comités y, previo a su realización, el calendario de comparecencias de funcionarios estatales, que incluya fecha y hora de las mismas, y
+XIV. La información relativa a la programación de las sesiones del Pleno, comisiones y comités, que incluya: lugar, fecha, y hora, previo a su realización; el calendario de comparecencias de funcionarios estatales, que incluya fecha y hora de las mismas, y
 
 XV. Las demás que establezca la ley.
 
@@ -3196,5 +3196,13 @@ P.O. 11 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0731.- SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 82; Y ADICIONA FRACCIÓN AL MISMO ARTÍCULO 82, ÉSTA COMO XV, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0740.- SE REFORMA EL ARTÍCULO 138, EN SU FRACCIÓN XIV, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONA AL ARTÍCULO 151, UN PÁRRAFO, ÉSTE COMO SEGUNDO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
