@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-derechos-de-los-pueblos-indigenas-del-estado-de-95015"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-29"
-last_updated: "2020-03-04"
+last_updated: "2023-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # LEY DE DERECHOS DE LOS PUEBLOS INDIGENAS DEL ESTADO DE CHIHUAHUA
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0666/2020 III P.E., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA EL CUATRO DE MARZO DE DOS MIL VEINTE, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de junio de 2013.
 
@@ -145,11 +143,9 @@ Las autoridades judiciales y administrativas deberán tomar en cuenta los derech
 
 En todos los juicios y procedimientos del orden jurisdiccional en los que sean parte los pueblos o las personas indígenas, el Estado deberá asistirlos, en todo tiempo, con personas traductoras, intérpretes y defensoras con dominio de su idioma, conocimiento de su cultura y sus sistemas normativos internos.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0513/2019 I P.O., POR EL QUE SE ADICIONA EL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE ABRIL DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2020)</small>
-
-PARA TAL EFECTO, SE DETERMINARÁ ANUALMENTE LA PARTIDA PRESUPUESTAL QUE PERMITA AL ÓRGANO ESPECIALIZADO EN PERSONAS TRADUCTORAS E INTÉRPRETES, CUMPLIR CON LAS FUNCIONES QUE LA LEY LE SEÑALA.
+Para tal efecto, se determinará anualmente la partida presupuestal que permita al órgano especializado en personas traductoras e intérpretes, cumplir con las funciones que la ley establece.
 
 ###### Artículo 12.
 
@@ -211,11 +207,9 @@ Los pueblos y las comunidades indígenas, con base en su autonomía, tienen dere
 
 Los servicios de salud que el Poder Ejecutivo del Estado proporcione a las personas que integran los pueblos y las comunidades indígenas se planearán y desarrollarán privilegiando el uso de su idioma y respetando, promoviendo y propiciando su sistema médico tradicional. Asimismo propiciarán la inclusión de las personas médicas tradicionales indígenas, de conformidad con lo que establezcan las leyes en la materia.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0666/2020 III P.E., POR EL QUE SE ADICIONA EL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE ABRIL DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2020)</small>
-
-LA INFORMACIÓN QUE SE DIFUNDA EN LAS CAMPAÑAS DE SALUD, TRATAMIENTOS MÉDICOS O QUIRÚRGICOS A LOS PACIENTES, INCLUIDAS LAS AUTORIZACIONES PARA RECIBIR ESTOS, DEBERÁ TRADUCIRSE A LA LENGUA MATERNA DE ACUERDO AL PUEBLO INDÍGENA DE QUE SE TRATE.
+La información que se difunda en las campañas de salud, tratamientos médicos o quirúrgicos a pacientes, incluidas las autorizaciones para recibir estos, deberá traducirse a la lengua materna de acuerdo con el pueblo indígena de que se trate.
 
 ###### Artículo 19.
 
@@ -632,3 +626,23 @@ P.O. 4 DE MARZO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFCNT/0509/2023 VI P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA, LEY ORGÁNICA DEL PODER EJECUTIVO, LEY ORGÁNICA DEL PODER JUDICIAL, LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS Y LEY ELECTORAL, TODAS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma constitucional.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En cumplimiento del Principio de Progresividad que impera en materia de Derechos Humanos, anualmente se incorporarán en los Presupuestos de Egresos para los ejercicios fiscales subsecuentes, las partidas económicas que permitan la mejora continua del Centro de Personas Traductoras e Intérpretes, hasta lograr su consolidación.
+
+###### ARTÍCULO CUARTO.
+
+En relación con el artículo 177 Ter, el establecimiento de los Centros Regionales de Personas Traductoras e Intérpretes atenderá a la suficiencia y justificación presupuestal que el Poder Judicial del Estado de Chihuahua establezca.
