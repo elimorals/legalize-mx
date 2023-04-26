@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-congreso-de-estado-de-tabasco-115801"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-23"
-last_updated: "2021-07-21"
+last_updated: "2023-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 23 de julio de 2016.
 
@@ -209,11 +209,15 @@ Las acciones que realice el Presidente para la salvaguarda del fuero constitucio
 
 #### SECCIÓN PRIMERA. DE LAS INASISTENCIAS O AUSENCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2023)</small>
+
 ###### Artículo 16.
 
-Las inasistencias de los diputados a las sesiones del Pleno, o el retiro de las mismas, solo serán dispensadas por el Presidente cuando el diputado interesado justifique su inasistencia o ausencia, por alguna de las siguientes causas:
+Las inasistencias de los diputados a las sesiones del Pleno, o el retiro de estas, solo serán dispensadas por el Presidente cuando el diputado interesado justifique su inasistencia o ausencia, por alguna de las siguientes causas:
 
-I. Enfermedad o incapacidad física que le impida desarrollar sus funciones;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+I. Enfermedad o incapacidad física, debidamente acreditada, que le impida desarrollar sus funciones;
 
 II. Cumplimiento de comisiones o encomiendas oficiales de los órganos directivos del Congreso o de las comisiones, para asistir a eventos oficiales;
 
@@ -221,7 +225,7 @@ III. Participación en actos oficiales convocados por entes públicos de la Fede
 
 IV. Caso fortuito o fuerza mayor; y
 
-V. Permiso escrito otorgado por el Presidente de la mesa, para atender asuntos urgentes de orden personal.
+V. (DEROGADA, P.O. 26 DE ABRIL DE 2023)
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
@@ -351,7 +355,9 @@ Las medidas o sanciones de orden disciplinario a que se pueden hacer acreedores 
 
 I. El apercibimiento, consistente en la indicación que hace el Presidente del Congreso a un diputado, cuando falta a las reglas que rigen el desarrollo de las sesiones o los debates y la duración de las intervenciones, tanto en el Pleno como en las Comisiones. Tiene por objeto generar las condiciones necesarias para el adecuado desarrollo de los trabajos parlamentarios;
 
-II. Los descuentos en las dietas de los diputados, que son las retenciones que se realizan en las percepciones que por ese concepto reciben los diputados, derivadas de inasistencias a las sesiones del Pleno o de las Comisiones, una vez que se determine su procedencia por falta de justificación;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+
+II. Los descuentos en las dietas de los diputados, que son las retenciones que se realizan en las percepciones que por ese concepto reciben los diputados, derivadas de inasistencias a las sesiones del Pleno o de las Comisiones, una vez que se determine su procedencia, al no haberse justificado en los términos del artículo 16;
 
 III. La remoción de un diputado como integrante de una o más comisiones, procede cuando se acredita la inasistencia del mismo, de manera recurrente, a las sesiones legalmente convocadas, impidiendo con ello el adecuado desarrollo de sus trabajos;
 
@@ -2302,3 +2308,11 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 TERCERO. Los asuntos relacionados con las cuentas públicas de los diversos entes fiscalizables que a la entrada en vigor del presente Decreto se encuentren en trámite, deberán ser turnados a la Comisión Ordinaria de Auditoría Gubernamental y Cuenta Pública, para los efectos legales a que haya lugar.
 
 CUARTO. Las referencias o remisiones que se hacen en diversas leyes o reglamentos a las comisiones ordinarias inspectoras de hacienda, primera, segunda y tercera, así como a las de Comunicaciones y Transportes, Tránsito y Vialidad u Ordenamiento Territorial y Obras Públicas, se entenderán en lo sucesivo realizadas a favor de las comisiones a que se refiere el presente Decreto.
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 156 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 16, FRACCIÓN I Y 28, FRACCIÓN II, Y SE DEROGA LA FRACCIÓN V, DEL ARTÍCULO 16, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
