@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-139590"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-28"
-last_updated: "2022-07-09"
+last_updated: "2023-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 28 de diciembre de 2019.
 
@@ -287,11 +287,9 @@ g) Unidad de Investigación de Responsabilidades Administrativas.
 
 h) Visitaduría.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0665/2020 III P.E., POR EL QUE SE ADICIONA EL INCISO i) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 26 DE ABRIL DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2020)</small>
-
-i) CENTRO DE PERSONAS TRADUCTORAS E INTÉRPRETES.
+i) Centro de Personas Traductoras e Intérpretes.
 
 La adscripción, competencia, atribuciones y obligaciones de las áreas auxiliares serán las que se determinen en la presente Ley y en los acuerdos generales que para tal efecto expida el Consejo.
 
@@ -2195,39 +2193,39 @@ Los recursos del Fondo Auxiliar se contabilizarán por separado respecto de aque
 
 La Dirección General de Administración deberá informar trimestralmente al Pleno del Consejo, sobre las actividades desarrolladas con afectación al patrimonio del Fondo Auxiliar.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0665/2020 III P.E., POR EL QUE SE ADICIONA LA SECCIÓN NOVENA DEL CAPÍTULO SEGUNDO DEL TÍTULO TERCERO, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE MARZO DE 2020
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN [N. DE E. REPUBLICADA], P.O. 26 DE ABRIL DE 2023)</small>
 
 #### SECCIÓN NOVENA. DEL CENTRO DE PERSONAS TRADUCTORAS E INTÉRPRETES
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0665/2020 III P.E., POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE ABRIL DE 2023)</small>
 
 ###### Artículo 177 Bis.
 
 El Centro de Personas Traductoras e Intérpretes es un órgano auxiliar del Poder Judicial, con autonomía técnica y operativa para el cumplimiento de sus funciones y desarrollo de sus actividades sustantivas.
 
-Tiene como objeto proveer lo necesario en materia de traducción e interpretación, a fin de que las instituciones de procuración, impartición y administración de justicia puedan garantizar, en este sentido, el derecho de acceso a la justicia a personas con discapacidad, particularmente visual, auditiva o del habla, así como a los pueblos y comunidades indígenas. Para tal efecto, contará con personal especializado en Lengua de Señas Mexicana, en la emisión de documentos en Sistema de Escritura Braille, en lenguas indígenas y demás ayudas técnicas y humanas necesarias para la comunicación.
+Tiene como objeto proveer lo necesario en materia de traducción e interpretación, a fin de que las instituciones de procuración, impartición y administración de justicia puedan garantizar, en este sentido, el derecho de acceso a la justicia a personas con discapacidad, pueblos y comunidades indígenas, así como a toda persona que no hable español.
 
-Así mismo, apoyará a los Poderes del Estado y demás autoridades de la Entidad Federativa, para que los actos que emitan en el ámbito de su competencia, con consecuencias jurídicas para personas con discapacidad visual, auditiva o del habla, así como para los pueblos y comunidades indígenas, se desarrollen con la asistencia de personas traductoras o intérpretes debidamente certificadas, según corresponda.
+Para tal efecto, contará con personal especializado en Lengua de Señas Mexicana, en la emisión de documentos en Sistema de Escritura Braille, en idiomas de los pueblos indígenas del Estado de Chihuahua, que sea conocedor de su cultura y del derecho indígena, y demás ayudas técnicas y humanas necesarias para la comunicación.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0665/2020 III P.E., POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+Así mismo, apoyará a los Poderes del Estado y demás autoridades de la Entidad Federativa, para que los actos que emitan en el ámbito de su competencia, con consecuencias jurídicas para personas con discapacidad, así como de los pueblos y comunidades indígenas, se desarrollen con la asistencia de personas traductoras o intérpretes debidamente certificadas, según corresponda.
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE ABRIL DE 2023)</small>
 
 ###### Artículo 177 Ter.
 
-El Centro de Personas Traductoras e Intérpretes dependerá del Consejo y para el adecuado cumplimiento de sus funciones se establecerán centros regionales en aquellos distritos judiciales que así lo requieran, previo cumplimiento del procedimiento establecido por la Ley para tal efecto.
+El Centro de Personas Traductoras e Intérpretes dependerá del Consejo y para el adecuado cumplimiento de sus funciones se establecerán centros regionales en los distritos judiciales del Estado, previo cumplimiento del procedimiento establecido por la Ley para tal efecto.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0665/2020 III P.E., POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE ABRIL DE 2023)</small>
 
 ###### Artículo 177 Quater.
 
-El Centro de Personas Traductoras e Intérpretes ejercerá sus atribuciones a través de la estructura orgánica que determine el Consejo y contará con el número de personas traductoras e intérpretes necesarias, de conformidad con los requerimientos de cada distrito judicial.
+El Centro de Personas Traductoras e Intérpretes ejercerá sus atribuciones a través de la estructura orgánica que determine el Consejo, y contará con el número de personas traductoras e intérpretes necesarias, de conformidad con los requerimientos de cada distrito judicial.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+###### Artículo 177 Quinquies.
+
+La persona que ocupe la titularidad del Centro de Personas Traductoras e Intérpretes, vigilará que quien coordine el área correspondiente a las lenguas indígenas, pertenezca a alguno de los pueblos originarios.
 
 ## TÍTULO CUARTO. DE LOS ÓRGANOS DESCONCENTRADOS
 
@@ -3538,3 +3536,23 @@ II. Emitir los lineamientos correspondientes para regular la operatividad del Re
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVII/RFCNT/0509/2023 VI P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA, LEY ORGÁNICA DEL PODER EJECUTIVO, LEY ORGÁNICA DEL PODER JUDICIAL, LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS Y LEY ELECTORAL, TODAS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma constitucional.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En cumplimiento del Principio de Progresividad que impera en materia de Derechos Humanos, anualmente se incorporarán en los Presupuestos de Egresos para los ejercicios fiscales subsecuentes, las partidas económicas que permitan la mejora continua del Centro de Personas Traductoras e Intérpretes, hasta lograr su consolidación.
+
+###### ARTÍCULO CUARTO.
+
+En relación con el artículo 177 Ter, el establecimiento de los Centros Regionales de Personas Traductoras e Intérpretes atenderá a la suficiencia y justificación presupuestal que el Poder Judicial del Estado de Chihuahua establezca.
