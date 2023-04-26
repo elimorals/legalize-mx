@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2023-03-27"
+last_updated: "2023-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -1526,6 +1526,10 @@ Cuando un diputado tenga un voto particular sobre un dictamen, deberá hacerlo d
 ###### ARTICULO 151.
 
 La presidenta o presidente de la comisión o comité, deberá citar a las reuniones ordinarias con por lo menos cuarenta y ocho horas de anticipación, y adjuntará, el orden del día; el acta de la reunión anterior; la lista de asuntos turnados; los proyectos de dictámenes o asuntos que vayan a discutirse, a través del Sistema de Mensajería del Congreso, a la dirección de correo electrónico o cualquier medio electrónico, a cada diputada y diputado integrante, así como a las y los diputados promoventes de las iniciativas o puntos de acuerdo, cuyo dictamen se vaya a discutir, salvo en caso de reunión extraordinaria.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+La Junta de Coordinación Política por conducto de la Coordinación de Asesoría y Secretariado Técnico de Comisiones, enviará a las y los diputados el orden del día de las reuniones ordinarias de comisiones y comités, en los tiempos establecidos en el párrafo anterior.
 
 Cuando así lo acuerden, podrán obviar este trámite y determinar la fecha y hora de la reunión siguiente al final de cada reunión, asentándolo en el acta respectiva; no obstante, se deberá enviar toda la documentación que vaya a someterse a discusión, en los mismos términos y con la anticipación que señala el párrafo anterior.
 
@@ -3068,5 +3072,13 @@ P.O. 27 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0727.- SE REFORMA EL ARTÍCULO 82, ASÍ COMO SE ADICIONA AL ARTÍCULO 126, EL ARTÍCULO 126 BIS Y AL 128, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONA EN EL TÍTULO DÉCIMO, EL CAPÍTULO XIV Y LOS ARTÍCULOS 207, 208 Y 209, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0740.- SE REFORMA EL ARTÍCULO 138, EN SU FRACCIÓN XIV, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONA AL ARTÍCULO 151, UN PÁRRAFO, ÉSTE COMO SEGUNDO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
