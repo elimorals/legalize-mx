@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-administracion-del-13885
 country: "mx"
 rank: "codigo"
 publication_date: "2019-07-31"
-last_updated: "2019-07-31"
+last_updated: "2023-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE ADMINISTRACION DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2023 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE ADMINISTRACIÓN DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
 
 Código publicado en el Número 5731 del Periódico Oficial del Estado de Morelos, el miércoles 31 de julio de 2019.
 
@@ -61,21 +63,27 @@ CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE ADMINISTRACIÓN
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
+
 ###### Artículo 1.
 
-El presente Código de Conducta es un instrumento que regula la actuación de los servidores públicos de la Secretaría de Administración del Poder Ejecutivo del Estado Libre y Soberano de Morelos, en el ejercicio de sus atribuciones y responsabilidades.
+El presente código de conducta es un instrumento que regula la actuación de los servidores públicos de la Secretaría de Administración del Poder Ejecutivo del Estado Libre y Soberano de Morelos, en el ejercicio de sus atribuciones y responsabilidades, siendo obligatorio en cualquiera de sus niveles.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
 
 ###### Artículo 2.
 
-Corresponde al Comité de Ética de la Secretaría de Administración fomentar y vigilar el cumplimiento del presente Código de Conducta.
+Corresponde al Comité de Ética de la Secretaría de Administración fomentar y vigilar el cumplimiento del presente código de conducta, que tiene por objeto propiciar un ambiente laboral adecuado, libre de violencia, discriminación y fomentando la ética junto con los valores y principios rectores, señalados en el Código de Ética de la Administración pública estatal.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
 
 ###### Artículo 3.
 
-Además de las definiciones contenidas en el Código de Ética, para los efectos del presente instrumento se entiende por:
+Además de las definiciones contenidas en el Código de Ética de la Administración Pública Estatal, para los efectos del presente instrumento se entiende por:
 
-I. Código de Conducta, al presente instrumento jurídico;
+I. Código de conducta, al presente instrumento jurídico;
 
-II. Secretario, al Titular de la Secretaría de Administración;
+II. Secretario, al titular de la Secretaría de Administración;
 
 III. Comité, al Comité de Ética de la Secretaría de Administración;
 
@@ -83,49 +91,55 @@ IV. Contraloría, a la Secretaría de la Contraloría del Poder Ejecutivo Estata
 
 V. Personal, a los servidores públicos adscritos a la Secretaría de Administración;
 
-VI. Unidades Administrativas, a cada una de las Unidades Administrativas que conforman a la Secretaría de Administración, en términos del Reglamento Interior.
+VI. Unidades Administrativas, a cada una de las Unidades Administrativas que conforman a la Secretaría de Administración, en términos del Reglamento Interior de la Secretaría de Administración.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS RECTORES
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
+
 ###### Artículo 4.
 
-El personal debe cumplir en el desempeño de su empleo, cargo o comisión con los Principios Rectores conceptualizados en (sic) artículo 4 del Código de Ética y Reglas de Integridad a las que deben sujetarse los Servidores Públicos de la Administración Pública Estatal; que a continuación se enuncian:
+El personal debe cumplir en el desempeño de su empleo, cargo o comisión con los principios rectores conceptualizados en artículo 4 del Código de Ética de la Administración Pública Estatal; que a continuación se enuncian:
 
-I. Legalidad;
+I. Respeto a los Derechos Humanos;
 
-II. Honradez;
+II. Legalidad;
 
-III. Lealtad;
+III. Honradez;
 
-IV. Imparcialidad;
+IV. Lealtad;
 
-V. Eficiencia;
+V. Imparcialidad;
 
-VI. Economía;
+VI. Eficiencia;
 
-VII. Disciplina;
+VII. Economía;
 
-VIII. Profesionalismo;
+VIII. Disciplina;
 
-IX. Objetividad;
+IX. Profesionalismo;
 
-X. Transparencia;
+X. Objetividad;
 
-XI. Rendición de Cuentas;
+XI. Transparencia;
 
-XII. Competencia por Mérito;
+XII. Rendición de Cuentas;
 
-XIII. Eficacia;
+XIII. Competencia por Mérito;
 
-XIV. Integridad; y
+XIV. Eficacia;
 
-XV. Equidad.
+XV. Integridad; y,
+
+XVI. Equidad.
 
 ### CAPÍTULO III. DE LOS VALORES
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
+
 ###### Artículo 5.
 
-El personal debe cumplir en el desempeño de su empleo, cargo o comisión con los valores conceptualizados en el artículo 5 del Código de Ética y Reglas de Integridad a las que debe (sic) sujetarse los Servidores Públicos de la Administración Pública Estatal; que a continuación se señalan:
+El personal debe cumplir en el desempeño de su empleo, cargo o comisión con los valores conceptualizados en el artículo 5 del Código de Ética de la Administración Pública Estatal; que a continuación se señalan:
 
 I. Cooperación;
 
@@ -147,9 +161,11 @@ VIII. Respeto a los Derechos Humanos.
 
 #### SECCIÓN PRIMERA. DE LAS REGLAS APLICABLES A TODO EL PERSONAL
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
+
 ###### Artículo 6.
 
-Las y los servidores públicos de las Unidades Administrativas que integran la Secretaría de Administración, en ejercicio de sus atribuciones, deberán observar en todo momento las reglas de integridad previstas en el Código de Ética y Reglas de Integridad a las que deben sujetarse los Servidores Públicos de la Administración Pública Estatal, para salvaguardar los principios y valores que rigen el ejercicio de la función pública.
+Las y los servidores públicos de las unidades administrativas que integran la Secretaría de Administración, en ejercicio de sus atribuciones, deberán observar en todo momento las reglas de integridad previstas en el Código de Ética de la Administración pública estatal, para salvaguardar los principios y valores que rigen el ejercicio de la función pública.
 
 I. Actuación pública;
 
@@ -165,7 +181,7 @@ VI. Administración de bienes muebles e inmuebles;
 
 VII. Control interno;
 
-VIII. Cooperación y desempeño permanente con integridad;
+VIII. Cooperación y desempeño permanente con integridad; y,
 
 IX. Comportamiento digno.
 
@@ -427,49 +443,97 @@ XIII. Cuidarse de no difundir rumores o cualquier tipo de información sobre la 
 
 ### CAPÍTULO V. DE LA ACTUACIÓN CONFORME A SU DESEMPEÑO EN EL SERVICIO PÚBLICO
 
-Artículo16. El personal adscrito a las Unidades Administrativas de la Secretaría de Administración, en ejercicio de las atribuciones conferidas en el Reglamento Interior de la Secretaría de Administración, deberá actuar con estricto apego a lo dispuesto en el Código de Ética y Reglas de Integridad a las que deben sujetarse los Servidores Públicos de la Administración Pública Estatal; los principios y valores que se prevén, con la finalidad de evitar posibles actos de corrupción, impunidad e impulsando la perspectiva de género.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+###### Artículo 16.
+
+El personal adscrito a las unidades administrativas de la Secretaría de Administración, en ejercicio de las atribuciones conferidas en el Reglamento Interior de la Secretaría de Administración, deberá actuar con estricto apego a lo dispuesto en el Código de Ética de la Administración Pública Estatal; los principios y valores que se prevén, con la finalidad de evitar posibles actos de corrupción, impunidad e impulsando la perspectiva de género.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
 
 ###### Artículo 17.
 
-Para la vigilancia del Código de Ética y Reglas de Integridad a las que debe (sic) sujetarse los Servidores Públicos de la Administración Pública Estatal y del Código de Conducta, se establece el Comité de Ética de la Secretaría de Administración, mismo que estará integrado de la siguiente forma:
+El personal adscrito a las Unidades Administrativas de la Secretaría de Administración, en todo momento deberá de observar y cumplir los compromisos señalados en el artículo 30 del Código de Ética de la Administración Pública Estatal.
 
-I. La persona Titular de la Secretaría, quien fungirá como Presidente;
-
-II. La persona Titular de la Unidad de Enlace Financiero Administrativo, en carácter de Secretario Técnico;
-
-III. La persona Titular de la Unidad de Enlace Jurídico en carácter de Vocal; y,
-
-IV. En su caso, el superior jerárquico de la persona señalada como presunta responsable.
-
-Los integrantes contarán con voz y voto, en caso de empate el Presidente tendrá el voto de calidad.
-
-El Órgano Interno de Control, deberá participar en todas las Sesiones con derecho a voz.
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
 
 ###### Artículo 18.
 
-El Comité tendrá las funciones siguientes:
+El personal adscrito a las Unidades Administrativas de la Secretaría de Administración, en el ámbito de sus competencias en todo momento observaran las reglas de integridad establecidas en el artículo 31 del Código de Ética de la Administración Pública Estatal.
 
-I. El funcionamiento y las Sesiones del Comité de Ética, se desarrollarán en términos de lo dispuesto en el Acuerdo por el que se Establecen los Lineamientos para la Celebración de Sesiones de los Distintos Órganos Colegiados que Actúan y Participan en la Administración Pública del Estado de Morelos;
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
 
-II. Realizar acciones para promover al interior de las Unidades Administrativas de la Secretaría, el Código de Ética y Reglas de Integridad a las que debe (sic) sujetarse los Servidores Públicos de la Administración Pública Estatal y Código de Conducta;
+### CAPÍTULO VI. CONFORMACIÓN DEL COMITÉ
 
-III. Analizar los asuntos de los que se desprenda alguna presunta acción u omisión por parte de algún servidor público en contra de los principios rectores establecidos en el Código de Ética y Reglas de Integridad a las que deben sujetarse los Servidores Públicos de la Administración Pública Estatal y en el Código de Conducta.
-
-### CAPÍTULO VI. DE LA VIGILANCIA Y CUMPLIMIENTO
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
 
 ###### Artículo 19.
 
-Sin perjuicio del acatamiento del presente Código de Conducta, en el desarrollo de sus funciones, el personal deberá cumplir con lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, el Reglamento Interior de la Secretaría de Administración y la demás normativa aplicable.
+El presente capitulo es conforme a lo señalado y establecido en Lineamientos generales para la integración, organización y funcionamiento de los Comités de Ética de la Administración Pública, en su capítulo correspondiente.
+
+Se establece el Comité de Ética de la Secretaría de Administración, mismo que estará integrado de la siguiente forma:
+
+I. La persona titular de la Secretaría, quien fungirá como presidente;
+
+II. La persona titular de la Unidad de Enlace Financiero Administrativo, en carácter de secretario técnico;
+
+III. La persona titular de la Unidad de Enlace Jurídico en carácter de vocal; y,
+
+IV. En su caso, el superior jerárquico de la persona señalada como presunta responsable. Los integrantes contarán con voz y voto, en caso de empate el presidente tendrá el voto de calidad.
+
+El órgano interno de control, deberá participar en todas las sesiones con derecho a voz.
+
+Los cargos en los Comités serán honoríficos y por su desempeño no se percibirá retribución, emolumento o compensación alguna.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
 
 ###### Artículo 20.
 
-El presente Código de Conducta no sustituye en forma alguna el cabal cumplimiento de la normativa en materia de responsabilidades administrativas.
+Adicionales a las funciones establecidas en los Lineamientos Generales para la integración, organización y funcionamiento de los Comités de Ética de la Administración Pública, el Comité realizara las siguientes:
 
-### CAPÍTULO VII. DE LAS DISPOSICIONES FINALES
+I. El funcionamiento y las sesiones del comité de ética, se desarrollarán en términos de lo dispuesto en el acuerdo por el que se establecen los Lineamientos para la Celebración de Sesiones de los Distintos Órganos Colegiados que Actúan y Participan en la Administración Pública del Estado de Morelos;
+
+II. Realizar acciones para promover al interior de las Unidades Administrativas de la Secretaría, el Código de Ética de la Administración Pública Estatal y código de conducta;
+
+III. Analizar los asuntos de los que se desprenda alguna presunta acción u omisión por parte de algún servidor público en contra de los principios rectores establecidos en el código de ética y en el código de conducta.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+### CAPÍTULO VII. DE LAS QUEJAS Y DENUNCIAS
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
 
 ###### Artículo 21.
 
-El Secretario, por conducto de las Unidades Administrativas, promoverá entre el personal la importancia del cumplimiento del Código de Conducta.
+En relación a las quejas y denuncias que se realicen por las personas que conozcan sobre los posibles incumplimientos al código de ética o al presente código de conducta, se llevará el proceso de conformidad en lo establecido en el capítulo correspondientes de los Lineamientos generales para la integración, organización y funcionamiento de los Comités de Ética de la Administración Pública.
+
+### CAPÍTULO VIII. DE LA VIGILANCIA Y CUMPLIMIENTO
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+###### Artículo 22.
+
+Para la vigilancia del Código de Ética de la Administración Pública Estatal y del código de conducta, se realizará por conducto del comité así como por el órgano de control interno.
+
+### CAPÍTULO IX. DE LAS DISPOSICIONES FINALES
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+###### Artículo 23.
+
+Sin perjuicio del acatamiento del presente código de conducta, en el desarrollo de sus funciones, el personal deberá cumplir con lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, el Reglamento Interior de la Secretaría de Administración y demás normativa aplicable.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+###### Artículo 24.
+
+El presente código de conducta no sustituye en forma alguna el cabal cumplimiento de la normativa en materia de responsabilidades administrativas.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2023)</small>
+
+###### Artículo 25.
+
+El secretario, por conducto de las Unidades Administrativas, promoverá entre el personal la importancia del cumplimiento del código de conducta.
 
 DISPOSICIONES TRANSITORIAS
 
@@ -484,3 +548,13 @@ MIRNA ZAVALA ZUÑIGA
 SECRETARIA DE ADMINISTRACIÓN
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE ADMINISTRACIÓN”.]
+
+PRIMERA. El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente código.
