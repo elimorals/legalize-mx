@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-desarrollo-142304"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-03-04"
-last_updated: "2020-03-04"
+last_updated: "2023-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142304&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE DESARROLLO AGROPECUARIO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA CUARTA DEL CÓDIGO DE CONDUCTA DEL PERSONAL DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO DEL PODER EJECUTIVO ESTATAL, PUBLICADO EN EL P.O. DE 27 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2023 (ABROGADO).
 
 Código publicado en el No. 5790 del Periódico Oficial del Estado de Morelos, el miércoles 4 de marzo de 2020.
 
@@ -452,3 +454,17 @@ M.C. MARGARITA MARÍA GALEANA TORRES
 SECRETARIA DE DESARROLLO AGROPECUARIO
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DEL PERSONAL DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO DEL PODER EJECUTIVO ESTATAL".]
+
+PRIMERA. El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente instrumento deberá difundirse también en el portal oficial de la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo Estatal.
+
+TERCERA. Se instruye a la Unidad de Enlace Financiero Administrativo de la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo Estatal a dar a conocer al personal de la Secretaría de Desarrollo Agropecuario, así como al que sea de nuevo ingreso, la existencia y contenido del presente Código de Conducta.
+
+CUARTA. Se abroga el Código de Conducta de la Secretaría de Desarrollo Agropecuario, publicado en el Periódico Oficial "Tierra y Libertad", número 5790, de fecha 04 de marzo de 2020.
