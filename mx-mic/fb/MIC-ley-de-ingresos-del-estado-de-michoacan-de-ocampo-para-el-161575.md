@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-16157
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-22"
-last_updated: "2022-12-22"
+last_updated: "2023-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161575&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2023.
 
 Ley publicada en la Décima Tercera Sección al Núm. 91 del Periódico Oficial del Estado de Michoacán, el jueves 22 de diciembre de 2022.
 
@@ -3407,6 +3407,10 @@ DÉCIMO TERCERO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo
 
 DÉCIMO CUARTO. El Titular del Poder Ejecutivo del Estado, acompañado del refrendo del Secretario de Gobierno de conformidad con lo dispuesto por el artículo 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, dispondrá se publique y observe.
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2023)</small>
+
+DÉCIMO QUINTO. Para efectos de cubrir los derechos que se causen en el servicio de transporte público, que refiere el artículo 19, fracciones II y IV, inciso B), como excepción transitoria a lo dispuesto en la Ley de Hacienda del Estado de Michoacán de Ocampo, se amplía el plazo para llevar a cabo dichos pagos, hasta el día 30 de junio del año 2023.
+
 El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
 DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 21 veintiún días del mes de diciembre de 2022 dos mil veintidós.
@@ -3416,3 +3420,13 @@ ATENTAMENTE.- PRESIDENTA DE LA MESA DIRECTIVA.- DIP. JULIETA GARCÍA ZEPEDA.- PR
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 22 veintidós días del mes de diciembre del año 2022 dos mil veintidós.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- MTRO. ALFREDO RAMÍREZ BEDOLLA.- EL SECRETARIO DE GOBIERNO.- LIC. CARLOS TORRES PIÑA.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 370 POR EL QUE “SE ADICIONA UN TRANSITORIO, DÉCIMO QUINTO A LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2023”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese al Poder Ejecutivo del Estado Estado (sic) y a la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
