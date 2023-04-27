@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-bebe-seguro-de-la-ciudad-de-mexico-117740"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-22"
-last_updated: "2022-12-12"
+last_updated: "2023-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117740&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-12-19"
 
 LEY DE BEBÉ SEGURO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE ABRIL DE 2023.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el jueves 22 de diciembre de 2016.
 
@@ -102,6 +102,8 @@ V. Realizar el depósito del apoyo económico mensual correspondiente, dentro de
 
 Cabe mencionar que el apoyo económico mensual debe ser utilizado necesariamente para la compra de productos alimenticios, medicamentos directamente prescritos para el menor de 12 meses y/o algunos enseres que sean indispensables para asegurar su sobrevivencia.
 
+(REPUBLICADO PRIMER PÁRRAFO, G.O. 27 DE ABRIL DE 2023)
+
 ###### Artículo 5.
 
 Son principios rectores, de aplicación obligatoria, en la observancia, interpretación y aplicación de esta Ley, los siguientes:
@@ -120,9 +122,37 @@ V. Accesibilidad: los mecanismos y acciones de gobierno instrumentados con el fi
 
 VI. Preeminencia parental: lo que implica que el Estado respete la responsabilidad primordial de los ascendientes y familiares en el desarrollo de niñas y los niños de 0 a 12 meses de edad;
 
-VII. Protección Especial: conforme a la cual se reconoce la situación particular de las niñas y los niños de 0 a 12 meses de edad, quienes tienen diversas necesidades en su desarrollo que obligan a la elaboración de respuestas gubernamentales especiales y políticas públicas específicas, con objeto de procurar que todos ejerzan sus derechos con equidad y progresividad, y
+> <small>(REFORMADA, G.O. 27 DE ABRIL DE 2023)</small>
 
-VIII. Igualdad y no discriminación: las disposiciones de esta Ley se aplican por igual a todas las niñas y los niños de 0 a 12 meses de edad de familias de bajos recursos que cumplan con lo establecido en el reglamento, sin discriminación alguna fundada por motivos de raza, color, sexo, edad, religión, origen social, discapacidad, enfermedad, nacimiento o cualquier otra condición de la niña o el niño, de sus ascendientes, tutores o responsables.
+VII. Protección Especial: conforme a la cual se reconoce la situación particular de las niñas y los niños de 0 a 12 meses de edad, quienes tienen diversas necesidades en su desarrollo que obligan a la elaboración de respuestas gubernamentales especiales y políticas públicas específicas, con objeto de procurar que todos ejerzan sus derechos con equidad y progresividad;
+
+> <small>(REFORMADA, G.O. 27 DE ABRIL DE 2023)</small>
+
+VIII. Igualdad y no discriminación: las disposiciones de esta Ley se aplican por igual a todas las niñas y los niños de 0 a 12 meses de edad de familias de bajos recursos que cumplan con lo establecido en el reglamento, sin discriminación alguna fundada por motivos de raza, color, sexo, edad, religión, origen social, discapacidad, enfermedad, nacimiento o cualquier otra condición de la niña o el niño, de sus ascendientes, tutores o responsables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE ABRIL DE 2023)</small>
+
+IX. La universalidad, interdependencia, indivisibilidad, progresividad e integralidad son principios garantes de los derechos de los bebés conforme a lo dispuesto en los artículos 1o. y 4o. de la Constitución Política de los Estados Unidos Mexicanos así como en los Tratados Internacionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE ABRIL DE 2023)</small>
+
+X. El derecho a la vida, a la supervivencia y al desarrollo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE ABRIL DE 2023)</small>
+
+XI. La interculturalidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE ABRIL DE 2023)</small>
+
+XII. El principio pro persona;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE ABRIL DE 2023)</small>
+
+XIII. El acceso a una vida libre de violencia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE ABRIL DE 2023)</small>
+
+XIV. El derecho al adecuado desarrollo evolutivo de la personalidad.
 
 ###### Artículo 6.
 
@@ -333,3 +363,11 @@ G.O. 12 DE DICIEMBRE DE 2022.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 5º DE LA LEY DE BEBÉ SEGURO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
