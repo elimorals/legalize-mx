@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-hacienda-del-estado-1409
 country: "mx"
 rank: "codigo"
 publication_date: "2020-01-01"
-last_updated: "2020-01-01"
+last_updated: "2023-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE HACIENDA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA TERCERA DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE HACIENDA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE ABRIL DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE HACIENDA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2023 (ABROGADO).
 
 Código publicado en el Número 5770 del Periódico Oficial del Estado de Morelos, el miércoles 1 de enero de 2020.
 
@@ -384,3 +386,15 @@ JOSÉ ALEJANDRO JESÚS VILLARREAL GASCA
 SECRETARIO DE HACIENDA
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE HACIENDA”.]
+
+PRIMERA. El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se instruye a la persona titular de la Unidad de Enlace Financiero Administrativo de la Secretaría de Hacienda del Estado a dar a conocer al personal de dicha secretaría el presente Código de Conducta. Acción que realizará en lo sucesivo también con respecto al personal que sea de nuevo ingreso.
+
+TERCERA. Se abroga el Código de Conducta de la Secretaría de Hacienda, publicado en el Periódico Oficial “Tierra y Libertad”, número 5770, de fecha 01 de enero de 2020, así como se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente código.
