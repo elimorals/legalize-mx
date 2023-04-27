@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cooperativo-para-la-ciudad-de-mexico-antes-47952
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-20"
-last_updated: "2022-10-27"
+last_updated: "2023-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47952&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2006-01-06"
 
 LEY DE FOMENTO COOPERATIVO PARA LA CIUDAD DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2022.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE ABRIL DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de enero de 2006.
 
@@ -58,6 +58,10 @@ La presente Ley es de orden público, interés social y de observancia general e
 
 Tiene por objeto el establecimiento, la regulación y la coordinación de políticas, programas y acciones de fomento cooperativo para el desarrollo económico, sin perjuicio de los programas, estímulos y acciones que a nivel federal se establezcan para el mismo fin
 
+> <small>(ADICIONADO, G.O. 27 DE ABRIL DE 2023)</small>
+
+La aplicación de este ordenamiento estará a cargo de las autoridades del Gobierno de la Ciudad de México, quienes ejercerán las atribuciones que les correspondan, favoreciendo la coordinación interinstitucional para el fortalecimiento del desarrollo económico.
+
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 19 DE MARZO DE 2021)</small>
 
 ###### Artículo 2.
@@ -80,6 +84,10 @@ II. Promoción de la economía cooperativista en la producción, distribución y
 
 III. Otorgamiento de mecanismos que aseguren la igualdad entre sectores y clases sociales, por lo que se prohíbe solicitar a los organismos del sector social mayores requisitos que los exigidos a otras entidades económicas para el concurso u otorgamiento de créditos o cualquier otro contrato con cualquier organismo de la Administración Pública de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 27 DE ABRIL DE 2023)</small>
+
+III Bis. Impulsar la participación de las personas mexicanas residentes en el extranjero en la constitución e inversión para el desarrollo de sociedades cooperativas.
+
 > <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
 
 IV. El Gobierno de la Ciudad de México procurará proveerse de los bienes y servicios que produzcan las sociedades cooperativas, siempre y cuando cumplan con lo dispuesto en la normatividad en materia de Adquisiciones vigente en la Ciudad de México.
@@ -88,9 +96,9 @@ V. Acceso a estímulos e incentivos para la integración de las Sociedades Coope
 
 VI. Fortalecer entre la población la comercialización, consumo y disfrute de los bienes y servicios producidos por las cooperativas;
 
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 27 DE ABRIL DE 2023)</small>
 
-VII. Participación del sector cooperativo en el sistema de planeación democrática y en los Consejos de Fomento Económico y Social y demás que establezcan las Leyes vigentes en la Ciudad de México;
+VII. Participación del sector cooperativo en el Sistema de Planeación del Desarrollo de la Ciudad de México y en el Consejo Económico, Social y Ambiental de la Ciudad de México y demás que establezcan las Leyes vigentes en la Ciudad de México;
 
 VIII. Impulsar la educación, capacitación y en general la cultura cooperativa y la participación de la población en la promoción, divulgación y financiamiento de proyectos cooperativos, de tal manera que se impulse la cultura del ahorro, mediante cajas populares y las cooperativas de ahorro y préstamo;
 
@@ -98,7 +106,9 @@ IX. Garantizar el respeto por la organización social para el trabajo y hacer ef
 
 X. Difusión de la cultura cooperativista, basada en la organización social, autogestiva y democrática del trabajo;
 
-XI. Apoyar a las Sociedades Cooperativas con planes y programas de financiamiento para proyectos productivos; y,
+> <small>(REFORMADA, G.O. 27 DE ABRIL DE 2023)</small>
+
+XI. Apoyar a las Sociedades Cooperativas con planes y programas de financiamiento para proyectos productivos y de generación de servicios;
 
 > <small>(ADICIONADA, G.O. 19 DE MARZO DE 2021)</small>
 
@@ -148,37 +158,55 @@ IV. Son actos accesorios o conexos aquellos que se deriven de otros actos cooper
 
 La constitución, organización y capacidad jurídica de las sociedades cooperativas se rigen por las disposiciones de la legislación federal aplicable.
 
-> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE ABRIL DE 2023)</small>
 
 ###### Artículo 5.
 
-Acciones de Gobierno.
+Acciones de Gobierno
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE MARZO DE 2021)</small>
 
 Las acciones de gobierno en materia de fomento cooperativo se orientarán por los siguientes principios:
 
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
+
 I. Fomento de la educación cooperativa y de la educación en la economía solidaria;
+
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
 
 II. Respeto a los derechos humanos laborales, al empleo, la libertad de profesión e industria y a la organización social para el trabajo, como una de las bases de la existencia, convivencia y bienestar de la sociedad;
 
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
+
 III. Respeto a la adhesión voluntaria y abierta al sector cooperativo sin discriminaciones, atendiendo a la composición pluricultural de sectores, géneros, manifestaciones y valores de los individuos y grupos sociales que componen la población de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
 
 IV. Respeto a la autonomía y gestión democrática en las sociedades cooperativas, a la integración y solidaridad entre éstas y su interés y servicio social por la comunidad;
 
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
+
 V. Respeto al derecho individual de los integrantes de las sociedades cooperativas a pertenecer a cualquier partido político o asociación religiosa;
 
-VI. Promover y facilitar la localización y el establecimiento de sociedades cooperativas y su participación en proyectos de reciclamiento del suelo;
+> <small>(REFORMADA, G.O. 27 DE ABRIL DE 2023)</small>
+
+VI. Promover y facilitar la localización y el establecimiento de sociedades cooperativas y su participación en proyectos de reciclamiento del suelo y de desarrollo sustentable;
+
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
 
 VII. Protección, conservación, consolidación y uso racional del patrimonio social del sistema cooperativo por parte de las autoridades del Gobierno;
 
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
+
 VIII. Organización social para el trabajo mediante el reconocimiento de las sociedades cooperativas como organismos de utilidad pública para el bienestar común y sujetas al fin social que establecen nuestras leyes;
 
-> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, G.O. 27 DE ABRIL DE 2023)</small>
 
-IX. Simplificación, agilidad, información, precisión, legalidad, transparencia e imparcialidad en los actos y procedimientos administrativos;
+IX. Simplificación, agilidad, información, precisión, legalidad, transparencia, rendición de cuentas e imparcialidad en los actos y procedimientos administrativos;
 
-> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, G.O. 27 DE ABRIL DE 2023)</small>
 
-X. Otorgar estímulos fiscales y apoyo económico en los términos que establezca esta Ley, las autoridades y el Código Fiscal de la Ciudad de México; y
+X. Otorgar estímulos fiscales y apoyo económico a las sociedades cooperativas que cuenten con su plan anual de trabajo, en los términos que establezca esta Ley y el Código Fiscal de la Ciudad de México; y
 
 > <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
@@ -280,7 +308,9 @@ IV. Evaluar y diseñar nuevos estímulos fiscales que se adecuan a las necesidad
 
 Son atribuciones de las personas titulares de las Alcaldías.
 
-I. Participar en la elaboración y ejecución de los programas de fomento cooperativo de su demarcación;
+> <small>(REFORMADA, G.O. 27 DE ABRIL DE 2023)</small>
+
+I. Participar en la elaboración y ejecución de los programas de fomento cooperativo de su demarcación, vigilar su implementación y dar seguimiento al desarrollo de las sociedades cooperativas;
 
 II. Impulsar las actividades de fomento cooperativo, por si y en coordinación con las dependencias del ramo;
 
@@ -290,7 +320,9 @@ IV. Cada Alcaldía contará con una Dirección o área de Fomento Cooperativo;
 
 V. Fortalecer entre la población la comercialización, consumo y disfrute de los bienes y servicios producidos por las sociedades cooperativas; y
 
-VI. Formar personas aptas para el desarrollo de las sociedades cooperativas.
+> <small>(REFORMADA, G.O. 27 DE ABRIL DE 2023)</small>
+
+VI. Implementar a través del área referida en la fracción IV del presente artículo, un programa de formación en cooperativismo, economía social y solidaria y consumo local.
 
 > <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
 
@@ -306,29 +338,49 @@ En las escrituras públicas, para los efectos señalados en el párrafo anterior
 
 ### CAPITULO TERCERO. Del Fomento Cooperativo
 
-> <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE ABRIL DE 2023)</small>
 
 ###### Artículo 12.
 
-Acciones de fomento.
+Acciones de fomento
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE MARZO DE 2021)</small>
 
 El fomento cooperativo en la Ciudad de México comprende, entre otras acciones, las siguientes:
 
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
+
 I. Acciones jurídicas, administrativas y de carácter socioeconómico que tengan como fin abrir, conservar, fomentar, proteger, y expandir las fuentes de empleo en el sector social, procurando otorgar condiciones de factibilidad y simplificación administrativa para su apertura, desarrollo y legal funcionamiento;
+
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
 
 II. Acciones de registro, investigación, análisis y estudio para el exacto conocimiento de la situación del sistema, sector y movimiento cooperativo para mejorar, planear y consolidar las políticas públicas en la materia;
 
-III. Acciones de fomento y difusión del cooperativismo, para acrecentar la conciencia y modelo cooperativo, como una opción viable de desarrollo económico y social para los habitantes de la Ciudad de México;
+> <small>(REFORMADA, G.O. 27 DE ABRIL DE 2023)</small>
+
+III. Acciones de fomento y difusión del cooperativismo, para acrecentar la conciencia y modelo cooperativo, como una opción viable de desarrollo económico, social y sustentable para las personas habitantes de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
 
 IV. Acciones de capacitación y adiestramiento para la formación de personas aptas para desarrollar empresas sociales;
 
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
+
 V. Acciones de apoyo diverso para la organización, la protección y el impulso de los modos tradicionales solidarios de producción colectiva, de las culturas de los pueblos y barrios originarios, comunidades indígenas, rurales y populares residentes en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
 
 VI. Acciones de cooperación en materia cooperativa con la federación, los estados y municipios, y con otros países u organismos internacionales públicos y privados;
 
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
+
 VII. Acciones de fomento de las empresas cooperativas de participación estatal;
 
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
+
 VIII. Acciones que aseguren la igualdad entre sectores y las Sociedades Cooperativas en el concurso u otorgamiento de créditos o cualquier otro contrato con cualquier organismo de la Administración Pública; y
+
+> <small>(REFORMADA, G.O. 19 DE MARZO DE 2021)</small>
 
 IX. Los demás conceptos a los que esta Ley y otros ordenamientos jurídicos les den ese carácter.
 
@@ -533,5 +585,13 @@ G.O. 27 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICAN LAS FRACCIONES IX Y X, Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 5 DE LA LEY DE FOMENTO COOPERATIVO PARA LA CIUDAD DE MÉXICO".]
 
 PRIMERO.- Remítase a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 1, SE ADICIONA UNA FRACCIÓN III BIS Y SE REFORMAN LAS FRACCIONES VII Y XI, DEL ARTÍCULO 2, SE REFORMAN LAS FRACCIONES VI, IX Y X DEL ARTÍCULO 5; SE REFORMAN LAS FRACCIONES I Y VI DEL ARTÍCULO 10 Y SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 12 DE LA LEY DE FOMENTO COOPERATIVO PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
