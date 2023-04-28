@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2023-03-31"
+last_updated: "2023-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -126,6 +126,10 @@ X. Constitución Federal: A la Constitución Política de los Estados Unidos Mex
 XI. Constitución Estatal: A la Constitución Política del Estado Libre y Soberano de México.
 
 XII. Convención: A la Convención sobre los Derechos del Niño.
+
+> <small>(ADICIONADA, G.G. 28 DE ABRIL DE 2023)</small>
+
+XII Bis. Crianza positiva: Al conjunto de prácticas de cuidado, protección, formación, guía y cualquier otra, que llevan a cabo las madres, padres, así como cuidadoras y cuidadores, que permiten el adecuado desarrollo físico, emocional y psicosocial de las niñas, niños y adolescentes, atendiendo a su interés superior, así como a la evolución de sus facultades, necesidades, motivaciones y aspiraciones, respetando irrestrictamente sus derechos humanos y evitando en todo momento el uso de cualquier tipo de violencia o trato que afecte su dignidad humana en cualquier etapa de su formación.
 
 XIII. Desarrollo Integral: Al derecho que tienen niñas, niños y adolescentes a formarse física, mental, emocional y socialmente en las condiciones que permitan satisfacer sus necesidades básicas y el goce pleno de sus derechos.
 
@@ -353,9 +357,11 @@ II. Tomar en cuenta la opinión de niñas, niños y adolescentes, conforme a su 
 
 ### Capítulo Cuarto. Del Derecho a Vivir en Familia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE ABRIL DE 2023)</small>
+
 ###### Artículo 15.
 
-Niñas, niños y adolescentes tienen derecho a vivir en una familia. Siempre que sea posible deberán crecer bajo la responsabilidad y el cuidado de sus padres y en todo caso en un ambiente de afecto y de seguridad física, moral, intelectual y material.
+Niñas, niños y adolescentes tienen derecho a vivir en una familia. Siempre que sea posible deberán crecer bajo la responsabilidad y el cuidado de sus padres, y recibir una crianza positiva en un ambiente de afecto y de seguridad física, moral, intelectual y material.
 
 La falta de recursos no podrá considerarse motivo suficiente para separarlos de sus padres o de los familiares con los que convivan ni causa para la pérdida de la patria potestad. Estas condiciones imputables directas exclusivamente a la pobreza económica y material no constituirán la única justificación para separar a niñas, niños o adolescentes del cuidado de sus padres, sino que deberán considerarse como un indicio de la necesidad de proporcionar a la familia el apoyo apropiado.
 
@@ -465,9 +471,9 @@ Dichos reportes deberán desagregar en lo posible la información, por lo menos,
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones adecuadas que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
-> <small>(REFORMADO, G.G. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2023)</small>
 
-Corresponde en principio y directamente a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes proporcionar dentro de sus posibilidades, las condiciones de vida suficientes para su desarrollo integral, por lo que queda prohibido el uso del castigo corporal y cualquier forma o tipo de violencia en todos los ámbitos como método correctivo o disciplinario a niñas, niños o adolescentes.
+Corresponde en principio y directamente a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes proporcionar dentro de sus posibilidades, las condiciones de vida suficientes para su desarrollo integral y una crianza positiva, por lo que queda prohibido el uso del castigo corporal y cualquier forma o tipo de violencia en todos los ámbitos como método correctivo o disciplinario a niñas, niños o adolescentes.
 
 Las autoridades estatales y municipales estarán obligadas de manera subsidiaria, en el ámbito de sus respectivas competencias, mediante políticas públicas, programas y acciones a crear condiciones para que la familia pueda desempeñar sus derechos y obligaciones de manera adecuada para asegurar los derechos de niñas, niños y adolescentes.
 
@@ -2310,3 +2316,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. El requisito de la certificación de competencia laboral deberá acreditarse para aquellos titulares de nueva designación a partir de la publicación del presente Decreto.
+
+G.G. 28 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 154.- POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 15 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 25; SE ADICIONA LA FRACCIÓN XII BIS AL ARTÍCULO 5 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
