@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2023-03-10"
+last_updated: "2023-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2023.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -98,6 +98,10 @@ El Estado de México garantizará el Derecho Humano a la Ciudad, entendiéndose 
 > <small>(ADICIONADO, G.G. 3 DE JULIO DE 2019)</small>
 
 El derecho a la ciudad se garantizará a través de instrumentos que observen las funciones social, política, económica, cultural, territorial y ambiental de la ciudad, determinados por ordenamientos secundarios que prevean las disposiciones para su cumplimiento.
+
+> <small>(ADICIONADO, G.G. 28 DE ABRIL DE 2023)</small>
+
+Toda persona tiene derecho a un buen gobierno, abierto, honesto, transparente, profesional, eficaz, eficiente, incluyente y racional. El Estado promoverá y vigilará este derecho y la ley definirá las bases y mecanismos para su cumplimiento.
 
 > <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
@@ -5184,6 +5188,14 @@ TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que cont
 G.G. 10 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 137.- POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 137 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 28 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 157.- POR EL QUE SE ADICIONA UN PÁRRAFO SÉPTIMO RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
