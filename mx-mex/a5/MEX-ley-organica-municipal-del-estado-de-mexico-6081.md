@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2022-12-21"
+last_updated: "2023-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -567,19 +567,25 @@ Los ayuntamientos como órganos deliberantes, deberán resolver colegiadamente l
 
 Para lo cual los Ayuntamientos deberán expedir o reformar, en su caso, en la tercera sesión que celebren, el Reglamento de Cabildo, debiendo publicarse en la Gaceta Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE ABRIL DE 2023)</small>
+
 ###### Artículo 28.
 
-Los ayuntamientos sesionarán cuando menos una vez cada ocho días o cuantas veces sea necesario en asuntos de urgente resolución, a petición de la mayoría de sus miembros y podrán declararse en sesión permanente cuando la importancia del asunto lo requiera.
+Los ayuntamientos sesionarán cuando menos una vez cada ocho días en sesión ordinaria o cuantas veces sea necesario en asuntos de urgente resolución por medio de sesiones extraordinarias, a petición de la mayoría de sus miembros y podrán declararse en sesión permanente cuando la importancia del asunto lo requiera.
 
-(REFORMADO, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 1 DE JUNIO DE 2016)
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2023)</small>
 
-Las sesiones de los ayuntamientos serán públicas y deberán transmitirse a través de la página de internet del municipio.
+Las sesiones de los ayuntamientos serán públicas y deberán transmitirse en vivo a través de su página oficial de internet, plataformas, redes sociales, radio o televisión de acceso gratuito, debiendo garantizar la identificación de los miembros del cabildo mencionando su nombre y cargo, así como sus intervenciones y el sentido de su voto.
 
 Las sesiones de los ayuntamientos se celebrarán en la sala de cabildos; y cuando la solemnidad del caso lo requiera, en el recinto previamente declarado oficial para tal objeto.
 
-> <small>(ADICIONADO, G.G. 4 DE MAYO DE 2020)</small>
+> <small>(ADICIONADO, G.G. 28 DE ABRIL DE 2023)</small>
 
-Los Ayuntamientos, en caso de emergencia Nacional o Estatal de carácter sanitaria o de protección civil, determinada por la autoridad competente, y por el tiempo que dure ésta, podrán sesionar a distancia, mediante el uso de las tecnologías de la información y comunicación o medios electrónicos disponibles, y que permitan la transmisión en vivo en la página de internet de los municipios, en las cuales se deberá garantizar la correcta identificación de sus miembros, sus intervenciones, así como el sentido de la votación, para tales efectos el Secretario del Ayuntamiento deberá además certificar la asistencia de cada uno de los integrantes del Ayuntamiento; para lo cual deberá guardarse una copia íntegra de la sesión.
+Los Ayuntamientos deberán publicar el orden del día con un mínimo de doce horas antes de la realización de las sesiones de cabildo en cualquiera de sus modalidades, en la página de internet del municipio, así como en los estrados de la Secretaría del Ayuntamiento, salvo en los casos justificados de emergencia, desastre, amenaza, peligro o riesgo de acuerdo con el Código Administrativo del Estado de México.
+
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2023)</small>
+
+Los Ayuntamientos, en caso de emergencia Nacional o Estatal de carácter sanitaria o de protección civil, determinada por la autoridad competente, y por el tiempo que dure ésta, podrán sesionar a distancia, mediante el uso de las tecnologías de la información y comunicación o medios electrónicos disponibles, y que permitan la transmisión en vivo en la página oficial de internet, plataformas, redes sociales, radio o televisión de acceso gratuito de los municipios, en las cuales se deberá garantizar la correcta identificación de sus miembros, sus intervenciones, así como el sentido de la votación, para tales efectos el Secretario del Ayuntamiento deberá además certificar la asistencia de cada uno de los integrantes del Ayuntamiento; para lo cual deberá guardarse una copia íntegra de la sesión.
 
 > <small>(REFORMADO, G.G. 21 DE JUNIO DE 2022)</small>
 
@@ -5754,3 +5760,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan al presente Decreto.
 
 CUARTO. El Poder Legislativo contará con un plazo que no deberá ser mayor a 180 días posteriores a la entrada en vigor del presente Decreto, para reformar las denominaciones de los cargos referidos en la presente Ley, en su forma genérica.
+
+G.G. 28 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 156.- POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO, SEGUNDO Y QUINTO DEL ARTÍCULO 28; SE ADICIONA UN PÁRRAFO CUARTO, RECORRIENDOSE LOS SUBSECUENTES DEL ARTÍCULO 28 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta Oficial del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
