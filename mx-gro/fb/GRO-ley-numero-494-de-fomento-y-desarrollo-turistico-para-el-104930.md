@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-494-de-fomento-y-desarrollo-turistico-para-el-104930
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-11"
-last_updated: "2023-04-11"
+last_updated: "2023-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY NÚMERO 494 DE FOMENTO Y DESARROLLO TURÍSTICO PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el martes 11 de noviembre de 2014.
 
@@ -447,7 +447,9 @@ XXI. Las demás previstas en éste y otros ordenamientos.
 
 La Comisión Intersecretarial de Turismo, es una comisión de carácter ejecutivo que tiene por objeto conocer, atender y resolver los asuntos de naturaleza turística, y fungir como órgano de consulta para los asuntos que la Secretaría considere oportuno poner a su consideración.
 
-La Comisión será presidida por el titular del Ejecutivo Estatal, quién podrá delegar esta responsabilidad en el Secretario de Fomento Turístico, el cual en su caso la presidirá y tendrá voto de calidad; estará integrada por los titulares de las dependencias y entidades vinculadas al turismo, quienes podrán designar como suplente al subsecretario que debidamente acrediten y faculten para tomar decisiones, o sus equivalentes en las entidades de la administración pública estatal, así como los presidentes municipales de Acapulco, Zihuatanejo y Taxco, en los términos de las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2023)</small>
+
+La Comisión será presidida por el titular del Ejecutivo Estatal, quién podrá delegar esta responsabilidad en el Secretario de Fomento Turístico, el cual en su caso la presidirá y tendrá voto de calidad; estará integrada por los titulares de las dependencias y entidades vinculadas al turismo, quienes podrán designar como suplente al subsecretario que debidamente acrediten y faculten para tomar decisiones, o sus equivalentes en las entidades de la administración pública estatal, así como los presidentes municipales de Acapulco, Coyuca de Benítez, Zihuatanejo y Taxco, en los términos de las disposiciones aplicables.
 
 Cuando la Comisión Intersecretarial conozca asuntos relacionados con municipios distintos a los señalados en el párrafo anterior, invitará a participar con voz y voto al Presidente Municipal que corresponda.
 
@@ -467,7 +469,9 @@ Las atribuciones, estructura, y funcionamiento de la Comisión Intersecretarial,
 
 El Consejo Consultivo de Turismo es un órgano colegiado de consulta de la Secretaría, que tiene por objeto formular y proponer estrategias y acciones en la materia, con el fin de lograr el desarrollo integral y el buen desempeño de la actividad turística en el estado.
 
-El Consejo será presidido por el titular del Ejecutivo Estatal, quién podrá delegar esta responsabilidad en el Secretario de Fomento Turístico, el cual en su caso lo presidirá y tendrá voto de calidad, y estará integrado por los titulares, o sus representantes debidamente acreditados y autorizados para tomar decisiones; de las dependencias y entidades de la administración pública relacionadas con la actividad turística y los presidentes municipales de Acapulco, Zihuatanejo y Taxco, así como por representantes del sector académico, de los prestadores de servicios y de los trabajadores del ramo, conforme a lo que establezcan las disposiciones reglamentarias.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2023)</small>
+
+El Consejo será presidido por el titular del Ejecutivo Estatal, quién podrá delegar esta responsabilidad en el Secretario de Fomento Turístico, el cual en su caso lo presidirá y tendrá voto de calidad, y estará integrado por los titulares, o sus representantes debidamente acreditados y autorizados para tomar decisiones; de las dependencias y entidades de la administración pública relacionadas con la actividad turística y los presidentes municipales de Acapulco, Coyuca de Benítez, Zihuatanejo y Taxco, así como por representantes del sector académico, de los prestadores de servicios y de los trabajadores del ramo, conforme a lo que establezcan las disposiciones reglamentarias.
 
 Cuando el Consejo Consultivo conozca asuntos relacionados con municipios distintos a los señalados en el párrafo anterior, invitará a participar al Presidente Municipal correspondiente, el cual participará con voz y voto.
 
@@ -1137,7 +1141,9 @@ VI. El Secretario de Finanzas y Administración;
 
 VII. El Secretario de Cultura;
 
-VIII. Los Presidentes Municipales de Acapulco, Zihuatanejo y Taxco, y
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2023)</small>
+
+VIII. Los Presidentes Municipales de Acapulco, Coyuca de Benítez, Zihuatanejo y Taxco, y
 
 IX. Hasta 3 Consejeros con prestigio designados por el Titular del Poder Ejecutivo del Estado.
 
@@ -1642,3 +1648,19 @@ La Secretaría de Turismo del Gobierno del Estado, expedirá el reglamento que r
 ###### ARTÍCULO CUARTO.
 
 Comuníquese el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DE "DECRETO NÚMERO 442 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 494 DE FOMENTO Y DESARROLLO TURÍSTICO PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página web del Congreso del Estado, para su conocimiento general.
