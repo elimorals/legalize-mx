@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-planeacion-del-estado-de-mexico-y-municipios-22804"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2017-09-29"
+last_updated: "2023-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 21 de diciembre de 2001.
 
@@ -147,9 +145,9 @@ Meta. Dimensionamiento del objetivo que se pretende alcanzar en términos de can
 
 Objetivo. Expresión cualitativa de un propósito que se pretende alcanzar en un tiempo y espacio específicos a través de determinadas acciones.
 
-> <small>(ADICIONADO, G.G. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2023)</small>
 
-Perspectiva de Género. Visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres y los hombres contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
+Perspectiva de Género. Es una visión científica, analítica y política sobre las mujeres y los hombres; se propone reducir las vulnerabilidades y eliminar las causas de la opresión de género, como las dimensiones de la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para diseñar políticas públicas y programas, el acceso a recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
 
 Planeación estratégica. Proceso que orienta a las dependencias, organismos, entidades públicas y unidades administrativas de los gobiernos estatal y municipales para establecer su misión, definir sus propósitos y elegir las estrategias para la consecución de sus objetivos, así como para determinar el grado de necesidades a los que ofrece sus bienes o servicios y enfatiza la búsqueda de resultados satisfactorios a sus propósitos vinculados con los objetivos de la estrategia del desarrollo estatal.
 
@@ -986,3 +984,11 @@ DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contr
 DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
 
 DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+G.G. 28 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 155.- POR EL QUE SE REFORMA EL PÁRRAFO DÉCIMO SEXTO DEL ARTÍCULO 10 DE LA LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
