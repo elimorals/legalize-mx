@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2023-03-31"
+last_updated: "2023-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2023.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -2523,7 +2523,9 @@ VII. Solicitar a las áreas administrativas, la información institucional que r
 
 VIII. Coordinar acciones en materia de consolidación del nuevo sistema de justicia penal en el Poder Judicial de la Federación, con la Suprema Corte de Justicia de la Nación y las entidades federativas;
 
-IX. Fungir como enlace operativo e integrante de la instancia tripartita, a la que se refiere el Acuerdo entre los Tres Poderes de la Unión para la Consolidación del Sistema de Justicia Penal, así como coordinar acciones en materia de consolidación del nuevo sistema de justicia penal en el Poder Judicial de la Federación, con las diversas instancias relacionadas del Poder Ejecutivo y Poder Legislativo Federal;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, CON RELACIÓN A LAS ATRIBUCIONES DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL, D.O.F. 28 DE ABRIL DE 2023)</small>
+
+IX. Fungir como enlace operativo para coordinar acciones en materia de consolidación del nuevo sistema de justicia penal en el Poder Judicial de la Federación, así como con las diversas instancias relacionadas del Poder Ejecutivo Federal, del Poder Legislativo Federal, de la Fiscalía General de la República y de instituciones académicas;
 
 X. Definir, revisar y ser responsable de los contenidos e información, que sean de su competencia o de los Centros de Justicia Penal Federal, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización;
 
@@ -7194,3 +7196,11 @@ TERCERO. La Unidad de Prevención y Combate al Acoso Sexual, tendrá competencia
 Los casos que atiende la Unidad de Prevención y (sic) al Acoso Sexual al momento de la publicación del presente, continuarán su tramitarán de conformidad con las disposiciones previstas en este acuerdo.
 
 CUARTO. La Secretaría Ejecutiva de Administración, a través de las áreas administrativas de su adscripción, deberá ejecutar las acciones necesarias para la implementación de este Acuerdo.
+
+D.O.F. 28 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, CON RELACIÓN A LAS ATRIBUCIONES DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en los portales electrónicos del Consejo de la Judicatura Federal en Intranet e Internet.
