@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2023-01-31"
+last_updated: "2023-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -223,9 +223,9 @@ VI. SEXTO CIRCUITO:
 
 3. Quince juzgados de Distrito especializados en el Estado de Puebla: uno de procesos penales federales; nueve de amparo en materia civil, administrativa y de trabajo y de juicios federales y cinco de amparo en materia penal; los trece primeros con residencia en San Andrés Cholula y los dos restantes, con residencia en Puebla, Puebla.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 6 /2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MAYO DE 2022)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 2/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ABRIL DE 2023)</small>
 
-4. Un Juzgado de Distrito en Materia Mercantil, especializado en juicios orales, con residencia en San Andrés Cholula.
+4. Dos Juzgados de Distrito en Materia Mercantil, especializados en juicios orales, con residencia en San Andrés Cholula.
 
 VII. SEPTIMO CIRCUITO:
 
@@ -10456,3 +10456,15 @@ TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas
 CUARTO. Las Direcciones Generales de Tecnologías de la Información, y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos para la asignación de asuntos al Tercer Tribunal Colegiado en Materias Penal y de Trabajo del Decimonoveno Circuito, con residencia en Tampico.
 
 QUINTO. El personal de la Oficina de Correspondencia Común de los Tribunales Colegiados en Materias Penal y de Trabajo del Decimonoveno Circuito, con sede en Ciudad Victoria, apoyará para el traslado de los asuntos que por turno corresponda conocer al Tercer Tribunal Colegiado en Materias Penal y de Trabajo del Decimonoveno Circuito, con residencia en Tampico.
+
+D.O.F. 28 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 2/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL JUZGADO SEGUNDO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE PUEBLA, ESPECIALIZADO EN JUICIOS ORALES, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA MATERIA INDICADA; AL CAMBIO DE DENOMINACIÓN DEL JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE PUEBLA, ESPECIALIZADO EN JUICIOS ORALES; A LA CREACIÓN E INICIO DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán al Juzgado Segundo de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializado en Juicios Orales, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los Juzgados de Distrito en Materia Mercantil Federal en el Estado de Puebla, Especializados en Juicios Orales.
