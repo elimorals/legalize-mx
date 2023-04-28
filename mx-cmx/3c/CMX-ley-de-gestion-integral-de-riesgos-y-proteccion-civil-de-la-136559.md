@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-gestion-integral-de-riesgos-y-proteccion-civil-de-la-136
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-05"
-last_updated: "2021-03-02"
+last_updated: "2023-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136559&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-06-05"
 
 LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE ABRIL DE 2023.
 
 Ley publicada en Número 106 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 5 de junio de 2019.
 
@@ -100,9 +100,9 @@ VIII) Brigadistas Comunitarios: Son las personas organizadas, preparadas y capac
 
 IX) Capacitación: Conjunto de procesos organizados y dirigidos a iniciar, prolongar y complementar los conocimientos de los operativos, coadyuvantes y destinatarios del Sistema, mediante la generación de conocimientos, el desarrollo de habilidades y el cambio de actitudes, con el fin de incrementar la capacidad individual y colectiva;
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-X) Carta de Corresponsabilidad. Documento con formato previamente establecido por la Secretaría, en el que el tercero acreditado denominado Responsable Oficial de Protección Civil avala plenamente el cumplimiento de las disposiciones legales y administrativas en materia de esta Ley y su reglamento y con el que se responsabiliza legalmente con la persona moral o física que obligatoriamente deba presentar el programa interno o especial de protección civil;
+X) Carta de Corresponsabilidad: Documento con formato previamente establecido por la Secretaría, en el que el Responsable Oficial de Protección Civil avala plenamente el cumplimiento de las disposiciones legales y administrativas en materia de esta Ley y su Reglamento y con el que se responsabiliza legalmente con la persona moral o física que obligatoriamente deba presentar el programa interno o especial de protección civil;
 
 XI) Carta de Responsabilidad: Documento expedido por las personas obligadas a contar con un Programa Interno o Especial de Protección Civil, en el que se obligan a cumplir con las actividades establecidas en dichos programas;
 
@@ -113,6 +113,10 @@ XIII) Centros Operacionales de Emergencia Regionales de Comando y Control: Son l
 XIV) Comité de Emergencias: Comité de Emergencias de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México;
 
 XV) (DEROGADA, G.O. 2 DE MARZO DE 2021)
+
+> <small>(ADICIONADA, G.O. 28 DE ABRIL DE 2023)</small>
+
+XV BIS) Cuestionario clasificatorio del nivel de riesgo: herramienta electrónica que determina, previo llenado de información básica, el grado de riesgo de un establecimiento mercantil o industrial;
 
 XVI) (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
@@ -174,6 +178,10 @@ XXXIX) Organizaciones Civiles: Asociaciones de personas legalmente constituidas 
 
 XL) (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
+> <small>(ADICIONADA, G.O. 28 DE ABRIL DE 2023)</small>
+
+XL BIS) Padrón Digital de los Responsables Oficiales de Protección Civil: herramienta electrónica para la identificación de las personas físicas que cuenten con el registro y autorización para fungir como Responsables Oficiales de Protección Civil;
+
 XLI) Plan de Contingencias: Es un instrumento preventivo a partir del diagnóstico en la materia, en el que se determinan las acciones y los responsables de ejecutarlas, a partir de la inminencia o presencia de los diferentes Fenómenos Perturbadores sobre la vida, bienes y entorno de la población;
 
 XLII) Plan Familiar de Protección Civil: Conjunto de actividades a realizar antes, durante y después de una emergencia o desastre, por los miembros de una familia;
@@ -184,9 +192,9 @@ XLIII) Plataforma Digital: Registro de base de datos dinámica en conjunto entre
 
 XLIV) Programa de la Alcaldía: El Programa de Gestión Integral de Riesgos y Protección Civil de los órganos político-administrativos de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-XLV) Programa Especial: Constituye un instrumento en cuyo contenido se establecen las medidas de prevención y respuesta para actividades, eventos o espectáculos públicos de afluencia masiva en áreas o inmuebles diferentes a su uso habitual que conlleven un nivel elevado de riesgo y que lleva a cabo cualquier persona física o moral pública o privada
+XLV) Programa Especial: instrumento cuyo contenido establece las medidas de prevención y respuesta para actividades, eventos o espectáculos públicos de afluencia masiva en áreas o inmuebles diferentes a su uso habitual, que lleva a cabo cualquier persona física o moral, pública o privada;
 
 XLVI) Programa Específico: Programa Específico de Gestión Integral de Riegos y Protección Civil, son los instrumentos de planeación y operación para atender problemas derivados de la interacción de los Fenómenos Perturbadores en una zona o región determinada o determinables de la Ciudad de México, que involucran a grupos de población específicos y en condiciones de Vulnerabilidad, y que por las características previsibles de los mismos, permiten un tiempo adecuado de planeación, con base en las etapas consideradas en la Gestión Integral de Riesgos, incorporando además el enfoque de Riesgos por Cambio Climático;
 
@@ -258,6 +266,10 @@ La política pública en materia de Gestión Integral de Riesgos y Protección C
 
 El emblema distintivo de la Protección Civil en la Ciudad de México deberá contener el adoptado en el Protocolo Adicional a los Convenios de Ginebra del 12 de agosto de 1949, Relativo a la Protección de las Víctimas de los Conflictos Armados Internacionales (PROTOCOLO I), publicado en el Diario Oficial de la Federación el 21 de abril de 1983 y solamente será utilizado por el personal y las instituciones autorizadas.
 
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2023)</small>
+
+La Secretaría publicará en la Gaceta Oficial de la Ciudad de México el listado de las personas físicas, morales o instituciones autorizadas que podrán portar dicho emblema.
+
 ###### Artículo 5.
 
 La función de Gestión Integral de Riesgos y Protección Civil está a cargo del Sistema y tiene como fin primordial la prevención, control y reducción del Riesgo de Desastres, así como, mitigar los efectos destructivos que los Fenómenos Perturbadores pueden ocasionar a la estructura de los Servicios Vitales y los Sistemas Estratégicos.
@@ -320,7 +332,9 @@ VII. Las dependencias, unidades administrativas, órganos desconcentrados y orga
 
 VIII. Las instituciones públicas que por sus características se vinculen a la materia de Gestión Integral de Riesgos y Protección Civil.
 
-Los Terceros Acreditados, Grupos Voluntarios, organizaciones privadas, civiles y académicas cuyo objeto se vincule a la materia de Gestión Integral de Riesgo y Protección Civil participarán de manera permanente en el Sistema en los términos de esta Ley. La participación de los medios de comunicación masiva, electrónicos y escritos, se realizará por invitación de la persona titular del Sistema, en el marco de los convenios que al efecto se suscriban.
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
+
+Los Responsables Oficiales de Protección Civil, Grupos Voluntarios, Organizaciones privadas, civiles y académicas cuyo objeto se vincule a la materia de Gestión Integral de Riesgo y Protección Civil participarán de manera permanente en el Sistema, en los términos de esta Ley. La participación de los medios de comunicación masiva, electrónicos y escritos, se realizará por invitación de la persona titular del Sistema, en el marco de los convenios que al efecto se suscriban.
 
 ###### Artículo 10.
 
@@ -424,15 +438,21 @@ XIX) Registrar y autorizar a los Responsables Oficiales de Protección Civil (RO
 
 XIX BIS) Establecer las capacitaciones y actualizaciones para los Responsables Oficiales de Protección Civil de forma anual.
 
-XX) Iniciar y resolver el procedimiento administrativo con la finalidad de revocar la autorización a los Terceros Acreditados, empresas de capacitación, consultoría y de estudios de riesgo vulnerabilidad que incurran en violaciones a la presente Ley o su Reglamento;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
+
+XX) Iniciar y resolver el procedimiento administrativo con la finalidad de revocar la autorización a los Responsables Oficiales de Protección Civil que incurran en violaciones a la presente Ley o su Reglamento;
 
 XXI) Brindar, en los términos de esta Ley, capacitación a todos los integrantes del Sistema que lo soliciten y vigilar el cumplimiento de las disposiciones correspondientes;
 
 XXII) Crear el padrón de asociaciones y Grupos Voluntarios en materia de la presente Ley;
 
-XXIII) Registrar, publicar y actualizar mensualmente en su portal institucional el padrón de los Terceros Acreditados autorizados y Grupos Voluntarios; remitiendo el mismo a las Alcaldías para los mismos efectos;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-XXIV) Establecer anualmente los programas y cursos de capacitación y actualización obligatoria para los Terceros Acreditados;
+XXIII) Registrar, publicar y mantener actualizado en su portal institucional el padrón digital de los Responsables Oficiales de Protección Civil autorizados y Grupos Voluntarios;
+
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
+
+XXIV) Establecer anualmente los programas y cursos de capacitación y actualización obligatoria para los Responsables Oficiales de Protección Civil;
 
 XXV) Capacitar al personal operativo de las Unidades de Gestión Integral de Riesgos y Protección Civil, de los órganos de gobierno y de las Alcaldías; así como a la población en general en materia de Gestión Integral de Riesgos y Protección Civil;
 
@@ -468,7 +488,9 @@ XXXVIII) Realizar y emitir las opiniones y/o dictámenes técnicos de Riesgo en 
 
 XXXIX) Llevar a cabo la realización de convenios, con personas físicas o instituciones privadas o públicas, que fomenten la diversificación de la cultura de la Gestión Integral de Riesgos y Protección Civil;
 
-XL) Dar aviso a las autoridades competentes sobre cualquier acto que pudiera generar responsabilidad administrativa o penal por parte de los Terceros Acreditados, derivado de la responsabilidad solidaria que contraen con los obligados mediante la Carta de Corresponsabilidad;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
+
+XL) Dar aviso a las autoridades competentes sobre cualquier acto que pudiera generar responsabilidad administrativa o penal por parte de los Responsables Oficiales de Protección Civil;
 
 XLI) Promover las acciones necesarias para fomentar e incrementar la Resiliencia en los habitantes de la Ciudad de México;
 
@@ -487,6 +509,14 @@ XLIV BIS) Expedir las normas técnicas en materia de refugios temporales, centro
 > <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
 
 XLIV TER) Elaborar y Publicar el formato de la Carta de Corresponsabilidad de los Responsables Oficiales de Protección Civil
+
+> <small>(ADICIONADA, G.O. 28 DE ABRIL DE 2023)</small>
+
+XLIV QUATER) Registrar y revisar aleatoriamente, a través de la Plataforma Digital, los Programas Internos, así como los Programas Especiales de aquellos eventos que organice el Gobierno de la Ciudad de México o de aquellos eventos que se lleven a cabo en dos o más alcaldías;
+
+> <small>(ADICIONADA, G.O. 28 DE ABRIL DE 2023)</small>
+
+XLIV QUINTUS) Verificar o inspeccionar a los establecimientos mercantiles que conforme a la Ley de Establecimientos Mercantiles de la Ciudad de México sean de impacto zonal y cuyo aforo supere más de 100 personas y más de 250 metros cuadrados de construcción; así como establecimientos industriales de alto riesgo, y en cualquier caso de emergencia o riesgo inminente; y
 
 XLV) Las demás que la presente Ley, así como otras disposiciones le asignen.
 
@@ -516,23 +546,23 @@ VII) Ejecutar, cumplir y vigilar, en el ámbito de su competencia, el cumplimien
 
 VIII) Informar, cuando así lo solicite la Secretaría, del estado de Riesgo que guardan los Servicios Vitales y los Sistemas Estratégicos asentados en su Alcaldía;
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(ADICIONADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-IX) Verificar el cumplimiento y aplicación de los Programas Internos y Especiales, así como las demás obligaciones en materia de protección civil;
+VIII Bis) Registrar los Programas Especiales de las actividades, eventos o espectáculos públicos de afluencia masiva, organizados por personas físicas o morales privadas;
 
-X) Publicar mensualmente en su portal institucional el padrón de los Terceros Acreditados autorizados, que para tales efectos remita la Secretaría;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+IX) Verificar el cumplimiento y aplicación de los Programas Especiales, así como las demás obligaciones en materia de protección civil que no correspondan a aquéllos, competencia de la Secretaría;
 
-XI) Registrar, a través de la Ventanilla Única, los Programas Internos de Protección Civil y los Programas Especiales que presenten los respectivos obligados, registrar las cartas responsivas y las cartas de corresponsabilidad debidamente signadas;
+X) (DEROGADA, G.O. 28 DE ABRIL DE 2023)
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+XI) (DEROGADA, G.O. 28 DE ABRIL DE 2023)
 
-XI BIS) Revisar que los ROPC que signen las cartas de corresponsabilidad estén en el Padrón actualizado de la Secretaría. De no ser así, deberán rechazar el registro de los Programas y actuar de acuerdo con la Ley de Procedimiento Administrativo de la Ciudad de México.
+XI BIS) (DEROGADA, G.O. 28 DE ABRIL DE 2023)
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-XI TER) Registrar los Programas Especiales e Internos en la Plataforma Digital establecida por la Secretaría.
+XI TER) Registrar los Programas Especiales de su competencia a través de la Plataforma Digital;
 
 > <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -1128,65 +1158,69 @@ Los Programas Internos contendrán un estudio integral y detallado de cada inmue
 
 El Programa Interno se implementará, en:
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-I. Inmuebles destinados a vivienda plurifamiliar y conjuntos habitacionales por parte de las personas propietarias o poseedoras;
+I. Unidades Habitacionales y conjuntos condominales, por parte de las personas propietarias, poseedoras y/o personas administradoras, cuya vigencia será de 5 años;
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-II. Inmuebles destinados al servicio público, por parte de la persona servidora pública que designe la persona titular;
+II. Inmuebles destinados al servicio público, por parte de la persona servidora pública que designe la persona titular de la dependencia, cuya vigencia será de 3 años;
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+III. (DEROGADA, G.O. 28 DE ABRIL DE 2023)
 
-III. Unidades habitacionales por parte de las personas administradoras;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
+IV. Establecimientos mercantiles de mediano y alto riesgo, conforme al resultado que arroje el cuestionario clasificatorio de nivel de riesgo, por parte de la persona propietaria, poseedora o representante legal, cuya vigencia será de 5 años;
 
-IV. Establecimientos mercantiles, que de acuerdo con la Ley de Establecimientos Mercantiles sean de impacto zonal y vecinal, establecimientos industriales de mediano y alto riesgo, y establecimientos de bajo impacto que, en términos del Reglamento, los términos de referencia y las Normas Técnicas requieran de su tramitación, así como aquellos en donde las personas usuarias sean predominantemente personas con discapacidad, adultas mayores, mujeres embarazadas, o manejan sustancias o materiales peligrosos;
+> <small>(ADICIONADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+IV BIS. Establecimientos industriales de mediano y alto riesgo, conforme al resultado que arroje el cuestionario clasificatorio de nivel de riesgo, por parte de la persona propietaria, poseedora o representante legal, cuya vigencia será de 2 años;
 
-V. Centros Comerciales, donde la persona administradora del inmueble estará obligada a presentarlo para áreas comunes y establecimientos mercantiles que formen parte del centro comercial, contando con al menos una persona paramédica de guardia debidamente acreditada por la Secretaría de Salud del Gobierno de la Ciudad de México, desde la apertura hasta el cierre de actividades del mismo;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+V. Centros Comerciales, por parte de la persona administradora del inmueble, quien estará obligada a presentarlo para áreas comunes, cuya vigencia será de 3 años.
 
-VI. Baños Públicos;
+Los establecimientos mercantiles de mediano y alto riesgo, conforme al resultado que arroje el cuestionario clasificatorio de nivel de riesgo, se sujetarán a lo que señala la fracción IV de este artículo y el Reglamento;
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+Los Centros Comerciales contarán por lo menos con un especialista en atención médica prehospitalaria, cuya obligatoriedad se establecerá en el cuestionario clasificatorio de nivel de riesgo.
 
-VII. Bibliotecas;
+VI. (DEROGADA, G.O. 28 DE ABRIL DE 2023)
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-VIII. Escuelas públicas y privadas en todos los niveles educativos;
+VII. Bibliotecas, en los términos que señale el Reglamento, cuya vigencia será de 5 años;
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-IX. Hospitales y Sanatorios;
+VIII. Escuelas públicas y privadas en todos los niveles educativos, cuya vigencia será de 2 años;
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-X. Estaciones de Servicio y tiendas de autoservicio;
+IX. Hospitales, cuya vigencia será de 3 años;
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-XI. Instalaciones especiales para población vulnerable;
+X. Estaciones de servicio, y estaciones de carburación, cuya vigencia será de 2 años;
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-XII. Inmuebles destinados a la presentación de espectáculos públicos y deportivos;
+XI. Construcciones con instalaciones especializadas para atención de población vulnerable; es decir, aquellos en donde las personas usuarias o que lo habiten sean predominantemente personas con discapacidad, adultas mayores, mujeres embarazadas, niñas, niños y adolescentes y población en situación de calle, cuya vigencia será de 3 años;
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-XIII. Los demás inmuebles donde exista una concentración superior a 50 o más personas, incluyendo personas trabajadoras del lugar;
+XII. Inmuebles destinados a la presentación de espectáculos públicos y deportivos, en los términos que determine el Reglamento, cuya vigencia será de 5 años;
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-XIV. Obras de construcción y demolición, y
+XIII. Los demás inmuebles donde exista una concentración superior a 100 personas, incluyendo personas trabajadoras del lugar y que tengan más de 250 metros cuadrados de construcción, cuya vigencia será de 5 años; y
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-XV. Aquellos inmuebles que, de acuerdo con los términos de referencia, cumplan con los parámetros específicos de riesgo que requiera contar con un programa interno de Protección Civil.
+XIV. Obras de construcción y demolición, a través del Estudio de Riesgo de Obra y/o Demolición y
+
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
+
+XV. Aquellos inmuebles o establecimientos mercantiles que, de acuerdo con los términos de referencia, cumplan con los parámetros específicos de riesgo que requiera contar con un programa interno de Protección Civil.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -1194,11 +1228,13 @@ XV. Aquellos inmuebles que, de acuerdo con los términos de referencia, cumplan 
 
 Los Programas Internos se elaborarán de acuerdo con los Términos de Referencia, a las Normas Técnicas y a las Normas Oficiales Mexicanas que se expidan sobre la materia;
 
-Asimismo, se expedirán Términos de Referencia para elaborar Programas Internos para escuelas. Los Programas Internos para estancias infantiles y guarderías se ajustarán conforme a la Norma Oficial Mexicana que se establece en la materia.
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+La Secretaría expedirá los Términos de Referencia para elaborar Programas Internos para escuelas.
 
-La Secretaría emitirá aquellos Términos de Referencia para establecimientos o inmuebles que por sus características particulares de riesgo, operación o complejidad sean necesarios, tales como: hospitales, mercados públicos, parques de diversiones, entre otros.
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
+
+Los Programas Internos para estancias infantiles y guarderías se integrarán conforme a la Norma Oficial Mexicana que se establece en la materia; asimismo, la Secretaría emitirá aquellos Términos de Referencia para establecimientos mercantiles o inmuebles que por sus características particulares de riesgo, operación o complejidad sean necesarios, tales como: hospitales, mercados públicos, parques de diversiones, entre otros.
 
 ###### Artículo 60.
 
@@ -1228,43 +1264,43 @@ Los documentos adicionales que deban anexarse y que formarán parte del Programa
 
 La falta de existencia de la Carta de Corresponsabilidad será causal para que el Programa Interno no sea registrado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 61.
 
-El Programa Interno de Protección Civil a que se refiere el Artículo anterior deberá adecuarse a los términos de referencia y a las Normas Técnicas. En los programas internos se integrarán acciones específicas para los grupos de atención prioritaria, considerando en todo momento, la interculturalidad de la población e inclusión de los grupos de atención prioritaria, considerando en todo momento, la interculturalidad de la población e inclusión de los grupos de apoyo especial que están obligados a integrar y capacitar.
+En los programas internos se integrarán acciones específicas para los grupos de atención prioritaria, así como criterios de inclusión y capacitación.
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
 
-Los programas internos de Instituciones Públicas, Privadas y Sociales deberán contener una carta de corresponsabilidad debidamente signada por el Responsable Oficial de Protección Civil quien asume la responsabilidad de la Elaboración y Aprobación del Programa. Asimismo, deberá estar acompañado de una carta de responsabilidad del propietario, poseedor o arrendatario obligado por esta Ley a presentar el Programa.
+Los programas internos de Instituciones públicas, privadas y sociales deberán contener una carta de corresponsabilidad debidamente signada por el Responsable Oficial de Protección Civil quien asume la responsabilidad de la elaboración de dicho programa y de su captura en la Plataforma Digital. Asimismo, deberá estar acompañado de una carta de responsabilidad del propietario, poseedor o arrendatario obligado a presentar el Programa.
 
-> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
-Los programas deberán ser debidamente registrados en las alcaldías que correspondan, a través de las ventanillas únicas, quienes deberán verificar que cumplen en el contenido especificado en el reglamento, términos de referencia y normas técnicas.
+> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
-> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
-El programa deberá ser registrado por la Alcaldía de acuerdo a los lineamientos de las ventanillas únicas y en la plataforma digital.
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2023)</small>
 
-> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+La Secretaría revisará que los Responsables Oficiales de Protección Civil que signen las cartas de corresponsabilidad cuenten con registro vigente; de no ser así, deberá rechazar el registro de los programas ingresados en la Plataforma Digital e iniciar el procedimiento administrativo de responsabilidades y, en su caso, la denuncia penal correspondiente.
 
-Deberán revisar que los terceros acreditados Responsables Oficiales de Protección Civil que signen las cartas de corresponsabilidad estén en el padrón actualizado de la Secretaría, de no ser así, deberá rechazar el registro de los programas e iniciar el procedimiento de verificación de conformidad con la Ley de Procedimiento Administrativo de la Ciudad de México.
-
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 62.
 
-Los establecimientos o inmuebles clasificados como de mediano o alto riesgo, deberán contar con una Póliza de Seguro de Responsabilidad Civil no cancelable, vigente durante el periodo del registro en todo momento, que cubra e indemnice a los terceros en sus bienes y personas.
+Los obligados a contar con un Programa Interno, deberán contratar una Póliza de Seguro de Responsabilidad Civil no cancelable, la cual deberá permanecer vigente durante el periodo del registro en todo momento, que cubra e indemnice a los terceros en sus bienes y personas; dicha Póliza formará parte del Programa Interno del establecimiento mercantil, industrial o inmueble, la omisión de este requisito será motivo de cancelación del registro, para todos los efectos legales correspondientes.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 La cantidad mínima asegurada se establecerá mediante un Acuerdo específico, emitido por la Secretaría.
 
-La Póliza de Seguro a la que se refiere el presente artículo formará parte del Programa Interno del establecimiento o inmueble, la omisión de este requisito será motivo de cancelación del registro, para todos los efectos legales correspondientes.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
-> <small>(ADICIONADO PRIMER PÁRRAFO [N. DE E. REFORMADO PRIMER PÁRRAFO], G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 63.
 
-Los Programas Internos correspondientes a inmuebles y establecimientos de mediano y alto riesgo deberán ser registrados ante la alcaldía correspondiente y en la Plataforma Digital por el ROPC. Dichos programas deberán ser revalidados cada dos años, a partir de la fecha del acuse de recibo del registro.
+Los Programas Internos correspondientes a inmuebles y establecimientos obligados deberán ser capturados por el Responsable Oficial de Protección Civil, en la Plataforma Digital. Dichos programas deberán ser revalidados, a partir de la fecha del acuse de recibo del registro.
 
 > <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -1273,6 +1309,10 @@ Para mantener la vigencia del registro del Programa Interno, la persona obligada
 > <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 Los requisitos y características para el proceso de registro y la revalidación de los Programas Internos se establecerán en el Reglamento.
+
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2023)</small>
+
+El registro se deberá realizar por la Secretaría en un término que no excederá de 10 días hábiles, a partir de que haya concluido la captura.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -1304,27 +1344,23 @@ e. Personal capacitado en materia de gestión integral de riesgos y protección 
 
 f. Directorio de servicios de atención a emergencias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 65.
 
-En caso que durante una visita de verificación se constate que la información presentada en el registro del Programa Interno no corresponde a las características físicas del establecimiento o inmueble o se realizó sin contar con los documentos que acrediten su legalidad, se sancionará al Responsable Oficial de Protección Civil que elaboró dicho Programa y al propietario del establecimiento en los términos de la presente Ley.
+En caso que durante una visita de verificación al establecimiento mercantil se constate que la información presentada en el registro del Programa Interno no corresponde a las características físicas del establecimiento o inmueble, o se realizó sin contar con los documentos que acrediten su legalidad, se sancionará al Responsable Oficial de Protección Civil que elaboró dicho Programa y al propietario del establecimiento en los términos de la presente Ley.
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
-
-Los establecimientos o inmuebles a verificar serán seleccionados de la Plataforma Digital, mediante un mecanismo aleatorio, en los términos que establezca la normatividad aplicable.
-
-> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
-
-Asimismo, podrán llevarse a cabo visitas de verificación extraordinaria conforme a la normatividad aplicable o las que se soliciten por queja en los términos de esta Ley.
+Los programas internos a revisar serán seleccionados de la Plataforma Digital de forma aleatoria.
 
 ###### Artículo 66.
 
 (DEROGADO, G.O. 2 DE MARZO DE 2021)
 
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
+
 ###### Artículo 67.
 
-Los inmuebles destinados al servicio público deberán elaborar su Programa Interno. Para efecto de lo anterior se emitirán los Términos de Referencia específicos para este tipo de instalaciones.
+Los inmuebles destinados al servicio público, así como aquellos de infraestructura estratégica deberán elaborar su Programa Interno y serán registrados ante la Secretaría.
 
 > <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -1342,19 +1378,27 @@ Toda brigada de Protección Civil contemplada en los Programas Internos, deberá
 
 En la elaboración de los Programas Internos, además de lo establecido en los Términos de Referencia y las Normas Técnicas, se tomarán en cuenta las medidas para que las personas adultas mayores y las personas con discapacidad sean capacitadas para su autoprotección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
+
 ###### Artículo 71.
 
-El Programa Interno, deberá ir acompañado con una Carta de Responsabilidad firmada por la persona obligada, así como la Carta de Corresponsabilidad firmada por el Tercero Acreditado que haya intervenido o lo haya elaborado. Esta última deberá contener:
+El Programa Interno deberá ir acompañado de una Carta de Responsabilidad firmada por la persona obligada, así como la Carta de Corresponsabilidad firmada por el Responsable Oficial de Protección Civil que haya intervenido o lo haya elaborado. Esta última deberá contener:
 
-I. Nombre, domicilio y número de registro vigente del Tercero Acreditado que la expide;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-II. Vigencia, la cual no podrá ser menor de dos años;
+I. Nombre, domicilio y número de registro vigente del Responsable Oficial de Protección Civil que la expide;
+
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
+
+II. Vigencia, la cual no podrá ser menor a la del tiempo a que se refiere el artículo 58 de la presente Ley;
 
 III. Actividades que ampara;
 
 IV. Firma original de otorgamiento; y
 
-V. Manifestación expresa de la responsabilidad solidaria que tiene el Tercero Acreditado con la persona obligada.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
+
+V. Manifestación expresa de la responsabilidad solidaria que tiene el Responsable Oficial de Protección Civil con la persona obligada.
 
 ### CAPÍTULO V. DE LOS PROGRAMAS ESPECIALES
 
@@ -1364,13 +1408,19 @@ V. Manifestación expresa de la responsabilidad solidaria que tiene el Tercero A
 
 Los Programas Especiales se elaborarán de acuerdo con el Reglamento, los Términos de Referencia, Normas Técnicas y Normas Oficiales Mexicanas aplicables.
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 73.
 
-Los Programas Especiales para los eventos con aforo desde 500 y hasta 10,000 personas, deberán presentarse ante la Alcaldía correspondiente con un mínimo de quince días hábiles de anticipación al evento
+Los Programas Especiales para las actividades, eventos o espectáculos públicos de afluencia masiva, con un aforo igual o mayor a 500 personas, organizados por personas físicas o morales privadas, deberán ser capturados en la plataforma digital con un mínimo de 10 días hábiles de anticipación y registrados por la Alcaldía, previo a la celebración de dicha actividad, evento o espectáculo de afluencia masiva.
 
-Los Programas Especiales para los eventos masivos con aforo superior a 10,000 asistentes deberán presentarse con un mínimo de veinte días hábiles de anticipación al evento.
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
+
+Tratándose de Programas Especiales para las actividades, eventos o espectáculos públicos de afluencia masiva, con un aforo igual o mayor a 500 personas, organizados por el Gobierno de la Ciudad, deberán ser capturados en la plataforma digital con un mínimo de 15 días hábiles de anticipación y registrados por la Secretaría.
+
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2023)</small>
+
+El procedimiento para la captura, registro, verificación y/o revisión se detallará en el Reglamento.
 
 ###### Artículo 74.
 
@@ -1384,13 +1434,15 @@ III. Que dadas las condiciones ambientales o del inmueble impacten severamente l
 
 IV. Que se presente Riesgo de violencia, vandalismo o daños a las personas, bienes o entorno; y
 
-V. Que acorde con los Términos de Referencia, se consideren de alto Riesgo conforme al análisis que se elabore por un Tercero Acreditado.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+V. Que acorde con los Términos de Referencia, se consideren de alto Riesgo conforme al análisis que se elabore por un Responsable Oficial de Protección Civil.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 75.
 
-Los programas especiales se integrarán de la siguiente manera:
+Los Programas Especiales se integrarán de la siguiente manera:
 
 I. Datos generales del evento y descripción general del mismo;
 
@@ -1404,9 +1456,13 @@ V. (DEROGADA, G.O. 2 DE MARZO DE 2021)
 
 VI. Póliza de Seguro de Responsabilidad Civil no cancelable;
 
-VII. Carta de Responsabilidad; y
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-VIII. Carta de Corresponsabilidad expedida por un Tercero Acreditado.
+VII. Carta de Responsabilidad expedida por el promotor y/o organizador del evento; y
+
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
+
+VIII. Carta de Corresponsabilidad expedida por un Responsable Oficial de Protección Civil.
 
 > <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -1424,11 +1480,15 @@ Las características para la elaboración de los Programas Especiales de espect�
 
 Los Programas Especiales a que se refiere este artículo serán registrados, revisados, y supervisados por las Alcaldías.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
+
 ###### Artículo 76.
 
-El Programa Especial, deberá ir acompañado con una Carta de Responsabilidad firmada por la persona obligada, así como la Carta de Corresponsabilidad firmada por el Tercero Acreditado que haya intervenido o lo haya elaborado. Esta última deberá señalar:
+El Programa Especial deberá ir acompañado de una Carta de Responsabilidad firmada por la persona obligada, así como la Carta de Corresponsabilidad firmada por el Responsable Oficial de Protección Civil que haya intervenido o lo haya elaborado. Esta última deberá señalar:
 
-I. Nombre, domicilio y número de registro vigente del Tercero Acreditado que la expide;
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
+
+I. Nombre, domicilio y número de registro vigente del Responsable Oficial de Protección Civil que la expide;
 
 II. Vigencia de la Carta de Corresponsabilidad;
 
@@ -1436,7 +1496,9 @@ III. Actividades que ampara la Carta de Corresponsabilidad;
 
 IV. Firma original de otorgamiento; y
 
-V. Manifestación expresa de la responsabilidad solidaria que tiene el Tercero Acreditado con la persona obligada.
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
+
+V. Manifestación expresa de la responsabilidad solidaria que tiene el Responsable Oficial de Protección Civil con la persona obligada.
 
 ###### Artículo 77.
 
@@ -1444,21 +1506,17 @@ En cualquier evento o espectáculo público masivo en que se pretendan utilizar 
 
 Las características y requisitos del Plan de Contingencia de artificios pirotécnicos estarán definidas en el Reglamento y en la Norma Técnica correspondiente y deberá ser firmado por la persona responsable de la actividad pirotécnica y autorizado por la Alcaldía correspondiente.
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
-
 ###### Artículo 78.
 
-Los Programas Especiales se registrarán en la Plataforma Digital
+(DEROGADO, G.O. 28 DE ABRIL DE 2023)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 79.
 
-Si durante la visita que realicen las Alcaldías se constata que la información presentada en el Programa Especial no corresponde con lo observado en el sitio, o no se cuenta con los documentos que acrediten su legalidad, se sancionará al ROPC, o a quien elaboró dicho programa, en el caso de espectáculos tradicionales, y al propietario del establecimiento u organizador del evento en los términos de la presente Ley, así como de la Ley de Procedimiento Administrativo de la Ciudad de México.
+Si durante la visita que realicen las Alcaldías se constata que la información presentada en el Programa Especial no corresponde con lo observado en el sitio, o no se cuenta con los documentos que acrediten su legalidad, se sancionará al Responsable Oficial de Protección Civil, o a quien elaboró dicho programa tratándose de espectáculos tradicionales, y al propietario del establecimiento u organizador del evento en los términos de la presente Ley, así como de la Ley de Procedimiento Administrativo de la Ciudad de México.
 
-> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
-
-Las visitas a que se refiere el párrafo anterior se realizarán mediante un sistema aleatorio, esto, sin menoscabo de las visitas de verificación extraordinaria conforme a la normatividad en la materia o las que se soliciten por queja en los términos de esta Ley.
+Las visitas a que se refiere el párrafo anterior se realizarán de forma aleatoria, la cual definirá cada una de las Alcaldías; esto, sin menoscabo de las visitas de verificación extraordinaria conforme a la normativa en la materia o las que se soliciten por queja en los términos de esta Ley.
 
 ### CAPÍTULO VI. DE LOS PROGRAMAS ESPECÍFICOS
 
@@ -1540,9 +1598,15 @@ La Secretaría promoverá la instalación de sistemas de alarma audible y visibl
 
 Asimismo, el Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México (C5), a través de la infraestructura instalada, difundirá los alertamientos públicos audibles y visuales ante todo tipo de Fenómeno Perturbador, realizando en todo momento las pruebas y el mantenimiento necesarios para asegurar su correcto funcionamiento.
 
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2023)</small>
+
+Los particulares que pretendan difundir las señales de alertamiento público ante los distintos fenómenos perturbadores deberán contar con autorización previa por parte de la Secretaría, en los términos que señale el Reglamento y las Normas Técnicas que se expidan para tal efecto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
+
 ###### Artículo 90.
 
-La Secretaría, en coordinación con las Alcaldías, deberá supervisar que los inmuebles que se encuentren en los siguientes supuestos, cuenten con un Sistema de Alertamiento audible conectado al Sistema de Alerta Sísmica:
+La Secretaría, en coordinación con las Alcaldías, deberá supervisar que los inmuebles que se encuentren en los siguientes supuestos, cuenten con un Sistema de Alertamiento audible conectado al Sistema de Alerta Sísmica el cual, para el caso de los particulares, deberá contar con autorización previa por parte de la Secretaría:
 
 I. Inmuebles que en caso de falla estructural podrían constituir un peligro significativo por contener sustancias tóxicas o explosivas, así como edificaciones cuyo funcionamiento es esencial a raíz de una emergencia urbana, tales como: hospitales, escuelas, terminales de transporte, estaciones de bomberos y policía, centrales eléctricas y de telecomunicaciones, estadios, museos y depósitos de sustancias inflamables o tóxicas;
 
@@ -1578,13 +1642,19 @@ La Secretaría o las Alcaldías, a más tardar dentro de los diez días hábiles
 
 ### CAPÍTULO III. DE LAS OPINIONES Y DICTÁMENES TÉCNICOS Y ESTUDIOS DE RIESGO
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 96.
 
-Previo al otorgamiento de manifestaciones de construcción tipo B y C conforme a lo dispuesto en los Reglamentos de la Ley de Desarrollo Urbano y de Construcciones de la Ciudad de México, la autoridad competente deberá solicitar a la Secretaría opinión sobre el estudio de impacto urbano, en lo correspondiente al estudio de riesgo.
+Previo a la solicitud de registro de manifestaciones de construcción tipo B y C, así como las licencias de construcción especiales previstas en el Reglamento de Construcciones del Distrito Federal, se deberá elaborar un Estudio de Riesgos de Obra, cuyas características se definirán en el Reglamento.
 
-Para tal efecto, la autoridad competente, remitirá a la Secretaría un ejemplar o copia del estudio de riesgos, para que, dentro del plazo de 10 días hábiles, contados a partir de su recepción, emita la opinión que corresponde.
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
+
+El Estudio de Riesgo de Obra se capturará en la plataforma digital por el Responsable Oficial de Protección Civil y será registrado por la Secretaria en los términos que señale el Reglamento.
+
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2023)</small>
+
+El Estudio de Riesgo de Obra estará vigente desde su registro por la Secretaría y hasta la presentación del aviso de terminación de obra ante la Alcaldía correspondiente y su captura en la Plataforma Digital.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 2 DE MARZO DE 2021)</small>
 
@@ -1600,47 +1670,47 @@ En los casos de seguridad estructural, los dictámenes u opiniones técnicas de 
 
 En los casos en que no se actualice lo señalado en el párrafo anterior, serán elaborados por las Direcciones Generales de Obras de las Alcaldías o sus equivalentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 98.
 
-Los Estudios de Riesgos contendrán, lo siguiente:
+Los Estudios de Riesgos de Obra y Demolición contendrán lo siguiente:
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-I. Datos generales del sitio y descripción del mismo;
+I. Carta de responsabilidad del propietario o poseedor, empresa constructora o desarrolladora a cargo de la obra en cuestión;
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-II. Identificación y análisis de riesgos;
+II. Carta de corresponsabilidad expedida por el Responsable Oficial de Protección Civil;
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-III. Plan de reducción de riesgos;
+III. Póliza de Seguro de responsabilidad civil por daños a terceros vigente, la cual será la misma que exige el Reglamento de Construcciones para el Distrito Federal.
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-IV. Datos generales del ROPC; y
+IV. Datos generales del sitio y descripción del mismo;
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-V. El contenido que se pormenoriza en los lineamientos para la elaboración de (sic) Estudio de Riesgos.
+V. Identificación y análisis de riesgos;
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+VI. (DEROGADA, G.O. 28 DE ABRIL DE 2023)
 
-VI. Póliza de seguro de responsabilidad civil no cancelable, vigente en todo momento, que cubra a los terceros en sus bienes y personas.
+> <small>(ADICIONADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+VII. Las demás que señale el Reglamento.
 
-Los estudios de riesgo deberán ser formulados por los ROPC, quienes serán responsables de su contenido, por lo tanto, deberá firmar conjuntamente con el propietario o poseedor, empresa constructora o desarrolladora, autógrafamente cada página del estudio respectivo e incluir la Carta de Corresponsabilidad en los términos del artículo 71 de esta Ley.
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+Los estudios de riesgo deberán ser formulados por los Responsables Oficiales de Protección Civil, quienes serán responsables de su contenido conjuntamente con el propietario o poseedor, empresa constructora o desarrolladora.
 
-Las Alcaldías, efectuarán la verificación del cumplimiento de las medidas de prevención y Mitigación que se hayan señalado en el estudio a que se refiere el artículo 96 de la presente Ley.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
-> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
 
-En caso de incumplimiento o falsedad en la información proporcionada, el ROPC será corresponsable con el propietario o poseedor, junto con la empresa constructora o desarrolladora y se harán acreedores a las sanciones previstas en la presente Ley, su Reglamento y demás ordenamientos jurídicos aplicables; asimismo, previo derecho de audiencia, la Secretaría, en su caso, procederá a la cancelación del registro correspondiente.
+En caso de incumplimiento o falsedad en la información proporcionada, el Responsable Oficial de Protección Civil será corresponsable con el propietario o poseedor junto con la empresa constructora o desarrolladora y se harán acreedores a las sanciones previstas en la presente Ley, su Reglamento y demás ordenamientos jurídicos aplicables; asimismo, previo derecho de audiencia, la Secretaría, en su caso, procederá a la revocación del registro correspondiente.
 
 ###### Artículo 99.
 
@@ -2464,6 +2534,10 @@ II. Experiencia comprobable en los temas que pretenda impartir. En el Reglamento
 
 Una vez que se dé cumplimiento a los requisitos anteriores y a los que señale el Reglamento, la Secretaría dará respuesta a la solicitud de autorización en un plazo de quince días hábiles.
 
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2023)</small>
+
+Una vez obtenido el registro y autorización correspondiente, será dado de alta en el Padrón Digital de Responsables Oficiales de Protección Civil, cuyo contenido se establecerá en el Reglamento.
+
 ###### Artículo 188.
 
 Estarán exentos de cumplir con la fracción I del artículo anterior:
@@ -2524,6 +2598,10 @@ Una vez que se dé cumplimiento a los requisitos anteriores y a los que señale 
 
 Las personas profesionistas con cédula profesional a nivel licenciatura o posgrado en cualquier ingeniería, arquitectura, protección civil, medicina y carreras afines, que acrediten haber realizado su servicio social o prácticas profesionales en la materia de que se trata, estarán exentos de cumplir con el requisito de experiencia a que se refiere el párrafo primero del presente artículo. En caso contrario, dichas personas profesionistas, deberán acreditar, cuando menos, un año de experiencia. En el Reglamento se precisará cuáles son las carreras afines.
 
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2023)</small>
+
+Una vez obtenido el registro y autorización correspondiente, será dado de alta en el Padrón Digital de Responsables Oficiales de Protección Civil, cuyo contenido se establecerá en el Reglamento.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
 ###### Artículo 192.
@@ -2552,11 +2630,15 @@ Una vez que se dé cumplimiento a los requisitos anteriores y a los que señale 
 
 Los apartados de Protección Civil en los estudios de impacto urbano a los que se refiere el Reglamento, sólo podrán ser elaborados por ROPC con registro y autorización para realizar estudios de riesgo.
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2023)</small>
+
+Una vez obtenido el registro y autorización correspondiente, será dado de alta en el Padrón Digital de Responsables Oficiales de Protección Civil, cuyo contenido se establecerá en el Reglamento.
+
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 193.
 
-Los cursos de elaboración de Programas Internos y Programas Especiales y de análisis y reducción de riesgos, así como de Estudios de Riesgos serán informados previamente en el portal institucional de la Secretaría.
+Los cursos para la elaboración de Programas Internos y Programas Especiales, así como de Estudios de Riesgos serán informados previamente en el portal institucional de la Secretaría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -2578,11 +2660,19 @@ II. Las constancias con las que acredite como mínimo cuatro años de experienci
 
 Una vez que se dé cumplimiento a los requisitos anteriores y a los que señale el Reglamento, la Secretaría dará respuesta a la solicitud de autorización en un plazo máximo de quince días hábiles.
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2023)</small>
+
+Una vez obtenido el registro y autorización correspondiente, será dado de alta en el Padrón Digital de Responsables Oficiales de Protección Civil, cuyo contenido se establecerá en el Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 195.
 
-Los registros y autorizaciones a que se refiere el presente capítulo tendrán una vigencia de dos años y permitirán al ROPC impartir capacitación y elaborar los programas internos y especiales, y los estudios de riesgos, así como para expedir la Carta de Corresponsabilidad por medio de la cual avala el cumplimiento de las disposiciones legales y administrativas en materia de Gestión Integral de Riesgos y Protección Civil y con la que se responsabiliza solidariamente con la persona física o moral que solicitó el servicio de que se trate.
+Los registros y autorizaciones a que se refiere el presente capítulo tendrán una vigencia de cinco años y permitirán al Responsable Oficial de Protección Civil impartir capacitación y elaborar los programas internos y especiales, y los estudios de riesgos, así como para expedir la Carta de Corresponsabilidad por medio de la cual avala el cumplimiento de las disposiciones legales y administrativas en materia de Gestión Integral de Riesgos y Protección Civil y con la que se responsabiliza solidariamente con la persona física o moral que solicitó el servicio de que se trate.
+
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2023)</small>
+
+Independientemente de la vigencia del registro como Responsable Oficial de Protección Civil, la corresponsabilidad subsistirá durante la vigencia del Programa Interno y del Estudio de Riesgo de Obra.
 
 > <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -2596,11 +2686,13 @@ La previsión de acciones del Programa Interno de Protección Civil serán oblig
 
 (DEROGADO, G.O. 2 DE MARZO DE 2021)
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 198.
 
-Durante la vigencia del registro y la autorización, los terceros acreditados o ROPC deberán entregar anualmente a la Secretaría, en los primeros cinco días del mes siguiente a aquel en que se haya cumplido un año de actividad, un informe detallado de todas las actividades que han llevado a cabo durante el año previo.
+Durante la vigencia del registro y la autorización como Responsables Oficiales de Protección Civil, éstos deberán entregar anualmente a la Secretaría, en los primeros cinco días del mes siguiente a aquél en que se haya cumplido un año de actividad, un informe detallado de todas las actividades llevadas a cabo durante el año previo.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], G.O. 2 DE MARZO DE 2021)</small>
 
 Asimismo, a fin de que la Secretaría proceda a la renovación del registro y autorización de los ROPC, éstos deberán, de conformidad al tipo de registro a renovar, realizar lo siguiente:
 
@@ -2612,17 +2704,25 @@ III. Aquellos con registro y autorización para realizar Estudios de Riesgos deb
 
 IV. Acreditar, por lo menos, 40 horas en cursos de actualización en las materias que les correspondan.
 
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+
 La solicitud de renovación del registro y autorización para desempeñarse como ROPC, deberá presentarse por los interesados dentro de los 30 días naturales anteriores a que concluya la vigencia de los mismos.
+
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
 La Secretaría deberá dar respuesta a la solicitud en un plazo máximo de 15 días hábiles, contados a partir de que el solicitante cumpla con la totalidad de los requisitos exigidos.
 
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
+
 ###### Artículo 199.
 
-Los Terceros Acreditados sólo podrán realizar las actividades expresamente autorizadas.
+Los Responsables Oficiales de Protección Civil sólo podrán realizar las actividades expresamente autorizadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 200.
 
-Los Terceros Acreditados tendrán las siguientes obligaciones:
+Los Responsables Oficiales de Protección Civil tendrán las siguientes obligaciones:
 
 I) Apoyar de manera altruista en labores de auxilio, de acuerdo a sus capacidades, ante la ocurrencia de una Emergencia o Desastre, coordinados por la Secretaría, cuando sean convocados;
 
@@ -2632,19 +2732,25 @@ III) Mantenerse actualizado en los aspectos técnicos de los temas relacionados 
 
 IV) Mantener bajo estricto control y reserva los documentos, constancias, formularios, registros y certificados que se le proporcionen para el ejercicio de las funciones que se le han conferido, en los términos de la Ley en la materia.
 
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
+
 ###### Artículo 201.
 
-El cobro de honorarios por los servicios prestados en materia de Gestión Integral de Riesgos y Protección Civil que realicen los Terceros Acreditados no podrá ser mayor a los aranceles establecidos por la Secretaría, los cuales se publicarán anualmente en la Gaceta Oficial de la Ciudad de México.
+El cobro de honorarios por los servicios prestados en materia de Gestión Integral de Riesgos y Protección Civil que realicen los Responsables Oficiales de Protección Civil no podrá ser mayor a los aranceles establecidos por la Secretaría, los cuales se publicarán anualmente en la Gaceta Oficial de la Ciudad de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 202.
 
-La carta de corresponsabilidad que emitan los Terceros Acreditados obliga a éstos a supervisar el cumplimiento de las obligaciones calendarizadas a cargo del obligado, para el cual elaboraron el correspondiente Programa Interno o Especial de Protección Civil, entregando un informe del avance a las Alcaldías y/o a la Secretaría.
+La carta de corresponsabilidad que emitan los Responsables Oficiales de Protección Civil será su responsabilidad y obliga a éstos a supervisar el cumplimiento de las obligaciones calendarizadas a cargo del obligado, para el cual elaboraron el correspondiente Programa Interno o Especial así como el Estudio de Riesgo.
 
 Las acciones de Mitigación y operación del Programa Interno de Protección Civil serán responsabilidad de los obligados.
 
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
+
 ###### Artículo 203.
 
-Los colegios de profesionistas registrados en los términos de la Ley General de Educación, asociaciones e instituciones educativas que formen parte del Sistema Educativo Nacional, podrán capacitar y evaluar a los Terceros Acreditados, previo convenio celebrado con la Secretaría.
+Los colegios de profesionistas registrados en los términos de la Ley General de Educación, asociaciones e instituciones educativas que formen parte del Sistema Educativo Nacional, podrán capacitar y evaluar a los Responsables Oficiales de Protección Civil, previo convenio celebrado con la Secretaría.
 
 > <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -2702,31 +2808,31 @@ Corresponde al Gobierno de la Ciudad de México impulsar en sus procesos de plan
 
 ### CAPÍTULO I. DE LA EJECUCIÓN DE LAS VISITAS DE VERIFICACIÓN E IMPOSICIÓN DE LAS MEDIDAS CAUTELARES Y DE SEGURIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 210.
 
-Las Alcaldías, en el ámbito de sus atribuciones, ordenarán las visitas de verificación administrativa a efecto de vigilar el cumplimiento de esta Ley, su Reglamento y demás disposiciones en la materia.
+Las Alcaldías y la Secretaría, ambas en el ámbito de sus atribuciones, ordenarán las visitas de verificación administrativa a efecto de vigilar el cumplimiento de esta Ley, su Reglamento y demás disposiciones en la materia.
 
 > <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
 
 El procedimiento de verificación administrativa se llevará a cabo conforme a lo establecido en la Ley de Procedimiento Administrativo de la Ciudad de México, la Ley del Instituto de Verificación Administrativa de la Ciudad de México, el Reglamento de Verificación Administrativa del Distrito Federal y demás disposiciones jurídicas y administrativas que resulten aplicables.
 
-> <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 211.
 
-La Secretaría capacitará al Personal Especializado en Funciones de Verificación en materia de protección civil.
+La Secretaría capacitará al Personal de Verificación en materia de protección civil.
 
 ###### Artículo 212.
 
 (DEROGADO, G.O. 2 DE MARZO DE 2021)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
 
 ###### Artículo 213.
 
-Con motivo de la visita de verificación y para proteger la salud, la seguridad pública, la integridad de las personas y sus bienes, así como para evitar el incumplimiento de la normatividad referente a las actividades reguladas, las Alcaldías, en el ámbito de su competencia, además de las establecidas en la Ley de Procedimiento Administrativo de la Ciudad de México y en el Reglamento de Verificación Administrativa del Distrito Federal, podrán imponer una o más de las siguientes medidas cautelares y de seguridad:
+Con motivo de la visita de verificación y para proteger la salud, la seguridad pública, la integridad de las personas y sus bienes, así como para evitar el incumplimiento de la normatividad referente a las actividades reguladas, la Secretaría y las Alcaldías, en el ámbito de sus respectivas competencias, además de las establecidas en la Ley de Procedimiento Administrativo de la Ciudad de México y en el Reglamento de Verificación Administrativa del Distrito Federal, podrán imponer una o más de las siguientes medidas cautelares y de seguridad:
 
 > <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -2806,13 +2912,9 @@ II. Revocación de autorizaciones o permisos;
 
 III. Clausura temporal o definitiva, parcial o total del inmueble, establecimiento o fuente de riesgo;
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+IV. (DEROGADA, G.O. 28 DE ABRIL DE 2023)
 
-IV. Revocación del registro y autorización como ROPC;
-
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
-
-V. Revocación del registro a los grupos voluntarios
+V. (DEROGADA, G.O. 28 DE ABRIL DE 2023)
 
 > <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -2829,6 +2931,16 @@ VIII. Las demás necesarias para preservar la integridad de las personas.
 > <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
 
 Las sanciones pecuniarias se aplicarán con independencia de otras sanciones que se ordenen por lo que podrán imponerse conjunta o separadamente.
+
+> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2023)</small>
+
+Artículo 218 BIS. Una vez sustanciado el procedimiento administrativo, la Secretaría podrá imponer las siguientes sanciones administrativas:
+
+I. Revocación del registro y autorización como Responsable Oficial de Protección Civil;
+
+II. Revocación del registro a los grupos voluntarios; y
+
+III. Revocación de autorizaciones, permisos o registros.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -2878,17 +2990,17 @@ III. A los promotores, organizadores o responsables de eventos, actividades o es
 
 IV. A la persona física o moral que no cuente con el Programa Interno o Especial, estando obligado a ello, o que dicho Programa no cumpla con los requisitos establecidos en la normativa que corresponda, se le impondrá multa de 200 a 5,000 la UMA, así como suspensión parcial o total de actividades en caso de riesgo inminente, previo desahogo del procedimiento preventivo que establezca el Reglamento;
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-V. A la persona física o moral que aun contando con ejemplar físico del Programa Interno en el establecimiento o inmueble omita registrarlo en la Plataforma Digital, se le impondrá multa de 100 a 2,500 la UMA, así como clausura parcial o total de actividades en caso de riesgo inminente, previo desahogo del procedimiento preventivo que establezca el Reglamento;
+V. A la persona física o moral que, aun contando con ejemplar físico del Programa Interno en el establecimiento, industria o inmueble, no cuente con la constancia de captura o el registro en la Plataforma Digital, se le impondrá multa de 100 a 2,500 la Unidad de Medida y Actualización vigente, en caso de riesgo inminente, previo desahogo del procedimiento preventivo que establezca el Reglamento;
 
 > <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
 
 VI. A la persona física o moral que estando obligada a ello no presente el Plan de Contingencias para la quema de artificios pirotécnicos, se le impondrá multa de 250 a 6,000 la UMA, así como clausura parcial o total de actividades;
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-VII. A la persona física o moral que, estando obligado a ello, no presente, a través del Tercero Acreditado o ROPC, el estudio de riesgo correspondiente, se le impondrá multa de 300 a 6,000 la UMA, así como clausura parcial o total de actividades en caso de Riesgo Inminente, previo desahogo del procedimiento preventivo que establezca el Reglamento;
+VII. A la persona física o moral que, estando obligado a ello, no presente, a través del Responsable Oficial de Protección Civil, el estudio de riesgo correspondiente, se le impondrá multa de 300 a 6,000 la Unidad de Medida y Actualización vigente, así como clausura parcial o total de actividades en caso de Riesgo Inminente, previo desahogo del procedimiento preventivo que establezca el Reglamento;
 
 > <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -2914,9 +3026,9 @@ XII. Al ROPC que haya obtenido su registro y autorización con datos o documento
 
 XIII. Al ROPC, o cualquier persona física o moral que incumpla con la Ley y demás disposiciones aplicables, poniendo en riesgo la vida y/o los bienes de las personas, se le impondrá revocación del registro y autorización para ejercer como tal y multa de 200 a 5,000 la UMA;
 
-> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
-XIV. Si el registro del Programa Interno no corresponde a las características físicas del Establecimiento o inmueble, o bien, éste se realizó sin contar con los documentos que acrediten su legalidad de acuerdo a la normatividad en la materia, el ROPC se hará acreedor a una sanción administrativa de 1,000 a 1,500 la UMA y la cancelación de su registro; y,
+XIV. Si el registro del Programa Interno no corresponde a las características físicas del Establecimiento o inmueble, o bien, éste se realizó sin contar con los documentos que acrediten su legalidad de acuerdo a la normativa en la materia, el Responsable Oficial de Protección Civil se hará acreedor a una sanción administrativa de 1,000 a 1,500 la Unidad de Medida y Actualización vigente y/o la revocación de la totalidad de sus registros, sin que pueda solicitar nuevos registros como Responsable Oficial de Protección Civil, por el término de tres años; y
 
 > <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -3018,7 +3130,7 @@ IV) Uso indebido de equipo de comunicaciones y transmisión;
 
 V) Uso indebido de símbolos de Protección Civil; y
 
-VI) Ostentarse como parte del Sistema sin serlo.
+VI) (DEROGADA, G.O. 28 DE ABRIL DE 2023)
 
 ###### Artículo 236.
 
@@ -3087,3 +3199,19 @@ TERCERO. - El Reglamento de la Ley de Gestión Integral de Riesgos y Protección
 CUARTO. - Las Normas Técnicas, Términos de Referencia y Lineamientos a que se refiere la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México se actualizarán en lo que se opongan al presente Decreto, dentro de un término de noventa días, contados a partir de la entrada en vigor del presente mismo.
 
 QUINTO. - La Plataforma Digital a que se refiere la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México se actualizarán en lo que se opongan al presente Decreto, dentro de un término de noventa días, contados a partir de la entrada en vigor del presente mismo.
+
+G.O. 28 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE GESTION INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CUIDAD (SIC) DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor a los treinta días hábiles siguientes a su publicación en la Gaceta Oficial de la Ciudad de México
+
+TERCERO. El Reglamento de la presente Ley deberá modificarse en los términos de este Decreto, en un término de 90 días hábiles contados a partir de la entrada en vigor del presente.
+
+CUARTO. La Agencia Digital de Innovación Pública de la Ciudad de México, contará con un término de 180 días naturales a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a la Plataforma Digital en materia de Registro de Programas Especiales y Estudios de Riesgo de Obra y las demás contenidas en la presente reforma. Hasta en tanto se lleven a cabo dichas adecuaciones a la Plataforma Digital, los Programas Especiales y Estudios de Riesgo de Obra se presentarán a través de las ventanillas únicas correspondientes.
+
+QUINTO. Los Programas Internos de Protección Civil que a la entrada en vigor del presente Decreto no hayan sido registrados por las Alcaldías, deberán ser capturados nuevamente en la Plataforma Digital.
+
+SEXTO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
