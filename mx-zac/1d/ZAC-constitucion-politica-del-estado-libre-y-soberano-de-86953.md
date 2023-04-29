@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2021-09-11"
+last_updated: "2023-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2023.
+
+(REPUBLICADO EN EL D.O.F. 1 DE JULIO DE 2023)
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -841,7 +843,9 @@ g) Cómputo de la elección del titular del Poder Ejecutivo;
 
 h) Resultados preliminares; encuestas o sondeos de opinión; observación electoral, y conteos rápidos;
 
-i) Organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana que prevea la legislación local;
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+i) Organización, desarrollo, cómputo y declaración de resultados en los procesos de revocación de mandato y los mecanismos de participación ciudadana que prevea la legislación local;
 
 j) Todas las no reservadas al Instituto Nacional Electoral;
 
@@ -899,7 +903,9 @@ B. El Tribunal de Justicia Electoral del Estado de Zacatecas, en el ámbito de s
 
 I. Las impugnaciones en las elecciones para Diputadas y Diputados locales y de Ayuntamientos;
 
-II. Las impugnaciones que se presenten sobre la elección de Gobernador del Estado;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+II. Las impugnaciones que se presenten sobre la elección de Gobernador o Gobernadora del Estado y sobre los procesos de revocación de mandato;
 
 > <small>(REFORMADA, P.O. 23 DE MAYO DE 2020)</small>
 
@@ -911,7 +917,9 @@ IV. Los conflictos o diferencias laborales entre el Instituto Electoral del Esta
 
 V. Los conflictos o diferencias laborales entre el Tribunal y sus respectivos servidores;
 
-VI. Las controversias que se susciten, con motivo de las determinaciones del Instituto Electoral del Estado de Zacatecas, respecto de las solicitudes de ciudadanos para constituirse en un partido político local, en los términos que señale la Ley General de Partidos Políticos;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+VI. Las controversias que se susciten, con motivo de las determinaciones del Instituto Electoral del Estado de Zacatecas, respecto de las solicitudes de ciudadanos para constituirse en un partido político local y para iniciar procesos de revocación de mandato, en los términos que señale la Ley General de Partidos Políticos, esta Constitución y las demás leyes aplicables;
 
 VII. Las impugnaciones de actos y resoluciones que violen los derechos de los ciudadanos de votar, ser votado y de afiliación libre y pacífica, en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus leyes secundarias. Para que un ciudadano pueda acudir a la jurisdicción del Tribunal por violación a sus derechos por el partido político al que se encuentre afiliado, deberá haber agotado previamente las instancias de solución de conflictos previstas en sus normas internas; y
 
@@ -1049,9 +1057,41 @@ El cincuenta por ciento de los recursos económicos derivados de infracciones co
 
 V. (DEROGADA, P.O. 12 DE JULIO DE 2014)
 
-> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ABRIL DE 2023)</small>
 
-### CAPÍTULO CUARTO. DE LA CONSULTA E INICIATIVA POPULAR
+### CAPÍTULO CUARTO. DE LA REVOCACIÓN DE MANDATO, CONSULTA E INICIATIVA POPULAR
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+###### Artículo 44 Bis.
+
+La revocación de mandato será aplicable a la persona titular del Poder Ejecutivo y se sujetará a lo siguiente:
+
+1º. Será convocado por el Instituto Electoral del Estado de Zacatecas a petición de los ciudadanos y ciudadanas, en un número equivalente, al menos, al diez por ciento de las y los inscritos en la lista nominal de electores, siempre y cuando en la solicitud correspondan, por lo menos, a la mitad más uno de los municipios del Estado.
+
+2°. Dentro de los treinta días posteriores a la presentación de la solicitud, el Instituto Electoral del Estado de Zacatecas verificará el requisito establecido en el párrafo anterior y, de ser procedente, emitirá inmediatamente la convocatoria para el proceso de revocación de mandato.
+
+3º. Se podrá solicitar en una sola ocasión, durante los tres meses posteriores a la conclusión del tercer año del periodo de ejercicio constitucional.
+
+4º. Las y los ciudadanos podrán recabar firmas para la solicitud de revocación de mandato durante el periodo previsto en el párrafo anterior. El Instituto Electoral del Estado de Zacatecas emitirá, de manera previa, los formatos y preparará los medios electrónicos para la recopilación de firmas, así como los lineamientos para las actividades relacionadas.
+
+5º. Se realizará mediante votación libre, directa y secreta de ciudadanos y ciudadanas inscritos en la lista nominal, el domingo siguiente a los noventa días posteriores a la convocatoria y en fecha no coincidente con las jornadas electorales federal o local.
+
+6º. Para que el proceso de revocación de mandato sea vinculante deberá haber una participación de, por lo menos, el cuarenta por ciento de las personas inscritas en la lista nominal de electores. La revocación de mandato sólo procederá por mayoría absoluta.
+
+7º. El Instituto Electoral del Estado de Zacatecas tendrá a su cargo, en forma directa, la organización, desarrollo y cómputo de la votación. Los resultados podrán ser impugnados ante el Tribunal de Justicia Electoral del Estado de Zacatecas.
+
+8º. El Tribunal de Justicia Electoral del Estado de Zacatecas realizará el cómputo final del proceso de revocación de mandato, una vez resueltas las impugnaciones que se hubieren interpuesto. En su caso, emitirá la declaratoria de revocación y se estará a lo dispuesto en el artículo 79 de esta Constitución.
+
+9º. Queda prohibido el uso de recursos públicos para la recolección de firmas, así como con fines de promoción y propaganda relacionados con los procesos de revocación de mandato.
+
+10º. El Instituto Electoral del Estado de Zacatecas promoverá la participación ciudadana y será la única instancia a cargo de la difusión de los mismos. La promoción será objetiva, imparcial y con fines informativos.
+
+11º. Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda dirigida a influir en la opinión de los ciudadanos y ciudadanas.
+
+12º. Durante el tiempo que comprende el proceso de revocación de mandato, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno en el Estado.
+
+13º. De acuerdo con la Constitución Política de los Estados Unidos Mexicanos, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, sólo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
@@ -1695,9 +1735,15 @@ IX. Informar a la Legislatura del Estado el Proyecto Anual de Fiscalización.
 
 ### CAPÍTULO SEGUNDO. DEL PODER EJECUTIVO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
+
 ###### Artículo 72.
 
-El ejercicio del Poder Ejecutivo se deposita en un ciudadano que se denominará "Gobernador del Estado de Zacatecas", quien durará en su cargo seis años, tomará posesión el doce de septiembre del año de la elección y nunca podrá ser reelecto.
+El ejercicio del Poder Ejecutivo se deposita en un ciudadano o ciudadana que se denominará "Gobernador o Gobernadora del Estado de Zacatecas", quien durará en su cargo seis años, tomará posesión el doce de septiembre del año de la elección y nunca podrá ser reelecto.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+El cargo de Gobernador o Gobernadora del Estado de Zacatecas puede ser revocado en los términos establecidos en esta Constitución.
 
 ###### Artículo 73.
 
@@ -1766,6 +1812,14 @@ V. El Gobernador sustituto no podrá ser electo para el periodo constitucional i
 VI. Las faltas temporales o absolutas de los Gobernadores sustitutos o interinos se cubrirán en la misma forma establecida en este artículo según los casos; y
 
 VII. Si a la expiración de una licencia concedida al Gobernador no se presentare a ejercer sus funciones, la Legislatura o la Comisión Permanente lo conminará para que lo haga en el término de treinta días, advirtiéndole que de no comparecer, sin causa justificada, se tendrá por renunciado el cargo y, llegado el caso, se procederá a la renovación del Ejecutivo en los términos prescritos por esta Constitución.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+VIII. En caso de haberse revocado el mandato del Gobernador o Gobernadora del Estado, asumirá provisionalmente la titularidad del Poder Ejecutivo quien ocupe la presidencia de la Legislatura del Estado y dentro de los treinta días siguientes, la Legislatura nombrará a quien concluirá el período constitucional, en términos de las fracciones III, IV, V y VI de este artículo.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VIII, P.O. 29 DE ABRIL DE 2023]</small>
+
+Quien ocupe provisionalmente la Gubernatura no podrá remover o designar a los Secretarios de Estado sin autorización previa de la Legislatura. Asimismo, entregará a la Legislatura un informe de labores en un plazo no mayor a diez días, contados a partir del momento en que termine su encargo.
 
 ###### Artículo 80.
 
@@ -4048,3 +4102,11 @@ Artículo primero. El presente decreto entrará en vigor al día siguiente de su
 Artículo segundo. Dentro de los ciento veinte días siguientes a la entrada en vigor de este decreto, se modificará la Ley de Fiscalización y Rendición de Cuentas del Estado, la Ley Orgánica del Poder Legislativo del Estado, la Ley de Firma Electrónica del Estado y otros ordenamientos aplicables, para adecuarlas a la presente reforma.
 
 Artículo tercero. Se derogan las disposiciones que contravengan el presente decreto.
+
+P.O. 29 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 292.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. Dentro de los 180 días siguientes a la publicación de este Decreto, la Legislatura del Estado deberá realizar las adecuaciones legales para para (sic) dar cumplimiento al presente Decreto.
