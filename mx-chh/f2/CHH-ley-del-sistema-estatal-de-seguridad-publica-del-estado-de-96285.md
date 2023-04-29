@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2023-01-30"
+last_updated: "2023-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2023.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -123,9 +123,13 @@ XIV. Constitución: La Constitución Política de los Estados Unidos Mexicanos.
 
 XV. Constitución local: La Constitución Política del Estado Libre y Soberano de Chihuahua.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2023)</small>
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-XVI. Instituto: El Instituto Estatal de Seguridad Pública dependiente de la Secretaría de Seguridad Pública, encargado de la formación y actualización especializada de aspirantes e integrantes del Desarrollo Profesional Ministerial y Pericial, en concordancia con las atribuciones de la Fiscalía General del Estado; así como respecto a la formación policial.
+XV Bis. Equipo tecnológico: Recursos o dispositivos entregados en resguardo a las personas integrantes de la Secretaría para solventar necesidades o facilitar sus tareas laborales, estos pueden ser tangibles o intangibles.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XVI. Instituto: El Instituto Estatal de Seguridad Pública dependiente de la Secretaría de Seguridad Pública del Estado, encargado de la formación y actualización especializada de aspirantes y personal activo de las policías, de los agentes del Ministerio Público, personal pericial y analistas.
 
 XVII. Fiscalía Especializada en Control: La Fiscalía Especializada en Control, Análisis y Evaluación de la Fiscalía General del Estado.
 
@@ -137,9 +141,9 @@ XIX. Hoja de Servicios: El documento que resume la trayectoria de cada integrant
 
 XX. Instituciones de Seguridad Pública: La Institución del Ministerio Público, los servicios periciales, las Instituciones Policiales y dependencias encargadas de la Seguridad Pública del Estado y de los municipios.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-XXI. Instituciones Policiales: La Secretaría de Seguridad Pública, la Agencia Estatal de Investigación; y las y los agentes de seguridad, custodia y traslado, tanto de los centros de reinserción social como de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales, dependientes de dicha Secretaría, así como las corporaciones policiales de los municipios, comprendiendo vialidad y tránsito.
+XXI. Instituciones Policiales: Las policías que integran a la Secretaría de Seguridad Pública del Estado, la Agencia Estatal de Investigación; así como las corporaciones policiales de los municipios.
 
 XXII. Integrantes: Los Integrantes de las Instituciones de Seguridad Pública.
 
@@ -147,13 +151,21 @@ XXIII. Ley: La presente Ley del Sistema Estatal de Seguridad Pública.
 
 XXIV. Ley General: La Ley General del Sistema Nacional de Seguridad Pública.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-XXV. Órgano de Asuntos Internos: La Fiscalía Especializada en Control, Análisis y Evaluación de la Fiscalía General del Estado, o el órgano interno de control, o instancia equivalente, de la Secretaría de Seguridad Pública y de los municipios.
+XXV. Órgano de Asuntos Internos: La Fiscalía Especializada en Control, Análisis y Evaluación de la Fiscalía General del Estado, o el Órgano Interno de Control, o instancia equivalente, de la Secretaría de Seguridad Pública del Estado y de los municipios.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-XXVI. Policía: Las Divisiones de Fuerzas Estatales, de Operaciones Especiales, de Inteligencia, de Policía Vial, de Operaciones Rurales y de Seguridad Bancaria, Comercial e Industrial de la Secretaría de Seguridad Pública, la Policía de Investigación y la Policía de Seguridad, Custodia y Traslado y de Vigilancia de Audiencias Judiciales, así como la Policía Preventiva municipal, conforme a los artículos 21 y 115, fracción III, inciso h), de la Constitución Política de los Estados Unidos Mexicanos.
+XXV Bis. Personas Infractoras Arrestadas: Son las personas arrestadas hasta por treinta y seis horas, por la policía, al haber cometido alguna falta administrativa o vial.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XXV Ter. Plataforma Estatal: Es el conjunto de tecnologías generadoras de inteligencia operativa, estadísticas y mapas de calor que permiten generar estrategias que maximicen la efectividad de las fuerzas de seguridad, la cual depende y es administrada por la Secretaría.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XXVI. Policía: Las Policías integrantes de la Secretaría de Seguridad Pública del Estado y la Agencia Estatal de Investigación perteneciente a la Fiscalía General del Estado, así como la Policía Preventiva municipal, conforme a los artículos 21 y 115, fracción III, inciso h), de la Constitución Política de los Estados Unidos Mexicanos.
 
 XXVII. Procedimiento: El instaurado a los Integrantes de las Instituciones de Seguridad Pública ante las Comisiones del Servicio Profesional de Carrera, Honor y Justicia, por incumplimiento a los requisitos de permanencia o infracción al régimen disciplinario, respectivamente.
 
@@ -164,6 +176,10 @@ XXIX. Registro de Armamento: El Registro Estatal de Armamento y Equipo.
 XXX. Registro de Detenidos: El Registro Estatal de Detenidos.
 
 XXXI. Registro de Información Penitenciaria: El Registro Estatal de Información Penitenciaria.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XXXI Bis. Registro de Personas Infractoras Arrestadas: El Registro Estatal de Personas Infractoras Arrestadas.
 
 XXXII. Registro Estatal de Personal: El Registro Estatal de Personal de Seguridad Pública.
 
@@ -177,9 +193,13 @@ XXXVI. Sistema Estatal: El Sistema Estatal de Seguridad Pública.
 
 XXXVII. Sistema Nacional: El Sistema Nacional de Seguridad Pública.
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-XXXVIII. Secretaría: Secretaría de Seguridad Pública.
+XXXVIII. Secretaría: Secretaría de Seguridad Pública del Estado.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XXXIX. Subsecretaría: Las subsecretarías que formen parte de la estructura orgánica de la Secretaría de Seguridad Pública del Estado.
 
 ###### Artículo 5.
 
@@ -205,7 +225,9 @@ Los municipios podrán celebrar convenios con el Estado para que presten coordin
 
 Asimismo, los municipios y el Estado o ambos y la Federación, podrán celebrar convenios o acuerdos específicos para la realización de operaciones policiales conjuntas de combate a la delincuencia, estableciendo la autoridad que ejercerá el mando.
 
-En los casos de fuerza mayor o alteración grave del orden público, la policía preventiva municipal acatará las órdenes que por escrito le transmita el Gobernador del Estado.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+En los casos de fuerza mayor o alteración grave del orden público, la policía preventiva municipal acatará las órdenes que por escrito o medio tecnológico inmediato y eficaz que permita dejar constancia, le transmita la persona titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 9.
 
@@ -307,19 +329,27 @@ El Consejo Estatal es la instancia responsable de la coordinación, planeación 
 
 Asimismo, será la máxima instancia de deliberación, consulta y definición de políticas públicas del Sistema Estatal y estará integrado por:
 
-I. El Gobernador del Estado, quien lo presidirá.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-II. El Fiscal General del Estado.
+I. La persona titular del Poder Ejecutivo del Estado, quien lo presidirá.
 
-III. Cuatro presidentes municipales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+II. La persona titular de la Fiscalía General del Estado.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+III. Trece presidentes municipales.
 
 IV. Un representante de las Instituciones de Seguridad Pública de la Federación, solo con derecho a voz.
 
-V. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública quien fungirá como Secretario del Consejo, solo con derecho a voz.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2017)</small>
+V. La persona titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, quien fungirá como Secretario del Consejo, solo con derecho a voz.
 
-VI.- Seis representantes de la sociedad civil; de los cuales, uno de ellos será la o el Presidente del Comité Técnico del Fideicomiso para la Competitividad y Seguridad Ciudadana.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+VI. Trece representantes de la sociedad civil; de los cuales, uno de ellos será la o el Presidente del Comité Técnico del Fideicomiso para la Competitividad y Seguridad Ciudadana.
 
 VII. El Secretario Adjunto, solo con derecho a voz.
 
@@ -327,7 +357,13 @@ VII. El Secretario Adjunto, solo con derecho a voz.
 
 VIII. La persona titular de la Secretaría.
 
-Los seis representantes de la sociedad civil y el Secretario Adjunto conformarán la parte ciudadana del Consejo.
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+IX. La persona titular de la Secretaría General de Gobierno.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+Las trece personas representantes de la sociedad civil y la o el Secretario Adjunto conformarán la parte ciudadana del Consejo.
 
 Así mismo, se invitarán a las reuniones del Consejo Estatal, a dos representantes del Poder Legislativo y a un representante del Poder Judicial.
 
@@ -335,9 +371,23 @@ El Consejo podrá invitar, por la naturaleza de los asuntos a tratar, a las pers
 
 Los miembros del Consejo Estatal podrán proponer acuerdos y resoluciones, así como vigilar su cumplimiento.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+Quien presida el Consejo será suplido en sus ausencias por la persona titular de la Secretaría General de Gobierno. Los demás integrantes del Consejo Estatal no tendrán suplencia.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+Las sesiones del Consejo Estatal podrán contar con invitados especiales, los cuales serán designados por el pleno de dicho Conejo.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+Los representantes de la sociedad civil serán renovados cada dos años y su elección se realizará a través de la convocatoria definida por el Secretariado Ejecutivo, la cual deberá ser aprobada previamente por el Consejo Estatal de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
+
 ###### Artículo 18.
 
-El Gobernador del Estado tendrá la facultad de nombrar y remover libremente al Secretario Ejecutivo. De la misma forma nombrará y removerá libremente al Secretario Adjunto del Consejo Estatal de Seguridad Pública, quien será de la sociedad civil y su cargo será honorario.
+La persona titular del Poder Ejecutivo del Estado tendrá la facultad de nombrar y remover libremente a la persona titular del Secretariado Ejecutivo. De la misma forma nombrará y removerá libremente a la Secretaria o Secretario Adjunto del Consejo Estatal de Seguridad Pública, quien será de la sociedad civil y su cargo será honorario.
 
 ###### Artículo 19.
 
@@ -375,9 +425,57 @@ XV. Vigilar la implementación de políticas en materia de atención a víctimas
 
 XVI. Las demás que le establezcan otras disposiciones legales.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+###### Artículo 19 Bis.
+
+Son facultades de la Presidencia del Consejo Estatal:
+
+I. Presidir las reuniones del Consejo Estatal.
+
+II. Representar al Consejo Estatal en cualquier acto público o privado.
+
+III. Representar al Consejo Estatal ante el Consejo Nacional de Seguridad Pública.
+
+IV. Aprobar a las y los consejeros ciudadanos propuestos por el Secretario Ejecutivo.
+
+V. Las demás que encomienden las disposiciones normativas.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+###### Artículo 19 Ter.
+
+Son facultades de la Secretaría del Consejo Estatal:
+
+I. Convocar a sesiones ordinarias y extraordinarias, previo acuerdo con quien presida el Consejo Estatal.
+
+II. Presentar a quien presida el Consejo Estatal, a las o los Consejeros Ciudadanos que fueron seleccionados mediante la convocatoria de participación ciudadana.
+
+III. Solicitar las propuestas de las personas que integran el Consejo Estatal para incluirlas en el orden del día de las sesiones del Consejo Estatal, previa autorización de quien lo preside.
+
+IV. Recabar y evaluar las propuestas de políticas públicas de quienes integran el Consejo Estatal para su presentación ante el pleno para su aprobación.
+
+V. Presentar al Consejo Estatal los informes de seguimiento de los acuerdos y resoluciones que se adopten en el mismo.
+
+VI. Someter a la aprobación del Consejo Estatal, el Programa Estatal de Prevención Social de la Violencia y la Delincuencia.
+
+VII. Expedir y certificar copias de actas, acuerdos, archivos y documentos que obren en su poder con motivo del ejercicio de sus funciones.
+
+VIII. Las demás que le confieran las disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
+
 ###### Artículo 20.
 
-El Consejo Estatal de Seguridad Pública se reunirá, por lo menos, cada mes en forma ordinaria y extraordinariamente en cualquier tiempo a convocatoria del Secretario Ejecutivo, quien integrará la agenda de los asuntos a tratar.
+El Consejo Estatal de Seguridad Pública se reunirá, por lo menos, cada tres meses en forma ordinaria, y extraordinariamente en cualquier tiempo, a convocatoria de la persona titular del Secretariado Ejecutivo, quien integrará la agenda de los asuntos a tratar.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+El cuórum para las reuniones del Consejo Estatal se integrará con la mitad más uno de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+Los acuerdos se tomarán por la mayoría de las y los integrantes presentes del Consejo Estatal, en caso de empate, quien ocupe la titularidad de la Presidencia tendrá el voto de calidad.
 
 ###### Artículo 21.
 
@@ -485,19 +583,61 @@ El Secretariado Ejecutivo se coordinará con el Presidente de la Conferencia Est
 
 ### CAPÍTULO IV. DE LA CONFERENCIA ESTATAL DE SEGURIDAD PÚBLICA MUNICIPAL
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
+
 ###### Artículo 31.
 
-La Conferencia Estatal estará integrada por los presidentes municipales y los directores de seguridad pública municipal u órgano equivalente.
+La Conferencia Estatal estará integrada por las personas titulares de las presidencias municipales, y de las direcciones de seguridad pública municipal u órgano equivalente, quienes no podrán ser suplidas en sus funciones.
 
 ###### Artículo 32.
 
 El Secretariado Ejecutivo convocará a la reunión para la instalación de la Conferencia Estatal, en la cual sus miembros designarán a su Presidente. La Conferencia Estatal contará con un Secretario Técnico, quien será nombrado y removido por el Presidente de la misma.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+###### Artículo 32 Bis.
+
+La persona que presida la Conferencia Estatal será un Presidente Municipal designado de entre las y los integrantes de la Conferencia por el pleno de la misma, quien durará en su encargo un año, salvo en los casos de renuncia, licencia, conclusión del período de la administración municipal o cualquier otra causa por la que la o el Presidente Municipal no continúe en el cargo, a cuyo efecto la o el Secretario Técnico convocará a reunión extraordinaria para que las y los integrantes designen al Presidente que lo sustituya, hasta en tanto se celebre la reunión anual en que se designe Presidente o concluya el período para el cual fue electo.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+###### Artículo 32 Ter.
+
+La Conferencia Estatal estará integrada por:
+
+I. Una o un Presidente, con derecho a voz y voto.
+
+II. Las y los Presidentes Municipales de los 67 Municipios del Estado de Chihuahua y las personas titulares de las direcciones de seguridad pública municipal u órgano equivalente, con derecho a voz y voto.
+
+III. Una o un Secretario Técnico con derecho a voz, que será nombrado y removido por el Presidente de la Conferencia Estatal, pudiendo ser o no integrante de la Conferencia Estatal.
+
+IV. La persona titular de la Secretaría de Seguridad Pública del Estado y la persona titular del Secretariado Ejecutivo, como invitadas permanentes, con derecho a voz.
+
+V. Personas invitadas especiales que la Conferencia decida, con derecho a voz.
+
+Las personas invitadas especiales serán convocadas según la agenda y orden del día a tratar de la Conferencia, y podrán ser la persona titular de la Fiscalía General del Estado de Chihuahua, representantes de la Secretaría de la Defensa Nacional y de la Guardia Nacional, un representante de la Secretaría de Seguridad y Protección Ciudadana y un representante del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, así como las personas titulares de las subsecretarías de la Secretaría de Seguridad Pública del Estado. Los invitados especiales se señalan de manera enunciativa mas no limitativa.
+
+Además, podrán participar como invitadas especiales: asesores y representantes de carácter civil, académicos e investigadores, así como cualquier otro representante del gobierno federal o estatal que por su especialización o saber social e institucional sean reconocidos por su desempeño en los rubros que arroje la agenda temática consensuada por las personas que integran la Conferencia Estatal.
+
+Los cargos de la Conferencia serán honoríficos, por lo que no recibirán retribución, emolumento o compensación alguna por su desempeño.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
+
 ###### Artículo 33.
 
-La Conferencia Estatal se reunirá de manera ordinaria una vez al año durante el mes de noviembre y de manera extraordinaria en cualquier tiempo a juicio de su Presidente.
+La Conferencia Estatal se reunirá de manera ordinaria cada seis meses, y de manera extraordinaria en cualquier tiempo a juicio de su Presidente.
 
 El Secretario Técnico, a instrucción del Presidente de la Conferencia Estatal, convocará con diez días hábiles de anticipación para el caso de reuniones ordinarias y con cinco días hábiles para las extraordinarias.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 29 DE ABRIL DE 2023)</small>
+
+Tendrá el carácter de sesión extraordinaria, aquella que se celebre fuera del tiempo señalado en el primer párrafo y en los siguientes casos:
+
+I. Cuando se presente una situación cuyo carácter sea urgente de atender.
+
+II. Cuando a juicio de quien ocupe la titularidad de la Presidencia sea indispensable que la Conferencia exprese su opinión respecto de los asuntos de su competencia.
+
+III. Cuando la o el Secretario Técnico convoque a reunión extraordinaria para que las personas integrantes designen a quien ocupe la titularidad de la Presidencia, en caso de renuncia, licencia, conclusión del período de la administración municipal o cualquier otra causa por la que el Presidente Municipal no continúe en el cargo.
 
 ###### Artículo 34.
 
@@ -523,17 +663,63 @@ IX. Promover entre los municipios la celebración de convenios de coordinación 
 
 X. Analizar la problemática en materia de seguridad pública municipal, planteando alternativas y acciones concretas de solución.
 
-XI. Las demás que le otorguen otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2023)</small>
+
+XI. Coadyuvar, cuando así se requiera, al cumplimiento de los acuerdos adoptados en el Consejo Estatal.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XII. Proponer programas para el desarrollo policial, conforme al Programa Rector de Profesionalización.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XIII. Fortalecer y homologar las capacidades de reclutamiento, selección, capacitación, profesionalización, evaluación del desempeño y estímulos a los distintos cuerpos de policía de los municipios, para poner en operación el Modelo Nacional de Policía y Justicia Cívica, con programas de apoyo a la dignificación policial.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XIV. Fijar criterios específicos para la recopilación, sistematización y manejo de información de las bases de datos criminalísticas y de personal de las instituciones policiales y para el manejo de la información.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XV. Implementar equipo tecnológico que permita fortalecer el intercambio de información con las instituciones de seguridad pública estatal y federal.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XVI. Promover entre los municipios y las instituciones el modelo estatal de seguridad pública.
+
+> <small>(ADICIONADA [N. DE . REFORMADA], P.O. 29 DE ABRIL DE 2023)</small>
+
+XVII. Las demás que le otorguen otras disposiciones legales.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 35.
 
-El Presidente durará en su encargo un año, salvo en los casos de renuncia, licencia, conclusión del período de la administración municipal o cualquier otra causa por la que el Presidente Municipal no continúe en el cargo, a cuyo efecto el Secretario Técnico convocará a reunión extraordinaria para que los miembros designen al Presidente que lo sustituya, hasta en tanto se celebre la reunión anual en que se designe Presidente o concluya el período para el cual fue electo.
+El Presidente durará en su encargo un año, con posibilidad a ser reelecto; salvo en los casos de renuncia, licencia, conclusión del periodo de la administración municipal o cualquier otra causa por la que el Presidente Municipal no continúe en el cargo, a cuyo efecto el Secretario Técnico convocará a reunión extraordinaria para que sus integrantes designen al Presidente que lo sustituya, hasta en tanto se celebre la reunión semestral en que se designe Presidente o concluya el periodo para el cual fue electo. Dicha reelección podrá permitir que quien presida la Conferencia dure en su encargo un periodo máximo de tres años.
 
 ###### Artículo 36.
 
 La Conferencia Estatal, en coordinación con el Secretariado Ejecutivo, promoverá el diseño y formulación de políticas, programas y acciones de interés común para los municipios en materia de seguridad pública, así como la implementación de mecanismos eficaces de coordinación entre los mismos.
 
 El Secretariado Ejecutivo realizará las acciones necesarias para asegurar que la coordinación con la Conferencia Estatal sea efectiva e informará de ello al Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+###### Artículo 36 Bis.
+
+Son facultades de la persona titular de la Presidencia de la Conferencia Estatal:
+
+I. Presidir las reuniones de la Conferencia.
+
+II. Representar a la Conferencia en cualquier acto público o privado.
+
+III. Representar a la Conferencia ante el Consejo Estatal.
+
+IV. Emitir su voto en las reuniones y contar con voto de calidad en caso de empate.
+
+V. Proponer a las personas integrantes de la Conferencia reformas a sus Estatutos, así como vigilar su cumplimiento y correcta aplicación.
+
+VI. Las demás que le encomienden las disposiciones normativas.
 
 ###### Artículo 37.
 
@@ -547,13 +733,49 @@ III. Sugerir mejoras para el funcionamiento de la propia Conferencia Estatal.
 
 IV. Informar al Secretariado Ejecutivo de las actividades de la Conferencia Estatal.
 
-V. Las demás que le otorga esta Ley, así como las que se establezcan en las bases para la organización y funcionamiento de la Conferencia Estatal o le encomiende su Presidente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2023)</small>
 
-### CAPÍTULO V. DE LOS CONSEJOS DE SEGURIDAD PÚBLICA DE LOS MUNICIPIOS
+V. Acudir a las sesiones, reuniones, comités y mesas de trabajo que giren en torno de la Conferencia.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+VI. Solicitar a las personas integrantes de la Conferencia, en cualquier momento, la información necesaria para establecer el avance de cumplimiento de los acuerdos emitidos e informar a la Conferencia el resultado obtenido.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+VII. Enviar un informe de las resoluciones que se aprueben y del seguimiento de los acuerdos al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública, para su presentación al Consejo, así como expedir y certificar archivos y documentos que obren en su poder con motivo del ejercicio de sus funciones.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ABRIL DE 2023)</small>
+
+VIII. Las demás que le otorga esta Ley, así como las que se establezcan en las bases para la organización y funcionamiento de la Conferencia Estatal o le encomiende quien la presida.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+###### Artículo 37 Bis.
+
+Son facultades de las personas integrantes de la Conferencia Estatal:
+
+I. Contar con derecho a voz y voto.
+
+II. Proponer a quien presida la Conferencia Estatal, por conducto de la Secretaría Técnica, la inclusión de asuntos en el orden del día de las reuniones de la misma.
+
+III. Emitir opinión sobre los proyectos y acuerdos propuestos en la Conferencia.
+
+IV. Colaborar con aquellos sectores sociales involucrados en los temas de seguridad pública, de acuerdo a su ámbito de competencia.
+
+V. Suscribir los convenios de coordinación que sean presentados en la Conferencia, atendiendo a las atribuciones que enmarque la legislación del Estado.
+
+VI. Las demás que les sean encomendadas por el Presidente o el pleno de la Conferencia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ABRIL DE 2023)</small>
+
+### CAPÍTULO V. DE LOS CONSEJOS DE SEGURIDAD PÚBLICA Y DE PREVENCIÓN DE LOS MUNICIPIOS
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 38.
 
-Para la debida integración del Sistema Nacional y cumplir con sus objetivos y fines en los términos de la Ley General y la presente Ley, los municipios establecerán Consejos de Seguridad Pública como instancia de deliberación, consulta y definición de políticas públicas en la materia, así como para dar seguimiento al cumplimiento de los acuerdos del Consejo Estatal.
+Para la debida integración del Sistema Nacional y cumplir con sus objetivos y fines en los términos de la Ley General y la presente Ley, los municipios establecerán Consejos de Seguridad Pública y Prevención como instancias de deliberación, consulta y definición de políticas públicas en la materia, así como para dar seguimiento al cumplimiento de los acuerdos del Consejo Estatal.
 
 ###### Artículo 39.
 
@@ -569,19 +791,25 @@ IV. El Regidor de Gobernación.
 
 V. El Director de Seguridad Pública Municipal u órgano equivalente.
 
-VI. Un Secretario Técnico, que será designado y removido por el Presidente del Consejo Municipal, quien sólo tendrá voz.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2017)</small>
+VI. Una Secretaria o Secretario Técnico, que será designado y removido por quien ocupe la Presidencia del Consejo Municipal, quien solo tendrá voz, y puede no pertenecer a los integrantes del Consejo.
 
-VII.- Cuatro representantes de la sociedad civil, con derecho a voz y voto.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-Los Consejos de Seguridad podrán invitar a representantes de las Instituciones de Seguridad Pública del Estado y de la Federación o de otras dependencias estatales o federales relacionadas con la seguridad pública, así como a todas aquellas personas, instituciones y representantes de la sociedad civil que por sus conocimientos y experiencia puedan contribuir al cumplimiento de los objetivos y fines de la seguridad pública. Su participación será con carácter honorífico.
+VII. Al menos cuatro representantes de la sociedad civil, con derecho a voz y voto.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+Los Consejos de Seguridad y de Prevención podrán invitar a representantes de las Instituciones de Seguridad Pública del Estado y de la Federación o de otras dependencias estatales o federales relacionadas con la seguridad pública y prevención del delito, así como a todas aquellas personas, instituciones y representantes de la sociedad civil que por sus conocimientos y experiencia puedan contribuir al cumplimiento de los objetivos y fines de la seguridad pública y prevención del delito. Su participación será con carácter honorífico.
 
 Corresponde al Secretario Técnico fungir como enlace ante el Consejo Estatal, a fin de atender y dar seguimiento a los acuerdos y resoluciones del mismo y proporcionar al Secretariado Ejecutivo la información que este le requiera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
+
 ###### Artículo 40.
 
-Los Consejos de Seguridad, a fin de lograr los objetivos de la seguridad pública, tendrán las siguientes atribuciones:
+Los Consejos de Seguridad, a fin de lograr los objetivos de la seguridad pública y prevención del delito, tendrán las siguientes atribuciones:
 
 I. Expedir las bases para su organización y funcionamiento.
 
@@ -589,7 +817,9 @@ II. Ejecutar, en lo conducente, los acuerdos, lineamientos y políticas emitidos
 
 III. Vigilar la efectiva coordinación del municipio con las demás instancias del Sistema Estatal.
 
-IV. Establecer criterios para la elaboración e implementación de los programas de seguridad pública del municipio.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+IV. Establecer criterios para la elaboración e implementación de los programas de seguridad pública y prevención del delito del municipio.
 
 V. Impulsar la homologación del modelo policial.
 
@@ -599,7 +829,9 @@ VII. Evaluar la estructura orgánica, así como el funcionamiento de las áreas 
 
 VIII. Diseñar y proponer la implementación de programas contra las adicciones.
 
-IX. Promover ante la Conferencia Estatal y al Consejo Estatal, programas y acciones de coordinación sobre seguridad pública con otros municipios, así como con el Estado.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+IX. Promover ante la Conferencia Estatal y el Consejo Estatal, programas y acciones de coordinación sobre seguridad pública y prevención, con otros municipios, así como con el Estado.
 
 X. Promover el establecimiento de la Carrera Policial.
 
@@ -613,11 +845,15 @@ XIV. Emitir recomendaciones y proponer acciones para mejorar el funcionamiento d
 
 XV. Promover la instalación y funcionamiento de las Comisiones del Servicio Profesional de Carrera, Honor y Justicia.
 
-XVI. Vigilar que los recursos presupuestarios para la seguridad pública se apliquen estrictamente a los fines autorizados.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XVI. Vigilar que los recursos presupuestarios para la seguridad pública y prevención se apliquen estrictamente a los fines autorizados.
 
 XVII. Supervisar y emitir recomendaciones respecto del funcionamiento y condiciones de las cárceles públicas, así como del trato que reciban quienes se encuentren arrestados.
 
-XVIII. Formular propuestas para la realización de operaciones conjuntas con corporaciones policiales de otros municipios, del Estado y federales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XVIII. Formular propuestas para la realización de operaciones conjuntas con corporaciones policiales de otros municipios, del estado y federales.
 
 XIX. Evaluar y dar seguimiento a las actividades programadas.
 
@@ -625,21 +861,111 @@ XX. Promover la participación de la comunidad en la planeación, evaluación y 
 
 XXI. Impulsar el acceso al servicio de llamadas de emergencia y de denuncia anónima sobre faltas y delitos de que tenga conocimiento la comunidad.
 
-XXII. Las demás que le establezcan otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2023)</small>
+
+XXII. Ejercer las atribuciones que establece la Ley para la Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana del Estado de Chihuahua.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XXIII. Proponer programas de colaboración nacional e internacional sobre seguridad pública, de investigación y persecución del delito, así como de prevención del delito, en coordinación con las entidades y dependencias competentes.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE ABRIL DE 2023)</small>
+
+XXIV. Las demás que le establezcan otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+###### Artículo 40 Bis.
+
+Son funciones de la persona titular de la Presidencia del Consejo:
+
+I. Presidir las reuniones del Consejo.
+
+II. Designar a quien ocupe la titularidad de la Secretaría Técnica del Consejo.
+
+III. Convocar, a través de quien ocupe la titularidad de la Secretaría Técnica, a las reuniones del Consejo.
+
+IV. Convocar a las reuniones del Consejo, por medio de la o el Secretario Técnico, a los invitados especiales que decida en función de su agenda e intereses.
+
+V. Suscribir, en coordinación con la o el Secretario Técnico, los acuerdos y actas del Consejo.
+
+VI. Emitir su voto en las reuniones y contar con voto de calidad en caso de empate.
+
+VII. Proponer a las personas integrantes reformas a los Estatutos, así como vigilar su cumplimiento y correcta aplicación.
+
+VIII. Las demás que le encomienden las disposiciones normativas.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+###### Artículo 40 Ter.
+
+Son funciones de quien ocupe la titularidad de la Secretaría Técnica del Consejo:
+
+I. Redactar y compilar las actas, acuerdos y resoluciones y llevar el archivo de los mismos, así como de los demás documentos e instrumentos que de ellos deriven.
+
+II. Ejecutar y dar seguimiento a los acuerdos y resoluciones adoptados.
+
+III. Sugerir mejoras para el funcionamiento del Consejo.
+
+IV. Informar al Secretariado Ejecutivo de las actividades del Consejo.
+
+V. Fungir como el medio para el intercambio y distribución de la información entre los integrantes del Consejo y las personas invitadas.
+
+VI. Suscribir las convocatorias a las sesiones del Consejo.
+
+VII. Enviar a cada uno de los integrantes del Consejo e invitados, la convocatoria, el orden del día y, en su caso, los documentos correspondientes de las sesiones.
+
+VIII. Verificar la asistencia y cerciorarse de la existencia del cuórum requerido en cada sesión del Consejo.
+
+IX. Dar lectura al orden del día y del acta de la sesión anterior para su aprobación, tomar nota de las observaciones de los integrantes, realizar verificaciones y, en su caso, modificar el acta correspondiente.
+
+X. Elaborar las actas de las sesiones del Consejo.
+
+XI. Elaborar la versión estenográfica o digital de las sesiones del Consejo.
+
+XII. Llevar el registro y seguimiento de los acuerdos aprobados en las sesiones del Consejo.
+
+XIII. Certificar los acuerdos y demás documentos que emanen del Consejo.
+
+XIV. Resguardar las actas de las sesiones del Consejo.
+
+XV. Conservar el archivo del Consejo.
+
+XVI. Recopilar y mantener actualizado el directorio de las personas integrantes del Consejo.
+
+XVII. Solicitar a las personas integrantes del Consejo, en cualquier momento, la información necesaria para establecer el avance de cumplimiento de los acuerdos emitidos e informar al Consejo el resultado obtenido.
+
+XVIII. Compartir a quien ocupe la titularidad de la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública, los logros y actividades del Consejo.
+
+XIX. Fungir como enlace y compartir información con el Secretario Técnico de la Conferencia Estatal de Seguridad Pública Municipal.
+
+XX. Enviar un informe de las resoluciones que se aprueben y del seguimiento de los acuerdos a quien ocupe la titularidad de la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública, para su presentación al Consejo Estatal de Seguridad Pública.
+
+XXI. Las demás que le otorga esta Ley, así como las que se establezcan en las bases para la organización y funcionamiento del Consejo o le encomiende quien lo presida.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 41.
 
-Los Consejos de Seguridad se reunirán por lo menos cada dos meses, a convocatoria de su Secretario Técnico, quien integrará la agenda de los asuntos a tratar, por instrucciones del Presidente.
+Los Consejos de Seguridad y Prevención se reunirán por lo menos cada dos meses, a convocatoria de su Secretario Técnico, quien integrará la agenda de los asuntos a tratar, por instrucciones del Presidente.
 
 Los acuerdos del Consejo se tomarán por mayoría simple de votos. En caso de empate el Presidente tendrá voto de calidad.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+El Secretario Técnico, a instrucción del Presidente, convocará a los integrantes con cinco días hábiles de anticipación a las sesiones del Consejo.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
+
 ###### Artículo 42.
 
-Los miembros del Consejo de Seguridad deberán guardar absoluta reserva de los asuntos tratados en las reuniones; sólo podrán difundir aspectos relacionados con los mismos que sean de su respectiva competencia y bajo su más estricta responsabilidad.
+Las personas integrantes del Consejo de Seguridad y Prevención deberán guardar absoluta reserva de los asuntos tratados en las reuniones; sólo podrán difundir aspectos relacionados con los mismos que sean de su respectiva competencia y bajo su más estricta responsabilidad.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 43.
 
-Corresponde al Secretario Técnico la facultad de promover en todo tiempo la efectiva coordinación y funcionamiento del Consejo de Seguridad, así como ejecutar y dar seguimiento a sus acuerdos.
+Corresponde al Secretario Técnico la facultad de promover en todo tiempo la efectiva coordinación y funcionamiento del Consejo de Seguridad y Prevención, así como ejecutar y dar seguimiento a sus acuerdos.
 
 ### CAPÍTULO VI. DE LAS INSTANCIAS AUXILIARES DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -671,13 +997,13 @@ Los Consejos Regionales para Impulsar la Cultura de la Legalidad, se integrarán
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 49.
 
-El Servicio Profesional de Carrera es el conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí, que comprende los esquemas de profesionalización, el ingreso, el desarrollo, la certificación y la terminación, y tiene por objeto garantizar el desarrollo institucional; la estabilidad, seguridad e igualdad de oportunidades de los Integrantes; elevar la profesionalización mediante los estudios que realicen en el Instituto y las Academias; fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez, certeza, imparcialidad y respeto a los derechos fundamentales reconocidos en la Constitución, en la Constitución local y en los Tratados Internacionales de los que México forme parte.
+El Servicio Profesional de Carrera es el conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí, que comprende los esquemas de profesionalización, el ingreso, el desarrollo, la certificación y la terminación, y tiene por objeto garantizar el desarrollo institucional; la estabilidad, seguridad jurídica e igualdad de oportunidades de los Integrantes; elevar la profesionalización mediante los estudios que se realicen en la Subsecretaría correspondiente, el Instituto y las Academias; fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez, certeza, imparcialidad y respeto a los derechos fundamentales reconocidos en la Constitución, en la Constitución local y en los Tratados Internacionales de los que México forme parte.
 
-El Servicio Profesional de Carrera en las Instituciones de Seguridad Pública, comprende a los agentes del Ministerio Público y peritos, así como a los Integrantes de las Instituciones Policiales del Estado y los municipios, en su respectivo ámbito de competencia, incluyendo a los agentes de vialidad y tránsito, agentes de seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales.
+El Servicio Profesional de Carrera en las Instituciones de Seguridad Pública, comprende a las policías municipales, a los agentes del Ministerio Público, el personal pericial, la Agencia Estatal de Investigación, así como a las diversas policías que integran la Secretaría.
 
 ###### Artículo 50.
 
@@ -817,17 +1143,15 @@ a) Para agentes del Ministerio Público, contar con título de licenciatura en d
 
 b) Para peritos, deberán contar con licenciatura. Para ejercer la ciencia o especialidad en alguna profesión regulada por la Ley de Profesiones para el Estado de Chihuahua, deberán contar con el título respectivo, a excepción de los peritos técnicos, quienes deberán acreditar los estudios correspondientes a la enseñanza media superior o equivalente, así como los conocimientos correspondientes a la disciplina sobre la que deba dictaminar cuando de acuerdo con las normas aplicables no necesite título o cédula profesional para su ejercicio.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
 
-c) Para Integrantes de la Agencia Estatal de Investigación y de la División de Inteligencia de la Secretaría de Seguridad Pública, nivel educativo de licenciatura, con excepción de los integrantes de la Policía de Seguridad, Custodia y Traslado y de Vigilancia de Audiencias Judiciales, quienes deberán acreditar el nivel de educación media superior.
+c) Para Integrantes de la Agencia Estatal de Investigación y personal de las áreas de inteligencia y análisis policial de la Secretaría, deberán contar con nivel educativo de licenciatura preferentemente.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
 
-d) Para integrantes de la División de Operaciones Rurales, educación básica.
+d) Para las y los policías integrantes de la Secretaría se requerirá preferentemente nivel medio superior; la Secretaría por conducto de la Subsecretaría correspondiente, gestionará y llevará a cabo las acciones necesarias para que las y los integrantes de las unidades operativas acrediten grados académicos superiores al que tenían a su ingreso.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE MAYO DE 2019)</small>
-
-e) Para el resto de la Policía, deberán contar con educación media superior.
+e) (DEROGADO, P.O. 29 DE ABRIL DE 2023)
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 2023)</small>
 
@@ -861,17 +1185,17 @@ Los candidatos a ingresar al Servicio Profesional de Carrera deberán cumplir co
 
 En caso de que el candidato no apruebe la etapa de formación inicial, será excluido de la misma y no continuará con el proceso para el ingreso.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 63.
 
-El Instituto y las Academias proporcionarán a la Comisión del Servicio Profesional de Carrera respectiva, la relación de aspirantes que hayan concluido satisfactoriamente su formación básica, en el orden de prelación que resulte del promedio general de calificación académica y actualizarán la información en el Registro Estatal de Personal con los nuevos Integrantes, sin perjuicio de lo dispuesto por la Ley General.
+La Subsecretaría correspondiente, el Instituto y las Academias proporcionarán a la Comisión del Servicio Profesional de Carrera respectiva, la relación de aspirantes que hayan concluido satisfactoriamente su formación básica, en el orden de prelación que resulte del promedio general de calificación académica y actualizarán la información en el Registro Estatal de Personal con los nuevos Integrantes, sin perjuicio de lo dispuesto por la Ley General.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 64.
 
-La Comisión del Servicio Profesional de Carrera, Honor y Justicia respectiva, con base en la información proporcionada por el Instituto o las Academias, declarará procedente el ingreso de los aspirantes que hayan resultado aprobados en el proceso correspondiente en términos del artículo 60 de esta Ley; asimismo, publicará el listado respectivo y lo comunicará a la Institución de Seguridad Pública correspondiente a efecto de que, conforme a las posibilidades presupuestales de la misma, proceda a su contratación.
+La Comisión del Servicio Profesional de Carrera, Honor y Justicia respectiva, con base en la información proporcionada por la Subsecretaría correspondiente, el Instituto o las Academias, declarará procedente el ingreso de los aspirantes que hayan resultado aprobados en el proceso correspondiente en términos del artículo 60 de esta Ley; asimismo, publicará el listado respectivo y lo comunicará a la Institución de Seguridad Pública correspondiente a efecto de que, conforme a las posibilidades presupuestales de la misma, proceda a su contratación.
 
 La Institución expedirá los nombramientos o constancias de grado correspondientes, formalizándose con ello la relación administrativa de los Integrantes con la misma.
 
@@ -909,7 +1233,9 @@ XIII. Velar por la vida e integridad física de las personas detenidas.
 
 XIV. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de hechos presumiblemente delictivos o de faltas administrativas, de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente.
 
-XV. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XV. Abstenerse de disponer de los bienes asegurados o bajo su resguardo para beneficio propio o de terceros.
 
 XVI. Someterse a las evaluaciones periódicas para acreditar el cumplimiento de los requisitos de permanencia.
 
@@ -935,7 +1261,13 @@ XXVI. Impedir que personas ajenas a la Institución realicen actos inherentes a 
 
 XXVII. Abstenerse de participar en actos de rebeldía e indisciplina contra el mando o alguna otra autoridad.
 
-XXVIII. Las demás que establezcan otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2023)</small>
+
+XXVIII. Abstenerse de contravenir las disposiciones que señala la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE ABRIL DE 2023)</small>
+
+XXIX. Las demás que establezcan otras disposiciones legales aplicables.
 
 ###### Artículo 66.
 
@@ -1083,6 +1415,14 @@ e) Objetos asegurados; y
 
 f) Autoridad a la que fue puesto a disposición y lugar de internamiento, en su caso.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+g) Folio o número generado en la plataforma del Registro Nacional de Detenciones.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+h) Folio o número generado en la Plataforma Estatal.
+
 Los hechos deberán describirse de forma continua, observando un estricto orden cronológico, resaltando los aspectos relevantes; no deberá contener afirmaciones sin que se sustenten en datos o hechos reales, por lo que no se incluirá información de oídas, conjeturas o conclusiones ajenas al evento.
 
 ###### Artículo 70.
@@ -1093,9 +1433,11 @@ Cuando de un mismo evento conozcan elementos de las Instituciones Policiales del
 
 Los Integrantes de las Instituciones Policiales deberán cumplir con las disposiciones de la Ley General y la presente Ley, en todo lo relativo a la elaboración del Informe Policial Homologado y envío de la información contenida en el mismo a las instancias correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
+
 ###### Artículo 72.
 
-Los agentes de seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales, además de las obligaciones establecidas en el artículo 65, tendrán las obligaciones y deberes siguientes:
+Las policías integrantes del Sistema Penitenciario y de Reinserción Social perteneciente a la Secretaría, además de las obligaciones establecidas en el artículo 65, tendrán las obligaciones y deberes siguientes:
 
 I. Mantener estrictamente vigilados dichos establecimientos a fin de garantizar la seguridad, el orden y la tranquilidad, de conformidad con las disposiciones aplicables.
 
@@ -1527,9 +1869,9 @@ XVII. Fungir como enlace con el Centro Nacional de Certificación y Acreditació
 
 XVIII. Las demás que establezcan la Ley General, la presente Ley y la normatividad aplicable.
 
-### CAPÍTULO XIV. DEL INSTITUTO ESTATAL DE SEGURIDAD PÚBLICA Y LAS ACADEMIAS
+### CAPÍTULO XIV. DE LAS INSTITUCIONES DE ESPECIALIZACIÓN Y PROFESIONALIZACIÓN DEL PERSONAL DE SEGURIDAD PÚBLICA DEL ESTADO Y LAS ACADEMIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 122.
 
@@ -1631,13 +1973,13 @@ Las Instituciones de Seguridad Pública implementarán medidas de registro y seg
 
 La Fiscalía Especializada en Control, vigilará que los procesos para la selección, ingreso, formación, permanencia, capacitación, profesionalización, evaluación, reconocimiento, promoción, certificación y registro de los Integrantes, se efectúen con estricto apego a lo previsto en la Ley General, en esta Ley, así como a los criterios que fijen las instancias respectivas del Sistema Nacional.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ABRIL DE 2023)</small>
 
 ### CAPÍTULO XV. DE LA PROFESIONALIZACIÓN
 
 ###### Artículo 137.
 
-El Instituto y las Academias serán las responsables de elaborar y aplicar los planes y programas de capacitación, instrucción o formación de conformidad con el Programa Rector de cada Institución de Seguridad Pública y tendrán, entre otras, las siguientes funciones:
+La Subsecretaría correspondiente, el Instituto y las Academias serán las responsables de elaborar y aplicar los planes y programas de capacitación, instrucción o formación de conformidad con el Programa Rector de cada Institución de Seguridad Pública y tendrán, entre otras, las siguientes funciones:
 
 I. Promover y prestar servicios educativos a las Instituciones de Seguridad Pública.
 
@@ -1701,15 +2043,21 @@ VI. Las demás que establezcan otras disposiciones aplicables.
 
 La profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los Integrantes.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 140.
 
-Los planes y programas de profesionalización de las Instituciones de Seguridad Pública, se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza y aprendizaje, que serán elaborados por el Instituto y las Academias, respectivamente.
+Los planes y programas de profesionalización de las Instituciones de Seguridad Pública, se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza y aprendizaje, que serán elaborados por la Subsecretaría correspondiente, el Instituto y las Academias, respectivamente.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 Los planes y programas de capacitación, instrucción o formación para agentes del Ministerio Público y peritos, serán elaborados por el Instituto de conformidad con el Programa Rector de Profesionalización formulado por la Conferencia Nacional de Procuración de Justicia; asimismo, serán aprobados por la Comisión del Servicio Profesional de Carrera, Honor y Justicia para Agentes del Ministerio Público y Peritos y sometidos a la verificación y validación del Secretariado Ejecutivo del Sistema Nacional.
 
-Los planes y programas de capacitación, instrucción o formación para los integrantes de las Instituciones Policiales, serán elaborados por el Instituto y las Academias, respectivamente, de conformidad con el Programa Rector de Profesionalización formulado por la Conferencia Nacional de Secretarios de Seguridad Pública; serán aprobados por el Consejo de Desarrollo Policial y sometidos a la verificación y validación del Secretariado Ejecutivo del Sistema Nacional.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+Los planes y programas de capacitación, instrucción o formación de las Instituciones Policiales, serán elaborados por la Subsecretaría correspondiente y las Academias, respectivamente, de conformidad con el Programa Rector de Profesionalización formulado por la Conferencia Nacional de Secretarios de Seguridad Pública; asimismo, serán aprobados por la Comisión del Servicio Profesional de Carrera, Honor y Justicia para las y los integrantes de las Instituciones de Seguridad Pública o su equivalente y sometidos a la verificación y validación del Secretariado Ejecutivo del Sistema Nacional.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 El Instituto y las Academias deberán verificar conjuntamente la homologación de los planes y programas a que se refiere el párrafo anterior.
 
@@ -1857,39 +2205,31 @@ III. Oficiales.
 
 IV. Escala Básica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 151.
 
-La Secretaría contará con la estructura necesaria para su operación, incluirá a la Comisión Estatal de Seguridad Pública, que se organizará de la siguiente manera:
+La Secretaría contará con la estructura necesaria para su operación, que se organizará de la siguiente manera:
 
-> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 21 DE JULIO DE 2018)</small>
+I. En Subsecretarías.
 
-A. Para ejercer la función de seguridad pública, se auxiliará de las siguientes unidades:
+II. En Direcciones Generales.
 
-I. División de Fuerzas Estatales.
+III. En Direcciones.
 
-II. División de Operaciones Especiales.
+IV. En Subdirecciones y Jefaturas de Departamentos.
 
-III. División de Inteligencia.
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
 
-IV. División de Policía Vial.
+###### Artículo 151 Bis.
 
-V. División de Operaciones Rurales.
+La Secretaría a través de la Subsecretaría con atribuciones en la materia de despliegue y operatividad policial ejercerá, de forma excepcional, funciones de derecho privado, por conducto de la Dirección con atribuciones en seguridad bancaria, comercial, industrial y minera como órgano encargado de proporcionar, en el ámbito de su competencia, la prestación de servicios de estudios y análisis de evaluación de riesgos; de monitoreo de videovigilancia y alarmas domésticas o comerciales, de protección, custodia y vigilancia de personas; seguridad en el interior y exterior de inmuebles; así como custodia de bienes y valores fijos y en tránsito; a dependencias, entidades y órganos de los Poderes Ejecutivo, Legislativo y Judicial, locales y federales, órganos autónomos federales y locales, así como a personas físicas y morales que produzcan bienes y servicios que contribuyan a la generación de empleos y recursos económicos para el Estado.
 
-VI. División de Seguridad Bancaria, Comercial e Industrial.
-
-VII. Las demás que determinen las leyes y reglamentos.
-
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
-
-B. Para ejercer, de forma excepcional, funciones de derecho privado, a través de la División de Seguridad Bancaria, Comercial e Industrial, como órgano encargado de proporcionar, en el ámbito de su competencia, la prestación de servicios de estudios y análisis de evaluación de riesgos; de protección, custodia y vigilancia de personas; seguridad en el interior y exterior de inmuebles; así como custodia de bienes y valores fijos y en tránsito; a dependencias, entidades y órganos de los Poderes Ejecutivo, Legislativo y Judicial, locales y federales, órganos autónomos federales y locales, así como a personas físicas y morales que produzcan bienes y servicios que contribuyan a la generación de empleos y recursos económicos para el Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 152.
 
-La Secretaría estará presidida por un Secretario o Secretaria, y cubrirá al menos, las siguientes categorías y jerarquías:
+La Secretaría estará presidida por un Secretario o Secretaria, quien tendrá el mando de la Policía del Estado, y cubrirá al menos, las siguientes categorías y jerarquías:
 
 I. Comisarios:
 
@@ -1919,25 +2259,15 @@ b) Oficial.
 
 c) Suboficial.
 
-IV. Escala Básica:
+IV. (DEROGADA, P.O. 29 DE ABRIL DE 2023)
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
 
-a) Policía.
+Las categorías de Comisarios, señaladas en la fracción I, serán de libre designación por parte de la persona titular de la Secretaría; mientras que las categorías de Inspectores y Oficiales descritas en las fracciones II y III, formarán parte del Servicio Profesional de Carrera.
 
-b) (DEROGADO, P.O. 7 DE JUNIO DE 2017)
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
 
-c) (DEROGADO, P.O. 7 DE JUNIO DE 2017)
-
-d) (DEROGADO, P.O. 7 DE JUNIO DE 2017)
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
-
-Las categorías de Comisarios, Inspectores y Oficiales, esta última únicamente en su jerarquía de Subinspector, señaladas en las fracciones I, II y III, inciso a) de este artículo, serán de libre designación por parte de la persona titular de la Secretaría; mientras que las categorías de Oficiales en su jerarquía de Oficial y Suboficial y la de Escala Básica en su jerarquía de Policía, descritas en la fracciones III, incisos b) y c), y IV, inciso a) de este numeral, formarán parte del Servicio Profesional de Carrera.
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
-
-Los integrantes de la Secretaría tendrán nombramiento según sea el caso, en la categoría de Escala Básica o en la Escala de Oficiales, en esta última en la jerarquía de Oficial o Suboficial. Para poder ser designados como Subinspector, Inspectores o Comisarios en sus diversas jerarquías, deberán tener el nombramiento de Oficial o Suboficial, por lo que al concluir el encargo o comisión como Comisario, Inspector o Subinspector, regresarán a ocupar su jerarquía correspondiente.
+Los integrantes de la Secretaría tendrán nombramiento según sea el caso, en la categoría de Inspectores y Oficiales, en esta última en la jerarquía de Oficial o Suboficial. Para poder ser designados como Comisarios en sus diversas jerarquías, deberán tener el nombramiento de Oficial o de Inspector, por lo que, al concluir el encargo o comisión como Comisario, regresará a ocupar su jerarquía correspondiente.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -1945,9 +2275,11 @@ Los integrantes de la Secretaría tendrán nombramiento según sea el caso, en l
 
 Los Policías de Investigación del Delito cubrirán las categorías y jerarquías a que se refieren las fracciones I a III del artículo 152.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
+
 ###### Artículo 154.
 
-Las Instituciones Policiales municipales, incluyendo vialidad y tránsito, cubrirán, al menos, las siguientes categorías y jerarquías:
+Las Instituciones Policiales municipales, incluyendo vialidad y tránsito municipales, cubrirán, al menos, las siguientes categorías y jerarquías:
 
 I. Oficiales:
 
@@ -1979,45 +2311,7 @@ En los Manuales de Uniformes e Insignias que al efecto se expidan por la Secreta
 
 ###### Artículo 157.
 
-Los agentes de seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales, se organizarán e integrarán cubriendo, al menos, las siguientes categorías y jerarquías:
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-I. Comisarios
-
-a) Comisario
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-II. Inspectores
-
-a) Inspector Jefe
-
-b) Inspector
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-III. Oficiales
-
-a) Subinspector
-
-b) Oficial
-
-c) Suboficial
-
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-IV. Escala Básica
-
-a) Policía
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2023)</small>
-
-Las categorías de Comisarios, Inspectores y Oficiales, esta última únicamente en su jerarquía de Subinspector, señaladas en las fracciones I, II y III, inciso a) de este artículo, serán de libre designación por parte de la persona titular de la Secretaría, y las categorías de Oficiales en su jerarquía de Oficial y Suboficial y la de Escala Básica, descritas en las fracciones III, incisos b) y c), y IV, inciso a) de este numeral, formarán parte del Servicio Profesional de Carrera.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
-
-Los agentes de seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales tendrán nombramiento según sea el caso, en la categoría de Escala Básica o en la Escala de Oficiales, en esta última en la jerarquía de Oficial o Suboficial. Para poder ser designados como Subinspector, Inspectores o Comisarios en sus diversas jerarquías, deberán tener el nombramiento de Oficial o Suboficial, por lo que al concluir el encargo o comisión como Comisario, Inspector o Subinspector, regresarán a ocupar la jerarquía correspondiente.
+(DEROGADO, P.O. 29 DE ABRIL DE 2023)
 
 #### SECCIÓN SEGUNDA. DEL MANDO
 
@@ -2039,9 +2333,11 @@ IV. Mandos Operativos.
 
 V. Mandos Subordinados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
+
 ###### Artículo 160.
 
-El Gobernador del Estado, de conformidad con lo dispuesto en el artículo 93 de la Constitución local, ejercerá el mando supremo de las fuerzas de seguridad pública del Estado.
+La persona titular del Poder Ejecutivo, de conformidad con lo dispuesto en el artículo 93 de la Constitución local, ejercerá el mando supremo de las fuerzas de seguridad pública del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
@@ -2063,11 +2359,11 @@ Los Directores de Seguridad Pública de los municipios u órgano equivalente eje
 
 El mando superior de la Agencia Estatal de Investigación será ejercido por su Coordinador General de conformidad con las disposiciones legales y reglamentarias correspondientes y será por ello, el responsable de su organización, disciplina y operación.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 162.
 
-Los Directores de División de la Secretaría o unidades equivalentes en los municipios, ejercerán el mando operativo sobre los Integrantes de las mismas. Los titulares de las restantes unidades se consideran mandos subordinados.
+Las personas titulares de las Subsecretarías o Direcciones operativas de la Secretaría o unidades equivalentes en los municipios, ejercerán el mando operativo sobre los Integrantes de las mismas. Los titulares de las restantes unidades se consideran mandos subordinados.
 
 ###### Artículo 163.
 
@@ -2119,9 +2415,9 @@ V. De Policía Vial, orientada a la prevención y control del tráfico y la segu
 
 VI. De Fuerza Rural, dotada de medios modernos que le permitan reaccionar con la celeridad y eficacia necesaria en manifestaciones violentas o conductas que pudieran ser consideradas como delictivas en las diferentes partes de la sierra y otras áreas del interior de la geografía estatal.
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-VII. De Seguridad Bancaria, Comercial e Industrial, con el objeto de prevenir hechos delictivos que afecten a los referidos sectores.
+VII. De Seguridad Bancaria, Comercial, Industrial y Minera, con el objeto de prevenir hechos delictivos que afecten a los referidos sectores, conforme a lo establecido en el artículo 151 Bis de la presente Ley.
 
 > <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -2397,11 +2693,11 @@ Cuando no exista inconformidad en el término señalado o si la resolución conf
 
 Se establecen las Comisiones como la instancia colegiada encargada de conocer y resolver los procedimientos por incumplimiento a los requisitos de ingreso y permanencia, así como los asuntos y controversias relacionados con el servicio profesional y la profesionalización y por violación a las obligaciones y deberes relativos al régimen disciplinario, en los términos de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 192.
 
-La Comisión del Servicio Profesional de Carrera, Honor y Justicia para Agentes del Ministerio Público, Analistas, Peritos y Agentes de la Policía Investigadora y Procesal, se integrará de la siguiente manera:
+La Comisión del Servicio Profesional de Carrera, Honor y Justicia para Agentes del Ministerio Público, Analistas, Peritos y Agentes de la Policía Investigadora, se integrará de la siguiente manera:
 
 I. Un Presidente, que será el Fiscal General del Estado, con voz y voto;
 
@@ -2425,41 +2721,41 @@ VIII. Una Vocalía, que será una o un elemento de la Policía Investigadora de 
 
 El Vocal a que se refiere la fracción III será designado por el Fiscal General; los demás Vocales serán designados por el titular de la unidad administrativa a que pertenezcan. Todos ellos deberán ser de probada experiencia, reconocida solvencia moral o destacados en su función.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 193.
 
-La Comisión del Servicio Profesional de Carrera, Honor y Justicia para los Integrantes de las Instituciones Policiales del Estado, con excepción de las y los miembros de la Agencia Estatal de Investigación, se integrará de la siguiente manera:
+La Comisión del Servicio Profesional de Carrera, Honor y Justicia para los Integrantes de las Instituciones Policiales de la Secretaría de Seguridad Pública del Estado, se integrará de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-I. Una Presidencia, que será la persona titular de la Secretaría, con voz y voto.
+I. Una Presidencia, que será la persona titular de la Secretaría, con voz y voto; quien ostentará, por sí misma o por conducto de quien sea designado como su suplente, la representación legal de la Comisión.
 
 II. Un Secretario Técnico, designado por el Presidente, sólo con voz;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-III. Un Vocal, que será un representante de la unidad jurídica correspondiente de la Secretaría, con voz y voto.
+III. Un Vocal, que será un representante de la Dirección General Jurídica o su equivalente, con voz y voto.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-IV. Un Vocal, que será un representante de la unidad encargada de la administración de la Secretaría, con voz y voto.
+IV. Un Vocal, que será un representante de la Dirección de Recursos Humanos o su equivalente, con voz y voto.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-V. Un Vocal, que será un representante de la unidad encargada del control, análisis y evaluación de la Secretaría, solo con voz.
+V. Un Vocal, que será un representante de la Subsecretaría responsable de la administración, con voz y voto.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-VI. Un Vocal de la División correspondiente, con voz y voto, para asuntos relacionados con elementos pertenecientes a la misma.
+VI. Un Vocal, que será un representante de la Subsecretaría responsable de asuntos internos, solo con voz.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-VII. Un Vocal de la Agencia Estatal de Investigación, con voz y voto, para el caso de asuntos relacionados con sus Integrantes.
+VII. Un Vocal, representado por un elemento operativo de la Subsecretaría a cargo de los temas de operaciones especiales, con voz y voto.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-VIII. Un Vocal que será un representante de los agentes de seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales de la unidad correspondiente encargada de la ejecución de penas y medidas judiciales de la Secretaría, con voz y voto, para el caso de asuntos relacionados con dichos agentes.
+VIII. Un Vocal, que será un representante de la Subsecretaría responsable de la inteligencia y análisis policial, con voz y voto.
 
 IX. (DEROGADA, P.O. 7 DE JUNIO DE 2017)
 
@@ -2467,7 +2763,39 @@ X. (DEROGADA, P.O. 7 DE JUNIO DE 2017)
 
 XI. (DEROGADA, P.O. 7 DE JUNIO DE 2017)
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XII. Un Vocal, que será un representante de la Subsecretaría responsable del Sistema Penitenciario y Reinserción Social, con voz y voto.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XIII. Un Vocal, representado por un elemento operativo de la Subsecretaría responsable del área de movilidad y seguridad vial, con voz y voto.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XIV. Un Vocal, representado por un elemento operativo de la Subsecretaría a cargo del despliegue policial, con voz y voto.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XV. Un Vocal, que será una persona que represente a los organismos empresariales, con voz y voto.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XVI. Un Vocal, que será una persona representante de las Instituciones de Educación Superior, con voz y voto.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XVII. Una Vocalía, que será una persona representante de la Subsecretaría responsable de la profesionalización policial, solo con voz.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+XVIII. Una Vocalía, que será una persona de la sociedad civil con conocimiento y experiencia en los temas de seguridad pública, con voz y voto.
+
 Los Vocales serán designados por el titular de la unidad administrativa u operativa a que pertenezcan. Todos ellos deberán ser de probada experiencia, reconocida solvencia moral o destacados en su función.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+Para la validez de las sesiones de la Comisión se requerirá la mitad más uno de los vocales con derecho a voto presentes.
 
 ###### Artículo 194.
 
@@ -2683,9 +3011,13 @@ II. Prohibición de salir de la ciudad o población donde se encuentre adscrito.
 
 III. Prohibición de acudir a determinados lugares.
 
-IV. La entrega al superior jerárquico de las armas de fuego que le hubiesen sido asignadas, en su caso.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-V. La suspensión temporal en el desempeño del servicio, cargo o comisión, por el tiempo necesario para la conclusión del procedimiento, misma que en ningún caso será superior a un año contado a partir de que se haga efectiva dicha suspensión.
+IV. La entrega al superior jerárquico de las armas de fuego y municiones que le hubiesen sido asignadas, en su caso.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
+
+V. La suspensión temporal en el desempeño del servicio, cargo o comisión, por el tiempo necesario para la conclusión del procedimiento, misma que en ningún caso será superior a un año contado a partir de que se haga efectiva dicha suspensión. Así mismo el integrante deberá entregar su identificación, así como la documentación, y equipo, valores, vehículos y demás bienes y recursos que se le hubieren ministrado o puesto bajo su resguardo para el cumplimiento de sus funciones.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
 
@@ -2701,7 +3033,9 @@ Recibida la solicitud, el Presidente determinará, dentro de los cinco días há
 
 El acuerdo que emita el Presidente respecto de la no procedencia, podrá ser impugnado por el Órgano de Asuntos Internos mediante la interposición del recurso de reclamación ante la propia Comisión, dentro del término de cinco días hábiles contados a partir del día siguiente a la fecha de notificación de dicho acuerdo.
 
-En la formulación del recurso, el Órgano de Asuntos Internos hará valer los argumentos de procedencia y las pruebas en que se apoye. La Comisión resolverá dentro de los diez días naturales siguientes.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+En la formulación del recurso, el Órgano de Asuntos Internos hará valer los argumentos de procedencia y las pruebas en que se apoye. La Comisión resolverá dentro de los diez días hábiles siguientes.
 
 Contra el auto que recaiga a la reclamación, no procederá recurso alguno.
 
@@ -2731,9 +3065,11 @@ Las notificaciones al Órgano de Asuntos Internos se harán mediante oficio.
 
 El Presidente de la Comisión designará al personal que llevará a cabo las notificaciones personales al Integrante o a su defensor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
+
 ###### Artículo 208.
 
-El Integrante, en su escrito de contestación ante la Comisión, deberá señalar domicilio para oír y recibir notificaciones dentro del lugar de residencia de la misma, apercibido que, de no hacerlo, las subsecuentes notificaciones se realizarán mediante aviso que se colocará en un lugar visible al público dentro de las oficinas de la propia Comisión.
+El Integrante, en su escrito de contestación ante la Comisión, deberá señalar domicilio o correo electrónico o cualquier otro medio que permita la comunicación efectiva, para oír y recibir notificaciones dentro del lugar de residencia de la misma, apercibido que, de no hacerlo, las subsecuentes notificaciones se realizarán mediante aviso que se colocará en un lugar visible al público dentro de las oficinas de la propia Comisión.
 
 En el mismo escrito, el Integrante podrá designar defensor y deberá referirse a todos y cada uno de los hechos contenidos en la solicitud del Órgano de Asuntos Internos, afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como considere que tuvieron lugar, ofreciendo los elementos de prueba que estime pertinentes; tratándose de documentos, estos deberán acompañarse al escrito de contestación.
 
@@ -2791,13 +3127,17 @@ La resolución definitiva dictada en sesión por la Comisión deberá estar debi
 
 Los acuerdos dictados en el procedimiento sólo serán firmados por el Presidente de la Comisión y autentificados por el Secretario Técnico de la misma; la resolución definitiva será firmada por todos los integrantes de la Comisión con voz y voto y autentificada por el Secretario Técnico.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
+
 ###### Artículo 213.
 
-Si en la resolución dictada por la Comisión no se impusiere al Integrante la separación o la remoción del servicio, cargo o comisión, será restituido en el mismo, en caso de que hubiere sido suspendido, y se le cubrirán las percepciones que dejó de recibir durante ése tiempo.
+Si en la resolución dictada por la Comisión no se impusiere al Integrante alguna sanción, será restituido en el servicio, cargo o comisión, en caso de que hubiere sido suspendido, y se le cubrirán las percepciones que dejó de recibir durante ese tiempo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 214.
 
-La facultad de las Comisiones para imponer las sanciones por infracción al régimen disciplinario prescribe en el término de tres años, con excepción de la violación a las obligaciones y deberes previstos en las fracciones X, XII y XIII del artículo 65 y IX del 67 de esta Ley, así como por incumplimiento a los requisitos de ingreso y permanencia, la que será imprescriptible. Los términos de la prescripción serán continuos y se contarán desde el día en que se realice la conducta u omisión en que consista la infracción.
+La facultad de las Comisiones para dictar la resolución definitiva por infracción al régimen disciplinario prescribe en el término de tres años, con excepción de la violación a las obligaciones y deberes previstos en las fracciones X, XII y XIII del artículo 65 y IX del 67 de esta Ley, así como por incumplimiento a los requisitos de ingreso y permanencia, la que será imprescriptible. Los términos de la prescripción serán continuos y se contarán desde el día en que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado.
 
 La prescripción operará de oficio o a petición del Integrante. En el primer caso, la Comisión podrá determinarla al resolver respecto del inicio del Procedimiento y, en el segundo caso, la hará valer el Integrante en su escrito de contestación.
 
@@ -2806,6 +3146,10 @@ La prescripción operará de oficio o a petición del Integrante. En el primer c
 El procedimiento caducará si no se efectúa ningún acto procedimental, ni se presenta promoción alguna durante un término mayor de un año contado a partir del día hábil siguiente a la fecha en que se hubiere dictado el último acuerdo. Cuando se determine la caducidad se procederá al archivo del expediente, sin perjuicio de que se solicite nuevamente por el Órgano de Asuntos Internos el inicio del Procedimiento, salvo que hubiere prescrito la facultad de la Comisión conforme al presente artículo.
 
 La prescripción y la caducidad procederán de oficio o a solicitud del Integrante.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+Los plazos a los que se refiere el presente artículo, se computarán en días hábiles.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
@@ -2853,15 +3197,17 @@ II. Personal de seguridad pública, incluyendo la información relativa a los el
 
 III. Armamento y equipo, que comprende los equipos de comunicación y las frecuencias autorizadas para su uso, así como los colores oficiales de la Institución Policial en los uniformes que utilicen sus Integrantes.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 221.
 
-Todas las unidades administrativas de la Fiscalía General y de la Secretaría deberán ingresar y actualizar de manera inmediata y permanente a las bases de datos y Registros que integran el Sistema de Información Estatal de Seguridad Pública, la información en materia de seguridad pública y procuración de justicia para los efectos a que se refiere el artículo anterior y demás disposiciones aplicables, sin perjuicio de las obligaciones previstas en la Ley General.
+Todas las unidades administrativas de la Fiscalía General y de la Secretaría deberán ingresar y actualizar de manera inmediata y permanente a las bases de datos y Registros que integran el Sistema de Información Estatal de Seguridad Pública y la Plataforma Estatal, la información en materia de seguridad pública y procuración de justicia para los efectos a que se refiere el artículo anterior y demás disposiciones aplicables, sin perjuicio de las obligaciones previstas en la Ley General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 222.
 
-Están igualmente obligadas a proporcionar información al Sistema de Información Estatal de Seguridad Pública:
+Están igualmente obligadas a proporcionar información al Sistema de Información Estatal de Seguridad Pública y a la Plataforma Estatal:
 
 I. La Secretaría General de Gobierno.
 
@@ -2884,6 +3230,10 @@ V. Las demás dependencias y entidades de la administración pública estatal y 
 ###### Artículo 223.
 
 El Estado y los municipios deberán suministrar, intercambiar, sistematizar, consultar, analizar y actualizar la información que diariamente se genere sobre seguridad pública, en términos de este título y demás disposiciones aplicables, sin perjuicio de las prevenciones contenidas en la Ley General.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+Asimismo, los municipios deberán suministrar e intercambiar la información en la Plataforma Estatal en términos del párrafo anterior, así como el registro de todas las personas infractoras de sus demarcaciones.
 
 ###### Artículo 224.
 
@@ -3035,9 +3385,11 @@ Los datos integrados al Registro de Detenidos constituirán la plataforma para a
 
 #### SECCIÓN SEGUNDA. DEL REGISTRO ESTATAL DE INFORMACIÓN PENITENCIARIA
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
+
 ###### Artículo 238.
 
-El Registro de Información Penitenciaria es la base de datos que contiene, administra y controla de manera permanente información de los internos en los centros de reinserción social del Estado y centros a cargo de los municipios.
+El Registro de Información Penitenciaria es la base de datos que contiene, administra y controla de manera permanente información de las personas privadas de su libertad en los centros de reinserción social del Estado y centros a cargo de los municipios.
 
 ###### Artículo 239.
 
@@ -3197,6 +3549,10 @@ La información del Registro de Armamento estará disponible para las Institucio
 
 Los Integrantes de las Instituciones Policiales sólo podrán portar las armas de fuego que les hubiesen asignado de manera individual, al amparo de la licencia oficial colectiva expedida a favor de la Institución a que pertenezcan, de conformidad con la Ley Federal de Armas de Fuego y Explosivos y su Reglamento.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+En caso de incumplimiento de lo establecido en el artículo 60, fracción VII, la persona titular de la licencia oficial colectiva correspondiente, ordenará el aseguramiento de las armas.
+
 ###### Artículo 260.
 
 Las armas de fuego solo podrán ser portadas por los Integrantes de las Instituciones Policiales durante el tiempo del ejercicio de sus funciones, o para un horario, misión o comisión determinados, salvo autorización expresa del titular y de acuerdo con los ordenamientos de cada institución, particularmente en aquellos casos en los que, por la naturaleza de sus encomiendas, la integridad física o la vida de un Integrante corra peligro.
@@ -3205,9 +3561,11 @@ Las armas de fuego solo podrán ser portadas por los Integrantes de las Instituc
 
 En el caso de que los Integrantes aseguren armas o municiones, recabarán su huella balística y lo comunicarán de inmediato al Registro de Armamento, y este a su vez al Registro Nacional de Armamento y Equipo; asimismo, las pondrán a disposición de las autoridades competentes en términos de las disposiciones de la Ley Federal de Armas de Fuego y Explosivos y su Reglamento.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
+
 ###### Artículo 262.
 
-Los equipos de comunicación asignados a los Integrantes de las Instituciones Policiales sólo serán usados y operados por aquéllos y exclusivamente para el ejercicio de sus atribuciones, por lo que su uso para fines distintos se sancionará en los términos de la presente Ley.
+Los equipos tecnológicos y de comunicación asignados a los Integrantes de las Instituciones Policiales solo serán usados y operados por aquellos y exclusivamente para el ejercicio de sus atribuciones, por lo que su uso para fines distintos se sancionará en los términos de la presente Ley.
 
 ###### Artículo 263.
 
@@ -3225,7 +3583,35 @@ La Fiscalía General y la Secretaría establecerán los instrumentos de acopio d
 
 La estadística de seguridad pública sistematizará los datos y cifras relevantes sobre seguridad preventiva; investigación y persecución del delito; administración de justicia; sistemas de prisión preventiva, de ejecución de penas y medidas de seguridad y de tratamiento de adolescentes infractores, así como respecto de los factores asociados a la problemática de seguridad pública.
 
-#### SECCIÓN PRIMERA. DE LOS OBJETIVOS Y PRINCIPIOS DEL USO DE LA FUERZA PÚBLICA
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ABRIL DE 2023)</small>
+
+#### SECCIÓN SÉPTIMA. DEL REGISTRO ESTATAL DE PERSONAS INFRACTORAS ARRESTADAS
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+###### Artículo 265 Bis.
+
+El Registro Estatal de Personas Infractoras Arrestadas deberá ser suministrado con información de quienes integran la Policía Municipal y contendrá como mínimo, los siguientes datos:
+
+I. Nombre y, en su caso, apodo.
+
+II. Media filiación o descripción física de la persona arrestada.
+
+III. Fotografía de la persona infractora arrestada.
+
+IV. Datos biométricos.
+
+V. Sexo de nacimiento.
+
+VI. Edad aproximada.
+
+VII. Motivo y circunstancias generales del arresto, así como lugar y hora en que se realizó el arresto.
+
+VIII. Municipio y corporación que lo arresta.
+
+IX. Nombre de quien o quienes hayan intervenido en el arresto.
+
+X. Nombre de quien haya efectuado el registro y área de adscripción.
 
 ## TÍTULO SEXTO. DE LOS PROCEDIMIENTOS POLICIALES
 
@@ -3243,7 +3629,7 @@ El uso de la fuerza pública se realizará estrictamente en la medida que lo req
 
 Todo Integrante de las Instituciones Policiales tiene derecho a la protección de su vida e integridad física, así como al respeto de su dignidad como ser humano y autoridad, tanto por sus superiores como por la sociedad.
 
-#### SECCIÓN SEGUNDA. DE LAS BASES PARA EL USO DE LA FUERZA PÚBLICA
+#### SECCIÓN PRIMERA. DE LOS OBJETIVOS Y PRINCIPIOS DEL USO DE LA FUERZA PÚBLICA
 
 ###### Artículo 269.
 
@@ -3299,7 +3685,7 @@ La racionalidad en el uso de la fuerza implica que ésta será empleada de acuer
 
 La oportunidad en el uso de la fuerza pública tenderá a la actuación policial inmediata, para evitar o neutralizar un daño o peligro actual o inminente, que vulnere o lesione la integridad, derechos o bienes de las personas, las libertades, la seguridad ciudadana o la paz pública.
 
-#### SECCIÓN TERCERA. DE LA CAPACITACIÓN Y ADIESTRAMIENTO EN EL USO DE LA FUERZA PÚBLICA
+#### SECCIÓN SEGUNDA. DE LAS BASES PARA EL USO DE LA FUERZA PÚBLICA
 
 ###### Artículo 276.
 
@@ -3327,15 +3713,19 @@ III. Si la amenaza continúa, ejecutar disparos tomando precauciones para evitar
 
 En todo caso se tendrá en cuenta que el empleo de armas de fuego debe basarse en el mínimo necesario, dirigido y controlado en todo momento por quien ejerza el mando.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
+
 ###### Artículo 280.
 
-Las Instituciones Policiales dotarán a sus Integrantes de los equipos y armamento idóneos para el ejercicio de sus funciones, de acuerdo al servicio y tipo de operaciones que les corresponda realizar.
+Las Instituciones Policiales dotarán a sus Integrantes de los equipos de comunicación, tecnología, aeronaves pilotadas a distancia, transporte, herramientas, caninos, armamento y municiones idóneos para el ejercicio de sus funciones, de acuerdo al servicio y tipo de operaciones que les corresponda realizar.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### Artículo 281.
 
-Los Integrantes de las Instituciones Policiales, en el ejercicio de sus funciones, podrán hacer uso de sus armas en forma racional y proporcional para asegurar la defensa oportuna de las personas o derechos de terceros o de los propios.
+Los Integrantes de las Instituciones Policiales, en el ejercicio de sus funciones, podrán hacer uso de sus armas y equipo tecnológico en forma racional y proporcional para asegurar la defensa oportuna de las personas, bienes públicos o privados, derechos propios o de terceros.
 
-Así mismo, podrán hacer uso gradual de la fuerza en legítima defensa, en cumplimiento de un deber o en defensa de un bien jurídico.
+Asimismo, para evitar o inhibir el sobre vuelo de aeronaves pilotadas a distancia que ponga en riesgo las instalaciones estratégicas, la operatividad, la seguridad pública y la protección de las instituciones policiales, las y los integrantes de las mismas podrán emprender las acciones a que hace referencia del párrafo anterior.
 
 ###### Artículo 282.
 
@@ -3357,9 +3747,7 @@ Los Integrantes de las Instituciones Policiales informarán de los hechos cuando
 
 Las Instituciones Policiales desarrollarán, en el ámbito de su respectiva competencia, los métodos, técnicas y tácticas para el uso de la fuerza pública en las distintas áreas de prevención; reacción; investigación; de vialidad y tránsito; de seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes infractores y de vigilancia de audiencias judiciales, conforme a sus atribuciones y estructura orgánica, así como a las bases para el empleo de armas, incluidas las de fuego, en el ejercicio de sus funciones.
 
-#### SECCIÓN CUARTA. DE LA RESPONSABILIDAD POR EL USO ILÍCITO DE LA FUERZA PÚBLICA
-
-> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
+#### SECCIÓN TERCERA. DE LA CAPACITACIÓN Y ADIESTRAMIENTO EN EL USO DE LA FUERZA PÚBLICA
 
 ###### Artículo 285.
 
@@ -3378,6 +3766,10 @@ En la capacitación y adiestramiento de los Integrantes de la Instituciones Poli
 ###### Artículo 288.
 
 El personal que deba portar arma de fuego será autorizado para hacerlo una vez finalizada la capacitación especializada en su uso, así como en materia de derechos humanos en su empleo.
+
+#### SECCIÓN CUARTA. DE LA RESPONSABILIDAD POR EL USO ILÍCITO DE LA FUERZA PÚBLICA
+
+> <small>(F. DE E., P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 289.
 
@@ -4210,3 +4602,19 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
 El titular de la Secretaría de Seguridad tendrá la facultad de rotar los mandos y mandos medios según lo considere necesario para el cumplimiento del objeto de la presente Ley.
+
+P.O. 29 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVII/RFLEY/0545/2023 II P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En términos del Artículo Primero del presente Decreto, la Secretaría de Seguridad Pública del Estado deberá, en un término no mayor a 180 días a partir de la entrada en vigor del presente Decreto, adecuar el marco normativo interno, así como el relativo al Servicio Profesional de Carrera.
