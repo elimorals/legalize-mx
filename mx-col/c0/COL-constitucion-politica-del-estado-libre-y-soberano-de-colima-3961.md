@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2022-10-01"
+last_updated: "2023-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE OCTUBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2023.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -149,23 +147,17 @@ XIV. Al acceso, disposición y saneamiento de agua para consumo personal y domé
 
 Bajo ninguna circunstancia podrá suspenderse de forma absoluta el acceso y disposición de agua en casas habitación, el Estado tiene la obligación inalienable de garantizar el acceso al mínimo vital de agua potable como un derecho humano. La Ley establecerá la forma, términos y condiciones en que se ejercerá este derecho.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2023)</small>
+
 Artículo 3°
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2020)</small>
+Las familias constituyen la base de la sociedad. El Estado fomentará su organización y desarrollo; por ello, el hogar, las mujeres, las personas con discapacidad, los adultos mayores, las niñas, niños, adolescentes y las juventudes tienen derecho a un entorno familiar seguro, y serán objeto de especial protección por parte de las autoridades. Toda medida o disposición protectora de las familias y los sectores sociales mencionados se consideran de orden público.
 
-Las familias constituyen la base de la sociedad. El Estado fomentará su organización y desarrollo; por ello, el hogar, las mujeres, las personas con discapacidad, los adultos mayores, las niñas y los niños, tienen derecho a un entorno familiar seguro, y serán objeto de especial protección por parte de las autoridades. Toda medida o disposición protectora de las familias y los sectores sociales mencionados se considerarán de orden público.
+Las niñas y los niños tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Tendrán derecho, hasta la edad de dieciocho años, a recibir servicios médicos adecuados, de manera gratuita, en las instituciones de salud del Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de los derechos y del interés superior de la niñez.
 
-Los niños tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Tendrán derecho, hasta la edad de dieciocho años, a recibir servicios médicos adecuados, de manera gratuita, en las instituciones de salud del Gobierno del Estado.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de los derechos y del interés superior del niño.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2020)</small>
-
-Las autoridades del Estado y de los municipios garantizarán de manera plena los derechos de la niñez y velarán por el interés superior del niño. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Además, colaborarán con las familias en la adopción de medidas que propicien el desarrollo físico y mental de la población infantil.
+Las autoridades del Estado y de los municipios garantizarán de manera plena los derechos de la niñez y velarán por su interés superior. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Además, colaborarán con las familias en la adopción de medidas que propicien el desarrollo físico y mental de la población infantil.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -188,6 +180,10 @@ II. Establecerán un sistema permanente de apoyo e integración social de los ad
 III. Promoverán el tratamiento, la rehabilitación y la integración de las personas con discapacidad, con el objeto de facilitar su pleno desarrollo; y
 
 IV. Auspiciarán la difusión del deporte, la recreación y la cultura entre la población.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2023)</small>
+
+Las juventudes tienen derecho al desarrollo integral. El Estado proporcionará la perspectiva de juventud, en condiciones de igualdad y no discriminación, mediante la implementación de políticas públicas con enfoque multidisciplinario, que den lugar a su inclusión en el ámbito político, social, económico y cultural del país garantizando el ejercicio de sus derechos y su pleno desarrollo.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -3989,8 +3985,10 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas aquellas disposiciones secundarias que se opongan en lo dispuesto en el presente acuerdo.
 
+P.O. 29 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 265.- POR EL QUE SE REFORMA EL ARTÍCULO 3° Y SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
-
-P.O. 30 DE SEPTIEMBRE DE 2000.
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
