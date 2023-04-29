@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2023-04-26"
+last_updated: "2023-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2023.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -421,9 +421,9 @@ XV. Fiscalía General del Estado.
 
 XVI.- Secretaría de Pueblos y Comunidades Indígenas.
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2023)</small>
 
-XVII. Secretaría de Seguridad Pública.
+XVII. Secretaría de Seguridad Pública del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1783,15 +1783,15 @@ XX. Atender las necesidades de cada una de las zonas, por sí o por conducto de 
 
 XXI. Las demás que le atribuyan expresamente las leyes, los reglamentos y otras disposiciones normativas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2023)</small>
 
 ###### ARTÍCULO 35 Quinquies.
 
-La Secretaría de Seguridad Pública se integrará por las instituciones policiales conforme a la Ley del Sistema Estatal de Seguridad Pública, excepto las expresamente adscritas a autoridad distinta; la Comisión Estatal de Seguridad; los Centros de Control, Comando, Comunicaciones y Cómputo; el Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, Sistema Penitenciario, así como el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública. Lo anterior, además de las asignadas por la legislación aplicable.
+La Secretaría de Seguridad Pública del Estado se integrará conforme a la estructura contenida en la Ley del Sistema Estatal de Seguridad Pública, así como por las áreas asignadas por la legislación aplicable con excepción de las expresamente adscritas a autoridad distinta.
 
-> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE ABRIL DE 2023)</small>
 
-A la Secretaría de Seguridad Pública le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Seguridad Pública del Estado le corresponde el despacho de los siguientes asuntos:
 
 > <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
 
@@ -3804,3 +3804,19 @@ En cumplimiento del Principio de Progresividad que impera en materia de Derechos
 ###### ARTÍCULO CUARTO.
 
 En relación con el artículo 177 Ter, el establecimiento de los Centros Regionales de Personas Traductoras e Intérpretes atenderá a la suficiencia y justificación presupuestal que el Poder Judicial del Estado de Chihuahua establezca.
+
+P.O. 29 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVII/RFLEY/0545/2023 II P.O., POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA Y DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En términos del Artículo Primero del presente Decreto, la Secretaría de Seguridad Pública del Estado deberá, en un término no mayor a 180 días a partir de la entrada en vigor del presente Decreto, adecuar el marco normativo interno, así como el relativo al Servicio Profesional de Carrera.
