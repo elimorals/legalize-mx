@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-proteccion-civil-y-gestion-de-riesgos-para-el-estado-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-01"
-last_updated: "2017-11-30"
+last_updated: "2023-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN DE RIESGOS PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2023.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 1 de septiembre de 2015.
 
@@ -87,7 +87,7 @@ XVII.- Continuidad de operaciones: Al proceso de planeación con el que se busca
 
 XVIII.- Control: La intervención a través de inspección y vigilancia de las medidas necesarias, para el cumplimiento de las disposiciones establecidas en esta Ley y los reglamentos que de ella deriven;
 
-XIX.- Coordinación Estatal: La Coordinación Estatal de Protección Civil;
+XIX.- (DEROGADA, B.O. 30 DE ABRIL DE 2023)
 
 XX.- Damnificado: Es la persona afectada por un agente perturbador, ya sea que haya sufrido daños en su integridad física o un perjuicio en sus bienes, de tal manera que requiere asistencia externa para su subsistencia, en tanto no se concluya la emergencia o se restablezca la situación de normalidad previa al desastre;
 
@@ -165,6 +165,10 @@ LVI.- Simulacro: Representación mediante una simulación de las acciones de res
 
 LVII.- Siniestro: Situación crítica y dañina generada por la incidencia de uno o más agentes perturbadores en un inmueble o instalación, afectando a su población o equipo, con posible afectación de instalaciones circundantes;
 
+> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2023)</small>
+
+LVII Bis.- Subsecretaría: La de Protección Civil del Gobierno del Estado;
+
 LVIII.- Unidad Interna de Protección Civil: El órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, actualizar, operar y vigilar el Programa Interno de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como Brigadas Institucionales de Protección Civil;
 
 LIX.- Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales.
@@ -175,9 +179,11 @@ LXI.- Zona de Riesgo: Espacio territorial determinado en el que existe la probab
 
 LXII.- Zona de Riesgo Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2023)</small>
+
 ###### Artículo 3.
 
-La aplicación de la presente Ley, compete al Gobernador del Estado, a través de la Secretaría General de Gobierno, a la Coordinación Estatal, al Sistema Estatal de Protección Civil y a los Sistemas Municipales de Protección Civil, en sus respectivos ámbitos de competencia.
+La aplicación de la presente Ley, compete al Gobernador del Estado, a través de la Secretaría General de Gobierno, a la Subsecretaría de Protección Civil, al Sistema Estatal de Protección Civil y a los Sistemas Municipales de Protección Civil, en sus respectivos ámbitos de competencia.
 
 La Secretaría contará con atribuciones para la emisión de normas, reglas técnicas, Términos de referencia y requisitos que deberán observar los particulares y, en su caso, las instancias de gobierno para la obtención de autorización, certificaciones y demás servicios que presta, mismos que deberán publicarse en el Boletín Oficial del Gobierno del Estado, así como en la página de Internet del Gobierno del Estado de Baja California Sur.
 
@@ -209,7 +215,9 @@ II. El Consejo Estatal de Protección Civil;
 
 III. La Secretaría General de Gobierno;
 
-IV. La Coordinación Estatal de Protección Civil;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2023)</small>
+
+IV. La Subsecretaría;
 
 V. Los Consejos Municipales de Protección Civil;
 
@@ -295,7 +303,9 @@ I. Un Presidente, que será el Gobernador del Estado; y en caso de ausencia, ser
 
 II. Un Secretario Ejecutivo, que será el Secretario General de Gobierno;
 
-III. Un Secretario Técnico, que será el Titular de la Coordinación Estatal de Protección Civil;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2023)</small>
+
+III. Un Secretario Técnico, que será el Titular de la Subsecretaría;
 
 IV. Los titulares de las Dependencias y Entidades de la Administración Pública Estatal, que por el ramo que atienden les corresponda en los sub-programas de prevención, auxilio y apoyo ante la ocurrencia de un desastre;
 
@@ -343,7 +353,9 @@ IX. Ordenar la elaboración de los Atlas Estatal y Municipales para la prevenci�
 
 X. Instruir a las dependencias y entidades ejecutoras de la administración pública estatal, para que en la programación y ejecución de obras públicas, y otras acciones de inversión y planificación, incorporen criterios preventivos para la adaptación al cambio climático, la protección civil y la reducción del riesgo de desastres;
 
-XI. Vigilar que las autoridades y personal de las Dependencias y Entidades de la Administración Pública Estatal, Municipal y Organismos sociales, colaboren en forma oportuna, proporcionando información real y fidedigna a la Coordinación Estatal, para el cumplimiento de sus funciones;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2023)</small>
+
+XI. Vigilar que las autoridades y personal de las Dependencias y Entidades de la Administración Pública Estatal, Municipal y Organismos sociales, colaboren en forma oportuna, proporcionando información real y fidedigna a la Subsecretaría, para el cumplimiento de sus funciones;
 
 XII. Vigilar que los organismos públicos, privados y sociales, cumplan con los compromisos y obligaciones asumidas, con el Sistema Estatal de Protección Civil;
 
@@ -351,9 +363,17 @@ XIII. Fomentar la participación de los Municipios con el Sistema Estatal de Pro
 
 XIV. Promover la creación e incorporación de los Sistemas Municipales de Protección Civil a la estructura organizacional de los Ayuntamientos;
 
-XV. Validar los lineamientos de operación, coordinación y desarrollo de los H. Cuerpos de Bomberos que operen en el Estado; y
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2023)</small>
 
-XVI. Las demás que le señalen otras disposiciones legales y administrativas en la materia.
+XV. Validar los lineamientos de operación, coordinación y desarrollo de los H. Cuerpos de Bomberos que operen en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 30 DE ABRIL DE 2023)</small>
+
+XVI. Gestionar la contratación, capacitación y participación activa de intérpretes de lengua de señas mexicana en todas las acciones y sesiones del Consejo Estatal de Protección Civil, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XVI], B.O. 30 DE ABRIL DE 2023)</small>
+
+XVII. Las demás que le señalen otras disposiciones legales y administrativas en la materia.
 
 b) En caso de emergencia:
 
@@ -371,7 +391,9 @@ VI. Coordinar las tareas para la continuidad de operaciones y, en su caso, la re
 
 VII. Organizar y coordinar a cada uno de los integrantes del Sistema Estatal de Protección Civil que participan como fuerzas de tarea, en la atención de la emergencia;
 
-VIII. Formular el diagnóstico de evaluación por la ocurrencia de un desastre, según el análisis que presente la Coordinación Estatal para tomar decisiones oportunas y destinar los recursos económicos necesarios y suficientes para la atención del desastre;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2023)</small>
+
+VIII. Formular el diagnóstico de evaluación por la ocurrencia de un desastre, según el análisis que presente la Subsecretaría, para tomar decisiones oportunas y destinar los recursos económicos necesarios y suficientes para la atención del desastre;
 
 IX. Solicitar al Ejecutivo Federal por conducto del Presidente del Consejo, la ayuda consistente en recursos humanos, económicos y materiales, en caso de que el desastre supere la capacidad de respuesta durante la emergencia y/o reconstrucción;
 
@@ -403,7 +425,9 @@ III. Emitir normas, reglas técnicas, términos de referencia y lineamientos en 
 
 IV. Presentar ante el Consejo Estatal para su aprobación, el Programa Estatal de Protección Civil;
 
-V. Determinar los lineamientos de coordinación entre la Coordinación Estatal y las Coordinaciones Municipales de Protección Civil;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2023)</small>
+
+V. Determinar los lineamientos de coordinación entre la Subsecretaría y las Coordinaciones Municipales de Protección Civil;
 
 VI. Vigilar, mediante las Dependencia (sic) y Entidades competentes y conforme a las disposiciones legales aplicables, que no se autorice la constitución de centros de población en zonas de riesgo, y de ser el caso, se notifique a las autoridades correspondientes para que procedan a su desalojo, así como al deslinde de responsabilidades en las que incurren por la omisión o participación en tales irregularidades;
 
@@ -413,27 +437,37 @@ VIII. Solicitar la información necesaria para la debida integración de los exp
 
 IX. En coordinación con la Secretaría de Finanzas del Gobierno del Estado, integrar los expedientes correspondientes a la administración y transferencia de riesgos; así como los Instrumentos Financieros de Gestión de Riesgos a los que se refiere la presente Ley;
 
-### CAPÍTULO IV. De la Coordinación Estatal de Protección Civil
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE ABRIL DE 2023)</small>
 
-###### Artículo 15.
+### CAPÍTULO IV. De la Subsecretaría de Protección Civil
 
-La Coordinación Estatal de Protección Civil, es un órgano desconcentrado, con autonomía técnica, de operación y gestión dependiente de la Secretaría General de Gobierno, se encarga de la elaboración, ejecución y seguimiento de los programas de prevención y gestión de riesgos, en coordinación con dependencias, instituciones y organismos de los sectores público, privado y social, además de la Red Estatal de Brigadistas y Grupos Voluntarios.
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
+
+###### Articulo 15.
+
+La Subsecretaría dependerá de la Secretaría General de Gobierno, y se encargará de la elaboración, ejecución y seguimiento de los programas de prevención y gestión de riesgos, en coordinación con dependencias, instituciones y organismos de los sectores público, privado y social, además de la Red Estatal de Brigadistas y Grupos Voluntarios.
+
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
 
 ###### Artículo 16.
 
-La Coordinación Estatal de Protección Civil, contará con instalaciones, materiales, equipo, recursos humanos y financieros, suficientes para su eficaz funcionamiento y desarrollo, de acuerdo con el presupuesto autorizado y se integra de la siguiente manera:
+La Subsecretaría contará con instalaciones, materiales, equipo, recursos humanos y financieros, suficientes para su eficaz funcionamiento y desarrollo de acuerdo con el presupuesto autorizado, y se integra de la siguiente manera:
 
-I. Un Director General, Titular de la Coordinación Estatal de Protección Civil.
+I. Un Subsecretario, Titular encargado de la Protección Civil en el Estado;
 
-II. Un área de Gestión de Emergencias.
+II. Una Coordinación Estatal;
 
-III. Un área de Gestión de Riesgos.
+III. Un área de Gestión de Riesgos;
 
-IV. Un área Jurídica.
+IV. Un área de Gestión de emergencias, y
+
+V. Un área jurídica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2023)</small>
 
 ###### Artículo 17.
 
-La Coordinación Estatal de Protección Civil tendrá las siguientes atribuciones:
+La Subsecretaría tendrá las siguientes atribuciones:
 
 I. Elaborar, promover y difundir programas preventivos en materia de protección civil y reducción de riesgos, en sus aspectos normativo, operativo, de coordinación y de participación, hacia toda la población del Estado;
 
@@ -479,7 +513,9 @@ XXI. Requerir a los Presidentes Municipales, directores, administradores, propie
 
 XXII. Organizar y operar el registro de inventarios de recursos humanos y materiales disponibles, susceptibles de movilización y alojamiento en caso de emergencia;
 
-XXIII. Autorizar a los consultores y capacitadores en materia de protección civil, quienes tendrán que tramitar ante la Coordinación Estatal de Protección Civil su registro correspondiente, quedando sujeta su alta al padrón respectivo, una vez cumplidos los requisitos previamente establecidos, y debiendo renovar el mismo anualmente;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2023)</small>
+
+XXIII. Autorizar a los consultores y capacitadores en materia de protección civil, quienes tendrán que tramitar ante la Subsecretaría su registro correspondiente, quedando sujeta su alta al padrón respectivo una vez cumplidos los requisitos previamente establecidos, y debiendo renovar la misma anualmente;
 
 XXIV. Ordenar y realizar visitas de supervisión a los locales o establecimientos, negocios e industrias, a fin de verificar el cumplimiento de las disposiciones, para la prevención y atención de riesgos, en caso de imponer sanciones por incumplimiento se estará a lo dispuesto en las disposiciones aplicables en cada caso;
 
@@ -573,7 +609,9 @@ II. Atender en forma inmediata las situaciones de emergencia que se presenten y 
 
 III. Concertar acciones con el H. Cuerpo de Bomberos Municipal, Red Municipal de Brigadistas, grupos voluntarios y con los sectores público, social y privado, en materia de protección civil y gestión de riesgos, conforme a lo que se establece en ésta Ley;
 
-IV. Establecer acciones y comunicación con la Coordinación Estatal de Protección Civil, en caso de incumplimiento a los Reglamentos, Bandos y disposiciones Municipales, en materia de protección civil para los efectos legales conducentes; y
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2023)</small>
+
+IV. Establecer acciones y comunicación con la Subsecretaría en caso de incumplimiento a los Reglamentos, Bandos y disposiciones Municipales, en materia de protección civil para los efectos legales conducentes, y
 
 V. Regular y supervisar los eventos públicos con grandes concentraciones de personas, a fin de informar oportunamente a la Coordinación Estatal para prevenir y proteger a las personas en caso de ocurrir un desastre.
 
@@ -591,9 +629,11 @@ La operación de los Consejos Municipales, será determinada en cada Municipio, 
 
 Los Consejos Municipales, tendrán la obligación de aplicar las disposiciones de ésta Ley e implementar planes y programas para la prevención y gestión de riesgos, emergencias y desastres, en coordinación con el Sistema Estatal de Protección Civil.
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
+
 ###### Artículo 30.
 
-Los Consejos Municipales, en coordinación con las Coordinaciones Estatal y Municipal, organizarán campañas educativas y culturales para prevenir y atender situaciones de emergencia, utilizando los medios más eficaces como la profesionalización, capacitaciones, conferencias en escuelas y en lugares públicos, así como la proyección de películas, exposición de carteles, publicación de folletos y cualquier otro medio de comunicación para promover y divulgar la información conveniente y necesaria.
+Los Consejos Municipales en coordinación con la Subsecretaría y la Coordinación Municipal correspondiente, organizarán campañas educativas y culturales para prevenir y atender situaciones de emergencia, utilizando los medios más eficaces como la profesionalización, capacitaciones, conferencias en escuelas y en lugares públicos, así como la proyección de películas, exposición de carteles, publicación de folletos y cualquier otro medio de comunicación para promover y divulgar la información conveniente y necesaria.
 
 ### Capítulo III. De la Coordinación Municipal de Protección Civil
 
@@ -623,7 +663,9 @@ III. Dictaminar sobre el correcto uso del suelo de impacto significativo, verifi
 
 IV. Establecer el Sistema de Información, que contenga los inventarios, directorios municipales de recursos materiales y humanos, disponibles en caso de emergencia o desastre;
 
-V. Establecer los mecanismos de comunicación constante, en situaciones normales para la prevención y atención de emergencias con la Coordinación Estatal de Protección Civil;
+> <small>(REFORMADA, B.O. 30 DE ABRIL DE 2023)</small>
+
+V. Establecer los mecanismos de comunicación constante en situaciones normales para la prevención y atención de emergencias con la Subsecretaría;
 
 VI. Coordinar las acciones con el H. Cuerpo de Bomberos Municipal;
 
@@ -639,9 +681,11 @@ X. Las demás atribuciones que le asigne el Consejo Municipal de Protección Civ
 
 ### CAPÍTULO I. De la participación de los H. Cuerpos de Bomberos
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
+
 ###### Artículo 34.
 
-Los H. Cuerpos de Bomberos, en caso de emergencia o desastre, coadyuvarán con la Coordinación Estatal, así como con las Coordinaciones Municipales de Protección Civil a la que corresponda, en los términos establecidos en esta Ley.
+Los H. Cuerpos de Bomberos en caso de emergencia o desastre, coadyuvarán con la Subsecretaría, así como con las Coordinaciones Municipales de Protección Civil a la que corresponda, en los términos establecidos en ésta Ley.
 
 ###### Artículo 35.
 
@@ -649,25 +693,33 @@ Los H. Cuerpos de Bomberos, podrán participar en los programas de prevención, 
 
 ### CAPÍTULO II. Red Estatal y Municipal de Brigadistas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2023)</small>
+
 ###### Artículo 36.
 
-La Red Estatal de Brigadistas, es una estructura organizada y formada por voluntarios, con el fin de capacitarse y trabajar coordinadamente con la Coordinación Estatal, para enfrentar en su entorno, riesgos causados por los diversos agentes perturbadores.
+La Red Estatal de Brigadistas es una estructura organizada y formada por voluntarios con el fin de capacitarse y trabajar coordinadamente con la Subsecretaría, para enfrentar en su entorno riesgos causados por los diversos agentes perturbadores.
 
 Por su parte, la Red Municipal de Brigadistas es la formada por voluntarios circunscrita a un territorio municipal determinado, estructurada con el fin de capacitarse y trabajar en coordinación con la Coordinación Municipal de Protección Civil correspondiente, para los efectos establecidos en la presente Ley.
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
+
 ###### Artículo 37.
 
-Los Brigadistas en lo individual son las personas capacitadas en materias afines a la protección civil, que han sido registradas en la Red Estatal de Brigadistas, bajo la coordinación y supervisión de la Coordinación Estatal, para apoyar a ésta en tareas y actividades propias de la materia.
+Los Brigadistas en lo individual son las personas capacitadas en materias afines a la protección civil, registradas en la Red Estatal de Brigadistas bajo la coordinación y supervisión de la Subsecretaría, para apoyar a ésta en tareas y actividades propias de la materia.
+
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
 
 ###### Artículo 38.
 
-La Coordinación Estatal de Protección Civil coordinará el funcionamiento de la Red Estatal de Brigadistas. Para tal efecto, las Coordinaciones Estatal y Municipales, deberán promover en el marco de sus competencias, la capacitación, organización y preparación de las personas que deseen constituirse en Brigadistas Estatales y Municipales y realizar los trámites de registro en la Red Estatal de Brigadistas.
+La Subsecretaría coordinará el funcionamiento de la Red Estatal de Brigadistas. Para tal efecto, la Subsecretaría y Municipales deberán promover en el marco de sus competencias, la capacitación, organización y preparación de las personas que deseen constituirse en Brigadistas Estatales y Municipales, y realizar los trámites de registro en la Red Estatal de Brigadistas.
 
 ### CAPÍTULO III. De los Grupos Voluntarios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2023)</small>
+
 ###### Artículo 39.
 
-Para desarrollar sus actividades en materia de protección civil, tales como: rescate, auxilio, combate a incendios, administración de albergues, centros de acopio y servicios médicos de urgencias, entre otros. Los Grupos Voluntarios Estatal y Municipal, deberán tramitar su registro ante la Coordinación Estatal, conforme lo establecido en el Reglamento de la Ley.
+Para desarrollar sus actividades en materia de protección civil, tales como rescate, auxilio, combate a incendios, administración de albergues, centros de acopio y servicios médicos de urgencias, entre otros, los Grupos Voluntarios Estatal y Municipales deberán tramitar su registro ante la Subsecretaría, conforme lo establecido en el Reglamento de ésta Ley.
 
 Las disposiciones reglamentarias, establecerán en forma específica los trámites y procedimientos para obtener los registros según sea el caso, así como las medidas a adoptar para que los Brigadistas y los grupos voluntarios participen, garantizando la seguridad de sus miembros.
 
@@ -693,13 +745,17 @@ Aquellos que no deseen integrarse a la red de brigadistas o un grupo voluntario,
 
 ### CAPÍTULO II. De la Acción Ciudadana
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2023)</small>
+
 ###### Artículo 42.
 
 La autoridades Estatales y Municipales, fomentarán la cultura en materia de protección civil entre la población, mediante su participación individual y colectiva.
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
+
 ###### Artículo 43.
 
-Es atribución de la Coordinación Estatal dictar los lineamientos generales y diseñar formas para inducir y conducir la formación de una cultura de protección civil.
+Es atribución de la Subsecretaría dictar los lineamientos generales y diseñar formas para inducir y conducir la formación de una cultura de protección civil.
 
 ###### Artículo 44.
 
@@ -723,9 +779,11 @@ Las Autoridades Estatales y Municipales coordinaran proyectos, estudios e invers
 
 ### CAPÍTULO III. De los Programas Internos de Protección Civil
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2023)</small>
+
 ###### Artículo 47.
 
-Cualquier persona tiene el derecho y el deber jurídico de denunciar ante la Coordinación Estatal o Municipal o ante la autoridad que corresponda todo hecho, acto u omisión que cause o provoque situaciones de peligro o riesgo para la población.
+Cualquier persona tiene el derecho y el deber jurídico de denunciar ante la Subsecretaría, Coordinación Estatal o Municipal, o ante la autoridad que corresponda todo hecho, acto u omisión que cause o provoque situaciones de peligro o riesgo para la población.
 
 La denuncia ciudadana es el medio que tiene la ciudadanía, para evitar que se contravengan las disposiciones de esta Ley.
 
@@ -733,21 +791,25 @@ La denuncia ciudadana es el medio que tiene la ciudadanía, para evitar que se c
 
 Para que la denuncia ciudadana sea procedente, bastará que la persona que la ejercite aporte los datos necesarios para su identificación y una relación de los hechos que se denuncian por cualquier medio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2023)</small>
+
 ###### Artículo 49.
 
-Recibida la denuncia, la autoridad ante quien se formuló, la turnará de inmediato a la Coordinación Estatal, en donde se procederá a efectuar las diligencias necesarias para verificar tales hechos.
+Recibida la denuncia la autoridad ante quien se formuló la turnará de inmediato a la Subsecretaría, en donde se procederá a efectuar las diligencias necesarias para verificar tales hechos.
 
 Lo anterior, se hará sin perjuicio de que la autoridad receptora de la denuncia, tome las medidas necesarias para evitar que se ponga en riesgo la seguridad y la salud pública.
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
+
 ###### Artículo 50.
 
-Cuando los hechos que motiven una denuncia, hubieren ocasionado daños y perjuicios, los interesados podrán solicitar a la Coordinación Estatal, la formulación de un dictamen técnico para su trámite ante la autoridad correspondiente.
+Cuando los hechos que motiven una denuncia hubieren ocasionado daños y perjuicios, los interesados podrán solicitar a la Subsecretaría la formulación de un dictamen técnico para su trámite ante la autoridad correspondiente.
 
 ### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 51.
 
-Las dependencias y entidades del sector público federal ubicadas dentro del Territorio del Estado de Baja California Sur, así como las del sector público estatal y municipal, los propietarios, poseedores, representantes legales o administradores de fábricas, industrias, comercios, oficinas, unidades habitacionales, clubes sociales, deportivos y de servicios, centros educativos, hospitales, teatros, cines, discotecas, sanatorios, terminales y estaciones de transporte de pasajeros y de carga, mercados, plazas comerciales, centrales de abasto, gaseras, almacenes, talleres, así como todos y cada uno de los establecimientos comerciales, industriales, de servicio e instalaciones temporales y todos aquellos que por propia naturaleza o por el uso a que están destinados, reciban una afluencia masiva de personas o bien sean considerados de riesgo, tienen obligación de contar permanentemente con un programa interno de protección civil y el equipamiento de seguridad respectivo, el cual deberá ser autorizado y supervisado por la Coordinación Estatal y la Coordinación Municipal de Protección Civil correspondiente.
+Las dependencias y entidades del sector público federal ubicadas dentro del territorio del Estado de Baja California Sur, así como las del sector público estatal y municipal, los propietarios, poseedores, representantes legales o administradores de fábricas, industrias, comercios, oficinas, unidades habitacionales, clubes sociales, deportivos y de servicios, centros educativos, hospitales, teatros, cines, discotecas, sanatorios, terminales y estaciones de transporte de pasajeros y de carga, mercados, plazas comerciales, centrales de abasto, gaseras, almacenes, talleres, así como todos y cada uno de los establecimientos comerciales, industriales, de servicio e instalaciones temporales y todos aquellos que por propia naturaleza o por el uso a que están destinados reciban una afluencia masiva de personas o bien sean considerados de riesgo, tienen obligación de contar permanentemente con un programa interno de protección civil y el equipamiento de seguridad respectivo, el cual deberá ser autorizado y supervisado por la Subsecretaría, por conducto de la Coordinación Estatal y la Coordinación Municipal de Protección Civil correspondiente.
 
 Además de lo anterior, los propietarios, poseedores, administradores de establecimientos en los que haya afluencia de público y los organizadores o responsables de eventos, deberán en coordinación con las autoridades de protección civil, realizar acciones que permitan orientar y auxiliar a la población en caso de cualquier contingencia.
 
@@ -779,9 +841,11 @@ Por su parte, cada uno de los Municipios del Estado, se sujetarán a la normativ
 
 La normatividad correspondiente precisará y detallará todos los rubros que atañen al escalafón de mando y jerarquía de las Coordinaciones Estatal y Municipales de Protección Civil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2023)</small>
+
 ###### Artículo 57.
 
-La Coordinación Estatal, contará con una instancia, encargada de la formación sistemática e institucionalizada de capital humano, a través de la capacitación, actualización y especialización de materias teóricas y prácticas.
+La Subsecretaría contará con una instancia encargada de la formación sistemática e institucionalizada de capital humano, a través de la capacitación, actualización y especialización de materias teóricas y prácticas.
 
 Para ello, tendrá como función la acreditación de las capacidades de personas físicas y morales que ofrezcan y comercialicen servicios de asesoría y capacitación en los temas relacionados con protección civil, sin perjuicio de que existan otras instancias de acreditación dentro del Sistema Educativo Estatal y la Escuela Nacional de Protección Civil.
 
@@ -813,6 +877,8 @@ Las Coordinaciones de Protección Civil Estatal y Municipales, promoverán con l
 
 ### CAPÍTULO III. Del Fondo de Protección Civil y Donaciones para Auxiliar a la Población
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
+
 ###### Artículo 62.
 
 El Gobierno del Estado, a través de la Secretaría de Planeación Urbana, Infraestructura y Ecología, deberán llevar a cabo la identificación e inventario de la infraestructura susceptible de asegurar, el análisis de riesgos y las medidas de reducción de riesgos, mismo que deberá someterse a consideración y en su caso aprobación del Consejo Estatal de Protección Civil.
@@ -827,13 +893,15 @@ Para el cumplimiento de dicha obligación, se podrá solicitar que los seguros y
 
 ###### Artículo 64.
 
-La Secretaría, en coordinación con la Coordinación Estatal y las Coordinaciones Municipales de Protección Civil, gestionará la integración del Fondo de Protección Civil, cuya finalidad será el promover la inversión en capacitación, equipamiento, sistematización de las propias Coordinaciones, la contratación de de (sic) seguros y demás instrumentos de administración y transferencia de riesgos; así como para la actualización de los Atlas de Riesgos Estatal y Municipales, la elaboración de índices de vulnerabilidad y la realización de estrategias de educación y sensibilización para la prevención de desastres.
+La Secretaría en coordinación con la Subsecretaría y las Coordinaciones Municipales de Protección Civil, gestionará la integración del Fondo de Protección Civil, cuya finalidad será promover la inversión en capacitación, equipamiento, sistematización de las propias Coordinaciones, la contratación de seguros y demás instrumentos de administración y transferencia de riesgos; así como para la actualización de los Atlas de Riesgos Estatal y Municipales, la elaboración de índices de vulnerabilidad y la realización de estrategias de educación y sensibilización para la prevención de desastres.
 
 ###### Artículo 65.
 
 El Fondo de Protección Civil, se integrará con los recursos públicos autorizados en el Presupuesto de Egresos del Estado, en los Presupuestos de Egresos autorizados a los Municipios, y los recursos federales que en su caso autoricen mediante el instrumento jurídico correspondiente.
 
-La aportación estatal a dicho Fondo, deberá además considerar los ingresos derivados de la prestación de servicios de la Coordinación Estatal de Protección Civil derivados de la certificación a cuerpos o personal de protección civil de carácter público o privado, cursos de capacitación y demás servicios que dicha Coordinación preste, los cuales deberán ser considerados anualmente en la Ley de Ingresos del Estado de Baja California Sur.
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
+
+La aportación estatal a dicho Fondo deberá además considerar los ingresos derivados de la prestación de servicios de la Subsecretaría, derivados de la certificación a cuerpos o personal de protección civil de carácter público o privado, cursos de capacitación y demás servicios que dicha Subsecretaría preste, los cuales deberán ser considerados anualmente en la Ley de Ingresos del Estado de Baja California Sur.
 
 Los recursos asignados al Fondo de Protección Civil no deberán ser transferidos o ejercidos en conceptos distintos de los relacionados con la protección civil y gestión de riesgos.
 
@@ -855,15 +923,19 @@ Los donativos en efectivo recibidos por las instituciones bancarias o financiera
 
 ### CAPÍTULO II. De las Sanciones y Supervisiones
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
+
 ###### Artículo 68.
 
 En caso de riesgo inminente, sin perjuicio de la expedición de una Declaratoria de Emergencia o Desastre y de lo que establezcan otras disposiciones legales, las Dependencias de la Administración Pública Estatal y Municipal, ejecutarán las medidas de seguridad que les competan, a fin de proteger la vida de la población y sus bienes, la planta productiva y su entorno, para garantizar el funcionamiento de los servicios esenciales de la comunidad, informando de inmediato a las autoridades de protección civil correspondientes sobre las acciones emprendidas, quienes instalarán cuando se considere necesario y conforme a la normatividad, el Consejo Municipal de Protección Civil, como centro de mando y de coordinación de las acciones en el lugar.
 
 Las fuerzas armadas participarán en la atención de situaciones extraordinarias que requieran acciones inmediatas de protección civil dentro de cualquiera de los niveles de la estructura institucional, realizando las tareas que les competen aun cuando no se haya declarado un estado de emergencia o desastre.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2023)</small>
+
 ###### Artículo 69.
 
-La Coordinación Estatal; así como las Coordinaciones Municipales de Protección Civil, deberán aplicar las siguientes medidas de seguridad:
+La Subsecretaría por conducto de la Coordinación Estatal, así como las Coordinaciones Municipales de Protección Civil, deberán aplicar las siguientes medidas de seguridad:
 
 I. Identificación y delimitación de lugares o zonas de riesgo;
 
@@ -883,15 +955,17 @@ VIII. Las demás que en materia de protección civil determinen las disposicione
 
 ###### Artículo 70.
 
-La Coordinación Estatal, así como la Coordinación de Protección Civil Municipales que corresponda, supervisarán las condiciones de seguridad de carácter: preventivo, de maquinaria y equipos, instalaciones de gas, de capacitación en materia de protección civil, de equipo contra incendio, de almacenamiento de productos químicos peligrosos, sanitario, energético, eléctrico, electrónico, estructural e hidráulico de aquellos establecimientos comerciales, industriales, de servicio e instalaciones temporales y todos aquellos que por su propia naturaleza o por el uso a que están destinados, reciban una afluencia masiva de personas o bien sean considerados de riesgo.
+La Subsecretaría, por conducto de la Coordinación Estatal, así como por las Coordinaciones Municipales de Protección Civil que corresponda, supervisarán las condiciones de seguridad de carácter preventivo de maquinaria y equipos, instalaciones de gas, de capacitación en materia de protección civil, de equipo contra incendio, de almacenamiento de productos químicos peligrosos, sanitario, energético, eléctrico, electrónico, estructural e hidráulico de aquellos establecimientos comerciales, industriales, de servicio e instalaciones temporales y todos aquellos que por su propia naturaleza o por el uso a que están destinados, reciban una afluencia masiva de personas o bien sean considerados de riesgo.
 
 ###### Artículo 71.
 
 Las inspecciones y supervisiones de protección civil tienen el carácter de visitas domiciliarias, administrativas y sanitarias, en términos del Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, por lo que los particulares están obligados a permitirlas, así como a proporcionar la información necesaria para su desarrollo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2023)</small>
+
 ###### Artículo 72.
 
-La Coordinación Estatal o Municipal que corresponda, podrá aplicar las siguientes sanciones:
+La Subsecretaría o la Coordinación Municipal que corresponda, podrá aplicar las siguientes sanciones:
 
 I. Apercibimiento;
 
@@ -911,39 +985,23 @@ Las sanciones establecidas en la presente Ley, son independientes de las respons
 
 ## TÍTULO NOVENO. DEL RECURSO ADMINISTRATIVO
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
+
 ###### Artículo 74.
 
-Los interesados que se consideren afectados por los actos o resoluciones emitidas por las Coordinaciones Estatal y Municipales de Protección Civil, podrán interponer el recurso administrativo de revocación; dicho recurso deberá interponerse dentro de los 15 días hábiles siguientes a la fecha en que surta efecto la notificación respectiva. Para el caso de resoluciones de la Coordinación Estatal ante la Secretaría; y para el caso de las Coordinaciones Municipales de Protección Civil, ante la Secretaría General del Ayuntamiento respectivo, teniendo por objeto la confirmación, modificación, revocación o anulación del acto administrativo recurrido.
+Los interesados que se consideren afectados por los actos o resoluciones emitidas por la Subsecretaría o por las Coordinaciones Municipales de Protección Civil, podrán interponer el recurso administrativo que corresponda previsto en la Ley de Procedimiento Administrativo para el Estado y los Municipios de Baja California Sur
 
-###### Artículo 75.
+###### Articulo 75.
 
-La sola presentación del Recurso de Revocación no interrumpirá o cancelará las medidas preventivas dictadas por la Coordinación Estatal o Coordinación Municipal correspondiente, cuando dicha (sic) medidas sean otorgadas con la finalidad de salvaguardar a la población o prevenir un riesgo.
-
-No se otorgará suspensión respecto de las medidas dictadas por la Coordinación Estatal o Coordinación Municipal correspondiente, cuando se adviertan condiciones provocadas por la acción humana, que pongan en riesgo inminente a la población.
+(DEROGADO, B.O. 30 DE ABRIL DE 2023)
 
 ###### Artículo 76.
 
-La tramitación del Recurso de Revocación, se sujetará al procedimiento siguiente:
-
-I. Se iniciará mediante escrito en el que deberán expresarse los agravios que a juicio del infractor le cause la resolución, acompañando constancia de la notificación de la misma, así como el ofrecimiento de las pruebas que considere necesarias rendir;
-
-II. El Secretario o el Secretario General del Ayuntamiento que corresponda, acordará sobre la admisibilidad del recurso y sobre las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se basa la resolución. Las pruebas admitidas, se desahogarán en un plazo de cinco días hábiles, que a solicitud del infractor o de oficio, podrá ampliarse por una sola vez a cinco días hábiles; y
-
-III. Desahogadas las pruebas, si las hubiere, el Secretario o el Secretario General del Ayuntamiento que corresponda emitirá resolución dentro de los quince días hábiles siguientes, notificando al interesado en un plazo no mayor de setenta y dos horas.
+(DEROGADO, B.O. 30 DE ABRIL DE 2023)
 
 ###### Artículo 77.
 
-Con excepción de lo dispuesto en el Artículo 75 de la presente Ley, la interposición del Recurso de Revocación, suspenderá la ejecución de la resolución recurrida, si lo solicita el promovente, conforme a las siguientes reglas:
-
-I. Tratándose de sanciones económicas, si el pago de éstas se garantiza en los términos del Código Fiscal para el Estado y Municipios de Baja California Sur; y
-
-II. Tratándose de otras sanciones, se concederá la suspensión si concurren los siguientes requisitos:
-
-a) Que se admita el recurso;
-
-b) Que la ejecución de la resolución recurrida produzca daños o perjuicios de imposible reparación en contra del recurrente; y
-
-c) Que la suspensión no traiga como consecuencia la consumación o continuación de actos u omisiones que impliquen perjuicios al interés social o al servicio público.
+(DEROGADO, B.O. 30 DE ABRIL DE 2023)
 
 ## TRANSITORIOS
 
@@ -988,3 +1046,13 @@ B.O. 30 DE NOVIEMBRE DE 2017.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 30 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2913 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DE NIÑAS NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR; LA LEY ESTATAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR, Y DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN DE RIESGOS PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Sin menoscabo de lo previsto en el Artículo anterior, y para efectos de lo establecido en el Artículo Cuarto del presente Decreto, la Subsecretaría de Protección Civil funcionará una vez que entren en vigor las modificaciones contempladas en el presente Decreto, con el mismo presupuesto asignado a la Coordinación Estatal de Protección Civil.
+
+TERCERO.- Sin menoscabo de lo previsto en el Artículo Primero Transitorio de este Decreto, y para efectos de lo previsto en el Artículo Cuarto establecido en el presente Decreto, las trabajadoras y trabajadores que actualmente se encuentran asignados a la Coordinación Estatal de Protección Civil, pasarán a formar parte de la Subsecretaría de Protección Civil bajo las mismas condiciones laborales en que se encuentren actualmente, dejando por ende a salvo sus derechos laborales.
