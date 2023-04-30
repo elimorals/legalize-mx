@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-109821"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-09"
-last_updated: "2022-02-18"
+last_updated: "2023-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109821&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2023.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 9 de septiembre de 2015.
 
@@ -313,35 +313,37 @@ XXX. Conducir y evaluar las políticas y programas relativos a la seguridad púb
 
 XXXI. Coordinar la Secretaría Ejecutiva del Consejo Estatal de Seguridad Pública, así como vigilar la debida aplicación de los fondos y subsidios que se integren en esa materia;
 
-XXXII.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 30 DE ABRIL DE 2023)</small>
 
-XXXIII.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
+XXXII.- Como parte de la gestión integral del riesgo, implementar los ajustes razonables y las medidas de accesibilidad y comunicación que permitan la información espontánea y oportuna que emita y transmita el Estado, a través de los medios de comunicación televisiva pública, privada y social, en beneficio de las personas con discapacidad, con la participación activa de intérpretes de lengua de señas mexicana durante las sesiones del Consejo Estatal de Protección Civil;
+
+XXXIII. (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
 XXXIV. Coordinarse con las autoridades federales y municipales para enfrentar los problemas relativos a la seguridad pública;
 
-XXXV.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
+XXXV. (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
 XXXVI. En el ámbito de su respectiva competencia, vigilar y coordinar el debido cumplimiento y aplicación de la Ley General en materia de Seguridad Pública y la Ley del Sistema Estatal de Seguridad Pública;
 
-XXXVII.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
+XXXVII. (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XXXVIII.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
+XXXVIII. (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XXXIX.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
+XXXIX. (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XL.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
+XL. (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XLI.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
+XLI. (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XLII. - (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
+XLII. (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XLIII.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
+XLIII. (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XLIV.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
+XLIV. (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XLV.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
+XLV. (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XLVI.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
+XLVI. (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
 XLVII. Las demás que le señalen las leyes aplicables.
 
@@ -1488,3 +1490,13 @@ En tanto se expiden los reglamentos a que refiere el artículo transitorio terce
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en el presente decreto.
+
+B.O. 30 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2913 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DE NIÑAS NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR; LA LEY ESTATAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR, Y DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN DE RIESGOS PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Sin menoscabo de lo previsto en el Artículo anterior, y para efectos de lo establecido en el Artículo Cuarto del presente Decreto, la Subsecretaría de Protección Civil funcionará una vez que entren en vigor las modificaciones contempladas en el presente Decreto, con el mismo presupuesto asignado a la Coordinación Estatal de Protección Civil.
+
+TERCERO.- Sin menoscabo de lo previsto en el Artículo Primero Transitorio de este Decreto, y para efectos de lo previsto en el Artículo Cuarto establecido en el presente Decreto, las trabajadoras y trabajadores que actualmente se encuentran asignados a la Coordinación Estatal de Protección Civil, pasarán a formar parte de la Subsecretaría de Protección Civil bajo las mismas condiciones laborales en que se encuentren actualmente, dejando por ende a salvo sus derechos laborales.
