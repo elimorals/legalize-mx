@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-aguas-del-estado-de-baja-california-sur-21957"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-31"
-last_updated: "2019-12-20"
+last_updated: "2023-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2023.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de julio de 2001.
 
@@ -1823,39 +1823,17 @@ En lo relativo a la interpretación, substanciación y decisión de los recursos
 
 ## Título Cuarto. Del fomento de la cultura del cuidado del agua
 
-> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2011)</small>
-
 ###### Artículo 160.
 
-Para los gobiernos Estatal y Municipales del Estado de Baja California Sur, será prioritario crear en los ámbitos de los núcleos de población por asentarse, el fomentar y fortalecer la cultura del cuidado del agua, por lo que deberán establecer mecanismos encaminados para tales fines, involucrando a las instituciones públicas, la iniciativa privada, la población adulta, la juventud y la infancia.
-
-> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2011)</small>
+(DEROGADO, B.O. 30 DE ABRIL DE 2023)
 
 ###### Artículo 161.
 
-El Programa Estatal de Fomento al Cuidado del Agua, promoverá el cumplimiento de los siguientes objetivos:
-
-I. Fomentar el uso racional del agua en todas sus formas y manifestaciones;
-
-II. Propiciar la elaboración y aplicación de normas técnicas estatales que regulen el uso racional del agua;
-
-III. Implementar, por conducto de la Secretaría de Educación Pública del Estado, dentro de los programas educativos del nivel preescolar, primaria, secundaria y bachillerato, el tema del uso racional y responsable del agua;
-
-IV. Fomentar en la iniciativa privada la capacitación de recursos humanos en materia de cuidado y uso racional del agua;
-
-V. Fomentar la participación de las entidades públicas y privadas en las acciones que permitan el concientizar a la población sobre la importancia del cuidado y uso racional del agua;
-
-VI. Promover la investigación y el desarrollo tecnológico en materia de cuidado y uso racional del agua;
-
-VII. Fomentar el uso de tecnología e infraestructura en el desarrollo de viviendas, fraccionamientos, edificaciones y demás obras en el Estado, que permitan usar de forma más eficaz y razonable el agua; y
-
-VIII. Las demás que determine la Comisión Estatal del Agua.
-
-> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2011)</small>
+(DEROGADO, B.O. 30 DE ABRIL DE 2023)
 
 ###### Artículo 162.
 
-Es obligación de los Ayuntamientos del Estado de Baja California Sur, con fundamento en lo dispuesto por el artículo 51 fracción V de la Ley Orgánica del Gobierno Municipal del Estado, colaborar con la aplicación de los programas en materia de cultura del cuidado del agua.
+(DEROGADO, B.O. 30 DE ABRIL DE 2023)
 
 TRANSITORIOS:
 
@@ -1942,3 +1920,9 @@ CUARTO.- Sin perjuicio de lo dispuesto en el artículo transitorio SEGUNDO, el p
 QUINTO.- Los Organismos Operadores Municipales deberán proveer en su esfera administrativa y reglamentaria lo conducente para dar cumplimiento al presente Decreto.
 
 SEXTO.- Se Derogan las Disposiciones legales que se opongan al presente Decreto.
+
+B.O. 30 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2669 SE EXPIDE LA LEY DE FOMENTO DE LA CULTURA DEL CUIDADO Y USO RACIONAL DEL AGUA PARA EL ESTADO DE BAJA CALIFORNIA SUR Y SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
