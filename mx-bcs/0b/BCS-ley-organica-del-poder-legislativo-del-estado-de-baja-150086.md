@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2023-04-20"
+last_updated: "2023-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ENERO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 20 DE ABRIL DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2023.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -799,13 +797,25 @@ XIX.- DE LA COMISIÓN DE IGUALDAD DE GÉNERO:
 
 a).- Los que tengan relación con la problemática específica de mujeres y hombres en razón de su género.
 
-b).- Las propuestas legislativas que reformen, adicionen o en su caso deroguen leyes para contribuir a eliminar todas las formas de discriminación de género.
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
 
-c).- Implementar programas de beneficio a la mujer y garanticen su respeto.
+b).- Impulsar propuestas legislativas tendientes a crear, modificar, adicionar o en su caso derogar leyes que contribuyan a la eliminación de las brechas de desigualdad y todas las formas de discriminación contra las mujeres, así como aquellas que permitan dar cumplimiento a las obligaciones y recomendaciones derivadas de los Tratados y Convenciones suscritos por el Estado Mexicano;
 
-d).- Proponer ante el Pleno, al Titular de la Unidad para la Igualdad de Género de este Poder Legislativo; además supervisar el cumplimiento de objetivos y atribuciones de la Unidad en mención.
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
 
-e).- Las demás que establezcan la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+c).- Implementar programas de beneficio para las mujeres e institucionalizar acciones y políticas públicas en su diseño, ejecución y evaluación.
+
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
+
+d).- Proponer ante el Pleno a quien ocupará la Titularidad de la Unidad para la Igualdad de Género de este Poder Legislativo; supervisar y evaluar la implementación y seguimiento de Los programas que lleven a cabo en materia de igualdad y no discriminación, transversalidad de la perspectiva de género y derechos humanos en la cultura organizacional del Congreso del Estado;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 30 DE ABRIL DE 2023)</small>
+
+e).- Impulsar la incorporación y transversalidad de la perspectiva de género en los presupuestos públicos, así como en la revisión del ejercicio del gasto público;
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 30 DE ABRIL DE 2023)</small>
+
+f).- Las demás que establezcan la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 XX.- DE LA COMISIÓN DE SEGURIDAD PÚBLICA:
 
@@ -2748,3 +2758,9 @@ B.O. 26 DE ENERO DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Quienes integran actualmente la Comisión de Infraestructura mantendrán su integración en la Comisión de Desarrollo Urbano, Infraestructura y Obra Pública.
+
+B.O. 30 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2911 SE REFORMAN LOS INCISOS B), C), D) Y E), Y EL CONTENIDO DEL ACTUAL INCISO E), PASA A SER INCISO F) QUE SE ADICIONA A LA FRACCIÓN XIX DEL ARTÍCULO 46 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
