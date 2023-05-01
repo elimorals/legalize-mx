@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2022-12-12"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2023.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -285,6 +285,8 @@ El H. Ayuntamiento de San José de Gracia residirá en la ciudad que sea designa
 
 ### CAPÍTULO II. De las Facultades
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 29.
 
 El Ayuntamiento de San José de Gracia tiene como función general el Gobierno del Municipio y como facultades y obligaciones las señaladas en el Artículo 36 de la Ley Municipal para el Estado de Aguascalientes, las señaladas en el presente Código y las enumeradas en las demás disposiciones jurídicas aplicables, mismas que en forma enunciativa y no limitativa, son las siguientes:
@@ -389,27 +391,47 @@ XL. Otorgar concesiones y autorizaciones para que el sector privado pueda partic
 
 XLI. Autorizar la relotificación, fusión y subdivisión de terrenos en el ámbito de su competencia;
 
-XLII. Expedir la autorización de fraccionamiento de predios y la constitución del régimen de propiedad en condominio de conformidad con las disposiciones que estable es el Código Urbano para el Estado de Aguascalientes, las Leyes de la materia, planes y programas de desarrollo urbano estatal, así como reservas; usos y destinos de áreas y predios, todo ello con la concurrencia del Estado;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XLII. Expedir la autorización de fraccionamientos, condominios y desarrollos inmobiliarios especiales y la (sic) en predios no mayores a 20,000 m2, de conformidad con las disposiciones que establece el Código Urbano para el Estado de Aguascalientes, los reglamentos, las Leyes de la materia, los programas de centros de población, municipal, estatal y esquemas de desarrollo urbano, así como las reservas; usos y destinos de áreas y predios;
+
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE PÁRRAFO ES SIMILAR AL DE LA FRACCIÓN XLIII.]</small>
+
+Establecer un sistema de asistencia social a favor de los menores de edad, la integración familiar, las personas de la tercera edad, discapacitados y otros sectores de la población en condiciones de vulnerabilidad o rezago social y, en general, establecer programas cuyo propósito sea el desarrollo integral de las personas;
+
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE PÁRRAFO ES SIMILAR AL SEGUNDO PÁRRAFO DE LA FRACCIÓN XLII.]</small>
 
 XLIII. Establecer un sistema de asistencia social a favor de los menores de edad, la integración familiar, los senectos y otros sectores de la población en condiciones de vulnerabilidad o rezago social y, en general, establecer programas cuyo propósito sea el desarrollo integral de la persona humana;
 
 XLIV. Dividir el territorio municipal en los términos establecidos en la ley de la materia para una mejor prestación de los servicios públicos;
 
-XLV. Formular, aprobar y administrar la zonificación, planes y programas de desarrollo urbano y rural municipal;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XLVI. Participar en la creación y administración de sus reservas territoriales;
+XLV. Formular, aprobar y administrar la zonificación de los esquemas y programas de desarrollo urbano y rural en el ámbito municipal;
 
-XLVII. Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando la Federación o el Estado elaboren proyectos de desarrollo regional, deberá participar el Municipio;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XLVIII. Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en su jurisdicción territorial;
+XLVI. Participar en la creación, determinación, administración de sus reservas territoriales;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XLVII. Participar en la formulación de programas de desarrollo regional, los cuales deberán estar en concordancia con los programas generales de la materia. El Municipio deberá participar cuando la Federación o el Estado elaboren proyectos de desarrollo regional;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XLVIII. Autorizar, controlar y vigilar el aprovechamiento y la utilización del suelo, en el ámbito de su competencia, en su jurisdicción territorial;
 
 XLIX. Intervenir en la regularización de la tenencia de la tierra urbana;
 
 L. Otorgar licencias y permisos para construcciones;
 
-LI. Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-LII. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquellos afecten su ámbito territorial;
+LI. Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento ecológico municipal;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+LII. Intervenir en la elaboración, formulación y aplicación de programas de movilidad y transporte público de pasajeros, en su ámbito territorial;
 
 LIII. Celebrar convenios para la administración y custodia de las zonas federales;
 
@@ -2303,6 +2325,8 @@ XXIV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por condu
 
 #### SECCIÓN DÉCIMO PRIMERA. De la Dirección de Obras Públicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 155.
 
 Corresponde a la Dirección de Obras Públicas:
@@ -2321,105 +2345,191 @@ IV. Proponer las políticas y programas relativos a la construcción y mantenimi
 
 V. Asesorar técnicamente a los Comités de Colonos que lo requieran, en lo concerniente a la realización de obras públicas municipales;
 
-VI. Expedir las convocatorias y bases a que deben ajustarse los concursos de obra pública, así como para concursos de proyectos urbanos y arquitectónicos que se celebren en el ámbito municipal, así como vigilar la estricta aplicación de las disposiciones legales vigentes en la materia;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VI. Expedir las convocatorias y bases a que deben ajustarse los concursos de obra pública, así como la aplicación de las disposiciones legales vigentes en la materia;
 
 VII. Coordinarse, en el ámbito de sus facultades de acuerdo a su capacidad operativa, con las demás instancias municipales; y,
 
 VIII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
-ARTÍCULO 155 CUAR (SIC).- Corresponde a la DIRECCIÓN DE DESARROLLO URBANO Y PLANEACIÓN lo siguiente:
+ARTÍCULO 155 BIS.- Corresponde a la DIRECCIÓN DE DESARROLLO URBANO Y PLANIFICACIÓN TERRITORIAL lo siguiente:
 
-I. Realizar diagnósticos sobre la problemática pública en el Municipio, en materia de desarrollo urbano.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-II. Elaborar el proyecto de Plan Municipal de Desarrollo, así como sus modificaciones o adiciones;
+I. Realizar diagnósticos sobre la problemática pública en el Municipio, en materia de desarrollo urbano y ordenamiento territorial.
 
-III. Coordinar la elaboración de los programas de desarrollo urbano de la cabecera y comunidades del Municipio de San José de Gracia, Ags.;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-IV. Aplicar las normas jurídicas de contenido ecológico y de preservación, cuidado, vigilancia y control del medio ambiente municipales;
+II. Apoyar en la elaboración del Plan Municipal de Desarrollo, así como sus modificaciones o adiciones en materia de desarrollo urbano y planificación territorial;
 
-V. Preparar los proyectos de programas y esquemas en materia de desarrollo urbano para presentarlos al Ayuntamiento a través del Presidente Municipal;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-VI. Promover la creación de reservas territoriales en el Municipio;
+III. Elaborar y/o coordinar la elaboración de los esquemas y programas de desarrollo urbano de la cabecera y localidades del municipio de San José de Gracia;
 
-VII. Organizar los Programas Operativos Anuales;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-VIII. Preparar los proyectos derivados de los Programas Operativos Anuales;
+IV. Aplicar las disposiciones normativas de contenido ecológico y de preservación, cuidado, vigilancia y control del medio ambiente municipales, así como coadyuvar en la actualización y mejora del marco normativo en (sic) materia;
 
-IX. Instrumentar los procesos de consulta ciudadana para la preparación de planes y programas municipales;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-X. Realizar diagnósticos municipales;
+V. Preparar los proyectos de programas y esquemas en materia de desarrollo urbano y ordenamiento territorial para presentarlos al Ayuntamiento a través del Presidente Municipal;
 
-XI. Recopilar y mantener actualizada la información estadística necesaria para la planeación municipal;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XII. Relacionar la Administración Pública Municipal con los ciudadanos, a fin de que estos participen en el proceso de planeación democrática del desarrollo;
+VI. Promover la creación de reservas territoriales en el Municipio para el futuro crecimiento de las localidades o centros de población;
 
-XIII. Construir y operar las bases de datos estadísticos municipales;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XIV. Proponer la nomenclatura de calles, parques y demás espacios públicos, así como la numeración oficial de los predios y expedir las constancias relativas;
+VII. Elaborar y dar seguimiento al Programa Operativo Anual correspondiente a la Dirección de Desarrollo Urbano y Planificación Territorial;
 
-XV. Participar en la elaboración de los proyectos de reglamentación de zonificación y usos del suelo, de construcciones y de protección al ambiente;
+VIII. (DEROGADA, P.O. 1 DE MAYO DE 2023)
 
-XVI. Ejercer las atribuciones que le otorga el Código Urbano del Estado al Municipio; en cuanto a la creación de condominios, creación de fraccionamientos y su municipalización, así como el control del cumplimiento de las obligaciones de los fraccionadores y promoventes de los condominios;
+IX. (DEROGADA, P.O. 1 DE MAYO DE 2023)
 
-XVII. Coordinar la participación del Comité de Desarrollo Urbano y Rural en cuanto a las atribuciones que le otorga el Código Urbano y la Ley Municipal del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XVIII. Administrar el control urbano con el otorgamiento de las autorizaciones de compatibilidad urbanística, alineamiento, anuncios, subdivisiones, fusión y relotificación de predios y fraccionamientos, así como las licencias para construcción, remodelación y demolición de fincas, realización de obras, edificaciones y reparaciones en la vía pública y la expedición de números oficiales conforme a lo estipulado en el Código Urbano;
+X. Realizar diagnósticos municipales en materia de desarrollo urbano y planificación territorial;
+
+XI. (DEROGADA, P.O. 1 DE MAYO DE 2023)
+
+XII. (DEROGADA, P.O. 1 DE MAYO DE 2023)
+
+XIII. (DEROGADA, P.O. 1 DE MAYO DE 2023)
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XIV. Proponer y administrar la nomenclatura de calles, parques y demás espacios públicos, así como asignar los números oficiales de los predios o lotes urbanos y expedir las constancias relativas;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XV. Elaborar los proyectos de reglamentos de zonificación, usos del suelo, de diseño y construcciones, de fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones, así como de protección al ambiente;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XVI. Ejercer las atribuciones que le otorga el Código Urbano para (sic) Estado al Municipio; en cuanto a la creación de fraccionamientos y su municipalización, condominios, desarrollos inmobiliarios especiales de hasta 2 hectáreas, así como el control del cumplimiento de las obligaciones de los fraccionadores y promoventes de los condominios y desarrollos inmobiliarios especiales;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XVII. Coordinar la participación del Consejo de Desarrollo Urbano y Rural en cuanto a las atribuciones que le otorga el Código Urbano para el Estado y la Ley Municipal del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XVIII. Administrar el control urbano con el otorgamiento de las autorizaciones de alineamiento y compatibilidad urbanística, fraccionamientos, condominios, desarrollo (sic) inmobiliarios especiales, subdivisiones no mayores a 2 hectáreas, fusión y relotificación de predios o lotes, así como las licencias para construcción hasta de 3,000 metros cuadrados, remodelación y demolición de fincas con el apoyo de la Coordinación de Protección Civil y Bomberos; así como la expedición de números oficiales y permisos para anuncios, podas y talas de árboles, conforme a lo estipulado en el Código Municipal, Reglamentos y el Código Urbano;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2017)</small>
 
 XIX. Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y uso de la vía pública;
 
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
 XX. Llevar un registro de peritos, así como asignar peritajes por servicio social en los casos que prevé este Código;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2017)</small>
 
 XXI. Inspeccionar obras, edificios y construcciones en general;
 
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
 XXII. Verificar el uso que se está dando a un predio, edificio o construcción, y que éste se ajuste a las características previamente registradas;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2017)</small>
 
 XXIII. Acordar las medidas que fueren procedentes en relación con las edificaciones peligrosas, que generen insalubridad o causen molestias;
 
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
 XXIV. Ordenar la realización de visitas de inspección y la aplicación de medidas de seguridad;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2017)</small>
 
 XXV. Imponer las sanciones por violación a las normas en materia de desarrollo urbano;
 
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
 XXVI. Solicitar el auxilio de la fuerza pública, cuando fuese necesario para hacer cumplir sus determinaciones;
 
-XXVII. Expedir normas técnicas complementarias para el debido cumplimiento en lo relativo a las construcciones;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XXVIII. Proponer y vigilar el establecimiento del registro de programas y esquemas de desarrollo urbano en el Gobierno Municipal;
+XXVII. Expedir los reglamentos de planificación y desarrollo urbano para el debido cumplimiento en lo relativo a las construcciones;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XXVIII. Proponer y vigilar el establecimiento del registro de esquemas y programas de desarrollo urbano en el Gobierno Estatal y en la Dirección de Desarrollo Urbano y Planificación Territorial;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2017)</small>
 
 XXIX. Realizar acciones tendientes a la educación ambiental en el Municipio, en su caso, en colaboración con las instituciones educativas y culturales;
 
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
 XXX. Fomentar las acciones tendientes a un adecuado aprovechamiento de los recursos naturales en el Municipio, buscando en todo el desarrollo municipal sustentable;
 
-XXXI. Promover campañas de reciclaje ecológico y de limpieza de ríos y afluentes y demás lugares afectados por basuras o desechos;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XXXII. Autorizar, ordenar, controlar y retirar el mobiliario urbano;
+XXXI. Promover campañas de limpieza de ríos, afluentes y demás lugares afectados por basuras o desechos;
 
-XXXIII. Expedir autorización de uso de suelo a estacionamientos públicos;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XXXIV. Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XXXII. Autorizar, ordenar, controlar y retirar el mobiliario urbano que este en aparente desuso o en malas condiciones;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XXXIII. Expedir autorización de uso del suelo a estacionamientos públicos y privados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2023)</small>
+
+XXXIV. Coordinar en conjunto con la Dirección de Obras Públicas los concursos de proyectos urbanos y arquitectónicos que se celebren en el ámbito municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2023)</small>
+
+XXXV. Elaborar, actualizar o modificar el Programa Sectorial de Movilidad para el Municipio de San José de Gracia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2023)</small>
+
+XXXVI. Elaborar el programa de ordenamiento ecológico para el Municipio de San José de Gracia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2023)</small>
+
+XXXVII. Elaborar en conjunto con la Coordinación de Protección Civil y Bomberos el Atlas de Riesgos para el Municipio de San José de Gracia;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XXXVIII. Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por medio del o la Presidente Municipal por conducto del Director de Desarrollo Urbano y Planificación Territorial;
 
 #### SECCIÓN DÉCIMO SEGUNDA. Dirección de Turismo
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 156.
 
 Corresponde a la Dirección de Turismo:
 
-I. Formular programas para fomentar el desarrollo y atención del turismo en el Municipio;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+I. Formular programas para fomentar el desarrollo y atención del turismo en el Municipio en coordinación con la Dirección de Desarrollo Urbano y Planificación Territorial;
 
 II. Estimular la corriente turística con el objeto de incrementar su afluencia al Municipio, difundiendo entre los visitantes las costumbres, tradiciones y patrimonio cultural del Municipio, así como sus recursos y atractivos turísticos;
 
 III. Dentro del ámbito de su competencia, fomentar y apoyar ferias, convenciones y eventos populares de carácter internacional, regionales, estatales y municipales, así como exposiciones de artesanías y eventos artísticos; además la creación y en su caso promoción de centros de recreo, de caza y pesca, organizar competencias y exhibiciones deportivas, etc;
 
-IV. Propiciar el desarrollo en materia turística, de las diferentes delegaciones municipales;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+IV. Propiciar el desarrollo en materia turística, de las diferentes localidades del municipio;
 
 V. Fomentar la inversión turística estatal, nacional e internacional en el Municipio de San José de Gracia;
 
-VI. Promover el desarrollo de adecuadas y nuevas zonas turísticas;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VI. Promover el desarrollo de adecuadas y nuevas zonas turísticas, con base a los esquemas y programas de desarrollo urbano del municipio de San José de Gracia;
 
 VII. Proporcionar a los turistas, gratuitamente información general, y orientación legal que requieran;
 
-VIII. Propugnar por la conservación de estilos arquitectónicos armónicos en las zonas y centro de atracción turística;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VIII. Propugnar por la conservación de estilos arquitectónicos armónicos de la zona centro y de las zonas de atracción turística con base al Reglamento de Imagen Urbana;
 
 IX. Establecer mecanismos de apoyos a las empresas y prestadores de servicios turísticos, para que amplíen y mejoren la calidad de sus servicios y generen mayores empleos, así como a quienes realicen nuevas inversiones que apunten al turismo;
 
@@ -2429,15 +2539,21 @@ XI. Apoyar y gestionar ante las diferentes instancias el acceso oportuno y efica
 
 XII. Vigilar, organizar y verificar el cumplimiento de las medidas de asistencia, auxilio y protección de turista, así como participar en coordinación con las dependencias involucradas en acciones de auxilio en caso de emergencia o desastre;
 
-XIII. Garantizar a las personas con capacidades diferentes la igualdad de oportunidades dentro de los programas de desarrollo del sector turismo, en un marco de equidad de género;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XIV. Participar, apoyar y realizar estudios técnicos previos a zonas y áreas aptas para el desarrollo turístico, orientados a la preservación y protección del medio ambiente y la ecología del Municipio;
+XIII. Garantizar a las personas con discapacidad y de tercera edad la igualdad de oportunidades dentro de los programas de desarrollo del sector turismo, en un marco de equidad de género;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XIV. Participar, apoyar y realizar estudios técnicos previos a zonas y áreas aptas para el desarrollo turístico, orientados a la preservación y protección del medio ambiente del Municipio;
 
 XV Suscribir convenios de colaboración con otras dependencias públicas y entidades y con los sectores social y privado para la realización de programas y acciones específicas;
 
 XVI. Establecer y operar un sistema de señalización turística en coordinación con las autoridades competentes con el objeto de facilitar el acceso de los turistas a las zonas y centros turísticos del Municipio;
 
-XVII. Patrocinar y estimular los centros de capacitación y adiestramiento para preparar personal especializado en todas las ramas relacionadas con el turismo;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XVII. Patrocinar y estimular los centros de capacitación y adiestramiento para preparar personal especializado en todas las ramas relacionadas con el sector turismo;
 
 XVIII. Hacer uso de los medios de comunicación y publicitarios, así como de la tecnología a su alcance, para producir diferente material, difundirlo y orientar al turista potencial; incluyendo el establecimiento de casetas de información diversa que tiendan a incrementar la corriente turística;
 
@@ -2895,9 +3011,11 @@ III. Se establecerán las relaciones de los programas con el presupuesto de egre
 
 El Plan Municipal de Desarrollo y sus programas harán referencia a los mecanismos de coordinación entre las diferentes instancias de Gobierno y a las acciones que podrán concertarse e inducirse como resultado de la participación democrática de la sociedad.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 204.
 
-En la elaboración del Plan de Desarrollo Municipal, los Ayuntamientos proveerán lo necesario para promover la participación y consulta popular.
+En la elaboración del Plan de Desarrollo Municipal, el Ayuntamiento proveerá lo necesario para promover la participación y consulta popular.
 
 ###### ARTÍCULO 205.
 
@@ -2993,9 +3111,11 @@ Ninguna autoridad municipal deberá intervenir en la vida interna de las asociac
 
 El Municipio se coordinará con estas asociaciones para la promoción de obras por cooperación, en las cuales los vecinos pagaran una parte del costo de la obra, y la otra deberá ser cubierta por el propio Municipio o por otras entidades de gobierno.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 227.
 
-El Municipio, a través de la Dirección de Desarrollo Social, se coordinará con las asociaciones de vecinos para la promoción y análisis de obras por cooperación, las cuales deberán ser aprobadas por los vecinos en términos de los siguientes artículos.
+El Municipio, a través de la Dirección de Desarrollo Social, se coordinará con las asociaciones de vecinos para la promoción y análisis de obras por cooperación, las cuales deberán ser aprobadas por los vecinos.
 
 ###### ARTÍCULO 228.
 
@@ -4453,9 +4573,11 @@ V. Distancias interpostales: treinta y cinco metros máxima; y,
 
 VI. Distribución: unilateral, bilateral tres bolillo y bilateral pareada.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 405.
 
-La Dirección de Servicios Públicos Municipales y Ecología podrá autorizar la instalación de faroles con requerimientos distintos a los señalados en el artículo anterior siempre y cuando las características de la calle lo justifiquen y exista un dictamen técnico favorable.
+La Dirección de Servicios Públicos Municipal podrá autorizar la instalación de faroles con requerimientos distintos a los señalados en el artículo anterior siempre y cuando las características de la calle lo justifiquen y exista un dictamen técnico favorable.
 
 ### CAPÍTULO III. De la Limpia, Recolección y Disposición Final de Residuos
 
@@ -4477,13 +4599,17 @@ Se entiende por servicio público de limpia la recolección, manejo, tratamiento
 
 El funcionamiento de los mercados y tianguis constituye un servicio público de interés social, y tiene por objeto facilitar a la población del Municipio el acceso a la oferta de productos de consumo generalizado que satisfagan sus necesidades básicas, cuya prestación deberá supervisar y reglamentar el H. Ayuntamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 410.
 
 Para los efectos del presente capítulo se considera:
 
 I. MERCADO PÚBLICO MUNICIPAL: Al lugar o local que sea propiedad del Municipio, donde concurren una diversidad de comerciantes y consumidores en libre competencia, cuya oferta y demanda se refieran primordialmente a artículos de primera necesidad;
 
-II. TIANGUIS: Lugar o espacio determinado en la vía pública o terreno especifico en el que se ejerce una actividad de comercio, con el fin de atender las necesidades de las colonias aledañas, una o dos veces por semana y con número mínimo de quince puestos;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+II. TIANGUIS o MERCADO SOBRE RUEDAS: Lugar o espacio determinado en la vía pública o terreno especifico en el que se ejerce una actividad de comercio, con el fin de atender las necesidades de las colonias, barrios o fraccionamientos aledañas, una o dos veces por semana y con número mínimo de quince puestos;
 
 III. VIA PÚBLICA: Todo espacio de uso común, que por disposición de la autoridad competente, sea destinado al libre tránsito sobre el cual se localiza la infraestructura y mobiliario urbano;
 
@@ -4497,7 +4623,9 @@ VII. PADRON DE LOCATARIOS: Es el registro de comerciantes o locatarios de mercad
 
 VIII. LICENCIA: Documento público intransferible que otorga a su titular el derecho a ejercer el comercio por tiempo determinado, en un local o piedra, dentro de un mercado, con los derechos y obligaciones que en el mismo se especifiquen; y,
 
-IX. PERMISO: Documento público intransferible que autoriza a su titular, a ejercer el comercio por tiempo determinado, en un lugar asignado en la vía pública con los derechos y obligaciones que en el mismo se especifiquen.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+IX. PERMISO: Documento público intransferible que autoriza a su titular, a ejercer el comercio por tiempo determinado, en un lugar asignado en un tianguis o mercado sobre ruedas o en la vía pública con los derechos y obligaciones que en el mismo se especifiquen.
 
 ###### ARTÍCULO 411.
 
@@ -4667,9 +4795,11 @@ El horario anterior podrá ser modificado por la autoridad municipal de acuerdo 
 
 Los límites del tianguis quedarán definidos por la autoridad municipal mismos que serán señalados en la vía pública y sólo se permitirá su crecimiento previo acuerdo del H. Ayuntamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 424.
 
-Para la autorización de nuevos tianguis o su reubicación en la vía pública, se deberá contar con el dictamen de la autoridad competente y con la aprobación del H. Cabildo, además de agotar los requisitos siguientes:
+Para la autorización de nuevos tianguis o su reubicación en la vía pública, se deberá contar con el dictamen de la Dirección de Desarrollo Urbano y Planificación Territorial y con la aprobación del H. Cabildo, el cual deberá de estar correspondiente al programa de desarrollo urbano o esquema de desarrollo urbano vigente, además de cumplir los requisitos siguientes:
 
 I. Considerar alternativas de vialidad;
 
@@ -6723,6 +6853,8 @@ IV. El Código de Procedimientos Civiles del Estado de Aguascalientes, para efec
 
 En el Municipio, el tránsito y uso de la vía pública se sujetarán a las normas que establecen la Constitución Política de los Estados Unidos Mexicanos, la de Aguascalientes, la Ley Municipal para el Estado de Aguascalientes, la Ley de Movilidad del Estado, el presente Libro y demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 676.
 
 El H. Ayuntamiento, por si, o a través de la Dirección, podrá:
@@ -6735,15 +6867,23 @@ II. Establecer acuerdos de coordinación con las Autoridades Federales, y del Es
 
 III. Ejercer, conforme a las bases de coordinación que celebre el Municipio con las dependencias de la Administración Pública Federal y Estatal competentes, las funciones de prevención, control y sanción en los tramos de caminos de jurisdicción federal y estatal comprendidos en el Municipio;
 
-IV. Efectuar la planeación de la red de vías públicas y caminos de jurisdicción local;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-V. Establecer las limitaciones para el uso y aprovechamiento de las vías públicas;
+IV. Efectuar la planeación de la red de vías públicas y caminos de jurisdicción local en conjunto con la Dirección de Desarrollo Urbano y Planificación Territorial;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+V. Establecer las limitaciones para el uso y aprovechamiento de las vías públicas en conjunto con la Dirección de Desarrollo Urbano y Planificación Territorial;
 
 VI. Realizar la vigilancia sobre los vehículos para que cuando circulen lo hagan con los elementos, equipo, condiciones y limitaciones de seguridad;
 
-VII. Establecer señales, marcas, disposiciones y sistemas adecuados para el control del tránsito local;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-VIII. Emitir opiniones sobre la ubicación de sitios, estaciones y terminales de vehículos de servicio público de transporte local;
+VII. Establecer señales, marcas, disposiciones y sistemas adecuados para el control del tránsito local con base al manual de calles mexicanas o en su caso por el reglamento de señalización vial y de su manual;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VIII. Emitir opiniones sobre la ubicación de sitios, estaciones y terminales de vehículos de servicio público de transporte local en conjunto con la Dirección de Desarrollo Urbano y Planificación Territorial;
 
 IX. Adoptar las medidas de emergencia en situación de alteración del orden público o accidentes;
 
@@ -6751,7 +6891,9 @@ X. Fomentar la educación vial;
 
 XI. Disponer acerca del cierre de dos tramos de vías públicas al tránsito de vehículos a fin de destinarlos exclusivamente al tránsito peatonal;
 
-XII. Regular la construcción de rampas para personas de capacidades diferentes que requieran sillas de ruedas u otro medio para su traslado en las calles y banquetas;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XII. Regular la construcción de rampas para personas discapacitadas que requieran sillas de ruedas u otro medio para su traslado en las calles y banquetas;
 
 XIII. Ordenar el cierre del tránsito de vehículos, semovientes y peatones en determinadas vías publicas con motivo de la ejecución de obras;
 
@@ -6759,7 +6901,9 @@ XIV. Ordenar el cierre de tránsito de vehículos en casos de actos cívicos o f
 
 XV. Fijar horarios y restricciones en ciertas vías públicas para el tránsito de determinada clase de vehículos que puedan afectar los pavimentos, servicios públicos o entorpecer el tránsito de los demás vehículos;
 
-XVI. Determinar la conveniencia en la instalación en los centros de población de vías generales de comunicación, oleoductos, gasoductos, acueductos, canales y en general toda clase de redes de transportación y distribución, con la intervención que corresponda a las autoridades federales;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XVI. Determinar la conveniencia en la instalación en los centros de población de vías generales de comunicación, oleoductos, gasoductos, acueductos, canales y en general toda clase de redes de transportación y distribución, con la intervención que corresponda a las autoridades federales, con base a los programas o esquemas de desarrollo urbano correspondiente;
 
 XVII. Regular lo relativo a vehículos de tracción animal y los movimientos de hatos de animales en las vías públicas;
 
@@ -6773,9 +6917,11 @@ XXI. Realizar operativos preventivos de conducción de vehículos, de conformida
 
 XXII. Las demás que sean del ámbito de su competencia, de conformidad con la legislación vigente en el Estado.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 677.
 
-Son de competencia municipal las vías públicas ubicadas dentro de los límites de los centros de población del Municipio y aquellos caminos que no sean de competencia federal o estatal.
+Son de competencia municipal las vías públicas ubicadas dentro de los límites de los centros de población del Municipio y aquellos caminos que no sean de competencia federal o estatal, indicados en los esquemas o programas de desarrollo urbano correspondiente.
 
 ###### ARTÍCULO 678.
 
@@ -6803,17 +6949,21 @@ Las licencias para conducir vehículos de motor estatales serán expedidas por l
 
 ### CAPÍTULO III. De la Circulación en las Vías Públicas
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 683.
 
-Los responsables de la conducción de animales a pie, se abstendrán de mover sus hatos en las vías públicas de las zonas urbanas del Municipio, en horas en que se afecte el tránsito de vehículos o produzca riesgo para los peatones.
+Los responsables de la conducción de animales a pie, se abstendrán de mover sus hatos en las vías públicas de los centros de población indicados en los programas o esquemas y de desarrollo urbano correspondiente del Municipio, en horas en que se afecte el tránsito de vehículos o produzca riesgo para los peatones.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 684.
 
-Con objeto de fomentar el uso de la bicicleta, el Ayuntamiento realizará, en la medida de lo posible, la adaptación de ciclopistas o ciclovías en las arterias públicas, previo estudio que determine la Dirección.
+Con objeto de fomentar el uso de la bicicleta, el Ayuntamiento realizará, en la medida de lo posible, la adaptación de ciclo vías en las vialidades que así lo permita indicadas en los esquemas o programas de desarrollo urbano correspondientes, previo estudio que determine la Dirección en conjunto con la Dirección de Desarrollo urbano y Planificación Territorial.
 
-En las bicicletas que transiten fuera de ciclopista, sólo podrá viajar su conductor, salvo aquéllas de fabricación especial para ser accionadas por más de una persona.
+Los ciclistas que transiten fuera de ciclo vía, sólo podrá viajar su conductor, salvo aquéllas de fabricación especial para ser abordadas por más de una persona.
 
-En las vías de circulación en las que la Dirección establezca o adapte carriles como ciclopistas, los conductores de vehículos automotores deberán respetar el derecho de tránsito y darán preferencia a los ciclistas que transiten por ellas.
+En las vías de circulación en las que la Dirección en conjunto con la Dirección de Desarrollo Urbano y Planificación Territorial, establezca o adapte carriles como ciclo vías, los conductores de vehículos automotores deberán respetar el derecho de tránsito y darán preferencia a los ciclistas que transiten por ellas.
 
 ###### ARTÍCULO 685.
 
@@ -6935,9 +7085,11 @@ III. En igualdad de circunstancias de ancho y flujo vehicular, cuando al cruce s
 
 La Dirección, en coordinación con la Dirección de Servicios Públicos, podrá autorizar a los particulares la colocación temporal de boyas, topes, macetones o cualquier otro objeto fijo o semifijo en la vía pública, en tanto no haya afectación de interés público. La Dirección determinará las especificaciones de estos objetos, su ubicación y demás particularidades, coordinadamente con la Dirección de Servicios Públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 696.
 
-A propuesta de la Dirección, el H. Ayuntamiento solicitará a la Autoridad del Transporte Público el cambio de ubicación de cualquier sitio, base de servicio o cierre de circuito, o la revocación de las autorizaciones otorgadas en los siguientes casos:
+A propuesta de la Dirección en conjunto con la Dirección de Desarrollo Urbano y Planificación Territorial, el H. Ayuntamiento solicitará a la Coordinación General de Movilidad del Estado el cambio de ubicación de cualquier sitio, base de servicio o cierre de circuito, o la revocación de las autorizaciones otorgadas en los siguientes casos:
 
 I. Cuando se originen molestias al público y obstaculicen la circulación de peatones o vehículos;
 
@@ -6947,11 +7099,11 @@ III. Cuando se alteren las tarifas; y,
 
 IV. Por causa de interés público.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 697.
 
-La Dirección propondrá a la Autoridad del Transporte Público la ubicación de las paradas en la vía pública que deberán utilizarlos vehículos que presten el servicio público de transporte de pasajeros con itinerario fijo, las cuales deberán contar en lo posible, con cobertizos, bancas y zonas delimitadas de ascenso y descenso en los lugares en que las banquetas lo permitan.
-
-Los vehículos que presten el servicio de transporte de pasajeros suburbanos foráneos, sólo podrán levantar pasaje en su Terminal o en los sitios expresamente autorizados para ello, a falta de éstos, en los sitios donde se venga realizando por costumbre.
+La Dirección (sic) conjunto con la Dirección de Desarrollo Urbano y Planificación Territorial propondrá a la Coordinación General de Movilidad del Estado la ubicación de las paradas en la vía pública que deberán utilizarlos (sic) vehículos que presten el servicio público de transporte de pasajeros con itinerario fijo, las cuales deberán contar en lo posible, con cobertizos, bancas y zonas delimitadas de ascenso y descenso en los lugares en que las banquetas lo permitan.
 
 ### CAPÍTULO V. De los Controles Administrativos
 
@@ -6965,9 +7117,13 @@ II. Responsables de hechos de tránsito; y,
 
 III. Responsables de hechos de tránsito cometidos bajo el influjo del alcohol o las drogas.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 699.
 
 La Dirección registrará y publicará periódicamente los datos estadísticos relativos al número y tipo de accidentes, su causa, número de muertos y lesionados, así como el importe estimado de los daños materiales. También registrará los datos relativos a las infracciones cometidas por los conductores.
+
+En caso de ser necesario se deberá de georreferenciar para fácil acceso y entendimiento de dichos datos estadísticos.
 
 ###### ARTÍCULO 700.
 
@@ -7377,6 +7533,8 @@ III. Inventarios y Directorios de Recursos Materiales y Humanos del Municipio.
 
 En términos de lo señalado en los artículos anteriores, el H. Ayuntamiento nombrará la comisión encargada de regular el Sistema Municipal de Protección Civil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 758.
 
 Son obligaciones y atribuciones de la Comisión de Protección Civil:
@@ -7389,7 +7547,9 @@ III. La vigilancia estricta de que los organismos, instancias y dependencias que
 
 IV. Promover y fomentar la superación técnica y cultural de los elementos de protección civil, en los que se capten y canalicen los puntos de vista y peticiones de la ciudadanía;
 
-V. Formar parte de los consejos o comités que se formen en materia de protección civil, en los que se capten y canalicen los puntos de vista y peticiones de la ciudadanía;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+V. Supervisar la elaboración y edición de un historial de riesgos en el Municipio derivado del Atlas de Riesgos Municipal;
 
 VI. Vigilar que se establezca un sistema de información periódica de la actuación del personal de protección civil; y en el caso de que éstos incurran en faltas en el desempeño de sus funciones, o en la comisión de delitos, que se apliquen por la autoridad competente las sanciones que legalmente correspondan;
 
@@ -7398,6 +7558,10 @@ VII. Emitir el dictamen correspondiente a la reglamentación que establezca la o
 VIII. Visitar periódicamente, por lo menos dos veces al mes, las diferentes áreas de dirección, sectores y módulos, a efecto de detectar las necesidades y la forma operativa de los mismos; y,
 
 IX. Promover la difusión de actividades tales como simulacros, para la Protección Civil, impulsando el interés de la ciudadanía en participar activamente en dicha Unidad.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2023)</small>
+
+XVI (SIC). Constituir en las Colonias, barrios o fraccionamientos y localidades los Comités de Protección Civil y dar seguimiento y asesoría a los mismos;
 
 ### CAPÍTULO II. Del Consejo Municipal de Protección Civil
 
@@ -7477,11 +7641,11 @@ XXIII. Proponer al Cabildo Municipal, el presupuesto de egresos necesarios para 
 
 XXIV. Las demás que sean necesarias para la consecución de los objetivos del propio Consejo, señalados en las leyes o reglamentos y/o que le encomiende el Presidente Municipal.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 762.
 
-El Consejo se reunirá en sesiones ordinarias y extraordinarias, en Comités (por función o por fenómeno) o en pleno, a convocatoria de su Presidente, en plazos y forma que el propio Consejo establezca, misma (sic) que serán encabezadas por su Presidente y en su ausencia por el Secretario Ejecutivo.
-
-El reglamento interior del consejo dispondrá lo relativo a la frecuencia de sus reuniones, procedimientos para ratificar o relevar a los representantes, integración de comisiones, en su caso, y las normas que regulen el funcionamiento del pleno, tal reglamento deberá ser aprobado por el propio consejo.
+El Consejo se reunirá en sesiones ordinarias y extraordinarias, en Comités (por función o por fenómeno) o en pleno, a convocatoria de su Presidente, en plazos y forma que el propio Consejo establezca, mismas que serán encabezadas por su Presidente y en su ausencia por el Secretario Ejecutivo.
 
 ###### ARTÍCULO 763.
 
@@ -8021,6 +8185,8 @@ Las infracciones cometidas al presente ordenamiento se sancionarán con el equiv
 
 ### CAPÍTULO I. De las Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 806.
 
 La ordenación y regulación del Desarrollo Urbano y la vivienda, en el Municipio de San José de Gracia, se normarán conforme a lo dispuesto por:
@@ -8033,45 +8199,73 @@ III. Los programas de desarrollo urbano y vivienda;
 
 IV. Las provisiones, reservas, usos y destinos de áreas y predios autorizados;
 
-V. Las delimitaciones de conurbación, de conservación y de mejoramiento;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-VI. Las constancias de compatibilidad urbanística:
+V. Las delimitaciones de conservación y de mejoramiento;
 
-VII. Las resoluciones, criterios y normas que expidan las autoridades municipales competentes;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-VIII. Las autorizaciones, permisos, licencias, concesiones y constancias que expidan las autoridades municipales competentes; y,
+VI. Las constancias de alineamiento y compatibilidad urbanística:
 
-IX. Las demás leyes, reglamentos y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VII. Las resoluciones, criterios, observaciones y reglamentos que expida la Dirección de Desarrollo Urbano y Planificación Territorial;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VIII. Las autorizaciones, permisos, licencias, concesiones y constancias que expida la Dirección de Desarrollo Urbano y Planificación Territorial; y,
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+IX. Los demás reglamentos y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 807.
 
-Las autorizaciones, licencias, permisos, concesiones y constancias en materia de desarrollo urbano, deberán tomar en cuenta, según el caso, los siguientes aspectos:
+Las autorizaciones, licencias, permisos, concesiones y constancias en materia de desarrollo urbano, deberán tomar en cuenta, según el caso, los siguientes criterios u observaciones:
 
 I. Las zonas, áreas y predios en que se permitan;
 
-II. Los diferentes tipos de fraccionamientos o condominios en función de su uso o destino;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-III. Los índices de densidad de población y de construcción;
+II. Los diferentes tipos de fraccionamientos, condominios o desarrollos inmobiliarios especiales y subdivisiones de hasta 2has. en función del uso del suelo
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+III. Los índices en materia de densidad de población de construcción, de ocupación y utilización del suelo;
 
 IV. La organización y control de la infraestructura vial, del tránsito, de los estacionamientos y del sistema de transporte;
 
 V. La dotación adecuada y suficiente de equipamiento e infraestructura y la debida prestación de servicios;
 
-VI. Las especificaciones relativas a las características y dimensiones de los lotes o predios;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-VII. Los usos y destinos, reservas y provisiones de las áreas y predios, previstos en la legislación y programas de desarrollo urbano;
+VI. Las especificaciones relativas a las características y dimensiones de los lotes o predios definidos en los esquemas y programas de desarrollo urbano aplicables;
 
-VIII. El alineamiento oficial y las compatibilidades urbanísticas;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-IX. Las especificaciones de construcción que por cada tipo de obra o servicio se señalen en las disposiciones legales aplicables;
+VII. Los usos, destinos, reservas y provisiones de las áreas y predios, previstos en la legislación y los esquemas y programas de desarrollo urbano aplicables;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VIII. El alineamiento oficial y la compatibilidad urbanísticas (sic) de los predios y lotes;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+IX. Las especificaciones de construcción que por cada tipo de obra o servicio se señalen en los reglamentos o en los esquemas y programas de desarrollo urbano aplicables;
 
 X. La capacidad de servicio de las redes de infraestructura y del equipamiento urbano existentes o por construirse;
 
 XI. La adecuación de cada proyecto a la topografía y a las características del suelo, a fin de no permitir la ejecución de obras o proyectos en zonas no aptas para el desarrollo urbano;
 
-XII. La congruencia de proyectos con la estructura urbana de los centros de población;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XIII. El impedir la dispersión de los fraccionamientos o de los condominios, para evitar su desarticulación con la red básica de servicios públicos;
+XII. La congruencia de proyectos con la estructura urbana de los centros de población descrita en los esquemas y programas de desarrollo urbano aplicables
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XIII. El impedir la dispersión de los fraccionamientos de los condominios y desarrollo (sic) inmobiliarios especiales, así como las subdivisiones de hasta 2 hectáreas, para evitar su desarticulación con la red básica de servicios públicos;
 
 XIV. La protección del ambiente y de las zonas arboladas;
 
@@ -8083,11 +8277,17 @@ XVII. El fomento de la investigación y la aplicación de tecnologías adecuadas
 
 XVIII. La imagen urbana y el control de anuncios;
 
-XIX. Las dimensiones y medidas del lote o predio tipo autorizado de acuerdo a la zonificación;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XX. Las características de los fraccionamientos, condominios, colonias o barrios;
+XIX. Las dimensiones y medidas del lote tipo autorizado de acuerdo a los reglamentos en la materia o en lo indicado en los esquemas o programas de desarrollo urbano aplicables;
 
-XXI. La protección del patrimonio cultural y natural del Estado;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XX. Las características de los fraccionamientos, condominios, desarrollos inmobiliarios especiales, colonias, barrios o barrios (sic);
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XXI. La protección del patrimonio cultural y natural dentro del municipio y los correspondientes del Estado;
 
 XXII. La racionalidad en el aprovechamiento de las fuentes de abastecimiento de agua;
 
@@ -8097,49 +8297,79 @@ XXIV. El contexto urbano, la proyección de sombras y las características de la
 
 XXV. Los antecedentes del constructor, fraccionador o promovente, así como su solvencia económica que garantice el exacto cumplimiento de los proyectos;
 
-XXVI. Las normas de urbanización y construcción, y las características de la vivienda;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XXVII. Las especificaciones en la construcción que garanticen la seguridad de las obras contra los efectos de los fenómenos naturales, tales como sismos, inundaciones, fracturamiento del suelo y otros análogos;
+XXVI. Las características para la urbanización y construcción, y las características de la vivienda;
 
-XXVIII. Las cartas urbanas que contengan las fallas geológicas detectadas y los estudios sobre el comportamiento dinámico de las grietas y de los movimientos tectónicos; y,
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XXIX. Todos aquellos lineamientos, criterios o normas técnicas que se deriven de la legislación y programas en materia de desarrollo urbano y vivienda y demás disposiciones jurídicas aplicables.
+XXVII. Las especificaciones en la construcción que garanticen la seguridad de las obras contra los efectos de los fenómenos naturales, tales como sismos, inundaciones, fracturamiento del suelo y otros análogos; y,
+
+XXVIII. (DEROGADA, P.O. 1 DE MAYO DE 2023)
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XXIX. Todos aquellos lineamientos, criterios o reglamentación que se deriven de la legislación y esquemas o programas de desarrollo urbano y vivienda y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 808.
 
-Todos los actos, contratos y convenios relativos a la propiedad, posesión, aprovechamiento o cualquier otra forma jurídica de tenencia de inmuebles, no podrán alterar el uso, destino, reserva o provisión establecido en los programas de desarrollo urbano municipal aplicables, de conformidad con lo previsto en este ordenamiento y en el Código Urbano para el Estado de Aguascalientes.
+No surtirán efectos los actos, convenios y contratos relativos a la propiedad o cualquier otro derecho relacionado con el aprovechamiento de áreas y predios que contravengan este Código, los reglamentos, los programas y esquemas de desarrollo urbano aplicables.
 
-No surtirán efectos los actos, convenios y contratos relativos a la propiedad o cualquier otro derecho relacionado con el aprovechamiento de áreas y predios que contravengan este Código y los programas de desarrollo urbano.
+No surtirán efectos los permisos, autorizaciones o licencias que contravengan lo establecido en este Código, los reglamentos y en los esquemas o Programas de Desarrollo Urbano aplicables.
 
-No surtirán efectos los permisos, autorizaciones o licencias que contravengan lo establecido en este Código y en los Programas de Desarrollo Urbano.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 809.
 
-Son atribuciones del Ayuntamiento en materia de Desarrollo Urbano:
+Son atribuciones del Ayuntamiento en representado por (sic) la Dirección de Desarrollo Urbano y Planificación Territorial en materia de Desarrollo Urbano:
 
 I. Elaborar, aprobar, ejecutar, controlar, modificar, actualizar y evaluar los programas municipales de desarrollo urbano y de vivienda, así como los demás que de éstos se deriven;
 
-II. Formular y administrar la zonificación y el control de los usos y destinos del suelo que se deriven de la planeación municipal del desarrollo urbano, de conformidad con las normas contenidas en este Código;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-III. Promover y planear el equilibrado desarrollo de las diversas comunidades y centros de población del Municipio, mediante una adecuada planificación y zonificación de los mismos;
+II. Formular y administrar la zonificación, el control de los usos y destinos del suelo que se deriven de la planeación municipal del desarrollo urbano, de conformidad con el reglamento y los contenidos en este Código;
 
-IV. Coordinar el programa Municipal con el Estatal y Nacional de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-V. Promover y determinar conjuntamente con el Gobierno del Estado, con base en los programas de desarrollo urbano y de vivienda, la adquisición y administración de reservas territoriales, para la ejecución de dichos programas;
+III. Promover y planificar el equilibrado desarrollo de las diversas localidades y los centros de población del Municipio, mediante una adecuada planeación de los mismos;
 
-VI. Coordinar con la Secretaria de Planeación y Desarrollo Regional y la Secretaria de Obras Públicas Estatales, la elaboración, ejecución, control y evaluación de los programas de ordenación de zonas conurbadas, regionales y subregionales de desarrollo urbano;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-VII. Controlar y vigilar el aprovechamiento del suelo en sus jurisdicciones territoriales;
+IV. Coordinar la Congruencia Urbanística del Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial con el Programa Estatal y Programa General Nacional de Desarrollo Urbano;
 
-VIII. Proponer al Congreso del Estado la fundación de centros de población, así como la asignación de las categorías administrativas de las localidades, dentro de los límites de su jurisdicción;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-IX. Promover la participación de los sectores social y privado del Municipio en la formulación, ejecución, modificación, actualización y evaluación del Programa Municipal de Desarrollo Urbano y sus derivados;
+V. Promover y determinar conjuntamente con el Gobierno del Estado, con base en los Esquemas o Programas de Desarrollo Urbano Territorial y de Vivienda, la adquisición y administración de reservas territoriales, para la ejecución de dichos programas;
 
-X. Gestionar la inscripción del Programa Municipal de Desarrollo Urbano y sus derivados, en el Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XI. Llevar el registro de los Programas Municipales de Desarrollo Urbano y de vivienda, para su difusión, consulta pública, control y evaluación;
+VI. Coordinar con la Secretaría de Planeación, Participación y Desarrollo y la Secretaría de Obras Públicas Estatales, la elaboración, ejecución, control y evaluación de los programas regionales y subregionales de desarrollo urbano aplicables;
 
-XII. Gestionar y promover el financiamiento para la realización del Programa de Desarrollo Urbano en el Municipio;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VII. Controlar y vigilar el aprovechamiento del suelo en su jurisdicción territorial;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VIII. Proponer al Congreso del Estado la fundación de centros de población, así como la asignación de las categorías administrativas de las localidades y los centros de población, dentro de los límites de su jurisdicción;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+IX. Promover la participación de los sectores social y privado del Municipio en la formulación, ejecución, modificación, actualización y evaluación del Programa Municipal de Desarrollo Urbano y Territorial de Centros de Población y sus derivados;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+X. Gestionar la inscripción del Programa Municipal de Desarrollo Urbano y Territorial de Centros de Población y sus derivados, en el Registro Público de la Propiedad y del Comercio;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XI. Llevar el registro de los Programas Municipales de Desarrollo Urbano y Territorial de Centros de Población y de vivienda y sus derivados, para su difusión, consulta pública, control y evaluación;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XII. Gestionar y promover el financiamiento para la realización de los Programas de Desarrollo Urbano y Territorial de Centros de Población en el Municipio;
 
 XIII. Intervenir en la regularización de la tenencia de la tierra, en coordinación con las dependencias correspondientes;
 
@@ -8149,65 +8379,111 @@ XV. Proponer, gestionar y realizar en coordinación con los Gobiernos Federal y 
 
 XVI. Promover y ejecutar obras para que todos los habitantes del Municipio cuenten con una vivienda digna, equipamiento, infraestructura y servicios adecuados;
 
-XVII. Proponer al Ejecutivo del Estado, la celebración de convenios con la Federación que apoyen los objetivos y finalidades, propuestas en el Programa Municipal de Desarrolló Urbano, que se realicen dentro de su jurisdicción;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XVIII. Verificar que los fraccionadores y promoventes de condominios hayan cubierto los diversos impuestos, aprovechamientos, derechos o contribuciones fiscales municipales que les correspondan; realizando las donaciones respectivas, así como constituido las garantías que les señala este Código u otros ordenamientos legales aplicables;
+XVII. Proponer al Ejecutivo del Estado, la celebración de convenios con la Federación que apoyen los objetivos y finalidades, propuestas (sic) en los Programas de Desarrollo Urbano;
 
-XIX. Llevar el registro de las colonias, fraccionamientos, condominios, barrios y zonas urbanas en el Municipio, así como de las asociaciones que sus habitantes integren;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XX. Emitir opinión sobre la autorización de fraccionamientos y condominios;
+XVIII. Verificar que los fraccionadores y promoventes de fraccionamientos, condominios o desarrollos inmobiliarios especiales hayan cubierto los diversos impuestos, aprovechamientos, derechos o contribuciones fiscales municipales que les correspondan; realizando las donaciones respectivas, así como constituido las garantías que les señala este Código, los reglamento en la materia u otros ordenamientos legales aplicables;
 
-XXI. Determinar las áreas y predios que conforme a este Código deberán donar al Municipio los fraccionadores y promoventes de condominios;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XXII. Determinar el aprovechamiento de las áreas de donación de los fraccionamientos y condominios, en congruencia con lo dispuesto en este Código y en los programas de desarrollo urbano;
+XIX. Llevar el registro de las (sic) barrios, colonias, fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones de hasta 2 hectáreas, las correspondientes zonas urbanas de las localidades y los centros de población en el Municipio, así como de las asociaciones que sus habitantes integren;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XX. autorizar y emitir opinión sobre la autorización de fraccionamientos, condominios o desarrollo (sic) inmobiliarios especiales de hasta 2has.;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XXI. Determinar las áreas o predios que, conforme a este Código y los reglamentos correspondientes, deberán donar al Municipio los promoventes de fraccionamientos, condominios o desarrollo (sic) inmobiliarios especiales;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XXII. Determinar el aprovechamiento de las áreas de donación, en congruencia con lo dispuesto en este Código y los reglamentos en la materia y en los esquemas y programas de desarrollo urbano vigentes;
 
 XXIII. Municipalizar los fraccionamientos, cuando se hayan cubierto los requisitos legales;
 
 XXIV. Vigilar que, en los fraccionamientos que no hayan sido municipalizados, los fraccionadores presten adecuada y suficientemente los servicios a que se encuentran obligados conforme a este Código y la autorización respectiva;
 
-XXV. Promover o ejecutar fraccionamientos populares o de interés social y condominios de orden público;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XXVI. Impedir, en coordinación con la Secretaría de Planeación y Desarrollo Regional del Estado (SEPLADE), el establecimiento de asentamientos humanos irregulares y de fraccionamientos o condominios al margen de la ley;
+XXV. Promover o ejecutar fraccionamientos populares o de interés social o condominios de orden público o privados de hasta 2 hectáreas.; (sic)
 
-XXVII. Controlar que el desarrollo urbano municipal sea equilibrado, para que beneficie en forma efectiva a las diferentes partes del Municipio, evaluando periódicamente los resultados obtenidos;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XXVIII. Autorizar las solicitudes de relotificación, fusión y subdivisión de predios en los casos de su competencia y conforme a lo dispuesto en este Código;
+XXVI. Impedir, en coordinación con la Secretaría de Planeación, Participación y Desarrollo del Estado (SEPLAPDE), el establecimiento de asentamientos humanos irregulares, fraccionamientos, condominios, desarrollo inmobiliario (sic) especiales o subdivisiones al margen de la ley;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XXVII. Controlar que el desarrollo urbano dentro del territorio municipal sea equilibrado, para que beneficie en forma efectiva a las diferentes partes del Municipio, evaluando periódicamente los resultados obtenidos;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XXVIII. Autorizar las solicitudes de relotificación, fusión y subdivisión de predios conforme a lo dispuesto en este Código y los reglamentos en materia urbana de hasta 2 hectáreas;
 
 XXIX. Otorgar licencias y permisos para construcción, remodelación, ampliación y demolición de inmuebles, así como para la colocación y retiro de anuncios;
 
-XXX. Expedir las constancias de compatibilidad urbanística;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XXXI. Elaborar las cartas urbanas que contengan las fallas geológicas detectadas y sus posibles ramificaciones, mismas que deberán actualizarse periódicamente;
+XXX. Expedir las constancias de alineamiento y compatibilidad urbanística;
 
-XXXII. Controlar las acciones, obras y servicios que se ejecuten en el Municipio para que sean compatibles con la legislación y programas aplicables;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XXXIII. Vigilar el cumplimiento y aplicación de las disposiciones legales en materia de asentamientos humanos, desarrollo urbano, vivienda y transporte en su jurisdicción;
+XXXI. Elaborar en caso de detectarse las cartas urbanas que contengan las fallas geológicas y sus posibles ramificaciones, mismas que deberán actualizar periódicamente;
 
-XXXIV. Calificar en el ámbito de su competencia, las infracciones e imponer las medidas de seguridad y sanciones que establece este Código y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XXXII. Controlar las acciones, aprovechamientos, obras y servicios que se ejecuten en las localidades y centros de población dentro del Municipio para que sean compatibles con los reglamentos y programas y esquemas de desarrollo urbano aplicables;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XXXIII. Vigilar el cumplimiento y aplicación de las disposiciones legales en materia de asentamientos humanos, desarrollo urbano, vivienda;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XXXIV. Calificar en el ámbito de su competencia, las infracciones e imponer las medidas de seguridad y sanciones que establece este Código y los reglamentos en materia urbana y demás disposiciones jurídicas aplicables;
 
 XXXV. Resolver sobre los recursos administrativos que conforme a su competencia les sean planteados; y,
 
-XXXVI. Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-### CAPÍTULO II. De la Planeación del Desarrollo Urbano Municipal
+XXXVI. Las demás que les señalen este Código, los reglamentos en materia urbana y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MAYO DE 2023)</small>
+
+### CAPÍTULO II. De la Planificación del Desarrollo Urbano y Ordenamiento Territorial Municipal
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 810.
 
-La planeación y regulación de la fundación, conservación, mejoramiento y crecimiento de los centros de población, y del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población, constituyen las acciones fundamentales a fin de lograr un desarrollo armónico y equilibrado en todo el territorio estatal.
+La planificación y regulación de la fundación, conservación, mejoramiento y crecimiento de los asentamientos humanos y del ordenamiento territorial y del desarrollo urbano, constituyen las acciones fundamentales a fin de lograr un desarrollo armónico y equilibrado en todo el territorio estatal.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 811.
 
-Para los efectos del presente Código, se entiende por planeación urbana la ordenación y regulación de los asentamientos humanos en la Entidad, a través de acciones, inversiones, obras y servicios, que con base en el ejercicio de las atribuciones de las autoridades competentes en materia de fundación, conservación, mejoramiento y crecimiento de los centros de población, tienen como propósito alcanzar el desarrollo urbano estatal y municipal, de conformidad con lo que establece este Código y con los objetivos, metas, políticas e instrumentos previstos en los programas de desarrollo urbano y en la determinación de provisiones, reservas, usos y destinos de áreas y predios.
+Para los efectos del presente Código, se entiende por planeación urbana a la ordenación y regulación de los asentamientos humanos, a través de acciones, aprovechamientos, inversiones, obras y servicios, que con base en el ejercicio de las atribuciones de las autoridades en materia de fundación, conservación, mejoramiento y crecimiento, tienen como propósito alcanzar el desarrollo urbano y ordenamiento territorial municipal, de conformidad con lo que establece este Código y con los objetivos, metas, políticas e instrumentos previstos en los programas de desarrollo urbano y ordenamiento territorial en la determinación de provisiones, reservas, usos y destinos de áreas, lotes y predios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 812.
 
-La planeación y regulación del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población, se llevara a cabo a través de un Sistema Municipal, integrado por los siguientes programas:
+La planeación y regulación del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población, se llevará a cabo a través de un Sistema Municipal de Planeación Urbana y Ordenamiento Territorial, integrado por los siguientes Esquemas y Programas de Desarrollo Urbano y Ordenamiento Territorial:
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
 
 A) Básicos
 
-I. El Programa Municipal de Desarrollo Urbano; y
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+I. El Programa Municipal (sic) Desarrollo Urbano y Ordenamiento Territorial; y
 
 II. Los programas de desarrollo urbano de los centros de población.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
 
 B) Derivados
 
@@ -8219,91 +8495,169 @@ III. Los programas regionales de desarrollo urbano; y,
 
 IV. Los programas subregionales de desarrollo urbano.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2023)</small>
+
+V. Los Esquemas de Desarrollo Urbano. Para aquellas localidades menores a 2,500 habitantes
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 813.
 
-Para efectos del artículo anterior, los programas de desarrollo urbano básicos, son aquellos que establece la Ley General de Asentamientos Humanos, como indispensables para la planeación urbana local. Los programas derivados, son aquellos que se desprenden de los básicos y tienen como finalidad regular un área o sector del desarrollo urbano con un mayor detalle físico o técnico.
+Para efectos del artículo anterior, los programas de desarrollo urbano básicos, son aquellos que establece la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, como indispensables para la planeación urbana local. Los programas derivados, son aquellos que se desprenden de los básicos y tienen como finalidad regular un área o zona para el control del desarrollo urbano y un sector de inversión con un mayor detalle físico o técnico.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 814.
 
-Los programas básicos y derivados que integran el Sistema Municipal de Planeación del Desarrollo Urbano, serán congruentes en lo conducente, con los planes y programas que expidan los gobierno Federal y Estatal, con base en las Leyes de Planeación y de Desarrollo Urbano.
+Los programas básicos y derivados que integran el Sistema Municipal de Planeación del Desarrollo Urbano y Ordenamiento Territorial, serán congruentes en lo conducente, con los programas que expidan los gobierno Federal y Estatal, con base en las Leyes de Planeación y de Desarrollo Urbano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 815.
 
-Los programas de desarrollo urbano previstos en este Código, contendrán los elementos básicos que hagan posible su congruencia y uniformidad para su debida ejecución técnica, jurídica y administrativa; dichos elementos deberán comprender:
+Los Esquemas o programas de desarrollo urbano previstos en el Sistema Municipal de Planeación del Desarrollo Urbano y ordenamiento territorial de este Código, contendrán los elementos básicos que hagan posible su congruencia y uniformidad para su debida ejecución técnica, jurídica y administrativa; dichos elementos deberán comprender:
 
-I. Introducción;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-II. Diagnóstico: en el que se analizarán lo situación actual y las tendencias del área o sector del desarrollo urbano que comprenda el programa, en sus aspectos socioeconómicos, físicos, poblacionales, de infraestructura, equipamiento, servicios y vivienda;
+I. Base jurídica
 
-III. Objetivos: en los que se contemplarán los propósitos o finalidades que se pretenden alcanzar con la ejecución del programa respectivo;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-IV. Metas: en las que se precisarán las acciones, obras o servicios, de acuerdo con los objetivos planteados en el corto, mediano y largo plazo;
+II. Diagnóstico: en el que se analizarán lo (sic) situación actual y las tendencias del área o sector del desarrollo urbano que comprenda el programa, en sus aspectos de manera básica pudiendo no ser limitativa y pudiendo ser aumentado tales como:
 
-V. Estrategias: en las que se establecerán los lineamientos y políticas del programa y las alternativas para la ejecución del mismo;
+aspectos socioeconómicos, aspectos físicos, aspectos poblacionales, de infraestructura, equipamiento, servicios y vivienda;
 
-VI. Bases Financiero-Programáticas: en las que se preverán los recursos disponibles para alcanzar las metas;
+Base Estratégica de Inversión: contendrá la determinación de los procesos, acciones, mecanismos o bases necesarias para fomentar el mejoramiento de indicadores, la operatividad del programa y la consecución de la visión general en el horizonte de planeación estimado, debiendo comprender:
 
-VII. Acciones de inversión: en las que se contendrán las prioridades del gasto público y privado;
+a) Estrategia General: que marcará el propósito central que se pretende alcanzar con la ejecución del programa
 
-VIII. Corresponsabilidad sectorial: determinará las acciones, obras e inversiones concretas que deban realizarse, y establecerá los responsables de su ejecución;
+b) Objetivos Sectoriales: desprendidos de la estrategia general, contendrán por bloque (sic)
 
-IX. Criterios de concertación: con los sectores público, social y privado;
+c) Estrategias: en las que se establecerán de manera más puntal las directrices a implementar, así como las líneas de acción que permitirán concretar la estrategia, deberá estar compuesta de acciones concretas que deberán proponer temporalidad (corto, mediano y/o largo plazo), indicadores de cumplimiento y/o evolución de la acción, así como la corresponsabilidad sectorial de ejecución para cada acción propuesta donde se indicará el responsable o corresponsables de su ejecución.
 
-X. Instrumentos de política: contendrán el conjunto de medidas, mecanismos y disposiciones jurídicas, técnicas y administrativas, que permitan la institucionalización, ejecución, control y evaluación del programa;
+Cada acción propuesta deberá ser vinculada a través de un Código con la estrategia general, objetivo sectorial y estrategia de la cual se desprende, a manera de que se le pueda dar seguimiento puntual en los procesos de evaluación del programa.
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+III. BASE OPERATIVA DEL PROGRAMA: que contendrá de manera detallada aquellas estrategias que por su naturaleza dotan de operatividad al programa, por lo cual deberán ser desarrolladas de manera particular llegando a plantear principios, criterios, consideraciones, esquemas, lineamientos, o condicionantes que en materia permitan su realización.
+
+Según el programa y nivel de escala del que se trate, las tablas de compatibilidad y control de uso de suelo deberán detallarse en este apartado, así como la zonificación primaria y secundaria correspondiente.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 1 DE MAYO DE 2023)</small>
+
+IV. BASES Y CRITERIOS DE IMPLEMENTACIÓN: las cuales deberán contener:
+
+a) Bases Financiero-Programáticas. En las que se analizarán los mecanismos e instrumentos para obtener los recursos financieros y presupuestales disponibles o proyectados para alcanzar los objetivos y metas; así como las prioridades del gasto público y la inversión privada;
+
+b) Instrumentos de Política;
+
+c) Mecanismos de Ejecución y Control;
+
+d) Mecanismos de Monitoreo y Evaluación;
+
+e) Mecanismos de Participación Ciudadana; y
+
+f) Estructura de Organización, Coordinación y Concertación, para la elaboración, ejecución, control, evaluación, actualización, modificación del programa, y la participación de los sectores público, social y privado.
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+V. Anexos: apartado que contendrá el glosario técnico, los índices de gráficos, tablas, imágenes y demás elementos de soporte para el programa.
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VI. Disposiciones transitorias y directorio de participantes en la elaboración del Programa.
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VII. Los programas deberán poseer un acervo digital, dentro del cual se estructure un Sistema de Información Geográfica que contenga los archivos en formato shape, con proyección WGS_1984_UTM_ZONE 13 N, imágenes, bases de datos y proyectos finales de la cartografía elaborada para cada una de las etapas que dieron forma al programa.
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VIII. La estructura y contenido de los programas (sic) ordenamiento territorial y desarrollo urbano, tendrán que adecuarse a las características del ámbito territorial o sectorial de su aplicación.
+
+IX. (DEROGADA, P.O. 1 DE MAYO DE 2023)
+
+X. (DEROGADA, P.O. 1 DE MAYO DE 2023)
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
 XI. Proyectos estratégicos: contendrán los proyectos que deberán ejecutarse de manera prioritaria;
 
-XII. La estructura de organización y coordinación: para la elaboración, ejecución, control, evaluación, actualización y modificación del programa; y,
+XII. (DEROGADA, P.O. 1 DE MAYO DE 2023)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE MAYO DE 2023)</small>
 
 XIII. Anexo gráfico: que expresará en una forma descriptiva y clara el contenido básico del programa.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 La estructura y contenido de los programas de desarrollo urbano tendrán que adecuarse a las características del ámbito territorial o sectorial de su aplicación, así como a la capacidad técnica y administrativa de las autoridades urbanas encargadas de elaborarlos y ejecutarlos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 816.
 
-El Programa Municipal de Desarrollo Urbano contendrán (sic) los elementos básicos a que se refiere el Artículo 55 del Código Urbano para el Estado, debiendo además, observar lo siguiente:
+El Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial contendrá los elementos básicos a que se refiere el Artículo 815 del Código, debiendo, además, observar lo siguiente:
 
-I. La congruencia del Programa Municipal de Desarrollo Urbano, con los Planes Nacional y Estatal;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-II. La circunscripción territorial que comprende el Municipio en cada caso, atendiendo a lo dispuesto en la Constitución del Estado y en la legislación aplicable;
+I. La congruencia del Programa Municipal de Desarrollo Urbano, con los Programas general Nacional y Estatal;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+II. La circunscripción territorial que comprende el Municipio, atendiendo a lo dispuesto en la Constitución del Estado y en el código urbano para el estado de Aguascalientes, este código y la legislación aplicable
 
 III. Las bases técnicas necesarias para la elaboración y ejecución de los programas operativos, que se vayan a realizar en el territorio del Municipio;
 
-IV. La zonificación primaria y secundaria del territorio del Municipio, atendiendo a lo dispuesto en este Código y al Programa Estatal de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-V. La determinación básica de espacios dedicados a la conservación, mejoramiento y crecimiento de los centros de población en el territorio del Municipio;
+IV. La zonificación primaria del territorio del Municipio, atendiendo a lo dispuesto en este Código y al Programa Estatal de Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+V. La determinación básica de espacios dedicados a la conservación, mejoramiento y crecimiento en el territorio del Municipio;
 
 VI. La determinación de los límites de los centros de población ubicados en el territorio del Municipio;
 
-VII. La zona urbana, la reservada para su expansión futura y las zonas de preservación ecológica de los centros de población del Municipio;
+VII. (DEROGADA, P.O. 1 DE MAYO DE 2023)
 
-VIII. Los usos y destinos del suelo;
+VIII. (DEROGADA, P.O. 1 DE MAYO DE 2023)
 
-IX. Las reservas de áreas y predios;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-X. La estructura urbana y las infraestructuras básicas definidas para cada centro de población; y,
+IX. Los programas sectoriales que procedan en aquellas zonas que por sus características propias requieran alguno de estos;
 
-XI. Los esquemas de desarrollo urbano qué procedan, en aquellas zonas o centros de población que por sus características propias no requieran de la formulación de un programa.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+X. La estructura urbana y las infraestructuras básicas definidas para la conectividad entre las localidades y los centros de población en el territorio del Municipio; y,
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XI. Los esquemas de desarrollo urbano qué procedan, en aquellos centros de población que por sus características propias no requieran de la formulación de un programa.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 817.
 
-El Programa Municipal de Desarrollo Urbano, será elaborado, aprobado, ejecutado, controlado y evaluado por el Ayuntamiento, a través de la coordinación que para el efecto establezcan los presidentes municipales con el Gobierno del Estado, atendiendo la opinión de la Comisión Estatal y del Comité de Desarrollo Urbano y Rural.
+El Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial será elaborado, aprobado, ejecutado, controlado y evaluado por la Dirección de Desarrollo Urbano y Planificación Territorial en coordinación que para el efecto establezca el presidente municipal con el Gobierno del Estado, atendiendo la opinión de la Comisión Estatal y del Consejo Municipal de Desarrollo Urbano y Rural.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 818.
 
-En la aprobación y/o modificación de los Programas Municipales de Desarrollo Urbano, se deberá contemplar además el siguiente procedimiento:
+En la aprobación y/o modificación de los Programas Municipales de Desarrollo Urbano y Ordenamiento Territorial, se deberá contemplar además el siguiente procedimiento:
 
-I. El Ayuntamiento dará aviso público del inicio del proceso de planeación y formulará el proyecto de programa de desarrollo urbano o sus modificaciones, difundiéndolo ampliamente;
+I. La Dirección de Desarrollo Urbano y Planificación Territorial dará aviso público del inicio del proceso de planeación y formulará el proyecto de programa de desarrollo urbano o sus modificaciones, difundiéndolo ampliamente;
 
-II. Se establecerá un plazo y un calendario de audiencias públicas para que los interesados presenten por escrito a las autoridades competentes, los planteamientos que consideren respecto del proyecto de programa de desarrollo urbano;
+II. Se establecerá un plazo mínimo de 30 días y un calendario de audiencias públicas para que los interesados presenten por escrito a las autoridades competentes, los planteamientos que consideren respecto del proyecto de programa;
 
-III. Las respuestas a los planteamientos improcedentes y las modificaciones del proyecto deberán fundamentarse y estarán a consulta de los interesados en las oficinas de la autoridad estatal o municipal correspondiente, durante 10 días previos a la aprobación del programa de desarrollo urbano;
+III. Las respuestas a los planteamientos improcedentes y las modificaciones del proyecto deberán fundamentarse y estarán a consulta de los interesados en las oficinas de la Dirección de Desarrollo Urbano y Planificación Territorial, durante 15 días previos a la aprobación del programa de desarrollo urbano;
 
-IV. Una vez formulados los proyectos de programas de desarrollo urbano, serán remitidos al Comité Municipal para que emita su opinión, el Comité Municipal habiendo recibido el proyecto del programa de desarrollo urbano para dar su opinión, tendrá 20 días hábiles para emitirla; en caso de no hacerlo en dicho término, se considerará que no tiene inconveniente en que el programa sea aprobado;
+IV. Una vez formulados los proyectos de programas de desarrollo urbano, serán remitidos al Consejo Municipal para que emita su opinión, el Consejo Municipal habiendo recibido el proyecto del programa de desarrollo urbano para dar su opinión, tendrá 30 días naturales para emitirla; en caso de no hacerlo en dicho término, se considerará que no tiene inconveniente en que el programa sea aprobado;
 
-V. Cumplidas las formalidades para su aprobación, el programa respectivo o sus modificaciones serán publicadas en el Periódico Oficial del Gobierno del Estado y en un Periódico de mayor circulación; y,
+V. Cumplidas las formalidades para su aprobación, el programa respectivo o sus modificaciones serán publicadas en el Periódico Oficial del Gobierno del Estado de manera completa y en un Periódico de mayor circulación de manera abreviada dentro de los 45 días naturales siguiente a la emisión; y,
 
-VI. Los diversos programas una vez aprobados se inscribirán en la sección correspondiente del Registro Público de la Propiedad y en la SEPLADE y oficina municipal correspondiente.
+VI. Los diversos programas una vez aprobados se inscribirán en la sección correspondiente del Registro Público de la Propiedad y del Comercio, en la SEPLADE y oficina de la Dirección de Desarrollo Urbano y Planificación Territorial.
 
 ###### ARTÍCULO 819.
 
@@ -8319,9 +8673,17 @@ Los programas de desarrollo urbano tendrán una vigencia a partir de su publicac
 
 ### CAPÍTULO III. De las Regulaciones a la Propiedad en los Centros de Población
 
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2023)</small>
+
+ARTÍCULO 821 BIS.- Los proyectos de conservación, consolidación, mejoramiento y crecimiento de los centros de población, se considerarán como programas parciales de desarrollo urbano.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 822.
 
-Los Programas Municipales de Desarrollo Urbano, señalarán las acciones específicas para la conservación, mejoramiento y crecimiento de los centros de población situados en su territorio y establecerán la zonificación correspondiente, en congruencia con el Programa Estatal de la materia.
+Los Programas Municipales de Desarrollo Urbano y Ordenamiento Territorial, señalarán las acciones específicas para la conservación, mejoramiento y crecimiento de las localidades y los centros de población establecerán la zonificación correspondiente, en congruencia con el Programa General y Estatal de Desarrollo Urbano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 823.
 
@@ -8331,11 +8693,15 @@ I. El equilibrio ecológico;
 
 II. El buen estado de las obras materiales, de infraestructura, equipamiento y servicios, de acuerdo con lo previsto en los programas de desarrollo urbano; y,
 
-III. El buen estado de los edificios, monumentos, plazas públicas, parques y en general, todo aquello que corresponda a su patrimonio natural y cultural, de conformidad con la legislación aplicable.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+III. El buen estado de los edificios, monumentos, plazas públicas, parques y en general, todo aquello que corresponda a su patrimonio natural y cultural, de conformidad con los reglamentos y a la legislación aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 824.
 
-Se consideran zonas destinadas a la conservación:
+Se consideran zonas destinadas a la conservación o de preservación:
 
 I. Las áreas naturales protegidas;
 
@@ -8347,25 +8713,39 @@ IV. Las áreas abiertas, los promontorios, los cerros, las colinas y elevaciones
 
 V. Las áreas cuyo uso puede afectar el paisaje, la imagen urbana y los símbolos urbanos; y,
 
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
 VI. Aquéllas cuyo subsuelo esté afectado por explotaciones de cualquier género, y por fallas geológicas o fracturas verticales, que puedan causar daños en construcciones de todo tipo, en calles, avenidas y en las redes de drenaje y conducción de agua que constituyan peligros permanentes o eventuales para los asentamientos humanos.
 
-La urbanización de los espacios destinados a la conservación, se hará en forma restringida, de acuerdo con lo previsto en la legislación, y programas en materia de desarrollo urbano. Sólo se autorizarán aquellas construcciones y obras que aseguren los servicios de carácter colectivo y de uso común que no constituyan riesgos, respetando las zonas de restricción de las fallas o fracturas geológicas.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
-En los casos no previstos en el párrafo anterior, las autoridades competentes podrán acordar la urbanización conforme a las normas de los programas de desarrollo urbano y legislación aplicable en la materia.
+La urbanización de los espacios destinados a la conservación o preservación, se hará en forma restringida, de acuerdo con lo previsto en la legislación, y programas en materia de desarrollo urbano y ordenamiento territorial. Sólo se autorizarán aquellas construcciones y obras que aseguren los servicios de carácter colectivo y de uso común que no constituyan riesgos, respetando las zonas de restricción de las fallas o fracturas geológicas.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
+En los casos no previstos en el párrafo anterior, la Dirección de Desarrollo Urbano y Planificación Territorial podrá acordar la urbanización conforme a los reglamentos y de los Esquemas o Programas de Desarrollo Urbano y Ordenamiento Territorial y legislación aplicable en la materia.
 
 Se establecerán programas integrales de manejo de áreas naturales protegidas y áreas con presencia de fallas geológicas, mediante los cuales se definirán las acciones para la preservación y óptimo aprovechamiento de dichas zonas.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 825.
 
-El mejoramiento es la acción tendiente a reordenar o renovar las zonas de incipiente desarrollo o deterioradas, física o funcionalmente, de un centro de población, las cuales podrán ser declaradas por los Gobiernos Estatal o Municipales espacios dedicados al mejoramiento, con el fin de reordenarlos, renovarlos, regenerarlos, restaurarlos o protegerlos y lograr el mejor aprovechamiento de su ubicación, infraestructura, equipamiento, suelo y elementos de acondicionamiento del espacio, integrándolas al desarrollo urbano, particularmente en beneficio de los habitantes de dichas zonas.
+El mejoramiento es la acción tendiente a reordenar o renovar las zonas de incipiente desarrollo o deterioradas, física o funcionalmente, de una localidad o un centro de población, las cuales podrán ser declaradas por los Municipios, con el fin de reordenarlos, renovarlos, regenerarlos, restaurarlos o protegerlos, rehabilítalos (sic), regularizados, y lograr el mejor aprovechamiento de su ubicación, infraestructura, equipamiento, suelo y elementos de acondicionamiento del espacio, integrándolas al desarrollo urbano y al ordenamiento del territorio, particularmente en beneficio de los habitantes de dichas zonas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 826.
 
-El crecimiento es la acción tendiente a ordenar y regular la expansión física de los centros de población, mediante la determinación de las áreas y reservas territoriales, conforme a lo dispuesto en este Código, y los programas en materia de desarrollo urbano, debiendo tomarse en cuenta lo siguiente:
+El crecimiento es la acción tendiente a ordenar y regular la expansión física de las localidades y los centros de población, mediante la determinación de las áreas y reservas territoriales, conforme a lo dispuesto en este Código, y los esquemas o programas en materia de desarrollo urbano, debiendo tomarse en cuenta lo siguiente:
 
-I. La delimitación de las áreas de expansión futura de los centros de población;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-II. La participación del Estado y del Municipio en la formulación, aprobación y ejecución de los programas parciales, a través de los cuales se incorporen porciones de la reserva a la expansión urbana y se regule su crecimiento;
+I. La delimitación de las áreas de expansión futura de las localidades o los centros de población;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+II. La participación del Municipio en la formulación, aprobación y ejecución de los programas parciales, a través de los cuales se incorporen porciones de la reserva a la expansión urbana y se regule su crecimiento;
 
 III. Los mecanismos para la adquisición, por parte del Estado y Municipios, con la participación de los sectores social y privado, de predios ubicados en las áreas a que se refieren las fracciones anteriores, a efecto de satisfacer oportunamente las necesidades de tierra que plantee la dinámica de crecimiento de los centros de población, en los términos de este Código;
 
@@ -8375,9 +8755,11 @@ V. La definición de la infraestructura de las zonas de crecimiento y las modifi
 
 ### CAPÍTULO IV. De la Zonificación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 827.
 
-Corresponde al Municipio la aprobación de la zonificación, la cual deberá establecerse en los Programas de Desarrollo Urbano respectivos, en la que se determinarán:
+Corresponde al Municipio la aprobación de la zonificación, la cual deberá establecerse en los Esquemas o Programas de Desarrollo Urbano respectivos, en la que se determinarán:
 
 I. Las áreas que integran y delimitan un centro de población;
 
@@ -8391,6 +8773,8 @@ V. La compatibilidad entre los usos y destinos permitidos;
 
 VI. Las densidades de población y de construcción;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE MAYO DE 2023)</small>
+
 VII. Las medidas para la protección de los derechos de vía, zonas de restricción de inmuebles de propiedad pública y zonas afectadas por fallas geológicas. En donde estén detectadas fallas geológicas al expedir los usos del suelo se deben determinar las áreas de restricción para las construcciones atendiendo a su grado de peligrosidad;
 
 VIII. Las zonas de desarrollo controlado y de salvaguarda o amortiguamiento especialmente en áreas e instalaciones en las que se realizan actividades riesgosas o se manejen materiales y residuos peligrosos;
@@ -8401,29 +8785,69 @@ X. Las reservas para la expansión de los centros de población; y,
 
 XI. Las demás disposiciones que de acuerdo con la legislación aplicable sean procedentes.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 828.
 
-Para efectos de ordenar, regular y planear el desarrollo urbano de los centros de población y su delimitación se incluye:
+Para efectos de ordenar, regular y planificar el desarrollo urbano de las localidades y los centros de población y su delimitación se incluye:
 
-I. El área urbana: la actualmente ocupada por la infraestructura, equipamientos, construcciones o instalaciones de un centro de población, o la que se determine para la fundación del mismo;
+I. El área urbana consolidada o asentamiento humano: la actualmente ocupada por la infraestructura, equipamientos, construcciones o instalaciones de la localidad o un centro de población;
 
-II. El área de reserva: aquélla que por sus características y aptitudes urbanas y naturales, por su infraestructura, equipamiento y servicios, se determine conveniente incorporar a la expansión futura del centro de población;
+II. El área de reserva para el futuro crecimiento: aquélla que, por sus características y aptitudes urbanas y naturales, por su infraestructura, equipamiento y servicios, se determine conveniente incorporar a la expansión futura de una localidad o de un centro de población;
 
-III. El área de preservación ecológica: aquélla constituida por los elementos naturales que comprenden los condicionantes ecológicos del centro de población; y,
+III. El área de conservación o de preservación ecológica: aquélla constituida por los elementos naturales que comprenden los condicionantes ecológicos de una localidad o del centro de población; y,
 
-IV. El área rural: aquéllas que por sus características se dediquen en forma preponderante a la ganadería y la agricultura y que estén dentro del radio de influencia del centro de población.
+II (SIC). El área rural o restringida a la urbanización: aquéllas que por sus características se dediquen en forma preponderante a la ganadería y la agricultura y que estén dentro del radio de influencia de una localidad o del centro de población.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 829.
 
-Las reservas, usos y destinos de áreas y predios se incluirán en los Programas Municipales de Desarrollo Urbano.
+Las reservas, usos y destinos de áreas y predios se incluirán en los esquemas o Programas Municipales de Desarrollo Urbano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 830.
 
-Los usos y destinos que podrán asignarse en los programas de desarrollo urbano son:
+Los aprovechamientos o usos del suelo y los destinos que podrán asignarse en los Esquemas o Programas de Desarrollo Urbano y Ordenamiento Territorio (sic) son
 
-I. Habitacionales;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 1 DE MAYO DE 2023)</small>
 
-II. De servicios;
+I. Aprovechamientos o usos del suelo
+
+A). Comerciales;
+
+b) De servicios;
+
+c) Industriales;
+
+d) Infraestructura y Equipamiento Urbano;
+
+e) Agropecuarios, Forestales y Acuíferos;
+
+f) Patrimonio Cultural y Natural;
+
+g) Mixto en el que estarán permitidos los usos habitacionales, comerciales o de servicios;
+
+h) Energías renovables
+
+i) Los demás que se establezcan en los esquemas o programas y que sean compatibles con los anteriores, y
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 1 DE MAYO DE 2023)</small>
+
+II. según los destinos del suelo;
+
+a) Espacios abiertos y áreas verdes públicas;
+
+b) Infraestructura y obras complementarias públicas;
+
+c) Equipamiento urbano público;
+
+d) Vialidad y obras complementarias públicas;
+
+e) Mixto públicos; y
+
+f) Los demás que se establezcan en los reglamentos, esquemas o programas, y que sean compatibles con los anteriores.
 
 III. Industriales;
 
@@ -8437,55 +8861,77 @@ VII. Agropecuarios, Forestales y Acuíferos;
 
 VIII. Patrimonio Cultural y Natural; y,
 
-IX. Los demás que se establezcan en los programas, y que sean compatibles con los anteriores.
+IX. (DEROGADA, P.O. 1 DE MAYO DE 2023)
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 831.
 
-Las características que correspondan a los diferentes tipos de usos y destinos de áreas y predios, se establecerán en el Reglamento de Zonificación, que para el efecto se expida.
+Las características que correspondan a los diferentes tipos de usos y destinos de áreas y predios, se establecerán en el esquema o programa de desarrollo urbano o en el correspondiente Reglamento de Zonificación y usos del suelo, que para el efecto se expida.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 832.
 
-Los programas de desarrollo urbano establecerán las normas de aprovechamiento de los predios indicando:
+Los esquemas o programas de desarrollo urbano establecerán las reglas urbanas para el óptimo aprovechamiento de los predios indicando:
 
 I. Los usos permitidos, prohibidos o condicionados;
 
-II. Las normas aplicables a los usos condicionados;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-III. La compatibilidad entre los usos permitidos;
+II. Las reglas aplicables a los usos condicionados;
 
-IV. El número o coeficiente de intensidad de las construcciones;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+III. La compatibilidad entre los usos o destinos del suelo permitidos;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+IV. los coeficientes de intensidad de construcción;
 
 V. Los datos técnicos de localización de la zona determinada;
 
 VI. La densidad de población; y,
 
-VII. Las demás normas que de acuerdo con este Código sean procedentes.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-### CAPÍTULO V. Del Control del Desarrollo Urbano
+VII. Las demás reglas que de acuerdo con este Código sean procedentes.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MAYO DE 2023)</small>
+
+### CAPÍTULO V. Del Control y administración del Desarrollo Urbano
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 833.
 
-Todas las obras, acciones, servicios e inversiones en materia de desarrollo urbano y vivienda, que se realicen en territorio del Municipio, sean públicas o privadas, deberán sujetarse a lo dispuesto en este Código y a los programas aplicables.
+Todas las obras, acciones, servicios e inversiones en materia de desarrollo urbano, vivienda y ordenamiento territorial, que se realicen en territorio del Municipio, sean públicas o privadas, deberán sujetarse a lo dispuesto en este Código y a los esquemas o programas aplicables.
 
-Sin este requisito, no se otorgará permiso, autorización, licencia o concesión para efectuarlas.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 834.
 
-La persona física o moral, pública o privada, que pretenda realizar obras, acciones, servicios o inversiones en materia de desarrollo urbano y vivienda en el Municipio, deberá obtener, previo a la ejecución de dichas acciones u obras, la constancia de compatibilidad urbanística que le expida la autoridad municipal competente.
+La persona física o moral, pública o privada, que pretenda realizar obras, acciones, servicios o inversiones en materia de desarrollo urbano, vivienda y ordenamiento territorial en el Municipio, deberá obtener, previo a la ejecución de dichas acciones u obras, la constancia de alineamiento y compatibilidad urbanística que le expida la autoridad municipal competente.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 835.
 
-Para dar un uso o destino distinto al que se le ha venido dando a un área, predio o construcción, los propietarios o poseedores deberán obtener la constancia de compatibilidad urbanística correspondiente.
+Para dar un uso o destino distinto al que se le ha venido dando a un área, predio o construcción, los propietarios o poseedores deberán obtener la constancia de alineamiento y compatibilidad urbanística correspondiente.
 
-La presentación de dicha constancia será necesaria para iniciar el trámite de las licencias de construcción y de las licencias para la apertura y funcionamiento de giros comerciales, industriales y de servicios.
+La presentación de dicha constancia será obligatoria para iniciar el trámite de las licencias de construcción y de las licencias para la apertura y funcionamiento de giros comerciales, industriales y de servicios.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 836.
 
-La constancia de compatibilidad urbanística, con base en la zonificación prevista en los programas de desarrollo urbano, señalará los usos o destinos de áreas y predios permitidos, condicionados o prohibidos.
+La constancia de alineamiento y compatibilidad urbanística, con base en la zonificación prevista en los esquemas o programas de desarrollo urbano, señalará los usos o destinos de áreas y predios permitidos, condicionados o prohibidos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 837.
 
-Los objetivos de las constancias de compatibilidad urbanística son:
+Los objetivos de las constancias de alineamiento y compatibilidad urbanística son
 
 I. Dar seguridad jurídica a la propiedad, identificándola dentro de su contexto urbano; otorgando la consiguiente protección a sus titulares, respecto de la legalidad del asentamiento humano o desarrollo inmobiliario;
 
@@ -8493,17 +8939,25 @@ II. Conservar y mejorar el patrimonio natural y cultural;
 
 III. Apoyar la planeación de infraestructura, equipamiento y servicios urbanos;
 
-IV. Controlar que toda acción, obra, servicio o inversión en materia de desarrollo urbano y vivienda, sea compatible con la legislación y programas aplicables;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-V. Señalar el aprovechamiento y aptitud del suelo de acuerdo con la legislación y programas aplicables;
+IV. Controlar que toda acción, obra, servicio o inversión en materia de desarrollo urbano, vivienda y el ordenamiento territorial, sea compatible con la reglamentación y los esquemas y programas de desarrollo urbano y ordenamiento territorial aplicables;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+V. Señalar el aprovechamiento y aptitud del suelo de acuerdo con la reglamentación y los Esquemas y Programas de Desarrollo Urbano y Ordenamiento Territorial aplicables;
 
 VI. Impedir el establecimiento de asentamientos humanos irregulares; y,
 
-VII. Señalar las limitaciones, restricciones o alineamientos que a cada área o predio le disponen la legislación o programas de desarrollo urbano aplicables.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VII. Señalar las limitaciones, restricciones o alineamientos que a cada área o predio le disponen la reglamentación y los Esquemas o Programas de Desarrollo Urbano y Ordenamiento Territorial aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 838.
 
-Las constancias de compatibilidad urbanística, contendrán y proporcionarán:
+Las constancias de alineamiento y compatibilidad urbanística, contendrán y proporcionarán:
 
 I. La ubicación, medidas y colindancias del área o predio;
 
@@ -8517,39 +8971,51 @@ V. El uso o destino actual, y el que se pretenda utilizar en el área o predio;
 
 VI. El alineamiento respecto a las vías o espacios públicos de propiedad Federal, Estatal o Municipal;
 
-VII. La asignación de usos o destinos permitidos, compatibles, prohibidos o condicionados, de acuerdo con lo previsto en los programas de desarrollo urbano aplicables;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-VIII. Las restricciones de urbanización y construcción que correspondan de conformidad con el tipo de fraccionamiento, condominio, barrio, colonia o zona;
+VII. La asignación de usos o destinos permitidos, compatibles, prohibidos o condicionados, la densidad de construcción de población, los coeficientes de ocupación y utilización del predio de acuerdo con lo previsto en los Esquemas o Programas de Desarrollo Urbano y Ordenamiento territorial aplicables;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VIII. Las restricciones de urbanización y construcción que correspondan de conformidad con el tipo de fraccionamiento, condominio, desarrollo especial inmobiliario, barrio, colonia subdivisión o zona;
 
 IX. La valoración de inmuebles del patrimonio natural y cultural;
 
 X. Las afectaciones por proyectos de obras en materia de infraestructura, equipamiento y servicios urbanos; y,
 
-XI. Los demás datos, elementos, criterios o lineamientos que se deriven de la legislación o programas de desarrollo urbano.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XI. Los demás datos, elementos, criterios o lineamientos que se deriven de la reglamentación en los Esquemas o Programas de Desarrollo Urbano y Ordenamiento Territorial aplicables.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 839.
 
-Las constancias de compatibilidad urbanística tendrán una vigencia de tres años, a partir de la fecha de su expedición, en virtud de que deben ser acordes con la actualización o modificación de la legislación y programas de desarrollo urbano.
+Las constancias de alineamiento y compatibilidad urbanística tendrán una vigencia de tres años, a partir de la fecha de su expedición, en virtud de que deben ser acordes con la actualización o modificación de la reglamentación en los esquemas o programas de desarrollo urbano y ordenamiento territorial aplicables.
 
 ### CAPÍTULO VI. De la Vía Pública
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 840.
 
-Para efectos de este Código, vía pública es todo espacio de uso común que por la costumbre o disposición de autoridad competente, se encuentre destinado al libre tránsito, de conformidad con el Código Urbano, el presente ordenamiento y demás leyes de la materia, así como todo inmueble que de hecho se utilice para este fin. Es característica propia de la vía pública el servir para la ventilación, iluminación y para dar acceso a los predios colindantes, o para alojar cualquier instalación de una obra o servicio público.
-
-Este espacio está limitado por el plano virtual vertical sobre la traza del alineamiento oficial o el lindero de dicha vía pública.
+Para efectos de este Código, vía pública es todo espacio de uso común que, por la costumbre o disposición de autoridad competente, se encuentre destinado al libre tránsito, de personas y vehículos que, de conformidad con el Código Urbano, el presente ordenamiento y demás leyes de la materia; así como todo inmueble que de hecho se utilice para este fin. Es característica propia de la vía pública el servir para la ventilación, iluminación, accesibilidad para los predios colindantes, o para alojar cualquier instalación de una obra o servicio público e infraestructura urbana básica.
 
 ###### ARTÍCULO 841.
 
 Todo inmueble consignado como vía pública en algún plano o registro oficial existente en cualquiera de las unidades administrativas del Gobierno del Estado o del Municipio, en el Archivo Histórico de Estado, o en otro archivo, museo, biblioteca o dependencia oficial, se presumirá salvo prueba en contrario que es vía pública y pertenece al propio Municipio. Esta disposición será aplicable a todos los demás bienes de uso común o destinados a un servicio público.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 842.
 
-Los inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del Municipio, para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano, al Registro Público de la Propiedad y a la Dirección General de Catastro para que hagan los registros y las cancelaciones respectivas.
+Los inmuebles que en el plano oficial de una fusión, subdivisión, o fraccionamiento aprobados, aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del Municipio, para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro de esquemas o Programas de Desarrollo Urbano, al Registro Público de la Propiedad y a la Dirección General de Catastro para que hagan los registros y las cancelaciones respectivas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 843.
 
-Se requiere permiso o autorización expreso de la Dirección de Obras Públicas para:
+Se requiere permiso o autorización expreso de la Dirección de Desarrollo Urbano y Planificación Territorial para:
 
 I. Realizar obras, modificaciones o reparaciones en la vía pública;
 
@@ -8561,9 +9027,11 @@ IV. Romper el pavimento o hacer cortes en las banquetas y guarniciones de la ví
 
 V. Alojar instalaciones subterráneas en la vía pública.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 844.
 
-Podrá otorgarse permiso o autorización para las obras anteriores, señalando en cada caso las condiciones bajo las cuales se conceda, los medios de protección que deberán tomarse, las acciones de restitución y mejoramiento de las áreas verdes y zonas arboladas afectadas, y los horarios en que deban efectuarse. Los solicitantes estarán obligados a efectuar las reparaciones correspondientes para restaurar o mejorar el estado original de la vía pública, o a pagar su importe cuando el Ayuntamiento las realice.
+Podrá otorgarse permiso o autorización para las obras anteriores, señalando en cada caso las condiciones bajo las cuales se conceda, los medios de protección que deberán tomarse, las acciones de restitución y mejoramiento de las áreas verdes y zonas arboladas afectadas, y los horarios en que deban efectuarse. Los solicitantes estarán obligados a efectuar las reparaciones correspondientes para restaurar o mejorar el estado original de la vía pública, o a pagar su importe cuando la Dirección de Obras Públicas o cuando alguna unidad administrativa del Ayuntamiento las realice.
 
 ###### ARTÍCULO 845.
 
@@ -8581,13 +9049,17 @@ V. Para construir comercios semifijos en vías públicas; y,
 
 VI. Para aquellos otros fines que el Ayuntamiento considere contrarios al interés público.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 846.
 
-Toda persona que ocupe sin autorización la vía pública con construcciones e instalaciones superficiales aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que la Dirección de, Obras Públicas señale. Si este plazo fuese sobre excedido, la misma Dirección, realizará los trabajos con cargo al dueño, independientemente de las sanciones que sean aplicables, de conformidad con el presente Código.
+Toda persona que ocupe sin autorización la vía pública con construcciones e instalaciones superficiales aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que la Dirección de Desarrollo Urbano y Planificación Territorial señale. Si este plazo fuese sobre excedido, se girará oficio a la Dirección (sic) Obras Publicas indicándole, que realizará los trabajos con cargo al dueño, independientemente de las sanciones que sean aplicables, de conformidad con el presente Código.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 847.
 
-Las instalaciones subterráneas para los servicios públicos de teléfonos, alumbrado, semáforos, energía eléctrica, gas y cualesquiera otras, deberán localizarse a lo largo de aceras y camellones. Cuando se localicen en las aceras, deberán distar por lo menos cincuenta centímetros del alineamiento oficial. La Dirección de Obras Públicas podrá autorizar la construcción de instalaciones subterráneas fuera de las zonas descritas anteriormente, cuando la naturaleza de las obras lo requiera, debiendo respetarse la normatividad de la materia.
+Las instalaciones subterráneas para los servicios públicos de teléfonos, alumbrado, semáforos, energía eléctrica, gas y cualesquiera otras, deberán localizarse a lo largo de aceras y camellones. Cuando se localicen en las aceras, deberán distar por lo menos un metro cincuenta centímetros del alineamiento paramento oficial. La Dirección de Desarrollo Urbano y Planificación Territorial podrá autorizar la construcción de instalaciones subterráneas fuera de las zonas descritas anteriormente, cuando la naturaleza de las obras lo requiera, debiendo respetarse la reglamentación o ficha técnica de construcción de la materia.
 
 ###### ARTÍCULO 848.
 
@@ -8597,15 +9069,21 @@ La Dirección de Obras Públicas Municipal fijará en cada caso, la profundidad 
 
 Cuando se requiera introducir instalaciones subterráneas bajo un pavimento o se interfiera alguna vialidad, la Dirección de Obras Públicas determinará la forma en que se lleven a cabo los trabajos.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 850.
 
 Las instalaciones aéreas en la vía pública deberán estar sostenidas sobre postes colocados para ese efecto.
 
-Dichos postes se colocarán dentro de la acera a una distancia mínima de veinticinco centímetros entre el borde de la guarnición y el punto más próximo del poste.
+Dichos postes se colocarán dentro de la acera a una distancia mínima de veinticinco centímetros entre el borde de la guarnición y el punto más próximo del poste y a una distancia mínima de un metro cincuenta centímetros del alineamiento paramento oficial.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 851.
 
-En las vías públicas en que no existen aceras, los interesados solicitarán a la Dirección de Obras Públicas, el trazo de la guarnición.
+En las vías públicas en que no existen banquetas-aceras, los interesados solicitarán a la Dirección de Desarrollo Urbano y Planificación Territorial, el trazo del alineamiento paramento oficial indicándoles la correspondiente dosificación de la calle, contemplando, banqueta-acera, guarniciones y arroyos vehiculares
+
+Dicha dosificación, la Dirección de Obras Públicas se las indicara con levantamiento topográfico en el sitio.
 
 ###### ARTÍCULO 852.
 
@@ -8627,9 +9105,11 @@ La Dirección de Obras Públicas podrá ordenar el retiro o el cambio de lugar d
 
 No se permitirá colocar postes o instalaciones en aceras, cuando con ellos se impida la entrada a un predio. Si el acceso al predio se construye estando ya colocados el poste o la instalación, deberán ser cambiados de lugar por el propietario de los mismos, y en caso de que se niegue, la Dirección lo podrá realizar, pero los gastos serán por cuenta del propietario del predio.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 857.
 
-La Dirección de Obras Públicas determinará las zonas de protección a lo largo de las líneas de conducción y los servicios subterráneos tales como viaductos, pasos a desnivel e instalaciones similares, dentro de cuyos límites solamente podrán realizarse excavaciones, cimentaciones, demoliciones, y otras obras previa autorización especial de la propia Dirección, la que señalará las obras de protección que sea necesario realizar o ejecutar para salvaguardar los servicios e instalaciones antes mencionados. La reparación de los daños que se ocasionen en esas zonas, correrán a cargo de la persona física o moral a quien se le otorgue la autorización.
+La Dirección de Desarrollo Urbano y Planificación Territorial, en las constancias de alineamiento y compatibilidad urbanística, con base a los esquemas o programas de desarrollo urbano y ordenamiento territorial, determinará las zonas de protección a lo largo de las líneas de conducción y los servicios subterráneos tales como viaductos, pasos a desnivel e instalaciones similares, dentro de cuyos límites solamente podrán realizarse excavaciones, cimentaciones, demoliciones, y otras obras previa autorización especial de la propia Dirección, la que señalará las obras de protección que sea necesario realizar o ejecutar para salvaguardar los servicios e instalaciones antes mencionados. En caso de ocupación y en obras de reparación de los daños que se ocasionen en esas zonas, correrán a cargo de la persona física o moral a quien se le otorgue la autorización.
 
 ### CAPÍTULO VII. De la Nomenclatura y Números Oficiales
 
@@ -8669,17 +9149,23 @@ I. En intersección de dos vialidades un mínimo de cuatro placas; y,
 
 II. En intersecciones mayores a dos vialidades, una placa por cada calle antes y después de la intersección.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 863.
 
-Los promotores inmobiliarios y fraccionadores, deberán presentar ante la Dirección de Obras Públicas, la propuesta de nomenclatura a vialidades, parques, jardines, plazas y/o monumentos históricos, así como de cualquier otro lugar público factible de denominación dentro de tres días hábiles siguientes a la solicitud de autorización presentada ante la Comisión Estatal de Desarrollo Urbano o a la Secretaría de Planeación del Estado, según sea el caso.
+Los promotores inmobiliarios y fraccionadores, deberán presentar ante la Dirección de Desarrollo Urbano y Planificación Territorial, la propuesta de nomenclatura a vialidades, parques, jardines, plazas y/o monumentos históricos, así como de cualquier otro lugar público factible de denominación en fraccionamientos, en caso de condominios o desarrollos inmobiliarios especiales dentro de tres días hábiles siguientes a la solicitud de opinión positiva ante la (sic) Consejo Estatal de Desarrollo Urbano o a la SEPLAPDE, se aceptara la nomenclatura propuesta según sea el caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 864.
 
-La Dirección de Obras Públicas, tomará en cuenta la propuesta del promotor o fraccionador al momento de determinar sobre la nomenclatura, debiéndose apegar a lo siguiente:
+La Dirección de Desarrollo Urbano y Planificación Territorial, tomará en cuenta la propuesta del promotor o fraccionador al momento de determinar sobre la nomenclatura, debiéndose apegar a lo siguiente:
 
 I. Análisis de la propuesta de los promotores y fraccionadores, expresando las razones que se tomaron en cuenta para estimar o desestimar dicha opinión;
 
-II. Velar porque exista una adecuada jerarquía vial y compatibilidad en el contexto urbano con la nomenclatura;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+II. Tratándose de hombres o mujeres ilustres, deberán acompañarse con los documentos que contengan la biografía que justifique la trascendencia de la propuesta además de ser finadas; y,
 
 III. Evitar la duplicidad con la nomenclatura existente;
 
@@ -8695,21 +9181,29 @@ I. Si se trata de nomenclaturas en vialidades, parques, jardines, plazas y monum
 
 II. Si se trata de nomenclatura en parques, jardines, sitios o monumentos históricos y todos los lugares públicos factibles de darles denominación con arraigo e identidad cultural adquiridas a través de un tiempo mayor a diez años; la propuesta será acompañada de una relación que contenga por cada inmueble el nombre completo, domicilio y firma de aceptación como mínimo del sesenta por ciento de los residentes de la zona en un radio de tres cuadras.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 866.
 
 Las solicitudes de asignación, rectificación o cambio de nomenclatura deberán reunir los siguientes requisitos:
 
 I. Serán presentadas por escrito señalando los hechos y motivos que las apoyan;
 
-II. Tratándose de hombres o personajes ilustres, deberán acompañarse con los documentos que contengan la biografía que justifique la trascendencia de la propuesta; y,
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+III (SIC). Tratándose de hombres o mujeres ilustres, deberán acompañarse con los documentos que contengan la biografía que justifique la trascendencia de la propuesta además de ser finadas; y,
 
 III. Los nombres propuestos no deberán contravenir a la moral y las buenas costumbres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 867.
 
-Toda solicitud de nomenclatura deberán apegarse al siguiente procedimiento:
+Toda solicitud de nomenclatura deberán (sic) apegarse al siguiente procedimiento:
 
-I. Presentada la solicitud por escrito a la Dirección de Obras Públicas, esta emitirá dictamen positivo o negativo en base a lo establecido en este Código y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+I. Presentada la solicitud por escrito a la Dirección de Desarrollo Urbano y Planificación Territorial, esta emitirá dictamen positivo o negativo con base a lo establecido en este Código y al reglamento correspondiente en materia urbana;
 
 II. Cuando se dictamine improcedente la solicitud deberá notificarse personalmente al promovente;
 
@@ -8723,17 +9217,27 @@ V. Una vez dictada la resolución definitiva se notificará a los interesados.
 
 Todo cambio o asignación de nomenclatura y números oficiales deberá ser notificado de inmediato a las Administraciones Fiscales de Hacienda, a Catastro e Impuesto a la Propiedad Raíz, al Registro Público de la Propiedad y Comercio, a Finanzas del Municipio; y a cualquier otra persona física o moral que lo requiera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 869.
 
 El trámite e instalación de números oficiales deberá apegarse a lo siguiente:
 
-I. Tramitar el número oficial en la ventanilla correspondiente, encargada del trámite de autorización de números oficiales, presentando la documentación que le sea requerida;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+I. Tramitar el número oficial en la Dirección de Desarrollo Urbano y Planificación Territorial;
+
+En caso de realizarse en alguna ventanilla de recaudación se deberá de turnar a la Dirección de Desarrollo Urbano y Planificación Territorial para determinar la asignación del número correspondiente;
 
 II. En inmuebles construidos, deberán colocarse en el exterior, al frente de la construcción junto al acceso principal;
 
-III. En los condominios horizontales, públicos o privados, se asignará un solo número oficial exterior y una numeración progresiva en el interior para cada vivienda o local;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-IV. En condominios públicos o privados de tipo mixto, se asignará un solo número exterior y para su interior se establecerá una letra por edificio y una numeración progresiva por cada vivienda o local;
+III. En los condominios o desarrollos inmobiliarios especiales horizontales, públicos o privados, se asignará un solo número oficial exterior y una numeración progresiva en el interior para cada vivienda o local;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+IV. En condominios o desarrollos inmobiliarios especiales públicos o privados de tipo mixto, se asignará un solo número exterior y para su interior se establecerá una letra por edificio y una numeración progresiva por cada vivienda o local;
 
 V. Los números oficiales en ningún caso deberán ser pintados sobre muros, bloques, columnas y/o en elementos de fácil destrucción. Deberán además ser de materiales no degradables con la intemperie;
 
@@ -8749,23 +9253,33 @@ IX. Las placas de numeración deberán colocarse en una altura mínima de dos me
 
 X. Cuando existan manzanas con diferente longitud, deberá prevalecer la numeración progresiva que dicte la manzana de mayor longitud;
 
-XI. Cuando exista longitud en manzanas con traslapes constantes, la asignación de la numeración quedará sujeta al dictamen que emita la Dirección de Obras Públicas; y,
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-XII. Cuando las cabeceras de manzanas de una glorieta, plaza o sitio que cuente con nomenclatura propia y existan varias construcciones, con acceso desde éstas, se asignará una nueva numeración en nones con una solo (sic) centena bajo la nomenclatura de la glorieta, plaza o sitio que corresponda.
+XI. Cuando exista longitud en manzanas con traslapes constantes, la asignación de la numeración quedará sujeta al dictamen que emita la Dirección de Desarrollo Urbano y Planificación Territorial y,
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XII. Cuando las cabeceras de manzanas de una glorieta, plaza o sitio que cuente con nomenclatura propia y existan varias construcciones, con acceso desde éstas, se asignará una nueva numeración en nones con una sola centena bajo la nomenclatura de la glorieta, plaza o sitio que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 870.
 
 Los particulares, promoventes o fraccionadores deberán presentar solicitud por escrito para la asignación de números oficiales que contendrán:
 
-I. Cuando se trate de un fraccionamiento o condominio: el original o maduro y dos copias del plano del fraccionamiento o condominio, con certificación de la autorización de la Comisión Estatal de Desarrollo Urbano o de la Secretaría de Planeación del Estado según sea el caso; copia de escritura pública de las áreas de donación a favor del H. Ayuntamiento; recibo del pago de derechos municipales por las obras de urbanización; y, recibo de pago de los derechos por asignación de números oficiales;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+I. Cuando se trate de un fraccionamiento, condominio o desarrollo inmobiliario especial: el original o maduro y dos copias del plano del fraccionamiento, condominio o desarrollo inmobiliario especial, con certificación de la autorización de la (sic) Consejo Estatal de Desarrollo Urbano o de la SEPLAPDE según sea el caso; copia de escritura pública de las áreas de donación a favor del H. Ayuntamiento; recibo del pago de derechos municipales por las obras de urbanización; y, recibo de pago de los derechos por asignación de números oficiales;
 
 II. Cuando se trate de propietarios de predios individuales: copia certificada del documento que acredite la propiedad, copia del último pago de impuesto predial, constancia de alineamiento y compatibilidad urbanistica; y, recibo de pago de los derechos por asignación de números oficiales; y,
 
 III. Cuando el promotor o fraccionador tramite los números oficiales de forma previa a las construcciones, para que el adquirente de los inmuebles reciba las placas correspondientes de los números, deberá presentar el documento en original de la boleta de asignación del número que le entregará el promotor o fraccionador.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 871.
 
-La Dirección de Obras Públicas autorizará números oficiales al solicitante, cuando el fraccionador o promotor haya cumplido con los requisitos del dictamen de autorización de la Comisión Estatal de Desarrollo Urbano o la Secretaría de Planeación Estatal en el ámbito de su competencia y de la legislación urbana aplicable.
+La Dirección de Desarrollo Urbano y Planificación Territorial autorizará números oficiales al solicitante, cuando el fraccionador o promotor haya cumplido con los requisitos del dictamen de autorización de la (sic) Consejo Estatal de Desarrollo Urbano o la SEPLAPDE en el ámbito de su competencia y de la legislación urbana aplicable.
 
 ###### ARTÍCULO 872.
 
@@ -8789,21 +9303,85 @@ III. Constancia de alineamiento y compatibilidad urbanística; y,
 
 IV. Cuando se trate de subdivisiones o fusiones deberá acompañar el documento que acredite la autorización de las mismas según corresponda.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 874.
 
-Una vez satisfechos los requisitos que establece el presente Capítulo, la Dirección de Obras Públicas procederá a expedir un documento en el en el (sic) que se incluirá el número oficial y las placas correspondientes.
+Una vez satisfechos los requisitos que establece el presente Capítulo, la Dirección de Desarrollo Urbano y Planificación Territorial procederá a expedir un documento en el que se incluirá el número oficial y las placas correspondientes.
 
 ###### ARTÍCULO 875.
 
 Se podrá otorgar la ratificación de un número oficial, cuando se requiera para comprobar la inexistencia de error en el número oficial y nomenclatura, incluyendo la certificación de cambio del nombre en determinado tiempo de una vía pública, para ello se deberá presentar, solicitud por escrito ante la Dirección de Obras Públicas, señalando los hechos y motivos que lo apoyan y comprobante que acredite la propiedad del interesado.
 
-## TÍTULO SEGUNDO. DE LAS CONSTRUCCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MAYO DE 2023)</small>
+
+## TÍTULO SEGUNDO. DE LOS FRACCIONAMIENTO (SIC) HABITACIONALES URBANOS
 
 ### CAPÍTULO I. De la Licencia de Construcción
 
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2023)</small>
+
+ARTÍCULO 875 BIS.- Los fraccionamientos habitacionales urbanos, deberán de tener las características que los Esquemas o Programas de Desarrollo Urbano y Ordenamiento Territorial, determinen. De manera supletoria en caso de no existir alguno de los indicados se tomará lo siguiente:
+
+I. Metros lineales mínimos de frente de lote: 5m;
+
+II. Superficie mínima del lote: 75 metros cuadrados
+
+III. Superficie mínima de construcción: 42 metros cuadrados;
+
+IV. Porcentaje de áreas de donación: 12% superficie neta; debidamente urbanizada,
+
+V. Usos y destinos del suelo según la densidad determinada por los programas de Desarrollo urbano: a) Vivienda unifamiliar; y b) Vivienda multifamiliar.
+
+VI. Porcentaje máximo permitido de comercios y servicios: 20% de la superficie vendible, en las zonas previstas en los programas de desarrollo aplicables y que se determinen en el proyecto de fraccionamiento que autoricé el Consejo Estatal.
+
+VII. Sección de vialidades:
+
+a) Colectoras: de 22 metros hasta 27 metros de derecho de vía; dicha sección incluye la sección para una ciclovía, de acuerdo a las especificaciones que establezca el Municipio; las banquetas serán de 3 metros de ancho. En caso de contar con camellón esta superficie será adicional a la antes determinada. El Consejo Estatal determinará, cuando por la dimensión del fraccionamiento, no se justifique la construcción, o las dimensiones de las calles colectoras.
+
+b) Subcolectoras: de 15 metros hasta 21 metros de derecho de vía, con 3 metros de ancho de banqueta. El Consejo Estatal determinará, cuando por la dimensión del fraccionamiento, no se justifique la construcción, o las dimensiones de las calles subcolectoras; y
+
+c) Locales: de 12 metros hasta 8 metros de derecho de vía y 2 metros de ancho de banqueta para cada lado.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO DE REFORMAS, PUBLICADO EN EL P.O. DE 1 DE MAYO DE 2023, PÁGINAS DE LA 70 A LA 71. SE SUGIERE CONSULTAR LA CRONOLOGÍA DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 876.
 
-Toda obra de construcción, instalación, reparación, ampliación, remodelación, reconstrucción o demolición de fincas rústicas o urbanas requerirá licencia expresa, otorgada por la Dirección de Obras Públicas Municipal con anterioridad al inicio de la obra.
+Toda obra de construcción, instalación, reparación, ampliación, remodelación, reconstrucción o demolición de fincas rústicas o urbanas requerirá licencia expresa, otorgada por la Dirección de Desarrollo Urbano y Planificación Territorial con anterioridad al inicio de la obra.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 1 DE MAYO DE 2023)</small>
+
+En caso contrario se procederá al acto de suspensión de las obras, y en caso de reincidencia la demolición de estas.
+
+I… (sic)
+
+II. Llevar un registro de Peritos de obra y especializados;
+
+III… (sic)
+
+IV. Verificar que el uso que se está dando a un predio, edificio o construcción, se ajuste a lo establecido en la constancia de alineamiento y compatibilidad urbanística;
+
+V a XI… (sic)
+
+XII. Expedir (sic) reglamento de diseño y construcciones para el debido cumplimiento del presente Libro;
+
+XIII… (sic)
+
+XIV. Reglamentar las construcciones que se ubiquen en zonas del patrimonio natural o de preservación ecológica, siempre y cuando se permita construir; debiendo cumplir las restricciones que para el particular se especifique (sic) programa de manejo ambiental vigente;
+
+XV. Evaluar y condicionar las construcciones o establecimientos que se permitan colindantes al derecho de vía de carreteras federales o estatales, o de ferrocarriles, requerirán de un acceso adecuado, con base en las especificaciones técnicas que determine la autoridad competente, de conformidad con las disposiciones jurídicas aplicables;
+
+XVI. Las construcciones deberán contemplar características o elementos de accesibilidad universal indicadas por el reglamento correspondiente que la dirección le indique;
+
+XVII. La Dirección de Desarrollo Urbano y Planificación Territorial, exigirá en las construcciones la combinación flexible de eco-tecnologías, cuya eficiencia de consumo esté certificado por los organismos autorizados por las autoridades regulatorias competentes y materiales para coadyuvar a la sustentabilidad del Municipio y el Estado;
+
+XVIII. La Dirección deberá de analizar la integración al contexto el (sic) impacto visual tanto urbano como paisajístico o natural que las construcciones puedan generar en su entorno;
+
+XIX. En los desarrollos urbanos, la Dirección de Desarrollo Urbano y Planificación Territorial exigirá la instalación de una cisterna y/o macro cisterna que contenga la reserva de agua, por lo menos de 3 días. En el caso del desarrollo de tipo multifamiliar, el sistema de cisternas deberá ser proporcional con la cantidad de viviendas por cada multifamiliar; para ello, el Municipio emitirá, a través del Organismo Operador del Agua Potable y Alcantarillado, un dictamen de factibilidad, en el que se analizarán las condiciones del proyecto correspondiente que garanticen el abastecimiento de agua potable para todas las familias o personas; y,
+
+XX. La Dirección de Desarrollo Urbano y Planificación Territorial para toda aquella construcción que se lleve a cabo extenderá la constancia o aviso de terminación de obra y de autorización de ocupación y de habitabilidad, emitida.
 
 ###### ARTÍCULO 877.
 
@@ -8835,13 +9413,19 @@ XII. Expedir normas técnicas complementarias para el debido cumplimiento del pr
 
 XIII. Asignar Peritajes por Servicio Social a los Peritos Responsables de Obra y Especializados, en los casos que prevé este Libro.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 878.
 
-Se entiende por licencia de construcción el documento expedido por la Dirección de Obras Públicas, por el cual se autoriza a los propietarios para construir o demoler una edificación o instalación en sus predios.
+Se entiende por licencia de construcción el documento expedido por la Dirección de Desarrollo Urbano y Planificación Territorial, por el cual se autoriza a los propietarios para construir o demoler una edificación o instalación en sus predios.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 879.
 
-A toda solicitud de licencia de construcción deberá recaer una resolución de expedición o rechazo por parte de las autoridades competentes, en un lapso razonable, el cual por ningún motivo podrá exceder de diez días hábiles. La revisión de los expedientes y planos respectivos se hará de acuerdo a los requisitos que se establecen en el presente código y demás disposiciones legales vigentes.
+A toda solicitud de licencia de construcción deberá recaer una resolución de expedición o rechazo por parte de las autoridades competentes, en un lapso razonable, el cual por ningún motivo podrá exceder de diez días hábiles, en caso de exceder el termino se entenderá en negativa la resolución de la petición de la licencia de construcción. La revisión de los expedientes y planos respectivos se hará de acuerdo a los requisitos que se establecen en el presente código y demás disposiciones legales vigentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 880.
 
@@ -8865,15 +9449,23 @@ VIII. Divisiones interiores prefabricadas en pisos de despachos o comercios, cua
 
 IX. Impermeabilización y reparación de azoteas sin afectar elementos estructurales;
 
-X. Obras urgentes para la prevención de accidentes, a reserva de dar aviso a la Dirección de Obras Públicas dentro de un plazo de cuarenta y ocho horas contadas a partir del inicio de las mismas;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+X. Obras urgentes para la prevención de accidentes, a reserva de dar aviso a la Dirección de Desarrollo Urbano y Planificación Territorial dentro de un plazo de cuarenta y ocho horas contadas a partir del inicio de las mismas;
 
 XI. Demoliciones hasta de un cuarto aislado de dieciséis metros cuadrados no consecutivo, si esta desocupado y sin afectar la estabilidad del resto de las construcciones;
 
 XII. Construcciones provisionales para uso de oficinas, bodegas o vigilancia de predios durante la edificación de una obra y de los servicios sanitarios correspondientes; y,
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE MAYO DE 2023)</small>
+
 XIII. Obras similares a las anteriores cuando no se afecten elementos estructurales.
 
-Estas excepciones no operarán cuando se trate de obras que se ubiquen dentro del perímetro o zona de fincas o inmuebles catalogados de valor histórico, arquitectónico o contextual o que formen parte del patrimonio cultural del estado.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
+Estas excepciones no operarán cuando se trate de obras que se ubiquen dentro del perímetro o zona de fincas o inmuebles catalogados de valor histórico, arquitectónico o contextual o que formen parte del patrimonio cultural del estado o del municipio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 881.
 
@@ -8887,15 +9479,21 @@ III. Los tapiales que invaden la acera en una anchura superior a cincuenta cent�
 
 IV. Las ferias con aparatos mecánicos, circos, carpas, graderías desmontables y otros similares. Cuando se trate de aparatos mecánicos, la solicitud deberá contener la responsiva profesional de un perito en este tipo de estructuras radicado en el Estado;
 
-V. La instalación, modificación o reparación de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico. Quedan excluidos de este requisito las reparaciones que no alteren las especificaciones de la instalación, manejo, sistemas eléctricos o de seguridad; con la solicitud de licencia se acompañarán la responsiva profesional de un Ingeniero mecánico electricista radicado en el Estado con los datos referentes a la ubicación del edificio y el tipo de servicios a que se destinará, así como dos juegos completos de planos y especificaciones proporcionados por la empresa que fabrique el aparato, y el de una memoria donde se detallen los cálculos que hayan sido necesarios; y,
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-VI. Las modificaciones al proyecto original de cualquier obra. Se deberá acompañar a la solicitud el proyecto respectivo por cuadruplicado. No se concederá licencia cuando el cambio de uso sea incompatible con la zonificación de destinos, usos y reservas autorizadas en los diferentes programas de Desarrollo Urbano, o bien el inmueble no reúna las condiciones de estabilidad y servicio para el nuevo uso.
+V. La instalación, modificación o reparación de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico. Quedan excluidos de este requisito las reparaciones que no alteren las especificaciones de la instalación, manejo, sistemas eléctricos o de seguridad; con la solicitud de licencia se acompañarán la responsiva profesional de un Ingeniero mecánico electricista registrado en la Dirección de Desarrollo Urbano y Planificación Territorial, con carnet vigente y radicado en el Estado con los datos referentes a la ubicación del edificio y el tipo de servicios a que se destinará, así como dos juegos completos de planos y especificaciones proporcionados por la empresa que fabrique el aparato, y el de una memoria donde se detallen los cálculos que hayan sido necesarios; y,
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VI. Las modificaciones al proyecto original de cualquier obra. Se deberá acompañar a la solicitud el proyecto respectivo por cuadruplicado. No se concederá licencia cuando la modificación o cambio del uso sea incompatible con el uso del suelo o destinos, determinado en los diferentes esquemas o programas de Desarrollo Urbano correspondientes, o bien el inmueble no reúna las condiciones de estabilidad y servicio para el nuevo uso.
 
 Las solicitudes para este tipo de licencias, se presentarán con la firma del propietario del predio y con la responsiva de un Perito Responsable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 882.
 
-El tiempo de vigencia de las licencias de construcción que expida la Dirección de Obras Públicas estará en relación con la naturaleza y magnitud de la obra por ejecutar y se fijara de conformidad con las siguientes bases:
+El tiempo de vigencia de las licencias de construcción que expida la Dirección de Desarrollo Urbano y Planificación Territorial estará en relación con la naturaleza y magnitud de la obra por ejecutar y se fijara de conformidad con las siguientes bases:
 
 I. Para la construcción de obras con superficie hasta de trescientos metros cuadrados, la vigencia máxima será de doce meses; de trescientos un metros cuadrados hasta mil metros cuadrados, de veinticuatro meses, y de más de mil un metros cuadrados, de treinta y seis meses;
 
@@ -8903,21 +9501,31 @@ II. Si terminado el plazo autorizado para la construcción de una obra, ésta no
 
 III. Se tendrá opción a solicitar a la propia Dirección, dentro del plazo de vigencia de la Licencia, una suspensión temporal no mayor a seis meses, reactivándose el lapso disponible al término de ésta.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 883.
 
-En las zonas que tengan un valor artístico, histórico y/o cultural determinadas por las autoridades correspondientes, no podrán ejecutarse nuevas construcciones, obras, demoliciones o instalaciones de cualquier naturaleza sin la previa autorización de la Dirección de Obras Públicas y el dictamen del Instituto Nacional de Antropología e Historia.
+En las zonas que tengan un valor artístico, histórico y/o cultural determinadas por las autoridades correspondientes, no podrán ejecutarse nuevas construcciones, obras, demoliciones o instalaciones de cualquier naturaleza sin la previa autorización de la Dirección de Desarrollo Urbano y Planificación Territorial, el dictamen del Instituto Nacional de Antropología e Historia y con base al reglamento correspondiente a imagen urbana.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 884.
 
-Los propietarios de inmuebles productos de una subdivisión o de la fusión de dos o más predios, o de construcciones que se pretendan realizar ocupando dos o más lotes contiguos, deberán presentar las autorizaciones correspondientes a la subdivisión o fusión, mismas que se tramitan en la ventanilla autorizada por la Dirección de Obras Públicas.
+Los propietarios de inmuebles productos (sic) de una subdivisión o de la fusión de dos o más predios, o de construcciones que se pretendan realizar ocupando dos o más lotes contiguos, deberán presentar las autorizaciones correspondientes a la subdivisión o fusión, mismas que se tramitan en la Dirección de Desarrollo Urbano y Planificación Territorial.
+
+En caso de existir una ventanilla para el trámite se turnará a la Dirección para evaluar si procede o no la autorizada.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 885.
 
-Los propietarios de predios que se encuentra en un conjunto sujeto al régimen de propiedad en condominio, que deseen realizar cualquier tipo de obra, deberán presentar un oficio de autorización y los planos del proyecto en dos tantos sellados y firmados por la administración del condominio o asamblea de condóminos legalmente constituida.
+Los propietarios de predios que se encuentra (sic) en un conjunto sujeto al régimen de propiedad en condominio o desarrollo inmobiliario especial, que deseen realizar cualquier tipo de obra, deberán presentar un oficio de autorización y los planos del proyecto en dos tantos sellados y firmados por la administración del condominio o asamblea de condóminos legalmente constituida.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 886.
 
-Para el trámite de la licencia de construcción, reparación o ampliaciones menores de sesenta metros cuadrados de superficie en una casa habitación unifamiliar, el particular deberá presentar a la Dirección de Obras Públicas lo siguiente:
+Para el trámite de la licencia de construcción, reparación o ampliaciones menores de sesenta metros cuadrados de superficie en una casa habitación unifamiliar, el particular deberá presentar a la Dirección de Desarrollo Urbano y Planificación Territorial, lo siguiente:
 
 I. Constancia de compatibilidad urbanística y número oficial;
 
@@ -8927,9 +9535,11 @@ III. Recibo de pago o contrato de los servicios de agua potable y alcantarillado
 
 IV. Solicitud de licencia de construcción y bitácora de obra debidamente llenas y firmadas por el propietario, y en su caso un Perito Responsable de Obra, de conformidad con el siguiente artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 887.
 
-Se requerirá un perito responsable de obra, debidamente registrado y vigente ante la Presidencia Municipal, de acuerdo a las siguientes especificaciones:
+Se requerirá un perito responsable de obra, debidamente registrado y vigente ante la Dirección de Desarrollo Urbano y Planificación Territorial, de acuerdo a las siguientes especificaciones:
 
 I. Las obras que requieren de perito responsable, conforme al presente título, será para las construcciones siguientes:
 
@@ -8941,25 +9551,39 @@ c). Cuando se trate de ampliaciones en primer nivel, planta alta o niveles subse
 
 Sólo se eximirá de este requisito cuando se trate de una primera ampliación de dieciocho metros cuadrados o menos en primer nivel exclusivamente, sólo cuando los muros de la ampliación coincidan con los de planta baja y no sean de adobe.
 
-II. Obras que se asignan por Servicio Social a Peritos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE MAYO DE 2023)</small>
 
-a). Cuando se trate de una primera ampliación en primer nivel exclusivamente, en un barrio, colonia o fraccionamiento de tipo popular o de interés social, si los claros no exceden de cuatro metros de longitud, y los muros de la planta baja no sean de adobe y coincidan con los de la planta alta y superficie de ampliación de dieciocho a treinta y seis metros cuadrados, así mismo que la casa ya ampliada no sobrepase los noventa metros cuadrados construidos;
+II. Obras que se asignan por servicio social
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
+a). Cuando se trate de una primera ampliación en primer nivel exclusivamente, en un barrio, colonia o fraccionamiento, si los claros no exceden de cuatro metros de longitud, y los muros de la planta baja no sean de adobe y coincidan con los de la planta alta y superficie de ampliación de dieciocho a treinta y seis metros cuadrados, así mismo que la casa ya ampliada no sobrepase los noventa metros cuadrados construidos;
 
 b). En dictamen de Estabilidad Estructural de fincas dañadas o afectadas por grietas en el subsuelo, elaborado por un Perito Especializado en Estructuras y/o Mecánica de Suelos.
 
-III. Si la finca a construir o ampliar, no se ubica dentro de un fraccionamiento habitacional urbano autorizado como tal, deberá presentar además, la constancia de compatibilidad urbanística autorizada para uso habitacional; y,
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-IV. Si la construcción o ampliación contiene algún espacio destinado para uso no habitacional, por ejemplo: para local comercial, consultorio, lonchería, bodega, etc. o se prevé para un uso habitacional multifamiliar, deberá presentar en este caso la constancia de compatibilidad urbanística autorizada para tal uso incluyendo el habitacional.
+III. Si la finca a construir o ampliar, no se ubica dentro de un fraccionamiento habitacional urbano autorizado como tal, deberá presentar, además, la constancia de alineamiento y compatibilidad urbanística autorizada para tal uso; y,
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+IV. Si la construcción o ampliación contiene algún espacio para un uso del suelo diferente al habitacional, ya sea cualquier aprovechamiento comercial, servicios o industrial, o se prevé para un uso habitacional multifamiliar, deberá presentar en este caso la constancia de alineamiento y compatibilidad urbanística autorizada para tal uso incluyendo el habitacional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 888.
 
-Para el trámite de licencias para construcción, reparación o ampliaciones mayores de noventa metros cuadrados de superficie en una vivienda; o construcción en serie de una o varias viviendas de cualquier superficie o proyectos tipo se requiere presentar a la Dirección de Obras Públicas Municipal:
+Para el trámite de licencias para construcción, reparación o ampliaciones mayores de noventa metros cuadrados de superficie en una vivienda; o construcción en serie de una o varias viviendas de cualquier superficie o proyectos tipo se requiere presentar a la Dirección de Desarrollo Urbano y Planificación Territorial:
 
-I. Constancia de compatibilidad urbanística y número oficial del predio donde se pretende construir;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+I. Constancia de alineamiento y compatibilidad urbanística y número oficial del predio donde se pretende construir;
 
 II. Copia del contrato de servicios de agua potable y alcantarillado del predio donde se pretende construir;
 
-III. Copia de constancia de propiedad, ya sean escrituras con sellos de inscripción ante el Registro Público de la Propiedad, contrato de compraventa notariado o constancia notarial;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+II (SIC). Copia de título de propiedad de propiedad (sic) o escrituras con sellos de inscripción ante el Registro Público de la Propiedad, en caso de contrato de compra-venta esta deberá de anexar copia derivada de la propiedad o protocolo notariado del proceso de escrituración;
 
 IV. Copia del recibo al corriente de pago del impuesto a la propiedad raíz;
 
@@ -8977,7 +9601,9 @@ d). Dimensionamiento y cálculo de: cimentación, columnas y/o muros, entrepisos
 
 VII. Cuatro copias por lámina de los planos de la obra firmados por el Perito Responsable de Obra y los Peritos Especializados, en caso de requerir estos últimos conforme al presente código, debiendo contener lo siguiente:
 
-a). Plantas arquitectónicas con instalación sanitaria de todos y cada uno de los niveles del inmueble, incluyendo sótanos, semisótanos, cuartos de servicio en el último nivel, etc., indicando también su ubicación respecto del predio, y el uso o destino de cada espacio
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
+a). Plantas arquitectónicas con instalación sanitaria de todos y cada uno de los niveles del inmueble, incluyendo sótanos, semisótanos, cuartos de servicio en el último nivel, indicando también su ubicación respecto del predio, y el uso de cada espacio.
 
 b). Corte sanitario general longitudinal o transversal indicando registros sanitarios, pendientes mínimas del dos por ciento y diámetros de la tubería de drenaje, altura de entrepisos y la altura total de la finca con respecto a los niveles de las banquetas
 
@@ -8989,17 +9615,25 @@ e). Cuadro de datos indicando: tipo de obra, ubicación, propietario, contenido,
 
 No se admitirán correcciones, enmendaduras, ni añadiduras de ningún tipo en los planos y memoria de cálculo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 889.
 
 En los casos de construcción de casas en serie, se deberá presentar:
 
-I. Copia de la factibilidad de servicios de agua potable y alcantarillado para los predios donde se pretenda construir, expedida por el organismo municipal regulador del agua potable y alcantarillado, en caso de que la factibilidad esté condicionada, deberá comprobar ante la Dirección de Obras Públicas y Planeación Municipal el cumplimiento oportuno de todas las condiciones para que la documentación le sea recibida;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-II. En caso de que no exista la factibilidad de los servicios de agua, en su lugar se podrá presentar un convenio escrito con el organismo municipal regulador del agua potable y alcantarillado, en el que se contenga la obligación para el constructor y/o propietario de no entregar ninguna vivienda sino hasta que el adquirente contrate los servicios de agua potable y alcantarillado;
+I. Copia de la factibilidad de servicios de agua potable y alcantarillado para los predios donde se pretenda construir, expedida por el organismo municipal regulador del agua potable y alcantarillado, en caso de que la factibilidad esté condicionada, deberá comprobar ante la Dirección de Desarrollo Urbano y Planificación Territorial el cumplimiento oportuno de todas las condiciones para que la documentación le sea recibida;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+II. En caso de que exista la factibilidad del servicio de agua y no exista el abasto para el servicio de agua, se podrá presentar un convenio escrito con el organismo municipal regulador del agua potable y alcantarillado, en el que la prestación de los servicios correrá a cargo por el organismo en tanto se instala la infraestructura por parte del desarrollador, fraccionador y/o propietario hasta complementar a todo el fraccionamiento, condominio o desarrollo inmobiliario especial;
 
 III. Copia de un contrato temporal por consumo de agua para la construcción de las viviendas; y,
 
 IV. Copia de planos firmado por el Perito Responsable de Obra por cada vivienda a edificar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 890.
 
@@ -9009,11 +9643,15 @@ I. Cuando la obra o ampliación cuente con un espacio destinado a usos diferente
 
 II. Cuando el predio se ubique en una zona no regularizada como fraccionamiento habitacional; y,
 
-III. Cuando se trate de usos habitacionales dúplex, multifamiliares o condominio vertical dúplex, etc.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+III. Cuando se trate de usos habitacionales dúplex, multifamiliares, condominio vertical dúplex o desarrollo especial inmobiliario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 891.
 
-Para el trámite de licencias de construcción para edificios de oficinas, comercios y otros usos diferentes al habitacional mayores de sesenta metros cuadrados construidos, se requiere presentar ante la Dirección de Obras Públicas, lo siguiente:
+Para el trámite de licencias de construcción para edificios de oficinas, comercios y otros usos diferentes al habitacional mayores de sesenta metros cuadrados construidos, se requiere presentar ante la Dirección de Desarrollo Urbano y Planificación Territorial, lo siguiente:
 
 I. Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
@@ -9035,7 +9673,9 @@ V. Corresponsiva de peritos especializados en los casos que prevé como requisit
 
 VI. Cuatro copias por lámina de los planos de la obra firmados por el Perito Responsable de Obra y los Peritos Especializados, en caso de requerir estos últimos, conteniendo lo siguiente
 
-a) Plantas arquitectónicas con instalación sanitaria de todos y cada uno de los niveles de la finca incluyendo sótanos, semisótanos, cuartos de servicio en el último nivel, etc., indicando también su ubicación respecto del predio y el uso o destino de cada espacio;
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
+a) Plantas arquitectónicas con instalación sanitaria de todos y cada uno de los niveles de la finca incluyendo sótanos, semisótanos, cuartos de servicio en el último nivel, indicando también su ubicación respecto del predio y el uso de cada espacio;
 
 b) Corte sanitario general longitudinal o transversal indicando registros sanitarios, pendientes mínimas del dos por ciento y diámetros de la tubería de drenaje, altura de entrepisos y la altura total del inmueble con respecto a los niveles de las banquetas;
 
@@ -9053,9 +9693,11 @@ h) Cuando el proyecto presente algún espacio o espacios que carezcan de ventila
 
 i) Se requerirá la autorización del Instituto de Salud del Estado de Aguascalientes para la construcción, remodelación, ampliación o modificación de clínicas, hospitales, centros de salud, laboratorios, bancos de sangre y similares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 892.
 
-Para el trámite de licencia de construcción para estaciones de servicio o gasolineras se requiere presentar a la Dirección de Obras Públicas Municipal lo siguiente:
+Para el trámite de licencia de construcción para estaciones de servicio o gasolineras se requiere presentar a la Dirección de Desarrollo Urbano y Planificación Territorial lo siguiente:
 
 I. Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
@@ -9063,13 +9705,21 @@ II. Solicitud y bitácora llenas y firmadas por perito responsable de obra, peri
 
 III. Copia del contrato de servicios de agua potable y alcantarillado del predio donde se pretende construir;
 
-IV. Dictamen de impacto ambiental autorizado por el Instituto del Medio Ambiente del Estado;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-V. Memoria de cálculo estructural y planos estructurales, firmados por el Perito Responsable de Obra y por un Perito Especializado en Estructuras, así como e (sic) plano de cimentación signado por el perito en mecánica de suelos;
+IV. Dictamen de evaluación (sic) impacto ambiental autorizado por el Secretaría de Sustentabilidad de Medio Ambiente y Aguas;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+V. Memoria de cálculo estructural y planos estructurales, firmados por el Perito Responsable de Obra y por un Perito Especializado en Estructuras, así como el plano de cimentación signado por el perito en mecánica de suelos;
 
 VI. Planos de la instalación hidráulica y sanitaria autorizados por el organismo municipal rector del agua potable y alcantarillado;
 
-VII. Plano del proyecto indicando accesos, salidas y circulaciones interiores con la autorización de la Subcomisión de Vialidad, de la Secretaría de Planeación y Desarrollo Regional del Estado;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VII. Plano del proyecto indicando accesos, salidas y circulaciones interiores con la autorización de la Dirección de Desarrollo Urbano y Planificación Territorial;
+
+Para este fin se requiere de los Estudios de Impacto Vial y Manifiesto de Impacto Urbano Significativo.
 
 VIII. Planos de planta de conjunto, indicando drenajes, registros, areneros, trampas de grasas y aceites, detalles en planta y corte, rejillas, trincheras, pendientes y diámetros, extinguidores y sistema contra incendio, firmados por el perito responsable de obra;
 
@@ -9077,7 +9727,9 @@ IX. Planos de planta de conjunto, indicando accesos, salidas, circulaciones de a
 
 X. Planos arquitectónicos de conjunto, indicando área de tanque de almacenamiento, área de oficinas, baño, vestidores, dormitorios y comercios, área de despacho de combustible, áreas verdes, etc., firmados por el perito responsable de obra;
 
-XI. Planos arquitectónicos con instalación sanitaria incluyendo plantas, cortes sanitarios y fachadas de el edificio administrativo firmados por el perito responsable de obra; y,
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+XI. Planos arquitectónicos con instalación sanitaria incluyendo plantas, cortes sanitarios y fachadas del edificio administrativo firmados por el perito responsable de obra; y,
 
 XII. Además de lo anterior:
 
@@ -9089,11 +9741,15 @@ c) Cuando el proyecto presente algún espacio o espacios que carezcan de ventila
 
 d) Se deberá respetar en el proyecto todas y cada una de las restricciones y condiciones indicadas en la constancia de Alineamiento y Compatibilidad Urbanística.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 893.
 
-Para el trámite de licencias de demolición, se deberán presentar ante la Dirección de Obras Públicas Municipal; los siguientes documentos:
+Para el trámite de licencias de demolición, se deberán presentar ante la Dirección de Desarrollo Urbano y Planificación Territorial; los siguientes documentos:
 
-I. Constancia de alineamiento, compatibilidad urbanística y número oficial;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+I. Constancia de alineamiento y compatibilidad urbanística y número oficial;
 
 II. Recibo de pago o contrato de servicios de agua potable y alcantarillado correspondiente al predio donde se ubica la finca a demoler;
 
@@ -9109,11 +9765,15 @@ b) Programa de demolición elaborado y firmado por el perito responsable de obra
 
 No se permitirá realizar obras de rebaje o demolición de muros medianeros. Entiéndase por muros medianeros los que, en común a dos predios colindantes los divide y en ocasiones sostiene techumbres de ambas fincas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 895.
 
 Para obras de reposición y/o modificación de banquetas se requiere presentar:
 
-I. Constancia de alineamiento, compatibilidad urbanística y número oficial;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+I. Constancia de alineamiento y compatibilidad urbanística y número oficial;
 
 II. Recibo de pago o contrato de servicio de agua potable y alcantarillado; y,
 
@@ -9151,13 +9811,59 @@ III. Presentar croquis con medidas de la ubicación de la colocación del tapial
 
 Se requerirá licencia para la colocación de anuncios publicitarios.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 899.
 
-Todo anuncio, propaganda o publicidad que sea colocado en las fincas declaradas como Monumentos Históricos o Artísticos, deberá contar con el visto bueno del Instituto Nacional de Antropología e Historia y sujetarse a lo que este organismo le indique.
+Todo anuncio, propaganda o publicidad que sea colocado en las fincas declaradas como Monumentos Históricos o Artísticos, deberá apegarse al reglamento de imagen urbana y contar con el visto bueno del Instituto Nacional de Antropología e Historia y sujetarse a lo que este organismo le indique.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO DE REFORMAS, PUBLICADO EN EL P.O. DE 1 DE MAYO DE 2023, PÁGINAS DE LA 74 A LA 75. SE SUGIERE CONSULTAR LA CRONOLOGÍA DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 900.
 
-No se permitirán en la delimitación del centro histórico del Municipio, los anuncios comerciales que se instalen sobre azoteas, ni los letreros en manta, cartón o cualquier otro material que se pretenda colocar de paramento sobre una calle, entre arcos, postes o fachadas.
+No se permitirán en la delimitación del centro histórico de la ciudad de San José de Gracia, los anuncios comerciales que se instalen sobre azoteas, ni los letreros en manta, cartón o cualquier otro material que se pretenda colocar de paramento sobre una calle, entre arcos, postes o fachadas.
+
+I… (sic)
+
+a) Entendiéndose por vialidad de tipo local a todas aquellas calles y/o andadores que son exclusivamente de acceso directo a las casas y/o departamentos habitacionales. En este tipo de calles no se permite el tránsito vehicular pesado, ni de carga, ni de pasajeros, tampoco las rutas de transporte público y urbano.
+
+b) En este tipo de vialidad no se permitirá ningún tipo de propaganda, publicidad o anuncio que se localice en bardas o muros de las viviendas, dentro de predios soportados por estructuras y en azoteas
+
+c) Todo comercio de tipo inmediato que se ubique en una vialidad de este tipo, únicamente se le permitirá la colocación de anuncios indicando la razón social y el giro comercial.
+
+d) El tipo de anuncio que se permite es el pintado y adosado; podrá rotularse en el muro de la fachada, en el muro lateral en caso de encontrarse en esquina, adosado a los mismos o sobre el pretil de la azotea.
+
+e) El material que se permite puede ser; rotulación en muro, en manta y en acrílico
+
+f) Las dimensiones máximas del anuncio que deberán cumplirse son:
+
+II. En vialidades subcolectoras:
+
+a) Entendiéndose por vialidad colectora, aquellas calles y avenidas que se interceptan con las calles locales y que conducen el tránsito de una zona específica, debiendo estar conectadas con el sistema de vialidades secundarias.
+
+b) En vialidades subcolectoras se permiten al igual que en las locales el anuncio rotulado y adosado.
+
+c) Todos los comercios y/o servicios generales que se encuentren localizados en una vialidad de este tipo, deberán indicar en el anuncio, la razón social y el giro del negocio.
+
+d) El anuncio podrá ubicarse en el muro de la fachada, en el muro lateral, adosado a los mismos o sobre el pretil de la azotea, ya sea mediante la rotulación en los muros, en mantas y en acrílico.
+
+e) Las dimensiones máximas permitidas que deberán respetarse son:
+
+III. Las vialidades secundarias o colectoras:
+
+a) Son todas aquellas arterias y avenidas que sirven como red vial para el movimiento del tránsito de paso de un área a otra dentro del ámbito urbano. Permite un enlace directo entre los generadores del tránsito primarios (sic), zonas y centros comerciales, de negocios y centros de empleo principalmente. Estas vías de comunicación permiten el enlace de zonas habitacionales con vialidades primarias.
+
+b) En este tipo de vialidad se permiten los anuncios de tipo: adosado, pintado, auto soportado e integrado. También se permitirán los anuncios de tipo bandera, siempre y cuando éstos no salgan del alineamiento y se encuentren dentro del predio sin invadir la vía pública.
+
+c) El tipo de material permitido podrá ser: rotulación en muro, manta, acrílicos y luminosos.
+
+d) Las características permitidas varían de acuerdo a previo estudio que realice la Dirección, conforme a este Código y el Código Urbano para el Estado de Aguascalientes;
+
+IV. Las vialidades primarias:
+
+Son aquellas vialidades cuya función es la de facilitar la movilidad de altos volúmenes de tránsito de paso a través del área urbana, permitiéndole al sistema vial cumplir su función adecuadamente entre los principales centros generadores de tránsito.
 
 ###### ARTÍCULO 901.
 
@@ -9221,9 +9927,11 @@ Son aquellas vialidades cuya función es la de facilitar la movilidad de altos v
 
 Perito Responsable de Obra, es la persona física que se hace responsable de la observancia de las disposiciones aplicables del presente código y del Código Urbano, en las obras para las que otorgue su responsiva.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 903.
 
-La calidad de Perito Responsable de Obra se adquiere con el registro de la persona ante la Presidencia Municipal, en específico ante la Dirección de Obras Públicas Municipal.
+La calidad de Perito responsable de Obra se adquiere con el registro de la persona ante la Dirección de Desarrollo Urbano y Planificación Territorial.
 
 ###### ARTÍCULO 904.
 
@@ -9257,9 +9965,11 @@ Il. Acepte la responsabilidad de una obra suspendida para reiniciarla bajo su su
 
 III. Suscriba un dictamen de seguridad estructural, de carácter arquitectónico o de funcionamiento de alguna instalación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 907.
 
-El Perito responsable de Obra será el único responsable de la ejecución de la construcción y deberá:
+El Perito Responsable de Obra será el único responsable de la ejecución de la construcción y deberá:
 
 I. Dirigir y vigilar que la obra se desarrolle con apego al proyecto aprobado, conforme a los ordenamientos de este Libro;
 
@@ -9271,23 +9981,33 @@ IV. Visitar la obra en todas las etapas importantes del proceso de construcción
 
 V. Colocar en un lugar visible de la obra un letrero con el nombre, número de registro de perito y teléfono, de material rígido no intemperizable y de difícil destrucción, de fácil lectura a quince metros de distancia con fuente clara sobre fondo contrastante y con dimensión mínima de cuarenta por sesenta centímetros;
 
-VI. Verificar que se encuentre en la obra una copia de: licencia de construcción, del alineamiento y de los planos autorizados; y,
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VI. Verificar que se encuentre en la obra una copia de: licencia de construcción, de la constancia de alineamiento y compatibilidad urbanística y de los planos autorizados; y,
 
 VII. Refrendar su calidad de Perito el mes de enero de cada año actualizando sus datos y comprobando el cumplimiento del servicio social que le haya requerido la Presidencia Municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 908.
 
 Las funciones del Perito Responsable de Obra y en su caso del Perito Especializado, en aquellas obras para las que haya dado su responsiva profesional, terminarán:
 
-I. Cuando ocurra cambio, suspensión, abandono o retiro del Perito Responsable de Obra y en su caso del Perito Especializado. En este caso se deberá levantar un acta asentado en detalle él avance de la obra hasta el momento de la suspensión, la cual será suscrita por una persona designada por la Dirección de Obras Públicas, por el Perito Responsable y por el propietario de la obra; el cambio de Perito Responsable no exime al anterior de su responsabilidad por la parle de la obra que le haya correspondido dirigir. La Dirección de Obras Públicas ordenará la suspensión de la obra cuando el perito responsable no sea sustituido en forma inmediata, y no permitirá su reanudación hasta en tanto no se designe nuevo Perito;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+I. Cuando ocurra cambio, suspensión, abandono o retiro del Perito Responsable de Obra y en su caso del Perito Especializado. En este caso se deberá levantar un acta asentado en detalle el avance de la obra hasta el momento de la suspensión, la cual será suscrita por una persona designada por la Dirección de Desarrollo Urbano y Planificación Territorial, por el Perito Responsable y por el propietario de la obra; el cambio de Perito Responsable no exime al anterior de su responsabilidad por la parle (sic) de la obra que le haya correspondido dirigir. La Dirección de Desarrollo Urbano y Planificación Territorial ordenará la suspensión de la obra cuando el perito responsable no sea sustituido en forma inmediata, y no permitirá su reanudación hasta en tanto no se designe nuevo Perito;
 
 II. Cuando no ha refrendado su calidad de Perito Responsable de Obra y en su caso del Perito Especializado, se suspenderán las obras en proceso de ejecución para las que haya dado responsiva profesional; y
 
-III. Cuando la Dirección de Obras Públicas autorice la ocupación de la obra. El término de las funciones del Perito Responsable de obra no le exime de la responsabilidad de carácter civil o administrativo que pudiera derivarse de su intervención en la obra para la cual haya otorgado su responsiva profesional.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+III. Cuando la Dirección de Desarrollo Urbano y Planificación Territorial autorice la ocupación de la obra. El término de las funciones del Perito Responsable de obra no le exime de la responsabilidad de carácter civil o administrativo que pudiera derivarse de su intervención en la obra para la cual haya otorgado su responsiva profesional.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 909.
 
-Para efectos del presente Libro, la responsabilidad profesional y de carácter administrativo de los Peritos Responsables de Obra y de los Peritos Especializados, concluirá a los tres años de la terminación de la obra; dentro del mismo lapso, la Dirección de Obras Públicas podrá exigir el cumplimiento de las obligaciones derivadas de dicha responsiva.
+Para efectos del presente Libro, la responsabilidad profesional y de carácter administrativo de los Peritos Responsables de Obra y de los Peritos Especializados, concluirá a los tres años de la terminación de la obra; dentro del mismo lapso, la Dirección de Desarrollo Urbano y Planificación Territorial podrá exigir el cumplimiento de las obligaciones derivadas
 
 ### CAPÍTULO IV. De los Proyectos Arquitectónicos
 
@@ -9297,23 +10017,35 @@ Los elementos arquitectónicos que constituyan el perfil de una fachada, tales c
 
 Los balcones abiertos situados a una altura mayor de dos metros cincuenta centímetros podrán salir del alineamiento hasta un metro, pero al igual que todos los elementos arquitectónicos, deberán ajustarse a las restricciones sobre distancias a líneas de transmisión.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 911.
 
-Cuando la acera tenga una anchura menor de un metro cincuenta centímetros, la Dirección de Obras Públicas fijará las dimensiones de los balcones y los niveles en que se pueda permitir.
+Cuando la acera tenga una anchura menor de un metro cincuenta centímetros, la Dirección de Desarrollo Urbano y Planificación Territorial fijará las dimensiones de los balcones y los niveles en que se pueda permitir.
+
+Que en todo caso no deberá de exceder los 0.60 metros
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 912.
 
-Las marquesinas podrán sobresalir del alineamiento, el ancho de la acera disminuido en sesenta centímetros, pero sin exceder de un metro; no deberán usarse como balcón cuando su construcción se proyecte sobre la vía pública. Todos los elementos de la marquesina deberán estar situados a una altura mayor de dos metros cincuenta centímetros sobre el nivel de la banqueta.
+Las marquesinas podrán sobresalir del alineamiento, el ancho de la acera disminuido en sesenta centímetros, no deberán construirse en el balcón cuando su construcción se proyecte sobre la vía pública como parte de alguna habitación o cuarto. Todos los elementos de la marquesina deberán estar situados a una altura mayor de dos metros cincuenta centímetros sobre el nivel de la banqueta.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 913.
 
-Los toldos podrán sobresalir del alineamiento el ancho de la acera, ningún elemento de los mismos deberá estar a una altura menor de dos metros veinte centímetros sobre el nivel de la banqueta. Los permisos para la colocación de toldos tendrán carácter temporal, pudiendo la Dirección de Obras Públicas revocarlos en cualquier momento que se juzgue conveniente.
+Los toldos no podrán sobresalir del alineamiento el ancho de la acera, y no podrán ser mayor a 0.60 metros y en ningún elemento de los mismos deberá estar a una altura menor de dos metros veinte centímetros sobre el nivel de la banqueta. Los permisos para la colocación de toldos tendrán carácter temporal, y con base al reglamento de imagen urbana, pudiendo la Dirección de Desarrollo Urbano y Planificación Territorial revocarlos en cualquier momento que se juzgue conveniente.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 914.
 
 Tratándose de asoleamiento entre viviendas unifamiliares y edificios superiores a cinco niveles sobre la banqueta, éstos deberán permitir un mínimo de asoleamiento en la época de invierno, respetando una separación mínima en su colindancia posterior cuando ésta coincida con la orientación norte, para ese efecto deberá respetar una distancia entre ambos que corresponda al quince por ciento de la altura máxima el edificio, sin perjuicio de cumplir con lo establecido en este Libro para patios de iluminación y ventilación.
 
-La Presidencia Municipal podrá fijar otras limitaciones a la altura de los edificios en determinadas zonas, de acuerdo con este Libro y demás legislación de la materia vigente.
+La (sic) Desarrollo Urbano y Planificación Territorial podrá fijar otras limitaciones a la altura de los edificios en determinadas zonas, de acuerdo con este Libro, el reglamento de imagen urbana, el reglamento de construcción, los esquemas o programas de desarrollo urbano y territorial y demás legislación de materia urbana vigente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 915.
 
@@ -9553,23 +10285,29 @@ Casetas de control 1.00 0.80 2.10
 
 4 El índice en metros cuadrados permitirá dimensionar el espacio mínimo necesario, considerando indistintamente personas en camas o literas.
 
-5 El índice en metros cuadrados, incluye áreas de escena o representación áreas de espectadores sentados y circulaciones dentro de las salas.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
-6 Ídem notas al pie 6 y 9
+5 El índice en metros cuadrados, incluye áreas de escena o reparación, áreas de espectadores sentados y circulaciones dentro de la sala.
 
-7 Las taquillas se colocarán ajustándose al índice de una por cada 1500 (mil quinientas) personas o fracción, sin quedar directamente a la calle y sin obstruir la circulación de accesos.
+6 (DEROGADO, P.O. 1 DE MAYO DE 2023)
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
+7 Las taquillas se colocarán ajustándose al índice de una por cada 1,500 (mil quinientas) personas, sin quedar directamente a la calle y sin obstruir la circulación de accesos.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 916.
 
-Deberán proveerse las facilidades que requieran las personas con capacidades diferentes, siendo los requisitos mínimos indispensables, los siguientes:
+Deberán proveerse las facilidades que requieran las personas con alguna discapacidad, siendo los requisitos mínimos indispensables, los siguientes:
 
-I. Todos los estacionamientos deberán destinar un cajón de estacionamiento por cada veinticinco cajones, para uso exclusivo de personas con capacidades diferentes, ubicado lo más cercano posible del acceso o elevadores. Las medidas del cajón serán de cinco por tres metros ochenta centímetros;
+I. Todos los estacionamientos deberán destinar un cajón de estacionamiento por cada veinticinco cajones, para uso exclusivo de personas con discapacidad, ubicado lo más cercano posible del acceso o elevadores. Las medidas del cajón serán de cinco por tres metros ochenta centímetros;
 
 II. Los Centros de Reunión, Edificios para Comercio, Educación, Oficinas, Espectáculos y Templos que se localicen en planta baja, deberán contar con rampas que cumplan con las condiciones que indica este Libro;
 
-III. En auditorios, teatros, cines, templos, salas de concierto y en general para todo tipo de centros de reunión o salas de espectáculos, deberá destinarse, por cada cien concurrentes o fracción, a partir de sesenta concurrentes, de un espacio para uso exclusivo de personas con capacidades diferentes, este deberá tener medidas de ochenta centímetros por un metro veinticinco centímetros, libre de butacas y fuera del área de circulación y cerca de salidas de emergencia; y,
+III. En auditorios, teatros, cines, templos, salas de concierto y en general para todo tipo de centros de reunión o salas de espectáculos, deberá destinarse, por cada cien concurrentes o fracción, a partir de sesenta concurrentes, de un espacio para uso exclusivo de personas con discapacidad, este deberá tener medidas de ochenta centímetros por un metro veinticinco centímetros, libre de butacas y fuera del área de circulación y cerca de salidas de emergencia; y,
 
-IV. Los Centros de Reunión y Salas de Espectáculos deberán contar con rampas que permitan el acceso a personas con capacidades diferentes a todos los puntos de la planta baja y en entrepisos con altura hasta de seis metros, sobre el nivel de la banqueta, que cumplan con la pendiente máxima y ancho que se indica en este Libro.
+IV. Los Centros de Reunión y Salas de Espectáculos deberán contar con rampas que permitan el acceso a personas con discapacidad a todos los puntos de la planta baja y en entrepisos con altura hasta de seis metros, sobre el nivel de la banqueta, que cumplan con la pendiente máxima y ancho que se indica en el reglamento de accesibilidad universal para el municipio de San José de Gracia.
 
 ###### ARTÍCULO 917.
 
@@ -9641,17 +10379,27 @@ En estos casos, la proyección horizontal del vano libre del domo o tragaluz, po
 
 Se aceptara la ventilación cenital, siempre y cuando la superficie libre cumpla con el cinco por ciento del área del local.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 925.
 
 Las características y dimensiones de las circulaciones horizontales deberán ajustarse a las siguientes disposiciones:
 
 I. Todos los locales de un edificio deberá tener salidas, pasillos o corredores que conduzcan directamente a las puertas de salida o a las escaleras;
 
-II. El ancho mínimo de los pasillos y de las circulaciones para el público cuando su longitud no exceda de seis metros será de un metro veinte centímetros, excepto en interiores de viviendas unifamiliares y de oficinas en donde podrá ser noventa centímetros. En pasillos con longitud mayor, su anchura deberá ser aumentada proporcionalmente según lo determine la Dirección de Obras Públicas; las circulaciones deberán atender a lo estipulado en las reglas de accesib8ildiad (sic) para personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-III. Los pasillos y los corredores no deberán tener salientes o tropezones que disminuya su anchura, a una altura inferior a dos metros cincuenta centímetros, debiendo atender las recomendaciones de accesibilidad para personas con capacidades diferentes; y,
+II. El ancho mínimo de los pasillos y de las circulaciones para el público cuando su longitud no exceda de seis metros será de un metro veinte centímetros, excepto en interiores de viviendas unifamiliares y de oficinas en donde podrá ser noventa centímetros. En pasillos con longitud mayor, su anchura deberá ser aumentada proporcionalmente según lo determine la Dirección Desarrollo Urbano y Planificación Territorial; las circulaciones deberán atender a lo estipulado en el reglamento de accesibilidad universal para el municipio de San José de Gracia;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+III. Los pasillos y los corredores no deberán tener salientes o tropezones que disminuya su anchura, a una altura inferior a dos metros cincuenta centímetros, debiendo atender las recomendaciones de accesibilidad para personas con discapacidad; y,
 
 IV. La altura mínima de los barandales, cuando se requieran, será de noventa centímetros y se construirán de manera que impidan el paso de niños a través de ellos. En caso de edificios para habitación colectiva y escuelas de educación básica, los barandales calados deberán ser solamente de elementos verticales, con excepción de los pasamanos, cuyo diseño impedirá que sirva de asiento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2023)</small>
+
+V. El ancho de los descansos deberá ser, cuando menos, igual a la anchura de la escalera;
 
 ###### ARTÍCULO 926.
 
@@ -9679,11 +10427,15 @@ X. La altura mínima de los barandales, siendo necesarios estos cuando la escale
 
 XI. Las escaleras de caracol se permitirán solamente para comunicar niveles pertenecientes a un mismo local, oficina, departamento o casa unifamiliar y deberán tener un radio útil mínimo de sesenta metros si son de servicio o de noventa centímetros si son principales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 927.
 
-Las escaleras para personas con capacidades diferentes deberán contar con lo siguiente:
+Las escaleras para personas con discapacidad deberán contar con lo siguiente:
 
-I. Las escaleras no verán (sic) ser la única opción para transitar entre desniveles;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+I. Las escaleras no deberán ser la única opción para transitar entre desniveles;
 
 II. Los escalones deberán ser firmes y antiderrapantes;
 
@@ -9703,6 +10455,8 @@ IX. Pasamanos a 75 y 90 centímetros de altura, con proyección de 30 centímetr
 
 X. Barrera en la proyección de 1 metro 90 centímetros de altura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 928.
 
 Las rampas para peatones en cualquier tipo de construcción, deberán satisfacer los siguientes requisitos:
@@ -9713,11 +10467,19 @@ II. La pendiente máxima será del diez por ciento;
 
 III. Los pavimentos serán antiderrapantes; y
 
-IV. La altura mínima de los barandales, cuando se requieran, será de noventa centímetros.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2023)</small>
+
+IV. En caso extraordinario deberá de apegarse el reglamento de accesibilidad universal para el municipio de San José de Gracia; Y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE MAYO DE 2023)</small>
+
+V. La altura mínima de los barandales, cuando se requieran, será de noventa centímetros.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 929.
 
-Las rampas para personas con capacidades diferentes y personas de la tercera edad deberán respetar los parámetros siguientes:
+Las rampas para personas con discapacidad y personas de la tercera edad deberán respetar los parámetros siguientes:
 
 I. La longitud máxima de las rampas entre descansos será de seis metros y los descansos tendrán una longitud mínima igual al ancho de la rampa y nunca menor a un metro veinte centímetros;
 
@@ -9731,7 +10493,9 @@ V. Área de aproximación libre de obstáculos, con cambio de textura en el piso
 
 VI. Rampa con pendiente del 6% y acabado antiderrapante;
 
-VII. Pasamanos a 0.75 y 0.0 metros de altura; y,
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VII. Pasamanos a 0.75 metros de altura; y,
 
 VIII. Borde de protección de cinco por cinco centímetros.
 
@@ -9785,17 +10549,21 @@ Las edificaciones deberán contar con las instalaciones y equipos requeridos par
 
 Las escaleras y rampas de edificios que no sean unifamiliares, deberán construirse con materiales no combustibles.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 940.
 
-Los depósitos de residuos sólidos domésticos, papel, trapos y ropa, roperías de hoteles, hospitales, etc. estarán protegidos por medio de aspersores de agua contra incendio de acción automática en caso de incendio. Exceptuando los depósitos de sólidos, líquidos o gases combustibles para cuyos casos la Dirección de Obras Públicas determinará lo conducente.
+Los depósitos de residuos sólidos domésticos, papel, trapos y ropa, roperías de hoteles, hospitales, hostales. estarán protegidos por medio de aspersores de agua contra incendio de acción automática en caso de incendio. Exceptuando los depósitos de sólidos, líquidos o gases combustibles para cuyos casos la Dirección de Desarrollo Urbano y Planificación Territorial, en conjunto con la Coordinación de Protección Civil Municipal quienes determinarán lo conducente.
 
 ###### ARTÍCULO 941.
 
 Queda prohibido el almacenamiento de líquidos o materiales inflamables o explosivos en las circulaciones generales y en las zonas de concentración de personas dentro de cualquier tipo de edificación y centro de reunión.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 942.
 
-Cuando se utilicen plafones a base de materiales que no sean a prueba de fuego deberán presentarse las medidas contra incendio para ser aprobadas por la Dirección de Obras Públicas Municipal.
+Cuando se utilicen plafones a base de materiales que no sean a prueba de fuego deberán presentarse las medidas contra incendio para ser aprobadas por la Coordinación de Protección Civil Municipal.
 
 ###### ARTÍCULO 943.
 
@@ -9817,11 +10585,15 @@ En los pisos de las áreas de circulaciones generales de edificios, se empleará
 
 Los proyectos de obras nuevas incluirán los espacios suficientes para estacionamiento dentro del predio, conforme a este capítulo. Igualmente, cuando se cambie el uso del suelo de un predio u obra, deberá condicionarse la autorización de dicho cambio a que se ajuste la obra o edificación a los requerimientos mínimos en materia de estacionamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 948.
 
 Los requerimientos mínimos en materia de cajones de estacionamiento son los siguientes:
 
-I. Servicios al Público:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE MAYO DE 2023)</small>
+
+I. Comercio o Servicios:
 
 a) Tiendas de Servicios 1 por cada 20 m2 construidos;
 
@@ -9853,7 +10625,9 @@ a) Templos: 1 por cada 20 m2 construidos; construidos; (sic)
 
 b) Conventos y Monasterios: 1 por cada 100 m2 construidos;
 
-V. Recreación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE MAYO DE 2023)</small>
+
+V. Recreación
 
 a) Alimentos y Bebidas: 1 por cada 7.5 m2 construidos;
 
@@ -9861,13 +10635,19 @@ b) Entretenimiento: 1 por cada 12 m2 construidos;
 
 c) Salones de Fiestas, Bailes o para Banquetes: 1 por cada12 m2 construidos;
 
-d) Centros Nocturnos o de Espectáculos: 1 porcada (sic) 7.5 m2 construidos;
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
+d) Centros Nocturnos o de Espectáculos: 1 por cada 7.5 m2 construidos;
 
 e) Estadios y Espectáculos Deportivos: 1 por cada 20 m2 construidos;
 
-VI. Alojamiento:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE MAYO DE 2023)</small>
 
-a) Hoteles y moteles: 1 por cada 50 m2 construidos;
+VI. alojamiento.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
+a) Hoteles, moteles y hostales: 1 por cada 50 m2 construidos;
 
 VII. Comunicaciones y Transportes:
 
@@ -9897,6 +10677,8 @@ Las instalaciones hidráulicas y eléctricas de las construcciones y predios deb
 
 Las edificaciones deberán estar provistas de instalaciones de agua potable para abastecer y satisfacer la demanda mínima necesaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 951.
 
 Las edificaciones y predios deberán estar provistos de instalaciones que garanticen el drenaje eficiente de aguas negras y pluviales con las siguientes características:
@@ -9909,11 +10691,15 @@ III. Las aguas negras o usadas deberán ser conducidas por medio de drenaje sani
 
 IV. En caso de que el nivel de salida de aguas negras o de lluvia de una construcción o predio esté más abajo del nivel del colector de la vía pública, deberá proveerse de un cárcamo con equipo de bombeo;
 
-V. De no existir servicio público de drenaje sanitario, las aguas negras deberán conducirse a una fosa séptica de la capacidad adecuada;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+V. De no existir servicio público de drenaje sanitario, las aguas negras deberán conducirse a una fosa séptica de la capacidad adecuada y con las características la (sic) de las normas en (sic) la materia exige;
 
 VI. Las tuberías de ramaleo interior, de la instalación sanitaria de las edificaciones, deberán tener como mínimo un diámetro de cincuenta y un milímetros si conducen exclusivamente aguas jabonosas y de setenta y seis milímetros como mínimo si conducen aguas pluviales y/o aguas negras;
 
-VII. Cuando por el tipo de desechos se requiera la construcción de registros con arenero o cajas desgrasadoras, éstos se ejecutarán de acuerdo a las especificaciones que dicte la Dirección de Obras Públicas Municipal; y,
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+VII. Cuando por el tipo de desechos se requiera la construcción de registros con arenero o cajas desgrasadoras, éstos se ejecutarán de acuerdo a las especificaciones que dicte la norma oficial que en materia exige; y,
 
 VIII. Para el caso de clínicas, hospitales, sanatorios, consultorios y similares, deberán construirse registros con materiales no degradables, ante la corrosión por desechos orgánicos, para la conducción de este tipo de desechos, deberá usarse tubería de fierro fundido o aquellos que apruebe la instancia regulatoria de la materia correspondiente.
 
@@ -9947,9 +10733,11 @@ Para circulaciones horizontales y verticales en todas las edificaciones, excepto
 
 Las instalaciones de calderas, calentadores y aparatos similares, así como la de sus accesorios se harán de manera que no causen molestias, contaminen el ambiente ni pongan en peligro a las personas.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 958.
 
-Deberán dejarse registros, ductos y preparaciones para instalaciones telefónicas en los edificios con más de tres departamentos en comercios u oficinas con área superior a trescientos metros cuadrados en industrias o bodegas con mas de quinientos metros cuadrados, en casas de huéspedes, en hoteles, en hospitales o clínicas, en escuelas con más de tres aulas, en salas de espectáculos, en edificios para espectáculos deportivos, en clubes deportivos o sociales y en cualquier otra edificación cuya superficie construida sea mayor de mil metros cuadrados.
+Deberán dejarse registros, ductos y preparaciones para instalaciones telefónicas en los edificios con más de tres departamentos, en comercios u oficinas con área superior a trescientos metros cuadrados (300m3), en industrias o bodegas con más de quinientos metros cuadrados (500m2), en casas de huéspedes, en hoteles, moteles u hostales, en hospitales o clínicas, en escuelas con más de tres aulas, en salas de espectáculos, en edificios para espectáculos deportivos, en clubes deportivos o sociales y en cualquier otra edificación cuya superficie construida sea mayor de mil metros cuadrados.
 
 ### CAPÍTULO VI. De la Edificación Para Habitación
 
@@ -9963,25 +10751,35 @@ En los planos deberá indicarse con precisión el destino de cada local, el que 
 
 Cada vivienda de un edificio deberá contar con sus propios servicios sanitarios, conforme se establece en la tabla correspondiente de este Libro.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 961.
 
 En el proyecto de las viviendas, deberá tomarse en cuenta el crecimiento de éstas a fin de que de antemano sean consideradas las soluciones constructivas finales y arquitectónicas de las mismas.
 
-La vivienda progresiva deberá contar en un principio con un área mínima de 33 metros cuadrados.
+La vivienda progresiva deberá contar en un principio con un área mínima de 42 metros cuadrados.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 962.
 
-Las ampliaciones en unidades habitacionales, deberán ser aprobadas por la Dirección de Obras Públicas Municipal, con el fin de que armonicen con el conjunto.
+Las ampliaciones en unidades habitacionales, deberán ser aprobadas por la Dirección de Desarrollo Urbano y Planificación Territorial, con el fin de que armonicen con el conjunto.
 
-Cuando se tratare de obras en las áreas comunes, una vez que lo determine la Asamblea, con los términos que marca el Código Urbano para el Estado de Aguascalientes, recabará la aprobación de la Presidencia Municipal, para los fines citados en el párrafo anterior.
+Cuando se tratare de obras en las áreas comunes, una vez que lo determine la Asamblea, con los términos que marca el Código Urbano para el Estado de Aguascalientes, recabará la aprobación de la Dirección de Desarrollo Urbano y Planificación Territorial, para los fines citados en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 963.
 
-Vivienda rural es aquella que se encuentra en poblaciones menores de dos mil habitantes, que cuenta con un solo.
+Vivienda rural es aquella que se encuentra en poblaciones menores de 2,500 habitantes;
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 964.
 
-Las viviendas y escuelas ubicadas en el área rural que no cuenten con drenaje deberán de contar con letrina sanitaria.
+Las viviendas y escuelas ubicadas en el área rural que no cuenten con drenaje deberán de contar con letrina sanitaria con las características técnicas con la Norma Oficial Mexicana correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 965.
 
@@ -9991,7 +10789,11 @@ I. La distancia mínima vertical entre el fondo del foso de la letrina y el nive
 
 II. La distancia mínima de la letrina a la vivienda será de cinco metros; y
 
-III. Para la construcción y mantenimiento de las letrinas sanitarias deberán seguirse las normas técnicas del Instituto de Salud del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+III. Para la construcción y mantenimiento de las letrinas sanitarias deberán seguirse las normas técnicas de la comisión nacional del agua y del Instituto de Salud del Estado de Aguascalientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 966.
 
@@ -10000,6 +10802,10 @@ Se consideran anexos de la vivienda rural, los espacios para corrales de ganado 
 I. Estos elementos no podrán estar a una distancia horizontal menor de 5.00 metros de la vivienda como tal; y
 
 II. Los desechos biológicos de los animales deberán de ser canalizados hacia espacios donde no representen o constituyan fuentes de contaminación.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2023)</small>
+
+III. Para la construcción y mantenimiento de las letrinas sanitarias deberán seguirse las normas técnicas de la comisión nacional del agua y del Instituto de Salud del Estado de Aguascalientes.
 
 ### CAPÍTULO VII. De la Edificación para Comercios y Servicios
 
@@ -10015,19 +10821,29 @@ En comercios y oficinas, los cristales y espejos de gran magnitud, cuyo extremo 
 
 La superficie mínima para una oficina será de ocho metros cuadrados y su altura mínima de dos metros treinta centímetros.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 970.
 
-En el proyecto arquitectónico de los edificios comerciales se incluirán las áreas necesarias para letreros, rótulos o cualquier otra clase de anuncios, así como para los anuncios que deban integrarse al propio inmueble, con sujeción a las disposiciones de este Libro y del Código, o en casos especiales.
+En el proyecto arquitectónico de los edificios comerciales se incluirán las áreas necesarias para letreros, rótulos o cualquier otra clase de anuncios, así como para los anuncios que deban integrarse al propio inmueble, con sujeción a las disposiciones de este Código, el reglamento de imagen urbana y otras disposiciones en casos especiales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 971.
 
-Cuando la nave de un mercado tenga más de mil metros cuadrados, deberá tener una altura mínima de seis metros. Los pasillos tendrán un ancho mínimo de un metro cincuenta centímetros y no tendrán obstrucciones. Su piso será antiderrapante.
+Cuando la nave de un mercado tenga más de mil metros cuadrados, deberá tener una altura mínima de seis metros. Los pasillos tendrán un ancho mínimo de un metro cincuenta centímetros y no tendrán obstrucciones. Su piso será antiderrapante además de lo siguiente:
 
-Los accesos no tendrán una anchura menor de dos metros cincuenta centímetros.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-Por cada tres metros cuadrados o fracción, destinadas a la venta de perecederos, se contará con una salida hidráulica.
+I. Los accesos no tendrán una anchura menor de dos metros cincuenta centímetros.
 
-La superficie destinada a la ventilación será como mínimo el veinte por ciento de la superficie de los pisos.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+II. Por cada tres metros cuadrados o fracción, destinadas (sic) a la venta de perecederos, se contará con una salida hidráulica.
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+III. La superficie destinada a la ventilación será como mínimo el veinte por ciento de la superficie de los pisos; y
 
 Deberán contar con un cuarto para el depósito de basura con las dimensiones suficientes, su ventilación será cenital y su puerta deberá ser hermética.
 
@@ -10365,13 +11181,17 @@ VI. Justificación del tipo de cimentación a utilizarse y descripción del comp
 
 VII. Revisión del comportamiento de la estructura y su cimentación ante estados límite de servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1025.
 
 Con relación a los planos Estructurales, tanto de la estructura como de la cimentación, éstos deberán estar debidamente dibujados y acotados y deberán indicar lo siguiente:
 
 I. Especificaciones y recomendaciones constructivas;
 
-II. Nombre y fechas del Reglamento y Normas Técnicas Complementarias de acuerdo a los cuales está hecho el proyecto estructural;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+II. Nombre y fechas del Reglamento y Fichas Técnicas Complementarias de acuerdo a los cuales está hecho el proyecto estructural;
 
 III. Cargas vivas y otras cargas consideradas;
 
@@ -10423,9 +11243,11 @@ El proyecto arquitectónico de preferencia permitirá una estructuración regula
 
 Las construcciones que no cumplan con dichos requisitos de regularidad se diseñarán para condiciones sísmicas más severas en la forma que se especifica en dichas normas.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1030.
 
-Los acabados, recubrimientos y elementos prefabricados de concreto cuyo desprendimiento pueda ocasionar daños a los ocupantes de la construcción o a los que transiten en su exterior deberán fijarse mediante procedimientos aprobados por los Peritos Responsables según lo establece este Libro.
+Los acabados, recubrimientos y elementos prefabricados de concreto cuyo desprendimiento pueda ocasionar daños a los ocupantes de la construcción o a los que transiten en su exterior deberán fijarse mediante procedimientos aprobados por los Peritos Responsables según lo establece este Código.
 
 ###### ARTÍCULO 1031.
 
@@ -10439,13 +11261,17 @@ I. Tenga interés directo o indirecto; y,
 
 II. Tenga interés su cónyuge, consanguíneos en línea recta sin limitación de grados.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1033.
 
-Los anuncios de gran peso y dimensiones, adosados, colgantes y de azotea, deberán ser objeto de diseño estructural en los términos de este titulo, con particular atención a los efectos del viento. Deberán diseñarse los apoyos y fijaciones a la estructura principal y deberá revisarse su efecto. El proyecto de estos anuncios deberá ser aprobado por los Peritos Responsables de Obra de acuerdo a este Libro.
+Los anuncios de gran peso y dimensiones, adosados, colgantes y de azotea, deberán ser objeto de diseño estructural en los términos de este título, con particular atención a los efectos del viento. Deberán diseñarse los apoyos y fijaciones a la estructura principal y deberá revisarse su efecto. El proyecto de estos anuncios deberá ser aprobado por los Peritos Responsables de Obra de acuerdo a este Código y Reglamentos correspondientes.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1034.
 
-Cualquier perforación o alteración de un elemento estructural para alojar ductos o instalaciones deberá ser aprobada por los Peritos Responsables de Obra según este Libro quienes elaborarán planos de detalle que indiquen las modificaciones y refuerzos locales necesarios.
+Cualquier perforación o alteración de un elemento estructural para alojar ductos o instalaciones deberá ser aprobada por los Peritos Responsables de Obra según este Código quienes elaborarán planos de detalle que indiquen las modificaciones y refuerzos locales necesarios.
 
 ###### ARTÍCULO 1035.
 
@@ -10477,19 +11303,27 @@ Los Estados Límite de Falla corresponden al agotamiento definitivo de la capaci
 
 Existen dos tipos de Estados Límite de Falla: estados de falla dúctil y estados de falla frágil.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1040.
 
 Se considera falla dúctil cuando la capacidad de carga del elemento o estructura en cuestión se reduce bruscamente al alcanzarse el estado límite.
 
-Las Normas Técnicas complementarias establecen los estados límites de falla correspondientes a cada material y a cada tipo de estructura.
+Las Fichas Técnicas complementarias establecen los estados límites de falla correspondientes a cada material y a cada tipo de estructura.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1041.
 
 Deberá revisarse que, bajo el efecto de las combinaciones de acciones clasificadas en este Título, la respuesta de las estructuras comunes no exceda de los valores siguientes:
 
-I. En elementos sujetos a flexión vertical, el límite de las deformaciones será una flecha vertical, incluyendo los efectos a largo plazo, igual al claro entre doscientos cuarenta más punto cinco centímetros. Además, tratándose de elementos cuyas deformaciones afecten a elementos no estructurales que no sean capaces de soportar deformaciones apreciables el límite será igual al claro entre cuatrocientos ochenta más punto tres centímetros. Para el Caso de elementos en voladizo, los límites anteriores se multiplicarán por dos;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
 
-II. En el caso de deformaciones horizontales entre dos niveles consecutivos de una estructura, el limite será una deformación horizontal relativa igual a la altura de entrepiso entre quinientos para estructuras en cuyo interior se tengan elementos no estructurales que puedan dañarse con pequeñas deformaciones, e igual a la altura de entrepiso entre doscientos cincuenta para otros casos;
+I. En elementos sujetos a flexión vertical, el límite de las deformaciones será una flecha vertical, incluyendo los efectos a largo plazo, igual al claro entre doscientos cuarenta más punto cinco centímetros (250.50cm). Además, tratándose de elementos cuyas deformaciones afecten a elementos no estructurales que no sean capaces de soportar deformaciones apreciables el límite será igual al claro entre cuatrocientos ochenta más puntos (sic) tres centímetros (480.30cm). Para el Caso de elementos en voladizo, los límites anteriores se multiplicarán por dos;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+II. En el caso de deformaciones horizontales entre dos niveles consecutivos de una estructura, el límite será una deformación horizontal relativa igual a la altura de entrepiso entre quinientos (500) para estructuras en cuyo interior se tengan elementos no estructurales que puedan dañarse con pequeñas deformaciones, e igual a la altura de entrepiso entre doscientos cincuenta (250) para otros casos;
 
 III. Para el caso de deformaciones laterales por efecto de sismo o de viento, se observarán los límites señalados en las Normas Técnicas Complementarias correspondientes, en las cuales además se establecen los límites por choques entre estructuras adyacentes y los límites por rotura de vidrios;
 
@@ -10505,19 +11339,25 @@ VI. Además se considerará como estado limite de servicio la aparición de grie
 
 Las fuerzas internas y las deformaciones producidas por los sistemas de acciones y sus combinaciones, que actúan sobre todos los componentes de una estructura, deberán ser determinadas en base a métodos reconocidos de análisis estructural, tomando en consideración el equilibrio, la compatibilidad de deformaciones y las propiedades de los materiales a corto y a largo plazo.
 
-### CAPÍTULO III. De las Normas Técnicas Complementarias y Supletorias
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MAYO DE 2023)</small>
+
+### CAPÍTULO III. De las Fichas Técnicas Complementarias y Supletorias
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1043.
 
-Serán Normas Técnicas Complementarias del presente libro las pertenecientes al Código Municipal de Aguascalientes, al Reglamento de Construcciones para el Distrito Federal y al Manual de Obras Civiles de la Comisión Federal de Electricidad.
+Serán Fichas Técnicas Complementarias del presente libro las pertenecientes al Código Municipal de Aguascalientes, al Reglamento de Construcciones de manera suplementaria en caso de no existir serán las correspondientes para el Distrito Federal y al Manual de Obras Civiles de la Comisión Federal de Electricidad.
 
 ## TÍTULO CUARTO. DE LA EJECUCION DE OBRAS
 
 ### CAPÍTULO I. De las Generalidades
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1044.
 
-Los Peritos Responsables de obra, o los propietarios de una obra que no requiera Perito Responsable y los constructores, están obligados a vigilar que la ejecución de la misma se realice con las técnicas constructivas más adecuadas, se empleen los materiales con la resistencia y calidad especificadas en este Libro y en sus Normas Técnicas complementarias, se tomen las medidas de seguridad necesarias y se evite causar molestias o perjuicios a terceros.
+Los Peritos Responsables de obra, o los propietarios de una obra que no requiera Perito Responsable y los constructores, están obligados a vigilar que la ejecución de la misma se realice con las técnicas constructivas más adecuadas, se empleen los materiales con la resistencia y calidad especificadas en este Libro y en sus fichas Técnicas complementarias, se tomen las medidas de seguridad necesarias y se evite causar molestias o perjuicios a terceros.
 
 ###### ARTÍCULO 1045.
 
@@ -10525,19 +11365,23 @@ Durante la ejecución de cualquier construcción, el Perito Responsable de Obra,
 
 Deberán usarse redes de seguridad o cinturones de seguridad con líneas de amarre para los trabajadores, que realicen trabajos en las obras a una altura mayor de nueve metros.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1046.
 
-Los planos autorizados y las licencias de las obras deberán conservarse en las propias obras durante la ejecución de éstas y estar a disposición de los supervisores de la Dirección de Obras Públicas. Estos documentos quedarán a resguardo del propietario una vez terminadas las obras, debiendo presentarlos a la propia Dirección para cualquier aclaración, solicitud de modificación o ampliación de éstas.
+Los planos autorizados y las licencias de las obras deberán conservarse en las propias obras durante la ejecución de éstas y estar a disposición de los supervisores de la Dirección de Desarrollo Urbano y Planificación Territorial. Estos documentos quedarán a resguardo del propietario una vez terminadas las obras, debiendo presentarlos a la propia Dirección para cualquier aclaración, solicitud de modificación o ampliación de éstas.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1047.
 
-El Perito Responsable de Obra está obligado a mantener en la obra el Libro de Bitácora a que se refiere este Libro, encuadernado y foliado y tenerlo a disposición de los supervisores de la Dirección de Obras Públicas.
+El Perito Responsable de Obra está obligado a mantener en la obra el Libro de Bitácora a que se refiere este Libro, encuadernado y foliado y tenerlo a disposición de los supervisores de la Dirección de Desarrollo Urbano y Planificación Territorial.
 
-El Perito Responsable cuidará de la veracidad de las anotaciones suscritas por él, por sus auxiliares técnicos y por los contratistas que participen en la obra.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1048.
 
-Para la utilización de los distintos materiales o la aplicación de sistemas estructurales deberá seguirse procedimientos constructivos que cumplan con los requisitos especificados por la Dirección de Obras Públicas. Tales procedimientos deberán garantizar que el comportamiento de la estructura esté de acuerdo con lo especificado en el diseño estructural.
+Para la utilización de los distintos materiales o la aplicación de sistemas estructurales deberá seguirse procedimientos constructivos que cumplan con los requisitos especificados por la Dirección de Desarrollo Urbano y Planificación Territorial. Tales procedimientos deberán garantizar que el comportamiento de la estructura esté de acuerdo con lo especificado en el diseño estructural.
 
 ###### ARTÍCULO 1049.
 
@@ -10595,23 +11439,31 @@ El muestreo deberá efectuarse siguiendo métodos estadísticos que aseguren que
 
 Los elementos estructurales cuyos materiales se encuentren en ambiente corrosivo o sujetos a la acción de agentes físicos químicos o biológicos que puedan hacer disminuir su resistencia, deberán ser cubiertos con materiales o substancias protectoras y tendrán un mantenimiento preventivo que asegure su funcionamiento dentro de las condiciones previstas en el diseño.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1060.
 
-Cuando se proyecte utilizar en una construcción un material nuevo que no esté sujeto a normas de calidad reconocidas oficialmente, el Perito Responsable de obra deberá solicitar la aprobación previa de la Dirección de Obras Públicas, para lo cual presentará los resultados de las pruebas de resistencia y calidad de dicho material.
+Cuando se proyecte utilizar en una construcción un material nuevo que no esté sujeto a normas de calidad reconocidas oficialmente, el Perito Responsable de obra deberá solicitar la aprobación previa de la Dirección de Obras Públicas en conjunto con la Dirección de Desarrollo Urbano y Planificación Territorial, para lo cual presentará los resultados de las pruebas de resistencia y calidad de dicho material, para ser considerados en el reglamento de construcción y las fichas técnicas complementarias correspondientes.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1061.
 
 Cuando se utilizaren predios colindantes ajenos como área de maniobras, deberán retirarse todos los desechos producidos por la obra al término de ésta, o durante el proceso si hubiese quejas de los propietarios afectados.
 
-Para los efectos de este Artículo, deberá presentarse ante la Dirección de Obras Públicas Municipal la autorización por escrito del propietario del predio en cuestión.
+Para los efectos de este Artículo, deberá presentarse ante la Dirección de Desarrollo Urbano y Planificación Territorial la autorización por escrito del propietario del predio en cuestión.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1062.
 
-Cuando se requiera efectuar obras de pavimentación o banquetas, deberá solicitarse permiso por escrito a la Dirección de Obras Públicas, la cual investigará la viabilidad y en su caso autorizara la petición determinando las especificaciones, cuantificando los derechos y proporcionando la supervisión correspondiente.
+Cuando se requiera efectuar obras de pavimentación o banquetas, deberá solicitarse permiso por escrito a la Dirección de Desarrollo Urbano y Planificación Territorial, la cual investigará la viabilidad y en su caso autorizara la petición al particular determinando las especificaciones, cuantificando los derechos y proporcionando la supervisión correspondiente.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1063.
 
-Todas las personas que realicen obras de construcción, deberán depositar los residuos de construcción en lo (sic) lugares autorizados previamente por la autoridad municipal, en caso contrario se hará acreedor a las sanciones correspondientes.
+Todas las personas que realicen obras de construcción, deberán depositar los residuos de construcción en los lugares autorizados previamente por la autoridad municipal, en caso contrario se hará acreedor a las sanciones correspondientes.
 
 ###### ARTÍCULO 1064.
 
@@ -10625,13 +11477,17 @@ Los propietarios estarán obligados a reponer por su cuenta las banquetas y guar
 
 Siempre que se ejecuten obras de cualquier clase en la vía pública o cerca de ella se tomarán las medidas de seguridad necesarias para evitar daños o perjuicios a las instalaciones, a los trabajadores y a terceros.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1067.
 
-Cuando haya que reubicar o quitar arbolado existente en la vía pública, deberá tramitarse el permiso correspondiente en la Dirección de Obras Públicas.
+Cuando haya que reubicar o quitar arbolado existente en la vía pública, deberá tramitarse el permiso al Departamento de Ecología en la Dirección de Desarrollo Urbano y Planificación Territorial;
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1068.
 
-Cuando se requiera reubicar postes, ya sea de C.F.E., telefonía, alumbrado público, similar o análogo, deberá pedirse el permiso y coordinar las acciones correspondientes con la dependencia responsable del poste y comunicar tal autorización a la Dirección de Obras Públicas.
+Cuando se requiera reubicar postes, ya sea de C.F.E., telefonía, alumbrado público, similar o análogo, deberá pedirse el permiso y coordinar las acciones correspondientes con la dependencia responsable del poste y comunicar tal autorización a la Dirección de Desarrollo Urbano y Planificación Territorial.
 
 ###### ARTÍCULO 1069.
 
@@ -10681,11 +11537,17 @@ Durante el proceso de demolición se tomarán las precauciones necesarias para e
 
 Los trabajadores deberán efectuar los trabajos de demolición usando el equipo necesario para su protección personal, tal como anteojos de protección, máscara contra polvo, caretas, cascos, guantes, botas, redes o cualquier otro que sea necesario de acuerdo con el tipo de demolición.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1077.
 
-Se prohíbe el uso de explosivos para llevar a cabo demoliciones o excavaciones en la zona urbana, así como en la zona rural cuando en esta última existan construcciones dentro de un radio menor de cincuenta metros. Excepcionalmente, previa justificación técnica de la necesidad de su uso, la Dirección de Obras Públicas podrá autorizar el empleo de explosivos en las demoliciones bajo la exclusiva responsabilidad del Perito Responsable de obra, siempre que se tomen las medidas necesarias para evitar daños.
+Se prohíbe el uso de explosivos para llevar a cabo demoliciones o excavaciones en la zona urbana, así como en la zona rural cuando en esta última existan construcciones dentro de un radio menor de cincuenta metros. Excepcionalmente, previa justificación técnica de la necesidad de su uso, la Dirección de Desarrollo Urbano y Planificación Territorial podrá autorizar el empleo de explosivos en las demoliciones bajo la exclusiva responsabilidad del Perito Responsable de obra, siempre que se tomen las medidas necesarias para evitar daños.
 
-La autorización que la Dirección de Obras Públicas otorgue en los casos a que se refiere este Artículo, queda condicionada a que la Secretaría de la Defensa Nacional, en ejercicio de sus atribuciones, otorgue el permiso correspondiente para la adquisición y uso de explosivos con el fin indicado.
+La autorización que la Dirección de Desarrollo Urbano y Planificación Territorial otorgue en los casos a que se refiere este Artículo, queda condicionada a que la Secretaría de la Defensa Nacional, en ejercicio de sus atribuciones, otorgue el permiso correspondiente para la adquisición y uso de explosivos con el fin indicado.
+
+En todos los casos deberá estar la Coordinación de Protección Civil y Bomberos Municipales para los actos de demolición o excavación.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1078.
 
@@ -10693,9 +11555,13 @@ Los materiales y escombros provenientes de una demolición, que vayan a ser dese
 
 La Dirección de Obras Públicas señalará las condiciones en que deban ser transportados y el lugar en que puedan ser depositados, dichos escombros.
 
+En todo caso la Dirección de Obras Públicas deberá de tener un listado idóneo para el confinamiento del material de construcción debidamente georreferenciado
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1079.
 
-La Dirección de Obras Públicas podrá ordenar que se suspendan los trabajos cuando no sean tomadas las precauciones necesarias para evitar daños o perjuicios.
+La Dirección de Desarrollo Urbano y Planificación Territorial podrá ordenar que se suspendan los trabajos cuando no sean tomadas las precauciones necesarias para evitar daños o perjuicios.
 
 ### CAPÍTULO V. De las Mediciones y Trazos
 
@@ -10707,13 +11573,17 @@ En las construcciones en que se requiere llevar registro de posibles movimientos
 
 En los planos de cimentación se deberán indicar si se requiere el registro de movimientos verticales, y las características y periodicidad de las nivelaciones correspondientes.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1082.
 
-Antes de iniciarse una construcción, deberá verificarse el trazo del alineamiento del predio con base en la constancia de alineamiento y compatibilidad urbanística y las medidas del resto de la poligonal del perímetro, así como la situación del predio en relación con los colindantes, la cual deberá coincidir con los datos correspondientes del título de propiedad en su caso.
+Antes de iniciarse una construcción, deberá verificarse el trazo del alineamiento del predio con base en la Constancia de Alineamiento y Compatibilidad Urbanística y las medidas del resto de la poligonal del perímetro, así como la situación del predio en relación con los colindantes, la cual deberá coincidir con los datos correspondientes del título de propiedad en su caso.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1083.
 
-Se trazarán después los ejes principales del proyecto, refiriéndolos a puntos que puedan conservarse fijos. Si los datos que arroje el levantamiento del predio exigen un ajuste de las distancias entre los ejes consignados en los pianos (sic) arquitectónicos, deberá asentarse en la bitácora, elaborando a su vez los planos del proyecto ajustado, presentándolos a la Dirección de Obras Públicas. El Perito Responsable de Obra deberá hacer constar que las diferencias no afectan la seguridad estructural, ni el funcionamiento de la construcción, ni las holguras exigidas entre edificios adyacentes. En caso necesario deberán hacerse las modificaciones pertinentes al proyecto arquitectónico y al estructural.
+Se trazarán después los ejes principales del proyecto, refiriéndolos a puntos que puedan conservarse fijos. Si los datos que arroje el levantamiento del predio exigen un ajuste de las distancias entre los ejes consignados en los planos arquitectónicos, deberá asentarse en la bitácora, elaborando a su vez los planos del proyecto ajustado, presentándolos a la Dirección de Desarrollo Urbano y Planificación Territorial. El Perito Responsable de Obra deberá hacer constar que las diferencias no afectan la seguridad estructural, ni el funcionamiento de la construcción, ni las holguras exigidas entre edificios adyacentes. En caso necesario deberán hacerse las modificaciones pertinentes al proyecto arquitectónico y al estructural.
 
 ###### ARTÍCULO 1084.
 
@@ -10731,9 +11601,11 @@ Si en el proceso de una excavación se encuentran restos fósiles o arqueológic
 
 Cuando los procedimientos de ejecución de una obra señalen la necesidad de instalar ademe, éste se colocará troquelándolo a presión contra los paramentos del terreno. Sus características serán determinadas por un estudio de Mecánica de Suelos particular para cada caso.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1087.
 
-Previa autorización de la Dirección de Obras Públicas, podrá extraerse agua de un predio mediante bombeo siempre que se tomen precauciones para limitar los efectos del mismo sobre los predios colindantes y sobre el propio predio, las cuales serán determinadas por el estudio de Mecánica de Suelos correspondiente.
+Previa autorización del organismo operador del agua, la Dirección de Obras Públicas y la Dirección (sic) Desarrollo Urbano y Planificación Territorial podrá extraerse agua de un predio mediante bombeo siempre que se tomen precauciones para limitar los efectos del mismo sobre los predios colindantes y sobre el propio predio, las cuales serán determinadas por el estudio de Mecánica de Suelos correspondiente.
 
 ###### ARTÍCULO 1088.
 
@@ -10751,9 +11623,11 @@ Cuando un relleno vaya a ser contenido por muros, deberán tomarse las precaucio
 
 Los rellenos que vayan a recibir cargas de una construcción deberán cumplir los requisitos de confinamiento, resistencia y compresibilidad necesarios, de acuerdo con un estudio de mecánica de suelos. Se controlará su grado de compactación y contenido de humedad mediante ensayes de laboratorio y de campo.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1092.
 
-Tratándose de pavimentos industriales y los destinados al tránsito o estacionamiento de vehículos en predios particulares, se colocará una base compactada, salvo que el terreno natural pasea propiedades mejores que las de la base. El tendido de dicha base será hecho con el espesor y el contenido de humedad recomendado por el Perito Responsable de Obra o por el Perito Especializado en Mecánica de Suelos en su caso, de acuerdo con las características del suelo a emplearse.
+Tratándose de pavimentos industriales y los destinados al tránsito o estacionamiento de vehículos en predios particulares, se colocará una base compactada, salvo que el terreno natural posea propiedades mejores que las de la base. El tendido de dicha base será hecho con el espesor y el contenido de humedad recomendado por el Perito Responsable de Obra o por el Perito Especializado en Mecánica de Suelos en su caso, de acuerdo con las características del suelo a emplearse
 
 ###### ARTÍCULO 1093.
 
@@ -10839,6 +11713,8 @@ Los dispositivos empleados para transportación vertical de personas o de materi
 
 Los materiales y elementos de estos dispositivos deberán cumplir con los requisitos de calidad especificados oficialmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1108.
 
 Las máquinas elevadoras, incluidos sus elementos de sujeción, anclaje y sustentación deberán:
@@ -10849,21 +11725,27 @@ II. Ser mantenidas en buen estado de conservación y funcionamiento;
 
 III. Ser probadas y examinadas cuidadosamente después de su montaje en la obra y antes de ser utilizadas;
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 IV. Ser revisadas periódicamente y en particular sus elementos mecánicos tales como: anillos, cadenas, garfios, manguitos, poleas y eslabones giratorios, usados para izar o descender materiales o como medio de suspensión;
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ÚLTIMO PÁRRAFO DEL PRESENTE ARTÍCULO], P.O. 1 DE MAYO DE 2023)</small>
+
+Los cables que se utilicen para izar o descender materiales o como medio de suspensión, deberán ser de buena calidad, suficientemente resistente y estar exenta de defectos manifiestos.
 
 V. Indicar claramente la carga útil máxima de la máquina de acuerdo con sus características, incluyendo, en caso de que ésta sea variable, la carga admisible para cada caso; y,
 
 VI. Estar provistas de los medios necesarios para evitar el riesgo de un descenso accidental.
 
-Los cables que se utilicen para izar o descender materiales o como medio de suspensión, deberán ser de buena calidad, suficientemente resistente y estar exenta de defectos manifiestos.
-
 ###### ARTÍCULO 1109.
 
 Para el caso de las estructura (sic) de madera permanentes sólo se empleará madera selecta, de primera o segunda clase, la cual deberá estar debidamente tratada o protegida contra plagas, intemperismo y fuego mediante procedimiento adecuados.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1110.
 
-La ejecución de las estructuras de madera deberá ajustarse a las especificaciones de diseño, a las características de las uniones, según su tipo, a los requerimientos para el montaje, a las tolerancias, a las especificaciones sobre contenido de humedad, a los requisitos de protección de la madera, y a los demás conceptos que se fijan en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Madera, de este Libro.
+La ejecución de las estructuras de madera deberá ajustarse a las especificaciones de diseño, a las características de las uniones, según su tipo, a los requerimientos para el montaje, a las tolerancias, a las especificaciones sobre contenido de humedad, a los requisitos de protección de la madera, y a los demás conceptos que se fijan en el Reglamento para Diseño y Construcción de Estructuras de Madera, de este Libro.
 
 ### CAPÍTULO VIII. De la Mamposteria y el Concreto
 
@@ -10871,13 +11753,17 @@ La ejecución de las estructuras de madera deberá ajustarse a las especificacio
 
 Se consideran elementos de mampostería los construidos con piezas regulares o irregulares de piedra natural o artificial, maciza o hueca, unidas por un mortero cementante.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1112.
 
-Los materiales que se utilicen en la construcción de elementos de mampostería deberán cumplir los requisitos generales de calidad especificados por la Dirección de Obras Públicas.
+Los materiales que se utilicen en la construcción de elementos de mampostería deberán cumplir los requisitos generales de calidad especificados en el Reglamento para Diseño y Construcción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1113.
 
-Para efecto del proyecto y diseño estructural de edificaciones hechas a base de muros de mampostería de cualquier tipo, deberán seguirse los lineamientos de las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Mampostería, en las cuales se consideran los siguientes tipos de muros:
+Para efecto del proyecto y diseño estructural de edificaciones hechas a base de muros de mampostería de cualquier tipo, deberán seguirse los lineamientos en el Reglamento para Diseño y Construcción, en las cuales se consideran los siguientes tipos de muros:
 
 I. Mampostería de Piedras Artificiales:
 
@@ -10891,13 +11777,17 @@ d) Muros no reforzados; y
 
 II. Mampostería de Piedras Naturales.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1114.
 
-La proporción y calidad de los materiales que constituyen la mampostería serán las que indique el proyecto correspondiente, y deberán cumplir en todo momento con las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Mampostería.
+La proporción y calidad de los materiales que constituyen la mampostería serán las que indique el proyecto correspondiente, y deberán cumplir en todo momento con el Reglamento para Diseño y Construcción.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1115.
 
-Deberán comprobarse que las estructuras de mampostería cumplan con las características del proyecto y se construyan de acuerdo con los Procedimientos de Construcción establecidos en la (sic) Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Mampostería, cuidando especialmente se cumplan con las tolerancias y el control de resistencia fijados en dichas normas.
+Deberán comprobarse que las estructuras de mampostería cumplan con las características del proyecto y se construyan de acuerdo con los Procedimientos de Construcción establecidos en el Reglamento para Diseño y Construcción, cuidando especialmente se cumplan con las tolerancias y el control de resistencia fijados en el reglamento.
 
 ###### ARTÍCULO 1116.
 
@@ -10905,23 +11795,29 @@ Para verificar que los elementos de mampostería con funciones estructurales o c
 
 En el caso de los morteros bastará con verificar de manera exhaustiva en obra que se cumpla con las proporciones de sus componentes según se especifique en el proyecto estructural.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1117.
 
 Los materiales que se utilicen en la elaboración del concreto deberán cumplir con las normas oficiales.
 
-La proporción de estos materiales será en cantidades tales que el concreto cumpla con los requisitos de resistencia y tenga el revenimiento fijado en el proyecto. El diseño y construcción de elementos y estructuras de concreto deberán ajustarse a lo que disponen las Normas Técnicas Complementarias de este Libro.
+La proporción de estos materiales será en cantidades tales que el concreto cumpla con los requisitos de resistencia y tenga el revenimiento fijado en el proyecto. El diseño y construcción de elementos y estructuras de concreto deberán ajustarse a lo que dispone el Reglamento para Diseño y Construcción.
 
 ###### ARTÍCULO 1118.
 
 Sólo se permitirá la mezcla manual del concreto cuando su resistencia de proyecto no exceda de ciento cincuenta kilogramos por centímetro cuadrado. Para resistencias mayores, se exigirá el uso de sistemas mecánicos de mezclado.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1119.
 
-La fabricación del concreto se controlará de acuerdo con los criterios y procedimientos prescritos en las Normas Técnicas Complementarias para Diseño y Construcciones de Estructuras de Concreto.
+La fabricación del concreto se controlará de acuerdo con los criterios y procedimientos prescritos en el Reglamento para Diseño y Construcción.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1120.
 
-La ejecución de elementos y estructuras de concreto preforzado, incluyendo los ductos para postensado, la lechada para tendones adheridos y la aplicación y medición de la fuerza de presfuerzo, se sujetará a lo dispuesto en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Concreto, a estas mismas normas deberá apegarse la construcción y montaje de estructuras prefabricadas.
+La ejecución de elementos y estructuras de concreto reforzado, incluyendo los ductos para postensado, la lechada para tendones adheridos y la aplicación y medición de la fuerza de presfuerzo, se sujetará a lo dispuesto en el Reglamento para Diseño y Construcción, a estas mismas normas deberá apegarse la construcción y montaje de estructuras prefabricadas.
 
 ###### ARTÍCULO 1121.
 
@@ -10931,13 +11827,15 @@ El acero de refuerzo deberá protegerse durante su transportación, manejo y alm
 
 Cuando en casos excepcionales, a juicio del Perito Responsable de Obra, sea necesario calentar el acero de refuerzo ordinario, no se elevará su temperatura a más de quinientos treinta grados centígrados si no está tratado en frío, ni más de cuatrocientos grados centígrados en caso contrario. No se permitirá que el enfriamiento sea rápido.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1123.
 
 El acero de presfuerzo y los ductos de postensado deberán adicionalmente protegerse durante su transportación, manejo y almacenamiento contra golpes, caídas y cualquier otra maniobra que pudiera modificar su resistencia o calidad originales.
 
 Antes de autorizar los colados, el Perito Responsable de Obra deberá comprobar que el acero esté colocado en su sitio de acuerdo con los planos estructurales y que se encuentre correctamente sujeto, así como exento de grasas, polvos, óxido excesivo o de cualquier otra sustancia que pueda reducir su adherencia con el concreto. Dicha comprobación deberá asentarse en la bitácora.
 
-Además, se respetará lo prescrito en las Normas Técnicas Complementarias para diseño y construcción de estructuras de concreto.
+Además, se respetará lo prescrito en el Reglamento para Diseño y Construcción.
 
 ###### ARTÍCULO 1124.
 
@@ -10961,19 +11859,23 @@ Los medios y procedimientos que se empleen para transportar el concreto deberán
 
 El tiempo empleado en el transporte, medido desde que se adicione el agua de mezclado hasta la colocación del concreto en los moldes, no será mayor de una hora a menos que se tomen las medidas para lograr que la consistencia del concreto después de las dos horas sea tal, que pueda ser colocado sin necesidad de añadirle agua. En las plantas premezcladoras de concreto se deberá indicar en la nota de remisión la hora en que se le adiciona el agua a la mezcla.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1127.
 
 Antes de efectuarse el colado, deberán limpiarse los elementos de transporte y el lugar donde se vaya a depositar el concreto.
 
-Los procedimientos de colocación y compactación deberán asegurar una densidad uniforme del concreto, ajustándose a lo que indican al respecto las Normas Técnicas Complementarias de este Libro.
+Los procedimientos de colocación y compactación deberán asegurar una densidad uniforme del concreto, ajustándose a lo que indican al respecto el Reglamento para Diseño y Construcción.
 
 ###### ARTÍCULO 1128.
 
 Una vez realizada la operación de colado, el concreto deberá someterse a un proceso de curado mediante la aplicación de agua, por recubrimientos impermeables o retenedores de la humedad, o por medio de vapor.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1129.
 
-El proceso de curado deberá mantenerse el tiempo que requiera el concreto para alcanzar la resistencia del proyecto. Cuando el curado se realice mediante la aplicación de agua, el tiempo no será menor de siete días tratándose de cemento normal y de tres días si se emplea cemento de resistencia rápida. En todo caso el curado deberá ajustarse a lo que al respecto se indica en las Normas Técnicas Complementarias de este Libro.
+El proceso de curado deberá mantenerse el tiempo que requiera el concreto para alcanzar la resistencia del proyecto. Cuando el curado se realice mediante la aplicación de agua, el tiempo no será menor de siete días tratándose de cemento normal y de tres días si se emplea cemento de resistencia rápida. En todo caso el curado deberá ajustarse a lo que al respecto se indica en el Reglamento para Diseño y Construcción.
 
 ###### ARTÍCULO 1130.
 
@@ -10981,17 +11883,21 @@ Los elementos de concreto simple, reforzado o presforzado que se encuentren expu
 
 ### CAPÍTULO IX. De las Estructuras Metálicas
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1131.
 
-Las estructuras metálicas deberán sujetarse a lo previsto en este Libro y a sus Normas Técnicas Complementarias.
+Las estructuras metálicas deberán sujetarse a lo previsto en este Libro y al Reglamento para Diseño y Construcción.
 
-Los materiales que se utilicen en la construcción de estructuras metálicas deberán cumplir con las normas de calidad especificadas por la Dirección de Obras Públicas.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1132.
 
 En el montaje de las estructuras se observará lo siguiente:
 
-I. El montaje deberá efectuarse con el equipo apropiado. Durante la carga, transporte y descarga de material y durante el montaje se adoptarán las precauciones necesarias para no producir deformaciones ni esfuerzos excesivos. Aquellas piezas que se maltratan o deformen, deberán ser enderezadas o repuestas a juicio del Perito Responsable o del Perito Especializado en Estructuras antes de montarlas. Cuando en la maniobra se requiera suspender temporalmente el tráfico, se deberá pedir permiso a la Dirección de Seguridad Pública y Vialidad Municipal y notificar a la Dirección de Obras Públicas;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+I. El montaje deberá efectuarse con el equipo apropiado. Durante la carga, transporte y descarga de material y durante el montaje se adoptarán las precauciones necesarias para no producir deformaciones ni esfuerzos excesivos. Aquellas piezas que se maltratan o deformen, deberán ser enderezadas o repuestas a juicio del Perito Responsable o del Perito Especializado en Estructuras antes de montarlas. Cuando en la maniobra se requiera suspender temporalmente el tráfico, se deberá pedir permiso a la Dirección de Seguridad Pública y Movilidad Municipal y notificar a la Dirección de Dirección (sic) Desarrollo Urbano y Planificación Territorial;
 
 II. Anclajes: antes de iniciar la colocación de la estructura, el Perito Responsable de obra, revisará la posición de las anclas colocadas a las posiciones mostradas en los planos, se tomarán las providencias necesarias para corregirlas, en su caso;
 
@@ -10999,11 +11905,15 @@ III. Conexiones Provisionales: durante el montaje, los diversos elementos que co
 
 IV. Alineado y plomeado: no se colocarán remaches, pernos o tornillos, ni soldadura definitiva hasta que la parte de la estructura que quede rigidizada por ellos esté alineada y plomeada; y,
 
-V. Tolerancias: las tolerancias se ajustarán a lo dispuesto en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras Metálicas.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+V. Tolerancias: las tolerancias se ajustarán a lo dispuesto en el Reglamento para Diseño y Construcción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1133.
 
-En las estructuras remachadas o atornilladas, se observará lo dispuesto en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras Metálicas, cuidando especialmente que se respete lo siguiente:
+En las estructuras remachadas o atornilladas, se observará lo dispuesto en el Reglamento para Diseño y Construcción, cuidando especialmente que se respete lo siguiente:
 
 I. Agujeros: el diámetro de los agujeros para remaches o tornillos deberá ser un milímetro y medio mayor que el diámetro nominal de éstos. No se permitirá el uso de botadores para agrandar agujeros, ni el empleo de soplete para aceros;
 
@@ -11013,9 +11923,11 @@ III. Colocación: los remaches y tornillos deberán colocarse con equipos especi
 
 IV. Inspección: el Perito Responsable de Obra cuidará que se revise antes de la colocación de los remaches o tornillos, la posición, alineamiento y diámetro de los agujeros y posteriormente comprobará que las cabezas de los remaches estén formadas debidamente; en caso de tomillos, se deberá verificar que las tuercas estén debidamente colocadas, cuando se haya especificado su uso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1134.
 
-Las conexiones soldadas en las estructuras deberán cumplir con las Normas Técnicas complementarias para Diseño y Construcción de Estructuras Metálicas, cuidando especialmente los siguientes puntos:
+Las conexiones soldadas en las estructuras deberán cumplir con el Reglamento para Diseño y Construcción, cuidando especialmente los siguientes puntos:
 
 I. Preparación del material: las superficies que vayan a soldarse deberán estar libres de costras, escoria, óxido, grasa, pintura o cualquier otro material extraño;
 
@@ -11069,21 +11981,21 @@ Para la instalación y funcionamiento de calderas, compresores y líneas o salid
 
 ARTÍCULO 1145 (sic).- Las partes exteriores de los edificios que sean visibles desde la vía pública se proyectarán de acuerdo con lo que dispone el título referente a requisitos para el proyecto arquitectónico de este Libro.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1146.
 
-Las fachadas y los paramentos de cada construcción que sean visibles desde la vía pública deberán tener acabados apropiados cuyas características de forma, color y textura sean armónicas entre sí y conserven o mejoren el paisaje urbano de las vías públicas en que se encuentren ubicadas.
+Las fachadas y los paramentos de cada construcción que sean visibles desde la vía pública deberán tener acabados apropiados cuyas características de forma, color y textura sean armónicas entre sí y conserven o mejoren el paisaje urbano de las vías públicas en que se encuentren ubicadas con base al Reglamento de Imagen Urbana.
 
 ###### ARTÍCULO 1147.
 
 Las fachadas de colindancias de las edificaciones de tres niveles o más deberán tener aplanados impermeables de mortero.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1148.
 
-Las fachadas de los monumentos y las de las construcciones que se localicen dentro de zonas de monumentos se ajustarán, además a lo que dispone al respecto la legislación Federal y Estatal en la materia.
-
-Los demás elementos de ornato que se usen en las fachadas y parámetros se ajustarán a lo dispuesto en los párrafos precedentes.
-
-Los tendederos para ropa y los tinacos deberán instalarse o protegerse, de modo que no sean visibles desde la vía pública.
+Las fachadas de los monumentos y las de las construcciones que se localicen dentro de zonas de monumentos se ajustarán, además a lo que dispone al respecto el Reglamento de Imagen Urbana y la legislación Federal y Estatal en la materia.
 
 ###### ARTÍCULO 1149.
 
@@ -11109,11 +12021,13 @@ Los vidrios y cristales deberán colocarse tomando en cuenta los posibles movimi
 
 Los asientos selladores empleados en la colocación de piezas mayores al uno y medio metros cuadrados, deberán absorber tales deformaciones y conservar su elasticidad.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1154.
 
 Los elementos ornamentales o decorativos que se incorporen a la construcción y que no formen parte integrante de la misma, deberán ser considerados en el diseño estructural.
 
-Los elementos aislados, tales como fuentes, esculturas, arcos, columnas, monumentos y otros similares, deberán proyectarse y construirse de conformidad con lo dispuesto en este Libro.
+Los elementos aislados, tales como fuentes, esculturas, arcos, columnas, monumentos y otros similares, deberán proyectarse y construirse de conformidad con lo dispuesto en el Reglamento de Imagen Urbana.
 
 ## TÍTULO QUINTO. DEL USO, OPERACION Y MANTENIMIENTO
 
@@ -11135,15 +12049,19 @@ V. Los que produzcan humedad, salinidad, corrosión, gases, humos, polvos, ruido
 
 VI. Los demás que se establezcan en la Legislación Federal y Estatal de la materia.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1156.
 
-La Dirección de Obras Públicas podrá autorizar el cambio de uso de un predio o de una edificación, de acuerdo con los Programas de Desarrollo Urbano vigentes y con los planos aprobados para la zona donde se ubique el predio, previo dictamen técnico y en su caso, la autorización de ubicación en los términos señalados por este Libro. El nuevo uso deberá ajustarse a las disposiciones de este Libro y demás legislación vigente en la materia
+La Dirección de Dirección (sic) Desarrollo Urbano y Planificación Territorial podrá autorizar el cambio de uso de un predio o de una edificación, de acuerdo con los Esquemas o Programas de Desarrollo Urbano vigentes y con los planos aprobados para la zona donde se ubique el predio, previo dictamen técnico jurídico y en su caso, la autorización de ubicación en los términos señalados por este Reglamento de Zonificación y Usos del Suelo. El nuevo uso deberá ajustarse a las disposiciones del reglamento.
 
-En construcciones ya ejecutadas, la Dirección de Obras Públicas podrá autorizar el cambio de uso, si se efectúan las modificaciones necesarias y se construyen las instalaciones adecuadas para cumplir con las disposiciones legales vigentes correspondientes.
+En construcciones ya ejecutadas, la Dirección de Dirección (sic) Desarrollo Urbano y Planificación Territorial podrá autorizar el cambio de uso, si se efectúan las modificaciones necesarias y se construyen las instalaciones adecuadas para cumplir con las disposiciones legales vigentes correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1157.
 
-Cuando una edificación o un predio se utilice total o parcialmente para algún uso diferente al autorizado, sin haber obtenido previamente la autorización del cambio de uso que establece el Artículo anterior, la Dirección de Obras Públicas ordenará, con base en dictamen técnico, lo siguiente:
+Cuando una edificación o un predio se utilice total o parcialmente para algún uso diferente al autorizado, sin haber obtenido previamente la autorización del cambio de uso que establece el Artículo anterior, la Dirección de Dirección (sic) Desarrollo Urbano y Planificación Territorial ordenará, con base en dictamen técnico, lo siguiente:
 
 I. La restitución de inmediato al uso aprobado, si esto puede hacerse sin la necesidad de ejecutar obras; y,
 
@@ -11709,6 +12627,10 @@ XI. Colocar en lugar visible mensajes en el que se señalen las prohibiciones qu
 
 XII. Cumplir con las disposiciones que establece el presente Código y demás que resulten aplicables.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO DE REFORMAS, PUBLICADO EN EL P.O. DE 1 DE MAYO DE 2023, PÁGINA 83. SE SUGIERE CONSULTAR LA CRONOLOGÍA DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1234.
 
 Los establecimientos dedicados a la renta de equipos de cómputo para el uso de Internet y cualquier programa computacional, deberán contar con licencia especial de funcionamiento y deben cumplir con las siguientes obligaciones:
@@ -11727,9 +12649,45 @@ VI. Prohibir el consumo o venta de bebidas alcohólicas o cigarros dentro del es
 
 VII. Prohibir la comercialización o reproducción de documentos oficiales que no sean públicos, música, textos y en general cualquier reproducción que contravenga la ley; y,
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE MAYO DE 2023)</small>
+
 VIII. Las demás que determine la autoridad.
 
 Los requisitos para el otorgamiento de esta licencia de carácter especial serán: Constancia de Alineamiento y Compatibilidad Urbanística que emitirá la autoridad correspondiente, identificación oficial con fotografía, contrato de arrendamiento en caso de no ser propietario, comprobante del domicilio particular actual del solicitante, fotografías del exterior y de las instalaciones del negocio, constancia del número de equipos de cómputo que se registren ente la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2023)</small>
+
+I. Constancia de Alineamiento y Compatibilidad Urbanística emitida Por la Dirección de Desarrollo (sic) Urbano y Planificación Territorial
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2023)</small>
+
+II. Identificación oficial con fotografía
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2023)</small>
+
+III. Contrato de arrendamiento en caso de no ser propietario
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2023)</small>
+
+VI (SIC). Comprobante del domicilio particular actual del solicitante
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2023)</small>
+
+V (SIC). Fotografías del exterior y de las instalaciones del negocio; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2023)</small>
+
+VI. Constancia del número de equipos de cómputo que se registren ente (sic) la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+
+I a III… (sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2023)</small>
+
+IV. Constancia de alineamiento y compatibilidad urbanística expedido por la Dirección de Desarrollo Urbano y Planificación Territorial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MAYO DE 2023)</small>
+
+V. Dictamen Técnico expedido por la Coordinación Municipal de Protección Civil y Bomberos;
 
 ###### ARTÍCULO 1235.
 
@@ -12729,9 +13687,13 @@ XIV. El arresto hasta por 36 horas.
 
 Las sanciones previstas en este Titulo, serán aplicables cuando corresponda, sin perjuicio de las responsabilidades civiles o penales que con motivo de los mismos hechos adquieran los infractores.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1353.
 
-Se entenderá por medidas de seguridad, la adopción y ejecución de las acciones que con apoyo de este Código, dicten las autoridades competentes, encaminadas a evitar los daños que puedan causar las instalaciones, construcciones, obras, servicios o acciones. Estas medidas de seguridad serán aplicables de manera complementaria en sanciones por comisión de infracciones.
+Se entenderá por medidas de seguridad, la adopción y ejecución de las acciones que, con apoyo de este Código o Reglamento en la materia, dicten las autoridades competentes, encaminadas a evitar los daños que puedan causar las instalaciones, construcciones, obras, servicios o acciones. Estas medidas de seguridad serán aplicables de manera complementaria en sanciones por comisión de infracciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1354.
 
@@ -12743,7 +13705,9 @@ II. La clausura total o parcial, de las instalaciones, construcciones, obras, se
 
 III. La desocupación de inmuebles;
 
-IV. La demolición de fincas o construcciones;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+IV. La demolición de inmuebles o construcciones;
 
 V. El retiro de las instalaciones, anuncios u otros objetos de la vía o espacio público o privado;
 
@@ -13103,9 +14067,11 @@ c) Por profanar fosas en los cementerios, independientemente de su consignación
 
 #### SECCIÓN SEGUNDA. De las Sanciones en Materia de Desarrollo Urbano
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1387.
 
-Procede la Suspensión o Clausura de Obras en Ejecución en los siguientes casos:
+Procede la suspensión o clausura de obras en ejecución en los siguientes casos
 
 I. Cuando una edificación o un predio se utilice total o parcialmente para algún uso diferente al autorizado, sin haber cumplido con lo previsto por este Libro;
 
@@ -13115,21 +14081,29 @@ III. Cuando el propietario o poseedor de una construcción señalada como peligr
 
 IV. Cuando se invada la vía pública con una construcción;
 
-V. Cuando no se cuente con la licencia de construcción o la (sic) obre no se ajuste al contenido de ésta; y,
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2023)</small>
+
+V. Cuando no se cuente con la licencia de construcción o la obra no cumpa (sic) con lo autorizado en el contenido de ésta; y,
 
 VI. Cuando no se respeten las afectaciones y las restricciones físicas y de uso impuestas a los predios en la Constancia de Alineamiento y Compatibilidad Urbanística.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1388.
 
-En caso de que el propietario o poseedor de un predio o de una edificación no cumpla con las órdenes giradas de reparación, demolición o suspensión de obra, con base en este Libro y las demás disposiciones legales aplicables la Dirección de Obras Públicas, previo dictamen que emita y ordene, estará facultado para ejecutar, a costa del propietario o poseedor, las obras, reparaciones o demoliciones que hayan ordenado; para clausurar y para tomar las demás medidas que considere necesarias, pudiendo hacer uso de la fuerza pública.
+En caso de que el propietario o poseedor de un predio o de una edificación no cumpla con las órdenes giradas de reparación, demolición o suspensión de obra, con base en este Libro y el Reglamento de construcción y diseño y las demás disposiciones legales aplicables la Dirección de Desarrollo Urbano y Planificación Territorial, previo dictamen que emita y ordene, estará facultado para ejecutar, a costa del propietario o poseedor, las obras, reparaciones o demoliciones que hayan ordenado; para clausurar y para tomar las demás medidas que considere necesarias, pudiendo hacer uso de la fuerza pública.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1389.
 
-Si el propietario o poseedor del predio en el que la Dirección de Obras Públicas se vea obligada a ejecutar obras o trabajos conforme a este artículo, se negare a pagar el costo de dichas obras, la Dirección de Finanzas efectuará su cobro por medio del procedimiento administrativo de ejecución.
+Si el propietario o poseedor del predio en el que la Dirección de Desarrollo Urbano y Planificación Territorial se vea obligada a ejecutar obras o trabajos con apoyo de la Dirección de Obras Publicas conforme a este artículo, se negare a pagar el costo de dichas obras, la Dirección de Finanzas efectuará su cobro por medio del procedimiento administrativo de ejecución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1390.
 
-Independientemente de la imposición de las sanciones pecuniarias a que haya lugar, la Dirección (sic) Obras Públicas podrá clausurar las obras terminadas cuando ocurra alguna de las siguientes circunstancias:
+Independientemente de la imposición de las sanciones pecuniarias a que haya lugar, la Dirección de Desarrollo Urbano y Planificación Territorial podrá clausurar las obras terminadas cuando ocurra alguna de las siguientes circunstancias:
 
 I. Cuando la obra se haya ejecutado sin licencia;
 
@@ -13137,45 +14111,65 @@ II. Cuando la obra se haya ejecutado alterando el proyecto aprobado fuera de los
 
 III. Cuando se use una construcción o parte de ella para un uso diferente del autorizado.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1391.
 
-El estado de clausura de las obras podrá ser total o parcial y no será levantado hasta en tanto no se hayan regularizado las obras o ejecutado los trabajos ordenados en los términos de este Código.
+El estado de clausura de las obras podrá ser total o parcial y no será levantado hasta en tanto no se hayan regularizado las obras o ejecutado los trabajos ordenados en los términos del Reglamento de construcción y diseño y de este Código.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1392.
 
-Cuando se compruebe la responsabilidad por haber realizado actos u omisiones que prohíbe el presente código, independientemente de la sanción impuesta por la autoridad, el infractor tiene la obligación de realizar o en su defecto cubrir, el monto de los gastos de las acciones de restauración y/o reparación de daños en los términos de la ley aplicable.
+Cuando se compruebe la responsabilidad por haber realizado actos u omisiones que prohíbe el Reglamento de construcción y diseño y el presente código, independientemente de la sanción impuesta por la autoridad, el infractor tiene la obligación de realizar o en su defecto cubrir, el monto de los gastos de las acciones de restauración y/o reparación de daños en dichos términos.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1393.
 
 Para la individualización de la sanción pecuniaria en materia de construcciones, las infracciones se clasificarán en grupos, atendiendo al mínimo y máximo establecido, en la siguiente forma:
 
-I. Las del primer grupo tendrán una sanción económica de una a cinco veces el salario mínimo general vigente en el Estado de Aguascalientes;
+I. Las del primer grupo tendrán una sanción económica de dos a diez veces la Unidad de Medida y Actualización (UMA);
 
-II. Las del segundo grupo ameritan una sanción económica de seis a treinta veces el salario mínimo general vigente en el Estado de Aguascalientes;
+II. Las del segundo grupo ameritan una sanción económica de 12 a 60 la Unidad de Medida y Actualización (UMA);
 
-III. Las del tercer grupo tendrán una sanción económica de treinta y una a doscientas cincuenta veces el salario mínimo general vigente en el Estado de Aguascalientes; y,
+III. Las del tercer grupo tendrán una sanción económica de 61 a 400 la Unidad de Medida y Actualización (UMA); y,
 
-IV. Las del grupo cuarto ameritarán una sanción económica de doscientas cincuenta a veinte mil veces el salario mínimo general vigente en el Estado de Aguascalientes.
+IV. Las del grupo cuarto ameritarán una sanción económica de 401 a 40,000 la Unidad de Medida y Actualización (UMA).
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1394.
 
 Para los efectos del artículo anterior, las infracciones se agrupan en:
 
-I. Grupo Uno
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE MAYO DE 2023)</small>
+
+Grupo I
 
 a) Por no cubrir los derechos correspondientes a la ocupación de la vía pública;
 
 b) Por construcción de barda de colindancia o divisoria interior sin licencia; y,
 
-c) Por la falta de placa del perito responsable.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
-II. Grupo Dos
+A) (SIC) Por la falta de firma autógrafa del perito responsable de obra o especializado en caso de aplicar.
 
-a) Por tener escombro en la vía pública sin el permiso correspondiente de la Dirección de Obras Públicas;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE MAYO DE 2023)</small>
 
-b) Por tirar escombro en los lugares no autorizados por la autoridad municipal;
+Grupo II
 
-c) Ejecutar excavaciones que dificulten el libre tránsito en calles o banquetas o sin el permiso de la Dirección de Obras Públicas;
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
+a) Por tener escombro en la vía pública sin el permiso correspondiente de la Dirección de Desarrollo Urbano y Planificación Territorial;
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
+b) Por tirar escombro en los lugares no autorizados por la Dirección de Desarrollo Urbano y Planificación Territorial municipal;
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
+c) Ejecutar excavaciones que dificulten el libre tránsito en calles o banquetas o sin el permiso de la Dirección de Desarrollo Urbano y Planificación Territorial;
 
 d) Por falta de visitas a la obra y firma de bitácora correspondiente, por parte del perito responsable;
 
@@ -13187,7 +14181,9 @@ g) Construcción de banqueta, guarnición y pavimento, sin el permiso correspond
 
 h) Invasión u obstrucción de la vía pública sin licencia correspondiente.
 
-III. Grupo Tres
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE MAYO DE 2023)</small>
+
+Grupo III
 
 a) Construcción de edificaciones con superficie mayor de 60.00 m2 y hasta 1000.00 m2 construidos sin la licencia correspondiente, independientemente de la obligación de regularizar la licencia;
 
@@ -13195,25 +14191,33 @@ b) Rotura de pavimento o de guarniciones sin el permiso correspondiente, indepen
 
 c) Demolición de edificios en general sin licencia.
 
-IV. Grupo Cuatro
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE MAYO DE 2023)</small>
+
+Grupo IV
 
 a) Demolición o afectación de fincas de Valor Histórico o Arquitectónico;
 
 b) Construcción de edificaciones con superficie mayor de 1000.00 m2 construidos sin la licencia correspondiente, independientemente de la obligación de regularizar la licencia; y,
 
-c) Construir sin respetar el proyecto autorizado con la licencia.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
+c) Construir sin respetar el proyecto autorizado con la licencia de construcción correspondiente.
 
 ###### ARTÍCULO 1395.
 
 Las infracciones especificadas en el artículo anterior serán aplicables indistintamente al propietario de la obra o predio, al constructor o contratista correspondiente o al Perito Responsable de Obra o Perito Especializado, previa investigación de los hechos y deslinde de responsabilidades.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1396.
 
-Para toda violación a las normas y disposiciones municipales en materia de construcciones, no especificadas de manera expresa en el presente capítulo, se aplicará una sanción de cinco a cien veces el salario mínimo independientemente de la medida de seguridad o arresto atendiendo a la gravedad de la falta que en su caso procedan.
+Para toda violación al Reglamento de construcción y diseño y este código, no especificadas de manera expresa en el presente capítulo, se aplicará una sanción de 10 a 200 veces la Unidad de Medida y Actualización (UMA), independientemente de la medida de seguridad o arresto atendiendo a la gravedad de la falta que en su caso procedan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1397.
 
-La Dirección de Obras Públicas podrá revocar la licencia de construcción cuando:
+La Dirección de Desarrollo Urbano y Planificación Territorial podrá revocar la licencia de construcción cuando:
 
 I. Se hayan dictado con base en informes o documentos falsos o erróneos o emitidos con dolo o error, una vez comprobado lo anterior;
 
@@ -13467,9 +14471,11 @@ La cancelación del permiso o licencia trae aparejada la clausura del puesto o e
 
 Cuando se encuentre algún bien mueble o la estructura del puesto o establecimiento propiedad de algún comerciante, abandonado en la vía pública, el verificador procederá a su clausura, y notificación al propietario en los términos del presente Código, y como medida de seguridad, podrá retirarlo de la vía pública, remitiéndolo para su resguardo, a disposición del propietario, en la bodega de la Presidencia.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1412.
 
-Se procederá a la reubicación del comerciante, cuando la estructura del puesto o establecimiento, remolque o vehículo contamine la imagen de la Ciudad.
+Se procederá a la reubicación del comerciante, cuando la estructura del puesto o establecimiento, remolque o vehículo no sea acorde a la imagen urbana.
 
 #### SECCIÓN SEXTA. De las Sanciones en Materia de Protección Civil
 
@@ -13477,13 +14483,17 @@ Se procederá a la reubicación del comerciante, cuando la estructura del puesto
 
 Se aplicarán las sanciones de clausura definitiva, y revocación de la licencia permiso para operar o construir a quienes en un periodo de seis meses reincidan En las mismas infracciones previstas por este ordenamiento.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1414.
 
-Para el caso de que se den las condiciones previstas de emergencia general o situación de desastre, la Unidad Municipal de Protección Civil estará facultada para tomar las medidas necesarias de evacuación de personas, o desocupación de edificios, como resultado de la inspección y dictamen emitidos por peritos autorizados, sin que tales tipos de medidas constituyan una sanción en si.
+Para el caso de que se den las condiciones previstas de emergencia general o situación de desastre, la coordinación de Protección Civil y bomberos estará facultada para tomar las medidas necesarias de evacuación de personas, o desocupación de inmuebles, como resultado de la inspección y dictamen emitidos por peritos autorizados, sin que tales tipos de medidas constituyan una sanción en sí.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 1415.
 
-La demolición parcial o total de obras, solo se aplicará, por resolución expresa de la autoridad competente, y en base a los peritajes de profesionales en la materia que así lo justifiquen.
+La demolición parcial o total de obras, solo se aplicará, por resolución expresa de la autoridad competente, y con base a los peritajes correspondientes en la materia que así lo justifiquen.
 
 ###### ARTÍCULO 1416.
 
@@ -13511,9 +14521,11 @@ Cuando la autoridad municipal tenga conocimiento de que una edificación, estruc
 
 Cuando la demolición tenga que hacerse en forma parcial, ésta comprenderá también la parte que resulte afectada por la continuidad estructural.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1422.
 
-Una vez concluidas las obras o los trabajos que hayan sido ordenados de acuerdo con este Código, el propietario de la construcción o el Perito dará aviso de terminación a la Unidad Administrativa del Municipio que corresponda, la que verificará la correcta ejecución de dichos trabajos, pudiendo en su caso, ordenar su modificación y corrección, y quedando obligados aquellos a realizarla.
+Una vez concluidas las obras o los trabajos que hayan sido ordenados de acuerdo con este Código, el propietario de la construcción o el Perito dará aviso de terminación a la Dirección de Obras Públicas que verificará la correcta ejecución de dichos trabajos, pudiendo en su caso, ordenar su modificación y corrección, y quedando obligados aquellos a realizarla.
 
 ###### ARTÍCULO 1423.
 
@@ -14026,6 +15038,14 @@ SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que so
 P.O. 12 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DE LA “REFORMA DEL ARTÍCULO 141 Y ADICIÓN DEL ARTÍCULO 141 BIS DEL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA”.]
+
+PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial.
+
+P.O. 1 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA".]
 
 PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
