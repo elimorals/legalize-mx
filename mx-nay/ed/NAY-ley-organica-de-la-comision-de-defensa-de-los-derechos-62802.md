@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-comision-de-defensa-de-los-derechos-62802"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-08-16"
-last_updated: "2023-03-24"
+last_updated: "2023-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -343,9 +343,17 @@ d) Las Visitadurías Adjuntas.
 
 IV.- Los órganos administrativos, técnicos y operativos de la Comisión serán:
 
-a) La Dirección de Administración, Contabilidad y Recursos Humanos, y
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2023)</small>
 
-b) Las unidades administrativas que señale esta ley y su reglamento.
+a) La Dirección de Administración, Contabilidad y Recursos Humanos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MAYO DE 2023)</small>
+
+b) La Coordinación de Archivos, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 2 DE MAYO DE 2023)</small>
+
+c) Las unidades administrativas que señale esta ley y su reglamento.
 
 > <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
 
@@ -935,9 +943,61 @@ IV. Haber residido en el Estado cuando menos los 2 años anteriores a la fecha d
 
 V. No haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2023)</small>
+
 APARTADO SEGUNDO
 
-LAS UNIDADES ADMINISTRATIVAS DE LA COMISION
+LA COORDINACIÓN DE ARCHIVOS
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2023)</small>
+
+###### ARTÍCULO 61 Bis.
+
+La Comisión contará con una Coordinación de Archivos. Al frente de ella habrá un Director o Directora General que estará bajo el mando directo del Presidente y contará con las siguientes áreas:
+
+I. Correspondencia;
+
+II. Archivo de Trámite, misma que se integrará con la representación honorifica de un servidor público que forme parte de la estructura orgánica de la Comisión;
+
+III. Archivo de Concentración, y
+
+IV. Archivo Histórico.
+
+Las atribuciones y facultades de cada una de las áreas anteriormente referidas, serán las que establezca el Reglamento Interior de la Comisión.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2023)</small>
+
+###### ARTÍCULO 61 Ter.
+
+La Coordinación de Archivos tendrá las siguientes funciones:
+
+I. Elaborar con la colaboración de los responsables de las áreas de Archivo de Trámite, Archivo de Concentración y en su caso con Archivo Histórico, los instrumentos de control y de consulta archivísticos previstos en esta ley, las leyes locales y sus disposiciones reglamentarias, así como la normatividad que derive de ellos;
+
+II. Elaborar criterios específicos y recomendaciones en materia de organización y conservación de archivos, cuando la especialidad del sujeto obligado así lo requiera;
+
+III. Elaborar y someter a consideración del titular del sujeto obligado o a quien éste designe, el programa anual de desarrollo archivístico;
+
+IV. Coordinar los procesos de valoración y disposición documental que realicen las áreas operativas;
+
+V. Coordinar las actividades destinadas a la modernización y automatización de los procesos archivísticos y a la gestión de documentos electrónicos de las áreas operativas;
+
+VI. Brindar asesoría técnica para la operación de los archivos;
+
+VII. Elaborar programas de capacitación en gestión documental y administración de archivos;
+
+VIII. Coordinar, con las áreas o unidades administrativas, las políticas de acceso y la conservación de los archivos;
+
+IX. Coordinar la operación de los archivos de trámite, concentración y, en su caso, histórico, de acuerdo con la normatividad;
+
+X. Autorizar la transferencia de los archivos cuando un área o unidad del sujeto obligado sea sometida a procesos de fusión, escisión, extinción o cambio de adscripción; o cualquier modificación de conformidad con las disposiciones legales aplicables, y
+
+XI. Las que establezcan las demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2023)</small>
+
+APARTADO TERCERO
+
+LAS UNIDADES ADMINISTRATIVAS DE LA COMISIÓN
 
 ###### ARTÍCULO 62.
 
@@ -1690,3 +1750,9 @@ P.O. 24 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 62 BIS DE LA LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 2 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT, EN MATERIA DE ARCHIVOS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
