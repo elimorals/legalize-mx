@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2023-03-31"
+last_updated: "2023-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -62,6 +62,10 @@ Las disposiciones de esta Ley son de orden público, interés social y de observ
 ###### ARTÍCULO 2.
 
 Todas las medidas que se deriven de la presente Ley, garantizarán la prevención, la atención, la sanción y la erradicación de las modalidades y tipos de violencia contra las mujeres en el ámbito público y privado, para promover su desarrollo integral, en concordancia con la Legislación Nacional de la materia y con los instrumentos internacionales suscritos y ratificados por los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2023)</small>
+
+El estado y los municipios deberán instrumentar las medidas presupuestales y administrativas necesarias y suficientes para hacer frente a la Alerta de Violencia de Género contra las mujeres, que pueda ser emitida por la Secretaría de Gobernación, en términos de la Ley General.
 
 ###### ARTÍCULO 3.
 
@@ -127,9 +131,9 @@ II.- Cédula de Registro Único: Instrumento operado mediante un sistema inform�
 
 III.- Dependencias: Las Secretarías que conforman al Poder Ejecutivo y que constituyen la Administración Pública Central en términos de la Ley Orgánica para la Administración Pública del Estado de Hidalgo;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
 
-IV.- Derechos fundamentales de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos fundamentales universales contenidos en los instrumentos internacionales suscritos y ratificados por los Estados Unidos Mexicanos;
+IV.- Derechos Humanos de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención sobre los Derechos de las Personas con Discapacidad, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem do Pará) y demás instrumentos internacionales en la materia;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -197,9 +201,9 @@ I. La violencia psicológica: Es cualquier acción u omisión de abandono, insul
 
 Se considera como tal, la regulación de la fecundidad o la inseminación artificial no consentidas, la prostitución forzada, la pornografía infantil, la trata de mujeres, el acceso carnal no consentido, las expresiones lascivas, el hostigamiento sexual, los actos libidinosos, la degradación de las mujeres en los medios de comunicación con objeto sexual y las demás que afecten su normal desarrollo psicosexual.
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
 
-II. Violencia física: Es cualquier acción intencional, en la que se utiliza parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física de las mujeres, independientemente de que se produzca o no lesiones físicas y que va encaminado a obtener su sometimiento y control, violando sus derechos humanos a la libertad, la seguridad, la dignidad, la integridad personal o la vida;
+II. Violencia física: Es cualquier acción intencional, en la que se utiliza parte del cuerpo, algún objeto, arma, ácido o sustancia corrosiva, cáustica irritante, tóxica, inflamable o agentes químicos que genere destrucción o daño del tejido humano, para sujetar, inmovilizar o causar daño a la integridad física de las mujeres, independientemente de que se produzca o no lesiones físicas y que va encaminado a obtener su sometimiento y control, violando sus derechos humanos a la libertad, la seguridad, la dignidad, la integridad personal o la vida;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
 
@@ -297,11 +301,11 @@ V.- El propiciar un estado de riesgo de las mujeres.
 
 VI.- El daño ocasionado a las mujeres a través del que se provoque a sus seres queridos, y especialmente a sus hijas o hijos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 8.
 
-Los modelos de atención, prevención y sanción que establezcan el Estado y los Municipios, son el conjunto de medidas y acciones con perspectiva de género, interculturalidad, diversidad y regionalización de la población, para proteger de manera integral a las víctimas de violencia familiar, que garanticen a las mujeres su seguridad y el ejercicio pleno de sus derechos fundamentales. Para ello deberán tomar en consideración:
+Los modelos de atención, prevención y sanción que establezcan el Estado y los Municipios, son el conjunto de medidas y acciones con perspectiva de género, interculturalidad, diversidad y regionalización de la población, para proteger de manera integral a las víctimas de violencia familiar, que garanticen a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos. Para ello deberán tomar en consideración:
 
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
 
@@ -417,9 +421,11 @@ VII.- Implementar sanciones administrativas para los superiores jerárquicos del
 
 ### CAPÍTULO III. DE LA VIOLENCIA EN LA COMUNIDAD Y LA GENERADA POR LOS USOS Y COSTUMBRES
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 15.
 
-La violencia en la comunidad es toda acción u omisión, que se realiza de manera colectiva o individual por actores sociales o comunitarios, que generan degradación, discriminación, marginación, exclusión en la esfera pública o privada, que transgreden derechos fundamentales de las mujeres y que propician su estado de riesgo e indefensión.
+La violencia en la comunidad es toda acción u omisión, que se realiza de manera colectiva o individual por actores sociales o comunitarios, que generan degradación, discriminación, marginación, exclusión en la esfera pública o privada, que transgreden derechos humanos de las mujeres y que propician su estado de riesgo e indefensión.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
 
@@ -473,9 +479,11 @@ IV.- Programas de capacitación para el personal adscrito a las dependencias de 
 
 V.- Celebración de bases de coordinación entre los Poderes del Estado y de los municipios para los cambios conductuales y de percepción e interpretación de la ley, de quienes colaboran para dichos Poderes.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 20.
 
-La violencia feminicida, es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos fundamentales, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
+La violencia feminicida, es la forma extrema de violencia de género contra las mujeres, las adolescentes y las niñas, producto de la violación de sus derechos humanos y del ejercicio abusivo del poder, tanto en los ámbitos público y privado, que pueden conllevar impunidad social y del Estado. Se manifiesta a través de conductas de odio y discriminación que ponen en riesgo sus vidas o culminan en muertes violentas como el feminicidio, el suicidio y el homicidio, u otras formas de muertes evitables y en conductas que afectan gravemente la integridad, la seguridad, la libertad personal y el libre desarrollo de las mujeres, las adolescentes y las niñas.
 
 ###### ARTÍCULO 21.
 
@@ -703,6 +711,16 @@ III. Proporcionar a las mujeres, o las niñas, en situación de violencia y en s
 
 IV. Proporcionar los recursos económicos para garantizar su seguridad personal, transporte, alimentos, comunicación, mudanza y los trámites oficiales que requiera entre otros;
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 2 DE MAYO DE 2023)</small>
+
+IV Bis. Canalizar y trasladar sin demora alguna a las mujeres, o las niñas, en situación de violencia sexual a las instituciones que integran el sistema nacional de salud para que provean gratuitamente y de manera inmediata los servicios de:
+
+a) Aplicación de antirretrovirales de profilaxis post-exposición;
+
+b) Anticoncepción de emergencia; y
+
+c) Realización de estudios médicos que corroboren posibles enfermedades de trasmisión sexual, previo consentimiento de la víctima;
+
 V. Proveer los recursos y herramientas necesarias para garantizar la seguridad y acondicionamiento de vivienda;
 
 VI. Los demás gastos indispensables, dentro o fuera del país, para la mujer y en su caso sus hijas e hijos mientras se encuentre imposibilitada de obtenerlos por sus propios medios;
@@ -889,9 +907,17 @@ II.- Subsistema de Acción: Conformado por los titulares de las Dependencias de 
 
 a.- Prevención;
 
-b.- Atención; y
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2023)</small>
 
-c.- Erradicación.
+b.- Atención;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MAYO DE 2023)</small>
+
+c.- Sanción; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 2 DE MAYO DE 2023)</small>
+
+d.- Erradicación.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -909,11 +935,15 @@ La Secretaría Técnica del Sistema elaborará el proyecto de reglamento para el
 
 El Programa, en concordancia con el Plan Estatal de Desarrollo, deberá contener las acciones con perspectiva de género para:
 
-I.- Impulsar y fomentar el conocimiento y el respeto a los derechos fundamentales de las mujeres;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+
+I.- Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
 
 II.- Transformar los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
 
-III.- Educar y capacitar en materia de derechos fundamentales de las mujeres a las y/o servidores públicos encargados de la seguridad pública, procuración y administración de justicia y demás encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres, con el fin de dotarles de instrumentos que les permitan actuar con perspectiva de género;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+
+III.- Educar y capacitar en materia de derechos humanos de las mujeres a las y/o (sic) servidores públicos encargados de la seguridad pública, procuración y administración de justicia y demás encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres, con el fin de dotarles de instrumentos que les permitan actuar con perspectiva de género;
 
 IV.- Brindar los servicios especializados y gratuitos para la atención y protección a las víctimas, por medio de las Autoridades y las instituciones públicas o privadas, en el caso de existir convenios;
 
@@ -921,7 +951,9 @@ V.- Fomentar y apoyar programas de educación, destinados a sensibilizar y conci
 
 VI.- Diseñar programas de orientación y asesorías a víctimas que les permitan participar plenamente en el ámbito social y laboral;
 
-VII.- Vigilar que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos y modalidades de violencia, para fortalecer el respeto a los derechos fundamentales y la dignidad de las mujeres;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+
+VII.- Vigilar que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos y modalidades de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
 
 VIII.- Garantizar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
 
@@ -965,6 +997,12 @@ Dicha ruta, estará interconectada con la Ruta de Atención Integral a Mujeres e
 
 Cuando por el tipo de violencia, existieran otras áreas, dependencias o autoridades que deban intervenir, se canalizarán a las víctimas a las instituciones que prestan esa atención y protección, mediante el uso del sistema de referencia, contrarreferencia y de la Cédula de Registro Único.
 
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2023)</small>
+
+ARTÍCULO 39 BIS.- Las instalaciones de los poderes del estado y de los municipios serán consideradas puntos violetas, los cuales contarán con una guía de información, protocolos y un distintivo de color violeta con código QR que dirija a sus versiones digitales.
+
+Los puntos violetas son los lugares seguros en donde se brindará auxilio a cualquier mujer o niña que se encuentre sufriendo algún tipo de violencia, discriminación, o bien que haya escapado de su agresor, pudiendo resguardarse temporalmente ahí, además serán atendidas por servidores públicos capacitados para atención de primer contacto, quienes tienen la obligación de proporcionarles información y de canalizarlas con las autoridades competentes.
+
 #### SECCIÓN PRIMERA. DEL PODER EJECUTIVO ESTATAL
 
 ###### ARTÍCULO 40.
@@ -981,15 +1019,17 @@ IV.- Elaborar, coordinar y aplicar el Programa a que se refiere la Ley, auxiliá
 
 V.- Asegurar la difusión y promoción de los derechos de las mujeres con base en el reconocimiento de la composición pluricultural del Estado;
 
-VI.- Vigilar que los usos y costumbres de la sociedad no atenten contra los derechos fundamentales de las mujeres;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+
+VI.- Vigilar que los usos y costumbres de la sociedad no atenten contra los derechos humanos de las mujeres;
 
 VII.- Coordinar la creación de programas de reeducación con perspectiva de género;
 
 VIII.- Garantizar una adecuada coordinación entre la Federación, las Entidades Federativas y los Municipios, con la finalidad de erradicar la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
 
-IX.- Realizar a través del Instituto Hidalguense de las Mujeres y con el apoyo de las instancias correspondientes, campañas permanentes de información, sensibilización y concientización sobre el derecho de las mujeres a vivir una vida libre de violencia, con énfasis en la doctrina de la protección integral de los derechos fundamentales de las mujeres, en el conocimiento de las leyes, las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
+IX.- Realizar a través del Instituto Hidalguense de las Mujeres y con el apoyo de las instancias correspondientes, campañas permanentes de información, sensibilización y concientización sobre el derecho de las mujeres a vivir una vida libre de violencia, con énfasis en la doctrina de la protección integral de los derechos humanos de las mujeres, en el conocimiento de las leyes, las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1029,7 +1069,9 @@ I.- Presidir el Sistema;
 
 II.- Coadyuvar en la formulación de las bases jurídicas para la coordinación entre las Autoridades Federales, Locales y Municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-III.- Participar en los trabajos de promoción y defensa de los derechos fundamentales de las mujeres, que lleven a cabo las Dependencias y Entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+
+III.- Participar en los trabajos de promoción y defensa de los derechos humanos de las mujeres, que lleven a cabo las Dependencias y Entidades de la Administración Pública Estatal;
 
 IV.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa; y
 
@@ -1045,13 +1087,13 @@ VI.- Coordinar y evaluar el funcionamiento y eficacia de la Ruta de atención in
 
 VII.- Formular las bases para la coordinación entre las Autoridades Federales, Locales y Municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres, a través de la Ruta de Atención Integral a Mujeres en Situación de Violencia, mediante la creación y evaluación del sistema de referencia, contrarreferencia y de la Cédula de Registro Único;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
 
-VIII.- Coordinar y dar seguimiento a los trabajos de promoción y defensa de los derechos fundamentales de las mujeres, que lleven a cabo las dependencias y entidades de la Administración Pública Estatal;
+VIII.- Coordinar y dar seguimiento a los trabajos de promoción y defensa de los derechos humanos de las mujeres, que lleven a cabo las dependencias y entidades de la Administración Pública Estatal;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
 
-IX.- Diseñar la política integral con perspectiva de género para promover la cultura del respeto a los derechos fundamentales de las mujeres;
+IX.- Diseñar la política integral con perspectiva de género para promover la cultura del respeto a los derechos humanos de las mujeres;
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1103,9 +1145,13 @@ VII.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
 
 VIII.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
 
-IX.- Fomentar el desarrollo social desde la visión de protección integral de los derechos fundamentales de las mujeres con perspectiva de género, para procurarles una vida libre de violencia;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
 
-X.- Coadyuvar en la promoción de los derechos fundamentales de las mujeres;
+IX.- Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para procurarles una vida libre de violencia;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+
+X.- Coadyuvar en la promoción de los derechos humanos de las mujeres;
 
 XI.- Formular la política de desarrollo social del Estado considerando la igualdad de las mujeres y su plena participación en el ámbito social;
 
@@ -1147,7 +1193,9 @@ VI.- Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría de Educación Pública:
 
-I.- Definir en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos fundamentales;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+
+I.- Definir en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos;
 
 II.- Desarrollar actividades educativas, que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad;
 
@@ -1157,7 +1205,9 @@ IV.- Alentar el acceso, permanencia y culminación de estudios de las mujeres v�
 
 V.- Desarrollar investigación multidisciplinaria encaminada a crear modelos de detección de la violencia contra las mujeres en los centros educativos;
 
-VI.- Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos fundamentales de las mujeres, así como en políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+
+VI.- Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las mujeres, así como en políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
 VII.- Aplicar programas que permitan la detección temprana de los problemas de violencia contra las mujeres en los centros educativos;
 
@@ -1201,7 +1251,9 @@ VII.- Canalizar a las víctimas a las instituciones que prestan atención y prot
 
 VIII.- Participar activamente, en la ejecución del Programa, en el diseño de nuevos modelos de prevención, atención y erradicación de la violencia contra las mujeres, y de la Ruta de atención a mujeres en situación de violencia, en colaboración con las demás autoridades encargadas de la aplicación de la presente Ley;
 
-IX.- Asegurar que en la prestación de los servicios del sector salud sean respetados los derechos fundamentales de las mujeres;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+
+IX.- Asegurar que en la prestación de los servicios del sector salud sean respetados los derechos humanos de las mujeres;
 
 X.- Sensibilizar y capacitar al personal del sector salud, con la finalidad de que detecten la violencia contra las mujeres;
 
@@ -1271,7 +1323,9 @@ IX.- Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Procuraduría General de Justicia del Estado:
 
-I.- Promover la formación y especialización de todo el personal encargado de la procuración de justicia en materia de derechos fundamentales de las mujeres;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+
+I.- Promover la formación y especialización de todo el personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
 
 II.- Expedir las ordenes de protección, medidas o providencias previstas en esta Ley y demás disposiciones legales aplicables para la seguridad y auxilio de la víctima;
 
@@ -1289,7 +1343,9 @@ V BIS.- Participar activamente, en la ejecución del Programa, en el diseño de 
 
 VI.- Proporcionar a las víctimas asesoría que les permita reconocer su situación;
 
-VII.- Promover la cultura de respeto a los derechos fundamentales de las mujeres;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+
+VII.- Promover la cultura de respeto a los derechos humanos de las mujeres;
 
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
 
@@ -1317,7 +1373,9 @@ I.- Fungir como Secretaría Técnica del Sistema Estatal, a través de su titula
 
 II.- Realizar un diagnóstico Estatal y otros estudios complementarios de manera periódica con perspectiva de género sobre todos los tipos y modalidades de violencia contra las mujeres, en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-III.- Integrar las investigaciones promovidas por las Dependencias de la Administración Pública Estatal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención y erradicación, y la información derivada a cada una de las instituciones encargadas de promover los derechos fundamentales de las mujeres en el Estado y Municipios.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+
+III.- Integrar las investigaciones promovidas por las Dependencias de la Administración Pública Estatal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención y erradicación, y la información derivada a cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en el Estado y Municipios;
 
 Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia;
 
@@ -1345,7 +1403,9 @@ VII.- Brindar atención a las víctimas y establecer los modelos psicoterapéuti
 
 VIII.- Vigilar que la atención ofrecida en las diversas instituciones públicas, sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
 
-IX.- Difundir la cultura de respeto a los derechos fundamentales de las mujeres;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+
+IX.- Difundir la cultura de respeto a los derechos humanos de las mujeres;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1363,9 +1423,9 @@ XIV.- Establecer los indicadores para la evaluación de la administración públ
 
 XV.- Orientar y asesorar a los integrantes del Sistema Estatal en la elaboración del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
 
-XVI.- Impulsar la armonización de las Leyes en materia de derechos fundamentales de las mujeres;
+XVI.- Impulsar la armonización de las Leyes en materia de derechos humanos de las mujeres;
 
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
 
@@ -1441,6 +1501,10 @@ VII.- Apoyar la creación, operación y fortalecimiento de refugios seguros para
 
 VIII.- Participar y coadyuvar en la prevención, atención y erradicación de la violencia contra las mujeres;
 
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2023)</small>
+
+VIII Bis.- Realizar las acciones necesarias para implementar las medidas establecidas en la Alerta de Violencia de Género contra las mujeres;
+
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 IX.- Apoyar y fortalecer las instituciones públicas o privadas encargadas de la atención para las mujeres víctimas de violencia;
@@ -1467,7 +1531,9 @@ III.- Apoyar la creación de instituciones públicas o privadas encargadas de la
 
 IV.- Implementar programas de asistencia social para mujeres ofendidas por violencia de género;
 
-V.- Instrumentar campañas de prevención sobre violencia de género contra las mujeres, que tendrán como objetivo que la sociedad perciba el fenómeno como un asunto de violación a derechos fundamentales y seguridad pública;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+
+V.- Instrumentar campañas de prevención sobre violencia de género contra las mujeres, que tendrán como objetivo que la sociedad perciba el fenómeno como un asunto de violación a derechos humanos y seguridad pública;
 
 VI.- Impulsar procesos de capacitación sobre la violencia de género contra las mujeres para servidoras y servidores públicos de ese Organismo;
 
@@ -1872,3 +1938,13 @@ P.O. 31 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 485 QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO PRIMERO, LOS ARTÍCULOS 15 BIS Y 16, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 2 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 504 POR EL QUE SE REFORMAN Y ADICIONAN DISTINTAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. En un plazo que no exceda de noventa días contados a partir de la entrada en vigor del presente Decreto, el Instituto Hidalguense de las Mujeres deberá emitir los programas de capacitación para servidores públicos, así como la guía de información y los protocolos de seguimiento a los puntos violetas.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
