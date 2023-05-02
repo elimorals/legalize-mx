@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-160360"
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-28"
-last_updated: "2023-04-14"
+last_updated: "2023-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 28 de septiembre de 2022.
 
@@ -1287,7 +1287,15 @@ III. Contar con título y cédula profesional con una antigüedad de por lo meno
 
 IV. Contar al momento de su designación, con experiencia profesional de al menos cinco años en el control, manejo o fiscalización de recursos:
 
-V. (DEROGADA, P.O. 27 DE MARZO DE 2023)
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 2 DE MAYO DE 2023)</small>
+
+V. No estar en alguno de los siguientes supuestos:
+
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
+
+b) Tener sentencia condenatoria que haya causado estado por delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
+
+c) Ser deudor alimentario moroso o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios;
 
 VI. No estar inhabilitado para desempeñar funciones, empleos, cargos, o comisiones de cualquier naturaleza en el servicio público;
 
@@ -2771,9 +2779,19 @@ I. Estar inscritos en el listado nominal correspondiente, y contar con la creden
 
 II. No ser presidenta o presidente del comité ejecutivo, nacional, estatal, municipal o su equivalente, de un partido político, antes del inicio del proceso electoral de que se trate;
 
-III. Cumplir con los requisitos exigidos por el presente Ordenamiento para la elección de candidaturas independientes, y
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 2 DE MAYO DE 2023)</small>
 
-IV. Observar, tratándose del distrito designado por el Consejo en los términos del artículo 271 de esta Ley, el requisito de autoadscripción calificada.
+III. No estar en alguno de los siguientes supuestos:
+
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
+
+b) Tener sentencia condenatoria que haya causado estado por delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
+
+c) Ser deudor alimentario moroso o, en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios;
+
+IV. Cumplir con los requisitos exigidos por el presente Ordenamiento para la elección de candidaturas independientes, y
+
+V. Observar, tratándose del distrito designado por el Consejo en los términos del artículo 271 de esta Ley, el requisito de autoadscripción calificada.
 
 ###### ARTÍCULO 200.
 
@@ -3585,15 +3603,15 @@ j) No estar condenada o condenado por el delito de violencia política contra la
 
 k) Que su residencia, para el caso de Gubernatura del Estado cumple con lo señalado por el artículo 73 fracción II; para el caso de candidaturas a diputaciones lo señalado por el artículo 46 fracción II; y para el caso de candidaturas a ayuntamiento, lo señalado por el artículo 117 fracción II, todos de la Constitución del Estado;
 
-VI. Manifestación por escrito por cada una de las candidatas y candidatos, bajo protesta de decir verdad, por medio del cual señale no haber sido persona sentenciada, mediante resolución firme por la comisión de cualquiera (sic) los siguientes delitos:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 2 DE MAYO DE 2023)</small>
 
-a) Contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual.
+VI. Manifestación por escrito por cada una de las candidatas y candidatos, bajo protesta de decir verdad, por medio del cual señale no encontrarse en alguno de los siguientes supuestos:
 
-b) Contra la dignidad humana y el libre desarrollo de la personalidad.
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; incumplimiento de las obligaciones de asistencia familiar; o delitos contra las mujeres por razón de género.
 
-c) Cualquier agresión de género en el ámbito privado o público, o
+b) Tener sentencia condenatoria que haya causado estado por delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
 
-d) Incumplimiento de las obligaciones de asistencia familiar.
+c) Ser deudor alimentario moroso o, en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios;
 
 VII. Tratándose de las candidatas o candidatos a síndicos acreditar contar con el grado de licenciado en Derecho o abogado;
 
@@ -5880,6 +5898,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 14 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0732.- SE REFORMA EL ARTÍCULO 40, SUS PÁRRAFOS PRIMERO Y SEGUNDO, DE LA LEY ELECTORAL DEL ESTADO. SE REFORMA EL ARTÍCULO 4º, SU FRACCIÓN IV, DE LA LEY ORGÁNICA DEL CONSEJO POTOSINO DE CIENCIA Y TECNOLOGÍA DEL ESTADO. SE REFORMAN LOS ARTÍCULOS 9º, 10, 11, 12, 13 SU PÁRRAFO PRIMERO, 14, 15 SU PÁRRAFO PRIMERO, 16, 18, 19 Y 20; ADICIONA LOS ARTÍCULOS 18 BIS Y 20 BIS; Y DEROGA DEL ARTÍCULO 13, SUS PÁRRAFOS ÚLTIMO Y PENÚLTIMO, DE LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0741.- SE REFORMAN LOS ARTÍCULOS 92, EN SU FRACCIÓN V Y 277, EN SU FRACCIÓN VI; Y ADICIONA AL ARTÍCULO 199, LA FRACCIÓN III, DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
