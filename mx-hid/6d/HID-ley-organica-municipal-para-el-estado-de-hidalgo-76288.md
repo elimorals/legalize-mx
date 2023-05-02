@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2023-03-30"
+last_updated: "2023-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -3063,17 +3063,25 @@ El Comité de Planeación, contará con el apoyo técnico que en cada caso se co
 
 ### CAPÍTULO DÉCIMO TER. DE LA INSTANCIA MUNICIPAL PARA EL DESARROLLO DE LAS MUJERES
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2023)</small>
 
-ARTÍCULO 145 SEPTIMUS.- En cada municipio, podrá existir una Instancia Municipal para el Desarrollo de las Mujeres, creada como organismo descentralizado o centralizado de la administración pública municipal, que tendrá por objeto:
+ARTÍCULO 145 SEPTIMUS.- En cada municipio, deberá existir una Instancia Municipal para el Desarrollo de las Mujeres, creada como organismo descentralizado o centralizado de la administración pública municipal, que tendrá por objeto:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 I. Fomentar acciones que posibiliten la no discriminación, la igualdad jurídica, de oportunidades y de trato entre mujeres y hombres;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 II. Promover acciones en coordinación con otras instancias, relativas a la prevención, atención, sanción y erradicación de la violencia contra las mujeres; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 III. Favorecer el ejercicio pleno de todos los derechos de las mujeres y su participación en la vida política, cultural, económica y social del municipio.
 
-La persona titular de la Instancia Municipal para el Desarrollo de las Mujeres deberá contar, como mínimo, con bachillerato o carrera técnica, y tener conocimientos inherentes al buen desempeño de su cargo.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2023)</small>
+
+La Instancia Municipal para el Desarrollo de la (sic) Mujeres estará a cargo de una mujer, quien deberá tener grado de estudios de nivel superior y contar con al menos un año de experiencia en temas de género, igualdad sustantiva, prevención de la violencia de género y defensa y promoción de los derechos humanos de las mujeres, y tener conocimientos inherentes al buen desempeño de su cargo.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -3089,7 +3097,17 @@ IV. Promover la incorporación de la perspectiva de género en la planeación, o
 
 V. Promover e impulsar condiciones que hagan posible la defensa y el ejercicio de los derechos de las mujeres; la igualdad de oportunidades; y su participación activa en todos los órdenes de la vida;
 
-VI. Instrumentar, en concordancia con la política nacional y estatal, la política pública relativa a la igualdad sustantiva entre mujeres y hombres y erradicación de la violencia contra las mujeres; y
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2023)</small>
+
+V BIS. Brindar asesoría y asistencia jurídica;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+
+VI. Instrumentar, en concordancia con la política nacional y estatal, la política pública relativa a la igualdad sustantiva entre mujeres y hombres y erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2023)</small>
+
+VI BIS. Coordinarse con la Comisión de Igualdad y de Género del Ayuntamiento, a efecto de diseñar e implementar un programa municipal de erradicación de la violencia hacia la mujer; y
 
 VII. Las demás que le otorguen las Leyes, su Reglamento y demás ordenamientos legales.
 
@@ -4150,3 +4168,11 @@ P.O. 30 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 488, POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO, LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y, LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 2 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 507 POR EL QUE SE REFORMA EL ARTÍCULO 145 SEPTIMUS Y SE ADICIONAN DIVERSAS FRACCIONES AL ARTÍCULO 145 OCTAVUS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- La reforma del último párrafo del artículo 145 SEPTIMUS, respecto de las cualidades que debe reunir la persona titular de las Instancias Municipales para el Desarrollo de las Mujeres, entrará en vigor a partir del 5 de septiembre de 2024.
