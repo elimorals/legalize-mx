@@ -4,7 +4,7 @@ identifier: "HID-ley-para-prevenir-atender-sancionar-y-eliminar-la-93833"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2023-04-13"
+last_updated: "2023-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 8 de abril de 2013.
 
@@ -263,6 +263,10 @@ XVII. Restringir el acceso a la información, salvo en aquellos supuestos que se
 
 XVIII. Obstaculizar las condiciones mínimas necesarias para el crecimiento y desarrollo integral, especialmente de las niñas, los niños y los adolescentes, con base al interés superior de la niñez;
 
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2023)</small>
+
+XVIII Bis.- Prohibir, limitar o restringir el acto de amamantar en espacios públicos;
+
 XIX. Negar o impedir el acceso a la seguridad social y a sus beneficios o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;
 
 XX. Limitar, obstaculizar o impedir el derecho a la alimentación, la vivienda, el recreo y los servicios de atención médica adecuados, en los casos que la ley así lo prevea;
@@ -303,7 +307,9 @@ XXXIII. Negar la prestación de servicios financieros a personas con discapacida
 
 XXXIV. Difundir sin consentimiento de la persona agraviada información sobre su condición y antecedentes de salud física o mental, o sobre cualquier otro dato personal sensible;
 
-XXXV. Condicionar, limitar o restringir las oportunidades de empleo, permanencia o ascenso laborales debido a embarazo, discapacidad, edad en los términos de la legislación laboral vigente; por tener la calidad de persona egresada de alguna institución pública o privada de educación; por motivaciones injustificadas de salud y por antecedentes penales;
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2023)</small>
+
+XXXV.- Condicionar, prohibir, limitar o restringir las oportunidades de empleo, permanencia o ascenso laborales debido a embarazo, discapacidad, edad en los términos de la legislación laboral vigente; por tener la calidad de persona egresada de alguna institución pública o privada de educación; por motivaciones injustificadas de salud y por antecedentes penales;
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
@@ -1344,5 +1350,11 @@ P.O. 24 DE NOVIEMBRE DE 2022.
 P.O. 13 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 498 QUE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 11 BIS DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 2 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 505 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 11 BIS DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
