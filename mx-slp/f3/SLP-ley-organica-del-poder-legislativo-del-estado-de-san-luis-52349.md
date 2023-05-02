@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2023-04-26"
+last_updated: "2023-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -695,13 +695,15 @@ Los grupos parlamentarios tienen por objeto facilitar la participación de los d
 
 Los grupos parlamentarios con las excepciones previstas en esta Ley, gozarán de los mismos derechos y tendrán las mismas obligaciones.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 57.
 
-Las diputadas y los diputados sólo podrán pertenecer a un grupo parlamentario o una representación parlamentaria; o ser diputadas o diputados independientes si se separan de su grupo parlamentario durante la Legislatura.
+Las diputadas y los diputados sólo podrán pertenecer a un grupo parlamentario o una representación parlamentaria; o ser diputadas o diputados sin partido, si se separan de su grupo parlamentario durante la Legislatura.
 
-En caso de renuncia a un grupo parlamentario, las y los legisladores no se incorporarán a otro grupo parlamentario, por lo que mantendrán su independencia dando aviso a la Junta de Coordinación Política para que surta los efectos correspondientes.
+En caso de renuncia a un grupo parlamentario, las y los legisladores no se incorporarán a otro grupo parlamentario, por lo que mantendrán su autonomía dando aviso a la Junta de Coordinación Política para que surta los efectos correspondientes.
+
+Se consideran diputados o diputadas independientes aquellos que se registraron y participaron en el proceso electoral de manera independiente a los partidos políticos.
 
 ###### ARTICULO 58.
 
@@ -1353,9 +1355,13 @@ VI. La legislación relativa al desarrollo integral de la juventud;
 
 VII. La legislación relativa a la protección, apoyo, reconocimiento, estímulo y desarrollo de las personas adultos mayores, tendiente a mejorar su calidad de vida;
 
-VIII. Lo relativo a personas con capacidades diferentes y su integración a la sociedad;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
 
-IX. Revisar la legislación del Estado para reformar o derogar todas las normas que impliquen discriminación motivada por origen étnico o nacional, el género, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
+VIII. Lo relativo a personas con discapacidad y su integración a la sociedad;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+
+IX. Revisar la legislación del Estado para reformar o derogar todas las normas que impliquen discriminación motivada por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, las preferencias, el estado civil, o cualquier otra que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
@@ -1365,9 +1371,9 @@ X. Los tocantes a las relaciones con las dependencias y entidades de la administ
 
 XI. Representar, a través de quien asuma la Presidencia, al Congreso del Estado, en el Comité Estatal de Protección al Periodismo, y
 
-> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
 
-XII. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
+XII. Los análogos a los anteriores que, a juicio de la Presidencia de la Directiva en los periodos ordinarios, o de la Presidencia de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTICULO 104.
 
@@ -1547,7 +1553,7 @@ XVII. Los análogos a los anteriores que, a juicio del Presidente de la Directiv
 
 > <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-ARTICULO 108 BIS. Compete a la Comisión de Fomento al Turismo, los siguientes asuntos:
+ARTÍCULO 108 BIS. Compete a la Comisión de Fomento al Turismo, los siguientes asuntos:
 
 I. Los que conciernen al fomento, desarrollo, promoción y apoyo de las actividades turísticas del Estado;
 
@@ -2247,19 +2253,17 @@ El derecho a desistirse de una iniciativa solamente le corresponde al diputado q
 
 Cuando la iniciativa se haya suscrito por más de un diputado se requiere que todos los promoventes manifiesten por escrito su voluntad de desistirse. En el caso de que alguno de los promoventes no se desista, se continuará el procedimiento de dictamen, dándose cuenta al Pleno de quienes han decidido hacer uso de ese derecho.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 132.
 
-Los diputados en lo particular, las comisiones, los grupos parlamentarios; y la Junta, pueden proponer al Pleno Puntos de Acuerdo en relación con asuntos o materias que consideren de interés público y no sean de su propia competencia; o que se refieran al cumplimiento de las funciones de los municipios y los demás poderes del Estado, de los organismos constitucionales autónomos, de otras entidades federativas, de la Federación, y de asuntos internacionales.
+Las diputadas y los diputados en lo particular, las comisiones, los grupos parlamentarios, y la Junta, pueden proponer al Pleno Puntos de Acuerdo en relación con asuntos o materias que consideren de interés público y no sean de su propia competencia; o que se refieran al cumplimiento de las funciones de los municipios y los demás poderes del Estado, de los organismos constitucionales autónomos, de otras entidades federativas, de la Federación, y de asuntos internacionales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2008)</small>
+Las diputadas y los diputados pueden adherirse a los puntos de acuerdo que hayan sido presentados por sus homólogos, siempre y cuando medie el consentimiento expreso de quien lo haya promovido.
 
-Los puntos de acuerdo en ningún caso podrán exhortar al cumplimiento de funciones previamente establecidas en la ley.
+Los puntos de acuerdo en ningún caso exhortarán al cumplimiento de funciones previamente establecidas en la ley.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE MAYO DE 2008)</small>
-
-Los puntos de acuerdo aprobados, en ningún caso tendrán efectos vinculatorios.
+Los puntos de acuerdo no tienen efectos vinculatorios.
 
 ###### ARTICULO 133.
 
@@ -3204,5 +3208,29 @@ P.O. 26 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0740.- SE REFORMA EL ARTÍCULO 138, EN SU FRACCIÓN XIV, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONA AL ARTÍCULO 151, UN PÁRRAFO, ÉSTE COMO SEGUNDO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0743.- SE REFORMA EL ARTÍCULO 103, EN SUS FRACCIONES VIII, IX Y XII, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0744.- SE REFORMA EL ARTÍCULO 132, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 72, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0745.- SE REFORMA EL ARTÍCULO 57, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
