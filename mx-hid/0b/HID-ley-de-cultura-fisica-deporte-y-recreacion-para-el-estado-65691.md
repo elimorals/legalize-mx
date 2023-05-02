@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2022-12-26"
+last_updated: "2023-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -52,6 +52,8 @@ DISPOSICIONES GENERALES.
 ### CAPÍTULO ÚNICO
 
 DISPOSICIONES GENERALES.
+
+> <small>[N. DE E. EL PRESENTE ARTÍCULO FUE REFORMADO POR EL ARTÍCULO ÚNICO DEL DECRETO 330 DE 26 DE DICIEMBRE DE 2022; POSTERIORMENTE EL 2 DE MAYO DE 2023 FUE REFORMADO ESTE ARTÍCULO MEDIANTE DECRETO 506 QUEDANDO DE ESTA MANERA: “Artículo 1.- … I.- a VIII.- … IX.- Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de las y de los deportistas del Estado; estimulando la práctica del deporte con reconocimientos a nivel Local, Estatal, Nacional e Internacional; X.- Operar e implementar programas integrales que vayan dirigidos a disminuir la drogadicción juvenil y a fortalecer la integración familiar a través del deporte; y XI.- Proteger el libre desarrollo de la personalidad a través de la eliminación de estereotipos y conductas de discriminación en la práctica cotidiana de actividades físicas, deportivas y recreativas. …”; POR LO QUE, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE ESAS FECHAS.]</small>
 
 ###### Artículo 1.
 
@@ -235,6 +237,10 @@ X.- Establecer los mecanismos de coordinación y evaluación de los planes y pro
 
 XI.- Promover la celebración de eventos deportivos y de cultura física, Municipales, Estatales, Nacionales o Internacionales;
 
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2023)</small>
+
+XI Bis.- Establecer mecanismos para la detección de talentos deportivos y promover políticas públicas para fortalecer las habilidades y destrezas deportivas, competitivas, así como de disciplina en las diversas generaciones del estado;
+
 XII.- Expedir el Reglamento de la presente Ley, y en su caso, las modificaciones que sean necesarias;
 
 XIII.- Cumplir y vigilar que se cumpla la Ley de Cultura Física, Deporte y Recreación para el Estado de Hidalgo y su Reglamento; y
@@ -275,11 +281,17 @@ III.- Determinar las facultades y obligaciones de las autoridades Estatales, Mun
 
 IV.- Normar la actividad de las asociaciones deportivas y establecer sus derechos y obligaciones;
 
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
 
-V.- Garantizar mecanismos de igualdad de oportunidades en la práctica deportiva a sus trabajadores; y
+V.- Garantizar mecanismos de igualdad de oportunidades en la práctica deportiva a sus trabajadores;
 
-VI.- Promover la cultura de la educación física y el deporte entre los habitantes del Estado.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
+
+VI.- Promover la cultura de la educación física y el deporte entre los habitantes del Estado; y
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2023)</small>
+
+VII.- Generar mecanismos con perspectiva de género y de derechos humanos, para garantizar que no exista acoso, violencia, hostigamiento o discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que constituya una agresión al libre desarrollo de la personalidad.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
 
@@ -387,11 +399,19 @@ VI.- Proponer y ejecutar las medidas que permitan fomentar el aprendizaje y la p
 
 VII.- Establecer los procedimientos para lograr una coordinación y concertación en materia deportiva entre las diferentes Dependencias y Entidades de la Administración Pública Estatal y Municipal, así como también sumar la participación activa de las diferentes instituciones públicas y de particulares, de los sectores social y privado;
 
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2023)</small>
+
+VII Bis.- Impulsar campañas de actividad física y recreación.
+
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
 
 VIII.- Diseñar y operar estrategias para fomentar la práctica deportiva entre los grupos étnicos, adultos mayores, personas con discapacidad y población de escasos recursos;
 
 IX.- Formular programas destinados a promover y apoyar la formación, capacitación y actualización constante entre todo el personal técnico del deporte, que se dedica a trabajar en las diferentes disciplinas deportivas;
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2023)</small>
+
+IX Bis.- Promover una mayor incorporación de las mujeres en el ámbito deportivo profesional, eliminando las barreras a causa de estereotipos y prácticas sexistas;
 
 X.- Coadyuvar en el diseño y operación del Registro Estatal de Cultura Física, Deporte y Recreación; y
 
@@ -1852,5 +1872,11 @@ P.O. 27 DE OCTUBRE DE 2022.
 P.O. 26 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 330 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 2 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 506 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
