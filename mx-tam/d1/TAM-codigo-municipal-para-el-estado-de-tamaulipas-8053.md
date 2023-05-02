@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2023-02-21"
+last_updated: "2023-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -3559,6 +3559,10 @@ VIII.- Proporcionar de acuerdo a su capacidad económica los servicios de seguri
 
 IX.- Adecuar las instalaciones municipales para que las mujeres puedan alimentar a sus hijos lactantes.
 
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2023)</small>
+
+X.- Otorgar a las y los trabajadores al servicio del Ayuntamiento, un día laborable al año, con goce íntegro de su sueldo para someterse a la realización de exámenes médicos preventivos del cáncer de mama, cervicouterino y próstata según sea el caso, para lo cual deberán presentar la constancia o certificado médico, correspondiente a la realización de dichos exámenes, expedido por una institución pública o privada de salud.
+
 ### CAPITULO VIII. DE LA TERMINACION DE LOS EFECTOS DEL NOMBRAMIENTO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
@@ -6974,3 +6978,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La creación de los Institutos y Consejos, establecidos en el presente Decreto, se crearán y se establecerán de conformidad con las necesidades y medidas presupuestarias de cada Ayuntamiento.
+
+P.O. 2 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-563 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 228 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
