@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2021-04-22"
+last_updated: "2023-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -1251,7 +1251,9 @@ Las designaciones a que este artículo se refiere, podrán en todo tiempo ser su
 
 La Dirección de Pensiones, a solicitud del pensionista, o de oficio, podrá administrar las pensiones, a juicio de la Dirección, mediante causa justificada.
 
-En caso de menores de edad, cuando exista controversia entre quién o quiénes detenten la patria potestad, la Dirección de Pensiones no entregará la pensión, hasta que se le notifique la resolución ejecutoriada correspondiente que indique a quién se deberá hacer el pago de la pensión en representación de los menores.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2023)</small>
+
+En caso de niñas, niños y adolescentes, cuando exista controversia entre quién o quiénes detenten la patria potestad, la Dirección de Pensiones no entregará la pensión, hasta que se le notifique la resolución ejecutoriada correspondiente que indiquen (sic) a quién se deberá hacer el pago de la pensión en representación de las niñas, niños y adolescentes.
 
 Si el trabajador incluye en su escrito de designación de deudos personas diversas a las señaladas en el artículo 121 de esta Ley, la designación será nula únicamente en la parte conducente y se tendrá por no puesta.
 
@@ -1717,7 +1719,9 @@ Las designaciones a que este artículo se refiere, podrán en todo tiempo ser su
 
 La Dirección de Pensiones, a solicitud del pensionista, o de oficio, podrá administrar las pensiones, a juicio de la Dirección, mediante causa justificada.
 
-En caso de menores de edad, cuando exista controversia entre quién o quiénes detenten la patria potestad, la Dirección de Pensiones no entregará la pensión hasta que se le notifique la resolución ejecutoriada correspondiente, que indique a quién se deberá hacer el pago de la pensión en representación de los menores.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2023)</small>
+
+En caso de niñas, niños y adolescentes, cuando exista controversia entre quién o quiénes detenten la patria potestad, la Dirección de Pensiones no entregará la pensión hasta que se le notifique la resolución ejecutoriada correspondiente, que indique a quién se deberá hacer el pago de la pensión en representación de las niñas, niños y adolescentes.
 
 Si el trabajador incluye en su escrito de designación de deudos, personas diversas a las señaladas en el artículo 147 de esta Ley, la designación será nula, únicamente en la parte conducente, y se tendrá por no puesta.
 
@@ -2460,5 +2464,13 @@ P.O. 22 DE ABRIL DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1161.-·SE REFORMA EL ARTÍCULO 57 EN SU PÁRRAFO SEGUNDO, DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0742.- SE REFORMAN LOS ARTÍCULOS 122, EN SU PÁRRAFO QUINTO Y 148, EN SU PÁRRAFO QUINTO, DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
