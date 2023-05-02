@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg13-2023-del-consejo-general-del-instituto-164863"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-03-07"
-last_updated: "2023-03-07"
+last_updated: "2023-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164863&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-01-25"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS QUE DEBERÁN OBSERVAR LOS SUJETOS OBLIGADOS PARA LA COMPROBACIÓN DE LOS GASTOS DE LAS PERSONAS REPRESENTANTES GENERALES Y ANTE LAS MESAS DIRECTIVAS DE CASILLA EL DÍA DE LA JORNADA ELECTORAL PARA LOS PROCESOS ELECTORALES LOCALES ORDINARIOS 2022-2023 EN LOS ESTADOS DE COAHUILA DE ZARAGOZA Y ESTADO DE MÉXICO, ASÍ COMO LOS PROCESOS EXTRAORDINARIOS QUE SE PUDIERAN DERIVAR DE ÉSTOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 7 de marzo de 2023.
 
@@ -121,19 +121,29 @@ El monto pagado a los representantes de casilla registrados por cada sujeto obli
 
 18. En la verificación a la comprobación de gratuidad o apoyo económico a las personas representantes generales y de casilla, la UTF será exhaustiva y verificará con transparencia la totalidad las obligaciones de comprobación de los sujetos obligados.
 
-19. Tomando en consideración que los sujetos obligados cuentan con el tiempo y los mecanismos necesarios para la toma de decisiones internas, la autoridad electoral facilita las herramientas para el registro, captura y generación de los comprobantes correspondientes y, de acuerdo al principio de certeza que rige la materia electoral, una vez que el sujeto obligado reconoce el estatus de oneroso de cada una de las personas representantes generales y de casilla, no podrá modificar dicha manifestación después de que haya terminado el plazo para el registro y sustitución de las personas representantes.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE MAYO DE 2023)</small>
+
+19. Tomando en consideración que los sujetos obligados cuentan con el tiempo y los mecanismos necesarios para la toma de decisiones internas, la autoridad electoral facilita las herramientas para el registro, captura y generación de los comprobantes correspondientes, para lo cual, específicamente en el Sistema de Registro de Representantes, los registros pueden ser modificados, siempre y cuando se encuentren dentro del plazo que fija la ley para realizar sustituciones, es decir, hasta 10 días antes de la jornada electoral, de conformidad con lo señalado en la LGIPE.
+
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2023)</small>
+
+Luego entonces, de acuerdo al principio de certeza que rige la materia electoral, una vez que el sujeto obligado haya reconocido en el Sistema de Registro de Representantes el estatus de oneroso de cada una de las personas representantes generales y de casilla, y haya terminado el plazo a que se refiere el párrafo anterior, en caso de requerir modificaciones respecto de estatus de oneroso o gratuito, el cambio se deberá realizar directamente en los montos que se capturen para efectos de la generación de los CEP mediante SIFIJE, en el entendido que los que tengan valor cero se modifican al estatus gratuito, mismos que serán objeto de observación en el oficio de errores y omisiones a efecto de que se expliquen las razones de la modificación.
 
 Para dar certeza de cómo operará la comprobación de pago, se considerarán los siguientes supuestos:
 
 a) El registro original que se realice en el Sistema de Registro de Representantes con una remuneración de valor cero se entenderá como gratuito. La ausencia de dato en la remuneración o un valor mayor a cero, indica que el representante es oneroso y deberá reportar el pago, por lo que, en el caso de las personas representantes sin valor en el campo remuneración, se valuará conforme al mecanismo señalado en el Artículo Séptimo, numeral 2 del presente acuerdo.
 
-b) Por lo tanto, si los sujetos obligados, durante el periodo establecido en el Acuerdo INE/CG821/2022, registran a un representante de casilla como oneroso en el Sistema de Registro de Representantes y, de lo reportado en el SIJE, la autoridad advierte que éste asistió el día de la Jornada Electoral, no se podrá modificar su estatus y registrar en el SIFIJE como gratuito, por lo que no será válido este movimiento.
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2023)</small>
+
+b) Por lo tanto, si los sujetos obligados, durante el periodo establecido en el Acuerdo INE/CG821/2022, registran a un representante de casilla como oneroso en el Sistema de Registro de Representantes y, de lo reportado en el SIJE, la autoridad advierte que éste asistió el día de la Jornada Electoral, podrán modificar y firmar un CEP por monto $0.00 (cero pesos) en el SIFIJE; sin embargo, será objeto de observación en el oficio de errores y omisiones para que presenten las aclaraciones del cambio realizado.
 
 c) Como excepción a la regla, si los sujetos obligados de origen registran a un representante de casilla como oneroso y, de lo reportado en el SIJE, la autoridad fiscalizadora advierte que éste no asistió, se considerará como válido el cambio del monto de pago a ceros en el SIFIJE.
 
 d) En el caso de que un representante registrado de origen como gratuito en el Sistema de Registro de Representantes reciba un pago, el sujeto obligado podrá capturar el monto pagado en el SIFIJE, de conformidad con el pago que haya realizado el día de la Jornada Electoral.
 
-e) En el caso de que un representante registrado de origen como oneroso en el Sistema de Registro de Representantes con un monto determinado, pero el sujeto obligado modifique el monto pagado en el SIFIJE, deberá justificar el motivo del cambio en el oficio de errores y omisiones.
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2023)</small>
+
+e) En el caso de que un representante registrado de origen como oneroso en el Sistema de Registro de Representantes con un monto determinado, pero el sujeto obligado modifique el monto pagado en el SIFIJE, será objeto de observación en el oficio de errores y omisiones para que presente las aclaraciones del cambio realizado.
 
 Si se presentara cualquier otra situación distinta a las desarrolladas, la UTF realizará las observaciones pertinentes en los oficios de errores y omisiones.
 
@@ -155,7 +165,9 @@ Del registro del apoyo económico otorgado a las personas representantes general
 
 2. Para cada persona representante general y de casilla a la que se le otorgue apoyo económico se deberá registrar en el sistema el monto total pagado por ese concepto, el cual deberá estar vinculado a sus actividades de vigilancia el día de la Jornada Electoral.
 
-3. Para el registro del importe pagado a las personas representantes de casilla, los responsables de registro deberán seleccionar uno de los montos precargados en el Sistema de Registro de Representantes. El monto mínimo que podrán elegir será de cien pesos y se incrementará en múltiplos de cincuenta pesos hasta llegar a tres mil pesos M/N.
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2023)</small>
+
+3. Para el registro del importe pagado a las personas representantes de casilla, los responsables de registro deberán registrar el monto pagado mediante el Sistema de Registro de Representantes.
 
 4. Para el pago de los recursos a las personas representantes generales y de casilla, los sujetos obligados sólo deberán utilizar los mecanismos de dispersión de recursos a través del sistema financiero mexicano (instituciones bancarias). Para estos efectos, el recurso a dispersar deberá salir de una cuenta bancaria del partido político o de la asociación civil para el caso de las candidaturas independientes; el comprobante de pago deberá identificar plenamente el número de cuenta, banco origen, fecha, nombre completo del titular, número de cuenta, banco destino y nombre del beneficiario, de conformidad con lo dispuesto en el artículo 96, numeral 3, inciso b), fracción VII del RF. Por otro lado, el beneficiario deberá estar asentado en el módulo de registro de representantes generales y de casilla.
 
@@ -213,23 +225,25 @@ Del incumplimiento a los presentes Lineamientos
 
 3. En caso de que se detecten CEP con un importe mayor a cero sin ser contabilizado en el SIF, serán observados como gasto no reportado y se cuantificarán de conformidad al costo determinado en la matriz de precios.
 
-En el caso de que haya personas representantes generales o de casilla cuyos CEP tengan el estatus de onerosos, hayan sido pagados, pero que no hayan asistido el día de la Jornada Electoral, no serán objeto de observación. En el mismo sentido, no se realizarán observaciones si las personas representantes que asistan a realizar su actividad el día de la Jornada Electoral no realizan el cobro del recurso asignado y distribuido por su representación; es decir, que habiéndose registrado como oneroso y con asistencia conforme al SIJE, se emite el pago pero no se presenta a reclamarlo. Sin embargo, en ambos casos el monto pagado o asignado será acumulado a los topes de gastos de campaña, de conformidad al beneficio correspondiente.
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2023)</small>
+
+En el caso de que haya personas representantes generales o de casilla cuyos CEP tengan el estatus de onerosos, hayan dispersado los recursos para su pago, pero que las personas no hayan asistido el día de la Jornada Electoral, serán objeto de observación en el oficio de errores y omisiones para que presente las aclaraciones correspondientes. En el mismo sentido, se realizarán observaciones si las personas representantes que asistan a realizar su actividad el día de la Jornada Electoral no realizan el cobro del recurso asignado y dispersado por su representación; es decir, que habiéndose registrado como oneroso y con asistencia conforme al SIJE, se emite el pago, pero no se presenta a reclamarlo. Lo anterior, a efecto de que el sujeto obligado manifieste las aclaraciones correspondientes. En ambos casos el monto pagado o asignado será acumulado a los topes de gastos de campaña, de conformidad al beneficio correspondiente.
 
 4. Para el caso de los representantes generales donde se observen gasto no reportados, el monto pagado o asignado, será distribuido y acumulado a los topes de gastos de campaña de todas las candidaturas que conformen el distrito electoral federal.
 
 5. Para el caso de los representantes de casilla donde se observen gastos no reportados, el monto pagado o asignado, será distribuido y acumulado a los topes de gastos de campaña de las candidaturas que sean votadas en cada casilla.
 
-6. Los casos que se cuantificarán como gastos no reportados, utilizando el valor de la matriz de precio es el siguiente:
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], D.O.F. 2 DE MAYO DE 2023)</small>
 
-1. Los CEP de representantes registrados como oneroso modificados a gratuitos y que si hayan asistido.
+6. Los casos que se cuantificarán como gastos no reportados, utilizando el valor de la matriz de precio son los siguientes:
 
-2. Los CEP onerosos, que no se contabilicen en el SIF.
+1. Los CEP onerosos, que no se contabilicen en el SIF.
 
-3. Los CEP de representantes que no sean firmados de manera electrónica por las personas responsables de finanzas
+2. Los CEP de representantes que no sean firmados de manera electrónica por las personas responsables de finanzas.
 
-4. Los CEP no generados en el SIFIJE.
+3. Los CEP no generados en el SIFIJE.
 
-5. Los CEP firmados con monto $0 para justificar cambio a gratuidad, cuando inicialmente se establecieron como onerosos.
+4. Los CEP firmados con monto $0.00 cuando inicialmente se establecieron como onerosos, salvo que se justifique dicha modificación.
 
 Artículo Octavo.
 
@@ -270,3 +284,23 @@ https://www.ine.mx/sesion-extraordinaria-del-consejo-general-25-de-enero-de-2023
 Página DOF
 
 www.dof.gob.mx/2023/INE/CGext202301_25_ap_15.pdf
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 2 DE MAYO DE 2023.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICA EL DIVERSO INE/CG13/2023, MEDIANTE EL CUAL SE EMITIERON LOS LINEAMIENTOS QUE DEBERÁN OBSERVAR LOS SUJETOS OBLIGADOS PARA LA COMPROBACIÓN DE LOS GASTOS DE LAS PERSONAS REPRESENTANTES GENERALES Y ANTE LAS MESAS DIRECTIVAS DE CASILLA EL DÍA DE LA JORNADA ELECTORAL PARA LOS PROCESOS ELECTORALES LOCALES ORDINARIOS 2022-2023 EN LOS ESTADOS DE COAHUILA DE ZARAGOZA Y ESTADO DE MÉXICO, ASÍ COMO LOS PROCESOS EXTRAORDINARIOS QUE SE PUDIERAN DERIVAR DE ÉSTOS, EN ACATAMIENTO A LA SENTENCIA DICTADA POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL EXPEDIENTE SUP-RAP-22/2023", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. En acatamiento a la resolución dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación recaída al expediente SUP-RAP-22/2023, respecto de (sic) Acuerdo del Consejo General del Instituto Nacional Electoral INE/CG13/2023, se modifican los artículos primero, tercero y séptimo de los Lineamientos que deberán observar los sujetos obligados para la comprobación de los gastos de las personas representantes generales y ante las mesas directivas de casilla el día de la jornada electoral para los Procesos Electorales Locales Ordinarios 2022-2023 en los estados de Coahuila de Zaragoza y Estado de México, así como los procesos extraordinarios que se pudieran derivar de éstos, en los términos precisados en el Considerando 5 del presente Acuerdo.
+
+SEGUNDO. Se instruye a la Unidad Técnica de Fiscalización a integrar las modificaciones aprobadas al Acuerdo y lineamientos, para publicitar una versión integral.
+
+TERCERO. Infórmese a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación dentro de las veinticuatro horas siguientes a la aprobación del presente Acuerdo, sobre el cumplimiento dado a la sentencia emitida en el expediente SUP-RAP-22/2023.
+
+CUARTO. Se instruye a la Unidad Técnica de Fiscalización para que notifique el presente Acuerdo a los partidos políticos nacionales, a los partidos locales, así como a las coaliciones y personas candidatas independientes que tengan registro durante los Procesos Electorales Locales Ordinarios 2022-2023, a través del módulo de notificaciones electrónicas del Sistema Integral de Fiscalización.
+
+QUINTO. Se instruye al Secretario Ejecutivo para que, a través de la Unidad Técnica de Vinculación con los Organismos Públicos Locales, notifique el presente Acuerdo a los institutos locales de Coahuila de Zaragoza y Estado de México.
+
+SEXTO. El presente Acuerdo entrará en vigor a partir del día siguiente de su aprobación por este Consejo General del Instituto Nacional Electoral.
+
+SÉPTIMO. Publíquese el presente Acuerdo en la página de Internet del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
