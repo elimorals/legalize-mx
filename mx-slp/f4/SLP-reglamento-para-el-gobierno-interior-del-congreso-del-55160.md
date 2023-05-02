@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2023-04-26"
+last_updated: "2023-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -801,9 +801,15 @@ El acuerdo económico es una resolución que tiene efectos internos en la admini
 
 ### CAPITULO V. DE LAS FORMALIDADES DE LOS PUNTOS DE ACUERDO
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 72.
 
-Los diputados del Congreso podrán presentar ante el Pleno puntos de acuerdo conforme la Ley Orgánica, en los términos y para los efectos del artículo 132 de la Ley Orgánica.
+Las diputadas y diputados podrán presentar ante el Pleno, puntos de acuerdo, en los términos y para los efectos del artículo 132 de la Ley Orgánica.
+
+Los integrantes de la Legislatura podrán adherirse a los puntos de acuerdo que hayan sido presentados por otro diputado o diputada, siempre y cuando medie el consentimiento expreso de quien lo haya promovido.
+
+Las adhesiones, en su caso, deberán asentarse en el acta de la Sesión.
 
 ###### ARTICULO 73.
 
@@ -3078,6 +3084,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 26 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0740.- SE REFORMA EL ARTÍCULO 138, EN SU FRACCIÓN XIV, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONA AL ARTÍCULO 151, UN PÁRRAFO, ÉSTE COMO SEGUNDO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0744.- SE REFORMA EL ARTÍCULO 132, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 72, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
