@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2023-02-16"
+last_updated: "2023-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -825,7 +825,13 @@ La Secretaría deberá elaborar y publicar un informe detallado de la situación
 
 ###### ARTICULO 36.
 
-1. El Estado y los Municipios, en coordinación con los sectores público, social y privado promoverán la incorporación de contenidos que fomenten las culturas ambiental y de desarrollo sustentable, a través del Sistema Educativo Estatal y de la formación cívica.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2023)</small>
+
+1. El Estado y los Municipios, en coordinación con los sectores público, social y privado promoverán la incorporación de contenidos que fomenten la cultura ambiental y de desarrollo sustentable, a través del Sistema Educativo Estatal y de la formación cívica.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2023)</small>
+
+Las dependencias y entidades del Gobierno del Estado, los Municipios, el Congreso del Estado de Tamaulipas, el Supremo Tribunal de Justicia del Estado y demás órganos autónomos, establecerán en sus oficinas y dependencias sistemas de manejo ambiental, los cuales tendrán por objeto prevenir, minimizar y evitar la generación de residuos y aprovechar su valor. Para tal efecto, se promoverá la adquisición y uso de objetos desechables elaborados a partir de materia orgánica, biodegradable o de bajo impacto ecológico.
 
 2. Asimismo, propiciarán el fortalecimiento de la responsabilidad ambiental, a través de campañas de sensibilización y concientización.
 
@@ -837,9 +843,9 @@ La Secretaría deberá elaborar y publicar un informe detallado de la situación
 
 4. La Secretaría, asimismo, promoverá la participación de los medios de comunicación masiva en el fortalecimiento de la conciencia ecológica y las políticas para el desarrollo sustentable en el Estado.
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2023)</small>
 
-5. El Estado y los Municipios, en el ámbito de sus respectivas competencias, promoverán la investigación, desarrollo y aplicación de tecnologías, equipos, procesos y sistemas que permitan prevenir, controlar y abatir la contaminación en la producción, uso y disposición de bolsas de plástico, a fin de contribuir a que en su ciclo de vida se minimicen los impactos negativos al ambiente, así como a la reducción en la fuente, separación, reutilización y, en su caso, el reciclaje, de las mismas.
+5. El Estado y los Municipios, en el ámbito de sus respectivas competencias, promoverán la investigación, desarrollo y aplicación de tecnologías, equipos, procesos y sistemas que permitan prevenir, controlar y abatir la contaminación en la producción, uso y disposición de artículos fabricados total o parcialmente de plástico, diseñados para su desecho después de un solo uso, excepto los que sean compostables, incluidas las bolsas de plástico, a fin de contribuir a que en su ciclo de vida se minimicen los impactos negativos al ambiente, así como a la reducción en la fuente, separación, reutilización y, en su caso, el reciclaje de las mismas.
 
 > <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
@@ -848,6 +854,18 @@ La Secretaría deberá elaborar y publicar un informe detallado de la situación
 > <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
 7. Quedan exentas de la restricción del párrafo anterior aquellas bolsas que hayan sido producidas incorporando un porcentaje mínimo de treinta por ciento (30%) de material reciclado y que la fabricación de dichas bolsas de plástico sea con materiales y procesos de tecnología que permitan su ágil degradación acorde a la norma NMX-E- 267 o las que la sustituyan.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2023)</small>
+
+8. Asimismo, queda restringida la comercialización, distribución y entrega de tenedores, cuchillos, cucharas, palitos mezcladores, platos, popotes o pajitas, bastoncillos para hisopos de algodón, globos y varillas para globos, vasos y sus tapas, charolas para transportar alimentos, fabricados total o parcialmente de plásticos, diseñados para su desecho después de un solo uso, excepto los que sean compostables.
+
+Quedan excluidos de lo anterior:
+
+I. Los plásticos que se encuentren integrados de origen al producto para brindar higiene en el consumo del mismo;
+
+II. Aquellos que, por motivos de inocuidad, salud, salubridad, sanidad, uso médico y seguridad de otros productos, hasta en tanto no exista una alternativa compostable; y
+
+III. Aquellos que sean reutilizables, con contenido de material reciclado post- consumo y que sean reciclables.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
@@ -5424,3 +5442,23 @@ P.O. 16 DE FEBRERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-562 MEDIANTE EL CUAL SE REFORMAN LOS NUMERALES 1 Y 5; Y SE ADICIONAN UN PÁRRAFO SEGUNDO AL NUMERAL 1, Y UN NUMERAL 8, AL ARTÍCULO 36, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor de esta reforma, una vez que sea publicada en el Periódico Oficial del Estado, la Secretaría de Desarrollo Urbano y Medio Ambiente tendrá 180 días para elaborar la norma ambiental para llevar a cabo las verificaciones de biodegradabilidad de los productos.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones de la presente reforma entrarán en vigencia, para los entes señalados en el segundo párrafo del numeral 1 del artículo 36, en un plazo de 180 días, contados a partir de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones de la presente reforma entrarán en vigor a partir del 1 de enero de 2024.
