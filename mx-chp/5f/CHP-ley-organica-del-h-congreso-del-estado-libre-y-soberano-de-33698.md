@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-h-congreso-del-estado-libre-y-soberano-de-3369
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-18"
-last_updated: "2022-10-19"
+last_updated: "2023-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY ORGÁNICA DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el lunes 18 de agosto de 2003.
 
@@ -717,6 +717,10 @@ XLIV. DE TRANSPARENCIA E INFORMACION PUBLICA
 
 XLV. DE SEGUIMIENTO A LAS ACCIONES DE PROCURACION DE JUSTICIA VINCULADAS A LOS FEMINICIDIOS EN CHIAPAS.
 
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2023)</small>
+
+XLVI. DE ARCHIVO Y PATRIMONIO DOCUMENTAL.
+
 ###### ARTICULO 33.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
@@ -910,6 +914,10 @@ XLIV. LA COMISION DE TRANSPARENCIA E INFORMACION PUBLICA, ESTUDIARA, DELIBERARA 
 > <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2021)</small>
 
 XLV. LA COMISION DE SEGUIMIENTO A LAS ACCIONES DE PROCURACION DE JUSTICIA VINCULADAS A LOS FEMINICIDIOS EN CHIAPAS, DEBERA CONOCER, PROPONER Y DAR SEGUIMIENTO A LAS ACCIONES DE PROCURACION DE JUSTICIA, VINCULADAS A LOS FEMINICIDIOS EN EL ESTADO DE CHIAPAS.
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2023)</small>
+
+XLVI. LA COMISION DE ARCHIVO Y PATRIMONIO DOCUMENTAL DEBERA DAR SEGUIMIENTO A LA NORMATIVIDAD EN MATERIA DE ARCHIVOS, ASI COMO AQUELLOS ASUNTOS ENFOCADOS EN REGULAR Y FOMENTAR LA CULTURA ARCHIVISTICA EN EL ESTADO.
 
 > <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
@@ -1470,3 +1478,15 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- Las Diputadas y los Diputados que integran la Comisión de Vigilancia de este Poder Legislativo, hasta antes de la entrada en vigor del Presente Decreto continuarán fungiendo con sus respectivos cargos en la Comisión de Vigilancia y Anticorrupción de esta Sexagésima Octava Legislatura.
+
+P.O. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 183 DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XLVI AL ARTÍCULO 32 Y LA FRACCIÓN XLVI AL ARTÍCULO 39, DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero. Las Diputadas y los Diputados que integran la Junta de Coordinación Política del Honorable Congreso del Estado, deberán en un término no mayor a 60 días hábiles contados a partir de la publicación del presente Decreto, proponer al Pleno de esta Legislatura a las Diputadas y Diputados que integrarán la Comisión de Archivo y Patrimonio Documental.
+
+El Ejecutivo del Estado dispondrá se publique, circule y el Honorable Congreso del Estado proveerá su debido cumplimiento al presente Decreto.
