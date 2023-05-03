@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-que-regula-el-funcionamiento-de-la-87254"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-04-17"
-last_updated: "2015-04-14"
+last_updated: "2023-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87254&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-03-28"
 ---
 # ACUERDO GENERAL QUE REGULA EL FUNCIONAMIENTO DE LA VISITADURIA JUDICIAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO GENERAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL, RENDICIÓN DE CUENTAS Y COMBATE A LA CORRUPCIÓN, PUBLICADO EN EL D.O.F. DE 3 DE MAYO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL QUE REGULA EL FUNCIONAMIENTO DE LA VISITADURÍA JUDICIAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 17 de abril de 2012.
 
@@ -744,3 +746,21 @@ DÉCIMO. Se instruye a la Secretaría de la Comisión de Administración para qu
 DÉCIMO PRIMERO. Para su mayor difusión, publíquese en el Diario Oficial de la Federación y en la página de Internet del Tribunal Electoral del Poder Judicial de la Federación. Adicionalmente hágase del conocimiento de todas las áreas y Salas Regionales del propio Tribunal, a partir de su entrada en vigor.
 
 DÉCIMO SEGUNDO. Las notificaciones previstas en este Acuerdo, podrán practicarse vía electrónica, conforme a las normas establecidas en el "ACUERDO GENERAL QUE REGULA LAS NOTIFICACIONES DE LOS PROCEDIMIENTOS DE INVESTIGACIÓN Y DE RESPONSABILIDAD ADMINISTRATIVA".
+
+D.O.F. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL, RENDICIÓN DE CUENTAS Y COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en las páginas de internet e intranet de este órgano jurisdiccional, a través del sistema de compilación y búsqueda electrónica denominado Normateca.
+
+TERCERO. Los procedimientos administrativos de investigación y substanciación iniciados antes de la vigencia del presente acuerdo deberán concluirse según las disposiciones aplicables vigentes a su inicio. Si la conducta se ejecutó antes de la vigencia del presente acuerdo pero la investigación se inició posterior a ella el procedimiento de investigación o substanciación deberá seguirse conforme a las normas del presente acuerdo.
+
+CUARTO. Se abrogan el Acuerdo General por el que se establecen las reglas de competencia de la Contraloría Interna y la Visitaduría Judicial del Tribunal Electoral del Poder Judicial de la Federación, para la atención de quejas y denuncias, substanciación de procedimientos de investigación y disciplinarios por responsabilidad administrativa, relativos al personal adscrito a las Salas Regionales del propio Tribunal, así como para la elaboración de los dictámenes y proyectos de resolución correspondientes aprobado en la quinta sesión ordinaria de la Comisión de Administración de 2013, 120/S5(14-V-2013), el Acuerdo de la Comisión de Administración mediante el cual se delega a la Contraloría Interna del Tribunal Electoral del Poder Judicial de la Federación la atribución para resolver los procedimientos de responsabilidad administrativa por faltas no graves y regula el recurso y procedimiento para su impugnación conforme a la Ley Orgánica del Poder Judicial de la Federación aprobado en la Novena sesión ordinaria de la Comisión de Administración celebrada el 7 de octubre de 2021, 16/S09(7-X-2021), el Acuerdo General que regula el funcionamiento de la Visitaduría Judicial del Tribunal Electoral del Poder Judicial de la Federación aprobado en la Tercera sesión ordinaria de la Comisión de Administración de 2015, 064/S03(17-III-2015), y el Acuerdo General que regula las notificaciones de los procedimientos de investigación y responsabilidad administrativa aprobado en la Décimo Segunda sesión ordinaria de la Comisión de Administración de 2014, 358/S12(9-XII-2014).
+
+QUINTO. Quedan sin efecto todas las disposiciones internas en materia de responsabilidades administrativas que se opongan al objeto de regulación del presente Acuerdo General.
+
+SEXTO. Los órganos auxiliares a que hace referencia este acuerdo contarán con un plazo de noventa días naturales contados a partir de la entrada en vigor del mismo, para la actualización de los manuales de procedimientos y lineamientos correspondientes.
+
+SÉPTIMO. La implementación del Procedimiento de responsabilidad en línea se llevará a cabo, conforme lo permitan las capacidades técnicas y humanas del Tribunal, por lo que el inicio de su operación quedará sujeto a una declaratoria de inicio de vigencia cuando lo autorice la Comisión de Administración, dentro de un plazo de seis meses posteriores a la publicación del presente acuerdo, para lo cual se instruye a los órganos auxiliares en conjunto con la Dirección General de Sistemas, para que realicen las gestiones necesarias para su operación.
