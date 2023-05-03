@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-autotransporte-federal-y-servicios-auxiliares-132
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-11-22"
-last_updated: "2000-11-28"
+last_updated: "2023-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1322&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-11-18"
 
 REGLAMENTO DE AUTOTRANSPORTE FEDERAL Y SERVICIOS AUXILIARES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE MAYO DE 2023.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el día martes 22 de noviembre de 1994.
 
@@ -229,31 +229,13 @@ En los casos en que se solicite el establecimiento de una terminal en poblacione
 
 ###### ARTICULO 11.
 
-Las personas interesadas en obtener permisos para prestar servicios de arrastre y arrastre y salvamento, deberán reunir los requisitos determinados en las fracciones I a VIII, X, XIV y penúltimo párrafo del artículo 7o.
-
-Adicionalmente, para el servicio de arrastre y salvamento, deberán presentar croquis de la ruta solicitada.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+(DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
 ###### ARTICULO 12.
 
-En la obtención de permisos para operar depósito de vehículos, deberá acreditarse, además de lo establecido en las fracciones I a V y, en su caso, el penúltimo párrafo del artículo 7o., lo siguiente:
+(DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-I. La propiedad o legal posesión por un término mínimo de cinco años, de un terreno con superficie mínima de 5,000 m2 el cual deberá, en su caso, cercarse y acondicionarse con instalación eléctrica, teléfono o algún otro medio de comunicación, piso compactado, extinguidores y rotulado para su identificación, y
-
-> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
-
-II. Póliza de seguro por responsabilidad civil general o fondo de garantía vigente, y
-
-> <small>(ADICIONADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
-
-III. Permiso o autorización de uso de suelo expedido por autoridad competente.
-
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 12A.- Cuando los servicios de arrastre o arrastre y salvamento se efectúen a vehículos que transporten mercancías, la descarga, recolección, transbordo, traslado y almacenamiento de las mismas, deberá realizarse preferentemente por el usuario.
-
-Cuando por la gravedad de las circunstancias del caso y la autoridad correspondiente lo disponga, la descarga, recolección y transbordo de la carga, podrá efectuarla el permisionario, conforme al costo que convenga con el usuario y a falta de ellos, se ajustarán al precio que normalmente opere en el momento de la realización de dicho servicio.
+ARTICULO 12A.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
 ###### ARTICULO 13.
 
@@ -579,173 +561,69 @@ Los permisionarios del autotransporte federal de pasajeros, previo aviso a la Se
 
 #### SECCION SEGUNDA. DEL ARRASTRE DE VEHICULOS
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
 ###### ARTICULO 44.
 
-El servicio de arrastre consiste en llevar a cabo las maniobras necesarias e indispensables para enganchar a la grúa vehículos que, estando sobre sus propias ruedas, deban ser trasladados por caminos y puentes de jurisdicción federal.
+(DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-El permiso que la Secretaría otorgue para este servicio, será válido para todos los caminos y puentes de jurisdicción federal y en ningún caso autorizará al permisionario a cubrir el servicio de salvamento.
+ARTICULO 44A.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+ARTICULO 44B.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-ARTICULO 44A.- En el servicio de arrastre en que sea indispensable utilizar caminos y puentes de cuota para la ejecución del servicio, los pagos serán a cargo del permisionario en lo que respecta a las cuotas aplicables a la grúa, y en las correspondientes al vehículo objeto del servicio, serán a cargo del propietario del mismo, previo acreditamiento con los comprobantes correspondientes.
+ARTICULO 44C.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-Cuando el servicio pueda ejecutarse utilizando caminos y puentes de jurisdicción federal exentos de cuota y el usuario exija la utilización de caminos y puentes de cuota, la totalidad de los pagos correspondientes tanto por la grúa como por el vehículo objeto del servicio serán a cargo del usuario, conforme a los comprobantes expedidos al efecto.
+ARTICULO 44D.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-En todos los casos, los vehículos objeto del servicio, deberán circular sin personas a bordo.
+ARTICULO 44E.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 44B.- Durante las maniobras de arrastre de vehículos, el permisionario deberá establecer la señalización preventiva necesaria, mediante abanderamiento, ya sea manual o con grúa, que debe instalarse para advertir a los usuarios del camino respecto de la presencia de vehículos accidentados, de otros obstáculos o de la ejecución de maniobras, ya sea sobre la carpeta asfáltica o el derecho de vía.
-
-Dichos abanderamientos deberán sujetarse a las disposiciones de la Norma correspondiente.
-
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 44C.- En caso que se requiera el servicio de atención de emergencia a vehículos que transporten materiales y residuos peligrosos, se procederá conforme al procedimiento que señala la hoja de emergencia en transportación.
-
-Asimismo, tan pronto un permisionario reciba la solicitud de atención de emergencia a algún vehículo que transporte materiales y residuos peligrosos, deberá ponerse en contacto con el Sistema Nacional de Emergencia, que prevé el Reglamento para el Transporte Terrestre de Materiales y Residuos Peligrosos, para solicitar informes sobre las precauciones que deben tomarse hasta en tanto arribe la autoridad competente.
-
-Será obligación de todos los permisionarios del servicio de arrastre, portar la "Información de Emergencia en Transportación" en los términos previstos en el referido Reglamento, para los propios vehículos que transporten este tipo de materiales y residuos.
-
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 44D.- El transvase o transbordo de materiales o residuos peligrosos en caminos y puentes de jurisdicción federal que por las maniobras de arrastre sea necesario, se realizará conforme a lo dispuesto por el Reglamento para el Transporte Terrestre de Materiales y Residuos Peligrosos.
-
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 44E.- El permisionario estará obligado a proporcionar al usuario, copia de la carta de porte y del inventario del vehículo objeto del servicio.
-
-El inventario del vehículo, es el documento foliado que elabora la autoridad correspondiente, describiendo el vehículo que será objeto del servicio, así como las condiciones materiales y accesorios del mismo y, en su caso, la carga y objetos que contenga, el cual deberá ser verificado por el operador de la grúa y contener la firma de recibido del mismo, conjuntamente con la del servidor público que lo hubiere elaborado, incluyendo su nombre y cargo.
-
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 44F.- Para los efectos del presente Capítulo, la carta de porte incluirá como mínimo lo siguiente:
-
-I. Nombre, razón social o denominación del permisionario y su domicilio;
-
-II. Nombre, razón social o denominación del usuario y su domicilio;
-
-III. Tipo de servicio y fecha de prestación;
-
-IV. Lugar o número oficial del kilómetro de la carretera en que se inicie la prestación de los servicios;
-
-V. Destino de la entrega del porteador;
-
-VI. Precio del servicio;
-
-VII. Distancia recorrida;
-
-VIII. Autoridad que solicitó u ordenó el servicio, en su caso, así como el número de folio del inventario del vehículo objeto del servicio que haya elaborado;
-
-IX. Características del vehículo que recibió el servicio, tales como marca, tipo, modelo, placas de circulación, capacidad, número de serie y de motor y nombre, razón social o denominación del propietario;
-
-X. Al reverso, deberá tener impresas las cláusulas a las que se sujeta el contrato entre el usuario y el permisionario, y
-
-XI. Los demás requisitos que establece el Código de Comercio para la carta de porte.
+ARTICULO 44F.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
 > <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
 
 #### SECCION TERCERA. DEL ARRASTRE Y SALVAMENTO DE VEHICULOS
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
 ###### ARTICULO 45.
 
-El servicio de arrastre y salvamento, consiste en llevar a cabo aquellas maniobras mecánicas y/o manuales necesarias para rescatar y colocar sobre la carpeta asfáltica del camino, en condiciones de poder realizar las maniobras propias de su arrastre, a los vehículos accidentados, sus partes o su carga.
+(DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-Para la operación del servicio de arrastre y salvamento se deberá contar con el tipo de vehículo que, para cada caso, se señale en la Norma respectiva.
+ARTICULO 45A.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-Los permisionarios del servicio de arrastre y salvamento, sólo podrán efectuar el servicio en tramos de carretera federal, hasta 100 Km.
+ARTICULO 45B.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+ARTICULO 45C.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-ARTICULO 45A.- El usuario podrá elegir al permisionario de arrastre y salvamento a fin de ejecutar las maniobras correspondientes. En caso de que el usuario no esté presente o se encuentre imposibilitado para elegir a un permisionario, la Policía Federal Preventiva, deberá llamar al permisionario de arrastre y salvamento y depósito de vehículos más próximo, de conformidad con el rol registrado.
+ARTICULO 45D.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+ARTICULO 45E.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-ARTICULO 45B.- Durante la ejecución de las maniobras de salvamento, el permisionario deberá establecer los abanderamientos manual y/o con grúa, que sean necesarios para la seguridad, observando siempre los principios siguientes:
+ARTICULO 45F.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-Se colocará abanderamiento manual cuando los vehículos accidentados, sus partes o la carga, no se encuentren sobre la carpeta asfáltica, acotamientos del camino o en las zonas inmediatas a la misma, y no existan residuos de combustibles o de sustancias u objetos de cualquier naturaleza que puedan representar obstáculo o peligro para los usuarios. En caso contrario, se procederá al abanderamiento con grúa.
-
-En cualquier caso, el señalamiento deberá mantenerse hasta la conclusión de las maniobras correspondientes.
-
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 45C.- En aquellos tramos carreteros en donde estén autorizados dos o más permisionarios del servicio de arrastre y salvamento, deberán elaborar de común acuerdo, un rol de servicio que regule su operación.
-
-Los permisionarios tendrán en todo tiempo, la oportunidad de establecer o modificar de común acuerdo el rol de servicios correspondiente, garantizando en todo momento la prestación ininterrumpida, puntual y eficiente del servicio. Los acuerdos que al efecto adopten deberán constar por escrito, con la concurrencia y conformidad de todos los permisionarios o de sus legítimos representantes.
-
-Los acuerdos entre los permisionarios deberán ser registrados ante el Centro SCT que corresponda a su domicilio. Una vez registrado el rol, deberá notificarse el mismo a la Policía Federal Preventiva, para su oportuna aplicación.
-
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 45D.- Si al momento de establecerse el rol de servicios, los permisionarios no logran llegar a un acuerdo, la Secretaría fijará un plazo improrrogable de diez días hábiles para que de común acuerdo los mismos establezcan el rol y sometan a su consideración el documento que lo contenga, apercibiéndolos de que en caso de no hacerlo, será la Secretaría quien determinará el rol del servicio, y se procederá a notificar a todos los permisionarios autorizados.
-
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 45E.- Al efectuar el arrastre y salvamento, el permisionario estará obligado a elaborar una memoria descriptiva del servicio, la cual deberá ser firmada por el usuario o, en su defecto, por el personal de la Policía Federal Preventiva que haya intervenido, y que contendrá como mínimo lo siguiente:
-
-I. Horario de inicio, suspensiones y terminación de maniobras. En caso de suspensión de maniobras señalar los motivos, y
-
-II. Descripción de las maniobras efectuadas por el permisionario.
-
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 45F.- El permisionario estará obligado a proporcionar al usuario copias de la memoria descriptiva así como del inventario del vehículo.
-
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 45G.- La carta de porte, además de lo señalado en el artículo 44F, deberá señalar la duración de las maniobras de salvamento.
+ARTICULO 45G.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
 > <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
 
 #### SECCION CUARTA. DEL DEPOSITO DE VEHICULOS
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
 ###### ARTICULO 46.
 
-El servicio de depósito de vehículos consiste en la guarda y custodia en locales permisionados por la Secretaría, de vehículos infraccionados, abandonados, retenidos, accidentados o descompuestos en caminos y puentes de jurisdicción federal y/o en su caso, remitidos por la autoridad competente.
+(DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+ARTICULO 46A.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-ARTICULO 46A.- Bajo ninguna circunstancia se permitirá el depósito de vehículos que transporten materiales, residuos, remanentes y desechos peligrosos. Quedan exceptuados de esta disposición los vehículos que los transporten en envases y embalajes, así como en tanques portátiles que puedan ser transvasados y/o transbordados a otros vehículos.
+ARTICULO 46B.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+ARTICULO 46C.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-ARTICULO 46B.- Los permisionarios deberán recibir el vehículo objeto del servicio, conforme al inventario formulado por la autoridad correspondiente.
+ARTICULO 46D.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-Asimismo, deberá contar con un registro de control (manual o electrónico) que contenga los datos de los vehículos que ingresan al depósito, incluyendo el lugar de su detención, causa o motivo, la fecha y hora de entrada y salida de los mismos, así como la autoridad que los liberó.
-
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 46C.- Si al momento de la entrega del vehículo el usuario detecta faltantes o averías que no consten en el inventario del vehículo objeto del servicio, deberá hacerlo constar en el apartado de observaciones del mismo, debiendo presentar su queja ante el Centro SCT o el Departamento de Autotransporte Federal de la jurisdicción que corresponda, dentro de los quince días siguientes, quien citará a las partes en un término no mayor de 5 días hábiles para procurar una conciliación; en caso de no llegar a ésta, deberá emitir la resolución que corresponda en un término máximo de 15 días hábiles, contados a partir de esa fecha.
-
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 46D.- El permisionario será responsable de cualquier parte o accesorio faltante, cuya preexistencia conste en el inventario respectivo, así como de los daños causados a los vehículos durante el tiempo que permanezcan bajo su custodia y, en cualquier caso, deberá restituirlos o repararlos a satisfacción del usuario del servicio.
-
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 46E.- Para hacer entrega del vehículo objeto del servicio, el usuario deberá recabar el oficio de liberación o entrega que para tal efecto expida la autoridad competente de la jurisdicción que corresponda, para lo cual deberá acompañar a su solicitud la factura o carta factura del vehículo; oficio de liberación de la autoridad judicial y comprobante de pago de daños, en su caso, y previo pago que el usuario haga al permisionario por los servicios proporcionados a dicho vehículo.
-
-En todo caso, el permisionario deberá hacer la entrega del vehículo que tenga bajo su guardia y custodia, en las condiciones que consten en el inventario del mismo.
-
-En los casos en que los vehículos detenidos deban ser puestos a disposición de autoridades ajenas a la Secretaría, se entenderá que ésta los mantiene a su disposición, por lo que para proceder a la devolución y entrega material de los mismos, dichas autoridades deberán comunicar su resolución en tal sentido a la Secretaría, para que ésta emita la orden de liberación definitiva, una vez que sean satisfechos por el usuario, los requisitos correspondientes.
-
-(REUBICADO, D.O.F. 28 DE NOVIEMBRE DE 2000)
+ARTICULO 46E.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
 ###### ARTICULO 47.
 
-El servicio de salvamento de vehículos estará sujeto al rol que de común acuerdo formulen los permisionarios autorizados en un mismo tramo, el cual deberá aprobarse por la Secretaría.
-
-(REUBICADO, D.O.F. 28 DE NOVIEMBRE DE 2000)
+(DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
 ###### ARTICULO 48.
 
-El permisionario estará obligado al concluir el servicio de salvamento, a elaborar una memoria descriptiva del mismo, que se anexará a la carta de porte respectiva.
+(DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
 ### CAPITULO SEXTO. ARRENDAMIENTO
 
@@ -863,33 +741,23 @@ En la prestación de servicios de autotransporte federal de carga, las tarifas s
 
 ###### ARTICULO 66.
 
-En la operación de los servicios de arrastre, arrastre y salvamento y depósito de vehículos, los permisionarios se sujetarán a las tarifas, reglas de aplicación y sus modificaciones, que apruebe la Secretaría. Las tarifas autorizadas estarán a la vista del público y serán las máximas. A partir de ellas, los permisionarios podrán convenir cobros menores con el usuario, en función del tipo de servicio y vehículo accidentado.
+(DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+ARTICULO 66A.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-ARTICULO 66A.- El cobro de los servicios de arrastre o arrastre y salvamento, se hará aplicando la tarifa que corresponda, de acuerdo a la clasificación y características del vehículo arrastrado o rescatado, de conformidad con lo que establece este Reglamento y la Norma respectiva, independientemente de que en la práctica, la operación se haya realizado con una grúa de mayor capacidad a la necesaria.
+ARTICULO 66B.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+ARTICULO 66C.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-ARTICULO 66B.- Las tarifas para las maniobras de arrastre y salvamento fuera de la carpeta asfáltica y las especiales, serán convenidas entre el usuario y el prestador del servicio, con la opción para el usuario de seleccionar al prestador del servicio autorizado que mejor convenga a sus intereses.
-
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 66C.- Cuando exista inconformidad por el monto de los servicios, el usuario la presentará por escrito, dentro de un plazo máximo de quince días hábiles, ante el Centro SCT de la jurisdicción que corresponda o la Dirección General de Tarifas, Transporte Ferroviario y Multimodal, quien requerirá al permisionario para que presente la documentación que justifique el monto. La Secretaría, considerando la documentación aportada por las partes o con los elementos de juicio de que disponga, emitirá la resolución correspondiente en un plazo máximo de 55 días hábiles.
-
-Cuando la resolución sea favorable al usuario y éste ya disponga del vehículo objeto de los servicios, el permisionario deberá restituir el excedente cobrado por los mismos y los intereses legales aplicables. En caso de que el vehículo se encuentre en el depósito, el usuario sólo deberá cubrir el monto determinado por la Secretaría por los servicios prestados al mismo, sin incluir el lapso comprendido entre la fecha de presentación de la inconformidad y la de notificación de la resolución.
-
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
-
-ARTICULO 66D.- Los permisionarios deberán tener en sus oficinas y vehículos destinados al servicio, ejemplares impresos de las tarifas y de las reglas de aplicación, que estarán a la vista y a disposición del público usuario.
+ARTICULO 66D.- (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
 ###### ARTICULO 67.
 
-Cuando el servicio de arrastre o salvamento se efectúe a vehículos que transporten mercancías, la descarga de las mismas deberá realizarse por el usuario. En su caso, podrán ser efectuadas por el permisionario del servicio, previo acuerdo entre ambos sobre el precio de dichas maniobras.
+(DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
 ###### ARTICULO 68.
 
-En los casos que se utilicen caminos y puentes de cuota, los pagos correspondientes serán a cargo del permisionario del servicio en lo que respecta a la grúa y en lo que se refiere al vehículo remolcado, serán a cargo de su propietario.
+(DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
 ###### ARTICULO 69.
 
@@ -973,19 +841,7 @@ En el transporte internacional de mercancías con punto de origen o destino en e
 
 ###### ARTICULO 80.
 
-La carta de porte para los servicios de arrastre, arrastre y salvamento y depósito de vehículos, incluirá como mínimo lo siguiente:
-
-I. Denominación social de la empresa o nombre del permisionario y del usuario y su domicilio;
-
-II. Tipo de servicio y fecha de su prestación;
-
-III. Precio del servicio;
-
-IV. Duración de las maniobras de salvamento, distancia recorrida y días en depósito, según corresponda en cada caso;
-
-V. Número oficial del kilómetro de la carretera en que se inició el arrastre, y
-
-VI. Características del vehículo que recibió el servicio, tales como tipo, marca, modelo, placas, capacidad, número de motor y nombre del propietario.
+(DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
 ### CAPITULO NOVENO. RESPONSABILIDAD
 
@@ -1021,9 +877,7 @@ Si entre la mercancía dañada se hallaren algunas piezas en buen estado el dest
 
 ###### ARTICULO 87.
 
-El propietario de un vehículo que se encuentre bajo custodia en un depósito, recibirá el vehículo en las mismas condiciones en que fue depositado.
-
-Si al recibir el vehículo, el propietario encontrara faltantes o daños en el mismo, deberá hacer constar tal circunstancia en el comprobante de pago respectivo y presentará su reclamación por escrito ante la Secretaría, dentro de los tres días hábiles siguientes.
+(DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
 ### CAPITULO DECIMO. LICENCIA FEDERAL DE CONDUCTOR
 
@@ -1240,3 +1094,23 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas aquellas disposiciones administrativas y técnicas que se opongan al presente Decreto.
 
 TERCERO.- Los permisionarios de los servicios de arrastre, arrastre y salvamento y depósito de vehículos, tendrán un plazo improrrogable de dos años a partir de la entrada en vigor del presente ordenamiento, para ajustar sus vehículos, equipos y sus adaptaciones e instalaciones, a lo dispuesto en el mismo.
+
+D.O.F. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LOS SERVICIOS AUXILIARES AL AUTOTRANSPORTE FEDERAL DE ARRASTRE, DE ARRASTRE Y SALVAMENTO Y DE DEPÓSITO DE VEHÍCULOS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan los artículos 11, 12, 12-A, 44, 44-A, 44-B, 44-C, 44-D, 44-E, 44-F, 45, 45-A, 45-B, 45-C, 45-D, 45-E, 45-F, 45-G, 46, 46-A, 46-B, 46-C, 46-D, 46-E, 47, 48, 66, 66-A, 66-B, 66-C, 66-D, 67, 68, 80 y 87 del Reglamento de Autotransporte Federal y Servicios Auxiliares así como las demás disposiciones que se opongan al presente ordenamiento.
+
+TERCERO. Los servicios de arrastre, de arrastre y salvamento y depósito iniciados antes de la entrada en vigor del presente decreto, se cobrarán conforme a las tarifas vigentes en ese momento.
+
+Igualmente, las infracciones y quejas que se encuentren substanciando al momento de la entrada en vigor del presente decreto, se continuarán desahogando y se sancionarán de conformidad con las disposiciones vigentes al momento en que se cometieron.
+
+CUARTO. Las personas permisionarias que cuenten con un permiso vigente para operar los servicios de arrastre, de arrastre y salvamento y de depósito de vehículos, dispondrán de un plazo de ciento ochenta días naturales contados a partir del día siguiente de la publicación del presente decreto en el Diario Oficial de la Federación, para dar cumplimiento a las disposiciones administrativas y requisitos para la expedición de los permisos contenidos en el presente Reglamento.
+
+QUINTO. La Secretaría cuenta con un plazo de noventa días a partir de la entrada en vigor del presente decreto para que el Sistema Informático de Registro de Servicios se encuentre operando para ingresar la información de las personas obligadas conforme al presente Reglamento.
+
+En tanto el Sistema previsto en el párrafo anterior se encuentre operando, se recibirá la información en los formatos que al efecto disponga la Secretaría.
+
+SEXTO. Se abroga la Base Tarifaria de los Servicios de Arrastre, de Arrastre y Salvamento y Depósito de Vehículos en el Autotransporte Federal, publicada en el Diario Oficial de la Federación el 28 de febrero de 2017.
