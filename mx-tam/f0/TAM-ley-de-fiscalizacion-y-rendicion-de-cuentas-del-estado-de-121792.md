@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12179
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-02"
-last_updated: "2022-04-13"
+last_updated: "2023-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2023.
 
 Ley publicada en el Anexo al Extraordinario del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -92,6 +92,10 @@ IV. Auditorías sobre el desempeño: la verificación del cumplimiento de los ob
 V. Autonomía de gestión: la facultad de la Auditoría para decidir sobre su organización interna, estructura y funcionamiento, así como la administración de sus recursos humanos, materiales y financieros que utilice para la ejecución de sus atribuciones, en los términos contenidos en la Constitución y esta Ley;
 
 VI. Autonomía técnica: la facultad de la Auditoría para decidir sobre la planeación, programación, ejecución, informe y seguimiento en el proceso de la fiscalización;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2023)</small>
+
+VI Bis. Buena administración pública: Derecho que se garantiza a través de un gobierno abierto, integral, honesto, transparente, profesional, eficaz, eficiente, austero incluyente y resiliente que procure el interés público, combata la corrupción, y contribuya a la generación de valor público y bienestar en beneficio de los habitantes de Tamaulipas;
 
 VII. Comisión: la Comisión de Vigilancia de la Auditoría Superior del Estado del Congreso del Estado Libre y Soberano de Tamaulipas;
 
@@ -977,7 +981,9 @@ IV. Analizar y aprobar el Programa Anual de Auditoría dentro de los quince día
 
 Con respeto a los procedimientos, alcances, métodos, lineamientos y resoluciones de procedimientos de fiscalización podrá formular observaciones cuando dichos programas omitan áreas relevantes de las entidades sujetas de fiscalización;
 
-V. Citar al Auditor para conocer en lo específico de los informes individuales y del Informe General;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2023)</small>
+
+V. Citar y, en su caso, requerir documentación o información específica, al Auditor Superior para conocer y profundizar en el estudio y análisis del Informe General e Informes Individuales de la fiscalización de las cuentas públicas, a fin de garantizar una evaluación basada en resultados acorde a la buena administración pública;
 
 VI. Recibir y opinar sobre el proyecto de presupuesto anual de la Auditoría y turnarlo a la Junta de Coordinación Política del Congreso para ser incluido debidamente identificado en el anteproyecto de Presupuesto de Egresos del Poder Legislativo para el siguiente ejercicio fiscal, así como analizar el informe anual de su ejercicio;
 
@@ -989,9 +995,21 @@ La evaluación del desempeño tendrá por objeto conocer si la Auditoría cumple
 
 VIII. Analizar la información, en materia de fiscalización, de contabilidad y auditoría gubernamentales y de rendición de cuentas, y podrá solicitar la comparecencia de servidores públicos vinculados con los resultados de la fiscalización;
 
-IX. Recibir de las entidades sujetas de fiscalización las quejas sobre los actos del Auditor que contravengan las disposiciones de esta ley; y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2023)</small>
 
-X. Las demás que establezcan esta ley y demás disposiciones legales aplicables.
+IX. Recibir de las entidades sujetas de fiscalización las quejas sobre los actos del Auditor que contravengan las disposiciones de esta ley;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2023)</small>
+
+X. Tener acceso a los papeles de trabajo que se generen con motivo de las auditorías practicadas a las entidades fiscalizadas por la Auditoría Superior, a fin de garantizar una evaluación basada en resultados acorde a la buena administración pública;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2023)</small>
+
+XI. Revisar la gestión financiera de la Auditoría Superior del Estado, así como el cumplimiento de los objetivos contenidos en los Programas aprobados en el Presupuesto de Egresos del ejercicio fiscal correspondiente, por tanto podrá ordenar y efectuar auditorías, inspecciones o visitas a las diversas unidades administrativas que integran la Auditoría Superior del Estado, cumpliendo con las formalidades legales por conducto del personal del Congreso que comisione o, a través de servicios de auditoría externos, con la finalidad de verificar que los recursos públicos que por cualquier concepto hubieren recaudado, manejado, administrado o ejercido, se hayan realizado conforme a los programas y montos autorizados, con estricto apego a las disposiciones jurídicas aplicables, así como para verificar el cumplimiento de los objetivos de la fiscalización a que alude la Constitución Política local.
+
+El desahogo de los procedimientos disciplinarios para la imposición de las sanciones, derivadas de las responsabilidades por faltas no graves en los términos de la legislación en materia de responsabilidades administrativas vigentes en el Estado, que en su caso se deriven de dicha fiscalización, se realizará por el órgano Interno de Control del Congreso en apoyo a la Comisión; y
+
+XII. Las demás que establezcan esta ley y demás disposiciones legales aplicables.
 
 ###### Artículo 85.
 
@@ -1246,6 +1264,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 13 DE ABRIL DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-124 MEDIANTE EL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 86 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-570 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 84, FRACCIONES V Y IX; Y SE ADICIONAN UNA FRACCIÓN VI BIS AL ARTÍCULO 4; Y LAS FRACCIONES X Y XI, RECORRIÉNDOSE LA ACTUAL FRACCIÓN X PARA SER XII DEL ARTÍCULO 84 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
