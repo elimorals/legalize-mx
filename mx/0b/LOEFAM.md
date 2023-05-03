@@ -4,7 +4,7 @@ identifier: "LOEFAM"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "2022-09-09"
+last_updated: "2023-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=417&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOEFAM"
 
 LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -196,9 +196,17 @@ I. Estado Mayor Conjunto de la Defensa Nacional;
 
 II. Inspección y Contraloría General del Ejército y Fuerza Aérea;
 
-III. Organos del Fuero de Guerra; y
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-IV. Direcciones Generales de la Secretaría de la Defensa Nacional.
+III. Órganos del Fuero de Guerra;
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+IV. Direcciones Generales de la Secretaría de la Defensa Nacional, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+V. Centro Nacional de Vigilancia y Protección del Espacio Aéreo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE FEBRERO DE 2022)</small>
 
@@ -210,11 +218,11 @@ ESTADO MAYOR CONJUNTO DE LA DEFENSA NACIONAL
 
 El Estado Mayor Conjunto de la Defensa Nacional es el órgano técnico operativo, colaborador inmediato del Alto Mando, a quien auxilia en la Planeación y coordinación de los asuntos relacionados con la Defensa Nacional y con la organización, adiestramiento, operación y desarrollo de las Fuerzas Armadas de tierra y aire y transforma las decisiones en directivas, instrucciones y órdenes, verificando su cumplimiento.
 
-> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 23.
 
-El Estado Mayor Conjunto de la Defensa Nacional estará formado por personal Diplomado de Estado Mayor perteneciente al Ejército y Fuerza Aérea y por aquel otro que sea necesario.
+El Estado Mayor Conjunto de la Defensa Nacional estará formado por personal de Estado Mayor perteneciente al Ejército y Fuerza Aérea y por aquel otro que sea necesario.
 
 INSPECCION Y CONTRALORIA GENERAL DEL EJERCITO Y FUERZA AEREA
 
@@ -274,6 +282,18 @@ DIRECCIONES GENERALES DE LA SECRETARIA DE LA DEFENSA NACIONAL
 
 Las Direcciones Generales de las Armas, de los servicios y de otras funciones administrativas de la Secretaría de la Defensa Nacional, tendrán a su cargo las actividades relacionadas con el asesoramiento al Alto Mando y a los Comandantes del Ejército y de la Fuerza Aérea, así como la dirección, manejo y verificación de todos los asuntos militares no incluidos en los de carácter táctico o estratégico, que tiendan a la satisfacción de la moral militar y de las necesidades sociales y materiales del Ejército y Fuerza Aérea; de acuerdo con el Reglamento Interior de la Secretaría de la Defensa Nacional u ordenamiento que haga sus veces.
 
+> <small>(ADICIONADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2023)</small>
+
+EL CENTRO NACIONAL DE VIGILANCIA Y PROTECCIÓN DEL ESPACIO AÉREO
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 32 BIS. El Centro Nacional de Vigilancia y Protección del Espacio Aéreo es un órgano dependiente de la Secretaría de la Defensa Nacional, responsable de la vigilancia y protección del espacio aéreo mexicano.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 32 TER. Para desarrollar sus funciones, el Centro Nacional de Vigilancia y Protección del Espacio Aéreo empleará los medios para la detección, identificación, interceptación y salvamento puestos a su disposición.
+
 ### CAPITULO IV. MANDOS SUPERIORES
 
 ###### ARTICULO 33.
@@ -288,39 +308,71 @@ Los Mandos Superiores, según su función, se dividen en Operativos y de Servici
 
 Los Mandos Superiores Operativos recaerán en:
 
-I. El Comandante del Ejército;
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-II. El Comandante de la Fuerza Aérea;
+I. La persona Comandante del Ejército;
 
-III. Los Comandantes de Regiones Militares o Aéreas;
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-IV. Los Comandantes de Zonas Militares;
+II. La persona Comandante de la Fuerza Aérea;
 
-V. Los Comandantes de las Grandes Unidades Terrestres o Aéreas;
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-VI. Los Comandantes de las Unidades conjuntas o combinadas, y
+III. Las personas Comandantes de Regiones Militares o Aéreas;
 
-VII. Los Comandantes de las Unidades Circunstanciales que el Alto Mando determine implementar.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
+IV. Las personas Comandantes de Zonas Militares;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+IV BIS. Las personas Comandantes de Bases Aéreas Militares;
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+V. Las personas Comandantes de las Grandes Unidades Terrestres o Aéreas;
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+VI. Las personas Comandantes de las Unidades conjuntas o combinadas, y
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+VII. Las personas Comandantes de las Unidades Circunstanciales que el Alto Mando determine implementar.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 35.
 
-El Secretario de la Defensa Nacional ejercerá el Mando de las Fuerzas a través del Comandante del Ejército, del Comandante de la Fuerza Aérea, de los Comandantes de las Regiones Militares y Aéreas, de las Zonas Militares y de los Comandantes de Unidades, sin perjuicio de ejercerlo directamente, cuando así sea requerido por motivos del Servicio.
+La persona titular de la Secretaría de la Defensa Nacional ejercerá el Mando de las Fuerzas a través de la persona Comandante del Ejército o de la Fuerza Aérea, y de las personas Comandantes de las Regiones Militares y Aéreas, de las Zonas Militares, de las Bases Aéreas Militares y de las personas Comandantes de Unidades del Ejército o de la Fuerza Aérea, sin perjuicio de ejercerlo directamente cuando así se requiera por motivos del Servicio.
 
 ###### ARTICULO 36.
 
 Las Regiones Militares se integran con una o más Zonas Militares, atendiendo a necesidades estratégicas, y estarán al Mando de un Comandante, con el grado de General de División o de Brigada, procedente de Arma.
 
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 36 BIS. Las Regiones Aéreas Militares se integran con las Bases Aéreas, Estaciones Aéreas y otros organismos de la Fuerza Aérea que se encuentren dentro de su jurisdicción, atendiendo a necesidades estratégicas, y estarán al mando de una persona Comandante con el grado de General de División Piloto Aviador.
+
 ###### ARTICULO 37.
 
 Las Zonas Militares se establecen, atendiendo en principio a la División Política del País y hasta donde es posible en áreas geográficas definidas que faciliten la conducción de operaciones militares, la delimitación de responsabilidades y a la vez una eficaz administración.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 38.
 
-Las Zonas Militares se integran con organismos del Ejército y Fuerza Aérea que se encuentran dentro de su jurisdicción. Se dividen en Sectores y Subsectores Militares en los que radican Unidades del Ejército, pudiendo encontrarse Comandancias de Guarnición y Bases Aéreas, que en todo caso estarán subordinadas al Comandante de la Zona Militar correspondiente.
+Las Zonas Militares se integran con organismos del Ejército que se encuentran dentro de su jurisdicción. Se dividen en Sectores y Subsectores Militares en los que radican Unidades del Ejército, pudiendo encontrarse Comandancias de Guarnición, que en todo caso estarán subordinadas a la persona Comandante de la Zona Militar correspondiente.
 
 Es facultad de los Comandantes de las Zonas asignar el mando de los Sectores y Subsectores Militares entre los Comandantes de Unidades del Ejército de su jurisdicción, que estimen pertinentes.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 38 BIS. Las Bases Aéreas Militares se integran con organismos de la Fuerza Aérea que se encuentren dentro de su adscripción, pudiendo incluir unidades de vuelo, de los Servicios y organismos aéreos.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 38 TER. La Secretaría de la Defensa Nacional por conducto de las personas Comandantes de la Fuerza Aérea, Región Aérea, Base Aérea Militar o Estación Aérea Militar ejercerá sus funciones en materia de defensa aérea.
 
 ###### ARTICULO 39.
 
@@ -338,11 +390,11 @@ En caso de que dos o más Unidades Administrativas tipo Batallón o Superior, de
 
 Cuando se requiera reunir Unidades de Armas y Servicios, con la finalidad de auxiliar a la Población Civil, realizar actividades cívicas y obras sociales o en casos de emergencias y desastres, las tropas asignadas a cada misión, estarán al mando de un militar de la clase de Arma.
 
-> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 43.
 
-El Comandante del Ejército, el de la Fuerza Aérea y los Comandantes de Regiones Militares y Aéreas; Zonas Militares y Grandes Unidades, dispondrán de un Cuartel General, según sus planillas, conforme a su nivel jerárquico; los Estados Mayores que formen parte de estos Cuarteles Generales estarán subordinados técnicamente a los Estados Mayores de la Defensa Nacional, del Ejército y Aéreo, según corresponda.
+Las personas Comandantes del Ejército, de la Fuerza Aérea, de las Regiones Militares y Aéreas, y las Zonas Militares, Bases Aéreas Militares y Grandes Unidades dispondrán de un Cuartel General, según sus planillas, conforme a su nivel jerárquico. Los Estados Mayores que formen parte de estos Cuarteles Generales estarán subordinados técnicamente a los Estados Mayores de la Defensa Nacional, del Ejército y de la Fuerza Aérea, según corresponda.
 
 #### SECCION SEGUNDA
 
@@ -430,9 +482,9 @@ ARTICULO 54 BIS. El mando del Ejército recae en un General de División del Ej�
 
 ARTICULO 54 TER. El Estado Mayor del Ejército es el órgano técnico operativo, colaborador inmediato del Comandante del Ejército, a quien auxilia en la planeación y coordinación de los asuntos de su competencia y de las misiones que le sean conferidas y transforma las decisiones en órdenes, directivas e instrucciones, verificando su cumplimiento.
 
-> <small>(ADICIONADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
-ARTICULO 54 QUATER. El Estado Mayor del Ejército, estará formado por personal Diplomado de Estado Mayor perteneciente al Ejército, así como de aquel otro personal que le sea necesario.
+ARTICULO 54 QUÁTER. El Estado Mayor del Ejército, estará formado por personal de Estado Mayor perteneciente al Ejército, así como de aquel otro personal que le sea necesario.
 
 ###### ARTICULO 55.
 
@@ -478,31 +530,61 @@ La Fuerza Aérea Mexicana se compone de Unidades organizadas, equipadas y adiest
 
 I. Comandancia de la Fuerza Aérea;
 
-II. Estado Mayor Aéreo;
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+II. Estado Mayor de la Fuerza Aérea;
 
 III. Unidades de Vuelo;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+III BIS. Pilotos Aviadores;
 
 IV. Tropas Terrestres de la Fuerza Aérea; y
 
 V. Servicios.
 
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 59 BIS. La Fuerza Aérea tiene a su cargo las siguientes acciones:
+
+I. La defensa del espacio aéreo nacional;
+
+II. Conducir operaciones de inteligencia aérea;
+
+III. Establecer las zonas de vigilancia y protección del espacio aéreo nacional controlando las operaciones aéreas en dicha zona, así como las zonas de identificación de defensa aérea;
+
+IV. Realizar operaciones de búsqueda y salvamento aéreo para salvaguardar la vida de las personas en el territorio nacional, sin perjuicio de las atribuciones que correspondan a otras dependencias, y
+
+V. Ejercer sus atribuciones en materia de seguridad en el espacio aéreo, en coordinación con las autoridades que correspondan.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 60.
 
-El mando de la Fuerza Aérea recae en un General Piloto Aviador, al que se denominará Comandante de la Fuerza Aérea, quien será responsable de la operación y administración de la misma, así como del empleo de sus Unidades, de conformidad con las Directivas, Instrucciones, Ordenes y demás disposiciones del Secretario de la Defensa Nacional.
+El mando de la Fuerza Aérea recae en una persona con el grado de General de División Piloto Aviador, que se denominará Comandante de la Fuerza Aérea, quien será responsable de su operación y administración, así como del empleo de sus Unidades, de conformidad con las Directivas, Instrucciones, Órdenes y demás disposiciones de la persona titular de la Secretaría de la Defensa Nacional.
 
-> <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 61.
 
-El Estado Mayor Aéreo es el órgano técnico colaborador inmediato del Comandante de la Fuerza Aérea, a quien auxilia en la planeación y coordinación de las Misiones que le sean conferidas y transforma las decisiones en órdenes, directivas e instrucciones verificando su cumplimiento.
+El Estado Mayor de la Fuerza Aérea es el órgano técnico colaborador inmediato de la persona Comandante de la Fuerza Aérea, a quien auxilia en la planeación y coordinación de las Misiones que tiene a su cargo y transforma las decisiones en órdenes, directivas e instrucciones verificando su cumplimiento.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 62.
 
-El Estado Mayor Aéreo, estará formado por Pilotos Aviadores Diplomados de Estado Mayor Aéreo, así como de aquel otro personal que le sea necesario.
+El Estado Mayor de la Fuerza Aérea estará formado por personal de Estado Mayor, así como de aquél que le sea necesario.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 63.
 
-Las Unidades de Vuelo son los componentes de la Fuerza Aérea, cuya misión principal es el combate Aéreo y las operaciones conexas, y que actúan en la forma peculiar que les impone la misión y el material de vuelo de que están dotadas.
+Las Unidades de Vuelo son los componentes de la Fuerza Aérea cuya misión principal es el combate Aéreo, así como la ejecución de operaciones aéreas militares en tiempo de paz y de guerra, que actúan en la forma peculiar que les impone la misión y el material de vuelo de que están dotadas.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 63 BIS. Las personas Pilotos Aviadores son el componente humano de la Fuerza Aérea formado, capacitado y entrenado para la conducción de los organismos aéreos y de las aeronaves con que se encuentren dotados.
 
 ###### ARTICULO 64.
 
@@ -562,15 +644,31 @@ X. Veterinaria y Remonta;
 
 XI. Informática;
 
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+XI BIS. Archivo;
+
 XII. Meteorológico;
 
-> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-XIII. Control de vuelo; y
+XIII. Defensa aérea;
 
-> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-XIV. Material aéreo.
+XIV. Mantenimiento de material aéreo;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+XV. Logística aérea;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+XVI. Material aéreo electrónico, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+XVII. Material bélico de Fuerza Aérea.
 
 ###### ARTICULO 69.
 
@@ -592,15 +690,21 @@ Los Comandantes de las unidades y formaciones de los servicios, encuadrados en u
 
 Los órganos de ejecución de los servicios, tienen por misión llevar a cabo las actividades propias de cada uno de ellos, y a tal fin, constituirán, según el caso, unidades que puedan integrar dependencias, formaciones móviles, semimóviles, fijas e instalaciones diversas que incluyan parques, talleres de mantenimiento, almacenes, depósitos, laboratorios y las demás necesarias para su funcionamiento.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 74.
 
-Los servicios podrán organizarse en equipos, escuadras, pelotones, secciones, compañías y batallones, exceptuando al de justicia que adoptará su organización de acuerdo con sus necesidades.
+Los servicios del Ejército podrán organizarse en equipos, escuadras, pelotones, secciones, compañías y batallones, exceptuando al de justicia que adoptará su organización de acuerdo con sus necesidades.
 
-> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Los servicios de la Fuerza Aérea podrán organizarse en equipos, escuadrillas, escuadrones y grupos, con una denominación igual a las Unidades de Vuelo, pero que no serán equiparables en nivel orgánico debido a la cantidad de los elementos que las constituyen y la función que desempeñan.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 75.
 
-Las direcciones generales, direcciones y jefaturas, previa autorización del Secretario de la Defensa Nacional y del Comandante del Ejército o de la Fuerza Aérea, según corresponda, mantendrán estrecha colaboración con órganos afines, oficiales y particulares, a efecto de obtener los datos necesarios que sirvan de fundamento a sus informes y opiniones de carácter técnico, para controlar las obras, instalaciones y organizaciones de la misma naturaleza, cuya importancia lo amerite desde el punto de vista militar y para llevar a cabo investigaciones en los campos científico y tecnológico, relativas a sus respectivos servicios.
+Las direcciones generales, direcciones, jefaturas y el Centro Nacional de Vigilancia y Protección del Espacio Aéreo, previa autorización de la persona titular de la Secretaría de la Defensa Nacional y de la persona Comandante del Ejército o de la Fuerza Aérea, según corresponda, mantendrán estrecha colaboración con órganos afines, oficiales y particulares, a efecto de obtener los datos necesarios que sirvan de fundamento a sus informes y opiniones de carácter técnico, para controlar las obras, instalaciones y organizaciones de la misma naturaleza, cuya importancia lo amerite desde el punto de vista militar y para llevar a cabo investigaciones en los campos científico y tecnológico, relativas a sus respectivos servicios.
 
 Servicio de Ingenieros
 
@@ -844,39 +948,199 @@ VI. Las demás que le confieran esta Ley y cualquier disposición aplicable.
 
 ARTICULO 95 TER. El Director del Servicio de informática será un General Ingeniero en Computación e Informática.
 
+> <small>(ADICIONADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Servicio de Archivo
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 95 QUATER.- El servicio de archivo tendrá a su cargo la organización, administración y conservación de los archivos, museos y bibliotecas de la Secretaría; además realizará las actividades siguientes:
+
+I. Llevar a cabo la administración del personal del Servicio;
+
+II. Promover la aplicación de nuevas tecnologías de la información y comunicaciones, que tiendan a la innovación de la organización, administración y conservación de los archivos, museos y bibliotecas, en coordinación con otras áreas de la Secretaría y de la Administración Pública Federal, así como de la iniciativa privada, tanto nacional como internacional;
+
+III. Elaborar, proponer y aplicar las normas, criterios y lineamientos archivísticos basados en la normatividad aplicable;
+
+IV. Promover la creación, organización, establecimiento y sostenimiento de bibliotecas y museos, impulsando el equipamiento, mantenimiento y actualización permanente de los servicios culturales que a través de ellos se otorguen, y
+
+V. Las demás que le confieran esta Ley y la normatividad aplicable.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 95 QUINQUIES. La persona titular de la Dirección del servicio de archivo deberá contar con el grado de General procedente de Arma.
+
 Servicio Meteorológico
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 96.
 
-El Servicio Meteorológico tendrá a su cargo proporcionar al Ejército y Fuerza Aérea, la información Meteorológica, así como el resultado de los estudios sobre la materia que requieran. Estas actividades podrán coordinarse con las de otros organismos oficiales semejantes, además realizará la recepción, abastecimiento, instalación, operación y mantenimiento del material del Servicio.
+El Servicio Meteorológico tendrá a su cargo:
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+I. Proporcionar información meteorológica a los organismos del Ejército y Fuerza Aérea Mexicanos;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+II. Elaborar los estudios sobre la materia que se requieran;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+III. Establecer coordinación en asuntos de su especialidad con organismos gubernamentales y afines, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+IV. Recibir, abastecer, instalar, operar y mantener en condiciones operativas el material del Servicio.
 
 ###### ARTICULO 97.
 
 El Servicio Meteorológico, operará bajo la supervisión de la Comandancia de la Fuerza Aérea y su Director será un General perteneciente a dicho servicio.
 
-Servicio de Control de Vuelo
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Servicio de Defensa Aérea
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 98.
 
-El Servicio de Control de Vuelo, tendrá a su cargo, despachar y coordinar los vuelos de las aeronaves del Ejército y Fuerza Aérea, así como establecer las medidas técnicas que garanticen la seguridad del vuelo. Estas actividades podrán coordinarse con las de otros órganos oficiales semejantes. Cuando así se requiera, constituirá parte de la infraestructura del sistema de control de operaciones de defensa aérea y de apoyo Aéreo-Táctico.
+El Servicio de Defensa Aérea se constituye como parte de la infraestructura del sistema de Vigilancia y Protección del Espacio Aéreo Mexicano. Tendrá a su cargo:
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+I. Proporcionar control de tránsito aéreo, despacho y coordinación de aeronaves militares y civiles que operen dentro de una base aérea militar, en términos de la normatividad aplicable;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+II. Elaborar estudios en materia de defensa aérea que se requieran;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+III. Establecer coordinación en asuntos de su especialidad con organismos gubernamentales y afines, en términos de las disposiciones normativas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+IV. Recibir, operar y mantener en condiciones operativas el material del Servicio, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+V. Formar parte de las tripulaciones de vuelo de la Fuerza Aérea en tareas propias de su especialidad, cuando la misión lo requiera.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 99.
 
-El Servicio de Control de Vuelo, operará bajo la supervisión de la Comandancia de la Fuerza Aérea y su Director será un General Piloto Aviador.
+La persona titular de la Dirección del Servicio de Defensa Aérea deberá contar con el grado de General perteneciente a dicho Servicio.
 
-Servicio del Material Aéreo
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Servicio de Mantenimiento de Material Aéreo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 100.
 
-El Servicio del Material Aéreo tendrá a su cargo, el abastecimiento y mantenimiento del material de vuelo y de aquel otro que le es característico, y además realizará las actividades siguientes:
+El Servicio de Mantenimiento de Material Aéreo tendrá a su cargo:
 
-I. Diseñar, fabricar, recibir, almacenar, mantener, evacuar y recuperar el material de vuelo, así como aquel otro característico de la Fuerza Aérea y el del propio Servicio; y
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-II. Recibir, manejar, almacenar y distribuir los combustibles y lubricantes de la Fuerza Aérea.
+I. Proporcionar el mantenimiento preventivo y correctivo de los diversos sistemas instalados en las aeronaves militares, así como el equipo de apoyo en tierra característico de la Fuerza Aérea;
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+II. Elaborar los estudios de carácter técnico para la adquisición y reparación de componentes de las aeronaves de la Fuerza Aérea;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+III. Diseñar, fabricar, reconstruir y recuperar el material de vuelo, así como aquel otro característico de la Fuerza Aérea y el del propio Servicio;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+IV. Llevar a cabo la investigación científica y tecnológica en aspectos del Servicio, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+V. Formar parte de las tripulaciones de vuelo de la Fuerza Aérea en tareas propias de su especialidad, cuando la misión lo requiera.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 101.
 
-El Servicio del Material Aéreo, dependerá de la Fuerza Aérea y su Director será un General Piloto Aviador.
+La persona titular de la Dirección del Servicio de Mantenimiento de Material Aéreo deberá contar con el grado de General perteneciente a dicho Servicio.
+
+> <small>(ADICIONADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Servicio de Logística Aérea
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 101 BIS. El Servicio de Logística Aérea tendrá a su cargo:
+
+I. Proporcionar el apoyo logístico a los organismos aéreos en aspectos relacionados con el Servicio;
+
+II. Elaborar los estudios en materia de logística aérea que se requieran;
+
+III. Adquirir, recibir, clasificar, almacenar, mantener, conservar, controlar, distribuir y evacuar toda clase de abastecimientos característicos de la Fuerza Aérea y equipo afín, así como los combustibles y lubricantes de aviación y otros necesarios para su funcionamiento;
+
+IV. Llevar a cabo la investigación científica y tecnológica en aspectos del Servicio, y
+
+V. Llevar el registro estadístico de las refacciones y partes de aviación de la Fuerza Aérea, con el objeto de elaborar los programas presupuestarios y logísticos correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 101 TER. La persona titular de la Dirección del Servicio de Logística Aérea deberá contar con el grado de General perteneciente a dicho Servicio.
+
+> <small>(ADICIONADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Servicio de Material Aéreo Electrónico
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 101 QUÁTER. El Servicio de Material Aéreo Electrónico tiene a su cargo:
+
+I. Proporcionar el mantenimiento electrónico preventivo y correctivo de los diversos sistemas instalados en las aeronaves militares, así como el equipo de apoyo en tierra característico de la Fuerza Aérea;
+
+II. Elaborar los estudios de carácter técnico para la reparación y, en su caso, adquisición de componentes electrónicos de las aeronaves de la Fuerza Aérea;
+
+III. Diseñar, fabricar y recuperar el material de vuelo electrónico, así como aquel otro característico de la Fuerza Aérea y el del propio Servicio;
+
+IV. Llevar a cabo la investigación científica y tecnológica en aspectos del Servicio, y
+
+V. Formar parte de las tripulaciones de vuelo de la Fuerza Aérea en tareas propias de su especialidad, cuando la misión lo requiera.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 101 QUINQUIES. La persona titular de la Dirección del Servicio de Material Aéreo Electrónico deberá contar con el grado de General perteneciente a dicho Servicio.
+
+> <small>(ADICIONADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Servicio de Material Bélico de Fuerza Aérea
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 101 SEXIES. El Servicio de Material Bélico de Fuerza Aérea tendrá a su cargo:
+
+I. Otorgar apoyo logístico a los organismos aéreos en aspectos relacionados con el servicio y proponer la adquisición de material bélico;
+
+II. Elaborar los estudios de carácter técnico para la reparación y, en su caso, adquisición de componentes del sistema de armas de las aeronaves;
+
+III. Adquirir, recibir, clasificar, almacenar, mantener, conservar, controlar, distribuir y evacuar el material bélico de la Fuerza Aérea, equipos afines y otros necesarios para su funcionamiento;
+
+IV. Diseñar, fabricar, reconstruir, recuperar y modificar el material bélico de la Fuerza Aérea y equipos complementarios de carga explosiva;
+
+V. Llevar a cabo la investigación científica y tecnológica en aspectos del Servicio;
+
+VI. Dictaminar y materializar los métodos y procedimientos para la desactivación y destrucción de material bélico de la Fuerza Aérea;
+
+VII. Controlar y operar los sistemas de armas antiaéreas, en coordinación con el Servicio de Defensa Aérea, y
+
+VIII. Formar parte de las tripulaciones de vuelo de la Fuerza Aérea en tareas propias de su especialidad cuando la misión lo requiera.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 101 SEPTIES. La persona titular de la Dirección del Servicio de Material Bélico de Fuerza Aérea deberá contar con el grado de General perteneciente a dicho Servicio.
 
 > <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
 
@@ -1392,9 +1656,11 @@ Los Cursos de Capacitación para los militares Auxiliares, se les impartirán a 
 
 De conformidad con las posibilidades de la Secretaría de la Defensa Nacional, la enseñanza secundaria será impartida a Cabos y Soldados del Ejército y Fuerza Aérea, sin perjuicio de su adiestramiento militar.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 160.
 
-El personal del Ejército y Fuerza Aérea que apruebe el curso de Mando y Estado Mayor en la Escuela Superior de Guerra, recibirá la denominación de Diplomado de Estado Mayor o Diplomado de Estado Mayor Aéreo, según sean los estudios efectuados, precedida de la correspondiente a la de su Arma, Servicio o Especialidad.
+El personal del Ejército y Fuerza Aérea que apruebe los estudios de Estado Mayor en la Escuela Superior de Guerra recibirá la denominación "De Estado Mayor", precedida de la correspondiente a la de su Arma, Servicio o Especialidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 1998)</small>
 
@@ -1752,15 +2018,25 @@ De Soldado a General de División.
 
 VII. Del Cuerpo Especial de Policía Militar.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
-De Soldado a General de Brigada; y
+De Soldado a General de Brigada;
 
 > <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
 
 VIII. Del Cuerpo Especial de Música Militar.
 
-De Soldado a Teniente Coronel.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+De Soldado a Teniente Coronel, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+IX. Del Cuerpo Especial de Aerotropas.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IX]</small>
+
+De Soldado a Sargento Primero.
 
 ###### ARTICULO 192.
 
@@ -1774,15 +2050,17 @@ B. Generales de División, de Brigada y Brigadieres de Tropas Terrestres.
 
 II. De Pilotos Aviadores.
 
-De Subteniente a General de División;
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+De Subteniente a General de División, y
 
 III. De Fusileros de Fuerza Aérea.
 
-De Soldado a General de División; y
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
-IV. Del Cuerpo Especial de Aerotropas.
+De Soldado a General de División.
 
-De Soldado a Sargento Primero.
+IV. (DEROGADA, D.O.F. 3 DE MAYO DE 2023)
 
 ###### ARTICULO 193.
 
@@ -1811,6 +2089,10 @@ A. Ingenieros del Servicio Cartográfico.
 De Subteniente a General de Brigada, y
 
 B. Fotogrametristas. De Soldado a Mayor.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE MAYO DE 2023)</small>
+
+De Soldado a Teniente Coronel.
 
 IV. De Transmisiones, que se divide en cuatro grupos:
 
@@ -1866,7 +2148,9 @@ D. Especialistas del Servicio de Transportes.
 
 De Soldado a Capitán Primero.
 
-VII. De Administración, que se divide en cuatro grupos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE MAYO DE 2023)</small>
+
+VII. De Administración, que se divide en cinco grupos:
 
 A. Personal de Administración.
 
@@ -1880,11 +2164,23 @@ De Subteniente a General Brigadier;
 
 C. Oficinistas.
 
-De Cabo a Teniente Coronel; y
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+De Cabo a Teniente Coronel;
 
 D. Especialistas del Servicio de Administración.
 
-De Soldado a Teniente Coronel.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+De Soldado a Teniente Coronel, y
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+E. Pagadores.
+
+> <small>[N. DE E. PERTENECE AL APARTADO E]</small>
+
+De Capitán Segundo a Coronel.
 
 VIII. De Intendencia.
 
@@ -1954,7 +2250,33 @@ B. Especialistas del Servicio de Informática.
 
 De Soldado a Teniente Coronel.
 
-XIII. Del Servicio Meteorológico Militar, que se divide en tres grupos:
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+XII BIS. Del Servicio de Archivo, que se divide en cinco grupos:
+
+A. Licenciados en Archivonomía.
+
+De Subteniente a Teniente Coronel.
+
+B. Licenciados en Historia.
+
+De Subteniente a Teniente Coronel.
+
+C. Licenciados en Biblioteconomía.
+
+De Subteniente a Teniente Coronel.
+
+D. Archivistas.
+
+De Soldado a Teniente Coronel.
+
+E. Especialistas del Servicio de Archivo.
+
+De Soldado a Teniente Coronel.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE MAYO DE 2023)</small>
+
+XIII. Del Servicio Meteorológico, que se divide en tres grupos:
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
@@ -1970,61 +2292,91 @@ C. Especialistas del Servicio Meteorológico.
 
 De Soldado a Teniente Coronel.
 
-> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE MAYO DE 2023)</small>
 
-XIV. Del Servicio de Control de Vuelo.
+XIV. Del Servicio de Defensa Aérea.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Controladores de vuelo.
 
 De Subteniente a General Brigadier.
 
-> <small>(REFORMADA, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE MAYO DE 2023)</small>
 
-XV. Del Servicio de Material Aéreo, que se divide en seis grupos;
+XV. Del Servicio de Mantenimiento de Material Aéreo, que se divide en cuatro grupos:
 
-A. Mantenimiento de Material Aéreo, que se subdivide en:
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
-a. Ingenieros en Aeronáutica.
+A. Ingenieros en Aeronáutica.
 
-De Subteniente a General de Brigada, y
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+De Subteniente a General de Brigada;
 
-b. Especialistas en Mantenimiento de Aviación.
+a. (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-De Soldado a General Brigadier;
+b. (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
 
-> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
-B. Abastecimiento de Material Aéreo.
+B. Especialistas en Mantenimiento de Aviación.
 
-De Sargento Segundo a General Brigadier;
-
-C. Material Aéreo Electrónico, que se subdivide en:
-
-a. Ingenieros en Electrónica de Aviación.
-
-De Subteniente a General de Brigada, y
-
-> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
-
-b. Especialistas en Electrónica de Aviación.
-
-De Sargento Segundo a General Brigadier;
-
-> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
-
-D. De Armamento Aéreo.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 De Soldado a General Brigadier;
 
-> <small>(REFORMADO, D.O.F. 22 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
-E. Mantenimiento de Paracaídas.
+C. Mantenimiento de Paracaídas.
 
-De Cabo a Mayor; y
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
-F. Especialistas del Servicio de Material Aéreo.
+De Cabo a Mayor, y
+
+a. (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
+
+b. (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+D. Especialistas del Servicio de Mantenimiento Material Aéreo.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 De Soldado a Teniente Coronel.
+
+E. (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
+
+F. (DEROGADO, D.O.F. 3 DE MAYO DE 2023)
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+XVI. Del Servicio de Logística Aérea.
+
+Abastecimiento de Material Aéreo.
+
+De Sargento Segundo a General Brigadier;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+XVII. Del Servicio de Material Aéreo Electrónico, que se divide en dos grupos:
+
+A. Ingenieros en Electrónica de Aviación.
+
+De Subteniente a General de Brigada, y
+
+B. Especialistas en Electrónica de Aviación.
+
+De Sargento Segundo a General Brigadier, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+XVIII. Del Servicio de Material Bélico de Fuerza Aérea.
+
+Armamento Aéreo.
+
+De Soldado a General Brigadier.
 
 De Soldado a Teniente Coronel.
 
@@ -2291,3 +2643,21 @@ CONFORME EL PERSONAL NAVAL SEA REASIGNADO A LA SECRETARÍA DE MARINA EN TÉRMINO
 Octavo.- Las Secretarías de Seguridad y Protección Ciudadana, de la Defensa Nacional y de Marina son responsables de la instrumentación del presente Decreto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados de la Secretaría de la Defensa Nacional, de la Secretaría de Marina y de la Secretaría de Seguridad y Protección Ciudadana para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos, lo anterior, con independencia de lo señalado en los transitorios quinto y sexto, fracción II, del presente Decreto.
 
 Noveno.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a su contenido, comprendidas en leyes secundarias, reglamentos, acuerdos y cualquier otra de carácter administrativo.
+
+D.O.F. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, DE LA LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS, DE LA LEY DE AEROPUERTOS Y DE LA LEY DE AVIACIÓN CIVIL, EN MATERIA DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+Tercero. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+Cuarto. A partir de la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, que se realice al personal "Diplomado de Estado Mayor" y "Diplomado de Estado Mayor Aéreo", se entenderán hechas al personal "De Estado Mayor".
+
+Quinto. A la entrada en vigor del presente Decreto, la designación del personal "Diplomado de Estado Mayor" y "Diplomado de Estado Mayor Aéreo", será reconocida plenamente en igualdad de circunstancias que el "De Estado Mayor".
+
+Sexto. Los documentos expedidos al personal "Diplomado de Estado Mayor" y "Diplomado de Estado Mayor Aéreo", mantendrán su validez y vigencia, por lo que no será necesaria su reexpedición como "De Estado Mayor".
+
+Séptimo. A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto del Cuartel General Superior del Ejército y Fuerza Aérea, del Estado Mayor Aéreo, del Servicio de Control de Vuelo y del Servicio de Material Aéreo, se entenderán referidas al Cuartel General Superior Conjunto del Ejército y Fuerza Aérea, al Estado Mayor de la Fuerza Aérea, al Servicio de Defensa Aérea y al Servicio de Mantenimiento de Material Aéreo, respectivamente.
