@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-matricula-consular-44711"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-12"
-last_updated: "2005-05-12"
+last_updated: "2023-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44711&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2005-04-27"
 ---
 # REGLAMENTO DE MATRICULA CONSULAR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL REGISTRO CONSULAR Y EXPEDICIÓN DEL CERTIFICADO DE MATRÍCULA CONSULAR, PUBLICADO EN EL D.O.F. DE 3 DE MAYO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE MATRICULA CONSULAR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 12 de mayo de 2005.
 
@@ -226,3 +228,19 @@ Por ningún motivo se podrá utilizar la información contenida en el Registro C
 Los interesados podrán solicitar el canje o reposición de los Certificados de Matrícula Consular a que se refiere el párrafo anterior, siempre que cumplan los requisitos previstos en el artículo 9 de este Reglamento.
 
 Dado en la Residencia del Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de abril de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Relaciones Exteriores, Luis Ernesto Derbez Bautista.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DEL REGISTRO CONSULAR Y EXPEDICIÓN DEL CERTIFICADO DE MATRÍCULA CONSULAR”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de Matrícula Consular publicado en el Diario Oficial de la Federación el doce de mayo del año dos mil cinco.
+
+TERCERO. Los Certificados de Matrícula Consular expedidos con anterioridad a la entrada en vigor del presente decreto tendrán la vigencia que en ellos se indique.
+
+CUARTO. La Secretaría determinará el Sistema Electrónico Autorizado vigente para la realización del alta en el Registro Consular.
+
+QUINTO. La Secretaría emitirá los Lineamientos a los que se refiere el artículo 2, fracción VI, del presente reglamento en un plazo de seis meses, contados a partir del día de su entrada en vigor. Entretanto, resultarán aplicables las disposiciones vigentes que no se opongan al contenido del presente decreto.
