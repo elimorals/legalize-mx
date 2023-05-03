@@ -4,7 +4,7 @@ identifier: "LGT"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-06-17"
-last_updated: "2022-12-07"
+last_updated: "2023-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68848&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGT"
 
 LEY GENERAL DE TURISMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 17 de junio de 2009.
 
@@ -670,13 +670,11 @@ I. Las aportaciones que efectúen el Gobierno Federal, los gobiernos locales, lo
 
 II. Los créditos que obtenga de fuentes nacionales e internacionales;
 
-III. Los productos de sus operaciones y de las inversiones de fondos;
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+III. Los productos de sus operaciones y de las inversiones de fondos, y
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2011)</small>
-
-IV. Los ingresos fiscales que se obtengan de manera proporcional por la recaudación del Derecho por la autorización de la condición de estancia a los extranjeros, en los términos establecidos por la Ley Federal de Derechos, y
+IV. (DEROGADA, D.O.F. 3 DE MAYO DE 2023)
 
 V. Los demás recursos que obtenga por cualquier otro concepto.
 
@@ -1141,3 +1139,17 @@ D.O.F. 7 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 11, 12 Y 13 DE LA LEY GENERAL DE TURISMO".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DERECHOS Y DE LA LEY GENERAL DE TURISMO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo establecido en el transitorio tercero del presente Decreto.
+
+Segundo.- El fideicomiso público federal a que se refiere el segundo párrafo del artículo 18-A de la Ley Federal de Derechos deberá constituirse dentro de los 120 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Tercero.- La derogación de la fracción IV del artículo 43 de la Ley General de Turismo surtirá efectos a partir del 1 de enero de 2024.
+
+Cuarto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables de su aplicación, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos para el presente ejercicio fiscal ni en subsecuentes.
+
+Quinto.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a su contenido, comprendidas en leyes secundarias, reglamentos, acuerdos y cualquier otra de carácter administrativo.
