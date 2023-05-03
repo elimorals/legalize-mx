@@ -4,7 +4,7 @@ identifier: "LRSF"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-12"
-last_updated: "2020-11-06"
+last_updated: "2023-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRSF"
 
 LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
 
@@ -259,6 +259,10 @@ VII. No se otorgará la concesión cuando las proposiciones presentadas no asegu
 ###### Artículo 10.
 
 La Secretaría podrá otorgar asignaciones a los estados, municipios y entidades paraestatales de la Administración Pública Federal, sin sujetarse al procedimiento de licitación a que se refiere esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+El título de asignación a favor de entidades paraestatales tendrá una vigencia indefinida. Una vez otorgada dicha asignación no podrá cederse o transferirse bajo ningún título; solo podrá concluir cuando se acredite fehacientemente que no existe utilidad o interés públicos (sic), interés general, interés social o razones de seguridad nacional que lo justifiquen.
 
 ###### Artículo 11.
 
@@ -989,3 +993,11 @@ A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales n
 Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
 
 Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los actos jurídicos que se requieran, en coordinación con las Entidades Federativas en las que se localizan las citadas cajas de ahorro, para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización que hayan sido reportados por la SHCP.
+
+D.O.F. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 3o. DE LA LEY DE VÍAS GENERALES DE COMUNICACIÓN, Y SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 10 DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO Y UN ARTÍCULO 59 BIS A LA LEY FEDERAL DE LAS ENTIDADES PARAESTATALES”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se adecuarán y armonizarán las normas que se opongan a la presente reforma y se da un plazo de ciento ochenta días hábiles a partir de su publicación para la adecuación de la normatividad aplicable.
