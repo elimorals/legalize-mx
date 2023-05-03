@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2020-11-04"
+last_updated: "2023-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2023.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -2037,9 +2037,13 @@ A los médicos cirujanos, comadronas o parteras, enfermeras y demás personas qu
 
 A los médicos cirujanos, comadronas o parteras, enfermeras y demás personas que intervengan en la práctica del aborto, sin consentimiento de la pasivo o esta fuese menor de edad sin consentimiento de los padres o tutores, la sanción será de 3 a 6 años y si mediare violencia física o moral, de 6 a 8 años de prisión, con suspensión de la profesión, cargo u oficio, por el termino de la duración de la pena.
 
+(NOTA: EL 7 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 125/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE MAYO DE 2023, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 184, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2023)</small>
+
 ###### Artículo 181.
 
-No es punible el aborto cuando el embarazo sea consecuencia de violación, si éste se verifica dentro de los noventa días a partir de la concepción o cuando la madre embarazada corra peligro de muerte, o pueda determinarse que el producto sufre alteraciones genéticas o congénitas que den por necesario el nacimiento de éste con trastornos físicos o mentales graves, previo dictamen del médico que la asista, oyendo el dictamen de otros médicos especialistas, cuando fuere posible y no sea peligrosa la demora.
+No es punible el aborto cuando el embarazo sea consecuencia de violación, o cuando la madre embarazada corra peligro de muerte, o pueda determinarse que el producto sufre alteraciones genéticas o congénitas que den por necesario el nacimiento de éste con trastornos físicos o mentales graves, previo dictamen del médico que la asista, oyendo el dictamen de otros médicos especialistas, cuando fuere posible y no sea peligrosa la demora.
 
 ###### Artículo 182.
 
@@ -6180,3 +6184,15 @@ P.O. 4 DE NOVIEMBRE DE 2020.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 184 DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 181 DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
