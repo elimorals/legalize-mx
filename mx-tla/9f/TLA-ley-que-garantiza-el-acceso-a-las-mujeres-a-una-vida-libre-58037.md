@@ -4,7 +4,7 @@ identifier: "TLA-ley-que-garantiza-el-acceso-a-las-mujeres-a-una-vida-libre-5803
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-13"
-last_updated: "2023-04-26"
+last_updated: "2023-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el jueves 13 de diciembre de 2007.
 
@@ -167,13 +167,17 @@ VII. Violencia contra los Derechos Reproductivos: Toda acción u omisión que li
 
 VIII. Violencia cibernética: Toda acción que lesiona, denigra o ponga en riesgo la dignidad, seguridad, libertad e integridad de las mujeres y niñas, mediante el uso de tecnologías de la información y comunicación, redes sociales, páginas web, correos electrónicos, blogs, mensajes de texto, videos, o cualquier otro espacio digital o medio similar;
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2023)</small>
 
-IX. La Violencia Digital Sexual: Toda acción dolosa de connotación sexual que atenta contra la intimidad sexual de las mujeres y niñas, mediante el uso de espacios digitales, plataformas de internet, redes sociales, correo electrónico, o cualquier otro espacio digitalizado, que implique acoso, hostigamiento, amenazas, insultos, extorsión, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos lujuriosos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas, que atenten contra la integridad, la dignidad, la intimidad, la libertad, la vida privada o vulnere algún derecho humano de las mujeres, causando daño psicológico, físico, económico o sexual, tanto en el ámbito privado como en el público, y
+IX. La Violencia Digital Sexual. Toda acción dolosa de connotación sexual que atenta contra la intimidad sexual de las mujeres y niñas, mediante el uso de espacios digitales, plataformas de internet, redes sociales, correo electrónico, o cualquier otro espacio digitalizado, que implique acoso, hostigamiento, amenazas, insultos, extorsión, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos lujuriosos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas, que atenten contra la integridad, la dignidad, la intimidad, la libertad, la vida privada o vulnere algún derecho humano de las mujeres, causando daño psicológico, físico, económico o sexual, tanto en el ámbito privado como en el público;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2023)</small>
+
+X. Violencia Vicaria. Es el acto u omisión que genera afectación o daño físico, psicológico, emocional o patrimonial a un descendiente, ascendiente, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, dependiente económico, animal de compañía o bienes de la víctima, cometido por parte de quien mantenga o mantuvo una relación de matrimonio, concubinato o alguna relación sentimental con la misma, actuando por sí o por interpósita persona, cuyo objeto sea causar un daño emocional, psicológico o patrimonial a la mujer, y
 
 > <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
 
-X. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+XI. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 7.
 
@@ -385,7 +389,13 @@ En lo relativo a la violencia familiar se aplicarán las disposiciones, siempre 
 
 Constituye violencia laboral, toda acción u omisión, efectuada por quien ejerce jerarquía, encaminada a limitar, desacreditar, descalificar o nulificar el trabajo realizado por las mujeres, con independencia de la discriminación de género, las amenazas, la intimidación y la explotación laboral, que afecte la permanencia, reconocimiento, salario y prestaciones de las mujeres en los espacios productivos públicos o privados.
 
-También incluye el acoso o el hostigamiento sexual, en los términos definidos en el Código Penal para el Estado Libre y Soberano de Tlaxcala.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 3 DE MAYO DE 2023)</small>
+
+También incluye el hostigamiento sexual y el acoso sexual, en los términos siguientes:
+
+I. El hostigamiento sexual es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral o escolar. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
+
+II. El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
 ###### Artículo 18.
 
@@ -458,6 +468,10 @@ VI. Brindar servicios reeducativos integrales, especializados y gratuitos al agr
 ###### Artículo 25.
 
 Se considera violencia feminicida, la forma extrema de violencia contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad y culminar en homicidio provocado en ocasiones de manera violenta.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2023)</small>
+
+En los casos de feminicidio se aplicarán las sanciones previstas en el artículo 229, 229 Bis y 229 Ter del Código Penal para el Estado Libre y Soberano de Tlaxcala.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE MARZO DE 2016)</small>
 
@@ -779,17 +793,29 @@ III. La armonización normativa y judicial en su completitud y la interpretació
 
 #### SECCIÓN PRIMERA. ALERTA DE GÉNERO Y AGRAVIO COMPARADO
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2023)</small>
+
 ###### Artículo 44.
 
-Por alerta de género se entiende la declaratoria que emite la autoridad federal competente, en un Municipio o zona determinada, en donde las condiciones de violencia contra las mujeres, pongan en riesgo a las mujeres del lugar.
+La Alerta de Violencia de Género contra las mujeres consiste en el conjunto de acciones gubernamentales coordinadas, integrales, de emergencia y temporales realizadas entre las autoridades de los tres órdenes y niveles de gobierno, para enfrentar y erradicar la violencia feminicida en un territorio determinado; así como para eliminar el agravio comparado, resultado de las desigualdades producidas por ordenamientos jurídicos o políticas públicas que impiden el reconocimiento o ejercicio de los derechos humanos de las mujeres, las adolescentes y las niñas, a fin de garantizar su pleno acceso al derecho a una vida libre de violencias.
 
-Con motivo de la emisión de la alerta de género, en las condiciones y con los procedimientos que la ley general señala, sobre una zona o municipio que se determine, el Sistema Estatal al ser notificado de la declaratoria de alerta de género, tomará las medidas siguientes.
+La Alerta de Violencia de Género contra las mujeres tendrá como objetivo garantizarles la vida, la integridad, la libertad y la seguridad, así como el acceso a la justicia; generar condiciones para el cese de todo tipo de violencia en su contra; y eliminar la desigualdad y discriminación producidas por la legislación o por las políticas públicas que agravian derechos humanos de las mujeres, adolescentes y niñas.
 
-I. Constituir un grupo de trabajo estratégico, en el que participen los tres niveles de gobierno, para analizar y determinar las acciones procedentes, eliminar la alerta de género, previa valoración de su procedencia, y
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2023)</small>
 
-II. Determinará la instancia de la Administración Pública Estatal que será responsable del seguimiento de las acciones correctivas vinculadas a la alerta de género.
+###### Artículo 44 Bis.
 
-En tales casos, el Estado, en coordinación con la Federación y sus municipios, trabajará en forma solidaria y equitativa sobre aportaciones en cuanto a medidas preventivas y acciones correctivas y regulatorias sobre la declaratoria de alerta de género.
+Una vez emitida la Alerta de Violencia Género, el sistema estatal deberá ser notificado y tomará las medidas siguientes:
+
+I. Establecer un grupo interinstitucional y multidisciplinario con perspectiva de género que dé el seguimiento respectivo;
+
+II. Implementar las acciones preventivas, de seguridad y de procuración y administración de justicia, para enfrentar y abatir la violencia feminicida;
+
+III. Elaborar reportes especiales sobre la zona y el comportamiento de los indicadores de la violencia contra las mujeres;
+
+IV. Asignar los recursos presupuestales necesarios para hacer frente a la contingencia de Alerta de Violencia de Género contra las mujeres, y
+
+V. Hacer del conocimiento público el motivo de la Alerta de Violencia de Género contra las mujeres, y la zona territorial que abarcan las medidas a implementar.
 
 ###### Artículo 45.
 
@@ -809,45 +835,67 @@ El agravio comparado, implica un trato desigual a las mujeres dentro del marco j
 
 Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima, estas se constituyen fundamentalmente en precautorias y cautelares, podrán otorgarse de oficio o a petición de parte, por el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tenga conocimiento del hecho de violencia presuntamente constitutivo de un delito o de violencia en contra de la mujer en cualquiera de sus modalidades, tienen por objeto evitar en todo momento que la persona agresora, por sí o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima y/o víctimas indirectas.
 
-Las órdenes de protección tendrán una duración máxima de sesenta días naturales, prorrogables hasta por treinta días, para garantizar la vida, integridad y seguridad de las víctimas y, en su caso, de las víctimas indirectas; mismas que se deberán dictar e implementar con base en los siguientes principios:
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2023)</small>
 
-I. Principio de protección: considera primordial la vida, la integridad física, la libertad y la seguridad de las personas;
+Las órdenes de protección tendrán una duración máxima de sesenta días naturales, prorrogables hasta por treinta días, para garantizar la vida, integridad y seguridad de las víctimas y, en su caso, de las víctimas indirectas; mismas que se deberán dictar e implementar con base en los principios de protección, necesidad y proporcionalidad, confidencialidad, oportunidad y eficacia, accesibilidad, integridad, pro persona, y atendiendo a la discriminación y vulnerabilidad que viven las mujeres y las niñas por razón de identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión, o cualquiera otra, que las coloque en una situación de mayor riesgo.
 
-II. Principio de necesidad y proporcionalidad: las órdenes de protección deben responder a la situación de violencia en que se encuentre la persona destinataria, y deben garantizar su seguridad o reducir los riesgos existentes;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MAYO DE 2023)</small>
 
-III. Principio de confidencialidad: toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de la investigación o del proceso respectivo;
+Cuando una mujer o una niña víctima de violencia soliciten una orden de protección a la autoridad, se le deberá brindar toda la información disponible sobre el procedimiento relacionado con la propia orden, debiendo informar con un lenguaje claro, sencillo y empático evitando cualquier información tendiente a inhibir o desincentivar la solicitud. Las autoridades competentes que reciban denuncias anónimas de mujeres y niñas víctimas de violencia, decretarán las órdenes de protección correspondientes, privilegiando la integridad y seguridad de las víctimas.
 
-IV. Principio de oportunidad y eficacia: Las órdenes deben ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima, y deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garanticen su objetivo;
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2023)</small>
 
-V. Principio de accesibilidad: se deberá articular un procedimiento sencillo para que facilite a las víctimas obtener la protección inmediata que requiere su situación;
+La autoridad competente determinará en cada caso, las órdenes de protección que deban otorgarse a las mujeres agredidas que hayan actuado en legítima defensa, como causa de exclusión del delito, para salvaguardar su integridad y seguridad.
 
-VI. Principio de integralidad: El otorgamiento de la medida a favor de la víctima deberá generarse en un sólo acto y de forma automática, y
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2023)</small>
 
-VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudiera impactar en los derechos de las hijas o hijos menores de dieciocho años de edad.
+En materia de violencia política, el Tribunal Electoral de Tlaxcala y el Instituto Tlaxcalteca de Elecciones, podrán solicitar, de oficio o a petición de parte, a las autoridades competentes el otorgamiento de las medidas a que se refiere esta sección.
 
-VIII. La discriminación y vulnerabilidad que viven las mujeres y las niñas por razón de: identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión, o cualquiera otra, que las coloque en una situación de mayor riesgo.
-
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
-
-La autoridad competente determinará, en cada caso, las órdenes de protección que deban otorgarse a las mujeres agredidas que hayan actuado en legítima defensa, como causa de exclusión del delito, para salvaguardar su integridad y seguridad.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2020)</small>
-
-En materia de violencia política, el Tribunal Electoral de Tlaxcala y el Instituto Tlaxcalteca de Elecciones, podrán solicitar, de oficio o a petición de parte, a las autoridades competentes el otorgamiento de las medidas a que se refiere la presente sección.
-
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2023)</small>
 
 ###### Artículo 47 Bis.
 
-El Ministerio Público o el órgano jurisdiccional competente, deberá ordenar la protección necesaria, considerando:
+Las autoridades competentes, para la emisión de las órdenes de protección, tomarán en consideración lo siguiente:
 
-I. Los principios establecidos en el artículo 47 de esta Ley;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2023)</small>
+
+I. Los principios y especificaciones establecidos en el artículo 47 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
 
 II. Que sea adecuada y proporcional;
 
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
 III. Que los usos y costumbres no violen los derechos humanos de las mujeres reconocidos en la Constitución, así como en los tratados internacionales ratificados por el Estado Mexicano, y
 
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+
 IV. La discriminación y vulnerabilidad que viven las mujeres y las niñas por razón de: identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión, o cualquiera otra, que las coloque en una situación de mayor riesgo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MAYO DE 2023)</small>
+
+Aunado a lo anterior, se observará lo dispuesto en los artículos 32 y 33 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MAYO DE 2023)</small>
+
+A ninguna mujer, ni a sus hijas e hijos, o niña, que se encuentren en situación de violencia, y soliciten orden de protección, se les podrá requerir que acrediten su situación migratoria, ni cualquier otro elemento que impida su derecho al acceso a la justicia y la protección.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MAYO DE 2023)</small>
+
+La Procuraduría para la Protección de los Derechos de Niñas, Niños y Adolescentes, deberán solicitar las órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MAYO DE 2023)</small>
+
+Las órdenes de protección emitidas, en observancia a la Ley General de la materia, deberán ser comunicadas a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, para su registro en el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2023)</small>
+
+###### Artículo 47 Ter.
+
+La autoridad competente que emita las órdenes de protección realizará las gestiones necesarias para garantizar su cumplimiento y monitoreo; para ello, podrá solicitar la colaboración de autoridades con atribuciones en la materia.
+
+El incumplimiento de esta disposición no podrá justificarse alegando falta de recursos humanos o materiales.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
@@ -909,11 +957,27 @@ VI. Obligación alimentaria provisional e inmediata, y
 
 VII. Las demás que se requieran para brindar protección a la víctima.
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2023)</small>
 
 ###### Artículo 48 Ter.
 
-Previo a la suspensión de las órdenes de protección decretadas por el Ministerio Público, los jueces municipales o la autoridad judicial, deberán asegurarse bajo su más estricta responsabilidad que la situación de riesgo o peligro de la víctima ha cesado.
+Las órdenes de protección deberán ser evaluadas para modificarse o adecuarse, en caso de que se detecten irregularidades en su efectividad o incumplimiento, tales circunstancias se comunicarán a los órganos internos de control de las entidades públicas involucradas.
+
+Previamente a la suspensión de las órdenes de protección decretadas, las autoridades facultadas deberán asegurarse, bajo su más estricta responsabilidad, que la situación de riesgo o peligro de la víctima ha cesado, realizando una nueva evaluación de riesgo, y analizando los informes de implementación por parte de las autoridades responsables de su cumplimiento.
+
+Al dictarse sentencia, las autoridades competentes determinarán las órdenes de protección y medidas similares que deban dictarse, de manera temporal o durante el tiempo en que se ejecute la sentencia.
+
+Tratándose de niñas víctimas de un delito, la autoridad actuará conforme al principio de interés superior de la niñez, para el otorgamiento de órdenes de protección, aun cuando no se presente solicitud al respecto.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2023)</small>
+
+###### Artículo 48 Quáter.
+
+En caso de que la persona agresora incumpla la orden de protección, se dictarán medidas de apremio, conforme a lo previsto en la legislación aplicable. Asimismo, se reforzarán las acciones que se contemplaron en un primer momento, con la finalidad de salvaguardar la vida y seguridad de las mujeres y niñas.
+
+Por ninguna circunstancia las autoridades notificarán de sus actuaciones a la persona agresora a través de la víctima, la falta a esta disposición será causa de responsabilidad.
+
+Las autoridades que intervengan en el cumplimiento de una orden, también serán las responsables de informar, a la autoridad que la emitió, con relación a su implementación, en su caso, periódicamente.
 
 ### CAPÍTULO VII. SISTEMA ESTATAL
 
@@ -949,13 +1013,19 @@ b) Secretaría de Salud del Estado;
 
 c) Secretaría de Educación Pública del Estado;
 
-d) Coordinación de Desarrollo Social;
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2023)</small>
 
-e) Subsecretaria de Seguridad Pública, Prevención y Readaptación Social;
+d) Secretaría de Bienestar;
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2023)</small>
+
+e) Secretaria de Seguridad Ciudadana;
 
 f) Organismo Público Descentralizado denominado Sistema Estatal para el Desarrollo Integral de la Familia;
 
-g) Comisión Ordinaria de Equidad y Género del Congreso del Estado;
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2023)</small>
+
+g) Comisión de Igualdad de Género y Contra la Trata de Personas del Congreso del Estado;
 
 h) Comisión Estatal de Derechos Humanos;
 
@@ -1021,25 +1091,23 @@ XII. Diseñar programas en favor de las mujeres jóvenes que permitan la prevenc
 
 El Programa Estatal para prevenir, atender, sancionar y erradicar la violencia, se diseñará en base a la perspectiva de género y a los ejes de acción que se señalan en esta ley.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2023)</small>
+
 ###### Artículo 55.
 
-Dicho programa integral, señalará e incluirá:
+El Programa contendrá acciones con perspectiva de género para:
 
-I. Los objetivos generales y específicos;
+I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
 
-II. Las estrategias;
+II. Transformar los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de acciones en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
 
-III. Las líneas de acción;
+III. La coordinación con las instituciones responsables de la procuración de justicia, para que éstas brinden educación y capacitación a su personal, y demás personas servidoras públicas encargadas de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
 
-IV. Los recursos asignados;
+IV. Educar y capacitar en materia de derechos humanos de las mujeres al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permita juzgar con perspectiva de género, y
 
-V. Las metas cuantitativas y cualitativas;
+V. Prever servicios especializados y gratuitos para la atención y protección a las víctimas, por medio de las autoridades y las instituciones públicas o privadas.
 
-VI. Los responsables de ejecución;
-
-VII. Los mecanismos de evaluación, y
-
-VIII. El subprograma de capacitación.
+Dicho programa será integral, y deberá incluir: los objetivos generales y específicos, estrategias, líneas de acción, recursos asignados, metas cuantitativas y cualitativas, responsables de ejecución, mecanismos de evaluación, y el subprograma de capacitación.
 
 ###### Artículo 56.
 
@@ -1155,15 +1223,23 @@ XVII. Garantizar la evaluación anual de los servicios y servidores públicos qu
 
 XVIII. Las demás que le señale esta ley y otras disposiciones legales.
 
-#### SECCIÓN TERCERA. COORDINACIÓN DE DESARROLLO SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MAYO DE 2023)</small>
+
+#### SECCIÓN TERCERA. SECRETARÍA DE BIENESTAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2023)</small>
 
 ###### Artículo 60.
 
-Corresponde a la Coordinación de Desarrollo Social:
+Corresponde a la Secretaría de Bienestar:
 
-I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre y plena sin ningún actor de violencia en su contra;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2023)</small>
 
-II. Formular la política de desarrollo social del Estado considerando la preparación y competitividad de las mujeres, y su plena participación con equidad de género y respeto en todos los ámbitos de su vida;
+I. Fomentar el bienestar y desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre y plena, sin violencia en su contra;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2023)</small>
+
+II. Formular la política de bienestar y desarrollo social del Estado, considerando la preparación y competitividad de las mujeres, y su plena participación con equidad de género y respeto en todos los ámbitos de su vida;
 
 III. Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para eliminar cualquier tipo de desventajas de género;
 
@@ -1453,19 +1529,27 @@ Los servidores públicos del Estado y sus municipios, así como aquellos particu
 
 Se exceptúan de lo dispuesto en este capítulo, las infracciones en materia de violencia familiar, ya que las mismas se encuentran reguladas por la ley de la materia.
 
-Artículo 71 (sic). Las sanciones administrativas aplicables a las infracciones serán:
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2023)</small>
 
-I. Apercibimiento público, que consistirá en la prevención escrita que se hará al infractor en el sentido de que de incurrir en una nueva falta, se le aplicará una sanción económica, en términos de lo previsto por esta ley. Dicho apercibimiento se fijará en el lugar de trabajo o domicilio donde hubiere ocurrido la infracción, y
+###### Artículo 70.
 
-II. Multa de 30 a 120 días de salario mínimo general vigente en el Estado de Tlaxcala al momento de cometerse la infracción; (sic)
+Las sanciones administrativas aplicables a las infracciones serán las siguientes:
+
+I. Apercibimiento público, que consistirá en la prevención escrita que se hará al infractor en el sentido de que, de incurrir en una nueva falta, se le aplicará una sanción económica, en términos de lo previsto por esta ley. Dicho apercibimiento se fijará en el lugar de trabajo o domicilio donde hubiere ocurrido la infracción, y
+
+II. Multa de treinta a ciento veinte veces el valor de la unidad de medida y actualización vigente al momento de cometerse la infracción.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2023)</small>
+
+###### Artículo 71.
+
+Las sanciones administrativas consignadas en este capítulo, se impondrán sin perjuicio de las que deriven de las responsabilidades administrativa, civil o penal que pudieran fincarse por los mismos hechos.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2023)</small>
 
 ###### Artículo 72.
 
-Las sanciones administrativas consignadas en este capítulo, se impondrán sin perjuicio de la responsabilidad administrativa, civil o penal a que hubiere lugar.
-
-###### Artículo 73.
-
-El Instituto Estatal de la Mujer considerará para la individualización de la sanción:
+El Instituto Estatal de la Mujer considerará, para la individualización de la sanción, los aspectos siguientes:
 
 I. La gravedad de la conducta discriminatoria contra la mujer;
 
@@ -1473,9 +1557,15 @@ II. Las condiciones socio-económicas del infractor, y
 
 III. Si se trata de reincidencia.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2023)</small>
+
+###### Artículo 73.
+
+En contra de los actos y resoluciones administrativas, dictadas con base en esta Ley, procede el recurso de revisión, previsto en la Ley del Procedimiento Administrativo del Estado de Tlaxcala y sus Municipios.
+
 ###### Artículo 74.
 
-En contra de los actos y resoluciones administrativas dictadas con base en esta ley y de las disposiciones jurídicas que de ella emanen, procede el recurso de revisión previsto en la Ley del Procedimiento Administrativo del Estado de Tlaxcala y sus Municipios.
+(DEROGADO, P.O. 3 DE MAYO DE 2023)
 
 ## TRANSITORIOS
 
@@ -1610,6 +1700,18 @@ P.O. 26 DE ABRIL DE 2023.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+P.O. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 222.- SE REFORMAN, ADICIONAN Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
