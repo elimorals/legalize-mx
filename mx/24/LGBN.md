@@ -4,7 +4,7 @@ identifier: "LGBN"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-05-20"
-last_updated: "2021-09-14"
+last_updated: "2023-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023.
 
 Ley publicada la Primera Sección del Diario Oficial de la Federación, el jueves 20 de mayo de 2004.
 
@@ -74,9 +74,9 @@ Para los efectos de esta Ley, se entiende por:
 
 I.- Dependencias: aquéllas que la Ley Orgánica de la Administración Pública Federal determina como tales incluyendo, en su caso, a sus órganos desconcentrados;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-II.- Dependencias administradoras de inmuebles: la Secretaría y las secretarías de Gobernación; Medio Ambiente y Recursos Naturales; Comunicaciones y Transportes; Cultura, y Desarrollo Agrario, Territorial y Urbano, mismas que, en relación a los inmuebles federales de su competencia, ejercerán las facultades que esta Ley y las demás leyes les confieran. Las dependencias que tengan destinados a su servicio inmuebles federales no se considerarán como dependencias administradoras de inmuebles;
+II.- Dependencias administradoras de inmuebles: la Secretaría y las secretarías de Gobernación; Medio Ambiente y Recursos Naturales; Infraestructura, Comunicaciones y Transportes; Cultura, y Desarrollo Agrario, Territorial y Urbano, mismas que, en relación a los inmuebles federales de su competencia, ejercerán las facultades que esta Ley y las demás leyes les confieran. Las dependencias que tengan destinados a su servicio inmuebles federales no se considerarán como dependencias administradoras de inmuebles;
 
 III.- Entidades: las entidades paraestatales que con tal carácter determina la Ley Orgánica de la Administración Pública Federal;
 
@@ -92,7 +92,9 @@ VII.- Inmueble federal: el terreno con o sin construcciones de la Federación, a
 
 VIII.- Patrimonio inmobiliario federal y paraestatal: el conjunto de inmuebles federales y aquellos propiedad de las entidades, y
 
-IX.- Secretaría: a la Secretaría de la Función Pública.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+IX.- Secretaría: a la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTÍCULO 3.
 
@@ -372,9 +374,11 @@ II.- Promover la seguridad jurídica del patrimonio inmobiliario federal y parae
 
 III.- Coadyuvar a que los recursos presupuestarios destinados a la adquisición, administración, conservación y mantenimiento de los inmuebles necesarios para el funcionamiento de la Administración Pública Federal, sean aplicados con eficiencia y eficacia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 27.
 
-Para la operación del Sistema de Administración Inmobiliaria Federal y Paraestatal, se establece un Comité del Patrimonio Inmobiliario Federal y Paraestatal, que se integrará con las dependencias administradoras de inmuebles, la Secretaría de Hacienda y Crédito Público y las cinco entidades que cuenten con mayor número de inmuebles dentro de su patrimonio, cuyos titulares designarán al representante correspondiente. El Comité será presidido por la Secretaría y operará de acuerdo con las normas que para su organización y funcionamiento emita.
+Para la operación del Sistema de Administración Inmobiliaria Federal y Paraestatal, se establece un Comité del Patrimonio Inmobiliario Federal y Paraestatal, que se integrará con las dependencias administradoras de inmuebles y las cinco entidades que cuenten con mayor número de inmuebles dentro de su patrimonio, cuyos titulares designarán al representante correspondiente. El Comité será presidido por la Secretaría y operará de acuerdo con las normas que para su organización y funcionamiento emita.
 
 El Comité será un foro para el análisis, discusión y adopción de criterios comunes y de medidas eficaces y oportunas para lograr los fines del Sistema de Administración Inmobiliaria Federal y Paraestatal, que tendrá por objeto:
 
@@ -548,7 +552,9 @@ I.- El importe del uno al millar a que se refiere el artículo 53 de esta Ley, y
 
 II.- El importe de los derechos y aprovechamientos por los servicios prestados por la Secretaría en materia inmobiliaria y valuatoria.
 
-La Secretaría, en coordinación con la Secretaría de Hacienda y Crédito Público, establecerá las bases para la operación del Fondo.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+La Secretaría establecerá las bases para la operación del Fondo.
 
 #### Sección Segunda. Del Sistema de Información Inmobiliaria Federal y Paraestatal
 
@@ -760,7 +766,9 @@ I.- Localizar el inmueble más adecuado a sus necesidades, considerando las cara
 
 II.- Obtener de la autoridad competente la respectiva constancia de uso del suelo;
 
-III.- Contar con la disponibilidad presupuestaria y la autorización de inversión que, en su caso, emita la Secretaría de Hacienda y Crédito Público, previamente a la celebración del contrato correspondiente;
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+III.- Contar con la disponibilidad presupuestaria y la autorización de inversión que, en su caso, emita la Secretaría, previamente a la celebración del contrato correspondiente;
 
 IV.- Obtener el plano topográfico del inmueble o, en su defecto, efectuar el levantamiento topográfico y el correspondiente plano;
 
@@ -772,11 +780,13 @@ VI.- Obtener la documentación legal necesaria para la adquisición del inmueble
 
 Las dependencias o las unidades administrativas de la Presidencia de la República, sólo podrán arrendar bienes inmuebles para su servicio, cuando no sea posible o conveniente su adquisición. En el caso de inmuebles considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, éstos se sujetarán a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
-La Secretaría, con la participación que en el ámbito de su competencia corresponda a la Secretaría de Hacienda y Crédito Público, emitirá los lineamientos sobre el arrendamiento de inmuebles, para establecer, entre otros aspectos, el procedimiento de contratación, la justipreciación de rentas, la forma y términos en que deberá efectuarse el pago de las mismas y las obras, mejoras, adaptaciones e instalaciones de equipos especiales que podrán realizarse en los inmuebles, así como los procedimientos para desocuparlos o continuar su ocupación.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+La Secretaría emitirá los lineamientos sobre el arrendamiento de inmuebles, para establecer, entre otros aspectos, el procedimiento de contratación, la justipreciación de rentas, la forma y términos en que deberá efectuarse el pago de las mismas y las obras, mejoras, adaptaciones e instalaciones de equipos especiales que podrán realizarse en los inmuebles, así como los procedimientos para desocuparlos o continuar su ocupación.
 
-Las dependencias o las unidades administrativas de la Presidencia de la República podrán celebrar, como arrendatarias, contratos de arrendamiento financiero con opción a compra. El ejercicio de esta opción será obligatorio, salvo que a juicio de la Secretaría no sea favorable a los intereses de la Federación. Para la celebración de estos contratos, se deberán atender las disposiciones presupuestarias aplicables y obtener la autorización previa de la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Las dependencias o las unidades administrativas de la Presidencia de la República podrán celebrar, como arrendatarias, contratos de arrendamiento financiero con opción a compra. El ejercicio de esta opción será obligatorio, salvo que a juicio de la Secretaría no sea favorable a los intereses de la Federación. Para la celebración de estos contratos, se deberán atender las disposiciones presupuestarias aplicables y obtener la autorización previa de la Secretaría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
@@ -808,9 +818,11 @@ Las dependencias y entidades podrán adquirir los inmuebles, bienes y derechos n
 
 Las negociaciones podrán incluir, con estricta responsabilidad de los servidores públicos que las lleven a cabo y previo acuerdo de su superior jerárquico, a titulares de otros derechos reales, arrendatarios, derechos posesorios, derechos litigiosos o a quienes demuestren fehacientemente tener un interés económico legítimo y directo.
 
-> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
 
-ARTÍCULO 54 BIS.- Para efecto de determinar el valor de los inmuebles respecto de los cuales las dependencias y entidades pretendan adquirir la propiedad por cualquier medio, dichas dependencias y entidades podrán solicitar los avalúos correspondientes a la Secretaría de la Función Pública, a las instituciones de crédito o a corredores públicos.
+ARTÍCULO 54 BIS.- Para efecto de determinar el valor de los inmuebles respecto de los cuales las dependencias y entidades pretendan adquirir la propiedad por cualquier medio, dichas dependencias y entidades podrán solicitar los avalúos correspondientes a la Secretaría, a las instituciones de crédito o a corredores públicos.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
 
 Dicha Secretaría emitirá las normas, procedimientos, criterios y metodologías de carácter técnico, conforme a los cuales se realizarán los avalúos, considerando la diversidad de bienes y derechos objeto de valuación, así como sus posibles usos y demás características particulares.
 
@@ -1348,7 +1360,9 @@ En los casos en que la Federación ejerza la posesión, control o administració
 
 Para llevar a cabo los actos de disposición que tengan el carácter de gratuitos a que se refiere este artículo, deberá contarse con el respectivo dictamen que justifique la operación.
 
-Los ingresos que se obtengan por la venta de inmuebles federales deberán concentrarse en la Tesorería de la Federación. Las contribuciones y demás gastos que cubra la Secretaría para efectuar la venta de los inmuebles federales, serán con cargo al producto de la venta. Para recuperar dichos gastos, la Secretaría efectuará los trámites presupuestarios procedentes ante la Secretaría de Hacienda y Crédito Público, conforme a lo que dispongan los ordenamientos en materia presupuestaria y fiscal que resulten aplicables.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Los ingresos que se obtengan por la venta de inmuebles federales deberán concentrarse en la Tesorería de la Federación. Las contribuciones y demás gastos que cubra la Secretaría para efectuar la venta de los inmuebles federales, serán con cargo al producto de la venta. Para recuperar dichos gastos, la Secretaría efectuará los trámites presupuestarios procedentes, conforme a lo que dispongan los ordenamientos en materia presupuestaria y fiscal que resulten aplicables.
 
 Cuando las dependencias pongan a disposición de la Secretaría para su venta los inmuebles federales que estén a su servicio, o la propia Secretaría proceda a su enajenación, se les podrá otorgar un porcentaje de los ingresos que se obtengan por su venta para que el monto correspondiente lo apliquen al mejoramiento de las áreas en las que se presten servicios a la ciudadanía en términos de lo que disponga el Presupuesto de Egresos de la Federación.
 
@@ -1360,7 +1374,9 @@ El valor base de venta será el que determine el avalúo que practique la Secret
 
 Si realizada una licitación pública, el inmueble federal de que se trate no se vende, la Secretaría podrá optar, en función de asegurar al Gobierno Federal las mejores condiciones en cuanto a precio, oportunidad y demás circunstancias pertinentes, por alguna de las siguientes alternativas para venderlo:
 
-I.- Celebrar una segunda licitación pública, señalando como postura legal el ochenta por ciento del valor base. De no venderse el inmueble, se procederá a celebrar una tercera licitación pública, estableciéndose como postura legal el sesenta por ciento del valor base;
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+I.- Celebrar una segunda licitación pública, señalando como postura legal el noventa y cinco por ciento del valor base. De no venderse el inmueble, se procederá a celebrar una tercera licitación pública, estableciéndose como postura legal el noventa por ciento del valor base;
 
 II.- Adjudicar el inmueble a la persona que llegare a cubrir el valor base, o
 
@@ -1530,9 +1546,11 @@ La Secretaría determinará las normas y criterios técnicos para la construcci�
 
 La Secretaría de Cultura, a través del Instituto Nacional de Antropología e Historia y del Instituto Nacional de Bellas Artes y Literatura, según corresponda, determinará las normas y criterios técnicos para la restauración, reconstrucción, adaptación, conservación, preservación, mantenimiento y aprovechamiento de los inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, que estén destinados al servicio de las instituciones públicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 104.
 
-La Secretaría de Hacienda y Crédito Público y la Secretaría intervendrán en los términos de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, de acuerdo a su competencia en la materia, cuando se requieran ejecutar obras de construcción, reconstrucción, modificación, adaptación, conservación y mantenimiento de inmuebles federales, así como para el óptimo aprovechamiento de espacios.
+La Secretaría intervendrá en los términos de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de acuerdo con su competencia en la materia, cuando se requieran ejecutar obras de construcción, reconstrucción, modificación, adaptación, conservación y mantenimiento de inmuebles federales, así como para el óptimo aprovechamiento de espacios.
 
 > <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1672,9 +1690,11 @@ Para la enajenación de aquellos inmuebles propiedad de los organismos descentra
 
 Los organismos descentralizados que tengan por objeto la adquisición, desarrollo, fraccionamiento o comercialización de inmuebles, así como la regularización de la tenencia de la tierra y el desarrollo urbano y habitacional, podrán enajenar los que sean de su propiedad sin requerir previamente del acuerdo administrativo a que se refiere el primer párrafo de este artículo.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 118.
 
-Los inmuebles propiedad de los organismos descentralizados, excepto los que por disposición constitucional sean inalienables, sólo podrán gravarse con autorización expresa del Ejecutivo Federal, que se dictará por conducto de la Secretaría de Hacienda y Crédito Público cuando a juicio de ésta, así convenga para el mejor financiamiento de las obras o servicios a cargo del organismo descentralizado de que se trate.
+Los inmuebles propiedad de los organismos descentralizados, excepto los que por disposición constitucional sean inalienables, sólo podrán gravarse con autorización expresa del Ejecutivo Federal, que se dictará por conducto de la Secretaría cuando a juicio de ésta, así convenga para el mejor financiamiento de las obras o servicios a cargo del organismo descentralizado de que se trate.
 
 ## TÍTULO CUARTO. DE LA ZONA FEDERAL MARÍTIMO TERRESTRE Y TERRENOS GANADOS AL MAR
 
@@ -2309,3 +2329,15 @@ D.O.F. 14 DE SEPTIEMBRE DE 2021.
 > <small>[N. DE E. TRANSITORO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 132 DE LA LEY GENERAL DE BIENES NACIONALES, Y LOS ARTÍCULOS 31 Y 38 DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO”.]</small>
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE BIENES NACIONALES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan aquellas disposiciones que se opongan a lo previsto en el presente Decreto.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
+
+Cuarto. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este Decreto deberán concluirse y ejecutarse conforme a la legislación vigente al momento de su inicio.
