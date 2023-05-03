@@ -4,7 +4,7 @@ identifier: "LAERO"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2021-05-20"
+last_updated: "2023-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=808&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAERO"
 
 LEY DE AEROPUERTOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 22 de diciembre de 1995.
 
@@ -54,31 +54,67 @@ Los aeródromos civiles se clasifican en aeródromos de servicio al público y a
 
 II. Aeródromo de servicio al público: aeródromo civil en el que existe la obligación de prestar servicios aeroportuarios y complementarios de manera general e indiscriminada a los usuarios.
 
-Los aeródromos de servicio al público incluyen, en los términos de la presente Ley, a los aeropuertos, que son de servicio público y están sujetos a concesión, y a los aeródromos de servicio general, sujetos a permiso;
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
-III. Aeródromo de servicio general: aeródromo de servicio al público, distinto a los aeropuertos, destinado a la atención de las aeronaves, pasajeros, carga y correo del servicio de transporte aéreo no regular, así como del transporte privado comercial y privado no comercial;
+Los aeródromos de servicio al público incluyen los aeropuertos de servicio público sujetos a concesión o asignación y los aeródromos de servicio general que requieren permiso;
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+III. Aeródromo de servicio general: aeródromo de servicio al público, distinto de los aeropuertos, destinado a la atención de aeronaves, personas pasajeras, carga y correo del servicio de transporte aéreo no regular, así como de servicios aéreos a terceros y operaciones de aeronaves para uso particular;
 
 IV. Aeródromo de servicio particular: aeródromo civil destinado a los propios fines del permisionario, o a los de terceros con quienes libremente contrate;
 
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+IV Bis. Aeródromo temporal: área definida de tierra, adecuada para el despegue y aterrizaje de aeronaves agrícolas que realizan labores de fumigación agrícola y aquellas aeronaves autorizadas por la Agencia Federal de Aviación Civil;
+
 V. Aeródromo internacional: aeródromo de servicio al público declarado internacional por el Ejecutivo Federal y habilitado, de conformidad con las disposiciones aplicables, con infraestructura, instalaciones y equipos adecuados para atender a las aeronaves, pasajeros, carga y correo del servicio de transporte aéreo internacional, y que cuenta con autoridades competentes;
 
-VI. Aeropuerto: aeródromo civil de servicio público, que cuenta con las instalaciones y servicios adecuados para la recepción y despacho de aeronaves, pasajeros, carga y correo del servicio de transporte aéreo regular, del no regular, así como del transporte privado comercial y privado no comercial.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-Unicamente los aeródromos civiles que tengan el carácter de aeropuerto podrán prestar servicio a las aeronaves de transporte aéreo regular;
+VI. Aeropuerto: aeródromo civil de servicio público con instalaciones y servicios adecuados para la recepción y despacho de aeronaves, personas pasajeras, carga y correo del servicio de transporte aéreo regular y no regular, así como de servicios aéreos a terceros y operaciones de aeronaves para uso particular.
 
-VII. Administrador aeroportuario: persona física designada por el concesionario o permisionario de un aeródromo civil, que tendrá a su cargo la coordinación de las actividades de administración y operación que se realicen dentro del mismo;
+Los aeródromos civiles que tengan el carácter de aeropuerto únicamente pueden prestar servicio a las aeronaves de transporte aéreo regular;
 
-VIII. Secretaría: la Secretaría de Comunicaciones y Transportes;
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+VII. Administradora aeroportuaria: persona física designada por la persona concesionaria, asignataria o permisionaria de un aeródromo civil, a cargo de la coordinación de las actividades de administración y operación que se realicen en el aeródromo;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+VII Bis. Agencia Federal de Aviación Civil: órgano administrativo desconcentrado de la Secretaría de Infraestructura, Comunicaciones y Transportes, con autonomía técnica, operativa y administrativa, Autoridad de Aviación Civil del Estado mexicano;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+VII Ter. Disposiciones técnico-administrativas: circulares técnicas emitidas por la Agencia Federal de Aviación Civil y de carácter obligatorio que regulan la administración, operación, explotación, construcción y certificación de aeródromos civiles, así como los programas maestros de desarrollo, programas indicativos de inversiones en materia de construcción, conservación y mantenimiento, servicios aeroportuarios y complementarios, que se difunden en la Publicación de Información Aeronáutica de México y en el Diario Oficial de la Federación;
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+VIII. Secretaría: la Secretaría de Infraestructura, Comunicaciones y Transportes;
 
 > <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
 IX. Servicios: comprenden los aeroportuarios, complementarios y comerciales;
 
-> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-X. Base fija de operaciones: es la instalación a través de la cual un tercero brinda y proporciona dentro de la misma, la prestación de determinados servicios aeroportuarios, complementarios y comerciales a favor de transportistas y operadores aéreos, nacionales o extranjeros a que se refieren los artículos 27 y 28 de la Ley de Aviación Civil relativos a la aviación privada no comercial y privada comercial, incluyendo al taxi aéreo que reúna los requisitos y condiciones establecidas en el artículo 23 de la Ley de Aviación Civil. Lo anterior, de conformidad con las reglas y lineamientos que en su caso expida la Secretaría, y
+X. Base fija de operaciones: es la instalación a través de la cual un tercero brinda y proporciona dentro de la misma, la prestación de determinados servicios aeroportuarios, complementarios y comerciales a favor de transportistas y operadores aéreos, nacionales o extranjeros a que se refieren los artículos 27 y 28 de la Ley de Aviación Civil relativos a los servicios aéreos a terceros y operaciones de aeronaves para uso particular, incluyendo al taxi aéreo que reúna los requisitos y condiciones establecidas en el artículo 23 de la Ley de Aviación Civil. Lo anterior, de conformidad con las reglas y lineamientos que en su caso expida la Secretaría;
 
-XI. Zona de protección: espacio aéreo de dimensiones definidas, destinado a proteger los procedimientos de aproximación y salida de las aeronaves en los aeródromos civiles.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+XI. Zona de protección: espacio aéreo de dimensiones definidas, destinado a proteger los procedimientos de aproximación y salida de las aeronaves en los aeródromos civiles;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+XII. Operadora Aeroportuaria: entidad paraestatal con facultades para construir, administrar, operar y conservar los Aeropuertos de conformidad con el instrumento de su creación que señale el Ejecutivo Federal;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+XIII. Programa de Seguridad de la Aviación Civil del Estado mexicano: el que elabore el Comité Nacional de Seguridad de Aviación Civil integrado por las personas representantes de las secretarías de la Defensa Nacional, de Marina, de Infraestructura, Comunicaciones y Transportes y apruebe la persona titular de la Secretaría de Infraestructura, Comunicaciones y Transportes, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+XIV. Vigilancia Aeroportuaria: conjunto de actividades mediante las cuales la Agencia Federal de Aviación Civil constata, de manera preventiva, con verificaciones e inspecciones, que las personas concesionarias, asignatarias, permisionarias y operadoras de aeródromos civiles cumplan con los requisitos y las funciones establecidas, a nivel de competencia y de seguridad operacional requeridas en términos de esta Ley y del reglamento respectivo.
 
 ###### ARTICULO 3.
 
@@ -88,9 +124,11 @@ Corresponderá a los tribunales federales conocer de las controversias que se su
 
 En todo caso, las autoridades que conozcan de las controversias proveerán lo necesario para que no se interrumpa la prestación del servicio público de aeropuertos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 4.
 
-Los aeródromos civiles se rigen por lo previsto en la presente Ley, por los tratados internacionales y, a falta de disposición expresa, se aplicará:
+Los aeródromos civiles se rigen por lo previsto en la presente Ley y en los tratados internacionales, en lo que no se opongan a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos. A falta de disposición expresa, se aplicarán supletoriamente las disposiciones contenidas en:
 
 I. La Ley de Vías Generales de Comunicación;
 
@@ -100,11 +138,21 @@ III. La Ley de Aviación Civil;
 
 IV. La Ley Federal de Procedimiento Administrativo;
 
-V. La Ley Federal sobre Metrología y Normalización, y
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+V. La Ley de Infraestructura de la Calidad, y
 
 > <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
 VI. Los códigos de Comercio; Civil Federal, y Federal de Procedimientos Civiles.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Las definiciones de los tratados internacionales en materia de aviación civil suscritos por el Estado mexicano que no estén contenidas en las leyes expedidas por el Congreso de la Unión, normas oficiales mexicanas, ni en las disposiciones técnico-administrativas aplicables, se utilizarán supletoriamente, siempre que no se opongan a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Las características técnicas de infraestructura aeroportuaria deben apegarse a las normas y métodos establecidos por la Organización de Aviación Civil Internacional en sus diversos anexos y documentos.
 
 ###### ARTICULO 5.
 
@@ -112,39 +160,103 @@ Los aeródromos civiles según sus características en cuanto a infraestructura,
 
 ### CAPITULO II. De la autoridad aeroportuaria
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 6.
 
-La Secretaría, como autoridad aeroportuaria, tendrá las siguientes atribuciones, sin perjuicio de las otorgadas a otras dependencias de la administración pública federal:
+A la persona titular de la Secretaría, en materia aeroportuaria, le corresponde ejercer las facultades siguientes:
 
-I. Planear, formular y establecer las políticas y programas para el desarrollo del sistema aeroportuario nacional, de acuerdo a las necesidades del país, así como propiciar la adecuada operación de la aviación civil;
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+I. Planear, formular y establecer las políticas y programas para el desarrollo del sistema aeroportuario nacional, de acuerdo con las necesidades del país, así como propiciar la adecuada operación de la aviación civil;
 
 II. Construir, administrar, operar y explotar aeródromos civiles y prestar los servicios, cuando así lo requiera el interés público;
 
-III. Otorgar concesiones y permisos, así como autorizaciones en los términos de esta Ley, verificar su cumplimiento y resolver, en su caso, su modificación, terminación o revocación;
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-IV. Establecer las reglas de tránsito aéreo y las bases generales para la fijación de horarios de aterrizaje y despegue y las prioridades de turno de las aeronaves;
+III. Otorgar las concesiones y las asignaciones en los términos previstos en el capítulo III de esta Ley, así como resolver, en su caso, la prórroga, suspensión, modificación, terminación o revocación de las concesiones otorgadas;
 
-V. Fijar las bases para la prestación eficiente, competitiva y no discriminatoria de los servicios, así como establecer las condiciones mínimas de operación con las que deberán contar los aeródromos civiles según su naturaleza y categorías;
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-VI. Establecer las normas básicas de seguridad en los aeródromos civiles;
+IV. Expedir las normas oficiales mexicanas en materia aeroportuaria y las demás necesarias para el cumplimiento de lo dispuesto en esta Ley y en los tratados de los que el Estado mexicano es parte, mismas que deben publicarse en el Diario Oficial de la Federación y difundirse en la Publicación de Información Aeronáutica de México;
 
-VII. Disponer el cierre parcial o total de aeródromos civiles, cuando no reúnan las condiciones de seguridad para las operaciones aéreas;
+V. (DEROGADA, D.O.F. 3 DE MAYO DE 2023)
 
-VIII. Vigilar, supervisar, inspeccionar y verificar aeródromos civiles;
+VI. (DEROGADA, D.O.F. 3 DE MAYO DE 2023)
 
-IX. Llevar el Registro Aeronáutico Mexicano, a efecto de incluir las inscripciones relacionadas con aeródromos civiles;
+VII. (DEROGADA, D.O.F. 3 DE MAYO DE 2023)
 
-X. Imponer las sanciones que correspondan por el incumplimiento a lo previsto en esta Ley;
+VIII. (DEROGADA, D.O.F. 3 DE MAYO DE 2023)
+
+IX. (DEROGADA, D.O.F. 3 DE MAYO DE 2023)
+
+X. (DEROGADA, D.O.F. 3 DE MAYO DE 2023)
 
 XI. Interpretar la presente Ley y sus reglamentos para efectos administrativos, y
 
-XII. Las demás que le otorguen esta Ley y otros ordenamientos.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+XII. Las demás atribuciones que esta Ley y otros ordenamientos jurídicos aplicables le otorgan a la Secretaría en materias relacionadas con la construcción, administración, operación y explotación de los aeródromos civiles.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 6 BIS. A la Agencia Federal de Aviación Civil, le corresponde ejercer las atribuciones siguientes:
+
+I. Otorgar las autorizaciones y los permisos previstos en esta Ley, y resolver, en su caso, su prórroga, suspensión, modificación, terminación o revocación;
+
+II. Vigilar el cumplimiento de las condiciones y de las obligaciones que derivan de las concesiones, asignaciones, permisos y autorizaciones en los términos de esta Ley, de su reglamento, de las normas oficiales mexicanas y de las demás disposiciones técnico-administrativas aplicables en la materia;
+
+III. Expedir las disposiciones técnico-administrativas en materia aeroportuaria para el cumplimiento de lo dispuesto en esta Ley y en los tratados de los que el Estado mexicano es parte, mismas que deben publicarse en el Diario Oficial de la Federación y difundirse en la Publicación de Información Aeronáutica de México;
+
+IV. Emitir las reglas de tránsito aéreo;
+
+V. Establecer, con aprobación de la persona titular de la Secretaría, las bases generales para la asignación de horarios de aterrizaje y despegue y las prioridades de turno de las aeronaves en los aeródromos civiles declarados en condiciones de saturación;
+
+VI. Fijar las bases para la prestación eficiente, competitiva y no discriminatoria de los servicios, así como establecer las condiciones mínimas de operación con las que deben contar los aeródromos civiles según su naturaleza y categorías;
+
+VII. Disponer el cierre parcial o total de aeródromos civiles, cuando no reúnan las condiciones de seguridad para las operaciones aéreas;
+
+VIII. Vigilar, certificar y supervisar los aeródromos civiles;
+
+IX. Llevar y administrar el Registro Aeronáutico Mexicano;
+
+X. Imponer las sanciones que correspondan previa substanciación del procedimiento administrativo correspondiente;
+
+XI. Otorgar las excepciones, exenciones y extensiones en materia aeroportuaria, siempre y cuando existan circunstancias de caso fortuito y fuerza mayor, problemas geográficos, sanitarios o de carácter físico;
+
+XII. Proteger la aviación civil contra los actos de interferencia ilícita descritos en el artículo 73 BIS de esta Ley, con el apoyo de las autoridades competentes;
+
+XIII. Expedir y aplicar las medidas y disposiciones técnico-administrativas para salvaguardar la aviación civil contra los actos de interferencia ilícita descritos en el artículo 73 BIS de esta Ley;
+
+XIV. Implementar el Programa de Seguridad de la Aviación Civil del Estado mexicano, así como vigilar su cumplimiento;
+
+XV. Establecer el contenido de:
+
+a) Los programas locales de seguridad de las personas concesionarias, asignatarias y permisionarias de aeropuertos;
+
+b) Los programas de seguridad de personas prestadoras de servicios aeroportuarios y complementarios de seguridad y vigilancia, y
+
+c) El programa de seguridad de los servicios de control de tránsito aéreo;
+
+XVI. Determinar y aprobar las tecnologías para la inspección de las personas pasajeras y de equipaje de mano y documentado;
+
+XVII. Analizar y determinar la acreditación de las capacidades técnico-administrativas, jurídicas y financieras para el otorgamiento de concesiones;
+
+XVIII. Tramitar ante la Secretaría de Hacienda y Crédito Público la opinión sobre la rentabilidad económica, la cartera de programas y proyectos de inversión, y determinación de las contraprestaciones que la persona concesionaria o asignataria deba cubrir al Gobierno Federal;
+
+XIX. Llevar a cabo el procedimiento de las licitaciones de las concesiones referidas en el capítulo III de esta Ley y proponer, en su caso, a la persona titular de la Secretaría su otorgamiento;
+
+XX. Revisar y aprobar previamente las modificaciones a la Publicación de Información Aeronáutica de México, y
+
+XXI. Ejercer las demás atribuciones que le confieren esta Ley y otros ordenamientos jurídicos.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 7.
 
-El comandante de aeródromo representará a la Secretaría en su carácter de autoridad aeroportuaria y ejercerá sus atribuciones en los aeródromos civiles, dentro de la adscripción territorial que expresamente le sea determinada por la misma.
+La persona comandante de aeródromo representa a la Agencia Federal de Aviación Civil en su carácter de autoridad aeroportuaria, y ejerce sus atribuciones en los aeródromos civiles dentro de la adscripción territorial que expresamente le sea determinada por dicha Agencia.
 
-En el ejercicio de sus funciones levantará actas administrativas; coordinará sus actividades con las demás autoridades civiles y militares que ejerzan funciones en el aeródromo civil; verificará que los sistemas de emergencia se encuentren en óptimas condiciones de uso; reportará a las autoridades competentes todas aquellas situaciones que deban ser hechas de su conocimiento y, en general, realizará los actos indispensables que se requieran para hacer efectivas las atribuciones de la Secretaría.
+En el ejercicio de sus funciones, la persona comandante de aeródromo debe levantar actas administrativas; coordinar sus actividades con las demás autoridades civiles y militares que ejerzan funciones en el aeródromo civil; vigilar que los sistemas de emergencia se encuentren en óptimas condiciones de uso; reportar a las autoridades competentes todas aquellas situaciones que deban ser hechas de su conocimiento, y en general, realizar los actos indispensables que se requieran para hacer efectivas las atribuciones de la Agencia Federal de Aviación Civil.
 
 ###### ARTICULO 8.
 
@@ -152,19 +264,27 @@ Las autoridades competentes realizarán las acciones necesarias para el adecuado
 
 En el ejercicio de sus funciones, las autoridades deberán programar, coordinar y realizar sus actividades en forma tal que no impidan la eficiencia general en la operación de los aeródromos civiles y en la prestación de los servicios. Asimismo, deberán contar con el personal capacitado, suficiente y adecuado, de acuerdo a los horarios, número de pasajeros y operaciones.
 
-La Secretaría, como autoridad aeroportuaria, deberá llevar a cabo todos aquellos actos en el interior de los aeródromos civiles que sean necesarios para la debida coordinación entre las autoridades que actúen en los mismos.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+La Agencia Federal de Aviación Civil debe llevar a cabo todos aquellos actos en el interior de los aeródromos civiles que sean necesarios para la debida coordinación entre las autoridades que actúen en los mismos.
 
 ###### ARTICULO 9.
 
 Corresponderá al Estado, por conducto del órgano u organismo que al efecto designe, la prestación de los servicios de control de tránsito aéreo, radioayudas, telecomunicaciones e información aeronáuticas.
 
-### CAPITULO III. De las concesiones y de los permisos
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2023)</small>
 
-#### Sección primera. De las concesiones
+### CAPITULO III. De las concesiones, asignaciones y permisos
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2023)</small>
+
+#### Sección primera. De las concesiones y asignaciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 10.
 
-Se requiere concesión otorgada por la Secretaría para la administración, operación, explotación y, en su caso, construcción de aeropuertos.
+Se requiere concesión otorgada por la persona titular de la Secretaría, para la administración, operación, explotación y, en su caso, construcción de aeropuertos.
 
 Las concesiones a que se refiere este artículo se otorgarán únicamente a sociedades mercantiles constituidas conforme a las leyes mexicanas e incluirán las actividades de administración, operación, explotación y, en su caso, construcción.
 
@@ -218,9 +338,17 @@ d) Que cuenta con el personal técnico y administrativo capacitado;
 
 VI. La Secretaría emitirá el fallo con base en el análisis comparativo de las proposiciones recibidas, el cual será dado a conocer a todos los participantes;
 
-VII. La Secretaría, en su caso, otorgará la concesión dentro del plazo señalado en las bases correspondientes, y un extracto del título respectivo se publicará en el Diario Oficial de la Federación a costa del concesionario, y
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-VIII. No se otorgará la concesión cuando las proposiciones presentadas no ofrezcan las mejores condiciones para el desarrollo aeroportuario nacional; no cumplan con los requisitos de las bases de la licitación, así como con las especificaciones técnicas o de seguridad del aeropuerto, o por causas que pudieran afectar la soberanía y seguridad nacional; o bien las proposiciones económicas que, en su caso se presenten, no sean satisfactorias a juicio de la Secretaría. En estos casos, se declarará desierta la licitación y podrá expedirse una nueva convocatoria.
+VII. La persona titular de la Secretaría, en su caso, otorgará el título de concesión dentro del plazo señalado en las bases correspondientes. Un extracto del título se publicará en el Diario Oficial de la Federación a costa de la persona concesionaria;
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+VIII. No se otorgará la concesión cuando las proposiciones presentadas no ofrezcan las mejores condiciones para el desarrollo aeroportuario nacional; no cumplan con los requisitos de las bases de la licitación, así como con las especificaciones técnicas o de seguridad del aeropuerto, o por causas que pudieran afectar la soberanía y seguridad nacional; o bien las proposiciones económicas que, en su caso se presenten, no sean satisfactorias a juicio de la Secretaría. En estos casos, se debe declarar desierta la licitación y puede expedirse una nueva convocatoria, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+IX. La persona titular de la Secretaría decidirá la forma en que participará la Agencia Federal de Aviación Civil en el procedimiento de otorgamiento de concesiones.
 
 ###### ARTICULO 12.
 
@@ -236,35 +364,75 @@ Cuando por causas de interés público se ordene la reubicación de un aeropuert
 
 En caso de que los concesionarios a que hace referencia el artículo 12, no manifiesten interés en recibir la nueva concesión, se seguirán los procedimientos establecidos en esta Ley para otorgarla.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 14.
 
-La Secretaría podrá otorgar concesiones, sin sujetarse a licitación pública, a las entidades de la administración pública federal.
+La persona titular de la Secretaría podrá otorgar concesiones, sin sujetarse a licitación pública, a las sociedades mercantiles con participación mayoritaria de los gobiernos de las entidades federativas o de los municipios constituidas para la administración, operación, explotación y, en su caso, construcción de aeropuertos.
 
-Asimismo, la Secretaría podrá asignar concesiones a las sociedades mercantiles con participación mayoritaria de los gobiernos de las entidades federativas o de los municipios constituidas para la administración, operación, explotación y, en su caso, construcción de aeropuertos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 En todos los casos, los concesionarios deberán cumplir con lo previsto en la presente Ley y sus reglamentos.
 
 La Secretaría se reserva la facultad de restringir la cesión de derechos de las concesiones otorgadas de conformidad con este artículo.
 
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 14 BIS. La persona titular de la Secretaría puede otorgar títulos de asignación a las entidades paraestatales de la Administración Pública Federal, sin sujetarse al procedimiento de licitación pública, para la administración, operación, explotación y, en su caso, construcción de aeropuertos.
+
+La vigencia del título de asignación será por tiempo indefinido, y solo concluirá cuando se acredite fehacientemente que ya no existe causa de utilidad pública, interés público, interés general, interés social que salvaguardar, o por razones de seguridad nacional que la justifiquen.
+
+La entidad asignataria tendrá las mismas obligaciones que tengan las personas concesionarias de acuerdo con esta Ley y su reglamento, pero no puede transmitir sus derechos y obligaciones a terceras personas físicas o morales privadas.
+
 ###### ARTICULO 15.
 
 Las concesiones se otorgarán hasta por un plazo de cincuenta años, y podrán ser prorrogadas, en una o varias ocasiones hasta por un plazo que no exceda de cincuenta años adicionales, siempre que el concesionario hubiere cumplido con las condiciones previstas en el título respectivo y lo solicite antes de que den inicio los últimos cinco años de la vigencia de la concesión, y acepte las nuevas condiciones que establezca la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 16.
 
-Los aeropuertos construidos sobre bienes del dominio particular deberán ser utilizados, durante el tiempo de vigencia de la concesión, exclusivamente para su objeto, aún en el caso de que fueran gravados o enajenados, salvo autorización previa de la Secretaría. Esta limitación deberá inscribirse en el Registro Público de la Propiedad correspondiente.
+Los aeropuertos construidos sobre bienes inmuebles de propiedad privada deben ser utilizados, durante el tiempo de vigencia de la concesión, exclusivamente para su objeto, aun cuando fueran gravados o enajenados.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Para gravar o enajenar dichos aeropuertos se requiere previa valoración de la Agencia Federal de Aviación Civil y la autorización de la Secretaría. Emitida la autorización, debe inscribirse en el Registro Público de la Propiedad correspondiente.
 
 Al término de la concesión y para mantener en operación el aeropuerto, la Federación tendrá derecho de preferencia para la adquisición del mismo, mediante avalúo que se lleve a cabo de conformidad con lo establecido en las disposiciones aplicables o, en caso de que el propietario prefiera mantener su propiedad, para su arrendamiento.
 
 #### Sección segunda. De los permisos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 17.
 
-La Secretaría otorgará permisos a personas físicas, o personas morales constituidas conforme a las leyes mexicanas, para la administración, operación, explotación y, en su caso, construcción de aeródromos civiles distintos a los aeropuertos.
+La Agencia Federal de Aviación Civil otorgará permisos a personas físicas o a las morales constituidas conforme a las leyes mexicanas, para la administración, operación, explotación y, en su caso, construcción de aeródromos civiles distintos de los aeropuertos, previo cumplimiento de los requisitos exigidos en esta Ley y su reglamento.
 
 Para aeródromos de servicio general, el permiso se otorgará exclusivamente a sociedades mercantiles mexicanas, e incluirán las actividades de administración, operación, explotación y, en su caso, construcción.
 
-Los permisos se otorgarán previo cumplimiento de los requisitos exigidos en esta Ley y sus reglamentos; por los plazos que señale el permiso respectivo, pero en ningún caso podrán exceder de treinta años y podrán ser prorrogados por tiempo determinado, siempre que se hubiese cumplido con lo previsto en el título y se acepten las nuevas condiciones que establezca la Secretaría.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Los permisos que se otorguen deben indicar su vigencia, que no debe exceder treinta años, así como las condiciones y obligaciones correspondientes. Los permisos podrán ser prorrogados por tiempo determinado, sin exceder el plazo original, siempre que se hubiese cumplido con las condiciones y obligaciones establecidas y se acepten las nuevas que establezca la Agencia Federal de Aviación Civil para su prórroga.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+En el Reglamento de la Ley se establecerán los demás elementos que deben contener los permisos y, en su caso, su prórroga.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+La resolución de la Agencia Federal de Aviación Civil sobre el otorgamiento de permisos debe emitirse en un plazo que no exceda de noventa días naturales, contados a partir de aquel en que se hubiere presentado la solicitud debidamente integrada.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Cuando la Agencia Federal de Aviación Civil resuelva negativamente sobre el otorgamiento de un permiso, deberá expresar los motivos para la negación del permiso.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 17 BIS. La Agencia Federal de Aviación Civil otorgará la autorización de aeródromos temporales para uso en labores de fumigación agrícola para la atención del control de plagas y enfermedades fitosanitarias en el campo mexicano, con una vigencia de 12 meses expedida a través de las comandancias de región y/o del aeropuerto, pudiéndose renovar con un mes de anticipación a su vencimiento conforme a las disposiciones técnico-administrativas que expida la Agencia Federal de Aviación Civil.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 17 TER. La Agencia Federal de Aviación Civil emitirá las reglas de carácter técnico para el uso de áreas de despegue y aterrizaje de aerostatos de conformidad con las disposiciones técnico-administrativas.
 
 ###### ARTICULO 18.
 
@@ -282,9 +450,9 @@ La resolución de la Secretaría sobre el otorgamiento de permisos, deberá emit
 
 Cuando la Secretaría resuelva negativamente sobre el otorgamiento de un permiso, ésta contará con 30 días naturales posteriores a la fecha de la resolución, para remitir al promovente un documento explicativo sobre los motivos para la negación del permiso.
 
-> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
-Los interesados en obtener un permiso, no requerirán estudio operacional de trayectorias, ni estudio de espacio aéreo, cuando se trate de aeródromos o helipuertos, ambos no controlados y de operación bajo reglas visuales de vuelo, siempre y cuando su punto de referencia de aeródromo o helipuerto esté alejado al menos a una distancia de 10 millas náuticas del punto de referencia del aeropuerto más cercano.
+Las personas interesadas en obtener un permiso no requerirán estudio operacional de trayectorias, ni estudio de espacio aéreo, cuando se trate de aeródromos o helipuertos, ambos no controlados y de operación bajo reglas visuales de vuelo, siempre y cuando su punto de referencia de aeródromo o helipuerto esté alejado al menos a una distancia de 10 millas náuticas del punto de referencia del aeropuerto o instalación de la Fuerza Aérea Mexicana más cercana, o dentro del espacio aéreo restringido.
 
 #### Sección tercera. Disposiciones comunes
 
@@ -302,13 +470,19 @@ Cuando se trate de bienes del dominio público de la Federación, la Secretaría
 
 Al término del plazo de la concesión de bienes del dominio público de la Federación, las obras e instalaciones adheridas de manera permanente al inmueble concesionado revertirán en favor de la Nación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 21.
 
-Para el otorgamiento de concesiones y permisos previstos en esta Ley, se deberá contar con la opinión de una comisión intersecretarial, que tendrá por objeto conocer las propuestas que al efecto presente la Secretaría, para lo cual deberá atender principalmente a criterios de capacidad jurídica, administrativa y financiera de los posibles concesionarios o permisionarios.
+La Secretaría, para otorgar concesiones, y la Agencia Federal de Aviación Civil, para otorgar los permisos previstos en esta Ley, deben contar previamente con la opinión técnica de la comisión intersecretarial sobre las propuestas que le presenten éstas, según corresponda.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
-La comisión intersecretarial a que se refiere el párrafo anterior, se constituirá mediante acuerdo del Ejecutivo Federal; en todo caso, formarán parte de la misma la Secretaría de la Defensa Nacional y la Secretaría de Marina; será presidida por la Secretaría; y conocerá de los asuntos que el propio acuerdo señale.
+La propuesta debe referirse a criterios de capacidad jurídica, administrativa y financiera de las posibles personas concesionarias o permisionarias.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+La comisión intersecretarial a que se refiere el párrafo anterior se constituirá mediante acuerdo del Ejecutivo Federal; conocerá de los asuntos que este determine; será presidida por la Secretaría, y se integrará, además, con la Secretaría de la Defensa Nacional y la Secretaría de Marina.
 
 ###### ARTICULO 22.
 
@@ -316,15 +490,23 @@ No podrán ser titulares de permisos las personas físicas que estén inhabilita
 
 En caso de que se incurra en los supuestos señalados en el párrafo anterior, el concesionario o persona moral permisionaria tiene obligación de remover al miembro del órgano de administración respectivo, o si se trata de los socios, de iniciar las medidas conducentes a la transmisión de los títulos representativos correspondientes. Esta obligación deberá preverse en los estatutos sociales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 23.
 
-Cuando cualquier persona o grupo de personas adquiera, directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de una sociedad concesionaria o permisionaria de un aeródromo civil, se requerirá notificar a la Secretaría. En caso de que la Secretaría, dentro de los treinta días naturales siguientes a la notificación respectiva, no objete dicha adquisición, se entenderá como aprobada.
+Se debe notificar a la persona titular de la Secretaría o a la Agencia Federal de Aviación Civil, según corresponda, la adquisición directa o indirecta del control de una sociedad mercantil concesionaria o permisionaria de un aeródromo civil, por cualquier persona o grupo de personas, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, las que deben manifestar expresamente que asumen las responsabilidades y obligaciones contraídas en el título de concesión o permiso expedidos.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+La Secretaría o la Agencia Federal de Aviación Civil, según corresponda, en caso de que se cumpla con lo dispuesto en este artículo y no se contravengan las disposiciones jurídicas aplicables, emitirá la aprobación correspondiente, en un plazo de treinta días naturales, contados a partir de la notificación.
 
 Para los efectos señalados en el presente artículo, se entenderá que una persona o grupo de personas adquiere el control de un aeródromo civil cuando sea propietario de 35% o más de los títulos representativos del capital social de una concesionaria o permisionaria, tenga el control de la asamblea general de accionistas, esté en posibilidad de nombrar a la mayoría de los miembros encargados de la administración, o por cualquier otro medio controle el aeródromo civil de que se trate.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 24.
 
-El cambio de director general, de cualquier miembro del consejo de administración de la concesionaria o permisionaria o del administrador aeroportuario, deberá ser notificado a la Secretaría. En caso de que la Secretaría, dentro de los treinta días naturales siguientes a la notificación respectiva no objete dichas designaciones, se entenderán como confirmadas.
+El cambio de la persona titular de la dirección general, de cualquier miembro del consejo de administración de la concesionaria o permisionaria o del administrador aeroportuario, debe ser notificado a la Agencia Federal de Aviación Civil.
 
 ###### ARTICULO 25.
 
@@ -378,21 +560,33 @@ En el caso de rescate se seguirá el procedimiento establecido en el artículo 2
 
 La terminación de la concesión o permiso no extingue las obligaciones contraídas por el titular durante su vigencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 27.
 
-Serán causas de revocación de las concesiones y permisos, las siguientes:
+Son causas de revocación de las concesiones:
 
-I. No iniciar la administración, operación, explotación o, en su caso, construcción del aeródromo civil, en los plazos que al efecto se establezcan en el título de concesión o permiso;
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+I. No iniciar la administración, operación, explotación o, en su caso, construcción del aeropuerto, en los plazos que se establezcan en el título de concesión;
 
 II. No mantener vigentes los seguros a que se refiere esta Ley;
 
-III. Ceder, gravar, transferir o enajenar las concesiones o los permisos, los derechos en ellos conferidos o los bienes afectos a los mismos, en contravención a lo dispuesto en esta Ley;
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-IV. Alterar la naturaleza o condiciones de los aeródromos civiles establecidas en el título de concesión o permiso, sin autorización de la Secretaría;
+III. Ceder, gravar, transferir o enajenar las concesiones, los derechos conferidos o los bienes afectos al aeropuerto, en contravención a esta Ley;
 
-V. Consentir el uso del aeródromo civil a cualquier aeronave que no cumpla con los requisitos de la Ley de Aviación Civil, o no haya sido autorizada por quien controla la navegación aérea, o que su acción u omisión dolosa contribuya a la comisión de algún delito;
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-VI. Tener conocimiento de que se ha incurrido en los supuestos establecidos en el artículo 22 de esta Ley, y no haber tomado las medidas previstas en el mismo, en el caso del concesionario o persona moral permisionaria, o incurrir en los citados supuestos en el caso de persona física permisionaria;
+IV. Alterar la naturaleza o condiciones del aeropuerto establecidas en el título de concesión, sin previa autorización de la Agencia Federal de Aviación Civil;
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+V. Consentir el uso del aeropuerto a cualquier aeronave que no cumpla con los requisitos de la Ley de Aviación Civil, que no haya sido permitida por quien presta el servicio de navegación aérea, o que su acción u omisión dolosa contribuya a la comisión de algún delito;
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+VI. Incumplir con la obligación prevista en el párrafo segundo del artículo 22 de esta Ley, referente a la remoción de cargos a personas o a la de transmisión de títulos accionarios, en los supuestos que se indican en dicho artículo;
 
 VII. Modificar el porcentaje de inversión extranjera en contravención a lo establecido en el artículo 19 de esta Ley;
 
@@ -416,13 +610,55 @@ XIV. Ejecutar u omitir actos que impidan o tiendan a impedir la actuación de ot
 
 XV. Limitar el número de prestadores de servicios complementarios o negar su operación mediante actos de simulación, por razones distintas a las contempladas por el artículo 57 de esta Ley, y
 
-XVI. En general, incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, sus reglamentos y en el título de concesión o permiso respectivos, siempre que por el incumplimiento se haya impuesto una sanción y ésta haya quedado firme en términos de ley.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-La Secretaría podrá revocar las concesiones o permisos de manera inmediata únicamente en los supuestos de las fracciones I a VI anteriores.
+XVI. En general, incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, sus reglamentos y en el título de concesión, siempre que por el incumplimiento se haya impuesto una sanción administrativa y esta haya quedado firme en términos de ley.
 
-> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
-En los casos de las fracciones VII a XVI, la Secretaría sólo podrá revocar la concesión o permiso cuando previamente hubiese sancionado al respectivo concesionario o permisionario, por lo menos en tres ocasiones por las causas previstas en la misma fracción dentro de un periodo de cinco años.
+La Secretaría podrá revocar las concesiones de manera inmediata, en los supuestos de las fracciones I a VI de este artículo.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+La Secretaría, en los casos de las fracciones VII a XVI de este artículo, podrá revocar la concesión, cuando previamente se hubiese sancionado a la persona concesionaria, por lo menos en dos ocasiones, por las causas previstas en la misma fracción, dentro de un periodo de diez años.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 27 BIS. Son causas de revocación de los permisos:
+
+I. No iniciar la administración, operación, explotación o, en su caso, construcción del aeródromo civil, en los plazos que al efecto se establezca en el permiso;
+
+II. No mantener vigentes los seguros a que se refiere esta Ley;
+
+III. Ceder, gravar, transferir o enajenar los permisos, los derechos conferidos o bienes afectos a los aeródromos civiles, en contravención de esta Ley;
+
+IV. Alterar la naturaleza o condiciones del aeródromo civil establecidas en el permiso, sin previa autorización de la Agencia Federal de Aviación Civil;
+
+V. Consentir el uso del aeródromo civil de cualquier aeronave que no cumpla con los requisitos de la Ley de Aviación Civil, no haya sido permitida por quien presta el servicio de navegación aérea o que su acción u omisión dolosa contribuya a la comisión de algún delito;
+
+VI. Incumplir con la obligación prevista en el párrafo segundo del artículo 22 de esta Ley, referente a la remoción de cargos a personas o de transmisión de títulos accionarios, en los supuestos que se indican en dicho artículo;
+
+VII. Modificar el porcentaje de inversión extranjera en contravención a lo establecido en el artículo 19 de esta Ley;
+
+VIII. Contravenir las disposiciones en materia de seguridad en los aeródromos civiles, establecidas en esta Ley y otros ordenamientos aplicables;
+
+IX. Interrumpir, total o parcialmente, la operación del aeródromo civil o la prestación de los servicios aeroportuarios o complementarios, sin causa justificada;
+
+X. Incumplir con las obligaciones de conservación y mantenimiento del aeródromo civil;
+
+XI. Prestar servicios distintos de los permitidos;
+
+XII. No cubrir las indemnizaciones por daños que se originen con motivo de la prestación de los servicios;
+
+XIII. Aplicar tarifas y precios que excedan a los registrados o, en su caso, sujetos a regulación;
+
+XIV. Ejecutar u omitir actos que impidan o tiendan a impedir la actuación de otros prestadores de servicios que tengan derecho a ello, así como la de autoridades que ejerzan atribuciones dentro del aeródromo civil;
+
+XV. Limitar el número de prestadores de servicios complementarios o negar su operación mediante actos de simulación, por razones distintas de las establecidas en el artículo 57 de esta Ley, y
+
+XVI. Incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, sus reglamentos y en el permiso respectivo, siempre que por el incumplimiento se haya impuesto una sanción y esta haya quedado firme en términos de ley.
+
+La Agencia Federal de Aviación Civil, en los casos de las fracciones VII a XVI, revocará el permiso cuando previamente se hubiese sancionado al permisionario, por lo menos en dos ocasiones, por las causas previstas en la misma fracción, dentro de un periodo de diez años.
 
 ###### ARTICULO 28.
 
@@ -434,37 +670,59 @@ Los concesionarios o permisionarios de servicios de transporte aéreo, sus contr
 
 En ningún caso, un grupo de concesionarios o permisionarios del servicio de transporte aéreo, sus controladoras, subsidiarias o filiales, podrán adquirir directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de una sociedad concesionaria de un aeropuerto. La misma restricción se aplicará cuando un grupo de concesionarios de aeropuertos participen en el capital de concesionarios o permisionarios de servicios de transporte aéreo.
 
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Las restricciones previstas en el párrafo anterior no serán aplicables a las entidades asignatarias en términos del artículo 14 BIS de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+La Agencia Federal de Aviación Civil se reserva la facultad de aprobación que se derive de la notificación relacionada con el capital social de una sociedad mercantil concesionaria o permisionaria en sus modalidades de transporte aéreo o de aeropuertos, así como lo relativo al control de la misma.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 30.
 
-Los concesionarios o permisionarios deberán dar aviso a la Secretaría de las modificaciones que realicen a sus estatutos, relativas a la disolución anticipada, cambio de objeto, fusión, transformación o escisión, noventa días naturales antes de su formalización.
+Las personas concesionarias y permisionarias deben dar aviso a la Secretaría o a la Agencia Federal de Aviación Civil, según corresponda, de las modificaciones a sus estatutos, relativas a la disolución anticipada, cambio de objeto, fusión, transformación, escisión y de cualquier transmisión de acciones que no impliquen un cambio de control de la persona concesionaria o permisionaria, noventa días naturales antes de su formalización.
 
 ###### ARTICULO 31.
 
 Los concesionarios o permisionarios deberán permitir el acceso a los aeródromos civiles a las autoridades federales, con el fin de que puedan desarrollar sus funciones de autoridad en los mismos, y a los prestadores de los servicios a la navegación aérea, para lo cual, estarán obligados a destinar un espacio adecuado en los aeródromos civiles, cuyas dimensiones y demás términos y condiciones serán fijados en el título de concesión o permiso respectivo.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 32.
 
-Los aeródromos civiles en donde se preste servicio a aeronaves militares, se sujetarán en lo conducente a esta Ley, sin perjuicio de la coordinación que exista con la Secretaría de la Defensa Nacional y la Secretaría de Marina.
+La operación de los aeródromos civiles que presten servicio a aeronaves militares, así como las operaciones de interceptación aérea, además de sujetarse a esta Ley, se supeditarán a la coordinación que se establezca con la Secretaría de la Defensa Nacional y la Secretaría de Marina.
 
 ### CAPITULO IV. De la cesión de derechos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 33.
 
-La Secretaría podrá autorizar, dentro de un plazo de noventa días naturales, contado a partir de la presentación de la solicitud, la cesión total de los derechos y obligaciones de las concesiones o permisos, siempre que el cesionario cumpla con los requisitos que esta Ley exige para ser concesionario o permisionario, se comprometa a realizar las obligaciones que se encuentren pendientes y asuma las condiciones que al efecto establezca la Secretaría.
+La Secretaría o la Agencia Federal de Aviación Civil, según corresponda, puede autorizar la cesión total o parcial de los derechos y obligaciones de las concesiones o permisos, siempre que la persona cesionaria cumpla con los requisitos que esta Ley exige para ser persona concesionaria o permisionaria, se comprometa a cumplir con las obligaciones que se encuentren pendientes de cumplir por parte de las personas cedentes y asuma las condiciones que al efecto establezca la Secretaría, previa opinión de la Agencia Federal de Aviación Civil en el caso de concesiones.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+La Secretaría debe resolver la solicitud de cesión total o parcial, en un plazo de noventa días naturales, contado a partir del día en el que se presente dicha solicitud.
 
 ###### ARTICULO 34.
 
 Los concesionarios o permisionarios en ningún caso podrán ceder, ni en forma alguna gravar, transferir o enajenar la concesión o el permiso, los derechos en ellos conferidos, así como los bienes afectos a la concesión o al permiso, a ningún gobierno o Estado extranjero.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 35.
 
-La ejecución de una garantía no significa la cesión automática de los derechos de la concesión o permiso de que se trate, a menos de que la Secretaría lo autorice.
+La ejecución de una garantía no significa la cesión automática de los derechos de la concesión o permiso de que se trate, a menos de que la Secretaría lo autorice, previa valoración de la Agencia Federal de Aviación Civil.
 
 ### CAPITULO V. De la infraestructura
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 36.
 
-La Secretaría, mediante disposiciones de carácter general, establecerá las condiciones de construcción y conservación de los aeródromos civiles.
+Queda a cargo de la Agencia Federal de Aviación Civil, mediante disposiciones técnico-administrativas, el establecimiento de las condiciones de construcción y conservación de los aeródromos civiles.
 
 Los concesionarios y permisionarios de aeródromos civiles deberán adoptar las medidas necesarias que permitan atender de manera adecuada a las personas con discapacidad, así como a las de edad avanzada.
 
@@ -472,23 +730,29 @@ Los concesionarios y permisionarios de aeródromos civiles deberán adoptar las 
 
 Es de utilidad pública la construcción, ampliación y conservación de aeropuertos.
 
-La Secretaría por sí, o por cuenta de los concesionarios, previa evaluación y cuando lo considere procedente, efectuará la compraventa o, en su defecto, promoverá la expropiación de los terrenos y construcciones necesarios para la construcción, ampliación y conservación de aeropuertos.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+La Secretaría por sí, o por cuenta de las personas concesionarias, previa evaluación de la Agencia Federal de Aviación Civil y cuando lo considere procedente, efectuará la compraventa o, en su defecto, promoverá la expropiación de los terrenos y construcciones necesarios para la construcción, ampliación y conservación de aeropuertos, cuyo pago indemnizatorio queda a cargo de las personas concesionarias cuando la expropiación sea en su beneficio.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 38.
 
-El concesionario deberá elaborar un programa maestro de desarrollo, revisable cada cinco años, el cual una vez autorizado por la Secretaría, previa opinión de la Secretaría de la Defensa Nacional en el ámbito de su competencia, con base en las políticas y programas establecidos para el desarrollo del sistema aeroportuario nacional y su interrelación con otros modos de transporte, será parte integrante del título de concesión.
+Las personas concesionarias, asignatarias y operadoras aeroportuarias deben elaborar su programa maestro de desarrollo, con base en las políticas y programas establecidos para el desarrollo del sistema aeroportuario nacional y su interrelación con otros modos de transporte, de conformidad con el Reglamento y las disposiciones técnico-administrativas que se emitan, el cual una vez autorizado por la Agencia Federal de Aviación Civil, previa opinión de la Secretaría de la Defensa Nacional o de la Secretaría de Marina en el ámbito de su competencia y de la Secretaría, será parte integrante del título de concesión. El programa maestro de desarrollo será revisable cada cinco años.
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 39.
 
-El permisionario de un aeródromo de servicio al público, deberá elaborar un programa indicativo de inversiones en materia de construcción, conservación y mantenimiento, en el que se incluyan medidas específicas relacionadas con la seguridad y protección del equilibrio ecológico, y hacerlo del conocimiento de la Secretaría.
+La permisionaria de un aeródromo de servicio al público debe elaborar su Programa Indicativo de Inversiones en materia de Construcción, Conservación y Mantenimiento, en el que se incluyan medidas específicas relacionadas con la seguridad y protección del medio ambiente, de conformidad con el Reglamento y las disposiciones técnico-administrativas que se emitan. Dicho programa debe hacerse del conocimiento de la Agencia Federal de Aviación Civil.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 40.
 
-Para realizar trabajos de construcción o reconstrucción en los aeródromos civiles, distintos de aquéllos incluidos en los programas a que se refieren los artículos 38 y 39 de esta Ley, se requerirá autorización previa de la Secretaría.
+Para realizar trabajos de construcción o reconstrucción en los aeródromos civiles, distintos de aquellos incluidos en los programas a que se refieren los artículos 38 y 39 de esta Ley, se requiere de autorización previa de la Agencia Federal de Aviación Civil.
 
-Se exceptúan de lo dispuesto en el párrafo anterior, los trabajos de urgencia, de mantenimiento y los trabajos menores de construcción que no afecten las operaciones aéreas y se realicen para la conservación y buen funcionamiento del aeródromo civil, en el entendido de que el concesionario o permisionario informará a la Secretaría de las obras realizadas.
+Se exceptúan de lo dispuesto en el párrafo anterior, los trabajos de urgencia, de mantenimiento y los trabajos menores de construcción que no afecten las operaciones aéreas y se realicen para la conservación y buen funcionamiento del aeródromo civil. La persona concesionaria o permisionaria debe informar a la Agencia Federal de Aviación Civil sobre las obras a realizar, en un plazo no mayor de cinco días hábiles, contados a partir del inicio de los trabajos.
 
 ###### ARTICULO 41.
 
@@ -496,9 +760,15 @@ Los concesionarios y permisionarios deberán cumplir con las disposiciones feder
 
 ### CAPITULO VI. De la administración
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 42.
 
-La Secretaría, en el reglamento correspondiente, podrá establecer los requisitos que deberá reunir el administrador aeroportuario, cuyo nombramiento será hecho del conocimiento de la Secretaría por el concesionario o permisionario respectivo, en los términos y para los efectos del artículo 24 de esta Ley.
+El reglamento de esta Ley establecerá los requisitos que debe reunir la persona administradora aeroportuaria.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Las personas concesionarias, permisionarias y asignatarias tienen la obligación de informar a la Secretaría el nombramiento que hagan de la persona administradora aeroportuaria, en un plazo de treinta días naturales, contados a partir del mismo día del nombramiento, conforme a lo previsto en el artículo 24 de esta Ley.
 
 Los actos que lleve a cabo el administrador aeroportuario, se entenderán como realizados por el concesionario o permisionario, según sea el caso.
 
@@ -548,45 +818,59 @@ Los concesionarios o permisionarios deberán responsabilizarse del control de lo
 
 Para efectos de su regulación, los servicios en los aeródromos civiles se clasifican en:
 
-I. Servicios aeroportuarios: los que le corresponde prestar originariamente al concesionario o permisionario, de acuerdo con la clasificación del aeródromo civil, y que pueden proporcionarse directamente o a través de terceros que designe y contrate. Estos servicios incluyen los correspondientes al uso de pistas, calles de rodaje, plataformas, ayudas visuales, iluminación, edificios terminales de pasajeros y carga, abordadores mecánicos; así como los que se refieren a la seguridad y vigilancia del aeródromo civil; y a la extinción de incendios y rescate, entre otros;
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-II. Servicios complementarios: los que pueden ser prestados por los concesionarios o permisionarios del servicio de transporte aéreo, para sí mismos o para otros usuarios, o por terceros que aquéllos designen. Estos servicios incluyen, entre otros, los de rampa, tráfico, suministro de combustible a las aeronaves, avituallamiento, almacenamiento de carga y guarda, mantenimiento y reparación de aeronaves.
+I. Servicios aeroportuarios: los que le corresponde prestar originariamente a la persona concesionaria, asignataria o permisionaria, de acuerdo con la clasificación del aeródromo civil, y que pueden proporcionarse directamente o a través de terceros que designe y contrate. Estos servicios incluyen los correspondientes al uso de pistas, calles de rodaje, plataformas, ayudas visuales, iluminación, edificios terminales de pasajeros y carga, abordadores mecánicos; así como los que se refieren a la seguridad y vigilancia del aeródromo civil; y a la extinción de incendios y rescate, entre otros;
 
-Para la prestación de estos servicios deberá suscribirse contrato con el concesionario o permisionario del aeródromo civil de que se trate, y
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-III. Servicios comerciales: los que se refieren a la venta de diversos productos y servicios a los usuarios del aeródromo civil y que no son esenciales para la operación del mismo, ni de las aeronaves. Estos servicios pueden ser prestados directamente por el concesionario o permisionario, o por terceros que con él contraten el arrendamiento de áreas para comercios, restaurantes, arrendamiento de vehículos, publicidad, telégrafos, correo, casas de cambio, bancos y hoteles, entre otros.
+II. Servicios complementarios: los que pueden ser prestados por las personas concesionarias, asignatarias o permisionarias del servicio de transporte aéreo, para sí mismos o para otros usuarios, o por terceros que aquéllos designen. Estos servicios incluyen, entre otros, los de rampa, tráfico, suministro de combustible a las aeronaves, avituallamiento, almacenamiento de carga y guarda, mantenimiento y reparación de aeronaves.
 
-> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+Para la prestación de estos servicios deberá suscribirse contrato con la persona concesionaria, asignataria o permisionaria del aeródromo civil de que se trate, y
 
-Los Servicios a que se refieren las fracciones anteriores podrán ser proporcionados de manera conjunta por un tercero, exclusivamente cuando se trate de una instalación denominada Base Fija de Operaciones y a favor de prestadores de servicios de transporte aéreo no regular y no comercial, bajo condiciones equitativas y no discriminatoria y sujetándose a las disposiciones relativas contenidas en la presente Ley y su Reglamento, para lo cual deberá de celebrar los contratos respectivos con el concesionario o permisionario aeroportuario en los espacios destinados para tal fin en el programa maestro de desarrollo.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+III. Servicios comerciales: los que se refieren a la venta de diversos productos y servicios a las personas usuarias del aeródromo civil y que no son esenciales para la operación del mismo, ni de las aeronaves. Estos servicios pueden ser prestados directamente por la persona concesionaria, asignataria o permisionaria, o por terceros que con él contraten el arrendamiento de áreas para comercios, restaurantes, arrendamiento de vehículos, publicidad, telégrafos, correo, casas de cambio, bancos y hoteles, entre otros.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Los Servicios a que se refieren las fracciones anteriores podrán ser proporcionados de manera conjunta por un tercero, exclusivamente cuando se trate de una instalación denominada Base Fija de Operaciones y a favor de prestadores de servicios de transporte aéreo no regular y no comercial, bajo condiciones equitativas y no discriminatoria y sujetándose a las disposiciones relativas contenidas en la presente Ley y su Reglamento, para lo cual deberá de celebrar los contratos respectivos con las personas concesionarias, asignatarias o permisionarias aeroportuarias en los espacios destinados para tal fin en el programa maestro de desarrollo.
 
 > <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
 
 Para efectos de lo dispuesto en el párrafo anterior, una Base Fija de Operaciones se define como una instalación a través de la cual un tercero brinda y proporciona dentro de la misma, la prestación de determinados servicios aeroportuarios, complementarios y comerciales a favor de transportistas y operadores aéreos, nacionales o extranjeros a que se refieren los artículos 27 y 28 de la Ley de Aviación Civil relativos a la aviación privada no comercial y privada comercial, incluyendo al taxi aéreo que reúna los requisitos y condiciones establecidas en el artículo 23 de la Ley de Aviación Civil.
 
-> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
-Lo anterior, de conformidad con las reglas y lineamientos que en su caso expida la Secretaría.
+Lo anterior, de conformidad con las reglas y lineamientos que, en su caso, expida la Secretaría, y con las disposiciones técnico-administrativas que emita la Agencia Federal de Aviación Civil.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 49.
 
-Todos los concesionarios y permisionarios de aeródromos civiles están obligados a permitir su uso y prestar los servicios aeroportuarios y complementarios con que cuenten, en forma prioritaria, a las aeronaves militares; a aquéllas que apoyen en casos de desastre; y a las que se encuentren en condiciones de emergencia.
+Todas las personas concesionarias y permisionarias de aeródromos civiles están obligadas a permitir su uso y prestar los servicios aeroportuarios y complementarios con que cuenten, en forma prioritaria, a las aeronaves militares; a aquéllas que se encuentren en actividades de búsqueda y salvamento; a aquéllas que apoyen en casos de desastre, y a las que se encuentren en condiciones de emergencia.
 
 ###### ARTICULO 50.
 
 El administrador aeroportuario podrá, en caso fortuito o de fuerza mayor, suspender por el tiempo estrictamente necesario la prestación de los servicios aeroportuarios, con el fin de preservar la seguridad de las personas y de los bienes. En estos casos, reportará de inmediato a la autoridad aeroportuaria y, en su caso, al comité de operación y horarios, las causas que motivaron tal medida.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 51.
 
-La Secretaría, mediante disposiciones de carácter general, deberá establecer requisitos para la acreditación técnica del personal a cargo de los servicios aeroportuarios y complementarios.
+La Agencia Federal de Aviación Civil debe establecer requisitos para la acreditación técnica del personal a cargo de los servicios aeroportuarios y complementarios, mediante disposiciones técnico-administrativas.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 52.
 
-Los prestadores de servicios aeroportuarios y complementarios que sean personas distintas a los concesionarios o permisionarios, por el hecho de suscribir el contrato respectivo, serán responsables solidarios con éstos ante la Secretaría, del cumplimiento de las obligaciones derivadas del mismo, relacionadas con el servicio respectivo, consignadas en el título de concesión o permiso.
+Las personas prestadoras de servicios aeroportuarios y complementarios, distintas de las personas concesionarias, asignatarias o permisionarias, por el hecho de suscribir el contrato respectivo, son responsables solidarias con éstas, ante la Agencia Federal de Aviación Civil, del cumplimiento de las obligaciones derivadas de dicho contrato, relacionadas con el servicio prestado y consignadas en el título de concesión, asignación o permiso respectivos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 53.
 
-En los aeródromos civiles de servicio al público, los servicios aeroportuarios y complementarios, se prestarán a todos los usuarios solicitantes de manera permanente, uniforme y regular, en condiciones no discriminatorias en cuanto a calidad, oportunidad y precio, y conforme a las prioridades de turno y horarios establecidas en las reglas de operación del aeródromo civil, de acuerdo con los criterios señalados por la Secretaría.
+En los aeródromos civiles de servicio al público, se prestarán los servicios aeroportuarios y complementarios a todas las personas usuarias solicitantes de manera permanente, uniforme y regular, en condiciones no discriminatorias en cuanto a calidad, oportunidad y precio, y conforme a las prioridades de turno y horarios establecidos en las reglas de operación del aeródromo civil, de acuerdo con las disposiciones técnico-administrativas señalados (sic) por la Agencia Federal de Aviación Civil.
 
 Los servicios aeroportuarios se prestarán en forma gratuita a las aeronaves de Estado militares y aquéllas que realicen funciones de seguridad nacional.
 
@@ -602,13 +886,15 @@ En los aeródromos civiles de servicio al público, las contraprestaciones por l
 
 Si las contraprestaciones no son pagadas, los concesionarios o permisionarios, así como los prestadores de servicios podrán suspender la prestación de los mismos, únicamente por el servicio de que se trate y conforme a lo establecido en los contratos respectivos. En ningún caso se podrá negar el servicio de aterrizaje a los usuarios en los aeródromos civiles.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 56.
 
-Los prestadores de servicios aeroportuarios y complementarios que sean personas distintas a los concesionarios o permisionarios, deberán contar con capacidad técnica, según la naturaleza del servicio de que se trate, no encontrarse en los supuestos a que se refiere el artículo 22 de esta Ley y cumplir con las demás disposiciones aplicables.
+Las personas prestadoras de servicios aeroportuarios y complementarios, cuando sean personas distintas de las concesionarias, asignatarias o permisionarias, deben contar con capacidad técnica, según la naturaleza del servicio de que se trate, así como no estar en los supuestos a que se refiere el artículo 22 de esta Ley y cumplir con las demás disposiciones jurídicas aplicables.
 
-Los contratos que celebren los concesionarios o permisionarios con los prestadores de los servicios aeroportuarios y complementarios y que de acuerdo al reglamento respectivo sean objeto de autorización por parte de la misma, deberán presentarse ante ésta en un plazo máximo de quince días naturales contados a partir de la fecha de su formalización. Si no se cuenta con la citada autorización dichos contratos no surtirán efectos. La Secretaría deberá resolver en un plazo máximo de treinta días naturales y, si no resuelve, se considerará autorizado el contrato.
+Los contratos que celebren las personas concesionarias, asignatarias o permisionarias con las personas prestadoras de los servicios aeroportuarios y complementarios, deben presentarse para su autorización y registro ante la Agencia Federal de Aviación Civil en un plazo máximo de quince días naturales, contados a partir de la fecha de su formalización. En caso de no contar con esta autorización, dichos contratos no surtirán efectos.
 
-Cuando el incumplimiento de los contratos a que se refiere el párrafo anterior, afecte la adecuada operación del aeródromo civil y constituya una causa de revocación de las previstas en el artículo 27 de esta Ley, la Secretaría, oyendo previamente al afectado, podrá revocar la autorización de dichos contratos. El concesionario o permisionario, en estos casos, deberá asegurar que no se interrumpan los servicios del aeródromo civil.
+Cuando el incumplimiento de los contratos a que se refiere este artículo afecte la adecuada operación del aeródromo civil y constituya una causa de revocación de las previstas en el artículo 27 de esta Ley, la Agencia Federal de Aviación Civil revocará la autorización de dichos contratos, previa garantía de audiencia a la persona afectada. La concesionaria, asignataria o permisionaria, en estos casos, debe asegurar que no se interrumpan los servicios del aeródromo civil.
 
 > <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
 
@@ -616,7 +902,9 @@ Cuando el incumplimiento de los contratos a que se refiere el párrafo anterior,
 
 El concesionario proveerá lo necesario para que el aeropuerto cuente con opciones competitivas de servicios complementarios y base fija de operaciones, el número de estos no podrá ser limitado, salvo por razones de disponibilidad de espacio, eficiencia operativa y seguridad.
 
-En caso de que se niegue la entrada a una empresa que provee servicios complementarios por parte de un concesionario, ésta puede inconformarse ante la Secretaría.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+En caso de que una concesionaria niegue la entrada al aeródromo a una empresa que provee servicios complementarios, ésta puede inconformarse ante la Agencia Federal de Aviación Civil.
 
 La autoridad determinará en un plazo de 60 días si se autoriza la entrada de la empresa proveedora de servicios complementarios y base fija de operaciones.
 
@@ -624,17 +912,21 @@ La autoridad determinará en un plazo de 60 días si se autoriza la entrada de l
 
 Los servicios complementarios no podrán dejar de prestarse. En el caso de aeropuertos donde los concesionarios y permisionarios del servicio de transporte aéreo no los proporcionen, el concesionario del aeropuerto deberá hacerlo, directamente o a través de los terceros que él designe y contrate, hasta en tanto prevalezca dicha situación. Para los demás aeródromos civiles, que no sean aeropuerto, corresponderá a los permisionarios prestar los servicios complementarios, directamente o a través de terceros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 59.
 
-Cuando los aeródromos civiles de servicio particular o las instalaciones de uso particular dentro de un aeropuerto cuenten con capacidad excedente, la Secretaría, con vista en el interés público, podrá disponer que los permisionarios u operadores de las instalaciones de que se trate presten temporalmente servicio al público, conforme a condiciones que no les afecten operativa y financieramente.
+La Agencia Federal de Aviación Civil, para atender una causa de interés público, puede disponer de un aeródromo civil de servicio particular, así como de las instalaciones de uso particular de un aeropuerto, cuando éste cuente con capacidad excedente para prestar temporalmente servicio al público, en condiciones que no afecten operativa y financieramente el funcionamiento del aeródromo.
 
 La disposición estará vigente en tanto subsistan las causas que le dieron origen.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 60.
 
-La prestación de los servicios comerciales no debe constituir un obstáculo para la prestación de los servicios aeroportuarios y complementarios, ni la de éstos respecto a los aeroportuarios; ni poner en peligro la seguridad del aeródromo civil, o la operación de las aeronaves. En caso de que esto ocurra, la Secretaría ordenará las adecuaciones necesarias.
+La prestación de los servicios comerciales no debe constituir un obstáculo para la prestación de los servicios aeroportuarios y complementarios, ni la prestación de éstos respecto de la de los comerciales; ni poner en peligro la seguridad del aeródromo civil, o la operación de las aeronaves. En caso de que esto ocurra, la Agencia Federal de Aviación Civil ordenará las adecuaciones necesarias.
 
-Las áreas que se destinen a la prestación de los servicios comerciales serán descritas en el programa maestro de desarrollo o en el programa indicativo de inversiones, según sea el caso, y para modificarlas se requerirá de autorización previa de la Secretaría.
+Las áreas que se destinen a la prestación de los servicios comerciales se describirán en el programa maestro de desarrollo y en el Programa Indicativo de Inversiones en materia de Construcción, Conservación y Mantenimiento. Para modificar las áreas, se requerirá de autorización previa de la Agencia Federal de Aviación Civil.
 
 ###### ARTICULO 61.
 
@@ -676,67 +968,189 @@ En los aeropuertos el administrador aeroportuario determinará los horarios de a
 
 Las construcciones e instalaciones en los terrenos adyacentes e inmediatos a los aeródromos civiles, dentro de las zonas de protección, estarán sujetas a las restricciones que señalen las disposiciones jurídicas a que se refiere el artículo 41 de esta Ley, a efecto de eliminar obstáculos a las operaciones de las aeronaves.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 65.
 
-Cada aeródromo civil de servicio al público deberá contar con sus propias reglas de operación, conforme a los criterios y lineamientos generales que disponga la Secretaría.
+Cada aeródromo civil de servicio al público debe contar con sus reglas de operación, conforme a los criterios y lineamientos generales que establezca la Agencia Federal de Aviación Civil.
 
-El concesionario o permisionario deberá someter las reglas de operación a la autorización de la Secretaría, escuchando previamente y, en su caso, al comité de operación y horarios.
+La persona concesionaria, asignataria o permisionaria debe someter las reglas de operación a la autorización de la Agencia Federal de Aviación Civil, previa opinión del comité de operación y horarios.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 66.
 
-Para atender necesidades derivadas de caso fortuito o fuerza mayor, la Secretaría estará facultada para imponer modalidades en la operación de los aeródromos civiles y en la prestación de los servicios, sólo por el tiempo y proporción que resulte estrictamente necesario.
+Para atender necesidades derivadas de caso fortuito o fuerza mayor, la Secretaría está facultada para imponer modalidades a la operación de los aeródromos civiles. En relación con la prestación de los servicios, la Agencia Federal de Aviación Civil determinará lo correspondiente en el tiempo y proporción estrictamente necesarios.
 
 ### CAPITULO VIII. De las tarifas y precios
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 67.
 
-La Secretaría podrá establecer bases de regulación tarifaria y de precios para la prestación de los servicios aeroportuarios, y para los arrendamientos y contraprestaciones relacionadas con los contratos que los concesionarios o permisionarios celebren con los prestadores de servicios complementarios, cuando no existan condiciones razonables de competencia, de acuerdo con la opinión de la Comisión Federal de Competencia.
+La Agencia Federal de Aviación Civil, cuando no existan condiciones razonables de competencia, debe establecer bases de regulación tarifaria y de precios para la prestación de los servicios aeroportuarios y para los arrendamientos y contraprestaciones relacionadas con los contratos que las personas concesionarias, asignatarias, operadoras aeroportuarias y permisionarias celebren con las personas prestadoras de servicios complementarios, de acuerdo con la Comisión Federal de Competencia Económica.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 68.
 
-Cuando la Secretaría, por sí o a petición de la parte afectada, considere que los servicios complementarios no reflejan condiciones adecuadas de competencia, solicitará la opinión de la Comisión Federal de Competencia para que, en su caso, se establezca regulación tarifaria o de precios.
+Cuando la Agencia Federal de Aviación Civil, por sí o a petición de la parte afectada, considere que los servicios complementarios no reflejan condiciones adecuadas de competencia, debe solicitar opinión a la Comisión Federal de Competencia Económica para establecer la regulación tarifaria o de precios.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 69.
 
-Las tarifas correspondientes a los servicios aeroportuarios y complementarios en los aeródromos civiles de servicio al público, deberán registrarse ante la Secretaría de manera previa al inicio de su vigencia, y deberán hacerse del conocimiento de los usuarios.
+Las tarifas correspondientes a los servicios aeroportuarios y complementarios en los aeródromos civiles de servicio al público deben registrarse ante la Agencia Federal de Aviación Civil de manera previa al inicio de su vigencia, y hacerse del conocimiento de los usuarios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 70.
 
-La regulación tarifaria o de precios que llegue a aplicarse, se mantendrá sólo mientras subsistan las condiciones que la motivaron. Los prestadores de servicios sujetos a regulación podrán solicitar a la Comisión Federal de Competencia que emita su opinión sobre la subsistencia de tales condiciones.
+La regulación tarifaria o de precios que llegue a aplicarse se mantendrá mientras subsistan las condiciones que la hayan motivado. Las personas prestadoras de servicios sujetas a regulación deben solicitar a la Comisión Federal de Competencia Económica su opinión sobre la subsistencia de tales condiciones.
 
 En la regulación se podrán establecer tarifas y precios máximos por el uso de bienes o la prestación de servicios específicos o conjuntos de éstos, así como mecanismos de ajuste y períodos de vigencia. Esta regulación deberá permitir la prestación de los servicios y la explotación de los bienes en condiciones satisfactorias de calidad, competitividad y permanencia.
 
 ### CAPITULO IX. De la seguridad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 71.
 
-La vigilancia interna en los aeródromos civiles será responsabilidad del concesionario o permisionario y se prestará conforme a las disposiciones legales aplicables en la materia y a los lineamientos que al efecto establezca la Secretaría, la cual podrá contar con un cuerpo encargado de verificar que la seguridad y vigilancia en los mismos se lleve a cabo conforme a las disposiciones establecidas.
+La vigilancia interna en los aeródromos civiles es responsabilidad de la concesionaria, asignataria, operadora aeroportuaria o permisionaria y se prestará conforme a las disposiciones legales aplicables en la materia y a los lineamientos que al efecto establezca la Agencia Federal de Aviación Civil, la cual contará con un cuerpo encargado de verificar que la seguridad y vigilancia se lleve a cabo conforme a las disposiciones aplicables.
 
 En situaciones de emergencia o cuando se ponga en peligro la paz interior o la seguridad nacional, las autoridades federales competentes prestarán en forma directa la vigilancia para preservar la seguridad de las aeronaves, pasajeros, carga, correo, instalaciones y equipo.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 72.
 
-Los concesionarios y permisionarios deberán poner en práctica programas de emergencia y contingencia, colaborar en los dispositivos de seguridad en las operaciones aeroportuarias, y mantener los equipos de rescate y extinción de incendios en óptimas condiciones de operación. Asimismo, deberán hacer del conocimiento de la autoridad aeroportuaria cualquier situación técnica y operativa, relevante o emergente, en materia de seguridad.
+Las personas concesionarias, asignatarias, operadoras aeroportuarias y permisionarias deben elaborar, implementar y mantener actualizado un programa local de seguridad aeroportuaria para cada aeródromo, así como colaborar en los dispositivos de seguridad en las operaciones aeroportuarias, y mantener los equipos de rescate y extinción de incendios en óptimas condiciones de operación. Asimismo, deben hacer del conocimiento de la Agencia Federal de Aviación Civil cualquier situación técnica y operativa, relevante o emergente, en materia de seguridad.
 
 ###### ARTICULO 73.
 
 A nivel nacional deberá existir un comité de seguridad aeroportuaria integrado de conformidad con el reglamento respectivo, que será el encargado de emitir el programa nacional de seguridad aeroportuaria conforme a los lineamientos que señale la Secretaría.
 
-En los aeropuertos deberán funcionar comités locales de seguridad, presididos por un representante de la Secretaría, que emitirán los programas de seguridad correspondientes, previa opinión del comité de seguridad aeroportuaria. Estos deberán autorizarse por la Secretaría para su entrada en vigor.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+En los aeropuertos deben funcionar comités locales de seguridad, presididos por la persona comandante aeroportuaria de la Agencia Federal de Aviación Civil. Estos comités deben emitir los programas de seguridad correspondientes, previa opinión del comité de seguridad aeroportuaria. Dichos programas, en su caso, deben autorizarse por la Secretaría a través de la Agencia Federal de Aviación Civil para su entrada en vigor.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 3 DE MAYO DE 2023)</small>
+
+### CAPITULO IX BIS. De la Seguridad de la Aviación Civil
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 73 BIS. La Agencia Federal de Aviación Civil tiene como un objetivo primordial la seguridad de las personas usuarias, de las tripulaciones, de las personas que prestan servicios en tierra y de todas las personas dentro de los aeródromos civiles contra los actos siguientes:
+
+I. Apoderamiento ilícito de aeronaves;
+
+II. Destrucción de una aeronave en servicio;
+
+III. Toma de rehenes a bordo de aeronaves o en los aeródromos;
+
+IV. Intrusión por la fuerza en una aeronave, en un aeropuerto o en el recinto de una instalación aeronáutica;
+
+V. Introducción, a bordo de una aeronave o en un aeropuerto, de armas, artefactos o sustancias peligrosas, sin la autorización correspondiente;
+
+VI. El uso de una aeronave en servicio que cause la muerte, lesiones corporales graves o daños graves a los bienes o al medio ambiente, y
+
+VII. Comunicación de información falsa que comprometa la seguridad de una aeronave en vuelo, o en tierra, o la seguridad de las personas pasajeras, tripulación, personal de tierra y público en un aeropuerto o en el recinto de una instalación de aviación civil.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 73 TER. La Agencia Federal de Aviación Civil debe normar o prohibir el acceso a la zona de seguridad restringida de materiales, sustancias y objetos peligrosos, así como de armas, municiones y explosivos, sin perjuicio de las atribuciones conferidas a otras dependencias de la Administración Pública Federal y de lo dispuesto por los tratados internacionales celebrados y ratificados por el Estado mexicano.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 73 QUATER. La Agencia Federal de Aviación Civil debe vigilar que las personas encargadas de realizar las verificaciones, pruebas e inspecciones de la seguridad de la aviación civil reciban la capacitación adecuada para esas funciones, de conformidad con las disposiciones técnico-administrativas correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 73 QUINQUIES. La Secretaría debe coordinar el Comité Nacional de Seguridad de la Aviación Civil, grupos de trabajo o similares, para que a través de la Agencia Federal de Aviación Civil ejecute sus funciones, de conformidad con las disposiciones aplicables. El funcionamiento del Comité debe establecerse en el Reglamento de esta Ley, así como en el Programa de Seguridad de la Aviación Civil del Estado mexicano.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 73 SEXIES. Las personas concesionarias, asignatarias, operadoras aeroportuarias y permisionarias de aeródromos civiles deben establecer, aplicar y mantener actualizado un programa local de seguridad, que cumpla con los requisitos del Programa de Seguridad de la Aviación Civil del Estado mexicano, aprobado por la Agencia Federal de Aviación Civil.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 73 SEPTIES. Las personas concesionarias, asignatarias, operadoras aeroportuarias y permisionarias de los aeródromos civiles deben elaborar, mantener y ejecutar un programa de instrucción en seguridad de la aviación civil, de conformidad con el Programa General de Instrucción en Seguridad de la Aviación Civil, aprobado por la Agencia Federal de Aviación Civil.
+
+Las personas concesionarias, permisionarias, asignatarias y operadoras aeroportuarias de aeródromos civiles que realicen operaciones de servicio al público, deben asegurar que todos los programas de instrucción en seguridad de la aviación civil para el personal que aplica controles de seguridad comprendan la evaluación de las competencias y habilidades que deben adquirirse y el proceso de certificación establecido por la Agencia Federal de Aviación Civil.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 73 OCTIES. La Agencia Federal de Aviación Civil debe establecer un sistema de certificación que asegure que las personas instructoras en seguridad de la aviación civil, así como las que aplican los controles de seguridad, estén calificadas en las competencias y habilidades requeridas por las disposiciones técnico-administrativas correspondientes.
+
+Las personas concesionarias, permisionarias, asignatarias y operadoras aeroportuarias de aeródromos civiles deben asegurarse que las personas que implementen los controles de seguridad estén certificadas, de conformidad con los requisitos del sistema de certificación establecido por la Agencia Federal de Aviación Civil.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 73 NONIES. Corresponde a la Agencia Federal de Aviación Civil la elaboración, implementación, y mantenimiento del Programa General de Control de Calidad de la Seguridad de la Aviación Civil, previa autorización de la persona titular de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 73 DECIES. Queda a cargo de las personas prestadoras de servicios de tránsito aéreo el establecimiento y aplicación de un Programa de Seguridad de Aviación Civil que apruebe la Agencia Federal de Aviación Civil.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 73 UNDECIES. La Agencia Federal de Aviación Civil debe vigilar y verificar que se establezcan procedimientos para el tratamiento del equipaje no identificado y los objetos sospechosos, de conformidad con la evaluación de riesgos de seguridad que hagan las autoridades competentes.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 73 DUODECIES. La Agencia Federal de Aviación Civil debe vigilar que las personas concesionarias, asignatarias, operadoras aeroportuarias y permisionarias de aeródromos civiles que realicen operaciones de servicio al público, identifiquen sus sistemas de tecnología de la información y las comunicaciones y datos críticos que empleen para los fines de la aviación civil, y en función de la evaluación de riesgos, elaboren y lleven a la práctica las medidas que correspondan para protegerlos de interferencia ilícita.
+
+[…] (sic)
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 73 TERDECIES. Las personas concesionarias, asignatarias, permisionarias operadoras de aeródromos civiles, que realicen operaciones de servicio al público y proveedoras de servicios, deben evaluar permanentemente el grado y la naturaleza de amenazas para la aviación civil en el territorio y espacio aéreo nacionales, así como establecer y aplicar políticas y procedimientos internos para ajustar los aspectos pertinentes de sus programas locales de seguridad aeroportuaria, basados en una evaluación de riesgos de seguridad de la aviación. Estas acciones deben realizarlas junto con la Agencia Federal de Aviación Civil y demás autoridades competentes.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 73 QUATERDECIES. Compete a la Agencia Federal de Aviación Civil establecer y emitir mediante las disposiciones técnico-administrativas, los requisitos mínimos de las medidas de seguridad de los aeródromos civiles que se requieran para:
+
+I. La construcción de nuevas instalaciones, y
+
+II. Las modificaciones de las instalaciones existentes.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 73 QUINQUIESDECIES. Las personas concesionarias, asignatarias, operadoras aeroportuarias y permisionarias deben establecer medidas que aseguren la inspección a las personas pasajeras y al equipaje de mano, antes de que éstos se embarquen en una aeronave, en las operaciones de transporte aéreo comercial.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 73 SEXIESDECIES. Las personas concesionarias, asignatarias, permisionarias y operadoras aeroportuarias de aeródromos civiles deben establecer medidas que aseguren la inspección del equipaje facturado en las operaciones de transporte aéreo comercial antes de embarcarlo a una aeronave. Asimismo, deben disponer de métodos o mecanismos que permitan el uso aleatorio y la imprevisibilidad de la aplicación de medidas de seguridad de la aviación civil.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 73 SEPTDECIES. Las personas concesionarias, asignatarias, permisionarias y operadoras aeroportuarias deben contar con infraestructura que permita un tratamiento agilizado de pasajeros, tripulación, equipaje, carga y correo; lo anterior, de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 73 OCTODECIES. Las personas concesionarias, asignatarias y operadoras aeroportuarias de aeropuertos internacionales deben contar con infraestructura suficiente para que se proporcionen servicios eficaces de despacho fronterizo, en lo referente a aduanas, inmigración, cuarentena y sanidad humana, animal y vegetal.
+
+Las personas concesionarias, asignatarias y operadoras aeroportuarias deben contar con que la infraestructura aeroportuaria y los servicios que se proporcionen en los aeropuertos internacionales sean flexibles y susceptibles de ampliación, para responder al crecimiento del tráfico, a un mayor número de medidas de seguridad ante el incremento de amenazas, así como a otras situaciones referentes a la integridad fronteriza.
 
 ### CAPITULO X. De la protección al ambiente
 
-### CAPITULO XI. Del Registro Aeronáutico Mexicano
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 74.
 
-En los aeródromos civiles los concesionarios y permisionarios deberán observar las disposiciones aplicables en materia de protección al ambiente; particularmente en lo que les corresponda respecto a la atenuación del ruido y al control efectivo de la contaminación del aire, agua y suelo, tanto en sus instalaciones, como en su zona de protección.
+En los aeródromos civiles las personas concesionarias, asignatarias y operadoras aeroportuarias deben cumplir con las normas oficiales mexicanas y con las disposiciones técnico-administrativas aplicables en materia de protección al medio ambiente, particularmente respecto de la gestión del impacto acústico causado por las aeronaves en las zonas aledañas a los aeropuertos y del control efectivo de la contaminación del aire, agua y suelo, tanto en sus instalaciones, como en su zona de protección.
 
-### CAPITULO XII. Del seguro
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+La Agencia Federal de Aviación Civil propondrá a la Secretaría, y esta celebrará convenios o acuerdos de coordinación con otras dependencias para promover la gestión de medidas para reducir el impacto acústico producido por las aeronaves en las zonas aledañas a los aeropuertos.
+
+### CAPITULO XI. Del Registro Aeronáutico Mexicano
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 75.
 
-Se inscribirán en el Registro Aeronáutico Mexicano:
+En el Registro Aeronáutico Mexicano se debe inscribir lo siguiente:
 
 I. Los documentos por medio de los cuales se adquiera, transmita, ceda, modifique, grave o extinga la propiedad y los demás derechos reales sobre los aeródromos civiles;
 
@@ -744,23 +1158,25 @@ II. Las concesiones y permisos, sus modificaciones y revocaciones;
 
 III. Las ayudas a la navegación aérea;
 
-IV. Los contratos que autorice la Secretaría de conformidad con el artículo 56 de esta Ley, y
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+IV. Los contratos que autorice la Agencia Federal de Aviación Civil de conformidad con el artículo 56 de esta Ley, y
 
 V. Las pólizas de seguro.
 
 El reglamento respectivo determinará los requisitos a que deberán sujetarse las inscripciones, cancelaciones y certificaciones que deban expedirse.
 
-### CAPITULO XIII. De la requisa
+### CAPITULO XII. Del seguro
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 76.
 
-Los concesionarios y permisionarios de aeródromos de servicio al público, así como los prestadores de servicios, serán responsables por los daños ocasionados, que resulten por causas que les sean imputables, por lo que deberán contar con seguro que cubra las indemnizaciones correspondientes.
+Las personas concesionarias, asignatarias, permisionarias y operadoras aeroportuarias de aeródromos de servicio al público, así como las personas prestadoras de servicios, son responsables por los daños ocasionados que resulten por causas que les sean imputables, por lo que deben contar con una póliza de seguro de responsabilidad civil que cubra las indemnizaciones correspondientes, así como una póliza empresarial o multiempresarial que cubra los daños causados por desastres naturales, según corresponda.
 
-El contrato de seguro deberá ser registrado ante la Secretaría y estar vigente por los plazos de duración de la concesión o permiso y sus prórrogas.
+Las pólizas de seguro deben ser registradas ante la Agencia Federal de Aviación Civil y estar vigentes durante todo el tiempo.
 
-### CAPÍTULO XIV. De la verificación y la certificación de aeropuertos
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE JUNIO DE 2018)</small>
+### CAPITULO XIII. De la requisa
 
 ###### ARTICULO 77.
 
@@ -770,13 +1186,17 @@ El Gobierno Federal, salvo en el caso de guerra o conflicto armado internacional
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-### CAPITULO XV. De las sanciones
+### CAPÍTULO XIV. De la verificación y la certificación de aeropuertos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 78.
 
-La Secretaría verificará el cumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables de conformidad con los programas de verificación y certificación que para tal efecto se establezcan.
+A la Secretaría y a la Agencia Federal de Aviación Civil les compete vigilar el cumplimiento de esta Ley, sus reglamentos, las disposiciones técnico-administrativas y demás normas jurídicas aplicables en términos de los artículos 6 y 6 BIS de esta Ley. La Agencia Federal de Aviación Civil debe implementar y cumplir con los programas de verificación y certificación que se establezcan.
 
-Los concesionarios o permisionarios y, en su caso, los prestadores de servicios, estarán obligados a permitir el acceso a los verificadores de la Secretaría a sus instalaciones, a transportarlos en sus equipos para que realicen la verificación en términos de la presente Ley y, en general, a otorgarles todas las facilidades para estos fines, así como a proporcionar a la misma los informes con los datos que permitan conocer la construcción, administración, operación y explotación de los aeródromos civiles, y demás servicios relacionados.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Las personas concesionarias, permisionarias, asignatarias u operadoras aeroportuarias y las que presten servicios están obligadas a permitir el acceso a sus instalaciones de los inspectores verificadores de la Agencia Federal de Aviación Civil, así como a transportarlos en sus equipos y, en general, a otorgarles todas las facilidades que se necesiten para cumplir con las inspecciones y verificaciones previstas en la presente Ley, en los reglamentos que deriven de ésta y en las disposiciones técnico-administrativas aplicables, así como a proporcionarles informes con datos que permitan conocer la construcción, administración, operación y explotación de los aeródromos civiles y demás servicios relacionados.
 
 Las personas sujetas a verificación, cubrirán las cuotas que por este concepto se originen.
 
@@ -784,35 +1204,41 @@ Las personas sujetas a verificación, cubrirán las cuotas que por este concepto
 
 ARTICULO 78 BIS. Los concesionarios o permisionarios de aeródromos de servicio al público, deberán obtener la certificación de los mismos, de conformidad con esta Ley, sus reglamentos y las disposiciones nacionales e internacionales en esta materia.
 
-> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 79.
 
-Los dictámenes técnicos de las unidades de verificación establecidas por terceros, tendrán validez cuando dichas unidades hayan sido previamente autorizadas por la Secretaría, en términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización.
+Los dictámenes técnicos de las unidades de inspección operadas por terceros tendrán validez cuando dichas unidades hayan sido previamente autorizadas por la Agencia Federal de Aviación Civil, en términos de la Ley de Infraestructura de la Calidad.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 80.
 
-Si el concesionario o permisionario de un aeródromo de servicio al público no cumple con las condiciones de seguridad y operación contenidas en las disposiciones aplicables, la Secretaría podrá nombrar un verificador especial por el tiempo que resulte necesario para corregir las irregularidades de que se trate.
+Si la persona concesionaria, asignataria, permisionaria u operadora aeroportuaria de un aeródromo de servicio al público no cumple con las condiciones de seguridad y operación contenidas en las disposiciones aplicables, la Agencia Federal de Aviación Civil debe comisionar a una persona inspectora verificadora por el tiempo que resulte necesario, para que corrija las irregularidades detectadas.
+
+### CAPITULO XV. De las sanciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 81.
 
-Las infracciones a lo dispuesto en la presente Ley, serán sancionadas por la Secretaría de acuerdo con lo siguiente:
+La Agencia Federal de Aviación Civil impondrá las sanciones que correspondan cuando se cometan las infracciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-I. No cumplir con las condiciones de construcción, operación, certificación y explotación de aeródromos civiles, con multa de cinco mil a ciento veinte mil Unidades de Medida y Actualización;
+I. Incumplir con las condiciones de construcción, operación, certificación y explotación de aeródromos civiles, con multa de cinco mil a ciento veinte mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 3 DE MAYO DE 2023)</small>
 
 II. Construir u operar un aeródromo civil sin la concesión o permiso correspondiente, con multa de cinco mil a doscientas mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-III. Ceder los derechos y obligaciones de la concesión o permiso en contravención a lo dispuesto en esta Ley, con multa de cinco mil a doscientas mil Unidades de Medida y Actualización;
+III. Ceder los derechos y obligaciones de la concesión o permiso, en contravención a lo dispuesto en esta Ley, con multa de cinco mil a doscientas mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-IV. No hacer del conocimiento de la Secretaría de manera negligente, los accidentes o incidentes ocurridos en los aeródromos, relativos a la seguridad de sus operaciones, salvo causa de fuerza mayor, con multa de mil a cincuenta mil Unidades de Medida y Actualización;
+IV. No hacer del conocimiento de la Agencia Federal de Aviación Civil los accidentes o incidentes ocurridos en los aeródromos, relativos a la seguridad de sus operaciones, salvo causa de fuerza mayor, con multa de mil a cincuenta mil Unidades de Medida y Actualización;
 
 > <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
@@ -830,9 +1256,9 @@ VII. Aplicar tarifas y precios que excedan a los registrados o, en su caso, suje
 
 VIII. No prestar los servicios en la forma en que fueron ofrecidos, con multa de mil a cincuenta mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-IX. No dar aviso a la Secretaría de las modificaciones realizadas a estatutos, con multa de mil a cinco mil Unidades de Medida y Actualización;
+IX. No dar aviso a la Agencia Federal de Aviación Civil de las modificaciones realizadas a estatutos, con multa de mil a cinco mil Unidades de Medida y Actualización;
 
 > <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
@@ -858,35 +1284,47 @@ XIV. Interrumpir, total o parcialmente, la operación del aeródromo civil o la 
 
 XV. No cumplir con las obligaciones de conservación y mantenimiento del aeródromo civil, con multa de mil a treinta mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-XVI. No cubrir oportunamente las indemnizaciones por daños que se originen con motivo de la prestación de los servicios, con multa de mil a cinco mil Unidades de Medida y Actualización, y
+XVI. No cubrir oportunamente las indemnizaciones por daños que se originen con motivo de la prestación de los servicios, con multa de mil a cinco mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-XVII. Ejecutar u omitir actos que impidan o tiendan a impedir la actuación de otros prestadores de servicios que tengan derecho a ello, así como la de autoridades que ejerzan atribuciones dentro del aeródromo civil, con multa de cinco mil a doscientas mil Unidades de Medida y Actualización.
+XVII. Ejecutar u omitir actos que impidan o tiendan a impedir la actuación de otras personas prestadoras de servicios que tengan derecho a ello, así como la de autoridades que ejerzan atribuciones dentro del aeródromo civil, con multa de cinco mil a doscientas mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
-Cualquier otra infracción a esta Ley o a sus reglamentos que no esté expresamente prevista en este capítulo, será sancionada por la Secretaría con multa de hasta cincuenta mil Unidades de Medida y Actualización.
+XVIII. Las personas permisionarias de servicios generales que no cumplan con los compromisos establecidos en el programa de inversiones de su respectivo Programa Indicativo de Inversiones, con multa de veinte mil a cincuenta mil Unidades de Medida y Actualización, y
 
-En caso de reincidencia, la Secretaría podrá imponer una sanción equivalente hasta por el doble de la cuantía señalada.
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+XIX. Las personas concesionarias, asignatarias y operadoras aeroportuarias, que no cumplan con los compromisos establecidos en el programa de inversiones de su respectivo programa maestro de desarrollo, con multa de veinte mil a cincuenta mil Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+Cualquier otra infracción a esta Ley o a sus reglamentos que no esté expresamente prevista en este capítulo, será sancionada por la Secretaría o la Agencia Federal de Aviación Civil, según corresponda, con multa de hasta cincuenta mil Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+En caso de reincidencia, la Agencia Federal de Aviación Civil puede imponer una sanción equivalente hasta por el doble de la cuantía señalada.
 
 > <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
 
 Para los efectos del presente capítulo, se entiende por Unidad de Medida y Actualización, la que será utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, publicada en el Diario Oficial de la Federación, al momento de cometerse la infracción.
 
-> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 82.
 
-En el caso de terceros autorizados por esta Secretaría para llevar a cabo verificaciones técnicas en los términos de esta Ley, se les aplicará por violación a las condiciones que se establezcan en las autorizaciones respectivas, multa hasta de cincuenta mil Unidades de Medida y Actualización.
+En el caso de personas terceras autorizadas por la Agencia Federal de Aviación Civil para llevar a cabo verificaciones técnicas en los términos de la presente Ley, se les aplicará por violación a las condiciones que se establezcan en las autorizaciones respectivas, multa hasta de cincuenta mil Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 83.
 
-Cuando sin haber previamente obtenido concesión o permiso, se construyan u operen aeródromos civiles, la Secretaría podrá solicitar a las autoridades competentes el desalojo de los infractores y, en su caso, que se realice a cargo de los mismos, la demolición de las obras y la reparación de los daños causados.
+Cuando, sin haber obtenido previamente concesión o permiso, se construyan u operen aeródromos civiles, la Agencia Federal de Aviación Civil debe requerir a las autoridades competentes el desalojo de los infractores y, en su caso, que se realice a cargo de los mismos, la demolición de las obras y la reparación de los daños causados.
 
-Una vez que la Secretaría tenga conocimiento de lo anterior, y en tanto se dicta la resolución definitiva, solicitará a la autoridad correspondiente el aseguramiento de las obras ejecutadas y de las instalaciones establecidas.
+Una vez que la Agencia Federal de Aviación Civil tenga conocimiento de lo anterior, y en tanto se dicta la resolución definitiva, solicitará a la autoridad correspondiente el aseguramiento de las obras ejecutadas y de las instalaciones establecidas.
 
 ###### ARTICULO 84.
 
@@ -1035,3 +1473,51 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, DE LA LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS, DE LA LEY DE AEROPUERTOS Y DE LA LEY DE AVIACIÓN CIVIL, EN MATERIA DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+Tercero. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+Cuarto. A partir de la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, que se realice al personal “Diplomado de Estado Mayor” y “Diplomado de Estado Mayor Aéreo”, se entenderán hechas al personal “De Estado Mayor”.
+
+Quinto. A la entrada en vigor del presente Decreto, la designación del personal “Diplomado de Estado Mayor” y “Diplomado de Estado Mayor Aéreo”, será reconocida plenamente en igualdad de circunstancias que el “De Estado Mayor”.
+
+Sexto. Los documentos expedidos al personal “Diplomado de Estado Mayor” y “Diplomado de Estado Mayor Aéreo”, mantendrán su validez y vigencia, por lo que no será necesaria su reexpedición como “De Estado Mayor”.
+
+Séptimo. A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto del Cuartel General Superior del Ejército y Fuerza Aérea, del Estado Mayor Aéreo, del Servicio de Control de Vuelo y del Servicio de Material Aéreo, se entenderán referidas al Cuartel General Superior Conjunto del Ejército y Fuerza Aérea, al Estado Mayor de la Fuerza Aérea, al Servicio de Defensa Aérea y al Servicio de Mantenimiento de Material Aéreo, respectivamente.
+
+D.O.F. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE AEROPUERTOS Y DE LA LEY DE AVIACIÓN CIVIL".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La persona titular del Ejecutivo Federal contará con un plazo máximo de 180 días hábiles, contados a partir de la publicación del presente Decreto, para modificar y expedir los reglamentos respectivos.
+
+La Secretaría de Infraestructura, Comunicaciones y Transportes contará con un plazo máximo de 180 días hábiles, contados a partir de la publicación del presente Decreto, para expedir las disposiciones administrativas correspondientes.
+
+Tercero. Las disposiciones reglamentarias y administrativas vigentes a la entrada en vigor del presente Decreto, que no se opongan a este continuarán aplicándose hasta en tanto se emitan aquellas que las sustituyan.
+
+Cuarto. La Agencia Federal de Aviación Civil implementará de manera progresiva las fases para la ejecución de los procesos y procedimientos relacionados con el Sistema de Medicina de Aviación Civil conforme a los recursos que le correspondan dentro del presupuesto aprobado, por lo que no se aprobarán recursos adicionales en el presente ejercicio.
+
+Quinto. Las Constancias de Aptitud Psicofísica emitidas antes de la entrada en vigor del presente decreto por la Dirección General de Protección y Medicina Preventiva en el Transporte al personal técnico-aeronáutico y los aspirantes a serlo, conservarán la vigencia establecida en los mismos.
+
+Sexto. Las atribuciones establecidas en el artículo 6 Bis, fracciones XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXIII, XXXIV y XXXV de la Ley de Aviación Civil, del presente Decreto las ejercerá la Dirección General de Protección y Medicina Preventiva en el Transporte, hasta en tanto la Agencia Federal de Aviación Civil le comunique a dicha Dirección General que está en aptitud de asumirlas.
+
+Séptimo. Los trámites pendientes por resolver ante la Dirección General de Protección y Medicina Preventiva en el Transporte, respecto del personal técnico-aeronáutico, antes de la entrada en vigor del presente Decreto, deberán concluirse conforme a las disposiciones vigentes al momento de su solicitud.
+
+Octavo. Los trámites que se encuentren pendientes de resolución a la fecha de entrada en vigor del presente Decreto, se concluirán conforme a las disposiciones jurídicas vigentes al momento de su solicitud.
+
+Noveno. Los recursos humanos, financieros y materiales con los que cuenta la Secretaría de Infraestructura, Comunicaciones y Transportes que sean necesarios para el cumplimiento del presente Decreto serán transferidos a la Agencia Federal de Aviación Civil.
+
+Las erogaciones que se generen con motivo de la transferencia deberán efectuarse con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+Los ejecutores de gasto, por conducto de sus unidades responsables, deberán realizar el proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerán y acordarán lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la Administración Pública Federal.
+
+Los derechos de los trabajadores serán respetados conforme a la normativa aplicable.
