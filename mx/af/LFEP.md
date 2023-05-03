@@ -4,7 +4,7 @@ identifier: "LFEP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1986-05-14"
-last_updated: "2023-01-19"
+last_updated: "2023-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFEP"
 
 LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -604,6 +604,14 @@ XIII. Suscribir, en su caso, los contratos colectivos e individuales que regulen
 
 XIV. Las que señalen las otras Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones administrativas aplicables con las únicas salvedades a que se contrae este ordenamiento.
 
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+ARTICULO 59 BIS.- La persona titular del Ejecutivo Federal puede asignar directamente a entidades paraestatales la prestación de servicios públicos, así como el uso, aprovechamiento y explotación de bienes sujetos al régimen de dominio público de la Federación, por causas de utilidad e interés públicos, interés general, interés social o de seguridad nacional, cuando no contravenga su objeto social.
+
+Cuando la ley en la materia no regule de manera específica la asignación para la prestación de servicios, esta se regirá, en lo conducente, por las mismas disposiciones que se aplican a las concesiones.
+
+El título de asignación de prestación de servicios públicos, así como el uso y aprovechamiento de bienes sujetos al régimen de dominio público de la Federación a favor de entidades paraestatales tendrá una vigencia indefinida. En ningún caso, la asignación podrá cederse o transferirse a particulares; solo podrá modificarse o cancelarse cuando se acredite fehacientemente la extinción de las causas de utilidad e interés públicos, interés general, interés social o de seguridad nacional que le dieron origen.
+
 ### CAPITULO VI. Del Control y Evaluación
 
 > <small>(REFORMADO, D.O.F. 1 DE MARZO DE 2019)</small>
@@ -1067,3 +1075,11 @@ D.O.F. 19 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12 DE LA LEY FEDERAL DE LAS ENTIDADES PARAESTATALES”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 3o. DE LA LEY DE VÍAS GENERALES DE COMUNICACIÓN, Y SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 10 DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO Y UN ARTÍCULO 59 BIS A LA LEY FEDERAL DE LAS ENTIDADES PARAESTATALES”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se adecuarán y armonizarán las normas que se opongan a la presente reforma y se da un plazo de ciento ochenta días hábiles a partir de su publicación para la adecuación de la normatividad aplicable.
