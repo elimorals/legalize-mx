@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-derechos-del-estado-de-chiapas-116191"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2022-12-14"
+last_updated: "2023-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DE DERECHOS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2023.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de mayo de 2016.
 
@@ -5441,21 +5441,9 @@ Los interesados que soliciten otros servicios prestados por los Poderes Judicial
 
 ### Capítulo XVI. Derechos por los servicios que presta el Archivo General del Estado
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
-
 ###### Artículo 52.
 
-Por los servicios que presta el Archivo General del Estado, se causarán y pagarán, por cada uno, los siguientes derechos:
-
-Servicios Tarifa
-
-I. Por la expedición de copias certificadas
-
-de documentos que obren en el Archivo General
-
-del Estado hasta por 20 hojas. $480.00
-
-Por hoja adicional. $5.00
+(DEROGADO, P.O. 3 DE MAYO DE 2023)
 
 T R A N S I T O R I O S
 
@@ -5542,5 +5530,13 @@ P.O. 14 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 016 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS".]
 
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día primero de enero de dos mil veintitrés.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 185 DECRETO POR EL QUE SE DEROGA EL ARTÍCULO 52 DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
