@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2022-12-27"
+last_updated: "2023-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 27 DE DICIEMBRE DE 2022.
 
@@ -643,17 +643,19 @@ Los extranjeros a los que se les autorice la condición de estancia bajo los sup
 
 No se pagarán derechos por servicios migratorios por el cotejo de documentos para la realización de trámites migratorios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 18-A.
 
-Los ingresos que se obtengan por la recaudación del derecho establecido en la fracción I del artículo 8o. de la presente Ley, por lo que se refiere a los Visitantes sin permiso para realizar actividades remuneradas que ingresen al país con fines turísticos, se destinarán en un 20% al Instituto Nacional de Migración para mejorar los servicios que en materia migratoria proporciona, y el 80% restante se destinará para estudios, proyectos e inversión en infraestructura que determine el Gobierno Federal con objeto de conectar, fortalecer, generar accesibilidad, iniciar o mejorar los destinos turísticos del país, entre otros.
+Los ingresos que se obtengan por la recaudación del derecho establecido en la fracción I del artículo 8o. de la presente Ley, por lo que se refiere a los Visitantes sin permiso para realizar actividades remuneradas que ingresen al país con fines turísticos, se destinarán en un 20% al Instituto Nacional de Migración para mejorar los servicios que en materia migratoria proporciona, y el 80% restante se destinará, en los términos señalados en el párrafo siguiente, para la planeación, estudios, proyectos e inversión en infraestructura a cargo de la entidad paraestatal de la Administración Pública Federal cuyo objeto sea la administración, operación y prestación de servicios aeroportuarios, aeronáuticos, ferroviarios, turísticos, culturales, entre otros de diversa índole, así como para los programas que permitan la ejecución, operación, administración, contratación de bienes y servicios, adquisición de bienes, construcción, mantenimiento, modernización y aprovechamiento de los proyectos y de la infraestructura a cargo de dicha entidad.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+La entidad paraestatal, a que se refiere el párrafo que antecede, aportará los recursos equivalentes al 80% de los ingresos que se obtengan por la recaudación del derecho referido, al fideicomiso público federal sin estructura que constituya dicha entidad, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 Los demás ingresos que se obtengan por la recaudación de los derechos establecidos en esta Sección, serán destinados a programas de modernización, equipamiento e infraestructura para mejorar el control fronterizo en la línea divisoria internacional del sur del país y a mejorar las instalaciones, equipos, mobiliario, sistemas y la calidad integral de los servicios en materia migratoria que presta el Instituto Nacional de Migración.
-
-> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -23930,3 +23932,17 @@ V. Cuando los contribuyentes ejerzan la opción de pagar los derechos por concep
 VI. Para los efectos de lo dispuesto en los artículos 244, 244-A, 244-B, 244-E, 244-E-1, 244-G, 244-H, 244-I y 244-J de la Ley Federal de Derechos, las cuotas previstas en dichas disposiciones no se actualizarán de conformidad con el párrafo cuarto del artículo 1o. de la citada Ley, durante el ejercicio fiscal de 2023.
 
 Los concesionarios de las bandas de frecuencias del espectro radioeléctrico sujetos al pago de los derechos mencionados en el párrafo anterior, deberán pagar durante el ejercicio fiscal de 2023, los derechos vigentes correspondientes al ejercicio fiscal de 2022.
+
+D.O.F. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DERECHOS Y DE LA LEY GENERAL DE TURISMO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo establecido en el transitorio tercero del presente Decreto.
+
+Segundo.- El fideicomiso público federal a que se refiere el segundo párrafo del artículo 18-A de la Ley Federal de Derechos deberá constituirse dentro de los 120 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Tercero.- La derogación de la fracción IV del artículo 43 de la Ley General de Turismo surtirá efectos a partir del 1 de enero de 2024.
+
+Cuarto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables de su aplicación, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos para el presente ejercicio fiscal ni en subsecuentes.
+
+Quinto.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a su contenido, comprendidas en leyes secundarias, reglamentos, acuerdos y cualquier otra de carácter administrativo.
