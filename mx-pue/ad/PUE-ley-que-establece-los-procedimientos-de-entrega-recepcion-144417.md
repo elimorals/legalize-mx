@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-establece-los-procedimientos-de-entrega-recepcion-14441
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-02"
-last_updated: "2020-10-02"
+last_updated: "2023-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE ESTABLECE LOS PROCEDIMIENTOS DE ENTREGA-RECEPCIÓN EN LOS PODERES PÚBLICOS, AYUNTAMIENTOS, ÓRGANOS CONSTITUCIONALMENTE AUTÓNOMOS Y PÚBLICOS PARAESTATALES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2023.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 2 de octubre de 2020.
 
@@ -79,23 +79,61 @@ IV. Archivos: Al conjunto organizado de expresiones documentales físicas o digi
 
 V. Área (s): Aquellas unidades administrativas que integran la estructura orgánica de la Administración Pública Estatal o Municipal, en los Poderes Legislativo o Judicial del Estado, en las Entidades de la Administración Pública Paraestatal, en los organismos constitucionales autónomos, en la Fiscalía General del Estado, así como cualquier otro ente.
 
-VI. Entes Públicos: Los Poderes Legislativo y Judicial del Estado; los organismos constitucionales autónomos, las dependencias y entidades de la Administración Pública Estatal, los Ayuntamientos y sus dependencias y entidades, la Fiscalía General del Estado, los órganos jurisdiccionales que no formen parte de los poderes judiciales, las entidades de la administración pública paraestatal, así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos citados;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2023)</small>
 
-VII. Informe de Asuntos a Cargo: El informe de separación que la o el servidor público debe rendir como parte del Acta Administrativa de Entrega-Recepción al separarse del cargo, empleo, comisión o mandato en el que hace constar las actividades y temas encomendados y atendidos durante su gestión, relacionados con las facultades que le correspondan, así como el estado que guardan los asuntos de su competencia;
+VI. Ayuntamiento electo: Las personas integrantes del Ayuntamiento que tienen la obligación legal de recibir la administración pública municipal mediante el acto de entrega-recepción por parte del Ayuntamiento saliente;
 
-VIII. Órgano interno de Control: Las unidades administrativas encargadas de promover, evaluar y fortalecer el buen funcionamiento del control interno de los Entes Públicos, así como aquellas otras instancias de los órganos constitucionales autónomos y con autonomía técnica y de gestión que, conforme a las leyes correspondientes, sean competentes para aplicar la legislación vigente en el Estado en materia de responsabilidades administrativas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2023)</small>
 
-IX. Recursos: Los recursos humanos, financieros, materiales o de cualquier otro tipo con los que cuentan los entes públicos, para el cumplimiento de sus funciones; o aquellos que tengan asignados los servidores públicos adscritos a las mismas para ejercer sus facultades;
+VII. Ayuntamiento saliente: Las personas integrantes del Ayuntamiento que termina su periodo constitucional y que tienen la obligación legal de entregar la administración pública municipal mediante el acto de entrega-recepción al Ayuntamiento entrante;
 
-X. Servidor Público Entrante: Aquél que legalmente sustituye al sujeto a que se refiere la fracción anterior, o el que haya sido designado para recibir los recursos que se entreguen;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2023)</small>
 
-XI. Servidor Público Saliente: Aquél que concluye su empleo, cargo, comisión o mandato;
+VIII. Comisión de Transición Municipal: Conjunto de personas designadas formalmente por el Ayuntamiento electo y personas servidoras públicas del Ayuntamiento saliente, que con el carácter de comisionados o comisionadas, tienen el propósito de establecer las condiciones de la entrega-recepción;
 
-XII. Testigo: A la o el servidor público que da testimonio de la realización del acto de entrega-recepción;
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VI], P.O. 3 DE MAYO DE 2023)</small>
 
-XIII. Validar: A la acción que la o el servidor público entrante realiza con el objeto de hacer constar que la información vertida en el Acta, respecto lo que se recibe, es veraz, y,
+IX. Entes Públicos: Los Poderes Legislativo y Judicial del Estado; los organismos constitucionales autónomos, las dependencias y entidades de la Administración Pública Estatal, los Ayuntamientos y sus dependencias y entidades, la Fiscalía General del Estado, los órganos jurisdiccionales que no formen parte de los poderes judiciales, las entidades de la administración pública paraestatal, así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos citados;
 
-XIV. Verificar: A la acción que la o el servidor púbico entrante realiza con el objeto de hacer constar que realmente recibió aquello que le debió haber sido entregado.
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VII], P.O. 3 DE MAYO DE 2023)</small>
+
+X. Informe de Asuntos a Cargo: El informe de separación que la o el servidor público debe rendir como parte del Acta Administrativa de Entrega-Recepción al separarse del cargo, empleo, comisión o mandato en el que hace constar las actividades y temas encomendados y atendidos durante su gestión, relacionados con las facultades que le correspondan, así como el estado que guardan los asuntos de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2023)</small>
+
+XI. Minuta de trabajo: Registro de las reuniones de la Comisión de Transición Municipal que estarán a cargo de la persona Titular de la Secretaría del Ayuntamiento saliente y/o persona servidora pública designada por la o el Presidente Municipal saliente;
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VIII], P.O. 3 DE MAYO DE 2023)</small>
+
+XII. Órgano Interno de Control: Las unidades administrativas encargadas de promover, evaluar y fortalecer el buen funcionamiento del control interno de los Entes Públicos, así como aquellas otras instancias de los órganos constitucionales autónomos y con autonomía técnica y de gestión que, conforme a las leyes correspondientes, sean competentes para aplicar la legislación vigente en el Estado en materia de responsabilidades administrativas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2023)</small>
+
+XIII. Periodo de Transición municipal: intervalo de tiempo en el que transcurren los actos preparatorios para establecer la forma en que se llevará a cabo el acto de entrega-recepción del Ayuntamiento saliente;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN IX], P.O. 3 DE MAYO DE 2023)</small>
+
+XIV. Recursos: Los recursos humanos, financieros, materiales o de cualquier otro tipo con los que cuentan los entes públicos, para el cumplimiento de sus funciones; o aquellos que tengan asignados los servidores públicos adscritos a las mismas para ejercer sus facultades;
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN X], P.O. 3 DE MAYO DE 2023)</small>
+
+XV. Servidor Público Entrante: Aquél que legalmente sustituye al sujeto a que se refiere la fracción anterior, o el que haya sido designado para recibir los recursos que se entreguen;
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XI], P.O. 3 DE MAYO DE 2023)</small>
+
+XVI. Servidor Público Saliente: Aquél que concluye su empleo, cargo, comisión o mandato;
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XII], P.O. 3 DE MAYO DE 2023)</small>
+
+XVII. Testigo: A la o el servidor público que da testimonio de la realización del acto de entrega-recepción;
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XIII], P.O. 3 DE MAYO DE 2023)</small>
+
+XVIII. Validar: A la acción que la o el servidor público entrante realiza con el objeto de hacer constar que la información vertida en el Acta, respecto lo que se recibe, es veraz, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XIV], P.O. 3 DE MAYO DE 2023)</small>
+
+XIX. Verificar: A la acción que la o el servidor púbico entrante realiza con el objeto de hacer constar que realmente recibió aquello que le debió haber sido entregado.
 
 ## TÍTULO SEGUNDO. DEL ACTO DE ENTREGA-RECEPCIÓN
 
@@ -115,6 +153,10 @@ Los Sujetos Obligados, al término de su empleo, cargo, comisión o mandato, deb
 
 El órgano interno de control o instancia homóloga, en el ámbito de su competencia, será el responsable de vigilar los Actos de Entrega-Recepción con la finalidad de dar certeza que el cumplimiento de esta obligación se realice de manera ordenada, eficiente, transparente, confiable y oportuna.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2023)</small>
+
+En el caso de los Ayuntamientos, el Órgano Interno de Control vigilará además los actos que se lleven a cabo en el Periodo de Transición municipal.
+
 ###### ARTÍCULO 6.
 
 En el acto de entrega-recepción intervendrán:
@@ -128,6 +170,12 @@ III. Dos testigos, una o un servidor público nombrado por el servidor público 
 IV. Una o un representante del órgano interno de control o instancia homóloga, y
 
 V. Las Comisiones que nombren los servidores públicos saliente y entrante, para asistirles en el acto de entrega-recepción, según corresponda.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2023)</small>
+
+###### ARTÍCULO 6 Bis.
+
+En el Periodo de Transición Municipal únicamente intervendrán las personas integrantes de la Comisión de Transición municipal así como el Órgano Interno de Control del Ayuntamiento.
 
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN DEL ACTA ENTREGA-RECEPCIÓN
 
@@ -261,6 +309,18 @@ En el acto de entrega-recepción, deberá estar presente una o un representante 
 
 La entrega-recepción no podrá dejar de realizarse por ningún motivo y bajo ninguna circunstancia, siendo causal de responsabilidad de las Comisiones el no llevarla a cabo en tiempo y forma.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2023)</small>
+
+###### ARTÍCULO 16 Bis.
+
+Para el caso de los Ayuntamientos, se conformará la Comisión de Transición Municipal, cuarenta y cinco días antes de la toma de protesta constitucional del Ayuntamiento electo, a efecto de iniciar el procedimiento de transición para comenzar el proceso de entrega-recepción, sin perjuicio de lo dispuesto en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2023)</small>
+
+###### ARTÍCULO 16 Ter.
+
+Las minutas de trabajo se distribuirán entre las personas integrantes de la Comisión de Transición Municipal, quedando un tanto en la Secretaría del Ayuntamiento para su consulta.
+
 ###### ARTÍCULO 17.
 
 Además de la documentación a la que se refieren los artículos 7 y 9 de la presente Ley, el Ayuntamiento saliente, deberá entregar al Ayuntamiento entrante lo siguiente:
@@ -306,6 +366,10 @@ Al término del plazo a que se refiere el párrafo anterior, y de existir incons
 Una vez subsanadas las observaciones correspondientes; el Ayuntamiento emitirá un acuerdo, mismo que no exime de responsabilidad a las y los integrantes y servidores públicos del Ayuntamiento saliente.
 
 El Ayuntamiento electo, dentro de los dos días hábiles siguientes, deberá remitir copia del expediente de entrega-recepción, a la Auditoría Superior del Estado, para efecto de la revisión de las cuentas públicas municipales.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2023)</small>
+
+ARTÍCULO 20 BIS. Los gastos que se generen durante el periodo de transición y de entrega-recepción se proyectarán en el Presupuesto de Egresos del año en que tenga lugar la renovación del Ayuntamiento.
 
 ## TÍTULO TERCERO. DEL INCUMPLIMIENTO AL ACTO DE ENTREGA-RECEPCIÓN
 
@@ -360,3 +424,13 @@ CUARTO. Dentro de los ciento veinte días hábiles posteriores a la entrada en v
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los doce días del mes de febrero del año dos mil veinte. Diputada Presidenta. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputado Vicepresidente. RAÚL ESPINOSA MARTÍNEZ. Rúbrica. Diputada Secretaria. BÁRBARA DIMPNA MORÁN AÑORVE. Rúbrica. Diputado Secretario. URUVIEL GONZÁLEZ VIEYRA. Rúbrica.
 
 Por lo tanto, mando se imprima, publique y circule para sus efectos. Dado en la sede del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los catorce días del mes de febrero de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. La Secretaria de Planeación y Finanzas. CIUDADANA MARÍA TERESA CASTRO CORRO. Rúbrica. La Secretaria de Administración. CIUDADANA ROSA DE LA PAZ URTUZUÁSTEGUI CARRILLO. Rúbrica. La Secretaria de la Función Pública. CIUDADANA LAURA OLIVIA VILLASEÑOR ROSALES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VI, VII, VIII, IX, X, XI, XII, XIII Y XIV DEL ARTÍCULO 2, Y ADICIONA LAS FRACCIONES XV, XVI, XVII, XVIII Y XIX AL ARTÍCULO 2, EL SEGUNDO PÁRRAFO AL 5, 6 BIS, 16 BIS, 16 TER Y 20 BIS, TODOS DE LA LEY QUE ESTABLECE LOS PROCEDIMIENTOS DE ENTREGA-RECEPCIÓN EN LOS PODERES PÚBLICOS, AYUNTAMIENTOS, ÓRGANOS CONSTITUCIONALMENTE AUTÓNOMOS Y PÚBLICOS PARAESTATALES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente.
