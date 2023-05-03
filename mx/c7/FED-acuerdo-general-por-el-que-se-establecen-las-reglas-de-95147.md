@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-por-el-que-se-establecen-las-reglas-de-95147"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-07-15"
-last_updated: "2013-07-15"
+last_updated: "2023-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95147&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,41 @@ issue_date: "2013-07-02"
 ---
 # ACUERDO GENERAL POR EL QUE SE ESTABLECEN LAS REGLAS DE COMPETENCIA DE LA CONTRALORIA INTERNA Y LA VISITADURIA JUDICIAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION PARA ATENCION DE QUEJAS Y DENUNCIAS, PROCEDIMIENTOS DE INVESTIGACION Y DISCIPLINARIOS POR RESPONSABILIDAD ADMINISTRATIVA AL PERSONAL ADSCRITO A LAS SALAS REGIONALES ASI COMO PARA LA ELABORACION DE LOS DICTAMENES Y PROYECTOS DE RESOLUCION CORRESPONDIENTES
 
+Disposiciones generales
+
+1. Las disposiciones de este Acuerdo son de observancia general para los servidores públicos del Tribunal Electoral.
+
+2. Este Acuerdo tiene por objeto establecer las reglas de competencia de la Contraloría Interna y la Visitaduría Judicial, en relación con la atención de quejas y denuncias, substanciación de procedimientos de investigación y disciplinarios por responsabilidad administrativa, relativos al personal adscrito a las Salas Regionales del Tribunal Electoral, así como la elaboración de los dictámenes y proyectos de resolución correspondientes.
+
+3. Para los efectos del presente Acuerdo se entenderá por:
+
+I. Acuerdo: El Acuerdo General que regula el funcionamiento de la Visitaduría Judicial del Tribunal Electoral del Poder Judicial de la Federación, identificado con la clave 112/S3(20-III-2012);
+
+II. Comisión: La Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación;
+
+III. Contraloría Interna: La Contraloría Interna del Tribunal Electoral del Poder Judicial de la Federación;
+
+IV. Personal Administrativo de las Salas Regionales: Los servidores públicos adscritos a las Delegaciones Administrativas;
+
+V. Personal Jurisdiccional de las Salas Regionales: Los servidores públicos adscritos a la Presidencia, las Ponencias, Secretarías Generales de Acuerdos y áreas de apoyo que lleven a cabo actividades relacionadas con la función jurisdiccional;
+
+VI. Reglamento Interno: El Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación;
+
+VII. Salas Regionales: Las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación;
+
+VIII. Tribunal Electoral: El Tribunal Electoral del Poder Judicial de la Federación, y
+
+IX. Visitaduría Judicial: La Visitaduría Judicial del Tribunal Electoral del Poder Judicial de la Federación.
+
+4. La Contraloría Interna es el órgano auxiliar que depende de la Comisión, y tiene entre sus facultades, iniciar y sustanciar los procedimientos de investigación y, en su caso, los de responsabilidades administrativas, conforme a los lineamientos que emita la Sala Superior, la propia Comisión y el Presidente del Tribunal Electoral, de acuerdo con lo previsto en los artículos 46, 53 y 54, fracción IX, del Reglamento Interno.
+
+5. La Visitaduría Judicial es el órgano auxiliar, con independencia técnica, de la Comisión, que tiene entre sus facultades, sustanciar los procedimientos de investigación y disciplinarios por responsabilidad administrativa, cuando así lo determine la propia Comisión, de conformidad con los numerales 4, fracción VII, y 39 del Acuerdo General.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO GENERAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL, RENDICIÓN DE CUENTAS Y COMBATE A LA CORRUPCIÓN, PUBLICADO EN EL D.O.F. DE 3 DE MAYO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL POR EL QUE SE ESTABLECEN LAS REGLAS DE COMPETENCIA DE LA CONTRALORÍA INTERNA Y LA VISITADURÍA JUDICIAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, PARA LA ATENCIÓN DE QUEJAS Y DENUNCIAS, SUBSTANCIACIÓN DE PROCEDIMIENTOS DE INVESTIGACIÓN Y DISCIPLINARIOS POR RESPONSABILIDAD ADMINISTRATIVA, RELATIVOS AL PERSONAL ADSCRITO A LAS SALAS REGIONALES DEL PROPIO TRIBUNAL, ASÍ COMO PARA LA ELABORACIÓN DE LOS DICTÁMENES Y PROYECTOS DE RESOLUCIÓN CORRESPONDIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 15 de julio de 2013.
 
@@ -70,36 +102,6 @@ En este contexto, el presente instrumento normativo tiene como objeto precisar e
 En mérito de lo expuesto, la Comisión de Administración, en cumplimiento de sus atribuciones y con fundamento en los artículos 99, párrafo décimo, de la Constitución Política de los Estados Unidos Mexicanos; 205, párrafo primero; 209, fracciones III, IV, V, XIII, XVIII y XX, 211 de la Ley Orgánica del Poder Judicial de la Federación, así como 47, fracciones I, V y XII, y 54, fracción IX, del Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación, emite el siguiente:
 
 ACUERDO
-
-Disposiciones generales
-
-1. Las disposiciones de este Acuerdo son de observancia general para los servidores públicos del Tribunal Electoral.
-
-2. Este Acuerdo tiene por objeto establecer las reglas de competencia de la Contraloría Interna y la Visitaduría Judicial, en relación con la atención de quejas y denuncias, substanciación de procedimientos de investigación y disciplinarios por responsabilidad administrativa, relativos al personal adscrito a las Salas Regionales del Tribunal Electoral, así como la elaboración de los dictámenes y proyectos de resolución correspondientes.
-
-3. Para los efectos del presente Acuerdo se entenderá por:
-
-I. Acuerdo: El Acuerdo General que regula el funcionamiento de la Visitaduría Judicial del Tribunal Electoral del Poder Judicial de la Federación, identificado con la clave 112/S3(20-III-2012);
-
-II. Comisión: La Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación;
-
-III. Contraloría Interna: La Contraloría Interna del Tribunal Electoral del Poder Judicial de la Federación;
-
-IV. Personal Administrativo de las Salas Regionales: Los servidores públicos adscritos a las Delegaciones Administrativas;
-
-V. Personal Jurisdiccional de las Salas Regionales: Los servidores públicos adscritos a la Presidencia, las Ponencias, Secretarías Generales de Acuerdos y áreas de apoyo que lleven a cabo actividades relacionadas con la función jurisdiccional;
-
-VI. Reglamento Interno: El Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación;
-
-VII. Salas Regionales: Las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación;
-
-VIII. Tribunal Electoral: El Tribunal Electoral del Poder Judicial de la Federación, y
-
-IX. Visitaduría Judicial: La Visitaduría Judicial del Tribunal Electoral del Poder Judicial de la Federación.
-
-4. La Contraloría Interna es el órgano auxiliar que depende de la Comisión, y tiene entre sus facultades, iniciar y sustanciar los procedimientos de investigación y, en su caso, los de responsabilidades administrativas, conforme a los lineamientos que emita la Sala Superior, la propia Comisión y el Presidente del Tribunal Electoral, de acuerdo con lo previsto en los artículos 46, 53 y 54, fracción IX, del Reglamento Interno.
-
-5. La Visitaduría Judicial es el órgano auxiliar, con independencia técnica, de la Comisión, que tiene entre sus facultades, sustanciar los procedimientos de investigación y disciplinarios por responsabilidad administrativa, cuando así lo determine la propia Comisión, de conformidad con los numerales 4, fracción VII, y 39 del Acuerdo General.
 
 ÁMBITO DE COMPETENCIA DE LA CONTRALORÍA INTERNA
 
@@ -162,3 +164,23 @@ EL SUSCRITO, LICENCIADO JORGE ENRIQUE MATA GÓMEZ, SECRETARIO DE LA COMISIÓN DE
 CERTIFICA
 
 Que la presente copia en 8 fojas útiles corresponde al "ACUERDO GENERAL POR EL QUE SE ESTABLECEN LAS REGLAS DE COMPETENCIA DE LA CONTRALORÍA INTERNA Y LA VISITADURÍA JUDICIAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, PARA LA ATENCIÓN DE QUEJAS Y DENUNCIAS, SUBSTANCIACIÓN DE PROCEDIMIENTOS DE INVESTIGACIÓN Y DISCIPLINARIOS POR RESPONSABILIDAD ADMINISTRATIVA, RELATIVOS AL PERSONAL ADSCRITO A LAS SALAS REGIONALES DEL PROPIO TRIBUNAL, ASÍ COMO PARA LA ELABORACIÓN DE LOS DICTÁMENES Y PROYECTOS DE RESOLUCIÓN CORRESPONDIENTES", aprobado por la Comisión de Administración mediante acuerdo 120/S5(14-V-2013) emitido en la Quinta Sesión Ordinaria de 2013, que obra en los archivos de la Visitaduría Judicial del Tribunal Electoral del Poder Judicial de la Federación.- DOY FE.- México, Distrito Federal, 2 de julio de 2013.- El Secretario de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, Jorge Enrique Mata Gómez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL, RENDICIÓN DE CUENTAS Y COMBATE A LA CORRUPCIÓN”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en las páginas de internet e intranet de este órgano jurisdiccional, a través del sistema de compilación y búsqueda electrónica denominado Normateca.
+
+TERCERO. Los procedimientos administrativos de investigación y substanciación iniciados antes de la vigencia del presente acuerdo deberán concluirse según las disposiciones aplicables vigentes a su inicio. Si la conducta se ejecutó antes de la vigencia del presente acuerdo pero la investigación se inició posterior a ella el procedimiento de investigación o substanciación deberá seguirse conforme a las normas del presente acuerdo.
+
+CUARTO. Se abrogan el Acuerdo General por el que se establecen las reglas de competencia de la Contraloría Interna y la Visitaduría Judicial del Tribunal Electoral del Poder Judicial de la Federación, para la atención de quejas y denuncias, substanciación de procedimientos de investigación y disciplinarios por responsabilidad administrativa, relativos al personal adscrito a las Salas Regionales del propio Tribunal, así como para la elaboración de los dictámenes y proyectos de resolución correspondientes aprobado en la quinta sesión ordinaria de la Comisión de Administración de 2013, 120/S5(14-V-2013), el Acuerdo de la Comisión de Administración mediante el cual se delega a la Contraloría Interna del Tribunal Electoral del Poder Judicial de la Federación la atribución para resolver los procedimientos de responsabilidad administrativa por faltas no graves y regula el recurso y procedimiento para su impugnación conforme a la Ley Orgánica del Poder Judicial de la Federación aprobado en la Novena sesión ordinaria de la Comisión de Administración celebrada el 7 de octubre de 2021, 16/S09(7-X-2021), el Acuerdo General que regula el funcionamiento de la Visitaduría Judicial del Tribunal Electoral del Poder Judicial de la Federación aprobado en la Tercera sesión ordinaria de la Comisión de Administración de 2015, 064/S03(17-III-2015), y el Acuerdo General que regula las notificaciones de los procedimientos de investigación y responsabilidad administrativa aprobado en la Décimo Segunda sesión ordinaria de la Comisión de Administración de 2014, 358/S12(9-XII-2014).
+
+QUINTO. Quedan sin efecto todas las disposiciones internas en materia de responsabilidades administrativas que se opongan al objeto de regulación del presente Acuerdo General.
+
+SEXTO. Los órganos auxiliares a que hace referencia este acuerdo contarán con un plazo de noventa días naturales contados a partir de la entrada en vigor del mismo, para la actualización de los manuales de procedimientos y lineamientos correspondientes.
+
+SÉPTIMO. La implementación del Procedimiento de responsabilidad en línea se llevará a cabo, conforme lo permitan las capacidades técnicas y humanas del Tribunal, por lo que el inicio de su operación quedará sujeto a una declaratoria de inicio de vigencia cuando lo autorice la Comisión de Administración, dentro de un plazo de seis meses posteriores a la publicación del presente acuerdo, para lo cual se instruye a los órganos auxiliares en conjunto con la Dirección General de Sistemas, para que realicen las gestiones necesarias para su operación.
