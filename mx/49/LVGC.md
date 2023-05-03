@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "2022-02-22"
+last_updated: "2023-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LVGC"
 ---
 # LEY DE VIAS GENERALES DE COMUNICACION
 
+> <small>[N. DE E. SE DEJAN SIN EFECTOS LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO EN LO QUE SE OPONGAN A LO DISPUESTO EN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDEN LA CITADA LEY, LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO, Y QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADO EN EL D.O.F. DE 14 DE JULIO DE 2014; ORDENAMIENTO QUE ENTRA EN VIGOR A LOS TREINTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN.]</small>
+
 LEY DE VÍAS GENERALES DE COMUNICACIÓN
 
-> <small>N. DE E. SE DEJAN SIN EFECTOS LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO EN LO QUE SE OPONGAN A LO DISPUESTO EN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDEN LA CITADA LEY, LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO, Y QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADO EN EL D.O.F. DE 14 DE JULIO DE 2014; ORDENAMIENTO QUE ENTRA EN VIGOR A LOS TREINTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -94,7 +94,9 @@ I.- Construcción, mejoramiento, conservación y explotación de vías generales
 
 II.- Vigilancia, verificación e inspección de sus aspectos técnicos y normativos;
 
-III.- Otorgamiento, interpretación y cumplimiento de concesiones;
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+
+III.- Otorgamiento, interpretación y cumplimiento de concesiones y asignaciones;
 
 IV.- Celebración de contratos con el Gobierno Federal;
 
@@ -4215,3 +4217,11 @@ D.O.F. 22 DE FEBRERO DE 2022.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 3O. DE LA LEY DE VÍAS GENERALES DE COMUNICACIÓN, Y SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 10 DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO Y UN ARTÍCULO 59 BIS A LA LEY FEDERAL DE LAS ENTIDADES PARAESTATALES”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se adecuarán y armonizarán las normas que se opongan a la presente reforma y se da un plazo de ciento ochenta días hábiles a partir de su publicación para la adecuación de la normatividad aplicable.
