@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-ascensos-y-recompensas-del-ejercito-401
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-19"
-last_updated: "2021-07-22"
+last_updated: "2023-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40114&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-07-13"
 
 REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de julio de 2004.
 
@@ -409,7 +409,9 @@ d) El ejercicio de flexiones de brazos continúas tienen un valor máximo de 30 
 
 El número de repeticiones inferior a la cantidad mínima establecida para cada edad y sexo se calificará con “0” cero puntos, y
 
-II. Para resultar apto, deberá obtener 60 puntos o más en la sumatoria total de los tres ejercicios (carrera de resistencia, abdominales y flexión de brazos), siendo obligatorio presentar los tres ejercicios.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+II. Para resultar apto se debe obtener 60 puntos o más en la sumatoria total de los tres ejercicios (carrera de resistencia, abdominales y flexión de brazos), para lo cual es obligatorio presentar los tres ejercicios y obtener la puntuación mínima en cada uno de dichos ejercicios.
 
 ###### ARTÍCULO 37.
 
@@ -1541,7 +1543,9 @@ d) El ejercicio de flexión de brazos (lagartijas) continuas tienen un valor má
 
 El número de repeticiones inferior a la cantidad mínima establecida para cada edad y sexo se calificará con “0” cero puntos, y
 
-III. Para resultar apto, deberá obtener 60 puntos o más en la sumatoria total de los tres ejercicios (carrera de resistencia, abdominales y flexión de brazos), siendo obligatorio presentar los tres ejercicios.
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+
+III. Para resultar apto se debe obtener 60 puntos o más en la sumatoria total de los tres ejercicios (carrera de resistencia, abdominales y flexión de brazos), para lo cual es obligatorio presentar los tres ejercicios y obtener la puntuación mínima en cada uno de dichos ejercicios.
 
 SUBSECCIÓN "D"
 
@@ -2120,3 +2124,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
 
 TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+D.O.F. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 36 Y 95 DEL REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
+
+Tercero.- Se derogan aquellas disposiciones administrativas que se opongan al presente decreto.
