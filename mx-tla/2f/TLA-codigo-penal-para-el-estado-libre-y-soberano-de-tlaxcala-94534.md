@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2023-04-26"
+last_updated: "2023-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2023.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -2893,6 +2893,10 @@ Si en la comisión de este delito concurre alguna circunstancia agravante de las
 
 En el caso de que el delito se cometa en términos de la fracción X, del artículo 239, no aplicará la penalidad del párrafo anterior, sino que se impondrán de cincuenta a setenta años de prisión, y multa de dos mil ciento sesenta a cuatro mil seiscientos veinte Unidades de Medida y Actualización.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2023)</small>
+
+Si dentro de los seis años previos a la comisión del delito, el sujeto activo, ejerció violencia vicaria, se le impondrá la penalidad del párrafo que antecede.
+
 ###### Artículo 230 Bis.
 
 (DEROGADO, P.O. 22 DE DICIEMBRE DE 2022)
@@ -4611,6 +4615,18 @@ A quien ejerza cualquier acto de violencia en contra de una mujer, se le impondr
 
 Por violencia contra la mujer, se estará a lo dispuesto en la Ley que Garantiza el Acceso a las Mujeres a una vida libre de Violencia en el Estado de Tlaxcala.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2023)</small>
+
+###### Artículo 372 Ter.
+
+El delito de violencia vicaria es el acto u omisión que genera afectación o daño físico, psicológico, emocional o patrimonial a un descendiente, ascendiente, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, dependiente económico, animal de compañía o bienes de la víctima, cometido por parte de quien mantenga o mantuvo una relación de matrimonio, concubinato o alguna relación sentimental con la misma, actuando por sí o por interpósita persona, cuyo objeto sea causar un daño emocional, psicológico o patrimonial a la mujer.
+
+A quien cometa violencia vicaria se le impondrá prisión de cuatro a ocho años y multa de ochocientas a mil doscientas veces el valor de la unidad de medida y actualización, así como la pérdida de los derechos que tenga respecto de las víctimas directas e indirectas, incluidos los de carácter sucesorio, patria potestad de hijas e hijos, conforme a lo dispuesto en el Código Civil de la Entidad. Asimismo, se decretarán las medidas de protección conforme a lo establecido en este Código y en el Código Nacional de Procedimientos Penales.
+
+Las órdenes de protección emitidas por el Juez, derivadas (sic) la comisión del delito de violencia vicaria, en observancia a (sic) Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, deberá comunicarlas a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, para su registro en el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres.
+
+Si el servidor público que conoce del asunto retarda o entorpece maliciosamente o por negligencia la procuración o administración de justicia, será motivo de responsabilidad, y deberá ser sancionado por el delito que corresponda.
+
 ###### Artículo 373.
 
 En cualquier momento, el Ministerio Público podrá solicitar a la autoridad judicial, la aplicación de medidas de protección para la víctima y esta última resolverá sin dilación.
@@ -5876,3 +5892,19 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+P.O. 3 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 221.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de ciento veinte días naturales, el Tribunal Superior de Justicia del Estado, realizará las adecuaciones respectivas en su Reglamento en lo conducente a la sistematización del Padrón de Agresores Familiares, que refiere el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido que refiere el presente Decreto.
