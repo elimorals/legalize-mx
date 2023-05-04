@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-direccion-general-de-seguridad-94711"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-06"
-last_updated: "2015-09-22"
+last_updated: "2023-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA DIRECCION GENERAL DE SEGURIDAD PUBLICA DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA GUARDIA CIVIL ESTATAL, PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA DIRECCIÓN GENERAL DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2023 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 6 de junio de 2013.
 
@@ -2542,3 +2544,25 @@ P.O. 22 DE SEPTIEMBRE DE 2015.
 PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA GUARDIA CIVIL ESTATAL”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Dirección General de Seguridad Pública del Estado, publicado en el Periódico Oficial del Estado, el 06 de junio de 2013, así como las disposiciones reglamentarias y administrativas que sobre la materia se opongan a este Reglamento de GCE.
+
+TERCERO.- Lo no previsto por este Reglamento y en los casos de duda o antinomia, se estará a lo dispuesto por el Reglamento Interno de la Secretaría de Seguridad y Protección Ciudadana.
+
+CUARTO.- Los Manuales de Organización y de Procedimientos de la Guardia Civil, serán elaborados conforme al presente Reglamento de GCE.
+
+QUINTO.- Los asuntos y procedimientos que se encuentren en trámite a la entrada en vigor del presente Reglamento de GCE, continuarán su trámite y se resolverán conforme al amparo de la normatividad y reglamento que se encontraba vigente al momento de la iniciación del procedimiento.
+
+SEXTO.- Los asuntos y procedimientos que se encuentren en trámite en la Comisión de Honor y Justicia de la Dirección General de Seguridad Pública del Estado a la entrada en vigor del presente Reglamento de GCE, continuarán su trámite y se resolverán conforme a la normatividad y Reglamento de la Dirección General de Seguridad Pública del Estado que se encontraba vigente al momento de la iniciación del procedimiento.
+
+Los expedientes que tiene el área de Asuntos Internos, se turnarán para que en su momento sean resueltos por la Comisión de Honor y Justicia de la Secretaría.
+
+SÉPTIMO.- El personal de la Dirección General de Seguridad Pública del Estado, formará parte de la Guardia Civil, sin detrimento de sus derechos ya adquiridos.
+
+OCTAVO.- Los bienes muebles e inmuebles, recursos presupuestales y financieros que en su caso formen parte de la Dirección General de Seguridad Pública del Estado, formarán parte de la Guardia Civil.
