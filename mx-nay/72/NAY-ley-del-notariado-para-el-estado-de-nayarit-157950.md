@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-notariado-para-el-estado-de-nayarit-157950"
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-29"
-last_updated: "2022-07-25"
+last_updated: "2023-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE JULIO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2023.
 
 Ley publicada en la Sección Tercera del Número 078 del Periódico Oficial del Estado de Nayarit, el viernes 29 de abril de 2022.
 
@@ -1095,15 +1093,19 @@ Las personas titulares de las Notarías que hubieren obtenido la Patente en el �
 
 Los protocolos especiales les serán autorizados por la Secretaría de Hacienda y Crédito Público a través de la unidad administrativa respectiva y será a ella, a quienes las personas titulares de las Notarías que ostenten tal designación deberán dar aviso del cierre y apertura de cada protocolo. Serán a cargo de esa dependencia las revisiones o el requerimiento de información periódica para verificar el cumplimiento de las disposiciones legales que les sean aplicables. En el caso de ausencia temporal o definitiva de las personas titulares de las Notarías del Patrimonio Inmobiliario Federal quienes los suplan, en términos de esta ley, sean o no personas titulares de las Notarías del Patrimonio Inmobiliario Federal, podrán autorizar, tanto preventiva como definitivamente, los instrumentos que se encuentren asentados en el protocolo respectivo, así como expedir testimonios de los que estén asentados dentro del protocolo, pero no podrán asentar nuevos instrumentos.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2023)</small>
+
 ###### Artículo 84.
 
-Para integrar el protocolo, la Dirección, bajo su responsabilidad, proveerá a cada persona titular de la Notaría y a costa de éste, de un máximo de mil quinientos folios por solicitud. La Dirección cuidará que en la fabricación de los folios se tomen las medidas de seguridad más adecuadas para procurar su inalterabilidad. La Dirección informará mensualmente a la Secretaría de la entrega de folios que efectúe a las personas titulares de las Notarías, en la forma que para ese efecto determine dicha autoridad.
+Para integrar el protocolo, la Dirección, bajo su responsabilidad, proveerá a cada persona titular de la Notaría y a costa de éste, de un máximo de dos mil folios por solicitud. La Dirección cuidará que en la fabricación de los folios se tomen las medidas de seguridad más adecuadas para procurar su inalterabilidad. La Dirección informará mensualmente a la Secretaría de la entrega de folios que efectúe a las personas titulares de las Notarías, en la forma que para ese efecto determine dicha autoridad.
 
 ###### Artículo 85.
 
 El procedimiento para la expedición de los folios en los que debe actuar y ejercer la función notarial, será el siguiente:
 
-I. Proveerse a su costa, a través de la Dirección, de los folios correspondientes, sin que éstos puedan exceder de mil quinientos por entrega;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2023)</small>
+
+I. Proveerse a su costa, a través de la Dirección, de los folios correspondientes, sin que éstos puedan exceder de dos mil por entrega;
 
 II. Cubrir la cuota que se determine para el suministro y custodia de los folios;
 
@@ -3342,3 +3344,11 @@ DADO en la Sala de Sesiones “Lic. Benito Juárez García” Recinto Oficial de
 Dip. Alba Cristal Espinoza Peña, Presidenta.- Rúbrica.- Dip. Jesús Noelia Ramos Nungaray, Secretaria.- Rúbrica.- Dip. Georgina Guadalupe López Arias, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintinueve días del mes de abril de dos mil veintidós.- DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Lic. Juan Antonio Echeagaray Becerra, Secretario General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS NUMERALES DE LA LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
