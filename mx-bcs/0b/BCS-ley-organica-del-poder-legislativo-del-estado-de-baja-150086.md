@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2023-04-30"
+last_updated: "2023-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE MAYO DE 2023.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -565,6 +565,10 @@ XXXI.- DE DESARROLLO URBANO, INFRAESTRUCTURA Y OBRA PÚBLICA.
 
 XXXII.- DE LA JUVENTUD.
 
+> <small>(ADICIONADA, B.O. 4 DE MAYO DE 2023)</small>
+
+XXXIII.- DE LA DIVERSIDAD SEXUAL.
+
 Artículo 46
 
 Será materia de estudio, dictamen y competencia de las distintas comisiones, lo siguiente:
@@ -1016,6 +1020,18 @@ c).- Proponer políticas públicas en coordinación con el Instituto Sudcaliforn
 d).- Lo referente a las acciones encaminadas a emprendedores.
 
 e).- Las demás que señale la Mesa Directiva del Congreso.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], B.O. 4 DE MAYO DE 2023)</small>
+
+XXXIII.- DE LA DIVERSIDAD SEXUAL.
+
+a).- Promover, respetar, proteger y garantizar acciones en favor de los colectivos LGBTTTIQ+;
+
+b).- Legislar en materia de inclusión y con perspectiva de derechos humanos atendiendo a la comunidad de la diversidad sexual;
+
+c).- Coordinar y dirigir foros, parlamentos y demás eventos vinculados y de interés de la diversidad sexual, organizados por el Congreso del Estado y en su caso, participar en las actividades de la materia, coordinadas por instituciones públicas Estatales y Municipales para visibilizar las problemáticas a las que se enfrentan este sector de la población en la sociedad y derivado de ello, realizar líneas de acción;
+
+d).- Las que le señalen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 Artículo 47
 
@@ -2764,3 +2780,11 @@ B.O. 30 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2911 SE REFORMAN LOS INCISOS B), C), D) Y E), Y EL CONTENIDO DEL ACTUAL INCISO E), PASA A SER INCISO F) QUE SE ADICIONA A LA FRACCIÓN XIX DEL ARTÍCULO 46 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 4 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2918.-SE ADICIONA LA FRACCIÓN XXXIII AL ARTÍCULO 45 Y LA FRACCIÓN XXXIII AL ARTÍCULO 46, AMBOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
