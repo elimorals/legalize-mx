@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2023-03-24"
+last_updated: "2023-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MAYO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -280,6 +280,10 @@ CONSERVACIÓN: El conjunto de políticas, planes, programas, normas y acciones, 
 
 CONTAMINACIÓN: la presencia en el ambiente de toda substancia que en cualquiera de sus estados físicos y químicos al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural, causando desequilibrio ecológico;
 
+> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2023)</small>
+
+CONTAMINACIÓN LUMÍNICA: El exceso de flujo lumínico, iluminación o resplandor luminoso en ambientes nocturnos o brillo producido por la difusión y reflexión de la luz en los gases, aerosoles y partículas en suspensión en la atmósfera, provenientes de fuentes artificiales, con intensidades, direcciones o rangos espectrales inadecuados para la realización de las actividades previstas en la zona alumbrada que altera las condiciones naturales de luminosidad en horas nocturnas provocando afectación a los patrones de descanso o condiciones de molestia en las personas sometidas al campo luminoso producido por las fuentes emisoras.
+
 CONTINGENCIA AMBIENTAL O EMERGENCIA ECOLÓGICA: situación eventual y transitoria declarada por las autoridades competentes cuando se presenta o se prevé con base en análisis objetivos o en el monitoreo de la contaminación ambiental, una concentración de contaminantes o un riesgo ecológico derivado de actividades humanas o fenómenos naturales que afectan la salud de la población o al ambiente de acuerdo con las normas oficiales mexicanas;
 
 CONTROL: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
@@ -366,6 +370,10 @@ INCINERACIÓN: Combustión controlada de cualquier sustancia o material, cuyas e
 
 INTERCULTURALIDAD: El ejercicio de respeto a los recursos naturales de la Tierra requiere del reconocimiento, recuperación, respeto, protección, y dialogo de la diversidad de sentires, valores, saberes, conocimientos, prácticas, habilidades, trascendencias, transformaciones, ciencias, tecnologías y normas, de todas las culturas del mundo que buscan un convivir en armonía con la naturaleza;
 
+> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2023)</small>
+
+JARDÍN POLINIZADOR: Espacio público o privado en el que se colocan plantas nativas de la región, que proveen alimento, refugio, agua y espacio para los polinizadores.
+
 LABORATORIO AMBIENTAL: aquellos que acrediten contar con los elementos necesarios para analizar contaminantes en el aire, agua, suelo, subsuelo, materiales o residuos;
 
 LEY: Ley Ambiental del Distrito Federal;
@@ -375,6 +383,20 @@ LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 > <small>(ADICIONADO, G.O. 23 DE ABRIL DE 2021)</small>
 
 LIXIVIADOS: Los líquidos que se forman por la reacción, arrastre o filtrado de los materiales que constituyen los residuos sólidos y que contienen sustancias en forma disuelta o en suspensión que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositen residuos sólidos y que puede dar lugar a la contaminación del suelo y de cuerpos de agua;
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], G.O. 4 DE MAYO DE 2023)</small>
+
+LUZ INTRUSA: Parte de la luz de una instalación con fuente de iluminación que no cumple la función para la que fue diseñada, que no previene la contaminación lumínica y que incluye:
+
+A. La luz que cae indebidamente fuera de la zona que se requiere iluminar;
+
+B. La luz difusa en las proximidades de la instalación de iluminación;
+
+C. La luminiscencia del cielo, es decir, la iluminación del cielo nocturno que resulta del reflejo directo e indirecto de la radiación visible e invisible, dispersa por los constituyentes de la atmósfera, moléculas de gas, aerosoles y partículas en la dirección de la observación;
+
+D. La luz difusa que se esparce en las proximidades de la fuente artificial de iluminación; y
+
+E. La luz que se proyecta en varias direcciones fuera de la zona terrestre a iluminar.
 
 > <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -412,6 +434,10 @@ PLATAFORMA DIGITAL: Sistema informático desarrollado por la Agencia Digital de 
 
 PLATAFORMAS O PUERTOS DE MUESTREO: Instalaciones que permiten el análisis y medición de las descargas de contaminantes o materiales de una fuente fija a la atmósfera, agua, suelo o subsuelo, de acuerdo con las Normas Oficiales;
 
+> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2023)</small>
+
+POLINIZADORES: Animales como abejas, avispas, hormigas, murciélagos, colibríes, mariposas, polillas, escarabajos, entre otros, que se alimentan del néctar de las flores y durante sus visitas transportan accidentalmente polen de una flor a otra, permitiendo que las plantas produzcan frutos.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 PRECAUCIÓN: Exige tomar medidas que reduzcan la posibilidad de sufrir un daño ambiental grave. La falta de certeza científica absoluta no deberá utilizarse como razón para postergar la adopción de medidas eficaces en función de los costos para impedir la degradación del ambiente.
@@ -424,7 +450,7 @@ PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL Y RIESGO: La persona física o mor
 
 PREVENCIÓN: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-> <small>(REFORMADO, G.O24 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, G.O. 24 DE MARZO DE 2023)</small>
 
 PROCURADURÍA: La Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México;
 
@@ -552,9 +578,11 @@ Esta Comisión, de conformidad con la Ley de Planeación del Desarrollo del Dist
 
 La Administración Pública del Distrito Federal podrá celebrar todo tipo de instrumentos de coordinación y concertación de acciones con autoridades federales, estatales y municipales, así como con los sectores social y privado, en materia de protección, conservación, mejoramiento y restauración del ambiente del Distrito Federal y Cuenca de México.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 8°.
 
-Corresponde al Jefe de Gobierno del Distrito Federal, en materia ambiental, el ejercicio de las siguientes atribuciones:
+Corresponde a la persona titular de la Jefatura de Gobierno, en materia ambiental, el ejercicio de las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política ambiental en el Distrito Federal, conforme al Plan Nacional de Desarrollo, el Programa General de Desarrollo del Distrito Federal y los programas sectoriales correspondientes;
 
@@ -580,15 +608,19 @@ IX. Expedir los decretos que establezcan áreas de valor ambiental, zonas de res
 
 X. Expedir el programa sectorial ambiental y el programa de ordenamiento ecológico del Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2023)</small>
+
+X Bis. Promover la instalación de tecnologías para el aprovechamiento de energía solar en viviendas, comercios y servicios, así como el establecimiento de los mecanismos financieros para tal fin;
+
 XI. Expedir los ordenamientos y demás disposiciones necesarias para proveer el cumplimiento de la presente Ley; y
 
 XII. Las demás que conforme a esta Ley le correspondan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 9º.
 
-Corresponde a la Secretaría, además de las facultades que le confiere la Ley Orgánica de la Administración Pública del Distrito Federal, el ejercicio de las siguientes atribuciones:
+Corresponde a la Secretaría, además de las facultades que le confiere la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, el ejercicio de las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política ambiental en el Distrito Federal, así como los planes y programas que de esta se deriven, en congruencia con la que en su caso hubiere formulado la Federación;
 
@@ -651,6 +683,10 @@ XIV Bis. Celebrar convenios con las delegaciones para que éstas se encarguen de
 > <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
 
 XIV Bis 1. Formular y conducir la política de la flora y fauna silvestres en el ámbito de competencia del Distrito Federal, así como ejercer las atribuciones federales que sean objeto de convenio;
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2023)</small>
+
+XIV Ter. Crear Jardines Polinizadores administrados en el ámbito de su competencia, así como promover su creación en los ámbitos público, privado y social, a fin de contribuir a la conservación de la biodiversidad y la resiliencia de los ecosistemas.
 
 XV. Proponer la declaración de zonas de restauración ecológica;
 
@@ -754,6 +790,10 @@ XLIII. Regular, prevenir y controlar las actividades ambientales riesgosas no re
 
 XLIV. Promover el establecimiento y la aplicación de programas de educación ambiental y capacitación ecológica;
 
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2023)</small>
+
+XLIV Bis. Diseñar e implementar programas, acciones, talleres y cursos de educación ambiental dirigidos a la ciudadanía para concientizar su importancia para la sostenibilidad de los ecosistemas, así como para la resignificación y desmitificación de las especies de polinizadores.
+
 XLV. Regular y determinar la restauración ambiental de las áreas que hayan sido objeto de explotación de minerales u otros depósitos del subsuelo;
 
 XLVI. Verificar el cumplimiento de las Normas Oficiales Mexicanas y de las normas ambientales para el Distrito Federal; y
@@ -844,6 +884,18 @@ XII. Formular, ejecutar y evaluar el programa ambiental delegacional, bajo los o
 
 XIII. Proponer a la Secretaría las modificaciones en el Programa General de Ordenamiento Ecológico del Distrito Federal.
 
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2023)</small>
+
+XIV. En coordinación con la Secretaría, crear Jardines Polinizadores dentro de su demarcación territorial administrados en el ámbito de su competencia, así como promover su creación en los ámbitos público, privado y social, a fin de contribuir a la conservación de la biodiversidad y la resiliencia de los ecosistemas.
+
+Para tal efecto, las demarcaciones territoriales procurarán destinar al menos el uno por ciento del presupuesto total asignado al rubro de medio ambiente, cambio climático y bienestar animal.
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2023)</small>
+
+XV. Diseñar e implementar programas, acciones, talleres y cursos de educación ambiental dentro de su demarcación territorial, dirigidos a la ciudadanía para concientizar y resignificar a los polinizadores y su importancia para la sostenibilidad de los ecosistemas.
+
+Para tal efecto, las demarcaciones territoriales procurarán destinar al menos el cero punto cinco por ciento del presupuesto total asignado al rubro de medio ambiente, cambio climático y bienestar animal.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE MARZO DE 2023)</small>
 
 ###### ARTÍCULO 11.
@@ -927,6 +979,10 @@ IX. Se deberá propiciar la continuidad de los procesos ecológicos en el Distri
 > <small>(REFORMADA, G.O. 21 DE JUNIO DE 2006)</small>
 
 X. Es responsabilidad de la Secretaría fomentar e incentivar el mantenimiento y mejoramiento de la calidad de los recursos naturales y servicios ambientales que proporcionan a la población.
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2023)</small>
+
+XI. Es responsabilidad de toda persona en la Ciudad de México respetar, mantener y cuidar de los Jardines Polinizadores, para contribuir a la conservación de la biodiversidad y la resiliencia de los ecosistemas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1793,6 +1849,10 @@ El Jefe de Gobierno, mediante acuerdos o en el Reglamento correspondiente a la m
 > <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 El Jefe de Gobierno en el Reglamento correspondiente a la materia o mediante acuerdos generales, podrá eximir a los interesados la presentación de los datos y documentos cuando la Secretaría pueda obtener por otra vía la información correspondiente.
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2023)</small>
+
+XIV. Programa de aprovechamiento, regulación, mitigación y control de la luz artificial y luz intrusa, conforme a la Norma Ambiental en la materia.
 
 > <small>(REFORMADO, G.O. 27 DE FEBRERO DE 2023)</small>
 
@@ -3422,11 +3482,19 @@ Los responsables de las fuentes fijas podrán solicitar su exención al Programa
 
 #### SECCIÓN III. CONTROL DE EMISIONES PROVENIENTES DE FUENTES MÓVILES
 
-> <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 139.
 
-La Secretaría podrá limitar la circulación de vehículos automotores en el Distrito Federal, con base a los niveles máximos permisibles de emisión de contaminantes a la atmósfera, establecidos en las normas oficiales mexicanas y demás normativa aplicable, incluyendo los que cuenten con placas expedidas por la Secretaría de Comunicaciones y Transportes, por otras entidades federativas o por el extranjero, para prevenir y reducir las emisiones contaminantes, en los términos de las disposiciones jurídicas aplicables.
+La Secretaría podrá limitar la circulación de vehículos automotores en la Ciudad de México, con base a los niveles máximos permisibles de emisión de contaminantes a la atmosfera, establecidos en las normas oficiales mexicanas, el Programa Hoy No Circula y demás normativa aplicable, incluyendo los que cuenten con placas expedidas por la Secretaría de Infraestructura, Comunicaciones y Transportes, por otras entidades federativas o por el extranjero, para prevenir y reducir las emisiones contaminantes, en los términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2023)</small>
+
+ARTÍCULO 139 BIS.- El Programa Hoy No Circula, al que se refiere el artículo 139 de esta Ley, deberá establecer las medidas aplicables a la circulación vehicular de fuentes móviles o vehículos automotores, con el objetivo de prevenir, minimizar y controlar la emisión de contaminantes provenientes de fuentes móviles que circulan en la Ciudad de México.
+
+Las medidas a la circulación de fuentes de vehículos o móviles, podrán considerar dentro de las exenciones de circulación a aquellos vehículos utilizados por productores agropecuarios, para transportar mercancías y productos de carácter perecedero, para su distribución y comercialización en la Ciudad de México, de conformidad con los criterios que expida la Secretaría en el Programa Hoy No Circula.
+
+Para efectos de este artículo, se entenderá por productores, a las personas físicas o morales que se dediquen a actividades agropecuarias.
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3507,6 +3575,20 @@ Los propietarios de fuentes que generen cualquiera de estos contaminantes, está
 > <small>(ADICIONADO, G.O. 31 DE MAYO DE 2012)</small>
 
 Corresponde a la Secretaría, en coordinación con las autoridades competentes, la realización de campañas intensivas de información y orientación en materia de emisiones de ruido, vibraciones, energía térmica, lumínica, gases, olores y vapores, así como la contaminación visual.
+
+> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2023)</small>
+
+ARTÍCULO 151 BIS.- Para la prevención y control de la contaminación lumínica, las personas físicas o morales, así como las autoridades de la Ciudad de México deberán considerar los siguientes criterios:
+
+a) El alumbrado público deberá observar criterios de eficiencia energética conforme las disposiciones jurídicas en la materia o demás lineamientos que para ello se emitan;
+
+b) Mantener las condiciones naturales de las horas nocturnas para propiciar el sano descanso de la población, así como de la fauna nocturna de la Ciudad de México; y
+
+c) Reducir la luz intrusa en entornos naturales e interior de edificios.
+
+> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2023)</small>
+
+ARTÍCULO 151 TER.- La norma ambiental establecerá el procedimiento de medición, las especificaciones técnicas y los límites máximos permisibles de la intensidad lumínica en el medio ambiente. Por su parte, en la Manifestación Ambiental Única deberá establecerse, para las fuentes fijas, la obligación del cumplimiento de la norma aplicable en materia de contaminación lumínica.
 
 ### CAPÍTULO IV. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
 
@@ -5023,3 +5105,15 @@ G.O. 24 DE MARZO DE 2023.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 4 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Jefatura del Gobierno de la Ciudad tendrá hasta 120 días naturales para modificar las disposiciones Reglamentarias materia del presente decreto.
+
+CUARTO. Dentro de los 180 días posteriores a la publicación de este decreto, la Secretaría de Medio Ambiente de la Ciudad de México, deberá iniciar con la elaboración de la Norma Ambiental que establezca los límites máximos permisibles de luz artificial que ilumine en el medio ambiente y que regule las emisiones de la misma, así como el control de la contaminación lumínica, que establezca el procedimiento para su medición, y determine cuáles son los establecimientos regulados.
