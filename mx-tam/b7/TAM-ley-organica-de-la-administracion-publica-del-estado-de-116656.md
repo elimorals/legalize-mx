@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2022-12-22"
+last_updated: "2023-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 4 DE MAYO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2023 (ABROGADA).
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -2036,3 +2038,65 @@ Los procedimientos de responsabilidad administrativa, de separación y remoción
 Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite ante alguna de las unidades administrativas del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza, el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y la Unidad de Inteligencia Financiera y Económica, serán atendidos por éstos hasta su conclusión.
 
 Cualquier trámite administrativo y/o judicial del ámbito federal o estatal de los que sean partes tanto del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; el Centro Estatal de Evaluación y Control de Confianza; el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y la Unidad de Inteligencia Financiera y Económica a la entrada en vigor del presente Decreto, se continuarán tramitando por dichas áreas a través de sus unidades administrativas, hasta su total conclusión, para lo cual ejercitarán las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios y/o entes administrativos.
+
+P.O. 4 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Administración Pública del Estado de Tamaulipas, expedida en el Decreto No. LXII-1171 del 26 de septiembre de 2016, publicada en el Periódico Oficial del Estado Anexo al número 115 de fecha 27 de septiembre del mismo año.
+
+###### ARTÍCULO TERCERO.
+
+Para el cumplimiento de esta Ley, el titular del Ejecutivo del Estado, dispondrá de las acciones necesarias para reorganizar la estructura de las Dependencias y Entidades mediante los procedimientos aplicables.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos humanos, materiales y financieros adscritos a las secretarías de Desarrollo Rural y de Pesca y Acuacultura, deberán ser transferidos a la Secretaría de Desarrollo Rural, Pesca y Acuacultura.
+
+###### ARTÍCULO QUINTO.
+
+Los procesos administrativos derivados de la reorganización de las Dependencias o Entidades previstas en la presente ley deberán realizarse a partir de la entrada en vigor de este Decreto y concluirán más tardar a los noventa días siguientes.
+
+Los asuntos de las Dependencias y Entidades que se crean y/o se fusionan, que se encuentren en trámite a la entrada en vigor del presente Decreto, deberán continuar hasta su conclusión a cargo de la dependencia conforme al presente Decreto resulte competente.
+
+###### ARTÍCULO SEXTO.
+
+La transferencia que con motivo de la expedición de la presente ley deba realizarse de una dependencia a otra, incluirá los recursos presupuestales, programas y calendarios financieros asignados a las Dependencias y Entidades que se crean y fusionan, los cuales se incorporan a las nuevas Dependencias.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Recursos Hidráulicos para el Desarrollo Social ejercerá las funciones que venía desempeñando el organismo público descentralizado denominado Comisión Estatal del Agua de Tamaulipas. Al efecto, el Ejecutivo del Estado deberá emitir las iniciativas, decretos y acuerdos correspondientes para la adecuación de la normatividad de la materia, en un plazo que no exceda de ciento veinte días.
+
+###### ARTÍCULO OCTAVO.
+
+La Secretaría de Desarrollo Energético ejercerá las funciones que venía desempeñando el organismo público descentralizado denominado Comisión de Energía de Tamaulipas. Al efecto, el Ejecutivo del Estado deberá emitir las iniciativas, decretos y acuerdos correspondientes para la adecuación de la normatividad de la materia, en un plazo que no exceda de ciento veinte días.
+
+###### ARTÍCULO NOVENO.
+
+Se instruye a la Secretaría de Finanzas, a la Contraloría Gubernamental y a las Dependencias coordinadoras del sector, para que en un plazo no mayor a ciento veinte días, lleven a cabo las acciones jurídicas y/o administrativas correspondientes a la liquidación de los Organismos Públicos Descentralizados del Gobierno del Estado de Tamaulipas, denominados Comisión de Energía de Tamaulipas y Comisión Estatal del Agua de Tamaulipas, en términos de la Ley de Entidades Paraestatales del Estado de Tamaulipas, observando lo siguiente:
+
+a) Los recursos humanos, materiales y financieros adscritos a la Comisión de Energía de Tamaulipas, como un Organismo Público Descentralizado del Gobierno del Estado de Tamaulipas, deberán ser transferidos a la Secretaría de Desarrollo Energético; y
+
+b) Los recursos humanos, materiales y financieros adscritos a la Comisión Estatal del Agua de Tamaulipas, como un Organismo Público Descentralizado del Gobierno del Estado de Tamaulipas, deberán ser transferidos a la Secretaría de Recursos Hidráulicos para el Desarrollo Social.
+
+###### ARTÍCULO DÉCIMO.
+
+Cuando en una ley, reglamento, decreto, acuerdo, o disposición general, refiera a las Dependencias y organismos públicos descentralizados, que se fusionan y extinguen, se entenderán que se refieren a las Dependencias que se crean por este Decreto.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se instruye a la Secretaría de Administración, de Finanzas y a la Contraloría Gubernamental a realizar las adecuaciones presupuestales, materiales y de recursos humanos, a efecto de dar cumplimiento a lo establecido en el presente Decreto.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los trabajadores seguirán conservando sus derechos laborales, mismos que no se verán afectados con motivo de la expedición de la presente Ley.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
