@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-160429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-10-02"
-last_updated: "2022-10-16"
+last_updated: "2023-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE OCTUBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2023.
 
 Ley publicada en el No. 79 del Periódico Oficial del Estado de Durango, el domingo 2 de octubre de 2022.
 
@@ -491,9 +489,19 @@ LXXXIII. Publicar la información financiera de la administración pública esta
 
 LXXXIV. Entregar la información financiera que solicite la Secretaría de Hacienda y Crédito Público del Gobierno Federal, en los términos de las disposiciones que para tal efecto emita;
 
-LXXXV. Implementar un esquema administrativo para todas las dependencias de la administración pública estatal, orientado a suprimir la adquisición gubernamental de plásticos de un solo uso, estableciendo un mecanismo de sustitución por un modelo sustentable, los resultados del esquema deberán revisarse, actualizarse y evaluarse de manera anual; y
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2023)</small>
 
-LXXXVI. Las demás que le señalen las leyes, reglamentos y convenios vigentes.
+LXXXV. Implementar un esquema administrativo para todas las dependencias de la administración pública estatal, orientado a suprimir la adquisición gubernamental de plásticos de un solo uso, estableciendo un mecanismo de sustitución por un modelo sustentable, los resultados del esquema deberán revisarse, actualizarse y evaluarse de manera anual;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2023)</small>
+
+LXXXVI. Establecer una unidad de recepción, análisis y difusión de información financiera en materia de prevención y atención de actos, omisiones u operaciones de incremento económico injustificable en el patrimonio de persona alguna en el Estado;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2023)</small>
+
+LXXXVII. Obtener y asegurar la información fiscal y patrimonial que se genere en el Estado, de aquellas personas que hayan obtenido un beneficio o incremento económico injustificable, para aportar la información a las autoridades competentes; y
+
+LXXXVIII. Las demás que le señalen las leyes, reglamentos y convenios vigentes.
 
 ###### ARTÍCULO 22.
 
@@ -635,9 +643,13 @@ XXXIX. Establecer y desarrollar los programas de modernización administrativa e
 
 XL. Establecer medidas de mejora de las normas que regulan la actividad económica estatal y municipal, que faciliten el flujo de materias primas, insumos, mercancías, servicios y recursos, que fomenten la inversión mediante la eliminación de las regulaciones obsoletas y/o inadecuadas, que impidan el desempeño competitivo de los integrantes del proceso industrial en el marco de una economía de mercado;
 
-XLI. A través del área que corresponda, implementar los mecanismos y acciones de la política de mejora regulatoria conforme a los principios y disposiciones establecidos en las leyes de la materia; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2023)</small>
 
-XLII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XLII. Ejecutar acciones tendientes al desarrollo económico a favor de las mujeres del estado, a fin de promover su plena autonomía y empoderamiento económico; y colaborar para tal objetivo dentro del Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MAYO DE 2023)</small>
+
+XLIII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTÍCULO 24.
 
@@ -1956,3 +1968,27 @@ DR. ESTEBAN ALEJANDRO VILLEGAS VILLARREAL
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. HÉCTOR EDUARDO VELA VALENZUELA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 371.- QUE CONTIENE REFORMA AL ARTÍCULO 23 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 4 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 372.- QUE CONTIENE REFORMAS Y ADICIONES AL ARTÍCULO 21 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado (sic) Durango.
+
+SEGUNDO.- El Titular del Poder Ejecutivo del Estado de Durango, realizará las adecuaciones reglamentarias necesarias para dar cumplimiento a este decreto, en un plazo que no exceda de 120 días hábiles a partir de su entrada en vigor.
+
+TERCERO.- La Secretaría de Finanzas y de Administración deberá instrumentar las medidas presupuestarias necesarias a fin de dar cumplimiento a este decreto, en un plazo que no exceda de 120 días hábiles a partir de su entrada en vigor, atendiendo a los principios de eficacia, economía, transparencia y honradez.
+
+CUARTO.- En un plazo que no exceda de 120 días hábiles a partir de la entrada en vigor del presente decreto, deberá realizarse el nombramiento de la persona titular de la Unidad de Inteligencia Financiera y Patrimonial.
+
+QUINTO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
