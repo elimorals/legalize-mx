@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ingresos-del-estado-libre-y-soberano-de-nayarit-para-161
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-27"
-last_updated: "2022-12-28"
+last_updated: "2023-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, PARA EL EJERCICIO FISCAL 2023
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE DICIEMBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2023.
 
 Ley publicada en la Sección Sexta del Periódico Oficial del Estado de Nayarit, el martes 27 de diciembre de 2022.
 
@@ -730,6 +728,10 @@ I.- Por expedición del FIAT o patente para el
 ejercicio del Notariado. 136.1
 
 II.- Por el registro de convenios notariales de asociación. 31.8
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2023)</small>
+
+II Bis.- Por el suministro y custodia de cada folio. 0.03855
 
 III.- Por autorización de los 10 libros de folios con
 
@@ -4576,3 +4578,11 @@ Dip. Alba Cristal Espinoza Peña, Presidenta.- Rúbrica.- Dip. Luis Fernando Par
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintiún días del mes de diciembre de dos mil veintidós.- DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Mtro. Juan Antonio Echeagaray Becerra, Secretario General de Gobierno.- Rúbrica.
 
 > <small>[N. DE E.VEASE ANEXOS EN P. O. DE MARTES 27 DE DIEMBRE DE 2022, DE LA PÁGINA 83 A LA 121.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 17 DE LA LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, PARA El EJERCICIO FISCAL 2023".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
