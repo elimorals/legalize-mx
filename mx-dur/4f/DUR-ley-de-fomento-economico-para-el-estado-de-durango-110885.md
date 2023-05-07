@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-economico-para-el-estado-de-durango-110885"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2022-11-20"
+last_updated: "2023-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 1 de diciembre de 2015.
 
@@ -882,6 +882,14 @@ Los establecimientos mercantiles o comerciales promoverán en sus anaqueles los 
 Las empresas que se instalen en el Estado y se asocien con productores o inversionistas locales para producir o transformar los productos primarios y promover su comercialización dentro y fuera de la entidad, tendrán acceso de manera preferencial al sistema de incentivos en los términos previstos en esta Ley.
 
 Las empresas recibirán apoyos adicionales, a través del sistema de incentivos, de conformidad con el nivel de promoción que realicen de los productos duranguenses, dentro y fuera del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2023)</small>
+
+La Secretaría fomentará de manera coordinada con la Secretaría de Agricultura, Ganadería y Desarrollo Rural, y la Secretaría de Recursos Naturales y Medio Ambiente, acciones de concertación entre los sectores público, privado y social, para el fortalecimiento, desarrollo e integración de las cadenas de valor y promover el escalamiento productivo, de los recursos forestales del Estado, de manera sustentable, en beneficio de todas las regiones económicas del Estado, que se establecen en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2023)</small>
+
+Especialmente, se procurarán aquellas acciones de concertación, relativas a la transformación de recursos forestales de zonas áridas y semiáridas del Estado, en beneficio de los pequeños productores.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2017)</small>
 
@@ -2306,6 +2314,14 @@ SEGUNDO.-Se derogan todas aquellas disposiciones que se opongan al presente decr
 P.O. 20 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 244.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO; Y LA SEGUNDA QUE CONTIENE REFORMAS Y ADICIONES A LA LEY GENERAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE DURANGO Y A LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 362.- POR EL QUE SE ADICIONA EL ARTÍCULO 47, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO".]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango
 
