@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2023-03-23"
+last_updated: "2023-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -2311,6 +2311,14 @@ Los estudios de educación básica, media superior y normal realizados dentro de
 
 Las instituciones educativas pertenecientes al Sistema Educativo Estatal, expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos, de conformidad con los requisitos establecidos en los planes y programas de estudio correspondientes y demás normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2023)</small>
+
+ARTICULO 163 BIS.- Los estudios de educación básica y media superior que sean realizados dentro del Sistema Educativo Estatal a través de programas de prevención y atención al rezago educativo por enfermedad implementados dentro de centros hospitalarios contarán con validez en toda la república.
+
+Las niñas, niños y jóvenes que por motivos de salud se encuentren hospitalizados, y dicha condición los haga sujetarse a la modalidad de los programas mencionados en el párrafo anterior, contarán con la garantía de que los estudios realizados a través de esta modalidad tendrán validez oficial.
+
+Los programas educativos de prevención y atención al rezago educativo por enfermedad, pertenecientes al Sistema Educativo Estatal, a través de la institución correspondiente expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos, de conformidad con los requisitos establecidos en los planes y programas de estudio correspondientes y demás normatividad aplicable.
+
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 164.
@@ -3216,3 +3224,11 @@ P.O. 23 DE MARZO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 7 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 356.- POR EL QUE SE ADICIONA UN ARTICULO 163 BIS A LA LEY DE EDUCACION DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente decreto.
