@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2022-12-22"
+last_updated: "2023-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2023.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -525,6 +525,10 @@ Queda prohibido el uso del castigo corporal y humillante en todos los ámbitos, 
 
 En el Estado de Durango, la edad mínima para contraer matrimonio son los 18 años.
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2023)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias y con la finalidad de brindar protección a niñas, niños y adolescentes, establecerán medidas y acciones encaminadas a prevenir y erradicar, uniones tempranas o forzadas con pertinencia cultural, la cesión, entrega o intercambio de niñas, niños y/o adolescentes a título oneroso o gratuito con fines de unión informal o de hecho en el Estado.
+
 ### Capítulo Octavo. Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
 ###### Artículo 31.
@@ -583,9 +587,9 @@ V. Desarrollar la atención sanitaria preventiva, la orientación a quienes ejer
 
 VI. Asegurar la prestación de servicios de atención médica respetuosa, efectiva e integral durante el embarazo, parto y puerperio;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2023)</small>
 
-VII. Impulsar programas de prevención e información, así como la asistencia para combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación equilibrada, el consumo de agua potable, así como de medidas preventivas que inhiban o disminuyan el consumo de alimentos o bebidas con bajo contenido nutricional y excesivo contenido graso, de azúcares o sodio y el fomento del ejercicio físico;
+VII. Impulsar programas de prevención e información, así como la asistencia para combatir el sedentarismo, la desnutrición crónica y aguda, la malnutrición, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación equilibrada y saludable, el consumo de agua potable, así como la activación física, la disciplina deportiva y el fomento del ejercicio físico; así como de medidas preventivas que inhiban o disminuyan el consumo de alimentos o bebidas con bajo contenido nutricional y excesivo contenido graso, de azúcares o sodio
 
 VIII. Fomentar y ejecutar los programas de vacunación y el control de la niñez y adolescencia sana para vigilar su crecimiento y desarrollo en forma periódica;
 
@@ -673,15 +677,19 @@ VIII. Establecer mecanismos que permitan la recopilación, actualización y disp
 
 ### Capítulo Décimo Primero. Del Derecho a la Educación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2023)</small>
+
 ###### Artículo 37.
 
-Niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus derechos, que garantice el respeto a su dignidad humana; el pleno y armonioso desarrollo de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos y a las libertades fundamentales, en los términos del artículo 3o. de la Constitución Federal, la Constitución Local, la Ley General de Educación, la Ley de Educación del Estado de Durango, los tratados internacionales y demás disposiciones jurídicas aplicables.
+Niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus propios derechos, basada en un enfoque de derechos humanos y de igualdad sustantiva, que garantice el respeto a su dignidad humana; el pleno y armonioso desarrollo de sus potencialidades y personalidad, en bienestar de la salud física, mental y emocional, y fortalezca el respeto a los mismos derechos humanos y a las libertades fundamentales, en los términos del artículo 3o. de la Constitución Federal, la Constitución Local, la Ley General de Educación, la Ley de Educación del Estado de Durango, los tratados internacionales y demás disposiciones jurídicas aplicables.
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes.
 
 Las autoridades estatales, en el ámbito de sus respectivas competencias garantizarán la consecución de una educación de calidad y la igualdad en el acceso y permanencia en la misma, para lo cual deberán:
 
-I. Proporcionar la atención educativa que niñas, niños y adolescentes requieran para su pleno desarrollo, para lo cual, los programas respectivos deberán considerar la edad, madurez, circunstancias particulares y tradiciones culturales, para prepararlos para la vida con un espíritu crítico, reflexivo y analítico;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2023)</small>
+
+I. Proporcionar la atención educativa que niñas, niños y adolescentes requieran para su pleno desarrollo, y su salud física, mental y emocional para lo cual, los programas respectivos deberán considerar la edad, madurez, circunstancias particulares y tradiciones culturales, para prepararlos para la vida con un espíritu crítico, reflexivo y analítico;
 
 II. Adoptar medidas orientadas hacia el pleno ejercicio del derecho a la educación;
 
@@ -693,9 +701,13 @@ Tratándose de mujeres que se encuentran recluidas en los Centros de Reinserció
 
 IV. Establecer las condiciones necesarias para fortalecer la calidad educativa, tales como la relevancia y pertinencia de la currícula, la disposición de la infraestructura y equipamiento adecuados para el aprendizaje y para las prácticas de enseñanza y la evaluación docente;
 
-V. Destinar recursos humanos, materiales y presupuestarios adecuados para garantizar la educación de calidad de niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2023)</small>
 
-VI. Adaptar el sistema educativo a las condiciones, intereses y contextos específicos de niñas, niños y adolescentes para garantizar su permanencia en el sistema educativo;
+V. Destinar recursos humanos, materiales y presupuestarios adecuados para garantizar la educación de calidad de niñas, niños y adolescentes; con enfoque de los derechos humanos y de igualdad sustantiva.
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2023)</small>
+
+VI. Adaptar el sistema educativo a las condiciones, intereses y contextos específicos de niñas, niños y adolescentes para garantizar su permanencia y continuidad en el sistema educativo;
 
 VII. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con su sexo, creencias religiosas o prácticas culturales;
 
@@ -707,7 +719,9 @@ IX. Implementar mecanismos para la atención, canalización y seguimiento de los
 
 X. Contribuir a garantizar la permanencia y conclusión de la educación obligatoria de niñas, niños y adolescentes, para abatir el ausentismo, bajo rendimiento, abandono y deserción escolar, mediante campañas que promuevan los servicios de alfabetización de los niveles básicos.
 
-XI. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2023)</small>
+
+XI. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos y disminución en su incidencia;
 
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
 
@@ -717,9 +731,9 @@ XII. Conformar una instancia multidisciplinaria responsable que establezca mecan
 
 XIII. Elaborar protocolos de actuación sobre situaciones de acoso o violencia escolar y violencia sexual y/o digital que afecten a niñas, niños y adolescentes, para guiar la actuación del personal docente y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2023)</small>
 
-XIV. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo Estatal, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado, así como su participación en actividades recreativas, deportivas, lúdicas o culturales en instituciones públicas, privadas y sociales;
+XIV. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo Estatal, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado, así como su participación en actividades recreativas, deportivas, lúdicas, artísticas, científicas o culturales en instituciones públicas, privadas y sociales;
 
 XV. Adoptar medidas para responder a las necesidades de niñas, niños y adolescentes con aptitudes sobresalientes, de tal manera que se posibilite su desarrollo progresivo e integral, conforme a sus capacidades y habilidades personales;
 
@@ -769,9 +783,17 @@ VII. Emprender, en cooperación con quienes ejercen la patria potestad, tutela o
 
 VIII. Impartir a los educandos conocimientos sobre la sexualidad, la reproducción humana, la planificación familiar, la paternidad y maternidad responsables; así como la prevención de enfermedades de transmisión sexual, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
-IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2023)</small>
 
-X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
+IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2023)</small>
+
+X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos, y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2023)</small>
+
+XI. Fomentar y promover los beneficios de la cultura del ahorro, la educación financiera y el valor de la actitud emprendedora entre las niñas, niños y adolescentes.
 
 ###### Artículo 39.
 
@@ -2318,5 +2340,37 @@ P.O. 22 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO No. 299.- QUE CONTIENE REFORMAS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO Y A LA LEY DE SERVICIOS PARA EL DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE DURANGO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 357.- POR EL QUE SE ADICIONA UN PARRAFO AL ARTICULO 30 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 358.- QUE CONTIENE REFORMA AL ARTÍCULO 37, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 359.- QUE CONTIENE REFORMAS A LAS FRACCIONES IX Y X; ASÍ MISMO SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 38, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 7 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 360.- QUE CONTIENE REFORMA A LA FRACCION VII DEL ARTICULO 33, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
