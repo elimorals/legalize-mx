@@ -4,7 +4,7 @@ identifier: "LGMSV"
 country: "mx"
 rank: "ley_general"
 publication_date: "2022-05-17"
-last_updated: "2022-05-17"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158314&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGMSV"
 
 LEY GENERAL DE MOVILIDAD Y SEGURIDAD VIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 17 de mayo de 2022.
 
@@ -950,17 +950,25 @@ II. La preferencia del paso de personas peatonas en el cruce de vías públicas 
 
 III. El establecimiento de límites de velocidad con base en evidencia científica de carácter nacional o internacional, a fin de mantenerlas por debajo de un umbral de seguridad indispensable para salvaguardar la vida y la integridad de las personas usuarias; por lo que las velocidades máximas no deberán rebasar las siguientes:
 
-a) 30 km/h en calles secundarias y calles terciarias.
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
 
-b) 50 km/h en avenidas primarias sin acceso controlado.
+a) 20 km/h en zonas de hospitales, asilos, albergues y casas hogar.
 
-c) 80 km/h en carriles centrales de avenidas de acceso controlado.
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
 
-d) 80 km/h en carreteras estatales fuera de zonas urbanas; 50 km/h dentro de zonas urbanas.
+b) 20 km/h en zonas y entornos escolares en vías secundarias y calles terciarias; y hasta 30 km/h en zonas y entornos escolares en vías primarias y carreteras.
 
-e) 110 km/h para automóviles, 95 km/h para autobuses y 80 km/h para transporte de bienes y mercancías en carreteras y autopistas de jurisdicción federal.
+c) 30 km/h en calles secundarias y calles terciarias.
 
-f) Ninguna intersección, independientemente de la naturaleza de la vía, podrá tener velocidad de operación mayor a 50 km/h en cualquiera de sus accesos.
+d) 50 km/h en avenidas primarias sin acceso controlado.
+
+e) 80 km/h en carriles centrales de avenidas de acceso controlado.
+
+f) 80 km/h en carreteras estatales fuera de zonas urbanas; 50 km/h dentro de zonas urbanas.
+
+g) 110 km/h para automóviles, 95 km/h para autobuses y 80 km/h para transporte de bienes y mercancías en carreteras y autopistas de jurisdicción federal.
+
+h) Ninguna intersección, independientemente de la naturaleza de la vía, podrá tener velocidad de operación mayor a 50 km/h en cualquiera de sus accesos.
 
 IV. La utilización del cinturón de seguridad de forma obligatoria para todos los pasajeros de vehículos motorizados, de acuerdo con los requisitos establecidos en la Norma Oficial Mexicana aplicable;
 
@@ -1521,3 +1529,11 @@ Sexto. Las erogaciones que se generen con motivo de la entrada en vigor de la pr
 Ciudad de México, a 5 de abril de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 49 DE LA LEY GENERAL DE MOVILIDAD Y SEGURIDAD VIAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
