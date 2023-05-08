@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-conducta-de-la-secretaria-de-educacion-del-estado-142
 country: "mx"
 rank: "codigo"
 publication_date: "2020-03-27"
-last_updated: "2020-03-27"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Código publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de marzo de 2020.
 
@@ -53,21 +53,29 @@ Objeto del Código
 
 Las disposiciones de este Código tienen por objeto, regular el comportamiento ético al que deben sujetarse las personas servidoras públicas de la Secretaría de Educación, en el desempeño de sus funciones, para prevenir la comisión de faltas administrativas, conduciendo su actuar de conformidad con los principios, valores y reglas de integridad establecidos en el Código de Ética y en el presente instrumento.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
+
 Ámbito de aplicación
 
 ###### Artículo 2.
 
-El presente Código de Conducta es de observancia general y obligatoria para todas las personas servidoras públicas de la Secretaría de Educación.
+El presente Código de Conducta es de observancia y aplicación general obligatoria para todas las personas servidoras públicas de la Secretaría de Educación.
 
-Las personas titulares de la Secretaría, Subsecretarías, Delegaciones Regionales, Direcciones Generales, Direcciones de Área, Coordinaciones y Jefaturas de Departamento, así como las autoridades escolares, serán promotoras éticas del contenido del presente código, y tendrán la responsabilidad de mantener y fomentar en sus áreas de trabajo, una cultura ética e íntegra.
+Las personas titulares de la Secretaría, Subsecretarías, Delegaciones Regionales, Direcciones Generales, Direcciones de Área, Coordinaciones y Jefaturas de Departamento, así como las autoridades escolares, serán promotoras y ejecutoras éticas del contenido del presente código, y tendrán la responsabilidad de mantener y fomentar en sus áreas de trabajo, una cultura ética e íntegra.
 
-Uso del lenguaje incluyente
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
+
+Uso del lenguaje y trato incluyente
 
 ###### Artículo 3.
 
-El lenguaje empleado en este Código de Conducta no busca generar ninguna distinción ni marcar diferencias entre hombres y mujeres, por lo que en su redacción se aseguró un lenguaje incluyente y no sexista.
+El lenguaje y trato referido establecido en este Código de Conducta no busca generar ninguna distinción ni marcar diferencias entre hombres y mujeres, por lo que en su redacción se aseguró un lenguaje incluyente y no sexista, con respeto absoluto a cada persona servidora pública integrante de esta Secretaría.
+
+> <small>(REFORMADO SU ACÁPITE [N. DE E. REPUBLICADO], P.O. 8 DE MAYO DE 2023)</small>
 
 Glosario
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE MAYO DE 2023)</small>
 
 ###### Artículo 4.
 
@@ -85,19 +93,33 @@ V. Lineamientos: a los Lineamientos Generales para la Integración y Operación 
 
 VI. Personas servidoras públicas: quienes desempeñan un empleo, cargo o comisión en los entes públicos, conforme a lo dispuesto en los artículos 108 primer párrafo de la Constitución Política de los Estados Unidos Mexicanos y 122 primer párrafo de la Constitución Política para el Estado de Guanajuato;
 
-VII. Secretaría: a la Secretaría de Educación;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2023)</small>
 
-VIII. STRC: a la Secretaría de la Transparencia y Rendición de Cuentas; y
+VII. OIC: al Órgano Interno de Control de la Secretaría de Educación;
 
-IX. Valores: características que distinguen la actuación de las personas servidoras públicas de la Secretaría, tendientes a lograr credibilidad y el fortalecimiento de las instituciones públicas y del servicio público.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE MAYO DE 2023)</small>
+
+VIII. Secretaría: a la Secretaría de Educación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE MAYO DE 2023)</small>
+
+IX. STRC: a la Secretaría de la Transparencia y Rendición de Cuentas; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE MAYO DE 2023)</small>
+
+X. Valores: características que distinguen la actuación de las personas servidoras públicas de la Secretaría, tendientes a lograr credibilidad y el fortalecimiento de las instituciones públicas y del servicio público.
 
 ### Capítulo II. Principios, Misión, Visión y Valores de la Secretaría
 
+> <small>(REFORMADO SU ACÁPITE [N. DE E. REPUBLICADO], P.O. 8 DE MAYO DE 2023)</small>
+
 Principios de la Secretaría
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2023)</small>
 
 ###### Artículo 5.
 
-El personal de la Secretaría en el desempeño de su empleo, cargo o comisión, observará los principios constitucionales y legales, conforme a lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Guanajuato y en el Código de Ética del Poder Ejecutivo del Estado de Guanajuato.
+El personal de la Secretaría en el desempeño de su empleo, cargo o comisión, debe observar y aplicar los principios constitucionales y legales, conforme a lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Guanajuato y en el Código de Ética del Poder Ejecutivo del Estado de Guanajuato.
 
 Principios que rigen al servicio público:
 
@@ -189,6 +211,8 @@ Reglas de integridad
 
 El personal de la Secretaría, se apegará a las Reglas de Integridad para el ejercicio de la función pública establecidas en el Capítulo IV del Código de Ética, en materia de: actuación pública; información pública; contrataciones públicas, y autorizaciones; programas gubernamentales; trámites y servicios; recursos humanos; administración de bienes muebles e inmuebles; procesos de evaluación; control interno; procedimiento administrativo; desempeño permanente con integridad; cooperación con la integridad y comportamiento digno.
 
+> <small>(REFORMADO SU ACÁPITE [N. DE E. REPUBLICADO], P.O. 8 DE MAYO DE 2023)</small>
+
 Comportamiento ético
 
 ###### Artículo 10.
@@ -201,13 +225,17 @@ l. Actuar en estricto apego al respeto de los Derechos Humanos reconocidos por l
 
 II. Asumir la responsabilidad como persona servidora pública en el ejercicio de las funciones asignadas;
 
-III. Actuar con honestidad, congruencia, transparencia, justicia, igualdad y equidad para la toma de decisiones en el desempeño de las labores;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+III. Actuar con base en los principios mencionados en el presente documento, para la toma de decisiones en el desempeño de las labores;
 
 IV. Respetar y apegarse al marco jurídico que rige el desempeño de su función;
 
 V. Conducirse en apego a los principios, ejes y valores establecidos en la Política de Igualdad Laboral y No Discriminación para la Administración Pública del Estado de Guanajuato, y demás disposiciones relativas;
 
-VI. Tratar a las y los compañeros de trabajo, así como a la ciudadanía en general, con igualdad y respeto, sin conceder privilegios o preferencias a persona alguna, evitando cualquier tipo de discriminación o exclusión;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VI. Tratar a todas las personas colaboradoras de la Secretaría, así como a la ciudadanía en general, con igualdad y respeto, sin conceder privilegios o preferencias a persona alguna, evitando cualquier tipo de discriminación o exclusión;
 
 VII. Dar a la información y documentación a la que tenga acceso, el tratamiento previsto en las disposiciones legales;
 
@@ -225,7 +253,17 @@ XIII. Realizar con probidad las funciones propias del cargo, así como las demá
 
 XIV. Denunciar las conductas que sean contrarias a la legalidad, al orden y a lo establecido en el presente Código; y
 
-XV. Evaluar el desempeño de los servidores públicos en términos de la normatividad aplicable, en forma honesta, imparcial y con respeto.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XV. Evaluar el desempeño de todas las personas servidoras públicas en términos de la normatividad aplicable, en forma honesta, justa, transparente, imparcial y con respeto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2023)</small>
+
+XVI. Evitar actitudes o tomar decisiones que afecten la inclusión laboral, que promuevan un abuso de autoridad o de violencia y que discriminen a las personas servidoras públicas de la Secretaría; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2023)</small>
+
+XVII. Participar en actividades implementadas y promovidas por la Secretaría, para lograr el cumplimiento del presente Código, conforme a su cargo, atribución y disposición.
 
 2. En el ámbito educativo, aplicables en las instituciones educativas de la Secretaría:
 
@@ -271,11 +309,23 @@ Lo anterior, sin perjuicio de lo dispuesto en los ordenamientos legales y demás
 
 ### Capítulo IV. Sanciones por incumplimiento al Código
 
-Comportamiento ético
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
+
+Responsabilidades por incumplimiento
 
 ###### Artículo 11.
 
-En caso de incumplimiento a lo previsto en el presente Código de Conducta, se aplicará lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Guanajuato y las demás disposiciones jurídicas aplicables.
+En caso de incumplimiento a lo previsto en el presente Código, se aplicará lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Guanajuato y las demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2023)</small>
+
+Procedimiento de denuncia
+
+###### Artículo 12.
+
+Las personas servidoras públicas de la Secretaría, podrán presentar denuncia por la probable comisión de faltas administrativas, ante el OIC de la Secretaría, ubicado en la unidad Puentecillas, con domicilio en carretera Guanajuato-Puentecillas Km 9.5 Guanajuato, Guanajuato, teléfono 473- 73-5-12-00 ext. 1247.
+
+La denuncia a que se refiere este artículo podrá ser anónima, y la autoridad investigadora del OIC de la Secretaría, deberá mantener con carácter de confidencial la identidad de la o las personas que denuncien las presuntas infracciones, ello de conformidad con el artículo 91, párrafo segundo de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, y 7 fracción X, 77 fracciones I y III de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato.
 
 ## Transitorios
 
@@ -296,3 +346,17 @@ Dado en la ciudad de Guanajuato, Guanajuato, a los 10 días de diciembre de 2019
 Dra. Yoloxóchitl Bustamante Díez
 
 Secretaria de Educación
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL ACUERDO SECRETARIAL 132/2019 MEDIANTE EL CUAL SE EXPIDE EL "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE EDUCACIÓN".]
+
+Vigencia
+
+Artículo Primero. El presente Acuerdo, tendrá vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Difusión
+
+Artículo Segundo. Una vez emitido el presente instrumento, el CIEPCI se encargará de difundirlo y promoverlo, para conocimiento y cumplimiento por el personal de la Secretaría.
