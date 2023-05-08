@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2023-01-23"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -691,7 +691,9 @@ IV. Un representante de la Secretaria de Seguridad Pública;
 
 V. Un representante de la Secretaría de Desarrollo Social;
 
-VI. Un representante de la Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VI. Un representante de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
@@ -1075,13 +1077,19 @@ III. La Procuraduría de Protección de Derechos de Niñas, Niños y Adolescente
 
 Corresponde a la Secretaría de Seguridad Pública:
 
-I. Implementar capacitación sobre la violencia de género contra las mujeres, dirigidos a los diversos niveles jerárquicos de su personal;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-II. Incorporar la perspectiva de género los cursos de capacitación y especialización que imparta el Instituto Estatal de Seguridad Pública de Aguascalientes;
+I. Capacitar al personal de las diferentes instancias policiales en materia de derechos de las mujeres y perspectiva de género para atender los casos de violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+II. Celebrar convenios de cooperación, coordinación y concertación con las autoridades competentes en la materia, para el cumplimiento de los objetivos de la presente ley;
 
 III. Otorgar las facilidades necesarias para el cumplimiento y ejecución de las órdenes de protección dictadas por las autoridades competentes, en los casos de violencia de género;
 
-IV. Implementar un programa de información dirigido a los reclusos y jóvenes infractores para prevenir el fenómeno;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+IV. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social de la persona agresora;
 
 V. Establecer y difundir el servicio telefónico para denunciar casos de violencia de género contra las mujeres y ofrecer, a través del mismo, asesoría especializada sobre el tema y sobre los servicios de asistencia que presta el Gobierno del Estado;
 
@@ -1103,17 +1111,25 @@ IX. Generar mecanismos de prevención, detección y canalización de las mujeres
 
 X. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado;
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-XI. Diseñar políticas y programas para la prevención de delitos contra las mujeres y para fomentar entre la población la cultura del respeto a los derechos humanos de las mujeres;
+XI. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres en los ámbitos público y privado bajo una perspectiva de derechos humanos;
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-XII. Realizar, en coordinación con el Instituto Aguascalentense de las Mujeres, campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres; y
+XII. Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres;
 
-> <small>(ADICIONADA [REFORMADA Y REUBICADA ANTES FRACCIÓN VIII], P.O. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2023)</small>
 
-XIII. Las demás que le señalen las disposiciones legales aplicables y el programa.
+XIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XIV. Integrar el banco estatal de datos e información sobre casos de violencia contra las mujeres; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE MAYO DE 2023)</small>
+
+XV. Las demás previstas para el cumplimiento de la presente ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -1121,33 +1137,73 @@ XIII. Las demás que le señalen las disposiciones legales aplicables y el progr
 
 Corresponde a la Fiscalía General del Estado:
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-I. Promover, entre sus servidores públicos la atención especializada en los casos de violencia de género. Asimismo, capacitar por lo menos una vez al año al personal adscrito a la Fiscalía General del Estado en el trato digno y manejo adecuado de las y los denunciantes, para evitar su re victimización.
+I. Promover, entre sus servidores públicos la atención especializada en los casos de violencia de género, así como formar y especializar a las y los agentes del Ministerio Público, peritos y personal que atiende a víctimas a través de programas y cursos permanentes en:
 
-II. Implementar de manera permanente procesos de especialización sobre violencia de género contra las mujeres, dirigidos a los diversos niveles jerárquicos de su personal;
+a) Derechos humanos y género;
 
-III. Incorporar la perspectiva de género en todos los cursos que se impartan a su personal;
+b) Perspectiva de género para la debida diligencia en la conducción de carpetas de investigación y procesos judiciales relacionados con discriminación, violencia y feminicidio;
 
-IV. Diseñar y ejecutar campañas de difusión para promover la denuncia de los hechos de violencia de género contra las mujeres;
+c) Incorporación de la perspectiva de género en los servicios periciales;
+
+d) Eliminación de estereotipos sobre el rol social de las mujeres, entre otros.
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+II. Proporcionar a las víctimas orientación y asesoría para su eficaz atención y protección, de conformidad con los ordenamientos jurídicos aplicables;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+III. Dictar las medidas necesarias para que la víctima reciba atención médica de emergencia, asesoría jurídica y psicoterapia especializada;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+IV. Diseñar y desarrollar campañas de difusión para promover la denuncia de los hechos de violencia de género contra las mujeres y sobre los derechos que tienen las víctimas de delitos que atentan contra la Libertad Sexual, la Seguridad Sexual, el Normal Desarrollo Físico y Psicosexual, y el Libre Desarrollo de la Personalidad, feminicidio, violencia familiar y violencia a partir de una relación de pareja, así como de las agencias especializadas que atienden estos delitos;
 
 > <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2013)</small>
 
 V. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas;
 
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-VI. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres, niñas y niños desaparecidos, para la investigación de homicidios y violencia sexual contra este sector de la población;
+VI. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas, violencia familiar y contra la libertad y el normal desarrollo psicosexual;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-VII. Crear y administrar un sistema de registro público de los delitos que atenten contra la vida y la salud, así como la libertad sexual, seguridad sexual, el normal desarrollo físico y psicosexual, así como el libre desarrollo de la personalidad, cometidos en contra de algún particular y en el cual se integre la estadística criminal y victimal, para definir políticas en materia de prevención del delito y procuración de justicia que incluya la clasificación de los hechos de los que tenga conocimiento, lugar en que ocurrieron, especificando su tipología, características de la víctima y del sujeto activo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño;
+VII. Crear y administrar un sistema de registro público de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-VIII. Promover y proteger a través de la Fiscalía Especial en Delitos Electorales, el ejercicio de los derechos humanos político-electorales de las mujeres; y
+VIII. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad e integridad física de quienes denuncian y garantizar mecanismos expeditos para el acceso de las mujeres a la justicia plena;
 
-IX. Las demás que le asigne el Programa.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2023)</small>
+
+IX. Diseñar las políticas en materia de procuración de justicia en contra de la violencia hacia las mujeres;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+X. Proporcionar a las víctimas información objetiva que les permita reconocer su situación;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XI. Implementar los mecanismos necesarios que permitan, en los casos de violencia contra las mujeres, aplicar con prontitud y eficacia las medidas u órdenes de protección señaladas en esta Ley y contar con un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XII. Crear una base estatal de información genética que contenga la información personal disponible de mujeres y niñas desaparecidas a nivel estatal; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares provenientes de los cuerpos de cualquier mujer o niña no identificada. La información integrada en esta base deberá ser resguardada y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XIII. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de víctimas atendidas;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XIV. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE MAYO DE 2023)</small>
+
+XV. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -1171,19 +1227,21 @@ VI. Las demás que le asigne el Programa.
 
 Forman parte del Sector Trabajo y Desarrollo Social y Económico:
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-I. La Secretaría de Bienestar y Desarrollo Social;
+I. La Secretaría de Desarrollo Social;
 
-II. La Secretaría de Desarrollo Económico; y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+II. La Secretaría de Desarrollo Económico, Ciencia y Tecnología; y
 
 III. La Secretaria de Turismo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2023)</small>
 
-###### Artículo 63.
+###### Articulo 63.
 
-Corresponde a la Secretaría de Bienestar y Desarrollo Social:
+Corresponde a la Secretaría de Desarrollo Social:
 
 I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
 
@@ -1203,9 +1261,11 @@ VIII. Celebrar convenios de cooperación, coordinación y concertación en la ma
 
 IX. Las demás previstas para el cumplimiento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2023)</small>
+
 ###### Artículo 64.
 
-Corresponde a la Secretaria de Desarrollo Económico:
+Corresponde a la Secretaría de Desarrollo Económico, Ciencia y Tecnología:
 
 I. Implementar un proyecto especial de crédito a la palabra para mujeres víctimas de violencia de género;
 
@@ -1750,3 +1810,27 @@ P.O. 23 DE ENERO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 315.- REFORMA A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Fiscalía General del Estado de Aguascalientes deberá en un plazo no mayor a ciento ochenta días hábiles a la entrada en vigor del presente Decreto, dar cumplimiento a lo dispuesto en la fracción XII del artículo 60 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarías que se opongan al presente Decreto.
