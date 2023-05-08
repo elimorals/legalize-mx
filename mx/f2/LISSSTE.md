@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2023-03-24"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
@@ -224,13 +224,17 @@ XXVII. Subcuenta, cualquiera de las Subcuentas de retiro, cesantía en edad avan
 
 XXVIII. Sueldo Básico, el definido en el artículo 17 de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-XXIX. Trabajador, las personas a las que se refiere el artículo 1o. de esta Ley que presten sus servicios en las Dependencias o Entidades, mediante designación legal o nombramiento, o por estar incluidas en las listas de raya de los Trabajadores temporales, incluidas las que presten sus servicios mediante contrato personal sujeto a la legislación común, que perciban sus emolumentos exclusivamente con cargo a la partida de honorarios por contrato, o que estén incluidos en las listas de raya, siempre y cuando hayan laborado una jornada completa de acuerdo con las condiciones generales de trabajo y el contrato sea por un periodo mínimo de un año, y
+XXIX. Trabajador o persona trabajadora, aquella a la que se refiere el artículo 1o. de esta Ley que preste sus servicios en las Dependencias o Entidades, mediante designación legal o nombramiento, o por estar incluida en las listas de raya de las personas trabajadoras temporales, incluidas aquéllas que presten sus servicios mediante contrato personal sujeto a la legislación común, que perciban sus emolumentos exclusivamente con cargo a la partida de honorarios por contrato, o que estén incluidas en las listas de raya, siempre y cuando hayan laborado una jornada completa de acuerdo con las condiciones generales de trabajo y el contrato sea por un periodo mínimo de un año;
 
 > <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2023)</small>
 
 XXX. Unión civil, es el acto jurídico bilateral que se constituye cuando las personas físicas de diferente o del mismo sexo, mayores de edad y con capacidad jurídica plena, establecen un hogar común con voluntad de permanencia y ayuda mutua, por el que se deriven obligaciones alimentarias, de sucesión o semejantes y que esté reconocido en la legislación de las entidades federativas, como los pactos civiles de solidaridad y las sociedades de convivencia.
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XXXI. UMA, Unidad de Medida y Actualización que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas, así como en las disposiciones jurídicas que emanen de dichas leyes.
 
 > <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 2023)</small>
 
@@ -353,6 +357,40 @@ Las Aportaciones y Cuotas a que se refiere el párrafo anterior son las señalad
 ###### Artículo 20.
 
 Cuando no se hubieren hecho a los Trabajadores o Pensionados los Descuentos procedentes conforme a esta Ley, el Instituto mandará descontar hasta un treinta por ciento del sueldo o Pensión mientras el adeudo no esté cubierto. En caso de que la omisión sea atribuible al Trabajador o Pensionado, se le mandará descontar hasta un cincuenta por ciento del sueldo.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Para el caso específico de los créditos para vivienda otorgados por el Fondo de la Vivienda, mientras el adeudo no esté cubierto y de conformidad al esquema elegido por la persona trabajadora al momento de formalizar el contrato respectivo, el Instituto podrá solicitar a la dependencia o entidad para la cual labore la persona acreditada, descontar hasta un treinta por ciento de la pensión, del Sueldo Básico o de la cantidad que resulte de sumar el Sueldo Básico y las compensaciones que en términos de las disposiciones aplicables correspondan, o bien el veinte por ciento de la pensión correspondiente cuando el crédito se haya originado como pensionado.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+La solicitud del Instituto será suficiente para que la dependencia, entidad o institución pensionaria quede obligada a realizar el descuento.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+En caso de que la omisión sea atribuible a la persona trabajadora o pensionada, se realizará el cálculo de los intereses generados, actualizaciones y capital adeudado y se reestructurará de conformidad con lo establecido en el contrato.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Para tal efecto, el Instituto solicitará que se descuente dicho monto del sueldo básico o, de la cantidad que resulte de sumar el sueldo básico y las compensaciones, que en términos de las disposiciones aplicables correspondan, o de la pensión, de conformidad al esquema elegido por la persona trabajadora al momento de formalizar el contrato respectivo.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Cuando el error en el cálculo de las obligaciones de pago o en el descuento correspondiente no sea atribuible a la persona trabajadora o pensionada, no le serán reclamables intereses, cargos o adeudos extraordinarios.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+###### Artículo 20 Bis.
+
+En los créditos de vivienda la persona trabajadora podrá reestructurar en UMA o en pesos el adeudo a que se refiere el artículo anterior, en los siguientes casos:
+
+I. Cuando haya dejado de prestar sus servicios en el sector público y le haya sido aplicado el plazo de doce meses de prórroga contemplado en el artículo 183 de este ordenamiento;
+
+II. Cuando la obligación de pago pactada en el contrato respectivo sea superior al descuento convenido, o
+
+III. Cuando la persona acreditada cumpla con los requisitos de otros programas específicos de reestructura que emita el Instituto por acuerdo de su Junta Directiva, incluyendo los destinados a las personas trabajadoras que pudieran haber caído en mora.
+
+En todos los casos las reestructuraciones procederán siempre y cuando se reúnan los requisitos y se sujeten a los esquemas que, para tal efecto, emita la Junta Directiva, atendiendo lo dispuesto en el artículo 177, último párrafo, de la presente Ley.
 
 ###### Artículo 21.
 
@@ -1872,23 +1910,33 @@ VIII. Proponer al Director General los nombramientos y remociones del personal t
 
 IX. Las demás que señalen esta Ley y sus disposiciones reglamentarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
+
 ###### Artículo 176.
 
-Al momento en que el Trabajador reciba crédito para vivienda, el saldo de la Subcuenta del Fondo de la Vivienda de su Cuenta Individual se aplicará como pago inicial de alguno de los conceptos a que se refiere la fracción I del artículo 169 de esta Ley.
+Al momento en que la persona trabajadora reciba crédito para vivienda, el saldo de la Subcuenta del Fondo de la Vivienda de su Cuenta Individual se aplicará como pago inicial de alguno de los conceptos a que se refiere la fracción I del artículo 169 de esta Ley.
 
-Durante la vigencia del crédito concedido al Trabajador, las Aportaciones a que se refiere esta Sección a su favor se aplicarán a reducir el saldo insoluto a cargo del propio Trabajador.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+Durante la vigencia del crédito concedido a la persona trabajadora, las Aportaciones a que se refiere esta Sección a su favor se aplicarán a reducir el saldo insoluto a cargo de la propia persona trabajadora.
 
-El Trabajador que obtenga un crédito de alguna entidad financiera para aplicarlo al pago de la construcción o adquisición de su habitación o de suelo destinado para vivienda, podrá utilizar como pago inicial para la construcción o adquisición, el saldo de su Subcuenta del Fondo de la Vivienda. Asimismo, las Aportaciones que se efectúen a la Subcuenta citada con posterioridad al otorgamiento del crédito se aplicarán a cubrir el saldo insoluto.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
 
-El Fondo de la Vivienda podrá otorgar créditos a los Trabajadores en cofinanciamiento con entidades financieras o con el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en cuyo caso, el Trabajador también podrá utilizar los recursos de la Subcuenta del Fondo de la Vivienda como pago inicial. Las Aportaciones que se efectúen a la Subcuenta citada con posterioridad al otorgamiento del crédito se aplicarán a cubrir el saldo insoluto del crédito que haya otorgado el Fondo de la Vivienda.
+La persona trabajadora que obtenga un crédito de alguna entidad financiera para aplicarlo al pago de la construcción o adquisición de su habitación o de suelo destinado para vivienda, podrá utilizar como pago inicial para la construcción o adquisición, el saldo de su Subcuenta del Fondo de la Vivienda. Asimismo, las aportaciones que se efectúen a la Subcuenta citada con posterioridad al otorgamiento del crédito se aplicarán a cubrir el saldo insoluto.
 
-En el supuesto de cofinanciamiento a que se refiere el párrafo inmediato anterior, el Fondo de la Vivienda deberá otorgar crédito al Trabajador cuando el crédito que reciba de la entidad financiera de que se trate, se otorgue en base a fondos de ahorro establecidos en planes de previsión social que reúnan los requisitos de deducibilidad que se establezcan en las disposiciones fiscales correspondientes.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
 
-En el caso de que el Trabajador obtenga crédito de alguna entidad financiera en términos de lo dispuesto en el párrafo inmediato anterior o de que el Trabajador obtenga crédito del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, y el Fondo de la Vivienda no pueda otorgar crédito, el Trabajador tendrá derecho a que durante la vigencia de dicho crédito, las subsecuentes Aportaciones a su favor se apliquen a reducir el saldo insoluto a cargo del propio Trabajador y a favor de la entidad financiera de que se trate o del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+El Fondo de la Vivienda podrá otorgar créditos a las personas trabajadoras en cofinanciamiento con entidades financieras o con el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en cuyo caso, la persona trabajadora también podrá utilizar los recursos de la Subcuenta del Fondo de la Vivienda como pago inicial. Las Aportaciones que se efectúen a la Subcuenta citada con posterioridad al otorgamiento del crédito se aplicarán a cubrir el saldo insoluto del crédito que haya otorgado el Fondo de la Vivienda.
 
-Previo convenio con la entidad financiera participante o el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Fondo de la Vivienda podrá incluir en el porcentaje de Descuento que la Dependencia o Entidad efectúe al sueldo del Trabajador acreditado, el importe que corresponda a los créditos otorgados en los términos del presente artículo.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+En el supuesto de cofinanciamiento a que se refiere el párrafo inmediato anterior, el Fondo de la Vivienda deberá otorgar crédito a la persona trabajadora cuando el crédito que reciba de la entidad financiera de que se trate, se otorgue en base a fondos de ahorro establecidos en planes de previsión social que reúnan los requisitos de deducibilidad que se establezcan en las disposiciones fiscales correspondientes.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+En el caso de que la persona trabajadora obtenga crédito de alguna entidad financiera en términos de lo dispuesto en el párrafo inmediato anterior o de que la persona trabajadora obtenga crédito del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, y el Fondo de la Vivienda no pueda otorgar crédito, la persona trabajadora tendrá derecho a que durante la vigencia de dicho crédito, las subsecuentes aportaciones a su favor se apliquen a reducir el saldo insoluto a cargo de la propia persona trabajadora y a favor de la entidad financiera de que se trate o del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
 
 ###### Artículo 177.
 
@@ -1904,33 +1952,49 @@ Una vez que la Comisión Ejecutiva del Fondo de la Vivienda haya fijado tanto la
 
 La Comisión Ejecutiva deberá observar en todo momento una política financiera y de créditos, dirigida a lograr que los ahorros individuales de los Trabajadores, conserven permanentemente por lo menos, su valor real de conformidad con la fórmula que al efecto determine.
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
 ###### Artículo 178.
 
-El Trabajador tendrá el derecho de elegir la vivienda nueva o usada, a la que se aplique el importe del crédito que reciba con cargo al Fondo de la Vivienda.
+La persona trabajadora tendrá el derecho de elegir la vivienda nueva o usada a la que se aplique el importe del crédito que reciba con cargo al Fondo de la Vivienda, así como si el importe se define en UMA o en pesos en el contrato respectivo, conforme al esquema aprobado por la Junta Directiva.
 
-> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+En el caso de que la persona trabajadora o pensionada aplique su crédito para la adquisición de suelo destinado para la construcción de su vivienda, estará sujeto a las condiciones que determine la Comisión Ejecutiva, en apego a las disposiciones establecidas en la presente Ley y su Reglamento.
 
-En el caso de que el trabajador aplique su crédito para la adquisición de suelo destinado para la construcción de su vivienda, estará sujeto a las condiciones que determine la Comisión Ejecutiva, en apego a las disposiciones establecidas en la presente Ley y su Reglamento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
 
 ###### Artículo 179.
 
-Los créditos a que se refiere esta Sección se otorgarán y adjudicarán tomando en cuenta, entre otros factores, la oferta y demanda regional de vivienda, así como las relativas a las características físicas de los suelos destinados para vivienda, el número de miembros de la familia de los Trabajadores, los saldos de la Subcuenta del Fondo de la Vivienda del Trabajador de que se trate y el tiempo durante el cual se han efectuado Aportaciones a la misma, si el Trabajador es propietario o no de su vivienda, así como su sueldo o el ingreso conyugal si hay acuerdo de los interesados.
+Los créditos a que se refiere esta Sección se otorgarán y adjudicarán conforme a los criterios que para el efecto señale la Comisión Ejecutiva del Fondo de la Vivienda, con la aprobación de la Junta Directiva del Instituto tomando en cuenta el derecho humano a la vivienda adecuada, la oferta y demanda regional de vivienda; el costo y seguridad del suelo destinado a vivienda evitando actos de especulación; la infraestructura y equipamiento existente en la zona en que se ubica la vivienda; los saldos de la subcuenta del Fondo de la Vivienda de las personas trabajadoras de que se trate y el tiempo durante el cual se han efectuado aportaciones a la misma; si la persona trabajadora es propietaria o no de su vivienda, así como su sueldo o el ingreso conyugal si hay acuerdo de las personas interesadas.
 
 La Junta Directiva expedirá las reglas operativas conforme a las cuales se otorgarán los créditos a que se refiere el párrafo anterior.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
 
-Los Trabajadores podrán recibir crédito del Fondo de la Vivienda hasta por dos ocasiones. Para el caso del otorgamiento del segundo crédito, los Trabajadores deberán cubrir los mismos requisitos previstos por la Ley para el otorgamiento del primer crédito, relativos a contar con más de dieciocho meses de depósitos constituidos a su favor en las Subcuentas del Fondo de la Vivienda, además deberán demostrar que el primer crédito se encuentra totalmente liquidado y que fue pagado de manera regular. El importe de estos créditos se aplicará para los fines previstos por el artículo 169 de este ordenamiento.
+Las personas trabajadoras podrán recibir crédito del Fondo de la Vivienda hasta por dos ocasiones. Para el caso del otorgamiento del segundo crédito, las personas trabajadoras deberán cubrir los mismos requisitos previstos por la Ley para el otorgamiento del primer crédito, relativos a contar con más de dieciocho meses de depósitos constituidos a su favor en las Subcuentas del Fondo de la Vivienda, además deberán demostrar que el primer crédito se encuentra totalmente liquidado y que fue pagado de manera regular. El importe de estos créditos se aplicará para los fines previstos por el artículo 169 de este ordenamiento.
 
 ###### Artículo 180.
 
 La Junta Directiva del Instituto, mediante disposiciones de carácter general que al efecto expida, determinará:
 
-I. Los montos máximos de los créditos que otorgue el Fondo de la Vivienda, en función de, entre otros factores, la capacidad de pago de los Trabajadores, y
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-II. Los métodos para la asignación aleatoria en grupos de Trabajadores que reúnan iguales condiciones de elegibilidad, con objeto de dar transparencia, equidad y suficiencia, al otorgamiento de créditos.
+I. Los montos máximos de los créditos que otorgue el Fondo de la Vivienda, en función de, entre otros factores, la capacidad de pago de las personas trabajadoras;
+
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+II. Los métodos para el registro de las solicitudes de crédito de las personas trabajadoras o pensionadas que reúnan iguales condiciones de elegibilidad, con objeto de dar transparencia, equidad y suficiencia, a su otorgamiento, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+III. Los lineamientos y mecanismos para otorgar:
+
+a) Créditos en UMA, y
+
+b) Créditos en pesos.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Lo anterior con base en las previsiones presupuestales del Fondo para la Vivienda, garantizando su viabilidad financiera a largo plazo, sin que ello implique ampliaciones líquidas o recursos adicionales.
 
 > <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2020)</small>
 
@@ -1962,15 +2026,39 @@ La existencia del supuesto a que se refiere este artículo deberá comprobarse a
 
 En los casos de Trabajadores que a la fecha de pensionarse presenten saldo insoluto en su crédito de vivienda se descontarán de su Pensión los subsecuentes pagos al Fondo de la Vivienda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
+
 ###### Artículo 185.
 
-El saldo de los créditos otorgados a los Trabajadores a que se refiere la fracción I del artículo 169 de esta Ley se revisará cada vez que se modifiquen los Salarios Mínimos, incrementándose en la misma proporción en que aumente el Salario Mínimo.
+El monto, los intereses, la forma, el lugar y las obligaciones de pago respectivas de los créditos otorgados a las personas trabajadoras a que se refiere la fracción I del artículo 169 de esta Ley se determinarán en el contrato que al efecto se celebre.
 
-Asimismo, los créditos citados devengarán intereses sobre el saldo ajustado de los mismos a la tasa que determine la Junta Directiva. Dicha tasa no será menor del cuatro por ciento anual sobre saldos insolutos.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
 
-Las cantidades que se descuenten a los Trabajadores con motivo de los créditos a que alude el presente artículo, no podrán exceder del treinta por ciento de su Sueldo Básico, sin perjuicio de lo previsto en el artículo 20 de esta Ley.
+Asimismo, los créditos citados devengarán intereses únicamente sobre el saldo insoluto de los mismos a la tasa de interés que determine la Junta Directiva.
 
-Los créditos se otorgarán a un plazo no mayor de treinta años.
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Dicha tasa deberá ser menor al promedio cobrado por la banca comercial para créditos hipotecarios.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Las cantidades que se descuenten a las personas trabajadoras con motivo de los créditos a que alude el presente artículo, se pactarán en el contrato que se celebre al respecto, conforme a lo previsto en el artículo 20 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+En todo caso el descuento será correlativo a la referencia sobre la cual se otorgó: salario básico, pensión y, en su caso, la suma de las compensaciones correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+La aplicación de las aportaciones subsecuentes al otorgamiento del crédito, así como los pagos anticipados que realice la persona trabajadora o pensionada al crédito, será pactada en el mismo instrumento.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Cada crédito se otorgará con el plazo establecido en el contrato, mismo que no podrá exceder de treinta años.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Transcurridos treinta años a partir de la fecha del otorgamiento del crédito, el Instituto, a través del Fondo de la Vivienda, liberará el saldo pendiente, excepto en caso de pagos omisos o cuando se haya pactado la reestructura del crédito.
 
 ###### Artículo 186.
 
@@ -3361,3 +3449,19 @@ D.O.F. 24 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE DEROGA EL NUMERAL 2, DEL INCISO D), DE LA FRACCIÓN XII, DEL ARTÍCULO 6 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado determinará los segmentos de personas acreditadas a las que aplique la reestructuración en pesos originalmente pactados en UMA, incluyendo créditos en mora o demasía, conforme a lo previsto en el artículo 20 Bis y de acuerdo a la capacidad financiera del Fondo, en un término de 180 días contados a partir de la entrada en vigor del presente Decreto.
+
+Tercero.- Las erogaciones y costos que se generen con motivo de los esquemas y casos a que se refiere el artículo 20 Bis que la Comisión Ejecutiva del Fondo de Vivienda presente para aprobación de la Junta Directiva, así como las que deriven de la aplicación del presente Decreto, se cubrirán con cargo al patrimonio del Fondo de la Vivienda, por lo que se deberá considerar que se mantenga la viabilidad financiera de dicho Fondo en el largo plazo, conforme a las disposiciones jurídicas aplicables. No se autorizarán ampliaciones líquidas o recursos adicionales con cargo al Presupuesto de Egresos de la Federación. Cada dos años, la Junta Directiva deberá emitir un informe referente a las erogaciones, costos y el patrimonio del Fondo de Vivienda, a los que se refiere el presente artículo, dicho informe deberá ser entregado a la Cámara de Diputados en el mes de abril.
+
+Cuarto.- El saldo de los créditos originados en salarios mínimos se actualizará conforme a lo dispuesto en la normatividad correspondiente, a efecto de que aplique la actualización que resulte menor entre salarios mínimos y UMA en cada periodo.
+
+Quinto.- A efecto de cumplir con la reforma establecida en este Decreto, el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado tendrá 180 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones administrativas conducentes.
+
+Sexto.- Para el caso de las personas acreditadas que han pagado dos veces o más el monto del crédito otorgado, el Instituto establecerá los programas necesarios para la liberación del crédito hipotecario debidamente autorizados por la Junta Directiva, con base en el estudio de las finanzas del Instituto, en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
