@@ -4,7 +4,7 @@ identifier: "LGDNNA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-12-04"
-last_updated: "2022-04-28"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDNNA"
 
 LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2014.
 
@@ -1510,7 +1510,15 @@ Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custod
 
 I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
 
-Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación. Las leyes federales y de las entidades federativas deberán prever los procedimientos y la orientación jurídica necesaria así como las medidas de apoyo para asegurar el cumplimiento del deber de garantizar los derechos alimentarios;
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de sustento y supervivencia y, en la especie:
+
+a) La alimentación y nutrición, vestido, habitación, recreación, atención médica y psicológica preventiva integrada a la salud, asistencia médico-hospitalaria y, en su caso, los gastos de embarazo y parto;
+
+b) Los gastos derivados de la educación y la formación para proporcionar a los menores un oficio, arte o profesión, adecuados a sus circunstancias personales, y
+
+c) Con relación a los menores con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo;
 
 II. Registrarlos dentro de los primeros sesenta días de vida;
 
@@ -1882,11 +1890,15 @@ III. Celebrar los convenios de colaboración con los Sistemas de las Entidades y
 
 IV. Promover la formación, capacitación y profesionalización del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como para realizar y apoyar estudios e investigaciones en la materia;
 
-> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-V. Prestar apoyo y colaboración técnica y administrativa en las materias reguladas en esta Ley, a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, y
+V. Prestar apoyo y colaboración técnica y administrativa en las materias reguladas en esta Ley, a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México;
 
-VI. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+VI. Tendrá a su cargo el Registro Nacional de Obligaciones Alimentarias en los términos que establece esta Ley, y
+
+VII. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
 ### Capítulo Segundo. De las Procuradurías de Protección
 
@@ -2226,11 +2238,89 @@ De acuerdo con los resultados de las evaluaciones, el CONEVAL emitirá, en su ca
 
 Los resultados de las evaluaciones serán entregados a las Cámaras de Diputados y de Senadores del Congreso de la Unión.
 
-#### Sección Primera. De los Sistemas Locales de Protección
+> <small>(ADICIONADO CON LOS ARTÍCULO QUE LA INTEGRAN, D.O.F. 8 DE MAYO DE 2023)</small>
+
+#### Sección Cuarta. Del Registro Nacional de Obligaciones Alimentarias
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+###### Artículo 135 Bis.
+
+Se crea el Registro Nacional de Obligaciones Alimentarias cuyo objeto es concentrar la información de deudores y acreedores de obligaciones alimentarias, a fin de dar efectiva protección y restitución de los derechos de niñas, niños y adolescentes.
+
+Los Tribunales Superiores de las entidades federativas y de la Ciudad de México suministrarán, intercambiarán, sistematizarán, consultarán, analizarán y actualizarán, la información que se genere sobre el incumplimiento de las obligaciones alimentarias en el ámbito de sus competencias utilizando los sistemas e instrumentos tecnológicos del Sistema Nacional DIF para que con ella integre al Registro Nacional de Obligaciones.
+
+La calidad de deudor moroso se difundirá en el Registro Nacional de Obligaciones Alimentarias, el cual, será público con base en lo dispuesto en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
+
+Las Procuradurías de Protección de las entidades federativas y de la Ciudad de México tendrán acceso total a las bases de datos del Registro Nacional de Obligaciones.
+
+Los datos recabados en este registro podrán ser utilizados para los fines estadísticos o de análisis que se consideren necesarios.
+
+La actualización del registro deberá realizarse de forma mensual.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+###### Artículo 135 Ter.
+
+Toda persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez o la autoridad responsable del fuero local; de no hacerlo, será sancionada en los términos establecidos por el artículo 157 de esta Ley y responderá solidariamente para el pago de daños y perjuicios que cause al acreedor alimentario por las omisiones o informes falsos, sin perjuicio de lo dispuesto por otros ordenamientos legales.
+
+El deudor alimentario deberá informar, en un máximo de quince días hábiles al acreedor alimentario, al Juez o la autoridad responsable del fuero local cualquier cambio en su empleo, la ubicación de ésta y el puesto o cargo que desempeñará, a efecto de que se actualice la pensión alimenticia decretada.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+###### Artículo 135 Quáter.
+
+La inscripción al Registro Nacional de Obligaciones Alimentarias deberá especificar cuando menos:
+
+I. Nombre o nombres, apellidos, Clave Única de Registro de Población y clave y homoclave del Registro Federal de Contribuyentes del deudor alimentario;
+
+II. Órgano jurisdiccional que ordenó la inscripción, cuantía del cumplimiento de la obligación alimentaria y plazo de pago de los alimentos definitivos, y
+
+III. Datos del expediente o causa jurisdiccional de la cual deriva la inscripción.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+###### Artículo 135 Quinquies.
+
+El Registro Nacional de Obligaciones Alimentarias emitirá certificados de no inscripción, a petición de la parte interesada. Para efecto de lo anterior, se dispondrá de un sitio web en el cual se genere automáticamente el certificado de forma gratuita, mismo que contendrá como mínimo la siguiente información:
+
+I. Nombre o nombres, apellidos y Clave Única de Registro de Población del deudor alimentario;
+
+II. Órgano jurisdiccional que ordenó el registro, cuantía de la pensión y estado de cumplimiento.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Artículo 135 Sexties. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus competencias, dispondrán lo necesario a fin de establecer como requisito la presentación del certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias. Entre los trámites y procedimientos que podrán requerir la expedición de ese certificado, se encuentran los siguientes:
+
+I. Obtención de licencias y permisos para conducir;
+
+II. Obtención de pasaporte o documento de identidad y viaje;
+
+III. Para participar como candidato a cargos concejiles y de elección popular;
+
+IV. Para participar como aspirante a cargos de jueces, magistrados en el ámbito local o federal;
+
+V. Los que se realicen ante notario público relativos a la compraventa de bienes inmuebles y la constitución o transmisión de derechos reales, y
+
+VI. En las solicitudes de matrimonio, el juez del Registro Civil hará del conocimiento si alguno de los contrayentes se encuentra inscrito en el Registro, mencionando la situación que guardan respecto de las obligaciones que tiene.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+###### Artículo 135 Septies.
+
+Las autoridades federales competentes, instrumentarán las medidas de restricción migratoria que establezcan que ninguna persona inscrita en el Registro Nacional de Obligaciones Alimentarias pueda salir del país, cuando:
+
+I. Sea deudor alimentario moroso.
+
+II. Existan medios de prueba que permitan al Juez determinar la existencia de un riesgo importante de que la salida del país sea utilizada como un medio de evasión de pago.
+
+El impedimento para salir del país deberá ser solicitado por el acreedor o por quienes tengan su guardia y custodia ante el Juez correspondiente, quien, en su caso, deberá notificar a las autoridades migratorias respectivas para los efectos conducentes.
+
+En el caso de la fracción I de este artículo; el Juez podrá autorizar la salida del país si se garantiza el pago de por lo menos la mitad del adeudo que se tenga por el pago de alimentos y un depósito que corresponda al pago adelantado desde noventa hasta trescientos sesenta y cinco días de la pensión, según las circunstancias, o bien proporcione cualquier otra garantía, que a criterio del Juez garantice el cumplimiento de la obligación.
 
 ### Capítulo Cuarto. De los Sistemas de Protección en las Entidades Federativas
 
-#### Sección Segunda. De los Sistemas Municipales de Protección
+#### Sección Primera. De los Sistemas Locales de Protección
 
 ###### Artículo 136.
 
@@ -2287,6 +2377,8 @@ XXI. Las demás que les otorguen otras disposiciones aplicables.
 > <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
 Las leyes de las entidades federativas determinarán la forma y términos en que los Sistemas municipales participarán en el Sistema Local de Protección y, en el caso de la Ciudad de México, la forma de participación de las demarcaciones territoriales.
+
+#### Sección Segunda. De los Sistemas Municipales de Protección
 
 ###### Artículo 138.
 
@@ -2583,3 +2675,15 @@ Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que 
 Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
 
 Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE PENSIONES ALIMENTICIAS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la entrada en vigor del presente Decreto, el Sistema Nacional DIF contará con un plazo de trescientos días hábiles para la implementación del Registro Nacional de Obligaciones Alimentarias.
+
+Tercero. Los Congresos Locales y los Tribunales Superiores de Justicia de las Entidades Federativas y de la Ciudad de México, contarán con un plazo no mayor a ciento veinte días hábiles a partir del inicio de la creación del Registro Nacional de Obligaciones Alimentarias, para armonizar el marco normativo correspondiente, en armonía con los lineamientos que establezca el Sistema Nacional DIF, conforme a lo establecido por el presente Decreto.
+
+Cuarto. La autoridad encargada del Registro Nacional, en el término de noventa días naturales, emitirá la normativa a través de la cual se establezca el formato, tiempo, modo y lugar para que las autoridades locales obligadas en el presente decreto cumplan con las obligaciones establecidas a través del presente Decreto.
