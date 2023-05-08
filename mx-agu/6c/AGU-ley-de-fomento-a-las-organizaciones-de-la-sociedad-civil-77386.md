@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil-77386"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-15"
-last_updated: "2021-04-05"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 15 de noviembre de 2010.
 
@@ -323,7 +323,9 @@ I. Secretaría General de Gobierno, quien será el Presidente;
 
 II. Secretaría de Desarrollo Social, quien ocupará la Secretaría Técnica;
 
-III. Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+III. Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
 IV. Secretaría de Finanzas;
 
@@ -343,7 +345,9 @@ XI. Instituto de la Juventud del Estado de Aguascalientes;
 
 XII. Comisión de Derechos Humanos del Estado de Aguascalientes; y
 
-XIII. Como representante del Poder legislativo: quien presida de (sic) la Comisión de Desarrollo Social del Congreso del Estado, el cual solo tendrá derecho a voz.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XIII. Como representante del Poder legislativo: quien presida la Comisión de Desarrollo Social del Congreso del Estado, el cual solo tendrá derecho a voz.
 
 Además de los miembros ya enunciados, la Comisión se integrará con ocho representantes de las organizaciones civiles inscritas en el padrón cuya participación en ésta será por tres años. Para su conformación y renovación periódica la Comisión emitirá la convocatoria, en la cual deberán señalarse los requisitos de elegibilidad, atendiendo a criterios de representatividad, antigüedad, membrecía y desempeño de las organizaciones con registro en el padrón; estos representantes contarán únicamente con derecho a voz. Por cada representante propietario habrá un suplente.
 
@@ -990,3 +994,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 En un plazo que no exceda de 30 días naturales contados a partir del día siguiente de la publicación deberá hacerse la adecuación al Reglamento Interno de la Comisión de las Organizaciones de la Sociedad Civil del Estado de Aguascalientes.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES' DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarías que se opongan al presente Decreto.
