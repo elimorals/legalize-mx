@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2022-04-11"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -1396,6 +1396,10 @@ En las áreas naturales protegidas no podrá autorizarse la fundación de nuevos
 
 En las áreas naturales protegidas queda prohibida la introducción de especies exóticas invasoras.
 
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+En las áreas naturales protegidas no se pueden realizar obras y trabajos de exploración, explotación y beneficio de los minerales o sustancias, a que se refiere la Ley de Minería.
+
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 47.
@@ -1475,6 +1479,10 @@ h) De recuperación: Aquellas superficies en las que los recursos naturales han 
 En estas subzonas sólo podrán utilizarse para su rehabilitación, especies nativas de la región o en su caso, especies compatibles con el funcionamiento y la estructura de los ecosistemas originales cuando científicamente se compruebe que no se afecta la evolución y continuidad de los procesos naturales.
 
 En las zonas de amortiguamiento deberá tomarse en consideración las actividades productivas que lleven a cabo las comunidades que ahí habiten al momento de la expedición de la declaratoria respectiva, basándose en lo previsto tanto en el Programa de Manejo respectivo como en los Programas de Ordenamiento Ecológico que resulten aplicables.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+El aprovechamiento de materiales pétreos que se obtengan de forma artesanal por habitantes de las comunidades locales puede llevarse a cabo únicamente en zonas de amortiguamiento mediante actividades de bajo impacto ambiental, que no generen impactos negativos a los ecosistemas, siempre que se cumpla lo dispuesto en el Decreto y Programa de Manejo del área natural protegida y demás disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
@@ -2379,6 +2387,18 @@ Los apoyos que se otorguen a las actividades agropecuarias tendrán que ser comp
 ###### ARTICULO 107.
 
 (DEROGADO, D.O.F. 13 DE DICIEMBRE DE 1996)
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+ARTICULO 107 BIS. Para preservar y proteger los recursos no renovables y sus ecosistemas, las personas titulares de concesiones y asignaciones mineras deben presentar ante la Secretaría un Programa de Restauración, Cierre y Post-cierre de minas para su evaluación y, en su caso, autorización, de conformidad con el reglamento que se elabore al respecto.
+
+En dicho programa se deben establecer las acciones de reparación, restauración, rehabilitación y remediación ambiental que se realizarán desde el inicio de las actividades de exploración, explotación y beneficio de minerales o sustancias hasta el post-cierre, en los términos previstos en las disposiciones jurídicas aplicables.
+
+El programa debe ser presentado por el ganador de un concurso de licitación para concesión minera, una vez emitido el fallo correspondiente. La Secretaría debe analizar y, en su caso, dictaminar la viabilidad del programa propuesto a más tardar en ciento ochenta días naturales a partir de la fecha de su presentación.
+
+Una vez dictaminada la viabilidad del programa, la persona interesada deberá presentar como garantía seguro, carta de crédito, depósito ante la Tesorería de la Federación, fideicomiso o cualquier otro vehículo financiero que resulte idóneo. Una vez calificada, se emitirá la autorización del programa.
+
+El incumplimiento de cualquiera de las obligaciones previstas en el programa será motivo de ejecución de la garantía.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -4157,3 +4177,39 @@ D.O.F. 11 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, EN MATERIA DE ORDENAMIENTO ECOLÓGICO DEL TERRITORIO NACIONAL".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY MINERA, DE LA LEY DE AGUAS NACIONALES, DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE Y DE LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, EN MATERIA DE CONCESIONES PARA MINERÍA Y AGUA”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan las disposiciones jurídicas que se opongan al presente Decreto.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes; en caso de que se realice alguna modificación a la estructura orgánica de los mismos, ésta deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
+
+Cuarto. La persona titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las reformas correspondientes a las disposiciones reglamentarias respectivas.
+
+Quinto. En tanto se emite la normativa señalada en el artículo anterior, se seguirán aplicando las disposiciones que se encontraban vigentes antes de la entrada en vigor del presente Decreto, siempre que no se opongan a éste.
+
+Las menciones a la Ley Minera contenidas en otras leyes, reglamentos y en cualquier disposición de carácter general se entienden referidas a la Ley de Minería.
+
+Las solicitudes en trámite de nueva concesión de exploración y explotación se desecharán sin mayor trámite, en virtud de lo dispuesto por el presente Decreto.
+
+Sexto. Las concesiones de exploración y explotación otorgadas con anterioridad a la entrada en vigor del presente Decreto tendrán la duración prevista en el título respectivo.
+
+Séptimo. A partir de la entrada en vigor del presente Decreto, no se otorgarán prórrogas a las concesiones en Áreas Naturales Protegidas, así como a las ya emitidas para la exploración, explotación y beneficio del mercurio dentro del territorio nacional.
+
+Octavo. Para efectos de la caducidad a que se refiere el artículo 53 Bis de la Ley de Minería, los plazos se computarán a partir de la entrada en vigor del presente Decreto.
+
+Noveno. Los procedimientos y recursos administrativos relacionados con las actividades de minería y aguas iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio, y las demás disposiciones aplicables en la materia de que se trate, siempre que no se opongan a lo previsto en el presente Decreto.
+
+Décimo. Las personas titulares de concesiones mineras, dentro de los trescientos sesenta y cinco días naturales contados a partir de la entrada en vigor del presente Decreto, deberán presentar el vehículo financiero a que se refiere la Ley de Minería, que garantice los posibles daños que se generen durante la ejecución de las actividades mineras, así como presentar para autorización de la Secretaría de Medio Ambiente y Recursos Naturales el Programa de Restauración, Cierre y Post-cierre de Minas.
+
+Décimo Primero. Las personas titulares de concesiones mineras deben garantizar que los depósitos o sitios de disposición final de terreros, presas de jales o escorias no afecten núcleos de población, zonas productivas o ecosistemas, de conformidad con las disposiciones jurídicas aplicables.
+
+Cuando las autoridades competentes determinen que los depósitos o sitios de disposición final de terreros, presas de jales o escorias presenten riesgos para la seguridad o salud de la población, zonas productivas o de los ecosistemas, las personas concesionarias tendrán un plazo de trescientos sesenta y cinco días naturales contados a partir de la notificación correspondiente por parte de la autoridad competente para realizar la remoción o remediación necesaria.
+
+Décimo Segundo. En los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el Servicio Geológico Mexicano deberá retirar su participación de fondos de inversión de riesgo compartido en los que tenga activos, en tanto no le genere pérdidas. Para tales efectos, podrá mantener su posición hasta que éstos se encuentren en los valores en los que se adquirieron.
+
+Décimo Tercero. Las personas titulares de concesiones de aguas nacionales que realicen actividades de exploración, explotación, beneficio y aprovechamiento minero, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, deberán solicitar a “la Autoridad del Agua” el cambio de uso industrial al uso industrial en la minería, a efecto de regularizar su situación jurídica, de conformidad con las disposiciones normativas aplicables.
