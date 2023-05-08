@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2023-01-23"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -839,6 +839,10 @@ IX. Incumplimiento de las Obligaciones de Asistencia Familiar, prevista en el Ar
 
 X. Allanamiento de Morada, prevista en el Artículo 137;
 
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+X.A. Amenazas, prevista en el artículo 139;
+
 XI. Abuso de Confianza, prevista en el Artículo 146;
 
 XII. Fraude, prevista en el Artículo 147;
@@ -1583,6 +1587,14 @@ II. El cónyuge, la concubina, el concubinario, pareja permanente, parientes col
 
 III. Los que estén ligados con las personas por amor, respeto, gratitud o estrecha amistad.
 
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2023)</small>
+
+Si la amenaza fuera dirigida a una persona ofendida, víctima o testigo en un procedimiento penal, se impondrán de tres años seis meses a siete años de prisión, de 200 a 400 días multa y a la reparación total de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2023)</small>
+
+El tipo penal señalado en este artículo se perseguirá por querella, con excepción de lo establecido en el párrafo anterior que se perseguirá de oficio.
+
 ### CAPÍTULO V. Tipos Penales Protectores del Patrimonio
 
 ###### ARTÍCULO 140.
@@ -1719,9 +1731,9 @@ Al responsable de Abigeato contemplado en la Fracción I se le aplicarán de 4 a
 
 Al responsable de Abigeato contemplado en la Fracción II se le aplicarán de 3 a 10 años de prisión y de 150 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
 
-Se considerará ganado, para los efectos de este delito, a las especies: bovina, caballar, asnal, mular, ovina, caprina, porcina o de una o más colonias de abejas en un apiario; así como aquél domesticado, bravo, de pezuña, ganado mayor o ganado menor, independientemente de la actividad típica del animal.
+Se considerará ganado, para los efectos de este delito, a las especies: bovina, caballar, asnal, mular, ovina, caprina, porcina o de una o más colmenas o colonias de abejas en un apiario; así como aquél domesticado, bravo, de pezuña, ganado mayor o ganado menor, independientemente de la actividad típica del animal.
 
 ###### ARTÍCULO 144.
 
@@ -1757,17 +1769,17 @@ Abigeato equiparado. Se equipara al Abigeato:
 
 I. Alterar o eliminar los fierros, marcas o señales, aretes o elementos electromagnéticos, o cualquier otro signo, señal o elemento de identificación de una o más cabezas de ganado ajeno, sin el consentimiento del que legalmente pueda otorgarlo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-II. Transportar o comercializar dolosamente ganado robado, así como pieles o carne de los mismos;
+II. Transportar o comercializar dolosamente ganado robado, así como pieles o carne de los mismos; y en el caso de que se trate de colmenas de abejas, todos los derivados de la actividad apícola;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 III. Expedir certificados falsos para obtener guías simulando ventas y/o hacer uso de dichos certificados; y/o
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-IV. Proceder al sacrificio de ganado, sin el consentimiento de quien legalmente pueda otorgarlo.
+IV. Proceder al sacrificio de ganado o la utilización de químicos, agroquímicos, plaguicidas y herbicidas para envenenar una o varias colmenas o colonias, sin el consentimiento de quien legalmente pueda otorgarlo o sin que medie causa justificada por autoridad competente.
 
 > <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
@@ -3686,3 +3698,19 @@ P.O. 23 DE ENERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 322.- REFORMA AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES, Y, REFORMA A LA LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 323.- REFORMA AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
