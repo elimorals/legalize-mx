@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2023-04-25"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-01-31"
 
 LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -167,6 +167,10 @@ XV. Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situacio
 
 XVI. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora.
 
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XVII. Centros de Justicia para las Mujeres: Son espacios multidisciplinarios e interinstitucionales que brindan, de manera gratuita, atención integral a mujeres víctimas de violencia de género, así como a sus hijas e hijos menores de edad, desde las perspectivas de género, derechos humanos, intercultural, diferencial e interseccional, mediante la prestación de servicios en un mismo lugar, con la finalidad de promover y garantizar su acceso a la justicia, el ejercicio pleno de sus derechos humanos y su empoderamiento.
+
 ###### ARTÍCULO 6.
 
 Los tipos de Violencia contra las Mujeres son:
@@ -191,15 +195,19 @@ VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañ
 
 ### CAPÍTULO I. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 7.
 
-Violencia familiar: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo Agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+Violencia familiar: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuya persona agresora tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 2021)</small>
+También se considera violencia familiar cuando la persona agresora tenga responsabilidades de cuidado o de apoyo, aunque no tenga una relación de parentesco.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 8.
 
-Los modelos de atención, prevención y sanción que establezcan la Federación, las entidades federativas, la Ciudad de México y los municipios son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar, como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos. Para ello, deberán tomar en consideración:
+Los modelos de atención, prevención y sanción que establezcan la Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar, como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos considerando la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello, deberán tomar en consideración:
 
 I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializados y gratuitos a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia;
 
@@ -212,6 +220,10 @@ IV. Evitar procedimientos de mediación o conciliación, por ser inviables en un
 V. Favorecer la separación y alejamiento del Agresor con respecto a la Víctima, y
 
 VI. Favorecer la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Los modelos de atención, prevención y sanción a los que se refiere el primer párrafo de este artículo deberán tener un enfoque diferenciado con el objeto de ajustarse a las condiciones específicas de las mujeres víctimas de violencia.
 
 ###### ARTÍCULO 9.
 
@@ -807,9 +819,17 @@ XVII. Prohibición a la persona agresora de intimidar o molestar por si, por cua
 
 XVIII. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña, en situación de violencia;
 
-XIX. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, y
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-XX. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia.
+XIX. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad;
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XX. Solicitar a la autoridad jurisdiccional competente la suspensión del régimen de tutela o curatela que ejerza la persona agresora, y
+
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XXI. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de las mujeres, adolescentes o niñas víctimas de violencia.
 
 Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.
 
@@ -843,9 +863,15 @@ X. La obligación de la persona agresora de presentarse periódicamente ante el 
 
 XI. La colocación de localizadores electrónicos, previo consentimiento de la persona agresora;
 
-XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza, y
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-XIII. Las demás que se requieran para brindar una protección a la víctima.
+XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XIII. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima, y
+
+XIV. Las demás que se requieran para brindar una protección a la víctima.
 
 > <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 2021)</small>
 
@@ -1011,15 +1037,35 @@ VII. Diseñar programas de atención y capacitación a víctimas que les permita
 
 VIII. Vigilar que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
 
-IX. Garantizar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-X. Publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres para integrar el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres;
+IX. Garantizar la investigación y la elaboración de diagnósticos estadísticos, con enfoque diferenciado, sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
+
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+X. Publicar semestralmente la información general y estadística desagregada y con enfoque diferenciado, sobre los casos de violencia contra las mujeres para integrar el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres;
 
 XI. Promover la inclusión prioritaria en el Plan Nacional de Desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
 
-XII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad, y
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-XIII. Diseñar un modelo integral de atención a los derechos humanos y ciudadanía de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas.
+XII. Promover la cultura de denuncia de la violencia contra las mujeres en formatos accesibles en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad;
+
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XIII. Diseñar un modelo integral, diferencial y especializado de atención a las mujeres víctimas de violencia, que deberán instrumentar las instituciones, los Centros de Justicia para las Mujeres y los refugios que atiendan a víctimas;
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XIV. Realizar estudios sobre los efectos de la violencia y la discriminación interseccional en las mujeres y proponer políticas públicas dirigidas a eliminarlos;
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XV. Promover el desarrollo, implementación y evaluación de los proyectos de las entidades federativas para la creación, fortalecimiento y operación de los Centros de Justicia para las Mujeres, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XVI. Difundir la oferta institucional de servicios especializados que brinden los Centros de Justicia para las Mujeres en las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México.
 
 ###### ARTÍCULO 39.
 
@@ -1045,7 +1091,9 @@ III. Vigilar el cabal cumplimiento de la presente ley y de los instrumentos inte
 
 IV. Elaborar, coordinar y aplicar el Programa a que se refiere la ley, auxiliándose de las demás autoridades encargadas de implementar el presente ordenamiento legal;
 
-V. Educar en los derechos humanos a las mujeres en su lengua materna;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+V. Educar en derechos humanos a las mujeres en su lengua materna y, en su caso, en lengua de señas mexicana, así como en otros formatos accesibles, de lectura fácil, entre otros;
 
 VI. Asegurar la difusión y promoción de los derechos de las mujeres indígenas con base en el reconocimiento de la composición pluricultural de la nación;
 
@@ -1075,9 +1123,15 @@ XVII. Rendir un informe anual sobre los avances del Programa, ante el H. Congres
 
 XVIII. Vigilar que los medios de comunicación no promuevan imágenes estereotipadas de mujeres y hombres, y eliminen patrones de conducta generadores de violencia;
 
-XIX. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente ley, y
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-XX. Las demás que le confieran esta ley u otros ordenamientos aplicables.
+XIX. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente ley;
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XX. Promover y coordinar con las entidades federativas la creación y el fortalecimiento de los Centros de Justicia para las Mujeres, y
+
+XXI. Las demás que le confieran esta ley u otros ordenamientos aplicables.
 
 #### Sección Segunda.. De la Secretaría de Gobernación
 
@@ -1115,9 +1169,31 @@ XII. Realizar un Diagnóstico Nacional y otros estudios complementarios de maner
 
 XIII. Difundir a través de diversos medios, los resultados del Sistema y del Programa a los que se refiere esta ley;
 
-XIV. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-XV. Las demás previstas para el cumplimiento de la presente ley.
+XIV. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XV. Integrar, administrar y operar el Banco Nacional de Datos e Información de Casos de Violencia contra las Mujeres;
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XVI. Diseñar y actualizar el Modelo de Gestión Operativa de los Centros de Justicia para las Mujeres, así como los protocolos de atención especializados, desde las perspectivas de género, derechos humanos, interseccional, diferencial e intercultural;
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XVII. Promover y coordinar con las entidades federativas la creación y el fortalecimiento de los Centros de Justicia para las Mujeres, así como las acciones encaminadas al seguimiento y evaluación de los mismos;
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XVIII. Impulsar la creación y equipamiento de los Centros de Justicia para las Mujeres;
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XIX. Certificar a los Centros de Justicia para las Mujeres, y
+
+XX. Las demás previstas para el cumplimiento de la presente ley.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 29 DE ABRIL DE 2022)</small>
 
@@ -1209,19 +1285,27 @@ VIII. Celebrar convenios de cooperación, coordinación y concertación en la ma
 
 IX. Las demás previstas para el cumplimiento de la presente ley.
 
-#### Sección Cuarta.. De la Secretaría de Seguridad Pública
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE MAYO DE 2023)</small>
+
+#### Sección Cuarta. De la Secretaría de Seguridad y Protección Ciudadana
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 44.
 
-Corresponde a la Secretaría de Seguridad Pública:
+Corresponde a la Secretaría de Seguridad y Protección Ciudadana:
 
-I. Capacitar al personal de las diferentes instancias policiales para atender los casos de violencia contra las mujeres;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+I. Capacitar al personal de las diferentes instancias policiales para atender los casos de violencia contra las mujeres, desde las perspectivas de género, derechos humanos, diferencial, interseccionalidad e interculturalidad;
 
 II. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
 
-III. Integrar el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres;
+III. (DEROGADA, D.O.F. 8 DE MAYO DE 2023)
 
-IV. Diseñar la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+IV. Diseñar la política integral para la prevención de delitos contra las mujeres, cometidos en los ámbitos público y privado, con perspectivas de género, derechos humanos, diferencial, interseccionalidad e interculturalidad;
 
 V. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social del agresor;
 
@@ -1237,11 +1321,19 @@ IX. Establecer, utilizar, supervisar y mantener todos los instrumentos y accione
 
 X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-XI. Realizar una página de Internet específica en la cual se encuentren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas. Esta página deberá actualizarse de forma permanente, y
+XI. Realizar una página de Internet específica en la cual se encuentren los datos generales de las mujeres, adolescentes y niñas que sean reportadas como desaparecidas. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres, adolescentes y niñas desaparecidas. Esta página deberá actualizarse de forma permanente;
 
-XII. Las demás previstas para el cumplimiento de la presente ley.
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XII. Aplicar ajustes de procedimiento, en su caso, para recabar las denuncias y testimonios de las mujeres con discapacidad víctimas de violencia;
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XIII. Proponer al Consejo Nacional de Seguridad Pública que los Centros de Justicia para las Mujeres sean considerados como Ejes Estratégicos, Programas y Subprogramas con Prioridad Nacional, y
+
+XIV. Las demás previstas para el cumplimiento de la presente ley.
 
 #### Sección Quinta.. De la Secretaría de Educación Pública
 
@@ -1427,9 +1519,9 @@ VII. Promover la cultura de respeto a los derechos humanos de las mujeres y gara
 
 VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-IX. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+IX. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas, incluida en su caso su condición de discapacidad, así como las características sociodemográficas del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, judicialización, estado procesal, sentencias y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia. El registro deberá contener también los efectos que los hechos violentos produjeron en las víctimas, el fallecimiento o, en su caso, la discapacidad permanente;
 
 > <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
 
@@ -1495,11 +1587,11 @@ III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que cons
 
 #### Sección Décima Primera.. De las Entidades Federativas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 49.
 
-Corresponde a las entidades federativas y a la Ciudad de México, de conformidad con lo dispuesto por esta ley y los ordenamientos locales aplicables en la materia:
+Corresponde a las entidades federativas, de conformidad con lo dispuesto por esta ley y los ordenamientos aplicables en la materia:
 
 > <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
 
@@ -1565,19 +1657,17 @@ b) Perspectiva de género para la debida diligencia en la conducción de averigu
 
 c) Incorporación de la perspectiva de género en los servicios periciales; eliminación de estereotipos sobre el rol social de las mujeres, entre otros.
 
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-XXIII. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características socio demográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+XXIII. Integrar registros públicos sistemáticos de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características socio demográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, judicialización, etapa procesal, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-XXIV. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres, niñas y adolescentes desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
+XXIV. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres, adolescentes y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 8 DE MAYO DE 2023)</small>
 
-XXV. Realizar las acciones necesarias para implementar las medidas establecidas en la Alerta de Violencia de Género contra las mujeres, y
-
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+XXV. Crear, operar y fortalecer los Centros de Justicia para las Mujeres, conforme al Modelo de Gestión Operativa que para tal efecto emita la Secretaría de Gobernación, y
 
 XXVI. Las demás aplicables a la materia, que les conceda la ley u otros ordenamientos legales.
 
@@ -1627,6 +1717,8 @@ XII. La atención de los demás asuntos que en materia de violencia contra las m
 
 ### CAPÍTULO V. DE LOS REFUGIOS PARA LAS VICTIMAS DE VIOLENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 51.
 
 Las autoridades en el ámbito de sus respectivas competencias deberán prestar atención a las víctimas, consistente en:
@@ -1649,7 +1741,9 @@ I. Ser tratada con respeto a su integridad y al ejercicio pleno de sus derechos;
 
 II. Contar con protección inmediata y efectiva por parte de las autoridades;
 
-III. Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+III. Recibir información veraz y suficiente en formatos accesibles que les permita decidir sobre las opciones de atención;
 
 IV. Contar con asesoría jurídica gratuita y expedita;
 
@@ -1669,21 +1763,29 @@ VIII. En los casos de violencia familiar, las mujeres que tengan hijas y/o hijos
 
 IX. La víctima no será obligada a participar en mecanismos de conciliación con su agresor.
 
-> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
 
-Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y defensores de oficio que tengan conocimiento de su lengua y cultura.
+Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y personas defensoras de oficio que tengan conocimiento de su lengua y cultura.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Las mujeres con discapacidad tendrán derecho a que los procedimientos sean accesibles y a que se realicen los ajustes de procedimiento necesarios para ello. Las mujeres sordas tendrán derecho a contar con interpretación en lengua de señas mexicana, la cual será proporcionada gratuitamente.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Los refugios y los Centros de Justicia para las Mujeres deberán contar con todas las condiciones necesarias para proporcionar atención, en igualdad de condiciones y sin discriminación, a las mujeres con discapacidad, incluyendo la posibilidad de contar con asistencia personal.
 
 ###### ARTÍCULO 53.
 
 El Agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
 
-### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+### CAPÍTULO VI. DE LOS CENTROS DE JUSTICIA PARA LAS MUJERES
 
-> <small>(ADICIONADO D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 54.
 
-Corresponde a los refugios, desde la perspectiva de género:
+Corresponde a los refugios, desde la perspectiva de género, interseccionalidad y enfoque diferenciado:
 
 I. Aplicar el Programa;
 
@@ -1691,13 +1793,21 @@ II. Velar por la seguridad de las mujeres que se encuentren en ellos;
 
 III. Proporcionar a las mujeres la atención necesaria para su recuperación física y psicológica, que les permita participar plenamente en la vida pública, social y privada;
 
-IV. Dar información a las víctimas sobre las instituciones encargadas de prestar asesoría jurídica gratuita;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+IV. Dar información en formatos accesibles a las víctimas sobre las instituciones encargadas de prestar asesoría jurídica gratuita;
 
 V. Brindar a las víctimas la información necesaria que les permita decidir sobre las opciones de atención;
 
-VI. Contar con el personal debidamente capacitado y especializado en la materia, y
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+VI. Contar con el personal debidamente capacitado y especializado, en perspectiva de género, derechos humanos, con enfoque diferenciado, intercultural e interseccional, y
 
 VII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Los refugios y los Centros de Justicia para las Mujeres deberán contar con todas las condiciones de accesibilidad necesarias para proporcionar atención, en igualdad de condiciones y sin discriminación, a las mujeres con discapacidad, incluyendo la posibilidad de contar con asistencia de personal de apoyo.
 
 ###### ARTÍCULO 55.
 
@@ -1736,6 +1846,188 @@ Para efectos del artículo anterior, el personal médico, psicológico y jurídi
 ###### ARTÍCULO 59.
 
 En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE MAYO DE 2023)</small>
+
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADO D.O.F. 28 DE ENERO DE 2011)</small>
+
+###### ARTÍCULO 59 Bis.
+
+Corresponde a los Centros de Justicia para las Mujeres, con base en los principios establecidos en la presente ley:
+
+I. Diseñar y ejecutar acciones orientadas a la prevención de la violencia contra las mujeres y la atención de las mujeres, adolescentes y niñas víctimas de violencia;
+
+II. Diseñar e implementar acciones que eviten la victimización secundaria de las mujeres víctimas de violencia;
+
+III. Proporcionar atención integral a las niñas, adolescentes y mujeres víctimas de violencia, así como a sus hijas e hijos menores de edad;
+
+IV. Facilitar a las mujeres víctimas de violencia el acceso a la justicia con la debida diligencia y desde la perspectiva de género, así como el ejercicio efectivo de sus derechos humanos y asegurar un acceso rápido y eficaz a los programas establecidos para ello, realizando las gestiones ante las autoridades competentes;
+
+V. Garantizar a las mujeres información sobre los mecanismos de acceso a la justicia. A las mujeres con discapacidad, se les podrá brindar asistencia temporal, y a las mujeres sordas, en su caso, teléfonos de emergencias adaptados;
+
+VI. Promover ante las autoridades competentes las órdenes y medidas provisionales necesarias para salvaguardar la integridad de las mujeres, así como la de sus hijas e hijos menores de edad, incluyendo su solicitud y prórroga;
+
+VII. Proporcionar orientación y asesoría jurídica, así como representación legal a las mujeres víctimas de violencia y a sus hijas e hijos menores de edad;
+
+VIII. Facilitar a las mujeres víctimas de violencia, así como a sus hijas e hijos menores de edad, el acceso a los servicios de salud, trabajo social y de empoderamiento económico y social;
+
+IX. Solicitar los mecanismos de financiamiento con recursos federales a través de los programas, estatales y municipales para mejorar el funcionamiento y equipamiento de sus instalaciones;
+
+X. Para su debido funcionamiento, los Centros de Justicia para las Mujeres deben contar con la certificación que determina la Secretaría de Gobernación;
+
+XI. Asegurar la aplicación de los ajustes de procedimiento para que las mujeres con discapacidad puedan ejercer efectivamente sus derechos;
+
+XII. Gestionar ante autoridades públicas e instituciones privadas los apoyos necesarios para que las mujeres con discapacidad puedan tener acceso a los servicios que proporcionan los Centros de Justicia para las Mujeres;
+
+XIII. Realizar visitas domiciliarias en hogares, instituciones públicas o privadas, donde se encuentren mujeres con discapacidad que probablemente estén siendo víctimas de violencia, así como gestionar los apoyos y medidas de protección necesarias para salvaguardar su integridad personal. Se podrán realizar estas visitas cuando exista información suficiente sobre la ocurrencia de los hechos, incluso mediante denuncia anónima. Las mujeres con discapacidad pueden rehusarse a la entrevista durante estas visitas cuando estén en condiciones de manifestarlo, y
+
+XIV. Las demás que le confieran los ordenamientos legales aplicables, sin perjuicio de las atribuciones que correspondan a otras autoridades en el ámbito de sus competencias.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+###### ARTÍCULO 59 Ter.
+
+Los Centros de Justicia para las Mujeres deberán proporcionar, de manera gratuita, como mínimo los siguientes servicios:
+
+I. Atención médica y psicológica, incluyendo atención terapéutica de contención emocional;
+
+II. Asesoría y orientación jurídica;
+
+III. Representación legal en materias penal, familiar, civil y/o las que se requieran;
+
+IV. Gestión de expedición de documentación oficial;
+
+V. Servicios de albergue temporal o tránsito;
+
+VI. Servicios de cuidado y atención infantil;
+
+VII. Servicios de trabajo social;
+
+VIII. Servicios de protección de seguridad a víctimas en situación de riesgo grave o falta de red de apoyo familiar o comunitario para lo cual se coordinarán con los refugios para víctimas de violencia;
+
+IX. Acceso a la justicia a través de agencias del Ministerio Público especializadas en violencia contra las mujeres;
+
+X. Asesoría, capacitación y servicios para el empoderamiento social y económico;
+
+XI. Gestionar el acceso a servicios educativos;
+
+XII. Programas de incorporación de las mujeres víctimas de violencia al mercado laboral, y
+
+XIII. Los demás servicios que contribuyan al acceso de las mujeres a una vida libre de violencia.
+
+Los Centros de Justicia para las Mujeres facilitarán el acceso a la justicia las 24 horas todos los días del año, y se deberá garantizar que en los servicios que se brinden se cuente con personas intérpretes de lenguas indígenas, así como condiciones de accesibilidad para mujeres con discapacidad, incluidas personas intérpretes de lengua de señas mexicana y asistencia personal en caso de que se requiera.
+
+Los servicios se proporcionarán con independencia de que exista o no una denuncia por los hechos de violencia.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+###### ARTÍCULO 59 Quáter.
+
+Los servicios que brinden los Centros de Justicia para las Mujeres deberán ejecutarse bajo los principios previstos en el artículo 4 de esta ley.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+###### ARTÍCULO 59 Quinquies.
+
+La atención brindada por los Centros de Justicia para las Mujeres se realizará a través de la participación coordinada de las secretarías y dependencias públicas estatales cuya competencia incida en la atención integral a mujeres víctimas de violencia, y previa firma de los convenios correspondientes, con otras secretarías y dependencias del sector público federal y municipal.
+
+Las instituciones estatales encargadas de brindar los servicios en los Centros de Justicia para las Mujeres, como mínimo, son las siguientes o sus equivalentes en las entidades federativas:
+
+I. Secretaría de Gobierno;
+
+II. Secretaría de Seguridad Pública o Ciudadana;
+
+III. Secretaría de Salud;
+
+IV. Secretaría de Trabajo;
+
+V. Secretaría de Educación;
+
+VI. Secretaría de Desarrollo Social o Económico;
+
+VII. Sistema para el Desarrollo Integral de la Familia;
+
+VIII. Secretaría o Instituto de las Mujeres;
+
+IX. Comisión Ejecutiva de Atención a Víctimas;
+
+X. Procuraduría de Protección de Niñas, Niños y Adolescentes;
+
+XI. Instituto de la Defensoría Pública;
+
+XII. Instituto de Pueblos Indígenas, y
+
+XIII. Consejos o institutos para personas con discapacidad.
+
+Se celebrarán convenios de colaboración con Fiscalías, los Poderes Judiciales estatales, otros órganos autónomos estatales y organizaciones de la sociedad civil, a fin de brindar servicios interinstitucionales, especializados y de calidad, desde los enfoques de género, intercultural, diferencial e interseccional.
+
+Para el debido cumplimiento de este artículo las secretarías, dependencias y entidades gubernamentales de la entidad, comisionarán personal especializado a los Centros de Justicia para las Mujeres conforme a las normas específicas y a esta ley.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+###### ARTÍCULO 59 Sexies.
+
+La persona que ocupe la Dirección del Centro, deberá reunir los siguientes requisitos:
+
+I. Tener pleno goce de sus derechos;
+
+II. Contar con un título profesional;
+
+III. Tener experiencia comprobable en el ramo de derechos humanos de las mujeres y atención a mujeres víctimas de violencia con perspectiva de género;
+
+IV. No desempeñar ningún otro puesto, empleo, cargo o comisión, con excepción de los honoríficos y los relacionados con la docencia;
+
+V. No estar condenada por delito relacionado con violencia contra las mujeres en razón de género;
+
+VI. No estar inhabilitada para el ejercicio de un cargo público a nivel estatal o federal,
+
+VII. Los demás que establezcan otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+###### ARTÍCULO 59 Septies.
+
+La persona titular de la Dirección General tendrá las siguientes atribuciones:
+
+I. Representar legalmente al Centro de Justicia para las Mujeres;
+
+II. Coordinar las actividades que realice el personal de las secretarías, dependencias y entidades de la administración pública estatal, Fiscalía, Poder Judicial, órganos autónomos; así como otras instituciones del sector público federal y municipal, y organizaciones de la sociedad civil que, por colaboración interinstitucional, laboren en el Centro de Justicia para las Mujeres;
+
+III. Elaborar convenios de colaboración interinstitucional con dependencias de la administración pública estatal, otras instituciones del sector público federal y municipal, y organizaciones de la sociedad civil;
+
+IV. Dar seguimiento a los planes y programas de atención a mujeres víctimas de violencia, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la erradicación de la violencia contra las mujeres, así como establecer las medidas de protección necesarias y acceso efectivo a los procedimientos de procuración y administración de justicia;
+
+V. Difundir los servicios que se proporcionan en el Centro de Justicia para las Mujeres a las mujeres víctimas de violencia;
+
+VI. Elaborar la propuesta del ejercicio del presupuesto del Centro de Justicia para las Mujeres y aplicar los recursos financieros adoptados a los proyectos institucionales;
+
+VII. Rendir a la persona titular del Poder Ejecutivo estatal y al Congreso de la entidad federativa, un informe anual sobre las actividades realizadas en el Centro de Justicia para las Mujeres, y
+
+VIII. Elaborar los protocolos o manuales para la operación del Centro de Justicia para las Mujeres, que deberá cumplir con los modelos de gestión operativa y atención emitidos por la Secretaría de Gobernación.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+###### ARTÍCULO 59 Octies.
+
+Todo el personal adscrito y designado en un Centro de Justicia para las Mujeres deberá estar sensibilizado y profesionalizado en atención a víctimas de violencia de género desde la perspectiva de género, y en derechos humanos de las mujeres, además de recibir capacitación permanente para su actualización.
+
+El personal adscrito y designado a cada Centro de Justicia para las Mujeres mantendrá su vínculo jerárquico y laboral con cada una de las dependencias de donde procedan, deberán ajustar su desempeño a los reglamentos, lineamientos y demás reglas de operación que se emitan para sus funciones dentro del Centro de Justicia para las Mujeres. El personal adscrito y designado a cada Centro de Justicia para las Mujeres regirá su relación laboral conforme a las disposiciones legales aplicables, según sea el caso.
+
+El personal adscrito y designado a cada Centro de Justicia para las Mujeres deberá contar con el perfil requerido para el puesto y deberá ser evaluado y capacitado periódicamente.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+###### ARTÍCULO 59 Nonies.
+
+Para el funcionamiento de los Centros de Justicia para las Mujeres, las Entidades Federativas contarán con los recursos derivados de los convenios que en su caso suscriban con el Gobierno Federal, en términos de las disposiciones aplicables, así como de los recursos que asignen en sus Presupuestos de Egresos, de los ingresos derivados de convenios que celebren con otras dependencias públicas o privadas, y los que obtengan por cualquier otro medio legal, provenientes de personas físicas o morales que tengan interés en apoyar en la realización de sus actividades.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+###### ARTÍCULO 59 Decies.
+
+Para la creación de los Centros de Justicia para las Mujeres, se deberán priorizar los municipios con mayor índice de violencia contra las mujeres.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, D.O.F. 28 DE ENERO DE 2011)</small>
 
@@ -2006,3 +2298,23 @@ D.O.F. 25 DE ABRIL DE 2023.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
+
+D.O.F. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, EN MATERIA DE CENTROS DE JUSTICIA PARA LAS MUJERES”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal, a través de la Secretaría de Gobernación, promoverá ante las personas titulares de los Poderes Ejecutivos de las entidades federativas, así como las legislaturas locales, la adopción, implementación o reforma de los ordenamientos jurídicos necesarios en materia de Centros de Justicia para las Mujeres, a fin de fortalecer los ya existentes o bien crear los que sean necesarios, además para que designen partidas presupuestales específicas, que deberán ser establecidas para el ejercicio presupuestal inmediato posterior a la entrada en vigor del presente Decreto.
+
+Tercero.- Las personas titulares de los Poderes Ejecutivos de las entidades federativas, así como las legislaturas locales, deberán adoptar, implementar o reformar los ordenamientos jurídicos necesarios para crear los Centros de Justicia para las Mujeres, además de designar partidas presupuestales específicas, que deberán ser asignadas en el ejercicio presupuestal inmediato posterior a la entrada en vigor del presente Decreto.
+
+Cuarto.- Las legislaturas locales realizarán las reformas necesarias conforme a lo dispuesto en el presente Decreto, dentro de los 6 meses siguientes a su entrada en vigor.
+
+Quinto.- El Ejecutivo Federal realizará la revisión del Reglamento de la ley, conforme al actual Decreto, dentro de los 90 días posteriores a la entrada en vigor del mismo.
+
+Sexto.- Las dependencias de la Administración Pública Federal involucradas y las entidades federativas favorecerán la coordinación de acciones que propicien la optimización de recursos y la infraestructura con la que actualmente se cuenta, así como la homologación o creación de protocolos de acción necesarios.
+
+Séptimo.- El Consejo Nacional de Seguridad Pública deberá actualizar los lineamientos y acuerdos bajo los cuales se desarrollará la implementación de los Programas con Prioridad Nacional para que los Centros de Justicia para las Mujeres sean considerados como un Programa con Prioridad Nacional para el ejercicio del Fondo, Subsidio y demás recursos de carácter federal que se otorguen a las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en materia de seguridad pública.
+
+Octavo.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal y los subsecuentes.
