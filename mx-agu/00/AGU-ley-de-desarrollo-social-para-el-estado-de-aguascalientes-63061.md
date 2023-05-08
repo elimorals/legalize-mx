@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2023-01-23"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -721,9 +721,9 @@ Para el adecuado funcionamiento del Sistema Estatal, la Secretaría coordinará 
 
 Al Sistema Estatal además de la Secretaría se integrarán las siguientes dependencias del Poder Ejecutivo:
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-La Secretaría de Desarrollo Rural y Agroempresarial, la Secretaría de Finanzas, la Coordinación General de Planeación y Proyectos, la Secretaría de Gestión Urbanística, Ordenamiento Territorial Registral y Catastral, el Instituto de Servicios de Salud del Estado de Aguascalientes, el Instituto de Vivienda Social y Ordenamiento de la Propiedad, la Secretaría de Desarrollo Económico, la Secretaría de Obras Públicas, el Instituto de Educación de Aguascalientes, la Secretaría de Sustentabilidad, Medio Ambiente y Agua, y el Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes.
+La Secretaría de Desarrollo Rural y Agroempresarial, la Secretaría de Finanzas, la Secretaría de Planeación, Participación y Desarrollo, el Instituto de Servicios de Salud del Estado de Aguascalientes, el Instituto de Vivienda Social y Ordenamiento de la Propiedad, la Secretaría de Desarrollo Económico, Ciencia y Tecnología, la Secretaría de Obras Públicas, el Instituto de Educación de Aguascalientes, la Secretaría de Sustentabilidad, Medio Ambiente y Agua, y el Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes.
 
 Al sistema podrán adherirse las dependencias, organismos o instituciones vinculadas al desarrollo social de la entidad.
 
@@ -787,15 +787,15 @@ e) El titular de la Secretaría General de Gobierno;
 
 II. De forma temporal, cuando por un tema o asunto así lo requiera, se podrá integrar el titular respectivo de las siguientes dependencias:
 
-a) La Secretaría de Desarrollo Económico;
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
+a) La Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
-b) La Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral;
+b) (DEROGADO, P.O. 8 DE MAYO DE 2023)
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
 
-c) La Coordinación General de Planeación y Proyectos;
+c) La Secretaría de Planeación, Participación y Desarrollo;
 
 d) La Secretaría de Desarrollo Rural y Agroempresarial;
 
@@ -1342,3 +1342,15 @@ P.O. 23 DE ENERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
