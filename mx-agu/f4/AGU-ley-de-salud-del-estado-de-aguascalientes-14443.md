@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2023-01-17"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1065,13 +1065,25 @@ VII.- La atención de la transmisión del VIH/sida y otras infecciones de transm
 
 VIII.- La revisión de retina y tamiz auditivo al prematuro;
 
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-IX.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados; y
+IX.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados;
 
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-X.- El diagnóstico oportuno y la atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteroposterior de pelvis, entre el primer y cuarto mes de vida.
+X.- El diagnóstico oportuno y la atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteroposterior de pelvis, entre el primer y cuarto mes de vida;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XI.- La atención integral y el tratamiento efectivo para inhibir la lactancia materna, en caso de muerte fetal o perinatal;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XII.- La atención integral y multidisciplinaria de la muerte fetal o perinatal, a fin de garantizar el trato digno; el respeto y la protección de los derechos humanos, y el bienestar físico, psíquico y emocional de las mujeres, así como de las personas que las acompañen. Abordando integralmente, con sentido ético, respetuoso y humanitario, la muerte fetal y perinatal; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XIII.- El alojamiento conjunto de la persona recién nacida sin vida y de su madre o progenitores, lo anterior, en un espacio excluido de las demás mujeres que acaban de dar a luz, a efecto de brindarles una atención humanizada que les permita vivir su duelo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
@@ -1093,15 +1105,25 @@ III.- Canalizar hacia los programas culturales y deportivos especializados para 
 
 IV.- Informar a las mujeres embarazadas de los programas que ofrezcan las diferentes Instancias gubernamentales y Organizaciones de la Sociedad Civil para la capacitación de oficios y preparación para el trabajo;
 
-V.- Brindar asesoría integral a las mujeres embarazadas que manifiesten su intención de dar en adopción a su hija o hijo sobre los programas de salud, desarrollo social y atención familiar que brinden tanto instancias gubernamentales como Organizaciones de la Sociedad Civil; y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2021)</small>
+V.- Brindar asesoría integral a las mujeres embarazadas que manifiesten su intención de dar en adopción a su hija o hijo sobre los programas de salud, desarrollo social y atención familiar que brinden tanto instancias gubernamentales como Organizaciones de la Sociedad Civil;
 
-VI.- Promover la educación prenatal dirigida a la familia, a la madre y a los hijos, a fin de que se vivan procesos de embarazo dignos y de bajo riesgo; y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 10 DE MAYO DE 2021)</small>
+VI.- Promover la educación prenatal dirigida a la familia, a la madre y a los hijos, a fin de que se vivan procesos de embarazo dignos y de bajo riesgo;
 
-VII.- Celebrar convenios de todo tipo y naturaleza mediante los cuales logren llevar a cabo las facultades señaladas en las fracciones anteriores.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VII.- Celebrar convenios de todo tipo y naturaleza mediante los cuales logren llevar a cabo las facultades señaladas en las fracciones anteriores;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VIII.- Ofrecer atención psicológica y tanatológica a las mujeres que hayan sufrido la muerte fetal o perinatal de su descendiente; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+IX.- Ofrecer el acceso a la mujer a un diagnóstico prenatal, que permita esclarecer si existen o no causas modificables para evitar la pérdida perinatal o gestacional.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -1163,13 +1185,17 @@ IV.- Acciones relacionadas con educación básica, alfabetización de adultos, a
 
 V.- La promoción de habilitación de lactarios o salas de lactancia en los centros de trabajo de los sectores tanto público como privado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-VI.- La promoción de hábitos saludables para las mujeres embarazadas y sus familias, informando sobre el alto riesgo de las adicciones a sustancias químicas, la automedicación, la exposición a fármacos, tabaco, marihuana, alcohol o cualquier sustancia psicoactiva o psicotrópica que repercutan el desarrollo idóneo de la mujer y su hijo; y
+VI.- La promoción de hábitos saludables para las mujeres embarazadas y sus familias, informando sobre el alto riesgo de las adicciones a sustancias químicas, la automedicación, la exposición a fármacos, tabaco, marihuana, alcohol o cualquier sustancia psicoactiva o psicotrópica que repercutan el desarrollo idóneo de la mujer y su hijo;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2023)</small>
 
-VII.- Las demás que coadyuven a la salud materno-infantil.
+VII.- El diseño e implementación de estrategias y acciones para crear hábitos que permitan prevenir, tratar y controlar la adicción por el uso de videojuegos o dispositivos electrónicos en niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE MAYO DE 2023)</small>
+
+VIII.- Las demás que coadyuven a la salud materno-infantil.
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
@@ -1221,9 +1247,17 @@ e) A no ser objeto de procedimientos innecesarios cuando estos sean injustificad
 
 f) A realizar apego inmediato, mediante el contacto piel a piel inmediatamente después del nacimiento, siempre y cuando las condiciones médicas de la madre y de la persona recién nacida así lo permitan;
 
-VI (SIC).- Recibir el certificado de nacimiento o de defunción de su hijo, de forma inmediata, de acuerdo con el procedimiento administrativo que corresponde; y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-VII.– Se garantice mediante atención psicológica su salud mental antes y después del parto.
+V.- Recibir el certificado de nacimiento, defunción o de muerte fetal de su hijo o hija, según sea el caso, de forma inmediata, de acuerdo con el procedimiento administrativo que corresponde;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VI.- Se garantice mediante atención psicológica su salud mental antes y después del parto; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VII.- A recibir un trato digno y humanitario en caso de muerte fetal o perinatal. Protegiendo el bienestar físico, psíquico y emocional de ella y de las personas que la acompañen.
 
 ###### ARTICULO 74.
 
@@ -4440,3 +4474,19 @@ Dichas transferencias incluirán las adecuaciones presupuestarias derivadas de l
 DÉCIMO SEGUNDO. Se deberá llevar a cabo la inscripción del Instituto en los términos que establece la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, ante el Registro Público de la Propiedad y del Comercio, así mismo ante las instancias correspondientes.
 
 DÉCIMO TERCERO. Cuando esté siendo sustanciado un asunto competencia de la Secretaría de Salud del Estado de Aguascalientes o del Instituto de Servicios de Salud del Estado de Aguascalientes, con anterioridad a la vigencia del presente Decreto y que por disposición de éste, deba ser ejercida por el Instituto, deberán transferirse los expedientes en trámite y el archivo al Instituto la cual deberá concluir dichos asuntos y dictar la resolución correspondiente, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por quien los venía despachando.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 324.- REFORMA A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 325.- REFORMA A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO UNICO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
