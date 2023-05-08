@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2022-11-18"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -4566,6 +4566,10 @@ VIII.- Las Constituciones de los Estados establecerán organismos autónomos, es
 
 IX.- Las Constituciones de los Estados garantizarán que las funciones de procuración de justicia se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos.
 
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+X.- Las Legislaturas de las entidades federativas, observando en todo momento la supremacía de los símbolos patrios, podrán legislar en materia de símbolos estatales, como son: himno, escudo y bandera, a fin de fomentar el patrimonio cultural, la historia y la identidad local.
+
 ###### Art. 117.
 
 Los Estados no pueden, en ningún caso:
@@ -8853,3 +8857,9 @@ En adición a los recursos federales establecidos en el presente artículo trans
 Las partidas presupuestales a que hacen referencia los párrafos anteriores no se exceptuarán de la transparencia y fiscalización superior por razones de seguridad nacional y deberán ser utilizadas de conformidad con lo establecido en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Tercero.- Los procedimientos en trámite y pendientes de resolución en el Poder Judicial de la Federación a la entrada en vigor de este Decreto, se continuarán sustanciando hasta su resolución de fondo sin sobreseerse por cambio en la norma impugnada, y se resolverán conforme al régimen jurídico vigente al momento de su presentación.
+
+D.O.F. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE DECLARA ADICIONADA UNA FRACCIÓN X AL ARTÍCULO 116 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SÍMBOLOS DE LAS ENTIDADES FEDERATIVAS”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
