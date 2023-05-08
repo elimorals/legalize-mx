@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-universidad-politecnica-de-aguascalientes-157394"
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-11"
-last_updated: "2022-04-11"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección del Número 15 del Periódico Oficial del Estado de Aguascalientes, lunes 11 de abril de 2022.
 
@@ -237,11 +237,15 @@ I. La persona titular del Poder Ejecutivo del Estado quien la presidirá y podr�
 
 II. La persona titular de la Secretaría de Finanzas del Estado;
 
-III. La persona titular de la Secretaría de Desarrollo Económico del Estado;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+III. La persona titular de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
 IV. La persona titular del Instituto de Educación de Aguascalientes;
 
-V. La persona titular del Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+V. La persona titular del Instituto de Ciencia y Tecnología;
 
 VI. Un Legislador integrante de la Comisión de Educación y Cultura del Congreso del Estado, electo por mayoría de los integrantes de la propia comisión.
 
@@ -774,3 +778,17 @@ NANCY XÓCHITL MACÍAS PACHECO
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículo 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 8 de abril de 2022.- Martin Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Juan Manuel Flores Femat.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
