@@ -4,7 +4,7 @@ identifier: "LAN"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-01"
-last_updated: "2022-05-11"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAN"
 
 LEY DE AGUAS NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 1 de diciembre de 1992.
 
@@ -67,6 +67,10 @@ I. "Aguas Nacionales": Son aquellas referidas en el Párrafo Quinto del Artícul
 II. "Acuífero": Cualquier formación geológica o conjunto de formaciones geológicas hidráulicamente conectados entre sí, por las que circulan o se almacenan aguas del subsuelo que pueden ser extraídas para su explotación, uso o aprovechamiento y cuyos límites laterales y verticales se definen convencionalmente para fines de evaluación, manejo y administración de las aguas nacionales del subsuelo;
 
 III. "Aguas claras" o "Aguas de primer uso": Aquellas provenientes de distintas fuentes naturales y de almacenamientos artificiales que no han sido objeto de uso previo alguno;
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+III BIS. "Aguas de Laboreo": Aquéllas del subsuelo que necesariamente deban extraerse para permitir la realización de obras y trabajos de exploración y explotación minera.
 
 IV. "Aguas del subsuelo": Aquellas aguas nacionales existentes debajo de la superficie terrestre;
 
@@ -200,6 +204,10 @@ LVI. "Uso Doméstico": La aplicación de agua nacional para el uso particular de
 
 LVII. “Uso en Acuacultura”: El aprovechamiento de paso de aguas nacionales en el conjunto de actividades dirigidas a la reproducción controlada, pre engorda y engorda de especies de la fauna y flora realizadas en instalaciones en aguas nacionales, por medio de técnicas de cría o cultivo, que sean susceptibles de explotación comercial, ornamental o recreativa;
 
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+LVII BIS. "Uso industrial en la minería": El aprovechamiento, explotación o uso de aguas nacionales, incluyendo las aguas de laboreo, en la exploración, explotación o beneficio de minerales y sustancias reservadas a la Federación en los términos de la Ley de Minería, se considera un tipo de uso industrial;
+
 LVIII. "Uso industrial": La aplicación de aguas nacionales en fábricas o empresas que realicen la extracción, conservación o transformación de materias primas o minerales, el acabado de productos o la elaboración de satisfactores, así como el agua que se utiliza en parques industriales, calderas, dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa, las salmueras que se utilizan para la extracción de cualquier tipo de sustancias y el agua aun en estado de vapor, que sea usada para la generación de energía eléctrica o para cualquier otro uso o aprovechamiento de transformación;
 
 LIX. "Uso Pecuario": La aplicación de aguas nacionales para la cría y engorda de ganado, aves de corral y otros animales, y su preparación para la primera enajenación siempre que no comprendan la transformación industrial; no incluye el riego de pastizales;
@@ -233,6 +241,14 @@ Para los efectos de esta Ley, son aplicables las definiciones contenidas en el A
 ###### ARTICULO 4o.
 
 La autoridad y administración en materia de aguas nacionales y de sus bienes públicos inherentes corresponde al Ejecutivo Federal, quien la ejercerá directamente o a través de "la Comisión".
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Cualquier autorización, permiso, concesión, asignación o prórroga que se otorgue conforme a la presente ley debe priorizar el consumo humano y doméstico del agua.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+En caso de que exista riesgo de disponibilidad de agua para consumo humano y doméstico, "la Autoridad del Agua" disminuirá o cancelará el volumen de agua concesionada.
 
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
@@ -1328,17 +1344,25 @@ En ningún caso podrá el titular de una concesión o asignación disponer del a
 
 ARTICULO 23 BIS.- Sin mediar la transmisión definitiva de derechos o la modificación de las condiciones del título respectivo, cuando el titular de una concesión pretenda proporcionar a terceros en forma provisional el uso total o parcial de las aguas concesionadas, sólo podrá realizarlo con aviso previo a "la Autoridad del Agua", cuando así le corresponda conforme a lo establecido en el (sic) Fracción IX del Artículo 9 de la presente Ley.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 24.
 
-El término de la concesión o asignación para la explotación, uso o aprovechamiento de las aguas nacionales no será menor de cinco ni mayor de treinta años, de acuerdo con la prelación del uso específico del cual se trate, las prioridades de desarrollo, el beneficio social y el capital invertido o por invertir en forma comprobable en el aprovechamiento respectivo. En la duración de las concesiones y asignaciones, "la Autoridad del Agua" tomará en consideración las condiciones que guarde la fuente de suministro, la prelación de usos vigentes en la región que corresponda y las expectativas de crecimiento de dichos usos.
+El término de la concesión o asignación para la explotación, uso o aprovechamiento de las aguas nacionales no debe ser menor de cinco ni mayor de treinta años, de acuerdo con la prelación del uso específico del cual se trate, las prioridades de desarrollo, el beneficio social y el capital invertido o por invertir en forma comprobable en el aprovechamiento respectivo. En la duración de las concesiones y asignaciones, "la Autoridad del Agua" debe tomar en consideración las condiciones que guarde la fuente de suministro en cuanto a cantidad y calidad, la prelación de usos vigentes en la región que corresponda y las expectativas de crecimiento de dichos usos.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 Las concesiones o asignaciones en los términos del Artículo 22 de esta Ley, serán objeto de prórroga hasta por igual término y características del título vigente por el que se hubieren otorgado, siempre y cuando sus titulares no incurrieren en las causales de terminación previstas en la presente Ley, se cumpla con lo dispuesto en el Párrafo Segundo del Artículo 22 de esta Ley y en el presente Artículo y lo soliciten dentro de los últimos cinco años previos al término de su vigencia, al menos seis meses antes de su vencimiento.
 
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+
 La falta de presentación de la solicitud a que se refiere este Artículo dentro del plazo establecido, se considerará como renuncia al derecho de solicitar la prórroga.
 
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+
 Para decidir sobre el otorgamiento de la prórroga se considerará la recuperación total de las inversiones que haya efectuado el concesionario o asignatario, en relación con la explotación, uso o aprovechamiento de los volúmenes concesionados o asignados.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 "La Autoridad del Agua" está obligada a notificar personalmente a los promoventes la resolución sobre las solicitudes respectivas referidas en el presente Capítulo, conforme al plazo establecido en el Artículo 22 de la presente Ley y al procedimiento establecido en el Artículo 35 de la Ley Federal de Procedimiento Administrativo. En caso de que la autoridad omita dar a conocer al promovente la resolución recaída a su solicitud, se considerará que ha resuelto negar lo solicitado. La falta de resolución a la solicitud podrá implicar responsabilidades a los servidores públicos a quienes competa tal resolución, conforme a lo dispuesto en las leyes aplicables.
 
@@ -1640,13 +1664,25 @@ XV. Proporcionar a terceros en forma provisional el uso total o parcial de las a
 
 XVI. Incumplir con lo dispuesto en la Ley respecto de la explotación, uso o aprovechamiento de aguas nacionales o preservación y control de su calidad, cuando por la misma causa al infractor se le hubiere aplicado con anterioridad sanción mediante resolución que quede firme, conforme a las fracciones II y III del Artículo 120 de esta Ley;
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-XVII. Por incumplimiento de las medidas preventivas y correctivas que ordene "la Autoridad del Agua", y
+XVII. Por incumplimiento de las medidas preventivas y correctivas que ordene "la Autoridad del Agua";
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 8 DE MAYO DE 2023)</small>
 
-XVIII. Las demás previstas en esta Ley, en sus reglamentos o en las propias concesiones.
+XVIII. Cuando, para obtener o conservar una concesión, la persona titular hubiere presentado documentación falsa;
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XIX. Por hechos o actos supervenientes de interés público, general o social, o que causen algún tipo de desequilibrio económico, social, ambiental o de cualquier otra índole;
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XX. Cuando no se cumpla con el Programa de Restauración, Cierre y Post-cierre previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XVIII], D.O.F. 8 DE MAYO DE 2023)</small>
+
+XXI. Las demás previstas en esta Ley, en sus reglamentos o en las propias concesiones.
 
 > <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
@@ -1825,6 +1861,10 @@ Cuando se transmita la titularidad de una concesión el adquirente se subrogará
 ###### ARTICULO 37.
 
 Serán nulas y no producirán ningún efecto las transmisiones que se efectúen en contravención a lo dispuesto en la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Queda prohibida la transmisión, para uso industrial en la minería, de los derechos para explotar, usar o aprovechar aguas nacionales de cualquier otro uso.
 
 > <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
@@ -2440,11 +2480,47 @@ Se requerirá permiso de descarga y autorización en materia de impacto ambienta
 
 Las concesiones de agua otorgadas por "la Comisión", podrán ser objeto de modificación en caso de alteración de los puntos de extracción o inyección, redistribución de volúmenes, relocalización, reposición y cierre de pozos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE MAYO DE 2023)</small>
+
+### Capítulo III Bis. Uso Industrial en la Minería
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+ARTICULO 81 BIS. La persona solicitante de una concesión de aguas nacionales para uso industrial en la minería, además de lo dispuesto en el artículo 21 BIS de esta Ley, debe presentar lo siguiente:
+
+I. Fallo del concurso de concesión minera favorable a la persona solicitante a que se refiere la fracción VI del artículo 13 Bis de la Ley de Minería;
+
+II. El documento en el que se indiquen los métodos y obras auxiliares que se utilizarán para el uso del agua de laboreo en las obras de exploración y explotación, así como el volumen estimado que se prevé manejar. Dicha información debe ser pública;
+
+III. El diseño de redes de pozos de monitoreo de cantidad y calidad del agua;
+
+IV. La autorización del Programa de Restauración, Cierre y Post-cierre de minas, previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y
+
+V. El documento que indique cuáles serán los dispositivos de medición telemétrica con capacidad de transmisión a "la Autoridad del Agua" en tiempo real y su localización, para que todas las tomas de agua superficiales o subterráneas sean medidas, sin excepción.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+ARTICULO 81 BIS 1. Los concesionarios de aguas nacionales para uso industrial en la minería, además de las establecidas en el artículo 29 de la presente Ley, tienen la obligación de medir el volumen de agua explotada, usada o aprovechada que se extraiga de las cuencas y acuíferos, así como las aguas provenientes de laboreo de las minas para uso industrial o de servicios, conforme a lo dispuesto en la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+ARTICULO 81 BIS 2. El volumen de aguas que se establezca en la concesión para uso industrial en la minería comprende el volumen de aguas subterráneas extraídas vía pozos como tomas de aguas superficiales.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+ARTICULO 81 BIS 3. En ningún caso las aguas nacionales pueden utilizarse para el transporte de materiales provenientes de la operación minera.
+
+En caso de solicitudes de concesión para el uso industrial en la minería, no se debe autorizar la construcción de pozos de extracción cuya profundidad pudiera afectar la disponibilidad de agua para otros usos.
+
+En la concesión de aguas nacionales para uso industrial en la minería, no se debe otorgar el permiso para la profundización de pozos de extracción.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+ARTICULO 81 BIS 4. Las concesiones de aguas nacionales para uso industrial en la minería tendrán una vigencia máxima de treinta años, contados a partir del día siguiente a la expedición del título de concesión.
+
+La concesión de aguas nacionales para uso industrial en la minería puede prorrogarse hasta por veinticinco años e iguales características del título por el que se hubiere otorgado, siempre y cuando la concesión minera se encuentre vigente y sus titulares cumplan con lo previsto en el Programa de Restauración, Cierre y Post-cierre de minas, en el título de concesión, así como en las disposiciones jurídicas aplicables, y lo soliciten al menos seis meses previos al término de su vigencia.
+
 ### Capítulo IV. Uso en Otras Actividades Productivas
-
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
-
-### Capítulo V. Control de Avenidas y Protección Contra Inundaciones
 
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
@@ -2455,6 +2531,28 @@ La explotación, uso o aprovechamiento de las aguas nacionales en actividades in
 "La Comisión", en coordinación con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, otorgará facilidades para el desarrollo de la acuacultura y el otorgamiento de las concesiones de agua necesarias; asimismo apoyará, a solicitud de los interesados, el aprovechamiento acuícola en la infraestructura hidráulica federal, que sea compatible con su explotación, uso o aprovechamiento. Para la realización de lo anterior, "la Comisión" se apoyará en los Organismos de Cuenca.
 
 Las actividades de acuacultura efectuadas en sistemas suspendidos en aguas nacionales no requerirán de concesión, en tanto no se desvíen los cauces y siempre que no se afecten la calidad de agua, la navegación, otros usos permitidos y los derechos de terceros.
+
+### Capítulo V. Control de Avenidas y Protección Contra Inundaciones
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 83.
+
+"La Comisión", a través de los Organismos de Cuenca, en coordinación con los gobiernos estatales y municipales, o en concertación con personas físicas o morales, deberá construir y operar, según sea el caso, las obras para el control de avenidas y protección de zonas inundables, así como caminos y obras complementarias que hagan posible el mejor aprovechamiento de las tierras y la protección a centros de población, industriales y, en general, a las vidas de las personas y de sus bienes, conforme a las disposiciones del Título Octavo.
+
+"La Comisión", en los términos del reglamento, y con el apoyo de los Organismos de Cuenca, clasificará las zonas en atención a sus riesgos de posible inundación, emitirá las normas y, recomendaciones necesarias, establecerá las medidas de operación, control y seguimiento y aplicará los fondos de contingencia que se integren al efecto.
+
+Los Organismos de Cuenca apoyarán a "la Comisión", de conformidad con las leyes en la materia, para promover, en su caso, en coordinación con las autoridades competentes, el establecimiento de seguros contra daños por inundaciones en zonas de alto riesgo, de acuerdo con la clasificación a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 84.
+
+"La Comisión" determinará la operación de la infraestructura hidráulica para el control de avenidas y tomará las medidas necesarias para dar seguimiento a fenómenos climatológicos extremos, promoviendo o realizando las acciones preventivas que se requieran; asimismo, realizará las acciones necesarias que al efecto acuerde su Consejo Técnico para atender las zonas de emergencia hidráulica o afectadas por fenómenos climatológicos extremos, en coordinación con las autoridades competentes.
+
+Para el cumplimiento eficaz y oportuno de lo dispuesto en el presente Artículo, "la Comisión" actuará en lo conducente a través de los Organismos de Cuenca.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ### Capítulo V BIS. Cultura del Agua
 
@@ -2484,25 +2582,11 @@ ARTICULO 84 BIS 2.- "La Secretaría", "la Comisión" o el Organismo de Cuenca de
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE ABRIL DE 2004)</small>
 
-###### ARTICULO 83.
-
-"La Comisión", a través de los Organismos de Cuenca, en coordinación con los gobiernos estatales y municipales, o en concertación con personas físicas o morales, deberá construir y operar, según sea el caso, las obras para el control de avenidas y protección de zonas inundables, así como caminos y obras complementarias que hagan posible el mejor aprovechamiento de las tierras y la protección a centros de población, industriales y, en general, a las vidas de las personas y de sus bienes, conforme a las disposiciones del Título Octavo.
-
-"La Comisión", en los términos del reglamento, y con el apoyo de los Organismos de Cuenca, clasificará las zonas en atención a sus riesgos de posible inundación, emitirá las normas y, recomendaciones necesarias, establecerá las medidas de operación, control y seguimiento y aplicará los fondos de contingencia que se integren al efecto.
-
-Los Organismos de Cuenca apoyarán a "la Comisión", de conformidad con las leyes en la materia, para promover, en su caso, en coordinación con las autoridades competentes, el establecimiento de seguros contra daños por inundaciones en zonas de alto riesgo, de acuerdo con la clasificación a que se refiere el párrafo anterior.
+### Capítulo I. Prevención y Control de la Contaminación del Agua
 
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
-###### ARTICULO 84.
-
-"La Comisión" determinará la operación de la infraestructura hidráulica para el control de avenidas y tomará las medidas necesarias para dar seguimiento a fenómenos climatológicos extremos, promoviendo o realizando las acciones preventivas que se requieran; asimismo, realizará las acciones necesarias que al efecto acuerde su Consejo Técnico para atender las zonas de emergencia hidráulica o afectadas por fenómenos climatológicos extremos, en coordinación con las autoridades competentes.
-
-Para el cumplimiento eficaz y oportuno de lo dispuesto en el presente Artículo, "la Comisión" actuará en lo conducente a través de los Organismos de Cuenca.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
-
-### Capítulo I. Prevención y Control de la Contaminación del Agua
+## TITULO SEPTIMO. PREVENCION Y CONTROL DE LA CONTAMINACION DE LAS AGUAS Y RESPONSABILIDAD POR DAÑO AMBIENTAL
 
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
@@ -2523,32 +2607,6 @@ ARTICULO 96 BIS 1. Las personas físicas o morales que descarguen aguas residual
 > <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 "La Comisión", con apoyo en el Organismo de Cuenca competente, intervendrá para que se instrumente la reparación del daño ambiental a cuerpos de agua de propiedad nacional causado por extracciones o descargas de agua, en los términos de esta Ley y sus reglamentos.
-
-## TITULO SEPTIMO. PREVENCION Y CONTROL DE LA CONTAMINACION DE LAS AGUAS Y RESPONSABILIDAD POR DAÑO AMBIENTAL
-
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
-
-### Capítulo I. Disposiciones Generales
-
-> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2004)</small>
-
-ARTICULO 96 BIS 2.- Se consideran como obras públicas necesarias que competen al Ejecutivo Federal a través de "la Comisión", las que:
-
-I. Mejoren y amplíen el conocimiento sobre la ocurrencia del agua, en cantidad y calidad, en todas las fases del ciclo hidrológico, así como de los fenómenos vinculados con dicha ocurrencia, a su cargo;
-
-II. Regulen y conduzcan el agua, para garantizar la disponibilidad y aprovechamiento del agua en las cuencas, salvo en los casos en los cuales hayan sido realizadas o estén expresamente al cargo y resguardo de otros órdenes de gobierno;
-
-III. Controlen, y sirvan para la defensa y protección de las aguas nacionales, así como aquellas que sean necesarias para prevenir inundaciones, sequías y otras situaciones excepcionales que afecten a los bienes de dominio público hidráulico; sin perjuicio de las competencias de los Gobiernos Estatales o Municipales;
-
-IV. Permitan el abastecimiento, potabilización y desalinización cuya realización afecte a dos o más estados;
-
-V. Tengan importancia estratégica en una región hidrológica por sus dimensiones o costo de inversión;
-
-VI. Sean necesarias para la ejecución de planes o programas nacionales distintos de los hídricos, pero que guarden relación con éstos, cuando la responsabilidad de las obras corresponda al Ejecutivo Federal, conforme a solicitud del estado o del Distrito Federal en cuyo territorio se ubique, y
-
-VII. Sean necesarias para el cumplimiento de esta Ley y sus reglamentos.
-
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 85.
 
@@ -2672,6 +2730,10 @@ IV. Instalar y mantener en buen estado, los aparatos medidores y los accesos par
 
 V. Hacer del conocimiento de "la Autoridad del Agua" los contaminantes presentes en las aguas residuales que generen por causa del proceso industrial o del servicio que vienen operando, y que no estuvieran considerados en las condiciones particulares de descarga fijadas;
 
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+V BIS. Para el uso industrial en la minería, presentar ante "la Autoridad del Agua" un reporte mensual de las mediciones diarias que contenga los análisis cronológicos e indicadores de calidad del agua de las descargas realizadas en aguas superficiales y subterráneas, garantizando su calidad de conformidad con los parámetros que al efecto establezca dicha autoridad;
+
 VI. Informar a "la Autoridad del Agua" de cualquier cambio en sus procesos, cuando con ello se ocasionen modificaciones en las características o en los volúmenes de las aguas residuales contenidas en el permiso de descarga correspondiente;
 
 > <small>(ADICIONADA, D.O.F. 6 DE ENERO DE 2020)</small>
@@ -2774,9 +2836,17 @@ II. La calidad de las descargas no se sujete a las Normas Oficiales Mexicanas co
 
 III. Se omita el pago del derecho por el uso o aprovechamiento de bienes nacionales como cuerpos receptores de descargas de aguas residuales durante más de un año fiscal;
 
-IV. El responsable de la descarga, contraviniendo los términos de Ley, utilice el proceso de dilución de las aguas residuales para tratar de cumplir con las Normas Oficiales Mexicanas respectivas o las condiciones particulares de descarga, y
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-V. Cuando no se presente cada dos años un informe que contenga los análisis e indicadores de la calidad del agua que descarga.
+IV. El responsable de la descarga, contraviniendo los términos de Ley, utilice el proceso de dilución de las aguas residuales para tratar de cumplir con las Normas Oficiales Mexicanas respectivas o las condiciones particulares de descarga;
+
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+V. Cuando no se presente cada dos años un informe que contenga los análisis e indicadores de la calidad del agua que descarga, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+VI. No se presente el informe mensual de las descargas a que se refiere la fracción V BIS del artículo 88 BIS de la presente Ley.
 
 La suspensión será sin perjuicio de la responsabilidad civil, penal o administrativa en que se hubiera podido incurrir.
 
@@ -2832,13 +2902,31 @@ En las zonas de riego y en aquellas zonas de contaminación extendida o dispersa
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
 
-### Capítulo II. Participación de Inversión Privada y Social en Obras Hidráulicas Federales
+### Capítulo I. Disposiciones Generales
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+
+ARTICULO 96 BIS 2.- Se consideran como obras públicas necesarias que competen al Ejecutivo Federal a través de "la Comisión", las que:
+
+I. Mejoren y amplíen el conocimiento sobre la ocurrencia del agua, en cantidad y calidad, en todas las fases del ciclo hidrológico, así como de los fenómenos vinculados con dicha ocurrencia, a su cargo;
+
+II. Regulen y conduzcan el agua, para garantizar la disponibilidad y aprovechamiento del agua en las cuencas, salvo en los casos en los cuales hayan sido realizadas o estén expresamente al cargo y resguardo de otros órdenes de gobierno;
+
+III. Controlen, y sirvan para la defensa y protección de las aguas nacionales, así como aquellas que sean necesarias para prevenir inundaciones, sequías y otras situaciones excepcionales que afecten a los bienes de dominio público hidráulico; sin perjuicio de las competencias de los Gobiernos Estatales o Municipales;
+
+IV. Permitan el abastecimiento, potabilización y desalinización cuya realización afecte a dos o más estados;
+
+V. Tengan importancia estratégica en una región hidrológica por sus dimensiones o costo de inversión;
+
+VI. Sean necesarias para la ejecución de planes o programas nacionales distintos de los hídricos, pero que guarden relación con éstos, cuando la responsabilidad de las obras corresponda al Ejecutivo Federal, conforme a solicitud del estado o del Distrito Federal en cuyo territorio se ubique, y
+
+VII. Sean necesarias para el cumplimiento de esta Ley y sus reglamentos.
 
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ## TITULO OCTAVO. INVERSION EN INFRAESTRUCTURA HIDRAULICA
 
-### Capítulo III. Recuperación de Inversión Pública
+### Capítulo II. Participación de Inversión Privada y Social en Obras Hidráulicas Federales
 
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
@@ -2878,9 +2966,9 @@ Cuando con motivo de dichas obras se pudiera afectar el régimen hidráulico o h
 
 En caso de que la inversión se realice total o parcialmente con recursos federales, o que la infraestructura se construya mediante créditos avalados por el Gobierno Federal, "la Comisión" en el ámbito de su competencia establecerá las normas, características y requisitos para su ejecución y supervisión, salvo que por ley correspondan a otra dependencia o entidad.
 
-### Capítulo IV. Cobro por Explotación, Uso o Aprovechamiento de Aguas Nacionales y Bienes Nacionales
+### Capítulo III. Recuperación de Inversión Pública
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 102.
 
@@ -2964,17 +3052,9 @@ La recuperación total o parcial de la inversión privada o social se podrá efe
 
 Las obras públicas de infraestructura hidráulica o los bienes necesarios para su construcción u operación se podrán destinar a fideicomisos, establecidos en instituciones de crédito, para que, a través de la administración y operaciones sobre el uso o aprovechamiento de dichas obras, se facilite la recuperación de la inversión efectuada. Una vez cumplido el objeto del fideicomiso deberán revertir al Gobierno Federal, en caso contrario, se procederá a su desincorporación en los términos de la Ley aplicable en la materia.
 
-### Capítulo Único
+### Capítulo IV. Cobro por Explotación, Uso o Aprovechamiento de Aguas Nacionales y Bienes Nacionales
 
-> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2004)</small>
-
-ARTICULO 111 BIS.- El Ejecutivo Federal proveerá los medios y marco adecuados para definir, crear e instrumentar sustentablemente el Sistema Financiero del Agua; su operación quedará al cargo de "la Comisión", bajo la supervisión y apoyo de la Secretaría de Hacienda y Crédito Público.
-
-El Sistema Financiero del Agua tendrá como propósito servir como base para soportar las acciones en materia de gestión integrada de los recursos hídricos en el territorio nacional, sin perjuicio de la continuidad y fortalecimiento de otros mecanismos financieros con similares propósitos.
-
-El Sistema Financiero del Agua determinará con claridad las distintas fuentes financieras, formas de consecución de recursos financieros, criterios de aplicación del gasto y recuperación, en su caso, de tales recursos financieros, rendición de cuentas e indicadores de gestión, así como metas resultantes de la aplicación de tales recursos e instrumentos financieros.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 109.
 
@@ -2994,37 +3074,25 @@ En los distritos de riego y en las unidades de riego o de temporal tecnificado, 
 
 > <small>(DEROGADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
-### Capítulo Unico
+### Capítulo Único
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+
+ARTICULO 111 BIS.- El Ejecutivo Federal proveerá los medios y marco adecuados para definir, crear e instrumentar sustentablemente el Sistema Financiero del Agua; su operación quedará al cargo de "la Comisión", bajo la supervisión y apoyo de la Secretaría de Hacienda y Crédito Público.
+
+El Sistema Financiero del Agua tendrá como propósito servir como base para soportar las acciones en materia de gestión integrada de los recursos hídricos en el territorio nacional, sin perjuicio de la continuidad y fortalecimiento de otros mecanismos financieros con similares propósitos.
+
+El Sistema Financiero del Agua determinará con claridad las distintas fuentes financieras, formas de consecución de recursos financieros, criterios de aplicación del gasto y recuperación, en su caso, de tales recursos financieros, rendición de cuentas e indicadores de gestión, así como metas resultantes de la aplicación de tales recursos e instrumentos financieros.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ## TITULO OCTAVO BIS. SISTEMA FINANCIERO DEL AGUA
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE ABRIL DE 2004)</small>
 
-### Capítulo I. Medidas de Apremio y Seguridad
+### Capítulo Unico
 
-> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2012)</small>
-
-ARTÍCULO 118 BIS 1.- “La Comisión” para hacer cumplir sus determinaciones podrá solicitar a las autoridades federales, estatales o municipales, el auxilio de la fuerza pública.
-
-> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2012)</small>
-
-ARTICULO 118 BIS 2.- En caso de existir riesgo inminente, daño, deterioro a la salud, a las aguas nacionales, a los bienes a que se refiere el artículo 113 de esta ley, a la biodiversidad o a los ecosistemas vinculados con el agua, la autoridad del agua o la Procuraduría en el ámbito de sus respectivas competencias, podrán realizar de manera inmediata alguna o algunas de las siguientes medidas:
-
-I. Clausura temporal del aprovechamiento de aguas nacionales.
-
-II. Suspensión de las actividades que dan origen al proceso generador de las descargas de aguas residuales.
-
-III. Promover ante las autoridades de protección civil y seguridad pública de los gobiernos Federal, de los estados, del Distrito Federal y de los municipios, la adopción de medidas urgentes incluidas el aseguramiento de bienes, remoción o demolición de infraestructura, con el objeto de proteger la vida y los bienes de las personas.
-
-Las medidas establecidas en las fracciones I y II se mantendrán hasta el momento en que cesen las condiciones que dieron motivo al establecimiento de las mismas.
-
-> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2012)</small>
-
-ARTÍCULO 118 BIS 3.- Cuando “la Autoridad del Agua” aplique las medidas de seguridad a que se refiere el artículo anterior, indicará al usuario, concesionario o asignatario, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de la medida, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
-
-(REUBICADO [N. DE E. ANTES CAPÍTULO I], D.O.F. 8 DE JUNIO DE 2012)
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 112.
 
@@ -3050,9 +3118,29 @@ IV. Las demás que resulten aplicables, en términos de Ley.
 
 ## TITULO NOVENO. BIENES NACIONALES A CARGO DE "LA COMISION"
 
-### Capítulo II. Infracciones y Sanciones Administrativas
+### Capítulo I. Medidas de Apremio y Seguridad
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+ARTÍCULO 118 BIS 1.- “La Comisión” para hacer cumplir sus determinaciones podrá solicitar a las autoridades federales, estatales o municipales, el auxilio de la fuerza pública.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+ARTICULO 118 BIS 2.- En caso de existir riesgo inminente, daño, deterioro a la salud, a las aguas nacionales, a los bienes a que se refiere el artículo 113 de esta ley, a la biodiversidad o a los ecosistemas vinculados con el agua, la autoridad del agua o la Procuraduría en el ámbito de sus respectivas competencias, podrán realizar de manera inmediata alguna o algunas de las siguientes medidas:
+
+I. Clausura temporal del aprovechamiento de aguas nacionales.
+
+II. Suspensión de las actividades que dan origen al proceso generador de las descargas de aguas residuales.
+
+III. Promover ante las autoridades de protección civil y seguridad pública de los gobiernos Federal, de los estados, del Distrito Federal y de los municipios, la adopción de medidas urgentes incluidas el aseguramiento de bienes, remoción o demolición de infraestructura, con el objeto de proteger la vida y los bienes de las personas.
+
+Las medidas establecidas en las fracciones I y II se mantendrán hasta el momento en que cesen las condiciones que dieron motivo al establecimiento de las mismas.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+ARTÍCULO 118 BIS 3.- Cuando “la Autoridad del Agua” aplique las medidas de seguridad a que se refiere el artículo anterior, indicará al usuario, concesionario o asignatario, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de la medida, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO I], D.O.F. 8 DE JUNIO DE 2012)
 
 ###### ARTICULO 113.
 
@@ -3174,6 +3262,10 @@ Para el otorgamiento de las concesiones mencionadas en el párrafo anterior, se 
 
 Para el otorgamiento de las concesiones de la zona federal a que se refiere este Artículo, en igualdad de circunstancias, fuera de las zonas urbanas y para fines productivos, tendrá preferencia el propietario o poseedor colindante a dicha zona federal.
 
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+"La Autoridad del Agua" tiene prohibido otorgar concesiones sobre cauces o vasos y sus zonas federales para la disposición final de residuos mineros o depósitos de aguas residuales de uso minero.
+
 > <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ARTICULO 118 BIS.- Los concesionarios a que se refiere el presente Capítulo estarán obligados a:
@@ -3201,6 +3293,10 @@ En relación con materiales pétreos, se estará a lo dispuesto en el Artículo 
 ## TITULO DECIMO. MEDIDAS DE APREMIO, SEGURIDAD, INFRACCIONES, SANCIONES Y RECURSOS
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE JUNIO DE 2012)</small>
+
+### Capítulo II. Infracciones y Sanciones Administrativas
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2004)</small>
 
 ### Capítulo III. Recurso de Revisión y Denuncia Popular
 
@@ -3256,7 +3352,9 @@ XX. Modificar o desviar los cauces, vasos o corrientes cuando sean propiedad nac
 
 XXI. No informar a "la Autoridad del Agua", de cualquier cambio en sus procesos cuando con ello se ocasionen modificaciones en las características o en los volúmenes de las aguas residuales que hubieren servido para expedir el permiso de descarga correspondiente;
 
-XXII. Dejar de llevar y presentar los registros cronológicos a que se refiere "la Ley";
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XXII. Dejar de presentar los registros cronológicos a que se refiere "la Ley" u omitir la presentación del reporte mensual descrito en el artículo 88 BIS, fracción V BIS, de la presente Ley;
 
 > <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2012)</small>
 
@@ -3555,3 +3653,39 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY MINERA, DE LA LEY DE AGUAS NACIONALES, DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE Y DE LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, EN MATERIA DE CONCESIONES PARA MINERÍA Y AGUA”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan las disposiciones jurídicas que se opongan al presente Decreto.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes; en caso de que se realice alguna modificación a la estructura orgánica de los mismos, ésta deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
+
+Cuarto. La persona titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las reformas correspondientes a las disposiciones reglamentarias respectivas.
+
+Quinto. En tanto se emite la normativa señalada en el artículo anterior, se seguirán aplicando las disposiciones que se encontraban vigentes antes de la entrada en vigor del presente Decreto, siempre que no se opongan a éste.
+
+Las menciones a la Ley Minera contenidas en otras leyes, reglamentos y en cualquier disposición de carácter general se entienden referidas a la Ley de Minería.
+
+Las solicitudes en trámite de nueva concesión de exploración y explotación se desecharán sin mayor trámite, en virtud de lo dispuesto por el presente Decreto.
+
+Sexto. Las concesiones de exploración y explotación otorgadas con anterioridad a la entrada en vigor del presente Decreto tendrán la duración prevista en el título respectivo.
+
+Séptimo. A partir de la entrada en vigor del presente Decreto, no se otorgarán prórrogas a las concesiones en Áreas Naturales Protegidas, así como a las ya emitidas para la exploración, explotación y beneficio del mercurio dentro del territorio nacional.
+
+Octavo. Para efectos de la caducidad a que se refiere el artículo 53 Bis de la Ley de Minería, los plazos se computarán a partir de la entrada en vigor del presente Decreto.
+
+Noveno. Los procedimientos y recursos administrativos relacionados con las actividades de minería y aguas iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio, y las demás disposiciones aplicables en la materia de que se trate, siempre que no se opongan a lo previsto en el presente Decreto.
+
+Décimo. Las personas titulares de concesiones mineras, dentro de los trescientos sesenta y cinco días naturales contados a partir de la entrada en vigor del presente Decreto, deberán presentar el vehículo financiero a que se refiere la Ley de Minería, que garantice los posibles daños que se generen durante la ejecución de las actividades mineras, así como presentar para autorización de la Secretaría de Medio Ambiente y Recursos Naturales el Programa de Restauración, Cierre y Post-cierre de Minas.
+
+Décimo Primero. Las personas titulares de concesiones mineras deben garantizar que los depósitos o sitios de disposición final de terreros, presas de jales o escorias no afecten núcleos de población, zonas productivas o ecosistemas, de conformidad con las disposiciones jurídicas aplicables.
+
+Cuando las autoridades competentes determinen que los depósitos o sitios de disposición final de terreros, presas de jales o escorias presenten riesgos para la seguridad o salud de la población, zonas productivas o de los ecosistemas, las personas concesionarias tendrán un plazo de trescientos sesenta y cinco días naturales contados a partir de la notificación correspondiente por parte de la autoridad competente para realizar la remoción o remediación necesaria.
+
+Décimo Segundo. En los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el Servicio Geológico Mexicano deberá retirar su participación de fondos de inversión de riesgo compartido en los que tenga activos, en tanto no le genere pérdidas. Para tales efectos, podrá mantener su posición hasta que éstos se encuentren en los valores en los que se adquirieron.
+
+Décimo Tercero. Las personas titulares de concesiones de aguas nacionales que realicen actividades de exploración, explotación, beneficio y aprovechamiento minero, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, deberán solicitar a “la Autoridad del Agua” el cambio de uso industrial al uso industrial en la minería, a efecto de regularizar su situación jurídica, de conformidad con las disposiciones normativas aplicables.
