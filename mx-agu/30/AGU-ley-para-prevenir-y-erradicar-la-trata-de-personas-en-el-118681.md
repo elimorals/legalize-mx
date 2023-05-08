@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-y-erradicar-la-trata-de-personas-en-el-118681
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-30"
-last_updated: "2021-06-29"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección al Número 5 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2017.
 
@@ -401,7 +401,9 @@ V.- Impulsar en el ámbito de su competencia, la realización de las acciones te
 
 VI.- Incentivar a la Comisión, a realizar acciones tendientes a identificar, prevenir y erradicar toda forma de explotación laboral;
 
-VII.- Establecer, en coordinación con la Secretaría de Desarrollo Económico, medidas de apoyo y capacitación laboral para las víctimas del delito de Trata de personas; y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VII.- Establecer, en coordinación con la Secretaría de Desarrollo Económico, Ciencia y Tecnología, medidas de apoyo y capacitación laboral para las víctimas del delito de Trata de personas; y
 
 VIII.- Las demás que le confieran otros ordenamientos jurídicos aplicables a la materia, así como aquellas que se estimen necesarias para el cumplimiento de la presente Ley.
 
@@ -772,3 +774,15 @@ Dentro de los noventa días siguientes a la entrada en vigor del presente decret
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
