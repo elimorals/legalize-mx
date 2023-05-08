@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-160750"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2022-10-27"
-last_updated: "2022-10-27"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160750&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2022-10-17"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
 
 Acuerdo publicado en el Número 24 del Diario Oficial de la Federación, el jueves 27 de octubre de 2022.
 
@@ -857,9 +857,13 @@ SEXTO. Se instruye a la Unidad de Prevención y Combate a la Violencia Laboral, 
 
 SÉPTIMO. Se instruye a la Unidad, con la colaboración de las Direcciones Generales de Innovación, Planeación y Desarrollo Institucional; y Estrategia y Transformación Digital, para diseñar y presentar a aprobación ante el Pleno del Consejo, dentro del plazo de cuatro meses contados a partir de la creación de la Unidad, la encuesta anual a que se refiere el Título Segundo de este cuerpo normativo.
 
-OCTAVO. La regulación referente a las vacaciones que se establece en el Título Tercero de este Acuerdo entrará en vigor el primer semestre de 2023.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL QUE REFORMA EL DIVERSO PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO, EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA REGULACIÓN RELATIVA AL OTORGAMIENTO DE LOS PERIODOS VACACIONALES DE LAS PERSONAS SERVIDORAS PÚBLICAS ADSCRITAS A LOS TRIBUNALES COLEGIADOS DE APELACIÓN, JUZGADOS DE DISTRITO Y CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 8 DE MAYO DE 2023)</small>
 
-NOVENO. Se instruye a las direcciones generales de Tecnologías de la Información; y de Estrategia y Transformación Digital, para diseñar y presentar ante el Comité de Gobernanza Digital para conocimiento, a más tardar dentro del plazo de seis meses, contados a partir de la entrada en vigor de este Acuerdo General, la propuesta del sistema informático para la asignación de las vacaciones a que hace alusión el Título Segundo del presente Acuerdo General.
+OCTAVO. La regulación referente a las vacaciones que se establece en los artículos 8, 9, 10, 11, 12 y 13 de este Acuerdo entrará en vigor cuando lo determine el Pleno del Consejo de la Judicatura Federal.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL QUE REFORMA EL DIVERSO PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO, EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA REGULACIÓN RELATIVA AL OTORGAMIENTO DE LOS PERIODOS VACACIONALES DE LAS PERSONAS SERVIDORAS PÚBLICAS ADSCRITAS A LOS TRIBUNALES COLEGIADOS DE APELACIÓN, JUZGADOS DE DISTRITO Y CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 8 DE MAYO DE 2023)</small>
+
+NOVENO. Se instruye a las direcciones generales de Tecnologías de la Información; y de Estrategia y Transformación Digital, para diseñar y presentar ante el Comité de Gobernanza Digital para conocimiento, la propuesta del sistema informático para la asignación de las vacaciones a que hace alusión el Título Segundo del presente Acuerdo General, cuando lo determine el Pleno del Consejo de la Judicatura Federal.
 
 DÉCIMO. Se instruye a Visitaduría Judicial la implementación de las medidas necesarias para la supervisión del cumplimiento de lo relativo a la asignación de las vacaciones a que se refiere el Título Segundo del presente Acuerdo General.
 
@@ -878,3 +882,13 @@ DECIMOSEXTO. Se instruye a la Dirección General de Asuntos Jurídicos del Conse
 DECIMOSÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal para prevenir la violencia laboral y mejorar el ambiente de trabajo en el propio Consejo, fue aprobado por el Pleno del propio Consejo, en sesión extraordinaria de 13 de octubre de 2022, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Lilia Mónica López Benítez y Sergio Javier Molina Martínez.- Ciudad de México, a 17 de octubre de 2022.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL QUE REFORMA EL DIVERSO PARA PREVENIR LA VIOLENCIA LABORAL Y MEJORAR EL AMBIENTE DE TRABAJO EN EL PROPIO CONSEJO, EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA REGULACIÓN RELATIVA AL OTORGAMIENTO DE LOS PERIODOS VACACIONALES DE LAS PERSONAS SERVIDORAS PÚBLICAS ADSCRITAS A LOS TRIBUNALES COLEGIADOS DE APELACIÓN, JUZGADOS DE DISTRITO Y CENTROS DE JUSTICIA PENAL FEDERAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
