@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-integracion-social-y-productiva-de-personas-con-16981"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2022-05-23"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de febrero de 2000.
 
@@ -215,7 +215,9 @@ f).- Un representante del Instituto de Servicios de Salud del Estado de Aguascal
 
 g).- Un representante de la Secretaría de Desarrollo Social del Estado;
 
-h).- Un representante de la Secretaría de Desarrollo Económico;
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
+
+h).- Un representante de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
@@ -583,11 +585,11 @@ Se fomentará el empleo de los trabajadores con discapacidad mediante el estable
 
 El Ejecutivo del Estado a través de la Dirección General del Trabajo del Estado, establecerá programas de promoción del empleo de las personas con discapacidad creando al efecto una bolsa de trabajo en la que se concentren listas de aspirantes con sus aptitudes y capacidades.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 47.
 
-Se crean Centros Especiales de Empleo, cuyo objetivo principal será asegurar un empleo remunerado, realizando un trabajo productivo, al personal con discapacidad, cuya promoción y apoyo técnico depende del Sistema Estatal para el Desarrollo Integral de la Familia en Aguascalientes en coordinación con la Secretaria de Desarrollo Económico y la Dirección General del Trabajo.
+Se crean Centros Especiales de Empleo, cuyo objetivo principal será asegurar un empleo remunerado, realizando un trabajo productivo, al personal con discapacidad, cuya promoción y apoyo técnico depende del Sistema Estatal para el Desarrollo Integral de la Familia en Aguascalientes en coordinación con la Secretaria de Desarrollo Económico, Ciencia y Tecnología y la Dirección General del Trabajo.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
@@ -998,3 +1000,15 @@ E. Por lo que hace a los Órganos Constitucionales Autónomos, habrá de realiza
 TERCERO.- Las relaciones laborales existentes con anterioridad al inicio de vigencia del presente Decreto entre los trabajadores y los entes señalados en el párrafo anterior, no se modificarán o terminarán con motivo de la reforma al artículo 56 de esta Ley.
 
 CUARTO.- La contratación de personas con discapacidad se realizará de acuerdo con la disponibilidad presupuestaria ante la existencia de vacantes en los distintos cargos.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
