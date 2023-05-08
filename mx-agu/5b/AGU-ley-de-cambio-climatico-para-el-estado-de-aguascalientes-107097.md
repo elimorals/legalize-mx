@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cambio-climatico-para-el-estado-de-aguascalientes-107097
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-06"
-last_updated: "2023-01-23"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 6 de abril de 2015.
 
@@ -359,19 +359,27 @@ Se crea con carácter permanente la Comisión Intergubernamental de Cambio Clim�
 
 La Comisión será presidida por el Titular del Poder Ejecutivo y será integrada de la siguiente manera:
 
-I. El Titular de la Secretaría de Medio Ambiente;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+I. El Titular de la Secretaría de Sustentabilidad, Medio Ambiente y Agua;
 
 II. El Titular de la Secretaría de Desarrollo Rural y Agroempresarial;
 
-III. El Titular de la Secretaría de Infraestructura y Comunicaciones;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-IV. El Titular de la Secretaría de Desarrollo Económico;
+III. El Titular de la Secretaría de Obras Públicas;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+IV. El Titular de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 V. El Titular de la Secretaría de Planeación, Participación y Desarrollo;
 
-VI. El Titular de la Secretaría de Bienestar y Desarrollo Social;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VI. El Titular de la Secretaría de Desarrollo Social;
 
 VII. El Titular de la Secretaría de Finanzas;
 
@@ -776,3 +784,15 @@ P.O. 23 DE ENERO DE 2023.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
