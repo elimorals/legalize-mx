@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2018-06-11"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -925,6 +925,12 @@ VII. Formular y ejecutar políticas públicas, que fomenten actividades físicas
 
 La coordinación a que se refiere el artículo anterior, se realizará conforme a las facultades concurrentes en los tres ámbitos de gobierno, a través de convenios de coordinación, colaboración y concertación que celebren las autoridades competentes del Estado con la Federación y los Municipios entre sí o con instituciones del sector social y privado, de conformidad con los procedimientos y requisitos que estén determinados en el Reglamento de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2023)</small>
+
+Artículo 39 bis.- El IDEA podrá suscribir convenios con las instituciones educativas de nivel básico, medio y superior privadas y públicas, con el fin de que los deportistas de alto rendimiento puedan gozar de condiciones especiales en relación al acceso y permanencia en las mismas, respetando, en todo caso, los requisitos académicos generales previstos para el acceso, de conformidad con las fracciones IV y XXIV del artículo 14 de la presente Ley.
+
+Así como con el fin de hacer compatibles los estudios con los entrenamientos y la asistencia a competiciones del colectivo de deportistas de alto rendimiento, para la puesta en marcha de tutorías académicas que presten apoyo a quienes tengan dificultades para mantener el ritmo normal de asistencia.
+
 ### CAPITULO SEPTIMO. De los Sectores Social y Privado
 
 ###### Artículo 40.
@@ -1219,11 +1225,11 @@ En el caso de que desaparecieran las condiciones o motivaciones que dieron lugar
 
 Cualquier órgano ya sea público o privado que reciba recursos del erario público, deberá de presentar al SIEDE, a más tardar en el mes de julio de cada año fiscal correspondiente, un programa de actividades a desarrollar de enero a diciembre, del siguiente año fiscal, conteniendo el presupuesto correspondiente e indicando los recursos propios y los del Estado que se aplicarán.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
 
 ###### Artículo 69.
 
-Cualquier órgano ya sea público o privado de los reconocidos en este título que reciba recursos del erario público, deberá presentar un informe semestral sobre la aplicación de los mismos y estarán sujetos a las auditorías financieras y evaluaciones que determine el IDEA.
+Cualquier órgano ya sea público o privado de los reconocidos en este título que reciba recursos del erario público, deberá comprobar los gastos y presentar un informe semestral o cada que las autoridades del IDEA le requieran un informe financiero, técnico y deportivo, por el cual haya recibido el recurso, quedando sujetos a las auditorias financieras y evaluaciones que determine el IDEA.
 
 ### CAPITULO NOVENO. Del Deporte Social o Masivo
 
@@ -1337,7 +1343,7 @@ El IEA proporcionará al IDEA, la información para crear y actualizar el regist
 
 ### CAPITULO DECIMO CUARTO. De la Activación Física y el Deporte en las Empresas
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
 
 ###### Artículo 85.
 
@@ -1361,7 +1367,7 @@ Las Asociaciones de Charros debidamente registradas ante el IDEA deberán de pre
 
 ###### Artículo 88.
 
-El IDEA, en coordinación con la Secretaría de Desarrollo Económico y el (sic) Secretaría de Salud promoverán programas de activación física en las empresas establecidas en el Estado de Aguascalientes, procurando que éstas, dediquen por lo menos 20 minutos de la jornada laboral a estas actividades.
+El IDEA, en coordinación con la Secretaría de Desarrollo Económico, Ciencia y Tecnología, y la Secretaría de Salud promoverán programas de activación física en las empresas establecidas en el Estado de Aguascalientes, procurando que éstas, dediquen por lo menos 20 minutos de la jornada laboral a estas actividades.
 
 ### CAPITULO DECIMO SEXTO. De la Certificación y Supervisión de Clínicas y Gimnasios Deportivos
 
@@ -1457,9 +1463,11 @@ Igualmente, impulsarán la adopción de disposiciones y acuerdos tendientes a fa
 
 Es de interés público la construcción, remodelación, ampliación, adecuación, mantenimiento y conservación de las instalaciones que permitan atender adecuadamente las demandas que requiera el desarrollo de la cultura física y deporte, promoviendo para este fin, la participación de los sectores social y privado en el territorio estatal.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
+
 ###### Artículo 95.
 
-La planificación y construcción de instalaciones de cultura física y deporte financiadas con recursos provenientes del erario público, deberá realizarse tomando en cuenta las especificaciones técnicas de los deportes y actividades que se proyecta para desarrollar, así como los requerimientos de construcción y seguridad determinados en la Norma Oficial Mexicana correspondiente, que para tal efecto expida la dependencia en la materia, para el uso normal de las mismas por parte de personas con alguna discapacidad física, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, la máxima disponibilidad de horario y los distintos niveles de práctica de los ciudadanos. Estas instalaciones deberán ser puestas a disposición de la comunidad para su uso público.
+La planificación y construcción de instalaciones de cultura física y deporte financiadas con recursos provenientes del erario público podrá complementarse con capital privado, deberá realizarse tomando en cuenta las especificaciones técnicas de los deportes y actividades que se proyecta (sic) para desarrollar, así como los requerimientos de construcción y seguridad determinados en la Norma Oficial Mexicana correspondiente, que para tal efecto expida la dependencia en la materia, para el uso normal de las mismas por parte de personas con alguna discapacidad física, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, la máxima disponibilidad de horario y los distintos niveles de practica de los ciudadanos. Estas instalaciones deberán ser puestas a disposición de la comunidad para su uso público.
 
 ###### Artículo 96.
 
@@ -1477,7 +1485,9 @@ El IDEA coordinará con los Municipios y los Sectores Social y Privado el adecua
 
 El IDEA formulará las normas y criterios requeridos en materia de instalaciones deportivo-recreativas, deportivas, del deporte en la rehabilitación y activación física deportiva.
 
-Para tal efecto, constituirá los fondos, fideicomisos o cualquier otro instrumento financiero que permita el transparente manejo de los recursos estatales que para este objeto se destinen y que del uso de las instalaciones se obtengan.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
+
+Para tal efecto, constituirá los fondos, fideicomisos, aportaciones privadas en esquemas de patrocinios o cualquier otro instrumento financiero que permita el transparente manejo de los recursos estatales que para este objeto se destinen y que del uso de las instalaciones se obtengan.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -1495,11 +1505,11 @@ El IDEA podrá solicitar a las autoridades correspondientes que se suspenda tota
 
 Las instalaciones destinadas a la cultura física y al deporte y aquellas en las que se celebren espectáculos deportivos deberán proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable a fin de procurar la integridad y seguridad de los asistentes y participantes, privilegiando la sana y pacífica convivencia de manera que impidan o limiten al máximo las posibles manifestaciones de violencia, xenofobia, racismo, intolerancia y cualquier otra conducta antisocial.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
 
 ###### Artículo 101.
 
-El IDEA moverá ante las diversas instancias de gobierno, la utilización concertada de laboratorios, centros de salud, parques, plazas y demás espacios o instalaciones públicas en apoyo a la cultura física y deporte.
+El IDEA promoverá ante las diversas instancias de los tres niveles de gobierno, el rescate, utilización y acondicionamiento de laboratorios, centros de salud, parques, plazas y demás espacios públicos en donde sea factible la instalación de equipos y accesorios especiales destinados a la práctica de la cultura física. Para ello, el Instituto promoverá entre la administración pública local y los sectores social y privado, convenios de colaboración que permitan la adecuación, equipamiento y uso de dichos espacios públicos con la finalidad de propiciar su rescate e incentivar el desarrollo de la cultura física de la comunidad.
 
 > <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
 
@@ -1931,9 +1941,17 @@ III. Se considera promoción la dispensa y administración de tales sustancias, 
 
 IV. La negativa a someterse a los controles de dopaje, dentro y fuera de competiciones cuando sean exigidos por los órganos o personas competentes;
 
-V. Cualquier acción u omisión tendiente a impedir o perturbar la correcta realización de los procedimientos de represión del dopaje; y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-VI. La administración o utilización de sustancias o prácticas prohibidas en animales destinados a la práctica deportiva.
+V. Cualquier acción u omisión tendiente a impedir o perturbar la correcta realización de los procedimientos de represión del dopaje;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VI. La administración o utilización de sustancias o prácticas prohibidas en animales destinados a la práctica deportiva; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VII. Las distinciones, exclusiones, restricciones, preferencias u hostigamiento que se hagan en contra de cualquier deportista, motivadas por origen étnico o nacional, de género, la edad, las discapacidades, la condición social, la religión, las opiniones, preferencias sexuales, el estado civil o cualquier otra que atente contra su dignidad o anule o menoscabe sus derechos y libertades.
 
 ###### Artículo 146.
 
@@ -2146,3 +2164,31 @@ P.O. 11 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUMERO 314.- REFORMA A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 320.- REFORMA A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
