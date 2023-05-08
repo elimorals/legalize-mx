@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-evitar-el-desperdicio-de-alimentos-en-el-estado-de-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-17"
-last_updated: "2017-07-17"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122588&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EVITAR EL DESPERDICIO DE ALIMENTOS EN EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección al Número 29 del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de julio de 2017.
 
@@ -133,15 +133,21 @@ V.- Promover que se incluyan contenidos educativos en las escuelas sobre el obje
 
 La Comisión estará integrada por los Titulares de:
 
-I.- La Secretaría de Bienestar y Desarrollo Social del Estado;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+I.- La Secretaría de Desarrollo Social del Estado;
 
 II.- La Secretaría de Salud del Estado;
 
-III.- La Secretaría de Desarrollo Económico del Estado;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+III.- La Secretaría de Desarrollo Económico, Ciencia y Tecnología del Estado;
 
 IV.- La Secretaría de Desarrollo Rural y Agroempresarial del Estado;
 
-V.- La Secretaría de Medio Ambiente del Estado;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+V.- La Secretaría de Sustentabilidad, Medio Ambiente y Agua del Estado;
 
 VI.- El Instituto de Educación de Aguascalientes; y
 
@@ -338,3 +344,17 @@ María del Carmen Mayela Macías Alvarado,
 DIPUTADA SEGUNDA SECRETARIA.
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 14 de julio de 2017.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Francisco Javier Luévano Núñez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+– Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
