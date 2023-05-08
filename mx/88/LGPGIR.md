@@ -4,7 +4,7 @@ identifier: "LGPGIR"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-10-08"
-last_updated: "2021-01-18"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34141&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGPGIR"
 
 LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de octubre de 2003.
 
@@ -48,9 +48,9 @@ LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
 La presente Ley es reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos que se refieren a la protección al ambiente en materia de prevención y gestión integral de residuos, en el territorio nacional.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE MAYO DE 2023)</small>
 
-Sus disposiciones son de orden público e interés social y tienen por objeto garantizar el derecho de toda persona al medio ambiente sano y propiciar el desarrollo sustentable a través de la prevención de la generación, la valorización y la gestión integral de los residuos peligrosos, de los residuos sólidos urbanos y de manejo especial; prevenir la contaminación de sitios con estos residuos y llevar a cabo su remediación, así como establecer las bases para:
+Sus disposiciones son de orden público e interés social y tienen por objeto garantizar el derecho de toda persona al medio ambiente sano y propiciar el desarrollo sustentable a través de la prevención de la generación, valorización y gestión integral de los residuos peligrosos, mineros y metalúrgicos, sólidos urbanos, de manejo especial; prevenir la contaminación de sitios con estos residuos y llevar a cabo su remediación, así como establecer las bases para:
 
 I. Aplicar los principios de valorización, responsabilidad compartida y manejo integral de residuos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, los cuales deben de considerarse en el diseño de instrumentos, programas y planes de política ambiental para la gestión de residuos;
 
@@ -60,7 +60,9 @@ III. Establecer los mecanismos de coordinación que, en materia de prevención d
 
 IV. Formular una clasificación básica y general de los residuos que permita uniformar sus inventarios, así como orientar y fomentar la prevención de su generación, la valorización y el desarrollo de sistemas de gestión integral de los mismos;
 
-V. Regular la generación y manejo integral de residuos peligrosos, así como establecer las disposiciones que serán consideradas por los gobiernos locales en la regulación de los residuos que conforme a esta Ley sean de su competencia;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+V. Regular la generación y manejo integral de residuos peligrosos, los residuos mineros y los residuos metalúrgicos, así como establecer las disposiciones que deben considerar los gobiernos locales en la regulación de los residuos que conforme a esta Ley sean de su competencia;
 
 VI. Definir las responsabilidades de los productores, importadores, exportadores, comerciantes, consumidores y autoridades de los diferentes niveles de gobierno, así como de los prestadores de servicios en el manejo integral de los residuos;
 
@@ -192,6 +194,14 @@ XXIX. Residuo: Material o producto cuyo propietario o poseedor desecha y que se 
 
 XXX. Residuos de Manejo Especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
 
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XXX Bis. Residuos metalúrgicos: Son aquellos provenientes de los procesos de fundición, refinación y transformación de metales;
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+XXX Bis 1. Residuos mineros: Son aquellos provenientes de las actividades de la explotación y beneficio de minerales o sustancias;
+
 XXXI. Residuos Incompatibles: Aquellos que al entrar en contacto o al ser mezclados con agua u otros materiales o residuos, reaccionan produciendo calor, presión, fuego, partículas, gases o vapores dañinos;
 
 XXXII. Residuos Peligrosos: Son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en esta Ley;
@@ -244,7 +254,9 @@ I. Formular, conducir y evaluar la política nacional en materia de residuos as�
 
 II. Expedir reglamentos, normas oficiales mexicanas y demás disposiciones jurídicas para regular el manejo integral de los residuos peligrosos, su clasificación, prevenir la contaminación de sitios o llevar a cabo su remediación cuando ello ocurra;
 
-III. Expedir reglamentos, normas oficiales mexicanas y demás disposiciones jurídicas para regular el manejo integral de los residuos de la industria minero-metalúrgica que corresponden a su competencia de conformidad con esta Ley y la Ley Minera;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+III. Expedir reglamentos, normas oficiales mexicanas y demás disposiciones jurídicas para regular el manejo integral de los residuos mineros y los residuos metalúrgicos que corresponden a su competencia de conformidad con esta Ley y la Ley de Minería;
 
 > <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2021)</small>
 
@@ -432,7 +444,9 @@ La Federación, por conducto de la Secretaría, podrá suscribir con los gobiern
 
 I. La autorización y el control de las actividades realizadas por los microgeneradores de residuos peligrosos de conformidad con las normas oficiales mexicanas correspondientes;
 
-II. El control de los residuos peligrosos que estén sujetos a los planes de manejo, de conformidad con lo previsto en la presente Ley;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+II. El control de los residuos peligrosos, de los residuos mineros y de los residuos metalúrgicos que estén sujetos a los planes de manejo, de conformidad con lo previsto en la presente Ley;
 
 III. El establecimiento y actualización de los registros que correspondan en los casos anteriores, y
 
@@ -464,15 +478,29 @@ III. Identificar las fuentes generadoras, los diferentes tipos de residuos, los 
 
 IV. Identificar las fuentes generadoras de los residuos cuya disposición final pueda provocar salinización e incrementos excesivos de carga orgánica en suelos y cuerpos de agua.
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
 ###### Artículo 16.
 
-La clasificación de un residuo como peligroso, se establecerá en las normas oficiales mexicanas que especifiquen la forma de determinar sus características, que incluyan los listados de los mismos y fijen los límites de concentración de las sustancias contenidas en ellos, con base en los conocimientos científicos y las evidencias acerca de su peligrosidad y riesgo.
+La clasificación de un residuo como peligroso, minero o metalúrgico, se debe establecer en las normas oficiales mexicanas que especifiquen la forma de determinar sus características, que incluyan los listados de los mismos y fijen los límites de concentración de las sustancias contenidas en ellos, con base en los conocimientos científicos y las evidencias acerca de su peligrosidad y riesgo.
 
-> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
 
 ###### Artículo 17.
 
-Los residuos de la industria minera-metalúrgica provenientes del minado y tratamiento de minerales tales como jales, residuos de los patios de lixiviación abandonados, así como los metalúrgicos provenientes de los procesos de fundición, refinación y transformación de metales, que se definirán en forma genérica en el reglamento según lo estipulado en el artículo 7 fracción III de esta Ley, son de regulación y competencia federal. Podrán disponerse finalmente en el sitio de su generación; su peligrosidad y manejo integral, se determinará conforme a las normas oficiales mexicanas aplicables, y estarán sujetos a los planes de manejo previstos en esta Ley. Se exceptúan de esta clasificación los referidos en el artículo 19, fracción I de este ordenamiento.
+Los residuos mineros provenientes del minado y tratamiento de minerales tales como jales, residuos de los patios de lixiviación abandonados, así como los metalúrgicos provenientes de los procesos de fundición, refinación y transformación de metales, que se definan en forma genérica en el reglamento según lo estipulado en el artículo 7, fracción III, de esta Ley, son de regulación y competencia federal y están sujetos a los planes de manejo previstos en esta Ley y demás instrumentos jurídicos de gestión ambiental. Se exceptúan de esta clasificación los referidos en el artículo 19, fracción I, de este ordenamiento.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Los residuos mineros y metalúrgicos, según sea el caso, pueden disponerse finalmente en el sitio de su generación; su peligrosidad y manejo integral se determina conforme a la presente Ley y las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Queda prohibida la disposición final de los residuos mineros y residuos metalúrgicos en áreas naturales protegidas, humedales, cauces y zonas federales de aguas nacionales o en lugares que por el trayecto que seguirían los residuos ante su ruptura afecten núcleos de población.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Los residuos que se generen por la exploración, explotación, beneficio o aprovechamiento de una concesión minera son responsabilidad permanente e intransferible de la persona titular de la concesión, sin importar que su gestión sea realizada a través de un tercero que compartirá solidariamente dicha responsabilidad.
 
 ###### Artículo 18.
 
@@ -594,9 +622,17 @@ II. Establecer modalidades de manejo que respondan a las particularidades de los
 
 III. Atender a las necesidades específicas de ciertos generadores que presentan características peculiares;
 
-IV. Establecer esquemas de manejo en los que aplique el principio de responsabilidad compartida de los distintos sectores involucrados, y
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-V. Alentar la innovación de procesos, métodos y tecnologías, para lograr un manejo integral de los residuos, que sea económicamente factible.
+IV. Establecer esquemas de manejo en los que aplique el principio de responsabilidad compartida de los distintos sectores involucrados;
+
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+V. Alentar la innovación de procesos, métodos y tecnologías, para lograr un manejo integral de los residuos, que sea económicamente factible, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+VI. Evitar derrames, infiltraciones, descargas o vertidos accidentales de materiales peligrosos, residuos peligrosos, residuos mineros o residuos metalúrgicos que afecten al medio ambiente y a la salud, mediante propuestas ambientales, tecnológicas, económicas y socialmente viables.
 
 > <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2013)</small>
 
@@ -684,9 +720,11 @@ La Secretaría determinará, conjuntamente con las partes interesadas, otros res
 
 Los elementos y procedimientos que se deben considerar al formular los planes de manejo, se especificarán en las normas oficiales mexicanas correspondientes, y estarán basados en los principios que señala la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
+
 ###### Artículo 33.
 
-Las empresas o establecimientos responsables de los planes de manejo presentarán, para su registro a la Secretaría, los relativos a los residuos peligrosos; y para efectos de su conocimiento a las autoridades estatales los residuos de manejo especial, y a las municipales para el mismo efecto los residuos sólidos urbanos, de conformidad con lo dispuesto en esta Ley y según lo determinen su Reglamento y demás ordenamientos que de ella deriven.
+Las empresas o establecimientos responsables de los planes de manejo deben presentar, para su registro a la Secretaría, los relativos a los residuos peligrosos, a los residuos mineros y a los residuos metalúrgicos; y para efectos de su conocimiento a las autoridades estatales los residuos de manejo especial, y a las municipales para el mismo efecto los residuos sólidos urbanos, de conformidad con lo dispuesto en esta Ley y según lo determinen su Reglamento y demás ordenamientos que de ella deriven.
 
 En caso de que los planes de manejo planteen formas de manejo contrarias a esta Ley y a la normatividad aplicable, el plan de manejo no deberá aplicarse.
 
@@ -732,9 +770,11 @@ Las autoridades de los tres órdenes de gobierno, en el ámbito de sus respectiv
 
 Las autoridades de los tres órdenes de gobierno elaborarán y difundirán, anualmente, informes sobre los aspectos relevantes contenidos en los sistemas de información a los que se hace referencia en el presente capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
+
 ###### Artículo 39.
 
-Los tres órdenes de gobierno elaborarán, actualizarán y difundirán los inventarios de generación de residuos peligrosos, residuos sólidos urbanos y residuos de manejo especial, de acuerdo con sus atribuciones respectivas, para lo cual se basarán en los datos que les sean proporcionados por los generadores y las empresas de servicios de manejo de residuos, conforme a lo dispuesto en la presente Ley y en los ordenamientos jurídicos que de ella deriven.
+Los tres órdenes de gobierno deben elaborar, actualizar y difundir los inventarios de generación de residuos peligrosos, residuos mineros, residuos metalúrgicos, residuos sólidos urbanos y residuos de manejo especial, de acuerdo con sus atribuciones respectivas, para lo cual se deben basar en los datos que les sean proporcionados por los generadores y las empresas de servicios de manejo de residuos, conforme a lo dispuesto en la presente Ley y en los ordenamientos jurídicos que de ella deriven.
 
 Además, integrarán inventarios de tiraderos de residuos o sitios donde se han abandonado clandestinamente residuos de diferente índole en cada entidad, en los cuales se asienten datos acerca de su ubicación, el origen, características y otros elementos de información que sean útiles a las autoridades, para desarrollar medidas tendientes a evitar o reducir riesgos. La integración de inventarios se sustentará en criterios, métodos y sistemas informáticos, previamente acordados, estandarizados y difundidos.
 
@@ -742,23 +782,33 @@ Además, integrarán inventarios de tiraderos de residuos o sitios donde se han 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
+
 ###### Artículo 40.
 
-Los residuos peligrosos deberán ser manejados conforme a lo dispuesto en la presente Ley, su Reglamento, las normas oficiales mexicanas y las demás disposiciones que de este ordenamiento se deriven.
+Los residuos peligrosos, mineros y metalúrgicos deben ser manejados conforme a lo dispuesto en la presente Ley, su Reglamento, las normas oficiales mexicanas y las demás disposiciones que de este ordenamiento se deriven.
 
 En las actividades en las que se generen o manejen residuos peligrosos, se deberán observar los principios previstos en el artículo 2 de este ordenamiento, en lo que resulten aplicables.
 
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
 ###### Artículo 41.
 
-Los generadores de residuos peligrosos y los gestores de este tipo de residuos, deberán manejarlos de manera segura y ambientalmente adecuada conforme a los términos señalados en esta Ley.
+Los generadores de residuos peligrosos, mineros y metalúrgicos, así como los gestores de este tipo de residuos, deben manejarlos de manera segura y ambientalmente adecuada conforme a los términos señalados en esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
 
 ###### Artículo 42.
 
-Los generadores y demás poseedores de residuos peligrosos, podrán contratar los servicios de manejo de estos residuos con empresas o gestores autorizados para tales efectos por la Secretaría, o bien transferirlos a industrias para su utilización como insumos dentro de sus procesos, cuando previamente haya sido hecho del conocimiento de esta dependencia, mediante un plan de manejo para dichos insumos, basado en la minimización de sus riesgos.
+Los generadores y demás poseedores de residuos peligrosos, mineros y metalúrgicos, pueden contratar los servicios de manejo de estos residuos con empresas o gestores autorizados para tales efectos por la Secretaría, o bien transferirlos a industrias para su utilización como insumos dentro de sus procesos, cuando previamente haya sido autorizado por esta dependencia, mediante un plan de manejo para dichos insumos, basado en la minimización de sus riesgos. No obstante, compartirán de manera solidaria la responsabilidad.
 
 La responsabilidad del manejo y disposición final de los residuos peligrosos corresponde a quien los genera. En el caso de que se contraten los servicios de manejo y disposición final de residuos peligrosos por empresas autorizadas por la Secretaría y los residuos sean entregados a dichas empresas, la responsabilidad por las operaciones será de éstas, independientemente de la responsabilidad que tiene el generador.
 
 Los generadores de residuos peligrosos que transfieran éstos a empresas o gestores que presten los servicios de manejo, deberán cerciorarse ante la Secretaría que cuentan con las autorizaciones respectivas y vigentes, en caso contrario serán responsables de los daños que ocasione su manejo.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+El manejo y disposición final de los residuos mineros y metalúrgicos es responsabilidad de quien los genera, por lo que debe presentar evidencia verificable de que opera bajo el estricto cumplimiento de la normativa aplicable.
 
 ###### Artículo 43.
 
@@ -776,9 +826,11 @@ II. Pequeños generadores, y
 
 III. Microgeneradores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
+
 ###### Artículo 45.
 
-Los generadores de residuos peligrosos, deberán identificar, clasificar y manejar sus residuos de conformidad con las disposiciones contenidas en esta Ley y en su Reglamento, así como en las normas oficiales mexicanas que al respecto expida la Secretaría.
+Los generadores de residuos peligrosos, mineros y metalúrgicos deben identificar, clasificar y manejar sus residuos de conformidad con las disposiciones contenidas en esta Ley y en su Reglamento, así como en las normas oficiales mexicanas que al respecto expida la Secretaría.
 
 En cualquier caso los generadores deberán dejar libres de residuos peligrosos y de contaminación que pueda representar un riesgo a la salud y al ambiente, las instalaciones en las que se hayan generado éstos, cuando se cierren o se dejen de realizar en ellas las actividades generadoras de tales residuos.
 
@@ -1655,3 +1707,39 @@ Cuarto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 Quinto.- La Secretaría considerará las obligaciones de las empresas que realicen actividades de co-procesamiento, así como de incineración en las materias de registro de emisiones y transferencia de contaminantes y de registro de compuestos y gases de efecto invernadero, establecidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y sus reglamentos, y en la Ley General de Cambio Climático y su Reglamento en Materia de Registro Nacional de Emisiones, para publicar en los primeros diez días de los meses de diciembre, en su página web y demás medios de comunicación que considere pertinentes para conocimiento de la sociedad en general, las emisiones normadas que producen las empresas que realicen de forma autorizada, conforme a lo dispuesto en esta Ley y el presente Decreto, el co-procesamiento, así como la incineración de residuos peligrosos.
 
 En el cumplimiento de lo dispuesto en el párrafo anterior, la Secretaría de Medio Ambiente y Recursos Naturales se sujetará a los principios pro-persona, de máxima publicidad y demás postulados garantes de los derechos humanos, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y tratados internacionales de los que el Estado Mexicano sea Parte, observando lo dispuesto en la regulación en materia de transparencia y acceso a la información pública.
+
+D.O.F. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY MINERA, DE LA LEY DE AGUAS NACIONALES, DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE Y DE LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, EN MATERIA DE CONCESIONES PARA MINERÍA Y AGUA”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan las disposiciones jurídicas que se opongan al presente Decreto.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes; en caso de que se realice alguna modificación a la estructura orgánica de los mismos, ésta deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
+
+Cuarto. La persona titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las reformas correspondientes a las disposiciones reglamentarias respectivas.
+
+Quinto. En tanto se emite la normativa señalada en el artículo anterior, se seguirán aplicando las disposiciones que se encontraban vigentes antes de la entrada en vigor del presente Decreto, siempre que no se opongan a éste.
+
+Las menciones a la Ley Minera contenidas en otras leyes, reglamentos y en cualquier disposición de carácter general se entienden referidas a la Ley de Minería.
+
+Las solicitudes en trámite de nueva concesión de exploración y explotación se desecharán sin mayor trámite, en virtud de lo dispuesto por el presente Decreto.
+
+Sexto. Las concesiones de exploración y explotación otorgadas con anterioridad a la entrada en vigor del presente Decreto tendrán la duración prevista en el título respectivo.
+
+Séptimo. A partir de la entrada en vigor del presente Decreto, no se otorgarán prórrogas a las concesiones en Áreas Naturales Protegidas, así como a las ya emitidas para la exploración, explotación y beneficio del mercurio dentro del territorio nacional.
+
+Octavo. Para efectos de la caducidad a que se refiere el artículo 53 Bis de la Ley de Minería, los plazos se computarán a partir de la entrada en vigor del presente Decreto.
+
+Noveno. Los procedimientos y recursos administrativos relacionados con las actividades de minería y aguas iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio, y las demás disposiciones aplicables en la materia de que se trate, siempre que no se opongan a lo previsto en el presente Decreto.
+
+Décimo. Las personas titulares de concesiones mineras, dentro de los trescientos sesenta y cinco días naturales contados a partir de la entrada en vigor del presente Decreto, deberán presentar el vehículo financiero a que se refiere la Ley de Minería, que garantice los posibles daños que se generen durante la ejecución de las actividades mineras, así como presentar para autorización de la Secretaría de Medio Ambiente y Recursos Naturales el Programa de Restauración, Cierre y Post-cierre de Minas.
+
+Décimo Primero. Las personas titulares de concesiones mineras deben garantizar que los depósitos o sitios de disposición final de terreros, presas de jales o escorias no afecten núcleos de población, zonas productivas o ecosistemas, de conformidad con las disposiciones jurídicas aplicables.
+
+Cuando las autoridades competentes determinen que los depósitos o sitios de disposición final de terreros, presas de jales o escorias presenten riesgos para la seguridad o salud de la población, zonas productivas o de los ecosistemas, las personas concesionarias tendrán un plazo de trescientos sesenta y cinco días naturales contados a partir de la notificación correspondiente por parte de la autoridad competente para realizar la remoción o remediación necesaria.
+
+Décimo Segundo. En los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el Servicio Geológico Mexicano deberá retirar su participación de fondos de inversión de riesgo compartido en los que tenga activos, en tanto no le genere pérdidas. Para tales efectos, podrá mantener su posición hasta que éstos se encuentren en los valores en los que se adquirieron.
+
+Décimo Tercero. Las personas titulares de concesiones de aguas nacionales que realicen actividades de exploración, explotación, beneficio y aprovechamiento minero, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, deberán solicitar a “la Autoridad del Agua” el cambio de uso industrial al uso industrial en la minería, a efecto de regularizar su situación jurídica, de conformidad con las disposiciones normativas aplicables.
