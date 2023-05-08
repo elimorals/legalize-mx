@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2023-02-03"
+last_updated: "2023-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -1993,9 +1993,11 @@ Los ruptores y alarmas de urgencia, seguridad y solicitud de auxilio colocados e
 
 Los menores de siete años sólo pueden hacer uso del transporte público de personas cuando estén acompañados por persona mayor de edad que se responsabilice de su seguridad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 76.
 
-Las personas con discapacidad, estudiantes y adultos mayores gozarán de tarifas preferenciales en el transporte público colectivo urbano y foráneo, equivalente al cincuenta por ciento de la tarifa pública, previa identificación vigente expedida por instituciones que acrediten tal carácter, conforme a los Acuerdos y Decretos que en su caso se publiquen en Periódico Oficial del Estado.
+Las personas con discapacidad, estudiantes y adultos mayores gozarán durante todo el año calendario de tarifas preferenciales en el transporte público colectivo urbano y foráneo, equivalente al cincuenta por ciento de la tarifa pública, previa identificación vigente expedida por instituciones que acrediten tal carácter, conforme a los Acuerdos y Decretos que en su caso se publiquen en (sic) Periódico Oficial del Estado.
 
 Tratándose del transporte público en su modalidad de taxi, los concesionarios prestarán servicios gratuitos a su cargo a favor de adultos mayores y personas con discapacidad, para lo cual deberán suscribir los convenios necesarios en los términos que señalen los lineamientos que emita el Sistema Estatal para el Desarrollo Integral de la Familia.
 
@@ -5936,3 +5938,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto se deberán realizar las adecuaciones normativas al Reglamento de la Ley de Movilidad del Estado de Aguascalientes, de conformidad con lo previsto en el presente Decreto.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 316.- REFORMA A LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Dentro de las 60 días siguientes a la publicación del presente decreto se deberán realizar las modificaciones correspondientes al Reglamento de la Ley de Movilidad del Estado de Aguascalientes.
