@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2022-09-30"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -755,11 +755,15 @@ VI. Vigilar que en todo momento, se hagan valer y respetar los derechos de las p
 
 VII. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO IX. De la Secretaría de Desarrollo Económico
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE MAYO DE 2023)</small>
+
+### CAPÍTULO IX. De la Secretaría de Desarrollo Económico, Ciencia y Tecnología
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 24.
 
-Corresponde a la Secretaría de Desarrollo Económico en materia de adultos mayores:
+Corresponde a la Secretaría de Desarrollo Económico, Ciencia y Tecnología, en materia de adultos mayores:
 
 I. Promover la participación de los sectores social y privado del Estado, en la formulación de planes y programas de desarrollo socioeconómico a favor de los adultos mayores;
 
@@ -1486,3 +1490,15 @@ Para el cumplimiento del presente Decreto, se deberán llevar a cabo a través d
 ###### ARTÍCULO DÉCIMO.
 
 Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarías que se opongan al presente Decreto.
