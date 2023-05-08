@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-desarrollo-agricola-del-estado-de-aguascalientes-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-20"
-last_updated: "2022-12-31"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 
@@ -593,9 +593,11 @@ II. Apoyar a la Secretaría y al Consejo con la evaluación y el seguimiento de 
 
 III. Las demás que le otorgue la presente Ley, su Reglamento y demás disposiciones relativas y aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2023)</small>
+
 ###### Artículo 11.
 
-Son facultades de la Secretaría de Desarrollo Económico, en materia agrícola:
+Son facultades de la Secretaría de Desarrollo Económico, Ciencia y Tecnología, en materia agrícola:
 
 I. Establecer los mecanismos necesarios para disponer de información a nivel local, nacional e internacional, sobre producción, comercialización y tendencias de los mercados de los diversos productos agrícolas;
 
@@ -635,7 +637,9 @@ Son facultades de la Secretaría de Sustentabilidad, Medio Ambiente y Agua, en m
 
 I. Coordinar sus acciones con las dependencias federales en el dictado de normas técnicas específicas para el establecimiento de programas convenientes, encaminados a la realización de obras de protección al suelo y aprovechamiento de los recursos naturales;
 
-II. Coordinarse con la Secretaría y la Secretaría de Desarrollo Económico en el dictado de normas técnicas específicas para el establecimiento de programas encaminados a la realización de obras para la recolección, depósito, almacenamiento, tratamiento y destino final de desechos sólidos o infiltrables, capaces de producir contaminación en el suelo, agua, aire y la población en general;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+II. Coordinarse con la Secretaría y la Secretaría de Desarrollo Económico, Ciencia y Tecnología en el dictado de normas técnicas específicas para el establecimiento de programas encaminados a la realización de obras para la recolección, depósito, almacenamiento, tratamiento y destino final de desechos sólidos o infiltrables, capaces de producir contaminación en el suelo, agua, aire y la población en general;
 
 III. Promover entre los productores el análisis de suelo y agua previo a la siembra para la aplicación de dosis óptimas de fertilizantes, buscando incrementar la producción y mejorar la productividad de los cultivos, así como preservando la calidad de los suelos, agua y medio ambiente en general;
 
@@ -1950,3 +1954,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
