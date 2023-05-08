@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ciencia-y-tecnologia-24877"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-05"
-last_updated: "2022-05-11"
+last_updated: "2023-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2002-06-03"
 ---
 # LEY DE CIENCIA Y TECNOLOGIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY GENERAL EN MATERIA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN, PUBLICADA EN EL D.O.F. DE 8 DE MAYO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de junio de 2002.
 
@@ -1384,3 +1386,57 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY GENERAL EN MATERIA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN”.]
+
+Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abrogan la Ley de Ciencia y Tecnología y la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, ambas publicadas en el Diario Oficial de la Federación el 5 de junio de 2002.
+
+Tercero. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+Cuarto. A partir de la entrada en vigor de esta Ley, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos y de política pública que hagan mención a la Ley de Ciencia y Tecnología o a la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, se entenderán hechas a la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación.
+
+Quinto. A partir de la entrada en vigor de esta Ley, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Consejo Nacional de Ciencia y Tecnología se entenderán hechas al Consejo Nacional de Humanidades, Ciencias y Tecnologías.
+
+Sexto. En un plazo de un año, contado a partir de la entrada en vigor de esta Ley, el Consejo Nacional expedirá las disposiciones reglamentarias y administrativas a que se refiere este ordenamiento legal, así como aquéllas necesarias para su cabal cumplimiento, en concordancia con su contenido.
+
+Séptimo. Las atribuciones con que cuentan las unidades administrativas del Consejo Nacional de Ciencia y Tecnología y que en virtud de la presente ley deban ser modificadas, continuarán vigentes en términos de la normativa aplicable hasta que entren en vigor las nuevas disposiciones. Hasta que esto suceda, en caso de controversia y con el propósito de dar cumplimiento a los principios y reglas previstos en esta Ley, la persona titular de la Dirección General del Consejo Nacional definirá la distribución necesaria de facultades.
+
+Octavo. En el plazo de un año, contado a partir de la entrada en vigor del presente Decreto y de conformidad con lo previsto en esta Ley, los poderes legislativos de las entidades federativas, en el ámbito de su competencia, deberán emitir las disposiciones legales necesarias para armonizar su marco jurídico y regular las atribuciones de las autoridades locales, así como de los municipios y de las demarcaciones, en materia de humanidades, ciencias, tecnologías e innovación.
+
+En caso de que, agotado el plazo señalado, no se hubieran emitido las disposiciones correspondientes, se aplicará la presente Ley de manera directa a las autoridades y Centros locales de Investigación.
+
+Noveno. Los procedimientos y actos jurídicos en general cuya tramitación haya iniciado con anterioridad a la entrada en vigor de esta Ley, que se encuentren pendientes de resolución, se atenderán de conformidad con las disposiciones jurídicas y administrativas vigentes al momento en que fueron iniciados.
+
+Décimo. Las autoridades competentes deberán realizar las acciones necesarias para terminar anticipadamente los convenios y contratos que se opongan a la presente Ley, en beneficio del interés público.
+
+Décimo Primero. El Consejo Nacional, las autoridades y las instancias competentes realizarán las gestiones necesarias para adecuar la normativa aplicable a los mecanismos e instrumentos públicos de fomento y apoyo a que se refiere esta Ley, en los términos que ésta prevé.
+
+Décimo Segundo. A partir de la entrada en vigor de esta Ley, las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Sistema Integrado de Información sobre Investigación Científica, Desarrollo Tecnológico e Innovación se entenderán hechas al Sistema Nacional de Información.
+
+Décimo Tercero. A las constancias de inscripción definitiva y cualquier otra que haya emitido el Consejo Nacional de Ciencia y Tecnología en el marco del Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas de conformidad con la Ley de Ciencia y Tecnología, únicamente se les reconocerá su vigencia hasta por un año, contado a partir de la entrada en vigor de esta Ley.
+
+Al término del plazo señalado en el párrafo anterior, sólo se reconocerá el registro que para el efecto se realice en el Sistema Nacional de Información.
+
+Décimo Cuarto. A partir de la entrada en vigor de esta Ley, las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Repositorio Nacional de Acceso Abierto a Recursos de Información Científica, Tecnológica y de Innovación, de Calidad e Interés Social y Cultural, se entenderán hechas al Repositorio Nacional en Materia de Humanidades, Ciencias, Tecnologías e Innovación.
+
+Décimo Quinto. En un plazo no mayor a un año, contado a partir de la entrada en vigor de esta Ley, los Órganos de Gobierno de los Centros Públicos de Investigación previstos y regulados en las leyes que se abrogan conforme al transitorio segundo, aprobarán las modificaciones necesarias en su normativa para cumplir con los principios y reglas de esta Ley. Transcurrido dicho plazo sin que se hubieren realizado las modificaciones señaladas, el Consejo Nacional, a través de su Junta de Gobierno, quedará facultado para realizarlas directamente.
+
+Décimo Sexto. En un plazo no mayor a ciento ochenta días, el Consejo Nacional y los Centros Públicos llevarán a cabo las gestiones necesarias para terminar anticipadamente los convenios de administración por resultados que hubieren celebrado el Consejo Nacional de Ciencia y Tecnología y los Centros Públicos de Investigación, respectivamente.
+
+Asimismo, en un plazo igual, los Centros Públicos realizarán las gestiones necesarias para elaborar los Programas Institucionales a que se refiere esta Ley.
+
+Décimo Séptimo. La entrada en vigor de esta Ley no afectará el régimen ni los derechos laborales de los trabajadores del Consejo Nacional de Ciencia y Tecnología y de los Centros Públicos de Investigación.
+
+Décimo Octavo. En un plazo no mayor a ciento ochenta días, las instancias competentes deberán adecuar el Programa Especial de Ciencia, Tecnología e Innovación a lo dispuesto en la presente Ley. A partir de dicha adecuación, se deberán expedir los instrumentos de planeación que correspondan, dentro de un plazo de ciento ochenta días.
+
+Décimo Noveno. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al respectivo presupuesto aprobado del Consejo Nacional de Ciencia y Tecnología (ahora Consejo Nacional de Humanidades, Ciencias y Tecnologías), así como de las entidades paraestatales reconocidas como Centros Públicos de Investigación, y demás entes de la Administración Pública Federal involucrados en la implementación de la presente Ley, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda y subsecuentes. Asimismo, cualquier modificación a su estructura orgánica se deberá realizar mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
+
+Vigésimo. Las legislaturas de las entidades federativas, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les compete en términos de la presente Ley.
+
+Vigésimo Primero. Las entidades paraestatales reconocidas como Centros Públicos de Investigación con anterioridad a la entrada en vigor de este decreto conservarán esa calidad y deberán sujetarse a lo dispuesto en la presente Ley.
+
+Vigésimo Segundo. Los Centros Públicos sin estructura propia constituirán los órganos de gobierno, dirección, consulta y evaluación mencionados en la presente Ley, con apego a sus instrumentos de creación y la demás normativa que les resulte aplicable.
