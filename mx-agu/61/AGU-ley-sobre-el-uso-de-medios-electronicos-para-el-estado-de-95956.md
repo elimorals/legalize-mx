@@ -4,7 +4,7 @@ identifier: "AGU-ley-sobre-el-uso-de-medios-electronicos-para-el-estado-de-95956
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-23"
-last_updated: "2017-02-20"
+last_updated: "2023-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de septiembre de 2013.
 
@@ -131,9 +131,11 @@ IV. Formular los requisitos específicos, directrices y lineamientos para la imp
 
 V. Las que establezcan esta Ley y demás Ordenamientos Jurídicos y Administrativos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 5°.
 
-Corresponde a la Secretaría de Desarrollo Económico:
+Corresponde a la Secretaría de Desarrollo Económico, Ciencia y Tecnología:
 
 I. Promover y difundir la utilización generalizada de la Firma Electrónica dentro de los procesos de negocios de las empresas establecidas en el Estado de Aguascalientes;
 
@@ -590,3 +592,15 @@ Se Derogan todas las disposiciones normativas y/o reglamentarias que se opongan 
 ###### ARTÍCULO TERCERO.
 
 El Titular del Poder Ejecutivo del Estado de Aguascalientes, en un plazo de 180 días hábiles contados a partir de la publicación del presente Decreto, deberá reformar y/o adicionar en consonancia con el presente Decreto, el Reglamento de la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+– Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
