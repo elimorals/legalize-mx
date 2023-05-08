@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-regula-las-actividades-de-los-agentes-inmobiliarios-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2021-05-31"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY QUE REGULA LAS ACTIVIDADES DE LOS AGENTES INMOBILIARIOS EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial, el lunes 7 de noviembre del año 2016.
 
@@ -53,7 +53,9 @@ Las disposiciones de esta Ley son de orden público y observancia general, tiene
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Acreditación: La otorgada por la Secretaría de Desarrollo Económico, sobre el desempeño de una persona como Agente Inmobiliario en el Estado;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+I. Acreditación: La otorgada por la Secretaría, sobre el desempeño de una persona como Agente Inmobiliario en el Estado;
 
 II. Agente Inmobiliario: La persona física o moral que en el ejercicio de su actividad económica habitual y retribuida se dedique a asesorar o intervenir como mediador en la realización de actos jurídicos en los que se transmita el dominio, uso o goce temporal, o administre un bien inmueble;
 
@@ -67,7 +69,9 @@ VI. Padrón: El Padrón Estatal de Agentes Inmobiliarios;
 
 VII. Programa: El Programa de Capacitación, Actualización y Profesionalización en Materia de Servicios Inmobiliarios; y
 
-VIII. Secretaría: La Secretaría de Desarrollo Económico del Gobierno del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VIII. Secretaría: La Secretaría de Desarrollo Económico, Ciencia y Tecnología.
 
 ###### ARTÍCULO 3°.
 
@@ -151,7 +155,9 @@ X. Llevar un libro de registro de los contratos celebrados el cual contemple el 
 
 XI. Las demás contenidas en la presente Ley y otras disposiciones aplicables.
 
-### CAPÍTULO III. Competencia de la Secretaría de Desarrollo Económico
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE MAYO DE 2023)</small>
+
+### CAPÍTULO III. Competencia de la Secretaría de Desarrollo Económico, Ciencia y Tecnología
 
 ###### ARTÍCULO 7°.
 
@@ -472,3 +478,15 @@ P.O. 31 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 555.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO II Y SE ADICIONAN (SIC) UN ARTÍCULO 5 A DE LA LEY QUE REGULA LAS ACTIVIDADES DE LOS AGENTES INMOBILIARIOS EN EL ESTADO DE AGUASCALIENTES".]
 
 ÚNICO. - El presente decreto inciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+– Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
