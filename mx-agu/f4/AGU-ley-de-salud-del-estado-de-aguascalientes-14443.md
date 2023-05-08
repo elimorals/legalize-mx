@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2023-01-17"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1065,13 +1065,25 @@ VII.- La atención de la transmisión del VIH/sida y otras infecciones de transm
 
 VIII.- La revisión de retina y tamiz auditivo al prematuro;
 
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-IX.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados; y
+IX.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados;
 
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-X.- El diagnóstico oportuno y la atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteroposterior de pelvis, entre el primer y cuarto mes de vida.
+X.- El diagnóstico oportuno y la atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteroposterior de pelvis, entre el primer y cuarto mes de vida;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XI.- La atención integral y el tratamiento efectivo para inhibir la lactancia materna, en caso de muerte fetal o perinatal;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XII.- La atención integral y multidisciplinaria de la muerte fetal o perinatal, a fin de garantizar el trato digno; el respeto y la protección de los derechos humanos, y el bienestar físico, psíquico y emocional de las mujeres, así como de las personas que las acompañen. Abordando integralmente, con sentido ético, respetuoso y humanitario, la muerte fetal y perinatal; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XIII.- El alojamiento conjunto de la persona recién nacida sin vida y de su madre o progenitores, lo anterior, en un espacio excluido de las demás mujeres que acaban de dar a luz, a efecto de brindarles una atención humanizada que les permita vivir su duelo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
@@ -1093,15 +1105,25 @@ III.- Canalizar hacia los programas culturales y deportivos especializados para 
 
 IV.- Informar a las mujeres embarazadas de los programas que ofrezcan las diferentes Instancias gubernamentales y Organizaciones de la Sociedad Civil para la capacitación de oficios y preparación para el trabajo;
 
-V.- Brindar asesoría integral a las mujeres embarazadas que manifiesten su intención de dar en adopción a su hija o hijo sobre los programas de salud, desarrollo social y atención familiar que brinden tanto instancias gubernamentales como Organizaciones de la Sociedad Civil; y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2021)</small>
+V.- Brindar asesoría integral a las mujeres embarazadas que manifiesten su intención de dar en adopción a su hija o hijo sobre los programas de salud, desarrollo social y atención familiar que brinden tanto instancias gubernamentales como Organizaciones de la Sociedad Civil;
 
-VI.- Promover la educación prenatal dirigida a la familia, a la madre y a los hijos, a fin de que se vivan procesos de embarazo dignos y de bajo riesgo; y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 10 DE MAYO DE 2021)</small>
+VI.- Promover la educación prenatal dirigida a la familia, a la madre y a los hijos, a fin de que se vivan procesos de embarazo dignos y de bajo riesgo;
 
-VII.- Celebrar convenios de todo tipo y naturaleza mediante los cuales logren llevar a cabo las facultades señaladas en las fracciones anteriores.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VII.- Celebrar convenios de todo tipo y naturaleza mediante los cuales logren llevar a cabo las facultades señaladas en las fracciones anteriores;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VIII.- Ofrecer atención psicológica y tanatológica a las mujeres que hayan sufrido la muerte fetal o perinatal de su descendiente; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+IX.- Ofrecer el acceso a la mujer a un diagnóstico prenatal, que permita esclarecer si existen o no causas modificables para evitar la pérdida perinatal o gestacional.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -1163,13 +1185,17 @@ IV.- Acciones relacionadas con educación básica, alfabetización de adultos, a
 
 V.- La promoción de habilitación de lactarios o salas de lactancia en los centros de trabajo de los sectores tanto público como privado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-VI.- La promoción de hábitos saludables para las mujeres embarazadas y sus familias, informando sobre el alto riesgo de las adicciones a sustancias químicas, la automedicación, la exposición a fármacos, tabaco, marihuana, alcohol o cualquier sustancia psicoactiva o psicotrópica que repercutan el desarrollo idóneo de la mujer y su hijo; y
+VI.- La promoción de hábitos saludables para las mujeres embarazadas y sus familias, informando sobre el alto riesgo de las adicciones a sustancias químicas, la automedicación, la exposición a fármacos, tabaco, marihuana, alcohol o cualquier sustancia psicoactiva o psicotrópica que repercutan el desarrollo idóneo de la mujer y su hijo;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2023)</small>
 
-VII.- Las demás que coadyuven a la salud materno-infantil.
+VII.- El diseño e implementación de estrategias y acciones para crear hábitos que permitan prevenir, tratar y controlar la adicción por el uso de videojuegos o dispositivos electrónicos en niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE MAYO DE 2023)</small>
+
+VIII.- Las demás que coadyuven a la salud materno-infantil.
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
@@ -1221,9 +1247,17 @@ e) A no ser objeto de procedimientos innecesarios cuando estos sean injustificad
 
 f) A realizar apego inmediato, mediante el contacto piel a piel inmediatamente después del nacimiento, siempre y cuando las condiciones médicas de la madre y de la persona recién nacida así lo permitan;
 
-VI (SIC).- Recibir el certificado de nacimiento o de defunción de su hijo, de forma inmediata, de acuerdo con el procedimiento administrativo que corresponde; y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-VII.– Se garantice mediante atención psicológica su salud mental antes y después del parto.
+V.- Recibir el certificado de nacimiento, defunción o de muerte fetal de su hijo o hija, según sea el caso, de forma inmediata, de acuerdo con el procedimiento administrativo que corresponde;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VI.- Se garantice mediante atención psicológica su salud mental antes y después del parto; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VII.- A recibir un trato digno y humanitario en caso de muerte fetal o perinatal. Protegiendo el bienestar físico, psíquico y emocional de ella y de las personas que la acompañen.
 
 ###### ARTICULO 74.
 
@@ -4441,163 +4475,21 @@ DÉCIMO SEGUNDO. Se deberá llevar a cabo la inscripción del Instituto en los t
 
 DÉCIMO TERCERO. Cuando esté siendo sustanciado un asunto competencia de la Secretaría de Salud del Estado de Aguascalientes o del Instituto de Servicios de Salud del Estado de Aguascalientes, con anterioridad a la vigencia del presente Decreto y que por disposición de éste, deba ser ejercida por el Instituto, deberán transferirse los expedientes en trámite y el archivo al Instituto la cual deberá concluir dichos asuntos y dictar la resolución correspondiente, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por quien los venía despachando.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 16/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO EN MATERIA DE AMPARO Y JUICIOS FEDERALES EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN TOLUCA, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA MATERIA, ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
+P.O. 8 DE MAYO DE 2023.
 
-PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de octubre de dos mil diecisiete, con excepción de lo previsto en el Transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 324.- REFORMA A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
 
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+###### ARTICULO ÚNICO.
 
-TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles, establecido a la entrada en vigor de este Acuerdo para los Juzgados de Distrito en Materia de Amparo y Juicios Federales en el Estado de México, con residencia en Toluca, se modifica para incorporar al Juzgado de Distrito de nueva creación, para quedar como sigue:
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-PERÍODO DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE CORRESPONDE LA
+P.O. 8 DE MAYO DE 2023.
 
-GUARDIA
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 325.- REFORMA A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-Del 16 al 23 de octubre de 2017 Juzgado Primero de Distrito en
+###### ARTÍCULO UNICO.
 
-Materia de Amparo y Juicios
-
-Federales en el Estado de México,
-
-con residencia en Toluca.
-
-Del 23 al 30 de octubre de 2017 Juzgado Quinto de Distrito en
-
-Materia de Amparo y Juicios
-
-Federales en el Estado de México,
-
-con residencia en Toluca.
-
-Del 30 de octubre al 6 de noviembre Juzgado Tercero de Distrito en
-
-de 2017 Materia de Amparo y Juicios
-
-Federales en el Estado de México,
-
-con residencia en Toluca.
-
-Del 6 al 13 de noviembre de 2017 Juzgado Segundo de Distrito en
-
-Materia de Amparo y Juicios
-
-Federales en el Estado de México,
-
-con residencia en Toluca.
-
-Del 13 al 20 de noviembre de 2017 Juzgado Cuarto de Distrito en
-
-Materia de Amparo y Juicios
-
-Federales en el Estado de México,
-
-con residencia en Toluca.
-
-Del 20 al 27 de noviembre de 2017 Juzgado Sexto de Distrito en
-
-Materia de Amparo y Juicios
-
-Federales en el Estado de México,
-
-con residencia en Toluca.
-
-Del 27 de noviembre al 4 de diciembre Juzgado Primero de Distrito en
-
-de 2017 Materia de Amparo y Juicios
-
-Federales en el Estado de México,
-
-con residencia en Toluca.
-
-Y así sucesivamente en ese orden.
-
-CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
-
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción II, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. ...
-
-I. ...
-
-II. ...
-
-1. a 2. ...
-
-3. Veintisiete juzgados de Distrito en el Estado de México; siete de Procesos Penales Federales y seis especializados en materia de Amparo y Juicios Federales, todos con residencia en Toluca; diez juzgados de Distrito mixtos con sede en Naucalpan de Juárez y cuatro con sede en Nezahualcóyotl.
-
-III. a XXXII. ..."
-
-SEXTO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
-
-D.O.F. 13 DE OCTUBRE DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 18/2017, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO EN EL ESTADO DE AGUASCALIENTES, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS”.]
-
-PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de octubre de dos mil diecisiete, con excepción de lo previsto en el Transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
-
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la
-
-Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
-
-TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles establecido a la entrada en vigor de este Acuerdo para los Juzgados de Distrito en el Estado de Aguascalientes, continuará aplicándose hasta el uno de noviembre de dos mil diecisiete, el cual se modifica para incorporar al Juzgado de Distrito de nueva creación, para quedar como sigue:
-
-PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
-
-CORRESPONDE LA GUARDIA
-
-Del 1 al 6 de noviembre de 2017 Juzgado Quinto de Distrito en el Estado de
-
-Aguascalientes, con residencia en la ciudad del mismo nombre
-
-Del 6 al 13 de noviembre de 2017 Juzgado Sexto de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre
-
-Del 13 al 20 de noviembre de 2017 Juzgado Primero de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre
-
-Del 20 al 27 noviembre de 2017 Juzgado Segundo de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre
-
-Del 27 de noviembre al Juzgado Tercero de Distrito en el Estado
-
-4 de diciembre de 2017 de Aguascalientes, con residencia en la ciudad del mismo nombre
-
-Del 4 al 11 de diciembre de 2017 Juzgado Cuarto de Distrito en el Estado de
-
-Aguascalientes, con residencia en la ciudad del mismo nombre
-
-Del 11 al 18 de diciembre de 2017 Juzgado Quinto de Distrito en el Estado de
-
-Aguascalientes, con residencia en la ciudad del mismo nombre
-
-Del 18 al 25 de diciembre de 2017 Juzgado Sexto de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre
-
-25 de diciembre de 2017 Juzgado Primero de Distrito en el Estado
-
-al 1 de enero de 2018 de Aguascalientes, con residencia en la ciudad del mismo nombre
-
-Y así sucesivamente en ese orden de manera semanal.
-
-CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
-
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción XXX, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. ...
-
-I. a XXIX. ...
-
-XXX. ...
-
-1. a 2. ...
-
-3. Seis juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
-
-XXXI. a XXXII. ...”
-
-SEXTO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
-
-D.O.F. 13 DE OCTUBRE DE 2017.
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 19/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL TERCER TRIBUNAL COLEGIADO DEL TRIGÉSIMO CIRCUITO, CON RESIDENCIA EN AGUASCALIENTES, AGUASCALIENTES; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO INDICADO”.]
 
