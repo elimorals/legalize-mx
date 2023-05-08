@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-creacion-de-la-universidad-tecnologica-metropolitana-130
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-03"
-last_updated: "2019-04-15"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA METROPOLITANA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 3 de septiembre de 2018.
 
@@ -197,7 +197,9 @@ II.- (DEROGADA, P.O. 15 DE ABRIL DE 2019)
 
 III.- (DEROGADA, P.O. 15 DE ABRIL DE 2019)
 
-IV.- El Titular de la Secretaría de Desarrollo Económico del Estado;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+IV.- El Titular de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
 V.- El Titular del Instituto de Educación de Aguascalientes;
 
@@ -544,3 +546,15 @@ El Consejo Directivo de la Universidad Tecnológica Metropolitana de Aguascalien
 ###### ARTÍCULO SÉPTIMO.
 
 El Rector de la Universidad Tecnológica Metropolitana de Aguascalientes deberá solicitar la inscripción de las presentes reformas y derogaciones en el Registro Público de la Propiedad y del Comercio del Estado de Aguascalientes, en el apartado correspondiente a las entidades paraestatales, dentro de los 30 días siguientes a la publicación del presente Decreto.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarías que se opongan al presente Decreto.
