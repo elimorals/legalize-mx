@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo-1518
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-11"
-last_updated: "2018-12-31"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 11 de julio de 1999.
 
@@ -45,15 +45,19 @@ LEY PARA EL FOMENTO A LA ECONOMIA, LA INVERSION Y EL EMPLEO PARA EL ESTADO DE AG
 
 La presente ley es de orden público, interés social y observancia general en el territorio del Estado de Aguascalientes. Tiene por objeto establecer las bases para promover, fomentar e incentivar la actividad económica del Estado, generándole un entorno favorable para su desarrollo local, regional, nacional e internacional.
 
-###### ARTICULO 2º.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
 
-La aplicación de esta Ley corresponde al titular del Ejecutivo Estatal por conducto de la Secretaría de Desarrollo Económico, así como a las demás autoridades estatales y municipales, de conformidad con sus atribuciones y dentro del ámbito de sus respectivas competencias.
+###### ARTICULO 2°.
+
+La aplicación de esta Ley corresponde a la persona titular del Ejecutivo Estatal por conducto de la Secretaría de Desarrollo Económico, Ciencia y Tecnología, así como a las demás autoridades estatales y municipales, de conformidad con sus atribuciones y dentro del ámbito de sus respectivas competencias.
 
 ###### ARTICULO 3º.
 
 Para los efectos de lo establecido en esta Ley, se entenderá por:
 
-I.- Secretaría: La Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+I.- Secretaría: La Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
 II.- Secretario: El titular de la Secretaría;
 
@@ -127,7 +131,9 @@ El Consejo se integra por:
 
 I.- Un Presidente: Que será el Gobernador Constitucional del Estado;
 
-II.- Un Vicepresidente: Que será el Secretario de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+II.- Un Vicepresidente: Que será el Secretario;
 
 III.- Y treinta y cuatro vocales;
 
@@ -189,7 +195,9 @@ X.- Participar en la elaboración de los programas de promoción de la inversió
 
 XI.- Sugerir programas que permitan el desarrollo integral de las micro y pequeñas empresas del Estado;
 
-XII.- Apoyar al Secretario de Desarrollo Económico, en la creación de Comités;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XII.- Apoyar al Secretario en la creación de Comités;
 
 XIII.- Establecer los lineamientos para formar los Comités;
 
@@ -562,3 +570,15 @@ P.O. 31 DE DICIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del estado.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarías que se opongan al presente Decreto.
