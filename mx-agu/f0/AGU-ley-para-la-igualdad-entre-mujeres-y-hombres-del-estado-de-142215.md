@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1422
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-16"
-last_updated: "2022-12-09"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de marzo de 2020.
 
@@ -165,6 +165,10 @@ IX.- Igualdad Salarial: A trabajo igual, desempeñado en puesto, jornada y condi
 
 X.- Los demás establecidos en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales ratificados por el Estado Mexicano, la legislación federal, y la Constitución Política del Estado de Aguascalientes; relativos a la materia.
 
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2023)</small>
+
+Artículo 4° A.- La interpretación de esta Ley será conforme con los principios de universalidad, interdependencia, indivisibilidad, complementariedad, integralidad, progresividad y no regresividad, así como favoreciendo en todo tiempo la protección más amplia para las personas, debiendo siempre de optar por la regla de preferencia interpretativa más protectora y garantista, dejando de aplicar aquellas normas que menoscaben derechos y garantías.
+
 ###### Artículo 5°.
 
 La trasgresión a los principios y programas que la misma prevé será sancionada de acuerdo con lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y, en su caso, por las leyes aplicables federales y estatales, que sean relativos a la materia.
@@ -175,27 +179,73 @@ Para los efectos de esta Ley se entenderá por:
 
 I.- Acciones Afirmativas: es el conjunto de medidas de carácter temporal correctivo, compensatorio y/o de promoción, encaminadas a acelerar la Igualdad Sustantiva entre mujeres y hombres;
 
-II.- Empoderamiento: la generación o promoción de condiciones sociales, económicas, políticas y jurídicas que propician el desarrollo pleno e igualitario entre mujeres y hombres;
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 8 DE MAYO DE 2023)</small>
 
-III.- Entes Públicos: a las entidades y dependencias de los Poderes Ejecutivo, Legislativo y Judicial, así como de los Ayuntamientos; a los Organismos Constitucionalmente Autónomos; y a los Descentralizados y Desconcentrados;
+II.- Discriminación: A cualquier forma de preferencia, distinción, exclusión, repudio, desprecio, incomprensión, rechazo o restricción que, basada en el origen étnico o nacional, sexo, genero, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, predilecciones de cualquier índole, estado civil o alguna otra, que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos fundamentales en condiciones de equidad e igualdad de oportunidades y de trato de las personas, tales como:
 
-IV.- Género.- al conjunto de diferencias biológicas, psicológicas, afectivas y emocionales entre mujeres y hombres, en tanto seres sexuados y complementarios, que se hacen manifiestas en la vida política, laboral, económica, social, cultural y familiar como atributos, roles, estereotipos y características;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MAYO DE 2023)</small>
 
-V.- IAM: el Instituto Aguascalentense de las Mujeres;
+a). - Discriminación directa por razón de sexo: Es la originada por disposiciones, criterios o prácticas que pone a personas de un sexo en desventaja particular con respecto a personas del otro. Se exceptúan de esta las disposiciones, criterios o prácticas que se justifiquen objetivamente con una finalidad legítima, como en el caso de las acciones afirmativas.
 
-VI.- Igualdad: la posibilidad y capacidad de ser titulares cualitativamente de los mismos derechos, sin importar las diferencias del género al que pertenezcan; eliminando toda forma de discriminación en cualquiera de los ámbitos de la vida;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MAYO DE 2023)</small>
 
-VII.- Instancias Municipales de la Mujer: a las unidades administrativas que tiene la responsabilidad de articular las acciones del gobierno municipal en favor de las mujeres, así como promover y proponer políticas públicas desde la perspectiva de género para mejorar la condición y situación de las mujeres;
+b). - Discriminación indirecta por razón de sexo: Es aquella en la que se establecen condiciones formalmente neutras respecto al sexo pero que resultan desfavorables para algunos de los sujetos de esta Ley; y además carecen de una causa suficiente, objetiva, razonable y justificada.
 
-VIII.- Ley: a la presente Ley para la Igualdad entre Mujeres y Hombres del Estado de Aguascalientes:
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+III.- Empoderamiento: la generación o promoción de condiciones sociales, económicas, políticas y jurídicas que propician el desarrollo pleno e igualitario entre mujeres y hombres;
 
-IX.- Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permite identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-X.- Programa para la Igualdad: el Programa Estatal para la Igualdad entre Mujeres y Hombres de Aguascalientes; y
+IV.- Entes Públicos: El Poder Legislativo, el Poder Judicial, las dependencias y entidades del Poder Ejecutivo o de la administración pública municipal, Órgano Superior de Fiscalización del Estado de Aguascalientes, así como a los Órganos Constitucionales Autónomos;
 
-XI.- Sistema para la Igualdad: el Sistema Estatal para la Igualdad entre Mujeres y Hombres de Aguascalientes.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+V.- Equidad de Género: El reconocimiento de condiciones y aspiraciones diferenciadas para lograr el ejercicio de iguales derechos y oportunidades para mujeres y hombres; asimismo, a la implementación de mecanismos de justicia distributiva, tales como las acciones afirmativas que aseguran el acceso y disfrute igualitario a bienes, recursos y decisiones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2023)</small>
+
+VI.- Estereotipo: A las características y funciones que se asignan a cada sexo en base a roles e identidades socialmente asignados por prejuicios a las mujeres y hombres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2023)</small>
+
+VII.- Género: Al conjunto de diferencias psicológicas, afectivas y emocionales entre mujeres y hombres, en tanto seres sexuados y complementarios, que se hacen manifiestas en la vida política, laboral, económica, social, cultural y familiar como atributos, roles, estereotipos y características;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VIII.- IAM: El Instituto Aguascalentense de las Mujeres;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+IX.- Igualdad de trato y oportunidades entre mujeres y hombres: a la eliminación de toda forma de discriminación en cualquiera de los ámbitos de la vida, que se genere por pertenecer a cualquier sexo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2023)</small>
+
+X.- Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE MAYO DE 2023)</small>
+
+XI.- Instancias Municipales de la Mujer: a las unidades administrativas que tiene (sic) la responsabilidad de articular las acciones del gobierno municipal en favor de las mujeres, así como promover y proponer políticas públicas desde la perspectiva de género para mejorar la condición y situación de las mujeres;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE MAYO DE 2023)</small>
+
+XII.- Ley: a la presente Ley para la Igualdad entre Mujeres y Hombres del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XIII.- Perspectiva de Género: A la visión científica, analítica y política sobre las mujeres y los hombres, en que se propone la eliminación de las causas de opresión de género como la desigualdad, injusticia y jerarquización de las personas basada en el género; promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres, contribuye a construir una sociedad en la cual, las mujeres y los hombres tengan el mismo valor, igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XIV.- Programa para la Igualdad: el Programa Estatal para la Igualdad entre Mujeres y Hombres de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XV.- Sistema para la Igualdad: El sistema Estatal para la Igualdad entre Mujeres y Hombres de Aguascalientes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XVI.- Transversalidad: Al proceso que permite garantizar la incorporación de la perspectiva de género, con el objetivo de valorar las implicaciones que tiene para las mujeres y hombres, cualquier acción que se programe, tratándose de legislación, políticas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
 
 ###### Artículo 7º.
 
@@ -243,9 +293,11 @@ I.- Proporcionar capacitación y sensibilización en los temas referentes a Igua
 
 II.- Efectuar investigaciones y diagnósticos en temas de derechos y de la aplicación de las normas jurídicas en beneficio de las mujeres.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
+
 ###### Artículo 12.
 
-Los Entes Públicos, en el ámbito de sus competencias, velarán por la eliminación de los estereotipos que fomentan la discriminación y la violencia contra las mujeres.
+Los Entes Públicos, en el ámbito de sus competencias, velaran por la eliminación de los estereotipos que fomentan la discriminación directa e indirecta y la violencia contra las mujeres.
 
 ###### Artículo 13.
 
@@ -489,11 +541,31 @@ V.- Generar los mecanismos necesarios para garantizar que la política en materi
 
 VI.- Promover campañas de concientización para mujeres y hombres sobre su participación equitativa en la vida familiar y en la atención de las personas dependientes de ellos.
 
-### CAPÍTULO I. LA DISTRIBUCIÓN DE COMPETENCIAS Y LA COORDINACIÓN INTERINSTITUCIONAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE MAYO DE 2023)</small>
+
+### CAPÍTULO X. LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA PARITARIA DE LAS MUJERES Y LOS HOMBRES
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2023)</small>
+
+Artículo 31 A.- La política estatal propondrá los mecanismos de operación adecuados para la participación paritaria entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2023)</small>
+
+Artículo 31 B.- Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes, en el ámbito de su competencia, desarrollaran las siguientes acciones:
+
+I.- Identificar por medio del Instituto Estatal Electoral, la participación paritaria entre mujeres y hombres en los cargos de elección popular;
+
+II.- Promover la participación y representación paritaria entre mujeres y hombres dentro de las estructuras de los partidos políticos;
+
+III.- Fomentar la participación paritaria de mujeres y hombres en altos cargos públicos;
+
+IV.- Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores públicos, privado y de la sociedad civil; y
+
+V.- Fomentar la participación paritaria y sin discriminación de mujeres y hombres, ya sea directa o indirecta, en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los Entes públicos.
 
 ## TÍTULO TERCERO. LAS AUTORIDADES E INSTITUCIONES
 
-### CAPÍTULO II. EL PODER EJECUTIVO
+### CAPÍTULO I. LA DISTRIBUCIÓN DE COMPETENCIAS Y LA COORDINACIÓN INTERINSTITUCIONAL
 
 ###### Artículo 32.
 
@@ -507,7 +579,7 @@ En la celebración de convenios o acuerdos de coordinación, se considerarán lo
 
 En términos del Artículo anterior, los Entes Públicos, en el ámbito de su competencia, presupuestarán y en su caso ejercerán eficazmente recursos con cargo a su presupuesto institucional orientados al cumplimiento de las disposiciones que emanan de la presente Ley.
 
-### CAPÍTULO III. EL PODER LEGISLATIVO
+### CAPÍTULO II. EL PODER EJECUTIVO
 
 #### Sección Primera. El Gobernador Constitucional del Estado
 
@@ -557,7 +629,7 @@ VII.- Revisar el Programa para la Igualdad cada tres años, a efecto de analizar
 
 VIII.- Los demás que esta ley y otros ordenamientos aplicables le confieren.
 
-### CAPÍTULO IV. EL PODER JUDICIAL
+### CAPÍTULO III. EL PODER LEGISLATIVO
 
 ###### Artículo 37.
 
@@ -573,7 +645,7 @@ IV.- Difundir los tratados internacionales vinculantes al Estado Mexicano relaci
 
 V.- Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
-### CAPÍTULO V. LOS MUNICIPIOS
+### CAPÍTULO IV. EL PODER JUDICIAL
 
 ###### Artículo 38.
 
@@ -589,7 +661,7 @@ IV.- Vigilar que la impartición de justicia esté libre de discriminación; y
 
 V.- Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
-### CAPÍTULO VI. LOS ORGANISMOS AUTÓNOMOS Y PARAESTATALES
+### CAPÍTULO V. LOS MUNICIPIOS
 
 #### Sección Primera. Los Ayuntamientos
 
@@ -621,9 +693,7 @@ IX.- Las demás previstas en las diversas leyes locales en la materia.
 
 Las Instancias Municipales de la Mujer, son organismos auxiliares de los Municipios, que tienen por objeto salvaguardar en su ámbito de competencia, el objeto y los principios de la presente Ley. Su naturaleza, estructura y atribuciones serán establecidas, en su caso, a través de las disposiciones de carácter general, bandos y reglamentos que al efecto expidan los ayuntamientos correspondientes; así como, en su caso, de los convenios de coordinación suscritos.
 
-### CAPÍTULO VII. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA PARITARIA DE LAS MUJERES Y HOMBRES
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
+### CAPÍTULO VI. LOS ORGANISMOS AUTÓNOMOS Y PARAESTATALES
 
 ###### Artículo 41.
 
@@ -641,7 +711,9 @@ V.- Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-### CAPÍTULO I. EL SISTEMA PARA LA IGUALDAD
+### CAPÍTULO VII. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA PARITARIA DE LAS MUJERES Y HOMBRES
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 41 Bis.
 
@@ -667,7 +739,7 @@ VI.- Fomentar la participación paritaria y sin discriminación de mujeres y hom
 
 ## TÍTULO CUARTO. EL SISTEMA Y EL PROGRAMA PARA LA IGUALDAD
 
-### CAPÍTULO II. EL PROGRAMA PARA LA IGUALDAD
+### CAPÍTULO I. EL SISTEMA PARA LA IGUALDAD
 
 ###### Artículo 42.
 
@@ -677,11 +749,15 @@ El Sistema para la Igualdad estará a cargo del Instituto Aguascalentense de las
 
 I.- La Secretaría de Desarrollo Social;
 
-II.- La Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+II.- La Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
 III.- La Secretaría de Salud;
 
-IV.- Coordinación General de Planeación y Proyectos;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+IV.- La Secretaría de Planeación, Participación y Desarrollo;
 
 V.- El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes;
 
@@ -743,7 +819,7 @@ XIII.- Dar seguimiento a la implementación del Principio Constitucional de Pari
 
 XIV.- Las demás que se requieran para el cumplimiento de los objetivos del Sistema para la Igualdad y las que determinen las disposiciones aplicables.
 
-### CAPÍTULO I. LA VIGILANCIA PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES
+### CAPÍTULO II. EL PROGRAMA PARA LA IGUALDAD
 
 ###### Artículo 44.
 
@@ -769,7 +845,7 @@ VII.- Lo demás establecido en el Título Segundo de la presente Ley y demás or
 
 ## TÍTULO QUINTO. LA VIGILANCIA, RESPONSABILIDADES Y SANCIONES PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES
 
-### CAPÍTULO II. LAS UNIDADES DE GÉNERO
+### CAPÍTULO I. LA VIGILANCIA PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES
 
 ###### Artículo 46.
 
@@ -791,7 +867,7 @@ III.- Difundir información sobre los diversos aspectos relacionados con la Igua
 
 IV.- Las demás acciones que sean necesarias para cumplir los objetivos de esta Ley.
 
-### CAPÍTULO III. LAS RESPONSABILIDADES Y SANCIONES PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES
+### CAPÍTULO II. LAS UNIDADES DE GÉNERO
 
 ###### Artículo 49.
 
@@ -800,6 +876,8 @@ Las Unidades de Género son organismos o comités honorarios que deberán implem
 ###### Artículo 50.
 
 Las Unidades de Género tendrán las facultades que determinen las disposiciones u ordenamientos de carácter reglamentario, expedidas por cada sujeto obligado, en coordinación con el IAM, de conformidad con la Ley que lo rige.
+
+### CAPÍTULO III. LAS RESPONSABILIDADES Y SANCIONES PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES
 
 ###### Artículo 51.
 
@@ -882,3 +960,27 @@ P.O. 9 DE DICIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PERA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+— Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 321.- REFORMA A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los entes públicos a que se refiere la fracción IV del artículo 6° de la Ley para la Igualdad entre Mujeres y Hombres del Estado de Aguascalientes, en un plazo improrrogable de 90 días a partir de la entrada en vigor de la presente publicación deberán realizar las adecuaciones normativas correspondientes a efecto de observar el contenido de los artículos 31 A y 31 B a que se refiere el presente Decreto.
