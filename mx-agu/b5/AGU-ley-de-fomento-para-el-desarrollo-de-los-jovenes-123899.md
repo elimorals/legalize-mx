@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fomento-para-el-desarrollo-de-los-jovenes-123899"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-16"
-last_updated: "2018-09-03"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de octubre de 2017.
 
@@ -65,15 +65,21 @@ I.- Estímulos o Incentivos: Los apoyos e incentivos fiscales y no fiscales que 
 
 II.- Fondo: El Fondo de Promoción, Impulso y Fomento al Joven Emprendedor;
 
-III.- Incubadoras: A las personas morales registradas ante la Secretaría de Desarrollo Económico, como órganos encargado (sic) del impulso, desarrollo y asesoramiento de la actividad productiva económica de proyectos de negocios para la realización exitosa de nuevas empresas, apoyándose en el Fondo de Promoción, Impulso y Fomento al Joven Emprendedor;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-IV.- Instituto: Al Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes;
+III.- Incubadoras: A las personas morales registradas ante la Secretaría de Desarrollo Económico, Ciencia y Tecnología "SEDECYT", como órganos encargados del impulso, desarrollo y asesoramiento de la actividad productiva económica de proyectos de negocios para la realización exitosa de nuevas empresas, apoyándose en el Fondo de Promoción, Impulso y Fomento al Joven Emprendedor;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+IV.- Instituto: Al Instituto de Ciencia y Tecnología del Estado de Aguascalientes;
 
 V.- Joven Emprendedor: Es toda persona física de los 18 a los 29 años de edad, con capacidad de ejercicio, en pleno goce de sus derechos, residente en el Estado de Aguascalientes y que cuenta con proyectos productivos, ideas o propuestas de creación de empresas, que generen fuentes de empleo locales, mejoren su nivel de vida y la del Estado;
 
 VI.- Joven Empresario: Es toda persona física de 18 a los 29 años de edad, que ejercite y desarrolle una actividad empresarial en nombre propio, con habitualidad, adquiriendo la titularidad de las obligaciones y derechos que se derivan de tal actividad, siendo ésta una actividad organizada en función de una producción o un intercambio de bienes y servicios en el mercado;
 
-VIII (sic).- Emprendimiento Transversal: Conjunto perceptible de cualidades, habilidades y conocimientos, que son necesarios para comenzar un proceso a fin de transformar ideas en actividades empresariales;
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE MAYO DE 2023)</small>
+
+VII.- Emprendimiento Transversal: Conjunto perceptible de cualidades, habilidades y conocimientos, que son necesarios para comenzar un proceso a fin de transformar ideas en actividades empresariales;
 
 VIII.- Ley: La Ley de Fomento para el Desarrollo de los Jóvenes Emprendedores del Estado de Aguascalientes;
 
@@ -81,7 +87,9 @@ IX.- MIPyMES: La micro, pequeña y mediana empresa que se constituya como consec
 
 X.- Reglamento: El Reglamento de la Ley de Fomento para el Desarrollo de los Jóvenes Emprendedores del Estado de Aguascalientes;
 
-XI.- Secretaría de Desarrollo Económico: La Secretaría de Desarrollo Económico del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XI.- Secretaría de Desarrollo Económico, Ciencia y Tecnología: La Secretaría de Desarrollo Económico, Ciencia y Tecnología del Estado de Aguascalientes, con acrónimo "SEDECYT";
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -135,11 +143,15 @@ VI.- Difusión de los procedimientos, normas, reglas, programas, apoyos e incent
 
 ### CAPÍTULO III. Las Autoridades y Órganos Competentes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2023)</small>
+
 ###### Artículo 8°.
 
-La aplicación de la presente Ley corresponde al Titular del Ejecutivo del Estado por conducto de las siguientes dependencias, en el ámbito de sus respectivas competencias:
+La aplicación de la presente Ley corresponde a la persona Titular del Ejecutivo del Estado por conducto de las siguientes dependencias, en el ámbito de sus respectivas competencias:
 
-I.- La Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+I.- La Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -151,11 +163,15 @@ III.- El Instituto de Educación;
 
 IV.- La Secretaría de Desarrollo Social; y
 
-V.- El Instituto para el Desarrollo de la Sociedad del Conocimiento.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+V.- El Instituto de Ciencia y Tecnología.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2023)</small>
 
 ###### Artículo 9°.
 
-Corresponde a la Secretaría de Desarrollo Económico:
+Corresponde a la Secretaría de Desarrollo Económico, Ciencia y Tecnología:
 
 I.- Promover y dar dirección al desarrollo económico del Estado, impulsando la actividad productiva y comercial enfocada a los jóvenes, a través de procesos de creación de empresas competitivas, creativas e innovadoras, articuladas con las cadenas productivas relevantes para las distintas regiones de la entidad y con un alto nivel de planeación y visión a largo plazo;
 
@@ -217,9 +233,13 @@ Corresponde a la Secretaría de Desarrollo Social:
 
 I.- Promover estrategias orientadas al desarrollo de proyectos productivos de jóvenes emprendedores innovadores, creativos y competitivos que impulsen el desarrollo del Estado;
 
-II.- Establecer esquemas de coordinación con la Secretaría de Desarrollo Económico, para el cumplimiento de los objetivos previstos en la presente Ley;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-III.- Promover programas y cursos de capacitación en coordinación con la Secretaría de Desarrollo Económico y con el Centro de Competitividad e Innovación del Estado de Aguascalientes, para el cumplimiento de los objetivos establecidos en la presente Ley; y
+II.- Establecer esquemas de coordinación con la Secretaría de Desarrollo Económico, Ciencia y Tecnología, para el cumplimiento de los objetivos previstos en la presente Ley;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+III.- Promover programas y cursos de capacitación en coordinación con la Secretaría de Desarrollo Económico, Ciencia y Tecnología y con el Centro de Competitividad e Innovación del Estado de Aguascalientes, para el cumplimiento de los objetivos establecidos en la presente Ley; y
 
 IV.- Promover en su caso, en los distintos medios masivos de comunicación social los diversos apoyos oficiales disponibles para los jóvenes emprendedores.
 
@@ -233,7 +253,9 @@ El Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Ag
 
 Para el cumplimiento de los objetivos de esta Ley, el Fondo de Promoción, Impulso y Fomento al Joven Emprendedor, coadyuvará con el propósito de obtener recursos económicos para el adecuado cumplimiento de los fines que persigue la misma.
 
-La administración, integración y atribuciones de quienes ejecuten este Fondo, se especificarán las reglas de operación que para tal efecto expida la Secretaría de Desarrollo Económico.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
+
+La administración, integración y atribuciones de quienes ejecuten este Fondo, se especificarán en las reglas de operación que para tal efecto expida la Secretaría de Desarrollo Económico, Ciencia y Tecnología.
 
 ###### Artículo 15.
 
@@ -271,11 +293,11 @@ Para efectos del proceso de análisis, selección y evaluación de los proyectos
 
 ### CAPÍTULO V. Los Incentivos Fiscales
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
 
 ###### Artículo 20.
 
-La Secretaría de Desarrollo Económico en conjunto con el Instituto Aguascalentense de la Juventud, en el marco de sus respectivas atribuciones y para el cumplimiento de esta Ley, gestionará ante las instancias correspondientes la obtención de incentivos fiscales para jóvenes emprendedores.
+La Secretaría de Desarrollo Económico, Ciencia y Tecnología en conjunto con el Instituto Aguascalentense de la Juventud, en el marco de sus respectivas atribuciones y para el cumplimiento de esta Ley, gestionará ante las instancias correspondientes la obtención de incentivos fiscales para jóvenes emprendedores.
 
 T R A N S I T O R I O S
 
@@ -334,3 +356,15 @@ P.O. 3 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
