@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-desarrollo-pecuario-del-estado-de-aguascalientes-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-20"
-last_updated: "2023-01-23"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 
@@ -185,7 +185,9 @@ XXXIV. Ganadería: El conjunto de actividades necesarias para la cría, reproduc
 
 XXXV. Ganadero o productor pecuario: Persona física o moral que se dedica a la ganadería tiene definido su asiento de producción;
 
-XXXVI. Ganado: Las especies bovina, caballar, asnal, mular, ovina, caprina, porcina o de una o más colonias de abejas en un apiario; así como aquél domesticado, bravo, de pezuña, ganado mayor o ganado menor, independientemente de la actividad típica del animal;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XXXVI. Ganado: Las especies bovina, caballar, asnal, mular, ovina, caprina, porcina o de una o más colmenas o colonias de abejas en un apiario; así como aquél domesticado, bravo, de pezuña, ganado mayor o ganado menor, independientemente de la actividad típica del animal;
 
 XXXVII. Ganado criollo: Ganado producido por su propietario original sin haber transmitido su dominio;
 
@@ -1961,8 +1963,16 @@ En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 
 
 P.O. 23 DE ENERO DE 2023.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 248.- SE REFORMA LA LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 248.- SE REFORMA LA LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 322.- REFORMA AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES; Y, REFORMA A LA LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
