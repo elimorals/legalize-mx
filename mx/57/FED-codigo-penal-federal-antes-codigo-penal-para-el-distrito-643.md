@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2023-04-25"
+last_updated: "2023-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -27,7 +27,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -6571,27 +6571,49 @@ Los delitos previstos en el presente Capítulo se perseguirán por querella de l
 
 Se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil días multa, al que introduzca al territorio nacional, o trafique con recursos forestales, flora o fauna silvestre viva o muerta, sus productos o derivados, que porten, padezcan o hayan padecido, según corresponda alguna enfermedad contagiosa, que ocasione o pueda ocasionar su diseminación o propagación o el contagio a la flora, a la fauna, a los recursos forestales o a los ecosistemas.
 
-> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 418.
 
-Se impondrá pena de seis meses a nueve años de prisión y por equivalente de cien a tres mil días multa, siempre que dichas actividades no se realicen en zonas urbanas, al que ilícitamente:
+Se impondrá pena de seis meses a nueve años de prisión y multa de cien a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente, siempre que dichas actividades no se realicen en zonas urbanas, al que sin contar con la autorización previa de la autoridad competente:
 
-I. Desmonte o destruya la vegetación natural;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
-II. Corte, arranque, derribe o tale algún o algunos árboles, o
-
-III. Cambie el uso del suelo forestal.
-
-La pena de prisión deberá aumentarse hasta en tres años más y la pena económica hasta en mil días multa, para el caso en el que las conductas referidas en las fracciones del primer párrafo del presente artículo afecten un área natural protegida.
+I. Desmonte o destruya la vegetación forestal;
 
 > <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
+II. Corte, arranque, derribe o tale algún o algunos árboles, o
+
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+III. Cambie el uso de suelo en terrenos forestales sin la autorización expedida por la autoridad competente.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+La pena de prisión deberá aumentarse hasta en cuatro años más y la multa hasta en cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente para el caso en el que, las conductas referidas en las fracciones del primer párrafo del presente artículo afecten un área natural protegida.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Cuando las conductas a que se refiere este artículo se realicen empleando armas de fuego o por cualquier otro medio violento en contra de las personas o para obtener un lucro o beneficio económico, se le impondrá pena de tres a doce años de prisión y multa de quinientos a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 419.
 
-A quien ilícitamente transporte, comercie, acopie, almacene o transforme madera en rollo, astillas, carbón vegetal, así como cualquier otro recurso forestal maderable, o tierra procedente de suelos forestales en cantidades superiores a cuatro metros cúbicos o, en su caso, a su equivalente en madera aserrada, se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil días multa. La misma pena se aplicará aun cuando la cantidad sea inferior a cuatro metros cúbicos, si se trata de conductas reiteradas que alcancen en su conjunto esta cantidad.
+A quien, sin que exista acto administrativo que lo autorice o no cuente con la documentación que acredite la legal procedencia, transporte, comercie, enajene, distribuya, suministre, acopie, compre, reciba, adquiera, almacene, resguarde, posea o transforme materias primas forestales o productos forestales maderables, se le impondrán las siguientes penas:
 
-La pena privativa de la libertad a la que se hace referencia en el párrafo anterior se incrementará hasta en tres años más de prisión y la pena económica hasta en mil días multa, cuando los recursos forestales maderables provengan de un área natural protegida.
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+I. Cuando el volumen no exceda de dos metros cúbicos se le impondrá de dos a cinco años de prisión y multa de quinientos a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+
+II. Si el volumen es superior a dos metros cúbicos se le impondrá de seis a doce años de prisión y multa de mil a cinco mil veces el valor de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
+
+Las penas privativas de la libertad a que hacen referencia las fracciones anteriores se incrementarán hasta en cuatro años de prisión y multa hasta en cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, cuando las materias primas forestales o productos forestales maderables provengan de un área natural protegida.
 
 > <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2017)</small>
 
@@ -6719,11 +6741,11 @@ Se considerarán víctimas con derecho a solicitar la reparación o compensació
 
 En el caso de los delitos contra el ambiente, cuando el autor o partícipe tenga la calidad de garante respecto de los bienes tutelados, la pena de prisión se aumentará hasta en tres años.
 
-> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 423.
 
-No se aplicará pena alguna respecto a lo dispuesto por el párrafo primero del artículo 418, así como para la transportación de leña o madera muerta a que se refiere el artículo 419, cuando el sujeto activo sea campesino y realice la actividad con fines de uso o consumo doméstico dentro de su comunidad.
+No se aplicará pena alguna a quien incurra en la conducta señalada en el párrafo primero, fracción segunda, del artículo 418, ni a quien transporte la leña o madera muerta a que se refiere el artículo 419, cuando realice la actividad para uso doméstico dentro de la comunidad rural, indígena o afromexicana a la que pertenezca.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -8486,3 +8508,13 @@ D.O.F. 25 DE ABRIL DE 2023.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
+
+D.O.F. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 418, 419 Y 423 DEL CÓDIGO PENAL FEDERAL, EN MATERIA DE TALA ILEGAL".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
