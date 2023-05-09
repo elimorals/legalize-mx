@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-suprema-corte-de-justicia-de-la-60269
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-01"
-last_updated: "2013-06-20"
+last_updated: "2023-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60269&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-03-11"
 
 REGLAMENTO INTERIOR DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2023.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de abril de 2008.
 
@@ -255,11 +255,23 @@ IX. En la toma de protesta de Magistrados de Circuito y Jueces de Distrito, y
 
 X. Todas aquellas que el Pleno considere que deben tener tal carácter.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2023)</small>
 
 ###### Artículo 12.
 
-Las sesiones se desarrollarán de conformidad con el orden del día o las listas elaboradas por la Secretaría General, atendiendo a las instrucciones del Presidente o del Comité de Reglamentos, Acuerdos y Programación de Asuntos.
+Las sesiones se desarrollarán de conformidad con el orden del día y la lista oficial elaborada por la Secretaría General, atendiendo a las instrucciones de la o el titular de la Presidencia de la Suprema Corte con el apoyo del Comité de Programación y Agilización de Asuntos.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2023)</small>
+
+Los proyectos de resolución formulados por las Ministras y por los Ministros deberán integrarse a la lista oficial, en el orden que disponga la o el titular de la Presidencia de la Suprema Corte con el apoyo del Comité de Programación y Agilización de Asuntos, a más tardar dentro de los treinta días hábiles siguientes a su recepción en la Secretaría General.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2023)</small>
+
+La o el titular de la Secretaría General de Acuerdos tiene la obligación y será responsable de la inclusión de los proyectos en la lista oficial, en los términos señalados en el párrafo que antecede. Su incumplimiento será sancionado por mayoría simple del Pleno con amonestación privada o, en caso de reincidencia, con amonestación pública.
+
+> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2023)</small>
+
+Con el apoyo del referido Comité, la o el titular de la Presidencia de la Suprema Corte adoptará en el ámbito de su competencia o propondrá al Pleno, diversas medidas que coadyuven en la agilización en el trámite y resolución de los asuntos de la competencia del Pleno de este Alto Tribunal, así como en la oportuna difusión de las sentencias respectivas, en un contexto de transparencia procesal.
 
 ###### Artículo 13.
 
@@ -735,9 +747,9 @@ La Secretaría General tendrá las siguientes atribuciones:
 
 I. Recibir, registrar, controlar y llevar el seguimiento de los expedientes de los asuntos y proyectos que envían los Ministros para ser listados para la sesión de Pleno correspondiente, así como vigilar que los proyectos referidos cumplan con los requisitos que establece este Reglamento Interior;
 
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2023)</small>
 
-II. Integrar las listas con las cuentas aprobadas por el Comité de Reglamentos, Acuerdos y Programación de Asuntos;
+II. Integrar las listas con las cuentas aprobadas por el Comité de Programación y Agilización de Asuntos;
 
 III. Elaborar y distribuir las listas informativas y las listas informativas programadas para verse en las sesiones; las listas oficiales ordinarias y extraordinarias para informar la vista de los asuntos en sesiones públicas; las listas oficiales ordinarias y extraordinarias de sesiones públicas para informar sobre el sentido de las resoluciones; las listas oficiales para interrumpir la caducidad en los asuntos que se encuentran en la Secretaría General pendientes de resolución y las constancias correspondientes; las listas de asuntos aplazados, y el calendario de las listas ordinarias y extraordinarias, conforme a los criterios definidos por el Comité correspondiente;
 
@@ -769,9 +781,9 @@ XVI. Ingresar a la Red Jurídica las ejecutorias del Pleno, los votos particular
 
 XVII. Archivar en medios electrónicos los votos particulares;
 
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2023)</small>
 
-XVIII. Elaborar y remitir a los Ministros todos los informes y los datos estadísticos que disponga el Comité de Reglamentos, Acuerdos y Programación de Asuntos;
+XVIII. Elaborar y remitir a las Ministras y a los Ministros todos los informes y los datos estadísticos que disponga el Comité de Programación y Agilización de Asuntos;
 
 XIX. Elaborar proyectos de acuerdos, cuando así lo determine el Pleno o alguno de los Comités;
 
@@ -795,11 +807,23 @@ XXVIII. Recibir en el domicilio de su Titular, o de las personas que éste desig
 
 XXIX. De conformidad con las disposiciones legales y reglamentarias aplicables, participar en el trámite relativo a la revisión, aprobación y numeración de las tesis que derivan de las resoluciones dictadas por el Pleno y difundirlas por medios electrónicos y, en su caso, copias certificadas, y,
 
-XXX. Las demás que le confieran las disposiciones legales y reglamentarias aplicables, así como las que le sean encomendadas por el Pleno, los Comités o el Presidente.
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2023)</small>
+
+XXX. Incluir en la lista oficial los proyectos de resolución en términos de lo previsto en el artículo 12 de este Reglamento Interior;
+
+> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2023)</small>
+
+XXXI. Presentar al Comité de Programación y Agilización de Asuntos, un informe mensual sobre el avance en la implementación de las diversas medidas que coadyuven en la agilización del trámite y resolución de los asuntos de la competencia de este Alto Tribunal, así como en la oportuna difusión de las sentencias respectivas, y
+
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2023)</small>
+
+XXXII. Las demás que le confieran las disposiciones legales y reglamentarias aplicables, así como las que le sean encomendadas por el Pleno, los Comités o la o el titular de la Presidencia de la Suprema Corte.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2023)</small>
 
 ###### Artículo 68.
 
-El Secretario General de Acuerdos deberá:
+La o el titular de la Secretaría General de Acuerdos deberá:
 
 I. Asistir a las sesiones del Pleno;
 
@@ -815,9 +839,9 @@ VI. Certificar los acuerdos y las tesis aisladas y jurisprudenciales emitidas po
 
 VII. Coordinar y supervisar el desahogo y, en su caso, cumplimiento de los acuerdos emitidos por el Pleno, los Comités o el Presidente;
 
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2023)</small>
 
-VIII. Asistir a las sesiones del Comité de Reglamentos, Acuerdos y Programación de Asuntos;
+VIII. Asistir a las sesiones del Comité de Programación y Agilización de Asuntos;
 
 IX. Recibir en su domicilio las promociones de término dirigidas al Pleno que se presenten fuera del horario de labores de la Oficina de Certificación Judicial y Correspondencia de la Suprema Corte;
 
@@ -1021,9 +1045,9 @@ V. Expedir certificaciones de los datos capturados en la Red Jurídica;
 
 VI. Proporcionar, previa autorización del Subsecretario General de Acuerdos, la información estadística que solicite la Dirección General de Difusión;
 
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2023)</small>
 
-VII. Recabar y difundir, en los términos en que lo disponga el Comité de Reglamentos, Acuerdos y Programación de Asuntos, los datos estadísticos relativos a los asuntos de la competencia originaria de la Suprema Corte, fallados por el Pleno y las Salas o por los Tribunales Colegiados;
+VII. Recabar y difundir los datos estadísticos relativos a los asuntos de la competencia originaria de la Suprema Corte, fallados por el Pleno y las Salas o por los Tribunales Colegiados;
 
 VIII. Elaborar los informes y datos estadísticos que soliciten los Ministros;
 
@@ -1359,17 +1383,21 @@ Para tal fin, la Secretaría General contará con personal encargado de la alime
 
 Para este efecto, se considerará que un asunto estadísticamente está vigente hasta el momento de su resolución, sin considerar trámites posteriores.
 
-> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2023)</small>
 
 ###### Artículo 105.
 
-La Secretaría General por conducto de la Subsecretaría General generará reportes estadísticos de forma cotidiana, semanal, mensual y anual, haciéndose el desglose respectivo por Ponencias, así como entre asuntos radicados en Pleno y en Salas, de conformidad con lo aprobado por el Comité de Reglamentos, Acuerdos y Programación de Asuntos.
+La Secretaría General generará reportes estadísticos de forma cotidiana, semanal, mensual y anual, haciéndose el desglose respectivo por Ponencias, así como entre asuntos radicados en Pleno y en Salas.
+
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2012)</small>
 
 Con independencia de lo anterior, las Secretarías de Acuerdos elaborarán y rendirán los reportes estadísticos o resúmenes informativos, en los términos y con la periodicidad que se determine por las Salas.
 
 ###### Artículo 106.
 
 Diariamente se actualizarán los datos relativos al movimiento de expedientes en la Red Jurídica, con base en la información que se genere en la Secretaría General, la Subsecretaría General y las Secretarías de Acuerdos.
+
+> <small>[N. DE E. EN RELACIÓN CON LOS ARTÍCULOS DEL 107 AL 143, SE SUGIERE CONSULTAR EL CONTENIDO DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 6 DE MAYO DE 2022.]</small>
 
 ## TITULO CUARTO. DE LOS ORGANOS ADMINISTRATIVOS DE APOYO
 
@@ -2153,6 +2181,8 @@ XVI. Brindar y coordinar, en el ámbito de su competencia, el apoyo logístico e
 
 XVII. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por el Pleno, los Comités de Ministros, el Ministro Presidente o la Secretaría General de la Presidencia y/o la Oficialía Mayor.
 
+> <small>[N. DE E. EN RELACIÓN CON LOS ARTÍCULOS 148 Y DEL 150 AL 154, SE SUGIERE CONSULTAR EL CONTENIDO DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 6 DE MAYO DE 2022.]</small>
+
 ## TITULO QUINTO. DE LOS ORGANOS JURIDICOS DE APOYO
 
 ### CAPITULO PRIMERO. DE LA SECRETARIA EJECUTIVA JURIDICO ADMINISTRATIVA
@@ -2399,6 +2429,8 @@ IX. Las demás que le confieran las disposiciones generales aplicables, así com
 
 El Secretario Ejecutivo de Asuntos Jurídicos deberá ser licenciado en derecho, contar con título y cédula expedidos por una institución legalmente autorizada, tener cuando menos cinco años de práctica profesional preferentemente en el Poder Judicial, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad.
 
+> <small>[N. DE E. EN RELACIÓN CON LOS ARTÍCULOS 155 AL 159, SE SUGIERE CONSULTAR EL CONTENIDO DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 6 DE MAYO DE 2022.]</small>
+
 ## TITULO SEXTO. DEL ORGANO DE CONTROL Y FISCALIZACION
 
 ### CAPITULO UNICO
@@ -2534,6 +2566,8 @@ XIV. Las demás que expresamente le confieran la normativa aplicable o le asigne
 ###### Artículo 159.
 
 Los Titulares de la Contraloría y de las Direcciones Generales a su cargo deberán contar con título profesional legalmente expedido, experiencia profesional vinculada con las funciones a desarrollar mínima de cinco años, gozar de buena reputación y no haber sido condenados por delito intencional con sanción privativa de libertad.
+
+> <small>[N. DE E. EN RELACIÓN CON EL ARTÍCULO 160, SE SUGIERE CONSULTAR EL CONTENIDO DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 6 DE MAYO DE 2022.]</small>
 
 ## TITULO SEPTIMO. DEL INSTITUTO DE INVESTIGACIONES JURISPRUDENCIALES Y DE PROMOCION Y DIFUSION DE LA ETICA JUDICIAL
 
@@ -2728,3 +2762,11 @@ CUARTO. El Centro de Documentación y Análisis, Archivos y Compilación de Leye
 QUINTO. El Centro de Documentación y Análisis, Archivos y Compilación de Leyes proporcionará al Archivo General de la Nación, los registros catalográficos de los expedientes históricos bajo resguardo de este Alto Tribunal, a fin de contar con un medio de difusión adicional a los mecanismos instrumentados, e integrar así un solo registro nacional del patrimonio documental histórico, a efecto de contribuir a la integración del Registro Nacional de Archivos Históricos.
 
 SEXTO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Reglamento Interior de la Suprema Corte de Justicia de la Nación en dichos medios electrónicos.
+
+D.O.F. 9 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL DOS DE MAYO DE DOS MIL VEINTITRÉS, POR EL QUE SE REFORMAN LOS ARTÍCULOS 12 (SE MODIFICA EL PÁRRAFO PRIMERO Y SE ADICIONAN LOS PÁRRAFOS DEL SEGUNDO AL CUARTO), 67 (SE MODIFICAN LAS FRACCIONES II Y XVIII, Y SE ADICIONAN LAS DIVERSAS XXX Y XXXI RECORRIÉNDOSE, EN CONSECUENCIA, LA NUMERACIÓN DE LA ÚLTIMA FRACCIÓN), 68 (SE MODIFICA LA FRACCIÓN VIII), 76 (SE MODIFICA LA FRACCIÓN VII) Y 105 (SE MODIFICA EL PÁRRAFO PRIMERO), DEL REGLAMENTO INTERIOR DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN".]
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública; sin menoscabo de que la Secretaría General de Acuerdos difunda en esos medios el texto actualizado, con lenguaje incluyente, del Reglamento Interior de la Suprema Corte de Justicia de la Nación.
