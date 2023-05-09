@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-agua-y-gestion-de-cuencas-para-el-estado-de-42641"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2022-06-30"
+last_updated: "2023-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 27 de diciembre de 2004.
 
@@ -421,7 +421,11 @@ XXXII. Realizar las declaratorias de clasificación de zonas de alto riesgo por 
 
 XXXIII. Presentar las denuncias que correspondan ante autoridades competentes cuando, como resultado del ejercicio de sus atribuciones, tenga conocimiento de actos u omisiones que constituyan violaciones a la legislación administrativa en materia de aguas o las leyes penales; y,
 
-XXXIV. Las demás que le señale el Gobernador y otras disposiciones normativas aplicables.
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2023)</small>
+
+XXXIV. Promover que los usuarios que descarguen aguas residuales adopten dentro de sus procesos la utilización de materiales biodegradables, siempre y cuando técnicamente sean viables atendiendo a las Normas Oficiales Mexicanas (NOM) reglamentarias de la materia;
+
+XXXV. Las demás que le señale el Gobernador y otras disposiciones normativas aplicables.
 
 ###### Artículo 12.
 
@@ -2096,3 +2100,9 @@ P.O. 30 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 161.- ARTÍCULO PRIMERO.- SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 147; SE REFORMA EL ARTÍCULO 199, LA FRACCIÓN VI DEL ARTÍCULO 281; SE ADICIONA EL ARTÍCULO 346 BIS, EL PÁRRAFO SEGUNDO AL ARTÍCULO 348; SE REFORMA LA FRACCIÓN X Y SE DEROGA EL INCISO G) DE LA FRACCIÓN XII DEL ARTÍCULO 351 DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN.- ARTÍCULO SEGUNDO.- SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 4°, LOS ARTÍCULOS 41 Y 42; Y, SE ADICIONAN LAS FRACCIONES I BIS Y XVI BIS, AL ARTÍCULO 45 DE LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 9 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 361 POR EL QUE "SE ADICIONA LA FRACCIÓN XXXIV Y SE RECORRE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 11, DE LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
