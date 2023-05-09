@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2023-02-22"
+last_updated: "2023-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -177,13 +177,13 @@ Para los efectos de esta ley:
 
 I.- El término Gobierno del Estado comprende a los Poderes del Estado de Tamaulipas y Organismos Descentralizados que remitan en sus decretos constitutivos a la aplicación de la presente ley;
 
-> <small>(F. DE E., P.O. 22 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2023)</small>
 
-II.- El de Sindicato por el Sindicato Unico de Trabajadores al Servicio de los Poderes del Estado de Tamaulipas y Organismos Descentralizados;
+II.- El de Sindicato a la organización u organizaciones sindicales que correspondan a los trabajadores al servicio del Gobierno del Estado de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2023)</small>
 
-III.- El de Tribunal de Conciliación y Arbitraje al Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios; y
+III.- El de Tribunal, Tribunal de Arbitraje o Tribunal de Conciliación y Arbitraje al Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios; y
 
 IV.- Por dependencia se entiende la unidad definida en el Presupuesto de Egresos como Secretaría, Dirección y Departamento.
 
@@ -443,7 +443,9 @@ XII.- Contribuir al fomento de las actividades cívicas, culturales y deportivas
 
 XIII.- Proporcionar a las mujeres embarazadas la protección que establezca el Reglamento de las Condiciones Generales de Trabajo;
 
-XIV.- Respetar el régimen interno de la agrupación sindical;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2023)</small>
+
+XIV.- Respetar el régimen interno de los sindicatos;
 
 XV.- Notificar al sindicato únicamente respecto al personal de base sindical puesto a disposición, así como sus cambios de adscripción y comisión;
 
@@ -763,15 +765,47 @@ Las permutas de empleos, así como las inconformidades de los trabajadores afect
 
 ## TITULO SEPTIMO. DE LA ORGANIZACION DE LOS TRABAJADORES AL SERVICIO DEL ESTADO
 
-### CAPITULO I. ORGANISMO SINDICAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MAYO DE 2023)</small>
+
+### CAPITULO I. DE LAS ORGANIZACIONES SINDICALES
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 59.
 
-Se reconoce a los trabajadores al servicio del Gobierno del Estado, el derecho de asociarse en una sola organización sindical, para el estudio, mejoramiento y defensa de los intereses comunes, misma que se regirá por lo que establezcan sus Estatutos internos, tomando en consideración los sectores laborales que reconoce el Gobierno del Estado de Tamaulipas.
+Se reconoce a los trabajadores al servicio del Gobierno del Estado, el derecho a formar parte de un sindicato y a constituir sindicatos, para el estudio, mejoramiento y defensa de los intereses comunes, sin necesidad de autorización previa. Asimismo, se reconoce el derecho a votar y ser votado en las elecciones sindicales para todos los cargos de representación sindical, sin restricción, ni limitación alguna. Las organizaciones sindicales se regirán por lo que establezcan sus Estatutos internos.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+ARTICULO 59 BIS.- La elección de las directivas sindicales se hará mediante voto personal, libre, directo y secreto de los afiliados y en ajuste a las reglas democráticas y de paridad de género, previa convocatoria que se emitirá con firma autógrafa de las personas facultadas para tales efectos en los Estatutos internos de la organización sindical; en la que se indique fecha, hora, lugar y los requisitos que deberán guardar armonía con lo previsto en la presente ley y en los Estatutos del sindicato, con una anticipación no menor a diez días y que se difundirá por medios físicos y electrónicos entre todos los miembros del sindicato, en los lugares de mayor afluencia de los centros de trabajo y en el local sindical.
+
+El sindicato deberá notificar la convocatoria al Tribunal con la misma anticipación a que se hace referencia en el párrafo anterior, el cual podrá verificar, por conducto de los servidores públicos o fedatarios que designe para tales efectos, que las elecciones se desarrollen de acuerdo con lo establecido en este artículo y en el Título Séptimo de esta ley.
+
+Por su parte, el sindicato deberá conformar una instancia colegiada, en cada centro laboral, en la que participen un número impar de afiliados de la asociación sindical correspondientemente y que serán los encargados de organizar y calificar la elección, así como de establecer los mecanismos necesarios para asegurar la identidad de las y los afiliados que voten el día de las elecciones sindicales, así como salvaguardar la secrecía del voto personal, libre, directo y secreto. Éste órgano deberá quedar formalmente constituido a más tardar tres días hábiles antes de la celebración de la elección correspondiente.
+
+Los trabajadores y trabajadoras que integren el órgano o instancia colegiada a que se hace referencia en el párrafo inmediato anterior, por ningún motivo podrán formar parte del Comité Directivo de la organización sindical correspondiente.
+
+Asimismo, el sindicato estará obligado a publicar una lista de los agremiados al sindicato en cada centro laboral, simultáneamente y anexa a la convocatoria en la que se puedan constatar las y los miembros del sindicato con derecho a votar.
+
+Las boletas de las elecciones del sindicato deberán contener, al menos, el cargo de la o el candidato, el emblema y el color de las planillas y el nombre completo de las y los candidatos, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+ARTICULO 59 TER.- El Tribunal podrá cancelar la toma de nota correspondiente o negar el registro de esta al sindicato que no hubiese observado lo dispuesto en el Título Séptimo de la presente ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 60.
 
-Los trabajadores de base al servicio del Gobierno del Estado, forman parte de la organización sindical. Una vez que soliciten y obtengan su ingreso, no podrán dejar de formar parte de ella, salvo que fueren expulsados por las causas o motivos estipulados en sus estatutos, siguiendo los procedimientos que en el mismo se establecen.
+Los trabajadores de base al servicio del Gobierno del Estado ejercerán, en todo momento, su libertad de adhesión o separación de un sindicato.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+Asimismo, a nadie se le podrá obligar a formar parte de un sindicato, a no formar parte de él o a permanecer en el mismo.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+Los trabajadores podrán ser expulsados de un sindicato por las causas o motivos estipulados en sus estatutos, siguiendo los procedimientos que en el mismo se establecen.
 
 ###### ARTICULO 61.
 
@@ -779,37 +813,65 @@ El trabajador de confianza no podrá pertenecer o formar parte de la organizaci�
 
 ### CAPITULO II. DEL REGISTRO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 62.
 
-La organización sindical será registrada en el Tribunal de Arbitraje y para obtener este registro deberá presentar, por duplicado, los siguientes documentos:
+El sindicato será registrado en el Tribunal. Para obtener este registro deberá presentar, por duplicado, los siguientes documentos:
 
-I.- Acta de la asamblea constitutiva autorizada por la directiva de la agrupación;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2023)</small>
 
-II.- Los Estatutos de la organización;
+I.- Acta de la asamblea constitutiva por la directiva del sindicato;
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2023)</small>
+
+II.- Los estatutos del sindicato;
 
 III.- Acta de la sesión en la que se haya designado la directiva; y
 
-IV.- Lista de miembros de que se compone la organización sindical, con la indicación del nombre, estado civil, edad y empleo que desempeña.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2023)</small>
+
+IV.- Lista de los miembros de que se compone el sindicato, con la indicación del nombre, edad, sexo, estado civil, puesto y la dependencia a la que se encuentra adscrita o adscrito el trabajador.
 
 El Tribunal de Arbitraje al recibir la solicitud de registro, comprobará la veracidad de los datos, satisfechos estos requisitos, concederá el registro.
 
-### CAPITULO III. OBLIGACIONES DE LA ORGANIZACION SINDICAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MAYO DE 2023)</small>
+
+### CAPITULO III. OBLIGACIONES DE LOS SINDICATOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 63.
 
-Son obligaciones de la organización sindical:
+Son obligaciones del sindicato:
 
 I.- Proporcionar los informes que en cumplimiento de este ordenamiento le sean solicitados por el Tribunal de Arbitraje;
 
-II.- Comunicar al Tribunal de Arbitraje, dentro de los diez días siguientes a cada elección, los cambios que ocurrieren en su directiva, las altas y bajas de sus miembros y las modificaciones que sufran los estatutos;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2023)</small>
 
-III.- Facilitar la labor del Tribunal de Arbitraje, en todo lo que fuere necesario, acatando sus acuerdos relacionados con conflictos que se ventilen en el mismo, ya se trate de la organización o de sus miembros; y
+II.- Notificar al Tribunal, dentro de los diez días siguientes a cada elección sindical, los cambios que ocurrieren en su directiva las altas y baja de sus miembros y las modificaciones que sufran los estatutos, en cuyo caso, deberán acompañar la documentación correspondiente que acredite el o los eventos notificados al Tribunal;
 
-IV.- Patrocinar y representar a sus miembros ante las autoridades superiores y ante el Tribunal de Arbitraje cuando así le fuere solicitado.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2023)</small>
+
+III.- Facilitar la labor del Tribunal, en todo lo que fuere necesario, acatando sus acuerdos y resoluciones relacionadas con los conflictos que se ventilen en el mismo, ya sea que se trate de la organización o de sus miembros;
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2023)</small>
+
+IV.- Patrocinar y representar a sus miembros ante las autoridades superiores y ante el Tribunal de Arbitraje cuando así le fuere solicitado;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2023)</small>
+
+V.- Dar cuenta a sus agremiados respecto de las cuotas sindicales y la administración del patrimonio de este, por lo menos, cada seis meses, a través de un informe financiero que se presentará en el local del sindicato, previa convocatoria que se haga a la fecha programada para tales efectos; y
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2023)</small>
+
+VI.- Estar representados proporcionalmente en razón de género. Lo anterior, con la finalidad de fomentar la participación de las mujeres en la vida interna del sindicato.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 64.
 
-Queda terminantemente prohibido a la organización sindical:
+Queda terminantemente prohibido al sindicato:
 
 I.- Hacer propaganda de carácter religioso;
 
@@ -819,7 +881,7 @@ III.- Utilizar la violencia con los trabajadores libres para obligarlos a que se
 
 IV.- Fomentar o coadyuvar desordenes o actos delictuosos contra personas o propiedades;
 
-V.- Adherirse a otras agrupaciones que no correspondan a la naturaleza y fines de la organización sindical de los trabajadores del Gobierno del Estado; y
+V.- (DEROGADA, P.O. 9 DE MAYO DE 2023)
 
 VI.- Decretar suspensiones, paros o cualquier otra medida encaminada a coaccionar a las autoridades en cualquier forma.
 
@@ -828,6 +890,10 @@ VI.- Decretar suspensiones, paros o cualquier otra medida encaminada a coacciona
 ###### ARTICULO 65.
 
 El Estado no podrá aceptar en ningún caso, la cláusula de exclusión.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+Para tal efecto, ningún trabajador o trabajadora podrá ser despedido por dejar de ser parte del sindicato, ni podrá condicionarse su empleo por no afiliarse o dejar de ser parte de este.
 
 ###### ARTICULO 66.
 
@@ -853,25 +919,31 @@ Las remuneraciones o sueldos que perciben los directivos y empleados de la organ
 
 (DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
-> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2023)</small>
 
-###### ARTICULO 71 Bis.
+ARTICULO 71 BIS.- El periodo de duración de las directivas no podrá ser indefinido o de una temporalidad tal que obstaculice la participación democrática de los afiliados, y tampoco podrá ser lesivo al derecho de votar y ser votado.
 
-Los procedimientos de elección de las directivas sindicales deberán salvaguardar el pleno ejercicio del voto personal, libre, directo y secreto de los miembros, así como ajustarse a reglas democráticas y de paridad de género. El periodo de duración de las directivas no podrá ser indefinido o de una temporalidad tal que obstaculice la participación democrática de los afiliados, y tampoco podrá ser lesivo al derecho de votar y ser votado. Las elecciones que incumplan estos requisitos serán nulas.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE MAYO DE 2023)</small>
 
-Lo anterior, será requisito para la validez de la celebración del contrato colectivo, así como de las negociaciones inherentes a la defensa y conquista de derechos de los miembros del sindicato.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 9 DE MAYO DE 2023)</small>
 
-Quien encabeza la directiva no podrá reelegirse para el periodo inmediato siguiente.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2023)</small>
 
-En todo momento el periodo de la directiva podrá ser revocada por la votación de la mayoría de los miembros del sindicato y se llamará a nueva elección.
+En todo momento el periodo de la directiva podrá ser revocado por la votación de la mayoría de los miembros del sindicato y se llamará a nueva elección.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+ARTICULO 71 TER.- Las elecciones sindicales que incumplan los requisitos previstos en el Título Séptimo de esta ley serán nulas.
 
 ## TITULO OCTAVO. DE LA HUELGA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 72.
 
-Huelga es la suspensión temporal del trabajo, realizada por el Sindicato de Trabajadores al Servicio del Estado en la forma y términos que la presente ley establece.
+Huelga es la suspensión temporal del trabajo realizado por un sindicato, en la forma y términos previstos en la presente ley.
 
 ###### ARTICULO 73.
 
@@ -905,7 +977,9 @@ Para declarar una huelga se requiere:
 
 I.- Que sea motivada por la causa señalada en el artículo 75 de la presente ley; y
 
-II.- Que sea declarada por las dos terceras partes de los trabajadores al servicio del Gobierno del Estado y podrá afectar a uno o mas Poderes.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2023)</small>
+
+II.- Que sea declarada por las dos terceras partes de la asamblea de trabajadores del sindicato, y esta podrá afectar a uno o más Poderes.
 
 ###### ARTICULO 80.
 
@@ -947,7 +1021,9 @@ I.- Por avenencia entre las partes en conflicto;
 
 II.- Por acuerdo de la mayoría de la asamblea de trabajadores; y
 
-III.- Cuando a juicio del Tribunal de Arbitraje haya cesado la causa que dio origen al conflicto. En este caso el Tribunal fijará a los trabajadores un plazo de veinticuatro horas para que reanuden sus labores, apercibiéndolos en los términos del artículo 80 fracción VIII, de que quedaran cesados sin responsabilidad para el Estado en el caso de no acatar la orden.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2023)</small>
+
+III.- Cuando a juicio del Tribunal haya cesado la causa que dio origen al conflicto. En este caso el Tribunal fijará a los trabajadores un plazo de veinticuatro horas para que reanuden sus labores, apercibiéndolos en los términos del artículo 80 fracción VII, de que quedarán cesados sin responsabilidad para el Estado en el caso de no acatar la orden.
 
 ###### ARTICULO 84.
 
@@ -1195,9 +1271,13 @@ La Sala del Estado del Tribunal de Conciliación y Arbitraje de los Trabajadores
 
 I.- Los conflictos individuales que se susciten entre las instituciones públicas, entes gubernamentales y poderes del Estado, y sus trabajadores, buscando en todo momento proponer la solución, a través de la conciliación de las partes;
 
-II.- Llevar a cabo el registro, modificación y cancelación, cuando proceda, de la organización sindical de los trabajadores al servicio del Gobierno del Estado, buscando en todo momento proponer la solución, a través de la conciliación de las partes;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2023)</small>
 
-III.- Conocer de los conflictos sindicales e intersindicales, de la organización sindical de los Trabajadores del Gobierno del Estado; y
+II.- Llevar a cabo el registro, modificación y cancelación cuando proceda, de la o las organizaciones sindicales de los trabajadores al servicio del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2023)</small>
+
+III.- Conocer de los conflictos sindicales e intersindicales de la o las organizaciones sindicales de los trabajadores al servicio del Estado, proponiendo en todo momento la solución a través de la conciliación de las partes; y
 
 IV.- Efectuar el registro de las Condiciones Generales de Trabajo, previo acuerdo de los representantes y titular de los Poderes del Estado con el Sindicato.
 
@@ -1728,3 +1808,35 @@ P.O. 22 DE FEBRERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-575 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las organizaciones sindicales deberán adecuar sus estatutos a las normas previstas en el presente Decreto, en un plazo no mayor a 45 días naturales.
+
+###### ARTÍCULO TERCERO.
+
+Todas las disposiciones previstas en el Título Séptimo de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas para la elección de las directivas sindicales, mediante el voto personal, libre, directo y secreto; para votar y ser votado en las elecciones sindicales para todos los cargos de representación sindical; para emitir la convocatoria con firma autógrafa de las personas facultadas para tales efectos; para crear la instancia colegiada encargada de organizar y calificar las elecciones sindicales; para publicar la lista de los afiliados con derecho a votar en las elecciones sindicales; para la emisión de las boletas de las elecciones sindicales; y para la rendición de cuentas, respecto de las cuotas sindicales y la administración del patrimonio de este, deberán ser aplicadas a más tardar en la elección más próxima e inmediata a celebrarse.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones previstas en los artículos 59, 59 Bis y 59 Ter de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas para la elección de las directivas sindicales, así como el reconocimiento del derecho de votar y ser votado en las elecciones sindicales para todos los cargos de representación sindical, mediante el voto personal, libre, directo y secreto, deberán ser aplicadas a más tardar en la elección más próxima e inmediata a celebrarse.
+
+###### ARTÍCULO QUINTO.
+
+Las organizaciones sindicales tendrán un plazo máximo de un año a partir de la entrada en vigor del presente Decreto para dar cuenta a sus agremiados, a través de un informe financiero, respecto de las cuotas sindicales y la administración del patrimonio de estos.
+
+###### ARTÍCULO SEXTO.
+
+Las organizaciones sindicales deberán de dar cabal cumplimiento a las reglas de paridad de género previstas en dicha porción normativa a más tardar en la elección más próxima e inmediata a celebrarse, de acuerdo con sus estatutos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan las disposiciones legales, administrativas y/o reglamentarias que se opongan a las contenidas en el presente Decreto.
