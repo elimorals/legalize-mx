@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-22980
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2021-07-02"
+last_updated: "2023-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -369,6 +371,24 @@ VII.- Difundir dentro de sus establecimientos los programas implementados por la
 
 VIII.- Adoptar y mantener las medidas necesarias, para que en los establecimientos donde se realiza la venta de bebidas alcohólicas al público en envase abierto no se establezcan precios en promociones que alienten a la población al consumo inmoderado.
 
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+ARTÍCULO 18 BIS.- Obligaciones Adicionales para venta de bebidas en envase abierto.- Además de las obligaciones señaladas en el artículo anterior, las personas permisionarias cuya actividad preponderante sea principalmente la venta de bebidas alcohólicas en envase abierto o para consumo en el local, deberán cumplir con las siguientes obligaciones:
+
+I.- Contar con un sistema de videograbación en todas las entradas y salidas del establecimiento, incluyendo las de seguridad o emergencia, conforme a los lineamientos y manuales del sistema de video vigilancia emitidos y autorizados por la Secretaría de Seguridad Ciudadana;
+
+II.- Contar con botones de pánico dentro del establecimiento o giro y en su estacionamiento, de forma visibles y señalizados para uso tanto de personas empleadas como consumidoras, para reportar de la posible comisión de un hecho delictuoso de forma inmediata, conforme a los lineamientos que expida la Secretaría de Seguridad Ciudadana;
+
+III.- Instalar arcos detectores o detectores portátiles de metales para controlar el acceso a sus instalaciones;
+
+IV. Contar con personal de seguridad capacitado por la Secretaría de Seguridad Ciudadana; y,
+
+V. Denunciar o dar aviso inmediato a la autoridad correspondiente sobre cualquier presunto delito cometido dentro del establecimiento, estacionamiento, o inmediaciones, incluyendo aquellos que sean reportados por las y los consumidores que soliciten auxilio, en términos del artículo 222 del Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+ARTÍCULO 18 TER.- Las personas permisionarias a que se refiere el artículo anterior, podrán celebrar acuerdos o convenios de colaboración con las autoridades estatales y municipales encargadas de la Seguridad Ciudadana, así como con la Fiscalía General del Estado, para la implementación de medidas de coordinación y prevención de hechos delictivos.
+
 ### CAPÍTULO QUINTO. RESTRICCIONES Y PROHIBICIONES
 
 ###### ARTÍCULO 19.
@@ -475,9 +495,9 @@ En caso de violación a estas disposiciones la autoridad municipal ordenará la 
 
 De la imposición de sanciones.- Sin perjuicio de las sanciones penales que en su caso correspondan y tomando en cuenta la gravedad del acto o la reincidencia en su caso, por las infracciones a las disposiciones derivadas de esta ley y los reglamentos correspondientes, la autoridad municipal impondrá al infractor las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2023)</small>
 
-I.- Multa de tres hasta quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+I.- Multa de cincuenta hasta mil veces la Unidad de Medida y Actualización vigente en el Estado;
 
 II.- Suspensión temporal de la actividad autorizada y clausura del establecimiento o giro, hasta por cuarenta y cinco días naturales; y
 
@@ -489,7 +509,9 @@ La autoridad municipal aplicará la multa a que se refiere la fracción I del ar
 
 I.- Por operar el establecimiento o giro o explotar el permiso, fuera del horario autorizado o con servicios adicionales sin previa autorización;
 
-II.- Por permitir el acceso al establecimiento o giro, a personas que porten armas o se encuentren en notorio estado de ebriedad o bajo el influjo de alguna droga;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2023)</small>
+
+II.- Por permitir el acceso al establecimiento o giro, a personas en notorio estado de ebriedad o bajo el influjo de alguna droga;
 
 III.- Por no adoptar o mantener adecuadamente las medidas de seguridad o higiene, inherentes al establecimiento o giro;
 
@@ -523,13 +545,21 @@ IV.- Cuando se ponga en riesgo la salud y la seguridad de los asistentes por las
 
 V.- Por reincidir en los actos u omisiones que den origen a la imposición de sanciones conforme al artículo anterior;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2023)</small>
 
-VI.- Por emplear a menores de dieciocho años de edad en establecimientos cuyo giro preponderante sea la venta de bebidas alcohólicas en envase abierto; y
+VI.- Por emplear a menores de dieciocho años de edad en establecimientos cuyo giro preponderante sea la venta de bebidas alcohólicas en envase abierto;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JULIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 2023)</small>
 
-VII.- Las demás que determine el Reglamento.
+VII.- Por permitir el acceso al establecimiento o giro, a personas que porten armas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 2023)</small>
+
+VIII.- Por incumplir con las obligaciones previstas por el artículo 18 BIS de esta Ley; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE MAYO DE 2023)</small>
+
+IX.- Las demás que determine el Reglamento.
 
 ###### ARTÍCULO 30.
 
@@ -740,3 +770,15 @@ P.O. 2 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 234 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 29 DE LA LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 225 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 27, 28 Y 29 DE LA LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA; COMO TAMBIÉN LA ADICIÓN DE LOS NUMERALES 18 BIS Y 18 TER AL MISMO ORDENAMIENTO; SE REFORMAN LOS ARTÍCULOS 71 Y 75 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA; Y SE ADICIONA EL INCISO G) A LA FRACCIÓN II DEL ARTICULO 22 DE LA LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente decreto entrará en vigor a los 90 días siguientes al de su publicación en el Periódico Oficial del Estado de Baja California. Las personas obligadas por las presentes reformas deberán realizar dentro de dicho plazo las adecuaciones necesarias a sus establecimientos o giros para el cumplimento de las mismas.
+
+SEGUNDO. El Poder Ejecutivo del Estado y las autoridades municipales deberán modificar en el ámbito de su competencia las disposiciones reglamentarias, lineamientos y/o manuales conforme a las adecuaciones de esta reforma dentro del plazo de 60 días contados a partir de la publicación del presente Decreto.
+
+TERCERO. La Secretaría de Seguridad Ciudadana deberá emitir lineamientos y/o manuales que instrumenten el sistema de vigilancia y de botones de pánico en un término no mayor a 30 días hábiles posteriores a la expedición de las adecuaciones reglamentarias previstas en el artículo transitorio que precede.
+
+Los lineamientos a que se refiere el párrafo anterior, determinarán dentro de los giros que se establecen en la fracción IX del artículo 6 de la presente Ley, a las personas permisionarias cuya actividad preponderante sea principalmente la venta de bebidas alcohólicas en envase abierto o para consumo en el local.
