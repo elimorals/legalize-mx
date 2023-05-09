@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-estado-de-baja-california-para-el-161671"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-21"
-last_updated: "2022-12-21"
+last_updated: "2023-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2023.
 
 Ley publicada en el Número Especial de la Sección I del Número 73 del Periódico Oficial del Estado de Baja California, el miércoles 21 de diciembre de 2022.
 
@@ -5771,6 +5771,14 @@ $ 2,006.45
 
 F).- Por el estudio y evaluación de factibilidad por cambio de:
 
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+G).- Por la capacitación otorgada para brindar servicios
+
+de seguridad privada en establecimientos de venta de
+
+bebidas alcohólicas en envase abierto $ 7,000.00
+
 1.- Domicilio $ 655.89
 
 III.- PROTECCIÓN PERSONAL A PARTICULARES.
@@ -6384,3 +6392,11 @@ DIPUTADA PRESIDENTA
 C. DUNNA MONSERRAT MURILLO LÓPEZ
 
 DIPUTADA SECRETARIA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 225 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 27, 28 Y 29 DE LA LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA; COMO TAMBIÉN LA ADICIÓN DE LOS NUMERALES 18 BIS Y 18 TER AL MISMO ORDENAMIENTO; SE REFORMAN LOS ARTÍCULOS 71 Y 75 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA; Y SE ADICIONA EL INCISO G) A LA FRACCIÓN II DEL ARTICULO 22 DE LA LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
