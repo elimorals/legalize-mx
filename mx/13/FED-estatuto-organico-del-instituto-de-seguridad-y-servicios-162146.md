@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-162146
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-01-06"
-last_updated: "2023-02-21"
+last_updated: "2023-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162146&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2022-12-14"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO.
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 21 DE FEBRERO DE 2023.]</small>
+ÚLTIMA REFORMA PÚBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2023.
 
 Estatuto publicado en el Número 6 del Diario Oficial de la Federación, el viernes 6 de enero de 2023.
 
@@ -1733,10 +1731,20 @@ SÉPTIMO. Las modificaciones a la estructura orgánica de las unidades del Insti
 
 OCTAVO. Los derechos de los trabajadores serán respetados conforme a la ley.
 
-NOVENO. El Instituto, por conducto de la Dirección de Administración y Finanzas, dentro de los primeros 90 días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, coordinará con las unidades, las acciones relativas a los recursos humanos, financieros, tecnológicos y materiales, estrictamente para el desempeño de las nuevas facultades establecidas para éstas.
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2023)</small>
 
-DÉCIMO. El Instituto, por conducto de la Dirección de Administración y Finanzas, dentro de los primeros 90 días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, deberá llevar a cabo las actualizaciones en materia programática y presupuestaria que se requieran para la adscripción de las Oficinas de Representación Estatal y Unidades Médicas.
+NOVENO. El Instituto, por conducto de la Dirección de Administración y Finanzas, dentro de los primeros 120 días naturales contados a partir de la publicación de la Nota Aclaratoria al Acuerdo 3.02.E.2022 de la Junta Directiva por el que se aprobó el Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en la edición matutina del 6 de enero de 2023, coordinará con las unidades, las acciones relativas a los recursos humanos, financieros, tecnológicos y materiales, estrictamente para el desempeño de las nuevas facultades establecidas para éstas, en los términos de las disposiciones normativas aplicables.
+
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2023)</small>
+
+DÉCIMO. El Instituto, por conducto de la Dirección de Administración y Finanzas, dentro de los primeros 120 días naturales contados a partir de la publicación de la Nota Aclaratoria al Acuerdo 3.02.E.2022 de la Junta Directiva por el que se aprobó el Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en la edición matutina del 6 de enero de 2023, deberá llevar a cabo las actualizaciones en materia programática y presupuestaria que se requieran para la adscripción de las Oficinas de Representación Estatal y Unidades Médicas, en los términos de las disposiciones normativas aplicables.
 
 Atentamente
 
 Ciudad de México, a 14 de diciembre de 2022.- Prosecretaria de la Junta Directiva, Mtra. Andrea Nava Fernández del Campo.- Rúbrica.
+
+D.O.F. 9 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO 51.1381.2023 POR EL QUE SE APRUEBA MODIFICAR LOS ARTÍCULOS NOVENO Y DÉCIMO TRANSITORIOS DEL ESTATUTO ORGÁNICO DEL ISSSTE, PUBLICADO EL 6 DE ENERO DE 2023”.]
+
+ÚNICO. El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
