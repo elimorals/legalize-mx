@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-derechos-el-bienestar-y-proteccion-de-los-animales-12802
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-02"
-last_updated: "2022-06-30"
+last_updated: "2023-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2023.
 
 Ley publicada en la Décima Sección del Núm. 58 del Periódico Oficial del Estado de Michoacán, el lunes 2 de abril de 2018.
 
@@ -729,6 +729,88 @@ Se exceptúa la charrería, las corridas de toros, novillos o becerros, jaripeos
 
 Las sanciones administrativas de la presente Ley, estarán sujetas a lo dispuesto en los reglamentos que para tal efecto emita la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial, y los gobiernos municipales.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2023)</small>
+
+### CAPÍTULO XIV. DEL PROGRAMA ESTATAL DE REINSERCIÓN CANINA
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+###### Artículo 69.
+
+El Programa Estatal de Reinserción Canina es el mecanismo para la inclusión y reinserción a la sociedad con fines de asistencia, terapéuticos, educativos, de seguridad pública e investigación policiaca, a los canes en condición de calle, a través de la implementación y el desarrollo de acciones para su capacitación y adiestramiento por parte del Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+###### Artículo 70.
+
+El Programa Estatal de Reinserción Canina, tiene por objeto los siguientes:
+
+I. Proporcionar interacciones positivas entre la sociedad y los canes, a través de la incorporación del talento y las características propias de éstos con fines de utilidad pública y social;
+
+II. Contribuir al proceso de recuperación de las personas con necesidades especiales del orden asistencial, terapéutico y educativo;
+
+III. Mejorar las condiciones de salud y seguridad de la población en general, a través de la reducción de canes en condición de calle; y
+
+IV. Brindar una oportunidad de vida y trato digno a los canes en condición de calle.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+###### Artículo 71.
+
+Los gobiernos municipales del Estado de Michoacán operarán el Programa Estatal de Reinserción Canina, a través de sus unidades de controles caninos o análogos de acuerdo a lo estipulado en la presente Ley.
+
+Para tal efecto los gobiernos municipales del Estado destinarán los recursos humanos, técnicos, materiales y financieros de acuerdo a sus posibilidades, para el desarrollo del Programa Estatal de Reinserción Canina.
+
+Para el desarrollo del Programa Estatal de Reinserción Canina, las unidades municipales de control canino o análogo, podrán solicitar el apoyo de la sociedad civil organizada.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+###### Artículo 72.
+
+La reinserción canina a través de su adiestramiento e instrucción se basa en la alteración de la conducta del animal realizada por profesionales con la finalidad de acondicionarlo para la realización de rutinas, con fines de asistencia, terapéuticos, educativos, de seguridad, auxilio, investigación o apoyo policiaco.
+
+El proceso de detección, canalización, instrucción y adiestramiento de los canes para este programa, se realizará con base en los siguientes lineamientos:
+
+I. Solo serán elegibles para el programa de reinserción canina, aquellos canes que en condición de calle sean recuperados por las autoridades municipales competentes.
+
+Se consideran canes en condición de calle a aquellos que habiendo estado bajo el cuidado y protección del ser humano, queden sin el cuidado o protección de sus propietarios o poseedores así como los que deambulen libremente por la vía pública sin placa de identidad u otra forma de identificación, y sus descendencias;
+
+II. El adiestramiento, instrucción y preparación canina deberá en todo momento ser realizado por profesionales especializados y capacitados en las materias de medicina veterinaria, biología o carreras afines; y,
+
+III. Se estudiarán y canalizarán las características genéticas así como las habilidades y aptitudes de los canes, para identificar si son apropiados para su posterior capacitación.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+###### Artículo 73.
+
+Este proceso deberá realizarse observando siempre el cumplimiento de lo siguiente:
+
+I. Respetar la integridad física del animal, a través de un trato digno;
+
+II. No podrán ser sometidos a jornadas excesivas de trabajo;
+
+III. A ningún animal podrá dejársele sin alimentación, agua y descanso;
+
+IV. Los animales enfermos, heridos, desnutridos, las hembras en el periodo próximo al parto y los impedidos para trabajar debido a su poca o avanzada edad, por ningún motivo serán utilizados para los fines de este programa;
+
+V. Se permitirá la presencia de representantes de asociaciones protectoras de animales legalmente constituidas y registradas, para que certifiquen, el estado de salud y el buen trato de los animales para poder desempeñar las actividades que realicen;
+
+VI. Durante el tiempo en que los canes no estén dando el servicio, deberán ser ubicados en lugares acondicionados que se encuentren cubiertos de los elementos naturales; y,
+
+VII. Deberán descansar dos días a la semana, no pudiendo ejecutar labores en esos días.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+###### Artículo 74.
+
+La formación y uso de los canes adiestrados conforme al Programa Estatal de Reinserción se considerará de utilidad pública, por lo que cualquier persona física o moral podrá solicitar la adopción de manera temporal o permanente, de acuerdo a las necesidades específicas del adoptante.
+
+Para tal efecto deberá cumplir con los requisitos mínimos siguientes:
+
+I. Compruebe a través de un dictamen médico la necesidad de apoyo canino para fines de asistencia, terapéutico o educativo; y,
+
+II. Los señalados en los lineamientos de los programas de adopción canina municipales
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
@@ -760,3 +842,13 @@ P.O. 30 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 148.- ARTÍCULO PRIMERO.- SE MODIFICA EL NOMBRE DE LA LEY; SE REFORMAN LOS ARTÍCULOS 2, 3, 5 FRACCIONES II Y VI; EL PRIMER PÁRRAFO DEL ARTÍCULO 7, ASÍ COMO LA FRACCIÓN IX Y SE ADICIONAN LAS FRACCIONES X Y XI; SE REFORMAN LOS ARTÍCULOS 11, 12 Y 22; Y, SE ADICIONA EL CAPÍTULO III BIS, DE LAS ASOCIACIONES PROTECTORAS DE LOS ANIMALES NO HUMANOS, QUE CONTIENE LOS ARTÍCULOS 23 BIS, 23 TER Y 23 QUATER, DE LA LEY DE DERECHOS Y PROTECCIÓN PARA LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE ADICIONA UN SEGUNDO Y UN TERCER PÁRRAFO AL ARTÍCULO 311 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 9 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 362 POR EL QUE “SE ADICIONA EL CAPÍTULO XIV DENOMINADO «DEL PROGRAMA ESTATAL DE REINSERCIÓN CANINA», A LA LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Los gobiernos municipales, incluirán en el Proyecto de Presupuesto para el Ejercicio 2024, las adecuaciones presupuestales de acuerdo con sus posibilidades, que estimen necesarias para implementar el debido cumplimiento del presente Decreto.
+
+Tercero. Los gobiernos municipales en un plazo no mayor de noventa días naturales adecuarán sus reglamentos respectivos de la materia al presente Decreto.
