@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2023-04-13"
+last_updated: "2023-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -5827,6 +5827,10 @@ III. Con motivo de auditorías, visitas de verificación o inspección, prevista
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
+### CAPITULO I. DE LA SUSTRACCIÓN, APROPIACIÓN DEL AGUA Y OTROS DELITOS RELACIONADOS
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 462.
 
 Comete el delito a que se refiere este Capítulo, quien de manera dolosa, ocasione o provoque, uno o más incendios que dañen:
@@ -5973,47 +5977,65 @@ Cuando una o más de las conductas descritas en el presente Capítulo resulte co
 
 El juez, de oficio o a petición de parte, podrá reducir las penas correspondientes a los delitos previstos en el presente Título, hasta en tres cuartas partes, cuando el acusado, en forma voluntaria y sin que medie resolución administrativa que le imponga alguna obligación, haya restablecido las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizar la conducta delictiva o, cuando ello no sea posible, mediante la ejecución de acciones y obras que compensen los daños ambientales que se hubieren generado, con excepción de los delitos cometidos por servidores públicos.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2023)</small>
+
+## TITULO VIGESIMO CUARTO. DE LOS DELITOS COMETIDOS CONTRA EL SERVICIO PÚBLICO Y DISTRIBUCIÓN DEL AGUA
+
+> <small>(ADICIONADO LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2023)</small>
+
+###### ARTICULO 476.
+
+Al que, sin causa justificada, altere, impida o restrinja de cualquier forma el flujo de agua destinado al suministro de los usuarios del servicio público, se impondrá de dos a seis años de prisión y multa de cien a trescientas unidades de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+###### ARTICULO 477.
+
+Al que, sin autorización, concesión, licencia o permiso expedido por la autoridad competente o sin cumplir con los requisitos que establece la Ley de Aguas del Estado de Tamaulipas, sustraiga o se apropie del agua potable de la infraestructura hidráulica de propiedad municipal o estatal para uso comercial y de servicios o industrial, se le impondrá de dos a seis años de prisión y multa de ciento cincuenta a quinientas unidades de medida y actualización.
+
+Si la persona es servidora pública, que disponga, supervise, controle, maneje, o por su encargo o comisión, puedan abastecer o facilitar la sustracción de agua potable de la infraestructura hidráulica de propiedad municipal o estatal para uso comercial y de servicios o industrial, además de las penas señaladas en el párrafo anterior, se incrementará con una mitad adicional; además se le impondrá inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta.
+
+La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+###### ARTICULO 478.
+
+Se equiparará al delito de sustracción o apropiación de agua potable las siguientes conductas:
+
+I.- El comercializar o explotar agua potable sustraída o apropiada de la infraestructura hidráulica de propiedad municipal o estatal para cualquier fin;
+
+II.- El almacenar, ocultar, poseer o resguardar agua potable sustraída o apropiada de la infraestructura hidráulica de propiedad municipal o estatal para uso comercial y de servicios o industrial; y
+
+III.- El transportar, suministrar o distribuir por cualquier medio el agua potable sustraída o apropiada de la infraestructura hidráulica de propiedad municipal o estatal para uso comercial y de servicios o industrial.
+
+Las conductas señaladas en el párrafo anterior, se sancionarán de la siguiente manera:
+
+a) Cuando la cantidad sea mayor a dos mil quinientos litros pero menor o equivalente a cinco mil litros, se le impondrá de uno a tres años de prisión y multa de cien a trescientas unidades de medida y actualización; y
+
+b) Cuando la cantidad sea mayor a cinco mil litros, se le impondrá de dos a seis años de prisión y multa de ciento cincuenta a quinientas unidades de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+###### ARTICULO 479.
+
+Al propietario, arrendatario, poseedor, detentador o a quien se ostente como tal de algún predio donde exista una toma que sustraiga o se apropie del agua potable de la infraestructura hidráulica de propiedad municipal o estatal para uso comercial y de servicios o industrial sin contar con la autorización de quien legalmente corresponde o sin cumplir con los requisitos que establece la Ley de Aguas del Estado de Tamaulipas, se le impondrá de dos a cuatro años de prisión y multa de cien a trescientas unidades de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+###### ARTICULO 480.
+
+A quien teniendo la obligación legal y sin causa justificada, no supervise o ejecute el proceso de desinfección que se encuentre bajo su responsabilidad, para la potabilización del agua de la red de distribución pública, se le impondrán de dos a seis años de prisión y multa de cien a trescientas unidades de medida y actualización.
+
+Si el responsable es servidor público, se le impondrá inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+
+###### ARTICULO 481.
+
+A quien se apodere o sustraiga cobre, algún otro metal o material utilizado en instalaciones eléctricas o hidráulicas, partes de medidores de agua, luz, gas, y/o partes de equipamiento urbano o rural, sean tubos, conexiones, tapas de registro o cualquier otro implemento del servicio público que formen parte de la infraestructura hidráulica de propiedad municipal o estatal, se le impondrán de dos a cuatro años de prisión y multa de cien a trescientas unidades de medida y actualización.
+
 ARTICULOS TRANSITORIOS:
-
-###### Artículo 476.
-
-Satisfechos los requisitos señalados en el artículo anterior, el Ayuntamiento, en sesión de Cabildo y en los términos dispuestos por la legislación aplicable, emitirá el Acuerdo correspondiente, en el cual de ser favorable al solicitante, deberán asentarse los datos del beneficiario y del bien a enajenar, así como el precio de venta y la forma de pago.
-
-###### Artículo 477.
-
-Si la solicitud de enajenación fuere acordada favorablemente, el Ayuntamiento remitirá el expediente relativo al H. Congreso, a efecto de que este o la Diputación Permanente en su caso, previa inspección cuando así se requiera, emita el acuerdo respectivo, que deberá publicarse en la Gaceta Oficial y comunicarse al Ayuntamiento y al interesado.
-
-###### Artículo 478.
-
-Autorizada por el H. Congreso o la Diputación Permanente la enajenación respectiva, se procederá a la elaboración del instrumento notarial, en el cual se insertarán el acuerdo emitido y las restricciones a que, de conformidad con lo dispuesto en esta Sección, estará sujeto el inmueble.
-
-La escrituración se efectuará ante el Notario Público que elija el adquirente, dentro de la demarcación notarial que corresponda, según la ubicación del inmueble.
-
-###### Artículo 479.
-
-Serán limitaciones para la enajenación a particulares, las siguientes:
-
-I. No podrán adquirir en propiedad por si ni por interpósita persona más de un inmueble;
-
-II. La extensión superficial no excederá de doscientos metros cuadrados, salvo las situaciones que el Ayuntamiento, el H. Congreso del Estado o la Diputación Permanente en su caso, consideren excepcionales;
-
-III. En caso de que el precio se pague a plazos, éstos no excederán de tres años, constituyéndose en garantía real el propio bien inmueble; y
-
-IV. En ningún caso podrán enajenarse a particulares, áreas de equipamiento urbano de las unidades habitacionales.
-
-###### Artículo 480.
-
-La enajenación a particulares se sujetará a las condiciones siguientes:
-
-I. Obligarse a construir y habitar su vivienda, en un plazo de dos años a partir de la fecha de notificada la autorización de enajenación por el H. Congreso;
-
-II. No gravar, ni arrendar o dar en uso, aprovechamiento o en usufructo el bien inmueble adquirido dentro de los dos años siguientes a la fecha de escrituración; se exceptúa de esta disposición el gravamen que se constituya para edificar su casa habitación, siempre que medie autorización expresa del Ayuntamiento; y
-
-III. Si en el término de dos años, el adquirente no concluye el proceso de escrituración una vez obtenido el acuerdo para su enajenación, se procederá a la rescisión administrativa del mismo.
-
-###### Artículo 481.
-
-Los Notarios Públicos al otorgar las escrituras o instrumentos que contengan las enajenaciones de inmuebles, estipularán en las mismas las condiciones a que se refiere el artículo anterior. La infracción será sancionada conforme al procedimiento establecido en la Ley del Notariado y demás disposiciones legales aplicables, sin perjuicio de otras responsabilidades que pudieren resultarles. Para su ejercicio se otorga acción pública.
 
 ###### ARTICULO PRIMERO
 
@@ -7154,6 +7176,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 13 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-560 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 79 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-567 MEDIANTE EL CUAL SE ADICIONA EL TÍTULO VIGÉSIMO CUARTO DENOMINADO ‘‘DE LOS DELITOS COMETIDOS CONTRA EL SERVICIO PÚBLICO Y DISTRIBUCIÓN DEL AGUA’’ AL LIBRO SEGUNDO, CON EL CAPÍTULO I DENOMINADO ‘‘DE LA SUSTRACCIÓN Y APROPIACIÓN DEL AGUA Y OTROS DELITOS RELACIONADOS’’, Y LOS ARTÍCULOS 476; 477; 478; 479; 480; Y 481, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
