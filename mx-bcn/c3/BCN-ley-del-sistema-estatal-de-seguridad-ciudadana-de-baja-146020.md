@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-146020"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2023-03-31"
+last_updated: "2023-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2023.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -1501,9 +1501,11 @@ La Secretaría deberá publicar anualmente en el Periódico Oficial del Estado, 
 
 Previa a la autorización de servicios de seguridad privada, la Secretaría requerirá y dará vista para su opinión, a los municipios, debiendo emitir la misma en un plazo de treinta días posteriores a su recepción.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 71.
 
-Los sujetos a que se refiere como prestador de servicios de seguridad privada en esta Ley, deberán capacitar permanentemente a su personal operativo bajo los lineamientos y programas que establezca el Instituto, a efecto de que éstos cuenten con los conocimientos necesarios para el eficaz desempeño de su función.
+Los sujetos a que se refiere como prestador de servicios de seguridad privada en esta Ley, deberán capacitar permanentemente a su personal operativo bajo los lineamientos y programas que se establezcan en las leyes y disposiciones legales aplicables, a efecto de que éstos cuenten con los conocimientos necesarios para el eficaz desempeño de su función.
 
 Los sujetos a que se refiere el párrafo anterior, deberán someter a su personal operativo a procedimientos de evaluación y control de confianza ante el Centro de Control de Confianza, previo pago de los derechos que correspondan conforme a la Ley de Ingresos respectiva por los servicios que preste dicho centro.
 
@@ -1589,7 +1591,9 @@ XV.- Realizar actos que pongan en peligro la integridad física, la vida o los b
 
 XVI. Transferir o ceder la autorización;
 
-XVII. Prestar los servicios de seguridad privada si el personal operativo no ha sido capacitado bajo los lineamientos y programas que establezca el Instituto y
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2023)</small>
+
+XVII. Prestar los servicios de seguridad privada si el personal operativo no ha sido capacitado bajo los lineamientos y programas que establezca el Instituto o en los casos que la Ley aplicable lo disponga, la Secretaría de Seguridad Ciudadana; y,
 
 XVIII. Las demás que establezcan las leyes y reglamentos.
 
@@ -3452,3 +3456,9 @@ P.O. 31 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 221 POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 154 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 9 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 225 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 27, 28 Y 29 DE LA LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA; COMO TAMBIÉN LA ADICIÓN DE LOS NUMERALES 18 BIS Y 18 TER AL MISMO ORDENAMIENTO; SE REFORMAN LOS ARTÍCULOS 71 Y 75 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA; Y SE ADICIONA EL INCISO G) A LA FRACCIÓN II DEL ARTICULO 22 DE LA LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
