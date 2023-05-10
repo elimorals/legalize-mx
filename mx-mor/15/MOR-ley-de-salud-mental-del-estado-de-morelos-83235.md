@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-mental-del-estado-de-morelos-83235"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-12"
-last_updated: "2021-06-16"
+last_updated: "2023-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 12 de octubre de 2011.
 
@@ -821,23 +821,23 @@ El Sistema Estatal de Salud Mental será parte del Sistema Estatal de Salud, y e
 
 ### CAPÍTULO I. DE LA INVERSIÓN EN SALUD MENTAL
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MAYO DE 2023)</small>
 
 ###### Artículo 60.
 
-(DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DEL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017, P.O. 22 DE DICIEMBRE DE 2016)
+La inversión pública en materia de salud mental constituye una acción de interés social estratégico, por ello resulta indispensable el presupuesto suficiente para el cumplimiento de las acciones y fines a que se refiere la presente Ley.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MAYO DE 2023)</small>
 
 ###### Artículo 61.
 
-(DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DEL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017, P.O. 22 DE DICIEMBRE DE 2016)
+El titular del Poder Ejecutivo al remitir al congreso local la Iniciativa de decreto del Presupuesto de egresos del estado para el ejercicio fiscal que corresponda, deberá considerar una partida que no sea inferior a la del año inmediato anterior, con el propósito de garantizar la operación, organización, planeación, supervisión y evaluación de los servicios en materia de salud mental.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MAYO DE 2023)</small>
 
 ###### Artículo 62.
 
-(DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DEL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017, P.O. 22 DE DICIEMBRE DE 2016)
+La Secretaría deberá considerar, en la erogación del recurso asignado, los proyectos de infraestructura, equipamiento y mantenimiento de unidades especializadas y ambulatorias en materia de salud mental, así como el personal certificado suficiente, a efecto de cubrir la totalidad de las personas que habitan en el estado de Morelos.
 
 ### CAPÍTULO II. DEL FIDEICOMISO PÚBLICO DE SALUD MENTAL
 
@@ -1128,3 +1128,13 @@ TERCERA. Dentro del plazo de 90 días hábiles contados a partir de la entrada e
 CUARTA. Se derogan todas las disposiciones jurídicas o administrativas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto por el presente decreto.
 
 QUINTA. Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 10 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO NOVECIENTOS CATORCE POR EL QUE SE REFORMAN LOS ARTÍCULOS 60, 61 Y 62 DE LA LEY DE SALUD MENTAL DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal para los efectos que indican los artículos los artículos (sic) 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- Una vez publicado el presente decreto, el Poder Ejecutivo, por medio de la Secretaría de Salud, incluirá la partida presupuestal en el Presupuesto de Egresos que corresponda, así como en los sucesivos presupuestos de egresos, de conformidad con los términos del presente decreto.
+
+TERCERA.- El presente decreto entrará en vigor una vez que esté asignada la correspondiente partida presupuestal.
