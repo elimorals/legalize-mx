@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2022-08-31"
+last_updated: "2023-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -702,6 +702,10 @@ Es atribución del Ejecutivo del Estado:
 I.- Que se garantice a la población del Estado la dotación total de medicamentos básicos; y
 
 II.- Que los establecimientos de los sectores público, social y privado, dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a los preceptos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2023)</small>
+
+Para efectos de la fracción I del presente artículo, en cada una de las farmacias de los hospitales, clínicas, centros de salud, unidades de atención médica y otros similares a cargo del organismo público descentralizado denominado Servicios de Salud de Morelos, se informará a los usuarios de manera permanente, a través de medios convencionales y, en su caso, electrónicos, sobre la existencia y disponibilidad de medicamentos.
 
 > <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -4878,3 +4882,15 @@ P.O. 31 DE AGOSTO DE 2022.
 PRIMERA.- Remítase el presente al titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CUATROCIENTOS ONCE POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 39 DE LA LEY DE SALUD DEL ESTADO DE MORELOS EN MATERIA DE DISPONIBILIDAD DE MEDICAMENTOS".]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
+
+CUARTA. En un plazo máximo de 30 días hábiles, contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Gobierno del Estado de Morelos, a través las diferentes unidades de atención médica del organismo público descentralizado denominado Servicios de Salud de Morelos, deberán dar efectivo cumplimiento al presente decreto, incluyendo la difusión correspondiente.
