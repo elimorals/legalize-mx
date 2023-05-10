@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2023-03-24"
+last_updated: "2023-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2023.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -560,9 +560,9 @@ Para efectos de lo dispuesto en el párrafo anterior compete a la Comisión Fede
 
 I. Efectuar la evaluación de riesgos a la salud en las materias de su competencia, así como identificar y evaluar los riesgos para la salud humana que generen los sitios en donde se manejen residuos peligrosos;
 
-> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2023)</small>
 
-II. Proponer al Secretario de Salud la política nacional de protección contra riesgos sanitarios así como su instrumentación en materia de: establecimientos de salud; medicamentos y otros insumos para la salud; disposición de órganos, tejidos, células de seres humanos y sus componentes; alimentos y bebidas, productos cosméticos; productos de aseo; tabaco, plaguicidas, nutrientes vegetales, sustancias tóxicas o peligrosas para la salud; productos biotecnológicos, suplementos alimenticios, materias primas y aditivos que intervengan en la elaboración de los productos anteriores; así como de prevención y control de los efectos nocivos de los factores ambientales en la salud de la persona, salud ocupacional y saneamiento básico;
+II. Proponer al Secretario de Salud la política nacional de protección contra riesgos sanitarios así como su instrumentación en materia de: establecimientos de salud; medicamentos, dispositivos médicos y otros insumos para la salud; disposición de órganos, tejidos, células de seres humanos y sus componentes; alimentos y bebidas, productos cosméticos; productos de aseo; tabaco, plaguicidas, nutrientes vegetales, sustancias tóxicas o peligrosas para la salud; productos biotecnológicos, suplementos alimenticios, materias primas y aditivos que intervengan en la elaboración de los productos anteriores; así como de prevención y control de los efectos nocivos de los factores ambientales en la salud de la persona, salud ocupacional y saneamiento básico;
 
 III. Elaborar y expedir las normas oficiales mexicanas relativas a los productos, actividades, servicios y establecimientos materia de su competencia, salvo en las materias a que se refieren las fracciones I y XXVI del artículo 3o. de esta Ley;
 
@@ -746,7 +746,9 @@ VI.- La salud mental;
 
 VII.- La prevención y el control de las enfermedades bucodentales;
 
-VIII.- La disponibilidad de medicamentos y otros insumos esenciales para la salud;
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2023)</small>
+
+VIII.- La disponibilidad de medicamentos, dispositivos médicos y otros insumos esenciales para la salud;
 
 > <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
 
@@ -788,11 +790,11 @@ Los profesionales que podrán prescribir medicamentos son:
 
 Los profesionales a que se refiere el presente artículo deberán contar con cédula profesional expedida por las autoridades educativas competentes. Los pasantes en servicio social, de cualquiera de las carreras antes mencionadas y los enfermeros podrán prescribir ajustándose a las especificaciones que determine la Secretaría.
 
-> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 29.
 
-Del Compendio Nacional de Insumos para la Salud, la Secretaría de Salud determinará la lista de medicamentos y otros insumos esenciales para la salud y garantizará su existencia permanente y disponibilidad a la población que los requiera, en coordinación con las autoridades competentes.
+Del Compendio Nacional de Insumos para la Salud, la Secretaría de Salud determinará la lista de medicamentos, dispositivos médicos y otros insumos esenciales para la salud y garantizará su existencia permanente y disponibilidad a la población que los requiera, en coordinación con las autoridades competentes.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -1088,9 +1090,9 @@ IV.- Notificación de la existencia de personas que requieran de servicios de sa
 
 V.- Formulación de sugerencias para mejorar los servicios de salud;
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2023)</small>
 
-V bis.- Información a las autoridades sanitarias acerca de efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos, y
+V Bis.- Información a las autoridades sanitarias acerca de efectos secundarios y reacciones adversas por el uso de medicamentos, incidentes adversos por el uso de dispositivos médicos y otros insumos para la salud o por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos;
 
 VI.- Información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud, y
 
@@ -3392,6 +3394,18 @@ V.- La difusión permanente de las dietas, hábitos alimenticios y procedimiento
 
 VI.- Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
 
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 2023)</small>
+
+ARTICULO 159 BIS.- Las autoridades sanitarias y las instituciones públicas de salud deben diferenciar el diagnóstico y la atención de los tipos de diabetes, considerando al menos, la siguiente clasificación:
+
+I. Diabetes Tipo 1;
+
+II. Diabetes Tipo 2, y
+
+III. Diabetes Gestacional.
+
+La Norma Oficial Mexicana de la materia deberá diferenciar y atender, al menos, cada uno de los tipos de diabetes a que se refiere el presente artículo.
+
 > <small>(REFORMADO, D.O.F. 29 DE MARZO DE 2022)</small>
 
 ###### ARTICULO 160.
@@ -4204,9 +4218,9 @@ El ejercicio del control sanitario será aplicable al:
 
 I. Proceso, importación y exportación de alimentos, bebidas no alcohólicas, bebidas alcohólicas, productos cosméticos, productos de aseo, tabaco, así como de las materias primas y, en su caso, aditivos que intervengan en su elaboración;
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2023)</small>
 
-II.- Proceso, uso, mantenimiento, importación, exportación, y disposición final de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos, y
+II. Proceso, uso, mantenimiento, importación, exportación y disposición final de dispositivos médicos, y
 
 > <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -4216,17 +4230,19 @@ III.- Proceso, uso, importación, exportación, aplicación y disposición final
 
 El control sanitario del proceso, importación y exportación de medicamentos, estupefacientes y substancias psicotrópicas y las materias primas que intervengan en su elaboración, compete en forma exclusiva a la Secretaría de Salud, en función del potencial de riesgo para la salud que estos productos representan.
 
-> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 194 Bis.
 
-Para los efectos de esta ley se consideran insumos para la salud: Los medicamentos, substancias psicotrópicas, estupefacientes y las materias primas y aditivos que intervengan para su elaboración; así como los equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico, de curación y productos higiénicos, estos últimos en los términos de la fracción VI del artículo 262 de esta ley.
+Para los efectos de esta ley se consideran insumos para la salud: Los medicamentos, substancias psicotrópicas, estupefacientes y las materias primas y aditivos que intervengan para su elaboración; así como los dispositivos médicos.
 
-> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 195.
 
-La Secretaría de Salud emitirá las normas oficiales mexicanas a que deberá sujetarse el proceso y las especificaciones de los productos a que se refiere este Título. Los medicamentos y demás insumos para la salud estarán normados por la Farmacopea de los Estados Unidos Mexicanos.
+La Secretaría de Salud emitirá las normas oficiales mexicanas a que deberá sujetarse el proceso y las especificaciones de los productos a que se refiere este Título. Los medicamentos, dispositivos médicos y demás insumos para la salud estarán normados por la Farmacopea de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
 La Secretaría de Salud mantendrá permanentemente actualizada la Farmacopea de los Estados Unidos Mexicanos, para lo cual contará con un órgano técnico asesor que será la Comisión Permanente de la Farmacopea de los Estados Unidos Mexicanos. Dicho órgano asesor, mediante acuerdos de colaboración que celebre con la Secretaría de Salud, a través de la Comisión Federal para la Protección contra Riesgos Sanitarios, elaborará, publicará y difundirá la Farmacopea de los Estados Unidos Mexicanos.
 
@@ -4362,11 +4378,11 @@ Todo cambio de propietario de un establecimiento, de razón social o denominaci�
 
 El titular de la autorización de un producto podrá permitir que éste sea elaborado en todo o en parte, por cualquier fabricante, cuando se cumpla con los requisitos establecidos al efecto en esta ley y demás disposiciones aplicables. En este caso el titular de la autorización deberá dar aviso por escrito a la Secretaría de Salud, dentro de los quince días siguientes al inicio del proceso de fabricación externa de los productos.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 204.
 
-Los medicamentos y otros insumos para la salud, los estupefacientes, substancias psicotrópicas y productos que los contengan, así como los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, para su venta o suministro deberán contar con autorización sanitaria, en los términos de esta ley y demás disposiciones aplicables.
+Los medicamentos, dispositivos médicos y otros insumos para la salud, los estupefacientes, substancias psicotrópicas y productos que los contengan, así como los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, para su venta o suministro deberán contar con autorización sanitaria, en los términos de esta ley y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
@@ -4454,11 +4470,11 @@ En la marca o denominación de los productos, no podrán incluirse clara o velad
 
 Los envases y embalajes de los productos a que se refiere este título deberán ajustarse a las especificaciones que establezcan las disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 214.
 
-La Secretaría de Salud publicará en el Diario Oficial de la Federación las normas oficiales mexicanas que expida y, en caso necesario, las resoluciones sobre otorgamiento y revocación de autorizaciones sanitarias de medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan, equipos médicos, plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, así como de las materias primas que se utilicen en su elaboración.
+La Secretaría de Salud publicará en el Diario Oficial de la Federación las normas oficiales mexicanas que expida y, en caso necesario, las resoluciones sobre otorgamiento y revocación de autorizaciones sanitarias de medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan, dispositivos médicos, plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, así como de las materias primas que se utilicen en su elaboración.
 
 ### CAPITULO VI. Substancias psicotrópicas
 
@@ -4543,6 +4559,8 @@ La violación a esta disposición será equiparable con el delito de Corrupción
 ### CAPITULO VIII
 
 Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 221.
 
@@ -5456,7 +5474,7 @@ En los casos en que resulten afectadas, por acción u omisión, la identidad, pu
 
 ###### ARTICULO 262.
 
-Para los efectos de esta Ley, se entiende por:
+Para los efectos de esta Ley, son dispositivos médicos:
 
 I.- Equipo médico: los aparatos, accesorios e instrumental para uso específico, destinados a la atención médica, quirúrgica o a procedimientos de exploración, diagnóstico, tratamiento y rehabilitación de pacientes, así como aquellos para efectuar actividades de investigación biomédica;
 
@@ -5472,15 +5490,23 @@ IV.- Insumos de uso odontológico: todas las substancias o materiales empleados 
 
 V.- Materiales quirúrgicos y de curación: Los dispositivos o materiales que adicionados o no de antisépticos o germicidas se utilizan en la práctica quirúrgica o en el tratamiento de las soluciones de continuidad, lesiones de la piel o sus anexos, y
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2023)</small>
 
-VI.- Productos higiénicos: Los materiales y substancias que se apliquen en la superficie de la piel o cavidades corporales y que tengan acción farmacológica o preventiva.
+VI.- Productos higiénicos: Los materiales y substancias que se apliquen en la superficie de la piel o cavidades corporales y que tengan acción farmacológica o preventiva, y
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(ADICIONADA, D.O.F. 10 DE MAYO DE 2023)</small>
+
+VII.- Los demás insumos que sean considerados para este uso y sean evaluados y reconocidos como dispositivos médicos por la Secretaría de Salud a solicitud.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 2023)</small>
+
+La Secretaría clasificará estos productos con base en sus características y el nivel de riesgo que representa su uso de conformidad con el Reglamento de Insumos para la Salud.
+
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 263.
 
-En el caso de equipos médicos, prótesis, órtesis y ayudas funcionales, deberán expresarse en la etiqueta o manual correspondiente las especificaciones de manejo y conservación, con las características que señale la Secretaría de Salud.
+En el caso de los dispositivos médicos, referidos en las fracciones I y II del artículo 262, deberán expresarse en la etiqueta o manual correspondiente las especificaciones de manejo y conservación, con las características que señale la Secretaría de Salud.
 
 > <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
@@ -5510,7 +5536,7 @@ Los insumos para la salud comprendidos en el artículo 262 de esta ley no podrá
 
 ###### ARTICULO 268.
 
-El proceso de los materiales quirúrgicos, de curación y productos higiénicos, quedará sujeto, en lo conducente, a las disposiciones del Capítulo IV de este Título.
+(DEROGADO, D.O.F. 10 DE MAYO DE 2023)
 
 > <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
@@ -7220,13 +7246,17 @@ X.- Las modificaciones a las instalaciones de establecimientos que manejan subst
 
 Los permisos a que se refiere este artículo sólo podrán ser expedidos por la Secretaría de Salud, con excepción de los casos previstos en las fracciones II y V en lo relativo al embalsamamiento.
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 376.
 
-Requieren registro sanitario los medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan; equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos, estos últimos en los términos de la fracción VI del artículo 262 de esta Ley, así como los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas.
+Requieren registro sanitario los medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan; los dispositivos médicos con excepción de aquellos determinados como de bajo riesgo y que no requieran registro sanitario por la autoridad sanitaria, así como los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2005)</small>
 
 El registro sólo podrá ser otorgado por la Secretaría de Salud, éste tendrá una vigencia de 5 años, sin perjuicio de lo establecido en el artículo 378 de esta Ley, dicho registro podrá prorrogarse por plazos iguales, a solicitud del interesado, en los términos que establezcan las disposiciones reglamentarias. Si el interesado no solicitara la prórroga dentro del plazo establecido para ello o bien, cambiara o modificara el producto o fabricante de materia prima, sin previa autorización de la autoridad sanitaria; ésta procederá a cancelar o revocar el registro correspondiente.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2005)</small>
 
 Para los efectos a que se refieren los párrafos anteriores, el Ejecutivo a través de la Secretaría, mediante disposiciones de carácter general, establecerá los requisitos, pruebas y demás requerimientos que deberán cumplir los medicamentos, insumos para la salud y demás productos y substancias que se mencionan en dichos párrafos.
 
@@ -8211,6 +8241,20 @@ IV. A quien venda, ofrezca en venta o comercie muestras médicas, le será impue
 > <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2006)</small>
 
 Para los efectos del presente artículo, se entenderá por medicamento, fármaco, materia prima, aditivo y material, lo preceptuado en las fracciones I, II, III, IV y V del artículo 221 de esta Ley; y se entenderá por adulteración, contaminación, alteración y falsificación, lo previsto en los artículos 206, 207, 208 y 208 bis de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 2023)</small>
+
+###### ARTICULO 464 Quater.
+
+En materia de dispositivos médicos, a que se refiere el artículo 262 de esta Ley, se impondrán las penas que a continuación se mencionan, a la persona o personas que realicen las siguientes conductas:
+
+I. A quien adultere, falsifique, contamine, altere o permita la adulteración, falsificación, contaminación o alteración de dispositivos médicos, de sus envases finales para uso o los fabrique sin las autorizaciones sanitarias que correspondan en términos de esta Ley, se le impondrá una pena de tres a quince años de prisión y multa de cincuenta mil a cien mil veces la Unidad de Medida y Actualización vigente al momento de la comisión del delito;
+
+II. A quien venda u ofrezca en venta, comercie, distribuya, interne al país o transporte con fines de comercialización, dispositivos médicos adulterados, falsificados, contaminados o alterados, en cualquier lugar o por cualquier medio; o bien, venda u ofrezca en venta, comercie, distribuya, interne al país o transporte con fines de comercialización, material para envase o empaque, de dichos insumos para la salud, etiquetado sus leyendas, la información que contenga números o claves de identificación se encuentren adulterados o falsificados, le será impuesta una pena de uno a nueve años de prisión y multa de veinte mil a cincuenta mil veces la Unidad de Medida y Actualización vigente al momento de la comisión del delito, y
+
+III. La misma pena a que hace referencia la fracción II de este artículo se impondrá a quien adultere, falsifique, o permita la adulteración o falsificación de material para envase o empaque de dispositivos médicos, etiquetado, sus leyendas o la información que contenga o sus números o claves de identificación.
+
+Para los efectos del presente artículo, se entenderá por adulterar, contaminar, alterar y falsificar, lo previsto en los artículos 206, 207, 208 y 208 Bis de esta Ley.
 
 ###### ARTICULO 465.
 
@@ -9661,3 +9705,25 @@ D.O.F. 24 DE MARZO DE 2023.
 Primero.- El presente Decreto entrará en vigor a los 180 días de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El Ejecutivo Federal adecuará los reglamentos y acuerdos que permita proveer en la esfera administrativa lo previsto en el presente Decreto.
+
+D.O.F. 10 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría de Salud emitirá las disposiciones reglamentarias para la aplicación de este Decreto en un plazo máximo de 180 días.
+
+Tercero.- La Secretaría de Salud emitirá las políticas necesarias que permitan la consideración y adopción de dispositivos médicos en el diagnóstico y tratamiento.
+
+Cuarto.- La Secretaría de Salud mantendrá actualizado el listado de dispositivos médicos e insumos para la salud considerados como de bajo riesgo para efectos de obtención del registro sanitario, y de aquellos productos que por su naturaleza, características propias y uso no se consideran como insumos para la salud y por ende no requieren registro sanitario.
+
+Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto que correspondan, por lo que no se autorizarán recursos adicionales para tales efectos, para el presente ejercicio fiscal ni subsecuentes.
+
+D.O.F. 10 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 159 BIS A LA LEY GENERAL DE SALUD”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría realizará las modificaciones a la Norma Oficial Mexicana en la materia y demás disposiciones administrativas relativas al diagnóstico y la atención de los distintos tipos de diabetes, en el término de 180 días a partir de la entrada en vigor del presente Decreto.
