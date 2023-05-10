@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-social-para-el-estado-de-tamaulipas-41923"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-24"
-last_updated: "2022-08-17"
+last_updated: "2023-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 24 de noviembre de 2004.
 
@@ -123,29 +123,45 @@ VII.- Sustentabilidad: Preservación del equilibrio ecológico, protección del 
 
 VIII.- Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquiera otra, para superar toda condición de discriminación y promover un desarrollo con igualdad y respeto a las diferencias;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2023)</small>
 
-IX.- Transparencia: La información relativa al desarrollo social es pública en los términos de las leyes en la materia;
+IX.- Transparencia: La información relativa al desarrollo social es pública en los términos de las leyes en la materia. El Estado garantizará que la información gubernamental sea objetiva, oportuna, sistemática y veraz;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2023)</small>
 
-X.- Perspectiva de género: Metodología que permite identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de mujeres y hombres, que se pretende justificar con base en las diferencias biológicas o culturales entre ambos;
+X.- Perspectiva de género: Visión científica, analítica y política sobre las mujeres y los hombres que se propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género, en el diseño y ejecución de las políticas públicas de desarrollo social;
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2023)</small>
 
-XI.- Interés superior de la niñez: De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de los Derechos de Niñas, Niños y Adolescentes, en los tratados internacionales aplicables de los que el Estado Mexicano sea parte, la Constitución Política del Estado de Tamaulipas y la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Tamaulipas;
+XI.- Interés superior de la niñez: Conjunto de acciones, políticas y procesos tendientes a garantizar a las niñas, niños y adolescentes un desarrollo integral y una vida digna, así como las condiciones materiales y afectivas que les permitan vivir plenamente y alcanzar el máximo de bienestar posible, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales aplicables de los que el Estado Mexicano forma parte, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Constitución Política del Estado de Tamaulipas y la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Tamaulipas;
 
 > <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2022)</small>
 
 XII.- Igualdad de oportunidades: La cual se refiere al acceso que deben tener todas las personas, para que puedan gozar de las mismas condiciones, posibilidades y oportunidades en los programas que se desprendan de las políticas públicas implementadas en materia de desarrollo social;
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2023)</small>
 
-XIII.- Corresponsabilidad: Misma que guarda relación con la participación y responsabilidad que comparten, tanto las personas servidoras públicas como las personas beneficiarias, derivado de la ejecución de acciones enfocadas al desarrollo social; y
+XIII.- Corresponsabilidad: Misma que guarda relación con la participación y responsabilidad que comparten, tanto las personas servidoras públicas como las personas beneficiarias, derivado de la ejecución de acciones enfocadas al desarrollo social;
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2023)</small>
 
-XIV.- Cohesión social: Se refiere a las relaciones de cooperación, organización y solidaridad que se fomentan, a través de acciones de desarrollo social, entre las personas y los diferentes grupos sociales, en especial, aquellos que son más vulnerables.
+XIV.- Cohesión social: Se refiere a las relaciones de cooperación, organización y solidaridad que se fomentan, a través de acciones de desarrollo social, entre las personas y los diferentes grupos sociales, en especial, aquellos que son más vulnerables;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2023)</small>
+
+XV.- Igualdad: Constituye el objetivo principal del desarrollo social y se expresa en la mejora continua de la distribución de la riqueza, el ingreso y la propiedad, en el acceso al conjunto de los bienes públicos y al abatimiento de las grandes diferencias entre personas, familias, grupos sociales y ámbitos territoriales;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2023)</small>
+
+XVI.- Equidad: La promoción del acceso de los sujetos del desarrollo social a los programas y acciones de manera proporcional a su situación de marginación, pobreza o vulnerabilidad;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2023)</small>
+
+XVII.- Equidad de Género: La plena igualdad de derechos y oportunidades entre mujeres y hombres, la eliminación de toda forma de desigualdad, exclusión o subordinación basada en los roles de género y una nueva relación de convivencia social entre mujeres y hombres desprovista de relaciones de dominación, estigmatización, y sexismo; y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2023)</small>
+
+XVIII.- Universalidad: El reconocimiento de todas las personas como titulares de los derechos sociales y sujetos de desarrollo social.
 
 ###### ARTICULO 6°.
 
@@ -846,3 +862,11 @@ P.O. 17 DE AGOSTO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-568 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IX, X, XI, XIII Y XIV; Y SE ADICIONAN LAS FRACCIONES XV, XVI, XVII Y XVIII, AL ARTÍCULO 5º, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
