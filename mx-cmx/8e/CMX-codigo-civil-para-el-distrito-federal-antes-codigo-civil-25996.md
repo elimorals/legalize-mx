@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2022-06-10"
+last_updated: "2023-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MAYO DE 2023.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -2507,18 +2507,6 @@ El Certificado a que se refiere el presente artículo, será expedido por el Reg
 
 > <small>(ADICIONADO, G.O. 28 DE JULIO DE 2014)</small>
 
-ARTICULO 323 Nonies (sic).- Procede la cancelación de la inscripción en el Registro de Deudores Alimentarios Morosos en los siguientes supuestos:
-
-I. Cuando el deudor demuestra en juicio haber cumplido con su obligación alimentaria y que la misma está garantizada;
-
-II. Cuando al momento de dictar sentencia condenatoria, la pensión de alimentos se establezca en un porcentaje del sueldo que percibe el deudor alimentario; y
-
-III. Cuando el deudor alimentario, una vez condenado, demuestra haber cumplido con su obligación alimentaria, por un lapso de noventa días y habiendo también demostrado que la pensión está garantizada en lo futuro.
-
-El Juez de lo Familiar ordenará al Registro Civil del Distrito Federal la cancelación de la inscripción en el Registro de Deudores Alimentarios Morosos.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
-
 ###### ARTICULO 301.
 
 La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
@@ -2782,6 +2770,20 @@ Artículo 323 Séptimus.- (DEROGADO, G.O. 4 DE AGOSTO DE 2017)
 ### CAPITULO II. De las pruebas de filiación de los hijos
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+
+###### ARTICULO 323 Nonies.
+
+(sic) Procede la cancelación de la inscripción en el Registro de Deudores Alimentarios Morosos en los siguientes supuestos:
+
+I. Cuando el deudor demuestra en juicio haber cumplido con su obligación alimentaria y que la misma está garantizada;
+
+II. Cuando al momento de dictar sentencia condenatoria, la pensión de alimentos se establezca en un porcentaje del sueldo que percibe el deudor alimentario; y
+
+III. Cuando el deudor alimentario, una vez condenado, demuestra haber cumplido con su obligación alimentaria, por un lapso de noventa días y habiendo también demostrado que la pensión está garantizada en lo futuro.
+
+El Juez de lo Familiar ordenará al Registro Civil del Distrito Federal la cancelación de la inscripción en el Registro de Deudores Alimentarios Morosos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE MAYO DE 2000)</small>
 
 ## TITULO OCTAVO. De la patria potestad
 
@@ -3559,11 +3561,15 @@ Con base en el interés superior del menor, éste quedará bajos (sic) los cuida
 
 Las hijas e hijos que estén bajo la patria potestad de sus progenitores tienen derecho de convivir con ambos, aun cuando no vivan bajo el mismo techo.
 
-No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus ascendientes. En caso de oposición, a petición de cualquiera de ellos, el Juez de lo Familiar resolverá lo conducente previa audiencia del menor salvaguardando en todo momento el interés superior de las y los menores.
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2023)</small>
 
-Los progenitores, tutores o responsables de su cuidado deben de evitar actos de manipulación sobre las hijas e hijos menores de edad que generen rencor, antipatía, desagrado o temor contra los ascendientes.
+No podrán impedirse, sin justa causa, las relaciones personales entre la niña, niño o adolescente y sus ascendientes. En caso de oposición, a petición de cualquiera de ellos, el Juez de lo Familiar resolverá lo conducente previa audiencia de la niña, niño o adolescente salvaguardando en todo momento el interés superior de la niñez.
 
-Para los casos anteriores y sólo por mandato judicial, este derecho deberá ser limitado o suspendido considerando el incumplimiento reiterado de las obligaciones de crianza o peligro para la salud e integridad física, psicológica o sexual de las hijas e hijos.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 10 DE MAYO DE 2023)</small>
+
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2023)</small>
+
+Para los casos anteriores y sólo por mandato judicial, este derecho deberá ser limitado o suspendido considerando el incumplimiento reiterado de las obligaciones de crianza por parte de alguno de los progenitores o cuando la salud e integridad física, psicológica o sexual de las niñas, niños y adolescentes se encuentre en peligro.
 
 > <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -8835,7 +8841,9 @@ ARTICULO 1,653.- Pueden aceptar o repudiar la herencia todos los que tienen la l
 
 ARTICULO 1,654.- La herencia dejada a los menores y demás incapacitados, será aceptada por sus tutores, quienes podrán repudiarla con autorización judicial, previa audiencia del Ministerio Público.
 
-ARTICULO 1,655.- La mujer casada no necesita la autorización del marido para aceptar o repudiar la herencia que le corresponda. La herencia común será aceptada o repudiada por los dos cónyuges, y en caso de discrepancia, resolverá el juez.
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2023)</small>
+
+ARTICULO 1,655.- La herencia común será aceptada o repudiada por los dos cónyuges, en caso de discrepancia, resolverá el juez.
 
 ARTICULO 1,656.- La aceptación puede ser expresa o tácita. Es expresa la aceptación si el heredero acepta con palabras terminantes, y tácita, si ejecuta algunos hechos de que se deduzca necesariamente la intención de aceptar, o aquellos que no podría ejecutar sino con su calidad de heredero.
 
@@ -8889,9 +8897,11 @@ ARTICULO 1,678.- La aceptación en ningún caso produce confusión de los bienes
 
 ### CAPITULO IV. De los albaceas
 
-ARTICULO 1,679.- No podrá ser albacea el que no tenga la libre disposición de sus bienes.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE MAYO DE 2023)</small>
 
-La mujer casada, mayor de edad, podrá serlo sin la autorización de su esposo.
+ARTICULO 1,679.- No podrá ser albacea la persona que no tenga la libre disposición de sus bienes.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 10 DE MAYO DE 2023)</small>
 
 ARTICULO 1,680.- No pueden ser albaceas, excepto en el caso de ser herederos únicos:
 
@@ -15056,3 +15066,19 @@ G.O. 10 DE JUNIO DE 2022.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 10 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS PÁRRAFOS SEGUNDO Y CUARTO, Y SE DEROGA EL TERCER PÁRRAFO; TODOS DEL ARTÍCULO 416 BIS DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 10 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 1655 Y SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 1679 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL".]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
