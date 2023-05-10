@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2022-12-16"
+last_updated: "2023-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MAYO DE 2023.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -2175,7 +2175,9 @@ Atendiendo a las necesidades de una sana comunicación paterno filial, el juzgad
 
 Artículo 325 bis.- Sin perjuicio de lo dispuesto en los artículos precedentes, en los casos que el Padre no custodio, no pueda acceder a la convivencia con el menor, dado la negativa injustificada del padre o madre custodio, la autoridad judicial para garantizar el derecho del menor a la convivencia con su Padre no custodio, decretara las medidas necesarias para que esta se lleve a cabo.
 
-El Poder Judicial del Estado constituirá Centros de Convivencia Familiar los cuales serán destinados a garantizar el interés superior del menor mediante el logro de una eficaz y sana convivencia entre los menores y las personas que tengan derecho de convivir con aquellos, a efectos de propiciar y reforzar los lazos de identidad y confianza entre ellos. Dicho Centro funcionara bajo los lineamientos que se establezcan en la Ley Orgánica del Poder Judicial del Estado de Baja California Sur y el reglamento que al efecto se expida para regular su funcionamiento por el Pleno del Tribunal Superior de Justicia.
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 2023)</small>
+
+Para los efecto de párrafo anterior, desde el auto inicial que admita la demanda cualquiera que esta sea pero que ventile situaciones sobre la custodia de los menores, el juez fijara de oficio o en cualquier etapa del juicio a petición de parte, y de manera provisional en tanto se resuelve en definitiva, el régimen de convivencia entre padres e hijos que podrá llevarse a cabo en los Centros de Convivencia Familiar que constituirá el Poder Judicial del Estado, los cuales serán destinados a garantizar el interés superior del menor mediante el logro de una eficaz y sana convivencia entre los menores y las personas que tengan derecho de convivir con aquellos, a efectos (sic) de propiciar y reforzar los lazos de identidad y confianza entre ellos. Dicho Centro funcionara bajo los lineamientos que se establezcan en la Ley Orgánica del Poder Judicial del Estado de Baja California Sur y el reglamento que al efecto se expida para regular su funcionamiento por el Pleno del Tribunal Superior de Justicia, convivencia que podrá llevarse a cabo a través de medios telefónicos o video llamadas en los términos y bajo las circunstancias que se establezcan en los lineamientos correspondientes.
 
 ###### Artículo 326.
 
@@ -16236,3 +16238,9 @@ B.O. 16 DE DICIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2917 SE REFORMA EL SEGUNDO PÁRRAFO (SIC) ARTÍCULO 325 BIS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
