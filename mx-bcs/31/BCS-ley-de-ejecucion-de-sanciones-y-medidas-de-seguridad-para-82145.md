@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-ejecucion-de-sanciones-y-medidas-de-seguridad-para-82145
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-18"
-last_updated: "2011-06-18"
+last_updated: "2023-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MAYO DE 2023.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 18 de junio de 2011.
 
@@ -137,9 +137,11 @@ XII. Farmacodependiente: Persona que presenta algún signo o síntoma de depende
 
 XIII. Juez de Ejecución: Al Juez de Ejecución de Sanciones y Medidas de Seguridad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2023)</small>
+
 ###### Artículo 7.
 
-El funcionamiento, supervisión y control del sistema integral de reclusión y reinserción social se sujetará a lo previsto por la Constitución Política de los Estados Unidos Mexicanos en su parte relativa; así como a los lineamientos y recomendaciones de las Comisiones Nacional y Estatal de Derechos Humanos. En consecuencia:
+El funcionamiento, supervisión y control del sistema integral de reclusión y reinserción social se sujetará a lo previsto por la Constitución Política de los Estados Unidos Mexicanos en su parte relativa; así como a los lineamientos y recomendaciones de las Comisiones Nacional y Estatal de Derechos Humanos, y a los Protocolos, Instrumentos u otra disposición para la atención de grupos vulnerables. En consecuencia:
 
 l. En la fase de reclusión y reinserción, el tratamiento penitenciario se aplicará sin discriminaciones ni privilegios por circunstancias de nacionalidad, raza, condición económica, social o ideológica de los internos.
 
@@ -263,7 +265,9 @@ XX. Las demás que otros ordenamientos le confieran
 
 B). Atribuciones
 
-I. Garantizar al sentenciado y a aquellos internos sujetos a detención judicial o prisión preventiva el goce de los derechos y garantías fundamentales que les reconoce la Constitución, la Constitución del Estado, los tratados internacionales ratificados por el estado mexicano y esta ley;
+> <small>(REFORMADA, B.O. 10 DE MAYO DE 2023)</small>
+
+I. Garantizar al sentenciado y a aquellos internos sujetos a detención judicial o prisión preventiva el goce de los derechos y garantías fundamentales que les reconoce la Constitución Política de Los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Baja California Sur, los tratados internacionales ratificados por el estado mexicano, los Protocolos e Instrumentos de atención a grupos vulnerables, y esta Ley;
 
 II. Garantizar que la sentencia definitiva se ejecute en sus términos de conformidad con lo prescrito en la ley y que, los derechos del sentenciado no se restrinjan más allá de lo resuelto en dicho fallo;
 
@@ -2174,3 +2178,11 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 EL SECRETARIO GENERAL DE GOBIERNO
 
 CARLOS MENDOZA DAVlS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 10 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2915 SE REFORMAN LA FRACCIÓN I, DEL ARTÍCULO 46, Y LA FRACCIÓN II DEL ARTÍCULO 47 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMA EL ARTÍCULO 7, Y LA FRACCIÓN I, DEL APARTADO B DEL ARTÍCULO 16 DE LA LEY DE EJECUCIÓN DE SANCIONES Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
