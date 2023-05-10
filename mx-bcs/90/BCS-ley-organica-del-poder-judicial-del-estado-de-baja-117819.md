@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-117819"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-31"
-last_updated: "2022-12-27"
+last_updated: "2023-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MAYO DE 2023.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2016.
 
@@ -797,7 +797,9 @@ V. De los demás asuntos que les encomienden las Leyes.
 
 Los Jueces de Ejecución de Sanciones Penales tendrán las siguientes atribuciones:
 
-I. Respetar y garantizar al sentenciado y a la víctima u ofendido el goce de los derechos humanos que les reconoce la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano, la Constitución del Estado Libre y Soberano del Estado de Baja California Sur y demás ordenamientos aplicables;
+> <small>(REFORMADA, B.O. 10 DE MAYO DE 2023)</small>
+
+I. Respetar y garantizar al sentenciado y a la víctima u ofendido el goce de los derechos humanos que les reconoce la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano, la Constitución Política del Estado Libre y Soberano de Baja California Sur, Protocolos e Instrumentos de atención a grupos vulnerables y demás ordenamientos aplicables;
 
 II. Garantizar que la sentencia definitiva se ejecute en sus términos, de conformidad con lo prescrito en la ley y que, los derechos del sentenciado no se restrinjan más allá de lo resuelto en dicho fallo;
 
@@ -855,7 +857,9 @@ En Justicia para Adolescentes, los Jueces Especializados tendrán las siguientes
 
 I. Conocer de las causas instauradas en contra de las personas a quienes se impute la realización de un acto tipificado como delito en las leyes locales, teniendo entre doce años cumplidos y menos de dieciocho años de edad;
 
-II. Respetar, proteger y garantizar a los adolescentes y a la víctima u ofendido el goce de sus derechos humanos que les reconoce la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano, la Constitución del Estado Libre y Soberano de Baja California Sur y demás ordenamientos aplicables;
+> <small>(REFORMADA, B.O. 10 DE MAYO DE 2023)</small>
+
+II.- Respetar, proteger y garantizar a los adolescentes y a la víctima u ofendido el goce de sus derechos humanos que les reconoce la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano y la Constitución Política del Estado Libre y Soberano de Baja California Sur, Protocolos e Instrumentos de atención a grupos vulnerables y demás ordenamientos aplicables;
 
 III. Promover los mecanismos alternativos de justicia entre el adolescente y la víctima u ofendido, a fin de cumplir con los principios de mínima intervención y subsidiariedad y en su caso, decretar la suspensión del procedimiento por arreglo conciliatorio;
 
@@ -4850,3 +4854,9 @@ Los jueces que hayan recibido nombramiento definitivo con anterioridad a la entr
 ###### ARTICULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 10 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2915 SE REFORMAN LA FRACCIÓN I, DEL ARTÍCULO 46, Y LA FRACCIÓN II DEL ARTÍCULO 47 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMA EL ARTÍCULO 7, Y LA FRACCIÓN I, DEL APARTADO B DEL ARTÍCULO 16 DE LA LEY DE EJECUCIÓN DE SANCIONES Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
