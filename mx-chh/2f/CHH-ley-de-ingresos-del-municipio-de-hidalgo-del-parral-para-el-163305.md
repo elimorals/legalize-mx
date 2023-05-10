@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-municipio-de-hidalgo-del-parral-para-el-163
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-31"
-last_updated: "2022-12-31"
+last_updated: "2023-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE INGRESOS DEL MUNICIPIO DE HIDALGO DE PARRAL, CHIHUAHUA PARA EL EJERCICIO FISCAL DEL AÑO 2023
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2023.
 
 Ley publicada en el Anexo al No. 105 del Periódico Oficial del Estado de Chihuahua, el sábado 31 de diciembre de 2022.
 
