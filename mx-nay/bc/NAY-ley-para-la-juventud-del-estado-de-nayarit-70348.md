@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-juventud-del-estado-de-nayarit-70348"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2017-03-07"
+last_updated: "2023-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA JUVENTUD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 19 de septiembre de 2009.
 
@@ -172,6 +172,14 @@ El Instituto coadyuvará con las autoridades competentes en la divulgación de i
 ###### Artículo 8.
 
 El Instituto es responsable de coadyuvar con la difusión de los derechos sexuales y reproductivos de los jóvenes, así como para establecer los mecanismos que permitan el acceso expedito de la juventud a los servicios de información y atención, relacionados con el ejercicio de sus derechos sexuales y reproductivos.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2023)</small>
+
+Artículo 8 bis.- La juventud tiene derecho a la salud mental, garantizando su bienestar en los elementos cognoscitivos, afectivos y conductuales, de acuerdo a lo establecido por la Ley de Salud para el Estado de Nayarit.
+
+El Instituto, en coordinación con las autoridades competentes, diseñará e implementará políticas públicas para informar a la juventud sobre la importancia de la salud mental, así como, sobre los riesgos y consecuencias que representan los trastornos y enfermedades mentales.
+
+Para efectos de lo anterior, el Instituto deberá priorizar en sus campañas de difusión, a las comunidades rurales y zonas vulnerables, donde se tiene difícil acceso a especialistas en salud mental.
 
 #### Sección Tercera. Del derecho a la cultura y a la práctica del deporte
 
@@ -804,3 +812,9 @@ P.O. 7 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA LA JUVENTUD DEL ESTADO DE NAYARIT”.]
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 10 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL ARTÍCULO 8 BIS A LA LEY PARA LA JUVENTUD DEL ESTADO DE NAYARIT, EN MATERIA DE DERECHO A LA SALUD MENTAL DE LAS Y LOS JÓVENES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
