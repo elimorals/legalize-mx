@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-personal-que-labora-en-el-museo-140964"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-01-01"
-last_updated: "2020-01-01"
+last_updated: "2023-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL PERSONAL QUE LABORA EN EL MUSEO MORELENSE DE ARTE POPULAR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DEL MUSEO MORELENSE DE ARTE POPULAR, PUBLICADO EN EL P.O. DE 10 DE MAYO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL PERSONAL QUE LABORA EN EL MUSEO MORELENSE DE ARTE POPULAR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2023 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 1 de enero de 2020.
 
@@ -234,3 +236,15 @@ PROFESORA GUDELIA COLÍN MORENO
 COORDINADORA DEL MUSEO MORELENSE DE ARTE POPULAR
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL MUSEO MORELENSE DE ARTE POPULAR”.]
+
+PRIMERO. El presente Código de Conducta, entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDO. El presente ordenamiento es de observancia obligatoria para todas las personas que desempeñen un empleo, cargo o comisión en el MMAPO.
+
+TERCERO. Se abroga el Código de Conducta del personal que labora en el Museo Morelense de Arte Popular, publicado en el Periódico Oficial “Tierra y Libertad”, número 5770, de fecha primero de enero del año dos mil veinte.
