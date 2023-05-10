@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-78425"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2023-03-14"
+last_updated: "2023-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2023.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 14 DE MARZO DE 2023 NO APLICA AL ARTICULADO DEL DECRETO NO. 65-541 PUBLICADO EN EL P.O. DE 7 DE MARZO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2010.
 
@@ -743,13 +741,17 @@ I. Notificar al Registro Municipal Animal correspondiente, la sustracción o la 
 
 II. Traerlos, en lugares y espacios públicos, con un bozal apropiado para la tipología racial de cada animal;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2023)</small>
 
-III. Conducirlos y controlarlos con cadena o correa no extensible de menos de dos metros, sin que pueda llevarse más de uno de estos animales por persona; y
+III. Conducirlos y controlarlos con cadena o correa no extensible de menos de dos metros, sin que pueda llevarse más de uno de estos animales por persona;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2023)</small>
 
-IV. Colocar avisos claros y visibles que alerten del riesgo en el lugar donde se encuentre el animal.
+IV. Colocar avisos claros y visibles que alerten del riesgo en el lugar donde se encuentre el animal; y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2023)</small>
+
+V. Tener al animal confinado adecuadamente para su contención a fin de evitar daños a terceras personas, así como a otros animales y a la fauna silvestre o feral.
 
 De no cumplirse lo establecido en este Capítulo, la persona responsable será sancionada y el animal será puesto en custodia a cargo de la autoridad correspondiente, quien auxiliándose de las sociedades protectoras de animales del Estado y de cualquier otra entidad deberá buscar y proveer al animal de un hábitat adecuado y permanente.
 
@@ -1253,9 +1255,9 @@ Las infracciones cometidas por la violación de las disposiciones de la presente
 
 I. Multa de cinco a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización contra quien por segunda ocasión realice alguna de las conductas descritas en el artículo anterior o por violaciones a lo dispuesto por los artículos 7, fracción X; 8; 12, párrafo segundo; 14; 16, fracciones I, II, III, IV, VII y VIII; 18, fracciones III, XI y XIII; 20 fracción III; 21; 22; 25, fracciones II y XI; 27, fracción III; 29 párrafo tercero; 38, párrafos segundo, tercero y quinto; 42, fracción VI; 43, párrafo segundo de la presente ley;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2023)</small>
 
-II. Multa de ciento cincuenta a mil veces el valor diario de la Unidad de Medida y Actualización a lo dispuesto por los artículos 6, fracción II inciso d); 7 fracción IX; 15; 16, fracciones VI y IX; 18, fracciones II, IV, VI, VII, IX, X, XV, XVI, XVIII y XIX; 20, fracción VII; 23, fracciones I, II, III, V, VI, VII, VIII y X; 24 primer párrafo; 25, fracción IX; 26; 27, párrafo primero; 31; 32; 33, fracciones I, II, VII y VIII; 34; 39, fracciones IV, V, VI, VII, VIII y XI; 44, párrafo cuarto, fracciones I a la IV de la presente ley; y
+II. Multa de ciento cincuenta a mil veces el valor diario de la Unidad de Medida y Actualización a lo dispuesto por los artículos 6, fracción II inciso d); 7 fracción IX; 15; 16, fracciones VI y IX; 18, fracciones II, IV, VI, VII, IX, X, XV, XVI, XVIII y XIX; 20, fracción VII; 23, fracciones I, II, III, V, VI, VII, VIII y X; 24 primer párrafo; 25, fracción IX; 26; 27, párrafo primero; 29, fracción V; 31; 32; 33, fracciones I, II, VII y VIII; 34; 39, fracciones IV, V, VI, VII, VIII y XI; 44, párrafo cuarto, fracciones I a la IV de la presente ley; y
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1490,6 +1492,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 7 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-541 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE PROTECCIÓN ANIMAL Y MEDIO AMBIENTE".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-569 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 29, FRACCIONES III Y IV; Y 57, FRACCIÓN II; Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 29, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
