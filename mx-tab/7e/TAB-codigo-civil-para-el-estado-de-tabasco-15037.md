@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2023-04-08"
+last_updated: "2023-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2023.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -2017,6 +2017,8 @@ Los que infrinjan el artículo anterior, así como los que siendo mayores de eda
 
 ### CAPITULO VI. DEL DIVORCIO Y DE LA TERMINACION DEL CONCUBINATO
 
+> <small>(DEROGADA, P.O. 10 DE MAYO DE 2023)</small>
+
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### ARTICULO 256.
@@ -2041,21 +2043,15 @@ IV. A voluntad de cualquiera de los concubinos, mediante aviso judicial.
 
 ###### ARTICULO 257.
 
-Cómo se clasifica
-
-El divorcio se clasifica en voluntario y necesario. Es voluntario cuando se solicita de común acuerdo por los cónyuges, y es necesario cuando cualquiera de éstos lo reclama fundado en una o más de las causas a que se refiere el artículo 272 de este Código.
+(DEROGADO, P.O. 10 DE MAYO DE 2023)
 
 ###### ARTICULO 258.
 
-Substanciación del voluntario
-
-El divorcio voluntario se substanciará administrativa o judicialmente, según las circunstancias del matrimonio. El divorcio necesario será substanciado ante la autoridad judicial.
+(DEROGADO, P.O. 10 DE MAYO DE 2023)
 
 ###### ARTICULO 259.
 
-Residencia de los divorciantes
-
-No se podrá promover el divorcio voluntario ni demandar el necesario ante un Juez de primera instancia del Estado, sino cuando los cónyuges hayan residido dentro de la jurisdicción de dicho Juez, por lo menos con seis meses de anticipación a la fecha en que ocurran ante éste.
+(DEROGADO, P.O. 10 DE MAYO DE 2023)
 
 ###### ARTICULO 260.
 
@@ -2071,9 +2067,7 @@ La muerte de uno de los cónyuges, acaecida durante el procedimiento de divorcio
 
 ###### ARTICULO 262.
 
-Reconciliación de los divorciantes
-
-La reconciliación de los cónyuges pone término al procedimiento judicial de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoriada. Los interesados deberán comunicar su reconciliación al Juez, sin que la omisión de esta noticia destruya los efectos producidos por aquélla.
+(DEROGADO, P.O. 10 DE MAYO DE 2023)
 
 ###### ARTICULO 263.
 
@@ -2111,13 +2105,13 @@ Anotación en el acta
 
 Ejecutoriada una sentencia de divorcio, el Juez de primera instancia remitirá copia de ella al Oficial del Registro Civil ante quien se celebró y éste, al margen del acta de matrimonio, pondrá nota expresando la fecha en que se declaró el divorcio y el Tribunal que lo declaró, y hará publicar un extracto de la resolución, durante quince días, en las tablas destinadas a ese efecto.
 
-#### SECCION SEGUNDA. DEL DIVORCIO VOLUNTARIO
+> <small>(DEROGADA, P.O. 10 DE MAYO DE 2023)</small>
+
+#### SECCIÓN SEGUNDA. DEL DIVORCIO VOLUNTARIO
 
 ###### ARTICULO 267.
 
-Cuándo procede
-
-El divorcio voluntario no procede sino pasado un año de la celebración del matrimonio.
+(DEROGADO, P.O. 10 DE MAYO DE 2023)
 
 ###### ARTICULO 268.
 
@@ -2159,237 +2153,195 @@ Mientras se decreta el divorcio, el Juez autorizará la separación de los cóny
 
 ###### ARTICULO 271.
 
-Reconciliación
+(DEROGADO, P.O. 10 DE MAYO DE 2023)
 
-Los cónyuges que judicialmente hayan solicitado su divorcio voluntario, podrán reconciliarse en cualquier tiempo, siempre y cuando el divorcio no hubiere sido decretado; pero efectuada tal reconciliación, no podrán volver a solicitar su divorcio por mutuo consentimiento, sino pasado un año desde que tuvo verificativo aquélla.
+> <small>(DEROGADA, P.O. 10 DE MAYO DE 2023)</small>
 
-#### SECCION TERCERA. DEL DIVORCIO NECESARIO
+#### SECCIÓN TERCERA. DEL DIVORCIO NECESARIO
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 272.
 
-Causales
+Sin expresión de causa
 
-Son causas de divorcio necesario:
+El divorcio podrá solicitarse por uno o ambos cónyuges cuando cualquiera de ellos lo reclame ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita.
 
-I.- El adulterio debidamente probado de uno de los cónyuges;
-
-II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse el mismo, con persona distinta al cónyuge y que judicialmente así sea declarado;
-
-III.- La propuesta del marido para prostituir a su mujer, no sólo cuando el mismo marido lo haya hecho directamente, sino cuando se pruebe que ha recibido cualquier remuneración con el objeto expreso de permitir que otro tenga relaciones carnales con su mujer;
-
-IV.- La incitación a la violencia hecha por un cónyuge al otro para cometer algún delito, aunque no sea de incontinencia carnal;
-
-V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
-
-VI.- Padecer cualquier enfermedad de tipo endémico e incurable que sea, además, contagiosa y hereditaria, y la impotencia sexual irreversible, así como las alteraciones conductuales en la práctica sexual que sobrevengan después de celebrado el matrimonio;
-
-VII.- Padecer enajenación mental incurable;
-
-VIII.- La separación injustificada de la casa conyugal por más de seis meses, con abandono absoluto de las obligaciones inherentes a la familia;
-
-IX.- La separación de los cónyuges por más de un año, independientemente del motivo que haya originado la separación. En este caso el divorcio podrá ser demandado por cualquiera de los cónyuges; pero si quien lo reclama es el que se separó, deberá acreditar haber cumplido con sus obligaciones alimentarias;
-
-X.- La declaración de ausencia legalmente hecha o la presunción de muerte, en los casos de excepción en que no se necesita para que se haga, que preceda la declaratoria de ausencia;
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
-XI.- La sevicia, los malos tratos, las amenazas o las injurias graves de un cónyuge para otro, siempre que tales actos hagan imposible la vida conyugal;
-
-XII.- La negativa injustificada a cumplir la obligación alimentaria respecto al otro cónyuge y a los hijos. El juicio de divorcio se sobreseerá si el deudor comprueba el monto de sus ingresos y se aviene a asegurar el pago periódico de la pensión que al efecto se señale, aseguramiento que podrá consistir en cualquiera de los medios que establece el artículo 313 de este Código, o por oficio que se gire a quien cubra sus sueldos, para que entregue el acreedor la cantidad que se le asigne. Al dictar el sobreseimiento, el Juez podrá imponer la condena en gastos en los términos que procede en los casos de sentencia, o si estima que, por su mala fe, el deudor obligó a su consorte a la demanda. La falta de pago de la pensión así asegurada, sin causa justificada, por más de tres meses, será nueva causa de divorcio sin que en este caso proceda sobreseimiento alguno;
-
-XIII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
-
-> <small>[N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.]</small>
-
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
-
-XIV.- Haber cometido uno de los cónyuges un delito por acción u omisión dolosa que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años. Asimismo cuando haya sido condenado por el delito de violencia familiar, cualquiera que sea la pena.
-
-XV.- Los hábitos de juego o de embriaguez o el uso no terapéutico de enervantes, estupefacientes, psicotrópicos o cualquier otra sustancia que altere la conducta del individuo y que produzca farmacodependencia;
-
-XVI.- Haber cometido uno de los cónyuges contra la persona o bienes del otro, un delito por el cual tuviere que sufrir una pena de prisión mayor de un año;
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-XVII.- Injuriar un cónyuge a otro, por escrito, dentro de un juicio de nulidad de matrimonio o de divorcio necesario, o imputar el uno al otro, dentro de tales procedimientos, hechos vergonzosos o infamantes que afecten el decoro, honor o dignidad del imputado, siempre que las injurias y las imputaciones sean de tal naturaleza que hagan imposible la vida en común, si el autor de la injuria o de la imputación no obtiene en su favor, en ese procedimiento, sentencia ejecutoriada;
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-XVIII.- Emplear, la mujer, método de concepción humana artificial, sin el consentimiento del marido; y
-
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-XIX.- Cuando existan indicios suficientes de violencia familiar contra alguno de los cónyuges, o los hijos de ambos o de alguno de ellos.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 273.
 
-Enumeración limitativa de causales
+Requisitos del convenio
 
-La enumeración de las causas de divorcio que hace el artículo anterior, es de carácter limitativo. Por tanto, cada causal es de naturaleza autónoma y no es susceptible de aplicación por analogía ni por mayoría de razón.
+El cónyuge que unilateralmente promueva el juicio de divorcio deberá acompañar a su solicitud la propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial, debiendo contener los siguientes requisitos:
+
+I.- La designación de la persona que tendrá la guarda y custodia de los hijos menores o incapaces;
+
+II.- Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos;
+
+III.- El modo de atender las necesidades de los hijos y, en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
+
+IV.- La designación del cónyuge al que corresponderá el uso del domicilio conyugal, en su caso, y del menaje;
+
+V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de partición; y
+
+VI.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación, que no podrá ser superior al 50% del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos. El Juez de lo Familiar resolverá atendiendo a las circunstancias especiales de cada caso.
+
+Los jueces están obligados a suplir la deficiencia de las partes en el convenio propuesto.
+
+Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en los casos de divorcio respecto del o los convenios propuestos.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 274.
 
-Justificación de la demanda
+Suspensión de cohabitación
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+El cónyuge que no quiera solicitar el divorcio podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con su cónyuge, cuando éste se encuentre en alguno de los siguientes casos:
 
-No puede demandar el divorcio necesario un cónyuge fundándose en sus propios hechos, aun cuando éstos se encuentren comprendidos en las causales previstas por el artículo 272 con excepción de la fracción IX del citado numeral.
+I. Cometa violencia familiar en los términos del artículo 403 Bis de este Código;
+
+II. Padezca embriaguez consuetudinaria o adicción a alguna droga o estupefaciente;
+
+III. Padezca cualquier enfermedad incurable que sea, además, contagiosa o hereditaria; o
+
+IV. Padezca impotencia sexual irreversible, siempre y cuando no tenga su origen en la edad avanzada.
+
+En estos casos, el juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 275.
 
-Acción
+Reconciliación
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+Hasta en tanto no haya resolución judicial que decrete el divorcio, la reconciliación de los cónyuges pone término al procedimiento. Para tal efecto los interesados deberán comunicar su reconciliación al juez.
 
-El divorcio necesario debe basarse en hechos que se imputen al cónyuge demandado y que estén comprendidos en las causas de divorcio enumeradas en el artículo 272. Debe, además, demandarse dentro de seis meses después de que hayan llegado a conocimiento del actor los hechos en que se funda la demanda; pero se exceptúan de esta caducidad las causales de tracto sucesivo o de realización continua.
-
-En el caso de la fracción XVII del artículo 272, el plazo de caducidad de la acción de divorcio es de noventa días, que se contarán desde el día siguiente de la notificación de la última sentencia y cuando se hubiere interpuesto juicio de amparo, empezará a contarse a partir de la notificación de la nueva sentencia que con este motivo se dictó, o de ejecutoria de amparo, si se hubiere sobreseído el juicio o negado la protección federal. Durante los mencionados noventa días los esposos no tienen el deber de vivir juntos.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 276.
 
-Estudio de la caducidad.
+Medidas provisionales
 
-El Juez estudiará de oficio la caducidad de la acción.
+Desde que se presenta la demanda o la solicitud de divorcio y solo mientras dure el juicio, el juez dictará las medidas provisionales pertinentes; asimismo, en los casos de divorcio en que no se llegue a concluir mediante convenio, las medidas subsistirán hasta en tanto se dicte la resolución que juzgue la situación jurídica de hijos o bienes, según corresponda y de acuerdo a las disposiciones siguientes:
+
+A. De oficio:
+
+I. Las que considere adecuadas para salvaguardar la integridad y seguridad de los interesados, incluyendo las de violencia familiar;
+
+II.- Señalar y asegurar las cantidades que a título de alimentos debe dar el deudor alimentario al cónyuge acreedor y a los hijos que corresponda;
+
+III.- Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal en su caso. Asimismo, ordenar, cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva en el registro público o privado que corresponda;
+
+IV.- Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgado, con las excepciones que establece este Código;
+
+B. Una vez contestada la solicitud:
+
+I.- Se autorizará con audiencia de parte, y teniendo en cuenta el interés familiar y lo que más convenga a los hijos, cuál de los cónyuges continuará en el uso de la vivienda familiar y asimismo, previo inventario, los bienes y enseres que continúen en ésta y los que se ha de llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicado, debiendo informar éste el lugar de su residencia;
+
+II.- Poner a los hijos al cuidado de la persona que de común acuerdo designen los cónyuges, pudiendo estos compartir la guarda y custodia mediante convenio. Ante la ausencia de acuerdo, el juez tomará la decisión. En todos los casos se debe escuchar al menor, y atender a su interés superior, lo que incluye regular las modalidades de convivencia con sus padres;
+
+No será obstáculo para la preferencia en la custodia, el hecho de que la madre o padre carezca de recursos económicos;
+
+III.- Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como, de los que se encuentren bajo el régimen de sociedad conyugal, en su caso, especificando además el título bajo el cual se adquirieron o poseen, su valor estimado, las capitulaciones matrimoniales y un proyecto de partición. Durante el procedimiento, recabará la información complementaria y comprobación de datos que en su caso precise; y
+
+IV.- Las demás que considere necesarias.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 277.
 
-Perdón del ofendido.
+Situación de menores de edad
 
-Ninguna de las causas enumeradas en el artículo 272 puede alegarse para pedir el divorcio, cuando haya mediado perdón expreso o tácito.
+La sentencia de divorcio fijará la situación de los hijos menores de edad para lo cual deberá contener las siguientes disposiciones:
+
+I.- Todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión o limitación; a la guarda y custodia, así como a las obligaciones de crianza y el derecho de los hijos a convivir con ambos progenitores;
+
+II.- Todas las medidas necesarias para proteger a los hijos de actos de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno;
+
+III.- Las medidas necesarias para garantizar la convivencia de los hijos con sus padres, misma que sólo deberá ser limitada o suspendida cuando exista riesgo para los menores;
+
+IV.- Lo relativo a la división de los bienes y tomará las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los excónyuges tendrán obligación de contribuir, en proporción a sus bienes e ingresos, al pago de alimentos a favor de los hijos;
+
+V.- Las medidas de seguridad, seguimiento y las psicoterapias necesarias para corregir los actos de violencia familiar;
+
+VI.- Para el caso de los hijos mayores con alguna discapacidad, en la sentencia de divorcio deberán establecerse los sistemas de apoyo necesarios y definirse la participación de los padres al respecto;
+
+VII.- En caso de desacuerdo, en la sentencia de divorcio, el juez habrá de resolver sobre la procedencia de la compensación que prevé el artículo 273, fracción VI, de este Código.
+
+VIII.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés de los hijos menores de edad.
+
+Para lo dispuesto en el presente artículo, de oficio o a petición de parte interesada, durante el procedimiento el Juez se allegará de los elementos necesarios, debiendo escuchar al Ministerio Público, a ambas partes y a los menores.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 278.
 
-Terminación de trámite.
+Guarda y custodia compartida
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+En caso de que los padres hayan acordado la guarda y custodia compartida, el juez, en la sentencia de divorcio, deberá garantizar que los divorciantes cumplan con las obligaciones de crianza, sin que ello implique un riesgo en la vida cotidiana para los hijos.
 
-El juicio de divorcio necesario terminará si el cónyuge que lo demandó desistiere de la acción y no hubiere reconvención, antes que se pronuncie sentencia; más en este caso no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 279.
 
-Medidas preventivas.
+Obligaciones de los padres
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
 
-Cuando las causales enumeradas en la fracción VI del artículo 272 no sean utilizadas por un cónyuge como fundamento de la demanda de divorcio, podrán, sin embargo, ser motivo para que el Juez con conocimiento de causa, a instancia de uno de los consortes y oyendo al otro en una audiencia, suspenda en cualquiera de dichos casos el deber de cohabitar, quedando, no obstante, subsistentes los demás deberes y obligaciones para con el otro cónyuge.
-
-Estas medidas se dictarán, también, a petición del cónyuge sano, tan pronto como se manifieste la enajenación mental a que se refiere la fracción VII del artículo 272.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 280.
 
-Medidas provisionales
+Aprobación de convenio
 
-Al admitirse la demanda de divorcio necesario o antes, si hubiere urgencia, se adoptarán provisionalmente, y sólo mientras duren los procedimientos judiciales, las disposiciones siguientes:
+En caso de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 273 y este no contravenga ninguna disposición legal, o presentaren un convenio emanado del procedimiento de mediación a que se refiere la Ley de Acceso a la Justicia Alternativa para el Estado de Tabasco, en uno u otro caso el juez lo aprobará de plano, decretando el divorcio mediante sentencia.
 
-I.- Separar a los cónyuges, para este efecto el Juez prevendrá al marido que se separe de la casa conyugal y ordenará se le entregue su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicado. Deberá el marido informar al Juez el lugar de su residencia. Si sobre esto se suscitare controversia, el Juez decidirá sumariamente oyendo a ambos cónyuges;
+En caso contrario, el juez decretará el divorcio dejando expedito el derecho de los cónyuges para que lo hagan valer por la vía incidental, exclusivamente por lo que concierne al convenio.
 
-II.- Proceder a la separación de los cónyuges de conformidad con el Código de Procedimientos Civiles;
-
-III.- Prevenir a ambos cónyuges que no se molesten uno a otro en ninguna forma;
-
-IV.- Fijar las reglas para el cuidado de los hijos, oyendo el parecer de los consortes. Los hijos menores de siete años quedarán en poder de la madre, salvo que se ponga en peligro la salud física y mental de aquéllos;
-
-V.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
-
-VI.- Dictar las medidas conducentes para que los cónyuges no se causen perjuicios en su patrimonio ni en los bienes que sean comunes; y
-
-VII.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 281.
 
-Protección de los hijos o cónyuges inocentes
+Alimentos
 
-El Juez, al declarar procedente el divorcio, fijará la situación de los hijos atendiendo a lo que más favorezca su desarrollo psicosomático, conforme a las fracciones siguientes:
+En caso de divorcio, el juez resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos, durante el matrimonio se haya dedicado preponderantemente a las labores del hogar, al cuidado de los hijos, esté imposibilitado para trabajar o carezca de bienes; tomando en cuenta las siguientes circunstancias:
 
-I.- Si la causa de divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XII, XIV y XV del artículo 272, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente o ascendientes que corresponda y, si no los hubiere, se nombrará tutor;
+I.- La edad y el estado de salud de los cónyuges;
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+II.- Su calificación profesional y posibilidad de acceso a un empleo;
 
-II.- Si la causa de divorcio estuviere comprendida en las fracciones IX, XIII, XVI y XVII del artículo 272, los hijos quedarán bajo la patria potestad del cónyuge inocente, pero a la muerte de éste, el culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables se les suspenderán en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entre tanto, los hijos quedarán bajo la patria potestad del ascendiente o ascendientes que correspondan y, si no hay quién la ejerza, se les nombrará tutor;
+III.- Duración del matrimonio y dedicación pasada y futura a la familia;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
+IV.- Colaboración con su trabajo en las actividades del cónyuge;
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+V.- Medios económicos de uno y otro cónyuge, así como de sus necesidades; y
 
-En los casos que el Juez estime pertinentes, dictará las medidas de seguridad, seguimiento y terapias necesarias, para evitar y corregir los actos que dañen la integridad física, psíquica y moral de los afectados.
+VI.- Las demás obligaciones que tenga el cónyuge deudor.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
+En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato o haya transcurrido un término igual a la duración del matrimonio.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
-
-El Juez decidirá que institución pública se hará cargo de las terapias y seguimiento.
-
-III.- En el caso de las fracciones VI y VII del artículo 272, los hijos quedarán bajo la custodia del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos;
-
-IV.- En el caso de la fracción X del artículo 272, los hijos quedarán bajo la custodia del cónyuge presente, pero si aparece el declarado ausente o presuntamente muerto, recobrará los demás derechos sobre la persona y bienes de sus hijos; y
-
-V.- En el caso de la fracción XI del artículo 272, los hijos quedarán al cuidado del cónyuge que el Juez designe, previos estudios que estime necesarios y atendiendo en todo caso el interés primordial de aquéllos, pero ambos cónyuges conservarán el ejercicio de la patria potestad.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
-
-Quienes ejerzan la patria potestad deben permitir el acercamiento constante de los menores con sus ascendientes, salvo causa justificada y por razones de seguridad de los menores. En consecuencia, evitarán cualquier acto de alienación parental.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
-
-El juzgador protegerá y hará respetar el derecho de convivencia de los padres, salvo que existan riesgos para la seguridad de los menores.
+La terminación del concubinato permite a los concubinos reclamarse mutuamente alimentos, en los términos establecidos para el matrimonio.
 
 ###### ARTICULO 282.
 
-Custodia de los hijos
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
-Antes de que se provea definitivamente sobre la custodia de los hijos, el Juez podrá acordar a petición de los abuelos, tíos o hermanos mayores, así como del Ministerio Público, cualquier medida que se considere benéfica para los menores, o inclusive disponer que éstos queden bajo el cuidado de cualquiera de los mencionados y, cuando a su juicio y previos los estudios del caso llegare a la convicción de que no es conveniente para los hijos permanecer al lado de ninguno de los progenitores, el Juez podrá modificar esta decisión en atención a lo dispuesto en los artículos 429, 430 y 452 fracción III.
-
-Antes de que el Juez dicte sentencia se cerciorará de que los alimentos de los menores estén debidamente garantizados. En los casos de divorcio donde haya hijos, incapacitados física o mentalmente, el Juez tomará las medidas que se requieran, previos estudios necesarios para lograr, en lo posible, la adaptación, readaptación o rehabilitación del incapaz.
+(DEROGADO, P.O. 10 DE MAYO DE 2023)
 
 ###### ARTICULO 283.
 
-Pérdida de la patria potestad
-
-El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todos los deberes jurídicos que tienen para con sus hijos a quienes podrán ver, en los términos que aquéllos acuerden o fije el Juez discrecionalmente en ejecución de sentencia, con audiencia tanto de los padres como de los menores que puedan ser escuchados.
+(DEROGADO, P.O. 10 DE MAYO DE 2023)
 
 ###### ARTICULO 284.
 
-Bienes del culpable
-
-El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte, o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-La división de bienes comunes, si los hubiere, se efectuará con arreglo a lo previsto para la disolución de la sociedad conyugal. En todo caso, el Juez podrá disponer se tomen las providencias para asegurar las obligaciones que queden pendientes entre los ex cónyuges o con relación a sus hijos.
+(DEROGADO, P.O. 10 DE MAYO DE 2023)
 
 ###### ARTICULO 285.
 
-Derecho del cónyuge a alimentos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2022)</small>
-
-La persona cónyuge que carezca de bienes y durante el matrimonio se haya dedicado a las labores del hogar o al cuidado de los hijos, o que esté imposibilitada o imposibilitado para trabajar, tendrá derecho a alimentos.
-
-> <small>(DEROGADO, P.O. 26 DE OCTUBRE DE 2022)</small>
-
-El excónyuge inocente tiene derecho, además, a que el culpable lo indemnice por los daños y perjuicios que el divorcio le haya causado. Los daños y perjuicios y la indemnización a que se refiere este artículo, se rigen por lo dispuesto en este Código para los hechos ilícitos.
-
-El derecho a los alimentos, en caso de divorcio necesario, se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato.
-
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-La terminación del concubinato permite a los concubinos reclamarse mutuamente alimentos, en los términos establecidos para el matrimonio, obligación alimentaría que se prolongará por un tiempo igual al que haya durado la relación, siempre que el acreedor no contraiga nupcias ni establezca un nuevo concubinato y viva honestamente. La vigencia del derecho para ejercer esta acción será de un año contado a partir del día siguiente a la disolución de la unión.
+(DEROGADO, P.O. 10 DE MAYO DE 2023)
 
 ###### ARTICULO 286.
 
-Limitación del derecho a alimentos
-
-En el caso de las causales enumeradas en las fracciones VI y VII del artículo 272, salvo que se trate de enfermedades venéreas, el excónyuge enfermo tendrá derecho a alimentos si carece de bienes y esté imposibilitado para trabajar; pero no procede la indemnización por daños y perjuicios.
-
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-Al declararse procedente el divorcio por la causal IX del numeral 272 de esta ley, independientemente de que no haya declaración de inocencia o culpabilidad se fijarán alimentos al ex cónyuge que reúna los extremos de los párrafos primero y segundo del artículo 285 del presente Código.
+(DEROGADO, P.O. 10 DE MAYO DE 2023)
 
 ## TITULO SEPTIMO. DEL PARENTESCO Y DE LOS ALIMENTOS
 
@@ -3955,9 +3907,7 @@ La patria potestad se pierde:
 
 I.- Cuando el que la ejerza es condenado por sentencia ejecutoriada expresamente a la pérdida de ese derecho, o cuando es condenado por delito de acción u omisión dolosa con una pena de dos o más años de prisión;
 
-II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 281;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+II.- (DEROGADA, P.O. 10 DE MAYO DE 2023)
 
 > <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -3967,7 +3917,7 @@ IV.- Por la exposición que el padre o la madre o el abuelo o la abuela hicieren
 
 V.- Por incumplimiento injustificado de dar alimentos.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 453.
 
@@ -25918,3 +25868,13 @@ Los asuntos que se encuentren en trámite ante los órganos jurisdiccionales civ
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 158 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 272, 273, 274, 275, 276, 277, 278, 279, 280, 281; Y SE DEROGAN LOS ARTÍCULOS 257, 258, 259, 262, 267, 271, 282, 283, 284, 285, 286, Y LA FRACCIÓN II DEL ARTÍCULO 452, ASÍ COMO LOS TÍTULOS DE LAS SECCIONES PRIMERA, SEGUNDA Y TERCERA DEL CAPÍTULO VI, DEL TÍTULO SEXTO, DEL LIBRO PRIMERO, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los divorcios en trámite se regirán por las disposiciones vigentes anteriores a la publicación de este Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
