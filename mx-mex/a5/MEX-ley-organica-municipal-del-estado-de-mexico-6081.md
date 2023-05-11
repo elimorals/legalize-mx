@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2023-04-28"
+last_updated: "2023-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -2933,9 +2933,9 @@ I. Agua potable, alcantarillado, saneamiento y aguas residuales;
 
 II. Alumbrado público;
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.G. 26 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 11 DE MAYO DE 2023)</small>
 
-III. Limpia, recolección, segregada, traslado, tratamiento y disposición final de los residuos sólidos urbanos;
+III. Limpia, recolección, segregada, traslado, tratamiento y disposición final de los residuos sólidos urbanos; debiendo emprender acciones para la identificación y prevención de la creación de nuevos tiraderos a cielo abierto o sitios de disposición clandestina de residuos de cualquier índole.
 
 En la recolección segregada, con la finalidad de fomentar la economía circular y promover la valorización de los residuos sólidos urbanos, se observará la siguiente clasificación:
 
@@ -5768,3 +5768,13 @@ G.G. 28 DE ABRIL DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta Oficial del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 11 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 160.- POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 4.6, LA FRACCIÓN III DEL ARTÍCULO 4.7, LA FRACCIÓN XV DEL ARTÍCULO 4.9, EL ARTÍCULO 4.13 Y LA FRACCIÓN VI DEL ARTÍCULO 4.60; SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 2.3, LA FRACCIÓN VI BIS AL ARTÍCULO 2.7, LA FRACCIÓN VIII AL ARTÍCULO 2.18, LA FRACCIÓN VI AL ARTÍCULO 4.6, LA FRACCIÓN XVIII AL ARTÍCULO 4.7 Y LA FRACCIÓN XVI BIS AL ARTÍCULO 4.9 DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO, Y SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 125 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este Decreto.
