@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-prevencion-social-de-la-violencia-y-la-95190"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-17"
-last_updated: "2022-05-06"
+last_updated: "2023-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 17 de julio de 2013.
 
@@ -107,6 +107,20 @@ XII. Cultura de Paz. Genera posibilidades de solución de conflictos con estrate
 
 XIII. Respeto. Que se observará en la planeación, desarrollo y ejecución de las acciones y políticas previstas por la presente Ley, se respetarán irrestrictamente los derechos humanos de las personas.
 
+> <small>(ADICIONADA, G.G. 11 DE MAYO DE 2023)</small>
+
+XIV. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres; se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género.
+
+Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones, y
+
+> <small>(ADICIONADA, G.G. 11 DE MAYO DE 2023)</small>
+
+XV. Perspectiva de infancia y adolescencia: Es el conjunto de acciones, procesos y metodologías que permiten crear las condiciones adecuadas para que, a través de técnicas pedagógicas y didácticas, se garantice la no discriminación, la vida, la supervivencia y el desarrollo de niñas, niños y adolescentes, así como el pleno ejercicio de sus derechos.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XV, G.G. 11 DE MAYO DE 2023]</small>
+
+Implica, entre otros, el respeto del interés superior de la niñez y una comunicación en forma clara y asertiva con la finalidad de alcanzar su libre opinión, de acuerdo con su edad, grado de madurez y sus ciclos vitales.
+
 ### Capítulo Tercero. De los parámetros interpretativos
 
 ###### Artículo 5.
@@ -166,6 +180,10 @@ III. Fomento a la cultura de paz.
 IV. Estrategias de educación y sensibilización a la población para promover una cultura de la legalidad y tolerancia, respetando las diversas identidades culturales. Integrando además, programas generales y aquellos enfocados a zonas y grupos de atención prioritaria.
 
 V. Programas que modifiquen las condiciones sociales de la comunidad y generen oportunidades de desarrollo especialmente para las zonas y grupos de atención prioritaria.
+
+> <small>(ADICIONADA, G.G. 11 DE MAYO DE 2023)</small>
+
+VI. Programas específicos enfocados a las familias, mujeres, niñas, niños, adolescentes, hombres y comunidades en condiciones de vulnerabilidad; para la prevención, atención y la erradicación de todos los tipos y modalidades de la violencia de género.
 
 #### Sección Segunda. Del Ámbito Comunitario
 
@@ -816,3 +834,15 @@ CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglame
 Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de la Mujer serán atendidos hasta su conclusión por la Secretaría de las Mujeres.
 
 Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de la Mujer de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 11 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 159.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY PARA PREVENIR Y ATENDER EL ACOSO ESCOLAR EN EL ESTADO DE MÉXICO, Y DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
+
+Para ejercicios presupuestales posteriores, las dependencias del Gobierno Estatal asignarán la cantidad de recursos que consideren necesarios con base en sus estadísticas, para continuar la aplicación de la presente reforma, debiendo establecer en el Presupuesto de Egresos, un apartado específico de recurso y el destino de estos.
