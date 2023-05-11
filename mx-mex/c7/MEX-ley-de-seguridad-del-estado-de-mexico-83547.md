@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2020-11-09"
+last_updated: "2023-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -1991,9 +1991,21 @@ y) Realizar sus atribuciones con estricto apego a las disposiciones normativas c
 
 z) Cumplir diligentemente los cambios de adscripción, que se deriven de las necesidades del servicio, conforme a las disposiciones legales en la materia; y
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 11 DE MAYO DE 2023)</small>
 
-aa) Las demás que establezca esta Ley y otras disposiciones aplicables.
+aa) Salvaguardar de forma completa, íntegra y con pericia a las víctimas directas e indirectas de violencia de género o en riesgo feminicida;
+
+> <small>(ADICIONADO, G.G. 11 DE MAYO DE 2023)</small>
+
+ab) Ejecutar con la debida diligencia las órdenes de protección para las niñas, las adolescentes y las mujeres víctimas de violencia en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADO, G.G. 11 DE MAYO DE 2023)</small>
+
+ac) Abstenerse de realizar acciones tendentes a inhibir, intimidar o desalentar a la víctima de violencia de género y desaparición para formular la denuncia;
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], G.G. 11 DE MAYO DE 2023)</small>
+
+ad) Las demás que establezca esta Ley y otras disposiciones aplicables.
 
 II. Aplicables sólo a los agentes del ministerio público:
 
@@ -4672,3 +4684,15 @@ G.G. 9 DE NOVIEMBRE DE 2020.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor un día después de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 11 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 159.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY PARA PREVENIR Y ATENDER EL ACOSO ESCOLAR EN EL ESTADO DE MÉXICO, Y DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
+
+Para ejercicios presupuestales posteriores, las dependencias del Gobierno Estatal asignarán la cantidad de recursos que consideren necesarios con base en sus estadísticas, para continuar la aplicación de la presente reforma, debiendo establecer en el Presupuesto de Egresos, un apartado específico de recurso y el destino de estos.
