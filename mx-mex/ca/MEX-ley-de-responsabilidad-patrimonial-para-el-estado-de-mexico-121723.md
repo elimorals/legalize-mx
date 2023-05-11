@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidad-patrimonial-para-el-estado-de-mexico-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-30"
-last_updated: "2017-05-30"
+last_updated: "2023-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
 
 Ley publicada en la Sección Cuarta al Número 97 de la Gaceta Oficial del Estado de México, el martes 30 de mayo de 2017.
 
@@ -195,7 +195,9 @@ La indemnización por daño moral que el Estado esté obligado a cubrir no exced
 
 III. Cuando el daño llegare a producir la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal de una persona, el monto de la indemnización se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo.
 
-La acción por reclamación de la indemnización, así como su disfrute, corresponderá a los herederos legítimos de la víctima, cuando el daño haya generado la muerte.
+> <small>(REFORMADO, G.G. 11 DE MAYO DE 2023)</small>
+
+La acción por reclamación de la indemnización, así como su disfrute, corresponderá a los herederos legítimos de la víctima, cuando el daño haya generado la muerte. Si la muerte deriva de un feminicidio corresponderá a las víctimas indirectas.
 
 ###### Artículo 19.
 
@@ -520,3 +522,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 11 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 159.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY PARA PREVENIR Y ATENDER EL ACOSO ESCOLAR EN EL ESTADO DE MÉXICO, Y DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
+
+Para ejercicios presupuestales posteriores, las dependencias del Gobierno Estatal asignarán la cantidad de recursos que consideren necesarios con base en sus estadísticas, para continuar la aplicación de la presente reforma, debiendo establecer en el Presupuesto de Egresos, un apartado específico de recurso y el destino de estos.
