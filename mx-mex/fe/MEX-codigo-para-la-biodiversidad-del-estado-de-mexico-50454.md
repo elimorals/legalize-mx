@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2022-12-09"
+last_updated: "2023-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -265,6 +265,10 @@ XVIII. El establecimiento de zoológicos, centros de exhibición de animales dom
 
 XIX. Las interacciones del sector acuícola con el medio ambiente y los ecosistemas acuáticos de tal manera que garanticen su uso y aprovechamiento sostenible.
 
+> <small>(ADICIONADA, G.G. 11 DE MAYO DE 2023)</small>
+
+XX. Fomentar y promover la optimización de la energía en todos los procesos y actividades de la entidad para lograr la eficiencia energética, así como el uso de energías renovables y limpias.
+
 ###### Artículo 2.
 
 4. En lo no expresamente previsto por el presente Libro se estará a lo establecido en el artículo 1.9 del presente Código.
@@ -490,6 +494,10 @@ IV. Aplicar los criterios de la Federación en las obras e instalaciones municip
 V. Aprobar e instrumentar el ordenamiento ecológico del Territorio del Estado con la participación de los ayuntamientos, considerando la información sobre las regiones o zonas geográficas vulnerables a los efectos adversos del cambio climático;
 
 VI. Celebrar convenios de coordinación con la Federación en las materias de este Libro para realizar actividades o ejercer facultades en bienes y zonas de jurisdicción federal de conformidad con las disposiciones aplicables, y celebrar acuerdos y convenios con Ayuntamientos sobre acciones de beneficio ambiental y ecológico;
+
+> <small>(ADICIONADA, G.G. 11 DE MAYO DE 2023)</small>
+
+VI Bis. Celebrar convenios de coordinación con la Federación para que se fomente y promueva el uso de las energías limpias y renovables, así como la optimización del uso de la energía en todos los procesos y actividades de la entidad para lograr la eficiencia energética;
 
 VII. Promover la concertación de acciones con los sectores social y privado en la materia del presente Libro;
 
@@ -750,6 +758,10 @@ V. El desarrollo de una política educativa que promueva los principios y práct
 VI. Que las instituciones de educación superior en el Estado y los organismos dedicados a la investigación científica y tecnológica desarrollen programas para la investigación y difusión de las causas y efectos de los fenómenos ambientales en la biodiversidad de la Entidad; y
 
 VII. La integración y ejecución de investigaciones científicas y sociales, además de programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los elementos y recursos naturales, proteger los ecosistemas y la biodiversidad en su conjunto. Para ello se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones de los sectores social y privado, investigadores, científicos y especialistas.
+
+> <small>(ADICIONADA, G.G. 11 DE MAYO DE 2023)</small>
+
+VIII. Establecer campañas para la correcta clasificación de los residuos sólidos urbanos, y la promoción de la economía circular.
 
 ###### Artículo 2.
 
@@ -4601,7 +4613,13 @@ III. Requerir a las autoridades municipales correspondientes y a los grandes gen
 
 IV. Formular e instrumentar un programa maestro con enfoque regional e intermunicipal para detener la creación de tiraderos a cielo abierto y proceder al cierre y recuperación de éstos; y
 
-V. Promover la investigación, desarrollo, uso y aplicación de tecnologías, equipos, sistemas y procesos que eliminen, reduzcan o minimicen la liberación al ambiente y la transferencia de uno a otro de sus elementos de contaminantes provenientes de la gestión integral de los residuos.
+> <small>(REFORMADA, G.G. 11 DE MAYO DE 2023)</small>
+
+V. Deberá promover la investigación, desarrollo, uso y aplicación de tecnologías, equipos, sistemas y procesos que eliminen, reduzcan o minimicen la liberación al ambiente y la transferencia de uno a otro de sus elementos de contaminantes provenientes de la gestión integral de los residuos;
+
+> <small>(ADICIONADA, G.G. 11 DE MAYO DE 2023)</small>
+
+VI. Integrar inventarios de tiraderos de residuos o sitios donde se han abandonado clandestinamente residuos de diferente índole en el territorio del Estado, que contengan los datos de su ubicación, origen, características y otros elementos de información que sean útiles para las autoridades competentes, con el objetivo de desarrollar medidas tendientes a evitar o reducir riesgos.
 
 ###### Artículo 4.
 
@@ -4611,7 +4629,9 @@ I. Promover el establecimiento de programas de minimización y gestión integral
 
 II. Fomentar el desarrollo de mercados para el reciclaje de residuos sólidos urbanos y de manejo especial que no estén expresamente atribuidos a la Federación o al Estado;
 
-III. Concertar con los sectores corresponsables el establecimiento de planes de manejo para tipos de residuos sólidos urbanos y de manejo especial de su competencia susceptibles de aprovechamiento de conformidad con las disposiciones de este Libro y en coordinación con la Secretaría;
+> <small>(REFORMADA, G.G. 11 DE MAYO DE 2023)</small>
+
+III. Concertar con los sectores corresponsables el establecimiento de planes de manejo para tipos de residuos sólidos urbanos y de manejo especial de su competencia susceptibles de aprovechamiento de conformidad con las disposiciones de este Libro y en coordinación con la Secretaría; para lo cual los municipios podrán fomentar el establecimiento de centros de acopio y clasificación de los Residuos Sólidos Urbanos en los municipios para su aprovechamiento y reincorporación en los procesos productivos favoreciendo una economía circular;
 
 IV. Elaborar inventarios de residuos sólidos urbanos y de manejo especial a través de los estudios de generación y caracterización de residuos y los muestreos aleatorios de cantidad y calidad de los residuos en las localidades en coordinación con la Secretaría y las autoridades ambientales del Gobierno Federal, así como con el apoyo de los diversos sectores sociales de su localidad para sustentar con base en ellos la formulación de los sistemas para su gestión integral;
 
@@ -4640,6 +4660,10 @@ XV. Atender los demás asuntos que en materia de residuos sólidos urbanos y de 
 XVI. Instalar de forma individual o regional o a través de concesiones con el sector privado, sitios de disposición final de residuos sólidos urbanos o de manejo especial que no estén expresamente atribuidos a la Federación o al Estado; y
 
 XVII. Otros asuntos que no estén expresamente atribuidos a la Federación o a otras dependencias o entidades de la administración pública del Estado de México.
+
+> <small>(ADICIONADA, G.G. 11 DE MAYO DE 2023)</small>
+
+XVIII. Coadyuvar, en el ámbito de su competencia, con las autoridades estatales para identificar tiraderos a cielo abierto y sitios donde se han abandonado clandestinamente residuos de diferente índole.
 
 ###### Artículo 4.
 
@@ -4679,9 +4703,15 @@ XIII. La limitación de la disposición final en celdas de confinamiento solo a 
 
 XIV. El fomento al desarrollo y uso de tecnologías, métodos, prácticas y procesos de producción y comercialización que favorezcan la minimización, eliminación o reaprovechamiento de los residuos sólidos urbanos y de manejo especial en forma sanitariamente segura, ambientalmente eficiente y económicamente viable sin provocar daño a la biodiversidad;
 
-XV. La planeación de sistemas de gestión integral de los residuos que combinen distintas formas de manejo dependiendo de los volúmenes y tipos de residuos generados y con un enfoque regional para maximizar el aprovechamiento de la infraestructura que se instale, y que atendiendo a criterios de economía de escala y de proximidad se debe reemplazar el enfoque tradicional centrado en el confinamiento como la opción principal buscando tecnologías alternativas;
+> <small>(REFORMADA, G.G. 11 DE MAYO DE 2023)</small>
+
+XV. La planeación de sistemas de gestión integral de los residuos que combinen distintas formas de manejo dependiendo de los volúmenes y tipos de residuos generados y con un enfoque regional para maximizar el aprovechamiento de la infraestructura que se instale, y que atendiendo a criterios de economía de escala y de proximidad se debe reemplazar el enfoque tradicional centrado en el confinamiento como la opción principal buscando tecnologías alternativas para la gestión segura e integral de los residuos sólidos urbanos y de manejo especial;
 
 XVI. El establecimiento de acciones orientadas a recuperar los sitios contaminados por la descarga inapropiada e incontrolada de los residuos sólidos y rehabilitar estas áreas degradadas;
+
+> <small>(ADICIONADA, G.G. 11 DE MAYO DE 2023)</small>
+
+XVI Bis. La implementación de acciones de carácter intersectorial dirigidas a identificar, clausurar y erradicar los tiraderos a cielo abierto o sitios de disposición clandestina de residuos de cualquier índole;
 
 XVII. La participación ciudadana en la formulación de planes, programas y ordenamientos relacionados con la gestión integral de los residuos y el acceso público a la información sobre todos los aspectos relacionados con la gestión integral;
 
@@ -4729,9 +4759,11 @@ Al elaborar los referidos ordenamientos jurídicos reglamentarias (sic) se tomar
 
 #### SECCION TERCERA. DE LOS INSTRUMENTOS ECONOMICOS
 
+> <small>(REFORMADO, G.G. 11 DE MAYO DE 2023)</small>
+
 ###### Artículo 4.
 
-13. La Secretaría en coordinación con las autoridades competentes evaluará, desarrollará y promoverá la implantación de instrumentos económicos, fiscales, financieros o de mercado que incentiven la prevención de la generación, la separación, acopio y aprovechamiento, así como el tratamiento, eliminación y disposición final de los residuos sólidos urbanos y de manejo especial. Entre este tipo de instrumentos se incluirá los relativos a los sistemas para el cobro del servicio de recolección y manejo de los residuos siguiendo los esquemas de pago variable en función del tipo de generadores, el volumen y características de los residuos.
+13. La Secretaría en coordinación con las autoridades competentes evaluará, desarrollará y promoverá la implantación de instrumentos económicos, fiscales, financieros o de mercado que incentiven la prevención de la generación, la separación, acopio, aprovechamiento, así como el tratamiento, valorización, eliminación y disposición final de los residuos sólidos urbanos y de manejo especial. Entre este tipo de instrumentos se incluirá los relativos a los sistemas para el cobro del servicio de recolección y manejo de los residuos siguiendo los esquemas de pago variable en función del tipo de generadores, el volumen y características de los residuos.
 
 ###### Artículo 4.
 
@@ -5243,7 +5275,9 @@ Además cuando los procesos utilizados incluyan confinamientos o depósito final
 
 V. Evitar el confinamiento de residuos líquidos o semisólidos sin que hayan sido sometidos a procesos para deshidratarlos, neutralizarlos y estabilizarlos;
 
-VI. Diseñar y construir las celdas de confinamiento teniendo en consideración las características y volúmenes de residuos a confinar y de conformidad con las normas oficiales mexicanas y otros ordenamientos aplicables. En cualquiera de los casos se deberá prevenir la formación e infiltración de lixiviados en los suelos, así como su vertimiento sin tratamiento al sistema municipal de drenaje, controlar y aprovechar la formación y emisión de biogás y establecer mecanismos para evitar la liberación de contaminantes al ambiente;
+> <small>(REFORMADA, G.G. 11 DE MAYO DE 2023)</small>
+
+VI. Diseñar y construir las celdas de confinamiento teniendo en consideración las características y volúmenes de residuos a confinar y de conformidad con las normas oficiales mexicanas y otros ordenamientos aplicables. En cualquiera de los casos se deberá prevenir la formación e infiltración de lixiviados en los suelos, así como su vertimiento sin tratamiento al sistema municipal de drenaje, controlar, captar, aprovechar y valorizar la formación y emisión de biogás, y establecer mecanismos para evitar la liberación de contaminantes al ambiente;
 
 VII. Contar con sistemas de monitoreo de emisiones y controles de generación de descargas que puedan impactar a la salud o al ambiente;
 
@@ -8294,3 +8328,13 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 11 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 160.- POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 4.6, LA FRACCIÓN III DEL ARTÍCULO 4.7, LA FRACCIÓN XV DEL ARTÍCULO 4.9, EL ARTÍCULO 4.13 Y LA FRACCIÓN VI DEL ARTÍCULO 4.60; SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 2.3, LA FRACCIÓN VI BIS AL ARTÍCULO 2.7, LA FRACCIÓN VIII AL ARTÍCULO 2.18, LA FRACCIÓN VI AL ARTÍCULO 4.6, LA FRACCIÓN XVIII AL ARTÍCULO 4.7 Y LA FRACCIÓN XVI BIS AL ARTÍCULO 4.9 DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO, Y SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 125 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este Decreto.
