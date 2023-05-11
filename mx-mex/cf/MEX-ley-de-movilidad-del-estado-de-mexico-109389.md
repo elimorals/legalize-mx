@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-movilidad-del-estado-de-mexico-109389"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-12"
-last_updated: "2022-10-07"
+last_updated: "2023-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE MOVILIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 12 de agosto de 2015.
 
@@ -317,7 +317,9 @@ a bis) (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 b) Secretaría de Finanzas.
 
-c) (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 11 DE MAYO DE 2023)</small>
+
+c) Secretaría de las Mujeres.
 
 > <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -371,7 +373,11 @@ XV. Implementar programas que incentiven el uso de tecnologías sustentables en 
 
 XVI. Analizar y utilizar la información del Registro Público de Movilidad para la toma de decisiones.
 
-XVII. Las demás que se establezcan en cualquier otra disposición jurídica.
+> <small>(ADICIONADA, G.G. 11 DE MAYO DE 2023)</small>
+
+XVII. Generar e implementar políticas públicas y programas que incentiven el uso de herramientas tecnológicas para la prevención y atención de la violencia de género y desapariciones en el transporte público con base en el sistema de georreferenciación de la Secretaría de Seguridad.
+
+XVIII. Las demás que se establezcan en cualquier otra disposición jurídica.
 
 El Comité Estatal de Movilidad deberá recibir y tomar en cuenta las propuestas específicas en materia de movilidad que envíen los Municipios, a efecto de darle cumplimiento a lo establecido en este artículo y en su caso resolver las discrepancias entre ayuntamientos y Gobierno del Estado.
 
@@ -714,6 +720,10 @@ II. Los instrumentos mediante los cuales se formalice el otorgamiento de la conc
 III. Las concesiones y proyectos de asociación con particulares solo podrán otorgarse a sociedades mercantiles de nacionalidad mexicana constituidas como sociedades anónimas de capital variable.
 
 No se podrá otorgar ni renovar concesión alguna si el concesionario no garantiza la contratación de una póliza de seguro vigente para indemnizar los daños y perjuicios, que con motivo de dicha actividad pudiese ocasionar a los usuarios, peatones, conductores o terceros en su persona o patrimonio.
+
+> <small>(ADICIONADO, G.G. 11 DE MAYO DE 2023)</small>
+
+No se podrá otorgar o renovar concesión alguna si el concesionario no acredita la capacitación de las y los Choferes en temas relacionados con la prevención de las violencias contra las niñas, niños, adolescentes y mujeres, así como en materia de desaparición de personas que para tal efecto se determine.
 
 ###### Artículo 37.
 
@@ -1272,3 +1282,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan al presente Decreto.
+
+G.G. 11 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 159.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY PARA PREVENIR Y ATENDER EL ACOSO ESCOLAR EN EL ESTADO DE MÉXICO, Y DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
+
+Para ejercicios presupuestales posteriores, las dependencias del Gobierno Estatal asignarán la cantidad de recursos que consideren necesarios con base en sus estadísticas, para continuar la aplicación de la presente reforma, debiendo establecer en el Presupuesto de Egresos, un apartado específico de recurso y el destino de estos.
