@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-y-atender-el-acoso-escolar-en-el-estado-12603
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-25"
-last_updated: "2018-01-25"
+last_updated: "2023-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY PARA PREVENIR Y ATENDER EL ACOSO ESCOLAR EN EL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
 
 Ley publicada en la Sección Décima Primera de la Gaceta del Gobierno del Estado de México, el jueves 25 de enero de 2018.
 
@@ -229,7 +229,13 @@ IV. Acoso verbal: toda acción no corporal en la que se emplea el lenguaje, que 
 
 V. Acoso cibernético: la que se produce mediante plataformas virtuales y herramientas tecnológicas para exponer la intimidad del menor hacia otras personas con la finalidad de propinar un daño.
 
-VI. Acoso sexual: toda acción u omisión que amenaza, pone en riesgo o lesiona la libertad, seguridad, integridad y desarrollo psicosexual de las y los estudiantes, como miradas o palabras lascivas, hostigamiento, prácticas sexuales no voluntarias, acoso, violación o el uso denigrante de la imagen de las y los estudiantes.
+> <small>(REFORMADA, G.G. 11 DE MAYO DE 2023)</small>
+
+VI. Acoso Sexual: cualquier acto de carácter erótico o sexual, cometido entre las y los estudiantes, que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las niñas, niños o adolescentes y comprende la invasión física del cuerpo humano, pudiendo incluir actos que no involucren penetración o incluso contacto físico y aquellos que se ejerzan mediante el uso de Tecnologías de la Información y Comunicación para las actividades escolares.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, G.G. 11 DE MAYO DE 2023.]</small>
+
+El acoso sexual puede comprender, más no limitarse, a toda forma de violencia verbal y psicológica, exposición a materiales de índole sexual, agresión sexual, violación, abuso sexual, comentarios o insinuaciones sexuales no deseadas y acciones para comercializar o utilizar de cualquier modo la sexualidad de una persona mediante coacción.
 
 ###### Artículo 13.
 
@@ -260,6 +266,10 @@ III. Atención.
 IV. Eliminación.
 
 Sin detrimento de lo anterior, la Secretaría podrá incluir otras acciones o procedimientos a seguir cuando lo estime necesario y conveniente para prevenir, detectar, atender y erradicar el acoso escolar, y en estricto apego a las Leyes pertinentes.
+
+> <small>(ADICIONADO, G.G. 11 DE MAYO DE 2023)</small>
+
+Tratándose de actos de acoso sexual, dentro del Protocolo se integrarán las directrices de atención de primer contacto, bajo un marco de perspectiva de género y preservación del interés superior de la niñez.
 
 ###### Artículo 16.
 
@@ -384,3 +394,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MTRO. SERGIO ALEJANDRO OZUNA RIVERO
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 11 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 159.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY PARA PREVENIR Y ATENDER EL ACOSO ESCOLAR EN EL ESTADO DE MÉXICO, Y DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
