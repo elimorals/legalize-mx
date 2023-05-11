@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-5946"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-10"
-last_updated: "2020-09-29"
+last_updated: "2023-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDIGENAS DEL ESTADO DE MEXICO
 
-LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDIGENAS DEL ESTADO DE MEXICO
+LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el lunes 10 de octubre de 1994.
 
@@ -101,7 +101,17 @@ XVI. Expedir en el ámbito de su competencia, el Reglamento Interior y las dispo
 
 XVII. Intervenir en casos de controversias entre las autoridades municipales y las comunidades indígenas, para propiciar acuerdos conciliatorios;
 
-XVIII. Las demás que le establezcan otras disposiciones legales y las que sean necesarias para el cumplimiento de su objeto.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MAYO DE 2023)</small>
+
+XVIII. Generar acciones para sensibilizar respecto de la incompatibilidad expresa de los sistemas normativos propios en la atención o intervención en asuntos relacionados con delitos o actos de naturaleza sexual al interior de las comunidades;
+
+> <small>(ADICIONADA, G.G. 11 DE MAYO DE 2023)</small>
+
+XIX. Generar políticas públicas para la atención, prevención, erradicación y denuncia de cualquier tipo de violencia, en especial la sexual, la familiar y de género, al interior de las comunidades indígenas desde una perspectiva intercultural, de género, de infancia, adolescencia y discapacidad, así como difundir información sobre los recursos legales a favor de las víctimas de violencia, mediante su traducción en lenguas indígenas y formatos accesibles, en coordinación con las autoridades competentes, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 11 DE MAYO DE 2023)</small>
+
+XX. Las demás que le establezcan otras disposiciones legales y las que sean necesarias para el cumplimiento de su objeto.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 8 DE AGOSTO DE 2007)</small>
 
@@ -512,3 +522,13 @@ DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se
 DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
 
 DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 11 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 159.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY PARA PREVENIR Y ATENDER EL ACOSO ESCOLAR EN EL ESTADO DE MÉXICO, Y DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
