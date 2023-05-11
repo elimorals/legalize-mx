@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-98504
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-05"
-last_updated: "2016-12-20"
+last_updated: "2023-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
 
 Ley publicada en la Sección Tercera en la Gaceta del Gobierno del Estado de México, el miércoles 5 de febrero de 2014.
 
@@ -55,9 +55,9 @@ La presente Ley tiene por objeto:
 
 I. Garantizar a las niñas y niños, el acceso a los servicios de atención, cuidado y desarrollo integral en condiciones de igualdad, calidad, calidez, seguridad y protección adecuadas;
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 11 DE MAYO DE 2023)</small>
 
-II. Regular las bases, condiciones y procedimientos mínimos para la creación, administración y funcionamiento de los centros de atención, cuidado y desarrollo integral infantil;
+II. Regular las bases, condiciones y procedimientos mínimos para la creación, administración, funcionamiento, monitoreo y verificación de ambientes seguros y libres de violencia de los Centros de Atención, Cuidado y Desarrollo Integral Infantil;
 
 III. Establecer la concurrencia entre el Estado y los municipios en la regulación de los Centros de Atención, Cuidado y Desarrollo Integral Infantil;
 
@@ -1080,3 +1080,13 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 11 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 159.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY PARA PREVENIR Y ATENDER EL ACOSO ESCOLAR EN EL ESTADO DE MÉXICO, Y DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
