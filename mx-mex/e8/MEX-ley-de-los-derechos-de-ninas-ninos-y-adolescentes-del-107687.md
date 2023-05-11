@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2023-04-28"
+last_updated: "2023-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -321,6 +321,10 @@ Las autoridades estatales encargadas de la atención y protección a las víctim
 
 Las autoridades municipales establecerán unidades de primer contacto para la atención de niñas, niños y adolescentes víctimas del delito y de violaciones de sus derechos humanos, en términos de las disposiciones aplicables.
 
+> <small>(ADICIONADO, G.G. 11 DE MAYO DE 2023)</small>
+
+Es obligación de las y los servidores públicos, sin importar su nivel o calidad, el hacer del conocimiento o denunciar ante las instancias competentes, cualquier presunto caso de violencia en contra de niñas, niños o adolescentes, teniendo como prioridad la protección integral de la niñez y su interés superior.
+
 ### Capítulo Segundo. Del Derecho de Prioridad
 
 ###### Artículo 12.
@@ -427,7 +431,9 @@ Con el fin de garantizar la igualdad sustantiva entre niñas, niños y adolescen
 
 I. Transversalizar la perspectiva de género en todas sus actuaciones y procurar el uso de un lenguaje no sexista en sus documentos oficiales.
 
-II. Diseñar, implementar y evaluar programas, y políticas públicas a través de acciones afirmativas tendientes a eliminar los obstáculos que impidan la igualdad de oportunidades, acceso y permanencia a la alimentación adecuada, a un estilo de vida saludable, a la educación y a la atención médica de niñas, niños y adolescentes.
+> <small>(REFORMADA, G.G. 11 DE MAYO DE 2023)</small>
+
+II. Diseñar, implementar y evaluar programas, y políticas públicas a través de acciones afirmativas tendientes a visibilizar y eliminar los obstáculos que impidan la igualdad sustantiva, de oportunidades, acceso y permanencia a la alimentación adecuada, a un estilo de vida saludable, a la educación, incluyendo la educación sexual integral, reproductiva y oportuna, conforme a su edad, el desarrollo evolutivo, cognoscitivo y madurez, basada en evidencia científica disponible, así como a la atención médica de niñas, niños y adolescentes.
 
 III. Implementar acciones específicas para alcanzar la eliminación de costumbres, tradiciones, prejuicios, roles y estereotipos sexistas o de cualquier otra índole que estén basadas en la idea de inferioridad.
 
@@ -490,6 +496,10 @@ La edad mínima para que las personas contraigan matrimonio será de 18 años.
 ###### Artículo 26.
 
 Niñas, niños y adolescentes tienen derecho a vivir libres de toda forma y tipo de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
+
+> <small>(ADICIONADO, G.G. 11 DE MAYO DE 2023)</small>
+
+Las instancias competentes en casos de niñas, niños y adolescentes, víctimas de delitos de feminicidio, desaparición, feminicidio en grado de tentativa o de aquellos que afecten gravemente su integridad física y psicológica; deberán de ejecutar de manera inmediata los mecanismos de atención de denuncias y los protocolos de actuación señalados por la ley, para la implementación de acciones de asistencia jurídica, social y psicológica y de reparación integral del daño, destacando el acompañamiento y atención psicosocial, en sus planes y políticas.
 
 En los casos en que las niñas, niños y adolescentes sean víctimas de delitos se aplicarán las disposiciones aplicables. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
 
@@ -1163,6 +1173,10 @@ III. Aquellos adolescentes sujetos a los procedimientos establecidos en la Ley d
 
 IV. Niñas, niños y adolescentes en situación de calle, de acuerdo con la legislación y políticas aplicables en el Estado de México.
 
+> <small>(ADICIONADA, G.G. 11 DE MAYO DE 2023)</small>
+
+V. Niñas, niños y adolescentes, víctimas directas o indirectas de violencia familiar, feminicidio, feminicidio en grado de tentativa, desaparición forzada o cometida por particulares, violencia sexual o cualquier otro que afecte gravemente su integridad física y psicológica.
+
 ###### Artículo 69.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, evaluarán el impacto de las políticas públicas y prácticas gubernamentales relacionadas con niñas, niños y adolescentes en situaciones especiales.
@@ -1631,7 +1645,11 @@ XXI. Orientar a las autoridades correspondientes del Estado para que den debido 
 
 XXII. Remitir al Sistema Nacional DIF la información vinculada a niñas, niños y adolescentes migrantes.
 
-XXIII. Las demás que les confieran otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, G.G. 11 DE MAYO DE 2023)</small>
+
+XXIII. Impulsar acciones en materia de acompañamiento y coadyuvancia en la investigación, acceso a la justicia y reparación integral del daño en los casos de feminicidio de niñas y adolescentes.
+
+XXIV. Las demás que les confieran otras disposiciones jurídicas aplicables.
 
 ###### Artículo 91.
 
@@ -2324,3 +2342,15 @@ G.G. 28 DE ABRIL DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 11 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 159.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY PARA PREVENIR Y ATENDER EL ACOSO ESCOLAR EN EL ESTADO DE MÉXICO, Y DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
+
+Para ejercicios presupuestales posteriores, las dependencias del Gobierno Estatal asignarán la cantidad de recursos que consideren necesarios con base en sus estadísticas, para continuar la aplicación de la presente reforma, debiendo establecer en el Presupuesto de Egresos, un apartado específico de recurso y el destino de estos.
