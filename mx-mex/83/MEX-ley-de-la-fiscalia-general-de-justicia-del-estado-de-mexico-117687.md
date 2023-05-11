@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-fiscalia-general-de-justicia-del-estado-de-mexico-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-09"
-last_updated: "2023-04-14"
+last_updated: "2023-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 14 DE ABRIL DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado Libre y Soberano de México, el viernes 9 de diciembre de 2016.
 
@@ -153,7 +151,9 @@ IX. Vigilar que las y los agentes del Ministerio Público soliciten y ejecuten c
 
 X. Formar y actualizar a las y los servidores públicos para los mecanismos alternativos de solución de controversias en materia penal, la investigación, persecución y sanción de los delitos y en las demás materias que sean de su competencia, a través de la implementación del servicio de carrera de las y los agentes del ministerio público, las y los policías de investigación, las y los peritos, las y los orientadores jurídicos y las y los facilitadores de mecanismos alternativos de solución de controversias en materia penal.
 
-XI. Impartir a sus servidores públicos capacitación sistemática, especializada y permanente, en materia de derechos de las niñas, niños, adolescentes y mujeres, para la debida diligencia en la conducción de la investigación y procesos penales, especialmente de los delitos de violencia de género.
+> <small>(REFORMADA, G.G. 11 DE MAYO DE 2023)</small>
+
+XI. Impartir a las personas servidoras públicas de la Fiscalía, capacitación sistemática, especializada, permanente y acreditable, en materia de derechos humanos de niñas, niños y adolescentes, así como de mujeres, personas adultas mayores y personas con discapacidad, encaminada a efectuar con la debida diligencia la conducción de la investigación y procesos penales, especialmente tratándose de los delitos vinculados a la violencia de género, violencia familiar, contra la libertad sexual, desaparición de personas y trata de personas.
 
 XII. Llevar a cabo todos los actos necesarios para la constitución y administración del patrimonio de la Fiscalía, en el ámbito de su competencia, conforme a la normatividad aplicable.
 
@@ -715,9 +715,9 @@ La noticia de hechos que inicie el Ministerio Público será a partir de una den
 
 II. Iniciar la noticia de hechos, sin demora, en todos los casos en que tenga conocimiento de la desaparición o extravío de alguna persona y elevarla inmediatamente a carpeta de investigación cuando se identifiquen elementos que presuman la comisión de un hecho delictivo. Asimismo, se actualizará la base de datos con la información de los reportes de personas desaparecidas o extraviadas, solicitar informes y enviar alertas a dependencias y entidades de la Federación, de los Estados y Municipios para su búsqueda y localización.
 
-> <small>(ADICIONADA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 11 DE MAYO DE 2023)</small>
 
-II Bis. Iniciar la carpeta de investigación, de oficio y sin demora, en todos los casos en que tenga conocimiento de delitos relacionados con violencia de género y determinar de manera inmediata las medidas de protección que correspondan.
+II Bis. Iniciar la carpeta de investigación, de oficio y sin demora, en todos los casos en que tenga conocimiento de delitos vinculados a la violencia de género, violencia familiar, contra la libertad sexual, trata de personas y desaparición de personas; así como determinar de manera inmediata las medidas de protección que correspondan.
 
 III. Registrar sus actuaciones en el sistema informático de la Fiscalía, bajo el número interno de control o el número único de causa que genere el Ministerio Público y alimentarlo con la información requerida, de conformidad con las disposiciones jurídicas aplicables y la normatividad que emita la o el Fiscal General.
 
@@ -1463,7 +1463,9 @@ III. Abstenerse de distraer de su objeto, para uso propio o ajeno, el equipo, el
 
 IV. Solicitar oportunamente o realizar conforme a derecho los informes o dictámenes periciales o actuaciones policiales o ministeriales correspondientes.
 
-V. Practicar oportunamente las actuaciones o diligencias necesarias en la función sustantiva a su cargo conforme a las disposiciones jurídicas aplicables.
+> <small>(REFORMADA, G.G. 11 DE MAYO DE 2023)</small>
+
+V. Practicar oportunamente las actuaciones o diligencias necesarias en la función sustantiva a su cargo, conforme a las disposiciones y principios jurídicos aplicables, las cuales deberán realizarse desde las perspectivas de género e infancia y adolescencia, con la finalidad de evitar una victimización secundaria o el uso de estereotipos discriminatorios, que obstaculicen a las víctimas el acceso a la justicia.
 
 VI. Reconocer o promover ante la autoridad judicial el reconocimiento de la calidad de víctima u ofendido en términos de las disposiciones jurídicas aplicables.
 
@@ -1908,3 +1910,15 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. La Legislatura Local deberá expedir la convocatoria para la designación de las personas titulares del Órgano Interno de Control a que se refiere este Decreto dentro los 30 días naturales siguientes a la entrada en vigor del presente Decreto.
 
 Las personas titulares de los Órganos Internos de Control que actualmente ejercen el cargo, podrán participar en el procedimiento de designación o ratificación que al efecto realice la Legislatura.
+
+G.G. 11 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 159.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY PARA PREVENIR Y ATENDER EL ACOSO ESCOLAR EN EL ESTADO DE MÉXICO, Y DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustes necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
+
+Para ejercicios presupuestales posteriores, las dependencias del Gobierno Estatal asignarán la cantidad de recursos que consideren necesarios con base en sus estadísticas, para continuar la aplicación de la presente reforma, debiendo establecer en el Presupuesto de Egresos, un apartado específico de recurso y el destino de estos.
