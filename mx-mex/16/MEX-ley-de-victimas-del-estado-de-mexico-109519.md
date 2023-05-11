@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-victimas-del-estado-de-mexico-109519"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-17"
-last_updated: "2022-05-06"
+last_updated: "2023-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE MAYO DE 2023.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el lunes 17 de agosto de 2015.
 
@@ -245,7 +245,7 @@ V. Enfoque diferencial y especializado: Se reconoce la existencia de grupos de p
 
 En todo momento se reconocerá el interés superior de niñas, niños y adolescentes.
 
-Todas las normas, instituciones y actos que se desprendan de la presente Ley, deberán integrar un enfoque transversal de género y de protección de personas y grupos en situación de vulnerabilidad.
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 11 DE MAYO DE 2023)</small>
 
 Este principio incluye la adopción de medidas que respondan a la atención de dichas particularidades y grado de vulnerabilidad, reconociendo igualmente que ciertos daños sufridos por su gravedad, requieren de un tratamiento especializado para dar respuesta a su rehabilitación y reintegración a la sociedad.
 
@@ -309,6 +309,28 @@ XVII. Transparencia: Todas las acciones, mecanismos y procedimientos de la autor
 
 XVIII. Trato preferente: Todas las autoridades en el ámbito de sus competencias, tienen la obligación de garantizar el trato digno y preferente a las víctimas y ofendidos.
 
+> <small>(ADICIONADA, G.G. 11 DE MAYO DE 2023)</small>
+
+XIX. Transversalidad de la perspectiva de género: Es el enfoque e integración sistémica de las situaciones, intereses, prioridades, que permiten garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se emita por parte del Estado.
+
+Los actos y reglamentos que se desprendan de la presente Ley, deberán integrar un enfoque transversal de género y de protección de personas y grupos en situación de vulnerabilidad;
+
+> <small>(ADICIONADA, G.G. 11 DE MAYO DE 2023)</small>
+
+XX. Perspectiva de género: Es una visión científica, analítica y política sobre las mujeres y los hombres; se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+
+> <small>(ADICIONADA, G.G. 11 DE MAYO DE 2023)</small>
+
+XXI. Interseccionalidad: Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades, y
+
+> <small>(ADICIONADA, G.G. 11 DE MAYO DE 2023)</small>
+
+XXII. Perspectiva de infancia y adolescencia: Es el conjunto de acciones, procesos y metodologías que permiten crear las condiciones adecuadas para que, a través de técnicas pedagógicas y didácticas, se garantice la no discriminación, la vida, la supervivencia y el desarrollo de niñas, niños y adolescentes, así como el pleno ejercicio de sus derechos.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XXII, G.G. 11 DE MAYO DE 2023.]</small>
+
+Implica, entre otros, el respeto del interés superior de la niñez y una comunicación en forma clara y asertiva con la finalidad de alcanzar su libre opinión, de acuerdo con su edad, grado de madurez y sus ciclos vitales.
+
 > <small>(REFORMADO, G.G. 16 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 7.
@@ -318,6 +340,20 @@ En caso de conflicto entre las disposiciones contenidas en esta Ley y otras norm
 ###### Artículo 8.
 
 Las medidas de atención y protección a que se refiere la Ley serán proporcionadas por las autoridades en el ámbito de su competencia.
+
+> <small>(ADICIONADO, G.G. 11 DE MAYO DE 2023)</small>
+
+###### Artículo 8 Bis.
+
+Las Medidas de Protección se implementarán bajo los siguientes principios:
+
+I. Principio de protección: Considera primordial la protección de la vida, la integridad física, la libertad y la seguridad de las personas;
+
+II. Principio de necesidad y proporcionalidad: Las medidas de protección deben responder al nivel de riesgo o peligro en que se encuentre la persona destinataria, y deben ser aplicadas en cuanto sean necesarias para garantizar su seguridad o reducir los riesgos existentes;
+
+III. Principio de confidencialidad: Toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de la investigación o del proceso respectivo, y
+
+IV. Principio de oportunidad y eficacia: Las medidas deben ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima y deben ser otorgadas e implementadas a partir del momento y durante el tiempo que garanticen su objetivo.
 
 > <small>(REFORMADO, G.G. 16 DE AGOSTO DE 2016)</small>
 
@@ -1566,6 +1602,10 @@ En ninguno de los casos, la reparación integral podrá ser igual o mayor a los 
 La compensación subsidiaria se otorgará en aquellos casos en que la víctima haya sufrido menoscabo, o si la víctima directa hubiera fallecido o sufrido un deterioro incapacitante en su integridad física y/o mental, siempre y cuando exista una sentencia firme que no se haya podido ejecutar, cuyo monto será hasta de mil quinientas unidades de medida y actualización, debiendo ser proporcional sin implicar el enriquecimiento para la víctima.
 
 En el caso del delito de feminicidio y homicidio doloso de mujeres la compensación subsidiaria podrá ser de hasta cinco mil unidades de medida y actualización y sí este se presentara en transporte público de pasajeros, oficiales, escolares en servicio u otros, dicha cantidad podría elevarse hasta tres veces.
+
+> <small>(ADICIONADO, G.G. 11 DE MAYO DE 2023)</small>
+
+Tratándose de delitos de feminicidio y homicidio doloso de mujeres o su tentativa, las víctimas u ofendidos que cumplan con los requisitos establecidos en la normatividad aplicable, tendrán acceso a los programas con perspectiva de género y de protección a niñas, niños y adolescentes con los que cuente el Gobierno del Estado de México.
 
 > <small>(ADICIONADO, G.G. 16 DE AGOSTO DE 2016)</small>
 
@@ -2852,3 +2892,13 @@ CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglame
 Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de la Mujer serán atendidos hasta su conclusión por la Secretaría de las Mujeres.
 
 Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de la Mujer de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 11 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 159.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY PARA PREVENIR Y ATENDER EL ACOSO ESCOLAR EN EL ESTADO DE MÉXICO, Y DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. Las dependencias encargadas de aplicar la reforma, realizarán en el presente ejercicio fiscal, una reconducción o ajustas necesarios a su presupuesto, a efecto de poder llevar a cabo su implementación.
