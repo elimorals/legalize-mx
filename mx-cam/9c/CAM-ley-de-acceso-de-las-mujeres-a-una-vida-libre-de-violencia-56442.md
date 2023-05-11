@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2023-04-10"
+last_updated: "2023-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -51,9 +51,11 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECH
 
 La presente ley es de orden público e interés social y tiene por objeto prevenir, atender, sancionar y erradicar las violencias contra las mujeres, adolescentes y niñas, así como establecer los principios y mecanismos para el pleno acceso a una vida libre de violencias, además de garantizar el goce y ejercicio de sus derechos humanos y fortalecer el régimen democrático establecido en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 2.
 
-Los principios rectores para el acceso de las mujeres a una vida libre de violencia son:
+Los principios rectores para el acceso de las mujeres, adolescentes y niñas a una vida libre de violencia que deberán ser observados en la elaboración y ejecución de las políticas públicas del Estado son:
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
@@ -69,9 +71,9 @@ III. La no discriminación.
 
 IV. La libertad y autodeterminación de las mujeres;
 
-> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2023)</small>
 
-V. El pluralismo social y la multiculturalidad de las mujeres;
+V. El pluralismo social, la multiculturalidad e interculturalidad de las mujeres;
 
 > <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
@@ -84,6 +86,18 @@ VII. La integración plena y total de las mujeres a la vida democrática y produ
 > <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 VIII. La dignidad de las mujeres.
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2023)</small>
+
+IX. La debida diligencia;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2023)</small>
+
+X. La interseccionalidad;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2023)</small>
+
+XI. El enfoque diferencial.
 
 > <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
@@ -345,11 +359,17 @@ El Estado y los Municipios se coordinarán para establecer el Sistema Estatal pa
 
 El Sistema Estatal se conformará por los titulares, o las personas que estos designen de:
 
-I. La Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2023)</small>
 
-II. La Secretaría de Desarrollo Social y Humano, quien lo presidirá;
+I. La Secretaría de Gobierno;
 
-III. La Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2023)</small>
+
+II. La Secretaría de Bienestar, quien lo presidirá;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2023)</small>
+
+III. La Secretaría de Seguridad y Protección Ciudadana;
 
 IV. La Fiscalía General del Estado;
 
@@ -357,7 +377,15 @@ V. La Secretaría de Educación;
 
 VI. La Secretaría de Salud;
 
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2023)</small>
+
+VI Bis. La Secretaría de Desarrollo Económico;
+
 VII. El Instituto de la Mujer del Estado, quien ocupará la Secretaría Ejecutiva del Sistema Estatal;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2023)</small>
+
+VII Bis. La Comisión Estatal de Desarrollo de Suelo y Vivienda;
 
 VIII. DIF Estatal;
 
@@ -479,15 +507,23 @@ XI. Impulsar la creación de refugios para la atención y protección de las ví
 
 XII. Difundir por todos los medios de comunicación el contenido de esta Ley;
 
-XIII. Celebrar convenios de cooperación, coordinación y concertación con los sectores públicos social y privado en la materia; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2023)</small>
 
-XIV. Las demás previstas en esta ley y en otras disposiciones aplicables.
+XIII. Celebrar convenios de cooperación, coordinación y concertación con los sectores públicos social y privado en la materia;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2023)</small>
+
+XIV. Impulsar acciones para el otorgamiento de financiamientos preferentemente a mujeres, en especial, a jefas de familia o aquellas que sean o hayan sido víctimas de violencia, a fin de garantizar su derecho a la vivienda, mejorar su calidad de vida y la de sus familias, así como disminuir la brecha de género en esta materia.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2023)</small>
+
+XV. Las demás previstas en esta ley y en otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 24.
 
-La Secretaría General de Gobierno tendrá a su cargo:
+La Secretaría de Gobierno tendrá a su cargo:
 
 I. A propuesta del Instituto de la Mujer formular las bases de coordinación entre las autoridades estatales y municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
@@ -501,11 +537,11 @@ V. (DEROGADA, P.O. 27 DE MAYO DE 2020)
 
 VI. Las demás previstas en esta ley y en otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 25.
 
-La Secretaría de Desarrollo Social y Humano será la encargada de:
+La Secretaría de Bienestar será la encargada de:
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2020)</small>
 
@@ -517,9 +553,11 @@ III. Promover políticas de igualdad de condiciones y oportunidades entre mujere
 
 IV. Las demás previstas en esta ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 26.
 
-La Secretaría de Seguridad Pública, tendrá a su cargo:
+La Secretaría de Seguridad Pública y Protección Ciudadana, tendrá a su cargo:
 
 I. Diseñar la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado;
 
@@ -549,7 +587,17 @@ VI. Diseñar y difundir materiales educativos que promuevan la prevención y ate
 
 VII. Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las mujeres y políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-VIII. Las demás previstas en esta ley y en otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2023)</small>
+
+VIII. Garantizar, mediante acciones, que la educación que se imparte en el Estado cumpla con la prohibición de discriminar por razón de género y evitar que las alumnas embarazadas sean expulsadas o sufran menoscabo en su derecho a la educación en los centros educativos, de conformidad con lo establecido en la Ley de Educación del Estado;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2023)</small>
+
+IX. Realizar, en coordinación con el Instituto de la Mujer del Estado, campañas de prevención de la violencia en el noviazgo, entre la población de adolescentes y jóvenes estudiantes de la Entidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2023)</small>
+
+X. Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 ###### ARTÍCULO 28.
 
@@ -601,6 +649,26 @@ XI.- Celebrar convenios de cooperación, coordinación y concertación en la mat
 
 XII.- Las demás previstas en esta ley y en otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2023)</small>
+
+ARTÍCULO 28 BIS. La Secretaría de Desarrollo Económico tendrá a su cargo:
+
+I. Introducir en la política económica estatal la perspectiva de género y las acciones afirmativas a favor de las mujeres en situación de vulnerabilidad;
+
+II. Fomentar programas de apoyo a las mujeres; y
+
+III. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2023)</small>
+
+ARTÍCULO 28 TER. Corresponde a la Comisión Estatal de Desarrollo de Suelo y Vivienda:
+
+I. Introducir en la política de vivienda estatal la perspectiva de género y las acciones afirmativas a favor de las mujeres en situación de vulnerabilidad;
+
+II. Promocionar programas que propicien la igualdad y no discriminación en el acceso a la vivienda o financiamientos para mujeres; y
+
+III. Las demás previstas en esta ley y en otras disposiciones aplicables.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 29.
@@ -617,9 +685,17 @@ IV. Brindar a las víctimas o al agresor, en su caso, la información integral s
 
 V. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de víctimas atendidas;
 
-VI. Brindar protección para salvaguardar la integridad física de las mujeres que denuncien la violencia cometida en su contra; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2023)</small>
 
-VII. Las demás previstas en esta ley y en otras disposiciones aplicables.
+VI. Brindar protección para salvaguardar la integridad física de las mujeres que denuncien la violencia cometida en su contra;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2023)</small>
+
+VII. Brindar procedimientos expeditos y accesibles de procuración de justicia;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2023)</small>
+
+VIII. Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 ###### ARTÍCULO 30.
 
@@ -664,6 +740,10 @@ IV. Informar sobre los procedimientos judiciales en materia de violencia de gén
 V. Coordinar, dirigir y administrar las órdenes y medidas de protección e informar sobre las circunstancias en cómo se ejecutan;
 
 VI. Alimentar el Banco Estatal de Datos en coordinación con el Instituto de la Mujer del Estado Campeche;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2023)</small>
+
+VI Bis. Procurar procedimientos expeditos y accesibles de impartición de justicia;
 
 VII. Emitir sus resoluciones con base en los derechos humanos de las mujeres, reconocidos en la constitución Política de los Estados Unidos Mexicanos, En la Constitución Política del Estado, en los Tratados Internacionales sobre derechos humanos de las mujeres; en la jurisprudencia internacional en la materia y bajo los principios de perspectiva de género, debido proceso y acceso a la justicia;
 
@@ -919,7 +999,9 @@ III. Recibir información veraz y suficiente que les permita decidir sobre las o
 
 IV. Contar con asesoría jurídica gratuita y expedita;
 
-V. Recibir información y atención médica y psicológica;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2023)</small>
+
+V. Recibir atención, información y acompañamiento médico y psicológico de forma eficiente y gratuita;
 
 VI. Ser aceptada en un refugio, mientras lo necesite;
 
@@ -927,7 +1009,25 @@ VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácti
 
 VIII. En los casos de violencia familiar, las mujeres que tengan hijas y/o hijos podrán acudir a los refugios con éstos; y
 
-IX. Los demás señalados en esta ley y otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2023)</small>
+
+IX. No ser revictimizadas;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2023)</small>
+
+X. Contar con acceso a la atención integral, multidisciplinaria y trasversal en los Centros de Justicia para las Mujeres;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2023)</small>
+
+XI. Recibir información en su idioma o lengua materna sobre sus derechos y el progreso de los trámites judiciales y administrativos;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2023)</small>
+
+XII. Ser protegidas en su identidad, la de su familia y sus datos personales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2023)</small>
+
+XIII. Los demás señalados en esta ley y otras disposiciones legales.
 
 ###### ARTÍCULO 34.
 
@@ -1090,3 +1190,15 @@ P.O. 10 DE ABRIL DE 2023.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 11 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 228 POR EL QUE "SE REFORMAN EL PÁRRAFO PRIMERO Y LA FRACCIÓN V DEL ARTÍCULO 2; LAS FRACCIONES I, II Y III DEL ARTÍCULO 18; LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 23; EL PÁRRAFO PRIMERO DEL ARTÍCULO 24; EL PÁRRAFO PRIMERO DEL ARTÍCULO 25; EL PÁRRAFO PRIMERO DEL ARTÍCULO 26; LA FRACCIÓN VIII DEL ARTÍCULO 27; LAS FRACCIONES VI Y VII DEL ARTÍCULO 29; LAS FRACCIONES V Y IX DEL ARTÍCULO 33 Y, SE ADICIONAN LAS FRACCIONES IX, X Y XI AL ARTÍCULO 2; LAS FRACCIONES VI BIS Y VII BIS AL ARTÍCULO 18; LA FRACCIÓN XV AL ARTÍCULO 23; LAS FRACCIONES IX Y X AL ARTÍCULO 27; LOS ARTÍCULOS 28 BIS Y 28 TER; LA FRACCIÓN VIII AL ARTÍCULO 29; LA FRACCIÓN VI BIS AL ARTÍCULO 30 BIS Y LAS FRACCIONES X, XI, XII Y XIII AL ARTÍCULO 33, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE".]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Para el debido cumplimiento de lo dispuesto en el artículo 33 del presente decreto, las acciones de información se realizarán preferentemente con el personal del que dispongan los entes públicos estatales y municipales, con conocimiento de la lengua indígena de que se trate.
+
+Artículo Tercero. La implementación de los planes y programas a que se refiere el presente decreto se hará sin menoscabo de los ya existentes, por lo que las dependencias y entidades de la administración pública estatal a cargo de los mismos, deberán tomar las previsiones presupuestales correspondientes en el siguiente ejercicio fiscal para dar cumplimiento a lo ordenado en este decreto.
+
+Artículo Cuarto. Se deroga cualquier disposición legal o reglamentaria de igual o menor jerarquía que contravenga lo dispuesto en el presente decreto.
