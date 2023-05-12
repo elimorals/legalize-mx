@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-962
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-15"
-last_updated: "2022-10-19"
+last_updated: "2023-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2023.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 15 de octubre de 2013.
 
@@ -301,11 +301,15 @@ XX. Dictar los acuerdos y medidas administrativas conducentes para la promoción
 
 XXI. Coordinar el cumplimiento de las recomendaciones y peticiones de información derivadas de las quejas e investigaciones que emitan los Organismos Públicos defensores de los derechos humanos, federales y locales que involucren a diversas entidades o dependencias del Poder Ejecutivo;
 
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2023)</small>
 
-XXII. Coordinar el diseño y ejecución de políticas públicas, en materia de derechos humanos con especial énfasis en igualdad, no discriminación e inclusión social; y
+XXII. Coordinar el diseño y ejecución de políticas públicas, en materia de derechos humanos con especial énfasis en igualdad, no discriminación e inclusión social;
 
-XXIII. Las demás que con tal carácter le atribuyan expresamente las disposiciones jurídicas aplicables o le encomiende el Gobernador del Estado.
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2023)</small>
+
+XXIII. Proponer al titular del Poder Ejecutivo el acuerdo que contenga la información que refiere el primer párrafo del artículo 11 de la Ley del Notariado para el Estado de Guanajuato; y
+
+XXIV. Las demás que con tal carácter le atribuyan expresamente las disposiciones jurídicas aplicables o le encomiende el Gobernador del Estado.
 
 ## Título Tercero. Facultades genéricas de los Subsecretarios, Directores Generales, Directores de Gestión Administrativa y Coordinadores Administrativos
 
@@ -1771,13 +1775,29 @@ XV. Proponer al Secretario, por conducto del Subsecretario de Servicios a la Com
 
 XVI. Solicitar al Colegio Estatal de Notarios que emita su opinión en los casos y términos previstos en la Ley del Notariado para el Estado de Guanajuato;
 
-> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2023)</small>
 
-XVII. Emitir las constancias y el dictamen en el procedimiento para la designación de notarios auxiliares previsto en el Reglamento de la Ley del Notariado para el Estado de Guanajuato; y
+XVII. Emitir las constancias y el dictamen en el procedimiento para la designación de notarios auxiliares previsto en el Reglamento de la Ley del Notariado para el Estado de Guanajuato;
 
-> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2023)</small>
 
-XVIII. Someter a consideración del Secretario, por conducto del Subsecretario de Servicios a la Comunidad, las constancias respecto de las solicitudes de designación de notarios auxiliares, en relación con el cumplimiento de los requisitos previstos por los artículos 48-B y 48-C fracciones I, III, IV, V y VI de la Ley del Notariado para el Estado de Guanajuato y los artículos 19 y 19 bis de su Reglamento.
+XVIII. Someter a consideración del Secretario, por conducto del Subsecretario de Servicios a la Comunidad, las constancias respecto de las solicitudes de designación de notarios auxiliares, en relación con el cumplimiento de los requisitos previstos por los artículos 48-B y 48-C fracciones I, III, IV y VI de la Ley del Notariado para el Estado de Guanajuato y los artículos 19 y 19 bis de su Reglamento;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2023)</small>
+
+XIX. Verificar en cualquier tiempo, con el apoyo de las autoridades competentes, en su caso, que los notarios cumplen con los requisitos de las fracciones I a IV del artículo 12 de la Ley del Notariado para el Estado de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2023)</small>
+
+XX. Resolver las solicitudes de inscripción al proceso para obtener la calidad de aspirante a notario;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2023)</small>
+
+XXI. Resolver sobre el cumplimiento de los requisitos para participar en el examen de oposición para obtener el fíat de notario, expedir la constancia de cumplimiento y otorgar la cédula correspondiente; así como solicitar la publicación del acuerdo por el que se emita la lista de solicitantes que hayan obtenido la citada cédula; y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2023)</small>
+
+XXII. Resolver las impugnaciones establecidas en el artículo 17 de la Ley del Notariado para el Estado de Guanajuato.
 
 #### Sección Segunda. Dirección de Registros Públicos de la Propiedad
 
@@ -1855,11 +1875,19 @@ XII. Emitir las constancias de estatus notarial y de antecedentes de responsabil
 
 XIII. Recibir y sustanciar las solicitudes de designación de notario auxiliar, que los notarios titulares realicen;
 
-> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2023)</small>
 
-XIV. Proponer al Director General de Registros Públicos de la Propiedad y Notarías, las constancias sobre las solicitudes de designación de notarios auxiliares, en relación con el cumplimiento de los requisitos previstos por los artículos 48-B y 48-C fracciones I, III, IV, V y VI de la Ley del Notariado para el Estado de Guanajuato y los artículos 19 y 19 bis de su Reglamento; y
+XIV. Proponer al Director General de Registros Públicos de la Propiedad y Notarías, las constancias sobre las solicitudes de designación de notarios auxiliares, en relación con el cumplimiento de los requisitos previstos por los artículos 48-B y 48-C fracciones I, III, IV y VI de la Ley del Notariado para el Estado de Guanajuato y los artículos 19 y 19 bis de su Reglamento;
 
-XV. Las demás que le señale la normatividad correspondiente o le confiera el Director General de Registros Públicos de la Propiedad y Notarías.
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2023)</small>
+
+XV. Sustanciar los procedimientos de impugnación establecidos en el artículo 17 de la Ley del Notariado para el Estado de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2023)</small>
+
+XVI. Sustanciar los procesos para el otorgamiento de la calidad de aspirante a notario, así como los de otorgamiento de fíats para el ejercicio de la función notarial, de conformidad con lo establecido en la Ley del Notariado par el Estado de Guanajuato, su Reglamento y demás disposiciones normativas aplicables; y
+
+XVII. Las demás que le señale la normatividad correspondiente o le confiera el Director General de Registros Públicos de la Propiedad y Notarías.
 
 #### Sección Cuarta. Archivo General de Notarías
 
@@ -3316,3 +3344,15 @@ Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día 
 Plazo para la implementación del sistema de registro
 
 Artículo Segundo. La Dirección General de Transporte de la Secretaría de Gobierno, tendrá como plazo límite el 1 de diciembre de 2022, para la implementación del sistema de registro.
+
+P.O. 12 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 142, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO Y DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Actualización del Manual de Organización
+
+Artículo Segundo. La Secretaría de Gobierno, dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto Gubernativo, deberá actualizar su Manual de Organización General, publicado en el Periódico Oficial del Gobierno del Estado número 148, Segunda Parte, del 24 de julio de 2020.
