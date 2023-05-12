@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-municipio-de-tecate-baja-california-y-16168
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-28"
-last_updated: "2023-04-10"
+last_updated: "2023-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE INGRESOS DEL MUNICIPIO DE TECATE, BAJA CALIFORNIA Y TABLA DE VALORES CATASTRALES UNITARIOS, BASE DEL IMPUESTO PREDIAL PARA EL EJERCICIO FISCAL DEL AÑO 2023
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2023.
 
 Ley publicada en el Número Especial de la Sección IV del Número 75 del Periódico Oficial del Estado de Baja California, el miércoles 28 de diciembre de 2022.
 
