@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-cultural-para-el-estado-de-oaxaca-76635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-28"
-last_updated: "2021-06-12"
+last_updated: "2023-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2023.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 28 de Agosto de 2010.
 
@@ -645,7 +645,7 @@ Son organismos de consulta y apoyo para la aplicación del presente ordenamiento
 
 I. El Consejo de Participación para el Desarrollo Cultural del Estado.
 
-II. El Comité de Autenticidad, en los términos señalados en la presente Ley.
+II. (DEROGADA, P.O. 12 DE MAYO DE 2023)
 
 III. Las personas jurídicas que tengan como objeto la protección, preservación, investigación, restauración, promoción o difusión del Patrimonio Cultural del Estado o realicen actividades que tengan relación con el objeto de esta ley;
 
@@ -727,49 +727,21 @@ Cada integrante titular podrá nombrar su suplente, quien deberá ser de nivel j
 
 Las Sesiones del Consejo se celebrarán por lo menos dos veces al año, o en cualquier momento si los asuntos a tratarse así lo ameritan, las sesiones serán convocadas por el Secretario Técnico, de las que se levantará un acta y los votos será (sic) por mayoría en caso de empate el Presidente del Consejo tendrá el voto de calidad.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2016)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2023)</small>
 
 ### CAPÍTULO IV. DEL COMITÉ DE AUTENTICIDAD
 
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
-
 ###### Artículo 45.
 
-El Comité de autenticidad es el organismo de consulta y apoyo que garantiza con su opinión, la conservación y reivindicación de las costumbres y tradiciones con las que se ejecutan las danzas, bailables, música, vestimenta y demás elementos característicos con los que se presenten las diversas delegaciones en la festividad que se conoce como la Guelaguetza, que se escenifica en la fiesta del Lunes del Cerro.
-
-El Comité de Autenticidad tendrá como objetivo el de contribuir a la conservación, la investigación y difusión de nuestro patrimonio cultural, principalmente en el área de tradiciones, costumbres, música, danzas y bailes de nuestro Estado.
-
-Para el cumplimiento de sus funciones, el Comité se coordinará con la Secretaría de Turismo y Desarrollo Económico y con la Secretaría de las Culturas y Artes de Oaxaca.
-
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
+(DEROGADO, P.O. 12 DE MAYO DE 2023)
 
 ###### Artículo 46.
 
-El Comité de Autenticidad estará conformado por hombres y mujeres con amplio conocimiento de las costumbres y tradiciones de las diferentes regiones de Oaxaca, así como de la historia, evolución e importancia de las fiestas de la Guelaguetza que se presentan en los Lunes del Cerro, para tal efecto la Secretaría de las Culturas y Artes de Oaxaca como dependencia estatal operativa, establecerá los mecanismos para su selección, debiendo instituir criterios y procedimientos claros de evaluación, así como garantizar la transparencia y la máxima publicidad en el proceso de selección e integración del Comité de Autencidad (sic); que deberá integrar a una persona de cada una de las 16 etnias que existen en el Estado y uno más que represente al pueblo afrodescendiente de Oaxaca; y que tengan o hayan tenido participación en el ámbito cultural o en alguna actividad artística relacionada con la etnia a la que pertenece. La integración del Comité de Autenticidad se hará atendiendo al principio de paridad de género.
-
-Los integrantes del Comité de Autenticidad por ningún motivo podrán durar en su encargo más de cinco años, la Secretaría deberá además establecer los mecanismos para que su renovación se realice de forma escalonada.
-
-Los cargos en el Comité de Autenticidad serán honoríficos.
-
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2016)</small>
+(DEROGADO, P.O. 12 DE MAYO DE 2023)
 
 ###### Artículo 47.
 
-El Comité de Autenticidad tendrá las siguientes atribuciones:
-
-I. Establecer en coordinación con la Secretaría de las Culturas y las Artes de Oaxaca y con la Secretaría de Turismo y Desarrollo Económico, los mecanismos y procedimientos para la selección de las danzas y bailables que habrán de presentarse en las fiestas de los Lunes del Cerro.
-
-II. Emitir la declaratoria de procedencia en la selección de bailables que habrán de presentar las diferentes delegaciones en las fiestas de la Guelaguetza que se celebran los lunes del Cerro.
-
-III. Garantizar la conservación de las costumbres y tradiciones en la ejecución de las danzas, bailables, música, vestimenta y demás elementos característicos que presenten las delegaciones en las fiestas de la Guelaguetza.
-
-IV. Emitir su opinión sobre los planes, programas o campañas publicitarias que promuevan oficialmente o difundan el folklor de Oaxaca para las fiestas de la Guelaguetza a fin de buscar preservar la esencia de las tradiciones populares y los valores de las culturas de las etnias de Oaxaca.
-
-V. Emitir los lineamientos que estime necesarios para el rescate y la preservación de las costumbres, danzas, bailables, vestuario y demás elementos característicos de las delegaciones que se presentan en las fiestas de los Lunes del Cerro.
-
-VI. Las demás que le confiere la presente Ley.
-
-Las decisiones que emitan las y los integrantes del Comité, serán inatacables.
+(DEROGADO, P.O. 12 DE MAYO DE 2023)
 
 ## TÍTULO QUINTO. DE LOS MECANISMOS PARA EL DESARROLLO CULTURAL
 
@@ -962,3 +934,13 @@ P.O. 12 DE JUNIO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1419.- MEDIANTE EL CUAL DEROGA LA FRACCIÓN II DEL ARTÍCULO 39 Y EL CAPÍTULO IV, DEL TÍTULO CUARTO DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA; REFORMA LA FRACCIÓN I DEL ARTÍCULO 3 Y EL ARTÍCULO 14 DE LA LEY DE PROTECCIÓN, ACCESO Y DIFUSIÓN PARA LA FESTIVIDAD DE LA GUELAGUETZA DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
