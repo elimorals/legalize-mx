@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-acceso-y-difusion-para-la-festividad-de-14483
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-17"
-last_updated: "2020-10-17"
+last_updated: "2023-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN, ACCESO Y DIFUSIÓN PARA LA FESTIVIDAD DE LA GUELAGUETZA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2023.
 
 Ley publicada en la Décimo Segunda Sección del Número 42 del Periódico Oficial del Estado de Oaxaca, el sábado 17 de octubre de 2020.
 
@@ -57,7 +57,9 @@ La Guelaguetza constituye el patrimonio cultural material e inmaterial de los Pu
 
 Para efectos de la presente ley, se entenderá por:
 
-I. Comité de Autenticidad: Es el organismo de consulta y apoyo que garantiza con su opinión, la conservación y reivindicación de las costumbres y tradiciones con las que se ejecutan las danzas, bailables, música, vestimenta y demás elementos característicos con los que se presenten las diversas delegaciones en la festividad que se conoce como la Guelaguetza, que se escenifica en la fiesta del Lunes del Cerro;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2023)</small>
+
+I. Comité Organizador: Es un organismo de trabajo encargado de coordinar todas las actividades organizativas que se realizan en el marco de la Guelaguetza, el cual se integra por las Secretarías de Turismo; de las Culturas y Artes; de Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas.
 
 II. Delegaciones: El grupo de personas seleccionadas por sus comunidades, para representar su cultura y tradiciones en la Guelaguetza;
 
@@ -137,11 +139,11 @@ El Gobierno del Estado realizará las celebraciones de la Guelaguetza los Lunes 
 
 En cada “Lunes del Cerro”, deberá realizarse una presentación matutina y una presentación vespertina de la Guelaguetza, en el auditorio que existe para este fin, denominado “Auditorio Guelaguetza”, ubicado en el Cerro del Fortín de la Ciudad de Oaxaca de Juárez, Oaxaca, salvo que por causas de fuerza mayor no pueda celebrarse o deba modificarse en tiempo, lugar o forma de realización.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2023)</small>
+
 ###### Artículo 14.
 
-El Gobierno del Estado, a través de la Secretaria de Cultura, en coordinación con el Comité de Autenticidad, llevará a cabo la selección y programación anual de las delegaciones participantes, durante el mes de febrero de cada año y conforme a las bases previamente establecidas.
-
-El Comité de Autenticidad ejercerá sus funciones en términos de los artículos 46 y 47 de la Ley de Desarrollo Cultural para el Estado de Oaxaca y el Reglamento respectivo.
+El Gobierno del Estado, a través del Comité Organizador llevará a cabo la programación anual de las delegaciones participantes, conforme a las bases previamente establecidas en la convocatoria que emite la Secretaría de las Culturas y Artes.
 
 ###### Artículo 15.
 
@@ -194,3 +196,15 @@ CUARTO. El Titular del Poder Ejecutivo del Estado de Oaxaca, en un plazo no mayo
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 15 de Septiembre de 2020.- Dip. Jorge Octavio Villacaña Jiménez. Presidente.- Dip. Migdalia Espinosa Manuel, Secretaria.- Dip. Inés Leal Peláez, Secretaria.- Dip. Saúl Cruz Jiménez, Secretario.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 18 de Septiembre de 2020. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1419.- MEDIANTE EL CUAL DEROGA LA FRACCIÓN II DEL ARTÍCULO 39 Y EL CAPÍTULO IV, DEL TÍTULO CUARTO DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA; REFORMA LA FRACCIÓN I DEL ARTÍCULO 3 Y EL ARTÍCULO 14 DE LA LEY DE PROTECCIÓN, ACCESO Y DIFUSIÓN PARA LA FESTIVIDAD DE LA GUELAGUETZA DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
