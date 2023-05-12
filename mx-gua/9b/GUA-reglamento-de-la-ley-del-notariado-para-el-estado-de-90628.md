@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-del-notariado-para-el-estado-de-90628"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-21"
-last_updated: "2021-04-22"
+last_updated: "2023-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2023.
 
 Reglamento publicado en la Cuarte Parte del Periódico Oficial del Estado de Guanajuato, el viernes 21 de diciembre de 2012.
 
@@ -53,13 +53,17 @@ Para los efectos de este reglamento se entenderá por:
 
 I. Archivo: El Archivo General de Notarías;
 
-II. Aspirante a notario: El profesional del derecho que, habiendo cumplido los requisitos y aprobado los exámenes teórico y práctico en los términos de la Ley, se le otorga constancia de aspirante a notario, expedida por el Titular del Poder Ejecutivo a través del Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2023)</small>
+
+II. Aspirante a notario: El profesional del derecho que, habiendo cumplido los requisitos y aprobado el examen teórico en los términos del artículo 17-A de la Ley, se le otorga constancia de aspirante a notario, expedida por el Titular del Poder Ejecutivo;
 
 III. Colegio: El Colegio Estatal de Notarios;
 
 IV. Comité Técnico: El Comité Técnico de certificación notarial que establece el artículo 153 de la Ley;
 
-V. Dirección General: La Dirección General de Registros Públicos de la Propiedad y Notarías que es la Unidad Administrativa a que se refiere la Ley;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2023)</small>
+
+V. Dirección General: La Dirección General de Registros Públicos de la Propiedad y Notarías;
 
 VI. Ley: La Ley del Notariado para el Estado de Guanajuato;
 
@@ -105,21 +109,61 @@ Ante la presentación de renuncia al ejercicio de la función notarial se proced
 
 ### Capítulo II. Obtención de la calidad de aspirante a notario y del fíat de notario
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2023)</small>
+
 Examen de aspirante a notario y de oposición para obtener el fíat
 
 ###### Artículo 7.
 
-La solicitud de inscripción al examen de aspirante a notario y de oposición para obtener el fíat de notario, así como los documentos que acrediten el cumplimiento de los requisitos señalados en las fracciones I a X del artículo 11 A o I a VI del artículo 12 de la Ley, según corresponda, deberán presentarse en la Dirección General. La solicitud se hará en los formatos que la Secretaría expida para tal efecto y se entregará por duplicado.
+La solicitud de inscripción al examen de aspirante a notario y de oposición para obtener el fíat de notario, así como los documentos que acrediten el cumplimiento de los requisitos señalados en el artículo 11-A o en el artículo 12 de la Ley, según corresponda, deberán presentarse ante la Dirección General, en la forma y términos que se establezca en la convocatoria respectiva.
 
-Cuando se trate del examen de aspirante a notario, la Dirección General deberá proceder conforme lo señalado en el artículo 11 A, último párrafo de la Ley, debiendo notificar de manera personal al aspirante de la hora, fecha y lugar en que se realizará el examen.
+En relación con la prueba práctica que prevé el artículo 18, fracción II, inciso b) de la Ley, la Dirección General en el desarrollo del instrumento notarial implementará los mecanismos que considere necesarios para que los sustentantes puedan únicamente consultar la normativa que la prueba práctica requiera.
 
-La obtención de constancia de aspirante a notario y del fíat observará los procedimientos y requisitos establecidos en la Ley.
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2023)</small>
+
+Expedición de convocatoria para aspirante a notario
+
+Artículo 7 bis. La convocatoria pública y abierta a los interesados en obtener la calidad de aspirante a notario, además de las bases previstas en el artículo 11-B de la Ley, deberá contener la necesidad de cubrir notarías vacantes y en su caso la sociedad civil organizada o los organismos públicos o privados que participen de conformidad con lo establecido en el artículo 13-B de la Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2023)</small>
+
+Contenido de los convenios
+
+Artículo 7 ter. La Secretaría en los convenios que celebre con la sociedad civil organizada o con organismos públicos o privados, para que colaboren en los procedimientos para obtener la calidad de aspirante a notario, notario auxiliar y el fíat de notario público, con la finalidad de dar transparencia al proceso, definirá en las cláusulas de dicho convenio la participación de las partes en cada una de las siguientes etapas:
+
+I. Preparación básica para el examen;
+
+II. Criterios de evaluación del examen por parte del jurado;
+
+III. Elaboración del examen por parte del jurado;
+
+IV. Aplicación del examen; y
+
+V. Evaluación y revisión del examen por parte del jurado.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2023)</small>
+
+Convenios
+
+Artículo 7 quáter. La Secretaría de Gobierno cuando celebre convenios con la sociedad civil organizada o con organismos públicos o privados, para que participen como observadores en los procedimientos para obtener la calidad de aspirante a notario, notario auxiliar y el fíat de notario público, deberá permitir dicha participación en todas las etapas del procedimiento, respetándose los principios contenidos en el artículo 14 de la Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2023)</small>
+
+Aplicación del examen
+
+Artículo 7 quinquies. En la aplicación del examen, para obtener la calidad de aspirante a notario, se podrá hacer uso de herramientas tecnológicas, cumpliendo en todo momento lo dispuesto en el artículo 17-A de la Ley.
+
+Al término del desahogo de la prueba, el jurado sesionará de inmediato a fin de obtener la calificación de cada sustentante, sin que el plazo para concluir con la obtención de la calificación pueda exceder de tres días hábiles contados a partir de la aplicación del examen.
+
+Una vez concluido el término del plazo para la obtención de la calificación, el Presidente del Jurado podrá auxiliarse de la Dirección General para informar a los solicitantes que hayan aprobado el resultado de su prueba, lo cual deberá realizarse dentro de un término de diez días hábiles.
 
 Ausencia de los miembros del Jurado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2023)</small>
+
 ###### Artículo 8.
 
-Si transcurridos 15 minutos del día y hora señalados para el examen teórico o práctico del examen de aspirante a notario o de oposición para la obtención del fíat, no se encuentra presente alguno de los miembros propietarios del jurado entrará en funciones el suplente, y si tampoco éste concurre, no se llevará a cabo el examen, asentándose lo anterior en el acta que paro ello elabore el Secretario del Jurado. En esta última circunstancia se señalará, nueva fecha y hora para la realización del examen, la que se notificará personalmente o por correo certificado a los interesados. El examen deberá practicarse dentro de los 5 días hábiles siguientes a la fecha que se consigne en el acta.
+Si transcurridos quince minutos del día y hora señalados para el examen teórico de aspirante a notario o del examen teórico y práctico de oposición para la obtención del fíat, no se encuentra presente alguno de los miembros propietarios del jurado, entrará en funciones quien lo supla y si tampoco este concurre, no se llevará a cabo el examen, asentándose lo anterior en el acta que para tal efecto se elabore. En esta última circunstancia los integrantes del Jurado presentes acordarán nueva fecha, hora y lugar para la realización del examen, mismo que deberá llevarse a cabo dentro de los cinco días hábiles siguientes, lo cual se notificará a los participantes de conformidad con lo previsto en la convocatoria correspondiente.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2020)</small>
 
@@ -249,15 +293,15 @@ d) Actividades desempeñadas por el practicante durante el periodo de práctica 
 
 II. La capacidad física y mental que permita el ejercicio de la función notarial se acreditará en la forma prevista por el artículo 13 fracción V de la Ley.
 
-El certificado médico oficial deberá tener una antigüedad máxima de emisión de seis meses a la fecha de la solicitud de designación de Notario auxiliar.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2023)</small>
+
+El certificado médico oficial deberá ser expedido por institución pública de salud y deberá tener una antigüedad máxima de emisión de seis meses a la fecha de la solicitud de designación de Notario auxiliar;
 
 III. La buena conducta y honorabilidad profesional se acreditarán en la forma prevista por el artículo 13 fracción IV de la Ley, precisando que las cartas respectivas deberán contener la mención de que se expide al interesado para la solicitud del examen para Notario auxiliar.
 
 Las cartas de buena conducta y honorabilidad profesional deberán tener una antigüedad máxima de emisión de seis meses a la fecha de la solicitud de designación de Notario auxiliar.
 
-IV. La inexistencia de condena en sentencia ejecutoria por delito doloso que amerite pena privativa de libertad, se acreditará en la forma prevista por el artículo 13 fracción VIII de la Ley.
-
-Las constancias que acrediten este requisito deberán tener una antigüedad máxima de emisión de seis meses a la fecha de la solicitud de designación de Notario auxiliar.
+IV. (DEROGADA, P.O. 12 DE MAYO DE 2023); y
 
 V. La íntegra ética profesional y la capacidad jurídica y profesional suficiente se acreditarán con:
 
@@ -289,7 +333,9 @@ c) La persona que proponga como Notario auxiliar, respecto de la cual deberá me
 
 d) Las direcciones de correo electrónico en las que, en lo sucesivo y para efectos del trámite de la solicitud, se les practicarán las notificaciones que en Derecho correspondan al Notario titular y a la persona propuesta para ser designada como Notario auxiliar, las que podrán hacerse por medios electrónicos o en la forma y términos que se indiquen en la convocatoria.
 
-III. Una vez presentada la solicitud de designación de Notario auxiliar, la Dirección General verificará que el Notario titular se ubica en los supuestos del artículo 48-B de la Ley, y que la persona propuesta como Notario auxiliar satisface los requisitos del artículo 48-C fracciones I, III, IV, V y VI de la Ley, así como de los artículos 19 y 19 bis de este Reglamento, y emitirá la constancia respectiva.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MAYO DE 2023)</small>
+
+III. Una vez presentada la solicitud de designación de Notario auxiliar, la Dirección General verificará que el Notario titular se ubica en los supuestos del artículo 48-B de la Ley, y que la persona propuesta como Notario auxiliar satisface los requisitos del artículo 48-C fracciones I, III, IV y VI de la Ley, así como de los artículos 19 y 19 bis de este Reglamento, y emitirá la constancia respectiva.
 
 La Secretaría notificará al Notario titular y al sustentante la hora, fecha y lugar en que se realizará el examen.
 
@@ -357,9 +403,9 @@ El notario comunicará a la Dirección General, la destrucción, inutilización 
 
 La Dirección General procederá de inmediato a reponer, a costa del notario, la pieza o piezas del sello. De la entrega-recepción del sello repuesto se levantará acta que firmarán el notario y el Titular de la Dirección General.
 
-> <small>(REFORMADO SU EPÍGRAFE, P.O. 13 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 12 DE MAYO DE 2023)</small>
 
-Aseguramiento de insumos para el ejercicio de la función notarial
+Acopio del sello de notario
 
 ###### Artículo 26.
 
@@ -368,6 +414,10 @@ La Dirección General, a través del Archivo, recogerá los sellos del notario q
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2020)</small>
 
 En los casos de terminación de la función por el fallecimiento de Notarios titulares, y para los efectos del artículo 48-L de la Ley, el Notario auxiliar informará al Archivo General de Notarías dentro de los 5 días hábiles siguientes al fallecimiento, el listado de actos que hubieren quedado pendientes por ese suceso. El Archivo General de Notarías procederá en términos de lo dispuesto por el artículo 135 penúltimo párrafo de la Ley, dejando en poder del Auxiliar únicamente los tomos de Protocolo y de Libro de Ratificaciones, sus apéndices e índices, hojas testimonio, hologramas y folios no utilizados que sean necesarios para concluir los actos pendientes.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2023)</small>
+
+La Notaría se considerará vacante hasta que el Notario Auxiliar termine de tramitar los asuntos pendientes de concluirse a la muerte del titular, en los términos de la Ley.
 
 En caso de suspensión, el sello se depositará en el Archivo mientras subsista ésta, al término de los trámites que realice el notario sustituto.
 
@@ -437,13 +487,15 @@ Las medidas de seguridad de los folios deberá determinarlas el Titular del Pode
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 22 DE ABRIL DE 2021)</small>
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2023)</small>
+
 Entrega de los folios, hologramas y hojas de testimonio
 
 ###### Artículo 36.
 
-La solicitud de entrega de folios, hologramas y hojas de testimonio que haga el notario deberá presentarla por escrito a la Dirección General.
+La solicitud de entrega de folios, hologramas y hojas de testimonio que haga el notario titular o el auxiliar, deberá presentarla por escrito a la Dirección General.
 
-La entrega de los folios, hologramas y hojas de testimonio sólo se realizará al notario solicitante, bajo su estricta responsabilidad, por parte de la Dirección General, la que instrumentará las medidas de seguridad para la entrega.
+La entrega de los folios, hologramas y hojas de testimonio se realizará al notario titular o el auxiliar solicitante, bajo su estricta responsabilidad, por parte de la Dirección General, la que instrumentará las medidas de seguridad para la entrega.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2021)</small>
 
@@ -521,7 +573,7 @@ IX. De denuncias;
 
 X. De sanciones;
 
-XI. De práctica notarial; y
+XI. (DEROGADA, P.O. 12 DE MAYO DE 2023); y
 
 XII. De Certificación Notarial.
 
@@ -543,7 +595,9 @@ III. El número de notaría pública de la que sean titulares o a la que presten
 
 IV. La fecha de inicio de funciones de los notarios y los notarios auxiliares; y
 
-V. Los cambios de adscripción, convenios de suplencias, asociaciones y revocaciones, licencias, renuncias y suspensiones, según corresponda, así como las revocaciones de licencias de notario auxiliar.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2023)</small>
+
+V. Los cambios de adscripción, convenios de suplencias, asociaciones y revocaciones, licencias, renuncias y suspensiones, según corresponda, así como las revocaciones de licencias de notario auxiliar, y las separaciones voluntarias, según sea el caso.
 
 Contenido del registro del convenio de suplencias y licencias de notarios
 
@@ -675,21 +729,9 @@ II. El tipo de sanción y su causa; y
 
 III. La fecha de la ejecución.
 
-Contenido del Registro de Practica notarial
-
 ###### Artículo 55.
 
-El registro de práctica notarial para aspirante a notario y notario auxiliar deberá contener:
-
-I. Para aspirante a notario:
-
-a) El nombre del practicante;
-
-b) El número y adscripción de la notaría donde se realizó la práctica y nombre del titular; y
-
-c) La fecha de inicio y conclusión de prácticas, en los términos del artículo 13 fracción VII de la Ley.
-
-II. (DEROGADA, P.O. 13 DE AGOSTO DE 2020)
+(DEROGADO, P.O. 12 DE MAYO DE 2023)
 
 Contenido del Directorio General de Notarías Públicas, Notarios y Notarios Auxiliares
 
@@ -697,7 +739,9 @@ Contenido del Directorio General de Notarías Públicas, Notarios y Notarios Aux
 
 El Directorio General de Notarías Públicas, Notarios y Notarios Auxiliares deberá contener:
 
-I. El nombre del notario;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2023)</small>
+
+I. Nombre del Notario titular y del Notario auxiliar, según corresponda;
 
 II. El número y adscripción de la notaría; y
 
@@ -725,9 +769,17 @@ V. Los oficios y acuses de oficios de suplencias, licencias y reinicio de funcio
 
 VI. Si cuenta con notario auxiliar;
 
-VII. La copia de las constancias del proceso de certificación; y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2023)</small>
 
-VIII. La copia de las resoluciones en que se le imponga una sanción.
+VII. La copia de las constancias del proceso de certificación;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2023)</small>
+
+VIII. La copia de las resoluciones en que se le imponga una sanción; y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2023)</small>
+
+IX. La solicitud de renuncia expresa de parte del Notario titular al ejercicio de la función notarial, así como el acuerdo respectivo que recaiga a su petición.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2020)</small>
 
@@ -737,17 +789,29 @@ Artículo 57 bis. El expediente personal de los notarios auxiliares deberá cont
 
 I. La copia de los documentos que justificaron el otorgamiento de la licencia;
 
-II. La copia de la licencia;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2023)</small>
+
+II. La copia de la licencia que se le expida para ejercer la función notarial;
 
 III. El oficio y acuse de inicio de funciones;
 
 IV. La copia de las constancias del proceso de certificación;
 
-V. La copia de las resoluciones en que se les imponga una sanción.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2023)</small>
 
-VI. La solicitud de revocación de licencia con los motivos que la sustenten; y,
+V. La copia de las resoluciones en que se les imponga una sanción;
 
-VII. En su caso, el acuerdo de revocación de la licencia.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2023)</small>
+
+VI. La solicitud de revocación de licencia con los motivos que la sustenten;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2023)</small>
+
+VII. En su caso, el acuerdo de revocación de la licencia; y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2023)</small>
+
+VIII. La solicitud de renuncia expresa de parte del Notario auxiliar al ejercicio de la función notarial, así como el acuerdo respectivo que recaiga a su petición.
 
 Contenido del expediente de la notaría pública
 
@@ -755,7 +819,9 @@ Contenido del expediente de la notaría pública
 
 El expediente de cada notaría pública deberá contener:
 
-I. La fecha de acuerdo de creación;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2023)</small>
+
+I. El acuerdo de ocupación de la notaría vacante o el de su creación;
 
 II. El número y demarcación de adscripción;
 
@@ -994,3 +1060,15 @@ En consecuencia, las notarias y los notarios deberán hacer uso de dichos folios
 Artículo Cuarto. La Dirección General de Registros Públicos de la Propiedad y Notarías deberá levantar constancia del inicio de la distribución de los productos notariales elaborados de acuerdo con las características establecidas en el presente Decreto Gubernativo.
 
 Artículo Quinto. Se instruye al titular de la Dirección General de Registros Públicos de la Propiedad y Notarías para que, a partir de la entrada en vigencia del presente Decreto Gubernativo, propicie comunicación con los Notarios Públicos en la Entidad y los titulares de las oficinas del Registro Público de la Propiedad, con la finalidad de armonizar las acciones administrativas que resulten conducentes.
+
+P.O. 12 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 142, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DEL REGLAMENTO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO Y DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Actualización del Manual de Organización
+
+Artículo Segundo. La Secretaría de Gobierno, dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto Gubernativo, deberá actualizar su Manual de Organización General, publicado en el Periódico Oficial del Gobierno del Estado número 148, Segunda Parte, del 24 de julio de 2020.
