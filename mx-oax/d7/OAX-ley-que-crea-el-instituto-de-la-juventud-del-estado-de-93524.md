@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-instituto-de-la-juventud-del-estado-de-93524"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-04"
-last_updated: "2013-11-08"
+last_updated: "2023-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA EL INSTITUTO DE LA JUVENTUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el lunes 4 de marzo de 2013.
 
@@ -121,7 +121,9 @@ VIII. Fomentar el espíritu emprendedor y capacidad de autogestión de las y los
 
 IX. Requerir información de las instituciones estatales y municipales que le permitan auxiliarse en la elaboración de sus planes y programas;
 
-X. Celebrar acuerdos y convenios de colaboración con los sectores social y privado, para el desarrollo de proyectos que beneficien a la juventud, mejorando la calidad y cobertura de las políticas juveniles y eficientando el uso de recursos;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2023)</small>
+
+X. Celebrar acuerdos y convenios de colaboración con los sectores público, social y privado, nacional e internacional, para fomentar la inversión en el desarrollo de proyectos en favor de las juventudes en el Estado, a efecto de mejorar la calidad y cobertura de las políticas públicas juveniles; así como impulsar programas de capacitación, investigación y avance en áreas de tecnologías, información, comunicación y otras estratégicas para las y los jóvenes, con el objetivo de propiciar una mayor vinculación entre las juventudes y los sectores productivos de la entidad;
 
 XI. Recibir, canalizar y dar seguimiento a las propuestas, sugerencias e inquietudes de la juventud oaxaqueña;
 
@@ -436,3 +438,11 @@ P.O. 8 DE NOVIEMBRE DE 2013.
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1335.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN X DEL ARTÍCULO 6 DE LA LEY QUE CREA EL INSTITUTO DE LA JUVENTUD DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado Libre de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
