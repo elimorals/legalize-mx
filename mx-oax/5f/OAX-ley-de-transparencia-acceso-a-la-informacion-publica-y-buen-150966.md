@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-acceso-a-la-informacion-publica-y-buen-150
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-04"
-last_updated: "2023-04-15"
+last_updated: "2023-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2023.
 
 Ley publicada en el No. 36 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de septiembre de 2021.
 
@@ -445,7 +445,9 @@ VII. Las versiones públicas de todas las sentencias emitidas;
 
 VIII. Las versiones estenográficas de las sesiones públicas, en su caso;
 
-IX. La relacionada con los procesos de designación de los jueces;
+> <small>(REFORMADA. P.O. 13 DE MAYO DE 2023)</small>
+
+IX. La duración en el cargo y la información relacionada con los procesos por medio de los cuales fueron designados las y los jueces y magistrados;
 
 X. La lista de acuerdos que diariamente se publiquen.
 
@@ -2492,5 +2494,13 @@ P.O. 15 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1154.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN III DEL ARTÍCULO 7, DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1336.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN IX DEL ARTÍCULO 23 DE LA LEY DE TRANSPARENCIA Y (SIC) ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
