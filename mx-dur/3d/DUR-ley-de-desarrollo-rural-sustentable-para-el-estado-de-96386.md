@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-rural-sustentable-para-el-estado-de-96386"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-25"
-last_updated: "2022-11-20"
+last_updated: "2023-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 25 de agosto de 2013.
 
@@ -257,9 +257,13 @@ L.- Zonas Frágiles o Tierras Frágiles: Tierras que pueden ser degradadas por f
 
 El Ejecutivo del Estado en coordinación con los órdenes de Gobierno, impulsará políticas públicas y programas en el medio rural, además de la agricultura familiar sostenible, que serán considerados prioritarios para el desarrollo del Estado y que estarán orientados a las siguientes acciones:
 
-I.- Promover el bienestar social y económico de los productores, de sus comunidades, de los trabajadores del campo y, en general, de los agentes de la sociedad rural, mediante la diversificación y la generación de empleo, incluyendo el no agropecuario en el medio rural, así como el incremento del ingreso;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2023)</small>
 
-II.- Corregir disparidades de desarrollo regional a través de la atención diferenciada a las regiones de mayor rezago, mediante una acción sustentable del Estado que impulse su transformación y la reconversión productiva y económica, con un enfoque productivo de desarrollo rural sustentable;
+I.- Promover el bienestar social y económico de los productores, de sus comunidades, de los trabajadores del campo, de las mujeres rurales y, en general, de los agentes de la sociedad rural, mediante la diversificación y la generación de empleo, incluyendo el no agropecuario en el medio rural, así como el incremento del ingreso;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2023)</small>
+
+II.- Corregir disparidades de desarrollo regional a través de la atención diferenciada a las regiones y grupos de mayor rezago, mediante una acción sustentable del Estado que impulse su transformación y la reconversión productiva y económica, con un enfoque productivo de desarrollo rural sustentable;
 
 > <small>(REFORMADA, P.O. 28 DE JUNIO DE 2018)</small>
 
@@ -295,13 +299,15 @@ II.- La Secretaría de Finanzas y de Administración;
 
 III.- La Secretaría General de Gobierno;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2023)</small>
 
-IV.- Secretaría de Bienestar Social;
+IV.- El Instituto Estatal de las Mujeres;
 
 V.- La Fiscalía General del Estado;
 
-VI.- La Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2023)</small>
+
+VI.- La Secretaría de Bienestar
 
 VII.- La Secretaría de Salud;
 
@@ -309,11 +315,13 @@ VIII.- La Secretaría de Educación;
 
 IX.- La Secretaría de Comunicaciones y Obras Públicas;
 
-X.- La Secretaría de Contraloría y Modernización Administrativa; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
+X.- La Secretaría de Contraloría; y
 
-XI.- Secretaría de Recursos Naturales y Medio Ambiente.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2023)</small>
+
+XI.- La Secretaría de Recursos Naturales y Medio Ambiente.
 
 ###### ARTÍCULO 10.
 
@@ -321,7 +329,9 @@ Son organismos coadyuvantes para los efectos de esta Ley, todas aquellas organiz
 
 I.- Las organizaciones campesinas;
 
-II.- Las organizaciones y agrupaciones de productores;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2023)</small>
+
+II.- Las organizaciones y agrupaciones de productores y productoras rurales;
 
 III.- Las Uniones Ganaderas Regionales de Durango;
 
@@ -1669,11 +1679,11 @@ IV.- Promover la modernización, incorporando tecnologías a fin de que las empr
 
 V.- Impulsar activamente al sector productivo, a fin de aprovechar las ventajas comparativas y los nichos de mercado que ofrece la apertura comercial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 170.
 
-La Secretaría, orientará a los productores y empresas rurales debidamente acreditadas, teniendo preferencia a grupos vulnerables, adultos mayores, población indígena, colonias menonitas, pequeños propietarios, los que empleen tecnologías de mitigación y adaptación a los efectos del cambio climático y agentes económicos con bajos ingresos, para que puedan acceder a recursos financieros adaptados, suficientes, oportunos y accesibles para desarrollar exitosamente sus actividades económicas, de las siguientes líneas de crédito:
+La Secretaría, orientará a los productores y empresas rurales debidamente acreditadas, teniendo preferencia a grupos vulnerables, mujeres rurales, adultos mayores, población indígena, colonias menonitas, pequeños propietarios, los que empleen tecnologías de mitigación y adaptación a los efectos del cambio climático y agentes económicos con bajos ingresos, para que puedan acceder a recursos financieros adaptados, suficientes, oportunos y accesibles para desarrollar exitosamente sus actividades económicas, de las siguientes líneas de crédito:
 
 I.- De avío y refaccionarios para la producción e inversión de capital en las actividades agropecuarias, para promover la agricultura por contrato, para el fomento de las asociaciones estratégicas, para la constitución y consolidación de empresas rurales, para el desarrollo de plantaciones frutícolas, industriales y forestales, para la agroindustria y las explotaciones acuícolas, así como para actividades que permitan diversificar las oportunidades de ingreso y empleo en el ámbito rural;
 
@@ -1833,7 +1843,9 @@ IV.- Se brindará atención prioritaria al mantenimiento de las escuelas rurales
 
 V.- Mejorar la alimentación y la economía familiar, mediante apoyos para el incremento y diversificación de la producción de traspatio y autoconsumo;
 
-VI.- Apoyar el establecimiento y desarrollo de empresas rurales para integrar procesos de industrialización, que permitan agregar valor a los productos;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2023)</small>
+
+VI.- Apoyar el establecimiento y desarrollo de empresas del sector y grupos productivos de mujeres rurales para integrar procesos de industrialización, que permitan agregar valor a los productos;
 
 VII.- Mejorar la articulación de las cadenas producción-consumo y diversificar las fuentes de ingreso;
 
@@ -1871,9 +1883,11 @@ Se promoverán mecanismos para la formación y capacitación de los trabajadores
 
 El Consejo Estatal, propondrá mecanismos para la reversión de la cultura migratoria y facilitar en caso de que su origen sea duranguense, el arraigo en los lugares de origen de los trabajadores y jornaleros agrícolas.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 200.
 
-Cuando los trabajadores agrícolas migratorios provengan de otra entidad de la república o del extranjero, el Estado ofrecerá y vigilará el respeto estricto a sus derechos fundamentales, consagrados en la Constitución y en la Ley de Migrantes para el Estado de Durango.
+Cuando las trabajadoras y trabajadores agrícolas migratorios provengan de otra entidad de la república o del extranjero, el Estado promoverá y vigilará el respeto estricto a sus derechos humanos, consagrados en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados y Convenios Internacionales y en la Constitución Política del Estado Libre y Soberano de Durango.
 
 ## TÍTULO OCTAVO. DEL DERECHO CIUDADANO DE DENUNCIA
 
@@ -2250,3 +2264,19 @@ P.O. 20 DE NOVIEMBRE DE 2022.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 14 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 364.- QUE CONTIENE REFORMA AL ARTÍCULO 200 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se contravengan al contenido del presente decreto.
+
+P.O. 14 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 365.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se contravengan al contenido del presente decreto.
