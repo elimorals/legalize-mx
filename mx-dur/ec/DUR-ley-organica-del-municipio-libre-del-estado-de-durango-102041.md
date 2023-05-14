@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2023-04-20"
+last_updated: "2023-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "DUR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MAYO DE 2023 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -469,7 +471,7 @@ X.- Expedir cartas de origen, atendiendo a las prevenciones de esta Ley así com
 
 XI. La promoción, difusión y efectiva implementación de la perspectiva de género en los procesos de planeación, programación, elaboración de presupuestos, diseño de acciones y políticas públicas y evaluación de la administración pública municipal.
 
-> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 14 DE MAYO DE 2023)</small>
 
 XII. Autorizar al presidente o presidenta municipal para que suscriba, en caso de considerarlo adecuado, convenios de colaboración con el Instituto de Evaluación de Políticas Públicas, en materia de evaluaciones del desempeño municipal en su política pública de desarrollo social, que orienten al gobierno municipal para mejorar sus acciones y estrategias.
 
@@ -2696,3 +2698,11 @@ P.O. 20 DE ABRIL DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 367.- QUE CONTIENE REFORMA AL ARTICULO 33 DE LA LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. - Se derogan todas las disposiciones que contravengan al presente decreto.
