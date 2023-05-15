@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2022-12-02"
+last_updated: "2023-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -13859,15 +13859,25 @@ El registrador que haga una inscripción sin cumplir con lo dispuesto en el art�
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiere presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
+
 ###### Artículo 2389.
 
-Cuando vaya a otorgarse una escritura en que se declare, reconozca, adquiera, transmita, modifique, límite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribirle, el Notario o autoridad ante quien vaya a otorgarse podrá a su criterio, o deberá a solicitud de quien pretenda adquirir un derecho, dar al Registro un primer aviso preventivo al solicitarle certificados sobre la existencia de la inscripción en favor del titular registral o sobre los gravámenes que reporte, el inmueble o derecho o la libertad de los mismos. Dicho aviso, deberá mencionar la operación y finca de que se trate, los nombres de los interesados y el antecedente registral. El registrador con el aviso preventivo y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente una anotación de primer aviso preventivo que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación de la solicitud.
+Cuando vaya a otorgarse una escritura en que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, la Notaria o Notario Público o autoridad ante quien vaya a otorgarse deberá a solicitud de quien pretenda adquirir un derecho, dar al Registro un primer aviso preventivo al solicitarle certificados sobre la existencia de la inscripción en favor del titular registral o sobre los gravámenes que reporte, el inmueble o derecho o la libertad de los mismos. Dicho aviso, deberá mencionar el predio objeto del acto o actos a realizar, la operación u operaciones proyectadas, los nombres de los futuros contratantes y el antecedente registral, ya sea Folio Real o partida, de no haberse producido la migración correspondiente a la fecha del aviso preventivo. De calificarla procedente, el Registrador hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente una anotación de primer aviso preventivo, previo pago de derechos.
 
-Una vez firmada una escritura que produzca cualesquiera de las consecuencias mencionadas en el párrafo precedente, el Notario o autoridad ante quien se otorgó dará al Registro dentro de las cuarenta y ocho horas siguientes un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá vigencia por un término de noventa días naturales a partir de la fecha de su presentación. En los casos en que el segundo aviso preventivo mencionado en este párrafo se dé dentro del término de treinta días a que se contrae el párrafo anterior, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diere después de este plazo solo surtirá efectos desde la fecha y hora de su presentación.
+La Notaria o Notario Público solicitará al Registrador el certificado en el que conste la anotación del primer aviso preventivo, la situación registral que reporte el predio y la constancia relativa a las declaratorias de provisiones, usos, reservas y destinos, que estuvieren inscritos en forma individualizada en su Folio Real.
 
-Si el testimonio respectivo se presentare al Registro dentro de cualquiera de los términos a que se contraen los dos párrafos anteriores, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación del primer aviso preventivo correspondiente si hubiese sido dado, o en caso contrario desde la fecha y hora de presentación del segundo. Si el documento se presentare después, su registro sólo surtirá efectos desde la fecha de su presentación.
+El primer aviso preventivo tendrá una vigencia de treinta días naturales, contados a partir de la fecha de su presentación y sólo podrá producirse otro primer aviso preventivo respecto del mismo predio, una vez que hubieren transcurrido quince días naturales contados a partir del día siguiente a aquel en que por cualquier causa hubiere quedado sin efectos el anterior primer aviso preventivo.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior, fuere privado, deberán dar exclusivamente el segundo aviso preventivo que menciona este artículo, el Notario que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes.
+El aviso preventivo definitivo se presentará por la Notaria o Notario en el Registro Público o en la oficina registral correspondiente, después de firmada y autorizada preventivamente la escritura. La Notaria o Notario ante quien se celebre la operación, podrá presentar el aviso preventivo definitivo dentro de la vigencia del primer aviso preventivo. En el aviso preventivo definitivo la Notaria o Notario deberá indicar la fecha y número del instrumento en que se haya formalizado la operación, el predio de que se trata y su antecedente registral; la indicación de que se transmitió o modificó su dominio o que se constituyó, transmitió, modificó o extinguió un derecho real sobre él; los nombres de los otorgantes, que deberán ser los mismos que se señalaron en el primer aviso preventivo y el precio o importe de la operación. Faltando alguno de los elementos señalados en este inciso, no surtirá efectos legales el aviso.
+
+Recibido el aviso preventivo definitivo, el registrador hará inmediatamente su anotación, si resultare procedente previo pago de los derechos correspondientes. En caso de que exista diferencia entre la información de los avisos preventivos, la prelación sólo surtirá efectos a favor del adquirente, a partir de la presentación del aviso preventivo definitivo. El aviso preventivo definitivo tendrá una vigencia de noventa días naturales, contados a partir de su presentación para trámite registral, y podrá presentarse una sola vez en relación a la escritura respectiva. Durante la vigencia de los avisos preventivos, la Notaria o Notario ante quien se celebre la operación, podrá rectificar, en su caso, la información otorgada al Registro Público, siempre y cuando se trate de errores ortográficos, mecanográficos, aritméticos o de cualquier otro tipo y no se afecten los elementos esenciales del acto o actos jurídicos de origen.
+
+Mientras se encuentren vigentes los avisos preventivos a los que se refiere este artículo, no podrá hacerse ninguna inscripción o anotación que perjudique los derechos amparados por la operación o título protegido por aquéllos. No obstante lo anterior, se efectuará nota de presentación de las solicitudes de registro, para que guarden prelación en caso de que proceda su cancelación o se decrete su caducidad.
+
+Si se presenta el testimonio a inscribir dentro de la vigencia ininterrumpida de los avisos preventivos se retrotraerán los efectos de la inscripción a la fecha de presentación del primero.
+
+Si el documento en que conste alguna de las operaciones que se mencionan en el presente artículo, fuere privado, deberán dar exclusivamente el aviso preventivo definitivo que menciona este artículo, la Notaria o Notario que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes.
 
 ###### Artículo 2390.
 
@@ -16796,3 +16806,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO. Comuníquese el presente Decreto a la Dirección Estatal del Registro Civil y a los Registros Civiles de los Ayuntamientos de la Entidad.
 
 TERCERO. El Poder Ejecutivo del Estado de Nayarit y los Ayuntamientos de la Entidad tendrán un plazo de 90 días, a partir de la entrada en vigor del presente Decreto, para que realicen las adecuaciones necesarias a los Reglamentos que correspondan
+
+P.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA EL ARTÍCULO 2389 DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. La Ley de Ingresos para el Estado Libre y Soberano de Nayarit, para el ejercicio correspondiente deberá establecer puntalmente la tarifa referente al cobro de derechos por la anotación del aviso preventivo del artículo 2389 del Código Civil para el Estado de Nayarit.
+
+Tercero. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Cuarto. Se derogan todas aquellas disposiciones que se contrapongan a lo establecido en el presente Decreto.
