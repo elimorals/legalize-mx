@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-mejora-regulatoria-del-estado-y-municipios-de-san-136192
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-15"
-last_updated: "2022-05-13"
+last_updated: "2023-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 15 DE MAYO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023 (ABROGADO).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de mayo de 2019.
 
@@ -1382,3 +1384,25 @@ P.O. 13 DE MAYO DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. La Ley que se expide con este Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor de este Decreto, se abroga la Ley de Mejora Regulatoria del Estado y Municipios de San Luis Potosí, publicada en el Periódico Oficial del Gobierno del Estado “Plan de San Luis” el quince de mayo de dos mil diecinueve.
+
+TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
+
+CUARTO. El Titular del Poder Ejecutivo del Estado expedirá el Reglamento de la presente Ley en un periodo que no exceda de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto. Hasta en tanto se emita dicho Reglamento, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no la contravengan.
+
+QUINTO. A partir de la entrada en vigor de este Decreto, los municipios contarán con un plazo de un año para adecuar sus reglamentos al contenido de la Ley. Los Consejos Municipales, en su caso, deberán instalarse formalmente dentro de un plazo de noventa días naturales siguientes a la entrada en vigor de las adecuaciones correspondientes en su normativa municipal.
+
+SEXTO. Las disposiciones normativas vigentes que no se contrapongan a lo dispuesto por el presente Decreto, continuarán surtiendo sus efectos.
+
+SÉPTIMO. Las regulaciones, lineamientos y acuerdos para que produzcan efectos jurídicos, deberán ser publicadas por los sujetos obligados en el Periódico Oficial del Estado “Plan de San Luis.”
+
+OCTAVO. Para el cumplimiento de las obligaciones relativas al Catálogo Nacional, los sujetos obligados observarán los plazos estipulados en la Estrategia Nacional.
+
+NOVENO. A partir de la entrada en vigor del presente Decreto, las menciones en materia de mejora regulatoria, contenidas en cualquier ordenamiento jurídico, respecto a la Secretaría de Desarrollo Económico, se entenderán referidas a la Comisión Estatal.
