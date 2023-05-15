@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2023-01-24"
+last_updated: "2023-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1733,11 +1733,13 @@ Toda adopción deberá ser sancionada por la autoridad judicial competente. Qued
 
 Quien omita observar los requisitos de la adopción incurrirá en delitos contra la filiación y el estado civil de las personas.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 250.
 
-Nadie puede ser adoptado por más de una persona, salvo en el caso de que los adoptantes sean cónyuges. Estos sólo podrán adoptar cuando ambos estén de acuerdo en considerar a quien se adopte como hija o hijo.
+Nadie puede ser adoptado por más de una persona, salvo en los casos en que los adoptantes sean cónyuges, o sostengan una relación de concubinato, declarado por autoridad competente; en los dos casos se requerirá el consentimiento de ambos.
 
-Cuando la persona a adoptar sea hija o hijo solamente de uno de los cónyuges, y éste ejerza exclusivamente la patria potestad, el otro podrá adoptarlo con el consentimiento del primero.
+Éstos sólo podrán adoptar cuando ambos estén de acuerdo en considerar a quien se adopte como hija o hijo. Cuando la persona a adoptar sea hija o hijo solamente de uno de los cónyuges, o uno de los concubinarios, y alguno de ellos ejerza exclusivamente la patria potestad, el otro podrá adoptarlo con el consentimiento del primero.
 
 ###### ARTICULO 251.
 
@@ -3802,5 +3804,13 @@ P.O. 24 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0675.- SE REFORMAN LOS ARTÍCULOS 12 Y 293 EN SUS FRACCIONES V Y VI; Y ADICIONA LOS ARTÍCULOS 268 BIS Y 268 TER Y AL ARTÍCULO 293, LA FRACCIÓN VII, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 42, 53 EN SUS FRACCIONES XVII Y XVIII, 93 EN SU FRACCIÓN III Y 94 EN SUS FRACCIONES III Y IV; ADICIONA AL ARTÍCULO 94, LA FRACCIÓN V; Y DEROGA DEL ARTÍCULO 93, LA FRACCIÓN IV, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0749.- SE REFORMA EL ARTÍCULO 250, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ.”]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
