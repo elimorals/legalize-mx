@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2023-03-28"
+last_updated: "2023-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MAYO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -135,6 +135,10 @@ XX. Mobiliario Urbano: Los elementos complementarios al equipamiento urbano, ya 
 Dentro del mobiliario urbano de los parques públicos, se consideran los bebederos de agua potable a cargo de las delegaciones, los cuales deben ser diseñados y construidos de modo tal que no posean un flujo de agua permanente, a efectos de evitar su derroche. Sus mecanismos de accionamiento y provisión deben reunir condiciones de higiene estrictas, evitando contacto de labios y manos que ofrezcan riesgos de transmisión de enfermedades;
 
 XXI. Norma de Ordenación: las que regulan la intensidad, la ocupación y formas de aprovechamiento del suelo y el espacio urbano; asi como las características de las edificaciones, las construcciones, la transferencia de potencialidades de desarrollo urbano, el impacto urbano y las demás que señala esta ley; dichas normas se establecerán en los programas y en el reglamento de esta ley;
+
+> <small>(ADICIONADA, G.O. 15 DE MAYO DE 2023)</small>
+
+XXI Bis. Plataforma Digital.- Sistema Informático desarrollado por la Agencia Digital de Innovación Pública, a través de la cual se realizan los trámites establecidos en la presente Ley competencia de la Secretaría;
 
 XXII. Polígono de actuación: Superficie delimitada del suelo integrada por uno o más predios, que se determina en los Programas a solicitud de la Administración Pública, o a solicitud de los particulares, para la realización de proyectos urbanos mediante la relotificación y relocalización de usos de suelo y destinos;
 
@@ -341,6 +345,10 @@ XXXIV. Interpretar y aplicar para efectos administrativos las disposiciones de d
 XXXV. Proveer a la capacitación y a la asistencia técnica en materias relacionadas con el desarrollo urbano y el ordenamiento territorial, para lo cual podrá celebrar convenios con las instituciones educativas, a fin de que se incluyan estas materias en los programas de estudio; y
 
 XXXVI. Crear una reserva territorial para la producción social de vivienda, de acuerdo a los recursos que la Asamblea Legislativa del Distrito Federal asigne para tal fin, y
+
+> <small>(ADICIONADA, G.O. 15 DE MAYO DE 2023)</small>
+
+XXXVI Bis. Administrar y operar la Plataforma Digital y;
 
 XXXVII. Las demás que le otorguen otros ordenamientos aplicables.
 
@@ -1720,13 +1728,15 @@ En los casos de aquellas obras y actividades donde, además del dictamen de impa
 
 Para la construcción, ampliación, reparación o modificación de una obra, sea que requiera o no de dictamen de impacto urbano, el interesado deberá efectuar el pago de aprovechamientos y derechos correspondientes en los términos que señale el Código Fiscal del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 23 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2023)</small>
 
 ###### Artículo 94 Bis.
 
-El Procedimiento de Publicitación vecinal, se tramitara ante la Delegación que corresponda a la ubicación del predio, bajo el procedimiento y requisitos establecidos en esta Ley.
+La Publicitación Vecinal es el procedimiento que funge como instrumento para la ciudadanía con el objeto de prevenir conflictos o afectaciones en el entorno urbano. La Publicitación Vecinal se solicitará por la persona propietaria o poseedora del predio o inmueble, a través de la Plataforma Digital y será tramitado por la Alcaldía que corresponda con base en la ubicación del predio hasta su conclusión, bajo el procedimiento y requisitos establecidos en el Reglamento de esta Ley.
 
-El Procedimiento de Publicitación Vecinal es un requisito indispensable para la procedencia del registro de manifestación de construcción tipo B o C, así como para la expedición de permisos o licencias referentes a cambios de uso de suelo, fusiones, subdivisiones, transferencias de potencialidad, afectaciones y restricciones de construcción, edificación, modificación, ampliación, reparación, demolición de construcciones y demás medidas que establezca esta Ley referente a las modalidades previstas en el artículo 53 del Reglamento de Construcciones para el Distrito Federal.
+El Procedimiento de Publicitación Vecinal es un requisito indispensable que debe agotarse previamente a la solicitud del registro de Manifestación de Construcción tipo B o C, así como para la expedición de permisos o licencias referentes a cambios de uso de suelo, fusiones, transferencias de potencialidad, edificación y demás medidas que establezca esta Ley, referente a las modalidades previstas en el artículo 53 del Reglamento de Construcciones para el Distrito Federal.
+
+La publicitación vecinal para los trámites que sean competencia de la Secretaría, se tramitará ante ésta hasta su conclusión.
 
 > <small>(ADICIONADO, G.O. 23 DE MARZO DE 2017)</small>
 
@@ -1736,7 +1746,7 @@ Para la Construcción, ampliación, reparación o modificación de una obra, de 
 
 No procederá la tramitación de los actos administrativos mencionados anteriormente, cuando el predio o inmueble se localice en suelo de conservación y no se haya agotado el procedimiento de publicitación vecinal.
 
-> <small>(ADICIONADO, G.O. 23 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2023)</small>
 
 ###### Artículo 94 Quater.
 
@@ -1750,7 +1760,7 @@ III. El formato de Solicitud de Constancia de Publicitación Vecinal deberá est
 
 a) Constancia de alineamiento y número oficial vigente, y cualquiera de los documentos siguientes: certificado único de zonificación de uso de suelo específico y factibilidades o certificado de acreditación de uso del suelo por derechos adquiridos o el resultado de la consulta del Sistema de Información Geográfica relativo al uso y factibilidades del predio;
 
-b) Un tanto del proyecto arquitectónico de la obra en planos a escala, debidamente acotados con las especificaciones de los materiales, acabados y equipos a utilizar, en los que se debe incluir, como mínimo: croquis de localización del predio, levantamiento del estado actual, indicando las construcciones y árboles existentes; planta de conjunto, mostrando los límites del predio y la localización y uso de las diferentes partes edificadas y áreas exteriores; plantas arquitectónicas, indicando el uso de los distintos locales y las circulaciones, con el mobiliario fijo que se requiera; cortes y fachadas; cortes por fachada, cuando colinden en vía pública y detalles arquitectónicos interiores y de obra exterior; plantas, cortes e isométricos en su caso, de las instalaciones hidrosanitarias, eléctricas, gas, instalaciones especiales y otras, mostrando las trayectorias de tuberías, alimentaciones y las memorias correspondientes;
+b) Un tanto del proyecto arquitectónico de la obra en planos a escala, debidamente acotados y con las especificaciones de los materiales, acabados y equipos a utilizar, en los que se debe incluir, como mínimo: croquis de localización del predio, levantamiento del estado actual, indicando las construcciones y árboles existentes; planta de conjunto, mostrando los límites del predio y la localización y uso de las diferentes partes edificadas y áreas exteriores; plantas arquitectónicas, indicando el uso de los distintos locales y las circulaciones, con el mobiliario fijo que se requiera; cortes y fachadas; cortes por fachada, cuando colinden en vía pública y detalles arquitectónicos interiores y de obra exterior; plantas, cortes e isométricos en su caso, de las instalaciones hidrosanitarias, eléctricas, gas, instalaciones especiales y otras, mostrando las trayectorias de tuberías, alimentaciones y las memorias correspondientes;
 
 c) Estos planos deben acompañarse de la memoria descriptiva, la cual contendrá como mínimo: el listado de locales construidos y áreas libres de que consta la obra, con la superficie y el número de ocupantes o usuarios de cada uno; los requerimientos mínimos de acceso y desplazamiento de personas con discapacidad, cumpliendo con las Normas correspondientes; coeficientes de ocupación y de utilización del suelo, de acuerdo a los Programas General, Delegacionales y/o Parciales, en su caso;
 
@@ -1778,7 +1788,7 @@ j) Cuando se trate de zonas de conservación del Patrimonio Histórico, Artísti
 
 k) En el caso de ampliaciones, modificaciones o reparaciones en edificaciones existentes, se debe presentar, de la obra original, la licencia de construcción especial o el registro de manifestación de construcción o el registro de obra ejecutada, así como indicar en planos la edificación original y el área donde se realizarán estos trabajos;
 
-IV. Presentado el formato de solicitud de constancia acompañado de los requisitos establecidos, el solicitante deberá fijar en lugar visible al exterior del predio una Cédula de Publicitación, con el fin de dar a conocer a los vecinos y comités vecinales que tengan interés legitimo, los alcances de la obra que se va a realizar;
+IV. Presentado el formato de solicitud de constancia acompañado de los requisitos establecidos, el solicitante deberá fijar en lugar visible al exterior del predio una Cédula de Publicitación, con el fin de dar a conocer a los vecinos y comités vecinales que tengan interés legítimo, los alcances de la obra que se va a realizar;
 
 V. La Cédula de Publicitación se colocará en lugares visibles al exterior del predio o inmueble por un periodo de 15 días hábiles contados a partir del día siguiente a la presentación de solicitud, y deberá contener;
 
@@ -1800,7 +1810,7 @@ VIII. La Delegación deberá transparentar e informar a los vecinos que lo solic
 
 IX. La manifestación de inconformidad deberá presentarse por escrito ante la Delegación, acreditando el interés legítimo del interesado, fundando los motivos de su inconformidad en el nexo causal existente entre la posible infracción o irregularidad aducida y el patrimonio afectado, o bien entre dichas infracciones o irregularidades y su modo de vida, debiendo adjuntar al escrito de manifestación de inconformidad las constancias con que se cuente;
 
-X. La Delegación en un término que no excederá de 5 días hábiles, emitirá opinión técnica en la cual considerará fundada o infundada la manifestación de inconformidad; de considerarlo necesario, con la manifestación de inconformidad, la Delegación por conducto de la Dirección de Obras y Desarrollo Urbano Delegacional correrá traslado al interesado y a las autoridades cuyos actos se presuman irregulares para que en el término de tres días hábiles a partir del en (sic) que surta efectos la notificación personal al efecto realizada, manifiesten lo que a su interés convenga.
+X. La Delegación en un término que no excederá de 5 días hábiles, emitirá opinión técnica en la cual considerará fundada o infundada la manifestación de inconformidad; de considerarlo necesario, con la manifestación de inconformidad, la Delegación por conducto de la Dirección de Obras y Desarrollo Urbano Delegacional correrá traslado al interesado y a las autoridades cuyos actos se presuman irregulares para que en el término de tres días hábiles a partir del en que surta efectos la notificación personal al efecto realizada, manifiesten lo que a su interés convenga.
 
 El interesado y la autoridad podrán acompañar a su escrito de contestación, los documentos que consideren pertinentes para acreditar la legalidad de los actos reclamados. Solo será admisible la prueba documental.
 
@@ -2217,3 +2227,19 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. La Persona Titular de la Jefatura de Gobierno de la Ciudad de México, en un plazo de 180 días naturales, deberá realizar las adecuaciones correspondientes al Reglamento para el Ordenamiento del Paisaje Urbano del Distrito Federal, a fin de otorgar operatividad a los previsto en el presente Decreto.
 
 CUARTO. La Secretaría, en un plazo no mayor a 90 días naturales, emitirá los formatos y establecerá los mecanismos para la presentación de la solicitud a que se refiere el presente Decreto.
+
+G.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 94 BIS; SE ADICIONA LA FRACCIÓN XXI BIS AL ARTÍCULO 3 Y LA FRACCIÓN XXXVI BIS AL ARTÍCULO 7, TODOS DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. El Reglamento de la presente Ley deberá modificarse en los términos de este Decreto, en un término de 90 días hábiles contados a partir de la entrada en vigor del presente.
+
+CUARTO. La Agencia Digital de Innovación Pública tendrá un plazo de 180 días hábiles a partir de la entrada en vigor del presente Decreto para desarrollar la Plataforma Digital mediante la cual se realizará la gestión de los trámites contenidos en la Ley.
+
+QUINTO. Los trámites contenidos en la Ley se continuarán presentando como hasta antes de la entrada en vigor del presente Decreto, hasta en tanto se habilite la Plataforma Digital, momento a partir del cual deberán ingresarse a través de dicho sistema.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
