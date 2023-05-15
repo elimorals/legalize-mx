@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2023-02-27"
+last_updated: "2023-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -2633,6 +2633,8 @@ El gobierno del Estado, a través de los Servicios de Salud, ejercerá los recur
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 176.
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
@@ -2651,13 +2653,15 @@ El gobierno del Estado, a través de los Servicios de Salud, ejercerá los recur
 
 ###### ARTICULO 179.
 
-Corresponde a la Secretaría de Salud del Estado, en el ámbito de su competencia, y en la circunscripción territorial de la Entidad en términos de esta Ley, de las demás disposiciones legales aplicables, y de los acuerdos de coordinación o colaboración que al efecto se celebren, el control y vigilancia sanitaria de las materias a que se refieren las fracciones V, VI y X del Apartado A; y fracciones II y III del Apartado B del artículo 13 de esta Ley.
+Corresponde a la Secretaría de Salud del Estado, a través de los Servicios de Salud de San Luis Potosí con la intervención y conducto del Órgano Administrativo Desconcentrado de los Servicios de Salud de San Luis Potosí denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de San Luis Potosí, en el ámbito de sus competencias, y en la circunscripción territorial de la Entidad en términos de esta Ley, de las demás disposiciones legales aplicables, y de los acuerdos de coordinación o colaboración que al efecto se celebren, el control y vigilancia sanitaria de las materias a que se refieren las fracciones V, VI y X del Apartado A; y fracciones II y III del Apartado B del artículo 13 de esta Ley.
 
-Dentro de la circunscripción territorial del Estado de San Luis Potosí, en el ámbito de su competencia y en términos de esta Ley, de las demás disposiciones legales aplicables y de conformidad con los acuerdos de coordinación o colaboración específicos, corresponde a los Servicios de Salud el control y vigilancia sanitaria de las materias a que se refieren las fracciones XII y XIII del artículo 14 de esta Ley.
+Dentro de la circunscripción territorial del Estado de San Luis Potosí, en el ámbito de su competencia y en términos de esta Ley, de las demás disposiciones legales aplicables y de conformidad con los acuerdos de coordinación y colaboración específicos, corresponde a los Servicios de Salud a través de su Órgano Administrativo Desconcentrado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de San Luis Potosí, el control y vigilancia sanitaria de las materias a que se refieren las fracciones XII y XIII del artículo 14 de esta Ley.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 180.
 
-Para efectos de este Título se entiende por control sanitario, el conjunto de acciones de orientación, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones que ejercen las autoridades sanitarias en el Estado, con base en lo establecido por la normatividad sanitaria y otras disposiciones legales aplicables.
+Para efectos de este Título se entiende por control sanitario, el conjunto de acciones de orientación, educación, muestreo, verificación,vigilancia (sic), fomento sanitario y en su caso, aplicación de medidas deseguridad (sic) y sanciones que ejercen la Secretaría de Salud del Estado por conducto de los Servicios de Salud a través de su Órgano Administrativo Desconcentrado denominadoComisión (sic) para la Protección contra Riesgos Sanitarios del Estado de San Luis Potosí, con base en lo establecido por sus reglamentos Interiores, la normatividad sanitaria, y otras disposiciones legales aplicables.
 
 ###### ARTICULO 181.
 
@@ -4794,3 +4798,11 @@ P.O. 27 DE FEBRERO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0754.- SE REFORMAN LOS ARTÍCULOS 179 Y 180, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
