@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2023-05-02"
+last_updated: "2023-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -2363,61 +2363,151 @@ III. La edición bimestral impresa de la Gaceta Parlamentaria, y
 
 IV. El apoyo en las relaciones públicas del Congreso.
 
-### CAPITULO XI. DE LA CONTRALORIA INTERNA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
+### CAPITULO XI. DEL ORGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 197.
 
-Para ser Contralor Interno del Congreso se requiere:
+Para ser titular del Órgano Interno de Control, se requiere:
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
 I. Contar con título y cédula profesional legalmente expedidos, relacionados con la función, y tres años cuando menos en el ejercicio profesional;
 
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2012)</small>
+
 II. Estar en pleno ejercicio de sus derechos políticos y civiles;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
 III. Al momento de su nombramiento no prestar sus servicios profesionales en la administración pública en cualquiera de los tres órdenes de gobierno, a excepción de las actividades de carácter docente; ni desempeñar actividades privadas que representen conflicto de intereses, y
 
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2012)</small>
+
 IV. No haber sido condenado por delito doloso.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 198.
 
-La Contraloría Interna tendrá las siguientes atribuciones:
+La persona titular del Órgano Interno de Control tendrá a su cargo las siguientes facultades:
 
-I. Planear, organizar, ejecutar y coordinar el programa anual de auditorías financieras, administrativas, contables y jurídicas que se llevarán a cabo en las áreas del Poder Legislativo, con el fin de comprobar el cumplimiento de la normatividad, criterios y procedimientos establecidos;
+I. GENERALES:
 
-II. Llevar un sistema de control que permita determinar el total de auditorías practicadas; tipo de auditoría; su alcance; los resultados obtenidos; y el grado de avance de las que se encuentran en estudio;
+a) Elaborar el programa anual de trabajo y darlo a conocer a la Junta de Coordinación Política, así como a la Directiva del Congreso, a más tardar el treinta y uno de diciembre del año anterior.
 
-III. Conocer, ejecutar, instaurar y sustanciar los procedimientos de responsabilidad administrativa, disciplinarios, por actos, omisiones e impugnaciones de los servidores públicos, comunicando y turnando a la Junta de Coordinación Política para que, en su caso, emita la resolución correspondiente e imponga las sanciones en los términos de la ley de la materia, o en su caso, lo reenvié al órgano competente;
+b) Elaborar el informe trimestral de actividades y presentarlo a la Junta de Coordinación Política y, a la Directiva del Congreso del Estado.
 
-IV. Recibir, registrar y entregar las declaraciones patrimoniales de los servidores públicos del Poder Legislativo, conforme a la ley de la materia y, en su caso, coadyuvar en requerir información adicional, así como realizar las investigaciones correspondientes, vigilando que se cumpla con las disposiciones legales en las declaraciones patrimoniales de los servidores públicos del Poder Legislativo, y dar seguimiento a su evolución patrimonial;
+c) Verificar, que los actos del Congreso se ajusten a las disposiciones legales vigentes, en materia de presupuestación, ingresos, egresos, adquisiciones, contabilidad, y de administración de personal; asignación, uso, transferencia, afectación, arrendamiento, conservación, enajenación y baja de muebles e inmuebles, y demás activos y recursos materiales propiedad o al cuidado del Congreso del Estado.
 
-V. Contar con un sistema de atención de quejas y denuncias respecto de la actuación de los servidores públicos del Poder Legislativo; así como recibir y dar seguimiento a las sugerencias, quejas y denuncias ciudadanas;
+d) Asesorar, en el ámbito de su competencia, a los órganos y las diferentes áreas administrativas y financieras del Poder Legislativo, para el mejor cumplimiento de sus programas, vigilando que cumplan con las políticas y programas establecidos por la Junta de Coordinación Política.
 
-VI. Proponer, coordinar y aplicar las normas y criterios en materia de control, fiscalización y evaluación que deban observar las diferentes áreas administrativas, financieras y coordinaciones, que ejerzan recursos del presupuesto de egresos del Poder Legislativo;
+e) Proponer a la Junta de Coordinación Política, la adopción de recomendaciones y de medidas preventivas o correctivas que se estime convenientes, para el desarrollo administrativo del Poder Legislativo, y darles seguimiento.
 
-VII. Asesorar, en el ámbito de su competencia, a los órganos y las diferentes áreas administrativas y financieras del Poder Legislativo, para el mejor cumplimiento de sus programas, vigilando que cumplan con las políticas y programas establecidos por la Junta de Coordinación Política;
+f) Promover la capacitación del personal del Órgano Interno de Control.
 
-VIII. Evaluar los criterios que regulen el funcionamiento de los instrumentos, sistemas y procedimientos de control en la administración y las finanzas del Poder Legislativo, con el fin de asegurar su eficiencia;
+g) Promover y vigilar el cumplimiento de las disposiciones legales, reglamentarias, así como políticas, manuales y lineamientos, que sean emitidos por el Órgano Interno de Control.
 
-IX. Proponer la adopción de recomendaciones y de medidas preventivas o correctivas que se estime convenientes, para el desarrollo administrativo del Poder Legislativo, y darles seguimiento;
+h) Denunciar ante las autoridades competentes, los hechos de que tenga conocimiento y que puedan ser constitutivos de delitos.
 
-X. Participar en los procesos de licitaciones para adquisiciones, arrendamientos y enajenaciones de bienes, prestación de servicios de cualquier naturaleza y contratación de otros que se realicen, verificando el cumplimiento de las disposiciones contenidas en la ley de la materia;
+i) Supervisar e intervenir en los procesos de entrega recepción de las y los servidores públicos del Congreso del Estado, a efecto de verificar el procedimiento a seguir, y conocer las incidencias que pudieran constituir faltas administrativas en términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
 
-XI. Vigilar que se realice y actualice periódicamente el inventario de los bienes muebles e inmuebles asignados o propiedad del Poder Legislativo;
+j) Participar en las actividades y atender los requerimientos y solicitudes o informes que le sean formulados por parte del Sistema Estatal Anticorrupción.
 
-XII. Supervisar la entrega-recepción del Poder Legislativo;
+k) Certificar los documentos de actuación en trámite y los existentes en sus archivos.
 
-XIII. Opinar sobre normas de contabilidad y de control en materia de programación, presupuestación, administración de personal, así como de recursos materiales y financieros del Poder Legislativo;
+l) Participar en los procesos de licitaciones para adquisiciones, arrendamientos y enajenaciones de bienes, prestación de servicios de cualquier naturaleza y contratación de otros que se realicen, verificando el cumplimiento de las disposiciones contenidas en la ley de la materia.
 
-XIV. Contribuir en la definición y establecimiento de los objetivos, políticas y procedimientos en materia de administración y desarrollo de personal, recursos materiales y financieros del Poder Legislativo;
+m) Solicitar a la Coordinación de Asuntos Jurídicos, llevar a cabo las notificaciones en los procesos de responsabilidades administrativas.
 
-XV. Supervisar y evaluar el manejo del presupuesto del Poder Legislativo, con el fin de determinar si su ejecución se ha llevado a cabo conforme a lo (sic) programas; y opinar sobre variaciones, modificaciones o correcciones, buscando con esto que se apliquen las políticas y medidas administrativas y financieras establecidas;
+n) Las demás que le señalen los ordenamientos legales, la Constitución Política del Estado; la Ley Orgánica del Poder Legislativo del Estado de San Luis Potosí; la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí; el presente Reglamento, así como los decretos, acuerdos, instrucciones y disposiciones que se emitan al interior del Congreso del Estado, o que determine la Junta de Coordinación Política;
 
-XVI. Certificar los documentos de actuación en trámite y los existentes en sus archivos;
+II. NORMATIVAS, EN MATERIA DE ÉTICA:
 
-XVII. Revisar la documentación justificativa y comprobatoria del gasto y del ingreso del Congreso del Estado, y
+a) Emitir y actualizar el Código de Ética de las y los servidores públicos del Congreso del Estado de San Luis Potosí.
 
-XVIII. Las demás que le señalen los ordenamientos legales, o que determine la Junta de Coordinación Política.
+b) Coadyuvar en la elaboración de los proyectos de políticas, lineamientos, estrategias y demás instrumentos de carácter general, para establecer acciones en materia de ética, integridad pública y prevención de conflictos de intereses de las y los servidores públicos del Congreso del Estado, a fin de prevenir conductas contrarias a las disposiciones que rigen su actuar.
+
+c) Fungir como órgano de asesoría y consulta en materia de ética, integridad pública y prevención de conflictos de intereses en el desempeño del servicio público;
+
+III. EN MATERIA DE AUDITORÍAS:
+
+a) Realizar las auditorías financieras, de cumplimiento y de desempeño a los órganos de soporte técnico, de apoyo y de control del Congreso del Estado, de acuerdo al programa anual de actividades del Órgano Interno de Control.
+
+b) Ordenar o determinar la práctica de visita de inspección o compulsa a los particulares, derivado de los hallazgos detectados dentro del proceso de auditoría, revisión o inspección a los órganos de soporte técnico, de apoyo y de control del Congreso del Estado.
+
+c) Dar seguimiento a las observaciones detectadas en las auditorías, revisiones, o visitas de inspección a los órganos de soporte técnico de apoyo y de control del Congreso del Estado; así como a las observaciones que determinen los órganos de fiscalización externos.
+
+d) Solicitar en términos de las disposiciones jurídicas aplicables, informes, documentos, opiniones, datos y demás elementos que requiera para llevar a cabo sus acciones de auditoría;
+
+IV. EN MATERIA DE DECLARACIONES:
+
+a) Recibir, dar seguimiento, y llevar el control de las declaraciones patrimoniales de los servidores públicos del Congreso del Estado, conforme a la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, y
+
+V. EN MATERIA DE QUEJAS Y DENUNCIAS:
+
+a) Contar con un sistema de atención de quejas y denuncias respecto de la actuación de las y los servidores públicos del Congreso del Estado.
+
+b) Recibir, atender y, en su caso turnar a la autoridad investigadora, las quejas y denuncias que se interpongan derivado de las actuaciones de las y los servidores públicos del Congreso del Estado.
+
+c) Las demás que le señalen los ordenamientos legales o que determine la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2023)</small>
+
+ARTICULO 198 BIS. Para el ejercicio de las atribuciones que dispone el artículo inmediato anterior, el Órgano Interno de Control, contará en su estructura con las autoridades para atender las funciones de investigación, substanciación, y resolución, en términos de la legislación aplicable en materia de responsabilidades y para tal efecto, serán las siguientes:
+
+I. La Autoridad Investigadora tendrá las atribuciones siguientes:
+
+a) Ejercer las atribuciones de autoridad investigadora, en los términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+
+b) Realizar, de oficio, a partir de una queja, denuncia, por instrucciones del Órgano Interno de Control, las investigaciones que le correspondan sobre el posible incumplimiento de los servidores públicos a las obligaciones a que se refiere la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+
+c) Llevar a cabo visitas de inspección.
+
+d) Llevar a cabo las investigaciones necesarias, respecto de las conductas de las y los servidores públicos y particulares, que pudiesen constituir faltas administrativas.
+
+e) Requerir en términos de las disposiciones jurídicas aplicables, informes, documentos, opiniones, datos y demás elementos que requiera para sus acciones de investigación, revisión, verificación y visitas de inspección a licitantes, proveedores, contratistas, donatarios y a aquellas personas que hayan sido subcontratadas por los anteriores y, en general, a personas físicas o morales relacionadas con el manejo, ejercicio y comprobación de recursos públicos.
+
+f) Solicitar en términos de las disposiciones jurídicas aplicables, la inmovilización y en su caso, secuestro de documentos, archivos o bienes, o cualquier otra medida cautelar que estime pertinente para el desarrollo de sus investigaciones.
+
+g) Citar, cuando lo estime necesario, al denunciante o al quejoso para la ratificación de la denuncia o la queja presentada en contra de servidores públicos por presuntas violaciones a la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, o incluso a otros servidores públicos que puedan tener conocimiento de los hechos a fin de constatar la veracidad de los mismos, así como solicitarles que aporten, en su caso, elementos, datos o indicios que permitan advertir la presunta responsabilidad del servidor público.
+
+h) Realizar la práctica de las actuaciones y diligencias que se requieran en el procedimiento de investigación.
+
+i) Requerir a las dependencias y entidades, así como a instituciones públicas federales, estatales o municipales, información y documentación relacionada con los hechos objeto de la investigación o bien, solicitarla a personas físicas y morales de conformidad con las disposiciones aplicables.
+
+j) Comunicar a la Coordinación de Asuntos Jurídicos, cuando de las investigaciones realizadas se presuma que el servidor público señalado como presunto responsable, incurrió en hechos delictuosos, a efecto de que se lleven a cabo las acciones legales conducentes.
+
+k) Las demás que las disposiciones legales y administrativas le confieran;
+
+II. La Autoridad Substanciadora tendrá las atribuciones siguientes:
+
+a) Ejercer las atribuciones de autoridad substanciadora, en los términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+
+b) Determinar la procedencia o improcedencia de iniciar los procedimientos administrativos de responsabilidad y, en su caso, citar al presunto responsable a la audiencia inicial en los términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+
+c) Decretar cuando proceda, la determinación de medidas cautelares en los términos del ordenamiento legal en materia de responsabilidades administrativas.
+
+d) Solicitar la colaboración de los órganos de soporte técnico, de apoyo y de control del Congreso del Estado, para efectos de la ejecución de medidas cautelares decretadas.
+
+e) Conocer, substanciar y resolver, los recursos administrativos que se promuevan con motivo de sus acuerdos o resoluciones, conforme a las disposiciones legales aplicables.
+
+f) Las demás que las disposiciones legales y administrativas le confieran, y
+
+III. La Autoridad Resolutora tendrá las atribuciones siguientes:
+
+a) Decretar cuando proceda, la determinación de medidas cautelares en los términos del ordenamiento legal en materia de responsabilidades administrativas.
+
+b) Solicitar la colaboración de los órganos de soporte técnico, de apoyo, y de control del Congreso del Estado, para efectos de la ejecución de medidas cautelares decretadas.
+
+c) Dictar la resolución que corresponda en el procedimiento administrativo de responsabilidades en términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+
+d) Las demás que las disposiciones legales y administrativas le confieran.
+
+Las autoridades, investigadora, substanciadora, y resolutora, para hacer cumplir sus determinaciones contarán con las medidas de apremio establecidas en la Ley de Responsabilidades Administrativas del Estado y Municipios de San Luis Potosí.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2013)</small>
 
@@ -3094,5 +3184,13 @@ P.O. 2 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0744.- SE REFORMA EL ARTÍCULO 132, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 72, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0748.- SE REFORMA DEL TÍTULO DÉCIMO, LA DENOMINACIÓN DEL CAPÍTULO XI Y LOS ARTÍCULOS 197 EN SU PÁRRAFO PRIMERO, Y 198; Y SE ADICIONA EL ARTÍCULO 198 BIS AL CAPÍTULO XI DEL TÍTULO DÉCIMO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
