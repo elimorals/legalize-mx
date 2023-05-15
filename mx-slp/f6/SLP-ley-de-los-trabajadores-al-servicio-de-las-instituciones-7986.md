@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2023-03-14"
+last_updated: "2023-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -719,7 +719,13 @@ I.- En el trabajo contratado por tiempo determinado menor de un año, el importe
 
 II.- En la relación de trabajo por tiempo indeterminado, consistirá en veinte días de salario por cada año de servicios prestados; y
 
-III.- Además de las indemnizaciones señaladas anteriormente, se pagará el importe de tres meses de salarios y los salarios vencidos desde la fecha del despido hasta que se paguen estos conceptos, cuando así proceda.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
+
+III. Además de las indemnizaciones señaladas anteriormente, se pagará el importe de tres meses de salarios y los salarios caídos desde la fecha del cese y hasta por un período máximo de doce meses, a razón del que corresponda a la fecha en que se realice el pago.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2023)</small>
+
+En su caso también se pagarán intereses, en términos del segundo párrafo del artículo 59.
 
 ###### ARTICULO 62.
 
@@ -2236,6 +2242,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 14 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0715.- SE REFORMA EL ARTÍCULO 5° BIS EN SUS FRACCIONES I Y II; Y ADICIONA AL MISMO ARTÍCULO 5° BIS, LAS FRACCIONES III Y IV, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0747.- SE REFORMA LA FRACCIÓN III, DEL ARTÍCULO 61; Y ADICIONA PÁRRAFO ÚLTIMO, AL ARTÍCULO 61, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
