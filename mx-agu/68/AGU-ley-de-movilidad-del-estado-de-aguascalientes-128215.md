@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2023-05-08"
+last_updated: "2023-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -2377,15 +2377,21 @@ III. De motociclista:
 
 Los motociclistas deberán satisfacer los mismos requisitos que los automovilistas, pero el examen de manejo será de motocicleta.
 
-La licencia podrá expedirse a personas de dieciséis años en adelante, a criterio de la SSP; en ese caso se deberá exhibir autorización del padre o tutor para tramitarla; los padres o tutores manifestarán por escrito su responsabilidad en los daños que sus hijos o pupilos puedan causar a terceros.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
+
+El permiso para conducir podrá expedirse a personas de dieciséis años en adelante, a criterio de la SSP; en ese caso se deberá exhibir autorización del padre o tutor para tramitarla; los padres o tutores manifestarán por escrito su responsabilidad en los daños que sus hijos o pupilos puedan causar a terceros.
 
 La SSP impartirá cursos de capacitación sobre el conocimiento de esta Ley y su Reglamento, seguridad vial, cultura de la movilidad y habilidad para la conducción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 103.
 
-Para solicitar la reposición de licencias, previo pago de derechos, se requerirá:
+Para solicitar la reposición de licencias o permiso para conducir, previo pago de derechos, se requerirá:
 
-I. Entregar copia de la licencia vencida o en su defecto proporcionar su número;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
+
+I. Entregar copia de la licencia o permiso para conducir vencido o en su defecto proporcionar su número;
 
 II. Aprobar el examen médico, según el tipo de licencia de que se trate;
 
@@ -2401,11 +2407,13 @@ VI. Con respecto a las licencias de operador de servicio público de personas, d
 
 Los titulares de las licencias de servicio público, con vigencia de cuatro a seis años, deberán acudir cada dos años a cursos de actualización en materia de movilidad y derechos humanos.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 105.
 
-Toda persona que haya obtenido licencia de conducir, deberá hacer uso de ella durante su vigencia, siempre que conserven las aptitudes necesarias para manejar vehículos de motor.
+Toda persona que haya obtenido licencia o permiso para conducir, deberá hacer uso de ella durante su vigencia, siempre que conserven las aptitudes necesarias para manejar vehículos de motor.
 
-Si durante la vigencia de la licencia sobreviene una causa que disminuya las aptitudes necesarias para conducir vehículos de motor, se suspenderá la licencia durante el tiempo que dure la incapacidad.
+Si durante la vigencia de la licencia o permiso para conducir sobreviene una causa que disminuya las aptitudes necesarias para conducir vehículos de motor, se suspenderá la licencia durante el tiempo que dure la incapacidad.
 
 ###### ARTÍCULO 106.
 
@@ -2423,7 +2431,9 @@ V. Presentar y aprobar el examen de agudeza audiovisual ante la SSP; y
 
 VI. En caso de menores sujetos a tutela, la personalidad del tutor deberá ser acreditada fehacientemente mediante la resolución judicial respectiva.
 
-Las reglas establecidas para el otorgamiento, conservación, suspensión o cancelación de las licencias para conducir, así como las sanciones previstas, serán aplicables, en lo conducente al régimen administrativo de los permisos otorgados a menores de edad, a que se refiere este Artículo.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
+
+Las reglas establecidas para el otorgamiento, conservación, renovación, suspensión o cancelación de las licencias para conducir, así como las sanciones previstas, serán aplicables, en lo conducente al régimen administrativo de los permisos para conducir otorgados a menores de edad, a que se refiere este artículo.
 
 ###### ARTÍCULO 107.
 
@@ -2469,9 +2479,13 @@ IV. En los demás casos que establezca la presente Ley.
 
 La validez de la licencia se suspenderá de seis meses a un año, en los siguientes casos:
 
-I. Si en el transcurso de un año acumula tres infracciones graves de las previstas en esta Ley o en la normatividad municipal correspondiente;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
 
-II. Cuando el titular cause algún daño, utilizando como medio comisivo específico el vehículo de motor; y
+I. Si en el transcurso de un año acumula tres infracciones graves o muy graves de las previstas en esta Ley o en la normatividad municipal correspondiente;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
+
+II. Cuando el titular sea sentenciado por cometer lesiones a terceros o daño en las cosas, utilizando como medio comisivo específico el vehículo de motor; y
 
 III. En los demás casos que establezca la presente Ley.
 
@@ -2519,9 +2533,11 @@ En todo caso, el infractor será puesto a disposición de la autoridad para indi
 
 En este supuesto no será aplicable lo dispuesto en el último párrafo del Artículo 112, en virtud de que la conducta prevista en dicha disposición queda consumida en la hipótesis aquí prevista.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 114.
 
-Se prohíbe a los propietarios de los vehículos de motor permitir que éstos sean conducidos por personas que no tengan licencia o permiso vigente.
+Se prohíbe a los propietarios de los vehículos de motor permitir que éstos sean conducidos por personas que no tengan licencia o permiso para conducir vigente.
 
 ###### ARTÍCULO 115.
 
@@ -5954,3 +5970,15 @@ Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decret
 ###### ARTICULO TERCERO.
 
 Dentro de las 60 días siguientes a la publicación del presente decreto se deberán realizar las modificaciones correspondientes al Reglamento de la Ley de Movilidad del Estado de Aguascalientes.
+
+P.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 328.- REFORMA A LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones jurídicas que se opongan al presente decreto.
