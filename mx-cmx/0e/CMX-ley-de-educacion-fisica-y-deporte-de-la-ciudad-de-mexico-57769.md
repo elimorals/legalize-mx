@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-fisica-y-deporte-de-la-ciudad-de-mexico-57769"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-04"
-last_updated: "2022-04-13"
+last_updated: "2023-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57769&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,15 +20,17 @@ issue_date: "2007-12-12"
 ---
 # LEY DE EDUCACION FISICA Y DEPORTE DE LA CIUDAD DE MEXICO -- ANTES LEY DE EDUCACION FISICA Y DEPORTE DEL DISTRITO FEDERAL --
 
-LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL
+LEY DE EDUCACIÓN FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MAYO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de enero de 2008.
 
 (Al margen superior un escudo que dice: Ciudad de México.- Capital en Movimiento)
 
-LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE MAYO DE 2023)</small>
+
+LEY DE EDUCACIÓN FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO
 
 MARCELO LUIS EBRARD CASAUBON, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
 
@@ -46,7 +48,9 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO
 
 Artículo Único.- Se expide la Ley de Educación Física y Deporte del Distrito Federal para quedar como sigue:
 
-LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE MAYO DE 2023)</small>
+
+LEY DE EDUCACIÓN FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO.
 
 ### CAPÍTULO PRIMERO
 
@@ -94,7 +98,9 @@ VIII. Sistema: El Sistema de Cultura Física y Deporte de la Ciudad de México;
 
 IX. Consejo: Consejo del Deporte de la Ciudad de México;
 
-X. Cultura física: Sistema de categorías desprendidas del (sic) la actividad motriz del hombre y manifestada en diferentes connotaciones determinadas en la práctica diaria vital, de donde se desprenden como categorías el entrenamiento deportivo, la educación física y la recreación física; y
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2023)</small>
+
+X. Cultura física: Sistema de categorías desprendidas de la actividad motriz de las personas y manifestada en diferentes connotaciones determinadas en la práctica diaria vital, de donde se desprenden como categorías el entrenamiento deportivo, la educación física y la recreación física; y
 
 XI. Liga: Organismo deportivo que tiene como finalidad agrupar, coordinar y estimular la formación de equipos para la práctica de una disciplina, independientemente de la denominación que adopte.
 
@@ -136,11 +142,11 @@ Corresponde al Instituto del Deporte de la Ciudad de México ser el órgano rect
 
 DEL SISTEMA DE CULTURA FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO.
 
-> <small>(REFORMADO, G.O. 3 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2023)</small>
 
 ###### Artículo 8.
 
-El Sistema de Cultura Física y Deporte de la Ciudad de México estará constituido por el conjunto de instrumentos, métodos, acciones, recursos y procedimientos que los individuos, agrupaciones sociales y organismos deportivos de los sectores público, social y privado de la Ciudad de México establezcan y lleven a cabo entre sí y con los diversos organismos que conforman el Sistema Nacional del Deporte.
+El Sistema de Cultura Física y Deporte de la Ciudad de México estará constituido por el conjunto de instrumentos, métodos, acciones, recursos y procedimientos que las personas, agrupaciones sociales y organismos deportivos de los sectores público, social y privado de la Ciudad de México establezcan y lleven a cabo entre sí y con los diversos organismos que conforman el Sistema Nacional del Deporte.
 
 > <small>(REFORMADO, G.O. 3 DE DICIEMBRE DE 2021)</small>
 
@@ -356,7 +362,9 @@ I.- Proponer, formular y ejecutar coordinadamente políticas que fomenten y desa
 
 II.- Establecer el procedimiento de coordinación en materia deportiva con los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales de la Ciudad de México;
 
-III.- En lo referente al deporte adaptado dará opinión, para que se efectúen las adecuaciones necesarias a la infraestructura deportiva, las cuales serán tomadas en cuenta en toda instalación deportiva que se construya y/o se remodele;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2023)</small>
+
+III.- En lo referente al deporte adaptado, así como en el deporte para las personas mayores dará opinión, para que se efectúen las adecuaciones necesarias a la infraestructura deportiva, las cuales serán tomadas en cuenta en toda instalación deportiva que se construya y/o se remodele;
 
 IV.- Promover la participación y conjunción de esfuerzos en materia deportiva entre los sectores público, social y privado;
 
@@ -381,6 +389,10 @@ IX.- Formular programas tendientes a apoyar, promover y fomentar el deporte real
 > <small>(ADICIONADA, G.O. 3 DE DICIEMBRE DE 2021)</small>
 
 IX Bis.- Promover programas que desarrollen actividades deportivas que busquen la inclusión de las niñas, niños y adolescentes, primordialmente aquellos que se encuentran en situación de vulnerabilidad y/o zonas de marginación.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] G.O. 15 DE MAYO DE 2023)</small>
+
+IX Ter. Fomentar e impulsar programas que desarrollen actividades deportivas que busquen la inclusión de las personas mayores de 60 años, primordialmente aquellas que se encuentran en situación de vulnerabilidad.
 
 > <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -416,7 +428,9 @@ XIX.- Deberá coordinar a las y los promotores deportivos quienes promoverán la
 
 XX.- Emitirá los certificados que acredite la condición de deportista de alto rendimiento, motivado de que dicha condición suponga para el deportista la obtención de beneficios inmediatos;
 
-XXI.- Realizar campañas para prevenir y combatir el uso de estimulantes, sustancias o métodos prohibidos y restringidos;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2023)</small>
+
+XXI. Realizar campañas para prevenir, combatir y erradicar el uso de estimulantes, sustancias psicoactivas o farmacológicas, así como métodos prohibidos y restringidos destinados a aumentar artificialmente las capacidades físicas de los deportistas o a modificar el resultado de las competiciones y que tengan relación con lo señalado en el Capítulo décimo cuarto de la presente ley.
 
 > <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -650,11 +664,15 @@ VI.- Prever anualmente, dentro de su presupuesto autorizado, los recursos necesa
 
 VII.- Llevar, mantener y actualizar un censo de sus usuarios e instalaciones deportivas; y expedir periódicamente, según la disciplina y modalidad deportiva de que se trate, las guías técnicas que contengan las características de las instalaciones y las normas de seguridad;
 
-VIII.- Contemplar las adecuaciones necesarias en sus instalaciones deportivas de acuerdo a la normatividad respectiva, para la práctica y desarrollo del deporte adaptado, así como el equipamiento, medidas de seguridad e implementos que requiere la práctica de este deporte, mismos que deberán ser previstos anualmente como parte de los programas que establece la fracción VI que antecede;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2023)</small>
+
+VIII. Contemplar las adecuaciones necesarias en sus instalaciones deportivas de acuerdo a la normatividad respectiva, para la práctica y desarrollo del deporte adaptado y del deporte para las personas mayores, así como el equipamiento, medidas de seguridad e implementos que requiere la práctica de estos deportes, mismos que deberán ser previstos anualmente como parte de los programas que establece la fracción VI que antecede;
 
 IX.- Fijar las bases a que se sujetará la participación de deportistas del Órgano Político-Administrativo de la Demarcación Territorial respectiva, en congruencia con las disposiciones federales y locales vigentes;
 
-X.- Destinar, conforme lo establezcan sus presupuestos de egresos, recursos para la construcción, mejoramiento, mantenimiento, equipamiento y rehabilitación de instalaciones deportivas;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2023)</small>
+
+X. Destinar, conforme lo establezcan sus presupuestos de egresos, recursos para la construcción, mejoramiento, mantenimiento, equipamiento y rehabilitación de instalaciones deportivas, atendiendo a las características de accesibilidad universal;
 
 > <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2013)</small>
 
@@ -1253,3 +1271,19 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promu
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN LOS ARTÍCULOS 2 FRACCIÓN X; 8; 23, FRACCIÓN III; 31 FRACCIONES VIII Y X; Y SE MODIFICA UNA FRACCIÓN IX TER AL ARTÍCULO 23, TODOS DE LA LEY DE EDUCACIÓN FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO".
+
+PRIMERO. Remítase a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ESPECIFICA LA DENOMINACIÓN DE LA LEY Y SE MODIFICA LA FRACCIÓN XXI DEL ARTÍCULO 23 DE LA LEY DE EDUCACIÓN FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO”.
+
+PRIMERO. Remítase a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
