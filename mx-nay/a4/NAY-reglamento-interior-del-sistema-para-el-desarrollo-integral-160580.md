@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-sistema-para-el-desarrollo-integral-160
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-09-30"
-last_updated: "2022-11-08"
+last_updated: "2023-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE NOVIEMBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
 
 Reglamento publicado en la Sección Décima Segunda del Número 63 en el Periódico Oficial del Estado de Nayarit, el viernes 30 de septiembre de 2022.
 
@@ -967,7 +965,7 @@ XII. Promover los productos que se elaboran en esta coordinación, a través de 
 
 XIII. Remitir a los artesanos que requieran apoyos de asistencia social, a las instancias correspondientes;
 
-XIV. Elaborar la nómina interna y llevar el control de incidencias del personal a su cargo;
+XIV. (DEROGADA, P.O. 15 DE MAYO DE 2023)
 
 XV. Vigilar y controlar que el personal adscrito a su cargo haga buen uso del equipo de oficina y de las instalaciones asignadas;
 
@@ -987,7 +985,7 @@ III. Registrar y controlar los recursos financieros, con apego a la normatividad
 
 IV. Presentar a la Coordinación de Recursos Financieros informe constante de ingresos y comprobación de gastos;
 
-V. Elaborar la nómina interna y llevar el control de incidencias del personal a su cargo;
+V. (DEROGADA, P.O. 15 DE MAYO DE 2023)
 
 VI. Vigilar y controlar entradas y salidas de materiales, herramientas de trabajo y equipo de oficina;
 
@@ -1515,7 +1513,7 @@ VIII. Vigilar y controlar que el personal adscrito a su cargo haga buen uso del 
 
 IX. Elaborar las solicitudes de requisiciones de material de oficina, anfiteatro y cafetería, entre otros; con el visto Bueno de la subdirección de programas sociales;
 
-X. Elaborar la nómina interna y llevar el control de incidencias del personal a su cargo;
+X. (DEROGADA, P.O. 15 DE MAYO DE 2023)
 
 XI. Proponer ante la Subdirección General de Programas Sociales, propuestas de capacitación para el personal adscrito a su cargo;
 
@@ -1628,3 +1626,11 @@ El titular de la Coordinación de Archivos, entre tanto se cuente (sic) suficien
 Dado en las Instalaciones del SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE NAYARIT; en Tepic, Nayarit en la Octava sesión extraordinaria celebrada el día 02 de septiembre del 2022.
 
 LOS INTEGRANTES DE LA JUNTA DE GOBIERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE NAYARIT. Lic. Cinthia Yaneth Rodríguez Gallegos, Representante del Presidente de la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit.- Rúbrica.- Mtro. Mauro Lugo Izaguirre, Director General del Sistema Para el Desarrollo Integral de la Familia del Estado de Nayarit.- Rúbrica.- Lic. Alfonso López Ríos, En Representación de la Secretaria para la Honestidad y la Buena Gobernanza.- Rúbrica.- Prof. Ignacio Alonso Langarica Ávalos, En Representación del Secretario General de Gobierno.- Rúbrica.- Dra. Reina Rosales Andrade, En Representación del Secretario de Desarrollo Sustentable.- Rúbrica.- L.C. Dora Angélica Tapia Ramos, En Representación del Secretario de Administración y Finanzas.- Rúbrica.- Lic. Alberto Gerardo Alvarado Villegas, En Representación del Fiscal General del Estado de Nayarit.- Rúbrica.- Dr. Sergio Zepeda Casillas, Encargado de la Subdelegación de Prestaciones del ISSSTE.- Rúbrica.- Dr. Jorge Martínez Torres, Titular del Órgano de Operación Administrativa Desconcentrada Estatal en Nayarit.- Rúbrica.- Lic. Iris Lindaly Gómez Salinas, Secretaria Técnica de Junta de Gobierno (sic) SIDIFEN.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO ADMINISTRATIVO QUE DEROGA DIVERSAS FRACCIONES AL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE NAYARIT".]
+
+Único. El presente decreto administrativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del estado de Nayarit.
