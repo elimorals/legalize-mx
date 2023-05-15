@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2022-09-10"
+last_updated: "2023-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -152,6 +152,18 @@ c) El premio al mérito de enfermería gestión e investigación en enfermería.
 > <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 XII. El premio Estatal al cuidado del medio ambiente, se otorgará al hombre y la mujer que se han distinguido en el Cuidado del Medio Ambiente en el Estado de Colima, en el marco del Día Mundial del Medio Ambiente, sumando esfuerzos en la lucha contra la contaminación, la protección de los ecosistemas y la biodiversidad de la cual dependemos todos.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 15 DE MAYO DE 2023)</small>
+
+XIII.- El Premio Estatal de Psicología se entregará a profesionales del área como reconocimiento y estímulo por la contribución relevante y distinguida en favor de la salud mental de la población colimense, conforme a las siguientes categorías:
+
+a) Enseñanza de la Psicología. Se otorgará a quien se haya distinguido profesionalmente en la enseñanza de psicología en cualquiera de sus especialidades y/o ámbito público o privado;
+
+b) Investigación en Psicología. Se otorgará a quien se haya distinguido profesionalmente en la investigación de la psicología en cualquiera de sus ramas o especialidades;
+
+c) Ejercicio Profesional de la Psicología. Se otorgará a quien se haya distinguido en el libre ejercicio de la profesión, trabajo en empresas y organizaciones; y
+
+d) Servicios a la Comunidad. Se otorgará a quien se haya distinguido profesionalmente en actividades de la participación y el trabajo desarrollado en comunidades rurales, zonas marginadas y/o a favor de cualquier grupo vulnerado.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
@@ -363,6 +375,28 @@ El "Premio Estatal al Cuidado del Medio Ambiente" a que hace referencia la fracc
 
 La Comisión de Educación y Cultura en conjunto con la Comisión de Desarrollo Urbano, Medio Ambiente y Movilidad del H. Congreso del Estado, expedirán la convocatoria en los primeros quince días del mes de mayo, misma que señalará los plazos, términos y requisitos, la cual será publicada en los periódicos de mayor circulación, dirigida a los medios de comunicación de la entidad, y a toda la población del Estado, para efectos de que se reciban propuestas a distinguir con dicho reconocimiento en el cuidado del medio ambiente".
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2023)</small>
+
+###### Artículo 13.
+
+El Premio Estatal de Psicología a que hace referencia la fracción XIII del artículo 1o, se entregará en sesión solemne del Congreso del Estado de Colima, la que se celebrará preferentemente el 20 de mayo de cada año, en el marco del Día del Psicólogo en México.
+
+Podrán postularse como candidatos(as) a psicólogos(as) mexicanos(as) que laboran en universidades, instituciones educativas o instituciones asistenciales públicas o privadas, industrias, empresas, comercios, centros o institutos de investigación, asociaciones civiles, medios de comunicación, oficinas gubernamentales, clubes deportivos, consultorios y oficinas independientes, así como aquellos que participen en organismos profesionales de psicólogos en el Estado de Colima. Con excepción de los miembros del Comité Directivo del Colegio Oficial de Psicólogos del Estado de Colima C.E.N. (Presidencia, Vicepresidencia y Secretaría General), así como las y los integrantes de la Junta de Honor y Justicia.
+
+Debiendo acompañar según el rubro en el que deseen participar lo siguiente:
+
+I. Enseñanza de la Psicología: documentación probatoria de la trayectoria académica, de docencia y las actividades académicas relacionadas, presentar además otras actividades no académicas pero que forman parte de la trayectoria profesional;
+
+II. Investigación en Psicología: documentación probatoria de los proyectos y productos de investigación, modalidad de participación, resultados y actividades relacionadas. Además de otras actividades no de investigación pero que forman parte de la trayectoria profesional;
+
+III. Ejercicio Profesional de la Psicología: documentos probatorios de las actividades profesionales como libre ejercicio de la profesión, trabajo en empresas y organizaciones, además incluir otras actividades del desarrollado en su trayectoria profesional; y
+
+IV. Servicios a la Comunidad: documentos probatorios de las actividades de la participación y el trabajo desarrollado en comunidades rurales, zonas marginadas, grupos vulnerados: colectivos de personas con discapacidad, grupos indígenas, a través de organizaciones de la sociedad civil u organismos asistenciales (no lucrativos) y de aquellos que procuran la defensa de los derechos humanos, resaltando el impacto y trascendencia de su trabajo. Además, incluir otras actividades que forman parte de su trayectoria profesional.
+
+La Comisión de Educación, Cultura, Ciencia y Tecnología, en conjunto con la Comisión de Salud y Deporte del H. Congreso del Estado de Colima, expedirá (sic) la convocatoria respectiva, misma que señalará los plazos, términos, categorías establecidas en el artículo 1° fracción XII, y requisitos, la cual será publicada en los medios de comunicación de mayor circulación de la entidad, a los profesionistas de psicología y en general a toda la población del Estado, para efectos de que se reciban propuestas a distinguir con dicho reconocimiento.
+
+Para determinar a la persona merecedora de dicho reconocimiento, se integrará un Comité por un representante de la Comisión de Educación, Cultura, Ciencia y Tecnología, un representante de la Comisión de Salud y Deporte ambas del Congreso del Estado, y un representante de la Secretaría de Salud del Gobierno del Estado, que se encargará de revisar y calificar la idoneidad de cada una de las personas propuestas; siendo las Comisiones Legislativas citadas, las encargadas de elaborar y presentar el dictamen al Pleno del Congreso.
+
 TRANSITORIOS:
 
 ###### Artículo 1o.
@@ -446,3 +480,11 @@ P.O. 10 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 143.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 312.- POR EL QUE SE ADICIONAN LA FRACCIÓN XIII AL ARTÍCULO 1º, Y EL ARTÍCULO 13 DE LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
