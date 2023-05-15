@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-administrativas-para-el-estado-y-12222
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2023-02-09"
+last_updated: "2023-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el día sábado 3 de junio de 2017.
 
@@ -73,11 +73,11 @@ I. Auditoría Superior: la Auditoría Superior del Estado;
 
 II. Autoridad investigadora: la autoridad que al interior de las contralorías, los órganos internos de control y la Auditoria Superior del Estado, es la encargada de la investigación de faltas administrativas;
 
-III. Autoridad substanciadora: la autoridad que al interior de las contralorías, los órganos internos de control y la Auditoria Superior del Estado, y en los casos que dispone esta Ley, el Tribunal, en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial. La función de la Autoridad substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2021)</small>
+III. Autoridad substanciadora: la autoridad que al interior de las contralorías, los órganos internos de control y la Auditoria Superior del Estado, y en los casos que dispone esta Ley, el Tribunal, en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial. La función de la Autoridad substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora;
 
-Tratándose de responsabilidad administrativa grave de servidores públicos de elección popular, y magistrados, el Tribunal Estatal de Justicia Administrativa, actuará como autoridad substanciadora y resolutora.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE MAYO DE 2023)</small>
 
 IV. Autoridad resolutora: tratándose de faltas administrativas no graves será:
 
@@ -185,9 +185,27 @@ VII. Promover, respetar, proteger y garantizar los derechos humanos en los térm
 
 VIII. Corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;
 
-IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones, y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
 
-X. Abstenerse de realizar cualquier trato o promesa privada que comprometa a los entes públicos.
+IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2023)</small>
+
+X. Se abstendrán de asociarse con inversionistas, contratistas o empresarios nacionales o extranjeros, para establecer cualquier tipo de negocio privado que afecte el desempeño imparcial y objetivo en razón de intereses personales o familiares, hasta el cuarto grado por consanguinidad o afinidad;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2023)</small>
+
+XI. Separarse legalmente de los activos e intereses económicos que afecten de manera directa el ejercicio de sus responsabilidades en el servicio público y que constituyan conflicto de intereses, de acuerdo con lo establecido en esta Ley, en forma previa a la asunción de cualquier empleo, cargo o comisión;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2023)</small>
+
+XII. Abstenerse de intervenir o promover, por sí o por interpósita persona, en la selección, nombramiento o designación para el servicio público de personas con quienes tenga parentesco por filiación hasta el cuarto grado o por afinidad hasta el segundo grado, y
+
+XIII. Abstenerse de realizar cualquier trato o promesa privada que comprometa a los entes públicos.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2023)</small>
+
+La separación de activos o intereses económicos a que se refiere la fracción XI de este artículo, deberá comprobarse mediante la exhibición de los instrumentos legales conducentes, mismos que deberán incluir una cláusula que garantice la vigencia de la separación durante el tiempo de ejercicio del cargo y hasta por un año posterior a haberse retirado del empleo, cargo o comisión.
 
 ### Capítulo III. Autoridades Competentes
 
@@ -208,6 +226,10 @@ II. El Congreso del Estado;
 III. La Auditoria Superior del Estado;
 
 IV. El Pleno del Supremo Tribunal de Justicia del Estado; y el Consejo de la Judicatura del Poder Judicial del Estado;
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2023)</small>
+
+Tratándose de las responsabilidades administrativas de los Servidores Públicos del Poder Judicial del Estado, serán competentes para investigar e imponer las sanciones que correspondan, el Pleno del Supremo Tribunal de Justicia, y el Consejo de la Judicatura, conforme al régimen establecido en el artículo 90 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, y su reglamentación. Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos;
 
 V. Las contralorías;
 
@@ -241,9 +263,11 @@ En caso de que la Auditoría Superior del Estado detecte posibles faltas adminis
 
 En los casos en que, derivado de sus investigaciones, se advierta la presunta comisión de delitos, presentarán las denuncias correspondientes ante el Ministerio Público competente.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 12.
 
-El Tribunal, además de las facultades y atribuciones conferidas en su legislación orgánica y demás normatividad aplicable, estará facultado para resolver la imposición de sanciones por la comisión de faltas administrativas graves, y de faltas de particulares, conforme a lo dispuesto en esta Ley; con excepción de las faltas administrativas graves de los servidores públicos de elección popular, y de los magistrados, en cuyo caso se tramitarán de conformidad con lo dispuesto en la (sic) este Ordenamiento.
+El Tribunal, además de las facultades y atribuciones conferidas en su legislación orgánica y demás normatividad aplicable, estará facultado para resolver la imposición de sanciones por la comisión de faltas administrativas graves, y de faltas de particulares, conforme a lo dispuesto en esta Ley.
 
 ###### ARTÍCULO 13.
 
@@ -521,9 +545,17 @@ VI. Supervisar que los servidores públicos sujetos a su dirección, cumplan con
 
 VII. Rendir cuentas sobre el ejercicio de las funciones, en términos de las normas aplicables;
 
-VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte, y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
 
-IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un conflicto de interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad.
+VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
+
+IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un conflicto de interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad, y
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2023)</small>
+
+X. Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés.
 
 Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales.
 
@@ -547,13 +579,25 @@ Las conductas previstas en el presente capítulo constituyen faltas administrati
 
 Incurrirá en cohecho el servidor público que exija, acepte, obtenga o pretenda obtener, por sí o a través de terceros, con motivo de sus funciones, cualquier beneficio no comprendido en su remuneración como servidor público, que podría consistir en dinero; valores; bienes muebles o inmuebles, incluso mediante enajenación en precio notoriamente inferior al que se tenga en el mercado; donaciones; servicios; empleos y demás beneficios indebidos para sí o para su cónyuge, parientes consanguíneos o por afinidad hasta el cuarto grado, parientes civiles o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen parte o hayan formado parte en el último año.
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2023)</small>
+
+También incurrirá en cohecho, el servidor público que se abstenga de devolver el pago en demasía de su legítima remuneración de acuerdo a los tabuladores que al efecto resulten aplicables, dentro de los 30 días naturales siguientes a su recepción o al requerimiento que se realice por parte del área encargada de su pago.
+
 ###### ARTÍCULO 52.
 
 Cometerá peculado el servidor público que autorice, solicite o realice actos para el uso o apropiación para sí o para las personas a las que se refiere el artículo anterior, de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables.
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2023)</small>
+
+En términos de lo dispuesto por el párrafo anterior, los servidores públicos no podrán disponer del servicio de miembros de alguna corporación policiaca, seguridad pública o de las fuerzas armadas, en el ejercicio de sus funciones, para otorgar seguridad personal, salvo en los casos en que la normativa que regule su actividad lo contemple o por las circunstancias se considere necesario proveer de dicha seguridad, siempre que se encuentre debidamente justificada a juicio del titular de las propias corporaciones de seguridad y previo informe al Órgano Interno de Control respectivo o a la Contraloría.
+
 ###### ARTÍCULO 53.
 
 Será responsable de desvío de recursos públicos el servidor público que autorice, solicite o realice actos para la asignación o desvío de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2023)</small>
+
+También se considerará desvío de recursos públicos, el otorgamiento o autorización, para sí o para otros, del pago de una remuneración en contravención con los tabuladores que al efecto resulten aplicables, así como el otorgamiento o autorización, para sí o para otros, de pagos de jubilaciones, pensiones o haberes de retiro, liquidaciones por servicios prestados, préstamos o créditos que no estén previstos en ley, decreto legislativo, contrato colectivo, contrato ley o condiciones generales de trabajo.
 
 Para los efectos de este artículo no se consideraran beneficios los que reciban los servidores públicos de los centros públicos de investigación, instituciones de educación y las entidades de la Administración Pública Estatal a que se refiere el artículo 51 de la Ley de Ciencia y Tecnología, que realicen actividades de investigación científica, desarrollo tecnológico e innovación podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios, en los términos que para ello establezcan los órganos de gobierno de dichos centros, instituciones y entidades, con la previa opinión de la contraloría.
 
@@ -587,6 +631,10 @@ Será obligación del jefe inmediato determinar y comunicarle al servidor públi
 
 Será responsable de contratación indebida el servidor público que autorice cualquier tipo de contratación, así como la selección, nombramiento o designación, de quien se encuentre impedido por disposición legal o inhabilitado por resolución de autoridad competente para ocupar un empleo, cargo o comisión en el servicio público o inhabilitado para realizar contrataciones con los entes públicos, siempre que en el caso de las inhabilitaciones, al momento de la autorización, éstas se encuentren inscritas en el Sistema Estatal de Servidores Públicos y Particulares Sancionados de la Plataforma Digital Estatal.
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2023)</small>
+
+Incurrirá en la responsabilidad dispuesta en el párrafo anterior, el servidor público que intervenga o promueva, por sí o por interpósita persona, en la selección, nombramiento o designación de personas para el servicio público en función de intereses de negocios.
+
 ###### ARTÍCULO 59.
 
 Incurrirá en enriquecimiento oculto u ocultamiento de conflicto de interés el servidor público que falte a la veracidad en la presentación de las declaraciones de situación patrimonial o de intereses, que tenga como fin ocultar, respectivamente, el incremento en su patrimonio o el uso y disfrute de bienes o servicios que no sea explicable o justificable, o un conflicto de interés.
@@ -606,6 +654,10 @@ Cometerá desacato el servidor público que, tratándose de requerimientos o res
 > <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2021)</small>
 
 Igualmente, cometerán desacato los servidores públicos que, tratándose de requerimientos o resoluciones de autoridades laborales, retrasen deliberadamente y sin justificación el pago de un laudo laboral declarado firme y que no hayan hecho gestiones tendientes para su pago durante su administración. Conducta sancionada conforme (sic) lo establecido por el artículo 77 de esta Ley y, en caso de que la persona demandada ya no sea servidor público, se aplicarán las sanciones establecidas en la fracción IV del mismo numeral.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2023)</small>
+
+ARTÍCULO 62 BIS. Cometerá nepotismo el servidor público que, valiéndose de las atribuciones o facultades de su empleo, cargo o comisión, directa o indirectamente, designe, nombre o intervenga para que se contrate como personal de confianza, de estructura, de base o por honorarios en el ente público en que ejerza sus funciones, a personas con las que tenga lazos de parentesco por consanguinidad hasta el cuarto grado, de afinidad hasta el segundo grado, o vínculo de matrimonio o concubinato.
 
 ###### ARTÍCULO 63.
 
@@ -782,6 +834,10 @@ IV. Las condiciones exteriores y los medios de ejecución;
 V. La reincidencia en el incumplimiento de obligaciones, y
 
 VI. El monto del beneficio derivado de la infracción que haya obtenido el responsable.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2023)</small>
+
+ARTÍCULO 79 BIS. Si el beneficio indebidamente obtenido u otorgado a que hacen referencia los artículos 51 segundo párrafo, y 53 segundo párrafo, de esta Ley, no excede el equivalente a cinco mil veces el valor diario de la UMA, y además se ha devuelto la cantidad entregada o depositada en demasía conforme al tabulador aplicable, la falta administrativa será considerada no grave.
 
 ### Capítulo III. Sanciones por Faltas de Particulares
 
@@ -981,9 +1037,19 @@ Una vez calificada la conducta en los términos del párrafo anterior, se inclui
 
 Si no se encontraren elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del infractor, se emitirá un acuerdo de conclusión y archivo del expediente, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar. Dicha determinación, en su caso, se notificará a los servidores públicos y particulares sujetos a la investigación, así como a los denunciantes cuando éstos fueren identificables, dentro los diez días hábiles siguientes a su emisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 103.
 
-Las autoridades substanciadoras, o en su caso, las resolutoras se abstendrán de iniciar el procedimiento de responsabilidad administrativa o de imponer sanciones administrativas, cuando de las investigaciones practicadas o derivado de la valoración de las pruebas aportadas en el procedimiento referido, adviertan que no existe daño ni perjuicio a la hacienda o al patrimonio de los entes públicos y que la actuación del servidor público esté referida a una cuestión de criterio o arbitrio opinable o debatible, en la que válidamente puedan sustentarse diversas soluciones, siempre que la conducta o abstención no constituya una desviación a la legalidad y obren constancias de los elementos que tomó en cuenta el servidor público en la decisión que adoptó.
+Las autoridades substanciadoras, o en su caso, las resolutoras se abstendrán de iniciar el procedimiento de responsabilidad administrativa o de imponer sanciones administrativas, cuando de las investigaciones practicadas o derivado de la valoración de las pruebas aportadas en el procedimiento referido, adviertan que no existe daño ni perjuicio a la hacienda o al patrimonio de los entes públicos y que se actualiza alguna de las siguientes hipótesis:
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2023)</small>
+
+I. Que la actuación del servidor público, en la atención, trámite o resolución de asuntos a su cargo, esté referida a una cuestión de criterio o arbitrio opinable o debatible, en la que válidamente puedan sustentarse diversas soluciones, siempre que la conducta o abstención no constituya una desviación a la legalidad y obren constancias de los elementos que tomó en cuenta el Servidor Público en la decisión que adoptó, o
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2023)</small>
+
+II. Que el acto u omisión fue corregido o subsanado de manera espontánea por el servidor público o implique error manifiesto y en cualquiera de estos supuestos, los efectos que, en su caso, se hubieren producido, desaparecieron.
 
 La autoridad investigadora o el denunciante, podrán impugnar la abstención, en los términos de lo dispuesto por la presente Ley.
 
@@ -1934,6 +2000,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 9 DE FEBRERO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0687.- SE REFORMA EL ARTÍCULO 56, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0753.- SE REFORMAN LOS ARTÍCULOS 3°, 6°, 12, 48 Y 103; SE ADICIONA A Y LOS ARTÍCULOS 6°, 8°, 48, 51, 52, 53, 58, 62 BIS, 79 BIS Y 103; Y SE DEROGA DEL ARTÍCULO 3° EN SU FRACCIÓN III EL PÁRRAFO SEGUNDO, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
