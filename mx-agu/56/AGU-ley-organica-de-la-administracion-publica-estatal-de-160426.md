@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-estatal-de-160426"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-09-30"
-last_updated: "2023-01-30"
+last_updated: "2023-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE ENERO DE 2023 NO APLICA AL ARTICULADO DEL DECRETO 280 PUBLICADO EN EL P.O. DE 30 DE ENERO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
 
 Ley publicada en el Número 56 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -1161,7 +1159,9 @@ IV. Evaluar la aplicación de las transferencias de fondos a favor de los munici
 
 V. Coordinar, concertar y ejecutar, conjuntamente con el Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, programas especiales para la atención de las personas que se encuentren en estado de marginación, riesgo, vivan discriminación o algún tipo de violencia, para promover un desarrollo económico con sentido social;
 
-VI. Promover y apoyar, conjuntamente con el Instituto de Planeación del Estado de Aguascalientes, mecanismos de financiamiento para el bienestar social y el desarrollo regional, urbano y rural;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
+
+VI. Promover y apoyar, conjuntamente con la Secretaría de Planeación, Participación y Desarrollo, mecanismos de financiamiento para el bienestar social y el desarrollo regional, urbano y rural;
 
 VII. Coordinar y ejecutar, conjuntamente con la Secretaría de Desarrollo Económico, la política estatal para crear y apoyar empresas que vinculen a personas de la tercera edad, en estado de riesgo, de indefensión, o vivan algún tipo de violencia o discriminación;
 
@@ -1205,7 +1205,9 @@ A la Secretaría de Obras Públicas corresponde el despacho de los siguientes as
 
 I. Conducir, coordinar, controlar y evaluar las políticas y programas sectoriales de infraestructura y obras públicas;
 
-II. Proyectar, ejecutar, supervisar, vigilar, dirigir, inspeccionar y evaluar las obras públicas y servicios relacionados que determine el Plan de Desarrollo del Estado y los programas que deriven del mismo de conformidad con las aprobaciones de recursos económicos que emita el Instituto de Planeación del Estado de Aguascalientes, directamente o a través de terceros, en los términos de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes y sus Municipios y demás disposiciones aplicables en la materia;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
+
+II. Proyectar, ejecutar, supervisar, vigilar, dirigir, inspeccionar y evaluar las obras públicas y servicios relacionados que determine el Plan de Desarrollo del Estado y los programas que deriven del mismo de conformidad con las aprobaciones de recursos económicos que emita la Secretaría de Planeación, Participación y Desarrollo, directamente o a través de terceros, en los términos de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes y sus Municipios y demás disposiciones aplicables en la materia;
 
 III. Formular y proponer en coordinación con las Dependencias y Entidades de la Administración Pública Estatal, en la elaboración del Programa Anual de Obras Públicas, y vigilar su cumplimiento;
 
@@ -1537,7 +1539,9 @@ XV. Autorizar el derecho de transmisión de concesiones convencionales por causa
 
 XVI. Analizar y, en su caso, autorizar la variación de las condiciones de la concesión o permiso para la prestación del servicio de transporte público;
 
-XVII. Coadyuvar con el Instituto de Planeación del Estado de Aguascalientes y la Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral, en la expedición de las normas administrativas a que debe sujetarse la prestación de los servicios de transporte;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
+
+XVII. Coadyuvar con la Secretaría de Planeación, Participación y Desarrollo, en la expedición de las normas administrativas a que debe sujetarse la prestación de los servicios d e (sic) transporte;
 
 XVIII. Ejecutar los acuerdos de la persona titular del Poder Ejecutivo del Estado en materia de movilidad;
 
@@ -1579,7 +1583,9 @@ XXXVI. Autorizar las tarjetas de prepago o descuento para los usuarios del trans
 
 XXXVII. Prestar y solicitar cooperación a las autoridades de tránsito federal, y coadyuvar con las autoridades judiciales y administrativas del fuero común y federal;
 
-XXXVIII. Colaborar con el Instituto de Planeación del Estado de Aguascalientes, la Secretaría de Sustentabilidad, Medio Ambiente y Agua, y con los ayuntamientos en la realización de los estudios que se requieran para prevenir el impacto ambiental que pueda tener la ejecución de las obras públicas en materia de movilidad;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
+
+XXXVIII. Colaborar con la Secretaría de Planeación, Participación y Desarrollo, la Secretaría de Sustentabilidad, Medio Ambiente y Agua, y con los ayuntamientos en la realización de los estudios que se requieran para prevenir el impacto ambiental que pueda tener la ejecución de las obras públicas en materia de movilidad;
 
 XXXIX. Coadyuvar en la elaboración de las normas técnicas y administrativas a que deben sujetarse la construcción y operación de obras, instalaciones y programas para la prestación del servicio de transporte de competencia del Gobierno del Estado;
 
@@ -1906,3 +1912,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
+
+P.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 329.- REFORMA A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
