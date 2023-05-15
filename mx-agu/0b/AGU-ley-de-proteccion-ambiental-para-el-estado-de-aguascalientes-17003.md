@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2023-01-23"
+last_updated: "2023-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -1077,11 +1077,11 @@ La Secretaría deberá emitir la resolución correspondiente en un plazo no mayo
 
 Los resultados de la consulta pública deberán ser tomados en consideración por la Secretaría para establecer las condiciones a que deberá sujetarse la obra o actividad sujeta a evaluación de impacto ambiental, en caso contrario la autoridad deberá justificar la improcedencia de dichos resultados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 41.
 
-En aquellos casos en los que se inicie el desarrollo de una obra o actividad sin contar con la autorización correspondiente en materia de impacto ambiental, emitida por la autoridad correspondiente en los términos que la presente Ley establece, la Secretaría podrá requerir, posteriormente a la intervención de la Procuraduría, un Estudio de Daño Ambiental, en el cual se den a conocer los efectos negativos y/o daños ambientales que se presentaron o se han presentado a consecuencia del desarrollo de la misma, indicando además la forman (sic) que serán eliminados, controlados, mitigados o compensados, según sea el caso. Esto sin perjuicio de las sanciones a las que se haga acreedor, de conformidad con lo establecido en la presente Ley, sus reglamentos y demás disposiciones legales aplicables.
+En aquellos casos en los que se inicie el desarrollo de una obra o actividad sin contar con la autorización correspondiente en materia de impacto ambiental, emitida por la autoridad correspondiente en los términos que la presente Ley establece, la Secretaría podrá requerir, posteriormente a la intervención de la Procuraduría, un Estudio de Daño Ambiental, en el cual se den a conocer los efectos negativos y/o daños ambientales que se presentaron o se han presentado a consecuencia del desarrollo de la misma, indicando además la forma en que serán eliminados, controlados, mitigados o compensados, según sea el caso. Esto sin perjuicio de las sanciones a las que se haga acreedor, de conformidad con lo establecido en la presente Ley, sus reglamentos y demás disposiciones legales aplicables.
 
 En el supuesto caso de que las actividades previstas no se hubieren concluido en su totalidad, el Estudio de Daño Ambiental deberá incluir un apartado en el cual se haga una valoración de los impactos ambientales que ésta generara y se indique la forma de evitarlos, mitigarlos o compensarlos.
 
@@ -1223,17 +1223,17 @@ IV. Reciclaje; y
 
 V. Disminución de la generación de residuos.
 
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
 
-Asimismo, adoptaran las medidas y estrategia (sic) necesarias para propiciar el fortalecimiento y la formación de nuevos valores y actitudes en relación con el entorno, particularmente, en lo relativo a pautas de consumo, utilizando para ello los medios de comunicación masiva.
+Asimismo, adoptarán las medidas y estrategias necesarias para propiciar el fortalecimiento y la formación de nuevos valores y actitudes en relación con el entorno, particularmente, en lo relativo a pautas de consumo, utilizando para ello los medios de comunicación masiva.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
 
-La Secretaría, en coordinación con el Instituto de Educación, fomentara y otorgara diversos incentivos a fin de que las instituciones de Educación superior y los organismos dedicados a la investigación científica y tecnológica, establezcan programas académicos con el objeto de fomentar la formación de especialistas en la materia, la capacitación de personal técnico y directivo, además de la investigación de las causas y fenómenos ambientales.
+La Secretaría, en coordinación con el Instituto de Educación, fomentará y otorgará diversos incentivos, a fin de que las instituciones de Educación Superior y los organismos dedicados a la investigación científica y tecnológica, establezcan programas académicos con el objeto de fomentar la formación de especialistas en la materia, la capacitación de personal técnico y directivo, además de la investigación de las causas y fenómenos ambientales.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
 
-La (sic) autoridades competentes promoverán, certificaran y reforzaran que los programas de educación técnica, licenciatura y posgrado, contengan en sus procesos curriculares los conocimientos y habilidades necesarias, a efectos de que los egresados de los mismos hayan adquirido las aptitudes que prevengan, mitiguen y corrijan los impactos ambientales que cause el ejercicio de su práctica profesional.
+Las autoridades competentes promoverán, certificarán y reforzarán que los programas de educación técnica, licenciatura y posgrado, contengan en sus procesos curriculares los conocimientos y habilidades necesarias, a efectos de que los egresados de los mismos hayan adquirido las aptitudes que prevengan, mitiguen y corrijan los impactos ambientales que cause el ejercicio de su práctica profesional.
 
 La educación ambiental, en cualquiera de sus modalidades, deberá basar sus contenidos en la agenda de prioridades de la problemática ambiental local.
 
@@ -1753,7 +1753,9 @@ I. Categoría del área natural protegida, así como la finalidad u objetivos de
 
 II. Delimitación precisa del área, ubicación, superficie, medidas y linderos, plano geográfico y, en su caso, la zonificación correspondiente;
 
-III. La concocordancia (sic) con el programa de Desarrollo Urbano correspondiente tratándose de centros de población;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
+
+III. La concordancia con el programa de Desarrollo Urbano correspondiente tratándose de centros de población;
 
 IV. Usos y destinos del suelo (zonificación del predio), restricciones y limitaciones al uso y aprovechamiento de los recursos naturales, elementos naturales que deberán ser sujetos a protección especial;
 
@@ -1787,7 +1789,9 @@ Una vez establecida un área natural protegida, sólo podrá ser modificada por 
 
 El Gobierno del Estado o el ayuntamiento correspondiente promoverá ante la Federación la firma de los convenios para que en el otorgamiento o expedición de permisos, licencias, concesiones o en general de autorizaciones a que se sujetarán la exploración, explotación, o aprovechamiento de recursos en Áreas Naturales Protegidas, se observen las disposiciones de esta Ley, las declaratorias de establecimiento correspondiente, así como los programas de manejo.
 
-El Gobierno del Estado o el municipio correspondiente, con base en los estudios técnicos y socioeconómicos practicados, podrá solicitar a la autoridad competente, la revocación del permiso, licencia, concesión o autorización, cuando la exploración, explotación o aprovechamiento de recursos, ocasione o pueda ocasionar deterioro al ambiente o daños graves a los recursos naturales.. (sic)
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
+
+El Gobierno del Estado o el municipio correspondiente, con base en los estudios técnicos y socioeconómicos practicados, podrá solicitar a la autoridad competente, la revocación del permiso, licencia, concesión o autorización, cuando la exploración, explotación o aprovechamiento de recursos, ocasione o pueda ocasionar deterioro al ambiente o daños graves a los recursos naturales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
@@ -3181,9 +3185,9 @@ IV. Solicitar al generador o al prestador de servicios de residuos no peligrosos
 
 V. Instrumentar los sistemas de depósito y recolección diferenciada de los residuos sólidos urbanos, para lo cual los municipios elaboraran programas específicos para su instrumentación;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
 
-VI. Crear programas encaminados a la educación, cultura y difusión de la separación de los residuos sólidos; y
+VI. Crear programas encaminados a la educación, cultura y difusión de la separación de los residuos sólidos, así como al fomento de utilización de residuos de menor impacto ambiental; y
 
 > <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
 
@@ -3797,7 +3801,9 @@ En aquellos casos en que, como resultado del ejercicio de sus atribuciones, la a
 
 La autoridad ambiental proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le soliciten el Ministerio Público o las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos en contra del ambiente.
 
-Igualmente la autoridad ambiental proporcionará los dictámenes técnicos o periciales que le soliciten, con motivo de los juicios que ser (sic) ventilen ante los Tribunales correspondientes.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
+
+Igualmente, la autoridad ambiental proporcionará los dictámenes técnicos o periciales que le soliciten, con motivo de los juicios que se ventilen ante los Tribunales correspondientes.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -4086,3 +4092,9 @@ P.O. 23 DE ENERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 335.- REFORMA A LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
