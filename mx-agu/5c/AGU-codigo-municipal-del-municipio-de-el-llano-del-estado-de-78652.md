@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-del-municipio-de-el-llano-del-estado-de-78652"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-01-17"
-last_updated: "2023-04-24"
+last_updated: "2023-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE EL LLANO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE ABRIL DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de enero de 2011.
 
@@ -620,6 +618,26 @@ J. Designar a los integrantes del Sistema Municipal de Prevención, Atención, S
 K. Aprobar el Programa Municipal para prevenir, atender, sancionar y erradicar la violencia, el cual se diseñará con base a la perspectiva de género; y
 
 L. Constituir la Instancia Municipal de Atención de las Mujeres del Municipal de El Llano, a efecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones, dirigidas al desarrollo de las mujeres del Municipio, a fin de lograr su plena participación en los ámbitos económico, político, social, cultural, laboral y educativo.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 15 DE MAYO DE 2023)</small>
+
+LXIII. En materia de Desarrollo Urbano y Vivienda:
+
+A. Autorizar la constitución, modificación y extinción del régimen de propiedad en condominio, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados o menos de 100 predios, viviendas, departamentos, unidades o áreas, previa opinión de la SEPLAPDE;
+
+B. Autorizar los desarrollos inmobiliarios especiales, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados, previa opinión de la SEPLAPDE;
+
+C. Autorizar la sustitución de áreas de donación municipal por infraestructura y equipamiento, respecto de los proyectos autorizados por el Municipio, así como el calendario o programa de obras de urbanización determinando la temporalidad para su ejecución, de acuerdo a la superficie y las implicaciones del proyecto correspondiente;
+
+D. Autorizar el inicio de las obras de urbanización de los condominios y subdivisiones autorizados por el municipio;
+
+E. Autorizar la venta de predios, previo cumplimiento de los requisitos legales, respecto de los condominios autorizados por el municipio;
+
+F. Expedir y revocar los permisos para las urbanizaciones cerradas;
+
+G. Coordinarse con la SEPLAPDE, para implementar, integrar y operar en el ámbito de su competencia el expediente digital único, para la tramitación, autorización, ejecución y control de las obras de urbanización, así como la municipalización de un fraccionamiento o subdivisión y la entrega de las obras de urbanización de los condominios;
+
+H. Coordinarse con la SEPLAPDE, para implementar y actualizar una certificación para los asesores inmobiliarios, a fin de propiciar y facilitar que los fraccionadores y promotores, efectúen la debida, correcta y expedita integración de los expedientes para la autorización y ejecución de las obras de urbanización, en los fraccionamientos, condominios y desarrollos inmobiliarios especiales;
 
 ###### ARTÍCULO 36.
 
@@ -3497,7 +3515,9 @@ XVII. Administrar el control urbano con el otorgamiento de las autorizaciones de
 
 XVIII. Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y uso de la vía pública;
 
-XIX. Llevar un registro de peritos, así como asignar peritajes por servicio social en los casos que prevé este Código;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
+
+XIX. Llevar un registro de peritos responsables de obra o especializado, así como asignar peritajes por servicio social en los casos que prevé este Código;
 
 XX. Inspeccionar obras, edificios y construcciones en general;
 
@@ -3507,7 +3527,9 @@ XXII. Acordar las medidas que fueren procedentes en relación con las edificacio
 
 XXIII. Ordenar la realización de visitas de inspección, la aplicación de medidas de seguridad;
 
-XXIV. Imponer las sanciones por violación a las normas en materia de desarrollo urbano;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
+
+XXIV. Calificar las infracciones e imponer medidas de seguridad y sanciones que establece el Código Urbano para el Estado de Aguascalientes y que sean de competencia municipal;
 
 XXV. Solicitar el auxilio de la fuerza pública, cuando fuese necesario para hacer cumplir sus determinaciones;
 
@@ -3515,7 +3537,37 @@ XXVI. Expedir normas técnicas complementarias para el debido cumplimiento en lo
 
 XXVII. Proponer y vigilar el establecimiento del registro de programas y esquemas de desarrollo urbano en el Gobierno Municipal; y
 
-XXVIII. Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2023)</small>
+
+XXVIII. Implementar, integrar y operar el Expediente Digital Único, para la tramitación, autorización, ejecución y control de obras de urbanización, municipalización de fraccionamientos, subdivisiones y entrega de obra de urbanización en Condominios.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2023)</small>
+
+XXIX. Emitir las opiniones sobre la procedencia o improcedencia de fraccionamientos, condominios o Desarrollos Inmobiliarios Especiales, determinando las obligaciones fiscales que resultan, las áreas y porcentajes de donación, el equipamiento urbano e infraestructura que se realizará en las áreas de donación, y validando las propuestas de nomenclatura.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2023)</small>
+
+XXX. Llevar el Registro Municipal de Unidades Externas de Supervisión, Inscribiendo, Renovando y Actualizando las obligaciones que les corresponden conforme al Código Urbano;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2023)</small>
+
+XXXI. Verificar la ejecución de las obras de edificación. Respecto de las obras de urbanización en fraccionamientos, condominios, desarrollos inmobiliarios especiales o subdivisiones, lo harán por conducto de las Unidades Externas de Supervisión;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2023)</small>
+
+XXXII. Supervisar los trabajos de verificación que efectúen las Unidades Externas de Supervisión;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2023)</small>
+
+XXXIII. Expedir los dictámenes técnico jurídicos, respecto de la ejecución de las obras de urbanización por parte de los fraccionadores y promotores, en cuanto a la compatibilidad del proyecto autorizado y la calidad de los materiales y obras, así como la integración del expediente en lo referente a las obligaciones de los desarrolladores;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2023)</small>
+
+XXXIV. Llevar el Registro de Asesores Inmobiliarios que resulte de la coordinación del Municipio con la SEPLAPDE, conforme al Código Urbano.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XXVIII], P.O. 15 DE MAYO DE 2023)</small>
+
+XXXV.- Las demás que señale el presente Código, el Código Urbano para el Estado de Aguascalientes o las que encomiende y delegue el H. Ayuntamiento por conducto del Presidente Municipal.
 
 ###### ARTÍCULO 254.
 
@@ -12095,81 +12147,115 @@ XXIX. Todos aquellos lineamientos, criterios o normas técnicas que se deriven d
 
 Todos los actos, contratos y convenios relativos a la propiedad, posesión, aprovechamiento o cualquier otra forma jurídica de tenencia de inmuebles, no podrán alterar el uso, destino, reserva o provisión establecido en los programas de desarrollo urbano municipal aplicables, de conformidad con lo previsto en este ordenamiento y en el Código Urbano para el Estado de Aguascalientes. No surtirán efectos los actos, convenios y contratos relativos a la propiedad o cualquier otro derecho relacionado con el aprovechamiento de áreas y predios que contravengan este Código y los programas de desarrollo urbano; de igual manera no surtirán efectos los permisos, autorizaciones o licencias que contravengan lo establecido en este Código, y en los Programas de Desarrollo Urbano.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1334.
 
 Son atribuciones del H. Ayuntamiento en materia de Desarrollo Urbano:
 
-I. Elaborar, aprobar, ejecutar, controlar, modificar, actualizar y evaluar los programas municipales de desarrollo urbano y de vivienda, así como los demás que de éstos se deriven;
+I. Formular, aprobar, administrar, ejecutar y cancelar los programas municipales de desarrollo urbano, de centros de población y los que de éstos deriven, adoptando normas o criterios de congruencia, coordinación y ajuste con otros niveles de planeación, las normas oficiales mexicanas, así como evaluar y vigilar su cumplimiento;
 
-II. Formular y administrar la zonificación y el control de los usos y destinos del suelo que se deriven de la planeación municipal del desarrollo urbano, y de conformidad con las normas contenidas en este Código;
+II. Promover el cumplimiento y la plena vigencia de los derechos relacionados con los asentamientos humanos, el desarrollo urbano y la vivienda;
 
-III. Promover y planear el equilibrado desarrollo de las diversas comunidades y centros de población del Municipio, mediante una adecuada planificación y zonificación de los mismos;
+III. Dar cumplimiento y seguimiento, a directrices o acuerdos tomados por el Consejo Nacional de Ordenamiento Territorial y Desarrollo Urbano, el Consejo Estatal y los Consejos o Comités Municipales;
 
-IV. Coordinar el programa Municipal con el Estatal y Nacional de Desarrollo Urbano;
+IV. Crear los mecanismos de consulta ciudadana para la formulación, modificación y evaluación de los programas de desarrollo urbano de su competencia, propiciando en lo particular la participación de las mujeres, jóvenes y personas en situación de vulnerabilidad, así como llevar el registro de los programas e informar anualmente sobre la aplicación y ejecución de los mismos;
 
-V. Promover y determinar conjuntamente con el Gobierno del Estado, con base en los programas de desarrollo urbano y de vivienda, la adquisición y administración de reservas territoriales, para la ejecución de dichos programas;
+V. Validar ante la SEPLAPDE, sobre la apropiada congruencia, coordinación y ajuste de sus programas de desarrollo urbano, y en el supuesto de existir diferencia de criterios al respecto, solicitar se presente a la determinación del Consejo Estatal;
 
-VI. Coordinar con la SEDESO, SEPLADE y la SOP Estatal la elaboración, ejecución, control y evaluación de los programas de ordenación de zonas conurbadas, regionales y subregionales de desarrollo urbano;
+VI. Obtenido el dictamen sobre la congruencia de sus programas de desarrollo urbano, gestionar su publicación en el Periódico Oficial del Estado y su inscripción en el Registro Público;
 
-VII. Controlar y vigilar el aprovechamiento del suelo en sus jurisdicciones territoriales;
+VII. Solicitar, a la autoridad federal, la incorporación de los programas de desarrollo urbano y sus modificaciones en el sistema de información territorial y urbano;
 
-VIII. Proponer al Congreso del Estado la fundación de centros de población, así como la asignación de las categorías administrativas de las localidades, dentro de los límites de su jurisdicción;
+VIII. Participar en la planeación y regulación de las zonas metropolitanas y conurbaciones;
 
-IX. Promover la participación de los sectores social y privado del Municipio en la formulación, ejecución, modificación, actualización y evaluación del Programa Municipal de Desarrollo Urbano y sus derivados;
+IX. Formular, aprobar y administrar la zonificación de los centros de población;
 
-X. Gestionar la inscripción del Programa Municipal de desarrollo urbano y sus derivados, en el Registro Público de la Propiedad y del Comercio;
+X. Proponer al Congreso del Estado y previo dictamen de la SEPLAPDE, la fundación y, en su caso, desaparición de centros de población;
 
-XI. Llevar el registro de los programas municipales de desarrollo urbano y de vivienda, para su difusión, consulta pública, control y evaluación;
+XI. Regular, controlar y vigilar las reservas, usos del suelo y destinos de áreas y predios, así como las zonas de alto riesgo en los centros de población;
 
-XII. Gestionar y promover el financiamiento para la realización del Programa de Desarrollo Urbano en el Municipio;
+XII. Promover y ejecutar acciones, inversiones y servicios públicos en los centros de población, y prestar los servicios públicos municipales en dichos centros;
 
-XIII. Intervenir en la regularización de la tenencia de la tierra, en coordinación con las dependencias correspondientes;
+XIII. Gestionar y promover el financiamiento para la realización de los programas de alcance municipal;
 
-XIV. Controlar los programas de inversión pública del Gobierno Municipal, vigilando el cumplimiento de los mismos; e informando sobre el ejercicio de la inversión a la Contaduría Mayor de Hacienda del Congreso del Estado;
+XIV. Participar en la creación y administración del suelo y reservas territoriales para el desarrollo urbano y generar los instrumentos que permitan la disponibilidad de tierra para personas en situación de pobreza o vulnerabilidad;
 
-XV. Proponer, gestionar y realizar en coordinación con los Gobiernos Federal y Estatal las acciones necesarias para preservar y controlar la ecología en los asentamientos humanos del Municipio;
+XV. Aplicar los lineamientos y normas relativas a los polígonos de protección y salvaguarda en zonas de riesgo, así como de zonas restringidas o identificadas como áreas no urbanizables;
 
-XVI. Promover y ejecutar obras para que todos los habitantes del Municipio cuenten con una vivienda digna, equipamiento, infraestructura y servicios adecuados;
+XVI. Intervenir en la regularización de la tenencia de la tierra urbana, así como en la prevención y regulación de los asentamientos humanos irregulares llevando un registro de los mismos;
 
-XVII. Proponer al Ejecutivo del Estado, la celebración de convenios con la Federación que apoyen los objetivos y finalidades propuestas en el Programa Municipal de Desarrollo Urbano, que se realicen dentro de su jurisdicción;
+XVII. Formular y ejecutar acciones específicas de promoción y protección a los espacios públicos;
 
-XVIII. Verificar que los fraccionadores y promoventes de condominios hayan cubierto los diversos impuestos, aprovechamientos, derechos o contribuciones fiscales municipales que les correspondan; realizando las donaciones respectivas, así como constituido las garantías que les señala este Código u otros ordenamientos legales aplicables;
+XVIII. Promover y ejecutar acciones para prevenir y mitigar el riesgo de los asentamientos humanos y favorecer la resiliencia de los centros de población;
 
-XIX. Llevar el registro de las colonias, fraccionamientos, condominios, barrios y zonas urbanas en el Municipio, así como de las asociaciones que sus habitantes integren;
+XIX. Promover y priorizar en la población la adopción de nuevos hábitos de movilidad urbana sustentable y prevención de accidentes;
 
-XX. Emitir opinión sobre la autorización de fraccionamientos y condominios;
+XX. Ejercer el derecho de preferencia para adquirir predios comprendidos en las zonas de reserva territorial, incluyendo el suelo urbano vacante, para destinarlos preferentemente a la constitución de espacios públicos;
 
-XXI. Determinar las áreas y predios que conforme a este Código deberán donar al Municipio los fraccionadores y promoventes de condominios;
+XXI. Celebrar convenios y acuerdos de coordinación y concertación que apoyen los objetivos y prioridades previstos en los programas municipales, en sus procesos de planeación urbana, así como para el financiamiento y ejecución de acciones, obras y prestación de servicios comunes, y para la prestación de servicios públicos municipales;
 
-XXII. Determinar el aprovechamiento de las áreas de donación de los fraccionamientos y condominios, en congruencia con lo dispuesto en este Código y en los programas de desarrollo urbano;
+XXII. Instalar el Consejo Municipal en los primeros dos meses de iniciar la administración del Municipio;
 
-XXIII. Municipalizar los fraccionamientos, cuando se hayan cubierto los requisitos legales;
+XXIII. Controlar y vigilar el aprovechamiento del suelo en sus jurisdicciones territoriales;
 
-XXIV. Vigilar que, en los fraccionamientos que no hayan sido municipalizados, los fraccionadores presten adecuada y suficientemente los servicios a que se encuentran obligados conforme a este Código y la autorización respectiva;
+XXIV. Expedir las autorizaciones, licencias o permisos de las diversas acciones urbanísticas que se realicen en su Municipio, salvo las que éste Código otorgue a otras instancias;
 
-XXV. Promover o ejecutar fraccionamientos populares o de interés social y condominios de orden público;
+XXV. Expedir las constancias municipales e informes de compatibilidad urbanística;
 
-XXVI. Impedir, en coordinación con la SEDESO, el establecimiento de asentamientos humanos irregulares y de fraccionamientos o condominios al margen de la Ley;
+XXVI. Otorgar autorizaciones, licencias y permisos para la construcción, reconstrucción, remodelación, ampliación, demolición de inmuebles y obras de urbanización o para realizar obras o utilizar la vía pública;
 
-XXVII. Controlar que el desarrollo urbano municipal sea equilibrado, para que beneficie en forma efectiva a las diferentes partes del Municipio, evaluando periódicamente los resultados obtenidos;
+XXVII. Autorizar la constitución, modificación y extinción del régimen de propiedad en condominio, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados o menos de 100 predios, viviendas, departamentos, unidades o áreas, previa opinión de la SEPLAPDE;
 
-XXVIII. Autorizar las solicitudes de relotificación, fusión y subdivisión de predios en los casos de su competencia y conforme a lo dispuesto en este Código;
+XXVIII. Autorizar los desarrollos inmobiliarios especiales, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados, previa opinión de la SEPLAPDE;
 
-XXIX. Otorgar licencias y permisos para construcción, remodelación, ampliación y demolición de inmuebles, así como para la colocación y retiro de anuncios;
+XXIX. Autorizar el calendario o programa de obras de urbanización y en su caso de la infraestructura y equipamiento sustituido por áreas de donación municipal, respecto de los proyectos autorizados de su parte, determinando la temporalidad para su ejecución, de acuerdo a la superficie y las implicaciones del proyecto correspondiente;
 
-XXX. Expedir las constancias de compatibilidad urbanística;
+XXX. Autorizar el inicio de las obras de urbanización de los condominios y subdivisiones autorizados de su parte;
 
-XXXI. Elaborar las cartas urbanas que contengan las fallas geológicas detectadas y sus posibles ramificaciones, mismas que deberán actualizarse periódicamente;
+XXXI. Autorizar la venta de predios, previo cumplimiento de los requisitos legales, respecto de los condominios autorizados por él mismo;
 
-XXXII. Controlar las acciones, obras y servicios que se ejecuten en el Municipio para que sean compatibles con la legislación y programas aplicables;
+XXXII. Expedir y revocar los permisos para las urbanizaciones cerradas;
 
-XXXIII. Vigilar el cumplimiento y aplicación de las disposiciones legales en materia de asentamientos humanos, desarrollo urbano, vivienda y transporte en su jurisdicción;
+XXXIII. Emitir las licencias y permisos para la colocación y retiro de anuncios, del mobiliario urbano, y regular, controlar y propiciar el mejoramiento de la imagen urbana en los centros de población;
 
-XXXIV. Calificar en el ámbito de su competencia, las infracciones e imponer las medidas de seguridad y sanciones que establece este Código y demás disposiciones jurídicas aplicables;
+XXXIV. Autorizar las solicitudes de relotificación, fusión y subdivisión de áreas y predios;
 
-XXXV. Resolver sobre los recursos administrativos que conforme a su competencia les sean planteados; y
+XXXV. Normar y autorizar la nomenclatura o toponimia para la denominación de las vías públicas, parques, jardines, plazas, fraccionamientos y todo lugar público susceptible de asignarle una designación o nombre, así como los números oficiales que le correspondan a los inmuebles;
 
-XXXVI. Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
+XXXVI. Emitir opinión sobre la autorización, modificación, extinción y revocación de los fraccionamientos, condominios y desarrollos inmobiliarios especiales, que le correspondan al Consejo Estatal o la SEPLAPDE;
+
+XXXVII. Determinar y recibir en escritura pública las áreas, lotes o predios que conforme a este Código deberán donar al Municipio los fraccionadores y promotores o en su caso, la dotación de equipamiento urbano e infraestructura en las áreas de donación municipales, así como las vialidades públicas;
+
+XXXVIII. Determinar el aprovechamiento de las áreas de donación que le otorguen los fraccionadores y promotores, conforme a lo establecido en este Código;
+
+XXXIX. Verificar que los fraccionadores y promotores, cumplan con las obligaciones que les correspondan conforme al Código y las autorizaciones respectivas;
+
+XL. Por conducto de las unidades externas de supervisión, verificar y constatar que la ejecución de las obras de urbanización, sean compatibles con el proyecto autorizado, la calidad de los materiales y trabajos realizados en las mismas y en obras de edificación, así como el avance de éstas en los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones. Adicionalmente a lo anterior y de manera aleatoria supervisar directamente y con su personal los trabajos de verificación que efectúen las unidades externas de supervisión.
+
+XLI. Expedir los dictámenes técnico jurídicos, respecto de la ejecución de las obras de urbanización por parte de los fraccionadores y promotores, en cuanto a la compatibilidad del proyecto autorizado y la calidad de los materiales y obras, así como la integración del expediente en lo referente a las obligaciones de los desarrolladores;
+
+XLII. Municipalizar los fraccionamientos o subdivisiones, previo cumplimiento de los requisitos correspondientes;
+
+XLIII. Verificar que los fraccionadores y promotores cumplan con las obligaciones que les correspondan conforme al Código y a las condiciones de la autorización de sus desarrollos;
+
+XLIV. Llevar el registro de los barrios, colonias, fraccionamientos y condominios, así como de las asociaciones que sus habitantes integren;
+
+XLV. Elaborar y aplicar los atlas de riesgos;
+
+XLVI. Conocer y dar trámite a las denuncias populares que se le presenten;
+
+XLVII. Mediar y conciliar cuando se les solicite, en coordinación en su caso con la SEPLAPDE, en asuntos, conflictos y controversias entre la población o de esta con los fraccionadores o promotores;
+
+XLVIII. Coordinarse con la SEPLAPDE, para implementar, integrar y operar en el ámbito de su competencia el expediente digital único, para la tramitación, autorización, ejecución y control de las obras de urbanización, así como la municipalización de un fraccionamiento o subdivisión y la entrega de las obras de urbanización de los condominios;
+
+XLIX. En coordinación con la SEPLAPDE, implementar y actualizar una certificación para los asesores inmobiliarios; a fin de propiciar y facilitar que los fraccionadores y promotores, efectúen la debida, correcta y expedita integración de los expedientes para la autorización y ejecución de las obras de urbanización, en los fraccionamientos, condominios y desarrollos inmobiliarios especiales;
+
+L. Celebrar convenios de asociación con otros Municipios para fortalecer sus procesos de planeación urbana, así como para la programación, financiamiento y ejecución de acciones, obras y prestación de servicios comunes;
+
+LI. Calificar las infracciones e imponer medidas de seguridad y sanciones que establece este Código y que sean de su competencia; y
+
+LII. Las demás que les señale, la Ley Municipal para el Estado de Aguascalientes, el Código Urbano para el Estado de Aguascalientes y otras disposiciones jurídicas aplicables.
 
 ### CAPÍTULO II. De la Planeación del Desarrollo Urbano Municipal
 
@@ -13325,9 +13411,11 @@ IV. Las vialidades de tipo primario, son aquellas cuya función es la de facilit
 
 Perito Responsable de Obra, es la persona física que se hace responsable de la observancia de este Libro en las obras para las que otorgue su responsiva.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 1440.
 
-La calidad de Perito Responsable de Obra se adquiere con el registro de la persona ante la Presidencia Municipal, en específico ante la Dirección de Obras Públicas Municipal.
+La calidad de Perito Responsable de Obra o Perito Especializado, se adquiere con el registro de la persona ante la Presidencia Municipal, en específico ante la Dirección de Obras Públicas y Planeación.
 
 ###### ARTÍCULO 1441.
 
@@ -16860,3 +16948,15 @@ Las presentes reformas iniciarán su vigencia al día siguiente de su publicaci�
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opongan a los (sic) dispuesto en la presente reforma.
+
+P.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE “REFORMA AL CÓDIGO MUNICIPAL DE EL LLANO, AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas las disposiciones normativas o reglamentarías que se opongan a los dispuesto en la presente reforma.
