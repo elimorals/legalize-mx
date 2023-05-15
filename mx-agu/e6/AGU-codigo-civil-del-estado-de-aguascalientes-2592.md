@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2022-10-17"
+last_updated: "2023-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2023.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -404,6 +404,14 @@ El registro de un nacimiento contendrá el año, mes, día, hora y lugar del mis
 El nombre del registrado estará constituido por nombre propio así como por el primer apellido del padre y el primer apellido de la madre, en el orden que de común acuerdo determinen los padres; el orden de los apellidos del primogénito deberá aplicarse para los hijos nacidos posteriormente con el mismo vínculo y en caso de que no exista acuerdo entre los padres, el Oficial del Registro Civil determinará el orden de los apellidos mediante sorteo.
 
 Para llevar a cabo el registro del nacimiento, invariablemente el Oficial del Registro Civil, deberá exigir el certificado de nacimiento y lo cancelará, para evitar la duplicidad de registros.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2023)</small>
+
+###### Artículo 53 Bis.
+
+Las personas extranjeras, independientemente de su calidad migratoria, que detenten la filiación y comparezcan a realizar el registro de nacimiento de una persona menor nacida en territorio mexicano, ante la imposibilidad manifiesta de presentar la legalización o apostillamiento de los documentos que para tales efectos establece el Reglamento del Registro Civil, el Oficial de dicha institución realizará el registro sirviéndose de la tarjeta expedida por el Instituto Nacional de Migración, y/o pasaporte, en casos de fuerza mayor este último será aceptado no obstante que haya expirado.
+
+El Oficial encargado de realizar el registro dará cuenta de manera inmediata remitiendo copia certificada del legajo de registro a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Aguascalientes, para el seguimiento correspondiente.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -17602,3 +17610,15 @@ P.O. 17 DE OCTUBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 330.- REFORMA AL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 90 días siguientes de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado de Aguascalientes en un término no mayor a 60 días hábiles contados a partir de la vigencia del presente Decreto, deberá realizar las modificaciones necesarias al Reglamento del Registro Civil del Estado de Aguascalientes.
