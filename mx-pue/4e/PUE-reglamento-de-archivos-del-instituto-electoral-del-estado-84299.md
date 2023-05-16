@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-archivos-del-instituto-electoral-del-estado-84299
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-01"
-last_updated: "2011-04-01"
+last_updated: "2023-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO DE ARCHIVOS DEL INSTITUTO ELECTORAL DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO EN MATERIA ARCHIVÍSTICA DEL INSTITUTO ELECTORAL DEL ESTADO, PUBLICADO EN EL P.O. DE 16 DE MAYO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE ARCHIVOS DEL INSTITUTO ELECTORAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2023 (ABROGADO).
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 1 de abril de 2011.
 
@@ -374,3 +376,17 @@ Los particulares que por cualquier motivo alteren, adapten o modifiquen los docu
 ###### ARTÍCULO ÚNICO.
 
 El presente Reglamento entrará en vigor el día siete de enero del año dos mil once.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO, POR EL QUE ABROGA EL REGLAMENTO DE ARCHIVOS DEL INSTITUTO ELECTORAL DEL ESTADO; Y APRUEBA DIVERSA NORMATIVIDAD EN MATERIA DE ARCHIVOS DE ESTE ORGANISMO ELECTORAL”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su aprobación por el Consejo General.
+
+SEGUNDO. El presente Reglamento abroga al Reglamento de Archivos del IEE Electoral del Estado, aprobado mediante acuerdo CG/ AC-160/10, mismo que entró en vigor del día siete de enero del año dos mil once.
+
+TERCERO. Las situaciones que se llegarán a presentar y no estén previstas en el presente Reglamento serán resueltas por el ACA.
+
+CUARTO. Las actuaciones que se han realizado por parte del GI continúan vigentes. Solamente se actualizará la integración del mismo ante las Dependencias correspondientes para su acreditación.
