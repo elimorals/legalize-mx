@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2023-04-05"
+last_updated: "2023-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,109 +21,29 @@ state: "NAY"
 ---
 # LEY DE EDUCACION DEL ESTADO DE NAYARIT
 
-[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 2054 MEDIANTE EL CUAL SE REFORMAN ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, EL PRESENTE DECRETO ENTRARÁ EN VIGOR A PARTIR DEL PRIMERO DE DICIEMBRE DE DOS MIL DIECISÉIS.]
+LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-[NOTA 2: PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADA EL 12 DE NOVIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2023.
 
-LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
+Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2016.
+Al margen un Sello con el Escudo Nacional que dice:
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE DICIEMBRE DE 2016.]</small>
+Estados Unidos Mexicanos.- Poder Legislativo.- Nayarit.-
 
-Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
+C. RIGOBERTO OCHOA ZARAGOZA, Gobernador Constitucional del Estado Libre y Soberano de Nayarit, a los habitantes del mismo, sabed:
 
-LIC. GABINO CUE MONTEAGUDO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
+Que el H. Congreso Local, se ha servido dirigirme para su promulgación, el siguiente:
 
-QUE LA LEGISLATURA DEL ESTADO, HA TENIDO A BIEN, APROBAR LO SIGUIENTE:
+DECRETO NUMERO 7770
 
-DECRETO NÚM. 6
+El H. Congreso del Estado Libre y Soberano de Nayarit, representado por su XXIV Legislatura:
 
-LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA
+D E C R E T A:
 
-LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
+LEY DE EDUCACION DEL ESTADO DE NAYARIT
 
-## TÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 1.
-
-La presente Ley tiene por objeto establecer las bases de organización, competencias, atribuciones y funcionamiento del Poder Ejecutivo, a través de la Administración Pública Estatal: Centralizada y Paraestatal, con fundamento en las disposiciones de la Constitución Política del Estado Libre y Soberano de Oaxaca.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 2.
-
-El ejercicio del Poder Ejecutivo, se deposita en un solo individuo que se denomina Gobernador del Estado, quien tendrá las facultades y obligaciones que le señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca, la presente Ley y las demás leyes, reglamentos y disposiciones jurídicas vigentes en el Estado.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 3.
-
-En el ejercicio de sus atribuciones y para el despacho de los asuntos del orden administrativo, el Poder Ejecutivo del Estado, contará con la Administración Pública Estatal, que se regirá por la presente Ley y las demás disposiciones legales aplicables, y se organizará conforme a lo siguiente:
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-I. Administración Pública Centralizada: Integrada por la Gubernatura, Secretarías de Despacho, Procuraduría General de Justicia del Estado, Consejería Jurídica del Gobierno del Estado y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, así como, por los Órganos Auxiliares, las unidades administrativas que dependan directamente del Gobernador del Estado y los Órganos Desconcentrados, a todas estas áreas administrativas se les denominará genéricamente como Dependencias;
-
-II. La Administración Pública Paraestatal: Integrada por Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos, así como, por las Entidades Auxiliares del Ejecutivo Estatal, integrándose éstas por los Consejos, Comisiones, Comités, Juntas, Patronatos y aquellas instituciones que por su naturaleza no estén comprendidas dentro de la Administración Pública Centralizada, a las que genéricamente se les denominará como Entidades, estarán reguladas por sus leyes, decretos de creación y reglamentos respectivos; y
-
-III. Los Órganos Auxiliares realizan una función diferenciada, específica y de responsabilidad directa; como Unidades Responsables, les son aplicables los sistemas de organización, comunicación, coordinación, planeación, programación, control y evaluación de actividades contemplados en esta Ley Orgánica y en específico, los reglamentos, lineamientos y demás normatividad que expidan las instancias normativas, y la que por la naturaleza de sus actividades y materia de su competencia, les sea impuesta por los diversos ordenamientos normativos.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 4.
-
-Para los efectos de esta Ley, se denominará como servidores públicos a los funcionarios y empleados, y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones y de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 5.
-
-El Gobernador del Estado podrá autorizar mediante acuerdo o decreto, la creación, sectorización, modificación, adscripción, supresión, liquidación, transferencia o fusión de las Áreas Administrativas de la Administración Pública Centralizada, Comisiones Intersecretariales y demás que requiera la Administración Pública Estatal, asignándoles las funciones correspondientes; de igual manera, podrá autorizar la supresión de plazas cuando las funciones asignadas a las mismas desaparezcan.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-Asimismo, podrá nombrar y remover libremente a los titulares de la Administración Pública Centralizada y Paraestatal, y demás servidores públicos cuyo nombramiento o remoción no esté determinada de otro modo en la Constitución Política del Estado, o en alguna otra normatividad aplicable.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 6.
-
-El Gobernador del Estado es titular originario de todas las atribuciones y facultades del Poder Ejecutivo, las que por razones de división del trabajo podrán encomendarse a otros servidores públicos, excepto aquellas indelegables por mandato expreso de la Constitución Política del Estado Libre y Soberano de Oaxaca y las leyes aplicables.
-
-La delegación de atribuciones y facultades que realice el Gobernador del Estado se harán por Ley, reglamentos o mediante acuerdos que deberán ser publicados en el Periódico Oficial del Gobierno del Estado.
-
-La distribución de funciones que esta Ley establece para servidores públicos subalternos, no impedirá al Gobernador del Estado el ejercicio directo de sus atribuciones y facultades cuando así lo considere.
-
-De igual forma, podrá transferir, coordinar y concentrar temporalmente atribuciones entre Dependencias o entre éstas y las Entidades, con el objeto de cumplir con los fines de la planeación para el desarrollo del Estado o responder a situaciones emergentes. En los casos en que el ejercicio de esta facultad implique actos de molestia, deberá ser publicado el acuerdo respectivo, en el Periódico Oficial del Gobierno del Estado.
-
-El Gobernador del Estado, podrá delegar facultades a los titulares de las Dependencias y Entidades, para celebrar acuerdos, convenios y demás actos jurídicos legales, de conformidad con lo establecido con esta Ley.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 7.
-
-Los titulares de las Dependencias y Entidades de la Administración Pública Estatal, se coordinarán entre sí y con la Secretaría General de Gobierno, para proveer y dar cumplimiento a los compromisos contraídos en la atención de los asuntos de política interior.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 8.
-
-Los titulares de las Dependencias y Entidades de la Administración Pública Estatal, tienen la obligación de coordinar sus acciones y actividades entre sí, cuando el desempeño de sus funciones así lo requiera y conforme al ámbito de sus atribuciones, en el logro de sus objetivos comunes.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 9.
-
-El Ejecutivo del Estado podrá convenir con el Ejecutivo Federal, con otras entidades federativas, el Distrito Federal, ayuntamientos y particulares, la prestación de servicios, la ejecución de obras o la realización de cualquier otro propósito de beneficio colectivo, o bien, concesionarlas a los sectores social o privado en los términos de las disposiciones Constitucionales y legales aplicables.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2016)</small>
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1o.
 
@@ -321,9 +241,13 @@ XIV.- Impulsar actitudes que incentiven la investigación y la innovación cient
 
 XV.- Promover la coordinación efectiva con las autoridades competentes de los tres órdenes de gobierno, así como con organizaciones sociales para el cumplimiento de las disposiciones antes citadas, en aras de lograr educación con calidad, entendiéndose por ésta la congruencia entre los objetivos, resultados y procesos del sistema educativo, conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE ABRIL DE 2023)</small>
 
-XVI.- Promover el respeto irrestricto de la dignidad humana, como valor fundamental e inalterable de la persona y de la sociedad, a partir de una formación humanista que contribuya a la mejor convivencia social en un marco de respeto por los derechos de todas las personas y la integridad de las familias, el aprecio por la diversidad y la corresponsabilidad con el interés general;
+XVI.- Promover y difundir los derechos humanos y el respeto irrestricto de la dignidad humana, como valor fundamental e inalterable de la persona y de la sociedad, a partir de una formación humanista que contribuya a la mejor convivencia social en un marco de respeto por los derechos de todas las personas, especialmente de las minorías, de las personas adultas mayores y de las personas con discapacidad, inculcando valores y actitudes de participación, no discriminación, tolerancia y pluralidad, fomentando el respeto a las diferencias, así como la integridad de las familias, el aprecio por la diversidad y la corresponsabilidad con el interés general.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2023)</small>
+
+En ese mismo marco del respeto hacia las personas adultas mayores, fomentar una cultura de la vejez, envejecimiento activo y saludable, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultas mayores;
 
 > <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -401,9 +325,9 @@ XI.- Ley de las Maestras y los Maestros, a la Ley General del Sistema para la Ca
 
 XII.- Secretaría, a la Secretaría de Educación en el Estado.
 
-### CAPÍTULO II. DE LAS DEPENDENCIAS
+### CAPITULO II. DEBERES Y ATRIBUCIONES DEL ESTADO
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2022)</small>
 
 ###### ARTICULO 8o.
 
@@ -453,7 +377,35 @@ XII.- Otorgar un salario profesional suficiente y las prestaciones básicas que 
 
 El Estado creará en coordinación con el Instituto Promotor de la Vivienda de Nayarit, el Fondo de Vivienda para los Trabajadores de la Educación al Servicio del Estado, en los términos del artículo 4º de la Constitución Federal;
 
-XIII.- De acuerdo con su capacidad presupuestal apoyar por medio de becas a los alumnos de todo nivel de pocas posibilidades económicas que demuestren óptimo aprovechamiento escolar;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MAYO DE 2023)</small>
+
+XIII.- De acuerdo con la disponibilidad presupuestal y sin afectar el balance presupuestario sostenible, apoyar por medio del sistema de becas a los alumnos de todos los niveles educativos considerando principalmente las siguientes modalidades:
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 16 DE MAYO DE 2023)</small>
+
+a) Inclusión.
+
+1. Alumnos de escasos recursos;
+
+2. Alumnos con discapacidad;
+
+3. Alumnos de pueblos originarios, y
+
+4. Alumnos en situación de vulnerabilidad.
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 16 DE MAYO DE 2023)</small>
+
+b) Alto rendimiento.
+
+1. Alto rendimiento académico o escolar;
+
+2. Alto rendimiento deportivo, y
+
+3. Alto rendimiento cultural, artístico, científico o tecnológico.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2023)</small>
+
+Lo anterior, sin limitar modalidades u otras condiciones que atiendan problemáticas sociales, de conformidad con los criterios de selección que al efecto establezca la autoridad educativa a través del Consejo Estatal de Becas como instancia responsable de coordinar la política estatal en materia de becas, a fin de evitar la discriminación, garantizar la igualdad sustantiva y abatir la deserción escolar, lo que podrá ser regulado en el reglamento respectivo;
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -659,905 +611,329 @@ XII.- Emitir los criterios bajo los cuales se prestará la función de asesoría
 
 XIII.- Las demás que le correspondan conforme a esta Ley y otras disposiciones aplicables.
 
-###### ARTÍCULO 10.
+###### ARTICULO 10.
 
-El Gobernador del Estado determinará qué Dependencias y Entidades de la Administración Pública Estatal, deberán coordinarse con la Administración Pública Federal, con las entidades federativas y municipal o con los particulares, para el cumplimiento de cualquiera de los propósitos a que se refiere el artículo anterior.
+Corresponde al Estado autorizar el establecimiento de las Instituciones Educativas cuya matriz se encuentre fuera de la Entidad, para ejercer educativamente en Nayarit
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 11.
+###### ARTICULO 11.
 
-Las Dependencias y Entidades de la Administración Pública Estatal, deberán conducir sus actividades en forma programada y con base en el Plan Estatal de Desarrollo, así como las políticas, prioridades y restricciones que para el logro de los objetivos y metas de los planes de Gobierno, establezca el Gobernador del Estado.
+Las autoridades escolares, previa autorización de la autoridad educativa estatal y de conformidad con los lineamientos que expida la autoridad educativa federal, podrá ajustar el Calendario Escolar fijado por ésta, atendiendo a las condiciones propias de la Entidad Federativa. Las maestras y maestros serán debidamente remunerados si la modificación implica más días de trabajo que los establecidos en el Calendario Escolar.
 
-Los titulares de dichos órganos periódicamente le rendirán un informe al Titular del Ejecutivo; así mismo, darán cuenta al Congreso del Estado, cuando éste lo solicite, sobre el estado que guarden sus respectivas Dependencias y Entidades, o en los casos en que por instrucciones directas del Gobernador del Estado, atiendan un asunto específico concerniente a la Administración Pública, de conformidad a sus facultades y competencias.
+###### ARTICULO 12.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+Corresponde al Estado establecer las Normas y Procedimientos para evaluar los estudios realizados en la modalidad extraescolar, así como determinar su equivalencia con los estudios escolarizados dentro del Sistema Educativo Estatal.
 
-A la Comisión Estatal de Arbitraje Médico de Oaxaca, que por razón de la materia es un Órgano Autónomo de base legal, le son aplicables los sistemas de organización, comunicación, coordinación, planeación, programación, control, evaluación y rendición de cuentas contemplados en esta Ley Orgánica en el ámbito administrativo y conforme al artículo 16, Fracción XII de su Ley, deberán remitir el informe respectivo al Titular del Poder Ejecutivo, en el momento en que le sea requerido.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 12.
+###### ARTICULO 13.
 
-Los titulares de las Dependencias y Entidades, a que se refiere esta Ley, formularán los programas, anteproyectos de leyes, reglamentos, decretos, acuerdos, circulares y órdenes necesarias para el desempeño de sus funciones, acordes con el Plan Estatal de Desarrollo y las políticas públicas del Gobierno del Estado, cuyas materias correspondan a sus facultades y competencias.
+Los estudios realizados en otras entidades del País o en el Extranjero que sean compatibles con los Planes y Programas de Estudios vigentes en el Estado, deberán ser revalidados por la Secretaría de Educación para su reconocimiento y validez oficial.
 
-Para el caso de anteproyectos de Ley, deberán remitirlos al Gobernador del Estado para su valoración y revisión por conducto de la Consejería Jurídica del Gobierno del Estado, por lo menos con treinta días hábiles de anticipación a la fecha en que deban ser remitidos al Congreso del Estado, salvo aquellas que por su propia naturaleza y a juicio del Gobernador del Estado ameriten una valoración y revisión expedita.
+###### ARTICULO 14.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+Los certificados y diplomas que extiendan las Autoridades de los Planteles Educativos, para que tengan validez oficial, deberán contar con la autorización de las Autoridades Educativas correspondientes en el ámbito de sus respectivas competencias.
 
-###### ARTÍCULO 13.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-Los titulares de las Dependencias y Entidades, administrarán los recursos humanos, financieros, materiales y demás a su cargo, para el cumplimiento de sus atribuciones, con base en los principios de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez.
+###### ARTICULO 15.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+El personal de supervisión, directivo o docente que requiera el Sistema Educativo Estatal será nombrado por la autoridad educativa correspondiente, ajustándose a lo dispuesto por la Ley de las Maestras y los Maestros y a la Ley de Mejora Continua de la Educación.
 
-Para tal efecto, se implementarán las delegaciones a que se refiere el artículo 47, fracción XXXII, de la presente Ley, las cuales, dependerán jerárquica y administrativamente de la Secretaría de la Contraloría y Transparencia Gubernamental, quien regulará su funcionamiento conforme a la normatividad aplicable. Dichas delegaciones, serán con cargo al presupuesto de las Dependencias, Entidades y Órganos Auxiliares correspondientes.
+Para la actualización y formulación de los planes y programas de estudio para la educación normal y demás de formación de maestras y maestros de educación básica, la Secretaría también deberá mantenerlos acordes al marco general de una educación de calidad contemplado en el Sistema para la Carrera de las Maestras y los Maestros.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 14.
+###### ARTICULO 16.
 
-Para la programación, presupuestación, control, supervisión y evaluación de los proyectos de inversión, las Dependencias y Entidades responsables de la ejecución de programas, se coordinarán con las Secretarías de: Finanzas, Administración, y de la Contraloría y Transparencia Gubernamental, así como, con las demás dependencias, y entidades que guarden relación en el ámbito de sus atribuciones.
+El Ejecutivo del Estado promoverá la coordinación de todas las entidades que integran el Sistema Educativo Estatal, para la elaboración, aplicación, seguimiento y evaluación del Programa de Gobierno y el Programa Sectorial de Educación, acorde con el Plan Nacional y el Gran Plan Estatal de Desarrollo.
 
-Las Dependencias y Entidades son responsables de formular los proyectos y programas de inversión de su competencia y realizar los estudios de preinversión necesarios para su evaluación, validación y autorización.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+###### ARTICULO 17.
 
-###### ARTÍCULO 15.
+Los municipios a través de sus ayuntamientos participarán, de acuerdo a sus posibilidades financieras, en la construcción, mantenimiento y equipamiento de los espacios educativos dentro de su respectiva jurisdicción territorial, además:
 
-Para su validez y observancia los Decretos, Acuerdos, Reglamentos, Convenios, Circulares, Ordenes, Despachos y demás disposiciones de carácter general que suscriba o expida el Gobernador del Estado, conforme a la Constitución Política del Estado Libre y Soberano de Oaxaca y demás ordenamientos legales aplicables, deberán ser firmados por el Titular de la Secretaría General de Gobierno y los titulares de las Secretarías competentes u Órganos Auxiliares o, en su caso, los titulares de las Dependencias que sectorizan, según correspondan, además deberán firmar los Directores Generales de las Entidades Paraestatales u Órganos Desconcentrados respectivos, conforme al artículo 84 de la Constitución Política del Estado Libre y Soberano de Oaxaca, publicándose en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+I.- La autoridad educativa municipal podrá, sin perjuicio de la concurrencia de las autoridades educativas federal y estatal, promover y prestar servicios educativos de cualquier tipo o modalidad;
 
-Tratándose de la orden de publicación de leyes o decretos expedidos por el Congreso del Estado, solo se requerirá la firma del Gobernador del Estado y del Secretario General de Gobierno.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+II.- El Estado y los municipios podrán celebrar convenios para coordinar y unificar sus actividades educativas y cumplir con las responsabilidades a su cargo, y
 
-###### ARTÍCULO 16.
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-Para su obligatoriedad, todas las disposiciones de carácter general que sean expedidas por las Dependencias y Entidades del Ejecutivo Estatal, deberán ser publicadas en el Periódico Oficial del Gobierno del Estado, conforme al artículo 4, de la Ley de Justicia Administrativa para el Estado de Oaxaca.
+III.- Los ayuntamientos coadyuvarán al mantenimiento de los planteles educativos y de los servicios de seguridad, agua y luz de éstos.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 17.
+El Ejecutivo del Estado, promoverá la participación directa del ayuntamiento para dar mantenimiento y proveer de equipo básico a las escuelas públicas estatales y municipales.
 
-De acuerdo con las disposiciones aplicables, al tomar posesión del cargo, los servidores públicos deberán registrar su firma en la Secretaría General de Gobierno, y otorgar fianza cuando las leyes así lo establezcan.
+### CAPITULO III. SISTEMA EDUCATIVO DEL ESTADO
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+###### ARTICULO 18.
 
-### CAPÍTULO III
+El Sistema Educativo Estatal está constituido por los Servicios Educativos que en cualquier tipo de modalidad preste el Gobierno del Estado, los Municipios, los Organismos Descentralizados, las Instituciones Centralizadas del Gobierno Federal, las Entidades Autónomas, Paraestatales y los Particulares con autorización o reconocimiento de validez oficial de estudios
 
-###### ARTÍCULO 18.
+###### ARTICULO 19.
 
-Los titulares de Dependencias y Entidades de la Administración Pública Estatal, al tomar posesión de su cargo y al concluirlo, deberán levantar un inventario de los bienes que tengan bajo su resguardo, con la intervención de las dependencias competentes.
+Los tipos educativos que conforman el Sistema Estatal, son los siguientes:
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 19.
+I.- El tipo básico estará integrado por la educación inicial, preescolar, primaria y secundaria;
 
-Los titulares de Dependencias y Entidades a que se refiere esta Ley, no podrán desempeñar ningún otro empleo, cargo, o comisión públicos del Estado y de los Municipios, por los que disfruten sueldo, honorarios o gratificación, o cualquier otra ministración de dinero, con excepción a los relativos a los ramos de educación y beneficencia pública.
+II.- El tipo medio superior está formado por los estudios de bachillerato, los estudios técnicos postsecundarios de carácter terminal y sus equivalentes;
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-###### ARTÍCULO 20.
+III.- El tipo superior comprende la Licenciatura Universitaria Tecnológica y Normal, así como los estudios de post-licenciatura, de actualización, especialización, maestría y doctorado;
 
-Cuando alguna Dependencia o Entidad de la Administración Pública Estatal, necesite informes, datos o la cooperación técnica de otra, deberá solicitarlo por escrito; la institución que reciba dicha solicitud deberá proporcionar lo solicitado dentro del ámbito de sus atribuciones, y en los términos previstos por la Constitución y las leyes secundarias.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+IV.- El Sistema Educativo Estatal comprende, además, los servicios de educación indígena, física, especial, artística, para adultos y los de cualquier otro tipo y nivel que se considere conveniente para atender las necesidades de la población en la Entidad, incluyendo la capacitación para el trabajo; de igual manera se ajustará a los lineamientos generales que fije la autoridad educativa federal, en vinculación a las escuelas públicas de educación básica y media superior para el ejercicio de su autonomía de gestión escolar;
 
-###### ARTÍCULO 21.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-Para ser titular de una Dependencia o Entidad, de la Administración Pública Estatal se requiere:
+V.- En el caso de las maestras y maestros de educación indígena que no tengan licenciatura como nivel mínimo de formación, deberán participar en los programas de capacitación que diseñe la autoridad educativa y certificar su bilingüismo en la lengua indígena que corresponda y el español;
 
-I. Ser ciudadana o ciudadano mexicano;
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
 
-II. Tener por lo menos 25 años de edad en la fecha de su designación;
+VI.- El Estado otorgará un salario profesional digno, que permita al profesorado de los planteles del propio Estado alcanzar un nivel de vida decoroso para ellos y su familia; puedan arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como disponer del tiempo necesario para la preparación de las clases que impartan y para realizar actividades destinadas a su desarrollo personal y profesional;
 
-III. Contar con cédula profesional, título o equivalente, o experiencia probada en actividades laborales, profesionales o académicas en el ramo para el cual sea propuesto;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-IV. Estar en pleno ejercicio de sus derechos civiles y políticos;
+VII.- Las autoridades educativas, de conformidad con lo que establece la Ley de las Maestras y los Maestros, establecerán la permanencia de las maestras y maestros frente a grupo, con la posibilidad para éstos de ir obteniendo mejores condiciones y mayor reconocimiento social;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+VIII.- Las autoridades educativas estatales otorgarán reconocimientos, distinciones, estímulos, recompensas y opciones de desarrollo profesional a los educadores que se destaquen por el desempeño de sus funciones, y en general, realizarán actividades que propicien mayor aprecio social por la labor desempeñada por las maestras y maestros con base a la valoración de elementos multifactoriales que se establezcan en la convocatoria respectiva. Además, establecerán mecanismos de estímulo a la labor docente con base en la evaluación;
 
-V. No haber sido condenado por delitos intencionales, patrimoniales y no estar inhabilitado para desempeñar un empleo, cargo o comisión; y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+IX.- El otorgamiento de los reconocimientos, distinciones, estímulos y recompensas que se otorguen al personal docente en instituciones establecidas por el Estado en educación básica y media superior, se realizará conforme a lo dispuesto en la Ley de las Maestras y los Maestros, y
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
 
-VI. Tener un modo honesto de vivir y aprobar la evaluación de control de confianza establecida en la ley de la materia.
+X.- Las demás que les señalen las leyes y normatividad aplicable a la materia.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+###### ARTICULO 20.
 
-VII. (DEROGADA, P.O. 15 DE OCTUBRE DE 2016)
+Las modalidades educativas son: la escolar y la extraescolar.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+Se consideran escolarizados los estudios que se impartan de manera sistemática en los centros educativos. Además de esta modalidad, habrá la extraescolar que no requiere los elementos sistemáticos de la anterior, pero que pueden ser evaluados por las Autoridades Educativas.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-Los subsecretarios, directores de área, coordinadores o sus equivalentes, jefes de departamento y jefes de oficina, deberán cumplir los mismos requisitos, salvo lo establecido en las fracciones II y III.
+###### ARTICULO 21.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+La Educación Inicial es un derecho de la niñez; es responsabilidad del Estado concientizar sobre su importancia y garantizarla, favorecerá el desarrollo de las capacidades físicas, cognoscitivas, afectivas y sociales del infante, y atenderá a niñas y niños menores de cuatro años de edad en Centros de Desarrollo Infantil. Esta Educación también comprende las guarderías y la orientación a madres y padres de familia o tutores para la educación de sus hijas, hijos o pupilos.
 
-> <small>(REFORMADO (N. DE E. REPUBLICADO], P.O. 15 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-Todos serán nombrados con base en los principios de idoneidad, honorabilidad, equidad de género, apartidismo en el ejercicio de sus funciones y no discriminación.
+###### ARTICULO 22.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+La Educación Preescolar es obligatoria, promoverá el desarrollo de la personalidad de niñas y niños, de su inteligencia, de su voluntad, su carácter y sus capacidades físicas, afectivas, estéticas y sociales.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 22.
+###### ARTICULO 23.
 
-Los nombramientos de los Secretarios de Despacho, llevados a cabo por el Gobernador del Estado, deberán ser remitidos inmediatamente al Honorable Congreso del Estado para su conocimiento.
+La Educación Primaria escolarizada es obligatoria para quienes han cumplido seis años de edad al 31 de diciembre del inicio del ciclo escolar, tenderá a propiciar en los alumnos los conocimientos fundamentales para desarrollar sus habilidades, hábitos, actitudes y el aprovechamiento racional de los medios que le proporcione la naturaleza.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+###### ARTICULO 24.
 
-###### ARTÍCULO 23.
+Para atender a la población de quince años o más, que no haya cursado o concluido la educación primaria, el Sistema Educativo Estatal, ofrecerá Educación para adultos
 
-Los titulares de las Dependencias y Entidades, podrán delegar en sus subalternos cualesquiera de sus atribuciones, salvo aquellas que la Constitución Política del Estado Libre y Soberano de Oaxaca, las leyes y reglamentos dispongan que deban ser ejercidas directamente por ellos.
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+ARTICULO 24 A.- La autoridad educativa estatal impartirá la educación multigrado, la cual se ofrecerá, dentro de un mismo grupo, a estudiantes de diferentes grados académicos, niveles de desarrollo y de conocimientos, en centros educativos en zonas de alta y muy alta marginación.
 
-###### ARTÍCULO 24.
+Para dar cumplimiento a esta disposición, las autoridades educativas del Estado de Nayarit atenderán los criterios establecidos en la Ley General.
 
-El Ejecutivo Estatal, emitirá los Reglamentos Internos, en los que se establecerá la estructura y funciones específicas de las dependencias de la Administración Pública Estatal Centralizada, tratándose de la Administración Paraestatal los emitirá el Órgano de Gobierno respectivo.
+###### ARTICULO 25.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+La Educación Secundaria es obligatoria y continuará profundizando con la formación científica, humanística, artística, física y tecnológica a fin de sentar las bases necesarias para la incorporación a la vida productiva o su acceso al nivel Medio Superior
 
-###### ARTÍCULO 25.
+###### ARTICULO 26.
 
-El Gobernador del Estado implementará audiencias públicas periódicas para que los ciudadanos del Estado, le planteen de manera directa asuntos de interés público, a él como titular del Poder Ejecutivo del Estado y a los titulares de las Dependencias y Entidades y deberá dar informe del cumplimiento de las peticiones recibidas en las audiencias públicas; en su informe anual y en los medios de publicación oficial.
+Las Escuelas Secundarias atenderán a los adolescentes, jóvenes y adultos que hayan acreditado el nivel de Primaria y tendrá el carácter formativo en razón de los intereses y aptitudes de los estudiantes y a las exigencias del desarrollo de la comunidad, el Estado y la Nación.
 
-Estas audiencias deberán desarrollarse por lo menos una vez al año en cada región.
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
-## TÍTULO II. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
+Las personas atendidas por la educación para adultos podrán acreditar los conocimientos adquiridos, mediante evaluaciones parciales o globales, conforme a los procedimientos establecidos por la autoridad educativa federal.
 
-###### ARTÍCULO 26.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-Las Secretarías de Despacho, la Consejería Jurídica del Gobierno del Estado y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, tendrán igual rango cada cual de acuerdo a su naturaleza y entre ellas no habrá preeminencia alguna, sus titulares ejercerán en su ámbito de competencia las funciones encomendadas por la Constitución Política del Estado Libre y Soberano de Oaxaca, la presente ley y demás ordenamientos normativos.
+El Estado organizará servicios permanentes de promoción y asesoría de educación para adultos y dará las facilidades necesarias a sus trabajadores, trabajadoras y familiares para estudiar y acreditar la educación primaria, secundaria, media superior y superior.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
-###### ARTÍCULO 27.
+Quienes participen voluntariamente brindando asesoría en tareas relativas a esta educación tendrán derecho, en su caso, a que se les acredite como servicio social.
 
-Para el ejercicio de sus atribuciones y el despacho de los asuntos que son de su competencia, el Gobernador del Estado, contará con las siguientes dependencias de la Administración Pública Centralizada.
+###### ARTICULO 27.
 
-I. Secretaría General de Gobierno;
+La Educación Especial tendrá como finalidad brindar apoyo psicopedagógico a individuos con discapacidades transitorias o definitivas, así como a aquellos con capacidades y aptitudes sobresalientes.
 
-II. Secretaría de Seguridad Pública;
+Esta se ofrecerá en planteles educativos estatales, municipales y particulares con autorización o reconocimiento de validez oficial de estudio.
 
-III. Secretaría de Salud;
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-IV. Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
+De manera adicional, se considerarán aquellos para impartir educación especial, incluidos los Centros de Atención Múltiple.
 
-V. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
+Procurará atender a los educandos de manera adecuada a sus propias condiciones, para que se integren al medio escolar regular, a la comunidad y al trabajo productivo.
 
-VI. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-VII. Secretaría de Vialidad y Transporte;
+Esta educación incluye orientación a las madres y padres o tutores, así como a las maestras y maestros y personal de escuelas de educación básica regular que atiendan alumnos con necesidades especiales de educación.
 
-VIII. Secretaría de las Culturas y Artes de Oaxaca;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-IX. Secretaría de Desarrollo Social y Humano;
+###### ARTICULO 28.
 
-X. Secretaría de Asuntos Indígenas;
+En el Estado de Nayarit se procurara la educación indígena, así como el ejercicio de los derechos educativos, culturales, lingüísticos y el sentido de comunidad de los pueblos indígenas, migrantes y jornaleros agrícolas; contribuirá al conocimiento, aprendizaje, reconocimiento, valoración, preservación y desarrollo tanto de la tradición oral y escrita indígena, como de las lenguas indígenas estatales como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.; (sic) además de basarse en el respeto, promoción y preservación del patrimonio histórico y de nuestras culturas respetando su autodeterminación en los términos del artículo 2o. de la Constitución Federal.
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+La educación en sus distintos tipos, niveles, modalidades y opciones educativas responderá a la diversidad lingüística, regional, sociocultural y biocultural del Estado, así como de la población rural dispersa y grupos migratorios, además de las características y necesidades de los distintos sectores de la población del Estado.
 
-XI. Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura;
+###### ARTICULO 29.
 
-XII. Secretaría de Finanzas;
+El Sistema Educativo Estatal contempla a la Educación Extraescolar, como una alternativa para la atención a la población mayor de quince años que no tuvo la oportunidad de recibir los servicios educativos y comprende los servicios de alfabetización, educación básica, media superior y superior, la capacitación para el trabajo y la extensión cultural.
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2012)</small>
 
-XIII. Secretaría de Administración;
+###### ARTICULO 30.
 
-XIV. Secretaría de la Contraloría y Transparencia Gubernamental.
+La Educación Media Superior es obligatoria y comprenderá el nivel de Bachillerato, medio Profesional y los demás niveles educativos que por su contenido programático sean equivalentes.
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+###### ARTICULO 31.
 
-XV. Secretaría de Economía;
+Los estudios educativos de nivel Medio Superior cuyo contenido programático sea equivalente a bachillerato, será reglamentado por las Autoridades Educativas.
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+###### ARTICULO 32.
 
-XVI. Secretaría de Turismo;
+El Bachillerato podrá ser propedéutico, terminal o bivalente.
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+I.- Será propedéutico el que se oriente hacia la formación del educando, para su incorporación específica a los estudios de Educación Superior.
 
-XVII. Secretaría de la Mujer Oaxaqueña y
+II.- Será terminal el que ofrezca una preparación tecnológica, que permita al egresado su integración al Sector Productivo, y
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+III.- Será bivalente el que atienda las dos finalidades señaladas en las fracciones I y II de este Artículo.
 
-XVIII. Secretaría del Medio Ambiente y Desarrollo Sustentable.
+###### ARTICULO 33.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+La Educación Media Superior contará con las modalidades escolarizadas, no escolarizadas y mixtas.
 
-###### ARTÍCULO 28.
+###### ARTICULO 34.
 
-El Gobernador del Estado definirá las dependencias, subsecretarias, direcciones, áreas administrativas, de asesoría, apoyo y de coordinación, que las necesidades de su función requieran en áreas prioritarias que él mismo determine, de acuerdo con el presupuesto de egresos autorizado atendiendo al artículo 82 de la Constitución Política del Estado.
+La Educación Superior tendrá como antecedentes el Bachillerato.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+###### ARTICULO 35.
 
-###### ARTÍCULO 29.
+La Educación Superior es aquella que imparten las Universidades, Tecnológicos, Institutos de Enseñanza Superior y las Normales que cuenten con la autorización o reconocimiento de validez oficial de estudios realizados en dichos Centros.
 
-Los titulares de las Dependencias y Entidades, para el cumplimiento de sus atribuciones se auxiliarán de los servidores públicos previstos en las leyes, reglamentos, decretos o acuerdos respectivos y conforme al presupuesto de egresos autorizado.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-Cuando el titular de alguna de las dependencias, se ausente de sus funciones por más de un día y menos de quince días hábiles, se encargará del despacho de los asuntos, el subsecretario o funcionario que determine el Reglamento Interno correspondiente.
+###### ARTICULO 36.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+La autorización para la creación de Instituciones de Educación Media Profesional y Superior, será otorgada después de un minucioso estudio de los Planes y Programas y demás disposiciones legales, por la Autoridad Educativa competente y mediante decreto del titular del Poder Ejecutivo del Estado.
 
-Ante la falta del titular de la Dependencia o Entidad, el Gobernador del Estado podrá nombrar un encargado de despacho.
+###### ARTICULO 37.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+Las escuelas normales tienen por objeto la formación de docentes de nivel académico de Preescolar, Primaria, Secundaria, Especial, Indígena, Educación Media Superior y Superior.
 
-###### ARTÍCULO 30.
+### CAPITULO IV. ASPECTOS SUSTANTIVOS DEL PROCESO EDUCATIVO
 
-Será obligación de los titulares de las Dependencias y Entidades, la emisión de sus Manuales de Organización y de Procedimientos necesarios para su funcionamiento, de acuerdo con su Reglamento Interno y los lineamientos que establezca la Secretaría de Administración.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 31.
-
-Para la adecuada atención en materia de educación, el Ejecutivo Estatal determinará las dependencias o entidades de la Administración Pública Estatal, que deberán atender dichos asuntos, de conformidad con el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 32.
-
-El Gobernador del Estado, en términos de lo dispuesto por el artículo 79, fracción IV de la Constitución Política del Estado Libre y Soberano de Oaxaca, instruirá a los titulares de las Dependencias y Entidades correspondientes, cada vez que le sea solicitado por el Poder Legislativo, para que ante éste expongan y argumenten en la discusión de las leyes, decretos, planes, programas o proyectos relativos a sus respectivos ramos, así como, cuando sean citados para responder a preguntas que se les formulen.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 33.
-
-El Gobernador del Estado, además de las dependencias señaladas en el artículo 27 de esta Ley, contará con los siguientes Órganos Auxiliares que dependerán directamente de él:
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-I. Jefatura de la Gubernatura;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-II. Coordinación General de Comunicación Social;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-III. Coordinación para la Atención de los Derechos Humanos;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-IV. Coordinación General de Educación Media Superior y Superior; Ciencia y Tecnología, y
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-V. Representación del Gobierno del Estado de Oaxaca en el Distrito Federal.
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
-
-Asimismo, podrán estar directamente sectorizadas a la Gubernatura del Estado, las entidades paraestatales o áreas administrativas que el Gobernador determine.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 34.
-
-A la Secretaría General de Gobierno le corresponde el despacho de los siguientes asuntos:
-
-I. Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás disposiciones que emita el Gobernador del Estado, así como atender los asuntos que le encomiende;
-
-II. Cumplir con las directrices en materia de política interior del Gobernador y conducir la política interior en el Estado, así como, facilitar la conciliación, acuerdos y resolución de conflictos políticos y/o sociales, proveyendo lo necesario para mantener relaciones armónicas entre sus habitantes;
-
-III. Atender las demandas públicas promoviendo un sano equilibrio entre el Estado y la sociedad civil, para propiciar el desarrollo económico, social, institucional y duradero;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-IV. Concertar acciones y participación de las Dependencias y Entidades del Poder Ejecutivo, con el fin de garantizar la gobernabilidad del Estado, coadyuvando en la formulación de propuestas sobre planeación, aplicación y orientación de las políticas públicas;
-
-V. Prevenir y conducir la resolución de conflictos que se susciten durante o a consecuencia del funcionamiento de nuevos proyectos, mediante acciones de conciliación, mediación y sinergia entre grupos vulnerables, sociedad civil y organizaciones no gubernamentales que permitan orientar y facilitar los procesos de desarrollo político social;
-
-VI. Establecer comunicación y coordinación con los Poderes del Estado, así como, con los órganos constitucionales autónomos, los Ayuntamientos de los Municipios del Estado, los Poderes de la Unión y los Gobiernos de las Entidades Federativas, para la atención y resolución de los asuntos de interés público;
-
-VII. Encargarse del despacho del Poder Ejecutivo Estatal en las ausencias temporales del Gobernador del Estado que no excedan de treinta días, en los términos del artículo 70 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
-
-VIII. Hacer llegar al Honorable Congreso del Estado las iniciativas de ley y decretos del Gobernador del Estado y ordenar la publicación de las disposiciones que sean expedidas por la Legislatura y el titular del Poder Ejecutivo Estatal;
-
-IX. Tramitar excitativas para la pronta y expedita administración de justicia;
-
-X. Coadyuvar en el cumplimiento de las disposiciones constitucionales y legales en materia de culto público, iglesias, agrupaciones y asociaciones religiosas;
-
-XI. Planear y desarrollar las políticas y acciones en materia de protección civil, orientadas a proteger la integridad física de la población, de sus bienes materiales y su entorno ante la eventualidad de un desastre provocado por fenómenos naturales y/o por la actividad humana;
-
-XII. Proponer al Gobernador del Estado el otorgamiento de pensiones de gracia o premios extraordinarios en beneficio de oaxaqueños distinguidos;
-
-XIII. Solicitar la declaratoria de emergencia a la Secretaría de Gobernación en caso de fenómenos de origen natural;
-
-XIV. Instaurar y tramitar los procedimientos, integrando los expedientes respectivos, y ejecutar los acuerdos que emita el Gobernador en materia de expropiación, ocupación temporal y limitación de dominio, en los casos de utilidad pública y de acuerdo con la normatividad aplicable;
-
-XV. Atender, vigilar y controlar todo lo relativo a la demarcación y conservación de los límites del Estado y de sus Municipios;
-
-XVI. Intervenir en auxilio o coordinación con las autoridades federales en los términos de las leyes relativas en materia de loterías, rifas y juegos prohibidos;
-
-XVII. Intervenir en auxilio o coordinación con las autoridades federales en los términos de las leyes y convenios relativos, en materia de migración, política poblacional, cultos religiosos;
-
-XVIII. Registrar los autógrafos, legalizar y certificar las firmas de los servidores públicos estatales y demás funcionarios a quienes esté encomendada la fe pública;
-
-XIX. Certificar todo tipo de documentos, así como, dar legalidad a todos los actos relativos al despacho de los asuntos del Ejecutivo;
-
-XX. Recibir del Instituto Estatal Electoral y de Participación Ciudadana, las salas competentes del Tribunal Electoral del Poder Judicial de la Federación y del Estado, o en su caso, del Congreso del Estado, el padrón de firmas de las autoridades municipales y auxiliares, e integrar, legalizar, certificar o expedir la acreditación administrativa respectiva;
-
-XXI. Firmar el apostillamiento de los documentos públicos estatales, de conformidad con la Convención por la que se suprime el Requisito de Legalización de los Documentos Públicos Extranjeros, adoptada en la Conferencia de la Haya de Derecho Internacional Privado;
-
-XXII. Establecer anualmente el calendario oficial y ordenar la publicación del calendario oficial que regirá en el Estado;
-
-XXIII. Tramitar lo relacionado con las facultades del Poder Ejecutivo establecidas en las fracciones X y XXIV del artículo 79 y el artículo 100 párrafo IV y 102 de la Constitución del Estado Libre y Soberano de Oaxaca;
-
-XXIV. Coordinar las acciones de Gobierno, políticas de conciliación y concertación en el territorio del Estado;
-
-XXV. Coordinar la planeación, elaboración, producción y trasmisión de programas de radio y televisión que promuevan el desarrollo del Estado, difundan y preserven la cultura de sus pueblos, los programas educativos de las autoridades competentes y las actividades gubernamentales que en cumplimiento a las disposiciones legales y al contenido del Plan Estatal de Desarrollo, realicen por conducto de órganos, Dependencias y Entidades del Estado;
-
-XXVI. Apoyar a los organismos electorales del Estado, en el ejercicio de sus atribuciones;
-
-XXVII. Promover la celebración de convenios de coordinación y colaboración con los municipios para la realización de acciones, estudios y proyectos tendientes al fortalecimiento del desarrollo municipal y fomentar la participación ciudadana;
-
-(REFORMADA, P.O. 17 DE OCTUBRE DE 2016) (F. DE E., P.O. 31 DE DICIEMBRE DE 2016)
-
-XXVIII. Refrendar con su firma las leyes o decretos enviados para su promulgación y publicación por el Congreso del Estado, así como los reglamentos, decretos, acuerdos y demás disposiciones de carácter general que expide el Gobernador del Estado y aquellas que deban regir en la entidad y establezca la normatividad aplicable en la materia, ordenándole al área correspondiente su publicación en el Periódico Oficial del Gobierno del Estado, conforme a las disposiciones aplicables de la Ley Estatal de Derechos.
-
-XXIX. Proponer al Gobernador del Estado, la solicitud de referéndum, en los asuntos que así lo requieran;
-
-XXX. Dirigir, planear, desarrollar y promover la aplicación de la política de población, en coordinación con las autoridades federales y municipales, y en congruencia con los ordenamientos nacionales y las necesidades particulares de las regiones del Estado;
-
-XXXI. Coordinar, supervisar y evaluar las actividades y resultados de sus órganos desconcentrados y las entidades sectorizadas a la Secretaría;
-
-(REFORMADA, P.O. 17 DE OCTUBRE DE 2016) (F. DE E., P.O. 31 DE DICIEMBRE DE 2016)
-
-XXXII. Coordinar, organizar y supervisar el ejercicio y funcionamiento del Registro Público de la Propiedad y del Comercio, la Dirección del Registro Civil y la Dirección General de Notarías y Archivo General de Notarias;
-
-(REFORMADA, P.O. 17 DE OCTUBRE DE 2016) (F. DE E., P.O. 31 DE DICIEMBRE DE 2016)
-
-XXXIII. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Gobernador del Estado, vigilar y ordenar visitas periódicas de inspección, autorizar y sancionar las actividades de los notarios públicos;
-
-(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016) (F. DE E., P.O. 31 DE DICIEMBRE DE 2016)
-
-XXXIV. Administrar los Talleres Gráficos del Gobierno del Estado y publicar el Periódico Oficial del Gobierno del Estado.
-
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXXV. Mediante la Coordinación General de Delegaciones de Gobierno, desarrollar acciones de fortalecimiento municipal a través de la vinculación y concertación;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXXVI. Coordinar la integración, establecimiento y funcionamiento de las Juntas Local (sic) de Conciliación y Arbitraje, y de Arbitraje para los Empleados al Servicio de los Poderes del Estado, así como, de las comisiones que se formen para regular las relaciones obrero patronales de jurisdicción estatal y vigilar su funcionamiento conforme a la Ley Federal del Trabajo.
-
-Se evaluará anualmente el funcionamiento de estas Juntas y se propondrán las medidas que procedan, así como coordinar las instancias públicas de la defensa del trabajo en la Entidad;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXXVII. Vigilar la observancia y aplicación, en el ámbito de su competencia, de las disposiciones contenidas en el artículo 123 y demás relativos de la Constitución Federal, la Constitución Política del Estado Libre y Soberano de Oaxaca, en la Ley Federal del Trabajo y en sus reglamentos;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXXVIII. Organizar y ejecutar las inspecciones de trabajo en los establecimientos de circunscripción local, realizando las acciones de prevención, vigilancia del cumplimiento de las normas laborales y sanciones generadas de las mismas, así como las demás que correspondan;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXXIX. Aplicar políticas públicas para combatir la explotación del trabajo infantil;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XL Tramitar el nombramiento de los encargados de la Administración Municipal que designe el Gobernador del Estado;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XLI. Coordinar y organizar el Órgano Desconcentrado denominado Secretariado Ejecutivo del Sistema Estatal de Segundad Pública, y
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XLII. Las que en el ámbito de su competencia le confiera directamente el gobernador del estado, su reglamento interno y demás disposiciones normativas aplicables.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 35.
-
-A la Secretaría de Seguridad Pública corresponde el despacho de los siguientes asuntos:
-
-I. Conducir y desarrollar la política estatal en materia de seguridad pública, de prevención del delito y reinserción social, privilegiando el respeto a los derechos humanos;
-
-II. Implementar y ejecutar, conforme a la normatividad de la materia, los planes y programas orientados a la capacitación y profesionalización de las corporaciones policiales estatales y municipales;
-
-III. Dictar acuerdos, circulares, lineamientos, protocolos y demás instrumentos administrativos y técnicos para fortalecer la actividad institucional de la dependencia;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-IV. Integrar y desarrollar, conforme a sus competencias, el Sistema Estatal de Seguridad Pública y establecer mecanismos de coordinación con el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
-
-V. Colaborar con el Sistema Nacional de Seguridad Pública, en el ámbito de su competencia y conforme al marco normativo del mismo;
-
-VI. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
-
-VII. Establecer y ordenar la ejecución de los programas permanentes para la vigilancia del orden público y prevención de delitos;
-
-VIII. Establecer y fomentar los mecanismos de participación ciudadana, para la formulación de los planes y programas de Seguridad Pública estatales;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-IX. Aplicar las normas técnicas y operativas para el tránsito de personas y vehículos en las vías públicas del Estado, así como, proponer planes de mejora y reordenamiento vial, auxiliando a las autoridades de transporte en materia de vialidad, a través de la Dirección de la Policía Vial Estatal;
-
-X. Elaborar y ejecutar los programas de reinserción social de los infractores sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte;
-
-XI. Dirigir, administrar y operar el Sistema Penitenciario Estatal, de conformidad con las disposiciones legales aplicables;
-
-XII. Tramitar y sustanciar conforme a la normatividad aplicable, las solicitudes de extradición y traslado de reos, y auxiliar a la autoridad judicial en la ejecución de penas;
-
-XIII. Celebrar convenios con los sectores públicos y privados, para el efecto de establecer fuentes de trabajo dentro y fuera de los Centros de Reinserción Social, en beneficio de los procesados, sentenciados y liberados;
-
-XIV. Proponer y aplicar las políticas y lineamientos en materia de prevención del delito tratándose de adolescentes; así como, administrar y vigilar los centros de internamiento respectivos auxiliando a la autoridad competente en la ejecución de las sanciones;
-
-XV. Celebrar convenios de coordinación con el Gobierno Federal, entidades federativas y los municipios del Estado, en materia de seguridad pública;
-
-XVI. Celebrar convenios de coordinación en materia de seguridad pública, con organismos internacionales, con autoridades de la Administración Pública Federal, con las entidades federativas y municipios del interior del país, con la intervención de titulares de Dependencias y Entidades cuando conforme a sus facultades deban participar;
-
-XVII. Expedir los acuerdos, circulares y demás disposiciones jurídicas conducentes para el buen despacho de sus asuntos;
-
-XVIII. Coordinarse y auxiliar a las autoridades federales, en los términos de las leyes correspondientes, en la prevención y persecución de delitos federales relacionados con la materia de pirotecnia, detonantes, portación de armas de fuego, piratería y migración, y llevar a cabo los trámites que en dichas materias correspondan al Poder Ejecutivo del Estado;
-
-XIX. Presidir el Consejo Estatal de Desarrollo Policial, que tendrá por objeto normar, conocer y resolver toda controversia que se suscite en relación con los procedimientos del servicio profesional de carrera, profesionalización y el régimen disciplinario de los integrantes de la Policía Estatal, de los cuerpos de vigilancia y custodia de establecimientos penitenciarios, de detención preventiva o centros de arraigo y del órgano desconcentrado Policía Auxiliar, Bancaria, Industrial y Comercial de la Secretaría de Seguridad Pública, así como, las demás corporaciones policiales de la Secretaría de Seguridad Pública; exceptuando a la Agencia Estatal de Investigaciones de la Procuraduría General de Justicia del Estado de Oaxaca y a las policías municipales;
-
-XX. Ejecutar las disposiciones sobre los servicios de seguridad privada en el Estado, así como, vigilarlos y supervisarlos, sancionando las faltas e irregularidades de los mismos, de conformidad con las leyes y normas de la materia;
-
-XXI. Establecer, operar y coordinar el sistema estatal de información de seguridad pública, de conformidad con la Ley del Sistema Estatal de Seguridad Pública de Oaxaca y demás disposiciones legales aplicables;
-
-XXII. Investigar, a través de la Dirección General de Asuntos Internos, las denuncias por anomalías que se susciten en la conducta de los integrantes de la Policía Estatal, cuerpos de vigilancia y custodia de establecimientos penitenciarios, de detención preventiva o centros de arraigo y del órgano desconcentrado Policía Auxiliar, Bancaria, Industrial y Comercial de la Secretaria de Seguridad Pública, así como, las demás corporaciones policiales de la Secretaría de Seguridad Pública; exceptuando a la Agencia Estatal de Investigaciones de la Procuraduría General de Justicia del Estado de Oaxaca y a las policías municipales; con motivo de faltas administrativas o infracciones disciplinarias; y
-
-XXIII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 36.
-
-A la Secretaría de Salud le corresponde el despacho de los siguientes asuntos:
-
-I. Establecer y conducir la política estatal en materia de salud, de conformidad con el Sistema Nacional de Salud;
-
-II. Planear, coordinar y evaluar el Sistema Estatal de Salud de conformidad con el Plan Estatal de Desarrollo y las disposiciones legales en la materia, propiciando la participación de los sectores público, social y privado;
-
-III. Elaborar en coordinación con las autoridades competentes los programas de salud y presentarlos a la aprobación del Gobernador del Estado;
-
-IV. Realizar programas de atención medica, preferentemente en beneficio de grupos vulnerables y en situación de desventaja, así como lo relacionado con los derechos reproductivos y la salud sexual de hombres y mujeres y la atención materno infantil;
-
-V. Planear, operar, controlar y evaluar el Sistema Estatal de Donación de Órganos Humanos para trasplante;
-
-VI. Promover la capacitación y desarrollo de los recursos humanos para la salud incorporando la perspectiva de género en su diseño y promoción, garantizando la igualdad de oportunidades;
-
-VII. Mantener actualizado el diagnóstico de salud en la entidad, estableciendo y coordinando el sistema de información en el Estado y supervisando que sea elaborado con base en estadísticas desagregadas por sexo, grupos de edad y tipo de localidad;
-
-VIII. Promover y participar en las actividades de investigación para la salud dando oportunidad al desarrollo de aquellas que se ocupen de problemas de salud sexual y reproductiva con especial énfasis en los adolescentes;
-
-IX. Planear, operar, controlar y evaluar el Sistema de Información de Salud del Estado, participando todas las dependencias y organismos auxiliares que proporcionen servicios de salud, así como, el Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
-
-X. Normar el ejercicio privado de la medicina y profesiones afines, así como promover su participación activa en acciones concretas de los programas establecidos;
-
-XI. Adecuar y difundir las normas y procedimientos técnicos para la ejecución de programas en materia asistencial, enseñanza, investigación y educación para la salud;
-
-XII. Organizar y fomentar la prestación de servicios de planificación familiar;
-
-XIII. Ejecutar la dictaminación sanitaria en el Estado;
-
-XIV. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente;
-
-XV. Proponer e implementar la infraestructura sanitaria necesaria que procure niveles de sanidad mínimos entre la población;
-
-XVI. Dictar las medidas de seguridad sanitarias que sean necesarias para proteger la salud de la población;
-
-XVII. Vigilar y fomentar la regulación sanitaria de la publicidad;
-
-XVIII. Apoyar y supervisar el ejercicio de la medicina tradicional, fomentando la cooperación interinstitucional para apoyo y financiamiento de programas;
-
-XIX. Proponer al Ejecutivo Estatal, para su aprobación acuerdos de coordinación con las instituciones del sector salud, tendientes a promover y apoyar los programas de medicina preventiva; y
-
-XX. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 37.
-
-A la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable le corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-I. Formular en colaboración con la Secretaría de Desarrollo Social y Humano la instrumentación y coordinación de las políticas públicas del sector de la infraestructura social y ejecutar por sí o por conducto de terceros las obras públicas y servicios relacionados con:
-
-a) Infraestructura Social: Entendiéndose por ésta, las edificaciones e instalaciones para ofrecer servicios de salud, educación, patrimonio edificado, vivienda e infraestructura urbana;
-
-b) Infraestructura Básica: Entendiéndose por ésta, el desarrollo de obras e instalaciones para agua; así como, promover actividades para el cuidado, mejoramiento y restauración del medio ambiente, comunicaciones, transportes y energías; y
-
-c) Infraestructura Productiva: Entendiéndose por ésta, las edificaciones e Instalaciones en materia agrícola, ganadera, forestal, pesca, turismo, comercio e industria.
-
-II. Aplicar las disposiciones técnicas y normativas en materia de infraestructuras en lo general, y en lo particular en materia de obra pública, construcción, fraccionamiento, ordenamiento territorial y desarrollo urbano;
-
-III. Procurar que en la generación de infraestructuras social, básica y productiva, se fomente la cohesión social, se propicie el equilibrio regional y la competitividad económica; articulando y ordenando el territorio para lograr la igualdad de oportunidades mediante la consolidación de una infraestructura integral, sustentable y compensatoria;
-
-IV. Impulsar criterios de sustentabilidad en la construcción de infraestructuras social, básica y productiva, así como, la conservación y mejoramiento del medio ambiente en coordinación con las instancias competentes;
-
-V. Coordinar, en el ámbito de su competencia, la planeación integral de las infraestructuras con visión de largo plazo, fomentando la participación ciudadana a través de órganos consultivos;
-
-VI. Promover la creación de reserva territorial y suelo para el establecimiento de las infraestructuras.
-
-VII. Promover, vigilar y operar de manera permanente en el sector de las infraestructuras la innovación como política para la competitividad, la mejora continua y la eficiencia para que los servicios que proporciona tengan la calidad que requieren los oaxaqueños.
-
-VIII. Promover y asegurar que la construcción de infraestructura coadyuve a la competitividad del Estado y sus regiones.
-
-IX. Crear un banco de proyectos ejecutivos de obras, que permitan una planeación y ejecución eficiente con los objetivos del Plan Estatal de Desarrollo.
-
-X. Formular proyectos ejecutivos de obras, que permitan una planeación y ejecución eficiente con los objetivos del Plan Estatal de Desarrollo;
-
-XI. Integrar un registro de los contratistas que deseen ejecutar obra pública en cualquiera de las Dependencias y Entidades de la Administración Pública Estatal, que cubran los requisitos de capacidad técnica, competencia, experiencia y solvencia económica;
-
-XII. Presidir el Comité Estatal de Licitación de Obra Pública y emitir las políticas, bases y lineamientos para su funcionamiento;
-
-XIII. Participar en la gestión, suscripción y ejecución de los convenios en materia de infraestructuras con los gobiernos federal, estatales y municipales, así como, con el sector privado y social para el cumplimiento de sus funciones y de los objetivos del Plan Estatal de Desarrollo;
-
-XIV. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
-
-XV. Coordinar la elaboración y ejecución de programas y acciones en materia de infraestructura para la movilidad y el transporte en el Estado.
-
-XVI. Coordinar la integración y actualización del inventario de las infraestructuras del Estado.
-
-XVII. Formular, regular, vigilar y ejecutar el Plan Estatal de ordenamiento Territorial, desarrollo urbano, y de las infraestructuras en coordinación con las instancias federales, estatales, municipales competentes.
-
-XVIII. Reglamentar las normas técnicas y operativas para el tránsito de vehículos en las poblaciones, carreteras y caminos de jurisdicción estatal;
-
-XIX. Formular, coordinar y ejecutar obras de abastecimiento de agua potable; de servicios de drenaje y alcantarillado; las relacionadas con el desarrollo y equipamiento urbano; y las obras y servicios que le sean asignadas;
-
-XX. Proponer y ejecutar el programa anual de obra pública del Estado, en coordinación con las Entidades del sector;
-
-XXI. Coadyuvar en el ámbito de su competencia, a la regularización de la Tenencia de la tierra urbana; y
-
-XXII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
-
-### CAPÍTULO IV. DE LA CONSEJERIA JURIDICA DEL ESTADO
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2011)</small>
 
 #### SECCION I. De la Planeación
 
-###### ARTÍCULO 38.
+###### ARTICULO 38.
 
-(DEROGADO, P.O. 17 DE OCTUBRE DE 2016)
+El proceso educativo considerará como elementos básicos para su desarrollo, la planeación, la organización, la operación, la supervisión, la investigación educativa, y la evaluación y se garantizará que cada uno de ellos se realice con mayor eficiencia y calidad
 
-###### ARTÍCULO 39.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-(DEROGADO, P.O. 17 DE OCTUBRE DE 2016)
+###### ARTICULO 39.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+Los planes y programas correspondientes a la Educación y los destinados a la formación de docentes, se sujetarán a las disposiciones del Artículo 3° de la Constitución Federal, de la Constitución Local, de la Ley General, de la Ley de las Maestras y los Maestros, de la Ley de Mejora Continua de la Educación, de la presente Ley y de los Reglamentos que de ellas se deriven.
 
-###### ARTÍCULO 40.
+Por lo que respecta a Educación Básica y Normal, y demás para la formación de Maestras y Maestros para la Educación Básica, será la autoridad educativa federal la que los determine.
 
-A la Secretaría de Vialidad y Transporte le corresponde el despacho de los siguientes asuntos:
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-I. Regular y controlar la prestación de los servicios de transporte de pasajeros y de carga en el territorio del Estado de Oaxaca, en todas sus modalidades, así como el equipamiento auxiliar de transporte, sea cualesquiera el tipo de vehículos y sus sistemas de propulsión, a fin de que de manera regular, permanente, continua, uniforme e ininterrumpida se satisfagan las necesidades de la población;
+###### ARTICULO 40.
 
-II. Proponer al Gobernador del Estado las políticas, normatividad y programas relativos a vialidad y transporte en la entidad;
+Es competencia de la autoridad educativa estatal, proponer a la autoridad educativa federal, actualizaciones y modificaciones de los planes y programas de estudio para el Estado de Nayarit, para atender el carácter regional, local, contextual y situacional del proceso de enseñanza aprendizaje, así como otros aspectos que se estimen pertinentes para el fortalecimiento de la educación en la entidad.
 
-III. Promover y vigilar que los servicios de transporte de pasajeros y de carga en el Estado de Oaxaca, se efectúen con apego a la Ley de la materia;
+###### ARTICULO 41.
 
-IV. Conocer, iniciar e instruir los trámites para otorgar, revocar, cancelar, suspender, modificar, prorrogar, renovar, aprobar y dar por terminadas, según corresponda, las concesiones, permisos y autorizaciones, que otorgue el titular del Ejecutivo, en términos de la Ley de la materia, para la explotación del servicio público de transporte en el Estado de acuerdo a los términos legales y requisitos establecidos en las propias concesiones o permisos otorgados;
+Los Planes y Contenidos Programáticos, a partir de la Educación Secundaria, hasta la de tipo medio Superior y Superior, deberán incluir, además de los aspectos formativos e informativos, el desarrollo de habilidades que permitan al estudiante incorporarse al aparato productivo, aún sin haber concluido los estudios respectivos.
 
-V. Expedir la documentación para la prestación del servicio de transporte y vialidad, prevista en la ley y reglamento de la materia;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-VI. Establecer, administrar, resguardar y mantener actualizado el registro y control de las concesiones, permisos y autorizaciones que de conformidad con la legislación aplicable le corresponda otorgar a la Secretaría; para estos efectos, se coordinará con la Secretaría de Finanzas;
+###### ARTICULO 42.
 
-VII. Aplicar las sanciones previstas en las disposiciones legales y reglamentarias en la materia de su competencia y dar seguimiento a la aplicación de las que correspondan a otras autoridades, así como, resolver los recursos de quejas que le presenten, de conformidad con las disposiciones legales correspondientes;
+La tecnología educativa aplicada al Sistema Educativo Estatal, se deberá caracterizar por ser innovadora y por buscar soluciones a los problemas educativos de acuerdo a las características de los educandos, así como el desarrollo tecnológico y la innovación, asociados a la actualización, a la excelencia educativa y a la expansión de las fronteras del conocimiento se apoyará en las nuevas tecnologías de la información, comunicación, conocimiento y aprendizaje digital, mediante el uso de plataformas de acceso abierto.
 
-VIII. Emitir acuerdos, circulares y demás disposiciones en el ámbito de su competencia, para la aplicación de las leyes en la materia;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
-IX. Expedir tarjetas de circulación de transporte público y particular. En los casos de los servicios del transporte público, revisar y, en su caso, autorizar la documentación del solicitante y de ser procedente entregar los documentos previstos en la Ley de la materia, tales como título de concesión, cesión de concesión, tarjetón de concesión, tarjeta de circulación, engomado alfanumérico y placas de circulación, entre otros; así como, autorizar y entregar los permisos, placas y tarjetas de circulación y engomado alfanumérico del transporte público, previstos en la ley de la materia, en coordinación con las instancias gubernamentales que se requieran;
+###### ARTICULO 43.
 
-X. Expedir licencias de manejo para conductores particulares y del servicio público estatal y llevar a cabo las acciones de emplacamiento vehicular y la emisión de permisos y tarjetas de circulación;
+Se buscará el mejoramiento de la educación en el Estado, mediante el perfeccionamiento del proceso educativo, la optimización de los recursos didácticos y la planeación, construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de inmuebles e instalaciones destinados al servicio del sistema educativo estatal.
 
-XI. Realizar a través de las normas legales necesarias la certificación de conductores en materia de transporte público y particular, garantizando el cumplimiento de los requisitos en materia de aptitudes físicas y psicológicas con lo dispuesto en las leyes vigentes;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-XII. Diseñar, normar, organizar, instaurar, integrar, operar, manejar y actualizar el Registro Público Estatal del sistema de transporte en el Estado y establecer el Programa Estatal de Acreditación y Certificación de conductores y operadores del sistema de transporte público;
+ARTICULO 43 A.- La planeación del sistema estatal de educación se dirigirá a proporcionar un servicio educativo eficiente, equitativo y de excelencia teniendo como finalidad:
 
-XIII. Coordinar los programas de Transporte y Vialidad en la entidad, que realice directamente o en forma concertada con la federación o los municipios;
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
-XIV. Elaborar los planes, estudios y proyectos directamente, en coordinación con la federación y/o los municipios, otras dependencias e instituciones, o a través de terceros, orientados a sustentar el otorgamiento de concesiones y permisos del transporte público, así como, en materia de mejoramiento del sistema del Transporte y vialidad dentro del ámbito de su competencia;
+I.- Planear, programar, presupuestar, ejercer y vigilar con responsabilidad y transparencia los recursos económicos, materiales, servicios personales y profesionales, destinados a la operación del sistema educativo estatal;
 
-XV. Realizar los estudios necesarios sobre tránsito de vehículos, a fin de lograr una mejor utilización de las vías y de los medios de transporte correspondientes, que conduzca a la más eficaz protección de la vida, y a la seguridad, comodidad y fluidez en el transporte público y particular;
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
-XVI. Realizar las acciones de planeación, programación y presupuesto para el mejoramiento de la infraestructura y la modernización del sistema de vialidad y transporte en la Entidad, así como de los servicios auxiliares;
+II.- Vincular de manera congruente la educación básica, media superior y superior;
 
-XVII. Coadyuvar con las autoridades Federales, estatales y municipales en la planeación, elaboración y desarrollo de proyectos de Vialidad y transporte en la entidad;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-XVIII. Fijar normas técnicas para el funcionamiento y operación de los servicios de vialidad y transporte de la entidad;
+III.- Promover la excelencia de la educación en todos sus niveles, apoyar la formación inicial, continua y el desarrollo profesional de los docentes, y
 
-XIX. Promover y fomentar la participación de los diversos sectores de la sociedad, con el objeto de construir y llevar a cabo las acciones necesarias para dar solución a la problemática en materia de vialidad, transporte y servicios auxiliares;
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
-> <small>[N. DE E. CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO 2054, PUBLICADO EN EL P.O. 17 DE OCTUBRE DE 2016, LOS ACTOS JURÍDICOS Y ADMINISTRATIVOS SUSCRITOS EN LO QUE CORRESPONDEN A LAS ATRIBUCIONES DEL EXTINTO INSTITUTO ESTATAL DE ECOLOGÍA Y DESARROLLO SUSTENTABLE, SE ENTENDERÁN A LA SECRETARÍA DEL MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE.]</small>
+IV.- Estimular y promover el eficaz desempeño del personal especializado, de apoyo y de asistencia a la educación.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
-XX. Coadyuvar con el Instituto Estatal de Ecología y Desarrollo Sustentable, en la implementación del programa estatal de verificación vehicular sobre emisiones contaminantes;
+ARTICULO 43 B.- En la elaboración de la planeación educativa estatal, se deberá considerar como elementos fundamentales, enunciativamente los siguientes:
 
-XXI. Regular, autorizar e inspeccionar la publicidad en el servicio de transporte, así como, imponer las sanciones en caso de incumplimiento de acuerdo con las normas jurídicas y administrativas correspondientes;
+a).- Un diagnóstico de educación en el estado;
 
-XXII. Convocar, integrar y conducir el Consejo Estatal de Transporte Público y Vialidad;
+b).- Instrumentos para la evaluación;
 
-XXIII. Diseñar y promover esquemas de financiamiento para la modernización del parque vehicular del sistema del transporte público y los mecanismos de aseguramiento de cobertura de riesgo para los pasajeros usuarios de dicho sistema;
+c).- Métodos de evaluación permanente;
 
-XXIV. Promover, regular y supervisar la construcción, reconstrucción, conservación, mantenimiento y modernización de la infraestructura vial, de tránsito y transporte que se efectúen en el Estado, directamente o a través de terceros, en coordinación y coadyuvancia con la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
+d).- Proyectos estratégicos;
 
-XXV. Celebrar convenios, contratos y demás actos jurídicos necesarios, así como, emitir las opiniones que procedan, con relación a los actos en los que intervengan los prestadores de servicios del transporte público y vialidad;
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2022)</small>
 
-XXVI. Celebrar convenios de colaboración en materia de vialidad y transporte con los municipios del Estado, otras entidades y la federación, a fin de lograr el mejoramiento y modernización del sector;
+e).- Líneas de acción;
 
-XXVII. Fomentar ordenadamente y conforme a las leyes vigentes, la organización de asociaciones sociales y privadas, cuyo objeto sea la prestación de servicios de vialidad y transporte;
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2022)</small>
 
-XXVIII. Normar e inspeccionar el uso adecuado de la infraestructura necesaria: paraderos, puentes peatonales, bahías, señalización, dispositivos de control de tránsito entre otros, para el desempeño de las actividades del sistema de vialidad, tránsito y transporte en general;
+f).- La participación directa de los diversos sectores sociales involucrados en el proceso educativo, y
 
-XXIX. Normar y establecer las políticas y criterios para llevar a cabo directamente, en coordinación con otras dependencias e instituciones, o a través de terceros, los estudios y proyectos de ingeniería de tránsito;
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2022)</small>
 
-XXX. Diseñar y normar la instalación y mantenimiento de la señalización y semaforización en las obras viales, tanto para el tráfico vehicular como peatonal, en el Estado;
+g).- Mecanismos para la paz y no violencia.
 
-XXXI. Autorizar, modificar, cancelar y actualizar las rutas, horarios, itinerarios y tarifas del servicio de transporte público y comprobar su correcta aplicación;
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
-XXXII. Promover y organizar la capacitación, educación, investigación y desarrollo tecnológico en materia de vialidad, tránsito y transporte en la entidad;
+ARTICULO 43 C.- El titular del Poder Ejecutivo Estatal contará con un Consejo Consultivo para la planeación del Sistema Educativo Estatal, cuya integración y atribuciones estarán contenidas en el Reglamento de la presente Ley.
 
-XXXIII. Establecer con las instituciones educativas de todos los niveles, convenios de colaboración para el diseño y establecimiento de planes y programas que fomenten y consoliden las normas y derechos del uso correcto de la vialidad y respeto de las señalizaciones, tanto de los peatones como de los vehículos, para contribuir al desarrollo de una cultura de vialidad y tránsito;
-
-XXXIV. Promover e implementar nuevas modalidades en la prestación del servicio del transporte público y sus servicios auxiliares, cuando se justifique su necesidad e interés colectivo;
-
-XXXV. Establecer la normatividad para elaborar, sin perjuicio de la competencia municipal, los estudios que contribuyan a determinar el diseño, la ubicación, construcción, tarifas y el funcionamiento de los estacionamientos públicos, así como la ubicación, instalación, control y vigilancia de parquímetros;
-
-XXXVI. Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la federación y los municipios;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-XXXVII. Coadyuvar en el cumplimiento cabal de la Ley de Tránsito, Movilidad y Vialidad del Estado de Oaxaca y, en su caso, aplicar las sanciones establecidas, a través de la Dirección de la Policía Vial Estatal;
-
-XXXVIII. Promover la aplicación de nuevas tecnologías en los vehículos, señalización y equipamiento del transporte y la vialidad;
-
-XXXIX. Diseñar y supervisar la instalación del equipamiento y mobiliario que proteja al peatón en las vialidades;
-
-XL. Impulsar el desarrollo del transporte de turismo, colectivo, de personal y escolar, y todos aquellos esquemas de Transporte que eviten la saturación de las vialidades y protejan el ambiente;
-
-XLI. Elaborar su reglamento interno y proponer las adecuaciones en función de las innovaciones tecnológicas que se incorporen tanto a los Sistemas viales como al sistema del transporte público; y
-
-XLII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 41.
-
-A la Secretaría de las Culturas y Artes de Oaxaca, corresponde el despacho de los siguientes asuntos:
-
-I. Dirigir, planear y ejecutar las políticas en materia cultural del Gobierno del Estado;
-
-II. Organizar y operar de manera eficiente y eficaz los esfuerzos (sic) instituciones de difusión del arte y promoción de las culturas, incluyendo el impulso y promoción de las culturas populares;
-
-III. Promover la cultura y las artes en coordinación con la Secretaría de Turismo y Desarrollo Económico para generar un mejoramiento en las condiciones económicas de este sector;
-
-IV. Procurar el acceso de toda la población, al disfrute de las expresiones artísticas y las manifestaciones culturales en el Estado;
-
-V. Promover el respeto a la creatividad de los autores y artistas, facilitando la interacción de la sociedad en la cultura;
-
-VI. Investigar, promover y difundir los valores culturales, populares y las artes;
-
-VII. Contribuir en la preservación, protección y explotación del patrimonio cultural, artístico, arqueológico, arquitectónico e intangible del Estado;
-
-VIII. Fomentar y promover las tradiciones, artes y costumbres de las comunidades;
-
-IX. Definir, concertar y ejecutar las iniciativas y proyectos culturales, que favorezcan la ampliación de las oportunidades de acceso a la cultura a todos los sectores de la población y el desarrollo equilibrado de los servicios culturales, fomentando la participación de las instituciones federales, estatales y municipales, de la comunidad artística e intelectual, así como, de los diversos grupos sociales;
-
-X. Gestionar financiamientos adicionales a los que otorgue el Gobierno del Estado, para promover las creaciones culturales, así como, para el mejoramiento y rehabilitación de la infraestructura cultural; a partir de la participación activa de la sociedad civil y en especial de los sectores económicos;
-
-XI. Fomentar, propiciar y apoyar la creación artística en todas sus formas y manifestaciones;
-
-XII. Promover y difundir entre la población, la cultura estatal, nacional e internacional en sus expresiones artísticas, científicas y tecnológicas;
-
-XIII. Estimular en todos los sectores de la población la educación artística, formal e informal, incluyendo el desarrollo de las bellas artes, lectura y todas aquellas manifestaciones artísticas y culturales;
-
-XIV. Organizar y ejecutar actividades a través de las diferentes formas de participación social, para enriquecer la vida cultural y rescatar las tradiciones y festividades oaxaqueñas;
-
-XV. Operar un sistema de información y comunicación, a fin de promover de manera oportuna entre el público en general, la oferta y demanda cultural;
-
-XVI. Promover la creación literaria, la difusión editorial y el hábito de la lectura;
-
-XVII. Establecer las políticas y lineamientos para la creación, uso y aprovechamiento de los centros y espacios culturales;
-
-XVIII. Proponer y gestionar la creación de instrumentos jurídicos que permitan garantizar el desarrollo cultural del Estado, así como, promover el desarrollo de convenios de cooperación cultural con todo tipo de organismos e instituciones, tanto públicos como privados, nacionales y extranjeros;
-
-XIX. Promover las actividades de investigación, reflexión y discusión relativas a la cultura;
-
-XX. Promover la creación y ampliación de diversas opciones de organización, administración y financiamiento, que permitan impulsar y fortalecer las actividades culturales;
-
-XXI. Otorgar reconocimientos y estímulos al mérito de los creadores artísticos, investigadores, intérpretes o promotores culturales, mediante evaluaciones sustentadas en los principios de objetividad, imparcialidad y equidad de género;
-
-XXII. Desarrollar la formación y capacitación de investigadores y promotores culturales;
-
-XXIII. Rescatar la música popular a través de la producción fonográfica;
-
-XXIV. Coordinar, organizar y supervisar el funcionamiento de instituciones, museos, unidades de servicios culturales y demás unidades auxiliares de la Administración Pública Estatal relacionadas con las culturas y las artes;
-
-XXV. Garantizar a los pueblos indígenas el derecho de conservar, enriquecer y difundir su identidad, así como, su patrimonio cultural y lingüístico, en coordinación con las instancias competentes; y
-
-XXVI. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 42.
-
-A la Secretaría de Desarrollo Social y Humano le corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-I. Establecer las estrategias, planes y objetivos de carácter transversal para el desarrollo social y humano en el estado, así como proponer el marco jurídico que regula la participación estatal en los programas sociales de combate a la pobreza;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-II. Elaborar y proponer al Ejecutivo del Estado el Programa Estatal de Desarrollo Social y Humano, con el objeto de establecer la estrategia estatal de carácter transversal y multidimensional para el desarrollo social y humano en el estado, así como el combate a la pobreza.
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-III. Llevar a cabo la evaluación y el seguimiento de las políticas, estrategias, programas y planes de desarrollo social y humano, así como de combate a la pobreza que se implementen en el estado, a través del establecimiento de indicadores de desempeño.
-
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-IV. Identificar los programas de desarrollo social y humano, así como de combate a la pobreza de organizaciones nacionales e internacionales gubernamentales y no gubernamentales, organizaciones de la sociedad civil y gestionar a través de las instancias correspondientes y la unidad administrativa respectiva, el seguimiento de aquellos que se puedan implementar en el Estado;
-
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-V. Diseñar, implementar y ejecutar las políticas, acciones y proyectos de carácter transversal y multidimensional en colaboración con otras dependencias que se deriven del Plan Estatal de Desarrollo y del Programa Estatal de Desarrollo Social y Humano, propiciando la colaboración de los sectores social y privado, así como, la participación de los tres órdenes de gobierno;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-VI. Definir estrategias y mecanismos de coordinación, colaboración e inducción y gestión para la ejecución de los programas, proyectos e iniciativas, para el desarrollo social y humano; así como, suscribir los convenios y acuerdos que resulten necesarios;
-
-VII. Diseñar, implementar y coordinar con las dependencias federales, estatales y los ayuntamientos, las acciones y los programas que incidan en el abatimiento de los niveles de pobreza y fomenten un mejor nivel de vida de la población, procurando que atiendan a los ejes de las políticas públicas y los objetivos establecidos en los Planes Nacional y Estatal de Desarrollo, así como, a los lineamientos y reglas de operación que se establezcan para cada uno de ellos;
-
-VIII. Formular y ejecutar los programas y proyectos de fortalecimiento para mejorar la economía familiar y comunitaria, así como, aquellos especiales para los sectores más desprotegidos, con la finalidad de lograr el bienestar de las familias y elevar el nivel de vida de la población;
-
-IX. Formular las reglas de operación de los programas a su cargo y verificar su difusión, así como, capacitar y asesorar a los operadores y ejecutores;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-X. Fomentar la participación de las instituciones académicas de investigación, organizaciones no gubernamentales y de la sociedad civil, en el desarrollo e implementación de estrategias para superar rezagos e impulsar el bienestar social de la población; así como, prestar asesoría y apoyo técnico en la materia, a los municipios y sociedad civil en general;
-
-XI. Coordinar con las universidades e instituciones de educación media y superior, y demás autoridades competentes, el servicio social para que se constituya como detonador del desarrollo social en el Estado;
-
-XII. Impulsar los programas de desarrollo regional, de carácter integral que sean propuestos por las organizaciones de la sociedad civil, que garanticen sustentabilidad y generen condiciones de vida digna para la población;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XIII. Promover y coordinar a través del Organismo Descentralizado respectivo, la creación e instrumentación de los programas de vivienda en el Estado.
-
-XIV. Proporcionar asesoría y apoyo técnico a municipios y sociedad civil, para la elaboración y desarrollo de los programas y proyectos de desarrollo social y humano;
-
-XV. Promover la participación de los diferentes actores y sectores, con presencia en el ámbito territorial, especialmente de los pueblos y comunidades indígenas, en la elaboración y aplicación de los planes y programas de desarrollo, mediante la integración de comités comunitarios de desarrollo social sustentable;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XVI. Facilitar y difundir los programas y servicios de gobierno en el ámbito territorial y excepcionalmente fuera del territorio del Estado con especial atención a los municipios y comunidades con mayores niveles de marginación;
-
-XVII. Impulsar el trabajo comunitario en el desarrollo social y humano, a fin de dar cauce a la participación social en la identificación, formulación, ejecución y seguimiento de los proyectos que se ejecuten en las regiones;
-
-XVIII. Promover la participación ciudadana organizada en la evaluación y fortalecimiento de las políticas públicas y los programas de desarrollo social;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XIX. Formular, promover e implementar programas sociales de carácter transversal y multidimensional, en coordinación con las Dependencias y Entidades vinculadas a la política de desarrollo social y humano.
-
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XX. Formular programas y proyectos de financiamiento para apoyar las iniciativas de la sociedad civil en materia de desarrollo social y humano y combate a la pobreza;
-
-XXI. Establecer e instrumentar políticas y programas de apoyo, suministro y orientación en materia alimentaria;
-
-XXII. Coordinar y operar los programas de distribución y abasto de productos de consumo básico, en beneficio de la población de escasos recursos;
-
-XXIII. Coordinar los servicios públicos de información, difusión y orientación de programas para el desarrollo social y humano;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXIV. Coordinar e instrumentar la operación de las unidades y caravanas móviles de servicios, de conformidad con lo establecido por la política de desarrollo social y humano del Estado.
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXV. Llevar a cabo la planeación e instrumentación de los programas de vivienda para el desarrollo social y humano en coordinación con el Organismo Descentralizado respectivo.
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXVI. Instrumentar y coordinar en colaboración con la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable, así como los Organismos de la Administración Pública Estatal respectivos, los programas de infraestructura social básica, vivienda, servicios de salud y educación necesarios para impulsar el desarrollo social y humano del Estado, así como el combate de la pobreza en regiones con mayor desigualdad.
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXVII. Operar los módulos de desarrollo social y humano, los cuales se constituyen como un mecanismo de interlocución con la sociedad para conocer el seguimiento, la evaluación y el impacto de la política estatal en materia de combate a la pobreza;
-
-XXVIII. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
-
-XXIX. Ser una fuente de información y análisis para coadyuvar en la integración de la agenda de gobierno y evaluación de las políticas públicas;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXX. Coordinar y ejecutar las acciones y programas de atención al sector de ahorro y crédito popular, y ex braceros, en el marco de la legislación aplicable, en coadyuvancia con las instancias federales correspondientes;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXXI. Difundir la normatividad correspondiente a los programas y acciones de ahorro y crédito, y
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXXII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 43.
-
-A la Secretaría de Asuntos Indígenas le corresponde el despacho de los siguientes asuntos:
-
-I. Formular, organizar, promover, vigilar y ejecutar las políticas y acciones para el cumplimiento de las disposiciones constitucionales en materia indígena, tratados internacionales, la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca y demás ordenamientos jurídicos correspondientes;
-
-II. Investigar, estudiar y difundir la problemática y asuntos relativos a los pueblos y comunidades indígenas y afromexicanas del Estado;
-
-III. Formular y someter a la consideración del Gobernador del Estado y las instancias correspondientes, propuestas de reformas legales e institucionales para el pleno reconocimiento e implementación de los derechos de los pueblos indígenas;
-
-IV. Diseñar, normar, impulsar y evaluar las políticas públicas específicas y su aplicación, así como, participar con las demás instancias competentes en el diseño de la política transversal del Gobierno del Estado sobre pueblos y comunidades indígenas;
-
-V. Establecer las bases y mecanismos de colaboración con Dependencias y Entidades de la Administración Pública Estatal y Poderes del Estado; de coordinación con los demás órdenes de gobierno, de interlocución con los pueblos indígenas y comunidades afromexicanas; y de concertación con los sectores social y privado, para dar cumplimiento a los derechos de los pueblos indígenas, así como, sus formas y aspiraciones de desarrollo;
-
-VI. Instrumentar, coordinar, ejecutar y evaluar planes, programas, proyectos y acciones para el desarrollo integral sustentable de los pueblos y comunidades indígenas y afromexicanas;
-
-VII. Ser instancia de consulta, asesoría y capacitación de las Dependencias y Entidades de la Administración Pública Estatal y Municipal en materia de derechos y cultura de los pueblos indígenas, con perspectiva intercultural;
-
-VIII. Proponer instrumentos normativos y acciones jurídicas para el desarrollo, la consolidación y concreción de los derechos de los pueblos y comunidades indígenas y afromexicanas ante la instancia competente;
-
-IX. Promover y ejecutar obras, programas y proyectos de desarrollo integral sustentable para los pueblos y comunidades indígenas y afromexicanas;
-
-X. Realizar, proponer, apoyar y dar seguimiento a las iniciativas y acciones de planeación para el desarrollo integral sustentable de las comunidades, municipios y asociaciones regionales de los pueblos y comunidades indígenas y afromexicanas;
-
-XI. Promover la aplicación de medidas de desarrollo, bienestar y defensa de los pueblos y comunidades indígenas y afromexicanas del Estado;
-
-XII. Formular con los pueblos y comunidades indígenas y afromexicanas, los programas para la defensa de los recursos naturales, conocimientos y preservación de sus sistemas normativos internos, protección de los adultos mayores, personas con capacidades diferentes, mujeres y niños indígenas;
-
-XIII. Ser instancia de consulta de las Dependencias y Entidades de la Administración Pública Estatal, con el fin de formular el proyecto de presupuesto consolidado en materia de desarrollo integral sustentable de los pueblos y comunidades indígenas y afromexicanas para ser incluido en el presupuesto de egresos del Estado;
-
-XIV. Diseñar e implementar un sistema de participación, información y consulta indígena, para promover la participación de las autoridades, representantes e instituciones de los pueblos y comunidades indígenas y afromexicanas, respecto a medidas administrativas y legales susceptibles de afectarles.
-
-XV. Constituir el Consejo Consultivo de los Pueblos Indígenas y Afromexicanas de Oaxaca y formar parte de su órgano de gobierno para constatar su adecuado funcionamiento y el seguimiento de sus acuerdos, teniendo a su cargo la Secretaría Técnica.
-
-XVI. Coadyuvar al ejercicio de la libre determinación, autonomía y reconstitución de los pueblos indígenas; en particular para constituir y reconocer legalmente la asociación de comunidades y municipios a nivel regional, de conformidad con lo dispuesto en el artículo 113 fracción V de la Constitución Política del Estado;
-
-XVII. Coadyuvar y asesorar en la conciliación y resolución de conflictos de tenencia de la tierra, políticos, electorales y/o relacionados con las formas propias de organización donde exista interés de pueblos indígenas;
-
-XVIII. Coordinar el ejercicio de las funciones de defensa, procurando una eficiente prestación de servicios jurídicos de asistencia, asesoría, representación, coadyuvancia y patrocinio a la población indígena y afromexicana y grupos en condiciones de vulnerabilidad;
-
-XIX. Participar en organismos, foros y proyectos de cooperación internacional relativos a los pueblos y comunidades indígenas y afromexicanas;
-
-XX. Establecer acuerdos y convenios de colaboración y coordinación para llevar a cabo programas, proyectos y acciones conjuntas a favor de los pueblos y comunidades indígenas y afromexicanas;
-
-XXI. Promover la preservación del patrimonio cultural e intelectual de los pueblos indígenas y comunidades afromexicanas, el desarrollo de sus formas de organización política, social, económica, sus valores comunitarios y la cultura democrática en cumplimiento de la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca, incorporando el principio de equidad de género y especialmente el respeto de los derechos humanos de los adultos mayores, de las personas con capacidades diferentes, las mujeres y el interés superior de la infancia indígenas;
-
-XXII. Rescatar, preservar y fortalecer el uso de las lenguas indígenas en el Estado, en coordinación con las instancias competentes;
-
-XXIII. Coadyuvar en la consolidación de un sistema de educación indígena intercultural en el Estado, en coordinación con las instancias competentes;
-
-XXIV. Promover la práctica de la medicina tradicional desde la cosmovisión de salud-enfermedad de los pueblos indígenas;
-
-XXV. Formular y actualizar las estadísticas de los pueblos y comunidades indígenas y afromexicanas del Estado;
-
-XXVI. Difundir las investigaciones, estudios, promociones y trabajos, cuando estas actividades involucren a los pueblos y comunidades indígenas y afromexicanas;
-
-XXVII. Gestionar e implementar recursos adicionales a los que otorga el Gobierno del Estado para promover la vigencia de derechos y el desarrollo integral de los pueblos y comunidades indígenas y afromexicanas;
-
-XXVIII. Generar reglas de operación de los programas que se diseñen e implementen, orientados a las demandas de pueblos y comunidades indígenas y afromexicanas;
-
-XXIX. Diseñar e implementar el programa de pueblos y comunidades indígenas y afromexicanas para la mitigación y adaptación al cambio climático; y
-
-XXX. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2014)</small>
 
 #### SECCION II. Del Ingreso, Promoción, Reconocimiento y Permanencia
 
@@ -1571,1595 +947,615 @@ ARTICULO 43 D.- En la educación básica y media superior el ingreso, la promoci
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 44.
+###### ARTICULO 44.
 
-A la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura le corresponde el despacho de los siguientes asuntos:
+El personal que ejerza funciones docentes, directivas o de supervisión, tendrá derecho a acceder al Sistema Integral de Formación, Capacitación y Actualización.
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-I. Planear, regular, fomentar y promover el desarrollo agrícola, ganadero, pesquero y acuícola del Estado, con la participación de organizaciones productivas y sociales propiciando el ordenamiento territorial bajo el enfoque de cuencas hidrológicas, así como criterios de regionalización y atención diferenciada de los productores para una mejor focalización de las políticas del sector;
+###### ARTICULO 45.
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+El Sistema Integral de Formación, Capacitación y Actualización, será retroalimentado por evaluaciones diagnósticas, las cuales tendrán como objetivo fortalecer las capacidades, conocimientos, aptitudes, habilidades, destrezas y actitudes del personal que ejerza la función docente, directiva o de supervisión, para contribuir al logro de aprendizaje y desarrollo integral del educando, así como cumplir los objetivos y propósitos del Sistema Educativo Nacional y proporcionar elementos que promuevan el desarrollo humano y profesional de las maestras y los maestros.
 
-II. Coordinar y ejecutar convenios de desarrollo agrícola, ganadero, pesquero y acuícola que celebre el Gobierno del Estado con diversas Instancias del Gobierno Federal, otras entidades federativas, gobiernos municipales y organizaciones sociales;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+ARTICULO 45 A.- La evaluación diagnóstica será un proceso para apreciar las capacidades, conocimientos, aptitudes, habilidades, destrezas y actitudes del personal que ejerza la función docente, directiva o de supervisión, para detectar las fortalezas e identificar sus áreas de oportunidad, las cuales serán atendidas a través del Sistema Integral de Formación, Capacitación y Actualización. La evaluación diagnóstica será formativa e integral y atenderá a los contextos locales y regionales de la prestación de los servicios educativos.
 
-III. Promover y organizar a los productores agrícolas, ganaderos, pesqueros y acuícolas a través de las figuras asociativas previstas en la Ley de Desarrollo Rural Sustentable del Estado de Oaxaca y otras leyes relativas a la materia, privilegiando la formación de cooperativas de producción y consumo, cuyo propósito sea potencializar la producción, el consumo y el mercado;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-IV. Promover la generación de empleos productivos de carácter permanente y temporales en el ámbito de su competencia;
+ARTÍCULO 45 B.- Con la finalidad de que el personal docente, técnico docente, asesor técnico pedagógico, con funciones de dirección y de supervisión, en la educación básica y media superior que imparta el Estado, reciba formación, capacitación y actualización profesional, la cual tendrá valor curricular, será objeto de una evaluación diagnóstica, a través de la cual se detectarán sus fortalezas y áreas de oportunidad.
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-V. Promover con las instancias competentes la elaboración y actualización del plan estatal de investigación y transferencia de tecnología, determinando y aplicando los métodos y procedimientos técnicos que permitan incrementar la productividad sustentable de las actividades agrícolas, ganaderas, acuícolas y pesqueras del Estado;
+###### ARTICULO 46.
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+Los resultados de la evaluación diagnóstica en ningún caso tendrán efecto sobre la permanencia en la plaza de las maestras y los maestros.
 
-VI. Coordinar organizar y supervisar el ejercicio y funcionamiento de la Comisión Estatal Forestal;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+###### ARTICULO 47.
 
-VII. Coadyuvar en la investigación agrícola, ganadera, pesquera y acuícola, apoyando la creación y operación de laboratorios de patología, centros de desarrollo genético, campos experimentales, lotes demostrativos y semilleros;
+La evaluación de los educandos será integral y comprenderá la valoración de los conocimientos, las habilidades, las destrezas y, en general, el logro de los propósitos establecidos en los planes y programas de estudio.
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+Las instituciones deberán informar periódicamente a los educandos y a las madres y padres de familia o tutores, los resultados de las evaluaciones parciales y finales, así como las observaciones sobre el desempeño académico y conducta de los educandos que les permitan lograr un mejor aprovechamiento.
 
-VIII. Promover y organizar congresos, seminarios y otros eventos similares que propicien el incremento e intercambio de conocimientos técnicos de los productores agrícolas, ganaderos, pesqueros y acuícolas del Estado;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-IX. Controlar el movimiento interno del ganado, llevando estadísticas de la producción, así como dictar las políticas de inspección ganadera en el ámbito de su competencia;
-
-X. Elaborar y ejecutar los programas de organización, capacitación y asistencia técnica a los productores del medio rural en el Estado, cuidando que sus contenidos garanticen la igualdad de oportunidades para ambos sexos;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-XI. Proponer la ejecución de aquellas obras de infraestructura que se requieran para el desarrollo agrícola, ganadero y pesquero;
-
-XII. Asesorar a las diversas comunidades, organizaciones y sociedad civil, respecto de los insumos, maquinaria y equipo procurando el máximo abatimiento de los costos;
-
-XIII. Promover y apoyar a los productores en la obtención y distribución oportuna de insumos para prevenir y combatir plagas y enfermedades;
-
-XIV. Fomentar, organizar y asesorar a las comunidades para el establecimiento de agroindustrias;
-
-XV. Coordinar sus actividades con las Dependencias y Entidades, así como con el sector social y privado que participen en la ejecución de programas agroindustriales, a fin de determinar las normas y criterios técnicos a seguir;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-XVI. Vigilar que los programas que se realicen en materia agrícola, ganadera, pesquera y acuícola, se apeguen a los programas y normas ecológicas previamente establecidas;
-
-XVII. Fomentar la producción, consumo y comercialización pesquera y acuícola en las comunidades del Estado, realizando las tareas de infraestructura, capacitación y enlace que para ello se requiera en el ámbito de su competencia;
-
-XVIII. Promover la instalación de empresas de producción pesquera y acuícola, con la participación de organizaciones de pescadores, proporcionándoles el apoyo técnico necesario;
-
-XIX. Promover y orientar el crédito de instituciones estatales, federales e internacionales, públicas y privadas, para el financiamiento de las acciones de su competencia;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-XX. Buscar y apoyar el posicionamiento de los productos agropecuarios, pesqueros y acuícolas en los mercados local, nacional e internacional en el ámbito de su competencia;
-
-XXI. En el ámbito de su competencia impulsar, coordinar, ejecutar y supervisar la correcta operación de las estrategias de desarrollo rural y seguridad alimentaria coadyuvando al desarrollo sustentable de la entidad;
-
-XXII. Coadyuvar con el Gobierno Federal en la aplicación de leyes, normas y campañas en materia de salud animal, de sanidad agrícola e inocuidad agroalimentaria;
-
-XXIII. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2013)
-
-XXIV. Promover la protección, restauración y conservación de los ecosistemas en la planeación y desarrollo de los proyectos estratégicos; y
-
-XXV. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 45.
-
-A la Secretaría de Finanzas le corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-I. Diseñar y ejecutar las políticas fiscales, presupuestarias, hacendarias y de inversión, que contribuyan a un balance presupuestario sostenible;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-II. Realizar las proyecciones financieras que permitan la formulación de los instrumentos y estrategias de planeación para el desarrollo de Oaxaca, a fin de que la formulación y ejecución del Plan Estatal de Desarrollo y los programas sectoriales, especiales e institucionales cuenten con la viabilidad financiera necesaria, de conformidad con la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y la Ley de Planeación del Estado de Oaxaca;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-III. Coadyuvar con la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca para definir la visión estratégica estatal de mediano y largo plazo, conforme a la fracción II del artículo 49 Bis de la presente Ley;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-IV. Establecer el seguimiento de la situación física y financiera de los proyectos de inversión autorizados a las Dependencias y Entidades de la Administración Pública;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-V. Determinar las adecuaciones presupuestarias que procedan, con base en los resultados de las evaluaciones del desempeño;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-VI. Autorizar las adecuaciones presupuestarias siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de las Dependencias y Entidades;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-VII. Participar en la concertación de recursos con los Sectores y/o Ayuntamientos en coordinación con la Secretaría General de Gobierno y la Coordinación General del COPLADE;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-VIII. Autorizar, programar y presupuestar la inversión pública del Estado;
-
-IX. Formular y coordinar el programa estatal de financiamiento para el desarrollo, con base en los principios de eficiencia, honestidad, equidad de género y sentido social;
-
-X. Formular los proyectos anuales de la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado, considerando los objetivos y prioridades del desarrollo del mismo, de acuerdo con la disponibilidad de recursos, así como, proponer para acuerdo del Gobernador, las actualizaciones y ajustes necesarios para el ejercicio de reconducción presupuestal, en su caso, y de conformidad con lo establecido en la Constitución y la legislación aplicable;
-
-XI. Recaudar los impuestos, derechos, productos, contribuciones de mejoras y aprovechamientos, así como hacer cumplir las disposiciones fiscales;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-XII. Establecer la circunscripción territorial de las delegaciones y subdelegaciones fiscales, así como, dictar medidas para llevar el control, supervisión y evaluación del desempeño de las actividades que tengan a su cargo,
-
-XIII. Notificar los actos, acuerdos o resoluciones que emita con motivo del ejercicio de sus facultades tributarias y de comprobación, y las que le otorguen los convenios o acuerdos de colaboración administrativa, con otras instancias u órdenes de gobierno;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-XIV. Emitir disposiciones administrativas para el ejercicio del Presupuesto de Egresos, efectuar los pagos a proveedores, contratistas y prestadores de servicio de la Administración Pública tratándose de recursos estatales. Realizar la ministración calendarizada del Presupuesto de Egresos a los Poderes Legislativo, Judicial y Órganos Autónomos;
-
-XV. Establecer los lineamientos para ejercer el gasto público, de acuerdo con los objetivos y prioridades del Plan Estatal de Desarrollo;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XVI. Administrar y actualizar el banco de proyectos de inversión pública del Estado, dando especial seguimiento a los de carácter estratégico;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XVII. Establecer las políticas y lineamientos generales para la integración de la estructura programática planeación-presupuesto a que deberán sujetarse las Dependencias y Entidades de la Administración Pública Estatal;
-
-XVIII. Integrar el Programa Operativo Anual de la Administración Pública Estatal;
-
-XIX. Conducir los proyectos dirigidos a los sectores social y privado en la formulación y ejecución de los planes y programas del Gobierno del Estado;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
-
-XX. Ampliar y mantener actualizado el Registro Estatal de Contribuyentes;
-
-XXI. Ejercer las atribuciones derivadas de los convenios, que en materia fiscal celebre el gobierno del Estado con la federación o con los ayuntamientos;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXII. Orientar y brindar asistencia técnica a los sectores en la elaboración de proyectos y planes sectoriales, especiales e institucionales
-
-XXIII. Coordinar la función de catastro, definiendo lineamientos generales para la formulación del Plano Catastral y el Padrón de la Propiedad Urbana y Rural del Estado;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XXIV. Intervenir en las operaciones de financiamiento, asegurando las mejores condiciones de mercado;
-
-XXV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
-
-XXVI. Formar parte del Órgano de Gobierno de las Entidades;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
-
-XXVII. Ordenar y practicar la comprobación del cumplimiento de las obligaciones fiscales a cargo de los contribuyentes de la Hacienda Pública Estatal a través de requerimientos, visitas domiciliarias, inspección, dictámenes, intervención y revisiones en las oficinas de la autoridad.
-
-XXVIII. Dirigir los servicios de inspección y vigilancia fiscal en el Estado;
-
-XXIX. Establecer criterios generales y transparentes para la cancelación de cuentas incobrables;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXX. Autorizar estímulos y subsidios fiscales e implementar los programas en que se desarrollarán los mismos;
-
-XXXI. Proporcionar asesoría a instituciones públicas y particulares en materia de interpretación y aplicación de las leyes tributarias, así como realizar una campaña permanente de orientación y difusión fiscal;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXXII. Coordinar las condiciones que permitan la inversión privada en obras y/o acciones a través de las diversas modalidades de asociaciones público-privadas;
-
-XXXIII. Fijar los lineamientos que deba seguir la Administración Pública Estatal en la elaboración de la documentación necesaria para la formulación de informes de avances de gestión financiera e integrar dicha información, en coordinación con la Jefatura de la Gubernatura;
-
-XXXIV. Aclarar las observaciones que le finque el Congreso Local por conducto de la Auditoría Superior del Estado de Oaxaca;
-
-XXXV. Elaborar los estados financieros e integrar la Cuenta Pública y someterla a consideración del Gobernador del Estado, para la presentación correspondiente ante el Honorable Congreso Local;
-
-XXXVI. Intervenir en los juicios de carácter fiscal que se desahoguen ante cualquier tribunal, cuando tenga interés la hacienda pública estatal, o en aquéllos derivados de los convenios, que en materia fiscal celebre el gobierno del Estado con la federación o con los ayuntamientos; y resolver los recursos administrativos que por ley o decreto le correspondan en la esfera de su competencia;
-
-XXXVII. Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales;
-
-XXXVIII. Ejercer la facultad económica coactiva en el ámbito de sus atribuciones fiscales;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XXXIX. Establecer el Sistema de Contabilidad Gubernamental y emitir los lineamientos para la integración de los soportes de los registros en el Sistema, así como de la documentación justificativa y comprobatoria de los mismos;
-
-XL. Formular mensualmente los estados financieros;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-XLI. Intervenir en los juicios y procedimientos por los que se requiera el pago de las garantías que responden a obligaciones fiscales y no fiscales otorgadas a favor del Gobierno del Estado, e intervenir en los procedimientos relacionados con la recaudación y pago de la reparación del daño.
-
-XLII. Coordinar el sistema de información estadístico y documental para el desarrollo;
-
-XLIII. Elaborar, analizar y difundir estadísticas relativas a la demografía, economía y desarrollo social del Estado;
-
-XLIV. Ejercer las acciones y oponer las excepciones que procedan para la defensa administrativa y judicial de los derechos de la hacienda pública del Estado;
-
-XLV. Presentar dentro del ámbito de su competencia, denuncias y formular querellas ante el Ministerio Público; en su caso, sin perjuicio del erario estatal, otorgar el perdón al inculpado cuando proceda;
-
-XLVI. Expedir documentos para la identificación del personal que lleve a cabo facultades de recaudación, auditorías, servicios de inspección y vigilancia fiscal, económica coactiva y demás relacionadas con la hacienda pública estatal, así como de los convenios que en materia fiscal celebre el gobierno del Estado con la federación o los ayuntamientos;
-
-XLVII. Dictaminar la disponibilidad presupuestal para las estructuras de la Administración Pública Estatal de acuerdo al presupuesto de egresos que le sean presentadas por la Secretaría de Administración;
-
-XLVIII. Emitir dictamen de disponibilidad presupuestal en los casos en que se pretenda la contratación de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, cuya ejecución rebase uno o más ejercicios presupuestales; y previo a la firma de convenios que impliquen afectaciones presupuestales;
-
-XLIX. Integrar el programa anual de inversión pública del Estado; y
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
-
-L. Emitir reglas de carácter general que faciliten el cumplimiento de las obligaciones fiscales a cargo de los contribuyentes de la Hacienda Pública Estatal.
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-LI. Emitir lineamientos para la presentación de los informes de Avance de Gestión en términos de lo dispuesto por la Ley General de Contabilidad Gubernamental y Ley Estatal de Presupuesto y Responsabilidad Hacendaria; y
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-LII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su reglamento interno y demás disposiciones normativas aplicables.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 46.
-
-A la Secretaría de Administración le corresponde el despacho de los siguientes asuntos:
-
-I. Normar y controlar la administración del capital humano, recursos materiales, tecnológicos y servicios de apoyo de la Administración Pública Estatal;
-
-II. Aplicar y vigilar el cumplimiento de las disposiciones legales, convenios y contratos que rijan las relaciones laborales entre el Gobierno del Estado y sus trabajadores;
-
-III. Establecer una estrecha comunicación y coordinación con las organizaciones sindicales de los trabajadores al servicio del Gobierno del Estado a efecto de fortalecer las relaciones laborales;
-
-IV. Formular los objetivos, procedimientos y mecanismos aplicables para la administración del personal al servicio del Poder Ejecutivo;
-
-V. Normar, aplicar y administrar lo referente a sueldos y salarios de los trabajadores al servicio del Poder Ejecutivo;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-VI. Expedir los nombramientos y tramitar las remociones, renuncias, licencias y jubilaciones de los trabajadores de la Administración Pública Estatal.
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-Revocar los nombramientos de los empleados de la Administración Pública Estatal, por causas justificadas, conforme a los lineamientos que marcan las leyes y normas aplicables, exceptuándose los señalados en el artículo 79, fracción V, de la Constitución Política del Estado Libre y Soberano de Oaxaca;
-
-VII. Brindar seguridad y servicios sociales a los trabajadores al servicio del Gobierno del Estado, atendiendo al principio de equidad de género;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-VIII. Mantener al corriente el escalafón de los trabajadores de la administración pública centralizada, Conforme a la Ley del Servicio Civil para los Empleados del Gobierno del Estado y el Reglamento de Escalafón del Gobierno del Estado, en los términos del presupuesto de egresos autorizado, y atendiendo al principio de equidad de género;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-IX. Contratar al capital humano adecuado, para el buen funcionamiento de la administración pública centralizada, en los términos del presupuesto de egresos autorizado, atendiendo al principio de equidad de género, tomando en cuenta el catálogo de puestos y perfiles profesionales;
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-Así como rescindir, por causa justificada, los contratos referidos, conforme a los lineamientos establecidos en las leyes y normas aplicables;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-X. Diseñar, implementar, supervisar y dar seguimiento al servicio profesional de carrera para las y los servidores públicos de confianza, así como mandos medios y superiores de la administración pública centralizada;
-
-XI. Implementar y coordinar los lineamientos y procedimientos de selección de personal que requiera la Administración Pública Estatal, así como, evaluar la productividad y el desempeño de los trabajadores con respecto al cumplimiento de sus actividades y responsabilidades;
-
-XII. Reglamentar y coordinar el desarrollo de sistemas de información, a (sic) como la adquisición de bienes y servicios de informática de Administración Pública;
-
-XIII. Establecer coordinadamente con las Dependencias y Entidades, programas de modernización y calidad administrativa, con el propósito de promover la eficacia y eficiencia de la Administración Pública, en los términos de los objetivos, estrategias y líneas de acción del Plan Estatal de Desarrollo;
-
-XIV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
-
-XV. Normar los criterios metodológicos de niveles de las Dependencias y Entidades;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XVI. Diseñar, definir y validar las estructuras administrativas de las Dependencias y Entidades de la Administración Pública Estatal, previo análisis de impacto presupuestario convenido con la Secretaría de Finanzas, para la autorización final del Gobernador del Estado;
-
-XVII. Emitir las normas y disposiciones de la Administración Pública Estatal, para la adquisición, arrendamiento o enajenación de bienes y servicios, de conformidad con la normatividad aplicable;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-XVIII. Administrar el Archivo Histórico del Gobierno del Estado y el Archivo General del Poder Ejecutivo del Estado de Oaxaca. Normar y asesorar a Dependencias y Entidades del Poder Ejecutivo en la organización, control, registro y salvaguarda de sus archivos y a todos los poderes, órganos, municipios y demás Instituciones del Estado, en la organización, control, registro y salvaguarda de sus archivos históricos en coordinación con el Consejo Estatal de Archivos;
-
-XIX. Definir previo acuerdo del Gobernador del Estado, criterios y políticas de descentralización y desconcentración de servicios administrativos, coordinando los procesos respectivos con las diferentes Dependencias y Entidades de la Administración Pública Estatal;
-
-XX. Administrar y vigilar los almacenes generales del Gobierno del Estado;
-
-XXI. Registrar y controlar los vehículos y maquinaria del Poder Ejecutivo del Estado; supervisar las condiciones de uso y autorizar las reparaciones en general, servicios y mantenimiento de los mismos;
-
-XXII. Proponer a consideración del Gobernador del Estado, la creación, modificación, adscripción, supresión, fusión y extinción de áreas o unidades administrativas de Dependencias y Entidades de la Administración Pública Estatal;
-
-XXIII. Conducir y coordinar el desarrollo de programas de mejoramiento administrativo con Dependencias y Entidades de la Administración Pública Estatal, revisando permanentemente los sistemas, métodos y procedimientos de trabajo;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XXIV. Llevar el registro de las adquisiciones de bienes muebles destinados al servicio de la Administración Pública, así como integrar el catálogo de bienes inmuebles del Gobierno del Estado;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XXV. Administrar el patrimonio mueble del Estado, así como autorizar y en su caso realizar el mantenimiento, conservación y remodelación de los inmuebles propiedad del Estado;
-
-XXVI. Realizar el procedimiento de enajenación y arrendamiento de bienes muebles, pertenecientes a la Administración Pública Estatal, conforme a la normatividad aplicable, previo acuerdo del Titular del Ejecutivo;
-
-XXVII. Establecer coordinación con las Dependencias y Entidades de la Administración Pública Estatal, a través de sus unidades de apoyo administrativo, para asegurar la adecuada administración de personal y recursos materiales, la conservación y el mantenimiento del patrimonio del gobierno del Estado, y en general el suministro oportuno de los bienes y servicios que requiera la ejecución de los programas de trabajo;
-
-XXVIII. Establecer los lineamientos para la elaboración de los documentos normativos de organización y operación de Dependencias y Entidades de la Administración Pública Estatal;
-
-XXIX. Revisar y autorizar en el ámbito administrativo, conjuntamente con la Consejería Jurídica del Gobierno del Estado, los reglamentos internos de las Dependencias y Entidades de la Administración Pública Estatal, así como los proyectos de decretos y acuerdos en los que intervenga la Secretaría;
-
-XXX. Expedir los documentos, constancias y credenciales de identificación de los servidores públicos del Poder Ejecutivo;
-
-XXXI. Elaborar, coordinar, supervisar y ejecutar programas y proyectos de profesionalización y capacitación, para el desarrollo y formación integral de los servidores públicos, con el fin de que otorguen un servicio eficiente y de calidad a los ciudadanos;
-
-XXXII. Integrar, actualizar, controlar y publicar el Registro de las Entidades de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXXIII. Establecer políticas generales y programas estratégicos para la mejora de procesos, la aplicación de tecnologías de la información, la simplificación administrativa y la mejora regulatoria;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XXXIV. Administrar los parques y espacios recreativos en su custodia;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXXV. Atender los mecanismos de vigilancia y supervisión conjuntamente con las áreas involucradas en la planeación, organización y ejecución de las giras de trabajo y eventos especiales del Gobernador;
-
-XXXVI. Administrar el Hangar Oficial del Gobierno del Estado;
-
-XXXVII. Administrar la Casa Oficial del Gobierno del Estado;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XXXVIII. Representar al Estado en la defensa y recuperación de los bienes propiedad del Estado;
-
-XXXIX. Informar anualmente al Titular del Ejecutivo del resultado de las evaluaciones que en el ámbito de su competencia realice a las Dependencias y Entidades, y proponer las medidas correctivas que procedan;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XL. Llevar a cabo el trámite y registro de las obras intelectuales, marcas y licencias propiedad del Gobierno del Estado, en estrecha coadyuvancia con la Consejería Jurídica del Gobierno del Estado;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XLI. Llevar y actualizar el registro, supervisión, seguimiento y control de las plantillas de personal, así como los movimientos de altas y bajas, de las Dependencias y Entidades de la Administración Pública Estatal;
-
-XLII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XLIII. Llevar y actualizar, el registro y control de tabuladores salariales y todo tipo de remuneración aplicable en la Administración Pública Estatal;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XLIV. Dictar las disposiciones administrativas, así como, coordinarse con los sectores especializados en materia del patrimonio edificado cultural o cualquier otro, a efecto de mantener actualizados los inventarios que corresponden a los bienes del Ejecutivo del Estado;
-
-XLV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XLVI. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
-
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-###### ARTÍCULO 46-A.
-
-A la Secretaría de Economía le corresponde el despacho de los siguientes asuntos:
-
-I. Planear, regular y fomentar el desarrollo económico del Estado, promoviendo las actividades productivas que propicien la generación de empleos;
-
-II. Proponer al Gobernador las políticas y programas relativos al fomento de las actividades industriales, mineras y comerciales;
-
-III. Generar información estadística en materia económica en el Estado y fungir como órgano de consulta y asesoría en materia de desarrollo económico tanto a los organismos públicos y privados como a las dependencias del Ejecutivo;
-
-IV. Formular y promover el establecimiento de medidas para el fomento y protección de marcas registradas indicativas de origen del Estado de Oaxaca que fomenten el consumo local y el posicionamiento de los productos y servicios de origen oaxaqueño en los mercados nacionales e internacionales;
-
-V. Fortalecer la productividad y la posición competitiva de la micro, pequeña y mediana empresa privada y social;
-
-VI Promover, orientar y estimular el establecimiento y desarrollo de empresas e industrias en el Estado, garantizando la participación equitativa de las mujeres;
-
-VII. Impulsar la relación comercial con actores estratégicos a nivel nacional e internacional, contribuyendo en el intercambio de experiencias exitosas, así como la inversión en la producción y exportación de productos oaxaqueños;
-
-VIII. Desarrollar y mantener actualizado un catálogo de inversión para el Estado de Oaxaca, el cual permita facilitar la inversión nacional e internacional en la entidad;
-
-IX. Impulsar con diferentes actores relevantes del sector empresarial, foros y reuniones donde se propongan y analicen las mejores alternativas para el desarrollo económico del Estado;
-
-X. Promover proyectos que potencialicen el desarrollo económico sustentable en el Estado;
-
-XI. Elaborar e impulsar proyectos estratégicos, innovadores y sustentables que permitan la generación de inversiones y empleos en la Entidad;
-
-XII. Implementar mecanismos para incentivar el establecimiento de empresas e industrias en el Estado;
-
-XIII. Ejecutar en coordinación con la Comisión Estatal de Mejora Regulatoria, programas y acciones en esta materia de mejora regulatoria que incentiven el establecimiento de nuevas empresas e industrias en la entidad;
-
-XIV. Planear y determinar los lineamientos para la explotación de los recursos minerales, de acuerdo a las disposiciones federales y con pleno respeto a las formas de vida tradicionales y en concordancia con el desarrollo sustentable;
-
-XV. Realizar programas de promoción y fomento que tengan como propósito incrementar la productividad y la calidad de los productos, así como el impulso de las exportaciones;
-
-XVI. Estimular la formación y participación activa en consejos, comités, patronatos o asociaciones de carácter público, privado o mixto, cuyo propósito sea el desarrollo industrial y comercial;
-
-XVII. Coordinar a las entidades del sector publico paraestatal que realicen funciones (sic) economía, tales como fideicomisos públicos, empresas de participación estatal, organismos auxiliares y demás que sean sectorizadas a la Secretaría por acuerdo del Gobernador;
-
-XVIII. Auspiciar y vigilar con apego a la normatividad nacional e internacional una conducta de responsabilidad social empresarial;
-
-XIX. Participar en coordinación con las Dependencias y Entidades de los tres ámbitos de gobierno, en el diseño e implementación de estrategias y programas de abasto de productos básicos;
-
-XX. Procurar el equilibrio entre los factores de la producción, proponiendo y ejecutando las políticas sectoriales, programas y acciones que permitan consolidar en el Estado una nueva cultura laboral con justicia social;
-
-XXI. Promover el incremento de la productividad laboral en el Estado;
-
-XXII. Fomentar el empleo, la capacitación y el adiestramiento, así como, auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral, además de fomentar y apoyar la organización social para el trabajo y el autoempleo; Coordinar el Servicio Nacional de Empleo Oaxaca, así como promocionar y coordinar las bolsas de trabajo de índole público y vigilar su funcionamiento en el Estado;
-
-XXIII. Fomentar el empleo, la capacitación y el adiestramiento, así como, auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral, además de fomentar y apoyar la organización social para el trabajo y el autoempleo;
-
-XXIV. Promover entre los empleadores la equidad y la no discriminación tanto en la oferta de empleos como en la estabilidad, remuneración y desarrollo laboral, así como, vigilar la observancia de tales principios al interior del Gobierno del Estado;
-
-XXV. Fomentar la integración y desarrollo de las cooperativas, así como, coordinar y supervisar su funcionamiento, a fin de garantizar la protección a los integrantes y/o usuarios de las mismas;
-
-XXVI. Gestionar en los programas sociales en beneficio y apoyo a las necesidades de la mujer; vigilando el cumplimiento de sus objetivos de conformidad con las reglas de operación vigentes;
-
-XXVII. Organizar y fomentar la producción artesanal, así como, las industrias populares, promoviendo los estímulos necesarios para su desarrollo y comercialización;
-
-XXVIII. Aplicar los programas, normas y ordenamientos en materia de seguridad e higiene en el trabajo, en las unidades económicas del Estado en coordinación con las autoridades del trabajo competentes y en su caso, con la participación de los sectores empresarial, de los trabajadores, sindicatos, académicos y profesionales de la sociedad que inciden en este ámbito;
-
-XXIX. Fortalecer la vinculación institucional con sindicatos y organismos empresariales para el fomento de buenas práctivas (sic) laborales; y
-
-XXX. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
-
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-###### ARTÍCULO 46-B.
-
-A la Secretaría de Turismo le corresponde el despacho de los siguientes asuntos:
-
-I. Planear, regular y fomentar el desarrollo turístico del Estado, promoviendo las actividades y rutas turísticas que propicien la generación de bienestar social;
-
-II. Proponer al Gobernador las políticas y programas relativos al fomento de las actividades y rutas turísticas;
-
-III. Desarrollar, dirigir, coordinar y organizar la ejecución de los programas de fomento y promoción turística para el desarrollo de la Entidad;
-
-IV. Impulsar con diferentes actores relevantes del sector empresarial, foros y reuniones donde se propongan y analicen las mejores alternativas para el desarrollo turístico;
-
-V. Fomentar la comercialización, promoción y difusión de las rutas y destinos turísticos que se ofrecen en el Estado;
-
-VI. Establecer los mecanismos que permitan hacer del Estado de Oaxaca el mejor destino turístico a nivel nacional e internacional, fortaleciendo la vocación turística como pilar del desarrollo económico local;
-
-VII. Promover la inversión nacional y extranjera en el desarrollo de infraestructura turística en todo el territorio oaxaqueño;
-
-VIII. Impulsar la capacitación permanente de los prestadores de servicios buscando con ello generar una cultura de servicio y asistencia al turista;
-
-IX. Elaborar y emprender proyectos estratégicos, innovadores y sustentables que sean eficaces para lograr el desarrollo turístico conservando en un ámbito de respeto el patrimonio cultural.
-
-X. Promover de manera permanente y estratégica la imagen turística y las oportunidades de inversión en el Estado a nivel nacional e internacional;
-
-XI. Desarrollar de manera permanente fuentes alternas de turismo que estén en armonía con el entorno de vida de las diferentes comunidades;
-
-XII. Promover en coordinación con la Secretaría de las Culturas y Artes de Oaxaca, la realización de eventos que promuevan las expresiones y manifestaciones culturales, incrementando la afluencia turística;
-
-XIII. Desarrollar productos turísticos en coordinación con diferentes actores de la sociedad, que coadyuven en el desarrollo sustentable de la entidad oaxaqueña;
-
-XIV. Expedir o revocar previo acuerdo del Gobernador del Estado las concesiones para la explotación de los recursos o infraestructura turísticos del Estado;
-
-XV. Participar y coadyuvar con los Gobiernos Municipales, así como los sectores social y privado, dentro del proceso integral de planeación turística Estatal;
-
-XVI. Promover la celebración de acuerdos, convenios de coordinación y bases de colaboración con otras dependencias estatales, con los gobiernos federal y municipales y con organizaciones de los sectores social y privado, a fin de facilitar e intensificar las actividades turísticas; y
-
-XVII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-###### ARTÍCULO 46-C.
-
-La Secretaría de la Mujer Oaxaqueña le corresponde el despacho de los siguientes asuntos:
-
-I. Elaborar el Programa Estatal de Igualdad, instrumento que deberá guiar la incorporación de la perspectiva de género en la administración pública estatal, mediante la institucionalización de normas, planes y proyectos orientados a eliminar la desigualdad de género y garantizar a las mujeres el ejercicio de sus derechos civiles, políticos, económicos y sociales.
-
-II. Proponer, promover, ejecutar, impulsar y evaluar periódica y sistemáticamente las políticas, planes, programas y medidas encaminadas a incorporar la perspectiva de género, con un criterio transversal en todas las Dependencias y Entidades de la Administración Pública Estatal, a fin de impulsar la igualdad sustantiva, el acceso a las oportunidades y el desarrollo de las mujeres.
-
-III. Dirigir como órgano rector a través del Ejecutivo Estatal, la política pública de igualdad sustantiva entre mujeres y hombres en las Dependencias y Entidades de la Administración Pública Estatal y municipal;
-
-IV. Formular, promover e instrumentar políticas públicas para la igualdad sustantiva entre mujeres y hombres, fomentando el desarrollo social, cultural, político y económico de las mujeres, que asegure la eliminación de la discriminación y violencia hacia las mujeres;
-
-V. Promover la participación de las mujeres en condiciones de igualdad sustantiva en el desarrollo económico, político, social y cultural con la intervención que corresponda a las dependencias que integran la administración pública del Estado;
-
-VI. Establecer y concertar acuerdos, convenios e instrumentos para el cumplimiento de las atribuciones de la Secretaría y las políticas, acciones y programas que se establezcan en el Plan Estatal de Desarrollo, el Programa Estatal para la Igualdad entre Mujeres y Hombres, el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género Contra las Mujeres, las leyes generales y locales de Igualdad y No Violencia Contra las Mujeres;
-
-VII. Promover, instrumentar y evaluar de forma transversal los programas, proyectos y acciones que faciliten a las mujeres el pleno desarrollo de sus potencialidades;
-
-VIII. Celebrar convenios con las instituciones de la federación, estados, municipios, organismos nacionales e internacionales, iniciativa privada, asociaciones civiles, universidades y centros de investigación, para la implementación de programas, proyectos y acciones, que favorezcan el desarrollo integral de las mujeres en el Estado, a efecto de que participen en su elaboración e implementación, encausando la participación de la sociedad civil en la elaboración de los programas de participación social, económica, política y cultural de la mujer oaxaqueña;
-
-IX. Establecer y operar un sistema de seguimiento de las acciones institucionales de la federación y el estado, a fin de evaluar el seguimiento de las políticas de igualdad sustantiva en el estado y el impacto a nivel nacional de la agenda de género;
-
-X. Proponer al Gobernador del Estado iniciativas y reformas de ley en lo relativo a los derechos de las mujeres, sobre los programas que tengan a su cargo las dependencias y entidades federales, estatales y municipales, procurando la perspectiva de género y que la asignación de los recursos a los mismos, respondan a un enfoque de género, a fin de que se atiendan las necesidades de la mujer oaxaqueña;
-
-XI. Coordinar programas de formación y capacitación que sensibilice en la temática de perspectiva de género a las y los servidores públicos de la administración pública estatal y municipal, a fin de asegurar la transversalidad con perspectiva de género en apego a los Derechos humanos de las Mujeres, en los programas y proyectos implementados institucionalmente:
-
-XII. Apoyar a los municipios en la formulación y puesta en marcha de programas que impulsen la incorporación integral de la mujer al desarrollo y mantener estrecha relación e intercambio de información con las autoridades municipales correspondientes, en coordinación con instituciones educativas y de investigación en la materia;
-
-XIII. Impulsar el desarrollo económico de las mujeres mediante la gestión e implementación de programas que permitan mejorar el nivel de vida de las mujeres oaxaqueñas;
-
-XIV. Proponer convenios con instituciones financieras y de crédito, públicas y privadas, para establecer condiciones que promuevan el desarrollo económico y social de las mujeres; que permitan lograr su autonomía, autodeterminación y empoderamiento para un mejor posicionamiento social y una mayor capacidad de toma de decisiones;
-
-XV. Diseñar programas que promuevan el desarrollo económico de las mujeres jefas de familia, estableciendo como prioridad aquellas en condiciones de vulnerabilidad, encaminadas para su ejecución, ante la Secretaría de Desarrollo Social y Humano, aquellos programas y proyectos estatales, federales e internacionales que promuevan la incorporación de la mujer oaxaqueña al bienestar social y a la actividad productiva;
-
-XVI. Gestionar, fortalecer y dar seguimiento a Centros regionalizados para la atención directa a la violencia de género y acceso a la justicia de las mujeres;
-
-XVII. Coordinar y evaluar los servicios de atención brindados a las mujeres por especialistas, con perspectiva de género y aplicación de protocolos especializados;
-
-XVIII. Impulsar acciones que contribuyan a prevenir, atender, sancionar y erradicar la violencia de género en todas sus vertientes, en coordinación con las instancias correspondientes, proponiendo reformas legislativas que eliminen todo tipo de discriminación y que favorezcan la igualdad efectiva de las mujeres, adecuando el marco normativo a la legislación nacional e internacional en la materia;
-
-XIX. Promover en los medios de comunicación local el conocimiento y respeto a los Derechos Humanos de las Mujeres; que prevenga la violencia de género, estereotipos, los roles de género y cualquier otra conducta que genere discriminación en contra de las mujeres;
-
-XX. Fortalecer la participación social, política y cultural de las mujeres, incluyendo la pluralidad de intereses y necesidades sociales de las mujeres para contribuir a la consolidación de la democracia, poniendo énfasis en los municipios que se rigen bajo el sistema normativo interno, coadyuvando con los órganos electorales, tanto federales y estatales;
-
-XXI. Promover la incorporación transversal de la perspectiva de género en los procesos educativos, en coordinación con el Instituto Estatal de Educación Para el Estado de Oaxaca, mediante la incorporación de materias curriculares de perspectiva de género en educación básica y media superior, así como, el lenguaje incluyente y no discriminatorio de conocimientos y divulgación de la información tendientes a la generación de igualdad para las mujeres y hombres;
-
-XXII. Promover ante las autoridades correspondientes, las medidas y acciones que contribuyan a garantizar el acceso y permanencia de las mujeres en todos los niveles y modalidades del sistema educativo, haciendo énfasis en el medio rural;
-
-XXIII. Fomentar el acceso de las mujeres a un sistema de salud que favorezca su desarrollo personal y social, incorporando el respeto a la medicina tradicional y a las diferencias culturales;
-
-XXIV. Promover la creación de Instancias Municipales de las Mujeres, en coordinación con el Poder Legislativo y los ayuntamientos, con el objeto de que implementen y articulen la política municipal en materia de igualdad entre mujeres y hombres y la política orientada a erradicar la violencia contra las mujeres de conformidad con las políticas nacional y local correspondientes;
-
-XXV. Instrumentar acciones con perspectiva de género que mejoren las condiciones laborales;
-
-XXVI. Elaborar estudios e investigaciones para instrumentar un sistema de información, registro, seguimiento y evaluación de las condiciones sociales, políticas, económicas y culturales de las mujeres en los distintos ámbitos de la sociedad, así como los tipos y modalidades de la violencia de género contra las mujeres;
-
-XXVII. Formular la normativa necesaria para el desempeño de sus funciones de conformidad con el Plan Estatal de Desarrollo, el Programa Estatal para la Igualdad entre Mujeres y Hombres, el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género Contra las Mujeres y las políticas del Gobierno del Estado materia de las facultades y competencias de la Secretaría de las Mujeres Oaxaqueñas y;
-
-XXVIII. Las demás que le confieran las normas jurídicas aplicables.
-
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-###### ARTÍCULO 46-D.
-
-La Secretaría del Medio Ambiente y Desarrollo Sustentable le corresponde el despacho de los siguientes asuntos:
-
-I. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de protección al ambiente y sustentabilidad a los recursos naturales atribuidas al Ejecutivo Estatal;
-
-II. Formular y conducir el programa Estatal de protección al ambiente, en congruencia con el Plan Estatal de Desarrollo;
-
-III. Determinar las estrategias y criterios ecológicos que deban observarse en la aplicación del programa Estatal de protección al ambiente, mismos que guardarán congruencia con los que formule la Federación en la materia;
-
-IV. Formular los programas de ordenamiento ecológico estatal, regional y especiales o prioritarios con la participación municipal, guardando congruencia con el formulado por la Federación;
-
-V. Prevenir, preservar y restaurar el equilibrio ecológico, así como la protección del ambiente en el territorio de la entidad a través de las políticas publicas correspondientes;
-
-VI. Prevenir y controlar las emergencias y/o contingencias ecológicas cuando afecten uno o más Municipios y no rebasen la jurisdicción territorial de la entidad, cuando la intervención no sea exclusiva de la Federación;
-
-VII. Establecer políticas públicas para prevenir y controlar la contaminación atmosférica generada por fuentes emisoras de competencia Estatal;
-
-VIII. Prohibir en el ámbito de su competencia las emisiones contaminantes que rebasen los niveles máximos permisibles por ruido, vibraciones, energía térmica, lumínica y olores así como las correspondientes a la contaminación visual;
-
-IX. Implementar medidas y mecanismos para regular el aprovechamiento racional, prevención y el control de la contaminación en los recursos naturales y del medio ambiente en general;
-
-X. Evaluar el impacto ambiental previamente a la realización de las obras o actividades que sean de su competencia;
-
-XI. Regular las actividades que deban ser consideradas altamente riesgosas cuando por los efectos que puedan generar, impacten ecosistemas o el ambiente en la entidad de su competencia;
-
-XII. Regular el manejo y disposición final, en el ámbito de su competencia de los residuos sólidos que no sean peligrosos, conforme a las disposiciones aplicables en la materia;
-
-XIII. Formular, en el ámbito de su competencia los proyectos de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas conducentes para la protección y sustentabilidad de los recursos naturales de la entidad;
-
-XIV. Regular, declarar y administrar las áreas naturales protegidas de competencia Estatal;
-
-XV. Diseñar y ejecutar en el ámbito de su competencia programas de control ambiental, reforestación y vigilancia de la flora y fauna silvestre;
-
-XVI. Regular con fines ecológicos, en coordinación con los Municipios, el aprovechamiento de los minerales o sustancias que constituyan depósitos naturales semejantes a los componentes de los terrenos destinados a la fabricación de materiales para la construcción u ornamento;
-
-XVII. Instrumentar en coordinación con las autoridades educativas programas de educación ambiental dirigidos a estudiantes y sociedad en general, y fomentar la protección del ambiente y el desarrollo sustentable de la entidad;
-
-XVIII. Atender quejas y denuncias relacionadas con la contaminación del ambiente y en su caso, aplicar en el ámbito de su competencia las sanciones administrativas, por violaciones a la Ley del Equilibrio Ecológico del Estado de Oaxaca y demás disposiciones jurídicas aplicables;
-
-XIX. Participar en la formulación y ejecución de los convenios que en materia de protección al medio ambiente y sustentabilidad de recursos naturales celebre el Gobierno del estado con la Federación, Entidades Federativas o con los ayuntamientos;
-
-XX. Concertar acciones con los sectores representativos de la sociedad, en materia de protección del medio ambiente y sustentabilidad de recursos naturales;
-
-XXI. Promover y fomentar las investigaciones de protección del medio ambiente y sustentabilidad de recursos naturales;
-
-XXII. Los demás que le confieran las leyes, decretos, acuerdos y reglamentos.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 47.
-
-A la Secretaría de la Contraloría y Transparencia Gubernamental le corresponde el despacho de los siguientes asuntos:
-
-I. Establecer y operar el sistema de control de la gestión pública estatal, así como las políticas, lineamientos, objetivos y acciones en materia de transparencia, participación ciudadana y prevención de la corrupción;
-
-II. Inspeccionar la aplicación del gasto público estatal y su congruencia con el Presupuesto de Egresos y demás normatividad aplicable;
-
-III. Realizar auditorías a las Dependencias y Entidades de la Administración Pública Estatal, con el propósito de proponer medidas correctivas en sus operaciones y el cumplimiento de los objetivos contenidos en sus programas;
-
-IV. Participar a través del programa de la Contraloría Social, para la correcta aplicación de los recursos provenientes de programas estatales y los concertados con la federación conforme a sus reglas de operación;
-
-V. Vigilar que los recursos financieros destinados a la ejecución de programas para el desarrollo del Estado, sean enfocados a los objetivos propuestos y se apliquen con honestidad, transparencia y oportunidad;
-
-VI. Vigilar que las Dependencias y Entidades de la Administración Pública Estatal, cumplan con las normas y disposiciones en materia de sistemas de registro, contabilidad, contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso, destino, afectación enajenación y baja de bienes;
-
-VII. Supervisar que la ejecución de los convenios celebrados entre el Gobierno del Estado con la Federación, Estados y los Ayuntamientos, cumplan con lo estipulado;
-
-VIII. Evaluar, supervisar, verificar, física y financieramente, el avance e información de los programas e (sic) inversión y obra pública, así como la aplicación de los recursos a ellos destinados, autorizados previamente y conforme a las disposiciones legales en la materia;
-
-IX. Revisar y auditar la ejecución física y financiera de los programas de inversión y obra pública, que se realicen en el Estado con recursos propios, provenientes de convenios con la federación o de otra índole;
-
-X. Establecer coordinación con la Auditoría Superior del Estado de Oaxaca, para el cumplimiento de sus respectivas responsabilidades;
-
-XI. Supervisar que los proveedores de bienes y servicios, y contratistas, cumplan lo estipulado en los contratos que celebren con las Dependencias y Entidades de la Administración Pública Estatal;
-
-XII. Participar en las licitaciones públicas convocadas para seleccionar a los proveedores de bienes, servicios y obras públicas, con el propósito de que las adjudicaciones se asignen, dentro de un procedimiento de legalidad y con estricto apego a los requerimientos de la Administración Pública Estatal;
-
-XIII. Participar en la formulación de las normas de contabilidad y de control en materia de programación, presupuestación, administración de personal, recursos materiales y financieros que elaboren las Dependencias y Entidades correspondientes;
-
-XIV. Recibir y registrar las declaraciones patrimoniales, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
-
-XV. Reglamentar y participar en el procedimiento de Entrega-Recepción de las oficinas de las Dependencias y Entidades de la Administración Pública del Poder Ejecutivo, en los términos de las disposiciones legales, aplicando en su caso, las responsabilidades en que incurran los funcionarios e imponer la sanción correspondiente;
-
-XVI. Vigilar que la prestación de los servicios públicos sea conforme a los principios de legalidad, transparencia, honradez e imparcialidad, y atender e investigar las quejas, denuncias, peticiones, recomendaciones y sugerencias que presente cualquier interesado en relación con las responsabilidades de los servidores públicos de las dependencias, y entidades de la Administración Pública del Poder Ejecutivo, e investigar los actos, omisiones o conductas de los servidores públicos y, en su caso, fincar responsabilidades administrativas, para imponer sanciones de acuerdo con las disposiciones aplicables;
-
-XVII. Asignar auditores externos, así como normar y controlar su actividad con el propósito de efectuar revisiones periódicas de la situación financiera y contable de las Entidades Paraestatales, llevando un registro de los mismos;
-
-XVIII. Establecer las bases generales para la realización de auditorías en las Dependencias y Entidades, llevándolas a cabo en forma directa o por terceros, mismas que serán observadas únicamente en la práctica de las auditorías que dicha Secretaría realice;
-
-XIX. Inspeccionar y vigilar que se efectúe, en los términos establecidos por la normatividad de la materia correspondiente, la aplicación de subsidios, aportaciones o transferencias de fondos que el Gobierno del Estado otorgue a favor de municipios, entidades, instituciones públicas o particulares;
-
-XX. Dar seguimiento a los resultados de las revisiones, inspecciones, fiscalizaciones y auditorías practicadas en las Dependencias y Entidades, por parte de la Auditoría Superior del Estado de Oaxaca o por parte de la federación a fin de asegurar que se solventen las observaciones;
-
-XXI. Evaluar, dar seguimiento e intervenir en los procesos de conciliación en materia de obra pública y emitir observaciones vinculatorias, así como, vigilar que las obras públicas se realicen de acuerdo a la planeación, programación, presupuesto y especificaciones convenidas, directamente, o a través de los órganos de control interno o contralorías internas, en su caso, de las Dependencias y Entidades de la Administración Pública del Poder Ejecutivo, a fin de supervisar desde la contratación, autorización y anticipo de pago de estimaciones, hasta su finiquito y entrega, sin demérito de la responsabilidad de dependencias, secretarías de despacho, entidades, órganos auxiliares y desconcentrados encargados de la ejecución de la obra;
-
-XXII. Vigilar e investigar los actos, omisiones o conductas de los servidores públicos que constituyan alguna responsabilidad administrativa, aplicando las sanciones en los términos de las disposiciones legales, y en su caso, formular la denuncia o querella correspondiente ante el Ministerio Público;
-
-XXIII. Formular las denuncias o querellas, cuando de las investigaciones y procedimientos administrativos que conozca la Secretaría se advierta la probable comisión de hechos tipificados como delitos, en su caso, ratificar las mismas y/o solicitar la coadyuvancia en la indagatoria;
-
-XXIV. Realizar el registro y control de los servidores públicos que han sido inhabilitados en los gobiernos federal, estatal y municipal, y expedir las constancias respectivas a aquellas personas que pretendan ingresar al servicio público estatal;
-
-XXV. Llevar el registro y control de los proveedores y contratistas que hayan sido sancionados en los gobiernos federal, estatal y municipal y expedir las constancias respectivas;
-
-XXVI. Imponer la sanción económica y administrativa, procediendo a excluir del padrón correspondiente al prestador o proveedor de bienes y servicios y/o contratista de obra que no solvente dentro del término conferido las observaciones formuladas;
-
-XXVII. Formar parte del Comité de Transparencia y Acceso a la Información Pública del Poder Ejecutivo y formular conjuntamente con los integrantes del mismo, los lineamientos y criterios que en la materia deban ser aplicados por las Dependencias y Entidades de la Administración Pública Estatal y, como órgano de control interno en materia de transparencia, dar el debido cumplimiento a las recomendaciones que emita la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, sancionando en su caso a los órganos administrativos del Poder Ejecutivo del Gobierno del Estado, que por negligencia u omisión incumplan con las mismas;
-
-XXVIII. Vigilar que las Dependencias y Entidades, cumplan para la celebración de sus contratos con lo dispuesto en la Ley de Obras Públicas y Servicios Relacionados del Estado de Oaxaca, la Ley para Adquisiciones, Arrendamientos y Servicios del Estado de Oaxaca y demás leyes aplicables;
-
-XXIX. Participar en la formulación y ejecución de los convenios que, en materia de control de la gestión pública celebre el Gobierno del Estado con la federación o los ayuntamientos;
-
-XXX. Informar permanentemente al Titular del Ejecutivo del resultado de las evaluaciones y auditorías realizadas, y proponer las medidas correctivas que procedan;
-
-XXXI. Fomentar entre los servidores públicos del Estado, la cultura de la legalidad, ética y calidad en el servicio público, a través de programas y acciones para la atención eficiente y de calidad, que las Dependencias y Entidades de la Administración Pública Estatal deban proporcionar a la ciudadanía;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXXII. Dirigir y coordinar la instalación de delegaciones ante las Dependencias, Entidades y Órganos Auxiliares de la Administración Pública Estatal, que considere necesarias para el mejor ejercicio de sus atribuciones; el nombramiento, remoción y rotación de los delegados, así como, del personal que integre cada una de las delegaciones será facultad exclusiva del Titular de esta Secretaría, y
-
-XXXIII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
-
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2013)</small>
-
-ARTÍCULO 47 BIS.- A la Secretaría del Medio Ambiente y Recursos Naturales del Estado de Oaxaca le corresponde el despacho de los siguientes asuntos:
-
-I. Formular, evaluar y conducir la política estatal en materia de recursos naturales, gestión y regulación ambiental, en congruencia con el Plan Estatal de Desarrollo y con la participación que corresponda a otras dependencias y entidades federales, estatales y municipales;
-
-II. Orientar la implementación de un modelo de sustentabilidad, que permita a la población del Estado enfrentar la problemática ambiental prevaleciente;
-
-III. Determinar las estrategias y criterios ecológicos que deban observarse en la aplicación de la política ecológica estatal, mismos que guardarán congruencia con los que formule la Federación en la materia, instrumentando al efecto un programa estatal de protección al ambiente;
-
-IV. Formular y ejecutar acciones de mitigación y adaptación al cambio climático, en concordancia con las políticas adoptadas por el Ejecutivo Federal en la materia;
-
-V. Fomentar la protección, restauración y conservación de los ecosistemas, recursos naturales y bienes y servicios ambientales en el Estado, y propiciar su aprovechamiento y desarrollo sustentable;
-
-VI. Formular los programas de ordenamiento ecológico estatal, así como regionales, comunitarios o prioritarios, con la participación de los núcleos de población comunal y ejidal y, en su caso, de los municipios, guardando congruencia con lo establecido por la Federación;
-
-VII. Promover, regular, administrar y vigilar las áreas naturales protegidas y predios de certificación voluntaria, previstos en la legislación local, con la participación de los núcleos de población comunal y ejidal y, en su caso, de los municipios;
-
-VIII. Fortalecer procesos, programas y proyectos en materia de conservación y uso sostenible de la biodiversidad terrestre y de los recursos hídricos;
-
-IX. Impulsar la evaluación, medición y seguimiento de la gestión ambiental, mediante mecanismos y regulaciones que aseguren que las actividades, obras y proyectos operen con una visión de desarrollo sustentable;
-
-X. Impulsar el desarrollo de tecnologías basadas en energías renovables y proyectos en todo el estado, que puedan ofertarse en un mercado sustentable y viable, y así transitar hacia una economía con bajo consumo de carbón;
-
-XI. Consolidar una cultura ambiental de participación corresponsable con la ciudadanía, que facilite la transparencia de la aplicación de las políticas públicas y sus recursos. Apoyándose para ello, del Fondo Público Ambiental de Oaxaca, como un instrumento indispensable de asesoría y apoyo técnico al Ejecutivo Estatal para administrar y encauzar los recursos públicos, hacia los programas y estrategias establecidos para ejecutar la política ambiental en Oaxaca, observando lo establecido por su correspondiente Fideicomiso de Administración;
-
-XII. Vigilar y estimular el cumplimiento de las leyes, normas y programas relacionados con recursos naturales y medio ambiente y, en su caso, imponer las sanciones que procedan dentro del ámbito de su competencia legal;
-
-XIII. Formular, ejecutar y evaluar el programa estatal de protección al ambiente;
-
-XIV. Evaluar y dictaminar las manifestaciones de impacto ambiental de competencia estatal sobre proyectos de desarrollo que le presenten los sectores público, social y privado y resolver sobre los estudios de riesgo ambiental, así como sobre los programas para la prevención de accidentes con incidencia ecológica;
-
-XV. Establecer y promover un sistema de información ambiental estatal en coordinación con las dependencias y entidades federales, estatales y municipales e instituciones de investigación y de educación superior;
-
-XVI. Promover el uso de metodologías y procedimientos de evaluación económica del capital natural de Oaxaca, y de los bienes y servicios que presta;
-
-XVII. Conducir la política estatal de información, divulgación y educación en materia ambiental;
-
-XVIII. Consolidar la participación de organismos de los diversos niveles educativos, culturales y los medios de comunicación masiva, en la conservación del patrimonio natural y promover la formación de especialistas y la investigación científica y tecnológica en la materia; y
-
-XIX. Las demás atribuciones que le señalen las leyes y reglamentos en el Estado.
-
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
 
 #### SECCION IV. De la Investigación Educativa
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 48.
+###### ARTICULO 48.
 
-(DEROGADO, P.O. 17 DE OCTUBRE DE 2016)
+El Sistema Educativo Estatal impulsará y apoyará la difusión e investigación científica, humanística y tecnológica que contribuya a la formación de investigaciones y profesionistas altamente calificados como fundamento de la modernización y desarrollo de la Entidad.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
-### CAPÍTULO V. DE LOS ÓRGANOS AUXILIARES
+ARTICULO 48 A.- La autoridad educativa estatal buscará los mecanismos necesarios a fin de incorporar a personal capacitado en la investigación educativa, estableciendo convenios y relaciones de colaboración en caso de ser necesarios, con organismos, dependencias, institutos educativos de nivel superior, tanto nacionales como internacionales, o asociaciones civiles, con el propósito de realizar trabajos y propuestas tendientes al mejoramiento de la calidad de la educación en la entidad.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+### CAPITULO V. DE LA PARTICIPACION DE LA SOCIEDAD EN LA EDUCACION
 
-###### ARTÍCULO 49.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-La Consejería Jurídica prevista en el artículo 98 Bis, de la Constitución Política del Estado Libre y Soberano de Oaxaca, estará a cargo del Consejero Jurídico del Gobierno del Estado, quien dependerá directamente del Ejecutivo Estatal y quien ejerce la representación jurídica del Estado, del Titular del Poder Ejecutivo y de la Gubernatura, así como otorgar el apoyo técnico jurídico en forma permanente y directa al Gobernador del Estado.
+###### ARTICULO 49.
 
-A la Consejería Jurídica del Gobierno del Estado le corresponde el despacho de los siguientes asuntos:
+Son derechos de las madres y padres de familia o tutores:
 
-I. Representar legalmente al Estado de Oaxaca, al titular del Poder Ejecutivo y a la Gubernatura en todo juicio, proceso o procedimiento en que sean parte.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-Esta representación tendrá los efectos de mandato judicial y se entiende conferida sin perjuicio de que, en su caso, el Gobernador del Estado asuma por sí mismo la intervención que en dichos actos le corresponde;
+I.- Obtener inscripción en escuelas públicas para que sus hijas, hijos o pupilos menores de dieciocho años, que satisfagan los requisitos establecidos en la presente Ley, reciban la Educación Preescolar, Primaria, Secundaria, Media Superior y, en su caso, la Educación Inicial, en concordancia con los espacios disponibles para cada tipo educativo;
 
-II. En los casos en que el Gobernador del Estado se encuentre ausente del recinto del Poder Ejecutivo del Estado, firmar promociones, informes e interponer recursos de impugnación en los asuntos en que sea parte, tenga interés jurídico o sea requerido para ello el Titular del mismo, y en el citado caso de ausencia temporal suscribir los informes previos y justificados y demás promociones que por juicios de amparo u otros medios de control constitucional establecidos en las leyes federales y locales deba realizar el Gobernador;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-III. Otorgar mandatos de conformidad al Código Civil del Estado y el Federal, respecto de la representación legal que le confiere el presente ordenamiento;
+II.- Colaborar con las autoridades escolares, al menos una vez al mes, para la superación de los educandos y en el mejoramiento de los establecimientos educativos;
 
-IV. Suscribir convenios y contratos relacionados con el patrimonio inmobiliario del Estado, en los casos previstos por la legislación aplicable;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-V. Intervenir en la defensa del patrimonio del Estado ante todas las instancias, así como, ejercitar las acciones reivindicatorias y de cualquier otra índole que competan al Estado;
+III.- Solicitar informes periódicos del estado que guarda el proceso de enseñanza - aprendizaje de sus hijas, hijos o pupilos, así como de los aspectos formativos, tales como hábitos, habilidades, actitudes y conducta en general;
 
-VI. Representar al Ejecutivo del Estado y promover en las controversias constitucionales y acciones de inconstitucionalidad en las que éste sea parte;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-VII. Representar al titular del Ejecutivo del Estado en las investigaciones que ordene la Comisión Nacional de los Derechos Humanos, en uso de la facultad que le confiere el artículo 102 apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos;
+IV.- Formar parte de las asociaciones de madres y padres de familia y de los consejos de participación escolar en los términos de la reglamentación correspondiente;
 
-VIII. Ser el conducto del Ejecutivo del Estado para prestar apoyo en materia jurídica a los municipios con los que así se acuerde, sin perjuicio de la competencia que corresponda a otras dependencias;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-IX. Fungir como Consejero Jurídico del Gobernador del Estado y en tal carácter, otorgarle apoyo técnico-jurídico en forma permanente y directa;
+V.- Opinar, en los casos de la educación que impartan los particulares, en relación con las contraprestaciones que las escuelas fijen;
 
-X. Conocer y substanciar los procedimientos relativos a los recursos administrativos que deba resolver el Gobernador del Estado, dejándolos en estado previo a la resolución y proponerle el proyecto de la misma;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-XI. Efectuar por conducto del funcionario que establezca la reglamentación interna de la Consejería, las notificaciones dispuestas en el trámite de los asuntos que conozca en el desempeño de sus funciones, así como las que sean ordenadas por el Gobernador, las que se harán con sujeción a lo dispuesto, en lo conducente, en el Código de Procedimientos Civiles para el Estado de Oaxaca;
+VI.- Participar activamente con las autoridades de la escuela en la que estén inscritos sus hijas, hijos o pupilos menores de dieciocho años, en cualquier problema relacionado con la educación de éstos, a fin de que, en conjunto, se aboquen a su solución;
 
-XII. Presidir la Comisión de Estudios Jurídicos del Gobierno del Estado;
+VII.- (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2020)
 
-XIII. Proporcionar asesoría jurídica a las Dependencias y Entidades de la Administración Pública Estatal y revisar los proyectos de disposiciones legales e instrumentos jurídicos que deban presentarse para firma del Gobernador del Estado;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-XIV. Elaborar y presentar a consideración del Gobernador proyectos de iniciativas de leyes y decretos, así como, los demás instrumentos jurídicos que éste le encomiende o considere necesarios;
+VIII.- Conocer el nombre del personal docente y empleados adscritos en la escuela en la que estén inscritos sus hijas, hijos o pupilos, misma que será proporcionada por la autoridad escolar;
 
-XV. Revisar y autorizar los instrumentos jurídicos, previos a la firma del Gobernador, relativos a la Administración Pública Estatal o por actos jurídicos que celebre el Estado con intervención del Titular del Poder Ejecutivo;
+IX.- (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2020)
 
-XVI. Opinar sobre los proyectos de convenios a celebrar el Ejecutivo del Estado con la federación, con los estados y los municipios, y respecto a asuntos relativos a dichas autoridades;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-XVII. Llevar el control, archivo y resguardo de los convenios que celebre el Ejecutivo del Estado con la Administración Pública Federal, otros estados y los ayuntamientos y de los demás instrumentos jurídicos que el Gobernador suscriba;
+X.- Conocer los criterios y resultados de las evaluaciones de la escuela a la que asistan sus hijas, hijos o pupilos;
 
-XVIII. Fungir como órgano de consulta obligatoria para los titulares de las Dependencias y Entidades de la Administración Pública Estatal Centralizada, respecto de los procedimientos litigiosos en los que tengan interés jurídico, pudiendo asumir el patrocinio legal de tales asuntos por orden escrita del Gobernador del Estado;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-XIX. Cooperar con las Dependencias y Entidades de la Administración Pública Estatal, en la elaboración de documentos jurídico - administrativos y sugerir las estrategias legales en las que intervengan;
+XI.- Conocer de los planes y programas de estudio proporcionados por el plantel educativo, sobre los cuales podrán emitir su opinión;
 
-XX. Coordinar las acciones en materia jurídica que se implementen en la Administración Pública Estatal, estableciendo los criterios jurídicos que aplicarán las dependencias y las entidades;
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
 
-XXI. Establecer criterios de aplicación de normas que sean competencia del Poder Ejecutivo del Estado en los casos que se requiera;
+XII.- Conocer el presupuesto asignado a cada escuela, así como su aplicación y los resultados de su ejecución, y
 
-XXII. Emitir opinión jurídica de los instrumentos legales que le sean turnados por las Dependencias y Entidades en los que el Estado, el Gobernador del Estado y la Gubernatura intervengan;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-XXIII. Solicitar a las Dependencias y Entidades de la Administración Pública Estatal, le proporcionen información y apoyo que requiera para el cumplimiento de sus atribuciones;
+XIII.- Presentar quejas ante las autoridades correspondientes, sobre el desempeño de docentes, directores, supervisores, asesores técnicos pedagógicos de sus hijas, hijos o pupilos menores de dieciocho años, y sobre las condiciones de la escuela a la que asisten, así como promover prácticas cooperativas de ahorro, producción y consumo, de acuerdo a lo establecido en la ley de la materia y reglamentos o lineamientos oficiales.
 
-XXIV. Recibir a las áreas jurídicas de las Dependencias y Entidades, informe sucinto que deberán rendirle sobre los asuntos que conozcan y de considerarse necesario requerirles la ampliación de los mismos;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-XXV. Poner a consideración del Gobernador del Estado en materia jurídica, los temas, la problemática y propuesta de solución que considere deban ser atendidos por el Ejecutivo, considerando las propuestas de las Dependencias y Entidades de la Administración Pública Estatal;
+###### ARTICULO 50.
 
-XXVI. Presentar dentro del ámbito de su competencia, denuncias y formular querellas ante el Ministerio Público, y otorgar el perdón al acusado cuando proceda;
+Son obligaciones de las madres y padres de familia o tutores:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2015)</small>
+I.- Hacer que sus hijas, hijos o pupilos menores de dieciocho años reciban la educación preescolar, primaria, secundaria, media superior y, en su caso, la inicial;
 
-XXVII. Revisar y autorizar en el ámbito de su competencia, conjuntamente con la Secretaría de Administración, los reglamentos internos de las Dependencias y Entidades de la Administración Pública Estatal;
+II.- Participar en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años, al revisar su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo;
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijas, hijos o pupilos, en las actividades que dichas instituciones realicen;
 
-XXVIII. Ordenar, vigilar y coordinar el cumplimiento de las disposiciones en materia de exhortos judiciales, legislativos y administrativos dirigidos al titular del Poder Ejecutivo;
+IV.- Informar a las autoridades educativas, los cambios que se presenten en la conducta y actitud de los educandos, para que se apliquen los estudios correspondientes, con el fin de determinar las posibles causas;
 
-XXIX. Fungir como Unidad de Enlace en materia de Transparencia de la Gubernatura y de la propia Consejeria Jurídica; asimismo, ser el Secretario Técnico del Comité de Transparencia y Acceso a la Información Pública del Poder Ejecutivo del Estado, actuando como Sujeto Obligado, por lo que deberá emitir y supervisar, con apoyo de los integrantes de dicho Comité, la aplicación de criterios y lineamientos para las Dependencias y Entidades, en cumplimiento a las disposiciones aplicables en la materia;
+V.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios que, en su caso, hagan las propias asociaciones al establecimiento escolar. Estas cooperaciones serán de carácter voluntario y, según lo dispuesto por el artículo 5° de esta Ley, en ningún caso se entenderán como contraprestaciones del servicio educativo;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+VI.- Colaborar con el personal docente en el diagnóstico y atención de las dificultades escolares de sus hijas, hijos o pupilos y apoyar a los directivos y docentes en la prevención y solución de problemas de conducta, de afectación a la integridad y la seguridad, o de violencia física o psicológica;
 
-XXX. Coordinar y supervisar los subcomités de transparencia y acceso a la información pública y unidades de enlace que sean designados por las dependencias y entidades de conformidad con el Comité de Transparencia y Acceso a la Información Pública del Poder Ejecutivo del Estado; coadyuvando con la Secretaría de la Contraloría y Transparencia Gubernamental, quien deberá actuar como órgano de control interno, de conformidad con las disposiciones aplicables;
+VII.- Acudir a los llamados de las autoridades educativas y escolares relacionados con la revisión del progreso, desempeño y conducta de sus hijas, hijos o pupilos menores de dieciocho años, y
 
-XXXI. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
+VIII.- Promover la participación de sus hijas, hijos o pupilos menores de dieciocho años en la práctica de actividades físicas, de recreación, deportivas y de educación física dentro y fuera de los planteles educativos, como un medio de cohesión familiar y comunitaria.
 
-XXXII. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
+En caso de incumplimiento de alguna de las obligaciones a las que se refiere este artículo por parte de madres y padres de familia o tutores, las autoridades educativas podrán dar aviso a las instancias encargadas de la protección de los derechos de niñas, niños y adolescentes para los efectos correspondientes en términos de la legislación aplicable.
 
-XXXIII. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-XXXIV. (DEROGADA, P.O. 17 DE OCTUBRE DE 2016)
+###### ARTICULO 51.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+Las Asociaciones de Madres y Padres de Familia no tendrán injerencia en los aspectos técnico-pedagógicos y laborales de las escuelas, y tendrán por objeto:
 
-XXXV. Compilar y archivar la legislación y reglamentación vigente en el Estado, y
+I.- Representar ante las autoridades escolares los intereses que en materia educativa sean comunes a los asociados;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+II.- Colaborar para una mejor integración de la comunidad escolar, así como en el mejoramiento de los planteles;
 
-XXXVI. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
+III.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2016)</small>
+IV.- Propiciar la colaboración de los docentes, madres y padres de familia o tutores, para salvaguardar la integridad de los integrantes de la comunidad educativa;
 
-ARTÍCULO 49 BIS. La Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, prevista en el artículo 137, párrafo décimo primero de la Constitución Política del Estado Libre y Soberano de Oaxaca estará a cargo de un coordinador general, quien dependerá directamente del Ejecutivo Estatal.
+V.- Conocer de las acciones educativas y de prevención que realicen las autoridades para que los educandos, conozcan y detecten la posible comisión de hechos delictivos que les puedan perjudicar;
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+VI.- Sensibilizar a la comunidad, mediante la divulgación de material que prevenga la comisión de delitos en agravio de los educandos. Así como también, de elementos que procuren la defensa de los derechos de las víctimas de tales delitos;
 
-A la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, le corresponde el despacho de los siguientes asuntos:
+VII.- Estimular, promover y apoyar actividades extraescolares que complementen y respalden la formación de los educandos;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+VIII.- Gestionar el mejoramiento de las condiciones de los planteles educativos ante las autoridades correspondientes;
 
-I. Dirigir la planeación participativa para la elaboración del Plan Estatal de Desarrollo y coordinar la formulación y validación del mismo, y proponer parámetros para la focalización de acciones para los programas sectoriales, especiales e institucionales, de conformidad con las disposiciones legales aplicables en la materia, favoreciendo el establecimiento de mecanismos para la participación ciudadana;
+IX.- Alentar el interés familiar y comunitario para el desempeño del educando, y
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+X.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores.
 
-II. Definir con la Secretaría de Finanzas la visión estratégica del desarrollo del estado, de mediano y largo plazo, identificando las prioridades de política pública y orientación de recursos, las alternativas para su logro y la definición de metas del desempeño correspondientes, apoyándose en la participación de las dependencias y organismos del Poder Ejecutivo del Estado;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+###### ARTICULO 52.
 
-III. Orientar la planeación para el desarrollo con sustentabilidad, definiendo regiones, microrregiones, zonas y localidades del Estado que requieran atención prioritaria, considerando aquellas que también sean priorizadas por las estrategias y programas federales;
+La organización y funcionamiento de las Asociaciones de Madres y Padres de Familia, en lo concerniente a sus relaciones con las autoridades de los establecimientos escolares, se sujetarán a las disposiciones que emita la autoridad educativa estatal.
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-IV. Coordinar el Comité Estatal de Planeación para el Desarrollo de Oaxaca;
+###### ARTICULO 53.
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+La autoridad educativa estatal podrá promover, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto garantizar el derecho a la educación.
 
-V. Orientar, en coordinación con la Secretaría de Finanzas, a las dependencias y entidades en la planeación, diseño, promoción, aplicación, y conducción de los programas y proyectos de desarrollo del Estado, identificando las prioridades y estrategias que se alineen al Plan Estatal de Desarrollo, en congruencia con los programas de la administración pública federal y los de los municipios del Estado, e incluyendo la aportación ciudadana, tendientes a satisfacer el bienestar social;
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+Para asegurar el cumplimiento de los fines de la educación y la participación social, la autoridad educativa estatal promoverá la operación de:
 
-VI. Formular propuestas sobre planeación, aplicación y orientación de las políticas públicas, acciones y proyectos en el ámbito territorial, en coordinación con las políticas y programas sectoriales, mediante la coordinación de los esfuerzos institucionales, particularmente de los Subcomités Regionales, los Consejos de Desarrollo micro regional, y aquellas instancias de planeación que contribuyan a estas tareas, propiciando la colaboración de los sectores social y privado;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+I.- Un Consejo Estatal de Participación Escolar en la Educación, como órgano de consulta, orientación y apoyo, integrado por madres y padres de familia y representantes de sus asociaciones; maestras y maestros y representantes de su organización sindical, instituciones formadoras de docentes; autoridades educativas estatales y municipales, así como de sectores sociales de la Entidad, especialmente interesados en la educación;
 
-VII. Proponer mecanismos y criterios de orientación y distribución de recursos de los diversos fondos de inversión hacia el financiamiento de obras y acciones que favorezcan el desarrollo equilibrado en el estado, conforme a los acuerdos establecidos en el seno del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+II.- Un Consejo Municipal de Participación Escolar en la Educación, como órgano de consulta, orientación y apoyo, integrado por las autoridades municipales, madres y padres de familia y representantes de sus asociaciones, maestras y maestros distinguidos y directivos de escuelas, representantes de la organización sindical de maestras y maestros, así como representantes de organizaciones de la sociedad civil cuyo objeto social sea la educación y demás interesados en el mejoramiento de la educación, y
 
-VIII. Promover la creación de infraestructura y equipamiento productivo con énfasis en las regiones y sectores de la población con mayores desventajas;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+III.- Un Consejo de Participación Escolar o su equivalente, en las escuelas públicas de educación básica y media superior, si es su decisión la instalación y operación del mismo, el cual será integrado por madres y padres de familia y representantes de sus asociaciones, maestras y maestros y representantes de su organización sindical, directivos de la escuela, ex alumnos, así como los demás miembros de la comunidad interesados en el desarrollo de la propia escuela. Consejos análogos podrán operar en las escuelas particulares de educación básica y media superior.
 
-IX. Establecer estrategias y mecanismos de coordinación, colaboración, inducción y gestión de acciones con las dependencias, entidades y demás instancias federales, estatales y municipales, organizaciones de la sociedad civil y particulares, para la ejecución de los programas, proyectos e iniciativas en el ámbito territorial, así como, suscribir los convenios y acuerdos que resulten necesarios para fortalecer el desarrollo en el Estado, en coordinación con la Secretaría de Finanzas y la Secretaría General de Gobierno, en el ámbito de sus respectivas competencias;
+Los Consejos de Participación Escolar a que se refiere este artículo, tendrán las funciones que establece la Ley General, y se regirán por lineamientos generales que emita la autoridad educativa estatal; se abstendrán de intervenir en los aspectos laborales, pedagógicos y administrativos de los establecimientos educativos, y no deberán participar en cuestiones políticas ni religiosas. Además, para reconocer la función social de maestras, maestros, y personal directivo o de supervisión, podrán proponerlos para ser considerados para recibir los reconocimientos que establece la Ley de Maestras y Maestros, y demás programas que al efecto determine la Secretaría y demás autoridades competentes.
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+IV.- (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2020)
 
-X. Proporcionar orientación, asistencia técnica y capacitación a las autoridades municipales, organizaciones de la sociedad civil y sociales, con el fin de fortalecer las tareas de planeación, ejecución y seguimiento de los planes, programas y proyectos de desarrollo municipal, microrregional y regional, coadyuvando en el establecimiento de una agenda desde lo local y en los mecanismos de respuesta ante la existencia de siniestros y contingencias;
+### CAPITULO VI. DE LA EDUCACION QUE IMPARTAN LOS PARTICULARES
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-XI. Dar seguimiento a los acuerdos y convenios suscritos en el seno del Comité Estatal de Planeación para el Desarrollo de Oaxaca, por el Ejecutivo del Estado o, en su caso, por la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, la Secretaría de Finanzas o la Secretaría General de Gobierno, con las dependencias y entidades del Ejecutivo Federal y Estatal, así como, con los ayuntamientos y organizaciones de la sociedad civil;
+###### ARTICULO 54.
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+Los particulares podrán impartir educación considerada como servicio público en todos sus tipos, niveles y modalidades, previa autorización y reconocimiento de validez oficial de estudios específicos que otorgue la autoridad educativa estatal, en los términos dispuestos por el artículo 3o. de la Constitución Federal, la Ley General, esta Ley y demás disposiciones jurídicas aplicables.
 
-XII. Participar en el ámbito de su competencia con la Secretaría de Finanzas, en la elaboración de lineamientos y normas en la estrategia de mezcla de recursos con los ayuntamientos;
+Por lo que concierne a la educación inicial, preescolar, primaria, secundaria, normal y demás para la formación de maestras y maestros de educación básica, deberán obtener previamente, en cada caso, la autorización expresa de la Secretaría.
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+Tratándose de estudios distintos de los antes mencionados podrán obtener el reconocimiento de validez oficial de estudios.
 
-XIII. Asistir a los Ayuntamientos, particularmente de aquellos con baja capacidad administrativa, en la formulación de los Planes Municipales en coordinación con la Secretaría de Finanzas, quien atenderá lo referido a la planeación financiera y presupuestal, con el fin de que cumplan con elementos mínimos de planeación y de alineamiento con el Plan Estatal de Desarrollo, los Planes Regionales y programas micro regionales;
+La autorización y el reconocimiento serán específicos para cada plan y programa de estudios; por lo que hace a educación básica y media superior, surtirá efectos a partir de su otorgamiento por parte de la autoridad correspondiente. Para impartir un nuevo plan o programa se requerirá, según el caso, la autorización o el reconocimiento respectivos. En el tipo de educación superior, se estará a lo dispuesto en la Ley General de Educación Superior.
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+En ningún caso, con motivo del cobro de colegiaturas o cualquier otra contraprestación, derivada de la educación que se imparta en términos de este artículo, se realizarán acciones que atenten contra la dignidad y los derechos de los educandos, de manera especial de las niñas, niños y adolescentes, incluyendo la retención de documentos personales y académicos.
 
-XIV. Suscribir convenios de colaboración para coordinar la capacitación integral de los municipios, con las secretarías de Finanzas, General de Gobierno, y la Contraloría y Transparencia Gubernamental, así como, con la Auditoría Superior del Estado, y demás instituciones públicas y privadas, relacionadas con la materia;
+La adquisición de uniformes y materiales educativos, así como de actividades extraescolares, no podrá condicionar la prestación del servicio público referido en esta Ley.
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+###### ARTICULO 55.
 
-XV. Convenir y aprobar los Programas de Desarrollo Institucional municipal, sobre la base de la asignación establecida en el Fondo de Infraestructura Social Municipal; así como, apoyarlos en la capacitación y seguimiento en el cumplimiento de la obligación de informar trimestralmente sobre los avances físicos y financieros de los recursos federales descentralizados;
+Las autorizaciones y los reconocimientos de validez oficial de estudios, se otorgarán cuando los solicitantes cuenten:
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-XVI. Opinar en la definición del Programa Anual de Inversión Pública del Estado, tomando en cuenta para ello los acuerdos y prioridades establecidos en el seno del Comité Estatal de Planeación para el Desarrollo de Oaxaca, apoyando en la gestión de recursos para impulsar programas y proyectos;
+I.- Con personal docente que acredite la preparación adecuada para impartir educación;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-XVII. Realizar estudios socioeconómicos de alcance regional y microrregional que orienten la política de desarrollo del Estado;
+II.- Con instalaciones que satisfagan las condiciones higiénicas, de seguridad, de protección civil, pedagógicas y de accesibilidad que la autoridad otorgante determine, en coadyuvancia con las autoridades competentes, conforme a los términos previstos en las disposiciones aplicables, y
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-XVIII. Apoyar en el ámbito territorial e interinstitucional en la realización de los estudios técnicos y económicos de factibilidad de los proyectos de inversión pública que requiera el Gobierno del Estado;
+III.- Con planes y programas de estudio que autoricen las Autoridades Educativas del Estado.
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-XIX. Apoyar en el seguimiento del banco de proyectos sectoriales y regionales de inversión pública del Estado, para fortalecer la planeación de los mismos;
+###### ARTICULO 56.
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+Los particulares que impartan educación en el estado con autorización o reconocimiento de validez oficial de estudios deberán:
 
-XX. Apoyar, a partir de los sistemas de evaluación al seguimiento de la situación física y financiera de la inversión en la Administración Pública Estatal, que realiza el Poder Ejecutivo con recursos propios y los provenientes de transferencias y reasignaciones de recursos federales;
+I.- Cumplir con los planes y programas de estudio que las autoridades educativas les aprobaron y mantenerlos actualizados;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+II.- Proporcionarán un porcentaje de becas para alumnos de excelencia académica de pocas posibilidades económicas en un mínimo del cinco por ciento, en los términos de la Ley General;
 
-XXI. Coadyuvar en el establecimiento de los lineamientos generales e integración del Informe Anual sobre la situación que guarda la Administración Pública Estatal;
+III.- Cumplir y colaborar en las actividades de información, evaluación y vigilancia que las autoridades competentes realicen u ordenen;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+IV.- Concertar con las madres y padres o tutores de los alumnos, el monto de las colegiaturas;
 
-XXII. Proponer al Ejecutivo Estatal, las modificaciones necesarias sobre las políticas, programas y acciones de desarrollo y, en su caso, verificar que las Reglas de Operación atiendan al marco de la planeación del Estado;
+V.- Cumplir con lo dispuesto en el artículo 3o. de la Constitución Federal, en la Ley General, en la presente Ley, en particular, con los requisitos previstos en el artículo anterior y demás disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+VI.- Entregar a la autoridad educativa la documentación e información necesaria que permitan verificar el cumplimiento de los requisitos para seguir impartiendo educación, conforme a los lineamientos emitidos para tal efecto;
 
-XXIII. Coordinar el sistema de información para la planeación del desarrollo;
+VII.- Solicitar el refrendo del reconocimiento de validez oficial de estudios al término de la vigencia que se establezca, en los términos de la Ley General, y demás disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+VIII.- Proporcionar la información que sea requerida por las autoridades;
 
-XXIV. Definir con la Secretaría de Finanzas los requerimientos que deberán producir los sistemas de información estadística y documental para la planeación y el financiamiento del desarrollo, así como, el análisis y difusión de estadísticas y estudios relativos a la demografía, economía y desarrollo social del Estado, y
+IX.- Dar aviso a la autoridad educativa competente el cambio de domicilio donde presten el servicio público de educación o cuando dejen de prestarlo conforme a la autorización o reconocimiento de validez oficial de estudios respectiva, para que conforme al procedimiento que se determine en las disposiciones aplicables, se dé inicio al procedimiento de retiro o revocación, y
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+X.- Las demás que le señalen las leyes y normatividad aplicable a la materia.
 
-XXV. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+###### ARTICULO 57.
 
-###### ARTÍCULO 50.
+Los Particulares que impartan educación con autorización y reconocimiento de validez oficial de estudios, deberán incluir en la documentación que expidan y en la publicidad que hagan, una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, modalidad en que se imparte, domicilio para el cual se otorgó, así como la autoridad que lo emitió.
 
-A la Jefatura de la Gubernatura le corresponde el despacho de los siguientes asuntos:
+Las autoridades educativas deberán entregar a las escuelas particulares un reporte de los resultados que hayan obtenido sus docentes y alumnos en las evaluaciones correspondientes.
 
-I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-II. Dar seguimiento a los acuerdos, convenios y programas que suscriba el Gobernador del Estado;
+###### ARTICULO 58.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+Las autoridades educativas publicarán, en el Periódico Oficial, Órgano del Gobierno del Estado, y en sus portales electrónicos, una relación de las instituciones a las que hayan concedido autorización o reconocimiento de validez oficial de estudios, así como de aquellas a las que hayan autorizado para revalidar o equiparar estudios. Asimismo, publicarán, oportunamente y en cada caso, la inclusión o la supresión en dicha lista de las instituciones a las que otorguen, revoquen o retiren las autorizaciones o reconocimientos respectivos, así como aquellas que sean clausuradas.
 
-III. Establecer en coordinación con la Secretaría de Finanzas y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca los indicadores que permitan medir las variaciones del desarrollo del Estado de Oaxaca;
+De igual manera indicarán en dicha publicación, los resultados una vez que apliquen las evaluaciones que, dentro del ámbito de sus atribuciones y de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables, les correspondan.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-IV. Fungir como Instancia Técnica de Evaluación; así como normar y establecer el Sistema de Evaluación del Desempeño para la evaluación del Plan Estatal de Desarrollo, los planes y programas que de él se deriven, en coordinación de las Dependencias y Entidades de la Administración Pública Estatal;
+###### ARTICULO 59.
 
-V. Establecer los lineamientos generales e integrar el Informe Anual sobre la situación que guarda la Administración Pública Estatal;
+La autoridad educativa estatal, podrá retirar el reconocimiento de validez de los estudios realizados en planteles particulares cuando compruebe la existencia de faltas graves consideradas en la presente Ley.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
-VI. Remitir los informes de resultados de las evaluaciones realizadas, al Titular del Poder Ejecutivo y proponer las medidas correctivas que procedan; coordinándose para tal efecto, con las instancias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, con base en los lineamientos que emita para la integración del mismo;
+Las autoridades que otorguen autorizaciones y reconocimientos de validez oficial de estudios deberán inspeccionar y vigilar los servicios educativos respecto de los cuales concedieron dichas autorizaciones o reconocimientos. Las autoridades procurarán llevar a cabo una visita de inspección por lo menos una vez al año.
 
-VII. Proponer al Gobernador del Estado programas y acciones orientados a la consecución de los objetivos del desarrollo en la entidad;
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
-VIII. Administrar el sistema de atención ciudadana y turnar las solicitudes a las dependencias y entidades de la Administración Pública Estatal, procurando su expedita resolución y llevar a cabo el seguimiento de éstas;
+Para realizar una visita de inspección deberá mostrarse la orden correspondiente expedida por la autoridad competente. La visita se realizará en el lugar, fecha y sobre los asuntos específicos señalados en dicha orden. El encargado de la visita deberá identificarse adecuadamente.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
-IX. Efectuar el seguimiento a los aspectos susceptibles de mejora, derivados de las evaluaciones del desempeño de las Dependencias y Entidades;
+Desahogada la visita, se suscribirá el acta correspondiente por quienes hayan intervenido y por dos testigos. En su caso, se hará constar en dicha acta la negativa del visitado de suscribirla sin que esa negativa afecte su validez. Un ejemplar del acta se pondrá a disposición del visitado.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
-X. Fomentar la creación de capacidades para el seguimiento y evaluación del desempeño y los resultados, mediante la asesoría técnica permanente a las Dependencias y Entidades en la formulación de instrumentos de su medición;
+Los particulares podrán presentar a las autoridades educativas documentación relacionada con la visita dentro de los cinco días hábiles siguientes a la fecha de la inspección.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
-XI. Ser el conducto institucional entre el Poder Ejecutivo y las embajadas, consulados, representaciones y delegaciones de los diferentes países acreditados en el Gobierno Federal; y propiciar el acercamiento del Poder Ejecutivo del Estado con países extranjeros, organismos internacionales y gobiernos locales en un marco de relaciones e intercambios de interés mutuo, y
+De la información contenida en el acta correspondiente así como la documentación relacionada, que en su caso presenten los particulares, las autoridades educativas podrán formular medidas correctivas, mismas que harán del conocimiento de los particulares.
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
-XII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
+Las autoridades educativas emitirán la normativa correspondiente para realizar las tareas de inspección y vigilancia.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 51.
+###### ARTICULO 60.
 
-A la Coordinación General de Comunicación Social le corresponde el despacho de los siguientes asuntos:
+Cuando se revoque la autorización para impartir educación a una Institución, se hará del conocimiento público a través del Periódico Oficial, Órgano del Gobierno del Estado.
 
-I. Garantizar a la población el derecho a la información de todas las acciones, programas y decisiones de interés público que ejecute el Gobierno del Estado, a través de estrategias de comunicación, desarrolladas con oportunidad y transparencia;
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
-II. Establecer y ejecutar mecanismos que permitan fortalecer las relaciones respetuosas entre el Estado y los medios de comunicación;
+Los particulares que presten servicios por los que se impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
 
-III. Realizar estudios de evaluación de imagen institucional y medición de la opinión pública, para generar estrategias de Comunicación Social, que permitan difundir de forma eficiente, las acciones de la Administración Pública Estatal;
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-IV. Establecer las normas o parámetros, para la producción de los mensajes por los diversos medios de comunicación, con el fin de informar eficiente y oportunamente sobre la actividad gubernamental;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-V. Autorizar y supervisar las publicaciones y materiales promocionales que se emplearán en la difusión del quehacer gubernamental;
+### CAPITULO VII. DE LOS PLANTELES EDUCATIVOS
 
-VI. Suscribir acuerdos, convenios y contratos en materia de comunicación con los tres órdenes de gobierno, o bien, con otras instituciones públicas y empresas del sector privado;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-VII. Compilar y difundir la información sobre las actividades que en ejercicio de sus atribuciones, lleven a cabo las distintas Dependencias, Entidades Paraestatales, Órganos Desconcentrados, Órganos Auxiliares y Fideicomisos Públicos del Poder Ejecutivo del Estado;
+ARTICULO 60 A.- Los planteles educativos constituyen un espacio fundamental para el proceso de enseñanza aprendizaje, donde se presta el servicio público de educación por parte de las autoridades educativas o por los particulares con autorización o reconocimiento de validez oficial de estudios.
 
-VIII. Coordinar con el apoyo de las Dependencias, Entidades Paraestatales, Órganos Desconcentrados, Órganos Auxiliares y Fideicomisos Públicos del Poder Ejecutivo del Estado, la realización de programas o campañas generales o específicas de comunicación;
+Con el acuerdo de las autoridades educativas, madres y padres de familia o tutores y la comunidad, en la medida de sus posibilidades, funcionarán como un centro de aprendizaje comunitario, donde además de educar a niñas, niños, adolescentes y jóvenes, se integrará a las familias y a la comunidad para colaborar en grupos de reflexión, de estudio y de información sobre su entorno.
 
-IX. Establecer los lineamientos que rijan la difusión de información sobre las actividades y funciones de Dependencias, Entidades Paraestatales, Órganos Desconcentrados, Órganos Auxiliares y Fideicomisos Públicos del Poder Ejecutivo del Estado, y
+Para el cumplimiento del presente artículo, se atenderán las disposiciones establecidas por la autoridad educativa federal, en coordinación y en apoyo con las autoridades educativas estatal y municipal.
 
-X. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su reglamento interno y demás normatividad aplicable.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+ARTICULO 60 B.- Los muebles e inmuebles destinados a la educación impartida por el Estado y los particulares con autorización o con reconocimiento de validez oficial de estudios, así como los servicios e instalaciones necesarios para proporcionar educación, forman parte del Sistema Educativo Estatal, en lo que se refiere a los aspectos pedagógicos y didácticos derivados de los planes y programas de estudio autorizados por las autoridades educativas federales.
 
-###### ARTÍCULO 52.
+Dichos muebles e inmuebles deberán cumplir con los requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, resiliencia, pertinencia, integralidad, accesibilidad, inclusividad e higiene, incorporando los beneficios del desarrollo de la ciencia y la innovación tecnológica, para proporcionar educación de excelencia, con equidad e inclusión, conforme a los lineamientos que para tal efecto emita la autoridad educativa federal.
 
-A la Coordinación para la Atención de los Derechos Humanos le corresponde el despacho de los siguientes asuntos:
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-I. Coordinar acciones de difusión e interlocución con instancias internacionales y nacionales promotoras y protectoras de derechos humanos, así como, de los derechos de los migrantes y trabajadores oaxaqueños temporales en territorio extranjero, y las que se dedican al fortalecimiento de los sistemas de procuración y administración de justicia;
+ARTICULO 60 C.- Para la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción o habilitación de inmuebles destinados a la prestación del servicio público de educación, las autoridades educativas estatales en coordinación con la autoridad educativa federal, en el ámbito de sus competencias, así como los Comités Escolares de Administración Participativa, deben considerar las condiciones de su entorno y la participación de la comunidad escolar para que cumplan con los fines y criterios de la educación establecidos en la Constitución Federal y la Ley General.
 
-II. Atender los requerimientos en tiempo y forma que le formule la Comisión Nacional de los Derechos Humanos, la Defensoría de los Derechos Humanos del Pueblo de Oaxaca y Organismos Internacionales competentes y afines, a las autoridades y servidores públicos del Poder Ejecutivo del Estado;
+Las universidades y demás instituciones de educación superior autónomas a que se refiere la fracción VII del artículo 3o. de la Constitución Federal, se regularán en materia de infraestructura por sus órganos de gobierno y su normatividad interna.
 
-III. Coadyuvar con la Comisión Nacional de los Derechos Humanos, la Defensoría de los Derechos Humanos del Pueblo de Oaxaca y organismos afines en la divulgación, promoción, conocimiento y capacitación en derechos humanos;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-IV. Promover y consolidar acciones que generen la garantía plena a los derechos humanos:
+ARTICULO 60 D.- Para que en un inmueble puedan prestarse servicios educativos, deben obtenerse las licencias, autorizaciones, avisos de funcionamiento y demás relacionados para su operación a efecto de garantizar el cumplimiento de los requisitos de construcción, diseño, seguridad, estructura, condiciones específicas o equipamiento que sean obligatorios para cada tipo de obra, en los términos y las condiciones de la normatividad municipal, estatal y federal aplicable. Además de lo anterior, deberá obtenerse un certificado de seguridad y operatividad escolar expedido por las autoridades correspondientes, en los términos que para tal efecto emita la autoridad educativa federal. Los documentos que acrediten el cumplimiento de dichos requisitos, deberán publicarse de manera permanente en un lugar visible del inmueble.
 
-V. Verificar que la organización y programación de acciones de formación, capacitación, vinculación, promoción y defensa a favor de los derechos humanos, sea conforme a los imperativos internacionales, nacionales y de acuerdo al Plan Estatal de Desarrollo, pugnando por establecer mejores estándares de protección y promoción de los mismos;
+Todos los planteles educativos, públicos o privados, deben cumplir con las normas de protección civil y de seguridad que emitan las autoridades de los ámbitos federal, local y municipal competentes, según corresponda.
 
-VI. Coadyuvar en la implementación de políticas para la protección y mejoramiento de los derechos humanos;
+En la educación que impartan los particulares con autorización o con reconocimiento de validez oficial de estudios, debe demostrarse además el cumplimiento de las obligaciones señaladas en el artículo 55, fracción II de la presente Ley.
 
-VII. Formular programas y proponer acciones en coordinación con las dependencias competentes que impulsen el cumplimiento dentro del estado de Oaxaca, de los ordenamientos jurídicos vigentes en materia de derechos humanos;
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2021)</small>
 
-VIII. Vigilar y dar seguimiento a las recomendaciones emitidas por organismos estatales, nacionales e internacionales en materia de derechos humanos, al Poder Ejecutivo del Estado;
+Asimismo, durante una emergencia sanitaria declarada por autoridad competente, la Secretaría de Educación deberá expedir para que un inmueble pueda prestar servicios educativos ya sea de carácter público o privado un certificado de control de higiene escolar que permitirá el acceso seguro al alumnado.
 
-IX. Coadyuvar en la revisión y elaboración de iniciativas de Ley que permitan armonizar el marco normativo existente en el Estado conforme a los más altos estándares de derechos humanos;
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-X. Colaborar en la elaboración, implementación y evaluación del diagnóstico y programa estatal de derechos humanos de Oaxaca;
+ARTICULO 60 E.- La autoridad educativa estatal atenderá de manera prioritaria las escuelas que, por estar en localidades aisladas, zonas urbanas marginadas, rurales y en pueblos y comunidades indígenas, tengan mayor posibilidad de rezago o abandono escolar, estableciendo condiciones físicas y de equipamiento que permitan proporcionar educación con equidad e inclusión en dichas localidades.
 
-XI. Colaborar con instancias nacionales e internacionales para la atención, promoción y defensa de los derechos humanos en Oaxaca, a fin de robustecer las políticas públicas del Estado y atender el mejor estándar para ese efecto;
+En materia de inclusión se realizarán acciones, de manera gradual, orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos que mejoren las condiciones para la infraestructura educativa.
 
-XII. Promover y concretar convenios de colaboración de derecho (sic) humanos que el Ejecutivo suscriba, a fin de fortalecer con instancias nacionales e internacionales mejores prácticas de Estado a favor de los Derechos Humanos en Oaxaca;
+A partir de los programas que emita la Federación, se garantizará la existencia de baños y de agua potable para consumo humano con suministro continuo en cada inmueble de uso escolar público conforme a los lineamientos que emita la Secretaría de Salud Federal en coordinación con la autoridad educativa federal, así como de espacios para la activación física, la recreación, la práctica del deporte y la educación física.
 
-XIII. Promover mecanismos de diálogo y trabajo coordinado con la sociedad civil tanto a nivel local, nacional e internacional para favorecer estrategias conjuntas a favor de la defensa y promoción de los derechos humanos; y
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-XIV. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+ARTICULO 60 F.- Para llevar a cabo los procesos de construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, certificación, reconstrucción o habilitación de inmuebles destinados a la prestación del servicio público de educación, se atenderán los lineamientos que establecen las obligaciones que deben cumplirse, que para tal efecto emita la autoridad educativa federal, a través de la instancia que determine.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 53.
+ARTICULO 60 G.- Las autoridades educativas estatales, en el ámbito de sus respectivas competencias, deberán desarrollar la planeación financiera y administrativa que contribuya a optimizar los recursos en materia de espacios educativos al servicio del Sistema Educativo Estatal, realizando las previsiones necesarias para que los recursos económicos destinados para ese efecto, sean prioritarios y oportunos, y las respectivas obligaciones se atiendan de manera gradual y progresiva, de acuerdo con la disponibilidad presupuestal, debiendo establecer las condiciones fiscales, presupuestales, administrativas y jurídicas para facilitar y fomentar la inversión en la materia.
 
-A la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, le corresponde el despacho de los siguientes asuntos:
+Asimismo, promoverán mecanismos para acceder a fuentes alternas de financiamiento conforme lo establezcan las disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-I. Coordinar la planeación, programación, presupuestación y evaluación de los servicios que ofrezca el conjunto de instituciones, subsistemas y organismos de capacitación para el trabajo, educación media superior, preparatoria abierta, superior, ciencia y tecnología que funcionan en el Estado, en congruencia con la legislación federal y estatal en la materia;
+ARTICULO 60 H.- Para el mantenimiento de los muebles e inmuebles, así como los servicios e instalaciones necesarios para proporcionar los servicios educativos, concurrirán las autoridades educativas y, de manera voluntaria, madres y padres de familia o tutores y demás integrantes de la comunidad.
 
-II. Establecer los adecuados canales de comunicación y coordinación con el Instituto Estatal de Educación Pública de Oaxaca, para el desarrollo de la política educativa en el Estado;
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+ARTICULO 60 I.- La autoridad educativa estatal dará a conocer ampliamente los lineamientos de operación de los Comités Escolares de Administración Participativa con base en lo que emita la autoridad educativa federal, para los planteles de educación básica y, en su caso, de media superior, en los cuales además se aplicarán mecanismos de transparencia y eficiencia de los recursos asignados.
 
-III. Ser el conducto oficial y autoridad educativa para tratar los asuntos relacionados con la capacitación para el trabajo, educación media superior, preparatoria abierta, educación superior, ciencia y tecnología de Oaxaca;
+El Comité Escolar de Administración Participativa tendrá como objetivo la dignificación de los planteles educativos y la paulatina superación de las desigualdades entre las escuelas en el estado, el cual recibirá presupuesto anual para mejoras, mantenimiento o equipamiento del plantel educativo y, en el caso de construcción deberá contar con asistencia técnica, de conformidad con los procedimientos establecidos en los lineamientos mencionados en el párrafo anterior y en cumplimiento de las disposiciones a las que alude este Capítulo.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+Sus integrantes serán electos al inicio de cada año lectivo mediante asamblea escolar en la que participen docentes, directivos, madres y padres de familia o tutores, además de estudiantes a partir del 4o. grado de primaria, de acuerdo con los lineamientos emitidos por la autoridad educativa federal.
 
-IV. Promover, concertar y desarrollar proyectos y acciones que impulsen la consolidación de la capacitación para el trabajo, educación media superior, preparatoria abierta, educación superior, ciencia y tecnología de Oaxaca;
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2021)</small>
 
-V. Promover y suscribir convenios con la Federación, Estados, Municipios y Organismos nacionales e internacionales públicos o privados, para el fortalecimiento del sector que coordina, conforme a la normatividad aplicable a la materia;
+ARTICULO 60 J.- En caso de emergencia sanitaria declarada por autoridad competente, la Secretaría de Educación, en coordinación con las autoridades sanitarias del estado y de los municipios, se encargará de implementar protocolos preventivos en materia de higiene escolar, que contengan los aspectos mínimos para prevenir el contagio de la emergencia sanitaria declarada.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+La Secretaría de Educación, en coordinación con los Servicios de Salud de Nayarit, mantendrá el control de higiene preventiva escolar y supervisará el cumplimiento de esas medidas al interior de los planteles educativos.
 
-VI. Realizar estudios sobre la demanda, cobertura, pertinencia y calidad de la educación media superior, preparatoria abierta, educación superior, ciencia y tecnología, propiciando su consolidación y desarrollo;
+En caso de que no se cumpla con los protocolos previamente señalados y priorizando la salud del alumnado, el inmueble será cerrado hasta que se cumpla con las disposiciones referidas.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REUBICADO, ANTES CAPÍTULO VII], P.O. 20 DE DICIEMBRE DE 2008)</small>
 
-VII. Establecer las políticas para la ampliación de la oferta educativa e incremento de la materia en las instituciones de educación media superior, preparatoria abierta, educación superior, ciencia y tecnología o sedes de capacitación para el trabajo de acuerdo a las prioridades establecidas en el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y en sus respectivos programas sectoriales,
+### CAPITULO VIII. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACIÓN DE CONOCIMIENTOS
 
-VIII. Elaborar y/o validar los estudios de factibilidad, previo aval de la Comisión Estatal para la Planeación y Programación de la Educación Media Superior y de la Comisión Estatal para la Planeación de la Educación Superior, en el ámbito de sus competencias;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+###### ARTICULO 61.
 
-IX. Gestionar y promover la obtención de recursos destinados al desarrollo y consolidación de la capacitación para el trabajo, educación media superior, preparatoria abierta, educación superior, ciencia y tecnología;
+Los estudios realizados dentro del Sistema Estatal, tendrán validez en toda la República, por formar este parte del Sistema Educativo Nacional. Las Instituciones del Sistema Educativo Estatal, expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos a las personas que hayan concluido estudios de conformidad con los requisitos establecidos en los planes y programas de estudio correspondientes, los cuales deberán registrarse en el Sistema de Información y Gestión Educativa.
 
-X. Coordinar la elaboración y supervisar la ejecución del Programa de Ciencia y Tecnología para el Estado de Oaxaca, conforme a lo señalado en la normatividad aplicable a la materia;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+###### ARTICULO 62.
 
-XI. Establecer los mecanismos de vinculación con el sector académico, instituciones de capacitación para el trabajo, educación media superior y superior, centros e institutos de investigación, así como con el sector productivo, públicos, privado y social, conforme a las perspectivas del desarrollo económico, social y cultural en el Estado de Oaxaca;
+Los estudios realizados en el extranjero podrán adquirir validez oficial, mediante su revalidación o equivalencia, siempre y cuando estén referidos a planes y programas de estudio del Sistema Educativo del Estado, y cumplan con las normas y criterios generales que determine la autoridad educativa federal.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+Las autoridades educativas e instituciones que otorguen revalidaciones y equivalencias promoverán la simplificación de dichos procedimientos, atendiendo a los principios de celeridad, imparcialidad, flexibilidad y asequibilidad. Además, promoverán la utilización de mecanismos electrónicos de verificación de autenticidad de documentos académicos.
 
-XII. Establecer y coordinar los programas de apoyo económico a través de becas y créditos que promuevan el desempeño académico para el ingreso, permanencia y egreso de los estudiantes de educación media superior y superior;
+Las revalidaciones y equivalencias emitidas, deberán registrarse en el Sistema de Información y Gestión Educativa.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+Las revalidaciones y equivalencias otorgadas en términos del presente artículo tendrán validez en toda la República.
 
-XIII. Resolver sobre el otorgamiento y retiro del reconocimiento de validez oficial de estudios a los particulares, que pretendan ofertar servicios de educación media superior y superior en el Estado, así como, para impartir capacitación para el trabajo,
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+###### ARTICULO 63.
 
-XIV. Conformar las bases de datos que permitan generar la información estadística para la consolidación del funcionamiento de la capacitación para el trabajo, educación media superior, preparatoria abierta, educación superior, ciencia y tecnología;
+La revalidación o convalidación de estudios podrá otorgarse por niveles educativos, por grados escolares, por asignaturas, por créditos académicos, por áreas y unidades de aprendizaje, según lo establezca la reglamentación respectiva.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-XV. Revalidar, convalidar u otorgar equivalencias de estudios para la educación media superior y superior de acuerdo a los lineamientos legales correspondientes;
+###### ARTICULO 64.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2015)</small>
+Los estudios realizados dentro del Sistema Educativo Estatal podrán, en su caso, declararse equivalentes entre sí por niveles educativos, grados o ciclos escolares, créditos académicos, asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva, facilitando el tránsito de educandos en el Sistema Educativo Nacional.
 
-XVI. Establecer y realizar los sistemas de control escolar de las instituciones públicas y particulares en capacitación para el trabajo, educación media superior, preparatoria abierta y educación superior;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2015)</small>
+###### ARTICULO 65.
 
-XVII. Expedir constancias, certificados de estudios, diplomas, títulos y grados académicos en el ámbito de su competencia, así como, validar títulos y grados académicos de servicios de educación normal y para la formación de docentes, y
+La Secretaría, aplicará los procedimientos establecidos por la autoridad educativa federal, para expedir certificados, constancias, diplomas o títulos a quienes acrediten los conocimientos parciales respectivos a determinado grado escolar de educación básica o terminales que correspondan a cierto nivel educativo, adquiridos en forma autodidacta, de la experiencia laboral o a través de otros procesos educativos.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2011)</small>
 
-XVIII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, la legislación federal y estatal, su Reglamento Interno y demás normatividad aplicable en la materia.
+### CAPITULO IX. DE LA CALIDAD DE LA EDUCACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
-### CAPÍTULO VI. DE LAS COMISIONES INTERSECRETARIALES
+###### ARTICULO 66.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+En el Estado de Nayarit, toda educación que se imparta, se promueva u ofrezca, deberá ser encaminada a la excelencia en su calidad, integrando los aspectos de equidad, pertinencia, relevancia, eficiencia y eficacia de sus programas y contenidos.
 
-###### ARTÍCULO 54.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
-A la Representación del Gobierno del Estado de Oaxaca en la Ciudad de México le corresponde el despacho de los siguientes asuntos:
+###### ARTICULO 67.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+Las instituciones del sistema educativo estatal, realizarán acciones que las vinculen y proyecten con la comunidad de que formen parte para elevar la calidad de la educación, para lo cual las autoridades educativas:
 
-I. Conducir las relaciones e imagen del Gobierno del Estado de Oaxaca en el Distrito Federal, representándolo oficialmente en todas sus gestiones que emprenda y suscribir los convenios, acuerdos y demás documentos en el que el Estado sea parte, previo acuerdo del Gobernador;
+I.- Tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+II.- Prestarán servicios educativos para atender a quienes abandonaron el sistema regular y se encuentran en situación de rezago educativo para que concluyan la educación básica y media superior, otorgando facilidades de acceso, reingreso, permanencia, y egreso a las mujeres;
 
-II. Iniciar las gestiones, enlaces, concertaciones y demás acciones que las dependencias, entidades, órganos desconcentrados y auxiliares que la Administración Pública estatal deban realizar con sus homólogas e iniciativa privada domiciliadas en el Distrito Federal, sin afectar el ejercicio de sus atribuciones;
+III.- Fortalecerán la educación especial y la educación inicial, incluyendo a las personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+IV.- Establecerán y fortalecerán los sistemas de educación a distancia;
 
-III. Coordinar, coadyuvar y controlar las acciones que realicen en el Distrito Federal, en el ámbito de sus respectivas competencias, las dependencias, entidades, órganos desconcentrados y auxiliares de la Administración Pública estatal;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+V.- Impulsarán programas y escuelas dirigidos a las madres y padres de familia o tutores, que les permitan dar mejor atención a sus hijas e hijos para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
 
-IV. Atender en representación del Gobierno del Estado y en coordinación con la instancia que corresponda, los asuntos que le planteen los oaxaqueños radicados en el Distrito Federal;
+VI.- Realizarán las demás actividades que permitan mejorar y ampliar la cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el artículo anterior;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-V. Coadyuvar en la promoción comercial, turística, artesanal, agropecuaria y tecnológica del Estado en el Distrito Federal, coordinándose con las instancias estatales y federales que correspondan;
+VII.- Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de las madres y padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestras y maestros;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-VI. Intervenir en lo relativo a foros, comisiones, congresos, conferencias, exposiciones y demás eventos que se realicen en el Distrito Federal y en los que deba participar el Gobierno del Estado; y
+VIII.- Establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-VII. Las demás que señalen las leyes, reglamentos y decretos.
+IX.- Fomentarán la educación sobre el cuidado y protección del medio ambiente, el equilibrio ecológico, así como la prevención del cambio climático, a efecto de que el crecimiento económico y social se realice en armonía con el aprovechamiento racional y sustentable de los recursos naturales, y
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 55.
+X.- Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria.
 
-El Gobernador del Estado podrá constituir comisiones intersecretariales, para el despacho de asuntos en que deban intervenir varias Secretarías.
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-Las Entidades de la Administración Pública Estatal podrán integrarse a dichas comisiones, cuando se trate de asuntos relacionados con su objeto.
+ARTICULO 67 BIS.- Las instituciones del Sistema Educativo Estatal, en el ámbito de su competencia, deberán cumplir con las siguientes obligaciones:
 
-###### ARTÍCULO 56.
+I.- Desarrollar sus actividades con estricto apego a los planes y programas de estudio establecidos por la autoridad educativa competente;
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+II.- Fomentar la cultura de respeto a la ley, los valores sociales y éticos, la igualdad, la equidad de género, la democracia, la justicia social, así como el respeto a los símbolos patrios;
 
-###### ARTÍCULO 57.
+III.- Garantizar la integridad física de los alumnos y docentes dentro de los Centros Escolares del Estado, adoptando para el caso los lineamientos y programas de protección civil y de emergencia escolar que establezcan las autoridades en la materia;
 
-(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2013)
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MARZO DE 2012)</small>
+IV.- En coordinación con las madres y padres de familia y los trabajadores de la educación, atender las recomendaciones, lineamientos, protocolos preventivos, medidas y disposiciones que en materia de higiene, prevención y tratamiento de enfermedades o padecimientos, emita la Secretaría de Salud, a efecto de garantizar el bienestar de los educandos y de los trabajadores de la educación;
 
-###### ARTÍCULO 58.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
 
-El Gobernador del Estado podrá constituir mediante acuerdo o decreto los gabinetes sectoriales o especializados que considere necesarios para el despacho de los asuntos en que deban intervenir las Dependencias y Entidades.
+V.- Impulsar la práctica de la actividad física y el deporte de conformidad con los planes y programas de estudio que al efecto se establezcan; así como, incluir como actividad extraescolar de nivel básico, la técnica deportiva del yoga, como una forma de activación física que ejercita cuerpo y mente, de conformidad con el ámbito competencial establecido en la materia.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+VI.- Desarrollar labores y programas tendientes a evitar la reprobación y la deserción escolar;
 
-Todos los gabinetes serán presididos por el Titular de la Secretaría General de Gobierno y en su ausencia los presidirá el servidor público que funja como Coordinador del Gabinete Sectorial o Especializado, debiendo recaer la coordinación, en el titular de la Dependencia u Órgano Auxiliar cabeza de Sector o en el titular de la Dependencia u Órgano Auxiliar cuya competencia se refiera a la especialidad del Gabinete.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+VII.- Implementar los lineamientos emitidos por las autoridades educativas locales y federales a efecto de detectar, prevenir y en su caso erradicar las conductas de acoso escolar en las instituciones educativas;
 
-El titular de la Secretaría Técnica del Titular del Poder Ejecutivo, fungirá como Secretario Técnico de los gabinetes sectoriales y especializados.
+VIII.- En coordinación con las autoridades competentes llevar a cabo acciones para evitar que al interior o en los alrededores de los planteles educativos se distribuyan o consuman drogas psicotrópicas, enervantes o sustancias adictivas. Las autoridades responsables de los Centros Educativos deberán denunciar ante las instancias legales correspondientes cualquier hecho en este sentido;
 
-En estos gabinetes podrán participar, a invitación expresa, los titulares o servidores públicos de otras dependencias o entidades, así como, los servidores públicos del orden federal y municipal, y actores de los sectores social y privado, cuando se trate de asuntos relacionados con su objeto.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-Los gabinetes podrán contar con grupos de trabajo para la realización de tareas específicas en las materias de su competencia.
+IX.- Promover el consumo de alimentos saludables, así como prohibir que las tiendas y cooperativas escolares comercialicen al interior de los centros educativos, alimentos y bebidas con bajo valor nutricional o que contengan ingredientes que favorezcan la aparición del sobrepeso y la obesidad en los alumnos;
 
-Los acuerdos o decretos de creación de los gabinetes establecerán las atribuciones de cada uno, así como los términos y condiciones en los que habrán de sesionar.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-## TÍTULO III. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
+X.- Atender las disposiciones contenidas en la presente Ley y demás ordenamientos legales que favorezcan la calidad de la educación y el bienestar integral de los educandos y trabajadores de la educación;
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
 
-###### ARTÍCULO 59.
+XI.- Organizar servicios permanentes de promoción y asesoría de educación para adultos y dará las facilidades necesarias a sus trabajadores y familiares para estudiar y acreditar la educación primaria, secundaria y media superior;
 
-La Administración Pública Paraestatal está integrada por Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos, así como, por las Entidades Auxiliares del Ejecutivo Estatal, integrándose éstas por los Consejos, Comisiones, Comités, Juntas, Patronatos y aquellas instituciones que por su naturaleza no estén comprendidas dentro de la Administración Pública Centralizada, a las que genéricamente se les denominará como Entidades, estarán reguladas por la Ley de Entidades Paraestatales del Estado de Oaxaca, sus decretos de creación y reglamentos respectivos.
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MARZO DE 2012)</small>
+XII.- Brindar cursos a los docentes y al personal que labora en los planteles de educación, sobre los derechos de los educandos y la obligación que tienen al estar encargados de su custodia, de protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación, y
 
-###### ARTÍCULO 60.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-Son Organismos Descentralizados los entes públicos creados por Ley o decreto del Congreso del Estado o por decreto del Gobernador del Estado, con personalidad jurídica y patrimonio propios, cualquiera que sea la denominación, estructura y forma de organización que adopten, siempre que no sean sociedades, asociaciones o fideicomisos, y su objeto preponderante sea la prestación de un servicio público o social, la protección, promoción, estudio o divulgación de un asunto de interés público o social, la explotación de bienes o recursos propiedad del Estado, la investigación científica, difusión de la cultura, impartición de la educación o la obtención y aplicación de recursos para fines de asistencia o seguridad social, en términos de la Ley de Entidades Paraestatales del Estado de Oaxaca y de las demás disposiciones aplicables.
+XIII.- Incluir en la educación especial la orientación a las madres y padres o tutores, así como también a las maestras y maestros y personal de escuelas de educación básica y media superior regulares que integren a los alumnos con necesidades especiales de educación.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
-### CAPÍTULO VII. DE LOS GABINETES SECTORIALES Y ESPECIALIZADOS
+###### ARTICULO 68.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+La promoción de la calidad es responsabilidad de todos los involucrados en el sistema educativo; por lo que para lograr tal propósito, se deberá atender a las siguientes prescripciones:
 
-### CAPÍTULO I. DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+I.- Que las madres y padres de familia o tutores envíen a sus hijas e hijos a la escuela de manera constante, desde el nivel preescolar y apoyen el esfuerzo de las maestras y maestros y educandos, para que se alcancen los objetivos del aprendizaje;
 
-###### ARTÍCULO 61.
+II.- Los trabajadores de la educación, así como las autoridades escolares, desarrollen su trabajo con responsabilidad, eficiencia, basado en competencias y desarrollo de habilidades, apegados siempre a una cultura de servicio;
 
-Se consideran Empresas de Participación Estatal, todas aquellas Entidades en las que el Gobierno del Estado aporte o sea propietario de un porcentaje de capital social, con autorización de la Legislatura del Estado, en términos de la Ley de Entidades Paraestatales del Estado de Oaxaca y de las demás disposiciones aplicables.
+III.- Que los niveles de dirección y supervisión realicen su función ofreciendo la asesoría pedagógica requerida en los centros escolares;
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MARZO DE 2012)</small>
+IV.- Las actividades de otras instituciones o áreas de la administración pública que involucren a las escuelas, se integren adecuadamente a los programas de trabajo de cada plantel, para que se realicen productivamente y enriquezcan el quehacer educativo;
 
-###### ARTÍCULO 62.
+V.- Se hagan públicos los resultados de exámenes de admisión, las evaluaciones y los proyectos escolares;
 
-Son Fideicomisos Públicos los que se establezcan por la Legislatura del Estado o por el Titular del Ejecutivo Estatal a través de decreto, que tengan como propósito auxiliar al Ejecutivo en la realización de actividades prioritarias, siendo fideicomitente único por parte del Gobierno del Estado, la Secretaría de Finanzas en representación del Titular del Poder Ejecutivo y se constituyan por la Administración Pública Estatal, con una estructura orgánica análoga a la de un Organismo Descentralizado, que permita considerar a la mayoría de su personal como servidores públicos del Estado y en cuyo Órgano de Gobierno participen dos o más dependencias u órganos auxiliares, correspondiendo al Ejecutivo la designación del Director, en términos de la Ley de Entidades Paraestatales del Estado de Oaxaca, Ley de Presupuesto y Responsabilidad Hacendaria y de las demás disposiciones aplicables.
+VI.- Se dé a conocer anualmente la información más relevante que describa la situación de la educación en el estado, así como las metas anuales y las medidas para combatir los rezagos e inequidades;
 
-Los Fideicomisos Emisores de Valores a que se refiere el capítulo I de la Ley de Deuda Pública Estatal y Municipal, así como, los fideicomisos que se constituyan como mecanismos de pago y/o garantía, o ambos, de obligaciones contraídas por los entes públicos a que se refiere el artículo 3 fracciones I, III y V de la Ley de Deuda Pública Estatal y Municipal, no serán considerados Fideicomisos Públicos, ni formarán parte de la Administración Pública Paraestatal, por lo que no les es aplicable lo previsto por la presente Ley, ni lo previsto por la Ley que regula los Fideicomisos con Participación Estatal.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MARZO DE 2012)</small>
+VII.- Se implementen procesos de mejora continua en todos los procesos del sistema educativo estatal, incluyendo a docentes, alumnos y madres y padres de familia, y
 
-### CAPÍTULO V. DE LOS CONSEJOS, COMISIONES, COMITÉS, PATRONATOS Y DEMÁS INSTITUCIONES DE CARÁCTER PÚBLICO
+VIII.- Los planteles de educación básica cuenten con proyecto escolar.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
-###### ARTÍCULO 63.
+###### ARTICULO 69.
 
-Los Consejos, Comisiones, Comités, Juntas, Patronatos y aquellas Instituciones de carácter público que por su naturaleza no estén comprendidas dentro de la Administración Pública Centralizada, son órganos colegiados, denominados Entidades Auxiliares del Ejecutivo Estatal, cuyo objeto es colaborar de modo temporal o permanente en el desempeño de determinadas tareas o asuntos de la Administración Pública Estatal, o la promoción o concertación de acciones entre los diferentes niveles de gobierno.
+Las autoridades educativas promoverán la participación de la sociedad en los procesos educativos, que tengan por objeto fortalecer y elevar la calidad de la educación que ofrezcan las instituciones públicas, así como ampliar la cobertura de los servicios educativos, de conformidad con los lineamientos que emita la autoridad educativa federal y la presente ley, así como su vinculación con el sector productivo y con los medios masivos de comunicación y difusión.
 
-Contarán con personalidad jurídica y autonomía de gestión; podrán ser creadas por Ley o decreto de la Legislatura Local o por decreto del Gobernador del Estado, siempre y cuando, los asuntos que les corresponda desempeñar no estén expresamente conferidos a otras Entidades; sus funciones serán rectoras o directivas, de representación, consultivas y de colaboración dentro de la Administración Pública Estatal y se podrán integrar en gabinetes sectoriales o especializados.
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2012)</small>
+###### ARTICULO 70.
 
-### CAPÍTULO VI. DEL DESARROLLO, CONTROL Y EVALUACIÓN
+El logro de la calidad educativa es responsabilidad de todos los involucrados en el sistema educativo.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2011)</small>
 
-###### ARTÍCULO 64.
+### CAPITULO X. DE LA VINCULACIÓN DE LA EDUCACIÓN CON LA CULTURA Y LOS MEDIOS DE COMUNICACIÓN
 
-Las Entidades, para su desarrollo y operación, deberán sujetarse a la Ley de Entidades Paraestatales del Estado de Oaxaca, Ley de Planeación del Estado de Oaxaca, al Plan Estatal de Desarrollo, a los programas sectoriales y regionales que deriven del mismo, a las directrices y políticas que en materia de programación y evaluación fijen en el ámbito de su competencia las Secretarías de Finanzas, de la Contraloría y Transparencia Gubernamental, el Comité Estatal de Planeación para el Desarrollo de Oaxaca, la Jefatura de la Gubernatura y el coordinador de sector, en el ámbito de sus respectivas competencias y de las demás disposiciones aplicables.
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+###### ARTICULO 71.
 
-###### ARTÍCULO 65.
+El sistema educativo estatal propiciará que en el proceso enseñanza aprendizaje se incorporen programas de fomento y difusión cultural que contribuyan al conocimiento y conservación de la identidad y el entorno.
 
-La Secretaría de la Contraloría y Transparencia Gubernamental, a través de su titular deberá fungir como Comisario para la vigilancia y control de las Entidades, pudiendo nombrar un suplente una vez instalado el Órgano de Gobierno.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-La Coordinadora de Sector, a través de su titular o el suplente del mismo, mediante su participación en los órganos de gobierno de las Entidades, podrá recomendar las medidas adicionales que estime pertinentes, sobre las acciones tomadas en materia de control y evaluación internos.
+###### ARTICULO 72.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2012)</small>
+La Secretaría establecerá directrices en materia de educación cultural y artística a través del diseño de esquemas curriculares y extracurriculares dirigidos a todos los involucrados del proceso educativo.
 
-## TÍTULO IV. DE LA PARTICIPACIÓN CIUDADANA
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2012)</small>
+###### ARTICULO 73.
 
-### CAPÍTULO ÚNICO
+Los medios de comunicación masiva, en el desarrollo de sus actividades, contribuirán al logro de las finalidades previstas por el artículo 6° de esta ley, conforme a los criterios establecidos en el artículo 16 de la Ley General.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-### CAPÍTULO II. DE LOS ORGANISMOS DESCENTRALIZADOS
+###### ARTICULO 74.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+Corresponde a la Secretaría, lo siguiente:
 
-###### ARTÍCULO 66.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-Con el propósito de fortalecer la Administración Pública Estatal, se establece en este Capítulo, la forma en que podrá vincularse la participación ciudadana con las acciones de las Dependencias y Entidades de la Administración Pública Estatal.
+I.- Vigilar el cumplimiento y efectuar las denuncias por las violaciones a la presente Ley;
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-###### ARTÍCULO 67.
+II.- Promover, ante las autoridades correspondientes, se le conceda tiempo en las estaciones de radio y televisión para la transmisión de programas de interés cultural y cívico, así como programas de contenido educativo, acordes a los fines del artículo 15 de la Ley General y con los fines señalados en el artículo 6 de la presente ley;
 
-Los Titulares de Dependencias y Entidades de la Administración Pública Estatal, podrán promover la formalización de la participación ciudadana en asuntos sustantivos de su competencia, a través de la constitución de organismos que actúen como instancias de análisis y opinión y que tengan como objeto, manifestar los intereses de la sociedad.
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2011)</small>
 
-Estos organismos podrán funcionar permanente o temporalmente y se integrarán con beneficiarios de los programas sociales y representantes de los sectores público, privado y social de la entidad, cuya actuación será en forma colegiada.
+III.- Solicitar a todo tipo de medios de comunicación y difusión masiva, tiempo y espacio para la difusión de los programas señalados y para dar a conocer a la sociedad comunicados de especial importancia en materia educativa, y
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2011)</small>
 
-###### ARTÍCULO 68.
+IV.- Solicitar, especialmente a los periódicos y revistas que circulen en la entidad, espacios gratuitos para fines similares.
 
-Los organismos de Participación Ciudadana sólo podrán crearse o extinguirse por decreto o acuerdo del Gobernador del Estado o por Ley, en el que se incluirán entre otros elementos, los siguientes:
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-I. Denominación;
+###### ARTICULO 75.
 
-II. Forma o estructura;
+El titular del Poder Ejecutivo del Estado mediante convenios de coordinación y colaboración, podrá promover en los medios de comunicación y difusión la divulgación de los fines y objetivos de la educación para inducir la participación corresponsable de la sociedad.
 
-III. Domicilio;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
-IV. Objeto y lineamientos a seguir conforme a su naturaleza;
+###### ARTICULO 76.
 
-V. Duración;
+La Secretaría deberá proporcionar la información necesaria para que la sociedad y en especial, las madres y padres de familia, se enteren con precisión y amplitud de los avances problemas o carencias de la actividad educativa en la entidad en sus diferentes niveles, en aspectos como la deserción, la eficiencia terminal, la reprobación, el aprovechamiento y otros de igual importancia.
 
-VI. Integración;
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
-VII. Organización interna, y
+###### ARTICULO 77.
 
-VIII. Forma de sesionar.
+Las instituciones educativas podrán realizar actividades escolares y extraescolares con la finalidad de orientar y fomentar en las personas una actitud analítica y reflexiva, en relación con los mensajes que difundan los medios de comunicación.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 69.
-
-El Decreto o Acuerdo de creación de los organismos de participación ciudadana, se publicarán en el Periódico Oficial del Gobierno del Estado y deberán contemplar genéricamente entre sus lineamientos a seguir, los siguientes:
-
-I. Ser órgano de análisis y opinión de la Administración Pública Estatal;
-
-II. Sugerir programas y acciones para la solución de problemas específicos que enfrenta la sociedad;
-
-III. Apoyar con creatividad y objetividad, las tareas de simplificación administrativa y de atención a las necesidades sociales;
-
-IV. Promover el bienestar, la productividad, la competitividad, el empleo, la estabilidad y el desarrollo integral de la sociedad;
-
-V. Presentar inconformidades, quejas o denuncias por la actuación indebida de servidores públicos, que obren en perjuicio de la sociedad; y
-
-VI. Enfatizar la prevención de problemas, a través de una permanente evaluación prospectiva de la problemática estatal, e impulsar reformas necesarias a nivel estatal que permitan descentralizar la toma de decisiones y unificar los esfuerzos de todos los sectores.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 70.
-
-En las Dependencias y Entidades de la Administración Publica Estatal, la dirección y coordinación de los organismos de participación ciudadana, podrán estar a cargo de un Consejo, Comisión, Asamblea General o su equivalente, el cual podrá constituir comités y subcomités técnicos o ejecutivos, para apoyar la supervisión de la marcha normal del órgano; contando con una contraloría social, la que se encargará de atender problemas de organización, vigilar el cumplimiento de los acuerdos tomados, establecer los criterios que deban orientar sus actividades, instrumentar las medidas de control necesarias para garantizar el cumplimiento de su objeto, supervisar y dar seguimiento a los programas sociales estatales.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-### CAPÍTULO III. DE LAS EMPRESAS DE PARTICIPACIÓN ESTATAL
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 71.
-
-Serán representantes del sector público estatal en los organismos de participación ciudadana, aquellos que determine el Gobernador del Estado.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 72.
-
-Los representantes de los sectores privado y social que integren este tipo de organismos, lo harán en forma honorífica, y en tal virtud, no podrán ser considerados como servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, y en ningún caso intervendrán en asuntos de materia política y electoral.
-
-Para los efectos del presente Título y su correspondiente Capítulo, podrá aplicarse en lo que corresponda y de manera supletoria la Ley del Consejo Consultivo del Estado, así como el Capítulo Séptimo de los Consejos Consultivos Ciudadanos, de la Ley de Participación Ciudadana para el Estado de Oaxaca en lo que corresponda y la Ley Reglamentaria del Apartado C, fracción VI, del Artículo 25 Constitucional, que expida en su momento el Congreso del Estado.
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2012)</small>
-
-## TÍTULO V. DE LA ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2012)</small>
-
-### CAPÍTULO ÚNICO. PROCEDIMIENTO DE LA ENTREGA-RECEPCIÓN
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 73.
-
-El año en que de conformidad con los periodos constitucionales ocurra la transmisión del Poder Ejecutivo, el Gobernador del Estado determinará la fecha en que los titulares de las Dependencias y Entidades de la Administración Pública Estatal, iniciarán el proceso para elaborar los expedientes relativos a la entrega de los asuntos que se les hayan encomendado, para lo cual deberán:
-
-I. Agilizar los programas que tengan fecha de terminación anterior a la de toma de posesión del Gobernador electo, para su oportuno cumplimiento;
-
-II. Señalar el estado que guardan los programas con fecha de terminación posterior a la toma de posesión del Gobernador Electo, así como sus antecedentes, procedimientos a seguir y en su caso, los motivos por los que se encuentre retrasado su avance, el estado financiero y los anexos que correspondan;
-
-III. Ordenar y actualizar el inventario de bienes a su cuidado;
-
-IV. Vigilar que las normas y trámites de las Dependencias y Entidades a su cargo se sigan aplicando las primeras y realizando los segundos; y
-
-V. Formular las actas de Entrega-Recepción.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 74.
-
-El Gobernador del Estado emitirá el reglamento que contendrá las normas y procedimientos a que se sujetará la Entrega-Recepción de las Dependencias y Entidades de la Administración Pública Estatal.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 75.
-
-Los servidores públicos al momento de terminar con su encomienda, deberán entregar la Dependencia o Entidad, a su cargo, mediante Acta de Entrega-Recepción, en los términos de la normatividad aplicable;
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 76.
-
-Los titulares de las Dependencias y Entidades, por acuerdo del Gobernador del Estado, informarán al Gobernador electo o a quienes éste designe, sobre el estado de los asuntos que tengan encomendados, realizando con ellos las reuniones de trabajo que se requieran.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 77.
-
-Las disposiciones del presente capítulo, también serán aplicables para el caso de que, por cualquier causa, ocurra relevo del cargo de Gobernador del Estado.
-
-T R A N S I T O R I O S
-
-PRIMERO.- La presente ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
-
-TERCERO.- En todos los casos en que por la aplicación de esta ley se modifique la estructura orgánica de la dependencia de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables.
-
-CUARTO.- Cuando una unidad administrativa se transfiera de una dependencia a otra, se hará incluyendo los recursos humanos, financieros y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
-
-QUINTO.- Se faculta a la Secretaría de Finanzas y a la de Administración, en el ámbito de sus respectivas facultades, para realizar las adecuaciones programáticas y presupuestales que deriven de las modificaciones a esta Ley.
-
-SEXTO.- Cuando en diversas disposiciones legales, se haga referencia a:
-
-La Coordinación General de Delegaciones de Gobierno, se entenderá que se refiere a la Coordinación General de Módulos de Desarrollo Sustentable;
-
-La Coordinación General del Comité de Planeación para el Desarrollo de Oaxaca, se entenderá que se refiere a la Secretaría de Finanzas, en lo que corresponde a las atribuciones en materia de planeación, programación y presupuestación; y se entenderá que se refiere a la Coordinación de Módulos de Desarrollo Sustentable en lo que respecta a las atribuciones de Desarrollo Social;
-
-La Secretaría de Obras Públicas, se entenderá que se refiere a la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
-
-La Secretaría de Cultura, se entenderá que se refiere a la Secretaría de las Culturas y Artes de Oaxaca;
-
-La Secretaría de Turismo y la Secretaría de Economía, se entenderá que se refieren a la Secretaría de Turismo y Desarrollo Económico;
-
-La Secretaría de Desarrollo Rural, se entenderá que se refiere a la Secretaría de Desarrollo Agropecuario, Forestal y Pesca.
-
-La Secretaría de la Contraloría, se entenderá que se refiere a la Secretaría de la Contraloría y Transparencia Gubernamental;
-
-El mismo criterio se aplicará para los titulares de dichas dependencias. Las obligaciones y derechos derivados de contratos; convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por virtud de esta ley cambian de denominación y sector, se entenderán subrogadas y contraídas por su correlativa.
-
-SÉPTIMO.- El Congreso del Estado contará con un término de noventa días para realizar las reformas a las leyes estatales que resulten pertinentes, para el cumplimiento de la presente ley.
-
-Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
-
-DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- San Raymundo Jalpan, Centro, Oax., 29 de noviembre de 2010.
-
-DIP. EUFROSINA CRUZ MENDOZA
-
-PRESIDENTA.
-
-DIP. ZORY MARYSTEL ZIGA MARTÍNEZ
-
-SECRETARIA.
-
-DIP. ANGELA HERNÁNDEZ SOLÍS
-
-SECRETARIA.
-
-Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Tlalixtac de Cabrera, Centro, Oax., a 01 de diciembre del 2010.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
-
-LIC. GABINO CUE MONTEAGUDO.
-
-EL SECRETARIO GENERAL DE GOBIERNO
-
-DR. EVENCIO NICOLÁS MARTÍNEZ RAMÍREZ.
-
-Y lo comunico a usted, para su conocimiento y fines consiguientes.
-
-SUFRAGIO EFECTIVO. NO REELECCION.
-
-"EL RESPETO AL DERECHO AJENO ES LA PAZ"
-
-Tlalixtac de Cabrera, Centro, Oax., a 01 de diciembre del 2010.
-
-EL SECRETARIO GENERAL DE GOBIERNO
-
-DR. EVENCIO NICOLÁS MARTÍNEZ RAMÍREZ.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 10 DE MARZO DE 2012.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. Los actos jurídicos y administrativos suscritos por el COPLADE se refieren al Comité de Planeación para el Desarrollo del Estado de Oaxaca. La Coordinación General del COPLADE se refiere a la Secretaría de Finanzas, en su área de planeación, programación y presupuesto.
-
-Los actos jurídicos y administrativos suscritos en lo que corresponde a las atribuciones del Coordinador de dicho Comité, se entenderá que se refieren al Secretario de Finanzas y en lo que corresponde a las del Secretario Técnico, al Subsecretario que corresponda en la estructura de la Secretaría de Finanzas; Secretaría y Subsecretaría a quienes se deberán transferir los recursos materiales y financieros con que operaba el COMITÉ ESTATAL DE PLANEACIÓN PARA EL DESARROLLO DE OAXACA, que se instaló por Acta de fecha doce de enero de dos mil once, que por este Artículo transitorio debe perfeccionar su integración conforme a lo ordenado en el capítulo y artículos que lo regulan en esta Ley.
-
-El Comité Estatal de Planeación para el Desarrollo de Oaxaca, deberá expedir su Reglamento Interior, los manuales de organización y procedimientos, dentro de los noventa días hábiles siguientes a la entrada en vigencia de la presente Ley.
-
-Por lo que respecta a las atribuciones de Desarrollo Social, los actos jurídicos y administrativos suscritos por la Coordinación General de Módulos de Desarrollo Sustentable, se entenderá que se refieren a la Secretaría de Desarrollo Social y Humano, a quien se transferirán los recursos materiales, financieros y humanos con los que venía operando la Coordinación General de Módulos de Desarrollo Sustentable que por esta Ley cambia de denominación a Módulos de Desarrollo Social.
-
-Atento a lo anterior, se faculta a las Secretarías de Administración, Finanzas, y de la Contraloría y Transparencia Gubernamental, para que realicen todos los trámites necesarios para cumplir con el presente transitorio.
-
-Cuando en diversas disposiciones legales, se haga referencia a:
-
-La Coordinación General de Módulos de Desarrollo Sustentable, se entenderá que se refieren a la Secretaría de Desarrollo Social y Humano, a quien se transferirán los recursos materiales, financieros y humanos con los que venía operando la Coordinación General de Módulos de Desarrollo Sustentable que por esta Ley cambia de denominación a Módulos de Desarrollo Social.
-
-La Coordinación General de Transporte del Estado de Oaxaca y todos los recursos materiales, financieros y humanos que por decreto venía ejerciendo se deberán transferir a la Secretaría de Vialidad y Transporte que por esta Ley se crea; por lo que se faculta a las Secretarías de Administración, Finanzas, y de la Contraloría y Transparencia Gubernamental, para que realicen todos los trámites necesarios para cumplir con el presente transitorio.
-
-Los módulos de maquinaria que por estructura pertenecen a la Coordinación General de Módulos de Desarrollo Sustentable, que por esta Ley cambia de denominación a Módulos de Atención Social, pasan a formar parte de la estructura de Caminos y Aeropistas de Oaxaca, por lo que se faculta a las Secretarías de Administración, Finanzas y de la Contraloría y Transparencia Gubernamental, para que realicen todos los trámites necesarios para cumplir con el presente ordenamiento.
-
-La Coordinación General de Comunicación Social del Poder Ejecutivo del Gobierno del Estado, adscrita a la Gubernatura y los recursos materiales, financieros y humanos con que venía operando, se transfieren al área de Comunicación Social de la Jefatura de la Gubernatura, facultándose a las Secretarías de la Contraloría y Transparencia Gubernamental, Administración y Finanzas, para que lleven a cabo los actos necesarios para la extinción y la transferencia, ordenados en este transitorio, de igual manera los actos jurídicos y administrativos realizados por la Coordinación General de Comunicación Social del Poder Ejecutivo del Gobierno del Estado, se entenderán que se refieren a la Jefatura de la Gubernatura.
-
-Los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Dirección General de Notarías y el Archivo General de Notarías, se transfieren a la Consejería Jurídica del Gobierno del Estado, por esta razón los actos jurídicos y administrativos suscritos por estas unidades administrativas adscritas a la Secretaría General de Gobierno, en lo subsecuente se entenderán que se refieren a los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Dirección General de Notarías y el Archivo General de Notarías, dentro de la estructura de la Consejería Jurídica del Gobierno del Estado.
-
-Por lo que todos los recursos materiales, financieros y humanos con que venían operando dentro de la estructura de la Secretaría General de Gobierno se deberán transferir a la Consejería Jurídica del Gobierno del Estado; por lo que se faculta a las Secretarías de Administración, Finanzas, y de la Contraloría y Transparencia Gubernamental, para que realicen todos los trámites necesarios para cumplir con el presente transitorio.
-
-El Jefe de la Oficina de la Gubernatura, se entenderán que se refiere al Órgano Auxiliar denominado Jefatura de la Gubernatura, que por esta Ley cambia de denominación.
-
-La Coordinación General de Financiamiento y Vinculación Internacional, se entenderán que se refieren al órgano auxiliar denominado Coordinación General de Asuntos Internacionales, que por esta Ley cambia de denominación.
-
-La Secretaria de Desarrollo Agropecuario, Forestal y Pesca, se entenderán que se refieren a la Secretaria de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura, que por esta Ley cambia de denominación.
-
-La Coordinación General de Educación Media Superior, Superior, Ciencia y Tecnología, se entenderán que se refieren al órgano auxiliar denominado Coordinación General de Educación Media Superior y Superior.
-
-La Coordinación General de Asesores se entenderá que se refieren a la Unidad administrativa correspondiente, adscrita a la Oficina del Gobernador.
-
-TERCERO. Los asuntos que con motivo de esta Ley deban pasar de una Dependencia o Entidad a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la Dependencia, o Entidad que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
-
-Cuando en esta Ley se dé una denominación nueva o distinta a alguna Dependencia o Entidad cuyas funciones estén establecidas por ley anterior, dichas atribuciones se entenderán concedidas a la Dependencia o Entidad que determine esta Ley y demás disposiciones relativas.
-
-CUARTO. Se faculta al Titular de la Secretaría de Finanzas para que, en términos de lo establecido en la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, y su Reglamento, así como, en el Decreto que autoriza el Presupuesto de Egresos del Estado de Oaxaca para el ejercicio fiscal dos mil doce, realice los ajustes presupuestales que correspondan, para dar cumplimiento al presente Decreto, informando a la Legislatura del Congreso del Estado, para los efectos legales conducentes.
-
-QUINTO. En todos los casos que por la aplicación de esta Ley se modifique la estructura orgánica de las Dependencias y Entidades o Unidades Administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables de la materia.
-
-SEXTO. Cuando una Unidad Administrativa se transfiera de una Dependencia a otra, se hará incluyendo los recursos humanos, financieros y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, de Administración, y de la Contraloría y Transparencia Gubernamental.
-
-SÉPTIMO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación de éste Decreto. De igual manera, se faculta para que dichas Secretarías realicen los cambios que se susciten de las estructuras de los órganos que por esta Ley se creen o extingan.
-
-OCTAVO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por esta Ley cambian de denominación y sector o se extinguen y transfieren sus recursos humanos, materiales y financieros a otras áreas o unidades, se entenderán subrogadas y contraídas por sus correlativas.
-
-NOVENO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las dependencias cuyas funciones se reforman por virtud de esta Ley, se entenderán referidas a las Dependencias a quienes, respectivamente, correspondan tales funciones.
-
-DÉCIMO. Los recursos humanos, financieros y materiales con que cuenten las áreas administrativas de las Dependencias, cuyas funciones se transfieren, por esta Ley, a otras Dependencias, pasarán a formar parte de éstos, a fin de apoyar el cumplimiento de los programas y metas que les corresponden.
-
-DECIMO PRIMERO. El Poder Ejecutivo realizará las reformas a la normatividad aplicable, para el cumplimiento de la presente Ley.
-
-DÉCIMO SEGUNDO. Para dar cumplimiento a la modernización administrativa en materia registral, el Titular del Poder Ejecutivo a la brevedad posible, instrumentará las medidas pertinentes y necesarias para que la Dirección del Registro Público de la Propiedad y del Comercio y el Instituto Catastral del Estado de Oaxaca, se fusionen en el Instituto Registral y Catastral de Oaxaca, como Órgano Descentralizado de la Administración Pública Estatal.
-
-DÉCIMO TERCERO. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
-
-P.O. 27 DE DICIEMBRE DE 2012.
-
-ÚNICO.- El presente Decreto entrara en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 8 DE NOVIEMBRE DE 2013.
-
-PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. El Ejecutivo del Estado deberá expedir las actualizaciones a las estructuras de las Dependencias, en un plazo de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto.
-
-Asimismo las actualizaciones a los reglamentos internos de las Dependencias, cuyas atribuciones se reforman o adicionan por este Decreto, deberán ser publicadas en un plazo de ciento sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto. Entre tanto, seguirán vigentes los reglamentos aplicables, en lo que no se opongan a esta Ley.
-
-TERCERO. La Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, se constituirá con los recursos humanos, materiales y financieros de las áreas del Poder Ejecutivo del Estado, que dentro del plazo máximo de treinta días determine la Secretaría de Administración, lo que deberá constar en el acta de entrega recepción, así mismo, se transferirán los asuntos que se encuentren en trámite concernientes a la Coordinación General, por lo que los mismos se entenderán hasta su conclusión con ésta Coordinación.
-
-CUARTO. Los instrumentos jurídicos y asuntos en trámite que venía desarrollando la Coordinación General de Asuntos Internacionales se entenderán y se continuarán con la Jefatura de la Gubernatura, en lo que corresponda a la vinculación diplomática y las relaciones internacionales; y con la Secretaría de Turismo y Desarrollo Económico en lo que se refiere a las relaciones comerciales y la vinculación para la gestión de fondos, asesoría técnica y cooperación tecnológica a nivel nacional e internacional.
-
-Los instrumentos jurídicos y asuntos en trámite que venía desarrollando el área administrativa de la Secretaría de Seguridad Pública, denominada Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública, se entenderán y se continuarán con el Órgano Desconcentrado de la Secretaría General de Gobierno, denominado Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
-
-Los instrumentos jurídicos y asuntos en trámite que venía desarrollando el área administrativa de la Secretaría de Administración, denominada Dirección del Archivo General del Estado, que por este Decreto cambia de denominación, se entenderán y se continuarán con el área administrativa de dicha Secretaría denominada Archivo Histórico del Estado.
-
-QUINTO. Los recursos materiales, financieros y humanos de la Secretaría de Seguridad Pública, destinados para la operación del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública, se transfieren al Órgano Desconcentrado de la Secretaría General de Gobierno, denominado Secretariado Ejecutivo del Sistema Estatal de Seguridad Publica.
-
-Las Secretarías de Finanzas, de Administración, y de la Contraloría y Transparencia Gubernamental, normarán y coordinarán el proceso de entrega recepción conforme al ámbito de su competencia, normatividad vigente y dentro de los plazos establecidos por la misma.
-
-SEXTO. La emisión de manuales y demás normatividad requerida para la implementación y operación de las Delegaciones de la Contraloría y Transparencia Gubernamental, a que se refiere la fracción XXXII del artículo 47 del presente Decreto, deberá realizarse dentro de los 90 días naturales siguientes a la entrada en vigor de la presente Ley.
-
-Las Dependencias que hayan sido modificadas por este Decreto, en sus atribuciones y estructuras organizacionales, deberán contemplar en sus programas operativos anuales, para el ejercicio fiscal 2014, dichas modificaciones, en coordinación con las Secretarías de Finanzas, de Administración, y de la Contraloría y Transparencia Gubernamental, en el ámbito de sus respectivas competencias.
-
-Tratándose de las Secretarías General de Gobierno, de Desarrollo Social y Humano, del Trabajo, y de Seguridad Publica, deberán de realizar las modificaciones a sus programas operativos anuales y presupuestos, así como, las transferencias de personal y bienes, a más tardar el último día hábil del ejercicio fiscal 2013.
-
-SÉPTIMO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las dependencias cuyas funciones se reforman por virtud de este Decreto se entenderán referidas a las dependencias a quienes, respectivamente, correspondan tales funciones.
-
-OCTAVO. En un plazo no mayor a 30 días la Secretaría del Trabajo elaborará los instrumentos jurídicos necesarios para recepcionar del Instituto de Capacitación para el Trabajo, el Servicio Nacional de Empleo Oaxaca, en cumplimiento a la fracción V del artículo 39 del presente ordenamiento.
-
-NOVENO. La Jefatura de la Gubernatura, deberá emitir en un plazo de 90 días naturales, contados a partir de la entrada en vigor del presente decreto, las normas y/o lineamientos, señalados en las fracciones IV y VI del artículo 50 del presente ordenamiento.
-
-DÉCIMO. Los derechos de los trabajadores de las áreas administrativas que con motivo de este Decreto se modifican o se transfieren a otra dependencia, se respetarán conforme a las disposiciones normativas aplicables.
-
-UNDÉCIMO. Las obligaciones y derechos derivados de los contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las Dependencias, Órganos Auxiliares y Áreas administrativas, que por este Decreto cambian de denominación y sector o se extinguen y transfieren sus recursos humanos, materiales y financieros a otras áreas o unidades, se entenderán subrogadas y contraídas por sus correlativos.
-
-DUODÉCIMO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
-
-P.O. 28 DE NOVIEMBRE DE 2013.
-
-PRIMERO. El presente Decreto entrará en vigor a al (sic) día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan o contravengan al presente Decreto.
-
-TERCERO. La Secretaría del Medio Ambiente y Recursos Naturales del Estado de Oaxaca deberá crearse e instalarse para iniciar sus operaciones, en el año 2016. La Secretaría de Finanzas del Gobierno del Estado implantará las medidas conducentes para prever en el Presupuesto de Egresos del Estado, las partidas correspondientes para la creación, instalación y operación de la Secretaría del Medio Ambiente y Recursos Naturales del Estado.
-
-CUARTO. La Secretaría de Administración del Estado, realizará las previsiones razonables, necesarias y pertinentes, para que el personal que labora en las diferentes dependencias y organismos de la Administración Pública del Estado, pasen a formar parte de la Secretaría del Medio Ambiente y Recursos Naturales, respetando sus derechos laborales.
-
-Los archivos, expedientes y mobiliario que tengan en resguardo las diferentes dependencias y organismos de la Administración Pública del Estado involucradas en la materia y ecológica ambiental, pasarán a formar parte del inventario de la Secretaría del Medio Ambiente y Recursos Naturales del Estado de Oaxaca.
-
-QUINTO. En tanto la Secretaría del Medio Ambiente y Recursos Naturales del Estado es creada e instalada, las Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura, seguirá ejerciendo las funciones que establece el artículo 44 en su fracción XXIII de esta Ley.
-
-SEXTO. En tanto la Secretaría del Medio Ambiente y Recursos Naturales del Estado es creada e instalada, las Secretarías y/o entidades involucradas en la materia ecológica y ambiental, seguirán ejerciendo sus facultades de acuerdo a las competencias distribuidas por la Ley Orgánica del Poder Ejecutivo del Estado. EI Instituto Estatal de Ecología y Desarrollo Sustentable de Oaxaca seguirá ejerciendo sus atribuciones conforme a lo establecido por la Ley que lo crea y la Ley del Equilibrio Ecológico del Estado de Oaxaca.
-
-P.O. 27 DE DICIEMBRE DE 2014.
-
-ÚNICO. El presente Decreto entrará en vigor el uno de enero del dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 2 DE ENERO DE 2015.
-
-ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 22 DE ABRIL DE 2015.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. Cuando en diversas disposiciones legales, se haga referencia a:
-
-La Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura (SEDAFPA), se entenderá que se refiere a la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura (SEDAPA).
-
-El mismo criterio se aplicará al nombrar al titular de dicha dependencia. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por la dependencia que por virtud de esta Ley cambian de denominación, se entenderán subrogadas y contraídas por la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura.
-
-TERCERO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
-
-CUARTO. El Congreso del Estado contará con un término de sesenta días para realizar las reformas a las leyes estatales que resulten pertinentes, para el cumplimiento del presente Decreto a partir de su entrada en vigor.
-
-P.O. 31 DE DICIEMBRE DE 2015.
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 78.
 
@@ -3167,9 +1563,9 @@ Las autoridades educativas, del nivel básico y nivel medio superior y superior,
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO IX], P.O. 27 DE JULIO DE 2011)
 
-### CAPÍTULO IV. DE LOS FIDEICOMISOS PÚBLICOS
+### CAPITULO XI. DE LAS INFRACCIONES, LAS SANCIONES Y EL RECURSO ADMINISTRATIVO
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 66], P.O. 27 DE JULIO DE 2011)
 
 ###### ARTICULO 79.
 
@@ -3433,79 +1829,33 @@ P.O. 17 DE OCTUBRE DE 2015.
 
 P.O. 9 DE DICIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1386.- MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT”.]
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente hábil de su publicación en el Órgano de difusión oficial del Estado.
+Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+P.O. 21 DE SEPTIEMBRE DE 2016.
 
-P.O. 11 DE ABRIL DE 2016.
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT”.]
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1801.- MEDIANTE EL CUAL APRUEBA LA LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+P.O. 8 DE NOVIEMBRE DE 2016.
 
-SEGUNDO. Se abroga la Ley de Tránsito Reformada, publicada en el Periódico Oficial Órgano del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca, con fecha 5 de julio de 1969.
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 80 DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT”.]
 
-TERCERO. En tanto no se expida el Reglamento de la presente Ley, continuará en vigor, en lo que no se oponga, el Reglamento de la Ley de Tránsito Reformada del Estado de Oaxaca, publicado el 31 de marzo de 1973, en el Periódico Oficial del Gobierno del Estado.
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
-CUARTO. Los actos jurídicos y administrativos suscritos por la Dirección de Tránsito del Estado, se entenderán que se refieren a la Dirección de la Policía Vial Estatal, de la Secretaría de Segundad Pública, del Poder Ejecutivo del Estado de Oaxaca.
+P.O. 5 DE JUNIO DE 2019.
 
-QUINTO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por el Director de Tránsito del Estado, los Sub-Directores, Delegados Foráneos de Tránsito y Agentes de Policía de Tránsito que por esta Ley cambian de denominación, se entenderán subrogadas y contraídas por el Director de la Policía Vial Estatal, los Coordinadores, Jefes Operativos y Policías Viales Estatales, de la Dirección de la Policía Vial Estatal, respectivamente.
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XII DEL ARTÍCULO 9 DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT".]
 
-SEXTO. La Secretaría de Finanzas, la Secretaría de Seguridad Pública y la Secretaría de Administración, del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, en un plazo de 180 días, contados a partir de la entrada en vigencia de esta Ley, realizarán las adecuaciones administrativas, estructurales, programáticas y presupuestales, para el cumplimiento de la presente Ley.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
-SÉPTIMO. El Gobernador del Estado, en el ejercicio de sus facultades expedirá dentro del plazo de noventa días, contados a partir de la entrada en vigor de esta Ley, la reglamentación necesaria para la operación de la misma.
+SEGUNDO.- La Secretaría de Administración y Finanzas deberá realizar las adecuaciones presupuestarias necesarias a efecto de propiciar la operación óptima del Fondo de Vivienda para los Trabajadores de la Educación al Servicio del Estado a que hace referencia el presente Decreto.
 
-Hasta en tanto se expida el Reglamento de esta Ley, serán aplicables en lo conducente las disposiciones vigentes en la materia, en lo que no la contravengan.
+TERCERO.- En un plazo que no exceda de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Administración y Finanzas en coordinación con la Secretaría de Educación del Estado de Nayarit, deberá emitir el Reglamento correspondiente.
 
-OCTAVO. Se derogan todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan a la presente Ley.
-
-P.O. 15 DE OCTUBRE DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2049.- MEDIANTE EL CUAL SE DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
-
-TERCERO.- Se deroga toda disposición que se oponga a la presente reforma.
-
-P.O. 17 DE OCTUBRE DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2054.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
-
-SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-TERCERO.- Se abrogan los Decretos publicados el 23 de diciembre del 2000 y 20 de enero del 2011, en donde se crea y se reforma el Instituto de la Mujer Oaxaqueña, respectivamente.
-
-CUARTO.- Se abrogan los Decretos publicados el 22 de junio de 1996 y 3 de marzo del 2011, en donde se crea el Instituto Estatal de Ecología de Oaxaca y se modifica su denominación a Instituto Estatal de Ecología y Desarrollo Sustentable, respectivamente.
-
-QUINTO.- Los actos jurídicos y administrativos suscritos en lo que corresponden a las atribuciones de las extintas Secretaría del Trabajo y Secretaría de Turismo y Desarrollo Económico, se entenderán que se refieren en lo concerniente al contenido del presente Decreto, a las Secretarías General de Gobierno, de Economía y de Turismo respectivamente.
-
-Los actos jurídicos y administrativos suscritos en lo que corresponden a las atribuciones del extinto Instituto de la Mujer Oaxaqueña, se entenderán a la Secretaría de la Mujer Oaxaqueña.
-
-Los actos jurídicos y administrativos suscritos en lo que corresponden a las atribuciones del extinto Instituto Estatal de Ecología y Desarrollo Sustentable, se entenderán a la Secretaría del Medio Ambiente y Desarrollo Sustentable.
-
-SEXTO.- Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias y entidades que por este Decreto se extinguen, cambian de denominación y sector, la transferencia de sus recursos humanos, materiales y financieros, se entenderan subrogadas y contraidas por sus correlativas que se reforman o se crean en su caso.
-
-SÉPTIMO.- Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las dependencias o entidades cuyas funciones se reforman en virtud de este Decreto, se entenderán referidas a las dependencias a quienes respectivamente corresponden tales funciones.
-
-OCTAVO.- Los asuntos que con motivo de esta reforma deban pasar de una dependencia o entidad a otra, permanencerán (sic) en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia o entidad que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
-
-NOVENO.- El Titular del Poder Ejecutivo en un término no mayor de treinta días naturales a partir de la fecha de entrada en vigor del presente Decreto, publicará las adecuaciones reglamentarias necesarias de conformidad con la presente reforma.
-
-DÉCIMO.- Los recursos humanos, financieros y materiales deberán reasignarse de acuerdo a la naturaleza de sus atribuciones que la presente reforma mandata, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, de Administración y de la Contraloría y Transparencia Gubernamental.
-
-Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, para realizar los cambios en las estructuras de los órganos que por este Decreto se creen o extingan, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente decreto.
-
-En todos los casos que por la aplicación de este Decreto se modifique la estructura orgánica de las dependencias y entidades o unidades administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables de la materia.
-
-DÉCIMO PRIMERO.- Los recursos para llevar a cabo los programas y la implementación de las acciones que se deriven del presente Decreto, se cubrirán con cargo al presupuesto autorizado a las dependencias, entidades y órganos descentralizados del poder ejecutivo estatal.
-
-DÉCIMO SEGUNDO.- El presente Decreto deroga todas las disposiciones reglamentarias o administrativas, de igual o menor rango, que se opongan al presente Decreto.
+P.O. 5 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT".]
 
@@ -3560,3 +1910,17 @@ P.O. 7 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LAS FRACCIONES XLIII Y XLIV DEL ARTÍCULO 9°, Y SE ADICIONA LA FRACCIÓN XLV DEL ARTÍCULO 9° DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE ORIENTACIÓN VOCACIONAL Y PROFESIONAL".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Estado de Nayarit.
+
+P.O. 5 DE ABRIL DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA LA FRACCIÓN XVI DEL ARTÍCULO 6o. DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE RESPETO, APRECIO Y RECONOCIMIENTO A LA CAPACIDAD DE APORTACIÓN DE LAS PERSONAS ADULTAS MAYORES".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 16 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA LA FRACCIÓN XIII DEL ARTÍCULO 9 DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE BECAS A ALUMNOS DE ALTO RENDIMIENTO Y EN SITUACIÓN DE VULNERABILIDAD".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- En un plazo que no exceda de 90 días hábiles, se deberán realizar las modificaciones al reglamento respectivo, con el propósito de facilitar criterios de evaluación que permitan el acceso al sistema de becas.
