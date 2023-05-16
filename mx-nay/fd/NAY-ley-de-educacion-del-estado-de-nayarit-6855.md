@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2023-04-05"
+last_updated: "2023-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -377,7 +377,35 @@ XII.- Otorgar un salario profesional suficiente y las prestaciones básicas que 
 
 El Estado creará en coordinación con el Instituto Promotor de la Vivienda de Nayarit, el Fondo de Vivienda para los Trabajadores de la Educación al Servicio del Estado, en los términos del artículo 4º de la Constitución Federal;
 
-XIII.- De acuerdo con su capacidad presupuestal apoyar por medio de becas a los alumnos de todo nivel de pocas posibilidades económicas que demuestren óptimo aprovechamiento escolar;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MAYO DE 2023)</small>
+
+XIII.- De acuerdo con la disponibilidad presupuestal y sin afectar el balance presupuestario sostenible, apoyar por medio del sistema de becas a los alumnos de todos los niveles educativos considerando principalmente las siguientes modalidades:
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 16 DE MAYO DE 2023)</small>
+
+a) Inclusión.
+
+1. Alumnos de escasos recursos;
+
+2. Alumnos con discapacidad;
+
+3. Alumnos de pueblos originarios, y
+
+4. Alumnos en situación de vulnerabilidad.
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 16 DE MAYO DE 2023)</small>
+
+b) Alto rendimiento.
+
+1. Alto rendimiento académico o escolar;
+
+2. Alto rendimiento deportivo, y
+
+3. Alto rendimiento cultural, artístico, científico o tecnológico.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2023)</small>
+
+Lo anterior, sin limitar modalidades u otras condiciones que atiendan problemáticas sociales, de conformidad con los criterios de selección que al efecto establezca la autoridad educativa a través del Consejo Estatal de Becas como instancia responsable de coordinar la política estatal en materia de becas, a fin de evitar la discriminación, garantizar la igualdad sustantiva y abatir la deserción escolar, lo que podrá ser regulado en el reglamento respectivo;
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -1888,3 +1916,11 @@ P.O. 5 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA LA FRACCIÓN XVI DEL ARTÍCULO 6o. DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE RESPETO, APRECIO Y RECONOCIMIENTO A LA CAPACIDAD DE APORTACIÓN DE LAS PERSONAS ADULTAS MAYORES".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 16 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA LA FRACCIÓN XIII DEL ARTÍCULO 9 DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE BECAS A ALUMNOS DE ALTO RENDIMIENTO Y EN SITUACIÓN DE VULNERABILIDAD".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- En un plazo que no exceda de 90 días hábiles, se deberán realizar las modificaciones al reglamento respectivo, con el propósito de facilitar criterios de evaluación que permitan el acceso al sistema de becas.
