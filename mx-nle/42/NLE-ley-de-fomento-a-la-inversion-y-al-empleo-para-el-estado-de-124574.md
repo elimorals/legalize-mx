@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-inversion-y-al-empleo-para-el-estado-de-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2022-10-17"
+last_updated: "2023-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2023.
 
 Ley publicada en la Sección Cuarta Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -99,7 +99,13 @@ XXII. Secretaría: Secretaría de Economía y Trabajo;
 
 XXIII. Sectores Estratégicos: Aquellos que por su naturaleza y ubicación, el Consejo determine que son focos de inversión para el fomento de creación de empleo en el Estado de Nuevo León;
 
-XXIV. UMA: La Unidad de Medida y Actualización para la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en la presente Ley.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2023)</small>
+
+XXIV. UMA: La Unidad de Medida y Actualización para la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2023)</small>
+
+XXV. Perspectiva de género: Es una visión científica, analítica, política con metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres y los hombres, proponiendo eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género, promoviendo la igualdad entre los hombres y mujeres a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
 
 ###### Artículo 5.
 
@@ -183,9 +189,13 @@ En caso de ausencia del Presidente, será suplido por el Secretario Técnico y e
 
 El Consejo de Desarrollo Económico tendrá las siguientes atribuciones:
 
-I. Aprobar, modificar o rechazar la propuesta del programa anual de incentivos a la inversión y el empleo, elaborada por la Secretaría, para que, en su caso, sea sometida a consideración del Titular del Poder Ejecutivo, para su aprobación. En dicho programa se contemplarán las políticas públicas necesarias para elevar la competitividad en el Estado, sobre todo en aquellos sectores que el Consejo considere estratégicos;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2023)</small>
 
-II. Promover la participación de los sectores en la propuesta y diseño de políticas públicas en materia de desarrollo económico, y en específico la participación del sector privado en el desarrollo de infraestructura que fortalezca la economía y competitividad en el Estado;
+I. Aprobar, modificar o rechazar la propuesta del programa anual de incentivos a la inversión y el empleo, elaborada por la Secretaría, para que, en su caso, sea sometida a consideración del Titular del Poder Ejecutivo, para su aprobación. En dicho programa se contemplarán las políticas públicas con perspectiva de género necesarias, para elevar la competitividad en el Estado, sobre todo en aquellos sectores que el Consejo considere estratégicos;
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2023)</small>
+
+II. Promover la participación de los sectores en la propuesta y diseño de políticas públicas con perspectiva de género en materia de desarrollo económico, y en específico la participación del sector privado en el desarrollo de infraestructura que fortalezca la economía y competitividad en el Estado;
 
 III. Apoyar la instalación y expansión de nuevas empresas y para fortalecer las existentes en el Estado;
 
@@ -305,11 +315,25 @@ El Consejo Consultivo Ciudadano de la Secretaría que se establezca en los térm
 
 Adicionalmente a lo dispuesto por los tratados internacionales, ley de inversión extranjera, leyes fiscales estatales y municipales, así como en el Plan Estatal de Desarrollo, el Consejo en los términos de la presente Ley, podrá aprobar el otorgamiento de incentivos a la inversión nacional y extranjera, para la creación de nuevas empresas y fomentar el empleo para fortalecer e incrementar la capacidad de operación de las empresas ya existentes en el Estado, con el fin de seguir creando nuevas fuentes de empleo.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2023)</small>
 
 ###### Artículo 21 Bis.
 
-Para el otorgamiento de los incentivos contemplados en el artículo 27, fracción I, inciso a) de la presente Ley, el Consejo deberá dar preferencia a aquellas empresas de nueva creación denominadas empresa emergente o "Startups", y a aquellas empresas que dentro de su plantilla laboral tengan trabajadores de primer empleo, a personas adultas mayores, mujeres en situación de vulnerabilidad y a aquellas que tengan instaladas guarderías en sus empresas.
+Para el otorgamiento de los incentivos contemplados en el artículo 27, fracción I, inciso a) de la presente Ley, el Consejo deberá dar preferencia a:
+
+I. Empresas de nueva creación denominadas empresas emergentes o "Startups";
+
+II. Empresas que dentro de su plantilla laboral tengan:
+
+a) Trabajadores de primer empleo;
+
+b) Personas adultas mayores; y
+
+c) Mujeres en situación de vulnerabilidad.
+
+III. Empresas que tengan instaladas guarderías; y
+
+IV. Empresas creadas por mujeres emprendedoras.
 
 ###### Artículo 22.
 
@@ -727,6 +751,40 @@ VIII. Promover, en coordinación con el Consejo a nivel nacional e internacional
 
 Los agrupamientos empresariales estratégicos deberán presentar ante el Consejo un informe anual que contenga los resultados obtenidos a partir de la aplicación de los objetivos enunciados en el artículo anterior, así como las propuestas de mejora, colaboración y coordinación con la Secretaría.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE MAYO DE 2023)</small>
+
+### CAPÍTULO OCTAVO. LA POLÍTICA ESTATAL PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2023)</small>
+
+###### Artículo 51.
+
+Todas las acciones de fomento para el desarrollo económico que se realicen en el Estado se llevarán a cabo conforme a criterios de preservación, restauración, aprovechamiento sustentable de los recursos naturales y la biodiversidad, así como la prevención y mitigación del impacto ambiental.
+
+La política estatal para el desarrollo económico y la competitividad tendrá una visión de largo plazo con perspectiva de género y atenderá en todo momento las disposiciones de orden ambiental, laboral y social respetando y/o incorporando, entre otros criterios los siguientes:
+
+I. Los ordenamientos ecológicos territoriales;
+
+II. El uso eficiente de los recursos naturales;
+
+III. Los servicios ambientales;
+
+IV. La reducción del uso de recursos no renovables;
+
+V. La diversificación de la capacidad productiva;
+
+VI. El fortalecimiento de la actividad económica equilibrada, a nivel local y regional;
+
+VII. La distribución equitativa del ingreso;
+
+VIII. El desarrollo regional equilibrado;
+
+IX. Las tecnologías limpias;
+
+X. Los empleos verdes; y
+
+XI. Los niveles satisfactorios de educación y capacitación.
+
 T R A N S I T O R I O S
 
 Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
@@ -832,5 +890,13 @@ P.O. 17 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 233. SE REFORMAN LOS INCISOS A), B); Y SE ADICIONAN LOS INCISOS C), D), E) Y UN PÁRRAFO, RECORRIENDO LOS RESTANTES DE LA FRACCIÓN I DEL ARTÍCULO 27 DE LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La persona Titular del Poder Ejecutivo y el Consejo de Desarrollo Económico contarán con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
+
+P.O. 16 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 365. SE REFORMAN LA FRACCIÓN XXIV DEL ARTÍCULO 4, LAS FRACCIONES I Y II DEL ARTÍCULO 11, EL ARTÍCULO 21 BIS; Y SE ADICIONAN LA FRACCIÓN XXV AL ARTÍCULO 4, UN CAPÍTULO OCTAVO DENOMINADO “LA POLÍTICA ESTATAL PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD” CON EL ARTÍCULO 51, TODOS DE LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La persona Titular del Poder Ejecutivo y el Consejo de Desarrollo Económico contarán con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
