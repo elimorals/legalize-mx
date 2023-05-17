@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-caminos-del-estado-de-tamaulipas-66174"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-18"
-last_updated: "2021-09-08"
+last_updated: "2023-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE MAYO DE 2023 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 18 de noviembre de 2008.
 
@@ -65,15 +67,21 @@ a) Los que enlacen poblaciones de cualquier categoría dentro del territorio del
 
 b) Los que entronquen con carreteras federales o estatales;
 
-c) Los que en su totalidad o en su mayor parte sean construidos bajo la responsabilidad del Estado; mediante inversión o financiamiento público de cualquier tipo, federal o municipal o mediante concesión estatal a particulares; y
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
 
-d) Los que siendo originalmente federales, por convenio o algún acto jurídico similar sean transferidos a la jurisdicción del Estado.
+c) Los que en su totalidad o en su mayor parte sean construidos por el Estado, con fondos estatales o mediante concesión estatal a particulares; y
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
+
+d) Los caminos federales ubicados en el territorio del Estado, que sean desincorporados del dominio público de la Federación y sean transferidos a la jurisdicción del Estado.
 
 En los caminos y carreteras del Estado, el Ejecutivo dictará las disposiciones necesarias para que en los poblados, donde deban pasar los mismos, las calles y calzadas formen parte integrante del camino o carretera. A su vez, el Ejecutivo del Estado celebrará con las autoridades municipales los convenios para la conservación, reparación, reglamentación y vigilancia del tráfico en los tramos de camino o carretera comprendidos dentro de la superficie de territorio que ocupan.
 
 II. Derecho de vía: La franja de terreno que se requiere para la construcción, conservación, ampliación, protección y, en general, para el uso adecuado de una vía estatal de comunicación;
 
-III. Puentes: Los construidos bajo la responsabilidad del Estado con recursos estatales, federales o financiamientos de cualquier tipo o mediante concesión o permiso a particulares o municipios en los caminos y carreteras estatales;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2023)</small>
+
+III. Puentes estatales: Los construidos por el Estado con fondos estatales o mediante concesión a particulares o municipios, en los caminos y carreteras estatales.
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -89,13 +97,15 @@ VII. Vías estatales de comunicación: Los caminos, carreteras y puentes en tér
 
 Son parte integrante de las vías estatales de comunicación los terrenos necesarios para el derecho de vía, las obras, construcciones y demás bienes y accesorios que integran las mismas.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 5.
 
-1. A falta de disposición expresa en esta ley o en su reglamento, se aplicarán supletoriamente el Código Civil para el Estado, el Código para el Desarrollo Sustentable del Estado y el Código de Procedimientos Civiles del Estado.
+1. A falta de disposición expresa en esta ley o en su reglamento, se aplicarán supletoriamente el Código de Comercio, el Código Civil para el Estado, el Código para el Desarrollo Sustentable del Estado y el Código de Procedimientos Civiles del Estado.
 
-2. Para la licitación, sus excepciones y la adjudicación de las concesiones, en lo no previsto por esta ley, se aplicarán supletoriamente la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado y la Ley de Bienes del Estado y Municipios de Tamaulipas.
+2. Para la licitación, sus excepciones y la adjudicación de las concesiones, en lo no previsto por esta ley, se aplicarán supletoriamente la Ley de Bienes del Estado y Municipios de Tamaulipas y la Ley de Asociaciones Público Privadas para el Estado de Tamaulipas.
 
-3. Para declarar la revocación de las concesiones y permisos, suspensión de servicios y la imposición de las sanciones, la Secretaría se ajustará a los términos previstos en el título de concesión.
+3. Para declarar la revocación de las concesiones y permisos, suspensión de servicios y la imposición de las sanciones, la Secretaría se ajustará a los términos previstos en esta ley y en el título de concesión correspondiente.
 
 ### CAPÍTULO II
 
@@ -109,7 +119,9 @@ Jurisdicción y Competencia.
 
 I. Planear, formular y conducir las políticas y programas para el desarrollo de los caminos, carreteras, puentes y servicios que se requieran para el uso de los mismos;
 
-II. Construir, mejorar, conservar y aprovechar directamente los caminos, carreteras y puentes;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2023)</small>
+
+II. Construir, mejorar, conservar y explotar directamente los caminos, carreteras y puentes;
 
 III. Otorgar las concesiones y permisos a que se refiere esta ley, así como vigilar su cumplimiento y resolver sobre su revocación, terminación o prórroga, en su caso;
 
@@ -141,11 +153,17 @@ Concesiones y Permisos.
 
 ###### ARTÍCULO 8.
 
-1. Se requiere de concesión para construir, operar, aprovechar, conservar y mantener los caminos, carreteras y puentes de jurisdicción estatal, o cualquier clase de servicios conexos a éstas.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
 
-2. Las concesiones se otorgarán a mexicanos o sociedades constituidas conforme a las leyes mexicanas, en los términos que establezca esta ley y los reglamentos respectivos. Cuando se trate de sociedades, se establecerá en la escritura respectiva, que, para el caso de que tuvieren o llegaren a tener uno o varios socios extranjeros, éstos se considerarán como nacionales respecto de la concesión, obligándose a no invocar, por lo que a ella se refiere, la protección de sus gobiernos, bajo pena de perder, en beneficio del Estado, si así lo hicieren, todos los bienes que hubieren adquirido para construir, operar, aprovechar los caminos, carreteras o puentes de jurisdicción estatal.
+1. Se requiere de concesión para construir, operar, explotar, conservar y mantener los caminos, carreteras y puentes estatales.
 
-3. Las concesiones se otorgarán hasta por un plazo de treinta años, pudiendo ser prorrogadas por una sola vez hasta por un plazo equivalente al señalado originalmente, siempre que el concesionario hubiere cumplido con las condiciones impuestas y lo solicite durante la última quinta parte de su vigencia y, a más tardar, un año antes de su conclusión.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
+
+2. Las concesiones se otorgarán a mexicanos o sociedades constituidas conforme a las leyes mexicanas, en los términos que establezca esta ley y los reglamentos respectivos. Cuando se trate de sociedades, se establecerá en la escritura respectiva que, para el caso de que tuvieren o llegaren a tener uno o varios socios extranjeros, éstos se considerarán como nacionales respecto de la concesión, obligándose a no invocar, por lo que a ella se refiere, la protección de sus gobiernos, bajo pena de perder, en beneficio del Estado, si así lo hicieren, todos los bienes que hubieren adquirido para construir, operar, explotar los caminos, carreteras o puentes de jurisdicción estatal.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
+
+3. Las concesiones se otorgarán hasta por un plazo de treinta años. Este plazo podrá prorrogarse, en una o varias ocasiones, hasta por un plazo que, en conjunto, no sea superior a treinta años adicionales. La prórroga o prórrogas podrán otorgarse en cualquier momento a partir del primer tercio de vigencia de la concesión correspondiente, cuando a juicio de la Secretaría, se justifique la necesidad de realizar inversiones que no se hubiesen previsto en las condiciones originales de los títulos de concesión respectivos. También podrán ser prorrogadas, en cualquier momento durante su vigencia, cuando se presenten causas que lo justifiquen, no atribuibles a los concesionarios, entre los que se incluyan demoras en la liberación del derecho de vía. La prórroga de las concesiones a que se refiere este párrafo se otorgará siempre que los concesionarios hayan cumplido con las condiciones y obligaciones impuestas en los títulos de concesión.
 
 4. La Secretaría analizará y resolverá en definitiva respecto a las solicitudes de prórroga a que se refiere el párrafo anterior, dentro de un plazo de noventa días naturales contados a partir de la fecha de presentación de la misma debidamente requisitada y establecerá las nuevas condiciones de la concesión, para lo cual deberá considerar lo siguiente:
 
@@ -159,13 +177,17 @@ c) Las demás proyecciones financieras y operativas que considere la rentabilida
 
 5. Para otorgar las concesiones a las que el presente artículo se refiere, la Secretaría podrá solicitar el uso de materiales reciclados, así como el uso de energías renovables, y cualquier clase de medida sustentable que contribuya con la protección ambiental.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 9.
 
-El otorgamiento de concesiones para construir, operar, aprovechar, conservar y mantener caminos, carreteras y puentes de jurisdicción estatal o de los servicios conexos a los mismos, corresponde al Ejecutivo del Estado por conducto de la Secretaría, en los términos de esta ley.
+El otorgamiento de concesiones para construir, operar, explotar, conservar y mantener caminos, carreteras y puentes de jurisdicción estatal o de los servicios conexos a los mismos, corresponde al Ejecutivo del Estado por conducto de la Secretaría, en los términos de esta ley.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 10.
 
-Sin demérito de las atribuciones de otorgar concesiones conforme a esta ley, el Gobierno del Estado, podrá construir, operar, aprovechar, conservar y mantener caminos, carreteras o puentes de jurisdicción estatal por sí mismo, o conjuntamente con las autoridades federales o municipales.
+Sin demérito de las atribuciones de otorgar concesiones conforme a esta ley, el Gobierno del Estado, podrá construir, operar, explotar, conservar y mantener caminos, carreteras o puentes de jurisdicción estatal por sí mismo, o conjuntamente con las autoridades federales o municipales.
 
 ###### ARTÍCULO 11.
 
@@ -173,7 +195,9 @@ Sin demérito de las atribuciones de otorgar concesiones conforme a esta ley, el
 
 I. La Secretaría por sí o a petición del interesado, expedirá convocatoria pública para que, en un plazo razonable, y conforme a las bases de la misma, se presenten proposiciones en sobre cerrado, que será abierto el día señalado y en presencia de las personas interesadas que acudan al acto de recepción y apertura de ofertas.
 
-En su caso, los interesados en obtener la concesión o permiso para construir, operar, aprovechar, conservar y mantener los caminos, carreteras y puentes de jurisdicción estatal, o cualquier clase de servicios conexos a éstos, elevarán solicitud a la Secretaría, de conformidad con los preceptos de esta ley, acompañándola de los estudios técnicos y financieros, que justifiquen dicha petición, así como sobre la viabilidad del proyecto.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
+
+En su caso, los interesados en obtener la concesión o permiso para construir, operar, explotar, conservar y mantener los caminos, carreteras y puentes de jurisdicción estatal, o cualquier clase de servicios conexos a éstos, elevarán solicitud a la Secretaría, de conformidad con los preceptos de esta ley, acompañándola de los estudios técnicos y financieros, que justifiquen dicha petición, así como sobre la viabilidad del proyecto.
 
 Cuando exista la petición de un interesado en los términos establecidos por esta ley, la Secretaría, en un plazo que no excederá de noventa días naturales expedirá la convocatoria o señalará al interesado la ampliación del plazo o las razones de la improcedencia.
 
@@ -181,7 +205,9 @@ II. La convocatoria se publicará simultáneamente en el Periódico Oficial del 
 
 III. Las bases del concurso incluirán, como mínimo, las características técnicas de la construcción de la vía o el proyecto técnico, el plazo de la concesión, el lapso de ejecución, los requisitos de calidad de la construcción y operación, la modalidad y monto de las garantías. Los criterios para su otorgamiento serán, entre otros, los precios y las tarifas para el usuario, el tiempo de construcción, el proyecto técnico, en su caso, así como las contraprestaciones ofrecidas por el otorgamiento de la concesión;
 
-IV. En el concurso podrán participar uno o varios interesados que demuestren su solvencia económica y moral, así como su capacidad técnica, administrativa y financiera, y cumplan con los requisitos que establezcan las bases de la convocatoria que expida la Secretaría;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2023)</small>
+
+IV. En el concurso podrán participar uno o varios interesados que demuestren su solvencia económica, así como su capacidad técnica, administrativa y financiera, y cumplan los requisitos que establezcan la convocatoria y las bases de licitación que expida la Secretaría.
 
 V. A partir del acto de apertura de propuestas y durante el plazo en que las mismas se estudien y homologuen, se informará a todos los interesados de aquéllas que se desechen, y las causas principales que motiven tal determinación;
 
@@ -371,11 +397,13 @@ Construcción, Conservación y Explotación de los Caminos, Carreteras y Puentes
 
 El derecho de vía y las instalaciones asentadas en él no estarán sujetas a servidumbre.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 28.
 
-1. El Ejecutivo del Estado, por conducto de la Secretaría, podrá otorgar concesiones para construir, operar, aprovechar, conservar y mantener los caminos, carreteras y puentes de jurisdicción estatal, o cualquiera clase de servicios conexos a éstas, a los particulares o municipios, conforme al procedimiento establecido en la presente ley; así como para operar, mantener, conservar y aprovechar caminos, carreteras y puentes estatales construidos o adquiridos por cualquier título por el Gobierno del Estado. En este último caso, las concesiones no podrán ser por plazos mayores a veinte años. La Secretaría garantizará, cuando haya vías alternas, la operación de una libre de peaje.
+1. El Ejecutivo del Estado, por conducto de la Secretaría, podrá otorgar concesiones para construir, operar, explotar, conservar y mantener los caminos, carreteras y puentes de jurisdicción estatal, o cualquiera clase de servicios conexos a éstas, a los particulares o municipios, conforme al procedimiento establecido en la presente ley; así como para operar, mantener, conservar y explotar caminos, carreteras y puentes estatales construidos o adquiridos por cualquier título por el Gobierno del Estado. En este último caso, las concesiones no podrán ser por plazos mayores a veinte años. La Secretaría garantizará, cuando haya vías alternas, la operación de una libre de peaje.
 
-2. La construcción, operación, aprovechamiento, administración, mantenimiento y conservación de los caminos, carreteras y puentes estatales estarán sujetos a lo dispuesto por esta ley y su Reglamento, así como a las condiciones previstas en la concesión respectiva.
+2. La construcción, operación, explotación, administración, mantenimiento y conservación de los caminos, carreteras y puentes estatales estarán sujetos a lo dispuesto por esta ley y su Reglamento, así como a las condiciones previstas en la concesión respectiva.
 
 ###### ARTÍCULO 29.
 
@@ -477,7 +505,9 @@ IV. Cualquier otra infracción a lo previsto en la presente ley.
 
 ###### ARTÍCULO 37.
 
-1. Quien opere o aproveche caminos, carreteras y puentes estatales, sin haber obtenido previamente la concesión o permiso correspondiente de la Secretaría, perderá en beneficio del Estado, las obras ejecutadas y las instalaciones establecidas.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
+
+1. Quien opere o explote caminos, carreteras y puentes estatales, sin haber obtenido previamente la concesión o permiso correspondiente de la Secretaría, perderá en beneficio del Estado, las obras ejecutadas y las instalaciones establecidas.
 
 2. Una vez que la Secretaría tenga conocimiento de los hechos previstos en el párrafo anterior, mediante acuerdo fundado y motivado procederá al aseguramiento de las obras ejecutadas y las instalaciones establecidas, poniéndolas bajo la guarda de un interventor, con un inventario que al respecto se formule. Posteriormente al aseguramiento, se concederá un plazo de diez hábiles al presunto infractor para que presente las pruebas y defensas que estime pertinentes. Transcurrido dicho término, la Secretaría dictará la resolución fundada y motivada que corresponda.
 
@@ -560,6 +590,14 @@ Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, a
 P.O. 8 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-629 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO 5 AL ARTÍCULO 8 DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-577 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
