@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-de-la-ciudad-de-mexico-antes-109435"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-17"
-last_updated: "2022-03-31"
+last_updated: "2023-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109435&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-17"
 
 REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE MAYO DE 2023.
 
 Reglamento publicado en el No. Bis de la Gaceta Oficial del Distrito Federal, el lunes 17 de agosto de 2015.
 
@@ -2594,9 +2594,9 @@ III. Llamar a la aseguradora para hacer uso de su póliza de seguro de responsab
 
 IV. En caso de que en un hecho de tránsito sólo hubiere daños materiales a propiedad privada:
 
-> <small>(REFORMADO, G.O. 19 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2023)</small>
 
-a) Si todos los vehículos están en condiciones de circular, ninguno de los conductores presenta síntomas de estar bajo el influjo de alcohol o narcóticos, estupefacientes o psicotrópicos y no hubiera daños en bienes públicos, invariablemente, las partes moverán sus vehículos con el fin de liberar el tránsito en las vías afectadas a fin de no obstruir la circulación, en caso de que las partes no acaten la disposición se sancionará de conformidad con el artículo 34 fracción VI; y
+a) Si todos los vehículos están en condiciones de circular, ninguno de los conductores presenta síntomas de estar bajo el influjo de alcohol o narcóticos, estupefacientes o psicotrópicos y no hubiera daños en bienes públicos, invariablemente, las partes moverán sus vehículos con el objeto de liberar el tránsito en las vías afectadas a fin de no obstruir la circulación, así como salvaguardar su integridad física, y la seguridad vial de las demás personas usuarias de la vía. Asimismo, las Instituciones de Seguros contribuirán a informar a sus asegurados por los medios que consideren adecuados, la obligación de cumplir con esta disposición, sin que ésto afecte su derecho de reclamación por daños, en caso de que las partes no acaten la disposición, se sancionará de conformidad con el artículo 34 fracción VI de este Reglamento; y
 
 b) Si las partes no estuvieran de acuerdo con la forma de reparación de los daños, el agente procederá a remitir a los involucrados y sus vehículos ante la autoridad correspondiente.
 
@@ -3133,3 +3133,11 @@ G.O. 31 DE MARZO DE 2022.
 PRIMERO. - Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. - El presente decreto entrará en vigor el lunes 4 de abril de 2022.
+
+G.O. 17 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 54 DEL REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación.
