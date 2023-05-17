@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-seguridad-escolar-del-estado-y-96420"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2020-07-11"
+last_updated: "2023-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el sábado 12 de octubre de 2013.
 
@@ -49,7 +49,9 @@ LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOS
 
 La presente Ley es de orden público, interés social, y observancia general en el Estado y Municipios de San Luis Potosí. Su objeto es generar un ambiente de seguridad y orden en la comunidad escolar y su entorno, como base para el desarrollo de las actividades educativas y de los estudiantes, a través de la cultura de la paz, la prevención de la violencia y la reconstrucción del tejido social con programas y acciones específicos en la materia.
 
-Los programas y actividades relacionados con la prevención y seguridad escolar son de carácter obligatorio. Corresponde la aplicación de esta Ley a las autoridades estatales y municipales, así mismo, en lo que corresponda esta Ley aplica a organizaciones de los sectores público, privado y social, instituciones educativas, consejos escolares de participación social en la educación, comités de prevención y seguridad escolar, asociaciones de padres de familia y de estudiantes y, en general, para los habitantes de la Entidad.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
+
+Los programas, actividades y protocolos relacionados con la prevención y seguridad escolar son de carácter obligatorio. Corresponde la aplicación de esta Ley a las autoridades estatales y municipales, así mismo, en lo que corresponda a esta Ley aplica a organizaciones de los sectores público, privado y social, instituciones educativas, consejos escolares de participación social en la educación comités de prevención y seguridad escolar, asociaciones de padres de familia y de estudiantes y, en general, para los habitantes de la Entidad.
 
 ###### Artículo 2°.
 
@@ -245,7 +247,9 @@ I. El Gobernador del Estado;
 
 II. El Secretario de Seguridad Pública en el Estado;
 
-III. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2023)</small>
+
+III. La persona titular de la Fiscalía General del Estado;
 
 > <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
@@ -293,9 +297,11 @@ III. Auxiliar en las revisiones a que se refiere el artículo 33 de esta Ley, cu
 
 IV. Las demás atribuciones que sean necesarias a fin de cumplir el objeto de la presente Ley, expresado en el artículo 2° de la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2023)</small>
+
 ###### Artículo 11.
 
-Corresponde al Procurador General de Justicia del Estado:
+Corresponde a la persona Titular de la Fiscalía General del Estado;
 
 I. Aplicar la presente Ley con base a sus atribuciones;
 
@@ -499,7 +505,9 @@ IV. El Secretario de Salud;
 
 V. El Secretario de Cultura;
 
-VI. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2023)</small>
+
+VI. La persona titular de la Fiscalía General del Estado;
 
 > <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
@@ -607,7 +615,9 @@ I. Elaborar diagnóstico de riesgos del plantel, comunidad escolar y sitios aled
 
 II. Diseñar y aplicar medidas preventivas que propicien un entorno escolar sano y confiable para la educación, así como dar seguimiento a todas las acciones en la materia;
 
-III. Instrumentar un programa de medidas de seguridad y protección, atendiendo a las características especiales propias de cada centro escolar;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2023)</small>
+
+III. Instrumentar los protocolos de protección, prevención y seguridad escolar, atendiendo a las características especiales propias de cada centro escolar;
 
 IV. Fomentar, en la comunidad escolar, la cultura de la paz, y de denuncia ciudadana de aquellas acciones delictivas o contrarias a la legalidad;
 
@@ -713,11 +723,15 @@ XIV. Promocionar la cultura de la no violencia en todas sus formas;
 
 XV. Fomentar los principios fundamentales en derechos humanos;
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2023)</small>
 
-XVI. Solicitar a la Comisión Estatal de Derechos Humanos, previo cumplimiento de los requisitos que la misma Comisión establezca, el otorgamiento de la certificación como institución educativa libre de violencia escolar, y
+XVI. Solicitar a la Comisión Estatal de Derechos Humanos, previo cumplimiento de los requisitos que la misma Comisión establezca, el otorgamiento de la certificación como institución educativa libre de violencia escolar;
 
-XVII. Las demás acciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2023)</small>
+
+XVII. Vigilar que a partir del primer día del ciclo escolar se realicen las acciones de conocimiento, y
+
+XVIII. Las demás acciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
 
 ###### Artículo 30.
 
@@ -946,3 +960,11 @@ P.O. 11 DE JULIO DE 2020.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis.”
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0756.- SE REFORMAN LOS ARTÍCULOS 1°, PÁRRAFO SEGUNDO, 8° FRACCIÓN III, 11 PÁRRAFO PRIMERO, 21 FRACCIÓN VI, 28 FRACCIÓN III Y 29 FRACCIÓN XVI; Y ADICIONA AL ARTÍCULO 29 UNA FRACCIÓN, ÉSTA COMO XVII, DE LA LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
