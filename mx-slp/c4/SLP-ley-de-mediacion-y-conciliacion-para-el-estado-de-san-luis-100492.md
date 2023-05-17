@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-mediacion-y-conciliacion-para-el-estado-de-san-luis-1004
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-15"
-last_updated: "2021-06-10"
+last_updated: "2023-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 15 de abril de 2014.
 
@@ -873,11 +873,13 @@ En todos los casos se abrirá un expediente que se registrará como corresponda.
 
 En el auto de radicación, el Juez está obligado a notificar a las partes el derecho que tienen de acudir al Centro Estatal a efecto de tener acceso a los mecanismos alternativos de solución de la controversia, los cuales podrán aplicarse en cualquier momento del juicio hasta antes de que se dicte sentencia definitiva.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
+
 ###### Artículo 53.
 
-Si las partes deciden solucionar sus diferencias a través de algún mecanismo alternativo, deberán hacer del conocimiento del Juez, dicha circunstancia, y en los casos que así proceda, se invitará a las mismas para que acudan a dicho Centro a efecto de que se les de la información correspondiente, y una vez de que ambas partes acepten solucionar su conflicto ante el Centro, éste último notificará al Juez, para que decrete la suspensión del procedimiento, por un periodo que no exceda de cuarenta y cinco días, prorrogable por quince días más, siempre y cuando no se afecten los derechos de terceros, para que se lleve a cabo el procedimiento en el Centro Estatal.
+Si las partes deciden solucionar sus diferencias a través de algún mecanismo alternativo, deberán hacer del conocimiento de la Juez o el Juez, dicha circunstancia, y en los casos que así proceda, se invitará a las mismas para que acudan a dicho Centro Estatal a efecto de que se les de la información correspondiente, y una vez de que ambas partes acepten solucionar su conflicto ante el Centro Estatal, éste último notificará a la Juez o el Juez, para que decrete la suspensión del procedimiento, por un periodo que no exceda de cuarenta y cinco días, prorrogable por quince días más, siempre y cuando no se afecten los derechos de terceros, para que se lleve a cabo el procedimiento en el Centro Estatal.
 
-El Juez podrá denegar la suspensión por virtud de disposiciones de orden público o cuando sea necesaria para la protección de derechos de menores de edad e incapaces. Los mecanismos alternativos en sede judicial, no podrán aplicarse en tanto no se suspendan los procedimientos seguidos ante autoridades jurisdiccionales.
+La Juez o el Juez podrá denegar la suspensión por virtud de disposiciones de orden público o cuando sea necesaria para la protección de derechos de las niñas, niños y adolescentes e incapaces. Los mecanismos alternativos en sede judicial, no podrán aplicarse en tanto no se suspendan los procedimientos seguidos ante autoridades jurisdiccionales.
 
 ###### Artículo 54.
 
@@ -1091,13 +1093,17 @@ Se podrá dar intervención al mandatario en los casos en que, por razones espec
 
 Cuando se permita que una de las partes se presente acompañada de diversa persona, deberá informarse de esta circunstancia al otro participante, para que pueda hacer uso de similar derecho. El acompañante limitará su participación a brindar la orientación técnica o profesional que se requiera, absteniéndose de cualquier otra clase de intervención. El incumplimiento de esta disposición dará motivo a que el mediador o conciliador suspenda o dé por concluida la sesión respectiva.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
+
 ###### Artículo 89.
 
-Los menores de edad podrán ser oídos en los mecanismos alternativos siempre y cuando su intervención sea útil a juicio facilitador, y no resulte dañina para los menores su participación.
+Las niñas, niños y adolescentes podrán ser oídos en los mecanismos alternativos siempre y cuando su intervención sea útil a juicio de la persona facilitadora, y no resulte dañina para aquellos, su participación.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
 
 ###### Artículo 90.
 
-Los menores de edad podrán ser parte de los mecanismos alternativos, a juicio del facilitador y previa autorización de quienes tengan la patria potestad o la tutela, o en su caso, de las instancias legalmente facultadas para representarlos, con la intervención al Agente del Ministerio Público del Fuero Común.
+Las niñas, niños y adolescentes podrán ser parte de los mecanismos alternativos, a juicio de la persona facilitadora, y previa autorización de quienes tengan la patria potestad o la tutela, o en su caso, de las instancias legalmente facultadas para representarlos, con la intervención de la o el Agente del Ministerio Público del Fuero Común.
 
 ###### Artículo 91.
 
@@ -1420,6 +1426,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE JUNIO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1192.- SE DEROGA DE LOS ARTÍCULOS 14 LA FRACCIÓN II, 16 LA FRACCIÓN II, 18 LA FRACCIÓN III, 20 LA FRACCIÓN II Y 24 LA FRACCIÓN II, DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0758.- SE REFORMA (SIC) LOS ARTÍCULOS 53, 89 Y 90, DE LA LEY DE MEDIACIÓN Y CONCILIACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
