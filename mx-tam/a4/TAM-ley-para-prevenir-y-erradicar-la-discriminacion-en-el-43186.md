@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-43186"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2023-03-08"
+last_updated: "2023-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2023.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -70,6 +70,10 @@ Las disposiciones de esta ley son de orden público, de interés social y de obs
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
 2. Se considera discriminatoria toda ley o acto que, siendo de aplicación idéntica para todas las personas, produzca consecuencias perjudiciales para las personas en situación de vulnerabilidad.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2023)</small>
+
+3. Discriminación múltiple, se refiere a la situación en la que una persona o grupos de personas experimenta dos o más motivos de discriminación.
 
 ###### Artículo 5.
 
@@ -513,7 +517,9 @@ a) Elaborar, fomentar y difundir estudios sobre prácticas discriminatorias;
 
 b) Realizar estudios sobre ordenamientos jurídicos vigentes y alentar la formulación de iniciativas para la modificación de los preceptos que estime contrarios al tercer párrafo del artículo 1º de la Constitución Política de los Estados Unidos Mexicanos;
 
-c) Difundir y promover contenidos para prevenir y eliminar las prácticas discriminatorias en cualquier orden;
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
+
+c) Difundir y promover contenidos para prevenir y eliminar las prácticas discriminatorias en cualquier orden; así como la discriminación múltiple;
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -676,6 +682,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 8 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-543 MEDIANTE EL CUAL SE REFORMA EL NUMERAL 1, INCISOS J) Y K) DEL ARTÍCULO 11; Y SE ADICIONA UN INCISO L), AL ARTÍCULO 11, DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-576 MEDIANTE EL CUAL SE REFORMA EL NUMERAL 2, INCISO C) DEL ARTÍCULO 20; Y SE ADICIONA UN NUMERAL 3, AL ARTÍCULO 4 DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS.”]
 
 ###### ARTÍCULO ÚNICO.
 
