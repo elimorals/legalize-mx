@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-fiscalia-general-de-justicia-de-la-139605"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-24"
-last_updated: "2020-07-28"
+last_updated: "2023-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139605&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-12-23"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE MAYO DE 2023.
 
 Ley publicada en el Número 248 Bis de la Gaceta Oficial de la Ciudad de México, el martes 24 de diciembre de 2019.
 
@@ -806,11 +806,119 @@ IV. Las causas graves contempladas en la Ley de Responsabilidades Administrativa
 
 La persona Titular de la Jefatura de Gobierno deberá expresar las razones, justificar y acreditar la causa grave que motivó el inicio del proceso de remoción, e informará al Congreso de la Ciudad de México para que realice lo conducente, de conformidad con lo dispuesto en el artículo 65 de la Constitución Política de la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2023)</small>
+
 ###### Artículo 42.
 
 Ratificación
 
-La persona Fiscal General, podrá ser ratificada hasta por un periodo similar al de su nombramiento de cuatro años, debiéndose seguir el procedimiento que establece la Constitución Local, y el artículo 39 de esta ley.
+Las personas titulares de la Fiscalía General y de las Fiscalías Especializadas para la Atención de Delitos Electorales y de Combate a la Corrupción, podrán ser ratificadas hasta por un periodo igual al de su nombramiento, debiéndose seguir el procedimiento que establece la Constitución Local y esta ley.
+
+El proceso para la ratificación será el siguiente:
+
+I. El Consejo Judicial requerirá por escrito a la persona titular de la Fiscalía en funciones que corresponda para que manifieste si tiene interés en someterse al proceso de ratificación en el cargo;
+
+II. En caso negativo, se procederá en términos del artículo 120 de la Ley Orgánica del Congreso de la Ciudad de México;
+
+III. En caso de que la persona titular manifieste interés en someterse a proceso de ratificación, el Consejo Judicial deberá iniciar un proceso público y abierto de evaluación de su desempeño;
+
+Este proceso tiene por objeto recibir recomendaciones y opiniones sobre el desempeño de las personas titulares de cuya ratificación se trata. Asimismo, considerará las recomendaciones y opiniones sobre el desempeño, que emita el Consejo Ciudadano;
+
+IV. El Consejo Judicial entrevistará a la persona titular de la Fiscalía General, de la Fiscalía Especializada para la Atención de Delitos Electorales o de Combate a la Corrupción, según sea el caso, como elemento de la evaluación de su desempeño;
+
+V. Asimismo, el Consejo Judicial considerará lo siguiente:
+
+a) Los conocimientos y experiencia en el ámbito jurídico y de procuración de justicia;
+
+b) La información que la persona titular de la Fiscalía General haya presentado ante el Congreso, respecto del Plan de Política Criminal y del Programa de Persecución Penal durante su gestión, y
+
+c) La aplicación de estrategias y capacidad de administración y dirección institucional, diseño y ejecución de políticas de procuración de justicia y criminales, independencia en su actuación, con una visión de respeto y protección a los Derechos Humanos, a las víctimas y perspectiva de género.
+
+VI. Con base en el resultado de la evaluación, el Consejo Judicial emitirá opinión sobre la ratificación de la persona titular, con el voto de las dos terceras partes de las personas Consejeras, misma que será remitida a la persona Titular de Jefatura de Gobierno de la Ciudad de México, a más tardar en treinta días naturales a partir de que se haya constituido dicho Consejo Judicial;
+
+VII. La persona Titular de la Jefatura de Gobierno de la Ciudad de México, dentro de los siguientes quince días naturales a la recepción de la propuesta, la enviará al Congreso de la Ciudad de México, emitiendo su razonamiento sobre la idoneidad de la propuesta de ratificación;
+
+VIII. La Mesa Directiva del Congreso de la Ciudad de México, al recibir las recomendaciones y opiniones sobre la ratificación, dará trámite en lo conducente, conforme a lo dispuesto en el Título Décimo Primero de su Ley Orgánica, relativo a las designaciones, nombramientos y ratificaciones que establece, y
+
+IX. De no obtenerse la mayoría calificada en el Pleno del Congreso de la Ciudad de México para la aprobación de la ratificación, la Mesa Directiva notificará al Consejo Judicial, a efecto de que emita la convocatoria para el proceso de selección de la persona titular de la Fiscalía General, de las Fiscalías Especializadas para la Atención de Delitos Electorales o de Combate a la Corrupción, cuando corresponda.
+
+> <small>(ADICIONADO, G.O. 17 DE MAYO DE 2023)</small>
+
+Artículo 42 bis. El Consejo Judicial Ciudadano se instalará en los términos previstos en la Constitución Política de la Ciudad de México y la Ley Orgánica del Congreso de la Ciudad de México, a más tardar noventa días naturales antes de que concluya la gestión de la persona titular de la Fiscalía General o dentro de los treinta días hábiles que se requiera realizar un nombramiento ante la ausencia, falta temporal o absoluta de cualquiera de las personas titulares de la Fiscalía General o de las Fiscalías Especializadas para la Atención de Delitos Electorales y de Combate a la Corrupción.
+
+El Consejo Judicial para su organización y funcionamiento se sujetará a las siguientes bases:
+
+I. Para sesionar y adoptar acuerdos, de conformidad en el calendario de sesiones ordinarias o extraordinarias, o a solicitud de los consejeros, bastará la mayoría simple de las personas consejeras presentes en la sesión, salvo que se trate de aprobar la opinión de ratificación de la persona titular de la Fiscalía General, en cuyo caso se estará a lo dispuesto en la fracción VI del artículo 42 de esta Ley, o para aprobar la conformación de terna de la o el Fiscal General, caso en el cual se requerirá del voto de al menos las dos terceras partes de las personas consejeras, y
+
+II. Elegirá de entre sus integrantes a una persona encargada de la Presidencia y otra de la Secretaría Técnica del Consejo. El resto de las personas Consejeras serán vocales.
+
+Son facultades de la persona Consejera Presidente:
+
+a) Representar al Consejo Judicial ante toda clase de autoridades;
+
+b) Presidir las sesiones;
+
+c) Emitir convocatoria a sesionar;
+
+d) Declarar el inicio y el cierre de las sesiones, o la falta de quorum para sesionar;
+
+e) Decretar recesos en las sesiones cuando así fuere necesario;
+
+f) Adoptar las medidas conducentes para el desarrollo de las sesiones;
+
+g) Vigilar la aplicación del Reglamento de Operación y Funcionamiento del Consejo Judicial;
+
+h) Asistir a las sesiones con voz y voto; en caso de empate, la Presidencia tendrá voto de calidad;
+
+i) Declarar, en caso de fuerza mayor, la suspensión de la sesión, y
+
+j) Firmar los acuerdos que emita el Consejo Judicial.
+
+Son facultades de la persona Consejera Secretaria Técnica:
+
+a) Asistir a las sesiones con voz y voto;
+
+b) Registrar la asistencia de las personas consejeras a las sesiones;
+
+c) Declarar la existencia de quórum para sesionar;
+
+d) Elaborar el proyecto de Orden del Día;
+
+e) Remitir a las personas consejeras los documentos necesarios para el desarrollo de las sesiones;
+
+f) Elaborar el acta de las sesiones y recabar la firma de las personas consejeras;
+
+g) Tomar las votaciones de los acuerdos y dar a conocer el resultado de las mismas;
+
+h) Registrar e informar en las sesiones el avance en el cumplimiento de los acuerdos del Consejo Judicial;
+
+i) Certificar documentos que obren en poder del Consejo Judicial, y
+
+j) Compilar las actas de las sesiones y archivarlas.
+
+Son facultades de las personas Consejeras vocales:
+
+a) Asistir a las sesiones con voz y voto;
+
+b) Analizar los asuntos de la Orden del Día de las sesiones;
+
+c) Solicitar la inclusión de temas para el desarrollo de las sesiones y aportar la documentación necesaria para ello, con anticipación a la fecha programada para cada sesión;
+
+d) Hacer uso de la voz para expresar su posición respecto de los temas tratados en las sesiones, y
+
+e) Emitir su voto de manera libre, pudiendo razonar su voto y emitir voto particular o concurrente.
+
+III. El Consejo Judicial podrá sesionar de forma presencial o por vía remota, al menos una vez por semana;
+
+IV. La persona Consejera Presidente emitirá la convocatoria para la celebración de sesiones, cuando lo estime necesario, o, a solicitud de la mayoría simple de los integrantes del Consejo. La convocatoria será escrita y podrá ser notificada físicamente o por medios electrónicos;
+
+V. Las sesiones serán públicas y podrán transmitirse en los medios electrónicos que para tal efecto establezca el Consejo, serán videograbadas y entregadas al área competente del Congreso de la Ciudad de México y de la Fiscalía General para la difusión de las mismas en las plataformas de ambos entes.
+
+El Congreso de la Ciudad de México otorgará todos los elementos materiales, humanos, técnicos y financieros al Consejo Judicial para el desempeño de sus funciones;
+
+VI. Las personas consejeras no podrán designar suplentes para el desarrollo de las sesiones ni para la emisión de votos. En caso de falta absoluta de una o más personas consejeras, el Consejo Judicial podrá sesionar válidamente con al menos ocho integrantes, en cuyo caso se computarán las votaciones con base en el número de integrantes vigentes, y
+
+VII. El Consejo Judicial podrá celebrar sesiones ordinarias y extraordinarias; éstas últimas serán para casos urgentes y sólo se tratarán los asuntos sobre los cuales versó la convocatoria respectiva.
 
 ### Capítulo Tercero. Designaciones y suplencia
 
@@ -1908,7 +2016,9 @@ Facultades.
 
 El Consejo Ciudadano tendrá las siguientes facultades:
 
-I. Emitir recomendaciones públicas sobre el contenido e implementación del Plan de Política Criminal y del Programa de Persecución Penal, así como los programas anuales de trabajo y su implementación;
+> <small>(REFORMADA, G.O. 17 DE MAYO DE 2023)</small>
+
+I. Opinar, dar seguimiento y emitir recomendaciones públicas sobre el contenido e implementación del Plan de Política Criminal y del Programa de Persecución Penal, así como los programas anuales de trabajo y su implementación;
 
 II. Opinar sobre la creación de nuevas estructuras administrativas propuestas por La o El titular de la Fiscalía General;
 
@@ -2105,3 +2215,13 @@ Primero. El presente decreto entrará en vigor, el día siguiente al de su publi
 Segundo. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 Tercero. Remítase el presente decreto a la Jefa de Gobierno para sus efectos legales.
+
+G.O. 17 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 42 BIS; Y SE REFORMAN LOS ARTÍCULOS 42 Y 99, TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. - La emisión y modificación de las Reglas Operativas y de funcionamiento, se llevarán a cabo por los Presidentes del Consejo Ciudadano y Judicial respectivamente, con la aprobación de la mayoría de sus integrantes.
