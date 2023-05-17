@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asociaciones-publico-privadas-para-el-estado-de-124672"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-01"
-last_updated: "2021-07-14"
+last_updated: "2023-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2023.
 
 > <small>(F. DE E., P.O. DE 5 DE DICIEMBRE DE 2017)</small>
 
@@ -505,7 +505,9 @@ a) Cuando el plazo inicial máximo que establezca el ordenamiento que los regule
 
 b) Cuando la ley que rige la autorización establezca un plazo inicial máximo mayor al de treinta años, aplicará el plazo mayor; e
 
-c) Independientemente del plazo inicial por el que se otorgue la autorización, su duración, con las prórrogas que en su caso se otorguen conforme a la ley de la materia, no podrá exceder el plazo máximo señalado por dicha ley.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
+
+c) Cuando la ley que rige la autorización prevea la posibilidad de prórroga o prórrogas, la vigencia de la autorización y del Contrato podrá prorrogarse hasta por el plazo máximo previsto en dicha ley.
 
 ###### Artículo 34.
 
@@ -1029,9 +1031,13 @@ XVI. Los demás que, en su caso, establezca el Reglamento.
 
 Para efectos de la presente Ley, el contrato y sus anexos son los instrumentos que vinculan a las partes en sus derechos y obligaciones. Las estipulaciones del contrato no deberán contravenir los términos y condiciones de las bases del concurso y los señalados en las juntas de aclaraciones.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
+
 ###### Artículo 78.
 
-Los plazos de los contratos, con sus prórrogas, no deberán exceder, en su conjunto, de treinta años salvo lo dispuesto por el artículo 33, fracción II, de la Ley.
+El plazo inicial máximo de los Contratos será de treinta años. Este plazo podrá prorrogarse en una o varias ocasiones hasta por un plazo adicional máximo de otros treinta años.
+
+Lo anterior, sin perjuicio de lo que se establece en el artículo 33, fracción II, de esta ley.
 
 ###### Artículo 79.
 
@@ -1426,3 +1432,11 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-577 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
