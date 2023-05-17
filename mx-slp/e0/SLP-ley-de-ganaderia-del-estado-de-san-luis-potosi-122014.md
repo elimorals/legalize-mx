@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ganaderia-del-estado-de-san-luis-potosi-122014"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-20"
-last_updated: "2021-05-20"
+last_updated: "2023-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Gobierno del Estado de San Luis Potosí, el sábado 20 de mayo de 2017.
 
@@ -871,15 +871,25 @@ La SEDARH, en coordinación con las instituciones del sector, fomentarán en los
 
 Se consideran protegidas las áreas de terrenos dedicadas al pastoreo, y será obligatorio para los ganaderos del Estado:
 
-I. El manejo racional, la utilización adecuada, la conservación, la adaptación de terrenos para agostaderos, y el mejoramiento de los recursos naturales relacionados con la ganadería;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2023)</small>
+
+I. El manejo racional, la utilización adecuada, la conservación, la adaptación de terrenos para agostaderos, procurando conservar los linderos arbolados y el mejoramiento de los recursos naturales relacionados con la ganadería;
 
 II. El cumplimiento de la carga animal óptima respetando el coeficiente del agostadero;
 
 III. El mejoramiento de las áreas destinadas para el desarrollo de la ganadería, recuperación de praderas y agostaderos, introducción de especies que fortalezcan la capacidad de producción, y sean factor del equilibrio ecológico;
 
-IV. Las obras y construcciones para la conservación del suelo y agua, y
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2023)</small>
 
-V. El fomento de la educación, investigación y divulgación sobre la importancia y conservación de los recursos naturales, en el desarrollo económico de la ganadería y la preservación del medio ambiente y equilibrio ecológico.
+IV. Las obras y construcciones para la conservación del suelo y agua;
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2023)</small>
+
+V. El fomento de la educación, investigación y divulgación sobre la importancia y conservación de los recursos naturales, en el desarrollo económico de la ganadería y la preservación del medio ambiente y equilibrio ecológico, y
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2023)</small>
+
+VI. En la medida de sus posibilidades económicas, adquirir y operar biodigestores para procesar las heces generadas por su ganado.
 
 ###### ARTÍCULO 44.
 
@@ -2146,5 +2156,13 @@ P.O. 20 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1175.- SE REFORMA EL ARTÍCULO 160, DE LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0755.- SE REFORMA EL ARTÍCULO 43, EN SUS FRACCIONES I, IV Y V; Y ADICIONA AL MISMO ARTÍCULO 43, LA FRACCIÓN VI, DE LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
