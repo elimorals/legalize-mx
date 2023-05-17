@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2022-07-15"
+last_updated: "2023-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -1667,9 +1667,9 @@ II. Haber cumplido dieciocho años de edad, cuando se trate de transporte en las
 
 III. Aprobar el examen de salud, psicométrico y toxicológico que lo declare apto para conducir, obteniendo la certificación respectiva;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2023)</small>
 
-IV. No contar con antecedentes penales; dicho requisito podrá ser cumplido mediante constancia de no antecedentes penales expedida por la Procuraduría General de Justicia del Estado, o la subprocuraduría regional de la misma en cuya jurisdicción se encuentre el lugar donde se presta el servicio;
+IV. No contar con antecedentes penales; dicho requisito podrá ser cumplido mediante constancia de no antecedentes penales expedida por la Fiscalía General del Estado de San Luis Potosí, o la delegación regional de la misma en cuya jurisdicción se encuentre el lugar donde se presta el servicio;
 
 V. Aprobar el examen de manejo;
 
@@ -3296,3 +3296,11 @@ P.O. 15 DE JULIO DE 2022.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0757.- SE REFORMA LA FRACCIÓN IV, DEL ARTÍCULO 76, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
