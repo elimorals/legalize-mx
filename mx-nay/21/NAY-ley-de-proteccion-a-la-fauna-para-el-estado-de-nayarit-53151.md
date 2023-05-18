@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-a-la-fauna-para-el-estado-de-nayarit-53151"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-16"
-last_updated: "2021-06-07"
+last_updated: "2023-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2023.
 
 Ley publicada en la Sección Décima Tercera al Periódico Oficial del Estado de Nayarit, el sábado 16 de diciembre de 2006.
 
@@ -77,27 +77,49 @@ Para los efectos de esta ley, se entiende por:
 
 I. Animales nocivos o peligrosos.- Aquellos que hayan sido afectados en su comportamiento debido a alteración biológica o genética; los que por su naturaleza sean agresivos o cuyas capacidades físicas les posibiliten causar un daño grave al ser humano;
 
-II. Comisión Estatal.- Comisión Estatal de Protección a la Fauna;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
 
-III. Comisión Municipal.- Comisión Municipal de Protección a la Fauna;
+II. Bienestar animal.- Estado en el que el animal tiene satisfechas sus necesidades de salud, de comportamiento y fisiologías frente a cambios en su ambiente, generalmente impuestos por el ser humano;
 
-IV. Crueldad.- Acto de brutalidad, sádico o zoofílico contra cualquier animal, ya sea por acción directa, omisión o negligencia;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
 
-V. Ejemplares o poblaciones ferales.- Aquellos pertenecientes a especies de fauna doméstica que al quedar fuera del control humano por su peligrosidad, ferocidad o fuerza natural extrema se establecen en el hábitat natural de la vida silvestre;
+III. Comisión Estatal.- Comisión Estatal de Protección a la Fauna;
 
-VI. Especies o poblaciones amenazadas o en peligro de extinción.- Aquéllas cuyas áreas de distribución o volumen poblacional han sido drásticamente disminuidas, poniéndose en riesgo su viabilidad biológica si siguen operando factores que ocasionen el deterioro o modificación del hábitat o que disminuyan sus poblaciones;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
 
-VII. Especies o poblaciones exóticas.- Aquellas cuya población es biológicamente viable, pero muy escasa de manera natural;
+IV. Comisión Municipal.- Comisión Municipal de Protección a la Fauna;
 
-VIII. Especies o poblaciones prioritarias para la conservación.- Aquellas determinadas por el INADES para canalizar y optimizar esfuerzos de conservación y recuperación; las que se entienden asimiladas a especies sujetas a protección especial en los términos de las leyes;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
 
-IX. Fauna Doméstica.- Aquellos que por su naturaleza, instinto o condición habitan permanentemente en compañía y dependencia de los seres humanos, y los que se crían y reproducen con ese propósito; en todos los casos independientemente de su pertenencia a especies amenazadas, exóticas, en peligro de extinción o prioritarias para la conservación;
+V. Crueldad.- Acto de brutalidad, sádico o zoofílico contra cualquier animal, ya sea por acción directa, omisión o negligencia;
 
-X. Fauna Silvestre.- Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como aquellos que presenten características de peligrosidad, ferocidad o fuerza natural extrema;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
 
-XI. Hábitat.- El sitio en un ambiente físico ocupado por un organismo, población, especie o comunidad de especies en un tiempo determinado;
+VI. Ejemplares o poblaciones ferales.- Aquellos pertenecientes a especies de fauna doméstica que al quedar fuera del control humano por su peligrosidad, ferocidad o fuerza natural extrema se establecen en el hábitat natural de la vida silvestre;
 
-XII. INADES.- Instituto Nayarita para el Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
+
+VII. Especies o poblaciones amenazadas o en peligro de extinción.- Aquellas cuyas áreas de distribución o volumen poblacional han sido drásticamente disminuidas, poniéndose en riesgo su viabilidad biológica si siguen operando factores que ocasionen el deterioro o modificación del hábitat o que disminuyan sus poblaciones;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
+
+VIII. Especies o poblaciones exóticas.- Aquellas cuya población es biológicamente viable, pero muy escasa de manera natural;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
+
+IX. Especies o poblaciones prioritarias para la conservación.- Aquellas determinadas por la PROEPAOT para canalizar y optimizar esfuerzos de conservación y recuperación; las que se entienden asimiladas a especies sujetas a protección especial en los términos de las leyes;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
+
+X. Fauna Doméstica.- Aquellos que por su naturaleza, instinto o condición habitan permanentemente en compañía y dependencia de los seres humanos, y los que se crían y reproducen con ese propósito; en todos los casos independientemente de su pertenencia a especies amenazadas, exóticas, en peligro de extinción o prioritarias para la conservación;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
+
+XI. Fauna Silvestre.- Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como aquellos que presenten características de peligrosidad, ferocidad o fuerza natural extrema;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
+
+XII. Hábitat.- El sitio en un ambiente físico ocupado por un organismo, población, especie o comunidad de especies en un tiempo determinado;
 
 XIII. Maltrato.- Todo hecho, acto u omisión del ser humano, que puede ocasionar dolor, deterioro físico o sufrimiento, que afecte el bienestar, ponga en peligro la vida del animal, o afecte gravemente su salud o integridad física, así como la exposición a condiciones de sobreexplotación de su capacidad física con cualquier fin;
 
@@ -105,19 +127,25 @@ XIV. Padrón Estatal.- Padrón Estatal de Fundaciones, Asociaciones u Organizaci
 
 XV. Padrón Estatal de Mascotas.- Instrumento de información y control en materia de fauna doméstica o de compañía y mascotas silvestres;
 
-XVI. Protección a los animales.- La ejecución de acciones encaminadas al trato digno y respetuoso de los ejemplares de la fauna, cualquiera que sea su tipo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+XVI. PROEPAOT.- Procuraduría Estatal de Protección al Ambiente y Ordenamiento Territorial;
 
-XVII. Trato Digno y Respetuoso.- Medidas necesarias que se brindan a los animales para evitar dolor, deterioro físico o sufrimiento, durante su posesión o propiedad, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, experimentación, adiestramiento o sacrificio;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
+XVII. Protección a los animales.- La ejecución de acciones encaminadas al trato digno y respetuoso de los ejemplares de la fauna, cualquiera que sea su tipo;
 
-XVIII. UMA.- La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE NOVIEMBRE DE 2016)</small>
+XVIII. Trato Digno y Respetuoso.- Medidas necesarias que se brindan a los animales para evitar dolor, deterioro físico o sufrimiento, durante su posesión o propiedad, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, experimentación, adiestramiento o sacrificio;
 
-XIX. Unidades de manejo de conservación de la fauna silvestre.- Los predios e instalaciones registrados que operen de conformidad con un plan de manejo aprobado, y dentro de los cuales se dé seguimiento al estado del hábitat y de poblaciones o ejemplares que ahí se distribuyan.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
+
+XIX. UMA.- La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MAYO DE 2023)</small>
+
+XX. Unidades de manejo de conservación de la fauna silvestre.- Los predios e instalaciones registrados que operen de conformidad con un plan de manejo aprobado, y dentro de los cuales se dé seguimiento al estado del hábitat y de poblaciones o ejemplares que ahí se distribuyan.
 
 ###### ARTÍCULO 5°.
 
@@ -151,11 +179,11 @@ VII. Participar a través del representante respectivo, en el Consejo Técnico C
 
 VIII. Promover y celebrar los convenios necesarios con la Federación, al objeto de asumir las funciones susceptibles de transferencia conforme a la Ley General de Vida Silvestre, revertirlas al gobierno federal y renovar dichos convenios cuando fueren temporales.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 8°.
 
-Las atribuciones que esta ley otorga al Ejecutivo del Estado serán ejercidas a través de la Secretaría de Desarrollo Rural y Medio Ambiente y del INADES en el ámbito de sus respectivas competencias de conformidad a la legislación vigente.
+Las atribuciones que esta ley otorga al Ejecutivo del Estado serán ejercidas a través de la Secretaría de Desarrollo Rural y de la Procuraduría Estatal de Protección al Ambiente y Ordenamiento Territorial en el ámbito de sus respectivas competencias de conformidad a la legislación vigente.
 
 ### CAPITULO II. DE LAS COMISIONES ESTATAL Y MUNICIPALES DE PROTECCIÓN A LA FAUNA
 
@@ -173,17 +201,25 @@ II. Un Secretario.
 
 III. Un representante de la Secretaría de Salud.
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
 
-IV. Un representante de la Secretaría de Desarrollo Rural y Medio Ambiente;
+IV. Un representante de la Secretaría de Desarrollo Rural;
 
-V. Un representante del INADES.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
 
-VI. Un representante por cada Comisión Municipal de Protección a la Fauna, previa acreditación.
+V. Un representante de la Procuraduría Estatal de Protección al Ambiente y Ordenamiento Territorial;
 
-VII. Un representante de las Fundaciones, Asociaciones u Organizaciones social o privadas dedicadas a la protección de la fauna.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
 
-VIII. los demás servidores públicos que al efecto invite el Presidente.
+VI. Un representante de la Secretaría de Desarrollo Sustentable;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
+
+VII. Un representante por cada Comisión Municipal de Protección a la Fauna, previa acreditación, y
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
+
+VIII. Un representante de las Fundaciones, Organizaciones sociales o privadas dedicadas a la protección de la fauna.
 
 Los cargos serán de carácter honorífico, y no recibirán emolumento o contraprestación alguna.
 
@@ -263,13 +299,17 @@ VIII. Realizar visitas de inspección de domicilios particulares y establecimien
 
 IX. Coadyuvar en los programas para la conservación, reproducción y reintroducción de la fauna en su hábitat, de especies y poblaciones prioritarias para la conservación, con la participación en su caso, de las personas que manejen dichas especies o poblaciones y demás involucrados;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
 
-X. Imponer las sanciones correspondientes, en caso de que se comprueben infracciones a esta ley, a través de las comisiones municipales, y
+X. Imponer las sanciones correspondientes, en caso de que se comprueben infracciones a esta ley, a través de las comisiones municipales;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2023)</small>
 
-XI. Ejercer las demás atribuciones que determine la presente ley y sus disposiciones reglamentarias.
+XI. Emitir las disposiciones normativas que regulen la protección, crianza, reproducción, comercialización, vigilancia, entrenamiento, exhibición o cualquier otra actividad análoga relacionada con animales domésticos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MAYO DE 2023)</small>
+
+XII. Ejercer las demás atribuciones que determine la presente ley y sus disposiciones reglamentarias.
 
 ### CAPITULO III. DE LA PARTICIPACIÓN CIUDADANA
 
@@ -319,9 +359,11 @@ IV. Promover la cultura de trato digno y respetuoso a la fauna en general y dem�
 
 Toda persona física o moral deberá denunciar ante la autoridad correspondiente los actos u omisiones de los servidores públicos que contravengan la presente ley.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 24.
 
-La autoridad que conozca de la denuncia tiene la obligación de proceder conforme a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+La autoridad que conozca de la denuncia tiene la obligación de proceder conforme a las disposiciones de la Ley General de Responsabilidades Administrativas, así como la normatividad aplicable en la materia.
 
 ### CAPITULO IV. DE LA CULTURA DE PROTECCIÓN A LA FAUNA
 
@@ -463,13 +505,19 @@ III. Indicación de la vacuna vigente.
 
 A los animales domésticos cuya naturaleza o comportamiento constituya un peligro para la seguridad o salud de las personas, les serán aplicadas las medidas de prevención que al efecto establezca las autoridades competentes, previa audiencia del propietario de los mismos.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 42.
 
-Se crea el Padrón Estatal de Mascotas como un instrumento de información y control en materia de fauna doméstica o de compañía, mascotas silvestres y aves de presa, el cual estará a cargo de INADES. La inscripción de las mascotas al Padrón es voluntaria, y los propietarios o poseedores de animales domésticos la efectuarán de conformidad con el Reglamento del presente ordenamiento legal.
+Se crea el Padrón Estatal de Mascotas como un instrumento de información y control en materia de fauna doméstica o de compañía, mascotas silvestres y aves de presa, el cual estará a cargo de la PROEPAOT. La inscripción de las mascotas al Padrón es voluntaria, y los propietarios o poseedores de animales domésticos la efectuarán de conformidad con el Reglamento del presente ordenamiento legal.
 
 ###### ARTÍCULO 43.
 
 Las autoridades estatales y municipales se coordinarán para ejecutar campañas de esterilización de animales domésticos a bajos costos, en forma fija y ambulante.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2023)</small>
+
+De manera anual podrán desarrollar y ejecutar diversos programas de esterilización, captura y resguardo de animales abandonados.
 
 ###### ARTÍCULO 44.
 
@@ -535,9 +583,11 @@ En ningún caso se llevará a cabo la movilización por medio de golpes, instrum
 
 ### CAPITULO III. DE LA EXPERIMENTACIÓN
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 51.
 
-Para realizar experimentos con animales, los interesados deberán demostrar ante las autoridades correspondientes que el acto por realizar es en beneficio de la investigación científica o docencia en las carreras a nivel superior relacionadas con la materia; para tal efecto, se requiere el permiso de experimentación en animales expedido por el INADES.
+Para realizar experimentos con animales, los interesados deberán demostrar ante las autoridades correspondientes que el acto por realizar es en beneficio de la investigación científica o docencia en las carreras a nivel superior relacionadas con la materia; para tal efecto, se requiere el permiso de experimentación en animales expedido por la PROEPAOT.
 
 ###### ARTÍCULO 52.
 
@@ -643,11 +693,13 @@ Los lugares que bajo la denominación de rastros o establecimientos, que se dedi
 
 En las actividades de matanza de animales, dichos establecimientos quedan sujetos a muestreos aleatorios ante y post mortem, a fin de que las autoridades sanitarias verifiquen el cumplimiento de las normas oficiales mexicanas que regulen el empleo de sustancias, cuyo empleo en el proceso de crianza están prohibidas.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 64.
 
-El INADES, en coordinación con el Instituto Nacional Indigenista, integrará y hará públicas, mediante una lista, las prácticas y los volúmenes de aprovechamiento de ejemplares, partes o derivados de vida silvestre para ceremonias y ritos tradicionales por parte de integrantes de comunidades indígenas, el cual, se podrá realizar dentro de sus predios o con el consentimiento de sus propietarios o legítimos poseedores, siempre que no se afecte la viabilidad de las poblaciones, y las técnicas y medios de aprovechamiento sean las utilizadas tradicionalmente, a menos que estos se modifiquen para mejorar las condiciones de sustentabilidad en el aprovechamiento. En todo caso promoverá que se incorporen acciones de manejo y conservación de hábitat a través de programas de capacitación a dichas comunidades indígena (sic).
+La PROEPAOT, en coordinación con el Instituto Nacional Indigenista, integrará y hará públicas, mediante una lista, las prácticas y los volúmenes de aprovechamiento de ejemplares, partes o derivados de vida silvestre para ceremonias y ritos tradicionales por parte de integrantes de comunidades indígenas, el cual, se podrá realizar dentro de sus predios o con el consentimiento de sus propietarios o legítimos poseedores, siempre que no se afecte la viabilidad de las poblaciones, y las técnicas y medios de aprovechamiento sean las utilizadas tradicionalmente, a menos que estos se modifiquen para mejorar las condiciones de sustentabilidad en el aprovechamiento. En todo caso promoverá que se incorporen acciones de manejo y conservación de hábitat a través de programas de capacitación a dichas comunidades indígena (sic).
 
-El INADES podrá establecer limitaciones o negar el aprovechamiento, en los casos en que la información muestre que dichas prácticas o volúmenes están poniendo en riesgo la conservación de las poblaciones o especies silvestres.
+La PROEPAOT podrá establecer limitaciones o negar el aprovechamiento, en los casos en que la información muestre que dichas prácticas o volúmenes están poniendo en riesgo la conservación de las poblaciones o especies silvestres.
 
 ###### ARTÍCULO 65.
 
@@ -661,13 +713,29 @@ Las actividades de caza de carácter deportivo quedan sujetas a las disposicione
 
 Cualquier persona podrá denunciar ante la autoridad municipal o estatal las infracciones a esta ley.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2023)</small>
+
+Las denuncias podrán ser anónimas, en cuyo caso, las autoridades deberán mantener con carácter de confidencial la identidad de las personas que denuncien y establecer las facilidades administrativas para presentar dichas denuncias.
+
 ###### ARTÍCULO 67.
 
 La autoridad distinta a la municipal que reciba la denuncia, la turnará de inmediato a dicha dependencia, sin mayor pronunciamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 68.
 
-La denuncia contendrá los datos de identificación del denunciante y del denunciado y los hechos y omisiones materia de la infracción.
+La denuncia podrá contener el nombre o razón social, domicilio del denunciante y, en su caso, de su representante legal. En caso de que esta no lo autorice se entenderá como denuncia anónima.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 18 DE MAYO DE 2023)</small>
+
+Para la integración de la denuncia se deberá incluir:
+
+a) Los actos, hechos u omisiones denunciados;
+
+b) Preferentemente los datos de identificación de la persona denunciada, y
+
+c) Las pruebas que en su caso ofrezca el denunciante.
 
 La admisión de la denuncia no se condiciona al acreditamiento, afectación o interés personal y directo.
 
@@ -689,9 +757,11 @@ Las Comisiones Municipales podrán efectuar visitas de inspección y vigilancia 
 
 Los procedimientos que deriven de la aplicación de la presente ley se regirán conforme a las disposiciones de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit, y en forma supletoria, conforme a la Ley Estatal del Equilibrio Ecológico y Protección al Ambiente y el Código de Procedimientos Civiles del Estado, en lo que resulte conducente.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 71.
 
-Toda persona, autoridades estatales y municipales que tenga conocimiento de actos u omisiones que pudieran constituir un Delito conforme a lo previsto por el Código Penal del Estado de Nayarit en lo relativo a los Delitos contra la Ecología, están obligadas a denunciarlas inmediatamente a la Procuraduría General de Justicia del Estado.
+Toda persona, autoridades estatales y municipales que tenga conocimiento de actos u omisiones que pudieran constituir un delito conforme a lo previsto por el Código Penal para el Estado de Nayarit en lo relativo a los Delitos contra la Ecología y la Fauna, están obligadas a denunciarlas inmediatamente a la Fiscalía General del Estado de Nayarit.
 
 ###### ARTÍCULO 72.
 
@@ -701,9 +771,13 @@ Cuando se trate de Delitos de orden federal se dará aviso a la Procuraduría Ge
 
 ### CAPITULO III. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 73.
 
-Las Comisiones Municipales son responsables de aplicar las sanciones a que se refiere el presente capítulo.
+La autoridad municipal competente que tenga a cargo la atención, cuidado, control, protección y bienestar animal, será la responsable de aplicar las sanciones a que se refiere el presente capítulo.
+
+Lo anterior sin perjuicio de coordinarse y coadyuvar con diversas autoridades para la aplicación de las sanciones respectivas.
 
 ###### ARTÍCULO 74.
 
@@ -731,7 +805,13 @@ e) De cincuenta a cien veces la UMA, por infringir los artículos 58 en su segun
 
 III. Arresto Administrativo hasta por 36 horas;
 
-IV. Las demás que señalen otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2023)</small>
+
+IV. Las que establezca la Ley de Cultura y Justicia Cívica para el Estado de Nayarit, en los casos de su competencia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MAYO DE 2023)</small>
+
+V. Las demás que señalen otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -741,15 +821,19 @@ Las infracciones a lo dispuesto en esta ley, que en el cuerpo de la misma no tuv
 
 En los casos en que se realicen sacrificios de especies en veda o protegidas o se lleven a cabo actos que contravengan las disposiciones de conservación de vida silvestre fuera de su hábitat natural, se estará a lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y la Ley General de Vida Silvestre.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2023)</small>
+
 ###### ARTÍCULO 76.
 
-Para efectos de determinar el monto de la multa, la autoridad municipal analizará los actos de crueldad, la gravedad de la falta y el daño causado.
+Para efectos de determinar el monto de la multa, la autoridad municipal analizará los actos de crueldad, la gravedad de la falta y el daño causado, quedando prohibidas las multas fijas.
 
-En caso de reincidencia, la Comisión municipal podrá duplicar las sanciones económicas. Se consideran reincidentes a quienes cometan una falta dentro del año siguiente a la fecha en que hubieren sido sancionados por violaciones a lo previsto en esta ley.
+En caso de reincidencia, la autoridad municipal competente podrá duplicar las sanciones económicas. Se consideran reincidentes quienes cometan una falta dentro del año siguiente a la fecha en que hubieren sido sancionados por violaciones a lo previsto en esta ley.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2023)</small>
 
 ###### ARTÍCULO 77.
 
-Aquellos servidores públicos que estén obligados a hacer valer la presente ley y que hagan caso omiso a sus obligaciones, serán sancionados según las consecuencias que se deriven de su conducta u omisión conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
+Aquellos servidores públicos que estén obligados a hacer valer la presente ley y que hagan caso omiso a sus obligaciones, serán sancionados según las consecuencias que se deriven de su conducta u omisión conforme a lo dispuesto en la Ley General de Responsabilidades Administrativas.
 
 ### CAPITULO IV. DE LOS RECURSOS
 
@@ -828,3 +912,13 @@ P.O. 7 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA UN ARTÍCULO 68 BIS A LA LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 18 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Nayarit, para los efectos conducentes.
+
+TERCERO. Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado de Nayarit, (sic) efectos normativos conducentes.
