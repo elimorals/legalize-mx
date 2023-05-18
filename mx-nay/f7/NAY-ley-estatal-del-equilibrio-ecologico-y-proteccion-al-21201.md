@@ -4,7 +4,7 @@ identifier: "NAY-ley-estatal-del-equilibrio-ecologico-y-proteccion-al-21201"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-25"
-last_updated: "2023-04-04"
+last_updated: "2023-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2023.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 25 de abril del 2001.
 
@@ -1841,17 +1841,53 @@ II.- El establecimiento o modificación de vedas de la flora y fauna silvestres.
 
 Queda prohibido en el Estado el tráfico de especies y subespecies silvestres de flora o fauna, terrestres o acuáticas, de conformidad con las Convenciones Internacionales en la materia ratificadas por el Senado de la República, las Normas Oficiales Mexicanas aplicables con criterios y normas técnicas ambientales estatales.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2023)</small>
 
 ###### Artículo 109.
 
-Corresponde al Gobierno del Estado y de los Municipios, en el ámbito de sus respectivas competencias, regular el trato digno y respetuoso que debe darse a los animales.
+Corresponde al Gobierno del Estado y de los Municipios, en el ámbito de sus respectivas competencias, regular el trato digno y respetuoso que debe darse a los animales, así como la protección, el cuidado y el bienestar de perros y gatos que habiten en el territorio del Estado de Nayarit.
 
-De conformidad con las Normas Oficiales Mexicanas, la Secretaría podrá expedir las normas técnicas que determinen los principios básicos de trato digno y respetuoso a los animales, que incluyen condiciones de cautiverio, exhibición, transporte, alimentación, explotación, entrenamiento, manutención y sacrificio, así como vigilar su cumplimiento en coordinación con las autoridades correspondientes de los diversos órdenes de gobierno.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE MAYO DE 2023)</small>
+
+De conformidad con las Normas Oficiales Mexicanas y la Declaración Universal de los Derechos de los Animales, la Secretaría deberá expedir los lineamientos y programas que determinen lo siguiente:
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2023)</small>
+
+a) La prevención y tratamiento del dolor y del sufrimiento;
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2023)</small>
+
+b) La promoción de la salud y el bienestar de perros y gatos, promoviendo condiciones apropiadas para su existencia, higiene y sanidad;
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2023)</small>
+
+c) La prevención, erradicación y sanción del maltrato y los actos de crueldad hacia perros y gatos;
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2023)</small>
+
+d) La implementación de campañas de concientización, de protección y bienestar de los animales, así como su trato digno y respetuoso y promover su divulgación a través de los órganos educativos, y
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2023)</small>
+
+e) Regular las condiciones de desarrollo, protección y bienestar integral y sostenible de los animales.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2023)</small>
+
+###### Artículo 109 Bis.
+
+El Gobierno del Estado y los Municipios deberán formular, proponer y participar de las políticas de protección del bienestar animal de perros y gatos, así como la prevención y erradicación de la violencia, abuso, actos de crueldad y explotación hacia los mismos.
+
+El Gobierno del Estado podrá implementar, fomentar y gestionar campañas de donación alimentaria, a fin de preservar el bienestar animal de perros y gatos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2023)</small>
 
 ###### Artículo 110.
 
-Los Municipios elaborarán los programas en la materia, así como llevarán a cabo las acciones derivadas de la regulación sobre el trato digno que debe darse a los animales.
+Los Municipios elaborarán los programas que tendrán por objeto realizar políticas y medidas concretas para regular el trato digno que debe darse a los animales, la defensa, protección, salud y bienestar de los animales domésticos, impulsando y llevando a cabo acciones a tal fin.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2023)</small>
+
+Además, deberán formular, expedir y ejecutar campañas de esterilización y vacunación de perros y gatos en coordinación con las autoridades en materia de salud y con las asociaciones protectoras de animales.
 
 ###### Artículo 111.
 
@@ -1869,13 +1905,33 @@ IV.- El Estado como responsable de su política ambiental, deberá formular de m
 
 V.- Los municipios, en el ámbito de sus competencias, se encargarán de la protección y preservación de los árboles y otras especies de flora, que se encuentren en áreas verdes de propiedad pública o privada, dentro de la zona urbana;
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
 
-VI.- El Estado se encargará del fomento y desarrollo de la investigación de la fauna y flora silvestre, y de los materiales genéticos, con el objeto de conocer su valor científico, ambiental, económico y estratégico para el Estado, y
+VI.- El Estado se encargará del fomento y desarrollo de la investigación de la fauna y flora silvestre, y de los materiales genéticos, con el objeto de conocer su valor científico, ambiental, económico y estratégico para el Estado;
 
-> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
 
-VII.- El fomento al trato digno y respetuoso a las especies animales, con el propósito de evitar la crueldad en contra de estas.
+VII.- El fomento al trato digno y respetuoso a las especies animales, con el propósito de evitar la crueldad en contra de estas;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2023)</small>
+
+VIII.- Velar por el buen trato, salud y respeto a la vida de perros y gatos;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2023)</small>
+
+IX.- Fomentar la participación de las asociaciones públicas o privadas, colectivos, redes y demás organizaciones de la sociedad civil, así como de la ciudadanía en general, para realizar acciones en favor del bienestar animal y tenencia responsable de animales, así como fortalecer la cultura de la prevención y de la denuncia pública ciudadana;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2023)</small>
+
+X.- Coordinar con los municipios, las instituciones educativas veterinarias, los Colegios Profesionales e Institutos especializados en la materia acciones a seguir en materia de bienestar, respeto y protección a perros y gatos;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2023)</small>
+
+XI.- La promoción y difusión que genere una cultura cívica de protección, responsabilidad y trato digno a los animales, y
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2023)</small>
+
+XII.- Las demás que establezcan los programas, lineamientos y disposiciones legales en la materia.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -4130,3 +4186,13 @@ P.O. 4 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 18 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Nayarit, para los efectos conducentes.
+
+TERCERO. Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado de Nayarit, efectos normativos conducentes.
