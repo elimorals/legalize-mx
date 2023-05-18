@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2022-09-27"
+last_updated: "2023-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2023.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -1271,13 +1271,17 @@ XII.- De Transparencia Gubernamental y Protección de Datos Personales;
 
 XIII.- De Igualdad de Género y Familia;
 
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
 
-XIV.- De Niñez y Juventud, y
+XIV.- De Niñez y Juventud;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2023)</small>
 
-XV.- Las demás que determine el Ayuntamiento.
+XV.- De Protección a la Fauna, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MAYO DE 2023)</small>
+
+XVI.- Las demás que determine el Ayuntamiento.
 
 ###### ARTICULO 80.
 
@@ -4600,3 +4604,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los veinte Ayuntamientos del Estado de Nayarit, a partir de la entrada en vigor del presente Decreto, en un plazo no mayor de noventa días naturales, deberán realizar las reformas y adecuaciones a los reglamentos, a fin de armonizarlos con lo dispuesto en el presente Decreto, así como tomar las medidas pertinentes en la elaboración de los Proyectos de las Leyes de Ingresos respectivos.
 
 TERCERO.- Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado de Nayarit, para los efectos legales conducentes.
+
+P.O. 18 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 79 DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Nayarit, para los efectos conducentes.
+
+TERCERO. Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado de Nayarit, para los efectos conducentes.
