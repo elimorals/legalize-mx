@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2023-04-14"
+last_updated: "2023-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE MARZO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO EL 14 DE ABRIL DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE MAYO DE 2023.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -693,13 +691,21 @@ XXXVI. La Comisión Para las Declaratorias de Alerta de Violencia de Género con
 
 a.- De las iniciativas de ley, decreto o acuerdo relacionados con las medidas de prevención, justicia y seguridad contempladas en las Declaratorias de Alerta de Violencia de Género contra las Mujeres;
 
-b.- De las iniciativas de ley, decreto o acuerdo relacionados contra niñas, adolescentes y mujeres en razón de género;
+> <small>(REFORMADO, G.G. 19 DE MAYO DE 2023)</small>
 
-c.- De las iniciativas de ley, decreto o acuerdo relacionados con los feminicidios y la desaparición de niñas, adolescentes y mujeres;
+b.- De las iniciativas de ley, decreto o acuerdo relacionados con la violencia contra niñas, adolescentes y mujeres;
 
-d.- Del seguimiento y cumplimiento de las acciones preventivas, de seguridad y justicia para enfrentar y abatir la violencia feminicida que le competan y, en su caso, el agravio comparado derivadas de las Declaratorias de Alerta de Violencia de Género contra las Mujeres;
+> <small>(REFORMADO, G.G. 19 DE MAYO DE 2023)</small>
 
-e.- Del proceso de armonización de las leyes relacionadas con el problema de la desaparición forzada y desaparición de personas por particulares;
+c.- De las iniciativas de ley, decreto o acuerdo relacionados con los feminicidios y las desapariciones de niñas, adolescentes y mujeres;
+
+> <small>(REFORMADO, G.G. 19 DE MAYO DE 2023)</small>
+
+d.- Del seguimiento, implementación y cumplimiento de las acciones que le competan y de las medidas legislativas derivadas de las Alertas de Violencia de Género contra las Mujeres;
+
+> <small>(REFORMADO, G.G. 19 DE MAYO DE 2023)</small>
+
+e.- Del proceso de armonización de las leyes relacionadas con el problema de la desaparición forzada de personas y la desaparición cometida por particulares;
 
 f.- Los demás asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
@@ -3134,3 +3140,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 La entrega de los estímulos correspondientes, estará sujeta a contar con la suficiencia presupuestal respectiva, así como atenderá a los criterios que en su momento emita la Junta de Coordinación Política de la Legislatura del Estado de México.
+
+G.G. 19 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 162.- POR EL QUE SE REFORMAN LOS INCISOS B), C), D) Y E) DE LA FRACCIÓN XXXVI DEL ARTÍCULO 13 A DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
