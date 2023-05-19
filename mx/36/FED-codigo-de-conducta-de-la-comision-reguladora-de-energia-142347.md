@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-conducta-de-la-comision-reguladora-de-energia-142347"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-03-26"
-last_updated: "2020-03-26"
+last_updated: "2023-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142347&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-02-27"
 ---
 # CODIGO DE CONDUCTA DE LA COMISION REGULADORA DE ENERGIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL ACUERDO DE LA COMISIÓN REGULADORA DE ENERGÍA POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA DE LA COMISIÓN REGULADORA DE ENERGÍA, PUBLICADO EN EL D.O.F. DE 19 DE MAYO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA COMISIÓN REGULADORA DE ENERGÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2023 (ABROGADO).
 
 Código publicado en el Número 29 del Diario Oficial de la Federación, el jueves 26 de marzo de 2020.
 
@@ -544,3 +546,19 @@ Atentamente
 Nombre, número de empleado y firma
 
 __________________
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE MAYO DE 2023.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL “ACUERDO DE LA COMISIÓN REGULADORA DE ENERGÍA POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA DE LA COMISIÓN REGULADORA DE ENERGÍA”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO. Se emite el Código de Conducta de la Comisión Reguladora de Energía y se abroga el Código de Conducta de la Comisión Reguladora de Energía publicado en el Diario Oficial de la Federación, el 26 de marzo de 2020, así como su inscripción en el Registro Público de la Comisión con el número de acuerdo A/007/2020.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+TERCERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+CUARTO. Inscríbase el presente Acuerdo bajo el número A/037/2022 en el Registro al que se refieren los artículos 22, fracción XXVI, inciso a) y e) y 25, fracciones VII y X de la Ley de los Órganos Reguladores Coordinados en Materia Energética, y 4 y 16 del Reglamento Interno de la Comisión Reguladora de Energía.
