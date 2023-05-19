@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-al-organismo-publico-descentralizado-de-6163"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-27"
-last_updated: "2010-01-25"
+last_updated: "2023-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6163&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY QUE CREA AL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLOGICA "FIDEL VELAZQUEZ"
 
-LEY QUE CREA AL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLOGICA «FIDEL VELAZQUEZ»
+LEY QUE CREA AL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLÓGICA «FIDEL VELÁZQUEZ»
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE MAYO DE 2023.
 
 Ley publicada en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 27 de diciembre de 1994.
 
@@ -57,7 +57,9 @@ La Universidad Tecnológica tendrá su domicilio en el municipio de Nicolás Rom
 
 La Universidad tendrá como objeto:
 
-I. Formar profesionales aptos para la aplicación y generación de conocimientos y la solución creativa de los problemas, con un sentido de innovación al incorporar los avances científicos y tecnológicos de acuerdo con los requerimientos del desarrollo económico y social de la región, el Estado y el país;
+> <small>(REFORMADA, G.G. 19 DE MAYO DE 2023)</small>
+
+I. Formar técnicos superiores universitarios o profesionales asociados, incluyendo los niveles de licenciatura, especialidad, maestría y doctorado, aptos para la aplicación y generación de conocimientos y la solución creativa de los problemas, con un sentido de innovación al incorporar los avances científicos y tecnológicos, de acuerdo con los requerimientos del desarrollo económico y social de la región, el Estado y el país;
 
 II. Realizar investigaciones científicas y tecnológicas que permitan el avance del conocimiento, que fortalezcan la enseñanza tecnológica y el mejor aprovechamiento social de los recursos naturales y materiales que contribuyan a elevar la calidad de vida de la sociedad;
 
@@ -434,3 +436,17 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
 
 CUARTO.- A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para llevar a cabo las modificaciones correspondientes a los Reglamentos de los Organismos Públicos Descentralizados a que se refiere el presente Decreto, y demás disposiciones que deban adecuarse en virtud del presente Decreto.
+
+G.G. 19 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 168.- POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 4 DE LA LEY QUE CREA AL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARACTÉR ESTATAL DENOMINADO UNIVERSIDAD TECNOLÓGICA “FIDEL VELÁZQUEZ”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo a la disponibilidad presupuestal, de manera progresiva en los términos de la Ley General de Educación Superior y de conformidad con la demanda que exista para el presente ejercicio fiscal y los subsecuentes.
+
+CUARTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+QUINTO. A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para llevar a cabo las modificaciones correspondientes a los Reglamentos del Organismo Público Descentralizado a que se refiere el presente Decreto, y demás disposiciones que deban adecuarse en virtud del presente Decreto.
