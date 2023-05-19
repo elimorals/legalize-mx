@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-proteccion-civil-para-el-tribunal-superior-de-155
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-02-17"
-last_updated: "2022-02-17"
+last_updated: "2023-05-19"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155578&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2021-12-14"
 ---
 # REGLAMENTO DE PROTECCION CIVIL PARA EL TRIBUNAL SUPERIOR DE JUSTICIA Y EL CONSEJO DE LA JUDICATURA, AMBOS DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO EN MATERIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL PARA EL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 19 DE MAYO DE 2023, EL PRESENTE REGLAMENTO HA QUEDADO SIN EFECTOS.]</small>
+
 REGLAMENTO DE PROTECCIÓN CIVIL PARA EL TRIBUNAL SUPERIOR DE JUSTICIA Y EL CONSEJO DE LA JUDICATURA, AMBOS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE MAYO DE 2023 (SIN EFECTOS).
 
 Reglamento publicado en el No. 792 de la Gaceta Oficial de la Ciudad de México, el jueves 17 de febrero de 2022.
 
@@ -909,3 +911,15 @@ LA SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO
 MAESTRA ZAIRA LILIANA JIMÉNEZ SEADE
 
 (FIRMA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 19 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO EN MATERIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL PARA EL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Boletín Judicial del Poder Judicial de la Ciudad de México. Para su mayor difusión, será publicado mediante el enlace electrónico correspondiente en la Gaceta Oficial de la Ciudad de México y en el Portal de Internet del Poder Judicial de la Ciudad de México.
+
+SEGUNDO.- Se deja sin efectos el Acuerdo General 50-15/2018, emitido por el Pleno del Consejo de la Judicatura de la Ciudad de México, en sesión de fecha cinco de abril de dos mil dieciocho, mediante el cual se aprobó el "Reglamento de Protección Civil para el Tribunal Superior de Justicia y el Consejo de la Judicatura, ambos de la Ciudad de México".
+
+TERCERO: Se dejan sin efectos los documentos denominados, "Procedimiento para actuar ante una contingencia" y "Ruta de capacitación de Protección Civil", aprobados por el Pleno del Consejo de la Judicatura del entonces Distrito Federal mediante Acuerdo 24-23/2012 en sesión de fecha veintidós de mayo de dos mil doce, así como todas aquellas disposiciones administrativas internas que se opongan al presente Reglamento.
