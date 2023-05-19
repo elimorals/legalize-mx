@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-turismo-del-estado-de-campeche-80279"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-04"
-last_updated: "2022-05-10"
+last_updated: "2023-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE TURISMO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 4 de marzo de 2011.
 
@@ -349,23 +349,39 @@ La Comisión fungirá como facilitador para la instrumentación de acciones que 
 
 La Comisión atenderá los planteamientos derivados de los Consejos que deberán constituirse conforme a esta Ley.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2023)</small>
+
 ###### Artículo 16.
 
 El Consejo Consultivo de Turismo de Campeche es el órgano colegiado que tiene por objeto propiciar la concurrencia activa, comprometida y responsable de los sectores público, social y privado, cuya actuación incida directa o indirectamente en el turismo del Estado, para la concertación de las políticas, planes, y programas en la materia, así como para la formulación de las recomendaciones destinadas a los agentes involucrados en el sector.
 
 El Consejo se integra de la siguiente manera:
 
-I. Un presidente, el Gobernador del Estado;
+I. Un presidente, la o el Gobernador del Estado de Campeche;
 
-II. Un vicepresidente, el titular de la Secretaría;
+II. Un vicepresidente, la o el titular de la Secretaría;
 
-III. Un secretario técnico, el presidente del Consejo Empresarial Turístico del Estado; y
+III. La o el Titular de la Secretaría de Administración y Finanzas;
 
-IV. Cuatro Vocales, que podrán ser los representantes de la Asociación Turística de Campeche AC., de la Asociación de Hoteles y Moteles de Campeche A.C., de la Asociación Campeche Unido para el Desarrollo Integral Restaurantero A.C. y de la Cámara Nacional de Comercio, Servicios y Turismo de Campeche.
+IV. La o el Director General de la Administración Portuaria Integral de Campeche S.A. de C.V;
 
-El Gobernador podrá invitar a representantes de otros organismos e instituciones, de los sectores público, social y privado, para formar parte del Consejo con voz pero sin voto. El cargo que ocupen los integrantes del Consejo es honorario, por lo que no percibirá nemolumento (sic) o remuneración alguna.
+V. La o el Titular de la Secretaría de Desarrollo Económico y;
+
+VI. Cuatro Vocales que serán los representantes de la:
+
+a) Asociación Mexicana de Hoteles y Moteles en Campeche A.C;
+
+b) Asociación Mexicana de Hoteles y Moteles de Ciudad del Carmen A.C;
+
+c) Cámara Nacional de la Industria de Restaurantes y Alimentos Condimentados (CANIRAC-Campeche); y
+
+d) Cámara Nacional de la Industria de Restaurantes y Alimentos Condimentados (CANIRAC-Ciudad del Carmen).
+
+La o el Gobernador del Estado de Campeche, podrá invitar a representantes de otros organismos e instituciones, de los sectores público, social y privado, para formar parte del Consejo con voz, pero sin voto. El cargo que ocupen las y los integrantes del Consejo es honorario, por lo que no percibirán emolumento o remuneración alguna.
 
 El Consejo tendrá las atribuciones que establezca su Reglamento.
+
+El consejo contará con una Secretaria o Secretario Técnico, que estará a cargo de la o el servidor público de la Secretaría, que para tal efecto designe la o el Presidente del Consejo.
 
 ###### Artículo 17.
 
@@ -960,3 +976,11 @@ P.O. 10 DE MAYO DE 2022.
 Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 19 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 229 POR EL QUE “SE REFORMA EL ARTÍCULO 16 DE LA LEY DE TURISMO DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
