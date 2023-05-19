@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2023-04-01"
+last_updated: "2023-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "OAX"
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE MAYO DE 2023.]</small>
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -965,7 +967,9 @@ IV. Promover y consolidar acciones que generen ocupación productiva en condicio
 
 V. Gestionar las acciones para fortalecer las capacidades de la Secretaría de (sic) Trabajo, mediante la celebración de mecanismos de colaboración con organismos del sector público, privado o social nacional e internacional;
 
-VI. Verificar el funcionamiento de la Coordinación del Servicio Estatal de Empleo, así como las bolsas de trabajo de índole público y vigilar su funcionamiento en el Estado;
+(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022) (F. DE E., P.O. 19 DE MAYO DE 2023)
+
+VI. Verificar el funcionamiento de la Coordinación del Servicio Nacional de Empleo, así como las bolsas de trabajo de índole público y vigilar su funcionamiento en el Estado;
 
 VII. Contar con un banco de información e investigación estadística y archivo documental sobre temáticas laborales abiertos a personas trabajadoras, Instituciones Académicas, Organizaciones de la Sociedad Civil o Empresariales;
 
@@ -2089,9 +2093,7 @@ XX. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2022)
 
 XXI. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
-
-XXII. Fomentar a través de la Coordinación del Servicio Nacional de Empleo Oaxaca, el empleo, la capacitación y el adiestramiento, así como auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral, además de fomentar y apoyar la organización social para el trabajo y el autoempleo;
+XXII. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2022) (F. DE E., P.O. 19 DE MAYO DE 2023)
 
 XXIII. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2022)
 
