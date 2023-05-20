@@ -4,7 +4,7 @@ identifier: "JAL-codigo-electoral-del-estado-de-jalisco-antes-codigo-62461"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-05"
-last_updated: "2020-08-27"
+last_updated: "2023-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # CODIGO ELECTORAL DEL ESTADO DE JALISCO -- ANTES CODIGO ELECTORAL Y DE PARTICIPACION SOCIAL DEL ESTADO DE JALISCO -- ANTES CODIGO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO --
 
+(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23, POR EL CUAL SE REFORMAN LOS ARTÍCULOS 137, 214, 229, 232, 692 Y 693 DEL CÓDIGO ELECTORAL DEL ESTADO DE JALISCO, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTE DE MAYO DE DOS MIL VEINTITRÉS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
 CÓDIGO ELECTORAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2020.xxx
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2023.
 
 Código publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 5 de agosto de 2008.
 
@@ -1987,9 +1989,11 @@ d) La Comisión de Investigación y Estudios Electorales; y
 
 e) La de Quejas y Denuncias.
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-XXI. Expedir convocatoria, a más tardar el treinta y uno de Octubre del año anterior al de la elección, para allegarse propuestas de candidatos a Consejeros para los Consejos Distritales y Municipales Electorales, debiendo publicarla en uno de los periódicos de mayor circulación en el Estado;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
+
+XXI. EXPEDIR CONVOCATORIA, A MÁS TARDAR EL QUINCE DE NOVIEMBRE DEL AÑO ANTERIOR AL DE LA ELECCIÓN, PARA ALLEGARSE PROPUESTAS DE CANDIDATOS A CONSEJEROS PARA LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES, DEBIENDO PUBLICARLA EN UNO DE LOS PERIÓDICOS DE MAYOR CIRCULACIÓN EN EL ESTADO;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -2947,13 +2951,15 @@ Artículo 213
 
 2. La convocatoria a que se refiere el párrafo anterior será publicada en por lo menos dos diarios de los de mayor circulación en el Estado.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-Artículo 214
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2023)</small>
 
-1. En las elecciones en que se renueve al titular del Poder Ejecutivo, el Consejo General del Instituto Electoral ordenará la publicación de la convocatoria para elecciones ordinarias, la primera quincena de septiembre del año anterior al en que se verificarán los comicios.
+###### Artículo 214.
 
-2. Cuando solamente se renueve a los integrantes del Congreso del Estado y de los Ayuntamientos, la convocatoria deberá publicarse la primera quincena de octubre del año anterior al en que se verificarán los comicios.
+1. En las elecciones en que se renueve en su caso al titular del Poder Ejecutivo, a los integrantes del Congreso del Estado y de los Ayuntamientos el Consejo General del Instituto Electoral ordenará la publicación de la convocatoria para elecciones ordinarias, la primera semana de noviembre del año anterior a aquél en que se celebren las elecciones.
+
+2. El Instituto podrá realizar actos tendientes a la preparación del proceso electoral previo a la fecha señalada en el numeral 1.
 
 Artículo 215
 
@@ -3031,9 +3037,17 @@ Artículo 229
 
 2. Al menos treinta días antes del inicio formal de los procesos a que se refiere (sic) las fracciones I y II siguientes, cada partido determinará, conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate. La determinación deberá ser comunicada al Consejo General del Instituto dentro de las setenta y dos horas siguientes a su aprobación, señalando la fecha de inicio del proceso interno; el método o métodos que serán utilizados; la fecha para la expedición de la convocatoria correspondiente; los plazos que comprenderá cada fase del proceso interno; los órganos de dirección responsables de su conducción y vigilancia; la fecha de celebración de la asamblea electoral estatal, Distrital, Municipal o, en su caso, de realización de la jornada comicial interna, conforme a lo siguiente:
 
-I. Durante los procesos electorales en que se renueven el titular del Poder Ejecutivo, a los integrantes del Congreso del Estado y de los Ayuntamientos, las precampañas darán inicio en la tercera semana de noviembre del año previo al de la elección. No podrán durar más de dos terceras partes de la duración de la campaña respectiva;
+(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA LA FRACCIÓN I DEL NUMERAL 2 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-II. Durante los procesos electorales en que se renueve solamente a los integrantes del Congreso del Estado y de los Ayuntamientos, las precampañas darán inicio en la última semana de diciembre del año previo al de la elección. No podrán durar más de dos terceras partes de la duración de la campaña respectiva; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
+
+I. DURANTE LOS PROCESOS ELECTORALES EN QUE SE RENUEVEN EL TITULAR DEL PODER EJECUTIVO, A LOS INTEGRANTES DEL CONGRESO DEL ESTADO Y DE LOS AYUNTAMIENTOS, LAS PRECAMPAÑAS DARÁN INICIO EN LA PRIMERA SEMANA DE DICIEMBRE DEL AÑO PREVIO AL DE LA ELECCIÓN. NO PODRÁN DURAR MÁS DE DOS TERCERAS PARTES DE LA DURACIÓN DE LA CAMPAÑA RESPECTIVA;
+
+(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA LA FRACCIÓN II DEL NUMERAL 2 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
+
+II. DURANTE LOS PROCESOS ELECTORALES EN QUE SE RENUEVE SOLAMENTE A LOS INTEGRANTES DEL CONGRESO DEL ESTADO Y DE LOS AYUNTAMIENTOS, LAS PRECAMPAÑAS DARÁN INICIO EN LA SEGUNDA SEMANA DE DICIEMBRE DEL AÑO PREVIO AL DE LA ELECCIÓN. NO PODRÁN DURAR MÁS DE DOS TERCERAS PARTES DE LA DURACIÓN DE LA CAMPAÑA RESPECTIVA; Y
 
 III. Cuando un partido tenga prevista la celebración de una jornada de consulta directa, ésta se realizará el mismo día para todas las candidaturas.
 
@@ -3047,13 +3061,17 @@ III. Cuando un partido tenga prevista la celebración de una jornada de consulta
 
 5. Queda prohibido a los precandidatos a candidaturas a cargos de elección popular, en todo tiempo, la contratación de propaganda o cualquier otra forma de promoción personal en radio y televisión. La violación a esta norma se sancionará con la negativa de registro como precandidato, o en su caso con la cancelación de dicho registro. De comprobarse la violación a esta norma en fecha posterior a la de postulación del candidato por el partido de que se trate, el Instituto Electoral negará el registro legal del infractor.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014)</small>
+(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA EL NUMERAL 6 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-6. Los procesos internos para selección de candidatos de los partidos políticos no podrán iniciar antes de la primera semana de noviembre del año previo al de la elección cuando se elija Gobernador; y no podrán iniciar antes de la tercera semana de diciembre del año previo al de la elección cuando sólo se elijan diputados y munícipes.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2014)</small>
+6. LOS PROCESOS INTERNOS PARA SELECCIÓN DE CANDIDATOS DE LOS PARTIDOS POLÍTICOS NO PODRÁN INICIAR ANTES DE LA TERCERA SEMANA DE NOVIEMBRE DEL AÑO PREVIO AL DE LA ELECCIÓN CUANDO SE ELIJA GOBERNADOR; Y NO PODRÁN INICIAR ANTES DE LA CUARTA SEMANA DE NOVIEMBRE DEL AÑO PREVIO AL DE LA ELECCIÓN CUANDO SÓLO SE ELIJAN DIPUTADOS Y MUNÍCIPES.
 
-7. El registro interno de precandidatos en los partidos políticos deberá cerrar en la segunda semana de noviembre del año previo al de la elección cuando se elija Gobernador y en la cuarta semana de diciembre del año previo al de la elección cuando solo se elijan diputados y munícipes.
+(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA EL NUMERAL 7 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2023)</small>
+
+7. EL REGISTRO INTERNO DE PRECANDIDATOS EN LOS PARTIDOS POLÍTICOS DEBERÁ CERRAR CINCO DÍAS ANTES DEL INICIO DE LAS PRECAMPAÑAS.
 
 Artículo 230
 
@@ -3095,9 +3113,11 @@ Artículo 231
 
 Artículo 232
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA EL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-1. A más tardar en el treinta y uno de Octubre del año previo al de la elección, el Consejo General del Instituto Electoral determinará los montos de los topes de gastos de precampañas por precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinte por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2023)</small>
+
+1. A MÁS TARDAR EL QUINCE DE NOVIEMBRE DEL AÑO PREVIO AL DE LA ELECCIÓN, EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DETERMINARÁ LOS MONTOS DE LOS TOPES DE GASTOS DE PRECAMPAÑAS POR PRECANDIDATO Y TIPO DE ELECCIÓN PARA LA QUE PRETENDA SER POSTULADO. EL TOPE SERÁ EQUIVALENTE AL VEINTE POR CIENTO DEL ESTABLECIDO PARA LAS CAMPAÑAS INMEDIATAS ANTERIORES, SEGÚN LA ELECCIÓN DE QUE SE TRATE.
 
 2. (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
@@ -7871,7 +7891,11 @@ IV. Del registro de Candidatos Independientes.
 
 Artículo 692
 
-1. El Consejo General emitirá la Convocatoria dirigida a los ciudadanos jaliscienses interesados en postularse como Candidatos Independientes, señalando los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los plazos para recabar el apoyo ciudadano correspondiente, los topes de gastos que pueden erogar y los formatos para ello, en los siguientes plazos: en la primera semana de noviembre del año previo al de la elección cuando se elija Gobernador, y en la segunda semana de diciembre del año previo al de la elección cuando solo se elijan diputados y munícipes.
+(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA EL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2023)</small>
+
+1. EL CONSEJO GENERAL EMITIRÁ LA CONVOCATORIA DIRIGIDA A LOS CIUDADANOS JALISCIENSES INTERESADOS EN POSTULARSE COMO CANDIDATOS INDEPENDIENTES, SEÑALANDO LOS CARGOS DE ELECCIÓN POPULAR A LOS QUE PUEDEN ASPIRAR, LOS REQUISITOS QUE DEBEN CUMPLIR, LA DOCUMENTACIÓN COMPROBATORIA REQUERIDA, LOS PLAZOS PARA RECABAR EL APOYO CIUDADANO CORRESPONDIENTE, LOS TOPES DE GASTOS QUE PUEDEN EROGAR Y LOS FORMATOS PARA ELLO, EN LOS SIGUIENTES PLAZOS: EN LA TERCER SEMANA DE NOVIEMBRE DEL AÑO PREVIO AL DE LA ELECCIÓN CUANDO SE ELIJA GOBERNADOR, Y EN LA CUARTA SEMANA DE NOVIEMBRE DEL AÑO PREVIO AL DE LA ELECCIÓN CUANDO SOLO SE ELIJAN DIPUTADOS Y MUNÍCIPES.
 
 2. El Instituto Electoral dará amplia difusión a la Convocatoria.
 
@@ -7885,7 +7909,11 @@ Artículo 693
 
 1. Los ciudadanos que pretendan postular su candidatura independiente a un cargo de elección popular deberán hacerlo del conocimiento del Instituto Electoral por escrito en el formato que éste determine.
 
-2. Durante los procesos electorales, la manifestación de la intención se realizará en los siguientes plazos: en la segunda semana de noviembre del año previo al de la elección cuando se elija Gobernador, y en la tercera semana de diciembre del año previo de la elección cuando sólo se elijan diputados y munícipes.
+(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2023)</small>
+
+2. DURANTE LOS PROCESOS ELECTORALES, LA MANIFESTACIÓN DE LA INTENCIÓN SE REALIZARÁ EN LOS SIGUIENTES PLAZOS: EN LA CUARTA SEMANA DE NOVIEMBRE DEL AÑO PREVIO AL DE LA ELECCIÓN CUANDO SE ELIJA GOBERNADOR, Y EN LA PRIMERA SEMANA DE DICIEMBRE DEL AÑO PREVIO DE LA ELECCIÓN CUANDO SÓLO SE ELIJAN DIPUTADOS Y MUNÍCIPES
 
 3. Una vez hecha la comunicación a que se refiere el párrafo 1 de este artículo y recibida la constancia respectiva, los ciudadanos adquirirán la calidad de aspirantes. Quienes obtengan esta calidad, no podrán ser postulados como candidatos por algún partido político o coalición en el mismo proceso electoral, independientemente de que obtengan o no su registro como candidato independiente.
 
@@ -8806,3 +8834,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para la instalación del primer Consejo de Participación Ciudadana y Popular para la Gobernanza, la Secretaria de Planeación y Participación Ciudadana deberá integrar, en un plazo no mayor a sesenta días naturales, un Comité Técnico que se encargue de aprobar, emitir y publicar la convocatoria correspondiente, así como verificar el cumplimiento de los requisitos por parte de los aspirantes.
 
 Una vez hecho lo anterior, la Secretaría de Planeación y Participación Ciudadana y el Congreso del Estado procederán, respectivamente, en los términos de las fracciones III y IV, numeral 1, del artículo 13 de la Ley del Sistema de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco.
+
+(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23, POR EL CUAL SE REFORMAN LOS ARTÍCULOS 137, 214, 229, 232, 692 Y 693 DEL CÓDIGO ELECTORAL DEL ESTADO DE JALISCO, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTE DE MAYO DE DOS MIL VEINTITRÉS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+P.O. 20 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29185/LXIII/23 QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO ELECTORAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
