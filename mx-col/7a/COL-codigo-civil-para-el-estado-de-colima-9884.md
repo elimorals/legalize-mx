@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2023-03-11"
+last_updated: "2023-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2023.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -755,13 +755,21 @@ IV.- Los sindicatos, las asociaciones profesionales y las demás a que se refier
 
 V.- Las sociedades cooperativas y mutualistas;
 
-VI.- Las asociaciones distintas de las enumeradas que se propongan fines políticos, científicos, artísticos, de recreo o cualquiera otro fin lícito, siempre que no fueren desconocidas por la Ley.
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2023)</small>
+
+VI.- Los Condominios;
+
+VII.- Las asociaciones distintas de las enumeradas que se propongan fines políticos, científicos, artísticos, de recreo o cualquiera otro fin lícito, siempre que no fueren desconocidas por la Ley.
 
 ART. 26.- Las personas morales pueden ejercitar todos los derechos que sean necesarios para realizar el objeto de su institución.
 
 ART. 27.- Las personas morales obran y se obligan por medio de los órganos que las representan, sea por disposicón (sic) de la ley o conforme a las disposiciones relativas de sus escrituras constitutivas y de sus estatutos.
 
 ART. 28.- Las personas morales se regirán por las leyes correspondientes, por su escritura constitutiva y por sus estatutos.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2023)</small>
+
+La denominación de las personas morales se determina por la ley que las haya creado o reconocido o que las rija directamente; por acuerdo de quienes expresamente las constituyan; y por los usos y tradiciones que les resulten.
 
 ## TITULO TERCERO. Del domicilio
 
@@ -11970,3 +11978,17 @@ P.O. 11 DE MARZO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 20 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 273.- POR EL QUE SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 25, HACIÉNDOSE EL CORRIMIENTO RESPECTIVO DE LA SUBSECUENTE FRACCIÓN; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 28 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA; ADEMÁS, SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 1; Y SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 4; LA DENOMINACIÓN DEL CAPÍTULO III; EL ARTÍCULO 20 Y SU FRACCIÓN VII; DEL ARTÍCULO 22 SUS FRACCIONES XI Y XIII; Y DEL ARTÍCULO 24 LA FRACCIÓN IV, TODOS DE LA LEY DE CONDOMINIOS, REGLAMENTARIA DEL ARTÍCULO 947 DEL CÓDIGO CIVIL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Condominios constituidos antes de la entrada en vigor de este decreto, tendrán personalidad jurídica propia en los términos del mismo. Por lo tanto, las Asociaciones que se hayan constituido con el objeto de representar legalmente a los Condominios, quedarán disueltas sin necesidad de acuerdo de la asamblea respectiva, y todos los derechos y obligaciones de la misma pasarán a la persona moral del Condominio.
+
+No obstante, los estatutos de dichas asociaciones seguirán aplicándose a la organización y funcionamiento del Condominio de que se trate, hasta en tanto el Condominio en su caso, adecue o modifique sus propias disposiciones y en lo que no se opongan a su propia regulación.
