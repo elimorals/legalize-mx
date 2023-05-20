@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2021-12-14"
+last_updated: "2023-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2023.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -1250,6 +1250,10 @@ Los organismos descentralizados deberán rendir informes trimestrales al Ayuntam
 ###### Artículo 114.
 
 Cuando el organismo público descentralizado tenga por objeto la prestación de un servicio público, el Ayuntamiento, a propuesta del propio organismo y del estudio técnico que presente, fijará las tarifas que en su caso correspondan, mismas que deberán ser aprobadas por el Congreso del Estado.
+
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2023)</small>
+
+Para el caso de las cuotas y tarifas que establezcan los organismos públicos descentralizados operadores del servicio de agua potable y sus derivados, a que se refiere la fracción XIX del artículo 3 de la Ley de Aguas del Estado de Baja California Sur, se estarán en lo conducente, a lo establecido en la Sección Tercera del Capítulo IV, del Título Tercero de la Ley citada con antelación.
 
 ###### Artículo 115.
 
@@ -2562,3 +2566,13 @@ B.O. 14 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+B.O. 20 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2919 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR, Y DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Para efectos de lo previsto en la fracción V del artículo 30 del presente Decreto, se les concede a los organismos operadores municipales el término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a sus respectivos estatutos orgánicos.
+
+TERCERO.- Para efectos de lo previsto en la fracción VIII del artículo 10 del presente Decreto se le concede a la Comisión Estatal del Agua el término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias en su regulación interna.
