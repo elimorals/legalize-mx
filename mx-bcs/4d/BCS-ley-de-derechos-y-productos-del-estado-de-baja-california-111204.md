@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-y-productos-del-estado-de-baja-california-11120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2022-12-27"
+last_updated: "2023-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2023.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -919,63 +919,17 @@ a) Uso o goce del espacio de Centro de Convenciones,
 
 por hora o fracción; $400.00
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE MAYO DE 2023)</small>
 
-### Capítulo Quinto. De los Servicios prestados por la Secretaría de Turismo, Economía y Sustentabilidad
+### Capítulo Quinto. De los Servicios prestados por la Secretaría de Turismo y Economía
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE MAYO DE 2023)</small>
 
 ###### Artículo 20.
 
-Por los servicios que preste la Secretaría de Turismo, Economía y Sustentabilidad, se causarán y pagarán derechos conforme a la siguiente:
+Por los servicios que preste la Secretaría de Turismo y Economía, se causarán y pagarán derechos conforme a la siguiente:
 
-> <small>(REFORMADA [N. DE E. CON SUS NUMERALES E INCISOS], B.O. 31 DE DICIEMBRE DE 2018)</small>
-
-I.- En materia de Medio ambiente Tarifa:
-
-1. Impacto ambiental:
-
-a) Recepción, Evaluación y Resolución del Informe
-
-Preventivo; $9,147.00
-
-b) Recepción, Evaluación y Resolución de la Manifestación
-
-de Impacto Ambiental Modalidad General; $14,158.00
-
-c) Recepción, Evaluación y Resolución de Estudio de
-
-Riesgo; $38,895.00
-
-d) Recepción, Evaluación y Emisión del Registro de
-
-Prestadores de Servicio, y $8,352.00
-
-e) Modificación y Verificación de la Normatividad. $2,785.00
-
-2. Emisiones a la Atmósfera:
-
-a) Recepción, Evaluación y Emisión de la Licencia de
-
-Funcionamiento; $10,263.00
-
-b) Recepción, Evaluación y Emisión del Refrendo Anual
-
-de Licencia de Funcionamiento. $8,751.00
-
-3. Residuos:
-
-a) Recepción, Evaluación y Emisión del Registro del Plan de
-
-Manejo de Residuos de Manejo Especial (RME) $7,056.00
-
-> <small>(ADICIONADO [N. DE E. CON SU INCISO], B.O. 20 DE DICIEMBRE DE 2019)</small>
-
-4. Reportes;
-
-a) Reporte de cumplimiento de términos, condicionantes y
-
-criterios en materia ambiental; $2,785.00
+I.- (DEROGADA, B.O. 20 DE MAYO DE 2023)
 
 > <small>(ADICIONADA [N. DE E. CON SU INCISO], B.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -1027,15 +981,15 @@ e) Reposición de Licencia para ejercer como Agente
 
 Profesional Inmobiliario. $500.00
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE MAYO DE 2023)</small>
 
-### Capítulo Sexto. De los Servicios prestados por la Secretaría de Planeación Urbana, Infraestructura y Movilidad
+### Capítulo Sexto. De los servicios prestados por la Secretaría de Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE MAYO DE 2023)</small>
 
 ###### Artículo 21.
 
-Por los Servicios que preste la Secretaría de Planeación Urbana, Infraestructura y Movilidad, se causarán y pagarán derechos conforme a la siguiente:
+Por los servicios que preste la Secretaría de Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales, se causarán y pagarán derechos conforme a la siguiente:
 
 I.- Pavimentación Tarifa:
 
@@ -1152,6 +1106,94 @@ de transferencias por defunción o cesión de derechos
 a un familiar directo.
 
 Lo recaudado por el cobro de estos derechos tanto de concesiones nuevas como de las cesiones y/o regularizaciones se destinarán al Fondo Social para el Desarrollo de Baja California Sur, a efecto de constituir un fondo que permita otorgar créditos a transportistas, para la renovación de sus vehículos.
+
+> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES E INCISOS], B.O. 20 DE MAYO DE 2023)</small>
+
+IV.- Patrimonio inmobiliario y regulación
+
+de la Tenencia de la tierra, sobre
+
+predios propiedad del Gobierno del Estado: Tarifa:
+
+1. Expedición de título de propiedad; 2000.00
+
+2. Copia certificada de título de propiedad sin registrar:
+
+a) copia certificada; 221.00
+
+b) copia certificada con planos. 500.00
+
+3. Certificación de expediente técnico; 1000.00
+
+4. Convenio de cesión de derechos; 2000.00
+
+5. Copia certificada de Contrato de compraventa; 1000.00
+
+6. Constancia de posesión; 300.00
+
+7. Deslinde de medidas y colindancias; 800.00
+
+8. Certificado de medidas y colindancias; 600.00
+
+9. Emisión de copia de plano topográfico; 500.00
+
+10. Verificación documental y física en campo, 500.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES E INCISOS], B.O. 20 DE MAYO DE 2023)</small>
+
+V.- En materia de Medio ambiente Tarifa:
+
+1. Impacto ambiental:
+
+a) Recepción, Evaluación y Resolución del
+
+Informe Preventivo; $11,266.00
+
+b) Recepción, Evaluación y Resolución de
+
+la Manifestación de Impacto Ambiental
+
+Modalidad General; $17,437.00
+
+c) Recepción, Evaluación y Resolución
+
+de Estudio de Riesgo; $47,903.00
+
+d) Recepción, Evaluación y Emisión del
+
+Registro de Prestadores de Servicio, y $10,286.00
+
+e) Modificación y Verificación
+
+de la Normatividad. $3,430.00
+
+2. Emisiones a la Atmósfera:
+
+a) Recepción, Evaluación y Emisión de
+
+Licencia de Funcionamiento, y $12,640.00
+
+b) Recepción, Evaluación y Emisión de
+
+Refrendo Anual de Licencia
+
+de Funcionamiento. $10,778.00
+
+3. Residuos:
+
+a) Recepción, Evaluación y Emisión del
+
+Registro del Plan de Manejo de Residuos
+
+de Manejo Especial (RME). $8,690.00
+
+4. Reportes;
+
+a) Reporte de cumplimiento de
+
+términos, condicionantes y criterios
+
+en materia ambiental; $3,331.00
 
 ### Capítulo Séptimo. De los Servicios prestados por la Secretaría de Salud
 
@@ -1343,11 +1385,11 @@ Los ingresos que se obtengan por la recaudación de los derechos a que se refier
 
 ### Capítulo Noveno. De los servicios prestados por la Secretaría de Finanzas y Administración
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE MAYO DE 2023)</small>
 
 ###### Artículo 27.
 
-Por los servicios prestados por la Secretaría de Finanzas y Administración, se causaran y pagarán derechos conforme a la siguiente:
+Por los servicios prestados por la Secretaría de Finanzas y Administración, se causarán y pagarán derechos conforme a la siguiente:
 
 I.- Por las autoridades fiscales:
 
@@ -1541,6 +1583,10 @@ b) En horas inhábiles:
 
 11 Registro de nacimiento extemporáneo: 273.00
 
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2023)</small>
+
+11 Bis. Registro extemporáneo de defunción: 387.00
+
 12 Registro de adopción:
 
 a) En horas hábiles:
@@ -1559,7 +1605,13 @@ b) En horas inhábiles:
 
 y Plena: $911.00
 
-14 Reconocimientos: $456.00
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 2023)</small>
+
+14 Reconocimiento de paternidad: 651.00
+
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2023)</small>
+
+14 Bis. Reconocimiento de identidad de género: 526.00
 
 15 Matrimonios:
 
@@ -1613,17 +1665,15 @@ b) En horas inhábiles:
 
 2 Fuera de las oficinas del Registro Civil: $2,734.00
 
-F. Entre extranjeros fuera del territorio nacional:
+F. (DEROGADO, B.O. 20 DE MAYO DE 2023)
 
-a) Registro de matrimonios contraídos por extranjeros
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 2023)</small>
 
-fuera de la república: $2,278.00
+G. Por asiento de sentencia o resolución
 
-G. Por asiento de sentencia o resolución judicial de
+judicial de cambio de régimen matrimonial: 1,199.00
 
-cambio de régimen matrimonial: $456.00
-
-H. Cambio de Régimen de Sociedad Conyugal: $911.00
+H. (DEROGADO, B.O. 20 DE MAYO DE 2023)
 
 l. Cualquiera de los actos anteriores que requieran
 
@@ -1651,13 +1701,45 @@ Patria Potestad: $273.00
 
 18 Actas de supervivencia levantadas a domicilio: $273.00
 
-19 Inscripciones de extranjeros ante el Registro Civil: 2,278.00
+> <small>(REFORMADO ESTE PÁRRAFO, B.O. 20 DE MAYO DE 2023)</small>
+
+19 Inscripciones de extranjeros ante el Registro Civil:
+
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2023)</small>
+
+a) inscripción de nacimiento 3,233.00
+
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2023)</small>
+
+b) inscripción de matrimonio 3,233.00
+
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2023)</small>
+
+c) inscripción de defunción 3,233.00
+
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2023)</small>
+
+19 Bis. Registro de defunción en días
+
+y horas inhábiles: 359.00
 
 20 Certificación de inscripción de extranjeros: $456.00
 
-21 Autorización de exhumación, inhumación y
+> <small>(REFORMADO ESTE PÁRRAFO, B.O. 20 DE MAYO DE 2023)</small>
 
-re inhumación: $365.00
+21. Autorización de exhumación, inhumación y re inhumación:
+
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2023)</small>
+
+a) orden de exhumación: 517.00
+
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2023)</small>
+
+b) orden de inhumación: 517.00
+
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2023)</small>
+
+c) orden de re inhumación: 517.00
 
 22 Autorización de traslado de cadáver o restos áridos:
 
@@ -1665,13 +1747,13 @@ a) Traslado de cadáver o restos áridos dentro
 
 del Estado: $273.00
 
-b) Traslado de cadáver o restos áridos fuera
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 2023)</small>
 
-del Estado: $319.00
+b) Traslado de cadáver o restos
 
-c) Traslado de cadáver o restos áridos dentro
+áridos fuera del Estado: 453.00
 
-del país: $456.00
+c) (DEROGADO, B.O. 20 DE MAYO DE 2023)
 
 d) Traslado de cadáver o restos áridos fuera
 
@@ -2404,3 +2486,13 @@ B.O. 27 DE DICIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor el día 01 de enero del año 2023 previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO. Se derogan todas las disposiciones normativas que se opongan a lo establecido en el presente Decreto.
+
+B.O. 20 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2914 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo. Se derogan aquellas disposiciones que se opongan al presente decreto.
+
+Artículo Tercero. La modificación de todas las cuotas y tarifas comprendidas en el presente decreto, corresponden a la actualización de dichos cobros vigentes para el año fiscal que transcurre, por lo cual no deberán ser afectadas durante el presente ejercicio fiscal de acuerdo a lo establecido en el artículo primero de la presente ley.
