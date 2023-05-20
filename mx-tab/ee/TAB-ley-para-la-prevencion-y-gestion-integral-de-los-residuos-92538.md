@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-92538
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-29"
-last_updated: "2019-05-08"
+last_updated: "2023-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92538&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS, DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2023.
 
 Ley publicada en el Suplemento Q del Periódico Oficial del Estado de Tabasco, el sábado 29 de diciembre de 2012.
 
@@ -185,9 +187,17 @@ XI. Establecer medidas de urgente aplicación o correctivas y de seguridad para 
 
 XII. Establecer mecanismos de coordinación entre el Estado y los Municipios;
 
-XIII. Promover el control y la prevención de la contaminación y remediación de áreas o sitios contaminados; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
 
-XIV. Fomentar la reutilización y valorización de los materiales contenidos en los residuos que se generan en el Estado, a través de la promoción, desarrollo y establecimiento de esquemas e instrumentos voluntarios y flexibles de manejo integral.
+XIII. Promover el control y la prevención de la contaminación y remediación de áreas o sitios contaminados;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
+
+XIV. Fomentar la reutilización y valorización de los materiales contenidos en los residuos que se generan en el Estado, a través de la promoción, desarrollo y establecimiento de esquemas e instrumentos voluntarios y flexibles de manejo integral; y
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2023)</small>
+
+XV. Crear mecanismos que incentiven el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía.
 
 ###### ARTÍCULO 4.
 
@@ -287,9 +297,17 @@ VII. Celebrar convenios o acuerdos en materia de gestión y manejo de residuos c
 
 VIII. Celebrar convenios o acuerdos con las instituciones de educación superior e investigación en todos los niveles y con organismos internacionales, mediante los cuales se obtengan u otorguen recursos materiales y económicos para realizar investigaciones pertinentes a la problemática de la generación y manejo de residuos en el Estado;
 
-IX. Expedir los reglamentos, ordenamientos y demás disposiciones necesarias para proveer el cumplimiento de la presente Ley; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
 
-X. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos aplicables.
+IX. Expedir los reglamentos, ordenamientos y demás disposiciones necesarias para proveer el cumplimiento de la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MAYO DE 2023)</small>
+
+X. La vigilancia de las normas oficiales mexicanas expedidas por la Federación a las que deberán sujetarse los sitios, el diseño, la construcción y la operación de las instalaciones destinadas a la disposición final de los residuos sólidos urbanos para el aprovechamiento de la materia orgánica en proceso de generación de energía; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE MAYO DE 2023)</small>
+
+XI. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 10.
 
@@ -413,9 +431,25 @@ XXII. Establecer las rutas, horarios y frecuencias en que debe prestarse el serv
 
 XXIII. Participar en el marco del Sistema Estatal de Protección Civil y en coordinación con la Federación y el Estado, en la prevención y control de contingencias y emergencias ambientales derivadas de la generación y manejo de residuos de su competencia;
 
-XXIV. Inspeccionar y vigilar en el ámbito de su competencia, el cumplimiento de la presente Ley, su Reglamento y demás disposiciones aplicables; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
 
-XXV. Las demás que se establezcan en esta Ley, las normas oficiales mexicanas, normas ambientales estatales y otros ordenamientos jurídicos que resulten aplicables.
+XXIV. Inspeccionar y vigilar en el ámbito de su competencia, el cumplimiento de la presente Ley, su Reglamento y demás disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MAYO DE 2023)</small>
+
+XXV. Controlar los residuos sólidos urbanos y en coordinación con el Ejecutivo Estatal, aprovechar la materia orgánica en procesos de generación de energía;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2023)</small>
+
+XXVI. Llevar un registro y control de empresas y particulares concesionarios dedicados a la prestación del servicio de limpia de su competencia;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2023)</small>
+
+XXVII. Establecer el registro de planes de manejo de residuos sólidos urbanos, así como programas para la instalación de sistemas destinados a su recolección, acopio, almacenamiento, transporte, tratamiento, valorización y disposición final, conforme a los lineamientos establecidos en la presente Ley, las Normas Oficiales Mexicanas y las Normas Técnicas Ambientales que al efecto se emitan, en el ámbito de su competencia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE MAYO DE 2023)</small>
+
+XXVIII. Las demás que se establezcan en esta Ley, las normas oficiales mexicanas, normas ambientales estatales y otros ordenamientos jurídicos que resulten aplicables.
 
 ### CAPÍTULO II. DE LA COORDINACIÓN DE LAS AUTORIDADES
 
@@ -531,7 +565,13 @@ Además de los señalados anteriormente, también se consideran residuos de mane
 
 Los residuos sólidos urbanos deberán clasificarse en orgánicos e inorgánicos, con objeto de facilitar su separación primaria y secundaria, de conformidad con los Programas Estatal y Municipal para la Prevención y Gestión Integral de los Residuos que al efecto se elaboren y demás disposiciones aplicables.
 
-Para tal efecto, las autoridades municipales, en el marco de sus respectivas competencias, promoverán programas de concientización, para la separación de los residuos sólidos urbanos, distinguiendo entre orgánicos e inorgánicos, e implementarán acciones y medidas para su cumplimiento.
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2023)</small>
+
+Todo generador de residuos sólidos urbanos tiene la obligación de separarlos en orgánicos e inorgánicos desde su fuente.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2023)</small>
+
+Para tal efecto, las autoridades municipales, en el marco de sus respectivas competencias, promoverán programas de concientización, para la separación de los residuos sólidos urbanos, distinguiendo entre orgánicos e inorgánicos. De igual manera, implementarán acciones, medidas y sanciones para su cumplimiento.
 
 ###### ARTÍCULO 21.
 
@@ -804,6 +844,14 @@ VI. Incentivar el desarrollo de tecnologías que sean económica, ambiental y so
 Para el cumplimiento del principio de valorización y aprovechamiento de los residuos, se podrá transmitir la propiedad de los mismos a título oneroso o gratuito, para ser utilizados como insumo o materia prima en otro proceso productivo.
 
 En este caso, dichos residuos no se estimarán desechados y podrán considerarse como subproductos cuando la transmisión de propiedad se encuentre documentada e incluida en el plan de manejo que se haya registrado ante la Secretaría, y que en su manejo se haya observado lo previsto en la LGPGIR, la LPAET, la presente Ley, su Reglamento, las normas oficiales mexicanas y normas ambientales estatales que de ellos deriven.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2023)</small>
+
+Los municipios podrán disponer de los residuos sólidos urbanos que recolecten en la esfera de su competencia que sean susceptibles de valorización, con la finalidad de generar ingresos al Ayuntamiento. Asimismo, podrán disponer de los recursos obtenidos para la sostenibilidad de las políticas públicas que fomenten la implementación de la gestión integral.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2023)</small>
+
+Estos residuos sólidos urbanos deben depositarse en contenedores separados para su recolección por el servicio de recolección, con el fin de facilitar su aprovechamiento, tratamiento y disposición final, o bien, llevar aquellos residuos sólidos valorizables directamente a los establecimientos de reutilización y reciclaje.
 
 ### CAPÍTULO III. DEL PROGRAMA DE MANEJO DE RESIDUOS EN SITUACIONES DE DESASTRES
 
@@ -1682,3 +1730,13 @@ SEGUNDO. La Secretaría de Bienestar, Sustentabilidad y Cambio Climático, emiti
 TERCERO. Los municipios del Estado de Tabasco tendrán hasta el 31 de diciembre de 2019, para efectos de reformar sus reglamentos en la materia y armonizarlos al presente Decreto.
 
 CUARTO. Tratándose de las sanciones que se originen por el incumplimiento de la prohibición contenida en la presente reforma, se aplicarán a partir del 01 de enero de 2020.
+
+P.O. 20 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 161 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 3, FRACCIONES XIII Y XIV; 9 FACCIONES IX Y X; 11, FRACCIONES XXIV Y XXV; Y 20, PÁRRAFO SEGUNDO. SE ADICIONAN LA FRACCIÓN XV AL ARTÍCULO 3; LA FRACCIÓN XI AL ARTÍCULO 9; LAS FRACCIONES XXVI, XXVII Y XXVIII AL ARTÍCULO 11; UN SEGUNDO PÁRRAFO AL ARTÍCULO 20, RECORRIÉNDOSE EN ORDEN EL SUBSECUENTE; UN TERCER Y CUARTO PÁRRAFO AL ARTÍCULO 37; TODOS DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor el 01 de enero de 2024.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los ayuntamientos deberán realizar las adecuaciones administrativas, operativas y de recursos humanos correspondientes para el cumplimiento del presente Decreto.
