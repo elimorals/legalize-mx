@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2023-05-10"
+last_updated: "2023-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2023.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -2911,11 +2911,11 @@ El obligado a dar alimentos cumple esta obligación asignando una pensión sufic
 
 El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos de éste, cuando se trate de un hijo en custodia ajena o cuando haya inconveniente legal para hacer esa incorporación.
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 2023)</small>
 
 ###### Artículo 461.
 
-Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos. Determinados por convenio, los alimentos tendrán un incremento automático equivalente al porcentaje en que aumente el valor diario de la Unidad de Medida y Actualización, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en la misma proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiere obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos, el parámetro para fijarlos deberá realizarse con base en el Salario Mínimo Vigente. Determinados por convenio, los alimentos tendrán un incremento automático equivalente al porcentaje en que aumente el Salario Mínimo Vigente, salvo que la persona deudora alimentaria demuestre que sus ingresos no aumentaron en la misma proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiere obtenido la persona deudora. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
 
 ###### Artículo 462.
 
@@ -16244,3 +16244,9 @@ B.O. 10 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 2917 SE REFORMA EL SEGUNDO PÁRRAFO (SIC) ARTÍCULO 325 BIS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2916 SE REFORMA EL ARTÍCULO 461 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO. El Presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
