@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-aguas-del-estado-de-baja-california-sur-21957"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-31"
-last_updated: "2023-04-30"
+last_updated: "2023-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2023.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de julio de 2001.
 
@@ -303,9 +303,11 @@ IV. Un Comisario Público; y
 
 V. El personal técnico y administrativo que requiera para su funcionamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE MAYO DE 2023)</small>
+
 ###### Artículo 10.
 
-La Junta de Gobierno se integrará por los siguientes miembros:
+La Junta de Gobierno de la Comisión se integrará por los siguientes miembros:
 
 I. El Gobernador del Estado, quien la presidirá;
 
@@ -317,9 +319,17 @@ IV. Un representante de los Organismos Operadores Municipales o Intermunicipales
 
 V. Un representante de la Comisión Nacional del Agua;
 
-VI. Un Secretario Técnico quien será el Director General de la Comisión; y
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2023)</small>
 
-VII. El Presidente del Consejo Consultivo de la Comisión.
+VI. Un Secretario Técnico quien será el Director General de la Comisión;
+
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2023)</small>
+
+VII. El Presidente del Consejo Consultivo de la Comisión, y
+
+> <small>(ADICIONADA, B.O. 20 DE MAYO DE 2023)</small>
+
+VIII. Un integrante del Congreso del Estado, solo con voz, que será un integrante de la Comisión Permanente del Agua, pudiendo suplir sus ausencias la o el diputado que determine de común acuerdo la citada Comisión.
 
 Los representantes a que se refiere la fracción III serán designados en la forma y por el periodo que se señale en el Estatuto Orgánico de la Comisión.
 
@@ -377,7 +387,9 @@ La Junta de Gobierno de la Comisión tendrá además las atribuciones necesarias
 
 El Director General de la Comisión deberá ser ciudadano mexicano con experiencia técnica y administrativa profesional comprobada en materia del agua, y tendrá las siguientes atribuciones:
 
-I. Representar legalmente al Organismo, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la Ley; así como otorgar poderes, formular querellas y denuncias, otorgar el perdón extintivo de la acción penal, articular y absolver posiciones, así como promover y desistirse del juicio de amparo;
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2023)</small>
+
+I. Representar legalmente a la Comisión, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la Ley; así como otorgar poderes, formular querellas y denuncias, otorgar el perdón extintivo de la acción penal, articular y absolver posiciones, así como promover y desistirse del juicio de amparo;
 
 II. Presentar a la Junta de Gobierno, para su aprobación, las acciones de planeación y programación hidráulica que habrán de tratarse en el Consejo de Cuenca; así como aquéllas necesarias para la ejecución de las funciones que la Federación transfiera al Gobierno del Estado;
 
@@ -417,7 +429,9 @@ XVII. Realizar las actividades que se requieran para lograr que el Organismo pre
 
 XVIII. Fungir como Secretario de la Junta de Gobierno con voz, y voto;
 
-XIX. Someter a la aprobación de la Junta de Gobierno el proyecto de estatuto orgánico del Organismo y sus modificaciones; y
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2023)</small>
+
+XIX. Someter a la aprobación de la Junta de Gobierno el proyecto de estatuto orgánico de la Comisión y sus modificaciones; y
 
 XX. Las demás que le señale la Junta de Gobierno, esta Ley y el estatuto orgánico.
 
@@ -631,9 +645,17 @@ I. El Presidente Municipal, quien la presidirá;
 
 II. Un regidor;
 
-III. Un representante de la Comisión; y
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2023)</small>
 
-IV. Cuatro representantes del Consejo Consultivo del organismo, uno de los cuales será el Presidente de dicho Consejo y los demás designados en los términos del estatuto orgánico del organismo, debiendo uno representar a los usuarios domésticos, otro a los comerciales y de servicio, y el último a los industriales.
+III. Un representante de la Comisión;
+
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2023)</small>
+
+IV. Cuatro representantes del Consejo Consultivo del organismo, uno de los cuales será el Presidente de dicho Consejo y los demás designados en los términos del estatuto orgánico del organismo, debiendo uno representar a los usuarios domésticos, otro a los comerciales y de servicio, y el último a los industriales, y
+
+> <small>(ADICIONADA, B.O. 20 DE MAYO DE 2023)</small>
+
+V. Un integrante del Congreso del Estado, solo con voz, que será un integrante de la Comisión Permanente del Agua, pudiendo suplir sus ausencias la o el Diputado que determine de común acuerdo la citada Comisión.
 
 El Director General del organismo fungirá como Secretario de la Junta de Gobierno, a cuyas sesiones asistirá con voz, y voto.
 
@@ -1926,3 +1948,13 @@ B.O. 30 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2669 SE EXPIDE LA LEY DE FOMENTO DE LA CULTURA DEL CUIDADO Y USO RACIONAL DEL AGUA PARA EL ESTADO DE BAJA CALIFORNIA SUR Y SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2919 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR, Y DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Para efectos de lo previsto en la fracción V del artículo 30 del presente Decreto, se les concede a los organismos operadores municipales el término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a sus respectivos estatutos orgánicos.
+
+TERCERO.- Para efectos de lo previsto en la fracción VIII del artículo 10 del presente Decreto se le concede a la Comisión Estatal del Agua el término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias en su regulación interna.
