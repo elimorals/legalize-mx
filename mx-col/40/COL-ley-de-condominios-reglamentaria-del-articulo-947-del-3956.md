@@ -4,7 +4,7 @@ identifier: "COL-ley-de-condominios-reglamentaria-del-articulo-947-del-3956"
 country: "mx"
 rank: "ley"
 publication_date: "1981-10-31"
-last_updated: "2004-07-24"
+last_updated: "2023-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE CONDOMINIOS, REGLAMENTARIA DEL ARTICULO 947 DEL CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 31 de octubre de 1981.
 
@@ -54,6 +54,10 @@ I.- Cuando los diferentes pisos, departamentos, viviendas, casas o locales de qu
 II.- Cuando los diferentes pisos, departamentos, viviendas, casas o locales que se construyen dentro de un inmueble, pero contando éste con elementos comunes e indivisibles, cuya propiedad privada se reserva en los términos del artículo que se reglamenta, se destinen a la enajenación a personas distintas.
 
 III.- Cuando el propietario o propietarios de un inmueble lo dividan en diferentes pisos, departamentos, viviendas, casas o locales, para enajenarlos a distintas personas, siempre que exista un elemento común, de propiedad privada, que sea indivisible.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2023)</small>
+
+No podrá adoptarse el régimen de propiedad en condominio sobre un inmueble cuando no existan elementos, bienes o áreas comunes, además de las unidades privativas.
 
 > <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
 
@@ -109,9 +113,9 @@ VII.- Los bienes de propiedad común, su destino, con la especificación y detal
 
 VIII.- Características y monto de la póliza de fianza que deben exhibir los obligados para responder de la ejecución de la construcción del condominio en general y de los vicios de éste que será determinado por la dependencia municipal al otorgarse, en su caso, la autorización a que se refiere el artículo 2º de esta Ley.
 
-> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
 
-IX.- La constitución de la asociación de Condóminos que contendrá los Estatutos de la misma.
+IX.- El nombre del condominio, el cual se integrará iniciando con la expresión "Condominio", seguida de la denominación que le corresponda;
 
 X.- El Reglamento del Condominio que corresponda.
 
@@ -223,33 +227,59 @@ IV.- Los condóminos no podrán emprender ni realizar obra alguna en los bienes 
 
 V.- Se prohiben las obras que puedan poner en peligro la seguridad, estabilidad y conservación o afecten la comodidad del condominio; las que impidan permanentemente el uso de una parte o servicio común, aunque sea a un solo dueño y las que demeriten cualquier piso, departamento, vivienda, casa o local.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MAYO DE 2023)</small>
 
 ### CAPITULO III
 
-DE LA ASOCIACION DE CONDOMINIOS Y DE LA ADMINISTRACION DEL CONDOMINIO.
+DE LA ASAMBLEA DE CONDOMINOS Y DE LA ADMINISTRACION DEL CONDOMINIO.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 20.
 
-Al constituirse el régimen de propiedad en condominio conforme al artículo 4º de esta Ley, se constituirá además la Asociación de Condóminos que estará integrada por los propietarios de los inmuebles que integran el régimen y la cual ejercerá la representación legal del condominio de conformidad con lo dispuesto en esta Ley, en los Estatutos de la Asociación y en el Reglamento del condominio.
+El condominio es, por una parte, un régimen de propiedad y copropiedad al que está sujeto un inmueble y, por otra, un régimen asociativo o de comunidad que vincula a los condóminos que participan en el mismo, en al menos, sus aportaciones, la administración del inmueble, la representación de los condóminos respecto de los asuntos comunes, así como la adopción de decisiones.
 
-La Asamblea General será el órgano supremo de la Asociación de Condóminos, pero ésta podrá tener Asambleas de Grupo convocadas para resolver los casos previstos en el artículo 31 de esta Ley. Para unas y otras rigen las siguientes prevenciones.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MAYO DE 2023)</small>
+
+Como régimen asociativo o de comunidad, el condominio tiene personalidad jurídica, y su patrimonio estará integrado por las cuotas que aporten los condóminos, los fondos que se constituyan con tales cuotas, así como por los otros bienes que el condominio adquiera y los que, en su caso, determine la escritura constitutiva del condominio. Por lo tanto, queda excluido de dicho patrimonio el inmueble sujeto a dicho régimen.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MAYO DE 2023)</small>
+
+La persona moral del condominio quedará formalmente constituida al otorgarse la escritura en la cual se adopte sobre un inmueble el régimen de propiedad en condominio.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MAYO DE 2023)</small>
+
+La Asamblea General es el órgano supremo del Condominio. El Condominio podrá celebrar Asambleas Generales y de Grupo convocadas para resolver los casos previstos en al artículo 31 de esta Ley. Para unas y otras rigen las siguientes prevenciones:
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
 
 I.- Las generales se celebrarán por lo menos una vez por año y tanto ellas como las de grupo, cuantas veces sean convocadas conforme a lo dispuesto por esta Ley y el Reglamento del Condominio.
 
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
 II.- Cada condómino gozará de un número de votos igual al porcentaje del valor de su piso, departamento, vivienda, casa o local que represente en el total del condominio.
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
 
 III.- La votación será personal, nominal y directa, pero el reglamento del condominio puede facultar la representación y determinar otras formas y procedimientos.
 
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
 IV.- Las resoluciones de la asamblea se tomarán por mayoría simple de votos, excepto en los casos en que la presente Ley y el Reglamento del Condominio prescriban una mayoría especial.
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
 
 V.- Cuando un sólo condómino represente cuando menos el 50% de los votos, se requerirá, además, el 50% de los votos restantes para que sean válidos los acuerdos. Cuando no se llegue a acuerdo válido, el condómino mayoritario o el grupo minoritario podrá someter la discrepancia en los términos del artículo 38 de esta Ley, facultándose a los minoritarios para hacerse representar por personas distinta al administrador.
 
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
 VI.- Las Asambleas serán presididas en la forma que prevea el Reglamento del Condominio, según lo dispuesto en el Artículo 27, fracción VI de esta Ley. Fungirá como Secretario de ellas el Administrador, si es persona física y si lo es moral, la persona que ésta designe.
 
-VII.- El Secretario llevará un libro de actas, que deberá estar autorizado por la Secretaría General de Gobierno del Estado. Las actas, por su parte, serán autorizadas con la fé del propio Secretario o del Notario Público, por el Presidente de la Asamblea y el del Comité de Vigilancia.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
+
+VII.- La Secretaría llevará un libro de actas que abrirá y autorizará la persona que administre y el Comité de Vigilancia en turno. Las actas, por su parte, deberán estar firmadas por la Presidencia, la Secretaría y Escrutador o escrutadores de la Asamblea, y formará anexo de la misma la lista de asistencia.
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
 
 VIII.- El Secretario tendrá siempre a la vista de los condóminos y de los acreedores registrados, el libro de actas y les informará por escrito a cada uno las resoluciones que adopte la asamblea.
 
@@ -291,23 +321,27 @@ IX.- Instruir al administrador para el cumplimiento de lo previsto en la fracci�
 
 X.- Adoptar las medidas conducentes sobre los asuntos de interés común que no se encuentren comprendidos dentro de las funciones conferidas al Administrador.
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
 
-XI.- Modificar la escritura constitutiva del Condómino y de la Asociación de Condóminos, así como el Reglamento del Condominio, en los casos y condiciones que prevean la una y el otro, dentro de las disposiciones legales aplicables.
+XI.- Modificar la escritura constitutiva del Condominio, así como el Reglamento del Condominio, en los casos y condiciones que prevean la una y el otro, dentro de las disposiciones legales aplicables.
 
 > <small>(ADICIONADA, P.O. 24 DE JULIO DE 2004)</small>
 
 XII. Otorgar al administrador Poder General para pleitos, cobranzas y actos de la administración con facultades especiales en los términos del artículo 2444 del Código Civil vigente en el estado, para la defensa y la representación legal del condominio.
 
-XIII.- Las demás que le confiera la presente Ley, el Reglamento del Condominio, la escritura constitutiva del Condominio y de la Asociación y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
+
+XIII.- Las demás que le confiera la presente Ley, el Reglamento del Condominio, la escritura constitutiva del Condominio y demás disposiciones aplicables.
 
 ###### ARTICULO 23.
 
 Los Condóminos serán administrados por la persona física o moral que designe la Asamblea de condóminos en los términos de esta Ley y del Reglamento del Condominio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 24.
 
-Corresponderá al Administrador:
+Corresponderá a la Administración del Condominio:
 
 I.- Cuidar y vigilar los bienes del condominio y los servicios comunes y promover la integración, organización y desarrollo de la comunidad. Entre los servicios comunes quedan comprendidos los que a su vez sean comunes con otros condominios o con vecinos de casas unifamiliares, cuando estén ubicados dentro de un conjunto o unidad urbana habitacional, o sean edificios, alas o secciones de una construcción vasta. La prestación de estos servicios y los problemas que surjan con motivo de la contigüidad del condominio con otros o con vecinos de casas unifamiliares serán resueltos en las asambleas correspondientes, llevando la representación de los condóminos respectivos el Administrador o la persona designada al efecto.
 
@@ -315,9 +349,9 @@ II.- Recabar y conservar los libros y documentos relacionados con el condominio,
 
 III.- Atender la operación de las instalaciones y servicios generales.
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
 
-IV.- Ser el ejecutor de los acuerdos de la Asamblea General y, previa autorización de la misma, representar a la Asociación de Condóminos con las facultades que la Asamblea General decida, y realizar todos los actos de administración y conservación del Condominio.
+IV.- Ser representante legal del Condominio y el ejecutor de los acuerdos de la Asamblea General para realizar todos los actos de administración y conservación del Condominio. Con las facultades necesarias para representar legalmente al Condominio, como Apoderado General para Pleitos y Cobranzas, y para Actos de Administración. Estas facultades podrán ser ampliadas o limitadas por la Asamblea General.
 
 V.- Realizar las obras necesarias en los términos de la fracción I del artículo 21 de esta Ley.
 
@@ -536,3 +570,17 @@ P.O. 24 DE JULIO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
 
 Segundo.- Los condóminos que previo a esta reforma hayan constituido una forma diferente de representación a la prevista en el presente Decreto, continuarán operando con esa forma de representación, salvo que los interesados decidan otra cosa.
+
+P.O. 20 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 273.- POR EL QUE SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 25, HACIÉNDOSE EL CORRIMIENTO RESPECTIVO DE LA SUBSECUENTE FRACCIÓN; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 28 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA; ADEMÁS, SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 1; Y SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 4; LA DENOMINACIÓN DEL CAPÍTULO III; EL ARTÍCULO 20 Y SU FRACCIÓN VII; DEL ARTÍCULO 22 SUS FRACCIONES XI Y XIII; Y DEL ARTÍCULO 24 LA FRACCIÓN IV, TODOS DE LA LEY DE CONDOMINIOS, REGLAMENTARIA DEL ARTÍCULO 947 DEL CÓDIGO CIVIL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Condominios constituidos antes de la entrada en vigor de este decreto, tendrán personalidad jurídica propia en los términos del mismo. Por lo tanto, las Asociaciones que se hayan constituido con el objeto de representar legalmente a los Condominios, quedarán disueltas sin necesidad de acuerdo de la asamblea respectiva, y todos los derechos y obligaciones de la misma pasarán a la persona moral del Condominio.
+
+No obstante, los estatutos de dichas asociaciones seguirán aplicándose a la organización y funcionamiento del Condominio de que se trate, hasta en tanto el Condominio en su caso, adecue o modifique sus propias disposiciones y en lo que no se opongan a su propia regulación.
