@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-conducta-de-los-servidores-publicos-del-instituto-126
 country: "mx"
 rank: "codigo"
 publication_date: "2018-02-02"
-last_updated: "2018-02-02"
+last_updated: "2023-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DEL INSTITUTO SINALOENSE PARA LA EDUCACION DE LOS ADULTOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO SINALOENSE PARA LA EDUCACIÓN DE LOS JÓVENES Y ADULTOS, PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO SINALOENSE PARA LA EDUCACIÓN DE LOS ADULTOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2023 (ABROGADO).
 
 Código publicado en el Número 15 del Periódico Oficial del Estado de Sinaloa, el 2 de febrero de 2018.
 
@@ -180,3 +182,17 @@ Es dado en la ciudad de Culiacán, Rosales, Sinaloa a los dieciocho días del me
 La Directora General del Instituto Sinaloense para la Educación de los Adultos
 
 Lic. Blanca Rosa Castañeda Verduzco
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DEL INSTITUTO SINALOENSE PARA LA EDUCACIÓN DE LOS JÓVENES Y ADULTOS".]
+
+PRIMERO.- El presente Código de Conducta del Instituto Sinaloense para la Educación de los Jóvenes y Adultos, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En cumplimiento de lo establecido en el artículo Décimo Tercero de los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativa (sic), emitidos por la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, el presente Código, deberá de publicarse en el Periódico Oficial "El Estado de Sinaloa"; asimismo, en concordancia con lo establecido en el artículo 9 del Código de Ética de los Servidores Públicos del Gobierno del Estado de Sinaloa publicado el 7 de septiembre de 2020 en el periódico oficial "El Estado de Sinaloa", el presente Código deberá de difundirse y publicarse, en la página de internet institucional de ISEJA.
+
+TERCERO.- Las Áreas del ISEJA a través del Comité de Ética, deberán hacer del conocimiento al personal adscrito a sus áreas el Código de Conducta de esta Dependencia, mediante oficios y acuse, presentaciones presenciales, cuadernillo impreso, correo electrónico y por otras vías más eficaces existentes, una vez publicado el mismo.
+
+CUARTO.- Se abroga el Código de Conducta del Instituto Sinaloense para la Educación de los Adultos, publicado en el Periódico Oficial el Estado de Sinaloa, de fecha 02 de febrero de 2018.
