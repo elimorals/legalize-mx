@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2023-04-21"
+last_updated: "2023-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2015-08-13"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2024 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE MAYO DE 2023.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -1151,6 +1153,10 @@ Las niñas, niños y adolescentes tienen derecho a recibir orientación, educaci
 Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender investigar, perseguir y sancionar conforme a derecho corresponda, los casos en que niñas, niños o adolescentes se vean afectados por:
 
 I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual;
+
+> <small>(ADICIONADA, G.O. 22 DE MAYO DE 2023)</small>
+
+I Bis. La obstrucción sin causa jurídicamente válida del derecho de visita o convivencia conforme a los términos y horarios establecidos en una resolución judicial de carácter familiar;
 
 II. La corrupción de personas menores de dieciocho años de edad;
 
@@ -2853,3 +2859,13 @@ Segundo. El presente Decreto entra en vigor al día siguiente de su publicación
 Tercero. Las personas titulares o representantes legales de los Centros de Asistencia Social y todas las instituciones que brinden cuidados alternativos contarán con un plazo de 120 días para cumplir con la disposición del presente Decreto.
 
 Cuarto. El DIF-CDMX realizará las adecuaciones administrativas y reglamentarias para el debido cumplimento del presente Decreto.
+
+G.O. 22 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN I BIS AL ARTÍCULO 44 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se derogan todas aquellas disposiciones que contravengan el presente decreto.
