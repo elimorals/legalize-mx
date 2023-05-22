@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2022-12-19"
+last_updated: "2023-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2023.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -122,6 +122,10 @@ San Francisco de los Romo
 ###### ARTICULO 4°.
 
 A los centros de población que en el futuro le sean declaradas sus categorías político-administrativas por el Congreso del Estado, será solicitud del H. Ayuntamiento, y se les tendrá por incluidas en el presente Código.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 4° BIS.- El lenguaje empleado en el presente Código Municipal no genera ninguna distinción ni establece diferencias entre mujeres y hombres, por lo que las referencias o alusiones en la redacción hechas hacia un género representan a ambos sexos, sin discriminación alguna.
 
 ### CAPITULO III. Nombre y Escudo
 
@@ -285,6 +289,8 @@ VI. Los Delegados Municipales; y
 
 VII. Los Comisarios Municipales.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 22 DE MAYO DE 2023)</small>
+
 Los Organismos Auxiliares serán honorarios y ejercerán las atribuciones que les confieran las Autoridades Municipales, siendo de carácter enunciativo más no limitativo los siguientes:
 
 I. Consejo de Desarrollo Municipal;
@@ -313,7 +319,9 @@ XII. Comisión del Combate al Narcomenudeo;
 
 XIII. Los Comités de Obras;
 
-XIV. Comité de Desarrollo Urbano, Rural y Ecología;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
+
+XIV. Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano;
 
 XV. Comité de Participación Ciudadana;
 
@@ -1335,23 +1343,23 @@ Departamento de Desarrollo Económico;
 
 Departamento de Desarrollo Agropecuario.
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-XII.- DIRECCIÓN DE DESARROLLO URBANO.
+XII.- DIRECCIÓN DE DESARROLLO URBANO
 
-Director de Desarrollo Urbano;
+Director;
 
 Subdirector de Desarrollo Urbano;
 
-Departamento de Planes y Proyectos;
+Departamento de Planes y Programas;
 
-Departamento de Uso de Suelo;
+Departamento de Usos del Suelo;
 
 Departamento de Cartografía;
 
-Departamento de Fraccionamientos y Regularización;
+Departamento de fraccionamientos, condominios, desarrollos inmobiliarios especiales y regularización de asentamientos humanos;
 
-Departamento de Supervisión e Imagen Urbana.
+Departamento de Supervisión e imagen urbana.
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
@@ -2429,17 +2437,17 @@ Corresponde a la Dirección de Desarrollo Urbano,
 
 I. Participar en la elaboración de los proyectos de reglamentación de zonificación y usos del suelo, de planeación, de construcciones, de ordenamiento territorial y de protección al ambiente;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-II. Diseñar, crear y aplicar los programas de desarrollo urbano, mediante los cuales se regirá la planeación municipal;
+II. Formular, diseñar, actualizar, modificar y aplicar los programas y esquemas de desarrollo urbano, en los términos previstos en el Código Urbano para el Estado, bajo los cuales se regirá la planeación municipal;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-III. Ejercer las atribuciones que le otorga el Código Urbano al Municipio, en cuanto a la creación de condominios y de fraccionamientos y su municipalización, así como el control del cumplimiento de las obligaciones de los fraccionadores y promoventes de los condominios;
+III. Ejercer las atribuciones que le otorga el Código Urbano para el Estado al Municipio, en cuanto a la autorización, modificación y revocación de fraccionamientos y su municipalización, así como de los condominios, del control del cumplimiento de las obligaciones de los fraccionadores y promotores de condóminos y desarrollos inmobiliarios especiales;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-IV. Coordinar la participación del Comité de Desarrollo Urbano y Rural en cuanto a las atribuciones que le otorga el Código Urbano para el Estado de Aguascalientes, así como del Comité Técnico de Municipalización;
+IV. Coordinar la participación del Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano en cuanto a las atribuciones que le otorga el Código Urbano para el Estado de Aguascalientes, así como del Comité Técnico de Municipalización;
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2449,13 +2457,17 @@ V. Controlar y regular la ocupación de las reservas de crecimiento de los ejido
 
 VI. Administrar y verificar el control urbano con el otorgamiento de las siguientes autorizaciones:
 
-a) Alineamiento y Compatibilidad Urbanística;
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
+
+a) Informe y Constancia Municipal de Compatibilidad Urbanística;
 
 b) Anuncios;
 
 c) Fusión de Predios;
 
-d) Subdivisión de predios Relotificación de Predios;
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
+
+d) Subdivisión y Relotificación de predios;
 
 e) Licencias para la construcción, reparación, remodelación y demolición de fincas;
 
@@ -2463,11 +2475,15 @@ f) Realización de obras, instalaciones y reparaciones en la vía pública;
 
 g) Números oficiales para las fincas; y
 
-h) Prevenir y manejar los asentamientos humanos irregulares.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+h) Prevenir, regular e intervenir en la regularización de los asentamientos humanos irregulares;
 
-VII. Supervisar y regular los parques industriales del Municipio y evaluar, autorizar o negar, y supervisar los nuevos proyectos de ocupación en los mismos
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
+
+VII. Por conducto de las unidades externas de supervisión, verificar y constatar que la ejecución de las obras de urbanización, sean compatibles con el proyecto autorizado, la calidad de los materiales y trabajos realizados en las mismas y en obras de edificación, así como el avance de éstas en los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones. Adicionalmente a lo anterior y de manera aleatoria supervisar directamente y con su personal los trabajos de verificación que efectúen las unidades externas de supervisión.
+
+Para los efectos de lo señalado en el párrafo anterior, le corresponderá aplicar las disposiciones contenidas en éste Código Municipal, para la Asignación, Funcionamiento, Coordinación y Control de las Unidades Externas de Supervisión;
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2505,9 +2521,9 @@ XV. Aplicar medidas de seguridad en inmuebles, en los casos previstos en este C�
 
 XVI. Ordenar y/o ejecutar demoliciones en inmuebles en los casos previstos por este Código;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-XVII. Autorizar la ocupación de una construcción siempre que se hayan cumplido los requisitos de este Código, o en caso contrario negarla;
+XVII. Autorizar la ocupación de una construcción siempre que se hayan cumplido los requisitos de este Código y del proyecto correspondiente, mediante la expedición de la constancia de terminación de obra, o en caso contrario negarla;
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2525,41 +2541,77 @@ XX. Expedir normas técnicas complementarias para el debido cumplimiento en lo r
 
 XXI. Determinar los requisitos y procedimientos para la asignación, forma de instalación, rectificación y cambio de nomenclatura de fraccionamientos, vialidades, parques, jardines, plazas, sitios y monumentos históricos y todo aquel lugar factible de otorgársele denominación;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-XXII. Participar en el ordenamiento territorial de su competencia; y
+XXII. Participar en el ordenamiento territorial de su competencia;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-XXIII. Actualizar la Cartografía del Municipio de San Francisco de los Romo.
+XXIII. Validar ante la Secretaría de Planeación, Participación y Desarrollo del Estado, respecto de la apropiada congruencia, coordinación y ajuste de los programas de desarrollo urbano municipales y gestionar su publicación en el Periódico Oficial del Estado y su inscripción en el Registro Público de la Propiedad del Estado y del Municipal respectivo;
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-XXIV. Georreferenciar las obras y acciones de la iniciativa pública y privada en materia de Desarrollo Urbano.
+XXIV. Ejercer el derecho de preferencia para adquirir por el Municipio predios comprendidos en las zonas de reserva territorial, incluyendo el suelo urbano vacante, para destinarlos preferentemente a la constitución de espacios públicos;
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-XXV. Coadyuvar para otorgar a la ciudadanía certeza jurídica con respecto a sus predios y propiedades.
+XXV. Autorizar la constitución, modificación y extinción del régimen de propiedad en condominio, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados o menos de 100 predios, viviendas, departamentos, unidades o áreas, previa opinión de la Secretaría de Planeación, Participación y Desarrollo del Estado;
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-XXVI. Llevar a cabo el control y supervisión de la imagen urbana que se encuentre asentada en el Municipio.
+XXVI. Autorizar los desarrollos inmobiliarios especiales, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados, previa opinión de la Secretaría de Planeación y Participación del Estado;
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-XXVII. Otorgar licencias para la construcción, reparación, remodelación y demolición de las fincas.
+XXVII. Autorizar el calendario o programa de obras de urbanización y en su caso de la infraestructura y equipamiento sustituido por áreas de donación municipal, respecto de los proyectos autorizados de su parte, determinando la temporalidad para su ejecución, de acuerdo a la superficie e implicaciones del proyecto correspondiente;
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-XXVIII. Supervisar el estado que guardan las construcciones en situación de restructuración (sic) y que tenga relación con la licencia de construcción otorgada.
+XXVIII. Autorizar el inicio de las obras de urbanización de los condominios, desarrollos inmobiliarios especiales y subdivisiones autorizados de su parte;
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-XXIX. Otorgar y supervisar la subdivisión de relotificación de predios.
+XXIX. Autorizar la publicidad y posteriormente la venta de predios, previo cumplimiento de los requisitos legales, respecto de los condominios y subdivisiones autorizados de su parte;
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-XXX. Las demás que las leyes aplicables en la materia y el Presidente Municipal designen.
+XXX. Expedir y revocar los permisos para las urbanizaciones cerradas;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2023)</small>
+
+XXXI. Emitir opinión sobre la autorización, modificación, extinción y revocación de los fraccionamientos, condominios y desarrollos inmobiliarios especiales, que le correspondan al Consejo Estatal o la Secretaría de Planeación y Participación del Estado;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2023)</small>
+
+XXXII. Determinar la superficie, ubicación y el aprovechamiento de las áreas de donación que le deben otorgar los fraccionadores y promotores al Municipio, conforme a lo establecido en el Código Urbano para el Estado;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2023)</small>
+
+XXXIII. Autorizar la sustitución de áreas de donación por la dotación de equipamiento e infraestructura urbana por parte de los fraccionadores o promotores, conforme a lo previsto en el Código Urbano para el Estado;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2023)</small>
+
+XXXIV. Expedir los dictámenes técnico (sic) jurídicos, respecto de la ejecución de las obras de urbanización por parte de los fraccionadores y promotores, en cuanto a la compatibilidad del proyecto autorizado y la calidad de los materiales y obras, así como la integración del expediente en lo referente a las obligaciones de los desarrolladores;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2023)</small>
+
+XXXV. Conocer y dar trámite a las denuncias populares que se le presenten;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2023)</small>
+
+XXXVI. Mediar y conciliar cuando se les solicite, en coordinación en su caso con la Secretaría de Planeación, Participación y Desarrollo del Estado, en asuntos, conflictos y controversias entre la población o de esta con los fraccionadores o promotores;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2023)</small>
+
+XXXVII. Coordinarse con la Secretaría de Planeación, Participación y Desarrollo del Estado, para implementar, integrar y operar en el ámbito de su competencia el expediente digital único, para la tramitación, autorización, ejecución y control de las obras de urbanización, así como la municipalización de un fraccionamiento o subdivisión y la entrega de las obras de urbanización de los condominios;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2023)</small>
+
+XXXVIII. En coordinación con la Secretaría de Planeación, Participación y Desarrollo del Estado, implementar y actualizar una certificación para los asesores inmobiliarios, a fin de propiciar y facilitar que los fraccionadores y promotores, efectúen la debida, correcta y expedita integración de los expedientes para la autorización y ejecución de las obras de urbanización, en los fraccionamientos, condominios y desarrollos inmobiliarios especiales;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2023)</small>
+
+XXXIX. Las demás que señale la Ley Municipal, el Código Urbano para el Estado, el presente Código y las que le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
@@ -10919,25 +10971,103 @@ IV. Con el producto del remate, la autoridad municipal procederá a cubrir el mo
 
 (DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DEL REGLAMENTO MUNICIPAL DE PROTECCIÓN CIVIL DE SAN FRANCISCO DE LOS ROMO, P.O. 25 DE AGOSTO DE 2008)
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE MAYO DE 2023)</small>
+
 # LIBRO OCTAVO. DEL DESARROLLO URBANO
 
 ## TITULO PRIMERO. DE LA PLANEACION URBANA Y RURAL
 
 ### CAPITULO I. De la Planeación del Desarrollo Urbano y Rural
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 1014.
 
-La planeación del Desarrollo Urbano en el Municipio de San Francisco de los Romo, le corresponde al Ayuntamiento, con apego a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Asentamientos Humanos que les confieren a los Gobiernos Federal, Estatal y a los sectores sociales que integran la comunidad.
+Para los efectos del presente Libro Octavo del Código Municipal, resultarán aplicables las disposiciones contenidas en el Código Urbano para el Estado, prevaleciendo lo estipulado en el mismo, respecto de este Código.
+
+La Planeación del Desarrollo Urbano en el Municipio de San Francisco de los Romo, le corresponde al Ayuntamiento, quien se apoyará en la Dirección de Desarrollo Urbano Municipal, con apego en lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano y el Código Urbano para el Estado; debiéndose garantizar la participación de la ciudadanía del Municipio.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1014 BIS.- Los Programas y Esquemas de Desarrollo Urbano previstos en este Código Municipal, contendrán los elementos básicos que hagan posible su congruencia y uniformidad metodológica y de contenido para su debida ejecución técnica, jurídica y administrativa, los cuales están previstos en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano y en el Código Urbano para el Estado.
+
+De igual forma, con sustento en el artículo 46 de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, los programas y esquemas municipales de desarrollo urbano, deberán considerar las normas oficiales mexicanas emitidas en la materia, las medidas y criterios en lo concerniente a la resiliencia previstos en el Programa Nacional de Ordenamiento Territorial y Desarrollo Urbano y en los atlas de riesgos para la definición de los usos del suelo, destinos y reservas.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 1015.
 
-Con objeto de cumplir con lo señalado en el Artículo anterior, la Presidencia Municipal formulará las propuestas de Programas de Desarrollo Urbano, mismos que serán aprobados por el H. Ayuntamiento y con la opinión de la Comisión Estatal de Desarrollo Urbano.
+Con objeto de cumplir con lo señalado en el artículo anterior, la Presidencia Municipal, por conducto de su Dirección de Desarrollo Urbano formulará las propuestas de Programas y Esquemas de Desarrollo Urbano, mismos que serán aprobados por el H. Ayuntamiento, previo procedimiento para su formalización jurídica conforme a lo previsto en el Código Urbano para el Estado.
 
-Los Programas de Desarrollo Urbano podrán tener las siguientes categorías:
+La planeación y regulación del ordenamiento territorial y del desarrollo urbano de los centros de población en el Municipio, se llevará a través del Sistema Estatal de Ordenamiento Territorial y Planeación Urbana, el cual comprende los siguientes programas municipales:
 
-I. Programa Municipal de Desarrollo Urbano; en él se plantearán las estrategias y objetivos generales de desarrollo urbano en el Municipio; y
+I.- BÁSICOS:
 
-II. Programas de Desarrollo Urbano, en los que se proveerán las medidas necesarias para la planeación de la conservación, mejoramiento y crecimiento de los centros de población del Municipio. Estos programas serán compatibles con el Plan Municipal de Desarrollo en los términos de la Ley de Planeación del Estado y contendrán los fundamentos necesarios para la expedición de las declaratorias de provisiones, usos, reserva y destinos de áreas y predios, con objeto de administrar la zonificación, participar en la creación de reservas territoriales y vigilar la correcta utilización del suelo vigilar la correcta utilización del suelo.
+A).- Programa Municipal de Ordenamiento Territorial y Desarrollo Urbano, y
+
+B).- Programas de Desarrollo Urbano de Centro (sic) de Población;
+
+II.- DERIVADOS:
+
+A).- Programas Parciales de Desarrollo Urbano;
+
+B).- Programas Sectoriales de Desarrollo Urbano, y
+
+C).- Esquemas de Desarrollo Urbano.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1015 BIS.- En la aprobación, modificación o cancelación de los programas que establece el Código Urbano para el Estado y este Código Municipal, se deberá cumplir con el siguiente procedimiento de elaboración, consulta, opinión, aprobación, publicación y registro:
+
+I.- El Municipio por conducto de la Dirección de Desarrollo Urbano Municipal, dará aviso público del inicio del proceso de planeación y formulará el proyecto de Programa o Esquema de Desarrollo Urbano respectivo, o el proyecto de modificaciones o cancelaciones de algún Programa o Esquema, difundiéndolo ampliamente;
+
+II.- Se establecerá un plazo mínimo de treinta días naturales y un calendario de audiencias públicas y talleres de trabajo, para que los interesados presenten por escrito a la Dirección de Desarrollo Urbano Municipal, los planteamientos que consideren respecto del proyecto de Programa de Desarrollo Urbano y Ordenamiento del Territorio o Esquema de Desarrollo Urbano o del proyecto de modificaciones o cancelaciones de algún Programa o Esquema de Desarrollo Urbano; publicándose para ese fin en un diario de circulación estatal, en el Periódico Oficial del Estado y medios digitales.
+
+Para esos fines, también se generarán por la Dirección de Desarrollo Urbano Municipal, los mecanismos de participación ciudadana, en lo particular mujeres, jóvenes y personas con situación de vulnerabilidad;
+
+III.- Las respuestas a los planteamientos improcedentes y las adecuaciones del proyecto deberán fundamentarse y estarán a consulta de los interesados en las oficinas de la Dirección de Desarrollo Urbano Municipal, durante 15 días naturales previos a la aprobación del Programa o Esquema de Desarrollo Urbano o de las modificaciones o cancelaciones de algún Programa o Esquema;
+
+IV.- Posteriormente a la terminación de la consulta pública, el proyecto de Programa o Esquema o de modificaciones o cancelaciones, se someterá por parte de la Dirección de Desarrollo Urbano Municipal en un plazo no mayor de 30 días naturales a la opinión del Consejo Municipal de Ordenamiento del Territorio y Desarrollo Urbano y del Consejo Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda;
+
+V.- Cumplidas las formalidades a las que se refieren las fracciones I a IV de este artículo, el Programa o Esquema respectivo, las modificaciones o cancelaciones de algún Programa o Esquema será analizado y aprobado en su caso, por el Ayuntamiento;
+
+VI.- Una vez aprobado el Programa o Esquema, en su caso su modificación o cancelación, dentro de los 30 días naturales posteriores se publicará en forma completa en el Periódico Oficial del Estado y en forma abreviada en un diario de circulación en la Entidad, y
+
+VII.- Los diversos Programas o Esquemas una vez aprobados y publicados, así como sus modificaciones o cancelaciones, y determinada su congruencia por la Secretaría de Planeación, Participación y Desarrollo del Estado se inscribirán en la sección correspondiente del Registro Público de la Propiedad y del Estado y de esa Secretaría.
+
+No tendrá validez jurídica el Programa o Esquema que no cumpla con el procedimiento de formalización y los plazos que establece este artículo. La Dirección de Desarrollo Urbano Municipal, en su caso tendrá que iniciar de nuevo el procedimiento de formalización en la etapa anterior en la que se quedó.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1015 TER.- El Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, habiendo recibido para opinión el proyecto de Programa o Esquema de Desarrollo Urbano o de modificaciones o cancelaciones de algún Programa o Esquema, tendrá 30 días naturales para emitirla; en caso de no hacerlo en dicho plazo, se considerará que no tiene inconveniente en que el Programa o Esquema o las modificaciones o cancelaciones sean resueltas por el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1015 QUATER.- Serán nulas de pleno derecho las aprobaciones, modificaciones o cancelaciones de Programas o Esquemas de Desarrollo Urbano que no cuenten previamente con la opinión del Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano y del Consejo Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1015 QUINQUIES.- El Programa Municipal de Desarrollo, los Programas de Desarrollo Urbano de Centros de Población y los programas y esquemas que de estos deriven, serán elaborados, aprobados, ejecutados, controlados y evaluados por el Municipio, con el apoyo de la Dirección de Desarrollo Urbano Municipal, del Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, de la Secretaría de Planeación, Participación y Desarrollo del Estado y de la Federación.
+
+La coordinación entre Municipio y el Gobierno del Estado debe propiciarse y convenirse para establecer la congruencia entre los diversos Programas y Esquemas Municipales y los Programas Estatales y de Zona Conurbada y Metropolitana y para definir el financiamiento por parte del Estado y el Municipio, de las acciones, obras e inversiones conjuntas previstas en dichos Programas.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1015 SEXIES.- A partir de la fecha en que se publique en el Periódico Oficial del Estado y se inscriba un Programa o Esquema en el Registro Público de la Propiedad y en el registro de la Dirección de Desarrollo Urbano Municipal, la misma podrá expedir constancias, licencias, permisos, autorizaciones o convenios de su competencia, relativas a la utilización de áreas y predios que resulten comprendidos, si las solicitudes están de acuerdo con el Programa o Esquema respectivo; las que se expidan en contravención de lo anterior, serán nulas de manera absoluta, previa realización del procedimiento legal correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1015 SEPTIES.- Los Programas y Esquemas de Desarrollo Urbano, serán obligatorios para los particulares y para las dependencias y entidades federales, estatales y municipales que realicen en el Municipio las actividades previstas en el Código Urbano y este Código Municipal, una vez que sean publicados en el Periódico Oficial del Estado e inscritos en los Registros Público (sic) de la Propiedad del Estado y Municipal respectivo.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1015 OCTIES.- La modificación o cancelación de un Programa de Desarrollo Urbano o de un Esquema, podrá ser solicitada ante el Municipio por:
+
+I.- El Presidente o Presidenta Municipal;
+
+II.- El Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, y
+
+III.- La Dirección de Desarrollo Urbano Municipal.
 
 ### CAPITULO II. De las Construcciones
 
@@ -11057,11 +11187,23 @@ III. Ocupar la vía pública con escombros o materiales de construcción en los 
 
 IV. Romper el pavimento o hacer cortes en las banquetas y guarniciones de la vía pública para la ejecución de obras públicas o privadas;
 
-V. Para la instalación de redes públicas de telecomunicaciones, las cuales serán realizadas en los términos que señala este ordenamiento; y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-VI. Construir instalaciones subterráneas en la vía pública.
+V. Para la instalación de redes públicas y privadas de telecomunicaciones y/o de voz y datos, de manera área (sic) o subterránea; las cuales serán realizadas en los términos que señala este ordenamiento;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
+
+VI. Construir instalaciones subterráneas en la vía pública; y
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2023)</small>
+
+VII. Para una urbanización cerrada, conforme a lo señalado en el Código Urbano para el Estado y este Código Municipal.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE MAYO DE 2023)</small>
 
 Podrá otorgarse permiso o autorización para las obras anteriores, señalando en cada caso las condiciones bajo las cuales se conceda, los medios de protección que deberán tomarse, las acciones de restitución y mejoramiento de las áreas verdes y zonas arboladas afectadas y los horarios en que deban efectuarse.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE MAYO DE 2023)</small>
 
 Los solicitantes estarán obligados a efectuar las reparaciones correspondientes para restaurar o mejorar el estado original de la vía pública, o a pagar su importe cuando el Ayuntamiento la realice.
 
@@ -11077,9 +11219,17 @@ III. Para conducir líquidos por su superficie por escurrimiento;
 
 IV. Para depósito de basura y otros desechos;
 
-V. Para construir comercios semifijos en vías públicas, excepto previa autorización y análisis de la (sic) Comité de Desarrollo Urbano y Rural; y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-VI. Para aquellos otros fines que el Ayuntamiento considere contrarios al interés público.
+V. Para instalar comercios semifijos, excepto previo análisis y visto bueno del Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano o de la instancia municipal respectiva;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2023)</small>
+
+VI. Para una urbanización cerrada; y
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
+
+VII. Para aquellos otros fines que la Dirección de Desarrollo Urbano Municipal considere contrarios al interés público.
 
 ###### ARTICULO 1024.
 
@@ -11233,9 +11383,13 @@ IX. Contenedores de basura.
 
 Obligación de ejecutar obras de urbanización.
 
-Los predios producto de subdivisiones, fusiones y/o relotificaciones y en general todos aquellos que carezcan de obras de urbanización en alguna de sus colindancias, deberán tramitar Licencia de Construcción de Obras de Urbanización con anterioridad al inicio de la obra, de conformidad con los contenidos de este Capítulo y de las especificaciones técnicas y condiciones que para ese efecto se indiquen por las dependencias municipales correspondientes.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
 
-Será requisito indispensable haber obtenido la constancia de terminación de la obra de urbanización para poder proceder a la venta de predios y al trámite de Licencia de Construcción de fincas en los mismos.
+Los predios producto de subdivisiones y fusiones y en general todos aquellos que carezcan de obras de urbanización en alguna de sus colindancias, salvo los fraccionamientos y condominios autorización (sic) por el Consejo Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda o el Municipio, deberán tramitar Licencia de Construcción de Obras de Urbanización con anterioridad al inicio de la obra, de conformidad con los contenidos de este Capítulo y de las especificaciones técnicas y condiciones que para ese efecto se indiquen por las dependencias municipales correspondientes. Lo anterior, salvo que el Código Urbano para el Estado disponga de otra situación.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
+
+Para efecto de realizar la publicidad y posteriormente la venta de predios y lotes, se estará a lo dispuesto en el Código Urbano para el Estado y en el presente Código Municipal.
 
 ###### ARTICULO 1036.
 
@@ -11601,6 +11755,10 @@ La Dirección dará aviso de la suspensión al Colegio de Profesionistas respect
 
 La suspensión se dictará por un lapso de tres meses a tres años o en casos extremos, podrá ser definitiva sin liberar al perito de la obligación de subsanar las irregularidades en que haya incurrido e independientemente de las sanciones administrativas o multas que le fuesen impuestas.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1047 BIS.- Para los efectos del presente Libro Octavo, Título Tercero, Capítulo I denominado de los Peritos, el Municipio de San Francisco de los Romo, Ags., podrá celebrar convenio de colaboración con el Municipio de Aguascalientes, para efecto de utilizar su registro de Peritos de Obra y Especializados, así como para el control de los derechos y obligaciones de los mismos.
+
 ### CAPITULO II. De las Licencias de Construcción
 
 ###### ARTICULO 1048.
@@ -11610,6 +11768,54 @@ Licencia de construcción.
 Licencia de construcción es el documento expedido por las autoridades competentes de la Dirección por el cual se autoriza a los propietarios para ejecutar una obra que puede ser de urbanización, construcción, demolición de una edificación o instalación en sus predios o en la vía pública.
 
 Las solicitudes de licencia de construcción deberán recibir resoluciones de expedición o rechazo por parte de las autoridades competentes, en un plazo no mayor de diez días hábiles contados a partir de la fecha en la que se recibe la solicitud. La revisión de los expedientes y planos respectivos se hará de acuerdo a los requisitos que se establecen en este mismo Libro y que se encuentran en el Título Noveno respectivo y fueron establecidos de conformidad a los demás ordenamientos legales vigentes aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1048 BIS.- Las construcciones deberán ajustarse a las normas generales siguientes:
+
+I.- Toda edificación requerirá de la licencia o permiso municipal de construcción, salvo los casos de excepción que señale éste Código Municipal o alguna disposición reglamentaria;
+
+II.- Se sujetarán a las superficies edificables, áreas libres y número de pisos, altura y asoleamiento permitidos en la zona, de conformidad con las densidades de población, ocupación y construcción previstas en los programas y esquemas de desarrollo urbano, en el presente Código Municipal y en las demás disposiciones jurídicas aplicables;
+
+III.- Se ajustarán a las restricciones correspondientes, debiendo su propietario o poseedor legal, el constructor y el perito responsable y los especializados en su caso, respetar el alineamiento, la traza urbana y demás características o limitaciones previstas en la Constancia Municipal de Compatibilidad Urbanística, la cual deberá acompañarse a toda solicitud de licencia de construcción y en su caso de la opinión favorable de la Secretaría de Planeación, Participación y Desarrollo del Estado, conforme a lo previsto en el Código Urbano para el Estado;
+
+IV.- Dispondrán de lugares de estacionamiento de vehículos en la cantidad que señale este Código Municipal;
+
+V.- Se ejecutarán con materiales, instalaciones y equipos que permitan prevenir y combatir los riesgos de incendio;
+
+VI.- Las que tengan más de cuatro niveles, respetar el asoleamiento y ventilación de las fincas vecinas, así como las disposiciones del programa de desarrollo urbano aplicable, si estas existen;
+
+VII.- Las que se ubiquen en zonas del patrimonio arqueológico, histórico, artístico y cultural, cumplirán las normas de altura, materiales, acabados, colores, aberturas y todas las demás que señalen las autoridades competentes, o se deriven del programa parcial de conservación y mejoramiento del centro histórico respectivo y de los demás programas de desarrollo urbano y ordenamiento territorial;
+
+VIII.- Las que se ubiquen en zonas del patrimonio natural o de preservación ecológica, siempre y cuando se permita construir; debiendo cumplir las restricciones que para el particular se especifique en el decreto declaratorio de la misma o en el programa integral de manejo ambiental;
+
+IX.- Las construcciones o establecimientos que se permitan colindantes al derecho de vía de carreteras federales o estatales, o de ferrocarriles, requerirán de un acceso adecuado, con base en las especificaciones técnicas que determine la autoridad competente, de conformidad con este Código Municipal y demás disposiciones jurídicas aplicables;
+
+X.- Las construcciones deberán contemplar características o elementos de accesibilidad universal;
+
+XI.- Las construcciones deberán contemplar la combinación flexible de eco- tecnologías, cuya eficiencia de consumo esté certificado por los organismos autorizados por las autoridades regulatorias competentes y materiales para coadyuvar a la sustentabilidad del Estado y del Municipio;
+
+XII.- Se deberá de analizar la integración al contexto urbano y el impacto visual tanto urbano como paisajístico o natural que las construcciones puedan generar en su entorno;
+
+XIII.- En edificaciones habitacionales, se deberá instalar una cisterna y/o macro cisterna que contenga la reserva de agua, por lo menos de 3 días. En el caso de los multifamiliares, el sistema de cisternas deberá ser proporcional con la cantidad de viviendas por cada multifamiliar; para ello, el Municipio emitirá, a través de su Organismo Operador del Servicio de Agua Potable y Alcantarillado, un dictamen de factibilidad, en el que se analizarán las condiciones del proyecto correspondiente que garanticen el abastecimiento de agua potable para todas las familias o personas, y
+
+XIV.- Toda construcción que se concluya requerirá de constancia o aviso de terminación de obra y de autorización de ocupación y de habitabilidad, emitida por la Dirección de Desarrollo Urbano Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1048 TER.- La persona física o moral, pública y privada, que pretenda realizar obras de edificación, reconstrucción, demolición y adaptación de inmuebles, qué por sus dimensiones, características y superficie, conforme a lo dispuesto por el Código Urbano para el Estado, antes de que la Dirección de Desarrollo Urbano Municipal expida la licencia de construcción correspondiente, las obras que requieren de la opinión favorable de la Secretaría de Planeación, Participación y Desarrollo del Estado, son las que a continuación se indican:
+
+I.- Construcciones a realizar en predios mayores a 5,000 metros cuadrados de superficie;
+
+II.- Las construcciones, demoliciones y adaptaciones de obras con más de 3,000 metros cuadrados cubiertos edificados o por edificar o de más de 21 metros de altura totales a partir del sótano;
+
+III.- Las edificaciones destinadas como centrales de abasto, centros comerciales, tiendas de autoservicio, mercados, rastros, hospitales, clínicas, auditorios, estadios, plazas de toros, museos, centros de convenciones, exposiciones y de espectáculos, terminales de transporte de carga y pasajeros, estaciones de ferrocarril, ferropuertos, aeropuertos o aeropistas, plantas, estaciones y subestaciones eléctricas, teatros, salas de cine, clubes deportivos, casinos, centros de apuestas, casas de juego, cementerios, panteones y funerarias, estaciones de bomberos, reclusorios, centros de readaptación, de detención o de arraigo preventivo, cualquiera que sea su superficie de terreno o área cubierta;
+
+IV.- Las estaciones de servicio de hidrocarburos o gasolineras, estaciones de carburación y de distribución de gas LP o natural, centros o plantas de almacenamiento de hidrocarburos o gas LP o natural, confinamientos o plantas de tratamiento y reciclado de residuos sólidos, bancos de extracción de materiales, basureros o cualquier otra instalación, establecimiento o edificación que represente riesgos o almacenes materiales y desechos tóxicos o peligrosos, cualquiera que sea su superficie de terreno o área cubierta; y
+
+V.- Instalación de paneles solares en predios mayores a 10,000 metros cuadrados.
+
+Para los efectos del presente artículo, la Dirección de Desarrollo Urbano Municipal turnará la solicitud a la Secretaría de Planeación, Participación y Desarrollo del Estado, con el expediente debidamente integrado, quien contará con un plazo de 10 días hábiles, a partir de su recepción, para emitir su correspondiente opinión. Si dentro de ese plazo la Secretaría de Planeación, Participación y Desarrollo del Estado no solicitó una prórroga o no emitió opinión, la Dirección de Desarrollo Urbano Municipal entenderá que no existe impedimento para que resuelva la solicitud correspondiente, según resulte procedente. El Catastro no procederá a dar trámite a la manifestación de esa edificación, sino (sic) se cuenta con la correspondiente opinión de la Secretaría de Planeación, Participación y Desarrollo del Estado.
 
 ###### ARTICULO 1049.
 
@@ -15649,13 +15855,17 @@ I. En intersección de dos vialidades, un mínimo de cuatro placas; y
 
 II. En intersecciones mayores a dos vialidades, una placa por cada calle antes y después de la intersección.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 1435.
 
-Solicitud de Promoventes.
+Los fraccionadores y promotores, deberán presentar ante la Dirección de Desarrollo Urbano Municipal la propuesta de nomenclatura para las vialidades públicas, parques, jardines, plazas y demás espacios públicos factibles de denominación.
 
-Los promoventes de vivienda y fraccionadores, deberán presentar ante la Dirección General de Desarrollo Urbano, Ecología y Servicios Públicos Municipal la propuesta de nomenclatura y vialidades, parques, jardines, plazas y/o monumentos históricos, así como de cualquier otro lugar público factible de denominación dentro de los diez días hábiles siguientes a la autorización emitida según dictamen de la Comisión Estatal de Desarrollo Urbano según sea el caso.
+La Dirección de Desarrollo Urbano Municipal, turnara la solicitud al H. Ayuntamiento para que proceda a emitir resolución según sea el caso.
 
-La Dirección General de Desarrollo Urbano, Ecología lo turnara al H. Ayuntamiento para que en sesión de H. Cabildo sea (sic) analice y se proceda a emitir resolución según sea el caso.
+La denominación de las vías interiores de los condominios, al no ser espacios públicos, es facultad del promotor de los mismos o posteriormente de los condóminos.
+
+La Dirección de Desarrollo Urbano Municipal, deberá integrar un banco de nomenclatura para las vialidades y espacios públicos, el cual será analizado y aprobado en su caso por el Ayuntamiento, mismo que podrá ser solicitado por los fraccionadores o promotores para sus correspondientes desarrollos inmobiliarios.
 
 ###### ARTICULO 1436.
 
@@ -16205,45 +16415,43 @@ k) Proyecto de incorporación a la carretera con el visto bueno de la Secretarí
 
 ### CAPITULO UNICO. Del Funcionamiento del Comité
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 1465.
 
-El Comité Técnico de Municipalización es un órgano público de consulta en materia de municipalización de fraccionamientos.
+El Comité Técnico de Municipalización es un órgano público de consulta en materia de municipalización de fraccionamientos y subdivisiones.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 1466.
 
-Municipalización es el acto formal mediante el cual se realiza la entrega-recepción por parte del fraccionador al H. Ayuntamiento, de los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y de las obras de urbanización de un fraccionamiento, que cumpliendo con lo dispuesto en el Código Urbano para el Estado de Aguascalientes y demás disposiciones jurídicas aplicables se encuentran en posibilidad de operar suficiente y adecuadamente, permitiendo al H. Ayuntamiento, en la esfera de su competencia, prestar los servicios públicos necesarios para el bienestar de sus residentes.
+Municipalización es el acto formal mediante el cual se realiza la entrega- recepción total o parcial por parte del fraccionador o promotor al Municipio, de los bienes inmuebles, equipo, mobiliario e instalaciones destinados a los servicios públicos y de las obras de urbanización de un fraccionamiento o subdivisión, que cumpliendo con lo dispuesto en el Código Urbano para el Estado de Aguascalientes y el Código Municipal y demás disposiciones jurídicas aplicables, ya que se encuentran en posibilidad de operar suficiente y adecuadamente, permitiendo al Municipio, en la esfera de su competencia, prestar los servicios públicos necesarios para el bienestar de sus colonos.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 1467.
 
 El Comité Técnico de Municipalización estará integrado de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
+I.- Un Presidente, que será el Director de Desarrollo Urbano;
 
-I. Un Presidente, que será el Director de Desarrollo Urbano.
+II.- Un Secretario Técnico, que será el Jefe del Departamento de Fraccionamientos y Condominios;
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
+III.- El titular de las siguientes Dependencias y Entidades de la Administración Municipal;
 
-II. Un Secretario Técnico, que será el Encargado del Departamento de Uso de Suelo.
+a).- Dirección de Asuntos Jurídicos;
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
+b).- Dirección de Finanzas y Administración;
 
-III. El titular de las siguientes Dependencias y Entidades de la Administración Municipal;
+c).- Dirección de Servicios Públicos y Ecología;
 
-a) Dirección de Asuntos Jurídicos;
+d).- Dirección de Obras Públicas;
 
-b) Dirección General de Finanzas y Administración;
+e).- Organismo Operador de Agua Potable.
 
-c) Dirección de Servicios Públicos;
+f).- Dirección de Seguridad Pública y Movilidad Municipal;
 
-e) (sic) Dirección de Obras Públicas.
-
-f) Organismo Operador de Agua Potable.
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
-
-g) Dirección de Seguridad Pública y Movilidad Municipal.
-
-h) El Regidor de la Comisión de Obras Públicas.
+g).- El Regidor de la Comisión de Obras Públicas.
 
 ###### ARTICULO 1468.
 
@@ -16253,17 +16461,23 @@ Cada representante propietario designará un suplente, quien lo sustituirá en s
 
 Dentro de los sesenta días de iniciada cada Administración Municipal, el Presidente Municipal, proveerá la integración e instalación del Comité Técnico de Municipalización.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 1470.
 
-Todos los integrantes del Comité Técnico de Municipalización tendrán voz y voto a excepción del representante de la Subdirección de Auditoría Financiera, Administrativa y de Obra Pública de la Contraloría Municipal quien sólo tendrá voz; las decisiones se tomarán por mayoría de votos del 50% más uno.
+Todos los integrantes del Comité Técnico de Municipalización tendrán voz y voto. Las decisiones se tomarán por mayoría de votos del 50% más uno
 
 En caso de empate se someterá nuevamente a consideración el asunto a tratar debatiendo los argumentos expuestos; de persistir el empate, el Presidente del Comité Técnico de Municipalización tendrá voto de calidad.
 
 Existirá quórum legal cuando asistan a la sesión el 50% más uno de los integrantes del Comité Técnico de Municipalización.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 1471.
 
-El Comité Técnico de Municipalización sesionará ordinariamente, por lo menos, una vez cada dos meses previa convocatoria con anticipación de 24 horas, que formule el Secretario Técnico del mismo, debiéndose señalar el orden del día a que se sujetará la sesión; sesionará extraordinariamente cuantas veces sean necesarias, previa convocatoria, que formule el Secretario Técnico con anticipación de 2 horas.
+El Comité Técnico de Municipalización sesionará ordinariamente, por lo menos, una vez cada dos meses previa convocatoria con anticipación de tres días hábiles, que formule el Secretario Técnico del mismo, debiéndose señalar el orden del día a que se sujetará la sesión.
+
+También sesionará extraordinariamente cuantas veces sean necesarias, previa convocatoria, que formule el Secretario Técnico con anticipación de un día hábil a la celebración de la sesión correspondiente.
 
 ###### ARTICULO 1472.
 
@@ -16285,25 +16499,51 @@ En la primera sesión del Comité Técnico de Municipalización se darán a cono
 
 El Comité Técnico de Municipalización en forma concurrente con las áreas de la Administración Municipal que resulten competentes, tendrán las siguientes facultades:
 
-I. Emitir dictamen técnico para la municipalización de nuevos fraccionamientos y/o desarrollos especiales en los términos que establece el Código Urbano;
+I. (DEROGADA, P.O. 22 DE MAYO DE 2023)
 
-II. Supervisar y verificar que los promoventes de fraccionamientos hayan cubierto los derechos o contribuciones fiscales municipales que les correspondan, realizado las donaciones respectivas; así como constituido las garantías que por ley les correspondan y que ejecuten las obras de urbanización de acuerdo al resumen de dictamen de autorización emitido por la Comisión Estatal de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-III. Dictaminar sobre el avance, calidad y cumplimiento de las obras de urbanización de los fraccionamientos en proceso de municipalización;
+II. Dictaminar que los fraccionadores o promotores de fraccionamientos y subdivisiones hayan cubierto los derechos o contribuciones fiscales municipales y estatales que les correspondan, realizado las donaciones respectivas o en su caso haber dotado del equipamiento e infraestructura urbanos en sustitución de parte de las áreas de donación; así como constituido las garantías que por ley les correspondan y que ejecuten las obras de urbanización de acuerdo al resumen de dictamen de autorización emitido por la autoridad competente;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
+
+III. Excepcionalmente y de manera justificada, dictaminar sobre el avance, calidad y cumplimiento de las obras de urbanización de los fraccionamientos y subdivisiones en proceso de municipalización;
 
 IV. Proponer y gestionar la creación de normas técnicas y especificaciones de urbanización para el Municipio de San Francisco de los Romo;
 
 V. Crear para asesoramiento, supervisión y apoyo, los grupos técnicos que sean necesarios;
 
-VI. Hacer efectivas las garantías de urbanización, cuando proceda;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-VII. Llevar un registro y control de fraccionamientos, así como de las asociaciones de colonos que sus habitantes integren;
+VI. Emitir dictamen justificativo para hacer efectivas las garantías de urbanización, cuando proceda;
 
-VIII. Verificar que las áreas y predios que el fraccionador donó al H. Ayuntamiento conforme lo dispone el Código Urbano para el Estado de Aguascalientes estén debidamente perfeccionadas;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
+
+VII. Colaborar con la Dirección de Desarrollo Urbano Municipal, para que esta lleve un registro y control de fraccionamientos, subdivisiones, condominios y desarrollos inmobiliarios especiales, así como de las asociaciones de colonos y condóminos que sus habitantes integren;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
+
+VIII. Verificar que las áreas y predios que el fraccionador o promotor donó al Municipio conforme lo dispone el Código Urbano para el Estado de Aguascalientes estén debidamente formalizadas e inscritas jurídicamente;
 
 IX. Vigilar el cumplimiento y aplicación de las disposiciones legales en materia de fraccionamientos; y
 
-X. Vigilara que en los fraccionamientos que no hayan sido municipalizados, los fraccionadores presten adecuada y suficientemente los servicios a que se encuentran obligados conforme al Código Urbano para el Estado de Aguascalientes y la autorización respectiva.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
+
+X. Vigilar que en los fraccionamientos y subdivisiones que no hayan sido municipalizados, los fraccionadores y promotores presten adecuada y suficientemente los servicios a que se encuentran obligados conforme al Código Urbano para el Estado de Aguascalientes y la autorización respectiva.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1476 BIS.- El dictamen técnico jurídico que debe emitir la Dirección de Desarrollo Urbano Municipal, para sustentar la municipalización total o parcial de un fraccionamiento o subdivisión, así como en su caso la recepción de algún servicio u obra, equipamiento o infraestructura urbana, lo hará con base en lo dictaminado por la Unidad Externa de Supervisión y el Perito Responsable de las Obras, así como en la documentación de expediente respectivo. Dictamen que deberá insertarse en el acta de municipalización correspondiente y agregarse al Expediente Digital Único.
+
+De manera extraordinaria y en casos justificados, la Dirección de Desarrollo Urbano Municipal, con el fin de contar con los suficientes elementos que le permitan generar el citado dictamen, requerirá la opinión técnica o informe de alguna dependencia, entidad u organismo municipal, en algún aspecto técnico en lo particular y que se debe analizar e incluir en ese dictamen, otorgando la participación para ese fin al Comité Técnico de Municipalización.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1476 TER.- El plazo máximo para emitir la Dependencia, Entidad u Organismo Municipal correspondiente la opinión técnica o informe señalado en el artículo anterior, no podrá ser mayor de 10 días hábiles, contado a partir de su recepción.
+
+Transcurrido ese plazo sin que se hubiera expedido la opinión técnica o informe solicitado por la Dirección de Desarrollo Urbano Municipal, se entenderá que la Dependencia, Entidad u Organismo requerido no se opone a que la municipalización sea resuelta conforme lo determine la misma Dirección de Desarrollo Urbano Municipal.
+
+Las opiniones técnicas, informes o dictámenes que expidan las Dependencias, Entidades u Organismos en sentido positivo serán de vigencia permanente para el trámite de una municipalización.
 
 ## TITULO DECIMO PRIMERO. DE LA REGLAMENTACION PARA LA AUTORIZACION, CONTROL Y VIGILANCIA DE LOS USOS DEL SUELO
 
@@ -16339,13 +16579,17 @@ Toda constancia de alineamiento y compatibilidad urbanística, fusión y subdivi
 
 No podrá expedirse ninguna factibilidad para constancia de alineamiento y compatibilidad urbanística, fusión y subdivisión, respecto de predios ubicados en asentamientos humanos irregulares, en zonas de riesgo, de vulnerabilidad geológica, hidrológica y tecnológica, así como en zonas que carezcan de servicios de infraestructura hidráulica y sanitaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 1480.
 
-Para los efectos de este Título, se entenderá por:
+Para los efectos de este Libro Octavo, se entenderá por:
 
-I. Dirección General: la Dirección General de Desarrollo Urbano, Ecología, y Servicios Públicos del Municipio de San Francisco de los Romo;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-II. Dirección: la Dirección de Planeación Urbana, Rural y Ecología, área administrativa de la Dirección General encargada de ejercer directamente las atribuciones otorgadas a la misma a través del presente Código Municipal;
+I. Dirección General, Dirección o Dirección de Desarrollo Urbano Municipal: la Dirección de Desarrollo Urbano del Municipio de San Francisco de los Romo, Aguascalientes, encargada de ejercer directamente las atribuciones establecidas en el presente Libro Octavo de este Código Municipal;
+
+II. (DEROGADA, P.O. 22 DE MAYO DE 2023)
 
 III. Ventanilla Única de Trámites: lugar en donde se tramita lo relacionado a las constancias de alineamiento y compatibilidad urbanística, fusiones, subdivisiones y relotificaciones de predios, dependiente de la Dirección;
 
@@ -16367,7 +16611,9 @@ XI. Dictamen de Impacto Ambiental: Es el documento que determina el efecto que p
 
 XII. Dictamen de Impacto Urbano: Es el documento en donde se manifiesta el efecto y/o posibles repercusiones que se pudieran generar, en el entorno que circunda al establecimiento de un lugar fijo para el desempeño de una actividad;
 
-XIII. Compatibilidad Urbanística: Es la autorización expedida por la Dirección, a través de la cual se señala entre otras cosas el uso particular a que podrán dedicarse determinadas zonas, predios o edificaciones de un centro de población, conforme a lo que establece el Artículo 158 del Código Urbano;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
+
+XIII. Constancia Municipal de Compatibilidad Urbanística: es la autorización expedida por la Dirección de Desarrollo Urbano Municipal, a través de la cual se señala entre otras cosas el uso o destino a que podrán dedicarse o utilizarse determinadas zonas, predios o edificaciones de un centro de población, conforme a lo que establece el Código Urbano del Estado y los correspondientes programas o esquemas de desarrollo urbano;
 
 XIV. Alineamiento: Es la traza sobre el terreno que limita al predio respectivo con la vía pública en uso o con la futura vía pública, determinada en los planos y proyectos debidamente autorizados;
 
@@ -16495,9 +16741,11 @@ Tratándose de obras o proyectos que se pretendan desarrollar en predios cuya su
 
 El profesionista que elabore dicho dictamen de impacto urbano, debe ser avalado por la Dirección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2023)</small>
+
 ###### ARTICULO 1484.
 
-Toda persona física o moral, pública o privada, para solicitar la autorización de fusión o subdivisión de predio, deberá llenar y suscribir el formato que para ese efecto le señale la Dirección, así como presentarle la siguiente documentación:
+Toda persona física o moral, pública o privada, para solicitar la autorización de fusión o subdivisión de predio, deberá llenar y suscribir el formato que para ese efecto le señale la Dirección de Desarrollo Urbano Municipal, así como presentar la documentación señalada en el Código Urbano para el Estado, así como la indicada a continuación:
 
 I. Nombre, identificación oficial, denominación o razón social del solicitante y su domicilio;
 
@@ -16531,11 +16779,15 @@ Una vez presentados los requisitos indicados, el solicitante deberá recoger en 
 
 La citada resolución deberá dictarse en un término no mayor de diez días hábiles, contados a partir de que la Dirección, en su Ventanilla Única de Trámites recibió la solicitud debidamente requisitada; en caso de no emitir la determinación en dicho término se entenderá concedida la autorización solicitada, previa certificación que expida dicha Dirección.
 
-Cuando se trate de solicitudes de subdivisiones que requieran el visto bueno de la Secretaría de Desarrollo Social del Estado, conforme a lo establecido por el Código Urbano, virtud a ser mayores a los 5,000 metros cuadrados, el plazo para la respuesta será de 30 días hábiles, siempre y cuando esa Dependencia Estatal hubiera contestado a la petición que le hiciera la Dirección.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
+
+Cuando se trate de solicitudes de subdivisiones que requieran el visto bueno de la Secretaría de Planeación, Participación y Desarrollo del Estado, conforme a lo establecido por el Código Urbano para el Estado, se deberá solicitar el mismo, conforme a lo previsto conforme a lo dispuesto por ese Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 1485.
 
-Toda persona física o moral, pública o privada, para solicitar la autorización de relotificación de un área, lote o predio, deberá llenar y suscribir el formato que para ese efecto le señale la Dirección, así como presentarle la siguiente documentación:
+Toda persona física o moral, pública o privada, para solicitar la autorización de relotificación de un área, lote o predio, deberá llenar y suscribir el formato que para ese efecto le señale la Dirección de Desarrollo Urbano Municipal, así como presentar la documentación señalada en el Código Urbano para el Estado, así como la indicada a continuación:
 
 I. Nombre, identificación oficial, denominación o razón social del solicitante y su domicilio;
 
@@ -16555,7 +16807,9 @@ Las relotificaciones solo podrán ser autorizadas antes de la municipalización 
 
 Una vez presentados los requisitos indicados, el solicitante deberá recoger en las oficinas de la Dirección, ya que ese es el domicilio oficial para ese efecto, el resultado sobre su solicitud de relotificación de predios, en la fecha que esta le indique, para cuyo efecto acreditará el pago de los derechos municipales respectivos. El documento que le entregue al ciudadano la Dirección, será el único comprobante que acredite que se entregó la documentación completa para su solicitud.
 
-La citada resolución deberá dictarse en un término no mayor de diez días hábiles, contados a partir de que la Dirección, por conducto de la Dirección recibió la solicitud debidamente requisitada; en caso de no emitir la determinación en dicho término se entenderá concedida la autorización solicitada, previa certificación que expida la Dirección.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
+
+La citada resolución deberá dictarse en un término no mayor de diez días hábiles, contados apartir (sic) de que la Dirección de Desarrollo Urbano Municipal recibió la solicitud debidamente requisitada; y la opinión favorable de la Secretaría de Planeación, Participación y Desarrollo del Estado. En caso de no emitir la Dirección de Desarrollo Urbano Municipal la determinación en dicho término se entenderá concedida la autorización solicitada, previa certificación que expida esa misma Dependencia.
 
 ### CAPITULO III. Condiciones para Expedir las Autorizaciones de Alineamiento y Compatibilidad Urbanística y de Fusión, Subdivisión y Relotificación de Predios
 
@@ -16573,27 +16827,235 @@ a) Respetar las condicionantes señaladas por la Dirección para su funcionamien
 
 b) Toda constancia no autorizada deberá de apegarse a la Legislación en Materia Urbana, incluyendo lo dispuesto en el presente Código Municipal y por tanto el inmueble respectivo deberá edificarse y dedicarse conforme al uso del suelo procedente; y
 
-c) De no cumplir con las condiciones indicadas en las constancias que se ubican en esta situación se harán acreedores a las sanciones correspondientes que les imponga la Dirección, según lo establece el Código Urbano en su Título Decimoquinto, así como el presente Código Municipal.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
+
+c) De no cumplir con las condiciones indicadas en las constancias que se ubican en esta situación, las personas correspondientes se harán acreedoras a las sanciones correspondientes que les imponga la Dirección de Desarrollo Urbano Municipal, según lo establece el Código Urbano para el Estado, así como el presente Código Municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 22 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 1487.
 
 Las autorizaciones de subdivisión, fusión y relotificación de predios deberán apegarse a lo siguiente:
 
-I. Toda subdivisión, fusión y relotificación de terrenos deberá de observar lo estipulado en el Título Sexto, Capítulo IV del Código Urbano;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-II. Solo se autorizará el 10% de subdivisiones y relotificaciones de predios con respecto al total de lotes autorizados originalmente, en los fraccionamientos colonias o barrios habitacionales urbanos, siempre y cuando no se sature o afecte la capacidad instalada, en cuanto al equipamiento e infraestructura existentes de las redes de agua potable, alcantarillado y drenaje; y del resultado no resulte una fracción menor al lote tipo del fraccionamiento al cual corresponda, o a la zona establecida en el programa de desarrollo urbano respectivo.
+I. Toda subdivisión, fusión y relotificación de terrenos deberá de observar lo estipulado en el Código Urbano para el Estado;
 
-Lo anterior se comprobará, mediante previo dictamen técnico que emita el Organismo Operador de Agua del Municipio de San Francisco de los Romo, mismo que deberá presentar el peticionario con la solicitud de subdivisión o relotificación, y
+II. (DEROGADA, P.O. 22 DE MAYO DE 2023)
 
-I. Tratándose de subdivisiones de predios para uso comercial, cualquiera de las fracciones resultantes no deberá ser menor a los 40 metros cuadrados y su frente deberá tener como mínimo 04 metros.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
-II. Las solicitudes de subdivisiones de predios que no cumplan con lo señalado en el Código Urbano y en este Código Municipal serán improcedentes y por tanto deberán negarse por la Dirección, salvo lo mencionado a continuación:
+III. Tratándose de subdivisiones de predios para uso comercial, cualquiera de las fracciones resultantes no deberá ser menor a los 40 metros cuadrados y su frente deberá tener como mínimo 04 metros.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE MAYO DE 2023)</small>
+
+IV. Las solicitudes de subdivisiones de predios que no cumplan con lo señalado en el Código Urbano para el Estado y en este Código Municipal serán improcedentes y por tanto deberán negarse por la Dirección de Desarrollo Urbano Municipal, salvo que se sitúen en alguno de los supuestos mencionados a continuación:
 
 a) Subdivisiones de inmuebles que se hayan dado antes de la entrada en vigor de la Ley de Fraccionamiento, Relotificación, Subdivisión y Fusión de Terrenos del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el 17 de abril de 1983;
 
-b) La situación de hecho antes referida, se deberá comprobar fehacientemente a la Dirección por parte del solicitante, a través de los medios adecuados, incluso se deberá acreditar que las construcciones correspondientes cuentan con servicios totalmente independientes de agua potable, alcantarillado y energía eléctrica, y
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
 
-c) Si el inmueble materia de la solicitud se ubica en un ejido, el peticionario para el efecto de que proceda la misma, deberá comprobar a la Dirección, que la finca tiene una antigüedad mayor a los diez años, contados a partir de la fecha de su solicitud. Desde luego para estos trámites se deberá tomar en cuenta lo previsto en la legislación agraria.
+b) Que los inmuebles objeto de la solicitud, presenten condiciones independientes, lo cual se deberá comprobar fehacientemente a la Dirección de Desarrollo Urbano Municipal por parte del solicitante, a través de los medios adecuados, incluso se deberá acreditar que las construcciones correspondientes cuentan con servicios totalmente independientes de agua potable, alcantarillado y energía eléctrica, o
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
+
+c) Si el inmueble materia de la solicitud se ubica en un ejido, el peticionario para el efecto de que proceda la misma, deberá comprobar a la Dirección de Desarrollo Urbano Municipal, que la finca tiene una antigüedad mayor a los diez años, contados a partir de la fecha de su solicitud. Desde luego para estos trámites se deberá tomar en cuenta lo previsto en la legislación agraria.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1487 BIS.- Tratándose de zonas urbanas consolidadas, determinadas por el Municipio en su correspondiente Programa de Desarrollo Urbano Municipal o Esquema de Desarrollo Urbano, la Dirección de Desarrollo Urbano Municipal podrá autorizar la subdivisión de predios urbanos hasta los 10,000 metros cuadrados de superficie del predio original, aunque estos requieran de la introducción de servicios urbanos básicos o el trazo de una o más vías públicas.
+
+Derivado de lo anterior, el promotor o propietario del terreno que se vaya a subdividir estará obligado a lo siguiente:
+
+I.- Otorgar donación al Municipio en el porcentaje que corresponda a la clasificación de la zona en que se sitúe el predio o dotar de equipamiento urbano y/o infraestructura conforme a lo previsto en el Código Urbano para el Estado y el presente Código Municipal;
+
+II.- Cubrir el costo proporcional al Municipio, en el caso de que este hubiera realizado obras de urbanización que hubieran beneficiado y aumentando el valor del predio objeto de la solicitud de subdivisión;
+
+III.- Otorgar garantía ante la Dirección de Finanzas y Administración del Municipio, conforme a lo señalado en el Código Urbano para el Estado y este Código Municipal, a efecto de asegurar que ejecutará adecuadamente las obras de urbanización o en su caso la dotación de equipamiento y/o infraestructura urbana y cumplirá con todas las obligaciones derivadas y señaladas en la autorización de la subdivisión;
+
+IV.- Obtener previamente de la Dirección de Desarrollo Urbano Municipal la licencia de construcción para ejecutar las obras de urbanización necesarias.
+
+Será requisito para que se le expida dicha licencia por parte de la Dirección de Desarrollo Urbano Municipal, en que se haya cumplido con la obligación indicada en la fracción anterior, y
+
+V.- Para el efecto de que se municipalicen las subdivisiones, su promotor deberá cumplir con lo previsto en el Código Urbano para el Estado y el presente Código Municipal.
+
+Toda situación no prevista para el presente apartado, se aplicará supletoriamente la normatividad prevista en el Código Urbano para el Estado para los fraccionamientos.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1487 TER.- La Dirección de Desarrollo Urbano Municipal al expedir la autorización de una subdivisión que requiera del trazo de una o más vías públicas, de obras de urbanización y la introducción de servicios públicos, emitirá un dictamen que deberá contener como mínimo lo siguiente:
+
+I.- El nombre o denominación del promotor;
+
+II.- El nombre del representante legal, en caso de existir;
+
+III.- El perito responsable de las obras de urbanización;
+
+IV.- La ubicación del proyecto;
+
+V.- La siguiente información y datos técnicos:
+
+a).- Cuadro de superficies y sus diferentes usos o destinos;
+
+b).- Sistema del agua potable;
+
+c).- Sistema de alcantarillado y/o saneamiento;
+
+d).- Especificaciones de los pavimentos, banquetas, guarniciones y placas de nomenclatura; y
+
+e).- Sistema de electrificación y alumbrado público;
+
+VI.- Documentación legal;
+
+VII.- Determinación de obligaciones municipales;
+
+VIII.- Determinación del monto de la garantía de las obras de urbanización, y
+
+IX.- Observaciones y disposiciones generales del proyecto.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1487 QUÁTER.- Como parte de los requisitos que debe cumplir un promotor de una subdivisión ante la Dirección de Desarrollo Urbano Municipal, para efecto de que le autorice el inicio de las obras de urbanización, deberá constituir garantía a efecto de asegurar que ejecutará adecuadamente las obras de urbanización y en su caso del equipamiento urbano e infraestructura complementarios, así como el que cumplirá con todas y cada una de las obligaciones que asumió derivadas de la autorización de la subdivisión.
+
+La citada garantía se otorgará en los términos previstos en el Código Urbano para el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1487 QUINQUIES.- El Instituto Catastral del Estado, la Dirección General del Registro Público de la Propiedad y del Comercio del Estado y la Dirección de Finanzas y Administración Municipal, al momento en que la Dirección de Desarrollo Urbano Municipal expida la autorización de una subdivisión que contemple vías públicas, restricciones y áreas de donación municipales, deberán realizar las anotaciones correspondientes en sus registros, a efecto de que esos espacios no se enajenen a terceras personas, sino que se consideren como bienes propiedad del Municipio. A partir de ese momento esos espacios considerados y determinados como vías públicas municipales, no causarán el impuesto a la propiedad raíz.
+
+La municipalización de esas vías públicas, será hasta que se concluyan las correspondientes obras de urbanización, por parte del promotor de la subdivisión respectiva.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1487 SEXIES.- En los casos de la expedición de subdivisiones para la regularización de un asentamiento humano, la disolución de la copropiedad o la donación entre ascendientes y descendientes en primer grado y que no exista el área disponible para otorgar donación al Municipio, está se determinará conforme a lo que decida el Cabildo.
+
+En todo caso el promotor de la subdivisión podrá proponer al Cabildo, que el área que le corresponda donar se ubique fuera del predio objeto de la donación para integrarla a otra y optimizar e incrementar las áreas para equipamiento urbano consolidado o en otras áreas carentes de ellas.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1487 SEPTIES.- Cuando en las subdivisiones que regula el presente Código Municipal no sea posible realizar un sistema de alcantarillado por razones técnicas, en virtud de no contarse con un lugar adecuado para la descarga u otro motivo similar, la Dirección de Desarrollo Urbano Municipal podrá autorizar al promotor fosas sépticas por lote o predio, conforme a lo determinado por la Dirección de Servicios Públicos y Ecología del Municipio y el Organismo Operador del Servicio de Agua Potable y Alcantarillado Municipal, respetando los lineamientos que estos le señalen.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1487 OCTIES.- Para efecto de tramitar y obtener la correspondiente licencia de construcción de obras de urbanización en una subdivisión el promotor deberá presentar solicitud a la Dirección de Desarrollo Urbano Municipal, cumpliendo con los siguientes requisitos:
+
+I.- Escritura, título o documento que acredite la propiedad del predio respectivo;
+
+II.- Comprobante de pago del impuesto a la propiedad raíz actualizado;
+
+III.- Copia de identificación del propietario o propietarios;
+
+IV.- Si se trata de una persona moral, copia de su acta constitutiva y poder notarial;
+
+V.- Plano de lotificación autorizado y firmado por el propietario o apoderado legal y el perito responsable de las obras de urbanización;
+
+VI.- Plano de agua potable, alcantarillado y escurrimientos pluviales autorizado por el Organismo Operador del Servicio de Agua Potable y Alcantarillado del Municipio, firmados por el propietario o apoderado legal y el perito responsable de las obras de urbanización;
+
+VII.- Plano de electrificación autorizado por la Comisión Federal de Electricidad, firmados por el propietario o apoderado legal y el perito responsable de las obras de urbanización;
+
+VIII.- Plano de señalética vertical y horizontal autorizado por la Dirección de Seguridad Pública y Movilidad Municipal, firmados por el propietario o apoderado legal y el perito responsable de las obras de urbanización;
+
+IX.- Especificaciones de las obras de urbanización autorizadas por la Dirección de Obras Públicas Municipal, firmadas por el propietario o apoderado legal y el perito responsable de las obras de urbanización;
+
+X.- Bitácora de obra firmada por el propietario o apoderado legal y el perito responsable de las obras de urbanización;
+
+XI.- Constancia de vigencia del perito responsable de las obras de urbanización;
+
+XII.- Llenar formato de la licencia de urbanización, firmado por el propietario o apoderado legal y el perito responsable de las obras de urbanización;
+
+XIII.- Pago de la licencia conforme a lo dispuesto por la Ley de Ingresos del Municipio para el ejercicio fiscal correspondiente;
+
+XIV.- Plano de la red de alumbrado público, autorizado por la Dirección de Servicios Públicos y Ecología Municipal, firmados por el propietario o apoderado legal y el perito responsable de las obras de urbanización;
+
+XV.- Plano y programa de las etapas de obras de urbanización, en su caso, firmados por el propietario o apoderado legal y el perito responsable de las obras de urbanización;
+
+XVI.- Calendario de obra suscrito por el propietario o representante legal y el perito responsable de obra, y
+
+XVII.- Garantía de las obras de urbanización conforme a lo determinado en el presente Código Municipal y lo establecido por la Dirección de Desarrollo Urbano Municipal.
+
+De la correspondiente documentación que ya exista en los expedientes de la Dirección de Desarrollo Urbano Municipal, su personal deberá de abstenerse de solicitar nuevamente la misma.
+
+Cuando a juicio de la Dirección de Desarrollo Urbano Municipal o por solicitud del promotor, tomando en cuenta el tipo, características y tamaño del predio, considere que no procede la presentación o acreditación de alguno de los requisitos o documentos que establece este artículo, esta lo indicará al solicitante por no ser necesarios en el caso específico.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1487 NONIES.- Para que la Dirección de Desarrollo Urbano Municipal le expida al promotor la autorización de inicio de obras de urbanización en una subdivisión, éste debe cumplir previamente con las obligaciones que señala el Código Urbano del Estado, el presente Código Municipal, la autorización respectiva y en el expediente correspondiente se deberá acreditar la siguiente documentación:
+
+I.- Proyecto o testimonio notarial de la escrituración de las áreas de donación destinadas para equipamiento urbano, áreas verdes, restricciones y vías públicas, avalados por la Dirección de Desarrollo Urbano Municipal;
+
+II.- Comprobante de pago de las obligaciones fiscales municipales, incluyendo las correspondientes al Organismo Operador del Servicio de Agua Potable y Alcantarillado Municipal;
+
+III.- Garantía vigente de las obras de urbanización y en su caso, de equipamiento urbano e infraestructura;
+
+IV.- Licencia para ejecutar las obras de urbanización, expedida por la Dirección de Desarrollo Urbano Municipal, conforme a lo indicado en el artículo anterior;
+
+V.- Designación del residente de las obras de urbanización;
+
+VI.- Calendario de las obras de urbanización aprobado por la Dirección de Desarrollo Urbano Municipal, firmado por el promotor y el perito responsable de las mismas;
+
+VII.- Que no existan condicionantes u obligaciones pendientes de cumplir o documentos por entregar, cuando se hubieran señalado en la autorización de la subdivisión, y
+
+VIII.- En el caso que se hubieran autorizado las obras de urbanización por etapas, dictamen emitido por la Dirección de Desarrollo Urbano Municipal, que acredite que la etapa anterior de las obras tiene un avance mínimo del 70%, acompañado del dictamen del perito responsable y en su caso de la unidad externa de supervisión.
+
+Dependiendo de las condiciones de autorización de la subdivisión respectiva, la Dirección de Desarrollo Urbano Municipal podrá eximir del cumplimiento de algunos de los requisitos antes indicados, siempre y cuando exista una justificación técnica o legal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1487 DECIES.- El promotor de la subdivisión podrá solicitar a la Dirección de Desarrollo Urbano Municipal, la licencia de construcción para la edificación o edificaciones correspondientes, una vez que se hubiera autorizado el inicio de las obras de urbanización.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1487 UNDECIES.- Obtenida la autorización de subdivisión el promotor contará con un plazo de seis meses para iniciar las obras de urbanización, contados a partir del día siguiente a aquel en que hubiera recibido la notificación correspondiente.
+
+Si vencido el plazo no se han iniciado dichas obras; se podrá conceder por la Dirección de Desarrollo Urbano Municipal una prórroga por única vez de un plazo máximo de cuatro meses.
+
+En el supuesto que el promotor no inicie las obras de urbanización en el plazo referido o no concluya las etapas de urbanización, conforme a lo autorizado por la Dirección de Desarrollo Urbano Municipal la autorización respectiva se revocará total o parcialmente por esa Dependencia Municipal al vencimiento del plazo definitivo, independientemente de que proceda a imponer sanciones administrativas y a hacer efectiva la garantía de las obras de urbanización.
+
+Si se trata de obras de urbanización en subdivisiones autorizadas para la regularización de un asentamiento humano, el plazo lo podrá ampliar la Dirección de Desarrollo Urbano Municipal, conforme a la naturaleza y posibilidades económicas de la población correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1487 DUODECIES.- La Dirección de Desarrollo Urbano Municipal al realizar el procedimiento de revocación de la autorización de una subdivisión, deberá considerar que no se afecten derechos de adquirentes o usuarios de los lotes, así como el que queden inconclusas obras de urbanización y edificación necesarias para dar soporte y funcionalidad a otras etapas concluidas.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1487 TERDECIES.- El plazo máximo para ejecutar todas las obras de urbanización por parte del promotor será de 18 meses contado a partir de su inicio, salvo lo dispuesto por la Dirección de Desarrollo Urbano Municipal, tratándose de subdivisiones para la regularización de asentamientos humanos.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1487 QUATERDECIES.- Los promotores de subdivisiones, antes de publicitar y realizar la venta de los lotes, tienen obligación de obtener la autorización por escrito de la Dirección de Desarrollo Urbano Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1487 QUINDECIES.- La Dirección de Desarrollo Urbano Municipal para efecto de expedir la autorización de venta de lotes en una subdivisión, deberá constatar que en el expediente respectivo obre la siguiente documentación:
+
+I.- Dictamen del Perito Responsable de las Obras de Urbanización y en su caso dé la Unidad Externa de Supervisión, que acredite que existe un avance mínimo del 50% en la ejecución de las obras de urbanización;
+
+II.- La escritura pública de lotificación de la subdivisión inscrita en el Registro Público de la Propiedad y del Comercio del Estado, previa apertura de las claves catastrales que realice el Instituto Catastral del Estado de Aguascalientes;
+
+III.- Que no existan condicionantes pendientes de cumplir, cuando se hubieran señalado en la autorización de la subdivisión;
+
+IV.- Si se realizó equipamiento urbano e infraestructura complementarios en sustitución de una parte de la donación o de obligaciones fiscales municipales, que se hubiera avanzado en las mismas conforme al calendario de obras respectivo;
+
+V.- Que la garantía de las obras de urbanización se encuentre vigente;
+
+VI.- Que no se tengan obligaciones fiscales pendientes de cubrir a la Dirección de Finanzas y Administración Municipal y al Organismo Operador del Servicio de Agua Potable y Alcantarillado Municipal, y
+
+VII.- Escritura pública registrada de las áreas de donación destinadas al equipamiento urbano, áreas verdes, restricciones y vías públicas inscritas en el Instituto Catastral del Estado y en el Registro Público de la Propiedad y del Comercio del Estado de Aguascalientes, correspondientes a toda la subdivisión.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1487 SEXDECIES.- El Instituto Catastral del Estado, la Dirección de Finanzas y Administración del Municipio y el Registro Público de la Propiedad y del Comercio del Estado de Aguascalientes, no procederán a realizar ningún movimiento traslativo de dominio, hasta en tanto no se hubiera expedido la autorización de venta y la Dirección de Desarrollo Urbano Municipal lo hubiera notificado a esas instituciones.
+
+Lo anterior con excepción de las relativas a las áreas de donación, restricciones y vías públicas para el Municipio.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1487 SEPTDECIES.- El notario o fedatario público que vaya a realizar la escrituración de los lotes o inmuebles, deberá insertar en la escritura correspondiente los datos de la autorización emitida por la Dirección de Desarrollo Urbano Municipal para la enajenación correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1487 OCTODECIES.- La municipalización de las subdivisiones se realizarán conforma a lo previsto en el Código Urbano para el Estado y este Código Municipal.
 
 ### CAPITULO IV. Disposiciones por Vialidades
 
@@ -16751,25 +17213,45 @@ Tratándose de fraccionamientos habitacionales urbanos clasificados como de inte
 
 En lo referente a los usos del suelo en la Zona Centro de la Ciudad de San Francisco de los Romo, las autorizaciones de Constancia de Alineamiento y Compatibilidad Urbanística se sujetarán a lo previsto por el Programa de Desarrollo Urbano correspondiente, particularmente a lo dispuesto en el Programa del Centro Histórico de la Ciudad.
 
-### CAPITULO VII. Disposiciones Particulares de los Usos del Suelo
+> <small>(ADICIONADO CON LA SECCIÓN QUE LO INTEGRA, P.O. 22 DE MAYO DE 2023)</small>
+
+### CAPITULO VI BIS. DEL RÉGIMEN DE PROPIEDAD EN CONDOMINIO Y DE LOS DESARROLLOS INMOBILIARIOS ESPECIALES
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCIÓN ÚNICA. DE LA AUTORIZACIÓN, MODIFICACIÓN Y EXTINCIÓN DEL RÉGIMEN DE PROPIEDAD EN CONDOMINIO
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 1508.
 
-De los condominios:
+El Régimen de Propiedad en Condominio, se regirá por las disposiciones contenidas en el Código Urbano para el Estado; en el Código Municipal; el Reglamento de Administración correspondiente; el Código Civil del Estado; y la escritura pública constitutiva de ese Régimen.
 
-I. Los condominios: son aquellos que el Código Urbano define en su Artículo 366 Y los clasifica en:
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
 
-1.1. Condominio horizontal;
+ARTICULO 1508 BIS.- De conformidad con lo dispuesto por el Código Urbano para el Estado, es facultad del Municipio de San Francisco de los Romo, Ags., autorizar la constitución, modificación o extinción del Régimen de Propiedad en Condominio, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados o menos de 100 viviendas, departamentos, locales o áreas.
 
-1.2. Condominio vertical, y
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
 
-1.3. Condominio mixto.
+ARTICULO 1508 TER.- Al presente Capítulo le serán aplicables las disposiciones del Título Séptimo del Código Urbano para el Estado.
 
-II. Todo régimen de propiedad en condominio se regirá por lo establecido en el Código Urbano o en la Legislación que le dio origen, el presente Código Municipal, así como en su Reglamento interior.
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
 
-III. Conforme al uso o destino que se pretenda dar al inmueble, según lo contempla el Artículo 369 del Código Urbano, el condominio se clasifica en: habitacional, comercial, de mercado, de cementerio, industrial, agropecuario y especial.
+ARTICULO 1508 QUÁTER.- Los proyectos de urbanización y construcción de los condominios y los desarrollos inmobiliarios especiales, deberán sujetarse a las normas de diseño; de los sistemas de agua potable, alcantarillado y saneamiento; de vialidad y movilidad; y de electrificación y alumbrado público, previstas en el Código Urbano para el Estado.
 
-IV. Por su origen, según la naturaleza jurídica de quien lo promueva, según lo indica el Artículo 370 del Código Urbano, el condominio también se clasificará en: de orden privado, el que constituyan los particulares, y de orden público, los que constituyan las instituciones u organismos públicos de la Federación, el Estado y los Municipios.
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1508 QUINQUIES.- La Dirección de Desarrollo Urbano Municipal, para efecto de determinar la superficie y ubicación, así como el destino de las áreas de donación que le deberán ceder gratuitamente los promotores, y en su caso su sustitución deberá apegarse a lo dispuesto por el Código Urbano para el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1508 SEXIES.- El procedimiento para que en su caso se autorice la sustitución de parte de las áreas de donación, lo realizará la Dirección de Desarrollo Urbano Municipal, conforme a lo señalado en el artículo 334 del Código Urbano para el Estado, quien se podrá apoyar de otras dependencias y entidades municipales para determinar lo conducente.
+
+Tratándose de condominios verticales, la sustitución podrá hacerse por numerario, según lo señalado en el citado artículo 334 fracción III del Código Urbano para el Estado, la cual deberá ser aprobada en definitiva en sesión de Cabildo, señalándose por el mismo el destino de ese recurso.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1508 SEPTIES.- Previo al otorgamiento de la autorización de inicio de obras de urbanización de un condominio o desarrollo inmobiliario especial, la Dirección de Desarrollo Urbano Municipal, conjuntamente con el Síndico del Ayuntamiento, deberán recibir físicamente del promotor la posesión de las áreas de donación correspondientes, verificando que cumplan con las condiciones de superficie, medidas y colindancias y colocando elementos físicos que aseguren su tenencia y/o posesión.
 
 ###### ARTICULO 1509.
 
@@ -16783,15 +17265,503 @@ En los condominios habitacionales de interés social se permitirá uso comercial
 
 Ningún condómino tendrá derecho o facultad para bardear, enmallar, cercar o construir sobre áreas de uso común.
 
-### CAPITULO VIII. De las Infracciones y Sanciones
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
 
-### CAPITULO IX. Denuncia Popular
+### CAPITULO VI TER
 
-### CAPITULO I. Disposiciones Generales
+DE LOS FRACCIONAMIENTOS, CONDOMINIOS Y DESARROLLOS INMOBILIARIOS ESPECIALES.
 
-### CAPITULO II. De los Trámites Administrativos y Registros
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
 
-### CAPITULO III. Clasificación de los Anuncios
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 BIS.- Todo lo no previsto en el presente Capítulo, le será aplicable el Título Séptimo del Código Urbano para el Estado y prevaleciendo lo contemplado en el mismo.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 TER.- Al Municipio de San Francisco de los Romo, Ags., por conducto de la Dirección de Desarrollo Urbano Municipal, en materia de fraccionamientos, condominios y desarrollos inmobiliarios especiales, le corresponde lo siguiente:
+
+I.- Autorizar la constitución, modificación o extinción del Régimen de Propiedad en Condominio, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados o menos de 100 viviendas, departamentos, locales o áreas;
+
+II.- Autorizar, modificar o extinguir los Desarrollos Inmobiliarios Especiales, cuando el terreno materia de la solicitud tenga una superficie de hasta 20,000 metros cuadrados;
+
+III.- Participar con voz y voto en los Subconsejos correspondientes del Consejo Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda, respecto de los proyectos de fraccionamientos, condominios y desarrollos inmobiliarios especiales, que se pretendan desarrollar en el Municipio;
+
+IV.- Conforme a la Ley de Ingresos del Municipio vigente, determinar las obligaciones fiscales municipales a cargo de los fraccionadores y promotores;
+
+V.- Emitir a solicitud de la Secretaría de Planeación, Participación y Desarrollo del Estado el dictamen técnico jurídico u opinión, respecto de la factibilidad para que se autorice o (sic) su caso se niegue la autorización de un fraccionamiento, condominio o desarrollo inmobiliario especial;
+
+VI.- Determinar y requerir al fraccionador o promotor, la documentación necesaria para entregarse digitalmente a la Unidad Externa de Supervisión, a efecto de que realice sus trabajos correspondientes;
+
+VII.- Determinar a los fraccionadores o promotores, el tipo, monto y condiciones de la garantía para asegurar la debida ejecución de las obras de urbanización y prestación de servicios en un fraccionamiento, condominio o desarrollo inmobiliario especial.
+
+Si la garantía es hipotecaria, efectuar la revisión y validación del avalúo del inmueble que en su caso se vaya a otorgar para la hipoteca, mismo que deberá estar libre de gravamen o reserva de dominio;
+
+VIII.- Una vez solicitada, expedir a la Secretaría de Planeación, Participación y Desarrollo del Estado su opinión respecto de la factibilidad o no para que se autorice el inicio de obras de urbanización en un fraccionamiento, condominio o desarrollo inmobiliario especial, respecto de los desarrollos autorizados por el Consejo Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda o por esa Secretaría, tratándose de Desarrollos Inmobiliarios Especiales;
+
+IX.- Otorgada la autorización de inicio de obras de urbanización para un fraccionamiento, condominio o desarrollo inmobiliario especial, asignar la Unidad Externa de Supervisión conforme a lo previsto en este Código Municipal, con el fin de que proceda a la correspondiente supervisión de la obra.
+
+Para efecto de lo anterior elaborar y suscribir el Contrato de Prestación de Servicios, conjuntamente con la Dirección de Finanzas y Administración Municipal y la Unidad Externa de Supervisión;
+
+X.- Realizar la apertura de la bitácora de las obras de urbanización, con la presencia del Perito Responsable de las Obras, el Residente de las Obras y la Unidad Externa de Supervisión;
+
+XI.- Con la participación del Síndico Municipal, recibir la posesión de las áreas de donación que le deben otorgar al Municipio los fraccionadores o promotores, verificando que la ubicación y superficie sea la correcta; de forma documental, digital y física;
+
+XII.- Analizar y en su caso validar el proyecto de escritura pública de las áreas de donación y vialidades públicas que le corresponden al Municipio, para integrarlas al inventario municipal;
+
+XIII- Solicitada por la Secretaría de Planeación, Participación y Desarrollo del Estado, emitirle la opinión para que se autorice por esta la publicidad y en su momento la venta de lotes o predios en fraccionamientos o condominios.
+
+En el caso de los condominios autorizados por el Municipio, previa opinión de la Secretaría de Planeación, Participación y Desarrollo del Estado, expedir la autorización de publicidad y posteriormente de venta de predios.
+
+XIV.- Conforme a los derechos y obligaciones que tienen los fraccionadores o promotores de condominios y desarrollos inmobiliarios especiales, durante el proceso de urbanización darle puntual seguimiento a los mismos, para que el Expediente Digital Único se encuentre debidamente integrado y las obras se ejecuten conforme a lo autorizado;
+
+XV.- Verificar que en los fraccionamientos aun no municipalizados, los fraccionadores presten normal y suficientemente los servicios públicos correspondientes;
+
+XVI.- En el caso de los condominios en los que no se hubieran entregado las obras de urbanización y servicios básicos, constar que los promotores o el administrador, con cargo a las cuotas que deben cubrir los condóminos, presten normal y suficientemente los servicios básicos a que hace referencia el Código Urbano para el Estado;
+
+XVII.- En el supuesto de detectar omisiones, irregularidades o inconsistencias en el cumplimiento de las obligaciones de los fraccionadores o promotores, requerir el cumplimiento correspondiente y en su caso adoptar las medidas de seguridad necesarias y la imposición de sanciones administrativas;
+
+XVIII.- Expedir a los fraccionadores o promotores, dictámenes técnico - jurídicos respecto de las obras de urbanización y cumplimiento de obligaciones de los fraccionamientos, condominios y desarrollos inmobiliarios especiales, para los efectos de la municipalización total o parcial o entrega a los condóminos, según corresponda, conforme a lo dictaminado por la Unidad Externa de Supervisión correspondiente.
+
+De manera extraordinaria y únicamente en casos justificados, para contar con los suficientes elementos que le permitan integrar el dictamen previo sobre la factibilidad de la solicitud de municipalización, requerir la opinión técnica o informe a determinada dependencia, entidad u organismo Municipal competente, en algún aspecto en lo particular y que debe analizar e incluir en el proyecto de dictamen referido.
+
+XIX.- Por conducto de su personal, realizar supervisión de manera aleatoria a las obras de urbanización de los fraccionamientos, condominios y desarrollos inmobiliarios especiales;
+
+XX.- Convocar al Comité de Municipalización, para que intervenga conforme a lo previsto en este Código, respecto de la municipalización de un fraccionamiento, ya sea de manera total o parcial o la recepción por parte del Municipio de algún servicio público;
+
+XXI.- Una vez municipalizado un fraccionamiento total o parcialmente o determinada la conclusión de obras de un condominio o desarrollo inmobiliario especial, establecer la garantía que estará vigente por un año posterior a ese acontecimiento, la cual deberá ser del 50% a la originalmente otorgada. Debiéndose en consecuencia autorizar la cancelación de la garantía concedida inicialmente.
+
+XXII.- Un año después de la municipalización total o parcial de un fraccionamiento o la entrega de las obras de urbanización a los condóminos, expedir documento por el que se autorice la cancelación de la garantía que hubiera otorgado un fraccionador o promotor al Municipio, conforme a lo referido en la fracción anterior;
+
+XXIII.- Inscribir en su registro las diversas asociaciones de colonos y condóminos;
+
+XXIV.- Emitir opinión a la Secretaría de Planeación, Participación y Desarrollo del Estado, respecto de la factibilidad o no para que se modifique o extinga un Régimen de Propiedad en Condominio.
+
+Si la autorización señalada en el párrafo anterior es competencia del Municipio, solicitar esa opinión a la Secretaría de Planeación, Participación y Desarrollo del Estado;
+
+XXV.- Cuando un fraccionador o promotor no hubiera iniciado las obras de urbanización o ejecutado las mismas en un fraccionamiento o condominio, conforme a lo determinado por el Código Urbano para el Estado, solicitar a la Secretaría de Planeación, Participación y Desarrollo del Estado el inicio del procedimiento para la revocación de la autorización correspondiente.
+
+Si la autorización respectiva, la emitió la Dirección de Desarrollo Urbano Municipal, realizar el procedimiento administrativo para la revocación respectiva;
+
+XXVI.- Acorde a lo previsto en el Código Urbano para el Estado, cuando resulte procedente iniciar al procedimiento administrativo para hacer efectivas las garantías otorgadas por los fraccionadores y promotores;
+
+XXVII.- Conjuntamente con la Secretaría de Planeación, Participación y Desarrollo del Estado, suscribir los diversos planos de los fraccionamientos, condominios y desarrollos inmobiliarios especiales en formato impreso y digital proporcionados por el fraccionador o promotor e integrarlos al Expediente Digital Único;
+
+XXVIII.- Emitir a la Secretaría de Planeación, Participación y Desarrollo del Estado su opinión para la autorización o no de una cesión de derechos y obligaciones por parte de un fraccionador o promotor a una tercera persona, verificando previamente los antecedentes de esta última.
+
+Si la autorización del condominio o desarrollo inmobiliario especial, la generó la Dirección de Desarrollo Urbano Municipal, pedir la opinión correspondiente a la Secretaría de Planeación, Participación y Desarrollo del Estado.
+
+XXIX.- Determinar el destino de las áreas de donación otorgadas al Municipio, conforme a los lineamientos del Código Urbano para el Estado y las necesidades de la zona de áreas verdes, parques, jardines, equipamiento e infraestructura urbana;
+
+XXX.- En el supuesto que no se hubieran concluido las obras de urbanización por parte del fraccionador o promotor, dentro del plazo señalado en el calendario aprobado, requerirles la propuesta de una nueva calendarización, para proceder a determinar los derechos fiscales municipales por la ampliación del plazo para la supervisión de las obras;
+
+XXXI.- A solicitud de la Secretaría de Planeación, Participación y Desarrollo del Estado, en caso de ser procedente expedir carta de liberación de obligaciones anteriores, respecto de un fraccionador o promotor que quiera desarrollar un nuevo proyecto en el Estado.
+
+Si el proyecto es competencia de la Dirección de Desarrollo Urbano Municipal, solicitar ese documento a la Secretaría de Planeación, Participación y Desarrollo del Estado;
+
+XXXII.- Realizar y disponer de lo necesario para que el Expediente Digital Único se encuentre debidamente integrado, y
+
+XXXIII.- Realizar todo aquello que disponga el Código Urbano para el Estado en lo correspondiente al presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 QUÁTER.- El dictamen técnico u opinión a que se refiere el Código Urbano para el Estado que debe emitir el Municipio para que se autorice un fraccionamiento, condominio o desarrollo inmobiliario especial, lo emitirá la Dirección de Desarrollo Urbano Municipal dentro de un plazo de 15 días hábiles a partir de la fecha en que recibió la correspondiente solicitud, determinando como mínimo lo señalado en el artículo 372 del Código Urbano para el Estado.
+
+De igual forma, la Dirección de Desarrollo Urbano Municipal, solicitará a la Secretaría de Planeación, Participación y Desarrollo del Estado, su opinión en los términos previstos en el artículo citado en el párrafo anterior, a efecto de que se autorice la constitución del Régimen de Propiedad en Condominio o de un Desarrollo Inmobiliario Especial que competa al Municipio de San Francisco de los Romo, Ags.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCION SEGUNDA. DE LAS OBRAS DE URBANIZACIÓN Y PUBLICIDAD Y VENTA DE PREDIOS
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 QUINQUIES.- La Dirección de Desarrollo Urbano Municipal para efecto de emitir la opinión positiva para que la Secretaría de Planeación, Participación y Desarrollo del Estado emita la autorización para el inicio de las obras de urbanización en un fraccionamiento, condominio o desarrollo inmobiliario especial deberá contar con la documentación señalada en el artículo 398 del Código Urbano para el Estado.
+
+En caso de ser competencia del Municipio el emitir esa autorización de inicio de obras de urbanización a los promotores de Condominios o Desarrollos Inmobiliarios Especiales autorizados de su parte, la Dirección de Desarrollo Urbano Municipal, pedirá la opinión correspondiente a la Secretaría de Planeación, Participación y Desarrollo del Estado y procederá a expedirla si se cumple con los requisitos del artículo 398 del Código Urbano para el Estado.
+
+Cuando la Dirección de Desarrollo Urbano Municipal lo considere o a solicitud del promotor, tomando en cuenta el tipo, características y tamaño del Condominio o Desarrollo Inmobiliario Especial, determine que no procede la presentación o acreditación de alguno de los requisitos o documentos que establece el artículo 398 señalado anteriormente, esta lo indicará al solicitante o en su caso le otorgará una prórroga razonable para que lo exhiba, en el caso de requerirse ese documento.
+
+La Dirección de Desarrollo Urbano Municipal podrá en coordinación con la Secretaría de Planeación, Participación y Desarrollo del Estado requerir en su caso por etapas, el cumplimiento de las obligaciones y documentación que se requiere conforme a lo dispuesto en este artículo y el Código Urbano para el Estado, con excepción del pago de los derechos derivados de la autorización del fraccionamiento, condominio y desarrollo inmobiliario especial que deberá estar cubierta en su totalidad.
+
+Las obligaciones fiscales municipales por la supervisión de obras de urbanización se cubrirán conforme se vayan autorizando y acorde a lo que establezca la Ley de Ingresos del Municipio vigente.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 SEXIES.- La supervisión única que realice la Dirección de Desarrollo Urbano Municipal, a través de las Unidades Externas de Supervisión, a las obras de urbanización de los fraccionamientos, condominios y desarrollos inmobiliarios especiales, será respecto de la compatibilidad del proyecto, la calidad y especificaciones de los materiales, obras y servicios realizados; así como, la construcción del equipamiento urbano e infraestructura complementarios en caso de que se hubiera sustituido por una parte de la donación o a cuenta de obligaciones fiscales municipales.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 SEPTIES.- Las Unidades Externas de Supervisión deberán informar quincenalmente a la Dirección de Desarrollo Urbano Municipal, respecto del avance de las obras de urbanización y de la calidad de los materiales, obras y servicios realizados.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 OCTIES.- El fraccionador o promotor entregará por escrito a la Dirección de Desarrollo Urbano Municipal y a la Unidad Externa de Supervisión informes quincenales del avance físico de las obras de urbanización y reportes de laboratorio de control de calidad, con base en el proyecto definitivo y al calendario de obra autorizado.
+
+Si se realizan obras de equipamiento e infraestructura urbana complementarios, también deberán entregarse los informes correspondientes, según lo señala el párrafo anterior y con la misma periodicidad.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 NONIES.- El fraccionador o promotor mantendrá permanentemente en la obra una bitácora autorizada por la Dirección de Desarrollo Urbano Municipal y foliada hasta la total conclusión de las obras de urbanización, con el fin de que el perito responsable de las obras de urbanización, el personal de la unidad externa de supervisión y de la Dirección de Desarrollo Urbano Municipal realicen sus anotaciones correspondientes. Esa bitácora podrá agregarse o integrarse al Expediente Digital Único.
+
+Será responsabilidad exclusiva del fraccionador o promotor, el debido resguardo y cuidado de esa bitácora de obra.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 DECIES.- Una vez concluida la totalidad de un fraccionamiento, condominio o desarrollo inmobiliario especial, de una etapa, o de un servicio público o de la construcción de equipamiento e infraestructura urbana complementaria, el fraccionador o promotor, solicitará por escrito a la Dirección de Desarrollo Urbano Municipal, el dictamen técnico jurídico de las ejecución (sic) de las obras de urbanización o de un servicio, ya sea total o parcialmente.
+
+Ese dictamen lo expedirá la Dirección de Desarrollo Urbano Municipal, con base en la documentación del expediente del fraccionamiento, condominio o desarrollo inmobiliario especial, los informes o dictámenes de la Unidad Externa de Supervisión y del Perito Responsable de Obra y solo en caso excepcional y justificado requerirá algún informe o dictamen a determinada Dependencia, Entidad u Organismo Municipal, conforme a lo previsto en el párrafo tercero del artículo 455 del Código Urbano para el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 UNDECIES.- A la solicitud referida en el artículo anterior, el fraccionador o promotor deberá adjuntar la siguiente documentación:
+
+I.- Dictamen del perito responsable de las obras de urbanización, que justifique que las obras de urbanización y en su caso el equipamiento e infraestructura urbana complementarios, fueron ejecutados conforme a lo autorizado y se encuentran total y debidamente concluidos;
+
+II.- La bitácora de la obra debidamente concluida y cerrada, con todas las anotaciones que debieron realizar los obligados;
+
+III.- Reporte de conclusiones del laboratorio de calidad que realizó las pruebas durante la ejecución de las obras de urbanización o del equipamiento e infraestructura urbana complementarios;
+
+IV.- Comprobante de pago de los derechos fiscales municipales, según lo dispuesto por la Ley de Ingresos del Municipio correspondiente, y
+
+V.- Constancia de que la garantía de las obras de urbanización y en su caso del equipamiento e infraestructura urbana adicionales se encuentra vigente.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 DUODECIES.- En el supuesto que el dictamen técnico jurídico expedido por la Dirección de Desarrollo Urbano Municipal tenga alguna observación u obligación pendiente a cargo del fraccionador o promotor, éste se encontrará obligado a corregirlo a su costa en el plazo que le indique esa Dirección.
+
+Una vez subsanado lo determinado en el dictamen, el fraccionador o promotor podrá solicitar a la Dirección de Desarrollo Urbano Municipal en su caso la emisión de un nuevo dictamen.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 TERDECIES.- Los fraccionadores y promotores tendrán las obligaciones y derechos establecidos en el Código Urbano para el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 QUATERDECIES.- De acuerdo a la clasificación, densidad de construcción y población que se derive de los fraccionamientos, condominios o desarrollos inmobiliarios especiales, y en términos de lo estipulado en el Código Urbano para el Estado, la Dirección de Desarrollo Urbano Municipal, determinará las áreas de donación que conforme a las normas y criterios para la dotación de equipamiento urbano básico e infraestructura, deban transferirle gratuitamente los fraccionadores y promotores.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 QUINDECIES.- EI fraccionador o promotor estará obligado a formalizar las donaciones a favor del Municipio de San Francisco de los Romo, Ags., en los lugares y superficies que de acuerdo al tipo de fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión autorizado le sean señalados, así como a escriturar a su costa las áreas destinadas a vías públicas, áreas verdes y equipamiento urbano e infraestructura.
+
+Respecto del equipamiento urbano también deberá entregar la posesión, títulos y facturas que acrediten la propiedad del mismo, a favor del Municipio de San Francisco de los Romo, Ags., o de quien este indique.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 SEXDECIES.- Los promotores deberán solicitar a la Dirección de Desarrollo Urbano Municipal que les autorice la publicidad y posteriormente la venta de predios, departamentos, viviendas, casas, locales, oficinas, bodegas, naves industriales o áreas, respecto de los Condominios y Subdivisiones con obras de urbanización autorizados por esa Dirección, por lo que deberán presentar la propuesta de su publicidad, la cual se deberá de apegar a las condiciones de la autorización respectiva, sin que resulte confusa para los probables adquirentes o usuarios de esos bienes, precisando en su caso la etapa de las obras de urbanización objeto de esa solicitud. En caso de no hacerlo, se harán acreedores a las sanciones que establece el Código Urbano para el Estado y el presente Código Municipal.
+
+Una vez autorizada la publicidad por la Dirección de Desarrollo Urbano Municipal, la misma no podrá ser modificada durante su difusión, a no ser que exista autorización expresa de la misma Dirección.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 SEPTDECIES.- La Dirección de Desarrollo Urbano Municipal para efecto de expedir la autorización de venta de los bienes indicados, deberá contar con la opinión favorable de la Secretaría de Planeación, Participación y Desarrollo del Estado; y de la unidad externa de supervisión y del perito responsable de la obra, un dictamen del que se desprenda entre otras situaciones que existe un avance de cuando menos del 30% en la ejecución de esas obras de urbanización del desarrollo correspondiente y que las mismas son compatibles con el proyecto autorizado. Esta autorización podrá otorgarse por etapas.
+
+Además de los requisitos señalados anteriormente, para efecto de que la Dirección de Desarrollo Urbano Municipal expida la autorización de venta de un condominio o desarrollo inmobiliario especial, en el expediente respectivo deberán existir los documentos señalados en el Código Urbano para el Estado en su artículo 448.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCIÓN TERCERA. DE LA MUNICIPALIZACIÓN DE LOS FRACCIONAMIENTOS Y SUBDIVISIONES
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 OCTODECIES.- El Municipio será la única autoridad competente para recibir los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y las obras de urbanización de un fraccionamiento o subdivisión, por lo que cualquier acto, contrato o convenio que se celebre por parte del fraccionador o promotor, con la asociación de colonos u otra persona física o moral que contravenga esta disposición, será nulo de pleno derecho.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 NOVODECIES.- La Dirección de Desarrollo Urbano Municipal, para efecto de municipalizar un fraccionamiento o una subdivisión, deberá observar lo dispuesto en el Código Urbano para el Estado, particularmente su Capítulo IX del Título Séptimo.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 VICIES.- En el caso de que se hubieran municipalizado los pavimentos, banquetas y guarniciones de un fraccionamiento o subdivisión y posteriormente se vayan a edificar los lotes y predios baldíos en esa parte el constructor y/o propietario de los mismos se encontrara obligado a asegurar a la Dirección de Desarrollo Urbano Municipal que con motivo de esos trabajos no se afectara o dañará esa infraestructura.
+
+Será requisito para que en su caso se expida por la Dirección de Desarrollo Urbano Municipal la constancia de terminación de obra o habitabilidad de los inmuebles edificados, que previamente se constate el buen estado de los pavimentos, banquetas y guarniciones situados en la parte frontal de las citadas edificaciones, ya que en caso contrario los mismos se tendrán que reparar o demoler y volver a construir por parte del propietario y/o constructor, según lo dictamine la Dirección de Obras Públicas Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 UNVICIES.- El Comité Técnico de Municipalización auxiliará a la Dirección de Desarrollo Urbano Municipal, para los efectos de la municipalización total o parcial de los fraccionamientos o la entrega de las obras de urbanización a los condóminos, conforme a lo previsto en el artículo 1476 de éste Código Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 DUOVICIES.- La Dirección de Desarrollo Urbano Municipal tramitará la publicación en el Periódico Oficial del Estado del acta de entrega-recepción del fraccionamiento o subdivisión o las correspondientes a las etapas de urbanización o recepción de un servicio u obra de equipamiento urbano.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+### CAPITULO VI QUÁTER. DE LA AUTORIZACIÓN, MODIFICACIÓN Y EXTINCIÓN DEL RÉGIMEN DE PROPIEDAD EN CONDOMINIO POR PARTE DEL MUNICIPIO
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 TERVICIES.- Todo lo no previsto en el presente Capítulo, le será aplicable el Título Séptimo del Código Urbano para el Estado, particularmente el Capítulo X y prevaleciendo lo contemplado en el mismo.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 QUATERVICIES.- La constitución, modificación o extinción del Régimen de Propiedad en Condominio, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados o menos de 100 viviendas, departamentos, locales o áreas, le corresponde al Municipio de San Francisco de los Romo, Ags., a través de su Dirección de Desarrollo Urbano, las cuales se sujetan a lo dispuesto en este Capítulo.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 QUINVICIES.- Para los efectos de lo señalado en el artículo anterior, la Dirección de Desarrollo Urbano Municipal estará facultada para lo siguiente:
+
+I.- Recibir las solicitudes para la autorización de la constitución, modificación o extinción del Régimen de Propiedad en Condominio;
+
+II.- Integrar los expedientes conforme a lo indicado por el Código Urbano para el Estado y este Código Municipal, para expedir la autorización para la constitución, modificación o extinción del Régimen de Propiedad en Condominio;
+
+III.- Solicitar la opinión al Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, respecto del proyecto respectivo;
+
+IV.- Pedir a la Secretaría de Planeación, Participación y Desarrollo del Estado, su opinión para en su caso expedir la autorización de constitución, modificación o extinción correspondiente;
+
+V.- Elaborar el proyecto de dictamen para la autorización de constitución, modificación o extinción conforme a lo descrito en el Código Urbano para el Estado, sometiéndolo previamente a la consideración del Promotor y del Perito Responsable de Obra;
+
+VI.- Determinar las obligaciones fiscales municipales a cargo del promotor, por la autorización respectiva;
+
+VII.- Generar la autorización correspondiente y gestionar su publicación en el Periódico Oficial del Estado;
+
+VIII.- Autorizar la publicidad que le proponga el promotor o en su caso negar la misma;
+
+IX.- Analizar y de proceder aprobar del (sic) calendario de obras, que le presente el Promotor;
+
+X.- Conforme a lo previsto en el Código Urbano para el Estado, determinar el tipo y cuantía de la garantía por la debida ejecución de las obras de urbanización y prestación de servicios que deberá otorgar el promotor;
+
+XI.- Integrado el expediente, expedir la autorización de inicio de obras de urbanización, asignado (sic) la Unidad Externa de Supervisión;
+
+XII.- Emitir la autorización de venta de predios, una vez conformados los requisitos señalados en el Código Urbano para el Estado y este Código Municipal;
+
+XIII.- Una vez solicitado por el promotor, expedir el dictamen técnico jurídico de conclusión de obras, y
+
+XIV.- Transcurrido un año, posterior a la emisión del dictamen técnico jurídico de conclusión de obras, autorizar la cancelación de la garantía respectiva.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 SEXVICIES.- La Dirección de Desarrollo Urbano Municipal, para los efectos del presente Capítulo deberá realizar y observar el siguiente procedimiento:
+
+I.- Recibir la solicitud del promotor, para la autorización, modificación o extinción del Régimen de Propiedad en Condominio, con los requisitos y documentación señalada en el Código Urbano para el Estado en su artículo 365, salvo los casos de excepción indicados posteriormente.
+
+Esa solicitud se deberá integrar al Expediente Digital Único, señalando la clasificación del proyecto, conforme a lo dispuesto por el Código Urbano para el Estado;
+
+II.- Una vez completado el expediente en su primera fase, acorde a lo requerido por el Código Urbano para el Estado y este Código Municipal, se informará al Promotor para que conjuntamente con su Perito Responsable de Obra, lo presenten a la opinión del Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano;
+
+III.- Después la Dirección de Desarrollo Urbano Municipal, enviará el expediente a la Secretaría de Planeación, Participación y Desarrollo del Estado, con el fin de que emita su opinión dentro de un plazo de máximo de (sic) 15 días hábiles, respecto de la solicitud correspondiente;
+
+IV.- Posteriormente el expediente se deberá completar por parte del promotor con la documentación y requisitos señalados en el artículo 368 del Código Urbano para el Estado;
+
+V.- Conformado el expediente acorde a lo requerido en las fracciones anteriores, la Dirección de Desarrollo Urbano, formulará el proyecto de dictamen de autorización, con el contenido señalado en el artículo 378 del Código Urbano para el Estado y lo someterá a la consideración del promotor y del perito responsable de las obras de urbanización;
+
+VI.- Autorizado el proyecto, la Dirección de Desarrollo Urbano Municipal, gestionará su publicación por una vez en el Periódico Oficial del Estado;
+
+VII.- La Dirección de Desarrollo Urbano Municipal, una vez cubiertas las obligaciones fiscales estatales y municipales por la autorización, recibirá y analizará la propuesta que le presente el promotor, con el objeto de autorizar la publicidad del condominio, sin que ello implique la posibilidad de enajenar predios del mismo;
+
+VIII.- Integrado el expediente conforme a lo descrito en el artículo 398 del Código Urbano para el Estado, emitir la autorización de inicio de obras de urbanización;
+
+IX.- Asignar la Unidad Externa de Supervisión de las obras de urbanización, verificando que se cumpla el programa o calendario de obra; se entreguen los reportes de avance (sic) las obras, incluyendo las pruebas de laboratorio; que se hagan las anotaciones en la bitácora de obra y se cumplan las obligaciones a cargo de la citada Unidad, el Perito Responsable de la Obra y el Residente de la misma;
+
+X.- Posteriormente cuando el proyecto tenga un avance de cuando menos el 30% en la ejecución de las obras de urbanización y la documentación señalada en el artículo 448 del Código Urbano para el Estado se encuentre en el expediente, así como la opinión de la Secretaría de Planeación, Participación y Desarrollo del Estado, expedir la autorización de venta de los predios correspondientes;
+
+XI.- A solicitud del promotor, y recibidos los informes o dictámenes de la Unidad Externa de Supervisión y del Perito Responsable de Obra y en su caso de manera extraordinaria de alguna dependencia, entidad u organismo Municipal, emitir del dictamen técnico jurídico de conclusión de obras, y
+
+XII.- Autorizar la cancelación de la garantía otorgada por el promotor, un año posterior a la emisión del dictamen técnico jurídico señalado en la cláusula anterior.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCION SEGUNDA. DE LA AUTORIZACIÓN DE CONDOMINIOS CON OBRAS DE URBANIZACIÓN DE TIPO VERTICAL
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 SEPTVICIES.- La autorización para constituir un Régimen de Propiedad en Condominio con obras de urbanización, deberá cumplir con la documentación y requisitos señalados en los artículos 365 y 368 del Código Urbano para el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 OCTOVICIES.- Respecto de la documentación y requisitos que deberá adjuntar el promotor para la autorización de un Condominio Vertical, es la siguiente:
+
+I.- Solicitud de autorización especificando la propuesta de denominación del desarrollo y relación de desarrollos realizados o autorizados en el Estado;
+
+II.- Constancia de no adeudo a la propiedad raíz del año en curso;
+
+III.- Copia certificada de escrituras o título de propiedad, inscritos en el Registro Público de la Propiedad, acompañada cuando aplique de la autorización de fusión de predios;
+
+IV.- Certificado de libertad de gravamen, expedido por el Registro Público de la Propiedad del Estado, no mayor a un mes anterior a la solicitud;
+
+V.- Copia certificada de la escritura pública constitutiva de la empresa promotora, inscrita en el Registro Público de la Propiedad del Estado, cuando se trate de persona moral, acompañada de Poder Notarial también certificado;
+
+VI.- Si el promotor es persona física, copia simple de su identificación oficial, señalando sus generales;
+
+VII.- Señalar domicilio para recibir notificaciones en el Municipio de San Francisco de los Romo, correo electrónico y teléfono móvil;
+
+VIII.- Constancia Municipal de Compatibilidad Urbanística vigente;
+
+IX.- Si el proyecto es de 50 o más casas, departamentos, locales o áreas o de una superficie mayor a los 10,000 metros cuadrados, su propuesta de ubicación, medidas y colindancias del área de donación para el Municipio;
+
+X.- Dictamen o Informe en materia de impacto ambiental emitido por la Secretaría de Sustentabilidad, Medio Ambiente y Agua del Estado;
+
+XI.- Estudio de Impacto Urbano avalado por un Perito en Diseño Urbano;
+
+XII.- Estudio de Impacto Vial (cuando se requiera);
+
+XIII.- Levantamiento topográfico catastral o ubicación georreferenciada emitida por Catastro;
+
+XIV.- Plano de zonificación y usos de suelo;
+
+XV.- Factibilidad de Agua Potable, Alcantarillado y Saneamiento;
+
+XVI.- Factibilidad de Energía Eléctrica;
+
+XVII.- Estudio de mecánica de suelos avalado por el perito especializado;
+
+XVIII.- Designación, aceptación y constancia emitida por el Municipio del Perito Responsable de la Obra;
+
+XIX.- Memoria descriptiva, cédulas condominales y Reglamento de Administración;
+
+XX.- Constancia por escrito de que se ha gestionado o autorizado por la autoridad competente en materia de transporte público, la introducción del servicio de transporte urbano;
+
+XXI.- Carta de liberación de cumplimiento de obligaciones anteriores y adecuada ejecución de las obras concluidas o en proceso, expedida por la Secretaría de Planeación, Participación y Desarrollo del Estado, con una vigencia no mayor de 30 días naturales, y
+
+XXII.- Los siguientes documentos se presentarán en caso de aplicar según su naturaleza:
+
+A.- Estudios Geológico y Geofísico, en caso de ser detectada alguna grieta o falla cercana al proyecto en el sistema de SIFAGS avalado por los peritos especializados, no mayor a 6 meses.
+
+B.- Dictamen emitido por la Comisión Nacional del Agua en el que se indiquen restricciones de la zona federal, en caso de ser detectado algún cuerpo de agua cercano al predio.
+
+C.- Plano de Vialidad y Diseño de pavimentos en caso de que el proyecto contemple vialidades.
+
+Cuando por consideración de la Dirección de Desarrollo Urbano Municipal, tomando en cuenta el tipo, características y tamaño del Condominio, considere que no procede la presentación o acreditación de alguno de los requisitos o documentos establecidos en el presente artículo, está lo indicará al solicitante por no ser necesario al caso específico. Para ese fin la Dirección de Desarrollo Urbano podrá solicitar la opinión a la Secretaría de Planeación, Participación y Desarrollo del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 NOVOVICIES.- Una vez autorizado el Condominio Vertical se deberá presentar lo siguiente:
+
+I.- Para efecto de recibir la autorización, el promotor deberá entregar a la Dirección de Desarrollo Urbano Municipal, el comprobante del pago de las obligaciones fiscales estatales y municipales por la opinión y la autorización, respectivamente;
+
+II.- Plano de lotificación/zonificación autorizado por la Dirección de Desarrollo Urbano Municipal;
+
+III.- Plano y memoria descriptiva de la instalación hidráulica;
+
+IV.- Plano y memoria descriptiva de la instalación sanitaria;
+
+V.- Plano y memoria descriptiva de la instalación pluvial, y
+
+VI.- Plano y memoria descriptiva de la instalación eléctrica.
+
+Cuando por consideración de la Dirección de Desarrollo Urbano Municipal, tomando en cuenta el tipo, características y tamaño del Condominio, considere que no procede la presentación o acreditación de alguno de los requisitos o documentos establecidos en el presente artículo, está lo indicará al solicitante por no ser necesario al caso específico. Para ese fin la Dirección de Desarrollo Urbano podrá solicitar la opinión a la Secretaría de Planeación, Participación y Desarrollo del Estado.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCION TERCERA. DE LA AUTORIZACIÓN DE CONDOMINIOS EN EDIFICACIONES EXISTENTES, SITUADAS EN ZONAS CONSOLIDADAS Y CON SERVICIOS BÁSICOS URBANOS
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 TRICIES.- La documentación y requisitos que deberá adjuntar el promotor para la autorización de un Condominio en una edificación existente, situado en una zona consolidada y con servicios básicos urbanos municipales, es la siguiente:
+
+I.- Solicitud de autorización especificando la propuesta de denominación del Condominio y relación de desarrollos realizados o autorizados en el Estado;
+
+II.- Constancia de no adeudo a la propiedad raíz del año en curso;
+
+III.- Copia certificada de escrituras o título de propiedad, inscritos en el Registro Público de la Propiedad, acompañada cuando aplique la autorización de fusión de predios;
+
+IV.- Certificado de libertad de gravamen, expedido por el Registro Público de la Propiedad del Estado, no mayor a un mes anterior a la solicitud;
+
+V.- Copia certificada escritura pública constitutiva de la empresa promotora, inscrita en el Registro Público de la Propiedad del Estado, cuando se trate de persona moral, acompañada de Poder Notarial también certificado;
+
+VI.- Si el promotor es persona física, copia simple de su identificación oficial, señalando sus generales;
+
+VII.- Señalar domicilio para recibir notificaciones en el Municipio de San Francisco de los Romo, correo electrónico y teléfono móvil;
+
+VIII.- Constancia Municipal de Compatibilidad Urbanística vigente;
+
+IX.- Carta de liberación de obligaciones anteriores, expedida por la Secretaría de Planeación, Participación y Desarrollo del Estado, con una vigencia no mayor de 30 días naturales;
+
+X.- Fotografía área (sic) con la ubicación de la edificación y su entorno;
+
+XI.- Copia simple del oficio y plano del Instituto Catastral del Estado, que le contenga levantamiento topográfico catastral;
+
+XII.- Plano del proyecto, suscrito por el propietario o propietarios y Perito Responsable de Obra;
+
+XIII.- Dictamen que contiene memoria descriptiva de la edificación, emitida por Perito Responsable de Obra;
+
+XIV.- Factura del servicio de agua potable y drenaje para la edificación;
+
+XV.- Factura por el servicio de energía eléctrica para la edificación, y
+
+XVI.- Proyecto de Reglamento de Administración para el Condominio.
+
+Cuando por consideración de la Dirección de Desarrollo Urbano Municipal, tomando en cuenta el tipo, características y tamaño del Condominio, considere que no procede la presentación o acreditación de alguno de los requisitos o documentos establecidos en el presente artículo, está lo indicará al solicitante por no ser necesario al caso específico. Para ese fin la Dirección de Desarrollo Urbano podrá solicitar la opinión a la Secretaría de Planeación, Participación y Desarrollo del Estado.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCION CUARTA. DE LA AUTORIZACIÓN DE VENTA DE PREDIOS, VIVIENDAS, DEPARTAMENTOS, ÁREAS O LOCALES SITUADOS EN CONDOMINIO
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 UNTRICIES.- La autorización de venta de predios de condominios con obras de urbanización, se sujetará a las condiciones y requisitos señalados en el artículo 448 del Código Urbano para el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 DUOTRICIES.- Respecto de la autorización de venta en Condominios Verticales, deberá cumplir con lo siguiente:
+
+I.- Cumplir con la documentación y requisitos aplicables, señalados en el artículo 448 del Código Urbano para el Estado, y
+
+II.- Reporte del Perito Responsable de Obra, el cual deberá validar el personal de la Dirección de Desarrollo Urbano Municipal, que represente un avance mínimo del 50%, únicamente cuando la edificación sea superior a 21 metros de altura o mayor a 14 departamentos, locales o áreas.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 TERTRICIES.- Referente a la autorización de venta en los condominios constituidos en edificaciones existentes, situados en zonas consolidadas y servicios básicos urbanos, se expedirá una vez que se cuente con la escritura pública constitutiva e inscrita en el Registro Público de la Propiedad del Estado, así como del Reglamento de Administración correspondiente.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCION QUINTA
+
+DE LA AUTORIZACIÓN DE MODIFICACIÓN Y EXTINCIÓN DEL RÉGIMEN DE PROPIEDAD EN CONDOMINIO.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 QUATERTRICIES.- La autorización para la modificación y extinción del Régimen de Propiedad en Condominio, que expida la Dirección de Desarrollo Urbano Municipal, deberá apegarse a las disposiciones contenidas en la Sección Tercera, Capítulo X del Título Séptimo del Código Urbano para el Estado.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCION SEXTA. DE LA DESTRUCCIÓN, RUINA Y RECONSTRUCCIÓN DE LOS BIENES EN CONDOMINIO
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 QUINTRICIES.- La destrucción, ruina y reconstrucción de los bienes de un Condominio, se apegarán a lo establecido en la Sección Sexta, Capítulo X del Título Séptimo del Código Urbano para el Estado.
+
+> <small>(ADICIONADO CON LA SECCION Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+### CAPITULO VI QUINQUIES. DE LA AUTORIZACIÓN, MODIFICACIÓN Y EXTINCIÓN DE LOS DESARROLLOS INMOBILIARIOS ESPECIALES
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCIÓN ÚNICA
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 SEXTRICIES.- El Código Urbano para el Estado, establece que (sic) Desarrollo Inmobiliario Especial, consiste en el aprovechamiento de un bien inmueble, mediante la edificación de construcciones para usos o destinos comerciales, de servicios, industriales y/o habitacionales, en los que no se trasmite la propiedad sino la posesión, que implique la dotación de obras de infraestructura y equipamiento y la prestación de servicios básicos, con la posibilidad de trazar vialidades internas, así como utilizar espacios comunes o abiertos, sin estar sujetos a copropiedad; sin poder realizarse la enajenación de sus elementos, partes o edificaciones.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 SEPTRICIES.- Conforme a lo estipulado por el Código Urbano para el Estado, es facultad del Municipio de San Francisco de los Romo, Ags., autorizar los Desarrollos Inmobiliarios Especiales, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 OCTOTRICIES.- La Dirección de Desarrollo Urbano Municipal, para efecto de autorizar los Desarrollos Inmobiliarios Especiales, observará las disposiciones correspondientes del Libro Séptimo del Código Urbano para el Estado, particularmente su Capítulo I, Sección Cuarta, así como lo señalado y aplicable en el presente Código Municipal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+### CAPITULO VI SEXIES. DEL EXPEDIENTE DIGITAL ÚNICO Y LOS ASESORES INMOBILIARIOS
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 NOVOTRICIES.- A la Dirección de Desarrollo Urbano Municipal le corresponderá coordinarse con la Secretaría de Planeación, Participación y Desarrollo del Estado, para implementar, integrar y operar en el ámbito de su competencia, el Expediente Digital Único, para la tramitación, autorización, ejecución y control de las obras de urbanización, así como la municipalización de un fraccionamiento o subdivisión y la entrega de las obras de urbanización a los condóminos.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 QUADRAGIES.- El Convenio de coordinación para los efectos señalados en el artículo anterior, entre otras situaciones deberá contemplar la comunicación e interconexión de los sistemas informáticos y procesos de integración, autorización, verificación de la ejecución de las obras de urbanización, dictámenes de conclusión de obras, municipalización de los fraccionamientos y subdivisiones o entregas de urbanización a los condóminos, registros de asociaciones de colonos o condóminos, entre otros, para lo cual las partes podrán compartir plataformas, accesos a sus respectivos sistemas, así como las bases de datos y desde luego operar y suministrar información al Expediente Digital Único.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1511 UNQUADRAGIES.- También corresponderá a la Dirección de Desarrollo Urbano Municipal, coordinarse con la Secretaría de Planeación, Participación y Desarrollo del Estado, para crear la certificación de los Asesores Inmobiliarios, previstos en el Código Urbano para el Estado, a fin de que en el ámbito del desarrollo urbano se cuente con un padrón de profesionales que faciliten los trámites, autorizaciones y, seguimiento de derechos y obligaciones en esa materia.
+
+### CAPITULO VII. Disposiciones Particulares de los Usos del Suelo
 
 ###### ARTICULO 1512.
 
@@ -16811,7 +17781,11 @@ Para el caso de establecimientos comerciales de tipo eventual, cuya construcció
 
 Todo comercio de tipo periódico que maneje o expenda material de tipo tóxico, flamable, volátil o material de tipo peligroso, deberá presentar el cuestionario de información básica ambiental, el cual será parte primordial para la autorización del giro de que se trate.
 
-### CAPITULO IV. Requerimientos Técnicos Generales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2023)</small>
+
+### CAPITULO VIII
+
+DE LAS INFRACCIONES Y SANCIONES DE MANERA INDIVIDUALIZADA.
 
 ###### ARTICULO 1516.
 
@@ -16827,7 +17801,83 @@ Los gastos generados con motivo de una demolición efectuada por la Dirección o
 
 La Dirección requerirá, en todo caso, a la persona que contravenga lo dispuesto en el Artículo anterior, para que se ajuste al mismo; en caso de no hacerlo ésta en el plazo que le será previamente fijado, el cual no podrá ser menor a diez días hábiles, se procederá en los términos del numeral que antecede.
 
-### CAPITULO V. Anuncios Estructurales
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1518 BIS.- Para los efectos del presente Capítulo se entenderá por UMA, la Unidad de Medida y Actualización determinada por día, por parte de la Institución competente para ese fin.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1518 TER.- La imposición de multas por parte de la Dirección de Desarrollo Urbano Municipal, independientemente y sin perjuicio de aplicar las previstas en los artículos 1953, 1954, 1955, 1956 y 1957 de este Código Municipal, así como de las previstas en el Código Urbano para el Estado, por incumplimiento de los fraccionadores, promotores y población en general a las disposiciones de este Código Municipal, se ajustará a lo siguiente:
+
+I.- Por iniciar obras de urbanización en los fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones o predios, sin contar con la autorización correspondiente expedida por la Secretaría de Planeación, Participación y Desarrollo del Estado o la propia Dirección de Desarrollo Urbano Municipal, multa equivalente a ochocientas veces la UMA, independientemente de la clausura a esas obras;
+
+II.- Por realizar obras de urbanización en los fraccionamientos, condominios, desarrollos inmobiliarios especiales o subdivisiones, en etapas diferentes a lo autorizado, multa equivalente a cuatrocientas veces la UMA, independientemente de la clausura a esas obras;
+
+III.- Por realizar obras de urbanización en los fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones o predios en contravención al dictamen de autorización correspondiente, multa equivalente de ochocientas a dos mil cuatrocientas veces la UMA, independientemente de la obligación de realizar las demoliciones y/o correcciones a las obras, a efecto de que se ajusten a lo autorizado;
+
+IV.- Por realizar el fraccionador o promotor de un fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión de actos de publicidad, promoción o venta, respecto de lotes o inmuebles, sin contar con la autorización correspondiente por la Secretaría de Planeación, Participación y Desarrollo del Estado o la misma Dirección de Desarrollo Urbano Municipal, multa equivalente a mil veces la UMA, independientemente de la obligación de retirar toda la publicidad inherente a esa actividad y de evitar cualquier acto de enajenación;
+
+V.- Por realizar el fraccionador o promotor de un fraccionamiento, condominio o subdivisión actos de venta de lotes, predios o inmuebles, ubicados en etapas distintas a las amparadas por la autorización respectiva expedida por la Secretaría de Planeación, Participación y Desarrollo del Estado o la misma Dirección de Desarrollo Urbano Municipal, multa equivalente a quinientas veces la UMA, independientemente de la obligación de evitar la venta de bienes inmuebles;
+
+VI.- Por no cumplir el fraccionador o promotor del fraccionamiento, condominio, desarrollo inmobiliario especial, la subdivisión o predio con el calendario de otras de urbanización autorizado por la Secretaría de Planeación, Participación y Desarrollo del Estado o la Dirección de Desarrollo Urbano Municipal, multa equivalente a mil días la UMA, si en la parte correspondiente al fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión cuenta con autorización de promoción y venta, independientemente de que la Dirección de Desarrollo Urbano Municipal analice la nueva propuesta de calendario o se realice el procedimiento para hacer efectiva la garantía de las obras de urbanización;
+
+VII.- Por no informar el fraccionador o promotor por escrito en la periodicidad establecida por el Código Urbano para el Estado a la Dirección de Desarrollo Urbano Municipal y a la unidad externa de supervisión, respecto del avance en la ejecución de las obras de urbanización o entregar pruebas de calidad de la obra, multa equivalente a ochenta días de la UMA;
+
+VIII.- Por no tener en las obras de urbanización del fraccionamiento, condominio, desarrollo inmobiliario especial, la subdivisión o predio, el libro de bitácora, multa equivalente a cuarenta días de UMA;
+
+IX.- Por realizar el fraccionador o promotor actos de publicidad, promoción o venta de proyecto diferente al autorizado o publicidad engañosa, en contravención al dictamen de autorización, multa equivalente a ochocientas veces la UMA.
+
+X.- Por no atender citatorio para comparecer ante la Dirección de Desarrollo Urbano Municipal, multa equivalente (sic) dos veces la UMA.
+
+XI.- Por no atender requerimiento dentro del plazo otorgado, para ejecutar obras y reparaciones en predio de su propiedad y/o posesión, limpieza de predios baldíos o fincas, bardeo perimetral y construcción de contrabardas, multa equivalente a treinta veces la UMA.
+
+XII.- Por construir, ampliar, modificar, remodelar y/o demoler inmuebles sin licencia de construcción autorizada, multa equivalente al 75% del valor de la correspondiente autorización, independientemente del pago de los derechos por la expedición de la correspondiente licencia.
+
+Si la obra no es susceptible de regularizarse la multa será equivalente a veinte veces la UMA, independientemente de la imposición de otras sanciones e incluso la orden de demolición.
+
+XIII.- Por continuar con los trabajos de construcción en obra clausurada o suspendida o retirar sellos de clausura, multa equivalente a cien veces la UMA.
+
+XIV.- Por construir sin respetar el proyecto de edificación autorizado, multa equivalente a cincuenta veces la UMA.
+
+XV.- Por no respetar restricciones y/o (sic) observaciones indicadas en la licencia de construcción, multa equivalente a cincuenta veces la UMA.
+
+XVI.- No tener en la obra la correspondiente bitácora, multa equivalente a seis veces la UMA.
+
+XVII.- No tener en la parte exterior de la obra, la lona con los datos de autorización de la construcción, multa equivalente a seis veces la UMA.
+
+XVIII.- No tener en la obra los planos de autorización de la misma, multa equivalente a seis veces la UMA.
+
+XIX.- Por realizar obras sin permiso en la vía pública municipal, multa equivalente a treinta veces la UMA, independientemente de realizar los trabajos de reparación que le indique la Dirección de Desarrollo Urbano Municipal.
+
+XX.- Por tener escombro y materiales de construcción en la vía pública municipal, multa equivalente a ocho veces la UMA.
+
+XXI.- Por depositar escombro y materiales de la construcción en lugares no autorizados por la Dirección de Desarrollo Urbano Municipal, multa equivalente a ocho veces la UMA.
+
+XXII.- Por colocar o instalar anuncios permanentes sin licencia, multa equivalente a cuarenta y cinco veces la UMA.
+
+XXIII.- Por colocar o instalar anuncios transitorios o temporales sin el permiso correspondiente, multa equivalente a veinticinco veces la UMA.
+
+XXIV.- Por no retirar un anuncio instalado en la vía pública municipal o predio particular, multa equivalente a cien veces la UMA.
+
+XXV.- Por colocar o instalar mobiliario urbano sin autorización, por cada unidad, multa equivalente a veinticinco veces la UMA.
+
+XXVI.- Por no contar el establecimiento con su correspondiente Constancia Municipal de Compatibilidad Urbanística, multa equivalente a veinticinco veces la UMA, independientemente de la clausura del inmueble.
+
+XXVII.- Por utilizar un inmueble con uso del suelo diferente al autorizado en la Constancia Municipal de Compatibilidad Urbanística o en el correspondiente Programa de Desarrollo Urbano Municipal o Esquema de Desarrollo Urbano, multa equivalente a veinticinco veces la UMA, independientemente de la clausura del mismo inmueble.
+
+XXVIII.- Por realizar actividades en la vía pública y/o (sic) obstruir la misma con equipo, productos, materiales, vehículos, etc., en el caso de talleres mecánicos, eléctricos, carpinterías o cualquier otro giro comercial, servicios o habitacional, multa equivalente a veinticinco veces la UMA.
+
+XXIX.- Por no tener el Perito Responsable de las Obras, registradas sus visitas a la obra en proceso de construcción, ampliación, modificación y/o demolición en la bitácora de obra respectiva, conforme a lo dispuesto en el presente Código Municipal, multa equivalente a veinticinco veces la UMA.
+
+XXX.- Por construir en la vía pública municipal a cualquier nivel o altura, multa equivalente a cien veces la UMA;
+
+XXXI.- Por realizar en la vía pública instalaciones aéreas de cualquier tipo de cable, multa equivalente a dos mil veces la UMA, independientemente de la obligación de retirar el cableado; y
+
+XXXII.- Por colocar, instalar y/o construir torres para telefonía celular y servicios de telecomunicaciones, sin la licencia correspondiente, multa equivalente a dos mil veces la UMA.
+
+En caso de reincidencia a todos los supuestos antes indicados, se duplicará el monto de la impuesta por la infracción respectiva.
+
+### CAPITULO IX. Denuncia Popular
 
 ###### ARTICULO 1519.
 
@@ -16845,7 +17895,7 @@ El desahogo de este procedimiento, no excederá de treinta días naturales, desd
 
 ## TITULO DECIMO SEGUNDO. DE LA REGLAMENTACION EN MATERIA DE ANUNCIOS
 
-### CAPITULO VI. Anuncios Semiestructurales
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 1522.
 
@@ -17185,7 +18235,7 @@ VII. Colocar anuncios colgantes, volados o sobresalientes, que invadan espacios 
 
 No se otorgará licencia o permiso para la fijación, instalación o colocación de anuncios, cuyo contenido haga referencia a ideas o imágenes con textos o figuras que inciten a la violencia, sean pornográficos, desarmonicen la imagen visual de su entorno o la arquitectónica de los edificios, promuevan la discriminación de raza o condición social, resulten ofensivos, difamatorios o atenten contra la dignidad del individuo o de la comunidad en general, así como para anuncios que, de acuerdo al dictamen emitido por la Autoridad Municipal, alteren la imagen visual del entorno en que se pretendan instalar, fijar o colocar.
 
-### CAPITULO VII. Anuncios sin Estructura Soportante
+### CAPITULO II. De los Trámites Administrativos y Registros
 
 ###### ARTICULO 1553.
 
@@ -17297,7 +18347,7 @@ Los fabricantes, arrendadores y rotulistas de anuncios, tienen la obligación de
 
 Los pagos de licencias, permisos y sanciones, se realizarán en las cajas receptoras de la Dirección General de Finanzas y Administración del Municipio de San Francisco de los Romo.
 
-### CAPITULO VIII. Disposiciones por Zona
+### CAPITULO III. Clasificación de los Anuncios
 
 ###### ARTICULO 1566.
 
@@ -17461,7 +18511,7 @@ X. Proyectados.
 
 Son anuncios especiales, aquellos cuyas características no corresponden a alguno de los clasificados por el Código Urbano o por éste Código Municipal o bien los que se adapten a un determinado diseño arquitectónico o se adecuen armoniosamente al entorno circundante en forma única.
 
-### CAPITULO IX. Disposiciones por Vialidades
+### CAPITULO IV. Requerimientos Técnicos Generales
 
 ###### ARTICULO 1573.
 
@@ -17493,7 +18543,7 @@ Es responsabilidad del propietario del anuncio cumplir con esta obligación; en 
 
 En caso de estructuras iguales para soporte de anuncios iguales, se podrá registrar una sola memoria de cálculo por cada anuncio, debidamente firmada en original por un Perito registrado ante la Dirección, siempre y cuando las características de suelo sean similares y no se encuentre bajo la influencia de una falla geológica; si las características son distintas, deberá presentarse una memoria de cálculo por cada anuncio.
 
-### CAPITULO X. Medidas de Seguridad, Infracciones y Sanciones
+### CAPITULO V. Anuncios Estructurales
 
 ###### ARTICULO 1578.
 
@@ -17607,7 +18657,7 @@ IV. Los espacios que no se utilicen para la fijación de anuncios, con respecto 
 
 V. La altura máxima de estos anuncios será de 2.50 metros.
 
-### CAPITULO XI. Denuncia Popular
+### CAPITULO VI. Anuncios Semiestructurales
 
 ###### ARTICULO 1584.
 
@@ -17637,9 +18687,7 @@ III. La distancia mínima de cualquier elemento integrante del anuncio, a cualqu
 
 IV. La altura máxima del anuncio será de 3 metros y como superficie máxima deberá tener 12 metros cuadrados, incluyendo todos los elementos del mismo.
 
-### CAPITULO I. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+### CAPITULO VII. Anuncios sin Estructura Soportante
 
 ###### ARTICULO 1586.
 
@@ -17797,9 +18845,7 @@ La responsabilidad de cualquier tipo de daño que se origine con motivo de la ut
 
 La Dirección, con la opinión del Comité, resolverá los casos que por sus características sean considerados como especiales o que no tengan similitud con los anuncios mencionados en este Código Municipal.
 
-### CAPITULO II. Del Impacto Ambiental
-
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+### CAPITULO VIII. Disposiciones por Zona
 
 ###### ARTICULO 1597.
 
@@ -17921,7 +18967,7 @@ por cara
 
 32 m2 18 m2
 
-### CAPITULO III. De las Áreas Naturales Protegidas
+### CAPITULO IX. Disposiciones por Vialidades
 
 ###### ARTICULO 1607.
 
@@ -17953,9 +18999,7 @@ Todos los anuncios, excepto los clasificados en este Código Municipal como estr
 
 En las vialidades locales, se permite la instalación de los anuncios que sean conformes al uso del suelo o zona especial donde se ubique la vialidad.
 
-### CAPITULO IV. De la Prevención y Control de la Contaminación
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+### CAPITULO X. Medidas de Seguridad, Infracciones y Sanciones
 
 ###### ARTICULO 1611.
 
@@ -18035,7 +19079,7 @@ En el caso de reincidencia de los fabricantes de anuncios, arrendatarios o rotul
 
 La Dirección ejercerá las facultades de verificación y vigilancia que le corresponden, observando las disposiciones que en esa materia dispone éste Código Municipal y demás legislación aplicable.
 
-### CAPITULO V. De los Recursos Naturales
+### CAPITULO XI. Denuncia Popular
 
 ###### ARTICULO 1622.
 
@@ -18051,19 +19095,687 @@ La Dirección una vez recibida la denuncia popular, integrará el expediente res
 
 El desahogo de este procedimiento, no excederá de quince días hábiles desde la fecha en que se reciba la denuncia, salvo que exista causa justificada que lo impida.
 
-### CAPITULO VI. De la Educación Ambiental
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
 
-### CAPITULO VII. De la Participación Social y la Coordinación Gubernamental
+### CAPITULO XII. DE LA REGULARIZACIÓN DE ASENTAMIENTOS HUMANOS, A TRAVÉS DE LA AUTORIZACIÓN DE SUBDIVISIONES
 
-### CAPITULO VIII. De la Denuncia Popular
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 BIS.- Para cumplir con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos en materia de fundación, conservación, mejoramiento y crecimiento de los centros de población, el ejercicio del derecho de propiedad sobre bienes inmuebles ubicados en dichos centros de población se sujetará a las provisiones, reservas, usos y destinos de áreas y predios que determinen el Municipio, en los correspondientes Programas o Esquemas Municipales de Desarrollo Urbano y Ordenamiento Territorial.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 TER.- Se considera de interés público y prioritario, el establecimiento de mecanismos de coordinación entre los Gobiernos Federal, Estatal y el Municipio, tendientes a la regularización de los asentamientos humanos en el Municipio, como acciones de mejoramiento de los centros de población.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 QUÁTER.- La regularización de la tenencia de la tierra, para su incorporación al desarrollo urbano, se sujetará a las siguientes disposiciones:
+
+I.- Se deberá proceder conforme al Programa Municipal de Desarrollo Urbano y Ordenamiento del Territorio o Esquema de Desarrollo Urbano aplicable, en la ejecución de acciones de mejoramiento;
+
+II.- Solo podrán ser beneficiarios de la regularización, quienes ocupen el predio; y
+
+III.- Ninguna persona podrá resultar beneficiada por la regularización con más de un lote o predio, cuya superficie no podrá exceder de la extensión determinada por la legislación y programas de desarrollo urbano y ordenamiento del territorio, salvo que exista causa justificada que determine la Dirección de Desarrollo Urbano Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 QUINQUIES.- La Secretaría de Planeación, Participación y Desarrollo del Estado y la Dirección de Desarrollo Urbano Municipal, previa opinión del Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, expedirán conjuntamente un dictamen de factibilidad de la regularización de un asentamiento humano, el cual deberá contener:
+
+I.- La factibilidad jurídica;
+
+II.- La factibilidad técnica urbanística y ambiental, evitando el asentamiento humano en zonas no urbanizables, de riesgo o de preservación ecológica;
+
+III.- La factibilidad de introducción de infraestructura, equipamiento y servicios a costos razonables y como acción de mejoramiento;
+
+IV.- Su liga con la traza urbana y su integración con la misma;
+
+V.- La acreditación de un beneficio social y público; y
+
+VI.- La congruencia con el Código Urbano para el Estado, el presente Código Municipal y el correspondiente programa o Esquema Municipal de Desarrollo Urbano.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 SEXIES.- El Ayuntamiento tomando en cuenta lo referido en los artículos anteriores, podrá expedir determinaciones para la regularización de asentamientos humanos situados en el Municipio, previa opinión del Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano y dictamen y solicitud realizada por la Dirección de Desarrollo Urbano Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 SEPTIES.- El decreto que emita el Ayuntamiento para la regularización de asentamientos humanos deberá contener como mínimo los siguientes lineamientos y disposiciones:
+
+I.- El Programa será exclusivamente para regularizar viviendas y/o equipamiento urbano;
+
+II.- Se deberá establecer una temporalidad para la aplicación del Programa de Regularización;
+
+III.- La responsable de aplicar y/o ejecutar el Programa de Regularización será la Dirección de Desarrollo Urbano Municipal, con el apoyo de las diversas dependencias y entidades municipales y la coordinación con la Secretaría de Planeación, Participación y Desarrollo del Estado y el Gobierno Federal;
+
+IV.- Se deberá establecer la superficie máxima de los predios que sean susceptibles de regularizarse, atendiendo a lo dispuesto por el Código Urbano para el Estado, el presente Código Municipal y el Programa o Esquema de Desarrollo Urbano aplicable;
+
+V.- Los interesados en formar parte del Programa Temporal de Regularización de Asentamientos Humanos correspondiente, deberán presentar su solicitud en el formato aprobado por la Dirección de Desarrollo Urbano Municipal;
+
+VI.- El predio objeto de la regularización, conforme al Programa o Esquema Municipal de Desarrollo Urbano correspondiente, deberá tener uso del suelo habitacional o de crecimiento habitacional;
+
+VII.- La regularización se hará bajo la figura de la expedición de subdivisiones de predios y cuya propiedad se pudo originar por una donación, venta, copropiedad o ser resultado de adjudicación derivado de un procedimiento sucesorio, entre otras, la cual tiene como finalidad que los interesados cuenten con una escritura debidamente individualizada e inscrita en el Instituto Catastral y el Registro Público de la Propiedad del Estado;
+
+VIII.- La regularización deberá ser solicitada por parte del propietario del inmueble mayor o su correspondiente Apoderado Legal o el Albacea designado en el procedimiento judicial;
+
+IX.- Los predios que se ubiquen en zonas de restricción o de riesgo no se podrán utilizar para la construcción de viviendas y en caso de existir estas las mismas deberán ser desocupadas y demolidas;
+
+X.- En caso de existir vialidades públicas y restricciones dentro del predio correspondiente, las mismas se deberán donar formalizando en escritura pública al Municipio, sin que ello implique la obligación de urbanizarlas;
+
+XI.- Con el fin de coadyuvar y facilitar la regularización de los asentamientos humanos, el Ayuntamiento podrá autorizar beneficios fiscales a las personas que solicitaron y se inscribieron en el correspondiente Programa de Regularización de Asentamientos Humanos;
+
+XII.- La introducción de los servicios públicos y obras de urbanización en los predios será responsabilidad y con cargo a los promotores y/o beneficiarios de los mismos, a no ser que se autorice la participación del Municipio u otra entidad pública;
+
+XIII.- Tomando en cuenta las condiciones particulares del predio objeto del Programa de Regularización de Asentamientos Humanos, se podrá facultar a la Dirección de Desarrollo Urbano Municipal, para que analizado el expediente correspondiente, incluyendo construcciones existentes, exente al solicitante de determinados requisitos, siempre y cuando no existan riesgos para los ocupantes de los predios o posibles afectaciones a terceras personas;
+
+XIV.- En caso de que por la superficie del predio se tenga que otorgar donación al Municipio la misma se determinará por la Dirección de Desarrollo Urbano Municipal y en caso de no existir terreno disponible para ello, el Ayuntamiento determinará lo conducente;
+
+XV.- Considerando que el Ordenamiento del Territorio y el Desarrollo Urbano son temas concurrentes entre la Federación, los Estados y sus Municipios, se deberán contemplar facultades al Presidente o Presidenta Municipal para que gestione ante el Gobierno del Estado de Aguascalientes y el Federal, su participación en el Programa Temporal de Regularización de Asentamientos Humanos para vivienda respectivo, y
+
+XVI.- La Dirección de Desarrollo Urbano Municipal se apoyará en el Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, para promover y facilitar la aplicación del respectivo Programa de Regularización de Asentamientos Humanos, para beneficiar al mayor número posible de personas.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+### CAPITULO XIII. DE LA ASIGNACIÓN, FUNCIONAMIENTO, COORDINACIÓN Y CONTROL DE LAS UNIDADES EXTERNAS DE SUPERVISIÓN
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCION PRIMERA. DISPOSICONES (SIC) GENERALES
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 OCTIES.- El presente Capítulo se expide con fundamento en el (sic) artículos 115 fracción III de la Constitución Política de los Estados Unidos Mexicanos, 1° fracción II y 11 fracciones IX, XI y XXV de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, y 2 fracciones II y III, 21 fracciones II, XXVI, XXX, XXXIX y XL del Código Urbano para el Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 NOVIES.- Las disposiciones contenidas en éste Capítulo son de observancia obligatoria e interés general, tienen como objeto establecer las bases para la Asignación, Funcionamiento, Coordinación y Control de Unidades Externas de Supervisión para efectuar la supervisión única en la ejecución de obras de urbanización en los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones, previstos en el Código Urbano para el Estado de Aguascalientes, en el presente Código y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 DECIES.- Para los efectos del presente Capítulo, además de lo previsto en el artículo 4° del Código Urbano para el Estado de Aguascalientes, se entenderá por:
+
+I.- EQUIPAMIENTO URBANO.- el conjunto de inmuebles, instalaciones, infraestructura, construcciones y mobiliario utilizado para prestar los servicios urbanos y desarrollar las actividades económicas, sociales y culturales;
+
+II.- INFRAESTRUCTURA PRIMARIA.- comprende el conjunto de obras y servicios que los promotores de cualquier acción urbanística estarán obligados a ejecutar con el objetivo de que se garantice la obra inicial de soporte para el desarrollo de otras actividades en zonas de crecimiento carentes de ellas, pudiendo ser colectores sanitarios y pluviales, entronques carreteros y consolidación de arterias viales, plantas de tratamiento, redes de distribución eléctrica y pluvial, entre otras;
+
+III.- INFRAESTRUCTURA URBANA.- los sistemas y redes de organización, distribución y movilidad de personas, así como de los bienes y servicios en los centros de población;
+
+IV.- OBRAS DE CABECERA.- las correspondientes a la ejecución de trabajos de infraestructura primaria, servicios y obras de liga vial tendientes a garantizar la conectividad y funcionalidad de las (sic) acción urbanística hacia las zonas urbanizadas o urbanizables del centro de población donde se pretendan ubicar;
+
+V.- OBRAS DE URBANIZACIÓN.- proyecto que contemple la infraestructura que se ejecutará en el terreno destinado a convertirlo en fraccionamiento, condominio, desarrollo inmobiliario especial, subdivisión o fusión; y podrá referirse al servicio de agua potable, drenaje pluvial o sanitario, energía eléctrica, gas, alumbrado público, tipos de comunicación, guarniciones y banquetas, pavimentación de arroyo de vías, estacionamientos, sistemas de nomenclatura, señalamiento vial, trabajos de arborización y jardinería. Deberá considerar además la incorporación de obras de infraestructura primaria, así como los servicios destinados a las áreas urbanas y edificaciones. Finalmente cuando se trate de subdivisión o fusión, se referirá únicamente a las acciones tendientes a completar las obras existentes o faltantes;
+
+VI.- SUPERVISIÓN ÚNICA.- la verificación que realicen las unidades externas de supervisión, respecto de la compatibilidad del proyecto autorizado, así como de la calidad y especificaciones de los materiales, obras y servicios realizados durante la urbanización o edificación de un predio o lote, en los fraccionamientos., condominios, desarrollos inmobiliarios especiales y subdivisiones, y
+
+VII.- UNIDADES EXTERNAS DE SUPERVISIÓN.- son las empresas certificadas en términos de la Ley Federal sobre Metrología y Normalización y el Código Urbano, con capacidad humana y técnica para revisar las obras de urbanización y edificación a que se refiere el citado Código Urbano y el Código Municipal;
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCION SEGUNDA. DEL REGISTRO, ASIGNACIÓN Y CONTROL DE LAS UNIDADES EXTERNAS DE SUPERVISIÓN
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 UNDECIES.- Las Unidades Externas de Supervisión son las empresas constituidas conforme a las leyes mexicanas, certificadas por instancias públicas o privadas acreditadas para ello en términos de lo dispuesto por la Ley Federal de Metrología y Normalización, con capacidad humana y técnica para realizar la supervisión de las obras de urbanización de los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones y que han sido registradas ante el Municipio para la realización de dichas actividades, previo cumplimiento de los requisitos establecidos en el presente Código Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 DUODECIES.- Las Unidades Externas de Supervisión, previo contrato de prestación de servicios celebrado con el Municipio en términos de la normatividad aplicable, realizarán la supervisión a las obras de urbanización de los fraccionamientos, condominios, desarrollos inmobiliarios o subdivisiones en los términos y condiciones que establezca el Código Urbano, el presente Código y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 TERDECIES.- Las Unidades Externas de Supervisión, tendrán las siguientes obligaciones:
+
+I.- Realizar bajo su responsabilidad directa, la supervisión de las obras de urbanización y edificación, conforme a los lineamientos establecidos en el dictamen de autorización de los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones, expedido por el Consejo Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda, la Secretaría de Planeación o el Municipio, y las disposiciones del Código Urbano, el presente Código, reglamentos municipales y manuales expedidos para ese fín;
+
+II.- Encontrarse certificada por un organismo de normalización y certificación de carácter nacional, designado por la Dirección de Desarrollo Urbano Municipal, en los términos de la Ley Federal sobre Metrología y Normalización y actualizando en tiempo y forma dicha certificación;
+
+III.- Estar inscrita en el Registro Municipal dé las Unidades Externas de Supervisión;
+
+IV.- Renovar el registro correspondiente, con la periodicidad requerida;
+
+V.- Acreditar anualmente al Municipio, la actualización y capacitación de los supervisores acreditados para efecto de realizar sus funciones;
+
+VI.- Asistir conjuntamente con las autoridades de la Dirección de Desarrollo Urbano Municipal, así como del Perito Responsable de las obras de urbanización o edificación, los peritos especializados si existieran y del propietario o de su representante, a la apertura de la bitácora de obra;
+
+VII.- Atender con toda diligencia y puntualidad las observaciones y requerimientos que le realice la Dirección de Desarrollo Urbano Municipal;
+
+VIII.- Realizar la supervisión de las obras de urbanización y edificación, conforme a los lineamientos y periodicidad señalados en el Código Urbano, el presente Código y autorizaciones correspondientes;
+
+IX.- Tratándose de obras de urbanización, informar quincenalmente a la Dirección de Desarrollo Urbano Municipal, respecto del avance de las mismas, la calidad de los materiales, obras y servicios realizados, en lo concerniente a la infraestructura y equipamiento hidráulico, sanitario, tratamiento de aguas residuales en su caso, drenaje pluvial o superficial, de pavimentos, guarniciones y banquetas, alumbrado público y electrificación, redes de voz y datos, gas, forestación y jardinería, nomenclatura y señalización vial, así como en lo referente a la compatibilidad de éstas conforme a lo autorizado;
+
+X.- Una vez concluida la obra de urbanización, en algunos o en todos los conceptos o servicios indicados en la fracción anterior conforme a lo autorizado, emitir el dictamen total o parcial respectivo, a efecto de tomarse en cuenta por la Dirección de Desarrollo Urbano Municipal, al momento de expedir el dictamen técnico para la municipalización parcial o total de un fraccionamiento o subdivisión o la entrega de las obras de urbanización a los condóminos;
+
+XI.- Respecto de las obras de edificación, informar quincenalmente a la Dirección de Desarrollo Urbano Municipal, referente al avance de las mismas y la calidad de los materiales, obras y servicios, conforme a lo establecido en el Código Urbano, el presente Código y demás disposiciones jurídicas aplicables y en su caso expidiendo el dictamen para que se genere la constancia de terminación de obra;
+
+XII.- Registrar sus visitas, anotaciones y observaciones con relación a las obras de urbanización en los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones en el libro de bitácora.
+
+De igual forma, consultar e integrar su actuación, informes, dictámenes y documentación en el Expediente Digital Único respectivo;
+
+XIII.- Verificar el cumplimiento del calendario o programa de obras de urbanización y, en su caso, de edificación, reportando por escrito y de inmediato a la Dirección de Desarrollo Urbano Municipal los retrasos o incumplimientos;
+
+XIV.- Verificar la presencia de los residentes de obras y las visitas de los peritos, que deberán hacerse constar en el libro de bitácora;
+
+XV.- Coordinar sus funciones con el Perito Responsable de las Obras de Urbanización;
+
+XVI.- Emitir el reporte conforme a los lineamientos expedidos por la Secretaría de Planeación, Participación y Desarrollo del Estado o la Dirección de Desarrollo Urbano Municipal, según corresponda, en el que avale la expedición de la autorización de venta de lotes o predios, locales o áreas, tratándose de fraccionamientos, condominios o subdivisiones y de renta en desarrollos inmobiliarios especiales;
+
+XVII.- Expedir dictamen conforme a los lineamientos indicados por la Dirección de Desarrollo Urbano Municipal que justifique la municipalización total o parcial de un fraccionamiento o subdivisión o la entrega total o parcial de las obras de urbanización a la Asamblea General de Condóminos;
+
+XVIII.- Suscribir las actas de municipalización de los fraccionamientos y subdivisiones;
+
+XIX.- Contar con el personal y equipo necesario para el desarrollo de sus actividades de acuerdo al nivel registrado;
+
+XX.- Desarrollar sus actividades de supervisión de obras de urbanización de los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones en el Municipio, en términos del contrato de prestación de servicios correspondiente, en el cual se establecerá que la supervisión se realice con estricto apego a lo dispuesto por el Código Urbano, el presente Código y demás disposiciones legales aplicables incluyendo las Normas Oficiales Mexicanas, así como las Normas Mexicanas;
+
+XXI.- Guardar la máxima confidencialidad de la información técnica y financiera que reciba y procese para el ejercicio de sus actividades;
+
+XXII.- Para efecto de suscribir el contrato para la supervisión de obras de urbanización, informar al Municipio los fraccionamientos, condominios, subdivisiones y desarrollos inmobiliarios especiales, que se encuentre supervisando en otros Municipios, incluyendo la superficie correspondiente, a efecto de determinar si tiene o no la capacidad para verificar un nuevo desarrollo, y
+
+XXIII.- Las demás determinadas por el Código Urbano, el presente Código Municipal, lineamientos emitidos por la Secretaría de Planeación, Participación y Desarrollo del Estado y la Dirección de Desarrollo Urbano Municipal y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 QUATERDECIES.- Únicamente las empresas certificadas por instancias públicas o privadas acreditadas para ello en términos de la Ley Federal de Metrología y Normalización podrán prestar servicios como Unidades Externas de Supervisión, a efecto de llevar a cabo la supervisión de las obras de urbanización y edificación de los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones en el Municipio, en los términos de lo establecido por el Código Urbano y el presente Código y demás lineamientos y disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 QUINDECIES.- La Dirección de Desarrollo Urbano Municipal llevará un registro actualizado de las Unidades Externas de Supervisión; para tal efecto deberán cumplir con los siguientes requisitos:
+
+I.- Ser una empresa constituida conforme a las leyes mexicanas, debidamente inscrita ante el Registro Público de la Propiedad y del Comercio del Estado;
+
+II.- Encontrarse al corriente el pago de sus obligaciones fiscales federales, estatales y municipales;
+
+III.- Tener representación legal en el Estado de Aguascalientes y señalar un domicilio en el Municipio;
+
+IV.- Solicitar su registro ante la Dirección de Desarrollo Urbano Municipal en el formato que ésta emita; y
+
+V.- Adjuntar a la solicitud de registro a que se refiere la fracción anterior, la siguiente documentación:
+
+A).- Original y copia simple para su cotejo del certificado vigente expedido por la instancia pública o privada acreditada para ello en términos de la Ley Federal de Metrología y Normalización, y
+
+B).- Original y copia simple para su cotejo de la documentación que acredite experiencia en el ramo y que respalde su capacidad de supervisión a efecto de determinar su nivel de clasificación en términos de lo dispuesto en el Código Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 SEXDECIES.- La Dirección de Desarrollo Urbano Municipal analizará la solicitud y emitirá una resolución de registro en un término de diez días hábiles siguientes al momento en que quede conformado el expediente en su totalidad.
+
+La Dirección de Desarrollo Urbano Municipal podrá requerir fundada y motivadamente a la solicitante la exhibición de información o documentación adicional necesaria para la conformación del expediente. En lo no contemplado en el presente Capítulo, aplicará para el procedimiento de registro la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
+
+La Dirección de Desarrollo Urbano Municipal emitirá refrendo del registro a la Unidad Externa de Supervisión con el mismo procedimiento para su registro inicial. El refrendo se emitirá cada vez que la Unidad Externa de Supervisión renueve su certificación ante la instancia pública o privada acreditada para ello en términos de la Ley Federal de Metrología y Normalización. En la solicitud de refrendo, la Unidad Externa de Supervisión, podrá solicitar su reclasificación de nivel en términos de lo señalado en el siguiente artículo.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 SEPTDECIES.- La Dirección de Desarrollo Urbano Municipal clasificará el registro a que se refiere el artículo anterior de acuerdo al nivel de capacidad de atención de las Unidades Externas de Supervisión, conforme a los siguientes criterios:
+
+I.- NIVEL 1: Unidades Externas de Supervisión con capacidad para supervisar fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones de 0 a 90,000 metros cuadrados de superficie de urbanización; para aquellas Unidades Externas de Supervisión que cuenten con un mínimo de 2 supervisores;
+
+II.- NIVEL 2: Unidades Externas de Supervisión con capacidad para supervisar fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones de 90,001 a 225,000 metros cuadrados de superficie de urbanización; para aquellas Unidades Externas de Supervisión que cuenten con un mínimo de 5 supervisores;
+
+III.- NIVEL 3: Unidades Externas de Supervisión con capacidad para supervisar fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones de 225,001 a 450,000 metros cuadrados de superficie de urbanización; para aquellas Unidades Externas de Supervisión que cuenten con un mínimo de 7 supervisores; y
+
+IV.- NIVEL. 4: Unidades Externas de Supervisión con capacidad para supervisar fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones de 450,001 metros cuadrados de superficie de urbanización en adelante, para aquellas Unidades Externas de Supervisión que cuenten con un mínimo de 10 supervisores.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 OCTODECIES.- Dentro de los 5 días naturales siguientes a que la Secretaría de Planeación, Participación y Desarrollo del Estado o la Dirección de Desarrollo Urbano Municipal, según corresponda, emitan a favor del fraccionador o promotor el oficio de autorización de inicio de las obras de urbanización en términos de lo dispuesto por el Código Urbano, la Dirección Municipal de Desarrollo Urbano Municipal realizará la asignación de Unidad Externa de Supervisión bajo el siguiente procedimiento:
+
+I.- A partir de los metros cuadrados de superficie de la etapa de urbanización correspondiente al fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión, la Dirección Municipal del Desarrollo Urbano clasificará el nivel de Unidad Externa de Supervisión que habrá de supervisarla en términos de lo dispuesto por el artículo anterior;
+
+II.- La Dirección de Desarrollo Urbano Municipal efectuará la asignación de la Unidad Externa de Supervisión de entre las unidades que se encuentren debidamente registradas dentro del nivel de supervisión correspondiente, bajo criterios aleatorios que aseguren la participación de todas las Unidades Externas de Supervisión que no hayan sido objeto de penalización o sanción en el último año y de acuerdo a su nivel, garantizando la equidad y transparencia de los procesos de selección, para garantizar la prestación óptima de los servicios de supervisión, y
+
+III.- Tomar en consideración el número de fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones, que la Unidad Externa de Supervisión respectiva, se encuentre supervisando en el Municipio de San Francisco de los Romo, Ags., u otros Municipios, conforme a la información que esta misma le proporcione a la Dirección de Desarrollo Urbano Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 NOVODECIES.- La Dirección de Desarrollo Urbano Municipal, al realizar la asignación a la Unidad Externa de Supervisión, le entregará de manera digital a esta última la documentación señalada en el artículo 398 del Código Urbano para el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 VICIES.- La Dirección de Desarrollo Urbano Municipal, con el apoyo del área de informática del Municipio, implementarán un sistema informático que garantice la participación equitativa y transparente de las Unidades Externas de Supervisión a que se refiere el artículo anterior, que contemple como mínimo los siguientes aspectos:
+
+I.- El sistema se desarrollará en ambiente de internet, deberá alojarse en la página electrónica del Expediente Digital Único y todas las Unidades Externas de Supervisión tendrán acceso al mismo mediante el otorgamiento de una clave de acceso;
+
+II.- El sistema contemplará un módulo de Unidades Externas de Supervisión registradas de acuerdo al nivel que le corresponda en términos de lo dispuesto en este Código Municipal, y
+
+III.- El sistema contemplará la asignación de Unidad Externa de Supervisión, con los siguientes parámetros y filtros:
+
+A).- Serán elegibles solamente aquellas Unidades Externas de Supervisión con registro vigente dentro del nivel que le corresponda;
+
+B).- El sistema excluirá aquellas Unidades Externas de Supervisión que en el último año hayan sido objeto de imposición de sanción o penalización por autoridad administrativa, por defecto o incumplimiento de sus obligaciones;
+
+C).- El sistema excluirá aquellas Unidades Externas de Supervisión que en el momento de la asignación cuenten con una supervisión de desarrollo en proceso siempre y cuando existan otras Unidades Externas de Supervisión que puedan prestar el servicio;
+
+D).- El sistema elegirá en forma aleatoria la Unidad Externa de Supervisión que habrá de supervisar el desarrollo de entre las Unidades Externas de Supervisión no excluidas; y
+
+E).- El sistema contará con un módulo de reportes y estadísticas en el cual se dé cuenta de los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones asignados a cada Unidad Externa de Supervisión de acuerdo a su nivel.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 UNVICIES.- La Dirección de Desarrollo Urbano Municipal y el área de informática emitirán un Manual de Operación del Sistema Informático a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 DOUVICIES.- La Dirección de Desarrollo Urbano Municipal ejercerá las siguientes medidas de control y evaluación a las Unidades Externas de Supervisión:
+
+I.- Recibir y analizar los reportes de avances de las Unidades Externas de Supervisión;
+
+II.- Requerir a las Unidades Externas de Supervisión informes adicionales de sus actividades; y
+
+III.- Hacer verificaciones aleatorias a las obras de urbanización de los fraccionamientos, condominios, desarrollos inmobiliarios espaciales y subdivisiones para comprobar que los reportes de las Unidades Externas de Supervisión sean verídicos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCION TERCERA. DE LA CONTRATACIÓN DE LAS UNIDADES EXTERNAS DE SUPERVISIÓN
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 TERVICIES.- La Dirección de Desarrollo Urbano Municipal con la intervención que le corresponda a la Dirección de Finanzas y Administración, celebrará contrato para la prestación de los servicios para la supervisión de las obras de urbanización del fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión correspondiente, con la Unidad Externa de Supervisión que resulte asignada.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 QUATERVICIES.- El contrato deberá realizarse en términos de la Ley Patrimonial del Estado de Aguascalientes y demás legislación aplicable, y contemplar al menos los siguientes derechos y obligaciones:
+
+I.- Fundamentos legales;
+
+II.- Los antecedentes que comprueben el registro vigente de la Unidad Externa de Supervisión;
+
+III.- La justificación de excepción de licitación pública en la contratación del servicio, por tratarse de un servicio exclusivo que solamente pueden prestar las empresas que cuenten con registro vigente;
+
+IV.- Declaraciones de las partes; y
+
+V.- Cláusulas contemplando lo siguiente:
+
+A).- Objeto del Contrato;
+
+B).- El precio pactado por los servicios prestados por la Unidad Externa de Supervisión, conforme a lo establecido en la Ley de Ingresos del Municipio para el ejercicio fiscal correspondiente;
+
+C).- El mecanismo de autorización de pago por parte del Municipio a favor de las Unidades Externas de Supervisión, por los servicios prestados de acuerdo a los avances de la misma;
+
+D).- La obligación de las Unidades Externas de Supervisión de adherirse a las obligaciones contempladas en el presente Código Municipal;
+
+E).- La Obligación de las Unidades Externas de Supervisión de realizar la supervisión en términos del Código Urbano y el presente Código Municipal;
+
+F).- Los mecanismos y metodologías para la comunicación, seguimiento y evaluación;
+
+G).- Las sanciones y penas convencionales aplicables a las Unidades Externas de Supervisión como consecuencia del incumplimiento de sus obligaciones;
+
+H).- Las formas de terminación anticipada por caso fortuito, fuerza mayor o falta de presupuesto;
+
+I).- Estipulaciones para el caso de controversia en la interpretación o aplicación del instrumento; y
+
+J).- Estipulaciones Finales.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 QUINVICIES.- En caso de que la Unidad Externa de Supervisión asignada no firme el contrato de prestación de servicios o el mismo se dé por terminado o rescindido, se volverá a realizar el procedimiento de asignación en términos de lo establecido en (sic) presente Código Municipal, excluyendo a la Unidad Externa de Supervisión que se haya negado a signar el contrato de prestación de servicios o que le haya sido terminado o rescindido el contrato por causa imputable a ella.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCION CUARTA. DEL PAGO A LAS UNIDADES EXTERNAS DE SUPERVISIÓN
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 SEXVICIES.- Formalizada la contratación y presentado el supuesto para el pago a la Unidad Externa de Supervisión correspondiente, la misma iniciará los trámites de pago ante la Dirección de Desarrollo Urbano Municipal mediante la presentación de la factura correspondiente, acompañada de un informe de avance de obra de urbanización y del cumplimiento de las obligaciones a su cargo.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 SEPTVICIES.- La Dirección de Desarrollo Urbano Municipal autorizará el pago a las Unidades Externas de Supervisión en proporción a las semanas supervisadas y/o el avance físico de urbanización registrado. Las semanas y/o el avance físico de urbanización lo determinará la Dirección de Desarrollo Urbano Municipal a partir de los reportes e informes que emitan en tiempo y forma las propias Unidades Externas de Supervisión, de las anotaciones en bitácora por parte de los peritos responsables y de las verificaciones aleatorias que realice la misma Dirección de Desarrollo Urbano Municipal, así como la información incorporada al Expediente Digital Único.
+
+Los reportes e informes que rindan las Unidades Externas de Supervisión, deberán reunir las características y contenido que hubiera determinado la Dirección de Desarrollo Urbano Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 OCTOVICIES.- Una vez determinadas las semanas de verificación y/o el porcentaje de avance físico de la obra, la Dirección de Desarrollo Urbano Municipal autorizará el pago a la Unidad Externa de Supervisión en la proporción que corresponda, elaborando para ello el documento maestro correspondiente y sus anexos, los cuales remitirá a la Dirección de Finanzas y Administración para su trámite y pago con cargo al presupuesto de la Dirección de Desarrollo Urbano Municipal.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCION QUINTA. DE LA COORDINACIÓN
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 NOVOVICIES.- La Dirección de Desarrollo Urbano Municipal propondrá al Presidente o Presidenta Municipal la celebración de acuerdos de colaboración y coordinación con otros Municipios del Estado, particularmente con los de la zona conurbana y con la participación de la Secretaría de Planeación, Participación y Desarrollo del Estado, para mejorar los procesos de supervisión única en los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones, a través de Unidades Externas de Supervisión.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 TRICIES.- La supervisión única que se realice a las obras de urbanización de los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones por parte de las Unidades Externas de Supervisión, constará de las siguientes partes:
+
+I.- Supervisión de compatibilidad de proyecto;
+
+II.- Supervisión de obra, la cual será respecto a la calidad de los materiales, obras y servicios realizados, en un amplio sentido y concepto de dicha supervisión, y
+
+III.- Supervisión de las edificaciones de todo tipo.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 UNTRICIES.- Los acuerdos de coordinación celebrados con otros Municipios del Estado contemplarán la comunicación e interconexión de los sistemas informáticos y procesos de verificación de la ejecución de las obras de urbanización y edificación, para lo cual las partes podrán compartir plataformas, accesos a sus respectivos sistemas, así como las bases de datos.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+### CAPITULO XIV. DE LAS URBANIZACIONES CERRADAS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 DUOTRICIES.- El presente Capítulo regula las disposiciones contenidas en del (sic) Código Urbano para el Estado, en lo correspondiente a las urbanizaciones cerradas.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 TERTRICIES.- Las disposiciones de este Capítulo tienen por objeto regular la expedición, renovación, modificación y revocación del permiso de las urbanizaciones cerradas y su control, contempladas en el Código Urbano para el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 QUATERTRICIES.- A lo no previsto en éste Código Municipal se aplicará supletoriamente el Código Urbano para el Estado y demás disposiciones previstas en la Legislación en Materia Urbana.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 QUINTRICIES.- Corresponde a la Dirección de Desarrollo Urbano Municipal la aplicación de las disposiciones del presente Capítulo y para lo cual contará con la participación del Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 SEXTRICIES.- Para la aplicación de las disposiciones del Código Municipal en el presente Capítulo, a la Dirección de Desarrollo Urbano Municipal le corresponde lo siguiente:
+
+I.- Recibir las solicitudes para la expedición, renovación, modificación y revocación de los permisos para las urbanizaciones cerradas en fraccionamientos, colonias, barrios, subdivisiones o sectores ubicados en el Municipio;
+
+II.- Expedir, renovar, modificar y revocar los permisos para las urbanizaciones cerradas en fraccionamientos, colonias, barrios, subdivisiones o sectores ubicados en el Municipio, conforme a lo establecido en el presente Código Municipal;
+
+III.- Gestionar ante el Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, la presentación por parte de los colonos del proyecto correspondiente, para que se expida un permiso de urbanización cerrada;
+
+IV.- Recibir, dar trámite y resolver las denuncias populares que se hubieran presentado, con relación a las urbanizaciones cerradas, informando al Presidente o Presidenta Municipal lo conducente;
+
+V.- Asesorar respecto del procedimiento de consulta a los colonos, para que en su caso se solicite el permiso de urbanización cerrada, así como supervisar el mismo;
+
+VI.- Realizar las inspecciones y verificaciones necesarias, para constatar que se cumplen las disposiciones de éste Código Municipal y de los permisos de las urbanizaciones cerradas;
+
+VII.- Aplicar las medidas de seguridad, infracciones y sanciones previstas en el presente Código Municipal, previo cumplimiento del procedimiento administrativo correspondiente;
+
+VIII.- Integrar y mantener actualizado el padrón de las urbanizaciones cerradas autorizadas en el Municipio, y
+
+IX.- Las demás que establezca el presente Código Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 SEPTRICIES.- Los permisos para las urbanizaciones cerradas que expida la Dirección de Desarrollo Urbano Municipal, tendrán una vigencia de dos años y los mismos se podrán renovar si así lo considera la misma Dirección, siempre y cuando se cumplan las condiciones establecidas en éste Código Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 OCTOTRICIES.- En los fraccionamientos, barrios, colonias, subdivisiones o sectores con permiso de urbanización cerrada, los servicios públicos continuarán a cargo y bajo la responsabilidad del Municipio, salvo que los colonos con el acuerdo municipal decidan lo contrario.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 NOVOTRICIES.- Los permisos que emita la Dirección de Desarrollo Urbano Municipal para las urbanizaciones cerradas en vías públicas del Municipio, no crean ningún derecho real o posesorio, respecto de las mismas.
+
+Los permisos para las urbanizaciones cerradas serán revocables, intransferibles y temporales y en ningún caso podrán otorgarse con perjuicio del libre, seguro y expedito tránsito, del acceso a los predios colindantes, de los servicios públicos instalados, o en general, de cualesquiera de los fines a que estén destinadas las vías públicas.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 CUADRAGIES.- Para los efectos del presente Título se entiende por:
+
+I.- ASOCIACIÓN DE COLONOS.- aquellos ciudadanos que se integran en términos de la legislación civil del Estado y demás normatividad aplicable; para defender, promover, gestionar y solucionar asuntos comunes de funcionalidad en materia de desarrollo urbano, ordenamiento territorial y vivienda; así como para coadyuvar con el Municipio en la prevención en materia de seguridad pública;
+
+II.- CASETA DE CONTROL.- El mobiliario urbano que instalarán los colonos a su costa en una urbanización cerrada, para controlar el acceso y salida en un fraccionamiento, colonia, barrio, subdivisión o sector, sin que ese mobiliario restrinja el acceso de las personas;
+
+III.- ESTUDIO DE FACTIBILÍDAD VIAL.- documento emitido por Perito Especializado en la materia, con la finalidad de justificar o desechar la procedencia para que se autorice un permiso de urbanización cerrada;
+
+IV.- MANZANA.- área formada por uno o varios lotes o predios colindantes, delimitadas por vialidades públicas o privadas ubicadas en fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones, barrios o colonias de los centros de población;
+
+V.- MOBILIARIO URBANO.- Cualquier elemento o componente urbano complementario, permanente, fijo, móvil o temporal, que sirve de apoyo al equipamiento urbano y a la infraestructura y que refuerza la imagen urbana o permite la prestación de los servicios o la realización de actividades económicas;
+
+VI.- PERMISO URBANÍSTICO.- es el acto de autoridad urbana que otorga una acción de hacer de carácter eventual, creándole un derecho de uso al solicitante y levantando una prohibición de carácter general;
+
+VII.- PERSONA CON DISCAPACIDAD.- Todo ser humano que vive temporal o permanentemente una alteración en su (sic) facultades físicas, mentales o sensoriales que le impide realizar una actividad en la forma o dentro del margen que se considere normal para una persona;
+
+VIII.- SECTOR.- Área formada por una o más manzanas de un fraccionamiento, colonia, barrio o subdivisión, y
+
+IX.- VIALIDADES O CALLES CERRADAS.- son las vías públicas municipales que no tienen una continuidad o liga con otras calles, por encontrarse delimitadas o cerradas en alguno de sus extremos. Sin embargo, las mismas se consideran como un bien del dominio público del Municipio, por reunir las características y condiciones a que se refiere el Código Urbano.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCION SEGUNDA. DE LOS REQUISITOS PARA LA EXPEDICIÓN DE PERMISOS PARA LAS URBANIZACIONES CERRADAS
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 UNCUADRAGIES.- La Dirección de Desarrollo Urbano Municipal podrá expedir permisos para urbanizaciones cerradas que impliquen el control de acceso y salida de vías públicas municipales en fraccionamientos, barrios, colonias, subdivisiones o sectores a favor de organizaciones vecinales, conforme a lo dispuesto en el Código Urbano y éste Código Municipal, previo cumplimiento de los requisitos correspondientes, contando con la opinión favorable del Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, así como los elementos probatorios que considere pertinentes para la resolución que emita.
+
+El permiso referido se podrá otorgar respecto de la totalidad de un fraccionamiento, barrio, colonia o subdivisión o bien de un sector o parte de esos desarrollos inmobiliarios; previo a la solicitud, los peticionarios deberán comprobar ante la Dirección de Desarrollo Urbano Municipal que los vecinos están enterados y de acuerdo con los requisitos que se establecen en el presente Código Municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 DUOCUADRAGIES.- Será requisito para que en su caso se otorgue permiso para urbanización cerrada por parte de la Dirección de Desarrollo Urbano Municipal, que previamente la organización vecinal solicitante se encuentre formal y jurídicamente constituida e inscrita en el Registro Pública de la Propiedad como asociación civil.
+
+También se requerirá la aprobación de la mayoría de los colonos propietarios para que se autorice la urbanización cerrada, la cual se obtendrá mediante un proceso de consulta, realizado con las formalidades jurídicas que señala el presente Código Municipal, bajo la supervisión de la Dirección de Desarrollo Urbano Municipal, así como el que se encuentre edificado cuando menos el 50% de los lotes o predios del fraccionamiento, barrio, colonia, subdivisión o sector respectivo.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 TERCUADRAGIES.- Los estatutos de la Asociación Civil que se constituya para gestionar el permiso de urbanización cerrada, deberán contemplar entre otras situaciones las siguientes:
+
+I.- Los derechos y obligaciones de los colonos, derivados del permiso que les apruebe en su caso la Dirección de Desarrollo Urbano Municipal para una urbanización cerrada;
+
+II.- Los derechos y obligaciones de los colonos, con relación a las aportaciones para cumplir con las condiciones establecidas en el permiso de la urbanización cerrada, entre las que se deben incluir el mantenimiento, operación y funcionamiento de las casetas de control y demás equipamiento o mobiliario urbano que instalarán y/o construirán en el supuesto que se otorgue dicho permiso;
+
+III.- Las condiciones para la administración, operación, mantenimiento y funcionamiento de las casetas de control y el mobiliario o equipamiento urbano adicional que se hubiera instalado y/o construido;
+
+IV.- El procedimiento y condiciones para convocar a las asambleas de la Asociación Civil, y
+
+V.- La garantía que deberán otorgar a favor del Municipio, conforme lo determine la Dirección de Desarrollo Urbano Municipal, la cual deberá ser suficiente para en caso de que se requiera retirar las casetas de control, equipamiento y mobiliario que se hubiera instalado y/o construido con motivo de un permiso de urbanización cerrada, cubra ese gasto.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCION TERCERA. DE LAS CONDICIONES DEL PERMISO PARA LA URBANIZACIÓN CERRADA
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 QUATERCUADRAGIES.- El permiso que expida la Dirección de Desarrollo Urbano Municipal de urbanización cerrada, deberá contener las condicionantes e información de la autorización del fraccionamiento, barrio, colonia o subdivisión, la delimitación y superficie objeto del permiso de la urbanización cerrada, la denominación de la persona moral a la que se le emite, su vigencia, causas de revocación, monto de los derechos a cubrir por el permiso, las especificaciones y características de las casetas de control, mobiliario y equipamiento urbano, monto de la caución, así como la temporalidad para su construcción y/o instalación.
+
+Queda prohibido expedir permisos de urbanización cerrada en asentamientos humanos irregulares.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 QUINCUADRAGIES.- Para efecto de que se expida en su caso el permiso de urbanización cerrada, se deberá tomar en cuenta lo siguiente:
+
+I.- Lo dispuesto en la zonificación secundaria del Programa o Esquema Municipal de Desarrollo Urbano, en específico de la estructura vial, para efecto de determinar la viabilidad de expedir el permiso de urbanización cerrada;
+
+II.- Que la instalación de las casetas de control, mobiliario o equipamiento urbano no dificulten, la ágil circulación de vehículos automotores y peatones hacia otras zonas del centro de población de que se trate;
+
+III.- No se permitirá en las vías públicas de los fraccionamientos, colonias, barrios o sector; colocar, instalar o construir puertas, bardas o elementos que eviten la total visibilidad hacia el interior de los mismos;
+
+IV.- No se podrá expedir permiso de urbanización cerrada, en vialidades públicas municipales que se destinen para la circulación de vehículos de transporte público, con excepción de los automóviles de alquiler para pasajeros;
+
+V.- En el supuesto de que una calle o las calles de una urbanización cerrada se vayan a utilizar temporalmente para la circulación de un mayor número de vehículos, con motivo de la desviación hacia las mismas del tránsito vehicular de otra vialidad, las casetas de control deberán permanecer durante esa situación sin control alguno;
+
+VI.- No se podrá emitir permiso de urbanización cerrada en vialidades clasificadas como secundarias, primarias o de mayor jerarquía. Si se trata de una vialidad subcolectora o colectora para que se autorice el permiso dependerá de su función, flujo y ligas a otras zonas del centro de población de que se trate, y
+
+VII.- Las casetas de control, mobiliario y equipamiento urbano deberán contemplar las disposiciones que faciliten la movilidad de las personas con discapacidad, particularmente lo dispuesto en el Código Urbano y el presente Código Municipal y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 SEXCUADRAGIES.- El permiso urbanístico quedará condicionado a lo siguiente:
+
+I.- Que no se impida en ningún momento el libre tránsito de personas, vehículos y animales domésticos acompañados de sus propietarios, sino que únicamente se controle su acceso y salida;
+
+No se podrá condicionar el acceso de las personas al fraccionamiento, colonia, barrio, subdivisión o sector, a que se entregue a los vigilantes de las casetas de control su identificación, sino únicamente se podrá pedir que se muestre la misma.
+
+Bajo el supuesto que la persona se niegue a mostrar una identificación al vigilante, no se le podrá negar el acceso al fraccionamiento, barrio, colonia, subdivisión o sector.
+
+II.- No se podrá restringir o evitar el uso y goce de las áreas de donación municipales a la población en general, así como el funcionamiento de establecimientos comerciales y de servicios existentes o que en lo futuro se pudieran instalar, siempre y cuando los mismos cuenten con uso del suelo debidamente expedido por la Dirección de Desarrollo Urbano Municipal;
+
+III.- La ubicación y características de las casetas de vigilancia, mobiliario y equipamiento, necesarios para implementar el control de acceso, se deberán apegar y cumplir conforme a lo determinado por la Dirección de Desarrollo Urbano Municipal;
+
+IV.- La construcción, equipamiento, mantenimiento y operación de las casetas de vigilancia u otro mobiliario urbano lo deberán cubrir los colonos;
+
+V.- El personal que controle u opere las casetas de control, mobiliario y equipamiento urbano instaladas con motivo del permiso, será contratado directamente por los colonos y por tanto las autoridades municipales no tendrán ningún tipo de responsabilidad ante ese personal, ya sea de carácter laboral, civil, penal, administrativa o de cualquier otra índole.
+
+El personal deberá permanecer en las casetas de control las 24 horas de todos los días del año, a efecto de asegurar el cumplimiento de las disposiciones de éste Código Municipal y facilitar el acceso y salida de los cuerpos de seguridad pública, emergencia y servicios;
+
+VI.- El personal mencionado en la fracción anterior deberá encontrarse capacitado y con conocimiento de las condiciones bajo las cuales fue permitida la urbanización cerrada, así como de los términos del presente Código Municipal;
+
+VII.- Se deberá acreditar a la Dirección de Desarrollo Urbano Municipal en la periodicidad que indique el permiso urbanístico, la capacitación del personal que se ubique en las casetas de control, la cual será responsabilidad de los colonos;
+
+VIII.- Se cubran los derechos fiscales municipales contemplados en la Ley de Ingresos del Municipio respectiva (sic), por la expedición del permiso y su renovación anual;
+
+IX.- En la caseta o casetas de control se deberá colocar un anuncio visible, que contenga los datos del permiso, la vigencia y el número telefónico para las quejas, con una dimensión mínima de 1 metro de largo por 80 centímetros de ancho, y
+
+X.- Se deberá permitir al personal del Municipio o quien éste autorice para la prestación de servicios, realizar obras de mantenimiento, conexión o las que fueran necesarias en las vías públicas y demás áreas de propiedad municipal.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 SEPTCUADRAGIES.- Cuando exista incumplimiento por parte de los colonos a las disposiciones contenidas en el Código Urbano, el presente Código Municipal y la Legislación en Materia Urbana o al permiso para la urbanización cerrada, éste se deberá revocar por parte de la Dirección de Desarrollo Urbano Municipal en los términos previstos en el presente Código Municipal, previa opinión del Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, en el ámbito de su competencia;
+
+Una vez determinada la revocación del permiso o en caso de que no se renueve el mismo en el plazo correspondiente, los colonos estarán obligados a retirar a su costa las casetas de control y demás mobiliario y equipamiento urbano respectivo, dejando las vías públicas municipales en el estado que originalmente se encontraban, salvo las mejoras que se hubieran realizado en equipamiento urbano e infraestructura, sin que se reclame el pago del costo al Municipio.
+
+Si los colonos no retiran las casetas de control o el mobiliario y equipamiento urbano dentro del plazo concedido por la Dirección de Desarrollo Urbano Municipal, ésta lo podrá hacer directamente o a través de un tercero, con los recursos que se obtengan de hacer efectiva la garantía que se hubiera otorgado por los colonos al expedirse el permiso respectivo.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCION CUARTA. DE LOS DERECHOS Y OBLIGACIONES DE LOS COLONOS
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 OCTOCUADRAGIES.- Los colonos a través de la persona moral que los represente, antes de colocar una caseta de control, mobiliario o equipamiento urbano para controlar el acceso y salida a su fraccionamiento, colonia, barrio, subdivisión o sector, deberán obtener el permiso para urbanización cerrada, presentando una solicitud ante la Dirección de Desarrollo Urbano Municipal, misma que deberá cumplir con los siguientes requisitos:
+
+I.- Exhibir copia certificada de su escritura constitutiva inscrita en el Registro Público de la Propiedad y del Comercio en el Estado de Aguascalientes, incluyendo sus estatutos, los cuales deben cumplir con lo dispuesto en el presente Código Municipal;
+
+II.- Acreditar mediante acta protocolizada, la celebración de asamblea de colonos para la consulta requerida por este Código Municipal, con las formalidades requeridas por el mismo, en la que conste que estuvo presente un Notario Público y el personal designado de la Dirección de Desarrollo Urbano Municipal, así como el que la mayoría de los propietarios aprobó solicitar el permiso de urbanización cerrada;
+
+III.- Presentar ante la Dirección de Desarrollo Urbano Municipal, la cual deberá turnar al Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, el proyecto para la urbanización cerrada en formato impreso y digital, que deberá contener lo siguiente:
+
+a).- Plano de vialidad a escala 1:1000 en planta y alzado, en el que se indique la propuesta para la instalación de la caseta o casetas de control de acceso y salida al fraccionamiento, colonia, barrio, subdivisión o sector, que incluya los detalles técnicos necesarios para la descripción de trayectorias vehiculares de circulación, bahías de almacenamiento y radios de giro de los automotores prototipo para el proyecto, así como el sembrado de la señalética y/o dispositivos viales indispensables que garanticen su correcta operación, en función del libre tránsito peatonal en la urbanización cerrada;
+
+b).- Estudio de factibilidad vial avalado por Perito Especializado en la materia, que contenga la justificación técnica de la propuesta con el desarrollo de los siguientes puntos de manera enunciativa más no limitativa:
+
+b.1.- Localización de la zona de análisis en función de la proyección física de la estructura vial de su área de influencia;
+
+b.2.- Determinación de la aptitud física de la vialidad en el momento del estudio;
+
+b.3.- Impacto de los usos del suelo actuales y futuros;
+
+b.4.- Condiciones de la operación del transporte público en el entorno correspondiente;
+
+b.5.- Descripción del funcionamiento del dispositivo o dispositivos de control de acceso y salida de vehículos, con base en la estimación de los volúmenes de tráfico total, tanto el generado en función de la colocación del control de acceso, como el generado por los usos del suelo de la urbanización cerrada propuesta, y
+
+b.6.- Propuesta del plan de manejo en caso de contingencias eventuales.
+
+c).- Memoria descriptiva en la que se indique la ubicación, características de los materiales y especificaciones constructivas para la instalación de la caseta o casetas de control, mobiliario y equipamiento urbano propuesto para el funcionamiento de la urbanización cerrada.
+
+IV.- Tramitar y obtener de la Dirección de Desarrollo Urbano Municipal el permiso de construcción y/o urbanización para la instalación de las casetas de control, el mobiliario y equipamiento urbano y en su caso realizar obras en las vías públicas municipales, y
+
+V.- Cubrir en su momento los derechos que fije la Ley de Ingresos Municipal, en el supuesto que se vaya a expedir el permiso respectivo.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 NOVOCUADRAGIES.- Los colonos o en su caso la persona moral que los represente están obligados a lo siguiente:
+
+I.- Solicitar con 30 días naturales de anticipación al vencimiento del permiso su renovación, acreditando el pago de los derechos fiscales municipales contemplados en la Ley de Ingresos del Municipio para el ejercicio fiscal respectivo, una vez autorizado el mismo;
+
+II.- Acreditar cuando se lo requiera la Dirección de Desarrollo Urbano Municipal, que el personal de las casetas de control se encuentra capacitado y conoce las condiciones de éste Capítulo del Código Municipal y del permiso respectivo;
+
+III.- Reparación y mantenimiento a su costa de las casetas de control y demás equipamiento que hubieran instalado o construido con motivo del permiso para la urbanización cerrada, en los términos establecidos en dicho permiso;
+
+IV.- Cubrir el costo de la energía eléctrica para el funcionamiento de las casetas de control, y
+
+V.- Dar cumplimiento a todo lo dispuesto en este Código Municipal.
+
+El manejo de los recursos económicos que obtenga en su caso la persona moral que represente a los colonos será de su exclusiva responsabilidad y se regirá por sus estatutos.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 QUINQUAGIES.- En las urbanizaciones cerradas, los colonos residentes podrán obtener tarjetas, controles o dispositivos electrónicos para acceder y salir directamente con sus vehículos al fraccionamiento, barrio, colonia, subdivisión o sector.
+
+Cuando el colono transmita la propiedad y/o posesión de su inmueble deberá comunicarle por escrito al adquirente de las obligaciones contenidas en el presente Capítulo del Código Municipal, en el permiso de la urbanización cerrada y de los estatutos de la persona moral que hubieran constituido los Colonos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCIÓN QUINTA. DEL PROCEDIMIENTO DE CONSULTA A LOS COLONOS PARA LA APROBACIÓN DE LA URBANIZACIÓN CERRADA
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 UNQUINQUAGIES.- Para dar cumplimiento a lo dispuesto por el Código Urbano y el presente Código Municipal, la Dirección de Desarrollo Urbano Municipal supervisará el proceso de consulta que se realice en el fraccionamiento, barrio, colonia, subdivisión o sector objeto de una solicitud de permiso de urbanización cerrada.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 DUOQUINQUAGIES.- La Convocatoria para la consulta a los colonos correspondientes, la deberá realizar la persona o personas que se hubieran autorizado en la persona moral que se hubiera constituido jurídicamente.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 TERQUINQUAGIES.- La convocatoria a los colonos, se hará en forma fehaciente por quien sea competente, cuando menos con cinco días hábiles de anticipación a la fecha de la celebración de la asamblea correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 QUATERQUINQUAGIES.- De la celebración de la asamblea de colonos, se deberá dar aviso por escrito a la Dirección de Desarrollo Urbano Municipal con un mínimo de cinco días hábiles de anticipación, para que designe personal facultado para asistir y supervisar dicha asamblea, debiéndole entregar en su momento la documentación que acredite que la misma se efectuará cumpliendo con los requisitos y formalidades requeridos en éste Código Municipal y en los estatutos de la asociación correspondiente.
+
+La asamblea de consulta a los colonos que se hubiera efectuado sin la presencia y supervisión de la Dirección de Desarrollo Urbano Municipal, no tendrá validez y por ende no se podrá expedir el permiso correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 QUINQUINQUAGIES.- La forma de convocar a la asamblea de colonos será por lo menos por medio de la publicación de tres avisos semanales consecutivos en uno de los diarios de mayor circulación en el Estado, la fijación de avisos en los lugares visibles del fraccionamiento, barrio, colonia, subdivisión o sector respectivo y la entrega de circulares en cada uno de los domicilios respectivos.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 SEXQUINQUAGIES.- La convocatoria para la asamblea de colonos se hará de acuerdo a las siguientes disposiciones como mínimo:
+
+I.- Quién o quienes presidirán (sic) la asamblea, en nombre de la persona moral que hubieran constituido los colonos;
+
+II.- Lugar en donde se realizará dentro del fraccionamiento, colonia, barrio, subdivisión o sector;
+
+III.- La fecha y hora de la celebración;
+
+IV.- Orden del día, señalando los asuntos a tratar, entre los que se incluya los derechos y obligaciones que asumirían los colonos en caso de que se expidiera el permiso de urbanización cerrada, y
+
+V.- Quién realiza la convocatoria.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 SEPTQUINQUAGIES.- Cada colono propietario gozará de un voto por lote o edificación, independientemente de su superficie.
+
+Para efecto de emitir el voto el colono deberá acreditar previamente ser propietario del inmueble respectivo, mediante copia simple de escritura de propiedad, recibo predial, o cualquier otro documento que acredite fehacientemente esa situación, de lo que dará fe el Notario Público presente.
+
+En caso de que existan copropietarios de un inmueble deberán designar un representante común ante la asamblea.
+
+Para que proceda la solicitud para un permiso de urbanización cerrada se requiere la aprobación de la mayoría de los colonos propietarios del fraccionamiento, colonia, barrio, subdivisión o sector respectivo, reunidos en asamblea, a menos que una asamblea general de los colonos se celebre en virtud de una segunda convocatoria, en cuyo caso bastará con el 51% de votos a favor de los que estén presentes.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 OCTOQUINQUAGIES.- Los colonos propietarios se podrán hacer representar ante la asamblea por medio de apoderado que acredite ese carácter con carta poder ante dos testigos o poder otorgado ante Notario Público, si se trata de personas morales.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 NOVOQUINQUAGIES.- Los acuerdos legalmente tomados en la asamblea, obligan a todos los colonos, incluso a los ausentes o disidentes.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 SEXAGIES.- El acta correspondiente de la asamblea deberá protocolizarse ante Notario Público, en la que deberá constar indudablemente el resultado de la votación, a efecto de acreditar a la Dirección de Desarrollo Urbano Municipal que en su caso se cumplió con lo requerido en el presente Código Municipal.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 22 DE MAYO DE 2023)</small>
+
+#### SECCIÓN SEXTA. DE LA REVOCACIÓN DEL PERMISO PARA LA URBANIZACIÓN CERRADA
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+ARTICULO 1624 UNSEXAGIES.- Son causas para que proceda la revocación de una urbanización cerrada, entre otras, las siguientes:
+
+I.- Que el personal asignado a las casetas de control, impida el libre tránsito de las personas y/o de sus vehículos, condicionando el acceso al fraccionamiento, barrio, colonia o sector a que necesariamente se muestre una identificación oficial o se entregue la misma;
+
+II.- Que el personal de las casetas de control desconozca las condiciones del permiso de la urbanización cerrada o no se encuentre capacitado para ejercer sus funciones;
+
+III.- Que no se dé uso o mantenimiento a las casetas de control y demás equipamiento, de tal forma que su funcionamiento no sea el adecuado;
+
+IV.- Que se dificulte o evite el uso de las áreas de donación, equipamiento e infraestructura pública a la población en general;
+
+V.- Que las condiciones de las vías públicas respecto de las cuales se autorizó un permiso de urbanización cerrada cambien, de tal manera que se hubiera incrementado notablemente el tráfico vehicular o las mismas se utilicen para ligar a otras zonas del centro de población correspondiente o así lo determine el estudio de factibilidad vial;
+
+VI.- No se permita al personal del Municipio o quien éste autorice el realizar obras de mantenimiento, conexión o las que fueran necesarias en las vías públicas respectivas;
+
+VII.- No otorgar la garantía respectiva o no renovarla en los términos previstos para ello, y
+
+VIII.- Que genere conflictos o inconformidad de los vecinos al interior o al exterior de la urbanización cerrada.
 
 # LIBRO NOVENO. DEL AMBIENTE Y LOS RECURSOS NATURALES
 
 ## TITULO UNICO. DE LA PROTECCION AMBIENTAL
 
-### CAPITULO UNICO. Disposiciones Generales
+### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 1625.
 
@@ -18207,7 +19919,9 @@ XXIV. Promover conjuntamente con la Dirección de Servicios Públicos, el consum
 
 XXV. Las demás que otorgue el presente Código y las leyes de la materia.
 
-### CAPITULO UNICO. Disposiciones Generales
+### CAPITULO II. Del Impacto Ambiental
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 1630.
 
@@ -18229,7 +19943,7 @@ II. El H. Ayuntamiento a través de la Dirección de Desarrollo Urbano, deberá 
 
 III. Integrar el desarrollo y el crecimiento de las comunidades rurales del Municipio al entorno en el que se ubican, aplicando la infraestructura más adecuada a sus características y niveles de desarrollo, aprovechando al máximo los recursos económicos, humanos y naturales, evitando un desfasamiento entre las necesidades y peticiones de los habitantes con el tipo de obras proyectadas.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO III. De las Áreas Naturales Protegidas
 
 ###### ARTICULO 1632.
 
@@ -18271,7 +19985,9 @@ Dichos estudios deberán ser realizados por la Dirección de Desarrollo Urbano p
 
 Una vez integrados debidamente los estudios a que se refiere el párrafo anterior y habiendo concertado con los habitantes y propietarios de las áreas que abarcará la declaratoria, la Dirección de Desarrollo Urbano en coordinación con la Comisión del Cabildo de la materia presentará la iniciativa al Cabildo del H. Ayuntamiento para su revisión y aprobación. En caso de ser aprobada por el H. Cabildo, el Ayuntamiento presentará la iniciativa al Ejecutivo del Estado para su análisis, gestión y aprobación.
 
-### CAPITULO II. Definiciones
+### CAPITULO IV. De la Prevención y Control de la Contaminación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 1637.
 
@@ -18607,9 +20323,7 @@ La realización de espectáculos públicos y actividades culturales y/o religios
 
 Para obtener la autorización anterior deben presentar solicitud por escrito ante dicha Dirección la cual evaluará a través de un informe preventivo al impacto ambiental y/o molestias que dicho espectáculo público o actividad cultural y/o religiosa pública generara y en base a dicha evaluación dictará las condicionantes a la que se sujetará la realización de las actividades señaladas.
 
-### CAPITULO III. De las Autoridades que Reglamentan el Comercio en la Vía Publica
-
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)
+### CAPITULO V. De los Recursos Naturales
 
 ###### ARTICULO 1667.
 
@@ -18625,7 +20339,7 @@ IV. Denunciar ante la Procuraduría Federal de Protección al Ambiente, el Insti
 
 V. Apoyar a la Secretaría de Medio Ambiente y Recursos Naturales en la elaboración y/o actualización del inventario de las especies de flora y fauna silvestre y acuática existente en el Municipio.
 
-### CAPITULO IV. Disposiciones Especiales para los Tianguistas
+### CAPITULO VI. De la Educación Ambiental
 
 ###### ARTICULO 1668.
 
@@ -18651,7 +20365,7 @@ El Gobierno Municipal promoverá y reforzará la creación de espacios de sensib
 
 La Dirección de Planeación Urbana, Rural y Ecología, elaborará el Programa Municipal de Educación Ambiental, el cual, una vez aprobado por el Comité Municipal de Ecología y Gestión Ambiental y el H. Ayuntamiento, funcionará como una guía de las acciones y actividades que en materia de educación ambiental se deban de realizar en el Municipio de San Francisco de los Romo.
 
-### CAPITULO V. De los Permisos para el Comercio en la Vía Pública
+### CAPITULO VII. De la Participación Social y la Coordinación Gubernamental
 
 ###### ARTICULO 1670.
 
@@ -18685,7 +20399,7 @@ II. Subcomité de Educación Ambiental; y
 
 III. Subcomité de Reforestación y Áreas Verdes.
 
-### CAPITULO VI. De la Expedición de Permisos para el Comercio en la Vía Pública
+### CAPITULO VIII. De la Denuncia Popular
 
 ###### ARTICULO 1672.
 
@@ -18739,7 +20453,9 @@ VII. Por desaparecer o extinguirse los actos, hechos u omisiones materia de la d
 
 ## TITULO PRIMERO. DE LAS ACTIVIDADES NO REGLAMENTADAS
 
-### CAPITULO VII. Derechos y Obligaciones de los Comerciantes en la Vía Pública
+### CAPITULO UNICO. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 1677.
 
@@ -18805,7 +20521,7 @@ Todo propietario de un establecimiento de los que señala el presente Capítulo,
 
 ## TITULO SEGUNDO. De los Filarmónicos y Grupos Acústicos
 
-### CAPITULO UNICO. De los Estacionamientos y Pensiones
+### CAPITULO UNICO. Disposiciones Generales
 
 ###### ARTICULO 1685.
 
@@ -18865,7 +20581,7 @@ las disposiciones de este Capítulo son de interés público y de observancia ge
 
 Corresponde a la Dirección General de Desarrollo Urbano, Ecología y Servicios Públicos, a través de la Dirección de Servicios Públicos, la administración del comercio en la vía pública del Municipio.
 
-### CAPITULO II. De los Espectáculos Públicos
+### CAPITULO II. Definiciones
 
 ###### ARTICULO 1696.
 
@@ -18919,7 +20635,9 @@ VIII. Zonas restringidas: aquellas donde sólo se pueden autorizar determinados 
 
 IX. Zonas permitidas: aquellas donde se pueden autorizar los giros comerciales para la actividad de comercio en la vía pública.
 
-### CAPITULO III. De Otras Actividades Reglamentadas
+### CAPITULO III. De las Autoridades que Reglamentan el Comercio en la Vía Publica
+
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2021)
 
 ###### ARTICULO 1697.
 
@@ -19025,7 +20743,7 @@ IX. Cubrir el pago de la credencial o gafete y los derechos correspondientes por
 
 X. Respetar los horarios de carga y descarga de mercancías que determine la autoridad municipal a través de la Dirección de Servicios Públicos.
 
-### CAPITULO IV. De los Requisitos para Obtener Licencias
+### CAPITULO IV. Disposiciones Especiales para los Tianguistas
 
 ###### ARTICULO 1700.
 
@@ -19123,7 +20841,7 @@ Para verificar el debido cumplimiento de las disposiciones que señala el presen
 
 El H. Ayuntamiento proporcionará la seguridad en los tianguis a través de la Dirección de Seguridad Pública y Movilidad Municipal.
 
-### CAPITULO V. De las Farmacias, Droguerías, Tlapalerías o Similares
+### CAPITULO V. De los Permisos para el Comercio en la Vía Pública
 
 ###### ARTICULO 1709.
 
@@ -19133,7 +20851,7 @@ Todos los comerciantes tienen los mismos derechos y obligaciones ante la Direcci
 
 No se podrá otorgar permiso para comerciantes en vía pública en las zonas que sea (sic) consideradas por acuerdo del H. Ayuntamiento en Sesión de Cabildo como centros históricos del Municipio. Para los ya existentes se respetará en sus términos otorgados.
 
-### CAPITULO VI. De los Espectáculos Deportivos
+### CAPITULO VI. De la Expedición de Permisos para el Comercio en la Vía Pública
 
 ###### ARTICULO 1711.
 
@@ -19173,35 +20891,7 @@ III. El pago también podrá ser hasta por todo el año calendario sin que ello 
 
 IV. El comerciante queda obligado a exhibir los comprobantes de pago a los verificadores y autoridades municipales acreditados, que así se lo solicite.
 
-### CAPITULO VII
-
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
-
-ARTICULO 1802 A.- Corresponde al área de Reglamentos dependiente de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno la inspección y verificación en los establecimientos dedicados a la compra-venta de material de reuso y/o desecho, en términos del presente Código.
-
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
-
-ARTICULO 1802 B.- Los establecimientos dedicados a la compra - venta de material de reuso y/o desecho, además de cumplir con los requisitos de funcionamiento contenidos en el artículo 1679, deberán de llevar un libro de registro, donde se inscriban los datos generales de quienes se compre material de reuso.
-
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
-
-ARTICULO 1802 C.- Para efectos del artículo anterior, el libro de registro, deberá contender (sic) los siguientes datos:
-
-I. Nombre y domicilio, así como identificación oficial del vendedor;
-
-II. Cantidad y tipo de material adquirido;
-
-III. Procedencia del material; y
-
-IV. Precio de la transacción.
-
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
-
-ARTICULO 1802 D.- El área de Reglamentos realizará visitas de inspección cada semana a fin de recabar información del total de las compras de material de reuso y/o desecho, verificando que lo vertido en el libro con el material físico sea congruente. En caso de detectar anomalías en el libro de registro, el verificador, podrá imponer las medidas de seguridad y sanciones aplicables en términos del presente Código.
-
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
-
-ARTICULO 1802 E.- La información vertida en los libros de registro se podrá enviar a la Dirección de Seguridad Pública para efecto de que se realicen las investigaciones pertinentes y en su caso, se ejerciten las acciones legales a las que haya lugar.
+### CAPITULO VII. Derechos y Obligaciones de los Comerciantes en la Vía Pública
 
 ###### ARTICULO 1714.
 
@@ -19333,7 +21023,7 @@ Las violaciones a cualquiera de las obligaciones de este Capítulo, se sancionar
 
 El H. Ayuntamiento determinará y modificará las tarifas a que deberán ajustarse los aseadores de calzado y de vehículos así como los términos de vigencia de éstas.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO UNICO. De los Estacionamientos y Pensiones
 
 ###### ARTICULO 1727.
 
@@ -19497,11 +21187,7 @@ Corresponde al H. Ayuntamiento fijar las tarifas de pago y horario de servicio d
 
 ## TITULO QUINTO. DE LA NORMATIVIDAD DE LAS LICENCIAS REGLAMENTADAS Y ESPECIALES
 
-### CAPITULO II. Recursos Financieros del Patronato
-
-APARTADO PRIMERO
-
-Ingresos
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 1731.
 
@@ -19659,7 +21345,7 @@ Queda prohibido, en cualquiera de los establecimientos referidos con anteriorida
 
 La Dirección General de Gobierno podrá autorizar la ampliación de horario los días viernes y sábado así como en fechas conmemorativas o celebraciones especiales hasta por dos horas más, previo pago de los derechos correspondientes. Se exceptúa de lo anterior los casos en que haya Ley Seca. Asimismo se podrá autorizar que farmacias, supermercados y similares funcionen las veinticuatro horas, suspendiendo la venta de bebidas alcohólicas en los horarios señalados en este Capítulo.
 
-### CAPITULO III. De los Requisitos de Funcionamiento
+### CAPITULO II. De los Espectáculos Públicos
 
 ###### ARTICULO 1758.
 
@@ -19715,7 +21401,7 @@ La Dirección General de Gobierno podrá suspender en cualquier momento un acto 
 
 Los empresarios o responsables de cualquier acto de los señalados en el Artículo 1759, deberán permitir el acceso a los Inspectores del H. Ayuntamiento que se acrediten para tal efecto, de acuerdo a los lineamientos establecidos en el presente Código.
 
-### CAPITULO IV. De los Permisos y Autorizaciones
+### CAPITULO III. De Otras Actividades Reglamentadas
 
 ###### ARTICULO 1766.
 
@@ -19831,7 +21517,7 @@ La Secretaría del H. Ayuntamiento y Dirección General de Gobierno podrá suspe
 
 Los espectadores que originen falsas alarmas infundiendo pánico en el público serán sancionados con multa o arresto sin perjuicio de que si por tal situación se cometiera otro delito, se les consigne a las autoridades competentes.
 
-### CAPITULO I. Del Ambito de Aplicaciones y Principios Generales
+### CAPITULO IV. De los Requisitos para Obtener Licencias
 
 ###### ARTICULO 1782.
 
@@ -19963,7 +21649,7 @@ Todos los restaurantes, fondas, loncherías, cenadurías, taquerías, marisquer�
 
 Queda prohibida la venta y consumo de cerveza y bebidas alcohólicas en los planteles educativos, templos, cementerios, teatros, carpas, circos, cines, vías, parques, plazas públicas, centros de trabajo y ejidos.
 
-### CAPITULO II. De la Nulidad y Eficacia del Acto Administrativo
+### CAPITULO V. De las Farmacias, Droguerías, Tlapalerías o Similares
 
 ###### ARTICULO 1792.
 
@@ -20063,7 +21749,7 @@ La Secretaría del H. Ayuntamiento y Dirección General de Gobierno, podrá form
 
 De igual manera, los establecimientos que se dediquen a la venta de sustancias psicotrópicas.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO VI. De los Espectáculos Deportivos
 
 ###### ARTICULO 1801.
 
@@ -20077,13 +21763,41 @@ El Inspector Autoridad podrá solicitar el auxilio de la fuerza pública cuando 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
 
-### CAPITULO II. De la Capacidad de los Interesados
+### CAPITULO VII
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+ARTICULO 1802 A.- Corresponde al área de Reglamentos dependiente de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno la inspección y verificación en los establecimientos dedicados a la compra-venta de material de reuso y/o desecho, en términos del presente Código.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+ARTICULO 1802 B.- Los establecimientos dedicados a la compra - venta de material de reuso y/o desecho, además de cumplir con los requisitos de funcionamiento contenidos en el artículo 1679, deberán de llevar un libro de registro, donde se inscriban los datos generales de quienes se compre material de reuso.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+ARTICULO 1802 C.- Para efectos del artículo anterior, el libro de registro, deberá contender (sic) los siguientes datos:
+
+I. Nombre y domicilio, así como identificación oficial del vendedor;
+
+II. Cantidad y tipo de material adquirido;
+
+III. Procedencia del material; y
+
+IV. Precio de la transacción.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+ARTICULO 1802 D.- El área de Reglamentos realizará visitas de inspección cada semana a fin de recabar información del total de las compras de material de reuso y/o desecho, verificando que lo vertido en el libro con el material físico sea congruente. En caso de detectar anomalías en el libro de registro, el verificador, podrá imponer las medidas de seguridad y sanciones aplicables en términos del presente Código.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+
+ARTICULO 1802 E.- La información vertida en los libros de registro se podrá enviar a la Dirección de Seguridad Pública para efecto de que se realicen las investigaciones pertinentes y en su caso, se ejerciten las acciones legales a las que haya lugar.
 
 # LIBRO DECIMO PRIMERO. DE LA FERIA MUNICIPAL
 
 ## TITULO UNICO. DEL PATRONATO DE LA FERIA
 
-### CAPITULO III. De las Excusas y Recusaciones
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 1803.
 
@@ -20149,7 +21863,11 @@ Los nombramientos del Presidente y Tesorero del Patronato serán a través de te
 
 El manejo financiero será por parte del Patronato, quien deberá llevar las entradas y salidas con documentos que reúnan la mayor veracidad como cheques, pólizas y demás documentos.
 
-### CAPITULO IV. De los Términos
+### CAPITULO II. Recursos Financieros del Patronato
+
+APARTADO PRIMERO
+
+Ingresos
 
 ###### ARTICULO 1817.
 
@@ -20221,7 +21939,7 @@ En todos los comprobantes relativos al consumo de alimentos, deberá indicarse e
 
 Todas las compras y gastos realizados, deberán quedar registrados en el mismo mes en que fueron efectuados.
 
-### CAPITULO V. De las Notificaciones
+### CAPITULO III. De los Requisitos de Funcionamiento
 
 ###### ARTICULO 1831.
 
@@ -20405,7 +22123,7 @@ El Patronato a través del personal que al efecto designe garantizara el orden, 
 
 El comerciante ambulante dentro del perímetro de la feria, se sujetará y observará las normas y procedimientos que al efecto señale el Patronato y este Título y sus actividades se desarrollarán estrictamente en las áreas especificadas previamente por el Patronato.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO IV. De los Permisos y Autorizaciones
 
 ###### ARTICULO 1873.
 
@@ -20443,7 +22161,7 @@ Queda estrictamente prohibido fijar carteles o cartelones en postes, árboles ca
 
 ## TITULO PRIMERO. DEL ACTO ADMINISTRATIVO MUNICIPAL
 
-### CAPITULO II. De la Determinación de Imposición de Sanciones y Medidas de Seguridad
+### CAPITULO I. Del Ambito de Aplicaciones y Principios Generales
 
 ###### ARTICULO 1881.
 
@@ -20475,7 +22193,7 @@ IX. Tratándose de actos administrativos que sean recurribles, deberá de hacer 
 
 Para efectos de lo anterior, se consideran autoridades Municipales, el H. Ayuntamiento, el Presidente Municipal, las Direcciones Generales, las Direcciones de área, los Departamentos y demás Órganos que integren la Administración Pública Municipal.
 
-### CAPITULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
+### CAPITULO II. De la Nulidad y Eficacia del Acto Administrativo
 
 ###### ARTICULO 1884.
 
@@ -20501,7 +22219,7 @@ La nulidad será sustanciada conforme a las reglas del procedimiento del recurso
 
 ## TITULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPITULO I. De las Sanciones en Materia de Servicios Públicos
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 1889.
 
@@ -20555,7 +22273,7 @@ Los interesados de un procedimiento administrativo municipal, en cualquier momen
 
 Los interesados podrán solicitar les sea expedida copia certificada a su costa de los documentos contenidos en algún expediente en el que actúe, salvo lo dispuesto en el Artículo anterior.
 
-### CAPITULO II. De las Sanciones en Materia de Protección Civil
+### CAPITULO II. De la Capacidad de los Interesados
 
 ###### ARTICULO 1898.
 
@@ -20571,7 +22289,7 @@ Los interesados, podrán autorizar por escrito en cada caso, a un Licenciado en 
 
 En ningún trámite administrativo se admitirá la gestión de negocios.
 
-### CAPITULO III. De las Sanciones en Materia de Construcción
+### CAPITULO III. De las Excusas y Recusaciones
 
 ###### ARTICULO 1901.
 
@@ -20587,7 +22305,7 @@ IV. Tenga relación de servicio, o dependa del servidor por razones laborales; y
 
 V. Cualquier otra prevista en el presente Código.
 
-### CAPITULO IV. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
+### CAPITULO IV. De los Términos
 
 ###### ARTICULO 1902.
 
@@ -20617,7 +22335,7 @@ A falta de términos o plazos establecidos en el presente Código o actos admini
 
 Los términos fijados en días por disposiciones generales, o por autoridades municipales se computarán sólo los días hábiles.
 
-### CAPITULO V. De las Sanciones en Materia de Espectáculos Públicos
+### CAPITULO V. De las Notificaciones
 
 ###### ARTICULO 1909.
 
@@ -20675,7 +22393,7 @@ La manifestación que haga el interesado, su representante legal o quien este au
 
 ## TITULO TERCERO. DEL PROCEDIMIENTO DE VERIFICACION E INSPECCION
 
-### CAPITULO VI. De las Sanciones en Materia de Comercio en la Vía Pública
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 1916.
 
@@ -20779,7 +22497,7 @@ Cuando se trate de segunda o posterior inspección para verificar el cumplimient
 
 Los inspectores o verificadores deberán evitar en todo momento el hostigamiento o actos de molestia innecesaria, limitándose a la vigilancia o en su caso el procedimiento establecido en este Capítulo para el ejercicio de su función.
 
-### CAPITULO I. Del Recurso de Revisión
+### CAPITULO II. De la Determinación de Imposición de Sanciones y Medidas de Seguridad
 
 ###### ARTICULO 1926.
 
@@ -20797,7 +22515,7 @@ En el evento de que los inspectores detecten actividades contrarias y violatoria
 
 En caso de clausura provisional como medida de seguridad, esta podrá prolongarse, hasta que sean cubiertas las sanciones que importen cantidad liquida.
 
-### CAPITULO II. De la Suspensión del Acto
+### CAPITULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
 
 ###### ARTICULO 1929.
 
@@ -20987,6 +22705,8 @@ Cuando la determinación de imposición de alguna sanción o medidas de segurida
 
 Para toda violación a las normas y disposiciones municipales previstas en el presente Código y cuya individualización no éste prevista en los Artículos subsecuentes se aplicará una sanción de cinco a mil veces el salario mínimo diario independientemente de la medida de seguridad y arresto atendiendo a la gravedad de la falta que en su caso proceda.
 
+### CAPITULO I. De las Sanciones en Materia de Servicios Públicos
+
 ###### ARTICULO 1948.
 
 En materia de Servicios Públicos Municipales se impondrá:
@@ -21067,6 +22787,8 @@ e) Utilización de agua sin el pago correspondiente en la construcción de barda
 
 f) Por derribar, podar, extraer o remover la vegetación de área verde pública municipal.
 
+### CAPITULO II. De las Sanciones en Materia de Protección Civil
+
 ###### ARTICULO 1949.
 
 Se aplicarán las sanciones de clausura definitiva, y revocación de la licencia permiso para operar o construir a quienes en un período de seis meses reincidan en las mismas infracciones previstas por este Código.
@@ -21082,6 +22804,8 @@ La demolición parcial o total de obras, solo se aplicará, por resolución expr
 ###### ARTICULO 1952.
 
 En todos aquellos casos en que al ocurrir un siniestro, existan responsables, sin perjuicio de lo que las leyes determinen, se podrá proveer como sanción la de reposición de obra, o bien dañado, así como el pago de daños y perjuicios conforme lo dispone el Código Civil vigente en el Estado.
+
+### CAPITULO III. De las Sanciones en Materia de Construcción
 
 ###### ARTICULO 1953.
 
@@ -21209,6 +22933,8 @@ III. Se hayan emitido por Autoridad incompetente, y acatando disposición judici
 
 IV. La revocación de Licencia será pronunciada por la Autoridad que haya emitido el acto o resolución de que se trate o en su caso, por el superior jerárquico de dicha Autoridad.
 
+### CAPITULO IV. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
+
 ###### ARTICULO 1961.
 
 En materia de actividades comerciales, industriales y prestación de servicios, se impondrá:
@@ -21279,6 +23005,8 @@ b) Cuando resulten falsos los datos o documentos proporcionados por el titular d
 
 c) Por incumplimiento grave de las disposiciones de este Código y demás normatividad aplicable.
 
+### CAPITULO V. De las Sanciones en Materia de Espectáculos Públicos
+
 ###### ARTICULO 1963.
 
 En materia de espectáculos públicos se impondrá:
@@ -21328,6 +23056,8 @@ a) A las empresas que operen o presenten espectáculos y que vendan mayor boleta
 b) A las empresas que operen en lugares al público o de espectáculos que propicien la reventa; y
 
 c) No comenzar el espectáculo a la hora señalada o presentar una variedad distinta a la ofrecida al público.
+
+### CAPITULO VI. De las Sanciones en Materia de Comercio en la Vía Pública
 
 ###### ARTICULO 1964.
 
@@ -21409,6 +23139,8 @@ Se procederá a la reubicación del comerciante, cuando la estructura del puesto
 
 ## TITULO QUINTO. DEL RECURSO
 
+### CAPITULO I. Del Recurso de Revisión
+
 ###### ARTICULO 1972.
 
 Los interesados afectados por los actos y resoluciones de las autoridades administrativas municipales, que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán interponer recurso de revisión, o intentar las vías judiciales correspondientes.
@@ -21458,6 +23190,8 @@ V. Modificar u ordenar la modificación del acto impugnado o dictar u ordenar ex
 ###### ARTICULO 1976.
 
 La autoridad resolverá en base a las pruebas que señala el Artículo 1924 fracción III, a los agravios expresados, y lo contenido en el expediente que al efecto deberá remitir la autoridad que puso fin al Procedimiento Administrativo.
+
+### CAPITULO II. De la Suspensión del Acto
 
 ###### ARTICULO 1977.
 
@@ -21790,3 +23524,15 @@ P.O. 19 DE DICIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES”.]
+
+PRIMERO.- Las presentes reformas y adiciones al Código Municipal de San Francisco de los Romo, Aguascalientes, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Conforme a lo indicado por el artículo 96 del Código Municipal de San Francisco de los Romo, Aguascalientes, para ser obligatoria la presente reforma y adición del Código Municipal, la misma también deberá ser publicada en los estrados del Edificio Municipal y sus lugares visibles, en la Cabecera Municipal, Delegaciones y Comisarías Municipales, lo cual será certificado por la Secretaria del H. Ayuntamiento y Directora General de Gobierno.
+
+TERCERO.- La autoridad municipal competente para aplicar las disposiciones del Libro Octavo del Código Municipal de San Francisco de los Romo, Ags., denominado del Desarrollo Urbano, es la Dirección de Desarrollo Urbano Municipal, por lo que cualquier otra denominación que exista en ese Libro, se entenderá que se hace referencia a la citada Dirección de Desarrollo Urbano Municipal.
+
+CUARTO.- Conforme a lo previsto en el segundo párrafo del artículo 5 de la Ley del Procedimiento Administrativo para el Estado, la Dirección de Desarrollo Urbano del Municipio de San Francisco de los Romo, Ags., podrá expedir instructivos, manuales y formatos, a fin de ejercer adecuadamente las facultades que le concede el Código Municipal, así como para facilitar el ejercicio de sus derechos a la ciudadanía y los cuales previamente a su aplicación deberán publicarse en el Periódico Oficial del Estado.
