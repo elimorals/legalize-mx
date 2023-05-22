@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-centro-nacional-de-control-del-gas-115749
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-07-25"
-last_updated: "2019-11-01"
+last_updated: "2023-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115749&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-06-13"
 ---
 # ESTATUTO ORGANICO DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL, PUBLICADO EN EL D.O.F. DE 22 DE MAYO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MAYO DE 2023 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 25 de julio de 2016.
 
@@ -1676,3 +1678,19 @@ D.O.F. 1 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DE LAS "REFORMAS AL ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL".]
 
 ÚNICO. Las presentes Reformas al Estatuto Orgánico entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL".]
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Centro Nacional de Control del Gas Natural, publicado en el Diario Oficial de la Federación el veinticinco de julio de dos mil dieciséis y su reforma del primero de noviembre de dos mil diecinueve.
+
+TERCERO. La estructura orgánica prevista en el presente Estatuto Orgánico deberá presentarse para su autorización y registro ante las Secretarías de Hacienda y Crédito Público, así como de la Función Pública, en el ámbito de sus competencias.
+
+CUARTO. Sin perjuicio del cambio de denominaciones y reubicación organizacional de las áreas a que se refiere el presente Estatuto, los poderes, mandatos y, en general, las representaciones otorgadas y las facultades conferidas por este Organismo, con anterioridad a la entrada en vigor de este Estatuto, subsistirán en sus términos en tanto no sean modificados o revocados expresamente. De ser necesario, las áreas correspondientes del Centro Nacional de Control del Gas Natural deberán realizar las gestiones necesarias ante la Dirección Ejecutiva de Normatividad y Validación Contractual para el otorgamiento y revocación de los poderes conducentes.
+
+QUINTO. Las referencias que se hagan en otros instrumentos a las áreas cuya denominación se modifica, se entenderán hechas a las áreas a las que se atribuyen las funciones conforme al presente Estatuto.
+
+SEXTO. Los asuntos, procedimientos, trámites o instrumentos de cualquier naturaleza que se hayan iniciado por las áreas que se reubican, deberán continuarse hasta su conclusión por las áreas que asumen las funciones conforme a este Estatuto.
