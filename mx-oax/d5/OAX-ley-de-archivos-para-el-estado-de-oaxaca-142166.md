@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-archivos-para-el-estado-de-oaxaca-142166"
 country: "mx"
 rank: "ley"
 publication_date: "2020-02-15"
-last_updated: "2020-02-15"
+last_updated: "2023-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE ARCHIVOS PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2023 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ARCHIVOS PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 15 de febrero de 2020.
 
@@ -109,7 +111,9 @@ XI. Catálogo de disposición documental: Al registro general y sistemático que
 
 XII. Ciclo vital: A las etapas por las que atraviesan los documentos de archivo desde su producción o recepción hasta su baja documental o transferencia a un archivo histórico;
 
-XIII. Comité Técnico: Al Comité Técnico de Archivos del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
+
+XIII. Consejo Técnico; Al Consejo Técnico y Científico Archivístico;
 
 XIV. Consejo Local: Al Consejo Estatal de Archivos del Estado de Oaxaca;
 
@@ -198,6 +202,10 @@ LIII. Trazabilidad: A la cualidad que permite, a través de un sistema automatiz
 LIV. Valoración documental: A la actividad que consiste en el análisis e identificación de los valores documentales; es decir, el estudio de la condición de los documentos que les confiere características específicas en los archivos de trámite o concentración, o evidenciales, testimoniales e informativos para los documentos históricos, con la finalidad de establecer criterios, vigencias documentales y, en su caso, plazos de conservación, así como para la disposición documental, y
 
 LV. Vigencia documental: Al periodo durante el cual un documento de archivo mantiene sus valores administrativos, legales, fiscales o contables, de conformidad con las disposiciones vigentes y aplicables.
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2023)</small>
+
+LVI. Firma electrónica avanzada: Al conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de estos, la cual produce los mismos efectos jurídicos que la firma autógrafa.
 
 ###### Artículo 5.
 
@@ -765,6 +773,10 @@ I. Un Consejo Local de Archivos, y
 
 II. UN COMITÉ TÉCNICO DE ARCHIVOS
 
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2023)</small>
+
+III. Un Consejo Técnico y Científico Archivístico.
+
 ###### Artículo 64.
 
 El Sistema Estatal tendrá los siguientes objetivos:
@@ -798,6 +810,68 @@ V. Vocales, los representantes designados por los Órganos Autónomos, quienes t
 VI. Invitados, las personas que cuenten con conocimientos especializados vinculados a la materia archivística y que el Presidente del Consejo Local considere pertinente su participación en las sesiones, poniéndolo a consideración de los integrantes del mismo, quienes tendrán voz, pero no voto;
 
 Los representantes referidos en la fracción III de este artículo serán designados en los términos que disponga la normativa de los órganos a los que pertenecen.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+###### Artículo 65 Bis.
+
+El Sistema Estatal contará con un Consejo Local, como órgano de coordinación, que estará integrado por:
+
+I. El titular del Archivo General del Estado de Oaxaca, quien lo presidirá;
+
+II. El o la titular de la Secretaría de Gobierno;
+
+III. El o la titular de la Secretaría de Honestidad, transparencia y Función Pública;
+
+IV. Un o una representante del Congreso del Estado;
+
+V. Un o una representante del Poder Judicial del Estado;
+
+VI. Un Comisionado del Órgano Garante de Acceso a la Información Pública. Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca.
+
+VII. Los representantes designados por los municipios invitados por el Consejo Local
+
+VIII. El o la titular de la Auditoria Superior de Fiscalización del Estado;
+
+IX. Un representante de los archivos privados;
+
+X. Un representante del Consejo Técnico y Científico Archivístico local; y
+
+XI. Invitados, las personas que cuenten con conocimientos especializados vinculados a la materia archivística y que el presidente del Consejo Local considere pertinente su participación en las sesiones, poniéndolo a consideración de los integrantes del mismo, quienes tendrán voz, pero no voto.
+
+Los representantes referidos en las fracciones IV, V y VI de este artículo serán designados en los términos que disponga la normativa de los órganos a que pertenecen.
+
+La designación de la representación de los archivos privados referidos en la fracción IX de este artículo, será a través de convocatoria que emita el Consejo Local en la que se establezcan las bases para seleccionar al representante de los mismos, estableciendo como mínimo que formen parte del Registro Nacional, y que sea una asociación civil legalmente constituida con al menos siete años anteriores a la convocatoria, cuyo objeto social sea relacionado con la conservación de archivos y que cuente con la representación de al menos tres archivos privados.
+
+El presidente o a propuesta de alguno de los integrantes del Consejo Local, podrá invitar a las sesiones de éste a las personas que considere pertinentes, según la naturaleza de los asuntos a tratar, quienes intervendrán con voz, pero sin voto.
+
+Serán invitados permanentes del Consejo Local con voz, pero sin voto, los órganos a los que la Constitución Local reconoce autonomía, distintos a los referidos en las fracciones VI y VIII del presente artículo, quienes designarán un representante.
+
+Los consejeros, en sus ausencias, podrán nombrar un suplente ante el Consejo Local, el cual deberá tener, en su caso la jerarquía inmediata inferior a la del consejero titular.
+
+En el caso de los representantes referidos en las fracciones IV, V, y VI las suplencias deberán ser cubiertas por el representante nombrado para ese efecto, de acuerdo con su normativa interna.
+
+Los miembros del Consejo Local no recibirán remuneración alguna por su participación.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+###### Artículo 65 Ter.
+
+El Consejo Local sesionará de manera ordinaria y extraordinaria. Las sesiones ordinarias se verificarán dos veces al año y serán convocadas por su Presidente, a través del Secretario técnico.
+
+Las convocatorias a las sesiones ordinarias se efectuarán con quince días hábiles de anticipación, a través de los medios que resulten idóneos, incluyendo los electrónicos; y contendrán, cuando menos, el lugar, fecha y hora de la celebración de la sesión, el orden del día y, en su caso, los documentos que serán analizados.
+
+En primera convocatoria, habrá quórum para que sesione el Consejo Local cuando estén presentes, cuando menos, la mayoría de los miembros del Consejo Local incluyendo a su Presidente o a la persona que este designe como su suplente.
+
+En segunda convocatoria, habrá quórum para que sesione el Consejo Estatal, con los miembros que se encuentren presentes, así como su Presidente o la persona que este designe como su suplente.
+
+El Consejo Local tomará acuerdos por mayoría simple de votos de sus miembros presentes en la sesión. En caso de empate, el presidente tendrá el voto de calidad. En los proyectos normativos, los miembros del Consejo Nacional deberán asentar en el acta correspondiente las razones del sentido de su voto, en caso de que sea en contra.
+
+Las sesiones extraordinarias del Consejo Local podrán convocarse en un plazo mínimo de veinticuatro horas por el presidente, a través del secretario técnico o mediante solicitud que a este formule por lo menos el treinta por ciento de los miembros, cuando estimen que existe un asunto de relevancia para ello.
+
+Las sesiones del Consejo Local deberán constar en actas suscritas por los miembros que participaron en ellas. Dichas actas serán públicas a través de internet, en apego a las disposiciones aplicables en materia de transparencia y acceso a la información. El secretario técnico es responsable de la elaboración de las actas, la obtención de las firmas correspondientes, así como su custodia y publicación.
+
+El Consejo Local contará con un secretario Técnico que será nombrado y removido por el presidente del Consejo.
 
 ###### Artículo 66.
 
@@ -841,7 +915,9 @@ VI. Publicar en su portal electrónico las determinaciones y resoluciones genera
 
 VII. Las demás que le otorga esta Ley y otras disposiciones aplicables.
 
-### CAPÍTULO III. DEL COMITÉ TÉCNICO DE ARCHIVOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2023)</small>
+
+### CAPÍTULO III. DEL CONSEJO TÉCNICO Y CIENTÍFICO ARCHIVÍSTICO
 
 (NOTA: EL 13 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE JULIO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -849,15 +925,17 @@ VII. Las demás que le otorga esta Ley y otras disposiciones aplicables.
 
 El Sistema Local para el adecuado desarrollo de sus funciones contará con un órgano colegiado asesor, denominado Comité Técnico.
 
-(NOTA: EL 13 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE JULIO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
 
 ###### Artículo 69.
 
-El Comité Técnico se conformará por LOS RESPONSABLES DE LOS ARCHIVOS DE LOS PODERES DEL ESTADO, RESPONSABLES DE LOS ARCHIVOS DE ÓRGANOS AUTÓNOMOS, RESPONSABLES DE CENTROS DE DOCUMENTACIÓN EXISTENTES EN EL ESTADO Y POR profesionistas especializados en la materia.
+El Consejo Técnico y Científico Archivístico asesorará al Sistema Estatal en las materias históricas, jurídicas, de tecnologías de la información y las disciplinas afines al quehacer archivístico y estará conformado por 5 integrantes designados por el Consejo Local a convocatoria pública del Archivo General del Estado, entre representantes de instituciones de docencia, investigación o preservación de archivos, académicos y expertos destacados. Operará conforme a los lineamientos aprobados por el Consejo local.
+
+Los integrantes del Consejo Técnico no obtendrán remuneración, compensación o emolumento por su participación.
 
 ###### Artículo 70.
 
-Para su funcionamiento el Comité Técnico estará integrado de la siguiente manera:
+(DEROGADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2023)
 
 (NOTA: EL 13 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE JULIO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -871,13 +949,13 @@ II. UN VOCAL EJECUTIVO, QUIEN SERÁ DESIGNADO EN SESIÓN ORDINARIA, Y DURARÁ UN
 
 III. VOCALES, LOS RESPONSABLES DE LOS ARCHIVOS DE LOS PODERES DEL ESTADO, RESPONSABLES DE LOS ARCHIVOS DE LOS ÓRGANOS AUTÓNOMOS Y LOS RESPONSABLES DE LOS CENTROS DE DOCUMENTACIÓN EXISTENTES EN EL ESTADO, Y
 
-(NOTA: EL 13 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE JULIO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+IV. (DEROGADA, P.O. 22 DE MAYO DE 2023)
 
-IV. INVITADOS, PROFESIONISTAS ESPECIALIZADOS EN LA MATERIA.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2023)</small>
 
 ###### Artículo 71.
 
-El Comité Técnico de Archivos tendrá las siguientes atribuciones:
+El Consejo Técnico y Científico Archivístico tendrá las siguientes atribuciones:
 
 (NOTA: EL 13 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE JULIO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1043,77 +1121,175 @@ Los usuarios de los archivos deberán respetar las disposiciones aplicables para
 
 ### CAPÍTULO ÚNICO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO
 
-(NOTA: EL 13 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE JULIO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
 
 ###### Artículo 98.
 
-El Archivo General del Estado de Oaxaca ES UN ORGANISMO DESCONCENTRADO DE LA SECRETARÍA DE ADMINISTRACIÓN, con autonomía técnica, administrativa, operativa y de gestión para el debido cumplimiento de su objeto, atribuciones y ejes rectores conferidos en el Decreto que lo crea y demás disposiciones normativas aplicables; su domicilio legal será en el Municipio de Santa Lucía del Camino, sin perjuicio de establecer representaciones dentro del territorio estatal, conforme a su estructura y disponibilidad presupuestal.
+El Archivo General del Estado de Oaxaca es un organismo descentralizado no sectorizado, con personalidad jurídica y patrimonio propio con autonomía técnica, administrativa, operativa y de gestión para el debido cumplimiento de su objeto, atribuciones y ejes rectores conferidos en esta Ley y demás disposiciones normativas aplicables; su domicilio legal es el ubicado en el Municipio de Santa Lucia del Camino, sin perjuicio de establecer representaciones dentro del territorio estatal, conforme a su estructura y disponibilidad presupuestal.
 
 ###### Artículo 99.
 
 El Archivo General del Estado de Oaxaca tiene por objeto promover la organización de archivos, preservar, incrementar y difundir el patrimonio documental del Estado de Oaxaca, con el fin de salvaguardar la memoria estatal de corto, mediano y largo plazo, así como contribuir a la transparencia y rendición de cuentas conforme a las disposiciones previstas en la Constitución Federal, la Constitución Política del Estado, la legislación federal y estatal y demás disposiciones normativas aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2023)</small>
+
 ###### Artículo 100.
 
 Para el cumplimiento de su objeto, el Archivo General del Estado de Oaxaca tiene las siguientes atribuciones:
 
-I. Organizar, preservar y difundir el acervo documental gráfico, bibliográfico y hemerográfico que resguarda, con base en las mejores prácticas nacionales e internacionales;
+I. Fungir, mediante su titular, como Presidente del Consejo Local;
 
-II. Fungir como órgano de consulta de los sujetos obligados del Poder Ejecutivo del Estado en materia archivística;
+II. Organizar, conservar y difundir el acervo documental, gráfico, bibliográfico y hemerográfico que resguarda, con base en las mejores prácticas y las disposiciones jurídicas aplicables;
 
-III. Expedir copias certificadas, transcripciones paleográficas y dictámenes de autenticidad de los documentos existentes en sus acervos;
+III. Difundir y proyectar el derecho a la memoria del Estado, en coordinación con las dependencias y entidades de la Administración Pública Estatal;
 
-IV. Desarrollar investigaciones en materia archivística encaminadas a la organización, conservación, preservación y difusión del patrimonio documental que resguarda y de los archivos de los sujetos obligados del Poder Ejecutivo del Estado;
+IV. Elaborar, actualizar y publicar en formatos abiertos los inventarios documentales de cada fondo en su acervo;
 
-(NOTA: EL 13 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE JULIO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+V. Fungir como órgano de consulta de los sujetos obligados del Poder Ejecutivo del Estado en materia archivística;
 
-V. Establecer mecanismos de cooperación y asesoría con instituciones gubernamentales y privadas EN EDUCACIÓN, CULTURA, CIENCIA Y TECNOLOGÍA, INFORMACIÓN E INFORMÁTICA;
+VI. Llevar a cabo el registro y validación de los instrumentos de control archivístico de los sujetos obligados del Poder Ejecutivo del Estado;
 
-(NOTA: EL 13 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE JULIO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+VII. Emitir el dictamen de baja documental o de transferencia secundaria para los sujetos obligados del Poder Ejecutivo del Estado, los cuales se considerarán de carácter histórico;
 
-VI. Diseñar e implementar programas de asesoría y capacitación DIRIGIDOS A LOS SUJETOS OBLIGADOS DEL PODER EJECUTIVO DEL ESTADO, en materia de archivos.
+VIII. Autorizar, recibir y resguardar las transferencias secundarias de los documentos de archivo con valor histórico producidos por el Poder Ejecutivo del Estado;
 
-VII. Generar exposiciones, visitas guiadas y publicaciones para apoyar el conocimiento de su acervo, así como, para promover la cultura archivística, de consulta y aprovechamiento del patrimonio documental.
+IX. Analizar la pertinencia de recibir transferencias de documentos de archivo con valor histórico de sujetos obligados distintos al Poder Ejecutivo del Estado;
 
-VIII. Analizar y aprobar, en su caso, las peticiones de particulares que posean documentos con valor histórico y soliciten sean incorporados de manera voluntaria a los acervos del Archivo General del Estado de Oaxaca;
+X. Recibir transferencias de documentos de archivo con valor histórico de sujetos obligados distintos al Poder Ejecutivo del Estado;
 
-IX. Brindar asistencia técnica sobre gestión documental y administración de archivos;
+XI. Analizar y aprobar, en su caso, las peticiones de particulares que posean documentos y soliciten sean incorporados de manera voluntaria a acervos del Archivo General del Estado;
 
-X. Resguardar el patrimonio documental que custodia;
+XII. Establecer técnicas de reproducción que no afecten la integridad física de los documentos;
 
-XI. Emitir el dictamen de baja documental o de transferencia secundaria para los sujetos obligados del Poder Ejecutivo del Estado.
+XIII. Proveer, cuando los documentos históricos presenten un deterioro físico que impida acceder a ellos directamente, su conservación y restauración que permita su posterior reproducción que no afecte la integridad del documento;
 
-XII. Autorizar la recepción y resguardo de las transferencias secundarias de los documentos con valor histórico generados por el Poder Ejecutivo del Estado y, en su caso, por otros sujetos obligados distintos al Poder Ejecutivo del Estado, así como aquellos documentos en posesión de particulares que, en forma voluntaria y previa valoración, incorpore a sus acervos;
+XIV. Desarrollar investigaciones encaminadas a la organización, conservación y difusión del patrimonio documental que resguarda;
 
-XIII. Integrar los inventarios documentales de cada fondo en su archivo histórico;
+XV. Emitir dictámenes técnicos sobre archivos en peligro de destrucción o pérdida, y las medidas necesarias para su rescate;
 
-XIV. Proveer un sistema de reproducción que no afecte la integridad física de los documentos históricos, cuando estos presenten un deterioro físico que impida acceder a ellos directamente;
+XVI. Establecer mecanismos de cooperación y asesoría con otras instituciones gubernamentales y privadas;
 
-XV. Difundir el procedimiento para la consulta y acceso a los documentos contenidos en su archivo histórico;
+XVII. Publicar y distribuir obras y colecciones para apoyar el conocimiento de su acervo, así como para promover la cultura archivística, de consulta y aprovechamiento del patrimonio documental del Estado;
 
-XVI. Fomentar el desarrollo profesional archivístico a través de convenios de colaboración con autoridades educativas públicas o privadas;
+XVIII. Diseñar e implementar programas de capacitación en materia de archivos; XIX (SIC). Promover la incorporación de la materia archivística en programas educativos de diversos niveles académicos;
 
-XVII. Concentrar las ediciones impresas del Periódico Oficial del Gobierno del Estado;
+XIX. Definir el procedimiento para el acceso a los documentos contenidos en sus archivos históricos;
 
-XVIII. Elaborar y difundir los lineamientos para la organización, conservación y custodia de los Archivos de la Administración Pública Estatal de Oaxaca;
+XX. Custodiar el patrimonio documental del Estado de su acervo;
 
-XIX. Elaborar los formatos autorizados para la transferencia, baja de los expedientes y cédula de préstamo;
+XXI. Realizar la declaratoria de patrimonio documental del Estado; XXIII (SIC) Realizar la declaratoria de interés público respecto de documentos o archivos privados;
 
-XX. Declarar el carácter histórico de los documentos y archivos;
+XXII. Otorgar las autorizaciones para la salida del Estado de documentos considerados patrimonio documental del Estado;
 
-XXI. Elaborar y publicar los registros e instrumentos para el control y consulta de los fondos y grupos documentales que conforman su acervo;
+XXIII. Coadyuvar con las autoridades competentes, en la recuperación y, en su caso, incorporación a sus acervos de archivos que tengan valor histórico;
 
-XXII. Proponer al Secretario de Administración las cuotas por los servicios que preste, y
+XXIV. Expedir copias certificadas, transcripciones paleográficas y dictámenes de autenticidad de los documentos existentes en sus acervos;
 
-XXIII. Las demás que le señales las disposiciones jurídicas aplicables.
+XXV. Determinar los procedimientos para proporcionar servicios archivísticos al público usuario;
+
+XXVI. Brindar asesoría técnica sobre gestión documental y administración de archivos;
+
+XXVII. Proponer y Coadyuvar con el Archivo General de la Nación en la elaboración de Normas Oficiales Mexicanas en materia de archivos o vinculadas a la misma;
+
+XXVIII. Fomentar el desarrollo profesional de archivólogos, archivónomos y archivistas, a través de convenios de colaboración o concertación con autoridades e instituciones educativas públicas o privadas, estatales, nacionales o extranjeras;
+
+XXIX. Proporcionar los servicios complementarios que determinen las disposiciones reglamentarias y demás disposiciones jurídicas aplicables;
+
+XXX. Suscribir convenios en materia archivística en el ámbito Estatal nacional e internacional, en coordinación con las autoridades competentes en la materia;
+
+XXXI. Coordinar acciones con las instancias competentes a fin de prevenir y combatir el tráfico ilícito del patrimonio documental del Estado;
+
+XXXII. Organizar y participar en eventos estatales, nacionales e internacionales en la materia;
+
+XXXIII. Generar exposiciones, visitas guiadas y publicaciones para generar el conocimiento de su acervo, así como, para promover la cultura archivística de consulta y aprovechamiento del patrimonio documental;
+
+XXXIV. Concentrar las ediciones impresas del Periódico del Periódico (sic) Oficial del Gobierno del Estado.
+
+XXXV. Proponer a la secretaria de Finanzas las cuotas para los servicios que preste; y
+
+XXXVI. Las demás establecidas en esta Ley y en otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+###### Artículo 100 Bis.
+
+El Órgano de Gobierno es el cuerpo colegiado de administración del Archivo General del Estado que, además de lo previsto en la Ley de Entidades Paraestatales del Estado de Oaxaca y las disposiciones reglamentarias, tendrá las siguientes atribuciones:
+
+I. Evaluar la operación administrativa, así como el cumplimiento de los objetivos y metas del Archivo General del Estado;
+
+II. Emitir los lineamientos para el funcionamiento del Consejo Técnico, y
+
+III. Las demás previstas en otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+###### Artículo 100 Ter.
+
+El Órgano de Gobierno estará integrado por un miembro de las siguientes instancias:
+
+I. La Secretaría de Gobierno, quien lo presidirá;
+
+II. La Secretaría de Finanzas;
+
+III. La Secretaría de Educación Pública;
+
+IV. La Secretaría de Cultura y Artes;
+
+V. La Secretaría de Honestidad, Transparencia y Función Pública, y
+
+VI. El Consejo Oaxaqueño de Ciencia y Tecnología.
+
+Los integrantes del Órgano de Gobierno deberán tener, por lo menos, nivel de Subsecretario o su equivalente. Por cada miembro propietario habrá un suplente que deberá tener nivel, por lo menos, de Director General o su equivalente.
+
+El Presidente o a propuesta de alguno de los integrantes del Órgano de Gobierno, podrá invitar a las sesiones a representantes de todo tipo de instituciones públicas o privadas, quienes intervendrán con voz pero sin voto.
+
+Los integrantes del Órgano de Gobierno, no obtendrán remuneración, compensación o emolumento por su participación.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+###### Artículo 100 Quater.
+
+El Director General será nombrado por el Gobernador del Estado de Oaxaca.
+
+Durante su gestión, el Director General no podrá desempeñar ningún otro empleo, cargo o comisión, con excepción de aquellos que puede desempeñar en las instituciones docentes, científicas o de beneficencia, siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del Archivo General.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+###### Artículo 100 Quinquies.
+
+El Director General, además de lo previsto en la Ley de Entidades Paraestatales para el Estado de Oaxaca y las disposiciones reglamentarias correspondientes, tendrá las siguientes facultades:
+
+I. Supervisar que la actividad del Archivo General cumpla con las disposiciones legales, administrativas y técnicas aplicables, así como con los programas y presupuestos aprobados;
+
+II. Proponer al Órgano de Gobierno las medidas necesarias para el funcionamiento del Archivo General;
+
+III. Proponer al Órgano de Gobierno el proyecto de Estatuto Orgánico;
+
+IV. Nombrar y remover a los servidores públicos del Archivo General, cuyo nombramiento no corresponda al Órgano de Gobierno, y
+
+V. Las demás previstas en esta Ley y en otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+Artículo 100 Sexties. El Archivo General contará con un Contralor y con una unidad encargada del control y vigilancia, de conformidad con lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, la Ley de Entidades Paraestatales para el Estado de Oaxaca y su Reglamento; y ejercerá las facultades previstas en estos ordenamientos y los demás que le resulten aplicables.
 
 ## TÍTULO SÉPTIMO. DE LAS INFRACCIONES ADMINISTRATIVAS Y DELITOS EN MATERIA DE ARCHIVOS
 
 ### CAPÍTULO ÚNICO. DE LAS INFRACCIONES ADMINISTRATIVAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2023)</small>
+
 ###### Artículo 101.
 
-Se consideran infracciones a la presente Ley, las siguientes:
+Las responsabilidades a que se refiere este capítulo se constituirán, en primer término, a los sujetos que directamente hayan ejecutado los actos o incurran en las omisiones que las hayan originado y, subsidiariamente, y en ese orden, al titular del sujeto obligado que, por la índole de sus funciones, haya omitido la revisión o autorizado tales actos, por causas que impliquen dolo, culpa o negligencia por parte de los mismos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2023)</small>
+
+Serán responsables solidarios con los servidores públicos, los particulares, persona física o jurídica, en los casos en que hayan participado y originado cualquier tipo de responsabilidad prevista en este título.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE MAYO DE 2023)</small>
+
+Se considerarán faltas administrativas las siguientes:
 
 (NOTA: EL 13 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE JULIO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1129,7 +1305,13 @@ V. Omitir la entrega de algún documento de archivo bajo la custodia de una pers
 
 VI. No publicar el catálogo de disposición documental, el dictamen y el acta de baja documental autorizados por el Archivo General del Estado, así como el acta que se levante en caso de documentación siniestrada en los portales electrónicos, y
 
-VII. Cualquier otra acción u omisión que contravenga lo dispuesto en esta Ley y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2023)</small>
+
+VII. Transferir a título oneroso o gratuito la propiedad o posesión de archivos o documentos de los sujetos obligados, salvo aquellas transferencias que estén previstas o autorizadas en las disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE MAYO DE 2023)</small>
+
+VIII. Cualquier otra acción u omisión que contravenga lo dispuesto en esta Ley y demás disposiciones jurídicas aplicables.
 
 (NOTA: EL 13 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE JULIO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1149,11 +1331,47 @@ Las sanciones administrativas serán aplicables sin perjuicio de la responsabili
 
 En caso de que existan hechos que pudieran ser constitutivos de algún delito, las autoridades estarán obligadas a realizar la denuncia ante el Ministerio Público correspondiente, coadyuvando en la investigación y aportando todos los elementos probatorios con los que cuente.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+Las faltas administrativas contempladas en este título cometidas por servidores públicos, serán sancionadas ante la autoridad competente en términos de la ley aplicable en la materia de responsabilidades administrativas de los servidores públicos, según corresponda.
+
 (NOTA: EL 13 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE JULIO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 ###### Artículo 105.
 
 El Congreso Local emitirá las disposiciones que establezcan las infracciones, procedimientos y órganos competentes que conocerán del incumplimiento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+###### Artículo 106.
+
+Las infracciones administrativas cometidas por personas que no revistan la calidad de servidores públicos serán sancionadas por las autoridades que resulten competentes de conformidad con las normas aplicables.
+
+La autoridad competente podrá imponer multas de diez y hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización e individualizará las sanciones considerando los siguientes criterios:
+
+I. La gravedad de la conducta constitutiva de la infracción;
+
+II. Los daños o perjuicios ocasionados por la conducta constitutiva de la infracción; y
+
+III. La reincidencia, en su caso, de la conducta constitutiva de la infracción.
+
+En caso de reincidencia, las multas podrán duplicarse, dependiendo de la gravedad de la infracción cometida.
+
+Se considerará reincidente al que habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza.
+
+Se considera grave el incumplimiento a las fracciones II, III, IV, V, VI y VII del artículo 101 de la Ley; asimismo las infracciones serán graves si son cometidas en contra de documentos que contengan información relacionada con graves violaciones a derechos humanos.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+###### Artículo 107.
+
+El procedimiento Administrativo podrá iniciarse de oficio o a petición de parte.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2023)</small>
+
+###### Artículo 108.
+
+En ningún caso las oficialías de parte o unidades de gestión documental podrán rechazar las denuncias administrativas o penales que se le presenten, lo que en su caso deberá remitirla ante el órgano correspondiente.
 
 TRANSITORIOS:
 
@@ -1186,3 +1404,37 @@ DÉCIMO PRIMERO. Se derogan todas aquellas disposiciones, de igual o menor jerar
 "Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 15 de enero (sic) 2020.- Dip. Jorge Octavio Villacaña Jiménez, Presidente.- Dip. Migdalia Espinosa Manuel, Secretaria.- Dip. Inés Leal Peláez, Secretaria.- Dip. Saúl Cruz Jiménez, Secretario.- Rúbricas."
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 22 de Enero de 2020. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1075.- MEDIANTE El CUAL REFORMA EL ARTÍCULO 4 FRACCIÓN XIII, EL CAPÍTULO III DEL TÍTULO IV, DEL ARTÍCULO 69, EL ARTÍCULO 71 EN SU PRIMER PÁRRAFO, LOS ARTÍCULOS 98, 100 Y 101; SE ADICIONA LA FRACCIÓN LVI DEL ARTÍCULO 4, LA FRACCIÓN III DEL ARTÍCULO 63, LOS ARTÍCULOS 65 BIS, 65 TER, 100 BIS, 100 TER, 100 QUATER, 100 QUINQUIES Y 100 SEXTIES, UN TERCER PÁRRAFO AL ARTÍCULO 104, LOS ARTÍCULOS 106, 107 Y 108; Y SE DEROGA EL PRIMER PÁRRAFO Y LA FRACCIÓN IV DEL ARTÍCULO 70, TODOS DE LA LEY DE ARCHIVOS PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto.
+
+CUARTO. Se abroga el Decreto del Poder Ejecutivo por el que se crea el Archivo General del Estado de Oaxaca, publicado el 27 de febrero de 2017, en el Periódico Oficial del Gobierno del Estado.
+
+QUINTO. Al momento de la entrada en vigor del presente Decreto el Organismo Público Descentralizado Archivo General del Estado de Oaxaca, no sectorizado, entrará en funcionamiento y deberá instalar su Órgano de Gobierno, en un plazo no mayor a treinta días posteriores a su entrada en vigor.
+
+SEXTO. La Secretaría de Finanzas, una vez que el presente Decreto entre en vigor, y en un plazo máximo de tres meses, realizará las adecuaciones presupuestales a fin de que el Organismo Público Descentralizado Archivo General del Estado de Oaxaca, cuente con autonomía presupuestal para su funcionamiento.
+
+SÉPTIMO. Dentro de los sesenta días siguientes a la entrada en vigor del presente decreto, el Organismo Público Descentralizado Archivo General del Estado de Oaxaca, no sectorizado, deberá instalar el Consejo Estatal de Archivos del Estado de Oaxaca.
+
+OCTAVO. Los asuntos que al momento de la entrada en vigor del presente Decreto se encuentren en trámite en el Archivo General del Estado de Oaxaca, Organismo Desconcentrado de la Secretaría de Administración, serán atendidos hasta su conclusión por el Archivo General del Estado de Oaxaca, en su calidad de organismo público descentralizado, no sectorizado, en términos de las disposiciones jurídicas aplicables.
+
+NOVENO. Una vez en funciones, el Archivo General del Estado de Oaxaca, como organismo público descentralizado de la Administración Pública Estatal, la Secretaría de Administración le transferirá los recursos humanos, financieros y materiales asignados al Órgano Desconcentrado denominado Archivo General del Estado de Oaxaca, atendiendo las disposiciones de la Ley de Entrega-Recepción de los Recursos y Bienes del Estado de Oaxaca.
+
+DÉCIMO. Los derechos laborales de los servidores públicos adscritos al Órgano Desconcentrado que sean transferidos al Archivo General del Estado de Oaxaca, como organismo público descentralizado, no sectorizado, serán respetados y garantizados, en términos de las disposiciones aplicables.
+
+DÉCIMO PRIMERO. Una vez instalado su Órgano de Gobierno, el Organismo Público Descentralizado Archivo General del Estado de Oaxaca, no sectorizado, contará con un plazo no mayor a noventa días para emitir su normatividad interna.
+
+DÉCIMO SEGUNDO. La Secretaría de Administración, en un plazo que no exceda de sesenta días contados a partir de la entrada en vigor del presente Decreto, deberá reformar su normatividad interna, en los términos del presente Decreto.
+
+DÉCIMO TERCERO. Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto. La Secretaría de Finanzas, la Secretaría de Administración y la Secretaría de Honestidad, Transparencia y Función Pública, deberán llevar a cabo las gestiones necesarias para que se autorice la estructura orgánica del Organismo Público Descentralizado Archivo General del Estado de Oaxaca, de conformidad con las disposiciones correspondientes.
+
+DÉCIMO CUARTO. Se instruye a la Secretaría de Servicios Parlamentarios y a la Dirección Jurídica para que en cumplimiento a la sentencia dictada en la Acción de Inconstitucionalidad 122/2020, comunique el presente Decreto a la Suprema Corte de Justicia de la Nación, solicitando se tenga a este Honorable Congreso del Estado Libre y Soberano de Oaxaca dando por cumplida la sentencia de mérito.
