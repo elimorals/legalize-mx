@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-anticorrupcion-del-estado-de-jalisco-122604"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2023-03-14"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 18 de julio de 2017.
 
@@ -573,9 +573,9 @@ V. Transparencia y acceso a la información pública, conforme a la ley de la ma
 
 ###### Artículo 28.
 
-1. El órgano de gobierno estará integrado por los miembros del Comité
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2023)</small>
 
-Coordinador y será presidido por el Presidente del Comité de Participación Social.
+1. El órgano de gobierno estará integrado por los miembros del Comité Coordinador, además de la persona titular de la Secretaría de la Hacienda Pública o quien éste designe y será presidido por el Presidente del Comité de Participación Social.
 
 2. El órgano de gobierno celebrará por lo menos cuatro sesiones ordinarias por año, además de las extraordinarias que se consideren convenientes para desahogar los asuntos de su competencia. Las sesiones serán convocadas por su Presidente o a propuesta de mínimo cuatro integrantes de dicho órgano.
 
@@ -1006,5 +1006,11 @@ P.O. 14 DE ENERO DE 2023.
 P.O. 14 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29137/LXIII/23 QUE REFORMAN LOS ARTÍCULOS 12, 20, 28 Y 32 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
