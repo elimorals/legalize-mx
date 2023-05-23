@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-colegio-de-bachilleres-del-estado-de-107526"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-04-25"
-last_updated: "2020-12-29"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL COLEGIO DE BACHILLERES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 25 de abril de 2015.
 
@@ -117,15 +117,27 @@ VI. El Consejo Consultivo.
 
 #### Sección Segunda. De la Junta Directiva
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 23 DE MAYO DE 2023)</small>
+
 ###### Artículo 6.
 
 La Junta Directiva es el máximo órgano de gobierno del Colegio y se integra por:
 
-I. Dos representantes del Poder Ejecutivo del Gobierno del Estado de Jalisco, que serán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE MAYO DE 2023)</small>
 
-a) El Secretario de Educación del Estado, quien la presidirá; y
+I. Tres representantes del Poder Ejecutivo del Estado, que serán:
 
-b) El Coordinador de Educación Media Superior, quien suplirá al Presidente en sus ausencias, salvo disposición en contrario;
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2023)</small>
+
+a) La persona titular de la Secretaría de Educación, quien la presidirá;
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2023)</small>
+
+b) La persona titular de la Subsecretaría de Educación Media Superior, quien suplirá a la Presidencia en sus ausencias; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MAYO DE 2023)</small>
+
+c) La persona titular de la Secretaría de la Hacienda Pública;
 
 II. Dos representantes del Gobierno Federal, designados por la Secretaría de Educación Pública;
 
@@ -596,3 +608,9 @@ P.O. 29 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28249/LXII/20 QUE REFORMA LOS ARTÍCULOS 20 Y 34 DE LA LEY ORGÁNICA DEL COLEGIO DE BACHILLERES DEL ESTADO DE JALISCO".]
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO (SIC) NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
