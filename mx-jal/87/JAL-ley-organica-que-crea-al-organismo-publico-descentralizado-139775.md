@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-que-crea-al-organismo-publico-descentralizado-1397
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-28"
-last_updated: "2021-05-15"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA QUE CREA AL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO PLATAFORMA ABIERTA DE INNOVACIÓN Y DESARROLLO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 2019.
 
@@ -129,7 +129,9 @@ I. El Gobernador del Estado o la persona que él designe, quien lo presidirá;
 
 II. Un representante de la Secretaría de Innovación, Ciencia y Tecnología de Jalisco, preferentemente la persona titular de la Dirección competente en materia de Educación Superior, Investigación y Posgrado;
 
-III. Tres representantes del Gobierno del Estado, designados por el Gobernador;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+III. Tres representantes del Gobierno del Estado, designados por la persona Titular del Poder Ejecutivo, entre los que se deberá encontrar la persona titular de la Secretaría de la Hacienda Pública;
 
 IV. Tres representantes de los sectores estratégicos del Estado con amplia experiencia académica, profesional o empresarial, designados por el Gobernador;
 
@@ -322,3 +324,9 @@ P.O. 15 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28375/LXII/21 QUE REFORMA EL ARTÍCULO 5 DE LA LEY ORGNÁNICA QUE CREA AL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO PLATAFORMA ABIERTA DE INNOVACIÓN Y DESARROLLO DE JALISCO".]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO (SIC) NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
