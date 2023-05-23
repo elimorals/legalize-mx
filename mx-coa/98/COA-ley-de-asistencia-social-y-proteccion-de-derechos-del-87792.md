@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-y-proteccion-de-derechos-del-87792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-27"
-last_updated: "2021-02-23"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de abril de 2012.
 
@@ -157,7 +157,9 @@ e) Ser víctima de cualquier tipo de explotación;
 
 f) Encontrarse en situación de calle;
 
-g) Adicciones;
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2023)</small>
+
+g) Adicciones o trastornos mentales;
 
 h) Ser víctimas de trata de personas;
 
@@ -173,7 +175,9 @@ k) Niños, niñas y adolescentes en conflicto con la ley;
 
 l) Niños, niñas y adolescentes que intervengan en un procedimiento legal, velando siempre porque se respete su interés superior;
 
-m) Ser hijos de padres que padezcan enfermedades terminales y en condiciones de extrema pobreza;
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2023)</small>
+
+m) Ser hijos de padres que padezcan enfermedades terminales, trastornos mentales y en condiciones de extrema pobreza;
 
 n) Ser migrantes en condiciones de vulnerabilidad o repatriados;
 
@@ -223,7 +227,9 @@ VI. Adultos mayores en desamparo, incapacidad, marginación o sujetos a maltrato
 
 VII. Personas con discapacidad;
 
-VIII. Dependientes de personas privadas de su libertad, de enfermos terminales, de alcohólicos o de fármaco dependientes;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+VIII. Dependientes de personas privadas de su libertad, de enfermos terminales, de alcohólicos, personas con trastornos mentales o de fármaco dependientes;
 
 IX. Víctimas de la comisión de delitos;
 
@@ -231,7 +237,9 @@ IX. Víctimas de la comisión de delitos;
 
 X. Indigentes y personas que se encuentren en situación de calle o pobreza extrema;
 
-XI. Alcohólicos y fármaco dependientes, cuando por estas causas se encuentran en estado de abandono o indigencia;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+XI. Personas con trastornos mentales, alcohólicos y fármaco dependientes, cuando por estas causas se encuentran en estado de abandono o indigencia;
 
 > <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
 
@@ -311,7 +319,9 @@ III. De la malnutrición;
 
 IV. Del embarazo no deseado, particularmente en niñas y adolescentes;
 
-V. De las adicciones, y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+V. De los trastornos mentales, así como de las adicciones, y
 
 VI. Mediante la realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social.
 
@@ -329,7 +339,9 @@ II. A las personas en situación de vulnerabilidad que presenten desnutrición u
 
 III. A mujeres de escasos recursos, en períodos de gestación, lactancia o de maternidad temprana;
 
-IV. A adictos y farmacodependientes;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+IV. A personas con trastornos mentales, adictos y farmacodependientes;
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
@@ -1544,3 +1556,11 @@ P.O. 23 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 1000.- SE REFORMA LA FRACCIÓN V, DEL ARTÍCULO 46-C, DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 462.- SE REFORMAN LOS INCISOS G) Y M) DE LA FRACCIÓN I, Y LAS FRACCIONES VIII Y XI DEL ARTÍCULO 6, ASÍ COMO LA FRACCIÓN V DEL APARTADO A Y LA FRACCIÓN IV DEL APARTADO D DEL ARTÍCULO 10, TODOS DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
