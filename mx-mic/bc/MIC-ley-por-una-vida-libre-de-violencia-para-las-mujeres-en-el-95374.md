@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2023-04-21"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -611,9 +611,17 @@ VII. Capacitar al personal del sector salud, para la detección de la violencia 
 
 VIII. Participar activamente, en la ejecución del Programa, en el diseño de nuevos modelos de prevención y atención de la violencia contra las mujeres por razones de género, en colaboración con las demás autoridades encargadas de aplicar la presente Ley;
 
-IX. Difundir en las instituciones del sector salud, material referente a la prevención, atención y sanción de la violencia contra las mujeres por razones de género; y,
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-X. Apoyar a las autoridades e instituciones estatales encargadas de efectuar investigaciones en materia de violencia contra las mujeres por razones de género, proporcionando en su caso, la información estadística que se requiera para tal efecto.
+IX. Difundir en las instituciones del sector salud, material referente a la prevención, atención y sanción de la violencia contra las mujeres por razones de género;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+X. Apoyar a las autoridades e instituciones estatales encargadas de efectuar investigaciones en materia de violencia contra las mujeres por razones de género, proporcionando en su caso, la información estadística que se requiera para tal efecto; y,
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2023)</small>
+
+XI. Ofrecer y brindar apoyo institucional y profesional en materia médica, de trabajo social y psicología a toda niña y adolescente embarazada. En caso de detectar indicios de que la niña o adolescente ha sido o es víctima de violencia sexual, la Secretaría dará vista al Ministerio Público y a la Comisión Ejecutiva Estatal de Atención a Víctimas conforme al Protocolo de Atención Inmediata referido en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Michoacán de Ocampo, y se activarán los mecanismos de protección, atención y acompañamiento institucionales a cargo de las dependencias y entidades públicas estatales y municipales.
 
 ###### ARTÍCULO 33.
 
@@ -1296,3 +1304,19 @@ P.O. 21 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 357 POR EL QUE "SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 2 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 365 POR EL QUE “SE REFORMAN LAS FRACCIONES IX Y X; Y, SE ADICIONA LA FRACCIÓN XI DEL ARTÍCULO 32 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Poder Ejecutivo del Estado, a través de la Secretaría de Salud en el Estado, actualizará y publicará el Protocolo de Atención Inmediata referido en el artículo 33 fracción XIX, de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Michoacán de Ocampo, a fin de incorporar lo dispuesto en el presente Decreto, en un plazo máximo de treinta días hábiles contados a partir de su entrada en vigor.
+
+TERCERO. La Secretaría de Salud capacitará permanentemente a las personas encargadas de la atención médica de niñas y adolescentes embarazadas, así como de trabajo social y psicología, para aplicar el Protocolo de Atención Inmediata.
+
+Asimismo, la Secretaría de Salud establecerá el mecanismo de coordinación con la Comisión Ejecutiva Estatal de Atención a Víctimas y con la Fiscalía General del Estado, para la actualización, aplicación y seguimiento del citado Protocolo.
+
+CUARTO. Notifíquese el presente Decreto al Secretario de Salud, al Titular de la Comisión Ejecutiva Estatal de Atención a Víctimas y al Fiscal General del Estado, para su debida atención.
+
+QUINTO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
