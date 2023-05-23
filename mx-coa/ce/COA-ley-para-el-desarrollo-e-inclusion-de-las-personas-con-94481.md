@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2021-01-29"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -607,13 +607,13 @@ Los responsables de las dependencias o empresas que por su naturaleza deban inst
 
 De las barreras físicas como aires acondicionados, ventanas sobresalientes en el área peatonal, así como anuncios, no deberán instalarse de tal manera que las personas con discapacidades visuales u otras puedan impactarse con ellas.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2023)</small>
+
 ###### Artículo 39°.
 
-Los restaurantes y cafeterías ofrecerán la comodidad requerida a los usuarios en silla de ruedas, así como permitir el acceso a personas con discapacidad visual acompañados de perro guía debidamente autorizado, además de (sic) procuraran el (sic) contar con menús escritos en braille y con ilustraciones de los alimentos.
+Los restaurantes y cafeterías ofrecerán la comodidad requerida a los usuarios en silla de ruedas, así como permitir el acceso a personas con discapacidad visual acompañados de perro guía debidamente autorizado, además de contar en todo momento con cartas o menús escritos en sistema braille y con ilustraciones de los alimentos ofrecidos por el establecimiento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ENERO DE 2018)</small>
-
-Las tiendas de autoservicio, mediante organismos públicos u organizaciones de la sociedad civil especializadas en la promoción y defensa de los derechos humanos, deberán capacitar a sus empleados en materia de inclusión y desarrollo de los derechos de las personas con discapacidad; asimismo, considerando su infraestructura, cantidad de empleados y la afluencia de clientes, deberán designar personal que asista a las personas con discapacidad que así lo requieran y soliciten.
+Lo anterior, con la finalidad de fomentar la individualidad, dignidad y el libre desarrollo de la personalidad, de aquellas que cuentan con discapacidad visual.
 
 ###### Artículo 40°.
 
@@ -1408,3 +1408,9 @@ P.O. 29 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 894.- SE ADICIONAN LAS FRACCIONES XII, XIII Y XIV RECORRIÉNDOSE LA ULTERIOR A UNA FRACCIÓN XV, DEL ARTÍCULO 6° DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 463.- SE REFORMA EL ARTÍCULO 39 DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
