@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2023-05-17"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -887,9 +887,9 @@ Tratándose de ampliación de ruta o rutas, los interesados deberán cumplir con
 
 Para asegurar el acceso de las personas al transporte público urbano en las modalidades de, colectivo, colectivo de primera clase, y colectivo masivo; así como a los sitios, terminales, bahías, centros de transferencia y vehículos, en condiciones de igualdad, se implementarán las siguientes acciones:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-I. Mujeres embarazadas, personas con menores de edad en brazos, niñas y niños. Los primeros cuatro asientos ubicados en el lado izquierdo del vehículo a espaldas del operador se destinarán preferencialmente para el uso de mujeres embarazadas, personas con menores de edad en brazos, niños y niñas. Estos asientos deberán ser de color rosa;
+I. Mujeres embarazadas, personas con niñas y niños en brazos. Los primeros cuatro asientos ubicados en el lado izquierdo del vehículo a espaldas del operador se destinarán preferencialmente para el uso de mujeres embarazadas, personas con niñas y niños en brazos. Estos asientos deberán ser de color rosa;
 
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
 
@@ -1295,9 +1295,9 @@ El servicio urbano colectivo en todas sus modalidades, y los operadores del mism
 
 I. Relativos a las condiciones de operación:
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2023)</small>
 
-a) Las frecuencias serán establecidas por la Secretaría en función de la programación del servicio para cada ruta o sistema de rutas, y tomando en cuenta que se cumplan itinerarios suficientes por los vehículos exclusivos para mujeres y los menores de edad que las acompañen, así como para personas de la tercera edad.
+a) Las frecuencias serán establecidas por la Secretaría en función de la programación del servicio para cada ruta o sistema de rutas, y tomando en cuenta que se cumplan itinerarios suficientes por los vehículos exclusivos para mujeres y las niñas, niños que las acompañen, así como para personas de la tercera edad.
 
 b) La Secretaría establecerá manuales de operación de los sistemas integrales de rutas, cuyos términos y especificaciones de servicio serán obligatorios para los concesionarios.
 
@@ -1347,9 +1347,11 @@ d) Las unidades contarán con los sistemas o dispositivos de control y seguridad
 
 9. Los demás que en razón del desarrollo tecnológico vayan siendo aplicables a esta modalidad de servicio, para protección y seguridad de la población.
 
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE MAYO DE 2023)</small>
 
-e) En todas las rutas deberán operar durante las horas pico de servicio, vehículos de uso exclusivo para mujeres y los menores de edad que las acompañen, así como para personas de la tercera edad, en número suficiente para atender la demanda de acuerdo con los estándares de ocupación a que se refiere el artículo 21 de este Ordenamiento.
+e) En todas las rutas deberán operar durante las horas pico de servicio, vehículos de uso exclusivo para mujeres y las niñas y niños que las acompañen, así como para personas de la tercera edad, en número suficiente para atender la demanda de acuerdo con los estándares de ocupación a que se refiere el artículo 21 de este Ordenamiento.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2019)</small>
 
 Será responsabilidad de la Secretaría determinar en cada ruta los horarios, la frecuencia y la forma en que se han de identificar de manera clara los vehículos en los que se preste ese servicio exclusivo. La programación y sus modificaciones, deberán ser publicadas por la Secretaría en su página de internet, y fijarlos además en todos los centros de emisión y recarga de tarjeta de prepago.
 
@@ -3300,6 +3302,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 17 DE MAYO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0757.- SE REFORMA LA FRACCIÓN IV, DEL ARTÍCULO 76, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0759.- SE REFORMAN LOS ARTÍCULOS 44, EN SU FRACCIÓN I Y 67 EN SUS FRACCIONES I, EN SU INCISO A) Y II EN SU INCISO E), DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
