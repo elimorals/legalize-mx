@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2023-02-09"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -143,9 +143,17 @@ II. La responsabilidad ciudadana, sustentada en valores como la honestidad, la j
 
 III. La participación activa en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural y político;
 
-IV. El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida sostenibles, y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-V. El respeto y conservación del patrimonio cultural e histórico, así como de las tradiciones, usos y costumbres de la Entidad.
+IV. El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida sostenibles;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+V. El respeto y conservación del patrimonio cultural e histórico, así como de las tradiciones, usos y costumbres de la Entidad, y
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2023)</small>
+
+VI. La cultura del autocuidado y preservación de la salud mental, con la finalidad de promover la asertividad y bienestar mental en las relaciones sociales e intrapersonales, para fomentar la comunicación asertiva y la cultura del autocuidado emocional.
 
 ###### ARTÍCULO 12.
 
@@ -201,11 +209,15 @@ VIII. Inculcar el respeto por la naturaleza, a través de la generación de capa
 
 IX. Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y de la Entidad federativa de San Luis Potosí;
 
-> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-X. Fomentar entre las instituciones educativas, los padres de familia y los educandos, la cultura del ahorro, de la preservación y restauración del equilibrio ecológico, así como del desarrollo sustentable, entre otras acciones, como la de evitar el uso del plástico en el forro de libros y libretas, y
+X. Fomentar entre las instituciones educativas, los padres de familia y los educandos, la cultura del ahorro, de la preservación y restauración del equilibrio ecológico, así como del desarrollo sustentable, entre otras acciones, como la de evitar el uso del plástico en el forro de libros y libretas;
 
-XI. Todos aquellos que contribuyan al bienestar y desarrollo del país y del Estado.
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2023)</small>
+
+XI. Fomentar entre el profesorado, los padres de familia y los educandos el desarrollo de habilidades psicoemocionales, que permitan priorizar el cuidado personal y la salud mental con la intención de aprender a validar, externar y buscar soluciones a los conflictos emocionales promoviendo una comunicación asertiva y la cultura del autocuidado emocional a través de talleres y programas de concientización y el acompañamiento de expertos en psicología dentro de las instituciones académicas, y
+
+XII. Todos aquellos que contribuyan al bienestar y desarrollo del país y del Estado.
 
 ###### ARTÍCULO 14.
 
@@ -2136,3 +2148,11 @@ P.O. 9 DE FEBRERO DE 2023.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0760.- SE REFORMAN LOS ARTÍCULOS 11, FRACCIONES IV Y V, 13, FRACCIÓN X; Y ADICIONA A LOS ARTÍCULOS 11, LA FRACCIÓN VI Y 13, UNA FRACCIÓN, ÉSTA COMO XI, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
