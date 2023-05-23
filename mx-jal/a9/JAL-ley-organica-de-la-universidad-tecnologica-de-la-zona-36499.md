@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-universidad-tecnologica-de-la-zona-36499"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-30"
-last_updated: "2021-07-06"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE LA ZONA METROPOLITANA DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en la Sección Décimo Novena del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 2003.
 
@@ -143,9 +143,15 @@ El Consejo Directivo, será el órgano máximo de gobierno de la Universidad y s
 
 I. Tres representantes del Poder Ejecutivo Federal, designados por el Secretario de Educación Pública; contando entre ellos con un representante de la Coordinación de Universidades Tecnológicas;
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 23 DE MAYO DE 2023)</small>
 
-II. Tres representantes del Poder Ejecutivo del Gobierno del Estado de Jalisco, designados por el Ejecutivo Estatal, entre los cuales se encontrará el titular de la Secretaría de Educación o su representante y un representante de la Secretaría de Desarrollo Económico;
+II. Tres representantes del Poder Ejecutivo del Estado:
+
+a) La persona Titular de la Secretaría de Innovación, Ciencia y Tecnología o su representante;
+
+b) Una persona representante de la Secretaría de Desarrollo Económico; y
+
+c) Una persona representante de la Secretaría de la Hacienda Pública;
 
 III. Tres representantes del Sector productivo del Estado de Jalisco, a invitación del titular del Poder Ejecutivo Estatal;
 
@@ -159,7 +165,9 @@ VII. Un representante de la Comisión Estatal de Planeación de la Educación Su
 
 VIII. El Rector de la Universidad;
 
-IX. Un comisario nombrado por el titular de la Contraloría del Estado; y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+IX. La persona Titular del Órgano Interno de Control; y
 
 X. Un Secretario, designado por el Consejo Directivo a propuesta de su Presidente.
 
@@ -502,3 +510,9 @@ P.O. 6 DE JULIO DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. A partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado de Jalisco contará con un término de 90 días hábiles para realizar las adecuaciones a los reglamentos y disposiciones administrativas que resulten aplicables, para dar cumplimiento con este decreto.
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO (SIC) NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
