@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2023-03-28"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -701,9 +701,9 @@ d) El titular o representante de la Secretaría de Desarrollo Rural;
 
 e) El titular o representante de la Secretaría de Desarrollo Económico;
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2023)</small>
 
-f) El titular o representante de la Secretaría de Planeación, Administración y Finanzas;
+f) El titular o representante de la Secretaría de la Hacienda Pública;
 
 g) El titular o representante de la Contraloría del Estado;
 
@@ -2198,3 +2198,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los Ayuntamientos en el estado de Jalisco dispondrán de 90 días naturales para explorar y ubicar los veneros o nacimientos de agua en sus municipios para realizar las adecuaciones conducentes a evitar que estén conectados al drenaje o a cauces contaminados.
 
 TERCERO. De las labores de exploración para la identificación de los veneros o nacimientos de agua, se recopilará la información y se entregará a la Comisión Estatal del Agua para que sea incorporada a las bases de datos del Sistema Estatal de Información del Agua.
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
