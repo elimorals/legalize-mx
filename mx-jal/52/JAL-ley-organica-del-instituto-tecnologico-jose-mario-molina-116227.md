@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-tecnologico-jose-mario-molina-116227
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-23"
-last_updated: "2019-10-08"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en el número 17 de la Sección III, del Periódico Oficial del Estado de Jalisco el martes 23 de agosto de 2016.
 
@@ -151,31 +151,37 @@ La Junta de Gobierno podrá establecer consejos consultivos, como instancias de 
 
 #### Sección Segunda. De la Junta de Gobierno
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE MAYO DE 2023)</small>
+
 ###### Artículo 11.
 
 La Junta de Gobierno es el máximo órgano de gobierno del Instituto y se integra de la siguiente forma:
 
-I. El Secretario de Innovación, Ciencia y Tecnología, quien la presidirá;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-II. Ocho vocales, que son los siguientes:
+I. La persona titular de la Secretaría de Innovación Ciencia y Tecnología, quien la presidirá;
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 23 DE MAYO DE 2023)</small>
 
-a) El Secretario de Administración;
+II. Ocho vocalías, que son las personas titulares de:
 
-b) El Secretario de Desarrollo Económico;
+a) Secretaría de la Hacienda Pública;
 
-c) El Director General de Educación Superior, Investigación y Posgrado de la Secretaría de Innovación, Ciencia y Tecnología;
+b) Secretaría de Desarrollo Económico;
 
-d) Dos representantes del Poder Ejecutivo Federal, designados por la Secretaría de Educación Pública;
+c) El área competente en materia de educación superior de la Secretaría de Innovación, Ciencia y Tecnología;
 
-e) El titular del Consejo de Cámaras Industriales del Estado de Jalisco;
+d) Dos representaciones del Poder Ejecutivo Federal, designados por la Secretaría de Educación Pública;
 
-f) El titular de la Cámara Nacional de Comercio en el Estado de Jalisco; y
+e) Consejo de Cámaras Industriales del Estado de Jalisco;
 
-g) El titular del Consejo Agropecuario del Estado de Jalisco; y
+f) Cámara Nacional de Comercio en el Estado de Jalisco; y
 
-III. Un Secretario Técnico que será nombrado por la Junta de Gobierno de entre el personal del Instituto.
+g) Consejo Agropecuario del Estado de Jalisco; y
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+III. Una Secretaría Técnica cuya titularidad será nombrada por la Junta de Gobierno de entre el personal del Instituto.
 
 Asistirán a las sesiones de la Junta de Gobierno con voz, pero sin voto:
 
@@ -894,5 +900,11 @@ P.O. 25 DE SEPTIEMBRE DE 2018.
 P.O. 8 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27348/LXII/19 QUE REFORMA LOS ARTÍCULOS (SIC) 11, FRACCIÓN II, INCISO A), DE LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
