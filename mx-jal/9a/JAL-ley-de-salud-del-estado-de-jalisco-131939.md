@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2023-03-28"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -2823,23 +2823,41 @@ Comisión de Arbitraje Médico. Integración del Consejo.
 
 1. El Consejo se integrará por:
 
-I. El Comisionado;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-II. Un representante de la Asociación Médica de Jalisco, Colegio Médico, A. C.;
+I. La Comisionada o él Comisionado;
 
-III. Un representante por la Federación Jalisciense de Colegios, Asociaciones y Academias de Profesionistas;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-IV. Un representante de la Federación de Colegios de Profesionistas del Estado de Jalisco;
+II. Una persona representante de la Asociación Médica de Jalisco, Colegio Médico, A. C.;
 
-V. Un representante del Consejo Coordinador de Colegios de Profesionistas;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-VI. Un representante de la Universidad de Guadalajara;
+III. Una persona representante por la Federación Jalisciense de Colegios, Asociaciones y Academias de Profesionistas;
 
-VII. Un representante de la Universidad Autónoma de Guadalajara, y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+IV. Una persona representante de la Federación de Colegios de Profesionistas del Estado de Jalisco;
 
-VIII. Un representante de la Secretaría de Salud.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+V. Una persona representante del Consejo Coordinador de Colegios de Profesionistas;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+VI. Una persona representante de la Universidad de Guadalajara
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+VII. Una persona representante de la Universidad Autónoma de Guadalajara;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+VIII. Una persona o personas en representación de la Secretaría de Salud; y
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2023)</small>
+
+IX. Una persona en representación de la Secretaría de la Hacienda Pública.
 
 2. La designación de consejeros deberá recaer en personas de reconocida solvencia moral y profesional. Los consejeros referidos en las fracciones III, IV, V, VI, VII y VIII deberán además tener el carácter de profesionistas médicos. El cargo de consejero será honorífico y, por tanto, no remunerado, excepto en el caso del Comisionado.
 
@@ -4762,3 +4780,9 @@ P.O. 28 DE MARZO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Las dependencias del Poder Ejecutivo y los municipios deberán de realizar los convenios y/o acuerdos de colaboración con las instancias correspondientes para dar cumplimiento al presente decreto.
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO (SIC) NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
