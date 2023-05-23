@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2023-03-28"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -1297,19 +1297,21 @@ El Comité de Administración de la Procuraduría de Desarrollo Urbano es un ór
 
 El Comité de Administración se integra con:
 
-I. Un presidente que será el titular del organismo público;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+I. La persona titular del organismo quien lo presidirá;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 23 DE MAYO DE 2023)</small>
 
 II. Dos vocalías que corresponderán a los representantes de las dependencias del Poder Ejecutivo del Estado que a continuación se indican:
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE MAYO DE 2023)</small>
 
 a) Secretaría General de Gobierno; y
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2023)</small>
 
-b) Secretaría de Planeación, Administración y Finanzas;
+b) Secretaría de la Hacienda Pública;
 
 c) (DEROGADO, P.O. 8 DE ABRIL DE 2014)
 
@@ -6718,3 +6720,9 @@ Artículo Segundo. Los ayuntamientos deberán dentro de los siguientes 180 días
 Artículo Tercero. Los ayuntamientos dentro de los primeros 5 años a partir de la entrada en vigor del presente decreto, deberán coordinarse con los concesionarios para migrar el despliegue del cableado aéreo a soterrado en aquellos lugares donde exista la infraestructura adecuada para ello, así como establecer los incentivos fiscales para lograr este objetivo.
 
 Artículo Cuarto. Los ayuntamientos deberán en el término de un año, generar el Atlas de la Red de Infraestructura Básica para Telecomunicaciones al que se refiere el presente decreto.
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
