@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-organismo-publico-descentralizado-128836"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-06-02"
-last_updated: "2022-02-19"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES Y CÓMPUTO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 2 de junio de 2018.
 
@@ -165,9 +165,9 @@ III. Un representante de la Dependencia del Poder Ejecutivo responsable de la Se
 
 IV. Un representante de la instancia responsable de la procuración de justicia;
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-V. Un representante de la Secretaría de Administración;
+V. Un representante de la Secretaría de la Hacienda Pública;
 
 VI. Un representante de la Secretaría de Innovación, Ciencia y Tecnología;
 
@@ -934,3 +934,9 @@ P.O. 19 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28733/LXIII/22 QUE REFORMAN LOS ARTÍCULOS 8, 10, Y 31, TODOS DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES Y CÓMPUTO DEL ESTADO DE JALISCO”.]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO (SIC) NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
