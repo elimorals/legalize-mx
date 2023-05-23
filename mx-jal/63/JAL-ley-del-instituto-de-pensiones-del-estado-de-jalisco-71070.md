@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-de-pensiones-del-estado-de-jalisco-71070"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-19"
-last_updated: "2021-09-09"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 19 de noviembre de 2009.
 
@@ -1475,7 +1475,9 @@ II. Dirección General.
 
 El Consejo Directivo se integrará con los siguientes miembros propietarios con voz y voto:
 
-I. Dos representantes del Gobierno del Estado, designados por el Titular del Poder Ejecutivo, ambos con voz y voto. Uno de estos dos consejeros fungirá como Presidente del Consejo, en ausencia de uno de ellos, las sesiones serán presididas por el otro. El Presidente tendrá voto de calidad en caso de empate. El Presidente tendrá la más amplia representación legal del Consejo Directivo, en todo tipo de litigios y controversias, ante autoridades judiciales y administrativas, civiles, mercantiles, penales y laborales, con las facultades de un apoderado general judicial para pleitos y cobranzas, quien podrá delegar mediante poder especial o al designar patronos o delegados en juicio o procedimiento, incluido el de amparo y los seguidos ante las Comisiones de Derechos Humanos en trabajadores o servidores públicos del Instituto. El Presidente deberá dar cuenta al Consejo Directivo de su actuación;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+I. Dos representantes del Gobierno del Estado, designados por el Titular del Poder Ejecutivo, ambos con voz y voto, entre quienes se encontrará invariablemente la persona titular de la Secretaría de la Hacienda Pública. Uno de estos dos consejeros fungirá como Presidente del Consejo, en ausencia de uno de ellos, las sesiones serán presididas por el otro. El Presidente tendrá voto de calidad en caso de empate. El Presidente tendrá la más amplia representación legal del Consejo Directivo, en todo tipo de litigios y controversias, ante autoridades judiciales y administrativas, civiles, mercantiles, penales y laborales, con las facultades de un apoderado general judicial para pleitos y cobranzas, quien podrá delegar mediante poder especial o al designar patronos o delegados en juicio o procedimiento, incluido el de amparo y los seguidos ante las Comisiones de Derechos Humanos en trabajadores o servidores públicos del Instituto. El Presidente deberá dar cuenta al Consejo Directivo de su actuación;
 
 II. Un representante del municipio de Guadalajara, que será designado por el Presidente Municipal;
 
@@ -1946,3 +1948,9 @@ Séptimo. La regularidad de las pensiones se mantendrá por lo que corresponde a
 Octavo. Las entidades públicas que incorporen a sus servidores públicos en razón de las modificaciones a los artículos 33 de la Ley del Instituto de Pensiones y 64 de la Ley para los Servidores Públicos, ambos ordenamientos del Estado de Jalisco, que se expiden en el presente decreto, deberán suscribir los convenios correspondientes con la Secretaría de la Hacienda Pública y el Instituto de Pensiones, a más tardar el 1 de enero de 2022.
 
 Noveno. Las entidades públicas dispondrán de un plazo de sesenta días naturales contados a partir de la entrada en vigor del presente decreto, para dar cumplimiento al presente decreto en términos de la reforma que se aprueba al artículo 33 de la Ley del Instituto de Pensiones del Estado de Jalisco, quedando sujeta la afiliación correspondiente a la aprobación de dicho Instituto con base en los requisitos que establece la presente Ley. Dicha afiliación no tendrá efectos retroactivos.
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO (SIC) NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
