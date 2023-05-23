@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-el-instituto-de-la-infraestructura-fisica-96294"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2021-12-18"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el sábado 12 de octubre de 2013.
 
@@ -145,6 +145,8 @@ II. El Director General; y
 
 III. Las unidades administrativas necesarias para su adecuado funcionamiento que apruebe la Junta de Gobierno, de conformidad con el presupuesto autorizado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE MAYO DE 2023)</small>
+
 ###### Artículo 8.
 
 La Junta de Gobierno será el órgano supremo del Instituto y estará integrada por:
@@ -155,29 +157,45 @@ II. El Director General del Instituto;
 
 III. El Secretario de Educación, quien la presidirá en caso de ausencia del titular del Poder Ejecutivo;
 
-IV. El Secretario de Planeación, Administración y Finanzas;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-V. El Secretario de Infraestructura y Obra Pública;
+IV. La persona titular de la Secretaría de Hacienda Pública;
 
-VI. El representante de la Oficina de Servicios Federales de Apoyo en la Educación del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+V. La persona titular de la Secretaría de Infraestructura y Obra Pública;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+VI. La representación de la Oficina de Servicios Federales de Apoyo en la Educación del Estado de Jalisco;
 
 VII. El representante del Instituto Nacional de la Infraestructura Física Educativa;
 
-VIII. El Titular de la Unidad de Protección Civil del Estado;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-IX. El Contralor General del Estado;
+VIII. La persona titular de la Unidad Estatal de Protección Civil y Bomberos del Estado;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-X. El Presidente de la Comisión de Educación, Cultura y Deporte del H. Congreso del Estado de Jalisco; y
+IX. La persona titular de la Contraloría del Estado;
 
-XI. El Titular del Órgano de Control Interno.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-Podrán participar en las sesiones de la Junta de Gobierno con voz, pero sin voto, el Director General del Instituto y el Titular del Órgano Interno de Control.
+X. La Presidencia de la Comisión de Educación, Cultura y Deporte del H. Congreso del Estado de Jalisco; y
 
-El Director General realizará las funciones de Secretario Técnico para el apoyo de las funciones de la Junta de Gobierno.
+XI. (DEROGADA, P.O. 23 DE MAYO DE 2023)
 
-Los Titulares de la Junta de Gobierno podrán delegar sus funciones en sus suplentes, debiéndolos designar y acreditar ante la Junta de Gobierno. Sus cargos serán honoríficos.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2023)</small>
+
+Podrán participar en las sesiones de la Junta de Gobierno con voz, pero sin voto, la persona titular de la Dirección General del Instituto y del Órgano Interno de Control.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2023)</small>
+
+La Dirección General realizará las funciones de Secretaría Técnica para el apoyo de las funciones de la Junta de Gobierno.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2023)</small>
+
+Las personas titulares de la Junta de Gobierno podrán delegar sus funciones en sus suplentes, debiéndolos designar y acreditar ante la Junta de Gobierno. Sus cargos serán honoríficos.
 
 ###### Artículo 9.
 
@@ -532,3 +550,9 @@ SEGUNDO.- El Titular del Ejecutivo del Estado, por conducto de la Secretaria de 
 TERCERO.- La operación y funcionamiento del Fideicomiso Fondo para la Infraestructura Educativa del Estado de Jalisco se sujetará a las disposiciones de la legislación aplicable, para el cumplimiento de los fines a que este Decreto se refiere.
 
 CUARTO.- El Comité Técnico del Fideicomiso deberá aprobar y expedir sus lineamientos de administración y operación, para el cumplimiento de los fines a que este decreto se refiere.
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO (SIC) NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
