@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-universidad-tecnologica-de-jalisco-14405"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-05-08"
-last_updated: "2021-05-15"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 8 de mayo de 1999.
 
@@ -131,9 +131,17 @@ El Consejo Directivo, será el órgano máximo de gobierno de la Universidad y s
 
 I. Tres representantes del Poder Ejecutivo Federal, designados por el Secretario de Educación Pública;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-II. Tres representantes del Poder Ejecutivo del Gobierno del Estado de Jalisco, integrándolo el titular del Poder Ejecutivo Estatal o la persona que éste designe; el titular de la Secretaría de Educación Jalisco o su representante; y un representante de la Secretaría de Desarrollo Económico;
+II. Cuatro representantes del Poder Ejecutivo del Gobierno del Estado de Jalisco, integrándolo:
+
+a) La persona titular del Poder Ejecutivo Estatal o la persona que éste designe;
+
+b) La persona Titular de la Secretaría de Innovación, Ciencia y Tecnología o su representante;
+
+c) Una persona representante de la Secretaría de Desarrollo Económico; y
+
+d) Una persona representante de la Secretaría de la Hacienda Pública;
 
 III. Tres representantes del Sector Productivo del Estado de Jalisco, a invitación del titular del Poder Ejecutivo Estatal;
 
@@ -472,3 +480,9 @@ P.O. 15 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28373/LXII/21 QUE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 10 DE LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE JALISCO”.]
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO (SIC) NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
