@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2023-03-28"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -1149,9 +1149,25 @@ VIII. Las demás funciones que le confieran el Reglamento Interno, los acuerdos 
 
 Se crea la Unidad Estatal de Protección Civil y Bomberos, como un organismo público descentralizado con personalidad jurídica y patrimonio propio, estará constituido por:
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-I. Una Junta de Gobierno que se integrará por un Presidente que será designado por el titular del Poder Ejecutivo del Estado, el Secretario General de Gobierno, el Secretario de Planeación, Administración y Finanzas, el Secretario de Salud, el Secretario de Infraestructura y Obra Pública, el Secretario de Medio Ambiente y Desarrollo Territorial y el Secretario de Desarrollo Rural, quienes podrán designar un suplente que los substituya en sus ausencias, contando con los mismos derechos y obligaciones;
+I. Una Junta de Gobierno que se integrará por las personas titulares de:
+
+a) Poder Ejecutivo del Estado, quien designará a la o él presidente;
+
+b) Secretaría General de Gobierno;
+
+c) Secretaría de la Hacienda Pública;
+
+d) Secretaría de Salud;
+
+e) Secretaría de Infraestructura y Obra Pública;
+
+f) Secretaría de Medio Ambiente y Desarrollo Territorial; y
+
+g) Secretaría de Agricultura y Desarrollo Rural.
+
+Quienes podrán designar un suplente que los substituya en sus ausencias, contando con los mismos derechos y obligaciones.
 
 > <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
 
@@ -2394,3 +2410,9 @@ P.O. 28 DE MARZO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. Las dependencias del Poder Ejecutivo y los municipios deberán de realizar los convenios y/o acuerdos de colaboración con las instancias correspondientes para dar cumplimiento al presente decreto.
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
