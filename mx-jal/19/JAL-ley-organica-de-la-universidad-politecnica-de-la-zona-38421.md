@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-universidad-politecnica-de-la-zona-38421"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-10"
-last_updated: "2021-07-06"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD POLITÉCNICA DE LA ZONA METROPOLITANA DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 10 de febrero de 2004.
 
@@ -153,31 +153,63 @@ II. Los Directores Académicos.
 
 #### SECCIÓN PRIMERA. De la Junta Directiva
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 23 DE MAYO DE 2023)</small>
+
 ###### Artículo 9.
 
 La Junta Directiva será el máximo órgano de gobierno de la Universidad y se integra por:
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE MAYO DE 2023)</small>
 
-I. Tres representantes del Poder Ejecutivo del Gobierno del Estado de Jalisco, entre los cuales se encontrarán el titular del Poder Ejecutivo, de la Secretaría de Educación (sic) Jalisco y de la Secretaría de Desarrollo Económico o sus representantes;
+I. Cuatro representantes del Poder Ejecutivo del Estado, entre los cuales se encontrarán las personas titulares de:
 
-II. Tres representantes del Poder Ejecutivo Federal, designados por el Subsecretario de Educación Superior e Investigación Científica;
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2023)</small>
+
+a) Poder Ejecutivo;
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2023)</small>
+
+b) Secretaría de Educación;
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2023)</small>
+
+c) Secretaría de Desarrollo Económico; y
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2023)</small>
+
+d) Secretaría de la Hacienda Pública;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+II. Tres representantes del Poder Ejecutivo Federal, designados por quien sea titular de la Subsecretaría de Educación Superior;
 
 III. Tres representantes del sector social del Estado, a propuesta del Titular del Poder Ejecutivo del Estado;
 
 IV. El Rector de la Universidad;
 
-V. Un Comisario, nombrado por el Titular de la Contraloría del Estado;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-VI. Un Secretario, designado por el (sic) Junta Directiva a propuesta de su Presidente;
+V. Titular del Órgano Interno de Control;
 
-VII. Un representante de los académicos de la Universidad;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-VIII. Un representante de los alumnos de la Universidad, y
+VI. Una Secretaría, cuyo titular será designada por el (sic) Junta Directiva a propuesta de su Presidencia;
 
-IX. Un representante del Municipio en donde se encuentra la Universidad, a propuesta del Ayuntamiento.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-Todos los integrantes de la Junta Directiva asistirán a las sesiones con derecho a voz y voto, salvo los comprendidos dentro de las fracciones V, VI y IX, los cuales sólo contarán con derecho a voz.
+VII. Una persona representante de las y los académicos de la Universidad;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+VIII. Una persona representante de las y los alumnos de la Universidad; y
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+IX. Una persona representante del Municipio en donde se encuentra la Universidad, a propuesta del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2023)</small>
+
+Todas las personas que integren la Junta Directiva asistirán a las sesiones con derecho a voz y voto, salvo los comprendidos dentro de las fracciones V, VI y IX, quienes sólo contarán con derecho a voz.
 
 ###### Artículo 10.
 
@@ -580,5 +612,11 @@ P.O. 29 DE DICIEMBRE DE 2020.
 P.O. 6 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28400/LXII/21 DEL CONGRESO DEL ESTADO, QUE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 13 DE LA LEY ORGÁNICA DE LA UNIVERSIDAD POLITÉCNICA DE LA ZONA METROPOLITANA DE GUADALAJARA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO (SIC) NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
