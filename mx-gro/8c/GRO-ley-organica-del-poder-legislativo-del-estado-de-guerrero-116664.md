@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-11666
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-12"
-last_updated: "2022-07-19"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado No. 65 Alcance II, el viernes 12 de agosto de 2016.
 
@@ -2645,9 +2645,9 @@ III. Del Instituto de Estudios Parlamentarios "Eduardo Neri"; y,
 
 IV. De Biblioteca e Informática, y
 
-> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-V. Del Canal de Televisión del Congreso.
+V. Del canal de Radio y Televisión del Congreso.
 
 ###### ARTÍCULO 199.
 
@@ -2699,9 +2699,9 @@ IX. Unidad de las Tecnologías de Información y Comunicación;
 
 X. Unidad de Capacitación y Formación Permanente; y,
 
-> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
 
-XI. Del Canal de Televisión del Congreso, y
+XI. Del Canal de Radio y Televisión del Congreso.
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE ABRIL DE 2021)</small>
 
@@ -4339,35 +4339,45 @@ Las Sesiones del Pleno, las reuniones de las Comisiones y de los Comités, así 
 
 Las sesiones públicas del Pleno, las reuniones públicas de las Comisiones y de los Comités, así como otros eventos relevantes del Congreso que se transmitan, contarán con intérpretes de Lengua de Señas Mexicana.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2023)</small>
 
-### CAPÍTULO PRIMERO BIS. DEL CANAL DE TELEVISIÓN DEL CONGRESO
+### CAPÍTULO PRIMERO BIS. DEL CANAL DE RADIO Y TELEVISIÓN DEL CONGRESO
 
-> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2023)</small>
 
-ARTÍCULO 361 BIS. Para la difusión de las actividades a que hace referencia el artículo 361, el Congreso del Estado contará con un órgano denominado "Canal de Televisión del Congreso", el cual funcionará con base en los permisos y las autorizaciones que le asigne la autoridad competente y de conformidad con las normas técnicas aplicables.
+ARTÍCULO 361 BIS. Para la difusión de las actividades a que hace referencia el artículo 361, el Congreso del Estado contará con un órgano denominado "Canal de Radio y Televisión del Congreso", el cual funcionará con base en los permisos y las autorizaciones que le asigne la autoridad competente y de conformidad con las normas técnicas aplicables.
 
-> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2023)</small>
 
-ARTÍCULO 361 TER. El Canal de Televisión del Congreso del Estado, es un órgano técnico desconcentrado de difusión de la actividad legislativa, el cual contribuiría a la información, el análisis y las discusiones amplias y públicas de la situación Estatal y Municipal vinculada con los trabajos legislativos.
+ARTÍCULO 361 TER. El Canal de Radio y Televisión del Congreso del Estado, es el órgano técnico desconcentrado de difusión de la actividad legislativa, el cual contribuiría a la información, el análisis y las discusiones amplias y públicas de la situación Estatal y Municipal vinculada con los trabajos legislativos.
 
-> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2023)</small>
 
-ARTÍCULO 361 QUATER. Para el cumplimiento de sus fines, el Canal de Televisión del Congreso, se sujetará a lo siguiente:
+ARTÍCULO 361 QUEATER (SIC). Para el cumplimiento de sus fines, el Canal de Radio y Televisión del Congreso, se sujetará a lo siguiente:
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2021)</small>
 
 I. A lo previsto en esta Ley, el Reglamento del Canal, por los lineamientos administrativos, políticas internas de orden general y programas de trabajo que apruebe este H. Congreso.
 
-II. Para la realización de su objeto, el Canal de Televisión del Congreso contará con el presupuesto que este Congreso le asigne y que será acorde a las necesidades del Canal, para asegurar la transmisión y la calidad de los contenidos.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+II. Para la realización de su objeto, el Canal de Radio y Televisión del Congreso contará con el presupuesto que este Congreso le asigne y que será acorde a las necesidades del Canal, para asegurar la transmisión y la calidad de los contenidos.
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2021)</small>
 
 III. El presupuesto a que se hace referencia en la fracción anterior, será aportados por este H. Congreso en los términos que se determinen en el anexo del Decreto del Presupuesto de Egresos del Estado que le corresponde al Poder Legislativo, y deberán ser ejercidos de manera mensual a través de la Secretaria de Administración y Finanzas, para el funcionamiento del Canal.
 
-IV. El Canal del Congreso, podrá recibir por concepto de cuotas, aportaciones o donativos de los usuarios de sus servicios o de los que deriven de los convenios suscritos con dependencias y organismos del sector público o privado.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2023)</small>
+
+IV. El Canal de Radio y Televisión del Congreso podrá recibir por concepto de cuotas, aportaciones o donativos de los usuarios de sus servicios o de los que deriven de los convenios suscritos con dependencias y organismos del sector público o privado.
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2021)</small>
 
 V. Establecer convenios de colaboración y coordinación con las dependencias y entidades del Estado y de la Federación, para efectos de su buen funcionamiento.
 
-> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2023)</small>
 
-ARTÍCULO 361 QUINQUIES. El órgano superior del Canal de Televisión del Congreso será la Junta de Coordinación Política.
+ARTÍCULO 361 QUINQUIES. El Órgano superior de Gobierno del Canal de Radio y Televisión del Congreso será la Junta de Coordinación Política.
 
 ### CAPÍTULO SEGUNDO. DE LA GACETA PARLAMENTARIA
 
@@ -4752,3 +4762,15 @@ P.O. 19 DE JULIO DE 2022.
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO. Publíquese en el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales en internet.
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 260 POR EL QUE SE REFORMAN LA FRACCIÓN V DEL ARTÍCULO 198, LA FRACCIÓN XI DEL ARTÍCULO 202, LOS ARTÍCULOS 361 BIS, 361 TER, 361 QUATER Y SUS FRACCIONES II Y IV Y 361 QUINQUES, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO PRIMERO BIS DEL TÍTULO NOVENO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno del Congreso del Estado de Guerrero.
+
+SEGUNDO. El presupuesto para el funcionamiento oficial de la Radio de (sic) Congreso del estado, se elaborará y aprobará para el ejercicio fiscal 2023.
+
+TERCERO. En tanto no se otorguen las licencias de autorización para el funcionamiento de la radio del Congreso del Estado, a través de la Unidad de Concesiones y Servicios del Instituto Federal de Telecomunicaciones del Gobierno de la República, esta operara con sistemas digitales de comunicación.
+
+CUARTO. Publíquese en el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales en internet.
