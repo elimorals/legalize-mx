@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-de-informacion-estadistica-y-96852"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-12-07"
-last_updated: "2022-02-17"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 7 de diciembre de 2013.
 
@@ -237,21 +237,37 @@ La Junta de Gobierno se integra por:
 
 I. El Secretario General de Gobierno o quien determine el Gobernador del Estado, quien la presidirá;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE MAYO DE 2023)</small>
 
-II. El titular de las siguientes dependencias o a quien éste designe:
+II. Las personas titulares de las siguientes dependencias o a quien las mismas designen:
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2019)</small>
 
 a) Secretaría de Desarrollo Económico;
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
 b) Secretaría de Medio Ambiente y Desarrollo Territorial;
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2019)</small>
 
 c) Secretaría del Sistema de Asistencia Social;
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
 d) Secretaría de Innovación, Ciencia y Tecnología;
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2019)</small>
 
 e) Secretaría de Planeación y Participación Ciudadana;
 
-f) Secretaría de Infraestructura y Obra Pública;
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2023)</small>
+
+f) Secretaría de Infraestructura y Obra Pública; y
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2023)</small>
+
+g) Secretaría de la Hacienda Pública;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
 
@@ -578,3 +594,9 @@ P.O. 17 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28729/LXIII QUE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 15 DE LA LEY ORGÁNICA DEL INSTITUTO DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación, en el periódico oficial "El Estado de Jalisco".
+
+P.O. 23 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO (SIC) NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
